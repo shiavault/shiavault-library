@@ -109,4 +109,3 @@ al-Amali).
 [^5]: Quoted from Bihar ul-Anwar; Kitab ul-Ashara, 188, as quoted from
 Thawab ul-A’mal.
 
-

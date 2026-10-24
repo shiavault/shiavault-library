@@ -334,9 +334,7 @@ superficial
 similarity phenomena and events have should not be mistaken. As the Holy
 Qur’an says,
 
-<p dir="rtl">
 يسئله من فی السموات و الارض کل يوم هو فی شان
-</p>
 
 ***“Whatsoever is in the heavens and the earth implore Him; every day He
 is upon some labor.”( 55:29)***
@@ -351,16 +349,12 @@ The problem here is that Islam sees all human beings as respectable in
 nature, and all humans moving on the path to perfection and development
 are brothers.
 
-<p dir="rtl">
 المومنون کاعضا جسد واحد اذ اشتکی منه عضو اشتکی منه الاخر
-</p>
 
 *God's relationship with his creations is not a master-servant one. as
 the Qur’an says:*
 
-<p dir="rtl">
 نحن اقزب اليه من حبل الوريد
-</p>
 
 ***“God is closer to man than even his veins.”***
 
@@ -409,10 +403,8 @@ reason. Secondly, if there is no ultimate reason for the universe, all
 moral ethics and values are nothing but hallucinations; as the Iranian
 poet Nasser Khusro says:
 
-<p dir="rtl">
 روزگار و چرخ و انجم سربه سر بازيستی گرنـه اين روز دراز دهـــر را
 فرداستی
-</p>
 
 *(All this world and time and the stars are ultimately mortal; someday,
 all this will come to an end, and the real world will be revealed.)*
@@ -513,9 +505,7 @@ for moral ethics mean the activation and flourish of man's positive
 potentials, and moral values can adjust man's social life. As the Holy
 Prophet of Islam has described his mission:
 
-<p dir="rtl">
 بعثت لاتمم مکارم الاخلاق
-</p>
 
 *“I have been sent to complete moral virtues.”*
 
@@ -814,5 +804,4 @@ was occupied
 His actions were so effective that in Umar ibn Abdul-aziz's era, slavery
 had vanished from Islamic lands, and the budget for freeing slaves was
 spent on freeing non-Muslim slaves, e.g. in Africa.
-
 

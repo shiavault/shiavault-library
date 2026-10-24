@@ -1,26 +1,16 @@
 The Fourth Talk
 ===============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
-رَبِّ أَن يَحْضُرُونِ
-  </p>
-</blockquote>
+> وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
+> رَبِّ أَن يَحْضُرُونِ
 
 ***Say thou: ‘O my Lord! I seek refuge unto Thee from the (evil)
 promptings of the satans! I seek refuge unto Thee O my Lord from their
 access to me. (Sura al-Muminun, 23:97-98)***
-
-
 
 The only way to safety from Satan is Isti’adha]
 -----------------------------------------------
@@ -59,12 +49,8 @@ Therefore, it is absolutely necessary to seek Allah (S.w.T.)’s
 protection that with His attention one can get protection from the
 mischief of Satan. In this regard the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
-رَبِّ أَن يَحْضُرُونِ
-  </p>
-</blockquote>
+> وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
+> رَبِّ أَن يَحْضُرُونِ
 
 ***And say: ‘O my Lord! I seek refuge in Thee from the evil suggestions
 of the Shaitans; And I seek refuge in Thee! O my Lord from their
@@ -117,7 +103,6 @@ and spirit. These persons will be fully aware of the Greatness and
 Omnipotence of Allah (S.w.T.). The *Isti’adha* of these persons will
 always get the accepted by Allah (S.w.T.).
 
-
 Seeking protection in Allah (S.w.T.)’s obedience
 ------------------------------------------------
 
@@ -138,7 +123,6 @@ actions are all contrary to His Commandments. When the curtains of
 ignorance are raised from the hearts of such persons, they realize that
 all the time it was Satan who prompted them to utter the words *audhu
 billah* to ridicule their weak faith!
-
 
 A satanic book to refute Satan
 ------------------------------
@@ -219,7 +203,6 @@ and keep shouting for help. Similar is the reality of *Isti’adha.* It is
 seeking Allah (S.w.T.)’s succor against Satan in His strong
 fortification!
 
-
 A true dream and Satan’s treachery
 ----------------------------------
 
@@ -256,8 +239,6 @@ managed to free himself and escaped.” The person asked, “Which one of
 the bridles is for me?” Satan replied, “For you there is no need of a
 bridle. You can become my victim only with my sweet talk!”
 
-
 [^1]: This incidence is quoted from the biography of the Shaikh Ansari,
 ‘Seerat wa Shakhsiyat’ pages 88-89.
-
 

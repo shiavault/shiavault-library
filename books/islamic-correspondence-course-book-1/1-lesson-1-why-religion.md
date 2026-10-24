@@ -165,4 +165,3 @@ The oppression of a tyrant ruler is not predestined by God. This leaves
 no room for the tyrant rulers and oppressors to say that the masses have
 been predestined for serving the ruling class.
 
-

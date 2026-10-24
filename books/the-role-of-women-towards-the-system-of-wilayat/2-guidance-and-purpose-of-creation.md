@@ -1,12 +1,8 @@
 Guidance and Purpose of Creation
 ================================
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***"Only Allah is your Vali and His Messenger and those who believe,
 those who keep up prayers and pay the poor-rate while they bow"(Surah
@@ -102,5 +98,4 @@ The scale of nearness will be on the basis of number of qualities he
 possesses in his self. This stage of extreme possible nearness is called
 Liqaullah (meeting with Allah), where a human being becomes a "perfect"
 human being.
-
 

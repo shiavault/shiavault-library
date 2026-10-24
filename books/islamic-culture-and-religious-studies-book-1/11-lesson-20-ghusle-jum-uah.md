@@ -85,7 +85,6 @@ concerning this Ghusl?
 3. How should one prepare to attend Salatul Jum'uah? Quote any hadith
 you know of regarding your answers.
 
-
 **LESSON 21 : HOW SHOULD WE PRAY?**
 
 Salaat (Prayer) is one of the most profound acts of worship. It is the
@@ -218,5 +217,4 @@ midnight.
 1. Between what times do we pray Fajr prayers?
 2. From what time to what time do we pray Dhohr and Asr prayers?
 3. When do we perform the Maghrib and Isha prayers?
-
 

@@ -32,4 +32,3 @@ Imam Ali al-Rida (a.s.) said: *“The generous are near to Allah, near to
 people, and near to paradise. The niggardly are far from Allah, far from
 people, and far from paradise.”*
 
-

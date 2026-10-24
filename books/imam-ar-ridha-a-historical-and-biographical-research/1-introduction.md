@@ -120,4 +120,3 @@ be placed in a cylinder and it was built up on him while he was still
 alive; thus, he died inside it." Maqatil al-Talibiyyin, p. 136,
 indicates likewise.
 
-

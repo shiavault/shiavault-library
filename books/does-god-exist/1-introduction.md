@@ -132,4 +132,3 @@ It's simply cause and effect. In our search for proof of God's
 existence, let's examine the various scientific and mathematical
 realities in our world. Let's look at the evidence now!
 
-

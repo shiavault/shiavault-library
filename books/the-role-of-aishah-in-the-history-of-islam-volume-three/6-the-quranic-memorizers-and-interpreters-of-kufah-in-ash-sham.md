@@ -102,7 +102,6 @@ and inform them of divine injunctions, in which case Mu'awiyah could no
 longer carry on his selfish life in the manner of the tyrants of the
 time, like Caesars and Kasras.
 
-
 **Mu'awiyah after 'Uthman**
 
 God forbid that I should lake the perverse as my aids.
@@ -426,5 +425,4 @@ al-Ashtar said: "If he agrees to this, I, too, am satisfied."
 The clamor rose from every side: "the commander of the faithful has
 agreed! He has agreed!" Imam had retreated in deeper ponder remained
 silent, not uttering a word.(145)
-
 

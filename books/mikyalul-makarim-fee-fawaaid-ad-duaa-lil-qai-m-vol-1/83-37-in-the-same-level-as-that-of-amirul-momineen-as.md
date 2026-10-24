@@ -59,4 +59,3 @@ open for him.”[^2]
 
 [^2]: Amali, Sadooq, Vol. 1, Pg. 274, Gathering no. 54, Beirut
 
-

@@ -1,18 +1,14 @@
 Part 2
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ
-وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ. يَا
-أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ
-النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ
-لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ. إِنَّ
-الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُوْلَئِكَ
-الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ مَغْفِرَةٌ
-وَأَجْرٌ عَظِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ
+> وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ. يَا
+> أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ
+> النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ
+> لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ. إِنَّ
+> الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُوْلَئِكَ
+> الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ مَغْفِرَةٌ
+> وَأَجْرٌ عَظِيمٌ.﴾
 
 ***“O you who believe! Be not forward in the presence of Allah and His
 Apostle, and be careful of (your duty to) Allah; surely Allah is
@@ -187,12 +183,8 @@ It is what you yourselves are saying. It is unlawful. Have you not seen
 that when someone tries to kiss the shrine of the Prophet of God, he is
 whipped? After all what is the source of such prohibition?
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ
-وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ
+> وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ.﴾
 
 ***O you who believe! Be not forward in the presence of Allah and His
 Apostle, and be careful of (your duty to) Allah; surely Allah is
@@ -227,11 +219,7 @@ It is time for prayer. He says: I have other work. Is the prayer not
 work? Put God’s work behind and the work of your desire and passion
 ahead!
 
-<blockquote dir="rtl">
-  <p>
-﴿لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ وَرَسُولِهِ… ﴾
-  </p>
-</blockquote>
+> ﴿لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ وَرَسُولِهِ… ﴾
 
 ***Be not forward in the presence of Allah and His Apostle…***
 
@@ -293,12 +281,8 @@ Do not raise your voice higher than the voice of Prophet
 
 Another law of discipline ordained for you:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ
-صَوْتِ النَّبِيِّ… ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ
+> صَوْتِ النَّبِيِّ… ﴾
 
 ***O you who believe! Do not raise your voices above the voice of the
 Prophet. (49:2)***
@@ -310,11 +294,7 @@ that Muhammad is not a common man. His holy heart is the place where
 Divine Revelation pours. He is the light (Noor) of God. He is the
 Messenger of God. How great is God. Muhammad is His representative.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ… ﴾
-  </p>
-</blockquote>
+> ﴿وَلا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ… ﴾
 
 ***And do not speak loud to him as you speak loud to one another…
 (49:2)***
@@ -323,11 +303,7 @@ You are sitting near Muhammad. It is a spiritual gathering. Keep quiet.
 Your voice should be low. Do not talk loudly with him, just as you talk
 with one another.
 
-<blockquote dir="rtl">
-  <p>
-﴿أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ﴾
-  </p>
-</blockquote>
+> ﴿أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ﴾
 
 ***…lest your deeds became null while you do not perceive. (49:2)***
 
@@ -370,12 +346,8 @@ Sign of Piety in heart is discipline
 
 Then He says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
-أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ
+> أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى.﴾
 
 ***Surely those who lower their voices before Allah’s Apostle are they
 whose hearts Allah has tested for guarding (against evil)… (49:3)***
@@ -429,11 +401,7 @@ that respect must be kept in mind both at the Sanctuaries of the Holy
 Prophet and Shrines of the holy Imams. Do not make any noise there. Do
 not talk or call out loudly.
 
-<blockquote dir="rtl">
-  <p>
-﴿لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ﴾
 
 ***…they shall have forgiveness and a great reward. (49:3)***
 
@@ -479,11 +447,7 @@ all this, I said, “O Alid lady. Dust on my head. It should have been I
 to tremble, not you. I must be afraid. So I withdrew. I went back and
 gave first place to the command of God.”
 
-<blockquote dir="rtl">
-  <p>
-﴿لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ وَرَسُولِهِ… ﴾
-  </p>
-</blockquote>
+> ﴿لا تُقَدِّمُوا بَيْنَ يَدَيْ اللَّهِ وَرَسُولِهِ… ﴾
 
 ***…be not forward in the presence of Allah and His Apostle…***
 
@@ -595,5 +559,4 @@ and children. I tell you that these women are burning due to thirst.”
 [^2]: Kamiluz Ziaraat Chapter 59
 
 [^3]: A descendant of Ali Ibn Abi Talib
-
 

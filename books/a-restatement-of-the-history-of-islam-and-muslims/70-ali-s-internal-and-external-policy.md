@@ -524,4 +524,3 @@ the battle of Siffin. It was this resentment which was so deftly
 exploited by Muawiya that it broke out as mutiny, and Ali was compelled
 to call off the battle which he had almost won.
 
-

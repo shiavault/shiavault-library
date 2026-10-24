@@ -18,4 +18,3 @@ willing to sacrifice equality and freedom for the fullest resolution of
 this value. Therefore, it has rightly been concluded that the concept of
 justice is not amenable to rational determination.
 
-

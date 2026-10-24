@@ -47,11 +47,7 @@ God.
 
 In this regard, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَ ما كانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلاّ بِإِذْنِ اللّهِ
-  </p>
-</blockquote>
+> وَ ما كانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلاّ بِإِذْنِ اللّهِ
 
 ***“And an apostle may not bring a sign except by Allah’s leave.”***[^1]
 
@@ -71,12 +67,8 @@ God, have such extraordinary power. Below are some instances:
 God, the Exalted, ordered His prophet, Musa (*‘a*), to strike a rock
 with his staff and fountains of refreshing water gushed forth:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِب بِّعَصَاكَ
-الْحَجَرَ فَانفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِب بِّعَصَاكَ
+> الْحَجَرَ فَانفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً ﴾
 
 ***“And when Moses prayed for water for his people, We said, ‘Strike the
 rock with your staff.’ Thereat twelve fountains gushed forth from
@@ -87,13 +79,9 @@ it.”***[^2]
 Various instances of the supernatural power of Hadrat ‘Isa (*‘a*) are
 mentioned in the Qur’an, one of which is the following:
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي أَخْلُقُ لَكُم مِّنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ فَأَنفُخُ
-فِيهِ فَيَكُونُ طَيْرًا بِإِذْنِ اللّهِ وَأُبْرِئُ الأكْمَهَ
-والأَبْرَصَ وَأُحْيِـي الْمَوْتَىٰ بِإِذْنِ اللّهِ
-  </p>
-</blockquote>
+> أَنِّي أَخْلُقُ لَكُم مِّنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ فَأَنفُخُ
+> فِيهِ فَيَكُونُ طَيْرًا بِإِذْنِ اللّهِ وَأُبْرِئُ الأكْمَهَ
+> والأَبْرَصَ وَأُحْيِـي الْمَوْتَىٰ بِإِذْنِ اللّهِ
 
 ***“I will create for you out of clay the form of a bird, then I will
 breathe into it, and it will become a bird by Allah’s leave. And I heal
@@ -104,13 +92,9 @@ the blind and the leper and revive the dead by Allah’s leave.”***[^3]
 The Glorious Qur’an points to the supernatural power of Hadrat Sulayman
 (*‘a*) and states:
 
-<blockquote dir="rtl">
-  <p>
-وَوَرِثَ سُلَيْمَانُ دَاوُودَ وَقَالَ يَا أَيُّهَا النَّاسُ عُلِّمْنَا
-مَنطِقَ الطَّيْرِ وَأُوتِينَا مِن كُلِّ شَيْءٍ إِنَّ هَذَا لَهُوَ
-الْفَضْلُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَوَرِثَ سُلَيْمَانُ دَاوُودَ وَقَالَ يَا أَيُّهَا النَّاسُ عُلِّمْنَا
+> مَنطِقَ الطَّيْرِ وَأُوتِينَا مِن كُلِّ شَيْءٍ إِنَّ هَذَا لَهُوَ
+> الْفَضْلُ الْمُبِينُ
 
 ***“Solomon inherited from David, and he said, ‘O people! We have been
 taught the speech of the birds, and we have been given out of
@@ -155,5 +139,4 @@ every movement.
 [^3]: Surah Al ‘Imran 3:49.
 
 [^4]: Surah an-Naml 27:16.
-
 

@@ -354,4 +354,3 @@ freedom is mentioned it is sometimes bound with responsibility, referred
 to as "responsible freedom": or within the limits of law, so that it may
 not be converted into repugnant courses.
 
-

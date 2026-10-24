@@ -425,4 +425,3 @@ from his faith and whatever he needs to attain his high goals.
 
 [^5]: Ibid., p. 230.
 
-

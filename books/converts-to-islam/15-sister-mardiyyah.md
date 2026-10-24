@@ -86,7 +86,7 @@ married for twenty-eight years by now but still didnt really know what
 my husbands beliefs were or how any of my family would react.
 
 Imagine my horror therefore and I am sorry to say the anger I felt when
-I came back from lunch on 11<sup>th</sup> September to be confronted
+I came back from lunch on 11th September to be confronted
 with pictures on the Internet of the planes flying into
 
 the world trade centre. Over the next few days and weeks I would hear

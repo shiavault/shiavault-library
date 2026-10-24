@@ -29,4 +29,3 @@ ungodly man has indeed broken off her connection with her kindred."
 
 Al-Muhajjat-ul-Bayda, vol. 3, p. 94
 
-

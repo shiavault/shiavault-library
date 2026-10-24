@@ -59,4 +59,3 @@ this world on the Last Day.”[^5]
 
 [^5]: A‘lam al-Din, 371
 
-

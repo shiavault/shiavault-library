@@ -10,10 +10,5 @@ rules govern our interaction with each other, it is a requirement that
 we become familiar with how we should carry ourselves when around
 members of the same sex and more importantly, those of the opposite sex.
 
-<blockquote dir="rtl">
-  <p>
-و سلام عليكم و رحمة الله و بركاته
-  </p>
-</blockquote>
-
+> و سلام عليكم و رحمة الله و بركاته
 

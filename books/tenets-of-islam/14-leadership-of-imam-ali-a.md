@@ -12,4 +12,3 @@ occasion the Holy Prophet said: “This Ali is the master of him whose
 master I am. May Allah be friendly to him who is friendly to Ali and be
 hostile to him who is hostile to Ali.”
 
-

@@ -788,4 +788,3 @@ benevolence and have acquired popularity and an immaculate respect from
 the people. Finally, they have gained the satisfaction of the Almighty
 Allah and the everlasting prosperity at the lowest cost.
 
-

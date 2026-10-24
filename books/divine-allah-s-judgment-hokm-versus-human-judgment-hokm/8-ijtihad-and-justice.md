@@ -52,4 +52,3 @@ without knowledge
 7- Abiding by Allah’s commands and the Sunnah of the Prophet (SA) and
 the Infallible Imams from the purified AhlulBayt (AS).
 
-

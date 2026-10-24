@@ -1717,4 +1717,3 @@ precondition for the solution of the problem.
 
 [^22]: See Our Economy, p. 808.
 
-

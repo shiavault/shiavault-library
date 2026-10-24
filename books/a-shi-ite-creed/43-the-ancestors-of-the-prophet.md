@@ -29,4 +29,3 @@ Later, however, perhaps on account of Shi'itic influence, this attitude
 was abandoned, MC, 239-240; KP, 31,84. For Abu Talib, see Donaldson, 5,
 n.2.
 
-

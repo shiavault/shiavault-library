@@ -66,4 +66,3 @@ on hunting remains, as a matter of precaution, till the zawaal of the
 thirteenth [of Thil Hijjah]. Cutting of trees and grass, and hunting in
 the Haram is forbidden anyway as has already been stated.
 
-

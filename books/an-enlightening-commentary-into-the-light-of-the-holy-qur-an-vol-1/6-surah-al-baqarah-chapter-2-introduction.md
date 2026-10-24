@@ -1,11 +1,7 @@
 Surah Al-Baqarah, Chapter 2, Introduction
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -161,5 +157,4 @@ vol. 1, p. 36).
 32
 
 [^4]: Al-Burhan Fi Tafsir-il-Qur'an, vol. I, p. 52
-
 

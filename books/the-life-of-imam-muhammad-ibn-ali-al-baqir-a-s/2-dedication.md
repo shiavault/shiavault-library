@@ -16,4 +16,3 @@ your religion and enlivened your practices (sunna).*
 and be kind to me through your pleasure. So, it will be my provision on
 the day when I meet Allah.*
 
-

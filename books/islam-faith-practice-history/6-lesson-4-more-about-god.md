@@ -314,4 +314,3 @@ only change the form, shape or size of things to suit his needs.
  Explain the difference between us as the creator of our imagination and
 God as the Creator of this universe.
 
-

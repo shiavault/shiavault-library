@@ -32,4 +32,3 @@ received.
 *World Federation of KSI Muslim Communities.*  
  Shabaan, 15, 1419/December, 4, 1998
 
-

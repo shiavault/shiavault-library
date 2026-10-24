@@ -191,11 +191,7 @@ Above all of this, those who are being spoken to in this Surah are those
 that possess true faith (Mu’minun), just as we see that Allah (Glorified
 and Exalted is He) has started out this Surah with the phrase:
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ آمَنُوا
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ آمَنُوا
 
 ***“O’ you who have true faith!”***
 
@@ -214,5 +210,4 @@ This is so because the condition that is used to judge whether a verse
 is Madani is if it was revealed after the migration to Madinah. It is by
 observing this definition that we have given the above classification
 (in relation to the place of revelation).
-
 

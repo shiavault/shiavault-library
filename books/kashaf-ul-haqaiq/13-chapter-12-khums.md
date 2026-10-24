@@ -36,11 +36,9 @@ Holy Prophet (s.a.w.) separate from the rest of the Ummah so that they
 should be kept away from the dirt and filth of the people and that no
 one would have the audacity to equate himself to them (a.s.).
 
-<p dir="rtl">
 يَسْأَلُونَكَ عَنِ الأَنفَالِ قُلِ الأَنفَالُ لِلّهِ وَالرَّسُولِ
 فَاتَّقُواْ اللّهَ وَأَصْلِحُواْ ذَاتَ بِيْنِكُمْ وَأَطِيعُواْ اللّهَ
 وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ
-</p>
 
 [Shakir 8:1] They ask you about the windfalls. Say: The windfalls are
 for Allah and the Messenger. So be careful of (your duty to) Allah and
@@ -58,13 +56,11 @@ it. After him (s.a.w.) it belongs to the Holy Imams (a.s.)’. It has also
 been narrated in Al Kafi that when a person dies without inheritors then
 his wealth is also Anfaal.
 
-<p dir="rtl">
 وَاعْلَمُواْ أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلّهِ خُمُسَهُ
 وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
 السَّبِيلِ إِن كُنتُمْ آمَنتُمْ بِاللّهِ وَمَا أَنزَلْنَا عَلَى
 عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ وَاللّهُ
 عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-</p>
 
 [Shakir 8:41] And know that whatever thing you gain, a fifth of it is
 for Allah and for the Messenger and for the near of kin and the orphans
@@ -88,10 +84,8 @@ Al Tahzeeb Imam Ja’far Al Sadiq (a.s.) has been reported to have said:
 travellers are the ones from the progeny of the Holy Prophet (s.a.w.).
 And so khums cannot reach anyone apart from these’.
 
-<p dir="rtl">
 وَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلاَ
 تُبَذِّرْ تَبْذِيرًا
-</p>
 
 [Shakir 17:26] And give to the near of kin his due and (to) the needy
 and the wayfarer, and do not squander wastefully.
@@ -102,11 +96,9 @@ has specially been revealed for Lady Fatimah Zahra (a.s.). The Holy
 Prophet (s.a.w.) had reserved the garden of Fidak for her (a.s.). The
 poor and travellers mentioned here are the one from her (a.s.) progeny.
 
-<p dir="rtl">
 فَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ذَلِكَ
 خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ وَأُوْلَئِكَ هُمُ
 الْمُفْلِحُونَ
-</p>
 
 [Shakir 30:38] Then give to the near of kin his due, and to the needy
 and the wayfarer; this is best for those who desire Allah's pleasure,
@@ -117,13 +109,11 @@ and Imam Ja’far Al Sadiq (a.s.) that when this verse was revealed, the
 Holy Prophet (s.a.w.) gave the garden of fidak to Lady Fatima Zahra
 (a.s.) and gave her the control of it.
 
-<p dir="rtl">
 مَّا أَفَاء اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ
 وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
 السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاء مِنكُمْ وَمَا
 آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
 وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-</p>
 
 [Shakir 59:7] Whatever Allah has restored to His Messenger from the
 people of the towns, it is for Allah and for the Messenger, and for the
@@ -505,10 +495,8 @@ of the Holy Infallibles (a.s.) that khums is the right of the Holy Imam
 (a.s.) and no one else. No one else has the right to have this right
 vested in himself.
 
-<p dir="rtl">
 مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
 وَلَهُ أَجْرٌ كَرِيمٌ
-</p>
 
 [Shakir 57:11] Who is there that will offer to Allah a good gift so He
 will double it for him, and he shall have an excellent reward.
@@ -526,13 +514,11 @@ anyhow. The Holy Quran also testifies that in history in the period of
 the olden people it has been the custom that the priests have taken
 control of the wealth of the people.
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّ كَثِيراً مِّنَ الأَحْبَارِ
 وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ
 وَيَصُدُّونَ عَن سَبِيلِ اللّهِ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ
 وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي سَبِيلِ اللّهِ فَبَشِّرْهُم
 بِعَذَابٍ أَلِيمٍ
-</p>
 
 [Shakir 9:34] O you who believe! most surely many of the doctors of law
 and the monks eat away the property of men falsely, and turn (them) from
@@ -567,12 +553,10 @@ and who to withhold it from.
 After all this discussion you should also consider what will be the fate
 of those that usurp the rights of the Imams (a.s.).
 
-<p dir="rtl">
 سَمَّاعُونَ لِلْكَذِبِ أَكَّالُونَ لِلسُّحْتِ فَإِن جَآؤُوكَ فَاحْكُم
 بَيْنَهُم أَوْ أَعْرِضْ عَنْهُمْ وَإِن تُعْرِضْ عَنْهُمْ فَلَن
 يَضُرُّوكَ شَيْئًا وَإِنْ حَكَمْتَ فَاحْكُم بَيْنَهُمْ بِالْقِسْطِ إِنَّ
 اللّهَ يُحِبُّ الْمُقْسِطِينَ
-</p>
 
 [Shakir 5:42] (They are) listeners of a lie, devourers of what is
 forbidden; therefore if they come to you, judge between them or turn
@@ -608,12 +592,10 @@ Whoever is unjust to us he will be with those who have done injustice to
 us in the past and they have been cursed by Allah (s.w.t.). And so Allah
 (s.w.t.) has said: ‘The curse of Allah is on the unjust’’.
 
-<p dir="rtl">
 وَنَادَى أَصْحَابُ الْجَنَّةِ أَصْحَابَ النَّارِ أَن قَدْ وَجَدْنَا مَا
 وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا
 قَالُواْ نَعَمْ فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَن لَّعْنَةُ اللّهِ
 عَلَى الظَّالِمِينَ
-</p>
 
 [Shakir 7:44] And the dwellers of the garden will call out to the
 inmates of the fire: Surely we have found what our Lord promised us to
@@ -761,5 +743,4 @@ The solution to the problem has now been clarified for you and the
 statements of ‘All the Muhammads’ have been presented to you above. If
 somebody has a hobby of disobeying the Holy Infallibles (a.s.) and waste
 his wealth, then he is welcome to participate in this hobby of his.
-
 

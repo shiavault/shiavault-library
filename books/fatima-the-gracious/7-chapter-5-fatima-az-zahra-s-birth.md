@@ -165,4 +165,3 @@ This was also stated by Ibn Kathir in Al-Bidayah wan-Nihayah.
 
 [^1]: The above mentioned narrations were recorded in Bihar: v.10.
 
-

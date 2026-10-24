@@ -388,4 +388,3 @@ of Divine religion is called the ‘Great Imam (r.a.)’.
 [^8]: Kitab Mankhool, Imam Ghazzali with reference to Istiqsaaul Afham,
 Vol. 2, Pg. 199-201
 
-

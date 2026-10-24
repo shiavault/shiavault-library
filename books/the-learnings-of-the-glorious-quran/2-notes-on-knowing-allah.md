@@ -775,4 +775,3 @@ This is the refutation of their excuse. Hence, this ayah says that
 Allah is known, through intuitive and visionary knowledge, to be the
 Creator of the world and the only worshipped deity.
 
-

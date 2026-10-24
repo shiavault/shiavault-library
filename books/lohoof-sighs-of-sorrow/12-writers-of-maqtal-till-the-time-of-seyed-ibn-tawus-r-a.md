@@ -191,4 +191,3 @@ in the name of Tibrâni.
 book Malhoof Ala Qatli at-Tafoof is his work. He has also written
 Al-masra as-sheen fee Qatl al-Hussain (a.s.).
 
-

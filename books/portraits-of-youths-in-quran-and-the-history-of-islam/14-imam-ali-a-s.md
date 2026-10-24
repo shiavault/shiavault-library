@@ -273,7 +273,7 @@ and Allah is Affectionate to the servants.*[1]
 [1] See *Usdul Ghabah,* Ibn Athir, Vol. 4, Pg.25, *Mustadrak,* Nishapuri
 Vol. 3, Pg. 4, *Musnad,* Ahmed bin Hanbal,Vol. 1, Pg. 341
 
-The 25 year old hero of the <span style="mso-bookmark:_Toc109315469"> Battle <span style="mso-bookmark:_Toc109315469"> of Badr</span></span>
+The 25 year old hero of the  Battle  of Badr
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 The first and the greatest confrontation of Islam with blasphemy is the
@@ -775,7 +775,7 @@ perform the Optional
 [1] *Tarikh,* Tabari, *Tarikh,* Ibn Athir,Ibn Abil Hadid, *A'laamul
 Waraa, Majmaul Bayan*, Tabarsi. [2] *Irshad* of Mufid
 
-Pilgrimage (Umrah) with a large number of Muslims in the 6<sup>th</sup>
+Pilgrimage (Umrah) with a large number of Muslims in the 6th
 year of the Hijri era (after migration to Medina ).
 
 When they reached a place called Hudaibiyah, Suhail ibn Amr, a deputy of
@@ -850,7 +850,7 @@ could attack the Muslims.
 
 There was a ditch dug all around Khyber. So Muslims surrounded it and
 camped outside Khyber for about three weeks. The famous historian,
-Waqidi, has written that this event took place in the 7<sup>th</sup>
+Waqidi, has written that this event took place in the 7th
 year of the Hijri era. About 14000 Jews were living in Khyber, which is
 situated at a distance of 16 Farsakhs (nearly 96 Kilometers) from Medina
 on the road to Syria . (It should be noted that a sufficient number of
@@ -951,7 +951,7 @@ again.[1]
 Valor of Ali (a.s)
 ------------------
 
-Mecca was conquered in the 8<sup>th</sup> year of the Hijri era. Eight
+Mecca was conquered in the 8th year of the Hijri era. Eight
 years after the Holy Prophet's migration to Medina when Muhammad
 (s.a.w.s.) entered Mecca with a 12000-strong army, the Meccans, without
 any ado, threw away their weapons and declared faith in Islam before the
@@ -981,7 +981,7 @@ honor of His Messenger."
 Only Ali was entitled to propagate
 ----------------------------------
 
-Surah Barat was revealed in the 9<sup>th</sup> year of the Hijri era.
+Surah Barat was revealed in the 9th year of the Hijri era.
 The Holy Prophet (s.a.w.s.) handed over this Surah to Abu Bakr and asked
 him to proceed to Mecca and read it out to the Hajj pilgrims. It should
 be remembered that, till then the polytheists also were joining the Hajj
@@ -1022,7 +1022,7 @@ circumambulating the Ka'ba.[2]
 Ali-Soul of the Prophet-Self of the Messenger
 ---------------------------------------------
 
-It was in the 9<sup>th</sup> year of Hijri era when a group of Christian
+It was in the 9th year of Hijri era when a group of Christian
 priests from Najran came to Medina to have a dialogue with the Holy
 Prophet (s.a.w.s.) with regard to the truth of the Holy Prophet's
 messengership in the light of their own

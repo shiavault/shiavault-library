@@ -62,4 +62,3 @@ al-hudāt, vol. 6, chap. 32, p. 453, no. 208.
 [^6]: Kamāl al-dīn, vol. 2, chap. 44, p. 480, no. 3; Ithbāt al-hudāt,
 vol. 6, chap. 32, p. 436, no. 209.
 
-

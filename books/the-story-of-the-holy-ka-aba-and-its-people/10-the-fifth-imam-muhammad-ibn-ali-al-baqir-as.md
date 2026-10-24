@@ -282,4 +282,3 @@ merit you acquired without having to tire yourself in obtaining it.”*
 Our 5th Imam was succeeded by his son Ja’far Ibn Muhammad el- Sadiq (as)
 as the 6th Imam.
 
-

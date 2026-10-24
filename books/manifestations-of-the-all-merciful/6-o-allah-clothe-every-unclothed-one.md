@@ -1,11 +1,7 @@
 O Allāh, Clothe Every Unclothed One
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اكْسُ كُلَّ عُرْيَانٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اكْسُ كُلَّ عُرْيَانٍ
 
 The Aim of Human Creation
 -------------------------
@@ -22,11 +18,7 @@ than *‘ibādah* (obedience and worship). The following verse explains it:
 
 In chapter 51, verse 56, Almighty Allāh says:
 
-<blockquote dir="rtl">
-  <p>
- وَمَا خَلَقْتُ الْجِنَّ وَالإِنْسَ إِلاَّ لِيَعْبُدُونِ 
-  </p>
-</blockquote>
+>  وَمَا خَلَقْتُ الْجِنَّ وَالإِنْسَ إِلاَّ لِيَعْبُدُونِ 
 
 ***“And I have not created the jinn and men except that they should
 worship Me.”***
@@ -35,11 +27,7 @@ Here, the aim is indicated as Allāh’s Worship. But is it the ‘final aim
 of creation?’ To answer this we should look at chapter 15, verse 99 of
 the Qur’ān, which says:
 
-<blockquote dir="rtl">
-  <p>
- وَاعْـبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ 
-  </p>
-</blockquote>
+>  وَاعْـبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ 
 
 ***“And worship your Lord until conviction comes to you.”***
 
@@ -51,21 +39,13 @@ ultimate goal of the human being:
 
 1. Imām ‘Alī (as) in his famous supplication of Kumayl cries:
 
-<blockquote dir="rtl">
-  <p>
-يَا غَايَةَ آمَالِ العَارِفِـينَ!
-  </p>
-</blockquote>
+> يَا غَايَةَ آمَالِ العَارِفِـينَ!
 
 “O the Ultimate Hope of the Gnostics.”
 
 2. And in the prayer of *‘Arafah*, Sayyid al-Shuhadā (as) cries:
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهِي: أُطْلُبْنِي بِرَحْمَتِكَ حَتّى أَصِلَ إِلَيْكَ.
-  </p>
-</blockquote>
+> إِلٌهِي: أُطْلُبْنِي بِرَحْمَتِكَ حَتّى أَصِلَ إِلَيْكَ.
 
 “O Allāh, Seek me by Your Mercy until I reach You.”
 
@@ -123,11 +103,7 @@ struggle only for the abundance of the means and have forgotten the
 goal. We would understand this reality when entering our graves. The
 Qur’ān [102: 1-2] says:
 
-<blockquote dir="rtl">
-  <p>
- أَلْهَاكُمُ التَّكَاثُرُ. حَتَّى زُرْتُمُ الْمَقَابِرَ 
-  </p>
-</blockquote>
+>  أَلْهَاكُمُ التَّكَاثُرُ. حَتَّى زُرْتُمُ الْمَقَابِرَ 
 
 ***“Competing for abundance has engaged you until you come to the
 graves.”***
@@ -146,12 +122,8 @@ contemplation:
 
 1. [Chapter al-Ā‘rāf -7:26]:
 
-<blockquote dir="rtl">
-  <p>
- يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي
-سَوْآتِكُمْ وَرِيشًا وَلِبَاسُ التَّقْوَى ذٌلِكَ خَيْرٌ... 
-  </p>
-</blockquote>
+>  يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي
+> سَوْآتِكُمْ وَرِيشًا وَلِبَاسُ التَّقْوَى ذٌلِكَ خَيْرٌ... 
 
 ***“O children of Adam, surely we have sent down for you clothing that
 covers your shame and an attire that causes beauty; and the attire of
@@ -161,12 +133,8 @@ piety; that is better…”***
 whenever a person would like to put on a new dress he should wipe his
 hand over it and say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي كَسَانِي مَا أُوَارِي بِهِ عَوْرَتِي
-وَأَتَجَمَّلُ بِهِ فِي النَّاسِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي كَسَانِي مَا أُوَارِي بِهِ عَوْرَتِي
+> وَأَتَجَمَّلُ بِهِ فِي النَّاسِ.
 
 “Praise belongs to Allāh who clothed me with what I cover my shame and
 beautify myself among the people.”
@@ -191,11 +159,7 @@ beautiful explanation about this. In order to indicate the gravity of
 the situation of ‘the pain’ that the human being experiences when his
 shameful deeds are displayed, he says:
 
-<blockquote dir="rtl">
-  <p>
-...إِلاَّ أَنَّ ظُهُورَ السَوْءَاتِ البَاطِنِيَّةِ أَشدُّ...
-  </p>
-</blockquote>
+> ...إِلاَّ أَنَّ ظُهُورَ السَوْءَاتِ البَاطِنِيَّةِ أَشدُّ...
 
 “…except that the pain experienced with the appearance of the inner
 blemishes is more intense…”
@@ -205,23 +169,15 @@ situation. Look at the verses below:
 
 1. Chapter al-Tāriq: - 86:9:
 
-<blockquote dir="rtl">
-  <p>
- يَوْمَ تُبْلـى السَّرَآئِرُ 
-  </p>
-</blockquote>
+>  يَوْمَ تُبْلـى السَّرَآئِرُ 
 
 ***“The day when the secrets shall be made manifest.”***
 
 2. Chapter Āli ‘Imrān - 3:30:
 
-<blockquote dir="rtl">
-  <p>
- يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
-بَعِيدًا...
-  </p>
-</blockquote>
+>  يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
+> بَعِيدًا...
 
 ***“On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and
@@ -229,11 +185,7 @@ that evil was a long distance…”***
 
 3. Chapter Āli ‘Imrān, 3:192:
 
-<blockquote dir="rtl">
-  <p>
- رَبَّـنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ 
-  </p>
-</blockquote>
+>  رَبَّـنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ 
 
 ***“O Lord, surely whomsoever you place in the Fire, you have indeed
 disgraced him…”***
@@ -269,5 +221,4 @@ inner selves with the attire of taqwā, so that we may acquire the worth
 to clothe others as well.
 
 [^1]: Hilyatu’l Muttaqīn, ch. 9
-
 

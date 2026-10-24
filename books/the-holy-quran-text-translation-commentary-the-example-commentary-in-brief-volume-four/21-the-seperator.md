@@ -549,11 +549,9 @@ and the best places of repose.''
 25- AND THE DAY WHEN THE SKY WITH CLOUD WILL SPLIT, AND ANGELS SHALL BE
 SENT DOWN SUCCESSIVELY.
 
-
 الْمُلْكُ يَوْمَئِذ الْحَقُّ لِلرَّحْمَانِ وَكَانَ يَوْماً عَلَى
 الْكَافِرِينَ عَسِيراً(( 26 ))
 
 26- IN THAT DAY, THE TRUE KINGDOM BELONGS TO THE MERCIFUL. AND IT SHALL
 BE A DAY HARD FOR THE HEATHENS.
-
 

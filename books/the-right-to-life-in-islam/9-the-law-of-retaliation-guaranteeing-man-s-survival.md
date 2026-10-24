@@ -10,12 +10,8 @@ money) in Islamic law is to safeguard man before unlawful violation and
 intrusion of individuals upon life and wellbeing of others to prevent
 bloodshed in a society.
 
-<blockquote dir="rtl">
-  <p>
-وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
-تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ
+> تَتَّقُونَ
 
 ***And there is for you in legal retribution [saving of] life, O you
 [people] of understanding, that you may become righteous.*** ***(Quran,
@@ -25,15 +21,11 @@ This law prior to advent of Islam has also been ruled in the Torah (the
 Holy book of Judaism). Then it was expressed by Islamic law in a more
 complete form.
 
-<blockquote dir="rtl">
-  <p>
-وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ
-بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ
-بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ
-كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ
-فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ
+> بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ
+> بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ
+> كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ
+> فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
 
 ***And we ordained therein for them: "Life for life, eye for eye, nose
 for nose, ear for ear, tooth for tooth, and wounds equal for equal." But
@@ -63,13 +55,9 @@ error or any condition in which the killer can be subject to pardon or
 substitution with financial payment as a reimbursement, then a
 retaliation decree will not be executed.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ
-قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ
-مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ
+> قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ
+> مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا
 
 ***And never is it for a believer to kill a believer except by mistake.
 And whoever kills a believer by mistake - then the freeing of a
@@ -79,5 +67,4 @@ family [is*** ***required] unless they give [up their right as] charity.
 
 When a retaliation decree is executed, individuals will be less likely
 to commit murder and sanctity of mankind will be safeguarded.
-
 

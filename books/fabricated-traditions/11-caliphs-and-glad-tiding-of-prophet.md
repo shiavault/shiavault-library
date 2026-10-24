@@ -95,4 +95,3 @@ caliphate to council and would introduce Uthman as the next caliph.[^5]
 
 [^5]: - LIsan al-Mizan, vol. 3, pp. 227 and 228.
 
-

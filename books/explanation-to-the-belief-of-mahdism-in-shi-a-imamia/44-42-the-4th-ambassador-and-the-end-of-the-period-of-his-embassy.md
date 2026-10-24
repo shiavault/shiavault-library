@@ -9,4 +9,3 @@ trustworthy one. It could be this that the Nawabs of the period of short
 Ghaybat were to acquaint the people with the coming Ghaybat that was
 going to be indefinitely long.
 
-

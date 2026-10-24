@@ -613,4 +613,3 @@ of Mu’awiya’s serious offences that have blackened the face of history.
 Imam al-Hasan (a.s) has shown them through his making peace with
 Mu’awiya.
 
-

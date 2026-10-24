@@ -115,4 +115,3 @@ have been disloyal; do not expect goodwill from someone whom you regard
 with ill-will: his heart towards you is the same as your heart towards
 him.
 
-

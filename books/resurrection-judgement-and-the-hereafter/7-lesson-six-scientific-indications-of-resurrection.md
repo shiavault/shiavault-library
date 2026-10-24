@@ -241,4 +241,3 @@ appearance of all these wonders; no intelligent person can accept that
 some blind mechanical force should be capable of creating the precise
 and miraculous phenomenon that is man.
 
-

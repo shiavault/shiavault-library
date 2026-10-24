@@ -33,4 +33,3 @@ go toward Zam-Zam. Have a few drinks, wash your face and bring some of
 that water back to where you came from so that you may present it as a
 gift to your people!
 
-

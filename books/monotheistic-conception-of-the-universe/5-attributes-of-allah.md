@@ -25,7 +25,6 @@ and when glorify Him, we say that He is free from all that is not worthy
 of Him. In both the cases we affirm His Knowledge to our own benefit and
 thus uplift ourselves.
 
-
 **Monotheism**
 
 Allah has no associate or partner. There is none like Him. It is
@@ -188,5 +187,4 @@ obedience and be subject to His good pleasure to be lawful. That is the
 appropriate response which a man should show to his Almighty Lord.
 Except in the case of Allah this kind of response is neither applicable
 nor permissible.
-
 

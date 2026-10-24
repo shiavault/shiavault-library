@@ -122,4 +122,3 @@ carried on his work despite the restrictions and Uthman got regular
 information about it. At last, being tired of Abu Dharr he decided to
 send him to Syria.
 
-

@@ -104,4 +104,3 @@ Prophet turned to Hind and said:
 "These men shall be together in that world" "O Prophet of God! Pray to
 Almighty to keep me also with them:"
 
-

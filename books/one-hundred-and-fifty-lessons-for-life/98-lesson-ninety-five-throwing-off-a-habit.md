@@ -3,11 +3,7 @@ Lesson Ninety Five: Throwing Off A Habit
 
 Imam Hasan Al-’Askari (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-رَدُّ الْمَعْتادِ عَنْ عادَتِهِ كَالْمُعْجِزْ
-  </p>
-</blockquote>
+> رَدُّ الْمَعْتادِ عَنْ عادَتِهِ كَالْمُعْجِزْ
 
 Translation
 -----------
@@ -27,5 +23,4 @@ compared the shedding of an entrenched habit to an amazing or wondrous
 act.
 
 [^1]: Bihar al-Anwar, volume 17, page 217
-
 

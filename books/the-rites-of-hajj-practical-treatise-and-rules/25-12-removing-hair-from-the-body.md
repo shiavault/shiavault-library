@@ -59,4 +59,3 @@ Therefore people cannot shave others’ heads or faces in Mena when they
 are exiting from the state of Ihram, but they should exit from the state
 of Ihram first and then perform that act.
 
-

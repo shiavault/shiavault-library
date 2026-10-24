@@ -25,11 +25,7 @@ ask for guidelines. He said:
 
 "From your departure until forty days read the noble *ayah*
 
-<blockquote dir="rtl">
-  <p>
-(رب أدخلني مدخل صدق وأخرجني مخرج صدق واجعل لي من لدنك سلطاناُ نصيرا)
-  </p>
-</blockquote>
+> (رب أدخلني مدخل صدق وأخرجني مخرج صدق واجعل لي من لدنك سلطاناُ نصيرا)
 
 (O my Lord! Let my entry be by the Gate of Truth and Honor, and likewise
 my exit by the Gate of Truth and Honor; and grant me from Thy presence
@@ -218,5 +214,4 @@ concept is found in Nahjul Balagha, maxim no. 82.
 
 [^9]: Sayings of Imam Khomeini (ra) at the meeting with the Ulama and
 directors of Hajj groups on Sep 30, 1979.
-
 

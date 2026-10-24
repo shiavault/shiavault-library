@@ -132,15 +132,11 @@ even tried to defend Iraq.
 
 It was then when Imam addressed them reproaching:
 
-<blockquote dir="rtl">
-  <p>
-أيتها الفرقة التي إذا امرت لم تطع وإذا دعوت لم تجب، لله أنتم، أما دين
-يجمعكم، أما حمية تشخدكم؟ أوليس عجباً أنَّ معاوية يدعو الجفاة الطغام
-فيتبعونه غير معونة ولا عطاء وأنا أدعوكم وأنتم تريكة الاسلام، أنه
-لايخرج إليكم من امري رضاَ ترضونه ولا سُخط فتجتمعون عليه وإن احبَّ ما
-أنا لاق إلي الموت
-  </p>
-</blockquote>
+> أيتها الفرقة التي إذا امرت لم تطع وإذا دعوت لم تجب، لله أنتم، أما دين
+> يجمعكم، أما حمية تشخدكم؟ أوليس عجباً أنَّ معاوية يدعو الجفاة الطغام
+> فيتبعونه غير معونة ولا عطاء وأنا أدعوكم وأنتم تريكة الاسلام، أنه
+> لايخرج إليكم من امري رضاَ ترضونه ولا سُخط فتجتمعون عليه وإن احبَّ ما
+> أنا لاق إلي الموت
 
 “O the crowd laying disobedient when ordered and remaining silent when
 called. Thou hast no religion to prepare thee? Thou hast no fervor to
@@ -314,12 +310,8 @@ father's son”.[^36]
 In Siffin, Imam Mujtaba (a) provoked people against Qasitin. Once he had
 addressed them,
 
-<blockquote dir="rtl">
-  <p>
-فاحتشدوا في قتال عدّوكم معاوية وجنوده فإنه قد حضر ولاتخاذلوا فإن
-الخذلان يقطع نياط القلوب
-  </p>
-</blockquote>
+> فاحتشدوا في قتال عدّوكم معاوية وجنوده فإنه قد حضر ولاتخاذلوا فإن
+> الخذلان يقطع نياط القلوب
 
 Unite against your enemy, Mu'awiya and his army, and never droop for it
 does sever the nerves of your heart.” [^37]
@@ -408,11 +400,7 @@ that Imam 'Ali had introduced his son as his successor though the Sunnis
 have not referred to such evidence for succession.[^45] A narration is
 quoted from the Prophet in this respect in many a source as stating,
 
-<blockquote dir="rtl">
-  <p>
-الحسن والحسين امامان، قاما أو قعدا “
-  </p>
-</blockquote>
+> الحسن والحسين امامان، قاما أو قعدا “
 
 Hasan and Husayn are the Imams whether they rise up or not.” [^46]
 
@@ -433,27 +421,15 @@ keep up with.[^47]
 
 Mundhir Ibn Ya'mur told Imam in Siffin,
 
-<blockquote dir="rtl">
-  <p>
-فان تهلك فهذان الحسن والحسين أئمتنا من بعدك “
-  </p>
-</blockquote>
+> فان تهلك فهذان الحسن والحسين أئمتنا من بعدك “
 
 Hasan and Husayn would be our Imams after you even if you were killed.”
 
 In a poem he had composed,
 
-<blockquote dir="rtl">
-  <p>
-ابا حسن أنت شمس النهار وهذان في الداجيات القمر
-  </p>
-</blockquote>
+> ابا حسن أنت شمس النهار وهذان في الداجيات القمر
 
-<blockquote dir="rtl">
-  <p>
-وأنت وهذان حتي الممات بمنـزلة السمع بعد البصر
-  </p>
-</blockquote>
+> وأنت وهذان حتي الممات بمنـزلة السمع بعد البصر
 
 O Hasan's father, the midday sun dazzling is thee and the shining moon
 is these two. Until the Day of Judgement thou and these two will go
@@ -644,11 +620,7 @@ Both Imam and 'Abd Allah Ibn 'Abbas had written to Mu'awiya admonishing
 him for his violation. For the last time Imam warned Mu'awiya if he did
 not surrender, he with the Muslim army would attack,
 
-<blockquote dir="rtl">
-  <p>
-فحاكمتك الى الله حتى يحكم الله بيننا وبينكم وهو خير الحاكمين “
-  </p>
-</blockquote>
+> فحاكمتك الى الله حتى يحكم الله بيننا وبينكم وهو خير الحاكمين “
 
 We entrust the arbitration between you and me to Allah to judge and He
 is the best arbitrator.” [^73]
@@ -805,12 +777,8 @@ Mughira Ibn Shu'ba, a corrupt man.
 
 After Imam was wounded, he addressed people,
 
-<blockquote dir="rtl">
-  <p>
-اتقوا الله فينا، فانا أمراؤكم وضفيانكم، أهل البيت الذين قال الله,
-إنّما يُريدُ الله ليذهبَ عَنكُمُ الرّجسَ أهلَ البيتِ ويطهّركُم تطهيراً
-  </p>
-</blockquote>
+> اتقوا الله فينا، فانا أمراؤكم وضفيانكم، أهل البيت الذين قال الله,
+> إنّما يُريدُ الله ليذهبَ عَنكُمُ الرّجسَ أهلَ البيتِ ويطهّركُم تطهيراً
 
 Seek divine behavior towards us for we are the best rulers among you,
 that is the same Household about whom God said, “Verily God hast the
@@ -1007,11 +975,7 @@ capricious they were, he had to relinquish the power.”[^114]
 Imam realized that he could not trust such people. This inconfidence was
 not only for lack of cooperation on their part but Imam stated,
 
-<blockquote dir="rtl">
-  <p>
-والله لو قاتلت معاويه لأخذوا بعنقي حتى يدفعوني اليه سلماً
-  </p>
-</blockquote>
+> والله لو قاتلت معاويه لأخذوا بعنقي حتى يدفعوني اليه سلماً
 
 “By Almighty Allah, if I clash with Mu'awiya, they will grasp hold of my
 neck and hand me over locked up.” [^115]
@@ -1022,8 +986,6 @@ Elsewhere he has said,
 **
 
 ورأيت أهل العراق، لايثق بهم أحد أبداً الا غلب “
-
-  
 
 Iraqi people are those whom anyone trusted, was defeated, for no one
 agrees with another. They are never serious either about the wrong or
@@ -1105,12 +1067,8 @@ for a war, Imam Hasan (a) expressed his transparent position under the
 pressure of Mu'awiya's insistence on his resignation. First of all Imam
 declared that there was no doubt about the war against Damascus.
 
-<blockquote dir="rtl">
-  <p>
-والله لا يثنينا عن أهل الشام شك ولا ندم، وإنما نقاتل أهل الشام بالصبر
-والسلامة “
-  </p>
-</blockquote>
+> والله لا يثنينا عن أهل الشام شك ولا ندم، وإنما نقاتل أهل الشام بالصبر
+> والسلامة “
 
 No doubt or regret will prevent us from battling with Damascus.
 Forebearingly and calmly we will fight.”
@@ -1130,12 +1088,8 @@ Therefore, Imam announced that compromising would on no accounts be for
 the good of the nation after all. Then he urged people to tell him what
 course to pursue
 
-<blockquote dir="rtl">
-  <p>
-. فان أردتم الموت رددناه عليه وحاكمناه الى الله عز وجل بظبى السيوف،
-وان أردتم الحياة قبلناه وأخذنا لكم الرضى “
-  </p>
-</blockquote>
+> . فان أردتم الموت رددناه عليه وحاكمناه الى الله عز وجل بظبى السيوف،
+> وان أردتم الحياة قبلناه وأخذنا لكم الرضى “
 
 If you are prepared to fight, let's decline their request and rely on
 our swords, allow Allah to pass judgment. But if you like to survive,
@@ -1147,22 +1101,14 @@ peace pact.[^120]
 
 Elsewhere he said,
 
-<blockquote dir="rtl">
-  <p>
-اني رأيت هوى عظم الناس في الصلح، وكرهوا الحرب فلم احب أن أحملهم على ما
-يكرهون “
-  </p>
-</blockquote>
+> اني رأيت هوى عظم الناس في الصلح، وكرهوا الحرب فلم احب أن أحملهم على ما
+> يكرهون “
 
 I found people mostly willing to compromise yet unwilling to fight.
 Never do I like to impose what they dislike.”[^121]
 
-<blockquote dir="rtl">
-  <p>
-أرى أكثركم قد نكل عن الحرب وفشل في القتال ولست أرى أحملكم على ما
-تكرهون
-  </p>
-</blockquote>
+> أرى أكثركم قد نكل عن الحرب وفشل في القتال ولست أرى أحملكم على ما
+> تكرهون
 
 “I realized how weak you have gone and how reluctant you have turned to
 fight. So I am not the one who compels you to do what you
@@ -1172,12 +1118,8 @@ Imam referred to people's non-cooperation as the reason for abandoning
 his caliphate. There was no other solution the normal situation. He
 stated,
 
-<blockquote dir="rtl">
-  <p>
-والله اني سلّمت الامر لاني لم أجد انصاراً ولو وجدت نصاراً لقاتلتة ليلي
-ونهاري حتى يحكم الله بيننا وبينه
-  </p>
-</blockquote>
+> والله اني سلّمت الامر لاني لم أجد انصاراً ولو وجدت نصاراً لقاتلتة ليلي
+> ونهاري حتى يحكم الله بيننا وبينه
 
 “By Almighty Allah, I abandoned it for I had no helper. If there were a
 helper to me, I would fight him day in and day out until Allah judge
@@ -1207,24 +1149,16 @@ ship for her owners.[^124]
 
 He also had said,
 
-<blockquote dir="rtl">
-  <p>
-فصالحت بقياً على شيعتنا خاصّة من القتل فرأيت دفع هذه الحروب الى يوم
-مّا، فانّ اللّه كل يوم هو في شأن “
-  </p>
-</blockquote>
+> فصالحت بقياً على شيعتنا خاصّة من القتل فرأيت دفع هذه الحروب الى يوم
+> مّا، فانّ اللّه كل يوم هو في شأن “
 
 I did compromise to save the Shi'ite Muslims' lives. I pondered over
 delaying these wars for every day Allah deals with an affair.”[^125]
 
 In an answer to one of the objectors Imam said,
 
-<blockquote dir="rtl">
-  <p>
-ما أردت بمصالحتي معاوية‌ الا أن أدفع عنكم القتل عندما رأيت تباطيء
-أصحابي عن الحرب ونكولهم عن القتال “
-  </p>
-</blockquote>
+> ما أردت بمصالحتي معاوية‌ الا أن أدفع عنكم القتل عندما رأيت تباطيء
+> أصحابي عن الحرب ونكولهم عن القتال “
 
 With the aim of at least protecting your lives I compromised with
 Mu'awiya when I found my disciples weak and unwilling to fight.”[^126]
@@ -1252,12 +1186,8 @@ O Hujr! all do not like what you like. I did so for nothing but saving
 your life and others'. Allah also -deals with an affair every
 day.”[^128]
 
-<blockquote dir="rtl">
-  <p>
-يا مالك! لاتقل ذلك، اني لما رأيت الناس تركوا ذلك الا أهله، خشيت أن
-تجتثّوا عن وجه الارض، فأردت أن يكون للدين في الارض ناعي “
-  </p>
-</blockquote>
+> يا مالك! لاتقل ذلك، اني لما رأيت الناس تركوا ذلك الا أهله، خشيت أن
+> تجتثّوا عن وجه الارض، فأردت أن يكون للدين في الارض ناعي “
 
 O Malik! say not so, Imam addressed Malik Ibn Dhamra when objecting,
 when I saw how people but a few left me on my own, I feared you be
@@ -1266,12 +1196,8 @@ cry out for the religion on the earth.”[^129]
 
 He also said,-
 
-<blockquote dir="rtl">
-  <p>
-انما هادنت حقناً للدماء وصيانتاً واشفاقاً على نفسي وأهلي والمخلصين من
-أصحابي “
-  </p>
-</blockquote>
+> انما هادنت حقناً للدماء وصيانتاً واشفاقاً على نفسي وأهلي والمخلصين من
+> أصحابي “
 
 I agreed to compromise to both prevent bloodshed and save my life, my
 family's and my faithful disciples.”[^130]
@@ -1316,23 +1242,15 @@ companies' annihilation.
 
 Regarding his compromising, Imam Mujtaba said,
 
-<blockquote dir="rtl">
-  <p>
-والله، الذي عملت، خير لشيعتي مما طلعت عليه الشمس “
-  </p>
-</blockquote>
+> والله، الذي عملت، خير لشيعتي مما طلعت عليه الشمس “
 
 By Allah, what I did was far better than what sun shines and sets for my
 Shi'ite Muslims.” [^132]
 
 In the same respect Imam al-Baqir (a) has said,
 
-<blockquote dir="rtl">
-  <p>
-والله، الذي صنع الحسن بن علي (ع) كان خيراً لهذه الامة مما طلعت عليه
-الشمس
-  </p>
-</blockquote>
+> والله، الذي صنع الحسن بن علي (ع) كان خيراً لهذه الامة مما طلعت عليه
+> الشمس
 
 “By Allah, what Hasan Ibn 'Ali did was far better than what to which sun
 shines for this nation.” [^133]
@@ -1387,13 +1305,9 @@ Hasan had said”.
 
 Imam Husayn said,
 
-<blockquote dir="rtl">
-  <p>
-صدق ابو محمد، فليكن كل رجل منكم حلساً من أحلاس بيته مادام هذا الانسان
-حياً فان يهلك وانتم احياء رجونا أن يخيّر الله لنا ويؤتنا رشدنا
-ولايكلنا الى انفسنا “
-  </p>
-</blockquote>
+> صدق ابو محمد، فليكن كل رجل منكم حلساً من أحلاس بيته مادام هذا الانسان
+> حياً فان يهلك وانتم احياء رجونا أن يخيّر الله لنا ويؤتنا رشدنا
+> ولايكلنا الى انفسنا “
 
 My brother is true. All of you should stay at home as long as Mu'awiya
 is alive. If he were dead and you alive, may Allah do what our progress
@@ -1401,12 +1315,8 @@ is in and may He leave us not on our own.”[^136]
 
 When he was demanded to rise up, Imam Husayn said,
 
-<blockquote dir="rtl">
-  <p>
-أما أنا، فليس رأيي اليوم ذلك، فالصقوا رحمكم الله بالارض واكمنوا البيوت
-واحترسوا الظنة مادام معاوية حياُ “
-  </p>
-</blockquote>
+> أما أنا، فليس رأيي اليوم ذلك، فالصقوا رحمكم الله بالارض واكمنوا البيوت
+> واحترسوا الظنة مادام معاوية حياُ “
 
 Now I do not believe so. Mercy on you, as long as Mu'awiya is alive,
 stay at home and avoid being suspected.”[^137]
@@ -1582,22 +1492,14 @@ Kufa.
 
 He said,
 
-<blockquote dir="rtl">
-  <p>
-إنما الخليفة من سار بسيرة رسول الله وعمل بطاعته وليس الخليفة من دان
-بالجور وعطَّل السنن واتخذ الدنيا أباً واُمّاً “
-  </p>
-</blockquote>
+> إنما الخليفة من سار بسيرة رسول الله وعمل بطاعته وليس الخليفة من دان
+> بالجور وعطَّل السنن واتخذ الدنيا أباً واُمّاً “
 
 The caliph is the one who practices the Prophet's tradition and obeys
 him. The caliph is never the one who oppresses, disregards the Prophet's
 tradition and adores the worldly life like his parents.”
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَى حِينٍ.
-  </p>
-</blockquote>
+> وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَى حِينٍ.
 
 Who knows, perhaps it is an acid test for you and little goods for
 Mu'awiya  
@@ -1684,16 +1586,10 @@ loves him. Tell it to the absentees too.” [^161]
 
 من أحب الحسن والحسين فقد أحبني، ومن أبغضهما فقد أبغضي “
 
-  
-
 Anyone who loves Hasan and Husayn, he indeed loves me and anyone who
 annoys them, he indeed annoys me.” [^162]
 
-<blockquote dir="rtl">
-  <p>
-من سرّه أن ينظر الي سيد شباب أهل الجنة فلينظر إلي الحسن بن علي “
-  </p>
-</blockquote>
+> من سرّه أن ينظر الي سيد شباب أهل الجنة فلينظر إلي الحسن بن علي “
 
 Anyone who likes to see the master of the youth in Heaven can look at
 Hasan Ibn 'Ali and some utterances the Prophet has made about Imam Hasan
@@ -1702,12 +1598,8 @@ Hasan Ibn 'Ali and some utterances the Prophet has made about Imam Hasan
 Many narrations also are recorded in the light of Imam's ideological
 features for example his trips as a pilgrim gone on foot. He has said,
 
-<blockquote dir="rtl">
-  <p>
-إني لأستحي من ربي أن ألقاه ولم أمش إلي بيته، فمشي عشرين مرة من المدينة
-علي رجليه “
-  </p>
-</blockquote>
+> إني لأستحي من ربي أن ألقاه ولم أمش إلي بيته، فمشي عشرين مرة من المدينة
+> علي رجليه “
 
 I am really ashamed of meeting Allah if I go to His House on horsebac.”
 
@@ -1720,11 +1612,7 @@ character. When Isma'il Ibn Yasar along with 'Abd Allah Ibn Anas went to
 meet Mu'awiya in Damascus and take money from him but they did not
 succeed, Isma'il in a poem addressed his friend Ibn Anas as follows:
 
-<blockquote dir="rtl">
-  <p>
-لعمرك ما إلى حسن رحلنا و لا زرنا حسيناً يا بن انس
-  </p>
-</blockquote>
+> لعمرك ما إلى حسن رحلنا و لا زرنا حسيناً يا بن انس
 
 “O Ibn Anas by you we did not go to meet Hasan and Husayn.” [^167]
 
@@ -2366,5 +2254,4 @@ Tarjamat al-Imam al-Hasan, Ibn ‘Asakir, No 372
 [^190]: Tarikh al-Ya’qubi, vol. II, p. 228
 
 [^191]: Ibn Sa‘d, Tarjamat al-Imam al-Hasan (a), p. 183
-
 

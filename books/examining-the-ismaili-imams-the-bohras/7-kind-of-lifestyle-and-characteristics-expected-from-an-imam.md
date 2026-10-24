@@ -383,37 +383,25 @@ the son of the Prophet, you are the son of Ali and of Fatima and she was
 the daughter of the Prophet (sawa)? Imam al-Kadhim (as) recited the
 ayahs of Suratul An’am 83-85:
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ حُجَّتُنَآ اٰتَيْنٰہَآ اِبْرٰہِيْمَ عَلٰي قَوْمِہٖ۝۰ۭ
-نَرْفَعُ دَرَجٰتٍ مَّنْ نَّشَاۗءُ۝۰ۭ اِنَّ رَبَّكَ حَكِيْمٌ
-عَلِيْمٌ۝۸۳
-  </p>
-</blockquote>
+> وَتِلْكَ حُجَّتُنَآ اٰتَيْنٰہَآ اِبْرٰہِيْمَ عَلٰي قَوْمِہٖ۝۰ۭ
+> نَرْفَعُ دَرَجٰتٍ مَّنْ نَّشَاۗءُ۝۰ۭ اِنَّ رَبَّكَ حَكِيْمٌ
+> عَلِيْمٌ۝۸۳
 
 ***That was Our argument which We gave to Abraham (to use) against his
 people: We raise whom We will, degree after degree: for thy Lord is full
 of wisdom and knowledge.***[^31]
 
-<blockquote dir="rtl">
-  <p>
-وَوَہَبْنَا لَہٗٓ اِسْحٰقَ وَيَعْقُوْبَ۝۰ۭ كُلًّا ہَدَيْنَا۝۰ۚ
-وَنُوْحًا ہَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِہٖ دَاوٗدَ
-وَسُلَيْمٰنَ وَاَيُّوْبَ وَيُوْسُفَ وَمُوْسٰي وَہٰرُوْنَ۝۰ۭ وَكَذٰلِكَ
-نَجْزِي الْمُحْسِـنِيْنَ۝۸۴ۙ
-  </p>
-</blockquote>
+> وَوَہَبْنَا لَہٗٓ اِسْحٰقَ وَيَعْقُوْبَ۝۰ۭ كُلًّا ہَدَيْنَا۝۰ۚ
+> وَنُوْحًا ہَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِہٖ دَاوٗدَ
+> وَسُلَيْمٰنَ وَاَيُّوْبَ وَيُوْسُفَ وَمُوْسٰي وَہٰرُوْنَ۝۰ۭ وَكَذٰلِكَ
+> نَجْزِي الْمُحْسِـنِيْنَ۝۸۴ۙ
 
 ***We gave him Isaac and Jacob: all (three) We guided: and before him,
 We guided Noah, and among his progeny, David, Solomon, Job, Joseph,
 Moses, and Aaron: thus do We reward those who do good.***[^32]
 
-<blockquote dir="rtl">
-  <p>
-وَزَكَرِيَّا وَيَحْيٰى وَعِيْسٰي وَاِلْيَاسَ۝۰ۭ كُلٌّ مِّنَ
-الصّٰلِحِيْنَ۝۸۵ۙ
-  </p>
-</blockquote>
+> وَزَكَرِيَّا وَيَحْيٰى وَعِيْسٰي وَاِلْيَاسَ۝۰ۭ كُلٌّ مِّنَ
+> الصّٰلِحِيْنَ۝۸۵ۙ
 
 ***And Zakariya and John, and Jesus and Elias: all in the ranks of the
 Righteous:***[^33]
@@ -428,14 +416,10 @@ father and as per Quran, Jesus (as) is from the progeny of Noah (as)].
 
 Then Imam al-Kadhim (as) quoted the ayah 61 of Suratul Aal e Imran:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حَاۗجَّكَ فِيْہِ مِنْۢ بَعْدِ مَا جَاۗءَكَ مِنَ الْعِلْمِ
-فَقُلْ تَعَالَوْا نَدْعُ اَبْنَاۗءَنَا وَاَبْنَاۗءَكُمْ وَنِسَاۗءَنَا
-وَنِسَاۗءَكُمْ وَاَنْفُسَـنَا وَاَنْفُسَكُمْ۝۰ۣ ثُمَّ نَبْتَہِلْ
-فَنَجْعَلْ لَّعْنَتَ اللہِ عَلَي الْكٰذِبِيْنَ۝۶۱
-  </p>
-</blockquote>
+> فَمَنْ حَاۗجَّكَ فِيْہِ مِنْۢ بَعْدِ مَا جَاۗءَكَ مِنَ الْعِلْمِ
+> فَقُلْ تَعَالَوْا نَدْعُ اَبْنَاۗءَنَا وَاَبْنَاۗءَكُمْ وَنِسَاۗءَنَا
+> وَنِسَاۗءَكُمْ وَاَنْفُسَـنَا وَاَنْفُسَكُمْ۝۰ۣ ثُمَّ نَبْتَہِلْ
+> فَنَجْعَلْ لَّعْنَتَ اللہِ عَلَي الْكٰذِبِيْنَ۝۶۱
 
 ***Should anyone argue with you concerning him, after the knowledge that
 has come to you, say, “Come! Let us call our sons and your sons, our
@@ -1344,5 +1328,4 @@ al-Akhbar al-Ridha, vol. 1, pp. 26-27
 [^80]: The Life of Imam Ali Ibn Musa al-Ridha, pp. 208-212
 
 [^81]: The Life of Imam Ali Ibn Musa al-Ridha, pp. 174-175
-
 

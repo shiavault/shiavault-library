@@ -508,4 +508,3 @@ For Further Study
 
 [^1]: Genesis 3:9-13
 
-

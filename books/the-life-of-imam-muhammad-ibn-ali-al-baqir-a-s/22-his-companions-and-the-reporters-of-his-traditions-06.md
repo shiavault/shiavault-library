@@ -628,152 +628,152 @@ scientific Islamic wealth.
 
 ###
 
-[^1] Al-Barqi, Rija\`l.
+[^1]: Al-Barqi, Rija\`l.
 
-[^2] Al-Naja\`shi.
+[^2]: Al-Naja\`shi.
 
-[^3] Al-Kashi.
+[^3]: Al-Kashi.
 
-[^4] Ibid.
+[^4]: Ibid.
 
-[^5] Ibid.
+[^5]: Ibid.
 
-[^6] Ibid.
+[^6]: Ibid.
 
-[^7] Ibid.
+[^7]: Ibid.
 
-[^8] Ibid.
+[^8]: Ibid.
 
-[^9] Ibid.
+[^9]: Ibid.
 
-[^10] Mu‘jam Rija\`l al-Hadith, vol.17, p.[^288]:
+[^10]: Mu‘jam Rija\`l al-Hadith, vol.17, p.288.
 
-[^11] Tahdhib al-Tahdhib, vol.9, p.[^473]:
+[^11]: Tahdhib al-Tahdhib, vol.9, p.473.
 
-[^12] Al-Ka\`fi, vol.5, Kita\`b al-Ma‘isha.
+[^12]: Al-Ka\`fi, vol.5, Kita\`b al-Ma‘isha.
 
-[^13] Al-Tu\`si, Rija\`l.
+[^13]: Al-Tu\`si, Rija\`l.
 
-[^14] Ibid.
+[^14]: Ibid.
 
-[^15] Al-Naja\`shi.
+[^15]: Al-Naja\`shi.
 
-[^16] Al-Tu\`si, Rija\`l.
+[^16]: Al-Tu\`si, Rija\`l.
 
-[^17] Al-Naja\`shi.
+[^17]: Al-Naja\`shi.
 
-[^18] Al-Tu\`si, Rija\`l.
+[^18]: Al-Tu\`si, Rija\`l.
 
-[^19] Tanqih al-Maqa\`l, vol.3, p.[^214]:
+[^19]: Tanqih al-Maqa\`l, vol.3, p.214.
 
-[^20] Al-Naja\`shi.
+[^20]: Al-Naja\`shi.
 
-[^21] Al-Kashi, Rija\`l. Al-Naja\`shi, Rija\`l. Al-Tu\`si, Rija\`l.
+[^21]: Al-Kashi, Rija\`l. Al-Naja\`shi, Rija\`l. Al-Tu\`si, Rija\`l.
 
-[^22] Al-Tu\`si, Rija\`l.
+[^22]: Al-Tu\`si, Rija\`l.
 
-[^23] Ibid.
+[^23]: Ibid.
 
-[^24] Ibid.
+[^24]: Ibid.
 
-[^25] Al-Barqi, Rija\`l.
+[^25]: Al-Barqi, Rija\`l.
 
-[^26] Al-Naja\`shi.
+[^26]: Al-Naja\`shi.
 
-[^27] Al-Kashi.
+[^27]: Al-Kashi.
 
-[^28] Al-Tu\`si, Rija\`l.
+[^28]: Al-Tu\`si, Rija\`l.
 
-[^29] Ibid.
+[^29]: Ibid.
 
-[^30] Ibid.
+[^30]: Ibid.
 
-[^31] Al-Barqi, Rija\`l.
+[^31]: Al-Barqi, Rija\`l.
 
-[^32] Al-Tu\`si, Rija\`l.
+[^32]: Al-Tu\`si, Rija\`l.
 
-[^33] Ibid.
+[^33]: Ibid.
 
-[^34] Ibid.
+[^34]: Ibid.
 
-[^35] Ibid.
+[^35]: Ibid.
 
-[^36] Ibid.
+[^36]: Ibid.
 
-[^37] Ibid.
+[^37]: Ibid.
 
-[^38] Tanqih al-Maqa\`l, vol.1, p.[^253]:
+[^38]: Tanqih al-Maqa\`l, vol.1, p.253.
 
-[^39] Al-Tu\`si, Rija\`l.
+[^39]: Al-Tu\`si, Rija\`l.
 
-[^40] Ibid.
+[^40]: Ibid.
 
-[^41] Tanqih al-Maqa\`l, vol.3, p.[^356]:
+[^41]: Tanqih al-Maqa\`l, vol.3, p.356.
 
-[^42] Al-Tu\`si, Rija\`l.
+[^42]: Al-Tu\`si, Rija\`l.
 
-[^43] Ibid.
+[^43]: Ibid.
 
-[^44] Al-Kashi, Rija\`l.
+[^44]: Al-Kashi, Rija\`l.
 
-[^45] Al-Tu\`si, Rija\`l.
+[^45]: Al-Tu\`si, Rija\`l.
 
-[^46] Ibid.
+[^46]: Ibid.
 
-[^47] Ibid.
+[^47]: Ibid.
 
-[^48] Ibid.
+[^48]: Ibid.
 
-[^49] Ibid.
+[^49]: Ibid.
 
-[^50] Tanqih al-Maqa\`l, vol.3, p.[^271]:
+[^50]: Tanqih al-Maqa\`l, vol.3, p.271.
 
-[^51] Al-Tu\`si, Rija\`l.
+[^51]: Al-Tu\`si, Rija\`l.
 
-[^52] Tanqih al-Maqa\`l, vol.3, p.[^278]:
+[^52]: Tanqih al-Maqa\`l, vol.3, p.278.
 
-[^53] Al-Tu\`si, Rija\`l.
+[^53]: Al-Tu\`si, Rija\`l.
 
-[^54] Ibid.
+[^54]: Ibid.
 
-[^55] Ibid.
+[^55]: Ibid.
 
-[^56] Ibid.
+[^56]: Ibid.
 
-[^57] Ibid.
+[^57]: Ibid.
 
-[^58] Al-Naja\`shi.
+[^58]: Al-Naja\`shi.
 
-[^59] Al-Tu\`si, Rija\`l.
+[^59]: Al-Tu\`si, Rija\`l.
 
-[^60] Ibid.
+[^60]: Ibid.
 
-[^61] Ibid.
+[^61]: Ibid.
 
-[^62] Ibid.
+[^62]: Ibid.
 
-[^63] Ibid.
+[^63]: Ibid.
 
-[^64] Ibid.
+[^64]: Ibid.
 
-[^65] Ibid.
+[^65]: Ibid.
 
-[^66] Ibid.
+[^66]: Ibid.
 
-[^67] Usu\`l al-Ka\`fi.
+[^67]: Usu\`l al-Ka\`fi.
 
-[^68] Al-Tu\`si, Rija\`l.
+[^68]: Al-Tu\`si, Rija\`l.
 
-[^69] Ibid.
+[^69]: Ibid.
 
-[^70] Ibid.
+[^70]: Ibid.
 
-[^71] Ibid.
+[^71]: Ibid.
 
-[^72] Al-Naja\`shi.
+[^72]: Al-Naja\`shi.
 
-[^73] Al-Tu\`si, Rija\`l.
+[^73]: Al-Tu\`si, Rija\`l.
 
-[^74] Ibid.
+[^74]: Ibid.
 
-[^75] Ibid.
+[^75]: Ibid.

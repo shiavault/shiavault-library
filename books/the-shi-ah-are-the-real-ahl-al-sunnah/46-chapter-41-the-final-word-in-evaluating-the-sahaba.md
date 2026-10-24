@@ -294,17 +294,17 @@ loved by the Messenger of Allah. They dissociate themselves from the
 enemies of Allah and of His Messenger who were the primary cause of the
 misguidance of the vast majority of Muslims.
 
-[^284] Tarikh Baghdad, Vol. 14, p. 7.
-[^285] The author here is referred to Sunni scholars with whom he used
+[^284]: Tarikh Baghdad, Vol. 14, p. 7.
+[^285]: The author here is referred to Sunni scholars with whom he used
 to argue before accepting Shi\`a Islam. \_\_ Tr.
-[^286] Al-Bukhari, Sahih, Vol. 1, p. 17.
-[^287] Al-Ghazali, Ihyaa \`Uloom al-Din, Vol. 1, p. 129. Al-Muttaqi
+[^286]: Al-Bukhari, Sahih, Vol. 1, p. 17.
+[^287]: Al-Ghazali, Ihyaa \`Uloom al-Din, Vol. 1, p. 129. Al-Muttaqi
 al-Hindi, Kanz al-Ummal, Vol. 7, p. 24.
-[^288] Al-Bukhari, Sahih, Vol. 6, p. 65, where the merits of the Qur'an
+[^288]: Al-Bukhari, Sahih, Vol. 6, p. 65, where the merits of the Qur'an
 and Surat al-Munafiqoon are discussed. Ibn Asakir, Tarikh, Vol. 4, p.
 97.
-[^289] Al-Bukhari, Sahih, Vol. 4, p. 179.
-[^290] Al-Bukhari, Sahih, Vol. 4, p. 206.
-[^291] Al-Bukhari, Sahih, Vol. 7, p. 209, in a chapter dealing with the
+[^289]: Al-Bukhari, Sahih, Vol. 4, p. 179.
+[^290]: Al-Bukhari, Sahih, Vol. 4, p. 206.
+[^291]: Al-Bukhari, Sahih, Vol. 7, p. 209, in a chapter dealing with the
 Pool [of al-Kawthar].
 

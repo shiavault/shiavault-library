@@ -54,9 +54,7 @@ explanation than what has already been given. So, the Tat-heer and
 ‘Ismah of the Prophets and Imams does not remove the human aspect from
 them. As Allah (SWT) says in the Qur’an,
 
-<p dir="rtl">
 قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا بَشَرًا رَسُولًا
-</p>
 
 **"Qol subhana rabi hal konto illa basharan rasoola?"**
 
@@ -68,5 +66,4 @@ considered to be non-human just because he is unique in being born
 without a father? This is the naïve and confused logic that Christians
 use to prove the divinity of ‘Isa and that he is the son of God. May
 Allah (SWT) curse them and curse those who think and believe like them!
-
 

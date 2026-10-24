@@ -7,11 +7,7 @@ the Holy Imams (a.s.)
 Ali Ibne Ibrahim has narrated from Imam Ridha (a.s.), that Allah says in
 Surah Rahman:
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمَانُ. عَلَّمَ الْقُرْآنَ.
-  </p>
-</blockquote>
+> الرَّحْمَانُ. عَلَّمَ الْقُرْآنَ.
 
 ***The Beneficent God. Taught the Quran. (Surah Rahman 55:1-2)***
 
@@ -19,22 +15,14 @@ The Imam (a.s.) said that it means Allah has given to Amirul Momineen
 (a.s.) the knowledge of all the things, which the people usually
 require.
 
-<blockquote dir="rtl">
-  <p>
-الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ.
-  </p>
-</blockquote>
+> الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ.
 
 ***The sun and the moon follow a reckoning. (Surah Rahman 55:5)***
 
 It denotes the accursed ones who oppose the sun and the moon, know that
 they suffer the wrath of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ.
-  </p>
-</blockquote>
+> وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ.
 
 ***And the stars and the trees do adore (Him). (Surah Rahman 55:6)***
 
@@ -42,11 +30,7 @@ It means that the stars and the trees worship Allah. Star denotes the
 Holy Prophet (S) and may be due to this context the trees are the Ahlul
 Bayt (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ.
-  </p>
-</blockquote>
+> وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ.
 
 ***And the heaven, He raised it high, and He made the balance. (Surah
 Rahman 55:7)***
@@ -55,11 +39,7 @@ The sky refers to the Holy Prophet (S), whom Allah had taken up for
 ascension (Meraj). And the balance is Amirul Momineen, who is the scale
 of justice, which Allah has created for His creatures.
 
-<blockquote dir="rtl">
-  <p>
-أَلَّا تَطْغَوْا فِي الْمِيزَانِ.
-  </p>
-</blockquote>
+> أَلَّا تَطْغَوْا فِي الْمِيزَانِ.
 
 ***That you may not be inordinate in respect of the measure. (Surah
 Rahman 55:8)***
@@ -67,21 +47,13 @@ Rahman 55:8)***
 That is, do not be disobedient in the matter of the scale, it means, do
 not disobey the Imam.
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ.
-  </p>
-</blockquote>
+> وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ.
 
 ***And keep up the balance with equity… (Surah Rahman 55:9)***
 
 That is, remain steadfast with a just Imam.
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُخْسِرُوا الْمِيزَانَ.
-  </p>
-</blockquote>
+> وَلَا تُخْسِرُوا الْمِيزَانَ.
 
 ***…and do not make the measure deficient. (Surah Rahman 55:9)***
 
@@ -90,11 +62,7 @@ And do not reduce the rights of Imam and do not do injustice upon him.
 Also according to an authentic tradition from Imam Sadiq (a.s.) on the
 saying of Allah:
 
-<blockquote dir="rtl">
-  <p>
-رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ.
-  </p>
-</blockquote>
+> رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ.
 
 ***Lord of the two Easts and Lord of the two Wests. (Surah Rahman
 55:17)***
@@ -108,11 +76,7 @@ the succeeding Imam after him.
 In *Tawilul Aayaat* there is a tradition from the same Imam on the
 saying of Allah:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ.
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ.
 
 ***But nay! I swear by the Lord of the Easts and the Wests… (Surah
 Maarij 70:40)***
@@ -121,12 +85,8 @@ That the ‘easts’ means the Prophet and ‘wests’ means their vicegerents.
 
 Ali Ibne Ibrahim narrates from the same Imam on these words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءِ وَالطَّارِقِ. وَمَا أَدْرَاكَ مَا الطَّارِقُ. النَّجْمُ
-الثَّاقِبُ.
-  </p>
-</blockquote>
+> وَالسَّمَاءِ وَالطَّارِقِ. وَمَا أَدْرَاكَ مَا الطَّارِقُ. النَّجْمُ
+> الثَّاقِبُ.
 
 ***I swear by the heaven and the comer by night. And what will make you
 know what the comer by night is? The star of piercing brightness…(Surah
@@ -142,11 +102,7 @@ Ali Ibne Ibrahim narrates a tradition from Imam Sadiq (a.s.) in the
 commentary on Surah Shams that: ‘Shams’ refers to the Holy Prophet (S),
 through whom the Almighty Allah has explained religion to the people.
 
-<blockquote dir="rtl">
-  <p>
-وَالْقَمَرِ إِذَا تَلَاهَا.
-  </p>
-</blockquote>
+> وَالْقَمَرِ إِذَا تَلَاهَا.
 
 ***And the moon when it follows the sun, (Surah Shams 91:2)***
 
@@ -154,11 +110,7 @@ The Imam said that ‘moon’ refers to Amirul Momineen (a.s.) as the light
 of the moon is from the sun, in the same way the Ali (a.s.) acquired
 knowledge from the Holy Prophet (S).
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّهَارِ إِذَا جَلَّاهَا.
-  </p>
-</blockquote>
+> وَالنَّهَارِ إِذَا جَلَّاهَا.
 
 ***And the day when it shows it, (Surah Sham 91:3)***
 
@@ -166,11 +118,7 @@ It refers to the Imams from the progeny of Fatima (s.a.) and when they
 are questioned about the religion of the Holy Prophet (S), so they
 illuminate it and explain to the one who is posing the questions.
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّيْلِ إِذَا يَغْشَاهَا.
-  </p>
-</blockquote>
+> وَاللَّيْلِ إِذَا يَغْشَاهَا.
 
 ***And the night when it draws a veil over it, (Surah Shams 91:4)***
 
@@ -179,53 +127,33 @@ Caliphate from Aale Muhammad and sat in the gathering in which the
 Progeny of the Prophet were better than them and they covered the
 religion of the Holy Prophet (S) with injustice and cruelty.
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا.
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا.
 
 ***And the soul and Him Who made it perfect, (Surah Shams 91:7)***
 
 It means by Soul and He that created it and made it properly.
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا.
-  </p>
-</blockquote>
+> فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا.
 
 ***Then He inspired it to understand what is right and wrong for it;
 (Surah Shams 91:8)***
 
 It means they were made to differentiate between truth and falsehood.
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَنْ زَكَّاهَا.
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَنْ زَكَّاهَا.
 
 ***He will indeed be successful who purifies it, (Surah Shams 91:9)***
 
 He achieved success whom Allah has purified.
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ خَابَ مَنْ دَسَّاهَا.
-  </p>
-</blockquote>
+> وَقَدْ خَابَ مَنْ دَسَّاهَا.
 
 ***And he will indeed fail who corrupts it. (Surah Shams 91:10)***
 
 And he despaired whose soul Allah has covered because of his sins and
 ignorance.
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا.
-  </p>
-</blockquote>
+> كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا.
 
 ***Thamud gave the lie (to the truth) in their inordinacy, (Surah Shams
 91:11)***
@@ -236,13 +164,9 @@ The Imam said: Thamud denotes the group Shias who are against the true
 faith of the Imamiyah, like the Zaidiya etc. as mentioned at another
 place…
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَى عَلَى
-الْهُدَى فَأَخَذَتْهُمْ صَاعِقَةُ الْعَذَابِ الْهُونِ بِمَا كَانُوا
-يَكْسِبُونَ.
-  </p>
-</blockquote>
+> وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَى عَلَى
+> الْهُدَى فَأَخَذَتْهُمْ صَاعِقَةُ الْعَذَابِ الْهُونِ بِمَا كَانُوا
+> يَكْسِبُونَ.
 
 ***And as to Thamud, We showed them the right way, but they chose error
 (blindness) above guidance, so there overtook them the scourge of an
@@ -252,11 +176,7 @@ Imam (a.s.) said that Thamud denotes the deviated group of the Shia and
 ‘*the scourge of an abasing chastisement*’ stands for the sword of Imam
 Qaem (a.s.), when he will reappear.
 
-<blockquote dir="rtl">
-  <p>
-فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ.
-  </p>
-</blockquote>
+> فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ.
 
 ***So Allah’s apostle said to them (Leave alone) Allah’s she-camel,
 (Surah Shams 91:12)***
@@ -264,22 +184,14 @@ Qaem (a.s.), when he will reappear.
 Imam (a.s.) said that She-camel denotes the Imam who teaches them the
 divine sciences.
 
-<blockquote dir="rtl">
-  <p>
-وَسُقْيَاهَا.
-  </p>
-</blockquote>
+> وَسُقْيَاهَا.
 
 …and (give) her (to) drink.
 
 That is, he has the springs of knowledge and wisdom.
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ
-فَسَوَّاهَا.
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ
+> فَسَوَّاهَا.
 
 ***But they called him a liar and slaughtered her, therefore their Lord
 crushed them for their sin and levelled them (with the ground). (Surah
@@ -288,11 +200,7 @@ Shams 91:14)***
 Imam said that this denotes their punishment in the second coming
 (Raja’t).
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَخَافُ عُقْبَاهَا.
-  </p>
-</blockquote>
+> وَلَا يَخَافُ عُقْبَاهَا.
 
 ***And He fears not its consequence. (Surah Shams 91:15)***
 
@@ -323,11 +231,7 @@ When the sun sets people take benefits from the moon.
 There is a tradition by Haris Aavar from Imam Husain (a.s.) in the
 explanation of:
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّمْسِ وَضُحَاهَا.
-  </p>
-</blockquote>
+> وَالشَّمْسِ وَضُحَاهَا.
 
 ***I swear by the sun and its brilliance, (Surah Shams 91:1)***
 
@@ -358,11 +262,7 @@ will be like the one who has helped Firon against Moosa.
 
 Ali Ibne Ibrahim reports on the saying of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَى.
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَى.
 
 ***I swear by the star when it goes down. (Surah Najm 53:1)***
 
@@ -388,12 +288,8 @@ gone crazy in the love of his cousin brother (may Allah protect us)
 whatever he says, he says according to his whims and fancies. At this
 time the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوَى. مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى. وَمَا
-يَنْطِقُ عَنْ الْهَوَى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى.
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوَى. مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى. وَمَا
+> يَنْطِقُ عَنْ الْهَوَى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى.
 
 ***I swear by the star when it goes down. Your companion does not err,
 nor does he go astray; Nor does he speak out of desire. It is naught but
@@ -402,12 +298,8 @@ revelation that is revealed… (Surah Najm 53:1-4)***
 Ibne Mahyar has narrated that Ibne Kawaa asked about the explanation of
 the following verse from Amirul Momineen (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِالْخُنَّسِ. الْجَوَارِي الْكُنَّسِ. وَاللَّيْلِ إِذَا
-عَسْعَسَ. وَالصُّبْحِ إِذَا تَنَفَّسَ.
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِالْخُنَّسِ. الْجَوَارِي الْكُنَّسِ. وَاللَّيْلِ إِذَا
+> عَسْعَسَ. وَالصُّبْحِ إِذَا تَنَفَّسَ.
 
 ***But nay! I swear by the stars (Khannas) that run their course (Javar)
 (and) hide themselves (Kunnas). And the night when it departs. And the
@@ -429,11 +321,7 @@ it denotes that Imam who after being concealed from his people would
 reappear again like a meteor that shines in the darkness of the night.
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ.
-  </p>
-</blockquote>
+> وَعَلَامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ.
 
 ***And landmarks; and by the stars they find the right way. (Surah Naml
 27:16)***
@@ -493,5 +381,4 @@ would be the same as the killer of the she-camel of Saleh, the most
 wicked person in the past as the latter is the most wicked person in the
 later people. If you understand this explanation many problems in the
 traditions can be resolved.
-
 

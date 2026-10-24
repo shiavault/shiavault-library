@@ -217,4 +217,3 @@ and his family. The versions in which the words “follow his” have been
 recorded are in accordance with Biḥār al-anwār and Ithbāt al-hudāt
 except that in its end ‘Wise’ is used instead of ‘Noble’.
 
-

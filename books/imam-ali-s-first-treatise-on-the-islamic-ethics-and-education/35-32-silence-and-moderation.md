@@ -1,28 +1,24 @@
 32) Silence and Moderation
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-"وتَلافِيكَ ما فَرَطَ مِن صَمتِكَ ايسَرُ مِن اِدراكِ مَا فَاتَ مِن
-مَنطِقِكَ وَحِفْظُ مَا في الوِعاءِ بِشَدِّ الوِكاءِ وحِفظُ مَا في
-يَدَيكَ اَحبُّ اِليَّ مِن طَلَبِ ما في يَدَيْ غَيرِكَ، ومَرارَةُ
-اليَأسِ خَيرٌ مِن الطَلَبِ اِلى النّاسِ والحِرفَةُ مَعَ العِفَّةِ
-خَيرٌ مِنَ الغِنَى مَعَ الفُجُورِ، والمَرءُ اَحفَظُ لِسِرّه ورُبَّ
-ساعٍ فِيما يَضُرّه، مَن اكثَر اَهجَرَ ومَن تَفَكّر اَبصَر، قارِن اَهلَ
-الخَيرِ تَكُن مِنهُم وبَاين اَهلَ الشَرِّ تَبِن عَنهُم. بِئسَ الطَعامُ
-الحَرامُ، وظُلمُ الضَعيفِ اَفحَشُ الظُلمِ، اِذا كانَ الرِفْقُ خَرَقاً
-كانَ الخَرَقُ رِفقاً، رُبَما كانَ الدَواءُ دَاءً والدَاءُ دَواءً
-وَرُبَما نَصَحَ غَيرُ الناصِحِ وغَشَّ المُستَنْصَحُ. واِيّاكَ
-والاِتِكالِ على المُنى فَاِنّها بَضائِعُ النُوكى والعَقلُ حِفظُ
-التَجارِبِ وخَيرُ مَا جَرَّبتَ ما وَعَظَكَ بَادِر الفُرصَةَ قَبلَ اَن
-تَكونَ غُصَّةً لَيسَ كُلُّ طَالِبٍ يُصِيبُ ولا غَائِبٌ يَئُوبُ ومِنَ
-الفَسادِ اِضاعَةُ الزَّادِ ومَفسَدةُ المَعادِ ولِكُلِّ اَمرٍ عَاقِبَةٌ
-سَوفَ يَأتِيكَ ما قُدِّرَ لَكَ، التاجِرُ مُخاطِرٌ ورُبَّ يَسيرٍ اَنمى
-مِن كَثِيرٍ، لا خَيرَ في مُعِينٍ مُهِينٍ ولا في صَدِيقٍ ظَنِين،
-سَاحِلُ الدَّهرِ ما ذلّ لَكَ قُعُودُه ولا تُخاطِر بِشَيئٍ رَجاءَ
-اَكثَرَ مِنهُ، واِيّاكَ اَن تَجمَحَ بِكَ مَطِيّةُ اللجَاجِ"
-  </p>
-</blockquote>
+> "وتَلافِيكَ ما فَرَطَ مِن صَمتِكَ ايسَرُ مِن اِدراكِ مَا فَاتَ مِن
+> مَنطِقِكَ وَحِفْظُ مَا في الوِعاءِ بِشَدِّ الوِكاءِ وحِفظُ مَا في
+> يَدَيكَ اَحبُّ اِليَّ مِن طَلَبِ ما في يَدَيْ غَيرِكَ، ومَرارَةُ
+> اليَأسِ خَيرٌ مِن الطَلَبِ اِلى النّاسِ والحِرفَةُ مَعَ العِفَّةِ
+> خَيرٌ مِنَ الغِنَى مَعَ الفُجُورِ، والمَرءُ اَحفَظُ لِسِرّه ورُبَّ
+> ساعٍ فِيما يَضُرّه، مَن اكثَر اَهجَرَ ومَن تَفَكّر اَبصَر، قارِن اَهلَ
+> الخَيرِ تَكُن مِنهُم وبَاين اَهلَ الشَرِّ تَبِن عَنهُم. بِئسَ الطَعامُ
+> الحَرامُ، وظُلمُ الضَعيفِ اَفحَشُ الظُلمِ، اِذا كانَ الرِفْقُ خَرَقاً
+> كانَ الخَرَقُ رِفقاً، رُبَما كانَ الدَواءُ دَاءً والدَاءُ دَواءً
+> وَرُبَما نَصَحَ غَيرُ الناصِحِ وغَشَّ المُستَنْصَحُ. واِيّاكَ
+> والاِتِكالِ على المُنى فَاِنّها بَضائِعُ النُوكى والعَقلُ حِفظُ
+> التَجارِبِ وخَيرُ مَا جَرَّبتَ ما وَعَظَكَ بَادِر الفُرصَةَ قَبلَ اَن
+> تَكونَ غُصَّةً لَيسَ كُلُّ طَالِبٍ يُصِيبُ ولا غَائِبٌ يَئُوبُ ومِنَ
+> الفَسادِ اِضاعَةُ الزَّادِ ومَفسَدةُ المَعادِ ولِكُلِّ اَمرٍ عَاقِبَةٌ
+> سَوفَ يَأتِيكَ ما قُدِّرَ لَكَ، التاجِرُ مُخاطِرٌ ورُبَّ يَسيرٍ اَنمى
+> مِن كَثِيرٍ، لا خَيرَ في مُعِينٍ مُهِينٍ ولا في صَدِيقٍ ظَنِين،
+> سَاحِلُ الدَّهرِ ما ذلّ لَكَ قُعُودُه ولا تُخاطِر بِشَيئٍ رَجاءَ
+> اَكثَرَ مِنهُ، واِيّاكَ اَن تَجمَحَ بِكَ مَطِيّةُ اللجَاجِ"
 
 *“Your redressing what you have missed through your silence is easier
 than attaining what you have lost through your speech, Safeguarding the
@@ -92,23 +88,15 @@ language with hypocrisy, artificiality, and talkativeness.[^2]
 It is for this reason that in Islam, emphasis is more on silence. The
 Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-"رَحِمَ الله عَبداً تَكَلَّمَ خَيراً فغَنِم او سَكَتَ فَسَلِمَ"
-  </p>
-</blockquote>
+> "رَحِمَ الله عَبداً تَكَلَّمَ خَيراً فغَنِم او سَكَتَ فَسَلِمَ"
 
 *"May God have mercy on a servant (of God) who speaks good and acquires
 benefit or keeps silent and remains safe".*[^3]
 
 The great Prophet (S) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن كانَ يُؤمِنُ بِاللهِ واليَومِ الآخِرِ فَليَقُل خَيراً او
-لِيَصمُت"
-  </p>
-</blockquote>
+> "مَن كانَ يُؤمِنُ بِاللهِ واليَومِ الآخِرِ فَليَقُل خَيراً او
+> لِيَصمُت"
 
 *"One who believes in Allah and the Last Day, let him speak good things
 or remain silent"*[^4]
@@ -116,24 +104,16 @@ or remain silent"*[^4]
 Imam Sadiq (as) said when talking about Prophet David, who had told his
 son:
 
-<blockquote dir="rtl">
-  <p>
-"يا بُنَيَّ اِن كُنتَ زَعمتَ اَنَّ الكَلامَ مِن فِضّةٍ فَاِنَّ
-السُكُوتَ مِن ذَهَبٍ"
-  </p>
-</blockquote>
+> "يا بُنَيَّ اِن كُنتَ زَعمتَ اَنَّ الكَلامَ مِن فِضّةٍ فَاِنَّ
+> السُكُوتَ مِن ذَهَبٍ"
 
 *"O my son, if you say that speech is of silver, then silence is of
 gold"*[^5]*.*
 Imam Reza (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مِن عَلامَاتِ الفِقهِ الحِلمُ والعِلمُ والصَمتُ اِنَّ الصَمْتَ بَابٌ
-مِن اَبوابِ الحِكْمَةِ، اِنَّ الصمتَ يُكسِبُ المَحَبَّة ـ الجَنَّةَ ـ
-اِنَّهُ دَليلُ عَلَى كُلِّ خَيرٍ"
-  </p>
-</blockquote>
+> "مِن عَلامَاتِ الفِقهِ الحِلمُ والعِلمُ والصَمتُ اِنَّ الصَمْتَ بَابٌ
+> مِن اَبوابِ الحِكْمَةِ، اِنَّ الصمتَ يُكسِبُ المَحَبَّة ـ الجَنَّةَ ـ
+> اِنَّهُ دَليلُ عَلَى كُلِّ خَيرٍ"
 
 *"Among the signs of being learned are forbearance, knowledge and
 silence. Silence is one of the doors of wisdom. Silence is a means of
@@ -142,40 +122,28 @@ good"*[^6]*.*
 
 And in “Misbah al-Shari’ah” it is narrated from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-"الصَّمْتُ شِعارُ المُحَقّقِينَ بِحقَائِقِ ما سَبَقَ وجَفَّ القَلمُ
-بهِ وهُو مِفتاحُ كُلِّ راحة مِنَ الدُّنيا وَالآخِرَةِ والصُونُ مِنَ
-الخَطايَا وَالزَلَلِ وَقَد جَعَلَهُ الله سِتْراً على الجَاهِلِ
-وَتَزَيُناً لِلعَالِم وفِيهِ عَزلُ الهَوى وَرِياضَةُ النَّفسِ
-وَحَلاوَةُ العِبادَةِ وَزَوالُ قَسَاوَةِ القَلبِ وَالعَفَافُ
-وَالمُروَّةُ وَالظَرَف فَاغلِق بَابَ لِسانِكَ عَمّا لَكَ مِنهُ بَدَلاً
-سِيما اِذا لَم تَجِد اَهلاً لِلكَلامِ والمُساعَدَةِ في المُذاكَرَةِ
-لله وفي الله.
-  </p>
-</blockquote>
+> "الصَّمْتُ شِعارُ المُحَقّقِينَ بِحقَائِقِ ما سَبَقَ وجَفَّ القَلمُ
+> بهِ وهُو مِفتاحُ كُلِّ راحة مِنَ الدُّنيا وَالآخِرَةِ والصُونُ مِنَ
+> الخَطايَا وَالزَلَلِ وَقَد جَعَلَهُ الله سِتْراً على الجَاهِلِ
+> وَتَزَيُناً لِلعَالِم وفِيهِ عَزلُ الهَوى وَرِياضَةُ النَّفسِ
+> وَحَلاوَةُ العِبادَةِ وَزَوالُ قَسَاوَةِ القَلبِ وَالعَفَافُ
+> وَالمُروَّةُ وَالظَرَف فَاغلِق بَابَ لِسانِكَ عَمّا لَكَ مِنهُ بَدَلاً
+> سِيما اِذا لَم تَجِد اَهلاً لِلكَلامِ والمُساعَدَةِ في المُذاكَرَةِ
+> لله وفي الله.
 
-<blockquote dir="rtl">
-  <p>
-وكَانَ رَبِيعُ ابنُ خَثِيم يَضَعُ قِرطاساً بَينَ يَدَيهِ فَيِكتُبُ
-كُلَّ ما يَتَكَلَّمُ بِهِ ثُمَّ يُحاسِبُ نَفسَهُ عَشِيَّة مَا لَهُ
-ومَا عَليهِ وَيقُولُ آهٍ آهٍ نَجا الصامِتُونَ وبَقِينا، وَكَان بَعضُ
-اَصحَابِ رَسُولِ الله صلّى الله عليه وآله يَضَعُ الحَصَاةَ فِي فَمِهِ
-فاِذا ارادَ اَن يَتَكَلَّمَ بِما عَلِمَ اَنَّه للهِ وفي الله ولِوَجِهِ
-الله اخرَجَها...
-  </p>
-</blockquote>
+> وكَانَ رَبِيعُ ابنُ خَثِيم يَضَعُ قِرطاساً بَينَ يَدَيهِ فَيِكتُبُ
+> كُلَّ ما يَتَكَلَّمُ بِهِ ثُمَّ يُحاسِبُ نَفسَهُ عَشِيَّة مَا لَهُ
+> ومَا عَليهِ وَيقُولُ آهٍ آهٍ نَجا الصامِتُونَ وبَقِينا، وَكَان بَعضُ
+> اَصحَابِ رَسُولِ الله صلّى الله عليه وآله يَضَعُ الحَصَاةَ فِي فَمِهِ
+> فاِذا ارادَ اَن يَتَكَلَّمَ بِما عَلِمَ اَنَّه للهِ وفي الله ولِوَجِهِ
+> الله اخرَجَها...
 
-<blockquote dir="rtl">
-  <p>
-واِنَّما سَبَبُ هَلاكِ الخَلقِ ونَجَاتِهِم الكَلامُ وَالصَّمتُ فَطُوبى
-لِمَن رُزِقَ مَعرِفَةَ عَيبِ الكَلامِ وصَوابِهِ وفَوائِدَ الصَّمتِ
-فاِنَّ ذلِكَ مِن اخلاقِ الانبياءِ وشِعارُ الاصفِياء ومَن عَلِمَ قَدْرَ
-الكَلامِ اَحسَنَ صُحبَتَهُ الصَّمت ومَن اَشرَفَ على لَطائِفِ الصَّمْتِ
-وأتُمِنَ على خَزائِنهِ كان كَلامُهُ وصَمتُهُ عِبادَة ولا يَطَّلِعُ
-عَلَى عِبادَتِهِ هذا الا المَلِكُ الجَبَّار"
-  </p>
-</blockquote>
+> واِنَّما سَبَبُ هَلاكِ الخَلقِ ونَجَاتِهِم الكَلامُ وَالصَّمتُ فَطُوبى
+> لِمَن رُزِقَ مَعرِفَةَ عَيبِ الكَلامِ وصَوابِهِ وفَوائِدَ الصَّمتِ
+> فاِنَّ ذلِكَ مِن اخلاقِ الانبياءِ وشِعارُ الاصفِياء ومَن عَلِمَ قَدْرَ
+> الكَلامِ اَحسَنَ صُحبَتَهُ الصَّمت ومَن اَشرَفَ على لَطائِفِ الصَّمْتِ
+> وأتُمِنَ على خَزائِنهِ كان كَلامُهُ وصَمتُهُ عِبادَة ولا يَطَّلِعُ
+> عَلَى عِبادَتِهِ هذا الا المَلِكُ الجَبَّار"
 
 *"Silence is the mark of those who confirm the realities of what came
 before and of which the pen has written. It is the key to every ease in
@@ -255,18 +223,14 @@ supposed to be silent.
 When Imam Zayn al-‘Abidin (as) was asked which one was better: speech or
 silence, he answered:
 
-<blockquote dir="rtl">
-  <p>
-"لِكُلِّ وَاحدٍ مِنهُما آفاتٌ فَاِذا سَلِما مِنَ الآفاتِ فالكَلامُ
-افضَلُ مِنَ السكُوت قِيلَ كَيفَ ذَلِكَ يابنَ رَسُولِ الله؟ قالَ لأنَّ
-الله عَزَّوجَلَّ مَا بَعَثَ الاَنبِياءَ وَالأَوصِياءَ بِالسكُوتِ
-اِنَّما بَعَثَهُم بِالكَلام ولا استُحِقَّت الجَنَّةُ بِالسُكُوتِ ولا
-استُوجِبَت وِلايةُ اللهِ بِالسُكُوتِ ولا تُوقِّيَتِ النارُ بالسُكُوتِ
-اِنَّما ذَلِكَ كُلُهُ بِالكَلامِ مَا كُنتُ لاَعدِلَ القَمَرَ بِالشَمسِ
-اِنّك تَصِفُ فَضلَ السُكُوتِ بِالكَلامِ ولَسْتَ تَصِفُ فَضْلَ الكَلامِ
-بِالسُكوتِ"
-  </p>
-</blockquote>
+> "لِكُلِّ وَاحدٍ مِنهُما آفاتٌ فَاِذا سَلِما مِنَ الآفاتِ فالكَلامُ
+> افضَلُ مِنَ السكُوت قِيلَ كَيفَ ذَلِكَ يابنَ رَسُولِ الله؟ قالَ لأنَّ
+> الله عَزَّوجَلَّ مَا بَعَثَ الاَنبِياءَ وَالأَوصِياءَ بِالسكُوتِ
+> اِنَّما بَعَثَهُم بِالكَلام ولا استُحِقَّت الجَنَّةُ بِالسُكُوتِ ولا
+> استُوجِبَت وِلايةُ اللهِ بِالسُكُوتِ ولا تُوقِّيَتِ النارُ بالسُكُوتِ
+> اِنَّما ذَلِكَ كُلُهُ بِالكَلامِ مَا كُنتُ لاَعدِلَ القَمَرَ بِالشَمسِ
+> اِنّك تَصِفُ فَضلَ السُكُوتِ بِالكَلامِ ولَسْتَ تَصِفُ فَضْلَ الكَلامِ
+> بِالسُكوتِ"
 
 *"Both speech and silence have their harmful aspects. If both are free
 from harm, then speech is more excellent than silence”. It was said:
@@ -289,11 +253,7 @@ and we are His creature. Sometimes God sends one’s livelihood without
 intermediary. But most often He obliges some people to carry out this
 task in order to shape their characters:
 
-<blockquote dir="rtl">
-  <p>
-"وأَنفِقُوا مِمَّا رَزَقْنَاكُمْ"
-  </p>
-</blockquote>
+> "وأَنفِقُوا مِمَّا رَزَقْنَاكُمْ"
 
 ***"And spend out of what we have given you."***[^8]
 
@@ -304,12 +264,8 @@ miserly.
 
 Islam reproaches both groups severely and orders moderation.
 
-<blockquote dir="rtl">
-  <p>
-"وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ وَلَا تَبْسُطْهَا
-كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَحْسُورًا"
-  </p>
-</blockquote>
+> "وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ وَلَا تَبْسُطْهَا
+> كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَحْسُورًا"
 
 ***"And do not make your hand to be shackled to your neck nor stretch it
 forth to the utmost limit of its stretching forth, lest you should
@@ -319,12 +275,8 @@ And in Surah al-Furqan where the attributes of the true believers are
 enumerated, one of the specific characteristics of such people is
 considered to be moderation:
 
-<blockquote dir="rtl">
-  <p>
-"وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
-بَيْنَ ذَلِكَ قَوَامًا
-  </p>
-</blockquote>
+> "وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ
+> بَيْنَ ذَلِكَ قَوَامًا
 
 ***"And they who when they spend are neither extravagant nor
 parsimonious, and keep between these the just mean."***[^10]
@@ -347,11 +299,7 @@ mentioned in the above Surahs and by Imam (as) and donation which is
 mentioned in different Islamic traditions as well as in the ninth verse
 of Hashr:
 
-<blockquote dir="rtl">
-  <p>
-"وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ"
-  </p>
-</blockquote>
+> "وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ"
 
 ***"And prefer them before themselves though poverty may afflict them"
 [Qur’an 59:9].***
@@ -392,13 +340,9 @@ following traditions:
 
 Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"ثَلاثةٌ هِيَ فَخرُ المُؤمِن وزِينَتُه في الدُّنيا والآخِرة: الصلواتُ
-في آخِرِ الَّليلِ ويَأسِهِ مِمّا في اَيدِي النّاسِ ووِلايةُ الإمامَ
-مِن آلِ مُحمَّد (ص)"
-  </p>
-</blockquote>
+> "ثَلاثةٌ هِيَ فَخرُ المُؤمِن وزِينَتُه في الدُّنيا والآخِرة: الصلواتُ
+> في آخِرِ الَّليلِ ويَأسِهِ مِمّا في اَيدِي النّاسِ ووِلايةُ الإمامَ
+> مِن آلِ مُحمَّد (ص)"
 
 *“There are three things which are a pride and an ornament for a
 believer here and in the Hereafter: Prayer at the end of* *the night,
@@ -407,14 +351,10 @@ cutting off hopes of what is in the hands of people and the wilaya
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-"اليأسُ مِمّا في اَيدِي النّاسِ عِزُّ المُؤمِن في دِينِهِ ومُروَّتِه
-في نَفسِهِ وشَرَفِهِ في دُنياهُ وعَظَمَتُه في اَعيُنِ النَاسِ
-وجَلالَتُهُ في عَشِيرَتِه ومَهابَتِه عِندَ عِيالِهِ وَهُوَ اغنى
-النّاسِ عِندَ نَفسِهِ وعِندَ جَمِيعِ النّاس"
-  </p>
-</blockquote>
+> "اليأسُ مِمّا في اَيدِي النّاسِ عِزُّ المُؤمِن في دِينِهِ ومُروَّتِه
+> في نَفسِهِ وشَرَفِهِ في دُنياهُ وعَظَمَتُه في اَعيُنِ النَاسِ
+> وجَلالَتُهُ في عَشِيرَتِه ومَهابَتِه عِندَ عِيالِهِ وَهُوَ اغنى
+> النّاسِ عِندَ نَفسِهِ وعِندَ جَمِيعِ النّاس"
 
 *"Cutting off hopes in what people possess causes a believer’s glory in
 his religion, sense of honour in soul, his noblity in his world, his
@@ -424,11 +364,7 @@ his own view and before all mankind."*[^13]
 
 Imam ‘Ali (as) is narrated to have said:
 
-<blockquote dir="rtl">
-  <p>
-"الغِنى الأكبَر اليأسُ عمَّا في اَيدِي النّاس"
-  </p>
-</blockquote>
+> "الغِنى الأكبَر اليأسُ عمَّا في اَيدِي النّاس"
 
 *"The greatest wealth is cutting off hopes of what is in the hands of
 people”.*[^14]
@@ -472,11 +408,7 @@ ever-lasting.[^15]
 
 It is for this reason that Imam ‘Ali (as) states:
 
-<blockquote dir="rtl">
-  <p>
-"والحِرفَةُ مَعَ العِفّةِ خَيرٌ مِنَ الغِنى مَعَ الفُجُورِ"
-  </p>
-</blockquote>
+> "والحِرفَةُ مَعَ العِفّةِ خَيرٌ مِنَ الغِنى مَعَ الفُجُورِ"
 
 *"An occupation (to earn one’s living) accompanied by chastity is better
 than wealth accompanied by immorality”.*
@@ -518,11 +450,7 @@ Firstly you should find trustworthy persons to disclose your secrets.
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"لا تُؤدِّ عَن سِرِّكَ مَن لا اَمانَةَ لَهُ"
-  </p>
-</blockquote>
+> "لا تُؤدِّ عَن سِرِّكَ مَن لا اَمانَةَ لَهُ"
 
 *"Do not entrust your secret to one who is not trustworthy".*[^16]
 
@@ -530,12 +458,8 @@ Secondly, we should not even tell the whole secret to the trustworthy
 because on the one hand, that secret might somehow get revealed and hurt
 us. In this regard Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن كَتَم سِرَّهُ كانَتِ الخِيَرةُ بِيَدهِ وكُلُّ حَدِيثٍ جَاوَزَ
-اثنَين فَشا"
-  </p>
-</blockquote>
+> "مَن كَتَم سِرَّهُ كانَتِ الخِيَرةُ بِيَدهِ وكُلُّ حَدِيثٍ جَاوَزَ
+> اثنَين فَشا"
 
 *"One who conceals his secrets has the choice in his hand. Any
 conversation that is between more than two persons will be
@@ -543,22 +467,14 @@ revealed"*[^17]
 
 Elsewhere Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"سِرُّكَ اَسِيرُكَ فَاِن اَفشَيتَهُ صِرتَ اَسِيرَهُ"
-  </p>
-</blockquote>
+> "سِرُّكَ اَسِيرُكَ فَاِن اَفشَيتَهُ صِرتَ اَسِيرَهُ"
 
 *"Your secret is your captive. Once you reveal it, you become its
 captive."*[^18]
 
 Imam ‘Ali (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-"سِرُّكَ سُرُورُكَ اِن كَتمتَهُ واِن اَذعتَهُ كانَ ثُبُورَك"
-  </p>
-</blockquote>
+> "سِرُّكَ سُرُورُكَ اِن كَتمتَهُ واِن اَذعتَهُ كانَ ثُبُورَك"
 
 *"Your secret is your happiness as long as you conceal it. When you
 reveal it, it is your destruction."*[^19]
@@ -567,12 +483,8 @@ On the other hand, people are not always the same; a friend today might
 turn into a foe tomorrow. He might, then, use that secret as a club on
 your head and hurt you. Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"لا تُطلِع صَدِيقَكَ مِن سِرِّكَ اِلا عَلى مَا لَو اَطلَعتَ عَلَيهِ
-عَدوَّكَ لمَ يَضُرُكَ فِانَّ الصَدِيقَ قَد يَكُونُ عَدوّاً يَوماً ما"
-  </p>
-</blockquote>
+> "لا تُطلِع صَدِيقَكَ مِن سِرِّكَ اِلا عَلى مَا لَو اَطلَعتَ عَلَيهِ
+> عَدوَّكَ لمَ يَضُرُكَ فِانَّ الصَدِيقَ قَد يَكُونُ عَدوّاً يَوماً ما"
 
 *"Do not disclose your secret to your friend except that much, which if
 you informed your enemy of it, it would not harm you. For one day your
@@ -586,11 +498,7 @@ Naturally, nobody could be a better secret-keeper than a person
 himself. He is the most reliable person concerning his secret. Imam ‘Ali
 (as) has said regarding this:
 
-<blockquote dir="rtl">
-  <p>
-"صَدرُكَ اَوسَعُ لِسِرِّكَ”
-  </p>
-</blockquote>
+> "صَدرُكَ اَوسَعُ لِسِرِّكَ”
 
 *"Your chest is the widest place to keep your secret".*[^21]
 
@@ -627,12 +535,8 @@ It is clear that those who struggle for Allah may not superficially be
 affluent in this world; but because God will not leave any service to
 Him unanswered, such a person has gained a lot:
 
-<blockquote dir="rtl">
-  <p>
-"وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَى لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ
-فَأُوْلَئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا"
-  </p>
-</blockquote>
+> "وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَى لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ
+> فَأُوْلَئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا"
 
 ***"And whoever desires the Hereafter and strives for it as he ought to
 strive and he is a believer; as for these, their striving shall surely
@@ -653,15 +557,11 @@ love mischief-making."***
 And as for those who assume they are doing good when actually are
 committing sins, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا الَّذِينَ ضَلَّ
-سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ
-يُحْسِنُونَ صُنْعًا أُولَئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ
-وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ
-الْقِيَامَةِ وَزْنًا"
-  </p>
-</blockquote>
+> "قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا الَّذِينَ ضَلَّ
+> سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ
+> يُحْسِنُونَ صُنْعًا أُولَئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ
+> وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ
+> الْقِيَامَةِ وَزْنًا"
 
 ***"Say: Shall We inform you of the greatest losers in their deeds?
 These are they whose labor is lost in this world's life and they think
@@ -684,22 +584,14 @@ Fortunately, in the Islamic traditions all these points are made clear.
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"الإكثارُ إضجار"
-  </p>
-</blockquote>
+> "الإكثارُ إضجار"
 
 *"Too much talking is annoying”.*[^24]
 
 At another occasion, he has said:
 
-<blockquote dir="rtl">
-  <p>
-"الإكثارُ يُزِلُّ الحَكِيم ويُمِلُّ الحَلِيم فَلا تُكثِر فَتَضجَر
-وتُفرِط فَتَهِن"
-  </p>
-</blockquote>
+> "الإكثارُ يُزِلُّ الحَكِيم ويُمِلُّ الحَلِيم فَلا تُكثِر فَتَضجَر
+> وتُفرِط فَتَهِن"
 
 *"Too much talking causes a wise man to err and wearies the forbearing
 one. Thus, do not talk too much such that you trouble people and exceed
@@ -707,34 +599,22 @@ the bounds, so you are held in little estimation."*[^25]
 
 Imam ‘Ali (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-"إيّاكَ وكَثرَةُ الكَلامِ فَاِنَّه يُكثِرُ الزَلل ويُورِثُ المَلَل"
-  </p>
-</blockquote>
+> "إيّاكَ وكَثرَةُ الكَلامِ فَاِنَّه يُكثِرُ الزَلل ويُورِثُ المَلَل"
 
 *"Beware of talking too much because it increases your errors and causes
 weariness.”*[^26]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-"كَثرَةُ الكَلامِ تُبسَطُ حَواشِيهِ وتَنقُصُ مَعانِيهِ فَلا يُرى لَهُ
-اَمَدٌ ولا يَنفَعُ بِهِ اَحَد"
-  </p>
-</blockquote>
+> "كَثرَةُ الكَلامِ تُبسَطُ حَواشِيهِ وتَنقُصُ مَعانِيهِ فَلا يُرى لَهُ
+> اَمَدٌ ولا يَنفَعُ بِهِ اَحَد"
 
 *"Excessive speech augments the superfluities in it and diminishes its
 meaning. There is no end to it and none will benefit from it.*[^27]
 
 He says:
 
-<blockquote dir="rtl">
-  <p>
-"اَقلِل الكَلامَ تَامَنِ المَلام"
-  </p>
-</blockquote>
+> "اَقلِل الكَلامَ تَامَنِ المَلام"
 
 *"Lessen your speech so that you are safe from blame."*[^28]
 
@@ -778,13 +658,9 @@ emphasized in the Islamic traditions and the Qur’anic verses.
 
 It is narrated from Solomon (as), the Prophet, who said,
 
-<blockquote dir="rtl">
-  <p>
-"لا تَحكُمُوا عَلى رَجُلٍ بِشَيئ حَتّى تَنظُرُوا اِلى مَن يُصاحِب
-فانَّما يُعرَفُ الرَجُلُ باشكالِه واقرانِهِ ويُنسَبُ الى اَصحابِه
-واِخوانِه"
-  </p>
-</blockquote>
+> "لا تَحكُمُوا عَلى رَجُلٍ بِشَيئ حَتّى تَنظُرُوا اِلى مَن يُصاحِب
+> فانَّما يُعرَفُ الرَجُلُ باشكالِه واقرانِهِ ويُنسَبُ الى اَصحابِه
+> واِخوانِه"
 
 *"Do not pass judgment on a person without seeing those with whom he
 keeps company; for a man is only known through his likes and his
@@ -792,18 +668,14 @@ companions, and is ascribed to his companions and brothers”.*[^30]
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مُجالَسَةُ الأشرارِ تُورِثُ سُوءَ الظنَّ بالأخيار ومُجالَسَةُ
-الأخيارِ تُلحِقُ الأشرارَ بالأخيارِ ومُجالَسَةُ الأبرارِ لِلفُجّارِ
-تُلحِقُ الأبرارَ بِالفُجّار، فَمَن اِشتَبَهَ عَلَيكُم اَمرُه ولم
-تَعرِفُوا دِينَه فانظُروا اِلى خُلَطائِهِ فاِن كانُوا اَهلَ دِينِ الله
-فَهُوَ على دِينِ الله واِن كانُوا عَلى غَيرِ دِينِ الله فَلا حَظَّ
-لَهُ مِن دِينِ الله اِنَّ رَسُولَ الله (ص) كان يقول: مَن كانَ يُؤمِن
-بالله واليَوم الآخِر فَلا يُؤاخِينَّ كافرا ولا يُخالِطَنَّ فَاجِراً
-ومَن آخى كافِراً او خالَطَ فاجِراً كانَ كَافِراً فاجراً"
-  </p>
-</blockquote>
+> "مُجالَسَةُ الأشرارِ تُورِثُ سُوءَ الظنَّ بالأخيار ومُجالَسَةُ
+> الأخيارِ تُلحِقُ الأشرارَ بالأخيارِ ومُجالَسَةُ الأبرارِ لِلفُجّارِ
+> تُلحِقُ الأبرارَ بِالفُجّار، فَمَن اِشتَبَهَ عَلَيكُم اَمرُه ولم
+> تَعرِفُوا دِينَه فانظُروا اِلى خُلَطائِهِ فاِن كانُوا اَهلَ دِينِ الله
+> فَهُوَ على دِينِ الله واِن كانُوا عَلى غَيرِ دِينِ الله فَلا حَظَّ
+> لَهُ مِن دِينِ الله اِنَّ رَسُولَ الله (ص) كان يقول: مَن كانَ يُؤمِن
+> بالله واليَوم الآخِر فَلا يُؤاخِينَّ كافرا ولا يُخالِطَنَّ فَاجِراً
+> ومَن آخى كافِراً او خالَطَ فاجِراً كانَ كَافِراً فاجراً"
 
 *“Companionship with evildoers causes an evil opionion about the good
 and companionship with the good links the evildoers to the good. The
@@ -820,11 +692,7 @@ infidel, a transgressor.*[^31]
 
 And the Prophet (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-"المَرء على دِينِ خَلِيلهِ فَلينظُر اَحدَكُم مَن يُخالِل"
-  </p>
-</blockquote>
+> "المَرء على دِينِ خَلِيلهِ فَلينظُر اَحدَكُم مَن يُخالِل"
 
 *"A man is of the same religion as his friend. Then every one of you be
 careful with whom you associate".*[^32]
@@ -838,14 +706,10 @@ of an animal over the Prophet's head and to insult him and to spit on
 his sacred face. The Qur’an expresses his mental status at the Day of
 Resurrection through the following words:
 
-<blockquote dir="rtl">
-  <p>
-"وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي
-اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا يَا وَيْلَتِي لَيْتَنِي لَمْ
-أَتَّخِذْ فُلَانًا خَلِيلًا لَقَدْ أَضَلَّنِي عَنْ الذِّكْرِ بَعْدَ
-إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ لِلْإِنسَانِ خَذُولًا"
-  </p>
-</blockquote>
+> "وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي
+> اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا يَا وَيْلَتِي لَيْتَنِي لَمْ
+> أَتَّخِذْ فُلَانًا خَلِيلًا لَقَدْ أَضَلَّنِي عَنْ الذِّكْرِ بَعْدَ
+> إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ لِلْإِنسَانِ خَذُولًا"
 
 ***"And the day when the unjust one shall bite his hands: O would that I
 had taken a way with the Apostle; O woe is me! Would that I had not
@@ -869,12 +733,8 @@ prohibited. Two of these traditions are reported here:
 
 Firstly: Imam ‘Ali (as) has said
 
-<blockquote dir="rtl">
-  <p>
-"اِحذَر مُجالَسَةَ قَرِينِ السُوءَ فاِنَهُ يُهلِكُ مُقارِنَهُ ويُردِي
-مُصاحِبَهُ"
-  </p>
-</blockquote>
+> "اِحذَر مُجالَسَةَ قَرِينِ السُوءَ فاِنَهُ يُهلِكُ مُقارِنَهُ ويُردِي
+> مُصاحِبَهُ"
 
 *“Be on your guard against associating with an evil companion for he
 will destroy his companion and ruin his friend."*[^34]
@@ -907,12 +767,8 @@ hurt man.
 The Holy Qur’an talks about the swallowers of the property of the
 orphans unjustly in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا"
-  </p>
-</blockquote>
+> "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا"
 
 ***"As for those who swallow the property of the orphans unjustly,
 surely they only swallow fire into their bellies and they shall enter
@@ -920,14 +776,10 @@ burning fire"***[^36]
 
 And as for those who conceal the rights, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللَّهُ مِنْ الْكِتَابِ
-وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُوْلَئِكَ مَا يَأْكُلُونَ فِي
-بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمْ اللَّهُ يَوْمَ
-الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
-  </p>
-</blockquote>
+> "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللَّهُ مِنْ الْكِتَابِ
+> وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُوْلَئِكَ مَا يَأْكُلُونَ فِي
+> بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمْ اللَّهُ يَوْمَ
+> الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
 
 ***"Surely those who conceal any part of the Book that Allah has
 revealed and take for it a small price, they eat nothing but fire in
@@ -940,12 +792,8 @@ and the concealers of facts, through which they gain illegal profits,
 the fire of Hell is anticipated. Their actions are symbolized as fires
 and this hurts them in the Hereafter.
 
-<blockquote dir="rtl">
-  <p>
-"ووَجَدُوا ما عَمِلُوا حاضِراً ـ ومَن يَعمَل مِثقَالَ ذَرَّةً شرّاً
-يَرَهُ "
-  </p>
-</blockquote>
+> "ووَجَدُوا ما عَمِلُوا حاضِراً ـ ومَن يَعمَل مِثقَالَ ذَرَّةً شرّاً
+> يَرَهُ "
 
 ***"And what they had done they shall find present there”.***[^38]
 ***“And he who has done an atom's weight of evil shall see it"***[^39]
@@ -955,13 +803,9 @@ reproached in the Islamic traditions, and it is supposed to be an agent
 against the acceptance of worship and prayers:
 The great Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اَكَلَ لُقمَةَ حَرامٍ لم تُقبَل لَه صَلاة اَربَعِينَ لَيلَةً ولم
-تُستَجَب لَهُ دَعوَةٌ اَربَعِينَ صباحاً وكُل لحَم يُنبِتَه الحَرامُ
-فالنارُ اولى بِهِ واِن الّلقمَةَ الواحِدَةَ تُنبِتُ الّلحْم"
-  </p>
-</blockquote>
+> "مَن اَكَلَ لُقمَةَ حَرامٍ لم تُقبَل لَه صَلاة اَربَعِينَ لَيلَةً ولم
+> تُستَجَب لَهُ دَعوَةٌ اَربَعِينَ صباحاً وكُل لحَم يُنبِتَه الحَرامُ
+> فالنارُ اولى بِهِ واِن الّلقمَةَ الواحِدَةَ تُنبِتُ الّلحْم"
 
 *"The prayers of one who takes a mouthful of forbidden food will not be
 accepted for forty nights and his supplications will not be accepted,
@@ -972,45 +816,29 @@ the growth of flesh"*[^40]
 The great Prophet (S), when answering someone who wanted his
 supplication to be accepted, said:
 
-<blockquote dir="rtl">
-  <p>
-"طَهِّر مَأكَلكَ. لا تُدخِل بَطنَكَ الحَرامَ"
-  </p>
-</blockquote>
+> "طَهِّر مَأكَلكَ. لا تُدخِل بَطنَكَ الحَرامَ"
 
 *"Purify your food and do not let anything forbidden enter your
 stomach"*[^41]
 
 In a tradition from Imam Sadiq (as) we read:
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ سَرَّهُ اَن تُستَجابَ دَعوَتَهُ فليُطَيّب مَكسَبَه"
-  </p>
-</blockquote>
+> "مَنْ سَرَّهُ اَن تُستَجابَ دَعوَتَهُ فليُطَيّب مَكسَبَه"
 
 *"One who wishes his supplication to be accepted, let his earnings be
 pure”.*[^42]
 
 There is another tradition saying:
 
-<blockquote dir="rtl">
-  <p>
-"لا يُحجَبُ عَنِّي دَعوَةٌ إلاّ دَعوَةُ آكِلِ الحَرامِ"
-  </p>
-</blockquote>
+> "لا يُحجَبُ عَنِّي دَعوَةٌ إلاّ دَعوَةُ آكِلِ الحَرامِ"
 
 *"No supplication is veiled from Me, except the supplication of those
 who eat what is forbidden."*[^43]
 
 We read in another tradition:
 
-<blockquote dir="rtl">
-  <p>
-"مَن وَقَى شَرَّ لَقلَقَهِ وقَبْقَبِهِ وذَبْذَبِهِ فَقَدِ وَجَبت لَهُ
-الجَنَّةُ"
-  </p>
-</blockquote>
+> "مَن وَقَى شَرَّ لَقلَقَهِ وقَبْقَبِهِ وذَبْذَبِهِ فَقَدِ وَجَبت لَهُ
+> الجَنَّةُ"
 
 *"Heaven is incumbent on one who preserves himself from the evil of his
 tongue, his stomach and his sexual organs."*[^44]
@@ -1034,11 +862,7 @@ of injustice is reproached in the Islamic traditions:
 Imam Baqir (as) has said: My Father, at his death, told me one piece of
 advice:
 
-<blockquote dir="rtl">
-  <p>
-"يا بُنَيَّ اِيّاكَ وظُلمُ مَن لا يَجِدُ عَلَيكَ ناصِراً اِلاّ الله"
-  </p>
-</blockquote>
+> "يا بُنَيَّ اِيّاكَ وظُلمُ مَن لا يَجِدُ عَلَيكَ ناصِراً اِلاّ الله"
 
 *"My son! Beware of inflicting any injustice upon the one who has no
 helper except God to stand against you"*[^45]
@@ -1046,12 +870,8 @@ helper except God to stand against you"*[^45]
 Imam ‘Ali (as) was once asked: Which sin is the quickest in punishment
 for the sinner? He answered:
 
-<blockquote dir="rtl">
-  <p>
-"مَن ظَلَمَ مَن لا ناصِرَ لَه اِلا الله وجاوَرَ النِّعمَةَ
-بِالتَقْصِيرِ واستَطالَ بِالبَغِي عَلى الفَقِير"
-  </p>
-</blockquote>
+> "مَن ظَلَمَ مَن لا ناصِرَ لَه اِلا الله وجاوَرَ النِّعمَةَ
+> بِالتَقْصِيرِ واستَطالَ بِالبَغِي عَلى الفَقِير"
 
 *"One who inflicts injustice upon a person who has no helper except God,
 who does not appreciate the assets; and one who oppresses the
@@ -1059,23 +879,15 @@ poor."*[^46]
 
 The Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-"اشتَدَّ غَضَبُ الله على مَن ظَلَمَ مَن لا يَجِدُ ناصِراً غَيرَ الله"
-  </p>
-</blockquote>
+> "اشتَدَّ غَضَبُ الله على مَن ظَلَمَ مَن لا يَجِدُ ناصِراً غَيرَ الله"
 
 *"God's anger is severe toward a person who inflicts injustice on one
 who does not have any helper other than God."*[^47]
 
 Imam Sadiq (as) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-"مَا مِن مَظلَمَةٍ اَشَدُّ مِن مَظلَمَةٍ لا يَجِدُ صَاحِبُها عَلَيهَا
-عَوناً اِلاّ الله عَزَّوجَلَّ"
-  </p>
-</blockquote>
+> "مَا مِن مَظلَمَةٍ اَشَدُّ مِن مَظلَمَةٍ لا يَجِدُ صَاحِبُها عَلَيهَا
+> عَوناً اِلاّ الله عَزَّوجَلَّ"
 
 *"No injustice is worse than the one whose sufferer has no helper
 against it but God"*[^48]
@@ -1098,11 +910,7 @@ these actions were to keep the independence of the community.
 
 For this reason, Imam (as) has said in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"اِذا كانَ الرِفْقُ خَرَقاً كانَ الخَرَقُ رِفقاً"
-  </p>
-</blockquote>
+> "اِذا كانَ الرِفْقُ خَرَقاً كانَ الخَرَقُ رِفقاً"
 
 *"Where gentleness is considered to be roughness, there roughness is
 gentleness”.*
@@ -1126,11 +934,7 @@ benevolent and a well-wisher, and a sincere counselor might deceive us.
 A wise man listens critically to them.
 It is for this reason that Imam ‘Ali (as) emphasizes:
 
-<blockquote dir="rtl">
-  <p>
-"ورُبَما نَصَحَ غَيرُ الناصِحِ وَغَشَ المُستَنصَحُ"
-  </p>
-</blockquote>
+> "ورُبَما نَصَحَ غَيرُ الناصِحِ وَغَشَ المُستَنصَحُ"
 
 *"Sometimes one who is not a sincere counselor gives sincere advice and
 the one considered to be a sincere counselor gives insincere advice”.*
@@ -1138,13 +942,9 @@ the one considered to be a sincere counselor gives insincere advice”.*
 This teaching is in harmony with the instructions of the Holy Qur’an
 which says:
 
-<blockquote dir="rtl">
-  <p>
-"فَبَشِّرْ عِبَادِي الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ
-أَحْسَنَهُ أُوْلَئِكَ الَّذِينَ هَدَاهُمْ اللَّهُ وَأُوْلَئِكَ هُمْ
-أُوْلُوا الْأَلْبَابِ"
-  </p>
-</blockquote>
+> "فَبَشِّرْ عِبَادِي الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ
+> أَحْسَنَهُ أُوْلَئِكَ الَّذِينَ هَدَاهُمْ اللَّهُ وَأُوْلَئِكَ هُمْ
+> أُوْلُوا الْأَلْبَابِ"
 
 ***"Therefore give good news to my servants: Those who listen to the
 word then follow the best of it; those are they whom Allah has guided,
@@ -1162,23 +962,15 @@ quick replies (without thought) and excessive laughter"[^50]
 It seems that the topic of Abu Tammam’s poem is related to this part of
 Imam ‘Ali’s (as) statement.[^51] Abu Tammam says:
 
-<blockquote dir="rtl">
-  <p>
-"مَن كانَ مَرْعَى عَزمِهِ وهُمُومِهِ رَوضُ الأمانِي لمَ يَزَل
-مَهزُولاً"
-  </p>
-</blockquote>
+> "مَن كانَ مَرْعَى عَزمِهِ وهُمُومِهِ رَوضُ الأمانِي لمَ يَزَل
+> مَهزُولاً"
 
 "A person who pastures his determination and resolution in the meadows
 of wishes will always be weak."
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"ايّاكَ والإتِكالُ على المُنَى فاِنَّها بَضائِعُ النُوكى"
-  </p>
-</blockquote>
+> "ايّاكَ والإتِكالُ على المُنَى فاِنَّها بَضائِعُ النُوكى"
 
 *"Beware of relying on wishes for they are the capital of fools."*
 
@@ -1187,11 +979,7 @@ Imam ‘Ali (as) says:
 In the lexicon the word intellect (‘*aql*) means understanding.
 Sometimes it is used as an infinitive:
 
-<blockquote dir="rtl">
-  <p>
-وما يَعقِلُها اِلاّ العَالِمُونَ
-  </p>
-</blockquote>
+> وما يَعقِلُها اِلاّ العَالِمُونَ
 
 ***"And none understand them but the learned"***[^52]
 
@@ -1200,11 +988,7 @@ means: "The power which distinguishes good from bad, right from wrong,
 and truth from falsehood".[^53] Perhaps this second meaning is meant by
 the Prophet (S) when he said:
 
-<blockquote dir="rtl">
-  <p>
-"وما خَلَقَ الله خَلْقاً اَكرَمَ عَلَيهِ مِنَ العَقْلِ"
-  </p>
-</blockquote>
+> "وما خَلَقَ الله خَلْقاً اَكرَمَ عَلَيهِ مِنَ العَقْلِ"
 
 *"God has not created any creature nobler than the intellect"*[^54]
 
@@ -1213,23 +997,15 @@ which is a band by which a camel is fettered. Thus, ‘*aql* or intellect
 is in fact a power which hinders man from going astray. When Imam Sadiq
 (as) was asked what the intellect was, he answered:
 
-<blockquote dir="rtl">
-  <p>
-"مَا عُبِدَ بِهِ الرَّحمَنِ واكتَسَبَ بِهِ الِجنَان"
-  </p>
-</blockquote>
+> "مَا عُبِدَ بِهِ الرَّحمَنِ واكتَسَبَ بِهِ الِجنَان"
 
 *"The intellect is a power through which man worships God and by which
 he earns paradise".*
 
 Then he was asked: What was in Mu’awiya, then? He answered:
 
-<blockquote dir="rtl">
-  <p>
-"تِلكَ النَكرَاءُ تِلكَ الشَيْطَنَةُ وَهِيَ شَبِيهَةٌ بِالعَقلِ
-ولَيسَت بِالعَقْلِ"
-  </p>
-</blockquote>
+> "تِلكَ النَكرَاءُ تِلكَ الشَيْطَنَةُ وَهِيَ شَبِيهَةٌ بِالعَقلِ
+> ولَيسَت بِالعَقْلِ"
 
 *"That was cunning. That was devilry. It resembles intellect, but it is
 not intellect."*[^55]
@@ -1237,11 +1013,7 @@ not intellect."*[^55]
 And wherever God reproaches people because they lack intellect, the
 first meaning is meant:
 
-<blockquote dir="rtl">
-  <p>
-"صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ"
-  </p>
-</blockquote>
+> "صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ"
 
 ***"Deaf, dumb and blind, so they do not understand"***[^56]
 And wherever man, due to lack of intellect, is not considered to be
@@ -1259,24 +1031,16 @@ of injustice, etc.
 
 Concerning this, Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"العَقْلُ عَقلانِ: عَقْلُ الطَبْعِ وعَقْلُ التَجْرِبَةِ وكِلاهُمَا
-يُؤدّي الى المَنفَعَةِ"
-  </p>
-</blockquote>
+> "العَقْلُ عَقلانِ: عَقْلُ الطَبْعِ وعَقْلُ التَجْرِبَةِ وكِلاهُمَا
+> يُؤدّي الى المَنفَعَةِ"
 
 *"There are two kinds of intellect: innate intellect and intellect
 through experience. Both of these lead man towards benefits."*[^59]
 
 Imam ‘Ali (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-"العَقلُ عَقلانِ: مَطبُوعٌ وَمَسمُوعٌ ولا يَنفَعُ مَسمُوعٌ اِذا لمَ
-يَكُ مَطبُوع كَمَا لا يَنفَعُ ضَوءُ الشَمْسِ وضَوءُ العَينِ مَمنُوعٌ"
-  </p>
-</blockquote>
+> "العَقلُ عَقلانِ: مَطبُوعٌ وَمَسمُوعٌ ولا يَنفَعُ مَسمُوعٌ اِذا لمَ
+> يَكُ مَطبُوع كَمَا لا يَنفَعُ ضَوءُ الشَمْسِ وضَوءُ العَينِ مَمنُوعٌ"
 
 *"There are two kinds of intellect: innate and what is acquired through
 hearing. The intellect acquired through hearing is of no use when there
@@ -1286,11 +1050,7 @@ there is no eyesight."*[^60]
 Concerning the fact that the innate, natural intellect increases with
 experiences, Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"العَقْلُ غَرِيزَةٌ تَزِيدُ بِالعِلمِ والتَجارِب"
-  </p>
-</blockquote>
+> "العَقْلُ غَرِيزَةٌ تَزِيدُ بِالعِلمِ والتَجارِب"
 
 *"Intellect is an innate quality that increases through knowledge and
 experience."*[^61]
@@ -1309,11 +1069,7 @@ information in this world. Gaining knowledge and experience helps us to
 guide our lives in the right path.
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"وَخَيرَ ما جَرَّبتَ ما وَعَظكَ"
-  </p>
-</blockquote>
+> "وَخَيرَ ما جَرَّبتَ ما وَعَظكَ"
 
 *“The best of your experiences is that which teaches you a lesson.”*
 
@@ -1327,13 +1083,9 @@ understanding"***[^64]
 Imam ‘Ali (as) commands people to take lessons from the previous
 instructive events:
 
-<blockquote dir="rtl">
-  <p>
-"فاتَّعِظُوا عِبادَ اللهِ بِالعِبَرِ النَوافِعِ واعتَبِروا بالآي
-السَواطِعِ وازدَجِرُوا بِالنُذُرِ البَوالِغِ وانتَفِعُوا بِالذِكرِ
-وَالمَواعِظِ"
-  </p>
-</blockquote>
+> "فاتَّعِظُوا عِبادَ اللهِ بِالعِبَرِ النَوافِعِ واعتَبِروا بالآي
+> السَواطِعِ وازدَجِرُوا بِالنُذُرِ البَوالِغِ وانتَفِعُوا بِالذِكرِ
+> وَالمَواعِظِ"
 
 *"O servants of God, take warning from beneficial admonitions. Take
 lessons from the clear signs, restrain yourselves (from sin) through
@@ -1342,12 +1094,8 @@ exhortations."*[^65]
 
 Imam ‘Ali (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اَحكَمَ مِنَ التَجارِبِ سَلِمَ مِنَ العَواطِب, مَن غَنِيَ عَن
-التَجارِبِ عَمِيَ عَن العَواقِبِ"
-  </p>
-</blockquote>
+> "مَن اَحكَمَ مِنَ التَجارِبِ سَلِمَ مِنَ العَواطِب, مَن غَنِيَ عَن
+> التَجارِبِ عَمِيَ عَن العَواقِبِ"
 
 *"One who learns well from experiences is safe from misfortunes; and one
 who does not care about experiences cannot anticipate the
@@ -1355,21 +1103,13 @@ consequences"*[^66]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-(التَجرِبَةُ تُثمِرُ الاِعتِبَار)
-  </p>
-</blockquote>
+> (التَجرِبَةُ تُثمِرُ الاِعتِبَار)
 
 *“The fruit of experiences is learning lessons”.*[^67]
 
 He has said elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-"مَن حَفِظَ التَجارِبَ اَصابَت اَفعَالُهُ"
-  </p>
-</blockquote>
+> "مَن حَفِظَ التَجارِبَ اَصابَت اَفعَالُهُ"
 
 "*The deeds of one who safeguards his experiences will be
 correct."*[^68]
@@ -1377,11 +1117,7 @@ correct."*[^68]
 But, unfortunately, as Imam ‘Ali (as) says, the number of those who take
 lessons is few.
 
-<blockquote dir="rtl">
-  <p>
-"مَا اكثَرَ العِبَر واقَلَّ الإعتِبار"
-  </p>
-</blockquote>
+> "مَا اكثَرَ العِبَر واقَلَّ الإعتِبار"
 
 *"How great the number of cases for taking lessons is and how small is
 the number of those who learn lessons!"*[^69]
@@ -1392,23 +1128,15 @@ The proper conditions are not always ready for man. But once in a while
 there are good opportunities available to him. Later on, they might not
 exist any more. The Prophet (S) has said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ لِرَبِّكُم في أيّامِ دَهرِكُم نَفحَاتٌ ألا فَتَعرَّضُوا لها"
-  </p>
-</blockquote>
+> "اِنَّ لِرَبِّكُم في أيّامِ دَهرِكُم نَفحَاتٌ ألا فَتَعرَّضُوا لها"
 
 *"In the days of your life, there are fragrant breezes (of mercy) from
 your Lord. Take yourselves forward to benefit from them."*[^70]
 
 In this relation, the Prophet (S) is reported to have said,
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ فُتِحَ لَهُ بَابٌ مِنَ الخَيرِ فَليَنتَهِزهُ فإنَّه لا يُدرى
-مَتى يُغلَقُ عَنهُ"
-  </p>
-</blockquote>
+> "مَنْ فُتِحَ لَهُ بَابٌ مِنَ الخَيرِ فَليَنتَهِزهُ فإنَّه لا يُدرى
+> مَتى يُغلَقُ عَنهُ"
 
 *"One to whom a door of good is opened up, let him seize the opportunity
 since it is not known when it will be closed to him."*[^71]
@@ -1416,31 +1144,19 @@ since it is not known when it will be closed to him."*[^71]
 Of course the chances are as unstable as the clouds in the sky. You
 should seize them or else you will lose them for ever.
 
-<blockquote dir="rtl">
-  <p>
-"اِنتَهِزُوا فُرَصَ الخَيرِ فانَّها تَمُرُّ مَرَّ السَحابِ"
-  </p>
-</blockquote>
+> "اِنتَهِزُوا فُرَصَ الخَيرِ فانَّها تَمُرُّ مَرَّ السَحابِ"
 
 *"Seize opportunities for good since they pass away like clouds".*[^72]
 
-<blockquote dir="rtl">
-  <p>
-"تَركُ الفُرَصِ غُصَصٌ"
-  </p>
-</blockquote>
+> "تَركُ الفُرَصِ غُصَصٌ"
 
 *"Losing opportunities creates sorrows".*[^73]
 
 The Prophet (S) told Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-"اِغْتَنِم خَمساً قَبلَ خَمسٍ: شَبابَكَ قَبلَ هَرَمِكَ وصَحّتِكَ قَبلَ
-سَقَمِكَ وغِناكَ قَبلَ فَقرِكَ وفَراغَكَ قَبلَ شُغلِكَ وحَياتَكَ قَبلَ
-مَوتِكَ"
-  </p>
-</blockquote>
+> "اِغْتَنِم خَمساً قَبلَ خَمسٍ: شَبابَكَ قَبلَ هَرَمِكَ وصَحّتِكَ قَبلَ
+> سَقَمِكَ وغِناكَ قَبلَ فَقرِكَ وفَراغَكَ قَبلَ شُغلِكَ وحَياتَكَ قَبلَ
+> مَوتِكَ"
 
 *"Take advantage of five things prior to five other things: your youth
 prior to your age, your health prior to your sickness, your wealth prior
@@ -1450,11 +1166,7 @@ prior to your death."*[^74]
 It is for this reason that Imam ‘Ali (as) in his letter gives the
 following statement:
 
-<blockquote dir="rtl">
-  <p>
-"بَادِر الفُرصَةَ قَبلَ أن تَكُونَ غُصّةً"
-  </p>
-</blockquote>
+> "بَادِر الفُرصَةَ قَبلَ أن تَكُونَ غُصّةً"
 
 *"Hasten to avail of opportunity before it becomes grief."*
 
@@ -1496,12 +1208,8 @@ planning, however.
 
 Imam as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"الايّامُ ثَلاثَةٌ: فَيَومٌ لا يُدرَكُ ويَومٌ النّاسُ فِيه فَيَنبَغِي
-اَن يَغتَنِمُوه وغَداً إنّما فِيهِ اَملُه"
-  </p>
-</blockquote>
+> "الايّامُ ثَلاثَةٌ: فَيَومٌ لا يُدرَكُ ويَومٌ النّاسُ فِيه فَيَنبَغِي
+> اَن يَغتَنِمُوه وغَداً إنّما فِيهِ اَملُه"
 
 *"Life consists of three days: a day which has passed, never to return;
 the present day in which people are living, of which they should take
@@ -1510,46 +1218,30 @@ advantage; and tomorrow, in which one’s hopes lie."*[^75]
 Concerning the avoidance of depression and worry about the past and
 future Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"لا تُشْعِر قَلبَكَ الهَمّ على ما فاتَ فَيَشغَلَكَ عَنِ الاستِعدادِ
-بِما هُو آتِ"
-  </p>
-</blockquote>
+> "لا تُشْعِر قَلبَكَ الهَمّ على ما فاتَ فَيَشغَلَكَ عَنِ الاستِعدادِ
+> بِما هُو آتِ"
 
 *"Do not distress yourself about what has passed since it will occupy
 you from preparation for what is to come."*[^76]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-"لا تَحمِل هَمَّ يَومِكَ الّذِي لمَ يَأتِكَ على يَومَكَ الّذِي قَد
-اَتاكَ غُصَّةً"
-  </p>
-</blockquote>
+> "لا تَحمِل هَمَّ يَومِكَ الّذِي لمَ يَأتِكَ على يَومَكَ الّذِي قَد
+> اَتاكَ غُصَّةً"
 
 *"Do not impose the anxiety about your tomorrow on your today out of
 grief."*[^77]
 
 Elsewhere Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"وَما فَاتَكَ مِنهَا فَلا تَأسَ عَليهِ جَزَعاً"
-  </p>
-</blockquote>
+> "وَما فَاتَكَ مِنهَا فَلا تَأسَ عَليهِ جَزَعاً"
 
 *"Do not be grieved over what has escaped you of this world."*[^78]
 
 It is also said by Imam ‘Ali (as):
 
-<blockquote dir="rtl">
-  <p>
-"فَلا تَحمِل هَمَّ سَنَتِكَ على هَمِّ يَومِكَ كَفاكَ كُلُ يَومٍ ما
-فِيهِ"
-  </p>
-</blockquote>
+> "فَلا تَحمِل هَمَّ سَنَتِكَ على هَمِّ يَومِكَ كَفاكَ كُلُ يَومٍ ما
+> فِيهِ"
 
 *"Do not impose the anxieties for the year ahead on the anxiety of
 today. What each day holds is sufficient for you".*[^79]
@@ -1598,12 +1290,8 @@ creation would be aimless; secondly, the lack of such a day is in
 contradiction with God’s justice; thirdly, the unstable nature of this
 world shows that
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَى كُلُّ نَفْسٍ
-بِمَا تَسْعَى"
-  </p>
-</blockquote>
+> "إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَى كُلُّ نَفْسٍ
+> بِمَا تَسْعَى"
 
 ***"Surely the hour is coming. I am about to make it manifest so that
 every soul may be rewarded as it strives".***[^82]
@@ -1626,12 +1314,8 @@ to offer him some pieces of advice. The Prophet (S) asked him three
 times if he would carry out what he advised him on. The answer was
 positive. The Prophet (S) then said:
 
-<blockquote dir="rtl">
-  <p>
-"اُوصِيكَ اِذا أنتَ هَمَمتَ بِأمرٍ فَتَدَبَّر عَاقِبَتَهُ فإن يَكُ
-رُشداً فامضِهِ واِن يَكُ غيّاً فانتَهِ عَنهُ"
-  </p>
-</blockquote>
+> "اُوصِيكَ اِذا أنتَ هَمَمتَ بِأمرٍ فَتَدَبَّر عَاقِبَتَهُ فإن يَكُ
+> رُشداً فامضِهِ واِن يَكُ غيّاً فانتَهِ عَنهُ"
 
 *"I advise you, that when you intend to do something, reflect on its
 outcome. If it is in the right direction, continue with it; but if it is
@@ -1639,23 +1323,15 @@ on the path of error, leave it ".*[^84]
 
 Second, select the right path of action since the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا
-وَلَكِنَّ الْبِرَّ مَنْ اتَّقَى وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا"
-  </p>
-</blockquote>
+> "وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا
+> وَلَكِنَّ الْبِرَّ مَنْ اتَّقَى وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا"
 
 ***"..It is not righteousness that you whould enter houses at their
 backs, but righteousness is this that one should guard against evil; and
 go into the houses by their doors..."***[^85]
 Jabir has reported from Imam Baqir (as) his saying:
 
-<blockquote dir="rtl">
-  <p>
-"ويَنبَغِي أن تَأتُوا الامُورَ مِن جِهاتِها أيَّ الامورِ كَانَ"
-  </p>
-</blockquote>
+> "ويَنبَغِي أن تَأتُوا الامُورَ مِن جِهاتِها أيَّ الامورِ كَانَ"
 
 *"It is advisable to enter affairs, whatever they may be, through their
 (right) directions."*[^86]
@@ -1667,14 +1343,10 @@ guilty,[^90] mischief-makers[^91] and unjust.[^92]
 
 Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"اِن اَردتَ أن يُختَمَ بِخَيرٍ عَمَلُك حَتّى تَقبِضَ وانتَ في افضَلِ
-الاعمالِ فَعظِّم لله حَقَّهُ اَن تَبذِلَ نَعمَائَهُ في مَعاصِيهِ واَن
-تَغتَرَّ بِحلمِهِ عَنكَ واَكرِم كُلَّ مَن وَجَدتَهُ يَذكُرُنا او
-يَنتَحِلُ بِمَودَّتِنا"
-  </p>
-</blockquote>
+> "اِن اَردتَ أن يُختَمَ بِخَيرٍ عَمَلُك حَتّى تَقبِضَ وانتَ في افضَلِ
+> الاعمالِ فَعظِّم لله حَقَّهُ اَن تَبذِلَ نَعمَائَهُ في مَعاصِيهِ واَن
+> تَغتَرَّ بِحلمِهِ عَنكَ واَكرِم كُلَّ مَن وَجَدتَهُ يَذكُرُنا او
+> يَنتَحِلُ بِمَودَّتِنا"
 
 *"If you wish to seal your acts with good in such a way that at the time
 of death you have a good record of good deeds, then magnify the rights
@@ -1696,13 +1368,9 @@ Qayn.[^94]
 For this reason, the outcome is of crucial significance. Jesus Christ
 (as) has said in this connection:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ النّاسَ يَقُولُونَ: اِنَّ البِناءَ بِأسَاسِهِ واَنا لا اقولُ
-لَكُم كَذلِكَ، قالوا: فَماذا تَقُولُ يا رُوحَ الله؟ قال: بِحَقٍّ اقولُ
-لَكُم اِنَّ آخِرَ حَجَرٍ يَضَعُهُ العامِلُ هُوَ الأساسُ"
-  </p>
-</blockquote>
+> "اِنَّ النّاسَ يَقُولُونَ: اِنَّ البِناءَ بِأسَاسِهِ واَنا لا اقولُ
+> لَكُم كَذلِكَ، قالوا: فَماذا تَقُولُ يا رُوحَ الله؟ قال: بِحَقٍّ اقولُ
+> لَكُم اِنَّ آخِرَ حَجَرٍ يَضَعُهُ العامِلُ هُوَ الأساسُ"
 
 *"People say: The value of a building is determined by its foundation.
 But I do not say that to you”. They asked him: “What do you say, Spirit
@@ -1712,13 +1380,9 @@ says "What is meant is the end-product"*[^95]
 
 The Prophet (S) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اَحسَنَ فِيما بَقِيَ مِن عُمرِهِ لم يُؤاخَذُ بِما مَضَى مِن
-ذَنبِهِ ومَن اَساءَ فِيمَا بَقِيَ مِن عُمرِهِ اُخِذَ بِالأوَّلِ
-والآخِرِ"
-  </p>
-</blockquote>
+> "مَن اَحسَنَ فِيما بَقِيَ مِن عُمرِهِ لم يُؤاخَذُ بِما مَضَى مِن
+> ذَنبِهِ ومَن اَساءَ فِيمَا بَقِيَ مِن عُمرِهِ اُخِذَ بِالأوَّلِ
+> والآخِرِ"
 
 *"One who does good deeds for the remaining part of his life shall not
 suffer for the sins previously performed. But one who does evil in what
@@ -1727,11 +1391,7 @@ sins."*[^96]
 
 The Prophet (S) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-"مِلاكُ العَمَلِ خَواتِمُه"
-  </p>
-</blockquote>
+> "مِلاكُ العَمَلِ خَواتِمُه"
 
 *"The basis for the action (to be right or wrong) is its end."*[^97]
 
@@ -1742,12 +1402,8 @@ However, it is us who determine the results of our action.
 All events of this world, including the sustenance and livelihood of all
 creatures, are predetermined by Allah:
 
-<blockquote dir="rtl">
-  <p>
-"وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ
-إِلَّا بِقَدَرٍ مَعْلُومٍ"
-  </p>
-</blockquote>
+> "وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ
+> إِلَّا بِقَدَرٍ مَعْلُومٍ"
 
 ***"And there is not a thing but with Us are the treasures of it, and We
 do not send it down but in a known measure".***[^98]
@@ -1769,12 +1425,8 @@ need.[^99]
 
 And the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا
-وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِي كِتَابٍ مُبِينٍ"
-  </p>
-</blockquote>
+> "وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا
+> وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِي كِتَابٍ مُبِينٍ"
 
 ***"And there is no animal in the earth but on Allah is the sustenance
 of it, and He knows its resting place and its depository; all things are
@@ -1790,12 +1442,8 @@ pleasant consequences.
 
 Imam al-Kadhim (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الحَرامَ لا يَنمَى واِن نَمَى لمَ يُبارَك لَهُ فِيهِ ومَا
-اَنفَقَهُ لمَ يُؤجَر عَلَيهِ ومَا خَلَّفَهُ كانَ زَادَهُ اِلى النّارِ"
-  </p>
-</blockquote>
+> "اِنَّ الحَرامَ لا يَنمَى واِن نَمَى لمَ يُبارَك لَهُ فِيهِ ومَا
+> اَنفَقَهُ لمَ يُؤجَر عَلَيهِ ومَا خَلَّفَهُ كانَ زَادَهُ اِلى النّارِ"
 
 *"Unlawfully-gained assets will not increase in volume and value. Even
 if they do, they will not last. If one gives charity from such
@@ -1805,11 +1453,7 @@ for one's Hell fire"*[^101]
 
 Imam as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن جَمَعَ مالاً مِن مَهاوِش اَذهَبَهُ الله في نَهابِر"
-  </p>
-</blockquote>
+> "مَن جَمَعَ مالاً مِن مَهاوِش اَذهَبَهُ الله في نَهابِر"
 
 *"A person who gains wealth through unlawful means, God will take it
 away from him in places of destruction."*[^102]
@@ -1832,13 +1476,9 @@ History is filled with such events.
 One of the benefits of friendship is to get help in solving problems. It
 is for this reason that Imam ‘Ali (as) orders us:
 
-<blockquote dir="rtl">
-  <p>
-"عَلَيكُم بِالإخوَانِ فإنَّهُم عُدَّةٌ في الدُّنيا والآخِرَةِ اَلا
-تَستَمِعُونَ اِلى قَولِهِ تَعالى: فَمَا لَنَا مِنْ شَافِعِينَ وَلَا
-صَدِيقٍ حَمِيمٍ"
-  </p>
-</blockquote>
+> "عَلَيكُم بِالإخوَانِ فإنَّهُم عُدَّةٌ في الدُّنيا والآخِرَةِ اَلا
+> تَستَمِعُونَ اِلى قَولِهِ تَعالى: فَمَا لَنَا مِنْ شَافِعِينَ وَلَا
+> صَدِيقٍ حَمِيمٍ"
 
 *‘Strengthen your bonds of friendship with your brothers in religion,
 for they are a provision both here and in the Hereafter. Have you not
@@ -1860,22 +1500,14 @@ against your self, will have evil consequences, if you but knew”!*
 
 For this reason, the great Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن لمَ تَنفَع بِدِينِهِ ودُنياهُ فَلا خَيرَ لَكَ في مُجالَسَتِه"
-  </p>
-</blockquote>
+> "مَن لمَ تَنفَع بِدِينِهِ ودُنياهُ فَلا خَيرَ لَكَ في مُجالَسَتِه"
 
 *"There is no good in the companionship of one whose religion and world
 is not of any benefit."*[^105]
 
 It is for this reason that Imam ‘Ali (as) in his letter has emphasized:
 
-<blockquote dir="rtl">
-  <p>
-"لا خَيرَ في مُعِينٍ مُهِينٍ ولا في صَدِيقٍ ظَنِينٍ"
-  </p>
-</blockquote>
+> "لا خَيرَ في مُعِينٍ مُهِينٍ ولا في صَدِيقٍ ظَنِينٍ"
 
 *“There is no good in an ignoble helper or in a friend who is (whose
 sincerity is) suspect.”*
@@ -1894,21 +1526,13 @@ But the wise people continuously try to recognise the capacity and
 potentials of their time and patiently benefit from them. Regarding
 this, Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"الحازِمُ مَن دَارى زَمانَهُ"
-  </p>
-</blockquote>
+> "الحازِمُ مَن دَارى زَمانَهُ"
 
 *"A prudent man is he who adapts to his time."*
 
 Imam ‘Ali (as) emphasizes in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"سَاهِل الدَهرَ ما ذَلَّ لَكَ قُعُودُه"
-  </p>
-</blockquote>
+> "سَاهِل الدَهرَ ما ذَلَّ لَكَ قُعُودُه"
 
 *"As long as time is in your grasp, take your share of it".*
 
@@ -1938,11 +1562,7 @@ Imam ‘Ali (as) means by an adventurer merchant the one who keeps his
 capital but in order to get more profits, he engages in wise
 transactions. But when Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"ولا تُخاطِر بِشَيئٍ رَجاءَ أكثَرَ مِنهُ"
-  </p>
-</blockquote>
+> "ولا تُخاطِر بِشَيئٍ رَجاءَ أكثَرَ مِنهُ"
 
 "*Do not put anything at risk hoping for something more than it”.*
 
@@ -1956,13 +1576,9 @@ Holy Qur’an talks about the disclaimers of rightfulness, who suffer from
 obstinacy; the Qur’an says: These people insist on their wrong ways
 ignoring the blessings they enjoy:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فِي
-طُغْيَانِهِمْ يَعْمَهُونَ وَلَقَدْ أَخَذْنَاهُمْ بِالْعَذَابِ فَمَا
-اسْتَكَانُوا لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ"
-  </p>
-</blockquote>
+> "وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فِي
+> طُغْيَانِهِمْ يَعْمَهُونَ وَلَقَدْ أَخَذْنَاهُمْ بِالْعَذَابِ فَمَا
+> اسْتَكَانُوا لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ"
 
 ***"And if We show mercy to them and remove the distress they have, they
 would persist in their inordinacy, blindly wandering on. And We overtook
@@ -1971,33 +1587,21 @@ do they humble themselves."***[^106]
 
 Concerning these obstinate people, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"أَمَّنْ هَذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ بَلْ
-لَجُّوا فِي عُتُوٍّ وَنُفُورٍ"
-  </p>
-</blockquote>
+> "أَمَّنْ هَذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ بَلْ
+> لَجُّوا فِي عُتُوٍّ وَنُفُورٍ"
 
 ***"Or who is it that will give you sustenance if He should withhold His
 sustenance? Nay! They persist in disdain and aversion"***[^107]
 
 Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"اللجَاجَةُ تَسلِبُ الرأيَ"
-  </p>
-</blockquote>
+> "اللجَاجَةُ تَسلِبُ الرأيَ"
 
 *"Obstinacy deprives man of correct judgment".*[^108]
 
 At another case, he considers obstinacy as an agent for destruction:
 
-<blockquote dir="rtl">
-  <p>
-"اِيّاكَ أن تَطِيحَ بِكَ مَطِيَّة الّلجاج"
-  </p>
-</blockquote>
+> "اِيّاكَ أن تَطِيحَ بِكَ مَطِيَّة الّلجاج"
 
 "*Beware that the stubborn mount should run away with you”* (Avoid
 obstinacy because it will destroy you).[^109]
@@ -2006,12 +1610,8 @@ In a letter which he has written to people in different cities
 explaining what took place in Siffin, Imam ‘Ali (as) talks about the
 nastiness of obstinacy in the following words:
 
-<blockquote dir="rtl">
-  <p>
-"ومَن لَجَّ وتَمادَى فَهُو الراكِسُ الّذِي رانَ الله على قَلبِهِ
-وصَارَت دَائِرَةُ السَوءِ على رَأسِهِ"
-  </p>
-</blockquote>
+> "ومَن لَجَّ وتَمادَى فَهُو الراكِسُ الّذِي رانَ الله على قَلبِهِ
+> وصَارَت دَائِرَةُ السَوءِ على رَأسِهِ"
 
 *"One who is obstinate and persists (in straying from the right path) is
 one who has turned himself backwards (to disbelief), whose heart Allah
@@ -2030,12 +1630,8 @@ your own or was it an order from Allah?" The Prophet (S) answered:
 
 When Nu’man heard this reply from the Prophet, he went away, saying:
 
-<blockquote dir="rtl">
-  <p>
-"اللَّهُمَّ إِنْ كَانَ هَذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَأَمْطِرْ
-عَلَيْنَا حِجَارَةً مِنْ السَّمَاءِ"
-  </p>
-</blockquote>
+> "اللَّهُمَّ إِنْ كَانَ هَذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَأَمْطِرْ
+> عَلَيْنَا حِجَارَةً مِنْ السَّمَاءِ"
 
 "O God, if this is the truth from you, throw a stone from the sky upon
 us."
@@ -2052,21 +1648,13 @@ ways of Ascent." [Qur’an 70:1-3].***
 
 It is for this reason that we sometimes hear:
 
-<blockquote dir="rtl">
-  <p>
-"لَعَنَ الله الّلجّاج"
-  </p>
-</blockquote>
+> "لَعَنَ الله الّلجّاج"
 
 "May Allah curse the obstinate".
 
 Imam ‘Ali (as) has also said:
 
-<blockquote dir="rtl">
-  <p>
-"رَاكِبُ الّلجاج مُتَعَرّضٌ لِلبَلاء"
-  </p>
-</blockquote>
+> "رَاكِبُ الّلجاج مُتَعَرّضٌ لِلبَلاء"
 
 *"One who rides the palfrey of obstinacy is exposed to
 misfortunes"*[^111]
@@ -2079,11 +1667,7 @@ Imam ‘Ali (as) has also said:
 
 Imam ‘Ali (as) in his letter has also said:
 
-<blockquote dir="rtl">
-  <p>
-"وايّاكَ أن تَجمَحَ بِكَ مَطِيَّةُ الّلجاج"
-  </p>
-</blockquote>
+> "وايّاكَ أن تَجمَحَ بِكَ مَطِيَّةُ الّلجاج"
 
 *"Beware that the stubborn mount should become ungovernable."*
 
@@ -2324,5 +1908,4 @@ p.104.
 [^110]: . Nahj al-Balaghah , Letter No 58.
 
 [^111]: . Ghurar al-Hikam.
-
 

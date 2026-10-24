@@ -611,4 +611,3 @@ ibn Ghurayd, and al- Isabah 2/41 No. 3245.
 
 344. ad-Durr al-manthur 6/19, and Ibn Kathir 8/131.
 
-

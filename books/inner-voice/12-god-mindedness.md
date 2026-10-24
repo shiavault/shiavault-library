@@ -52,4 +52,3 @@ illogical to commit a mischief “for the sake of god” and “to His
 service”. Let us remember God; and we will become free of sins and
 errors.
 
-

@@ -125,4 +125,3 @@ fulfils His ultimate promise through the appearance of the Mahdi
 (Baqiyyat Allah), may God's peace be upon him and may He hasten his
 appearance.
 
-

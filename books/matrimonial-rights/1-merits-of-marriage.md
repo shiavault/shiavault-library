@@ -37,4 +37,3 @@ Imam as-Sadiq (a) said: “A two-rakaa ( 7 ) prayer offered by the
 marrieds is preferred to a seventy-rakaa prayer offered by bachelors.” (
 8 )
 
-

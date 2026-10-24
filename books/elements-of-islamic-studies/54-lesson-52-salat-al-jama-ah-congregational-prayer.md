@@ -65,4 +65,3 @@ gets the reward of 600 prayers.
  It there are more than 10, then nobody can estimate its reward except
 Allah.
 
-

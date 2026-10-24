@@ -15,4 +15,3 @@ for mankind.
 
 (Sermon 1)
 
-

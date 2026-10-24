@@ -4,11 +4,7 @@ Introduction
 **Article 1-** Umrah al-Mufradah is one of the best acts and it has lots
 of benefits. It has been quoted from holy Prophet (s.a.) that said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْعُمْرَةُ کَفّارَةٌ لِکُلِّ ذَنْب
-  </p>
-</blockquote>
+> اَلْعُمْرَةُ کَفّارَةٌ لِکُلِّ ذَنْب
 
 “Umrah is the atonement of all sins”[^1]
 
@@ -83,5 +79,4 @@ chapter 38, Hadith 7, and vol. 10, page 240, chapters of Umrah, chapter
 [^2]: There are lots of cabbalas about this matter that it has been
 quoted sixteen cabbalas only in the book Wasael al-Shi’aa, vol. 10, page
 239, chapters of Umrah, chapter 3.
-
 

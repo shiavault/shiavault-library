@@ -320,4 +320,3 @@ Question 3: [15 points]
 Mu‘āwyah for the events of Saqifa in which the caliphate was snatched
 away from the Ahlul Bayt.
 
-

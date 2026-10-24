@@ -84,7 +84,6 @@ an attempt to help him to form the theory based on the two levels of the
 scientific research method, which was mentioned before; the general
 method and the private one, which is connected to that research.
 
-
 **An Applied Example**
 
 If the researcher, for example, wants to discover an Islamic theory on
@@ -167,7 +166,6 @@ selfishness, which are in the social life, itself. So, Islamic morals
 will be a social process, not individual ethics, within one aspect only.
 Thus, research could be performed when it is desired to theorize about a
 certain case or specify the outlines of a theory in Islamic thought.
-
 
 **Terminology and its Influence on Islamic Thought**
 
@@ -557,5 +555,4 @@ may replace that term.
 Thus, along with the legal or Islamic term, whether it is a legal or
 conventional one, it is an Islamic necessity that unites with Islamic
 legislation, thought and education.
-
 

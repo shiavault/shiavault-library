@@ -114,11 +114,7 @@ basic needs and put the rest at the disposal of the poor, relatives and
 the needy friends. We ought to try to give that which we love most to
 others, for the reason that the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنَالُوا البِرَّ حَتَّی تُنْفِقُوا مِمَّا تُحِبُّون...
-  </p>
-</blockquote>
+> لَنْ تَنَالُوا البِرَّ حَتَّی تُنْفِقُوا مِمَّا تُحِبُّون...
 
 ***“By no means shall you attain to righteousness until you spend
 benevolently out of what you love…”***[^1]
@@ -371,13 +367,9 @@ than that as a result of their drowning in the allurements of the world,
 they become deprived of divine grace and their lonesomeness, deviation
 and disbelief increases. In this regard, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَحْسَبَنَّ الَّذِينَ کَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
-لأَنْفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لَيَزْدَادُوا إِثْمًا وَلَهُمْ
-عَذَابٌ مُهِينٌ
-  </p>
-</blockquote>
+> وَلاَ يَحْسَبَنَّ الَّذِينَ کَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ
+> لأَنْفُسِهِمْ إِنَّمَا نُمْلِي لَهُمْ لَيَزْدَادُوا إِثْمًا وَلَهُمْ
+> عَذَابٌ مُهِينٌ
 
 ***“And let not those who disbelieve that Our granting them respite is
 better for their souls; We grant them respite only that they may add to
@@ -385,13 +377,9 @@ their sins; and they shall have a disgraceful chastisement.”***[^3]
 
 In another place, He states:
 
-<blockquote dir="rtl">
-  <p>
-فَلاَ تُعْجِبْك أَمْوَالُهُمْ وَلاَ أَوْلاَدُهُمْ إِنَّمَا يُرِيدُ
-اللهُ لِيُعَذِّبَهُمْ بِهَا فِي الْحَيوةِ الدُّنْيا وَتَزْهَقَ
-أَنْفُسُهُمْ وَهُمْ کَافِرُونَ
-  </p>
-</blockquote>
+> فَلاَ تُعْجِبْك أَمْوَالُهُمْ وَلاَ أَوْلاَدُهُمْ إِنَّمَا يُرِيدُ
+> اللهُ لِيُعَذِّبَهُمْ بِهَا فِي الْحَيوةِ الدُّنْيا وَتَزْهَقَ
+> أَنْفُسُهُمْ وَهُمْ کَافِرُونَ
 
 ***“Let not then their property and children excite your admiration;
 Allah only wishes to chastise them with these in the world’s life and
@@ -400,12 +388,8 @@ that their souls may depart while they are unbelievers.”***[^4]
 In order for the believers not to set their eyes on the riches of the
 world and not to envy the enamored with the world, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَمُدَّنَّ عَيْنَيْکَ إِلی مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ
-وَلاَ تَحْزَنَ عَلَيْهِمْ وَأخْفِضْ جَنَاحَکَ لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> لاَ تَمُدَّنَّ عَيْنَيْکَ إِلی مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ
+> وَلاَ تَحْزَنَ عَلَيْهِمْ وَأخْفِضْ جَنَاحَکَ لِلْمُؤْمِنِينَ
 
 ***“They would certainly say, ‘Only our eyes have been covered over,
 rather we are an enchanted people’.”***[^5]
@@ -473,13 +457,9 @@ be combined. The way of the heart and the desires of the carnal soul
 diverge from the course of adoration of Allah and never are they close
 to each other.
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتَ مَن اتَّخَذَ اِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللهُ عَلَی
-عِلْمٍ وَخَتَمَ عَلَی سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَی بَصَرِهِ
-غِشَاوَةٌ...
-  </p>
-</blockquote>
+> أَفَرَأَيْتَ مَن اتَّخَذَ اِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللهُ عَلَی
+> عِلْمٍ وَخَتَمَ عَلَی سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَی بَصَرِهِ
+> غِشَاوَةٌ...
 
 ***“Have you then considered him who takes his low desire for his god,
 and Allah has made him err having knowledge and has set a seal upon his
@@ -516,11 +496,7 @@ infidels and it will become a lowly, base and mean society and Allah,
 the Beneficent, does not approve that a divine society should be a
 captive and in need of the infidels, because:
 
-<blockquote dir="rtl">
-  <p>
-... وَلَنْ يَجْعَلَ اللهُ لِلْکَافِرِينَ عَلَی الْمُؤْمِنِينَ سَبِيلاً
-  </p>
-</blockquote>
+> ... وَلَنْ يَجْعَلَ اللهُ لِلْکَافِرِينَ عَلَی الْمُؤْمِنِينَ سَبِيلاً
 
 ***“And Allah will by no means give the unbelievers a way against the
 believers.”***[^8]
@@ -528,11 +504,7 @@ believers.”***[^8]
 And it is Him who has restricted honor to Allah and the Noble Prophet
 (S) and the believers:
 
-<blockquote dir="rtl">
-  <p>
-... وَللهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ...
-  </p>
-</blockquote>
+> ... وَللهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ...
 
 ***“…and to Allah belongs might and to His Apostle and to the
 believers…”***[^9]
@@ -578,5 +550,4 @@ al-Islam.
 [^9]: Surat al-Munafiqun 63:8.
 
 [^10]: Bihar al-Anwar, vol. 1, p. 177.
-
 

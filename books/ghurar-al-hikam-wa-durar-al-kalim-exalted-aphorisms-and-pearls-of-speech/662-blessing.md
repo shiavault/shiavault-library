@@ -9,22 +9,14 @@ increase [in blessings] from Allah, the Glorified, will never cease
 until the gratitude of the thankful one ceases.
 
 > 1ـ اَلنِّعْمَةُ مَوْصُولَةٌ بِالشُّكْرِ، والشُّكْرُ مَوْصُولٌ
-<blockquote dir="rtl">
-  <p>
-بِالْمَزِيدِ، وهُما مَقْرُونانِ في قَرَن، فَلَنْ يَنْقَطِعَ المَزِيدَ
-مِنَ اللّهِ سُبْحانَهُ حَتّى يَنْقَطِعَ الشُّكْرُ مِنَ الشَّاكِرِ.
-  </p>
-</blockquote>
+> بِالْمَزِيدِ، وهُما مَقْرُونانِ في قَرَن، فَلَنْ يَنْقَطِعَ المَزِيدَ
+> مِنَ اللّهِ سُبْحانَهُ حَتّى يَنْقَطِعَ الشُّكْرُ مِنَ الشَّاكِرِ.
 
 2. Seek good out of every blessing that Allah has bestowed upon you and
 do not waste any favour of Allah over you.
 
 > 2ـ اِسْتَصْلِحْ كُلَّ نِعْمَة أنْعَمَهَا اللّهُ عَلَيْكَ، وَلاتُضِعْ
-<blockquote dir="rtl">
-  <p>
-نِعْمَةً مِنْ نِعَمِ اللّهِ عِنْدَكَ.
-  </p>
-</blockquote>
+> نِعْمَةً مِنْ نِعَمِ اللّهِ عِنْدَكَ.
 
 3. Let the effect of that which Allah, the Glorified, has blessed you
 with be seen on you.
@@ -36,11 +28,7 @@ obedience to Him and preserving that which He has commanded you to
 preserve [and act upon] of His book.
 
 > 4ـ اِسْتَتِمُّوا نِعَمَ اللّهِ عَلَيْكُمْ بِالصَّبْرِ عَلى طاعَتِهِ،
-<blockquote dir="rtl">
-  <p>
-والْمُحافَظَةِ عَلى مَا اسْتَحْفَظَكُمْ مِنْ كتابِهِ.
-  </p>
-</blockquote>
+> والْمُحافَظَةِ عَلى مَا اسْتَحْفَظَكُمْ مِنْ كتابِهِ.
 
 5. Beware of the slipping away of blessings, for not everything that
 runs away comes back.
@@ -52,44 +40,28 @@ than affluence, and the God-wariness of the heart is [even] better than
 good health.
 
 > 6ـ الا وإنَّ مِنَ النِّعَمِ سَعَةُ الْمالِ، وأفْضَلُ مِنْ سَعَةِ
-<blockquote dir="rtl">
-  <p>
-المالِ صِحَّةُ الْبَدَنِ، وأفْضَلُ مِنْ صِحَّةِ الْبَدَنِ تَقْوَى
-الْقَلْبِ.
-  </p>
-</blockquote>
+> المالِ صِحَّةُ الْبَدَنِ، وأفْضَلُ مِنْ صِحَّةِ الْبَدَنِ تَقْوَى
+> الْقَلْبِ.
 
 7. The best things that Allah, the Glorified, has blessed his servants
 with are: knowledge, intelligence, power and justice.
 
 > 7ـ أفْضَلُ ما مَنَّ اللّهُ سُبْحانَهُ بِهِ عَلى عِبادِهِ: عِلْمٌ،
-<blockquote dir="rtl">
-  <p>
-وعَقْلٌ، ومُلْكٌ وَعَدْلٌ.
-  </p>
-</blockquote>
+> وعَقْلٌ، ومُلْكٌ وَعَدْلٌ.
 
 8. The person who is in the best condition of all people is he who makes
 present blessings last by being grateful for them and gets those that
 are lost restored through patience.
 
 > 8ـ أحْسَنُ النّاسِ حالاً فِي النِّعَمِ مَنِ اسْتَدامَ حاضِرَها
-<blockquote dir="rtl">
-  <p>
-بِالشُّكْرِ وارْتَجَعَ فائِتَها بِالصَّبْرِ.
-  </p>
-</blockquote>
+> بِالشُّكْرِ وارْتَجَعَ فائِتَها بِالصَّبْرِ.
 
 9. The least that you must do for Allah, the Most High, is ensure that
 you do not use His blessings as a means of disobeying [and sinning
 against] Him.
 
 > 9ـ أقَلُّ ما يَلْزَمُكُمْ لِلّهِ تَعالى أنْ لاتَسْتَعِينُوا بِنِعَمِهِ
-<blockquote dir="rtl">
-  <p>
-عَلى مَعاصِيهِ.
-  </p>
-</blockquote>
+> عَلى مَعاصِيهِ.
 
 10. Verily Allah, the Glorified, has certain selected servants upon whom
 He bestows blessings for the benefit of the people, causing these
@@ -98,22 +70,14 @@ the people], but if they withhold them [from the people], He takes away
 these blessings from them and transfers them to others.
 
 > 10ـ إنَّ لِلّهِ سُبْحانَهُ عِباداً يَخْتَصُّهُمْ بِالنِّعَمِ
-<blockquote dir="rtl">
-  <p>
-لِمَنافِعِ الْعِبادِ، يُقِرُّ ها فِي أيْدِيهِمْ ما بَذَلُوها فَإذا
-مَنَعُوها نَزَعَها مِنْهُمْ وحَوَّلَها إلى غَيْرِهِمْ.
-  </p>
-</blockquote>
+> لِمَنافِعِ الْعِبادِ، يُقِرُّ ها فِي أيْدِيهِمْ ما بَذَلُوها فَإذا
+> مَنَعُوها نَزَعَها مِنْهُمْ وحَوَّلَها إلى غَيْرِهِمْ.
 
 11. Verily Allah, the Most High, bestows the blessing of benevolence in
 [times of] ease and the blessing of purification [in times] of hardship.
 
 > 11ـ إنَّ لِلّهِ تَعالى فِي السَّـرّاءِ نِعْمَةَ الإفْضالِ، وفِي
-<blockquote dir="rtl">
-  <p>
-الضَّـرّاءِ نِعْمَةَ التَّطْهِيرِ.
-  </p>
-</blockquote>
+> الضَّـرّاءِ نِعْمَةَ التَّطْهِيرِ.
 
 12. Blessings last through gratitude.
 
@@ -123,11 +87,7 @@ these blessings from them and transfers them to others.
 between you and Allah then do so.
 
 > 13ـ إنِ اسْتَطَعْتَ أنْ لا يَكُونَ بَيْنَكَ وَبَيْنَ اللّهِ ذُو
-<blockquote dir="rtl">
-  <p>
-نِعْمَة فَافْعَلْ.
-  </p>
-</blockquote>
+> نِعْمَة فَافْعَلْ.
 
 14. The only way that the value of blessings can be known is by
 suffering their contraries.
@@ -139,11 +99,7 @@ your sins, then [know that] it is a means of driving you [towards
 greater punishment].
 
 > 15ـ إذا رَأيْتَ اللّهَ سُبْحانَهُ يُتابِـعُ عَلَيْكَ النِّـعَمَ مَعَ
-<blockquote dir="rtl">
-  <p>
-المَعاصي فَهُوَ اسْتِدْراجٌ لَكَ.
-  </p>
-</blockquote>
+> المَعاصي فَهُوَ اسْتِدْراجٌ لَكَ.
 
 16. When a blessing comes down to you then receive it with gratitude.
 
@@ -176,11 +132,7 @@ relatives.
 Allah from them and falling short in showing gratitude for them.
 
 > 22ـ زَوالُ النِّعَمِ بِمَنْعِ حُقُوقِ اللّهِ مِنْها والتَّقْصِيرِ في
-<blockquote dir="rtl">
-  <p>
-شُكْرِها.
-  </p>
-</blockquote>
+> شُكْرِها.
 
 23. The cause of cessation of a blessing is ingratitude.
 
@@ -198,11 +150,7 @@ Allah from them and falling short in showing gratitude for them.
 from being taken away and is protected from vicissitudes.
 
 > 26ـ كُلُّ نِعْمَة أُنِيلَ مِنْها المَعْرُوفُ فَإنَّها مَأْمُونَةُ
-<blockquote dir="rtl">
-  <p>
-السَّلَبِ مُحَصَّنَةٌ مِنَ الغِيَـرِ.
-  </p>
-</blockquote>
+> السَّلَبِ مُحَصَّنَةٌ مِنَ الغِيَـرِ.
 
 27. Whenever the blessing of an ignorant person becomes good, his
 ugliness in it increases.
@@ -218,11 +166,7 @@ gratitude for them and nothing beautifies them like granting them [to
 others].
 
 > 29ـ لَنْ يَقْدِرَ أحَدٌ أنْ يَسْتَدِيمَ النِّـعَمَ بِمِثْلِ شُكْرِها
-<blockquote dir="rtl">
-  <p>
-ولا يَزينَها بِمِثْلِ بَذْلِها.
-  </p>
-</blockquote>
+> ولا يَزينَها بِمِثْلِ بَذْلِها.
 
 30. Whoever enumerates his favours [on others] effaces his munificence.
 
@@ -240,33 +184,21 @@ refuses what Allah, the Glorified, has made obligatory from it, then he
 has exposed it to cessation).
 
 > 32ـ مَنْ كَثُرَتْ نِعَمُ اللّهِ عَلَيْهِ كَثُرَتْ حَوائِجُ النّاسِ
-<blockquote dir="rtl">
-  <p>
-إلَيْهِ(فَإنْ قامَ فيها بِما أوْجَبَ اللّهُ سُبْحانَهُ عَلَيْهِ فَقَدْ
-عَرَّضَها لِلدَّوامِ وإنْ مَنَعَ ما أوْجَبَ اللّهُ سُبْحانَهُ فيها
-فَقَدْ عَرَّضَها لِلزَّوالِ).
-  </p>
-</blockquote>
+> إلَيْهِ(فَإنْ قامَ فيها بِما أوْجَبَ اللّهُ سُبْحانَهُ عَلَيْهِ فَقَدْ
+> عَرَّضَها لِلدَّوامِ وإنْ مَنَعَ ما أوْجَبَ اللّهُ سُبْحانَهُ فيها
+> فَقَدْ عَرَّضَها لِلزَّوالِ).
 
 33. Whoever extends his hand to bestow favours [to others] has protected
 his [own] blessing from cessation.
 
 > 33ـ مَنْ بَسَطَ يَدَهُ بِالإنْعامِ حَصَّنَ نِعْمَتَهُ مِنَ
-<blockquote dir="rtl">
-  <p>
-الاِنْصِرامِ.
-  </p>
-</blockquote>
+> الاِنْصِرامِ.
 
 34. It is incumbent upon the one whom Allah has munificently blessed to
 be generous in granting favours to the people.
 
 > 34ـ مَنْ أوْسَعَ اللّهُ عَلَيْهِ نِعْمَةً (نِعَمَهُ) وَجَبَ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-أنْ يُوَسِّعَ النّاسَ إنْعاماً.
-  </p>
-</blockquote>
+> أنْ يُوَسِّعَ النّاسَ إنْعاماً.
 
 35. A truthful friend is one of the blessings [of Allah].
 
@@ -289,11 +221,7 @@ perfect blessings.
 yet how small they are in comparison to the blessings of the Hereafter.
 
 > 39ـ ما أعْظَمَ نِعَمَ اللّهِ سُبْحانَهُ فِي الدُّنيا وما أصْغَرَها في
-<blockquote dir="rtl">
-  <p>
-نِعَمِ الآخِرَةِ.
-  </p>
-</blockquote>
+> نِعَمِ الآخِرَةِ.
 
 40. How close bounty is to woe!
 
@@ -304,11 +232,7 @@ injustice with it but that he becomes deserving of it being taken away
 from him by Allah.
 
 > 41ـ ما أنْعَمَ اللّهُ عَلى عَبْد نِعْمَةً فَظَلَمَ فِيها إلاّ كانَ
-<blockquote dir="rtl">
-  <p>
-حَقِيقاً أنْ يُزِيلَها عَنْهُ.
-  </p>
-</blockquote>
+> حَقِيقاً أنْ يُزِيلَها عَنْهُ.
 
 42. The blessings of the ignorant are like a garden on a cesspit.
 
@@ -325,33 +249,21 @@ greater than can be forgiven, except what Allah pardons [out of His
 mercy].
 
 > 44ـ نِعَمُ اللّهُ سُبْحانَهُ أكْثَرُ مِنْ أنْ تُشْكَرَ إلاّ ما أعانَ
-<blockquote dir="rtl">
-  <p>
-اللّهُ عَلَيْهِ وذُنُوبُ ابْنِ آدَمَ أكْثَرُ مِنْ أنْ تُغْفَرَ إلاّ ما
-عَفَا اللّهُ عَنْهُ.
-  </p>
-</blockquote>
+> اللّهُ عَلَيْهِ وذُنُوبُ ابْنِ آدَمَ أكْثَرُ مِنْ أنْ تُغْفَرَ إلاّ ما
+> عَفَا اللّهُ عَنْهُ.
 
 45. We ask Allah, the Glorified, for the completion of His favours [upon
 us] and for the ability to hold on to His rope.
 
 > 45ـ نَسْألُ اللّهَ سُبْحانَهُ لَمِنَّتِهِ تَماماً وبِحَبْلِهِ
-<blockquote dir="rtl">
-  <p>
-اِعْتِصاماً.
-  </p>
-</blockquote>
+> اِعْتِصاماً.
 
 46. Do not waste any of the blessings that Allah, the Glorified, has
 blessed you with, and let the effect of what He has blessed you with be
 visible on you.
 
 > 46ـ لاتُضِعْ نِعْمَةً مِنْ نِعَمِ اللّهِ سُبْحانَهُ عِنْدَكَ ولْيُرَ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ أثَرَ ما أنْعَمَ اللّهُ بِهِ عَلَيْكَ.
-  </p>
-</blockquote>
+> عَلَيْكَ أثَرَ ما أنْعَمَ اللّهُ بِهِ عَلَيْكَ.
 
 47. Blessings are not guarded but by gratitude.
 
@@ -362,11 +274,7 @@ you His blessings then beware of Him, and secure the blessings by being
 grateful for them.
 
 > 48ـ يَاابْنَ آدَمَ إذا رَأَيْتَ اللّهَ سُبْحانَهُ يُتابِـعُ عَلَيْكَ
-<blockquote dir="rtl">
-  <p>
-نِعَمَهُ فَاحْذَرْهُ وحَصِّنَ النِّـعَمَ بِشُكْرِها.
-  </p>
-</blockquote>
+> نِعَمَهُ فَاحْذَرْهُ وحَصِّنَ النِّـعَمَ بِشُكْرِها.
 
 49. The least that is owed to the one who bestows blessings is that no
 sin should be committed with his blessing.
@@ -376,5 +284,4 @@ sin should be committed with his blessing.
 50. Verily the inability to commit sins is a blessing.
 
 > 50ـ إنَّ مِنَ النِّعْمَةِ تَعَذُّرُ المَعاصِي.
-
 

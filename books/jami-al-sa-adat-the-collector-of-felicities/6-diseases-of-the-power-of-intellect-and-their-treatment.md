@@ -69,16 +69,12 @@ understands them save those who know*****. (29:43)**
 
 The Prophet (S) has been quoted as saying to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-جلوس ساعة عند مذاكرة العلم احب إلى الله تعالى من قيام الف ليلة يصلى في
-كل ليلة الف ركعة و احب اليه من الف غزوة، و من قراءة القرآن كله اثنى
-عشر الف مرة و خير من عبادة سنة صام نهارها و قام ليلها، و من خرج من
-بيته ليلتمس بابا من العلم كتب الله عز و جل له بكل قدم ثواب نبى من
-الانبياء، و ثواب الف شهيد من شهداء بدر، و اعطاه الله بكل حرف يسمع او
-يكتب مدينة في الجنة.
-  </p>
-</blockquote>
+> جلوس ساعة عند مذاكرة العلم احب إلى الله تعالى من قيام الف ليلة يصلى في
+> كل ليلة الف ركعة و احب اليه من الف غزوة، و من قراءة القرآن كله اثنى
+> عشر الف مرة و خير من عبادة سنة صام نهارها و قام ليلها، و من خرج من
+> بيته ليلتمس بابا من العلم كتب الله عز و جل له بكل قدم ثواب نبى من
+> الانبياء، و ثواب الف شهيد من شهداء بدر، و اعطاه الله بكل حرف يسمع او
+> يكتب مدينة في الجنة.
 
 Sitting an hour in a learned gathering is better in the eyes of God than
 a thousand nights in each of which a thousand prayers are performed, and
@@ -110,11 +106,7 @@ worldly wealth, fame, and honour.
 so that God may increase his knowledge. The Prophet (S) has been quoted
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-من اخذ العلم من اهله وعمل بعلمه نجا ومن أراد به الدنيا فهي حظه.
-  </p>
-</blockquote>
+> من اخذ العلم من اهله وعمل بعلمه نجا ومن أراد به الدنيا فهي حظه.
 
 One who acquires knowledge from the learned, and acts according to it
 shall be saved, and one who acquires knowledge for the sake of the world
@@ -214,22 +206,14 @@ of certainty is one of the highest states possible for man, and is
 attained by very few human beings. There is a tradition attributed to
 the Prophet that says:
 
-<blockquote dir="rtl">
-  <p>
-اليقين الإيمان كله.
-  </p>
-</blockquote>
+> اليقين الإيمان كله.
 
 *Certainty is complete belief.*
 
 Imam Ja'far al-Sadiq (A) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إن الله تعالى بعله وقسطه جعل الروح في اليقين والرضا, وجعل الهم والحزن
-في الشك والسحط.
-  </p>
-</blockquote>
+> إن الله تعالى بعله وقسطه جعل الروح في اليقين والرضا, وجعل الهم والحزن
+> في الشك والسحط.
 
 God, the Supreme, in His supreme justice, has associated happiness and
 comfort with certainty and contentment [that is, resignation to God's
@@ -246,11 +230,7 @@ conviction. These signs are:
 good pleasure. To put it succinctly, it should be one's firm belief
 that:
 
-<blockquote dir="rtl">
-  <p>
-لا حول ولا قوة إلى بالله العلي العظيم
-  </p>
-</blockquote>
+> لا حول ولا قوة إلى بالله العلي العظيم
 
 There is no power or might [in the world] except that [it is derived]
 from God, the Most High, and the Most Great.
@@ -349,12 +329,8 @@ Imam al-Rida (A) has been quoted as saying:
 Worship does not lie in copious prayer and fasting, but in the amount of
 contemplation in the works of God.
 
-<blockquote dir="rtl">
-  <p>
-ليست العبادة كثرة الصيام والصلاة, انما العبادة كثرة التفكر في أمر
-الله.
-  </p>
-</blockquote>
+> ليست العبادة كثرة الصيام والصلاة, انما العبادة كثرة التفكر في أمر
+> الله.
 
 ### 4. Satanic Temptations and Consciousness
 
@@ -407,11 +383,7 @@ others and drawing of elaborate and detailed plans to harm them. This
 vice is a fatal one, because the individual afflicted by it is counted
 one amongst the party of the devil. The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-ليس منا من ماكر مسلما.
-  </p>
-</blockquote>
+> ليس منا من ماكر مسلما.
 
 Whoever plots against a *Muslim* is not one of us.
 
@@ -420,5 +392,4 @@ to the dangerous consequences of this vice, and realize that one who
 digs a pit for others will himself fall into it, getting his punishment
 in this world itself. He should also ask himself, why, instead of being
 kind and good to others, he should plot against them.
-
 

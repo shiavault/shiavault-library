@@ -26,4 +26,3 @@ consults the governed, relieves them of the burdens laid upon them by
 despotic governments and lifts them from the state of decay to the first
 level of perfection.[^14]
 
-

@@ -60,4 +60,3 @@ resided in Harithah's house; but it is a given fact that Allah's
 Messenger constructed a house for them, which had a door to the mosque
 just like his own house.
 
-

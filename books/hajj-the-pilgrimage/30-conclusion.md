@@ -147,4 +147,3 @@ state of Ihram.
 Since the earth is the "mosque of Allah".  
  - And you see "that it is not"!
 
-

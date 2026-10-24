@@ -7,12 +7,8 @@ Warning against the approach of the punishment
 Surah Al-‘An’am, Verse 42
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلنَا إِلَى أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَاهُمْ
-بِالْبَأْسَاء وَالضَّرَّاء لَعَلَّهُمْ يَتَضَرَّعُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلنَا إِلَى أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَاهُمْ
+> بِالْبَأْسَاء وَالضَّرَّاء لَعَلَّهُمْ يَتَضَرَّعُونَ
 
 **42.** ***"Indeed We sent (messengers) to nations before you, then We
 seized them with distress and affliction in order that they might humble
@@ -51,12 +47,8 @@ upon them, they will be removed from all their difficulties....."*
 Surah Al-‘An’am, Verse 43
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلا إِذْ جَاءهُمْ بَأْسُنَا تَضَرَّعُواْ وَلَـكِن قَسَتْ
-قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلَوْلا إِذْ جَاءهُمْ بَأْسُنَا تَضَرَّعُواْ وَلَـكِن قَسَتْ
+> قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُواْ يَعْمَلُونَ
 
 **43. "*****Why then did they not entreat when Our distress came to
 them*****?** ***But their hearts were hard, and Satan made all that they
@@ -89,13 +81,9 @@ they committed. The verse says:
 Surah Al-‘An’am, Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ
-كُلِّ شَيْءٍ حَتَّى إِذَا فَرِحُواْ بِمَا أُوتُواْ أَخَذْنَاهُم
-بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ
-  </p>
-</blockquote>
+> فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ
+> كُلِّ شَيْءٍ حَتَّى إِذَا فَرِحُواْ بِمَا أُوتُواْ أَخَذْنَاهُم
+> بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ
 
 **44.** ***"Then, when they forgot that which they had been admonished
 to, We opened for them the doors of all things (of enjoyments), until
@@ -135,12 +123,8 @@ despondent groan all of a sudden.
 Surah Al-‘An’am, Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُواْ وَالْحَمْدُ لِلّهِ
-رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُواْ وَالْحَمْدُ لِلّهِ
+> رَبِّ الْعَالَمِينَ
 
 **45.** ***"So the people who were unjust were rooted out, and praise
 belongs to*** Allah***, the Lord of the worlds."***
@@ -177,13 +161,9 @@ to*** ***Allah, the Lord of the worlds'."*** [^2]
 Surah Al-‘An’am, Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِنْ أَخَذَ اللّهُ سَمْعَكُمْ وَأَبْصَارَكُمْ
-وَخَتَمَ عَلَى قُلُوبِكُم مَّنْ إِلَـهٌ غَيْرُ اللّهِ يَأْتِيكُم بِهِ
-انظُرْ كَيْفَ نُصَرِّفُ الآيَاتِ ثُمَّ هُمْ يَصْدِفُونَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِنْ أَخَذَ اللّهُ سَمْعَكُمْ وَأَبْصَارَكُمْ
+> وَخَتَمَ عَلَى قُلُوبِكُم مَّنْ إِلَـهٌ غَيْرُ اللّهِ يَأْتِيكُم بِهِ
+> انظُرْ كَيْفَ نُصَرِّفُ الآيَاتِ ثُمَّ هُمْ يَصْدِفُونَ
 
 **46.** ***"Say: 'Have you considered if*** ***Allah*** ***takes away
 your hearing and your eyesight and seals on your hearts, which god other
@@ -215,12 +195,8 @@ they still turn away from the Truth. It says:
 Surah Al-‘An’am, Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللّهِ بَغْتَةً أَوْ
-جَهْرَةً هَلْ يُهْلَكُ إِلاَّ الْقَوْمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللّهِ بَغْتَةً أَوْ
+> جَهْرَةً هَلْ يُهْلَكُ إِلاَّ الْقَوْمُ الظَّالِمُونَ
 
 **47.** ***"Say: 'Have you considered if the punishment of***
 ***Allah*** ***comes to you suddenly or openly, will anyone be destroyed
@@ -244,19 +220,11 @@ Therefore, there is no reason that you refuge to them.
 Surah Al-‘An’am, Verses 48 - 49
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلاَّ مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ
-آمَنَ وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلاَّ مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ
+> آمَنَ وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَذَّبُواْ بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا
-كَانُواْ يَفْسُقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَذَّبُواْ بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا
+> كَانُواْ يَفْسُقُونَ
 
 **48.** ***"And We do not send the messengers but (as) announcers of
 good news and warners, then whoever believes and amends (himself) -no
@@ -318,14 +286,10 @@ from their surroundings."* [^6]
 Surah Al-‘An’am, Verse 50
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لاَّ أَقُولُ لَكُمْ عِندِي خَزَآئِنُ اللّهِ وَلا أَعْلَمُ
-الْغَيْبَ وَلا أَقُولُ لَكُمْ إِنِّي مَلَكٌ إِنْ أَتَّبِعُ إِلاَّ مَا
-يُوحَى إِلَيَّ قُلْ هَلْ يَسْتَوِي الأَعْمَى وَالْبَصِيرُ أَفَلاَ
-تَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> قُل لاَّ أَقُولُ لَكُمْ عِندِي خَزَآئِنُ اللّهِ وَلا أَعْلَمُ
+> الْغَيْبَ وَلا أَقُولُ لَكُمْ إِنِّي مَلَكٌ إِنْ أَتَّبِعُ إِلاَّ مَا
+> يُوحَى إِلَيَّ قُلْ هَلْ يَسْتَوِي الأَعْمَى وَالْبَصِيرُ أَفَلاَ
+> تَتَفَكَّرُونَ
 
 **50.** ***"Say: (O' Our prophet!) , I do not say to you that the
 treasures of*** Allah***, are with me, nor do I know the Unseen, nor do
@@ -407,5 +371,4 @@ things to the ignorant persons.
 [^5]: Qurar-ul-Hikam, vol. 5, p. 275
 
 [^6]: Bihar-ul- Anwar. vol. 75, p. 151
-
 

@@ -28,4 +28,3 @@ affairs; they do not admit of degrees. God’s policy of sending some to
 heaven and some to hell, then, seems to be inconsistent with his
 treating us justly.
 
-

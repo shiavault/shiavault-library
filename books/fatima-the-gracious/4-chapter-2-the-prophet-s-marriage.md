@@ -48,4 +48,3 @@ Abdul Muttalib (the Prophet's aunt) rushed to Khadija's house to
 validate the news. She was warmly welcomed by Khadija who informed her
 of her earnest desire to do so.
 
-

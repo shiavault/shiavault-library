@@ -71,4 +71,3 @@ dress in black, and give up every kind of rejoicing. The mourning for
 the Holy Imam is observed through organised congregations called
 'Majalis-e-Aza' or the Mourning Congregations.
 
-

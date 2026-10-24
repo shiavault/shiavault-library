@@ -33,7 +33,6 @@ if your aqeedah is incorrect, then no matter how many good deeds you
 have, they will all be worthless. Your aqeedah will lead you towards
 hell.
 
-
 The so called scholars have made the aqeedah become worthless in the
 eyes of others. They have made people believe that it is not necessary
 that you understand what you believe, but it is enough that you simply
@@ -56,7 +55,6 @@ from aqeedah tauheed (belief of oneness) because wilayat can only be
 understood through tauheed. Tauheed is the only source from which one
 can gain an understanding of wilayat.
 
-
 **Tauheed**
 
 The same rule applies regarding tauheed. Having belief in tauheed
@@ -74,7 +72,6 @@ have found the whole knowledge of humanity in four places; gaining the
 marifat of Lord, gaining the marifat regarding one's own creation,
 gaining the marifat of what your Lord wants from you, and gaining the
 marifat of that which can exclude you from the religion."
-
 
 **Gaining the marifat of Allah**
 
@@ -119,7 +116,6 @@ Therefore there are three essential requirements in order for one to be
 able to create something; knowledge, ability, and authority. The
 combination of these three is called wilayat. Now it has been proven the
 purpose of intellect is to lead humanity towards wilayat.
-
 
 **Purpose of Creation**
 
@@ -219,5 +215,4 @@ deed is loving Us Ahlul Bayt (as)."
 Now it has been made absolutely clear that our Lord wants nothing more
 from us except that we love Ahlul Bayt (as) and hate Their enemies. If
 we fulfill His demand, then we become deserving of His blessings.
-
 

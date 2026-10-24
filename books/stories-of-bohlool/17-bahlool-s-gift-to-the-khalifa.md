@@ -14,4 +14,3 @@ collect tax and revenue, and then pour them all into your treasures. So
 I thought that you are the most needy person, and gave the money back to
 you.”
 
-

@@ -3,12 +3,8 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-لا نسلم أن عليا أفضل أهل زمانه بل خير هذه الأمة بعد نبيها أبو بكر ثم
-عمر كما ثبت ذلك عن علي وغيره
-  </p>
-</blockquote>
+> لا نسلم أن عليا أفضل أهل زمانه بل خير هذه الأمة بعد نبيها أبو بكر ثم
+> عمر كما ثبت ذلك عن علي وغيره
 
 We do not agree that ‘Ali was the overall best of his time. Rather, the
 best of this Ummah after its Prophet are Abu Bakr, then ‘Umar, as is
@@ -22,13 +18,9 @@ establishing that the Sahabah used to consider Amir al-Muminin, *‘alaihi
 al-salam*, to be their best during the lifetime of the Messenger. Imam
 Ahmad (d. 241 H) presents one of such proofs:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله قال حدثني أبي قثنا محمد بن جعفر نا شعبة عن أبي إسحاق عن
-عبد الرحمن بن يزيد عن علقمة عن عبد الله قال : كنا نتحدث ان أفضل أهل
-المدينة علي بن أبي طالب
-  </p>
-</blockquote>
+> حدثنا عبد الله قال حدثني أبي قثنا محمد بن جعفر نا شعبة عن أبي إسحاق عن
+> عبد الرحمن بن يزيد عن علقمة عن عبد الله قال : كنا نتحدث ان أفضل أهل
+> المدينة علي بن أبي طالب
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Muhammad
 b. Ja’far – Shu’bah – Abu Ishaq – ‘Abd al-Rahman b. Yazid – ‘Alqamah –
@@ -52,24 +44,16 @@ These, needless to say, included Abu Bakr, ‘Umar and ‘Uthman.
 So, is the above report authentic? Al-Hafiz (d. 852 H) says about the
 first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن أحمد بن محمد بن حنبل الشيباني أبو عبد الرحمن ولد الإمام
-ثقة
-  </p>
-</blockquote>
+> عبد الله بن أحمد بن محمد بن حنبل الشيباني أبو عبد الرحمن ولد الإمام
+> ثقة
 
 ‘Abd Allah b. Ahmad b. Muhammad b. Hanbal al-Shaybani, Abu ‘Abd
 al-Rahman: son of the Imam, ***thiqah*** **(trustworthy)**.[^5]
 
 What about his father? Al-Hafiz answers:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن محمد بن حنبل بن هلال بن أسد الشيباني المروزي نزيل بغداد أبو
-عبد الله أحد الأئمة ثقة حافظ فقيه حجة
-  </p>
-</blockquote>
+> أحمد بن محمد بن حنبل بن هلال بن أسد الشيباني المروزي نزيل بغداد أبو
+> عبد الله أحد الأئمة ثقة حافظ فقيه حجة
 
 Ahmad b. Muhammad b. Hanbal b. Hilal b. Asad al-Shaybani al-Maruzi, a
 Baghdad resident, Abu ‘Abd Allah: One of the Imams, ***thiqah***
@@ -77,12 +61,8 @@ Baghdad resident, Abu ‘Abd Allah: One of the Imams, ***thiqah***
 
 Al-Hafiz also has these comments about the third narrator:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن جعفر الهذلي البصري المعروف بغندر ثقة صحيح الكتاب إلا أن فيه
-غفلة
-  </p>
-</blockquote>
+> محمد بن جعفر الهذلي البصري المعروف بغندر ثقة صحيح الكتاب إلا أن فيه
+> غفلة
 
 Muhammad b. Ja’far al-Hazali al-Basri, better known as Ghandar:
 ***Thiqah*** **(trustworthy)**, *sahih al-kitab* (i.e. *ahadith* from
@@ -93,15 +73,11 @@ all. He used to accurately record the latter’s reports. So, he narrated
 them from his books with perfect precision. Al-Hafiz provides further
 information in this respect:
 
-<blockquote dir="rtl">
-  <p>
-وقال ابن مهدي كنا نستفيد من كتب غندر في شعبة وكان وكيع يسميه الصحيح
-الكتاب .وقال أبو حاتم عن محمد بن ابان البلخي قال ابن مهدي غندر أثبت في
-شعبة مني وقال ابن المبارك إذا اختلف الناس في حديث شعبة فكتاب غندر حكم
-بينهم وقال ابن أبي حاتم سألت أبي عن غندر فقال كان صدوقا وكان مؤدبا وفي
-حديث شعبة ثقة
-  </p>
-</blockquote>
+> وقال ابن مهدي كنا نستفيد من كتب غندر في شعبة وكان وكيع يسميه الصحيح
+> الكتاب .وقال أبو حاتم عن محمد بن ابان البلخي قال ابن مهدي غندر أثبت في
+> شعبة مني وقال ابن المبارك إذا اختلف الناس في حديث شعبة فكتاب غندر حكم
+> بينهم وقال ابن أبي حاتم سألت أبي عن غندر فقال كان صدوقا وكان مؤدبا وفي
+> حديث شعبة ثقة
 
 Ibn Mahdi said: “We used to benefit from the books of Ghandar on
 Shu’bah. Waki’ named him *sahih al-kitab*.” Abu Hatim narrated from
@@ -116,12 +92,8 @@ he is** ***thiqah*** **(trustworthy)**.’”[^8]
 The fourth narrator, Shu’bah, is a pillar of Sunni *ahadith*. Al-Hafiz
 gives the catch-phrases about him:
 
-<blockquote dir="rtl">
-  <p>
-شعبة بن الحجاج بن الورد العتكي مولاهم أبو بسطام الواسطي ثم البصري ثقة
-حافظ متقن كان الثوري يقول هو أمير المؤمنين في الحديث
-  </p>
-</blockquote>
+> شعبة بن الحجاج بن الورد العتكي مولاهم أبو بسطام الواسطي ثم البصري ثقة
+> حافظ متقن كان الثوري يقول هو أمير المؤمنين في الحديث
 
 Shu’bah b. al-Hajjaj b. al-Ward al-‘Atki, their freed slave, Abu Busṭam
 al-Wasiṭi, al-Basri: ***Thiqah*** **(trustworthy)**, *hafiz*,
@@ -131,12 +103,8 @@ al-muminin*** **(the supreme leader) in** ***al-Hadith***.”[^9]
 Abu Ishaq al-Sabi’i is the fifth narrator, and al-Hafiz has this to say
 about him:
 
-<blockquote dir="rtl">
-  <p>
-عمرو بن عبد الله بن عبيد …. أبو إسحاق السبيعي بفتح المهملة وكسر
-الموحدة ثقة مكثر عابد من الثالثة اختلط بأخرة
-  </p>
-</blockquote>
+> عمرو بن عبد الله بن عبيد …. أبو إسحاق السبيعي بفتح المهملة وكسر
+> الموحدة ثقة مكثر عابد من الثالثة اختلط بأخرة
 
 ‘Amr b. ‘Abd Allah b. ‘Ubayd .... Abu Ishaq al-Sabi’i: ***Thiqah***
 **(trustworthy)**; narrated a lot (of *ahadith*), a great worshipper (of
@@ -146,17 +114,9 @@ narrations) during the end part of his lifetime.[^10]
 Of course, Shu’bah heard from him before the memory loss. ‘Allamah
 al-Albani (d. 1420 H) explains:
 
-<blockquote dir="rtl">
-  <p>
-وتابعهم سفيان الثوري وشعبة عن أبي إسحاق، ولكنهما لم يذكرا النزول،
-  </p>
-</blockquote>
+> وتابعهم سفيان الثوري وشعبة عن أبي إسحاق، ولكنهما لم يذكرا النزول،
 
-<blockquote dir="rtl">
-  <p>
-وروايتهما أصح، لأنهما سمعا منه قبل الاختلاط
-  </p>
-</blockquote>
+> وروايتهما أصح، لأنهما سمعا منه قبل الاختلاط
 
 Sufyan al-Thawri **and Shu’bah** also narrated from Abu Ishaq, although
 both did not mention the Descent. The reports of both of them (from Abu
@@ -170,19 +130,11 @@ reality, affect the *‘an-‘an* reports of Abu Ishaq – among others - as
 long as it is Shu’bah narrating from him. Allamah al-Albani states
 further:
 
-<blockquote dir="rtl">
-  <p>
-قال الترمذي: " حديث حسن صحيح، رواه الثوري وشعبة عن أبي إسحاق ".
-  </p>
-</blockquote>
+> قال الترمذي: " حديث حسن صحيح، رواه الثوري وشعبة عن أبي إسحاق ".
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهو كما قال، وهما قد رويا عنه قبل اختلاطه، وشعبة لا يروي عنه إلا
-ما صرح فيه بالتحديث كما هو مذكور في ترجمته، فبروايته عنه أمنا شبهة
-تدليسه.
-  </p>
-</blockquote>
+> قلت: وهو كما قال، وهما قد رويا عنه قبل اختلاطه، وشعبة لا يروي عنه إلا
+> ما صرح فيه بالتحديث كما هو مذكور في ترجمته، فبروايته عنه أمنا شبهة
+> تدليسه.
 
 Al-Tirmidhi said: “A *hasan sahih hadith*, al-Thawri and Shu’bah
 narrated it from (*‘an*) Abu Ishaq.”
@@ -205,11 +157,7 @@ Abu Ishaq, there actually is *tahdith* by the latter from his Shaykh.
 The *‘an-‘an* form is only Shu’bah’s convenience style. No wonder, Imam
 al-Bukhari (d. 256 H) includes this *sanad* in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا سليمان بن حرب حدثنا شعبة عن أبي إسحاق عن عبد الرحمن بن يزيد
-  </p>
-</blockquote>
+> حدثنا سليمان بن حرب حدثنا شعبة عن أبي إسحاق عن عبد الرحمن بن يزيد
 
 Sulayman b. Harb – **Shu’bah** – **Abu Ishaq** – **‘Abd al-Rahman b.
 Yazid**.[^13]
@@ -220,40 +168,24 @@ al-Bukhari considers the chain to be *sahih*.
 
 Imam Ahmad b. Hanbal has also documented a similar *‘an-‘an* chain:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي قال حدثنا يزيد قال أنا شعبة عن أبي إسحاق عن
-أبي ميسرة
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي قال حدثنا يزيد قال أنا شعبة عن أبي إسحاق عن
+> أبي ميسرة
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Yazid –
 **Shu’bah** – **Abu Ishaq** – Abu Maysarah.[^14]
 
 Al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 **Its chain is** ***sahih*** upon the standard of the two Shaykhs.[^15]
 
 ‘Allamah al-Albani too authenticates yet another *‘an-‘an* chain of Abu
 Ishaq:
 
-<blockquote dir="rtl">
-  <p>
-إسناده: حدثنا حفص بن عمر: ثنا شعبة عن أبي إسحاق عن الأسود عن عبد الله.
-  </p>
-</blockquote>
+> إسناده: حدثنا حفص بن عمر: ثنا شعبة عن أبي إسحاق عن الأسود عن عبد الله.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح على شرط البخاري
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح على شرط البخاري
 
 Its chain: Hafs b. ‘Umar – **Shu’bah** – **Abu Ishaq** – al-Aswad – ‘Abd
 Allah.
@@ -264,23 +196,15 @@ al-Bukhari.[^16]
 Imam Abu Ya’la (d. 307 H) also documents an *‘an-‘an* chain by Abu
 Ishaq, from ‘Abd al-Rahman b. Yazid, like al-Bukhari:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق حدثنا عبد الصمد حدثنا شعبة عن أبي إسحاق عن عبد الرحمن بن
-يزيد عن الأسود
-  </p>
-</blockquote>
+> حدثنا إسحاق حدثنا عبد الصمد حدثنا شعبة عن أبي إسحاق عن عبد الرحمن بن
+> يزيد عن الأسود
 
 Ishaq – ‘Abd al-Samad – **Shu’bah** – **Abu Ishaq** – **‘Abd al-Rahman
 b. Yazid** – al-Aswad[^17]
 
 Shaykh Dr. Asad gives this verdict:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^18]
 
@@ -290,11 +214,7 @@ Let us now move to the sixth narrator in the *sanad* of Ibn Mas’ud’s
 well-known. Nonetheless, we are pleased to present this further
 confirmation by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرحمن بن يزيد بن قيس النخعي أبو بكر الكوفي ثقة
-  </p>
-</blockquote>
+> عبد الرحمن بن يزيد بن قيس النخعي أبو بكر الكوفي ثقة
 
 ‘Abd al-Rahman b. Yazid b. Qays al-Nakha’i, Abu Bakr al-Kufi:
 ***Thiqah*** **(trustworthy)**.[^19]
@@ -302,11 +222,7 @@ confirmation by al-Hafiz:
 Finally, concerning the seventh and last narrator (‘Alqamah), al-Hafiz
 al-‘Asqalani proclaims with full strength:
 
-<blockquote dir="rtl">
-  <p>
-علقمة بن قيس بن عبد الله النخعي الكوفي ثقة ثبت فقيه عابد
-  </p>
-</blockquote>
+> علقمة بن قيس بن عبد الله النخعي الكوفي ثقة ثبت فقيه عابد
 
 ‘Alqamah b. Qays b. ‘Abd Allah al-Nakha’i al-Kufi: ***Thiqah***
 **(trustworthy)**, *thabt* (accurate), *faqih* (a jurist), *‘abidun* (a
@@ -320,13 +236,9 @@ and the chain is fully and perfectly connected.
 Even then, the same *athar* has been recorded with a second *sahih*
 chain in that same *Fadhail al-Sahabah*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله قال حدثني جدي قثنا أبو قطن قثنا شعبة عن أبي إسحاق عن
-عبد الله بن يزيد عن علقمة عن عبد الله وهو بن مسعود قال : كنا نتحدث ان
-أفضل أهل المدينة علي بن أبي طالب
-  </p>
-</blockquote>
+> حدثنا عبد الله قال حدثني جدي قثنا أبو قطن قثنا شعبة عن أبي إسحاق عن
+> عبد الله بن يزيد عن علقمة عن عبد الله وهو بن مسعود قال : كنا نتحدث ان
+> أفضل أهل المدينة علي بن أبي طالب
 
 **‘Abd Allah** (b. Muhammad b. ‘Abd al-‘Aziz al-Baghwi) – **my
 grandfather** (Ahmad b. Muni’ al-Baghwi) – **Abu Qaṭan** – Shu’bah – Abu
@@ -340,13 +252,9 @@ find out about these new names.
 
 This is al-Hafiz’s verdict on the first narrator of this new *sanad*:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن محمد بن عبد العزيز أبو القاسم البغوي الحافظ الصدوق مسند
-عصره ….قلت وقد وثقه الدارقطني والخطيب وغيرهما قال الخطيب كان ثقة ثبتا
-مكثرا فهما عارفا …. قلت الرجل ثقة مطلقا
-  </p>
-</blockquote>
+> عبد الله بن محمد بن عبد العزيز أبو القاسم البغوي الحافظ الصدوق مسند
+> عصره ….قلت وقد وثقه الدارقطني والخطيب وغيرهما قال الخطيب كان ثقة ثبتا
+> مكثرا فهما عارفا …. قلت الرجل ثقة مطلقا
 
 ‘Abd Allah b. Muhammad b. ‘Abd al-‘Aziz, Abu al-Qasim al-Baghwi:
 *Al-hafiz*, ***al-saduq*** **(the extremely truthful)**, the top scholar
@@ -358,22 +266,14 @@ lot (of *ahadith*)”.... **I (al-‘Asqalani) say: The man is absolutely**
 
 Concerning his grandfather, al-Hafiz further submits:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن منيع بن عبد الرحمن أبو جعفر البغوي ….ثقة حافظ
-  </p>
-</blockquote>
+> أحمد بن منيع بن عبد الرحمن أبو جعفر البغوي ….ثقة حافظ
 
 Ahmad b. Muni’ b. ‘Abd al-Rahman, Abu Ja’far al-Baghwi....: ***Thiqah***
 **(trustworthy)**, *hafiz*.[^23]
 
 Abu Qaṭan too is *thiqah* (trustworthy), as confirmed by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-عمرو بن الهيثم بن قطن … أبو قطن البصري ثقة
-  </p>
-</blockquote>
+> عمرو بن الهيثم بن قطن … أبو قطن البصري ثقة
 
 ‘Amr b. al-Haytham b. Qaṭan ... Abu Qaṭan al-Basri: ***Thiqah***
 **(trustworthy)**.[^24]
@@ -382,12 +282,8 @@ Of course, ‘Abd Allah b. Yazid was a junior Sahabi, and therefore needed
 no investigation. He is automatically *thiqah* (trustworthy). Al-Hafiz
 states:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن يزيد بن زيد بن حصين الأنصاري الخطمي بفتح المعجمة وسكون
-المهملة صحابي صغير ولي الكوفة لابن الزبير.
-  </p>
-</blockquote>
+> عبد الله بن يزيد بن زيد بن حصين الأنصاري الخطمي بفتح المعجمة وسكون
+> المهملة صحابي صغير ولي الكوفة لابن الزبير.
 
 ‘Abd Allah b. Yazid b. Zayd b. Husayn al-Ansari al-Khaṭmi: **a junior
 Sahabi**. He was the *wali* (ruler) of Kufah for Ibn al-Zubayr.[^25]
@@ -480,5 +376,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 [^24]: Ibid, vol. 1, p. 748, \# 5146
 
 [^25]: Ibid, vol. 1, p. 547, \# 3715
-
 

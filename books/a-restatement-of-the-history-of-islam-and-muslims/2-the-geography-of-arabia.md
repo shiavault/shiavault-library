@@ -323,4 +323,3 @@ Diesel trucks, trains, and jet airplanes have taken the place of camels
 and camel caravans. Most Arabs now travel by automobile or by air. The
 camels and the camel caravans have become “obsolete” in Arabia.
 
-

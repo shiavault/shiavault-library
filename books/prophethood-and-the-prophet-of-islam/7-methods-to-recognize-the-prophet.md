@@ -18,14 +18,10 @@ happened in case of the Prophet of Islam. The past prophets gave glad
 tidings of his arrival, which were recorded in their books. Quran has
 mentioned this same point in the words of Prophet Isa (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَابَنِى إِسْرَآءِيلَ إِنِّى
-رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقاً لِّمَا بَيْنَ يَدَىَّ مِنَ
-التَّوْرَاةِ وَمُبَشِّراً بِرَسُولٍ يَأْتِى مِن بَعْدِى اسْمُهُ
-أَحْمَدُ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَابَنِى إِسْرَآءِيلَ إِنِّى
+> رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقاً لِّمَا بَيْنَ يَدَىَّ مِنَ
+> التَّوْرَاةِ وَمُبَشِّراً بِرَسُولٍ يَأْتِى مِن بَعْدِى اسْمُهُ
+> أَحْمَدُ
 
 ***“And when Isa son of Maryam said: O children of Israel! surely I am
 the apostle of Allah to you, verifying that which is before me of the
@@ -62,5 +58,4 @@ preaches, he would be supported and verified by the people with regard
 to the claim of prophethood also. But this topic also would be
 considered only as a confirmation and not an absolute proof and lawful
 argument.
-
 

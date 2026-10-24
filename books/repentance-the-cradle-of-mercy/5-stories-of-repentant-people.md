@@ -2270,4 +2270,3 @@ caliphate was Imam Ali’s right.
 
 [^48]: Supplication.
 
-

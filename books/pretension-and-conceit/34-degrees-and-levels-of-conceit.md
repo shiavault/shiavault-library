@@ -17,4 +17,3 @@ The third level, too, has two degrees: conceit about the good deeds.
 Contrasting the second degree is conceit about ugly deeds and
 wrongdoings.
 
-

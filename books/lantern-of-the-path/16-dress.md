@@ -4,15 +4,9 @@ Dress
 The best adornment of the believer's garment is precaution and the most
 blessed garment is belief. As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلِبَاسُ التَّقْوَىَ ذَلِكَ خَيْرٌ
-  </p>
-</blockquote>
+> وَلِبَاسُ التَّقْوَىَ ذَلِكَ خَيْرٌ
 
 ***And clothing that guards [against evil]; that is best.*** (7:26)
-
 
 Outward dress is a blessing from Allah in order to preserve the modesty
 of the sons of Adam; it is a mark of honour which Allah has given to the
@@ -48,5 +42,4 @@ benefits of wisdom and clarity.
 But as long as he forgets his own wrong actions, is ignorant of his own
 faults, and falls back on his power and strength, he will never be
 successful.
-
 

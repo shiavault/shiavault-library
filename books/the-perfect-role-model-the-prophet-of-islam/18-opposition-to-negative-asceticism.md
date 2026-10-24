@@ -73,4 +73,3 @@ way is not my way of life is not of me."*[^2]
 
 [^2]: Wasa’il ash-Shi‘ah, vol. 14, p. 74.
 
-

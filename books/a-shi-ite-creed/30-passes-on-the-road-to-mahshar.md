@@ -96,4 +96,3 @@ But the latter, read with mirsad, is perhaps even more appropriate.
 [^6]: Compare MC, 163 - 164 for a different account of the interrogation
 in the grave.
 
-

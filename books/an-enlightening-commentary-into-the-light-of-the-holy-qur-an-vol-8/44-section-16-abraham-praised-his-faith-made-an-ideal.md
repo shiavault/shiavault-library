@@ -4,12 +4,8 @@ Section 16: Abraham Praised – His Faith Made an Ideal
 Surah An-Nahl – Verse 120
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِبْرَاهِيمَ كَانَ اُمَّةً قَانِتاً لِلَّهِ حَنِيفاً وَلَمْ يَكُ
-مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> إِنَّ إِبْرَاهِيمَ كَانَ اُمَّةً قَانِتاً لِلَّهِ حَنِيفاً وَلَمْ يَكُ
+> مِنَ الْمُشْرِكِينَ
 
 ***120. “Verily, Abraham was a nation (by himself) obedient to Allah,
 upright, and he was not of the polytheists,”***
@@ -82,18 +78,10 @@ and all points of his heart were filled only with the light of Allah.
 Surah An-Nahl – Verses 121 - 122
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-شَاكِراً لاَنْعُمِهِ اجْتَبَاهُ وَهَدَاهُ إِلَي صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> شَاكِراً لاَنْعُمِهِ اجْتَبَاهُ وَهَدَاهُ إِلَي صِرَاطٍ مُسْتَقِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَءَاتَيْنَاهُ فِي الدُّنْيَا حَسَنَةً وَإِنَّهُ فِي الاَخِرَةِ لَمِنَ
-الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَءَاتَيْنَاهُ فِي الدُّنْيَا حَسَنَةً وَإِنَّهُ فِي الاَخِرَةِ لَمِنَ
+> الصَّالِحِينَ
 
 ***121. “(He was) thankful for His blessings; He selected him and He
 guided him to a straight way.”***  
@@ -146,12 +134,8 @@ protecting and purifying them for Himself.
 Surah An-Nahl – Verse 123
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفاً
-وَمَا كَانَ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفاً
+> وَمَا كَانَ مِنَ الْمُشْرِكِينَ
 
 ***123. “So We revealed to you that you follow the creed of Abraham, the
 upright one, and he was not of the polytheists.”***
@@ -186,13 +170,9 @@ paganism and worshipping of the idols.
 Surah An-Nahl – Verse 124
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا جُعِلَ السَّبْتُ عَلَي الَّذِينَ اخْتَلَفُوا فِيهِ وَإِنَّ
-رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ
-يَخْتَلِفُونَ
-  </p>
-</blockquote>
+> إِنَّمَا جُعِلَ السَّبْتُ عَلَي الَّذِينَ اخْتَلَفُوا فِيهِ وَإِنَّ
+> رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ
+> يَخْتَلِفُونَ
 
 ***124. “The Sabbath was appointed only for those who differed about it,
 and verily your Lord definitely will judge between them on the Day of
@@ -231,13 +211,9 @@ great day for Muslims, and it is also a festival and holiday for them.
 Surah An-Nahl – Verse 125
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ادْعُ إِلَي سَبِيلِ رَبّـِكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن
-ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> ادْعُ إِلَي سَبِيلِ رَبّـِكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن
+> ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
 
 ***125. “(O’ Prophet!) Call (mankind) to the path of your Lord with
 wisdom and good admonition, and dispute with them in the better way.
@@ -329,12 +305,8 @@ path, and He knows best those who are guided.”***
 Surah An-Nahl – Verse 126
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُم بِهِ وَلَئِن
-صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ
-  </p>
-</blockquote>
+> وإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُم بِهِ وَلَئِن
+> صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ
 
 ***126. “And if you punish then punish as you were punished with; but if
 you are patient, decisively, it will be best for the patient ones.”***
@@ -413,12 +385,8 @@ groups embraced Islam, the religion of Allah.
 Surah An-Nahl – Verse 127
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ وَمَا صَبْرُكَ إِلاَّ بِاللَّهِ وَلاَ تَحْزَنْ عَلَيْهِمْ
-وَلاَ تَكُ فِي ضَيْقٍ مّـِمَّا يَمْكُرُونَ
-  </p>
-</blockquote>
+> وَاصْبِرْ وَمَا صَبْرُكَ إِلاَّ بِاللَّهِ وَلاَ تَحْزَنْ عَلَيْهِمْ
+> وَلاَ تَكُ فِي ضَيْقٍ مّـِمَّا يَمْكُرُونَ
 
 ***127. “And (O’ Prophet!) be you patient and your patience is not but
 by (the assistant of) Allah, nor grieve over them and do not distress
@@ -481,11 +449,7 @@ Faith, persistence, wisdom and insight.
 Surah An-Nahl – Verse 128
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَالَّذِينَ هُم مُحْسِنُونَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَالَّذِينَ هُم مُحْسِنُونَ
 
 ***128. “Verily Allah is with those who keep from evil, and those who
 are good-doers.”***
@@ -592,5 +556,4 @@ gratitude towards Him.
 [^4]: Tafsir-i-Forq an
 
 [^5]: Tafsir-i-Jawami‘-ul-Jami‘ and Majma‘-ul-Bayan
-
 

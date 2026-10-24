@@ -44,4 +44,3 @@ thee and chosen thee above all women of the time. \`O Mary, be obedient
 to thy Lord and prostrate thyself and worship the one God with those who
 worship HIM.’” (Ch 3: Vr 42-43)
 
-

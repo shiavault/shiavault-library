@@ -415,4 +415,3 @@ religion were comprehensive and all-sided. History does not at all
 remember any personality who like him ever attained perfection in all
 human dimensions. He was really a perfect man.
 
-

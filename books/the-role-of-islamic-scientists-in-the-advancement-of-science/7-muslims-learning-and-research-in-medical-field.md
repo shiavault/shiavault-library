@@ -138,4 +138,3 @@ important matter. "The only thing which I did was to remember what the
 Beduins did to a sufferer of this kind; hence the credit should go to
 them and not me'', said Razi.
 
-

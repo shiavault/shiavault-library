@@ -346,4 +346,3 @@ to Him to guide you well in this life.
 
 Wafa
 
-

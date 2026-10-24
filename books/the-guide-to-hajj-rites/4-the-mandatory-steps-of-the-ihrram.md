@@ -940,4 +940,3 @@ forcefully sheltered him, or covered his head.
 294. In every case when he was liable to a sheep, he could if he wished
 offer a goat instead.
 
-

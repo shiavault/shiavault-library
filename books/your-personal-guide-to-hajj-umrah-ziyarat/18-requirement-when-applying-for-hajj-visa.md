@@ -37,4 +37,3 @@ forbidden to leave the Kingdom on his own.
 **Please refer to the instructions sent by the Saudi Embassy when they
 send the application form to you.**
 
-

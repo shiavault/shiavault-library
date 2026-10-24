@@ -1233,4 +1233,3 @@ Al-Kamil, Vol. 4, p. 32.
 
 [^76]: From a poem by al-Sharif al-Radi, may Allah elevate his status.
 
-

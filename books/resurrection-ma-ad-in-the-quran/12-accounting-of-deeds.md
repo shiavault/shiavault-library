@@ -12,13 +12,9 @@ own eyes.
 
 In the Holy Quran it is mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتاً لِّيُرَوْاْ أَعْمَالَهُمْ \*
-فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُ \*وَمَن يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرّاً يَرَهُ‏
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتاً لِّيُرَوْاْ أَعْمَالَهُمْ \*
+> فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُ \*وَمَن يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرّاً يَرَهُ‏
 
 ***On that day men shall come forth in sundry bodies that they may be
 shown their works. So he who has done an atom’s weight of good shall see
@@ -27,13 +23,9 @@ it. And he who has done an atom’s weight of evil shall see it.
 
 And it also says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
-بَعِيداً
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
+> بَعِيداً
 
 ***On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and
@@ -49,14 +41,10 @@ a sign of difficulty in accounting.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أُوتِىَ كِتَابَهُ بِيَمِينِهِ \* فَسَوْفَ يُحَاسَبُ
-حِسَاباً يَسِيراً \* وَ يَنقَلِبُ إِلَى‏ أَهْلِهِ مَسْرُوراً \*
-وَأَمَّا مَنْ أُوتِىَ كِتَابَهُ وَرَآءَ ظَهْرِهِ \* فَسَوْفَ يَدْعُواْ
-ثُبُوراً \* وَيَصْلَى‏ سَعِيراً
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أُوتِىَ كِتَابَهُ بِيَمِينِهِ \* فَسَوْفَ يُحَاسَبُ
+> حِسَاباً يَسِيراً \* وَ يَنقَلِبُ إِلَى‏ أَهْلِهِ مَسْرُوراً \*
+> وَأَمَّا مَنْ أُوتِىَ كِتَابَهُ وَرَآءَ ظَهْرِهِ \* فَسَوْفَ يَدْعُواْ
+> ثُبُوراً \* وَيَصْلَى‏ سَعِيراً
 
 ***Then as to him who is given his book in his right hand. He shall be
 reckoned with by an easy reckoning. And he shall go back to his people
@@ -75,13 +63,9 @@ accounting of such people and they would be sent to Paradise before all.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ \* فَأَمَّا
-الَّذينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ فَهُمْ في‏ رَوْضَةٍ
-يُحْبَرُونَ
-  </p>
-</blockquote>
+> وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ \* فَأَمَّا
+> الَّذينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ فَهُمْ في‏ رَوْضَةٍ
+> يُحْبَرُونَ
 
 ***And at the time when the hour shall come, at that time they shall
 become separated one from the other. Then as to those who believed and
@@ -89,14 +73,10 @@ did good, they shall be made happy in a garden. (30:14-15)***
 
 And it also says:
 
-<blockquote dir="rtl">
-  <p>
-وَكُنتُمْ أَزْوَ اجاً ثَلاَثَةً \* فَأَصْحَابُ الْمَيْمَنَةِ مَآ
-أَصْحَابُ الْمَيْمَنَةِ \* وَأَصْحَابُ الْمَشْئَمَةِ مَآ أَصْحَابُ
-الْمَشْئَمَةِ \* وَالسَّابِقُونَ السَّابِقُونَ \* أُوْلَئِكَ
-الْمُقَرَّبُونَ
-  </p>
-</blockquote>
+> وَكُنتُمْ أَزْوَ اجاً ثَلاَثَةً \* فَأَصْحَابُ الْمَيْمَنَةِ مَآ
+> أَصْحَابُ الْمَيْمَنَةِ \* وَأَصْحَابُ الْمَشْئَمَةِ مَآ أَصْحَابُ
+> الْمَشْئَمَةِ \* وَالسَّابِقُونَ السَّابِقُونَ \* أُوْلَئِكَ
+> الْمُقَرَّبُونَ
 
 ***And you shall be three sorts. Then (as to) the companions of the
 right hand; how happy are the companions of the right hand! And (as to)
@@ -120,12 +100,8 @@ acceptance of deeds.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِآيَاتِنَا وَلِقَآىِ
-الْآخِرَةِ فَأُوْلَئِكَ فِى الْعَذَابِ مُحْضَرُونَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِآيَاتِنَا وَلِقَآىِ
+> الْآخِرَةِ فَأُوْلَئِكَ فِى الْعَذَابِ مُحْضَرُونَ
 
 ***And as to those who disbelieved and rejected Our communications and
 the meeting of the hereafter, these shall be brought over to the
@@ -133,12 +109,8 @@ chastisement. (30:16)***
 
 And it also says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قيلَ لِلَّذينَ ظَلَمُوا ذُوقُوا عَذابَ الْخُلْدِ هَلْ تُجْزَوْنَ
-إِلاَّ بِما كُنْتُمْ تَكْسِبُون‏
-  </p>
-</blockquote>
+> ثُمَّ قيلَ لِلَّذينَ ظَلَمُوا ذُوقُوا عَذابَ الْخُلْدِ هَلْ تُجْزَوْنَ
+> إِلاَّ بِما كُنْتُمْ تَكْسِبُون‏
 
 ***Then it shall be said to those who were unjust: Taste abiding
 chastisement; you are not requited except for what you earned.
@@ -146,25 +118,17 @@ chastisement; you are not requited except for what you earned.
 
 And it also says:
 
-<blockquote dir="rtl">
-  <p>
-ْ وَ مَنْ يَكْفُرْ بِآياتِ اللَّهِ فَإِنَّ اللَّهَ سَريعُ الْحِساب‏
-  </p>
-</blockquote>
+> ْ وَ مَنْ يَكْفُرْ بِآياتِ اللَّهِ فَإِنَّ اللَّهَ سَريعُ الْحِساب‏
 
 ***…and whoever disbelieves in the communications of Allah then surely
 Allah is quick in reckoning. (3:19)***
 
 And further says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُواْ أَعْمَلُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
-الظَّمْئَانُ مَآءً حَتَّى‏ إِذَا جَآءَهُ لَمْ يَجِدْهُ شَيْئاً
-وَوَجَدَ اللَّهَ عِندَهُ فَوَفَّهُ حِسَابَهُ وَ اللَّهُ سَرِيعُ
-الْحِسَابِ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُواْ أَعْمَلُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
+> الظَّمْئَانُ مَآءً حَتَّى‏ إِذَا جَآءَهُ لَمْ يَجِدْهُ شَيْئاً
+> وَوَجَدَ اللَّهَ عِندَهُ فَوَفَّهُ حِسَابَهُ وَ اللَّهُ سَرِيعُ
+> الْحِسَابِ
 
 ***And (as for) those who disbelieve, their deeds are like the mirage in
 a desert, which the thirsty man deems to be water; until when he comes
@@ -174,11 +138,7 @@ back to him his reckoning in full; and Allah is quick in reckoning;
 
 And then says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ
 
 ***Surely Allah does not forgive that anything should be associated with
 Him… (4:48)***
@@ -203,13 +163,9 @@ and have good deeds to their credit. But as a result of the weakness of
 their faith they also have some shortcomings and defects. The Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَءَاخَرُونَ اعْتَرَفُواْ بِذُنُوبِهِمْ خَلَطُواْ عَمَلًا صَلِحاً
-وَءَاخَرَ سَيِّئاً عَسَى اللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ اللَّهَ
-غَفُورٌ رَّحِيمٌ‏
-  </p>
-</blockquote>
+> وَءَاخَرُونَ اعْتَرَفُواْ بِذُنُوبِهِمْ خَلَطُواْ عَمَلًا صَلِحاً
+> وَءَاخَرَ سَيِّئاً عَسَى اللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ اللَّهَ
+> غَفُورٌ رَّحِيمٌ‏
 
 ***And others have confessed their faults, they have mingled a good deed
 and an evil one; may be Allah will turn to them (mercifully); surely
@@ -393,11 +349,7 @@ appeal and the third is that which would be forgiven. The injustice
 which would not be forgiven is polytheism with the Almighty Allah. The
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ
 
 ***Surely Allah does not forgive that anything should be associated with
 Him… (4:48)***
@@ -544,81 +496,49 @@ Accounting of all the people would be at one and the same time and it
 would be done very swiftly. This point is explained clearly in the verse
 of Quran:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلئِكَ لَهُمْ نَصِيِبٌ مِمَّا كَسَبُوا وَاللَّهُ سَرِيعُ
-الْحِسَابِ‏
-  </p>
-</blockquote>
+> أُوْلئِكَ لَهُمْ نَصِيِبٌ مِمَّا كَسَبُوا وَاللَّهُ سَرِيعُ
+> الْحِسَابِ‏
 
 ***They shall have (their) portion of what they have earned, and Allah
 is swift in reckoning. (2:202)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَكْفُرْ بَِايَتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ‏
-  </p>
-</blockquote>
+> وَمَنْ يَكْفُرْ بَِايَتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ‏
 
 ***…and whoever disbelieves in the communications of Allah then surely
 Allah is quick in reckoning. (3:19)***
 
-<blockquote dir="rtl">
-  <p>
-أُولَئِكَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ إِنَّ اللَّهَ سَرِيعُ
-الْحِسَابِ
-  </p>
-</blockquote>
+> أُولَئِكَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ إِنَّ اللَّهَ سَرِيعُ
+> الْحِسَابِ
 
 ***…these it is that have their reward with their Lord; surely Allah is
 quick in reckoning. (3:199)***
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ اللَّهَ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
-  </p>
-</blockquote>
+> وَاتَّقُواْ اللَّهَ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
 
 ***…and be careful of (your duty to) Allah; surely Allah is swift in
 reckoning. (5:4)***
 
-<blockquote dir="rtl">
-  <p>
-وَ اللَّهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهِ وَهُوَ سَرِيعُ
-الْحِسَابِ‏
-  </p>
-</blockquote>
+> وَ اللَّهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهِ وَهُوَ سَرِيعُ
+> الْحِسَابِ‏
 
 ***And Allah pronounces a doom- there is no repeller of His decree, and
 He is swift to take account. (13:41)***
 
-<blockquote dir="rtl">
-  <p>
-لِيَجْزِىَ اللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ إِنَّ اللَّهَ سَرِيعُ
-الْحِسَابِ
-  </p>
-</blockquote>
+> لِيَجْزِىَ اللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ إِنَّ اللَّهَ سَرِيعُ
+> الْحِسَابِ
 
 ***That Allah may requite each soul (according to) what it has earned;
 surely Allah is swift in reckoning. (14:51)***
 
-<blockquote dir="rtl">
-  <p>
-ألْيَوْمَ تُجْزَى‏ كُلُّ نَفْسٍ بِمَا كَسَبَتْ لَا ظُلْمَ الْيَوْمَ
-إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ‏
-  </p>
-</blockquote>
+> ألْيَوْمَ تُجْزَى‏ كُلُّ نَفْسٍ بِمَا كَسَبَتْ لَا ظُلْمَ الْيَوْمَ
+> إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ‏
 
 ***This day every soul shall be rewarded for what it has earned; no
 injustice (shall be done) this day; surely Allah is quick in reckoning.
 (40:17)***
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ رُدُّواْ إِلَى اللَّهِ مَوْلَهُمُ الْحَقِ‏ّ أَلَا لَهُ الْحُكْمُ
-وَ هُوَ أَسْرَعُ الْحَسِبِينَ‏
-  </p>
-</blockquote>
+> ثُمَّ رُدُّواْ إِلَى اللَّهِ مَوْلَهُمُ الْحَقِ‏ّ أَلَا لَهُ الْحُكْمُ
+> وَ هُوَ أَسْرَعُ الْحَسِبِينَ‏
 
 ***Then are they sent back to Allah, their Master, the True one; now
 surely His is the judgment and He is swiftest in taking account.
@@ -674,11 +594,7 @@ intention is needed.
 Allah is the creator of time and space; since His holy being is not in
 need of time and space; his action also is not gradual and time-bound:
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ
-  </p>
-</blockquote>
+> وَمَآ أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ
 
 ***…and the matter of the hour is but as the twinkling of an eye or it
 is still nearer. (16:77)***
@@ -727,5 +643,4 @@ accounting, although their fruits would be declared on Judgment Day.
 [^19]: Al-Mizan, Vol. 15, Pg. 132 & Vol. 12, Pg. 91.
 
 [^20]: Biharul Anwar, Vol. 7, Pg. 271.
-
 

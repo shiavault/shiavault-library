@@ -295,4 +295,3 @@ perhaps, during his governership over Hamadan or Rayy during the time of
 [^12]: Al-Tabari (5:421): “Abu Mikhnaf says: ‘[I relate] from Dahhak bin
 ‘Abdullah al-Mushriqi on the authority of ‘Abdullah bin ‘Asim …’”
 
-

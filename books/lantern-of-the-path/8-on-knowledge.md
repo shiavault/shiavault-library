@@ -41,5 +41,3 @@ contentment and generosity; while anyone wishing to learn needs a desire
 for knowledge, will, devotion (of his time and energy), piety, caution,
 memory and resolution.
 
-
-

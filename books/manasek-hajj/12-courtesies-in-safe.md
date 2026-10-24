@@ -7,10 +7,8 @@ Holy Kaaba and concentrate on the corner with the Black Stone, praise
 Allah and narrate His bounties and then say seven times each Allahu
 Akber, Al-Hamdulillah and Lailaha ilallah and then say:
 
-<p dir="rtl">
 لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو حي لا
 يموت وهو على كل شيء قدير
-</p>
 
 (Translation: 'There is no God except Allah, He is One without any
 partner. All land belongs to Him and all praise is due to Him. He gives
@@ -20,10 +18,8 @@ goodness emanates from Him and is powerful over all things.)
 Then send blessings on Muhammad and his progeny (a.s.) and say
 thrice:
 
-<p dir="rtl">
 الله اكبر الحمد لله على ما هدانا والحمد لله على ما اولانا والحمد لله
 الحي القيوم والحمد لله الحي الدائم
-</p>
 
 (Translation: Allah is Great; He has granted us guidance. All praise is
 to Allah; He has showered on us bounties. All praise to Allah who is
@@ -31,10 +27,8 @@ Living and Eternal and all praise is ever due to Him.)
 
 Then say thrice:
 
-<p dir="rtl">
 أشهد أن لا إله إلا الله ، وأشهد أن محمداً عبدهُ ورسولهُ ، لا نعبدُ إلا
 إياه مخلصين له الدين ولو كره المشركون
-</p>
 
 . (Translation: I bear witness that there is no God except Allah and I
 bear witness that Muhammad is His servant and Messenger. We do not
@@ -43,16 +37,12 @@ the polytheists be.)
 
 Then say thrice:
 
-<p dir="rtl">
 اللهم إني أسألك العفو والعافية واليقين في الدنيا والآخرة
-</p>
 
 (Translation: O Allah, I beseech You for forgiveness, health, and
 firmness in faith in this world and the Hereafter). Then say thrice:
 
-<p dir="rtl">
 اللهم آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار
-</p>
 
 (Translation: O Allah, grant us the virtues of this world and the
 Hereafter and protect us from the fire of Hell.)
@@ -60,12 +50,10 @@ Hereafter and protect us from the fire of Hell.)
 Then recite a hundred times each of Allahu Akber, La ilaha illallah,
 Al-Hamdulillah and Subhanallah and then say:
 
-<p dir="rtl">
 لا إله إلا الله وحده وحده ، أنجز وعده ونصر عبده ، وغلب الاحزاب وحده فله
 الملك وله الحمد ، وحده وحده ، اللهم بارك لي في الموت وفي ما بعد الموت ،
 اللهم إني أعوذ بك من ظلمة القبر ووحشته ، اللهم أظلني في ظل عرشك يوم لا
 ظل إلا ظلك
-</p>
 
 (Translation: There is no God except Allah, He is only One, He has
 accomplished His promise, He has helped His servant and singly
@@ -77,11 +65,9 @@ Your Arsh on the day when there will be no shelter except Yours.)
 
 Then say:
 
-<p dir="rtl">
 أستودع الله الرحمن الرحيم ، الذي لا تضيع ودائعه ديني ونفسي وأهلي ،
 اللهم استعملني على كتابك وسنة نبيك ، وتوفني على ملته ، وأعذني من
 الفتنة
-</p>
 
 (Translation: I leave my religion, myself and family in the hands of
 Allah, the Merciful, the Beneficent, who does not let anything deposited
@@ -95,14 +81,12 @@ perform all this, one may recite a portion of it. It has been reported
 from Amiril Mu'mineen (a.s.) that when one climbs the Safaa, one must
 face the Holy Kaaba, raise one's hands and say
 
-<p dir="rtl">
 اللهم اغفر لي كل ذنب اذنبته قط ، فإن عدت فعد عليّ بالمغفرة ، فإنك أنت
 الغفور الرحيم ، اللهم ا فعل بي ما أنت أهله ، فإنك ا ن تفعل بي ما أنت
 أهله ترحمني ، وإن تعذبني فأنت غني عن عذابي ، وأنا محتاج الى رحمتك ، فيا
 من أنا محتاج الى رحمته ارحمني ، اللهم لا تفعل بي ما أنا اهله ، فإنك إن
 أنا أهله تعذبني ولن تظلمني ، أصبحت أتقي عدلك ولا أخاف جورك ، فيا من هو
 عدل لا يجور ارحمني
-</p>
 
 (Translation: O Allah, forgive all my sins whenever I may have
 committed them and if I repeat them, forgive me again, for You are
@@ -133,9 +117,7 @@ one must say the talbiyyah on the way but not in loud voice till one
 reaches Abtah when it must be recited aloud. When one notices Mina, one
 should say:
 
-<p dir="rtl">
 اللهم إياك أرجو وإياك أدعوا ، فبلغني أملي وأصلح لي علمي
-</p>
 
 (Translation: O Allah, I place all my hopes in You and supplicate to
 You. Fulfil my hopes and put my actions in order.)
@@ -143,20 +125,16 @@ You. Fulfil my hopes and put my actions in order.)
 Then proceed to Mina peacefully and with seriousness, engrossed in
 remembrance of Allah and on reaching there, say:
 
-<p dir="rtl">
 الحمد لله الذي أقدمنيها صالحاً في عافية وبلغني هذا المكان
-</p>
 
 (Translation: All praise is due to Allah who brought me to Mina in
 sound health and reached me to this place.)
 
 Then say:
 
-<p dir="rtl">
 اللهم وهذه منى ، وهي مما مننت به على أوليائك من المناسك ، فأسألك أن
 تصلي على محمد وآل محمد ، وأن تمن عليّ فيها بما مننت على اوليائك وأهل
 طاعتك فإنما أنا عبدك وفي قبضتك
-</p>
 
 (Translation: O Allah, this is Mina where You have graced us with
 performance of ceremonies. I beseech You for the grace You have bestowed
@@ -168,10 +146,8 @@ the mosque at Kheef. After dawn, one must continue in prayer till
 sunrise and then move to Arafaat. There is no objection in departing
 from Mina before sunrise. When one notices Arafaat, one should say:
 
-<p dir="rtl">
 اللهم إليك صمدت وإياك اعتمدت ووجهك أردت ، فأسألك إن تبارك لي في رحلتي ،
 وأن تقضي لي حاجتي ، وأن تجعلني ممن تباهي به اليوم من هو أفضل مني
-</p>
 
 (Translation: O Allah, I turn to You, repose trust in You and seek Your
 pleasure. I beseech You to bless my journey, fulfil my wishes and
@@ -208,10 +184,8 @@ for it is a day for supplications and seeking refuge of Allah from the
 Shaitan who does not spare opportunity to deviate man. One must not
 engage in looking at others but examine oneself and say:
 
-<p dir="rtl">
 اللهم إني عبدك فلا تجعلني من أخيب وفدك ، وارحم مسيري اليك من الفج
 العميق
-</p>
 
 (Translation: O Allah, I am Your slave. Do not include among those who
 do not hope to be close to You. Have mercy on my having travelled from
@@ -219,10 +193,8 @@ far towards You.)
 
 Then say:
 
-<p dir="rtl">
 اللهم رب المشاعر كلها ، فك رقبتي من النار وأوسع علي من رزقك الحلال
 واذرأ عني شر فسقة الجن والانس
-</p>
 
 (Translation: O Allah, the sustainer of all the places for the
 ceremonies. Spare my neck from the fire of Hell, increase my sustenance
@@ -231,11 +203,9 @@ jinn and mankind.)
 
 Then say:
 
-<p dir="rtl">
 اللهم إني أسألك بحولك وجودك وكرمك ومنّك وفضلك ، يا أسمع السامعين ويا
 أبصر الناظرين ويا أسرع الحاسبين ويا أرحم الراحمين ، أن تصلي على محمد وآل
 محمد وأن تفعل بي ..
-</p>
 
 (Translation: O Allah, I ask You by Your power, generosity, charity,
 favour and bestowal, O the Best of the Listeners, the Greatest of those
@@ -245,10 +215,8 @@ Merciful, send Your blessings on Muhammad and his progeny and grant me
 
 Then say raising our head towards the sky:
 
-<p dir="rtl">
 اللهم حاجتي اليك التي إن اعطيتنيها لم يضرني ما منعني ، والتي إن
 منعتنيها م ينفعني ما أعطيتني ، أسألك خلاص رقبتي من النار
-</p>
 
 (Translation: O Allah, I have a wish which if You grant will not affect
 what You have refused me but if you reject that wish, I will not benefit
@@ -257,11 +225,9 @@ fire of Hell.)
 
 Then say:
 
-<p dir="rtl">
 اللهم إني عبدك وملك يدك ، ناصيتي بيدك واجلي بعلمك ، أسألك ان توفقني لما
 يرضيك عني وأن تسلم مني مناسكي التي أريتها خليلك إبراهيم ودللت عليها نبيك
 محمداً صلى الله عليه وآله
-</p>
 
 (Translation: O Allah, I am Your slave and belong to You, my forelock
 is in Your hands, my death is in Your knowledge, I seek that I do what
@@ -271,9 +237,7 @@ Prophet Muhammad (s.a.a.w.)
 
 Then say:
 
-<p dir="rtl">
 اللهم اجعلني ممن رضيت عمله وأطلت عمره وأحييته بعد الموت حياة طيبة
-</p>
 
 (Translation: O Allah, include me among those whose actions have
 pleased You, whose lives You have elongated and granted them life after
@@ -283,7 +247,6 @@ Then recite the following supplication taught by the Holy Messenger
 (s.a.a.w.) to Ali (a.s.) as reported by Muawiyah bin Ammar from Abi
 Abdulla (a.s.):
 
-<p dir="rtl">
 لا إله إلا الله وحده لا شريك له، له الملك وله الحمدُ يُحيى ويميت، ويميت
 ويحيي وهو الحي لا يموت، بيده الخير وهو على كل شيء قدير اللهم لك الحمد،
 أنت كما تقول وخيراً مما يقول القائلون اللهم لك صلاتي وديني ومحياي
@@ -291,7 +254,6 @@ Abdulla (a.s.):
 وسواس الصّدر، ومن شتات الأمر ومن عذاب النار ومن عذاب القبر اللهم إني
 أسألك من خير ما تأتي به الرياح، وأعوذُ بك من شرّ ما تأتي به الرّياح،
 وأسألك خير الليل وخير النهار
-</p>
 
 (Translation: There is no God but Allah, He is One without any partner.
 All kingdom belongs to Him, all praise is due to Him. He grants life and
@@ -310,12 +272,10 @@ Abdullah (a.s.) is the following that during his stay in Arafaat, the
 Holy Messenger (s.a.a.w.) used to recite at the time of sunset before
 departure:
 
-<p dir="rtl">
 اللهم إني أعوذ بك من الفقر ومن تشتت الأمر ومن شر ما يحدث بالليل
 والنهار، أمسى ظلمي مستجيراً بعفوك، وأمسى خوفي مستجيراً بأمانك، وأمسى
 ذلّي مستجيرا بعزك وامسى وجهي الفاني مستجيرا بوجهك الباقي، ياخير من سُئل
 ويا أجود من أعطى، جلّلني برحمتك وألبسني عافيتك واصرف عني شر جميع خلقك
-</p>
 
 (Translation: O Allah, I seek Your refuge from poverty, the severity of
 affairs, the evils of night and day. Let my transgressions be sheltered
@@ -328,14 +288,12 @@ creation.)
 Abu Basir has reported from Abi Abdullah (a.s.) that the following be
 recited when the sun has set on the day of Arafaat:
 
-<p dir="rtl">
 اللهم لا تجعله آخر العهد من هذا الموقف، وارزقنيه من قابل أبداً ما
 أبقيتني، واقلبني اليوم مفلحا منجحا مستجابا لي، مرحوماً مغفوراً لي، بأفضل
 ما ينقلب به اليوم أحد من وفدك وحجاج بيتك الحرام، واجعلني اليوم من اكرم
 وفدك عليك، وأعطني أفضل ما أعطيت أحداً منهم من الخير والبركة والرّحمة
 والرضوان والمغفرة، وبارك لي في ما أرجع اليه من اهل أو مال أو قليل أو
 كثير، وبارك لهم في
-</p>
 
 (Translation: Do not make this my last stay in this place and grant me
 future visits to this place so long as I live and make my stay
@@ -372,11 +330,9 @@ first one.
 5. To remain awake during the night in prayer and supplication and
 say:
 
-<p dir="rtl">
 اللهم هذه جمع، اللهم إني أسألك أن تجمع لي فيها جوامع الخير، اللهم لا
 تؤيسني من الخير الذي سألتك ان تجمعه لي في قلبي، وأطلب إليك أن تعرفني ما
 عرفت أولياءك في منزلي هذا، وأن تقيني جوامع الشرّ
-</p>
 
 (Translation; O Allah of this gathering, I ask You to gather for me in
 it a collection of goodness. O Allah, do not make me despair of the
@@ -388,12 +344,10 @@ save me from accumulation of evils.)
 Allah, remember Him and His greatness as much as possible, send salawaat
 on the Holy Prophet and his progeny and then recite:
 
-<p dir="rtl">
 اللهم رب المشعر الحرام فك رقبتي من النار، وأوسع علي من رزقك الحلال
 وادرأ عني شر فسقة الجن والانس . اللهم أنت خير مطلوب اليه وخير مدعو وخير
 مسؤول، ولكل وافد جائزة، فاجعل جائزتي في موطني هذا أن تقيلني عثرتي وتقبل
 معذرتي وأن تجاوز عن خطيئتي، ثم اجعل التقوى من الدنيا زادي
-</p>
 
 (Translation: O Allah of the Holy Mash'ar, save my neck from the fire
 of Hell, increase my lawful sustenance and keep me away from the harm of
@@ -408,12 +362,9 @@ forgive my sins and then make piety my provision from this world.)
 8. When passing through Wadi Muhassar, one should accelerate pace and
 say:
 
-<p dir="rtl">
 اللهم سلم لي عهدي، واقبل توبتي وأجب دعوتي، واخلفني بخير فيمن تركت بعدي
 .
-</p>
 
 (Translation: O Allah, protect for me my covenant, accept my
 repentance, answer my wishes and look after those I leave behind.)
-
 

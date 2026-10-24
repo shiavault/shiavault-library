@@ -1,16 +1,12 @@
 Discourse 31: The Effects of Sins
 =================================
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الْبَاقِرِ: مَا مِنْ عَـبْدٍ يَمْـتَنِعُ مِنْ مَعُونَةِ أَخِيهِ
-الْمُسْلِمِ وَ السَعى لَهُ فِي حَاجَتِهِ قُضِـيَتْ أَوْلَمْ تَقْضِ
-إِلاَّ أَبْتَلى بِالسَّعى فِي حَاجَةِ فِيمَا يَأْثِمُ عَلَيْهِ وَ لاَ
-يُوْجَرُ. وَ مَا مِنْ عَبْدٍ يَبْخَلُ بِنَفَقَةِ يَنْفَقُهَا فِيمَا
-يَرْضى اللٌّهُ إِلاَّ أَبْتَلى بِأَنَّ يُنْفِقُ أَضْعَافَهَا فِيمَا
-أَسْخَطَ اللٌّهُ.
-  </p>
-</blockquote>
+> عَنِ الْبَاقِرِ: مَا مِنْ عَـبْدٍ يَمْـتَنِعُ مِنْ مَعُونَةِ أَخِيهِ
+> الْمُسْلِمِ وَ السَعى لَهُ فِي حَاجَتِهِ قُضِـيَتْ أَوْلَمْ تَقْضِ
+> إِلاَّ أَبْتَلى بِالسَّعى فِي حَاجَةِ فِيمَا يَأْثِمُ عَلَيْهِ وَ لاَ
+> يُوْجَرُ. وَ مَا مِنْ عَبْدٍ يَبْخَلُ بِنَفَقَةِ يَنْفَقُهَا فِيمَا
+> يَرْضى اللٌّهُ إِلاَّ أَبْتَلى بِأَنَّ يُنْفِقُ أَضْعَافَهَا فِيمَا
+> أَسْخَطَ اللٌّهُ.
 
 [Imam Muhammad b. ‘Ali] al-Baqir (as) has said: “There is no servant who
 sees his Muslim brother in need, however does not help him or tries to
@@ -40,11 +36,7 @@ The effects within the physical world are broken up into two categories:
 1. Some of them have a logical reasoning which we can understand with
 logical proofs. For example, we read in the Qur’an that:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَنَازَعُوا فَتَفْشَلُوا وَ تَذْهَبُ رِيـحَكُمْ
-  </p>
-</blockquote>
+> وَ لاَ تَنَازَعُوا فَتَفْشَلُوا وَ تَذْهَبُ رِيـحَكُمْ
 
 “…and do not quarrel with one another for then you will be weak, and
 your power will depart…”[^2]
@@ -58,12 +50,8 @@ up fighting with those of the same faith and close to the person!
 In addition, the Qur\`an also tells us (as another example of this
 phenomena):
 
-<blockquote dir="rtl">
-  <p>
-إِدْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَ بَيْنَهُ
-عَدَاوَةٌ كَــأَنَّهُ وَلِيُّ حَمِيمٌ
-  </p>
-</blockquote>
+> إِدْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَ بَيْنَهُ
+> عَدَاوَةٌ كَــأَنَّهُ وَلِيُّ حَمِيمٌ
 
 “…repel (evil) with what is best. [If you do so,] behold, between you
 and the person for which there was enmity will be as though he were a
@@ -81,11 +69,7 @@ although may not be exactly clear to us and which we cannot understand,
 nonetheless does exist. For example, it is mentioned in the traditions
 that:
 
-<blockquote dir="rtl">
-  <p>
-صِلَّةُ الرَحْمِ تُعْمَرُ الدَيَّارَ وَ تَزِيدُ فِي الأَعْمَارِ.
-  </p>
-</blockquote>
+> صِلَّةُ الرَحْمِ تُعْمَرُ الدَيَّارَ وَ تَزِيدُ فِي الأَعْمَارِ.
 
 “Silatul Rahm (the act of the keeping the family bonds strong) enable
 the cities to be fortified and increases the life span.”
@@ -94,12 +78,8 @@ This is another physical act related to the world, however it is not
 clear how the life span increases through maintaining family ties.  
  In addition we read in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَـتَّقِ اللٌّهَ يَجْعَلْ لَهُ مَخْرَجاً وَ يَرْزُقْهُ مِنْ
-حَيْثُ لاَ يَحْتَسِبُ
-  </p>
-</blockquote>
+> وَ مَنْ يَـتَّقِ اللٌّهَ يَجْعَلْ لَهُ مَخْرَجاً وَ يَرْزُقْهُ مِنْ
+> حَيْثُ لاَ يَحْتَسِبُ
 
 “…and whoever is careful of (his duty to) Allah, He will make for him a
 means out (of his difficulties) and will grant him sustenance from where
@@ -138,5 +118,4 @@ Bihar al-Anwar, vol. 75, pg. 173
 [^3]: Surat al-Fussilat (41), verse 34
 
 [^4]: Surat al-talaq (65), verses 2 and 3
-
 

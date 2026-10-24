@@ -1,11 +1,7 @@
 Commentary of: “Wa biquwwatika’llati qaharta biha kulla shay”
 =============================================================
 
-<blockquote dir="rtl">
-  <p>
-وَبِقُوَّتِكَ الَّتِى قَهَرْتَ بِهَا كُلَّ شَيٍْء
-  </p>
-</blockquote>
+> وَبِقُوَّتِكَ الَّتِى قَهَرْتَ بِهَا كُلَّ شَيٍْء
 
 *(And I ask You) by Your Strength, through which You dominate
 everything.*
@@ -32,5 +28,4 @@ Allah maintains the heavens and their kernels, the galaxies and the
 stars, the systems and their inhabitants-some of which weigh more than
 billions of tons-which have been floating in a certain orbit, with a
 definite speed for billions of years and keeps them from falling down.
-
 

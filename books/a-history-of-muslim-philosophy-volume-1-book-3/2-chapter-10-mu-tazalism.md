@@ -1203,4 +1203,3 @@ cit., p. 29.
 [^28]: Muhammad Najm al‑Ghani Khan, Madhahib al‑Islam, Lucknow, 1924, p.
 132.
 
-

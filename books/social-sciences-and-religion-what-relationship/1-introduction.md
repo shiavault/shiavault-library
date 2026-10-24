@@ -96,4 +96,3 @@ attempt to examine the social sciences and their relationship with
 religion, from various angles, through discussing views in relation to
 Islamic thought and Western thought, using relevant examples.
 
-

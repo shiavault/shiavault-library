@@ -7,14 +7,10 @@ had an enemy - Polytheism totally opposed to Islam.
 Surah Al-‘An’am, Verse 111
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلآئِكَةَ وَكَلَّمَهُمُ
-الْمَوْتَى وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلاً مَّا كَانُواْ
-لِيُؤْمِنُواْ إِلاَّ أَن يَشَاء اللّهُ وَلَـكِنَّ أَكْثَرَهُمْ
-يَجْهَلُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلآئِكَةَ وَكَلَّمَهُمُ
+> الْمَوْتَى وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلاً مَّا كَانُواْ
+> لِيُؤْمِنُواْ إِلاَّ أَن يَشَاء اللّهُ وَلَـكِنَّ أَكْثَرَهُمْ
+> يَجْهَلُونَ
 
 **111.** ***"And even if We sent down the angels to them, and the dead
 spoke to them, and We mustered all things before them, (even then) they
@@ -51,13 +47,9 @@ adds:
 Surah Al-‘An’am, Verse 112
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ جَعَلْنَا لِكُلِّ نِبِيٍّ عَدُوًّا شَيَاطِينَ الإِنسِ
-وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَى بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا
-وَلَوْ شَاء رَبُّكَ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ جَعَلْنَا لِكُلِّ نِبِيٍّ عَدُوًّا شَيَاطِينَ الإِنسِ
+> وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَى بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا
+> وَلَوْ شَاء رَبُّكَ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
 **112.** ***"And thus did We assign for every prophet an enemy, the
 satans from humans and jinn, who (secretly) inspire each other with
@@ -96,12 +88,8 @@ leave them with what they forge."***
 Surah Al-‘An’am, Verse 113
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِتَصْغَى إِلَيْهِ أَفْئِدَةُ الَّذِينَ لاَ يُؤْمِنُونَ بِالآخِرَةِ
-وَلِيَرْضَوْهُ وَلِيَقْتَرِفُواْ مَا هُم مُّقْتَرِفُونَ
-  </p>
-</blockquote>
+> وَلِتَصْغَى إِلَيْهِ أَفْئِدَةُ الَّذِينَ لاَ يُؤْمِنُونَ بِالآخِرَةِ
+> وَلِيَرْضَوْهُ وَلِيَقْتَرِفُواْ مَا هُم مُّقْتَرِفُونَ
 
 **113. "*****And (the result of those Satanic inspirations is) so that
 the hearts of those who do not believe in the Hereafter, may incline to
@@ -130,14 +118,10 @@ before them in the history of the world.
 Surah Al-‘An’am, Verse 114
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَغَيْرَ اللّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنَزَلَ إِلَيْكُمُ
-الْكِتَابَ مُفَصَّلاً وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْلَمُونَ
-أَنَّهُ مُنَزَّلٌ مِّن رَّبِّكَ بِالْحَقِّ فَلاَ تَكُونَنَّ مِنَ
-الْمُمْتَرِينَ
-  </p>
-</blockquote>
+> أَفَغَيْرَ اللّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنَزَلَ إِلَيْكُمُ
+> الْكِتَابَ مُفَصَّلاً وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْلَمُونَ
+> أَنَّهُ مُنَزَّلٌ مِّن رَّبِّكَ بِالْحَقِّ فَلاَ تَكُونَنَّ مِنَ
+> الْمُمْتَرِينَ
 
 **114.** ***"(Say :) 'Shall I seek a judge other than*** ***Allah, while
 it is He Who has sent down to you the Book, (fully) explained? And those
@@ -175,12 +159,8 @@ O' Our Messenger, never doubt in it.
 Surah Al-‘An’am, Verse 115
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلاً لاَّ مُبَدِّلِ
-لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلاً لاَّ مُبَدِّلِ
+> لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 **115*****. "And perfected is the Word of your Lord in truth and
 justice; there naught that can change His Words, and He is All-Hearing,
@@ -219,12 +199,8 @@ larceny of treacherous persons and distorters.
 Surah Al-‘An’am, Verse 116
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن تُطِعْ أَكْثَرَ مَن فِي الأَرْضِ يُضِلُّوكَ عَن سَبِيلِ اللّهِ
-إِن يَتَّبِعُونَ إِلاَّ الظَّنَّ وَإِنْ هُمْ إِلاَّ يَخْرُصُونَ
-  </p>
-</blockquote>
+> وَإِن تُطِعْ أَكْثَرَ مَن فِي الأَرْضِ يُضِلُّوكَ عَن سَبِيلِ اللّهِ
+> إِن يَتَّبِعُونَ إِلاَّ الظَّنَّ وَإِنْ هُمْ إِلاَّ يَخْرُصُونَ
 
 **116.** ***"And if you obey most of those in the earth, they will lead
 you astray from the way of*** ***Allah. They follow nothing but
@@ -257,12 +233,8 @@ surmise."***
 Surah Al-‘An’am, Verse 117
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ
-بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ
+> بِالْمُهْتَدِينَ
 
 **117*****. "Verily your Lord knows best those who stray from His way,
 and He (a/so) knows best those who are guided."***
@@ -287,12 +259,8 @@ The verse says:
 Surah Al-‘An’am, Verse 118
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ إِن كُنتُمْ بِآيَاتِهِ
-مُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ إِن كُنتُمْ بِآيَاتِهِ
+> مُؤْمِنِينَ
 
 **118.** ***"Therefore, eat (the meat) of that over which***
 ***Allah’s*** ***name has been mentioned, if you are believers in His
@@ -322,14 +290,10 @@ meat.
 Surah Al-‘An’am, Verse 119
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَكُمْ أَلاَّ تَأْكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ
-وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلاَّ مَا اضْطُرِرْتُمْ
-إِلَيْهِ وَإِنَّ كَثِيراً لَّيُضِلُّونَ بِأَهْوَائِهِم بِغَيْرِ عِلْمٍ
-إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِالْمُعْتَدِينَ
-  </p>
-</blockquote>
+> وَمَا لَكُمْ أَلاَّ تَأْكُلُواْ مِمَّا ذُكِرَ اسْمُ اللّهِ عَلَيْهِ
+> وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلاَّ مَا اضْطُرِرْتُمْ
+> إِلَيْهِ وَإِنَّ كَثِيراً لَّيُضِلُّونَ بِأَهْوَائِهِم بِغَيْرِ عِلْمٍ
+> إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِالْمُعْتَدِينَ
 
 **119.** ***"And what has happened to you that you do not eat (the meat)
 of that over which*** ***Allah’s*** ***name has been mentioned, while He
@@ -369,12 +333,8 @@ proofs, try to mislead others. The verse says:
 Surah Al-‘An’am, Verse 120
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَذَرُواْ ظَاهِرَ الإِثْمِ وَبَاطِنَهُ إِنَّ الَّذِينَ يَكْسِبُونَ
-الإِثْمَ سَيُجْزَوْنَ بِمَا كَانُواْ يَقْتَرِفُونَ
-  </p>
-</blockquote>
+> وَذَرُواْ ظَاهِرَ الإِثْمِ وَبَاطِنَهُ إِنَّ الَّذِينَ يَكْسِبُونَ
+> الإِثْمَ سَيُجْزَوْنَ بِمَا كَانُواْ يَقْتَرِفُونَ
 
 **120.** ***"And abandon outward sin and the inward one; verily those
 who commit sin soon shall be recompensed with what they used to
@@ -405,13 +365,9 @@ they used to commit."***
 Surah Al-‘An’am, Verse 121
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَأْكُلُواْ مِمَّا لَمْ يُذْكَرِ اسْمُ اللّهِ عَلَيْهِ وَإِنَّهُ
-لَفِسْقٌ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَى أَوْلِيَآئِهِمْ
-لِيُجَادِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ
-  </p>
-</blockquote>
+> وَلاَ تَأْكُلُواْ مِمَّا لَمْ يُذْكَرِ اسْمُ اللّهِ عَلَيْهِ وَإِنَّهُ
+> لَفِسْقٌ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَى أَوْلِيَآئِهِمْ
+> لِيُجَادِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ
 
 ***121. "And do not eat (anything) of that over which*** ***Allah’s***
 ***name has not been mentioned (at the time of slaughter) and that is
@@ -455,5 +411,4 @@ whatever dies naturally, besides that it often dies because of a
 disease, has not been cut, and, therefore, the dirty blood of its body
 has remained among the levels of its meat. This blood decays thereafter,
 and surely pollutes the meat, too.
-
 

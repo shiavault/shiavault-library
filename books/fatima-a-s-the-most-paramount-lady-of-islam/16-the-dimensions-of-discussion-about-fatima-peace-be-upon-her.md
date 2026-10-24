@@ -17,4 +17,3 @@ How can we swim in the deep sea of her life, hoping that we arrive to
 the beach. Yes, everyone endeavors to trace some aspects of her life
 according to his apprehension and perception.
 
-

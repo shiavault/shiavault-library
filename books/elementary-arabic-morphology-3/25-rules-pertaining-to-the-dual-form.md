@@ -41,4 +41,3 @@ two previous actions, for example one can say **دُعاءان** or
 for example **أب** returns when put into the dual form, for example:
 **أبَوانِ.** There are exceptions, for example: ید becomes **یدان.**
 
-

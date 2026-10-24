@@ -25,22 +25,14 @@ oblivious of what is happening to other Muslim brethren throughout the
 world, expels one from the Muslim nation. The Holy Prophet (S) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصْبَحَ لاَ يَهْتَمُّ بِأُمُورِ الْمُسْلِمِينَ فَلَيْسَ
-بِمُسْلِمٍ
-  </p>
-</blockquote>
+> مَنْ أَصْبَحَ لاَ يَهْتَمُّ بِأُمُورِ الْمُسْلِمِينَ فَلَيْسَ
+> بِمُسْلِمٍ
 
 Whosoever wakes up in the morning and is indifferent of the affairs of
 Muslims is not a Muslim.[^1]
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصْبَحَ لاَ يَهْتَمُّ بِأُمُورِ الْمُسْلِمِينَ فَلَيْسَ منهم و
-من سمع رجلا ينادي يا للمسلمين فلم يجبه فليس بمسلم
-  </p>
-</blockquote>
+> مَنْ أَصْبَحَ لاَ يَهْتَمُّ بِأُمُورِ الْمُسْلِمِينَ فَلَيْسَ منهم و
+> من سمع رجلا ينادي يا للمسلمين فلم يجبه فليس بمسلم
 
 Whosoever wakes up in the morning and is indifferent of the affairs of
 Muslims is not among them, and whosoever hears a man call, 'O Muslims
@@ -86,12 +78,8 @@ The presence of Imam al-Husayn ('a), as has been the case, will always
 be felt. But so long as we do not make his foundational move, we would
 never prosper. The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-يَاأَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا
-دَعَاكمْ لِمَا يُحْيِيكُمْ
-  </p>
-</blockquote>
+> يَاأَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا
+> دَعَاكمْ لِمَا يُحْيِيكُمْ
 
 ***O believers, respond to Allah and His Apostle, when He calls you to
 that which will enliven you. (8:24)***
@@ -112,5 +100,4 @@ All praises belong to Allah, the Lord of the Universe
 [^1]: Thiqatu'l Islam al-Kulayni, Al-Kafi, v.2, p. 163
 
 [^2]: Ibid.,, v.2, p. 164
-
 

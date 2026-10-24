@@ -230,11 +230,7 @@ apostasy of most of them from their religion and their removing the cord
 of Islam from their necks, about which Allah, glory to His name, has
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ
-  </p>
-</blockquote>
+> وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ
 
 ***And We have made every man’s actions to cling to his neck.(Qurah
 Surah Isra 17:13)***
@@ -271,11 +267,7 @@ be perfected even though the polytheists may despise it.” As for the
 disappearance of Isa (as). The Jews and Christians formed unanimity that
 he has been killed; whereas Allah belied them in this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ
-  </p>
-</blockquote>
+> وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ
 
 ***And they did not kill him nor did they crucify him, but it appeared
 to them so. (Qur’an, Surah Nisa 4:157)***
@@ -358,12 +350,8 @@ apostasy of Muslims and mischiefs which were occurring in their days and
 the wars that were breaking out between the disbelievers and between
 themselves.” Then as-Sadiq (as) recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
-جَاءَهُمْ نَصْرُنَا 
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
+> جَاءَهُمْ نَصْرُنَا
 
 ***Until when the apostles despaired and the people became sure that
 they were indeed told a lie, Our help came to them. (Qur’an, Surah Yusuf
@@ -429,5 +417,4 @@ believe and do good that He will most certainly make them rulers in the
 earth as He made rulers those before them. (Surah Nur 24:55)
 
 [^19]: Biharul Anwar, Vol. 51, Pg. 219, Tr. No. 9
-
 

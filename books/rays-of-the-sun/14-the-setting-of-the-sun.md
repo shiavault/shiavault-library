@@ -189,4 +189,3 @@ the doctor brought his ear close, he heard that Imam was reciting
 
 [^10]: Bardashthayi az Seereye Imam Khomeini, Vol 1, Pg. 320
 
-

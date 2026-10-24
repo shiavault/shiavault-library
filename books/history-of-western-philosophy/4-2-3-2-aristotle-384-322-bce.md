@@ -15,7 +15,6 @@ in things: form and matter are eternally togetherBecause of his realism,
 Aristotle studied science sympathetically, his theories always in close
 touch with it and he encouraged the natural sciences.
 
-
 **2.3.2.1 Extant writings**
 
 1. Logic: Organon includes: Categories, De Interpretationae, Prior and
@@ -48,7 +47,6 @@ Rhetoric to Alexander [spurious]; Rhetoric [3, the third is of doubtful
 authenticity], Poetics [part of 2 books extant; concerned with principle
 forms of literature: epic, tragic, comic]
 
-
 **2.3.2.2 Philosophy and the sciences**
 
 The universe is an ideal world, an organic whole of interrelated parts,
@@ -77,5 +75,4 @@ history where a single thinker has brought to completion a new science].
 [There have been only two revolts against the Logic in recent times
 Francis Bacon's advocacy of inductive method and the
 nineteenth-twentieth century revolution in mathematical logic.]
-
 

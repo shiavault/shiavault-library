@@ -99,4 +99,3 @@ imperfection.
 
 [^4]: ‘Usul al-Kafi, vol.1, Akhundi, p.109.
 
-

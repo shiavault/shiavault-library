@@ -94,4 +94,3 @@ introduced a new way to analyze the philosophy of history.
 
 [^1]: Morocco, Algeria and Tunisia
 
-

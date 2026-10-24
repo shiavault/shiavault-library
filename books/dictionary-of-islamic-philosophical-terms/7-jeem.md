@@ -197,4 +197,3 @@ The name given by philosophers to the human soul which, according to
 them, is "a substance subsistent by itself", i.e. is independent of the
 body.
 
-

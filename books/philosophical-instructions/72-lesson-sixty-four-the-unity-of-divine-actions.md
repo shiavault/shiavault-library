@@ -217,4 +217,3 @@ understanding of the causal relation and the dependence of the existence
 of the effect, whose originality is one of the merits of the explanation
 given by Ṣadr al-Muta’allihīn.
 
-

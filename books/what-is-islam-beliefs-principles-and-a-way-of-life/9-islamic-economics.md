@@ -281,4 +281,3 @@ history. We should add that those wars and battles carried out in the
 name of Islam but which, however, do not conform to the Islamic
 principles outlined above, are to be considered aberrations.
 
-

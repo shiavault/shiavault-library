@@ -42,4 +42,3 @@ river. Still others thought that He was a father and had child or
 children. But this Sura warns us against this tendency to conceive God
 after our own pattern.
 
-

@@ -620,4 +620,3 @@ He explained to the Muslims what he had heard from Allah’s Apostle:
 enslave Allah’s servants, and spoil Allah’s religion.” Uthman prohibited
 the people from sitting, speaking, and associating with Abu Tharr.
 
-

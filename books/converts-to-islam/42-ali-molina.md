@@ -121,4 +121,3 @@ attract more Latinos and people of all races to the light of Islam.
  This is because Allah is the Truth and because He gives life to the
 dead and because He has power over all things.***
 
-

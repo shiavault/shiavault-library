@@ -91,4 +91,3 @@ Muslims in the name of Islam over many centuries.
 What follows is the script of one of many encounters between muslins
 and non-Muslims at the outset of dawn of Islam some 1400 years ago.
 
-

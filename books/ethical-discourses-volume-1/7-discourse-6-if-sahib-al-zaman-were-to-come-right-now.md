@@ -5,15 +5,11 @@ Speaking about our living Imam is both enlightening and one which
 spiritually trains and educates all of us. The late 'Allamah Majlisi 
 has narrated a tradition in relation to Imam al-Mahdi (as) which states:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا قَامَ الْقَائِمُ حَكَمَ بِالْعَدْلِ وَ ارْتَفَعَ فِي أَيَّامِهِ
-الْجَوْرَ وَ امْنَتِ بِهِ السُّبُلَ وَ أَخْرَجَتِ الأَرْضُ
-بَرَكَاتِـهَا وَ رَدَّ كُلَّ حَقٍّ إِلـى أَهْلِهِ وَ لَمْ يَبْقَ
-أَهْلَ دِيْنٍ حَتّى يُظْهِرُ الإِسْلاَمَ وَ يَعْتَرِفُوا
-بِالإِيْمَانِ.
-  </p>
-</blockquote>
+> إِذَا قَامَ الْقَائِمُ حَكَمَ بِالْعَدْلِ وَ ارْتَفَعَ فِي أَيَّامِهِ
+> الْجَوْرَ وَ امْنَتِ بِهِ السُّبُلَ وَ أَخْرَجَتِ الأَرْضُ
+> بَرَكَاتِـهَا وَ رَدَّ كُلَّ حَقٍّ إِلـى أَهْلِهِ وَ لَمْ يَبْقَ
+> أَهْلَ دِيْنٍ حَتّى يُظْهِرُ الإِسْلاَمَ وَ يَعْتَرِفُوا
+> بِالإِيْمَانِ.
 
 “When al-Qaim makes his advent, he will judge with justice and during
 the time of his advent, all forms of tyranny will be removed and the
@@ -84,11 +80,7 @@ Masjidul Haram, whereas Iman is (like) the Ka'bah (general and
 specific). There is a possibility that this explanation could be in
 reference to the verse of the Qur\`an which states:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتِ الأَعْرَابُ آمَنَّا…
-  </p>
-</blockquote>
+> قَالَتِ الأَعْرَابُ آمَنَّا…
 
 “The desert 'Arabs say to you (O' Muhammad) that we believe…”[^2]
 
@@ -99,12 +91,8 @@ summarize as being:
 1. Correcting the Theological Beliefs:
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا عَلى ظَهْرِ الأَرْضَ بَيْتِ حَجَرٍ وَ مَدَرٍ إِلاَّ أَدْخَلَهُ
-اللٌّهُ كَلِمَةُ الإِسْلاَمِ.
-  </p>
-</blockquote>
+> مَا عَلى ظَهْرِ الأَرْضَ بَيْتِ حَجَرٍ وَ مَدَرٍ إِلاَّ أَدْخَلَهُ
+> اللٌّهُ كَلِمَةُ الإِسْلاَمِ.
 
 “There will not remain a single stone house, mud house, nor a tent upon
 the entire Earth except the word (teachings) of Islam will be in that
@@ -117,22 +105,14 @@ The advancement of knowledge and intelligence will also take place (at
 this time), just as the late 'Allamah Majlisi  makes clear by quoting a
 tradition from the Infallibles in relation to this point:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا قَامَ قَائِمَنَا وَضَعَ يَدَهُ عَلى رُئُوسِ الْعِبَادِ…
-  </p>
-</blockquote>
+> إِذَا قَامَ قَائِمَنَا وَضَعَ يَدَهُ عَلى رُئُوسِ الْعِبَادِ…
 
 “When our Qaim makes his advent, he will place his hand over the heads
 of the servants…”  
  It is possible that this means that people will be under the direction
 and guidance of the Imam.
 
-<blockquote dir="rtl">
-  <p>
-فَجَمَعَ بِهَا عُقُولِهِمْ وَ كَمُلَتْ بِهَا أَحْلاَمَهُمْ.
-  </p>
-</blockquote>
+> فَجَمَعَ بِهَا عُقُولِهِمْ وَ كَمُلَتْ بِهَا أَحْلاَمَهُمْ.
 
 “…so then (through this act), he will gather together their intelligence
 and complete their knowledge.”[^4]
@@ -142,12 +122,8 @@ and complete their knowledge.”[^4]
 
 In the various traditions, it has been mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-يَمْلَأُ الأَرْضَ عَدْلاً وَ قِسْطاً كَمَا مُلِئَتْ ظُلْماً وَ
-جَوْراً.
-  </p>
-</blockquote>
+> يَمْلَأُ الأَرْضَ عَدْلاً وَ قِسْطاً كَمَا مُلِئَتْ ظُلْماً وَ
+> جَوْراً.
 
 “He (the Imam) will fill the Earth with justice and equality just as it
 had been filled with oppression and tyranny.”[^5]
@@ -174,21 +150,13 @@ destroyed and it is Imam al-Mahdi (as) who will restore it.
 Imam al-Mahdi (as) will possess an army, military and many helpers and
 supporters, just as we recite in the Ziyarat of Ale Yasin:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْنِي مِنْ شِيعَتِهِ وَ أَتْـبَاعِهِ وَ أَنْصَارِهِ.
-  </p>
-</blockquote>
+> وَاجْعَلْنِي مِنْ شِيعَتِهِ وَ أَتْـبَاعِهِ وَ أَنْصَارِهِ.
 
 “So then place me (O' Allah) amongst his followers, supporters and
 helpers.”  
  Or as it can be seen in some traditions that:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُجَاهِدِينَ بَيْنَ يَدَيْهِ.
-  </p>
-</blockquote>
+> وَالْمُجَاهِدِينَ بَيْنَ يَدَيْهِ.
 
 ”(And place us) among those who struggle and fight in his way.”
 
@@ -206,11 +174,7 @@ members.
 Tawassul (to the Imam) is a good thing and it has its own place -
 however:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْنِي مِنْ شِيعَتِهِ وَ أَتْـبَاعِهِ وَ أَنْصَارِهِ.
-  </p>
-</blockquote>
+> وَاجْعَلْنِي مِنْ شِيعَتِهِ وَ أَتْـبَاعِهِ وَ أَنْصَارِهِ.
 
 “So then place me (O' Allah) amongst his followers, supporters and
 helpers.”
@@ -247,12 +211,8 @@ programs become successful in their goals.
 
 We hope that Allah (SwT) accepts this supplication in relation to us:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اجْعَلْنِي مِنْ أَعْوَانِهِ وَ أَنْصَارِهِ وَ أَتْـَاعِهِ
-وَ شِيعَتِهِ وَ الْمُجَاهِدِينَ بَيْنَ يَدَيهِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اجْعَلْنِي مِنْ أَعْوَانِهِ وَ أَنْصَارِهِ وَ أَتْـَاعِهِ
+> وَ شِيعَتِهِ وَ الْمُجَاهِدِينَ بَيْنَ يَدَيهِ.
 
 “O' Allah!  Place me from amongst his helpers, assistants, followers and
 supporters and of those who fight in his ranks.” !  
@@ -268,5 +228,4 @@ Bakr al-Ansari al-Qurtubi], vol. 12, pg. 300
 [^4]: Bihar al-Anwar, vol. 52, pg. 338
 
 [^5]: Ibid., vol. 14, pg. 33
-
 

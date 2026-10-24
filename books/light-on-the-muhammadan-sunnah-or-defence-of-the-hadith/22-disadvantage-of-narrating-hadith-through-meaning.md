@@ -7,7 +7,7 @@ permitted to increase or decrease in them, with advancing and delaying
 their words – accepting the solecist ones – all this caused a great loss
 and disadvantage to hadith.
 
-In his book Tawjih al-nazar, <span id="_anchor_149"></span>149
+In his book Tawjih al-nazar, 149
 al-Allamah al-Jaza’iri says:
 
 After researching and investigation, it was found out that many among
@@ -20,7 +20,7 @@ in the past and recently.
 
 The loss caused by narration through meaning was so tremendous that it
 was considered one of factors of disunity among the Ummah. One of the
-authors <span id="_anchor_150"></span>150 said in the introduction to
+authors 150 said in the introduction to
 his book in this regard: Disagreement occurred to the Ummah in eight
 aspects, from which all aspects of difference are produced and ramified.
 First: Commonness of words and their liability to numerous
@@ -38,7 +38,7 @@ may delude people to think of presence of contradiction in hadith, or
 may even create an ambiguity compelling the scholars to seeking the
 remote interpretation. We are going to mention number of these defects,
 and cite an example or examples for each one that can be inferred for
-other ones, God-willing. <span id="_anchor_151"></span>151 Al-Batliyosi
+other ones, God-willing. 151 Al-Batliyosi
 is reported to have said: Know that the hadith transmitted from the
 Messenger of Allah (may God’s peace and benediction be upon him and his
 Progeny) and from his Companions and their followers, is inflicted with
@@ -51,13 +51,13 @@ the hadith with neglecting to convey the reason necessitating it, or
 explain the case entailing its citation. Seventh: The narrator hearing a
 part of the hadith and missing some other part. Eighth: Reporting the
 hadith from books without mentioning names of the shaykhs (authors).
-<span id="_anchor_152"></span>152
+152
 
 ### First Defect:
 
 It is corruption in isnad (chain of narrators). This being the most
 widely-known defect among people, to the extent that some of them may
-imagine <span id="_anchor_153"></span>153 that when isnad be correct,
+imagine 153 that when isnad be correct,
 the hadith be veracious! But the truth is not so, since it may happen
 that the hadith narrators be known of reliability and true faith and
 honesty, without being liable to any defamation or suspicion in regard
@@ -80,15 +80,14 @@ doubt the transmission of the narrator is being sure of his covetousness
 to the world and rushing into attaining favoritism near the kings.
 Anyone being on this condition, shall never be immune against changing,
 alteration, fabrication of hadith and falsity covetting for gaining some
-(worldly) profit. <span id="_anchor_154"></span>154 The Messenger of
+(worldly) profit. 154 The Messenger of
 Allah (S) has drawn the attention toward what we referred to by saying:
 “You will be confronted with a multiplying number of traditions after
 me. Therefore, when a hadith is narrated to you, compare it with the
 Book of Allah; accept that which agrees with it and reject that which
 contradicts it.
 
-It is reported that a group of Persians and Jews <span
-id="_anchor_155"></span>155 and others, when noticing emergence of Islam
+It is reported that a group of Persians and Jews 155 and others, when noticing emergence of Islam
 and its spread everywhere, with vanquishing and subduing all nations,
 realizing their inability to challenge or oppose it, resorted to
 trickery and intrigue, showing off, unwillingly, Islam and faith,
@@ -164,7 +163,7 @@ first narrator.
 
 ### Fourth Defect:
 
-It is tashif <span id="_anchor_156"></span>156 (mispronunciation), which
+It is tashif 156 (mispronunciation), which
 causes tremendous corruption and distortion to the hadith. It is
 originated from the fact that numerous narrators can never observe
 exactitude in the letters (huruf), but transmit them without any
@@ -248,8 +247,7 @@ some other part, like what is reported that ‘A’ishah told that Abu
 Hurayrah narrated that the Messenger of Allah (S) said: “If evil omen is
 really there it
 
-should be in three (things): the house, woman and horse”. <span
-id="_anchor_157"></span>157 This hadith contradicts his (S) saying:
+should be in three (things): the house, woman and horse”. 157 This hadith contradicts his (S) saying:
 “There are neither infection, nor vermin, nor yellow things nor ghoul”.
 Further many traditions are reported from him forbidding from drawing
 evil omen. Thereat ‘A’ishah became angry saying: By God the Messenger of
@@ -281,7 +279,7 @@ words, and unjustly ascribing everything to his shaykh.
 
 This characteristic became nowadays the main distinguishing feature of
 the knowledge of most people, in a way rendering them devoid of nothing
-except names of books. <span id="_anchor_158"></span>158
+except names of books. 158
 
 This point constitutes the end of the excerption we quoted from al-
 
@@ -329,13 +327,11 @@ that neither we nor the reporter can assert confidently their
 non-existence, nor can we suspect their absence, nor there be any
 evidence denying them, nor can we determine through it the speaker’s
 intention, but we only suppose or imagine it. Whereas when his very
-wording reported by itself with its reading, date and causes, <span
-id="_anchor_159"></span>159 this peril or most of it would vanish in
+wording reported by itself with its reading, date and causes, 159 this peril or most of it would vanish in
 general. Thereat suspicion in it would be only in the transmission of
 the truth-secker, who may be excused once due to the claim of necessity
 of inflection for apparent reasons, the practice that is sufficient in
-the suppositive questions and most of the minor issues. <span
-id="_anchor_160"></span>160
+the suppositive questions and most of the minor issues. 160
 
 I introduce herewith some valuable words on narration of hadith, with
 which I conclude this important chapter of my book:
@@ -372,8 +368,7 @@ As a proof for this, it is reported that the Prophet (S) taught al-Bara’
 ibn ‘Azib a supplication containing an expression: and You Prophet whom
 You sent. When al-Bara’ wanted to read it before the Prophet, he said:
 “and by Your messenger whom You sent. The Prophet said: “No (it is not
-so), but: and your Prophet whom You sent,” <span
-id="_anchor_161"></span>161 ordering him not to use the word messenger
+so), but: and your Prophet whom You sent,” 161 ordering him not to use the word messenger
 (rasul) instead of ‘Prophet’ (nabi), so as not to change the meaning,
 while he being a messenger of religion. So how it would be permissible
 for some foolish ignorant people to claim that he (S) used to permit the
@@ -382,13 +377,12 @@ Wise” in the holy Qur’an, while forbidding from doing so in a
 supplication other than the Qur’an, despite the fact that Allah says
 informing for His Prophet: “Say (O Muhammad): It is not for me to change
 it of my own accord.” (10:15) ... and no change is there greater than
-inserting a word instead of another. <span id="_anchor_162"></span>162
+inserting a word instead of another. 162
 
 ### I am Delegated with the Universal Speech
 
 In his exposition of the Messenger’s saying: “I delegated with universal
-words”, Ibn Hajar al-Asqallani in Fath al-Bari <span
-id="_anchor_163"></span>163 says: No prophet is there but only that who
+words”, Ibn Hajar al-Asqallani in Fath al-Bari 163 says: No prophet is there but only that who
 was given beside the signs the like of them in which people can trust,
 but what I am given was but a revelation Allah revealed to me. So I hope
 to have more followers than they have on the Doomsday.

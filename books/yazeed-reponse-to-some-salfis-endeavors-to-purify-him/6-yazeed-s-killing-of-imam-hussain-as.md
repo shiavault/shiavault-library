@@ -448,4 +448,3 @@ the Nasibis Yazeed is accused of destroying the Deen by the Holy Prophet
 (saws) himself. I say we destroy the Deen of the Nasibis. Their Deen is
 different to that of other Muslims, Shia or Sunni.
 
-

@@ -15,4 +15,3 @@ themselves not legitimate.
 
 [^1]: Vol. 10
 
-

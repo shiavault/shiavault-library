@@ -15,12 +15,8 @@ in regard to objects of worship; in the case that Allah, the Exalted, is
 asserted as the right object of worship and the rest of the objects of
 worship are known as false:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِکَ بِأَنَّ اللهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ‌ مِنْ دُونِهِ
-هُوَ الْبَاطِلُ...
-  </p>
-</blockquote>
+> ذَلِکَ بِأَنَّ اللهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ‌ مِنْ دُونِهِ
+> هُوَ الْبَاطِلُ...
 
 ***“That is because Allah is the Truth, and that which they call upon
 besides Him; that is the falsehood…”***[^1]
@@ -39,28 +35,20 @@ not eternal, a day will come when right will be completely separated
 from falsehood and will remain stable and falsehood will be
 exterminated:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ نَقْذِفُ بِالْحَقِّ عَلَی الْبَاطِلِ فَيَدْمَغُهُ فَاِذَا هُوَ
-زَاهِقٌ...
-  </p>
-</blockquote>
+> بَلْ نَقْذِفُ بِالْحَقِّ عَلَی الْبَاطِلِ فَيَدْمَغُهُ فَاِذَا هُوَ
+> زَاهِقٌ...
 
 ***“Nay! We cast the truth against the falsehood, so that it breaks its
 head, and lo! It*** ***vanishes…”***[^2]
 
 Elsewhere, Allah likens falsehood to foam:
 
-<blockquote dir="rtl">
-  <p>
-أَنْزَلَ مِن السَّمَاءِ مَآءً فَسَأَلَتْ أَوْدِيَةٌ بِقَدَرِهَا
-فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ
-فِي النَّارِ ابْتَغَاءَ حَلْيَةٍ أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ کَذَلِکَ
-يَضْرِبُ اللهُ الْحَقَّ وَالْبَاطِلَ فَأَمَّا الزَّبَدُ فَيَذْهَبُ
-جُفَاءً وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْکُثُ فِي الأَرْضِ
-کَذَلِکَ يَضْرِبُ اللهُ الأَمْثَالَ
-  </p>
-</blockquote>
+> أَنْزَلَ مِن السَّمَاءِ مَآءً فَسَأَلَتْ أَوْدِيَةٌ بِقَدَرِهَا
+> فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ
+> فِي النَّارِ ابْتَغَاءَ حَلْيَةٍ أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ کَذَلِکَ
+> يَضْرِبُ اللهُ الْحَقَّ وَالْبَاطِلَ فَأَمَّا الزَّبَدُ فَيَذْهَبُ
+> جُفَاءً وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْکُثُ فِي الأَرْضِ
+> کَذَلِکَ يَضْرِبُ اللهُ الأَمْثَالَ
 
 ***“He sends down water from the cloud, then watercourses flow (with
 water) according to their measure, and the torrent bears along the
@@ -265,14 +253,10 @@ this transient world and whatever happens later is not a matter of his
 concern. If he performs good works in this world at all, Allah grants
 him his reward right in this world:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ کَانَ يُرِيدُ الْحَيوةَ الدُّنْيا وَزِينَتَهَا نُوَفِّ اِلَيْهِمْ
-أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لاَ يُبْخَسُونَ \* أَوْلَئِك لَيْسَ
-لَهْمْ فِي الآخِرَةِ الاَّ النَّارُ وَحَبِطَ مَا صَنَعُوا فِيهَا
-وَبَاطِلٌ مَا کَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> مَنْ کَانَ يُرِيدُ الْحَيوةَ الدُّنْيا وَزِينَتَهَا نُوَفِّ اِلَيْهِمْ
+> أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لاَ يُبْخَسُونَ \* أَوْلَئِك لَيْسَ
+> لَهْمْ فِي الآخِرَةِ الاَّ النَّارُ وَحَبِطَ مَا صَنَعُوا فِيهَا
+> وَبَاطِلٌ مَا کَانُوا يَعْلَمُونَ
 
 ***“Whoever desires this world’s life and its finery, We will pay them
 in full their deeds therein, and they shall not be made to suffer loss
@@ -419,12 +403,8 @@ with pleasure and sweetness. Beyond the shadow of doubt, all adversities
 of the believer are confined to this world and he will not have any
 pains and hardships in the eternal Garden of bliss:
 
-<blockquote dir="rtl">
-  <p>
-الَّذي أَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهِ لاَ يَمَسُّنَا
-فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
-  </p>
-</blockquote>
+> الَّذي أَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهِ لاَ يَمَسُّنَا
+> فِيهَا نَصَبٌ وَلاَ يَمَسُّنَا فِيهَا لُغُوبٌ
 
 ***“Who has made us alight in a house abiding forever out of His grace;
 toil shall not touch us therein, nor shall fatigue therein afflict
@@ -438,11 +418,7 @@ contrast, the nature of this world’s life is intertwined with pain and
 hardships and everyone is confronted with adversities and encumbrances
 whether he is a believer or unbeliever:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الإِنْسَانَ في کَبَدٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الإِنْسَانَ في کَبَدٍ
 
 ***“Certainly we have created man to be in distress.”***[^6]
 
@@ -471,12 +447,8 @@ gratifications, man gradually tastes the spiritual pleasures and
 sweetness of right. This is a truth which the Gracious Qur’an hints at
 too:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلوةِ وَاِنَّهَا لَکَبِيرَةٌ إِلاَّ
-عَلَی الْخَاشِعِين
-  </p>
-</blockquote>
+> وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلوةِ وَاِنَّهَا لَکَبِيرَةٌ إِلاَّ
+> عَلَی الْخَاشِعِين
 
 ***“And seek assistance through patience and prayer, and most surely it
 is a hard thing except for the humble ones.”***[^7]
@@ -591,12 +563,8 @@ household crumbles as a result of that licentious look. This is one of
 the consequences of sin in this world; the divine retribution and
 requital of the next world have not yet been inflicted:
 
-<blockquote dir="rtl">
-  <p>
-فَأَذَاقَهُم اللهُ الْخِزْيَ فِي الْحَيَوةَ الدُّنْيَا وَلَعَذَابُ
-الآخِرَةِ أَکْبَرُ لَوْ کَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَذَاقَهُم اللهُ الْخِزْيَ فِي الْحَيَوةَ الدُّنْيَا وَلَعَذَابُ
+> الآخِرَةِ أَکْبَرُ لَوْ کَانُوا يَعْلَمُونَ
 
 ***“So Allah made them taste the disgrace in this world’s life, and
 certainly the punishment of the hereafter is great; did they but
@@ -604,12 +572,8 @@ know.”***[^8]
 
 Elsewhere, it states:
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ عَذَابٌ فِي الْحَيوةّ الدُّنْيَا وَلَعَذَابُ الآخِرَةِ
-أَشَقُّ...
-  </p>
-</blockquote>
+> لَهُمْ عَذَابٌ فِي الْحَيوةّ الدُّنْيَا وَلَعَذَابُ الآخِرَةِ
+> أَشَقُّ...
 
 ***“They shall have chastisement in this world’s life, and the
 punishment of the hereafter is certainly more grievous…”***[^9]
@@ -685,5 +649,4 @@ especially if the majority of the community is depraved.
 [^8]: Surat al-Zumar 39:26.
 
 [^9]: Surat al-Ra‘d 13:34.
-
 

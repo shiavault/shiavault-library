@@ -1156,4 +1156,3 @@ Vol. 8, pp. 22-23.
 
 [^27]: Al-Majlisi, Bihar al-Anwar, Vol. 30, pp. 393, 395.
 
-

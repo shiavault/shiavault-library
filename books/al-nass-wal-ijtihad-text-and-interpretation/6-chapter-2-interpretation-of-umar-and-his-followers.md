@@ -6536,4 +6536,3 @@ the throne! The outset is from you and the vicissitudes of time is from
 you, Storm is from you and rain is from you. You have ordered the emir
 to be killed, and said to us that he has disbelieved!
 
-

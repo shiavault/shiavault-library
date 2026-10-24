@@ -1,8 +1,6 @@
 Chapter 8: the Members of the Army
 ==================================
 
-  
-
 In his book 'al-Irshad p. 169, al-Mufid said: "Al-Hasan sent Hujr b.
 'Adi to order the leaders (Ummal) to set out and to call the people
 together for war (jihad). They were slow to (answer) him and then they
@@ -33,8 +31,6 @@ of Allah. Otherwise, he was unable to
 
 [[1]](#n1) Also see: Al-Arbali, Kashif al-Ghumma, p. 161. Al-Majlisi,
 Bihar al Anwar, vol. 10, p. 110.
-
-  
 
 carry out his religious duty. For the worldly desires would suppress
 this feeling in him. Moreover, they would have deprived him of his share
@@ -70,8 +66,6 @@ the salaries of the fighters to 100%. He sent Hujr b. 'Adi to his rulers
 to summon them to jihad. His. notable companions, who were orators,
 helped him with his task. Among them were 'Adi b. Hatam, Ma'qal b. Qays
 al-Riyahi, Ziyad b. Sa'sa'a al-Tamimi, and  
-
-  
 
 Qays b. Sa'd al-Ansari. They criticized the people [[1]](#r2) for their
 slowness and urged them to take part in jihad for Allah. Then they
@@ -116,8 +110,6 @@ showed the defects of their enemies. They resisted the
 [[1]](#n2) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 14.
 [[2]](#n3) Ibid.
 
-  
-
 different clubs of Kufa, its districts, and its public nexts. They drew
 the attention of the people to the excellent position which no one of
 the Muslims occupied but the two lords of the youth of Paradise (i.e.,
@@ -158,8 +150,6 @@ In Kufa, the new powerful city, there were mixed bands of people. They
 belonged to Arab and non- Arab communities. They adopted Islam, but they
 were displeased with it. In other words they embraced  
 
-  
-
 Islam and used it as means to achieve their immediate interests. So they
 understood the summons to jihad as means for interests and booty. When
 these mixed bands became satisfied with the success of that war, they
@@ -197,8 +187,6 @@ Moreover, hasn't history kept their revolt against the latter?
 
 The enmity and malice of the Kharijites, and the way of their abominable
 summons move us to mistrust their purpose when they  
-
-  
 
 wanted to go out with: al-Hasan, peace be on him.
 
@@ -238,8 +226,6 @@ in Iraq, Egypt, and Syria. The purposes of these people were secret
 assassinations. These purposes prevailed their other plans. For this
 reason, they went with al-Hasan to make discords. They followed  
  the way of jihad to make corruption. For example, they  
-
-  
 
 achieved a traitorous act at Mazlam Sabat. [[1]](#r4) The act harmed
 al-Hasan very much. It was the second dangerous part of the series of
@@ -286,8 +272,6 @@ Secret of the Attitude, you will read the texts of the event which the
 old historians reported, and which the modern historians should
 understand.
 
-  
-
 against al-Hasan.
 
 In this way, the army of al-Hasan, peace be on him, was full of those
@@ -331,8 +315,6 @@ As for the revolutionary weepers, al-Hasan refers to the large
 "And the other was killed at (the Battle of) Nahrwan and you avenge his
 blood on us."
 
-  
-
 number from his companions and his bosom ones. As for those who wanted
 to avenge the blood, he refers to the Kharijites who were in his army.
 Namely, they wanted to avenge the blood of their companions on al-Hasan.
@@ -371,8 +353,6 @@ in Islam and were able to carry weapons. Thus it was incumbent on the
 Imam to accept them according to the Islamic law.
 
 2. The Prophet himself, may Allah bless him and his family, and  
-
-  
 
 such groups afflicted the Commander of the faithful during their
 battles. It is reported on their authority that they permitted such
@@ -414,8 +394,6 @@ period would be written in a way different from what you read today.
 3. Nevertheless, al-Hasan refused to treat the situation through these
 ways. The commanders of armies use ways to purify their armies from
 corrupt persons. For example, they kill them, remove them from  
-
-  
 
 office, scold them, and the like. For he did not want to hasten the
 disaster before its time, as we have mentioned in chapter four. Besides

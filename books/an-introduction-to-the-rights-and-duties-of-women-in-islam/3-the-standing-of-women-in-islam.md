@@ -5,13 +5,9 @@ According to Islam, women and men alike possess the lofty status of
 humanity because they are both equally human. The Quran identifies
 humans as “viceroys of God” [*khalifat ullah*] and reveres them greatly:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ كَرَّمْنَا بَنِي آدَمَ وَ حَمَلْنَاهُمْ فِي الْبَرِّ وَ
-الْبَحْرِ وَ رَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَ فَضَّلْنَاهُمْ عَلَى
-كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلاً
-  </p>
-</blockquote>
+> وَ لَقَدْ كَرَّمْنَا بَنِي آدَمَ وَ حَمَلْنَاهُمْ فِي الْبَرِّ وَ
+> الْبَحْرِ وَ رَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَ فَضَّلْنَاهُمْ عَلَى
+> كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلاً
 
 ***“And We have surely honored the children of Adam. We have presented
 them with transport on land and sea, provided*** ***them good and pure
@@ -21,12 +17,8 @@ creations.”***[^1]
 Additionally, it states that Adam (‘a) had such high rank that the
 angels bowed to him:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا سَوَّيْتُهُ وَ نَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ
-سَاجِدِينَ
-  </p>
-</blockquote>
+> فَإِذَا سَوَّيْتُهُ وَ نَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ
+> سَاجِدِينَ
 
 ***“So when I shape him and breathe into him of My spirit, fall down,
 prostrating yourselves*** ***unto him.”***[^2]
@@ -34,17 +26,13 @@ prostrating yourselves*** ***unto him.”***[^2]
 All this is due to our humanity. Regarding Adam (‘a), the Holy Quran
 declares:
 
-<blockquote dir="rtl">
-  <p>
-وَ عَلَّمَ آدَمَ الأَسْمَاء كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى
-الْمَلاَئِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاء هَؤُلاء إِن كُنتُمْ
-صَادِقِينَ\* قَالُواْ سُبْحَانَكَ لاَ عِلْمَ لَنَا إِلاَّ مَا
-عَلَّمْتَنَا إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ\* قَالَ يَا آدَمُ
-أَنبِئْهُم بِأَسْمَآئِهِمْ فَلَمَّا أَنبَأَهُمْ بِأَسْمَآئِهِمْ قَالَ
-أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَ الأَرْضِ
-وَ أَعْلَمُ مَا تُبْدُونَ وَ مَا كُنتُمْ تَكْتُمُونَ
-  </p>
-</blockquote>
+> وَ عَلَّمَ آدَمَ الأَسْمَاء كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى
+> الْمَلاَئِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاء هَؤُلاء إِن كُنتُمْ
+> صَادِقِينَ\* قَالُواْ سُبْحَانَكَ لاَ عِلْمَ لَنَا إِلاَّ مَا
+> عَلَّمْتَنَا إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ\* قَالَ يَا آدَمُ
+> أَنبِئْهُم بِأَسْمَآئِهِمْ فَلَمَّا أَنبَأَهُمْ بِأَسْمَآئِهِمْ قَالَ
+> أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَ الأَرْضِ
+> وَ أَعْلَمُ مَا تُبْدُونَ وَ مَا كُنتُمْ تَكْتُمُونَ
 
 ***“And He taught Adam all the Names; then He presented them upon the
 angels and said: ‘Explain to Me these names, if thou speak truly.’ They
@@ -74,13 +62,9 @@ continuance of the human race.
 
 The Holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَ أُنثَى وَ
-جَعَلْنَاكُمْ شُعُوبًا وَ قَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَ أُنثَى وَ
+> جَعَلْنَاكُمْ شُعُوبًا وَ قَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
 
 ***“O Humans! Surely, I have created you as males and females and have
 made you into [diverse] races and tribes that you may know one another.
@@ -89,14 +73,10 @@ Truly, Allah is All-knowing, All-aware.”***[^4]
 
 It also declares:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمُ الَّذِي خَلَقَكُم مِّن
-نَّفْسٍ وَاحِدَةٍ وَ خَلَقَ مِنْهَا زَوْجَهَا وَ بَثَّ مِنْهُمَا
-رِجَالاً كَثِيرًا وَ نِسَاءً وَ اتَّقُواْ اللّهَ الَّذِي تَسَاءلُونَ
-بِهِ وَ الأَرْحَامَ إِنَّ اللّهَ كَانَ عَلَيْكُمْ رَقِيبًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمُ الَّذِي خَلَقَكُم مِّن
+> نَّفْسٍ وَاحِدَةٍ وَ خَلَقَ مِنْهَا زَوْجَهَا وَ بَثَّ مِنْهُمَا
+> رِجَالاً كَثِيرًا وَ نِسَاءً وَ اتَّقُواْ اللّهَ الَّذِي تَسَاءلُونَ
+> بِهِ وَ الأَرْحَامَ إِنَّ اللّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 ***“O humans! Fear your Lord who created you from a single soul and from
 it created its mate and from the pair of them has disseminated many men
@@ -117,13 +97,9 @@ proximity to God [*qurb ila allah*].
 
 God, the Sublime, has stated in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَ هُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَ لَنَجْزِيَنَّهُمْ أَجْرَهُم
-بِأَحْسَنِ مَا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَ هُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَ لَنَجْزِيَنَّهُمْ أَجْرَهُم
+> بِأَحْسَنِ مَا كَانُواْ يَعْمَلُونَ
 
 ***“Whosoever performs a good deed, whether man or woman, while having
 faith in Allah, We shall assuredly restore them with a good and pure
@@ -132,12 +108,8 @@ what they have done.”***[^6]
 
 Allah also declares:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ
-مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى بَعْضُكُم مِّن بَعْضٍ
-  </p>
-</blockquote>
+> فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ
+> مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى بَعْضُكُم مِّن بَعْضٍ
 
 ***“Therefore their Lord granted their prayers. Verily, I shall not
 suffer the work of any agent among you to be lost, whether man or woman;
@@ -146,17 +118,13 @@ you are all members of the same race.”***[^7]
 The Quran praises righteous and worthy women and men similarly and thus
 states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُسْلِمِينَ وَ الْمُسْلِمَاتِ وَ الْمُؤْمِنِينَ وَ
-الْمُؤْمِنَاتِ وَ الْقَانِتِينَ وَ الْقَانِتَاتِ وَ الصَّادِقِينَ وَ
-الصَّادِقَاتِ وَ الصَّابِرِينَ وَ الصَّابِرَاتِ وَ الْخَاشِعِينَ وَ
-الْخَاشِعَاتِ وَ الْمُتَصَدِّقِينَ وَ الْمُتَصَدِّقَاتِ وَ
-الصَّائِمِينَ وَ الصَّائِمَاتِ وَ الْحَافِظِينَ فُرُوجَهُمْ وَ
-الْحَافِظَاتِ وَ الذَّاكِرِينَ اللَّهَ كَثِيرًا وَ الذَّاكِرَاتِ
-أَعَدَّ اللَّهُ لَهُم مَّغْفِرَةً وَ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ الْمُسْلِمِينَ وَ الْمُسْلِمَاتِ وَ الْمُؤْمِنِينَ وَ
+> الْمُؤْمِنَاتِ وَ الْقَانِتِينَ وَ الْقَانِتَاتِ وَ الصَّادِقِينَ وَ
+> الصَّادِقَاتِ وَ الصَّابِرِينَ وَ الصَّابِرَاتِ وَ الْخَاشِعِينَ وَ
+> الْخَاشِعَاتِ وَ الْمُتَصَدِّقِينَ وَ الْمُتَصَدِّقَاتِ وَ
+> الصَّائِمِينَ وَ الصَّائِمَاتِ وَ الْحَافِظِينَ فُرُوجَهُمْ وَ
+> الْحَافِظَاتِ وَ الذَّاكِرِينَ اللَّهَ كَثِيرًا وَ الذَّاكِرَاتِ
+> أَعَدَّ اللَّهُ لَهُم مَّغْفِرَةً وَ أَجْرًا عَظِيمًا
 
 ***“Verily, for Muslim men and women, for faithful men and women, for
 obedient men and women, for truthful men and women, for patient men and
@@ -169,15 +137,11 @@ The Quran has indicated worthy women in history just as it has mentioned
 such men and has commended them greatly. For example, regarding Saint
 Maryam (Mary) (‘a), the Quran states:
 
-<blockquote dir="rtl">
-  <p>
-فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَ أَنبَتَهَا نَبَاتًا
-حَسَنًا وَ كَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا
-الْمِحْرَابَ وَجَدَ عِندَهَا رِزْقاً قَالَ يَا مَرْيَمُ أَنَّى لَكِ
-هَذَا قَالَتْ هُوَ مِنْ عِندِ اللّهِ إنَّ اللّهَ يَرْزُقُ مَن يَشَاء
-بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَ أَنبَتَهَا نَبَاتًا
+> حَسَنًا وَ كَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا
+> الْمِحْرَابَ وَجَدَ عِندَهَا رِزْقاً قَالَ يَا مَرْيَمُ أَنَّى لَكِ
+> هَذَا قَالَتْ هُوَ مِنْ عِندِ اللّهِ إنَّ اللّهَ يَرْزُقُ مَن يَشَاء
+> بِغَيْرِ حِسَابٍ
 
 ***“So her Lord accepted her with gracious favor and nurtured her well
 and appointed Zachariah to foster her. Whenever Zachariah came to her in
@@ -188,12 +152,8 @@ reckoning.’”***[^9]
 
 Furthermore, it proclaims:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ قَالَتِ الْمَلاَئِكَةُ يَا مَرْيَمُ إِنَّ اللّهَ اصْطَفَاكِ وَ
-طَهَّرَكِ وَ اصْطَفَاكِ عَلَى نِسَاء الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَ إِذْ قَالَتِ الْمَلاَئِكَةُ يَا مَرْيَمُ إِنَّ اللّهَ اصْطَفَاكِ وَ
+> طَهَّرَكِ وَ اصْطَفَاكِ عَلَى نِسَاء الْعَالَمِينَ
 
 ***“And (remember) when the angels said, ‘O Maryam! Allah has chosen you
 and made you pure and has preferred you above all women in
@@ -201,14 +161,10 @@ creation.’”***[^10]
 
 Regarding Asiyah (‘a), Pharaoh’s wife, God the Most High has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا اِمْرَأَةَ فِرْعَوْنَ
-إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَ
-نَجِّنِي مِن فِرْعَوْنَ وَ عَمَلِهِ وَ نَجِّنِي مِنَ الْقَوْمِ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَ ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا اِمْرَأَةَ فِرْعَوْنَ
+> إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَ
+> نَجِّنِي مِن فِرْعَوْنَ وَ عَمَلِهِ وَ نَجِّنِي مِنَ الْقَوْمِ
+> الظَّالِمِينَ
 
 ***“And Allah cites Pharaoh’s wife as an example for the believers when
 she said, ‘O Lord! Build for me, close to Yourself, a home in Paradise
@@ -220,24 +176,16 @@ also one of these superior women. The Verse of Purification [*ayah
 tathir*] is about Fatimah (‘a), her husband, father, and children. The
 exalted Lord declares:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Surely, Allah only wishes to remove from you, People of the House,
 all uncleanness and purify you thoroughly.”***[^12]
 
 Regarding these lofty women, the Messenger of Allah (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي (ع): سيّدات أهل الجنة أربع: مريم بنت عمران، و فاطمة بنت
-محمّد، و خديجة بنت خويلد، و آسية بنت مزاحم إمرأة فرعون.
-  </p>
-</blockquote>
+> قال النبي (ع): سيّدات أهل الجنة أربع: مريم بنت عمران، و فاطمة بنت
+> محمّد، و خديجة بنت خويلد، و آسية بنت مزاحم إمرأة فرعون.
 
 *“The great women of paradise are four: Maryam daughter of ‘Imran,
 Fatimah daughter of Muhammad, Khadijah daughter of Khuwaylid, and Asiyah
@@ -263,14 +211,10 @@ corruption. Consequently, the responsibility of correct management and
 reformation of the society is charged to both women and men. God most
 high states in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْمُؤْمِنُونَ وَ الْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاء بَعْضٍ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَ يَنْهَوْنَ عَنِ الْمُنكَرِ وَ يُقِيمُونَ
-الصَّلاَةَ وَ يُؤْتُونَ الزَّكَاةَ وَ يُطِيعُونَ اللّهَ وَ رَسُولَهُ
-أُوْلَئِكَ سَيَرْحَمُهُمُ اللّهُ إِنَّ اللّهَ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَ الْمُؤْمِنُونَ وَ الْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاء بَعْضٍ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَ يَنْهَوْنَ عَنِ الْمُنكَرِ وَ يُقِيمُونَ
+> الصَّلاَةَ وَ يُؤْتُونَ الزَّكَاةَ وَ يُطِيعُونَ اللّهَ وَ رَسُولَهُ
+> أُوْلَئِكَ سَيَرْحَمُهُمُ اللّهُ إِنَّ اللّهَ عَزِيزٌ حَكِيمٌ
 
 ***“And male and female believers are protecting friends of each other;
 they enjoin righteousness and forbid evil, they perform***
@@ -301,23 +245,15 @@ Islam greatly emphasizes pursuing knowledge and even identifies it as an
 obligation. Thus, Imam Sadiq (‘a) has quoted from the Messenger of Allah
 (S) that:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي عبدالله (ع) قال: قال رسول الله (ص): «طلب العلم فريضة على كلّ
-مسلم، ألا إنّ الله يحبّ بغاة العلم.
-  </p>
-</blockquote>
+> عن أبي عبدالله (ع) قال: قال رسول الله (ص): «طلب العلم فريضة على كلّ
+> مسلم، ألا إنّ الله يحبّ بغاة العلم.
 
 “Obtaining knowledge is obligatory for all Muslims. Know that Allah
 truly loves seekers of knowledge.”[^17]
 
 Moreover, Imam Baqir (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي جعفر (ع) قال: «عالم ينتفع بعلمه، أفضل من سبعين ألف عابد.»
-  </p>
-</blockquote>
+> عن أبي جعفر (ع) قال: «عالم ينتفع بعلمه، أفضل من سبعين ألف عابد.»
 
 “A learned person who uses their knowledge is better than seventy
 thousand devout worshipers [*‘abid*].”[^18]
@@ -392,5 +328,4 @@ performed five times a day in a specific form. [trans.]
 [^17]: - Kafi, vol. 1, p. 30.
 
 [^18]: - Ibid, p. 33.
-
 

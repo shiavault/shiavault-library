@@ -807,4 +807,3 @@ be excused.” given earlier.
 [^54]: These uncertainties could be associated with either the judge or
 the defender.
 
-

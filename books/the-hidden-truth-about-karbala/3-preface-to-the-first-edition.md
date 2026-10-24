@@ -255,4 +255,3 @@ Publishers & Distributors, New Delhi [2005].
 [^16]: Dr. Ghulam Nabi’s Khilafa in Theory & Practice, p.69, quoting Ibn
 Kathir, vol. 8, p.232-233.
 
-

@@ -239,13 +239,9 @@ Sunnah, as expounded by the Holy Prophet (s.a.w.a.) and his holy progeny
 O Muslims! Be grateful for this great bounty and don’t be negligent
 about it or God forbid, neither turn away from it nor disbelieve in it.
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَكُونُواْ كَالَّذِينَ قَالُوا سَمِعْنَا وَ هُمْ لاَ
-يَسْمَعُونَ. إِنَّ شَرَّ الدَّوَابَّ عِندَ اللهِ الصُّمُّ الْبُكْمُ
-الَّذِينَ لاَ يَعْقِلُونَ.
-  </p>
-</blockquote>
+> وَلاَ تَكُونُواْ كَالَّذِينَ قَالُوا سَمِعْنَا وَ هُمْ لاَ
+> يَسْمَعُونَ. إِنَّ شَرَّ الدَّوَابَّ عِندَ اللهِ الصُّمُّ الْبُكْمُ
+> الَّذِينَ لاَ يَعْقِلُونَ.
 
 ***And be not like those who said, We hear, and they did not obey.
 Surely the vilest of animals, in Allah’s sight, are the deaf, the dumb,
@@ -254,13 +250,9 @@ who do not understand.*** ( Surah Anfaal (8): Verses 21, 22)
 Be careful from becoming apostates concerning the signs of Allah and His
 religion. Surely Allah, the High says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا
-أَفَمَن يُلْقَى فِي النَّارِ خَيْرٌ أَم مَّن يَأْتِي آمِنًا يَوْمَ
-الْقِيَامَةِ اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا
+> أَفَمَن يُلْقَى فِي النَّارِ خَيْرٌ أَم مَّن يَأْتِي آمِنًا يَوْمَ
+> الْقِيَامَةِ اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ.
 
 ***Surely they who deviate from the right way concerning Our
 communications are not hidden from Us. What! is he then who is cast into
@@ -280,12 +272,8 @@ the school of traditions (hadith) and be a disciple of the institution
 of Prophet (s.a.w.a.) and his holy progeny, the truthful Imams (a.s.).
 Allah, the High, admonishes:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللهَ وَكُونُواْ مَعَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللهَ وَكُونُواْ مَعَ
+> الصَّادِقِينَ
 
 ***O you who believe! be careful of (your duty to) Allah and be with the
 true ones. (Surah Taubah 9: 119)***
@@ -296,5 +284,4 @@ true ones. (Surah Taubah 9: 119)***
 (Injeel)
 
 [^3]: Tafseer-e-Qurtubbi, vol. 13, p. 355.
-
 

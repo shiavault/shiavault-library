@@ -182,4 +182,3 @@ last.”[^13]
 
 [^13]: Mahdi al-Mau’ood translated by ‘Ali Davaani, p. 391
 
-

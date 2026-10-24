@@ -95,4 +95,3 @@ men. Then he drenched himself with the blood of Imam Husayn (a.s.) and
 rushed towards the tents. He started neighing aloud and struck his
 hooves upon the ground.
 
-

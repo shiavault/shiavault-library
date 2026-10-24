@@ -752,4 +752,3 @@ principle has been explained, we shall not include those traditions in
 this book - except where it becomes necessary for the explanation of a
 verse or for some reasoning or discussion.
 
-

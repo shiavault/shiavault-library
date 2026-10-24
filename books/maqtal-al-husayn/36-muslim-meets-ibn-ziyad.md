@@ -352,4 +352,3 @@ Thul-Hijjah. So, if Muslim had been killed one day after al-Husayn's
 departure, his martyrdom would have been on the first day of ‘Id
 al-Adha.
 
-

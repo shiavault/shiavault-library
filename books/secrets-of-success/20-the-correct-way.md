@@ -64,4 +64,3 @@ Any young man or woman that desires appreciation of his deeds and one
 who aims for permanent success should perform today’s work in a way
 better than yesterday.
 
-

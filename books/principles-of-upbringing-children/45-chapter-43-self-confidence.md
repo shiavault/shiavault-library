@@ -216,4 +216,3 @@ attention to other things. Make him busy with some game or gainful task.
 
 [^4]: Tuhaf al uqul, p. 269
 
-

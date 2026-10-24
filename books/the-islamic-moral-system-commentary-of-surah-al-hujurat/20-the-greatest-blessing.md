@@ -3,13 +3,9 @@ The Greatest Blessing
 
 ( Verse 17 )
 
-<blockquote dir="rtl">
-  <p>
-يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا قُلْ لاٌّ تَمُنُّوا عَلَيَّ
-إِسْلاٌمَكُم بَلِ اللٌّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٌاكُمْ
-لِلْإِيـمٌانِ إِنْ كُنْـتُمْ صٌادِقِـينَ
-  </p>
-</blockquote>
+> يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا قُلْ لاٌّ تَمُنُّوا عَلَيَّ
+> إِسْلاٌمَكُم بَلِ اللٌّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٌاكُمْ
+> لِلْإِيـمٌانِ إِنْ كُنْـتُمْ صٌادِقِـينَ
 
 (***The Bedouins tell you O’ Muhammad*** ***that) you owe them (a great
 deal) for their embracing (the religion of Islam). Say to them (O’
@@ -41,14 +37,10 @@ connection that lies between the old and new civilizations. It is this
 truth that has been mentioned in the Qur’an by Allah (Glorified and
 Exalted is He) when He said:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ مَنَّ اللٌّهُ عَلَى الْمُؤمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولاً
-مِّنْ أَنفُسِهِمْ يَتْلُوا عَلَيْهِمْ آيٌاتِهِ وَيُزَكِّيهِمْ
-وَيُعَلِّمُهُمُ الْكِتٌابَ وَالْحِكْمَةَ وَإِنْ كٌانُوا مِنْ قَبْلُ
-لَفِي ضَلاٌلٍ مُّبِينٍ
-  </p>
-</blockquote>
+> لَقَدْ مَنَّ اللٌّهُ عَلَى الْمُؤمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولاً
+> مِّنْ أَنفُسِهِمْ يَتْلُوا عَلَيْهِمْ آيٌاتِهِ وَيُزَكِّيهِمْ
+> وَيُعَلِّمُهُمُ الْكِتٌابَ وَالْحِكْمَةَ وَإِنْ كٌانُوا مِنْ قَبْلُ
+> لَفِي ضَلاٌلٍ مُّبِينٍ
 
 ***“Certainly Allah granted a great favour to the believers when He
 raised up from amongst their own people a Messenger (Muhammad, blessings
@@ -212,17 +204,9 @@ path to the point where their blood has been shed, would never
 understand the true importance that religion has and the important role
 that it plays in the improvement and well-being of a society.
 
-<blockquote dir="rtl">
-  <p>
-شب باران و بيم موج و گردابی چنين هايل
-  </p>
-</blockquote>
+> شب باران و بيم موج و گردابی چنين هايل
 
-<blockquote dir="rtl">
-  <p>
-كجا دانند حال ما سبكباران ساحلها!؟
-  </p>
-</blockquote>
+> كجا دانند حال ما سبكباران ساحلها!؟
 
 *A rainy night and the scary ocean swells with uneasy storms,*  
  *The light rain on the coasts can never know this (turbulent) state.*
@@ -230,12 +214,8 @@ that it plays in the improvement and well-being of a society.
 The Qur’an considers religion as being the greatest spiritual blessing
 that has been given to mankind:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا نِعْـمَةَ اللٌّهِ عَلَيْكُمْ إِذْ كُنْـتُمْ أَعْدٌاءً
-فَـأَلَّفَ بَيْنَ قُلُـوبِكُمْ
-  </p>
-</blockquote>
+> وَاذْكُرُوا نِعْـمَةَ اللٌّهِ عَلَيْكُمْ إِذْ كُنْـتُمْ أَعْدٌاءً
+> فَـأَلَّفَ بَيْنَ قُلُـوبِكُمْ
 
 ***“And recall (O’ Muslims) the blessings of Allah that were showered
 upon you during the time when you were enemies of one another and
@@ -246,12 +226,8 @@ progeny) made known his Wasi (successor), the revelation of Allah
 (Glorified and Exalted is He) came down to him and referred to this
 event (18th of Dhul Hijjah) as the greatest blessing:
 
-<blockquote dir="rtl">
-  <p>
-أَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَ أَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي...
-  </p>
-</blockquote>
+> أَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَ أَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي...
 
 ***“This day (18th of Dhul Hijjah) have I (Allah) completed your
 religion for you and have I perfected upon you My bounties.”***[^5]
@@ -269,11 +245,7 @@ have been obligated to grace and bless them since they had chosen the
 path of happiness and the road to complete perfection just as it has
 been mentioned in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-بَلِ اللٌّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٌاكُمْ لِلإِيـمٌانِ
-  </p>
-</blockquote>
+> بَلِ اللٌّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٌاكُمْ لِلإِيـمٌانِ
 
 ***“Rather, it is Allah who has laid upon you an obligation by guiding
 you to the faith.”***[^6]
@@ -286,21 +258,13 @@ regards to the desert \`Arabs and their apparent acceptance of the
 religion of Islam and attributing this as being Iman or true faith, the
 Qur’an then says:
 
-<blockquote dir="rtl">
-  <p>
-أَنْ هَدٌاكُمْ لِلإِيـمٌانِ
-  </p>
-</blockquote>
+> أَنْ هَدٌاكُمْ لِلإِيـمٌانِ
 
 ***“…by guiding you to the faith.”***
 
 And immediately it ends with the following sentence:
 
-<blockquote dir="rtl">
-  <p>
-...إِنْ كُنتُمْ صٌادِقِينَ
-  </p>
-</blockquote>
+> ...إِنْ كُنتُمْ صٌادِقِينَ
 
 ***“…if you are truthful.”***
 
@@ -321,11 +285,7 @@ and Exalted is He), then it is only due to the fact that this is what
 they themselves claimed about their own souls and it is for this reason
 that immediately, the Qur’an replies to them that:
 
-<blockquote dir="rtl">
-  <p>
-...إِنْ كُنتُمْ صٌادِقِينَ
-  </p>
-</blockquote>
+> ...إِنْ كُنتُمْ صٌادِقِينَ
 
 ***“…if you are truthful.”***
 
@@ -341,5 +301,4 @@ translation found on www.islamvision.org).
 [^5]: Surah al-Maidah (5), Verse 5.
 
 [^6]: Surah al-Hujurat (49), Verse 17.
-
 

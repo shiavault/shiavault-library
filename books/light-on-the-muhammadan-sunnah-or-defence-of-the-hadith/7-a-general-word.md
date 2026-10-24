@@ -9,7 +9,7 @@ take with consent and discarding that which I discard with confidence,
 fearing no blame or guilt in this or that.
 
 It is not to be fancied that I be a heretic in this respect, as the
-Ummah scholars<span id="_anchor_11"></span>11 have never approved of
+Ummah scholars11 have never approved of
 every hadith reported in the Sunnah books, so let them have capacity for
 whatever I encompassed, after it was demonstrated to them. This verily
 being a common fact known for men of discernment with no disagreement
@@ -36,7 +36,7 @@ truth of the traditions reported in them be revealed for people so as to
 be well-acquainted with them. Had I come across, throughout the
 expansive Arabic Library, only one book covering this weighty and
 sensitive subject – of which every Muslim should be aware – I would have
-been relieved of this heavy burden,<span id="_anchor_12"></span>12 which
+been relieved of this heavy burden,12 which
 I shouldered for the sake of research and exploration into hundreds of
 books and asanid to which I referred, and from which I quoted and
 reported. After spending protracted years in rushing into and treading

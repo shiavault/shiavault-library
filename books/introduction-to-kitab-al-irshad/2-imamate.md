@@ -220,4 +220,3 @@ also the references mentioned under the definition of imamate
 
 [^4]: See at-Tahrani, adh-Dhari‘ah, vol.20, p.397; vol.24, pp.172-4
 
-

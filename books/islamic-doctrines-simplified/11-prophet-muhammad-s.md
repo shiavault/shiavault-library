@@ -36,4 +36,3 @@ Prophet Muhammad [s], the last Prophet, who brought forth Islam, the
 ultimate religion. Allah, therefore, does not accept any religion other
 than Islam and the followers of Prophet Muhammad [s].
 
-

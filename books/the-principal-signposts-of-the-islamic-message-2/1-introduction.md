@@ -43,7 +43,6 @@ surface of the earth, he would continue fighting, for it was incumbent
 upon Allah to make Islam victorious through him that it may prevail over
 all religion, however much the idolaters may be averse.
 
-
 **AL-Balagh Foundation**
 
 **WHAT DOES ISLAM MEAN?**
@@ -209,5 +208,4 @@ man and his society which this religion creates. These four facts are:
 
 We shall try in this brief study, to deal with these four facts by way
 of explanation and definition.
-
 

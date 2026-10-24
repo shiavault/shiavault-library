@@ -209,4 +209,3 @@ beloved son who is the last Divine Proof, was hidden from ,the sight of
 strangers till the year 260 A. H., when the rays of his being set while
 the eyes of all people were fixed at the door of Imam al-Mahdi (a.s.).
 
-

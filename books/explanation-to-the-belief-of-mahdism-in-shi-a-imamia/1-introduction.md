@@ -120,4 +120,3 @@ out their mistakes or personal errors. No. Never. May God ward off such
 malevolence? “There is no success to me except from Allah whom I depend
 upon and whom I resign to.”
 
-

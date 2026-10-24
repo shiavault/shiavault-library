@@ -286,4 +286,3 @@ postponing the same while continuing to nurture all kinds of desire, and
 not to pretend aversion to the materialistic things while actually
 demonstrating that one is captivated by the world.
 
-

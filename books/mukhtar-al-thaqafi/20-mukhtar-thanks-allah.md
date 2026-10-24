@@ -11,4 +11,3 @@ Glorified said:
 
 So, Mukhtar fasted for most days of the year.
 
-

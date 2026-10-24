@@ -21,21 +21,13 @@ hundred million followers?
 Condemning this big insult to Islam and Muslims resulting in more
 insecurity in world, we remind that Qur’an explicitly says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا
-  </p>
-</blockquote>
+> وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا
 
 ***"And if they incline to peace, do thou incline to it.**"*
 ***(8:61)***
 
-<blockquote dir="rtl">
-  <p>
-وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا
-تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ
-  </p>
-</blockquote>
+> وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا
+> تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ
 
 ***"And fight in the way of God with those who fight with you, but
 aggress not: God loves not the aggressors.**"* ***(2:190)***
@@ -282,5 +274,4 @@ The Islamic scholars shall study these verses and narrations to clarify
 the issue of Jihad for the Islamic society. [^1]
 
 [^1]: Keyhan daily.
-
 

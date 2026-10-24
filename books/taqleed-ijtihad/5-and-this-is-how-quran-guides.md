@@ -5,11 +5,7 @@ Even though there are several verses in Allah’s Book that shed light on
 the issue of Taqleed. However, to keep it brief, we will refer to only
 two of them. One is:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
 
 ***“If you do not know, then ask*** **أَهْلَ الذِّكْرِ** ***Ahluz Zikr,
 [i.e. those who know – the learned ones].”*** [^1]
@@ -46,14 +42,10 @@ know and act on Imam’s teachings.
 The second command of Quran comes in the one hundred and twenty second
 verse of Surah Tauba. The sacred verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ
-مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
-وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
-يَحْذَرُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ
+> مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
+> وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
+> يَحْذَرُونَ
 
 ***“It is not essential that all believers should go. However, it is
 important that a few people from all segments of the society and Ummah
@@ -75,22 +67,14 @@ but knowing after deep thinking and getting to the bottom of an issue.
 Raghib Isfahani, considered a renowned expert on explaining the Quranic
 words, writes in his world-famous book “Almufarradat”:
 
-<blockquote dir="rtl">
-  <p>
-"الفقه هو التوصل إلى علم غائب بعلم شاهد."
-  </p>
-</blockquote>
+> "الفقه هو التوصل إلى علم غائب بعلم شاهد."
 
 “Jurisprudence (fiqh) is the discovery of the unknown, the invisible and
 the hidden facts.”
 
 Regarding Tafaqqa he writes:
 
-<blockquote dir="rtl">
-  <p>
-"تفقه إذا طلبه فتخصص به."
-  </p>
-</blockquote>
+> "تفقه إذا طلبه فتخصص به."
 
 “Once something, that was sought after, has been found, gaining
 expertise in it is Tafaqqa”.
@@ -99,30 +83,18 @@ The second word is Nazar or Inzar. It means informing about the upcoming
 danger. The greatest linguist, Muhammad Ibn Mukarram, writes in his
 dictionary, “Lisan Ul Arab”:
 
-<blockquote dir="rtl">
-  <p>
-"أنذرت القوم فنذروا اي اعلمتهم ذلك فعلموا وتحرزوا."
-  </p>
-</blockquote>
+> "أنذرت القوم فنذروا اي اعلمتهم ذلك فعلموا وتحرزوا."
 
 “He informed the nation about the dangerous situation. The nation
 realized the gravity and did whatever it could to save itself.”
 
 The third word is Hazar.
 
-<blockquote dir="rtl">
-  <p>
-(لعلهم يحذرون)
-  </p>
-</blockquote>
+> (لعلهم يحذرون)
 
 It means to be careful. Ibn Mukarram writes in this context:
 
-<blockquote dir="rtl">
-  <p>
-"رجل حذر. متيقط. متحرز. متأهب معد. يحذر أن يفاجأ."
-  </p>
-</blockquote>
+> "رجل حذر. متيقط. متحرز. متأهب معد. يحذر أن يفاجأ."
 
 “Someone who is aware; laced with defensive weapons; ready to face any
 calamity; so well prepared to face any difficulties as if he is about to
@@ -143,5 +115,4 @@ exactly what Ijtihad and taqleed are all about.
 [^1]: Surah Nahl, Ch. 16, Verse 43.
 
 [^2]: Sura at-Tawbah, ch. 9 verse 122.
-
 

@@ -404,4 +404,3 @@ different conditions, among which giving in alms of what we really love
 it, and however small the amount of our charity, it will be within the
 knowledge of God, and it is recorded and registered in His book.
 
-

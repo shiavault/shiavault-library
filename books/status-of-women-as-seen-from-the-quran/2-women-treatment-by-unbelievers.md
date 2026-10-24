@@ -60,7 +60,6 @@ that ye may despise (each other). Verily the most honoured of you in the
 sight of God is (he who is) the most righteous of you. And God has full
 knowledge and is well acquainted (with all things)." (49:13)
 
-
 Now let us proceed to see what would be the status of women in a
 society which is governed by Quranic principles.
 
@@ -90,5 +89,4 @@ of Allah and the wisdom; surely Allah is Knower of subtleties, Aware."
 
 Thus the Qur'an has stipulated that women should also be educated and
 trained to know the realities of life.
-
 

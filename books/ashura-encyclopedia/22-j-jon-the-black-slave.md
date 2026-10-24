@@ -11,4 +11,3 @@ for fixing and preparing the swords and various other weapons. He fought
 with the Imam until he was killed. The Imam then sat on his dead body
 and prayed to Allah for him.
 
-

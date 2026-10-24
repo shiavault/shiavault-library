@@ -214,4 +214,3 @@ power of God?
 
 10. Explain the meaning of the free-will of God.
 
-

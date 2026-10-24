@@ -75,4 +75,3 @@ speech, applauded and praised him.
 Abbaside Caliphs including Haroon, and for this reason, this dynasty of
 Islamic Caliphate is called Abbasides
 
-

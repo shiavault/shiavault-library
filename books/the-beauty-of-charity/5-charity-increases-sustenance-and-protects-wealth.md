@@ -370,4 +370,3 @@ beneficial than a material reward. [^15]
 
 [^15]: Jamiul Qasas Page 59
 
-

@@ -88,7 +88,6 @@ trusts, power of attorney issues, and marriage.
 3. lyqa’at — Unilateral Instigations like divorce, confessions in legal
 matters, vows, etc.
 
-
 4. Ahkam — Miscellaneous: anything which does not fit in the three
 groups above like rules of eating and drinking, agriculture,
 arbitration, testimony, etc.
@@ -180,5 +179,4 @@ rewarded.
 5. Haram means forbidden, prohibited. An act from which one must
 abstain. If someone performs a haram act, he will be punished either by
 the Islamic court or in the hereafter or both.
-
 

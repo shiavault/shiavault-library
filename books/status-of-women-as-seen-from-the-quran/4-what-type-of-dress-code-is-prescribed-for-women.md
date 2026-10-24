@@ -101,4 +101,3 @@ believing men and women)
 
 12. Small children who are not aware of women's nakedness.
 
-

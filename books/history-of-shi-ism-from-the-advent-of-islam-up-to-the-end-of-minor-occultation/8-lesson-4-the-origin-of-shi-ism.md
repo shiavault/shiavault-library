@@ -67,23 +67,15 @@ have been recorded in their *hadith* references. Take, for example, the
 {*mufassirun*} of the Qur’an—from the Holy Prophet (S) on the commentary
 of the verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ هُمْ
-خَيْرُ الْبَرِيَّةِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ هُمْ
+> خَيْرُ الْبَرِيَّةِ ﴾
 
 ***“Indeed those who have faith and do righteous deeds—it is they who
 are the best of creatures.”***[^9]
 
 Among them is this *hadith* of the Prophet (S) when he said:
 
-<blockquote dir="rtl">
-  <p>
-والّذي نفسي بيده إنّ هذا و شيعته لهم الفائزون يوم القيامة.
-  </p>
-</blockquote>
+> والّذي نفسي بيده إنّ هذا و شيعته لهم الفائزون يوم القيامة.
 
 “By He in Whose hand my life is! Verily, this man (‘Ali) and his Shi‘ah
 shall secure deliverance on the Day of Resurrection.”[^10]
@@ -278,12 +270,8 @@ that the Holy Prophet (S) said:
 When I was brought to the heavenly ascension {*mi‘raj*}, I saw that it
 is thus written on the gate of heaven:
 
-<blockquote dir="rtl">
-  <p>
-لا الٰه الاّ الله، محمّد رسول الله، علىّ حبيب الله، الحسن والحسين صفوة
-الله، فاطمة امة الله، على مبغضهم لعنة الله.
-  </p>
-</blockquote>
+> لا الٰه الاّ الله، محمّد رسول الله، علىّ حبيب الله، الحسن والحسين صفوة
+> الله، فاطمة امة الله، على مبغضهم لعنة الله.
 
 *La ilaha illallah, Muhammadan Rasulullah, ‘Aliyyun* *Habib Allah
 Al-Hasan wa’l-Husayn* *Sifwat Allah, Fatimah Ummat Allah, ‘ala
@@ -523,5 +511,4 @@ Sami Makki al-‘Ani (Qum: Manshurat ash-Sharif ar-Radi, 1416 AH), p. 312.
 
 [^44]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah, 1st edition (Beirut: Dar
 Ihya’ at-Turath al-‘Arabi, 1378), vol. 3, p. 98.
-
 

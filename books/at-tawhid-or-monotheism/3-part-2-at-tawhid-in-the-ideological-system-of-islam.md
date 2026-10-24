@@ -59,13 +59,9 @@ creatures and perhaps the axis of these God-given blessings is man’s
 intellect. In some of the ayat of the Holy Qur’an, too, this creational
 honor has been pointed out:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
-وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ
-كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلًا
-  </p>
-</blockquote>
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
+> وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ
+> كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلًا
 
 ***“And surely We have honored the children of Adam, and We carry them
 in the land and the sea, and We have given them of the good things, and
@@ -94,12 +90,8 @@ rather they will get anti-value and fall so down that they will become
 lower than any animal. About this group of men who have not acquired any
 honor for themselves the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ أُولَٰئِكَ هُمُ
-الْغَافِلُونَ
-  </p>
-</blockquote>
+> أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ أُولَٰئِكَ هُمُ
+> الْغَافِلُونَ
 
 ***“…They are as cattle, nay, they are in worse errors; these are the
 heedless ones (7:179).”***
@@ -110,12 +102,8 @@ lose the God-given honor and buy for himself anti-honor, namely,
 meanness and lowness. The expression of the Holy Qur’an in this regard
 is such:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ ثُمَّ رَدَدْنَاهُ
-أَسْفَلَ سَافِلِينَ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ ثُمَّ رَدَدْنَاهُ
+> أَسْفَلَ سَافِلِينَ
 
 ***“Certainly We created man in the best make. Then We render him the
 lowest of the low (95:4-5).”***
@@ -373,11 +361,7 @@ the concept of fear has also been guaranteed and the expressions of the
 Holy Qur’an and the riwayat and the case of common usage, indicate that
 this is the case:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا…
-  </p>
-</blockquote>
+> وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا…
 
 ***“And be on your guard against a day when one soul shall not avail
 another in the least… (2:48,123).”***
@@ -409,11 +393,7 @@ Islamic culture.
 
 Do meditate about the ayat of the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ…
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ…
 
 ***“O you who believe! Be careful of (your duty to) Allah… (59:18).”***
 
@@ -433,22 +413,14 @@ torment upon him or keep him secure from those dangers. and since the
 man’s fall in the hereafter is the torment in hell, sometimes fire and
 torment have been regarded as pertaining to taqwa:
 
-<blockquote dir="rtl">
-  <p>
-..فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ..
-  </p>
-</blockquote>
+> ..فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ..
 
 ***“…Then fear the fire whose fuel is people and stones… (2:24).”***
 
 The like of the above ayah has also been employed from the root word
 “wiqayah”:
 
-<blockquote dir="rtl">
-  <p>
-..أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا…
-  </p>
-</blockquote>
+> ..أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا…
 
 ***“…Save yourselves and your families from a fire… (66:6).”***
 
@@ -457,11 +429,7 @@ sometimes taqwa is attributed to the fire, torment and hell, due to the
 fact that it (taqwa) is the means which hinders man from fall. Also*,*
 on some occasions, taqwa is attributed to a time:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا…
-  </p>
-</blockquote>
+> وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا…
 
 ***“And be on your guard against a day when one soul shall not avail
 another in the least… (2:48, 123).”***
@@ -619,11 +587,7 @@ Rather it is a matter with stages and these stages arc innumerable and
 have no definite limits and extents either. In the ayah of the Holy
 Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-.. إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ..
-  </p>
-</blockquote>
+> .. إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ..
 
 ***“…Surely the most honorable of you with Allah is the one among you
 most careful (of his duty)… (49:13).”***
@@ -685,11 +649,7 @@ Islamic culture this word (taqwa) has been so much emphasized:
 
 So, taking in to consideration the ayah of the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
 
 ***“…Surely the most honorable of you with Allah is the one among you
 most careful (of his duty)… (49:13).”***
@@ -709,21 +669,13 @@ and should he paid attention to, is that in the value system of Islam,
 taqwa, without relationship with Allah has no value and it is directly
 or indirectly related to Allah. Even this it is said:
 
-<blockquote dir="rtl">
-  <p>
-…. النَّارَ فَاتَّقُوا …
-  </p>
-</blockquote>
+> …. النَّارَ فَاتَّقُوا …
 
 ***“…Then fear the fire… (2:24).”***
 
 The fire is to be feared because it is “Allah’s torment”; or
 
-<blockquote dir="rtl">
-  <p>
-…وَاتَّقُوا يَوْمًا…
-  </p>
-</blockquote>
+> …وَاتَّقُوا يَوْمًا…
 
 ***“And guard yourselves against a day… (2:281).”***
 
@@ -778,14 +730,10 @@ immunity from His torment.
 
 In the following ayah of the Holy Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
-مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-تَعْمَلُونَ وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ
-أَنْفُسَهُمْ أُولَٰئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
+> مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> تَعْمَلُونَ وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ
+> أَنْفُسَهُمْ أُولَٰئِكَ هُمُ الْفَاسِقُونَ
 
 ***“O you who believe! fear Allah, and let every soul consider what it
 has sent on for the morrow, and fear Allah; surely Allah is Aware of
@@ -811,22 +759,14 @@ chooses to. Although, in the Holy Qur’an, taqwa is sometimes applied in
 the face of fujur and sometimes in the face of fisq, but its proof is
 the same.
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
 
 ***“And the soul and Him Who made it perfect, then He inspired it to
 understand what is right and wrong for it (91:7-8).”***
 
 and/or:
 
-<blockquote dir="rtl">
-  <p>
-… أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ...
-  </p>
-</blockquote>
+> … أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ...
 
 ***“…Or shall We make those who guard (against evil) like the wicked?
 (38:28).”***
@@ -835,25 +775,17 @@ In the above ayat of the Holy Qur’an, taqwa has been propounded as a
 general value and fujur has been propounded as an anti-value. The same
 is true of the ayah mentioned before.
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
-أُولَٰئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ
+> أُولَٰئِكَ هُمُ الْفَاسِقُونَ
 
 ***And be not like those who forsook Allah, so He made them forsake
 their own souls: these it is that are the transgressors (59:19).”***
 
 These verses first emphasize taqwa:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
-مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
+> مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> تَعْمَلُونَ
 
 ***“O you who believe! fear Allah, and let every soul consider what it
 has sent on for the morrow, and fear Allah; surely Allah is Aware of
@@ -861,11 +793,7 @@ what you do (59:18).”***
 
 Then, it (the Holy Qur’an) mentions the point opposite to it:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ هُمُ الْفَاسِقُونَ...
-  </p>
-</blockquote>
+> أُولَٰئِكَ هُمُ الْفَاسِقُونَ...
 
 ***“…These it is that are the transgressors (59:19).”***
 
@@ -1002,12 +930,8 @@ it being owned by - and its servitude to - the Almighty Allah. In the
 Holy Qur’an, it has been said that all beings praise Allah and there are
 even a number of suwar which begin with the following sentences:
 
-<blockquote dir="rtl">
-  <p>
-يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ
-الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ
+> الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“Whatever is in the heavens and whatever is in the earth declares the
 glory of Allah… (64:1).”***
@@ -1016,12 +940,8 @@ In other verses of the Holy Qur’an, it has been said that all things
 make sajdah (prostration) to Allah, even the shadows which fall on the
 ground:
 
-<blockquote dir="rtl">
-  <p>
-.. مِنْ شَيْءٍ يَتَفَيَّأُ ظِلَالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ
-سُجَّدًا لِلَّهِ …
-  </p>
-</blockquote>
+> .. مِنْ شَيْءٍ يَتَفَيَّأُ ظِلَالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ
+> سُجَّدًا لِلَّهِ …
 
 ***“…Its (very) shadows return from right and left, making obeisance to
 Allah… (16:48).”***
@@ -1030,11 +950,7 @@ More delicate than these, the Holy Qur’an says that the sound of the
 thunder and the song of nightingales and the twitter of sweet-singing
 birds are all praise of Allah:
 
-<blockquote dir="rtl">
-  <p>
-..وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ
-  </p>
-</blockquote>
+> ..وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ
 
 ***“And the thunder declares His glory with His praise, and the angels
 too are in awe of Him… (13:13).”***
@@ -1042,12 +958,8 @@ too are in awe of Him… (13:13).”***
 And finally, the most general ayah of the Holy Qur’an in this connection
 is the following:
 
-<blockquote dir="rtl">
-  <p>
-…وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
-تَفْقَهُونَ تَسْبِيحَهُمْ …
-  </p>
-</blockquote>
+> …وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا
+> تَفْقَهُونَ تَسْبِيحَهُمْ …
 
 ***their glorification… (17:44).”***
 
@@ -1092,13 +1004,9 @@ man’s conduct is a conduct of ‘ibadah (a conduct of servitude), either
 
 In the Holy Qur’an, Allah says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا
-الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ وَأَنِ اعْبُدُونِي ۚ
-هَٰذَا صِرَاطٌ مُسْتَقِيمٌ 
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا
+> الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ وَأَنِ اعْبُدُونِي ۚ
+> هَٰذَا صِرَاطٌ مُسْتَقِيمٌ
 
 ***“Did I not charge you, O children of Adam! that you should not serve
 the shaitan? Surely he is your open enemy. And that you should serve Me;
@@ -1195,11 +1103,7 @@ the individual himself’? Whereas the Holy Qur’an cites such persons with
 a very exalted interpretation and at the loftiest level of value and
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ …
-  </p>
-</blockquote>
+> فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ …
 
 ***“So no soul knows what is hidden for them of that which will refresh
 the eyes… (32:17).”***
@@ -1236,11 +1140,7 @@ and perfect obedience and humbling oneself before Allah? In this regard,
 from the outlook of Islam and the ayat of the Holy Qur’an and the
 riwayat, we have no doubt, for the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
 
 ***“And I have not created the jinn and the men except that they should
 worship Me (51:56).”***
@@ -1253,11 +1153,7 @@ come to realize that this is not the final goal, this very ‘ibadah for
 Allah in another ayah of the Holy Qur’an, has been propounded as the
 right way.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ
-  </p>
-</blockquote>
+> وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ
 
 ***“And that you should serve Me; this is the right way (36:61).”***
 
@@ -1389,21 +1285,13 @@ Rather what makes man superior to and more perfect than the animals and
 other beings is that human and divine soul of his which constitutes the
 proof for the following ayat of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-..وَنَفَخْتُ فِيهِ مِنْ رُوحِي …
-  </p>
-</blockquote>
+> ..وَنَفَخْتُ فِيهِ مِنْ رُوحِي …
 
 ***“…And I breathed into him of My spirit… (15:29 and 38:72).”***
 
 and,
 
-<blockquote dir="rtl">
-  <p>
-… فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ…
-  </p>
-</blockquote>
+> … فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ…
 
 ***“…So blessed be Allah, the best of the creators (23:14).”***
 
@@ -1442,11 +1330,7 @@ which in today’s world culture has absolute value, in the view of the
 Holy Qur’an, it is valuable since it is a preliminary stage for getting
 closer to taqwa:
 
-<blockquote dir="rtl">
-  <p>
-….اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ…
-  </p>
-</blockquote>
+> ….اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ…
 
 ***“…Act equitably, that is nearer to piety… (5:8).”***
 
@@ -1526,11 +1410,7 @@ and/or this person is away from that person’. Is man’s being near to
 Allah in this sense? where (in the Holy Qur’an) Asiyah - the wife or
 Fir’awn (pharaoh) says:
 
-<blockquote dir="rtl">
-  <p>
-…رَبِّ ابْنِ لِي عِنْدَكَ بَيْتًا فِي الْجَنَّةِ…
-  </p>
-</blockquote>
+> …رَبِّ ابْنِ لِي عِنْدَكَ بَيْتًا فِي الْجَنَّةِ…
 
 ***“…My Lord! Build for me a house with Thee in the garden… (66:11).”***
 
@@ -1568,11 +1448,7 @@ attempted to interpret qurb to Allah in this way, but in reality this
 sense is incorrect too. because firstly, Allah does not resemble
 anything, (as the Holy Qur’an says):
 
-<blockquote dir="rtl">
-  <p>
-… لَيْسَ كَمِثْلِهِ شَيْءٌ …
-  </p>
-</blockquote>
+> … لَيْسَ كَمِثْلِهِ شَيْءٌ …
 
 ***“…Nothing is like a likeness of Him… (42:11).”***
 
@@ -1616,11 +1492,7 @@ is totally wrong.
 Also some have imagined that by qurb, it is meant just what the
 following verse of the Holy Qur’an refers to:
 
-<blockquote dir="rtl">
-  <p>
-…وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ…
-  </p>
-</blockquote>
+> …وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ…
 
 ***“…And We are nearer to him than his life-vein (50:16).”***
 
@@ -1710,11 +1582,7 @@ together. On the one hand, it has been said that:
 
 and on the other hand, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-…نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ…
-  </p>
-</blockquote>
+> …نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ…
 
 ***“…Those who forsook Allah, so He made them forsake their own souls…
 (59:19).”***
@@ -1809,12 +1677,8 @@ In Suratush-Shams (Surah 91 of the Holy Qur’an) in the wake of a number
 of ayat in which the Almighty Allah swears by the sun, by the moon, by
 the night, by the day and the like, He says:
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
-أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
+> أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا
 
 ***“And the soul and Him Who made it perfect, Then He inspired it to
 understand what is right and wrong for it; He will indeed be successful
@@ -1865,36 +1729,20 @@ From another set of the ayat of the Holy Qur’an it is inferred that
 man’s eternal felicity and adversity is the result of his own faith and
 infidelity and praiseworthy and indecent actions:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَىٰ
-  </p>
-</blockquote>
+> وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَىٰ
 
 ***“And that man shall have nothing but what he strives for (53:39).”***
 
-<blockquote dir="rtl">
-  <p>
-…لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ …
-  </p>
-</blockquote>
+> …لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ …
 
 ***“…For it, what it has earned, and against it what it has incurred…
 (2:286).”***
 
-<blockquote dir="rtl">
-  <p>
-..وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ..
-  </p>
-</blockquote>
+> ..وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ..
 
 ***“…And every soul is paid of whatever it has earned (3:25).”***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا…
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا…
 
 ***“The day when every soul shall find present what it has done of good…
 (3:30).”***
@@ -1930,22 +1778,14 @@ light, the generally known physical light is not meant and on the other
 hand, the Holy prophet (SA) of Islam has been introduced (by the Holy
 Quran) as:
 
-<blockquote dir="rtl">
-  <p>
-سِرَاجًا مُنِيرًا..
-  </p>
-</blockquote>
+> سِرَاجًا مُنِيرًا..
 
 ***“…A light-giving torch (33:46).”***
 
 and on the other hand the Holy Qur’an has itself been named “nur”
 (light):
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ…
-  </p>
-</blockquote>
+> قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ…
 
 ***“…There has come to you light and a clear Book from Allah (5:15).”***
 
@@ -1953,11 +1793,7 @@ And also the aim of the revelation of the Holy Qur’an to the Holy
 Prophet (SA) of Islam has been considered (by the Holy Qur’an) to be
 taking the people out of darkness and bringing them into the "light":
 
-<blockquote dir="rtl">
-  <p>
-..لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ..
-  </p>
-</blockquote>
+> ..لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ..
 
 ***“…that you may bring forth men, by their Lord’s permission from utter
 darkness into light… (14:1).”***
@@ -1967,13 +1803,9 @@ who in this world arc possessed of light (nur), versus the infidels and
 those who are disobedient to Allah’s commands who have sunk into
 darkness:
 
-<blockquote dir="rtl">
-  <p>
-أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
-بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
-مِنْهَا …
-  </p>
-</blockquote>
+> أَوَمَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا يَمْشِي
+> بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ
+> مِنْهَا …
 
 ***“Is he who was dead then We raised him to life and made for him a
 light by which he walks among the people, like him whose likeness is
@@ -1983,23 +1815,15 @@ that of one in utter darkness whence he cannot come forth?...
 Finally, among the descriptions or the Resurrection Day, the Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُهُمْ بَيْنَ
-أَيْدِيهِمْ وَبِأَيْمَانِهِمْ…
-  </p>
-</blockquote>
+> يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُهُمْ بَيْنَ
+> أَيْدِيهِمْ وَبِأَيْمَانِهِمْ…
 
 ***“On that day you will see the faithful men and the faithful women--
 their light running before them and on their right hand--… (57:12).”***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
-انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ قِيلَ ارْجِعُوا وَرَاءَكُمْ
-فَالْتَمِسُوا نُورًا….
-  </p>
-</blockquote>
+> يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
+> انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ قِيلَ ارْجِعُوا وَرَاءَكُمْ
+> فَالْتَمِسُوا نُورًا….
 
 ***“On the day when the hypocritical men and the hypocritical women will
 say to those who believe: Wait for us, that we may have light from your
@@ -2011,21 +1835,13 @@ And the most comprehensive ayat in this connection are ayat 35 to 40 of
 Suratun-Nur (Chapter 24) of the Holy Qur’an which start with this
 sentence:
 
-<blockquote dir="rtl">
-  <p>
-.. اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
-  </p>
-</blockquote>
+> .. اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
 
 ***“Allah is the light of the heavens and the earth… (24:35).”***
 
 And ends with this sentence:
 
-<blockquote dir="rtl">
-  <p>
-…وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ
-  </p>
-</blockquote>
+> …وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ
 
 ***“…And to whomsoever Allah does not give light, he has no light
 (24:40).”***
@@ -2053,13 +1869,9 @@ mu’min person which has the perfect aptitude for a relationship with the
 Almighty Allah and is enjoying the divine light. The other ayat confirm
 this view:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ ... رِجَالٌ لَا
-تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ ... رِجَالٌ لَا
+> تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ
 
 ***“In houses which Allah has permitted to be exalted and that His name
 may be remembered in them; there glorify Him therein in the mornings and
@@ -2095,11 +1907,7 @@ it… (24:40).”***
 
 The above ayah ends with the following sentence:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ…
-  </p>
-</blockquote>
+> وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ…
 
 ***“…And to whomsoever Allah does not give light, he has no light
 (24:40).”***
@@ -2145,5 +1953,4 @@ had blinded or had closed their eyes so that they couldn’t look at
 anything haram (forbidden by Islam).
 
 [^3]: Al-‘Usulul-Kafi, vol. 2, p. 352.
-
 

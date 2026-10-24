@@ -208,4 +208,3 @@ then the Muslims would return to power in the twinkling of an eye by
 the will of Allah. Almighty Alla\>h has said: eIf you assist Alla\>h He
 will assist you and He will make your feet firm.
 
-

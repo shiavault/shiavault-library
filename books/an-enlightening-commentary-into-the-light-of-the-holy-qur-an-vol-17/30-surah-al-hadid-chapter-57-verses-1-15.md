@@ -10,11 +10,7 @@ Surah al-Hadid, Chapter 57, Verses 1 - 15
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -63,34 +59,18 @@ mentioned.
 Surah al-Hadid - Verses 1-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ
-الْحَكِيمُ
-  </p>
-</blockquote>
+> سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ
+> الْحَكِيمُ
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ يُحْيِي وَيُمِيتُ وَهُوَ عَلَی
-كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ يُحْيِي وَيُمِيتُ وَهُوَ عَلَی
+> كُلِّ شَيْءٍ قَدِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ
-شَيْءٍ عَلِيمٌ
-  </p>
-</blockquote>
+> هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ
+> شَيْءٍ عَلِيمٌ
 
 ***1. Whatsoever is in the heavens and the earth glorifies Allah and He
 is the Glorious, All-Wise.***  
@@ -265,14 +245,10 @@ Unmanifestation."*[^7]
 Surah al-Hadid - Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ
-ثُمَّ اسْتَوَی عَلَی الْعَرْشِ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا
-يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ السَّمَاء وَمَا يَعْرُجُ فِيهَا
-وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ
+> ثُمَّ اسْتَوَی عَلَی الْعَرْشِ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا
+> يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ السَّمَاء وَمَا يَعْرُجُ فِيهَا
+> وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***4. He it is Who created the heavens and the earth in six days [and
 period of time] and then rose over the Throne. He is All-Aware of what
@@ -436,12 +412,8 @@ of his faith and thought.
 Surah al-Hadid - Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَی اللَّهِ تُرْجَعُ
-الأمُورُ
-  </p>
-</blockquote>
+> لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَی اللَّهِ تُرْجَعُ
+> الأمُورُ
 
 ***5. His is the Sovereignty of the heavens and the earth and to Allah
 return all things.***
@@ -460,12 +432,8 @@ existence shall return to Him.
 Surah al-Hadid - Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ
-وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ
-  </p>
-</blockquote>
+> يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ
+> وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ
 
 ***6. He merges night into day and merges day into night and He has full
 knowledge of the secrets and intentions in the hearts.***
@@ -532,13 +500,9 @@ assuming Divine Attributes.
 Surah al-Hadid - Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-آمِنُوا بِاللَّهِ وَرَسُولِهِ وَأَنفِقُوا مِمَّا جَعَلَكُم
-مُّسْتَخْلَفِينَ فِيهِ فَالَّذِينَ آمَنُوا مِنكُمْ وَأَنفَقُوا لَهُمْ
-أَجْرٌ كَبِيرٌ
-  </p>
-</blockquote>
+> آمِنُوا بِاللَّهِ وَرَسُولِهِ وَأَنفِقُوا مِمَّا جَعَلَكُم
+> مُّسْتَخْلَفِينَ فِيهِ فَالَّذِينَ آمَنُوا مِنكُمْ وَأَنفَقُوا لَهُمْ
+> أَجْرٌ كَبِيرٌ
 
 ***7. Believe in Allah and His Messenger and expend of that whereof He
 has made you trustees. And such of you who believe and expend in Allah's
@@ -583,13 +547,9 @@ shall be a great reward").***
 Surah al-Hadid - Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَكُمْ لاَ تُؤْمِنُونَ بِاللَّهِ وَالرَّسُولُ يَدْعُوكُمْ
-لِتُؤْمِنُوا بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَاقَكُمْ إِن كُنتُم
-مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> وَمَا لَكُمْ لاَ تُؤْمِنُونَ بِاللَّهِ وَالرَّسُولُ يَدْعُوكُمْ
+> لِتُؤْمِنُوا بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَاقَكُمْ إِن كُنتُم
+> مُّؤْمِنِينَ
 
 ***8. And what is the matter with you that you believe not in Allah!
 While the Messenger invites you to believe in your Lord and He has
@@ -685,13 +645,9 @@ the world of pre-existence (‘alam al-dharr). God Almighty knows better.
 Surah al-Hadid - Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي يُنَزِّلُ عَلَی عَبْدِهِ آيَاتٍ بَيِّنَاتٍ لِيُخْرِجَكُم
-مِّنَ الظُّلُمَاتِ إِلَی النُّورِ وَإِنَّ اللَّهَ بِكُمْ لَرَؤُوفٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> هُوَ الَّذِي يُنَزِّلُ عَلَی عَبْدِهِ آيَاتٍ بَيِّنَاتٍ لِيُخْرِجَكُم
+> مِّنَ الظُّلُمَاتِ إِلَی النُّورِ وَإِنَّ اللَّهَ بِكُمْ لَرَؤُوفٌ
+> رَّحِيمٌ
 
 ***9. It is He Who sends down clear and elucidating Verses to His
 servant that He may bring you out from shadows into light. And indeed,
@@ -729,15 +685,11 @@ toward the obedient and the disobedient respectively.
 Surah al-Hadid - Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَكُمْ أَلَّا تُنفِقُوا فِي سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَاثُ
-السَّمَاوَاتِ وَالْأَرْضِ لاَ يَسْتَوِي مِنكُم مَّنْ أَنفَقَ مِن
-قَبْلِ الْفَتْحِ وَقَاتَلَ أُوْلَئِكَ أَعْظَمُ دَرَجَةً مِّنَ
-الَّذِينَ أَنفَقُوا مِن بَعْدُ وَقَاتَلُوا وَكُلًّا وَعَدَ اللَّهُ
-الْحُسْنَی وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> وَمَا لَكُمْ أَلَّا تُنفِقُوا فِي سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَاثُ
+> السَّمَاوَاتِ وَالْأَرْضِ لاَ يَسْتَوِي مِنكُم مَّنْ أَنفَقَ مِن
+> قَبْلِ الْفَتْحِ وَقَاتَلَ أُوْلَئِكَ أَعْظَمُ دَرَجَةً مِّنَ
+> الَّذِينَ أَنفَقُوا مِن بَعْدُ وَقَاتَلُوا وَكُلًّا وَعَدَ اللَّهُ
+> الْحُسْنَی وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ***10. And what is the matter with you that you expend not in the Cause
 of Allah [whereas you leave whatever you possess and pass away]? And to
@@ -777,12 +729,8 @@ as well as intention and sincerity.
 Surah al-Hadid - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-وَلَهُ أَجْرٌ كَرِيمٌ
-  </p>
-</blockquote>
+> مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> وَلَهُ أَجْرٌ كَرِيمٌ
 
 ***11. Who is he that will lend Allah a goodly loan? Then Allah will
 increase it manifold to his credit and he will have a good reward.***
@@ -825,14 +773,10 @@ Verse in question reflects contributions made to the Lord of the Age
 Surah al-Hadid - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَرَی الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَی نُورُهُم بَيْنَ
-أَيْدِيهِمْ وَبِأَيْمَانِهِم بُشْرَاكُمُ الْيَوْمَ جَنَّاتٌ تَجْرِي
-مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ هُوَ الْفَوْزُ
-الْعَظِيمُ
-  </p>
-</blockquote>
+> يَوْمَ تَرَی الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَی نُورُهُم بَيْنَ
+> أَيْدِيهِمْ وَبِأَيْمَانِهِم بُشْرَاكُمُ الْيَوْمَ جَنَّاتٌ تَجْرِي
+> مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ هُوَ الْفَوْزُ
+> الْعَظِيمُ
 
 ***12. On the Day you shall see the believing men and the believing
 women: their light running forward before them and by their right hands.
@@ -880,14 +824,10 @@ happiness and merit shall be bestowed upon believers.
 Surah al-Hadid - Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
-انظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ارْجِعُوا وَرَاءكُمْ
-فَالْتَمِسُوا نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُ بَابٌ بَاطِنُهُ
-فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِن قِبَلِهِ الْعَذَابُ
-  </p>
-</blockquote>
+> يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا
+> انظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ارْجِعُوا وَرَاءكُمْ
+> فَالْتَمِسُوا نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُ بَابٌ بَاطِنُهُ
+> فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِن قِبَلِهِ الْعَذَابُ
 
 ***13. On the Day when the hypocrites – men and women – will say to the
 believers: "Glance at us! Let us get something from your light!" It will
@@ -943,14 +883,10 @@ believers.
 Surah al-Hadid - Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ قَالُوا بَلَی وَلَكِنَّكُمْ
-فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ وَغَرَّتْكُمُ
-الْأَمَانِيُّ حَتَّی جَاء أَمْرُ اللَّهِ وَغَرَّكُم بِاللَّهِ
-الْغَرُورُ
-  </p>
-</blockquote>
+> يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ قَالُوا بَلَی وَلَكِنَّكُمْ
+> فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ وَغَرَّتْكُمُ
+> الْأَمَانِيُّ حَتَّی جَاء أَمْرُ اللَّهِ وَغَرَّكُم بِاللَّهِ
+> الْغَرُورُ
 
 ***14. [The hypocrites] will call the believers: "Were we not with you?"
 The believers will reply: "Yes! But you led yourselves into sedition and
@@ -1005,12 +941,8 @@ believers.
 Surah al-Hadid - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لاَ يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلاَ مِنَ الَّذِينَ
-كَفَرُوا مَأْوَاكُمُ النَّارُ هِيَ مَوْلاَكُمْ وَبِئْسَ الْمَصِيرُ
-  </p>
-</blockquote>
+> فَالْيَوْمَ لاَ يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلاَ مِنَ الَّذِينَ
+> كَفَرُوا مَأْوَاكُمُ النَّارُ هِيَ مَوْلاَكُمْ وَبِئْسَ الْمَصِيرُ
 
 ***15. Therefore, this Day no ransom shall be taken from you
 [hypocrites], nor of those who disbelieved. Our abode is the Fire. That
@@ -1065,5 +997,4 @@ blessed Verse in question.
 Tafsir Nimuna; and other exegetic works.
 
 [^14]: Tafsir Safi, p. 522, under the blessed Verse in question.
-
 

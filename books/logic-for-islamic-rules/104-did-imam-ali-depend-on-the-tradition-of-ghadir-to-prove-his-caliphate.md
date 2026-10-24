@@ -41,7 +41,7 @@ I put you under the oath of Allah and ask you is there anyone among you
 regarding whom the Holy Prophet (a.s.) has said: Of whomsoever I am the
 master, this Ali is his master too. O Allah love those who love Ali and
 help those who help Ali, And those who are present here should convey
-this to those who are absent<sub>.</sub> [1]
+this to those who are absent. [1]
 
 On this juncture the members of shura confessed that this distinction
 was solely for Ali (a.s.).

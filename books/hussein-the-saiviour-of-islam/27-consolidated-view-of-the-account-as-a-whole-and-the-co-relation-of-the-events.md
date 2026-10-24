@@ -375,4 +375,3 @@ and the wholeale heart-rending massacre of Karbala would never at all
 have taken place, the world today, under the godly rule of the Ahlul-
 Bait had enjoyed the heavenly bliss on earth.
 
-

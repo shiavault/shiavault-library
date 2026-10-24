@@ -59,7 +59,6 @@ implore Allah, the Most Exalted to guide the Ummah along the blessed
 path of Islam, and to accept the selfless deeds of fasting Muslims. He
 is the Most Excellent Patron, the Most Excellent Helper.
 
-
 AL-BALA GH FOUNDATION
 
 **THE PROPHET'S SERMON ON THE ADVENT OF RAMADHAN**
@@ -85,7 +84,6 @@ his illustrious forefathers from Lmam Au (a.s.) that once on the advent
 of Ramadhan, Prophet Muhammad (s.a.w.)\* delivered the following
 sermon:
 
-<p dir="rtl">
 (( أيها الناس انه قد اقبل اليكم شهر الله بالبركة والرحمة والمغفرة ,شهر
 هو عند الله أفضل الشهور,وأيامه أفضل الايام ,ولياليه أفضل الليالي,
 وساعاته أفضل الساعات ... وهوشهردعيتم فيه الى ضيافةالله , وجعلتم فيهمن
@@ -99,19 +97,14 @@ sermon:
 وارفعوا اليه ايديكم بالدعاء في أوقات صلاتكم فانها افضل الساعات, ينظرالله
 عزوجل فيها بالرحمة الىعباده,... يجيبهم اذا ناجوه, ويلبيهم اذا
 نادوه,ويعطيهم اذا سألوه, ويستجيب لهم اذا دعوه.
-</p>
 
-<p dir="rtl">
 أيها الناس ان انفسكم مرهونة باعمالكم,ففكوها باستغفاركم, وظهوركم ثقيلة
 من أوزاركم, فخففوا عنها بطول سجودكم, واعلمواان الله اقسم بعزته ان لايعذب
 المصلين والساجدين, وان لا يروعهم بالنار يوم يقوم الناس لرب العالمين.
-</p>
 
-<p dir="rtl">
 أيها الناس من فطرمنكم صائما مؤمنا في هذا الشهر كانله بذلكعند الله عتق
 رقبة, ومغفرة لمامضى من ذنوبه,قيل:يارسول الله , فليس كلنا نقدر على ذلك,
 فقال(ص) ((اتقوا النار,ولوبشق تمرة,اتقوا النار,ولوبشربة من ماء))
-</p>
 
 ---------------------------------------------------------------------
 \* (a. s.) stands for: alayhi / alayha / alayhim as-salaam (peace be
@@ -197,7 +190,6 @@ you." Amir AI-Mu'mineen Au (a.s.) said :
 month?' He replied: 0 Abu'l Hassan, the best of deeds in this month is
 to be far from what Allah has forbidden."\*
 
-
 **Fasting - Worship**
 
 "0 you who believe, fasting is prescribed for you as it was prescribed
@@ -218,7 +210,6 @@ decreed), and exalt Allah for His guiding you, so that you might be
 thankful."
 
 Holy Qur'an (2 :183 - 185)
-
 
 **A Definition Of Fasting**
 
@@ -320,5 +311,4 @@ Prophet on the chain of authority of his noble forefathers:
 "0 people, anybody who a, this month cultivates good manners will walk
 over the Sirat (bridge to Paradise) on the day when feet will tend to
 slip... " \*
-
 

@@ -80,4 +80,3 @@ cuddling it for she saw in his demise her waning strength, the departure
 of the protector of her privacy and honour, and the crumbling of the
 buttress of her house.
 
-

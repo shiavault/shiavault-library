@@ -94,11 +94,7 @@ creation].
 Hereafter.
 
 > 22ـ ثَمَرَةُ الكِذْبِ المَهانَةُ فِي الدُّنْيا والعَذابُ فِي
-<blockquote dir="rtl">
-  <p>
-الآخِرَةِ.
-  </p>
-</blockquote>
+> الآخِرَةِ.
 
 23. Eschew lying for indeed it alienates one from faith.
 
@@ -108,11 +104,7 @@ Hereafter.
 the cautious one is the gravest lapse.
 
 > 24ـ عِلَّةُ الكِذْبِ شَرُّ عِلَّة، وزَلَّةُ المُتَوَقِّي أشَدُّ
-<blockquote dir="rtl">
-  <p>
-زَلَّة.
-  </p>
-</blockquote>
+> زَلَّة.
 
 25. The consequence of lying is rebuke and regret.
 
@@ -131,11 +123,7 @@ honouring the truth.
 when he is faced with severe tribulation.
 
 > 28ـ قَدْ يَكْذِبُ الرَّجُلُ عَلى نَفْسِهِ عِنْدَ شِدَّةِ البَلاءِ بِما
-<blockquote dir="rtl">
-  <p>
-لَمْ يَفْعَلْهُ.
-  </p>
-</blockquote>
+> لَمْ يَفْعَلْهُ.
 
 29. Excessive lying leads to slander.
 
@@ -176,5 +164,4 @@ seriousness is idle play.
 > 37ـ أكْثَرُ شَيْء اَلكِذْبُ والخِيانَةُ.
 
 [^1]: Or: ...dishonesty to the people of virtue.
-
 

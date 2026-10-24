@@ -124,4 +124,3 @@ and all that was in it in order to attain everlasting success and glory.
 [^2]: Nāsikh al-Tawārīkh, Hālāt-e Rasūl-e Khudā (States of the Messenger
 of Allah (S)), vol. 3, p. 213.
 
-

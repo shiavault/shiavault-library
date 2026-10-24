@@ -106,4 +106,3 @@ Islam is the peace treaty of Hodaibiyah.
 
 17- Mufti shafi                      Maarif  Al-Quran
 
-

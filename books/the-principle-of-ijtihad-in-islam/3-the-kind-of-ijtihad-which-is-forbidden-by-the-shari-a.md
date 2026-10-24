@@ -108,4 +108,3 @@ and forbade people to follow anyone apart from these four persons. This
 measure was first taken in Egypt in the seventh hijri century, and then
 taken up in the rest of the lands of Islam.
 
-

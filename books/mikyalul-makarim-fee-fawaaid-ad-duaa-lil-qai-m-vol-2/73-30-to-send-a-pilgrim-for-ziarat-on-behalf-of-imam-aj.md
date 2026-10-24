@@ -8,4 +8,3 @@ and piety and it is a gesture of love for the kinsfolk of the Prophet
 the recommended nature of sending proxy for Hajj and Tawaf are
 applicable for this also.
 
-

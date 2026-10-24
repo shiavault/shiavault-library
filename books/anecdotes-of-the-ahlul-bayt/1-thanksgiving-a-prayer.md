@@ -43,4 +43,3 @@ Thanksgiving – A Prayer
 
 *incon**s**equential me*
 
-

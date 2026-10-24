@@ -180,7 +180,6 @@ and Muslims won.(27) It is stated in another narration: " When a
 difficulty arises for a believing servant, and he recites this Holy
 verse, it will become easy for him". (28)
 
-
 --------------- pg 55 ---------------
 
 " Guide us (O' Lord) on the Straight Path." Commentary : After
@@ -255,5 +254,4 @@ So, it is no wonder that even the prophets and sinless Imams
 Absolute Perfection is Allah and all of us, without any exception, are
 on the path of perfection, then it is acceptable that they, too, ask Him
 for higher promotions.
-
 

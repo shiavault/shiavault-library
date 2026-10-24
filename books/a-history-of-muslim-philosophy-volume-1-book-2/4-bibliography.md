@@ -28,4 +28,3 @@ ibn Abd al‑Barr, al‑Isti’ab, Dairatul‑Maarif, Hyderabad, 1337/1918;
 
 ibn Manzur, Lisan al‑'Arab, Beirut, 1956.
 
-

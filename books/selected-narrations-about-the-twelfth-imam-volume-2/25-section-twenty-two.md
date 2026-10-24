@@ -305,4 +305,3 @@ we have to rely on the original manuscripts of the book; Biḥār al-anwār,
 vol. 51, chap. 16, pp. 363–364, no. 11; Ithbāt al-hudāt, vol. 3, chap.
 32, p. 506, no. 313, citing al-Ghayba which has also recorded ‘Khadīja.’
 
-

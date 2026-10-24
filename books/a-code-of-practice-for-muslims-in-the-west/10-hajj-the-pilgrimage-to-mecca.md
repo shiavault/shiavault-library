@@ -232,4 +232,3 @@ becomes unbearable. And Allah knows the best.
 [^5]: Shaykh as-Sadûq, Muhammad bin 'Ali Ibn Babwayh, Man La Yahdhuruhu
 'l-Faqih, vol. 4, p. 266.
 
-

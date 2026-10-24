@@ -135,7 +135,6 @@ the writings of orientalists, his accomplishments in that age are
 definitely outstanding, though this point is not relevant to the present
 discussion.
 
-
 **Class Structure and Social Divisions**
 
 Briefly then, such a government existed in the region, in the eastern
@@ -274,5 +273,4 @@ Palestine and a small portion of Jordan as well, we come across such
 individuals who were superior to Iran in learning. From the economic
 aspect, too, they enjoyed better conditions, and were richer and more
 prosperous than Arabia.
-
 

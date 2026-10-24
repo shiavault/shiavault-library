@@ -4,19 +4,11 @@ Section 6: The Evidence of Those Given Knowledge and Faith
 Surah Ar-Room – Verse 54
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي خَلَقَكُم مِن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ
-قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفاً وَشَيْبَةً يَخْلُقُ
-مَا يَشَآءُ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي خَلَقَكُم مِن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ
+> قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفاً وَشَيْبَةً يَخْلُقُ
+> مَا يَشَآءُ
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الْعَلِيمُ الْقَدِيرُ
-  </p>
-</blockquote>
+> وَهُوَ الْعَلِيمُ الْقَدِيرُ
 
 ***54. “Allah is He Who created you out of weakness, then He gave
 strength after weakness, then after strength He appointed weakness and
@@ -84,12 +76,8 @@ you both reward and retribution.
 Surah Ar-Room – Verse 55
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُـجْرِمُونَ مَا لَبِثُوا
-غَيْرَ سَاعَةٍ كَذَلِكَ كَانُوا يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُـجْرِمُونَ مَا لَبِثُوا
+> غَيْرَ سَاعَةٍ كَذَلِكَ كَانُوا يُؤْفَكُونَ
 
 ***55. “And on the Day that the Hour (of Judgment) will be established,
 the guilty will swear that they tarried not but an hour; thus were they
@@ -191,13 +179,9 @@ verses.
 Surah Ar-Room – Verse 56
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ اُوتُوا الْعِلْمَ وَالإِيمَانَ لَقَدْ لَبِثْتُمْ فِي
-كِتَابِ اللَّهِ إِلَي يَوْمِ الْبَعْثِ فَهَذَا يَوْمُ الْبَعْثِ
-وَلَكِنَّكُمْ كُنتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ اُوتُوا الْعِلْمَ وَالإِيمَانَ لَقَدْ لَبِثْتُمْ فِي
+> كِتَابِ اللَّهِ إِلَي يَوْمِ الْبَعْثِ فَهَذَا يَوْمُ الْبَعْثِ
+> وَلَكِنَّكُمْ كُنتُمْ لاَ تَعْلَمُونَ
 
 ***56. “And those who have been given knowledge and faith will say (to
 the guilty); ‘certainly you have tarried according to Allah’s Book till
@@ -255,12 +239,8 @@ knowingly, see this distance long.[^2]
 Surah Ar-Room – Verse 57
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَيَوْمَئِذٍ لاَّ يَنفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلاَ هُمْ
-يُسْتَعْتَبُونَ
-  </p>
-</blockquote>
+> فَيَوْمَئِذٍ لاَّ يَنفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلاَ هُمْ
+> يُسْتَعْتَبُونَ
 
 ***57. “So on that Day their excuse shall not profit those who did
 injustice, nor will they be allowed to make amends.”***
@@ -326,13 +306,9 @@ friendly and they accepted it, too.
 Surah Ar-Room – Verse 58
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْءَانِ مِن كُلّ‌ِ مَثَلٍ
-وَلَئِن جِئْتَهُم بِاَيَةٍ لَّيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ
-أَنتُمْ إِلاَّ مُبْطِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْءَانِ مِن كُلّ‌ِ مَثَلٍ
+> وَلَئِن جِئْتَهُم بِاَيَةٍ لَّيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ
+> أَنتُمْ إِلاَّ مُبْطِلُونَ
 
 ***58. “And indeed We have set forth for the people in this Qur’an,
 every kind of similitude, and if you bring unto them a sign, certainly
@@ -391,11 +367,7 @@ disbelievers opposed the whole adherents of this school of thought.
 Surah Ar-Room – Verse 59
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ يَطْبَعُ اللَّهُ عَلَي قُلُوبِ الَّذِينَ لاَيَعْلَمُونَ
-  </p>
-</blockquote>
+> كَذَلِكَ يَطْبَعُ اللَّهُ عَلَي قُلُوبِ الَّذِينَ لاَيَعْلَمُونَ
 
 ***59. “Thus does Allah set a seal on the hearts of those who do not
 know.”***
@@ -434,12 +406,8 @@ foundation of disbelief (and the lack of submission before the truth).
 Surah Ar-Room – Verse 60
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلاَ يَسْتَخِفَّنَّكَ الَّذِينَ
-لاَيُوقِنُونَ
-  </p>
-</blockquote>
+> فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلاَ يَسْتَخِفَّنَّكَ الَّذِينَ
+> لاَيُوقِنُونَ
 
 ***60. “So be patient, verily the promise of Allah is True, and let not
 those who have no certainty hold you in light estimation.”***
@@ -533,5 +501,4 @@ outward enemies and inward Satans. Amin, O The Lord of the Worlds!*
 [^5]: Ibid, verse 32
 
 [^6]: Surah ’Ibrahim, No. 14, verse 22
-
 

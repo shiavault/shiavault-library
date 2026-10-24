@@ -370,4 +370,3 @@ arbitration, because they had agreed to the decision by men in the
 matter of religion. The Kharijites said: “Now we are leaving them and
 God be thanked that as compared with others we are on the right path”
 
-

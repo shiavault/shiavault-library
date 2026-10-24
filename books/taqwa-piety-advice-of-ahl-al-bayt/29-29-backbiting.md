@@ -180,4 +180,3 @@ dispersion and humiliation of Muslims and Islam.
 
 [^8]: Jami‘ al-Akhbar, p. 172.
 
-

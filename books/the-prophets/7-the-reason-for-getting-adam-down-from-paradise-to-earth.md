@@ -181,4 +181,3 @@ ourselves and made a confession of our sins, O may You forgive us, then
 did God say: get down from My heavens to earth for no sinners would be
 in My paradise nor My heavens.
 
-

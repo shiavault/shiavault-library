@@ -6,16 +6,12 @@ The best deed before Allah (swt)
 
 **Surah Al – Ahqaf, 46:15-16**
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
-كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
-حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
-أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
+> كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
+> حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
+> أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
 
 Wa was-say-nal-’insaana bi-waali-day-i’ ihsaanaa: hamalat-hu ’um-muhuu
 kurhanw-wa waza-‘at-hu kurhaa. Wa hamluhuu wa fisaaluhuu thalaa-thuuna
@@ -37,13 +33,9 @@ acceptance; and grant me righteousness in my offspring (as well).
 Verily, unto Thee have I turned in repentance: for, verily, I am of
 those who have surrendered themselves unto Thee!”*
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا
-وَنَتَجاوَزُ عَن سَيِّئَاتِهِمْ فِي أَصْحَابِ الْجَنَّةِ وَعْدَ
-الصِّدْقِ الَّذِي كَانُوا يُوعَدُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا
+> وَنَتَجاوَزُ عَن سَيِّئَاتِهِمْ فِي أَصْحَابِ الْجَنَّةِ وَعْدَ
+> الصِّدْقِ الَّذِي كَانُوا يُوعَدُونَ
 
 ’Ulaaa-’ikal-laziina nataqab-balu ‘anhum ’ahsana maa-‘amiluu wa
 natajaa-wazu ‘an say-yi-’aatihim fiii ’as-haabil-Jan-na:
@@ -64,13 +56,9 @@ Status of Parents in Islam
 
 **Surah Luqman, 13 :14**
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا
-عَلَى وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي
-وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا
+> عَلَى وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي
+> وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
 
 Wa was-say-nal’ insaana biwaaliday: hamalat-hu ’um-muhuu wahnan ‘alaa
 wahninw-wa fisaaluhuu fii ‘aamayni ’anish-kur lii wa li-waalidayk:
@@ -87,19 +75,11 @@ Utmost respect and veneration to Parents, after Allah (swt)
 
 **Surah Al – Isra’, 17:23**
 
-<blockquote dir="rtl">
-  <p>
-وَقَضَى رَبُّكَ أَلاَّ تَعْبُدُواْ إِلاَّ إِيَّاهُ وَبِالْوَالِدَيْنِ
-إِحْسَانًا إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ
-  </p>
-</blockquote>
+> وَقَضَى رَبُّكَ أَلاَّ تَعْبُدُواْ إِلاَّ إِيَّاهُ وَبِالْوَالِدَيْنِ
+> إِحْسَانًا إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ
 
-<blockquote dir="rtl">
-  <p>
-أَحَدُهُمَا أَوْ كِلاَهُمَا فَلاَ تَقُل لَّهُمَا أُفٍّ وَلاَ
-تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلاً كَرِيمًا
-  </p>
-</blockquote>
+> أَحَدُهُمَا أَوْ كِلاَهُمَا فَلاَ تَقُل لَّهُمَا أُفٍّ وَلاَ
+> تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلاً كَرِيمًا
 
 Wa qazaa Rab-buka ’al-laa ta‘-buduuu ’il-laaa ’iy-yaahu wa
 bil-waa-lidayni ’ihsaa-naa. ’Im-maa yablu-ghan-na ‘indakal-ki-bara
@@ -128,12 +108,8 @@ Prayer for one’s parents
 
 **Surah Ibrahim, 14:41**
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
-الْحِسَابُ
-  </p>
-</blockquote>
+> رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
+> الْحِسَابُ
 
 Rab-ba-nagh-fir lii wa li-waa-li-day-ya walil-Mu’mi-niina Yawma
 yaquu-mul-Hisaab!
@@ -143,18 +119,10 @@ believers, on the Day on which the (last) reckoning will come to pass!”*
 
 **Surah Al-Isra’, 17:24**
 
-<blockquote dir="rtl">
-  <p>
-وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُل رَّبِّ
-ارْحَمْهُمَا كَمَا رَبَّيَانِي
-  </p>
-</blockquote>
+> وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُل رَّبِّ
+> ارْحَمْهُمَا كَمَا رَبَّيَانِي
 
-<blockquote dir="rtl">
-  <p>
-صَغِيرًا
-  </p>
-</blockquote>
+> صَغِيرًا
 
 Wakh-fiz la-humaa janaa-haz-zul-li minar-rahmati wa
 qur-Rab-bir-ham-humaa kamaa rab-ba-yaanii saghiiraa.
@@ -178,13 +146,9 @@ Dua for Parents and the Believers
 
 **Surah Nuh, 71:28**
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا
-وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
-تَبَارًا
-  </p>
-</blockquote>
+> رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا
+> وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
+> تَبَارًا
 
 Rab-bigh-fir lii wa liwaali-day-ya wa liman-dakhala bay-tiya Mu’-minaw
 wa lil-mu‘miniina wal mo‘minaat; wa laa tazidiz - zaalimiina ’il-laa
@@ -196,5 +160,4 @@ believing men and believing women (of later times); and grant Thou that
 the doers of evil shall increasingly meet with destruction!”*
 
 This verse is recited in the Qunoot of Salaat Hadiyan-e-Walidain.
-
 

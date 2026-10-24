@@ -190,4 +190,3 @@ Thomas Arnold and A. Guil­laume (Eds.), The Legacy of Islam, 1931.
 [^5]: G. Sarton, Introduction to the History of Science, Vol. 11, p.
 216.
 
-

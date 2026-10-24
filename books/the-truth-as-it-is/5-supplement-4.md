@@ -316,4 +316,3 @@ al-Nabiy’.
 [^39] For more details, refer to the argumentative proofs on the
 obligation of khums presented by books of Shi\`ite jurisprudence.
 
-

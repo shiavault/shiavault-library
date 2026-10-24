@@ -141,4 +141,3 @@ Prophet's (as) wish.
 I prefer the second opinion. Yet, I leave it to Allah, for He is the
 Omniscient.
 
-

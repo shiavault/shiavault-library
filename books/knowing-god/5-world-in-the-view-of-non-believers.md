@@ -87,4 +87,3 @@ secrete poison and he continues to live in that pain and chastisement.
 How nice it had been if he had used the faculty of reason and had
 obtained the right and satisfactory replies.
 
-

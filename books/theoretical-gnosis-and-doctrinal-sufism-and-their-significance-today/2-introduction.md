@@ -39,4 +39,3 @@ preserved and has continued to flourish over all these centuries,
 exercising immense influence in many domains of Islamic thought while
 remaining for many the crown of all knowledge.
 
-

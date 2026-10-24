@@ -18,11 +18,7 @@ verses of the Qur’an this reality has been asserted that had Allah
 compulsion. However such faith would not have proved beneficial to
 them.[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا
-  </p>
-</blockquote>
+> وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا
 
 ***“And if your Lord had pleased, surely all those who are in the Earth
 would have believed - all of them.”***[^2]
@@ -30,5 +26,4 @@ would have believed - all of them.”***[^2]
 [^1]: Ibid., vol. 13, pg. 375
 
 [^2]: Surat Yunus (10), Verse 99
-
 

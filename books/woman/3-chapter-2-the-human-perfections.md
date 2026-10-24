@@ -572,4 +572,3 @@ Mu'tuq.
 
 [^43]: Risaalat Al-Islam, issue no. I p. 83.
 
-

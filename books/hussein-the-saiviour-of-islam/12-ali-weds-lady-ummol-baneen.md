@@ -357,4 +357,3 @@ independent monarch at Damascus, making the place a powerful stronghold
 to execute his rebellious plans against the central authority, and had
 assumed for himself the sole indefiable paramount power of a despot.
 
-

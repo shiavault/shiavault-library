@@ -442,4 +442,3 @@ you all in the protection of Almighty Allah (SWT). Peace be upon you
 all.. I give you all in the protection of Almighty Allah (SWT). Peace be
 upon you all.**
 
-

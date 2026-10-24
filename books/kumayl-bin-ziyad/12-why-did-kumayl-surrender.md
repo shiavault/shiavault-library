@@ -12,4 +12,3 @@ to save them from persecution.
 *Kumayl, order your family to do good. Order them to help people at
 night.*
 
-

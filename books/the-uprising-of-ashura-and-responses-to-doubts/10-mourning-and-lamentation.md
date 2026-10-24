@@ -89,13 +89,9 @@ Allah nor the sacred month, nor interfere with the offerings, nor the
 sacrificial animals with the garlands, nor those going to the Sacred
 House seeking the grace and pleasure of their Lord.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُحِلُّوا شَعَائِرَ اللهِ وَلاََ
-الشَّهرَ الحَرَامَ وَلاَ الهَدي وَلاَ القَلائِدَ وَلا آمِّينَ
-الْبَيْتَ الحَرَامَ ...﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُحِلُّوا شَعَائِرَ اللهِ وَلاََ
+> الشَّهرَ الحَرَامَ وَلاَ الهَدي وَلاَ القَلائِدَ وَلا آمِّينَ
+> الْبَيْتَ الحَرَامَ ...﴾
 
 We can infer two possibilities from this verse:
 
@@ -113,12 +109,8 @@ application.
 whoever respects the signs of Allah, this is the outcome of the piety of
 the hearts.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ذَلِکَ وَمَن يُعَظِّمْ شَعَائِرَ اللهِ فَإِنَّهَا مِنْ تَقوَي
-الْقُلُوبِ ﴾
-  </p>
-</blockquote>
+> ﴿ ذَلِکَ وَمَن يُعَظِّمْ شَعَائِرَ اللهِ فَإِنَّهَا مِنْ تَقوَي
+> الْقُلُوبِ ﴾
 
 This is the most clear and indisputable verse of the Holy Qur’an which
 proves the permissibility of holding religious rites. This verse denotes
@@ -128,12 +120,8 @@ act beloved by Allah.
 3. ***“And as for the camels (of sacrifice), We have made them of the
 signs of Allah for you,*** ***for you therein is much good.”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالْبُدْنَ جَعَلْنَاهَا لَکُمْ مِنْ شَعَائِرِ اللهِ لَکُمْ فِيهَا
-خَيرٌ ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَالْبُدْنَ جَعَلْنَاهَا لَکُمْ مِنْ شَعَائِرِ اللهِ لَکُمْ فِيهَا
+> خَيرٌ ... ﴾
 
 In this verse, the discriminate [*tab‘idiyyah*] preposition “of” [*min*]
 (of the signs) has been employed. It denotes that the camels brought for
@@ -144,24 +132,16 @@ Allah.
 so whoever makes a pilgrimage to the House or pays a visit to it, there
 is no blame on him if he goes around them both.”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الصَّفَا وَالمَرْوَةَ مِنْ شَعَائِرِ اللهِ فَمَنْ حَجَّ
-الْبَيْتِ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيهِ أَنْ يَطَّوَّفَ
-بِهِمَا... ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الصَّفَا وَالمَرْوَةَ مِنْ شَعَائِرِ اللهِ فَمَنْ حَجَّ
+> الْبَيْتِ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيهِ أَنْ يَطَّوَّفَ
+> بِهِمَا... ﴾
 
 5. ***“There is no blame on you seeking bounty from your Lord, so when
 you hasten on from ‘Arafat, then remember Allah near the Holy
 Monument…”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذا أَفَضْتُمْ مِنْ عَرَفاتٍ فَاذکُرُوا اللهَ عِنْدَ المَشْعَرِ
-الحَرامِ... ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذا أَفَضْتُمْ مِنْ عَرَفاتٍ فَاذکُرُوا اللهَ عِنْدَ المَشْعَرِ
+> الحَرامِ... ﴾
 
 This Qur’anic verse intends to pronounce and hence permit holding
 religious ceremonies, but it has employed the Arabic word “*mash‘ar*”
@@ -185,17 +165,13 @@ fulfil their vows and let them go around the Ancient House. That (shall
 be so); and whoever respects the sacred ordinances of Allah, it is
 better for him with his Lord.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَذِّنْ فِي النَّاسِ بِالحَجِّ يأْتُوكَ رِجَالاً وَعَلَي کُلِّ
-ضَامِرٍ يأْتِينَ مِنْ کُلِّ فَجٍّ عَمِيقٍ \* لِيشْهَدُوا مَنَافِعَ
-لَهُمْ وَيذْکُرُوا اسْمَ اللهِ فِي أَيَّامٍ مَعْلُومَاتٍ عَلَی مَا
-رَزَقَهُمْ مِنْ بَهِيمَةِ الأَنْعَامِ فَکُلُوا مِنْهَا وَأَطْعِمُوا
-الْبَآئِسَ الْفَقِيرَ \* ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفَُوا
-نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ \* ذَلِكَ وَمَنْ
-يعَظِّمْ حُرُمَاتِ اللهِ فَهُوَ خَيرٌ لَهُ عِنْدَ رَبِّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَذِّنْ فِي النَّاسِ بِالحَجِّ يأْتُوكَ رِجَالاً وَعَلَي کُلِّ
+> ضَامِرٍ يأْتِينَ مِنْ کُلِّ فَجٍّ عَمِيقٍ \* لِيشْهَدُوا مَنَافِعَ
+> لَهُمْ وَيذْکُرُوا اسْمَ اللهِ فِي أَيَّامٍ مَعْلُومَاتٍ عَلَی مَا
+> رَزَقَهُمْ مِنْ بَهِيمَةِ الأَنْعَامِ فَکُلُوا مِنْهَا وَأَطْعِمُوا
+> الْبَآئِسَ الْفَقِيرَ \* ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفَُوا
+> نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ \* ذَلِكَ وَمَنْ
+> يعَظِّمْ حُرُمَاتِ اللهِ فَهُوَ خَيرٌ لَهُ عِنْدَ رَبِّهِ ﴾
 
 Scholars of the divine message and commentators of the Glorious Qur’an
 regard the above mentioned verse—which indicates veneration of divine
@@ -216,12 +192,8 @@ mentioned generally, so the verse can be applied generally.
 Allah will not consent save to perfect His light, though the unbelievers
 may be averse.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللهِ بِأَفْوَاهِهِمْ وَيأْبَي
-اللهُ إِلاّ أَنْ يُتِمَّ نُورَهُ وَلَوْ کَرِهَ الْکَافِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللهِ بِأَفْوَاهِهِمْ وَيأْبَي
+> اللهُ إِلاّ أَنْ يُتِمَّ نُورَهُ وَلَوْ کَرِهَ الْکَافِرُونَ ﴾
 
 Because this verse comes along with verses about holy war [*jihad*],
 inviting people to the Oneness of Allah [*tawhid*], and propagating
@@ -235,12 +207,8 @@ hearts.”*[^11]
 name may be*** ***remembered in them; glorify Him therein in the
 mornings and the evenings.”***[^12]
 
-<blockquote dir="rtl">
-  <p>
-﴿ في بُيُوتٍ أَذِنَ اللهُ أَنْ تُرْفَعَ وَيُذْکَرَ فِيهَا اسمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالغُدُرِّ وَالآصَالِ ﴾
-  </p>
-</blockquote>
+> ﴿ في بُيُوتٍ أَذِنَ اللهُ أَنْ تُرْفَعَ وَيُذْکَرَ فِيهَا اسمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالغُدُرِّ وَالآصَالِ ﴾
 
 If we take the verse that comes before this verse, the Verse of Light
 [*ayat al-nur*], into consideration, it shows that “in houses” [*fi
@@ -269,12 +237,8 @@ word.
 4. ***“And He made lowest the word of those who disbelieved; and the
 word of Allah, that is the highest; and Allah is Mighty, Wise.”***[^13]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَجَعَلَ کَلِمَةَ الَّذِينَ کَفَرُوا السُّفلَي وَکَلِمَةُ اللهِ
-هِيَ العُلْيَا وَاللهُ عَزِيزٌ حَکِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَجَعَلَ کَلِمَةَ الَّذِينَ کَفَرُوا السُّفلَي وَکَلِمَةُ اللهِ
+> هِيَ العُلْيَا وَاللهُ عَزِيزٌ حَکِيمٌ ﴾
 
 It can be understood from this verse that those things that serve to
 honor the word of Allah and to exterminate unbelief [*kufr*] are among
@@ -283,11 +247,7 @@ the goals and objectives of divine law and religion.
 5. ***“And Allah will by no means give the unbelievers a way (to
 triumph) against the believers.”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلَنْ يجعَلَ اللهُ لِلْکَافِرينَ عَلَی المُؤْمِنِينَ سَبِيلاً ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلَنْ يجعَلَ اللهُ لِلْکَافِرينَ عَلَی المُؤْمِنِينَ سَبِيلاً ﴾
 
 This blessed verse alludes to another dimension of the reality of the
 word *sha‘a’ir* and that reality is the aspect of proliferation of the
@@ -524,21 +484,13 @@ act that Qur’anic verses have emphasized.
 
 Allah, the Exalted, says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... اَللهُ مُتِمُّ نُورِهِ ﴾
-  </p>
-</blockquote>
+> ﴿ ... اَللهُ مُتِمُّ نُورِهِ ﴾
 
 ***“Allah has willed to spread His light and religion and shari‘ah.”***
 
 He also says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَکَلِمَةُ اللهِ هِيَ الْعُليا ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَکَلِمَةُ اللهِ هِيَ الْعُليا ﴾
 
 ***“And Allah has willed that His religion should be high and
 honored.”***
@@ -755,5 +707,4 @@ al-‘Alaq 96:1-5) [Trans.]
 [^19]: Tafsir Qurtubi, vol. 12, p. 56.
 
 [^20]: Sihah al-Lughah.
-
 

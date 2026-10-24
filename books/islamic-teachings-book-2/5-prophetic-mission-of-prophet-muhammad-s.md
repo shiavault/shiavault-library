@@ -42,4 +42,3 @@ his Prophethood?
 
 3. Who were the first to accept Islam?
 
-

@@ -643,4 +643,3 @@ Ash-Sha'ia, vol. XIV, pp. 13-24.
 
 [^34]: Kanz Al-'Ummal, vol. XVI, p. 460.
 
-

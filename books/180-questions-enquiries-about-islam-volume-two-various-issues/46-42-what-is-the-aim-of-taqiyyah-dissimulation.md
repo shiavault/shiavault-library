@@ -16,11 +16,7 @@ his responsibilities secretly and in a concealed manner - as the Qur’an
 has indicated in verse 28 of Surat Ale 'Imran or in verse 106 of Suratul
 Nahl, when it says:
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ أُكْرِهَ وَ قَلْبُهُ مُطْمَئِنٌّ بِالإِِيْمَانِ‏
-  </p>
-</blockquote>
+> إِلاَّ مَنْ أُكْرِهَ وَ قَلْبُهُ مُطْمَئِنٌّ بِالإِِيْمَانِ‏
 
 “Except he, who is compelled while his heart is at rest on account of
 faith.”
@@ -33,11 +29,7 @@ polytheists, but 'Ammar uttered what they wished to hear and then,
 weeping out of Allah's fear, hastened towards the Noble Prophet (S), who
 consoled him by saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّْ عَادُوا لَكَ فَعِدْ لَهُمْ.
-  </p>
-</blockquote>
+> إِنَّْ عَادُوا لَكَ فَعِدْ لَهُمْ.
 
 “If they seize you again, say out what they desire you to speak out, and
 in this manner put his anxiety to rest.”
@@ -169,11 +161,7 @@ enemy.
 We observe that in the Islamic traditions too, taqiyyah has been
 compared to a defensive shield. Imam as-Sadiq (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-التَّقِيَّةُ تُرْسُ الْمُؤْمِنِ وَ التَّقِيَّةُ حِرْزُ الْمُؤْمِنِ‏.
-  </p>
-</blockquote>
+> التَّقِيَّةُ تُرْسُ الْمُؤْمِنِ وَ التَّقِيَّةُ حِرْزُ الْمُؤْمِنِ‏.
 
 “Taqiyyah is a believer's shield and a means for his protection.”[^5]
 
@@ -209,5 +197,4 @@ whatever they might be, must be tackled head on.[^6]
 'Amr Bil Ma'ruf
 
 [^6]: Tafsir-e-Namuna, vol. 11, pg. 423
-
 

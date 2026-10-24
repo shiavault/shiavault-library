@@ -4,12 +4,8 @@ Section 3: The Faithful and the Unfaithful Compared
 Surah Ar-Ra‘d – Verse 19
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن يَعْلَمُ أَنَّمَآ اُنزِلَ إِلَيْكَ مِن رَّبّـِكَ الْحَقُّ
-كَمَنْ هُوَ أَعْمَي إِنَّمَا يَتَذَكَّرُ اُولُوا الاَلْبَابِ
-  </p>
-</blockquote>
+> أَفَمَن يَعْلَمُ أَنَّمَآ اُنزِلَ إِلَيْكَ مِن رَّبّـِكَ الْحَقُّ
+> كَمَنْ هُوَ أَعْمَي إِنَّمَا يَتَذَكَّرُ اُولُوا الاَلْبَابِ
 
 ***19. “Is he who knows that what is revealed to you from your Lord is
 the Truth, like the one who is blind? Indeed, only the possessors of
@@ -85,11 +81,7 @@ possessors of intellect are mindful.”***[^7]
 Surah Ar-Ra‘d – Verse 20
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلا يَنقُضُونَ الْمِيثَاقَ
-  </p>
-</blockquote>
+> الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلا يَنقُضُونَ الْمِيثَاقَ
 
 ***20. “Those who fulfill the covenant of Allah and do not break the
 pledge.”***
@@ -155,12 +147,8 @@ merely emphasis.
 Surah Ar-Ra‘d – Verse 21
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَصِلُونَ مَآ أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيَخْشَوْنَ
-رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَصِلُونَ مَآ أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيَخْشَوْنَ
+> رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ
 
 ***21. “And those who join what Allah has commanded to be joined and
 they fear their Lord and dread the terrible reckoning.”***
@@ -320,14 +308,10 @@ He answered:
 Surah Ar-Ra‘d – Verse 22
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ صَبَرُوا ابْتِغَآءَ وَجْهِ رَبّـِهِمْ وَأَقَامُوا
-الصَّلاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلاَنِيَةً
-وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيّـِئَةَ اُوْلَئِكَ لَهُمْ عُقْبَي
-الدَّارِ
-  </p>
-</blockquote>
+> وَالَّذِينَ صَبَرُوا ابْتِغَآءَ وَجْهِ رَبّـِهِمْ وَأَقَامُوا
+> الصَّلاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلاَنِيَةً
+> وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيّـِئَةَ اُوْلَئِكَ لَهُمْ عُقْبَي
+> الدَّارِ
 
 ***22. “And those who patiently persevere, seeking the countenance of
 their Lord, and establish prayer, and spend of what We have provided
@@ -473,13 +457,9 @@ of truth actively instead of creeping into isolation.
 Surah Ar-Ra‘d – Verse 23
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ
-وَأَزْوَاجِهِمْ وَذُرّ‌ِيَّاتِهِمْ وَالْمَلآئِكَةُ يَدْخُلُونَ
-عَلَيْهِم مِن كُلّ‌ِ بَابٍ
-  </p>
-</blockquote>
+> جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ
+> وَأَزْوَاجِهِمْ وَذُرّ‌ِيَّاتِهِمْ وَالْمَلآئِكَةُ يَدْخُلُونَ
+> عَلَيْهِم مِن كُلّ‌ِ بَابٍ
 
 ***23. “Gardens of Eternity, they shall enter therein and also the
 righteous from among their fathers, their spouses, and their children,
@@ -590,11 +570,7 @@ for entering Paradise is righteousness.
 Surah Ar-Ra‘d – Verse 24
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَلامٌ عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَي الدَّارِ
-  </p>
-</blockquote>
+> سَلامٌ عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَي الدَّارِ
 
 ***24. “Peace (be) upon you (saying) that you persevered in patience!
 (And now) how excellent is the Ultimate Abode.”***
@@ -729,13 +705,9 @@ Patience, among all, stands at the top of all perfections and virtues.
 Surah Ar-Ra‘d – Verse 25
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ
-وَيَقْطَعُونَ مَآ أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي
-الأَرْضِ اُوْلَئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ
+> وَيَقْطَعُونَ مَآ أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي
+> الأَرْضِ اُوْلَئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
 
 ***25. “And there are those who break the covenant of Allah after its
 confirmation and cut asunder what Allah has commanded to be joined, and
@@ -814,13 +786,9 @@ sins, for Allah (s.w.t.) has vowed as to their punishment.
 Surah Ar-Ra‘d – Verse 26
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَفَرِحُوا
-بِالْحَيَاةِ الدُّنْيَا وَمَا الْحَيَاةُ الدُّنْيَا فِي الأَخِرَةِ
-إِلاَّ مَتَاعٌ
-  </p>
-</blockquote>
+> اللَّهُ يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَفَرِحُوا
+> بِالْحَيَاةِ الدُّنْيَا وَمَا الْحَيَاةُ الدُّنْيَا فِي الأَخِرَةِ
+> إِلاَّ مَتَاعٌ
 
 ***26. “Allah enlarges the sustenance for whomever he pleases and
 straitens (it for whomever He wishes) and they rejoice in the life of
@@ -997,5 +965,4 @@ be joined, and they make corruption on the Earth;...”
 [^52]: Bihar-ul-’Anwar, vol. 74, p. 197
 
 [^53]: Surah Al-Fajr, No. 89, verse 17
-
 

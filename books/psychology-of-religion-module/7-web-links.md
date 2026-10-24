@@ -37,4 +37,3 @@ The International Journal for the Psychology of Religion
 
 http://www.erlbaum.com/Journals/journals/IJPR/ijpr.htm
 
-

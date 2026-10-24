@@ -190,4 +190,3 @@ Salma bin ‘Abd al-‘Uzza bin Qais
 [^2]: The story of Moghaira's adultery is told by Ibn Jarir, Ibn Athir
 and Abul Fida in the events of 17 Hejri
 
-

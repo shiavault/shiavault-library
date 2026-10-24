@@ -1,11 +1,7 @@
 3) Inhabit your Heart with God's Remembrance
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-"عمارة قلبك بذكره"
-  </p>
-</blockquote>
+> "عمارة قلبك بذكره"
 
 Remembering God is emphasized both in the Holy Qur’an and Islamic
 traditions[^1] to the degree that it is considered more important than
@@ -16,12 +12,8 @@ remembrance. Among them are the following:
 
 **(i)** God's remembrance is a comfort for hearts:
 
-<blockquote dir="rtl">
-  <p>
-"الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
-بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ"
-  </p>
-</blockquote>
+> "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
+> بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ"
 
 ***"Those who believe and whose hearts are set at rest by the
 remembrance of Allah; now surely by Allah's remembrance are the hearts
@@ -40,12 +32,8 @@ the following consequences:
 **i.** Turning away from God's remembrance results in one's life
 becoming straitened:
 
-<blockquote dir="rtl">
-  <p>
-"وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
-وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى"
-  </p>
-</blockquote>
+> "وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
+> وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى"
 
 ***“And whoever turns away from my remembrance, his shall surely be a
 straitened life, and We will raise him on the day of resurrection,
@@ -54,12 +42,8 @@ blind”.***[^5]
 **ii.** Anybody who forgets God's remembrance will be the Satan's
 companion.
 
-<blockquote dir="rtl">
-  <p>
-"وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَانِ نُقَيِّضْ لَهُ شَيْطَانًا
-فَهُوَ لَهُ قَرِينٌ"
-  </p>
-</blockquote>
+> "وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَانِ نُقَيِّضْ لَهُ شَيْطَانًا
+> فَهُوَ لَهُ قَرِينٌ"
 
 ***“And whoever turns himself away from the remembrance of the
 Beneficent God, We appoint for him a Shaitan, so he becomes his
@@ -69,23 +53,15 @@ associate”.***[^6]
 forgetting his own identity. Such a person will definitely go against
 man's perfection:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ
-أَنْفُسَهُمْ"
-  </p>
-</blockquote>
+> "وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ
+> أَنْفُسَهُمْ"
 
 ***“And be not like those who forsook Allah's so He made them forsake
 their own souls”.***[^7]
 
 And in Sura al-Tawbah Allah has stated:
 
-<blockquote dir="rtl">
-  <p>
-نَسُوا اللَّهَ فَنَسِيَهُمْ
-  </p>
-</blockquote>
+> نَسُوا اللَّهَ فَنَسِيَهُمْ
 
 ***“They have forsaken Allah, so He has forsaken them.”***[^8]
 
@@ -98,12 +74,8 @@ factors which either make God's remembrance easy or make it difficult:
 **a.** There are some God-wary persons whose appearances make one
 remember God. Regarding this, the Great Prophet has stated:
 
-<blockquote dir="rtl">
-  <p>
-"خِيَارُكُم مَن ذَكَّرَكُم بِالله رُؤيتُه وَزَادَ عِلمَكُم مَنطِقُه
-وَرَغَّبَكُم في الآخِرَةِ عَمَلُه"
-  </p>
-</blockquote>
+> "خِيَارُكُم مَن ذَكَّرَكُم بِالله رُؤيتُه وَزَادَ عِلمَكُم مَنطِقُه
+> وَرَغَّبَكُم في الآخِرَةِ عَمَلُه"
 
 *“The best of you are those looking at whom reminds you of God, whose
 speech increases your knowledge and whose actions make you desire the
@@ -112,36 +84,24 @@ Hereafter”.*[^9]
 **b.** The Holy Qur’an and its constructive verses is a good factor to
 remember God:
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ هَذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا"
-  </p>
-</blockquote>
+> "إِنَّ هَذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا"
 
 ***“Surely this is a reminder, then let him who will, take the way to
 his Lord”.***[^10]
 
 **c.** The Prophets, too, are good reminders of Allah:
 
-<blockquote dir="rtl">
-  <p>
-"فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ"
-  </p>
-</blockquote>
+> "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ"
 
 ***"Therefore do remind, for you are only a reminder."***[^11]
 
 **d.** A Survey of the lives of the great men in the past, too, is a
 factor to remember Allah.
 
-<blockquote dir="rtl">
-  <p>
-"وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَشَدُّ مِنْهُمْ
-بَطْشًا فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ إِنَّ فِي ذَلِكَ
-لَذِكْرَى لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى السَّمْعَ وَهُوَ
-شَهِيدٌ"
-  </p>
-</blockquote>
+> "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَشَدُّ مِنْهُمْ
+> بَطْشًا فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ إِنَّ فِي ذَلِكَ
+> لَذِكْرَى لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى السَّمْعَ وَهُوَ
+> شَهِيدٌ"
 
 ***"And how many a generation did we destroy before them who were
 mightier in prowess than they, so they went about and about in the
@@ -150,11 +110,7 @@ this for him who has a heart or he gives ear and is a witness.***[^12]
 
 **e.** God's prayer is also a factor to remember God.
 
-<blockquote dir="rtl">
-  <p>
-"َأَقِمْ الصَّلَاةَ لِذِكْرِي"
-  </p>
-</blockquote>
+> "َأَقِمْ الصَّلَاةَ لِذِكْرِي"
 
 ***"Keep up prayer for My remembrance"***[^13]
 
@@ -163,33 +119,21 @@ the following:
 
 **a.** A liking for the transitory appearances of the world:
 
-<blockquote dir="rtl">
-  <p>
-"لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ"
-  </p>
-</blockquote>
+> "لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ"
 
 ***“Let not your wealth or your children divert you from the remembrance
 of Allah”.***[^14]
 
 **b.** Far-fetched and unattainable hopes:
 
-<blockquote dir="rtl">
-  <p>
-"وَيُلْهِهِمْ الْأَمَلُ"
-  </p>
-</blockquote>
+> "وَيُلْهِهِمْ الْأَمَلُ"
 
 ***"That hope may beguile them".***[^15]
 
 **c.** Shaitan (Satan) is also one of the factors which make us forget
 God:
 
-<blockquote dir="rtl">
-  <p>
-"اسْتَحْوَذَ عَلَيْهِمْ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ"
-  </p>
-</blockquote>
+> "اسْتَحْوَذَ عَلَيْهِمْ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ"
 
 ***"Shaitan has gained mastery over them, so he has made them forget the
 remembrance of Allah".***[^16]
@@ -197,12 +141,8 @@ remembrance of Allah".***[^16]
 **d.** Committing sins and following one's desires are also among the
 factors that make us forget God:
 
-<blockquote dir="rtl">
-  <p>
-"لَيسَ في المَعاصِي اَشَدُّ مِن اتِّبَاعِ الشَهوَةِ وَلا تُطِيعُوهَا
-فَتَشغَلَكُم عَن ذِكرِ اللهِ"
-  </p>
-</blockquote>
+> "لَيسَ في المَعاصِي اَشَدُّ مِن اتِّبَاعِ الشَهوَةِ وَلا تُطِيعُوهَا
+> فَتَشغَلَكُم عَن ذِكرِ اللهِ"
 
 *"Among sins, there is no sin worse than following one's desires.
 Therefore, do not obey them since they will divert you from the
@@ -304,5 +244,4 @@ glorify Him morning and evening [Qur’an 33:41-42].
 [^20]: . Bihar, vol. 93, p.158.
 
 [^21]: . Ghurar al-Hikam.
-
 

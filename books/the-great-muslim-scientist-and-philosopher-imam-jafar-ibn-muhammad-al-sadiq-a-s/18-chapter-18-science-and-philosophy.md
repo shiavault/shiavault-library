@@ -29,4 +29,3 @@ introduced and formulated methods of diagnosis and treatment in the
 field of medicine. Western scholars find it hard to believe how he could
 have introduced certain diagnosis in that age and time.
 
-

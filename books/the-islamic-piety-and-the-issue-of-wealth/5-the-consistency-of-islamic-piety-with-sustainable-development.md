@@ -43,4 +43,3 @@ and to conquer or remove obstacles such as ignorance, motivelessness,
 and alienation, there is a vital need to focus and concentrate on human
 resource development in order to build and foster moral consciousness.
 
-

@@ -209,4 +209,3 @@ lead to lots of Salawat among all believers, and all mankind will
 benefit from it and will love to say Salawat: Allahumma salli ala
 Muhammad wa aali Muhammad.
 
-

@@ -4,12 +4,8 @@ Preface
 The Noble Prophet (prayers of Allah be upon him and his family) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
-بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
-  </p>
-</blockquote>
+> مَنْ حَفِظَ عَـلـى أُمَّتِـي أَرْبَعِينَ حَدِيثًا يَـنْتَفِعُونَ بِهَا
+> بَعَـثَهُ اللهُ يَوْمَ الْقِيَامَةِ فَقِيهاً عَالِـماً.
 
    
 *“The person from my nation who memorizes forty traditions pertaining to
@@ -33,5 +29,4 @@ to thank Shaykh Saleem for his efforts in the translation of this work. 
 May Allah (Glory and Greatness be to Him) accept this work as a further
 attempt by IEB ‑ WF to propagate Islam.  
 ** **
-
 

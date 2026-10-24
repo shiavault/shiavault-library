@@ -412,4 +412,3 @@ Abil Hadid, vol. XIII, pp. 210-221.
 
 [^7]: Ibn Abil Hadid (Egyptian edition, vol. XIII, pp.215 onward).
 
-

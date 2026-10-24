@@ -4,15 +4,11 @@ Section 3: Slandering Chaste Women
 Sura An-Nur - Verse 21
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ ءَامَنُوا لاَ تَتَّبِعُوا خُطُوَاتِ
-الشَّيْطَانِ وَمَن يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ
-بِالْفَحْشَآءِ وَالْمُنكَرِ وَلَوْلاَ فَضْلُ اللَّهِ عَلَيْكُمْ
-وَرَحْمَتُهُ مَا زَكَي مِنكُم مِن أَحَدٍ أَبَداً وَلَكِنَّ اللَّهَ
-يُزَكّـِي مَن يَشَآءُ وَاللَّهُ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ ءَامَنُوا لاَ تَتَّبِعُوا خُطُوَاتِ
+> الشَّيْطَانِ وَمَن يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ
+> بِالْفَحْشَآءِ وَالْمُنكَرِ وَلَوْلاَ فَضْلُ اللَّهِ عَلَيْكُمْ
+> وَرَحْمَتُهُ مَا زَكَي مِنكُم مِن أَحَدٍ أَبَداً وَلَكِنَّ اللَّهَ
+> يُزَكّـِي مَن يَشَآءُ وَاللَّهُ سَمِيعٌ عَلِيمٌ
 
 ***21. “O you who believe! Do not follow the steps of the Satan. And
 whoever follows the steps of the Satan, then verily he commands
@@ -105,14 +101,10 @@ occurs when evils and corruptions are not got rid of.
 Sura An-Nur - Verse 22
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَأْتَلِ اُولُواْ الْفَضْلِ مِنكُمْ وَالسَّعَةِ أَن يُؤْتُوا
-أُولِي الْقُرْبَي وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ
-اللَّهِ وَلْيَعْفُوا وَلْيَصْفَحُوا أَلاَ تُحِبُّونَ أَن يَغْفِرَ
-اللَّهُ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> وَلاَ يَأْتَلِ اُولُواْ الْفَضْلِ مِنكُمْ وَالسَّعَةِ أَن يُؤْتُوا
+> أُولِي الْقُرْبَي وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ
+> اللَّهِ وَلْيَعْفُوا وَلْيَصْفَحُوا أَلاَ تُحِبُّونَ أَن يَغْفِرَ
+> اللَّهُ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ
 
 ***22. “And let not those who possess dignity and ease among you swear
 against giving to the near of kin and the needy, and fugitives for the
@@ -226,12 +218,8 @@ forgiveness, and clemency, represents the attraction!
 Sura An-Nur - Verse 23
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَرْمُونَ الْمُـحْصَنَاتِ الْغَافِلاَتِ الْمُؤْمِنَاتِ
-لُعِنُوا فِي الدُّنْيَا وَالاَخِرَةِ وَلَهُمْ عَذَابٌ عَظيمٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَرْمُونَ الْمُـحْصَنَاتِ الْغَافِلاَتِ الْمُؤْمِنَاتِ
+> لُعِنُوا فِي الدُّنْيَا وَالاَخِرَةِ وَلَهُمْ عَذَابٌ عَظيمٌ
 
 ***23. “Verily those who accuse chaste, believing women unaware (of
 evil), are cursed in this world and the Hereafter, and for them shall be
@@ -326,12 +314,8 @@ is very famous.
 Sura An-Nur - Verse 24
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم
-بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم
+> بِمَا كَانُوا يَعْمَلُونَ
 
 ***24. “On the day when their tongues and their hands and their feet
 testify against them as to what they used to do.”***
@@ -378,12 +362,8 @@ against someone whose punishment is inevitable.”*[^6]
 Sura An-Nur - Verse 25
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ يُوَفّـِيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ
-أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ يُوَفّـِيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ
+> أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ
 
 ***25. “On that day Allah will pay them their just due, and they will
 know that Allah, He is the (very) Manifest Truth.”***
@@ -416,14 +396,10 @@ most stubborn people confess.
 Sura An-Nur - Verse 26
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ
-وَالطَّيّـِبَاتُ لِلطَّيّـِبِينَ وَالطَّيّـِبُونَ لِلطَّيّـِبَاتِ
-اُوْلَئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ لَهُم مَغْفِرَةٌ وَرِزْقٌ
-كَرِيمٌ
-  </p>
-</blockquote>
+> الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ
+> وَالطَّيّـِبَاتُ لِلطَّيّـِبِينَ وَالطَّيّـِبُونَ لِلطَّيّـِبَاتِ
+> اُوْلَئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ لَهُم مَغْفِرَةٌ وَرِزْقٌ
+> كَرِيمٌ
 
 ***26. “Impure women are for impure men, and impure men for impure
 women. Good women are for good men, and good men are for good women;
@@ -519,5 +495,4 @@ An-Nahl, No. 16, p. 511
 the companions of Imams sometimes asked about ‘KhabIthah’ and they were
 answered negatively. This itself shows that the word ‘khabithah’ refers
 to unchaste women, not evil ‘words’ or evil ‘deeds’.
-
 

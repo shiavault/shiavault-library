@@ -214,7 +214,3 @@ They should never get deceived by poisonous writings of half trained
 quacks and foolish psychologists who try to justify and assure him about
 this contemptible act.
 
-
-
-
-

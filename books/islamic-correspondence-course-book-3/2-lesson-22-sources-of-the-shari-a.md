@@ -202,9 +202,7 @@ shari’a.”
 This lesson is based on An Introduction to the Shari’a by Sayyid M.
 Rizvi
 
-
 3 In Shi’a sources, see al-Kulayni, al-Usul al-Kafi, vol. 1, p. 52; in
 Sunni sources, see ash-Sha’rani, at-Tabaqdtu ‘l-Kubra, vol. 1 p. 28; Abu
 Nu’aym, Hilyatu ‘l-Awiya’, vol. 3, p. 193, 197.
-
 

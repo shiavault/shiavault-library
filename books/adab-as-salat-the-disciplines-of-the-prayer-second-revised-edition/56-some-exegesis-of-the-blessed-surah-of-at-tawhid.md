@@ -763,4 +763,3 @@ is One,' hadīth 2.”
 sec. on “Reciting the Qur'an,” chs. 31 and 33; Mustadrak al-Wasā'il,
 “Book of the Salat,” sec. on “Reciting the Qur'an,” chs. 24 and 26.
 
-

@@ -69,4 +69,3 @@ during the period when our Imam is in occultation. This is our law about
 the holy-war. Self-defence is permitted at any time, but to start a
 forbidden without specific authority of the Prophet or the Imams.
 
-

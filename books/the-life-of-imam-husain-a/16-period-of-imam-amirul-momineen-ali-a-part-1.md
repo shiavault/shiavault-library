@@ -190,7 +190,7 @@ their homes for it.”
 Muslims were overjoyed due to this allegiance because their aims were to
 be fulfilled and they shall regain their honor and status that they
 anticipated. The oath of allegiance was given to His Eminence on
-Saturday the 11<sup>th</sup> night of Zilhajj in 35 A.H.**[2]**
+Saturday the 11th night of Zilhajj in 35 A.H.**[2]**
 
 Senior companions appeared before the great gathering of the people and
 expressed their full support to the Imam’s government and we have

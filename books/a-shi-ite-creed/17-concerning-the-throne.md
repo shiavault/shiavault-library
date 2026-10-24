@@ -101,4 +101,3 @@ is constituted of the arsh (p.82). This is clearly under Ismi'ili
 influence, cf. creation of \`arsh, Kalami Pir, 39; anthropomorphism is
 foolish, 59; \`arsh refers to the soul of man, 92.
 
-

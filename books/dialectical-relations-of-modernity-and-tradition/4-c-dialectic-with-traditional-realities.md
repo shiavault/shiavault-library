@@ -122,4 +122,3 @@ group ’s theologies. Subsequently it formulate d a thematic
 interpretation categorizing all religions*ahl al-kitab* (people of
 knowledge, such as Jew s and Christian s ).
 
-

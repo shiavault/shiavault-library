@@ -180,4 +180,3 @@ capture the city—or cities—of disbelief. He will fill the earth . . .”
 
 [^4]: The state of being the heir of a prophet—Ed.
 
-

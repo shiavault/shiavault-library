@@ -242,4 +242,3 @@ which they were suffering. When he had gathered them as one body under
 the banner of this sublime example, he made from them a power which
 later shook the very foundations of the Ancient world.
 
-

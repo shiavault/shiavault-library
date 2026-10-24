@@ -34,11 +34,7 @@ What would be the status of *jizyah* during the time of Imam al-Mahdi
 **Answer:** Of course, the *hadith*s quoted in that part of the book are
 related to the noble verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ ...حَتَّى يُعْطُواْ الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ...حَتَّى يُعْطُواْ الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ ﴾
 
 *“…until they pay the tribute out of hand, degraded,”*[^3]
 
@@ -164,5 +160,4 @@ mean something else which is beyond our knowledge and understanding.
 
 [^11]: Surah al-Baqarah 2:55-56; Surah an-Nisa’ 4:153; Surah al-A‘raf
 7:155.
-
 

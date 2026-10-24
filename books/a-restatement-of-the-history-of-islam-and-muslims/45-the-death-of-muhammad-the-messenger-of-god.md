@@ -458,4 +458,3 @@ without asking them any questions and without seeking any proof that
 Muhammad owed them anything, and this he was doing to the end of his
 days.
 
-

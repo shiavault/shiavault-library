@@ -11,11 +11,7 @@ Lust
 acquiring patience against them.
 
 > 2ـ اَلشَّهَواتُ أعْلالٌ قاتِلاتٌ، وأفْضَلُ دَوائِها اِقْتِناءُ
-<blockquote dir="rtl">
-  <p>
-الصَّبْرِ عَنْها.
-  </p>
-</blockquote>
+> الصَّبْرِ عَنْها.
 
 3. Lustful desires are the snares of Satan.
 
@@ -29,41 +25,25 @@ acquiring patience against them.
 perform sinful acts and to fall upon evil deeds.
 
 > 5ـ أُهْجُرُوا الشَّهَواتِ، فَإنَّها تَقُودُكُمْ إلى رُكُوبِ
-<blockquote dir="rtl">
-  <p>
-الذُّنُوبِ، والتَّهَجُّمِ عَلَى السَيِّئاتِ.
-  </p>
-</blockquote>
+> الذُّنُوبِ، والتَّهَجُّمِ عَلَى السَيِّئاتِ.
 
 6. Lustful desires are fatal diseases, and the best cure for them is
 acquiring patience against them.
 
 > 6ـ اَلشَّهَواتُ آفاتٌ قاتِلاتٌ، وخَيْرُ دَوائِها اِقْتِناءُ الصَّبْرِ
-<blockquote dir="rtl">
-  <p>
-عَنْها.
-  </p>
-</blockquote>
+> عَنْها.
 
 7. Beware of allowing lustful desires to dominate you, for indeed its
 immediate result is dispraised and future consequence is detrimental.
 
 > 7ـ إيّاكُمْ وتَحَكُّمَ الشَّهَواتِ عَلَيْكُمْ، فَإنَّ عاجِلَها ذَميمٌ،
-<blockquote dir="rtl">
-  <p>
-وآجِلَها وَخيمٌ.
-  </p>
-</blockquote>
+> وآجِلَها وَخيمٌ.
 
 8. Beware of letting lustful desires overpower you hearts, for indeed
 its beginning is bondage and its end is destruction.
 
 > 8ـ إيّاكُمْ وغَلَبَةَ الشَّهَواتِ عَلى قُلُوبِكُمْ، فَإنَّ بِدايَتَها
-<blockquote dir="rtl">
-  <p>
-مَلَكَةٌ، ونِهايَتَها هَلَكَةٌ.
-  </p>
-</blockquote>
+> مَلَكَةٌ، ونِهايَتَها هَلَكَةٌ.
 
 9. The beginning of lust is pleasure and its end is harm.
 
@@ -105,11 +85,7 @@ its beginning is bondage and its end is destruction.
 cause you to leap into frivolity and error.
 
 > 18ـ إنَّكُمْ إنْ مَلَّكْتُمْ شَهَواتِكُمْ نَزَتْ بِكُمْ إلَى الأَشَرِ
-<blockquote dir="rtl">
-  <p>
-والغَوايَةِ.
-  </p>
-</blockquote>
+> والغَوايَةِ.
 
 19. When lust tries to overcome you then defeat it by curtailing
 excesses.
@@ -160,11 +136,7 @@ soul.
 enemy would fight his enemy.
 
 > 29ـ ضادُّوا الشَّهْوَةَ مُضادَّةَ الضِّدِ ضِدَّهُ، وحارِبُوها
-<blockquote dir="rtl">
-  <p>
-مُحارَبَةَ العَدُوِّ العَدُوَّ.
-  </p>
-</blockquote>
+> مُحارَبَةَ العَدُوِّ العَدُوَّ.
 
 30. Obeying one’s lust corrupts the faith.
 
@@ -208,12 +180,8 @@ if it becomes strong it will possess you and use you, and you will not
 be able to stand up against it.
 
 > 38ـ غالِبِ الشَّهْوَةَ قَبْلَ قُوَّةِ ضَراوَتِها فَإنَّها إنْ قَوِيَتْ
-<blockquote dir="rtl">
-  <p>
-مَلَكَتْكَ، وَاسْتَفادَتْكَ(اِستقادَتكَ) ولَمْ تَقْدِرْ عَلى
-مُقاوِمَتِها.
-  </p>
-</blockquote>
+> مَلَكَتْكَ، وَاسْتَفادَتْكَ(اِستقادَتكَ) ولَمْ تَقْدِرْ عَلى
+> مُقاوِمَتِها.
 
 39. The comrade of lustful desires is the prisoner of [their]
 consequences.
@@ -247,11 +215,7 @@ religion.
 obey it as it will preoccupy you from [the remembrance of] Allah.
 
 > 45ـ لَيْسَ فِي المَعاصي أشَدُّ مِنْ اِتِّباعِ الشَّهْوَةِ فَلا
-<blockquote dir="rtl">
-  <p>
-تُطيعُوها فَيَشْغَلَكُمْ عَنِ اللّهِ.
-  </p>
-</blockquote>
+> تُطيعُوها فَيَشْغَلَكُمْ عَنِ اللّهِ.
 
 46. If you had abstained from lustful desires you would surely have been
 safe from tribulations.
@@ -324,11 +288,7 @@ overwhelmed by afflictions, is associated with evils and has certainty
 about the permanence [of this world].
 
 > 61ـ مُدْمِنُ الشَّهَواتِ صَريعُ الآفاتِ، مُقارِنُ السَّيِّئاتِ،
-<blockquote dir="rtl">
-  <p>
-مُوقِنٌ بِالثَّباتِ.
-  </p>
-</blockquote>
+> مُوقِنٌ بِالثَّباتِ.
 
 62. Do not exceed the limits in your lust and anger as they will degrade
 you.
@@ -351,5 +311,4 @@ you.
 not to [crave for].
 
 > 66ـ ما أحْسَنَ بِالإنْسانِ أنْ لايَشْتَهِيَ ما لا يََنْبَغي.
-
 

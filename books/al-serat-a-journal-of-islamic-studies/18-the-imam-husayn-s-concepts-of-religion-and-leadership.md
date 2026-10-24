@@ -313,4 +313,3 @@ no use destroying man; we must destroy man's anti-human actions and
 conduct. If rulers are overthrown but the system remains unaltered,
 nothing is gained.
 
-

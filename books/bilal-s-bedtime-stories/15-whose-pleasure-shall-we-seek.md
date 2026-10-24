@@ -64,4 +64,3 @@ wrong and void. When a person is sure that what he is doing will please
 his Master, the Almighty Allah, then he must never worry what others
 speak.
 
-

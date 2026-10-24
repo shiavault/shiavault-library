@@ -150,4 +150,3 @@ miracle which is fitting for a final prophet, and this was the reason
 why Muhammad was equipped with the Holy Qur'an as evidence of his
 truthfulness.
 
-

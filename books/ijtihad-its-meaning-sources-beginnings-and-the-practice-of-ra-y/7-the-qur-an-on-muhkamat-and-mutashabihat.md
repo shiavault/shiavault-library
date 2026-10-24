@@ -318,4 +318,3 @@ security. From this point of view, should any naskh occur therein, the
 importance of the matter requires that the naskh be widely reflected and
 reported by several narrators through mutawatir traditions.
 
-

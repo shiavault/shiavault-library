@@ -95,4 +95,3 @@ commands and prohibitions so that we know what benefits us or harms us
 in this world and thereafter. Thus, every obligation from God is indeed
 guidance towards some interests that one has the right to have.
 
-

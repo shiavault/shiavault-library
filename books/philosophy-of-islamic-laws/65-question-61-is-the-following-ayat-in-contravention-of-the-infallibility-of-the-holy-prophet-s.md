@@ -94,7 +94,5 @@ all the allegations and accusations that had been heaped were now
 rendered ineffective. But if you take it in the sense of actual sins you
 cannot explain how the future sins could be forgiven in advance.
 
-
 [^1]: Surah Fath 48:1-2
-
 

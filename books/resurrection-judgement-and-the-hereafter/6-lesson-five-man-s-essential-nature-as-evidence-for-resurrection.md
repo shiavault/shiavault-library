@@ -368,4 +368,3 @@ God will make His reckoning in a single instant. This is a declaration
 to mankind, so that they should take heed and be aware recognizing their
 Lord as their only object of worship.”*** **(14:47-52)**
 
-

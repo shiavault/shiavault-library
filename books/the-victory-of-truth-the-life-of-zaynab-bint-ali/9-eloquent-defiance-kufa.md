@@ -184,4 +184,3 @@ journey. 
 After about twenty-eight days, on the sixteenth of Rabi' ul-Awwal, the
 caravan reached Damascus.
 
-

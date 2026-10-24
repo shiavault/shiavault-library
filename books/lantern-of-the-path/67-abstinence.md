@@ -33,4 +33,3 @@ the one who seeks you and give success to the one who opposes you." ' It
 acts according to what Allah charged it to do, and what He impressed
 upon its nature.
 
-

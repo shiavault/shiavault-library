@@ -115,7 +115,6 @@ my No.' I swear by Him who made me the Prophet and made me the best of
 the people, indeed you are the Proof of Allah for His creatures, His
 Trustee of His Secrets, and the guardian of His slaves.
 
-
 **The Philosophy of Fasting in the Month of Ramazan**
 
 Why Muslims follow a purely lunar calendar for fasting?
@@ -150,7 +149,6 @@ When an individual fasts, his conscience pricks him in the face of evil
 deeds, and he is more able to resist temptations. Further, the fast
 makes him think of God more, develops his inclination for charity, makes
 him taste the sweetness of obedience to the Lord.
-
 
 **Material Aspects**
 
@@ -498,5 +496,4 @@ often been said.
 starvation can give you that eagerness in a hurry.
 
 Try a fast for spiritual and physical fitness
-
 

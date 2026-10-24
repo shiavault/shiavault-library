@@ -9,4 +9,3 @@ the Holy Prophet (saw) has preached cleanliness with faith?
 try keep your clothes and body clean so that you don’t fall ill and
 people won’t avoid sitting with you.
 
-

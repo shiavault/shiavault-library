@@ -1,7 +1,7 @@
 ( Adhan & Iqamah )
 ==================
 
-### <span style="font-style: normal">It is recommended for both boys and girls to recite the Adhan and Iqamah before starting the Salat.</span>
+### It is recommended for both boys and girls to recite the Adhan and Iqamah before starting the Salat.
 
  
 
@@ -60,8 +60,6 @@
 ###### *Allahu Akbar  
 * Read 2 Times  
  (Allah is greater than anything else)  
-  
-  
 
 #### لاَ إلهَ إلاَّ اللهُ
 

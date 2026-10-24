@@ -13,11 +13,7 @@ This requires belittling the worldly pleasures against the pleasure of
 affinity with God hence being indifferent to fortune and misfortune in
 the world. In this relation, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-لِكَيْلا تَأْسَوْا على ما فَاتَكُمْ ولا تَفْرَحُوا ِبما آتاكم
-  </p>
-</blockquote>
+> لِكَيْلا تَأْسَوْا على ما فَاتَكُمْ ولا تَفْرَحُوا ِبما آتاكم
 
 ***“So that you may not grieve for what has escaped you, nor be exultant
 at what He has given you… (57:23)”***
@@ -42,14 +38,10 @@ blames the oppressors and the oppressed as the agents behind the spread
 of oppression and corruption. They are both entitled to punishment. The
 Hoy Qur’an depicts the assembly of the two groups in hell:
 
-<blockquote dir="rtl">
-  <p>
-كُلَّما دَخَلَتْ أُمَّةٌ لَعَنَتْ أُخْتَها، حَتّى إِذا ادَّارَكُوا
-فِيها جَمِيعاً قَالَتْ أُخْراهُمْ لأُولاهُمْ رَبَّنا هَؤُلاءِ
-أَضَلُّونا فَآتِهِمْ عَذاباً ضِعْفاً مِنَ النَّارِ، قَالَ لِكُلٍّ
-ضِعْفٌ ولَكِنْ لا تَعْلَمون
-  </p>
-</blockquote>
+> كُلَّما دَخَلَتْ أُمَّةٌ لَعَنَتْ أُخْتَها، حَتّى إِذا ادَّارَكُوا
+> فِيها جَمِيعاً قَالَتْ أُخْراهُمْ لأُولاهُمْ رَبَّنا هَؤُلاءِ
+> أَضَلُّونا فَآتِهِمْ عَذاباً ضِعْفاً مِنَ النَّارِ، قَالَ لِكُلٍّ
+> ضِعْفٌ ولَكِنْ لا تَعْلَمون
 
 ***“Whenever a nation shall enter, it shall curse its sister, until when
 they have all come up with one another into it; the last of them shall
@@ -66,12 +58,8 @@ himself too dignified to have tendency towards a mortal, material life.
 The leader of the pious, Imam ‘Ali (as), in sermon No 32 of *Nahjul
 Balagha,* says:
 
-<blockquote dir="rtl">
-  <p>
-وَلبِئسَ المَتْجَرُ أنْ تَرى الدُّنيا لِنَفسِكَ ثمَناً ومِنْ مَالَكَ
-عِندَ اللهِ عِوَضاً
-  </p>
-</blockquote>
+> وَلبِئسَ المَتْجَرُ أنْ تَرى الدُّنيا لِنَفسِكَ ثمَناً ومِنْ مَالَكَ
+> عِندَ اللهِ عِوَضاً
 
 “*How bad is the transaction that you allow, (the enjoyment of) this
 world to be a price for yourself as an alternative for what there is
@@ -84,13 +72,9 @@ and his ultimate goal in the illuminated world of affinity with God and
 His pleasure. In this relation, Imam Sajjad (as), in the eighth part of
 the Whispered Prayed of the Devotees, says:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدِ انْقَطَعَتْ إلَيكَ هِمَّتي وانْصَرَفَتْ نحْوَكَ رَغْبَتي،
-فَأنتَ لا غَيرُكَ مُرادي ولكَ لا لِسِواكَ سَهَري وسُهادي، ولِقاؤكَ
-قَرَّةُ عَيني وَوَصْلُكَ مُنى نفسي... ورِضاكَ بُغْيَتي.
-  </p>
-</blockquote>
+> فَقَدِ انْقَطَعَتْ إلَيكَ هِمَّتي وانْصَرَفَتْ نحْوَكَ رَغْبَتي،
+> فَأنتَ لا غَيرُكَ مُرادي ولكَ لا لِسِواكَ سَهَري وسُهادي، ولِقاؤكَ
+> قَرَّةُ عَيني وَوَصْلُكَ مُنى نفسي... ورِضاكَ بُغْيَتي.
 
 “*For my aspiration has been cut off from everything but You and my
 desire has turned toward You alone, You are my object, none other; to
@@ -178,11 +162,7 @@ others illuminate man’s soul. For example, charity purifies man’s heart
 from the evil of love for wealth. In this relation, the Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أمْوالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وتُزَكِّيهِمْ بِها
-  </p>
-</blockquote>
+> خُذْ مِنْ أمْوالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وتُزَكِّيهِمْ بِها
 
 ***“Take alms out of their property, you would cleanse them and purify
 them thereby. (9:103)”***
@@ -191,12 +171,8 @@ Observing fast –*Sawm-* strengthens one’s will and power of resistance
 against carnal desires, leading to piety and immunity. In this relation,
 the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يا أيّها الّذينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيامُ كَما كُتِبَ عَلى
-الّذينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقونَ
-  </p>
-</blockquote>
+> يا أيّها الّذينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيامُ كَما كُتِبَ عَلى
+> الّذينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقونَ
 
 ***“O you who believe! Fasting is prescribed for you, as it was
 prescribed for those before you, so that you may guard against evil.
@@ -205,11 +181,7 @@ prescribed for those before you, so that you may guard against evil.
 The virtue of prayer is to illuminate man’s soul with the light of the
 heavens and the earth. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصّلاةَ لِذِكْري
-  </p>
-</blockquote>
+> وَأَقِمِ الصّلاةَ لِذِكْري
 
 ***“Keep up prayer for My remembrance. (20:14)”***
 
@@ -240,12 +212,8 @@ about such ritual effects. Ceremonial rites devoid of truth are not
 expected to bring about prosperity or dignity. In this relation, the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ في ذلِكَ لَذِكْرى لمَنْ كَانَ لَهُ قَلْبٌ أوْ ألْقى السَّمْعَ
-وهُوَ شَهيدٌ
-  </p>
-</blockquote>
+> إِنَّ في ذلِكَ لَذِكْرى لمَنْ كَانَ لَهُ قَلْبٌ أوْ ألْقى السَّمْعَ
+> وهُوَ شَهيدٌ
 
 ***“Most surely, there is a reminder in this for him who has a heart or
 he gives ear and is a witness. (50:38)”***
@@ -286,5 +254,4 @@ and Sunnah, are not noticeable.
 [^1]: See as-Sahifat al-Kamila as-Sajjadiyya
 
 [^2]: See Duaa Abu-Hamza ath-Themali
-
 

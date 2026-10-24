@@ -11,24 +11,15 @@ The Equitable
 without being compelled to do so by any authority.
 
 > 2ـ أنْصَفُ النّاسِ مَنْ أنْصَفَ مِنْ نَفْسِهِ مِنْ غَيْرِ حاكِم
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ.
-  </p>
-</blockquote>
+> عَلَيْهِ.
 
 3. Indeed it is from the merit of a man to be fair with others, and to
 do good to the one who does him evil.
 
 > 3ـ إنَّ مِنْ فَضْلِ الرَّجُلِ أنْ يُنْصِفَ مِنْ نَفْسِهِ، ويُحْسِنَ
-<blockquote dir="rtl">
-  <p>
-إلى مَنْ أساءَ إلَيْهِ.
-  </p>
-</blockquote>
+> إلى مَنْ أساءَ إلَيْهِ.
 
 4. The equitable person is noble whereas the oppressor is wicked.
 
 > 4ـ اَلمُنْصِفُ كَرِيمٌ، اَلظّالِمُ لَئِيمٌ.
-
 

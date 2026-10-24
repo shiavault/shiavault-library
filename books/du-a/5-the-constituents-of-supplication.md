@@ -24,11 +24,7 @@ treasure, which is of great significance to God's servants.
  The fourth condition for a supplicant is to be sincere. It means that
 he should call only God and no one else.
 
-<blockquote dir="rtl">
-  <p>
-فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ.
-  </p>
-</blockquote>
+> فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ.
 
 ***“Therefore call upon Allah, being sincere to Him in obedience.
 40:14”***
@@ -40,11 +36,7 @@ disconnect himself from any means other than God. If he sees that the
 superficial means is effective, he should realize that the effecter and
 influencer is God. In the holy Qur'an we read:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ يُجِيبُ الْمُضطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ.
-  </p>
-</blockquote>
+> أَمَّنْ يُجِيبُ الْمُضطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ.
 
 ***“Or, Who answers the distressed one when he calls upon Him and
 removes the evil. 27:62”***
@@ -56,25 +48,17 @@ monotheist considers the others as a means to get to one's goals and
 knows that God has appointed them as an intermediary only. Imam
 as-Sajjad (s) invokes God by saying:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْني مِمَّنْ يَدعُوكُ مخلِصاً في الرّخاءِ دُعاءَ المُخْلِصينَ
-المُضْطَرّينَ لكَ في الدُّعاءِ.
-  </p>
-</blockquote>
+> وَاجْعَلْني مِمَّنْ يَدعُوكُ مخلِصاً في الرّخاءِ دُعاءَ المُخْلِصينَ
+> المُضْطَرّينَ لكَ في الدُّعاءِ.
 
 “O my Lord, make me among those, who, when at ease, invoke You like the
 supplication of the distressed sincere ones.”[^1]  
  He also says:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ إنّي أخْلَصْتُ بإنقِطاعِي إلَيْكَ وَأقْبَلْتُ بِكُلِّي
-عَلَيكَ وَصَرَفْتُ وَجْهي عَمَّنْ يَحْتاجُ إلى رِفْدِكَ وَقَلَبْتُ
-مَسْألَتي عَمَّنْ لَمْ يَسْتَغْنِ عَنْ فَضْلِكَ وَرَأيْتُ أنَّ طَلَبَ
-المُحْتاجِ إلى المُحْتاجِ سَفَهٌ مِنْ رَأيِهِ وَضِلَّةٌ مِنْ عَقْلِهِ.
-  </p>
-</blockquote>
+> اَللّهُمّ إنّي أخْلَصْتُ بإنقِطاعِي إلَيْكَ وَأقْبَلْتُ بِكُلِّي
+> عَلَيكَ وَصَرَفْتُ وَجْهي عَمَّنْ يَحْتاجُ إلى رِفْدِكَ وَقَلَبْتُ
+> مَسْألَتي عَمَّنْ لَمْ يَسْتَغْنِ عَنْ فَضْلِكَ وَرَأيْتُ أنَّ طَلَبَ
+> المُحْتاجِ إلى المُحْتاجِ سَفَهٌ مِنْ رَأيِهِ وَضِلَّةٌ مِنْ عَقْلِهِ.
 
 “O Allah, I have become sincere by devoting myself to You, come to You
 with all my soul, turned away from anyone, who needs Your support and
@@ -87,14 +71,10 @@ longest supplications to sincerity, in which he sees that the source of
 every good and salvage is God. Every evil-doer or good-wisher is in the
 domain of Allah. He adds:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أيْنَ لِيَ الخَيْرُ يا رَبِّ وَلا يوجَدُ إلاّ مِنْ عِنْدِكَ؟
-وَمِنْ أيْنَ ليَ النَّجاةُ وَلا تُسْتَطاعُ إلاّ بِكَ؟ لا الَّذِي
-أحْسَنَ اسْتَغْنى عَنْ عَونِكَ وَرَحْمَتِكَ وَلا الّذي أساءَ
-وَاجْتَرأَ عَلَيْكَ وَلَمْ يُرْضِكَ خَرجَ عَنْ قُدْرَتِكَ يا رَبِّ.
-  </p>
-</blockquote>
+> مِنْ أيْنَ لِيَ الخَيْرُ يا رَبِّ وَلا يوجَدُ إلاّ مِنْ عِنْدِكَ؟
+> وَمِنْ أيْنَ ليَ النَّجاةُ وَلا تُسْتَطاعُ إلاّ بِكَ؟ لا الَّذِي
+> أحْسَنَ اسْتَغْنى عَنْ عَونِكَ وَرَحْمَتِكَ وَلا الّذي أساءَ
+> وَاجْتَرأَ عَلَيْكَ وَلَمْ يُرْضِكَ خَرجَ عَنْ قُدْرَتِكَ يا رَبِّ.
 
 “O my Lord, where from can I get goodness whereas it is not got except
 from You, how can I get deliverance whereas it is not possible except by
@@ -103,29 +83,17 @@ mercy, nor does he, who has done wrong, opposed You and has not believed
 in You, get out of Your power”.  
  The Prophet (s) says:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلوا اللهَ رَبَّكم بِنِيّاتٍ صادِقَةٍ وَقُلوبٍ طاهِرَةٍ.
-  </p>
-</blockquote>
+> فَاسْأَلوا اللهَ رَبَّكم بِنِيّاتٍ صادِقَةٍ وَقُلوبٍ طاهِرَةٍ.
 
 “Invoke Allah, your god, with sincere intents and pure hearts.”  
  Imam as-Sadiq (s) says:
 
-<blockquote dir="rtl">
-  <p>
-القَلْبُ السّليمُ الّذي يَلقى رَبَّهُ وَلَيسَ فيهِ أحَدٌ سِواهُ.
-  </p>
-</blockquote>
+> القَلْبُ السّليمُ الّذي يَلقى رَبَّهُ وَلَيسَ فيهِ أحَدٌ سِواهُ.
 
 “The true heart is the one, which has no one in it except Allah.”
 
-<blockquote dir="rtl">
-  <p>
-تَبَحَّروا قُلوبَكُم فإنْ أنْقاها اللهُ مِنْ حَرَكَةِ الواجِسِ لِسَخطِ
-شَيءٍ مِن صُنْعِه فإذا وَجَدْتُمُوها كَذلِكَ فَاسْئَلوهُ ما شِئْتُم.”
-  </p>
-</blockquote>
+> تَبَحَّروا قُلوبَكُم فإنْ أنْقاها اللهُ مِنْ حَرَكَةِ الواجِسِ لِسَخطِ
+> شَيءٍ مِن صُنْعِه فإذا وَجَدْتُمُوها كَذلِكَ فَاسْئَلوهُ ما شِئْتُم.”
 
 “Check your hearts; if you find them free from fear and suspicion about
 what Allah has willed, then ask Allah for whatever you like.”  
@@ -139,12 +107,8 @@ negligent of. He may even use his tongue without intending what he says.
 This means that his mouth's tongue might not be in harmony with his
 heart's tongue. Imam Ali (s) says:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمّ اغْفِرْ لي ما تَقَرَّبْتُ بهِ إلَيكَ بِلِساني ثُمّ خالَفَهُ
-قَلبي.
-  </p>
-</blockquote>
+> اَللّهُمّ اغْفِرْ لي ما تَقَرَّبْتُ بهِ إلَيكَ بِلِساني ثُمّ خالَفَهُ
+> قَلبي.
 
 “O Allah, forgive me for what I have approached to You with my tongue
 and then my heart has opposed it.”[^3]
@@ -152,14 +116,10 @@ and then my heart has opposed it.”[^3]
 When Abraham (s) was arguing with the infidels and was praising his God,
 he said: My God is one, who:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِي. وَالَّذِي هُوَ يُطْعِمُنِي
-وَيَسْقِينِي. وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِي. وَالَّذِي يُمِيتُنِي
-ثُمَّ يُحْيِينِ. وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي
-يَوْمَ الدِّينِ.
-  </p>
-</blockquote>
+> الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِي. وَالَّذِي هُوَ يُطْعِمُنِي
+> وَيَسْقِينِي. وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِي. وَالَّذِي يُمِيتُنِي
+> ثُمَّ يُحْيِينِ. وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي
+> يَوْمَ الدِّينِ.
 
 ***“Who created me, then He had shown me the way. And He who gives me to
 eat and gives me to drink. And when I am sick, then He restores me to
@@ -173,13 +133,9 @@ He recognizes life and death to be Allah's. He knows that to err is a
 matter of man but to forgive is Allah's. Then he invoked Allah by
 saying:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ. وَاجْعَلْ لِي
-لِسَانَ صِدْقٍ فِي الْآخِرِينَ. وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ
-النَّعِيمِ. وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنْ الضَّالِّينَ.
-  </p>
-</blockquote>
+> رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ. وَاجْعَلْ لِي
+> لِسَانَ صِدْقٍ فِي الْآخِرِينَ. وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ
+> النَّعِيمِ. وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنْ الضَّالِّينَ.
 
 ***“My Lord, grant me wisdom, and join me with the good; and ordain for
 me a goodly mention among posterity; and make me of the heirs of the
@@ -197,42 +153,26 @@ First Constituent: The Spiritual Attraction
 One of the most significant assets God has bestowed upon His servants is
 the spiritual attraction which is emphasized in numerous traditions:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أعْطَى الدُّعاءَ أَعْطى الإجَابَةَ.
-  </p>
-</blockquote>
+> مَنْ أعْطَى الدُّعاءَ أَعْطى الإجَابَةَ.
 
 “The one who has given you supplication will respond to it.”[^4]  
  Both Sunni and Shia sources report from the Prophet (s) his saying:
 
-<blockquote dir="rtl">
-  <p>
-الدُّعاءُ سِلاحُ المُؤمِنِ.
-  </p>
-</blockquote>
+> الدُّعاءُ سِلاحُ المُؤمِنِ.
 
 “Supplication is the believer's weapon.”[^5]  
  In *Bihar al-Anwar*, we read the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-لا يَرُدُّ القَضاءَ إلاّ البَلاءُ.
-  </p>
-</blockquote>
+> لا يَرُدُّ القَضاءَ إلاّ البَلاءُ.
 
 “Nothing causes a divine decree to be annulled except
 supplication.”[^6]  
  Imam as-Sadiq (s) has said:
 
-<blockquote dir="rtl">
-  <p>
-الدُّعاءُ يَرُدُّ القَضاءَ بَعْدَ ما أُبْرِمَ إبْراماً، فَأَكْثِرْ
-مِنَ الدُّعاءِ فإنَّهُ مِفتاحُ كُلِّ رَحْمَةٍ وَنَجاحُ كُلِّ حاجَةٍ
-وَلا يُنالُ ما عِنْدَ اللهِ عَزَّ وَجَلَّ إلاّ بالدُّعاءِ وَلَيْسَ
-بابٌ يَكْثُرُ قَرْعُهُ إلاّ يوشَكُ أنْ يُفتَحَ لِصاحِبِهِ.
-  </p>
-</blockquote>
+> الدُّعاءُ يَرُدُّ القَضاءَ بَعْدَ ما أُبْرِمَ إبْراماً، فَأَكْثِرْ
+> مِنَ الدُّعاءِ فإنَّهُ مِفتاحُ كُلِّ رَحْمَةٍ وَنَجاحُ كُلِّ حاجَةٍ
+> وَلا يُنالُ ما عِنْدَ اللهِ عَزَّ وَجَلَّ إلاّ بالدُّعاءِ وَلَيْسَ
+> بابٌ يَكْثُرُ قَرْعُهُ إلاّ يوشَكُ أنْ يُفتَحَ لِصاحِبِهِ.
 
 “Supplication causes a divine decree to be annulled after it has been
 confirmed. Practice supplication too much for it is the key to every
@@ -242,13 +182,9 @@ is knocked repeatedly will be opened.”[^7]
  We read in Imam Ali's will to Imam Hassan (s) mentioned in *Nahj
 al-Balaghah*:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلَ في يَدِكَ مَفاتِيحَ خَزائِنِهِ بِما أَذِنَ لَكَ فِيهِ
-مِنْ مَسأَلَتِهِ، فَمَتی شِئْتَ اسْتَفْتَحْتَ بِالدُّعاءِ أبْوابَ
-نِعَمِهِ وَاسْتَمْطَرْتَ شَآبيبَ رَحْمَتِهِ.
-  </p>
-</blockquote>
+> ثُمَّ جَعَلَ في يَدِكَ مَفاتِيحَ خَزائِنِهِ بِما أَذِنَ لَكَ فِيهِ
+> مِنْ مَسأَلَتِهِ، فَمَتی شِئْتَ اسْتَفْتَحْتَ بِالدُّعاءِ أبْوابَ
+> نِعَمِهِ وَاسْتَمْطَرْتَ شَآبيبَ رَحْمَتِهِ.
 
 “Then Allah put into your hands the keys of His treasures when He
 allowed you to ask Him for what you like. So whenever you like, you can
@@ -256,12 +192,8 @@ open with supplication the doors of His blessings and ladle from His
 mercy.”[^8]  
  Imam as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-الحَمْدُ للهِ الّذي أُنادِيهِ كُلَّما شِئْتُ لِحاجَتي وَأَخْلو بهِ
-حَيثُ شِئْتُ لِسِرّي بِغَيْرِ شَفيعٍ، فَيَقْضِي لي حَاجَتي.
-  </p>
-</blockquote>
+> الحَمْدُ للهِ الّذي أُنادِيهِ كُلَّما شِئْتُ لِحاجَتي وَأَخْلو بهِ
+> حَيثُ شِئْتُ لِسِرّي بِغَيْرِ شَفيعٍ، فَيَقْضِي لي حَاجَتي.
 
 “Praise be to Allah, Whom I call whenever I like and become alone with
 Him without an intercessor so that He achieves my need.”[^9]
@@ -273,24 +205,16 @@ asset. Despite the fact that it may be answered or not, supplication is
 a great virtue by itself.[^10]  
  In the *Sabah* (morning) Supplication, we read:
 
-<blockquote dir="rtl">
-  <p>
-إلٰهِي إنْ لَمْ تَبْتَدِئْني الرّحْمَةَ مِنْكَ بِحُسْنِ التّوْفِيقِ
-فَمَن السّالِكُ بي إلَيْكَ في وَاضِحِ الطّريقِ.
-  </p>
-</blockquote>
+> إلٰهِي إنْ لَمْ تَبْتَدِئْني الرّحْمَةَ مِنْكَ بِحُسْنِ التّوْفِيقِ
+> فَمَن السّالِكُ بي إلَيْكَ في وَاضِحِ الطّريقِ.
 
 “O My God, if you do not bestow upon me Your mercy by making me succeed
 in turning towards You, then who is going to guide me to You in the
 clear way?”  
  Imam Husayn (s) says in Arafah Supplication:
 
-<blockquote dir="rtl">
-  <p>
-إلٰهِي أطْلُبْني بِرَحْمَتِكَ حَتیّ أصِلَ إلَيكَ وَاجذِبْني بِمَنِّكَ
-حَتیّ أُقْبِلَ عَلَيكَ.
-  </p>
-</blockquote>
+> إلٰهِي أطْلُبْني بِرَحْمَتِكَ حَتیّ أصِلَ إلَيكَ وَاجذِبْني بِمَنِّكَ
+> حَتیّ أُقْبِلَ عَلَيكَ.
 
 “O my God, invite me with Your mercy to join You and attract me with
 Your favor so that I approach to You!”
@@ -305,13 +229,9 @@ of coming across with impassable hurdles so that God may open up His
 doors of blessings and abundance before we get despair. Shaykh
 al-Koleyni, concerning this issue, reports from Imam as-Sadiq (s):
 
-<blockquote dir="rtl">
-  <p>
-هَلْ تَعْرفونَ طُولَ البَلاءِ مِنْ قِصَرِهِ؟ قلنا: لا، قال: إذا
-أُلْهِمَ أَحَدُكُم الدُّعاءَ عِندَ البَلاءِ فَاعْلَمُوا أنَّ البَلاءَ
-قَصيرٌ.
-  </p>
-</blockquote>
+> هَلْ تَعْرفونَ طُولَ البَلاءِ مِنْ قِصَرِهِ؟ قلنا: لا، قال: إذا
+> أُلْهِمَ أَحَدُكُم الدُّعاءَ عِندَ البَلاءِ فَاعْلَمُوا أنَّ البَلاءَ
+> قَصيرٌ.
 
 “Do you recognize a long or a short duration of a calamity? We said: No.
 He said: If at the time of disaster it is inspired to one of you to
@@ -319,15 +239,11 @@ engage in supplication, he should realize that the disaster will last
 short.”[^11]19  
  Concerning this, Imam al-Kadhim (s) says:
 
-<blockquote dir="rtl">
-  <p>
-ما مِنْ بَلاءٍ يَنْزِلُ عَلى عَبْدٍ مُؤمِنٍ فَيُلْهِمُهُ اللهُ عَزَّ
-وَجَلَّ الدُّعاءَ إلاّ كانَ كَشْفُ ذلِكَ البَلاءُ وَشيكاً وَما مِنْ
-بَلاءٍ يَنْزِلُ عَلى عَبْدِ مُؤمِنٍ فَيُمْسِكُ عَنِ الدُّعاءِ إلاّ
-كانَ ذلِكَ البَلاءُ طَويلاً؛ فإذا نَزَلَ البَلاءُ فَعَلَيْكُمْ
-بِالدّعاءِ وَالتَّضَرُّع ِإلى اللهِ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> ما مِنْ بَلاءٍ يَنْزِلُ عَلى عَبْدٍ مُؤمِنٍ فَيُلْهِمُهُ اللهُ عَزَّ
+> وَجَلَّ الدُّعاءَ إلاّ كانَ كَشْفُ ذلِكَ البَلاءُ وَشيكاً وَما مِنْ
+> بَلاءٍ يَنْزِلُ عَلى عَبْدِ مُؤمِنٍ فَيُمْسِكُ عَنِ الدُّعاءِ إلاّ
+> كانَ ذلِكَ البَلاءُ طَويلاً؛ فإذا نَزَلَ البَلاءُ فَعَلَيْكُمْ
+> بِالدّعاءِ وَالتَّضَرُّع ِإلى اللهِ عَزَّ وَجَلَّ.
 
 “When a calamity befalls a faithful servant and Allah inspires him to
 engage in supplication, that calamity will soon disappear. But if one,
@@ -358,20 +274,12 @@ Regarding this issue, there are numerous evidences from the infallible
 imams (s). Some of them have emphasized this topic. The Prophet (s) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ إذا أرادَ أنْ يَستَجيبَ لِعَبْدٍ أذِنَ لهُ في الدُّعاءِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ إذا أرادَ أنْ يَستَجيبَ لِعَبْدٍ أذِنَ لهُ في الدُّعاءِ.
 
 “If Allah wills to respond to a servant, He allows him to invoke Him.”  
  He has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ فُتِحَ لهُ مِنكم بابُ الدُّعاءِ فُتِحَتْ لهُ أبوابُ الرّحْمَةِ.
-  </p>
-</blockquote>
+> مَنْ فُتِحَ لهُ مِنكم بابُ الدُّعاءِ فُتِحَتْ لهُ أبوابُ الرّحْمَةِ.
 
 “If the door of supplication is opened to one of you, the doors of mercy
 will be opened to him.”[^12]  
@@ -382,24 +290,16 @@ Asking Allah to be given a chance of Supplication
 
 Imam as-Sajjad (s) has said:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ إجْعَلْني أَصولُ بِكَ عِندَ الضَّرورَةِ وَأسْألُكَ عِندَ
-الحاجَةِ وَأتَضَرَّعُ إلَيْكَ عِندَ المَسْكَنَةِ.
-  </p>
-</blockquote>
+> اَللّهُمَّ إجْعَلْني أَصولُ بِكَ عِندَ الضَّرورَةِ وَأسْألُكَ عِندَ
+> الحاجَةِ وَأتَضَرَّعُ إلَيْكَ عِندَ المَسْكَنَةِ.
 
 “O Allah, let me resort to You when being afflicted with a calamity, ask
 You when being in need and invoke You when being helpless!”
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَفْتِنّي بالإسْتِعانَةِ بِغَيرِكَ إذا اضْطُرِرْتُ وَلا
-بِالخُضوعِ لِسُؤالِ غَيرِكَ إذا افتَقَرْتُ وَلا بِالتَّضَرُّعِ إلى
-مَنْ دُونَكَ إذا رَهِبْتُ فَأستَحِقّ بذلِكَ خُذْلانَكَ وَمَنْعَكَ
-وإعْراضَكَ.
-  </p>
-</blockquote>
+> وَلا تَفْتِنّي بالإسْتِعانَةِ بِغَيرِكَ إذا اضْطُرِرْتُ وَلا
+> بِالخُضوعِ لِسُؤالِ غَيرِكَ إذا افتَقَرْتُ وَلا بِالتَّضَرُّعِ إلى
+> مَنْ دُونَكَ إذا رَهِبْتُ فَأستَحِقّ بذلِكَ خُذْلانَكَ وَمَنْعَكَ
+> وإعْراضَكَ.
 
 “O Allah, do not try me by letting me resort to other than You when
 being compelled, nor submit to other than You when being poor and not
@@ -409,32 +309,20 @@ that, Your humiliation and Your turning away from me.”[^13]
 his supplication, to give him (us) the chance to get involved in
 supplication. He has said:
 
-<blockquote dir="rtl">
-  <p>
-فَذَكَروكَ بِمَنِّكَ وَشَكَروكَ بِفَضْلِكَ وَدَعَوْكَ بِأمْرِكَ.
-  </p>
-</blockquote>
+> فَذَكَروكَ بِمَنِّكَ وَشَكَروكَ بِفَضْلِكَ وَدَعَوْكَ بِأمْرِكَ.
 
 “They mentioned You with Your mercy, thanked You for Your favors and
 invoked You with Your will.”[^14]
 
-<blockquote dir="rtl">
-  <p>
-وَأعْمِرْ لَيلي بإيقاظِي فِيهِ لِعِبادَتِكَ وَتَفَرُّدي بِالتَّهَجُّدِ
-لَكَ وَتَجَرُّدي بِسُكوني إلَيكَ وَإنزالِ حَوائِجي بِكَ.
-  </p>
-</blockquote>
+> وَأعْمِرْ لَيلي بإيقاظِي فِيهِ لِعِبادَتِكَ وَتَفَرُّدي بِالتَّهَجُّدِ
+> لَكَ وَتَجَرُّدي بِسُكوني إلَيكَ وَإنزالِ حَوائِجي بِكَ.
 
 “O my Lord, revive my night by awakening me in it to worship You, to be
 alone with You, to devote myself to You and to offer my needs before
 You.”[^15]  
  It is also narrated:
 
-<blockquote dir="rtl">
-  <p>
-فَإنّا بِكَ وَلَكَ وَلا وَسِيلَةَ لَنا إلَيْكَ إلاّ أنْتَ.
-  </p>
-</blockquote>
+> فَإنّا بِكَ وَلَكَ وَلا وَسِيلَةَ لَنا إلَيْكَ إلاّ أنْتَ.
 
 “We are Yours, from You, with You and we have no means to You save by
 You.”[^16]24  
@@ -449,12 +337,8 @@ Allah over His servants; either the appearance of the clouds in the
 skies and the rain which makes the earth awaken and blossom or where the
 stars pray and go on prostration. Imam Husayn (s) says:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَمْنَعْكَ جَهْلي وَجُرْأتِي عَلَيْكَ أنْ دَلَلْتَني إلَى مَا
-يُقَرِّبُني إلَيْكَ وَوَفَّقْتَني لِما يُزْلِفُني لَدَيْكَ.
-  </p>
-</blockquote>
+> لَمْ يَمْنَعْكَ جَهْلي وَجُرْأتِي عَلَيْكَ أنْ دَلَلْتَني إلَى مَا
+> يُقَرِّبُني إلَيْكَ وَوَفَّقْتَني لِما يُزْلِفُني لَدَيْكَ.
 
 “My negligence and opposing to You did not make You stop guiding me to
 be close to You and assisting me to approach to You.”[^18]
@@ -474,22 +358,14 @@ supplications unanswered. This is the state of getting to the perfect
 degree of devotion and servitude, to which Imam Husayn (s) has referred
 in the supplication of Arafah.
 
-<blockquote dir="rtl">
-  <p>
-إلٰهي أنا الفَقِيرُ في غِنايَ فَكَيْفَ لا أكُونُ فَقِيراً في فَقْري!
-  </p>
-</blockquote>
+> إلٰهي أنا الفَقِيرُ في غِنايَ فَكَيْفَ لا أكُونُ فَقِيراً في فَقْري!
 
 “O my Lord, I am the needy in my richness so how shall I be not needy in
 my poverty?”  
  In the Holy Qur'an, we read:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
-هُوَ الْغَنِيُّ الْحَمِيدُ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ أَنْتُمْ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ
+> هُوَ الْغَنِيُّ الْحَمِيدُ.
 
 ***“O people! You are they who stand in need of Allah, and Allah is He
 Who is the Self-sufficient, the Praised One. 35:15”***
@@ -505,11 +381,7 @@ The Permanent Attraction
 
 Those who reach this stage will not say:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اجْعَلْني أَصُولُ بِكَ عِنْدَ الضّرورَةِ.
-  </p>
-</blockquote>
+> اَللّهُمَّ اجْعَلْني أَصُولُ بِكَ عِنْدَ الضّرورَةِ.
 
 “O Allah, let me resort to You when being afflicted with a
 calamity.”[^19]
@@ -521,12 +393,8 @@ no way here even in the initial stages, to let alone the loftiest stages
 of knowledge and cognizance.  
  We read in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ. إِلَّا عِبَادَكَ
-مِنْهُمْ الْمُخْلَصِينَ.
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ. إِلَّا عِبَادَكَ
+> مِنْهُمْ الْمُخْلَصِينَ.
 
 ***“He said: Then by Thy Might I will surely make them live an evil
 life, all except Thy servants from among them, the purified ones.
@@ -554,13 +422,9 @@ in supplication. In this process, if their supplication were answered,
 they saw it as another asset that God would bestow upon them. Imam
 as-Sadiq (s) has said:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ دَعَوْتُ اللهَ مَرّةً فَاسْتَجابَ وَنَسِيتُ الحَاجَةَ لأنَّ
-اسْتِجابَتَهُ بإقْبالِهِ عَلی عَبْدِهِ عِندَ دَعْوَتِه أعْظَمُ
-وَأَجَلُّ مِمّا يُريدُ مِنهُ العَبدُ.
-  </p>
-</blockquote>
+> لَقَدْ دَعَوْتُ اللهَ مَرّةً فَاسْتَجابَ وَنَسِيتُ الحَاجَةَ لأنَّ
+> اسْتِجابَتَهُ بإقْبالِهِ عَلی عَبْدِهِ عِندَ دَعْوَتِه أعْظَمُ
+> وَأَجَلُّ مِمّا يُريدُ مِنهُ العَبدُ.
 
 “Once I invoked Allah. My supplication was answered but I forgot my need
 I wanted to ask for. This is because Allah's response to His servant
@@ -568,24 +432,16 @@ when invoking Him is greater and loftier to him than achieving what he
 wants.”[^21]29  
  The Prophet (s) says (that Allah has inspired to him by saying):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ شَغَلَهُ ذِكْري عَنْ مَسْألَتي أَعْطَيْتُهُ أفْضَلَ ما أُعْطي
-السّائِلينَ.
-  </p>
-</blockquote>
+> مَنْ شَغَلَهُ ذِكْري عَنْ مَسْألَتي أَعْطَيْتُهُ أفْضَلَ ما أُعْطي
+> السّائِلينَ.
 
 “One, who is busy with mentioning Me and forgets his need, I will give
 him the best that I have ever given to the supplicants.”  
  We also read:
 
-<blockquote dir="rtl">
-  <p>
-إنّ العَبْدَ لَتَكونُ لهُ الحاجَةُ إلى اللهِ فَيَبْدَأُ بِالثّناءِ
-عَلى اللهِ وَالصّلاةِ عَلى مُحَمّدٍ وَآلِهِ حَتىّ يَنْسى حاجَتَهُ
-فَيَقْضِيها مِنْ غَيرِ أنْ يَسْألَهُ إيّاها.
-  </p>
-</blockquote>
+> إنّ العَبْدَ لَتَكونُ لهُ الحاجَةُ إلى اللهِ فَيَبْدَأُ بِالثّناءِ
+> عَلى اللهِ وَالصّلاةِ عَلى مُحَمّدٍ وَآلِهِ حَتىّ يَنْسى حاجَتَهُ
+> فَيَقْضِيها مِنْ غَيرِ أنْ يَسْألَهُ إيّاها.
 
 “Sometimes a servant needs something from Allah and then he begins
 praising Allah and praying Him to bless Muhammad (s) and his pure
@@ -593,14 +449,10 @@ progeny to a degree that he forgets his need. But Allah achieves his
 need without being asked for it by this servant.”[^22]  
  Imam as-Sajjad (s) invokes Allah by saying:
 
-<blockquote dir="rtl">
-  <p>
-إلهِي فَأجْعَلْنا ممَّنْ هَيَّمْتَ قَلْبَهُ لإرادَتِكَ وَاجْتَبَيْتَهُ
-لمُشاهَدَتِكَ وَأَخْلَيْتَ وَجْهَهُ لكَ وَفَرّغْتَ فُؤادَهُ لحُبِّكَ
-وَرَغّبْتَهُ فيما عِنْدكَ وَقَطَعْتَ عَنهُ كُلّ شَيءٍ يَقْطَعُهُ
-عَنكَ.
-  </p>
-</blockquote>
+> إلهِي فَأجْعَلْنا ممَّنْ هَيَّمْتَ قَلْبَهُ لإرادَتِكَ وَاجْتَبَيْتَهُ
+> لمُشاهَدَتِكَ وَأَخْلَيْتَ وَجْهَهُ لكَ وَفَرّغْتَ فُؤادَهُ لحُبِّكَ
+> وَرَغّبْتَهُ فيما عِنْدكَ وَقَطَعْتَ عَنهُ كُلّ شَيءٍ يَقْطَعُهُ
+> عَنكَ.
 
 “O my Lord, make us among those, whom You have made their hearts submit
 to Your will, whom You have chosen to see You, whom You have attracted
@@ -619,12 +471,8 @@ observe the following conditions:
 
 From Imam Ali's spring of eloquence in his prayers, we also read:
 
-<blockquote dir="rtl">
-  <p>
-إلَهي كَفى بيَ عِزّاً أنْ أَكونَ لَكَ عَبْداً، وَكَفى بي فَخْراً أنْ
-تَكُونَ لي رَبّاً، أنْتَ كَما أُحِبُّ فَاجْعَلْني كَما تُحِبُّ.
-  </p>
-</blockquote>
+> إلَهي كَفى بيَ عِزّاً أنْ أَكونَ لَكَ عَبْداً، وَكَفى بي فَخْراً أنْ
+> تَكُونَ لي رَبّاً، أنْتَ كَما أُحِبُّ فَاجْعَلْني كَما تُحِبُّ.
 
 “O my God, it is enough honor to me to be your humble servant and it is
 enough pride to me that You are my God. You are as I like so make me as
@@ -637,15 +485,11 @@ toward his Creator. He has to know his status and to be aware that he is
 absolute poor and the only Absolute Rich, is Allah, the Almighty. Imam
 Ali (s) in his prayer says:
 
-<blockquote dir="rtl">
-  <p>
-إلهِي لَيسَ تشْبَهُ مَسألَتي مَسألَةَ السّائِلِينَ لأنَّ السّائِلَ إذا
-مُنِعَ إمتَنَعَ عَن السّؤالِ وأنا لا غِناءَ بي عَمّا سَألْتُكَ عَلى
-كُلّ حالٍ بهِ. إلَهي إرْضَ عَنّي فأعْفُ عَنّي فَقدْ يَعفو السّيِّدُ
-عَن عَبدِهِ وَهوَ عَنهُ غَيرُ راضٍ، إلَهي كَيفَ أدْعوكَ وَأنا أنا؟ أمْ
-كَيفَ أيْأسُ مِنكَ وَأنتَ أَنتَ؟
-  </p>
-</blockquote>
+> إلهِي لَيسَ تشْبَهُ مَسألَتي مَسألَةَ السّائِلِينَ لأنَّ السّائِلَ إذا
+> مُنِعَ إمتَنَعَ عَن السّؤالِ وأنا لا غِناءَ بي عَمّا سَألْتُكَ عَلى
+> كُلّ حالٍ بهِ. إلَهي إرْضَ عَنّي فأعْفُ عَنّي فَقدْ يَعفو السّيِّدُ
+> عَن عَبدِهِ وَهوَ عَنهُ غَيرُ راضٍ، إلَهي كَيفَ أدْعوكَ وَأنا أنا؟ أمْ
+> كَيفَ أيْأسُ مِنكَ وَأنتَ أَنتَ؟
 
 “O my Lord, my request is not like the requests of the supplicants
 because if a supplicant is rejected, he will refrain from asking again
@@ -656,14 +500,10 @@ am what I am? Or how do I despair of You while You are what You
 are?”[^24]  
  Imam as-Sadiq (s) in his prostration says:
 
-<blockquote dir="rtl">
-  <p>
-سَجَدَ وَجْهِيَ الذّلِيلُ لِوَجْهِكَ العَزيزِ، سَجَدَ وَجْهي البالي
-لِوَجْهِكَ الدّائِمِ الباقِي، سَجَدَ وَجْهي الفَقيرُ لِوَجْهِكَ
-الغَنيِّ الكَبيرِ، سَجَدَ وَجْهي وَسَمْعي وَبَصَري وَلَحْمي وَدَمي
-وَجِلْدي وَعَظْمي وَما أقَلّتِ الأرْضُ مِنّي للهِ رَبِّ العالَمِينَ.
-  </p>
-</blockquote>
+> سَجَدَ وَجْهِيَ الذّلِيلُ لِوَجْهِكَ العَزيزِ، سَجَدَ وَجْهي البالي
+> لِوَجْهِكَ الدّائِمِ الباقِي، سَجَدَ وَجْهي الفَقيرُ لِوَجْهِكَ
+> الغَنيِّ الكَبيرِ، سَجَدَ وَجْهي وَسَمْعي وَبَصَري وَلَحْمي وَدَمي
+> وَجِلْدي وَعَظْمي وَما أقَلّتِ الأرْضُ مِنّي للهِ رَبِّ العالَمِينَ.
 
 “My mean face prostrates to Your honored face, my mortal face prostrates
 to Your immortal face, my poor face prostrates to Your rich face, my
@@ -672,12 +512,8 @@ all what is there on the earth prostrate before Allah, the Lord of the
 worlds.”[^25]  
  Imam as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ يَسْتَغْني العَبدُ عَنْ رَبِّهِ؟ سَيّدي لَمْ أزْدَدْ إلَيْكَ
-إلاّ فَقْراً وَلَمْ تَزْدَدْ عَنّي إلاّ غِنىً.
-  </p>
-</blockquote>
+> وَكَيْفَ يَسْتَغْني العَبدُ عَنْ رَبِّهِ؟ سَيّدي لَمْ أزْدَدْ إلَيْكَ
+> إلاّ فَقْراً وَلَمْ تَزْدَدْ عَنّي إلاّ غِنىً.
 
 “How can a slave do without his lord? O my Lord, I become more and more
 in need to You and You are not in need to me.”[^26]
@@ -691,14 +527,10 @@ needs and that there is no impediment and hurdle on the way of His might
 and power.  
  Imam as-Sajjad, when asking God to fulfill his needs, says:
 
-<blockquote dir="rtl">
-  <p>
-تَمَدَّحْتَ بِالغِناءِ عَنْ خَلْقِكَ وَأنْتَ أهْلُ الغِنى عَنْهُم
-وَنَسَبْتَهُم إلى الفَقْرِ وَهُمْ أهْلُ الفَقْرِ إلَيْكَ فَمَنْ حاوَلَ
-سَدَّ خِلَّتِه مِنْ عِندِكَ، وَرَامَ صَرْفَ الفَقْرِ عَنْ نَفْسهِ بِكَ
-فَقَدْ طلَبَ حاجَتَهُ في مَظانِّها وأتَى طِلْبَتَهُ مِن وَجْهِها.
-  </p>
-</blockquote>
+> تَمَدَّحْتَ بِالغِناءِ عَنْ خَلْقِكَ وَأنْتَ أهْلُ الغِنى عَنْهُم
+> وَنَسَبْتَهُم إلى الفَقْرِ وَهُمْ أهْلُ الفَقْرِ إلَيْكَ فَمَنْ حاوَلَ
+> سَدَّ خِلَّتِه مِنْ عِندِكَ، وَرَامَ صَرْفَ الفَقْرِ عَنْ نَفْسهِ بِكَ
+> فَقَدْ طلَبَ حاجَتَهُ في مَظانِّها وأتَى طِلْبَتَهُ مِن وَجْهِها.
 
 “You have been praised with being not in need of Your creatures and You
 deserve this attribute. You have considered Your creatures as needy and
@@ -710,46 +542,30 @@ source.”
 Imam as-Sajjad (s) adds, stating that Allah hates for His people to ask
 other than Him:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ رَبّي! كَيفَ يَسأَلُ مُحتاجٌ مُحْتاجاً وَأنَّى يَرْغَبُ
-مُعْدِمٌ إلى مُعْدِمٍ!
-  </p>
-</blockquote>
+> سُبْحانَ رَبّي! كَيفَ يَسأَلُ مُحتاجٌ مُحْتاجاً وَأنَّى يَرْغَبُ
+> مُعْدِمٌ إلى مُعْدِمٍ!
 
 “Glory be to Allah! How is it possible for a poor one to ask another
 poor one and a needy one to resort to another needy one?”[^27]  
  Imam Ali (s) says:
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَ الّذي يَتَوكَّلُ كُلُّ مُؤمِنٍ عَلَيهِ وَيُضْطَرُّ كُلُّ
-جاحِدٍ إلَيْهِ وَلا يَسْتَغني أَحَدٌ إلاّ بِفَضْلِ ما لَدَيْهِ.
-  </p>
-</blockquote>
+> سُبحانَ الّذي يَتَوكَّلُ كُلُّ مُؤمِنٍ عَلَيهِ وَيُضْطَرُّ كُلُّ
+> جاحِدٍ إلَيْهِ وَلا يَسْتَغني أَحَدٌ إلاّ بِفَضْلِ ما لَدَيْهِ.
 
 “Glory be to Allah, upon Whom every faithful relies and to Whom every
 unbeliever resorts and Whom no one becomes needless except with His
 favors.”[^28]  
  In *Al-Sahifah al-Sajjadiyyah*, we read:
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَ مَنْ قَدَّرَ بِقُدرَتِهِ كُلَّ قُدرَةٍ.
-  </p>
-</blockquote>
+> سُبحانَ مَنْ قَدَّرَ بِقُدرَتِهِ كُلَّ قُدرَةٍ.
 
 “Glory be to Him, Who has determined with His power every power.”[^29]  
  In another prayer, Imam as-Sajjad (s) says:
 
-<blockquote dir="rtl">
-  <p>
-أصْبَحْنا في قَبْضَتِكَ، يَحْوِينا مُلْكُكَ وَسُلْطانُكَ وَتَضُمُّنا
-مَشيئَتُكَ وَنَتَصَرَّفُ عَنْ أمْرِكَ وَنَتَقَلَّبُ في تَدبِيرِكَ،
-لَيْسَ لَنا مِن الأمْرِ إلاّ ما قَضَيْتَ وَلا مِن الخَيرِ إلاّ ما
-أعْطَيْتَ.
-  </p>
-</blockquote>
+> أصْبَحْنا في قَبْضَتِكَ، يَحْوِينا مُلْكُكَ وَسُلْطانُكَ وَتَضُمُّنا
+> مَشيئَتُكَ وَنَتَصَرَّفُ عَنْ أمْرِكَ وَنَتَقَلَّبُ في تَدبِيرِكَ،
+> لَيْسَ لَنا مِن الأمْرِ إلاّ ما قَضَيْتَ وَلا مِن الخَيرِ إلاّ ما
+> أعْطَيْتَ.
 
 “O my Lord, we are under Your control, possessed by Your kingdom and
 rule, submitted to Your will, acting according to Your orders and moving
@@ -773,12 +589,8 @@ infidel: “Now who is going to save you?” He replied: “Your generosity;
 because you are a great man”. Then the Prophet (s) pardoned him.[^31]
 Imam Ali (s) said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَصْدُقُ إيمَانُ عَبْدٍ حَتىّ يَكونَ بِما في يَدِ اللهِ أوْثَقَ
-مِنْهُ بِما في يَدِهِ.
-  </p>
-</blockquote>
+> لا يَصْدُقُ إيمَانُ عَبْدٍ حَتىّ يَكونَ بِما في يَدِ اللهِ أوْثَقَ
+> مِنْهُ بِما في يَدِهِ.
 
 “One's faith will not be true unless he is certain of what there is in
 Allah's hand more than his certainty of what there is in his own
@@ -789,41 +601,25 @@ hand.”[^32]
 The third condition for a supplicant is to know that Allah is closer to
 him than anyone or anything else. This is because Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ.
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ.
 
 ***“And when My servants ask you concerning Me, then surely I am very
 near. 2:186”***
 
-<blockquote dir="rtl">
-  <p>
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ.
-  </p>
-</blockquote>
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ.
 
 ***“And we are nearer to him than his life-vein. 50:16”***
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ.
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ.
 
 ***“And know that Allah intervenes between man and his heart. 8:24”***
 
 Imam Ali (s) in his Saturday's Prayer says:
 
-<blockquote dir="rtl">
-  <p>
-أَتَقَرَّبُ إلَيْكَ بِسَعَةِ رَحْمَتِكَ الّتي وَسِعَتْ كُلَّ شَيءٍ
-وَقَدْ تَرى يا رَبِّ مَكانِي وَتَطَّلِعُ عَلى ضَميرِي وَتَعْلَمُ سِرّي
-وَلا يَخْفى عَلَيكَ أمْرِي وَأنْتَ أقْرَبُ إلَيَّ مِنْ حَبْلِ
-الوَريدِ.
-  </p>
-</blockquote>
+> أَتَقَرَّبُ إلَيْكَ بِسَعَةِ رَحْمَتِكَ الّتي وَسِعَتْ كُلَّ شَيءٍ
+> وَقَدْ تَرى يا رَبِّ مَكانِي وَتَطَّلِعُ عَلى ضَميرِي وَتَعْلَمُ سِرّي
+> وَلا يَخْفى عَلَيكَ أمْرِي وَأنْتَ أقْرَبُ إلَيَّ مِنْ حَبْلِ
+> الوَريدِ.
 
 “O my Lord, I approach to You by Your great mercy, which has encompassed
 everything. O my Lord, You see my place, You know what there is in my
@@ -837,26 +633,18 @@ intercessor.” Thu'lub al-Yamani asked Imam Ali (s), “Have you seen your
 God?” Imam Ali (s) said, “Do I worship what I do not see?” Imam Ali (s)
 then was asked how he had seen God and he replied:
 
-<blockquote dir="rtl">
-  <p>
-لا تُدْرِكُهُ العُيونُ بِمُشاهَدَةِ العَيانِ وَلَكِنْ تُدْرِكُهُ
-القُلوبُ بِحَقائِقِ الإيمانِ. قَريبٌ مِنَ الأشْياءِ غَيرَ مُلامِسٍ
-وَبَعيدٌ مِنْها غَيرَ مُبايِنٍ.
-  </p>
-</blockquote>
+> لا تُدْرِكُهُ العُيونُ بِمُشاهَدَةِ العَيانِ وَلَكِنْ تُدْرِكُهُ
+> القُلوبُ بِحَقائِقِ الإيمانِ. قَريبٌ مِنَ الأشْياءِ غَيرَ مُلامِسٍ
+> وَبَعيدٌ مِنْها غَيرَ مُبايِنٍ.
 
 “The eyes do not see Him but the hearts perceive Him with the facts of
 faith. He is near to things without mixing with them and far from them
 without neglecting them.”  
  Imam Ali (s) in another sermon says:
 
-<blockquote dir="rtl">
-  <p>
-سَبَقَ فِي العُلُوِّ فَلا شَيءَ أعْلى مِنْهُ، وَقَرُبَ في الدُّنُوّ
-فَلا شَيءٌ أقْرَبَ مِنْهُ، فَلا اسْتِعْلاؤهُ باعَدَهُ عَن شَيءٍ مِنْ
-خَلْقِهِ ولا قُرْبُهُ ساوَاهُمْ في المَكانِ بهِ.
-  </p>
-</blockquote>
+> سَبَقَ فِي العُلُوِّ فَلا شَيءَ أعْلى مِنْهُ، وَقَرُبَ في الدُّنُوّ
+> فَلا شَيءٌ أقْرَبَ مِنْهُ، فَلا اسْتِعْلاؤهُ باعَدَهُ عَن شَيءٍ مِنْ
+> خَلْقِهِ ولا قُرْبُهُ ساوَاهُمْ في المَكانِ بهِ.
 
 “He is so high that nothing is higher than Him and He is so near that
 nothing is nearer than Him. Neither His highness makes Him far from His
@@ -901,14 +689,10 @@ Examples of the Prophets’ Manners towards Allah as mentioned in The Holy Qur�
 
 Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلْتَ
-لِلنَّاسِ اتَّخِذُونِي وَأُمِّي إِلَهَيْنِ مِنْ دُونِ اللَّهِ قَالَ
-سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ إِنْ
-كُنتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ.
-  </p>
-</blockquote>
+> وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنتَ قُلْتَ
+> لِلنَّاسِ اتَّخِذُونِي وَأُمِّي إِلَهَيْنِ مِنْ دُونِ اللَّهِ قَالَ
+> سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ إِنْ
+> كُنتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ.
 
 ***“And when Allah will say: O Issa son of Maryam! Did you say to men,
 Take me and my mother for two gods besides Allah, he will say: Glory be
@@ -955,22 +739,14 @@ God's servant has to learn how to behave before Allah, the Almighty.
 
 When Adam (s) ate from the forbidden tree's fruit and was addressed by:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ؟
-  </p>
-</blockquote>
+> أَلَمْ أَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ؟
 
 ***“Did I not forbid you both from that tree. 7:22”***
 
 He and his wife began to invoke Allah by saying:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا
-لَنَكُونَنَّ مِنْ الْخَاسِرِينَ.
-  </p>
-</blockquote>
+> رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا
+> لَنَكُونَنَّ مِنْ الْخَاسِرِينَ.
 
 ***“Our Lord! We have been unjust to ourselves, and if thou forgive us
 not, and have (not) mercy on us, we shall certainly be of the losers.
@@ -986,23 +762,19 @@ Manners of Supplication in Imam as-Sadiq’s Statements
 
 Imam as-Sadiq (s) said, concerning the manners of supplication:
 
-<blockquote dir="rtl">
-  <p>
-إحْفَظْ آدابَ الدُّعاءِ وَانْظُرْ مَنْ تَدْعو وَكَيفَ تَدْعو وَلِماذا
-تَدعو، وَحَقِّقْ عَظَمةَ اللهِ وَكِبْرِياءَهُ، وَعايِنْ بِقَلْبِكَ
-عِلْمَهُ بِما في ضَمِيرِكَ وَاطِّلاعَهُ عَلى سِرِّكَ وَما يَكونُ فيهِ
-مِن الحَقّ وَالباطِلِ، وَاعْرِفْ طُرُقَ نَجاتِكَ وَهَلاكِكَ كَيلا
-تَدعُوَ اللهَ بِشَيء مِنهُ هَلاكُكَ وَأنتَ تَظُنُّ فيهِ نَجاتكَ. قالَ
-اللهُ عَزَّ وَجَلَّ: “وَيَدْعُ الْإِنسَانُ بِالشَّرِّ دُعَاءَهُ
-بِالْخَيْرِ وَكَانَ الْإِنسَانُ عَجُولًا.”وَتَفَكَّرْ ماذا تَسألُ
-وَكَمْ تَسألُ وَلِماذا تَسألُ. وَالدُّعاءُ اسْتِجابَةٌ لِلكُلِّ مِنْكَ
-لِلحَقِّ وَتَذْويبُ المُهْجَةِ في مُشاهَدَةِ الرَّبِّ وَتَرْكِ
-الإخْتِيارِ جَميعاً وَتَسْليم الأمُورِ كُلِّها ظاهِراً وَباطِناً إلى
-اللهِ، فَإنْ لَمْ تَأتِ بِشَرْطِ الدُّعاءِ فَلا تَنْتَظِرْ الإجابَةَ
-فَإنّهُ يَعْلَمُ السِّرَّ وَأخْفى، فَلَعَلَّكَ تَدعُوهُ بِشَيءٍ قَد
-عَلِمَ مِنْ سِرِّكَ خِلافَ ذلِكَ.”
-  </p>
-</blockquote>
+> إحْفَظْ آدابَ الدُّعاءِ وَانْظُرْ مَنْ تَدْعو وَكَيفَ تَدْعو وَلِماذا
+> تَدعو، وَحَقِّقْ عَظَمةَ اللهِ وَكِبْرِياءَهُ، وَعايِنْ بِقَلْبِكَ
+> عِلْمَهُ بِما في ضَمِيرِكَ وَاطِّلاعَهُ عَلى سِرِّكَ وَما يَكونُ فيهِ
+> مِن الحَقّ وَالباطِلِ، وَاعْرِفْ طُرُقَ نَجاتِكَ وَهَلاكِكَ كَيلا
+> تَدعُوَ اللهَ بِشَيء مِنهُ هَلاكُكَ وَأنتَ تَظُنُّ فيهِ نَجاتكَ. قالَ
+> اللهُ عَزَّ وَجَلَّ: “وَيَدْعُ الْإِنسَانُ بِالشَّرِّ دُعَاءَهُ
+> بِالْخَيْرِ وَكَانَ الْإِنسَانُ عَجُولًا.”وَتَفَكَّرْ ماذا تَسألُ
+> وَكَمْ تَسألُ وَلِماذا تَسألُ. وَالدُّعاءُ اسْتِجابَةٌ لِلكُلِّ مِنْكَ
+> لِلحَقِّ وَتَذْويبُ المُهْجَةِ في مُشاهَدَةِ الرَّبِّ وَتَرْكِ
+> الإخْتِيارِ جَميعاً وَتَسْليم الأمُورِ كُلِّها ظاهِراً وَباطِناً إلى
+> اللهِ، فَإنْ لَمْ تَأتِ بِشَرْطِ الدُّعاءِ فَلا تَنْتَظِرْ الإجابَةَ
+> فَإنّهُ يَعْلَمُ السِّرَّ وَأخْفى، فَلَعَلَّكَ تَدعُوهُ بِشَيءٍ قَد
+> عَلِمَ مِنْ سِرِّكَ خِلافَ ذلِكَ.”
 
 “Keep to the morals of supplication and see whom you invoke, how you
 invoke and why you invoke. Preserve the greatness and highness of Allah
@@ -1122,5 +894,4 @@ al-manthour.
 [^34]: Uddat al-Da’ee, p. 242.
 
 [^35]: Bihar al-Anwar, vol. 93, p. 322.
-
 

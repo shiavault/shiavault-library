@@ -244,4 +244,3 @@ miraculous force by adulterating the text by making insertions, and to
 make false claims about the omission and alteration of certain verses of
 the Qur'an.
 
-

@@ -127,4 +127,3 @@ their rights they can secure their future.
 
 [^1]: Qur’an 4:11
 
-

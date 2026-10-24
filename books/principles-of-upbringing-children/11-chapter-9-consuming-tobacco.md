@@ -61,4 +61,3 @@ increase abnormally.[^3]
 
 [^3]: Rushinasi Kudak, p. 222
 
-

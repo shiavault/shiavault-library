@@ -4,13 +4,9 @@ Surah al-Furqan, Section 3, The Qur’an Was Revealed Gradually
 Surah al-Furqan, Chapter 25- Verse 21
 -------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ لاَ يَرْجُونَ لِقَاءنَا لَوْلاَ أُنزِلَ عَلَيْنَا
-الْمَلاَئِكَةُ أَوْ نَرَى رَبَّنَا لَقَدِ اسْتَكْبَرُوا فِي
-أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ لاَ يَرْجُونَ لِقَاءنَا لَوْلاَ أُنزِلَ عَلَيْنَا
+> الْمَلاَئِكَةُ أَوْ نَرَى رَبَّنَا لَقَدِ اسْتَكْبَرُوا فِي
+> أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا
 
 ***21. “And those who do not hope to meet Us (for Judgment) say: ‘Why
 are not the angels sent down to us, or (why) do we not see our Lord?’
@@ -110,12 +106,8 @@ great mistake.
 Surah al-Furqan - Verse 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَرَوْنَ الْمَلاَئِكَةَ لاَ بُشْرَى يَوْمَئِذٍ لِّلْمُجْرِمِينَ
-وَيَقُولُونَ حِجْرًا مَّحْجُورًا
-  </p>
-</blockquote>
+> يَوْمَ يَرَوْنَ الْمَلاَئِكَةَ لاَ بُشْرَى يَوْمَئِذٍ لِّلْمُجْرِمِينَ
+> وَيَقُولُونَ حِجْرًا مَّحْجُورًا
 
 ***2. “On the day when they shall see the angels, there shall be no glad
 tidings that day for the guilty, and they (the angels) shall say: ‘It
@@ -213,12 +205,8 @@ verses that talk about resurrection and especially with the word
 Surah al-Furqan - Verse 23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاء
-مَّنثُورًا
-  </p>
-</blockquote>
+> وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاء
+> مَّنثُورًا
 
 ***23. “And We will proceed to what they have done of deeds, so We shall
 render them as scattered floating dust.”***
@@ -320,12 +308,8 @@ it.”*[^10]
 Surah al-Furqan - Verse 24
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ
-مَقِيلًا
-  </p>
-</blockquote>
+> أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ
+> مَقِيلًا
 
 ***24. “The companions of the Garden (Paradise) that day shall be in a
 better abode and a better resting-place.”***
@@ -364,19 +348,11 @@ The Paradise began speaking and said:
 Surah al-Furqan - Verses 25-26
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ تَشَقَّقُ السَّمَاء بِالْغَمَامِ وَنُزِّلَ الْمَلاَئِكَةُ
-تَنزِيلًا
-  </p>
-</blockquote>
+> وَيَوْمَ تَشَقَّقُ السَّمَاء بِالْغَمَامِ وَنُزِّلَ الْمَلاَئِكَةُ
+> تَنزِيلًا
 
-<blockquote dir="rtl">
-  <p>
-الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَنِ وَكَانَ يَوْمًا عَلَى
-الْكَافِرِينَ عَسِيرًا
-  </p>
-</blockquote>
+> الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَنِ وَكَانَ يَوْمًا عَلَى
+> الْكَافِرِينَ عَسِيرًا
 
 ***25. “And on the day when the heaven shall burst asunder with the
 clouds and the angels shall be sent down descending (in ranks).”***  
@@ -508,25 +484,13 @@ acceptance of their unreasonable excuses:
 Surah al-Furqan - Verses 27-29
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي
-اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا
-  </p>
-</blockquote>
+> وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي
+> اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا
 
-<blockquote dir="rtl">
-  <p>
-يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلاَنًا خَلِيلًا
-  </p>
-</blockquote>
+> يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلاَنًا خَلِيلًا
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءنِي وَكَانَ
-الشَّيْطَانُ لِلْإِنسَانِ خَذُولًا
-  </p>
-</blockquote>
+> لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءنِي وَكَانَ
+> الشَّيْطَانُ لِلْإِنسَانِ خَذُولًا
 
 ***27. “And on the day when the unjust one shall bite his hands, saying:
 ‘Oh! Would that I had taken a way alone with the Messenger’!”***  
@@ -844,12 +808,8 @@ sun:*
 Surah al-Furqan - Verse 30
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ
-مَهْجُورًا
-  </p>
-</blockquote>
+> وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ
+> مَهْجُورًا
 
 ***30. “And the Messenger will say (that Day): ‘O my Lord! Verily my
 people treated this Qur’an with neglect.”***
@@ -970,12 +930,8 @@ neglected the Qur’an.[^40]
 Surah al-Furqan - Verse 31
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا مِّنَ الْمُجْرِمِينَ
-وَكَفَى بِرَبِّكَ هَادِيًا وَنَصِيرًا
-  </p>
-</blockquote>
+> وَكَذَلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا مِّنَ الْمُجْرِمِينَ
+> وَكَفَى بِرَبِّكَ هَادِيًا وَنَصِيرًا
 
 ***31 “And thus We appointed for every prophet an enemy from among the
 sinners, and sufficient is your Lord as a Guide and a Helper.”***
@@ -1014,13 +970,9 @@ I fear not enemy, for You are my Friend.
 Surah al-Furqan - Verse 32
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لَوْلاَ نُزِّلَ عَلَيْهِ الْقُرْآنُ
-جُمْلَةً وَاحِدَةً كَذَلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ وَرَتَّلْنَاهُ
-تَرْتِيلًا
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لَوْلاَ نُزِّلَ عَلَيْهِ الْقُرْآنُ
+> جُمْلَةً وَاحِدَةً كَذَلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ وَرَتَّلْنَاهُ
+> تَرْتِيلًا
 
 ***32. “And those who disbelieve say: ‘Why has not the Qur’an been sent
 down upon him all at once? Thus (is it revealed), that We may strengthen
@@ -1113,12 +1065,8 @@ and make dark places of their life lighted by it.
 Surah al-Furqan - Verse 33
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَأْتُونَكَ بِمَثَلٍ إِلاَ جِئْنَاكَ بِالْحَقِّ وَ أَحْسَنَ
-تَفْسِيرًا
-  </p>
-</blockquote>
+> وَلاَ يَأْتُونَكَ بِمَثَلٍ إِلاَ جِئْنَاكَ بِالْحَقِّ وَ أَحْسَنَ
+> تَفْسِيرًا
 
 ***33. “And they shall not bring to you any similitude, but We bring to
 you the truth and the best explanation (of it).”***
@@ -1152,12 +1100,8 @@ words.
 Surah al-Furqan - Verse 34
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُحْشَرُونَ عَلَى وُجُوهِهِمْ إِلَى جَهَنَّمَ أُوْلَئِكَ
-شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا
-  </p>
-</blockquote>
+> الَّذِينَ يُحْشَرُونَ عَلَى وُجُوهِهِمْ إِلَى جَهَنَّمَ أُوْلَئِكَ
+> شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا
 
 ***34. “Those who shall be mustered upon their faces unto Hell, they are
 in a worse place and as to path, most astray.”***
@@ -1339,5 +1283,4 @@ Nūr-uth-Thaqalayn, Vol. 2, P. 9
 [^45]: Ibid P. 311
 
 [^46]: Ibid P. 206, taken from Nahj-ul-Balāqah
-
 

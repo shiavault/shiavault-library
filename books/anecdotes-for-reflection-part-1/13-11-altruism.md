@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ يُوثِرُونَ عَلىَ اَنْفُسِهِم وَ لَوْ كاَنَ بِهِم خَصاَصَةٌ
-  </p>
-</blockquote>
+> وَ يُوثِرُونَ عَلىَ اَنْفُسِهِم وَ لَوْ كاَنَ بِهِم خَصاَصَةٌ
 
 ***(And prefer (the Mohajirs) over themselves though poverty may afflict
 them.)***[^1]
 
 The Holy Prophet (s.a.w.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَيُّما اِمرِئٍ اِشتَهىَ شَهوَةً فَرَد شَهوَتَهُ وَ آثَرَ عَلىَ
-نَفسِهِ غُفِرَ لهُ
-  </p>
-</blockquote>
+> اَيُّما اِمرِئٍ اِشتَهىَ شَهوَةً فَرَد شَهوَتَهُ وَ آثَرَ عَلىَ
+> نَفسِهِ غُفِرَ لهُ
 
 *(One, who covets something, (but) suppressing his desire gives others
 preference over himself, shall have his sins forgiven.)*[^2]
@@ -268,5 +260,4 @@ commenced the Islamic calendar.
 
 [^8]: Raahnama-e-Sa’adat, vol. 2, pg. 350; Safinah al-Bihaar, vol. 1.
 pg. 208.
-
 

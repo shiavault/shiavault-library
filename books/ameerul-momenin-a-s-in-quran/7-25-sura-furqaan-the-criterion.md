@@ -37,7 +37,6 @@ regarding this ayah, "One who had the knowledge of the Book" ,
 RasoolAllah (saw) said, "That is My brother, Ali (asws) ibn Abi Talib
 (as)". (Al Bihar 35th Vol pg 429)
 
-
 **28. Sura Qasas (The Stories)**
 
 1. ayah 5 "And We desired to bestow a favor upon those who were deemed
@@ -90,7 +89,6 @@ eventual coming" Zaid bin al Munzeer narrates, "I heard Imam Abu Jafar
 to RasoolAllah (saw) and Ali (asws) ibn Abi Talib (as)". (Taweel ul Ayat
 pg 469)
 
-
 33. Sura Ahzab (The Clans)
 
 1. ayah 23 "Of the believers are men who are true to that which they
@@ -119,7 +117,6 @@ and those who take the middle course are those who recognize the Imams
 Imams (as)."
 
 (Usool e Kafi First Edition pg 214)
-
 
 **36. Sura Ya-Seen**
 
@@ -250,7 +247,6 @@ them" Ibne Abbas (ra) narrates regarding this ayah, "And if We take thee
 away, We surely shall take vengeance on them," with Ali (asws) ibn Abi
 Talib (as)." (Tafseer e Furat pg 402)
 
-
 47. Sura Muhammad
 
 1. ayah 28 "That is because they follow what is displeasing to Allah
@@ -258,5 +254,4 @@ and are averse to His pleasure therefore He has made null their deeds"
 Jabir bin Yazid narrates from Imam Abu Jafar (as) regarding this ayah,
 Imam (as) said, "They disliked Ali (asws) and refused to follow Him
 while He was the pleasure of Allah and His Prophet."
-
 

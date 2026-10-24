@@ -185,4 +185,3 @@ Bihar ul-Anwar, Vol. 15, p.125.
 
 [^14]: Ibid., p.142; Sirihi ibn Hisham, Vol. 1, p.168.
 
-

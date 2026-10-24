@@ -82,11 +82,7 @@ kind of guile. Therefore, Muslim could not employ craftiness in order to
 fight ‘Ubayd Allah ibn Ziyad. Imam al-Sadiq (as) recounts a *hadith* in
 which Allah’s Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«إنّ الاسلام قيد الفتك.»
-  </p>
-</blockquote>
+> «إنّ الاسلام قيد الفتك.»
 
 “Verily, Islam became an obstruction of deceit and an obstacle of
 trickery. (Islam has tied and chained guile and craftiness).”[^1]
@@ -159,5 +155,4 @@ Sham would hold them responsible for killing the governor, and as a
 result avenge his death with massacre of the people of Kufah.
 
 [^1]: Tahdhib al-Ahkam, vol. 10, p. 214; Al-Kafi, vol. 7, p. 375.
-
 

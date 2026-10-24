@@ -96,7 +96,6 @@ Not only the crash of the celestial spheres and planets cause calamity,
 but also a slight deviation of a planet, like earth, from its orb may
 bring forth a calamity.
 
-
 **Commentary : Verse 42**
 
 (42) وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِن جَآءَهُمْ
@@ -160,7 +159,6 @@ waiting for the advent of Had?rat Mahdi- (May Allah hasten his glad
 advent) and say that if he (a.s.) comes they will do so and so, but when
 he (a.s.) comes they stand against him.
 
-
 **Commentary : Verse 43**
 
 (43) اسْتِكْبَاراً فِي الأَرْضِ وَمَكْرَ السّـِيئِ وَلاَ يَحِيقُ
@@ -220,5 +218,4 @@ Then, for a more emphasis, it adds:
 
 “… For never shall you find any alternation in the course of Allah and
 never shall you find in the course of Allah any change.”
-
 

@@ -51,4 +51,3 @@ Sayings:
 
 “Better to be dumb than to lie.” - Ali (a)
 
-

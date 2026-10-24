@@ -64,4 +64,3 @@ cannot be solved by citing sacred texts.
 for the Holy Qur'an and the Holy Sunnah that comprises the words, deeds,
 and confirmations of the Holy Prophet and the Holy Imams.
 
-

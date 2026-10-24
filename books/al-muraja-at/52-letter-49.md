@@ -74,4 +74,3 @@ to Al-Sawa’iq al-Muhriqa.
 [^6]: This is well-known about them. Ibn Hajar has copied it at the
 beginning of Section 2, Chapter 9, page 72, of his Al-Sawa’iq al-Muhriqa
 
-

@@ -470,4 +470,3 @@ have dissimilar rights and duties.
 In the study and determination of the family rights and duties of men
 and women this is one of the most sensitive areas.
 
-

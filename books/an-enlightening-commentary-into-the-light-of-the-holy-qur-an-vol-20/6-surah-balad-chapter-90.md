@@ -8,11 +8,7 @@ Surah Balad, Chapter 90
 Contents of this Surah
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -61,55 +57,23 @@ men.”*[^2]
 Surah Balad, Verses 1-7
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-لَا أُقْسِمُ بِهَذَا الْبَلَدِ
-  </p>
-</blockquote>
+> لَا أُقْسِمُ بِهَذَا الْبَلَدِ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنتَ حِلٌّ بِهَذَا الْبَلَدِ
-  </p>
-</blockquote>
+> وَأَنتَ حِلٌّ بِهَذَا الْبَلَدِ
 
-<blockquote dir="rtl">
-  <p>
-وَوَالِدٍ وَمَا وَلَدَ
-  </p>
-</blockquote>
+> وَوَالِدٍ وَمَا وَلَدَ
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
-  </p>
-</blockquote>
+> أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا
-  </p>
-</blockquote>
+> يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
-  </p>
-</blockquote>
+> أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
 
 ***1. “Nay! I swear by this city (Mecca)”***  
 ***2. “And you are an inhabitant of this city,"***  
@@ -346,23 +310,11 @@ grudgingly.
 Surah Balad, Verses 8-10
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
-  </p>
-</blockquote>
+> أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
 
-<blockquote dir="rtl">
-  <p>
-وَلِسَانًا وَشَفَتَيْنِ
-  </p>
-</blockquote>
+> وَلِسَانًا وَشَفَتَيْنِ
 
-<blockquote dir="rtl">
-  <p>
-وَهَدَيْنَاهُ النَّجْدَيْنِ
-  </p>
-</blockquote>
+> وَهَدَيْنَاهُ النَّجْدَيْنِ
 
 ***8. “Have We not made for him two eyes?"***  
 ***9. “And a tongue and two lips?"***  
@@ -474,66 +426,26 @@ eyes.
 Surah Balad, Verses 11-20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا اقْتَحَمَ الْعَقَبَةَ
-  </p>
-</blockquote>
+> فَلَا اقْتَحَمَ الْعَقَبَةَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْعَقَبَةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْعَقَبَةُ
 
-<blockquote dir="rtl">
-  <p>
-فَكُّ رَقَبَةٍ
-  </p>
-</blockquote>
+> فَكُّ رَقَبَةٍ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
-  </p>
-</blockquote>
+> أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
 
-<blockquote dir="rtl">
-  <p>
-يَتِيمًا ذَا مَقْرَبَةٍ
-  </p>
-</blockquote>
+> يَتِيمًا ذَا مَقْرَبَةٍ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
-  </p>
-</blockquote>
+> أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ
-وَتَوَاصَوْا بِالْمَرْحَمَةِ
-  </p>
-</blockquote>
+> ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ
+> وَتَوَاصَوْا بِالْمَرْحَمَةِ
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ أَصْحَابُ الْمَيْمَنَةِ
-  </p>
-</blockquote>
+> أُوْلَئِكَ أَصْحَابُ الْمَيْمَنَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ
-  </p>
-</blockquote>
+> عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ
 
 ***11. “But he would not attempt the uphill road,"***  
 ***12. “And what will make you comprehend what the uphill road is?”***  
@@ -801,5 +713,4 @@ Hereafter.*
 [^12]: Nahj-ul-Balagha, Sermon 176 (Arabic Version).
 
 [^13]: Tafsir, Abulfutuh Razi, vol. 12, p. 97.
-
 

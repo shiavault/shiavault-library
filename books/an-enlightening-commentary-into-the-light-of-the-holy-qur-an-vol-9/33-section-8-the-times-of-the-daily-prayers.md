@@ -4,13 +4,9 @@ Section 8: The Times of the Daily Prayers
 Surah Ta Ha – Verse 130
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ عَلَي مَا يَقُولُونَ وَسَبّـِحْ بِحَمْدِ رَبّـِكَ قَبْلَ
-طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ ءَانآئِ اللَّيْلِ
-فَسَبّـِحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَي
-  </p>
-</blockquote>
+> فَاصْبِرْ عَلَي مَا يَقُولُونَ وَسَبّـِحْ بِحَمْدِ رَبّـِكَ قَبْلَ
+> طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ ءَانآئِ اللَّيْلِ
+> فَسَبّـِحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَي
 
 ***130. “So be patient with what they say, and glorify your Lord by
 praising Him before the rising of the sun and before its setting, and
@@ -59,13 +55,9 @@ with patience before the ill-speaking and evil words of the polytheists.
 Surah Ta Ha – Verse 131
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَمُدَّنَّ عَيْنَيْكَ إِلَي مَا مَتَّعْنَا بِهِ أَزْوَاجاً
-مّـِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ
-وَرِزْقُ رَبّـِكَ خَيْرٌ وَأَبْقَي
-  </p>
-</blockquote>
+> وَلاَ تَمُدَّنَّ عَيْنَيْكَ إِلَي مَا مَتَّعْنَا بِهِ أَزْوَاجاً
+> مّـِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ
+> وَرِزْقُ رَبّـِكَ خَيْرٌ وَأَبْقَي
 
 ***131. “And do not stretch your eyes to that thing which We have given
 parties of them to enjoy; (this is) the splendour of the life of the
@@ -119,12 +111,8 @@ stable and everlasting.
 Surah Ta Ha – Verse 132
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأْمُرْ أَهْلَكَ بِالصَّلاَةِ وَاصْطَبِرْ عَلَيْهَا لاَ نَسْأَلُكَ
-رِزْقاً نَّحْنُ نَرْزُقُكَ وَالْعَاقِبَةُ لِلتَّقْوَي
-  </p>
-</blockquote>
+> وَأْمُرْ أَهْلَكَ بِالصَّلاَةِ وَاصْطَبِرْ عَلَيْهَا لاَ نَسْأَلُكَ
+> رِزْقاً نَّحْنُ نَرْزُقُكَ وَالْعَاقِبَةُ لِلتَّقْوَي
 
 ***132. “And bid your family to pray and be constant therein. We do not
 ask you sustenance, (but) We give you sustenance, and the (good) end is
@@ -172,12 +160,8 @@ pious people are victorious and impious ones are condemned to failure.
 Surah Ta Ha – Verse 133
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْلاَ يَأْتِينَا بِاَيَةٍ مِن رَّبّـِهِ أَوَ لَمْ
-تَأْتِهِم بَيّـِنَةُ مَا فِي الصُّحُفِ الأُولَي
-  </p>
-</blockquote>
+> وَقَالُوا لَوْلاَ يَأْتِينَا بِاَيَةٍ مِن رَّبّـِهِ أَوَ لَمْ
+> تَأْتِهِم بَيّـِنَةُ مَا فِي الصُّحُفِ الأُولَي
 
 ***133. “And they said: ‘Why does he not bring us a sign (a miracle)
 from his Lord?’ Has there not come to them a clear proof of what is in
@@ -214,13 +198,9 @@ obstinately expect another miracle.
 Surah Ta Ha – Verse 134
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّآ أَهْلَكْنَاهُم بِعَذَابٍ مِن قَبْلِهِ لَقَالُوا رَبَّنَا
-لَوْلآ أَرْسَلْتَ إِلَيْنَا رَسُولاً فَنَتَّبِعَ ءَايَاتِكَ مِن قَبْلِ
-أَن نَذِلَّ وَنَخْزَي
-  </p>
-</blockquote>
+> وَلَوْ أَنَّآ أَهْلَكْنَاهُم بِعَذَابٍ مِن قَبْلِهِ لَقَالُوا رَبَّنَا
+> لَوْلآ أَرْسَلْتَ إِلَيْنَا رَسُولاً فَنَتَّبِعَ ءَايَاتِكَ مِن قَبْلِ
+> أَن نَذِلَّ وَنَخْزَي
 
 ***134. “And had We destroyed them with a punishment before him (the
 Messenger), they would certainly have said: ‘Our Lord! Why did You not
@@ -248,12 +228,8 @@ excuse.
 Surah Ta Ha – Verse 135
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ كُلٌّ مُّتَرَبّـِصٌ فَتَرَبَّصُوا فَسَتَعْلَمُونَ مَنْ أَصْحَابُ
-الصّـِرَاطِ السَّوِيّ‌ِ وَمَنِ اهْتَدَي
-  </p>
-</blockquote>
+> قُلْ كُلٌّ مُّتَرَبّـِصٌ فَتَرَبَّصُوا فَسَتَعْلَمُونَ مَنْ أَصْحَابُ
+> الصّـِرَاطِ السَّوِيّ‌ِ وَمَنِ اهْتَدَي
 
 ***135. “Say: ‘Each one (of us) is awaiting, therefore do await, then
 soon you will come to know who is the follower of the straight and even
@@ -326,5 +302,4 @@ Majma‘-ul-Bayan & Dur-rul-Manthur
 [^5]: The Commentary of Furqan
 
 [^6]: Ta’wil-ul-’Ayat, p. 317, & Tafsir-ul-Burhan, vol. 3, pp. 50, 51
-
 

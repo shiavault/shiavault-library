@@ -13,4 +13,3 @@ Do not cross the limits of the Law for the sake of eminence and fame:
 they will not profit you at all, and you will miss the next world
 without gaining any benefit.
 
-

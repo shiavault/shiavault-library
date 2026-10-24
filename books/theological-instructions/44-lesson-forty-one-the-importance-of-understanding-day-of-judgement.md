@@ -195,4 +195,3 @@ people over the concepts and realities of Resurrection.
 
 6. What is the need for investigating the issue of Resurrection?
 
-

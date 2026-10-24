@@ -251,4 +251,3 @@ of. When he had explained so that no doubt remained for him, the man
 declared his belief in the Imam. This lesson has been adapted with minor
 changes from Dar Rah-e Haqq, The Roots of Religion, Qum, Iran.
 
-

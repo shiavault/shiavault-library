@@ -13,4 +13,3 @@ is it not forbidden to smoke?
 Answer: If the harm is a harm that one must stay away from then one
 cannot smoke.
 
-

@@ -28,4 +28,3 @@ does his acts resemble, and whose behavior is embodied in his manner?
 This is more or less case in the adults, too. In other words, anyone
 take steps to adopt a hero who embodies higher qualities.
 
-

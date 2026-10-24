@@ -47,4 +47,3 @@ prepared the abridged version but instead of following the original
 order in the arrangement of chapters, I arranged them according to the
 prominence of the disciplines.
 
-

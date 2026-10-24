@@ -470,4 +470,3 @@ Musa JarAllah (S.w.T.)).
 [^3]: A shelter made at a side of the mosque for the destitute and the
 poor to live in.
 
-

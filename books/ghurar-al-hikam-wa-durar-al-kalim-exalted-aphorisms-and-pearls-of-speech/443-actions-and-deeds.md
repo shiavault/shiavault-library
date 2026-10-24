@@ -14,12 +14,8 @@ Actions And Deeds
 3. Action in obedience to Allah is more beneficial, and being truthful
 is more beautiful and [makes one more] successful.
 
-<blockquote dir="rtl">
-  <p>
-ـ اَلْعَمَلُ بِطاعَةِ اللّهِ أرْبَحُ، ولِسانُ الصِّدْقِ أزْيَنُ
-وأنْجَحُ.
-  </p>
-</blockquote>
+> ـ اَلْعَمَلُ بِطاعَةِ اللّهِ أرْبَحُ، ولِسانُ الصِّدْقِ أزْيَنُ
+> وأنْجَحُ.
 
 4. The actions of servants in this world are [brought] before their eyes
 in the Hereafter.
@@ -30,31 +26,19 @@ in the Hereafter.
 actions, not by beautiful words.
 
 > 5ـ ألشَّـرَفُ عِنْدَ اللّهِ سُبْحانَهُ بِحُسْنِ الأعْمالِ، لابِحُسْنِ
-<blockquote dir="rtl">
-  <p>
-الأقْوالِ.
-  </p>
-</blockquote>
+> الأقْوالِ.
 
 6. Falling short in action, for the one who is certain of its reward, is
 foolishness.
 
 > 6ـ اَلتَّقْصِيرُ فِي العَمَلِ لِمَنْ وَثِقَ بِالثَّوابِ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-غَبْنٌ.
-  </p>
-</blockquote>
+> غَبْنٌ.
 
 7. Busying oneself with that which will not accompany you after death is
 from the greatest weakness.
 
 > 7ـ اِشْتِغالُ النَّفْسِ بِما لايَصْحَبُها بَعْدَ المَوْتِ مِنْ أكْثَرِ
-<blockquote dir="rtl">
-  <p>
-الوَهْنِ.
-  </p>
-</blockquote>
+> الوَهْنِ.
 
 8. Acting upon [one’s] knowledge is from the perfection of blessings.
 
@@ -64,11 +48,7 @@ from the greatest weakness.
 soul is held hostage by what it has earned.
 
 > 9ـ اَلأقاويلُ مَحْفُوظَةٌ، والسَّرائِرُ مَبْلُوَّةٌ، وكُلُّ نَفْس بِما
-<blockquote dir="rtl">
-  <p>
-كَسَبَتْ رَهِينَةٌ.
-  </p>
-</blockquote>
+> كَسَبَتْ رَهِينَةٌ.
 
 10. The [most] righteous companion is righteous action.
 
@@ -92,11 +72,7 @@ your enemy.
 evil and good deeds.
 
 > 14ـ اِعْمَلْ عَمَلَ مَنْ يَعْلَمُ أنَّ اللّهَ مُجازيِهِ بِإسائَتِهِ
-<blockquote dir="rtl">
-  <p>
-وإحْسانِهِ.
-  </p>
-</blockquote>
+> وإحْسانِهِ.
 
 15. Strive hard in your work and do not be a storekeeper for others.
 
@@ -114,31 +90,19 @@ evil and good deeds.
 supplication is answered and repentance is raised [and accepted].
 
 > 18ـ اِعْمَلُوا، واَلْعَمَلُ يَنْفَعُ، والدُّعاءُ يُسْمَعُ،
-<blockquote dir="rtl">
-  <p>
-والتَّوْبَةُ تُرْفَعُ.
-  </p>
-</blockquote>
+> والتَّوْبَةُ تُرْفَعُ.
 
 19. Eschew every action that you are in no need of and busy yourself
 with the affair of the Hereafter, which you must [eventually] face.
 
 > 19ـ أعْرِضُوا عَنْ كُلِّ عَمَل بِكُمْ غِنًى عَنْهُ، واشْغَلُوا
-<blockquote dir="rtl">
-  <p>
-أنْفُسَكُمْ مِنْ أمْرِ الآخِرَةِ بِما لابُدَّ لَكُمْ عَنْهُ.
-  </p>
-</blockquote>
+> أنْفُسَكُمْ مِنْ أمْرِ الآخِرَةِ بِما لابُدَّ لَكُمْ عَنْهُ.
 
 20. Work for the day for which the provisions have been stored and in
 which the secrets will be revealed.
 
 > 20ـ اِعْمَلُوا لِيَوْم تُذْخَرُ لَهُ الذَّخائِرُ، وتُبْلى فيهِ
-<blockquote dir="rtl">
-  <p>
-السَّرائِرُ.
-  </p>
-</blockquote>
+> السَّرائِرُ.
 
 21. Work while you are still alive, and while the books are [still]
 open, repentance is [still] accepted, the one who has strayed is [still]
@@ -147,75 +111,47 @@ before action abates, time expires, life ends and the door of repentance
 is closed.
 
 > 21ـ اِعْمَلُوا وأنْتُمْ في آوِنَةِ البَقاءِ، والصُّحُفُ مَنْشُورَةٌ،
-<blockquote dir="rtl">
-  <p>
-والتَّوْبَةُ مَبْسُوطَةٌ، والمُدْبِرُ يُدْعى، والمُسِيءُ يُرْجى قَبْلَ
-أنْ يَخْمُدَ العَمَلُ، ويَنْقَطِعَ المَهَلُ، وَتَنْقَضِيَ المُدَّةُ،
-ويُسَدَّ بابُ التَّوْبَةِ.
-  </p>
-</blockquote>
+> والتَّوْبَةُ مَبْسُوطَةٌ، والمُدْبِرُ يُدْعى، والمُسِيءُ يُرْجى قَبْلَ
+> أنْ يَخْمُدَ العَمَلُ، ويَنْقَطِعَ المَهَلُ، وَتَنْقَضِيَ المُدَّةُ،
+> ويُسَدَّ بابُ التَّوْبَةِ.
 
 22. Be wary of every action which, when its doer is asked about it, he
 feels ashamed and denies it.
 
 > 22ـ اِحْذَرْ كُلَّ عَمَل إذا سُئِلَ عَنْهُ صاحِبُهُ، اِسْتَحْيى مِنْهُ
-<blockquote dir="rtl">
-  <p>
-وأنْكَرَهُ.
-  </p>
-</blockquote>
+> وأنْكَرَهُ.
 
 23. Be wary of every action that is done in private and causes
 embarrassment in public.
 
 > 23ـ اِحْذَرْ مِنْ كُلِّ عَمَل يُعْمَلُ فِي السِّـرِّ، ويُسْتَحْيى
-<blockquote dir="rtl">
-  <p>
-مِنْهُ فِي العَلانِيَةِ.
-  </p>
-</blockquote>
+> مِنْهُ فِي العَلانِيَةِ.
 
 24. Be wary of every action that the doer is pleased to perform himself
 but hates Muslims at large to perform.
 
 > 24ـ اِحْذَرْ كُلَّ عَمَل يَرْضاهُ عامِلُهُ لِنَفْسِهِ، ويَكْرَهُهُ
-<blockquote dir="rtl">
-  <p>
-لِعامَّةِ المُسْلِمينَ.
-  </p>
-</blockquote>
+> لِعامَّةِ المُسْلِمينَ.
 
 25. Be wary of bad deeds, deceptive aspirations, loss of hope and the
 sudden coming of death.
 
 > 25ـ اِحْذَرُوا سُوءَ الأعْمالِ، وغُرُورَ الآمال، ونَفادَ الأمَلِ،
-<blockquote dir="rtl">
-  <p>
-وهُجُومَ الأجَلِ.
-  </p>
-</blockquote>
+> وهُجُومَ الأجَلِ.
 
 26. You must keep away from evil action, for indeed it dishonours your
 reputation and increases your burden.
 
 > 26ـ إيّاكَ وفِعْلَ القَبِيحِ، فَإنَّهُ يُقَبِّحُ ذِكْرَكَ، ويُكَثِّرُ
-<blockquote dir="rtl">
-  <p>
-وِزْرَكَ.
-  </p>
-</blockquote>
+> وِزْرَكَ.
 
 27. Keep away from every act that repels the freeman from you, or lowers
 your status, or brings harm upon you, or because of which you have to
 bear a burden on the Day of Judgment.
 
 > 27ـ إيّاكَ وكُلَّ عَمَل يُنَفِّرُ عَنْكَ حُرّاً، أوْ يُذِلُّ لَكَ
-<blockquote dir="rtl">
-  <p>
-قَدْراً أوْ يَجْلِبُ عَلَيْكَ شَـرّاً، أوْ تَحْمِلُ بِهِ إلَى
-القِيامَةِ وِزْراً.
-  </p>
-</blockquote>
+> قَدْراً أوْ يَجْلِبُ عَلَيْكَ شَـرّاً، أوْ تَحْمِلُ بِهِ إلَى
+> القِيامَةِ وِزْراً.
 
 28. Is no one ready to work for his soul before the day of his misery
 [and adversity]?!
@@ -228,13 +164,9 @@ is vast; before all this is lost and death comes – so be certain about
 its coming and do not wait for it to overtake you.
 
 > 29ـ ألا فَاعْمَلُوا والألْسُنُ مُطْلَقَةٌ، والأبْدانُ صَحيحَةٌ،
-<blockquote dir="rtl">
-  <p>
-والأعْضاءُ لُدْنَةٌ، وَالمُنْقَلَبُ فَسِيحٌ، والمَجالُ عَريضٌ، قَبْلَ
-إزْهاقِ الفَوْتِ، وحُلُولِ المَوْتِ، فَحَقِّقُوا عَلَيْكُمْ حُلُولَهُ،
-ولاتَنْتَظِرُوا قُدُومَهُ.
-  </p>
-</blockquote>
+> والأعْضاءُ لُدْنَةٌ، وَالمُنْقَلَبُ فَسِيحٌ، والمَجالُ عَريضٌ، قَبْلَ
+> إزْهاقِ الفَوْتِ، وحُلُولِ المَوْتِ، فَحَقِّقُوا عَلَيْكُمْ حُلُولَهُ،
+> ولاتَنْتَظِرُوا قُدُومَهُ.
 
 30. Act now, O servants of Allah, while the neck is free [from the
 noose] and the spirit is unfettered in the period of guidance, while the
@@ -246,36 +178,24 @@ approach of the anticipated hidden one (i.e. the Angel of Death) and the
 seizing of the Almighty, the Omnipotent.
 
 > 30ـ ألا فَاعْمَلُوا عِبادَاللّهِ، والخَناقُ مُهْمَلٌ، والرُّوحُ
-<blockquote dir="rtl">
-  <p>
-مُرْسَلٌ في فِينَةِ الإرْشادِ، وراحَةِ الأجسادِ، ومَهَلِ البَقيَّةِ
-وأُنُفِ المَشِيَّةِ، وإنْظارِ التَّوبَةِ، وَانْفِساحِ الحَوْبَةِ،
-قَبْلَ الضَّنْكِ والمَضيقِ، والرَّدْعِ، والزُّهُوقِ، قَبْلَ قُدُومِ
-الغائِبِ المُنْتَظَرِ، وأخْذَةِ العَزيزِ المُقْتَدِرِ.
-  </p>
-</blockquote>
+> مُرْسَلٌ في فِينَةِ الإرْشادِ، وراحَةِ الأجسادِ، ومَهَلِ البَقيَّةِ
+> وأُنُفِ المَشِيَّةِ، وإنْظارِ التَّوبَةِ، وَانْفِساحِ الحَوْبَةِ،
+> قَبْلَ الضَّنْكِ والمَضيقِ، والرَّدْعِ، والزُّهُوقِ، قَبْلَ قُدُومِ
+> الغائِبِ المُنْتَظَرِ، وأخْذَةِ العَزيزِ المُقْتَدِرِ.
 
 31. Indeed you are in the days of hope after which is death; so whoever
 acts in the days of his hope before the coming of his death, his action
 benefits him and his death does him no harm.
 
 > 31ـ ألا وإنَّكُمْ في أيَّامِ أمَل مِنْ وَرائِهِ أجَلٌ، فَمَنْ عَمِلَ
-<blockquote dir="rtl">
-  <p>
-في أيّامِ أمَلِهِ قَبْلَ حُضُورِ أجَلِهِ، نَفَعَهُ عَمَلُهُ، ولَم
-يَضْرُرْهُ أجَلُهُ.
-  </p>
-</blockquote>
+> في أيّامِ أمَلِهِ قَبْلَ حُضُورِ أجَلِهِ، نَفَعَهُ عَمَلُهُ، ولَم
+> يَضْرُرْهُ أجَلُهُ.
 
 32. Where are those who make their actions sincere for Allah and purify
 their hearts by the remembrance of Allah?!
 
 > 32ـ أيْنَ الَّذينَ أخْلَصُوا أعْمالَهُمْ لِلّهِ، وطَهَّرُوا
-<blockquote dir="rtl">
-  <p>
-قُلُوبَهُمْ بِمَواضِعِ ذِكْرِ (نَظَرِ) اللّهِ؟!
-  </p>
-</blockquote>
+> قُلُوبَهُمْ بِمَواضِعِ ذِكْرِ (نَظَرِ) اللّهِ؟!
 
 33. The most honourable action is obedience [to Allah].
 
@@ -319,11 +239,7 @@ tongue of action.
 best speech is that which matches with the facts.
 
 > 42ـ أحْسَنُ الأفْعالِ ما وافَقَ الحَقَّ، وأفْضَلُ المَقالِ ما طابَقَ
-<blockquote dir="rtl">
-  <p>
-الصِّدْقَ.
-  </p>
-</blockquote>
+> الصِّدْقَ.
 
 43. Action is the symbol [and an indication] of one’s interior.
 
@@ -378,32 +294,20 @@ Day of Presentation [of deeds].
 did with sincerity and without vain desire or worldly motives.
 
 > 54ـ إنَّكَ لَنْ يُتَقَبَّلَ مِنْ عَمَلِكَ إلاّ ما أخْلَصْتَ فيهِ،
-<blockquote dir="rtl">
-  <p>
-ولَمْ تَشُبْهُ بِالهَوى، وَأسْبابِ الدُّنيا.
-  </p>
-</blockquote>
+> ولَمْ تَشُبْهُ بِالهَوى، وَأسْبابِ الدُّنيا.
 
 55. Verily nothing but the good deeds that you sent forward will be of
 any benefit to you after your death, so gather the provision of good
 deeds.
 
 > 55ـ إنَّكَ لَنْ يُغْنِيَ عَنْكَ بَعْدَ المَوْتِ إلاّ صالِحُ عَمَل
-<blockquote dir="rtl">
-  <p>
-قَدَّمْتَهُ، فَتَزَوَّدْ مِنْ صالِحِ العَمَلِ.
-  </p>
-</blockquote>
+> قَدَّمْتَهُ، فَتَزَوَّدْ مِنْ صالِحِ العَمَلِ.
 
 56. Indeed you will never carry any action to the Hereafter more
 beneficial than patience, satisfaction, fear and hope.
 
 > 56ـ إنَّكَ لَنْ تَحْمِلَ إلَى الآخِرَةِ عَمَلاً أنْفَعُ لَكَ مِنَ
-<blockquote dir="rtl">
-  <p>
-الصَّبْرِ، والرِّضا، وَالْخَوْفِ، والرَّجاءِ.
-  </p>
-</blockquote>
+> الصَّبْرِ، والرِّضا، وَالْخَوْفِ، والرَّجاءِ.
 
 57. Verily you are recompensed for your deeds and held hostage by them.
 
@@ -413,52 +317,32 @@ beneficial than patience, satisfaction, fear and hope.
 what you leave behind.
 
 > 58ـ إنَّكُمْ مَدينُونَ بِما قَدَّمْتُمْ، ومُرْتَهَنُونَ بِما
-<blockquote dir="rtl">
-  <p>
-أسْلَفْتُمْ.
-  </p>
-</blockquote>
+> أسْلَفْتُمْ.
 
 59. Verily you are in greater need of acting upon what you know than of
 learning what you don’t know.
 
 > 59ـ إنَّكُمْ إلَى العَمَلِ بِما عَلِمْتُمْ أحْوَجُ مِنْكُمْ إلى
-<blockquote dir="rtl">
-  <p>
-تَعَلُّمِ مالَمْ تَكُونُوا تَعْلَمُونَ.
-  </p>
-</blockquote>
+> تَعَلُّمِ مالَمْ تَكُونُوا تَعْلَمُونَ.
 
 60. Surely you are in greater need of performing your actions than you
 are of articulating your words.
 
 > 60ـ إنَّكُمْ إلى إعْرابِ الأعْمالِ أحْوَجُ مِنْكُمْ إلى إعْرابِ
-<blockquote dir="rtl">
-  <p>
-الأقْوالِ.
-  </p>
-</blockquote>
+> الأقْوالِ.
 
 61. You are surely in greater need of earning good deeds than you are of
 earning wealth.
 
 > 61ـ إنَّكُمْ إلَى اكْتِسابِ صالِحِ الأعْمالِ أحْوَجُ مِنْكُمْ إلى
-<blockquote dir="rtl">
-  <p>
-مَكاسِبِ الأمْوالِ.
-  </p>
-</blockquote>
+> مَكاسِبِ الأمْوالِ.
 
 62. Verily you are in greater need of being concerned about that which
 will accompany you to the Hereafter than of all that accompanies you in
 this world.
 
 > 62ـ إنَّكُمْ إلَى الاِهْتِمامِ بِما يَصْحَبُكُمْ إلَى الآخِرَةِ
-<blockquote dir="rtl">
-  <p>
-أحْوَجُ مِنْكُمْ إلى كُلِّ ما يَصْحَبُكُمْ مِنَ الدُّنيا.
-  </p>
-</blockquote>
+> أحْوَجُ مِنْكُمْ إلى كُلِّ ما يَصْحَبُكُمْ مِنَ الدُّنيا.
 
 63. Verily you are requited for your actions, so do not do anything
 except good.
@@ -469,11 +353,7 @@ except good.
 this world], you will attain your greatest aspirations in the Hereafter.
 
 > 64ـ إنَّكُمْ إنِ اغْتَنَمْتُمْ صالِحَ الأعْمالِ، نِلْتُمْ مِنَ
-<blockquote dir="rtl">
-  <p>
-الآخِرَةِ نِهايَةَ الآمالِ.
-  </p>
-</blockquote>
+> الآخِرَةِ نِهايَةَ الآمالِ.
 
 65. Verily a person is only rewarded for what he has sent in advance and
 meets [only] that which he sent ahead.
@@ -536,11 +416,7 @@ itself.
 truthful speech and generous giving.
 
 > 78ـ تَبادَرُوا إلى مَحامِدِ الأفْعالِ، وفَضائِلِ الخِلالِ، وتَنافَسُوا
-<blockquote dir="rtl">
-  <p>
-فِي صِدْقِ الأقْوالِ وبَذْلِ الأمْوالِ.
-  </p>
-</blockquote>
+> فِي صِدْقِ الأقْوالِ وبَذْلِ الأمْوالِ.
 
 79. The fruit of [good] action is the [divine] reward given for it.
 
@@ -567,11 +443,7 @@ truthful speech and generous giving.
 get worn out; it preserves you and does not perish.
 
 > 84 ـ ثَوْبُ العَمَلِ (العِلْمِ) يُخَلِّدُكَ وَلايَبْلى، ويُبْقيكَ
-<blockquote dir="rtl">
-  <p>
-ولايَفْنى.
-  </p>
-</blockquote>
+> ولايَفْنى.
 
 85. Persist in seizing the opportunity of performing the action whose
 reward does not perish.
@@ -582,11 +454,7 @@ reward does not perish.
 and attain Paradise.
 
 > 86 ـ ثابِرُوا عَلَى الأعْمالِ المُوجِبَةِ لَكُمُ الخَلاصَ مِنَ النّارِ
-<blockquote dir="rtl">
-  <p>
-والفَوْزَ بِالجَنَّةِ.
-  </p>
-</blockquote>
+> والفَوْزَ بِالجَنَّةِ.
 
 87. The reward for an action is the fruit of the action.
 
@@ -600,11 +468,7 @@ and attain Paradise.
 reckoning and for every term a written appointment.
 
 > 89 ـ جََعَلَ اللّهُ لِكُلِّ عَمَل ثَواباً، ولِكُلِّ شَـيْء حِساباً،
-<blockquote dir="rtl">
-  <p>
-ولِكُلِّ أجَل كِتاباً.
-  </p>
-</blockquote>
+> ولِكُلِّ أجَل كِتاباً.
 
 90. Virtuous action is the best provision and the greatest asset.
 
@@ -643,11 +507,7 @@ reckoning] and the worst [of your actions] is that by which you corrupt
 your community.
 
 > 98ـ خَيْـرُ عَمَلِكَ ما أصْلَحْتَ بِهِ يَوْمَكَ، وشَـرُّهُ ما
-<blockquote dir="rtl">
-  <p>
-أفْسَدْتَ (اِسْتَفْسَدْتَ) بِهِ قَوْمَكَ.
-  </p>
-</blockquote>
+> أفْسَدْتَ (اِسْتَفْسَدْتَ) بِهِ قَوْمَكَ.
 
 99. The best action is maintaining a balance between hope and fear.
 
@@ -658,11 +518,7 @@ performs good deeds for the abode of his [permanent] residence and the
 place of his dignity.
 
 > 100ـ رَحِمَ اللّهُ امْرَءاً بادَرَ الأجَلَ، وأْحْسَنَ العَمَلَ لِدارِ
-<blockquote dir="rtl">
-  <p>
-إقامَتِهِ ومَحَلِّ كَرامَتِهِ.
-  </p>
-</blockquote>
+> إقامَتِهِ ومَحَلِّ كَرامَتِهِ.
 
 101. Many an action is corrupted by the intention.
 
@@ -677,11 +533,7 @@ great.
 abstraction of action from words is the ugliest vice.
 
 > 103ـ زيادَةُ الفِعْلِ عَلَى القَوْلِ أحْسَنُ فَضيلَة، ونَقْصُ الفِعْلِ
-<blockquote dir="rtl">
-  <p>
-عَنِ القَوْلِ أقْبَحُ رَذيلَة.
-  </p>
-</blockquote>
+> عَنِ القَوْلِ أقْبَحُ رَذيلَة.
 
 104. Evil action is evidence of a vile origin.
 
@@ -701,11 +553,7 @@ but its [ill] effects remain and the action whose hardship disappears
 but its reward remains.
 
 > 107ـ شَتّانَ بَيْنَ عَمَل تَذْهَبُ لَذَّتُهُ وتَبْقى تَبِعَتُهُ،
-<blockquote dir="rtl">
-  <p>
-وبَيْنَ عَمَل تَذْهَبُ مَؤُنَتُهُ وتَبْقى مَثُوبَتُهُ.
-  </p>
-</blockquote>
+> وبَيْنَ عَمَل تَذْهَبُ مَؤُنَتُهُ وتَبْقى مَثُوبَتُهُ.
 
 108. The goodness of an action is [gauged] by the righteousness of [its]
 intention.
@@ -720,11 +568,7 @@ intention.
 accept any deeds are: piety and sincerity.
 
 > 110ـ صِفَتانِ لايَقْبَلُ اللّهُ سُبْحانَهُ الأعْمالَ إلاّ بِهِما:
-<blockquote dir="rtl">
-  <p>
-التُّقى، وَالإخْلاصُ.
-  </p>
-</blockquote>
+> التُّقى، وَالإخْلاصُ.
 
 111. Seeking lofty stations and ranks without any action is folly.
 
@@ -744,21 +588,13 @@ laziness.
 not others become more worthy of them than you.
 
 > 114ـ عَلَيْكُمْ بِأعْمالِ الخَيْـرِ فَتَبادَرُوها، وَلايَكُنْ
-<blockquote dir="rtl">
-  <p>
-غَيْرُكُمْ أحَقَّ بِها مِنْكُمْ.
-  </p>
-</blockquote>
+> غَيْرُكُمْ أحَقَّ بِها مِنْكُمْ.
 
 115. I am amazed at the one who knows that there is reward for [good]
 deeds, how can he not make his actions righteous?!
 
 > 115ـ عَجِبْتُ لِمَنْ يَعْلَمُ أنَّ لِلأعْمالِ جَزاءً كَيْفَ لايُحْسِنُ
-<blockquote dir="rtl">
-  <p>
-عَمَلَهُ.
-  </p>
-</blockquote>
+> عَمَلَهُ.
 
 116. The action of an ignorant person is a curse and his knowledge is
 misguidance.
@@ -800,11 +636,7 @@ you hope for in the Hereafter.
 which remains and leave aside that which perishes.
 
 > 124ـ لِكُلِّ عَمَل جَزاءٌ، فَاجَعَلُوا عَمَلَكُمْ لِما يَبْقى وذَرُوا
-<blockquote dir="rtl">
-  <p>
-ما يَفْنى.
-  </p>
-</blockquote>
+> ما يَفْنى.
 
 125. Let your most reliable provisions be [your] righteous actions.
 
@@ -888,11 +720,7 @@ himself.
 better.
 
 > 143ـ مَنْ أنِفَ مِنْ عَمَلِهِ اِضْطَرَّهُ ذلِكَ إلى عَمَل خَيْـر
-<blockquote dir="rtl">
-  <p>
-مِنْهُ.
-  </p>
-</blockquote>
+> مِنْهُ.
 
 144. One whose action is good attains from Allah what he hopes for.
 
@@ -913,12 +741,8 @@ him with distress; and Allah has no need for one who spares nothing of
 himself or his wealth [for attaining His pleasure].
 
 > 147ـ مَنْ قَصَّـرَ فِي العَمَلِ اِبْتَلاهُ اللّهُ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-بِالهَمِّ، ولاحاجَةَ لِلّهِ فيمَنْ لَيْسَ لَهُ في نَفْسِهِ ومالِهِ
-نَصيبٌ.
-  </p>
-</blockquote>
+> بِالهَمِّ، ولاحاجَةَ لِلّهِ فيمَنْ لَيْسَ لَهُ في نَفْسِهِ ومالِهِ
+> نَصيبٌ.
 
 148. From the perfection of [an] action is the sincerity in it.
 
@@ -937,23 +761,15 @@ from hellfire.
 evidence [is there] of his nature is than his [own] action.
 
 > 151ـ ما أصْدَقَ الإنْسانَ عَلى نَفْسِهِ، وأيَّ دَليل عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-كَفِعْلِهِ.
-  </p>
-</blockquote>
+> كَفِعْلِهِ.
 
 152. That which you beget is for the dust, that which you build is for
 destruction, that which you amass is to perish, that which you do is
 recorded in a book [of deeds] and stored for the Day of Accounting.
 
 > 152ـ ما وَلَدْتُمْ فَلِلتُّرابِ، وما بَنَيْتُمْ فَلِلْخَرابِ، وما
-<blockquote dir="rtl">
-  <p>
-جَمَعْتُمْ فَلِلذِّهابِ، وَما عَمِلْتُمْ فَفي كِتاب مُدَّخَر لِيَوْمِ
-الحِسابِ.
-  </p>
-</blockquote>
+> جَمَعْتُمْ فَلِلذِّهابِ، وَما عَمِلْتُمْ فَفي كِتاب مُدَّخَر لِيَوْمِ
+> الحِسابِ.
 
 153. The basis of an action [and its acceptance] is the sincerity in it.
 
@@ -1020,21 +836,13 @@ that is accepted [by Allah] be [considered] little!
 the time when his soul leaves his body.
 
 > 168ـ لا يَسْتَغْنِى المَرْءُ إلى حينِ مُفارَقَةِ رُوْحِهِ جَسَدَهُ
-<blockquote dir="rtl">
-  <p>
-عَنْ صالِحِ العَمَلِ.
-  </p>
-</blockquote>
+> عَنْ صالِحِ العَمَلِ.
 
 169. Nobody abandons acting upon [his] knowledge except the one who is
 doubtful of its reward.
 
 > 169ـ لا يَتْرُكُ العَمَلَ بِالعِلْمِ إلاّ مَنْ شَكَّ فِي الثَّوابِ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ.
-  </p>
-</blockquote>
+> عَلَيْهِ.
 
 170. Nobody acts upon [his] knowledge except the one who is certain
 about the greatness of its reward.
@@ -1054,11 +862,7 @@ deeds.
 words should not be better than his actions.
 
 > 173 ـ يَنْبَغي أنْ تَكُونَ أفْعالُ الرَّجُلِ أحْسَنَ مِنْ أقْوالِهِ
-<blockquote dir="rtl">
-  <p>
-ولاتَكُونَ أقْوالُهُ أحْسَنَ مِنْ أفْعالِهِ.
-  </p>
-</blockquote>
+> ولاتَكُونَ أقْوالُهُ أحْسَنَ مِنْ أفْعالِهِ.
 
 174. A person is tested by his actions, not by his words.
 
@@ -1068,11 +872,7 @@ words should not be better than his actions.
 and for his actions to be incapable of matching his words.
 
 > 175ـ يَقْبُحُ بِالرَّجُلِ أنْ يَقْصُرَ عَمَلُهُ عَنْ عِلْمِهِ،
-<blockquote dir="rtl">
-  <p>
-ويَعْجِزَ فِعْلُهُ عَنْ قَوْلِهِ.
-  </p>
-</blockquote>
+> ويَعْجِزَ فِعْلُهُ عَنْ قَوْلِهِ.
 
 176. The one who abandons [a good] action has no certainty about its
 reward.
@@ -1092,11 +892,7 @@ the wrong path, so his effort in moving forward adds nothing for him but
 distance from his goal.
 
 > 179ـ اَلعامِلُ بِجَهْل كَالسّائِرِ عَلى غَيرِ طَرِيْق فَلا يَزيدُهُ
-<blockquote dir="rtl">
-  <p>
-جِدُّهُ فِي السَّـرِّ إلاّ بُعْداً عَنْ حاجَتِهِ.
-  </p>
-</blockquote>
+> جِدُّهُ فِي السَّـرِّ إلاّ بُعْداً عَنْ حاجَتِهِ.
 
 180. The person who gains the most felicity from [that which is] good is
 the one who acts upon it.
@@ -1117,11 +913,7 @@ Allah is [nothing but] hellfire.
 eloquent words.
 
 > 183ـ إنَّكُمْ إلى مَكارِمِ الأفْعالِ أحْوَجُ مِنْكُمْ إلى بَلاغَةِ
-<blockquote dir="rtl">
-  <p>
-الأقْوالِ.
-  </p>
-</blockquote>
+> الأقْوالِ.
 
 184. Make your weighing scales heavy with righteous acts.
 
@@ -1144,11 +936,7 @@ true piety and certitude.
 doubt of a hypocrite is seen in his action.
 
 > 188ـ إنَّ المُؤْمِنَ يُرى يَقينُهُ في عَمَلِهِ، وإنَّ المُنافِقَ يُرى
-<blockquote dir="rtl">
-  <p>
-شَكُّهُ في عَمَلِهِ.
-  </p>
-</blockquote>
+> شَكُّهُ في عَمَلِهِ.
 
 189. Working for the Hereafter with desire for this world has no
 benefit.
@@ -1162,5 +950,4 @@ benefit.
 191. Deeds are the fruits of intentions.
 
 > 191ـ اَلأعْمالُ ثِمارُ النِّيّاتِ.
-
 

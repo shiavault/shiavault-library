@@ -416,4 +416,3 @@ hijra.
 Hanafites it was not permissible to perform wudu’ with pure milk but if
 it was mixed with some water then it would be permissible.”
 
-

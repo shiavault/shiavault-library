@@ -226,4 +226,3 @@ a supernatural agent, for the performance of an experiment in the case
 of such an agent is not possible. The existence or nonexistence of a
 supernatural agent can only be established with pure rational proof.
 
-

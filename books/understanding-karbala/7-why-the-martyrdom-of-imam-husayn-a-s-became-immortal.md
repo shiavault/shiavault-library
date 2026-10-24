@@ -270,4 +270,3 @@ why Mir Anees said about the holy Imam:
 
 [^4]: Ladies and children
 
-

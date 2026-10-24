@@ -89,4 +89,3 @@ overcome all difficulties."
 have brought me tremendous relief. I feel sure now that I will continue
 on the correct path and that Allah will help me to do so."
 
-

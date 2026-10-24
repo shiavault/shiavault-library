@@ -42,4 +42,3 @@ Non-human animals are seen as occupying a level below humans and the
 “lower self” (*nafs* ), or one’s own baser instincts which along the
 path of spiritual development one strives to overcome.
 
-

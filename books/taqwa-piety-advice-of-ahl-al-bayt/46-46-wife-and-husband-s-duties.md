@@ -273,4 +273,3 @@ dowries” [^27]
 
 [^27]: Bihar al-Anwar, vol. 100, pp. 236-237.
 
-

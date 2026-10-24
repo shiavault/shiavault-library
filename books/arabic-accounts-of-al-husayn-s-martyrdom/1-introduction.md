@@ -73,17 +73,17 @@ activities of Ibn Ziyad as governor of Kufa;
 
 **Notes:**
 
-[^1] Al-Tusi, Fihrist (Mashhad, 1348sh), p. 63.
-[^2] Al-Najashi, Rijal (Teheran, n.d.), p. 100.
-[^3] This account was probably not a monograph but it represents a
+[^1]: Al-Tusi, Fihrist (Mashhad, 1348sh), p. 63.
+[^2]: Al-Najashi, Rijal (Teheran, n.d.), p. 100.
+[^3]: This account was probably not a monograph but it represents a
 substantial, continuous piece. It is recorded in al-Tabari, Ta'rikh
 al-Rusul wa-al-Muluk (Leiden 1881-3),11, 227-32, 281-3.
-[^4] That he had an account can be assumed from the extracts used by Ibn
+[^4]: That he had an account can be assumed from the extracts used by Ibn
 al-Kalbi in al-Tabaris version.
-[^5] On Abu Mikhnaf, see U. Sezkin, Abu Mikhnaf (Leiden, 1971).
-[^6] Most of his account is preserved by al-Tabari.
-[^7] Ibn Nadim, Fihrist, tr. Bayard Dodge (New York, 1970), I, 215.
-[^8] Al-Tusi, op. cit., p. 347.
-[^9] Al-Mufid, Kitab al-Irshad, tr. I. K. A. Howard (London, 1981), p.
+[^5]: On Abu Mikhnaf, see U. Sezkin, Abu Mikhnaf (Leiden, 1971).
+[^6]: Most of his account is preserved by al-Tabari.
+[^7]: Ibn Nadim, Fihrist, tr. Bayard Dodge (New York, 1970), I, 215.
+[^8]: Al-Tusi, op. cit., p. 347.
+[^9]: Al-Mufid, Kitab al-Irshad, tr. I. K. A. Howard (London, 1981), p.
 300.
 

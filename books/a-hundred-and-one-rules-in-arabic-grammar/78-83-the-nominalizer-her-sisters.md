@@ -7,21 +7,15 @@ they leave the predicate in its nominative case. By the way, **أنَّ /
 إنَّ** are called "Nominalizers" because they introduce nominal
 sentences.
 
-<p dir="rtl">
 **إنَّ الأکلَ لذيذ ٌ.**
-</p>
 
 In fact, the food is delicious.
 
-<p dir="rtl">
 **  قالتْ اُختي أنَّ الأکلَ لذيذ ٌ.**
-</p>
 
 My sister said that the food was delicious.
 
-<p dir="rtl">
 **لکنَّ الأکلَ لذيذ ٌ.**
-</p>
 
 ... but the food was delicious.
 
@@ -31,5 +25,4 @@ Its meaning, therefore, changes from "indeed/in fact" to "that".
 Remember that all these particles should be followed by nouns or
 attached pronoun suffixes. Also notice that** إنَّ** and her sisters
 should be followed by the subject or its corresponding attached pronoun.
-
 

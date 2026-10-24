@@ -58,4 +58,3 @@ Qur’an except for this verse, and we do not see any other person(s) whom
 Allah (SWT) officially announced their purification in the Qur’an after
 the prophets, except those referred to by this purification verse.
 
-

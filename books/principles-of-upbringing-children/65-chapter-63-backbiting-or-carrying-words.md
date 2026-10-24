@@ -108,4 +108,3 @@ The Prophet of Islam has said:
 
 [^6]: Gharar al hukm, p. 125
 
-

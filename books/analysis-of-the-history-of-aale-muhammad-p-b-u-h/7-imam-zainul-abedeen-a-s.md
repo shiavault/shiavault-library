@@ -461,7 +461,5 @@ conclude this book here and submit it as an insignificant and humble
 presentation at his holy feet. We hope our defective deeds and perfect
 sincerity will be acceptable to the holy Imam.
 
-
 Zangazuri Qazi Bohlool Bahjat
-
 

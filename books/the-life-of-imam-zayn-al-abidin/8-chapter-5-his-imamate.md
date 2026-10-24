@@ -805,4 +805,3 @@ Kuthayr.
 al-Ashraf, p. 50. Al-Alu\`si, al-Ma‘ani, vol. 6, p. 190. Roudat
 al-Jinan, vol. 3, p. 133.
 
-

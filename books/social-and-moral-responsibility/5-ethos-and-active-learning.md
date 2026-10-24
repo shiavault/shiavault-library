@@ -58,4 +58,3 @@ context of exploring social and
 moral issues in ‘real life’ contexts. In this way learning becomes the
 medium for social engagement and participation.
 
-

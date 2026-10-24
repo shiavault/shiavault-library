@@ -186,4 +186,3 @@ saving the march from loss, helping it exploit all its creative
 energies, emancipating it from each and every false and obstructing
 absolute.
 
-

@@ -70,4 +70,3 @@ the Ahl al-Bayt (‘a).
 wa’l-Tashayyu’’ for evidence on this claim and more details about this
 topic.
 
-

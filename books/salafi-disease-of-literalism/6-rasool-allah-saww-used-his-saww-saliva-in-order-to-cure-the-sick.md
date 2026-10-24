@@ -47,11 +47,9 @@ Bukhari, Volume 8, Book 74, Number 298 Taking benefits from the places
 of Standing of the Prophets Allah says in Qur'an about the benefit of
 standing place of Ibrahim (as):
 
-<p dir="rtl">
 فِيهِ آيَاتٌ بَيِّـنَاتٌ مَّقَامُ إِب'رَاهِيمَ وَمَن دَخَلَهُ كَانَ
 آمِنًا وَلِلّهِ عَلَى النَّاسِ حِجُّ ال'بَي'تِ مَنِ اس'تَطَاعَ إِلَي'هِ
 سَبِيلاً وَمَن كَفَرَ فَإِنَّ الله غَنِيٌّ عَنِ ال'عَالَمِينَ
-</p>
 
 [Pickthal 3:97] Wherein are plain memorials (of Allah's guidance); the
 place where Abraham stood up to pray; and whosoever entereth it is safe.
@@ -63,10 +61,8 @@ into the idol of calf (which he made himself), that idol started
 speaking due to the sacred blessing of that dust. Allah tells us in the
 Qur'an:
 
-<p dir="rtl">
 قَالَ بَصُر'تُ بِمَا لَم' يَب'صُرُوا بِهِ فَقَبَض'تُ قَب'ضَةً مِّن'
 أَثَرِ الرَّسُولِ فَنَبَذ'تُهَا وَكَذَلِكَ سَوَّلَت' لِي نَف'سِي
-</p>
 
 [Pickthal 20:96] He (Samiri) said: I perceived what they perceive not,
 so I seized a handful from the footsteps of the messenger (Jibrael), and
@@ -152,5 +148,4 @@ you." After that, people started to bring Handhalah a person with a
 swollen face or a sheep with a swollen udder. Handhalah would place his
 hand on that part of his head the Prophet wiped, then touch the swollen
 part and say Bismillah, and the swelling would be cured.
-
 

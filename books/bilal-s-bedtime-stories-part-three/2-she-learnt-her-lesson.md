@@ -83,4 +83,3 @@ call them by unkind names. Let me go to them and apologize." She ran
 out, having a beautiful smile on her face. It was a new Shyrose, a happy
 and kind Shyrose, who would never tell tales again.
 
-

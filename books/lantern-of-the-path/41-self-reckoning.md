@@ -12,19 +12,11 @@ when he will stand before the Compelling One, and when he takes account
 of himself it is as if he were being summoned to that presentation
 before Allah, and is being questioned in his death-throes. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَى
-بِنَا حَاسِبِينَ
-  </p>
-</blockquote>
-
-
+> وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَى
+> بِنَا حَاسِبِينَ
 
 ***Even though there be the weight of a mustard seed, yet will We bring
 it and sufficient are We to take account.*** (21:47)
-
 
 One of the Imams said, 'Take reckoning from yourselves before you are
 called to reckoning. Weigh your actions with the scale of your own fear
@@ -38,5 +30,4 @@ It is related that Yahya (‘a) used to reflect for the entire night on
 the Garden and the Fire, so that his night was spent in wakefulness and
 he did not sleep. Then in the morning he would say, 'O Allah; whither
 can one flee? Where can one stay? O Allah, one can only flee to You.'
-
 

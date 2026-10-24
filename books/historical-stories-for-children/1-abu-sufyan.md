@@ -14,9 +14,7 @@ Muhammad (s a w a) came; he appeared amongst the people, carrying a
 life-giving message of peace and prosperity from his lord, Allah. His
 message was this:
 
-<p dir="rtl">
 قولوا لا إله إلا الله تفلحوا
-</p>
 
 Say: (O people), there is no god but Allah, so that you may achieve
 success.
@@ -153,7 +151,6 @@ from this moment on, that the leaders of the Quraysh , in particular the
 most influential from amongst them, Abu Sufyan ,the deceitful plotter of
 Mecca ,began to work together to from a counter- force to Muhammad
 (s.a.w.a).
-
 
 **The Changing Faces Of Abu Sufyan**
 
@@ -386,7 +383,6 @@ the class of slaves, servants and workers. The fire of their
 determination ignited the hearts of both the town and the village tribes
 and began to undermine and destroy the rule of the powerful, criminal
 nobles of Mecca.
-
 
 **The Hijrah Of The Messenger Of Allah From Mecca To Media**
 
@@ -706,5 +702,4 @@ and Ali (a.s) and their families and what role they played in hindering
 the spread of Islam.
 
 \*\*\*\*
-
 

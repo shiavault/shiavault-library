@@ -13,4 +13,3 @@ good if we start and end food with his name”.
  And other tan that, the leaders of Islam have always requested us to
 say this and we must obey them.
 
-

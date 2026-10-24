@@ -910,4 +910,3 @@ and their afflictions, especially the Tragedy of Karbala’
 
 [^22]: Surah Saffat 37:102
 
-

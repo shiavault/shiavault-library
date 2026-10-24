@@ -338,4 +338,3 @@ al-Mizan trans. S.S.A. Rizvi, vol. 4 (Tehran: Wofis, 1982) pp. 295-303.
 (London: Luzac, 1958) pp.45-46; S.S.A. Rizvi, Justice of God (New
 Jersey: Pyam-e Aman, 1992) chap. 1.
 
-

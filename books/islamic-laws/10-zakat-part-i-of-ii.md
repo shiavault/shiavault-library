@@ -599,4 +599,3 @@ equal to the capital or more. If, during the year, he gets a buyer for
 the goods for less then capital outlay, it will not be obligatory upon
 him to pay its Zakat.
 
-

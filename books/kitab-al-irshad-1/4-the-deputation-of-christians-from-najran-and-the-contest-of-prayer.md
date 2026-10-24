@@ -147,7 +147,6 @@ is associated with the outstanding special qualities of the Commander of
 the faithful, peace be on him, which we have already mentioned
 earlier.
 
-
 The Prophet's Farewell Pilgrimage and the Declaration at Ghadir
 Khumm.
 
@@ -425,7 +424,6 @@ Therefore be faithful helpers and followers of him."
 
 There he prayed: "O God, befriend his friend and be hostile to whoever
 opposes 'Ali."
-
 
 "May you always be supported by the Spirit of Holiness, Hassan," the
 Apostle of God, may God bless him and his family, said to him, "as long

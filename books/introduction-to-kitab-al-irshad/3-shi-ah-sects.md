@@ -2982,4 +2982,3 @@ for this group, is derived from waqf.]
 
 [^183]: al-Fusulu 'l-mukhtarah, vol.2, pp.253-6.
 
-

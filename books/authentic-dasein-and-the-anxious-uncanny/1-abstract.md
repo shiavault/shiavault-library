@@ -17,4 +17,3 @@ Heidegger. The third and concluding chapter brings together Kant and
 Heidegger through a series of paintings to demonstrate how Munch’s
 achievement can be interpreted philosophically.
 
-

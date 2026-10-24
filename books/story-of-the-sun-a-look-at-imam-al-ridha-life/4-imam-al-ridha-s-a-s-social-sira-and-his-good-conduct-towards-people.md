@@ -231,4 +231,3 @@ p. 101.
 [^12]: Manaqib Al-i Abi Talib, vol. 4, p. 341. See: Bihar al-Anwar, vol.
 49, p.98.
 
-

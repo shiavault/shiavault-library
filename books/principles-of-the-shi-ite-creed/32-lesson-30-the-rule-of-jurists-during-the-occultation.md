@@ -121,4 +121,3 @@ apostasy.[^5]”
 
 [^5]: ‘Usul al-Kafi, vol. 1, p. 67.
 
-

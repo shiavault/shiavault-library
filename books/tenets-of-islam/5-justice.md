@@ -17,4 +17,3 @@ The Asha’irah maintain that it is only a matter of Islamic law in both
 cases. Therefore only that which has been described by it as right, is
 right and only that which has been described by it as evil, is wrong.
 
-

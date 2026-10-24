@@ -366,4 +366,3 @@ Taquiayya means seeking protection from a danger. It is not for the
 purpose of increasing the benefit. I hope this will remove all your
 doubts.
 
-

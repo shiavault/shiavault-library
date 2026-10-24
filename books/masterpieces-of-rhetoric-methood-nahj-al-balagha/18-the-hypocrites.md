@@ -397,4 +397,3 @@ a duel in archery – they are proverbs used for the carrier of a thing to
 its origin and the one who claims one who claims learning more than his
 teacher.
 
-

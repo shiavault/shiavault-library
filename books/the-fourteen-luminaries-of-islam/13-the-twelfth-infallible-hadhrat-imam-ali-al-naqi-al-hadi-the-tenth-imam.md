@@ -360,4 +360,3 @@ changed).
 
 [^6]: Imam dar ‘Ayniyyat-i Jami‘a.
 
-

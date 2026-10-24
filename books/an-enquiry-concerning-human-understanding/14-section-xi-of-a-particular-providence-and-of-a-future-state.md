@@ -127,7 +127,6 @@ display of intelligence could proceed from the fortuitous concourse of
 atoms, or if chance could produce what the greatest genius can never
 sufficiently admire.
 
-
 I shall not examine the justness of this argument.
 
 I shall allow it to be as solid as my antagonists and accusers can
@@ -643,5 +642,4 @@ originally derived.
 Let the inferred cause be exactly proportioned (as it should be) to the
 known effect; and it is impossible that it can possess any qualities,
 from which new or different effects can be inferred.
-
 

@@ -519,4 +519,3 @@ Muslim when talking about the traveler’s prayer.
 
 [^21]: The distance of eight farsakhs is about forty-four kilometers.
 
-

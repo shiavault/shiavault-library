@@ -603,4 +603,3 @@ Occultation and the hearts will be filled with joy. His Justice, will
 reach the horizons and the luminousness of his Justice will be more than
 luminousness of the luminous moon.
 
-

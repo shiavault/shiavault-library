@@ -198,7 +198,6 @@ in strengthening our belief in Allah (S.W.T.). The Prophet (s.a.w.w.)
 said: "We do not know You in the real essence of Your knowledge, and we
 did not worship You in the real essence of Your worship".
 
-
 **Lesson 8 : One Vs Many**
 
 When we discuss theological issues, we use the word Monotheism to refer
@@ -382,5 +381,4 @@ our faith and stay away from polytheism. Although the path towards true
 Tawhid is not easy and requires effort on our part, we can achieve our
 goal as long as we are determined to do so and rely on Allah (S.W.T.) to
 guide us.
-
 

@@ -257,7 +257,6 @@ The Imam once asked Abdullah Bin Fazl: "Do you ever organize gatherings
 and recall events that are based on the martyrdom of Imam Husain
 (A.S)?"
 
-
 Bin Fazl replied that, indeed, he did.
 
 Imam observed "I very much approve of such Majlises" According to
@@ -313,5 +312,4 @@ the Day of Judgement?"
 By asking these questions, the Imam (A.S) was stressing the importance
 of visiting the grave-site of the martyrs of Kerballa generally, and
 that of Imam Husain (A.S) in particular.
-
 

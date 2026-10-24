@@ -88,11 +88,7 @@ intercession {*shafa‘ah*} in the Day of Resurrection.”[^18]
 • Prayer is a pleasure for divine saints {*awliya’*} but a heavy burden
 for hypocrites {*munafiqun*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنَّهَا لَكَبِيرَةٌ إِلاَّ عَلَى الْخَاشِعِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنَّهَا لَكَبِيرَةٌ إِلاَّ عَلَى الْخَاشِعِينَ ﴾
 
 ***“And it (prayer) is indeed hard except for the humble.”***[^19]
 
@@ -108,11 +104,7 @@ While in the cradle, Hadhrat ‘Isa (Jesus) (*‘a*) says that God has
 enjoined him to establish prayer and pay the poor-rate {*zakat*} so long
 as he is alive:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَوْصَانِي بِالصَّلوٰةِ وَ ٱلزَّكوٰةِ مَادُمْتُ حَيًّا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَوْصَانِي بِالصَّلوٰةِ وَ ٱلزَّكوٰةِ مَادُمْتُ حَيًّا ﴾
 
 ***“And He has enjoined me to {maintain} the prayer and to {pay} the
 zakat as long as I live.”***[^21]
@@ -123,12 +115,8 @@ enemies.
  Hadhrat Ibrahim (*‘a*) settled his wife and child in the wilderness of
 the desert of Makkah which had no water or plants at that time, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ الصَّلاَةَ ﴾
-  </p>
-</blockquote>
+> ﴿ رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
+> عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ الصَّلاَةَ ﴾
 
 ***“O Lord! I have settled part of my descendants in a barren valley, by
 Your sacred House, our Lord, that they may maintain the prayer.”***[^22]
@@ -153,11 +141,7 @@ maintains a link with the control tower.
  Prayer remits sins and erases their after-effects. After enjoining
 prayer, the Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ﴾
 
 ***“Indeed good deeds efface misdeeds.”***[^26]
 
@@ -191,11 +175,7 @@ the air that is inhaled, energizes the inhaler. Thus, there are two
 blessings in every breath, and thanks-giving is obligatory for every
 blessing:
 
-<blockquote dir="rtl">
-  <p>
-از دست و زبانِ كه برآيد كز عهده شكرش به درآيد
-  </p>
-</blockquote>
+> از دست و زبانِ كه برآيد كز عهده شكرش به درآيد
 
 *Whatever gratitude the hand and tongue can express must be given for
 the air.*[^27]
@@ -305,11 +285,7 @@ consequences in this world and in the hereafter. In the hereafter, the
 inhabitants of heaven will ask the dwellers of hell, “What made you
 inhabit the hellfire?” One of their answers shall be:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَمْ نَكُ مِنَ الْمُصَلِّينَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَمْ نَكُ مِنَ الْمُصَلِّينَ ﴾
 
 ***“We were not among those who prayed.”***[^28]
 
@@ -317,31 +293,19 @@ In another place, the Glorious Qur’an addresses those who are careless
 and heedless of their prayer, sometimes performing it and at other times
 not performing it, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَوَيْلٌ لِّلْمُصَلِّينَ ٭ الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَوَيْلٌ لِّلْمُصَلِّينَ ٭ الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ ﴾
 
 ***“Woe to them who pray—those who are heedless of their
 prayers.”***[^29]
 
 The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَرك ٱلصّلاة مُتعمّدًا فَقَد كَفر.
-  </p>
-</blockquote>
+> مَنْ تَرك ٱلصّلاة مُتعمّدًا فَقَد كَفر.
 
 “He who consciously neglects prayer has become an infidel.”[^30]  
  The Holy Prophet (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-بَيْنَ ٱلعَبدِ وَ بَيْنَ ٱلكُفر تَرْكُ ٱلصَّلاةِ.
-  </p>
-</blockquote>
+> بَيْنَ ٱلعَبدِ وَ بَيْنَ ٱلكُفر تَرْكُ ٱلصَّلاةِ.
 
 “That which lies between faith and disbelief is the negligence of
 prayer.”[^31]
@@ -463,11 +427,7 @@ refrained from shouldering it.”[^49]
  This act of shouldering the burden of the divine trust is the greatest
 honor of man. In the words of Hafiz,[^50]
 
-<blockquote dir="rtl">
-  <p>
-آسمان بار امانت نتوانست كشيد قرعه فال به نام من ديوانه زدند
-  </p>
-</blockquote>
+> آسمان بار امانت نتوانست كشيد قرعه فال به نام من ديوانه زدند
 
 *Heaven was not able to carry the burden of the trust.*
 
@@ -514,12 +474,8 @@ Observance of some rules related to prayer (such as brushing the teeth
 {*miswak*}, cleanliness, attention to God, etc.) is contributory in the
 perfection of this act of worship. Imam al-Baqir (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالْأقْبَالِ عَلىٰ صَلاَتِكَ فَإِنَّمَا يُحْسَبُ لَكَ
-مِنْهَا مَا أَقْبَلْتَ عَلَيْهِ.
-  </p>
-</blockquote>
+> عَلَيْكَ بِالْأقْبَالِ عَلىٰ صَلاَتِكَ فَإِنَّمَا يُحْسَبُ لَكَ
+> مِنْهَا مَا أَقْبَلْتَ عَلَيْهِ.
 
 “Pay attention to God while in prayer because what is accepted in prayer
 is that which is said with attention.”[^57]
@@ -531,12 +487,8 @@ and weariness because such a prayer is that of hypocrites
 {*munafiqun*}.”[^58]  
  In a *hadith*, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-رَكْعَتَانِ مِنْ رَجُلٍ وَرعٍ أَفْضَلُ مِنْ أَلْفِ رَكْعَةٍ مِن
-مَخْلَطٍ.
-  </p>
-</blockquote>
+> رَكْعَتَانِ مِنْ رَجُلٍ وَرعٍ أَفْضَلُ مِنْ أَلْفِ رَكْعَةٍ مِن
+> مَخْلَطٍ.
 
 “A person’s two *rak‘ah*s of prayer with piety {*wara‘*} are superior to
 a thousand *rak‘ah*s of prayer with heedlessness.”[^59]
@@ -654,12 +606,8 @@ small for him. The more a holy man is acquainted with the greatness of
 God, anything other than God becomes more trivial in his sight. In the
 words of the Commander of the Faithful (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-عَظُمَ ٱلْخَالِقُ فِي أَنْفُسِهِم فَصَغْرَ مَادُوْنَهُ فِي
-أَعْيُنِهِم.
-  </p>
-</blockquote>
+> عَظُمَ ٱلْخَالِقُ فِي أَنْفُسِهِم فَصَغْرَ مَادُوْنَهُ فِي
+> أَعْيُنِهِم.
 
 “The greatness of the Creator is seated in their heart, and so,
 everything else appears small in their eyes.”[^66]
@@ -691,11 +639,7 @@ relation to the prayer and worship of common people, for them this
 of shortcoming and degradation, and they always asked forgiveness
 {*istighfar*} for it. This is the meaning of
 
-<blockquote dir="rtl">
-  <p>
-حَسَنَاتُ ٱلأَبْرَارِ سَيِّئَاتُ ٱلْمُقَرَّبِيْن.
-  </p>
-</blockquote>
+> حَسَنَاتُ ٱلأَبْرَارِ سَيِّئَاتُ ٱلْمُقَرَّبِيْن.
 
 “The good qualities of the pious are blemishes for the anointed ones.”
 
@@ -709,11 +653,7 @@ What causes man’s descent is his attachment to material things and
 carnal desires?  
  In the words of Sa‘di,
 
-<blockquote dir="rtl">
-  <p>
-طيران مرغ ديدى؟ تو ز پاى بندِ شهوت بدر آى تا ببينى طيران آدميت
-  </p>
-</blockquote>
+> طيران مرغ ديدى؟ تو ز پاى بندِ شهوت بدر آى تا ببينى طيران آدميت
 
 *Have you seen birds fly? Detach yourself from your carnal desires and
 then watch the flight of man.*
@@ -861,5 +801,4 @@ abstain from certain acts, such as not combing, not shaving, and
 observing sexual continence. {Trans.}
 
 [^66]: Nahj al-Balaghah, Sermon 191 (Khutbah al-Muttaqin or Hammam).
-
 

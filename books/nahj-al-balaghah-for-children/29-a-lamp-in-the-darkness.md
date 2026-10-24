@@ -15,4 +15,3 @@ have to get light from it.
 
 (Sermon 187)
 
-

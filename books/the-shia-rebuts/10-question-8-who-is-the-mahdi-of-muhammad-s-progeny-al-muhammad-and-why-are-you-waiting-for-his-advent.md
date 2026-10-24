@@ -10,12 +10,8 @@ A survey of the Old and New Testaments will make this fact clear.[^1]
 In this regard, *muhaddithun* narrate that the Holy Prophet (S) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-لو لم يبق من الدهر إلا يوم لبعث الله رجلاً من أهل بيتي يملأها عدلاً
-كما مُلئت جوراً.
-  </p>
-</blockquote>
+> لو لم يبق من الدهر إلا يوم لبعث الله رجلاً من أهل بيتي يملأها عدلاً
+> كما مُلئت جوراً.
 
 Even if only one day is to remain in this world, God will surely send a
 man from my *Ahl al-Bayt* who shall fill the world with justice and
@@ -48,22 +44,14 @@ to a very great age.
 
 Concerning Prophet Nuh (Noah) (*‘a*), the Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فلبث فيهم ألف سنة إلا خمسين عاماً.
-  </p>
-</blockquote>
+> فلبث فيهم ألف سنة إلا خمسين عاماً.
 
 ***“And he remained with them (his people) for a thousand-less-fifty
 years.”***[^8]
 
 And regarding Hadrat Yunus (Jonah) (*‘a*), it says:
 
-<blockquote dir="rtl">
-  <p>
-فلولا أنه كان من المسبحين للبث في بطنه إلى يوم يُبعثون.
-  </p>
-</blockquote>
+> فلولا أنه كان من المسبحين للبث في بطنه إلى يوم يُبعثون.
 
 ***“And had he not been one of those who celebrate Allah’s glory, he
 would have surely remained in its belly till the day they will be
@@ -101,5 +89,4 @@ ibn Hanbal (Egypt, 1313 AH), vol. 1, p. 376.
 [^8]: Surah al-‘Ankabut 29:14.
 
 [^9]: Surah as-Saffat 37:143-144.
-
 

@@ -451,4 +451,3 @@ use of perfume will not become.
 lawful until after the completion by them of the ceremonies of Mina,
 the throwing of pebbles, sacrifice and shaving of head or taqseer.
 
-

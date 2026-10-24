@@ -9,4 +9,3 @@ Urdu.
 
 Kubra Jafri
 
-

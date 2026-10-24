@@ -7,11 +7,7 @@ The Heart
 God-wariness should reside in it.
 
 > 1ـ حَرامٌ عَلى كُلِّ قَلْب مُتَوَلِّه بِالدُّنْيا أنْ يَسْكُنَهُ
-<blockquote dir="rtl">
-  <p>
-التَّقْوى.
-  </p>
-</blockquote>
+> التَّقْوى.
 
 2. Wage war against these hearts [and their desires], for indeed they
 are quick to stumble (or get obliterated).
@@ -31,11 +27,7 @@ lures of this world.
 of this life, and make it see the calamities of this world.
 
 > 5ـ ذَلِّلْ قَلْبَكَ بِاليَقينِ، وقَرِّرْهُ بِالفَناءِ، وبَصِّرْهُ
-<blockquote dir="rtl">
-  <p>
-فَجايِـعَ الدُّنْيا.
-  </p>
-</blockquote>
+> فَجايِـعَ الدُّنْيا.
 
 6. The adornment of the hearts is sincerity of faith.
 
@@ -58,11 +50,7 @@ tongue with remembrance [of Allah].
 safe from deception.
 
 > 10ـ طُوبى لِمَنْ خَلا مِنَ الغِلِّ صَدْرُهُ وسَلِمَ مِنَ الغِشِّ
-<blockquote dir="rtl">
-  <p>
-قَلْبُهُ.
-  </p>
-</blockquote>
+> قَلْبُهُ.
 
 11. Blessed is one in whose heart the coolness [and tranquillity] of
 certitude is made to enter.
@@ -73,11 +61,7 @@ certitude is made to enter.
 will be multiplied.
 
 > 12ـ طَهِّرُوا قُلُوبَكُمْ مِنْ دَرَنِ السَّيِّئاتِ، تُضاعَفْ لَكُمُ
-<blockquote dir="rtl">
-  <p>
-الحَسَناتُ.
-  </p>
-</blockquote>
+> الحَسَناتُ.
 
 13. The strong muscles of the body and its height are of no benefit if
 the heart is empty.
@@ -88,11 +72,7 @@ the heart is empty.
 so that you may understand.
 
 > 14ـ فَاسْمَعُوا أيُّهَا النّاسُ وَعُوا، وأحْضِرُوا آذانَ قُلُوبِكُمْ
-<blockquote dir="rtl">
-  <p>
-تَفْهَمُوا.
-  </p>
-</blockquote>
+> تَفْهَمُوا.
 
 15. So his appearance is [in] the form of a human being but his heart is
 the heart of a beast.
@@ -108,22 +88,14 @@ intelligent one is in his heart.
 intelligent one is behind his heart.
 
 > 17ـ قَلْبُ الأحْمَقِ وَراءَ لِسانِهِ، ولِسانُ العاقِلِ وَراءَ
-<blockquote dir="rtl">
-  <p>
-قَلْبِهِ.
-  </p>
-</blockquote>
+> قَلْبِهِ.
 
 18. The pure hearts of the servants are places that Allah, the
 Glorified, looks upon [with His mercy]; so whoever purifies his heart,
 He will look upon it.
 
 > 18ـ قُلُوبُ العِبادِ الطّاهِرَةُ مَواضِعُ نَظِرِ اللّهِ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-فَمَنْ طَهَّرَ قَلْبَهُ نَظَرَ إلَيْهِ.
-  </p>
-</blockquote>
+> فَمَنْ طَهَّرَ قَلْبَهُ نَظَرَ إلَيْهِ.
 
 19. There are some evil thoughts that come into the hearts, but the
 intellects deter one from [acting upon] them.
@@ -134,11 +106,7 @@ intellects deter one from [acting upon] them.
 submits, all the other parts of his body also submit.
 
 > 20ـ لِيَخْشَعْ لِلّهِ سُبْحانَهُ قَلْبُكَ، فَمَنْ خَشَعَ قَلْبُهُ
-<blockquote dir="rtl">
-  <p>
-خَشَعَتْ جَميعُ جَوارِحِهِ.
-  </p>
-</blockquote>
+> خَشَعَتْ جَميعُ جَوارِحِهِ.
 
 21. Indeed there is a piece of flesh that has been placed inside this
 human being which is the most amazing thing in him, and that is his
@@ -155,20 +123,16 @@ its eating increases, the heaviness of his stomach pains it. Thus every
 curtailment is harmful to it and every excess is injurious to it.
 
 > 21ـ لَقَدْ عُلِّقَ بِنياطِ هذا الإنْسانِ بَضْعَةٌ هِيَ أعْجَبُ ما فيهِ
-<blockquote dir="rtl">
-  <p>
-وذلِكَ القَلْبُ، ولَهُ مَوادٌّ مِنَ الحِكْمَةِ وأضْدادٌ مِنْ خِلافِها
-فَإنْ سَنَحَ لَهُ الرَّجاءُ أذَلَّهُ الطَّمَعُ، وإنْ هاجَ بِهِ
-الطَّمَعُ أهْلَكَهُ الحِرْصُ وإنْ مَلَكَهُ اليَأْسُ قَتَلَهُ
-الأسَفُ،وإنْ عَرَضَ لَهُ الغَضَبُ اِشْتَدَّ بِهِ الغَيْظُ وإنْ
-أسْعَدَهُ الرِّضا نَسِيَ التَّحَفُّظَ، وإنْ غالَهُ الخَوْفُ شَغَلَهُ
-الحَذَرُ، وإنِ اتَّسَعَ لَهُ الأمْنُ اسْتَلَبَتْهُ الغِرَّةُ وإنْ
-أصابَتْهُ مُصِيبَةٌ فعضَحَهُ الجَزَعُ، وإنْ أفادَ مالاً أطْغاهُ
-الْغِنى، وإنْ عَضَّتْهُ الفاقَةُ شَغَلَهُ البَلاءُ، وإنْ جَهَدَهُ
-الجُوعُ قَعَدَ بِهِ الضَّعْفُ وإنْ أفْرَطَ بِهِ الشِّبَعُ كَظَّتْهُ
-البِطْنَةُ، فَكُلُّ تَقْصير بِهِ مُضِرٌّ، وكُلُّ إفْراط لَهُ مُفْسِدٌ.
-  </p>
-</blockquote>
+> وذلِكَ القَلْبُ، ولَهُ مَوادٌّ مِنَ الحِكْمَةِ وأضْدادٌ مِنْ خِلافِها
+> فَإنْ سَنَحَ لَهُ الرَّجاءُ أذَلَّهُ الطَّمَعُ، وإنْ هاجَ بِهِ
+> الطَّمَعُ أهْلَكَهُ الحِرْصُ وإنْ مَلَكَهُ اليَأْسُ قَتَلَهُ
+> الأسَفُ،وإنْ عَرَضَ لَهُ الغَضَبُ اِشْتَدَّ بِهِ الغَيْظُ وإنْ
+> أسْعَدَهُ الرِّضا نَسِيَ التَّحَفُّظَ، وإنْ غالَهُ الخَوْفُ شَغَلَهُ
+> الحَذَرُ، وإنِ اتَّسَعَ لَهُ الأمْنُ اسْتَلَبَتْهُ الغِرَّةُ وإنْ
+> أصابَتْهُ مُصِيبَةٌ فعضَحَهُ الجَزَعُ، وإنْ أفادَ مالاً أطْغاهُ
+> الْغِنى، وإنْ عَضَّتْهُ الفاقَةُ شَغَلَهُ البَلاءُ، وإنْ جَهَدَهُ
+> الجُوعُ قَعَدَ بِهِ الضَّعْفُ وإنْ أفْرَطَ بِهِ الشِّبَعُ كَظَّتْهُ
+> البِطْنَةُ، فَكُلُّ تَقْصير بِهِ مُضِرٌّ، وكُلُّ إفْراط لَهُ مُفْسِدٌ.
 
 22. One whose heart is dead enters the fire [of hell].
 
@@ -178,11 +142,7 @@ curtailment is harmful to it and every excess is injurious to it.
 independence from the creation of Allah in it.
 
 > 23ـ مَنْ سَكَنَ قَلْبَهُ العِلْمُ بِاللّهِ سَكَنَهُ الغِنى عَن خَلْقِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ.
 
 24. Deaf is the heart that does not have an attentive ear.
 
@@ -196,11 +156,7 @@ independence from the creation of Allah in it.
 does not shed tears and knowledge that does not benefit.
 
 > 26ـ لاخَيْرَ في قَلْب لايَخْشَعُ، وعَيْن لاتَدْمَعُ، وعِلْم
-<blockquote dir="rtl">
-  <p>
-لايَنْفَعُ.
-  </p>
-</blockquote>
+> لايَنْفَعُ.
 
 27. Verily there are evil thoughts that come into the hearts but the
 intellects deters one from [acting upon] them.
@@ -216,22 +172,14 @@ that are most receptive to good.
 seek out wise sayings for them.
 
 > 29ـ إنَّ هذِهِ القُلُوبَ تَمِلُّ كَما تَمِلُّ الأبْدانُ، فابْتَغُوا
-<blockquote dir="rtl">
-  <p>
-لَها طَرائِفَ الحِكَمِ.
-  </p>
-</blockquote>
+> لَها طَرائِفَ الحِكَمِ.
 
 30. Verily hearts have desire and aversion, an advancing and a
 retreating, so approach them from whence they advance and desire, for
 indeed when the heart is forced [to do anything] it becomes blind.
 
 > 30ـ إنَّ لِلْقُلُوبِ شَهْوَةً وكِراهَةً، وإقْبالاً وإدْباراً، فَأتُوها
-<blockquote dir="rtl">
-  <p>
-مِنْ إقْبالِها، وَشَهْوَتِها، فَإنَّ القَلْبَ إذا أُكْرِهَ عَمِيَ.
-  </p>
-</blockquote>
+> مِنْ إقْبالِها، وَشَهْوَتِها، فَإنَّ القَلْبَ إذا أُكْرِهَ عَمِيَ.
 
 31. The heart is a spring of wisdom and the ear is the place where it
 sinks [and enters] in.
@@ -244,33 +192,21 @@ death, make it see the transience of this life and show it the
 calamities of the world.
 
 > 32ـ أحْيِ قَلْبَكَ بِالمَوْعِظَةِ، وأمِتْهُ بِالزَّهادَةِ، وقَوِّهِ
-<blockquote dir="rtl">
-  <p>
-بِاليَقينِ، وذَلِّلْهُ بِذِكْرِ المَوْتِ،وَ قَرِّرْهُ بِالفَناءِ،
-وبَصِّرْهُ فَجائِعَ الدُّنْيا.
-  </p>
-</blockquote>
+> بِاليَقينِ، وذَلِّلْهُ بِذِكْرِ المَوْتِ،وَ قَرِّرْهُ بِالفَناءِ،
+> وبَصِّرْهُ فَجائِعَ الدُّنْيا.
 
 33. Indeed destitution is an affliction, and worse than destitution is
 sickness of the body, and worse than bodily ailment is the sickness of
 the heart.
 
 > 33ـ ألا وإنَّ مِنَ البَلاءِ اَلفاقَةَ، وأشَدُّ مِنَ الفاقَةِ مَرَضُ
-<blockquote dir="rtl">
-  <p>
-البَدَنِ، وأشَدُّ مِنْ مَرَضِ البَدَنِ مَرَضُ القَلْبِ.
-  </p>
-</blockquote>
+> البَدَنِ، وأشَدُّ مِنْ مَرَضِ البَدَنِ مَرَضُ القَلْبِ.
 
 34. Where are the hearts that have been presented to Allah and have been
 bound to the obedience of Allah?
 
 > 34ـ أيْنَ القُلُوبُ الَّتي وُهِبَتْ لِلّهِ وعُوقِدَتْ عَلى طاعَةِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ.
 
 35. The most rancorous heart is the heart of the spiteful.
 
@@ -286,11 +222,7 @@ advances then make it bear the [performance of] supererogatory acts, but
 when it retreats then make it suffice with the obligatory acts.
 
 > 37ـ إنَّ لِلْقُلُوبِ إقْبالاً وإدْباراً، فَإذا أقْبَلَتْ فَاحْمِلُوها
-<blockquote dir="rtl">
-  <p>
-عَلَى النَّوافِلِ، وإذا أدْبَرَتْ فَاقْتَصِرُوا بِها عَلَى الفَرائِضِ.
-  </p>
-</blockquote>
+> عَلَى النَّوافِلِ، وإذا أدْبَرَتْ فَاقْتَصِرُوا بِها عَلَى الفَرائِضِ.
 
 38. The heart is the treasurer of the tongue.
 
@@ -308,20 +240,11 @@ when it retreats then make it suffice with the obligatory acts.
 accepts anything that is sown in it.
 
 > 41ـ إنَّما قَلْبُ الحَدَثِ كَالأرْضِ الخالِيَةِ، مَهْما أُلْقِيَ فيها
-<blockquote dir="rtl">
-  <p>
-مِنْ كُلِّ شَيْء قَبِلَتْهُ.
-  </p>
-</blockquote>
+> مِنْ كُلِّ شَيْء قَبِلَتْهُ.
 
 42. The hearts of men are wild, so whoever shows them affection [and
 tames them], they turn towards him.
 
 > 42ـ قُلُوبُ الرِّجالِ وَحْشِيَّةٌ، فَمَنْ تَألَّفَها أقْبَلَتْ
-<blockquote dir="rtl">
-  <p>
-إلَيْهِ.
-  </p>
-</blockquote>
-
+> إلَيْهِ.
 

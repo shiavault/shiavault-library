@@ -93,4 +93,3 @@ In order to elucidate the perspective of the Shias regarding the
 tradition of the Holy prophet, we are obligated to explain the matter
 into two ways:
 
-

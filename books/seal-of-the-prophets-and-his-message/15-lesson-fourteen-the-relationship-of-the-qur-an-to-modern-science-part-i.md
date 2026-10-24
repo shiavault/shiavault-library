@@ -350,4 +350,3 @@ through Your favor from the torment of the fire.'"(3:191)***
 
 [^7]: Az kahkashan ta insan, p. 47.
 
-

@@ -842,4 +842,3 @@ elements both intellectually and socially” (Nasr Sūfī Essays 106-107).
 shāya'a, meaning “to adhere to; to support a common cause; to be a
 partisan of it.”
 
-

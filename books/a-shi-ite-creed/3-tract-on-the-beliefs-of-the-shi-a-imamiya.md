@@ -9,4 +9,3 @@ upon Muhammad and his excellent and pure progeny. Sufficient for us is
 Allah, and He is the best of Agents and the best of those on whom we
 rely.
 
-

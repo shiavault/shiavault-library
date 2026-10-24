@@ -811,4 +811,3 @@ form or another of rationalism, and recently irrationalism has been
 divorced from sapientia which Hikmat and even falsafah imply in Arabic
 and Persian.
 
-

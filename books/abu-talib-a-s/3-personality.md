@@ -215,7 +215,6 @@ glory." (1)
 1 As-Seera an-Nabawiyya, vol.1 p.80, as-Seera al-Halbiyya, vol.1 p.138,
 Biharul Anwar, vol.6 p.129, A'yan ash-Shia, vol.2 p.11.
 
-
 **Signs**
 
 The poetry of Abu Talib had evidence showing that he had known about
@@ -224,7 +223,6 @@ what the monk Buhayra had told him and according to many other signs.
 The knowing of Abu Talib about the prophecy of Muhammad (s) was
 mentioned by many historians besides that it was understood through his
 poetry.
-
 
 Imam Abudl Wahid as-Safaqissi As-Seera an-Nabawiyya, vol.1 p.88.
 
@@ -335,5 +333,4 @@ warning) was revealed. He saw that the Prophet (s) had made forty
 persons drink from one cup of milk as it was narrated by Imam Ali (s).
 All of the historians mentioned this event so there is no need to
 mention the reference books.
-
 

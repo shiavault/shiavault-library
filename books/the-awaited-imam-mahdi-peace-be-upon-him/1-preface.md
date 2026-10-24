@@ -6,9 +6,7 @@ His Household)* stayed at Ghadīr Khum after his return from
 Hajjat-ul-wadā‘ to Medina. Surrounded by the Companions, he declared
 while raising the hand of ‘Alī al-Murtadā (RA):
 
-<p dir="rtl">
 مَنْ كُنْتُ مَولاهُ فَعَلِيٌّ مَولاهُ.
-</p>
 
 *Whoever has me as his master ‘Alī is his master.*
 
@@ -88,14 +86,12 @@ Shāh Walī Allāh (رحمة الله تعالى عليه), a great scholar of t
 Subcontinent, has commented on this division of Prophet’s inheritance in
 the following words:
 
-<p dir="rtl">
 پس وارث آنحضرت هم بسه قسم منقسم اند، فوراثه الذين أخذوا الحكمة و العصمة
 و القطبية الباطنية، هم أهل بيته و خاصته، و وراثه الذين أخذوا الحفظ و
 التلقين و القطبية الظاهرة الإرشادية، هم أصحابه الكبار كالخلفاء الأربعة و
 سائر العشرة، و وراثه الذين أخذوا العنايات الجزئية و التقوى و العلم، هم
 أصحابه الذين لحقوا بإحسان كأنس و أبي هريرة و غيرهم من المتأخرين، فهذه
 ثلاثة مراتب متفرعة من كمال خاتم الرسل صلى الله عليه وآله وسلم.
-</p>
 
 People who have received the Prophet’s inheritance are of three kinds:
 ‘The first kind is of those who received wisdom, piety and inner
@@ -313,7 +309,6 @@ spiritual sovereignty.
 The words of Shaykh Mujaddid Alf Thānī Ahmad Sarhandī (رحمة الله تعالى
 عليه) appropriately highlight the point:
 
-<p dir="rtl">
 وراهى است كه بقرب ولايت تعلق دارد: اقطاب و اوتاد و بدلاء و نجباء و عامه
 اولياء الله، به همين راه واصل اند وراه سلوك عبارت ازين راه است بلكه جذبه
 متعارفه، نيز داخل همين است و توسط و حيلولت درين راه كائن است و پيشواى و
@@ -331,7 +326,6 @@ The words of Shaykh Mujaddid Alf Thānī Ahmad Sarhandī (رحمة الله تع
 و هدايت ميرسيد بتوسط اين بزرگواران بوده و بخيلولة ايشانان هر چند اقطاب و
 نجباى وقت بوده باشند، و ملاذ و ملجاء همه ايشان بوده اند چه اطراف را غير
 از لحوق بمركز چاره نيست.
-</p>
 
 And there is another way close to spiritual sovereignty and this is the
 way of all categories of saints of all levels. The path of mysticism
@@ -415,5 +409,4 @@ of the Prophets*(Peace Be Upon Him and His Household)* ).
 
 One of the servants of Prophet’s*(Peace Be Upon Him and His Household)*
 Family
-
 

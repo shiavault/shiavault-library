@@ -116,7 +116,7 @@ men realise that there is an Almighty Lord before Whom they are humble.
 **[1]** Qur’an, 14:11, 17:94, 21:7-8, 23:33, 25:7-8, 26:111, 26:154,
 26:185, 29:29, 34:43, 36:15, 26:154, 26:185-186, 34:43, 46:27.  
  **[2]** As-Saduq’s Ilalush Sharayi’, Ch. 99, tradition No.6, p.91, p.
-138 of 3<sup>rd</sup> edition, [1998].  
+138 of 3rd edition, [1998].  
  **[3]** Qur’an, 26:204-209, 28:59.  
  **[4]** Qur’an, 7:59-64, 10:71-73, 23:23-27, 26:105-121, 28:7-40,
 29:14, 15, 51:38, 54:9-16.  

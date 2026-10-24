@@ -53,4 +53,3 @@ call it supplication.
 
 [^1]: Mo’jam Maqaiis Al-Logha, vol. 2, p 274
 
-

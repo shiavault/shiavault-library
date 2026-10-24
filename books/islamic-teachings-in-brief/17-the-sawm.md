@@ -554,4 +554,3 @@ by someone) for every Muslim to pick up and bring it up.
 luqtah and it should be restored to its original owner, but it cannot be
 returned to the thief.
 
-

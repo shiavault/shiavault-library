@@ -59,7 +59,6 @@ and is a close relative, is not shown the face of the deceased and this
 has to be announced. Only Mahram of the deceased can see his / her
 face.
 
-
 **Chapter Sixteen : Talqeen**
 
 Amir-ul-Mu'mineen Ali [A.S.] said:
@@ -250,5 +249,4 @@ Yourself and grant him from Yourself a Plea. O Allah, Your
 forgiveness;
 
 Your forgiveness.
-
 

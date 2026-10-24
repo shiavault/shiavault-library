@@ -50,4 +50,3 @@ removes her sins.
 
 [^4]: Ibid., p. 217.
 
-

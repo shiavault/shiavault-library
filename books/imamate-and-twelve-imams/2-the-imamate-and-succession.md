@@ -302,4 +302,3 @@ been created from my clay. My knowledge and understanding have been
 bestowed upon them. Therefore woe unto those who deny their virtues. My
 intercession [on the Day of Judgment] will never include them."
 
-

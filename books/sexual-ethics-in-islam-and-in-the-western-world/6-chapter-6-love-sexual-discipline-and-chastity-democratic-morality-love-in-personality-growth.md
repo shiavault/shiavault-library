@@ -99,29 +99,13 @@ including those of a catalyst, teacher and inspirer. From Persian
 literature, we may quote a verse from Sa’di, as follows:  
   
 
-<blockquote dir="rtl">
-  <p>
-هر كه عشق اندر او كمند انداخت
-  </p>
-</blockquote>
+> هر كه عشق اندر او كمند انداخت
 
-<blockquote dir="rtl">
-  <p>
-بمراد ويش به بايد ساخت
-  </p>
-</blockquote>
+> بمراد ويش به بايد ساخت
 
-<blockquote dir="rtl">
-  <p>
-هر كه عاشق نگشت ، مرد نشد
-  </p>
-</blockquote>
+> هر كه عاشق نگشت ، مرد نشد
 
-<blockquote dir="rtl">
-  <p>
-نقره فائق نگشت تا نگداخت
-  </p>
-</blockquote>
+> نقره فائق نگشت تا نگداخت
 
 *Whoever falls in love beyond himself,*  
 *yields to love but his own self,*  
@@ -131,17 +115,9 @@ literature, we may quote a verse from Sa’di, as follows:
  Another famous Iranian poet, Hafiz, refers to a nightingale's love of
 roses and muses as follows:-
 
-<blockquote dir="rtl">
-  <p>
-بلبل از فیض گل آموخت سخن ور نه نبود,
-  </p>
-</blockquote>
+> بلبل از فیض گل آموخت سخن ور نه نبود,
 
-<blockquote dir="rtl">
-  <p>
-این همه قول و غزل تعبیه در منقارش
-  </p>
-</blockquote>
+> این همه قول و غزل تعبیه در منقارش
 
  
 
@@ -427,5 +403,4 @@ London. Paperbacks Ed. 1976, p. 53-54.
 
 [^5]: Bertrand Russell: Marriage and Morals, George Allen & Unwin Ltd.,
 London. Paperbacks Ed. 1976, p. 38.
-
 

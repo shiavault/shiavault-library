@@ -174,7 +174,6 @@ that he should sit on that seat.2 Balazari, Ansabul Ashrâf, Vol. 1 P.
 560
 Balazari, Ansabul Ashrâf, Vol. 1, P. 561
 
-
 **Imamat of Abu Bakr is the proof of his Caliphate**
 
 Abu Avana (d. 316) after narrating some traditions in his Musnad which
@@ -259,5 +258,4 @@ leadership (Wilayat).
 What factors could undermine the position given by the holy Prophet to
 Abu Bakr?
 Ansabul Ashrâf, Vol. 1, P. 560
-
 

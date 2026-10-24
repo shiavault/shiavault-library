@@ -79,4 +79,3 @@ World Organization for Islamic Services,
  20th February, 1972  
  Tehran — IRAN.
 
-

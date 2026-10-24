@@ -515,4 +515,3 @@ Thus, Hazrat Ali (as) was the most capable person after the Holy
 Prophet to lead the Muslim Ummah and to preach the Divine message of
 Tawheed.
 
-

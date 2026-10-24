@@ -224,4 +224,3 @@ the inscription of the seal. Then I kept all this confidential and
 subsequently forgot everything till I accepted Islam and the Holy
 Prophet (S) himself reminded me of all this.”
 
-

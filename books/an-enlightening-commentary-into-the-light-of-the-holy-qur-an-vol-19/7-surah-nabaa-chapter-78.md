@@ -8,11 +8,7 @@ Surah Nabaa, Chapter 78
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -79,43 +75,19 @@ length of time it takes to say a single prayer”.*
 Surah Nabaa, Verses 1-5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-عَمَّ يَتَسَاءَلُونَ
-  </p>
-</blockquote>
+> عَمَّ يَتَسَاءَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبَإِ الْعَظِيمِ
-  </p>
-</blockquote>
+> عَنِ النَّبَإِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
-  </p>
-</blockquote>
+> الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا سَيَعْلَمُونَ
-  </p>
-</blockquote>
+> كَلَّا سَيَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كَلَّا سَيَعْلَمُونَ
-  </p>
-</blockquote>
+> ثُمَّ كَلَّا سَيَعْلَمُونَ
 
 ***1. “O what do they ask (one another)?”***  
 ***2. “Of the Great News,”***  
@@ -248,7 +220,6 @@ begins with ‘
 
 س
 
-  
 ’ (s) which is usually used as a sign for near future, and denotes that
 the Hereafter is near; that this whole life is just a fleeting moment in
 comparison to it.
@@ -417,71 +388,27 @@ path of charity and goodness throughout his life.
 Surah Nabaa, Verses 6-16
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
-  </p>
-</blockquote>
+> أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
 
-<blockquote dir="rtl">
-  <p>
-وَالْجِبَالَ أَوْتَادًا
-  </p>
-</blockquote>
+> وَالْجِبَالَ أَوْتَادًا
 
-<blockquote dir="rtl">
-  <p>
-وَخَلَقْنَاكُمْ أَزْوَاجًا
-  </p>
-</blockquote>
+> وَخَلَقْنَاكُمْ أَزْوَاجًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
-  </p>
-</blockquote>
+> وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا اللَّيْلَ لِبَاسًا
-  </p>
-</blockquote>
+> وَجَعَلْنَا اللَّيْلَ لِبَاسًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا النَّهَارَ مَعَاشًا
-  </p>
-</blockquote>
+> وَجَعَلْنَا النَّهَارَ مَعَاشًا
 
-<blockquote dir="rtl">
-  <p>
-وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
-  </p>
-</blockquote>
+> وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا سِرَاجًا وَهَّاجًا
-  </p>
-</blockquote>
+> وَجَعَلْنَا سِرَاجًا وَهَّاجًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
-  </p>
-</blockquote>
+> وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
 
-<blockquote dir="rtl">
-  <p>
-لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
-  </p>
-</blockquote>
+> لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
 
-<blockquote dir="rtl">
-  <p>
-وَجَنَّاتٍ أَلْفَافًا
-  </p>
-</blockquote>
+> وَجَنَّاتٍ أَلْفَافًا
 
 ***6. “Have We not made the earth as a (wide) expanse?”***  
 ***7. “And the mountains as pegs?”***  
@@ -955,29 +882,13 @@ It, after pointing to the revival of the dead lands by rain, says:
 Surah Nabaa, Verses 17-20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
-  </p>
-</blockquote>
+> إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
-  </p>
-</blockquote>
+> يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
 
-<blockquote dir="rtl">
-  <p>
-وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
-  </p>
-</blockquote>
+> وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
 
-<blockquote dir="rtl">
-  <p>
-وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
-  </p>
-</blockquote>
+> وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
 
 ***17. “Verily the Day of Sorting out is (a day) appointed”.***  
 ***18. “The Day when the Trumpet shall be blown and you shall come forth
@@ -1216,65 +1127,25 @@ shattered.
 Surah Nabaa, Verses 21-30
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
-  </p>
-</blockquote>
+> إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
 
-<blockquote dir="rtl">
-  <p>
-لِلطَّاغِينَ مَآبًا
-  </p>
-</blockquote>
+> لِلطَّاغِينَ مَآبًا
 
-<blockquote dir="rtl">
-  <p>
-لَابِثِينَ فِيهَا أَحْقَابًا
-  </p>
-</blockquote>
+> لَابِثِينَ فِيهَا أَحْقَابًا
 
-<blockquote dir="rtl">
-  <p>
-لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
-  </p>
-</blockquote>
+> لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا حَمِيمًا وَغَسَّاقًا
-  </p>
-</blockquote>
+> إِلَّا حَمِيمًا وَغَسَّاقًا
 
-<blockquote dir="rtl">
-  <p>
-جَزَاءً وِفَاقًا
-  </p>
-</blockquote>
+> جَزَاءً وِفَاقًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
-  </p>
-</blockquote>
+> إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
-  </p>
-</blockquote>
+> وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
 
-<blockquote dir="rtl">
-  <p>
-وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
-  </p>
-</blockquote>
+> وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
 
-<blockquote dir="rtl">
-  <p>
-فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
-  </p>
-</blockquote>
+> فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
 
 ***21. “Surely Hell lies in ambush”.***  
 ***22. “For the transgressors a destination”.***  
@@ -1534,48 +1405,20 @@ to make them completely hopeless.
 Surah Nabaa, Verses 31-37
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْمُتَّقِينَ مَفَازًا
-  </p>
-</blockquote>
+> إِنَّ لِلْمُتَّقِينَ مَفَازًا
 
-<blockquote dir="rtl">
-  <p>
-حَدَائِقَ وَأَعْنَابًا
-  </p>
-</blockquote>
+> حَدَائِقَ وَأَعْنَابًا
 
-<blockquote dir="rtl">
-  <p>
-وَكَوَاعِبَ أَتْرَابًا
-  </p>
-</blockquote>
+> وَكَوَاعِبَ أَتْرَابًا
 
-<blockquote dir="rtl">
-  <p>
-وَكَأْسًا دِهَاقًا
-  </p>
-</blockquote>
+> وَكَأْسًا دِهَاقًا
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
-  </p>
-</blockquote>
+> لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
 
-<blockquote dir="rtl">
-  <p>
-جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا
-  </p>
-</blockquote>
+> جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا
-يَمْلِكُونَ مِنْهُ خِطَابًا
-  </p>
-</blockquote>
+> رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا
+> يَمْلِكُونَ مِنْهُ خِطَابًا
 
 ***31. “Surely for the Righteous there is a victory,”***  
 ***32. “Gardens enclosed and vineyards”***  
@@ -1886,26 +1729,14 @@ drinks with His Favor and Grace:
 Surah Nabaa, Verses 38-40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ
-إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
-  </p>
-</blockquote>
+> يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ
+> إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ
-مَآبًا
-  </p>
-</blockquote>
+> ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ
+> مَآبًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا
-قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا
-  </p>
-</blockquote>
+> إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا
+> قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا
 
 ***38. “The Day on which the Spirit and the angels shall stand arrayed,
 they shall speak not except whom the All‑merciful gives leave, and (who)
@@ -2497,5 +2328,4 @@ Ihqaq‑ul‑Haqq, vol. 4, p. 484).
 [^53]: Surah Kahf, No. 18, verse 29
 
 [^54]: Surah al-Insan, No. 76. verse 29
-
 

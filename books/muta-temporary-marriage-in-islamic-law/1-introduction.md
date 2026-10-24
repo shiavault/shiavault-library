@@ -69,4 +69,3 @@ Sachiko Murata
 
 Port Jefferson, NY 14 December 1986
 
-

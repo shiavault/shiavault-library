@@ -76,4 +76,3 @@ aware and familiar with the affairs of her society.
     
 *‘Allāmah Tabātabā’ī* 
 
-

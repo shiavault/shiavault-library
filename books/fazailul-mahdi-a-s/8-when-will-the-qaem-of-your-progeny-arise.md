@@ -72,4 +72,3 @@ other."(Faraidus Simtain vol.2. Pg.336)
 22. Nomani - Kitabul Ghaybah
 23. Muhaddith-E-Noori - Najmus Saaqib.
 
-

@@ -1201,4 +1201,3 @@ Arabia.
 [^61]: That is, in the polytheistic creed prevalent in pre-Islamic
 Arabia.
 
-

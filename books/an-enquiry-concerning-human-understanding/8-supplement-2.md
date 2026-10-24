@@ -367,4 +367,3 @@ nexion between the ideas, we transfer that feeling to the objects; as
 nothing is more usual than to apply to external bodies every internal
 sensation, which they occasion.
 
-

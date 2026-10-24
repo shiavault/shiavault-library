@@ -72,4 +72,3 @@ in the Translation Office for undertaking this responsibility.
 [^1]: Muhsin Qara’ati, Parto-yi az Asrar-e Namaz (Tehran: Setad-e
 Iqameh-ye Namaz, Winter 1379 (2000)), pp. 251.
 
-

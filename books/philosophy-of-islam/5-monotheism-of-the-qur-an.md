@@ -573,4 +573,3 @@ which is to be found at http://www.al-islam.org/mastership/
 [^2]: Ayatullah Baqir al‑Sadr, He, His Messenger and His Message, which
 is to be found at http://www.al-islam.org/revealer/
 
-

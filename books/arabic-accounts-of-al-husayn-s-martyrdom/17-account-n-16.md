@@ -26,6 +26,6 @@ event.
 
 **Notes:**
 
-[^65] Al-Mufid, Kitab al-Irshad, pp. 299-372.
-[^66] Al-Mufid, Kitab al-Irshad, p. 308.
+[^65]: Al-Mufid, Kitab al-Irshad, pp. 299-372.
+[^66]: Al-Mufid, Kitab al-Irshad, p. 308.
 

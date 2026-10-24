@@ -4,13 +4,9 @@ Section 3: Every Soul Shall Taste Death
 Surah Al-’Anbiya’ – Verse 30
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ لَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالاَرْضَ
-كَانَتَا رَتْقاً فَفَتَقْنَاهُمَا وَجَعَلْنَا مِنَ الْمَآءِ كُلَّ
-شَيْءٍ حَيٍّ أَفَلاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَوَ لَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالاَرْضَ
+> كَانَتَا رَتْقاً فَفَتَقْنَاهُمَا وَجَعَلْنَا مِنَ الْمَآءِ كُلَّ
+> شَيْءٍ حَيٍّ أَفَلاَ يُؤْمِنُونَ
 
 ***30. “Do not those who disbelieve see that the heavens and the earth
 were joined together before We clove them asunder, and We made from
@@ -146,12 +142,8 @@ of life and water by this beautiful expression.
 Surah Al-’Anbiya’ – Verse 31
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا فِي الاَرْضِ رَوَاسِيَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا
-فِيهَا فِجَاجاً سُبُلاً لَّعَلَّهُمْ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا فِي الاَرْضِ رَوَاسِيَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا
+> فِيهَا فِجَاجاً سُبُلاً لَّعَلَّهُمْ يَهْتَدُونَ
 
 ***31. “And We set in the earth firm mountains lest it should shake with
 them (people), and We set therein broad high ways that they may be
@@ -209,12 +201,8 @@ patient and powerful leaders to prevent mankind from slipping in events.
 Surah Al-’Anbiya’ – Verse 32
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا السَّمَآءَ سَقْفاً مَّحْفُوظاً وَهُمْ عَنْ ءَايَاتِهَا
-مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا السَّمَآءَ سَقْفاً مَّحْفُوظاً وَهُمْ عَنْ ءَايَاتِهَا
+> مُعْرِضُونَ
 
 ***32. “And We set up the heaven as a roof well-protected, and yet they
 turn away from its signs.”***
@@ -244,12 +232,8 @@ from cosmos.
 Surah Al-’Anbiya’ – Verse 33
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ
-كُلٌّ فِي فَلَكٍ يَسْبَحُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ
+> كُلٌّ فِي فَلَكٍ يَسْبَحُونَ
 
 ***33. “And He it is Who created the night and the day and the sun and
 the moon. They float, each in an orbit.”***
@@ -298,19 +282,11 @@ moving.
 Surah Al-’Anbiya’ – Verses 34 - 35
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلْنَا لِبَشَرٍ مِن قَبْلِكَ الْخُلْدَ أَفإِيْن مّـِتَّ
-فَهُمُ الْخَالِدُونَ
-  </p>
-</blockquote>
+> وَمَا جَعَلْنَا لِبَشَرٍ مِن قَبْلِكَ الْخُلْدَ أَفإِيْن مّـِتَّ
+> فَهُمُ الْخَالِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ وَنَبْلُوكُم بِالشَّرّ‌ِ وَالْخَيْرِ
-فِتْنَةً وإِلَيْنَا تُرْجَعُونَ
-  </p>
-</blockquote>
+> كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ وَنَبْلُوكُم بِالشَّرّ‌ِ وَالْخَيْرِ
+> فِتْنَةً وإِلَيْنَا تُرْجَعُونَ
 
 ***34. “And We appointed immortality for no man before you. Then if you
 die, can they be immortal?”***  
@@ -380,13 +356,9 @@ said:
 Surah Al-’Anbiya’ – Verse 36
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَءَاكَ الَّذِينَ كَفَرُوا إِن يَتَّخِذُونَكَ إِلاَّ هُزُواً
-أَهَذَا الَّذِي يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ الرَّحْمَنِ هُمْ
-كَافِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا رَءَاكَ الَّذِينَ كَفَرُوا إِن يَتَّخِذُونَكَ إِلاَّ هُزُواً
+> أَهَذَا الَّذِي يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ الرَّحْمَنِ هُمْ
+> كَافِرُونَ
 
 ***36. “And when those who disbelieve see you, they take you not but for
 mockery; (saying each other): ‘Is this the one who makes mention of your
@@ -427,18 +399,10 @@ wonderful for them.
 Surah Al-’Anbiya’ – Verses 37 - 38
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-خُلِقَ الإِنسَانُ مِنْ عَجَلٍ سَأُوْرِيكُمْ ءَايَاتِي فَلاَ
-تَسْتَعْجِلُونِ
-  </p>
-</blockquote>
+> خُلِقَ الإِنسَانُ مِنْ عَجَلٍ سَأُوْرِيكُمْ ءَايَاتِي فَلاَ
+> تَسْتَعْجِلُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> وَيَقُولُونَ مَتَي هَذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ
 
 ***37. “(The nature of mortals is such that as if) man has been created
 of haste; soon (enough) I will show you My signs, so do not ask Me to
@@ -519,12 +483,8 @@ for that they all were liars.
 Surah Al-’Anbiya’ – Verse 39
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لاَ يَكُفُّونَ عَن وُجُوهِهِمُ
-النَّارَ وَلاَ عَن ظُهُورِهِمْ وَلاَ هُمْ يُنصَرُونَ
-  </p>
-</blockquote>
+> لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لاَ يَكُفُّونَ عَن وُجُوهِهِمُ
+> النَّارَ وَلاَ عَن ظُهُورِهِمْ وَلاَ هُمْ يُنصَرُونَ
 
 ***39. “If those who disbelieve but know the time when they will not be
 able to ward off the Fire from their faces and from their backs, nor
@@ -561,12 +521,8 @@ intercede them and help them, can do nothing for them.
 Surah Al-’Anbiya’ – Verse 40
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلاَ يَسْتَطِيعُونَ رَدَّهَا
-وَلاَ هُمْ يُنظَرُونَ
-  </p>
-</blockquote>
+> بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلاَ يَسْتَطِيعُونَ رَدَّهَا
+> وَلاَ هُمْ يُنظَرُونَ
 
 ***40. “Nay, but it (the Fire) will come to them all of a sudden and
 make them confounded, so they will neither be able to repel it, nor will
@@ -593,12 +549,8 @@ respited.”***
 Surah Al-’Anbiya’ – Verse 41
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِن قَبْلِكَ فَحَاقَ بِالَّذِينَ
-سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِءُونَ
-  </p>
-</blockquote>
+> وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِن قَبْلِكَ فَحَاقَ بِالَّذِينَ
+> سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِءُونَ
 
 ***41. “And indeed Messengers before you were (also) mocked, but that
 whereat they mocked encompassed those who scoffed at them.”***
@@ -640,5 +592,4 @@ your soul, or influence in your strong will.
 [^7]: Mustadrak, vol. 2, p. 149
 
 [^8]: Surah Al-’Isra’, No. 17, verse 11
-
 

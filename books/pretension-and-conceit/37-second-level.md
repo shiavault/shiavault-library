@@ -21,4 +21,3 @@ Those who claim that they offer guidance to others, the men of
 knowledge, the Sufis, the men who study behavior and mathematics, are
 all closer to this danger than all others.
 
-

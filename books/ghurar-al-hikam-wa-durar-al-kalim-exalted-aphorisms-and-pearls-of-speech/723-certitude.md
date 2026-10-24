@@ -88,22 +88,14 @@ destructive for a person with regards to his religion than the
 prevailing of doubt over his certitude.
 
 > 20ـ عَلَيْكَ بِلُزُومِ اليَقينِ، وَتَجَنُّبِ الشَّكِّ، فَلَيْسَ
-<blockquote dir="rtl">
-  <p>
-لِلْمَرْءِ شَيْءٌ أهْلَكَ لِدينِهِ مِنْ غَلَبَةِ الشَّكِّ عَلى
-يَقينِهِ.
-  </p>
-</blockquote>
+> لِلْمَرْءِ شَيْءٌ أهْلَكَ لِدينِهِ مِنْ غَلَبَةِ الشَّكِّ عَلى
+> يَقينِهِ.
 
 21. Cling to certitude and God-wariness, for indeed these two will
 deliver you to the Garden of [everlasting] Refuge.
 
 > 21ـ عَلَيْكُمْ بِلُزُومِ اليَقينِ والتَّقْوى، فَإنَّهُما
-<blockquote dir="rtl">
-  <p>
-يُبَلِّغانِكُمْ جَنَّةَ المَأْوى.
-  </p>
-</blockquote>
+> يُبَلِّغانِكُمْ جَنَّةَ المَأْوى.
 
 22. The strength of one’s certitude is [proportionate] to the extent of
 one’s faith.
@@ -122,22 +114,14 @@ one’s faith.
 himself in acquisition [of wealth] it is not true.
 
 > 25ـ لَمْ يَصْدُقْ يَقينُ مَنْ أسْرَفَ فِي الطَّلَبِ، وأجْهَدَ نَفْسَهُ
-<blockquote dir="rtl">
-  <p>
-فيِ المُكْتَسَبِ.
-  </p>
-</blockquote>
+> فيِ المُكْتَسَبِ.
 
 26. If your certitude was sound, you would not have exchanged the
 everlasting for the evanescent, nor would you have traded the lofty for
 the lowly.
 
 > 26ـ لَوْ صَحَّ يَقينُكَ لَمَا اسْتَبْدَلْتَ الفانِيَ بِالباقِى،
-<blockquote dir="rtl">
-  <p>
-ولابِعْتَ السَّنِيَّ بِالدَّنيِّ.
-  </p>
-</blockquote>
+> ولابِعْتَ السَّنِيَّ بِالدَّنيِّ.
 
 27. One who has certitude is successful.
 
@@ -205,11 +189,7 @@ coolness of certitude.
 Hereafter for this world is destroyed.
 
 > 42ـ هَلَكَ مَنْ باعَ اليَقينَ بِالشَّكِّ، والحَقَّ بالباطِلِ، والآجِلَ
-<blockquote dir="rtl">
-  <p>
-بِالعاجِلِ.
-  </p>
-</blockquote>
+> بِالعاجِلِ.
 
 43. Do not turn your certitude into doubt and your knowledge into
 ignorance.
@@ -224,11 +204,7 @@ ignorance.
 and indifference towards the pleasures of this world.
 
 > 45ـ يُسْتَدَلُّ عَلَى اليَقيـنِ:بِقَصْرِ الأمَلِ، وإخْلاصِ العَمَلِ،وَ
-<blockquote dir="rtl">
-  <p>
-الزُّهْدِ فِي الدُّنْيا.
-  </p>
-</blockquote>
+> الزُّهْدِ فِي الدُّنْيا.
 
 46. Certitude is corrupted by doubt and the onslaught of vain desire.
 
@@ -238,11 +214,7 @@ and indifference towards the pleasures of this world.
 hardship and thankfulness in well-being.
 
 > 47ـ سِلاحُ المُوقِنِ:اَلصَّبْرُ عَلَى البَلاءِ، والشُّكْرُ فِي
-<blockquote dir="rtl">
-  <p>
-الرَّخاءِ.
-  </p>
-</blockquote>
+> الرَّخاءِ.
 
 48. Have certitude and you will become strong.
 
@@ -256,11 +228,7 @@ hardship and thankfulness in well-being.
 the altruistic ones are from the people of the Elevations.[^1]
 
 > 50ـ اَلْمُوقِنُونَ، والْمُخْلِصُونَ، والمُؤْثِرُونَ مِنْ رِجالِ
-<blockquote dir="rtl">
-  <p>
-الأعْرافِ.
-  </p>
-</blockquote>
+> الأعْرافِ.
 
 51. The possessor of certitude is the most sorrowful of all people about
 [the condition of] his soul.
@@ -271,12 +239,7 @@ the altruistic ones are from the people of the Elevations.[^1]
 of vain desire and cut themselves off from the ties of this world?
 
 > 52ـ أيْنَ المُوقِنُونَ، الَّذيْنَ خَلَعُوا سَرابيلَ الهَوى، وقَطَعُوا
-<blockquote dir="rtl">
-  <p>
-عَنْهُمْ عَلائِقَ الدُّنْيا.
-  </p>
-</blockquote>
+> عَنْهُمْ عَلائِقَ الدُّنْيا.
 
 [^1]: The People of the Elevations are those referred to in Q7:46.
-
 

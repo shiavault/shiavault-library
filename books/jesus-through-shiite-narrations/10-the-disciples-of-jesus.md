@@ -330,4 +330,3 @@ who was ‘Ali ibn Abi Talib (‘a).”[^14]
 
 [^14]: Bihar, 66, 156
 
-

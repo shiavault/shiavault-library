@@ -39,4 +39,3 @@ similar to a well-known rabbinical saying, Muhammad is reported as
 saying “When doomsday comes if someone has a palm shoot in his hand he
 should [still] plant it” (*Sunān al-Baīhaqī al-Kubrā* ).
 
-

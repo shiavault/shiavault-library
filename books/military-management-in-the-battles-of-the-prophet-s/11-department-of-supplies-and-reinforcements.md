@@ -1847,4 +1847,3 @@ Sa’d 2:21, 28, 49, 97; Ibn Sayyid al-Nās 2:281
 
 [^348]: Bukhāri (al-Salāh 438)
 
-

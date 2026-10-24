@@ -511,4 +511,3 @@ specifications provided by various oppressive rulers...
 [^24]: Muslim, Sahih, Vol. 5, p. 122, also al-Tirmidhi, Sahih, Vol. 5,
 p. 637.
 
-

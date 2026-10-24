@@ -289,4 +289,3 @@ though their plan is such that the mountains should be moved thereby. So
 think not that Allah will fail in His promise to His messengers. Surely
 Allah is Mighty, the Lord of retribution." Holy Qur'an (14:14-47)
 
-

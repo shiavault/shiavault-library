@@ -54,4 +54,3 @@ example: **سَلمیَ.**
 *kasrah* when it is the compliment of a prefixed noun or given the
 *alif-lam* prefix, for example: **مَرَرتُ** **بأفضَلِ العُلماءِ.**
 
-

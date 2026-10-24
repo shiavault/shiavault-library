@@ -648,4 +648,3 @@ in firmness, meticulous in justice, and best in intentions."
 • He said, "Controlling the self is the best politics, and leadership
 with knowledge is the best leadership."
 
-

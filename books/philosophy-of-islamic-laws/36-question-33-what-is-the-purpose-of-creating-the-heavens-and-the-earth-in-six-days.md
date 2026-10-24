@@ -70,4 +70,3 @@ material thing of this world.
 
 [^1]: Surah Aaraf 7:54
 
-

@@ -1,19 +1,11 @@
 The Second Talk
 ===============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ
-  </p>
-</blockquote>
+> وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ
 
 ***And say: O my Lord! I seek refuge in Thee from the evil suggestions
 of the Shaitans. (Sura al-Muminun, 23:97)***
@@ -53,11 +45,7 @@ been oft recorded that when a person puts his hand in his pocket then
 Satan, and his numerous retainers, cling to the person’s hand and put
 all sorts of fears in his mind. As the Holy Qur’an warns:
 
-<blockquote dir="rtl">
-  <p>
-الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاء
-  </p>
-</blockquote>
+> الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُم بِالْفَحْشَاء
 
 ***Shaitan threatens you with poverty and enjoins on you***
 ***lewdness.*** ***(Sura al-Baqara, 2:268)***
@@ -83,11 +71,7 @@ Or Satan would make him belittle the receiver of the charity by saying,
 ‘Take this money now. But please don’t come to me for help again!”
 Therefore, Allah (S.w.T.) categorically says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُبْطِلُواْ صَدَقَاتِكُم بِالْمَنِّ وَالأذَى
-  </p>
-</blockquote>
+> لاَ تُبْطِلُواْ صَدَقَاتِكُم بِالْمَنِّ وَالأذَى
 
 ***Do not make your charity worthless by reproach and injury. (Sura
 al-Baqara, 2:264)***
@@ -95,7 +79,6 @@ al-Baqara, 2:264)***
 In a nutshell, Satan is a mortal enemy of men and always schemes to make
 their good turns go in vain. Therefore, they too have to render Satan’s
 mean efforts ineffective!
-
 
 Satan sets his sight on the hearts of people
 --------------------------------------------
@@ -114,12 +97,8 @@ importance in the Holy Book. Allah (S.w.T.) takes an oath from man that
 he will not become a follower of Satan. In clear terms Allah (S.w.T.)
 has described Satan as the sworn enemy of man:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
 
 ***Did I not charge you, O children of Adam! that you should not serve
 the Shaitan? Surely he is your open enemy. (Sura Ya Sin, 36:60)***
@@ -187,12 +166,8 @@ In *Sura an-Naml* Allah (S.w.T.) has made a reference towards this fact
 while narrating the story of Hadrat Sulaiman (a.s.) the throne of
 Bilqees:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عِفْريتٌ مِّنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَن تَقُومَ مِن
-مَّقَامِكَ وَإِنِّي عَلَيْهِ لَقَوِيٌّ أَمِينٌ
-  </p>
-</blockquote>
+> قَالَ عِفْريتٌ مِّنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَن تَقُومَ مِن
+> مَّقَامِكَ وَإِنِّي عَلَيْهِ لَقَوِيٌّ أَمِينٌ
 
 ***One audacious among the jinn said: I will bring it to you before you
 rise up from your place; and most surely I am strong (and) trusty for
@@ -207,11 +182,7 @@ air that is absolutely rare? Can we see the waves of the wind, although
 we feel them blowing. The human eye is made of soil and it can only see
 the voluminous things. Therefore the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لاَ تَرَوْنَهُمْ
-  </p>
-</blockquote>
+> إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لاَ تَرَوْنَهُمْ
 
 ***he (shaitan) surely sees you, he as well as his host, from whence you
 cannot see them.*** ***(Sura al-A’raaf, 7:27)***
@@ -235,12 +206,8 @@ Allah (S.w.T.) has ordered men to do charity. Satan asked people not to
 do charity lest their horde of wealth diminishes! Those who have wisdom
 and strong faith snub Satan and tell him,’ Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَنفَقْتُم مِّن شَيْءٍ فَهُوَ يُخْلِفُهُ وَهُوَ خَيْرُ
-الرَّازِقِينَ
-  </p>
-</blockquote>
+> وَمَا أَنفَقْتُم مِّن شَيْءٍ فَهُوَ يُخْلِفُهُ وَهُوَ خَيْرُ
+> الرَّازِقِينَ
 
 ***And whatever thing you spend, He exceeds it in reward, and He is the
 best of Sustainers.*** ***(Sura Saba, 34:39)***
@@ -266,12 +233,8 @@ the existence of the Heaven, then why you don’t make a sincere effort to
 earn a place in it! Why don’t you try to avoid going to the Hell as
 Retribution for the evil deeds committed under the spell of Satan!
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لَهُ عَلَيْهِم مِّن سُلْطَانٍ إِلَّا لِنَعْلَمَ مَن
-يُؤْمِنُ بِالْآخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ
-  </p>
-</blockquote>
+> وَمَا كَانَ لَهُ عَلَيْهِم مِّن سُلْطَانٍ إِلَّا لِنَعْلَمَ مَن
+> يُؤْمِنُ بِالْآخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ
 
 ***And he has no authority over them, but that We may distinguish him
 who believes in the*** ***hereafter from him who is in doubt concerning
@@ -289,8 +252,6 @@ beings as to their determination to be steadfast on the right path.
 Those who are fickle minded and susceptible to be led astray by Satan
 are also tested by Satan! Thus Allah (S.w.T.) gets a proof of who is
 *mu’min* (believer) and who is *fajir* (immoral).
-
-
 
 ### Allah (S.w.T.)’s promise and Satan’s promise
 
@@ -327,18 +288,13 @@ going astray!
 Who knows The Day of Reckoning might be tomorrow! For that Day the right
 to get Reward and Retribution is being earned by men today!
 
-
 ### Satan never thrusts his will on people forcibly
 
 Satan can never force anyone to do misdeeds. He has no such faculties.
 He can only operate through creating doubts in the minds of persons and
 tempting them to go astray with his deceptions. Satan says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِيَ عَلَيْكُم مِّن سُلْطَانٍ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِيَ عَلَيْكُم مِّن سُلْطَانٍ
 
 ***And I had no authority over you… (Sura Ibrahim, 14:22)***
 
@@ -352,17 +308,10 @@ clear reply that he did not drag them into the Hell. They had themselves
 decided to act the way they did! Satan would then ask men to curse
 themselves rather than cursing him!
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِيَ عَلَيْكُم مِّن سُلْطَانٍ إِلاَّ أَن دَعَوْتُكُمْ
-فَاسْتَجَبْتُمْ لِي فَلاَ تَلُومُونِي وَلُومُواْ أَنفُسَكُم
-  </p>
-</blockquote>
+> وَمَا كَانَ لِيَ عَلَيْكُم مِّن سُلْطَانٍ إِلاَّ أَن دَعَوْتُكُمْ
+> فَاسْتَجَبْتُمْ لِي فَلاَ تَلُومُونِي وَلُومُواْ أَنفُسَكُم
 
 ***And I had no authority over you, except that I called you and you
 obeyed me, therefore do not blame me but blame yourselves. (Sura
 Ibrahim, 14:22)***
-
-
-
 

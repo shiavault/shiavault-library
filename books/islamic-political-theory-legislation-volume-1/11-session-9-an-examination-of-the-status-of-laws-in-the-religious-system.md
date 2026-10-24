@@ -378,24 +378,16 @@ obligatory, and in the religious law of Islam, the station of the
 Prophet (s) is recognized as a station that requires absolute obedience
 [*muftarad’ut* *-ta‘ah*]. In this regard, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ﴾
 
 ***“O you who have faith! Obey Allah and obey the Apostle and those
 vested with authority among you.”***[^4]
 
 God also says, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانتَهُوا...﴾
-  </p>
-</blockquote>
+> ﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانتَهُوا...﴾
 
 ***“Take whatever the Apostle gives you, and relinquish whatever he
 forbids you...”***[^5]
@@ -405,21 +397,13 @@ mention the essential features of Islam, or by acting upon them
 selectively. Such a superficial acceptance of Islam is the practice of
 those who are referred to by God in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ﴾
-  </p>
-</blockquote>
+> ﴿وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ﴾
 
 ***“And they say, ‘We believe in some and disbelieve in some’.”***[^6]
 
 Thereafter, regarding such people, God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا﴾
-  </p>
-</blockquote>
+> ﴿أُوْلَـئِكَ هُمُ الْكَافِرُونَ حَقًّا﴾
 
 ***“It is they who are truly faithless.”***[^7]
 
@@ -562,5 +546,4 @@ general divine laws.
 [^7]: Surah an-Nisa’ 4:150-151.
 
 [^8]: Surah Al ‘Imran 3:7.
-
 

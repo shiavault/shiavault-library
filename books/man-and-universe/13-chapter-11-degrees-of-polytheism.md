@@ -817,4 +817,3 @@ Allah and to gain His pleasure, it becomes the next worldly act. We are
 going to discuss this world and the next in detail later under the
 heading 'Eternal Life'.
 
-

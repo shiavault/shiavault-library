@@ -18,4 +18,3 @@ Yes O Parents! If you want your children to possess the morals of Islam,
 then fulfill the promises made by you to your children, for this is an
 order from the Holy Prophet (saw).
 
-

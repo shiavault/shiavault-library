@@ -274,4 +274,3 @@ Hanbal died in Baghdād in 241 A.H.
 [^3]: Asad Haydar, Al-Imām al-Sādiq wa al-Madhāhib al-Arba‛h, volume 1,
 page 175
 
-

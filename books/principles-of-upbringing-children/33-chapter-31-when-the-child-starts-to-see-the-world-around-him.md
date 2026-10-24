@@ -57,4 +57,3 @@ blesses you."[^1]
 
 [^1]: Makarim al-akhlaq, p. 255
 
-

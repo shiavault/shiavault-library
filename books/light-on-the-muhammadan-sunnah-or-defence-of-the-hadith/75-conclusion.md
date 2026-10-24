@@ -23,7 +23,7 @@ their foundations, nor comparing them to their identical ones, nor
 fathoming them with criterion of wisdom so as to be aware of the
 dispositions of mankind, nor investigating the akhbar, the fact caused
 them to wander from path of truth and go astray in the wilderness of
-illusion and error. <span id="_anchor_734"></span>734
+illusion and error. 734
 
 And since falsity naturally creeps into the khabar, with necessitating
 causes, of which being inclinations and bigotry toward opinions and
@@ -62,8 +62,7 @@ conditions in the existence, and their requirements, that will verily
 help him rectify the khabar so as to discern truthfulness from falsity,
 which being the most effective way in verification from every aspect.
 Most often it may occur to the listeners to admit and transmit some
-impossible akhbar, that would be taken from them. <span
-id="_anchor_735"></span>735
+impossible akhbar, that would be taken from them. 735
 
 ### Verification of Akhbar by Recognizing Tempers of People:
 
@@ -81,7 +80,7 @@ criterion for determining the veracity of legal reports, since most of
 them being originating impositions, which the legislator obligated to
 perform them till they were believed to be true, and the means to attain
 reality being having confidence in the narrators, in respect of
-reliability and precision. <span id="_anchor_736"></span>736
+reliability and precision. 736
 
 When talking about longevity of the world he said: During the first
 epoch of Islam it was depended in this regard upon the traditions
@@ -112,16 +111,16 @@ their likes. The books of tafsir (exegesis) became then filled with
 these traditions reported by such people, since the exegetes showed
 leniency in this regard, filling their tafsir books with these reports
 brought by people of the Torah, the fact that made them acceptable among
-people since time immemorial. <span id="_anchor_737"></span>737
+people since time immemorial. 737
 
-### Research on Sciences of Hadith <span id="_anchor_738"></span>738
+### Research on Sciences of Hadith 738
 
 In this regard he said: The mujtahid leaders (imams) differed in opinion
 regarding being prolific or unprolific in this art. About Abu Hanifah,
 it is said that he narrated 17 traditions, and Malik approved of those
 traditions he recorded in his Muwatta’ which numbered about 300 ones,
 while Ahmad ibn Hanbal reported in his Musnad 50 thousand traditions.
-<span id="_anchor_739"></span>739 Those who narrated less among them
+739 Those who narrated less among them
 have done so for evading the attacks that they faced on this way, and
 the defects they encountered, particularly the sarcasm that was launched
 by the majority of people. So this led them to abandon adopting the
@@ -130,15 +129,14 @@ which when increasing would lead to diminish their narrations due to
 weakness in ways of transmission. The narrations of al-Imam Ahmad were
 only decreased when he became strict in the provisions of (accepting)
 the riwayah, tolerance, and weakness in the narration of the positive
-hadith when it be opposed by the psychological reaction, <span
-id="_anchor_740"></span>740 as a result of which he started to diminish
+hadith when it be opposed by the psychological reaction, 740 as a result of which he started to diminish
 his narrations. That should not be seen as if he had forsaken reporting
 of hadith deliberately, but due to the reasons cited before, while
 
 others showed more leniency in the provisions, as a consequence of which
 their traditions were so numerous, since everyone had his own opinion.
 
-He further said: <span id="_anchor_741"></span>741 Not all the
+He further said: 741 Not all the
 companions were competent to issue fatawa (verdicts), nor the teachings
 of religion were taken from them all, but these characteristics were
 appertaining only to the holders of the Qur’an, who being aware of its
@@ -147,10 +145,6 @@ and muhkam (clear, decisive), and all other indications, in the way they
 learnt it from the Prophet or from those who heard it from him, who were
 called al-qurra’ (reciters), i.e. who used to recite the Book since the
 Arabs were illiterate at that time.
-
-  
-  
-  
 
 734. Muqaddimat Ibn Khaldun, p. 9.
 

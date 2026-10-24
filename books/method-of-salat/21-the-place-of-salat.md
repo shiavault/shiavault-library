@@ -1,7 +1,7 @@
 ( the Place of Salat )
 ======================
 
-### <span style="font-style: normal">The place where we want to recite our Salat, must fulfill the following conditions:</span>
+### The place where we want to recite our Salat, must fulfill the following conditions:
 
 1. The place must be Mubah, meaning that it is not stolen property.
 

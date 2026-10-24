@@ -159,4 +159,3 @@ flee their homeland to Medina.
 the twelfth month of the Hijri year and constituting one of the
 religious duties of Islam.
 
-

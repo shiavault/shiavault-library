@@ -43,9 +43,5 @@ our comprehension at present).
 Anyhow, these are the same wandering stars, whose special behavior makes
 them distinct.
 
-
-
-
 [^1]: Surah Takweer 81:15-16
-
 

@@ -337,4 +337,3 @@ further obligation to the man. It goes without saying that if the
 stipulated number of sexual acts is not performed by the end of the time
 period, the marriage still comes to an end. [^45]
 
-

@@ -171,4 +171,3 @@ al-Nasa'ih al-Kufiya, p. 156.
 
 [^14]: Al-Majlisi, Bihar al-Anwar, VOL 10, p. 115.
 
-

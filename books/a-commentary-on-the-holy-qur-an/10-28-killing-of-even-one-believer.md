@@ -283,7 +283,6 @@ have Muta" with them, give them their dowries as a fixed reward; and it
 shall not be a sin on you in whatever you mutually agree (to vary) after
 the fixed reward; Verily God is All-Knowing, All-Wise.
 
-
 **45 Polygamy and Islam**
 
 People, without knowing what Islam says about polygamy, criticise it
@@ -323,5 +322,4 @@ makes up for other sins:
 And (as for) those who believe and do good, certainly blot out from
 them their evil deeds, and certainly we will reward them the best of
 what they are doing. (29:7)
-
 

@@ -604,4 +604,3 @@ taking this path, the one called for by the Qur’an in the verse saying
 Shari\`ah in its norms of adoration, nor do they achieve perfection in
 the essence of its legislation.
 
-

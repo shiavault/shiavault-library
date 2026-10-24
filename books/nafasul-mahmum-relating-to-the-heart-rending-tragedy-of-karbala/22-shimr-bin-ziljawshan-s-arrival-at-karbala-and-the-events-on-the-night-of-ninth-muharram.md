@@ -186,4 +186,3 @@ given you respite until tomorrow. Then if you submit, we shall take you
 to the commander Ubaydullah bin Ziyad, and if you refuse, we shall not
 leave you”, saying this he returned back.
 
-

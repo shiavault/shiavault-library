@@ -133,10 +133,8 @@ Using his how chain of reporters, Ahmad bin Hanbal Shaybani also
 narrates a tradition that contains the name of 'Dajjal'. He quotes the
 Holy Prophet (s) as saying:
 
-<p dir="rtl">
 فاذا هم بعیسی بن مریم فتقام الصلاه فیقال له: تقدم یا روح الله! فیقول:
 لیتقدم امامکم فیصل بکم
-</p>
 
 Then they see Jesus Christ when it is the time of offering prayer. Jesus
 is told to lead the prayer but he refuses saying that their [Muslims']
@@ -469,5 +467,4 @@ Dawood's narration, putting its chain to question.
 Thus it is not necessary to further dwell on this issue, for it is a
 proven fact that queer traditions have to put aside and replaced by
 indisputable traditions.
-
 

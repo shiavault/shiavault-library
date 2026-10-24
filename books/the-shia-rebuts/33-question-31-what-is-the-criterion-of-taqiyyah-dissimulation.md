@@ -12,13 +12,9 @@ Taqiyyah from the Qur’anic viewpoint
 The Glorious Qur’an has referred to this obligation in many verses. Here
 are some of them:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَّ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاء مِن دُوْنِ
-الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
-إِلاَّ أَن تَتَّقُواْ مِنْهُمْ تُقَاةً ﴾
-  </p>
-</blockquote>
+> ﴿ لاَّ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاء مِن دُوْنِ
+> الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
+> إِلاَّ أَن تَتَّقُواْ مِنْهُمْ تُقَاةً ﴾
 
 ***“The faithful should not take the faithless for allies instead of the
 faithful, and whoever does that Allah will have nothing to do with him,
@@ -29,13 +25,9 @@ infidels is not permissible. But, in case of dissimulation {*taqiyyah*},
 i.e. when one intends to save his life or parry dangers, then outward
 friendship and concordance with them is permissible.
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَن كَفَرَ بِاللّهِ مِن بَعْدِ إيمَانِهِ إِلاَّ مَنْ أُكْرِهَ
-وَقَلْبُهُ مُطْمَئِنٌّ بِالإِيمَانِ وَلَـكِن مَّن شَرَحَ بِالْكُفْرِ
-صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ اللّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ مَن كَفَرَ بِاللّهِ مِن بَعْدِ إيمَانِهِ إِلاَّ مَنْ أُكْرِهَ
+> وَقَلْبُهُ مُطْمَئِنٌّ بِالإِيمَانِ وَلَـكِن مَّن شَرَحَ بِالْكُفْرِ
+> صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ اللّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ ﴾
 
 ***“Whoever renounces faith in Allah after {affirming} his faith—barring
 someone who is compelled while his heart is at rest in faith—but those
@@ -132,5 +124,4 @@ p. 131.
 perpetrated by the Umayyad and ‘Abbasid caliphs, see Abu’l-Faraj
 al-Isfahani, Maqatil at-Talibiyyin; ‘Allamah Amini, Shuhada’ al-Fadilah;
 Muhammad Jawad Mughniyyah, Ash-Shi‘ah wa’l-Hakimun.
-
 

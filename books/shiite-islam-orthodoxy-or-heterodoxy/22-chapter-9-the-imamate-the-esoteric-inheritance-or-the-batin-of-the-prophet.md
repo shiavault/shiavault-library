@@ -236,4 +236,3 @@ sharī'ah; it is only a spiritual way [tarīqah] attached to a particular
 Sharī'ite rite such as the Mālikī or Shāfi'ī. Shī'ism possesses both a
 sharī'ah and a tarīqah” (Sūfī Essays 107).
 
-

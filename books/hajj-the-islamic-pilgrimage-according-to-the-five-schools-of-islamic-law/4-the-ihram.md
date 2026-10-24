@@ -86,11 +86,7 @@ months of the Hajj is invalid if assumed with the purpose of Hajj,
 though it is valid when assumed for the purpose of the \`Umrah. They
 cite in this regard the Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
-الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ
-  </p>
-</blockquote>
+> الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ
 
 ***The pilgrimage is (performed in) the well-known months…(2:197):***
 
@@ -150,12 +146,8 @@ Al‑Muhaqqiq al‑Hilli, the Imamiyyah scholar, in his work *Tadhkirat
 al‑fuqaha',* says that for one intending *ihram* it is *mustahabb* to
 make a condition with God at the time of assuming *ihram,* by saying:
 
-<blockquote dir="rtl">
-  <p>
-اللهم اني أريد ماأمرتني به، فإن منعتني مانعٌ عن تمامه وحبسني عنه حابسٌ
-فجعلني في حل.
-  </p>
-</blockquote>
+> اللهم اني أريد ماأمرتني به، فإن منعتني مانعٌ عن تمامه وحبسني عنه حابسٌ
+> فجعلني في حل.
 
 O God, indeed I wish to fulfill Thy command, but if any impediment keeps
 me from completing it or a barrier obstructs me from it, exonerate me.
@@ -242,12 +234,8 @@ forms of *hady*.
 
 ### The Formula of Talbiyah
 
-<blockquote dir="rtl">
-  <p>
-لبيك اللهم لبيك، لا شريك لك لبيك، إن الحمد والنعمة لك والملك لا شريك
-لك
-  </p>
-</blockquote>
+> لبيك اللهم لبيك، لا شريك لك لبيك، إن الحمد والنعمة لك والملك لا شريك
+> لك
 
 All the legal schools agree that *taharah* is not a proviso for
 pronouncing *talbiyah*. (al‑Tadhkirah).
@@ -502,11 +490,7 @@ for woman to wear jewellery for the sake of adornment.
 
 God, the most Exalted, says in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-…فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ۗ…
-  </p>
-</blockquote>
+> …فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ۗ…
 
 ***....There should be no obscenity, neither impiety, nor disputing in
 Hajj ....' (2:197).***
@@ -544,13 +528,9 @@ guiding the hunter or pointing opt the game to him in the state of
 ones. However, hunting of the animals of water is permitted and requires
 no *fidyah*. This, in accordance with the Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
-أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَكُمْ
-وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ
-حُرُمًا وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ 
-  </p>
-</blockquote>
+> أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَكُمْ
+> وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ
+> حُرُمًا وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ
 
 *Permitted to you* is *the game* of *the sea* and *the food* of *it, as
 a provision for you* and *for the journeyers; but forbidden to you* is
@@ -598,17 +578,13 @@ charity;
 (*al‑Tadhkirah; Fiqh al‑Sunnah*)In this connection all the legal schools
 base their position on this Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ
-حُرُمٌ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا
-قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا
-بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ
-ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ عَفَا اللَّهُ عَمَّا
-سَلَفَ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ وَاللَّهُ عَزِيزٌ ذُو
-انْتِقَامٍ 
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ
+> حُرُمٌ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا
+> قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا
+> بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ
+> ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ عَفَا اللَّهُ عَمَّا
+> سَلَفَ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ وَاللَّهُ عَزِيزٌ ذُو
+> انْتِقَامٍ
 
 *O believers, slay not the game while you are in the state* of *ihram.
 Whosoever* of *you slays it* *wilfully, there shall be reparation‑‑the
@@ -715,5 +691,4 @@ ascribes to him permissibility.
 [^13]: Al‑Mughni states, "Those knowledgeable about al‑Madinah do not
 know of any Thawr or \`Ir," but it is possible that names have changed
 with time.
-
 

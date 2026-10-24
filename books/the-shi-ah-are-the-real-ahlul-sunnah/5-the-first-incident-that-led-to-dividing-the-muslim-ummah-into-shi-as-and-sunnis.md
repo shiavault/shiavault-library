@@ -102,4 +102,3 @@ and Muslim's Sahih books.
 
 [^3]: Ibn Abul-Hadid, Sharh Nahjul Balagha, Vol. 2, p. 20.
 
-

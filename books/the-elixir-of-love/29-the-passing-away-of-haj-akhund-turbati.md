@@ -81,4 +81,3 @@ really happened.[^1]
 
 [^1]: "The Forgotten Virtues", p. 149.
 
-

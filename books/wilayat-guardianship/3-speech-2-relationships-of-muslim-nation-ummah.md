@@ -31,30 +31,18 @@ until it throws in the towel.
 
 In the 9th verse of Surah Hujarat[^1] Lord of the universe says:
 
-<blockquote dir="rtl">
-  <p>
-وَ اِنْ طَآئِفَتٰنِ مِنَ الْمُومِنِيْنَ اقْتَتَلُوْا فَاَصْلِحُوْا
-بَيْنَہُمَا
-  </p>
-</blockquote>
+> وَ اِنْ طَآئِفَتٰنِ مِنَ الْمُومِنِيْنَ اقْتَتَلُوْا فَاَصْلِحُوْا
+> بَيْنَہُمَا
 
 ***If two groups of Muslims fight, you make peace between them.***
 
-<blockquote dir="rtl">
-  <p>
-فاِنْ بَغَتْ اِحْداٰہُمَا عَلَي الْاُخْرٰي فَقَاتِلُوا الَّتِيْ
-تَبْغِيْ
-  </p>
-</blockquote>
+> فاِنْ بَغَتْ اِحْداٰہُمَا عَلَي الْاُخْرٰي فَقَاتِلُوا الَّتِيْ
+> تَبْغِيْ
 
 ***If one of the two groups has oppressed the other, fight against
 it.***
 
-<blockquote dir="rtl">
-  <p>
-حَتّٰي تَفِيْئَ اِلٰي اَمْرِ الله
-  </p>
-</blockquote>
+> حَتّٰي تَفِيْئَ اِلٰي اَمْرِ الله
 
 ***Until it is forced to accept the writ of God.***
 
@@ -171,11 +159,7 @@ Imam, a ruler and a guardian, who has been appointed by the Lord of the
 World for this society. It is just like the Sublime Master says about
 Abraham:
 
-<blockquote dir="rtl">
-  <p>
-اِنِّيْ جَاعِلُکَ لِلنَّاسِ اِمَامًا
-  </p>
-</blockquote>
+> اِنِّيْ جَاعِلُکَ لِلنَّاسِ اِمَامًا
 
 ***I have appointed you Imam for people**.* [^2]
 
@@ -185,13 +169,9 @@ way the Prophet of Islam appointed the Commander of the faithful -
 Ali -, Hasan, Husayn and others as Imams; or the Sublime Master does not
 appoint by name but only by qualities. As Imam says:
 
-<blockquote dir="rtl">
-  <p>
-فَاَمّا مَنْ کٰانَ مِنَ الْفُقَھٰائِ صٰائِناً لِنَفْسِہِ حٰافِظاً
-لِدِيِنِہِ مُخٰالِفاً عَليٰ ھُوٰاہُ مُطِيعاً لاَ مْرِمَوْلاٰہُ
-فَلِلْعَوامِ اَنْ يُقَلِّدُوہُ
-  </p>
-</blockquote>
+> فَاَمّا مَنْ کٰانَ مِنَ الْفُقَھٰائِ صٰائِناً لِنَفْسِہِ حٰافِظاً
+> لِدِيِنِہِ مُخٰالِفاً عَليٰ ھُوٰاہُ مُطِيعاً لاَ مْرِمَوْلاٰہُ
+> فَلِلْعَوامِ اَنْ يُقَلِّدُوہُ
 
 *Among the scholars of religion one who controls his inner self, defends
 his religion, has crushed his carnal desires and obeys God's commands,
@@ -225,12 +205,8 @@ bond between you and Ali; you are not detached from Ali; these are the
 meanings of Wilayat. At this point we can understand the following
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-وِلاٰيَۃُ عَليِّ ابْنِ اَبيطالبٍ حِصْني فَمَنْ دَخَلَ حِصْنِي اَمِنَ
-مِنْ عَذابي
-  </p>
-</blockquote>
+> وِلاٰيَۃُ عَليِّ ابْنِ اَبيطالبٍ حِصْني فَمَنْ دَخَلَ حِصْنِي اَمِنَ
+> مِنْ عَذابي
 
 *The Wilayat of Ali is a fort; whoever gets in will be safe from the
 wrath of God.*
@@ -243,14 +219,10 @@ How can someone who thinks that Qur'an is incomprehensible claim that he
 has Wilayat of Ali Ibn Abi Talib and is affiliated with Ali's ideology?
 Imam Ali says in one of his sermons in Nahjul Balagha:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا اَنَّ ھٰذَا الْقُرْنَ ھُوَالنّٰا صفحُ الَّذِي لاٰ يَغُشُّ‘
-وَالْھادِي الَّذِي لاٰ يُضِلُّ ‘وَالْمُحَدِّثُ الَّذِي لاٰ يَکْذِبُ‘
-وَمٰاجَالَسَ ھٰذَا الْقُرنَ اَحَد اِلّا قٰامَ عَنْہُ بِزِيٰادَۃٍ
-اَوْنُقْصٰانٍ‘ زِيٰادَۃٍ في ھُديً وَنُقْصٰانٍ مِنْ عَميً
-  </p>
-</blockquote>
+> وَاعْلَمُوا اَنَّ ھٰذَا الْقُرْنَ ھُوَالنّٰا صفحُ الَّذِي لاٰ يَغُشُّ‘
+> وَالْھادِي الَّذِي لاٰ يُضِلُّ ‘وَالْمُحَدِّثُ الَّذِي لاٰ يَکْذِبُ‘
+> وَمٰاجَالَسَ ھٰذَا الْقُرنَ اَحَد اِلّا قٰامَ عَنْہُ بِزِيٰادَۃٍ
+> اَوْنُقْصٰانٍ‘ زِيٰادَۃٍ في ھُديً وَنُقْصٰانٍ مِنْ عَميً
 
 *You should know that Qur'an is such a counselor that does not deceive;
 is such a guardian who does not make you go astray; is such a speaker
@@ -280,12 +252,8 @@ by Wilayat.
 Furthermore, these verses describe the bond and connection with the
 Wali - the hub, the heart, the ruler and the Imam.
 
-<blockquote dir="rtl">
-  <p>
-يٰاَيُّھَا الَّذِيْنَ ٰامَنُوْا لا تَتَّخِذُوا الْيَہُودَ وَ
-النَّصٰرٰي اَوْلِيَآئَ
-  </p>
-</blockquote>
+> يٰاَيُّھَا الَّذِيْنَ ٰامَنُوْا لا تَتَّخِذُوا الْيَہُودَ وَ
+> النَّصٰرٰي اَوْلِيَآئَ
 
 ***O' believers! Don't make the Jews and Christians your guardians
 (aulia).***
@@ -295,44 +263,28 @@ Wilayat. As explained before Wilayat means a bond. Don't develop a bond
 with Jews and Christians. Don't connect with them. Don't adopt their
 ways for yourselves.
 
-<blockquote dir="rtl">
-  <p>
-بَعْضُہُمْ اَوْلِيَآئُ بَعْض
-  </p>
-</blockquote>
+> بَعْضُہُمْ اَوْلِيَآئُ بَعْض
 
 ***They are connected to each other.***
 
 Don't think that they belong to separate groups. In the language of
 Qur'an they are one in opposing your religion.
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَّتَوَلَّہُمْ مِّنْکُمْ فَاِنَّہ مِنْہُمْ
-  </p>
-</blockquote>
+> وَ مَنْ يَّتَوَلَّہُمْ مِّنْکُمْ فَاِنَّہ مِنْہُمْ
 
 *Whoever affiliates with them, indeed will become part of them.*
 
 **Tawalla - accepting Wilayat.** Whoever will enter the circle of their
 Wilayat and will connect with them, will become part of them.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله لايَہْدِي الْقَوْمَ الظّٰلِمِيْن
-  </p>
-</blockquote>
+> اِنَّ الله لايَہْدِي الْقَوْمَ الظّٰلِمِيْن
 
 ***Indeed God will not guide the oppressors***
 
 External Relationships
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَرَي الَّذِيْنَ فِيْ قُلُوْبِہِمْ مَّرَض يُّسَارِعُوْنَ فِيْہِمْ
-  </p>
-</blockquote>
+> فَتَرَي الَّذِيْنَ فِيْ قُلُوْبِہِمْ مَّرَض يُّسَارِعُوْنَ فِيْہِمْ
 
 ***You see these people whose hearts are diseased; they run to join the
 camp of your religion's enemy.***
@@ -343,11 +295,7 @@ them, "why are you mingling so closely with the enemies of the religion
 and why are you displaying such affection with them instead of
 animosity?" They respond with an excuse:
 
-<blockquote dir="rtl">
-  <p>
-نَخْشٰي اَنْ تُصِيْبَنَا دَآئِرَۃ
-  </p>
-</blockquote>
+> نَخْشٰي اَنْ تُصِيْبَنَا دَآئِرَۃ
 
 ***We are afraid that there may be hardships for us.***
 
@@ -355,22 +303,14 @@ Have we not heard such words before?
 
 God responds:
 
-<blockquote dir="rtl">
-  <p>
-فَعَسَي الله اَنْ يَّاْتِيَ بِالْفَتْحِ اَوْ اَمْرٍ مِّنْ عِنْدِہ
-  </p>
-</blockquote>
+> فَعَسَي الله اَنْ يَّاْتِيَ بِالْفَتْحِ اَوْ اَمْرٍ مِّنْ عِنْدِہ
 
 ***There is hope that God will bring victory to the believers or will
 make some incident happen in their favor.***
 
 And when that happens:
 
-<blockquote dir="rtl">
-  <p>
-فَيُصْبِحُوْا عَلٰي مَآ اَسَرُّوْا فِيْ اَنْفُسِہِمْ نٰدِمِيْنَ
-  </p>
-</blockquote>
+> فَيُصْبِحُوْا عَلٰي مَآ اَسَرُّوْا فِيْ اَنْفُسِہِمْ نٰدِمِيْنَ
 
 ***At that time these cursed people who joined the enemy will regret.***
 
@@ -381,12 +321,8 @@ have disgraced ourselves."
 
 When they had debased themselves by conspiring with the enemies of God:
 
-<blockquote dir="rtl">
-  <p>
-وَ يَقُوْلُ الَّذِيْنَ ٰامَنُوْاَھٰوُلائِ الَّذِيْنَ اَقْسَمُوْا بِاِ
-الله جَہْدَ اَيْمَانِہِمْ اِنَّہُمْ لَمَعَکُمْ
-  </p>
-</blockquote>
+> وَ يَقُوْلُ الَّذِيْنَ ٰامَنُوْاَھٰوُلائِ الَّذِيْنَ اَقْسَمُوْا بِاِ
+> الله جَہْدَ اَيْمَانِہِمْ اِنَّہُمْ لَمَعَکُمْ
 
 The faithful will say, "Were they those believers - the good appearing
 and good looking people - who had sworn big time that they were with
@@ -398,29 +334,17 @@ hearts are polluted, black and tainted with hypocrisy. That day the
 faithful say, "How bizarre? How these people used to vow? Are they the
 same people?"
 
-<blockquote dir="rtl">
-  <p>
-اَھٰوُلائِ الَّذِيْنَ اَقْسَمُوْا بِاِ الله جَہْدَ اَيْمَانِہِمْ
-  </p>
-</blockquote>
+> اَھٰوُلائِ الَّذِيْنَ اَقْسَمُوْا بِاِ الله جَہْدَ اَيْمَانِہِمْ
 
 ***Are they the same people who swore so strongly in the name of God?***
 
-<blockquote dir="rtl">
-  <p>
-اِنَّہُمْ لَمَعَکُمْ
-  </p>
-</blockquote>
+> اِنَّہُمْ لَمَعَکُمْ
 
 ***Verily we are with you.***
 
 They used to swear that they were with you - in thought and ideology.
 
-<blockquote dir="rtl">
-  <p>
-حَبِطَتْ اَعْمَالُہُمْ فَاَصْبَحُوْ خٰسِرِيْنَ
-  </p>
-</blockquote>
+> حَبِطَتْ اَعْمَالُہُمْ فَاَصْبَحُوْ خٰسِرِيْنَ
 
 ***Their deeds are destroyed and they are among the big losers.***
 
@@ -432,11 +356,7 @@ Internal Relationships
 In continuation of the same verses ponder over the internal
 relationships:
 
-<blockquote dir="rtl">
-  <p>
-يٰاَيُّھَا الَّذِيْنَ ٰامَنُوْا مَنْ يَّرْتَدَّ مِنْکُمْ عَنْ دِيْنِہ
-  </p>
-</blockquote>
+> يٰاَيُّھَا الَّذِيْنَ ٰامَنُوْا مَنْ يَّرْتَدَّ مِنْکُمْ عَنْ دِيْنِہ
 
 ***O' believers! If some of you revert from your religion***
 
@@ -446,12 +366,8 @@ responsibility to its destination, don't think that this consignment
 will not reach its destination. This is a misconception you have; this
 honor will go to some other nation.
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يَّرْتَدَّ مِنْکُمْ عَنْ دِيْنِہ فَسَوْف يَاْتِي الله بِقَوْمٍ
-يُّحِبُّہُمْ وَ يُحِبُّوْنَہ
-  </p>
-</blockquote>
+> مَنْ يَّرْتَدَّ مِنْکُمْ عَنْ دِيْنِہ فَسَوْف يَاْتِي الله بِقَوْمٍ
+> يُّحِبُّہُمْ وَ يُحِبُّوْنَہ
 
 ***If someone among you regresses from the religion and becomes an
 unbeliever, God will create such people who will be loved by God and
@@ -464,32 +380,20 @@ words prove that we love God?
 
 In this context the Glorious Qur'an makes a point. Exalted Allah says,
 
-<blockquote dir="rtl">
-  <p>
-قُلْ اِنْ کُنْتُمْ تُحِبُّوْنَ الله فَاتَّبِعُوْنِيْ يُحْبِبْکُمُ
-اللّٰہُ
-  </p>
-</blockquote>
+> قُلْ اِنْ کُنْتُمْ تُحِبُّوْنَ الله فَاتَّبِعُوْنِيْ يُحْبِبْکُمُ
+> اللّٰہُ
 
 ***"O' Prophet! Say, "if you love God, obey me so that God will also
 love you."*** [^7]
 
-<blockquote dir="rtl">
-  <p>
-يُّحِبُّہُمْ وَ يُحِبُّوْنَہ
-  </p>
-</blockquote>
+> يُّحِبُّہُمْ وَ يُحِبُّوْنَہ
 
 ***He loves them and they love Him.***
 
 They will show their love to God by being completely subservient to the
 commands of Allah and Allah will also love them; it will go both ways.
 
-<blockquote dir="rtl">
-  <p>
-اَذِلَّۃٍ عَلَي الْمُومِنِيْن
-  </p>
-</blockquote>
+> اَذِلَّۃٍ عَلَي الْمُومِنِيْن
 
 ***They are humble towards the believers.***
 
@@ -501,19 +405,11 @@ people, they become a part of them; they stand shoulder to shoulder with
 them; they become their companions and do not isolate from them. It is
 not like they keep a distance and show occasional sympathy.
 
-<blockquote dir="rtl">
-  <p>
-اَذِلَّۃٍ عَلَي الْمُومِنِيْن
-  </p>
-</blockquote>
+> اَذِلَّۃٍ عَلَي الْمُومِنِيْن
 
 ***They are humble towards the believers.***
 
-<blockquote dir="rtl">
-  <p>
-اَعِزَّۃٍ عَلَي الْکٰفِرِيْنَ
-  </p>
-</blockquote>
+> اَعِزَّۃٍ عَلَي الْکٰفِرِيْنَ
 
 ***They stand up to the enemies of Islam and Qur'an.***
 
@@ -521,30 +417,18 @@ In other words they are not impressed by them. They keep their heads
 high in front of them and they have drawn such a circle of Islamic
 ideology around them that they are never awed by the non-believers.
 
-<blockquote dir="rtl">
-  <p>
-يُجَاہِدُوْنَ فِيْ سَبِيْلِ الله
-  </p>
-</blockquote>
+> يُجَاہِدُوْنَ فِيْ سَبِيْلِ الله
 
 ***They fight in the path of Allah.***
 
 One of their qualities is that they fight in the path of Allah with
 extreme valor and bravado. As the verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَ لا يَخَافُوْنَ لَوْمَۃَ لاَئِمٍ
-  </p>
-</blockquote>
+> وَ لا يَخَافُوْنَ لَوْمَۃَ لاَئِمٍ
 
 ***They are not afraid of someone censuring them.***
 
-<blockquote dir="rtl">
-  <p>
-ذٰلِکَ فَضْلُ الله يوْتِيْہِ مَنْ يَّشَآئُ وَ الله وَاسِع عَلِيْم
-  </p>
-</blockquote>
+> ذٰلِکَ فَضْلُ الله يوْتِيْہِ مَنْ يَّشَآئُ وَ الله وَاسِع عَلِيْم
 
 ***This is a blessing from Allah that He bestows upon whoever He
 pleases; He encompasses*** ***all and He knows everything**.* [^8]
@@ -559,11 +443,7 @@ The Glorious Qur'an discussed the external and internal relationships.
 Now it talks about the core of the internal relationships - the Imam,
 the Leader and the Guide.
 
-<blockquote dir="rtl">
-  <p>
-اِنَّمَا وَلِيُّکُمُ الله
-  </p>
-</blockquote>
+> اِنَّمَا وَلِيُّکُمُ الله
 
 ***Most certainly Allah is the Guardian and Owner of commandments.***
 
@@ -573,11 +453,7 @@ nation should be sought from Him. There is God but God cannot acquire a
 body and come in the middle of people to stop them from doing evil and
 exhort them to do good. Then who is this nucleus?
 
-<blockquote dir="rtl">
-  <p>
-وَ رَسُوْلُہ
-  </p>
-</blockquote>
+> وَ رَسُوْلُہ
 
 *And the Prophet*
 
@@ -586,11 +462,7 @@ Prophet is the representative of Allah.
 
 But as Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّکَ مَيِّت وَّ اِنَّہُمْ مَّيِّتُوْنَ
-  </p>
-</blockquote>
+> اِنَّکَ مَيِّت وَّ اِنَّہُمْ مَّيِّتُوْنَ
 
 ***O' Prophet! You are going to die and verily they are all going to
 die**.* [^9]
@@ -599,30 +471,18 @@ Prophet will not be there forever. So it should be made clear who will
 be responsible after the Prophet. The Lord of the World introduces those
 personalities:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِيْن امَنُوا
-  </p>
-</blockquote>
+> وَالَّذِيْن امَنُوا
 
 ***And those who believe.***
 
 Is it enough to declare faith? The answer is in the negative. He must
 have other qualities.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِيْنَ يُقِيْمُوْنَ الصَّلٰوۃَ
-  </p>
-</blockquote>
+> الَّذِيْنَ يُقِيْمُوْنَ الصَّلٰوۃَ
 
 ***Those who establish prayer.***
 
-<blockquote dir="rtl">
-  <p>
-وَ يُوتُوْنَ الزَّکٰوۃَ وَ ہُمْ رَاکِعُوْنَ
-  </p>
-</blockquote>
+> وَ يُوتُوْنَ الزَّکٰوۃَ وَ ہُمْ رَاکِعُوْنَ
 
 ***Those who pay alms while kneeling (during prayer).***
 
@@ -672,13 +532,9 @@ lens of Shi’ah. It is not to invent differences between Shi'ahs and
 Sunnis; absolutely it is not our purpose; we consider promoting
 differences unlawful (haram).
 
-<blockquote dir="rtl">
-  <p>
-اِنَّمَا وَلِيُّکُمُ الله وَ رَسُوْلُہ وَ الَّذِيْنَ ٰامَنُوا
-الَّذِيْنَ يُقِيْمُوْنَ الصَّلٰوۃَ وَ يُوْتُوْنَ الزَّکٰوۃَ وَ ہُمْ
-رَاکِعُوْنَ
-  </p>
-</blockquote>
+> اِنَّمَا وَلِيُّکُمُ الله وَ رَسُوْلُہ وَ الَّذِيْنَ ٰامَنُوا
+> الَّذِيْنَ يُقِيْمُوْنَ الصَّلٰوۃَ وَ يُوْتُوْنَ الزَّکٰوۃَ وَ ہُمْ
+> رَاکِعُوْنَ
 
 ***Your Guardian and Owner of commandments is God, His Prophet and the
 believers who establish prayers and give alms while kneeling in
@@ -698,12 +554,8 @@ the Islamic body and nation - the Imam and the Guide.
 If we stick to these characteristics, what may happen? The Glorious
 Qur'an in the next verse responds:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ يَّتَوَلَّ الله وَ رَسُوْلَہ وَ الَّذِيْنَ ٰامَنُوْا فَاِنَّ
-حِزْبَ الله ہُمُ الْغٰلِبُوْنَ
-  </p>
-</blockquote>
+> وَ مَنْ يَّتَوَلَّ الله وَ رَسُوْلَہ وَ الَّذِيْنَ ٰامَنُوْا فَاِنَّ
+> حِزْبَ الله ہُمُ الْغٰلِبُوْنَ
 
 ***Those who will accept the Wilayat of God, His Prophet and the
 believers; take care of this relationship and defend it; they will
@@ -731,5 +583,4 @@ they will subdue other groups**.* [^11]
 [^10]: Ch. 5 Ma’idah. verse 55.
 
 [^11]: Ch. 5 Ma’idah. verse 56.
-
 

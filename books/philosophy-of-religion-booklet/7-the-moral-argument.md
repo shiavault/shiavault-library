@@ -48,4 +48,3 @@ Therefore:
 
 (9) God exists.
 
-

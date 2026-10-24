@@ -56,4 +56,3 @@ al-Bait (peace be upon them) and their being the sole referral authority
 and Divine authority for mankind has been discussed explicitly and in
 depth.
 
-

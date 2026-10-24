@@ -102,4 +102,3 @@ be free from need of everything else.
 
 [^2]: Irshad al-fuhul, pg. 214
 
-

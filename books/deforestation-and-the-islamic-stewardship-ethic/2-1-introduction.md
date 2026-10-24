@@ -75,4 +75,3 @@ Before exploring the Muslim ethics that are possibly related to the
 problem of forest loss, it is essential to first identify the main
 causes that bring people to cut down trees.15
 
-

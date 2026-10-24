@@ -113,4 +113,3 @@ could judge them better.
 
 14. Popularly known as Jamaluddin Afghani.
 
-

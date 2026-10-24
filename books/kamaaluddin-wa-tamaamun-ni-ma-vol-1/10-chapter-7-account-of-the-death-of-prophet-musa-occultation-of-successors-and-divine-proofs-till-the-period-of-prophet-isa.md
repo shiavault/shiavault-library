@@ -329,4 +329,3 @@ the Island. The bees made honeycombs on the trees of the island and soon
 there was plenty of honey there. Nothing about Isa (a.s.) was concealed
 from the people of that island.”
 
-

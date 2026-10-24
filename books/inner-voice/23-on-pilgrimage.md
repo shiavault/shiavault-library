@@ -45,4 +45,3 @@ journey to Mecca. They are more exposed to the killing germs of “pride”
 and “ego”; they have been asked to go to pilgrimage, so that they may be
 cured of these maladies.
 
-

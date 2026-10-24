@@ -1,24 +1,16 @@
 Right n. 8: The Right of the Stomach
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-حق البطن
-  </p>
-</blockquote>
+> حق البطن
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ بَطْنِكَ فَأَنْ لا تَجْعَلَهُ وِعَاءً لِقَلِيلٍ مِنَ
-الْحَرَامِ وَلا لِكَثِيرٍ، وَأَنْ تَقْتَصِدَ لَهُ فِي الْحَلالِ وَلا
-تُخرِجَهُ مِنْ حَدِّ التَّقْوِيَةِ إلَى حَدِّ التَّهْوِينِ وَذَهَاب
-الْمُرُوَّةِ، وَضَبْطُهُ إذَا هَمَّ بالْجُوعِ والظمأ فَإنَّ الشَّبْعَ
-الْمُنْتَهِي بصَاحِبهِ إلَى التُّخمِ مَكْسَلَةٌ وَمَثْبَطَةٌ
-وَمَقْطَعَةٌ عَنْ كُلِّ برِّ وَكَرَمٍ. وَإنَّ الري الْمُنْتَهِي
-بصَاحِبهِ إلَى السُّكْرِ مَسْخَفَةٌ وَمَجْهَلَةٌ وَمَذْهَبَةٌ
-لِلْمُرُوَّةِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ بَطْنِكَ فَأَنْ لا تَجْعَلَهُ وِعَاءً لِقَلِيلٍ مِنَ
+> الْحَرَامِ وَلا لِكَثِيرٍ، وَأَنْ تَقْتَصِدَ لَهُ فِي الْحَلالِ وَلا
+> تُخرِجَهُ مِنْ حَدِّ التَّقْوِيَةِ إلَى حَدِّ التَّهْوِينِ وَذَهَاب
+> الْمُرُوَّةِ، وَضَبْطُهُ إذَا هَمَّ بالْجُوعِ والظمأ فَإنَّ الشَّبْعَ
+> الْمُنْتَهِي بصَاحِبهِ إلَى التُّخمِ مَكْسَلَةٌ وَمَثْبَطَةٌ
+> وَمَقْطَعَةٌ عَنْ كُلِّ برِّ وَكَرَمٍ. وَإنَّ الري الْمُنْتَهِي
+> بصَاحِبهِ إلَى السُّكْرِ مَسْخَفَةٌ وَمَجْهَلَةٌ وَمَذْهَبَةٌ
+> لِلْمُرُوَّةِ.
 
 **And the right of your stomach is that you make it not into a container
 for a little of that which is unlawful to you or a lot of it. You should
@@ -42,24 +34,16 @@ All men need food. We cannot survive if our food supplies are cut off.
 Some people thought that the Prophet did not need to eat food. The Holy
 Qur’an rejects this idea and says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلْنَاهُمْ جَسَدًا لَّا يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا
-خَالِدِينَ
-  </p>
-</blockquote>
+> وَمَا جَعَلْنَاهُمْ جَسَدًا لَّا يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا
+> خَالِدِينَ
 
 ***“Nor did We give them bodies that ate no food, nor were they exempt
 from death.” [The Holy Qur’an, al-Anbiyaa 21:8]***
 
 In another verse of the Holy Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ وَيَمْشِي فِي
-الْأَسْوَاقِ لَوْلَا أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُ نَذِيرًا
-  </p>
-</blockquote>
+> وَقَالُوا مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ وَيَمْشِي فِي
+> الْأَسْوَاقِ لَوْلَا أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُ نَذِيرًا
 
 ***“And they say: "What sort of an apostle is this, who eats food, and
 walks through the streets? Why has not an angel been sent down to him to
@@ -67,12 +51,8 @@ give admonition with him?” [The Holy Qur’an, al-Furqan 25:7]***
 
 The Qur’an instructs us to think about our need to eat:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
-فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
-  </p>
-</blockquote>
+> ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
+> فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
 
 ***“Then let man look at his food, (and how We provide it): For that We
 pour forth water in abundance, and We split the earth in fragments…”
@@ -115,13 +95,9 @@ Who Creates Food
 There are several verses in the Holy Qur’an regarding the creation of
 foods and drinks.
 
-<blockquote dir="rtl">
-  <p>
-أَفَرَأَيْتُم مَّا تَحْرُثُونَ أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ
-الزَّارِعُونَ لَوْ نَشَاء لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ
-تَفَكَّهُونَ
-  </p>
-</blockquote>
+> أَفَرَأَيْتُم مَّا تَحْرُثُونَ أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ
+> الزَّارِعُونَ لَوْ نَشَاء لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ
+> تَفَكَّهُونَ
 
 ***“See ye the seed that ye sow in the ground? Is it ye that cause it to
 grow, or are We the Cause? Were it Our Will, We could crumble it to dry
@@ -131,12 +107,8 @@ al-Waqi\`ah 56:63-65]***
 Notice how it is stressed that the people plant the seeds in the ground,
 but it is God who makes them grow. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَقُولَنَّ أحَدُكُم "زَرَعْتُ" وَلْيَقُلْ "حَرَثْتُ،" فإنَّ
-الزَّارِعَ هُوَ اللهُ.
-  </p>
-</blockquote>
+> لا يَقُولَنَّ أحَدُكُم "زَرَعْتُ" وَلْيَقُلْ "حَرَثْتُ،" فإنَّ
+> الزَّارِعَ هُوَ اللهُ.
 
 *“Do not say: I grew the plants. Say: I planted the seeds. This is
 because it is God who makes them grow.”*[^4]
@@ -146,13 +118,9 @@ wills, He can destroy whatever we plant.
  In the next verse, we can see the stress on the creation and source of
 the water that we drink:
 
-<blockquote dir="rtl">
-  <p>
-أفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ أَأَنْتُمْ أَنْزَلْتُمُوهُ
-مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ لَوْ نَشَاءُ جَعَلْنَاهُ
-أُجَاجًا فَلَوْلَا تَشْكُرُونَ
-  </p>
-</blockquote>
+> أفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ أَأَنْتُمْ أَنْزَلْتُمُوهُ
+> مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ لَوْ نَشَاءُ جَعَلْنَاهُ
+> أُجَاجًا فَلَوْلَا تَشْكُرُونَ
 
 ***“See ye the water which ye drink? Do ye bring it down (in rain) from
 the cloud or do We? Were it Our Will, We could make it salt (and
@@ -172,13 +140,9 @@ measure the chemical composition of foodstuff and how they affect our
 body. However, the psychological effects of what we eat have not yet
 been totally measured. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ تَبارَكَ وَتَعالى لمَ يُبِحْ أكْلاً وَلا شُرْباً إلاّ لِمَا
-فِيهِ المَنْفَعَةُ وَالصَّلاحُ، وَلمَ يُحَرِّمْ إلاّ ما فِيهِ
-الضَّرَرُ وَالتَّلَفُ وَالفَسادُ.
-  </p>
-</blockquote>
+> إنَّ اللهَ تَبارَكَ وَتَعالى لمَ يُبِحْ أكْلاً وَلا شُرْباً إلاّ لِمَا
+> فِيهِ المَنْفَعَةُ وَالصَّلاحُ، وَلمَ يُحَرِّمْ إلاّ ما فِيهِ
+> الضَّرَرُ وَالتَّلَفُ وَالفَسادُ.
 
 *“The Almighty God only allowed some things for us to eat and drink due
 to their benefit and good effects on us, and only forbade us some things
@@ -192,13 +156,9 @@ Drinking Blood Makes One Ruthless
 
 Imam Sadiq expressed the reason why it is forbidden to drink blood:
 
-<blockquote dir="rtl">
-  <p>
-)شِربُ الدَّم) يُسِيءُ الخُلُقَ وُيُورِثُ القَسْوَةَ لِلقَلْبِ
-وَقِلَّةَ الرّأفَةِ وَالرَّحمَةِ وَلا يُؤمَنُ أنْ يُقْتَلَ وَلَدُهُ
-وَوالِدُهُ.
-  </p>
-</blockquote>
+> )شِربُ الدَّم) يُسِيءُ الخُلُقَ وُيُورِثُ القَسْوَةَ لِلقَلْبِ
+> وَقِلَّةَ الرّأفَةِ وَالرَّحمَةِ وَلا يُؤمَنُ أنْ يُقْتَلَ وَلَدُهُ
+> وَوالِدُهُ.
 
 *“Drinking blood will make you bad-tempered and ruthless. It will reduce
 your kindness and mercy so much that you might even kill your own son or
@@ -210,14 +170,10 @@ The Effects of Drinking Wine
 Imam Sadiq expressed the reason why we are forbidden to drink wine or
 alcoholic drinks:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مُدْمِنَ الخَمْرِ كَعابِدِ وَثَنٍ، ويُورِثُهُ الارْتِعاشَ
-وَيَهْدِمُ مُرُوَّتَهُ وَتَحْمِلُهُ عَلى أنْ يَجْسُرَ عَلى المَحَارِمِ
-مِنْ سَفْكِ الدِّماءِ وَرُكوبِ الزِّنا، وَلا يُؤْمَنُ إذا سَكِرَ إنْ
-يَثِبَ عَلى مَحارِمِهِ.
-  </p>
-</blockquote>
+> إنَّ مُدْمِنَ الخَمْرِ كَعابِدِ وَثَنٍ، ويُورِثُهُ الارْتِعاشَ
+> وَيَهْدِمُ مُرُوَّتَهُ وَتَحْمِلُهُ عَلى أنْ يَجْسُرَ عَلى المَحَارِمِ
+> مِنْ سَفْكِ الدِّماءِ وَرُكوبِ الزِّنا، وَلا يُؤْمَنُ إذا سَكِرَ إنْ
+> يَثِبَ عَلى مَحارِمِهِ.
 
 *“An alcoholic is like an idol-worshipper. It (alcohol) causes him to
 tremble and his manliness is destroyed. It induces him to venture into
@@ -283,11 +239,7 @@ even if they do not drink.[^19] That is why Islam has forbidden drinking
 alcohol. Imam Sajjad stressed that we should keep our stomachs void of
 forbidden things. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَلْعونٌ مَنْ جَلَسَ عَلى مَائِدَةٍ يُشْرَبُ عَلَيها الخَمْرُ.
-  </p>
-</blockquote>
+> مَلْعونٌ مَنْ جَلَسَ عَلى مَائِدَةٍ يُشْرَبُ عَلَيها الخَمْرُ.
 
 *“Whoever sits with those who are drinking is deprived of God’s
 Mercy.”*[^20]
@@ -319,15 +271,11 @@ poisoning in their food, they will refuse to eat it. However, they do
 not care at all about their spiritual well-being, and listen to
 anything. Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَالي أرَى النّاسَ إذا قُرِّبَ إلَيهِمُ الطّعامُ تَكَلَّفوا إنَارَةَ
-المَصابِيحِ لِيُبصِروا ما يُدْخِلونَ بُطونَهُم ولا يَهْتَمّونَ
-بِغِذاءِ النَّفْسِ بأنْ يُنِيروا مصَابِيحَ ألْبابِهِم بِالعِلْمِ
-لِيَسْلَمُوا مِن لَواحِقِ الجَهَالَةِ وَالذُّنوبِ في اعْتِقادَاتِهِم
-وَأعْمالِهِم؟
-  </p>
-</blockquote>
+> مَالي أرَى النّاسَ إذا قُرِّبَ إلَيهِمُ الطّعامُ تَكَلَّفوا إنَارَةَ
+> المَصابِيحِ لِيُبصِروا ما يُدْخِلونَ بُطونَهُم ولا يَهْتَمّونَ
+> بِغِذاءِ النَّفْسِ بأنْ يُنِيروا مصَابِيحَ ألْبابِهِم بِالعِلْمِ
+> لِيَسْلَمُوا مِن لَواحِقِ الجَهَالَةِ وَالذُّنوبِ في اعْتِقادَاتِهِم
+> وَأعْمالِهِم؟
 
 *“I am amazed at the people who turn on the light to see what they eat
 when they want to dine in the dark, but do not care about food for their
@@ -337,13 +285,9 @@ beliefs.”*[^22]
 
 Imam Hasan said:
 
-<blockquote dir="rtl">
-  <p>
-عَجِبتُ لمَنْ يَتَفَكَّرُ في مأكولِهِ كَيفَ لا يَتَفَكَّرُ في
-مَعْقولِهِ فَيُجَنِّبَ بَطْنَهُ ما يُؤذِيه وَيُودِعَ صَدْرَهُ ما
-يُرْدِيهِ!
-  </p>
-</blockquote>
+> عَجِبتُ لمَنْ يَتَفَكَّرُ في مأكولِهِ كَيفَ لا يَتَفَكَّرُ في
+> مَعْقولِهِ فَيُجَنِّبَ بَطْنَهُ ما يُؤذِيه وَيُودِعَ صَدْرَهُ ما
+> يُرْدِيهِ!
 
 *“I am amazed at the people who consider what they eat but do not think
 about the food for their mind. They guard their stomachs from harmful
@@ -375,12 +319,8 @@ The Most Important Advice
 
 The Almighty God said in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي آدَمَ خُذُواْ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وكُلُواْ
-وَاشْرَبُواْ وَلاَ تُسْرِفُواْ إِنَّهُ لاَ يُحِبُّ الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> يَا بَنِي آدَمَ خُذُواْ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وكُلُواْ
+> وَاشْرَبُواْ وَلاَ تُسْرِفُواْ إِنَّهُ لاَ يُحِبُّ الْمُسْرِفِينَ
 
 ***“O Children of Adam! Wear your beautiful apparel at every time and
 place of prayer: eat and drink: but waste not by excess, for God loveth
@@ -406,24 +346,16 @@ your heavenly Book while the most useful knowledge is that of religion
 and the body.” The Muslim scholar replied: “God the Almighty has
 summarized all of medicine into one-half of a verse and has said:
 
-<blockquote dir="rtl">
-  <p>
-ٍ وكُلُواْ وَاشْرَبُواْ وَلاَ تُسْرِفُواْ إِنَّهُ لاَ يُحِبُّ
-الْمُسْرِفِينَ
-  </p>
-</blockquote>
+> ٍ وكُلُواْ وَاشْرَبُواْ وَلاَ تُسْرِفُواْ إِنَّهُ لاَ يُحِبُّ
+> الْمُسْرِفِينَ
 
 ***“Eat and drink: But waste not by excess, for God loveth not the
 wasters.” [The Holy Qur’an, al-A’raf 7:31]***
 
 The Prophet has also given the following medical advice:
 
-<blockquote dir="rtl">
-  <p>
-المَعِدَةُ بَيتُ الأدْواءِ وَالحِمْيَةُ رَأسُ كُلِّ دَواءٍ وَأعْطِ
-كُلَّ بَدَنٍ مَا عَوَّدْتَهُ.
-  </p>
-</blockquote>
+> المَعِدَةُ بَيتُ الأدْواءِ وَالحِمْيَةُ رَأسُ كُلِّ دَواءٍ وَأعْطِ
+> كُلَّ بَدَنٍ مَا عَوَّدْتَهُ.
 
 *“The stomach is the home for all illnesses. Abstinence is the best
 drug, and give your body what you have made it accustomed to.”*
@@ -436,21 +368,13 @@ Avoid Getting Full
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-الأَكْلُ عَلى الشَّبْعِ يُورِثُ البَرَصَ.
-  </p>
-</blockquote>
+> الأَكْلُ عَلى الشَّبْعِ يُورِثُ البَرَصَ.
 
 *“Eating beyond satiation will cause leprosy.”*[^28]  
  He also said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُمِيتوا القُلُوبَ بِكَثْرَةِ الطَّعَامِ وَالشَّرَابِ، فَإنّ
-القُلوبَ تَمُوتُ كَالزُّروعِ إذا كَثُرَ عَلَيها المَاءُ.
-  </p>
-</blockquote>
+> لا تُمِيتوا القُلُوبَ بِكَثْرَةِ الطَّعَامِ وَالشَّرَابِ، فَإنّ
+> القُلوبَ تَمُوتُ كَالزُّروعِ إذا كَثُرَ عَلَيها المَاءُ.
 
 *“Do not cause your hearts to die by overeating or over-drinking. Hearts
 die just as crops do when they are over-watered.”*[^29]
@@ -460,13 +384,9 @@ Avoid Forbidden Meals
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أَكَلَ لُقْمَةَ حَرامٍ لمَ تُقْبَلْ لهُ صَلاةٌ أرْبَعِينَ ليَلةً
-وَلمَ تُسْتَجَبْ لَهُ دَعْوَةٌ أرْبَعِينَ صَباحاً، فَكُلُّ لحْمٍ
-يُنْبِتُهُ الحَرامُ فَالنَّارُ أوْلى بهِ
-  </p>
-</blockquote>
+> مَن أَكَلَ لُقْمَةَ حَرامٍ لمَ تُقْبَلْ لهُ صَلاةٌ أرْبَعِينَ ليَلةً
+> وَلمَ تُسْتَجَبْ لَهُ دَعْوَةٌ أرْبَعِينَ صَباحاً، فَكُلُّ لحْمٍ
+> يُنْبِتُهُ الحَرامُ فَالنَّارُ أوْلى بهِ
 
 *“The prayers of one who eats a morsel of what is forbidden will not be
 accepted for forty nights and his calls and supplications will not be
@@ -475,15 +395,11 @@ burnt in the Fire.”*[^30]
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا وَقَعَتِ اللُقْمَةُ مِن حَرامٍ في جَوفِ العَبْدِ لَعَنَهُ كُلُّ
-مَلَكٍ في السَّماوَاتِ وَالأرْضِ، وَما دَامَتِ اللُّقْمَةُ في جَوفِهِ
-لا يَنْظُرُ اللهُ إليَهِ، وَمَنْ أَكَلَ لقْمَةً مِن الحَرامِ فقَدْ
-باءَ بِغَضَبٍ منَ اللهِ فإنْ تابَ تابَ اللهُ عَلَيهِ وإنْ ماتَ فالنّار
-أوْلى بهِ..
-  </p>
-</blockquote>
+> إذَا وَقَعَتِ اللُقْمَةُ مِن حَرامٍ في جَوفِ العَبْدِ لَعَنَهُ كُلُّ
+> مَلَكٍ في السَّماوَاتِ وَالأرْضِ، وَما دَامَتِ اللُّقْمَةُ في جَوفِهِ
+> لا يَنْظُرُ اللهُ إليَهِ، وَمَنْ أَكَلَ لقْمَةً مِن الحَرامِ فقَدْ
+> باءَ بِغَضَبٍ منَ اللهِ فإنْ تابَ تابَ اللهُ عَلَيهِ وإنْ ماتَ فالنّار
+> أوْلى بهِ..
 
 *“When a morsel of what is forbidden enters the stomach of a person,
 every angel in the heavens and on the earth curses him. As long as the
@@ -494,12 +410,8 @@ is more deserving of the Fire.”*[^31]
 
 Regarding the legitimate meals, the Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أَكَلَ الحَلالَ أرْبَعِينَ يَوماً نَوَّرَ اللهُ قَلبَهُ وَأجْرى
-الحِكْمَةَ مِن قَلْبِه عَلى لِسَانِهِ.
-  </p>
-</blockquote>
+> مَن أَكَلَ الحَلالَ أرْبَعِينَ يَوماً نَوَّرَ اللهُ قَلبَهُ وَأجْرى
+> الحِكْمَةَ مِن قَلْبِه عَلى لِسَانِهِ.
 
 *“God will illuminate the heart of one who eats what is lawful for forty
 days, and will make wisdom flow from his heart to his tongue.”*[^32]
@@ -509,13 +421,9 @@ The Secret to Good Health
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أكَلَ الطَّعامَ على النَّقاءِ وأَجَادَ الطَّعامَ تَمَضُّغاً
-وَتَركَ الطَّعامَ وَهُو يَشْتَهِيهِ وَلمَ يَحبِسِ الغائِطَ إذا أتَى
-لمَ يَمْرُضْ إلاّ مَرَضَ المَوْتِ.
-  </p>
-</blockquote>
+> مَنْ أكَلَ الطَّعامَ على النَّقاءِ وأَجَادَ الطَّعامَ تَمَضُّغاً
+> وَتَركَ الطَّعامَ وَهُو يَشْتَهِيهِ وَلمَ يَحبِسِ الغائِطَ إذا أتَى
+> لمَ يَمْرُضْ إلاّ مَرَضَ المَوْتِ.
 
 *“Whoever adheres to hygienic principles regarding eating, and chews his
 food well, stops eating while he is still not full and does not put off
@@ -748,5 +656,4 @@ state; while Galen nurtured it to quite a degree.
 [^34]: Tatamat al-Muntaha, p.380.
 
 [^35]: Mabani’ Taklimat al-Minhaj, v.2, p.371.
-
 

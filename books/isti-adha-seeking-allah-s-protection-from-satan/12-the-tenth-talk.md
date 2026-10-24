@@ -1,20 +1,12 @@
 The Tenth Talk
 ==============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -25,7 +17,6 @@ It is proved from the previous talk that the most important aspect of
 *Isti’adha* is *Taqwa* or piety. If a person is devoid of antagonism of
 Satan and doesn’t submit himself to Rahman, then he is in the trap of
 Satan and his *Isti’adha* is of no use.
-
 
 Why Isti’adha
 -------------
@@ -49,7 +40,6 @@ Satan, and his ilk, because they are always on the lookout for the
 slightest opportunity to subdue him. A *mu’min* has to exercise utmost
 care in this matter.
 
-
 Good Deeds or Guidance For Evil
 -------------------------------
 
@@ -67,7 +57,6 @@ Therefore the Imams (a.s.) supplicate to Allah (S.w.T.) thus, *“O
 sustainer, give me vision in the matter of Faith! That during
 performance of good deeds Satan doesn’t involve me in fears and
 misapprehensions and thus push me into the morass of evil.”*
-
 
 Evil Through Good
 -----------------
@@ -98,7 +87,6 @@ on the pilgrimage.
 Satan thus makes people overlook mandatory duties in the performance of
 the optional.
 
-
 Losing Interest in Prayers
 --------------------------
 
@@ -115,7 +103,6 @@ there. Imagine, how Satan tempted the person to go in a hurry for
 performance of an optional act and as a result made him lose interest in
 the pilgrimage of great felicity!
 
-
 O Allah! Give Us Vision in the Matters of Faith
 -----------------------------------------------
 
@@ -127,7 +114,6 @@ doing are really good or are evil acts that Satan has tempted them to
 perform. It is the common observation that an act appears good and
 harmless but in reality it turns out to be otherwise.
 To illustrate the point a tradition is mentioned here.
-
 
 Satan Praying Suspended in the Sky
 ----------------------------------
@@ -252,5 +238,4 @@ In a supplication we say:
 
 *When I think of my sins O my Master, I am terrified! But when I think
 of Your Kindness,* *I become hopeful!*
-
 

@@ -1058,4 +1058,3 @@ Kashshaf al-Qina‘, 3/174; Muntaha al-Matlab, 2/1017; Tahrir al-Ahkam,
 
 [^114]: Al-Kafi, 6/225, No. 1.
 
-

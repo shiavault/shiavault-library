@@ -55,12 +55,8 @@ creation that can be the manifestation and absolute mirror of the
 Supreme Truth. Thus, similar to the exterior world, our inner being is
 also a focus of divine signs:
 
-<blockquote dir="rtl">
-  <p>
-﴿سَنُريهم آياتِنا في الآفاقِ و في أَنفسِهم حتّی يَتبيّن لهم أَنَّه
-الحقّ﴾
-  </p>
-</blockquote>
+> ﴿سَنُريهم آياتِنا في الآفاقِ و في أَنفسِهم حتّی يَتبيّن لهم أَنَّه
+> الحقّ﴾
 
 ***“We shall soon reveal unto them Our signs in the horizons and in
 themselves, till it is clear to them that He is the Supreme Truth (that
@@ -69,11 +65,7 @@ it is the truth).”***[^2]
 Moreover, the Qur’an considers neglecting oneself concomitant with
 neglecting God:
 
-<blockquote dir="rtl">
-  <p>
-﴿نَسُوا اللهَ فَأَنساهُم أَنفسَهم﴾
-  </p>
-</blockquote>
+> ﴿نَسُوا اللهَ فَأَنساهُم أَنفسَهم﴾
 
 ***“They forgot Allah so He caused them to forget themselves.”***[^3]
 
@@ -108,11 +100,7 @@ genesis of the first human is hidden from us. We know nothing more than
 the fact that the original substance from which the human race was
 created is what the Qur’an terms dust (turāb) or clay (ṭīn):
 
-<blockquote dir="rtl">
-  <p>
-﴿إِذ قالَ ربّك للملائكةِ إِني خالقٌ بشراً من طينٍ﴾
-  </p>
-</blockquote>
+> ﴿إِذ قالَ ربّك للملائكةِ إِني خالقٌ بشراً من طينٍ﴾
 
 ***“When thy Lord said unto the angels: Verily, I shall create a human
 from clay.”***[^7]
@@ -150,11 +138,7 @@ creation of the human spiritual gem.
 Also in several Qur’anic verses, the creation of the spiritual and
 immaterial aspect of humanity is termed breath of spirit:
 
-<blockquote dir="rtl">
-  <p>
-﴿ثمّ سوّاه و نَفَخَ فيه من روحِهِ﴾
-  </p>
-</blockquote>
+> ﴿ثمّ سوّاه و نَفَخَ فيه من روحِهِ﴾
 
 ***“Then He shaped it and breathed in it of His spirit.”***[^10]
 
@@ -245,11 +229,7 @@ According to Islamic belief, understanding good and evil, and
 understanding the system of morals is amalgamated in humanity’s
 being:[^16]
 
-<blockquote dir="rtl">
-  <p>
-﴿و نَفسٍ و ما سَوّاها. فَألْهَمَها فجورها و تقواها﴾
-  </p>
-</blockquote>
+> ﴿و نَفسٍ و ما سَوّاها. فَألْهَمَها فجورها و تقواها﴾
 
 ***“By the soul and He who shaped it and then inspired it [with the
 understanding of] its lewdnesses and pieties.”***[^17]
@@ -257,12 +237,8 @@ understanding of] its lewdnesses and pieties.”***[^17]
 Also due to their nature, humans tend toward engaging in good and are
 inclined against committing evils:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ لـٰكِنَّ اللهَ حَبَّبَ إِليكم الايمانَ و زيَّنَه في قلوبكم و
-كَرَّه إِليكم الكفرَ و الفسوقَ و العصيان﴾
-  </p>
-</blockquote>
+> ﴿وَ لـٰكِنَّ اللهَ حَبَّبَ إِليكم الايمانَ و زيَّنَه في قلوبكم و
+> كَرَّه إِليكم الكفرَ و الفسوقَ و العصيان﴾
 
 ***“But Allah has endeared to you faith and has beautified it within
 your hearts, and He has made repulsive to you unbelief and transgression
@@ -299,11 +275,7 @@ discussion between God and the angels, the Holy Qur’an reminisces of the
 creation of humans, which was carried out in order for them to be His
 representative upon the earth:
 
-<blockquote dir="rtl">
-  <p>
-﴿و إِذ قال ربّك للملائكةِ إِنّي جاعلٌ في الأَرض خليفةً﴾
-  </p>
-</blockquote>
+> ﴿و إِذ قال ربّك للملائكةِ إِنّي جاعلٌ في الأَرض خليفةً﴾
 
 ***“And when thy Lord said unto the angels: Verily, I shall set a
 viceroy upon the earth.”***[^19]
@@ -369,12 +341,8 @@ Another point that reveals the lofty status of humans in the world is
 that God has made the universe their instrument and has given control of
 other things in nature to them:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلم تروا أَنّ اللهَ سَخّر لكم ما في السّماوات و ما في الأَرض و
-أَسبَغَ عليكم نِعَمَهُ ظاهرةً و باطنةً﴾
-  </p>
-</blockquote>
+> ﴿أَلم تروا أَنّ اللهَ سَخّر لكم ما في السّماوات و ما في الأَرض و
+> أَسبَغَ عليكم نِعَمَهُ ظاهرةً و باطنةً﴾
 
 ***“Have you not seen that Allah has subjected to you all that is in the
 heavens and earth, and has lavished upon you His blessings, both
@@ -397,11 +365,7 @@ it would not be fair that you be not dutiful.[^24]
 
 After creating Adam (‘a), God ordered the angels to bow before him:
 
-<blockquote dir="rtl">
-  <p>
-﴿و إِذ قلنا للملائكةِ اسجُدوا لآدم فسجدوا﴾
-  </p>
-</blockquote>
+> ﴿و إِذ قلنا للملائكةِ اسجُدوا لآدم فسجدوا﴾
 
 ***“And when We said unto the angels: ‘Bow to Adam’, so they
 bowed.”***[^25]
@@ -415,11 +379,7 @@ its unlimited capacities, humankind is superior even to the angels.
 The intrinsic abilities of humankind, some of which we indicated
 earlier, have caused them to be honored by God:
 
-<blockquote dir="rtl">
-  <p>
-﴿و لقد كرّمنا بني آدم﴾
-  </p>
-</blockquote>
+> ﴿و لقد كرّمنا بني آدم﴾
 
 ***“And truly We honored the children of Adam.”***[^26]
 
@@ -462,23 +422,15 @@ ungrateful, rebellious, evildoers, etc. Sometimes, such humans advance
 so far on the path of animality that, according to the Qur’an, they
 become viler than beasts:
 
-<blockquote dir="rtl">
-  <p>
-﴿اولئك كالأَنعام بل هم أَضلّ﴾
-  </p>
-</blockquote>
+> ﴿اولئك كالأَنعام بل هم أَضلّ﴾
 
 ***“They are like beasts; nay, rather, they are further astray.”***[^34]
 
 Additionally, in various narrations [riwāyāt] after comparing humans
 with angels and animals, it is declared:
 
-<blockquote dir="rtl">
-  <p>
-فمن غلب عقلهُ علی شهوتهِ فهو أَعلىٰ مِن الملائكةِ و مَن غلبَت شهوتُه
-على عقلِه فهو أَدنی مِن البَهائمِ.
-  </p>
-</blockquote>
+> فمن غلب عقلهُ علی شهوتهِ فهو أَعلىٰ مِن الملائكةِ و مَن غلبَت شهوتُه
+> على عقلِه فهو أَدنی مِن البَهائمِ.
 
 ***“So whoever’s intellect prevails over their carnality is better than
 angels, and whoever’s carnality prevails over their intellect is lower
@@ -700,11 +652,7 @@ speak of humanity’s free will and its role in one’s deeds. For instance,
 the Qur’an has stressed the voluntariness of faith and disbelief—both of
 which are innate acts:
 
-<blockquote dir="rtl">
-  <p>
-﴿و قل الحقُّ من ربّكم فَمن شاءَ فَليؤمن و مَن شاءَ فَليَكفر﴾
-  </p>
-</blockquote>
+> ﴿و قل الحقُّ من ربّكم فَمن شاءَ فَليؤمن و مَن شاءَ فَليَكفر﴾
 
 ***“And say: ‘The truth is from your Lord, so let whoever wills believe
 and whoever wills disbelieve.’”***[^41]
@@ -713,11 +661,7 @@ Additionally, verses that speak of testing and trialing humanity in
 their worldly life indicate their free will, since testing an agent
 without volition is futile.
 
-<blockquote dir="rtl">
-  <p>
-﴿و نَبلوكم بالشَّر و الخَير فتنةً و إِلينا تُرجَعون﴾
-  </p>
-</blockquote>
+> ﴿و نَبلوكم بالشَّر و الخَير فتنةً و إِلينا تُرجَعون﴾
 
 ***“And We shall try you with evil and goodness and surely, you shall
 return to Us.”***[^42]
@@ -726,11 +670,7 @@ Moreover, various Qur’anic verses inform of our responsibility towards
 our actions. Needless to say, only volitive agents may be held
 answerable.
 
-<blockquote dir="rtl">
-  <p>
-﴿وقِفُوهم إِنّهم مَسئُولون﴾
-  </p>
-</blockquote>
+> ﴿وقِفُوهم إِنّهم مَسئُولون﴾
 
 ***“And stop them for surely they are responsible.”*** [^43]
 
@@ -782,11 +722,7 @@ affair to the human essence, such as fame, riches, and titles cannot
 bring about humanity’s true perfection. The Qur’an indicates this truth
 in a very subtle manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿هم درجات عند الله﴾
-  </p>
-</blockquote>
+> ﴿هم درجات عند الله﴾
 
 ***“They [have] ranks before Allah.”***[^44]
 
@@ -801,11 +737,7 @@ The Qur’an regards the ultimate purpose or telos of humanity’s creation
 and the terminus of their perfection the attaining of the rank of God’s
 servant:
 
-<blockquote dir="rtl">
-  <p>
-﴿و ما خلقتُ الجنَ و الإِنسَ إِلّا ليعبدون﴾
-  </p>
-</blockquote>
+> ﴿و ما خلقتُ الجنَ و الإِنسَ إِلّا ليعبدون﴾
 
 ***“And I have not created the jinn and humans except that they serve
 Me.”***[^45]
@@ -822,11 +754,7 @@ of divine Unity through our hearts and discover the entire world as a
 manifestation of the names and attributes of the Supreme Truth. It has
 been narrated from Amir al-Mu’minīn, ‘Alī (‘a) that:
 
-<blockquote dir="rtl">
-  <p>
-ما رأيتُ شيئاً إِلّا و رأيتُ الله قبلَه و معَه و بعدَه.
-  </p>
-</blockquote>
+> ما رأيتُ شيئاً إِلّا و رأيتُ الله قبلَه و معَه و بعدَه.
 
 *“I have never seen anything but that I saw God before it, with it, and
 after it.”*[^46]
@@ -862,12 +790,8 @@ heartsick at the transgressions that caused their peoples to go astray
 and the persecution and privation that troubled them. The Qur’an
 declares of our holy prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-﴿لقد جاءكم رسولٌ من أَنفسكم عزيزٌ عليه ما عَنِتّم حريصٌ عليكم و
-بالمؤمنينَ رءوفٌ رحيمٌ﴾
-  </p>
-</blockquote>
+> ﴿لقد جاءكم رسولٌ من أَنفسكم عزيزٌ عليه ما عَنِتّم حريصٌ عليكم و
+> بالمؤمنينَ رءوفٌ رحيمٌ﴾
 
 ***“Surely, there has come to you a messenger from among yourselves;
 grievous to him is your suffering, anxious he is over your [guidance],
@@ -892,19 +816,11 @@ ignorance and negligence from humanity’s heart and soul. According to
 various Hadith, such contemplation is greater than [heedless] worship,
 and is in fact the essence of meritorious worship:
 
-<blockquote dir="rtl">
-  <p>
-تفكّر ساعة أَفضلُ من عبادة سبعين سنة.
-  </p>
-</blockquote>
+> تفكّر ساعة أَفضلُ من عبادة سبعين سنة.
 
 “A moment’s thought is superior to seventy years of worship.”
 
-<blockquote dir="rtl">
-  <p>
-و العقل ما عُبِد به الرحمن.
-  </p>
-</blockquote>
+> و العقل ما عُبِد به الرحمن.
 
 “And the intellect is that which is used to worship the
 Beneficent.”[^48]
@@ -965,11 +881,7 @@ The Qur’an enjoins humans to call upon God at all times. Also, it
 regards the true enlightened [Ulul-Albāb] to be those who do not forget
 God no matter what circumstances they have in their lives:
 
-<blockquote dir="rtl">
-  <p>
-﴿الّذين يذكرونَ الله قياماً و قُعوداً و على جنوبهم﴾
-  </p>
-</blockquote>
+> ﴿الّذين يذكرونَ الله قياماً و قُعوداً و على جنوبهم﴾
 
 ***“Those who remember Allah while standing and sitting and lying on
 their sides.”***[^50]
@@ -977,11 +889,7 @@ their sides.”***[^50]
 Additionally, many Qur’anic verses enjoin people to ask for succor
 sincerely:
 
-<blockquote dir="rtl">
-  <p>
-﴿هو الحيُّ لا إِله إِلّا هو فادعوه مخلصينَ له الدّين﴾
-  </p>
-</blockquote>
+> ﴿هو الحيُّ لا إِله إِلّا هو فادعوه مخلصينَ له الدّين﴾
 
 ***“He is the Living; there is no Allah but Him. So call upon Him,
 making your religion His sincerely.”***[^51]
@@ -990,11 +898,7 @@ Various Qur’anic verses advise worshiping God in private. It seems that
 in private, our soul is better prepared for spiritual connection with
 God and soaring towards the Heavens:
 
-<blockquote dir="rtl">
-  <p>
-﴿ادعوا ربّكم تضرُّعاً و خفيةً، إِنّه لا يُحبُّ المُعتدين﴾
-  </p>
-</blockquote>
+> ﴿ادعوا ربّكم تضرُّعاً و خفيةً، إِنّه لا يُحبُّ المُعتدين﴾
 
 ***“Call upon your Lord, humbly and secretly; Surely, He loves not
 transgressors.”***[^52]
@@ -1024,11 +928,7 @@ secrets and truths. These inner secrets have caused Ṣalāt to be one of
 the pillars of the Islamic religion[^54] and have made it the ‘ascension
 [mi‘rāj] of the faithful [mu’min]’:
 
-<blockquote dir="rtl">
-  <p>
-الصلاة معراج المؤمن.
-  </p>
-</blockquote>
+> الصلاة معراج المؤمن.
 
 ***“Ṣalāt is the ascension of the faithful.”***
 
@@ -1171,11 +1071,7 @@ Ordinary people regard nīyyat as the intention to obey God in performing
 Ṣalāt in covetousness for rewards or fear of divine retribution.
 According to the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿يدعون ربهم خوفاً و طمعاً﴾
-  </p>
-</blockquote>
+> ﴿يدعون ربهم خوفاً و طمعاً﴾
 
 ***“They call upon their Lord in fear and hope.”***[^70]
 
@@ -1234,11 +1130,7 @@ wretchedness before their Lord and observe His glory. Rukū‘ includes
 glorification [tasbīh], magnification [ta‘ẓīm], and praise [tahmīd] of
 God:
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَ رَبّيَ العَظيمِ و بِحَمدهِ.
-  </p>
-</blockquote>
+> سُبحانَ رَبّيَ العَظيمِ و بِحَمدهِ.
 
 ***“Glory be to my Lord, the Magnificent, and praise be to Him.”***
 
@@ -1248,29 +1140,13 @@ worshiper from the confines of comparison [tashbīh] and agnosticism
 [ta‘ṭīl].[^74] In rukū‘ the worshiper sees through his heart all objects
 as a manifestation of the names and attributes of the Divine Truth.
 
-<blockquote dir="rtl">
-  <p>
-اين همه عكس مي و رنگ مخالف كه نمود
-  </p>
-</blockquote>
+> اين همه عكس مي و رنگ مخالف كه نمود
 
-<blockquote dir="rtl">
-  <p>
-يك فروغ رخ ساقي است كه در جام افتاد
-  </p>
-</blockquote>
+> يك فروغ رخ ساقي است كه در جام افتاد
 
-<blockquote dir="rtl">
-  <p>
-حسن روي تو به يك جلوه كه در آينه كرد
-  </p>
-</blockquote>
+> حسن روي تو به يك جلوه كه در آينه كرد
 
-<blockquote dir="rtl">
-  <p>
-اين همه نقش در آينة اوهام افتاد
-  </p>
-</blockquote>
+> اين همه نقش در آينة اوهام افتاد
 
 *All these contrasting colors and images of wine that appear;*
 
@@ -1291,17 +1167,9 @@ state of annihilation in God, the worshiper observes that all objects
 are transitory and perishable and the truth of their essence is nothing
 but destitution and neediness towards the Divine Oneness.
 
-<blockquote dir="rtl">
-  <p>
-عرضه كردم دو جهان بر دل كار افتاده
-  </p>
-</blockquote>
+> عرضه كردم دو جهان بر دل كار افتاده
 
-<blockquote dir="rtl">
-  <p>
-به جز از عشق تو باقي همه فاني دانست
-  </p>
-</blockquote>
+> به جز از عشق تو باقي همه فاني دانست
 
 *I presented both worlds unto my weary heart;*
 
@@ -1325,11 +1193,7 @@ say Salaam[^76] to the holder of the rank of Seal of the Prophets and
 due to his divine holiness, they specifically address the Prophet (S) by
 saying:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْكَ اَيُّهَا النَّبيُّ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه.
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْكَ اَيُّهَا النَّبيُّ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه.
 
 ***“Salaam to you, O Prophet and Allah’s mercy and blessings upon
 you.”***
@@ -1339,11 +1203,7 @@ the prophets—who were their companions in this spiritual journey—and
 because the worshipers too were their companions in this spiritual
 journey, they include themselves in their Salaam by saying:
 
-<blockquote dir="rtl">
-  <p>
-السَّلامُ عَلَيْنا و عَلىٰ عِبادِ اللهِ الصّالِحينَ.
-  </p>
-</blockquote>
+> السَّلامُ عَلَيْنا و عَلىٰ عِبادِ اللهِ الصّالِحينَ.
 
 ***“Salaam upon us and upon the righteous servants of Allah.”***
 
@@ -1650,5 +1510,4 @@ humanity. [trans.]
 
 [^76]: - This is the Islamic salutation wishing health and peace.
 [trans.]
-
 

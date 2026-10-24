@@ -469,4 +469,3 @@ wa-l-Nihal (London, 1864),128.
 
 [^22]: al-Najashi, 197.
 
-

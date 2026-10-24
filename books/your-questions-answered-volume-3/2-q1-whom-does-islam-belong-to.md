@@ -32,7 +32,6 @@ A. There are very few Shias in South Africa. In Mozambique there are
 about 10 families. The number of the Shias in central and west Africa is
 as follows:-
 
-
 of Khoja Origin Arabs from Lebanon etc.
 
 Note: Since these figures were written, most of the Ithna-asheri have
@@ -119,5 +118,4 @@ included in the order of doing "Sajdah" towards Adam (as.).
 "Ifreet":
 
 "A huge, powerful Jinn".
-
 

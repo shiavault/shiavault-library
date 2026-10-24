@@ -351,4 +351,3 @@ Sociologi­cal Thought, vol. I, p. 91.
 
 [^6]. Al-Mizan, vol. IV, 112.
 
-

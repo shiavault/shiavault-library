@@ -183,4 +183,3 @@ realized the meaning of "freedom". They free themselves not only from
 the Pharaoh, but their Ismail too and not only their enemies, but their
 relatives too!
 
-

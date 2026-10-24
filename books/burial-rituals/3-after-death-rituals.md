@@ -224,18 +224,10 @@ which is prayed as follows: 
     
 *First Takbir one should say:*
 
-<blockquote dir="rtl">
-  <p>
-  "أشهد أن لا إله إلا الله وأشهد أن محمد رسوله. أشه
-  </p>
-</blockquote>
+>   "أشهد أن لا إله إلا الله وأشهد أن محمد رسوله. أشه
 
-<blockquote dir="rtl">
-  <p>
-د أن لا إله إلا الله وحده لا شريك له وأشهد أن محمد عبده ورسوله أرسله
-بالحق بشيراً ونذيراً بين يدىَّ الساعة."
-  </p>
-</blockquote>
+> د أن لا إله إلا الله وحده لا شريك له وأشهد أن محمد عبده ورسوله أرسله
+> بالحق بشيراً ونذيراً بين يدىَّ الساعة."
 
 Ash hadu an la ilaha illal lah wa ashhadu anna Muhammadan Rasulullah.
 Ash haduan la ilaha illallahu wahdahu la sharika lah. Wa Ashhadu anna
@@ -245,14 +237,10 @@ bayna yada yis sa'ah.
 *After the 2nd Takbir one should say:*  
   
 
-<blockquote dir="rtl">
-  <p>
-"اللهم صلي على محمد وأل محمد ، اللهم صلي على محمد وأل محمد وبارك على
-محمد وأل محمد ورحم محمد وأل محمد كأفضل ما صليت وباركت وترحمت على
-إبراهيم وأل إبراهيم إنك حميد مجيد وصلي على جميع الأنبياء والمرسلين
-والشهداء والصديقين وجميع عباد الله الصالحين."
-  </p>
-</blockquote>
+> "اللهم صلي على محمد وأل محمد ، اللهم صلي على محمد وأل محمد وبارك على
+> محمد وأل محمد ورحم محمد وأل محمد كأفضل ما صليت وباركت وترحمت على
+> إبراهيم وأل إبراهيم إنك حميد مجيد وصلي على جميع الأنبياء والمرسلين
+> والشهداء والصديقين وجميع عباد الله الصالحين."
 
 *Alla humma salli 'ala Muhammadin wa 'ali Muhammad. Alla humma salli
 'ala Muhammadin wa Ali Muhammad wa barik 'ala Muhammadin wa Ali*  
@@ -263,13 +251,9 @@ was-siddiqina wa jami'i 'ibadilla his-salihin.     *
 * *  
 *After the 3rd Takbir one should say:*
 
-<blockquote dir="rtl">
-  <p>
-"اللهم إغفر للمؤمنين والمؤمنات ، اللهم إغفر للمؤمنين والمؤمنات
-والمسلمين والمسلمات الأحياء منهم والأموات تابع بيننا وبيهم بالخيرات
-إنك مجيب الدعوات إنك على كل شيء قدير." 
-  </p>
-</blockquote>
+> "اللهم إغفر للمؤمنين والمؤمنات ، اللهم إغفر للمؤمنين والمؤمنات
+> والمسلمين والمسلمات الأحياء منهم والأموات تابع بيننا وبيهم بالخيرات
+> إنك مجيب الدعوات إنك على كل شيء قدير."
 
 *Alla hummaghfir lil mu'minina wal mu'minat. Alla hum maghfir lil
 mu'minina wal mu'minati wal muslimina wal muslimat, al ahya'i minhum wal
@@ -279,15 +263,11 @@ amwat tabi'baynana wa baynahum bil khayrati innaka mujibud-da'wat innak
 *After the 4th Takbir he should* *say:*  
 ** **
 
-<blockquote dir="rtl">
-  <p>
-"اللهم إن هذا عبدك وابن عبدك وابن أمتك نزل بك وأنت خير المنزلين به ،
-اللهم إنا لا نعلم منه إلا خير ما أنت أعلم به منّا. اللهم إن كان محسناً
-فزد في إحسانه وإن كان مسيئاً فتجواز عنه واغفر له. اللهم إجعله عندك في
-أعلى عليّين واخلف على أهله في الغابرين وارحمه برحمتك يا أرحم
-الراحمين."
-  </p>
-</blockquote>
+> "اللهم إن هذا عبدك وابن عبدك وابن أمتك نزل بك وأنت خير المنزلين به ،
+> اللهم إنا لا نعلم منه إلا خير ما أنت أعلم به منّا. اللهم إن كان محسناً
+> فزد في إحسانه وإن كان مسيئاً فتجواز عنه واغفر له. اللهم إجعله عندك في
+> أعلى عليّين واخلف على أهله في الغابرين وارحمه برحمتك يا أرحم
+> الراحمين."
 
  Alla humma inna hadha 'abduka wabnu 'abdika wabnu amatika nazala bika
 wa anta khayru manzulin bihi Alla humma inna la na'lamu minhu illa
@@ -299,15 +279,11 @@ warhamhu bi-rahmatika ya ar hamar Rahimin
 *If the dead body is that of a female one should say:*  
 * *
 
-<blockquote dir="rtl">
-  <p>
-"اللهم إن هذا أمتك وابنة عبدك وابنة أمتك نزلت بك وأنت خير المنزلين به
-، اللهم إنا لا نعلم منها إلا خير ما أنت أعلم به منّا. اللهم إن كانن
-محسنةً فزد في إحسانها وإن كانت مسيئة فتجواز عنها واغفر لها. اللهم
-إجعلها عندك في أعلى عليّين واخلف على أهلها في الغابرين وارحمها برحمتك
-يا أرحم الراحمين."
-  </p>
-</blockquote>
+> "اللهم إن هذا أمتك وابنة عبدك وابنة أمتك نزلت بك وأنت خير المنزلين به
+> ، اللهم إنا لا نعلم منها إلا خير ما أنت أعلم به منّا. اللهم إن كانن
+> محسنةً فزد في إحسانها وإن كانت مسيئة فتجواز عنها واغفر لها. اللهم
+> إجعلها عندك في أعلى عليّين واخلف على أهلها في الغابرين وارحمها برحمتك
+> يا أرحم الراحمين."
 
 *Alla humma inna hazihi 'amatuka wabnatu 'abdika wabnatu amatika nazalat
 bika wa anta khayra manzulin bihi Alla humma inna la na'lamu minha illa
@@ -358,28 +334,18 @@ right shoulder of the dead body and should place his left hand tightly
 on its left shoulder and take his mouth near its ear and shaking its
 shoulders should say three times:
 
-<blockquote dir="rtl">
-  <p>
- 
-  </p>
-</blockquote>
-
 *Isma' ifham ya .......{here the name of the dead person and his father
 should be called. For example, if the name of the dead person is
 Muhammad and his father's name 'Ali it should be said thrice:*
 
-<blockquote dir="rtl">
-  <p>
-إسمع إفهم يا محمد إبن علي...هل أنت على العهد الذي فرقتنا عليه من شهادة
-أن لا إله إلا الله وحده لا شريك له وأن محمد صلى الله عليه وأله عبده
-ورسوله وسيداً نبيّياً وخاتم المرسلين ، وأن عليّ أمير المؤمنين وسيّد
-الوصيّين وإمام إفترضت طاعته على العالمين وأن الحسن والحسين وعلي بن
-الحسين ومحمد ابن علي وجعفر ابن محمد وموسى ابن جعفر وعلي إبن موسى ومحمد
-ابن علي وعلي ابن محمد والحسن ابن علي والقائم الحجة المهديّ صلوات الله
-عليهم أئمة المؤمنين وحُجج الله على خلقه أجمعين وأئمتك أئمة الهدى أبرار
-يا.....
-  </p>
-</blockquote>
+> إسمع إفهم يا محمد إبن علي...هل أنت على العهد الذي فرقتنا عليه من شهادة
+> أن لا إله إلا الله وحده لا شريك له وأن محمد صلى الله عليه وأله عبده
+> ورسوله وسيداً نبيّياً وخاتم المرسلين ، وأن عليّ أمير المؤمنين وسيّد
+> الوصيّين وإمام إفترضت طاعته على العالمين وأن الحسن والحسين وعلي بن
+> الحسين ومحمد ابن علي وجعفر ابن محمد وموسى ابن جعفر وعلي إبن موسى ومحمد
+> ابن علي وعلي ابن محمد والحسن ابن علي والقائم الحجة المهديّ صلوات الله
+> عليهم أئمة المؤمنين وحُجج الله على خلقه أجمعين وأئمتك أئمة الهدى أبرار
+> يا.....
 
 *Isma 'ifham ya Muhammad bin 'Ali}.* *And then he should say: Hal anta
 'alal 'ahdil lazi farqtana 'alayhi min shahadati an la ilaha illal lahu
@@ -396,20 +362,16 @@ ajma'ina wa a'immatuka a'immatu hudan abrar ya ......*
 *(here the name of the dead person and his father should be called) and
 then the following words should be said:*
 
-<blockquote dir="rtl">
-  <p>
-"إذا أتاك الملكين المقربين رسولاً من عند الله تبارك وتعالى وسألك عن
-ربك وعن نبيّك وعن كتابك وعن قبلتك وعن أئمتك فلا تخف ولا تحزن وقُل في
-جوابهما اللهم ربي ومحمد صلى الله عليه وأله نبيّي والإسلام ديني
-والقرءان كتابي والكعبة قبلتي وأمير المؤمنين عليّ بن أبي طالب إمامي
-والحسن ابن علي المجتبى إمامي والحسين ابن علي الشهيد بكربلاء إمامي وعلي
-زين العابدين إمامي ومحمد الباقر إمامي وجعفر الصادق إمامي وموسى الكاظم
-إمامي وعلي الرضا إمامي ومحمد الجواد إمامي وعلي الهادي إمامي والحسن
-العسكري إمامي والحجة المنتظر إمامي هؤلاء صلوات الله عليهم أجمعين أئمتي
-وسادتي وقادتي وشفعائي ، بهم أتوالى ومِن أعدائهم أتبرء في الدنيا
-والأخرة ثم أعلم يا....
-  </p>
-</blockquote>
+> "إذا أتاك الملكين المقربين رسولاً من عند الله تبارك وتعالى وسألك عن
+> ربك وعن نبيّك وعن كتابك وعن قبلتك وعن أئمتك فلا تخف ولا تحزن وقُل في
+> جوابهما اللهم ربي ومحمد صلى الله عليه وأله نبيّي والإسلام ديني
+> والقرءان كتابي والكعبة قبلتي وأمير المؤمنين عليّ بن أبي طالب إمامي
+> والحسن ابن علي المجتبى إمامي والحسين ابن علي الشهيد بكربلاء إمامي وعلي
+> زين العابدين إمامي ومحمد الباقر إمامي وجعفر الصادق إمامي وموسى الكاظم
+> إمامي وعلي الرضا إمامي ومحمد الجواد إمامي وعلي الهادي إمامي والحسن
+> العسكري إمامي والحجة المنتظر إمامي هؤلاء صلوات الله عليهم أجمعين أئمتي
+> وسادتي وقادتي وشفعائي ، بهم أتوالى ومِن أعدائهم أتبرء في الدنيا
+> والأخرة ثم أعلم يا....
 
 *Iza atakal malakanil muqarraabani Rasulayni min 'indillahi tabaraka wa
 ta'ala wa sa'alaka 'an Rabbika wa 'an Nabiyyika wa 'an dinika wa 'an
@@ -427,16 +389,12 @@ a'daihim atabarra'u fid dunya wal akhirati thumma i'lam ya ....... here
 the name of the dead person and his father should be called and
 thereafter it should be said:*
 
-<blockquote dir="rtl">
-  <p>
-إن الله تبارك وتعالى نعم الرب وأن محمد صلى الله عليه وأله نعم الرسول
-وأن عليّ بن أبي طالب وأولاده المعصومين أئمة الإثنى عشر نعم الأئمة وأن
-ما جاء به محمد صلى الله عليه وأله حقاً وأن الموت حق وسؤال منكر ونكير
-حق والبعث حق والنشر حق والصراط حق والميزان حق وتطاير الكتب حق وأن
-الجنة حق والنار حق وأن الساعة أتية لا ريب فيها وأن الله يبعث من في
-القبول.
-  </p>
-</blockquote>
+> إن الله تبارك وتعالى نعم الرب وأن محمد صلى الله عليه وأله نعم الرسول
+> وأن عليّ بن أبي طالب وأولاده المعصومين أئمة الإثنى عشر نعم الأئمة وأن
+> ما جاء به محمد صلى الله عليه وأله حقاً وأن الموت حق وسؤال منكر ونكير
+> حق والبعث حق والنشر حق والصراط حق والميزان حق وتطاير الكتب حق وأن
+> الجنة حق والنار حق وأن الساعة أتية لا ريب فيها وأن الله يبعث من في
+> القبول.
 
 *Annal laha tabaraka wa ta'ala ni'mar-Rabb wa anna  Muhammadan sallal
 lahu 'alayhi wa Alihi ni'mar Rasul wa anna 'Aliyyabna Abi Talib wa
@@ -448,32 +406,20 @@ tatayiral kutubi haqqun wa annal jannata haqqun wan-nara haqqun wa annas
 sa'ata a'tiyatun la rayba fiha wa annallaha yab'athu man fil qubur. Then
 the following words should be said:*
 
-<blockquote dir="rtl">
-  <p>
-أفهمت يا...
-  </p>
-</blockquote>
+> أفهمت يا...
 
 *Afahimta ya .... (here the name of the dead person should be called)
 and thereafter the following should be said:*
 
-<blockquote dir="rtl">
-  <p>
-"ثبّتك الله بالقول الثابت وهداك الله إلى صراط مستقيم وعرّف الله بينك
-وبين أوليائك في مستقر من رحمته."
-  </p>
-</blockquote>
+> "ثبّتك الله بالقول الثابت وهداك الله إلى صراط مستقيم وعرّف الله بينك
+> وبين أوليائك في مستقر من رحمته."
 
 *Thabbatakallahu bil qawlith thabit wa hadakallahu ila siratim mustaqim
 'arrafallahu baynaka wa bayna awliya'ika fi mustaqarrim min rahmatih.
 Then the following words should be uttered:*
 
-<blockquote dir="rtl">
-  <p>
-"اللهم اجعل جف الأرض عن جنبيه واصعد بروحه إليك ولقّه منك برهانه اللهم
-عفوك عفوك."
-  </p>
-</blockquote>
+> "اللهم اجعل جف الأرض عن جنبيه واصعد بروحه إليك ولقّه منك برهانه اللهم
+> عفوك عفوك."
 
 *Alla humma jafil arza 'an jambayhi vas'ad biruhihi ilayka wa laqqihi
 minka burhana Alla humma 'afwaka 'afwaka.*  
@@ -516,5 +462,4 @@ Al-Hamd
 
 c)      After the prayers recite Dua for the pardon and peace of the
 departed soul.
-
 

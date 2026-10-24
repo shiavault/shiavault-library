@@ -1,12 +1,8 @@
 Chapter 7: Imamate in the Verse of Ilm al–Kitab
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ يَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلاً قُلْ كَفى بِاللَّهِ
-شَهِيداً بَيْنِي وَ بَيْنَكُمْ وَ مَنْ عِنْدَهُ عِلْمُ الْكِتابِ﴾
-  </p>
-</blockquote>
+> ﴿وَ يَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلاً قُلْ كَفى بِاللَّهِ
+> شَهِيداً بَيْنِي وَ بَيْنَكُمْ وَ مَنْ عِنْدَهُ عِلْمُ الْكِتابِ﴾
 
 **“*****Those who disbelieve say: “You are no emissary*** **(*****of
 Allah*****)”*****. Say: “God suffices as a witness between me and you***
@@ -421,5 +417,4 @@ al-Mumenin (p.b.u.h.) pp. 84–5.
 
 [^16]: – Fara’id al-Simtayn, vol. 1, pp. 339–341; Shawahid al-Tanzeel,
 vol. 1, p. 366, tradition 384.
-
 

@@ -87,22 +87,14 @@ also endorse the products of work and toil in our lives. The Qur’an
 repeatedly bids us to believe in unseen effects. In regard to religious
 calls, such as the invitation of Prophet Noah (‘a), the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَنْ لَيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَنْ لَيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى ﴾
 
 ***“And that humans have nothing save what they make an effort
 for.”***[^1]
 
 Moreover, regarding the Day of Judgment, the Qur’an declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَوْمَ يَتَذَكَّرُ الإِنسَانُ مَا سَعَى ﴾
-  </p>
-</blockquote>
+> ﴿ يَوْمَ يَتَذَكَّرُ الإِنسَانُ مَا سَعَى ﴾
 
 ***“It is a day in which humans remember their works.”***[^2]
 
@@ -263,22 +255,14 @@ and spiritual and practical issues that have been formed as humanity’s
 life plan and have taken into account the genetic requirements of human
 beings. The following Qur’anic verses bear witness to this fact:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُم لِمَا يُحْيِيكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُم لِمَا يُحْيِيكُمْ... ﴾
 
 ***“O believers! When Allah and the Prophet invite you (to faith and
 good deeds), accept so you attain eternal life.”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا... ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا... ﴾
 
 ***“So set thy face to the pure religion of Allah; this is the fitrah
 (nature) upon which Allah has created humankind…”***[^4]
@@ -623,5 +607,4 @@ preceding discussion.[^5]
 
 [^5]: From the quarterly, “Maktab-e Tashayyu‘” and also the journal,
 “Kitab-e Fasl”.
-
 

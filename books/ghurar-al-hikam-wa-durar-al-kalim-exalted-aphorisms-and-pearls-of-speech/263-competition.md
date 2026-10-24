@@ -7,10 +7,5 @@ Competition
 establishing the ordinances of Allah and in enjoining good.
 
 > 1ـ إنْ كُنْتُمْ لامُحالَةَ مُتَسابِقينَ فَتَسابَقُوا إلى إقامَةِ
-<blockquote dir="rtl">
-  <p>
-حُدوُدِ اللّهِ، والأمْرِ بِالمَعْرُوفِ.
-  </p>
-</blockquote>
-
+> حُدوُدِ اللّهِ، والأمْرِ بِالمَعْرُوفِ.
 

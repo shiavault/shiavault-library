@@ -8,4 +8,3 @@ approval of Imam (as) and complete effort for it. In addition it is
 demand of divine justice and also recompense of good deed with regard to
 believer brother.
 
-

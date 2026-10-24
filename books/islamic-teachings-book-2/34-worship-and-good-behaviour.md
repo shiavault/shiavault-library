@@ -22,4 +22,3 @@ Islam has laid great stress on the good treatment of one's parents.
 Allah is pleased with those who keep their parents happy, and one
 invites His wrath by annoying them.
 
-

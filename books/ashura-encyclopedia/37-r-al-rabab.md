@@ -8,4 +8,3 @@ a whole year in Madinah. She always cried for her brother and never sat
 in a shaded place until she died after a year of Imam Husayn's
 martyrdom.
 
-

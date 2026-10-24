@@ -3,12 +3,8 @@ Brotherhood in Islam
 
 ( Verse 10 )
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ
-وَاتَّقُوا اللٌّهَ لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> إِنَّمٌا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ
+> وَاتَّقُوا اللٌّهَ لَعَلَّكُمْ تُرْحَمُونَ
 
 ***Without doubt the believers are brothers of one another so then make
 peace and harmony between your brothers and have consciousness of Allah
@@ -40,11 +36,7 @@ For the first time in history, a community of people that numbered
 hundreds of millions was brought together as brothers of one another and
 the following sentence was made their slogan and motto:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الْمُؤْمِنُونَ إِخْوَةٌ...
-  </p>
-</blockquote>
+> إِنَّمٌا الْمُؤْمِنُونَ إِخْوَةٌ...
 
 ***“Without doubt the believers are brothers of one another…”***
 
@@ -141,119 +133,63 @@ everywhere.
 
 In the words of a poet:
 
-<blockquote dir="rtl">
-  <p>
-غرض ز انـجمن و اجـتماع جمع قواست
-  </p>
-</blockquote>
+> غرض ز انـجمن و اجـتماع جمع قواست
 
-<blockquote dir="rtl">
-  <p>
-چرا كه قطره چـو شد مـتصل به هم درياست
-  </p>
-</blockquote>
+> چرا كه قطره چـو شد مـتصل به هم درياست
 
 *The goal of union and coalition,*  
 *Is to gather the powers.*  
 *Since when drops of water gather,*  
 *Then they form a (powerful) river.*
 
-<blockquote dir="rtl">
-  <p>
-ز قطـره هيچ نيـايد ولى چو دريا گشت
-  </p>
-</blockquote>
+> ز قطـره هيچ نيـايد ولى چو دريا گشت
 
-<blockquote dir="rtl">
-  <p>
-هر آنـچه نفـع تصور کنی در او آن جـاست
-  </p>
-</blockquote>
+> هر آنـچه نفـع تصور کنی در او آن جـاست
 
 *Nothing comes about from a drop (individual),*  
 *However the river (unity) runs strong.*  
 *Any benefit that can be imagined,*  
 *Comes about from that river (of unity).*
 
-<blockquote dir="rtl">
-  <p>
-ز قطره ماهی پيدا نـمى شود هر گز
-  </p>
-</blockquote>
+> ز قطره ماهی پيدا نـمى شود هر گز
 
-<blockquote dir="rtl">
-  <p>
-مـحيط باشد كزوى نـهنگ خواهد ساخـت
-  </p>
-</blockquote>
+> مـحيط باشد كزوى نـهنگ خواهد ساخـت
 
 *A fish can never be seen,*  
 *In one single drop of water.*  
 *How is it then from the river,*  
 *Whales can come about.*
 
-<blockquote dir="rtl">
-  <p>
-زگندمی نتوان پخت نان و قوت نـمود
-  </p>
-</blockquote>
+> زگندمی نتوان پخت نان و قوت نـمود
 
-<blockquote dir="rtl">
-  <p>
-چو گشت خرمن و خروار وقت برگ و نواست
-  </p>
-</blockquote>
+> چو گشت خرمن و خروار وقت برگ و نواست
 
 *A loaf of bread can never be made ,*  
 *From a single head of wheat,*  
 *But when gathered together and thrashed,*  
  *It brings out all of its prosperity.*
 
-<blockquote dir="rtl">
-  <p>
-ز فرد فرد مـحالست کارهای بزرگ
-  </p>
-</blockquote>
+> ز فرد فرد مـحالست کارهای بزرگ
 
-<blockquote dir="rtl">
-  <p>
-ولی ز جمع توان خواست هر چه خواهی خواست
-  </p>
-</blockquote>
+> ولی ز جمع توان خواست هر چه خواهی خواست
 
 *It is impossible for individuals - one by one,*  
 *To take on a great task.*  
  *However, from uniting together,*  
 *Anything that is desired can be accomplished.*
 
-<blockquote dir="rtl">
-  <p>
-بلی چو مورچگان را وفاق دست دهد
-  </p>
-</blockquote>
+> بلی چو مورچگان را وفاق دست دهد
 
-<blockquote dir="rtl">
-  <p>
-بـه قـول شيخ هـژبر ژيان اسـير و فنـاست
-  </p>
-</blockquote>
+> بـه قـول شيخ هـژبر ژيان اسـير و فنـاست
 
 *Unity and conciliation can be seen,*  
 *In the way that the ants gather together.*  
 *In the words of the Shaikh,*  
 *Glory is strong, captive and temporary.*
 
-<blockquote dir="rtl">
-  <p>
-ولى چو نفرقه اندر ميان جمع افتد
-  </p>
-</blockquote>
+> ولى چو نفرقه اندر ميان جمع افتد
 
-<blockquote dir="rtl">
-  <p>
-هـمان حکـايت صـوفى و سيـد و مـلاست
-  </p>
-</blockquote>
+> هـمان حکـايت صـوفى و سيـد و مـلاست
 
 *However when separation occurs,*  
 *To a community that is together.*  
@@ -271,12 +207,8 @@ The Noble Qur’an considers asking advice and (through this), changing
 one’s opinion as one of the characteristics of a person with true faith
 and has said:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اسْتَجٌابُوا لِرِبِّهِمْ وَ أَقٌامُوا الصَّلٌوةَ وَ
-أَمْرُهُمْ شُورَى بَيْنَهُمْ وَ مِمٌّا رَزَقْنٌاهُمْ يُنْفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اسْتَجٌابُوا لِرِبِّهِمْ وَ أَقٌامُوا الصَّلٌوةَ وَ
+> أَمْرُهُمْ شُورَى بَيْنَهُمْ وَ مِمٌّا رَزَقْنٌاهُمْ يُنْفِقُونَ
 
 ***“And those people who respond to the call of their Lord and who
 (also) uphold the Salat and proceed in their activities through
@@ -287,32 +219,16 @@ The same point mentioned in the above verse of the Qur’an can also be
 seen in the poem previously quoted and also in the following two lines
 of poetry:
 
-<blockquote dir="rtl">
-  <p>
-اگر مرا و تو عقل خويش كافى بود
-  </p>
-</blockquote>
+> اگر مرا و تو عقل خويش كافى بود
 
-<blockquote dir="rtl">
-  <p>
-چرا به امر خداوند، امر بر شورى است
-  </p>
-</blockquote>
+> چرا به امر خداوند، امر بر شورى است
 
 *If mine and your intelligence were enough,*  
  *Then why has Allah commanded us to consult (one another)?*
 
-<blockquote dir="rtl">
-  <p>
-بدين دليل ((يد اللٌّه مع الجماعة)) سرود
-  </p>
-</blockquote>
+> بدين دليل ((يد اللٌّه مع الجماعة)) سرود
 
-<blockquote dir="rtl">
-  <p>
-كه با جماعت، دستى قوی يدى طولـى است
-  </p>
-</blockquote>
+> كه با جماعت، دستى قوی يدى طولـى است
 
 *We must resonate with the proof that:*  
 *‘The Hand of Allah is with the Congregation’.*  
@@ -379,11 +295,7 @@ ideological beliefs and method of thought share a common opinion – have
 been referred to as brothers of one another, and thus, their motto would
 be:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الْمُؤْمِنُونَ إِخْوَةٌ...
-  </p>
-</blockquote>
+> إِنَّمٌا الْمُؤْمِنُونَ إِخْوَةٌ...
 
 ***“Without doubt the believers are brothers of one another…”***
 
@@ -427,11 +339,7 @@ In addition, the direction of all of their lives was geared towards one
 goal and all of their ideas and thoughts were channelled into one main
 thought.
 
-<blockquote dir="rtl">
-  <p>
-آفرين بر همت آن اوستاد صد هزاران ذره را داد اتـحاد
-  </p>
-</blockquote>
+> آفرين بر همت آن اوستاد صد هزاران ذره را داد اتـحاد
 
 *Congratulations to the efforts of that one leader,*  
 *Who brought unity to hundreds of thousands of individual minds.*
@@ -465,11 +373,7 @@ their hearts.
 One day, the Prophet of Islam (blessings of Allah be upon him and his
 progeny) stood up in the Masjid, turned towards the Muslims and said:
 
-<blockquote dir="rtl">
-  <p>
-تَآخَوْا فِي اللٌّهِ أَخَوَينِ أَخَوَينِ
-  </p>
-</blockquote>
+> تَآخَوْا فِي اللٌّهِ أَخَوَينِ أَخَوَينِ
 
 *“(O’ people!)* *Stand up so that I can make you brothers of one another
 (in the name of Allah).”*
@@ -550,12 +454,8 @@ your Lord and this land of Mina too is one of sanctity and this month
 (Dhul Hijjah) which we are presently in, is a noble month in the sight
 of Allah!”
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ دِمٌائَكُمْ وَ أَمْوٌالَكُمْ وَ أَعْرٌاضَكُمْ عَلَيْكُمْ حَرٌامٌ
-كَحُرْمَةِ يَوْمِكُمْ هٌـذَا وَ بَلَدِكُمْ هٌـذَا وَ شَهْرِكُمْ هٌـذَا
-  </p>
-</blockquote>
+> إِنَّ دِمٌائَكُمْ وَ أَمْوٌالَكُمْ وَ أَعْرٌاضَكُمْ عَلَيْكُمْ حَرٌامٌ
+> كَحُرْمَةِ يَوْمِكُمْ هٌـذَا وَ بَلَدِكُمْ هٌـذَا وَ شَهْرِكُمْ هٌـذَا
 
 *“Unquestionably your lives and your properties and your reputations are
 all sacred and sacrosanct just as this day of yours, this land of yours
@@ -564,11 +464,7 @@ and this month of yours (are sacred).”*[^5]
 The Prophet repeated this sentence three times and then looked towards
 the sky and said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بَلَّغْتُ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بَلَّغْتُ
 
 *“O’ Allah (You bear witness that) I have (fulfilled my responsibility
 and) conveyed the message.”*
@@ -592,13 +488,9 @@ from amongst all of these narrations and commandments, we present two
 traditions. The Prophet of Islam (blessings of Allah be upon him and his
 progeny) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الْمُؤْمِنُونَ فِي تَرٌاحُمِهِمْ وَ تَعٌاطُفِهِمْ
-بِمَنْـزِلَةِ الْجَسَدِ الْوٌاحِدِ إِذٌا اشْتَكى مِنْهُ عُضْوٌ وٌاحِدٌ
-تَدٌاعى لَهُ سٌائِرُ الْجَسَدِ بِالْحِمى وَالسَّهَرِ
-  </p>
-</blockquote>
+> إِنَّمٌا الْمُؤْمِنُونَ فِي تَرٌاحُمِهِمْ وَ تَعٌاطُفِهِمْ
+> بِمَنْـزِلَةِ الْجَسَدِ الْوٌاحِدِ إِذٌا اشْتَكى مِنْهُ عُضْوٌ وٌاحِدٌ
+> تَدٌاعى لَهُ سٌائِرُ الْجَسَدِ بِالْحِمى وَالسَّهَرِ
 
 *“Surely the believers – in relation to the mercy and compassion and
 affection (that they show for one another) - are the same as one body.
@@ -621,12 +513,8 @@ inspiration from this hadith and expressed it in the following poem:
 In the second hadith, the Prophet of Islam (blessings of Allah be upon
 him and his progeny) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُسْلِمُونَ تَتَكٌافِـيءُ دِمٌــاؤُهُمْ وَ تَسْعـى بِذِمَّتِهِمْ
-أَدْنٌاهُمْ وَ هُمْ يَدٌ عَلى مَنْ سِوٌاهُمْ
-  </p>
-</blockquote>
+> أَلْمُسْلِمُونَ تَتَكٌافِـيءُ دِمٌــاؤُهُمْ وَ تَسْعـى بِذِمَّتِهِمْ
+> أَدْنٌاهُمْ وَ هُمْ يَدٌ عَلى مَنْ سِوٌاهُمْ
 
 *“The worth of the blood (the lives) of the Muslims is equal to another
 Muslim and even the smallest trust that is given from one of them to
@@ -657,11 +545,7 @@ cost. Rather, Islam wants peace on the basis of justice and equality and
 one in which the rights of both sides are protected and thus, the
 following verse of the Qur’an mentions:
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْلِحُوا بَيْنَهُمٌا بِالْعَدْلِ...
-  </p>
-</blockquote>
+> فَأَصْلِحُوا بَيْنَهُمٌا بِالْعَدْلِ...
 
 ***“So then make peace between the two parties with justice…”***
 
@@ -690,5 +574,4 @@ Another Person); Maghazi, Volume 2, Page 836.
 [^9]: Many of these rights have been mentioned in the book, Wasail
 al-Shi\`a in the section of “Ahkam al-\`Ushrah”, Volume 8, Page 166 and
 on.
-
 

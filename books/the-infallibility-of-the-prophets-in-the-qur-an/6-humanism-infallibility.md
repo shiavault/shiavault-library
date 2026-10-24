@@ -59,4 +59,3 @@ prophets as fallible and sinners.
 
 [^2]: See The Toronto Star, May 2, 1993, p. B5; May 15, 1994, p. A13
 
-

@@ -55,4 +55,3 @@ correctness of his path, which ascertains him of the destination he is
 heading to. To most questions the answer of the Prophet (S) applies:
 “This is God’s command and a secret among the Divine secrets”
 
-

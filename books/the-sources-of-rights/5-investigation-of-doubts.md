@@ -265,4 +265,3 @@ from scientific ones is due to the placement of a part of the cause
 instead of the total cause. The examination of these matters is not
 within the domain of this short paper.
 
-

@@ -115,4 +115,3 @@ proof of reason is, indeed, sufficient in this respect.
 't-taklif kamata‘abbada 'l-bashar wa 'l-jinn bi 'l-a‘mal liyuthibahum
 ‘alayha . . .
 
-

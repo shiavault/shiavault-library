@@ -8,13 +8,9 @@ There are some verses in it.
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَنْ بَاءَ بِسَخَطٍ مِنْ اللَّهِ
-وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ. هُمْ دَرَجَاتٌ عِنْدَ
-اللَّهِ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ.
-  </p>
-</blockquote>
+> أَفَمَنْ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَنْ بَاءَ بِسَخَطٍ مِنْ اللَّهِ
+> وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ. هُمْ دَرَجَاتٌ عِنْدَ
+> اللَّهِ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ.
 
 ***Is then he who follows the pleasure of Allah like him who has made
 himself deserving of displeasure from Allah, and his abode is hell; and
@@ -41,12 +37,8 @@ between the earth and the sky.
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّهُمْ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا
-رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ.
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّهُمْ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا
+> رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ.
 
 ***That is because they follow what is displeasing to Allah and are
 averse to His pleasure, therefore He has made null their deeds. (Surah
@@ -69,12 +61,8 @@ them.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ. ارْجِعِي إِلَى رَبِّكِ
-رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي.
-  </p>
-</blockquote>
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ. ارْجِعِي إِلَى رَبِّكِ
+> رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي.
 
 ***O soul that art at rest! Return to your Lord, well-pleased (with
 him), well-pleasing (Him), So enter among My servants, And enter into My
@@ -117,12 +105,8 @@ should be taken and that he should get attached to those Holy persons.
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ رَضِيَ اللَّهُ عَنْ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
-الشَّجَرَةِ.
-  </p>
-</blockquote>
+> لَقَدْ رَضِيَ اللَّهُ عَنْ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
+> الشَّجَرَةِ.
 
 ***Certainly Allah was well pleased with the believers when they swore
 allegiance to you under the tree… (Surah Fath 48:18)***
@@ -152,5 +136,4 @@ of the day of Ghadeer and snatched the right of Ahlul Bayt (a.s.) and
 refused the ‘Nass’ of the Holy Prophet (S) have all become infidels.
 They are not included in this verse of Rizwan. Other points on this
 topic shall be discussed later on in some other book, Insha-Allah.
-
 

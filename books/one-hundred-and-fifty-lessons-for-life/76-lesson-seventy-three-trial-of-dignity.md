@@ -3,12 +3,8 @@ Lesson Seventy Three: Trial Of Dignity
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ يُمْتَحَنُ بِهَا عُقُولُ الرِّجالِ هُنَّ المالُ وَ الْوِلايَةُ
-و الْمُصِيبَةُ
-  </p>
-</blockquote>
+> ثَلاثٌ يُمْتَحَنُ بِهَا عُقُولُ الرِّجالِ هُنَّ المالُ وَ الْوِلايَةُ
+> و الْمُصِيبَةُ
 
 Translation
 -----------
@@ -35,5 +31,4 @@ he forgets everything?
 and ungrateful ?
 
 [^1]: Ghurar al-Hakam
-
 

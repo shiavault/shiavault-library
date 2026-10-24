@@ -177,4 +177,3 @@ A: You should try to help your Muslim brothers morally, financially,
 and (if possible.) in person, in their countries where they are being
 attacked. But not in other places.
 
-

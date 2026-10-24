@@ -80,4 +80,3 @@ example**:أنَّیَ لکَ هذا** , or is an adverbial meaning of time, for
 example**:أنَّیَ جِئتَ** *.* **أیَّان و متی** are adverbial nouns of
 time.
 
-

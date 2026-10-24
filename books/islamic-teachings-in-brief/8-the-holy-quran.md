@@ -147,7 +147,6 @@ manner. In this regard, its worth equals the value of the religion of
 Allah. Furthermore, the Holy Qur'an is nothing but the words of Allah
 and is the everlasting miracle of the Holy Prophet (SA).
 
-
 **THE HOLY QUR'AN IS A MIRACLE**
 
 Certainly, Arabic is a strong and all-embracing language which can
@@ -250,7 +249,6 @@ Allah states:
 "Now surely they fold up their chests that they may conceal (their
 enmity) from Him ... (11:5)."
 
-
 **ACCUSING THE HOLY PROPHET (SA)**
 
 Kafirin and mushrikin not only used to call the Holy Qur'an but totally
@@ -275,7 +273,6 @@ In His words, the Almighty Allah refers to this point and states:
 "...And if you say, surely you shall be resurrected after death, those
 who disbelieve would certainly say: 'This is nothing but clear magic'
 (11:7)."
-
 
 **THE HOLY QUR'AN CHALLENGES THE MUSHRIKIN**
 
@@ -393,5 +390,4 @@ By its revelations and the expression of realities and from other
 aspects manifested in this Divine Book, the Holy Qur'an challenges the
 enemies and announces to all mankind that they will not be able to
 produce such a book.
-
 

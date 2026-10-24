@@ -42,4 +42,3 @@ Imam Ali said:
 
 “The best deeds of a great man are to forgive and forget.”
 
-

@@ -49,4 +49,3 @@ The atonement of covering the head is one sheep for men as an obligatory
 precaution, but in case of ignorance or forgetfulness there is no
 atonement.
 
-

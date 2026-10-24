@@ -248,4 +248,3 @@ march. Therefore it is life according to the incumbent upon mankind to
 mould revealed through the final call and the message of Islam, Seal of
 the Prophets.
 
-

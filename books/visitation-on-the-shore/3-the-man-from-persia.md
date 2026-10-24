@@ -90,7 +90,6 @@ Several years elapsed. One day I narrated this encounter to my friend.
 He asked, “At that time when you saw the child, how old was he?" I
 replied. "Two years".
 
-
 **Forty Witnesses**
 
 Friends had gathered together, and their commotion filled the mosque
@@ -139,5 +138,4 @@ Oh God!
 Grant us, as well, the privilege to see him!"
 
 All of those present in the mosque cried out in one voice, "Amen!"
-
 

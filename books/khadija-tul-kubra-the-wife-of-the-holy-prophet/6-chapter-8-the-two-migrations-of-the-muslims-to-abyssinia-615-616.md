@@ -136,7 +136,6 @@ migrated to Abyssinia in 615 and 616. He appears to have been the only
 member of the clan of Bani Hashim to leave Makka for Abyssinia with the
 other refugees. All other members of Bani Hashim stayed in Makka.
 
-
 **Chapter 9 : Hamza Accepts Islam, A.D. 615**
 
 Muhammed Mustafa, the Messenger of Allah (may Allah bless him and his
@@ -192,7 +191,6 @@ the "Lion of God," and the "Chief of the Martyrs."
 
 Hamza accepted Islam in the fifth year of the Proclamation. May God be
 pleased with him, and bless him.
-
 
 **Chapter 10 : Umar's Conversion to Islam, A.D. 616**
 
@@ -280,5 +278,4 @@ Muslim.
 
 At that time, Umar ibn al-Khattab was a mature man of thirty to
 thirty-five years of age. (The Life of Muhammad, Cairo, 1935)
-
 

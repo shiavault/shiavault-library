@@ -439,4 +439,3 @@ had done speaking he bade them make ready his grave, and he exchanged
 the palace for the tomb. And thus endeth the history of Kai Kobad the
 glorious. It behoveth us now to speak of his son.
 
-

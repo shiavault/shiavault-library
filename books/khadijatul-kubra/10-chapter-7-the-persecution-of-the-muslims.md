@@ -715,4 +715,3 @@ in value; to be expressed, not by quantity but only by quality, and that
 quality was sublime.  
   
 
-

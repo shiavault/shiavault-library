@@ -160,9 +160,7 @@ successful." Holy Qur'an (3-104)
 The above mentioned are thus the most important pillars of the Islamic
 education structure, from which planning and codes are inspired.
 
-
 **Goals Of Islamic Education**
-
 
 Islamic education aims at developing people's talents and inspiring
 lofty ethical values in them. These goals are the main foundation on
@@ -223,7 +221,6 @@ community and the Islamic Urnmah in large.
 These are the most outstanding goals of a scientific Islamic education.
 Several institutions and parties participate, each according to their
 ability and responsibility, to achieve the set aims.
-
 
 **Islam's Concern For Education**
 
@@ -517,5 +514,4 @@ Thus it is the parents who shoulder responsibility for their children's
 Islamic education. Any neglect on their part in performing this duty
 which may lead to children's deviation and going astray, is considered a
 breach of parental duties.
-
 

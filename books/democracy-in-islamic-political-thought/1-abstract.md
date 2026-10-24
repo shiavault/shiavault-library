@@ -13,4 +13,3 @@ of Sayyid Mawdudi (1903-79), on the thought of Sayyid Qutb. The paper
 traces also the bearing of Bennabi's thought on Rachid Ghannouchi and on
 the Islamic movements of our times.*
 
-

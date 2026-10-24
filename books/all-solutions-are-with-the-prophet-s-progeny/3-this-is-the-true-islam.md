@@ -150,4 +150,3 @@ observed and Allah the Almighty was not feared. For more details, refer
 to the book Know the Truth, p. 96-98, and Fear Allah, p. 67-72, by the
 author of this book.
 
-

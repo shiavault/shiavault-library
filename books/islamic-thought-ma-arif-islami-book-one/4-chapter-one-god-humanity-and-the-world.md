@@ -9,4 +9,3 @@ Section Three: Anthropology
 
 Section Four: Cosmology
 
-

@@ -101,4 +101,3 @@ returns.
 
 [^2]: Al Wasail, Vol. 6
 
-

@@ -75,7 +75,6 @@ witness (to my prophet-hood).'" (13:43) The Imam (a.s.) said, "It is a
 reference to us. Ali (a.s.) is the first among us and the most virtuous
 and the best among us after the Holy Prophet (s.a.)"
 
-
 **Chapter 36 : The degree of the Great Names of Allah that are given to
 the Imams (a.s.) H 613, Ch. 36, h 1**
 
@@ -127,5 +126,4 @@ it before Solomon. The land then came to normal state within less than a
 blinking of an eye. There are seventy-two of those letters with us. One
 letter is with Allah which, He has kept it exclusively in the knowledge
 of the unseen."
-
 

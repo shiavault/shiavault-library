@@ -147,4 +147,3 @@ proof of the principle Resurrection?
 
 6. What key points can be derived from the argument for Justice?
 
-

@@ -186,4 +186,3 @@ firmly-rooted belief:
 In Shi'a traditions and the writings of Shi'a scholars, the word,
 mu'min, is commonly used for a practicing Shi'a Ithna 'ashari.
 
-

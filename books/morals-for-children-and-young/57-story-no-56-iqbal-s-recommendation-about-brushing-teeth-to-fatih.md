@@ -13,4 +13,3 @@ brush his teeth three times before going to bed”.
  Is’nt it very good, Fatih, if we too follow in the footsteps of the
 great leaders of Islam.
 
-

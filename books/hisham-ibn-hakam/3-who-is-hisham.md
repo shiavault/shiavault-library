@@ -75,4 +75,3 @@ characteristics of that cloth in darkness and shadow.
 [^7]: Al Fehrist of Ibn Nadim Hassan, a poet during the time of the
 Prophet (s) whose odes including "Ghadirieh", are famous.
 
-

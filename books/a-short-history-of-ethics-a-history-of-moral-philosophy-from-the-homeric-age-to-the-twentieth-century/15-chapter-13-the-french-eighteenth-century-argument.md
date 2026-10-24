@@ -413,4 +413,3 @@ economic, and social preconditions of democracy he was forced to
 conclude that only one people in Europe were capable of it: the
 Corsicans.
 
-

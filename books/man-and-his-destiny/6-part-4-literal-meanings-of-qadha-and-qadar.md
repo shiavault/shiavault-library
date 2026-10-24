@@ -142,4 +142,3 @@ at a particular point.
 Anyhow, this difference neither proves nor disproves the doctrine of
 predestination.
 
-

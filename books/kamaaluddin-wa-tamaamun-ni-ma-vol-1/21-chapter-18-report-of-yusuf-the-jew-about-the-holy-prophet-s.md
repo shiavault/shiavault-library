@@ -75,4 +75,3 @@ away from Bani Israel till the Judgment Day. The people dispersed from
 there and the prophecies of the Jew became a topic for discussion
 everywhere.”
 
-

@@ -4,14 +4,10 @@ Section 3: Goodness and Submission to Parents Ordained
 Surah Isra’ – Verse 23
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَضَي رَبُّكَ اَلاَّ تَعْبُدُوا إِلآَّ إِيَّاهُ وَبِالْوَالِدَيْنِ
-إِحْسَاناً إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ أَحَدُهُمَآ أَوْ
-كِلاَهُمَا فَلاَ تَقُل لَهُمَآ اُفٍّ وَلاَ تَنْهَرْهُمَا وَقُل لَهُمَا
-قَوْلاً كَرِيماً
-  </p>
-</blockquote>
+> وَقَضَي رَبُّكَ اَلاَّ تَعْبُدُوا إِلآَّ إِيَّاهُ وَبِالْوَالِدَيْنِ
+> إِحْسَاناً إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ أَحَدُهُمَآ أَوْ
+> كِلاَهُمَا فَلاَ تَقُل لَهُمَآ اُفٍّ وَلاَ تَنْهَرْهُمَا وَقُل لَهُمَا
+> قَوْلاً كَرِيماً
 
 ***23. “And your Lord has commanded that you worship none but Him and
 (to show) kindness to parents; if one of them or both of them reach old
@@ -47,12 +43,8 @@ to them ‘fie’, nor repulse them, and speak to them a gracious word.”***
 Surah Isra’ – Verse 24
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلّ‌ِ مِنَ الرَّحْمَةِ وَقُل رَّبّ‌ِ
-ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيراً
-  </p>
-</blockquote>
+> وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلّ‌ِ مِنَ الرَّحْمَةِ وَقُل رَّبّ‌ِ
+> ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيراً
 
 ***24. “And out of compassion, lower unto them the wing of humility, and
 say: ‘My Lord! Have mercy on them both as they cherished me when I was
@@ -101,12 +93,8 @@ would be no use in saying:
 Surah Isra’ – Verse 25
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ إِن تَكُونُوا صَالِحِينَ
-فَإِنَّهُ كَانَ لِلاَوَّابِينَ غَفُوراً
-  </p>
-</blockquote>
+> رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ إِن تَكُونُوا صَالِحِينَ
+> فَإِنَّهُ كَانَ لِلاَوَّابِينَ غَفُوراً
 
 ***25. “Your Lord is well aware about what is in your selves. If you be
 righteous, then verily He is for the repentant forgiving.”***
@@ -320,12 +308,8 @@ monotheism and Islam still further.
 Surah Isra’ – Verse 26
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَاتِ ذَا الْقُرْبَي حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلاَ
-تُبَذّ‌ِرْ تَبْذِيراً
-  </p>
-</blockquote>
+> وَءَاتِ ذَا الْقُرْبَي حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلاَ
+> تُبَذّ‌ِرْ تَبْذِيراً
 
 ***26. “And give to the near of kin his due, and (to) the needy, and the
 wayfarer; and do not squander wastefully.”***
@@ -447,12 +431,8 @@ here.
 Surah Isra’ – Verse 27
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُبَذّ‌ِرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ وَكَانَ
-الشَّيْطَانُ لِرَبّـِهِ كَفُوراً
-  </p>
-</blockquote>
+> إِنَّ الْمُبَذّ‌ِرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ وَكَانَ
+> الشَّيْطَانُ لِرَبّـِهِ كَفُوراً
 
 ***27. “Verily, the squanderers are the brethrens (accomplices) of the
 Satans and the Satan was very ungrateful to his Lord.”***
@@ -506,12 +486,8 @@ matters, etc. [^21]
 Surah Isra’ – Verse 28
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ابْتِغَآءَ رَحْمَةٍ مِن رَّبّـِكَ
-تَرْجُوهَا فَقُل لَّهُمْ قَوْلاً مَّيْسُوراً
-  </p>
-</blockquote>
+> وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ابْتِغَآءَ رَحْمَةٍ مِن رَّبّـِكَ
+> تَرْجُوهَا فَقُل لَّهُمْ قَوْلاً مَّيْسُوراً
 
 ***28. “And if you turn away from them seeking mercy from your Lord,
 which you are hopeful for, then speak unto them a gentle word.”***
@@ -553,12 +529,8 @@ Nisa confirm the above points.
 Surah Isra’ – Verse 29
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَي عُنُقِكَ وَلاَ تَبْسُطْهَا
-كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُوماً مَّحْسُوراً
-  </p>
-</blockquote>
+> وَلاَ تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَي عُنُقِكَ وَلاَ تَبْسُطْهَا
+> كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُوماً مَّحْسُوراً
 
 ***29. “And do not make your hand to be shackled to your neck nor
 stretch it to the utmost (limit) of its stretching, so that you should
@@ -611,11 +583,7 @@ Surah Isra’ – Verse 30
 ----------------------
 
 > ﴿30﴾ إِنَّ رَبَّكَ يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ وَيَقْدِرُ
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ كَانَ بِعِبَادِهِ خَبِيراً بَصِيراً
-  </p>
-</blockquote>
+> إِنَّهُ كَانَ بِعِبَادِهِ خَبِيراً بَصِيراً
 
 ***30. “Verily, your Lord extends the sustenance for whomever He
 pleases; and straitens (it for whom He pleases), verily He is, of His
@@ -707,5 +675,4 @@ Tafsir-us-Safi
 [^23]: Tafsir-i-Nūr-uth- Thaqalayn
 
 [^24]: Tafsir-i-Nūr-uth-Thaqalayn
-
 

@@ -21,4 +21,3 @@ kindly to him. *“You have come at the time when I was taking leave,”* he
 said to the man. *“Do you permit me to go?” “Yes, O son of the Messenger
 of Allah,”* replied the man.
 
-

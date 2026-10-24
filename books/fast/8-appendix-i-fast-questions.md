@@ -25,4 +25,3 @@ reason ?
 (c) He intentionally, did not do 'Ghusl-e-Janaba up to the time of
 prayer of 'Subh'
 
-

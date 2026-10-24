@@ -5,29 +5,21 @@ The first and only creature to have *ever* made claims and offered
 challenges similar to those in *Hadith Saluni* was the Messenger of
 Allah, *sallallahu ‘alaihi wa wa alihi*. Imam Muslim (d. 261 H) records:
 
-<blockquote dir="rtl">
-  <p>
-وحدثني حرملة بن يحيى بن عبدالله بن حرملة بن عمران التجيبي أخبرنا ابن
-وهب أخبرني يونس عن ابن شهاب أخبرني أنس بن مالك أن رسول الله صلى الله
-عليه و سلم خرج حين زاغت الشمس فصلى لهم صلاة الظهر فلما سلم قام على
-المنبر فذكر الساعة وذكر أن قبلها أمورا عظاما ثم قال من أحب أن يسألني
-عن شيء فليسألني عنه فوالله لا تسألوني عن شيء إلا أخبرتكم به ما دمت في
-مقامي هذا
-  </p>
-</blockquote>
+> وحدثني حرملة بن يحيى بن عبدالله بن حرملة بن عمران التجيبي أخبرنا ابن
+> وهب أخبرني يونس عن ابن شهاب أخبرني أنس بن مالك أن رسول الله صلى الله
+> عليه و سلم خرج حين زاغت الشمس فصلى لهم صلاة الظهر فلما سلم قام على
+> المنبر فذكر الساعة وذكر أن قبلها أمورا عظاما ثم قال من أحب أن يسألني
+> عن شيء فليسألني عنه فوالله لا تسألوني عن شيء إلا أخبرتكم به ما دمت في
+> مقامي هذا
 
-<blockquote dir="rtl">
-  <p>
-قال أنس بن مالك فأكثر الناس البكاء حين سمعوا ذلك من رسول الله صلى الله
-عليه و سلم وأكثر رسول الله صلى الله عليه و سلم أن يقول سلوني فقام
-عبدالله بن حذافة فقال من أبي ؟ يا رسول الله قال أبوك حذافة فلما أكثر
-رسول الله صلى الله عليه و سلم من أن يقول سلوني برك عمر فقال رضينا
-بالله ربا وبالإسلام دينا وبمحمد رسولا قال فسكت رسول الله صلى الله عليه
-و سلم حين قال عمر ذلك ثم قال رسول الله صلى الله عليه و سلم أولى والذي
-نفس محمد بيده لقد عرضت علي الجنة والنار آنفا في عرض هذا الحائط فلم أر
-كاليوم في الخير والشر
-  </p>
-</blockquote>
+> قال أنس بن مالك فأكثر الناس البكاء حين سمعوا ذلك من رسول الله صلى الله
+> عليه و سلم وأكثر رسول الله صلى الله عليه و سلم أن يقول سلوني فقام
+> عبدالله بن حذافة فقال من أبي ؟ يا رسول الله قال أبوك حذافة فلما أكثر
+> رسول الله صلى الله عليه و سلم من أن يقول سلوني برك عمر فقال رضينا
+> بالله ربا وبالإسلام دينا وبمحمد رسولا قال فسكت رسول الله صلى الله عليه
+> و سلم حين قال عمر ذلك ثم قال رسول الله صلى الله عليه و سلم أولى والذي
+> نفس محمد بيده لقد عرضت علي الجنة والنار آنفا في عرض هذا الحائط فلم أر
+> كاليوم في الخير والشر
 
 Harmala b. Yahya b. ‘Abd Allah b. Harmala b. ‘Imran al-Tajibi – Ibn Wahb
 – Yunus – Ibn Shihab – Anas b. Malik:
@@ -58,11 +50,7 @@ Imam Ahmad (d. 241 H) also records:
 
 > حدثنا عبد الله حدثني أبي ثنا بن أبي عدي عن حميد عن أنس قال قال رسول
 > الله صلى الله عليه و سلم Y لا تسألوني عن شيء إلى يوم القيامة الا
-<blockquote dir="rtl">
-  <p>
-حدثتكم قال فقال عبد الله بن حذافة يا رسول الله من أبي قال أبوك حذافة
-  </p>
-</blockquote>
+> حدثتكم قال فقال عبد الله بن حذافة يا رسول الله من أبي قال أبوك حذافة
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Ibn Abi ‘Adi –
 Hamid – Anas:
@@ -75,11 +63,7 @@ is Hudhafah”.[^2]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^3]
 
@@ -102,13 +86,9 @@ Messenger of Allah had done was none other than Amir al-Muminin,
 This relevant *athar* is documented in *Fadhail al-Sahabah* of Imam
 Ahmad:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله نا عثمان بن أبي شيبة نا سفيان عن يحيى بن سعيد قال أراه
-عن سعيد : قال لم يكن أحد من أصحاب النبي صلى الله عليه و سلم يقول سلوني
-الا علي بن أبي طالب
-  </p>
-</blockquote>
+> حدثنا عبد الله نا عثمان بن أبي شيبة نا سفيان عن يحيى بن سعيد قال أراه
+> عن سعيد : قال لم يكن أحد من أصحاب النبي صلى الله عليه و سلم يقول سلوني
+> الا علي بن أبي طالب
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – ‘Uthman b. Abi Shaybah – Sufyan –
 Yahya b. Sa’id – Sa’id: “There was never anyone among the Sahabah of the
@@ -117,11 +97,7 @@ Talib.[^4]
 
 Dr. ‘Abbas comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^5]
 
@@ -130,13 +106,9 @@ knowledge of either the Qur’an or Sunnah – much less anything else! For
 instance, ‘Umar did not know the basic Islamic ruling on *tayammum*.
 Imam Muslim records:
 
-<blockquote dir="rtl">
-  <p>
-حدثني عبدالله بن هاشم العبدي حدثنا يحيى (يعني ابن سعيد القطان) عن شعبة
-قال حدثني الحكم عن ذر عن سعيد بن عبدالرحمن بن أبزي عن أبيه أن رجلا أتى
-عمر فقال :إني أجنبت فلم أجد ماء فقال لا تصل
-  </p>
-</blockquote>
+> حدثني عبدالله بن هاشم العبدي حدثنا يحيى (يعني ابن سعيد القطان) عن شعبة
+> قال حدثني الحكم عن ذر عن سعيد بن عبدالرحمن بن أبزي عن أبيه أن رجلا أتى
+> عمر فقال :إني أجنبت فلم أجد ماء فقال لا تصل
 
 ‘Abd Allah b. Hisham al-‘Abdi – Yahya b. Sa’id al-Qaṭṭan – Shu’bah –
 al-Hakam – Dharr – Sa’id b. ‘Abd al-Rahman b. Abza – his father:
@@ -147,12 +119,8 @@ find water (to do the *ghusl*)”. **He (‘Umar) said, “Do not perform**
 
 Meanwhile, this is the answer to that question in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وإن كنتم مرضى أو على سفر أو جاء أحد منكم من الغائط أو لامستم النساء
-فلم تجدوا ماء فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم
-  </p>
-</blockquote>
+> وإن كنتم مرضى أو على سفر أو جاء أحد منكم من الغائط أو لامستم النساء
+> فلم تجدوا ماء فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم
 
 And if you are ill, or on a journey, or one of you comes after answering
 the call of nature, or **you have had sexual intercourse with women and
@@ -167,16 +135,12 @@ instantly humiliated with such beginner’s topics as *tayammum*.
 Moreover, as Imam al-Bukhari (d. 256 H) records below, ‘Umar also lacked
 knowledge of some other topics in Islamic jurisprudence:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أحمد بن أبي رجاء حدثنا يحيى عن أبي حيان التيمي عن الشعبي عن ابن
-عمر رضي الله عنهما قال :خطب عمر على منبر رسول الله صلى الله عليه و سلم
-فقال إنه قد نزل تحريم الخمر وهي من خمسة أشياء العنب والتمر والحنطة
-والشعير والعسل والخمر ما خامر العقل . وثلاث وددت أن رسول الله صلى الله
-عليه و سلم لم يفارقنا حتى يعهد إلينا عهدا الجد والكلالة وأبواب من
-أبواب الربا
-  </p>
-</blockquote>
+> حدثنا أحمد بن أبي رجاء حدثنا يحيى عن أبي حيان التيمي عن الشعبي عن ابن
+> عمر رضي الله عنهما قال :خطب عمر على منبر رسول الله صلى الله عليه و سلم
+> فقال إنه قد نزل تحريم الخمر وهي من خمسة أشياء العنب والتمر والحنطة
+> والشعير والعسل والخمر ما خامر العقل . وثلاث وددت أن رسول الله صلى الله
+> عليه و سلم لم يفارقنا حتى يعهد إلينا عهدا الجد والكلالة وأبواب من
+> أبواب الربا
 
 Ahmad b. Abi Rajah – Yahya – Abu Hayyan al-Tamimi – Shu’bi – Ibn ‘Umar,
 may Allah be pleased with them both:
@@ -194,13 +158,9 @@ therefore the chief religious authority of the Muslims, was asked a
 beginner’s question by one of his subjects. It however turned out that
 the *khalifah* actually had no clue! Allah states:
 
-<blockquote dir="rtl">
-  <p>
-فلينظر الإنسان إلى طعامه أنا صببنا الماء صبا ثم شققنا الأرض شقا
-فأنبتنا فيها حبا وعنبا وقضبا وزيتونا ونخلا وحدائق غلبا وفاكهة وأبا
-متاعا لكم ولأنعامكم
-  </p>
-</blockquote>
+> فلينظر الإنسان إلى طعامه أنا صببنا الماء صبا ثم شققنا الأرض شقا
+> فأنبتنا فيها حبا وعنبا وقضبا وزيتونا ونخلا وحدائق غلبا وفاكهة وأبا
+> متاعا لكم ولأنعامكم
 
 That We pour forth water in abundance, and We split the earth in clefts,
 and We cause therein the grain to grow, and grapes and clover plants,
@@ -209,28 +169,16 @@ fruits and **herbage**, a benefit for you and your cattle.[^9]
 
 The above verse is in plain Arabic. Allah reveals about His Book:
 
-<blockquote dir="rtl">
-  <p>
-هذا لسان عربي مبين
-  </p>
-</blockquote>
+> هذا لسان عربي مبين
 
 This (Qur’an) is a **clear** Arabic tongue.[^10]
 
-<blockquote dir="rtl">
-  <p>
-إنا أنزلناه قرآنا عربيا لعلكم تعقلون
-  </p>
-</blockquote>
+> إنا أنزلناه قرآنا عربيا لعلكم تعقلون
 
 We have sent it down as **an Arabic Qur’an in order that you may
 understand**.[^11]
 
-<blockquote dir="rtl">
-  <p>
-إنا جعلناه قرآنا عربيا لعلكم تعقلون
-  </p>
-</blockquote>
+> إنا جعلناه قرآنا عربيا لعلكم تعقلون
 
 Verily, We have made it a Qur’an **in Arabic that you may be able to
 understand**.[^12]
@@ -246,15 +194,11 @@ explain to him?
 
 Al-Hafiz Ibn Hajar al-‘Asqalani (d. 852 H) records:
 
-<blockquote dir="rtl">
-  <p>
-ومن وجه آخر عن إبراهيم النخعي قال قرأ أبو بكر الصديق وفاكهة وأبا فقيل
-ما الأب فقيل كذا وكذا فقال أبو بكر ان هذا له التكلف أي أرض تقلني أو أي
-سماء تظلني إذا قلت في كتاب الله بما لا أعلم وهذا منقطع بين النخعي
-والصديق وأخرج أيضا من طريق إبراهيم التيمي ان أبا بكر سئل عن الأب ما هو
-فقال أي سماء تظلني فذكر مثله وهو منقطع أيضا لكن أحدهما يقوي الآخر
-  </p>
-</blockquote>
+> ومن وجه آخر عن إبراهيم النخعي قال قرأ أبو بكر الصديق وفاكهة وأبا فقيل
+> ما الأب فقيل كذا وكذا فقال أبو بكر ان هذا له التكلف أي أرض تقلني أو أي
+> سماء تظلني إذا قلت في كتاب الله بما لا أعلم وهذا منقطع بين النخعي
+> والصديق وأخرج أيضا من طريق إبراهيم التيمي ان أبا بكر سئل عن الأب ما هو
+> فقال أي سماء تظلني فذكر مثله وهو منقطع أيضا لكن أحدهما يقوي الآخر
 
 And it is narrated from another chain on the authority of Ibrahim
 al-Nakha’i:
@@ -282,17 +226,13 @@ interpreter of the divine Scripture.
 
 ‘Umar too had a similar condition. Imam al-Hakim (d. 403 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو عبد الله بن يعقوب ثنا إبراهيم بن عبد التميمي أنبأ يزيد بن
-هارون أنبأ حميد عن أنس وحدثنا أبو عبد الله حدثني أبي ثنا إسحاق أنبأ
-يعقوب بن إبراهيم بن سعد ثنا أبي عن صالح عن ابن شهاب أن أنس بن مالك رضي
-الله عنه أخبره أنه سمع عمر بن الخطاب رضي الله عنه يقول ـ { فأنبتنا
-فيها حبا \* وعنبا وقضبا \* وزيتونا ونخلا \* وحدائق غلبا \* وفاكهة وأبا
-} قال : فكل هذا قد عرفناه فما الأب ثم نقض عصا كانت في يده ؟ فقال : هذا
-لعمر الله التكلف اتبعوا ما تبين لكم من هذا الكتاب
-  </p>
-</blockquote>
+> حدثنا أبو عبد الله بن يعقوب ثنا إبراهيم بن عبد التميمي أنبأ يزيد بن
+> هارون أنبأ حميد عن أنس وحدثنا أبو عبد الله حدثني أبي ثنا إسحاق أنبأ
+> يعقوب بن إبراهيم بن سعد ثنا أبي عن صالح عن ابن شهاب أن أنس بن مالك رضي
+> الله عنه أخبره أنه سمع عمر بن الخطاب رضي الله عنه يقول ـ { فأنبتنا
+> فيها حبا \* وعنبا وقضبا \* وزيتونا ونخلا \* وحدائق غلبا \* وفاكهة وأبا
+> } قال : فكل هذا قد عرفناه فما الأب ثم نقض عصا كانت في يده ؟ فقال : هذا
+> لعمر الله التكلف اتبعوا ما تبين لكم من هذا الكتاب
 
 Abu ‘Abd Allah b. Ya’qub – Ibrahim al-Tamimi – Yazid b. Harun – Hamid –
 Anas:
@@ -311,33 +251,21 @@ what is clear to you from this Book**.”[^14]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^15]
 
 Al-Dhahabi (d. 748 H) concurs:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^16]
 
 For Allah’s sake, was it possible for Abu Bakr or ‘Umar to issue a
 challenge like this:
 
-<blockquote dir="rtl">
-  <p>
-لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول الله ، إلا أنبأتكم
-بذلك
-  </p>
-</blockquote>
+> لا تسألوني عن آية في كتاب الله ، ولا عن سنة عن رسول الله ، إلا أنبأتكم
+> بذلك
 
 You will not ask me about *ANY* verse in the Book of Allah, or about
 *ANY* Sunnah from the Messenger of Allah, except that I will inform you
@@ -390,5 +318,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 2, p.
 [^15]: Ibid
 
 [^16]: Ibid
-
 

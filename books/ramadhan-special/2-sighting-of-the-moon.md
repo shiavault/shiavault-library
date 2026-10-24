@@ -5,13 +5,11 @@ It is obligatory to see the first night moon of the holy month of
 Ramadhan. After seeing the first night moon turn towards Qiblah, raise
 your hands and recite:
 
-<p dir="rtl">
 رَبِّى وَ رَبُّكَ اللَّهُ رَبُّ الْعَالَمِينَ اللَّهُمَّ أَهِلَّهُ
 عَلَيْنَا بِالْأَمْنِ وَ الْإِيمَانِ وَ السَّلامَةِ وَ الْإِسْلامِ وَ
 الْمُسَارَعَةِ إِلَى مَا تُحِبُّ وَ تَرْضَى اللَّهُمَّ بَارِكْ لَنَا فِى
 شَهْرِنَا هَذَا وَ ارْزُقْنَا خَيْرَهُ وَ عَوْنَهُ وَ اصْرِفْ عَنَّا
 ضُرَّهُ وَ شَرَّهُ وَ بَلاءَهُ وَ فِتْنَتَهُ
-</p>
 
 Translation: My Lord and your Lord is Allah, the Lord of the worlds. O
 Allah for us let this month be a period of peace, faith, safety and
@@ -332,7 +330,6 @@ his Shias to recite this Du'a in this month, as angels listen to this
 Doa recited in this month and seek forgiveness for the reciter. This
 Excellent Du'a is as under:
 
-
 **Translation of the above Du'a**
 
 O Allah, I begin the glorification with praise of Thee; Thou, from Thy
@@ -573,5 +570,4 @@ Say ten times:
 
 In every optional prayer prayed in the night always recite Surah
 Al-Fatihah.
-
 

@@ -61,4 +61,3 @@ verb **دَحرَجَ**.
 
 [^1]: Mentioned in this book, for there are more.
 
-

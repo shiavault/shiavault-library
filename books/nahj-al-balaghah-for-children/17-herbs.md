@@ -29,4 +29,3 @@ due to his leanness!
 
 (Sermon 160)
 
-

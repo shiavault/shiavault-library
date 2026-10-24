@@ -243,4 +243,3 @@ needless of God?
 4. Taking the needs of human beings into consideration, how does the
 universal law of guidance relate to him or her?
 
-

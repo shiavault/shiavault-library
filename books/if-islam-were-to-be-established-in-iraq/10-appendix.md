@@ -103,7 +103,6 @@ it there is "Waive the punishments (if there were) uncertainties." 83The
 holy Qur'an: Table Spread [^5]: 95. 84The holy Qur'an: The Apartments
 [^49]: 13.
 
-
 "There is no merit for an Arab over a non-Arab and not for a red man
 over a black man except for righteousness." 7. The forthcoming
 government must adopt the policy of "alliance" or "friendship" with all
@@ -169,5 +168,4 @@ the leaders to Your path.
 Grant us through it the honour of this world and the hereafter.88
 
 Supplication of Eftitah.
-
 

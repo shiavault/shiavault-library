@@ -235,4 +235,3 @@ p. 65.
 [^8]: - Mizan al-Itidal, vol. 2, p. 357 and Tahdib al-Tahdib, vol. 3, p.
 4.
 
-

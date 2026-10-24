@@ -29,4 +29,3 @@ friends and foes knew that Fatima’s dissatisfaction is the
 dissatisfaction of Allah and His Prophet (peace be upon him and his
 descendants).
 
-

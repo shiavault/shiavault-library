@@ -4,11 +4,7 @@ Ahadith, the Traditions
 Hadith n. 1: The Location of Ascent
 -----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الإسراء والمعراج
-  </p>
-</blockquote>
+> الإسراء والمعراج
 
    
  Among the writers of history and the elucidators of the Holy Qur\` an
@@ -21,11 +17,7 @@ al‑Haram. Thus, the Mi’raj journey of the Prophet of Allah (S) was from
 Masjid al­-Haram to Masjid al‑Aqsa ‑ the Bayt al‑Muqaddas.  
   
 
-<blockquote dir="rtl">
-  <p>
-سبحان الذي أسرى
-  </p>
-</blockquote>
+> سبحان الذي أسرى
 
    
  This trip ‑ meaning the Mi’raj of the Noble Prophet (S) took place at
@@ -187,11 +179,7 @@ laugh as long as he was alive.
 the world. There, I saw an angel named Isma'il. He was the custodian of
 Khitfah which the Qur'an explains as follows:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ 
-  </p>
-</blockquote>
+> إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
 
 *"Some of them who covertly steal words from the heavens are pursued by
 a glistening flame.*" [^3]  
@@ -587,12 +575,8 @@ Ummah who have Taqwa." At that'time, I read the following verse of the
 Qur'an:  
   
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
-النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ
 
    
 *"Verily the best* of *people to Ibrahim are those who follow him and
@@ -663,11 +647,7 @@ Throne of Allah (SWT). Here I saw an Angel who was glorifying Allah
 (SWT) such:  
   
 
-<blockquote dir="rtl">
-  <p>
-سبحان ربي حيث ما كنت لا تدري أين ربُك من العظيم شأنه.
-  </p>
-</blockquote>
+> سبحان ربي حيث ما كنت لا تدري أين ربُك من العظيم شأنه.
 
  
 
@@ -679,12 +659,8 @@ would cover the east to the west of the Universe. Every morning he would
 open up his wings, rest against something and cry out such:  
   
 
-<blockquote dir="rtl">
-  <p>
-سبحان الله الملك القدُّوس. سبحان الله الكبير المتعال. لا إله إلا الله
-الحيّ القيوم.
-  </p>
-</blockquote>
+> سبحان الله الملك القدُّوس. سبحان الله الكبير المتعال. لا إله إلا الله
+> الحيّ القيوم.
 
    
  "Glory be to Allah, the King, the Holy. Glory be to Allah, the Great,
@@ -736,12 +712,8 @@ cover. I asked Jibra'il regarding this tree an he told me, "This is the
 tree of Tuba about which, Allah has said in the Qur'an:  
   
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَىٰ لَهُمْ وَحُسْنُ
-مَآبٍ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَىٰ لَهُمْ وَحُسْنُ
+> مَآبٍ
 
    
 *"...Tuba shall be theirs and a goodly return.* " [^8]  
@@ -772,11 +744,7 @@ measure of two bows or closer still." [^9]
  Allah (SWT) called out:  
   
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ
 
    
 *"The Prophet believes in that which His Lord has revealed unto him. "*
@@ -784,24 +752,16 @@ measure of two bows or closer still." [^9]
     
  On behalf of myself and my Ummah, I replied:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ
-وَرُسُلِهِ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ
+> وَرُسُلِهِ
 
    
 *"And the believers too, they all believe in Allah and His Angels and
 His Books and His Messengers. We do not differentiate between any of His
 Messengers. "*
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ
-الْمَصِيرُ
-  </p>
-</blockquote>
+> وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ
+> الْمَصِيرُ
 
    
 *"...And they say: We hear and we obey, Our Lord! Thy forgiveness (do we
@@ -810,11 +770,7 @@ crave), and to Thee is the eventual course. "*
  Allah (SWT) then said:  
   
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ
 
    
 *"Allah does not impose upon any soul a duty but to the extent* of its
@@ -824,11 +780,7 @@ evil of) what it has wrought"*
  Then I said:  
   
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ
-  </p>
-</blockquote>
+> رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ
 
    
 *"Our Lord! do not punish us if we forget or make a mistake! "*  
@@ -836,11 +788,7 @@ evil of) what it has wrought"*
  Allah (SWT) replied  
   
 
-<blockquote dir="rtl">
-  <p>
-لا أُو أخذك
-  </p>
-</blockquote>
+> لا أُو أخذك
 
    
 *"I will not punish you."*  
@@ -848,12 +796,8 @@ evil of) what it has wrought"*
  Then I continued:  
   
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى
-الَّذِينَ مِنْ قَبْلِنَا
-  </p>
-</blockquote>
+> رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى
+> الَّذِينَ مِنْ قَبْلِنَا
 
  
 
@@ -862,11 +806,7 @@ us! "*
     
  Allah (SWT) replied
 
-<blockquote dir="rtl">
-  <p>
-لا أحملك
-  </p>
-</blockquote>
+> لا أحملك
 
 * *
 
@@ -876,17 +816,13 @@ us! "*
  I once again said:  
   
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ
-وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا
-أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا
-حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا
-تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ
-لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ
-الْكَافِرِينَ
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ
+> وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا
+> أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا
+> حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا
+> تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ
+> لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ
+> الْكَافِرِينَ
 
  
 
@@ -897,11 +833,7 @@ art our Patron, so help us against the unbelieving people.* " [^11]
  Allah the Glorious and High said:  
   
 
-<blockquote dir="rtl">
-  <p>
-قد أعطيتك ذلك لك ولأمتك
-  </p>
-</blockquote>
+> قد أعطيتك ذلك لك ولأمتك
 
  
 
@@ -926,11 +858,7 @@ bestow upon me." Allah replied, "I give you the following two
 supplications which are under My Throne:"  
   
 
-<blockquote dir="rtl">
-  <p>
-لاحول ولا قوة إلا بالله – لا منجا منك إلا إليك
-  </p>
-</blockquote>
+> لاحول ولا قوة إلا بالله – لا منجا منك إلا إليك
 
    
 *"There is no power or strength save with Allah ‑ there is no saviour
@@ -948,12 +876,8 @@ Hadith n. 25: Supplication
 instructed me to recite it during the Morning and the Evening:  
   
 
-<blockquote dir="rtl">
-  <p>
-اللهم إن ظلمي أصبح مستجيراً بعفوك وذنبي مستجيرا بمغفرتك وذلي مستجيراً
-بوجهك الباقي الذي لا يفنى
-  </p>
-</blockquote>
+> اللهم إن ظلمي أصبح مستجيراً بعفوك وذنبي مستجيرا بمغفرتك وذلي مستجيراً
+> بوجهك الباقي الذي لا يفنى
 
    
 *"O' Allah! Verily I appeal for relief from my oppression through Your
@@ -974,11 +898,7 @@ busy reciting this Adhan. And up until now, 1 had not heard the Adhan
 being called out from the heavens. When he said:  
   
 
-<blockquote dir="rtl">
-  <p>
-الله أكبر الله أكبر
-  </p>
-</blockquote>
+> الله أكبر الله أكبر
 
  
 
@@ -992,11 +912,7 @@ being called out from the heavens. When he said:
  The Angel then said:  
   
 
-<blockquote dir="rtl">
-  <p>
-أشهد أن لا إله إلا الله أشهد أن لا إله إلا الله
-  </p>
-</blockquote>
+> أشهد أن لا إله إلا الله أشهد أن لا إله إلا الله
 
  
 
@@ -1014,11 +930,7 @@ other god."
  The call of:  
   
 
-<blockquote dir="rtl">
-  <p>
-أشهد أن محمد رسول الله أشهد أن محمد رسول الله
-  </p>
-</blockquote>
+> أشهد أن محمد رسول الله أشهد أن محمد رسول الله
 
  
 
@@ -1037,11 +949,7 @@ Servant and Prophet. I have appointed him as a Prophet."
 
  
 
-<blockquote dir="rtl">
-  <p>
-حيَّ على الصلاة حيَّ على الصلاة
-  </p>
-</blockquote>
+> حيَّ على الصلاة حيَّ على الصلاة
 
  
 
@@ -1058,11 +966,7 @@ his previous sins."
  The Muaddhin then said,  
   
 
-<blockquote dir="rtl">
-  <p>
-حيَّ على الفلاح حيَّ على الفلاح
-  </p>
-</blockquote>
+> حيَّ على الفلاح حيَّ على الفلاح
 
  
 
@@ -1268,5 +1172,4 @@ the office of the Grand Marja \` Ayatullah al‑ Uzma Hajn Nasir Makarim
 Shirazi)
 
 [^13]: Amali Saduq, Page 363, Section 69, Hadith 1
-
 

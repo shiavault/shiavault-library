@@ -154,4 +154,3 @@ post-independence regimes. From then until the early seventies, members
 of the Islamic movement were influenced mainly by the works of Mawdudi
 and Nadwi and by the writings of Sayyid Qutb.
 
-

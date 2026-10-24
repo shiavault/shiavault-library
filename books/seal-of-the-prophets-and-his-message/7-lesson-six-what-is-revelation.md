@@ -266,4 +266,3 @@ convey them to the inhabitants of the world.
 [^1]: Allama Muhammad Iqbal, The Reconstruction of Religious Thought in
 Islam, ed. M. Saeed Sheikh, Lahore, 1986, page 99.
 
-

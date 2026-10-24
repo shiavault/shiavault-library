@@ -275,4 +275,3 @@ it once will suffice.
 are dry and Tahir. if there is slight moisture on it, which does not,
 wet the site there is no objection.
 
-

@@ -10,23 +10,15 @@ over its head.
 
 Imam Ibn Hibban (d. 354 H), in his *Sahih*, records the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إن عليا مني وأنا منه وهو ولي كل مؤمن بعدي
-  </p>
-</blockquote>
+> إن عليا مني وأنا منه وهو ولي كل مؤمن بعدي
 
 Verily, ‘Ali is from me and I am from ‘Ali, and he is the *wali* of
 every believer after me.[^1]
 
 The *riwayah* is through this chain:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو يعلى حدثنا الحسن بن عمر بن شقيق حدثنا جعفر بن سليمان عن
-يزيد الرشك عن مطرف بن عبد الله بن الشخير عن عمران بن حصين
-  </p>
-</blockquote>
+> أخبرنا أبو يعلى حدثنا الحسن بن عمر بن شقيق حدثنا جعفر بن سليمان عن
+> يزيد الرشك عن مطرف بن عبد الله بن الشخير عن عمران بن حصين
 
 Abu Ya’la – al-Hasan b. ‘Umar b. Shaqiq – **Ja’far b. Sulayman** –
 **Yazid al-Rishk** – **Mutarrif b. ‘Abd Allah b. Shikhir** – ‘Imran b.
@@ -34,11 +26,7 @@ Hasin.[^2]
 
 Shaykh al-Arnaut says about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده قوي
-  </p>
-</blockquote>
+> إسناده قوي
 
 Its chain is strong.[^3]
 
@@ -46,24 +34,16 @@ This indicates the reliability of all the narrators. ‘Allamah al-Albani
 (d. 1420 H) confirms this when he says about the very same report, with
 the same chain:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^4]
 
 The *hadith* is also recorded in *Musnad Ahmad* with this chain:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرزاق وعفان المعنى وهذا حديث عبد
-الرزاق قالا ثنا جعفر بن سليمان قال حدثني يزيد الرشك عن مطرف بن عبد
-الله عن عمران بن حصين قال ... رسول الله صلى الله عليه و سلم .... دعوا
-عليا دعوا عليا ان عليا مني وأنا منه وهو ولي كل مؤمن بعدي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرزاق وعفان المعنى وهذا حديث عبد
+> الرزاق قالا ثنا جعفر بن سليمان قال حدثني يزيد الرشك عن مطرف بن عبد
+> الله عن عمران بن حصين قال ... رسول الله صلى الله عليه و سلم .... دعوا
+> عليا دعوا عليا ان عليا مني وأنا منه وهو ولي كل مؤمن بعدي
 
 **‘Abd Allah (b. Ahmad)** – **my father (Ahmad b. Hanbal)** – **‘Abd
 al-Razzaq** and **‘Affan al-Ma’ni**, and this is the *hadith* of ‘Abd
@@ -85,11 +65,7 @@ is a major narrator in *Sahih al-Bukhari*. So, ordinarily, Shaykh
 al-Arnaut should have absolutely no problem with the *sanad*. However,
 he does:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف
-  </p>
-</blockquote>
+> إسناده ضعيف
 
 Its chain is *dha’if* (weak).[^6]
 
@@ -98,18 +74,10 @@ that he has problem with ‘Abd Allah, his father Ahmad b. Hanbal (d. 241
 H) or ‘Abd al-Razzaq (d. 211 H)? Elsewhere in the same *Musnad*, this is
 how al-Arnaut comments about another chain of theirs:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبى ثنا عبد الرزاق قال ثنا سفيان عن الأعمش عن أبى
-وائل عن أم سلمة....
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبى ثنا عبد الرزاق قال ثنا سفيان عن الأعمش عن أبى
+> وائل عن أم سلمة....
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 **‘Abd Allah** – **my father (Ahmad b. Hanbal)** – **‘Abd al-Razzaq** –
 Sufyan – al-A’mash – Abu Wail – Umm Salamah....
@@ -136,18 +104,10 @@ only one of them is reliable and is fully connected to Ja’far, then the
 entire *sanad* is impeccable. But, look at this chain and al-Arnaut’s
 comment on it:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عفان ثنا جعفر بن سليمان ثنا ثابت عن أنس
-بن مالك ....
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عفان ثنا جعفر بن سليمان ثنا ثابت عن أنس
+> بن مالك ....
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم رجاله ثقات
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم رجاله ثقات
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – **‘Affan** – **Ja’far b.
 Sulayman** – Thabit – Anas b. Malik ....
@@ -157,18 +117,10 @@ narrators are trustworthy**.[^8]
 
 Similarly, Shaykh al-Arnaut says about another chain:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرزاق ثنا جعفر بن سليمان قال حدثني
-ثابت البناني عن أنس بن مالك .....
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرزاق ثنا جعفر بن سليمان قال حدثني
+> ثابت البناني عن أنس بن مالك .....
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط مسلم , رجاله ثقات
-  </p>
-</blockquote>
+> إسناده صحيح على شرط مسلم , رجاله ثقات
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – **‘Abd al-Razzaq** – **Ja’far
 b. Sulayman** – Thabit al-Banani – Anas b. Malik ....
@@ -188,14 +140,10 @@ refute him till the Hour!
 The second version of *Hadith al-Wilayah*, narrated by Buraydah, is
 equally documented in *Musnad Ahmad*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا بن نمير حدثني أجلح الكندي عن عبد الله بن
-بريدة عن أبيه بريدة قال .... فقال رسول الله صلى الله عليه و سلم لا تقع
-في علي فإنه منى وأنا منه وهو وليكم بعدي وانه منى وأنا منه وهو وليكم
-بعدي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا بن نمير حدثني أجلح الكندي عن عبد الله بن
+> بريدة عن أبيه بريدة قال .... فقال رسول الله صلى الله عليه و سلم لا تقع
+> في علي فإنه منى وأنا منه وهو وليكم بعدي وانه منى وأنا منه وهو وليكم
+> بعدي
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – Ibn Numayr – **Ajlah
 al-Kindi** – ‘Abd Allah b. Buraydah – his father Buraydah, who said:
@@ -206,11 +154,7 @@ me.[^10]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف بهذه السياقة من أجل أجلح الكندي
-  </p>
-</blockquote>
+> إسناده ضعيف بهذه السياقة من أجل أجلح الكندي
 
 Its chain is *dha’if* (weak) with this context due to **Ajlah
 al-Kindi**.[^11]
@@ -218,12 +162,8 @@ al-Kindi**.[^11]
 Really?! But, this is what this same al-Arnaut says about the same Ajlah
 in the same book:
 
-<blockquote dir="rtl">
-  <p>
-الأجلح - وهو ابن عبد الله الكندي - فقد روى له البخاري في " الأدب "
-وأصحاب السنن وهو صدوق
-  </p>
-</blockquote>
+> الأجلح - وهو ابن عبد الله الكندي - فقد روى له البخاري في " الأدب "
+> وأصحاب السنن وهو صدوق
 
 **Al-Ajlah** – and he is Ibn ‘Abd Allah **al-Kindi** – al-Bukhari has
 narrated from him in *al-Adab*, and the authors of the *Sunan* too (i.e.
@@ -233,18 +173,10 @@ al-Tirmidhi, Abu Dawud, Ibn Majah and al-Nasai). **And he is**
 How then can anyone grade his *hadith* as *dha’if*? Interestingly,
 elsewhere, al-Arnaut’s verdict changes:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا مصعب بن سلام سمعته من أبي مرتين ثنا
-الأجلح عن الذيال بن حرملة عن جابر بن عبد الله....
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا مصعب بن سلام سمعته من أبي مرتين ثنا
+> الأجلح عن الذيال بن حرملة عن جابر بن عبد الله....
 
-<blockquote dir="rtl">
-  <p>
-صحيح لغيره وهذا إسناد حسن
-  </p>
-</blockquote>
+> صحيح لغيره وهذا إسناد حسن
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – Mus’ab b. Salam – my father –
 **al-Ajlah** – al-Zayal b. Harmalah – Jabir b. ‘Abd Allah....
@@ -288,5 +220,4 @@ Muasassat Qurtubah) [annotator: Shu’ayb al-Arnaut], vol. 4, p. 437, \#
 [^12]: Ibid, vol. 3, p. 305, \# 14313
 
 [^13]: Ibid, vol. 3, p. 310, \# 14372
-
 

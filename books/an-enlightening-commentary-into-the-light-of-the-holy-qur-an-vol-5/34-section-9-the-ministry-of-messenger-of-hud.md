@@ -8,12 +8,8 @@ The punishment they suffered
 Surah Al-‘A’raf, Verse 65
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى عَادٍ أَخَاهُمْ هُوداً قَالَ يَا قَوْمِ اعْبُدُواْ اللّهَ مَا
-لَكُم مِّنْ إِلَـهٍ غَيْرُهُ أَفَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> وَإِلَى عَادٍ أَخَاهُمْ هُوداً قَالَ يَا قَوْمِ اعْبُدُواْ اللّهَ مَا
+> لَكُم مِّنْ إِلَـهٍ غَيْرُهُ أَفَلاَ تَتَّقُونَ
 
 **65.** ***"And unto (the people on 'Ad (We sent) their brother Hud. He
 said: ' O' my people! Serve*** ***Allah*** ***(alone), you have no god
@@ -57,25 +53,13 @@ they be afraid of rejecting the Divine religion.
 Surah Al-‘A’raf, Verses 66 - 68
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الْمَلأُ الَّذِينَ كَفَرُواْ مِن قَوْمِهِ إِنَّا لَنَرَاكَ فِي
-سَفَاهَةٍ وِإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ
-  </p>
-</blockquote>
+> قَالَ الْمَلأُ الَّذِينَ كَفَرُواْ مِن قَوْمِهِ إِنَّا لَنَرَاكَ فِي
+> سَفَاهَةٍ وِإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ لَيْسَ بِي سَفَاهَةٌ وَلَكِنِّي رَسُولٌ مِّن رَّبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ لَيْسَ بِي سَفَاهَةٌ وَلَكِنِّي رَسُولٌ مِّن رَّبِّ
+> الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-أُبَلِّغُكُمْ رِسَالاتِ رَبِّي وَأَنَاْ لَكُمْ نَاصِحٌ أَمِينٌ
-  </p>
-</blockquote>
+> أُبَلِّغُكُمْ رِسَالاتِ رَبِّي وَأَنَاْ لَكُمْ نَاصِحٌ أَمِينٌ
 
 **66. "*****The chiefs of those who disbelieved from among his people
 said: 'Verily we see you in folly, and verily we do think you to be of
@@ -122,14 +106,10 @@ adviser for you."***
 Surah Al-‘A’raf, Verse 69
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَعَجِبْتُمْ أَن جَاءكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ
-مِّنكُمْ لِيُنذِرَكُمْ وَاذكُرُواْ إِذْ جَعَلَكُمْ خُلَفَاء مِن بَعْدِ
-قَوْمِ نُوحٍ وَزَادَكُمْ فِي الْخَلْقِ بَسْطَةً فَاذْكُرُواْ آلاء
-اللّهِ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> أَوَعَجِبْتُمْ أَن جَاءكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ
+> مِّنكُمْ لِيُنذِرَكُمْ وَاذكُرُواْ إِذْ جَعَلَكُمْ خُلَفَاء مِن بَعْدِ
+> قَوْمِ نُوحٍ وَزَادَكُمْ فِي الْخَلْقِ بَسْطَةً فَاذْكُرُواْ آلاء
+> اللّهِ لَعَلَّكُمْ تُفْلِحُونَ
 
 **69. "*****What! do you wonder that an admonition has come to you from
 your Lord through a man from among you, that he might warn you*****?**
@@ -166,13 +146,9 @@ you may be prosperous."***
 Surah Al-‘A’raf, Verse 70
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُواْ أَجِئْتَنَا لِنَعْبُدَ اللّهَ وَحْدَهُ وَنَذَرَ مَا كَانَ
-يَعْبُدُ آبَاؤُنَا فَأْتِنَا بِمَا تَعِدُنَا إِن كُنتَ مِنَ
-الصَّادِقِينَ
-  </p>
-</blockquote>
+> قَالُواْ أَجِئْتَنَا لِنَعْبُدَ اللّهَ وَحْدَهُ وَنَذَرَ مَا كَانَ
+> يَعْبُدُ آبَاؤُنَا فَأْتِنَا بِمَا تَعِدُنَا إِن كُنتَ مِنَ
+> الصَّادِقِينَ
 
 **70. "*****They said:*** **'*****Have you come to us that we should
 serve*** ***Allah*** ***alone and give up what our fathers used to
@@ -194,14 +170,10 @@ you promise us to, if you are of the truthful ones'."***
 Surah Al-‘A’raf, Verse 71
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ
-أَتُجَادِلُونَنِي فِي أَسْمَاء سَمَّيْتُمُوهَا أَنتُمْ وَآبَآؤكُم مَّا
-نَزَّلَ اللّهُ بِهَا مِن سُلْطَانٍ فَانتَظِرُواْ إِنِّي مَعَكُم مِّنَ
-الْمُنتَظِرِينَ
-  </p>
-</blockquote>
+> قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ
+> أَتُجَادِلُونَنِي فِي أَسْمَاء سَمَّيْتُمُوهَا أَنتُمْ وَآبَآؤكُم مَّا
+> نَزَّلَ اللّهُ بِهَا مِن سُلْطَانٍ فَانتَظِرُواْ إِنِّي مَعَكُم مِّنَ
+> الْمُنتَظِرِينَ
 
 **71.** ***"He (Hud) said: "There have already fallen you punishment and
 wrath from your Lord. Do you dispute with me about names which you and
@@ -244,12 +216,8 @@ for, too.
 Surah Al-‘A’raf, Verse 72
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا
-دَابِرَ الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَمَا كَانُواْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا
+> دَابِرَ الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَمَا كَانُواْ مُؤْمِنِينَ
 
 **72.** ***"So We delivered him and those who were with him by a mercy
 from Us, and We cut away the roots of those who belied Our Signs and
@@ -270,5 +238,4 @@ that they would not have believed if they had remained more.
 
 It is understood from this verse that the people of Hud were caught by
 the punishment of Allah*,* and they were destroyed.
-
 

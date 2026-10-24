@@ -81,4 +81,3 @@ remarks, we shall be concerned with the most significant points, and
 postpone further investigation to the occasion of more extensive
 discussion.
 
-

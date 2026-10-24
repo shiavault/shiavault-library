@@ -121,4 +121,3 @@ al­Al* (MS.). An eminent scholar. [^6]
 
 [^6]: Idem., al-Taj al-­mukallal, 509.
 
-

@@ -1085,4 +1085,3 @@ List of scale fish
 [^1]: Quoted from Dalilu 'l-Muslim fi Biladi 'l-Ghurba, p. 111 ff with
 modifications.
 
-

@@ -1276,4 +1276,3 @@ al-Balagha, Sermon 182).
 [^55]: Nahj al-Balagha, Sermon 182. Also cf. The Encyclopedia Amir
 al-Mu’minin, VII, 167.
 
-

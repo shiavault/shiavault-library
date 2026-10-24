@@ -236,4 +236,3 @@ Gradually illusions of Yazid's good intentions were dispelled. It was
 fear of revolt that caused Yazid to release the members of the family of
 the Holy Prophet [s.a.w.]. 
 
-

@@ -124,4 +124,3 @@ true way of being a real Shiah.
 
 [^4]: Al-Kafi, Vol 1, p. 376.
 
-

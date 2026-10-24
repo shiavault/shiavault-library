@@ -30,11 +30,7 @@ person with utmost dignity.
 In his Al-Du’afa Wa Al-Matrukin, he, nevertheless, ignoring his being a
 Sunni, says:
 
-<blockquote dir="rtl">
-  <p>
-ماسلم من الكلام لاجل مسأله اللفظ تركه لاجلها الرازيان
-  </p>
-</blockquote>
+> ماسلم من الكلام لاجل مسأله اللفظ تركه لاجلها الرازيان
 
 Because of his belief in the Holy Qur’an as being created, people spoke
 ill of him and that was why Abu Zar’ah Razi and Abu Hatam Razi refrained
@@ -258,21 +254,13 @@ from the war booties and) took bath I told Khalid: Do you not see this?
 When we came back, I related the story to the Prophet (S). The Holy
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-یا بریده أتبغض علیا؟
-  </p>
-</blockquote>
+> یا بریده أتبغض علیا؟
 
 O’ Barida! Do you hate Ali? I said: Yes.
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-لا نبغضه فإن له فى الخمس أكثر من ذلك
-  </p>
-</blockquote>
+> لا نبغضه فإن له فى الخمس أكثر من ذلك
 
 Do not hate him for his share of khums is more than this.
 
@@ -322,11 +310,7 @@ He sent me as a witness. When the letter was read to the Holy Prophet
 (S) I confirmed it. It was at this moment that the Holy Prophet (S) took
 my hand saying:
 
-<blockquote dir="rtl">
-  <p>
-أتبغض علیا؟
-  </p>
-</blockquote>
+> أتبغض علیا؟
 
 Do you make enmity towards Ali?
 
@@ -334,12 +318,8 @@ I said: Yes.
 
 He said:
 
-<blockquote dir="rtl">
-  <p>
-فلا تبغضه وان كنت تحبه فازدد له حبا فو الذى نفس محمد بيده لنصيب آل على
-فى الخمس افضل من وصيفه
-  </p>
-</blockquote>
+> فلا تبغضه وان كنت تحبه فازدد له حبا فو الذى نفس محمد بيده لنصيب آل على
+> فى الخمس افضل من وصيفه
 
 Do not make enmity towards him. If you befriend him improve your
 friendship. By Allah in whose hand is Muhammad’s life the share of Ali’s
@@ -460,13 +440,9 @@ views of those who are skeptic about
 
 Ghadir tradition no matter who they are. Badakhshi, for example, says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث مشهور و لم تكلم فى صحته الا متعصب جاحد لا اعتبار بقوله فلن
-الحديث كثير الطرق جدا و قد استوعبها ابن عقده فى كتاب مفرد و قد نص
-الذهبى على كثير من طرقه بالصحه ورواه من الصحابه عدد كثير
-  </p>
-</blockquote>
+> هذا حديث مشهور و لم تكلم فى صحته الا متعصب جاحد لا اعتبار بقوله فلن
+> الحديث كثير الطرق جدا و قد استوعبها ابن عقده فى كتاب مفرد و قد نص
+> الذهبى على كثير من طرقه بالصحه ورواه من الصحابه عدد كثير
 
 This is an authentic and famous tradition[^23]. Those who cast doubt
 about its authenticity, are prejudiced and deny the truth. Their words
@@ -565,11 +541,7 @@ should love the Holy Prophet’s progeny more than one loves oneself. One
 of the traditions that one can mention here is the tradition narrated by
 Bayhaqi, Abu Al-Sheikh and Daylami. The Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-لايومن احد حتى اكون احب اله من نفسه و یكون عتى احب اليه من نفسه
-  </p>
-</blockquote>
+> لايومن احد حتى اكون احب اله من نفسه و یكون عتى احب اليه من نفسه
 
 No one is a believer unless he loves me and my progeny more than
 himself.
@@ -577,22 +549,14 @@ himself.
 Tirmidhi and Hakim have also narrated from Ibn Abas that he has quoted
 the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-احبوا اهل بيتى بحبى
-  </p>
-</blockquote>
+> احبوا اهل بيتى بحبى
 
 Love my progeny on account of loving me.
 
 Sunni scholars are of the view that anyone who does not love the Holy
 Prophet’s progeny betrays him, whereas the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَخُونُوا اللَّـهَ وَالرَّسُولَ
-  </p>
-</blockquote>
+> لَا تَخُونُوا اللَّـهَ وَالرَّسُولَ
 
 ***Do not betray Allah and the Apostle.*** [^28]
 
@@ -600,17 +564,9 @@ Likewise, anyone who makes enmity towards the Hoy Prophet’s progeny,
 makes enmity, in fact, towards the Apostle of Allah. A poet has
 beautifully described this, composing:
 
-<blockquote dir="rtl">
-  <p>
-فلا تعدل باهل البيت خلقا ---- فأهل الييت هم آهل السعاده
-  </p>
-</blockquote>
+> فلا تعدل باهل البيت خلقا ---- فأهل الييت هم آهل السعاده
 
-<blockquote dir="rtl">
-  <p>
-فبغضهم من الإنسان خسر ---- حقيقى و حبهم عباده
-  </p>
-</blockquote>
+> فبغضهم من الإنسان خسر ---- حقيقى و حبهم عباده
 
 Do not consider anyone as equal to Prophet’s progeny
 
@@ -1012,5 +968,4 @@ and Narrator no. 1832.
 [^38]: Mir’at Al-Junan, vol.1, p. 352.
 
 [^39]: See Lisan Al-Mizan, vol. 6, p. 43 for his life.
-
 

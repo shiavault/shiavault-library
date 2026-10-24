@@ -13,11 +13,7 @@ descendants and the renouncing of homosexuality is a means of increasing
 the progeny.
 
 > 2ـ وتَرْكَ الزِّنا تَحْصيناً لِلأنْسابِ وتَرْكَ اللِّواطِ تَكْثيراً
-<blockquote dir="rtl">
-  <p>
-للنَّسْلِ.
-  </p>
-</blockquote>
+> للنَّسْلِ.
 
 3. A dignified person would never commit adultery.
 
@@ -26,5 +22,4 @@ the progeny.
 4. A chaste person does not commit adultery.
 
 > 4ـ ما زَنى عَفيفٌ.
-
 

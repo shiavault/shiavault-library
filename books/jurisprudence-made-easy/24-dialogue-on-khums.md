@@ -232,4 +232,3 @@ although he might not  spend it in a haraam act.  It is also not
 permissible to give khums money to those who forsake prayer, consume
 intoxicants, and flagrantly flout religious injunctions].
 
-

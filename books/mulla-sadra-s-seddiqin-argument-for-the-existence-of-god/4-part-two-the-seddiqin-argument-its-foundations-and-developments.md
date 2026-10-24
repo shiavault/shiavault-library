@@ -97,4 +97,3 @@ argument. I believe that if we may contemplate on philosophical subject
 not as only empirical facts of the world but deeper contemplation in
 reality it will be possible for us to capture this new vision.
 
-

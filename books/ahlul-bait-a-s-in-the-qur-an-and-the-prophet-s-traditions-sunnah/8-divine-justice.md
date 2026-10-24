@@ -74,4 +74,3 @@ ways:
 "And pointed out to him the two conspicuous ways." "We have shown him
 the way whether he be grateful or disbelieving."
 
-

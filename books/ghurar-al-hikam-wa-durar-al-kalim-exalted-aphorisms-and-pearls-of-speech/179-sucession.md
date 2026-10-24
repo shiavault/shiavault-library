@@ -7,10 +7,5 @@ Sucession
 by companionship [only] and not by companionship and kinship.
 
 > 1ـ واعَجَبا أنْ تَـكُونَ الخِلافَةُ بِالصَّحابَةِ ولا تَـكُونَ
-<blockquote dir="rtl">
-  <p>
-بِالصَّحابَةِ والقَرابَةِ.
-  </p>
-</blockquote>
-
+> بِالصَّحابَةِ والقَرابَةِ.
 

@@ -353,4 +353,3 @@ Refer to Sahih al- Bukhari's book 2/60. But outside the Prophet's house,
 as you will see in the following pages, 'A'ishah spent all her life
 promoting the interests of her relatives and party.
 
-

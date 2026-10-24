@@ -46,7 +46,6 @@ published by Aeteqaad Publishing House, Delhi. It is in 2 volumes. The
 52nd part of the second volume is concerning Imam Mahdi (as) and
 comprises of 18 topics.
 
-
 **Traditions about Imam Mahdi (a.s.)**
 
 Ibne Khaldun has quoted twenty one traditions from the companions, and
@@ -71,7 +70,6 @@ tradition. The tradition will now no longer fit the criteria of
 authenticity. (Muqaddamah, 2/158)
 
 **Reminder**
-
 
 From the above it becomes clear that the respected Allamah rejects all
 traditions wherein the narrator is doubted (Muqaddamah, 2/158) directed
@@ -224,5 +222,4 @@ author very proficiently proves the traditions concerning Mahdi
 authentic and exposes Ibne Khaldun.
 
 O Almighty ! Protect all Muslims from deviation.
-
 

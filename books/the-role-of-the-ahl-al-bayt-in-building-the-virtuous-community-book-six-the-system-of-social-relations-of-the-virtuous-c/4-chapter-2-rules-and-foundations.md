@@ -143,12 +143,8 @@ In two books entitled *Man-la-Yahdhuruhul-Faqih* and *Thawab al-A’mal*,
 Shaykh al-Saduq has reported through a valid chain of authority on the
 authority of Shu’ayb al-’Aqarqufi that Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَلَكَ نَفْسَهُ إِذَا رَغِبَ وَإِذَا رَهِبَ وَإِذَا اشْتَهَى
-وَإِذَا غَضِبَ وَإِذَا رَضِيَ حَرَّمَ اللهُ جَسَدَهُ عَلَى النَّارِ.
-  </p>
-</blockquote>
+> مَنْ مَلَكَ نَفْسَهُ إِذَا رَغِبَ وَإِذَا رَهِبَ وَإِذَا اشْتَهَى
+> وَإِذَا غَضِبَ وَإِذَا رَضِيَ حَرَّمَ اللهُ جَسَدَهُ عَلَى النَّارِ.
 
 *Whoever controls himself when he desires, fears, craves, or becomes
 angry, Almighty Allah shall ban Hellfire from consuming his body.*[^1]
@@ -157,13 +153,9 @@ According to another tradition that is reported by Shaykh al-Kulayni in
 *al-Kafi* through a valid chain of authority on the authority of Safwan
 al-Jammal, Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُ الَّذِي إِذَا غَضِبَ لَمْ يُخْرِجْهُ غَضَبُهُ
-مِنْ حَقٍّ، وَإِذَا رَضِيَ لَمْ يُدْخِلْهُ رِضَاهُ فِي بَاطِلٍ،
-وَإِذَا قَدَرَ لَمْ يَأْخُذْ أَكْثَرَ مِمَّا لَهُ.
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُ الَّذِي إِذَا غَضِبَ لَمْ يُخْرِجْهُ غَضَبُهُ
+> مِنْ حَقٍّ، وَإِذَا رَضِيَ لَمْ يُدْخِلْهُ رِضَاهُ فِي بَاطِلٍ،
+> وَإِذَا قَدَرَ لَمْ يَأْخُذْ أَكْثَرَ مِمَّا لَهُ.
 
 *A true faithful believer is he whose rage does not induce him to
 abandon what is right, whose* *approval (of something) does not induce
@@ -191,16 +183,12 @@ goal of their existence by controlling emotions during interaction.
 In an authentic tradition, the Holy Prophet (S) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ سُبْحَانَهُ وَتَعَالَى خَلَقَ الْعَقْلَ ثُمَّ قَالَ لَهُ:
-أَقْبِلْ. فَأَقْبَلَ. ثُمَّ قَالَ لَهُ: أَدْبِرْ. فَأَدْبَرَ. ثُمَّ
-قَالَ: وَعِزَّتِي وَجَلاَلِي، مَا خَلَقْتُ خَلْقاً هُوَ أَحَبَّ
-إِلَيَّ مِنْكَ، وَلاَ أَكْمَلْتُكَ إِلاَّ فِي مَنْ أُحِبُّ. أَمَا
-إِنِّي إِيَّاكَ آمُرُ، وَإِيَّاكَ أَنْهَى، وَإِيَّاكَ أُعَاقِبُ،
-وَإِيَّاكَ أُثِيبُ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ سُبْحَانَهُ وَتَعَالَى خَلَقَ الْعَقْلَ ثُمَّ قَالَ لَهُ:
+> أَقْبِلْ. فَأَقْبَلَ. ثُمَّ قَالَ لَهُ: أَدْبِرْ. فَأَدْبَرَ. ثُمَّ
+> قَالَ: وَعِزَّتِي وَجَلاَلِي، مَا خَلَقْتُ خَلْقاً هُوَ أَحَبَّ
+> إِلَيَّ مِنْكَ، وَلاَ أَكْمَلْتُكَ إِلاَّ فِي مَنْ أُحِبُّ. أَمَا
+> إِنِّي إِيَّاكَ آمُرُ، وَإِيَّاكَ أَنْهَى، وَإِيَّاكَ أُعَاقِبُ،
+> وَإِيَّاكَ أُثِيبُ.
 
 *When Almighty Allah created the intellect (i.e. reason), He ordered it
 to come. So, the intellect did. He then ordered it to leave, and the
@@ -216,16 +204,12 @@ favored.
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَيْهِ
-السَّلاَمُ: إِنَّ اللهَ رَكَّبَ فِي الْمَلاَئِكَةِ عَقْلاً بِلاَ
-شَهْوَةٍ، وَرَكَّبَ فِي الْبَهَائِمِ شَهْوَةً بِلاَ عَقْلٍ، وَرَكَّبَ
-فِي بَنِي آدَمَ كِلَيْهِمَا. فَمَنْ غَلَبَ عَقْلُهُ شَهْوَتَهُ فَهُوَ
-خَيْرٌ مِنَ الْمَلاَئِكَةِ، وَمَنْ غَلَبَتْ شَهْوَتُهُ عَقْلَهُ فَهُوَ
-شَرٌّ مِنَ الْبَهَائِمِ.
-  </p>
-</blockquote>
+> قَالَ أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَيْهِ
+> السَّلاَمُ: إِنَّ اللهَ رَكَّبَ فِي الْمَلاَئِكَةِ عَقْلاً بِلاَ
+> شَهْوَةٍ، وَرَكَّبَ فِي الْبَهَائِمِ شَهْوَةً بِلاَ عَقْلٍ، وَرَكَّبَ
+> فِي بَنِي آدَمَ كِلَيْهِمَا. فَمَنْ غَلَبَ عَقْلُهُ شَهْوَتَهُ فَهُوَ
+> خَيْرٌ مِنَ الْمَلاَئِكَةِ، وَمَنْ غَلَبَتْ شَهْوَتُهُ عَقْلَهُ فَهُوَ
+> شَرٌّ مِنَ الْبَهَائِمِ.
 
 *Ali ibn Abi-Talib, the Commander of the Faithful, (‘a) said: Almighty
 Allah installed in angels reason without appetite, and in beasts
@@ -279,24 +263,16 @@ The Ahl al-Bayt (‘a) emphasized justice and fair play as the basis of
 the social system in general and in social relations in particular. Imam
 al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إِتَّقُوا اللهَ وَاعْدِلُوا، فَإِنَّكُمْ تَعِيبُونَ عَلَى قَوْمٍ لاَ
-يَعْدِلُونَ.
-  </p>
-</blockquote>
+> إِتَّقُوا اللهَ وَاعْدِلُوا، فَإِنَّكُمْ تَعِيبُونَ عَلَى قَوْمٍ لاَ
+> يَعْدِلُونَ.
 
 *Fear Allah and act justly yourselves, for you are censuring people who
 do not establish justice.*[^6]
 
 He (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْعَدْلُ أَحْلَى مِنَ الشَّهْدِ، وَأَلْيَنُ مِنَ الزُّبْدِ،
-وَأَطْيَبُ رِيحاً مِنَ الْمِسْكِ.
-  </p>
-</blockquote>
+> الْعَدْلُ أَحْلَى مِنَ الشَّهْدِ، وَأَلْيَنُ مِنَ الزُّبْدِ،
+> وَأَطْيَبُ رِيحاً مِنَ الْمِسْكِ.
 
 *Justice is sweeter than honey, softer than butter, and more fragrant
 than musk.*[^7]
@@ -309,13 +285,9 @@ disequilibrium in the accurate criteria of social relations.
 
 Imam Muhammad al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ أَحَدٍ يَظْلِمُ مَظْلَمَةً إِلاَّ أَخَذَهُ اللهُ بِهَا فِي
-نَفْسِهِ وَمَالِهِ، فَأَمَّا الظُّلْمُ الَّذِي بَيْنَهُ وَبَيْنَ اللهِ
-فَإِذَا تَابَ غُفِرَ لَهُ.
-  </p>
-</blockquote>
+> مَا مِنْ أَحَدٍ يَظْلِمُ مَظْلَمَةً إِلاَّ أَخَذَهُ اللهُ بِهَا فِي
+> نَفْسِهِ وَمَالِهِ، فَأَمَّا الظُّلْمُ الَّذِي بَيْنَهُ وَبَيْنَ اللهِ
+> فَإِذَا تَابَ غُفِرَ لَهُ.
 
 *No one commits a wrongdoing but that Almighty Allah shall punish him
 for it in his personal affairs or property. As for wrongdoings that one
@@ -324,12 +296,8 @@ when the wrongdoer repents.*[^8]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مَظْلَمَةٍ أَشَدُّ مِنْ مَظْلَمَةٍ لاَ يَجِدُ صَاحِبُهَا
-عَلَيْهَا عَوْناً إِلاَّ اللهُ.
-  </p>
-</blockquote>
+> مَا مِنْ مَظْلَمَةٍ أَشَدُّ مِنْ مَظْلَمَةٍ لاَ يَجِدُ صَاحِبُهَا
+> عَلَيْهَا عَوْناً إِلاَّ اللهُ.
 
 *No act of injustice is graver than wronging one who has no helping
 power to repel it save Almighty Allah.*[^9]
@@ -338,16 +306,12 @@ Abu-Basir has reported that two disputing men visited Imam al-Sadiq (‘a)
 and each one put forward his claim. After he had heard both of them, the
 Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَا إِنَّهُ مَا ظَفَرَ بِخَيْرٍ مَنْ ظَفَرَ بِالظُّلْمِ. أَمَا إِنَّ
-الْمَظْلُومَ يَأْخُذُ مِنْ دِينِ الظَّالِمِ أَكْثَرَ مِمَّا يَأْخُذُ
-الظَّالِمُ مِنْ مَالِ الْمَظْلُومِ. مَنْ يَفْعَلِ الشَّرَّ بِالنَّاسِ
-فَلاَ يُنْكِرِ الشَّرَّ إِذَا فُعِلَ بِهِ. أَمَا إِنَّهُ يَحْصِدُ
-ابْنُ آدَمَ مَا يَزْرَعُ، وَلَيْسَ يَحْصِدُ أَحَدٌ مِنَ الْمُرِّ
-حُلْواً، وَلاَ مِنَ الْحُلْوِ مُرّاً.
-  </p>
-</blockquote>
+> أَمَا إِنَّهُ مَا ظَفَرَ بِخَيْرٍ مَنْ ظَفَرَ بِالظُّلْمِ. أَمَا إِنَّ
+> الْمَظْلُومَ يَأْخُذُ مِنْ دِينِ الظَّالِمِ أَكْثَرَ مِمَّا يَأْخُذُ
+> الظَّالِمُ مِنْ مَالِ الْمَظْلُومِ. مَنْ يَفْعَلِ الشَّرَّ بِالنَّاسِ
+> فَلاَ يُنْكِرِ الشَّرَّ إِذَا فُعِلَ بِهِ. أَمَا إِنَّهُ يَحْصِدُ
+> ابْنُ آدَمَ مَا يَزْرَعُ، وَلَيْسَ يَحْصِدُ أَحَدٌ مِنَ الْمُرِّ
+> حُلْواً، وَلاَ مِنَ الْحُلْوِ مُرّاً.
 
 *Truly, I say, he that gains something by unjust means has in fact
 gained no benefit. Verily, the wronged party seizes from the faith of
@@ -381,12 +345,8 @@ even if it is against oneself.
 Imam Ja’far al-Sadiq (‘a) is reported to have quoted the Holy Prophet
 (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدُ الأَعْمَالِ إِنْصَافُ النَّاسِ مِنْ نَفْسِكَ وَمُوَاسَاةُ
-الأَخِ فِي اللهِ وَذِكْرُ اللهِ عَلَى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> سَيِّدُ الأَعْمَالِ إِنْصَافُ النَّاسِ مِنْ نَفْسِكَ وَمُوَاسَاةُ
+> الأَخِ فِي اللهِ وَذِكْرُ اللهِ عَلَى كُلِّ حَالٍ.
 
 *Three acts are the masters of all deeds: (1) to treat people fairly
 even if it is against oneself, (2) to be cordial with your brothers in
@@ -395,12 +355,8 @@ faith, and (3) to praise Almighty Allah in all circumstances.*[^11]
 Imam al-Sadiq (‘a) is also reported to have quoted the Holy Prophet (S)
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَاسَى الْفَقِيرَ مِنْ مَالِهِ وَأَنْصَفَ النَّاسَ مِنْ نَفْسِهِ
-فَذَلِكَ الْمُؤْمِنُ حَقّاً.
-  </p>
-</blockquote>
+> مَنْ وَاسَى الْفَقِيرَ مِنْ مَالِهِ وَأَنْصَفَ النَّاسَ مِنْ نَفْسِهِ
+> فَذَلِكَ الْمُؤْمِنُ حَقّاً.
 
 *He who financially comforts the poor from his wealth and gives people
 their dues, even if it be against his own interests, is a true and
@@ -408,15 +364,11 @@ faithful believer.*[^12]
 
 Abu-’Ubaydah al-Hadhdha' has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ أُخْبِرُكَ بِأَشَدَّ مَا افْتَرَضَ اللهُ عَلَى خَلْقِهِ؟
-إِنْصَافُ النَّاسِ مِنْ أَنْفُسِهِمْ وَمُوَاسَاةُ الإِخْوَانِ فِي
-اللهِ عَزَّ وَجَلَّ وَذِكْرُ اللهِ عَزَّ وَجَلَّ عَلَى كُلِّ حَالٍ،
-فَإِنْ عَرَضَتْ لَهُ طَاعَةٌ عَمِلَ بِهَا وَإِنْ عَرَضَتْ لَهُ
-مَعْصِيَةٌ تَرَكَهَا.
-  </p>
-</blockquote>
+> أَلاَ أُخْبِرُكَ بِأَشَدَّ مَا افْتَرَضَ اللهُ عَلَى خَلْقِهِ؟
+> إِنْصَافُ النَّاسِ مِنْ أَنْفُسِهِمْ وَمُوَاسَاةُ الإِخْوَانِ فِي
+> اللهِ عَزَّ وَجَلَّ وَذِكْرُ اللهِ عَزَّ وَجَلَّ عَلَى كُلِّ حَالٍ،
+> فَإِنْ عَرَضَتْ لَهُ طَاعَةٌ عَمِلَ بِهَا وَإِنْ عَرَضَتْ لَهُ
+> مَعْصِيَةٌ تَرَكَهَا.
 
 *May I tell you about the most difficult duty that Almighty Allah has
 imposed on His creatures? It is to give others their rights against
@@ -431,31 +383,23 @@ their brethren-in-faith whatever they loved for themselves.
 This instruction can be evidently seen in Imam ‘Ali’s instructive letter
 to his son, Imam Hasan (‘a), in which he said:
 
-<blockquote dir="rtl">
-  <p>
-فَأَحْبِبْ لِغَيْرِكَ مَا تُحِبُّ لِنَفْسِكَ وَاكْرَهْ لَهُ مَا
-تَكْرَهُ لَهَا.
-  </p>
-</blockquote>
+> فَأَحْبِبْ لِغَيْرِكَ مَا تُحِبُّ لِنَفْسِكَ وَاكْرَهْ لَهُ مَا
+> تَكْرَهُ لَهَا.
 
 *Love for the others whatever you love for yourself and hate for them
 whatever you hate for yourself.*[^14]
 
 Imam al-Sadiq (‘a) also said:
 
-<blockquote dir="rtl">
-  <p>
-أَوْحَى اللهُ عَزَّ وَجَلَّ إِلَى آدَمَ: إِنِّي سَأَجْمَعُ لَكَ
-الْكَلاَمَ فِي أَرْبَعِ كَلِمَاتٍ: وَاحِدَةٌ لِي، وَوَاحِدَةٌ لَكَ،
-وَوَاحِدَةٌ فَي مَا بَيْنِي وَبَيْنَكَ، وَوَاحِدَةٌ فِي مَا بَيْنَكَ
-وَبَيْنَ النَّاسِ… أَمَّا الَّتِي لِي فَتَعْبُدُنِي لاَ تُشْرِكُ بِي
-شَيْئاً. وَأَمَّا الَّتِي لَكَ فَأَجْزِيكَ بِعَمَلِكَ أَحْوَجَ مَا
-تَكُونُ إِلَيْهِ. وَأَمَّا الَّتِي بَيْنِي وَبَيْنَكَ فَعَلَيْكَ
-الدُّعَاءُ وَعَلَيَّ الإِجَابَةُ. وَأَمَّا الَّتِي بَيْنَكَ وَبَيْنَ
-النَّاسِ فَتَرْضَى لِلنَّاسِ مَا تَرْضَى لِنَفْسِكَ وَتَكْرَهُ لَهُمْ
-مَا تَكْرَهُ لِنَفْسِكَ.
-  </p>
-</blockquote>
+> أَوْحَى اللهُ عَزَّ وَجَلَّ إِلَى آدَمَ: إِنِّي سَأَجْمَعُ لَكَ
+> الْكَلاَمَ فِي أَرْبَعِ كَلِمَاتٍ: وَاحِدَةٌ لِي، وَوَاحِدَةٌ لَكَ،
+> وَوَاحِدَةٌ فَي مَا بَيْنِي وَبَيْنَكَ، وَوَاحِدَةٌ فِي مَا بَيْنَكَ
+> وَبَيْنَ النَّاسِ… أَمَّا الَّتِي لِي فَتَعْبُدُنِي لاَ تُشْرِكُ بِي
+> شَيْئاً. وَأَمَّا الَّتِي لَكَ فَأَجْزِيكَ بِعَمَلِكَ أَحْوَجَ مَا
+> تَكُونُ إِلَيْهِ. وَأَمَّا الَّتِي بَيْنِي وَبَيْنَكَ فَعَلَيْكَ
+> الدُّعَاءُ وَعَلَيَّ الإِجَابَةُ. وَأَمَّا الَّتِي بَيْنَكَ وَبَيْنَ
+> النَّاسِ فَتَرْضَى لِلنَّاسِ مَا تَرْضَى لِنَفْسِكَ وَتَكْرَهُ لَهُمْ
+> مَا تَكْرَهُ لِنَفْسِكَ.
 
 *Almighty Allah, through revelation, addressed to Adam the following: I
 will summarize the whole wording for you in the following four
@@ -500,11 +444,7 @@ Imam al-Baqir (‘a) as relating the following:
 A Bedouin from the Banu-Tamim tribe came to the Holy Prophet (S) and
 asked for an advice. The Holy Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-تَحَبَّبْ إِلَى النَّاسِ يُحِبُّوكَ.
-  </p>
-</blockquote>
+> تَحَبَّبْ إِلَى النَّاسِ يُحِبُّوكَ.
 
 *Try to endear yourself to people and they will certainly love
 you.*[^16]
@@ -519,58 +459,38 @@ validly reported traditions that confirm these facts.
 
 Imam Muhammad al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْمَلَ الْمُؤْمِنِينَ إِيمَاناً أَحْسَنُهُمْ خُلُقاً.
-  </p>
-</blockquote>
+> إِنَّ أَكْمَلَ الْمُؤْمِنِينَ إِيمَاناً أَحْسَنُهُمْ خُلُقاً.
 
 *Certainly, the most faithful of the believers have the best
 manners.*[^18]
 
 Imam Ja’far al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْخُلُقَ الْحَسَنَ يُمِيثُ الْخَطِيئَةَ كَمَا تُمِيثُ الشَّمْسُ
-الْجَلِيدَ.
-  </p>
-</blockquote>
+> إِنَّ الْخُلُقَ الْحَسَنَ يُمِيثُ الْخَطِيئَةَ كَمَا تُمِيثُ الشَّمْسُ
+> الْجَلِيدَ.
 
 *Verily, good conduct dissolves sins in the same way that sunlight
 dissolves snow.*[^19]
 
 He (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ حُسْنَ الْخُلُقِ يَبْلُغُ بِصَاحِبِهِ دَرَجَةَ الصَّائِمِ
-الْقَائِمِ.
-  </p>
-</blockquote>
+> إِنَّ حُسْنَ الْخُلُقِ يَبْلُغُ بِصَاحِبِهِ دَرَجَةَ الصَّائِمِ
+> الْقَائِمِ.
 
 *Good manners promote to the rank of those who persistently observe
 fasting and spend their nights in acts of worship.*[^20]
 
 He (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَكْمَلُ النَّاسِ عَقْلاً أَحْسَنُهُمْ خُلُقاً.
-  </p>
-</blockquote>
+> أَكْمَلُ النَّاسِ عَقْلاً أَحْسَنُهُمْ خُلُقاً.
 
 *The wisest of all people are those with the best manners.*[^21]
 
 He (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ تَبَارَكَ وَتَعَالَى لَيُعْطِي الْعَبْدَ مِنَ الثَّوَابِ
-عَلَى حُسْنِ الْخُلُقِ كَمَا يُعْطِي الْمُجَاهِدَ فِي سَبِيلِ اللهِ
-يَغْدُو عَلَيْهِ وَيَرُوحُ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ تَبَارَكَ وَتَعَالَى لَيُعْطِي الْعَبْدَ مِنَ الثَّوَابِ
+> عَلَى حُسْنِ الْخُلُقِ كَمَا يُعْطِي الْمُجَاهِدَ فِي سَبِيلِ اللهِ
+> يَغْدُو عَلَيْهِ وَيَرُوحُ.
 
 *Verily, Almighty Allah grants his servants a reward for good conduct
 equal to the reward of one who is frequently engaged in jihad in the way
@@ -578,23 +498,15 @@ of Allah.*[^22]
 
 He (‘a) is also reported to have quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَمَرَنِي رَبِّي بِمُدَارَاةِ النَّاسِ كَمَا أَمَرَنِي بِالْفَرَائِضِ.
-  </p>
-</blockquote>
+> أَمَرَنِي رَبِّي بِمُدَارَاةِ النَّاسِ كَمَا أَمَرَنِي بِالْفَرَائِضِ.
 
 *Just as my Lord ordered me to persevere in obligatory (religious)
 duties, so also He ordered me to observe forbearance.*[^23]
 
 He (‘a) is also reported to have quoted the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مُدَارَاةُ النَّاسِ نِصْفُ الإِيمَانِ وَالرِّفْقُ بِهِمْ نِصْفُ
-الْعَيْشِ.
-  </p>
-</blockquote>
+> مُدَارَاةُ النَّاسِ نِصْفُ الإِيمَانِ وَالرِّفْقُ بِهِمْ نِصْفُ
+> الْعَيْشِ.
 
 *Treating people with moderation is half of one’s faith, and to be
 lenient towards them is half of one’s sustenance.*[^24]
@@ -615,11 +527,7 @@ even more tolerance.”[^25]
 Fudhayl ibn Yasar reported that he asked Imam al-Sadiq (‘a) whether to
 love and hate for Allah’s sake is part of faith. The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-وَهَلِ الإيمَانُ إلاَّ الْحُبُّ وَالبُغْضُ؟
-  </p>
-</blockquote>
+> وَهَلِ الإيمَانُ إلاَّ الْحُبُّ وَالبُغْضُ؟
 
 *Is true faith anything other than such love and hate?*
 
@@ -662,13 +570,9 @@ Almighty Allah and for His sake, as maintained by other traditions.
 
 Sallam ibn al-Mustanir has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-وِدُّ الْمُؤْمِنِ فِي اللهِ مِنْ أَعْظَمِ شُعَبِ الإيمَانِ. أَلاَ
-وَمَنْ أَحَبَّ فِي اللهِ وَأَبْغَضَ فِي اللهِ وَأَعْطَى فِي اللهِ
-وَمَنَعَ فِي اللهِ فَهُوَ مِنْ أَصْفِيَاءِ اللهِ.
-  </p>
-</blockquote>
+> وِدُّ الْمُؤْمِنِ فِي اللهِ مِنْ أَعْظَمِ شُعَبِ الإيمَانِ. أَلاَ
+> وَمَنْ أَحَبَّ فِي اللهِ وَأَبْغَضَ فِي اللهِ وَأَعْطَى فِي اللهِ
+> وَمَنَعَ فِي اللهِ فَهُوَ مِنْ أَصْفِيَاءِ اللهِ.
 
 *When a believer loves (others) for the sake of Almighty Allah, this
 becomes one of the greatest* *parts of faith. Verily, he who loves,
@@ -677,12 +581,8 @@ elite servants.*[^28]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أَوْثَقِ عُرَى الإِيمَانِ أَنْ تُحِبَّ فِي اللهِ، وَتُبْغِضَ فِي
-اللهِ، وَتُعْطِيَ فِي اللهِ، وَتَمْنَعَ فِي اللهِ.
-  </p>
-</blockquote>
+> مِنْ أَوْثَقِ عُرَى الإِيمَانِ أَنْ تُحِبَّ فِي اللهِ، وَتُبْغِضَ فِي
+> اللهِ، وَتُعْطِيَ فِي اللهِ، وَتَمْنَعَ فِي اللهِ.
 
 *One of the firmest handles of faith is to love, hate, give, and
 withhold exclusively for the sake of Almighty Allah.*[^29]
@@ -728,25 +628,17 @@ significance of doing good towards others.
 
 For instance, Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِصْنَعِ الْمَعْرُوفَ إِلَى مَنْ هُوَ أَهْلُهُ وَإِلَى مَنْ لَيْسَ
-مِنْ أَهْلِهِ، فَإِنْ لَمْ يَكُنْ هُوَ أَهْلَهُ فَكُنْ أَنْتَ مِنْ
-أَهْلِهِ.
-  </p>
-</blockquote>
+> إِصْنَعِ الْمَعْرُوفَ إِلَى مَنْ هُوَ أَهْلُهُ وَإِلَى مَنْ لَيْسَ
+> مِنْ أَهْلِهِ، فَإِنْ لَمْ يَكُنْ هُوَ أَهْلَهُ فَكُنْ أَنْتَ مِنْ
+> أَهْلِهِ.
 
 *Do favor to those who deserve it and those who do not, because if they
 do not deserve it, you are worthy of doing it.*[^30]
 
 He (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِصْنَعُوا الْمَعْرُوفَ إِلَى كُلِّ أَحَدٍ، فَإِنْ كَانَ أَهْلَهُ
-وَإِلاَّ فَأَنْتَ أَهْلُهُ.
-  </p>
-</blockquote>
+> إِصْنَعُوا الْمَعْرُوفَ إِلَى كُلِّ أَحَدٍ، فَإِنْ كَانَ أَهْلَهُ
+> وَإِلاَّ فَأَنْتَ أَهْلُهُ.
 
 *Do favors to everybody. Even if they do not deserve them, you are
 worthy of doing them.*[^31]
@@ -757,11 +649,7 @@ In order to maintain equilibrium in this respect, Islam has rendered
 doing good to others as doing good to oneself. Hence, Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أَحْسَنْتُمْ أَحْسَنْتُمْ لِأَنْفُسِكُمْ
-  </p>
-</blockquote>
+> إِنْ أَحْسَنْتُمْ أَحْسَنْتُمْ لِأَنْفُسِكُمْ
 
 ***If you do good, you will do good for your own souls, and if you do
 evil, it shall be for your own souls also. (17:7)***
@@ -775,25 +663,17 @@ self-perfection and, at the same time, contributes to social perfection.
 
 In this respect, Imam al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ خَالَطْتَ فَإِنِ اسْتَطَعْتَ أَنْ تَكُونَ يَدُكَ الْعُلْيَا
-عَلَيْهِمْ فَافْعَلْ.
-  </p>
-</blockquote>
+> مَنْ خَالَطْتَ فَإِنِ اسْتَطَعْتَ أَنْ تَكُونَ يَدُكَ الْعُلْيَا
+> عَلَيْهِمْ فَافْعَلْ.
 
 *If you can take the lead among those with whom you associate, then do
 it.*[^32]
 
 Imam al-Sadiq (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-فِي قَوْلِ اللهِ عَزَّ وَجَلَّ: (إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ)
-قَالَ: كَانَ يُوسِعُ الْمَجْلِسَ وَيَسْتَقْرِضُ لِلْمُحْتَاجِ
-وَيُعِينُ الضَّعِيفَ.
-  </p>
-</blockquote>
+> فِي قَوْلِ اللهِ عَزَّ وَجَلَّ: (إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ)
+> قَالَ: كَانَ يُوسِعُ الْمَجْلِسَ وَيَسْتَقْرِضُ لِلْمُحْتَاجِ
+> وَيُعِينُ الضَّعِيفَ.
 
 *Regarding the holy verse,* ***“Surely, we see you to be of the doers of
 good. (12:36)”*** *He (i.e. Prophet Joseph (‘a)) was described thus
@@ -815,27 +695,23 @@ Shaykh al-Kulayni has reported, through an authentic chain of authority,
 that Safwan ibn Yahya reported Abu-Usamah Zayd al-Shahham as saying that
 Imam al-Sadiq (‘a) said to him:
 
-<blockquote dir="rtl">
-  <p>
-إقْرَأْ عَلَى مَنْ تَرَى أَنَّهُ يُطِيعُنِي مِنْهُمْ وَيَأْخُذُ
-بِقَوْلِي السَّلاَمَ، وَأُوصِيكُمْ بِتَقْوَى اللهِ عَزَّ وَجَلَّ،
-وَالْوَرَعَ فِي دِينِكُمْ، وَالاجْتِهَادَ للهِ، وَصِدْقَ الْحَدِيثِ،
-وَأَدَاءَ الأَمَانَةِ، وَطُولَ السُّجُودِ، وَحُسْنَ الْجِوَارِ.
-فَبِهَذَا جَاءَ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ؛
-كَانَ يَأْمُرُ بِأَدَاءِ الْخَيْطِ وَالْمَخِيطِ. صِلُوا عَشَائِرَكُمْ،
-وَاشْهَدُوا جَنَائِزَهُمْ، وَعُودُوا مَرْضَاهُمْ، وَأَدُّوا
-حُقُوقَهُمْ؛ فَإنَّ الرَّجُلَ مِنْكُمْ إذَا وَرِعَ فِي دِينِهِ
-وَصَدَقَ الْحَدِيثَ وَأَدَّى الأَمَانَةَ وَحَسَّنَ خُلُقَهُ مَعَ
-النَّاسِ قِيلَ هَذَا جَعْفَرِيٌّ، فَيَسُرُّنِي ذَلِكَ وَيَدْخُلُ
-عَلَيَّ مِنْهُ السُّرُورَ، وَقِيلَ هَذَا أَدَبُ جَعْفَرٍ. وَاللهِ
-لَحَدَّثَنِي أَبِي عَلَيْهِ السَّلاَمُ أَنَّ الرَّجُلَ كَانَ يَكُونُ
-فِي القَبِيلَةِ مِنْ شِيعَةِ عَلِيٍّ عَلَيْهِ السَّلاَمُ فَيَكُونُ
-زَيْنَهَا، آدَاهُمْ لِلأَمَانَةِ، وَأَقْضَاهُمْ لِلْحُقُوقِ،
-وَأَصْدَقَهُمْ لِلْحَدِيثِ، إلَيْهِ وَصَايَاهُمْ وَوَدَائِعُهُمْ،
-تُسْأَلُ الْعَشِيرَةُ عَنْهُ فَتَقُولُ: مَنْ مِثْلُ فُلانٍ؟ إنَّهُ
-آدَانَا لِلأَمَانَةِ وَأَصْدَقُنَا لِلْحَدِيثِ.
-  </p>
-</blockquote>
+> إقْرَأْ عَلَى مَنْ تَرَى أَنَّهُ يُطِيعُنِي مِنْهُمْ وَيَأْخُذُ
+> بِقَوْلِي السَّلاَمَ، وَأُوصِيكُمْ بِتَقْوَى اللهِ عَزَّ وَجَلَّ،
+> وَالْوَرَعَ فِي دِينِكُمْ، وَالاجْتِهَادَ للهِ، وَصِدْقَ الْحَدِيثِ،
+> وَأَدَاءَ الأَمَانَةِ، وَطُولَ السُّجُودِ، وَحُسْنَ الْجِوَارِ.
+> فَبِهَذَا جَاءَ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ؛
+> كَانَ يَأْمُرُ بِأَدَاءِ الْخَيْطِ وَالْمَخِيطِ. صِلُوا عَشَائِرَكُمْ،
+> وَاشْهَدُوا جَنَائِزَهُمْ، وَعُودُوا مَرْضَاهُمْ، وَأَدُّوا
+> حُقُوقَهُمْ؛ فَإنَّ الرَّجُلَ مِنْكُمْ إذَا وَرِعَ فِي دِينِهِ
+> وَصَدَقَ الْحَدِيثَ وَأَدَّى الأَمَانَةَ وَحَسَّنَ خُلُقَهُ مَعَ
+> النَّاسِ قِيلَ هَذَا جَعْفَرِيٌّ، فَيَسُرُّنِي ذَلِكَ وَيَدْخُلُ
+> عَلَيَّ مِنْهُ السُّرُورَ، وَقِيلَ هَذَا أَدَبُ جَعْفَرٍ. وَاللهِ
+> لَحَدَّثَنِي أَبِي عَلَيْهِ السَّلاَمُ أَنَّ الرَّجُلَ كَانَ يَكُونُ
+> فِي القَبِيلَةِ مِنْ شِيعَةِ عَلِيٍّ عَلَيْهِ السَّلاَمُ فَيَكُونُ
+> زَيْنَهَا، آدَاهُمْ لِلأَمَانَةِ، وَأَقْضَاهُمْ لِلْحُقُوقِ،
+> وَأَصْدَقَهُمْ لِلْحَدِيثِ، إلَيْهِ وَصَايَاهُمْ وَوَدَائِعُهُمْ،
+> تُسْأَلُ الْعَشِيرَةُ عَنْهُ فَتَقُولُ: مَنْ مِثْلُ فُلانٍ؟ إنَّهُ
+> آدَانَا لِلأَمَانَةِ وَأَصْدَقُنَا لِلْحَدِيثِ.
 
 *Deliver my greetings to every one whom you consider to be obeying me
 and following my orders. (Say to them): I advise you to fear Almighty
@@ -868,17 +744,13 @@ the most trustworthy and the most honest.*[^35]
 Kathir ibn ‘Alqamah has reported that he once asked Imam al-Sadiq (‘a)
 for advice. The Imam thus (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أُوصِيكَ بِتَقْوَى اللهِ وَالْوَرَعِ وَالْعِبَادَةِ وَطُولِ السُّجُودِ
-وَأَدَاءِ الأَمَانَةِ وَصِدْقِ الْحَدِيثِ وَحُسْنِ الْجِوَارِ.
-فَبِهَذَا جَاءَنَا مُحَمَّدٌ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ. صِلُوا
-فِي عَشَائِرِكُمْ وَعُودُوا مَرْضَاكُمْ وَاشْهَدُوا جَنَائِزَكُمْ،
-وَكُونُوا لَنَا زَيْناً وَلاَ تَكُونُوا عَلَيْنَا شَيْناً. حَبِّبُونَا
-إِلَى النَّاسِ وَلاَ تُبَغِّضُونَا إِلَيْهِمْ، فَجُرُّوا إِلَيْنَا
-كُلَّ مَوَدَّةٍ وَادْفَعُوا عَنَّا كُلَّ شَرٍّ.
-  </p>
-</blockquote>
+> أُوصِيكَ بِتَقْوَى اللهِ وَالْوَرَعِ وَالْعِبَادَةِ وَطُولِ السُّجُودِ
+> وَأَدَاءِ الأَمَانَةِ وَصِدْقِ الْحَدِيثِ وَحُسْنِ الْجِوَارِ.
+> فَبِهَذَا جَاءَنَا مُحَمَّدٌ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ. صِلُوا
+> فِي عَشَائِرِكُمْ وَعُودُوا مَرْضَاكُمْ وَاشْهَدُوا جَنَائِزَكُمْ،
+> وَكُونُوا لَنَا زَيْناً وَلاَ تَكُونُوا عَلَيْنَا شَيْناً. حَبِّبُونَا
+> إِلَى النَّاسِ وَلاَ تُبَغِّضُونَا إِلَيْهِمْ، فَجُرُّوا إِلَيْنَا
+> كُلَّ مَوَدَّةٍ وَادْفَعُوا عَنَّا كُلَّ شَرٍّ.
 
 *I command you to fear Allah, relinquish prohibited acts, stick to
 devotional acts, prostrate yourself as long as you can, fulfill trusts,
@@ -891,12 +763,8 @@ fondness towards us and avert from us every evil…*[^36]
 
 ‘Abdullah ibn Abi-Ya’fur has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-كُونُوا دُعَاةً لِلنَّاسِ بِالْخَيْرِ بِغَيْرِ ألْسِنَتِكُمْ،
-لِيَرَوْا مِنْكُمُ الإجْتِهَادَ وَالصِّدْقَ وَالْوَرَعَ.
-  </p>
-</blockquote>
+> كُونُوا دُعَاةً لِلنَّاسِ بِالْخَيْرِ بِغَيْرِ ألْسِنَتِكُمْ،
+> لِيَرَوْا مِنْكُمُ الإجْتِهَادَ وَالصِّدْقَ وَالْوَرَعَ.
 
 *Act as heralds to goodness among the masses by other means than your
 tongues (i.e. speech) so that they can become aware of your diligence,
@@ -904,13 +772,9 @@ honesty, and piety.*[^37]
 
 According to another narration of the same purport, the Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-كُونُوا دُعَاةً لِلنَّاسِ بِالْخَيْرِ بِغَيْرِ ألْسِنَتِكُمْ،
-لِيَرَوْا مِنْكُمُ الْوَرَعَ وَالإِجْتِهَادَ وَالصَّلاَةَ وَالْخَيْرَ،
-فَإِنَّ ذَلِكَ دَاعِيَةٌ.
-  </p>
-</blockquote>
+> كُونُوا دُعَاةً لِلنَّاسِ بِالْخَيْرِ بِغَيْرِ ألْسِنَتِكُمْ،
+> لِيَرَوْا مِنْكُمُ الْوَرَعَ وَالإِجْتِهَادَ وَالصَّلاَةَ وَالْخَيْرَ،
+> فَإِنَّ ذَلِكَ دَاعِيَةٌ.
 
 *Act as heralds to goodness among the masses by other means than your
 tongues (i.e. speech) so that they can become aware of your abstention
@@ -1019,5 +883,4 @@ pointless to repeat.
 [^37]: ‌- Al-Hurr al-’Amili, Wasa'il al-Shi’ah 8:513, H. 1.
 
 [^38]: ‌- Shaykh al-Kulayni, al-Kafi 2:105, H. 10 & 2:78, H. 14.
-
 

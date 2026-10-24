@@ -98,7 +98,5 @@ every age and clime.
 The investigations of thirty most prominent commentators of Quran and
 Hadith have confirmed this event.
 
-
 Talat Abedi (India)
-
 

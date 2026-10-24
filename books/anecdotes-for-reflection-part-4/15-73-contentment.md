@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَطْعِمُوا الْقانِعَ وَ الْمُعْتَرَّ
-  </p>
-</blockquote>
+> وَ أَطْعِمُوا الْقانِعَ وَ الْمُعْتَرَّ
 
 ***“And feed the poor man who is contented, and the beggar”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-كن قانعا تكن اءشكر الناس
-  </p>
-</blockquote>
+> كن قانعا تكن اءشكر الناس
 
 ***“Be contented so that you may be the most thankful of all
 people”***[^2]
@@ -212,5 +204,4 @@ pg. 18.
 [^8]: Hikaayat-ha-e-Gulistaan, pg. 184.
 
 [^9]: Seemaa-e-Farzaanigaan, pg. 457.
-
 

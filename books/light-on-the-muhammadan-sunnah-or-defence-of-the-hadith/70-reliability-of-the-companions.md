@@ -16,7 +16,7 @@ matter to the extent they deemed them (Sahabah) to be reliable in all,
 even those indulged in sedition (fitnah), or in whose hypocrisy a
 Qur’anic verse was revealed, making it impermissible to criticize anyone
 of them, or raise doubt about his riwayah, accusing anyone doing so with
-debauchery. <span id="_anchor_651"></span>651 And this verily is an
+debauchery. 651 And this verily is an
 exaggeration in trust and extravagance in appreciation. Besides, it
 contravenes the principles stated in the Qur’an and Prophetic Sunnah
 regarding the firm evidences, and can never agree with the human tempers
@@ -84,10 +84,10 @@ define who the Sahabi is as identified by them (Sunnis), and the most
 adequate definition in view of the Jumhur (Sunnis) being that one
 mentioned by al-Bukhari:
 
-In his book, <span id="_anchor_652"></span>652 he said: Whoever from
+In his book, 652 he said: Whoever from
 among Muslims kept company with the Prophet (may God’s peace and
 benediction be upon him and his Progeny) or saw him, he would be verily
-a Sahabi. <span id="_anchor_653"></span>653
+a Sahabi. 653
 
 In his exposition for the definition of al-Bukhari, Ibn Hajar
 al-Asqallani declared: What he wants to say is that the epithet Suhbat
@@ -123,8 +123,7 @@ peace and benediction be upon him and his Progeny), having faith in him,
 dying as a Muslim, he will be counted among those who met him, an fought
 beside him or those who did not participate in a battle. Also is that
 who saw him by his own eyes, even if he did not sit beside him, and that
-who could not see him due to a casualty like blindness. <span
-id="_anchor_654"></span>654
+who could not see him due to a casualty like blindness. 654
 
 The ulama’ have – a manifested in the previous chapter — obligated
 investigation about narrators of hadith, sarcasting some and moderating
@@ -144,8 +143,7 @@ on in this book.
 
 In his al-Taqrib, al-Nawawi writes: The Sahabah are altogether reliable,
 those who were involved in the fitnah and others. Al-Dhahabi, in his
-Risalah, said about the trustworthy narrators: <span
-id="_anchor_655"></span>655
+Risalah, said about the trustworthy narrators: 655
 
 If we open the door of jarh and ta’dil, a good number of Companions,
 Followers and leaders (imams) would enter it, as some of the
@@ -189,15 +187,13 @@ man, and a verifying memorizer
 
 that rarely erring. But Abu Umar ibn Abd al-Birr said: I heard Muhammad
 ibn Waddah saying: I inquired Yahya ibn Mu’in about al-Shafi’i, when he
-said: He is not a thiqah. The clause of Ibn Mu’in <span
-id="_anchor_656"></span>656 about al-Shafi’i was only a slip of the
-tongue (lapsus lingue) out of desire and bigotry, <span
-id="_anchor_657"></span>657 as Ibn Mu’in was a Hanafi, though being an
+said: He is not a thiqah. The clause of Ibn Mu’in 656 about al-Shafi’i was only a slip of the
+tongue (lapsus lingue) out of desire and bigotry, 657 as Ibn Mu’in was a Hanafi, though being an
 upstart.
 
 Beside Ja’far ibn Muhammad al-Sadiq, who was deemed trustworthy by Abu
 Hatam and al-Nasa’i, whereas al-Bukhari did not consider him an
-authority (hujjah)! <span id="_anchor_658"></span>658 Also Sa’id ibn Abi
+authority (hujjah)! 658 Also Sa’id ibn Abi
 Urubah, in whose regard Ahmad ibn Hanbal said: He is thiqah, an imam of
 bad memory, and his traditions were recorded in the books, but he was a
 fatalist (qadari).
@@ -207,7 +203,7 @@ a memorizer but he used to defraud from weak narrators, with his
 traditions being cited in all books. That was what we quoted of this
 treatise in brief.
 
-In al-Ahkam <span id="_anchor_659"></span>659 al-‘Amudi says:
+In al-Ahkam 659 al-‘Amudi says:
 
 The Sunnah Imams concurred in believing in the reliability of the
 Sahabah, with some of them holding: Their judgement in adalah is like
@@ -220,7 +216,7 @@ widely-known to be reliable. Some others said: Whoever fought against
 Ali, being aware, is verily a debauchee of refuted narration and witness
 against the true Imam. Some others believed in rejecting the narration
 and testimony of all of them, as one of the two parties should be fasiq,
-and he is unknown and unidentified. <span id="_anchor_660"></span>660
+and he is unknown and unidentified. 660
 
 Al-Gazzali, in al-Mustasfi, says: Some people held them to be like
 others in respect of necessity of investigation. Some others said: They
@@ -236,7 +232,7 @@ baseless.
 
 A Research on Disagreement
 
-Al-Imam al-Muqbili, <span id="_anchor_661"></span>661 in his book
+Al-Imam al-Muqbili, 661 in his book
 al-‘Ilm al-shamikh fi tafdil al-haqq ala al-aba’ wa al-mashayikh,
 dedicated a separate chapter in which he discussed the issue of
 disagreement in religious affairs, including the reliability of Sahabah.
@@ -312,7 +308,7 @@ After exposing the biography of the mutakallimun, he embarked on talking
 about the narrators, saying:
 
 These muhaddithun, who claim the Sunnah to be firm, forbidding from
-kalam (theology), <span id="_anchor_662"></span>662 were afflicted with
+kalam (theology), 662 were afflicted with
 corruption and deviation more than others, as they being on the centre
 of way of the Shari’ah, and demorality, war, assault, serpents,
 scorpions, poisons and lions when being on the road are verily more
@@ -353,8 +349,7 @@ he was his equal in being an imam of knowledge and piety. And if
 supposedly he has erred in regard of what Ahmad alleged, then God’s
 forgiveness is certainly more expansive. And his error in its regard is
 only like that who assumes caliphate while being devoid of its
-provisions and traits, plunged (ya’uth) <span
-id="_anchor_663"></span>663 in blood and properties of Muslims!
+provisions and traits, plunged (ya’uth) 663 in blood and properties of Muslims!
 
 May God forgive Ahmad, he has gone too far in bigotry in this issue, to
 the extent that whoever opposing him would be rebuffed with rejecting
@@ -367,8 +362,7 @@ books.
 
 This issue cannot exceed the limit if there being steadiness in the
 disagreement regarding the two issues, but he exaggerated and began to
-reject the waqif saying: So and so is an ill-omened waqifi. <span
-id="_anchor_664"></span>664 He even overstated and said: I never like
+reject the waqif saying: So and so is an ill-omened waqifi. 664 He even overstated and said: I never like
 reporting from that who responded in the ordeal like Yahya ibn Mu’in,
 though Ahmad was not among the obstinate nor among the hardliners. His
 shaykhs (in hadith) included ‘Amir ibn Salih ibn Abd Allah ibn Urwah ibn
@@ -378,8 +372,7 @@ not thiqah, and al-Daraqutni recommended to reject his hadith. Ibn Mu’in
 said about him: He is a liar, villain, enemy of Allah, and of no value,
 and also said: Ahmad turned mad, is he reporting from ‘Amir ibn Salih?
 Al-Dhahabi said: He is very weak…Ahmad has never reported from anyone
-weaker than him. Despite guluww of al-Dhahabi <span
-id="_anchor_665"></span>665 in regard of Ahmad and approving of him, but
+weaker than him. Despite guluww of al-Dhahabi 665 in regard of Ahmad and approving of him, but
 he would not doubt that he was not covetous toward his narrators, but
 only when the issue be related to the Qur’an. We want to ask him: What
 do you know about the Qur’an and the Sunnah, is the Qur’an not invented?
@@ -389,11 +382,11 @@ containing no crookedness, saying: “We made it,” and ‘We have revealed
 it’, and ‘We have expounded it’, never saying, We have invented
 (created) it, nor saying it is not invented. So wherefrom you have
 brought this sunnah. When Ali ibn al-Midyani, in whose regard al-Bukhari
-<span id="_anchor_666"></span>666 said: ‘I never despised myself but
+666 said: ‘I never despised myself but
 only near him’, responded during the tribulation, being subject to
 sarcasm, though he might be excused when responding in the abandonment,
 in regard of the issue of invention of the Qur’an, till was defended by
-Muslim <span id="_anchor_667"></span>667 though being known of leniency
+Muslim 667 though being known of leniency
 toward his rijal. Even more amazing than this being the fact that those
 supporting Ali ibn al-Midyani couldn’t find any fault except their
 saying: From him many narrators reported that he said: “Whoever claims
@@ -431,8 +424,7 @@ his army, and the one who prompted him to revolt against Ali, doing
 every sort of calamity. Ibn Hajar al-Asqallani, a leader of the recent
 narrators (al-Kamil), in his exposition on Marwan, said: If his
 companionship is proved, no vilification would affect him!! As if suhbah
-being like prophethood, or the Companion being in fallible, <span
-id="_anchor_668"></span>668 the fact being an imitation in investigation
+being like prophethood, or the Companion being in fallible, 668 the fact being an imitation in investigation
 after reliability of the Sahabah became intuitive among the Jumhur.
 Truly what is intended by this being only the majority, as the praise
 from Allah and His Messenger – the evidence for their reliability – has
@@ -443,7 +435,7 @@ known who is the addressed recommended? Is he the same recommended in
 the Prophet’s hadith: Do not insult my Companions…if anyone of you
 spends the weight of each of them in gold, he can never attain to the
 measure or half of anyone of them. Here it is obvious what kind of
-factors lying behind those traditions, <span id="_anchor_669"></span>669
+factors lying behind those traditions, 669
 when the latters in Islam talking in regard of the formers, as when he
 said to Ammar (may God be pleased with
 
@@ -466,7 +458,7 @@ their biographies. Among the Sahabah there being very few who were
 devoid of reliability, like wine-imbibers, so we should drive them out
 of reliability not out of companionship. Some of them have embraced
 Islam for fear from the sword (killing) like the freed prisoners of war
-(tulaqa’), <span id="_anchor_670"></span>670 and others, of whom if his
+(tulaqa’), 670 and others, of whom if his
 good state couldn’t be confirmed, he would be quite unknown for all, who
 being very rare in number. Nevertheless, reliability verily is not like
 infallibility (‘ismah), but people have exaggerated in regard of those
@@ -489,15 +481,13 @@ Sunnah-claimants have claimed companionship or its confirmation for
 those no evidence was established in their regard, deriving from it as
 many as they liked of ramifications, founding then the Din on this.
 Hasn’t God said: “If an evil-liver bring you tidings verify it...” in
-regard of a man of an ascertained suhbah, <span
-id="_anchor_671"></span>671 though his state was uncovered together with
+regard of a man of an ascertained suhbah, 671 though his state was uncovered together with
 the suhbah. Among the Sahabah there were some addicted to drinking wine,
-<span id="_anchor_672"></span>672 beside innumerable (bad) practices
+672 beside innumerable (bad) practices
 that were not divulged as an observation for the right of the Prophet
 (S), unless there being a religious necessity when it should be
 mentioned. The worst infliction is verily inference of a religious
-ruling out of narrations of Marwan and al-Walid ibn Uqbah <span
-id="_anchor_673"></span>673 and others. This being verily the greatest
+ruling out of narrations of Marwan and al-Walid ibn Uqbah 673 and others. This being verily the greatest
 betrayal to the Din of Allah and contradiction to the express text of
 the holy verse, the consequence of which would not bring the Sahabah as
 a whole any defect, but rather it being a vindication for them, so
@@ -505,8 +495,7 @@ beware of self-conceit.
 
 No doubt al-Bukhari was one of the leaders of lofty muhaddithun, so how
 would be the case with those having lower position despite the fact that
-al-Bukhari evaded reporting from so many devout huffaz, <span
-id="_anchor_674"></span>674 as stated in books of jarh and ta’dil. Also
+al-Bukhari evaded reporting from so many devout huffaz, 674 as stated in books of jarh and ta’dil. Also
 Ali al-Midyani was ignored by Muslim. In regard of Umar ibn Sa’d ibn Abi
 Waqqas, al-Ijli said: He is a Tabi’i and thiqah, from whom people
 reported hadith, and it was him who embarked on murdering al-Imam
@@ -527,7 +516,7 @@ and being told that he was a Shi’i - said: a Shi’i and thiqah, and a
 qadari, thiqah.
 
 Al-Ijli, described Imran ibn Hattan as a thiqah, while he flattered Ibn
-Muljam <span id="_anchor_675"></span>675 (may God’s curse be upon him),
+Muljam 675 (may God’s curse be upon him),
 saying:
 
 O smite by a pious desiring nothing from it,
@@ -585,8 +574,7 @@ knows who is he and what is he.
 My intention is not defaming or belittling the two Sahihs, but to make
 known that the corruption of disagreement has prevailed everywhere, and
 this is exactly what I intend to manifest out of inviting to disdaining
-from disagreement and conflict, the fact to be known for all. <span
-id="_anchor_676"></span>676
+from disagreement and conflict, the fact to be known for all. 676
 
 In a footnote to this book, which is called al-Arwah al-nawafikh,
 al-Muqbili explained the statement “they claimed suhbah (companionship)
@@ -617,7 +605,7 @@ appendix by cancelling what was practised by the Sahabah. Some of them
 disguised under claim of ijtihad, that could be proved false by exigency
 in numerous cases, and some others would declare openly! How wonderful
 is this impudence in claiming ijtihad on the part of Bisr ibn Arta’ah,
-<span id="_anchor_678"></span>678 who was known of doing all kinds of
+678 who was known of doing all kinds of
 evil, as he was envoy of the mujtahid Mu’awiyah, advisor of Islam in
 slandering Ali ibn Abi Talib and his party (Shi’ah). Beside Marwan and
 the debauchee al-Walid, and the ijtihad in swearing allegiance to Yazid
@@ -631,7 +619,7 @@ they differed in religious status, with the purpose that the pious
 disdaining from approving such calamities. That who was absent in time
 of committing a sin but showed his consent then, would be viewed like
 that who attended and participated in it, and vice versa, as stated in
-the Prophetic hadith. <span id="_anchor_679"></span>679
+the Prophetic hadith. 679
 
 651. Refer to my reply to al-Ajjaj and others in my book Shaykh
 al-mudirah.
@@ -747,5 +735,4 @@ hath happened to you (that) ye are two parties about the hypocrites?
 Verily God hath reversed them for what they have earned…". Al-Raghib, in
 his Mufradat, said: "reversed them, meaning: he returned them to the
 disbelief." There is so much talk about this bad.
-
 

@@ -32,24 +32,16 @@ is ordinary knowledge which in the beginning is obtained through senses
 and in the end it enters ourselves and hearts. The Quran has also
 interpreted revelation in this manner:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَتَنزِيلُ رَبِ‏ّ الْعَالَمِينَ / نَزَلَ بِهِ الرُّوحُ
-الْأَمِينُ / عَلَى‏ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ‏ / بِلِسَانٍ
-عَرَبِىٍ‏ّ مُّبِينٍ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَتَنزِيلُ رَبِ‏ّ الْعَالَمِينَ / نَزَلَ بِهِ الرُّوحُ
+> الْأَمِينُ / عَلَى‏ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ‏ / بِلِسَانٍ
+> عَرَبِىٍ‏ّ مُّبِينٍ
 
 ***“And most surely this is a revelation from the Lord of the worlds.
 The Faithful Spirit has descended with it. Upon your heart that you may
 be of the warners, In plain Arabic language.” (26:192-195)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ كَانَ عَدُوّاً لِّجِبْرِيْلَ فإِنَّهُ نَزَّلَهُ عَلَى‏
-قَلْبِكَ
-  </p>
-</blockquote>
+> قُلْ مَنْ كَانَ عَدُوّاً لِّجِبْرِيْلَ فإِنَّهُ نَزَّلَهُ عَلَى‏
+> قَلْبِكَ
 
 ***“Say: Whoever is the enemy of Jibraeel- for surely he revealed it to
 your heart…” (Surah Baqarah 2:97)***
@@ -66,11 +58,7 @@ The late Allamah Tabatabai (q) has said: Heart denotes the self of man,
 which has the power of perception, perhaps the reason why Quran has
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-نَزَلَ بِهِ الرُّوحُ الْأَمِينُ / عَلَى‏ قَلْبِكَ
-  </p>
-</blockquote>
+> نَزَلَ بِهِ الرُّوحُ الْأَمِينُ / عَلَى‏ قَلْبِكَ
 
 ***“The Faithful Spirit has descended with it. Upon your heart…”
 (26:193-194)***
@@ -102,12 +90,8 @@ Second method: Matters are sent down to another place and the prophet
 obtains from there, like in the case of the conversation of Prophet Musa
 (a.s.) at Mount Tur through the tree. The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَتَاهَا نُودِىَ مِن شَاطِىِ الْوَادِ الْأَيْمَنِ فِى
-الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ
-  </p>
-</blockquote>
+> فَلَمَّآ أَتَاهَا نُودِىَ مِن شَاطِىِ الْوَادِ الْأَيْمَنِ فِى
+> الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ
 
 ***“And when he came to it, a voice was uttered from the right side of
 the valley in the blessed spot of the bush…” (28:30)***
@@ -118,13 +102,9 @@ Third method: Some points are revealed through the angel of revelation
 These three methods are mentioned in the Holy Quran when Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْياً أَوْ مِن
-وَرَآىِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِ مَا
-يَشَآءُ إِنَّهُ عَلِىٌّ حَكِيمٌ‏
-  </p>
-</blockquote>
+> وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْياً أَوْ مِن
+> وَرَآىِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِ مَا
+> يَشَآءُ إِنَّهُ عَلِىٌّ حَكِيمٌ‏
 
 ***“And it is not for any mortal that Allah should speak to him except
 by revelation or from behind a veil, or by sending a messenger and
@@ -176,5 +156,4 @@ miracles in situations that demand it.
 [^2]: Al-Mizan, Vol. 15, Pg. 345.
 
 [^3]: Al-Mizan, Vol. 14, Pg. 150
-
 

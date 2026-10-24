@@ -26,21 +26,13 @@ done} through injustice {*zulm*}’.[^5]
 There are also many cases in the Qur’an in which “Shi‘ah” connotes
 “followers” and “supporters” such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنَّ مِنْ شِيعَتِهِ لإبْرَاهِيمَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنَّ مِنْ شِيعَتِهِ لإبْرَاهِيمَ ﴾
 
 *“**Indeed Abraham was among his followers {shi‘ah}**”*[^6]
 
 and the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ ﴾
 
 ***“The one who was from his (Moses’) followers {shi‘ah} sought his help
 against him who was from his enemies.”***[^7]
@@ -123,11 +115,7 @@ as-Sunnah, but Ibn al-Qutaybah has enlisted him along with the
 Shi‘ah.[^13] Regarding ash-Shafi‘i, who is the founder of one of the
 four Sunni schools of thought {*madhahib*}, Ibn Nadim thus says:
 
-<blockquote dir="rtl">
-  <p>
-كَانَ الشَّافِعِي شَدِيْداً في التَّشَيُّع.
-  </p>
-</blockquote>
+> كَانَ الشَّافِعِي شَدِيْداً في التَّشَيُّع.
 
 “Ash-Shafi‘i had extreme Shi‘ism {*tashayyu‘*}.”[^14]
 
@@ -278,5 +266,4 @@ Manshurat ash-Sharif ar-Radhi, 1416 AH/1374 AHS), p. 251.
 ar-Radhi, 1364 AHS), vol. 1, p. 140.
 
 [^22]: Abu’l-Faraj al-Isfahani, Maqatil at-Talibiyyin, p. 258.
-
 

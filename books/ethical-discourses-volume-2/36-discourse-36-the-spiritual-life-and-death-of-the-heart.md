@@ -1,13 +1,9 @@
 Discourse 36: The Spiritual Life and Death of The Heart
 =======================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ ثَلاَثٌ مُجَالَسَـتُهُمْ تُمِيتُ
-الْقَلْبَ: مُجَالَسَةُ الأََنْذَالِ وَمُجَالَسَةُ الأََغْـنِيَاءِ
-وَالْحَدِيثُ مَعَ النِّسَآءِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ ثَلاَثٌ مُجَالَسَـتُهُمْ تُمِيتُ
+> الْقَلْبَ: مُجَالَسَةُ الأََنْذَالِ وَمُجَالَسَةُ الأََغْـنِيَاءِ
+> وَالْحَدِيثُ مَعَ النِّسَآءِ.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! Associating with three
 (groups) of people kills the heart: low people, rich people and
@@ -25,13 +21,9 @@ the states of life and death, the spiritual heart and soul also have
 both life and death and this has been referred to as the “spiritual life
 and death”.
 
-<blockquote dir="rtl">
-  <p>
-إِلٌـهِـي أَلْبَسَـتْـنِي الْخَطَاياَ ثَوْبَ مَذَلَّتِـي، وَجَلَّلَنِي
-التَّبَاعُدُ مِنْكَ لِبَاسَ مَسْكَنَتِي، وَأَمَاتَ قَلْبِي عَظِيمُ
-جِـنَايَـتِي…
-  </p>
-</blockquote>
+> إِلٌـهِـي أَلْبَسَـتْـنِي الْخَطَاياَ ثَوْبَ مَذَلَّتِـي، وَجَلَّلَنِي
+> التَّبَاعُدُ مِنْكَ لِبَاسَ مَسْكَنَتِي، وَأَمَاتَ قَلْبِي عَظِيمُ
+> جِـنَايَـتِي…
 
 “O' Allah! Surely my many errors have covered over my true essence and
 my spiritual distance from You has clothed me in the separation from You
@@ -63,12 +55,8 @@ the spiritual life and death that it, for example, speaks about some
 'dead' people as actually being at the level of those who are alive when
 it states: 
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَـبِيلِ اللٌّهِ أَمْواتاً
-بَلْ أَحْـيَآءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَـبِيلِ اللٌّهِ أَمْواتاً
+> بَلْ أَحْـيَآءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
 
 “And do not consider those people who have been killed in the way of
 Allah as being dead, rather, they are alive in the presence of their
@@ -77,22 +65,14 @@ Lord receiving sustenance.”[^2]
 In another place in the Qur'an, a group of people who are (apparently)
 alive are classified as being dead when we are told:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لاَ تَسْمَعُ الْمَوْتَى وَلاَ تَسْمَعُ الصُّمِّ الدُّعَآءِ
-  </p>
-</blockquote>
+> إِنَّكَ لاَ تَسْمَعُ الْمَوْتَى وَلاَ تَسْمَعُ الصُّمِّ الدُّعَآءِ
 
 “And surely you can not make the dead hear and you can not make the deaf
 hear (your call).”[^3]
 
 In another place in the Qur\`an we are told:
 
-<blockquote dir="rtl">
-  <p>
-لِيُنْذِرَ مَنْ كَانَ حَيّاً
-  </p>
-</blockquote>
+> لِيُنْذِرَ مَنْ كَانَ حَيّاً
 
 “So that you may warn those who are (spiritually) alive…”[^4]
 
@@ -126,11 +106,7 @@ his speeches and short sayings narrated in Nahj al-Balagha, we see a
 great emphasis placed on this issue. In speech 110, he says the
 following in regards to the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-تَفَقَّهُوا فِيهِ فَإِنَّهُ رَبِيعُ الْقُلُوبِ.
-  </p>
-</blockquote>
+> تَفَقَّهُوا فِيهِ فَإِنَّهُ رَبِيعُ الْقُلُوبِ.
 
 “Ponder upon it (the Qur'an) since this is the spring of the hearts (it
 enlivens the hearts just as the spring season brings the trees to
@@ -138,11 +114,7 @@ life).”
 
 In speech 133, in regards to wisdom and knowledge, he has stated:
 
-<blockquote dir="rtl">
-  <p>
-هِيَ حَياةٌ لِلْقَلْبِ الْمَيِّتِ.
-  </p>
-</blockquote>
+> هِيَ حَياةٌ لِلْقَلْبِ الْمَيِّتِ.
 
 ”(Wisdom and knowledge) are life for the dead heart.”
 
@@ -150,22 +122,14 @@ At other times, he places the sickness of the heart at the same level as
 the sickness of the body. For example, in short saying 388, he has
 stated:
 
-<blockquote dir="rtl">
-  <p>
-وَأََشَدُّ مِنْ مَرَضِ الْبَدَنِ مَرَضُ الْقَلْبِ.
-  </p>
-</blockquote>
+> وَأََشَدُّ مِنْ مَرَضِ الْبَدَنِ مَرَضُ الْقَلْبِ.
 
 “Even worse than the sickness of the body is the sickness of the
 (spiritual) heart.”
 
 In addition, in short saying 349, he has stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَلَّ وَرَعُهُ مَاتَ قَلْبُهُ.
-  </p>
-</blockquote>
+> مَنْ قَلَّ وَرَعُهُ مَاتَ قَلْبُهُ.
 
 “The one whose level of precaution (Wara’ - a level higher than that of
 Taqwa) is low, his heart is dead.”
@@ -177,11 +141,7 @@ form of seeing, hearing, understanding and comprehending other than the
 apparent understanding of these powers just as it is said in regards to
 the open disbelievers:
 
-<blockquote dir="rtl">
-  <p>
-صُمٌّ بُكْمٌ عُمْـيٌ فَهُمْ لاَ يَعْقِلُونَ
-  </p>
-</blockquote>
+> صُمٌّ بُكْمٌ عُمْـيٌ فَهُمْ لاَ يَعْقِلُونَ
 
 “Deaf, dumb, and blind, they do not understand anything.”[^5]
 
@@ -189,11 +149,7 @@ In another place in the Qur'an, the hypocrites are referred to as having
 a sick heart and since they do not want to change, Allah (SwT) adds to
 their sickness:
 
-<blockquote dir="rtl">
-  <p>
-فِي قُلُوبِهِمْ مَرَضٌ فَزادَهُمُ اللٌّهُ مَرَضاً
-  </p>
-</blockquote>
+> فِي قُلُوبِهِمْ مَرَضٌ فَزادَهُمُ اللٌّهُ مَرَضاً
 
 “In their hearts is a disease (and due to their obstinacy) Allah has
 added to their sickness.”[^6]
@@ -202,11 +158,7 @@ Those who do not have the fear of Allah (SwT) within themselves are
 introduced as people possessing hearts of stone - rather, their hearts
 are even harder and firmer than stones:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَسَتْ قُلُوبُكُمْ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَّدُّ قَسْوَةٍ
-  </p>
-</blockquote>
+> ثُمَّ قَسَتْ قُلُوبُكُمْ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَّدُّ قَسْوَةٍ
 
 “Then your hearts hardened after that, so that they were like rocks,
 rather worse in hardness;”[^7]
@@ -214,11 +166,7 @@ rather worse in hardness;”[^7]
 In relation to a group of disbelievers, there is a phrase that is used
 in the Qur'an in which they have been referred to as being impure:
 
-<blockquote dir="rtl">
-  <p>
-أُولٌئِكَ الَّذِينَ لَمْ يَرِدِ اللٌّهُ أَنْ يُطَهِّرَ قُلُوبُهُمْ
-  </p>
-</blockquote>
+> أُولٌئِكَ الَّذِينَ لَمْ يَرِدِ اللٌّهُ أَنْ يُطَهِّرَ قُلُوبُهُمْ
 
 “Surely those are the people whose hearts are not purified by
 Allah.”[^8]
@@ -227,12 +175,8 @@ In another place in the Qur'an we read that the only ones who shall hear
 and respond to the call of the Prophet (S) are those who are spiritually
 alive and possess the ears to hear such a call:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَسْتجِيبُ الَّذِينَ يَسْمَعُونَ وَالْمَوْتى يَبْعَثَهُمُ
-اللٌّهُ ثُمَّ إِلَيْهِ يُرْجَعوُنِ
-  </p>
-</blockquote>
+> إِنَّمَا يَسْتجِيبُ الَّذِينَ يَسْمَعُونَ وَالْمَوْتى يَبْعَثَهُمُ
+> اللٌّهُ ثُمَّ إِلَيْهِ يُرْجَعوُنِ
 
 “The only people who shall accept and answer (your call) are the people
 who (spiritually) hear you and as for the (spiritually) dead, Allah will
@@ -294,11 +238,7 @@ determine his morals and character in your first and second encounter
 with him, then you must look towards his friends and those who associate
 with him to guage his character:
 
-<blockquote dir="rtl">
-  <p>
-فَانْظُرُوا إِلـى خُلَفَائِهِ وَ جُلَسَائِهِ.
-  </p>
-</blockquote>
+> فَانْظُرُوا إِلـى خُلَفَائِهِ وَ جُلَسَائِهِ.
 
 “Look towards those who are his friends (lit. followers) and those who
 associate with him.”[^10]
@@ -307,11 +247,7 @@ If you see that a group of spiritually low people are always gathered
 around him, then do not be tricked and fooled by seeing his heavily used
 and worn out prayer mat, since:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمَرْءَ عَلى دِينِ خَلِيلِهِ وَ جَلِيلِهِ.
-  </p>
-</blockquote>
+> إِنَّ الْمَرْءَ عَلى دِينِ خَلِيلِهِ وَ جَلِيلِهِ.
 
 “A person follows the faith of his friend and those who are in his
 company.”[^11]  
@@ -327,11 +263,7 @@ actually increase our prosperity and happiness due to their character!
 It is mentioned that Prophet Ibrahim (as) was a very rich person,
 however when an individual remembered Allah (SwT) and said:
 
-<blockquote dir="rtl">
-  <p>
-سُبُّوحٌ وَ قُدُّوسٌ…
-  </p>
-</blockquote>
+> سُبُّوحٌ وَ قُدُّوسٌ…
 
 he gave half of his wealth to that person for the sake of Allah (SwT)!
 
@@ -376,12 +308,8 @@ necessitates the act of gathering together to discuss things.
 The Qur\`an brings forth a very interesting phrase in relation to
 certain women and says:
 
-<blockquote dir="rtl">
-  <p>
-أَوَ مَنْ يُنْشِيءُ فِــي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ
-مُبِينٍ
-  </p>
-</blockquote>
+> أَوَ مَنْ يُنْشِيءُ فِــي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ
+> مُبِينٍ
 
 “Is the one who has been brought up among trinkets (of beautification)
 and is inconspicuous in contests (should be associated with
@@ -401,13 +329,9 @@ traits from his friends. From the logic of Islam, this form of influence
 (one's friends) is at such a level that in the taditions which have come
 to us from the Prophet Sulayman (as), he has stated:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَحْكُمُوا عَلى رَجُلٍ بَشَيْءٍ حَتَّى تَنْظُرُوا إِلَى مَنْ
-يُصَاحِبَ. فَإِنَّمَا يَعْرِفُ الرَّجُلَ بِأَشْكَالِهِ وَأَقْرَانِ،
-وَيَنْسِبُ إِلـى أَصْحَابِهِ وَأَخَذَنْهِ.
-  </p>
-</blockquote>
+> لاَ تَحْكُمُوا عَلى رَجُلٍ بَشَيْءٍ حَتَّى تَنْظُرُوا إِلَى مَنْ
+> يُصَاحِبَ. فَإِنَّمَا يَعْرِفُ الرَّجُلَ بِأَشْكَالِهِ وَأَقْرَانِ،
+> وَيَنْسِبُ إِلـى أَصْحَابِهِ وَأَخَذَنْهِ.
 
 “Do not judge a person until you see whom he associates with since a
 person can be known by the friends and associates he keeps with and he
@@ -415,14 +339,10 @@ is affiliated to his companions and friends.”
 
 The Commander of the Faithful, ‘Ali b. Abi Talib (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ إِشْتَبَهَ عَلَيْكُمْ أَمْرَهُ، وَ لَمْ تَعْرِفُوا دِينَـهُ،
-فَانْظُرُوا إِلـى خُلاَفَائِهِ. فَإِنْ كَانُوا أَهْلَ دِينِ اللٌّهِ
-فَهُوَ عَلى دِينِ اللٌّهِ، وَ إِنْ كَانُوا عَلى غَيْرِ دِينِ اللٌّهِ
-فَلاَحَظَ لَهُ مِنْ دِينِ اللٌّهِ.
-  </p>
-</blockquote>
+> وَمَنْ إِشْتَبَهَ عَلَيْكُمْ أَمْرَهُ، وَ لَمْ تَعْرِفُوا دِينَـهُ،
+> فَانْظُرُوا إِلـى خُلاَفَائِهِ. فَإِنْ كَانُوا أَهْلَ دِينِ اللٌّهِ
+> فَهُوَ عَلى دِينِ اللٌّهِ، وَ إِنْ كَانُوا عَلى غَيْرِ دِينِ اللٌّهِ
+> فَلاَحَظَ لَهُ مِنْ دِينِ اللٌّهِ.
 
 “Anytime the state of a person is not known to you and you do not know
 his faith, look towards his friends. If they are people of the faith of
@@ -473,5 +393,4 @@ directly, was one of justice and equality and the assistance of those
 who are downtrodden. (Tafsir-e-Namuna, vol. 12, pg. 60)
 
 [^13]: Surat al-Zukhruf (43), verse 18
-
 

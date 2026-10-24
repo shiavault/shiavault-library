@@ -151,4 +151,3 @@ of a Mujtahid, and later follows a Mujtahid, his former actions will be
 valid if that Mujtahid declares them to be valid, otherwise they will be
 treated as void.
 
-

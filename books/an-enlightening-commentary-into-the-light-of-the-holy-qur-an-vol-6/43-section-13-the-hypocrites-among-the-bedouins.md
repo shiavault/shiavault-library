@@ -4,14 +4,10 @@ Section 13: The Hypocrites Among the Bedouins
 Surah At-Tawbah – Verse 100
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّابِقُونَ الاَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالاَنْصَارِ
-وَالَّذِينَ اتَّبَعُوهُم بإِحْسَانٍ رَضِيَ اللّهُ عَنْهُمْ وَرَضُوا
-عَنْهُ وَأَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الاَنْهَارُ
-خَالِدِينَ فِيهَآ أَبَدَاً ذَلِكَ الْفَوْزُ الْعَظِيم
-  </p>
-</blockquote>
+> وَالسَّابِقُونَ الاَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالاَنْصَارِ
+> وَالَّذِينَ اتَّبَعُوهُم بإِحْسَانٍ رَضِيَ اللّهُ عَنْهُمْ وَرَضُوا
+> عَنْهُ وَأَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الاَنْهَارُ
+> خَالِدِينَ فِيهَآ أَبَدَاً ذَلِكَ الْفَوْزُ الْعَظِيم
 
 **100*****. “And the foremost, the first of the Emigrants and the
 Helpers, and those who followed them in goodness,*** ***Allah is
@@ -81,14 +77,10 @@ with him and has accepted the whole deeds he has done?
 Surah At-Tawbah – Verse 101
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ حَوْلَكُم مِنَ الاَعْرَابِ مُنَافِقُونَ وَمِنْ أَهْلِ
-الْمَدِينَةِ مَرَدُوا عَلَى النِّفَاقِ لا تَعْلَمُهُمْ نَحْنُ
-نَعْلَمُهُمْ سَنُعَذِّبُهُم مَرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَى عَذَابٍ
-عَظِيمٍ
-  </p>
-</blockquote>
+> وَمِمَّنْ حَوْلَكُم مِنَ الاَعْرَابِ مُنَافِقُونَ وَمِنْ أَهْلِ
+> الْمَدِينَةِ مَرَدُوا عَلَى النِّفَاقِ لا تَعْلَمُهُمْ نَحْنُ
+> نَعْلَمُهُمْ سَنُعَذِّبُهُم مَرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَى عَذَابٍ
+> عَظِيمٍ
 
 **101*****. “And among the Bedouins around you there are hypocrites, and
 from among the people of Medina (there are also some who) have grown
@@ -140,13 +132,9 @@ spiritual and bodily chastisements.
 Surah At-Tawbah – Verse 102
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وءَاخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ خَلَطُوا عَمَلاً صَالِحاً
-وءَاخَرَ سَيِّئاً عَسَى اللّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ اللّهَ
-غَفُورٌرَحِيمٌ
-  </p>
-</blockquote>
+> وءَاخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ خَلَطُوا عَمَلاً صَالِحاً
+> وءَاخَرَ سَيِّئاً عَسَى اللّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ اللّهَ
+> غَفُورٌرَحِيمٌ
 
 **102*****. “And (there are) othes who have confessed to their sins.
 They have mixed a righteous deed and an evil one. Maybe Allah will turn
@@ -178,13 +166,9 @@ them.
 Surah At-Tawbah – Verse 103
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا
-وَصَلِّ عَلَيْهِمْ إِنَّ صَلاتَكَ سَكَنٌ لَهُمْ وَاللّهُ سَمِيعٌ
-عَلِيمٌ
-  </p>
-</blockquote>
+> خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا
+> وَصَلِّ عَلَيْهِمْ إِنَّ صَلاتَكَ سَكَنٌ لَهُمْ وَاللّهُ سَمِيعٌ
+> عَلِيمٌ
 
 **103*****. “Take alms out of their possessions to cleanse them and
 purify them thereby, and pray for them, surely your prayers are a
@@ -244,12 +228,8 @@ of the intentions of the givers of alms tax.
 Surah At-Tawbah – Verse 104
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَعْلَمُوا أَنَّ اللّهَ هُوَ يَقْبَلُ التَّوبَةَ عَنْ عِبَادِهِ
-وَيَأْخُذُ الْصَّدَقَاتِ وَأَنَّ اللّهَ هُوَ التَّوَّابُ الرَّحِيمُ
-  </p>
-</blockquote>
+> أَلَمْ يَعْلَمُوا أَنَّ اللّهَ هُوَ يَقْبَلُ التَّوبَةَ عَنْ عِبَادِهِ
+> وَيَأْخُذُ الْصَّدَقَاتِ وَأَنَّ اللّهَ هُوَ التَّوَّابُ الرَّحِيمُ
 
 **104*****. “Do they not know that Allah is He Who accepts the
 repentance from His servants and takes the alms and that Allah is He Who
@@ -302,13 +282,9 @@ This rank belongs only to Allah (s.w.t.).
 Surah At-Tawbah – Verse 105
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ اعْمَلُوا فَسَيَرَى اللّهُ عَمَلَكُمْ وَرَسُولُهُ
-وَالْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
-فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَقُلِ اعْمَلُوا فَسَيَرَى اللّهُ عَمَلَكُمْ وَرَسُولُهُ
+> وَالْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ
+> فَيُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْمَلُونَ
 
 **105*****. “And say: ‘Act you (as you will )! Allah will see your work
 and (so will) His Messenger and the believers, then soon you will be
@@ -343,12 +319,8 @@ Allah makes aware of our deeds. [^3]
 Surah At-Tawbah – Verse 106
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وءَاخَرُونَ مُرْجَوْنَ لأَمْرِ اللّهِ إِمَّا يُعَذِّبُهُمْ وإِمَّا
-يَتُوبُ عَلَيْهِمْ وَاللّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وءَاخَرُونَ مُرْجَوْنَ لأَمْرِ اللّهِ إِمَّا يُعَذِّبُهُمْ وإِمَّا
+> يَتُوبُ عَلَيْهِمْ وَاللّهُ عَلِيمٌ حَكِيمٌ
 
 **106*****. “And (there are) others expecting Allah’s decree: either He
 shall chastise them, or turn to them (mercifully), and Allah is
@@ -379,14 +351,10 @@ vengeance. The verse concludes:
 Surah At-Tawbah – Verse 107
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اتَّخَذُوا مَسْجِداً ضِرَاراً وَكُفْراً وَتَفْرِيقاً
-بَيْنَ الْمُؤْمِنِينَ وإِرْصَاداً لِمَنْ حَارَبَ اللّهَ وَرَسُولَهُ
-مِن قَبْلُ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلاَّ الْحُسْنَى وَاللّهُ
-يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اتَّخَذُوا مَسْجِداً ضِرَاراً وَكُفْراً وَتَفْرِيقاً
+> بَيْنَ الْمُؤْمِنِينَ وإِرْصَاداً لِمَنْ حَارَبَ اللّهَ وَرَسُولَهُ
+> مِن قَبْلُ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلاَّ الْحُسْنَى وَاللّهُ
+> يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
 
 **107*****. “And those who built a mosque to cause harm (to Islam) and
 for unbelief, and to divide the believers, and (as) an ambush for those
@@ -471,13 +439,9 @@ plot manifest, and futiled the evil plan of those hypocrites.
 Surah At-Tawbah – Verse 108
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَتَقُمْ فِيهِ أَبَداً لَمَسْجِدٌ اُسِّسَ عَلَى التَّقْوَى مِنْ
-أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن
-يَتَطَهَّرُوا وَاللّهُ يُحِبُّ الْمُطَّهِّرِينَ
-  </p>
-</blockquote>
+> لاَتَقُمْ فِيهِ أَبَداً لَمَسْجِدٌ اُسِّسَ عَلَى التَّقْوَى مِنْ
+> أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن
+> يَتَطَهَّرُوا وَاللّهُ يُحِبُّ الْمُطَّهِّرِينَ
 
 **108*****. “Never do stand therein (to pray).*** ***Certainly a mosque
 founded on piety from the first day is worthier that you stand in it
@@ -519,14 +483,10 @@ purified ones.”***
 Surah At-Tawbah – Verse 109
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَى تَقْوَى مِنَ اللّهِ وَرِضْوَانٍ
-خَيْرٌ أَم مَنْ أَسَّسَ بُنْيَانَهُ عَلَى شَفَا جُرُفٍ هَارٍ
-فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ وَاللّهُ لايَهْدِي الْقَوْمَ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَى تَقْوَى مِنَ اللّهِ وَرِضْوَانٍ
+> خَيْرٌ أَم مَنْ أَسَّسَ بُنْيَانَهُ عَلَى شَفَا جُرُفٍ هَارٍ
+> فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ وَاللّهُ لايَهْدِي الْقَوْمَ
+> الظَّالِمِينَ
 
 **109*****. “Is he, therefore, better who has laid his foundation on
 fear of Allah and (His) good pleasure, or he who has laid his foundation
@@ -560,12 +520,8 @@ of Hell? And Allah does not guide the unjust people.”***
 Surah At-Tawbah – Verse 110
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لا يَزَالُ بُنْيَانُهُمُ الَّذِي بَنَوْا رِيبَةً فِي قُلُوبِهِمْ
-إِلآَّ أَن تَقَطَّعَ قُلُوبُهُمْ وَاللّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> لا يَزَالُ بُنْيَانُهُمُ الَّذِي بَنَوْا رِيبَةً فِي قُلُوبِهِمْ
+> إِلآَّ أَن تَقَطَّعَ قُلُوبُهُمْ وَاللّهُ عَلِيمٌ حَكِيمٌ
 
 **110*****. “The building which they built will not cease to be (a
 source of) disquiet in their hearts unless their hearts be cut into
@@ -607,5 +563,4 @@ Mustadrak-I-Hākim), and some other books.
 ’Usūl-i-Kāfi, vol. 1, p. 171, and Bihār-ul-’Anwār, by ‘Allāmah Majlisi.
 
 [^4]: ’Abū-‘Āmir was the father of Hanzalah
-
 

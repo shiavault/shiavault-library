@@ -562,4 +562,3 @@ which they themselves condemned, and he said, “The river belongs to
 Allah. There is no embargo on water for anyone, and whoever wishes, may
 take it.”
 
-

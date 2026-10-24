@@ -101,4 +101,3 @@ canonisation.
 
 3. Explain its usage in man’s reward and punishment.
 
-

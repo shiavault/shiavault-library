@@ -15,4 +15,3 @@ to the general ruling or the recommendation. The follower must follow at
 the least the general ruling. The follower cannot follow any other
 Mujtahid on this issue.
 
-

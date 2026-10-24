@@ -482,4 +482,3 @@ from Satan’s arrows. He who avoids it in fear of Almighty Allah, Allah
 would bestow upon him a faith the wetness of which he can find in his
 heart.’
 
-

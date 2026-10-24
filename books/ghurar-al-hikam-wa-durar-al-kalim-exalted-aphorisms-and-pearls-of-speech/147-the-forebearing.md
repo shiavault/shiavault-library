@@ -7,21 +7,13 @@ The Forebearing
 is that all the people are [ready to be] his helpers against his enemy.
 
 > 1ـ أوَّلُ عِوَضِ الحَلِيمِ عَنْ حِلْمِهِ أنَّ النّاسَ كُلَّهُمْ
-<blockquote dir="rtl">
-  <p>
-أنْصارُهُ عَلى خَصْمِهِ.
-  </p>
-</blockquote>
+> أنْصارُهُ عَلى خَصْمِهِ.
 
 2. The forbearing person raises his determination, in that which he has
 been oppressed, above seeking an evil retribution.
 
 > 2ـ اَلحَليْمُ يُعْلِي هِمَّتَهُ فيما جُنِيَ عَلَيْهِ مِنْ طَلَبِ سُوءِ
-<blockquote dir="rtl">
-  <p>
-المُكافاةِ.
-  </p>
-</blockquote>
+> المُكافاةِ.
 
 3. Indeed the best of people is one who is forbearing even when he is
 strong [enough to exact revenge], is not attached to the pleasures of
@@ -29,11 +21,7 @@ this world even though he is well-off and is just even though he has
 power.
 
 > 3ـ إنَّ أفْضَلَ النّاسِ مَنْ حَلُمَ عَنْ قُدْرَة، وزَهَدَ عَنْ
-<blockquote dir="rtl">
-  <p>
-غُنْيَة، وأنْصَفَ عَنْ قُوَّة.
-  </p>
-</blockquote>
+> غُنْيَة، وأنْصَفَ عَنْ قُوَّة.
 
 4. The forbearing is one who tolerates [the flaws of] his brothers.
 
@@ -48,11 +36,7 @@ tolerance.
 for a person who imitates a group not to soon become one among them.
 
 > 6ـ إنْ لَمْ تَـكُنْ حَلِيماً فَتَحَلَّمْ، فَإنَّهُ قَلَّ مَنْ
-<blockquote dir="rtl">
-  <p>
-تَشَبَّهَ بِقَوْم إلاّ أوْشَكَ أنْ يَصِيرَ مِنْهُمْ.
-  </p>
-</blockquote>
+> تَشَبَّهَ بِقَوْم إلاّ أوْشَكَ أنْ يَصِيرَ مِنْهُمْ.
 
 7. Indeed only he is forbearing who is patient when he is offended and
 forgives when he is wronged.
@@ -77,11 +61,7 @@ forbearance.
 fear, [and] moderate in your request.
 
 > 11ـ كُنْ حَلِيماً فِي الغَضَبِ،صَبُوراً فِي الرَّهَبِ، مُجْمِلاً فِي
-<blockquote dir="rtl">
-  <p>
-الطَّلَبِ.
-  </p>
-</blockquote>
+> الطَّلَبِ.
 
 12. He who lacks strength and thus remains quiet, only to take revenge
 when he gets power, is not forbearing; rather only he is forbearing who
@@ -89,12 +69,8 @@ forgives when he has power and over all of whose affairs forbearance
 prevails.
 
 > 12ـ لَيْسَ الحَلِيمُ مَنْ عَجَزَ فَهَجَمَ، وإذا قَدَرَ انْتَقَمَ
-<blockquote dir="rtl">
-  <p>
-إنَّما الحَلِيمُ مَنْ إذا قَدَرَ عَفا، وكانَ الحِلْمُ غالِباً عَلى
-كُلِّ أمْرِهِ.
-  </p>
-</blockquote>
+> إنَّما الحَلِيمُ مَنْ إذا قَدَرَ عَفا، وكانَ الحِلْمُ غالِباً عَلى
+> كُلِّ أمْرِهِ.
 
 13. One who endeavours to act with forbearance becomes forbearing.
 
@@ -118,15 +94,10 @@ towards you, then infuriate him by the beauty of your forbearance
 towards him.
 
 > 17ـ مَنْ غاظَكَ بِقُبْحِ السَّفَهِ عَلَيْكَ، فَغِظْهُ بِحُسْنِ
-<blockquote dir="rtl">
-  <p>
-الْحِلْمِ عَنْهُ.
-  </p>
-</blockquote>
+> الْحِلْمِ عَنْهُ.
 
 18. One who seeks the support of forbearance against you defeats you and
 acts graciously towards you.
 
 > 18ـ مَنِ اسْتَعانَ بِالْحِلْمِ عَلَيْكَ غَلَبَكَ وتَفَضَّلَ عَلَيْكَ.
-
 

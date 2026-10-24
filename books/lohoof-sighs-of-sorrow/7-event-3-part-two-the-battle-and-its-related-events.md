@@ -504,4 +504,3 @@ verse: "Then some of them (believers) carried out their responsibility,
 while others awaiting and they have not changed in the least;" (33:
 32)
 
-

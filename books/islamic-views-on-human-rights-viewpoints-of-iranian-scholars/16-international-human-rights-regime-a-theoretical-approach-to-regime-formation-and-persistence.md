@@ -1415,4 +1415,3 @@ World Order, 1979.
 [^68]: Charles E. Beitz, Political Theory and International Relations,
 Princeton: Princeton University Press, 1979, pp. 131-132.
 
-

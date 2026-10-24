@@ -355,11 +355,7 @@ and accepted, this is because in occupying certain political posts, some
 qualifications have been laid down in the Constitution, and God also
 says, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَن يَجْعَلَ اللّهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلاً﴾
-  </p>
-</blockquote>
+> ﴿وَلَن يَجْعَلَ اللّهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلاً﴾
 
 ***“And Allah will never provide the faithless any way [to prevail] over
 the faithful.**”*[^1]
@@ -385,13 +381,9 @@ while codifying laws of the country. Of course, human beings do not
 belong to different classes according to Islam. In this regard, God
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِن ذَكَرٍ وَأُنثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّهِ أَتْقَاكُمْ...﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِن ذَكَرٍ وَأُنثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّهِ أَتْقَاكُمْ...﴾
 
 ***“O mankind! Indeed We created you from a male and a female, and made
 you nations and tribes that you may identify with one another. Indeed
@@ -479,5 +471,4 @@ religion which is affiliated with International Zionism, for the sake of
 [^1]: Surah an-Nisa’ 4:141.
 
 [^2]: Surah al-Hujurat 49:13.
-
 

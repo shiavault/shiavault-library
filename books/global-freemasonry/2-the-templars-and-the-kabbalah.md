@@ -155,7 +155,6 @@ tradition by word of mouth from generation to generation.19
 For this reason, we must look to Ancient Egypt in order to find the
 basic origins of the Kabbalah-Templars-Freemasonry chain.
 
-
 **The Magicians of Ancient Egypt**
 
 The Ancient Egypt of the pharaohs was one of the most ancient
@@ -318,7 +317,6 @@ In order to make the answer to this question clearer, we must first
 examine more closely the historical events that we have now only briefly
 outlined.
 
-
 **The Inside Story on the Kabbalah**
 
 Exodus" is the title of the second book of the Torah. This book
@@ -346,5 +344,4 @@ contradiction; the story is recounted soundly. Moreover, as with other
 stories, God reveals much wisdom and many secrets in the course of what
 is related. For this reason, when we examine these stories closely, we
 can extract a number of lessons from them.
-
 

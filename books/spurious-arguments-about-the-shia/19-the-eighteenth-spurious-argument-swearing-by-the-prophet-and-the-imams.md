@@ -24,4 +24,3 @@ oath on a legal document) by other than Allah or His attributes is not
 acceptable. This is a legal oath and anything other than this is
 considered to be only a manner of emphasizing a point.
 
-

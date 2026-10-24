@@ -4,25 +4,13 @@ Surah al-Ghafir, Verses 23 - 45
 Surah al-Ghafir - Verses 23 - 25
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مُوسَی بِآياتِنَا وَسُلْطَانٍ مُبِينٍ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مُوسَی بِآياتِنَا وَسُلْطَانٍ مُبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلَی فِرْعَوْنَ وَهَامَانَ وَقَارُونَ فَقَالُوا سَاحِرٌ كَذَّابٌ
-  </p>
-</blockquote>
+> إِلَی فِرْعَوْنَ وَهَامَانَ وَقَارُونَ فَقَالُوا سَاحِرٌ كَذَّابٌ
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَاءَهُمْ بِالْحَقِّ مِنْ عِنْدِنَا قَالُوا اقْتُلُوا
-أَبْنَاءَ الَّذِينَ آمَنُوا مَعَهُ وَاسْتَحْيُوا نِسَاءَهُمْ وَمَا
-كَيْدُ الْكَافِرِينَ إِلَّا فِي ضَلالٍ
-  </p>
-</blockquote>
+> فَلَمَّا جَاءَهُمْ بِالْحَقِّ مِنْ عِنْدِنَا قَالُوا اقْتُلُوا
+> أَبْنَاءَ الَّذِينَ آمَنُوا مَعَهُ وَاسْتَحْيُوا نِسَاءَهُمْ وَمَا
+> كَيْدُ الْكَافِرِينَ إِلَّا فِي ضَلالٍ
 
 ***23. And verily We sent Moses with Our Ayat (Verses, Signs) and a
 manifest authority.***  
@@ -123,13 +111,9 @@ forces of Truth vanquish those of falsehood.
 Surah al-Ghafir - Verse 26
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ فِرْعَوْنُ ذَرُونِي أَقْتُلْ مُوسَی وَلْيَدْعُ رَبَّهُ إِنِّي
-أَخَافُ أَنْ يُبَدِّلَ دِينَكُمْ أَوْ أَنْ يُظْهِرَ فِي الْأَرْضِ
-الْفَسَادَ
-  </p>
-</blockquote>
+> وَقَالَ فِرْعَوْنُ ذَرُونِي أَقْتُلْ مُوسَی وَلْيَدْعُ رَبَّهُ إِنِّي
+> أَخَافُ أَنْ يُبَدِّلَ دِينَكُمْ أَوْ أَنْ يُظْهِرَ فِي الْأَرْضِ
+> الْفَسَادَ
 
 ***26. Pharaoh said: “Leave me to slay Moses and let him call his Lord
 [so that He may save him]. I fear that he may change your religion or
@@ -231,12 +215,8 @@ which may be seen in our time.
 Surah al-Ghafir - Verse 27
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ مُوسَی إِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ مِنْ كُلِّ
-مُتَكَبِّرٍ لا يُؤْمِنُ بِيَوْمِ الْحِسَابِ
-  </p>
-</blockquote>
+> وَقَالَ مُوسَی إِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ مِنْ كُلِّ
+> مُتَكَبِّرٍ لا يُؤْمِنُ بِيَوْمِ الْحِسَابِ
 
 ***27. Moses said: “Indeed I seek refuge in my Lord and Your Lord from
 [the evil of] every arrogant who believes not in the Day of
@@ -278,15 +258,11 @@ and vain Pharaoh.
 Surah al-Ghafir - Verse 28
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ
-أَتَقْتُلُونَ رَجُلاً أَنْ يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُمْ
-بِالْبَيِّنَاتِ مِنْ رَبِّكُمْ وَإِنْ يَكُ كَاذِباً فَعَلَيْهِ
-كَذِبُهُ وَإِنْ يَكُ صَادِقاً يُصِبْكُمْ بَعْضُ الَّذِي يَعِدُكُمْ
-إِنَّ اللَّهَ لا يَهْدِي مَنْ هُوَ مُسْرِفٌ كَذَّابٌ
-  </p>
-</blockquote>
+> وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ
+> أَتَقْتُلُونَ رَجُلاً أَنْ يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُمْ
+> بِالْبَيِّنَاتِ مِنْ رَبِّكُمْ وَإِنْ يَكُ كَاذِباً فَعَلَيْهِ
+> كَذِبُهُ وَإِنْ يَكُ صَادِقاً يُصِبْكُمْ بَعْضُ الَّذِي يَعِدُكُمْ
+> إِنَّ اللَّهَ لا يَهْدِي مَنْ هُوَ مُسْرِفٌ كَذَّابٌ
 
 ***28. And a believing man of Pharaoh family who concealed his faith
 said: “Would you slay a man because he says: ‘My Lord is Allah and he
@@ -358,13 +334,9 @@ he is right and we will be chastised by his Lord!
 Surah al-Ghafir - Verse 29
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا قَوْمِ لَكُمُ الْمُلْكُ الْيَوْمَ ظَاهِرِينَ فِي الْأَرْضِ فَمَنْ
-يَنْصُرُنَا مِنْ بَأْسِ اللَّهِ إِنْ جَاءَنَا قَالَ فِرْعَوْنُ مَا
-أُرِيكُمْ إِلَّا مَا أَرَی وَمَا أَهْدِيكُمْ إِلَّا سَبِيلَ الرَّشَادِ
-  </p>
-</blockquote>
+> يَا قَوْمِ لَكُمُ الْمُلْكُ الْيَوْمَ ظَاهِرِينَ فِي الْأَرْضِ فَمَنْ
+> يَنْصُرُنَا مِنْ بَأْسِ اللَّهِ إِنْ جَاءَنَا قَالَ فِرْعَوْنُ مَا
+> أُرِيكُمْ إِلَّا مَا أَرَی وَمَا أَهْدِيكُمْ إِلَّا سَبِيلَ الرَّشَادِ
 
 ***29. “O my people! Yours is the sovereignty today, you are dominant in
 the land. But who will save us from the torment of Allah, should it
@@ -464,19 +436,11 @@ Talib (as) who is superior to all in rank.”*[^2]
 Surah al-Ghafir - Verses 30 - 31
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِي آمَنَ يَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ مِثْلَ
-يَوْمِ الْأَحْزَابِ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِي آمَنَ يَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ مِثْلَ
+> يَوْمِ الْأَحْزَابِ
 
-<blockquote dir="rtl">
-  <p>
-مِثْلَ دَأْبِ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَالَّذِينَ مِنْ
-بَعْدِهِمْ وَمَا اللَّهُ يُرِيدُ ظُلْماً لِلْعِبَادِ
-  </p>
-</blockquote>
+> مِثْلَ دَأْبِ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَالَّذِينَ مِنْ
+> بَعْدِهِمْ وَمَا اللَّهُ يُرِيدُ ظُلْماً لِلْعِبَادِ
 
 ***30. And he who believed said: “O my people! Indeed I fear for you a
 fate like that day [of destruction] of the [former] Confederates!***  
@@ -539,18 +503,10 @@ consequences of your evil acts since:*
 Surah al-Ghafir - Verses 32 - 33
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ يَوْمَ التَّنَادِ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ يَوْمَ التَّنَادِ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُمْ مِنَ اللَّهِ مِنْ عَاصِمٍ
-وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
-  </p>
-</blockquote>
+> يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُمْ مِنَ اللَّهِ مِنْ عَاصِمٍ
+> وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
 
 ***32. “And, O my people! Indeed I fear for you the Day when there will
 be mutual calling.”***  
@@ -636,14 +592,10 @@ guidance!”***
 Surah al-Ghafir - Verse 34
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَاءَكُمْ يُوسُفُ مِنْ قَبْلُ بِالْبَيِّنَاتِ فَمَا زِلْتُمْ
-فِي شَكٍّ مِمَّا جَاءَكُمْ بِهِ حَتَّی إِذَا هَلَكَ قُلْتُمْ لَنْ
-يَبْعَثَ اللَّهُ مِنْ بَعْدِهِ رَسُولاً كَذَلِكَ يُضِلُّ اللَّهُ مَنْ
-هُوَ مُسْرِفٌ مُرْتَابٌ
-  </p>
-</blockquote>
+> وَلَقَدْ جَاءَكُمْ يُوسُفُ مِنْ قَبْلُ بِالْبَيِّنَاتِ فَمَا زِلْتُمْ
+> فِي شَكٍّ مِمَّا جَاءَكُمْ بِهِ حَتَّی إِذَا هَلَكَ قُلْتُمْ لَنْ
+> يَبْعَثَ اللَّهُ مِنْ بَعْدِهِ رَسُولاً كَذَلِكَ يُضِلُّ اللَّهُ مَنْ
+> هُوَ مُسْرِفٌ مُرْتَابٌ
 
 ***34. And verily Joseph did come to you in times gone by with clear
 signs, but you ceased not to doubt in what he did bring to you: till
@@ -703,13 +655,9 @@ but you may deprive your sealed hearts of Divine Guidance.”*
 Surah al-Ghafir - Verse 35
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ
-كَبُرَ مَقْتاً عِنْدَ اللَّهِ وَعِنْدَ الَّذِينَ آمَنُوا كَذَلِكَ
-يَطْبَعُ اللَّهُ عَلَی كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ
-  </p>
-</blockquote>
+> الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ
+> كَبُرَ مَقْتاً عِنْدَ اللَّهِ وَعِنْدَ الَّذِينَ آمَنُوا كَذَلِكَ
+> يَطْبَعُ اللَّهُ عَلَی كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ
 
 ***35. Those who dispute about the Ayat (Verses, Signs) of Allah,
 without any authority that has come to them, it would lead to a fearsome
@@ -762,20 +710,12 @@ mentioned below, he lost his life for it.
 Surah al-Ghafir - Verses 36 - 37
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ فِرْعَوْنُ يَا هَامَانُ ابْنِ لِي صَرْحاً لَعَلِّي أَبْلُغُ
-الْأَسْبَابَ
-  </p>
-</blockquote>
+> وَقَالَ فِرْعَوْنُ يَا هَامَانُ ابْنِ لِي صَرْحاً لَعَلِّي أَبْلُغُ
+> الْأَسْبَابَ
 
-<blockquote dir="rtl">
-  <p>
-أَسْبَابَ السَّمَاوَاتِ فَأَطَّلِعَ إِلَی إِلَهِ مُوسَی وَإِنِّي
-لَأَظُنُّهُ كَاذِباً وَكَذَلِكَ زُيِّنَ لِفِرْعَوْنَ سُوءُ عَمَلِهِ
-وَصُدَّ عَنِ السَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِي تَبَابٍ
-  </p>
-</blockquote>
+> أَسْبَابَ السَّمَاوَاتِ فَأَطَّلِعَ إِلَی إِلَهِ مُوسَی وَإِنِّي
+> لَأَظُنُّهُ كَاذِباً وَكَذَلِكَ زُيِّنَ لِفِرْعَوْنَ سُوءُ عَمَلِهِ
+> وَصُدَّ عَنِ السَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِي تَبَابٍ
 
 ***36. And Pharaoh said: “O Haman! Build a tower for me so that I may
 arrive at the ways,***  
@@ -872,19 +812,11 @@ A strong wind blew before long and the edifice collapsed.[^7]
 Surah al-Ghafir - Verses 38 - 39
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ
-الرَّشَادِ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ
+> الرَّشَادِ
 
-<blockquote dir="rtl">
-  <p>
-يَا قَوْمِ إِنَّمَا هَذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ
-الْآخِرَةَ هِيَ دَارُ الْقَرَارِ
-  </p>
-</blockquote>
+> يَا قَوْمِ إِنَّمَا هَذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ
+> الْآخِرَةَ هِيَ دَارُ الْقَرَارِ
 
 ***38. And the man [from the family of Pharaoh] who believed said: “O my
 people! Follow me, I will guide you to the Path of Guidance.***  
@@ -924,13 +856,9 @@ lofty palaces to dust. Our everlasting abode is somewhere else.
 Surah al-Ghafir - Verse 40
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ سَيِّئَةً فَلا يُجْزَی إِلَّا مِثْلَهَا وَمَنْ عَمِلَ
-صَالِحاً مِنْ ذَكَرٍ أَوْ أُنْثَی وَهُوَ مُؤْمِنٌ فَأُولَئِكَ
-يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ سَيِّئَةً فَلا يُجْزَی إِلَّا مِثْلَهَا وَمَنْ عَمِلَ
+> صَالِحاً مِنْ ذَكَرٍ أَوْ أُنْثَی وَهُوَ مُؤْمِنٌ فَأُولَئِكَ
+> يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ
 
 ***40. “Whosoever does an evil deed will not be requited except the like
 thereof and whosoever does a righteous deed, whether male or female, and
@@ -999,19 +927,11 @@ by God Almighty.
 Surah al-Ghafir - Verses 41 - 42
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَی النَّجَاةِ وَتَدْعُونَنِي إِلَی
-النَّارِ
-  </p>
-</blockquote>
+> وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَی النَّجَاةِ وَتَدْعُونَنِي إِلَی
+> النَّارِ
 
-<blockquote dir="rtl">
-  <p>
-تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ
-عِلْمٌ وَأَنَا أَدْعُوكُمْ إِلَی الْعَزِيزِ الْغَفَّارِ
-  </p>
-</blockquote>
+> تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ
+> عِلْمٌ وَأَنَا أَدْعُوكُمْ إِلَی الْعَزِيزِ الْغَفَّارِ
 
 ***41. [The believing man of the family of Pharaoh said:] “And O my
 people! How is it that I call you to salvation while you call me to
@@ -1072,13 +992,9 @@ potency and forgiveness on the other.
 Surah al-Ghafir - Verse 43
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لا جَرَمَ أَنَّمَا تَدْعُونَنِي إِلَيْهِ لَيْسَ لَهُ دَعْوَةٌ فِي
-الدُّنْيَا وَلا فِي الْآخِرَةِ وَأَنَّ مَرَدَّنَا إِلَی اللَّهِ
-وَأَنَّ الْمُسْرِفِينَ هُمْ أَصْحَابُ النَّارِ
-  </p>
-</blockquote>
+> لا جَرَمَ أَنَّمَا تَدْعُونَنِي إِلَيْهِ لَيْسَ لَهُ دَعْوَةٌ فِي
+> الدُّنْيَا وَلا فِي الْآخِرَةِ وَأَنَّ مَرَدَّنَا إِلَی اللَّهِ
+> وَأَنَّ الْمُسْرِفِينَ هُمْ أَصْحَابُ النَّارِ
 
 ***43. “No doubt you call me to [worship] one who cannot grant [me] my
 request in this world nor in the Hereafter. And our return will be to
@@ -1111,12 +1027,8 @@ We are also supposed to bear in mind that:
 Surah al-Ghafir - Verse 44
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَی اللَّهِ
-إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ
-  </p>
-</blockquote>
+> فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَی اللَّهِ
+> إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ
 
 ***44. “And [before long] you will remember what I am telling you and my
 affair I leave it to Allah since He is the All-Seer of [His]
@@ -1164,12 +1076,8 @@ invoking God Almighty to protect him in such dire circumstances.
 Surah al-Ghafir - Verse 45
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ
-سُوءُ الْعَذَابِ
-  </p>
-</blockquote>
+> فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ
+> سُوءُ الْعَذَابِ
 
 ***45. Therefore Allah saved him from the evils that they plotted
 [against him], while an evil torment encompassed Pharaoh’s people.***
@@ -1238,5 +1146,4 @@ which is mentioned in the following Verse.
 [^11]: Tafsir Nimuna.
 
 [^12]: Majma’ al-Bayan, under the Verse in question.
-
 

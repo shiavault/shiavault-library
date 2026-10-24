@@ -16,12 +16,8 @@ the depths of one’s heart. That is true *Isti’adha.*
 To highlight the importance of *Isti’adha*, Allah (S.w.T.) says in the
 Holy Book:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
-الرَّجِيمِ
-  </p>
-</blockquote>
+> فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
+> الرَّجِيمِ
 
 ***So when you recite the Qur’an, seek refuge with Allah from the
 accursed Shaitan.*** ***(Sura an-Nahl, 16:98)***
@@ -71,7 +67,6 @@ example, at the time of wearing the clothes one should recite:
 *(O Allah!* *Keep my private parts hidden and save them from the
 interference of shaitan)*
 
-
 In every situation, however lowly and futile, or elevated and likeable,
 one should seek protection from Satan. While entering into the mosque,
 one should do the *Isti’adha* lest the persistent Satan chases you even
@@ -111,12 +106,8 @@ and place my trust in Him. And there is no power besides Him)*
 
 In the Holy Qur’an it is said with great emphasis that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لاَ تَرَوْنَهُمْ إِنَّا
-جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاء لِلَّذِينَ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لاَ تَرَوْنَهُمْ إِنَّا
+> جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاء لِلَّذِينَ لاَ يُؤْمِنُونَ
 
 ***He (shaitan) surely sees you, he as well as his host, from whence you
 cannot see them; surely We have made the shaitans to be the guardians of
@@ -136,12 +127,8 @@ reach the desired destination. The one and only way of precluding this
 risk is to seek Allah (S.w.T.)’s protection against Satan.
 Allah (S.w.T.) has ordered the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
-رَبِّ أَن يَحْضُرُونِ
-  </p>
-</blockquote>
+> وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ
+> رَبِّ أَن يَحْضُرُونِ
 
 ***And say: O my Lord! I seek refuge in Thee from the evil suggestions
 of the Shaitans; and I seek refuge in Thee! O my Lord from their
@@ -149,11 +136,7 @@ presence.*** ***(Sura al-Muminun, 23:97-8)***
 
 Similarly elsewhere in the Qur’an, Allah (S.w.T.) says:
 
-<blockquote dir="rtl">
-  <p>
-مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
-  </p>
-</blockquote>
+> مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
 
 ***Say I seek refuge from the evil of the whisperings of the slinking
 (Shaitan). (Sura an-Naas,*** ***114:4)***
@@ -200,7 +183,6 @@ sufficient. Remember! Unless you understand the purport of these words
 and mould your actions as per the Commandments of Allah (S.w.T.), the
 *Isti’adha* will not be of any utility.
 
-
 Isti’adha during the execution of Justice (Qadhawat), when in privacy with non-Mahram and while in a frenzy of anger
 --------------------------------------------------------------------------------------------------------------------
 
@@ -229,5 +211,4 @@ There is no wonder if Satan makes persons commit acts of *kufr*
 from such situations that have Allah (S.w.T.)’s particular Blessing
 because they say the *Isti’adha* in such situations.
 * *
-
 

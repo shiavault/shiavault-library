@@ -67,4 +67,3 @@ Theosophy or Philosophy (al-hikmat al-muta‘āliyah) reached India, there
 were many interactions between these Schools and the School of ‘irfān as
 we also see in Persia itself.
 
-

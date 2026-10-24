@@ -228,4 +228,3 @@ hours also in the path of God.
 Revolution of Iran. It is hoped that now charities are operated
 honestly.
 
-

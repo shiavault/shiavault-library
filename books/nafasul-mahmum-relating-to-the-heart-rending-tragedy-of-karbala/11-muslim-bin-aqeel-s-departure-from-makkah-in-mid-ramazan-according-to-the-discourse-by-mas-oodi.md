@@ -189,4 +189,3 @@ Bakr, in a view to expand his dominion.
 bin Zubayr and Marwan bin Hakam, Marwan won the battle and thus his
 caliphate was secured.
 
-

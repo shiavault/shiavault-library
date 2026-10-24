@@ -107,7 +107,6 @@ Chosen, and so no difference, but why do they say his left rib? maybe
 they meant from the his sand remains and God knows better and it is all
 up to Him and no power except by Him.
 
-
 **The marriage of the children of Adam (PUH)**
 
 The marriage of the children of Adam (PUH) from each other was a matter
@@ -598,5 +597,4 @@ lot of differences and died after seven hundreds and ninety years..etc
 what is mentioned by Al-Mas'udi we copied it by sentences for a time and
 by summary at another and God is the Good Donor and He is the Knower of
 all matters.
-
 

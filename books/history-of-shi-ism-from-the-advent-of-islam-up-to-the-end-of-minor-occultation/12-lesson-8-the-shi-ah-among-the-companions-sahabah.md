@@ -246,4 +246,3 @@ Li’t-Taba‘ah wa’n-Nashr wa’t-Tawzi‘, 1400 AH), p. 186; Abi Mansur Ahma
 ibn ‘Ali ibn Abi Talib at-Tabarsi (Al-Ihtijaj. Tehran: Intisharat-e
 Usweh, n.d.), vol. 1, p. 472.
 
-

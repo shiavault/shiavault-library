@@ -133,4 +133,3 @@ between the Imam of the congregation and Mu'azzin, by the trustee, as he
 deems fit and proper. But it is better that these two beneficiaries
 reach a compromise between them in respect of the distribution.
 
-

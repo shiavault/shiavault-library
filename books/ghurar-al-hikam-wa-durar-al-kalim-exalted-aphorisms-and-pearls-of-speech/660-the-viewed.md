@@ -11,4 +11,3 @@ a good source of information [or good elocution].[^1]
 [^1]: Or: There is no good in the viewable exterior except when the
 interior is [also] good.
 
-

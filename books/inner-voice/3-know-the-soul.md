@@ -45,4 +45,3 @@ God has shown His signs in our self. Perhaps these points were in the
 mind of Amir-ul-mumeneen Ali when he said: “Whoever knew his soul, knew
 his Lord”.
 
-

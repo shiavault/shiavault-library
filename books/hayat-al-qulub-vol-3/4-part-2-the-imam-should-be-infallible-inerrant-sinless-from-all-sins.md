@@ -99,11 +99,7 @@ senseless words. Which wise one will believe that Imam can be a man of
 the Hell? Allah has said that a transgressor is a man of Hell. At one
 place He says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمْ النَّارُ.
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمْ النَّارُ.
 
 ***And as for those who transgress, their abode is the fire;*** **(Sura
 Sajdah 32:20)**
@@ -111,13 +107,9 @@ Sajdah 32:20)**
 At another place Allah says: do not rely on the news given by a
 transgressor:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
-فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى
-مَا فَعَلْتُمْ نَادِمِينَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ
+> فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى
+> مَا فَعَلْتُمْ نَادِمِينَ.
 
 ***O you who believe! If an evil-doer comes to you with a report, look
 carefully into it, lest you harm a*** ***people in ignorance, then be
@@ -125,11 +117,7 @@ sorry for what you have done.*** **(Sura Hujurat:6)**
 
 and says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ.
 
 ***Surely Allah does not guide the transgressing people.*** **(Sura
 Munafiqoon 63:6)**
@@ -189,11 +177,7 @@ that man reaches a stage where his total attention is only to his Lord
 of Lords; rather his heart becomes totally devoid of personal wishes and
 desires as has been mentioned in the Divine Verses:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ.
-  </p>
-</blockquote>
+> وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ.
 
 ***You do not desire anything except what Allah wants…*** **(Sura Insan
 76:30)**
@@ -231,12 +215,8 @@ Therefore, there is not even an iota of compulsion here. The verses
 which prove the existence of Imam include the one in which Allah
 Almighty has addressed Ibrahim (a.s.) saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا
-يَنَالُ عَهْدِي الظَّالِمِينَ.
-  </p>
-</blockquote>
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا
+> يَنَالُ عَهْدِي الظَّالِمِينَ.
 
 ***Surely I will make you an Imam of men.*** **(Sura Baqarah 2:124)**
 
@@ -255,11 +235,7 @@ The definition of injustice or oppression is to put or place anything at
 an improper or unfitting place, and the greatest injustice is to make
 anyone or anything a partner of Allah. Allah Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ.
-  </p>
-</blockquote>
+> إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ.
 
 ***Surely polytheism is the greatest injustice*****. (Sura Luqman
 31:13)**
@@ -323,13 +299,9 @@ Holy Quran and the Imam. The Imam and the Quran will not depart from one
 another till the Day of Qiyamat. The Imam guides people towards the
 Quran and the Quran directs people to the Imam. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ
-الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ
-أَجْرًا كَبِيرًا.
-  </p>
-</blockquote>
+> إِنَّ هَذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ
+> الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ
+> أَجْرًا كَبِيرًا.
 
 ***Surely this Quran guides to that which is most upright and gives good
 news to the believers who do good that they shall have a great
@@ -342,11 +314,7 @@ of Infallible from Imam Sadiq (a.s.). He replied: Infallible is the one
 who, by the guidance of Allah, prevents himself from all those things
 which have been prohibited by Allah. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُسْتَقِيمٍ.
 
 ***And whoever holds fast to Allah, he indeed is guided to the right
 path.*** **(Sura Ali-Imran 3:101)**
@@ -432,12 +400,8 @@ Ali-Imran 3:34)**
 
 And then said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا
-يَنَالُ عَهْدِي الظَّالِمِينَ.
-  </p>
-</blockquote>
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا
+> يَنَالُ عَهْدِي الظَّالِمِينَ.
 
 ***Surely I will make you an Imam of men. Ibrahim said: And of my
 offspring? My covenant does not include the unjust, said He*****. (Sura
@@ -447,13 +411,9 @@ Ibrahim (a.s.) said: O Lord! Fulfil the promise soon which You have
 given to me about Muhammad (S) and Ali (a.s.) and make haste in aiding
 and assisting them. This is an indication towards the Lord’s words:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَرْغَبُ عَنْ مِلَّةِ إِبْرَاهِيمَ إِلَّا مَنْ سَفِهَ نَفْسَهُ
-وَلَقَدْ اصْطَفَيْنَاهُ فِي الدُّنْيَا وَإِنَّهُ فِي الْآخِرَةِ لَمِنْ
-الصَّالِحِينَ.
-  </p>
-</blockquote>
+> وَمَنْ يَرْغَبُ عَنْ مِلَّةِ إِبْرَاهِيمَ إِلَّا مَنْ سَفِهَ نَفْسَهُ
+> وَلَقَدْ اصْطَفَيْنَاهُ فِي الدُّنْيَا وَإِنَّهُ فِي الْآخِرَةِ لَمِنْ
+> الصَّالِحِينَ.
 
 ***And who forsakes the religion of Ibrahim but he who makes himself a
 fool, and most certainly We chose him in this world, and in the
@@ -467,14 +427,10 @@ Hereafter too, he is among the gentlemen. The Hazrat said: here Millat
 means Imamate. When Ibrahim (a.s.) made his progeny to live in Mecca he
 said:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا إِنِّي أَسْكَنتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-عِنْدَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ
-أَفْئِدَةً مِنْ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنْ
-الثَّمَرَاتِ.
-  </p>
-</blockquote>
+> رَبَّنَا إِنِّي أَسْكَنتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
+> عِنْدَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ
+> أَفْئِدَةً مِنْ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنْ
+> الثَّمَرَاتِ.
 
 ***O our Lord! Surely I have settled a part of my offspring in a valley
 unproductive of fruit near Thy Sacred House, our Lord! That they may
@@ -483,14 +439,10 @@ them and provide them with fruits…*** **(Sura Ibrahim 14:37)**
 
 At another place it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا وَارْزُقْ
-أَهْلَهُ مِنْ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُمْ بِاللَّهِ وَالْيَوْمِ
-الْآخِرِ قَالَ وَمَنْ كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ
-إِلَى عَذَابِ النَّارِ وَبِئْسَ الْمَصِيرُ.
-  </p>
-</blockquote>
+> وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا وَارْزُقْ
+> أَهْلَهُ مِنْ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُمْ بِاللَّهِ وَالْيَوْمِ
+> الْآخِرِ قَالَ وَمَنْ كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ
+> إِلَى عَذَابِ النَّارِ وَبِئْسَ الْمَصِيرُ.
 
 ***And when Ibrahim said: My Lord, make it a secure town and provide its
 people with fruits, such of them as believe in Allah and the last day.
@@ -547,11 +499,7 @@ Ibrahim (a.s.).
 also hears his voice. He is appointed over a group, be it a big group or
 a small one. Allah Almighty says about Yunus (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَأَرْسَلْنَاهُ إِلَى مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ.
-  </p>
-</blockquote>
+> وَأَرْسَلْنَاهُ إِلَى مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ.
 
 ***And We sent him towards a hundred thousand or more people. And there
 was an Imam over him*****. (Sura Saffat 37:147)**
@@ -568,12 +516,8 @@ saying Rijs (impurity), which is doubt and sin, hinted towards Ahlul
 Bayt’s (a.s.) being pure (clean). He has said in the verse of
 purification:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House! and to purify you a (thorough) purifying*****. (Sura Ahzab
@@ -585,11 +529,7 @@ us to our own condition. If He leaves us to ourselves, we also may
 become like others in the matter of sin and error. But Allah has said
 about us:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُونِي أَسْتَجِبْ لَكُمْ.
-  </p>
-</blockquote>
+> ادْعُونِي أَسْتَجِبْ لَكُمْ.
 
 ***Call upon Me, I will answer you*****. (Sura Ghafir 40:60)**
 
@@ -658,5 +598,4 @@ The one who does not accept their sinlessness has not recognized them.
 It is our firm belief that, from the beginning to the end, in their
 conditions they are perfect in their knowledge and that they have no
 defect like ignorance, shortcomings and disobedience etc.
-
 

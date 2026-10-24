@@ -987,4 +987,3 @@ Zayn al-‘Ābidīn, ‘Alī ibn al-Ḥusayn. *The Psalms of Islām*. Trans.
 William C. Chittick. London: Muḥammadī Trust of Great Britain of
 Northern Ireland, 1988.
 
-

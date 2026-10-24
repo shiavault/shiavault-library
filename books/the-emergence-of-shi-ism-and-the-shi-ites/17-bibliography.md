@@ -224,4 +224,3 @@ al-Sadir. Also, Najaf al-Matba\`ah al-Haydariyyah.
 Al-Zamakhshari, Jar Allah. *Tafsir al-Kashshaf.* Third Edition. Ed.
 Mustafa Husayn Ahmad. Beirut: Nashr Dar al-Kutub al-\`Arabi, 1987.
 
-

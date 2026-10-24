@@ -45,4 +45,3 @@ contemporary Muslims - notably Mawil Izzi Dien and Uthman Llewellyn -
 have attempted to provide such interpretations, these have not yet found
 their way into the legal codes of any existing Muslim societies.
 
-

@@ -2,32 +2,16 @@ Chapter 5: Pretenders of being imams
 ====================================
 
 > 1 - أخبرنا أحمد بن محمد بن سعيد بن عقدة قال: حدثنا حميد بن زياد، قال:
-<blockquote dir="rtl">
-  <p>
-حدثنا جعفر بن إسماعيل المنقري، قال: أخبرني شيخ بمصر يقال له: الحسين بن
-أحمد المقرئ، عن يونس بن ظبيان قال: قال أبو عبد الله في قول الله
-  </p>
-</blockquote>
+> حدثنا جعفر بن إسماعيل المنقري، قال: أخبرني شيخ بمصر يقال له: الحسين بن
+> أحمد المقرئ، عن يونس بن ظبيان قال: قال أبو عبد الله في قول الله
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ
-وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى
-لِلْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ
+> وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى
+> لِلْمُتَكَبِّرِينَ
 
-<blockquote dir="rtl">
-  <p>
-قال:
-  </p>
-</blockquote>
+> قال:
 
-<blockquote dir="rtl">
-  <p>
-مَن زعم أنه إمام وليس بإمامٍ.
-  </p>
-</blockquote>
+> مَن زعم أنه إمام وليس بإمامٍ.
 
 (1) Ahmad bin Muhammad bin Sa'eed bin Oqda narrated from Hameed bin
 Ziyad from Ja'far bin Issma’eel al-Minqari from al-Husayn bin Ahmad
@@ -39,20 +23,12 @@ shall be blackened. Is there not in hell an abode for the proud:”***[^1]
 “It talks about those, who pretend to be imams but they are not.”[^2]
 
 > 2 - وأخبرنا أحمد بن محمد بن سعيد قال: حدثنا محمد بن المفضل بن إبراهيم
-<blockquote dir="rtl">
-  <p>
-الأشعري، قال: حدثني محمد بن عبد الله بن زرارة، عن مرزبان القمي، عن
-عمران الأشعري، عن جعفر بن محمد أنه قال:
-  </p>
-</blockquote>
+> الأشعري، قال: حدثني محمد بن عبد الله بن زرارة، عن مرزبان القمي، عن
+> عمران الأشعري، عن جعفر بن محمد أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-ثلاثةٌ لا ينظر الله إليهم يوم القيامة ولا يزكّيهم ولهم عذاب أليم: مَن
-زعم أنه إمامٌ وليس بإمام، ومن زعم في أمام حقٍ أنه ليس بإمام وهو إمام،
-ومَن زعم أن لهما في الإسلام نصيباً.
-  </p>
-</blockquote>
+> ثلاثةٌ لا ينظر الله إليهم يوم القيامة ولا يزكّيهم ولهم عذاب أليم: مَن
+> زعم أنه إمامٌ وليس بإمام، ومن زعم في أمام حقٍ أنه ليس بإمام وهو إمام،
+> ومَن زعم أن لهما في الإسلام نصيباً.
 
 (2) Ahmad bin Muhammad bin Sa'eed narrated from Muhammad bin
 al-Mufadhdhal bin Ibraheem al-Ash’ari from Muhammad bin Abdullah bin
@@ -67,20 +43,12 @@ and the third one is he, who claims that these two persons are faithful
 Muslims.”[^3]
 
 > 3 - وحدثنا محمد بن يعقوب، عن الحسين بن محمد، عن معلي بن محمد، عن أبي
-<blockquote dir="rtl">
-  <p>
-داود المسترق، عن علي بن ميمون الصائغ، عن ابن أبي يعفور قال: سمعت أبا
-عبد الله يقول:
-  </p>
-</blockquote>
+> داود المسترق، عن علي بن ميمون الصائغ، عن ابن أبي يعفور قال: سمعت أبا
+> عبد الله يقول:
 
-<blockquote dir="rtl">
-  <p>
-ثلاثةٌ لا يكلمهم الله يوم القيامة ولا يزكيهم ولهم عذاب أليم: مَن ادعى
-مِن الله إمامةً ليست له، ومن جحد إماماً من الله، ومن زعم أنّ لهما في
-الإسلام نصيباً.
-  </p>
-</blockquote>
+> ثلاثةٌ لا يكلمهم الله يوم القيامة ولا يزكيهم ولهم عذاب أليم: مَن ادعى
+> مِن الله إمامةً ليست له، ومن جحد إماماً من الله، ومن زعم أنّ لهما في
+> الإسلام نصيباً.
 
 (3) Muhammad bin Ya'qoob narrated from al-Husayn bin Muhammad from
 Mu’alla bin Muhammad from Abu Dawood al-Mustaraqq from Ali bin Maymoon
@@ -93,61 +61,25 @@ denies an imam appointed by Allah and the third one is he, who claims
 that these two ones are faithful Muslims.”[^4]
 
 > 4 - وأخبرنا أحمد بن محمد بن سعيد قال: حدثنا أبو محمد القاسم بن محمد بن
-<blockquote dir="rtl">
-  <p>
-الحسن بن حازم، قال: حدثنا عبيس بن هشام، قال: حدثنا عبد الله بن جبلة،
-عن الحكم بن أيمن، عن محمد بن تمام قال:
-  </p>
-</blockquote>
+> الحسن بن حازم، قال: حدثنا عبيس بن هشام، قال: حدثنا عبد الله بن جبلة،
+> عن الحكم بن أيمن، عن محمد بن تمام قال:
 
-<blockquote dir="rtl">
-  <p>
-قلت لأبي عبد الله: إن فلاناً يقرئك السلام ويقول لك: اضمن لي الشفاعةَ.
-  </p>
-</blockquote>
+> قلت لأبي عبد الله: إن فلاناً يقرئك السلام ويقول لك: اضمن لي الشفاعةَ.
 
-<blockquote dir="rtl">
-  <p>
-فقال: أمِن موالينا؟
-  </p>
-</blockquote>
+> فقال: أمِن موالينا؟
 
-<blockquote dir="rtl">
-  <p>
-قلت: نعم.
-  </p>
-</blockquote>
+> قلت: نعم.
 
-<blockquote dir="rtl">
-  <p>
-قال: أمرُه أرفعُ من ذلك.
-  </p>
-</blockquote>
+> قال: أمرُه أرفعُ من ذلك.
 
-<blockquote dir="rtl">
-  <p>
-قال: قلت: إنه رجلٌ يوالي علياً ولم يعرف مَن بعده من الأوصياء.
-  </p>
-</blockquote>
+> قال: قلت: إنه رجلٌ يوالي علياً ولم يعرف مَن بعده من الأوصياء.
 
-<blockquote dir="rtl">
-  <p>
-قال: ضالٌّ.
-  </p>
-</blockquote>
+> قال: ضالٌّ.
 
-<blockquote dir="rtl">
-  <p>
-قلت: أقرَّ بالأئمّة جميعاً وجحد الآخرَ.
-  </p>
-</blockquote>
+> قلت: أقرَّ بالأئمّة جميعاً وجحد الآخرَ.
 
-<blockquote dir="rtl">
-  <p>
-قال: هو كَمَنْ أقرّ بعيسى وجحد بمحمّد أو أقرّ بمحمد وجحد بعيسى، نعوذ
-بالله مِن جَحدِ حجّة من حججه.
-  </p>
-</blockquote>
+> قال: هو كَمَنْ أقرّ بعيسى وجحد بمحمّد أو أقرّ بمحمد وجحد بعيسى، نعوذ
+> بالله مِن جَحدِ حجّة من حججه.
 
 (4) Ahmad bin Muhammad bin Sa'eed narrated from Abu Muhammad al-Qassim
 bin Muhammad bin al-Hasan bin Hazim from Obayss bin Hisham from Abdullah
@@ -180,45 +112,21 @@ imams lest he will perish as if he has denied Muhammad or Jesus Christ
 (peace be upon them).
 
 > 5 - أخبرنا أحمد بن محمد بن سعيد بن عقدة قال: حدثنا علي بن الحسن بن
-<blockquote dir="rtl">
-  <p>
-فضال من كتابه، قال: حدثنا العباس بن عامر بن رباح الثقفي، عن أبي المغرا
-عن أبي سلام، عن سورة بن كليب، عن أبي جعفر محمد بن علي الباقر أنه قال:
-قول الله
-  </p>
-</blockquote>
+> فضال من كتابه، قال: حدثنا العباس بن عامر بن رباح الثقفي، عن أبي المغرا
+> عن أبي سلام، عن سورة بن كليب، عن أبي جعفر محمد بن علي الباقر أنه قال:
+> قول الله
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ
-وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى
-لِلْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ
+> وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى
+> لِلْمُتَكَبِّرِينَ
 
-<blockquote dir="rtl">
-  <p>
-قال:
-  </p>
-</blockquote>
+> قال:
 
-<blockquote dir="rtl">
-  <p>
-مَن زعم أنه إمامٌ وليس بإمام.
-  </p>
-</blockquote>
+> مَن زعم أنه إمامٌ وليس بإمام.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وإن كان علوياً فاطمياً؟
-  </p>
-</blockquote>
+> قلت: وإن كان علوياً فاطمياً؟
 
-<blockquote dir="rtl">
-  <p>
-قال: وإن كان علوياً فاطمياً.
-  </p>
-</blockquote>
+> قال: وإن كان علوياً فاطمياً.
 
 (5) Ahmad bin Muhammad bin Sa'eed bin Oqda narrated from Ali bin
 al-Hasan bin Fadhdhal from al-Abbas bin Aamir bin Rabah ath-Thaqafi from
@@ -234,41 +142,21 @@ Sawra said: “Even if he is an Alawite and Fatimite?”[^6]
 Imam al-Baqir said: “Yes, even if he is an Alawite and Fatimite.”[^7]
 
 > 6 - وأخبرنا أحمد بن محمد بن سعيد قال: حدثنا القاسم بن محمد بن الحسن بن
-<blockquote dir="rtl">
-  <p>
-حازم، قال: حدثنا عبيس بن هشام الناشري، قال: حدثنا عبد الله بن جبلة، عن
-عمران بن قطر، عن زيد الشحام قال: سألت أبا عبد الله هل كان رسول الله
-يعرف الأئمة ؟ قال:
-  </p>
-</blockquote>
+> حازم، قال: حدثنا عبيس بن هشام الناشري، قال: حدثنا عبد الله بن جبلة، عن
+> عمران بن قطر، عن زيد الشحام قال: سألت أبا عبد الله هل كان رسول الله
+> يعرف الأئمة ؟ قال:
 
-<blockquote dir="rtl">
-  <p>
-قد كان نوح يعرفهم؛ الشاهدُ على ذلك قول الله
-  </p>
-</blockquote>
+> قد كان نوح يعرفهم؛ الشاهدُ على ذلك قول الله
 
-<blockquote dir="rtl">
-  <p>
-شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
-أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
-وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ
-عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي
-إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ
-  </p>
-</blockquote>
+> شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي
+> أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ
+> وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ
+> عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي
+> إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ
 
-<blockquote dir="rtl">
-  <p>
-قال:
-  </p>
-</blockquote>
+> قال:
 
-<blockquote dir="rtl">
-  <p>
-شَرع لكم من الدين يا معشرَ الشيعة ما وصّى به نوحاً.
-  </p>
-</blockquote>
+> شَرع لكم من الدين يا معشرَ الشيعة ما وصّى به نوحاً.
 
 (6) Ahmad bin Muhammad bin Sa'eed narrated from al-Qassim bin Muhammad
 bin al-Hasan bin Hazim from Obayss bin Hashim an-Nashiri from Abdullah
@@ -282,30 +170,14 @@ which We enjoined upon Abraham, Moses and Jesus.”***[^8] He has made
 plain to you-O people of Shia-what He enjoined upon Noah.”[^9]
 
 > 7 - أخبرنا أحمد بن محمد بن سعيد بن عقدة قال: حدثنا القاسم بن محمد بن
-<blockquote dir="rtl">
-  <p>
-الحسن بن حازم، قال: حدثنا عبيس بن هشام، عن عبد الله بن جبلة، عن أبى
-خالد المكفوف عن بعض أصحابه قال: قال أبو عبد الله:
-  </p>
-</blockquote>
+> الحسن بن حازم، قال: حدثنا عبيس بن هشام، عن عبد الله بن جبلة، عن أبى
+> خالد المكفوف عن بعض أصحابه قال: قال أبو عبد الله:
 
-<blockquote dir="rtl">
-  <p>
-ينبغي لمَن ادّعى هذا الأمرَ في السر أن يأتيَ عليه ببرهان في العلانية.
-  </p>
-</blockquote>
+> ينبغي لمَن ادّعى هذا الأمرَ في السر أن يأتيَ عليه ببرهان في العلانية.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وما هذا البرهان الذي يأتي في العلانية؟
-  </p>
-</blockquote>
+> قلت: وما هذا البرهان الذي يأتي في العلانية؟
 
-<blockquote dir="rtl">
-  <p>
-قال: يحلّ حلالَ الله ويحرم حرام الله، ويكون له ظاهرٌ يصدق باطنه.
-  </p>
-</blockquote>
+> قال: يحلّ حلالَ الله ويحرم حرام الله، ويكون له ظاهرٌ يصدق باطنه.
 
 (7) Ahmad bin Muhammad bin Sa'eed bin Oqda narrated from al-Qassim bin
 Muhammad bin al-Hasan bin Hazim from Obayss bin Hisham[^10] from Abu
@@ -321,64 +193,28 @@ He said: “To permit what Allah has permitted, to prohibit what Allah has
 prohibited and to be truthful apparently and internally.”[^11]
 
 > 8 - وأخبرنا عبد الواحد بن عبد الله بن يونس الموصلي قال: حدثني محمد بن
-<blockquote dir="rtl">
-  <p>
-جعفر القرشي المعروف بالرزاز الكوفي قال: حدثني محمد بن الحسين بن أبي
-الخطاب، عن محمد بن سنان، عن أبي سلام، عن سورة بن كليب، عن أبي جعفر
-الباقر في قوله
-  </p>
-</blockquote>
+> جعفر القرشي المعروف بالرزاز الكوفي قال: حدثني محمد بن الحسين بن أبي
+> الخطاب، عن محمد بن سنان، عن أبي سلام، عن سورة بن كليب، عن أبي جعفر
+> الباقر في قوله
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ
-وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى
-لِلْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ
+> وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى
+> لِلْمُتَكَبِّرِينَ
 
-<blockquote dir="rtl">
-  <p>
-قال:
-  </p>
-</blockquote>
+> قال:
 
-<blockquote dir="rtl">
-  <p>
-مَن قال إني إمام وليس بإمام.
-  </p>
-</blockquote>
+> مَن قال إني إمام وليس بإمام.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وإن كان علوياً فاطمياً؟
-  </p>
-</blockquote>
+> قلت: وإن كان علوياً فاطمياً؟
 
-<blockquote dir="rtl">
-  <p>
-قال: وإن كان علوياً فاطمياً.
-  </p>
-</blockquote>
+> قال: وإن كان علوياً فاطمياً.
 
-<blockquote dir="rtl">
-  <p>
-قلت: وإن كان من ولد علي بن أبي طالب ؟
-  </p>
-</blockquote>
+> قلت: وإن كان من ولد علي بن أبي طالب ؟
 
-<blockquote dir="rtl">
-  <p>
-قال: وإن كان من ولد علي بن أبي طالب.
-  </p>
-</blockquote>
+> قال: وإن كان من ولد علي بن أبي طالب.
 
-<blockquote dir="rtl">
-  <p>
-وحدثنا محمد بن يعقوب، عن محمد بن يحيى، عن أحمد بن محمد، عن محمد بن
-سنان، عن أبي سلام، عن سورة بن كليب، عن أبي جعفر مثله سواء.
-  </p>
-</blockquote>
+> وحدثنا محمد بن يعقوب، عن محمد بن يحيى، عن أحمد بن محمد، عن محمد بن
+> سنان، عن أبي سلام، عن سورة بن كليب، عن أبي جعفر مثله سواء.
 
 (8) Abdul Wahid bin Abdullah bin Younus al-Moossili narrated from
 Muhammad bin Ja'far al-Qarashi ar-Razzaz al-Kufi from Muhammad bin
@@ -405,18 +241,10 @@ Muhammad bin Yahya from Ahmad bin Muhammad from Muhammad bin Sinan from
 Abu Salam from Sawra bin Kulayb from Imam Abu Ja'far al-Baqir (as).
 
 > 9 - وأخبرنا عبد الواحد بن عبد الله قال: حدثنا أحمد بن محمد بن رباح
-<blockquote dir="rtl">
-  <p>
-الزهري، قال: حدثنا محمد بن العباس بن عيسى الحسينى، عن الحسن بن علي بن
-أبي حمزة، عن أبيه، عن مالك بن أعين الجهني، عن أبي جعفر الباقر أنه قال:
-  </p>
-</blockquote>
+> الزهري، قال: حدثنا محمد بن العباس بن عيسى الحسينى، عن الحسن بن علي بن
+> أبي حمزة، عن أبيه، عن مالك بن أعين الجهني، عن أبي جعفر الباقر أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-كلُّ رايةٍ تُرفع قبل رايةِ القائمِ صاحبُها طاغوتٌ.
-  </p>
-</blockquote>
+> كلُّ رايةٍ تُرفع قبل رايةِ القائمِ صاحبُها طاغوتٌ.
 
 (9) Abdul Wahid bin Abdullah narrated from Ahmad bin Muhammad bin Rabah
 az-Zuhri from Muhammad bin al-Abbas bin Eessa al-Husayni from al-Hasan
@@ -427,18 +255,10 @@ that Imam Abu Ja'far al-Baqir (as) had said:
 oppressive arrogant.”[^14]
 
 > 10 - وأخبرنا عبد الواحد، عن ابن رباح قال: حدثنا أحمد بن علي الحميري،
-<blockquote dir="rtl">
-  <p>
-قال: حدثني الحسن بن أيوب، عن عبد الكريم بن عمرو الخثعمي، عن أبان، عن
-الفضيل قال: قال أبو عبد الله جعفر:
-  </p>
-</blockquote>
+> قال: حدثني الحسن بن أيوب، عن عبد الكريم بن عمرو الخثعمي، عن أبان، عن
+> الفضيل قال: قال أبو عبد الله جعفر:
 
-<blockquote dir="rtl">
-  <p>
-مَن ادّعى مقامَنا - يعني الإمامةَ - فهو كافرٌ (أو قال) مشركٌ.
-  </p>
-</blockquote>
+> مَن ادّعى مقامَنا - يعني الإمامةَ - فهو كافرٌ (أو قال) مشركٌ.
 
 (10) Abdul Wahid narrated from ibn Rabah from Ahmad bin Ali al-Himyari
 from al-Hasan bin Ayyoob from Abdul-Kareem bin Amr al-Khath’ami from
@@ -448,19 +268,11 @@ Abban from al-Fadhl that Imam Ja'far as-Sadiq (as) had said:
 said: a polytheist.”[^15]
 
 > 11 - وأخبرنا علي بن الحسين، قال: حدثنا محمد بن يحيى العطار بقم، قال:
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن حسان الرازي، قال: حدثنا محمد بن علي الكوفي، عن علي بن
-الحسين، عن ابن مسكان، عن مالك بن أعين الجهني، قال: سمعت أبا جعفر
-الباقر يقول:
-  </p>
-</blockquote>
+> حدثنا محمد بن حسان الرازي، قال: حدثنا محمد بن علي الكوفي، عن علي بن
+> الحسين، عن ابن مسكان، عن مالك بن أعين الجهني، قال: سمعت أبا جعفر
+> الباقر يقول:
 
-<blockquote dir="rtl">
-  <p>
-كلُّ راية تُرفع قبل قيام القائم صاحبُها طاغوت.
-  </p>
-</blockquote>
+> كلُّ راية تُرفع قبل قيام القائم صاحبُها طاغوت.
 
 (11) Ali bin al-Husayn narrated from Muhammad bin Yahya al-Attar from
 Muhammad bin Hassaan ar-Razi from Muhammad bin Ali al-Kufi from Ali bin
@@ -471,18 +283,10 @@ Ja'far al-Baqir (as) had said:
 of an oppressive arrogant.”[^16]
 
 > 12 - وأخبرنا علي بن أحمد البندنيجي، عن عبيد الله بن موسى العلوي، عن
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم بن هاشم، عن أبيه، عن عبد الله بن المغيرة، عن عبد الله
-بن مسكان، عن مالك بن أعين الجهني قال: سمعت أبا جعفر الباقر يقول:
-  </p>
-</blockquote>
+> علي بن إبراهيم بن هاشم، عن أبيه، عن عبد الله بن المغيرة، عن عبد الله
+> بن مسكان، عن مالك بن أعين الجهني قال: سمعت أبا جعفر الباقر يقول:
 
-<blockquote dir="rtl">
-  <p>
-كل راية ترفع - أو قال: تخرج - قبل قيام القائم صاحبها طاغوت.
-  </p>
-</blockquote>
+> كل راية ترفع - أو قال: تخرج - قبل قيام القائم صاحبها طاغوت.
 
 (12) Ali bin Ahmad al-Bandaneeji narrated from Obaydillah bin Musa
 al-Alawi from Ali bin Ibraheem bin Hisham from his father from Abdullah
@@ -493,19 +297,11 @@ Every banner that is raised-or comes out-before the appearance of
 al-Qa’im (as) will be of an oppressive arrogant.”[^17]
 
 > 13 - وأخبرنا علي بن أحمد، عن عبيد الله بن موسى، عن أحمد بن محمد بن
-<blockquote dir="rtl">
-  <p>
-خالد، عن علي بن الحكم، عن أبان بن عثمان، عن الفضيل بن يسار قال: سمعت
-أبا عبد الله جعفر بن محمد يقول:
-  </p>
-</blockquote>
+> خالد، عن علي بن الحكم، عن أبان بن عثمان، عن الفضيل بن يسار قال: سمعت
+> أبا عبد الله جعفر بن محمد يقول:
 
-<blockquote dir="rtl">
-  <p>
-مَن خرج يدعو الناس وفيهم مَن هو أفضل منه فهو ضالٌّ مبتدعٌ. ومَن ادّعى
-الإمامة من الله وليس بإمامٍ فهو كافر.
-  </p>
-</blockquote>
+> مَن خرج يدعو الناس وفيهم مَن هو أفضل منه فهو ضالٌّ مبتدعٌ. ومَن ادّعى
+> الإمامة من الله وليس بإمامٍ فهو كافر.
 
 (13) Ali bin Ahmad narrated from Obaydillah bin Musa from Ahmad bin
 Muhammad bin Khalid from Ali bin al-Hakam from Abban bin Uthman from
@@ -560,5 +356,4 @@ by “Alawite” one of the Shia or the followers of Ali (as).
 [^17]: Biharul Anwar, vol.25 p.114.
 
 [^18]: Biharul Anwar, vol.25 p.115.
-
 

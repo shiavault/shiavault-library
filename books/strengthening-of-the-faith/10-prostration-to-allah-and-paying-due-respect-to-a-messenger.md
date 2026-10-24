@@ -141,7 +141,6 @@ to the Prophet {Peace be upon Him} by saying:
 of the Prophets during different ages. Finally, He came down in the
 guise of an Arab and became the Emperor of the world."
 
-
 Another poet observes:
 
 "You (the Prophet {Peace be upon Him}) are both a mortal and an eternal
@@ -197,7 +196,6 @@ remark about a saint. One should praise a saint in his capacity as a
 human being only and that too within reasonable limits (i.e. avoiding
 exaggerations). Do not extol him to the skies lest you should commit a
 sacrilege towards Divinity.
-
 
 **The word Saiyid carries two meanings:**
 
@@ -393,5 +391,4 @@ from among the apostates and the ones who innovate new things in
 religion and make us the pure devotees of the creed of the Prophet
 {Peace be upon Him}and prompt us into being the followers of Qur'an and
 Sunnah. Amin.
-
 

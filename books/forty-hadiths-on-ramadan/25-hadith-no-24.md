@@ -12,4 +12,3 @@ replied: O' Abul-Hasan! The best deed for this month is abstinence from
 that which is forbidden by Allah, The Mighty, The Glorious.*Bihar
 al-Anwar, vol. 42, pg. 190*
 
-

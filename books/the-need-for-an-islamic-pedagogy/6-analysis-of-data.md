@@ -402,4 +402,3 @@ Islamic pedagogy that allows students to practice with peers similar to
 them in ability and then have an educator highlight the points of
 benefit that they understood or maybe missed at the end.
 
-

@@ -13,11 +13,7 @@ and its acceptance.
 Stage One: Pure Intention
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذا أرَدتَ الحجَّ فجَرِّدْ قَلبَكَ للهِ تَعالى مِن كُلِّ شاغِلٍ.
-  </p>
-</blockquote>
+> إِذا أرَدتَ الحجَّ فجَرِّدْ قَلبَكَ للهِ تَعالى مِن كُلِّ شاغِلٍ.
 
 “When you intend for Hajj, purify your heart from what keeps you away
 from Allah.”[^1]79
@@ -45,11 +41,7 @@ in not pure, and he must ask forgiveness for the same.
 Stage Two: Repentance
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ اغْتَسِل بماءِ التَّوبةِ الخالِصةِ مِن الذنوبِ.
-  </p>
-</blockquote>
+> ثُمَّ اغْتَسِل بماءِ التَّوبةِ الخالِصةِ مِن الذنوبِ.
 
 “Then purify yourself of sins by water of repentance.”[^2]80
 
@@ -71,11 +63,7 @@ He must seek the pleasure of his parents, relatives, and neighbors, too.
 He must also repent for the faults he has had so as to enter into the
 company of the purified:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ المُتَطَهِّرِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ المُتَطَهِّرِينَ.
 
 ***“Surely, Allah loves those who turn much to Him, and He love those
 purify themselves. (The Holy Qur’an; 2:222)”***
@@ -87,11 +75,7 @@ titled *Mafateeh ul-Jinan*.
 Stage Three: Detachment From What Is Not Godly
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ووَدِّعِ الدّنيا والرّاحَةَ والخَلْقَ.
-  </p>
-</blockquote>
+> ووَدِّعِ الدّنيا والرّاحَةَ والخَلْقَ.
 
 “Say farewell to the world, comfort, and people.”[^3]81
 
@@ -107,34 +91,22 @@ one. In the same way that he takes with him a provision for the journey
 and a means of transportation to Mecca, in the journey of death, too, he
 needs provision and means of transportation to the grave.
 
-<blockquote dir="rtl">
-  <p>
-آهٍ آهٍ مِن قِلَّةِ الزّاد وطُولِ الطّريقِ وبُعدِ السّفَر
-  </p>
-</blockquote>
+> آهٍ آهٍ مِن قِلَّةِ الزّاد وطُولِ الطّريقِ وبُعدِ السّفَر
 
 “Alas! The provision is little, the way is long, the journey is far and
 the goal is hard to reach.”[^4]82
 
 Then he entrusts his family to the true Guardian.
 
-<blockquote dir="rtl">
-  <p>
-فَاللهُ خَيْرٌ حَافِظاً وَهُوَ أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> فَاللهُ خَيْرٌ حَافِظاً وَهُوَ أَرْحَمُ الرَّاحِمِينَ
 
 ***“But Allah is the best Keeper, and He is the Most Merciful of the
 merciful ones. (The Holy Qur’an; 12:64)”***
 
 Imam Sajjad (as) used to say:
 
-<blockquote dir="rtl">
-  <p>
-مَا أُبالِي إِذا قُلتُ هذهِ الكلِماتِ لَو اجتَمَعَ عَلَيَّ الإنسُ
-والجِنُّ.
-  </p>
-</blockquote>
+> مَا أُبالِي إِذا قُلتُ هذهِ الكلِماتِ لَو اجتَمَعَ عَلَيَّ الإنسُ
+> والجِنُّ.
 
 “When I recite these words (of supplication), I am not afraid of
 anything even if jinn and men are banded together against me.”[^5]83
@@ -163,22 +135,14 @@ might happen only once a lifetime, think of eating, sleeping, and joking
 all the time. A pilgrim should stop complaining about the quantity and
 quality of the food as well as spending time in shopping.
 
-<blockquote dir="rtl">
-  <p>
-اِنتَهزوا الفُرصَ فإِنها تمرُّ مَرَّ السّحابِ
-  </p>
-</blockquote>
+> اِنتَهزوا الفُرصَ فإِنها تمرُّ مَرَّ السّحابِ
 
 “Seize the opportunities, for they are like transient clouds.”[^6]84
 
 Good Temperament
 ----------------
 
-<blockquote dir="rtl">
-  <p>
-وأَحسِنِ الصُّحبَةَ
-  </p>
-</blockquote>
+> وأَحسِنِ الصُّحبَةَ
 
 “Keep good company.”[^7]85
 
@@ -186,11 +150,7 @@ Good temperament is recommended but during Hajj, it is more
 praiseworthy, for the journey is towards God and all pilgrims are God’s
 guests. To honor the guests is to honor the host. Imam Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الخُلُقَ الحَسَنَ يُميثُ الخَطيئَةَ كما تُميثُ الشّمسُ الجَليدَ
-  </p>
-</blockquote>
+> إنَّ الخُلُقَ الحَسَنَ يُميثُ الخَطيئَةَ كما تُميثُ الشّمسُ الجَليدَ
 
 “Good temperament diminishes the sins in the same way as the sun thaws
 ice.”[^8]86
@@ -216,5 +176,4 @@ hardships will be easy for him to tolerate.
 [^7]: See Misbah ul-Shariah; chapter 21
 
 [^8]: See al-Mahajjatol Beizaa; vol. 3
-
 

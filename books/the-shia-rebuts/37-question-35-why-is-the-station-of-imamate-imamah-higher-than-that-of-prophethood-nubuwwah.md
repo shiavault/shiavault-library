@@ -21,11 +21,7 @@ God, the Exalted, through various means, and conveys to people the news
 revealed to him without the intervention of other human beings. Scholars
 define this word as follows:
 
-<blockquote dir="rtl">
-  <p>
-إنه من مؤدّ من الله بلا وساطة من البشر.
-  </p>
-</blockquote>
+> إنه من مؤدّ من الله بلا وساطة من البشر.
 
 “A prophet is a person who conveys the divine revelation to the people
 without the intervention of other human biengs.”[^2]
@@ -34,11 +30,7 @@ On this basis, the nature of the duties of a *nabi* is confined to
 receiving revelation and conveying to the people what is revealed to
 him. The Glorious Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-فَبَعَثَ اللّهُ النَّبِيِّينَ مُبَشِّرينَ وَ مُنْذِرينَ
-  </p>
-</blockquote>
+> فَبَعَثَ اللّهُ النَّبِيِّينَ مُبَشِّرينَ وَ مُنْذِرينَ
 
 ***“Then Allah sent the prophets as bearers of good news and as
 warners.”***[^3]
@@ -52,12 +44,8 @@ shoulders the burden of conveying a divine message {*risalah*} and has
 the responsibility of delivering the message to the people. In this
 regard, the Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّما عَلىٰ‏ رَسُولِنَا الْبَلاغُ
-الْمُبينُ
-  </p>
-</blockquote>
+> فَإِنْ تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّما عَلىٰ‏ رَسُولِنَا الْبَلاغُ
+> الْمُبينُ
 
 ***“But if you turn your backs, then know that Our Apostle’s duty is
 only to communicate in clear terms.”***[^4]
@@ -92,12 +80,8 @@ some clear proofs in this regard:
 prophet, viz. Ibrahim al-Khalil (Prophet Abraham) (*‘a*), the Holy
 Qur’an thus states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
-إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِي
-  </p>
-</blockquote>
+> وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
+> إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِي
 
 ***“And when his Lord tested Abraham with certain words, and he
 fulfilled them, He said, ‘I am making you the Imam of mankind. Said he,
@@ -116,12 +100,8 @@ We all know that God, the Exalted, granted two sons (Isma‘il and Ishaq)
 to Ibrahim (*‘a*) when he was old as he has been quoted by the Glorious
 Qur’an as saying:
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلّهِ الَّذِي وَهَبَ لِي عَلَىٰ الْكِبَرِ إِسْمَاعِيلَ
-وَإِسْحَاقَ
-  </p>
-</blockquote>
+> الْحَمْدُ لِلّهِ الَّذِي وَهَبَ لِي عَلَىٰ الْكِبَرِ إِسْمَاعِيلَ
+> وَإِسْحَاقَ
 
 ***“All praise belongs to Allah, who, despite {my} old age, gave me
 Ishmael and Isaac.”***[^6]
@@ -164,12 +144,8 @@ righteous and upright descendants, He appointed them to the position of
 the leadership of the community and rule over the *ummah*. The Holy
 Qur’an says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ آتَيْنا آلَ إِبْراهيمَ الْكِتابَ وَ الْحِكْمَةَ وَ آتَيْناهُمْ
-مُلْكًا عَظيمًا
-  </p>
-</blockquote>
+> فَقَدْ آتَيْنا آلَ إِبْراهيمَ الْكِتابَ وَ الْحِكْمَةَ وَ آتَيْناهُمْ
+> مُلْكًا عَظيمًا
 
 ***“We have certainly given the progeny of Abraham the Book and the
 wisdom, and We have given them a great sovereignty.”***[^8]
@@ -242,15 +218,11 @@ to the prophet of their time: “Appoint a ruler for us so that we may
 fight in the way of God under his command.” The reply of their prophet
 was:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوَاْ أَنَّىٰ
-يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِالْمُلْكِ مِنْهُ
-وَلَمْ يُؤْتَ سَعَةً مِّنَ الْمَالِ قَالَ إِنَّ اللّهَ اصْطَفَاهُ
-عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ وَالْجِسْمِ وَاللّهُ
-يُؤْتِي مُلْكَهُ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوَاْ أَنَّىٰ
+> يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِالْمُلْكِ مِنْهُ
+> وَلَمْ يُؤْتَ سَعَةً مِّنَ الْمَالِ قَالَ إِنَّ اللّهَ اصْطَفَاهُ
+> عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ وَالْجِسْمِ وَاللّهُ
+> يُؤْتِي مُلْكَهُ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
 
 ***“‘Allah has appointed Saul as king for you. They said, ‘How can he
 have kingship over us, when we have a greater right to kingship than
@@ -302,12 +274,8 @@ society but he is not a prophet. And sometimes, God, the Exalted, grants
 both stations to a person who is worthy of both of them, as the Glorious
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَهَزَمُوهُم بِإِذْنِ اللّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ
-اللّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ
-  </p>
-</blockquote>
+> فَهَزَمُوهُم بِإِذْنِ اللّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ
+> اللّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ
 
 ***“Thus they routed them with Allah’s will, and David killed Goliath,
 and Allah gave him the kingdom and wisdom, and taught him whatever He
@@ -337,5 +305,4 @@ Hud 11:70-71.
 [^10]: Cited from Prof. Ja‘far Subhani’s Manshur-e Jawid-e Qur’an.
 
 [^11]: Surah al-Baqarah 2:251.
-
 

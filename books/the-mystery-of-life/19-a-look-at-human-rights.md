@@ -144,9 +144,7 @@ alone, not for the reward he might get from others. See the Holy Qur’an,
 and useful to others. Everyone should run to aid their fellow beings. As
 a hadith says:
 
-<p dir="rtl">
 الخلق کلهم عيال الله و احبهم اليه انفعهم لهم
-</p>
 
 *“All people are like God's family; the most loved by God is the one who
 is the most useful and helpful to people.”*
@@ -599,5 +597,4 @@ be there.
 b) Although obeying and keeping social order and discipline has been
 emphasized in both systems, Islamic societies are basically different
 from democratic ones.
-
 

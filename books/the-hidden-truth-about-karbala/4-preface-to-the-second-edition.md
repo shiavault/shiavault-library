@@ -39,5 +39,5 @@ Benevolence and Grace, they may forgive my lapses and accept this humble
 effort.
 
 **A.K. Ahmed  
- 20<sup>th</sup> March 2007  
- 9<sup>th</sup> Rabee’ul Awwal, 1428 AH**
+ 20th March 2007  
+ 9th Rabee’ul Awwal, 1428 AH**

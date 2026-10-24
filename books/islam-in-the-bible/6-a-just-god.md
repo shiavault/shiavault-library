@@ -233,4 +233,3 @@ middle way, however, between determinism and free will provides a method
 for reconciling the seeming conflicts in both the Bible and the holy
 Qur'an.
 
-

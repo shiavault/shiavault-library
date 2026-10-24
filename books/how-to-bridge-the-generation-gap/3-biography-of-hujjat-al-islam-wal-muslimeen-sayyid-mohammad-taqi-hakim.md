@@ -84,4 +84,3 @@ of text books.
 
 [^2]: Dars-e-Kharij (Usool) (Ibid).
 
-

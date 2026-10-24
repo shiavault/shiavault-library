@@ -1,12 +1,8 @@
 Resurrection from the Sleep of Death
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ
-جَرَادٌ مُّنتَشِرٌ
-  </p>
-</blockquote>
+> خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ
+> جَرَادٌ مُّنتَشِرٌ
 
 ***Their eyes cast down, going forth from their graves as if they were
 scattered locusts. (al-Qamar, 54/7)***
@@ -169,5 +165,4 @@ to both the adjective and the noun of the simile. Now in the verse under
 discussion, the word jirad (locusts) has been described by the
 adjective muntashir (scattered), therefore the similitude which is the
 “emergence from graves” applies to both muntashir as well as jirad.
-
 

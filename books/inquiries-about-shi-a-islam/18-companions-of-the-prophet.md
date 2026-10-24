@@ -794,4 +794,3 @@ Asakir, Vol. 3, 222; Wafa’ al-Wafa’, Vol. 1, 31; Tahdhib al-Tahdhib,
 Vol. 1, 435; Ibn Abi al-Hadid al-Mu‘tazili, Sharh Nahj al-Balaghah, Vol.
 1, 116
 
-

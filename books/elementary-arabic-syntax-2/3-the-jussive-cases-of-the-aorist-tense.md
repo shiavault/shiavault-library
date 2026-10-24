@@ -166,4 +166,3 @@ adverbial noun of time or place. For example: **متی** **تَنم** **أنم**
 **کیفما** **نَتوجَّه** **نُصادف** **خیراً** (However you face it, it
 will pass positively.)
 
-

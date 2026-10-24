@@ -152,4 +152,3 @@ Hasirah, from Sharik al-Amiri who said…” See also al-Irshad (pg.230).
 ‘Abdullah bin Sharik al-Amiri, who reported from ‘Ali bin al-Husayn (as)
 that…”
 
-

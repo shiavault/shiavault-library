@@ -190,4 +190,3 @@ al-mawadda, pp. 431 & 435; Kashf al-ghumma, vol. 2, p. 478.
 [^12]: Al-Fitan, vol. 5, p. 191; \`Iqd al-durar, chap. 9, sect. 3, p.
 227.
 
-

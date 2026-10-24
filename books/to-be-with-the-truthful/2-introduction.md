@@ -53,4 +53,3 @@ Islamic unity on a solid thought basis. I implore Allah to help us all
 to do what He likes and is pleased with, and that He keeps all Muslims
 in agreement on the right path, He is the Mighty, the Able.
 
-

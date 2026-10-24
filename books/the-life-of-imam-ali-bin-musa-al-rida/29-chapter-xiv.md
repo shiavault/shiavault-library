@@ -1,10 +1,6 @@
 Chapter Xiv
 ===========
 
-  
-
-  
-
 IN THE TIME OF AL-RASHĪD, AL-AMĪN, AND AL-MAMŪN
 -----------------------------------------------
 
@@ -34,16 +30,9 @@ As for cruelty, it was among his elements and characteristics. Al-Amir
 Shakib said: He (Hārūn al-Rashid) was as tyrannical and blood-thirsty
 just as the tyrannical kings of the east were.[[1]](#_ftn1465)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1465) Hayāt al-Imām  al-Ridā, p. 119.  
-  
-
-  
-
-  
 
 An example of his severe cruelty is that he destroyed the Alawides,
 punished them severely, and wreaked upon them painful torture which they
@@ -83,12 +72,6 @@ to his drinking companions. His sister Aliya made good wine and sent it
 to him. We have mentioned his alcoholism in detail in our book *Hayāt
 al-Imām Mūsā Bin Jafar* (the Life of Imām Mūsā Bin Jafar), peace be on
 him.
-
-  
-
-  
-
-  
 
 ### B. His Fondness of Singing
 
@@ -134,11 +117,6 @@ bet him on the robe of honor which he
 [[1]](#_F1466) Al-Tamaddun al-Islāmi, vol. 5, p. 118.  
  [[2]](#_F1467) Al-Tājj, pp. 40-42.  
  [[3]](#_F1468) Tazyeen al-Aswāq. Fawāt al-Wafayāt, vol. 4, p. 225.  
-  
-
-  
-
-  
 
 (Ibrāhim) wore. He beat Ibrāhim, so he (Ibrāhim) stood up and took off
 his garments, but Hārūn al-Rashid refused to wear them and said to him:
@@ -183,18 +161,11 @@ he sent a band of his security forces to spy upon the affairs of Imām
 al-Ridā, peace be on him, and to inform him of his tendencies and
 inclinations.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1469) Abū al-Farajj al-Asfahāni, al-Aghāni, vol. 5, pp.
 69-70.  
  [[2]](#_F1470) Ibid., vol. 9, p. 64.  
-  
-
-  
-
-  
 
 The Imām, peace be on him, understood that, so he intended to get rid of
 Hārūn al-Rashid. He went to market while the detectives were following
@@ -231,17 +202,10 @@ your sitting in the assembly of your father, while the sword of Hārūn is
 dripping blood (i.e. the blood of the Household of the Prophet and their
 followers.)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1471) Bihār al-Anwār, vol. 12, p. 32.  
  [[2]](#_F1472) A'yān al-Shi'a, 4/Q2/97.  
-  
-
-  
-
-  
 
 Hence he, peace be on him,  said: I have been encouraged by the words of
 Allahs Messenger (may Allah bless him and his family), who said: If Abū
@@ -280,18 +244,11 @@ done toward his father is sufficient to us.[[3]](#_ftn1475)
 
 All the attempts which were woven against the Imām failed.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1473) Ibid.  
  [[2]](#_F1474) 'Uyūn Akhbār al-Ridā, vol. 2, p. 226.  
  [[3]](#_F1475) Al-Ithāf bi Hub al-Ashrāf, p. 59.  
-  
-
-  
-
-  
 
 The Imāms Supplication against the Barāmika
 -------------------------------------------
@@ -329,17 +286,10 @@ violence. He killed Jafar and halved him and put each part in a
 sensitive place in Baghdad. Moreover, he imprisoned Yahyā along with his
 own children and confiscated their movable and immovable properties.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1476) 'Uyūn Akhbār al-Ridā, vol. 2, p. 225.  
  [[2]](#_F1477) Ibid. Bihār al-Anwār.  
-  
-
-  
-
-  
 
 The Imāms House is attacked
 ---------------------------
@@ -380,17 +330,10 @@ murdering him. That was (at Karbalā) when they pushed each other like
 vicious dogs in order to loot the garments and ornaments of the Alawide
 ladies.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1478) 'Uyūn Akhbār al-Ridā, vol. 2, p. 161. Bihār al-Anwār,
 vol.49, p. 166.  
-  
-
-  
-
-  
 
 Any how, I (i.e. the author) think that Hārūn al-Rashid did not take any
 other measure toward Imām al-Ridā, peace be on him. It is worth
@@ -432,10 +375,6 @@ O Hārūn, you attacked the Muslim public treasury without their
 satisfaction. Are the people with reconciled hearts, the workers in
 charge with it, the *mujāhidin* in the way of Allah, and the tramps  
 
-  
-
-  
-
 satisfied with your action? Are those who know the Qurān by heart and
 men of knowledge content with your action? Are the orphans and the
 widows satisfied with your action? Or are some creatures from your
@@ -470,12 +409,6 @@ toward its inhabitants one by one, so some of them have supplied
 themselves with useful provisions, and some of them have lost his (life)
 in this world and the next. Beware, and then beware of writing to me
 after this (letter), for I will not answer you! Greetings.
-
-  
-
-  
-
-  
 
 Then he (Sufyān) sent the letter without stamping and
 folding.[[1]](#_ftn1479) This letter gives an account of that Hārūn
@@ -512,8 +445,6 @@ empire in the world? He entrusted him with the caliphate in response to
 the feelings of Mrs. Zubayda and the rest of the Abbāsid family whose
 inclinations were for him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1479) Hayāt al-Imām Mūsā b. Ja'far, vol. 2, pp. 55-57, quoted
@@ -526,11 +457,6 @@ bought 'Arabiya, the songstress, for one hundred thousand dinars.
 al-Diwal, p. 134.  
  [[5]](#_F1483) Al-Maqrizi, al-Silūk li Ma'rifat Diwal al-Mulūk, vol. 1,
 p. 16.  
-  
-
-  
-
-  
 
 ### 3. His Weak Opinion
 
@@ -572,11 +498,6 @@ ranks and there were men on their backs; they stood on both banks of
 [[1]](#_F1484) Al-Tanbih wa al-Ishrāf, p. 302.  
  [[2]](#_F1485) 'Uyūn al-Tawārikh, vol. 3, p. 212.  
  [[3]](#_F1486) Al-Ādāb al-Sultāniya, p. 212.  
-  
-
-  
-
-  
 
 the Tigris; the kitchen wares and stored things of the palace were
 carried along with him.
@@ -629,18 +550,11 @@ These are some trends and qualities of al-Amin; they give an account of
 an insignificant man who devoted himself to his pleasures and lusts, and
 paid no attention to the affairs of the Islamic state.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1487) Al-'Iqāb was one of the ships which were prepared for
 al-Amin.  
  [[2]](#_F1488) Ibn Manzūr, Abū Nu'ās, pp. 103-104.  
-  
-
-  
-
-  
 
 His deposing Al-Mamūn
 ---------------------
@@ -696,16 +610,9 @@ However, they are discords like mountains therein he was
 
 promoted by the action of the ignoble one.[[1]](#_ftn1489)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1489) Al-Mas'ūdi, Murūjj al-Dhahab, vol. 3, p. 309.  
-  
-
-  
-
-  
 
 Al-Rashid is Responsible for these Events
 -----------------------------------------
@@ -764,16 +671,9 @@ So the sin of that is always against him, whether that is
 
 right or wrong![[1]](#_ftn1490)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1490) Al-Tabari, Tārikh, the Events of the Year 186 A. H.  
-  
-
-  
-
-  
 
 Destructive Battles
 -------------------
@@ -815,12 +715,6 @@ says:
 I wonder at the people who hope for a success in an affair
 
 through which affairs are not completed.
-
-  
-
-  
-
-  
 
 And how is complete that which they have concluded and
 
@@ -875,11 +769,6 @@ misery dominated all its inhabitants; the mischievous and deviants
 ------------------------------------------------------------------------
 
 [[1]](#_F1491) Al-Mas'ūdi, Murūjj al-Dhahab, vol. 3, p. 310.  
-  
-
-  
-
-  
 
 assassinated the innocent, looted properties, and followed women. So a
 group of the good people headed by Sahl b. Salāma resisted them with
@@ -940,12 +829,6 @@ the eye for a time?
 
 Were not there in you people whose neighborhoods and
 
-  
-
-  
-
-  
-
 houses were one of the ornaments?
 
 The time shouted to them through separation and they
@@ -1002,17 +885,10 @@ escaped from the friend.[[2]](#_ftn1493)
 This poem shows that Baghdad led a life of chaos, for murder spread;
 there was no security; and fear dominated it.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1492) Ibid., p. 316.  
  [[2]](#_F1493) Ibid., p. 317.  
-  
-
-  
-
-  
 
 Al-Amin is murdered
 -------------------
@@ -1065,11 +941,6 @@ him: Praise belongs to Allah for this great favor, for
 photographed, available at al-Sayyid al-Hakim Library, serial no. 3902,
 p. 103.  
  [[2]](#_F1495) 'Uyūn al-Tawārikh, vol. 3, p. 211.  
-  
-
-  
-
-  
 
 Mohammed (i.e. al-Amin) wished to see you in this state in which you
 have seen him.
@@ -1114,11 +985,6 @@ but she refused and did not accept it. Then he yielded to her decision
 ------------------------------------------------------------------------
 
 [[1]](#_F1496) Al-Mas'ūdi, Murūjj al-Dhahab, pp. 225-226.  
-  
-
-  
-
-  
 
 and had a sexual intercourse with Marājil, and she born him
 al-Mamūn.[[1]](#_ftn1497)
@@ -1168,8 +1034,6 @@ Praising al-Amin and dispraising al-Mamūns mother, al-Raqqāshi says: He
 was not born by a slave-wife well-known at the market of the
 traders.[[5]](#_ftn1501)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1497) Al-Dimyari, Hayāt al-Hayawān, vol. 1, p. 72.  
@@ -1177,11 +1041,6 @@ traders.[[5]](#_ftn1501)
  [[3]](#_F1499) Al-Dimyari, Hayāt al-Hayawān, vol. 1, p. 72.  
  [[4]](#_F1500) 'Asr al-Ma'mūn, vol. 1, p. 210.  
  [[5]](#_F1501) Al-Ādāb al-Sultāniya, p. 212.  
-  
-
-  
-
-  
 
 Al-Mamūn had no defect on the side of his mother, for Islam has
 demolished all these fanatical, pre-Islamic instincts and regarded all
@@ -1223,17 +1082,10 @@ occupied some areas of it, so al-Mamūn secretly sent his son and one of
 his servants, and they killed him; then his son took the servant and
 whipped him to death.[[2]](#_ftn1503)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1502) Asmā' al-Mughtālin, p. 200.  
  [[2]](#_F1503) Ibid., p. 199.  
-  
-
-  
-
-  
 
 #### 3. Hamid Bin Abd al-Hamid al-Tūsi
 
@@ -1274,11 +1126,6 @@ was afraid of him, he secretly sent someone to assassinate
 ------------------------------------------------------------------------
 
 [[1]](#_F1504) Ibid.  
-  
-
-  
-
-  
 
 him in the bath-house. We will explain this matter in the researches
 that follow.
@@ -1318,11 +1165,6 @@ was the only leader of the Alawide family and high
 ------------------------------------------------------------------------
 
 [[1]](#_F1505) Hayāt al-Imām  al-Ridā.  
-  
-
-  
-
-  
 
 authority of Islamic world to leave Medinā for Khurasān. Then he forced
 him to accept regency and ordered all the organs of his government to
@@ -1371,11 +1213,6 @@ think that al-Mamūn was the first to describe it in detail, and
 ------------------------------------------------------------------------
 
 [[1]](#_F1506) Al-Mustatraf, vol. 2, p. 306.  
-  
-
-  
-
-  
 
 that he took this game from his father Hārūn al-Rashid, who was the most
 skillful person in chess. It is worth mentioning that Hārūn  gave chess
@@ -1419,17 +1256,10 @@ does it, even if the master is great and his favors are
 
 grand.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1507) Hayāt al-Imām Mohammed al-Jawād, p. 233.  
  [[2]](#_F1508) Jack C. Rislar, Arab Civilization, p. 108.  
-  
-
-  
-
-  
 
 Do you not see that we give as gift to Allah His property,
 
@@ -1461,6 +1291,4 @@ apologize us for negligence.[[3]](#_ftn1511)
 
 These are some persons who sent gifts to al-Mamūn in order to seek
 nearness to him and to crave for some jobs from him.
-
-  
 

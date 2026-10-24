@@ -215,12 +215,8 @@ perfume, the angels, the walls, the earth and everything else in the
 environment curse them. Don’t be under the impression that the inanimate
 things in the environs don’t have any sense.
 
-<blockquote dir="rtl">
-  <p>
-وَ إِن مِّن شىَ‏ْءٍ إِلَّا يُسَبِّحُ بحَِمْدِهِ وَ لَكِن لَّا
-تَفْقَهُونَ تَسْبِيحَهُم
-  </p>
-</blockquote>
+> وَ إِن مِّن شىَ‏ْءٍ إِلَّا يُسَبِّحُ بحَِمْدِهِ وَ لَكِن لَّا
+> تَفْقَهُونَ تَسْبِيحَهُم
 
 ***…..and there is not a thing but hymneth His praise; but ye understand
 not their praise…..*** ***(Sura al-’Isra’, 17: 44)***
@@ -238,11 +234,7 @@ about in the street dressed in attractive apparel, without wearing a
 In fact, this will only serve to tarnish their personality! The Holy
 Quran ordains:
 
-<blockquote dir="rtl">
-  <p>
-َّ وَ لَا تَبرََّجْنَ تَبرَُّجَ الْجَهِلِيَّةِ الْأُولى
-  </p>
-</blockquote>
+> َّ وَ لَا تَبرََّجْنَ تَبرَُّجَ الْجَهِلِيَّةِ الْأُولى
 
 ***….. and display not your finery like the display of the ignorance of
 yore…..*** ***(Sura al Ahzaab, 33:*** ***33)***
@@ -278,5 +270,4 @@ bowl and had also deprived him of his wish to eat the food. The Prophet
 (s) told Ayesha softly that she should refrain from such acts in the
 future. The Prophet (s) thus set an example for men to behave politely
 and with maturity with their spouses.
-
 

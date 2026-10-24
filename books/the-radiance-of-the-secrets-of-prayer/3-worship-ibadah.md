@@ -15,11 +15,7 @@ all beings and the mission {*bi‘thah*} of the prophets (*‘a*) (the
 creational world {*‘alam at-takwin*} and the legislative world {*‘alam
 at-tashri‘*}, respectively). God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ما خَلَقْتُ الْجِنَّ وَ الإِْنْسَ إِلاَّ لِيَعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ما خَلَقْتُ الْجِنَّ وَ الإِْنْسَ إِلاَّ لِيَعْبُدُونِ ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.”***[^1]
@@ -27,12 +23,8 @@ Me.”***[^1]
 The mission of all the prophets (*‘a*) has been to invite the people to
 worship God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ
-اللّهَ وَاجْتَنِبُواْ الطَّاغُوتَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولاً أَنِ اعْبُدُواْ
+> اللّهَ وَاجْتَنِبُواْ الطَّاغُوتَ ﴾
 
 ***“Certainly We raised an apostle in every nation {to preach:} ‘Worship
 Allah, and keep away from the Rebel’.”***[^2]
@@ -41,11 +33,7 @@ So, the objective behind the creation of the universe and the mission of
 the prophets (*‘a*) has been the worship of God. However, it is clear
 that God, the Exalted, is in no need of our worship:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِنَّ اللَّهَ غَنِيٌّ عَنكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِنَّ اللَّهَ غَنِيٌّ عَنكُمْ ﴾
 
 ***“Yet Allah is Independent of you.”***[^3]
 
@@ -83,12 +71,8 @@ God, including those that are related to those prior to the birth of
 man, are initially mentioned, and in this way man shows his love to God
 and than he humbly presents his requests. God also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ ٭ الَّذِي أَطْعَمَهُم مِّن
-جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ ٭ الَّذِي أَطْعَمَهُم مِّن
+> جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ ﴾
 
 ***“Let them worship the Lord of this House, who has fed them {and saved
 them} from hunger, and secured them from fear.”***[^4]
@@ -106,12 +90,8 @@ The prophets (*‘a*) have not come to instill the sense of worship in
 man. Rather, their mission is to guide this natural disposition in the
 right direction. ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-فَبَعَثَ اللهُ مُحَمَّداً بِالْحَقّ لِيُخرِجَ عِبادَهُ مِنْ عِبادَةِ
-الأَوْثانِ إِلى عِبادَتِهِ.
-  </p>
-</blockquote>
+> فَبَعَثَ اللهُ مُحَمَّداً بِالْحَقّ لِيُخرِجَ عِبادَهُ مِنْ عِبادَةِ
+> الأَوْثانِ إِلى عِبادَتِهِ.
 
 “God thus sent down Muhammad in truth to stop His servants from
 idol-worship, and invite them to His worship.”[^6]
@@ -140,22 +120,14 @@ effects on the life of man, some of which are the following:
 Man and all his efforts will perish, but whatever is done for His
 pleasure will remain as an asset. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ما عِنْدَ كُمْ يَنْفَدُ وَ ما عِنْدَ اللهِ باقٍ ﴾
-  </p>
-</blockquote>
+> ﴿ ما عِنْدَ كُمْ يَنْفَدُ وَ ما عِنْدَ اللهِ باقٍ ﴾
 
 ***“That which is with you will be spent but what is with Allah shall
 last.”***[^8]
 
 It also says elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-﴿ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ﴾
 
 ***“Everything is to perish except His Face.”***[^9]
 
@@ -178,19 +150,11 @@ to the Bestower of blessings. Taken together, they play an important
 role in the intellectual development of the individual and society
 collectively. Worship means moving along the straight path of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَنْ اعْبُدُونِي هَذَا صِرَاطٌ مُّسْتَقِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَنْ اعْبُدُونِي هَذَا صِرَاطٌ مُّسْتَقِيمٌ ﴾
 
 ***“Worship Me. This is a straight path.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلاَةِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلاَةِ ﴾
 
 ***“And take recourse in patience and prayer.”***[^11]
 
@@ -199,29 +163,13 @@ temptation, and a devoted society that worships God consciously rejects
 the worship of *taghut*s, tyrants and superpowers. ‘Allamah Iqbal Lahuri
 said:
 
-<blockquote dir="rtl">
-  <p>
-آدم از بى بصرى بندگى آدم کرد
-  </p>
-</blockquote>
+> آدم از بى بصرى بندگى آدم کرد
 
-<blockquote dir="rtl">
-  <p>
-گوهرى داشت ولى نذر قباد و جم كرد
-  </p>
-</blockquote>
+> گوهرى داشت ولى نذر قباد و جم كرد
 
-<blockquote dir="rtl">
-  <p>
-يعنى از خوى غلامى ز سگان پستتر است
-  </p>
-</blockquote>
+> يعنى از خوى غلامى ز سگان پستتر است
 
-<blockquote dir="rtl">
-  <p>
-من نديدم كه سگى پيش سگى سرخم كرد
-  </p>
-</blockquote>
+> من نديدم كه سگى پيش سگى سرخم كرد
 
 *Due to a lack of insight, man serves another man,*
 
@@ -247,12 +195,8 @@ which are reckoned as acts of worship in Islam:
 
 Imam as-Sadiq[^12] (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَت الْعِبادَةُ كَثرَةُ الصَّلوٰةِ وَ الصَّوْمِ، إِنَّما العِبادَة
-التَّفَكُّرُ في أَمر اللهِ.
-  </p>
-</blockquote>
+> لَيْسَت الْعِبادَةُ كَثرَةُ الصَّلوٰةِ وَ الصَّوْمِ، إِنَّما العِبادَة
+> التَّفَكُّرُ في أَمر اللهِ.
 
 “Worship {*‘ibadah*} is not excessive praying and fasting. Verily,
 worship is reflection on the handiwork of Allah.”[^13]  
@@ -263,11 +207,7 @@ regarded as an act of worship.
 
 The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْعِبادَةُ سَبْعُونَ جُزْءً أَفْضَلُها طَلَبُ الْحَلال.
-  </p>
-</blockquote>
+> أَلْعِبادَةُ سَبْعُونَ جُزْءً أَفْضَلُها طَلَبُ الْحَلال.
 
 “Worship has seventy parts, the best of which is to earn a lawful
 {*halal*} (income).”[^14]
@@ -276,12 +216,8 @@ The Messenger of Allah (S) said:
 
 The Prophet of Islam (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ خَرَجَ يَطْلُبُ باباً مِنَ الْعِلْمِ لِيَرُدَّ باطِلاً إِلىٰ
-الْحَقِّ وَضَالاًّ إِلىٰ الْهُدىٰ كانَ عَمَلهُ كعبادةِ أربعين عاماً.
-  </p>
-</blockquote>
+> مَنْ خَرَجَ يَطْلُبُ باباً مِنَ الْعِلْمِ لِيَرُدَّ باطِلاً إِلىٰ
+> الْحَقِّ وَضَالاًّ إِلىٰ الْهُدىٰ كانَ عَمَلهُ كعبادةِ أربعين عاماً.
 
 “The act of seeking knowledge in order to refute falsehood and turn
 deviation into guidance is equivalent to forty years of worship.”[^15]
@@ -292,11 +228,7 @@ Many Prophetic traditions assert that service to the people and
 attending to their problems is far superior to many acts of worship and
 optional *Hajj* pilgrimage {*‘umrah*}. In the words of Sa‘di,[^16]
 
-<blockquote dir="rtl">
-  <p>
-عبادت بجز خدمت خلق نيست به تسبيح و سجّاده و دلق نيست
-  </p>
-</blockquote>
+> عبادت بجز خدمت خلق نيست به تسبيح و سجّاده و دلق نيست
 
 *Worship is nothing but service to the people.*
 
@@ -306,11 +238,7 @@ optional *Hajj* pilgrimage {*‘umrah*}. In the words of Sa‘di,[^16]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ العِبادةِ إِنْتِظارُ الْفَرَجِ.
-  </p>
-</blockquote>
+> أَفْضَلُ العِبادةِ إِنْتِظارُ الْفَرَجِ.
 
 “The best act of worship is to wait for the relief {*faraj*} (with the
 advent of Imam al-Mahdi[^17] (*‘a*)).”[^18]
@@ -344,11 +272,7 @@ the pious saints {*awliya’*}:
 
 It is stated in a *hadith*, thus:
 
-<blockquote dir="rtl">
-  <p>
-رَكْعَتانِ مِنْ عالِمٍ خَيْرٌ مِنْ سَبْعِينَ رَكْعَةً مِنْ جاهِلٍ.
-  </p>
-</blockquote>
+> رَكْعَتانِ مِنْ عالِمٍ خَيْرٌ مِنْ سَبْعِينَ رَكْعَةً مِنْ جاهِلٍ.
 
 “Two *rak‘ah*s {cycles or units} of prayer of a scholar {*‘alim*} are
 better than seventy *rak‘ah*s of prayer of an ignorant person
@@ -359,11 +283,7 @@ which is performed or recited on the basis of reflection and
 consciousness.”[^22]  
  It is thus stated in another *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُتِعَبِّدُ عَلىٰ غَيْرِ فِقْهٍ كَحِمار الطّاحونةِ.
-  </p>
-</blockquote>
+> أَلْمُتِعَبِّدُ عَلىٰ غَيْرِ فِقْهٍ كَحِمار الطّاحونةِ.
 
 “He who worships without understanding and discernment is like the
 donkey of a mill but does not advance.”[^23]
@@ -374,12 +294,8 @@ and who he is addressing, with total presence of mind and heart.
 than an unconscious night vigil.”[^24]  
  The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ ﴾
 
 ***“O you who have faith! Do not approach prayer when you are
 intoxicated, {not} until you know what you are saying.”***[^25]
@@ -400,11 +316,7 @@ hearts are enamored by Him. Its ground must also be obtained through
 gnosis {*ma‘rifah*} and attention {*tawajjuh*}. Worship under compulsion
 and imposition leads nowhere. Imam as-Sadiq (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُكْرِهوا إِلىٰ أَنْفُسِكُم العِبادَة.
-  </p>
-</blockquote>
+> لا تُكْرِهوا إِلىٰ أَنْفُسِكُم العِبادَة.
 
 “Do not enforce worship on yourself.”[^27]
 
@@ -422,21 +334,13 @@ hypocrisy, demagogy and advertisement is devoid of value, and not
 accepted by God.  
  The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلا يُشْرِكْ بِعِبادَةِ رَبِّهِ أَحَداً ﴾
-  </p>
-</blockquote>
+> ﴿ وَلا يُشْرِكْ بِعِبادَةِ رَبِّهِ أَحَداً ﴾
 
 ***“And make none sharer of the worship due unto his Lord.”***[^28]
 
 Imam ar-Rida[^29] (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ شَهّرَ نَفْسَهُ بِالْعِبادَةِ فَاتَّهَمُوهُ عَلىٰ دِينِه.
-  </p>
-</blockquote>
+> مَنْ شَهّرَ نَفْسَهُ بِالْعِبادَةِ فَاتَّهَمُوهُ عَلىٰ دِينِه.
 
 “You should be skeptical about the piety of one who seeks popularity (in
 society) through worship.”[^30]
@@ -445,11 +349,7 @@ Such people make use of religion to deceive others. Insincere worship is
 like a lifeless body and soulless corpse. And the Glorious Qur’an
 beautifully states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَما أُمِرُوا إِلاّ لِيَعْبُدُوا اللهَ مُخْلِصِينَ لَهُ الدِّين ﴾
-  </p>
-</blockquote>
+> ﴿ وَما أُمِرُوا إِلاّ لِيَعْبُدُوا اللهَ مُخْلِصِينَ لَهُ الدِّين ﴾
 
 ***“And they are ordered naught else than to serve Allah, keeping
 religion pure for Him.”***[^31]
@@ -463,11 +363,7 @@ sense of God’s grandeur, and its own insignificance before Him. In
 describing the upright believers, the Holy Qur’an notices the presence
 of “humility during prayer”:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِيْنَ هُمْ فِي صَلوٰتِهِم خاشِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِيْنَ هُمْ فِي صَلوٰتِهِم خاشِعُونَ ﴾
 
 ***“And those who are humble in their prayers.”***[^32]
 
@@ -475,20 +371,12 @@ This humility of heart should encompass the entire being of the
 worshipper as if he can see God and feel his own worthlessness in front
 of His power and glory. This is stated in a *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-أَعْبُدُ اللهَ كَأَنَّكَ تَراه.
-  </p>
-</blockquote>
+> أَعْبُدُ اللهَ كَأَنَّكَ تَراه.
 
 “Worship God as if you can see Him.”[^33]  
  Another *hadith* further informs thus:
 
-<blockquote dir="rtl">
-  <p>
-فَصَلِّها لِوَقْتِها صَلاةَ مُوَدِّعٍ.
-  </p>
-</blockquote>
+> فَصَلِّها لِوَقْتِها صَلاةَ مُوَدِّعٍ.
 
 “Perform the prayer within its appointed time in such a manner as if it
 is your last prayer (and you are bidding farewell to prayer and the
@@ -501,11 +389,7 @@ are tainted with self-conceit, ostentation and publicity. The way to
 overcome this defect is to worship in private. The Messenger of Allah
 (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَعْظَمُ الْعِبادَةِ أَجْراً أَخْفاها.
-  </p>
-</blockquote>
+> أَعْظَمُ الْعِبادَةِ أَجْراً أَخْفاها.
 
 “The reward for an act of worship done in private is greater.”[^35]
 
@@ -552,12 +436,8 @@ makes a hole in the container so as to waste the water.
  In the *Makarim al-Akhlaq* Supplication, Imam as-Sajjad[^36] (*‘a*)
 thus beseeches God:
 
-<blockquote dir="rtl">
-  <p>
-إِلٰهي عَبِّدْني لَكَ وَلا تُفْسِدْ عِبادَتي بالعُجْبِ... أَعِزَّني
-وَلاَ تَبْتَلَيّني بِالْكِبْرِ.
-  </p>
-</blockquote>
+> إِلٰهي عَبِّدْني لَكَ وَلا تُفْسِدْ عِبادَتي بالعُجْبِ... أَعِزَّني
+> وَلاَ تَبْتَلَيّني بِالْكِبْرِ.
 
 “O my Lord! Let me be Your servant but do not contaminate my devotion
 {*‘ibadah*} with self-conceit {*‘ujb*}… Make me honorable {*‘aziz*} but
@@ -566,12 +446,8 @@ do not inflict me with pride {*kibr*}.”[^37]
 a material form of worship, is tainted and rendered void by twitting
 anyone for a favor done to him {*minnh*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تُبْطِلُواْ صَدَقَاتِكُم
-بِالْمَنِّ وَالأذَى ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تُبْطِلُواْ صَدَقَاتِكُم
+> بِالْمَنِّ وَالأذَى ﴾
 
 ***“O you who have faith! Do not render your charities void by
 reproaches and affronts.”***[^38]
@@ -581,11 +457,7 @@ keeping it safely growing, and purging it of pests are difficult.
 Sometimes, the sins or spiritual maladies wipe off all goodness.  
  We read in a *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْحَسَدَ يَأْكُلُ الْحَسَناتِ كَما تَأْكُلُ النَّارُ الْحَطَبَ.
-  </p>
-</blockquote>
+> إِنَّ الْحَسَدَ يَأْكُلُ الْحَسَناتِ كَما تَأْكُلُ النَّارُ الْحَطَبَ.
 
 “Verily, jealousy consumes all goodness just as the fire consumes
 firewood.”[^39]  
@@ -613,30 +485,18 @@ context. The Holy Qur’an points to this “embellishment of evil deeds”
 {*tazyin ‘amal su’*} in some of its verses, some of which are the
 following:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِه فَرآهُ حَسَناً ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِه فَرآهُ حَسَناً ﴾
 
 ***“Is someone the evil of whose conduct is presented as decorous to
 him, so he regards it as good...”***[^41]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ٱلَّذِيْنَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ
-يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا ﴾
-  </p>
-</blockquote>
+> ﴿ ٱلَّذِيْنَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ
+> يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا ﴾
 
 ***“Those whose endeavor goes awry in the life of the world, while they
 suppose they are doing good.”***[^42]
 
-<blockquote dir="rtl">
-  <p>
-﴿ زُيِّنَ لَهُمْ سُوءُ أَعْمَالِهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ زُيِّنَ لَهُمْ سُوءُ أَعْمَالِهِمْ ﴾
 
 ***“Their evil deeds appear to them as decorous.”***[^43]
 
@@ -663,22 +523,14 @@ A noble ending and favorable future are great blessings, which the
 divine saints {*awliya’*} have always prayed for. Hadhrat Yusuf (*‘a*)
 prayed to God that he die a Muslim (who submits to the divine will):
 
-<blockquote dir="rtl">
-  <p>
-﴿ تَوَفَّنِي مُسْلِمًا ﴾
-  </p>
-</blockquote>
+> ﴿ تَوَفَّنِي مُسْلِمًا ﴾
 
 ***“Let my death be in submission {to You}.”***[^46]
 
 The Glorious Qur’an states that one of the requests of the men of wisdom
 to God is for them to die along with the good ones:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَتَوَفَّنَا مَعَ ٱلأَبْرَارِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَتَوَفَّنَا مَعَ ٱلأَبْرَارِ ﴾
 
 ***“And make us die with the*** ***pious.”***[^47]
 
@@ -686,11 +538,7 @@ Requesting guidance along the straight path {*sirat al-mustaqim*} is the
 prayer for constancy along the path, and the Holy Qur’an describes the
 final ending as belonging to the pious:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ٱلْعَاقِبَةُ لِلْمُتَّقِيْن ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ٱلْعَاقِبَةُ لِلْمُتَّقِيْن ﴾
 
 ***“And the outcome will be in favor of the God-wary.”***[^48]
 
@@ -722,11 +570,7 @@ What is the value of our acts of worship compared to His Benevolence?
 Which are greater in number, our acts of worship or our complacencies
 and sins? The Holy Qur’an has stated many times:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَيْنَ تَذْهَبُونَ؟ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَيْنَ تَذْهَبُونَ؟ ﴾
 
 ***“So where are you going?”***[^49]
 
@@ -734,13 +578,9 @@ Can our prayers and acts of devotion outweigh our moments of negligence,
 disobedience, shortcomings, carelessness, and heedlessness?  
  Imam as-Sajjad (*‘a*) says in a supplication, thus:
 
-<blockquote dir="rtl">
-  <p>
-وَلَسْتُ أَتَوَسَّلُ إِلَيْكَ بِفَضْلِ نَافِلَةٍ مَعَ كَثِيرِ مَا
-أَغْفَلْتُ مِنْ وَظَائفِ فُرُوضِكَ وَتَعَدَّيْتُ عَنْ مَقَامَاتِ
-حُدُودِكَ؟
-  </p>
-</blockquote>
+> وَلَسْتُ أَتَوَسَّلُ إِلَيْكَ بِفَضْلِ نَافِلَةٍ مَعَ كَثِيرِ مَا
+> أَغْفَلْتُ مِنْ وَظَائفِ فُرُوضِكَ وَتَعَدَّيْتُ عَنْ مَقَامَاتِ
+> حُدُودِكَ؟
 
 “O Lord! With all this negligence of obligations, violation of limits,
 and transgressions, how can I come near You through optional and
@@ -799,23 +639,15 @@ instances:[^52]
 1. The Messenger of Allah (S) used to worship so excessively that this
 verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-﴿ طٰهٰ ٭ مَا أَنْزَلنَا عَلَيْكَ ٱلْقُرْآنَ لِتَشْقىٰ ﴾
-  </p>
-</blockquote>
+> ﴿ طٰهٰ ٭ مَا أَنْزَلنَا عَلَيْكَ ٱلْقُرْآنَ لِتَشْقىٰ ﴾
 
 ***“Ta*** ***Ha. We did not send down to you the Qur’an that you should
 be miserable.”***[^53]
 
 2. Imam al-Mujtaba[^54] (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ فِي ٱلدُّنْيَا أَعْبَدُ مِنْ فَاطِمَة. كَانَتْ تَقُومُ
-حَتّىٰ تَتَوّرَم قَدَمَاهَا.
-  </p>
-</blockquote>
+> مَا كَانَ فِي ٱلدُّنْيَا أَعْبَدُ مِنْ فَاطِمَة. كَانَتْ تَقُومُ
+> حَتّىٰ تَتَوّرَم قَدَمَاهَا.
 
 “I have never seen anyone who surpassed Fatimah in worship. She used to
 stand in worship to such an extent that her feet would swell.”[^55]
@@ -861,32 +693,20 @@ than Him invalid, futile, as well as unreasonable, for, in seeking
 assistance from others, you ask from other than God, knowing that all
 powers belong to Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ ٱلْقُوَّةَ للهِ جَمِيْعًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ ٱلْقُوَّةَ للهِ جَمِيْعًا ﴾
 
 ***“That power, altogether, belongs to Allah.”***[^61]
 
 If you are seeking honor, be aware that honor also belongs to God and is
 at His disposal:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لِلَّهِ الْعِزَّةُ جَمِيعاً ﴾
-  </p>
-</blockquote>
+> ﴿ لِلَّهِ الْعِزَّةُ جَمِيعاً ﴾
 
 ***“Honor entirely belongs to Allah.”***[^62]  
  If you are looking for daily provision and sustenance, be it known that
 the false deities are not the owners of your sustenance:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ يَمْلِكُوْنَ لَكُمْ رِزْقًا ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ يَمْلِكُوْنَ لَكُمْ رِزْقًا ﴾
 
 ***“(Those whom you worship besides Allah) have no control over your
 provision.”***[^63]
@@ -895,33 +715,21 @@ If you are hoping for gain or refuge from harm from other deities, you
 should know that they do not have the power to grant any profit nor
 parry any threat:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَيَمْلِكُ لَكُمْ ضَرًّا وَلاَ نَفْعًا ﴾
-  </p>
-</blockquote>
+> ﴿ لاَيَمْلِكُ لَكُمْ ضَرًّا وَلاَ نَفْعًا ﴾
 
 ***“(It) has no power to bring you any benefit or harm.”***[^64]
 
 If you regard the *taghut*s as superior to you, be reminded that they
 are also servants of God like you:
 
-<blockquote dir="rtl">
-  <p>
-﴿ عِبَادٌ أَمْثالُكُم ﴾
-  </p>
-</blockquote>
+> ﴿ عِبَادٌ أَمْثالُكُم ﴾
 
 ***“(They) are creatures like you.”***[^65]
 
 If to worship idols means to imitate the ancestors, be wary that they
 were misguided:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَنْتُمْ وَ أَبَائُكُمُ فِي ضَلالٍ مُبِيْنٍ ﴾
-  </p>
-</blockquote>
+> ﴿ أَنْتُمْ وَ أَبَائُكُمُ فِي ضَلالٍ مُبِيْنٍ ﴾
 
 ***“You and your forefathers have been in manifest error.”***[^66]
 
@@ -929,11 +737,7 @@ If you think on the Day of Resurrection the deities you worshipped will
 help, be informed that they shall not take into account your acts of
 worship, and they shall become your enemies:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سَيَكْفُرُونَ بِعِبَادَتِهِم وَيَكُونُونَ عَلَيْهِم ضِدًّا ﴾
-  </p>
-</blockquote>
+> ﴿ سَيَكْفُرُونَ بِعِبَادَتِهِم وَيَكُونُونَ عَلَيْهِم ضِدًّا ﴾
 
 ***“No indeed! Soon they will disown their worship, and they will be
 their opponents.”***[^67]
@@ -941,11 +745,7 @@ their opponents.”***[^67]
 Without any reason and purpose, you resorted to other deities without
 any basis for their worship:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَعْبُدُونَ مِنْ دُونِ اللهِ مَالَمْ يُنَزِّلْ بِهِ سُلْطَانًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَعْبُدُونَ مِنْ دُونِ اللهِ مَالَمْ يُنَزِّلْ بِهِ سُلْطَانًا ﴾
 
 ***“They worship besides Allah that for which He has not sent down any
 authority.”***[^68]
@@ -959,11 +759,7 @@ being to obey them. Man should not serve, obey, adore and submit to any
 being if it amounts to disobedience to God. Imam al-Jawad[^69] (*‘a*)
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصْغىٰ إِلىٰ نَاطِقٍ فَقَد عَبَدَهُ.
-  </p>
-</blockquote>
+> مَنْ أَصْغىٰ إِلىٰ نَاطِقٍ فَقَد عَبَدَهُ.
 
 “Anyone who listens to (obeys) the words of another has worshipped
 him!”[^70]  
@@ -971,11 +767,7 @@ him!”[^70]
 servants, and if he is telling lies, we have then worshipped him
 futilely. And Imam as-Sadiq (*‘a*) has said in a *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَطَاعَ مَخْلُوْقًا فِي مَعْصِيَةِ ٱلْخَالِقِ فَقَدْ عَبَدهُ.
-  </p>
-</blockquote>
+> مَنْ أَطَاعَ مَخْلُوْقًا فِي مَعْصِيَةِ ٱلْخَالِقِ فَقَدْ عَبَدهُ.
 
 “Anyone who disobeys the Creator by obeying a creature has indeed
 worshipped the latter.”[^71]
@@ -1008,25 +800,17 @@ Arrogance and pride in people, not heeding the call of the prophets
 {*‘ubudiyyah*}, as they wished to follow their own desires. The Holy
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفكُلّمَا جَائَكُم رَسُولٌ بِمَا لاَ تَهوىٰ أَنْفُسُكُمُ
-ٱسْتَكْبَرتُم ﴾
-  </p>
-</blockquote>
+> ﴿ أَفكُلّمَا جَائَكُم رَسُولٌ بِمَا لاَ تَهوىٰ أَنْفُسُكُمُ
+> ٱسْتَكْبَرتُم ﴾
 
 ***“Is it not that whenever an apostle brought you that which was not to
 your liking, you would act arrogantly?”***[^72]
 
 It also states elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِّمَّا
-قَضَيْتَ وَيُسَلِّمُواْ تَسْلِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِّمَّا
+> قَضَيْتَ وَيُسَلِّمُواْ تَسْلِيمًا ﴾
 
 ***“But no, by your Lord! They will not believe until they make you a
 judge in their disputes, then do not find within their hearts any
@@ -1039,11 +823,7 @@ total submission to God with a complete negation of the self.
 When the decree for *jihad* was ordained for the Muslims during the
 early period of Islam, some of them questioned it and said:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَوْلا أَخَّرْتَنَا إِلَى أَجَلٍ قَرِيبٍ ﴾
-  </p>
-</blockquote>
+> ﴿ لَوْلا أَخَّرْتَنَا إِلَى أَجَلٍ قَرِيبٍ ﴾
 
 ***“Why did You not respite us for a short time?!”***[^74]
 
@@ -1051,12 +831,8 @@ During the event of the changing of the *qiblah* {direction of prayer
 and other rituals} from Bayt al-Muqaddas to the *Ka‘bah*, some asked for
 the reason behind it. The Glorious Qur’an answers, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لِنَعْلَمْ مَنْ يَتَّبِعُ ٱلرَّسُوْلَ مِمَّنْ يَنْقَلِبُ عَلىٰ
-عَقِبَيه ﴾
-  </p>
-</blockquote>
+> ﴿ لِنَعْلَمْ مَنْ يَتَّبِعُ ٱلرَّسُوْلَ مِمَّنْ يَنْقَلِبُ عَلىٰ
+> عَقِبَيه ﴾
 
 ***“That We may ascertain those who follow the Apostle from those turn
 back on their heels.”***[^75]
@@ -1076,11 +852,7 @@ people of Nimrud (Nimrod).
 Constancy in worship
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-رهروآن نيست كه گه تند و گهى خسته رود رهرو آنست كه آهسته و پيوسته رود
-  </p>
-</blockquote>
+> رهروآن نيست كه گه تند و گهى خسته رود رهرو آنست كه آهسته و پيوسته رود
 
 *To walk does not mean to run and stop intermittently,*
 
@@ -1093,32 +865,20 @@ Islam considers small but constant acts of worship as more valuable than
 great, yet inconsistent, good deeds.  
  The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاْعْبُدْهُ وَاصْطَبِر لِعِبَادَتِهِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَاْعْبُدْهُ وَاصْطَبِر لِعِبَادَتِهِ ﴾
 
 ***“So worship Him and be steadfast in His worship.”***[^77]
 
 The Messenger of Allah (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-آفَةُ ٱلْعِبَادَةِ ٱلْفَتْرَةُ.
-  </p>
-</blockquote>
+> آفَةُ ٱلْعِبَادَةِ ٱلْفَتْرَةُ.
 
 “The greatest danger against worship is sluggishness (while performing
 it and at times neglecting it).”[^78]  
  And this subject matter has been recorded in many *hadith*s:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَحَبَّ ٱلأَعْمَالِ إِلىٰ اللهِ تَعَالىٰ أَدْوَمُهَا وَ إِنْ
-قَلَّ.
-  </p>
-</blockquote>
+> إِنَّ أَحَبَّ ٱلأَعْمَالِ إِلىٰ اللهِ تَعَالىٰ أَدْوَمُهَا وَ إِنْ
+> قَلَّ.
 
 “The most beloved of all deeds in the sight of God is that which is most
 constant, no matter how small it is!”[^79]
@@ -1137,12 +897,8 @@ fade just like the passing clouds . One must be wary, make the best use
 of a passing opportunity and render service to God. In a beautiful
 *hadith*, ‘Ali (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ ٱللَّيْلَ وَ النَّهَارَ يَعْمَلاَنِ فِيكَ فَاعْمَلْ فِيِْهمَا وَ
-يَأْخُذَانِ مِنْكَ فَخُذْ مِنْهُمَا.
-  </p>
-</blockquote>
+> إِنَّ ٱللَّيْلَ وَ النَّهَارَ يَعْمَلاَنِ فِيكَ فَاعْمَلْ فِيِْهمَا وَ
+> يَأْخُذَانِ مِنْكَ فَخُذْ مِنْهُمَا.
 
 “The day and night are working in you. You also work in them. They are
 taking (something) from you. You also take (something) from them.”[^80]
@@ -1151,11 +907,7 @@ However, we are given life, but are unaware of how we are spending this
 asset day and night. Are we making the best use of it? The Messenger of
 Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلدُّنْيَا سَاعَةٌ فَاجعَلُوْهَا طَاعَةً.
-  </p>
-</blockquote>
+> أَلدُّنْيَا سَاعَةٌ فَاجعَلُوْهَا طَاعَةً.
 
 “The world is just an hour. Spend it in obedience (to God).”[^81]
 
@@ -1164,11 +916,7 @@ limited, one must strive hard to make it broader, go to freer
 environments and worship God; for, the limitation of time and place is
 not an excuse for one to keep aloof from the worship of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ أَرْضِي وَاسِعَةٌ فَإِيّٰىَ فَاعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ أَرْضِي وَاسِعَةٌ فَإِيّٰىَ فَاعْبُدُونِ ﴾
 
 ***“My earth is indeed vast. So worship {only} Me.”***[^82]
 
@@ -1203,11 +951,7 @@ The path of truth has difficulties that must be overcome by giving one’s
 life and not being afraid of being hooted or incurring the enmity (of
 people). ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَسْتَوْحِشُوا فِي طَرِيْقِ ٱلْهُدىٰ لِقِلَّةِ أَهْلِهِ.
-  </p>
-</blockquote>
+> لاَ تَسْتَوْحِشُوا فِي طَرِيْقِ ٱلْهُدىٰ لِقِلَّةِ أَهْلِهِ.
 
 “In the way of truth, you must not be afraid because of the scantiness
 of its followers.”[^85]
@@ -1228,11 +972,7 @@ Exhorting one another to truth and the duty of conveying the message
 faith and righteous deeds, to exhort one another to truth, and exhort
 one another to patience and the truth:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ تَوَاصَوْا بِالْحَقِّ وَ تَوَاصَوْا بِالْصَّبْرِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ تَوَاصَوْا بِالْحَقِّ وَ تَوَاصَوْا بِالْصَّبْرِ ﴾
 
 ***“And enjoin one another to {follow} the truth, and enjoin one another
 to patience.”***[^86]
@@ -1315,12 +1055,8 @@ of their parents.[^90]
 
 And also, Hadhrat Luqman thus commands his son:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا بُنَىَّ أَقِمِ ٱلصَّلوٰةَ وَٱمُرْ بِالْمَعْرُوفِ وَٱنْهَ عَنِ
-ٱلْمُنْكَر ﴾
-  </p>
-</blockquote>
+> ﴿ يَا بُنَىَّ أَقِمِ ٱلصَّلوٰةَ وَٱمُرْ بِالْمَعْرُوفِ وَٱنْهَ عَنِ
+> ٱلْمُنْكَر ﴾
 
 ***“O my son! Maintain the prayer and bid what is right and forbid what
 is wrong.”***[^91]
@@ -1348,21 +1084,13 @@ incapable of performing a certain task is not accountable for it.
 Concerning the divine duties, this parameter of strength is also
 observed. God thus says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ نُكَلِّفُ نَفْسًا إِلّاَ وُسْعَهَا ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ نُكَلِّفُ نَفْسًا إِلّاَ وُسْعَهَا ﴾
 
 **“We task no soul except according to its capacity.”**[^92]
 
 The Qur’an also states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا جَعَلَ اللهُ عَلَيكُم فِي ٱلدِّينِ مِنْ حَرَجٍ ﴾
-  </p>
-</blockquote>
+> ﴿ مَا جَعَلَ اللهُ عَلَيكُم فِي ٱلدِّينِ مِنْ حَرَجٍ ﴾
 
 ***“He has chosen you and has not placed for you any obstacle (as well
 as pressure and difficulty) in religion.”***[^93]
@@ -1422,24 +1150,16 @@ renders it invalid. One must strive hard so that the pure intention for
 worship is not mixed with ungodly motives. Regarding sincerity in
 action, Imam as-Sadiq (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ ٱلْعَمَلُ ٱلْخَالِصُ الَّذِي لاَ تُرِيْدُ أَنْ يحَمَدك عَلَيْهِ
-أَحَدٌ إِلاَّ الله.
-  </p>
-</blockquote>
+> وَ ٱلْعَمَلُ ٱلْخَالِصُ الَّذِي لاَ تُرِيْدُ أَنْ يحَمَدك عَلَيْهِ
+> أَحَدٌ إِلاَّ الله.
 
 “And the sincere deed is that you do not expect any appreciation and
 eulogy from anyone except God.”[^97]  
  On the effects of sincerity, the Messenger of Allah (S) is reported to
 have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَخْلَصَ عَبْدٌ للهِ عَزَّ وَ جَلَّ أَرْبَعِيْنَ صَبَاحًا إِلاَّ
-جَرَتْ يَنَابِيعُ ٱلْحِكْمَةِ مِنْ قَلْبِهِ إِلىٰ لِسَانِهِ.
-  </p>
-</blockquote>
+> مَا أَخْلَصَ عَبْدٌ للهِ عَزَّ وَ جَلَّ أَرْبَعِيْنَ صَبَاحًا إِلاَّ
+> جَرَتْ يَنَابِيعُ ٱلْحِكْمَةِ مِنْ قَلْبِهِ إِلىٰ لِسَانِهِ.
 
 “There is no servant of Allah, the Glorious and Dignified, who sincerely
 worships Him for forty days without having springs of wisdom flow from
@@ -1454,11 +1174,7 @@ not according to personal whims or manners contrary to the dictates of
 religion.  
  The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ قَول وَ لاَ عَمَل وَ لاَ نِيَّة إِلاَ بِإِصَابَةِ ٱلسُّنَّةِ.
-  </p>
-</blockquote>
+> لاَ قَول وَ لاَ عَمَل وَ لاَ نِيَّة إِلاَ بِإِصَابَةِ ٱلسُّنَّةِ.
 
 “No saying, action or intention is valuable unless it is done according
 to the *sunnah*.”[^99]  
@@ -1466,11 +1182,7 @@ to the *sunnah*.”[^99]
 {*awliya’*}. Hadhrat Ibrahim (*‘a*) beseeches God to show to him the
 correct form of worship:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَرِنَا مَنَاسِكَنَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَرِنَا مَنَاسِكَنَا ﴾
 
 ***“And show us our rites {of worship}.”***[^100]
 
@@ -1577,12 +1289,8 @@ Before explaining the above, it must be emphasized that man should
 strive hard for the acceptance of his acts of worship and to benefit
 from his spiritual endeavors. ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-كُوْنُوا عَلىٰ قَبُوْلِ ٱلْعَمَلِ أَشَدَّ عِنَايَةً مِنْكُمْ عَلَىٰ
-ٱلْعَمَلِ.
-  </p>
-</blockquote>
+> كُوْنُوا عَلىٰ قَبُوْلِ ٱلْعَمَلِ أَشَدَّ عِنَايَةً مِنْكُمْ عَلَىٰ
+> ٱلْعَمَلِ.
 
 “Pay more attention to the acceptance of the act than you do to the act
 itself.”[^107]
@@ -1601,23 +1309,15 @@ certain conditions which shall now be discussed.
 
 Lack of faith {*iman*} renders deeds futile:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَن يَكْفُرْ بِالإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَن يَكْفُرْ بِالإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ ﴾
 
 ***“Should anyone renounce his faith, his work shall fail.”***[^108]
 
 Those who build the mosques of God should be believers in God and the
 hereafter:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا يَعْمُرُ مَسَاجِدَ اللهِ مَنْ آمَنَ بِاللهِ وَ ٱلْيَوْمِ
-ٱلآخِرِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا يَعْمُرُ مَسَاجِدَ اللهِ مَنْ آمَنَ بِاللهِ وَ ٱلْيَوْمِ
+> ٱلآخِرِ ﴾
 
 ***“Only those shall maintain Allah’s mosques who believe in Allah and
 the Last Day.”***[^109]
@@ -1625,12 +1325,8 @@ the Last Day.”***[^109]
 And it is the righteous deed of a believing {*mu’min*} man and woman
 that brings about pure life:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ﴾
-  </p>
-</blockquote>
+> ﴿ مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ﴾
 
 ***“Whoever acts righteously, {whether} male or female, should he (or
 she) be faithful—We shall revive him with a good life.”***[^110]
@@ -1657,12 +1353,8 @@ sound and well-experienced, no matter if all the passengers are
 old-fashioned and untidy, this journey will end at its destination.  
  In a *hadith*, Imam al-Baqir (*‘a*) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ دَانَ اللهَ بِعِبَادَةٍ يَجْهَدُ فيهَا نَفْسَهُ وَ لاَ إِمَامَ
-لَهُ مِِنَ اللهِ فَسَعيُهُ غَيْرَ مَقْبُوْلٍ.
-  </p>
-</blockquote>
+> مَنْ دَانَ اللهَ بِعِبَادَةٍ يَجْهَدُ فيهَا نَفْسَهُ وَ لاَ إِمَامَ
+> لَهُ مِِنَ اللهِ فَسَعيُهُ غَيْرَ مَقْبُوْلٍ.
 
 “Anyone who has faith in God and also performs onerous acts of worship,
 but has no deserving Imam from Allah, his efforts are useless.”[^111]
@@ -1677,11 +1369,7 @@ into something unproductive or for the advantage of rulers alien to
 Islam.  
  We read in a *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ لَمْ يَتَوَّلنَا لَمْ يَرْفَعِ اللهُ لَهُ عَمَلاً.
-  </p>
-</blockquote>
+> فَمَنْ لَمْ يَتَوَّلنَا لَمْ يَرْفَعِ اللهُ لَهُ عَمَلاً.
 
 “Whoever shall not accept our guardianship {*wilayah*} (and leadership),
 his deeds also shall not be accepted by God.”[^112]
@@ -1692,11 +1380,7 @@ the way of Allah will be introduced and known through us.”[^113]
 Along with it, there must also be God-wariness {*taqwa*}. Imam al-Baqir
 (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا تَنَالُ وَ لاَ يَتَنَا إِلاَّ بِالْعَمَلِ وَ ٱلْوَرَعِ.
-  </p>
-</blockquote>
+> وَ مَا تَنَالُ وَ لاَ يَتَنَا إِلاَّ بِالْعَمَلِ وَ ٱلْوَرَعِ.
 
 “There is nothing in the line of our leadership except (good) deeds and
 piety {*wara ‘*}.”[^114]
@@ -1708,11 +1392,7 @@ Glorious Qur’an. Both of them offered sacrifices. The sacrifice offered
 by one of them was accepted while that of the other was not.  
  God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ الْمُتَّقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا يَتَقَبَّلُ اللّهُ مِنَ الْمُتَّقِينَ ﴾
 
 ***“Allah accepts only from the God-wary.”***[^115]
 
@@ -1740,11 +1420,7 @@ of importance that sometimes the acceptability of the act of worship
 depends upon it. Paying the poor-rate {*zakat*}[^116] and earning a
 lawful income are some examples. Imam ar-Rida(*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ صَلّىٰ وَ لَمْ يُزَكِّ لَمْ تُقْبَلْ صَلوٰتُه.
-  </p>
-</blockquote>
+> مَنْ صَلّىٰ وَ لَمْ يُزَكِّ لَمْ تُقْبَلْ صَلوٰتُه.
 
 “The prayer of one who prays but does not give *zakat* (and other
 Islamic taxes) shall not be accepted.”[^117]  
@@ -1762,47 +1438,31 @@ peevishness and envy are some of the vices and actions that cause the
 non-acceptance of worship.  
  The Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ ٱغْتَابَ مُسْلِمًا أَوْ مُسْلِمَةً لَمْ يَقْبَلِ اللهُ صَلاَتَهُ
-وَ لاَ صِيَامَهُ أرْبَعِيْنَ يَوْمًا وَ لَيْلَةً إِلاَّ أَنْ يَغْفِرَ
-لَهُ صَاحِبُهُ.
-  </p>
-</blockquote>
+> مَنِ ٱغْتَابَ مُسْلِمًا أَوْ مُسْلِمَةً لَمْ يَقْبَلِ اللهُ صَلاَتَهُ
+> وَ لاَ صِيَامَهُ أرْبَعِيْنَ يَوْمًا وَ لَيْلَةً إِلاَّ أَنْ يَغْفِرَ
+> لَهُ صَاحِبُهُ.
 
 “The prayers and the fasting for forty days of one who backbites against
 a Muslim man or woman are not accepted unless the victim (the person
 backbitten) concerned forgives him.”[^119]  
  The Prophet (S) also said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَاذَرّ! إِيَّاكَ وَهِجْرَانَ أَخِيْكَ، فَإِنَّ ٱلْعَمَلَ لاَ
-يَتَقَبَّلُ مَعَ ٱلْهِجْرانِ.
-  </p>
-</blockquote>
+> يَا أَبَاذَرّ! إِيَّاكَ وَهِجْرَانَ أَخِيْكَ، فَإِنَّ ٱلْعَمَلَ لاَ
+> يَتَقَبَّلُ مَعَ ٱلْهِجْرانِ.
 
 “O Abu Dharr! Keep aloof from severing ties with your brother in faith
 as the deeds of the ones doing so are not accepted.”[^120]  
  Imam as-Sadiq (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَقْبَلُ اللهُ مِنْ مُؤْمِنٍ عَمَلاً وَ هُوَ مُضْمِرٌ عَلىٰ
-أَخِيْهِ سُوء.
-  </p>
-</blockquote>
+> لاَ يَقْبَلُ اللهُ مِنْ مُؤْمِنٍ عَمَلاً وَ هُوَ مُضْمِرٌ عَلىٰ
+> أَخِيْهِ سُوء.
 
 “God does not accept the deeds of any believer who has bad intentions
 against his brother in faith.”[^121]  
  Imam as-Sadiq (*‘a*) also said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ سُوءَ ٱلْخُلْقِ يُفْسِدُ ٱلْعَمَلَ كَمَا يُفْسِدُ ٱلخَلُّ
-ٱلْعَسَلَ.
-  </p>
-</blockquote>
+> إِنَّ سُوءَ ٱلْخُلْقِ يُفْسِدُ ٱلْعَمَلَ كَمَا يُفْسِدُ ٱلخَلُّ
+> ٱلْعَسَلَ.
 
 “Verily, bad behavior (toward the people) spoils (good) deeds just as
 vinegar spoils honey.”[^122]  
@@ -1823,12 +1483,8 @@ non-acceptance of worship. The severance of earthly ties leads to the
 severance of heavenly ties. In this regard, the Prophet of Islam (S) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ لَهُ إِمْرَأَةً تُؤذيهِ لَمْ يُقْبَلِ اللهُ صَلاَتَهَا وَ
-لاَ حَسَنَةً مِنْ عَمَلِهَا... وَ عَلَىٰ ٱلرَّجُل مِثْلُ ذٰلِكَ.
-  </p>
-</blockquote>
+> مَنْ كَانَ لَهُ إِمْرَأَةً تُؤذيهِ لَمْ يُقْبَلِ اللهُ صَلاَتَهَا وَ
+> لاَ حَسَنَةً مِنْ عَمَلِهَا... وَ عَلَىٰ ٱلرَّجُل مِثْلُ ذٰلِكَ.
 
 “God does not accept the prayers and good deeds of an ill-mannered and
 annoying wife… And the same is true if the husband is such.”[^123]
@@ -1837,12 +1493,8 @@ Not only does uncivil behavior toward one’s spouse hinder the acceptance
 of worship, but also casting a furious look at one’s father or mother,
 as said by Imam as-Sadiq (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ نَظَرَ إِلىٰ أَبَويهِ نَظَرَ مَاقَتٍ وَ هُمَا ظَالِمَانِ لَهُ
-لَمْ يُقْبَلِ اللهُ لَهُ صَلاةً.
-  </p>
-</blockquote>
+> مَنْ نَظَرَ إِلىٰ أَبَويهِ نَظَرَ مَاقَتٍ وَ هُمَا ظَالِمَانِ لَهُ
+> لَمْ يُقْبَلِ اللهُ لَهُ صَلاةً.
 
 “The prayer of the one who looks furiously at his father or mother is
 not accepted even though his parents have treated him unjustly.”[^124]
@@ -1871,13 +1523,9 @@ wrongs”*[^125]—and this virtue is the essence of prayer and a sign of
 its acceptance and other acts of worship.  
  In expressing this sign, Imam as-Sadiq (*‘a*) thus said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّ أَنْ يَعْلَمَ أقُبِلَت صَلاَتَهُ أَمْ لَم تُقْبَلْ،
-فَلْيَنْظُر هَلْ مَنَعَتْهُ صَلاَتُهُ عَنِ ٱلْفحْشَاءِ وَٱلْمُنْكَرِ؟
-فَبقَدرَ مَا ضَعَتْهُ قُبِلَتْ مِنْهُ.
-  </p>
-</blockquote>
+> مَنْ أَحَبَّ أَنْ يَعْلَمَ أقُبِلَت صَلاَتَهُ أَمْ لَم تُقْبَلْ،
+> فَلْيَنْظُر هَلْ مَنَعَتْهُ صَلاَتُهُ عَنِ ٱلْفحْشَاءِ وَٱلْمُنْكَرِ؟
+> فَبقَدرَ مَا ضَعَتْهُ قُبِلَتْ مِنْهُ.
 
 “Anyone who wants to know whether his prayer is accepted or not should
 see if his prayer is keeping him away from sin and indecency. So, the
@@ -1907,23 +1555,15 @@ prayers by leaving their soft, warm beds so as to engage in supplication
 and prayer.[^128]  
  Imam ‘Ali (*‘a*) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ ٱلأَعْمَالِ مَا أَكْرَهْتَ نَفْسَكَ عَلَيْهِ.
-  </p>
-</blockquote>
+> أَفْضَلُ ٱلأَعْمَالِ مَا أَكْرَهْتَ نَفْسَكَ عَلَيْهِ.
 
 “The best of deeds is that in which you have to urge yourself to perform
 it.”[^129]  
  The Holy Qur’an regards as superior the reward and station of great and
 diligent *mujahidin*,[^130] stating thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَفَضَّلَ اللّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا
-عَظِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَفَضَّلَ اللّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا
+> عَظِيمًا ﴾
 
 ***“And Allah has graced those who wage jihad over those who sit back
 with a great reward.”***[^131]
@@ -1937,21 +1577,13 @@ are more in need, more useful and more important, be it in the realm of
 education, worship, spending money in Allah’s cause {infaq}, etc. The
 Prophet of Islam (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ صَدَقَةَ وَ ذَوْرَحِمٍ مُحْتَاجًا.
-  </p>
-</blockquote>
+> لاَ صَدَقَةَ وَ ذَوْرَحِمٍ مُحْتَاجًا.
 
 “While there are needy relatives, spending on and helping others is
 worthless.”[^132]  
  And Imam ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ قُرَبَة بِالنَّوَافِلِ إِذَا أَضرَّتْ بِالْفَرَائِضِ.
-  </p>
-</blockquote>
+> لاَ قُرَبَة بِالنَّوَافِلِ إِذَا أَضرَّتْ بِالْفَرَائِضِ.
 
 “Whenever supererogatory prayers jeopardize obligatory prayers, they
 will not bring about nearness to God.”[^133]
@@ -1962,11 +1594,7 @@ The impact of a deed and act of worship which has the quality of
 perfection is not fleeting and temporary but of permanent value.  
  Imam ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-رُبَّ يَسيرٍ اَنْمىٰ مِنْ كَثيرٍ.
-  </p>
-</blockquote>
+> رُبَّ يَسيرٍ اَنْمىٰ مِنْ كَثيرٍ.
 
 “So many seemingly small and trivial deeds are more fruitful than a
 large amount of deeds.”[^134]
@@ -1991,15 +1619,11 @@ in such affairs is the criterion of perfection. The Holy Qur’an in many
 instances uses the order, “*sari‘u*” and “*sabiqu*” {be ahead}. It
 states elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا لَكُمْ أَلَّا تُنفِقُوا فِي سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَاثُ
-السَّمَاوَاتِ وَالْأَرْضِ لَا يَسْتَوِي مِنكُم مَّنْ أَنفَقَ مِن
-قَبْلِ الْفَتْحِ وَقَاتَلَ أُوْلَئِكَ أَعْظَمُ دَرَجَةً مِّنَ
-الَّذِينَ أَنفَقُوا مِن بَعْدُ وَقَاتَلُوا وَكُلًّا وَعَدَ اللَّهُ
-الْحُسْنَى وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا لَكُمْ أَلَّا تُنفِقُوا فِي سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَاثُ
+> السَّمَاوَاتِ وَالْأَرْضِ لَا يَسْتَوِي مِنكُم مَّنْ أَنفَقَ مِن
+> قَبْلِ الْفَتْحِ وَقَاتَلَ أُوْلَئِكَ أَعْظَمُ دَرَجَةً مِّنَ
+> الَّذِينَ أَنفَقُوا مِن بَعْدُ وَقَاتَلُوا وَكُلًّا وَعَدَ اللَّهُ
+> الْحُسْنَى وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ ﴾
 
 ***“Why should you not spend in the way of Allah, while to Allah belongs
 the heritage of the heavens and the earth? Not equal {to others} are
@@ -2012,11 +1636,7 @@ So, having precedence in meritorious works (such as spending and *jihad*
 in the way of Allah) is one of the criteria of perfection. We read in a
 *hadith* that ‘Ali (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يتمّ المعروفُ إلاّ بثلاثِ خصالٍ: تعجيلهُ و تصغيِرهُ وَ سترهُ.
-  </p>
-</blockquote>
+> لاَ يتمّ المعروفُ إلاّ بثلاثِ خصالٍ: تعجيلهُ و تصغيِرهُ وَ سترهُ.
 
 “A good deed becomes more valuable if it is done immediately; the doer
 regards it as something small (and as such he does not become proud of
@@ -2038,23 +1658,15 @@ to God, overcoming these pressures and worshipping God are signposts of
 value and perfection. In praising the upright believers, the Glorious
 Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُجَاهِدُونَ فِي سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ يُجَاهِدُونَ فِي سَبِيلِ اللّهِ وَلاَ يَخَافُونَ لَوْمَةَ لآئِمٍ ﴾
 
 ***“Wage jihad in the way of Allah, not fearing the blame of any
 blamer.”***[^137]
 
 It also states in another place:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذينَ يُبَلِّغُونَ رِسالاتِ اللّهِ وَ يَخْشَوْنَهُ وَ لا
-يَخْشَوْنَ أَحَدًا إِلاَّ اللّهَ وَ كَفى‏ بِاللّهِ حَسيبًا ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذينَ يُبَلِّغُونَ رِسالاتِ اللّهِ وَ يَخْشَوْنَهُ وَ لا
+> يَخْشَوْنَ أَحَدًا إِلاَّ اللّهَ وَ كَفى‏ بِاللّهِ حَسيبًا ﴾
 
 ***“Such as deliver the messages of Allah and fear Him, and fear no one
 except Allah, and Allah*** ***suffices as reckoner.”***[^138]
@@ -2076,12 +1688,8 @@ accompanied by laziness, ennui and abandonment. The Glorious Qur’an
 promises rewards and abundant good fortune in the field of knowledge and
 understanding to those who are firmly entrenched on the right path.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَن لَوِ ٱسْتَقٰمُواْ عَلَى ٱلطٍّرِيقَةِ لأَسْقَيْنٰهُم مَّآءً
-غَدَقًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَن لَوِ ٱسْتَقٰمُواْ عَلَى ٱلطٍّرِيقَةِ لأَسْقَيْنٰهُم مَّآءً
+> غَدَقًا ﴾
 
 ***“If they are steadfast on the path {of Allah}, We shall provide them
 with abundant water.”***[^140]
@@ -2094,11 +1702,7 @@ perfection of worship is that the worshipper should not reckon his
 devotional acts as plentiful and be arrogant. In the *Makarim al-Akhlaq*
 supplication, Imam as-Sajjad (*‘a*) thus pleads with God:
 
-<blockquote dir="rtl">
-  <p>
-أللّٰهمّ عَبِّدْني لَكَ وَ لاَ تُفْسِدْ عِبَادَتِي بِٱلْعُجْبِ.
-  </p>
-</blockquote>
+> أللّٰهمّ عَبِّدْني لَكَ وَ لاَ تُفْسِدْ عِبَادَتِي بِٱلْعُجْبِ.
 
 “O my Lord! Let me be Your servant but do not contaminate my devotion
 {*‘ibadah*} with self-conceit {*‘ujb*}.”[^141]
@@ -2116,21 +1720,13 @@ Profound awareness and insight in religion is the most valuable
 attribute of deeds and devotional acts, without which no work can
 achieve perfection. Imam ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ، لاَ خَيرَ فِي عِبَادَةٍ لَيْسَ فِيْهَا تَفَكُّرٌ.
-  </p>
-</blockquote>
+> أَلاَ، لاَ خَيرَ فِي عِبَادَةٍ لَيْسَ فِيْهَا تَفَكُّرٌ.
 
 “Worship without insight and reflection is indeed worthless.”[^143]  
  In another *hadith*, “certainty” {*yaqin*} is mentioned as follows:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ ٱلْعَمَلَ ٱلدَّائم ٱلْقَلِيْل عَلىٰ ٱلْيَقِيْنِ، أَفْضَلُ عِنْدَ
-اللهِ مِنَ ٱلْعَمَل ٱلْكَثِيرِ عَلىٰ غَيرِ يَقِينٍ.
-  </p>
-</blockquote>
+> إِنَّ ٱلْعَمَلَ ٱلدَّائم ٱلْقَلِيْل عَلىٰ ٱلْيَقِيْنِ، أَفْضَلُ عِنْدَ
+> اللهِ مِنَ ٱلْعَمَل ٱلْكَثِيرِ عَلىٰ غَيرِ يَقِينٍ.
 
 “Verily, small yet constant works based on certainty {*yaqin*} are
 superior in the sight of God to many works without certainty (and
@@ -2258,12 +1854,8 @@ Among the abundant *hadith*s regarding this subject, we shall quote some
 lines of one of the speeches of the Commander of the Faithful (*‘a*)
 recorded in *Nahj al-Balaghah*:
 
-<blockquote dir="rtl">
-  <p>
-فَرض الله الايمان تطهيراً مِنَ الشِرك وَ الصَلوةَ تَنزيهاً عَنِ الكِبر
-و الزكوة تسبيباً لِلرّزق...
-  </p>
-</blockquote>
+> فَرض الله الايمان تطهيراً مِنَ الشِرك وَ الصَلوةَ تَنزيهاً عَنِ الكِبر
+> و الزكوة تسبيباً لِلرّزق...
 
 “Allah has laid down belief {*iman*} for purification from polytheism,
 prayer {*salah*} for purification from vanity, *zakat* for purification
@@ -2296,11 +1888,7 @@ that lying, treachery, slandering, killing, stealing, tyranny, hoarding,
 etc. are bad, while justice, purity, generosity, charity, etc. are good.
 This is the divine inspiration referred to in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا ﴾
 
 ***“…and inspired it with {discernment between} its virtues and
 vices.”***[^158]
@@ -2358,32 +1946,20 @@ The aim of devotional acts is to nurture the soul of man in the same
 manner as athletic movements are meant to train the body.  
  Imam ‘Ali and Imam as-Sajjad (*‘a*) have said:
 
-<blockquote dir="rtl">
-  <p>
-اِلٰهى كَفىٰ بى عِزّاً أَنْ أَكُوْنَ لَكَ عَبْدًا.
-  </p>
-</blockquote>
+> اِلٰهى كَفىٰ بى عِزّاً أَنْ أَكُوْنَ لَكَ عَبْدًا.
 
 “O Lord! It is already an enough honor for me that I am Your
 servant.”[^160]  
  In *Munajat ash-Sha‘baniyyah*,[^161] we read:
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ أَدْخَلْتَنِي ٱلنَّارَ أَعْلَنْتُ أَهْلَهَا إِنِّي أُحِبُّكَ!
-  </p>
-</blockquote>
+> لَئِنْ أَدْخَلْتَنِي ٱلنَّارَ أَعْلَنْتُ أَهْلَهَا إِنِّي أُحِبُّكَ!
 
 “(O Lord!) Even if You throw me into the hellfire, I shall announce to
 its dwellers that I love You!”  
  ‘Ali (*‘a*) declared:
 
-<blockquote dir="rtl">
-  <p>
-إلٰهى ما عَبَدتُكَ خَوْفاً مِنْ نارِك وَ لا طَمَعاً في جَنَّتِك بَلْ
-وَجَدْتُك أهْلاً لِلْعِبادَة فَعَبْدتُك.
-  </p>
-</blockquote>
+> إلٰهى ما عَبَدتُكَ خَوْفاً مِنْ نارِك وَ لا طَمَعاً في جَنَّتِك بَلْ
+> وَجَدْتُك أهْلاً لِلْعِبادَة فَعَبْدتُك.
 
 “O God! My worship is not out of fear of hell or desire for Your
 paradise. Rather, it is because I found You worthy of worship and thus I
@@ -2415,12 +1991,8 @@ looking for the philosophy and reasons behind every religious injunction
 while claiming to be “intellectuals”. Regarding such persons, the Holy
 Qur’an thus says concerning belief in the Day of Resurrection:
 
-<blockquote dir="rtl">
-  <p>
-﴿ بَلْ يُرِيْدُ ٱلإِنْسَانُ لِيَفْجُرَ أَمَامَهُ ٭ يَسْئَلُ أَيَّانَ
-يَوْمُ ٱلْقِيَامَةِ ﴾
-  </p>
-</blockquote>
+> ﴿ بَلْ يُرِيْدُ ٱلإِنْسَانُ لِيَفْجُرَ أَمَامَهُ ٭ يَسْئَلُ أَيَّانَ
+> يَوْمُ ٱلْقِيَامَةِ ﴾
 
 ***“Rather man desires to go on living viciously. He asks, ‘When is this
 day of resurrection?”***[^163]
@@ -2428,11 +2000,7 @@ day of resurrection?”***[^163]
 They are like children who are constantly seeking excuses. Regarding
 such individuals, the Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِنْ يَرَوا آيَةً يُعْرِضُوا وَ يَقُولُوا سِحْرٌ مُسْتَمِرّ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِنْ يَرَوا آيَةً يُعْرِضُوا وَ يَقُولُوا سِحْرٌ مُسْتَمِرّ ﴾
 
 ***“If they see a sign, they turn away, and say, ‘An incessant
 magic!”***[^164]
@@ -2971,5 +2539,4 @@ during the month of Sha‘ban. {Trans.}
 [^163]: Surah al-Qiyamah 75:5-6.
 
 [^164]: Surah al-Qamar 54:2.
-
 

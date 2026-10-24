@@ -66,7 +66,6 @@ al-Washsha' who has said the following. "I heard Imam al-Rida saying,
 'All the deeds: good and bad ones are presented before the Messenger of
 Allah.'"
 
-
 **Chapter 30 : The Path, Urged to be Maintained Steadfastly is
 Acknowledgement of the Divine Authority of Imam Ali (a.s.) H 585, Ch.
 30, h 1**
@@ -102,5 +101,4 @@ steadfast in respecting the Divine authority of Amir al-Mu'minin Ali (a.
 s.) and his successors, the Imams (a.s.) one after the other then, ' the
 angels will descend saying, "Do not be afraid or grieved. Receive the
 glad news of the Paradise which was promised to you.'" (41:30)
-
 

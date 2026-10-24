@@ -75,11 +75,7 @@ Imam, “O’ Son of the Messenger of Allah!  What is the Hujjah of Allah
 right now?”  The Imam (a.s.) replied to him, “Intelligence” and said to
 him:
 
-<blockquote dir="rtl">
-  <p>
-هٌذَا وَاللٌّهِ هُوَالْجَوٌابِ
-  </p>
-</blockquote>
+> هٌذَا وَاللٌّهِ هُوَالْجَوٌابِ
 
 *“This, by Allah is the answer.”*
 
@@ -92,5 +88,4 @@ people who say that he was not a Prophet) - there would have only been
 one type of miracle.  However we see that this is not the case and that
 each and every Prophet brought along with him his own specific miracle
 that was fit for his time and age.
-
 

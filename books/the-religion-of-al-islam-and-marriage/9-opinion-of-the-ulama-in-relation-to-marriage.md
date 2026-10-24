@@ -44,11 +44,7 @@ America in your supplications, especially the dear, valuable youth."*
 Opinion of Ayatullah al-Uzma al-Hajj as-Sayyid Ali al-Husaini as-Sistani
 ------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -61,23 +57,15 @@ get married.
 **Answer 2:** It has been narrated from the Noble Prophet of Islam (S)
 that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَزَوَّجَ أَحْرَزَ نَصْفَ دِيَنِهِ
-  </p>
-</blockquote>
+> مَنْ تَزَوَّجَ أَحْرَزَ نَصْفَ دِيَنِهِ
 
 *"The person who marries safeguards half of his religion."*
 
 And he (S) has also stated that:
 
-<blockquote dir="rtl">
-  <p>
-ما اسْتَفادَ امْرَءٌ مُسْلِمٌ فائِدَةً بَعْدَ الإِسْلامِ أَفْضَلَ مِنْ
-زَوْجَةٍ مُسْلِمَةٍ تَسٌرُّهُ إِذا نَظَرَ إِلَيْها وَتُطِيعُهُ إِذا
-أَمَرَها وَتَحْفَظُهُ إِذا غابَ عَنْها فِي نَفْسِها وَمالِهِ
-  </p>
-</blockquote>
+> ما اسْتَفادَ امْرَءٌ مُسْلِمٌ فائِدَةً بَعْدَ الإِسْلامِ أَفْضَلَ مِنْ
+> زَوْجَةٍ مُسْلِمَةٍ تَسٌرُّهُ إِذا نَظَرَ إِلَيْها وَتُطِيعُهُ إِذا
+> أَمَرَها وَتَحْفَظُهُ إِذا غابَ عَنْها فِي نَفْسِها وَمالِهِ
 
 *"There is nothing that has benefited the Muslim after (accepting the
 religion of) al-Islam greater than marrying a Muslim woman. He becomes
@@ -87,12 +75,8 @@ relation to her self and his wealth."*
 
 It has been narrated from Imam Jafar ibn Muhammad as- Sadiq (as) that:
 
-<blockquote dir="rtl">
-  <p>
-رَكْعَتانِ يُصَلِّيها الْمُتَزَوِّجُ أَفْضَلُ مِنْ سَبْعِينَ رَكْعَةٍ
-يُصَلِّيها أَعْزَبُ
-  </p>
-</blockquote>
+> رَكْعَتانِ يُصَلِّيها الْمُتَزَوِّجُ أَفْضَلُ مِنْ سَبْعِينَ رَكْعَةٍ
+> يُصَلِّيها أَعْزَبُ
 
 *"The two Rakat that a married person prays of his Salat is better than
 seventy Rakat that a bachelor performs."*
@@ -108,11 +92,7 @@ Office of Ayatullah al-Uzma al-Hajj as-Sayyid Ali al-Husaini as-Sistani
 Opinion of Ayatullah al-Uzma al-Hajj as-Sayyid Ali al-Husaini Khamenei
 ----------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -143,11 +123,7 @@ Office of Ayatullah al-Uzma al-Hajj as-Sayyid Ali al-Husaini Khamenei
 Opinion of Ayatullah al-Uzma al-Hajj ash-Shaykh Lutfullah as-Safi al-Gulpaygani
 -------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -181,11 +157,7 @@ al-Gulpaygani
 Opinion of Ayatullah al- Uzma al-Hajj ash-Shaykh Nasir al-Makarim ash-Shirazi
 -----------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -211,5 +183,4 @@ And may the peace and blessings of Allah (SwT) be upon all of you.
 
 Office of Ayatullah al- Uzma al-Hajj ash-Shaykh Nasir al-Makarim
 ash-Shirazi
-
 

@@ -382,4 +382,3 @@ crusaders under Salāh al-Deen Ayyubi. (Tr.)
 
 [^55]: Al-Dhahabi 5:1451
 
-

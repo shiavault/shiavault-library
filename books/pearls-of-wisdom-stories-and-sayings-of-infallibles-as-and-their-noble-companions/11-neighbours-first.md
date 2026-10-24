@@ -20,4 +20,3 @@ in the family?
 Bibi Fatima, blessings and salutations to her, said: 'O Hasan, remember
 one thing. Neighbors first and then the house.'
 
-

@@ -90,4 +90,3 @@ ransom[^18] . The killing of prisoners is only allowed where it is
 established, without a doubt, that leaving  them alive will be dangerous
 to the Muslim*umma.*
 
-

@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ ماَ الْحَياَةُ الدُّنْياَ إِلاَّ لَعِبٌ وَّ لَهْوٌ
-  </p>
-</blockquote>
+> وَ ماَ الْحَياَةُ الدُّنْياَ إِلاَّ لَعِبٌ وَّ لَهْوٌ
 
 “And this world’s life is naught but a play and an idle sport.”[^1]
 
 The Noble Prophet (S) stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصبَحَ وَ الدُّنْياَ أَکْبَرُ هَمِّهِ فَلَيْسَ مِنَ اللٌّهِ فِي
-شَيْءٍ
-  </p>
-</blockquote>
+> مَنْ أَصبَحَ وَ الدُّنْياَ أَکْبَرُ هَمِّهِ فَلَيْسَ مِنَ اللٌّهِ فِي
+> شَيْءٍ
 
 “He who rises in the morning such that his greatest concern is for (the
 issues of) the world, shall have nothing of (the guardianship) of
@@ -324,5 +316,4 @@ Volume 2, Page 169
 [^10]: Modern day Mazandaran (Tr.)
 
 [^11]: Rangarang, Volume 1, Page 24
-
 

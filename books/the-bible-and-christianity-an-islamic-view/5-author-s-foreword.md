@@ -88,8 +88,6 @@ narrow minded who are very few. This is a matter the importance of which
 I have personally experienced throughout my research work and
 discussions.
 
-
 Muhammad Shirazi
 Islam – Christianity debates
-
 

@@ -290,4 +290,3 @@ to the foundation of the Shaykhi school. Furthermore, there is no direct
 reference to Sadra, his works or his school either in the current
 literature of Babism or Baha’ism.
 
-

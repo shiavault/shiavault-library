@@ -450,4 +450,3 @@ advisors.
 
 [^25]: Abul Hasan an-Nadawi’s Seerat Ahmed Shahid, p.21.
 
-

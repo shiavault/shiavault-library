@@ -42,10 +42,8 @@ in ensuring the success of this booklet. May Almighty Allah reward them
 all in both the worlds and accept whatever little we manage to do in His
 right path. Amin.
 
-
 Wallahu Waliyyut Tawfeeque.
 Mujahidali A.R. Sheriff
 Ramadhan 1411 A.H.
 Nairobi.
-
 

@@ -94,7 +94,6 @@ make it prevail over every other religion. However much the disbelievers
 may dislike it." (Holy Quran Sura al-Tawbah 9:33 and Sura As-Saff
 61:9).
 
-
 **Belief in One God and human freedom**
 
 The root and essence of Islamic belief is monotheism. We believe that
@@ -194,5 +193,4 @@ virtues based on faith and piety and the struggle against all forms of
 immorality and corruption. The government must raise the level of public
 awareness in all areas through the use of media and public relations
 organizations.
-
 

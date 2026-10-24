@@ -18,21 +18,13 @@ month and how quick the months pass in the year and how fast the years
 pass in the lifetime!
 
 > 3ـ ما أسْرَعَ السّاعاتِ فيِ الأيّامِ وأسْرَعَ الأيّامَ فيِ الشُّهُورِ
-<blockquote dir="rtl">
-  <p>
-وأسْرَعَ الشُّهُورَ فِي السَّنَةِ وأسْرَعَ السَّنَةَ فِي العُمْرِ.
-  </p>
-</blockquote>
+> وأسْرَعَ الشُّهُورَ فِي السَّنَةِ وأسْرَعَ السَّنَةَ فِي العُمْرِ.
 
 4. Days are the pages of your lifetime so eternize [or bind] them with
 your best deeds.
 
 > 4ـ اَلأيّامُ صَحائِفُ آجالِكُمْ فَخَلِّدُوها (فَجَلِّدُوها) أحْسَنَ
-<blockquote dir="rtl">
-  <p>
-أعْمالِكُمْ.
-  </p>
-</blockquote>
+> أعْمالِكُمْ.
 
 5. Hours are the lurking place of banes.
 
@@ -59,11 +51,7 @@ every day that passes you by takes a piece of you with it, so reduce
 your desires and be moderate in your earning.
 
 > 10ـ إنَّما أنْتَ عَدَدُ أيّام فَكُلُّ يَوْم يَمْضي عَلَيْكَ يَمْضي
-<blockquote dir="rtl">
-  <p>
-بِبَعْضِكَ، فَخَفِّضْ فيِ الطَّلَبِ، وأجْمِلْ فِي المُكْتَسَبِ.
-  </p>
-</blockquote>
+> بِبَعْضِكَ، فَخَفِّضْ فيِ الطَّلَبِ، وأجْمِلْ فِي المُكْتَسَبِ.
 
 11. Verily the previous generations were only wiped out by the
 alternation of movements and stillness.
@@ -82,11 +70,7 @@ alternation of movements and stillness.
 time except in that which will save you [in the Hereafter].
 
 > 14ـ إنَّ أوْقاتَكَ أجْزاءُ عُمْرِكَ، فَلا تُنفِدْ(فَلا تُنْفِذْ) لَكَ
-<blockquote dir="rtl">
-  <p>
-وَقْتاً إلاّ فيما يُنْجيكَ (في غَيْرِما يُنجيكَ).
-  </p>
-</blockquote>
+> وَقْتاً إلاّ فيما يُنْجيكَ (في غَيْرِما يُنجيكَ).
 
 15. In every instance there is an action [that should be performed].
 
@@ -98,12 +82,8 @@ but its name; on that day their masjids will be marvellously constructed
 buildings, but will be empty of (or desolate with regards to) guidance.
 
 > 16ـ يَأْتي عَلَى النّاسِ زَمانٌ لايَبْقى مِنَ القُرْآنِ إلاّ رَسْمُهُ،
-<blockquote dir="rtl">
-  <p>
-ولامِنَ الإسْلامِ إلاّ اسْمُهُ، مَساجِدُهُمْ يَوْمَئِذ عامِرَةٌ مِنَ
-البُنى (البِناءِ)، خالِيَةٌ (خرّابٌ)عَنِ الهُدى.
-  </p>
-</blockquote>
+> ولامِنَ الإسْلامِ إلاّ اسْمُهُ، مَساجِدُهُمْ يَوْمَئِذ عامِرَةٌ مِنَ
+> البُنى (البِناءِ)، خالِيَةٌ (خرّابٌ)عَنِ الهُدى.
 
 17. A time will come upon the people when none will be given a high
 position except the slanderer, none will be deemed witty except the
@@ -114,24 +94,16 @@ Vain desires will overcome them and guidance will disappear from among
 them.
 
 > 17ـ يَأْتي عَلَى النّاسِ زَمانٌ لايُقَرَّبُ فيهِ إلاّ الماحِلُ،
-<blockquote dir="rtl">
-  <p>
-ولايُسْتَظْرَفُ فيهِ إلاّ الفاجِرُ، ولايُضَعَّفُ فيهِ إلاّ المُنْصِفُ،
-يَعُدُّونَ الصَّدَقَةَ غُرْماً، وصِلَةَ الرَّحِمِ مَنّاً، والعِبادَةَ
-اسْتَطالَةً عَلَى النّاسِ، ويَظْهَرُ عَلَيْهِمُ الهَوى، ويَخْفى
-بَيْنَهُمُ الهُدى.
-  </p>
-</blockquote>
+> ولايُسْتَظْرَفُ فيهِ إلاّ الفاجِرُ، ولايُضَعَّفُ فيهِ إلاّ المُنْصِفُ،
+> يَعُدُّونَ الصَّدَقَةَ غُرْماً، وصِلَةَ الرَّحِمِ مَنّاً، والعِبادَةَ
+> اسْتَطالَةً عَلَى النّاسِ، ويَظْهَرُ عَلَيْهِمُ الهَوى، ويَخْفى
+> بَيْنَهُمُ الهُدى.
 
 18. The camel growls after its silence, and time pounces [attacking]
 like a rapacious beast of prey.
 
 > 18ـ هَدَرَ فَنيقُ الباطِلِ بَعْدَ كَظُوم، وصالَ الدَّهْرُ صِيالَ
-<blockquote dir="rtl">
-  <p>
-السَّبُعِ العَقُورِ.
-  </p>
-</blockquote>
+> السَّبُعِ العَقُورِ.
 
 19. By the One who split the seed and created humankind, there will
 surely come forth amongst you a community that will strike the heads on
@@ -140,47 +112,31 @@ to you] its revelation, this is the decree from the Most Merciful upon
 you in the end of days.
 
 > 19ـ وَالَّذي فَلَقَ الحَبَّةَ، وبَرِيَ النَّسَمَةَ، لَيَظْهَرَنَّ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ قَوْمٌ، يَضْرِبُونَ الْهامَ عَلى تَأوِيلِ القُرْآنِ كَما
-بَدَأَكُمْ مُحَمَّدٌ عَلى تَنْزيلِهِ، ذلِكُمْ حُكْمٌ مِنَ الرَّحْمنِ
-عَلَيْكُمْ في آخِرِ الزَّمانِ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ قَوْمٌ، يَضْرِبُونَ الْهامَ عَلى تَأوِيلِ القُرْآنِ كَما
+> بَدَأَكُمْ مُحَمَّدٌ عَلى تَنْزيلِهِ، ذلِكُمْ حُكْمٌ مِنَ الرَّحْمنِ
+> عَلَيْكُمْ في آخِرِ الزَّمانِ.
 
 20. Do not plunge into the surge (or fire) of sedition that comes your
 way, and move away from its path while opening up the middle of the road
 for it [to pass].
 
 > 20ـ لاتَقْتَحِمُوا مَا اسْتَقْبَلْتُمْ مِنْ فَوْرِ(نارِ) الفِتْنَةِ
-<blockquote dir="rtl">
-  <p>
-وأميطُوا عَنْ سَنَنِها، وَخَلُّوا قَصْدَ السَّبيلِ لَها.
-  </p>
-</blockquote>
+> وأميطُوا عَنْ سَنَنِها، وَخَلُّوا قَصْدَ السَّبيلِ لَها.
 
 21. He will direct desires towards guidance when [people] will have
 turned guidance towards desires, and he will turn his opinion towards
 the Qur’an when they turn the Qur’an towards their opinions.
 
 > 21ـ يَعْطِفُ الهَوى عََلَى الهُدى إذا عَطَفُوا الهُدى عَلَى الهَوى،
-<blockquote dir="rtl">
-  <p>
-ويَعْطِفُ الرَّأْيَ عَلَى القُرْآنِ إذا عَطَفُواالقُرآنَ عَلَى
-الرَّأْيِ.
-  </p>
-</blockquote>
+> ويَعْطِفُ الرَّأْيَ عَلَى القُرْآنِ إذا عَطَفُواالقُرآنَ عَلَى
+> الرَّأْيِ.
 
 22. You have forgotten what you were reminded of and felt safe from that
 which you were warned about, so your opinion has gone astray and your
 affair has dispersed.
 
 > 22ـ نَسِيتُمْ ما ذُكِّرْتُمْ، وأمِنْتُمْ ما حُذِّرْتُمْ فَتاهَ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ رَأْيُكُمْ، وتَشَتَّتَ عَلَيْكُمْ أمْرُكُمْ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ رَأْيُكُمْ، وتَشَتَّتَ عَلَيْكُمْ أمْرُكُمْ.
 
 23. Do you see (or observe) anyone other than a poor man suffering
 poverty, or a rich man who shows ingratitude in return for the blessings
@@ -189,13 +145,9 @@ in order to increase his wealth, or an unruly person who closes his ears
 [as if he is deaf] to all [wise] counsel.
 
 > 23 ـ هَلْ تَنْظُرُ (تُبْصِرُ) إلاّ فَقيراً يُكابِدُ فَقْراً، أوْ
-<blockquote dir="rtl">
-  <p>
-غَنِيّاً بَدَّلَ نِعَمَ اللّهِ كُفْراً، أوْ بَخيلاً اِتَّخَذَ البُخْلَ
-بِحَقِّ اللّهِ وَفْراً أوْ مُتَمَرِّداً، كَأنَّ بِأُذُنَيْهِ عَنْ
-سَماعِ (سَمْعِ المَواعِظِ) الحِكْمَةِ وَقْراً.
-  </p>
-</blockquote>
+> غَنِيّاً بَدَّلَ نِعَمَ اللّهِ كُفْراً، أوْ بَخيلاً اِتَّخَذَ البُخْلَ
+> بِحَقِّ اللّهِ وَفْراً أوْ مُتَمَرِّداً، كَأنَّ بِأُذُنَيْهِ عَنْ
+> سَماعِ (سَمْعِ المَواعِظِ) الحِكْمَةِ وَقْراً.
 
 24. By the One who sent Muhammad (s) with the Truth, you will verily be
 mixed [and shaken] a complete mixing, and sifted a total sieving and
@@ -205,14 +157,10 @@ fallen behind will come forward and those who are in front will fall
 behind.
 
 > 24ـ وَالَّذي بَعَثَ مُحَمَّداً صلَّى اللّه عليه وآله وسلَّم بِالحَقِّ
-<blockquote dir="rtl">
-  <p>
-لَتُـبَلْبَلُنَّ بَلْبَلَةً، ولَتُغَرْبَلُنَّ غَرْبَلَةً،
-وَلَتُساطُنَّ سَوْطَ القِدْرِ، حَتّى يَعْلُوَ أسْفَلُكُمْ أعْلاكُمْ،
-وأعْلاكُمْ أسْفَلَكُمْ، وَلَيَسْبِقُنَّ سابِقُونَ، كانُوا قَصَّرُوا،
-ولَيُقَصِّرَنَّ سابِقُونَ كانُوا سَبَقُوا.
-  </p>
-</blockquote>
+> لَتُـبَلْبَلُنَّ بَلْبَلَةً، ولَتُغَرْبَلُنَّ غَرْبَلَةً،
+> وَلَتُساطُنَّ سَوْطَ القِدْرِ، حَتّى يَعْلُوَ أسْفَلُكُمْ أعْلاكُمْ،
+> وأعْلاكُمْ أسْفَلَكُمْ، وَلَيَسْبِقُنَّ سابِقُونَ، كانُوا قَصَّرُوا،
+> ولَيُقَصِّرَنَّ سابِقُونَ كانُوا سَبَقُوا.
 
 25. The masses are not reformed except by justice.
 
@@ -223,12 +171,8 @@ Kufa except the sword. To this he (‘a) replied: If nothing but my
 destruction reforms them then may Allah not reform them!
 
 > 26ـ قيلَ لَهُ ـ عَلَيْهِ السّلامُ ـ: إنَّ أهْلَ الكُوفَةِ
-<blockquote dir="rtl">
-  <p>
-لايُصْلِحُهُمْ إلاّ السَّيْفُ، فَقالَ ـعَلَيْهِ السّلام ـ: إنْ لَمْ
-يُصْلِحْهُمْ إلاّ إفْسادي فَلا أصْلَحَهُمُ اللّهُ.
-  </p>
-</blockquote>
+> لايُصْلِحُهُمْ إلاّ السَّيْفُ، فَقالَ ـعَلَيْهِ السّلام ـ: إنْ لَمْ
+> يُصْلِحْهُمْ إلاّ إفْسادي فَلا أصْلَحَهُمُ اللّهُ.
 
 27. The bane of the masses is disobedience [to the rightful ruler].
 
@@ -253,11 +197,7 @@ lengthy.
 that time has hidden a bad day for it.
 
 > 31ـ ما قالَ النّاسُ لِشَيْء طُوْبى إلاّ وَقَدْ خَبَأَ لَهُ الدَّهْرُ
-<blockquote dir="rtl">
-  <p>
-يَوْمَ سُوء.
-  </p>
-</blockquote>
+> يَوْمَ سُوء.
 
 32. Verily you are [living] in an age when those who speak about the
 truth are few, and tongues are weary of uttering the truth, and those
@@ -269,47 +209,31 @@ deviants. Their young do not respect the elderly and their rich do not
 support the poor.
 
 > 32ـ إنَّكُمْ في زَمان اَلْقائِلُ فيهِ بِالحَقِّ قَليلٌ، واللِّسانُ
-<blockquote dir="rtl">
-  <p>
-فيهِ عَنِ الصِّدْقِ كَليلٌ، واللاّزِمُ فيهِ لِلْحَقِّ ذَليلٌ، أهْلُهُ
-مُتَعَكِّفُونَ عَلَى العِصْيانِ، مُصْطَلِحُونَ عَلَى الإدْهانِ،
-فَتاهُمْ عارِمٌ، وشَيْخُهُمْ آثِمٌ، وعالِمُهُمْ مُنافِقٌ، وقاريهِمْ
-مُمارِقٌ، لايُعَظِّمُ صَغيرُهُمْ كَبيرَهُمْ، ولايَعُولُ غِنِيُّهُمْ
-فَقيرَهُمْ.
-  </p>
-</blockquote>
+> فيهِ عَنِ الصِّدْقِ كَليلٌ، واللاّزِمُ فيهِ لِلْحَقِّ ذَليلٌ، أهْلُهُ
+> مُتَعَكِّفُونَ عَلَى العِصْيانِ، مُصْطَلِحُونَ عَلَى الإدْهانِ،
+> فَتاهُمْ عارِمٌ، وشَيْخُهُمْ آثِمٌ، وعالِمُهُمْ مُنافِقٌ، وقاريهِمْ
+> مُمارِقٌ، لايُعَظِّمُ صَغيرُهُمْ كَبيرَهُمْ، ولايَعُولُ غِنِيُّهُمْ
+> فَقيرَهُمْ.
 
 33. Verily you will be faced with my vilification and repudiation, so
 revile me [if you must], but beware of repudiating me.
 
 > 33ـ إنَّكُمْ سَتُعْرَضُونَ عَلى سَبِّي والبَرائَةِ مِنّي، فَسُبُّوني،
-<blockquote dir="rtl">
-  <p>
-وإيّاكُمْ والبَرائَةَ مِنّي.
-  </p>
-</blockquote>
+> وإيّاكُمْ والبَرائَةَ مِنّي.
 
 34. We have come upon an age of intransigence and an era of ingratitude.
 In it the good-doer is counted as an evil-doer and the unjust increases
 in his insolence.
 
 > 34ـ قَدْ أصْبَحْنا في زَمان عَنُود، ودَهْر كَنُود، يُعَدُّ فيهِ
-<blockquote dir="rtl">
-  <p>
-المُحْسِنُ مُسيئاً، ويَزْدادُ الظّالِمُ فيهِ عُتُوّاً.
-  </p>
-</blockquote>
+> المُحْسِنُ مُسيئاً، ويَزْدادُ الظّالِمُ فيهِ عُتُوّاً.
 
 35. The people may become brothers in wickedness and desert one another
 in religion, and [they may] love each other over falsehood and hate each
 other over the truth.
 
 > 35ـ قَدْ تَواخَي النّاسُ عَلَى الفُجُورِ، وتَهاجَرُوا عَلَى الدّينِ،
-<blockquote dir="rtl">
-  <p>
-وتَحابَبُوا عَلَى الكِذْبِ، وتَباغَضُوا عَلَى الصِّدْقِ.
-  </p>
-</blockquote>
+> وتَحابَبُوا عَلَى الكِذْبِ، وتَباغَضُوا عَلَى الصِّدْقِ.
 
 36. So fear Allah with the fearing of one whose body has become fatigued
 by fright, and who has been kept awake from his little sleep by his
@@ -317,12 +241,8 @@ night worship, and who has been made thirsty in the heat of his days by
 hope [of attaining nearness to Allah].
 
 > 36 ـ فَاتَّقُوا اللّهَ تَقِيَّةَ مَنْ أنْصَبَ الخَوْفُ بَدَنَهُ،
-<blockquote dir="rtl">
-  <p>
-وأسْهَرَ التَّهَجُّدُ غِرارَ نَوْمِهِ، وأظْمَأَ الرَّجاءُ هَواجِرَ
-يَوْمِهِ.
-  </p>
-</blockquote>
+> وأسْهَرَ التَّهَجُّدُ غِرارَ نَوْمِهِ، وأظْمَأَ الرَّجاءُ هَواجِرَ
+> يَوْمِهِ.
 
 37. How amazing it is; and why would I not be amazed by the mistake of
 this community (or these groups) with their different arguments with
@@ -338,50 +258,34 @@ own leader, even though he has formed his opinion without turning to
 reliable sources and strong proofs.
 
 > 37ـ فَيا عَجَبا ومالِيَ لاأعْجَبُ مِنْ خَطاءِ هذِهِ الأُمَّةِ
-<blockquote dir="rtl">
-  <p>
-(الفِرَقِ) عَلَى اخْتِلافِ حُجَجِها في دِياناتِها (دينِها)،
-لايَقْتَصُّونَ أثَرَ نَبِىّ، ولايَقْتَدُونَ بِعَمِلِ وَصِىّ،
-ولايُؤْمِنُونَ بِغَيْب، ولايَعِفُّونَ عَنْ عَيْب، يَعْمَلُونَ فِي
-الشُّبَهاتِ، وَيَسيرُُونَ فِي الشَّهَواتِ، اَلْمَعْرُوفُ فيهِمْ ما
-عَرَفُوا، والمُنْكَرُ عِنْدَهُمْ ما أنْكَرُوا، مَفْزَعُهُمْ فِي
-المُعْضَلاتِ إلى أنْفُسِهمْ، وتَعْويلُهُمْ فِي المُبْهَماتِ عَلى
-آرائِهِمْ، كَأنَّ كُلاًّ (كُلُّ امْرئ) مِنْهُمْ إمامُ نَفْسِهِ، قَدْ
-أخَذَ فيما يَرى بِغَيْرِ وَثيقات بَيِّنات، وَلا أسْباب مُحْكَمات.
-  </p>
-</blockquote>
+> (الفِرَقِ) عَلَى اخْتِلافِ حُجَجِها في دِياناتِها (دينِها)،
+> لايَقْتَصُّونَ أثَرَ نَبِىّ، ولايَقْتَدُونَ بِعَمِلِ وَصِىّ،
+> ولايُؤْمِنُونَ بِغَيْب، ولايَعِفُّونَ عَنْ عَيْب، يَعْمَلُونَ فِي
+> الشُّبَهاتِ، وَيَسيرُُونَ فِي الشَّهَواتِ، اَلْمَعْرُوفُ فيهِمْ ما
+> عَرَفُوا، والمُنْكَرُ عِنْدَهُمْ ما أنْكَرُوا، مَفْزَعُهُمْ فِي
+> المُعْضَلاتِ إلى أنْفُسِهمْ، وتَعْويلُهُمْ فِي المُبْهَماتِ عَلى
+> آرائِهِمْ، كَأنَّ كُلاًّ (كُلُّ امْرئ) مِنْهُمْ إمامُ نَفْسِهِ، قَدْ
+> أخَذَ فيما يَرى بِغَيْرِ وَثيقات بَيِّنات، وَلا أسْباب مُحْكَمات.
 
 38. Indeed, you have again reverted to the position of the Bedouin Arabs
 after migration [to Islam] and have become [divided into] different
 parties after once being closely united.
 
 > 38ـ قَد ْ صِرْتُمْ بَعْدَ الهِجْرَةِ أعْراباً، وبَعْدَ المُوالاةِ
-<blockquote dir="rtl">
-  <p>
-أحْزاباً.
-  </p>
-</blockquote>
+> أحْزاباً.
 
 39. Indeed those who [would] remember and remind [the people about
 Allah] have left you and only those who forget [Allah and the Day of
 Resurrection] and cause others to forget have remained behind.
 
 > 39ـ قَدْ ذَهَبَ مِنْكُمْ الذّاكِرُونَ، والمُتَذَكِّرُونَ، وَبَقيَ
-<blockquote dir="rtl">
-  <p>
-النّاسُونَ وَالمُتَناسُونَ.
-  </p>
-</blockquote>
+> النّاسُونَ وَالمُتَناسُونَ.
 
 40. Indeed the reins of destruction are dragging you and locks of
 darkness [and malice] lay fixed on your hearts.
 
 > 40ـ قَدْ قادَتْكُمْ أزِمَّةُ الحَيْنِ، واسْتَغْلَقَتْ عَلى قُلُوبِكُمْ
-<blockquote dir="rtl">
-  <p>
-أقْفالُ الرَّيْنِ.
-  </p>
-</blockquote>
+> أقْفالُ الرَّيْنِ.
 
 41. Indeed you have become devoted to one another in the love of this
 transient world and the rejection of the Hereafter.
@@ -393,32 +297,20 @@ his tongue, [or like] the hobby that is pursued by one who is free from
 his work and has gained the approval of his master.
 
 > 42ـ قَدْ صارَ دينُ أحَدِكُمْ لُعْقَةً عَلى لِسانِهِ، صَنيعَ مَنْ
-<blockquote dir="rtl">
-  <p>
-فَرَغَ مِنْ عَمَلِهِ، وَأحْرَزَ رِضى سَيِّدِهِ.
-  </p>
-</blockquote>
+> فَرَغَ مِنْ عَمَلِهِ، وَأحْرَزَ رِضى سَيِّدِهِ.
 
 43. They have plunged into the seas of temptations and have taken to
 innovation rather than following the practices of the Prophet, and they
 have gone deep into ignorance while abandoning knowledge.
 
 > 43ـ قَدْ خاضُوا بِحارَ الفِتَنِ، وأخَذُوا بِالبِدَعِ دُونَ السُّنَنِ،
-<blockquote dir="rtl">
-  <p>
-وتَوَغَّلُوا الجَهْلَ، واطَّرَحُوا العِلْمَ.
-  </p>
-</blockquote>
+> وتَوَغَّلُوا الجَهْلَ، واطَّرَحُوا العِلْمَ.
 
 44. Do not lose hope in time when it withholds, and do not rely upon it
 when it gives, and always be extremely cautious of it.
 
 > 44ـ لاتَيْأَسْ مِنَ الزَّمانِ إذا مَنَعَ، ولاتَثِقْ بِهِ إذا أعْطى،
-<blockquote dir="rtl">
-  <p>
-وكُنْ مِنْهُ عَلى أعْظَمِ الحَذَرِ.
-  </p>
-</blockquote>
+> وكُنْ مِنْهُ عَلى أعْظَمِ الحَذَرِ.
 
 45. Verily time will pass for those who remain [in this world] just as
 it passed for those gone by. That which has gone shall not return and
@@ -428,24 +320,16 @@ banners follow each other. Its companion is never separated from
 hardship, annihilation, pillage and war.
 
 > 45ـ إنَّ الدَّهْرَ يَجْري بِالباقينَ، كَجَرْيِهِ بِالماضينَ، ما يعُودُ
-<blockquote dir="rtl">
-  <p>
-ما قَدْ وَلّى، وَلايَبْقى سَرْمَداً ما فيهِ، آخِرُ فِعالِهِ
-كَأوَّلِهِ، مُتَسابِقَةٌ أُمُورُهُ مُتَظاهِرَةٌ أعْلامُهُ، لايَنْفَكُّ
-مُصاحِبُهُ مِنْ عَناء وفَناء وسَلَب وحَرَب.
-  </p>
-</blockquote>
+> ما قَدْ وَلّى، وَلايَبْقى سَرْمَداً ما فيهِ، آخِرُ فِعالِهِ
+> كَأوَّلِهِ، مُتَسابِقَةٌ أُمُورُهُ مُتَظاهِرَةٌ أعْلامُهُ، لايَنْفَكُّ
+> مُصاحِبُهُ مِنْ عَناء وفَناء وسَلَب وحَرَب.
 
 46. Verily time has its bow stretched [and ready], and its arrow does
 not miss, and its wound does not heal. It afflicts the healthy with
 sickness and the [one who is] safe with destruction.
 
 > 46ـ إنَّ الدَّهْرَ مُوتِرٌ قَوْسَهُ، لاتَخْطي سِهامُهُ ولاتُؤْسى
-<blockquote dir="rtl">
-  <p>
-جِراحُهُ، يَرْمِي الصَّحيحَ بِالسَّقَمِ، والنّاجِيَ بِالعَطَبِ.
-  </p>
-</blockquote>
+> جِراحُهُ، يَرْمِي الصَّحيحَ بِالسَّقَمِ، والنّاجِيَ بِالعَطَبِ.
 
 47. Time is responsible for the separation of loved ones.
 
@@ -460,11 +344,7 @@ honour.
 anything in danger out of hope for gaining more [than it].
 
 > 49ـ ساهِلِ الدَّهْرِ ما ذَلَّ لَكَ قُعُودُهُ ولاتُخاطِرْ بِشَيْء
-<blockquote dir="rtl">
-  <p>
-رَجاءَ أكْثَرَ مِنْهُ.
-  </p>
-</blockquote>
+> رَجاءَ أكْثَرَ مِنْهُ.
 
 50. Time has indeed made its gratitude incumbent on the one who attains
 what he seeks.
@@ -475,52 +355,32 @@ what he seeks.
 takes aspirations further away.
 
 > 51ـ اَلدَّهْرُ يُخْلِقُ الأبْدانَ، ويُجَدِّدُ الآمالَ، ويُدْنِى
-<blockquote dir="rtl">
-  <p>
-المَنِيَّةَ، ويُباعِدُ الأُمْنِيَّةَ.
-  </p>
-</blockquote>
+> المَنِيَّةَ، ويُباعِدُ الأُمْنِيَّةَ.
 
 52. Time consists of two days: a day for you and a day against you, so
 when it is for you then do not become vain and ungrateful, and when it
 is against you then have patience.
 
 > 52ـ اَلدَّهْرُ يَوْمانِ: يَوْمٌ لَكَ، ويَومٌ عَلَيْكَ، فَإذاكانَ لَكَ
-<blockquote dir="rtl">
-  <p>
-فَلا تَبْطَرْ، وإذا كانَ عَلَيْكَ فَاصْطَبِرْ.
-  </p>
-</blockquote>
+> فَلا تَبْطَرْ، وإذا كانَ عَلَيْكَ فَاصْطَبِرْ.
 
 53. Time has two states: destruction and bestowal; that which it
 destroys does not return and that which it bestows does not last.
 
 > 53ـ اَلدَّهْرُ ذُو حالَتَيْنِ: إبادَة وإفادَة، فَما أبادَهُ فَلا
-<blockquote dir="rtl">
-  <p>
-رَجْعَةَ لَهُ، وما أفادَهُ فَلا بَقاءَ لَهُ.
-  </p>
-</blockquote>
+> رَجْعَةَ لَهُ، وما أفادَهُ فَلا بَقاءَ لَهُ.
 
 54. Verily time is an enemy who is not shown enmity, a [chosen] judge
 who is not unjust and a fighter who has not [and cannot be] fought.
 
 > 54ـ إنَّ الدَّهْرَ لَخَصْمٌ غَيْرُ مَخْصُوم، ومُحْتَكِمٌ غَيْرُ
-<blockquote dir="rtl">
-  <p>
-ظَلُوم، ومُحارِبٌ غَيْرُ مَحْرُوب.
-  </p>
-</blockquote>
+> ظَلُوم، ومُحارِبٌ غَيْرُ مَحْرُوب.
 
 55. One who resists time is compelled by it and one who submits to it is
 not safe [from it].
 
 > 55ـ مَنْ عانَدَ الزَّمانَ أرْغَمَهُ،وَ مَنِ اسْتَسْلَمَ إلَيْهِ لَمْ
-<blockquote dir="rtl">
-  <p>
-يَسْلَمْ.
-  </p>
-</blockquote>
+> يَسْلَمْ.
 
 56. The age of the tyrant [ruler] is the worst of ages.
 
@@ -542,21 +402,13 @@ not safe [from it].
 calamities of the days.
 
 > 60 ـ لايَأمَنُ أحَدٌ صُرُوفَ الزَّمانِ، ولايَسْلَمُ مِنْ نَوائِبِ
-<blockquote dir="rtl">
-  <p>
-الأيّامِ.
-  </p>
-</blockquote>
+> الأيّامِ.
 
 61. It behoves the one who knows about time not to feel secure from its
 adversities and vicissitudes.
 
 > 61ـ يَنْبَغي لِمَنْ عَرَفَ الزَّمانَ أنْ لايَأمَنَ الصُّرُوفَ
-<blockquote dir="rtl">
-  <p>
-والغِيَرَ.
-  </p>
-</blockquote>
+> والغِيَرَ.
 
 62. Obedience is the shield of the masses and justice is the shield of
 the [rulers of] nations.
@@ -569,22 +421,14 @@ being addressed is someone else, and as though the fortune lies in
 amassing worldly gains.
 
 > 63ـ فَالقُلُوبُ لاهِيَةٌ مِنْ رُشْدِها، قاسِيَةٌ عَنْ حَظِّها،
-<blockquote dir="rtl">
-  <p>
-سالِكَةٌ في غَيْرِ مِضْمارِها، كَأنَّ المَعْنِيَّ سِواها،وَكَأنَّ
-الحَظَّ في إحْرازِ دُنْياها.
-  </p>
-</blockquote>
+> سالِكَةٌ في غَيْرِ مِضْمارِها، كَأنَّ المَعْنِيَّ سِواها،وَكَأنَّ
+> الحَظَّ في إحْرازِ دُنْياها.
 
 64. How effective these admonitions [would be] if only they were
 received by pure hearts, attentive ears and unwavering minds.
 
 > 64ـ فَيا لَها مَواعِظَ شافِيَةً لَوْ صادَفَتْ قُلُوباً زاكِيَةً
-<blockquote dir="rtl">
-  <p>
-وأسْماعاً واعِيَةً، وَآراءً عازِمَةً.
-  </p>
-</blockquote>
+> وأسْماعاً واعِيَةً، وَآراءً عازِمَةً.
 
 65. From them mischief will spring up and all wrong will turn towards
 them. They will fling anyone who isolates himself from it (i.e. the
@@ -592,43 +436,27 @@ mischief) back into it and they will drive anyone who stays back from it
 towards it.
 
 > 65ـ مِنْهُمْ تَخْرُجُ الفِتْنَةُ، وإلَيْهِمْ تَأْوِى الخَطيئَةُ،
-<blockquote dir="rtl">
-  <p>
-يَرُدُّونَ مَنْ شَذَّ عَنْها فيها، ويَسُوقُونَ مَنْ تَأَخَّرعَنْها
-إلَيْها.
-  </p>
-</blockquote>
+> يَرُدُّونَ مَنْ شَذَّ عَنْها فيها، ويَسُوقُونَ مَنْ تَأَخَّرعَنْها
+> إلَيْها.
 
 66. If falsehood dominates, it has [always] been so in the past, and if
 truth diminishes, that too has often occurred and may [again] happen. It
 is seldom that a thing lags behind and remains behind.
 
 > 66ـ فَلَئِنْ أمَرَ الباطِلُ لَقَديماً فَعَلَ، وَلَئِنْ قَلَّ الحَقُّ
-<blockquote dir="rtl">
-  <p>
-لَرُبَّما ولَعَلَّ، لَقَلَّما أدْبَرَ شَيْءٌ فَأدْبَرَ.
-  </p>
-</blockquote>
+> لَرُبَّما ولَعَلَّ، لَقَلَّما أدْبَرَ شَيْءٌ فَأدْبَرَ.
 
 67. Indeed the evil people have emerged and the righteous people have
 hidden; and falsehood has become abundant while truth has diminished.
 
 > 67ـ قَدْ ظَهَرَ أهْلُ الشَّرِّ، وبَطَنَ أهْلُ الخَيْرِ، وَفاضَ
-<blockquote dir="rtl">
-  <p>
-الكِذْبُ، وغاضَ الصِّدْقُ.
-  </p>
-</blockquote>
+> الكِذْبُ، وغاضَ الصِّدْقُ.
 
 68. Time has indeed come full circle to its [initial] state, as it was
 when the heavens and earth were first created.
 
 > 68ـ قَدِ اِسْتَدارَ الزَّمانُ كَهَيْئَتِه يَوْمَ خَلَقَ السَّمواتِ
-<blockquote dir="rtl">
-  <p>
-وَالأرْضَ.
-  </p>
-</blockquote>
+> وَالأرْضَ.
 
 69. The abominable has become so rampant that the shame one feels from
 it has reduced.
@@ -645,11 +473,7 @@ prosperity, and devotees without righteousness, and traders without
 profits?!
 
 > 71ـ مالي أراكُمْ أشْباحاً بِلا أرْواح، وأرْواحاً بِلا فَلاح، ونُسّاكاً
-<blockquote dir="rtl">
-  <p>
-بِلا صَلاح، وَتُجّاراً بِلا أرْباح.
-  </p>
-</blockquote>
+> بِلا صَلاح، وَتُجّاراً بِلا أرْباح.
 
 72. Time betrays its companion and does not please the one who blames
 it.
@@ -674,5 +498,4 @@ becomes occupied by it [and pays no heed to the Hereafter].
 it as great is humiliated by it.
 
 > 76ـ مَنْ أمِنَ الزَّمانَ خانَهُ، ومَنْ أعْظَمَهُ أهانَهُ.
-
 

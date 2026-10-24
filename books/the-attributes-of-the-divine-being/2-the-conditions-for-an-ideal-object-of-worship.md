@@ -192,4 +192,3 @@ influence of a completely alien magnetic field. The result will be total
 loss of direction; eternal misery will become man's inevitable
 destiny.
 
-

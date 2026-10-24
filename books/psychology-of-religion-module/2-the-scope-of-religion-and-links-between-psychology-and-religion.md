@@ -133,4 +133,3 @@ all areas of psychology, the psychology of religion contains many viable
 approaches that can be used in combination to better understand the
 nature of religious life.
 
-

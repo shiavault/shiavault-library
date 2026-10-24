@@ -251,4 +251,3 @@ when I will fulfill an eternal justice and truth. I will then destroy
 the wicked wrongdoers and all things vain and futile and make my last
 religion eternal and everlasting through his hands.”
 
-

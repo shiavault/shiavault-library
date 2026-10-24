@@ -171,4 +171,3 @@ Then his concerns extend to include the circle of neighbor hood, then
 the inhabitants of his country, and then the circle of his nation, then
 it finally extends to include the whole humanity.
 
-

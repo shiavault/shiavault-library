@@ -1,16 +1,12 @@
 Twelfth Hadith: Contemplation (Tafakkur)
 ========================================
 
-<blockquote dir="rtl">
-  <p>
-بِسَنَدي المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ
-عَلَيْهِ، عَنْ عَلِيٍّ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ
-النَّوْفَلِيِّ، عَنِ السُّكُونِيِّ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
-السَّلامُ قَالَ: كَانَ أَمِيرُ المُؤْمِِنِينَ عَلَيْهِ السَّلامُ
-يَقُولُ: نَبِّهْ بِالتَّفَكُّرِ قَلْبَكَ وَجَافِ عَنِ اللَّيْلِ
-جَنْبَكَ وَاتَّقِ اللهَ رَبَّكَ.
-  </p>
-</blockquote>
+> بِسَنَدي المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ رِضْوَانُ اللهِ
+> عَلَيْهِ، عَنْ عَلِيٍّ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ
+> النَّوْفَلِيِّ، عَنِ السُّكُونِيِّ، عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ قَالَ: كَانَ أَمِيرُ المُؤْمِِنِينَ عَلَيْهِ السَّلامُ
+> يَقُولُ: نَبِّهْ بِالتَّفَكُّرِ قَلْبَكَ وَجَافِ عَنِ اللَّيْلِ
+> جَنْبَكَ وَاتَّقِ اللهَ رَبَّكَ.
 
 Muhammad ibn Ya’qub (al-Kulayni), from ‘Ali ibn Ibrahim, from his
 father, from al-Nawfali, from al-Sakuni, from Abu ‘Abd Allah (Imam al
@@ -41,12 +37,8 @@ contemplation which is one of the characteristics of mystics and
 wayfarers of the Path. Khwajah ‘Abd Allah al-’Ansari has described it in
 these words:
 
-<blockquote dir="rtl">
-  <p>
-إعْلَمْ أَنَّ التَّفَكُّرَ تَلَمُّسُ البَصِيرَةِ لإسْتِدْرَاكِ
-البُغْيَةِ.
-  </p>
-</blockquote>
+> إعْلَمْ أَنَّ التَّفَكُّرَ تَلَمُّسُ البَصِيرَةِ لإسْتِدْرَاكِ
+> البُغْيَةِ.
 
 Know that contemplation is the inquisitive groping of the inner vision
 for attaining the coveted end.[^2]
@@ -70,34 +62,22 @@ different places.
 
 In the verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَبَلَغَتْ الْقُلُوبُ الْحَنَاجِرَ.﴾
-  </p>
-</blockquote>
+> ﴿ وَبَلَغَتْ الْقُلُوبُ الْحَنَاجِرَ.﴾
 
 ***The hearts reached to the throats.*** (***33:10***)
 
 ‘Heart’ is used in the same sense as used by physicians. And in:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَهُمْ قُلُوبٌ لَا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَا
-يُبْصِرُونَ بِهَا.﴾
-  </p>
-</blockquote>
+> ﴿لَهُمْ قُلُوبٌ لَا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَا
+> يُبْصِرُونَ بِهَا.﴾
 
 ***They have hearts wherewith they understand not, and they have eyes
 wherewith they see not.*** (***7:179***)
 
 It is used in the sense used by the philosophers. And in:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ فِي ذَلِكَ لَذِكْرَى لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى
-السَّمْعَ وَهُوَ شَهِيدٌ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ فِي ذَلِكَ لَذِكْرَى لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى
+> السَّمْعَ وَهُوَ شَهِيدٌ.﴾
 
 ***Therein verily is a reminder for him who hath a heart, or giveth ear
 with full intelligence.*** (***50:37***)
@@ -130,12 +110,8 @@ who abandons it has been censured and denounced.
 
 In *al-Kafi it* is reported from Imam al-Sadiq (A) that:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ العِبَادَةِ إِدْمَانُ التَّفَكُّرِ فِي اللهِ وَفِي
-قُدْرَتِهِ.
-  </p>
-</blockquote>
+> أَفْضَلُ العِبَادَةِ إِدْمَانُ التَّفَكُّرِ فِي اللهِ وَفِي
+> قُدْرَتِهِ.
 
 The best form of worship is to contemplate about God and His Power.[^3]
 
@@ -262,11 +238,7 @@ of discord and disharmony in the community of Muslims. When asked about
 the reason for all this *takfir* (calling someone *kafir*) and *tafsiq*,
 (calling someone *fasiq* ), he immediately clings to the tradition:
 
-<blockquote dir="rtl">
-  <p>
-لا تَتَفَكَّرُوا فِي ذَاتِ اللهِ.
-  </p>
-</blockquote>
+> لا تَتَفَكَّرُوا فِي ذَاتِ اللهِ.
 
 Do not contemplate upon the Essence (of God).
 
@@ -285,13 +257,9 @@ exposition of the *hadith* - our original goal -it is essential for
 eliminating doubts and refuting misconceptions. The following tradition
 is mentioned in *al-Kafi:*
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي بَصِيرٍ قَالَ: قَالَ أَبُو جَعْفَرٍ عَلَيْهِ السَّلامِ:
-تَكَلَّمُوا فِي خَلْقِ اللهِ وَلا تَتَكَلَّمُوا فِي اللهِ، فَإنَّ
-الكَلامَ فِي اللهِ لا يَزْدَادُ صَاحِبُهُ إلا تَحَيُّراً.
-  </p>
-</blockquote>
+> عَنْ أَبِي بَصِيرٍ قَالَ: قَالَ أَبُو جَعْفَرٍ عَلَيْهِ السَّلامِ:
+> تَكَلَّمُوا فِي خَلْقِ اللهِ وَلا تَتَكَلَّمُوا فِي اللهِ، فَإنَّ
+> الكَلامَ فِي اللهِ لا يَزْدَادُ صَاحِبُهُ إلا تَحَيُّراً.
 
 Abu Basir reports Abu Ja’far (A) as having said: Speak (takallamu) about
 the creation of God, and do not speak about God (fi Allah), for
@@ -309,12 +277,8 @@ confusion. The late muhaddith al-Majlisi (R) has allowed both of these
 possibilities without elaborating them, but he gives more weight to the
 first one. Another tradition of *al-Kafi* states:
 
-<blockquote dir="rtl">
-  <p>
-وَفِي رِوَايَةٍ أُخْرَى عَنْ حَرِيزٍ: تَكَلَّمُوا فِي كُلِّ شَيْءٍ
-وَلا تَتَكَلَّمُوا فِي ذَاتِ اللهِ.
-  </p>
-</blockquote>
+> وَفِي رِوَايَةٍ أُخْرَى عَنْ حَرِيزٍ: تَكَلَّمُوا فِي كُلِّ شَيْءٍ
+> وَلا تَتَكَلَّمُوا فِي ذَاتِ اللهِ.
 
 From Hariz, from Abu ‘Abd Allah (A) that he said, “Discuss everything,
 but do not discuss the Essence of the Almighty.”[^9]
@@ -323,13 +287,9 @@ There are other traditions which are identical or close in import to
 this *riwayah,* and to cite them all is not essential. Another tradition
 of *al-Kafi* states:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: إيَّاكُمْ وَالتَّفَكُّرَ
-فِي اللهِ وَلَكِنْ إذَا أَرَدْتُمْ أَنْ تَنْظُرُوا إلَى عَظَمَتِهِ
-فَانْظُرُوا إلَى عَظِيمِ خَلْقِهِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ: إيَّاكُمْ وَالتَّفَكُّرَ
+> فِي اللهِ وَلَكِنْ إذَا أَرَدْتُمْ أَنْ تَنْظُرُوا إلَى عَظَمَتِهِ
+> فَانْظُرُوا إلَى عَظِيمِ خَلْقِهِ.
 
 Abu Ja’far (A) said, “Beware of tafakkur in God. But if you wish to view
 His grandeur, observe the great of His creations.”[^10]
@@ -345,12 +305,8 @@ This and other such traditions which appear to forbid discourse and
 contemplation on God by themselves support our claim, which is expressly
 confirmed by the following tradition of *al-Kafi* on contemplation:
 
-<blockquote dir="rtl">
-  <p>
-أَفْضَلُ العِبَادَةِ إِدْمَانُ التَّفَكُّرِ فِي اللهِ وَفِي
-قُدْرَتِهِ.
-  </p>
-</blockquote>
+> أَفْضَلُ العِبَادَةِ إِدْمَانُ التَّفَكُّرِ فِي اللهِ وَفِي
+> قُدْرَتِهِ.
 
 The best form of worship is to contemplate about God and His Power.[^11]
 
@@ -359,16 +315,12 @@ contemplating His Power, His Names and Attributes is not only not
 prohibited, but is the most superior kind of worship. Another tradition
 of *al-Kafi* states:
 
-<blockquote dir="rtl">
-  <p>
-سُئِلَ عَلِيُّ بْنُ الحُسَيْنِ عَلَيْهِ السَّلامُ عَنِ التَّوْحِيدِ
-فَقَالَ: إنَّ اللهَ عَزَّ وَجَلَّ عَلِمَ أَنَّهُ يَكُونُ فِي آخِرِ
-الزَّمَانِ أَقْوَامٌ مُتَعَمِّقُونُ، فَأَنْزَلَ اللهُ تَعَالَى: ﴿قُلْ
-هُوَ اللهُ أَحَدٌ.﴾ وَالآيَاتِ مِنْ سُورَةِ الحَدِيدِ إلَى قَوْلِهِ:
-﴿وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ.﴾ فَمَنْ رَامَ وَرَاءَ ذَلِكَ
-فَقَدْ هَلَكَ.
-  </p>
-</blockquote>
+> سُئِلَ عَلِيُّ بْنُ الحُسَيْنِ عَلَيْهِ السَّلامُ عَنِ التَّوْحِيدِ
+> فَقَالَ: إنَّ اللهَ عَزَّ وَجَلَّ عَلِمَ أَنَّهُ يَكُونُ فِي آخِرِ
+> الزَّمَانِ أَقْوَامٌ مُتَعَمِّقُونُ، فَأَنْزَلَ اللهُ تَعَالَى: ﴿قُلْ
+> هُوَ اللهُ أَحَدٌ.﴾ وَالآيَاتِ مِنْ سُورَةِ الحَدِيدِ إلَى قَوْلِهِ:
+> ﴿وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ.﴾ فَمَنْ رَامَ وَرَاءَ ذَلِكَ
+> فَقَدْ هَلَكَ.
 
 ‘Ali (A) ibn al-Husayn (A) was questioned about tawhid; he answered
 “Verily, God Almighty knew that during the Last Age there would be a
@@ -384,23 +336,15 @@ that contemplating on God Almighty is prohibited? What ‘*arif* and
 *Hakim* has brought anything that goes beyond the commencing verses of
 the *Surat al-Hadid?* The ultimate of their achievement is that:
 
-<blockquote dir="rtl">
-  <p>
-﴿سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 *All that is in the heavens and the earth glorifieth Allah.*
 
 Is there any better way of describing God Almighty and the aspects of
 His Sacred Essence than the verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ
-شَيْءٍ عَلِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ
+> شَيْءٍ عَلِيمٌ.﴾
 
 ***He is the First and the Last, and the Outward and the Inward, and He
 is the Knower of all things.*** (***57:3***)
@@ -423,11 +367,7 @@ the Essence is forbidden on a certain level, which is to probe into the
 inmost mysteries (*kunh*) of the Essence and Its Quality
 (*kayfiyyah*)*,* as stated in this tradition of *al-Kafi:*
 
-<blockquote dir="rtl">
-  <p>
-مَنْ نَظَرَ فِي اللهِ كَيْفَ هُوَ هَلَكَ.
-  </p>
-</blockquote>
+> مَنْ نَظَرَ فِي اللهِ كَيْفَ هُوَ هَلَكَ.
 
 Whosoever contemplates in God to see how He is, perishes.[^14]
 
@@ -446,11 +386,7 @@ during recent times on tongues, with the hope that it will make some
 effect on some hearts, and if one person were to accept this it would be
 sufficient for me. And praise is God’s and to Him do we complain.
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمْدُ للهَ وَإلَيْهِ المُشْتَكَى.
-  </p>
-</blockquote>
+> وَالحَمْدُ للهَ وَإلَيْهِ المُشْتَكَى.
 
 Contemplation On Creation
 -------------------------
@@ -558,11 +494,7 @@ believe that an Omniscient, Omnipotent and All-Wise Being, who does not
 resemble any other being in anything, has created all these creatures
 with their firm orderliness and subtlety?
 
-<blockquote dir="rtl">
-  <p>
-﴿أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***Can there be any doubt concerning God, the Creator of the heavens and
 the earth?*** (***14:10***)
@@ -589,11 +521,7 @@ complex system of his body and soul alone to have come into existence by
 itself? Is he still to be reckoned among men of reason? What fool is
 more stupid than such a man?
 
-<blockquote dir="rtl">
-  <p>
-﴿قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ!﴾
-  </p>
-</blockquote>
+> ﴿قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ!﴾
 
 ***Perish man! What has made him an unbeliever?*** (***80:17***)
 
@@ -772,11 +700,7 @@ human need - from righteous qualities and spiritual learning to
 individual and social responsibilities. And this is the meaning of the
 following sacred tradition:
 
-<blockquote dir="rtl">
-  <p>
-الإسْلامُ يَعْلُو وَلا يُعْلَى عَلَيْهِ.
-  </p>
-</blockquote>
+> الإسْلامُ يَعْلُو وَلا يُعْلَى عَلَيْهِ.
 
 Islam surpasses (every creed) and is not surpassed (by anything).
 
@@ -816,11 +740,7 @@ Virtues Of The Midnight Prayer
 
 Now remains the exposition of these two phrases of the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-جَافِ عَنِ اللَّيْلِ جَنْبَكَ وَاتَّقِ اللهَ رَبَّكَ.
-  </p>
-</blockquote>
+> جَافِ عَنِ اللَّيْلِ جَنْبَكَ وَاتَّقِ اللهَ رَبَّكَ.
 
 Keep your side clear off the night; and be heedful towards your
 Lord.[^15]
@@ -845,17 +765,13 @@ countless of similar traditions in the books of supplications and
 prayers, but we shall quote only a few in the following, as a token of
 *barakah* and blessing:
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الكَافِي بِإسْنَادِهِ عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ قَالَ:
-سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: كَانَ فِي
-وَصِيَّةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لِعَلِيٍّ عَلَيْهِ
-السَّلامُ أَنْ قَالَ: يَا عَلِيُّ، أُوصِيكَ فِي نَفْسِكَ بِخِصَالٍ
-فَاحْفَظْهَا. ثُمَّ قَالَ: اللَّهُمَّ أَعِنْهُ. إلَى أَنْ قَالَ:
-وَعَلَيْكَ بِصَلاةِ اللَّيْلِ وَعَلَيْكَ بِصَلاةِ اللَّيْلِ وَعَلَيْكَ
-بِصَلاةِ اللَّيْلِ.
-  </p>
-</blockquote>
+> عَنِ الكَافِي بِإسْنَادِهِ عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ قَالَ:
+> سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: كَانَ فِي
+> وَصِيَّةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لِعَلِيٍّ عَلَيْهِ
+> السَّلامُ أَنْ قَالَ: يَا عَلِيُّ، أُوصِيكَ فِي نَفْسِكَ بِخِصَالٍ
+> فَاحْفَظْهَا. ثُمَّ قَالَ: اللَّهُمَّ أَعِنْهُ. إلَى أَنْ قَالَ:
+> وَعَلَيْكَ بِصَلاةِ اللَّيْلِ وَعَلَيْكَ بِصَلاةِ اللَّيْلِ وَعَلَيْكَ
+> بِصَلاةِ اللَّيْلِ.
 
 It is reported in al-Kafi from Mu’awiyah ibn ‘Amman who said that he
 heard Imam al-Sadiq (A) say: “In the wasiyyah addressed to ‘Ali (A) by
@@ -866,16 +782,12 @@ prayer. Observe the midnight prayer. Observe the midnight prayer.”[^16]
 
 Its great significance may be understood from the entire tradition:
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ الخِصَالِ بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
-السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-وَسَلَّمَ لِجِبْرَئِيلَ: عِظْنِي. فَقَالَ: يَا مُحَمَّدُ، عِشْ مَا
-شِئْتَ فَإنَّكَ مَيِّتٌ، وَأَحْبِبْ مَا شِئْتَ فَإنَّكَ مُفَارِقُهُ،
-وَاعْمَلْ مَا شِئْتَ فَإنَّكَ مُلاقِيهِ. شَرَفُ المُؤْمِنِ صَلاتُهُ
-بِاللَّيْلِ، وَعِزُّهُ كَفُّهُ عَنْ أَعْرَاضِ النَّاسِ.
-  </p>
-</blockquote>
+> وَعَنِ الخِصَالِ بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> وَسَلَّمَ لِجِبْرَئِيلَ: عِظْنِي. فَقَالَ: يَا مُحَمَّدُ، عِشْ مَا
+> شِئْتَ فَإنَّكَ مَيِّتٌ، وَأَحْبِبْ مَا شِئْتَ فَإنَّكَ مُفَارِقُهُ،
+> وَاعْمَلْ مَا شِئْتَ فَإنَّكَ مُلاقِيهِ. شَرَفُ المُؤْمِنِ صَلاتُهُ
+> بِاللَّيْلِ، وَعِزُّهُ كَفُّهُ عَنْ أَعْرَاضِ النَّاسِ.
 
 In al-Khisal, Abu ‘Abd Allah (A) is reported to have said, “The Prophet
 (S) asked Jibra’il to exhort him about something. Jibra’il said, “O
@@ -890,20 +802,16 @@ especially recommending it to the Messenger of God (S); for had Jibra’il
 (A) deemed anything else as more important, he would have mentioned it
 while giving advice.
 
-<blockquote dir="rtl">
-  <p>
-وَفِي المَجَالِسِ؛ بِإسْنَادِهِ عَنِ ابْنِ عَبَّاسٍ، قَالَ: قَالَ
-رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي حَدِيثٍ: فَمَنْ رُزِقَ
-صَلاةَ اللَّيْلِ مِنْ عَبْدٍ أَوْ أَمَةٍ؛ قَامَ للهِ عَزَّ وَجَلَّ
-مُخْلِصاً، فَتَوَضَّأَ وُضُوءاً سَابِغاً وَصَلَّى للهِ عَزَّ وَجَلَّ
-بِنِيَّةٍ صَادِقَةٍ وَقَلْبٍ سَلِيمٍ وَبَدَنٍ خَاشِعٍ وَعَيْنٍ
-دَامِعَةٍ، جَعَلَ اللهُ تَبَارَكَ وَتَعَالَى خَلْفَهُ تِسْعَةَ صُفُوفٍ
-مِنَ المَلائِكَةِ، فِي كُلِّ صَفٍّ مَا لا يُحْصِي عَدَدَهُمْ إلا اللهُ
-تَبَارَكَ وَتَعَالَى، أَحَدُ طَرْفَيْ كُلِّ صَفٍّ بِالمَشْرِقِ
-وَالآخَرُ بِالمَغْرِبِ. فَإذَا فَرَغَ كَتَبَ لَهُ بِعَدَدِهِمْ
-دَرَجَاتٍ.
-  </p>
-</blockquote>
+> وَفِي المَجَالِسِ؛ بِإسْنَادِهِ عَنِ ابْنِ عَبَّاسٍ، قَالَ: قَالَ
+> رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي حَدِيثٍ: فَمَنْ رُزِقَ
+> صَلاةَ اللَّيْلِ مِنْ عَبْدٍ أَوْ أَمَةٍ؛ قَامَ للهِ عَزَّ وَجَلَّ
+> مُخْلِصاً، فَتَوَضَّأَ وُضُوءاً سَابِغاً وَصَلَّى للهِ عَزَّ وَجَلَّ
+> بِنِيَّةٍ صَادِقَةٍ وَقَلْبٍ سَلِيمٍ وَبَدَنٍ خَاشِعٍ وَعَيْنٍ
+> دَامِعَةٍ، جَعَلَ اللهُ تَبَارَكَ وَتَعَالَى خَلْفَهُ تِسْعَةَ صُفُوفٍ
+> مِنَ المَلائِكَةِ، فِي كُلِّ صَفٍّ مَا لا يُحْصِي عَدَدَهُمْ إلا اللهُ
+> تَبَارَكَ وَتَعَالَى، أَحَدُ طَرْفَيْ كُلِّ صَفٍّ بِالمَشْرِقِ
+> وَالآخَرُ بِالمَغْرِبِ. فَإذَا فَرَغَ كَتَبَ لَهُ بِعَدَدِهِمْ
+> دَرَجَاتٍ.
 
 It is reported in al-Majalis on the authority of Ibn ‘Abbas that the
 Prophet (S) sad in a hadith: “When God Almighty appoints the night vigil
@@ -916,14 +824,10 @@ number on each side of each row, which extends from the east to the
 west. When he concludes the prayer, God Almighty writes grades for him
 equal to their number.”[^18]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ العِلَلِ (عِلَلِ الشَّرَائِعِ)، بِإسْنَادِهِ عَنْ أَنَسٍ،
-قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُولُ:
-الرَّكْعَتَانِ فِي جَوْفِ اللَّيْلِ أَحَبُّ إلَيَّ مِنَ الدُّنْيَا
-وَمَا فِيهَا.
-  </p>
-</blockquote>
+> وَعَنِ العِلَلِ (عِلَلِ الشَّرَائِعِ)، بِإسْنَادِهِ عَنْ أَنَسٍ،
+> قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُولُ:
+> الرَّكْعَتَانِ فِي جَوْفِ اللَّيْلِ أَحَبُّ إلَيَّ مِنَ الدُّنْيَا
+> وَمَا فِيهَا.
 
 In ‘Ilal al-shara’i, it is reported from Anas that he heard the
 Messenger of God say: “Two rak’ah of prayer performed in the middle of
@@ -934,14 +838,10 @@ In a number of *ahadith* it has been reported that the midnight prayer
 is the mu’min’s honor and dignity, and his adornment in the Hereafter,
 in the same way as children and wealth are the adornments of this world.
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ العِلَلِ (عِلَلِ الشَّرَائِعِ)، بِإسْنَادِهِ عَنْ جَابِرِ بْنِ
-عَبْدِاللهِ الأنْصَارِيِّ قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ يَقُولُ: مَا أتَّخَذَ اللهُ إبْرَاهِيمَ خَلِيلاً إلا
-لإطْعَامِهِ الطَّعَامَ وَصَلاتِهِ بِاللَّيْلِ وَالنَّاسُ نِيَامٌ.
-  </p>
-</blockquote>
+> وَعَنِ العِلَلِ (عِلَلِ الشَّرَائِعِ)، بِإسْنَادِهِ عَنْ جَابِرِ بْنِ
+> عَبْدِاللهِ الأنْصَارِيِّ قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ يَقُولُ: مَا أتَّخَذَ اللهُ إبْرَاهِيمَ خَلِيلاً إلا
+> لإطْعَامِهِ الطَّعَامَ وَصَلاتِهِ بِاللَّيْلِ وَالنَّاسُ نِيَامٌ.
 
 In ‘Ilal al-shara’i, Jabir is reported to have heard the Prophet (S)
 say: “God did not befriend Ibrahim (A) except for his feeding people and
@@ -960,18 +860,14 @@ vision of the beloved and the radiance of the countenance of the dear
 one, though this similitude is out of proportion for describing this
 condition, to the extent that the east is far from the west.
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ عَلِيِّ بْنِ إبْرَاهِيمَ بِإسْنَادِهِ، عَنْ أبِي عَبْدِاللهِ
-عَلَيْهِ السَّلامُ قَالَ: مَا مِنْ عَمَلٍ حَسَنٍ يَعْمَلُهُ العَبْدُ
-إلا وَلَهُ ثَوَابٌ فَي القُرْآنِ إلا صَلاةَ اللَّيْلِ، فَإنَّ اللهَ
-لَمْ يُبَيِّنْ ثَوَابَهَا لِعَظِيمَ خَطَرِهَا عَنْدَهُ، فَقَالَ:
-﴿تَتَجَافَى جُنُوبُهُمْ عَنْ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
-وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ. فَلَا تَعْلَمُ نَفْسٌ مَا
-أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا
-يَعْمَلُونَ.﴾
-  </p>
-</blockquote>
+> وَعَنْ عَلِيِّ بْنِ إبْرَاهِيمَ بِإسْنَادِهِ، عَنْ أبِي عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ قَالَ: مَا مِنْ عَمَلٍ حَسَنٍ يَعْمَلُهُ العَبْدُ
+> إلا وَلَهُ ثَوَابٌ فَي القُرْآنِ إلا صَلاةَ اللَّيْلِ، فَإنَّ اللهَ
+> لَمْ يُبَيِّنْ ثَوَابَهَا لِعَظِيمَ خَطَرِهَا عَنْدَهُ، فَقَالَ:
+> ﴿تَتَجَافَى جُنُوبُهُمْ عَنْ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا
+> وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ. فَلَا تَعْلَمُ نَفْسٌ مَا
+> أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا
+> يَعْمَلُونَ.﴾
 
 From ‘Ali ibn Ibrahim who, with his chain of narrators, reports from
 Imam al-Sadiq (A) that he said, “For every good deed that a slave of God
@@ -1035,13 +931,9 @@ has forgone all higher stations to remain content to thrive on the
 animal plane. And chant with full attention and sincerity of intention
 this prayer:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ ارْزُقْنِي التَّجَافِي عَنْ دَارِ الغُرُورِ والإنَابَةَ
-إلَى دَارِ الخُلُودِ والإسْتِعْدَادِ لِلْمَوْتِ قَبْلَ حُلُولِ
-الفَوْتِ.
-  </p>
-</blockquote>
+> اللَّهُمَّ ارْزُقْنِي التَّجَافِي عَنْ دَارِ الغُرُورِ والإنَابَةَ
+> إلَى دَارِ الخُلُودِ والإسْتِعْدَادِ لِلْمَوْتِ قَبْلَ حُلُولِ
+> الفَوْتِ.
 
 My God, I implore Thee to rescue me from the house of illusion and this
 abode of delirium, and help me to return to the abode of eternity. Grant
@@ -1060,13 +952,9 @@ the soul and total control of it from falling into illegal and
 illegitimate acts, by refraining from all that is suspect (i.e. not
 known to be permissible for certain):
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَخَذَ بِالشُّبُهَاتِ وَقَعَ فِي المُحَرَّمَاتِ وَهَلَكَ مِنْ
-حَيْثُ لا يَعْلَمُ. وَمَنْ رَتَعَ حَوْلَ الحِمَى يُوشَكُ أَنْ يَقَعَ
-فِيهِ.
-  </p>
-</blockquote>
+> وَمَنْ أَخَذَ بِالشُّبُهَاتِ وَقَعَ فِي المُحَرَّمَاتِ وَهَلَكَ مِنْ
+> حَيْثُ لا يَعْلَمُ. وَمَنْ رَتَعَ حَوْلَ الحِمَى يُوشَكُ أَنْ يَقَعَ
+> فِيهِ.
 
 Whosoever pursues dubious things, falls into forbidden things
 (muharramat) and is destroyed on account of his ignorance, such as an
@@ -1110,11 +998,7 @@ absorption in the annihilation; and for the *mutamakkinun* it is in
 regard to inner instabilities (*talwinat*)*,* and hence the Quran
 enjoins:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَاسْتَقِمْ كَمَا أُمِرْتَ.﴾
-  </p>
-</blockquote>
+> ﴿فَاسْتَقِمْ كَمَا أُمِرْتَ.﴾
 
 ***So be as steadfast as thou art commanded.*** (***11: 112***)
 
@@ -1160,22 +1044,14 @@ if they are remediable, it is only after being subjected to tortures,
 pains, fire and burning for thousands of years that they can be wiped
 away:
 
-<blockquote dir="rtl">
-  <p>
-آخِرُ الدَّوَاءِ الكَيُّ.
-  </p>
-</blockquote>
+> آخِرُ الدَّوَاءِ الكَيُّ.
 
 The last cure is cauterization.
 
 God Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَوْمَ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا
-جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ.﴾
-  </p>
-</blockquote>
+> ﴿يَوْمَ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا
+> جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ.﴾
 
 ***It will be heated in the fire of hell, and their foreheads and their
 flanks and their backs will be branded therewith.*** (***9:35***)
@@ -1200,11 +1076,7 @@ serious in the case of spiritual maladies, as here the nature dominates
 the spirit from the very beginning. and the spiritual side heads towards
 corruption and decline:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ.﴾
 
 ***Verily, it is the self which incites to evil*** (***12:53***)
 
@@ -1242,25 +1114,21 @@ attain the higher stations and very difficult and painstaking to obtain
 salvation. Our precious Shaykh used to enjoin us to attend constantly to
 the following verses of the *Surat al-Hashr:*
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
-مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
-تَعْمَلُونَ. وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ
-أَنْفُسَهُمْ أُوْلَئِكَ هُمْ الْفَاسِقُونَ. لَا يَسْتَوِي أَصْحَابُ
-النَّارِ وَأَصْحَابُ الْجَنَّةِ أَصْحَابُ الْجَنَّةِ هُمْ
-الْفَائِزُونَ. لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ
-لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ وَتِلْكَ
-الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ. هُوَ
-اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ
-وَالشَّهَادَةِ هُوَ الرَّحْمَانُ الرَّحِيمُ. هُوَ اللَّهُ الَّذِي لَا
-إِلَهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ
-الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ
-عَمَّا يُشْرِكُونَ. هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ
-لَهُ الْأَسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ
-وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ
+> مَا قَدَّمَتْ لِغَدٍ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا
+> تَعْمَلُونَ. وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ
+> أَنْفُسَهُمْ أُوْلَئِكَ هُمْ الْفَاسِقُونَ. لَا يَسْتَوِي أَصْحَابُ
+> النَّارِ وَأَصْحَابُ الْجَنَّةِ أَصْحَابُ الْجَنَّةِ هُمْ
+> الْفَائِزُونَ. لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ
+> لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ وَتِلْكَ
+> الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ. هُوَ
+> اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ
+> وَالشَّهَادَةِ هُوَ الرَّحْمَانُ الرَّحِيمُ. هُوَ اللَّهُ الَّذِي لَا
+> إِلَهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ
+> الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ
+> عَمَّا يُشْرِكُونَ. هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ
+> لَهُ الْأَسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ
+> وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ.﴾
 
 ***O ye who believe! Observe your duty*** (***taqwa***) ***to God. And
 let every soul look to that which it sendeth on before for the morrow.
@@ -1388,5 +1256,4 @@ yahduruhu al-faqih, I, 471.
 [^22]: Shaykh ‘Abbas al-Qummi, Mafatih al jinan.
 
 [^23]: Wasa’il al-Shi’ah.
-
 

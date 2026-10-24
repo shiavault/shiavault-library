@@ -26,4 +26,3 @@ and brought back the girl to her father.
 
 Our Master Muhammad [s] was a member of the Alliance of Fodhool.
 
-

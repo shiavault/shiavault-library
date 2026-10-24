@@ -10,4 +10,3 @@ the Christians John was inspired by God, and that is the reason for
 taking his words as the truth. Let us investigate the Bible to see if
 God is One and only One, or that He is, or they are three in one.
 
-

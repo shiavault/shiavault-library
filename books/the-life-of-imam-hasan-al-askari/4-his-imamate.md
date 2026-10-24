@@ -403,4 +403,3 @@ impurity caused by sexual intercourse, wet dreams…
 
 [^35]: A’lam al-Wara, p.375.
 
-

@@ -43,7 +43,6 @@ mentioning,
 "As for the duties obligatory only toward him and not the others in his
 nation are: a. Brushing of the teeth. b. Al-witr prayer.
 
-
 **Question 34 : Does the belief in the super-natural power of God's
 friends cause polytheism?**
 
@@ -155,5 +154,4 @@ towards the road of perfection.
 (Baqarah: 60)
 (Ale-Imran: 49)
 (Naml: 16)
-
 

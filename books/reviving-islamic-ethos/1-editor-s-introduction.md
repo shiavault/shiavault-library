@@ -220,9 +220,7 @@ Islamic spirit of Muslims. As Iqbal has put it in his "Jawid Nama", a
 poem named after his son, the question, after all, is: "Art thou in the
 stage of 'life' or 'death', or 'death-in-life'?"
 
-
 M. K. Ali
 Tehran,
 16 Jamadiul-Awal 1403.
-
 

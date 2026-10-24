@@ -214,12 +214,8 @@ Muslim rulers are the implementers of the law, yet not the law of the
 people, but of God. He is a subject but of God. He has no will of his
 own:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ, لَأَخَذْنَا مِنْهُ
-بِالْيَمِينِثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
-  </p>
-</blockquote>
+> وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ, لَأَخَذْنَا مِنْهُ
+> بِالْيَمِينِثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
 
 ***Had he faked any sayings in Our name, We would have surely seized him
 by the right hand and then cut off his aorta. (69:44-46)***
@@ -705,5 +701,4 @@ their works will not be set right except through the prosperity and
 goodness of the government while the government will not attain goodness
 and prosperity except through the steadfastness of the people (in action
 and supporting the truth).
-
 

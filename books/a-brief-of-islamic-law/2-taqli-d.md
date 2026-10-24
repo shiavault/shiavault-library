@@ -424,4 +424,3 @@ Tahir if its essence or category does not change ; like, if wheat is
 ground into flour, or is used for baking pead, it does not become
 Tahir
 
-

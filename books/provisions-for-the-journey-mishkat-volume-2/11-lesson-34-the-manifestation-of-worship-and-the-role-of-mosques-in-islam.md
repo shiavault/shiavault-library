@@ -137,22 +137,14 @@ proximity and from the point of view of the Qur’an and the *hadith*s the
 reality of prayer is the original and main goal, not the outward form.
 Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-... وَأَقِمِ الصَّلاَةَ لِذِكْرِي
-  </p>
-</blockquote>
+> ... وَأَقِمِ الصَّلاَةَ لِذِكْرِي
 
 ***“And maintain the prayer for My remembrance.”***[^4]
 
 Elsewhere, Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمْ الصَّلاَةَ إِنَّ الصَّلاَةَ تَنْهَى عَنْ الْفَحْشَاءِ
-وَالْمُنكَرِ وَلَذِكْرُ اللَّهِ أَكْبَرُ ...
-  </p>
-</blockquote>
+> وَأَقِمْ الصَّلاَةَ إِنَّ الصَّلاَةَ تَنْهَى عَنْ الْفَحْشَاءِ
+> وَالْمُنكَرِ وَلَذِكْرُ اللَّهِ أَكْبَرُ ...
 
 ***“And maintain the prayer. Indeed the prayer keeps away from indecency
 and evil, and certainly the remembrance of Allah is the
@@ -313,14 +305,10 @@ Allah because in these forty days Prophet Moses (*‘a*), upon Allah’s
 invitation, was busy with devotional service to Allah on the mountain of
 Tur. In this regard Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَوَاعَدْنَا مُوسَى ثَلاَثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
-فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَى لأَخِيهِ
-هَارُونَ اخْلُفْنِي فِي قَوْمِي وَأَصْلِحْ وَلاَ تَتَّبِعْ سَبِيلَ
-الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَوَاعَدْنَا مُوسَى ثَلاَثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
+> فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَى لأَخِيهِ
+> هَارُونَ اخْلُفْنِي فِي قَوْمِي وَأَصْلِحْ وَلاَ تَتَّبِعْ سَبِيلَ
+> الْمُفْسِدِينَ
 
 ***“And we made an appointment with Moses for thirty nights, and
 completed them with ten [more]; thus the tryst of his Lord was completed
@@ -564,11 +552,7 @@ a person is so afflicted by heedlessness and satanic temptations that he
 converts means of goodness and prosperity to means of misfortunate and
 wretchedness:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللّهِ كُفْرًا...
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللّهِ كُفْرًا...
 
 ***“Have you not seen those who pay back Allah’s favor with
 disbelief…”***[^24]
@@ -657,11 +641,7 @@ loves to be magnanimous towards those servants who stand abject and
 forlorn in His presence seeking His favor and satisfaction. He Himself
 has stated:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ...
-  </p>
-</blockquote>
+> أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ...
 
 ***‘Is He who answers the call of the distressed [person] when he
 invokes Him and removes*** ***his distress…’”***[^26]
@@ -815,12 +795,8 @@ benefit in the mosque, and in addition refrain from futile words and
 deeds in all places because among the attributes of a believer is that
 he abstains from frivolous deeds:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ \* الَّذِينَ هُمْ فِي صَلاَتِهِمْ
-خَاشِعُونَ \* وَالَّذِينَ هُمْ عَنْ اللَّغْوِ مُعْرِضُونَ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ \* الَّذِينَ هُمْ فِي صَلاَتِهِمْ
+> خَاشِعُونَ \* وَالَّذِينَ هُمْ عَنْ اللَّغْوِ مُعْرِضُونَ
 
 ***“Successful indeed are the believers who are humble in their prayers
 and avoid what is vain.”***[^31]
@@ -1080,5 +1056,4 @@ Prophet (S) [mawa‘iz al-nabi wa hikmah].
 [^34]: Bihar al-Anwar, vol. 83, p. 351.
 
 [^35]: Wasa’il al-Shi‘ah, vol. 3, p. 479.
-
 

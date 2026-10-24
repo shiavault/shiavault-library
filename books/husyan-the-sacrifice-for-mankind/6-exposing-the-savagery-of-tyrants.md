@@ -127,4 +127,3 @@ anyone other than members of the Ahl-ul-Bayt alayhum-as-salam. For this
 reason the Shi‘a are also referred to as Ja‘fari after adhering to the
 teachings of Ja‘far al-Sadiq.
 
-

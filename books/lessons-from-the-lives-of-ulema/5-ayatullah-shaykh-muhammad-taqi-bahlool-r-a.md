@@ -91,4 +91,3 @@ Salatu'l Layl, both in this world and Insha'Allah in the next.”
 Source: **“Karamat-e Ma'nawi” - “Spiritual Miracles”** p. 33. Translated
 AJ/141205
 
-

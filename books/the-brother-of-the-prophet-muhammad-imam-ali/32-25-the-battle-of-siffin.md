@@ -835,4 +835,3 @@ more than one hundred companions.
 
 [^42]: Ibn Sa’d Al- Tabaqat part 3 pp. 253-254.
 
-

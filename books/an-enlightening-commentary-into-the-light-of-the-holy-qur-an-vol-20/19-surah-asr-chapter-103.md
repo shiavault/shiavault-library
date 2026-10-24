@@ -8,11 +8,7 @@ Surah Asr, Chapter 103
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -50,32 +46,16 @@ the mere reciting of the Surah.
 Surah ‘Asr, Verses 1-3
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَصْرِ
-  </p>
-</blockquote>
+> وَالْعَصْرِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
-بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
-  </p>
-</blockquote>
+> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا
+> بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
 
 ***1. “By Time",***  
 ***2. “Surely man is in loss,"***  
@@ -489,5 +469,4 @@ the Surah; please help us to be successful.*
 [^7]: mentioned in Surah Taqabun, No. 64, Verse 9
 
 [^8]: Surah Zilzal, No. 99, Verse 7
-
 

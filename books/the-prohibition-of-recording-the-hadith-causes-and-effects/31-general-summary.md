@@ -944,4 +944,3 @@ which no sacred text (from the Holy Qur'an and Sunnah) can be found to
 the mujtahids and thus whatever is decided by the mujtahids should be
 decided as the law of Almighty Allah.
 
-

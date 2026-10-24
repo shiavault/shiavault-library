@@ -39,4 +39,3 @@ all the detriments and afflictions resulting from the sinning
 characteristic of "pride" can apply to conceit, too; may Allāh grant us
 refuge from it.
 
-

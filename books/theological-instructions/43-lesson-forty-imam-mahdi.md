@@ -242,4 +242,3 @@ between them?
 
 7- What benefits can one achieve during the major occultation?
 
-

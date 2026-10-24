@@ -768,4 +768,3 @@ following. "I heard abu 'Abdallah (a.s.) say, 'O Lord, grant blessings
 up on Muhammad, Your chosen one, Your friend and Your selected one who
 manages Your affairs."
 
-

@@ -1,8 +1,6 @@
 Chapter 16: Peace Treaty
 ========================
 
-  
-
 A group of the historians such as al-Tabari and Ibn al-Athir has
 narrated the following: "Indeed Mu'awiya had sent al-Hasan a blank page.
 In the bottom of the page, there were his stamps." Then Mu'awiya wrote
@@ -33,8 +31,6 @@ filled the page, which was stamped in the bottom, with various
 
 [[1]](#n1) Al-Tabari, Ta'rikh, vol. 6, p. 93. Ibn al-Athir, al-Kamil fi
 al-Ta'rikh, vol. 3, p. 162.
-
-  
 
 stipulations which he wanted, namely with the conditions that were
 useful for him or his family or his Shi'a (followers) or his objectives.
@@ -75,8 +71,6 @@ al-Din al-'Asqalani, al-Isaba fi Tamiiz al-Sahaba, vol. 2, pp. 12- 13.
 Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, p. 150. Farid Wajdi,
 Da'irat al-Ma'arif al-Islamiya, vol. 3, p. 443.
 
-  
-
 brother al-Husayn.[[1]](#r5) Mu'awiya has no right to entrust anybody to
 it. [[2]](#r6)
 
@@ -98,8 +92,6 @@ and gifts to the banu 'Abd Shams, and should divide one million
 the faithful at the Battle of the Camel and the Battle of Siffin, and
 should spend that from the taxes of Dar Abjard. [[5]](#r9)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#n5) Ibn al-Muhanna, 'Umdat al-Talib, p. 52. [[2]](#n6) Ibn Abu
@@ -115,8 +107,6 @@ Mu'awiya) hear that." Ibn al-Athir said: "Then Mu'awiya broke that,
 too." [[5]](#n9) Ibn Qutayba al-Dinawari, al-Imama wa al-Siyasa, p. 200.
 Al-Tabari, Ta'rikh, vol. 6, p. 92. Ibn Babawayh, 'Ilal al-Sharaiya', p.
 81. Ibn Kathir, al-Bidaya wa al-Nihaya, vol. 8, p. 14.
-
-  
 
 Item Five:
 
@@ -152,8 +142,6 @@ vol. 4, p. 15. Al-Majlisi, Bihar alAnwir, vol. 10, p. 115. Muhammad b.
 'Ali b. Babawayh, 'Ilal al-Sharaiya', p. 81. Muhammad b. 'Aqil,
 al-Nasa'ih al-Kafiya, p. 115. [[3]](#n12) Al-Majlisi, Bihar al-Anwar,
 vol. 10, p. 115. Muhammad b. 'Aqil, al-Nasa'ih al-Kufiya, p. 156.
-
-  
 
 ### The End
 

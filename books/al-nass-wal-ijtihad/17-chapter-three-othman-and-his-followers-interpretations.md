@@ -293,4 +293,3 @@ violating honors or extorting properties as their other interpretations.
 This was simple in comparison with their other interpretations against
 the legal verdicts.
 
-

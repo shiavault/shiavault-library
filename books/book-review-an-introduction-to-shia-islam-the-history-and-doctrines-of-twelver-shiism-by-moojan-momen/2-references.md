@@ -94,10 +94,8 @@ between ‘Ali (as) and Qays ibn al-Ash'ath. In the episode described,
 ‘Ali (as) is said to have stated in a sermon delivered in the Mosque of
 Kufa
 
-<p dir="rtl">
 ألا فإنْي لأَولى النَّاس بِالنَّاس فَمَا زِلْتُ مَظْلُوماً مُنْذُ قُبِضَ
 رَسُولُ اْلله (ص).
-</p>
 
 Indeed, I am nearer to (or have more authority over) people than they
 with respect to themselves. Yet I have been treated unjustly since the
@@ -163,5 +161,4 @@ ibn al-Hakam on the Imamate that led Harun to order his arrest.
 [^22]: Ja'fari, S. H. M., The Origins and Early Development of Shi’ah
 Islam, p. 75. Available on line at:
 http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-...
-
 

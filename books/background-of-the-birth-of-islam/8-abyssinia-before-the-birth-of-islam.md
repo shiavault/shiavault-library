@@ -467,4 +467,3 @@ the foremost factor. Even now a pilgrimage to this land as compared to
 other recreational and tourist places is quite different from the
 viewpoint of expense and endurance of hardships.
 
-

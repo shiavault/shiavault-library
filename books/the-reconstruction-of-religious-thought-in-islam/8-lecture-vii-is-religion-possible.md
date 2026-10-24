@@ -607,4 +607,3 @@ Or else thy ego is a mere ring of smoke!
 
 Javid Namah
 
-

@@ -48,9 +48,7 @@ unconditionally but later he realized that this promise was for those
 people who had not severed their spiritual relationship with Nuh
 (a.s.).
 
-
 [^1]: Surah Hud 11:45
 
 [^2]: Surah Hud 11:46
-
 

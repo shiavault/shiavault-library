@@ -260,11 +260,7 @@ It is narrated through authentic chains from Abu Saeed Khudri that a man
 asked about the interpretation of the saying of the Almighty Allah to
 Satan when the latter refused to prostrate before Adam (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ الْعَالِينَ
-  </p>
-</blockquote>
+> أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ الْعَالِينَ
 
 ***“Are you proud or are you of the exalted ones?”***[^1]
 
@@ -540,11 +536,7 @@ of the members of the Holy Progeny were also written there. Then the
 spirit reached his (Adam’s) forelegs. He intended to get up even before
 it reached his feet. That is why Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ
-  </p>
-</blockquote>
+> خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ
 
 ***“Man is created of haste.”***[^4]
 
@@ -1287,22 +1279,14 @@ traditions during the pre-Islamic days of ignorance which Almighty Allah
 continued even in Islam: First he made it unlawful for a man to marry
 his stepmother, about which the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنكِحُواْ مَا نَكَحَ آبَاؤُكُم مِّنَ النِّسَاء
-  </p>
-</blockquote>
+> وَلاَ تَنكِحُواْ مَا نَكَحَ آبَاؤُكُم مِّنَ النِّسَاء
 
 ***“And marry not woman whom your fathers married…”***[^7]
 
 Second, when he found a treasure he spent one-fifth of it in the way of
 Allah about which Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُواْ أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلهِ خُمُسَهٗ
-  </p>
-</blockquote>
+> وَاعْلَمُواْ أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلهِ خُمُسَهٗ
 
 ***“And know that whatever thing you gain, a fifth of it is for
 Allah…”***[^8]
@@ -1310,11 +1294,7 @@ Allah…”***[^8]
 Third, when he dug the Zamzam well, he made it public for all and Allah
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَجَعَلْتُمْ سِقَايَةَ الْحَاجِّ
-  </p>
-</blockquote>
+> أَجَعَلْتُمْ سِقَايَةَ الْحَاجِّ
 
 ***“What! do you make (one who undertakes) the giving of drink to the
 pilgrims…”***[^9]
@@ -2906,5 +2886,4 @@ the Holy Prophet (S) had faith in the Oneness of God and also in the
 Messengership of the Holy Prophet (S) and that their calling in the
 grave was to make their faith perfect by the attestation of the Wilayat
 of Ali bin Abi Talib (a.s.).
-
 

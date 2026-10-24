@@ -45,7 +45,6 @@ Sustainer of the Worlds.
 
 Al-Balagh Foundation
 
-
 **Introduction**
 
 "And We did not send before you any, but men to whom We sent
@@ -288,5 +287,4 @@ Qur'an says:
 
 "(Receive) the baptism of Allah, and who is better than Allah in
 baptising? and Him do we serve." Holy Qur'an (2:138)
-
 

@@ -6,13 +6,9 @@ explanations for Hadith al-Hawdh, some of them deliberately aimed at
 saving certain famous Sahabah. Al-Hafiz (d. 852 H), for instance,
 states:
 
-<blockquote dir="rtl">
-  <p>
-وقال الخطابي لم يرتد من الصحابة أحد وانما ارتد قوم من جفاة الاعراب ممن
-لا نصرة له في الدين وذلك لا يوجب قدحا في الصحابة المشهورين ويدل قوله
-أصيحابي بالتصغير على قلة عددهم
-  </p>
-</blockquote>
+> وقال الخطابي لم يرتد من الصحابة أحد وانما ارتد قوم من جفاة الاعراب ممن
+> لا نصرة له في الدين وذلك لا يوجب قدحا في الصحابة المشهورين ويدل قوله
+> أصيحابي بالتصغير على قلة عددهم
 
 Al-Khattabi said: “None of the Sahabah ever apostatized. It was only a
 group from the Bedouin Arabs, among those who had no help in the
@@ -22,12 +18,8 @@ tasghir points to their small number.[^1]
 
 Imam al-Mubarakfuri (d. 1282 H) also submits:
 
-<blockquote dir="rtl">
-  <p>
-قال القاضي يريد بهم من ارتد من الأعراب الذين أسلموا في أيامه كأصحاب
-مسيلمة والأسود وأضرابهم
-  </p>
-</blockquote>
+> قال القاضي يريد بهم من ارتد من الأعراب الذين أسلموا في أيامه كأصحاب
+> مسيلمة والأسود وأضرابهم
 
 Al-Qadhi said: “He intended by them those who apostatized among the
 Bedouin Arabs who had accepted Islam during his lifetime, like the
@@ -35,37 +27,17 @@ companions of Musaylamah and al-Aswad and their likes.”[^2]
 
 He further adds concerning the ahadith:
 
-<blockquote dir="rtl">
-  <p>
-قال النووي هذا مما أختلف العلماء في المراد على أقوال
-  </p>
-</blockquote>
+> قال النووي هذا مما أختلف العلماء في المراد على أقوال
 
-<blockquote dir="rtl">
-  <p>
-أحدها أن المراد به المنافقون والمرتدون ….
-  </p>
-</blockquote>
+> أحدها أن المراد به المنافقون والمرتدون ….
 
-<blockquote dir="rtl">
-  <p>
-والثاني أن المراد من كان في زمن النبي صلى الله عليه وسلم ثم ارتد بعده
-….
-  </p>
-</blockquote>
+> والثاني أن المراد من كان في زمن النبي صلى الله عليه وسلم ثم ارتد بعده
+> ….
 
-<blockquote dir="rtl">
-  <p>
-والثالث أن المراد أصحاب المعاصي الكبائر الذين ماتوا على التوحيد وأصحاب
-البدع
-  </p>
-</blockquote>
+> والثالث أن المراد أصحاب المعاصي الكبائر الذين ماتوا على التوحيد وأصحاب
+> البدع
 
-<blockquote dir="rtl">
-  <p>
-الذين لم يخرجوا ببدعتهم عن الاسلام
-  </p>
-</blockquote>
+> الذين لم يخرجوا ببدعتهم عن الاسلام
 
 Al-Nawawi said: “This is part of what the scholars dispute about its
 meaning, submitting various opinions:
@@ -111,23 +83,15 @@ of Allah. But, they certainly were not keeping him company in the city
 and elsewhere. In fact, the Qur’an distinguishes between them and the
 people of Madinah:
 
-<blockquote dir="rtl">
-  <p>
-وممن حولكم من الأعراب منافقون ومن أهل المدينة
-  </p>
-</blockquote>
+> وممن حولكم من الأعراب منافقون ومن أهل المدينة
 
 ***And among the Bedouin Arabs round about you, some are hypocrites, and
 so are some among the people of al-Madinah.***[^4]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ما كان لأهل المدينة ومن حولهم من الأعراب أن يتخلفوا عن رسول الله ولا
-يرغبوا بأنفسهم عن نفسه
-  </p>
-</blockquote>
+> ما كان لأهل المدينة ومن حولهم من الأعراب أن يتخلفوا عن رسول الله ولا
+> يرغبوا بأنفسهم عن نفسه
 
 ***It was not becoming of the people of al-Madinah and the Bedouin Arabs
 round about them to remain behind the Messenger of Allah and to prefer
@@ -150,12 +114,8 @@ kept him company, and were known personally to him.
 Part of what supports our position are these words of Umm al-Muminin
 ‘Aishah:
 
-<blockquote dir="rtl">
-  <p>
-سمعت رسول الله صلى الله عليه و سلم يقول وهو بين ظهراني أصحابه إني على
-الحوض أنتظر من يرد علي منكم
-  </p>
-</blockquote>
+> سمعت رسول الله صلى الله عليه و سلم يقول وهو بين ظهراني أصحابه إني على
+> الحوض أنتظر من يرد علي منكم
 
 I heard the Messenger of Allah, peace be upon him, saying while he was
 in front of his Sahabah: “I will be at the Lake-Fount, expecting
@@ -167,14 +127,10 @@ that those who will be driven away from the Lake-Fount were from amongst
 those same Sahabah “in front of” him. Moreover, al-Bukhari (d. 256 H)
 documents for us the unmistakable interpretation of a senior Sahabi:
 
-<blockquote dir="rtl">
-  <p>
-حدثني أحمد بن إشكاب حدثنا محمد بن فضيل عن العلاء بن المسيب عن أبيه
-قال: لقيت البراء بن عازب رضي الله عنهما فقلت طوبى لك صحبت النبي صلى
-الله عليه و سلم وبايعته تحت الشجرة فقال يا ابن أخي إنك لا تدري ما
-أحدثنا بعده
-  </p>
-</blockquote>
+> حدثني أحمد بن إشكاب حدثنا محمد بن فضيل عن العلاء بن المسيب عن أبيه
+> قال: لقيت البراء بن عازب رضي الله عنهما فقلت طوبى لك صحبت النبي صلى
+> الله عليه و سلم وبايعته تحت الشجرة فقال يا ابن أخي إنك لا تدري ما
+> أحدثنا بعده
 
 Ahmad b. Ishkab – Muhammad b. Fudhayl – al-‘Ala b. al-Musayyab – his
 father (al-Musayyab):
@@ -202,12 +158,8 @@ amongst the very Sahabah he was addressing with the ahadith during his
 lifetime. A key point in the reports is highlighted in this riwayah of
 Abu Sa’id al-Khudri:
 
-<blockquote dir="rtl">
-  <p>
-ان النبي صلى الله عليه و سلم قال فأقول أصحابي أصحابي فقيل انك لا تدري
-ما أحدثوا بعدك قال فأقول بعدا بعدا أو قال سحقا سحقا لمن بدل بعدي
-  </p>
-</blockquote>
+> ان النبي صلى الله عليه و سلم قال فأقول أصحابي أصحابي فقيل انك لا تدري
+> ما أحدثوا بعدك قال فأقول بعدا بعدا أو قال سحقا سحقا لمن بدل بعدي
 
 The Prophet, peace be upon him, said: “So, I will say, ‘My Sahabah! My
 Sahabah!’ It will be said, ‘You do not know what they INNOVATED after
@@ -230,11 +182,7 @@ of the hypocrites.
 Al-Khattabi attempts to downplay the significance of these revelations
 about the Sahabah:
 
-<blockquote dir="rtl">
-  <p>
-ويدل قوله أصيحابي بالتصغير على قلة عددهم
-  </p>
-</blockquote>
+> ويدل قوله أصيحابي بالتصغير على قلة عددهم
 
 his statement usayhabi (“my Sahabah”) with tasghir points to their small
 number
@@ -258,17 +206,13 @@ and he will identify the large groups as ashabi. Imam al-Bukhari
 documents a report of Abu Hurayrah, which gives additional strength to
 our submissions:
 
-<blockquote dir="rtl">
-  <p>
-حدثني إبراهيم بن المنذر الحزامي حدثنا محمد بن فليح حدثنا أبي قال حدثني
-هلال عن عطاء بن يسار عن أبي هريرة : عن النبي صلى الله عليه و سلم قال
-بينا أنا نائم إذا زمرة حتى إذا عرفتهم خرج رجل من بيني وبينهم فقال هلم
-فقلت أين؟ قال إلى النار والله قلت وما شأنهم؟ قال إنهم ارتدوا بعدك على
-أدبارهم القهقرى .ثم إذا زمرة حتى إذا عرفتهم خرج رجل من بيني وينهم فقال
-هلم قلت أين؟ قال إلى النار والله قلت ما شأنهم؟ قال إنهم ارتدوا بعدك
-على أدبارهم القهقرى فلا أراه يخلصمنهم إلا مثل همل النعم
-  </p>
-</blockquote>
+> حدثني إبراهيم بن المنذر الحزامي حدثنا محمد بن فليح حدثنا أبي قال حدثني
+> هلال عن عطاء بن يسار عن أبي هريرة : عن النبي صلى الله عليه و سلم قال
+> بينا أنا نائم إذا زمرة حتى إذا عرفتهم خرج رجل من بيني وبينهم فقال هلم
+> فقلت أين؟ قال إلى النار والله قلت وما شأنهم؟ قال إنهم ارتدوا بعدك على
+> أدبارهم القهقرى .ثم إذا زمرة حتى إذا عرفتهم خرج رجل من بيني وينهم فقال
+> هلم قلت أين؟ قال إلى النار والله قلت ما شأنهم؟ قال إنهم ارتدوا بعدك
+> على أدبارهم القهقرى فلا أراه يخلصمنهم إلا مثل همل النعم
 
 Ibrahim b. al-Mundhir al-Huzami – Muhammad b. Fulayh – my father – Hilal
 – ‘Ata b. Yasar – Abu Hurayrah:
@@ -287,11 +231,7 @@ I do not see any of them escaping except very few.[^10]
 
 Commenting on the word used in the hadith, Dr. al-Bagha writes:
 
-<blockquote dir="rtl">
-  <p>
-)زمرة (جماعة
-  </p>
-</blockquote>
+> )زمرة (جماعة
 
 (Zumrah) means a jama’ah.[^11]
 
@@ -305,11 +245,7 @@ adopted by the Messenger of Allah suggest that the overall numbers of
 apostate Sahabah were great. This seems to be the message of this part
 of the hadith too:
 
-<blockquote dir="rtl">
-  <p>
-فلا أراه يخلصمنهم إلا مثل همل النعم
-  </p>
-</blockquote>
+> فلا أراه يخلصمنهم إلا مثل همل النعم
 
 I do not see any of them escaping except very few.
 
@@ -365,5 +301,4 @@ Kathir; 3rd edition, 1407 H) [annotator: Dr. Mustafa Dib al-Bagha], vol.
 [^11]: Ibid
 
 [^12]: See Qur’an 2:39, 4:168-169 and 64:10
-
 

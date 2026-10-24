@@ -339,4 +339,3 @@ Masjid Ali, peace be upon him
  History of the Mausoleum in Kadhmayn  
  History of the Mausoleum in Samarra
 
-

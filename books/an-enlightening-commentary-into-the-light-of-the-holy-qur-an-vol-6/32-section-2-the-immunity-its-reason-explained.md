@@ -4,14 +4,10 @@ Section 2: The Immunity – Its Reason Explained
 Surah At-Tawbah – Verse 7
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ اللّهِ وَعِندَ رَسُولِهِ
-إِلاَّ الَّذِينَ عَاهَدْتُّمْ عِندَ الْمَسْجِدِ الْحَرَامِ فَمَا
-اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ إِنَّ اللّهَ يُحِبُّ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ اللّهِ وَعِندَ رَسُولِهِ
+> إِلاَّ الَّذِينَ عَاهَدْتُّمْ عِندَ الْمَسْجِدِ الْحَرَامِ فَمَا
+> اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ إِنَّ اللّهَ يُحِبُّ
+> الْمُتَّقِينَ
 
 **7*****. “How can there be a covenant for the polytheists with Allah
 and with His Messenger? Except those with whom you made covenant at the
@@ -59,13 +55,9 @@ the ones who avoid perjury. The verse says:
 Surah At-Tawbah – Verse 8
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَيْفَ وإِن يَظْهَرُوا عَلَيْكُمْ لايَرْقُبُوا فِيكُمْ إِلاًّ وَلا
-ذِمَّةً يُرْضُونَكُم بِاَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ
-وَأَكْثَرُهُمْ فَاسِقُونَ
-  </p>
-</blockquote>
+> كَيْفَ وإِن يَظْهَرُوا عَلَيْكُمْ لايَرْقُبُوا فِيكُمْ إِلاًّ وَلا
+> ذِمَّةً يُرْضُونَكُم بِاَفْوَاهِهِمْ وَتَأْبَى قُلُوبُهُمْ
+> وَأَكْثَرُهُمْ فَاسِقُونَ
 
 **8*****. “How (can it be?) For if they prevail against you, they will
 observe towards you neither ties of relationship nor treaty. They please
@@ -112,12 +104,8 @@ as follows:
 Surah At-Tawbah – Verse 9
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اشْتَرَوْا بِاَيَاتِ اللّهِ ثَمَناً قَلِيلاً فَصَدُّوا عَن سَبِيلِهِ
-إِنَّهُمْ سَآءَ مَاكَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> اشْتَرَوْا بِاَيَاتِ اللّهِ ثَمَناً قَلِيلاً فَصَدُّوا عَن سَبِيلِهِ
+> إِنَّهُمْ سَآءَ مَاكَانُوا يَعْمَلُونَ
 
 **9*****. “They have sold the signs of Allah for a small price, and have
 hindered (people) from His way. Surely evil was what they used to
@@ -144,12 +132,8 @@ bestowed to the believers, is a small thing. That is why the verse says:
 Surah At-Tawbah – Verse 10
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لايَرْقُبُونَ فِي مُؤْمِنٍ إِلاًّ وَلاَ ذِمَّةً وَاُوْلَئِكَ هُمُ
-الْمُعْتَدُونَ
-  </p>
-</blockquote>
+> لايَرْقُبُونَ فِي مُؤْمِنٍ إِلاًّ وَلاَ ذِمَّةً وَاُوْلَئِكَ هُمُ
+> الْمُعْتَدُونَ
 
 **10*****. “They observe towards a believer neither ties of relationship
 nor treaty, and these are they who are the transgressors.”***
@@ -180,13 +164,9 @@ treaty…”***
 Surah At-Tawbah – Verse 11
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن تَابُوا وَأَقَامُوا الصَّلاَةَ وَءَاتَوُا الزَّكَاةَ
-فَإِخْوَانُكُمْ فِي الدِّينِ وَنُفَصِّلُ الاَيَاتِ لِقَوْمٍ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> فإِن تَابُوا وَأَقَامُوا الصَّلاَةَ وَءَاتَوُا الزَّكَاةَ
+> فَإِخْوَانُكُمْ فِي الدِّينِ وَنُفَصِّلُ الاَيَاتِ لِقَوْمٍ
+> يَعْلَمُونَ
 
 **11*****. “But if they repent and perform the prayer and pay the alms
 (zakāt), then they are your brethren in faith; and We explain the signs
@@ -239,13 +219,9 @@ repentance, prayer, and alms are equal in rights with Muslims.
 Surah At-Tawbah – Verse 12
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن نَكَثُوا أَيْمَانَهُم مِن بَعْدِ عَهْدِهِمْ وَطَعَنُوا فِي
-دِينِكُمْ فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ إِنَّهُمْ لآ أَيْمَانَ
-لَهُمْ لَعَلَّهُمْ يَنتَهُونَ
-  </p>
-</blockquote>
+> وَإِن نَكَثُوا أَيْمَانَهُم مِن بَعْدِ عَهْدِهِمْ وَطَعَنُوا فِي
+> دِينِكُمْ فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ إِنَّهُمْ لآ أَيْمَانَ
+> لَهُمْ لَعَلَّهُمْ يَنتَهُونَ
 
 **12*****. “But if they break their oaths after their covenant and
 revile your religion, then fight the leaders of infidelity. Verily there
@@ -302,14 +278,10 @@ The verse says:
 Surah At-Tawbah – Verse 13
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ تُقَاتِلُونَ قَوْماً نَكَثُوا أَيْمَانَهُمْ وَهَمُّوا
-بِاِخْرَاجِ الرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ
-أَتَخْشَوْنَهُمْ فَاللّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم
-مُؤْمِنِينَ
-  </p>
-</blockquote>
+> أَلاَ تُقَاتِلُونَ قَوْماً نَكَثُوا أَيْمَانَهُمْ وَهَمُّوا
+> بِاِخْرَاجِ الرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ
+> أَتَخْشَوْنَهُمْ فَاللّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم
+> مُؤْمِنِينَ
 
 **13*****. “Will you not fight a people who broke their oaths and aimed
 at the expulsion of the Messenger, and they did attack you first? Do you
@@ -338,12 +310,8 @@ Him, if you are believers.”***
 Surah At-Tawbah – Verse 14
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَاتِلُوهُمْ يُعَذِّبْهُمُ اللّهُ بِاَيْدِيكُمْ وَيُخْزِهِمْ
-وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> قَاتِلُوهُمْ يُعَذِّبْهُمُ اللّهُ بِاَيْدِيكُمْ وَيُخْزِهِمْ
+> وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُؤْمِنِينَ
 
 **14*****. “Fight them, (and) Allah will punish them at your hands and
 degrade them, and He will help you (to victory) over them and heal the
@@ -409,12 +377,8 @@ hearts of a people (who) believe.”***
 Surah At-Tawbah – Verse 15
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ وَيَتُوبُ اللّهُ عَلَى مَن يَشَآءُ
-وَاللّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ وَيَتُوبُ اللّهُ عَلَى مَن يَشَآءُ
+> وَاللّهُ عَلِيمٌ حَكِيمٌ
 
 **15*****. “And He removes the rage of their hearts, and Allah turns
 (mercifully) to whomever He pleases, and Allah is All-Knowing,
@@ -442,13 +406,9 @@ whoever expresses Islam it should be accepted from him.
 Surah At-Tawbah – Verse 16
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ حَسِبْتُمْ أَن تُتْرَكُوا وَلَمَّا يَعْلَمِ اللّهُ الَّذِينَ
-جَاهَدُوا مِنكُمْ وَلَمْ يَتَّخِذُوا مِن دُونِ اللّهِ وَلا رَسُولِهِ
-وَلا الْمُؤْمِنِينَ وَلِيجَةً وَاللّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> أَمْ حَسِبْتُمْ أَن تُتْرَكُوا وَلَمَّا يَعْلَمِ اللّهُ الَّذِينَ
+> جَاهَدُوا مِنكُمْ وَلَمْ يَتَّخِذُوا مِن دُونِ اللّهِ وَلا رَسُولِهِ
+> وَلا الْمُؤْمِنِينَ وَلِيجَةً وَاللّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
 
 **16*****. “Or did you think (only with claim of Faith) you would be
 left (in peace) while Allah has not yet known those of you who have
@@ -493,5 +453,4 @@ enemies.
 ***“…And Allah is aware of what you do.”***
 
 [^1]: Tafsir-Nr-uth-Thaqalayn
-
 

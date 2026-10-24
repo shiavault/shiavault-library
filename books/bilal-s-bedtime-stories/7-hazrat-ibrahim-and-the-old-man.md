@@ -61,4 +61,3 @@ persons.
 
 3. Always entertain and please a guest.
 
-

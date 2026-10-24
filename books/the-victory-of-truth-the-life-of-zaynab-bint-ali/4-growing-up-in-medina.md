@@ -39,4 +39,3 @@ said with moistened eyes, "My dear child. 
 This child of mine, Zaynab, would be confronted with a thousand and one
 calamities and face serious hardships in Karbala." 
 
-

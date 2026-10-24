@@ -190,4 +190,3 @@ carry Hurr's body to the tent.
 
 **Matam al-Husayn!**
 
-

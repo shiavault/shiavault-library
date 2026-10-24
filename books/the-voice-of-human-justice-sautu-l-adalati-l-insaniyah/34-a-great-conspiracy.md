@@ -503,4 +503,3 @@ anyone accused Ali of having participated in the murder of Uthman till
 the oath of allegiance was taken to him. Such a blame was levelled
 against him when the oath had been taken”.
 
-

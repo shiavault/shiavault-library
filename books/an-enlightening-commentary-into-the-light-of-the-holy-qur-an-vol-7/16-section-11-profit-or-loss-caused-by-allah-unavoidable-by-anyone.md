@@ -4,14 +4,10 @@ Section 11: Profit or Loss Caused by Allah - Unavoidable by Anyone
 Surah Yunus – Verse 104
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَآ أَيُّهَا النَّاسُ إِنْ كُنتُمْ فِي شَكّ‌ٍ مِنْ دِيني فَلآ
-أَعْبُدُ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ وَلَكِنْ أَعْبُدُ
-اللَّهَ الَّذِي يَتَوَفَّاكُمْ وَاُمِرْتُ أَنْ أَكُونَ مِنَ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> قُلْ يَآ أَيُّهَا النَّاسُ إِنْ كُنتُمْ فِي شَكّ‌ٍ مِنْ دِيني فَلآ
+> أَعْبُدُ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ وَلَكِنْ أَعْبُدُ
+> اللَّهَ الَّذِي يَتَوَفَّاكُمْ وَاُمِرْتُ أَنْ أَكُونَ مِنَ
+> الْمُؤْمِنِينَ
 
 ***104. “Say: “O you people! If you are in doubt as to my religion, then
 (know that) I do not worship those whom you worship other than Allah!
@@ -41,19 +37,11 @@ I should be of the believers’.”***
 Surah Yunus – Verses 105 - 106
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ أَقِمْ وَجْهَكَ لِلدّينِ حَنِيفاً وَلاَ تَكُونَنَّ مِنَ
-الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> وَأَنْ أَقِمْ وَجْهَكَ لِلدّينِ حَنِيفاً وَلاَ تَكُونَنَّ مِنَ
+> الْمُشْرِكِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلا تَدْعُ مِن دُونِ اللَّهِ مَا لاَ يَنفَعُكَ وَلاَ يَضُرُّكَ فَإِن
-فَعَلْتَ فَإِنَّكَ إِذاً مِنَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَلا تَدْعُ مِن دُونِ اللَّهِ مَا لاَ يَنفَعُكَ وَلاَ يَضُرُّكَ فَإِن
+> فَعَلْتَ فَإِنَّكَ إِذاً مِنَ الظَّالِمِينَ
 
 ***105. “And (I have also been commanded) that ‘Set your face towards
 the Religion uprightly, and never be of the polytheists.’”***  
@@ -100,13 +88,9 @@ targeted at the people.
 Surah Yunus – Verse 107
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يَمْسَسْكَ اللَّهُ بِضُرّ‌ٍ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِن
-يُرِدْكَ بِخَيْرٍ فَلاَ رَآدَّ لِفَضْلِهِ يُصِيبُ بِهِ مَن يَشَآءُ
-مِنْ عِبَادِهِ وَهُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِن يَمْسَسْكَ اللَّهُ بِضُرّ‌ٍ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِن
+> يُرِدْكَ بِخَيْرٍ فَلاَ رَآدَّ لِفَضْلِهِ يُصِيبُ بِهِ مَن يَشَآءُ
+> مِنْ عِبَادِهِ وَهُوَ الْغَفُورُ الرَّحِيمُ
 
 ***107. “And if Allah afflicts you with any hurt, none can remove it but
 Him. And if He intends any good for you, none can repel His favor. He
@@ -136,13 +120,9 @@ is the Forgiving, the Merciful.”***
 Surah Yunus – Verse 108
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَآ أَيُّهَا النَّاسُ قَدْ جَآءَكُمُ الْحَقُّ مِن رَبّكُمْ فَمَنِ
-اهْتَدَي فإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ
-عَلَيْهَا وَمَآ أَنَاْ عَلَيْكُم بِوَكِيلٍ
-  </p>
-</blockquote>
+> قُلْ يَآ أَيُّهَا النَّاسُ قَدْ جَآءَكُمُ الْحَقُّ مِن رَبّكُمْ فَمَنِ
+> اهْتَدَي فإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ
+> عَلَيْهَا وَمَآ أَنَاْ عَلَيْكُم بِوَكِيلٍ
 
 ***108. “Say: ‘O mankind!*** ***(Now) the Truth has come to you from
 your Lord.*** ***Therefore, whoever is guided, he is guided for (the
@@ -194,12 +174,8 @@ their leader.
 Surah Yunus – Verse 109
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبِعْ مَا يُوحَي إِلَيْكَ وَاصْبِرْ حَتَّي يَحْكُمَ اللَّهُ
-وَهُوَ خَيْرُ الْحَاكِمِينَ
-  </p>
-</blockquote>
+> وَاتَّبِعْ مَا يُوحَي إِلَيْكَ وَاصْبِرْ حَتَّي يَحْكُمَ اللَّهُ
+> وَهُوَ خَيْرُ الْحَاكِمِينَ
 
 ***109. “And follow (only) what is revealed unto you, and be patient
 till Allah judges, and He is the best of the judges.”***
@@ -228,5 +204,4 @@ broken. The verse continues saying:
 judges.”***
 
 **The End of Surah Yunus.**
-
 

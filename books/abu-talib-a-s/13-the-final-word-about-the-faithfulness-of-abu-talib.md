@@ -314,4 +314,3 @@ O Allah! Forgive us and don't destroy us for what the fools have done!
 women without their having earned (it), they are guilty indeed of a
 false accusation and a manifest sin) 33:58.
 
-

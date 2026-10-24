@@ -580,4 +580,3 @@ from the face of the earth'? Turn from thy fierce wrath, and repent of
 this evil against thy people.... And the LORD repented of the evil,
 which he thought to do unto his people.”
 
-

@@ -25,13 +25,9 @@ capable of reviving them.
 the past nations.  
  In this regard, the Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نُؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ
-جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ ثُمَّ
-بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نُؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ
+> جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ ثُمَّ
+> بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ﴾
 
 ***“And when you said, ‘O Moses, we will not believe you until we see
 Allah visibly.’ Thereupon, a thunderbolt seized you as you looked on.
@@ -41,11 +37,7 @@ thanks.”***[^1]
 Elsewhere, the Qur’an quotes ‘Isa al-Masih (Jesus the Messiah) (*‘a*) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-"وأحي الموتى بإذن الله."
-  </p>
-</blockquote>
+> "وأحي الموتى بإذن الله."
 
 ***“And I revive the dead by Allah’s leave.”***[^2]
 
@@ -55,14 +47,10 @@ after their departing the world. In the two verses below, the Qur’an
 points to the return of a group of people after death and prior to the
 occurrence of the Day of Resurrection.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَابَّةً مِنَ
-الْأَرْضِ تُكَلِّمُهُمْ أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا
-يُوقِنُونَ وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا مِمَّنْ
-يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَابَّةً مِنَ
+> الْأَرْضِ تُكَلِّمُهُمْ أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا
+> يُوقِنُونَ وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا مِمَّنْ
+> يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ﴾
 
 ***“And when the word {of judgment} falls upon them, We shall bring them
 an Animal from the earth who shall speak to them that the people had no
@@ -83,22 +71,14 @@ is among the events which precede the Day of Resurrection.[^4]
 shall be mustered and not only a specific group from every community.
 Regarding the mustering of all human beings, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-"ذلك يوم مجموع له الناس."
-  </p>
-</blockquote>
+> "ذلك يوم مجموع له الناس."
 
 ***“That is a day on which all mankind will be gathered.”***[^5]
 
 And in another place, it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً
-وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً
+> وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا ﴾
 
 ***“The day We shall set the mountains moving and you will see the earth
 in full view, We shall muster them, and We will not leave out anyone of
@@ -111,12 +91,8 @@ gathered, and not only a specific group.
 mustering of a particular group from every community, and not all human
 beings, as is stated below:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ
-بِآيَاتِنَا فَهُمْ يُوزَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ
+> بِآيَاتِنَا فَهُمْ يُوزَعُونَ ﴾
 
 ***“That day We shall resurrect from every nation a group of those who
 denied Our signs, and they shall be held in check.”***[^7]
@@ -140,22 +116,14 @@ this fact, and for the sake of brevity we quote only two of their
 sayings:  
  Imam as-Sadiq (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-أيام الله ثلاثة: يوم القائم ويوم الكرّة ويوم القيامة.
-  </p>
-</blockquote>
+> أيام الله ثلاثة: يوم القائم ويوم الكرّة ويوم القيامة.
 
 “The Days of Allah are three: the day of (uprising of) Hadrat al-Qa’im
 (Imam al-Mahdi) (*‘a*), the day of ‘return’ and the Day of
 Resurrection.”  
  He (*‘a*) also says:
 
-<blockquote dir="rtl">
-  <p>
-ليس منّا من لم يؤمن بكرّتنا.
-  </p>
-</blockquote>
+> ليس منّا من لم يؤمن بكرّتنا.
 
 “He who does not believe in our ‘return’ does not belong to us.”  
  At this juncture, it is proper to highlight two important points:
@@ -217,5 +185,4 @@ vol. 9, “bab” 8, chap. 1, p. 3: فلون تعلقت نفس منسلخة بب
 جنيناً أو غير ذلك يزلم كون أحدهما بالقوة والأخر بالفعل وكون الشئ بما هو
 بالفعل والقوة. وذلك ممتنع لأن التركيب بينهما طبيعي وإتحادي التركيب
 الطبيعي يستحيل بين أمرين أحدهما بالفعل والأخر بالقوة.
-
 

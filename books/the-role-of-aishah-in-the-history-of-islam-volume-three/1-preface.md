@@ -59,7 +59,5 @@ Mu'awiyah and his lineage as they were, and bring this discussion to an
 end for God's satisfaction and with the motive of propagation of
 knowledge.
 
-
 Sayyid Murtada 'Askari
-
 

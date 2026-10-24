@@ -248,19 +248,11 @@ attraction must go together. Nothing can be accomplished from effort
 without attraction, just as being drawn where there is no effort will
 not reach its aim.
 
-<blockquote dir="rtl">
-  <p>
-حبًّ الشَّىءِ يعمِى وَيُصِمُّ
-  </p>
-</blockquote>
+> حبًّ الشَّىءِ يعمِى وَيُصِمُّ
 
 Love of anything brings a blindness and a deafness.
 
-<blockquote dir="rtl">
-  <p>
-وَمَن عَشَقَ شَيئَ أَعْشَ بَصَرَهُ وَ اَمرَضَ قَلْبَهُ
-  </p>
-</blockquote>
+> وَمَن عَشَقَ شَيئَ أَعْشَ بَصَرَهُ وَ اَمرَضَ قَلْبَهُ
 
 Anyone who loves something, his sight becomes defective and his heart
 sick.[^8]
@@ -359,5 +351,4 @@ his beloved, is heedless of the beloved's defects:
 [^7]: . Adapted from Nicholson's translation of Rumi, Mathnavi, bk.1
 
 [^8]: Nahju 'l-balaghah.
-
 

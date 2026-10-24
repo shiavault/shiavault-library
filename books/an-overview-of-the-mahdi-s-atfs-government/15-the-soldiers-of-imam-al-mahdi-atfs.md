@@ -232,7 +232,6 @@ the
 
 hadith
 
-  
 in question) with the present geographical map of the world, it can be
 concluded perhaps that the supporters of the Imam are scattered
 throughout the world and it is possible that the word “
@@ -242,7 +241,6 @@ throughout the world and it is possible that the word “
 
 afranjah
 
-  
 ” mentioned in the
 
 *  
@@ -250,7 +248,6 @@ afranjah
 
 hadith
 
-  
 refers to the western hemisphere. If this collation and statement were
 correct, the
 
@@ -259,7 +256,6 @@ correct, the
 
 hadith
 
-  
 will become meaningful with the dictum,
 
 **  
@@ -293,7 +289,6 @@ will become meaningful with the dictum,
 **
 .
 
-  
 It is because at no time will the earth be devoid of good men;
 otherwise, it will come to an end.
 
@@ -513,7 +508,6 @@ adiq (
 
 ‘a
 
-  
 ) said: “Najm ibn A‘yun is among those who will engage in
 
 *  
@@ -521,7 +515,6 @@ adiq (
 
 jihad
 
-  
 after their
 
 *  
@@ -529,7 +522,6 @@ after their
 
 raj‘ah
 
-  
 (return to life).”
 
 [^43]  
@@ -563,7 +555,6 @@ sermons to the people
 **
 ”)
 
-  
 between
 
 Saf
@@ -603,7 +594,6 @@ i
 *
 th
 
-  
 , the late
 
 A
@@ -660,7 +650,6 @@ i interprets
 **
 ”
 
-  
 as “striking the people with the sword”.
 
 Similarly, Imam as-Sadiq (*‘a*) looked at Dawud Raqi[^47] and said:
@@ -1491,5 +1480,4 @@ vol. 2, p. 189.
 Bihar al-Anwar, vol. 52, p. 327.
 
 [^92]: Mustadrak al-Wasa’il, vol. 11, p. 114.
-
 

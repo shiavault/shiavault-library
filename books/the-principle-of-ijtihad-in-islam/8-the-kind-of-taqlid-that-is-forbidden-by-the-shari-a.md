@@ -51,4 +51,3 @@ of the divine Book except a string of imaginary beliefs [about it] and
 such things as they wished to believe, and that they had gone after
 surmise and illusion.
 
-

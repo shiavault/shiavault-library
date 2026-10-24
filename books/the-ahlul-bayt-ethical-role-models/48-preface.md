@@ -31,4 +31,3 @@ the Lord, the Prophet (S), the Sinless Imams (a), the scholars,
 teachers, students, parents, sons, spouses, relatives, and the other
 social rights that the reader will notice in the book.
 
-

@@ -3,11 +3,7 @@ Lesson One Hundred Twenty Four: Take Counsel To Be Guided!
 
 Imam Hasan (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-ما تَشاوَرَ قَوْمٌ إلاّ هُدُوا إلى رُشْدِهِمْ
-  </p>
-</blockquote>
+> ما تَشاوَرَ قَوْمٌ إلاّ هُدُوا إلى رُشْدِهِمْ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ illuminate any darkness. Let us all decide to adopt the practice of
 always consulting with informed and intelligent persons.
 
 [^1]: Tuhaful Uqul, page 164
-
 

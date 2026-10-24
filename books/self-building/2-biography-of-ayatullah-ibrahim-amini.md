@@ -89,4 +89,3 @@ Assembly of Ahlul Bayt (a.s.)
 to jurisprudence in the form of lectures, beyond the limited boundaries
 of textbooks.
 
-

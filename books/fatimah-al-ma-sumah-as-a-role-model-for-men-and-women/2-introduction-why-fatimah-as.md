@@ -110,4 +110,3 @@ become for us 'the pioneer who would not fail his folks' and the role
 model whom we should imitate and follow in our Islamic lives, men and
 women together.
 
-

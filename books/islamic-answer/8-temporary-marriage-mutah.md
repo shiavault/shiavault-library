@@ -686,4 +686,3 @@ prophet(p.)
 
 150. zayn zaynah short of zayn ul-abidin(a.) i.e., who adores worship
 
-

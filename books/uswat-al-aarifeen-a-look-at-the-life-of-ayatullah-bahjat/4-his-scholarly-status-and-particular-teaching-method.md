@@ -322,4 +322,3 @@ Although the mentor was teaching at his house in order to shun fame,
 many students benefited and are still benefiting from his company, and
 many of them earned the degree of *ijtihad*.
 
-

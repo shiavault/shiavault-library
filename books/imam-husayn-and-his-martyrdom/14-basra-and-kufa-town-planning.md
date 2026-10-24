@@ -27,4 +27,3 @@ wide; and even the little lanes for pedestrians were regulated to a
 width of 10.5 feet. Kufa became a centre of light and learning. The
 Khalifa Hazrat ‘Ali lived and died there.
 
-

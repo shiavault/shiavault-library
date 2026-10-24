@@ -31,4 +31,3 @@ our statements, surely they would follow us."
 
 Ma'ani-ul-Akhbar, p.180 & 'Uyun-il-Akhbar-ir-Ridha’, vol.1, p. 207
 
-

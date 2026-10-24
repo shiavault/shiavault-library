@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ مَعَ الَّذِينَ اتَّقَوا وَ الَّذِينَ هُم مُحسِنُونَ
-  </p>
-</blockquote>
+> إنَّ اللهَ مَعَ الَّذِينَ اتَّقَوا وَ الَّذِينَ هُم مُحسِنُونَ
 
 *(Surely Allah is with those who guard (against evil) and those who do
 good (to others).*[^1]
 
 Imam 'Ali (a.s.) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عاَتِب اَخاَكَ بِالإِحساَنِ اِلَيهِ
-  </p>
-</blockquote>
+> عاَتِب اَخاَكَ بِالإِحساَنِ اِلَيهِ
 
 *(Admonish your brother (in faith) by exhibiting kindness towards
 him.)*[^2]
@@ -267,5 +259,4 @@ pg. 554.
 الْمُحسِنِين
 
 [^11]: Taareekh-e-Anbiya, pg. 334-347.
-
 

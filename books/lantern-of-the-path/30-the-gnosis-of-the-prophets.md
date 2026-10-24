@@ -27,4 +27,3 @@ in ignorance of their being specially selected by Allah, and you will
 have dropped below the level of the truths of belief and gnosis. So take
 care, and take care again.
 
-

@@ -39,4 +39,3 @@ theories: science owes a great deal more to Arab culture; It owes its
 very existence. Science is the most momentous contribution of Arab (i.e.
 Muslim) civilization to the modern world”.
 
-

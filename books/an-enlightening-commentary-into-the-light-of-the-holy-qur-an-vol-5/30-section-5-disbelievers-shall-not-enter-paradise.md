@@ -8,14 +8,10 @@ receive.
 Surah Al-‘A’raf, Verse 40
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَاسْتَكْبَرُواْ عَنْهَا لاَ
-تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاء وَلاَ يَدْخُلُونَ الْجَنَّةَ
-حَتَّى يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ وَكَذَلِكَ نَجْزِي
-الْمُجْرِمِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَاسْتَكْبَرُواْ عَنْهَا لاَ
+> تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاء وَلاَ يَدْخُلُونَ الْجَنَّةَ
+> حَتَّى يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ وَكَذَلِكَ نَجْزِي
+> الْمُجْرِمِينَ
 
 **40.** ***"Verily those who belie Our Signs and, turn away from them
 with arrogance, the gates of the heaven shall not be opened to them, nor
@@ -65,12 +61,8 @@ recited; at dawn; and at the time of calling to prayer."*[^2]
 Surah Al-‘A’raf, Verse 41
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ وَكَذَلِكَ
-نَجْزِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ وَكَذَلِكَ
+> نَجْزِي الظَّالِمِينَ
 
 **41.** ***"For them shall be a bed of Hell-Fire and from above them
 coverings (of it); and thus do We recompense the unjust."***
@@ -109,13 +101,9 @@ The verse says:
 Surah Al-‘A’raf, Verse 42
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ لاَ نُكَلِّفُ نَفْسًا
-إِلاَّ وُسْعَهَا أُوْلَـئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا
-خَالِدُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ لاَ نُكَلِّفُ نَفْسًا
+> إِلاَّ وُسْعَهَا أُوْلَـئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا
+> خَالِدُونَ
 
 **42.** ***"And those who believe and do righteous deeds -We do not
 impose upon anyone a duty but to the extent of his ability -these are
@@ -156,15 +144,11 @@ do it, although we have not applied our entire abilities.
 Surah Al-‘A’raf, Verse 43
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ تَجْرِي مِن تَحْتِهِمُ
-الأَنْهَارُ وَقَالُواْ الْحَمْدُ لِلّهِ الَّذِي هَدَانَا لِهَـذَا
-وَمَا كُنَّا لِنَهْتَدِيَ لَوْلا أَنْ هَدَانَا اللّهُ لَقَدْ جَاءتْ
-رُسُلُ رَبِّنَا بِالْحَقِّ وَنُودُواْ أَن تِلْكُمُ الْجَنَّةُ
-أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ تَجْرِي مِن تَحْتِهِمُ
+> الأَنْهَارُ وَقَالُواْ الْحَمْدُ لِلّهِ الَّذِي هَدَانَا لِهَـذَا
+> وَمَا كُنَّا لِنَهْتَدِيَ لَوْلا أَنْ هَدَانَا اللّهُ لَقَدْ جَاءتْ
+> رُسُلُ رَبِّنَا بِالْحَقِّ وَنُودُواْ أَن تِلْكُمُ الْجَنَّةُ
+> أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ
 
 **43.** ***"And we will remove whatever rancor be in their breasts; the
 rivers shall flow beneath their abodes and they will say: 'All praise be
@@ -210,14 +194,10 @@ imaginations.
 Surah Al-‘A’raf, Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَى أَصْحَابُ الْجَنَّةِ أَصْحَابَ النَّارِ أَن قَدْ وَجَدْنَا
-مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ
-حَقًّا قَالُواْ نَعَمْ فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَن لَّعْنَةُ
-اللّهِ عَلَى الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَنَادَى أَصْحَابُ الْجَنَّةِ أَصْحَابَ النَّارِ أَن قَدْ وَجَدْنَا
+> مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ
+> حَقًّا قَالُواْ نَعَمْ فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَن لَّعْنَةُ
+> اللّهِ عَلَى الظَّالِمِينَ
 
 **44.** ***"And the inhabitants of Paradise will call to the inhabitants
 of the (Hell) Fire: 'We have found what our Lord promised us true; have
@@ -271,12 +251,8 @@ The court of Hereafter upon disbelievers will end with the motto saying:
 Surah Al-‘A’raf, Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللّهِ وَيَبْغُونَهَا عِوَجًا وَهُم
-بِالآخِرَةِ كَافِرُونَ
-  </p>
-</blockquote>
+> الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللّهِ وَيَبْغُونَهَا عِوَجًا وَهُم
+> بِالآخِرَةِ كَافِرُونَ
 
 **45.** ***"The unjust are those who hinder (people) from Allah’s***
 ***way and seek to make it crooked, and who are disbelievers in the
@@ -308,13 +284,9 @@ he deviates the way and creates some changes alongside the path.
 Surah Al-‘A’raf, Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَبَيْنَهُمَا حِجَابٌ وَعَلَى الأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلاًّ
-بِسِيمَاهُمْ وَنَادَوْاْ أَصْحَابَ الْجَنَّةِ أَن سَلاَمٌ عَلَيْكُمْ
-لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ
-  </p>
-</blockquote>
+> وَبَيْنَهُمَا حِجَابٌ وَعَلَى الأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلاًّ
+> بِسِيمَاهُمْ وَنَادَوْاْ أَصْحَابَ الْجَنَّةِ أَن سَلاَمٌ عَلَيْكُمْ
+> لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ
 
 **46.** ***"And between the two (groups in Paradise and Hell) there
 shall be a veil. And on A'raf (the heights) there shall be men,
@@ -374,12 +346,8 @@ commentators and in Islamic narrations.
 Surah Al-‘A’raf, Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا صُرِفَتْ أَبْصَارُهُمْ تِلْقَاء أَصْحَابِ النَّارِ قَالُواْ
-رَبَّنَا لاَ تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَإِذَا صُرِفَتْ أَبْصَارُهُمْ تِلْقَاء أَصْحَابِ النَّارِ قَالُواْ
+> رَبَّنَا لاَ تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
 
 **47.** ***"And when their eyes shall be turned toward the inhabitants
 of the Fire, they shall say: 'Our Lord! Place us not with the unjust
@@ -414,5 +382,4 @@ amongst the unjust people.
 [^4]: Tafsir Al-Mizan
 
 [^5]: Tafsir-i-Al-Mizan
-
 

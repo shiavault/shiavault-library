@@ -73,4 +73,3 @@ liberation movements and to suppress the Islamic reawakening movement
 which has given them and other unpopular regimes a strong cause for
 worry.
 
-

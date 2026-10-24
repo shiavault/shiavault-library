@@ -16,4 +16,3 @@ Habib bin Mudhahir said stormily:
 *Donkey! Will Allah accept your prayers, but won't accept the prayers of
 the Prophet's grandson?*
 
-

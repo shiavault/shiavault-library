@@ -59,4 +59,3 @@ an-Nabi, p. 273.
 
 [^4]: Makarim al Akhlaq, vol. 1, p. 25.
 
-

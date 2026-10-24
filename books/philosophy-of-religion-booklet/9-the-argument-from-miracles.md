@@ -36,4 +36,3 @@ always, therefore, be more likely that the testimony of a witness to a
 miracle is false than that it is true. So, at least, goes the Humean
 argument.
 
-

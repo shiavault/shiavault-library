@@ -82,4 +82,3 @@ Imams to any claim on the Imamate.
 
 [^3]: See Bihar-ul-Anwar Vol.46, P. 338, Tradition 27
 
-

@@ -75,4 +75,3 @@ can extract his soul from his body then returns it any time he wants.
 This is regarded as one of the lofty stations the Gnostics can reach
 along the trip to the path and the Gnostic conduct."
 
-

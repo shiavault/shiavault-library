@@ -113,4 +113,3 @@ entire religious set-up which emphasizes this objective.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 22, pg. 389
 
-

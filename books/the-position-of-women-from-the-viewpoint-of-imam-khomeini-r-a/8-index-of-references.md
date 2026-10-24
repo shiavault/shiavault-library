@@ -1827,4 +1827,3 @@ female teachers
 women  
 *Sahifa-yi Nur* Volume 13, page 68
 
-

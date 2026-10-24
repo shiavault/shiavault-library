@@ -156,4 +156,3 @@ or are we also responsible?
  5. To do away with social inequalities, does a correct way exist? What
 duty do we have towards the deprived?
 
-

@@ -24,4 +24,3 @@ his eternal home.
 
 10- Shaykh Ahmad Sarhandī, Maktūbāt (9:173\#123).
 
-

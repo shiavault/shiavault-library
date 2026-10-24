@@ -1,11 +1,7 @@
 Surah Al-'A'raf Chapter 7, Introduction
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 **In The Name of Allah, The Beneficent, The Merciful**
 
@@ -34,5 +30,4 @@ narrated from Imam Sadiq (as) who said:
 
 *"Whoever recites Surah Al-'A'raf every month, will be among those that
 no fear shall be upon them, nor shall they grieve."*
-
 

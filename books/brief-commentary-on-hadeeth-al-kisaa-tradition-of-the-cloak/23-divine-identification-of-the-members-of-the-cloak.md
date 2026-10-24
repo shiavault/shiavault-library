@@ -1,13 +1,9 @@
 Divine Identification of The Members of The Cloak
 =================================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ الأَمِينُ جِبرائِيلُ : يا رَبِّ وَ مَنْ تَحتَ الكِساءِ ؟ فَقالَ
-عَزَّ وَجَلَّ : هُم أَهلُ بَيتِ النُّبُوَّةِ وَ مَعدِنُ الرِّسالَةِ
-هُم فاطِمَةُ وَ أَبُوها ، وَ بَعلُها وَ بَنوها
-  </p>
-</blockquote>
+> فَقالَ الأَمِينُ جِبرائِيلُ : يا رَبِّ وَ مَنْ تَحتَ الكِساءِ ؟ فَقالَ
+> عَزَّ وَجَلَّ : هُم أَهلُ بَيتِ النُّبُوَّةِ وَ مَعدِنُ الرِّسالَةِ
+> هُم فاطِمَةُ وَ أَبُوها ، وَ بَعلُها وَ بَنوها
 
 **Gabriel the Honest Archangel asked, "O my Lord! Who are those under
 the cloak?"**
@@ -85,11 +81,7 @@ former after hearing the words of Allah (SWT) in their regards, then
 accepting the latter is natural and necessary. After all, Allah (SWT)
 reminds us in the Qur’an that
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
-  </p>
-</blockquote>
+> اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
 
 ***Allah knows best knows where He places His message. (6:124)***
 
@@ -161,12 +153,8 @@ recommended for the acceptance of prayers after sending benedictions to
 the purified household through her name, as narrated by Ibn Tawoos via
 the infallible Imam (AS):
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على فاطمة وأبيها وبعلها وبنيها والسر العظيم المستودع فيها أن
-تصلي على محمد وأل محمد وتفعل بي ما أنت أهله ولا تفعل بي ما أنا أهله.
-  </p>
-</blockquote>
+> اللهم صلي على فاطمة وأبيها وبعلها وبنيها والسر العظيم المستودع فيها أن
+> تصلي على محمد وأل محمد وتفعل بي ما أنت أهله ولا تفعل بي ما أنا أهله.
 
 *"O Allah, I beseech you in the name of Fatima, her father, her husband,
 her sons, and the secret she is buried with: shower your blessings upon
@@ -209,5 +197,4 @@ of the word *Baneeha* indicates that all the sons of Lady Fatima (AS),
 Hasan and Husain, as well as her grandsons from the lineage of Imam
 Husain (AS) are included with the members of the cloak, by virtue of
 their divinely bestowed infallibility.
-
 

@@ -285,4 +285,3 @@ Now it is up to you, reader, to choose one of these two ways.
 
 \*\*\*\*
 
-

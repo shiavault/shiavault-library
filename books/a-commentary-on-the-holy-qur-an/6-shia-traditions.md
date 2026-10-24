@@ -922,4 +922,3 @@ Seyyed Abdul Hadi Al Husainy Al-Meelani (Mash'ad). See the copies of the
 verdict of the above Mujtahids of Najafe Ashof and Mash'ade Muqaddas at
 the end of the section.
 
-

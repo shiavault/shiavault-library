@@ -25,4 +25,3 @@ indicates the meaning of a derived noun, for example: **رأیت قائداً
 أسد**اً, and lion here means brave. The epithet must follow the word it
 is describing in number and gender.
 
-

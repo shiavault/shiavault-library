@@ -120,4 +120,3 @@ introduced. The Holy Prophet said "Bani Israel, prophets were leading
 them; when a prophet died another prophet succeeded him. But after me
 there is no prophet, and surely there will be Caliphs".
 
-

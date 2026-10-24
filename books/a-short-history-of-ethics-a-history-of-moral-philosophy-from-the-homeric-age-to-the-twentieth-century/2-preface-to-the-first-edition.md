@@ -51,4 +51,3 @@ secretarial help.
 
 ALASDAIR MACINTYRE
 
-

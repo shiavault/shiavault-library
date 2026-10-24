@@ -64,4 +64,3 @@ Nu'ayman had done and did not show any signs of being upset. "[^4]
 
 [^4]: Bihar al-Anwar, vol. 16, p. 296.
 
-

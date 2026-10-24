@@ -101,4 +101,3 @@ Thus, for these people, all are same: The Holy Prophet (S) and Abu
 Sufyan, Muawiyah and His Eminence, Ali (a.s.). They are all equal in the
 view of those who have no spirituality.
 
-

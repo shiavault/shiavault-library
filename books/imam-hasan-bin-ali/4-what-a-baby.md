@@ -38,4 +38,3 @@ That was the first phase of the Islamic rituals in honouring Imam Hasan
 Al-Majalis al-Saniyyah (Bright Assemblies), vol.2, Sayyid Muhsin
 al-Ameen al-Amili, Life of Imam Hasan (as).
 
-

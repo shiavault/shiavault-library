@@ -196,4 +196,3 @@ than for the rest of the believers.*** **(Qur'an, 33:50)**
  Thus do we see that each of these marriages had some solid reasons
 behind it; passion and lust were not among them.
 
-

@@ -63,4 +63,3 @@ which no other book contains. We have dedicated a complete chapter to
 those who interpret it; it is Chapter 8, pages 44 to 130 of the second
 edition, where these matters are explained in detail.
 
-

@@ -18,4 +18,3 @@ name Fatima.”
 Yes, one of the important affairs of Islam is the naming of children,
 which the prophet (saw) has mentioned as their right.
 
-

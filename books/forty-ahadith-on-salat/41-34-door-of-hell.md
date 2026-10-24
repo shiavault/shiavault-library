@@ -1,12 +1,8 @@
 34. Door of Hell 
 =================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): مَنْ تَرَكَ الصَّلاَةَ مُتَعَمِّداً كُتِبَ
-إِسْمُهُ عَلى بَابِ النَّارِ مِمَّنْ يَدْخُلُهَا.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): مَنْ تَرَكَ الصَّلاَةَ مُتَعَمِّداً كُتِبَ
+> إِسْمُهُ عَلى بَابِ النَّارِ مِمَّنْ يَدْخُلُهَا.
 
    
  The Noble Prophet (peace be upon him and his progeny) has said: “The
@@ -16,5 +12,4 @@ door of Hell from which he shall (eventually) enter.”** **
     
     
   
-
 

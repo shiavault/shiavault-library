@@ -21,25 +21,17 @@ Islam recognises three kinds of possessions.
 (a) Private Possession
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ
-بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ
-وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا 
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ
+> بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ
+> وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا
 
 ***"O ye who believe!*** ***Eat not your property among yourselves in
 vanities: but let there be amongst you traffic and trade by mutual good
 will." ( Qur'an, 4:29)***
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ لَمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِنَ اللَّهِ وَرَسُولِهِ ۖ
-وَإِنْ تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا
-تُظْلَمُونَ 
-  </p>
-</blockquote>
+> فَإِنْ لَمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِنَ اللَّهِ وَرَسُولِهِ ۖ
+> وَإِنْ تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا
+> تُظْلَمُونَ
 
 ***"But if ye turn back, ye shall have your capital sums: deal not
 unjustly and ye shall not be dealt with unjustly ?" ( Qur'an, 2:279)***
@@ -73,12 +65,8 @@ There are specific sources of income to this economic sector, like the
 so-called (Dead land). The evidence of this in the Qur'an is the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْأَنْفَالِ ۖ قُلِ الْأَنْفَالُ لِلَّهِ
-وَالرَّسُولِ ۖ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْأَنْفَالِ ۖ قُلِ الْأَنْفَالُ لِلَّهِ
+> وَالرَّسُولِ ۖ
 
 ***"They ask you concerning "Anfal" (accessions) say "Anfal" is at the
 disposal of God and the Apostle. " (Qur'an, 8:1)***
@@ -87,5 +75,4 @@ The Prophet is mentioned here as a representative of the Islamic
 Government. The ways in which this wealth is used are many. One of the
 basic channels is helping poor people to work, by offering small capital
 or building a factory for their employment.
-
 

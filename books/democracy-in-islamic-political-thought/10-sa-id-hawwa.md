@@ -178,4 +178,3 @@ are embodied is the positive co-ordinate that is the sum of two
 negatives that individually negate all such values and conditions: the
 negative of servitude and the negative of enslavement.'[^63]
 
-

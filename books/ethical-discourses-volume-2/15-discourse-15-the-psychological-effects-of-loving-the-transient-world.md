@@ -1,18 +1,14 @@
 Discourse 15: The Psychological Effects Of Loving The Transient World
 =====================================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إِبْنِ عَـبَّاسِ قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ يَقُولُ: إِنَّهُ
-مَا سَكَنَ حُبُّ الدُّنْـيَا قَلْبَ عَبْدٍ إِلاَّ إِلْـتَاطَ فِيهَا
-بِثَلاَثِ: شُغْلُ لاَ يَنْفَدُ عَنَاؤُهُ وَ فَقْرُ لاَ يُدْرِكُ
-غِـنَاهُ وَ أَمَلُ لاَ يَـنَالُ مُنْـتَهَاهُ. أَلاَ إِنَّ الدُّنْـيَا
-وَ الآخِرَةَ طَالِـبَتَانِ وَ مَطْـلُوبَتَانِ، فَطَالِبُ الآخِرَةِ
-تَطْـلُـبُهُ الدُّنْـيَا حَتَّى يَسْتَكْمِلَ رِزْقَهُ وَ طَالِبُ
-الدُّنْـيَا تَطْـلُـبُهُ الآخِرَةُ حَتَّى يَأْخُذَهُ الْمَوْتُ
-بَغْـتَةً.
-  </p>
-</blockquote>
+> عَنْ إِبْنِ عَـبَّاسِ قَالَ: سَمِعْتُ رَسُولَ اللٌّهِ يَقُولُ: إِنَّهُ
+> مَا سَكَنَ حُبُّ الدُّنْـيَا قَلْبَ عَبْدٍ إِلاَّ إِلْـتَاطَ فِيهَا
+> بِثَلاَثِ: شُغْلُ لاَ يَنْفَدُ عَنَاؤُهُ وَ فَقْرُ لاَ يُدْرِكُ
+> غِـنَاهُ وَ أَمَلُ لاَ يَـنَالُ مُنْـتَهَاهُ. أَلاَ إِنَّ الدُّنْـيَا
+> وَ الآخِرَةَ طَالِـبَتَانِ وَ مَطْـلُوبَتَانِ، فَطَالِبُ الآخِرَةِ
+> تَطْـلُـبُهُ الدُّنْـيَا حَتَّى يَسْتَكْمِلَ رِزْقَهُ وَ طَالِبُ
+> الدُّنْـيَا تَطْـلُـبُهُ الآخِرَةُ حَتَّى يَأْخُذَهُ الْمَوْتُ
+> بَغْـتَةً.
 
 It has been narrated from Ibne ‘Abbas that he said: “I heard the
 Messenger of Allah (S) say: 'The one who is plagued with love of the
@@ -47,12 +43,8 @@ these are three spiritual inconveniences.”[^2]
 Almost the same phrase is mentioned in Nahj al-Balagha where it is
 mentioned:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَهِجَ قَلْـبُهُ بِحُبِّ الدُّنْـيَا، إِلْتَاطَ قَلْـبُهُ مِنْهَا
-بِثَلاَثٍ…
-  </p>
-</blockquote>
+> مَنْ لَهِجَ قَلْـبُهُ بِحُبِّ الدُّنْـيَا، إِلْتَاطَ قَلْـبُهُ مِنْهَا
+> بِثَلاَثٍ…
 
 “The one whose heart is taken over by love of the transient world will
 have his heart overcome by three things…”[^3]
@@ -97,11 +89,7 @@ spiritual challenges have increased! A prime example is that long
 journeys are now made in a short period of time. In the past it used to
 be said:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّفَرُ قِطْعَةٌ مِنَ السَّقَرِ.
-  </p>
-</blockquote>
+> أَلسَّفَرُ قِطْعَةٌ مِنَ السَّقَرِ.
 
 “Traveling is a fragment of the hell.”
 
@@ -145,11 +133,7 @@ may begin to level insults against Islam and even against things held
 sacred in Islam! It is for this reason that we are told in a tradition
 that:
 
-<blockquote dir="rtl">
-  <p>
-آخِرُ مَا يَخْرُجُ مِنْ قُلُوبِ الصِّدِّيقِينَ حُبُّ الْجَاهِ.
-  </p>
-</blockquote>
+> آخِرُ مَا يَخْرُجُ مِنْ قُلُوبِ الصِّدِّيقِينَ حُبُّ الْجَاهِ.
 
 “The final thing to leave the heart of the truthful people (as-Siddiqin)
 is the love of status and position.”
@@ -203,11 +187,7 @@ of sincerity, intimacy and honesty would be brought about.
 
 In the traditions, we are told that the Prophet (S) was:
 
-<blockquote dir="rtl">
-  <p>
-طَبِيبٌ دَوَّارٌ بِطِبِّهِ.
-  </p>
-</blockquote>
+> طَبِيبٌ دَوَّارٌ بِطِبِّهِ.
 
 “A (spiritual) doctor, treating patients with his medication.”
 
@@ -226,13 +206,9 @@ opposite of one another in the court fighting against one another!
 Without doubt, the source of all these sins is love of the material
 world. In these regards, the Noble Qur\`an has told us that:
 
-<blockquote dir="rtl">
-  <p>
-زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَآءِ وَ الْبَنِينَ وَ
-الْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَ الْفِضَّةِ وَ
-الْخَـيْلِ الْمُسَوَّمَةِ وَ الأََنْعَامِ
-  </p>
-</blockquote>
+> زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَآءِ وَ الْبَنِينَ وَ
+> الْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَ الْفِضَّةِ وَ
+> الْخَـيْلِ الْمُسَوَّمَةِ وَ الأََنْعَامِ
 
 “The love of desires, women, sons, hoarded treasures of gold and silver,
 well bred horses, cattle and tilth is made to seem fair to people…”[^4]
@@ -262,5 +238,4 @@ distract us are many! !
 [^3]: Nahj al-Balagha, Short saying 228
 
 [^4]: Surat ale Imran (3), verse 14
-
 

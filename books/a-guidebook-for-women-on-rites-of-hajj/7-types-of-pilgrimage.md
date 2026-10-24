@@ -32,4 +32,3 @@ but a cooked thing cannot become raw.
 If while performing *Umra* the body made the soul do *tawaf* then during
 the pilgrimage the soul should guide the body during *tawaf.*
 
-

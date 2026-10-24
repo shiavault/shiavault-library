@@ -689,4 +689,3 @@ attention to the sacredness of the pure family of the Prophet whose love
 Allah has made obligatory in His Holy Book. However, we belong to Allah
 and to Him is our return!
 
-

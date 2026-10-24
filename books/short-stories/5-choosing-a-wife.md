@@ -221,4 +221,3 @@ The following week, Zaynab's family paid a visit to Ahmad’s home and
 plans were made for the upcoming wedding. They were soon married and
 there was much rejoicing.
 
-

@@ -498,12 +498,10 @@ while the body of the Prophet (SAW) still on the ground was not yet
 buried. People were astonished. Force was used and terror was applied in
 order to silence them and obtain their acceptance.
 
-
 They conceived of plan in order to give them legitimacy. They decided
 to brand it with the mark of 'EJMA'. A saying from the Prophet (SAW) too
 imputed; "My nation does not gather over wrong nor go astray." If this
 was the ground of legitimacy, then what was the legitimacy for Omar,
 Othman, Mawiya and several others becoming caliphs? Why was the EJMA not
 practicable there or why did they not resort to it? No answer.
-
 

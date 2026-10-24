@@ -200,4 +200,3 @@ as the result of any particular situation.
 
 room for doubt or opposition.
 
-

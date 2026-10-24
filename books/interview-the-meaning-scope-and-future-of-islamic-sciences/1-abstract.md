@@ -11,4 +11,3 @@ Keywords: Islamic Science;*Islamic Sciences* ; Approaches to the Study
 of Islam in Academia; Historical and contemporary approaches to study of
 Islam; Islamic Intellectual Tradition.
 
-

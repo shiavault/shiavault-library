@@ -11,19 +11,11 @@ a tranquil and receptive body, and an appropriate place to recite. When
 his heart fears Allah, then the accursed Satan flees from him. As Allah
 said,
 
-
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
-الرَّجِيمِ
-  </p>
-</blockquote>
-
-
+> فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
+> الرَّجِيمِ
 
 ***When you recite the Qur'an, seek refuge with Allah from the accursed
 Shaytan.*** (16:98)
-
 
 When he frees himself of all attachments, then his heart is devoted to
 recitation, and nothing impedes him from obtaining the blessing of the
@@ -45,20 +37,14 @@ and how you observe His limits, for it is a mighty Book: Falsehood shall
 not come to it from before it nor from behind it,
 *** ***
 
-<blockquote dir="rtl">
-  <p>
-تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
-  </p>
-</blockquote>
+> تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ
 
 *** ***
 
 ***a revelation from the Wise, the Praised One.*** (41:42)
 
-
 Therefore recite it in an orderly manner and contemplatively and adhere
 to the limits of His promise and His threat. Reflect on its examples and
 warnings. Beware of paying undue respect to the recitation of its
 letters while failing to observe the legal limits contained therein.
-
 

@@ -184,4 +184,3 @@ for them from God in both this world and the Hereafter.
  (Birth Date of Imam Mahdi a.t.f.s.)  
  Sayyid Muhammad Hashim Dastghaib**
 
-

@@ -238,4 +238,3 @@ divine path.
 
 5.The Holy Qur'an, Chapter al-A'la, Verse 9.
 
-

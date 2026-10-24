@@ -14,4 +14,3 @@ imitation.  But at the same time they differ from one another in three
 ways, either by a difference of kind in their means, or by differences
 in the objects, or in the manner of their imitations.
 
-

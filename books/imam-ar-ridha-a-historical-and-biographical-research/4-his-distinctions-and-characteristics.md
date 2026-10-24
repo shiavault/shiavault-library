@@ -1222,4 +1222,3 @@ slight textual variation. 
 
 [^35]: Al Kafi, Vol. 5, p. 111. 
 
-

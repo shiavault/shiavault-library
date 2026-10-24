@@ -4,11 +4,7 @@
 In the first verse of Suratul Takwir, regarding the issue of
 Resurrection, we read:
 
-<blockquote dir="rtl">
-  <p>
-إِذاَ الشَّمْسُ کُوِّرَتْ وَ إِِذاَ النُّجُومُ انْکَدَرَتْ
-  </p>
-</blockquote>
+> إِذاَ الشَّمْسُ کُوِّرَتْ وَ إِِذاَ النُّجُومُ انْکَدَرَتْ
 
 ***“When the sun is covered and when the stars darken.”***
 
@@ -77,5 +73,4 @@ circles of the world.[^2]
 Telescope, and Sakhtiman-e-Khurshid
 
 [^2]: Tafsir-e-Namuna, vol. 26, pg. 185
-
 

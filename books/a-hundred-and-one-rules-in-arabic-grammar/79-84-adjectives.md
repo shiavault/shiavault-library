@@ -20,14 +20,11 @@ My house is smaller than hers.  **بَيتي أصغرُ مِنْ بَيتِه�
 **b.** In superlative, the most common method is to place the adjective
 before the noun, as in:
 
-<p dir="rtl">
 **بَيتي أصغرُ بُيتٍ في القريةِ.**
-</p>
 
 My house is the smallest (house) in  the village
 
 *Please remember that the comparative and superlative forms of
 adjectives are gender blind. Therefore,* **أصغرُ** *can be used for
 feminine and masculine nouns as well.*
-
 

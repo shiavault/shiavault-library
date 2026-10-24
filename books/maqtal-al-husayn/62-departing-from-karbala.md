@@ -418,4 +418,3 @@ Al-Maqbula al-Husayniyya.
 Tahir who belongs to the family of the sect's faqih, Shaikh Radi, may
 Allah sanctify him.
 
-

@@ -83,4 +83,3 @@ Biography of Imam ‘Ali
 Vol. 2, 45; Musnad Ahmad ibn Hanbal, Vol. 5, 106; Sunan Abu Dawud, Vol.
 2, 207
 
-

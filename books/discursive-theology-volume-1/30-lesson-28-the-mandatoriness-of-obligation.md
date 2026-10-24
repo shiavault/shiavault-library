@@ -15,12 +15,8 @@ In the lexicon, *taklīf* is derived from *kalafat* which means to be in
 hardship (*mushaqqah*), and technically, it is defined in different
 ways, the most comprehensive of which is as follows:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ بَعْثُ مَنْ تَجِبُ طاعَتُهُ اِبتِداءً عَلى ما فيهِ كُلْفَةٌ
-وَمَشَقَّةٌ.
-  </p>
-</blockquote>
+> إنَّهُ بَعْثُ مَنْ تَجِبُ طاعَتُهُ اِبتِداءً عَلى ما فيهِ كُلْفَةٌ
+> وَمَشَقَّةٌ.
 
 That is to say that *taklīf* means to dispatch and command someone who
 is primarily obligatory to obey to do something coupled with heaviness
@@ -179,11 +175,7 @@ the use of appropriate means and devises. The Holy Qur’an explicitly
 states that God does not oblige anyone with anything which is beyond his
 ability to do:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ يُكَلِّفُ اللّهُ نَفْسًا إِلاَّ وُسْعَهَا ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ يُكَلِّفُ اللّهُ نَفْسًا إِلاَّ وُسْعَهَا ﴾
 
 ***“Allah does not task any soul beyond its capacity.”***[^9]
 
@@ -214,11 +206,7 @@ such a claim. One of these verses is about a group of the hell-dwellers
 in which it is mentioned that in this world they have no ability of
 seeing and hearing the truth:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ مَا كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ ﴾
 
 ***“For they could neither listen, nor did they used to see.”***[^13]
 
@@ -243,12 +231,8 @@ express remorse, saying that had they dealt with the truth reasonably
 (and not out of prejudice and obstinacy), they would not have been among
 the hell-dwellers:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي
-أَصْحَابِ السَّعِيرِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي
+> أَصْحَابِ السَّعِيرِ ﴾
 
 ***“They will further say, ‘Had we but listened or used our
 intelligence, we should not (now) be among the Companions of the Blazing
@@ -260,11 +244,7 @@ and deal with it wisely.
 Some have cited the following verse to support the permissibility, nay
 the occurrence of unbearable obligation:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبَّنَا وَلا تُحَمِّلْنَا مَا لا طَاقَةَ لَنَا بِهِ ﴾
-  </p>
-</blockquote>
+> ﴿ رَبَّنَا وَلا تُحَمِّلْنَا مَا لا طَاقَةَ لَنَا بِهِ ﴾
 
 ***“Our Lord! Lay not upon us what we have no strength to bear!”***[^16]
 
@@ -281,12 +261,8 @@ obligations.[^18]
 Another verse cited to support the notion of permissibility of
 unbearable obligation is this:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلا
-يَسْتَطِيعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلا
+> يَسْتَطِيعُونَ ﴾
 
 ***“The day when the catastrophe occurs, and they are summoned to
 prostrate themselves, they will not be able [to do it].”***[^19]
@@ -295,11 +271,7 @@ This argument is equally incorrect because the Day of Resurrection is
 not the arena of obligation but rather the court of reckoning and
 accountability:
 
-<blockquote dir="rtl">
-  <p>
-اَليَومَ عَمَلٌ وَلا حِسابَ وَغَدًا حِسابٌ وَلا عَمَلَ.
-  </p>
-</blockquote>
+> اَليَومَ عَمَلٌ وَلا حِسابَ وَغَدًا حِسابٌ وَلا عَمَلَ.
 
 “Today is that of action and not reckoning while tomorrow is that of
 reckoning and not action.”[^20]
@@ -388,5 +360,4 @@ Ash‘arī.
 
 [^21]: Al-Mīzān fī Tafsīr al-Qur’ān, vol. 19, p. 385; Al-Kashshāf, vol.
 4, p. 595.
-
 

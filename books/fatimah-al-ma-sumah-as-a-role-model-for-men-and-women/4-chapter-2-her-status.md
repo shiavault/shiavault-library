@@ -479,4 +479,3 @@ makes his opinion quite clear; the controversy which has arisen may
 perhaps be the result of not referring to his words and being misled by
 the term ''ismah takweeniyyah', which has appeared in some of his works.
 
-

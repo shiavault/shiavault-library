@@ -366,4 +366,3 @@ encouraging potential of the civil society. They are to be found among
 the initiators of the*Romanian Forum for European Integration* that
 includes some 60 NGOs.
 
-

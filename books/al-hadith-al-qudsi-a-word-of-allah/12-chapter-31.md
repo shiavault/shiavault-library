@@ -1,11 +1,8 @@
 Chapter 31
 ==========
 
-<p dir="rtl">
 الحديث الحادي والثلاثون‏
-</p>
 
-<p dir="rtl">
 يَا بْنَ آدَمَ!! أُذْكُرْنِي أَسْتَجِبْ لَكُمْ؛ ادْعُونِي بِلاَ
 غَفْلَةٍ أَسْتَجِبْ لَكُمْ بِلاَ مُهْلَةٍ، أُدْعُونِي بِالْقُلُوبِ
 الْخَالِيَةِ أَسْتَجِبْ لَكُمْ بِالدَّرَجَاتِ العَالِيَةِ، أُدْعُونِي
@@ -20,7 +17,6 @@ Chapter 31
 اللَّهِ وَ تُذْنِبُ وَ لاَ تَسْتَغْفِرُ فَأنَّ الاِسْتِغْفَارَ مَعَ
 الْإصْرَارِ تَوْبَةُ الكَاذِبيْنَ وَ مَا رَبُّكَ بِظَلَّام
 لِلْعَبِيْدِ.
-</p>
 
 Almighty Allah says:
 
@@ -42,12 +38,8 @@ commit sins and you don't seek pardon from Allah? Indeed, seeking pardon
 and constantly sinning (at the same time) is the repentance of liars
 (Tawbatul Kazibin), Allah is not unjust to his servants(41:46).
 
-
-<p dir="rtl">
 الحديث الثانى والثلاثون‏
-</p>
 
-<p dir="rtl">
 يَا بْنَ آدَمَ!! أَجَلُكَ يَضْحَكُ بِأَمَلِكَ وَ قَضَائِي يَضْحَكُ مِنْ
 حَذَرِكَ وَ تَقْدِيرِي يَضْحَكُ مِنْ تَدْبِيْرِكَ وَ آخِرَتِي تَضْحَكُ
 مِنْ دُنْيَاكَ وَ قِسْمَتِي تَضْحَكُ مِنْ حِرْصِكَ فَإنَّ رِزْقَكَ
@@ -55,16 +47,12 @@ and constantly sinning (at the same time) is the repentance of liars
 الْخَيْرَ قَبْلَ الْمَوْتِ فَإنَّ رِزْقَكَ لاَ يَأْكُلُهُ غَيْرُكَ
 نَحْنُ قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا
 (الآيَة).
-</p>
 
-<p dir="rtl">
 يَا بْنَ آدَمَ!! الدُّنْيَا مُرُّ عَلى أَوْلِيَائِي لَكِنْ يُحِبُّونَ
 لِقَائِي وَ حُلْوٌ لِأَعْدَائِي وَ لَكِنْ يَكْرَهُونَ لِقَائِي. يَا بْنَ
 آدَمَ!! المَوتُ نَازِلٌ بِكَ وَ إنْ كَرِهْتَ وَ اصْبِرْ لِحُكْمِ رَبِّكَ
 فَإنَّكَ مَبْعُوثٌ فَسَبِّحْ بِحَمْدِ رَبِّكَ حِيْنَ تَقُومُ وَ مِنَ
 اللَّيْلِ فَسَبِّحْهُ وَ إدْبَارَ النُّجُومِ.
-</p>
-
 
 **Chapter 32**
 
@@ -87,12 +75,8 @@ commands, because your are indeed going to be raised. Then declare the
 glory of your Lord and praise Him while you are awake at night and
 declare glory of Him at the time when the stars disappear.
 
-
-<p dir="rtl">
 الحديث الثالث والثلاثون‏
-</p>
 
-<p dir="rtl">
 يَا بْنَ آدَمَ!! تُرِيدُ وَ أُرِيدُ وَ لاَ يَكُونُ إلَّا مَا أُرِيدُ
 فَمَنْ قَصَدَنِي عَرَفَنِي وَ مَنْ عَرَفَني أَرَادَنِي وَ مَنْ
 أَرَادَنِي طَلَبَنِي وَ مَنْ طَلَبَنِي وَجَدَنِي‏ وَ مَنْ وَجَدَنِي
@@ -104,13 +88,10 @@ declare glory of Him at the time when the stars disappear.
 الْإِعْسَارُ وَ الْمَوتُ الْأَسْوَدُ مُخَالِفَةُ النَّفْسِ وَ الْهَوَى
 فَلَا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَنْ سَبِيْلِ اللَّهِ وَ الْمَوتُ
 الْأَبْيَضُ الْعُزْلَةُ.
-</p>
-
 
 **Chapter 33**
 
 Almighty Allah says:
-
 
 O, Son of Adam! you devise plans and I devise plans, but nothing
 happens except what I plan. The one, who tries to reach Me, knows Me.
@@ -126,5 +107,4 @@ others. Yellow death is hunger and hardships. Black death is to disobey
 the desires of your ego. Therefore, do not obey your evil desires,
 otherwise they will take you away from the path of Allah. White death is
 seeking to be hermit (Uzlat).
-
 

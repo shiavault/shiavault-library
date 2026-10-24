@@ -95,4 +95,3 @@ horsemen, Shibth bin Ribi'e took charge of the archers.
 
 *    A flash flood hit me (was dismayed)*
 
-

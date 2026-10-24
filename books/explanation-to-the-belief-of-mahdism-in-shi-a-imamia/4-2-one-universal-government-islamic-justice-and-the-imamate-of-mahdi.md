@@ -137,4 +137,3 @@ view. To link the prophet hood, and Imamate to circumstances and the
 divine outlook of the universe is not reasonable. The outlook of one who
 believes in God shall refute it. It is feeble, flaccid, and fake.
 
-

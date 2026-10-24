@@ -112,7 +112,6 @@ development of the mind.
 
 **3. Seeking the Truth**
 
-
 In any attempt to analyse or contemplate, we must train ourselves to
 seek out the truth. Nothing should be of more importance that this.
 
@@ -213,7 +212,6 @@ succeed.
 It is clear to understand that if we try to live our lives based on
 ignorance and do things hastily, as we feel inclined to, then we will
 surely end up failing in whatever we attempt.
-
 
 **Lesson 2 : Ideology and Doctrine**
 
@@ -367,5 +365,4 @@ important when trying to establish its authenticity.
 
 We will in the course of this text, discuss the issues of knowing God
 and then the Islamic World Outlook.
-
 

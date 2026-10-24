@@ -12,4 +12,3 @@ and inner beauty. Imam Ali married him to his daughter Umm Kulthoom. He
 remained loyal to Imam Hasan and Imam Husayn to the very end. He was
 killed in Karbala at the age 56.
 
-

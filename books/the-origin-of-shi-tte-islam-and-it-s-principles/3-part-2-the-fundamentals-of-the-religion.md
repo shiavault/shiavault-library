@@ -193,4 +193,3 @@ The subject of the monotheism has been divided into several types:
 Attributes of the One God), "tawhid al-af'al" (the Actions of the One
 God). For the sake of brevity we will not dwell on this topic.
 
-

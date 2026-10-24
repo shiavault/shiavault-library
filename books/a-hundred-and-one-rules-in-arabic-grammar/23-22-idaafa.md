@@ -11,17 +11,12 @@ definite article.
 
 **the language professor:**
 
-<p dir="rtl">
 **استاذ ُ اللغةِ    ،    استاذ َ اللغةِ   ،   استاذِ اللغةِ**
-</p>
 
 ** a language professor:  **
 
-<p dir="rtl">
 **استاذ ُ لغةٍ      ،    استاذ َ لغةٍ     ،   استاذ ِ لغةٍ**
-</p>
 
 ***If you encounter a cluster of nouns, then you should try to find out
 if it is an Idaafa structure.***
-
 

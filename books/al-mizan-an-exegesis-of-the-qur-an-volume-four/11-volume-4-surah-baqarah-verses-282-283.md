@@ -114,4 +114,3 @@ mortgage, evidence, etc. There are numerous traditions about these and
 related topics. But the proper place to go into these details are the
 books of jurisprudence. Therefore, we shall not quote them here.
 
-

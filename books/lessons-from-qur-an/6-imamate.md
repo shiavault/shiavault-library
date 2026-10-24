@@ -2905,4 +2905,3 @@ have been an injustice if we had not dealt with the leadership of the
 people and its way and means during the occultation period of our
 present Imam Mahdi.
 
-

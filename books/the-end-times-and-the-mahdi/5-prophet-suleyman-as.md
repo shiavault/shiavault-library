@@ -62,7 +62,6 @@ Allah might place satans and jinns at humanity's beck and call, or that
 humanity will use and benefit greatly from advanced technology at that
 time. (Allah knows best).
 
-
 **Sulayman (as) communicates with a female ant**
 
 (Sulayman) smiled, laughing at its words, and said: 'My Lord, keep me
@@ -490,5 +489,4 @@ pledging their allegiance to him, people will flock to where he resides,
 and everyone who goes there will enjoy the divine plenty. (Ibn Hajar
 al-Haythami, Al-Qawl al-Mukhtasar fi \`Alamat al-Mahdi al-Muntazar, p.
 25)
-
 

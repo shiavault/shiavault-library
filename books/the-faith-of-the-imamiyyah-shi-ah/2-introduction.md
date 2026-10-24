@@ -295,4 +295,3 @@ All-Forgiver and Hearer of prayers.
 **\`Abd al-Karim al-Kirmani**
 **Rajab 15, 1423 AH**
 
-

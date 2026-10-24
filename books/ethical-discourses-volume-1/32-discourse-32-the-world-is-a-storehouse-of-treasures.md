@@ -1,19 +1,15 @@
 Discourse 32: The World is a Storehouse of Treasures
 ====================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَبْدِ اللٌّهِ بْنِ عَبَّاس قَالَ: سَمِعْتُ رَسولَ اللٌّهِ
-يَقُولُ: أَيُّهَا النَّاسُ، بَسْطُ الأَمَلِ مُتَقَدِّمُ حُلُولِ
-الأَجَلِ، وَ الْمَعَادُ مِضْمَارُ الْعَمَلِ، فَمُغْتَبِطٌ بِمَا
-احْتَقَبَ غَانِمٌ، وَ مُتَيَسِّرٌ بِمَافَاتِهِ نَادِمٌ. اَيُّهَا
-النَّاسُ، إِنَّ الطَّمَعَ فَقْرٌ، وَ الْيَأْسَ غَنِيٌ وَ الْقَنَاعَةَ
-رَاحَةٌ، وَ الْعُزْلَةَ عِبَادَةٌ، وَ الْعَمَلَ كَنْزٌ، وَ الدُّنْيَا
-مَعْدِنٌ… فَبَادِرُوا الْعَمَلَ وَ أَنْـتُمْ فِي مَهْلِ الأََنْفَاسِ،
-وَ جِدَّةِ الإِحْلاَسِ، قَبْلَ أَنْ تُأْخَذُوا بِالْكَظْمِ، فَلاَ
-يَنْفَعُ النَّدَمُ.
-  </p>
-</blockquote>
+> عَنْ عَبْدِ اللٌّهِ بْنِ عَبَّاس قَالَ: سَمِعْتُ رَسولَ اللٌّهِ
+> يَقُولُ: أَيُّهَا النَّاسُ، بَسْطُ الأَمَلِ مُتَقَدِّمُ حُلُولِ
+> الأَجَلِ، وَ الْمَعَادُ مِضْمَارُ الْعَمَلِ، فَمُغْتَبِطٌ بِمَا
+> احْتَقَبَ غَانِمٌ، وَ مُتَيَسِّرٌ بِمَافَاتِهِ نَادِمٌ. اَيُّهَا
+> النَّاسُ، إِنَّ الطَّمَعَ فَقْرٌ، وَ الْيَأْسَ غَنِيٌ وَ الْقَنَاعَةَ
+> رَاحَةٌ، وَ الْعُزْلَةَ عِبَادَةٌ، وَ الْعَمَلَ كَنْزٌ، وَ الدُّنْيَا
+> مَعْدِنٌ… فَبَادِرُوا الْعَمَلَ وَ أَنْـتُمْ فِي مَهْلِ الأََنْفَاسِ،
+> وَ جِدَّةِ الإِحْلاَسِ، قَبْلَ أَنْ تُأْخَذُوا بِالْكَظْمِ، فَلاَ
+> يَنْفَعُ النَّدَمُ.
 
 It has been narrated from Abdullah b. 'Abbas: “I heard the Messenger of
 Allah (S) say: 'O' Mankind!  Before death comes to a person, all sorts
@@ -110,11 +106,7 @@ person is his internal and spiritual wealth. Thus, one who possesses
 everything (materialistically) is actually poor, and one who disregards
 wealth and material pleasures of this world is the truly wealthy person:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الطَّمَعَ فَقْرٌ، وَ الْيَأْسَ غِنَىً.
-  </p>
-</blockquote>
+> إِنَّ الطَّمَعَ فَقْرٌ، وَ الْيَأْسَ غِنَىً.
 
 “Surely coveteousness is poverty while contentment is richness.”
 
@@ -123,11 +115,7 @@ this rest and relaxation, then he must do so by searching deep within
 oneself since it is through contentment that a person finds ease and
 comfort:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْقِنَاعَةُ رَاحَةُ.
-  </p>
-</blockquote>
+> وَ الْقِنَاعَةُ رَاحَةُ.
 
 “Contentment breeds comfort.”  
  and it is due to greed that a person is often put through difficulties
@@ -143,11 +131,7 @@ of the sun when normally, most people are asleep. The worship and prayer
 with full attention and presence of the heart in the middle of the night
 gives the heart and soul of a person spiritual energy:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْعُزْلَةُ عِبَادَةٌ.
-  </p>
-</blockquote>
+> وَ الْعُزْلَةُ عِبَادَةٌ.
 
 “…distancing ones' self (from people) is worship…”
 
@@ -168,11 +152,7 @@ From these sentences we can deduce that in reality, the world is not
 something despised and despicable, rather, it is us who have made this
 world something reviled:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْعَمَلَ كَنْزٌ وَ الدُّنْـيَا مَعْدِنٌ.
-  </p>
-</blockquote>
+> وَ الْعَمَلَ كَنْزٌ وَ الدُّنْـيَا مَعْدِنٌ.
 
 “…and (righteous) actions are a treasure, and this world is the mine (of
 treasures)…”  
@@ -182,12 +162,8 @@ which are hidden from people is that of the end of his life. Not a
 single person knows exactly when or where one will die.”  
  In the Qur\`an, we read the following:
 
-<blockquote dir="rtl">
-  <p>
-مَــا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَداً وَ مَا تَدْرِي نَفْسٌ
-بِأَيِّ أَرْضٍ تَمُوتُ
-  </p>
-</blockquote>
+> مَــا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَداً وَ مَا تَدْرِي نَفْسٌ
+> بِأَيِّ أَرْضٍ تَمُوتُ
 
 “And no soul knows that which it will earn tomorrow and no soul knows in
 which land it shall die.”[^3]
@@ -239,11 +215,7 @@ life for a long period as it is possible that when you exhale you may
 never inhale again.”  Therefore, in this short period of time, you must
 work towards righteous actions:
 
-<blockquote dir="rtl">
-  <p>
-فَبَادِرُوا الْعَمَلَ وَ أَنْتُمْ فِي مَهْلِ الأَنْفاسِ.
-  </p>
-</blockquote>
+> فَبَادِرُوا الْعَمَلَ وَ أَنْتُمْ فِي مَهْلِ الأَنْفاسِ.
 
 “Thus while you have the opportunity, strive to perform good deeds even
 if the time remaining for you (on this Earth) is as much as the time
@@ -257,11 +229,7 @@ a cloth from your house - meaning such a short period of time - then you
 must work towards righteous actions since it is very likely that in the
 next instant, your life would come to a close.”
 
-<blockquote dir="rtl">
-  <p>
-وَجِدَّةِ الإِحْلاسِ.
-  </p>
-</blockquote>
+> وَجِدَّةِ الإِحْلاسِ.
 
 “…or the time it takes to mount upon your saddle…”  
  Before the time that you breathe your next breath and do some action
@@ -322,12 +290,8 @@ into the presence of the Most High and see his hands empty (of good
 deeds) and when he is given his book of records in his hand, he will
 scream out, just as it has been mentioned in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-يَا وَيْلَتَنَا مَالِ هٌذَا الْكِتَابِ لاَ يُغَادِرُ صَغِيـرَةً وَ لاَ
-كَبِيـرَةً إِلاَّ أَحْصٌيهَا وَ وَجَدُوا مَا عَمِلُوا حَاضِراً
-  </p>
-</blockquote>
+> يَا وَيْلَتَنَا مَالِ هٌذَا الْكِتَابِ لاَ يُغَادِرُ صَغِيـرَةً وَ لاَ
+> كَبِيـرَةً إِلاَّ أَحْصٌيهَا وَ وَجَدُوا مَا عَمِلُوا حَاضِراً
 
 “Ah!  Woe to us!  What a book is this!  It leaves out nothing small or
 great but takes account thereof!  They will find all that they did
@@ -397,5 +361,4 @@ and the spiritual ears (to hear and understand the truth) as a source of
 inspiration and learning. (Tafsir-e-Namuna, vol. 11, pg. 119)
 
 [^3]: Surat Luqman (31), Verse 34
-
 

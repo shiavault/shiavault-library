@@ -494,4 +494,3 @@ other dies.
 Imam Hussain (pbuh) Says: "The children of Adam carry the mark of death
 like necklaces that adorn the neck of a bride."
 
-

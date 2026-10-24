@@ -752,4 +752,3 @@ Imam al-Hasan (‘a) to call him “the Commander of the Faithful”.
 
 [^9]: Nahj al-Balaghah, sermon 181.
 
-

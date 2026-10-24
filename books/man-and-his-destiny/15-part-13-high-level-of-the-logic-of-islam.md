@@ -304,4 +304,3 @@ Mu’tazilites said was that Allah was not the Creator of infidelity,
 injustice and sin. They never said that He was not the Creator of the
 infidels, the unjust and the sinners.
 
-

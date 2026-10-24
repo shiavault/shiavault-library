@@ -32,4 +32,3 @@ We ask Allah, the Most High, to grant us success to render more
 services. Meanwhile we ask the gentle reader to show his/her suggestions
 about the book. Indeed success is from Allah.
 
-

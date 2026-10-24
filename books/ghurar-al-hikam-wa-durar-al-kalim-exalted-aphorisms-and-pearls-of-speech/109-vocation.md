@@ -16,4 +16,3 @@ immorality.
 [^1]: Another meaning could be: To the extent of deprivation there is
 reward.
 
-

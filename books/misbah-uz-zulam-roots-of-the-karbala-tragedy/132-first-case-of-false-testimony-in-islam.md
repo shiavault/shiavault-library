@@ -115,4 +115,3 @@ does not employ this sense, how can he call himself a human being?
 
 [^1]: Surah Aale Imran 3:61
 
-

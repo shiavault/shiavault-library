@@ -733,4 +733,3 @@ A.D.), praising Him, praying to Him, surrendering to Him, seeking His
 forgiveness. Blessings of Allāh be with Muhammad and the progeny of
 Muhammad, the pure, the righteous.
 
-

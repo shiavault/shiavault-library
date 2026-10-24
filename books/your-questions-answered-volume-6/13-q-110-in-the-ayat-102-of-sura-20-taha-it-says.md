@@ -368,4 +368,3 @@ The burnt sea-shell is not "earth"; and even if one believes it to be
 eating it would not be haram, because what is haram is the eating of
 clay (not of earth). And Allah is the knowing." (Pp.494-495).
 
-

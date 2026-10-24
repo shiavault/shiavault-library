@@ -23,4 +23,3 @@ Trinity, is the idea of the divine names and attributes in which not
 only is there an absence of bias against the feminine, but the feminine
 is dignified as paramount. God's mercy precedes His wrath.25
 
-

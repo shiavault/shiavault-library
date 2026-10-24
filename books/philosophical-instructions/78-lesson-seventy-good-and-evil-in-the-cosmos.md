@@ -280,4 +280,3 @@ with perfect sincerity. And may Your salutations be sent without end for
 Muḥammad and the Family of Muḥammad, salutations whose blessings may
 overflow to include the rest of Your creation.
 
-

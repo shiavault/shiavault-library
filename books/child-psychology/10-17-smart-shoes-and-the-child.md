@@ -51,7 +51,6 @@ do so with the pride and the feel of goodness for the parents from the
 beats of the heart and not grudgingly with the pride for themselves from
 the beats of the regimental (soldier-Iike) foot- steps.
 
-
 **18- Childhood Trauma**
 
 The son aged seven was among the small group of relatives. friends and
@@ -139,5 +138,4 @@ characterised by the death of near and dear ones is enemy because he was
 not let to know about death -as being an avenue of freedom for the soul
 from the interim and constrained mortal life to the eternal blissful
 life.
-
 

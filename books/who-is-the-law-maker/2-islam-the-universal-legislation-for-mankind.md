@@ -72,7 +72,6 @@ guides to Himself him who turns ( to Him) frequently. Sura Al-Shura
 they will lead you away from His way. This He has enjoined you, that you
 may guard (against evil).'' Sura Al-An'am (6:153)
 
-
 **Stages Of The Existence Of Law**
 
 The proof that Islam is the answer for mankind's universal legislation,
@@ -239,7 +238,6 @@ god but He, the Ahnighty, the Wise." Sura AaI-Imran (3:18)
 from Allah's way. They follow but conjecture, and they only lie." Sura
 AI-An'ani (6:116)
 
-
 **A Comparison Between Islamic Law and Secular Law**
 
 It was not novelty in human life or the desire toestablish justice or
@@ -300,5 +298,4 @@ and the like, which are offshoots of. ignorant thinkimz.
 we realize the most important differences which distinguish Islamic or
 Divine Laws from Secular or man-made Laws, and which define their
 respective identities and features are as follows:
-
 

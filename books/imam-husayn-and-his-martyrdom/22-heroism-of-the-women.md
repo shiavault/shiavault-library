@@ -13,4 +13,3 @@ reaching its goal in the precious crown of martyrdom. One of the
 best-known poets of this kind is the Urdu poet Anis, who lived in
 Lucknow, and died in 1874.
 
-

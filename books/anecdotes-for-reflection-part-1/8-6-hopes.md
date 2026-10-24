@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said
 
-<blockquote dir="rtl">
-  <p>
-ذَرْهُمْ ياَكُلُوْا وَ يَتَمَتَّعُوْا وَ يُلْهِهُمُ الْاَمَلُ
-  </p>
-</blockquote>
+> ذَرْهُمْ ياَكُلُوْا وَ يَتَمَتَّعُوْا وَ يُلْهِهُمُ الْاَمَلُ
 
 *(Leave them that they may eat and enjoy themselves and (that) hope may
 beguile them, for they will soon know.)*[^1]
 
 Imam Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-الآماَلُ لاَ تَنْتَهِي
-  </p>
-</blockquote>
+> الآماَلُ لاَ تَنْتَهِي
 
 *(Hopes never come to an end)*[^2]
 
@@ -260,5 +252,4 @@ a few months, he died of plague at the age of forty-nine.[^8]60
 [^7]: Muntahal Aa’maal, vol. 1, pg. 231.
 
 [^8]: Paighambar Wa Yaraan, vol. 5, pg. 272-275.
-
 

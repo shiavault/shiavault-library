@@ -80,4 +80,3 @@ to adequately cover the above rights.
 
 [^2]: The Declaration of Human Rights, Article 25.
 
-

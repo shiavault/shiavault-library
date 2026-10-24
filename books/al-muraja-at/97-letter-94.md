@@ -122,4 +122,3 @@ al-Athar, all testifiying to its authenticity. It is quoted from all of
 them by al-Muttaqi al-Hindi on page 396, Vol. 6, of his book Kanz
 al-’Ummal.
 
-

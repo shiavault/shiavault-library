@@ -737,4 +737,3 @@ Sulayman ibn Ibrahim (AH 1294); revised by Sayyid \`Ali Jamal Ashraf
 al-Husayni, published by Dar al-Uswah, First Edition, 3 volumes, AH
 1416.
 
-

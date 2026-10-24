@@ -62,4 +62,3 @@ January 22, 2001
 from the Seventh Volume of "The Encyclopedia of Amir al-Mu'minin", [The
 Persian translation of the "Mawsu'a"].
 
-

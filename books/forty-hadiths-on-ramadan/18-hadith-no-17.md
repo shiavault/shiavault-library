@@ -10,4 +10,3 @@ livelihood is distributed, the hour of death is ordained and the
 arriving for Hajj is decreed. In it is a night, deeds in which are
 better than deeds in a thousand months.*Al-Kafi, vol. 4, pg. 66*
 
-

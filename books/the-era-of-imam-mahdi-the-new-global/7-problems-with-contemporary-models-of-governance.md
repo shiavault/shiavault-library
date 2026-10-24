@@ -42,7 +42,6 @@ true form of government, the complete and most perfect, as it is
 designed by the Creator for the created and administered by an appointee
 of the Creator Himself.
 
-
 **The ideal model of governance vs. contemporary models**
 
 Abu Na'eem has narrated from the book Sefat-ul-Mahdi from Abu Sa'eed
@@ -206,5 +205,4 @@ Judging by these statements that we recite, we are extremely far from
 the ideal model of governance and that is why we are asking about the
 whereabouts of the Imam (AS) who will come and establish these
 conditions.
-
 

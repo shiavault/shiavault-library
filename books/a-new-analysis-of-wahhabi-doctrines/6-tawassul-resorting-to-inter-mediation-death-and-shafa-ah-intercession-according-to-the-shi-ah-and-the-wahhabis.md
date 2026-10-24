@@ -47,14 +47,10 @@ examine their reasons:
 
 **First reason**: By citing as proof the noble verses,
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلاَ يَمْلِكُونَ
-كَشْفَ الضُّرِّ عَنكُمْ وَلاَ تَحْوِيلاً. أُوْلَئِكَ الَّذِينَ
-يَدْعُونَ يَبْتَغُونَ إِلَى رَبِّهِمْ الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ
-وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ عَذَابَهُ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلاَ يَمْلِكُونَ
+> كَشْفَ الضُّرِّ عَنكُمْ وَلاَ تَحْوِيلاً. أُوْلَئِكَ الَّذِينَ
+> يَدْعُونَ يَبْتَغُونَ إِلَى رَبِّهِمْ الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ
+> وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ عَذَابَهُ.﴾
 
 ***Say, 'Invoke those whom you claim {to be gods} besides Him. They have
 no power to remove your distress nor to bring about any change {in your
@@ -107,13 +103,9 @@ Many verses of the Qur'an and Prophetic traditions speak about the
 subject of *tawassul* to the *awliya'*. As an example, one may refer to
 the verses related to the sons of Ya'qub (Jacob) (*'a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
-خَاطِئِينَ. قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ
-الْغَفُورُ الرَّحِيمُ.﴾
-  </p>
-</blockquote>
+> ﴿قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا
+> خَاطِئِينَ. قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ
+> الْغَفُورُ الرَّحِيمُ.﴾
 
 ***They said, 'Father! Plead {with Allah} for forgiveness of our sins!
 We have indeed been erring'. He said, 'I shall plead with my Lord to
@@ -134,13 +126,9 @@ since the eminence of his rank and the loftiness of his station are not
 hidden to anyone.  
  The other verse which may be cited is the following:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا.﴾
-  </p>
-</blockquote>
+> ﴿وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا.﴾
 
 ***Had they, when they wronged themselves, come to you and pleaded Allah
 for forgiveness, and the Apostle had pleaded for forgiveness for them,
@@ -165,13 +153,9 @@ Since the following verse reproaches *tawassul* to idols and regards it
 as a form of polytheism, some individuals might cite it as proof that
 *tawassul* to other than God leads to misguidance:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَالُوا لاَ تَذَرُنَّ آلِهَتَكُمْ وَلاَ تَذَرُنَّ وَدًّا وَلاَ
-سُوَاعًا وَلاَ يَغُوثَ وَيَعُوقَ وَنَسْرًا. وَقَدْ أَضَلُّوا كَثِيرًا
-وَلاَ تَزِدْ الظَّالِمِينَ إِلاَّ ضَلاَلاً.﴾
-  </p>
-</blockquote>
+> ﴿وَقَالُوا لاَ تَذَرُنَّ آلِهَتَكُمْ وَلاَ تَذَرُنَّ وَدًّا وَلاَ
+> سُوَاعًا وَلاَ يَغُوثَ وَيَعُوقَ وَنَسْرًا. وَقَدْ أَضَلُّوا كَثِيرًا
+> وَلاَ تَزِدْ الظَّالِمِينَ إِلاَّ ضَلاَلاً.﴾
 
 ***They say, 'Do not abandon your gods. Do not abandon Wadd, nor Suwa',
 nor Yaghuth, Ya'uq and Nasr,' and they have certainly led many astray.
@@ -206,11 +190,7 @@ reported to have said:
 act of polytheism because based on the statement of the Qur'an, he is
 dead and extinct:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ.﴾
 
 ***You will indeed die and they {too} will die indeed**.*[^7]35
 
@@ -226,12 +206,8 @@ the Qur'an affirms that those who are in the *barzakh* are alive.[^9]
 How could the Wahhabis regard the martyrs {*shuhada*'} as dead while the
 Qur'an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا
-بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا
+> بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ.﴾
 
 ***Do not suppose those who are slain in the way of Allah to be dead;
 rather they are living and provided for near their Lord.***[^10]
@@ -239,21 +215,13 @@ rather they are living and provided for near their Lord.***[^10]
 Accordingly, how could Shaykh Muhammad ibn 'Abd al-Wahhab also say that
 “Anyone who dies would be annihilated,”20 while the Holy Qur'an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ.﴾
-  </p>
-</blockquote>
+> ﴿فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ.﴾
 
 *We have removed your veil from you, and so your sight is acute
 today.*[^11]  
  In another place, it states thus,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا.﴾
-  </p>
-</blockquote>
+> ﴿وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا.﴾
 
 ***And therein they will have their provision morning and
 evening**.*[^12]
@@ -273,12 +241,8 @@ In the following verse, the Holy Qur'an regards it permissible and
 acceptable to resort to and seek the intermediation of the chosen ones
 of God in seeking nearness to Him {*taqarrub*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
-الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
+> الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ.﴾
 
 ***O you who have faith! Be wary of Allah, and seek the means of
 recourse to Him, and wage jihad in His way, so that you may be
@@ -305,23 +269,15 @@ endorsed and affirmed by stories in the Qur'an. For example, when Hadrat
 Yusuf (Joseph) (*'a*) was in prison he requested his cellmate, that if
 the latter was released, he should mention his case to the king:
 
-<blockquote dir="rtl">
-  <p>
-﴿اذْكُرْنِي عِنْدَ رَبِّكَ.﴾
-  </p>
-</blockquote>
+> ﴿اذْكُرْنِي عِنْدَ رَبِّكَ.﴾
 
 *Mention me to your master.*[^14]
 
 Or, when Hadrat Musa and Khidr (*'a*) arrived at a certain village, they
 made a request to the inhabitants of the village, hence:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَانطَلَقَا حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا
-أَهْلَهَا.﴾
-  </p>
-</blockquote>
+> ﴿فَانطَلَقَا حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا
+> أَهْلَهَا.﴾
 
 ***So they went on. When they came to the people of a town, they asked
 its people for food**.*[^15]
@@ -332,13 +288,9 @@ behaviors, having no inconsistency with their infallibility {*ismah*}.
 Also, in confirming this statement, the following verse, which is
 addressed to the Prophet (s), can be cited as proof:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا.﴾
-  </p>
-</blockquote>
+> ﴿وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا.﴾
 
 ***Had they, when they wronged themselves, come to you and pleaded Allah
 for forgiveness, and*** ***the Apostle had pleaded for forgiveness for
@@ -357,11 +309,7 @@ Before ending the discussion, it is necessary to pose this question:
 Which is superior, *tawassul* to God, or *tawassul* to the saints of
 God? It can be concluded from the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿أَيُّهُمْ أَقْرَبُ.﴾
-  </p>
-</blockquote>
+> ﴿أَيُّهُمْ أَقْرَبُ.﴾
 
 ***“whoever is nearer {to Him}**”*[^17]
 
@@ -406,24 +354,16 @@ It is not useless to note the fact that Muhammad ibn Idris ash-Shafi'i,
 one of the leading figures of the Ahl as-Sunnah, regards *tawassul* to
 the *Ahl al-Bayt* (*'a*) as permissible, thus saying:
 
-<blockquote dir="rtl">
-  <p>
-آلُ النَّبِيِّ ذَرِيعَتِي وَهُمُ إلَيْهِ وَسِيلَتِي
-  </p>
-</blockquote>
+> آلُ النَّبِيِّ ذَرِيعَتِي وَهُمُ إلَيْهِ وَسِيلَتِي
 
 *The family of the Prophet is my shelter*  
 *and they are means of my nearness to Him (God).*  
  Regarding Hadrat Fatimah az-Zahra (*'a*), the following tradition has
 been narrated:
 
-<blockquote dir="rtl">
-  <p>
-“أنَّ فَاطِمَةَ جَاءَتْ فَوَقَفَتْ عَلَى قَبْرِ رَسُولِ اللهِ
-فَأخَذَتْ قَبْضَةً مِنْ تُرَابِ القَبْرِ فَوَضَعَتْهَا عَلَى
-عَيْنَيْهَا فَبَكَتْ.”
-  </p>
-</blockquote>
+> “أنَّ فَاطِمَةَ جَاءَتْ فَوَقَفَتْ عَلَى قَبْرِ رَسُولِ اللهِ
+> فَأخَذَتْ قَبْضَةً مِنْ تُرَابِ القَبْرِ فَوَضَعَتْهَا عَلَى
+> عَيْنَيْهَا فَبَكَتْ.”
 
 “Fatimah (*'a*) went to the grave of the Messenger of Allah (s); picked
 up some soil from the grave, put it on her eyes and cried.”
@@ -479,12 +419,8 @@ they are not alive.
  The most fundamental basis for this belief of the Wahhabis is the
 following blessed verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لاَ يَضُرُّهُمْ وَلاَ
-يَنْفَعُهُمْ وَيَقُولُونَ هَؤُلاَءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لاَ يَضُرُّهُمْ وَلاَ
+> يَنْفَعُهُمْ وَيَقُولُونَ هَؤُلاَءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ.﴾
 
 ***They worship besides Allah that which neither causes them any harm,
 nor brings them any benefit, and they say, 'These are our intercessors
@@ -499,12 +435,8 @@ beings. In other words, “besides Allah” refers to idols and it is these
 idols whose intercession is not acceptable to God. The following verse
 also confirms this contention:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ
-هُمْ يُنصَرُونَ.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ
+> هُمْ يُنصَرُونَ.﴾
 
 ***Neither intercession shall be accepted from it, nor any ransom shall
 be received from it, nor will they be helped**.*[^22]
@@ -517,39 +449,23 @@ individuals who possess the conditions for intercession is permissible
 and acceptable. Some of the verses that can substantiate this claim are
 the following:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَنفَعُ الشَّفَاعَةُ عِنْدَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَنفَعُ الشَّفَاعَةُ عِنْدَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ.﴾
 
 ***Intercession is of no avail with Him except for those whom He
 permits**.*[^23]
 
-<blockquote dir="rtl">
-  <p>
-﴿مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ.﴾
-  </p>
-</blockquote>
+> ﴿مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ.﴾
 
 ***Who is it that may intercede with Him except with His
 permission?***[^24]
 
-<blockquote dir="rtl">
-  <p>
-﴿يَوْمَئِذٍ لاَ تَنفَعُ الشَّفَاعَةُ إِلاَّ مَنْ أَذِنَ لَهُ
-الرَّحْمَانُ وَرَضِيَ لَهُ قَوْلاً.﴾
-  </p>
-</blockquote>
+> ﴿يَوْمَئِذٍ لاَ تَنفَعُ الشَّفَاعَةُ إِلاَّ مَنْ أَذِنَ لَهُ
+> الرَّحْمَانُ وَرَضِيَ لَهُ قَوْلاً.﴾
 
 ***Intercession will not avail that day except from him whom the
 All-beneficent allows and approves of his word**.*[^25]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ يَشْفَعُونَ إِلاَّ لِمَنْ ارْتَضَى.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ يَشْفَعُونَ إِلاَّ لِمَنْ ارْتَضَى.﴾
 
 ***And they do not intercede except for someone He approves of**.*[^26]
 
@@ -659,21 +575,13 @@ practice had gone against the consensus of Muslims. After issuing this
 religious edict, Ibn Taymiyyah considered the following *hadith*s from
 the Prophet (s) as fabricated {*maj'u*l}:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَجَّ وَلَمْ يَزُرْنِي فَقَدْ جَفَانِي.
-  </p>
-</blockquote>
+> مَنْ حَجَّ وَلَمْ يَزُرْنِي فَقَدْ جَفَانِي.
 
 He who performs the *Hajj* (pilgrimage) without paying a visit
 {*ziyarah*} to me has indeed deserted.
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشَدُّ الرِّحَالُ إلاَّ إلَى ثَلاَثَةِ مَسَاجِدَ: الْمَسْجِدُ
-الْحَرَامُ، وَمَسْجِدِي هَذَا، وَالْمَسْجِدُ الأقْصَى.
-  </p>
-</blockquote>
+> لاَ تُشَدُّ الرِّحَالُ إلاَّ إلَى ثَلاَثَةِ مَسَاجِدَ: الْمَسْجِدُ
+> الْحَرَامُ، وَمَسْجِدِي هَذَا، وَالْمَسْجِدُ الأقْصَى.
 
 You are not supposed to travel except for the visitation {*ziyarah*} of
 three mosques: al-Masjid al-Haram (in Mecca), this mosque of mine
@@ -709,11 +617,7 @@ God. The inclusion of the divine grace and compassion has conferred this
 merit upon some of the servants of God. This book narrated a certain
 subject from Ibn Taymiyyah, at the end of which it says:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَكُونُ إلاَّ لأهْلِ التَّوْحِيدِ وَالإخْلاَصِ.
-  </p>
-</blockquote>
+> لاَ تَكُونُ إلاَّ لأهْلِ التَّوْحِيدِ وَالإخْلاَصِ.
 
 Intercession includes individuals who are monotheists and sincere, and
 by the decree of God, intercession extends to these individuals.
@@ -800,5 +704,4 @@ generation of Muslims who came after the Companions, who did not know
 the Prophet (s) but who knew his Companions. [Trans.]
 
 [^32]: At-Tawhid bi’l-Lughah al-Farisiyyah, no. 27, p. 123.
-
 

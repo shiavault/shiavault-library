@@ -99,11 +99,7 @@ Furthermore, the commitment of sins causes both hatred on the part of
 people and their lack of confidence in the speaker; such as the
 saying[^2]
 
-<blockquote dir="rtl">
-  <p>
-“ أنظر الى ما قالَ ولا تنظر الى من قالَ”
-  </p>
-</blockquote>
+> “ أنظر الى ما قالَ ولا تنظر الى من قالَ”
 
 Only makes sense for those who can distinguish between a person's
 personality traits and his statements.
@@ -170,5 +166,4 @@ to a bandon the sinner. This is more hazardous if unintentional homicide
 takes place.
 
 [^4]: . See chapters 3/4 and 5 of this book.
-
 

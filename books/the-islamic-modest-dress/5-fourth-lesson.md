@@ -308,4 +308,3 @@ that verse.
 
 [^9]: Sahih Bukhari, vol. 8, p.63.
 
-

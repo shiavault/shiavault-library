@@ -128,10 +128,10 @@ The parents should devise a strategy for the upbringing of the child
 keeping in consideration his age, intelligence, strength and feelings.
 They should put his actions in two categories:
 
-<span style="font-size: 16pt">The actions that are desirable for
-him.</span>
+The actions that are desirable for
+him.
 
-<span style="font-size: 16pt">The actions that are taboo for him.</span>
+The actions that are taboo for him.
 
 They should determine the limit for each type of action. Then they
 should give total freedom to the child for the desirable activity so

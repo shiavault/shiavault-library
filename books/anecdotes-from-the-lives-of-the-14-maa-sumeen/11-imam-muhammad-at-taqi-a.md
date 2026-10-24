@@ -112,4 +112,3 @@ Allah's commands as Ma'mun wished.
 Whatever anyone gives you always remember that Allah can give you so
 much more but only if you are a good Muslim and do as Allah tells you.
 
-

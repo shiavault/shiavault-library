@@ -1,20 +1,12 @@
 The Eleventh Talk
 =================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -51,7 +43,6 @@ is very felicitous that a *mu’min* has the vision of the fears and
 doubts that Satan can create. These fears and doubts could be in the
 matters of faith or about morals etc.
 
-
 Satan doesn’t even Spare the Prophets
 -------------------------------------
 
@@ -75,7 +66,6 @@ to do such things. Purposely falling from the top of the hill will be an
 attempt at suicide that is *Haram.* If one falls from the hill
 accidentally, and Allah wishes him to live on, then He will save him!”
 
-
 Hadrat ‘Isa Converses With Satan
 --------------------------------
 
@@ -98,7 +88,6 @@ believers about the will of Allah (S.w.T.). But if the person is a
 “*Astaghfirullah!* How can I dare to question the Will of Allah? My
 Faith is that His acts are all replete with wisdom beyond our
 comprehension.”
-
 
 Satan Attempts to Create Fears in the Mind of Prophet Ibrahim (a.s.)
 --------------------------------------------------------------------
@@ -140,12 +129,8 @@ as to who was steadfast in keeping to the right path and who veered away
 from it under his evil influence. Therefore Allah (S.w.T.) says in the
 Holy Book:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لَهُ عَلَيْهِم مِّن سُلْطَانٍ إِلَّا لِنَعْلَمَ مَن
-يُؤْمِنُ بِالْآخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ
-  </p>
-</blockquote>
+> وَمَا كَانَ لَهُ عَلَيْهِم مِّن سُلْطَانٍ إِلَّا لِنَعْلَمَ مَن
+> يُؤْمِنُ بِالْآخِرَةِ مِمَّنْ هُوَ مِنْهَا فِي شَكٍّ
 
 ***And he (satan) has no authority over them, but that We may
 distinguish him who believes in the hereafter from him who is in doubt
@@ -185,7 +170,6 @@ to his father, “O father! See who is this person who is pestering me?”
 Hadrat Ibrahim (a.s.) said, “This is Satan the accursed!” Then Hadrat
 Ismail (a.s.) too hurled stones at him.
 
-
 Have We too Spurned Satan at Any Time?
 --------------------------------------
 
@@ -204,7 +188,6 @@ Sometimes it happens that a person wishes to do a good turn, then Satan
 brings forth a doubt that perhaps some other deed would be more
 appropriate. The person thus falls in doubt and is unable to act.
 
-
 Who is Greater?
 ---------------
 
@@ -221,7 +204,6 @@ sacrifice to Allah (S.w.T.) without a whimper of protest!
 Both have come out successful in their test. But Allah (S.w.T.)’s Wish
 was that Ismail (a.s.) should live.
 
-
 Prophet Ibrahim (a.s.)’s Laments
 --------------------------------
 
@@ -234,6 +216,4 @@ successfully gone through all the stages of the sacrifice. Your heart
 even then cries that it has not reached its conclusion.” Then Hadrat
 Jibril (a.s.) told Hadrat Ibrahim (a.s.) about the hardships and the
 supreme sacrifice in store for Imam Husayn (a.s.)!
-
-
 

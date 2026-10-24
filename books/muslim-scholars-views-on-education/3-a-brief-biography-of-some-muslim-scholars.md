@@ -639,4 +639,3 @@ continued his cultural, scientific and political activities there. He
 had many lectures and wrote many books. He martyred in 1979 (Nasri,
 2003) in Tehran.
 
-

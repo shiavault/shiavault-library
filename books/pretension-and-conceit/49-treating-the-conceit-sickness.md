@@ -320,4 +320,3 @@ nearer to Allāh Almighty than he is according to the sacred narrative in
 better for the believer than conceit. Had it not been so, He would not
 have afflicted a believer with a sin at all."
 
-

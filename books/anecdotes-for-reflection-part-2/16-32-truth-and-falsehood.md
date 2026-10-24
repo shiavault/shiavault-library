@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ جَآءَ الْحَقُّ وَ زَهَقَ الْباَطِلُ اِنَّ الْباَطِلَ کاَنَ
-زَهُوْقاً
-  </p>
-</blockquote>
+> قُلْ جَآءَ الْحَقُّ وَ زَهَقَ الْباَطِلُ اِنَّ الْباَطِلَ کاَنَ
+> زَهُوْقاً
 
 “And say: The truth has come and the falsehood has vanished; surely
 falsehood is a vanishing (thing).”[^1]
 
 Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-ظَلَمَ الْحَقَّ مَنْ نَصَرَ الْباَطِلَ.
-  </p>
-</blockquote>
+> ظَلَمَ الْحَقَّ مَنْ نَصَرَ الْباَطِلَ.
 
 “One, who helps falsehood, has oppressed (and done injustice to) the
 truth.”[^2]
@@ -254,5 +246,4 @@ Page 171
 [^6]: Jawame’ al-Hikayat, Page 46; Siyar as-Salihin
 
 [^7]: Paighambar Wa Yaran, Volume 1, Page 45; A’yan al-Shi’a, Page 316
-
 

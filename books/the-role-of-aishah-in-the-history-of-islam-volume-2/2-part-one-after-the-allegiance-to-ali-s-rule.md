@@ -502,4 +502,3 @@ nothing but perfidy, disloyalty and violation of the pact." Anyhow when
 the second time and left Medina for Mecca, and joined 'A'ishah's army
 and the party opposed to 'Ali there.21
 
-

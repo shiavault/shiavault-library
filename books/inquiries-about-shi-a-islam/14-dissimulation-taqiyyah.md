@@ -82,4 +82,3 @@ money, or religion.
 
 [^7]: al-Ghazzali, Ihya ‘Ulum al-Din
 
-

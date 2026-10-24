@@ -220,4 +220,3 @@ one’s relatives; • dealing with relatives on the basis of love and
 Islamic ethics; • participating in ones’ relatives’ sorrow and joy; •
 helping them financially.
 
-

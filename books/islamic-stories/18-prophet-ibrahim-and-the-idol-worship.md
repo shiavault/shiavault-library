@@ -139,4 +139,3 @@ constantly in prayer is better than fulfilling worldly desires. This is
 what the little weak bird has shown to us. These are the acts of virtue
 which would one day undoubtedly earn great rewards from Allah.
 
-

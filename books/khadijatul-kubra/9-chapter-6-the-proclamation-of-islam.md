@@ -723,4 +723,3 @@ hatred of Muhammad and hostility to Islam were shared by his wife, Umm
 Jameel. Both of them were cursed by Allah, for their perversity, in
 Chapter 111 of His Book.
 
-

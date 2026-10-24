@@ -410,4 +410,3 @@ female names, e.g., Lāt, Manāt, ‘Uzzā, Nā’ilah, etc.
 
 [^25]: Sūrat al-Nisā’ 4:117-118.
 
-

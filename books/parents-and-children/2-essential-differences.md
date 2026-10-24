@@ -112,7 +112,6 @@ narrated in one Prophetic narration that: 'Obedience to parents is among
 the best impression on the mind', and it is said in another that: 'Obey
 your parents, your children will obey you.'"
 
-
 **2- Determination and Strictness**
 
 Some parents are very strict and hard in their treatment with their
@@ -148,7 +147,6 @@ extreme power, while strictness is nothing but slavery and lack of
 responsibility. In our relationship, if we cannot differen-tiate between
 strictness, as a negative tool, and determination, as a positive tool,
 then we don't need to emphasize on the necessity of determination.
-
 
 **3- Spying and Monitoring**
 
@@ -250,7 +248,6 @@ they are under two observers: internal and external, which helps in
 controlling their actions based on the fact that it is in the interest
 of a Muslim, not against him.
 
-
 **4- Guardianship and Protection:**
 
 Parents are directly responsible for the protection and education of
@@ -295,7 +292,6 @@ towards their children, will force hardship and interference into their
 minor and major affairs, whereas, 'advice' will put them at the point of
 counseling and correcting mistakes in their major affairs, and they will
 be able to take care of the minor ones, themselves.
-
 
 **5- Independence and Separation:**
 
@@ -359,5 +355,4 @@ himself, that is, the personality of a young boy or girl chooses its own
 way of life free from any external force. No doubt this will give the
 chance of development and growth, as well as, the feeling of
 responsibility.
-
 

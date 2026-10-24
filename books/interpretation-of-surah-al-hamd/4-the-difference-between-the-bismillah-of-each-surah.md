@@ -294,4 +294,3 @@ an idol-temple. It is not easy for him to get out of it. He needs Divine
 help, a hidden hand which may take him out of this dungeon. The Prophets
 have come for this very purpose.
 
-

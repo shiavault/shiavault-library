@@ -4,23 +4,11 @@ Sermon 6: By Allah, I shall not be like the badger that ...
 *Delivered on being advised not to chase Talhah ibn \`Ubaydillah and
 az-Zubayr ibn al-\`Awwam for fighting.*[^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا أشير عليه بألاّ يتبع طلحةَ والزبيرَ ولا يُرصدَ لهما القتال
-  </p>
-</blockquote>
+> لمّا أشير عليه بألاّ يتبع طلحةَ والزبيرَ ولا يُرصدَ لهما القتال
 
-<blockquote dir="rtl">
-  <p>
-[وفيه يبين عن صفته بأنه (عليه السلام) لا يخدع]
-  </p>
-</blockquote>
+> [وفيه يبين عن صفته بأنه (عليه السلام) لا يخدع]
 
 By Allah, I shall not be like the badger, that feigns sleep on
 continuous (sound of) stone-throwing till he who is in search of it
@@ -31,17 +19,13 @@ who listen to me and obey, till my day (of death) comes. By Allah I have
 been continually deprived of my right, with others being given
 preference to me, from the day the Prophet died till today.
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ لاَ أَكُونُ كالضَّبُعِ: تَنَامُ عَلى طُولِ اللَّدْمِ، حَتَّى
-يَصِلَ إِلَيْهَا طَالِبُهَا،وَيَخْتِلَهَا رَاصِدُها، وَلكِنِّي
-أَضْرِبُ بِالمُقْبِلِ إِلَى الحَقِّ المُدْبِرَ عَنْهُ، وَبِالسَّامِعِ
-المُطِيعِ العَاصِيَ المُريبَ أَبَداً، حَتَّى يَأْتِيَ عَلَيَّ يَوْمِي.
-فَوَاللهِ مَا زِلتُ مَدْفُوعاً عَنْ حَقِّي، مُسْتَأْثَراً عَلَيَّ،
-مُنْذُ قَبَضَ اللهُ تعالى نَبِيَّهُ (صلى الله عليه وآله) حَتَّى يَوْمِ
-النَّاسِ هذَا.
-  </p>
-</blockquote>
+> وَاللهِ لاَ أَكُونُ كالضَّبُعِ: تَنَامُ عَلى طُولِ اللَّدْمِ، حَتَّى
+> يَصِلَ إِلَيْهَا طَالِبُهَا،وَيَخْتِلَهَا رَاصِدُها، وَلكِنِّي
+> أَضْرِبُ بِالمُقْبِلِ إِلَى الحَقِّ المُدْبِرَ عَنْهُ، وَبِالسَّامِعِ
+> المُطِيعِ العَاصِيَ المُريبَ أَبَداً، حَتَّى يَأْتِيَ عَلَيَّ يَوْمِي.
+> فَوَاللهِ مَا زِلتُ مَدْفُوعاً عَنْ حَقِّي، مُسْتَأْثَراً عَلَيَّ،
+> مُنْذُ قَبَضَ اللهُ تعالى نَبِيَّهُ (صلى الله عليه وآله) حَتَّى يَوْمِ
+> النَّاسِ هذَا.
 
 Alternative Sources for Sermon 6
 --------------------------------
@@ -74,5 +58,4 @@ the hunter says, "Umm \`Amir is not in its den, it is sleeping." On
 hearing this it stretches its limbs and feigns sleep. The hunter then
 puts the knot in its feet and drags it out, and if falls like a coward
 into his hand without resistance.
-
 

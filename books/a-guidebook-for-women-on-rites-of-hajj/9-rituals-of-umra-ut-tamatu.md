@@ -30,4 +30,3 @@ does she need ablutions before entering the mosque?
 
 **Ans:** No she can enter the mosque without ablutions to wear ihram.
 
-

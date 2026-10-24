@@ -38,4 +38,3 @@ writings of others affiliated with Nasr, namely his late teacher
 Frithjof Schuon and his student William C. Chittick, have as well had
 significant influence on this essay’s content and direction.
 
-

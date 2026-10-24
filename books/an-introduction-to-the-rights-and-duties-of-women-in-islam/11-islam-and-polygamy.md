@@ -137,12 +137,8 @@ every way without any favoritism
 
 Allah, the Almighty has declared in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-...فَانكِحُواْ مَا طَابَ لَكُم مِّنَ النِّسَاء مَثْنَى وَثُلاَثَ
-وَرُبَاعَ فَإِنْ خِفْتُمْ أَلاَّ تَعْدِلُواْ فَوَاحِدَةً...
-  </p>
-</blockquote>
+> ...فَانكِحُواْ مَا طَابَ لَكُم مِّنَ النِّسَاء مَثْنَى وَثُلاَثَ
+> وَرُبَاعَ فَإِنْ خِفْتُمْ أَلاَّ تَعْدِلُواْ فَوَاحِدَةً...
 
 ***“…then marry [other] women, who seem virtuous to you, two or three or
 four; and if you fear that you cannot do them justice, then one
@@ -170,5 +166,4 @@ undertaking, something that most men are not competent enough to
 accomplish.
 
 [^1]: - Surah Nisa’ 4:3.
-
 

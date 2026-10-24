@@ -43,9 +43,7 @@ numerous writings and prove an inspiration for all while reflecting his
 devotion to research study and deep insight. May his soul ever rest in
 peace.
 
-
 S. T. H. Khwarazmi
-
 
 **Method Suitable for Theological Research**
 
@@ -220,5 +218,4 @@ is what Muhammad (a.s.) introduced as Islam.
 There is no other way, since none of the other scientific or
 investigative research methods bear any relation this topic which deals
 with the original form of a religion and its present day practice.
-
 

@@ -211,7 +211,6 @@ If you look to your friend for his favours,You are tied to yourself not
 to your friend A breach of the Way it was if the saints Desired of God
 aught other than God.
 
-
 **The First Station**
 
 The first level of the 'arif's journey is what they eall 'resolution'
@@ -486,5 +485,4 @@ these, and the 'arif must follow a chain of stations in these exercises
 too. Here Ibn Sina is brief in the extreme, yet the 'urafa' have
 discussed this matter in detail, and one may seek these details in their
 works.
-
 

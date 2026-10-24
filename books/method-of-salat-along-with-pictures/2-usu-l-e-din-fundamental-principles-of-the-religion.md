@@ -48,4 +48,3 @@ brought back to life. Those who had performed good deeds in this world
 will be rewarded and will go to Heaven and those who did bad deeds will
 be punished for their actions.
 
-

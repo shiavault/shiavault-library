@@ -29,11 +29,6 @@ free, for that which is good is never achieved except by overcoming
 evil, and ease is never acquired except through difficulty.
 
 > 6ـ لاتَـكُونَنَّ عَبْدَ غَيْرِكَ، وَقَدْ جَعَلَكَ اللّهُ سُبْحانَهُ
-<blockquote dir="rtl">
-  <p>
-حُرّاً، فَما خَيْرُ خَيْر لايُنالُ إلاّ بِشَـرّ، ويُسْـر لايُنالُ إلاّ
-بِعُسْر.
-  </p>
-</blockquote>
-
+> حُرّاً، فَما خَيْرُ خَيْر لايُنالُ إلاّ بِشَـرّ، ويُسْـر لايُنالُ إلاّ
+> بِعُسْر.
 

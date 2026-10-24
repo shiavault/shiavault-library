@@ -25,4 +25,3 @@ in accordance with the laws of their own countries. Kings and ministers
 are licensed in the realm of politics to pursue various routes that in
 the end serve one purpose: good administration and justice.[^6]
 
-

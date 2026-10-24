@@ -66,50 +66,30 @@ unanimous on the reality of intercession.
 
 Among the verse of the Holy Qur’an that mention it are:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
 
 ***“Who is he that can intercede with Him but by His permission?”
 (Qur’an, Surah Baqarah 2:255)***
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ
-عَهْدًا
-  </p>
-</blockquote>
+> لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ
+> عَهْدًا
 
 ***“They shall not control intercession, save he who has made a covenant
 with the Beneficent God.” (Qur’an, Surah Maryam 19:87)***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ لَا تَنْفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ
-الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا
-  </p>
-</blockquote>
+> يَوْمَئِذٍ لَا تَنْفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ
+> الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا
 
 ***“On that day shall no intercession avail except of him whom the
 Beneficent God allows and whose word He is pleased with.” (Qur’an, Surah
 Taha 20:109)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ
-  </p>
-</blockquote>
+> وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ
 
 ***“And they do not intercede except for him whom He approves.” (Qur’an,
 Surah Anbiya 21:28)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ
-  </p>
-</blockquote>
+> وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ
 
 ***“And intercession will not avail aught with Him save of him whom He
 permits.” (Qur’an, Surah Saba 34:23)***
@@ -197,17 +177,9 @@ confirm this:
 It is narrated from His Eminence, Abu Abdillah Sadiq (as) that he said
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لَنَا مِنْ شَافِعِينَ
-  </p>
-</blockquote>
+> فَمَا لَنَا مِنْ شَافِعِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا صَدِيقٍ حَمِيمٍ
-  </p>
-</blockquote>
+> وَلَا صَدِيقٍ حَمِيمٍ
 
 ***“So we have no intercessors, nor a true friend*** ***."(Qur’an, Surah
 Shuara 26:100)***[^9]
@@ -216,11 +188,7 @@ Shuara 26:100)***[^9]
 
 And with regard to the following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
 
 ***“Who is he that can intercede with Him but by His permission?”
 (Qur’an, Surah Baqarah 2:255)***
@@ -238,12 +206,8 @@ And it is narrated by Muawiyah bin Wahab that he said:
 
 I asked His Eminence, Abu Abdillah Sadiq (as) about the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ
-صَوَابًا
-  </p>
-</blockquote>
+> لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ
+> صَوَابًا
 
 ***“They shall not speak except he whom the Beneficent God permits and
 who speaks the right thing.” (Qur’an, Surah Naba 78:38)***
@@ -351,11 +315,7 @@ May the Almighty Allah allow me and you the intercession of the
 intercessors – except for the people of faith no one is eligible and
 rightful for doing intercession, as the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ
-  </p>
-</blockquote>
+> وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ
 
 ***“And they do not intercede except for him whom He approves.” (Qur’an,
 Surah Anbiya 21:28)***
@@ -387,12 +347,8 @@ will not be accepted.”[^18]
 In *Tafseer* of Ali bin Ibrahim Qummi it is narrated from Imam Ja’far
 Sadiq (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ
-عَهْدًا
-  </p>
-</blockquote>
+> لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ
+> عَهْدًا
 
 ***“They shall not control intercession, save he who has made a covenant
 with the Beneficent God.” (Qur’an, Surah Maryam 19:87)***
@@ -438,11 +394,7 @@ poor, they would be happy and never become sad and they would be alive
 and never die. Then Imam Muhammad Baqir (as) recited the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ
-  </p>
-</blockquote>
+> لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ
 
 ***“They shall not taste therein death except the first death.” (Qur’an,
 Surah Dukhan 44:56)***
@@ -649,31 +601,19 @@ As for those that restrict intercession for requesting of increase of
 rewards of the obedient apparently base their contention on the apparent
 meaning of some verses like the following:
 
-<blockquote dir="rtl">
-  <p>
-ما لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ
-  </p>
-</blockquote>
+> ما لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ
 
 ***“The unjust shall not have any compassionate friend nor any
 intercessor who should be obeyed.” (Qur’an, Surah Ghafir 40:18)***
 
 While the sinners are unjust.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ
-  </p>
-</blockquote>
+> وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ
 
 ***“And the unjust shall have no helpers.” (Qur’an, Surah Baqarah
 2:270)***
 
-<blockquote dir="rtl">
-  <p>
-فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
-  </p>
-</blockquote>
+> فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
 
 ***“So the intercession of intercessors shall not avail them.” (Qur’an,
 Surah Muddaththir 74:48)***
@@ -767,11 +707,7 @@ profit all, even the disbelievers.
 
 If it is said: This contradicts some verses like:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ
-  </p>
-</blockquote>
+> لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ
 
 ***“Their chastisement shall not be lightened nor shall they be given
 respite.” (Qur’an, Surah Baqarah 2:162)***
@@ -783,12 +719,8 @@ prohibited for them is the reduction of time that sometimes the
 chastisement be removed from them according to the evidence of the
 saying of the Almighty Allah in Surah Momin:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ
-يُخَفِّفْ عَنَّا يَوْمًا مِنَ الْعَذَابِ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ
+> يُخَفِّفْ عَنَّا يَوْمًا مِنَ الْعَذَابِ
 
 ***“And those who are in the fire shall say to the keepers of hell: Call
 upon your Lord that He may lighten to us one day of the punishment.”
@@ -818,11 +750,7 @@ in the world, which is not promised and allowed to other prophets and
 intercessors. That which proves this is the exegesis of the following
 verse in *Tafseer Qummi*:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ
-  </p>
-</blockquote>
+> وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ
 
 ***“And intercession will not avail aught with Him save of him whom He
 permits.” (Qur’an, Surah Saba 34:23)***
@@ -846,55 +774,35 @@ the Mighty and the High.
 Third: It is that intercession is not lawful except after the Almighty
 Allah permits. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-نْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
-  </p>
-</blockquote>
+> نْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ
 
 ***“Who is he that can intercede with Him but by His permission?”
 (Qur’an, Surah Baqarah 2:255)***
 
 And also that:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَفِيعٍ إِلَّا مِنْ بَعْدِ إِذْنِهِ
-  </p>
-</blockquote>
+> مَا مِنْ شَفِيعٍ إِلَّا مِنْ بَعْدِ إِذْنِهِ
 
 ***“There is no intercessor except after His permission.” (Qur’an, Surah
 Yunus 10:3)***
 
 And He said:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ
-  </p>
-</blockquote>
+> إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ
 
 ***“…except he whom the Beneficent God permits…” (Qur’an, Surah Naba
 78:38)***
 
 And He said:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَىٰ
-  </p>
-</blockquote>
+> إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَىٰ
 
 ***“Except after Allah has given permission to whom He pleases and
 chooses.” (Qur’an, Surah Najm 53:26)***
 
 And He said:
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
-  </p>
-</blockquote>
+> لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
 
 ***“They do not precede Him in speech…” (Qur’an, Surah Anbiya 21:27)***
 
@@ -1054,5 +962,4 @@ for the Imam will become eligible for intercession of the Imams. The
 Tafseer of the verse says that the Imams will see their helpers and
 companions and intercede for them. Since the supplicant is also a helper
 of the Imams this is also applicable to him. (The Author)
-
 

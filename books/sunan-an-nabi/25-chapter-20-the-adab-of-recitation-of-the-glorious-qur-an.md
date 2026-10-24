@@ -39,11 +39,7 @@ with the Holy Prophet (S) after his (last) pilgrimage and he used to
 frequently recite ‘*La Uqsimu bi Yawmil Qiyamah*’ (Surah al-Qiyamah) and
 when he recited:
 
-<blockquote dir="rtl">
-  <p>
- أَلِيسَ ذٌلِكَ بِقَادِرٍ عَلـى أَنْ يُحْيِيَ الْمَوْتَى 
-  </p>
-</blockquote>
+>  أَلِيسَ ذٌلِكَ بِقَادِرٍ عَلـى أَنْ يُحْيِيَ الْمَوْتَى 
 
 ***“Is He not able to give life to the dead?”*** (Surat al-Qiyamah (75):
 40)
@@ -56,23 +52,15 @@ something different (from what is mentioned in this narration).[^11]
 8. Also: From Ibn ‘Abbas who said: When the Holy Prophet would recite
 the *ayah:*
 
-<blockquote dir="rtl">
-  <p>
- وَنَفْسٍ وَمَا سَوَّاهَا. فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا 
-  </p>
-</blockquote>
+>  وَنَفْسٍ وَمَا سَوَّاهَا. فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا 
 
 ***“And the soul and He who made it perfect. Then He inspired it
 understand what is right and wrong for i*****t.”** (Surat al-Shams: 7-8)
 
  He would stop and then say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَ زَكِّهَا أَنْتَ خَيْرُ مَنْ
-زَكَّاهَا أَنْتَ وَلِـيُّهَا وَ مَوْلاَهَا.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَ زَكِّهَا أَنْتَ خَيْرُ مَنْ
+> زَكَّاهَا أَنْتَ وَلِـيُّهَا وَ مَوْلاَهَا.
 
 *“O Allah! Give my soul its inspiration and purify it for You are the
 best of those who purify it, You are its Lord and Master”.*
@@ -85,11 +73,7 @@ Addendum to this Chapter
 1. In al-Bihar from al-Dhikra: From Abi Sa’id al-Khudhri: The Noble
 Prophet (S) would say:
 
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِاللٌّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ.
-  </p>
-</blockquote>
+> أَعُوذُ بِاللٌّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ.
 
 *I seek protection with Allah from the accursed Shaitan,* before
 reciting the Holy Qur’an.[^13]
@@ -118,22 +102,14 @@ Qatadah said: When the Holy Prophet (S) completed a Surah, he would say:
 
 7. In al-Durr al-Manthur: When the Holy Prophet (S) recited the *ayah:*
 
-<blockquote dir="rtl">
-  <p>
- أَلِيسَ ذٌلِكَ بِقَادِرٍ عَلـى أَنْ يُحْيِيَ الْمَوْتَى 
-  </p>
-</blockquote>
+>  أَلِيسَ ذٌلِكَ بِقَادِرٍ عَلـى أَنْ يُحْيِيَ الْمَوْتَى 
 
 ***“Is He not able to give life to the dead?”*** (Surat al-Qiyamah (75):
 40)
 
 He would say:
 
-<blockquote dir="rtl">
-  <p>
-}سُبْحَانَكَ أَللٌّهُمَّ بَـلى.{
-  </p>
-</blockquote>
+> }سُبْحَانَكَ أَللٌّهُمَّ بَـلى.{
 
 *“Praise be to You O Allah - Yes indeed.”*[^20]
 
@@ -142,15 +118,11 @@ from Qatadah from Abi Ja’far and Abi ‘Abdillah (as).[^21]
 
 8. In Majma’ al-Bayan, in the commentary for the *ayah:*
 
-<blockquote dir="rtl">
-  <p>
- وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُوا مِنْهُ مِنْ قُرْآنٍ وَلاَ
-تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُودًا إِذْ
-تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَنْ رَبِّكَ مِنْ مِثْقَالِ ذَرَّةٍ
-فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَلاَ أَصْغَرَ مِنْ ذٌلِكَ وَلاَ
-أَكْبَرَ إِلاَّ فِي كِتَابٍ مُبِينٍ 
-  </p>
-</blockquote>
+>  وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُوا مِنْهُ مِنْ قُرْآنٍ وَلاَ
+> تَعْمَلُونَ مِنْ عَمَلٍ إِلاَّ كُنَّا عَلَيْكُمْ شُهُودًا إِذْ
+> تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَنْ رَبِّكَ مِنْ مِثْقَالِ ذَرَّةٍ
+> فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَلاَ أَصْغَرَ مِنْ ذٌلِكَ وَلاَ
+> أَكْبَرَ إِلاَّ فِي كِتَابٍ مُبِينٍ 
 
 ***“And you are not (engaged) in any affair, nor do you recite
 concerning it any portion of the Qur’an, nor do you do any work but we
@@ -184,11 +156,7 @@ them; because these Surahs are for the Noble Prophet (S).[^26]
 the Qur’an was revealed to the Holy Prophet (S), he would make haste in
 reciting it in order to preserve it, so the *ayah:*
 
-<blockquote dir="rtl">
-  <p>
- لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ 
-  </p>
-</blockquote>
+>  لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ 
 
 ***“Do not move your tongue with it to make haste with it’*** **was
 revealed.”**  
@@ -269,5 +237,4 @@ Bihar al-Anwar 92:219
 
 [^29]: Tafsir al-Qummi 2:393 – Surat al-Muddathir (74), Bihar al-Anwar
 9:245
-
 

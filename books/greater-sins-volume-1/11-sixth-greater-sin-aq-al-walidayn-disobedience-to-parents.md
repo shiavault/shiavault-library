@@ -133,12 +133,8 @@ smelly man has got hold of me and is not leaving me.”
 
 The Holy Prophet (S) told him to recite the following Du’a,
 
-<blockquote dir="rtl">
-  <p>
-يامن يقبل اليسير ويعفوعن الكثير اقبل مني اليسيرواعف عني الكثيرانك انت
-الغفور الرحيم
-  </p>
-</blockquote>
+> يامن يقبل اليسير ويعفوعن الكثير اقبل مني اليسيرواعف عني الكثيرانك انت
+> الغفور الرحيم
 
 “Ya man Yaqbalul yasīra wa y’afo ‘Anil Kathīra Iqbal minnil Yasīra Wa
 ‘Āfo ‘Annil Kathīra.”
@@ -1014,5 +1010,4 @@ to their son or daughter”.
 [^20]: al-Kāfi
 
 [^21]: Wasa’il ul-Shia
-
 

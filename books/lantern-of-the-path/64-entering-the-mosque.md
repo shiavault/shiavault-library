@@ -34,14 +34,8 @@ is pleasing to Him, for He is generous. He loves noble generosity and
 the worship of those who need Him, and who are burning up at His door
 seeking His good pleasure. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-  </p>
-</blockquote>
+> أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
 
 ***Who answers the distressed one when he calls upon Him, and removes
 the evil?*** (27:62)
-
 

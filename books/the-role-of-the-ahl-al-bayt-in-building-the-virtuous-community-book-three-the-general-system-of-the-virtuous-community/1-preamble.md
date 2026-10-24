@@ -53,4 +53,3 @@ system must be capable of functioning within an Islamic system of
 government in the Muslim community in general, adjusting to the common
 surroundings.
 
-

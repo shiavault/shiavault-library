@@ -39,7 +39,6 @@ We will discuss the characteristics of the Imam of Hellfire and the
 Imam who guides to the truth, in the light of the sermons of Hazrat Ali
 (a.s.).
 
-
 **The Imam of the Hellfire**
 
 '…certainly, the worst man before Allah is the oppressive Imam who has
@@ -75,5 +74,4 @@ oppressors who befriend such persons - '…and whoever makes friends with
 them, these are the unjust.'
 
 (Surah Mumtahenah, Verse 9)
-
 

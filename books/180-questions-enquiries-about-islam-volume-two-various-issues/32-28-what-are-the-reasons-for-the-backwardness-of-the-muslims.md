@@ -56,4 +56,3 @@ severity and adversities tend to become more bearable.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 16, pg. 350
 
-

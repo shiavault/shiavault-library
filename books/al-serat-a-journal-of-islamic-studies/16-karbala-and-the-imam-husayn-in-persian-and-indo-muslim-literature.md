@@ -414,4 +414,3 @@ verse of the chapter devoted to him in the Rumuz-i bekhudi:
 O zephir, O messenger of those who are far away Bring our tears to his
 pure dust.
 
-

@@ -24,12 +24,8 @@ and injustice, and to refrain from acquiring one's livelihood by illegal
 means.  
  It has been reported that the Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّ أَنْ يُسْتَجَابَ دُعَاؤُؤَهُ فَلْيُطَيِّبْ مَطْعَمَهُ وَ
-مَكْسَبَهُ‏.
-  </p>
-</blockquote>
+> مَنْ أَحَبَّ أَنْ يُسْتَجَابَ دُعَاؤُؤَهُ فَلْيُطَيِّبْ مَطْعَمَهُ وَ
+> مَكْسَبَهُ‏.
 
 “One who desires to have his supplications answered, should purify his
 food and earnings.”[^2]
@@ -65,11 +61,7 @@ his prayers not being answered, said: Despite the fact that Allah
 we supplicate to him, He does not answer our prayers?  
  The Imam (a.s.) replied:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ قُلُوبَبُکُمْ خَانٍ بِثَمٌنِيَةِ خِصاَلٍ.
-  </p>
-</blockquote>
+> إِنَّ قُلُوبَبُکُمْ خَانٍ بِثَمٌنِيَةِ خِصاَلٍ.
 
 “Your hearts (and thoughts) have been unfaithful with respect to eight
 things (and this is the reason your prayers go unanswered).”
@@ -112,11 +104,7 @@ Another condition for the acceptance of one's prayers is to adjoin it
 with efforts and hard work. In one of the short sayings of the Commander
 of the Faithful (a.s.) we read:
 
-<blockquote dir="rtl">
-  <p>
-أَلدَّاعِي بِلاَ عَمَلٍ كَالرَّامِي بِلاَ وَتَرٍ.
-  </p>
-</blockquote>
+> أَلدَّاعِي بِلاَ عَمَلٍ كَالرَّامِي بِلاَ وَتَرٍ.
 
 “A supplicant (who prays) without effort and endeavour is like an archer
 without a bowstring!”[^5]
@@ -147,5 +135,4 @@ sinister motive?[^6]
 [^5]: Nahjul Balagha, Short Sayings 337
 
 [^6]: Tafsir-e-Namuna, vol. 1, pg. 643
-
 

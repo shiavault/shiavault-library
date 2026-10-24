@@ -537,4 +537,3 @@ of their opponents, the Muhajireen, that the caliphate of the Muslim
 umma was the exclusive “right” of the Quraysh because Muhammad himself
 was a Qurayshi!
 
-

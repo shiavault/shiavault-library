@@ -305,4 +305,3 @@ the mischief of all those things which crawl on the earth, the destiny
 of which you alone know; I seek refuge with You only Who undoubtedly is
 right path.’
 
-

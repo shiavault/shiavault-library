@@ -10,12 +10,8 @@ which are mentioned below:
 
 1. Imam al-Sādiq (A) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَسَتُدْفَنُ فيها امْرَأةٌ مِنْ اَوْلادي تُسَمّى فاطِمَةَ، فَمَنْ
-زارَها وَجَبَتْ لَهُ الجنّة
-  </p>
-</blockquote>
+> وَسَتُدْفَنُ فيها امْرَأةٌ مِنْ اَوْلادي تُسَمّى فاطِمَةَ، فَمَنْ
+> زارَها وَجَبَتْ لَهُ الجنّة
 
 **“A lady from my children, by the name of Fatima will be buried in Qum.
 Whoever visits her [shrine], will certainly be admitted to
@@ -23,11 +19,7 @@ Heaven.”**[^1]
 
 2. Imam al-Sādiq (A) has also said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ زِيارَتََََها تََََعْدِلُ الجَنَّة
-  </p>
-</blockquote>
+> اِنَّ زِيارَتََََها تََََعْدِلُ الجَنَّة
 
 **“Visiting her earns Heaven.”**[^2]
 
@@ -35,43 +27,27 @@ Heaven.”**[^1]
 the reward awarded for performing the pilgrimage of Lady Fatima Masuma
 (A) and the Imam (A) replied:”
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَها فَلَهُ الجنّة
-  </p>
-</blockquote>
+> مَنْ زارَها فَلَهُ الجنّة
 
 **“Whoever visits her [shrine], his reward will be Heaven.”**[^3]
 
 4. Imam al-Ridā (A) has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَها عارِفاً بِحَقِّها فَلَهُ الجنّة
-  </p>
-</blockquote>
+> مَنْ زارَها عارِفاً بِحَقِّها فَلَهُ الجنّة
 
 **“Whoever visits her [shrine], while knowing and being aware** **of her
 high status, the reward for him will be Heaven.”**[^4]
 
 5. Imam al-Ridā (A) has also said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارالْمَعْصومَةَ بِقُمّ كَمَنْ زارَني
-  </p>
-</blockquote>
+> مَنْ زارالْمَعْصومَةَ بِقُمّ كَمَنْ زارَني
 
 **“Whoever visits Masuma in Qum, it is like he has visited me.”**[^5]
 
 And Imam al-Ridā (A) has also said:
 
-<blockquote dir="rtl">
-  <p>
-اَلا فَمَنْ زارَني وَهُوَ عَلى غُسْلٍ، خَرَجَ مِن ْذنوبِهِ كَيومٍ
-وَلَدَتْهُ اُمُّهُ
-  </p>
-</blockquote>
+> اَلا فَمَنْ زارَني وَهُوَ عَلى غُسْلٍ، خَرَجَ مِن ْذنوبِهِ كَيومٍ
+> وَلَدَتْهُ اُمُّهُ
 
 **“Be aware, whoever visits me in a state of purity [after doing**
 ***ghusl*****], he will come out of sin and become cleansed [purified of
@@ -93,11 +69,7 @@ same reward as he would for performing my pilgrimage.”[^8]
 
 1. Imam Muhammad Taqī al-Jawād (A) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَ عَمَّتي بِقُمّ فَلَهُ الجَنَّةُ
-  </p>
-</blockquote>
+> مَنْ زارَ عَمَّتي بِقُمّ فَلَهُ الجَنَّةُ
 
 **“Whoever visits my aunt [Lady Fatima Masuma (A)] in Qum, will enter
 Heaven.”**[^9]
@@ -113,11 +85,7 @@ It is also interesting to compare this tradition with the following:
 Imam al-Sādiq (A) was asked, “what is the reward of someone who performs
 the pilgrimage of one of the Imams (A)?” Imam (A) replied:
 
-<blockquote dir="rtl">
-  <p>
-كَمَنْ زارَ رَسولَ الله
-  </p>
-</blockquote>
+> كَمَنْ زارَ رَسولَ الله
 
 **“It is like he has visited the Prophet (S) of Allah.”**[^10]
 
@@ -148,11 +116,7 @@ fact that while we revere the personalities that we have addressed in
 the Ziyārat, it is only Allah Whom we worship. All prostrations are for
 Allah only, and prostration for anyone else is forbidden.
 
-<blockquote dir="rtl">
-  <p>
-أتقرّب إلى الله بحبّكم
-  </p>
-</blockquote>
+> أتقرّب إلى الله بحبّكم
 
 *“[O Ahl al-Bayt!] I seek nearness to Allah through my love for you.*
 
@@ -177,5 +141,4 @@ Allah only, and prostration for anyone else is forbidden.
 [^9]: Bihār al-Anwār, vol. 102, p. 265.
 
 [^10]: \`Uyūn Akhbār al-Ridā, vol. 2, p. 262.
-
 

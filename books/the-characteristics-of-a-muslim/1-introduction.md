@@ -31,4 +31,3 @@ Glory is to Allah and to Allah alone.
 
 Al-Balagh Foundation
 
-

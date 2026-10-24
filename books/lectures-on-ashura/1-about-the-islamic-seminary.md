@@ -128,4 +128,3 @@ are still resounding throughout the world. A deep and unbiased study of
 the history of Ashura will convince the reader that Karbala has put into
 the shade the atrocities the world has ever seen.
 
-

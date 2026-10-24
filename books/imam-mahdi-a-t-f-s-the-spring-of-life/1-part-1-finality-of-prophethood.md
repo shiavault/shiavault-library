@@ -6,24 +6,16 @@ Imam Mahdi (a.t.f.s): Islam or Disbelief
 
 Prophets Ibrahim (a.s.) and Yaqoub (a.s.) advised their sons thus:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ
-إِلَّا وَأَنْتُمْ مُسْلِمُونَ…
-  </p>
-</blockquote>
+> يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ
+> إِلَّا وَأَنْتُمْ مُسْلِمُونَ…
 
 ***"O my sons! Surely Allah has chosen for you (this) faith, therefore
 die not unless you are Muslims."*** ***(Surah al-Baqarah, 2:132)***
 
 In another verse, Allah the Almighty addresses the believers,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا
-تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا
+> تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ
 
 ***"O you who believe! Be careful of (your duty to) Allah with care
 which is due to Him, and do not die unless you are Muslims.”***
@@ -31,29 +23,17 @@ which is due to Him, and do not die unless you are Muslims.”***
 
 In another verse, He notifies:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا 
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ
-عَذَابًا مُهِينًا
-  </p>
-</blockquote>
+> أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ
+> عَذَابًا مُهِينًا
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ
-أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ
-اللَّهُ غَفُورًا رَحِيمًا
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ
+> أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ
+> اللَّهُ غَفُورًا رَحِيمًا
 
 ***“Surely those who disbelieve in Allah and His messengers and (those
 who) desire to make a distinction between Allah and His messengers and
@@ -66,14 +46,10 @@ and Allah is Forgiving, Merciful”.*** ***(Surah Nisaa, 4:150-152)***
 
 In yet another verse, Allah the Almighty gives tidings,
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
-ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
-نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
-وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
+> ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
+> نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
+> وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
 
  ***"The Apostle believes in what has been revealed to him from his
 Lord, and (so do) the believers; they all believe in Allah and His
@@ -402,13 +378,9 @@ religion..
 Messenger of Allah and the seal of the Prophets. And Allah is the Knower
 of all things."*** ***(Surah Ahzaab, 33:40)***
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
-اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ
-عَلِيمًا
-  </p>
-</blockquote>
+> مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
+> اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ
+> عَلِيمًا
 
 This verse evidently announces of the finality of the Holy Prophet’s
 (s.a.w.a) prophethood.
@@ -416,11 +388,7 @@ This verse evidently announces of the finality of the Holy Prophet’s
 2. ***"Say: O people! Surely I am the Apostle of Allah to you all…***
 ***" (Surah A'raaf, 7:158)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا
 
 In the above verse, the terms, 'O people!' and 'to you all' explain that
 the Messenger of Allah (S) is not confined to a particular era or to a
@@ -431,12 +399,8 @@ prophethood is universal and forever.
 of truth, that He might cause it to dominate over all religions, though
 the polytheists may be averse."*** ***(Surah Tawbah, 9:33)***
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 Noticeably, domination and overpowering imply that this religion will
 continue to survive till the day of resurrection. Had Allah the Almighty
@@ -603,5 +567,4 @@ Kamaal al-Deen, vol. 1, p. 280; Behaar al-Anwaar, vol. 52, p. 93
 [^6]: Talkhis al-Tarikh al-Nabeel, p. 317 by Haikaluddin
 
 [^7]: Taryaaq al-Quloob, p. 15
-
 

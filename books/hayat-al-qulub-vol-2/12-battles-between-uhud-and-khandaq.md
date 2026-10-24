@@ -116,11 +116,7 @@ not killed. The Messenger of Allah (S) imprecated him to be afflicted
 with plague and he finally died in this scourge as was mentioned in the
 chapters of miracles. According to some traditions, this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا 
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا
 
 ***“And reckon not those who are killed in Allah’s way as dead…”***[^1]
 
@@ -179,13 +175,9 @@ submitted to his arbitration, he annulled the treaty into which the
 Quraiza had been forced, and decided against the Nuzayr on the basis of
 what Jibraeel had revealed from Allah:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي
-الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ
-تُؤْمِنْ قُلُوبُهُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي
+> الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ
+> تُؤْمِنْ قُلُوبُهُمْ
 
 ***“O Apostle! let not those grieve you who strive together in hastening
 to unbelief from among those who say with their mouths: We believe, and
@@ -193,22 +185,14 @@ their hearts do not believe…”***
 
 That is Abdullah bin Ubayy who was a hypocrite.
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ الَّذِينَ هَادُوا سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ
-آخَرِينَ لَمْ يَأْتُوكَ
-  </p>
-</blockquote>
+> وَمِنَ الَّذِينَ هَادُوا سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ
+> آخَرِينَ لَمْ يَأْتُوكَ
 
 ***“…and from among those who are Jews; they are listeners for the sake
 of a lie, listeners for another people who have not come to you…”***
 
-<blockquote dir="rtl">
-  <p>
-يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِهِ يَقُولُونَ إِنْ
-أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُوا
-  </p>
-</blockquote>
+> يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِهِ يَقُولُونَ إِنْ
+> أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُوا
 
 ***“…they alter the words from their places, saying: If you are given
 this, take it, and if you are not given this, be cautious…”***[^2]
@@ -330,13 +314,9 @@ various places, some going to Fadak and Wadiul Qura, some to Shaam and
 some to Khyber. The Almighty Allah revealed the following verses about
 them:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ
-دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ
-وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ
+> دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ
+> وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ
 
 ***“He it is Who caused those who disbelieved of the followers of the
 Book to go forth from their homes at the first banishment; you did not
@@ -344,13 +324,9 @@ think that they would go forth, while they were certain that their
 fortresses would defend them against Allah…”***  
 [^3]
 
-<blockquote dir="rtl">
-  <p>
-فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي
-قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ
-وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
-  </p>
-</blockquote>
+> فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي
+> قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ
+> وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
 
 ***“…but Allah came to them whence they did not expect, and cast terror
 into their hearts; they demolished their houses with their own hands and
@@ -358,34 +334,22 @@ the hands of the believers; therefore take a lesson, O you who have
 eyes!”***  
 [^4]
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا أَنْ كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي
-الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ
-  </p>
-</blockquote>
+> وَلَوْلَا أَنْ كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي
+> الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ
 
 ***“And had it not been that Allah had decreed for them the exile, He
 would certainly have punished them in this world, and in the hereafter
 they shall have chastisement of the fire.”***[^5]
 
-<blockquote dir="rtl">
-  <p>
-ذٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَنْ يُشَاقِّ
-اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> ذٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَنْ يُشَاقِّ
+> اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 ***“That is because they acted in opposition to Allah and His Apostle,
 and whoever acts in opposition to Allah, then surely Allah is severe in
 retributing (evil).”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلٰى
-أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلٰى
+> أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
 
 ***“Whatever palm-tree you cut down or leave standing upon its roots, it
 is by Allah’s command, and that He may abase the transgressors.”***[^7]
@@ -395,15 +359,11 @@ told Muslims about the cutting down of the trees. Then the Almighty
 Allah revealed the following verses about Abdullah bin Ubayy and his
 companions:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا يَقُولُونَ لِإِخْوَانِهِمُ
-الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ لَئِنْ أُخْرِجْتُمْ
-لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِنْ
-قُوتِلْتُمْ لَنَنْصُرَنَّكُمْ وَاللَّهُ يَشْهَدُ إِنَّهُمْ
-لَكَاذِبُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا يَقُولُونَ لِإِخْوَانِهِمُ
+> الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ لَئِنْ أُخْرِجْتُمْ
+> لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِنْ
+> قُوتِلْتُمْ لَنَنْصُرَنَّكُمْ وَاللَّهُ يَشْهَدُ إِنَّهُمْ
+> لَكَاذِبُونَ
 
 ***“Have you not seen those who have become hypocrites? They say to
 those of their brethren who disbelieve from among the followers of the
@@ -412,28 +372,20 @@ we will never obey anyone concerning you, and if you are fought against,
 we will certainly help you, and Allah bears witness that they are most
 surely liars.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُمْ وَلَئِنْ قُوتِلُوا لَا
-يَنْصُرُونَهُمْ وَلَئِنْ نَصَرُوهُمْ لَيُوَلُّنَّ الْأَدْبَارَ ثُمَّ
-لَا يُنْصَرُونَ
-  </p>
-</blockquote>
+> لَئِنْ أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُمْ وَلَئِنْ قُوتِلُوا لَا
+> يَنْصُرُونَهُمْ وَلَئِنْ نَصَرُوهُمْ لَيُوَلُّنَّ الْأَدْبَارَ ثُمَّ
+> لَا يُنْصَرُونَ
 
 ***“Certainly if these are driven forth, they will not go forth with
 them, and if they are fought against, they will not help them, and even
 if they help them, they will certainly turn (their) backs, then they
 shall not be helped.”***[^9]
 
-<blockquote dir="rtl">
-  <p>
-لَأَنْتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِمْ مِنَ اللَّهِ ۚ ذٰلِكَ
-بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ. لَا يُقَاتِلُونَكُمْ جَمِيعًا
-إِلَّا فِي قُرًى مُحَصَّنَةٍ أَوْ مِنْ وَرَاءِ جُدُرٍ ۚ بَأْسُهُمْ
-بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ
-ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ.
-  </p>
-</blockquote>
+> لَأَنْتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِمْ مِنَ اللَّهِ ۚ ذٰلِكَ
+> بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ. لَا يُقَاتِلُونَكُمْ جَمِيعًا
+> إِلَّا فِي قُرًى مُحَصَّنَةٍ أَوْ مِنْ وَرَاءِ جُدُرٍ ۚ بَأْسُهُمْ
+> بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ
+> ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ.
 
 ***“You are certainly greater in being feared in their hearts than
 Allah; that is because they are a people who do not understand. They
@@ -442,22 +394,14 @@ behind walls; their fighting between them is severe, you may think them
 as one body, and their hearts are disunited; that is because they are a
 people who have no sense.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-كَمَثَلِ الَّذِينَ مِنْ قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ
-أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> كَمَثَلِ الَّذِينَ مِنْ قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ
+> أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***“Like those before them shortly; they tasted the evil result of their
 affair, and they shall have a painful punishment.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنْسَانِ اكْفُرْ فَلَمَّا كَفَرَ
-قَالَ إِنِّي بَرِيءٌ مِنْكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنْسَانِ اكْفُرْ فَلَمَّا كَفَرَ
+> قَالَ إِنِّي بَرِيءٌ مِنْكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ
 
 ***“Like the Shaitan when he says to man: Disbelieve, but when he
 disbelieves, he says: I am surely clear of you; surely I fear Allah, the
@@ -475,11 +419,7 @@ them also. And Shaykh Tabarsi has narrated that Ansar said: “We give the
 booty to Muhajireen but are ready to give them accommodation.” At that
 juncture, the Almighty Allah said in their praise:
 
-<blockquote dir="rtl">
-  <p>
-وَيُؤْثِرُونَ عَلٰى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ 
-  </p>
-</blockquote>
+> وَيُؤْثِرُونَ عَلٰى أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
 
 ***“…and prefer (them) before themselves though poverty may afflict
 them…”***[^13]
@@ -487,11 +427,7 @@ them…”***[^13]
 Battle of Zatur Riqa and Battle of Asfan: Shaykh Tabarsi has said in
 interpretation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ
-  </p>
-</blockquote>
+> وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ
 
 ***“And when you are among them and keep up the prayer for
 them…”***[^14]
@@ -576,13 +512,9 @@ the big numbers and weapons of Quraish so that perhaps they will be
 cowed down. At that juncture, the Almighty Allah revealed the following
 verses:
 
-<blockquote dir="rtl">
-  <p>
-فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ
-وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَنْ يَكُفَّ بَأْسَ الَّذِينَ
-كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنْكِيلًا
-  </p>
-</blockquote>
+> فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ
+> وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَنْ يَكُفَّ بَأْسَ الَّذِينَ
+> كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنْكِيلًا
 
 ***“Fight then in Allah’s way; this is not imposed on you except in
 relation to yourself, and rouse the believers to ardor; maybe Allah will
@@ -608,11 +540,7 @@ war to them; they will be emboldened if we turn away now.” At last they
 returned and began to make preparations for the Battle of Khandaq. Some
 say that the verse:
 
-<blockquote dir="rtl">
-  <p>
-حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
-  </p>
-</blockquote>
+> حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ
 
 ***“…Allah is sufficient for us and most excellent is the
 Protector.”***[^16]
@@ -645,18 +573,14 @@ mentioned this matter to the Holy Prophet (S).” His uncle said: “I seek
 Allah’s help in this matter, and the following verses were revealed at
 that juncture:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
-النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ لِلْخَائِنِينَ خَصِيمًا
-﴿١٠٥﴾ وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا
-﴿١٠٦﴾ وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنْفُسَهُمْ ۚ إِنَّ
-اللَّهَ لَا يُحِبُّ مَنْ كَانَ خَوَّانًا أَثِيمًا ﴿١٠٧﴾ يَسْتَخْفُونَ
-مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ
-يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ الْقَوْلِ ۚ وَكَانَ اللَّهُ بِمَا
-يَعْمَلُونَ مُحِيطًا ﴿١٠٨﴾
-  </p>
-</blockquote>
+> إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ
+> النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ لِلْخَائِنِينَ خَصِيمًا
+> ﴿١٠٥﴾ وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا
+> ﴿١٠٦﴾ وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنْفُسَهُمْ ۚ إِنَّ
+> اللَّهَ لَا يُحِبُّ مَنْ كَانَ خَوَّانًا أَثِيمًا ﴿١٠٧﴾ يَسْتَخْفُونَ
+> مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ
+> يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ الْقَوْلِ ۚ وَكَانَ اللَّهُ بِمَا
+> يَعْمَلُونَ مُحِيطًا ﴿١٠٨﴾
 
 ***“Surely We have revealed the Book to you with the truth that you may
 judge between people by means of that which Allah has taught you; and be
@@ -677,12 +601,8 @@ said: “Repent for your vile deeds and seek forgiveness of the Almighty
 Allah.” He said: “By Allah, Labid has done it and I am free of blame.”
 At that juncture, the Almighty Allah revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا
-فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا
-  </p>
-</blockquote>
+> وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا
+> فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا
 
 ***“And whoever commits a fault or a sin, then accuses of it one
 innocent, he indeed takes upon himself the burden of a calumny and a
@@ -692,15 +612,11 @@ Imam (a.s.) said: “The Almighty Allah revealed the following verse
 regarding the relatives of Bashir who had come to the Holy Prophet (S)
 to get him acquitted from the blame:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ
-مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ ۖ وَمَا
-يَضُرُّونَكَ مِنْ شَيْءٍ ۚ وَأَنْزَلَ اللَّهُ عَلَيْكَ الْكِتَابَ
-وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ
-اللَّهِ عَلَيْكَ عَظِيمًا
-  </p>
-</blockquote>
+> وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ
+> مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ ۖ وَمَا
+> يَضُرُّونَكَ مِنْ شَيْءٍ ۚ وَأَنْزَلَ اللَّهُ عَلَيْكَ الْكِتَابَ
+> وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ
+> اللَّهِ عَلَيْكَ عَظِيمًا
 
 ***“And were it not for Allah’s grace upon you and His mercy, a party of
 them had certainly designed to bring you to perdition and they do not
@@ -714,13 +630,9 @@ to Mecca, disclosed his infidelity and became an apostate. There also he
 went to commit a theft, but a wall crashed on him and he was killed. So
 the Almighty Allah revealed the following verse about him:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ
-وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلّٰى
-وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا
-  </p>
-</blockquote>
+> وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ
+> وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلّٰى
+> وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا
 
 ***“And whoever acts hostilely to the Apostle after that guidance has
 become manifest to him, and follows other than the way of the believers,
@@ -785,13 +697,9 @@ the Prophet, they were stoned in the Masjid and the Holy Prophet (S)
 said: “I am the first to revive the divine law even though people wish
 to conceal it. At that juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ
-كَثِيرًا مِمَّا كُنْتُمْ تُخْفُونَ مِنَ الْكِتَابِ وَيَعْفُو عَنْ
-كَثِيرٍ
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ
+> كَثِيرًا مِمَّا كُنْتُمْ تُخْفُونَ مِنَ الْكِتَابِ وَيَعْفُو عَنْ
+> كَثِيرٍ
 
 ***“O followers of the Book! indeed Our Apostle has come to you making
 clear to you much of what you concealed of the Book and passing over
@@ -878,5 +786,4 @@ on the 3rd of Shaban that year, the chief of the martyrs, Imam Husain
 [^20]: Surah Nisa 4:115
 
 [^21]: Surah Maidah 5:15
-
 

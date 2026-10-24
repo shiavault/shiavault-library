@@ -33,4 +33,3 @@ welcome in Islam. But if a stubborn ignorant tries to drag a believer in
 baseless arguments, not to seek the truth, but to show how wise he is,
 the Qur’an advises to ignore him completely.
 
-

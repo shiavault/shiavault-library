@@ -166,4 +166,3 @@ ulema, after having found that temporary marriage is a lawful way to
 solve many problems, began permitting it to their youth, but under
 different names and with different facades!
 
-

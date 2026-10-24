@@ -174,4 +174,3 @@ would be accepted, and if it was returned to him, his other acts would
 be returned to him (too).” vol. 1. “The Merit of the Salat,” ch. 30,
 hadīth 5.
 
-

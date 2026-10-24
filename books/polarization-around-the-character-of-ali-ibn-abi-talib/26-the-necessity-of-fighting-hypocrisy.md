@@ -116,4 +116,3 @@ society and religion, and the interests of the unjust and the profiteers
 are endangered, these latter immediately don the disguise of sanctity,
 and display their piety and religion.
 
-

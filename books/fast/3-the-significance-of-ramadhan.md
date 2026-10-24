@@ -140,4 +140,3 @@ A fast which produces such results is surely a shield against Hell, and
 is worthy of the pronouncement of Allah: "Fast is for me and I will
 reward it Myself."
 
-

@@ -94,4 +94,3 @@ harmonize with the view that the first woman was created from a man's
 rib or that she was the one who caused humankind to be expelled from
 Heaven.
 
-

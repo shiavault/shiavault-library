@@ -27,4 +27,3 @@ al-Wardī, Tatimmat al-Mukhtasar, vol. 1, p. 233; Samhūdī, Wafā’
 al-Wafā’, vol. 1, p. 128; Azraqī, Akhbār Makkat al-Musharrafa, vol. 1,
 p. 139; Abū al-Fidā‘, Al-Mukhtasar fī Akhbār al-Bashar, vol. 1, p. 192.
 
-

@@ -324,4 +324,3 @@ I should mention that Al-’Askari had a very distinguished achievement.
 He proved beyond any doubt, in his book *Abdullah Ibn Saba,* that Ibn
 Saba never existed, and that he was invented by Sayf Ibn 'Umar.
 
-

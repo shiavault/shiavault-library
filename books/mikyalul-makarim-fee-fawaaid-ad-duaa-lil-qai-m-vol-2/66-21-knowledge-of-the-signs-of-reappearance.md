@@ -63,11 +63,7 @@ Also, supporting this matter is the dictum that it is obligatory on us
 to obey the commands of His Eminence (aj) according to the saying of the
 Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***Obey Allah and obey the Apostle and those in authority from among
 you. (Surah Nisa 4:59)***
@@ -160,12 +156,8 @@ as-Sadiq (as) became so angry, he changed his sitting position and said:
 not to be blamed for that. I heard my father say: By Allah, it is
 mentioned in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ
-أَعْنَاقُهُمْ لَهَا خَاضِعِينَ 
-  </p>
-</blockquote>
+> إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ
+> أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
 
 ***If We please, We should send down upon them a sign from the heaven so
 that their necks should stoop to it. (Qur’an, Surah Shuara 26:4)***
@@ -186,11 +178,7 @@ say that the first call is a piece of magic of the people of this house
 (Ahlul Bayt).” Then Abi Abdillah as-Sadiq (as) recited this Qur’anic
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ
-  </p>
-</blockquote>
+> وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ
 
 ***And if they see a miracle they turn aside and say: Transient magic.
 (Surah Qamar 54:2)***
@@ -242,12 +230,8 @@ what do you answer them?” I said, “With nothing.” He said, “Say to them:
 He, who has believed in them before they occur, will know which of them
 is true and which is false. Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لَا
-يَهِدِّي إِلَّا أَنْ يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
-  </p>
-</blockquote>
+> أَفَمَنْ يَهْدِي إِلَى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لَا
+> يَهِدِّي إِلَّا أَنْ يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ
 
 ***Is He then Who guides to the truth more worthy to be followed, or he
 who himself does not go aright unless he is guided? What then is the
@@ -290,11 +274,7 @@ is inevitable and is bound to happen in any case.”
 21. It is narrated by Humran bin Ayyin that Imam Baqir (as) said
 regarding the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُسَمًّى عِنْدَهُ
-  </p>
-</blockquote>
+> ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُسَمًّى عِنْدَهُ
 
 ***Then He decreed a term; and there is a term named with Him. (Qur’an,
 Surah Anam 6:2)***
@@ -382,5 +362,4 @@ Eminence, and make us among his companions.
 [^5]: Biharul Anwar, Vol. 53, Pg. 25
 
 [^6]: Kamaluddin, Vol. 2, Pg. 654, Chapter 57, Tr. No. 22
-
 

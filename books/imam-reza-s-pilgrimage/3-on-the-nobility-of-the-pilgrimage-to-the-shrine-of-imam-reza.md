@@ -304,4 +304,3 @@ creatures. O God! Please establish it as a means of healing for me, and
 as a light, since Thee are capable of all things." Then put on your
 cleanest clothes.
 
-

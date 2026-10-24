@@ -251,7 +251,6 @@ You made its destiny the sharp blades of your sword:
 
 And the grave for whoever wanted the truth to uphold...
 
-
 There is no doubt about its being consecutively reported through Sunni
 sources, according to natural laws, as you have come to know; "Allah's
 creation suffers no alteration; this is the Right Guidance, but most
@@ -335,7 +334,5 @@ ways of ascent of His presence." (Quran 70:1-3)
 This is how the tradition, concludes. Its authenticity is accepted by
 many Sunni scholars as a common fact, Wassalam.
 
-
 Hamid Famagh (Iran)
-
 

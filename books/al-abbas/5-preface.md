@@ -49,4 +49,3 @@ cut (for such).”*
 Al-’Abbas, after all, was the righteous servant of God and the epitome
 of heroism.
 
-

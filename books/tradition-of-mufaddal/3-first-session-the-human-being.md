@@ -1324,4 +1324,3 @@ heart for Allah (swt) for the boon bestowed on me.
 I had a very pleasant night due to the valuable instructions bestowed on
 me by my master.
 
-

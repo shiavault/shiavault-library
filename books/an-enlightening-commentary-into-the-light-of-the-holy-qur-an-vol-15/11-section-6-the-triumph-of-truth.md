@@ -4,13 +4,9 @@ Section 6: The Triumph of Truth
 Surah As-Saba- Verse 46
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ اِنَّمَآ أَعِظُكُم بِوَاحِدَةٍ أَن تَقُومُوا لِلَّهِ مَثْنَي
-وَفُرَادَيثُمَّ تَتَفَكَّرُوا مَا بِصَاحِبِكُم مِن جِنَّةٍ إِنْ هُوَ
-اِلاَّ نَذِيرٌ لَّكُم بَيْنَ يَدَيْ عَذَابٍ شَدِيدٍ
-  </p>
-</blockquote>
+> قُلْ اِنَّمَآ أَعِظُكُم بِوَاحِدَةٍ أَن تَقُومُوا لِلَّهِ مَثْنَي
+> وَفُرَادَيثُمَّ تَتَفَكَّرُوا مَا بِصَاحِبِكُم مِن جِنَّةٍ إِنْ هُوَ
+> اِلاَّ نَذِيرٌ لَّكُم بَيْنَ يَدَيْ عَذَابٍ شَدِيدٍ
 
 ***46. “Say: ‘I exhort you only to one (thing), that rise up for Allah’s
 sake two by two and one by one, then ponder: there is no madness in your
@@ -284,18 +280,10 @@ think deeply before you attack.”*[^13]
 Surah As-Saba- Verses 47-48
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَآ سَأَلْتُكُم مِنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِيَ إِلاَّ
-عَلَي اللَّهِ وَهُوَ عَلَي كُلّ‌ِ شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
+> قُلْ مَآ سَأَلْتُكُم مِنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِيَ إِلاَّ
+> عَلَي اللَّهِ وَهُوَ عَلَي كُلّ‌ِ شَيْءٍ شَهِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ رَبّـِي يَقْذِفُ بِالْحَقِ عَلاَّمُ الْغُيُوبِ
-  </p>
-</blockquote>
+> قُلْ إِنَّ رَبّـِي يَقْذِفُ بِالْحَقِ عَلاَّمُ الْغُيُوبِ
 
 ***47. “Say: ‘Whatever reward I have asked of you, it is for yourselves;
 my reward is only with Allah; and He is witness over all things’.”***  
@@ -452,18 +440,10 @@ will light everywhere.
 Surah As-Saba- Verses 49-50
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ جَآءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ
-  </p>
-</blockquote>
+> قُلْ جَآءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَي نَفْسِي وَإِنِ اهْتَدَيْتُ
-فَبِمَـا يُوحِي اِلَيَّ رَبّـِي اِنَّهُ سَمِيعٌ قَرِيبٌ
-  </p>
-</blockquote>
+> قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَي نَفْسِي وَإِنِ اهْتَدَيْتُ
+> فَبِمَـا يُوحِي اِلَيَّ رَبّـِي اِنَّهُ سَمِيعٌ قَرِيبٌ
 
 ***49. “Say: ‘The Truth has come, and falsehood neither brings forth
 anything nor does it reproduce (it)’.”***  
@@ -542,18 +522,10 @@ Therefore, nothing of our speaking and our demands is concealed to Him.
 Surah As-Saba- Verses 51-52
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَرَي اِذْ فَزِعُوا فَلاَ فَوْتَ وَاُخِذُوا مِن مَكَانٍ قَرِيبٍ
-  </p>
-</blockquote>
+> وَلَوْ تَرَي اِذْ فَزِعُوا فَلاَ فَوْتَ وَاُخِذُوا مِن مَكَانٍ قَرِيبٍ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا ءَامَنَّا بِهِ وَأَنَّي لَهُمُ التَّنَاوُشُ مِن مَكَانٍ
-بَعِيدٍ
-  </p>
-</blockquote>
+> وَقَالُوا ءَامَنَّا بِهِ وَأَنَّي لَهُمُ التَّنَاوُشُ مِن مَكَانٍ
+> بَعِيدٍ
 
 ***51. “And could you see when they shall become terrified, but (then)
 there shall be no escape and they shall be seized upon a near place (you
@@ -704,19 +676,11 @@ easily’, i.e., how can they reach an aim easily which is very far?
 Surah As-Saba- Verses 53-54
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ كَفَرُوا بِهِ مِن قَبْلُ وَيَقْذِفُونَ بِالْغَيْبِ مِن مَكَانٍ
-بَعِيدٍ
-  </p>
-</blockquote>
+> وَقَدْ كَفَرُوا بِهِ مِن قَبْلُ وَيَقْذِفُونَ بِالْغَيْبِ مِن مَكَانٍ
+> بَعِيدٍ
 
-<blockquote dir="rtl">
-  <p>
-وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ
-بِاَشْيَاعِهِم مِن قَبْلُ اِنَّهُمْ كَانُوا فِي شَكٍّ مُّرِيبٍ
-  </p>
-</blockquote>
+> وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ
+> بِاَشْيَاعِهِم مِن قَبْلُ اِنَّهُمْ كَانُوا فِي شَكٍّ مُّرِيبٍ
 
 ***53. “And indeed they did disbelieve in it before, and aim their
 conjectures about the unseen from a distant place.”***  
@@ -856,5 +820,4 @@ Al-Jathiyah, No. 45, verse 13
 [^18]: Bihar-ul-’Anwar, Vol. 52, P. 185
 
 [^19]: Surah Al-’An‘am, No. 6, verse 28
-
 

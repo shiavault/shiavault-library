@@ -1,13 +1,9 @@
 22. Importance of the Times of Prayers  
 ========================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ (ص): قَالَ اللٌّهُ عَزَّ وَ جَلَّ: إِنَّ
-لِعَبْدِي عَلَيَّ عَهْداً إِنْ أَقَامَ الصَّلاَةَ لِوَقْتِهَا أَنْ لاَ
-أُُعَذِّبَهُ وَ أَنْ أَدْخُلَهُ الْجَنَّةَ بِغَيرِ حِسَابٍ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ (ص): قَالَ اللٌّهُ عَزَّ وَ جَلَّ: إِنَّ
+> لِعَبْدِي عَلَيَّ عَهْداً إِنْ أَقَامَ الصَّلاَةَ لِوَقْتِهَا أَنْ لاَ
+> أُُعَذِّبَهُ وَ أَنْ أَدْخُلَهُ الْجَنَّةَ بِغَيرِ حِسَابٍ.
 
    
  The Messenger of Allah (peace be upon him and his progeny) has reported
@@ -17,5 +13,4 @@ shall not chastise him and shall place him in Paradise without any
 reckoning.”** **  
  Kanzul \`Ummal, Volume 7, Tradition 19036   
   
-
 

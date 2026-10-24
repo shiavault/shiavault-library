@@ -473,4 +473,3 @@ almost annihilating them. Nahrawan was the third and last battle Imam
 [^11]: Samirah Mukhtar al-Laythi, Jihad ash-Shi‘ah (Beirut: Dar al-Jayl,
 1396 AH), p. 36.
 
-

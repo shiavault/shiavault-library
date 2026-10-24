@@ -48,4 +48,3 @@ His Blessings upon Mr. Rizvi.
 
 June, 1971
 
-

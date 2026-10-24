@@ -102,13 +102,9 @@ The Holy Qur’an commands the sinners to approach the Holy Prophet (s)
 and request him to seek forgiveness for them from Allah since his
 request and plead is accepted by Allah. The Holy verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا
 
 ***“And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Apostle had (also) asked forgiveness
@@ -131,12 +127,8 @@ Secondly, the Islamic traditions (hadiths) clearly bear testimony to the
 fact that the angels transmit the messages of the people to the Holy
 Prophet (s). This tradition has come in *Sihah* as such:
 
-<blockquote dir="rtl">
-  <p>
-إن رسول الله قال ما مِن احدٍ يُسلٍّم على إلا ردَّ الله على روُحى حتى
-أرُد عليه السلام
-  </p>
-</blockquote>
+> إن رسول الله قال ما مِن احدٍ يُسلٍّم على إلا ردَّ الله على روُحى حتى
+> أرُد عليه السلام
 
 *The Holy Prophet (s) said: “There is no one who sends greetings upon me
 but that Allah makes his greetings reach me and I answer his
@@ -144,11 +136,7 @@ greetings.”*[^1]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وقال رسول الله... وصلُّوا على َّ فإن صلاتكم يبلُغني حيث كُنتم
-  </p>
-</blockquote>
+> وقال رسول الله... وصلُّوا على َّ فإن صلاتكم يبلُغني حيث كُنتم
 
 *“And said the Prophet of God (s) …… ‘Send greetings upon me for your
 greetings reaches me’.”* [^2]
@@ -169,20 +157,12 @@ Sufyan bin 'Anbar, who is one of the learned scholars of the Shafi'i
 school, narrates from al-'Utabi - that latter was standing near the
 grave of the Holy Prophet (s) when an Arab came and said:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا رسول الله سمعت الله يقول وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا
-أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ وَاسْتَغْفَرَ لَهُمُ
-الرَّسُولُ
-  </p>
-</blockquote>
+> السلام عليك يا رسول الله سمعت الله يقول وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا
+> أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ وَاسْتَغْفَرَ لَهُمُ
+> الرَّسُولُ
 
-<blockquote dir="rtl">
-  <p>
-لَوَجَدُوا اللَّهَ تَوَّابًا رَحِيمً وقد جئتك مستغفراً من دنبي
-مستشفعاً بك إلى ربي.
-  </p>
-</blockquote>
+> لَوَجَدُوا اللَّهَ تَوَّابًا رَحِيمً وقد جئتك مستغفراً من دنبي
+> مستشفعاً بك إلى ربي.
 
 *“Peace be upon you Oh Prophet of God, I have heard Allah saying (in
 Quran)* *‘And had they, when they were unjust to themselves, come to you
@@ -194,17 +174,9 @@ my sins and make you intercessor towards my Lord.”*
 Thereafter he cried and sought forgiveness and left the shrine of the
 Holy Prophet (s) after reciting this poem:
 
-<blockquote dir="rtl">
-  <p>
-يا خير من دُفنت بالقاع اعظمه فطاب من طيبهن القاع والاكم
-  </p>
-</blockquote>
+> يا خير من دُفنت بالقاع اعظمه فطاب من طيبهن القاع والاكم
 
-<blockquote dir="rtl">
-  <p>
-نفسي الفداء بقبر انت ساكنه فيه العفاف وفيه الجود والكرم
-  </p>
-</blockquote>
+> نفسي الفداء بقبر انت ساكنه فيه العفاف وفيه الجود والكرم
 
 Regarding this matter al-Samhudi narrates from Ali (‘a) that: “Three
 days had passed from the burial of the Holy Prophet (s). One Arab came
@@ -213,11 +185,7 @@ the grave over his head said: O Prophet, you spoke to us and we
 listened. You received from Allah what we received from you. One
 sentence which has been revealed from God is the verse:
 
-<blockquote dir="rtl">
-  <p>
-ولو أنهم إذا ظلموا
-  </p>
-</blockquote>
+> ولو أنهم إذا ظلموا
 
 “And I have done injustice to myself and I have come to you to seek
 forgiveness for me.”
@@ -232,12 +200,8 @@ his life-time. At the time of burial of Hasan ibn 'Ali (‘a), when a
 section of the people had made an uproar, Husayn ibn 'Ali (‘a),
 immediately recited the following verse in order to silence them:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ
-صَوْتِ النَّبِيِّ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ
+> صَوْتِ النَّبِيِّ
 
 ***“O you who believe! Do not raise your voices above the voice of the
 Prophet, and do not speak loud to him.*** ***(Hujurat 49:2)”***
@@ -305,11 +269,7 @@ C. *Al-Fiqh 'ala al-madhahib al-arba'a* which has been written by four
 men from the four schools of thought and exposes the thoughts of the
 four Imams of Ahl-al Sunnah whom they follow. They have written as such:
 
-<blockquote dir="rtl">
-  <p>
-زيارة قبر النبي أفضل المندوبات ورد فيها احاديث
-  </p>
-</blockquote>
+> زيارة قبر النبي أفضل المندوبات ورد فيها احاديث
 
 The *ziyarat* of the grave of the Prophet (s) is the principal
 recommendation as repeatedly found in traditions.
@@ -328,11 +288,7 @@ the shrine of the Holy Prophet (s) has been one of their indisputable
 matters. Now we shall narrate only a few of them as mentioning all of
 the traditions will lengthen our discussion. First Tradition:
 
-<blockquote dir="rtl">
-  <p>
-عن عبد الله بن عمر: من زار قبري وجبت له شفاعتي
-  </p>
-</blockquote>
+> عن عبد الله بن عمر: من زار قبري وجبت له شفاعتي
 
 *“Anyone who visits my grave will never be deprived of my
 intercession.”*
@@ -352,12 +308,8 @@ and has proved the verity and accuracy of the methods of this tradition.
 
 ### Second Tradition
 
-<blockquote dir="rtl">
-  <p>
-من جاءني زائراً (ولا تحمله) إلا زيارتي كان حقاً علىيَّ أن أكون شفيعاً
-يوم القيامة
-  </p>
-</blockquote>
+> من جاءني زائراً (ولا تحمله) إلا زيارتي كان حقاً علىيَّ أن أكون شفيعاً
+> يوم القيامة
 
 *“Anyone who comes to me with the intention of paying homage to me will
 be having a right upon me to intercede for him on the Day of
@@ -371,11 +323,7 @@ vo1. 4, page 1340.
 
 ### Third Tradition
 
-<blockquote dir="rtl">
-  <p>
-من حجّ فزار قبري بعد وفاتي كأن كمن زارني في حياتي
-  </p>
-</blockquote>
+> من حجّ فزار قبري بعد وفاتي كأن كمن زارني في حياتي
 
 *“Anyone who visits the House of Allah and then visits my grave is like
 one who has visited me during my life-time.”*
@@ -388,11 +336,7 @@ spoken extensively about the references of this tradition in his book
 
 ### Fourth Tradition
 
-<blockquote dir="rtl">
-  <p>
-من حجَّ البيت ولم يزُرني فقد جفانى
-  </p>
-</blockquote>
+> من حجَّ البيت ولم يزُرني فقد جفانى
 
 *“Anyone who visits the House of Allah and does not visit me has done
 injustice upon me.”*
@@ -403,11 +347,7 @@ memorizers of tradition. Also refer to *Wafa' al-wafa'* volume 4 page
 
 ### Fifth Tradition
 
-<blockquote dir="rtl">
-  <p>
-من زار قبري (أو من زارتي) كنت له شفيعاً
-  </p>
-</blockquote>
+> من زار قبري (أو من زارتي) كنت له شفيعاً
 
 *“I will become an intercessor for anyone who pays homage to me by
 coming to my shrine.”*
@@ -417,11 +357,7 @@ This tradition has been narrated by thirteen *muhaddithun* and *huffaz*
 
 ### Sixth Tradition
 
-<blockquote dir="rtl">
-  <p>
-من زارني بعد موتى فكأنما زارتي في حياتي
-  </p>
-</blockquote>
+> من زارني بعد موتى فكأنما زارتي في حياتي
 
 *“Anyone who visits me after my demise is like one who has visited me
 during my lifetime.”*
@@ -452,12 +388,8 @@ permissible.
 Muhammad ibn ’Abd al-Wahhab writes in the second treatise in *al-Rasa'il
 al-hadiyya al-saniyya*[^3] as follows:
 
-<blockquote dir="rtl">
-  <p>
-تُسنُّ زيارة النبيّ إلا أنه لا يُشد الرَّحل إلا لزيارة المسجد والصلاة
-فيه
-  </p>
-</blockquote>
+> تُسنُّ زيارة النبيّ إلا أنه لا يُشد الرَّحل إلا لزيارة المسجد والصلاة
+> فيه
 
 *“Ziyara* *of the Holy Prophet (s) is* *mustahab* *(recommended) but
 journey specifically undertaken for* *ziyara* *of mosques and reciting
@@ -467,11 +399,7 @@ Their main reasoning for *ziyara* being forbidden is the following
 tradition which has been narrated in the *Sihah*. The narrator of this
 tradition is Abu Hurayra who says that the Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُشد الرحال إلا إلى ثلاثة مساجد مسجدي هذا ومسجد الحرام ومسجد الأقصى
-  </p>
-</blockquote>
+> لا تُشد الرحال إلا إلى ثلاثة مساجد مسجدي هذا ومسجد الحرام ومسجد الأقصى
 
 *“The load of journey cannot be fastened except for (journey towards)
 three mosques - my own Mosque, Masjid al-Haram and Masjid al-'Aqsa.”*
@@ -479,19 +407,11 @@ three mosques - my own Mosque, Masjid al-Haram and Masjid al-'Aqsa.”*
 The text of this tradition is narrated in some other way too and that
 is:
 
-<blockquote dir="rtl">
-  <p>
-إنما يُسافر إلى ثلاثة مساجد ، مسجد الكعبة ومسجدي ومسجد ايليا
-  </p>
-</blockquote>
+> إنما يُسافر إلى ثلاثة مساجد ، مسجد الكعبة ومسجدي ومسجد ايليا
 
 Still this text has been narrated in a third way:
 
-<blockquote dir="rtl">
-  <p>
-تُشد الرحال إلى ثلاثة مساجد
-  </p>
-</blockquote>
+> تُشد الرحال إلى ثلاثة مساجد
 
 [^4]  
  That the tradition has come in the books of *Sihah* is not doubtful and
@@ -500,27 +420,15 @@ important is to understand the context of the tradition.
 
 Let us suppose the text of the tradition is as such:
 
-<blockquote dir="rtl">
-  <p>
-لا تُشد الرحال إلا ثلاثة مساجد
-  </p>
-</blockquote>
+> لا تُشد الرحال إلا ثلاثة مساجد
 
 Indisputably the word of **إلا**is an exception and requires **مستثنى
 منه** (that from which the exception is made) and before referring to
 the evidences we can presume the **مستثن منه** in two ways:
 
-<blockquote dir="rtl">
-  <p>
-لا تُشد إلى مسجد من المساجد إلا ثلاثة مساجد
-  </p>
-</blockquote>
+> لا تُشد إلى مسجد من المساجد إلا ثلاثة مساجد
 
-<blockquote dir="rtl">
-  <p>
-لا تشد إلى مكان من الأمكنة إلا إلى ثلاثة مساجد
-  </p>
-</blockquote>
+> لا تشد إلى مكان من الأمكنة إلا إلى ثلاثة مساجد
 
 Understanding the context of the tradition depends on selecting one of
 the two assumptions.
@@ -561,13 +469,9 @@ knowledge, establishing bonds of relationship or visiting parents are
 such journeys which have been emphasised in Qur’an and traditions.
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ
-لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا
-إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
-  </p>
-</blockquote>
+> فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ
+> لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا
+> إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
 
 ***“Why should not then a company from every party from among them go
 forth that they may apply themselves obtain understanding*** ***in
@@ -617,12 +521,8 @@ narrate that the Holy Prophet (s) and his companions would visit Masjid
 Quba on Saturdays and recite prayer at that place. Here is the text of
 Sahih Bukhari:
 
-<blockquote dir="rtl">
-  <p>
-إن النبيّ كان يأتي مسجد قباء كل سبت ماشياً وراكباً وإن ابن عمر كان
-يفعل كذلك
-  </p>
-</blockquote>
+> إن النبيّ كان يأتي مسجد قباء كل سبت ماشياً وراكباً وإن ابن عمر كان
+> يفعل كذلك
 
 *“The Holy Prophet (s) used to go for* *ziyara* *of Masjid Quba on every
 Saturday either on foot or on a mount. The son of ‘Umar too would do the
@@ -662,5 +562,4 @@ al-Suyuti) vol. 2 page 37.
 [^7]: Sahih al-Bukhari, vol. 2 page 76. Sahih Muslim (with Sharh of
 al-Nawawi) vol. 9 pages 169-171; Sunan al-Nasa'i (with Sharh of
 al-Suyuti) vol. 2 page 37.
-
 

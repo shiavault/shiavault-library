@@ -40,4 +40,3 @@ before the *nūn* of separation, for example: **هل** **تُکرِمُوني.**
 for example: **احترام** **الشیوخَ.** In this case the *mīm* is given a
 *kasrah* so two letters without vowel signs will not occur together.
 
-

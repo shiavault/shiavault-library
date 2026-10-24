@@ -1,12 +1,8 @@
 Members of The Cloak Completed
 ==============================
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا إكتَمَلنا جَمِيعاً تَحتَ الكِساءِ أَخَذَ أَبي رَسُولُ اللهِ
-بِطَرَفَيِ الكِساءِ وَ أَومَأَ بِيَدِهِ اليُمنى إِلىَ السَّماءِ
-  </p>
-</blockquote>
+> فَلَمَّا إكتَمَلنا جَمِيعاً تَحتَ الكِساءِ أَخَذَ أَبي رَسُولُ اللهِ
+> بِطَرَفَيِ الكِساءِ وَ أَومَأَ بِيَدِهِ اليُمنى إِلىَ السَّماءِ
 
 **When all of us sat under the cloak, my father the Messenger of Allah
 took hold of the two edges of the cloak with one hand, pointed to the
@@ -65,12 +61,8 @@ Muslim attendees gave their pledge of allegiance to Ali, the following
 verse was revealed confirming the perfection and completion of the whole
 message of Islam,
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
 
 ***This day have I perfected for you your religion and completed My
 favor on you and chosen for you Islam as a religion. (5:3)***
@@ -100,5 +92,4 @@ under the cloak is about to be achieved, and the blessings behind this
 scene is about to be manifested! What could that purpose and blessing be
 and what is the significance behind the cloak which has gathered very
 holy personalities under it?
-
 

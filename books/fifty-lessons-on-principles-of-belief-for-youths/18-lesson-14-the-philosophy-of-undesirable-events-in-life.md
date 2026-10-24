@@ -101,4 +101,3 @@ Lives,
  5. Which people attain positive results from bitter events and which
 ones, negative results
 
-

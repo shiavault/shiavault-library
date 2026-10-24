@@ -2520,4 +2520,3 @@ al-Mufid, vol.5, 1413, Qum
 
 [^59]: Biharu ‘l-anwar, vol.5. p.279
 
-

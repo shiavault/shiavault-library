@@ -34,4 +34,3 @@ beings in it.”1
 So, this is the definition of environment considering man a pivotal
 point in it.
 
-

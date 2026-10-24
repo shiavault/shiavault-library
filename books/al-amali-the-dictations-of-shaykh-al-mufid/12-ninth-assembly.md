@@ -271,4 +271,3 @@ from him the misfortunes of that day:"
  And then he should mention Muhammad and his progeny in a befitting good
 way, greeting them with peace.
 
-

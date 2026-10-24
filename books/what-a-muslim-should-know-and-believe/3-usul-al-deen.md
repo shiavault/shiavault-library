@@ -152,4 +152,3 @@ logical proofs, so that nobody can mislead them in later days.
 
 [^1]: These are various religious monetary dues.
 
-

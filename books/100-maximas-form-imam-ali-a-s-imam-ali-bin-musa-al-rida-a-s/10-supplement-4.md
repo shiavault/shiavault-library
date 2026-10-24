@@ -10,11 +10,8 @@ degree to Faith, and cirtitude (conviction) is a station superior to
 faith. Nothing better has been bestowed upon human beings than
 certitude.
 
-<p dir="rtl">
 زيارة اَمِينَ الله
-</p>
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم؛ اَلسَّلامُ عَلَيکَ يَا اَمينَ الله في أرضِهِ
 وَحُجَّتَهُ عَل? عِبادِهِ اَلسَّلامُ عَلَيکَ يَا اَمِيرَالمُؤمِنِينَ
 اَشهَدُ اَنَّکَ جاهَدتَ فيِ الله حَقَّ جِهادِهِ وَعَمِلتَ بِکِتابِهِ
@@ -48,7 +45,6 @@ certitude.
 اَعدَائَنا وَاشغَلهُم عَن اَذانا وَاَظهِر کَلِمَةَ الحَقَّ وَالجعَلنَا
 العُليا وَاَدحِض کَلِمَةَ الباطِلِ وَاجعَلهَا السُّفل? اِنَّکَ عَل?
 کُلَّ شَيءٍ قَدِيرٌ.
-</p>
 
 ZIYAARAT AMEENALLAAH
 
@@ -142,5 +138,4 @@ their attention,
 let the "true Word" come out in the open, supreme and dominant, refute
 and condemn the "foul lie", rendered contemptible, Verily, Thou art able
 to do all things.
-
 

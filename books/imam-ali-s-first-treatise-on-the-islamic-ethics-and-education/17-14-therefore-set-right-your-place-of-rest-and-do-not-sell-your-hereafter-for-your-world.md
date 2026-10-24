@@ -1,11 +1,7 @@
 14) Therefore, set right your place of rest and do not sell your Hereafter for your world.
 ==========================================================================================
 
-<blockquote dir="rtl">
-  <p>
-“فاصلح مثواك ولا تبع آخرتك بدنياك “
-  </p>
-</blockquote>
+> “فاصلح مثواك ولا تبع آخرتك بدنياك “
 
 After the above 13 recommendations to his son, each of which is one
 stage of self-improvement, the Imam (as) comes to the following
@@ -22,11 +18,7 @@ And, since in accordance with the logic of Qur’an, the punishment in the
 Hereafter is just the manifestation of our affairs here in this world,
 and since the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"وَوَجَدُوا مَا عَمِلُوا حَاضِرًا"
-  </p>
-</blockquote>
+> "وَوَجَدُوا مَا عَمِلُوا حَاضِرًا"
 
 ***"..and what they had done they shall find present (there)"***[^3] and
 
@@ -55,5 +47,4 @@ than them are those who sell the Hereafter for another world."
 [^3]: . Qur’an 18:49.
 
 [^4]: . Qur’an 99:7-8.
-
 

@@ -174,4 +174,3 @@ go to their respective cities, so that Allah might grant them relief,
 because the enemies were after him only, and, after having overpowered
 him, they would have nothing to do with anyone else.
 
-

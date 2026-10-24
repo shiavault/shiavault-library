@@ -34,4 +34,3 @@ years and shall continue to do so for billions of years to come.
 We must therefore accept as Imam Jafar al-Sadiq (A.S) has said, that, no
 one except Allah (swt) knows the number of large and small worlds.
 
-

@@ -4,19 +4,11 @@ Section 5: Abraham Argues Against Idolatry
 Surah Al-’Anbiya’ – Verses 51 - 52
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَآ إِبْرَاهِيمَ رُشْدَهُ مِن قَبْلُ وَكُنَّا بِهِ
-عَالِمِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَآ إِبْرَاهِيمَ رُشْدَهُ مِن قَبْلُ وَكُنَّا بِهِ
+> عَالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لأَبِيهِ وَقَوْمِهِ مَا هَذِهِ التَّـمَاثِيلُ الَّتِي
-أَنْتُم لَهَا عَاكِفُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لأَبِيهِ وَقَوْمِهِ مَا هَذِهِ التَّـمَاثِيلُ الَّتِي
+> أَنْتُم لَهَا عَاكِفُونَ
 
 ***51. “And indeed We gave Abraham aforetime his rectitude, and We were
 aware of him (his eligibilities).”***  
@@ -62,17 +54,9 @@ worship.
 Surah Al-’Anbiya’ – Verses 53 - 54
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا وَجَدْنَآ ءَابَآءَنَا لَهَا عَابِدِينَ
-  </p>
-</blockquote>
+> قَالُوا وَجَدْنَآ ءَابَآءَنَا لَهَا عَابِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَقَدْ كُنتُمْ أَنْتُم وءَابَآؤُكُمْ فِي ضَلاَلٍ مُبِينٍ
-  </p>
-</blockquote>
+> قَالَ لَقَدْ كُنتُمْ أَنْتُم وءَابَآؤُكُمْ فِي ضَلاَلٍ مُبِينٍ
 
 ***53. “They said: ‘We found our fathers worshipping them’.”***  
 ***54. “He said: ‘Indeed you and your fathers have been in manifest
@@ -173,18 +157,10 @@ stand guarantor of your rescue and prosperity.”* [^10]
 Surah Al-’Anbiya’ – Verses 55 - 56
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَجِئْتَنَا بِالْحَقّ‌ِ أَمْ أَنتَ مِنَ اللاَّعِبِينَ
-  </p>
-</blockquote>
+> قَالُوا أَجِئْتَنَا بِالْحَقّ‌ِ أَمْ أَنتَ مِنَ اللاَّعِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَل رَبُّكُمْ رَبُّ السَّمَاوَاتِ وَالاَرْضِ الَّذِي فَطَرَهُنَّ
-وَأَنَا عَلَي ذَلِكُم مِنَ الشَّاهِدِينَ
-  </p>
-</blockquote>
+> قَالَ بَل رَبُّكُمْ رَبُّ السَّمَاوَاتِ وَالاَرْضِ الَّذِي فَطَرَهُنَّ
+> وَأَنَا عَلَي ذَلِكُم مِنَ الشَّاهِدِينَ
 
 ***55. “They said: ‘Have you brought to us the truth, or are you one of
 the triflers’.”***  
@@ -226,11 +202,7 @@ and all beings.
 Surah Al-’Anbiya’ – Verse 57
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَاللَّهِ لاََكِيدَنَّ أَصْنَامَكُم بَعْدَ أَن تُوَلُّوا مُدْبِرِينَ
-  </p>
-</blockquote>
+> وَتَاللَّهِ لاََكِيدَنَّ أَصْنَامَكُم بَعْدَ أَن تُوَلُّوا مُدْبِرِينَ
 
 ***57. “And, by Allah, I will certainly plan against your idols after
 you go away turning your backs’.”***
@@ -335,24 +307,12 @@ an animal, it does not matter’.”*[^14]
 Surah Al-’Anbiya’ – Verses 58 - 60
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلَهُمْ جُذَاذاً إِلاَّ كَبِيراً لَّهُمْ لَعَلَّهُمْ إِلَيْهِ
-يَرْجِعُونَ
-  </p>
-</blockquote>
+> فَجَعَلَهُمْ جُذَاذاً إِلاَّ كَبِيراً لَّهُمْ لَعَلَّهُمْ إِلَيْهِ
+> يَرْجِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا مَن فَعَلَ هَذَا بِاَلِهَتِنَآ إِنَّهُ لَمِنَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> قَالُوا مَن فَعَلَ هَذَا بِاَلِهَتِنَآ إِنَّهُ لَمِنَ الظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا سَمِعْنَا فَتىً يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ
-  </p>
-</blockquote>
+> قَالُوا سَمِعْنَا فَتىً يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ
 
 ***58. “So he broke them into pieces, (all) except the chief of them,
 that haply they may return to it.”***  
@@ -416,24 +376,12 @@ completely young, and he was probably about sixteen years old.
 Surah Al-’Anbiya’ – Verses 61 - 63
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا فَأْتُواْ بِهِ عَلَي أَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
-  </p>
-</blockquote>
+> قَالُوا فَأْتُواْ بِهِ عَلَي أَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا ءَأَنتَ فَعَلْتَ هَذَا بِاَلِهَتِنَا يَآ إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> قَالُوا ءَأَنتَ فَعَلْتَ هَذَا بِاَلِهَتِنَا يَآ إِبْرَاهِيمَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَذَا فَسْاَلُوهُمْ إِن كَانُوا
-يَنطِقُونَ
-  </p>
-</blockquote>
+> قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَذَا فَسْاَلُوهُمْ إِن كَانُوا
+> يَنطِقُونَ
 
 ***61. “They said: ‘Then bring him before the eyes of the people, that
 they may bear witness’.”***  
@@ -536,18 +484,10 @@ Safi, and Nur-uth-Thaqalayn.
 Surah Al-’Anbiya’ – Verses 64 - 65
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرَجَعُوا إِلَي أَنفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنتُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> فَرَجَعُوا إِلَي أَنفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنتُمُ الظَّالِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ نُكِسُوا عَلَي رُؤُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَؤُلآءِ
-يَنطِقُونَ
-  </p>
-</blockquote>
+> ثُمَّ نُكِسُوا عَلَي رُؤُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَؤُلآءِ
+> يَنطِقُونَ
 
 ***64. “So they turned to themselves and said: ‘Verily, you yourselves
 are the unjust’.”***  
@@ -604,25 +544,13 @@ abasement of the idols by this hollow excuse.
 Surah Al-’Anbiya’ – Verses 66 - 68
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَفَتَعْبُدُونَ مِن دُونِ اللَّهِ مَالاَ يَنفَعُكُمْ شَيْئاً
-وَلاَ يَضُرُّكُمْ
-  </p>
-</blockquote>
+> قَالَ أَفَتَعْبُدُونَ مِن دُونِ اللَّهِ مَالاَ يَنفَعُكُمْ شَيْئاً
+> وَلاَ يَضُرُّكُمْ
 
-<blockquote dir="rtl">
-  <p>
-اُفٍّ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ اللَّهِ أَفَلاَ
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> اُفٍّ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ اللَّهِ أَفَلاَ
+> تَعْقِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا حِرّ‌ِقُوهُ وَانصُرُوا ءَالِهَتَكُمْ إِن كُنتُمْ فَاعِلِينَ
-  </p>
-</blockquote>
+> قَالُوا حِرّ‌ِقُوهُ وَانصُرُوا ءَالِهَتَكُمْ إِن كُنتُمْ فَاعِلِينَ
 
 ***66. “(Abraham) said: ‘Do you then worship, besides Allah, that which
 profits you nothing, neither hurts you?”***  
@@ -680,17 +608,9 @@ provided.
 Surah Al-’Anbiya’ – Verses 69 - 70
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا يَانَارُ كُونِي بَرْداً وَسَلاَماً عَلَي إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> قُلْنَا يَانَارُ كُونِي بَرْداً وَسَلاَماً عَلَي إِبْرَاهِيمَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَرَادُوا بِهِ كَيْداً فَجَعَلْنَاهُمُ الاَخْسَرِينَ
-  </p>
-</blockquote>
+> وَأَرَادُوا بِهِ كَيْداً فَجَعَلْنَاهُمُ الاَخْسَرِينَ
 
 ***69. “We said: ‘O fire! Be you cold and safety for Abraham!’”***  
 ***70. “And they intended a device against him, but We made them the
@@ -766,12 +686,8 @@ compensate it.
 Surah Al-’Anbiya’ – Verse 71
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَجَّيْنَاهُ وَلُوطاً إِلَي الاَرْضِ الَّتِي بَارَكْنَا فِيهَا
-لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَنَجَّيْنَاهُ وَلُوطاً إِلَي الاَرْضِ الَّتِي بَارَكْنَا فِيهَا
+> لِلْعَالَمِينَ
 
 ***71. “And we delivered him, and Lot, unto the land which We have
 blessed for (all) peoples.”***
@@ -811,12 +727,8 @@ for (all) peoples.”***
 Surah Al-’Anbiya’ – Verse 72
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً وَكُلاًّ جَعَلْنَا
-صَالِحِينَ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً وَكُلاًّ جَعَلْنَا
+> صَالِحِينَ
 
 ***72. “And We bestowed on him Isaac and Jacob as a further gift, and We
 made them all righteous.”***
@@ -848,13 +760,9 @@ a child is his being righteous.
 Surah Al-’Anbiya’ – Verse 73
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ
-إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلاَةِ وَإِيتَآءَ
-الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ
+> إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلاَةِ وَإِيتَآءَ
+> الزَّكَاةِ وَكَانُوا لَنَا عَابِدِينَ
 
 ***73. “And We made them leaders guiding (the people) by Our command,
 and We revealed to them the doing of good deeds, and the establishing
@@ -984,19 +892,11 @@ government.
 Surah Al-’Anbiya’ – Verses 74 - 75
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلُوطاً ءَاتَيْنَاهُ حُكْماً وَعِلْماً وَنَجَّيْنَاهُ مِنَ
-الْقَرْيَةِ الَّتِي كَانَتْ تَعْمَلُ الْخَبَآئِثَ إِنَّهُمْ كَانُوا
-قَوْمَ سَوْءٍ فَاسِقِينَ
-  </p>
-</blockquote>
+> وَلُوطاً ءَاتَيْنَاهُ حُكْماً وَعِلْماً وَنَجَّيْنَاهُ مِنَ
+> الْقَرْيَةِ الَّتِي كَانَتْ تَعْمَلُ الْخَبَآئِثَ إِنَّهُمْ كَانُوا
+> قَوْمَ سَوْءٍ فَاسِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَدْخَلْنَاهُ فِي رَحْمَتِنَآ إِنَّهُ مِنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَأَدْخَلْنَاهُ فِي رَحْمَتِنَآ إِنَّهُ مِنَ الصَّالِحِينَ
 
 ***74. “And Lot, We gave him wisdom and knowledge, and We delivered him
 from the town which were doing abominations. Verily they were evil
@@ -1095,5 +995,4 @@ saying, they returned one another and blamed themselves.
 [^20]: Al-Manar, vol. 1, pp. 457-458
 
 [^21]: Surah Al-Qasas, No. 28, verse 41
-
 

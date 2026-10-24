@@ -172,4 +172,3 @@ football* unless a set of rules defining football was already in
 existence, and unless they knew about these rules. The latter constitute
 the very possibility of the activity of playing football.
 
-

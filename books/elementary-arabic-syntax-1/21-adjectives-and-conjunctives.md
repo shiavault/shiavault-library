@@ -19,13 +19,8 @@ describing in:
  A conjunction is a preposition connecting two phrases that follow each
 other in vowel signs. The prepositions used as conjunctions are:
 
-<blockquote dir="rtl">
-  <p>
-الواو الفاء ثُمّ أو أم لکن لا بَل
-  </p>
-</blockquote>
+> الواو الفاء ثُمّ أو أم لکن لا بَل
 
 For example: **کَسَرتُ** **القَلَمَ** **و** **الدَواةَ** (I broke the
 pen and ink holder.)
-
 

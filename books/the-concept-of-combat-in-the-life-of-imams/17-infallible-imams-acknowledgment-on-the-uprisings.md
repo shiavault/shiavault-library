@@ -67,4 +67,3 @@ against the Imams, which include those taken by Mansur against Imam
 Sadiq (as) and the ones taken by Harun against Imam Kadhim (as). I have
 already alluded to some of them.
 
-

@@ -11,10 +11,5 @@ Profit And Gain
 exchanged the transient for the eternal.
 
 > 2ـ الرّابِحُ مَنْ باعَ الدُّنيا بِالآخِرَةِ، واسْتَبْدَلَ بِالآجِلَةِ
-<blockquote dir="rtl">
-  <p>
-عَنِ العاجِلَةِ.
-  </p>
-</blockquote>
-
+> عَنِ العاجِلَةِ.
 

@@ -38,4 +38,3 @@ Therefore:
 
 (5) It is not possible that God exists.
 
-

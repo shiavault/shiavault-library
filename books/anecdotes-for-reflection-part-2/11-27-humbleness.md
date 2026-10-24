@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ عِباَدُ الرَّحْمٌنِ الَّذِيْنَ يَمْشُوْنَ عَلى الأَرْضِ هَوْناً
-  </p>
-</blockquote>
+> وَ عِباَدُ الرَّحْمٌنِ الَّذِيْنَ يَمْشُوْنَ عَلى الأَرْضِ هَوْناً
 
 “And the servants of the Beneficent Allah are they who walk on the earth
 in humbleness.”[^1]
 
 The Noble Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-ماَ تَواَضَعَ أَحَدٌ لِلٌّهِ إِِلاَّ رَفَعَهُ اللٌّهُ.
-  </p>
-</blockquote>
+> ماَ تَواَضَعَ أَحَدٌ لِلٌّهِ إِِلاَّ رَفَعَهُ اللٌّهُ.
 
 “There is none, who exhibits humility for (the sake of) Allah, except
 that Allah grants him greatness and eminence.”[^2]
@@ -172,5 +164,4 @@ Volume 3, Page 238
 3, Page 18
 
 [^8]: Namunah-e-Ma’arif, Volume 3, Page 223; Al-Wafi, Volume 1, Page 4
-
 

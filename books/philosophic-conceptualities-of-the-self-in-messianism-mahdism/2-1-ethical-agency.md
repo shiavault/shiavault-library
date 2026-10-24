@@ -228,4 +228,3 @@ perfect through resurrection. Until then, we are ethical agents on a
 pilgrimage between the inauguration and the completion of Messianic
 promises.[^11]
 
-

@@ -415,4 +415,3 @@ Khaldun, Tarikh Asim Kufi and Tarikh Tabari etc.
 
 [^17]: Surah Bani Israel 17:81
 
-

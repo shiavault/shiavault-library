@@ -1,13 +1,9 @@
 Discourse 34: An Unpleasant Demeanor
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ! لِكُلِّ ذَنْـبٍ تَوْبَةٌ إِلاَّ
-سُوءُ الْخُلْقِ فَإِنَّ صَاحِبَهُ كُلَّمَا خَرَجَ مِنْ ذَنْبٍ دَخَلَ
-فِي ذَنْبٍ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ! لِكُلِّ ذَنْـبٍ تَوْبَةٌ إِلاَّ
+> سُوءُ الْخُلْقِ فَإِنَّ صَاحِبَهُ كُلَّمَا خَرَجَ مِنْ ذَنْبٍ دَخَلَ
+> فِي ذَنْبٍ.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! There is repentance for
 every sin except for having a bad demeanor, since every time a person
@@ -167,11 +163,7 @@ for those who are working around other people. Thus, in order to be able
 to have more a greater impact on the hearts of the people, we must not
 be the manifestation of the verse, which reads:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُنْتَ فَظًّا غَلِيظَ الْقَلْبِ لاَنْفَضُّوا مِنْ حَوْلِكَ
-  </p>
-</blockquote>
+> لَوْ كُنْتَ فَظًّا غَلِيظَ الْقَلْبِ لاَنْفَضُّوا مِنْ حَوْلِكَ
 
 “Had you (O' Muhammad) been very harsh, then surely the people would
 have dispersed from around you…”[^2]
@@ -179,11 +171,7 @@ have dispersed from around you…”[^2]
 Rather, we must be the manifestation of the portion of the verse which
 reads:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِنَ اللٌّهِ لِـنْتَ لَهُمْ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِنَ اللٌّهِ لِـنْتَ لَهُمْ
 
 “So then it is from the mercy of Allah that you are lenient with
 them…”[^3]
@@ -236,11 +224,7 @@ thought he would do, ordered the Muslims to forgive all of the
 polytheists of Makkah and all of their crimes were forgotten! Through
 this act of his, the following verse of the Qur’an became manifest:
 
-<blockquote dir="rtl">
-  <p>
-… وَ رَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللٌّهِ أَفْواجاً
-  </p>
-</blockquote>
+> … وَ رَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللٌّهِ أَفْواجاً
 
 “…and you see people entering into the faith of Allah in groups…”
 
@@ -289,11 +273,7 @@ the Prophet (S) was not there, then the backwards, ignorant ‘Arab nation
 and the angry, hard-lined ‘Arabs would not have entered into the faith
 of Islam and would have been the manifestation of the verse which reads:
 
-<blockquote dir="rtl">
-  <p>
-لاَنْفَضُّوا مِنْ حَوْلِكَ
-  </p>
-</blockquote>
+> لاَنْفَضُّوا مِنْ حَوْلِكَ
 
 “…they would have dispersed from around you…”
 
@@ -312,11 +292,7 @@ traditions.
 
 1. The Prophet of Islam (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا بُعِثْتُ لِـأُتَمِّمَ مَكَارِمَ الأََخْلاَقِ.
-  </p>
-</blockquote>
+> إِنَّمَا بُعِثْتُ لِـأُتَمِّمَ مَكَارِمَ الأََخْلاَقِ.
 
 “I was raised up (as a Prophet) to perfect the ethical traits.”
 
@@ -325,12 +301,8 @@ was to perfect the noble ethical traits.
 
 2. In another tradition from the Prophet (S), it is mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُ لَيُدْرِكَ بِحُسْنِ خُلْقِهِ دَرَجَةَ قَائِمِ
-اللَّيْلِ وَ صَائِمِ النَّهَارِ.
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُ لَيُدْرِكَ بِحُسْنِ خُلْقِهِ دَرَجَةَ قَائِمِ
+> اللَّيْلِ وَ صَائِمِ النَّهَارِ.
 
 “The true believer who possesses a good demeanor shall reach to the
 level of the person who stands up all night in the worship and fasts
@@ -338,25 +310,17 @@ during the entire day.”[^4]
 
 3. In another tradition from the Prophet of Islam (S),  he said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍ أَثْقَلَ فِـي الْمِيزَانِ مِنْ خُلِقِ حَسَنِ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍ أَثْقَلَ فِـي الْمِيزَانِ مِنْ خُلِقِ حَسَنِ.
 
 “Nothing is heavier in the scale (of good deeds) than having a good
 demeanor.”[^5]
 
 4. It has also been narrated from the Prophet (S) that he said:
 
-<blockquote dir="rtl">
-  <p>
-أَحَبَّكُمْ إِلـى اللٌّهِ أَحْسَنُكُمْ أَخْلاقاً أَلْمَوْطُؤنَ
-أَكْنَافاً، أَلَّذِينَ يَأْلَفُونَ وَ يُؤلِفُونَ. وَ أَبْغَضُكُمْ
-إِلـى اللٌّهِ الْمَشَّاؤُونَ بِالنَمِيمَةِ، أَلْمُفَرِّقُونَ بَيْنَ
-الإِخَوَانَ، أَلْمُلْتَمِسُونَ لِلْبَرَآءِ الْعَثَرَاتِ.
-  </p>
-</blockquote>
+> أَحَبَّكُمْ إِلـى اللٌّهِ أَحْسَنُكُمْ أَخْلاقاً أَلْمَوْطُؤنَ
+> أَكْنَافاً، أَلَّذِينَ يَأْلَفُونَ وَ يُؤلِفُونَ. وَ أَبْغَضُكُمْ
+> إِلـى اللٌّهِ الْمَشَّاؤُونَ بِالنَمِيمَةِ، أَلْمُفَرِّقُونَ بَيْنَ
+> الإِخَوَانَ، أَلْمُلْتَمِسُونَ لِلْبَرَآءِ الْعَثَرَاتِ.
 
 “The most beloved of you to Allah is the one who has the best etiquette;
 the one who is the most humble and modest; that person who is
@@ -368,12 +332,8 @@ person who tries to find faults in those who are free of error.”[^6]
 5. In another tradition from the Prophet (S) it has been mentioned that
 he said:
 
-<blockquote dir="rtl">
-  <p>
-أَكْـثَرُ مَا يَدْخُلُ النَّاسَ الْجَنَةَ تَقْوى اللٌّهِ وَ حُسْنُ
-الْخُلْقِ.
-  </p>
-</blockquote>
+> أَكْـثَرُ مَا يَدْخُلُ النَّاسَ الْجَنَةَ تَقْوى اللٌّهِ وَ حُسْنُ
+> الْخُلْقِ.
 
 “The greatest of things which will permit a person to enter into
 Paradise will be his Consciousness of Allah (Taqwa) and his good
@@ -381,24 +341,16 @@ demeanor.”[^7]
 
 6. In a tradition from Imam Muhammad b. ‘Ali al-Baqir (as) we read that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْمَلَ الْمُؤْمِنِينَ إِيْمَاناً أَحْسَنُهُمْ خُلْقاً.
-  </p>
-</blockquote>
+> إِنَّ أَكْمَلَ الْمُؤْمِنِينَ إِيْمَاناً أَحْسَنُهُمْ خُلْقاً.
 
 “Surely the most perfect of believers in true faith is the one whose
 demeanor and etiquette is the best.”[^8]  
  7. In a tradition from Imam ‘Ali b. Musa al-Riza (as) we read that the
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُمْ بِحُسْنِ الْخُلْقِ، فَإِنَّ حُسْنَ الْخُلْقِ فِي الْجَنَّةِ
-لاَ مَحَالَةَ، وَ إِيَّاكُمْ وَ سُوءَ الْخُلْقِ، فَإِنَّ سُوءَ
-الْخُلْقِ فِي النَّارِ لاَ مَحالَةَ.
-  </p>
-</blockquote>
+> عَلَيْكُمْ بِحُسْنِ الْخُلْقِ، فَإِنَّ حُسْنَ الْخُلْقِ فِي الْجَنَّةِ
+> لاَ مَحَالَةَ، وَ إِيَّاكُمْ وَ سُوءَ الْخُلْقِ، فَإِنَّ سُوءَ
+> الْخُلْقِ فِي النَّارِ لاَ مَحالَةَ.
 
 “I advise you all to have a good demeanor since the outcome of having a
 good demeanor is Paradise, and I warn you to keep away from having bad
@@ -415,55 +367,35 @@ On the other hand, a bad demeanor has also been mentioned in the Islamic
 narrations:  
  1. The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْخُلْقُ السَّيِّءُ يُفْسِدُ الْعَمَلَ كَمَا يُفْسِدُ الْخَلُّ
-الْعَسَلَ.
-  </p>
-</blockquote>
+> أَلْخُلْقُ السَّيِّءُ يُفْسِدُ الْعَمَلَ كَمَا يُفْسِدُ الْخَلُّ
+> الْعَسَلَ.
 
 “A bad demeanour spoils good deeds just as vinegar spoils honey.”[^10]  
  2. The Messenger of Allah (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-سُوءُ الْخُلْقِ ذَنْبٌ لا يُغْفَرُ، وَ سُوءُ الظَّنِّ خَطيئَةٌ
-تَفُوحُ.
-  </p>
-</blockquote>
+> سُوءُ الْخُلْقِ ذَنْبٌ لا يُغْفَرُ، وَ سُوءُ الظَّنِّ خَطيئَةٌ
+> تَفُوحُ.
 
 “Bad etiquette and morals is a sin which will not be forgiven and having
 bad thoughts about another person is an error which spreads (to other
 people).”[^11]  
  3. The Messenger of Allah (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعَبْدَ لَيَبْلُغَ مِنْ سُوءِ خُلْقِهِ أَسْفَلُ دَرَكِ
-جَهَنَّمَ.
-  </p>
-</blockquote>
+> إِنَّ الْعَبْدَ لَيَبْلُغَ مِنْ سُوءِ خُلْقِهِ أَسْفَلُ دَرَكِ
+> جَهَنَّمَ.
 
 “Surely the servant (of Allah), due to his bad etiquette and demeanor,
 will reach to the lowest levels of Hell.”[^12]  
  4. The Commander of the Faithful, ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-رُبَّ عَزِيزٍ أَذَلَّهُ خُلُقُهُ، وَ ذَلِيلٍ أَعَزَّهُ خُلُقُهُ.
-  </p>
-</blockquote>
+> رُبَّ عَزِيزٍ أَذَلَّهُ خُلُقُهُ، وَ ذَلِيلٍ أَعَزَّهُ خُلُقُهُ.
 
 “How many times is it seen that a noble person is debased due to his
 demeanor while a low and humbled person is magnified due to his demeanor
 and etiquette.”[^13]  
  5. The Commander of the Faithful, ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَآءَ خُلُقُهُ فَأَذِّنُوا فِي أُذُنِهِ.
-  </p>
-</blockquote>
+> مَنْ سَآءَ خُلُقُهُ فَأَذِّنُوا فِي أُذُنِهِ.
 
 “One whose etiquette is bad should have the Adhan proclaimed in his
 ear.”[^14]
@@ -495,5 +427,4 @@ ear.”[^14]
 [^13]: Bihar al-Anwar, vol. 71, pg. 396
 
 [^14]: Ibid., vol. 62, pg. 277
-
 

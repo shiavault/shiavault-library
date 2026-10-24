@@ -17,22 +17,14 @@ one whom you teach; and do not be from among the haughty scholars, lest
 your ignorance rises alongside you knowledge.
 
 > 3ـ تَواضَعُوا لِمَنْ تَتَعَلَّمُوا مِنْهُ العِلْمَ، ولِمَنْ
-<blockquote dir="rtl">
-  <p>
-تُعَلِّمُونَهُ، ولاتَـكُونُوا مِنْ جَبابِرَةِ العُلَماءِ، فَلا يَقُومَ
-جَهْلُكُمْ بِعِلْمِكُمْ.
-  </p>
-</blockquote>
+> تُعَلِّمُونَهُ، ولاتَـكُونُوا مِنْ جَبابِرَةِ العُلَماءِ، فَلا يَقُومَ
+> جَهْلُكُمْ بِعِلْمِكُمْ.
 
 4. Acquire knowledge, for indeed if you are wealthy it will adorn you
 and if you are poor it will provide for you (or guard you).
 
 > 4ـ تَعَلَّمِ العِلْمَ فَإنَّكَ إنْ كُنْتَ غَنِيّاً زانَكَ، وإنْ كُنْتَ
-<blockquote dir="rtl">
-  <p>
-فَقيراً مانَكَ (صانَكَ).
-  </p>
-</blockquote>
+> فَقيراً مانَكَ (صانَكَ).
 
 5. Learn the knowledge of the one who knows, and teach your knowledge to
 the one who is ignorant, for if you do this, he will be teach you that
@@ -40,12 +32,8 @@ which you are ignorant of and you will benefit [others] with what you
 have learnt.
 
 > 5ـ تَعَلَّمْ عِلْمَ مَنْ يَعْلَمُ، وعَلِّمْ عِلْمَكَ مَنْ يَجْهَلُ،
-<blockquote dir="rtl">
-  <p>
-فَإذا فَعَلْتَ ذلِكَ، عَلَّمَكَ ما جَهِلْتَ، وانْتَفَعْتَ بِما
-عَلِمْتَ.
-  </p>
-</blockquote>
+> فَإذا فَعَلْتَ ذلِكَ، عَلَّمَكَ ما جَهِلْتَ، وانْتَفَعْتَ بِما
+> عَلِمْتَ.
 
 6. He who places knowledge with one who is unworthy of it has wronged it
 [or him].
@@ -60,10 +48,5 @@ have learnt.
 be one of its worthy possessors.
 
 > 8ـ تَعَلَّمُوا العِلْمَ تُعْرَفُوا بِهِ، واعْمَلُوا بِهِ تَـكُونُوا
-<blockquote dir="rtl">
-  <p>
-مِنْ أهْلِهِ.
-  </p>
-</blockquote>
-
+> مِنْ أهْلِهِ.
 

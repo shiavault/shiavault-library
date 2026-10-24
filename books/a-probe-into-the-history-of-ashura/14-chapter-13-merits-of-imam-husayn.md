@@ -413,4 +413,3 @@ clearly the conditions prevailing in those days when he came face to
 face with Hurr bin Yazid Riyahi who had come from Kufa along with one
 thousand horsemen to arrest him.
 
-

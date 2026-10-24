@@ -242,4 +242,3 @@ the rule for one ignorant of the rule.
 not remember to do so until the completion of all the rituals, his Hajj
 is valid. The same rule applies to one who is ignorant of the rule.
 
-

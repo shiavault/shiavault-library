@@ -7,10 +7,5 @@ The Lover
 his mind is infatuated with them.
 
 > 1ـ قَدْ خَرَقَتِ الشَّهَواتُ عَقْلَهُ، وأماتَتْ قَلْبَهُ، ووَلَّهَتْ
-<blockquote dir="rtl">
-  <p>
-عَلَيْها نَفْسَهُ.
-  </p>
-</blockquote>
-
+> عَلَيْها نَفْسَهُ.
 

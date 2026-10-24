@@ -303,4 +303,3 @@ absent, may our souls be a ransom to him. It is not a speech to show
 their virtues and their levels, however, but it was necessary to show
 this in this position.
 
-

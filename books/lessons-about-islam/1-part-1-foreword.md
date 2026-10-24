@@ -129,4 +129,3 @@ Vision does not penetrate beyond colour and figure but God has neither
 one nor the other. His glory is beyond the reach of vision and other
 senses in general.
 
-

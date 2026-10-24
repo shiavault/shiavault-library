@@ -32,4 +32,3 @@ our own desires in the name of Hussain (as), but instead Hussainiyat is
 a collection of those actions which Imam Hussain (as) accomplished.
 These are the actions which we need to perform and preserve.
 
-

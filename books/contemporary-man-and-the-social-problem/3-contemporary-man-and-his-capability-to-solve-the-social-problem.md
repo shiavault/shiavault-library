@@ -662,4 +662,3 @@ shore we have to lead our ship?
 
 [^1]: Refer to Iqtisaduna (Our Economy), pp. 3-196.
 
-

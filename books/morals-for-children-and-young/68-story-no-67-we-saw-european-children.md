@@ -19,4 +19,3 @@ and they knew that although those children were raised in a foreign
 English land, due to the mindfulness of the parents their culture was
 still Islamic.
 
-

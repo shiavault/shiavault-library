@@ -222,7 +222,7 @@ Bakr. To show that it was service to Islam and to uplift the Caliph in
 people’s view.
 
 According to the research of Allamah Sayyid Murtuza Askari in the
-2<sup>nd</sup> volume of his book, *Abdullah bin Saba,* all the
+2nd volume of his book, *Abdullah bin Saba,* all the
 narrations related to the battle of Abraq are forged and all the events
 that show the serious problems the apostates posed that the Caliph had
 to struggle hard to suppress them, are in fact all figments of the
@@ -258,7 +258,7 @@ supporters of Abu Bakr.**[1]**
 On the basis of this all the battles of apostates supposed in the time
 of Abu Bakr and other battles which are called as victories, are all
 fabricated and have no historical basis.**[2]** They are all products of
-the imagination of Saif Ibne Umar.<sup>(**[3]**)(**[4]**)</sup>
+the imagination of Saif Ibne Umar.(**[3]**)(**[4]**)
 
 **3 –** The real reason for battle with Muslims was for their not
 accepting Abu Bakr. They declared them *Murtad* (Apostates) only to
@@ -492,7 +492,7 @@ house members.
 **[1]** Quoted from: *Al-Islam wa Usool al-Hukm,* Pgs. 193-197  
 **[2]** Quoted from: *Abdullah Ibne Saba Wa Deegar Afsaane,* Vol. 1, Pg.
 141  
-**[3]** [Clive Balansi, a Spanish scholar of 6<sup>th</sup> century]  
+**[3]** [Clive Balansi, a Spanish scholar of 6th century]  
 **[4]** Quoted from: *Tarikh ar-Ridda,* Pg. 10  
 **[5]** Quoted from: *Majma al-Imthaal,* Vol. 2, Pg. 65  
 **[6]** It is worthy of mention that at the beginning of his book he
@@ -815,7 +815,7 @@ Historical documents show that the plan of Abu Bakr was so harsh and
 brutal against his opponents that it is said:
 
 A) “Fight them even if they refuse to give a camel’s
-tether.<sup>(**[3]**)(**[4]**)</sup>
+tether.(**[3]**)(**[4]**)
 
 B) The circular of the Caliph was thus:
 
@@ -888,9 +888,9 @@ teachings and mankind, are recorded in history yet they claim:
 
 **[1]** Salah Abdul Fattah al-Khalidi (Translated by Abdul Aziz
 Sulaimi): *Khulafa-e-Raashideen Az Khilafat Taa Shahadat*
-(1<sup>st</sup> Edition 1382), Pg. 83  
+(1st Edition 1382), Pg. 83  
 **[2]** Ibid. *Khulafa-e-Raashideen Az Khilafat Taa Shahadat*
-(1<sup>st</sup> Edition 1382), Pg. 82  
+(1st Edition 1382), Pg. 82  
 **[3]** Allamah Sayyid Murtuza Askari: *Naqsh-e-Aaimma Dar Ahya-e-Deen*
 (Role of Imams in the Revival of Religion, Vol. 14, Pgs. 40-41
 
@@ -929,7 +929,7 @@ from.**[5]**”**[6]**
 
 ------------------------------------------------------------------------
 
-**[1]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup> Edition
+**[1]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st Edition
 1380), Pg. 47  
 **[2]** Allamah Sayyid Murtuza Askari: *Abdullah Ibne Saba Wa Deegar
 Afsaane* (Abdullah Bin Saba and other legends), Vol. 2, Pg. 240  
@@ -1140,7 +1140,7 @@ Abu Sufyan were still their opponents.
 **[1]** Allamah Sayyid Murtuza Askari: *Abdullah Ibne Saba Wa Deegar
 Afsaane* (Abdullah Bin Saba and other legends), Vol. 2, Pgs. 56-57  
 **[2]** Yusuf Karzai (Translated by Jalil Bahraminiya): *Weeshgihai
-Kulli Islam* (1<sup>st</sup> Edition), Pgs. 373-374  
+Kulli Islam* (1st Edition), Pgs. 373-374  
 **[3]** Quoted from: Haqqi: *Tafseer Ruhul Bayan,* under the exegesis of
 Verse 54, Surah Maidah  
 **[4]** Ahmad Asadnejad: *Wasi-e-Payambar Keest?* Pgs. 34-35
@@ -1351,5 +1351,5 @@ Caliph.]
 **[2]** Allamah Sayyid Murtuza Askari: *Doo Maktab Dar Islam* (Two
 Schools of Islam) Vol. 2 (Outlooks of two schools about sources of
 Islamic legislation) Pgs. 118-119; quoting from: *Tarikh Ibne Kathir,*
-Vol. 9, Pg. 319; *Tarikh Tabari,* (1<sup>st</sup> Edition) Vol. 3, Pgs.
+Vol. 9, Pg. 319; *Tarikh Tabari,* (1st Edition) Vol. 3, Pgs.
 234-235; *Tarikh Ibne Athir*, Vol. 2, Pg. 146

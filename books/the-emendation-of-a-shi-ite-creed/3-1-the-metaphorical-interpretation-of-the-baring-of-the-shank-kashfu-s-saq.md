@@ -47,4 +47,3 @@ goes briskly with much effort and exertion.
 az-Zamakhshari, al- Kashshaf, vol.3, p.210; ar-Razi, Tafsir, vol.8,
 p.203.
 
-

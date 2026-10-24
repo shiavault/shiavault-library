@@ -396,4 +396,3 @@ should also refrain from attending such activities, irrespective of our
 intention whether good or bad, because participating in these activities
 is itself a perpetually bad thing.
 
-

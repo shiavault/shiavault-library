@@ -174,4 +174,3 @@ patience!
 
 absence and must re-affirm our pledge with him.
 
-

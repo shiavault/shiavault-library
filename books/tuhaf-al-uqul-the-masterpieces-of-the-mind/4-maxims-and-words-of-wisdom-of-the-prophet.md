@@ -270,4 +270,3 @@ Prophet (peace be upon him and his family) then said:
 Clemency overcomes anger, mercy overcomes dissatisfaction, and
 almsgiving overcomes the sin.
 
-

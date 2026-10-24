@@ -24,12 +24,8 @@ in the sense of “preferable”.
 disbelieved; your abode is the fire; it is your friend, end evil is the
 resort***[^1]***“.***
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَالْيَوْمَ لا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَ لا مِنَ الَّذِينَ
-كَفَرُوا مَأْواكُمُ النَّارُ هِيَ مَوْلاكُمْ وَبِئْسَ الْمَصِيرُ﴾
-  </p>
-</blockquote>
+> ﴿ فَالْيَوْمَ لا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَ لا مِنَ الَّذِينَ
+> كَفَرُوا مَأْواكُمُ النَّارُ هِيَ مَوْلاكُمْ وَبِئْسَ الْمَصِيرُ﴾
 
 In the interpretation of this verse the great Islamic interpreters say:
 the word “Mawla” in this verse means “more suitable” or “preferable”
@@ -39,12 +35,8 @@ who have committed sins.
 2. ***“He calls upon him whose harm is nearer than his profit; evil
 certainly is the guardian and evil certainly is the associate”.***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَدْعُوا لَمَنْ ضَرُّهُ أَقْرَبُ مِنْ نَفْعِهِ لَبِئْسَ الْمَوْلى وَ
-لَبِئْسَ الْعَشِيرُ ﴾
-  </p>
-</blockquote>
+> ﴿ يَدْعُوا لَمَنْ ضَرُّهُ أَقْرَبُ مِنْ نَفْعِهِ لَبِئْسَ الْمَوْلى وَ
+> لَبِئْسَ الْعَشِيرُ ﴾
 
 This verse based on its meaning and due to the context of the other
 preceding verses deals with the acts of idolaters who considered their
@@ -55,11 +47,7 @@ suitable” and one “superior”.
 
 So, let us see what the expression
 
-<blockquote dir="rtl">
-  <p>
-“ مَن كنتُ مَولاهُ فعليٌ مولاهُ “
-  </p>
-</blockquote>
+> “ مَن كنتُ مَولاهُ فعليٌ مولاهُ “
 
 means: does it refer to one's domination over others, which is the
 characteristic of a superior one? Or does “Mawla” refer to one's friend,
@@ -70,11 +58,7 @@ Scholars refer to this “as the absolute governorship”.
 
 In this connection, the Holy Quran refers to the Prophet (S) as:
 
-<blockquote dir="rtl">
-  <p>
-﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
-  </p>
-</blockquote>
+> ﴿ النَّبِيُّ أَوْلى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ﴾
 
 ***“The Prophet has a greater claim on the faithful than they have on
 themselves”***[^3]***.***
@@ -112,11 +96,7 @@ of poetry on the content of the Prophet's message. The interesting point
 is that this eloquent poet, who knew all delicies of the arabic
 language, used the word “Imam” and “guide” in place of the word “Mawla”.
 
-<blockquote dir="rtl">
-  <p>
-فقال له قم يا عليُّ فانني رضيتُكَ من بعدي اماماً وهادياً
-  </p>
-</blockquote>
+> فقال له قم يا عليُّ فانني رضيتُكَ من بعدي اماماً وهادياً
 
 The meaning goes like this: the Prophet addressing people, told Ali:
 Rise up since I have appointed you as the Imam and people's guide after
@@ -132,11 +112,7 @@ literature.
 2. In his poems which he wrote for Muawiyyah, Ali (as) referring to the
 Ghadir Event, says
 
-<blockquote dir="rtl">
-  <p>
-وأوجب لي ولايته عليكم رسولُ اللهِ يومَ غديرِ خمِّ
-  </p>
-</blockquote>
+> وأوجب لي ولايته عليكم رسولُ اللهِ يومَ غديرِ خمِّ
 
 “God's Apostle has made my governorship compulsory over you”.
 
@@ -150,27 +126,15 @@ God's Apostle, on the Ghadir day appointed me as your Imam.
 the Prophet had meant Ali's Imamate because, the Prophet, prior to the
 sentence
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه
-  </p>
-</blockquote>
+> من كنت مولاه
 
 had uttered the following words:
 
-<blockquote dir="rtl">
-  <p>
-“أَلَسْتُ أولی بِكُم مِن اَنفُسِكُم”
-  </p>
-</blockquote>
+> “أَلَسْتُ أولی بِكُم مِن اَنفُسِكُم”
 
 “Am I not superior to your souls”. Then he added:
 
-<blockquote dir="rtl">
-  <p>
-“ مَن كنتُ مَولاهُ فعليٌ مولاهُ “
-  </p>
-</blockquote>
+> “ مَن كنتُ مَولاهُ فعليٌ مولاهُ “
 
 Why were these two sentences juxtaposed? Did the Prophet not intend to
 refer to Ali's Imamate as the one who dominates over people's souls, a
@@ -180,12 +144,8 @@ trait which he attributed to himself in the beginning of his sermon?
 belief in three Islamic principles (monotheism, prophethood and
 resurrection), saying:
 
-<blockquote dir="rtl">
-  <p>
-“أَلَسْتُمْ تَشْهَدونَ أنَّ لا إله إلّا اللهَ وَ أنّ مُحمّداً عَبْدُهُ
-وَ رَسُولُهُ وَ أَنَّ الْجَنَّةَ حَقٌّ وَ النّارَ حَقٌّ...”.
-  </p>
-</blockquote>
+> “أَلَسْتُمْ تَشْهَدونَ أنَّ لا إله إلّا اللهَ وَ أنّ مُحمّداً عَبْدُهُ
+> وَ رَسُولُهُ وَ أَنَّ الْجَنَّةَ حَقٌّ وَ النّارَ حَقٌّ...”.
 
 Do you not confess that God has no associate that Muhammad is his slave
 and his apostle and that both hell and paradise do exist?
@@ -207,11 +167,7 @@ attribute “friendship” as a part of those three Islamic principles.
 5. In the start of his sermon, the Prophet talks about his eminent
 death, saying
 
-<blockquote dir="rtl">
-  <p>
-إنه يوشك ان أُدعى فاجيب
-  </p>
-</blockquote>
+> إنه يوشك ان أُدعى فاجيب
 
 “I am about to pass away, answering God's call”.
 
@@ -223,20 +179,12 @@ loyalty.
 
 6. Having uttered the expression
 
-<blockquote dir="rtl">
-  <p>
-“من كنت مولاه... “
-  </p>
-</blockquote>
+> “من كنت مولاه... “
 
 The Prophet went on to say:
 
-<blockquote dir="rtl">
-  <p>
-“الله أكبر علی اكمال الدين و اتمام النعمة و رضی الرّبِّ برسالتي و
-الولاية لعلي بن أبي طالب”.
-  </p>
-</blockquote>
+> “الله أكبر علی اكمال الدين و اتمام النعمة و رضی الرّبِّ برسالتي و
+> الولاية لعلي بن أبي طالب”.
 
 I pray to God for having perfected religion, for the completion of His
 blessing, for His contentment with my prophethood and with Ali's imamat.
@@ -247,11 +195,7 @@ descent from the raised platform? The interesting point was the fact
 that the first two caliphs were the first to congratulate Imam Ali,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-“هنيئاً لك يا علي بن أبي طالب أصبحت و أمسيت مولی كلِّ مؤمن و مؤمنة”.
-  </p>
-</blockquote>
+> “هنيئاً لك يا علي بن أبي طالب أصبحت و أمسيت مولی كلِّ مؤمن و مؤمنة”.
 
 May this position be a blessing for you since you became the superior
 one for every believing man and woman.
@@ -268,20 +212,12 @@ hot sands reciting a long sermon to them?
 Has the Holy Quran not called the believing people as brothers? Hasn't
 the Holy Quran said
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ ﴾
 
 ***“The believing individuals are brothers”***[^5]? Hasn’t the Holy
 Quran introduced the believing people as friends?
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ الْمُؤْمِنُونَ وَ الْمُؤْمِناتُ بَعْضُهُمْ أَوْلِياءُ بَعْضٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ الْمُؤْمِنُونَ وَ الْمُؤْمِناتُ بَعْضُهُمْ أَوْلِياءُ بَعْضٍ ﴾
 
 ***“The believing people are friends of one another [and as for the
 believing men and the believing women they are guardians of each
@@ -314,5 +250,4 @@ would involve people's obedience towards the Imam.
 [^5]: . Quran 49:10.
 
 [^6]: . Quran 9:71.
-
 

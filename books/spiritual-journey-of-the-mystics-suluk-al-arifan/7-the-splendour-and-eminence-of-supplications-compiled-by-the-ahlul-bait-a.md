@@ -499,4 +499,3 @@ or vision, whether outer or inner [Tr.].
 
 [^3]: Tawhid: Divine Unity or Monotheism [Tr].
 
-

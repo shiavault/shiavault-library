@@ -17,4 +17,3 @@ article has attempted to focus on this particular point of the Musnad
 and its author by selecting some of the hadi-th mentioned in this bulky
 compendium with a short explanation wherever necessary.
 
-

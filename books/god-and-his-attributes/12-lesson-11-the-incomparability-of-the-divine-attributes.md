@@ -446,4 +446,3 @@ them."*** **(41:37)**
 
 [^4]: Usul al-Kafi, Kitab at-Tawhid.
 
-

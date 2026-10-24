@@ -31,7 +31,6 @@ from Khalaf ibn Hammad from 'Aban ibn Taghlib from abu 'Abdallah (a.s.)
 who has said the following. "A person with Divine authority is before
 the people, with the people and after the people."
 
-
 **Chapter 5 : The Issue that the Earth at no time is without a Person
 with Divine Authority H 428, Ch. 5, h 1**
 
@@ -158,5 +157,4 @@ narrate that it will not remain without the Imam unless Allah, the Most
 Holy, the Most High, becomes angry with the people." The Imam said, "In
 such condition it will not remain but it will obliterate its
 inhabitants."
-
 

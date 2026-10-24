@@ -357,4 +357,3 @@ decreed in the Qur'an Al-Zubeir: an ambitious companion that opposed
 Othman and revolted against the Imam Ali Zulfiqar: a name of the sword
 of the Imam Ali.
 
-

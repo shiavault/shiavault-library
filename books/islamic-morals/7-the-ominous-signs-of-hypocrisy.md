@@ -203,7 +203,6 @@ the true followers of that Imam (a.s.).
 O Lord! Grant us full Faith so that we may not be disgraced at the time
 of the test.
 
-
 **Lesson: 23 : Self-acquaintance or self-awareness**
 
 After we saw some of the attributes that cause the degradation of human
@@ -309,7 +308,6 @@ man unto the heights of perfection. From this angle, all of our efforts
 should be to adore ourselves with this virtue. We must dig out the pearl
 of humanity from the mine of nature. Of course, this work is very
 difficult as:
-
 
 **Lesson: 24 : Reality of Faith**
 
@@ -458,7 +456,6 @@ mountain but nothing can be confiscated from a Mo-min.
 piece of iron because when iron is put in a furnace it changes and
 becomes red but if a Mo-min is killed, then enlivened, then killed and
 again enlivened his heart does never change..
-
 
 **Lesson: 25 : Recognition of faith**
 
@@ -655,7 +652,6 @@ servants, and enter into My Garden.
 Everyone who keeps distance from his self Gets back the opportunity of
 is rejoining Here we conclude the discussion of Faith and proceed to
 other heavenly attributes of man.
-
 
 **Lesson: 26 : Justice and equity**
 
@@ -913,7 +909,6 @@ but generosity lifts it higher than its course. Justice is a universal
 law but generosity has a special aspect. Therefore, justice is more
 noble and higher than generosity.
 
-
 **Lesson: 27 : Fear and Hope**
 
 The scholars of morals, before discussing fear, divide His quality into
@@ -1149,7 +1144,6 @@ Then said: These are liars; they are not hopeful of God and they do not
 fear His punishment, because, if a man is hopeful of something he seeks
 it and if one fears something he runs away from it.
 
-
 **Lesson: 28 : Courtesy and Humility**
 
 Among all the virtues which lead man to perfection and which are high
@@ -1193,5 +1187,4 @@ fine point from Hadith:
 1. He is pleased to sit at a place which is below man's his dignity
 that is which makes no difference from the spiritual viewpoint.
 2. He does not like to be praised for his good deeds.
-
 

@@ -222,4 +222,3 @@ capital contracts with the agent that they share the profit equally, or
 This is a revocable contract between the owner of the capital and the
 agent.
 
-

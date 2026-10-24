@@ -70,7 +70,6 @@ do fast and perform its qada later on.
 
 Section five: The rulings of those things which break the fast:
 
-
 **(1) & (2) Eating and Drinking**
 
 1- If a fasting person introduced food or drinks into his body through
@@ -153,5 +152,4 @@ after the mucus enters the mouth. As for not performing ghusl al-janabah
 before dawn, if the tayammum was done because of some legal excuse or
 done at the last moment due to shortness of time, then your fasting is
 valid; otherwise your fasts for those days are void.
-
 

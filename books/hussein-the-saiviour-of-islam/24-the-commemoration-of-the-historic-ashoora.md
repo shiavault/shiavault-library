@@ -90,4 +90,3 @@ only :-
 
 'There is no god but Allah; Muhammad is the (Holy) Prophet of God.'
 
-

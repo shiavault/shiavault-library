@@ -20,12 +20,8 @@ supplications.
 It has been narrated that Muhammad b. Hakim said to Abu ‘Abdillah,
 Ja’far b. Muhammad as-Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-أَلْمَعْرِفَةُ مِنْ صُنْعِ مَنْ هِيَ؟ قَالَ مِنْ صُنْعِ اللٌّهِ لَيْسَ
-لِلْعِبَادِ فِيهَا صُنْعٌ
-  </p>
-</blockquote>
+> أَلْمَعْرِفَةُ مِنْ صُنْعِ مَنْ هِيَ؟ قَالَ مِنْ صُنْعِ اللٌّهِ لَيْسَ
+> لِلْعِبَادِ فِيهَا صُنْعٌ
 
 “Who is responsible for granting this ma’rifah (of the Imam)?” He
 replied: “It is the doing of Allah and the servants have no role in it
@@ -34,11 +30,7 @@ replied: “It is the doing of Allah and the servants have no role in it
 In order to arrive at the recognition of the Imam, the following
 supplication is very effective:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ عَرِّفْـنِـي نَفْسَكَ...
-  </p>
-</blockquote>
+> أَللّٰهُمَّ عَرِّفْـنِـي نَفْسَكَ...
 
 “O’ Allah! Grant me ma’rifah of Your Self...”[^2]
 
@@ -47,5 +39,4 @@ Hujjah”, no. 2
 
 [^2]: The full text of this supplication will be mentioned in the next
 responsibility.
-
 

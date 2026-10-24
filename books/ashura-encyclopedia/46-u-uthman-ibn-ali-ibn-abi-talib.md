@@ -8,4 +8,3 @@ brother Uthman Ibn Madh'oon'. In Karbala he was hit by an arrow by
 Khawly Ibn Yazeed, which made him fall to the ground, then another man
 came and killed him. He was 21.
 
-

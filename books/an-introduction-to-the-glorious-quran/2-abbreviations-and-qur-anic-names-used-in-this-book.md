@@ -43,4 +43,3 @@ Hadrat Ibrahim, A.S. - Prophet Abraham, PBUH
  Hadrat Yunus, A.S. - Prophet Jonah, PBUH  
  Hadrat Yusuf, A.S. - Prophet Joseph, PBUH
 
-

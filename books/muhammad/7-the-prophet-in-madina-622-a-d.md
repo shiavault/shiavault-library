@@ -4483,4 +4483,3 @@ A.D. Its capital was Petra.
 
 [^39]: al-Tabatabai, Al-Mizan fi Tafsir al-Qur'an, Vol. 3, pp. 269-270.
 
-

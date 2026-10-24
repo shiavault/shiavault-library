@@ -33,4 +33,3 @@ and everything relevant to it. After that, we shall study the answer in
 the light of our comprehension of Islam, supporting it with proofs and
 discussing any objections to it.
 
-

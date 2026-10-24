@@ -73,4 +73,3 @@ which humanity prides itself. \* Excerpts from the Introduction to
 "Sunshine at Midnight (The Karbala Epic)", a rhymed version of the story
 of Karbala in English, by the late S.A. Mahdi, 1985.
 
-

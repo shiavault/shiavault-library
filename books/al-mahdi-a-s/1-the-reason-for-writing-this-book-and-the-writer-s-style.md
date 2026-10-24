@@ -239,4 +239,3 @@ full tradition, we, too, shall agree with him (although our opinion
 differs) and disregard such traditions. The remaining traditions will be
 sufficient enough to prove our point.
 
-

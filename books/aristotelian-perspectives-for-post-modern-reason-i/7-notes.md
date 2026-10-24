@@ -197,7 +197,7 @@ autobiographical piece, ‘Concerning the Author’, in Buchler, J. (ed.)
 
 [^52] C.S. Peirce, C.S. (1955) ‘The Scientific Attitude and
 Fallibilism’, in J. Buchler (ed.), Philosophical Writings of Peirce,
-(New York: Dover), p.[^53]: (My italics.)
+(New York: Dover), p.53. (My italics.)
 
 [^53] In this regard, see Rescher, N. (1984) The Limits of Science
 (Berkeley: University of California Press), chap. [^7]:

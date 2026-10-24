@@ -194,4 +194,3 @@ it be nullified?
 8- Why does it make no difference to the oneness of lordship and
 creatorship, if one believes in the Divine authority for the saints?
 
-

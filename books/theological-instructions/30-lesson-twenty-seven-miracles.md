@@ -192,4 +192,3 @@ acts?
 the evidence for the honesty of the prophets or the evidence for the
 accuracy of their message?
 
-

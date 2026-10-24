@@ -99,4 +99,3 @@ ignoring almost all of the 12 Imams from the family of the Holy Prophet
 On the contrary, the Divine Economics takes a comparative view of both
 of the schools of Islamic thoughts.
 
-

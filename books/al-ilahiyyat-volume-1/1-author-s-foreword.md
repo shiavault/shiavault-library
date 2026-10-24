@@ -49,4 +49,3 @@ Muhammad (S).
 **Hassan Muhammad Makki**
 Holy Qum on the 4th of Holy Month of Shawwal, 1408 (May 21, 1988)
 
-

@@ -23,4 +23,3 @@ Issue 477: It is Makruh for a person to take an oath about something
 which is true, and if the oath is taken for something which is a lie,
 then this oath is Haram and it is considered a major sin.
 
-

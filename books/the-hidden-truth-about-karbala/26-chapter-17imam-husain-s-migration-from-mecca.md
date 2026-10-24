@@ -259,7 +259,7 @@ may dislike it*.”
 This foresight of the Imam (a.s) is what has perpetuated his remembrance
 and erased Mu’awiya and Yazid from the good books of history.
 
-On the 20<sup>th</sup> of Thul Qa’dah, the year 59 AH, Imam Husain (a.s)
+On the 20th of Thul Qa’dah, the year 59 AH, Imam Husain (a.s)
 received a letter from Muslim ibn Aqeel, stating that over a lakh of the
 people of Kufa had sworn fealty to him, accepting Imam Husain (a.s) as
 their guide and Imam and seeking his presence in Kufa. Muslim urged Imam

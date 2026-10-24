@@ -230,4 +230,3 @@ pride among other nations.
 
 Then, which choice did the ummah prefer?
 
-

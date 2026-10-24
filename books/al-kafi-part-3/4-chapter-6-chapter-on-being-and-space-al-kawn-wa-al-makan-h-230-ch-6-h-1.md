@@ -184,7 +184,6 @@ the end of some end so that His end would also end." He then asked, "Are
 you a prophet?" Imam Ali (a.s.) replied, "Bereft of you be your mother!
 I am a salve among the slaves of the Messenger of Allah (s.a.)."
 
-
 **Chapter 7 : Chapter On The relationships (Nisbah) Of Allah H 238, Ch.
 7, h 1**
 
@@ -280,5 +279,4 @@ really acknowledged the Oneness of Allah." I asked, "How should I recite
 it (the chapter 112)?" The Imam replied, "Recite it as the people do."
 And then the Imam added, "Such is Allah, my Lord. Such is Allah, my
 Lord."
-
 

@@ -297,4 +297,3 @@ subcriteria and problems appropriate to each goal are introduced as a
 specific branch of the mother science, as was mentioned in the case of
 mathematics.
 
-

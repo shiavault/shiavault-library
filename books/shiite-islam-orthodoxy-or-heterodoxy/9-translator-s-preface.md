@@ -563,4 +563,3 @@ of which demonstrate his appreciation for Islām in all of its
 dimensions, can be found on the following web page:
 http://www.Islām-usa.com/
 
-

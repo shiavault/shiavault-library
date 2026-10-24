@@ -244,4 +244,3 @@ Haskani, 1: 572.
 
 [^24]: Tabari, Ta'rikh, 6: 3004.
 
-

@@ -50,4 +50,3 @@ The second is taqleed, i.e., follow the fatwa of a mujtahid. The first
 method is not possible for everyone; the second is easy to follow. This
 is precisely why taqleed has been declared mandatory (wajib).
 
-

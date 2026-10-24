@@ -410,4 +410,3 @@ Refer to Tarikh al-Khulafa’ by as-Sayooti, p. 291. Like al-Rasheed, Abu
 Yousuf, and these stories there were many rulers, royal court preachers,
 drinking companions, officials…etc.
 
-

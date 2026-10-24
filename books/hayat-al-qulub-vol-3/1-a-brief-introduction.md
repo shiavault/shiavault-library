@@ -8,4 +8,3 @@ Holy Quran whose Exegesis (Tafsir) points towards Ahlul Bayt (a.s.). He
 has supported his statements with traditions. This volume can be said to
 be a Special Tafsir of the Holy Quran.
 
-

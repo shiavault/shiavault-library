@@ -125,4 +125,3 @@ give us hope, as Allah promised to the patient believers. Hajj Sahib
 said to me, ‘You are now cleaner and purer than all of us. You are now
 as one newly born.’”
 
-

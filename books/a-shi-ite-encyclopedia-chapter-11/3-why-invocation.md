@@ -226,4 +226,3 @@ conditions for the real victory were His.
 Yes, first power must be obtained and then action. Invocation can be
 this power-giver to all human beings.
 
-

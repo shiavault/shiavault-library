@@ -293,4 +293,3 @@ because their states are expounded to man through the Qur'an, the sunna
 (Prophetic custom) and hadith (tradition). One is living in their
 presence if one has access to the gate of their state.
 
-

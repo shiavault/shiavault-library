@@ -16,4 +16,3 @@ the new attacks and penetration of evil.
 In studying the reasons, causing disorder in the lives of the women in
 the society, two groups of reasons should be stated:
 
-

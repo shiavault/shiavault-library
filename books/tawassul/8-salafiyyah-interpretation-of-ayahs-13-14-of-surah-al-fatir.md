@@ -45,4 +45,3 @@ grave and his life in the intermediary world (barzakh) is superior to
 the life of the martyrs, since he hears the voices of those who send
 blessings upon him.[^28]
 
-

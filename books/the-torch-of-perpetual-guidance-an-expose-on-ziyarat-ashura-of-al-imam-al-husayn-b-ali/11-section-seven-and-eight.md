@@ -1,12 +1,8 @@
 Section Seven and Eight
 =======================
 
-<blockquote dir="rtl">
-  <p>
-وَلَعَنَ اللّهُ أُمَّةً قَتَلَتْكُمْ، وَلَعَنَ اللّهُ الْمُمَهِّدِينَ
-لَـهُمْ بِالتـَّمْكِينِ مِنْ قِتالِكُمْ
-  </p>
-</blockquote>
+> وَلَعَنَ اللّهُ أُمَّةً قَتَلَتْكُمْ، وَلَعَنَ اللّهُ الْمُمَهِّدِينَ
+> لَـهُمْ بِالتـَّمْكِينِ مِنْ قِتالِكُمْ
 
 “May the curse of Allah be upon those people who killed you and may the
 curse of Allah be upon those people who made it easy for them by
@@ -22,12 +18,8 @@ this in our previous discussion and once again reiterate that these
 people are none other than those who laid the foundation of Karbala’
 while they battled for power in the Saqifah of Bani Sa’ida.
 
-<blockquote dir="rtl">
-  <p>
-بَرِئْتُ إِلَى اللّهِ وَإِلَيْكُمْ مِنْهُمْ وَأَشْياعِهِمْ
-وَأَتْباعِهِمْ وَأَوْلِيائِهِمْ
-  </p>
-</blockquote>
+> بَرِئْتُ إِلَى اللّهِ وَإِلَيْكُمْ مِنْهُمْ وَأَشْياعِهِمْ
+> وَأَتْباعِهِمْ وَأَوْلِيائِهِمْ
 
 “I turn to Allah and I turn towards you and turn away from them and
 their adherents, followers and friends.”
@@ -45,5 +37,4 @@ This belief of Tawallah and Tabarrah can best be summarized in the
 famous hadith from Imam Muhammad b. ‘Ali Al-Baqir (peace be upon him) in
 which, when he was asked about the definition of ‘religion’ and he said,
 “...is religion anything other than love and hate...”
-
 

@@ -256,4 +256,3 @@ Qur'anic verse at the end of the hadīth is verse 62 of Sūrah an-Naml
 [^10]: Usūl al-Kāfī, vol. 2, “Book of the Proof,” narratives in ch.
 “Concerning that All Land is the Imām's,” p. 266.
 
-

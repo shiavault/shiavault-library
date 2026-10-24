@@ -18,4 +18,3 @@ Potassium, Calcium, Phosphorus, Sulphur, Iron, and Chlorine. The other
 eight elements which are in very minute quantities are : Molybdenum,
 Cobalt, Manganese, Copper, Zinc, Fluorine, Silicon and Io! dine.
 
-

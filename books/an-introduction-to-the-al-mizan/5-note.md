@@ -9,4 +9,3 @@ martyred in the downing of a civilian aircraft by the jets of the
 criminal Ba'athist regime in Iranian territory near the city of Ahwaz on
 February 20, [^1986]:
 
-

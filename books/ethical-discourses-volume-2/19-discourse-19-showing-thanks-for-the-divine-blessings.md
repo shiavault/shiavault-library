@@ -1,12 +1,8 @@
 Discourse 19: Showing Thanks For The Divine Blessings
 =====================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الصَّادِقِ مَكْتُوبٌ فِي التَّوْرَاةِ: لاَزَوَالَ لِلْنَعَمَآءِ
-إِذَا شُكِرَتْ وَلاَ بَقَآءِ لَـهَا إِذَا كُفِرَتْ.
-  </p>
-</blockquote>
+> عَنِ الصَّادِقِ مَكْتُوبٌ فِي التَّوْرَاةِ: لاَزَوَالَ لِلْنَعَمَآءِ
+> إِذَا شُكِرَتْ وَلاَ بَقَآءِ لَـهَا إِذَا كُفِرَتْ.
 
 It has been narrated from [Imam Ja’far b. Muhammad] as-Sadiq (as) that,
 “It has been written in the Tawrah [Thus, in reality this is what is
@@ -65,5 +61,4 @@ be considered as soldiers of Imam al-Zaman (as) and be defenders of
 Islam!
 
 [^1]: al-Kafi, vol. 2, pg. 94
-
 

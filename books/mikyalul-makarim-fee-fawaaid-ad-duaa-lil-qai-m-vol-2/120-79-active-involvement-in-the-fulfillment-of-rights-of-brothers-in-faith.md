@@ -83,13 +83,9 @@ become yellow for lack of sleep. These are the signs that the Almighty
 Allah has mentioned about them in Taurat, Injil, Qur’an, Zaboor and the
 scriptures:
 
-<blockquote dir="rtl">
-  <p>
-تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ
-وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ۚ
-ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ
-  </p>
-</blockquote>
+> تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ
+> وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ۚ
+> ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ
 
 ***You will see them bowing down, prostrating themselves, seeking grace
 from Allah and pleasure; their marks are in their faces because of the
@@ -101,12 +97,8 @@ are good to their brothers-in-faith in hardships and good times and the
 times of hardships they sacrifice their money for their needy brothers.
 The Almighty Allah has described them as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَيُؤْثِرُونَ عَلَىٰ أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ
-وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> وَيُؤْثِرُونَ عَلَىٰ أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ
+> وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
 
 ***And prefer (them) before themselves though poverty may afflict them,
 and whoever is preserved from the niggardliness of his soul, these it is
@@ -159,12 +151,8 @@ Firdos which is garden of Paradise. They are the ones for whom Hell will
 try but they would be happy and content in Paradise. And that is what
 the people of Hell will say:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ
-الْأَشْرَارِ
-  </p>
-</blockquote>
+> وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ
+> الْأَشْرَارِ
 
 ***What is the matter with us that we do not see men whom we used to
 count among the vicious? (Qur’an, Surah Saad 38:62)***
@@ -211,5 +199,4 @@ the reward of twenty martyrs.[^7]
 Iraq.
 
 [^7]: Amali, Pg. 145
-
 

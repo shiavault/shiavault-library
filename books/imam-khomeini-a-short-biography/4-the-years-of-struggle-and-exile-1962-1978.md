@@ -375,7 +375,6 @@ sign of hope that “freedom and liberation from the bonds of imperialism”
 were at hand.[^14] The beginning of the revolution came indeed some two
 and a half years later.
 
-
 [^1]: Sahifa-yi Nur, I, p. 27.
 
 [^2]: Kauthar, I, p. 67; Sahifa-yi Nur, I, p. 39.
@@ -409,5 +408,4 @@ saints.
 [^13]: Sahifa-yi Nur, I, pp. 144-5.
 
 [^14]: Sahifa-yi Nur, I, p. 215.
-
 

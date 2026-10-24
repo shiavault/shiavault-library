@@ -313,4 +313,3 @@ Fakhr al Mulk, the vizier of Baha al Dawlah, who led al Radi's funeral
 congregation, and was himself murdered by Sultan Dawlah in one year
 after al Radi's death, that is in 407/1016.
 
-

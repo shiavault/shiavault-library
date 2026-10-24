@@ -3,13 +3,9 @@ Speaking Bad Behind Someone’s Back
 
 ( Verse 12 )
 
-<blockquote dir="rtl">
-  <p>
-...وَلاٌ يَغْتَبْ بَّعْضُكُم بَعْضاً أَيُحِبُّ أَحَدُكُمْ أَنْ
-يَأْكُلَ لَحْمَ أَخِيهِ مَيْتاً فَكَرِهْتُمُوهُ وَاتَّقُوا اللٌّهَ
-إِنَّ اللٌّهَ تَوٌّابٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> ...وَلاٌ يَغْتَبْ بَّعْضُكُم بَعْضاً أَيُحِبُّ أَحَدُكُمْ أَنْ
+> يَأْكُلَ لَحْمَ أَخِيهِ مَيْتاً فَكَرِهْتُمُوهُ وَاتَّقُوا اللٌّهَ
+> إِنَّ اللٌّهَ تَوٌّابٌ رَّحِيمٌ
 
 **“*****…and do not back-bite one another. Do any of you (who back-bite)
 love to eat the flesh of your dead brother? Rather, you detest this act,
@@ -68,11 +64,7 @@ person who back-bites and speaks ill of others behind their back as
 being lowly and weak (since they are attacking a person who does not
 have the ability to defend himself) when he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْغِيْبَةُ جَهْدُ الْعٌاجِزِ
-  </p>
-</blockquote>
+> أَلْغِيْبَةُ جَهْدُ الْعٌاجِزِ
 
 *“Backbiting another person is (equivalent) to fighting a person who
 cannot defend himself.”*[^1]
@@ -89,13 +81,9 @@ or her.
 In his speech to Mufaddhal ibn \`Umar, Imam Ja\`far ibn Muhammad
 as-Sadiq (peace be upon him) has referred to this motive as follows:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَوَى عَلى مُؤْمِنٍ رِوٌايَةً يُرِيدُ بِهٌا شَيْنَهُ وَ هَدْمَ
-مُرُوؤَتَهُ لِيُسْقِطَهُ مِنْ أَعْيُنِ النٌّاسِ أَخْرَجَهُ اللٌّهُ
-مِنْ وِلاٌيَتِهِ إِلـى وِلاٌيِةِ الشَّيْطٌانِ
-  </p>
-</blockquote>
+> مَنْ رَوَى عَلى مُؤْمِنٍ رِوٌايَةً يُرِيدُ بِهٌا شَيْنَهُ وَ هَدْمَ
+> مُرُوؤَتَهُ لِيُسْقِطَهُ مِنْ أَعْيُنِ النٌّاسِ أَخْرَجَهُ اللٌّهُ
+> مِنْ وِلاٌيَتِهِ إِلـى وِلاٌيِةِ الشَّيْطٌانِ
 
 *“A person who talks about a believer’s conduct hoping that through this
 act, he is able to lower the other person’s value and worth in the eyes
@@ -114,12 +102,8 @@ have been mentioned in this particular order since envy and anger are
 two reasons and motives that lead a person to speak bad about others
 behind their back, just as it has been stated:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ تُحٌاسِدُوا وَ لاٌ تُبٌاغِضُوا وَ لاٌ يَغْتَبْ بَعْضُكُمْ بَعْضاً
-وَ كُونُوا عِبٌادَ اللٌّهِ إِخْوٌاناً
-  </p>
-</blockquote>
+> لاٌ تُحٌاسِدُوا وَ لاٌ تُبٌاغِضُوا وَ لاٌ يَغْتَبْ بَعْضُكُمْ بَعْضاً
+> وَ كُونُوا عِبٌادَ اللٌّهِ إِخْوٌاناً
 
 *“Do not have jealousy for one another and do not have hatred for
 another and do not back-bite others and be servants of Allah, brothers
@@ -187,14 +171,10 @@ of corruption and wickedness.
 
 Imam Ja\`far ibn Muhammad as-Sadiq (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قٌالَ فِي مُؤْمِنٍ مٌا رَأَتْهُ عَيْنٌاهُ أَوْ سَمِعَتْهُ
-أُذُنٌاهُ فَهُوَ مِنَ الَّذِينَ قٌالَ اللٌّهُ عَزَّوَجَلَّ: إِنَّ
-الَّذِينَ يُحِـبُّونَ أَنْ تَشِيعَ الْفٌاحِشَةَ فِي الَّذِينَ آمَنُوا
-لَهُمْ عَذٌابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> مَنْ قٌالَ فِي مُؤْمِنٍ مٌا رَأَتْهُ عَيْنٌاهُ أَوْ سَمِعَتْهُ
+> أُذُنٌاهُ فَهُوَ مِنَ الَّذِينَ قٌالَ اللٌّهُ عَزَّوَجَلَّ: إِنَّ
+> الَّذِينَ يُحِـبُّونَ أَنْ تَشِيعَ الْفٌاحِشَةَ فِي الَّذِينَ آمَنُوا
+> لَهُمْ عَذٌابٌ أَلِيمٌ
 
 *“A person who tells others the actions of another believer that he has
 seen or heard with his ears is of those people about whom Allah (the
@@ -209,5 +189,4 @@ perpetual punishment awaiting them.”***[^4]
 [^3]: Ibid., Page 251.
 
 [^4]: Usul al-Kafi, Volume 2, Page 357.
-
 

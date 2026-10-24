@@ -6,7 +6,6 @@ so whoever makes a pilgrimage to the House or pays a visit (to it),
 there is no blame on him if he goes round them both; and whoever does
 good spontaneously, then surely Allah is Grateful, Knowing. (158)
 
-
 **GENERAL COMMENT
 **
 The Safa and Marwah are two places in Mecca between which a pilgrim has

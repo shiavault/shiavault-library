@@ -36,4 +36,3 @@ Therefore, what had been achieved at the hands of the Great Messenger
 could occur also at the hands of the Expected Leader from among his
 progeny whom he announced and whose role he hinted at.
 
-

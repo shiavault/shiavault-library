@@ -4,17 +4,9 @@ Section 5: Lot and Shu‘ayb’s people
 Surah Al-Hijr – Verses 61 - 62
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَ ءَالَ لُوطٍ الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَ ءَالَ لُوطٍ الْمُرْسَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّكُمْ قَومٌ مُّنكَرُونَ
-  </p>
-</blockquote>
+> قَالَ إِنَّكُمْ قَومٌ مُّنكَرُونَ
 
 ***61. “So when the (Divine) messengers came unto the family of
 Lot.”***  
@@ -48,17 +40,9 @@ Lot.
 Surah Al-Hijr – Verses 63 - 64
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ
-  </p>
-</blockquote>
+> قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وأَتَيْنَاكَ بِالْحَقّ‌ِ وَإِنَّا لَصَادِقُونَ
-  </p>
-</blockquote>
+> وأَتَيْنَاكَ بِالْحَقّ‌ِ وَإِنَّا لَصَادِقُونَ
 
 ***63. “They said: ‘Nay, but we have come to you with that in which they
 have been doubting’.”***  
@@ -110,19 +94,11 @@ steps to be taken for them.
 Surah Al-Hijr – Verses 65 - 66
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَسْرِ بِاَهْلِكَ بِقِطْعٍ مّـِنَ الَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ
-وَلاَ يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ
-  </p>
-</blockquote>
+> فَاَسْرِ بِاَهْلِكَ بِقِطْعٍ مّـِنَ الَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ
+> وَلاَ يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَضَيْنَآ إِلَيْهِ ذَلِكَ الاَمْرَ أَنَّ دَابِرَ هَؤُلآءِ مَقْطُوعٌ
-مُّصْبِحِينَ
-  </p>
-</blockquote>
+> وَقَضَيْنَآ إِلَيْهِ ذَلِكَ الاَمْرَ أَنَّ دَابِرَ هَؤُلآءِ مَقْطُوعٌ
+> مُّصْبِحِينَ
 
 ***65. “So set forth, you with your family, in a part of the night and
 do you go behind them and let not any one of you turn back, and go
@@ -170,23 +146,11 @@ Then, the tone of the statement changes, where Allah says:
 Surah Al-Hijr – Verses 67 - 69
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> وَجَآءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّ هؤُلآءِ ضَيْفِي فَلاَ تَفْضَحُونِ
-  </p>
-</blockquote>
+> قَالَ إِنَّ هؤُلآءِ ضَيْفِي فَلاَ تَفْضَحُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُوا اللَّهَ وَلاَ تُخْزُونِ
-  </p>
-</blockquote>
+> وَاتَّقُوا اللَّهَ وَلاَ تُخْزُونِ
 
 ***67. “And the inhabitants of the town came rejoicing.”***  
 ***68. “He said: ‘Verily these are my guests, therefore do not disgrace
@@ -224,17 +188,9 @@ of my guests.
 Surah Al-Hijr – Verses 70 - 71
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ
-  </p>
-</blockquote>
+> قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَؤُلآءِ بَنَاتِي إِن كُنتُمْ فَاعِلِينَ
-  </p>
-</blockquote>
+> قَالَ هَؤُلآءِ بَنَاتِي إِن كُنتُمْ فَاعِلِينَ
 
 ***70. “They said: ‘Did we not dissuade you from (entertaining)
 people?”***  
@@ -287,17 +243,9 @@ unbelievers was not legally prohibited at that time.
 Surah Al-Hijr – Verses 72 - 73
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَعَمْرُكَ إِنَّهُمْ لَفِي سْكْرَتِهِمْ يَعْمَهُونَ
-  </p>
-</blockquote>
+> لَعَمْرُكَ إِنَّهُمْ لَفِي سْكْرَتِهِمْ يَعْمَهُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ
-  </p>
-</blockquote>
+> فَاَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ
 
 ***72. “By your life (O’ Prophet), verily they were wandering on in
 their intoxication.”***  
@@ -339,12 +287,8 @@ terrible earthquake.
 Surah Al-Hijr – Verse 74
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً
-مِن سِجّـِيلٍ
-  </p>
-</blockquote>
+> فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً
+> مِن سِجّـِيلٍ
 
 ***74. “Thus We turned that city upside down and rained upon them stones
 of hard clay.”***
@@ -382,11 +326,7 @@ multiplied their punishment.
 Surah Al-Hijr – Verse 75
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَاتٍ لِلْمُتَوَسّـِمِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَاتٍ لِلْمُتَوَسّـِمِينَ
 
 ***75. “Verily, in this there are signs for those who by tokens do
 understand.”***
@@ -471,17 +411,9 @@ towards Paradise.”* [^9]
 Surah Al-Hijr – Verses 76 - 77
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ
-  </p>
-</blockquote>
+> وإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً لّـِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً لّـِلْمُؤْمِنِينَ
 
 ***76. “And verily it is on a way (yet) remaining.”***  
 ***77. “Verily, in this there is a sign for the believers.”***
@@ -534,17 +466,9 @@ does not draw instructive lessons from it?
 Surah Al-Hijr – Verses 78 - 79
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانَ أَصْحَابُ الاَيْكَةِ لَظَالِمِينَ
-  </p>
-</blockquote>
+> وَإِن كَانَ أَصْحَابُ الاَيْكَةِ لَظَالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَانتَقَمْنَا مِنْهُمْ وإِنَّهُمَا لَبِاِمَامٍ مُّبِينٍ
-  </p>
-</blockquote>
+> فَانتَقَمْنَا مِنْهُمْ وإِنَّهُمَا لَبِاِمَامٍ مُّبِينٍ
 
 ***78. “And verily, the inhabitants of ’Aykah were certainly
 unjust.”***  
@@ -605,5 +529,4 @@ eye-sight of the passengers.
 [^9]: Tafsir-ul-Burhan and Majma‘-ul-Bayan
 
 [^10]: Tafsir-ul-Furqan, taken from Durr-ul-Manthūr, vol. 4, p. 103
-
 

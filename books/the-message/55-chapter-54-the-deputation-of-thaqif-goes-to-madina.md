@@ -205,4 +205,3 @@ given in connection with the events of 8 A.H.
 [^2]: Seerah-i Ibn Hisham, vol. Il, p. 542 and Seerah-i Halabi, vol.
 III, p. 243.
 
-

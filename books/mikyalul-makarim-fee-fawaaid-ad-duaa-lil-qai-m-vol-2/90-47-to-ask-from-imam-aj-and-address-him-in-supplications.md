@@ -33,11 +33,7 @@ to face humiliation and censure, because we have ignored the duty that
 the Almighty Allah has made incumbent on us as is seen in the
 interpretation of the Imams (as) regarding the following verse:
 
-<blockquote dir="rtl">
-  <p>
-انْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ
-  </p>
-</blockquote>
+> انْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ
 
 ***Then disperse abroad in the land and seek of Allah’s grace. (Qur’an,
 Surah Jumua 62:10)***
@@ -47,11 +43,7 @@ seek the help of anyone except the Imam of our time because if we fail
 in this duty we would have to face humiliation, become worthy of
 criticism and be from among the losers as mentioned in the verse:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا
-  </p>
-</blockquote>
+> قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا
 
 ***Was not Allah’s earth spacious, so that you should have migrated
 therein? (Qur’an, Surah Nisa 4:97)***
@@ -103,5 +95,4 @@ mention them at the end of the books, Insha Allah.
 [^1]: Iqbal, Pg. 687
 
 [^2]: Biharul Anwar, Vol. 102, Pg. 130
-
 

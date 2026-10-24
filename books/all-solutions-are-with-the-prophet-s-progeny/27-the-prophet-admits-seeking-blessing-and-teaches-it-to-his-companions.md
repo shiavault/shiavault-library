@@ -61,4 +61,3 @@ hearts!
 
 [^2]: Sahih al-Bukhari, vol. 5 p. 103.
 
-

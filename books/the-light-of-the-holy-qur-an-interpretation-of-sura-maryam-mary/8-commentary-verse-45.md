@@ -46,7 +46,6 @@ punishment with Allah on the Day of Hereafter." (Nahj-ul-Fasahah, p. 59;
 
 **Commentary : Verse 46**
 
-
 46- قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَآ إِبْرَاهِيمُ لَئِن لَّمْ
 تَنتَهِ لاَرْجُمَنَّكَ وَاهْجُرْنِى مَلِيّاً
 
@@ -83,7 +82,6 @@ that sometimes some angry persons use against their opponents.
 
 The Arabic term /maliyya/ is derived from /'imla'/ in the sense of 'to
 respite a long time'.
-
 
 **Commentary : Verse 47**
 
@@ -139,5 +137,4 @@ affectionate to me'."
 Abraham (a.s.) asked forgiveness for his idolatrous uncle for the sake
 that he probabled that 'A-zar would be guided, but, as soon as he became
 disappointed from his uncle's guidance, he repudiated him.
-
 

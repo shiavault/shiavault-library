@@ -69,4 +69,3 @@ Office for undertaking this responsibility.
 
 **The Ahl al-Bayt (*****‘a*****) World Assembly**
 
-

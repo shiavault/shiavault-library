@@ -57,7 +57,6 @@ instruction of the Holy Prophet (SAWAW) :
 child!" When that person left, the Holy Prophet commented: "In my
 opinion this person is infernal (i.e. belongs to Hell)."86
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 84. Sahi'h Muslim, Vol: 15, Chapter AI-Faza'il, Page: 193, Published in
 Beruit
@@ -120,7 +119,6 @@ loving their children, making them feel happy, and In pleasing them.88
 Tari'kh Yaquobl, Vol:2, Page:53. Hayat al-lmam Muhammad Baqar, by,
 Baqar Sharief al-Qarashie, VoI:1, Page:312.
 
-
 **10. Knowledge and Skill**
 
 "knowledge and awareness", man is incomplete! Man gains celebrity by
@@ -153,7 +151,6 @@ says:-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 89.Surah AIaq'h, Verse: 1.-5.
-
 
 "To act upon the injunction of Allah knowledge is essential. Knowledge
 is required for submission to Him. The good of this world, and the
@@ -658,7 +655,6 @@ anyone that he utter any falsehood, and it is not also correct that
 someone gives a word to his child, and then does not fulfill it".118 At
 another occasion He (SAWAW), guides us as follows:-
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 116.Bihar-ul-Anwa'r, Vol: 101, Page:92. Wasil as-Shia', Vol: 15,
 Page:201
@@ -679,5 +675,4 @@ He says:-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ghurar aI-Hikam, Page: 801
 Ghurar-ul-Hikam, Page: 780.
-
 

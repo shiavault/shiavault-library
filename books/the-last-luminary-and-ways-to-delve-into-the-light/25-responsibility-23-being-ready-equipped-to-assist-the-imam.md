@@ -11,13 +11,9 @@ establish a relationship with the Imam.[^1]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-لِيُعِدَّنَّ أَحَدُكُمْ لِخُرُوجِ الْقَائِمِ  وَ لَوْ سَهْماً فِإِنَّ
-اللٌّهَ تَعَالـى إِذَا عَلِمَ ذٌلِكَ مِنْ نِيَّتِهِ رَجَوْتُ لأَِنْ
-يُنْسِئَ فِي عُمُرِهِ
-  </p>
-</blockquote>
+> لِيُعِدَّنَّ أَحَدُكُمْ لِخُرُوجِ الْقَائِمِ  وَ لَوْ سَهْماً فِإِنَّ
+> اللٌّهَ تَعَالـى إِذَا عَلِمَ ذٌلِكَ مِنْ نِيَّتِهِ رَجَوْتُ لأَِنْ
+> يُنْسِئَ فِي عُمُرِهِ
 
 “Each one of you must prepare for the advent of al-Qa\`im (peace be upon
 him) even if it be (by as much as) an arrow because when Allah, the
@@ -26,15 +22,11 @@ person a longer life.”[^2]
 
 Imam Muhammad. ‘Ali al-Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-كَمِ الرِّبَاطُ عِنْدَكُمْ؟ قَالََ الرَّاوِي: قُلْتُ أَرْبَعُونَ قَالَ
-: لٌكِنْ رِبَاطُنَا رِبَاطُ الدَّهْرِ وَمَنِ ارْتَبَطَ فِيـنَا
-دَابَّةً كَانَ لَهُ وَزْنُهَا وَوَزْنُ وَزْنِهَا مَا كَانَتْ عِنْدَهُ
-وَمَنِ ارْتَبَطَ فِيـنَا سِلاَحاً كَانَ لَهُ وَزْنُهُ مَا كَانَ
-عِنْدَهُ
-  </p>
-</blockquote>
+> كَمِ الرِّبَاطُ عِنْدَكُمْ؟ قَالََ الرَّاوِي: قُلْتُ أَرْبَعُونَ قَالَ
+> : لٌكِنْ رِبَاطُنَا رِبَاطُ الدَّهْرِ وَمَنِ ارْتَبَطَ فِيـنَا
+> دَابَّةً كَانَ لَهُ وَزْنُهَا وَوَزْنُ وَزْنِهَا مَا كَانَتْ عِنْدَهُ
+> وَمَنِ ارْتَبَطَ فِيـنَا سِلاَحاً كَانَ لَهُ وَزْنُهُ مَا كَانَ
+> عِنْدَهُ
 
 “How many days do you calculate a ribat (stationing of an army) to be?”
 The narrator answered: “Forty days.” The Imam (peace be upon him) said:
@@ -71,5 +63,4 @@ obedience of the Imam and to the expectation of the advent as they must
 prepare themselves for such.
 
 [^4]: al-Kafi, vol. 8, pg. 381, sec. 8, no. 576
-
 

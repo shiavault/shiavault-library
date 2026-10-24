@@ -105,4 +105,3 @@ of the child are always pronounced."
 
 [^3]: Rowan shinashi kudak, p. 222
 
-

@@ -294,4 +294,3 @@ Abdullah (a.s) who says, "Allah knows that sins are better for the
 believer than conceit. [lad it not been so. He would not have afflicted
 a believer with a sin at all."
 
-

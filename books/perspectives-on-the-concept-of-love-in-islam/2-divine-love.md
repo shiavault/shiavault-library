@@ -184,4 +184,3 @@ manifestation (tajalli) rather than creation (khalq).
 
 [^5]: Nasr, 1989, p. 321
 
-

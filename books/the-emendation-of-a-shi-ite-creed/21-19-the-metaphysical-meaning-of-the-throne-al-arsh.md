@@ -87,4 +87,3 @@ hamalat is more in keeping with the chapter and what is generally held
 by the Shi‘ah traditionists, concerning al-‘Arsh. See al-Ash‘ari,
 Maqalatu 'l-Islamiyyin, vol.l, p.35.
 
-

@@ -1058,4 +1058,3 @@ If Mejnun and Laila were to come to life again
 
 They might indite a tale of love on this occurrence.
 
-

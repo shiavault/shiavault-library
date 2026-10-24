@@ -21,11 +21,7 @@ morality, and in fact morality of each person depends on the disposition
 of his soul and body, and for this reason, it is not changeable. They
 cite as a proof the traditions like:
 
-<blockquote dir="rtl">
-  <p>
-«اَلنّاسُ مَعادِنٌ کَمَعادِنِ الذَّهَبِ وَ الْفِضَّةِ»
-  </p>
-</blockquote>
+> «اَلنّاسُ مَعادِنٌ کَمَعادِنِ الذَّهَبِ وَ الْفِضَّةِ»
 
 The people are like the mines of gold and silver. [^1]
 
@@ -90,15 +86,11 @@ most dangerous predator animals.
 This fact is also deduced from several traditions. For instance, Imam
 Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ اللهَ خَصَّ الْمَلَکَ بِالْعَقْلِ دُونَ الشَّهْوَةِ وَ
-الْغَضَبِ، وَ خَصَّ الْحَیواناتِ بِهِما دُونَهُ وَ شَرَّفَ الاِْنسانَ
-بِاِعْطاءِ الْجَمِیعِ فَاِنِ انْقادَتْ شَهْوَتُهُ وَ غَضَبُهُ
-لِعَقْلِهِ، صارَ اَفْضَلَ مِنَ الْمَلائِکَةِ لِوُصُولِهِ اِلى هذِهِ
-الرُّتْبَةِ مَعَ وُجُودِ الْمُنازِعِ. »
-  </p>
-</blockquote>
+> «اِنَّ اللهَ خَصَّ الْمَلَکَ بِالْعَقْلِ دُونَ الشَّهْوَةِ وَ
+> الْغَضَبِ، وَ خَصَّ الْحَیواناتِ بِهِما دُونَهُ وَ شَرَّفَ الاِْنسانَ
+> بِاِعْطاءِ الْجَمِیعِ فَاِنِ انْقادَتْ شَهْوَتُهُ وَ غَضَبُهُ
+> لِعَقْلِهِ، صارَ اَفْضَلَ مِنَ الْمَلائِکَةِ لِوُصُولِهِ اِلى هذِهِ
+> الرُّتْبَةِ مَعَ وُجُودِ الْمُنازِعِ. »
 
 God granted to the angel only intellect, without lust and wrath, and
 gave to the animals only lust and wrath, without intellect, but ennobled
@@ -139,11 +131,7 @@ of "mental disease", and ethics scholars call it "heart-sickness".
 This concept has basically originated from Holy Qur’an that has
 considered hypocrisy of a hypocrite as a disease, where it says:
 
-<blockquote dir="rtl">
-  <p>
-فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ
-  </p>
-</blockquote>
+> فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ
 
 *** In their hearts is a disease, and Allah increaseth their disease. A
 painful doom is theirs because they lie.*** ***(2:10)***
@@ -156,13 +144,9 @@ for its importance, and this interpretation is derived from the famous
 tradition in which Prophet (S) told to the warriors of his companions
 after returning from one of the battles:
 
-<blockquote dir="rtl">
-  <p>
-«مَرْحَباً بِقَوْم قَضَوُا الْجِهادَ الاَْصْغَرَ وَ بَقِیَ عَلَیْهِمُ
-الْجِهادُ الاَْکْبَرُ. فَقِیلَ: یا رَسُولَ اللهِ مَا الْجِهادُ
-الاَْکْبَرُ؟ قالَ: جِهادُ النَّفْسِ».
-  </p>
-</blockquote>
+> «مَرْحَباً بِقَوْم قَضَوُا الْجِهادَ الاَْصْغَرَ وَ بَقِیَ عَلَیْهِمُ
+> الْجِهادُ الاَْکْبَرُ. فَقِیلَ: یا رَسُولَ اللهِ مَا الْجِهادُ
+> الاَْکْبَرُ؟ قالَ: جِهادُ النَّفْسِ».
 
 Bravo to the crowd who performed lesser warfare and the greater warfare
 is still left undone. They told: what is the greater warfare? He
@@ -170,12 +154,8 @@ answered: warfare and conflict with rebellious sensual desires. [^3]
 
 This phrase too is narrated from the Prophet following this tradition:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ اَفْضَلَ الْجِهادِ مَنْ جاهَدَ نَفْسَهُ الَّتِی بَیْنَ
-جَنْبَیْهِ»
-  </p>
-</blockquote>
+> «اِنَّ اَفْضَلَ الْجِهادِ مَنْ جاهَدَ نَفْسَهُ الَّتِی بَیْنَ
+> جَنْبَیْهِ»
 
 The highest warfare is warfare with rebellious desires, which are inside
 man's chest. [^4]
@@ -288,26 +268,14 @@ explicitly supported it, and have mentioned new principles for it. This
 reality is reflected in Qur’an and sayings of our great leaders, and
 motto of Islam in this regard is summarized in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ
-فِي الْآخِرَةِ مِنْ خَلَاقٍ\*
-  </p>
-</blockquote>
+> فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ
+> فِي الْآخِرَةِ مِنْ خَلَاقٍ\*
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُمْ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي
-الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> وَمِنْهُمْ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي
+> الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ لَهُمْ نَصِيبٌ مِمَّا كَسَبُوا ۚ وَاللَّهُ سَرِيعُ
-الْحِسَابِ
-  </p>
-</blockquote>
+> أُولَٰئِكَ لَهُمْ نَصِيبٌ مِمَّا كَسَبُوا ۚ وَاللَّهُ سَرِيعُ
+> الْحِسَابِ
 
 ***But of mankind is he who saith: "Our Lord! Give unto us in the
 world," and he hath no portion in the Hereafter.***
@@ -342,13 +310,9 @@ moral diseases.
 
 Islam has studied this issue subtly and it explicitly says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ
-وَالطَّيِّبَاتِ مِنَ الرِّزْقِ ۚ قُلْ هِيَ لِلَّذِينَ آمَنُوا فِي
-الْحَيَاةِ الدُّنْيَا
-  </p>
-</blockquote>
+> قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ
+> وَالطَّيِّبَاتِ مِنَ الرِّزْقِ ۚ قُلْ هِيَ لِلَّذِينَ آمَنُوا فِي
+> الْحَيَاةِ الدُّنْيَا
 
 ***Say: Who hath forbidden the adornment of Allah which He hath brought
 forth for His bondmen, and the good things of His providing? Say: Such,
@@ -357,13 +321,9 @@ the life of the world.*** ***(7:32)***
 
 And we read in aphorisms of Imam Ali (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«لِلْمُؤْمِنِ ثَلاثُ ساعات: فَساعَةٌ یُناجِی فِیها رَبَّهُ وَ ساعَةٌ
-یَرُمُّ مَعاشَهُ وَ ساعَةٌ یُخَلِّی بَیْنَ نَفْسِهِ وَ بَیْنَ
-لَذَّتِها فِیما یَحِلُّ وَ یَجْمُلُ».
-  </p>
-</blockquote>
+> «لِلْمُؤْمِنِ ثَلاثُ ساعات: فَساعَةٌ یُناجِی فِیها رَبَّهُ وَ ساعَةٌ
+> یَرُمُّ مَعاشَهُ وَ ساعَةٌ یُخَلِّی بَیْنَ نَفْسِهِ وَ بَیْنَ
+> لَذَّتِها فِیما یَحِلُّ وَ یَجْمُلُ».
 
 The believer's time has three periods: the period when he is in
 communion with Allah, the period when he manages for his livelihood, and
@@ -371,11 +331,7 @@ the period when he is free to enjoy what is lawful and pleasant. [^5]
 
 And this phrase is added to some traditions:
 
-<blockquote dir="rtl">
-  <p>
-«وَ ذلِکَ عَوْنٌ عَلى سائِرِ السّاعاتِ».
-  </p>
-</blockquote>
+> «وَ ذلِکَ عَوْنٌ عَلى سائِرِ السّاعاتِ».
 
 "And the last part is tonic and refreshing for the other parts."
 
@@ -484,11 +440,7 @@ soon.
 
 Imam As-Sadiq (A.S.) said:
 
-<blockquote dir="rtl">
-  <p>
-«عَلَیْکَ بِالاَْحْداثِ فَاِنَّهُمْ اَسْرَعُ اِلى کُلِّ خَیْر».
-  </p>
-</blockquote>
+> «عَلَیْکَ بِالاَْحْداثِ فَاِنَّهُمْ اَسْرَعُ اِلى کُلِّ خَیْر».
 
 Pay attention to the youths, who are ready for quick acceptance of any
 goodness. [^6]
@@ -524,23 +476,15 @@ Effects of association in correcting man's personality are so
 significant that it is said for knowing someone; look at the companions
 and friends he keeps. Imam Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«مَنِ اشْتَبَهَ عَلَیْکُمْ اَمْرُهُ وَ لَمْ تَعْرِفُوا دِینَهُ
-فَانْظُرُوا اِلى خُلَطائِهِ».
-  </p>
-</blockquote>
+> «مَنِ اشْتَبَهَ عَلَیْکُمْ اَمْرُهُ وَ لَمْ تَعْرِفُوا دِینَهُ
+> فَانْظُرُوا اِلى خُلَطائِهِ».
 
 When you are uncertain about someone and do not know his religion, look
 at his friends. [^7]
 
 The Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اَلْمَرْءُ عَلى دِینِ خَلِیلِهِ وَ قَرِینِهِ».
-  </p>
-</blockquote>
+> «اَلْمَرْءُ عَلى دِینِ خَلِیلِهِ وَ قَرِینِهِ».
 
 A man has the same religion of his friend and companion. [^8]
 
@@ -548,13 +492,9 @@ Association with evil doers darkens soul, and weakens moral sense, and
 reduces ugliness of evil deeds and ill-humour, and it is interpreted as
 "heart death" in the traditions. The Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اَرْبَعٌ یُمِتْنَ الْقُلُوبَ... وَ مُجالَسَةُ الْمَوْتى; فَقِیلَ
-لَهُ: یا رَسُولَ اللهِ! وَ مَا الْمَوْتى؟ قالَ: کُلُّ غَنِیٍّ
-مُتْرَف».
-  </p>
-</blockquote>
+> «اَرْبَعٌ یُمِتْنَ الْقُلُوبَ... وَ مُجالَسَةُ الْمَوْتى; فَقِیلَ
+> لَهُ: یا رَسُولَ اللهِ! وَ مَا الْمَوْتى؟ قالَ: کُلُّ غَنِیٍّ
+> مُتْرَف».
 
 Four things extinguish heart ..., including association with the dead.
 They asked: O God's messenger! Who are the dead? He said: lavish rich
@@ -565,11 +505,7 @@ makes him pessimistic to everybody.
 
 Imam Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«مُجالَسَةُ الاَْشْرارِ تُورِثُ سُوءَ الظَّنِّ بِالاَْخْیارِ».
-  </p>
-</blockquote>
+> «مُجالَسَةُ الاَْشْرارِ تُورِثُ سُوءَ الظَّنِّ بِالاَْخْیارِ».
 
 Association with evil doers causes suspicion on good doers. [^10]
 
@@ -583,14 +519,10 @@ reviving heart and acquiring personality.
 Islam emphasizes greatly on association with good individuals and
 righteous doers. Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ
-وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ
-تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا
-قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا
-  </p>
-</blockquote>
+> وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ
+> وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ
+> تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا
+> قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا
 
 ***Restrain thyself along with those who cry unto their Lord at morn and
 evening, seeking His Countenance; and let not thine eyes overlook them,
@@ -600,11 +532,7 @@ whose case hath been abandoned.(18:28)***
 
 The Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اَسْعَدُ النّاسِ مَنْ خالَطَ کِرامَ النّاسِ».
-  </p>
-</blockquote>
+> «اَسْعَدُ النّاسِ مَنْ خالَطَ کِرامَ النّاسِ».
 
 The most prosperous people are those who associate with good and
 honourable people.[^11]
@@ -627,11 +555,7 @@ And on this account, for renewing importance of sin in public opinion,
 it is instructed in Islam to punish evil doers publicly and in presence
 of people:
 
-<blockquote dir="rtl">
-  <p>
-وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
 
 ***And let a party of believers witness their punishment. (24:2)***
 
@@ -642,22 +566,14 @@ Islam has put a great emphasis on open sin and vice, and has assumed
 immodesty and open debauchery as the causes of a person's defamation.
 Imam As-Sadiq (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«اِذا جاهَرَ الْفاسِقُ بِفِسْقِهِ فَلا حُرْمَةَ لَهُ».
-  </p>
-</blockquote>
+> «اِذا جاهَرَ الْفاسِقُ بِفِسْقِهِ فَلا حُرْمَةَ لَهُ».
 
 Whenever an evil doer debauches openly, is defamed.[^12]
 
 Imam Al-Baqir (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«ثَلاثَةٌ لَیْسَ لَهُمْ حُرْمَةٌ: صاحِبُ هَوىً مُبْتَدعٌ وَ الاِْمامُ
-الْجائِرُ و الْفاسِقُ الْمُعْلِنُ بِالْفِسْقِ».
-  </p>
-</blockquote>
+> «ثَلاثَةٌ لَیْسَ لَهُمْ حُرْمَةٌ: صاحِبُ هَوىً مُبْتَدعٌ وَ الاِْمامُ
+> الْجائِرُ و الْفاسِقُ الْمُعْلِنُ بِالْفِسْقِ».
 
 There shall be no respect for three persons: Innovator, unjust leader,
 and evil doer debauching openly. [^13]
@@ -666,12 +582,8 @@ Even the narration of stories in respect to vice and adultery which
 taints minds and prepares environment for accepting vice, is forbidden
 in Islam's view. Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ سَمِعَ فاحِشَةً فَاَفْشاها کانَ کَمَنْ اَتاها، وَمَنْ سَمِعَ
-خَیْراً فَاَفْشاهُ کانَ کَمَنْ عَمِلَهُ».
-  </p>
-</blockquote>
+> «مَنْ سَمِعَ فاحِشَةً فَاَفْشاها کانَ کَمَنْ اَتاها، وَمَنْ سَمِعَ
+> خَیْراً فَاَفْشاهُ کانَ کَمَنْ عَمِلَهُ».
 
 One, who hears an evil deed and divulges it, is like the one who has
 performed it, and one, who hears a good deed and divulges it, is like
@@ -707,25 +619,17 @@ parts indicating importance of the matter.
 
 In Majmaol Bayan interpretation under verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا
-كَثِيرًا وَسَعَةً
-  </p>
-</blockquote>
+> وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا
+> كَثِيرًا وَسَعَةً
 
 ***Whoso migrateth for the cause of Allah will find much refuge and
 abundance in the earth. (4:100)***
 
 It is narrated from Islam's Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ فَرَّ بِدِینِهِ مِنْ اَرْض اِلى اَرْض وَ اِنْ کانَ شِبْراً مِنَ
-الاَْرْضِ اسْتَوْجَبَ الْجَنَّةَ وَ کانَ رَفِیقَ اِبْراهِیمَ وَ
-مُحَمَّد».
-  </p>
-</blockquote>
+> «مَنْ فَرَّ بِدِینِهِ مِنْ اَرْض اِلى اَرْض وَ اِنْ کانَ شِبْراً مِنَ
+> الاَْرْضِ اسْتَوْجَبَ الْجَنَّةَ وَ کانَ رَفِیقَ اِبْراهِیمَ وَ
+> مُحَمَّد».
 
 Whoso emigrates for his religion from a territory to another territory,
 although it may be as much as one palm of land, deserves paradise and
@@ -740,24 +644,16 @@ Prophet from Mecca to Medina.
 
 In Ali Ebne Abraham interpretation, under the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ
-فَاعْبُدُونِ
-  </p>
-</blockquote>
+> يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ
+> فَاعْبُدُونِ
 
 ***O my bondmen who believe! Lo! My earth is spacious. Therefore serve
 Me only. (29:56)***
 
 It is narrated from Imam Al-Baqir (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«لا تُطِیعُوا اَهْلَ الْفِسْقِ مِنَ الْمُلُوکِ فَاِنْ خِفْتُمُوهُمْ
-اَنْ یَفْتِنُوکُمْ عَنْ دِینِکُمْ فَاِنَّ اَرْضِی واسِعَةٌ».
-  </p>
-</blockquote>
+> «لا تُطِیعُوا اَهْلَ الْفِسْقِ مِنَ الْمُلُوکِ فَاِنْ خِفْتُمُوهُمْ
+> اَنْ یَفْتِنُوکُمْ عَنْ دِینِکُمْ فَاِنَّ اَرْضِی واسِعَةٌ».
 
 Do not follow sinful rulers and if you fear of being deviated from your
 pure religion (do emigrate) because My Earth is wide.[^16]
@@ -799,5 +695,4 @@ and not being tainted with sin.
 [^15]: Al-Majlisi, Bihar al-Anwar, 31/19
 
 [^16]: Ali Ebne Ebrahim commentary, vol. 2, page 151
-
 

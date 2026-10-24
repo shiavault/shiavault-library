@@ -488,4 +488,3 @@ Issues
 
 [^26]: Ayatullah Shahid Beheshti, Health and Family Planning, Page 203
 
-

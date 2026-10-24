@@ -21,4 +21,3 @@ opinion etc.
 Tafseer Safi, Preface of Tafseer Majmaul Bayan, and Asaasul Usool,
 Wasailush Shia, Risala Itteqadia of Ibn Babawayh.
 
-

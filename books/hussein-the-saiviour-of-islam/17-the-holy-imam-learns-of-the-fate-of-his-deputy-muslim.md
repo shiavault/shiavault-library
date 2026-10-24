@@ -465,4 +465,3 @@ facing the might of the Devil in defence of the right, and to lay down
 their lives cheerfully and thus to drink the cup of martyrdom in the
 cause of the correct guidance of the Human Race.
 
-

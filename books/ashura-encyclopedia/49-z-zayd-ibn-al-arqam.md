@@ -9,4 +9,3 @@ Zyad: Stop hitting those lips, by God which there is no God but him I
 have seen the Prophet (pbuh&hf) kissing those very lips. He then got up
 and ran home crying. He died in Kufa on 68 AH.
 
-

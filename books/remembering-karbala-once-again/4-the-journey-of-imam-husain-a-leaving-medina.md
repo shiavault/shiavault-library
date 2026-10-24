@@ -124,4 +124,3 @@ And Zahra cried "My beloved son"
 
 Farewell, protect him from his enemies' designs"
 
-

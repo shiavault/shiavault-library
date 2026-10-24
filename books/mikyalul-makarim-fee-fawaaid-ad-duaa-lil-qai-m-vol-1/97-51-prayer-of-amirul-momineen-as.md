@@ -6,4 +6,3 @@ pray in his favor on the Judgment Day and say:
 
 “O Lord, keep safe our Shias and friends and all those who followed me…”
 
-

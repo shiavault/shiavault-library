@@ -54,10 +54,8 @@ he spent on the (Prophet's) bed, God, glory be to Him, revealed: Whoever
 among the people sells his life out of a desire to please God, God is
 kind to (such) servants (II 207).
 
-
 3. The Commander of the Faithful fulfils the Prophet's Obligations in
 Mecca
-
 
 (Another example) of that is that the Prophet, may God bless him and
 his family, was the one trusted by the Quraysh with the things which
@@ -97,10 +95,8 @@ came near to it in its testing quality. It was in addition to his
 outstanding achievements which we have mentioned and their overwhelming
 merit and their nobility in the hearts of those who think.
 
-
 4. The Commander of the Faithful puts right Crimes committed by Khalid
 b. al-Walid 8
-
 
 (Another example) of that is that God, the Exalted specified him for
 the task of putting right what had been done wrong by those who opposed
@@ -156,9 +152,7 @@ the Commander of the faithful, peace be on him. No one else among them
 shared in it, nor was an action equal to it carried out by anyone
 else.
 
-
 5. Keeping the Conquest of Mecca Secret 9
-
 
 Another example of that is that when the Prophet, may God bless him and
 his family, wanted to conquer Mecca, he asked God, may His name be
@@ -287,9 +281,7 @@ peace be on him, which is shared by no one else. No one else approached
 him with any merit without him having more than it. God be He Who is
 praised.
 
-
 6. The Carrying of the Standard at the Conquest of Mecca. 10
-
 
 (Yet another example) is the fact that the Prophet, may God bless him
 and his family, gave the standard to Sa'd b. 'Ubada on the day of the
@@ -328,9 +320,7 @@ one else as we have mentioned, it is necessary to judge him in this
 achievement as someone set apart from others who were not equal to him,
 and (someone) preferred through the honour of it over all others.
 
-
 7. The Conversion of Yemen 11
-
 
 (Another example) of that which is agreed upon by all the historians
 (biographers ahl al-sira) is that the Prophet, may God bless him and his
@@ -386,7 +376,6 @@ greatness of their benefit through their call to the rest of the
 beneficial things (which can be gained) by acts (performed) by the rest
 of the people.
 
-
 8. Taking up the Standard at Khaybar 12
 
 Similar to that was the putting to flight of those who were put to
@@ -428,7 +417,6 @@ fortress returning it to God.
 
 He distinguished 'Ali by that apart from all other creatures and he
 named him his helper (wazir) and brother.
-
 
 9. Delivery of the Verses of Renunciation in Mecca 13
 

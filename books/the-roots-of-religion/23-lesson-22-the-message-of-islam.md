@@ -434,4 +434,3 @@ living society?
 
 [^11]: Kafi, vol. 5, p. 344
 
-

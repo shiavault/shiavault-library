@@ -647,4 +647,3 @@ Learning and teaching, but – like worship – if we never enjoy them, it
 would be far better to give them up. Both learning and teaching need
 such passion (Astley, 2004).
 
-

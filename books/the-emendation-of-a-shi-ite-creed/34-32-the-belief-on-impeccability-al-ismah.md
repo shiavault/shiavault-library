@@ -66,4 +66,3 @@ discretion .till He, the Almighty, makes them (peace be upon them) die.
 
 [^1]: \* \* Not found in N.
 
-

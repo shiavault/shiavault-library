@@ -41,4 +41,3 @@ cotton-pad before every *wudhu*.
  3. If a woman observes the rules mentioned above, she should not think
 herself as *najis*; she will be clean.
 
-

@@ -201,7 +201,6 @@ away at the age of fifty seven, in the year one hundred fourteen AH. He
 lived for nineteen years and two months after Ali ibn al-Husayn
 (a.s.)."
 
-
 **Chapter 119 : The Birth of abu 'Abdallah Ja'far ibn Muhammad
 (a.s.)**
 
@@ -435,5 +434,4 @@ that he had used as the clothe for Ihram (special clothes used during
 performing Hajj). Also a shirt of his shirts and the 'Amama (turban)
 that belonged to Ali ibn al-Husayn (a.s.) and a gown that he had bought
 for forty Dinars were used."
-
 

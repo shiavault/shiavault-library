@@ -399,4 +399,3 @@ of Imam Ali.
 All members of her family, especially her husband, knew no bound of
 happiness on her embracing Islam.
 
-

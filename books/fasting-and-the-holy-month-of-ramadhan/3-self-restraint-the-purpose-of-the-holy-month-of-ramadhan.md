@@ -78,4 +78,3 @@ action in that month? The Prophet of Islam (S) replied:
 ‘The best action in this month is to restrain from whatever Allah has
 forbidden.’”
 
-

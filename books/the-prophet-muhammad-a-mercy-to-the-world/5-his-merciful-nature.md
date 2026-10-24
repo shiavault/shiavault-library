@@ -355,7 +355,6 @@ you not heard the Almighty's words describing the women of Paradise:
 eIndeed We created them and made them virgins, loving, and equal in age
 f110
 
-
 **Qualities Reflected in His Conducts**
 
 Imam Ali said in describing the Prophet: 'He was the most open handed
@@ -509,5 +508,4 @@ despite the fact that he became a great ruler with wealth coming to him
 in abundance.
 c. His down-to-earth manners to the utmost degree. He was like any one
 of the people and did not consider himself superior to them.
-
 

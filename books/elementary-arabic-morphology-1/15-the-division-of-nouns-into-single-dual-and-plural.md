@@ -41,4 +41,3 @@ example: **ذاهِبات کاتِبات** (female authors, female leavers)
 55. A broken plural is formed by changing the form of the single noun;
 for example: **رِجالٌ ﺃرغِفَة** (loaves of Syrian bread, men)
 
-

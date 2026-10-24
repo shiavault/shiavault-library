@@ -287,4 +287,3 @@ life can be an example and model for the Muslim women of our time.
 [^1]: An event in which both parties pray to God for sending His curse
 upon the liars.
 
-

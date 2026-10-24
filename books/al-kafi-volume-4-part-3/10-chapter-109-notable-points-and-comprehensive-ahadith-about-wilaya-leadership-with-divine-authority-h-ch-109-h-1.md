@@ -104,7 +104,6 @@ Shi'a two thousand years before their bodies were created. He presented
 them to the Holy Prophet (s.a) and the Messenger of Allah recognized
 them. Ali (a.s.) recognized and we recognize them by their accent."
 
-
 **Chapter 110 : The Imams (a.s.) know their friends and that they are
 the in charge of their affairs H , Ch. 110, h 1**
 
@@ -168,5 +167,4 @@ and the differences of languages and colors. In this there is evidence
 The Imams are the scholars. Whatever they would hear that is spoken
 they recognize it, the one who has received salvation or one who is
 destroyed. For this reason they answer them as they answer them."
-
 

@@ -7,11 +7,7 @@ Ineptness
 is capable of causing harm.
 
 > 1ـ الخُرْقُ مُعاداةُ الآراءِ، ومُعاداةُ مَنْ يَقْدِرُ علَى
-<blockquote dir="rtl">
-  <p>
-الضَّـرّاءِ.
-  </p>
-</blockquote>
+> الضَّـرّاءِ.
 
 2. Be cautious of ineptness for it is disgraces [one’s] character.
 
@@ -54,11 +50,7 @@ ineptitude!
 act slowly after getting the opportunity.
 
 > 11ـ مِنَ الخُرْقِ العَجَلَـةُ قَبْلَ الإمْكانِ، والأناةُ بَعْدَ
-<blockquote dir="rtl">
-  <p>
-إصابَةِ الفُرصَةِ.
-  </p>
-</blockquote>
+> إصابَةِ الفُرصَةِ.
 
 12. Increased ineptness is an abomination.
 
@@ -80,5 +72,4 @@ to take it.
 16. There is no attribute more belittling than ineptitude.
 
 > 16ـ لا خُلَّةَ أزْرى مِنَ الخُرْقِِ.
-
 

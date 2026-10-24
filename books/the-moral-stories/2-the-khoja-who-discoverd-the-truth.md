@@ -130,4 +130,3 @@ Africa, Madagascar as well as Europe, USA, Canada. They not only
 maintain their Islamic traditions but also contribute their time, energy
 and money for the propagation of truth.
 
-

@@ -736,24 +736,24 @@ come unwillingly, ask people to help you.
 A young man from bani Sad scolded Talha and az-Zubayr for waging the
 war. He said to them through a poem:
 
-*<span style="font-size: 16pt">You have protected your women
-there,</span>*
+*You have protected your women
+there,*
 
-*<span style="font-size: 16pt">but you have led your mother
-(Aa'isha),</span>*
+*but you have led your mother
+(Aa'isha),*
 
-*<span style="font-size: 16pt">I swear that this is not fair.</span>*
+*I swear that this is not fair.*
 
-*<span style="font-size: 16pt">She has been ordered to keep to her
-house,</span>*
+*She has been ordered to keep to her
+house,*
 
-*<span style="font-size: 16pt">But she has come out covering the
-deserts,</span>*
+*But she has come out covering the
+deserts,*
 
-*<span style="font-size: 16pt">And letting her sons fight for
-her</span>*
+*And letting her sons fight for
+her*
 
-*<span style="font-size: 16pt">with arrows, spears and swords.</span>*
+*with arrows, spears and swords.*
 
 ### A young boy from Juhayna
 
@@ -1066,10 +1066,10 @@ Sabra bin Shayman replied: We are your children; bani Azd. She said: O
 aal[1] Ghssan, keep your brave fighting today as we have heard your poet
 saying:
 
-*<span style="font-size: 16pt">The people of Ghassan fought bravely with
-their swords.</span>*
+*The people of Ghassan fought bravely with
+their swords.*
 
-*<span style="font-size: 16pt">So did Kab, Ouss and Shabeeb.</span>*
+*So did Kab, Ouss and Shabeeb.*
 
 The people of Azd took the dung of the camel, smelt it and said: It is
 the dung of our mothers camel. Its smell is like the smell of musk.
@@ -1078,28 +1078,28 @@ She turned right and said: Who are the people on my right? They said: We
 are from the tribe of Bakr bin Wail. She said: About you the poet has
 said:
 
-*<span style="font-size: 16pt">They came to us with their weapons and
-glory,</span>*
+*They came to us with their weapons and
+glory,*
 
-*<span style="font-size: 16pt">as if they were Bakr bin Wail.</span>*
+*as if they were Bakr bin Wail.*
 
 She came near a battalion and asked: Where are you from? they said: We
 are bani Najiya. She said: How excellent! Qurashi[2] swords! As if she
 set fire of zeal inside them. The bearers of the banners devoted
 themselves to her camel. They recited:
 
-*<span style="font-size: 16pt">O mother, the wife of the
-Prophet,</span>*
+*O mother, the wife of the
+Prophet,*
 
-*<span style="font-size: 16pt">the wife of the blessed and guided
-one,</span>*
+*the wife of the blessed and guided
+one,*
 
-*<span style="font-size: 16pt">we are bani Dhubba.</span>*
+*we are bani Dhubba.*
 
-*<span style="font-size: 16pt">We do not flee even if we see our skulls
-falling down,</span>*
+*We do not flee even if we see our skulls
+falling down,*
 
-*<span style="font-size: 16pt">from which red blood flows.</span>*
+*from which red blood flows.*
 
 She still aroused their enthusiasm until her camel was killed after
 forty men had been killed under its reign. It was the defeat by the
@@ -1168,11 +1168,11 @@ opposes them.[2] Besides many other true traditions like these ones that
 Aa'isha had known well for she had been said to be as the bag of
 traditions. A poet said about her:
 
-*<span style="font-size: 16pt">She has memorized forty thousand
-traditions,</span>*
+*She has memorized forty thousand
+traditions,*
 
-*<span style="font-size: 16pt">But she has forgotten a verse of the holy
-Book.</span>*
+*But she has forgotten a verse of the holy
+Book.*
 
 It sufficed her that her father Abu Bakr had said: One day I saw the
 messenger of Allah pitching a tent[3] and then he leant on an Arabic bow
@@ -1254,24 +1254,24 @@ unjust people.**
 
 How great the verses of the poet of Ahlul Bayt (s) were when saying:
 
-*<span style="font-size: 16pt">O Aa'isha, what could we say about your
-war,</span>*
+*O Aa'isha, what could we say about your
+war,*
 
-*<span style="font-size: 16pt">when you have followed the way of
-dangers?</span>*
+*when you have followed the way of
+dangers?*
 
-*<span style="font-size: 16pt">Sufficed you not the tradition of the
-house</span>*
+*Sufficed you not the tradition of the
+house*
 
-*<span style="font-size: 16pt">Mentioned by al-Bukhari?[3]</span>*
+*Mentioned by al-Bukhari?[3]*
 
-*<span style="font-size: 16pt">It has been said that you (Aa'isha) have
-repented</span>*
+*It has been said that you (Aa'isha) have
+repented*
 
-*<span style="font-size: 16pt">And Ali has been wronged!</span>*
+*And Ali has been wronged!*
 
-*<span style="font-size: 16pt">Then why did you prostrate yourself to
-thank Allah</span>*
+*Then why did you prostrate yourself to
+thank Allah*
 
 ------------------------------------------------------------------------
 
@@ -1289,13 +1289,13 @@ Muslim said in his Sahih, vol.2 p.403 that once the Prophet (s) had gone
 out of Aa'ishas house saying: The head of disbelief comes out from here
 where the (horn of) Satan will appear.
 
-*<span style="font-size: 16pt">When he (Ali) was killed?[1]</span>*
+*When he (Ali) was killed?[1]*
 
-*<span style="font-size: 16pt">Why did you ride the mule on the day of
-al-Hasan</span>*
+*Why did you ride the mule on the day of
+al-Hasan*
 
-*<span style="font-size: 16pt">to light the fire of
-seditions?[2]</span>*
+*to light the fire of
+seditions?[2]*
 
 ------------------------------------------------------------------------
 

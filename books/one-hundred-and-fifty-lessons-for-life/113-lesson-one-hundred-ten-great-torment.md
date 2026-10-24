@@ -3,11 +3,7 @@ Lesson One Hundred Ten: Great Torment
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ساءَ خُلْقُهُ عَذَّبَ نَفْسَهُ
-  </p>
-</blockquote>
+> مَنْ ساءَ خُلْقُهُ عَذَّبَ نَفْسَهُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ recommended to its followers . It has been referred to as an important
 factor for attainment of the eternal paradise.
 
 [^1]: Tuhaful Uqul, page 270
-
 

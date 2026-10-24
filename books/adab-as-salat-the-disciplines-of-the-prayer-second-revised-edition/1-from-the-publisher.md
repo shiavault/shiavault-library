@@ -82,4 +82,3 @@ therefore, we had but to retain the same numbering on the printed pages
 the numbers 172 and 178 were repeated, and after the number 263 comes
 number 267.
 
-

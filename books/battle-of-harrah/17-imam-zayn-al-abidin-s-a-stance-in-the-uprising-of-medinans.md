@@ -207,4 +207,3 @@ uprising had been a rebellion and revolt against an Islamic ruler?
 
 [^1]: Yāqūt Hamawī, Mu‘jam al-Buldān, vol. 5, p. 449.
 
-

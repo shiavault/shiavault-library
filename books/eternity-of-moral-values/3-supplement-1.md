@@ -125,4 +125,3 @@ examples of justice and injustice, stating that the goodness of justice
 and the evil of injustice are immutable, and there are many mutable
 norms as well.
 
-

@@ -1354,11 +1354,11 @@ become Muslim.
 
 ***Farid Mohammadi***
 
-***Tehran, Ramadan 19<sup>th</sup> 1428***
+***Tehran, Ramadan 19th 1428***
 
-***October 1<sup>st</sup> 2007***
+***October 1st 2007***
 
-***Mehr 9<sup>th</sup> 1386***
+***Mehr 9th 1386***
 
 ------------------------------------------------------------------------
 

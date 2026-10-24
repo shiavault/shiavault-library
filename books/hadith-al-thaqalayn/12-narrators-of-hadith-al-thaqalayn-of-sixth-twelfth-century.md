@@ -184,4 +184,3 @@ aI-Tha\`alibi, Maqalid al-asanid; Wafayat al-a\`yan, iii, 414.
 
 [^11]: \`Abd al-Qadir al-Qarashi, al-Jawahir al-mudi'ah, i, 367.
 
-

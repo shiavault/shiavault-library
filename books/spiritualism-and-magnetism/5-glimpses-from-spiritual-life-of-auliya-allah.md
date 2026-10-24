@@ -1100,4 +1100,3 @@ Yusuf who did not incline after the daughter of the King of the Arabs,
 and fled.’ God Himself sent me with these angels to visit you. He sends
 you the good tidings that you are of God’s elect.”
 
-

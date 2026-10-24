@@ -225,4 +225,3 @@ is the view held by the Shi’ite school of thought?
 
 5- Define infallibility and explain its requisites.
 
-

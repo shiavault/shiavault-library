@@ -7,19 +7,11 @@ that the readers may do their best to put them into practice.
 **First**: You must clearly pray to the Almighty, in any language that
 He may hasten the advent. For example:
 
-<blockquote dir="rtl">
-  <p>
- اللهم عجل فرج مولانا صاحب الزمان 
-  </p>
-</blockquote>
+>  اللهم عجل فرج مولانا صاحب الزمان
 
 O Allah, hasten the reappearance of our master, the Master of the Time.
 
-<blockquote dir="rtl">
-  <p>
-عجل الله تعالى فرجه وظهوره.
-  </p>
-</blockquote>
+> عجل الله تعالى فرجه وظهوره.
 
 May Allah, the High, hasten his victory and reappearance.
 
@@ -103,12 +95,8 @@ hasten his reappearance. It is also mentioned in a tradition of Kamiluz
 Ziaraat etc. In the Ziarat of Imam Ali Reza (as) it is mentioned after
 invoking blessings on each of the Imams (as):
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على حجتك ووليك القائم في خلقك صلاة تامة نامية باقية تعجل بها
-فرجه وتنصره بها
-  </p>
-</blockquote>
+> اللهم صل على حجتك ووليك القائم في خلقك صلاة تامة نامية باقية تعجل بها
+> فرجه وتنصره بها
 
 O Allah, bless Your Proof and Your Wali, the Qaim on Your creatures a
 complete perfect and permanent blessing and by it hasten his advent and
@@ -125,5 +113,4 @@ implies that He should hasten the advent of Hazrat Hujjat who is in fact
 the one who will take revenge from the enemies of His Eminence.
 
 [^1]: Tafseer Al-Burhan; Sayyid Hashim Bahrani; Vol. 2, Pg. 121
-
 

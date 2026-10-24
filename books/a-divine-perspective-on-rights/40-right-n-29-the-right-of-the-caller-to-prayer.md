@@ -1,24 +1,16 @@
 Right n. 29: The Right of the Caller to Prayer
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-حق المؤذن
-  </p>
-</blockquote>
+> حق المؤذن
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الْمُؤَذِّنِ فَأَنْ تَعْلَمَ أنّهُ مُذَكِّرُكَ برَبكَ
-وَدَاعِيكَ إلَى حَظِّكَ وَأَفْضَلُ أَعْوَانِكَ عَلَى قَضَاءِ
-الْفَرِيضَةِ الَّتِي افتَرَضَهَا اللهُ عَلَيْكَ فَتَشْكُرَهُ عَلَى
-ذَلِكَ شُكْرَكَ لِلْمُحْسِنِ إلَيكَ. وَإنْ كُنْتَ فِي بَيْتِكَ
-مُهْتَمًّا لِذَلِكَ لَمْ تَكُنْ للهِ فِي أَمْرِهِ مُتَّهِماً
-وَعَلِمْتَ أنَّهُ نِعْمَةٌ مِن اللَّهِ عَلَيْكَ، لا شَكَّ فِيهَا،
-فَأَحْسِنْ صُحْبَةَ نِعْمَةِ اللَّهِ بحَمْدِ اللَّهِ عَلَيْهَا عَلَى
-كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الْمُؤَذِّنِ فَأَنْ تَعْلَمَ أنّهُ مُذَكِّرُكَ برَبكَ
+> وَدَاعِيكَ إلَى حَظِّكَ وَأَفْضَلُ أَعْوَانِكَ عَلَى قَضَاءِ
+> الْفَرِيضَةِ الَّتِي افتَرَضَهَا اللهُ عَلَيْكَ فَتَشْكُرَهُ عَلَى
+> ذَلِكَ شُكْرَكَ لِلْمُحْسِنِ إلَيكَ. وَإنْ كُنْتَ فِي بَيْتِكَ
+> مُهْتَمًّا لِذَلِكَ لَمْ تَكُنْ للهِ فِي أَمْرِهِ مُتَّهِماً
+> وَعَلِمْتَ أنَّهُ نِعْمَةٌ مِن اللَّهِ عَلَيْكَ، لا شَكَّ فِيهَا،
+> فَأَحْسِنْ صُحْبَةَ نِعْمَةِ اللَّهِ بحَمْدِ اللَّهِ عَلَيْهَا عَلَى
+> كُلِّ حَالٍ.
 
 **And the right of your caller to prayer is that you should know that he
 is**[^1] **the one** **reminding you of your Lord, and is calling you to
@@ -59,11 +51,7 @@ The Meaning of ‘Azan’
 
 ‘Azan’ in Arabic means announcement. Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَذَانٌ مِّنَ اللّهِ وَرَسُولِهِ
-  </p>
-</blockquote>
+> وَأَذَانٌ مِّنَ اللّهِ وَرَسُولِهِ
 
 ***“And an announcement from God and His Apostle.” [The Holy Qur’an,
 al-Tawbah 9:3]***
@@ -71,11 +59,7 @@ al-Tawbah 9:3]***
 The caller to prayer loudly announces that it is time to pray. We read
 in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ
-  </p>
-</blockquote>
+> فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ
 
 ***…But a crier shall proclaim between them…” [The Holy Qur’an, al-A’raf
 7:44]***
@@ -187,13 +171,9 @@ that “Haya Ala Kharil Amal” had been used during the lifetime of the
 Prophet , and his family and the Imams continued saying it. Imam Ali
 said:
 
-<blockquote dir="rtl">
-  <p>
-سمِعْتُ رَسُولَ اللهِ صَلّى اللهُ عَليهِ وآلِهِ يَقُولُ: ”إنَّ خَيرَ
-أعْمالِكُمُ الصَّلاةُ.“ وَأمَرَ بِلالاً أنْ يُؤذِّنَ: حَيَّ عَلى خَيرِ
-العَمَلِ.
-  </p>
-</blockquote>
+> سمِعْتُ رَسُولَ اللهِ صَلّى اللهُ عَليهِ وآلِهِ يَقُولُ: ”إنَّ خَيرَ
+> أعْمالِكُمُ الصَّلاةُ.“ وَأمَرَ بِلالاً أنْ يُؤذِّنَ: حَيَّ عَلى خَيرِ
+> العَمَلِ.
 
 *I heard the Prophet of God say: ‘The best of your deeds is the prayer.
 He ordered Bilal to say “Hayya Ala Khayr’il Amal” in the ‘Azan’**.***
@@ -250,12 +230,8 @@ The Reward for Saying the Call To Prayer
 Mu\`awiyah ibn Wahab quoted on the authority of Imam Sadiq on the
 authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَن أذَّنَ في مِصْرٍ مِن أمصَارِ المُسلِمِينَ سَنَةً وَجَبتْ لهُ
-الجَنَّةُ.
-  </p>
-</blockquote>
+> مَن أذَّنَ في مِصْرٍ مِن أمصَارِ المُسلِمِينَ سَنَةً وَجَبتْ لهُ
+> الجَنَّةُ.
 
 *Whoever performs the call to prayer in one of the Muslim towns for one
 year, Heaven is incumbent on him.”*[^10]
@@ -267,12 +243,8 @@ said: “Because he was the first one to say the call to prayer.”[^11] In
 another tradition Jabir Ja’far quoted on the authority of Imam Baqir
 that God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-المُؤَذِّنُ المُحْتَسِبُ كالشّاهِرِ سَيفَهُ في سَبيلِ اللهِ القاتِلِ
-بَينَ الصَّفَّينِ.
-  </p>
-</blockquote>
+> المُؤَذِّنُ المُحْتَسِبُ كالشّاهِرِ سَيفَهُ في سَبيلِ اللهِ القاتِلِ
+> بَينَ الصَّفَّينِ.
 
 *“The one who calls to prayer, seeking a reward from God, is like one
 who has drawn his sword in the way of God and is fighting in between the
@@ -280,11 +252,7 @@ rows.”*[^12]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-يحُشَرُ المُؤذّنونَ يَومَ القيامَةِ طِوالَ الأعْناقِ.
-  </p>
-</blockquote>
+> يحُشَرُ المُؤذّنونَ يَومَ القيامَةِ طِوالَ الأعْناقِ.
 
 *“Those who say the call to prayer will be raised as chiefs on the Day
 of Resurrection.”*[^13]
@@ -293,18 +261,14 @@ The late Sadooq quoted in the Manafi tradition on the authority of
 Ja’far ibn Muhammad on the authority of his father on the authority of
 God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أذَّنَ مُحتَسِباً يُريدُ بِذلِكَ وَجْهَ اللهِ تَعالى أعْطاهُ
-اللهُ ثَوابَ أربَعِينَ ألفَ شَهِيدٍ وَأرْبَعِينَ ألفَ صِدّيقٍ
-وَيَدخُلُ في شَفاعَتِهِ أربَعُونَ ألفَ مُسِيءٍ مِن أُمَّتي إلى
-الجَنَّةِ. إلا وإنَّ المُؤذِّنَ إذا قالَ: أشْهَدُ أنْ لا إلَهَ إلاّ
-اللهُ، صَلّى عَليهِ سَبعونَ ألفَ مَلَكٍ وَاستَغْفَرُوا لهُ وَكانَ
-يَومَ القِيامَةِ في ظِلِّ العَرشِ حَتىّ يَفْرُغَ اللهُ مِن حِسابِ
-الخَلائِقِ وَيَكْتُبُ ثَوابَ قولِهِ: أشْهَدُ أنَّ محَمَّداً رَسُولُ
-اللهِ أربَعُونَ ألفَ مَلَكٍ.
-  </p>
-</blockquote>
+> مَنْ أذَّنَ مُحتَسِباً يُريدُ بِذلِكَ وَجْهَ اللهِ تَعالى أعْطاهُ
+> اللهُ ثَوابَ أربَعِينَ ألفَ شَهِيدٍ وَأرْبَعِينَ ألفَ صِدّيقٍ
+> وَيَدخُلُ في شَفاعَتِهِ أربَعُونَ ألفَ مُسِيءٍ مِن أُمَّتي إلى
+> الجَنَّةِ. إلا وإنَّ المُؤذِّنَ إذا قالَ: أشْهَدُ أنْ لا إلَهَ إلاّ
+> اللهُ، صَلّى عَليهِ سَبعونَ ألفَ مَلَكٍ وَاستَغْفَرُوا لهُ وَكانَ
+> يَومَ القِيامَةِ في ظِلِّ العَرشِ حَتىّ يَفْرُغَ اللهُ مِن حِسابِ
+> الخَلائِقِ وَيَكْتُبُ ثَوابَ قولِهِ: أشْهَدُ أنَّ محَمَّداً رَسُولُ
+> اللهِ أربَعُونَ ألفَ مَلَكٍ.
 
 *“God the High will grant the reward of forty-thousand martyrs and
 forty-thousand veracious ones to whoever says the call for prayer for
@@ -348,5 +312,4 @@ in the old nature religion of Iran, which preceded Zorastrianism.
 [^13]: Ibid.
 
 [^14]: Wasa’il al-Shi’ah, v.4, pp.613-616.
-
 

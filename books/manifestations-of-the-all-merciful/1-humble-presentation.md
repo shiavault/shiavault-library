@@ -30,4 +30,3 @@ From the heavenly atmosphere of the neighbourhood of Hadrat Fātima
 Ma‘sūma (as), may the Almighty imbue our hearts with intense love for
 her, and may He Grace us with her intercession-Āmīn.
 
-

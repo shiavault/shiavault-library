@@ -64,7 +64,6 @@ With this brief introduction, we can proceed to the main topic of
 discussion which is recognizing Islam and Muslims of the world under the
 title of "Islam and world Muslims".
 
-
 **Birthplace of Islam**
 
 In order to acquire a close familiarization with Islam it is necessary
@@ -107,7 +106,6 @@ Thus it becomes apparent that in order to know the background of the
 rise of Islam, we cannot con fine ourselves to Mecca, Medina and Ta'if,
 or to the Arab Lands but expand our view to at least include all such
 regions as the Prophet himself called to accept Islam in his own time.
-
 
 **A brief description of Arabia**
 
@@ -313,5 +311,4 @@ present Iraq and Hira set up a state neighbouring Iran; another group
 settled in Yathrib as neighbours of the Jews, and lastly another group
 of Qahtani Arabs settled in Mecca and its suburbs. This then was the
 situation four centuries before the birth of Islam.
-
 

@@ -239,4 +239,3 @@ story of his meeting with the caliph Abu Ja\`far al-Mansour.
 
 [^2]: Tadhkirat al-Huffaz, Vol. 1, p. 176.
 
-

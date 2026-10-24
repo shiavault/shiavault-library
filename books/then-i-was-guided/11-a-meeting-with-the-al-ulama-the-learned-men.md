@@ -262,4 +262,3 @@ the Islamic studies which include Jurisprudence, Islamic Law (Shariah)
 and Tawheed (Islamic Theology); they study Economics, Sociology,
 Politics, and History, Languages, Astronomy and a few more subjects.
 
-

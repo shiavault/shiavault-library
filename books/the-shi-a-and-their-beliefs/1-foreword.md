@@ -61,4 +61,3 @@ distributed in the greatest of Islamic conferences namely the yearly
 short works regarding the school of the Prophet’s household which
 clarify many misconceptions about the school.
 
-

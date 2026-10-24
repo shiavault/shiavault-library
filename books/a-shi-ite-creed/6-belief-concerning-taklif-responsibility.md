@@ -35,4 +35,3 @@ we would say: God enforces the rule of law; man is obliged to obey.
 
 [^2]: MC, 261, 265; FC, no. 55.
 
-

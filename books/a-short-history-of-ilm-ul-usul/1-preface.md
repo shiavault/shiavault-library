@@ -398,4 +398,3 @@ it is called Hujjiyah.
 [^3]: 1 Kurr means water which takes 27 cubic span space (3x3x3). It is
 better to make it 42 -78 cub. ft. Note: 1 span = 9 inches.
 
-

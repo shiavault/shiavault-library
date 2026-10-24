@@ -308,4 +308,3 @@ those who have with them the knowledge of the Qur'an) has been published
 under the title Ask Those Who Know by Ansariyan Publications, P.O. Box
 37185/187, Qum, Islamic Republic of Iran. \_\_ Tr.
 
-

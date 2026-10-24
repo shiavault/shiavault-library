@@ -387,4 +387,3 @@ not ever leave Medina even for a few days without nominating someone to
 lead the community in his place so when it came to his death it is not
 possible that he should leave his community rudderless.305
 
-

@@ -144,4 +144,3 @@ with the attitude or policies of Western democracies toward the Arab
 world and Muslim issues. Their rejection of democracy was,
 understandably, a reaction.
 
-

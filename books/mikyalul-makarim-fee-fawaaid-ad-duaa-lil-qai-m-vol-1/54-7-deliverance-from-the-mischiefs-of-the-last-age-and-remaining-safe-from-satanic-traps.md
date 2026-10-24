@@ -40,4 +40,3 @@ chapter of the occultation of His Eminence in ‘Letter ‘Gh’.
 
 [^1]: Kamaluddin, Vol. 2, Pg. 384
 
-

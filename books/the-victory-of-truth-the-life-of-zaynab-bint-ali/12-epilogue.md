@@ -17,4 +17,3 @@ The spirit of Zaynab [a.s.] will live forever. Her courage, forbearance,
 and submission will continue to inspire those who hear her story for all
 time to come.
 
-

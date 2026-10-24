@@ -857,4 +857,3 @@ strength, solace and comfort to each other.[^10]
 
 [^10]: Adapted from Burhan al-Qur’an
 
-

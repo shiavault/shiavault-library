@@ -1,12 +1,8 @@
 Part 5
 ======
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا
-لَهُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا
+> لَهُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ﴾
 
 ***And if they wait patiently until you come out to them, it would
 certainly be better for them, and Allah is Forgiving, Merciful.
@@ -66,12 +62,8 @@ him. All the Commandments of Islam are like this.
 The reward of Prophethood for the faithful themselves: Love for the near kindered
 ---------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلاّ الْمَوَدَّةَ فِي
-الْقُرْبَى﴾
-  </p>
-</blockquote>
+> قُلْ لا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلاّ الْمَوَدَّةَ فِي
+> الْقُرْبَى﴾
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives…”***[^1]
@@ -238,14 +230,10 @@ Prophet went with the needy, attended funerals and visited the ill etc.
 Salute the faithful
 -------------------
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ
-عَلَيْكُمْ كَتَبَ رَبُّكُمْ عَلَى نَفْسِهِ الرَّحْمَةَ أَنَّهُ مَنْ
-عَمِلَ مِنْكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ
-وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَحِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿وَإِذَا جَاءَكَ الَّذِينَ يُؤْمِنُونَ بِآيَاتِنَا فَقُلْ سَلَامٌ
+> عَلَيْكُمْ كَتَبَ رَبُّكُمْ عَلَى نَفْسِهِ الرَّحْمَةَ أَنَّهُ مَنْ
+> عَمِلَ مِنْكُمْ سُوءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنْ بَعْدِهِ
+> وَأَصْلَحَ فَأَنَّهُ غَفُورٌ رَحِيمٌ﴾
 
 ***“And when those who believe in Our communications come to you, say:
 Peace be on you, your Lord has ordained mercy on Himself, (so) that if
@@ -477,5 +465,4 @@ verses of Qur’an
 [^3]: Surah Anam 6:54
 
 [^4]: Tafsir Minhajus Sadiqeen
-
 

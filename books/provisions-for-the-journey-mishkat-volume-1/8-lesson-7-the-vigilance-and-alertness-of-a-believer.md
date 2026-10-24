@@ -68,13 +68,9 @@ Companionship with an impious friend makes man perceive sin as light and
 as a result of which he earns eternal perdition and loss; as the Qur’an
 quotes some of the inmates of hell saying:
 
-<blockquote dir="rtl">
-  <p>
-يَا وَيْلَتَنِي لَيْتَنِي لَمْ أَتَّخِذْ فُلاَنًا خَلِيلاً \* لَقَدْ
-أَضَلَّنِي عَنْ الذِّکْرِ بَعْدَ اِذْ جَائَنِي وَکَانَ الشَّيْطَانُ
-للإِنْسَانِ خَذُولاً
-  </p>
-</blockquote>
+> يَا وَيْلَتَنِي لَيْتَنِي لَمْ أَتَّخِذْ فُلاَنًا خَلِيلاً \* لَقَدْ
+> أَضَلَّنِي عَنْ الذِّکْرِ بَعْدَ اِذْ جَائَنِي وَکَانَ الشَّيْطَانُ
+> للإِنْسَانِ خَذُولاً
 
 ***“O woe is me! Would that I had not taken such a one for a friend!
 Certainly he led me astray from the reminder after it had come to me;
@@ -263,11 +259,7 @@ the status of servitude and nearness to Allah and man who is low in the
 sight of Allah is one who is far from Allah and has forgotten him. Once
 he forgets Allah, Allah too forgets him:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَکُونُوا کَالَّذِينَ نَسُو اللهَ فَأَنْساهُمْ أَنْفُسَهُمْ...
-  </p>
-</blockquote>
+> وَلاَ تَکُونُوا کَالَّذِينَ نَسُو اللهَ فَأَنْساهُمْ أَنْفُسَهُمْ...
 
 ***“And be not like those who forsook Allah, so He made them forsake
 their own souls…”***[^5]
@@ -292,12 +284,8 @@ one of which has a different injunction and a separate punishment. The
 Qur’an states that once the list of works is given to some of the
 people, they will say:
 
-<blockquote dir="rtl">
-  <p>
-... يَا وَيْلَتَنَا مَالِ هَذَا الْکِتَابِ لاَ يُغادِرُ صَغِيزَةً
-وَلاَ کَبِيرَةً اِلاَّ أَحْصَاهَا...
-  </p>
-</blockquote>
+> ... يَا وَيْلَتَنَا مَالِ هَذَا الْکِتَابِ لاَ يُغادِرُ صَغِيزَةً
+> وَلاَ کَبِيرَةً اِلاَّ أَحْصَاهَا...
 
 ***“…Ah! Woe to us! What a book this is! It does not omit a small one
 nor a great one, but numbers them all…”***[^6]
@@ -436,13 +424,9 @@ and liar, as the Qur’an calls the hypocrites who acknowledge the
 Prophet’s (S) mission by their tongues but do not believe it in their
 hearts liars:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَاءَکَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ اِنَّکَ لَرَسُولُ اللهِ
-وَاللهُ يَعْلَمُ اِنَّکَ لَرَسُولُهُ وَاللهُ يَشْهَدُ‌ إِنَّ
-الْمُنَافِقينَ لَکَاذِبُونَ
-  </p>
-</blockquote>
+> إِذَا جَاءَکَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ اِنَّکَ لَرَسُولُ اللهِ
+> وَاللهُ يَعْلَمُ اِنَّکَ لَرَسُولُهُ وَاللهُ يَشْهَدُ‌ إِنَّ
+> الْمُنَافِقينَ لَکَاذِبُونَ
 
 ***“When the hypocrites come to you, they say, ‘We bear witness that you
 are most surely Allah’s Apostle; and Allah knows that you are most
@@ -451,12 +435,8 @@ surely liars’.”***[^9]
 
 The untruthfulness of the words of the unbelievers is because:
 
-<blockquote dir="rtl">
-  <p>
-... يَقُولُونَ بِأَفْوَاهِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ‌ وَاللهُ
-أَعْلَمُ بِمَا يَکْتُمُونَ
-  </p>
-</blockquote>
+> ... يَقُولُونَ بِأَفْوَاهِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ‌ وَاللهُ
+> أَعْلَمُ بِمَا يَکْتُمُونَ
 
 ***“…They say with their mouths what is not in their hearts; and Allah
 best knows what is in their hearts.”***[^10]
@@ -475,12 +455,8 @@ ought to be a reflex of their beliefs and words.
 Allah, the Exalted, castigates this section of people in the Glorious
 Qur’an when it states:
 
-<blockquote dir="rtl">
-  <p>
-أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَکُمْ وَأَنْتُمْ
-تَتْلُونَ الْکِتَابَ أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَکُمْ وَأَنْتُمْ
+> تَتْلُونَ الْکِتَابَ أَفَلاَ تَعْقِلُونَ
 
 ***“What! Do you enjoin men to be good and neglect your own souls while
 you read the Book, have you then no sense?”***[^11]
@@ -510,12 +486,8 @@ yourselves and do not put what you say into action?
 
 Allah states:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لاَ تَفْعَلُونَ \*
-کَبُرَ مَقْتًا عِنْدَ اللهِ أَنْ تَقُولُوا مَا لاَ تَفْعَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لاَ تَفْعَلُونَ \*
+> کَبُرَ مَقْتًا عِنْدَ اللهِ أَنْ تَقُولُوا مَا لاَ تَفْعَلُونَ
 
 ***“O you who believe! Why do you say that which you do not do? It is
 most hateful to Allah that you should say that which you do not
@@ -592,11 +564,7 @@ employed in this section, because some people perceive the Day of
 Resurrection as far, despite that in accordance with the Islamic point
 of view, the hereafter is near and at hand, as Allah states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ يَرَوْنَهُ بَعِيدًا \* وَنَريهَا قَرِيبًا
-  </p>
-</blockquote>
+> إِنَّهُمْ يَرَوْنَهُ بَعِيدًا \* وَنَريهَا قَرِيبًا
 
 ***“Surely, they think it to be far off and we see it nigh.”***[^15]
 
@@ -625,11 +593,7 @@ Qur’an states to us that in addition to the apparent repercussions of
 wrongdoing, sin has other consequences too, whose connection with their
 causes is not discernable by the physical senses. The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَصَابَکُمْ‌ مِنْ مُصِيبَةٍ فِيمَا کَسَبَتْ أَيْدِکُمْ...
-  </p>
-</blockquote>
+> وَمَا أَصَابَکُمْ‌ مِنْ مُصِيبَةٍ فِيمَا کَسَبَتْ أَيْدِکُمْ...
 
 ***“And whatever affliction befalls you, it is on account of what your
 hands have wrought…”***[^16]
@@ -641,12 +605,8 @@ therefore, it is man who directs afflictions towards himself.
 
 Elsewhere, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-... فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيَهُمْ‌
-فِتْنَةٌ أَوْ يُصِيَهُمْ‌ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> ... فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيَهُمْ‌
+> فِتْنَةٌ أَوْ يُصِيَهُمْ‌ عَذَابٌ أَلِيمٌ
 
 ***“…Therefore, let those beware who go against His order lest a trial
 afflict them or there befall them a painful chastisement.”***[^17]
@@ -655,12 +615,8 @@ Therefore, the verses of the Qur’an clarify this truth that a great deal
 of ordeals and deprivations result from sin, in the same way that good
 works and piety cause the downpour of graces and blessings.
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ أَهْلَ الْقُرَی آمَنُوا وَاتَّقَوْا لَفَتَحْنَا
-عَلَيْهِمْ بَرَکَاتٍ مِن السَّمَاءِ وَالاَرْضِ...
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ أَهْلَ الْقُرَی آمَنُوا وَاتَّقَوْا لَفَتَحْنَا
+> عَلَيْهِمْ بَرَکَاتٍ مِن السَّمَاءِ وَالاَرْضِ...
 
 ***“And if the people of the towns had believed and guarded (against
 evil), We would certainly have opened up for them blessings from the
@@ -736,12 +692,8 @@ The Noble Prophet (S) advises Abu Dharr to abstain from vain activities,
 in the same way that the Qur’an believes prosperity and bliss as
 embedded in abstinence from vain pursuits:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ \* الَّذِينَ هُمْ فِي صَلاَتِهِمْ
-خَاشِعُونَ \* وَالَّذِينَ هُمْ‌ عَن اللَّغْوِ مُعْرِضُونَ
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ \* الَّذِينَ هُمْ فِي صَلاَتِهِمْ
+> خَاشِعُونَ \* وَالَّذِينَ هُمْ‌ عَن اللَّغْوِ مُعْرِضُونَ
 
 ***“Successful indeed are the believers, who are humble in their
 prayers, and who keep aloof from what is vain.”***[^19]
@@ -819,5 +771,4 @@ al-Islam.
 [^18]: Surat al-A‘raf 7:96.
 
 [^19]: Surat al-Mu’minun 23:1-3.
-
 

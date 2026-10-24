@@ -7,4 +7,3 @@ Although his son was in the prisons of "Alrey" when he was in Karbala,
 he stayed and fought with the Imam. Bishr was killed in the first attack
 (Hamlah).
 
-

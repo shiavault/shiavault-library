@@ -113,4 +113,3 @@ religious jurisprudents, that is star not become prevalent instead of
 hijab for the hijab which is traditional in other countries. We will
 give further explanation about this later.
 
-

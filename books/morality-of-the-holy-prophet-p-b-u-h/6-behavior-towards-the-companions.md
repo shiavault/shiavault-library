@@ -83,4 +83,3 @@ said, “O Allah’s Messenger! I did not recognize you. Forgive me for
 being insolent to you. How can I apologize?” The Holy Prophet consoled
 her, prayed for her children and retuned them kindly.[^24]
 
-

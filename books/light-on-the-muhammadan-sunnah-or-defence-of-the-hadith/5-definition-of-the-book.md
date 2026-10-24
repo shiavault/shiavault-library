@@ -38,7 +38,7 @@ without the slightest investigation or verification.
 
 While doing their utmost in studying science of hadith, extremely caring
 for its sanad to the extent it was said: The science of hadith has fully
-developed and was burnt, <span id="_anchor_4"></span>4  but on the other
+developed and was burnt, 4  but on the other
 hand they have all neglected a highly serious point that had to be
 realized and conceived before going into this science and studying its
 books. This point being searching for the real context of the veracious
@@ -68,15 +68,13 @@ But all this and whatever relevant to history of hadith, was altogether
 discarded by scholars and researchers, leaving them only as akhbar
 scattered in the books, and sayings concealed inside the asfar (history
 books), with no book undertaking their promulgation, or influential
-researcher undertaking the task of classifying them.<span
-id="_anchor_5"></span>5
+researcher undertaking the task of classifying them.5
 
 Before indulging into the science of hadith, they had to get acquainted
 with its history, since the scholars made it compulsory for everyone to
 recognize the history of every science before embarking on studying it,
 exclaiming: The position of the history of every element and matter to
-it being exactly as that of sight to the body.<span
-id="_anchor_6"></span>6
+it being exactly as that of sight to the body.6
 
 Motives behind Compilation of this Book
 ---------------------------------------
@@ -90,7 +88,7 @@ among his (S) wise utterances and rhetorical speech. That which
 astonished me even more was to find in the denotations of many
 traditions, things that neither reason would make sense of, nor proper
 knowledge would confirm, nor could be supported by an external sense or
-any authentic book. <span id="_anchor_7"></span>7
+any authentic book. 7
 
 Such falsities I have found in a large number of the traditions that
 were filling exegesis and history books, and others! That which excited

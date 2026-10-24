@@ -76,4 +76,3 @@ sallallāhu ‘alayhi wa ālihī wa sallam [may God’s blessings and peace be
 upon him and his progeny], which is mentioned after the name of the Holy
 Prophet Muhammad (S). [Trans.]
 
-

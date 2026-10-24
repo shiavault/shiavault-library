@@ -25,4 +25,3 @@ of every other living being.
 
 (Sermon 155)
 
-

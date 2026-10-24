@@ -1217,4 +1217,3 @@ are now being told that it is not sufficient that they live and work in
 French. They are now been told that they must abandon their religion and
 embrace secularism.
 
-

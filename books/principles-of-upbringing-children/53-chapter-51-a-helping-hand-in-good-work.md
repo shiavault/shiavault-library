@@ -50,4 +50,3 @@ make him a regular member.
 
 [^1]: Gharar al hukm, p. 48
 
-

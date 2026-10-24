@@ -178,4 +178,3 @@ met the Prophet in his childhood.
 
 [^15]: Ibid.
 
-

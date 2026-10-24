@@ -147,4 +147,3 @@ incorporates legislations dealing with the details of social relations
 and identifies various sorts of behavior that accomplish the objectives,
 embody the rules, and portray its numerous features.
 
-

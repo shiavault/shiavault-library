@@ -1,26 +1,18 @@
 Right n. 30: The Right of the Ritual Prayer Leader
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-حق الإمام في الصلاة
-  </p>
-</blockquote>
+> حق الإمام في الصلاة
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ إمَامِكَ فِي صَلاتِكَ فَأَنْ تَعلَمَ أنّهُ قَدْ تَقَلَّدَ
-السِّفَارَةَ فِيمَا بَيْنَكَ وبَيْنَ اللَّهِ وَالْوِفَادَةَ إلَى
-رَبكَ، وتَكَلَّمَ عَنْكَ وَلَمْ تَتَكَلَّمْ عَنْهُ، وَدعَا لَكَ وَلَمْ
-تَدْعُ لَهُ، وَطَلَبَ فِيكَ وَلَمْ تَطْلُبْ فِيهِ، وَكَفَاكَ هَمَّ
-الْمَقَامِ بَينَ يدي اللهِ وَالمُسَاءَلَةَ لَهُ فِيكَ وَلَمْ تَكْفِهِ
-ذَلِكَ، فَإنْ كَانَ فِي شَيْءٍ مِنْ ذَلِكَ تَقْصِيرٌ كَانَ بهِ
-دُونَكَ، وَإنْ كَانَ آثِماً لَمْ تَكُنْ شَرِيكَهُ فِيهِ وَلَمْ يَكُنْ
-لَهُ عَلَيكَ فَضلٌ، فَوقَى نَفْسَكَ بنَفْسهِ، وَوَقَى صلاتَكَ
-بصَلاتِهِ، فَتَشْكُرَ لَهُ عَلَى ذلِكَ. ولا حَوْلَ ولا قُوَّةَ إلا
-باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ إمَامِكَ فِي صَلاتِكَ فَأَنْ تَعلَمَ أنّهُ قَدْ تَقَلَّدَ
+> السِّفَارَةَ فِيمَا بَيْنَكَ وبَيْنَ اللَّهِ وَالْوِفَادَةَ إلَى
+> رَبكَ، وتَكَلَّمَ عَنْكَ وَلَمْ تَتَكَلَّمْ عَنْهُ، وَدعَا لَكَ وَلَمْ
+> تَدْعُ لَهُ، وَطَلَبَ فِيكَ وَلَمْ تَطْلُبْ فِيهِ، وَكَفَاكَ هَمَّ
+> الْمَقَامِ بَينَ يدي اللهِ وَالمُسَاءَلَةَ لَهُ فِيكَ وَلَمْ تَكْفِهِ
+> ذَلِكَ، فَإنْ كَانَ فِي شَيْءٍ مِنْ ذَلِكَ تَقْصِيرٌ كَانَ بهِ
+> دُونَكَ، وَإنْ كَانَ آثِماً لَمْ تَكُنْ شَرِيكَهُ فِيهِ وَلَمْ يَكُنْ
+> لَهُ عَلَيكَ فَضلٌ، فَوقَى نَفْسَكَ بنَفْسهِ، وَوَقَى صلاتَكَ
+> بصَلاتِهِ، فَتَشْكُرَ لَهُ عَلَى ذلِكَ. ولا حَوْلَ ولا قُوَّةَ إلا
+> باللهِ.
 
 **And the right of your leader in your ritual prayer is that you should
 know that he has taken on the role of a mediator between you and God and
@@ -118,17 +110,13 @@ Congregational Prayers are Open to the Public
 
 Fazl ibn Shadan quoted on the authority of Imam Ridha :[^1]
 
-<blockquote dir="rtl">
-  <p>
-إنمَّا جُعِلتِ الجَماعَةُ لِئَلاّ يَكونَ الإخْلاصُ والتَّوحيدُ
-والإسْلامُ والعِبادَةُ للهِ إلاّ ظاهِراً مكْشوفاً لأنَّ في إظْهارِهِ
-حُجَّةً عَلى أهْل الشَّرقِ وَالغَربِ للهِ وَحدَهُ ولِيكونَ المُنافِقُ
-والمُستَخِفُّ مُؤدّياً لمَا أقَرَّ بهِ يُظْهِرُ الإسلامَ وَالمَراقَبةَ
-وَلِتكونَ شَهاداتُ الناسِ بالإسلامِ بَعْضِهِم لِبَعضٍ جائِزَةً
-ممْكِنةً، مَع ما فيهِ مِن المُساعَدَةِ عَلى البِرِّ وَالتَّقوى
-والزَّجْرِ عَن كَثيرٍ مِن مَعاصِي اللهِ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> إنمَّا جُعِلتِ الجَماعَةُ لِئَلاّ يَكونَ الإخْلاصُ والتَّوحيدُ
+> والإسْلامُ والعِبادَةُ للهِ إلاّ ظاهِراً مكْشوفاً لأنَّ في إظْهارِهِ
+> حُجَّةً عَلى أهْل الشَّرقِ وَالغَربِ للهِ وَحدَهُ ولِيكونَ المُنافِقُ
+> والمُستَخِفُّ مُؤدّياً لمَا أقَرَّ بهِ يُظْهِرُ الإسلامَ وَالمَراقَبةَ
+> وَلِتكونَ شَهاداتُ الناسِ بالإسلامِ بَعْضِهِم لِبَعضٍ جائِزَةً
+> ممْكِنةً، مَع ما فيهِ مِن المُساعَدَةِ عَلى البِرِّ وَالتَّقوى
+> والزَّجْرِ عَن كَثيرٍ مِن مَعاصِي اللهِ عَزَّ وَجَلَّ.
 
 *“Congregational prayers are decreed because true devotion, submission
 and servitude of God shall not be attained unless it is done in public.
@@ -150,11 +138,7 @@ forbidden.”*
 In another tradition we read: “Imam Sadiq quoted on the authority of his
 noble father who quoted on the authority of God’s Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَن صَلّى الخَمْسَ في جَماعَةٍ فَظُنُّوا بهِ خَيراً.
-  </p>
-</blockquote>
+> مَن صَلّى الخَمْسَ في جَماعَةٍ فَظُنُّوا بهِ خَيراً.
 
 *“Think well of one who performs all his five sessions of daily prayers
 in congregations.”*[^2]
@@ -269,22 +253,14 @@ al-Huquq.
 first row of the congregational prayer. As the prayer leader was praying
 he recited:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نُهْلِكِ الْأَوَّلِينَ ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
-  </p>
-</blockquote>
+> أَلَمْ نُهْلِكِ الْأَوَّلِينَ ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
 
 ***“Did We not destroy the men of old [lit. the first ones] (for their
 evil)? So shall We make later (generations) follow them?” [The Holy
 Qur’an, al-Mursalat 77:16-17]***  
  The Arab man moved back to the third row. Then the prayer leader said:
 
-<blockquote dir="rtl">
-  <p>
-كَذَلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
-  </p>
-</blockquote>
+> كَذَلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
 
 ***“Thus do We deal with men of sin.” [The Holy Qur’an, al-Mursalat
 77:18]***
@@ -297,11 +273,7 @@ and asked someone to be the prayer leader for that mosque. They paid for
 his living expenses. One day the prayer leader recited the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَفِي الصُّحُفِ الْأُولَى صُحُفِ إِبْرَاهِيمَ وَمُوسَى
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَفِي الصُّحُفِ الْأُولَى صُحُفِ إِبْرَاهِيمَ وَمُوسَى
 
 ***“And this is in the Books of the earliest (Revelation), - The Books
 of Abraham and Moses.” [The Holy Qur’an, Al-A’la 87:18-19]***
@@ -342,5 +314,4 @@ from Asrar al-Salat, pp.491-497.
 [^4]: Sharh-i-Risalat al-Huquq, Ghopanchi, v.2, pp.144-145.
 
 [^5]: Wasa’il al-Shi’ah, v.5, p.379.
-
 

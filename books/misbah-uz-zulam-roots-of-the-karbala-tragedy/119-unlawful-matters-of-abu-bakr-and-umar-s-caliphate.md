@@ -317,4 +317,3 @@ testified to his capability.
 
 [^8]: Battle of Uhud, Pg. 102.
 
-

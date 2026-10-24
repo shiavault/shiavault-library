@@ -33,4 +33,3 @@ rather than of a prophet. Thus, lack of contradiction in the Qur’an
 proves a Divine hand in the its authorship.  
   
 
-

@@ -53,4 +53,3 @@ pp.23-31, Jeddah; Daar al-Raayah.
 [^5]: Asad N, Masaadir al-shu’ur al-jaahili, p.139, Cairo; Daar
 al-Ma’aarif, 1969.
 
-

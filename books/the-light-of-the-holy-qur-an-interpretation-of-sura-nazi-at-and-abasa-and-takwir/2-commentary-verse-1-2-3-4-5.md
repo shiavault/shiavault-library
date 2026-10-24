@@ -1,9 +1,7 @@
 Commentary : Verse 1.2.3.4.5
 ============================
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 (1) وَالنَّازِعَاتِ غَرْقًا
 
@@ -149,5 +147,4 @@ possible that the above verses refer to all of them. But, on the whole,
 the first commentary, regarding its suitability to the main theme,
 Resurrection, and with the traditions by the sinless Imams, seems to be
 the most fitting.
-
 

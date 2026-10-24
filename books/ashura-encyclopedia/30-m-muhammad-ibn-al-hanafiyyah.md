@@ -15,4 +15,3 @@ with Imam Husayn and in 66 AH, Al Mukhtar Ibn ‘Ubayd Allah accepted him
 as an Imam and took control of Iraq by his name. He died in 81 Hijrah in
 the days of Abd Al-Malik Ibn Marwan.
 
-

@@ -63,4 +63,3 @@ Translation Office.
 **Cultural Affairs Department**
 **The Ahl al-Bayt (\`a) World Assembly**
 
-

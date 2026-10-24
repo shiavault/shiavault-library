@@ -19,4 +19,3 @@ permission.*
 
 Ibraheem al-Ashtar's small army defeated Ubaidullah bin Ziyad's big one.
 
-

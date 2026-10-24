@@ -225,4 +225,3 @@ Who has raised the heavens, created you in the best of forms, and given
 you delicious and pleasing foods as sustenance. This is God, your
 Lord."(40:64)
 
-

@@ -49,4 +49,3 @@ completely engrossed in prayers. In the meantime, Ali bin Abi Talib also
 arrived. After performing the rites of pilgrimage the last Apostle of
 God bid good-bye to the House of God and left the sacred soil.
 
-

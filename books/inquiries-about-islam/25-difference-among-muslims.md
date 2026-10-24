@@ -817,4 +817,3 @@ or transactions.
 [^1]: This is the translation of what appeared in Al-Kifah (a Lebanese
 newspaper), issue of July 8, 1959.
 
-

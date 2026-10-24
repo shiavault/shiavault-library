@@ -640,7 +640,7 @@ praise for Abraham to come in later generations.
 
 18 Al-Mufīd, al-Irshād under the section of ʿAlī b. Abī Ṭālib, al-Ḥakīm
 in Mustadrak, page 483, Vol. III., Nūr al-Dīn b. Sabbāgh al-Mālikī in
-Fusūl al-muhimma, Part 1, p.[^14]:, Muhammad ibn Talḥa al-Shāfiʿī in
+Fusūl al-muhimma, Part 1, p.14., Muhammad ibn Talḥa al-Shāfiʿī in
 Maṭālib al-sa'ūl, page 11. Among modern historians, both stating that
 ʿAlī b. Abī Ṭālib was born inside the Kaʿba see; Al-Akkād ʿAbbās Mahmūd
 (2006) Al-'Abqariya al-Imam ʿAlī, Beirut, Almaktaba al-asriyya, and
@@ -1005,13 +1005,13 @@ no’s 3-4, The illustrious period of the Imamate of Imam Zayn al-ʿĀbidīn.
 Also see Ṭabraṣī al-Iḥtijāj, al-Kulaynī al-Kāfi, Baṣā’ir al-Darajāt,
 Iʿlam al-Warā, Ibn Shahrāshūb Manāqib, Majlisi Biḥār al-Anwār, vol. 11
 
-56 Ibn Khalikān, Wafayat al-aʿyān, vol.3, p.[^269]:
+56 Ibn Khalikān, Wafayat al-aʿyān, vol.3, p.269.
 
 57 Qarashī, p. 104, Ḥayat Imam Muḥammad al-Bāqir
 
 58 Qarashī, p.104, Tā’rikh Dimishq, vol. 36, p. 147
 
-59 Qarashī, p.[^104]: Al-Asfahānī, al-Afghānī Abū Farrāj Khulāsat Tahdīb
+59 Qarashī, p.104. Al-Asfahānī, al-Afghānī Abū Farrāj Khulāsat Tahdīb
 al-Kamāl, vol.15, p.325
 
 60 Qarashī, p.105
@@ -1795,7 +1795,7 @@ or asking for provisions or requesting Divine assistance and so on.
 Tehran, Ahlul Bayt World Assembly (ABWA), part 3, where the author is
 stating that the Prophet is reported to have said; “Avail yourself of
 the opportunity of prayer (duʿā’) at the softening (of the heart); for
-it is a mercy”, Biḥār al-Anwār, vol.93, p.[^313]: Another narration from
+it is a mercy”, Biḥār al-Anwār, vol.93, p.313. Another narration from
 Imam al-Ṣādiq where he said; “When your skin quivers and your eyes shed
 tears, then you have drawn closer! Your need has been considered”, in
 Wasā’il al-Shīʿa, vol.4, p.1141, ḥadīth 8763.

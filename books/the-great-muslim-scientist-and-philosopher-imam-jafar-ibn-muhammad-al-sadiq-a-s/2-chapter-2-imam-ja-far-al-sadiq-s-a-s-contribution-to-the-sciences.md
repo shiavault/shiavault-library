@@ -21,4 +21,3 @@ an Imam, the curtain which hangs between the conscious and subconscious
 mind, is lifted and he can make use of the knowledge which is stored in
 his subconscious mind.
 
-

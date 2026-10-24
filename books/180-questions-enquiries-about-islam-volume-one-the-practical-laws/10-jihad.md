@@ -73,11 +73,7 @@ From what has been mentioned above, the answer to the venomous
 propaganda of the Church becomes plainly evident since a sentence more
 explicit than:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِكرَاهَ فِي الدِّينِ
-  </p>
-</blockquote>
+> لاَ إِكرَاهَ فِي الدِّينِ
 
 ***“There is no compulsion in (acceptance) of the religion.”***
 
@@ -231,11 +227,7 @@ worship in Islam and the Infallibles (a.s) always led the way in this
 issue, to the extent that in connection with Imam 'Ali (a.s) it has been
 recorded that:
 
-<blockquote dir="rtl">
-  <p>
-أَعتَقَ أَلفاً مِنْ كَدِّ يَدِهِ.
-  </p>
-</blockquote>
+> أَعتَقَ أَلفاً مِنْ كَدِّ يَدِهِ.
 
 “He freed a thousand slaves by means of his wages (which he used to
 earn).”[^5]
@@ -245,12 +237,8 @@ that it serves as an example for the others, to the extent that when one
 of the slaves of Imam Baqir (a.s) performed a good deed, the Imam (a.s)
 said:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْهَبْ فَأَنْتَ حُرٌّ فَإِنِّي أَكْرَهُ أَنْ أَسْتَخْدِمَ رَجُلاً
-مِنْ أَهْلِ الْجَنَّةِ.
-  </p>
-</blockquote>
+> فَاذْهَبْ فَأَنْتَ حُرٌّ فَإِنِّي أَكْرَهُ أَنْ أَسْتَخْدِمَ رَجُلاً
+> مِنْ أَهْلِ الْجَنَّةِ.
 
 “Go, you are now free for I do not approve of a person from the inmates
 of Paradise to be my slave (and serve me).”[^6]
@@ -260,32 +248,20 @@ servant was in the process of pouring water over his (a.s) head when the
 vessel slipped from his hand and injured the Imam (a.s). The Imam (a.s)
 looked up at the servant whereupon, the servant recited:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْكَاظِمِينَ الْغَيْظَ
-  </p>
-</blockquote>
+> وَ الْكَاظِمِينَ الْغَيْظَ
 
 ***“…and those who restrain (their) anger.”***[^7]*** ***
 
 Hearing this, the Imam (a.s) said: I have restrained my anger. The
 servant recited further:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْعَافِينَ عَنِ النَّاسِ
-  </p>
-</blockquote>
+> وَ الْعَافِينَ عَنِ النَّاسِ
 
 “…and pardon other people.” 
 
 The Imam (a.s) said:  May Allah forgive you. The servant continued:
 
-<blockquote dir="rtl">
-  <p>
- وَ اللٌّهُ يُحِبُّ الْمُحْسِـنِينَ
-  </p>
-</blockquote>
+>  وَ اللٌّهُ يُحِبُّ الْمُحْسِـنِينَ
 
 “…and Allah loves the doers of good (to others)”
 
@@ -302,12 +278,8 @@ slave, who is a believer, after seven years.[^9]
 In this very chapter there is a tradition from the Noble Prophet (s.a.w)
 wherein he (s.a.w) says:
 
-<blockquote dir="rtl">
-  <p>
-مَا زَالَ جَبْرَئِيلُ يُوصِينِي بِالْمَمْلُوكِ حَتَّى ظَنَنْتُ أَنَّهُ
-سَيَضْرِبُ لَهُ أَجَلاً يُعْتَقُ فِيهِ.
-  </p>
-</blockquote>
+> مَا زَالَ جَبْرَئِيلُ يُوصِينِي بِالْمَمْلُوكِ حَتَّى ظَنَنْتُ أَنَّهُ
+> سَيَضْرِبُ لَهُ أَجَلاً يُعْتَقُ فِيهِ.
 
 “Jibra\`il used to make recommendations to me, with respect to the
 slaves, so often that I was given to suppose that he would shortly
@@ -466,13 +438,9 @@ ruling that is both just and logical.[^17]
 
 In verse 36 of Suratul Taubah, we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللٌّهِ إِثْـنَا عَشَرَ شَهْراً فِي
-كِتَابِ اللٌّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَ الأََرْضَ مِنْهَا
-أَرْبَعَةٌ حُرُمٌ‏
-  </p>
-</blockquote>
+> إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللٌّهِ إِثْـنَا عَشَرَ شَهْراً فِي
+> كِتَابِ اللٌّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَ الأََرْضَ مِنْهَا
+> أَرْبَعَةٌ حُرُمٌ‏
 
 ***“Surely the number of months with Allah is twelve months in Allah's
 ordinance since the day when He created the heavens and the earth, of
@@ -541,5 +509,4 @@ ash-Shia, vol. 16, pg. 21
 [^17]: Tafsir-e-Namunah, vol. 7, pg. 354
 
 [^18]: Tafsir-e-Namunah, vol. 7, pg. 408
-
 

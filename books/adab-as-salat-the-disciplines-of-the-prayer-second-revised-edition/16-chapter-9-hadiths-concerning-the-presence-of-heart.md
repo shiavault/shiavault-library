@@ -130,4 +130,3 @@ the Salat,” ch. 3, hadīth 7.
 
 [^12]: Refer to footnote 59.
 
-

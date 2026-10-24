@@ -63,4 +63,3 @@ then how does she shed her ihram?
 **Ans:** As an obligatory precaution she has to perform the tawaf
 herself .To have a proxy perform the tawaf will not suffice.
 
-

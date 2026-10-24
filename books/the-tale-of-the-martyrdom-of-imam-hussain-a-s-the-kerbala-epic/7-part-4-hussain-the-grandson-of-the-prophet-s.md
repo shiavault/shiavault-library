@@ -100,4 +100,3 @@ from every haughty man who does not believe in the Day of Reckoning."
 
 *    I was born with a divine sense.*
 
-

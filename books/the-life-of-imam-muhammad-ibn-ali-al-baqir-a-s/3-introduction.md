@@ -245,10 +245,10 @@ wills from His servants.
 
 ###
 
-[^1]Al-Naja\`shi, Ja\`mi‘ al-Ruwa\`t, vol.1, p.[^9]:
+[^1]Al-Naja\`shi, Ja\`mi‘ al-Ruwa\`t, vol.1, p.9.
 
-[^2]Miza\`n al-I‘tida\`l, vol.1, p.[^383]:
+[^2]Miza\`n al-I‘tida\`l, vol.1, p.383.
 
-[^3]Shaykh al-Tu\`si, Fihrast, p.[^98]:
+[^3]Shaykh al-Tu\`si, Fihrast, p.98.
 
-[^4]Al-Dhari‘a, vol.1, p.[^315]: Al-A‘la\`m, vol.7, p.153.
+[^4]Al-Dhari‘a, vol.1, p.315. Al-A‘la\`m, vol.7, p.153.

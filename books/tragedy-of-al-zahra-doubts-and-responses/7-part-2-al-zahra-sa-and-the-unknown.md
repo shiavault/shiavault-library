@@ -1279,4 +1279,3 @@ in its footnotes. Diya’ al-\`Alamin (manuscript), Vol. 2, p. 38.
 [^51]: Refer to Vol. 5, p. 342 of Rawdat al-Muttaqin. Mir’at al-\`Uqul,
 Vol. 3, p. 59. Jala' al-\`Uyun, Vol. 1, p. 183.
 
-

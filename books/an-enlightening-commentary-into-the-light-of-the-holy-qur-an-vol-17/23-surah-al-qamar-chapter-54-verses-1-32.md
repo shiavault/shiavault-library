@@ -10,11 +10,7 @@ Surah al-Qamar, Chapter 54, Verses 1 - 32
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -41,31 +37,15 @@ acts upon Qur’anic Injunctions."*
 Surah al-Qamar - Verses 1-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ
-  </p>
-</blockquote>
+> اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ
 
-<blockquote dir="rtl">
-  <p>
-وَإِن يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُّسْتَمِرٌّ
-  </p>
-</blockquote>
+> وَإِن يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُّسْتَمِرٌّ
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَّبُوا وَاتَّبَعُوا أهْوَاءهُمْ وَكُلُّ أمْرٍ مُّسْتَقِرٌّ
-  </p>
-</blockquote>
+> وَكَذَّبُوا وَاتَّبَعُوا أهْوَاءهُمْ وَكُلُّ أمْرٍ مُّسْتَقِرٌّ
 
 ***1. The Hour has drawn near and the moon has been cleft asunder.***  
 ***2. And if they see a miracle, they turn away, saying: "This is
@@ -202,23 +182,11 @@ committed sins."*[^7]
 Surah al-Qamar - Verses 4-6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَاءهُم مِّنَ الْأنبَاء مَا فِيهِ مُزْدَجَرٌ
-  </p>
-</blockquote>
+> وَلَقَدْ جَاءهُم مِّنَ الْأنبَاء مَا فِيهِ مُزْدَجَرٌ
 
-<blockquote dir="rtl">
-  <p>
-حِكْمَةٌ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُ
-  </p>
-</blockquote>
+> حِكْمَةٌ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُ
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ إِلَی شَيْءٍ نُّكُرٍ
-  </p>
-</blockquote>
+> فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ إِلَی شَيْءٍ نُّكُرٍ
 
 ***4. And indeed there has come unto them news wherein there is to cease
 disbelief,***  
@@ -271,18 +239,10 @@ unbeknownst.
 Surah al-Qamar - Verses 7-8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-خُشَّعًا أبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأجْدَاثِ كَأنَّهُمْ جَرَادٌ
-مُّنتَشِرٌ
-  </p>
-</blockquote>
+> خُشَّعًا أبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأجْدَاثِ كَأنَّهُمْ جَرَادٌ
+> مُّنتَشِرٌ
 
-<blockquote dir="rtl">
-  <p>
-مُّهْطِعِينَ إِلَی الدَّاعِ يَقُولُ الْكَافِرُونَ هَذَا يَوْمٌ عَسِرٌ
-  </p>
-</blockquote>
+> مُّهْطِعِينَ إِلَی الدَّاعِ يَقُولُ الْكَافِرُونَ هَذَا يَوْمٌ عَسِرٌ
 
 ***7. They will come forth with humbled eyes from graves as if they were
 locusts scattered,***  
@@ -323,18 +283,10 @@ believers.
 Surah al-Qamar - Verses 9-10
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا
-مَجْنُونٌ وَازْدُجِرَ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا
+> مَجْنُونٌ وَازْدُجِرَ
 
-<blockquote dir="rtl">
-  <p>
-فَدَعَا رَبَّهُ أنِّي مَغْلُوبٌ فَانتَصِرْ
-  </p>
-</blockquote>
+> فَدَعَا رَبَّهُ أنِّي مَغْلُوبٌ فَانتَصِرْ
 
 ***9. The people of Noah (as) denied [him] before the disbelievers
 denying the Noble Prophet (S). They denied Our servant and besides
@@ -373,18 +325,10 @@ encompassed them.
 Surah al-Qamar - Verses 11-12
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَفَتَحْنَا أبْوَابَ السَّمَاء بِمَاء مُّنْهَمِرٍ
-  </p>
-</blockquote>
+> فَفَتَحْنَا أبْوَابَ السَّمَاء بِمَاء مُّنْهَمِرٍ
 
-<blockquote dir="rtl">
-  <p>
-وَفَجَّرْنَا الْأرْضَ عُيُونًا فَالْتَقَی الْمَاء عَلَی أمْرٍ قَدْ
-قُدِرَ
-  </p>
-</blockquote>
+> وَفَجَّرْنَا الْأرْضَ عُيُونًا فَالْتَقَی الْمَاء عَلَی أمْرٍ قَدْ
+> قُدِرَ
 
 ***11. Therefore, We opened the gates of the heavens with water pouring
 forth.***  
@@ -423,17 +367,9 @@ and agitating ocean.
 Surah al-Qamar - Verses 13-14
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَحَمَلْنَاهُ عَلَی ذَاتِ ألْوَاحٍ وَدُسُرٍ
-  </p>
-</blockquote>
+> وَحَمَلْنَاهُ عَلَی ذَاتِ ألْوَاحٍ وَدُسُرٍ
 
-<blockquote dir="rtl">
-  <p>
-تَجْرِي بِأعْيُنِنَا جَزَاء لِّمَن كَانَ كُفِرَ
-  </p>
-</blockquote>
+> تَجْرِي بِأعْيُنِنَا جَزَاء لِّمَن كَانَ كُفِرَ
 
 ***13. And We carried him on a [vessel] made of planks and nails,***  
 ***14. The vessel upon which Noah (as) and his followers embarked
@@ -491,17 +427,9 @@ Call.
 Surah al-Qamar - Verses 15-16
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَد تَّرَكْنَاهَا آيَةً فَهَلْ مِن مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَد تَّرَكْنَاهَا آيَةً فَهَلْ مِن مُّدَّكِرٍ
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
-  </p>
-</blockquote>
+> فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
 
 ***15. And Verily, We left the vessel as a Sign. Then is there any that
 will receive admonition?***  
@@ -522,11 +450,7 @@ disbelievers and contenders?"
 Surah al-Qamar - Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
 
 ***17. And We have verily made the Qur’an easy to understand and receive
 admonition. Then, is there anyone who will receive admonition?***
@@ -551,18 +475,10 @@ in neglect.
 Surah al-Qamar - Verses 18-19
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
-  </p>
-</blockquote>
+> كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ
-مُّسْتَمِرٍّ
-  </p>
-</blockquote>
+> إِنَّا أرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ
+> مُّسْتَمِرٍّ
 
 ***18. The people of ‘Ad belied their Prophet. Then how were My Torment
 and My Warnings?***  
@@ -584,23 +500,11 @@ their perdition.
 Surah al-Qamar - Verses 20-22
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-تَنزِعُ النَّاسَ كَأنَّهُمْ أعْجَازُ نَخْلٍ مُّنقَعِرٍ
-  </p>
-</blockquote>
+> تَنزِعُ النَّاسَ كَأنَّهُمْ أعْجَازُ نَخْلٍ مُّنقَعِرٍ
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
-  </p>
-</blockquote>
+> فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
 
 ***20. A harsh gale plucking out men as if they were eradicated stems of
 date-palms.***  
@@ -651,30 +555,14 @@ Divine torments are severe.
 Surah al-Qamar - Verses 23-26
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ ثَمُودُ بِالنُّذُرِ
-  </p>
-</blockquote>
+> كَذَّبَتْ ثَمُودُ بِالنُّذُرِ
 
-<blockquote dir="rtl">
-  <p>
-فَقَالُوا أبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهُ إِنَّا إِذًا لَّفِي
-ضَلَآلٍ وَسُعُرٍ
-  </p>
-</blockquote>
+> فَقَالُوا أبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهُ إِنَّا إِذًا لَّفِي
+> ضَلَآلٍ وَسُعُرٍ
 
-<blockquote dir="rtl">
-  <p>
-أؤُلْقِيَ الذِّكْرُ عَلَيْهِ مِن بَيْنِنَا بَلْ هُوَ كَذَّابٌ أشِرٌ
-  </p>
-</blockquote>
+> أؤُلْقِيَ الذِّكْرُ عَلَيْهِ مِن بَيْنِنَا بَلْ هُوَ كَذَّابٌ أشِرٌ
 
-<blockquote dir="rtl">
-  <p>
-سَيَعْلَمُونَ غَدًا مَّنِ الْكَذَّابُ الْأشِرُ
-  </p>
-</blockquote>
+> سَيَعْلَمُونَ غَدًا مَّنِ الْكَذَّابُ الْأشِرُ
 
 ***23. Thamud belied the warners.***  
 ***24. And they inquired: "Should we obey one single man amongst us?
@@ -745,12 +633,8 @@ accusations may not befit Prophets but are worthy of disbelievers.
 Surah al-Qamar - Verse 27
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ
-وَاصْطَبِرْ
-  </p>
-</blockquote>
+> إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ
+> وَاصْطَبِرْ
 
 ***27. Indeed, We are sending the she-camel as a test for them.
 Therefore, we said unto Salih (as) to watch their end and be patient!***
@@ -773,12 +657,8 @@ she-camel.”
 Surah al-Qamar - Verse 28
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَبِّئْهُمْ أنَّ الْمَاء قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ
-مُّحْتَضَرٌ
-  </p>
-</blockquote>
+> وَنَبِّئْهُمْ أنَّ الْمَاء قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ
+> مُّحْتَضَرٌ
 
 ***28. And We inform them that the water is to be shared between them
 and the she-camel, each one of them receive the allotted share.***
@@ -798,17 +678,9 @@ Verses.
 Surah al-Qamar - Verses 29-30
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَی فَعَقَرَ
-  </p>
-</blockquote>
+> فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَی فَعَقَرَ
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
-  </p>
-</blockquote>
+> فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
 
 ***29. But they called their comrade and he took [a sword] and slew
 [her].***  
@@ -845,18 +717,10 @@ people: "Now observe the manner of My Torment and Warnings."
 Surah al-Qamar - Verses 31-32
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ
-الْمُحْتَظِرِ
-  </p>
-</blockquote>
+> إِنَّا أرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ
+> الْمُحْتَظِرِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
 
 ***31. Indeed, as the Recompense of their crime, We sent against them an
 awful cry and the lightning and they became like the stalks scattered in
@@ -922,5 +786,4 @@ Tafsir Makhzan al-‘Irfan; Tafsir Nur; Atyab al-Bayan; Tafsir al-Mizan.
 [^9]: 26:116
 
 [^10]: 11:37
-
 

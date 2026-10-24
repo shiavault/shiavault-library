@@ -1,15 +1,11 @@
 Discourse 7: Commentary Of “Keep Us On The Straight Path”
 =========================================================
 
-<blockquote dir="rtl">
-  <p>
-فِي تَفْسِيرِ قَوْلِ اللٌّهِ عَزَّ وَجَلَّ ) إِهْدِنَا الصِّرَاطَ
-الْمُسْـتَـقِيمَ ( يَقُولُ الصَّادِقُ: أَرْشِدْنَا إِلـى الطَّرِيقِ
-الْمُؤَدِّي إِلـى مَحَـبَّتِكَ، وَ الْمُبَلِّغِ دِيـنِكَ، وَ
-الْمَانِعِ مِنْ أَنْ نَـتَّبِعَ أَهْوَائَنَا فَنُعْـتَبَ، أَوْ
-نَأْخُذَ بِآرَائِـنَا فَنَهْلِكَ.
-  </p>
-</blockquote>
+> فِي تَفْسِيرِ قَوْلِ اللٌّهِ عَزَّ وَجَلَّ ) إِهْدِنَا الصِّرَاطَ
+> الْمُسْـتَـقِيمَ ( يَقُولُ الصَّادِقُ: أَرْشِدْنَا إِلـى الطَّرِيقِ
+> الْمُؤَدِّي إِلـى مَحَـبَّتِكَ، وَ الْمُبَلِّغِ دِيـنِكَ، وَ
+> الْمَانِعِ مِنْ أَنْ نَـتَّبِعَ أَهْوَائَنَا فَنُعْـتَبَ، أَوْ
+> نَأْخُذَ بِآرَائِـنَا فَنَهْلِكَ.
 
 In the exegesis of the words of Allah, the Noble and Grand, (Keep us on
 the Straight Path (as-Sirat al-Mustaqim)), [Imam Ja’far b. Muhammad]
@@ -83,5 +79,4 @@ the Purely Perfect Entity and without exception, all others are
 travelling upon the path to reaching complete perfection. Thus, what
 harm is there if these personalities also ask Allah (SwT) to reach to a
 higher level of perfection!?! (Tafsir-e-Namuna, vol. 1, pg. 46)
-
 

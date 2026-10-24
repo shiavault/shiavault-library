@@ -322,7 +322,6 @@ thus acquired (through Revelation) is regarded to be no more than a
 brief and superficial knowledge. Acquiring any further knowledge is
 beyond their capacity.
 
-
 **Chapter Five : The Negation of Shirk in Authority**
 
 Allah says:
@@ -434,7 +433,6 @@ they had been asking each other as to what their Lord had said. This is
 a psychological situation which will overwhelm everybody where they will
 be asking each other in an amazed stupefaction as to whether or not the
 permission of their Lord has been granted?
-
 
 'What is that your Lord has said?' They say: 'The truth.' And He is the
 Most High, the Most Great.}(V.34:22,23)
@@ -825,5 +823,4 @@ for him to pull through "Every Muslim must ask for the fulfillment of
 his entire needs from his Rabb, to the extent that even if he is in need
 of salt, he should ask his Rabb for it and if one of his shoe-laces
 breaks off, he must still ask his Rabb for it." (Tirmidhi)
-
 

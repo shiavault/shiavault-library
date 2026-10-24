@@ -4,12 +4,8 @@ Surah al-Zumar, Verses 56 - 75
 Surah al-Zumar - Verse 56
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَی عَلَی مَا فَرَّطْتُ فِي جَنْبِ
-اللَّهِ وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ
-  </p>
-</blockquote>
+> أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَی عَلَی مَا فَرَّطْتُ فِي جَنْبِ
+> اللَّهِ وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ
 
 ***56. Lest a person should say “Alas, my grief that I was undutiful to
 Allah and I was indeed among those who mocked [His Verses].”***
@@ -65,18 +61,10 @@ and bias.[^1]
 Surah al-Zumar - Verses 57 - 58
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ تَقُولَ حِينَ تَرَی الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ
-مِنَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> أَوْ تَقُولَ حِينَ تَرَی الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ
+> مِنَ الْمُحْسِنِينَ
 
 ***57. Or [lest] he should say [out of profound grief]: “If only Allah
 has guided me, I should indeed have been among the righteous.”***  
@@ -113,12 +101,8 @@ compensate for his past deeds.
 Surah al-Zumar - Verse 59
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلَی قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا وَاسْتَكْبَرْتَ
-وَكُنْتَ مِنَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> بَلَی قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا وَاسْتَكْبَرْتَ
+> وَكُنْتَ مِنَ الْكَافِرِينَ
 
 ***59. Yes! Indeed, there came unto you My Verses but you denied them
 and were vain and were among disbelievers.***
@@ -188,13 +172,9 @@ they give a share of their worship to others,”***[^4]***).***
 Surah al-Zumar - Verse 60
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ الْقِيَامَةِ تَرَی الَّذِينَ كَذَبُوا عَلَی اللَّهِ
-وُجُوهُهُمْ مُسْوَدَّةٌ أَلَيْسَ فِي جَهَنَّمَ مَثْویً
-لِلْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ الْقِيَامَةِ تَرَی الَّذِينَ كَذَبُوا عَلَی اللَّهِ
+> وُجُوهُهُمْ مُسْوَدَّةٌ أَلَيْسَ فِي جَهَنَّمَ مَثْویً
+> لِلْمُتَكَبِّرِينَ
 
 ***60. And on the Day of Resurrection you will see those who lied
 against Allah – their faces will be black. Is there not in Hell an abode
@@ -329,12 +309,8 @@ set Hell ablaze.***[^11]
 Surah al-Zumar - Verse 61
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيُنَجِّي اللَّهُ الَّذِينَ اتَّقَوْا بِمَفَازَتِهِمْ لا يَمَسُّهُمُ
-السُّوءُ وَلا هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> وَيُنَجِّي اللَّهُ الَّذِينَ اتَّقَوْا بِمَفَازَتِهِمْ لا يَمَسُّهُمُ
+> السُّوءُ وَلا هُمْ يَحْزَنُونَ
 
 ***61. And Allah will deliver those who are the righteous with their
 success, untouched by evil in the least, nor shall they grieve.***
@@ -359,18 +335,10 @@ The brief expression actually encompasses all Divine Bounties.
 Surah al-Zumar - Verses 62 - 63
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَی كُلِّ شَيْءٍ وَكِيلٌ
-  </p>
-</blockquote>
+> اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَی كُلِّ شَيْءٍ وَكِيلٌ
 
-<blockquote dir="rtl">
-  <p>
-لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ وَالَّذِينَ كَفَرُوا بِآياتِ
-اللَّهِ أُولَئِكَ هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ وَالَّذِينَ كَفَرُوا بِآياتِ
+> اللَّهِ أُولَئِكَ هُمُ الْخَاسِرُونَ
 
 ***62. Allah is the Creator of all things and He is the Guardian,
 Preserver, and Controller of all things.***  
@@ -459,18 +427,10 @@ between the two is not parallel but lengthwise.
 Surah al-Zumar - Verse 64 - 65
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَفَغَيْرَ اللَّهِ تَأْمُرُونِّي أَعْبُدُ أَيُّهَا الْجَاهِلُونَ
-  </p>
-</blockquote>
+> قُلْ أَفَغَيْرَ اللَّهِ تَأْمُرُونِّي أَعْبُدُ أَيُّهَا الْجَاهِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَی الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
-أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَی الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
+> أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ
 
 ***64. Say: “Do you order me to worship other than Allah? O you
 fools!”***  
@@ -546,19 +506,11 @@ God (S) is addressed herein.”*[^14]
 Surah al-Zumar - Verses 66 - 67
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلِ اللَّهَ فَاعْبُدْ وَكُنْ مِنَ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> بَلِ اللَّهَ فَاعْبُدْ وَكُنْ مِنَ الشَّاكِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعاً قَبْضَتُهُ
-يَوْمَ الْقِيَامَةِ وَالسَّمَاوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
-سُبْحَانَهُ وَتَعَالَی عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعاً قَبْضَتُهُ
+> يَوْمَ الْقِيَامَةِ وَالسَّمَاوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
+> سُبْحَانَهُ وَتَعَالَی عَمَّا يُشْرِكُونَ
 
 ***66. Nay! But worship Allah alone and be among the grateful.***  
 ***67. They did not appreciate Allah as such as is due to Him, though on
@@ -679,13 +631,9 @@ and idolatry.
 Surah al-Zumar - Verse 68
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنُفِخَ فِي الصُّورِ فَصَعِقَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي
-الْأَرْضِ إِلَّا مَنْ شَاءَ اللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَی فَإِذَا
-هُمْ قِيَامٌ يَنْظُرُونَ
-  </p>
-</blockquote>
+> وَنُفِخَ فِي الصُّورِ فَصَعِقَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي
+> الْأَرْضِ إِلَّا مَنْ شَاءَ اللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَی فَإِذَا
+> هُمْ قِيَامٌ يَنْظُرُونَ
 
 ***68. And the Trumpet Shall be blown and all who are in the heavens and
 all who are on the earth shall swoon away [and die], except him whom
@@ -849,13 +797,9 @@ The second earthquake shall occur raising servants as peers.
 Surah al-Zumar - Verse 69
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ
-بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَهُمْ
-لا يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ
+> بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَهُمْ
+> لا يُظْلَمُونَ
 
 ***69. [On that Day] the earth will shine with the Light of its Lord and
 the Book of deeds will be placed [forward] and the Prophets and the
@@ -1021,12 +965,8 @@ wrong doing may not find its way there.
 Surah al-Zumar - Verse 70
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوُفِّيَتْ كُلُّ نَفْسٍ مَا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا
-يَفْعَلُونَ
-  </p>
-</blockquote>
+> وَوُفِّيَتْ كُلُّ نَفْسٍ مَا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا
+> يَفْعَلُونَ
 
 ***70. And each person shall be paid in full of what he did and He is
 Best Aware of what they do.***
@@ -1058,22 +998,14 @@ ourselves.
 Surah al-Zumar - Verse 71 - 72
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسِيقَ الَّذِينَ كَفَرُوا إِلَی جَهَنَّمَ زُمَراً حَتَّى إِذَا
-جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا أَلَمْ
-يَأْتِكُمْ رُسُلٌ مِنْكُمْ يَتْلُونَ عَلَيْكُمْ آيَاتِ رَبِّكُمْ
-وَيُنْذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَذَا قَالُوا بَلَی وَلَكِنْ
-حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَی الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَسِيقَ الَّذِينَ كَفَرُوا إِلَی جَهَنَّمَ زُمَراً حَتَّى إِذَا
+> جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا أَلَمْ
+> يَأْتِكُمْ رُسُلٌ مِنْكُمْ يَتْلُونَ عَلَيْكُمْ آيَاتِ رَبِّكُمْ
+> وَيُنْذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَذَا قَالُوا بَلَی وَلَكِنْ
+> حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَی الْكَافِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَی
-الْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَی
+> الْمُتَكَبِّرِينَ
 
 ***71. And those who disbelieved will be driven to Hell in groups till
 when they reach it the gates thereof will be opened and its keepers
@@ -1206,13 +1138,9 @@ not enter Paradise.”*[^30]
 Surah al-Zumar - Verse 73
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَی الْجَنَّةِ زُمَراً حَتَّی
-إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا
-سَلامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ
-  </p>
-</blockquote>
+> وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَی الْجَنَّةِ زُمَراً حَتَّی
+> إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا
+> سَلامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ
 
 ***73. And those who kept their duty to their Lord will be led to
 Paradise in groups till when they reach it and its gates will be opened
@@ -1340,13 +1268,9 @@ regarding the transience of Divine Bounties.
 Surah al-Zumar - Verse 74
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا
-الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ فَنِعْمَ أَجْرُ
-الْعَامِلِينَ
-  </p>
-</blockquote>
+> وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا
+> الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ فَنِعْمَ أَجْرُ
+> الْعَامِلِينَ
 
 ***74. And [the people of Paradise] will say: “Praise be to Allah Who
 has fulfilled His Promise to us and has made us inherit the land. We can
@@ -1427,13 +1351,9 @@ an expression of surprise uttered by the people of Paradise.
 Surah al-Zumar - Verse 75
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَی الْمَلائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ
-بِحَمْدِ رَبِّهِمْ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَقِيلَ الْحَمْدُ
-لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَتَرَی الْمَلائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ
+> بِحَمْدِ رَبِّهِمْ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَقِيلَ الْحَمْدُ
+> لِلَّهِ رَبِّ الْعَالَمِينَ
 
 ***75. And you will see the angels surrounding the Throne, glorifying
 their Lord with praises. And they will be judged with truth and it will
@@ -1556,5 +1476,4 @@ question.
 [^32]: Tafsir Qurtubi, vol. 8, p. 574.
 
 [^33]: 9:72
-
 

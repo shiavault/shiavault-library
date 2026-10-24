@@ -740,4 +740,3 @@ the introduction to Psalms of Islam translated by William Chittick.
 
 [^16]: al-Kāfi
 
-

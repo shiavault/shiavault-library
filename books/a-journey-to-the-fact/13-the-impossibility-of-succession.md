@@ -588,4 +588,3 @@ need for someone to type the leaflet!”
 **F** God had his mercy on the Officer and guided him to the right path
 and he helped to set free the Muslim activists.
 
-

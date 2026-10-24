@@ -3,11 +3,7 @@ Prying Into the Secrets of People
 
 ( Verse 12 )
 
-<blockquote dir="rtl">
-  <p>
-...وَلاٌ تَجَسَّسُوا...
-  </p>
-</blockquote>
+> ...وَلاٌ تَجَسَّسُوا...
 
 **“*****…and do not spy on one another…”***
 
@@ -86,13 +82,9 @@ a Muslim brothers’ character and honour amongst the people.
 In relation to people who spy on the actions of others, our great
 leader, Imam Ja\`far ibn Muhammad as-Sadiq (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَبْعَدُ مٌا يَكُونُ الْعَبْدُ مِنَ اللٌّهِ أَنْ يَكُونَ الرَّجُلُ
-يُوٌاخِي الرَّجُلَ وَ هُوَ يَحْفِظُ زَلاٌّتَهُ لِيُعَيِّرَهُ بِهٌا
-يَوْماً
-  </p>
-</blockquote>
+> أَبْعَدُ مٌا يَكُونُ الْعَبْدُ مِنَ اللٌّهِ أَنْ يَكُونَ الرَّجُلُ
+> يُوٌاخِي الرَّجُلَ وَ هُوَ يَحْفِظُ زَلاٌّتَهُ لِيُعَيِّرَهُ بِهٌا
+> يَوْماً
 
 *“The furthest state that a person can be from the (spiritual presence
 of) Allah is when one befriends another person and he remembers whatever
@@ -178,13 +170,9 @@ people and their personal life are not true Muslims and thus, the
 Prophet (blessings of Allah be upon him and his family) has said to
 them:
 
-<blockquote dir="rtl">
-  <p>
-يٌا مَعْشَرَ! مَنْ أَسْلَمَ بِلِسٌانِهِ وَ لَمْ يَخْلُصِ الإِيْمٌانُ
-إِلـى قَلْبِهِ لاٌ تَذُمُّوا الْمُسْلِمِينَ وَ لاٌ تَتَّبِعُوا
-عَوْرٌاتِهِمْ
-  </p>
-</blockquote>
+> يٌا مَعْشَرَ! مَنْ أَسْلَمَ بِلِسٌانِهِ وَ لَمْ يَخْلُصِ الإِيْمٌانُ
+> إِلـى قَلْبِهِ لاٌ تَذُمُّوا الْمُسْلِمِينَ وَ لاٌ تَتَّبِعُوا
+> عَوْرٌاتِهِمْ
 
 *“O’ people! One* *who gives lip service to Islam but does not have true
 faith in his heart, do not disparage the (other) Muslims and do not
@@ -218,11 +206,7 @@ his choices.
 In addition, the people who one asks for advice in these types of
 scenarios must speak the truth and they must keep in mind the saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُسْتَشٌارُ مُؤْتَمِنُ
-  </p>
-</blockquote>
+> أَلْمُسْتَشٌارُ مُؤْتَمِنُ
 
 *“The one whom a person seeks advice from must be a person who is
 reliable.”*
@@ -237,5 +221,4 @@ internal spiritual qualities and must offer the advice in this way.
 
 [^3]: Bihar al-Anwar, Volume 75, Page 214 (as related from Shaikh Saduq,
 Thawab al-A\`mal, Page 216).
-
 

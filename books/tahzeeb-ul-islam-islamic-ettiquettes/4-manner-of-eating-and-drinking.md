@@ -961,4 +961,3 @@ It is stated that the Holy Prophet (s.a.w.a.) used to drink water in
 glass utensils which had come as a present from Syria and at times in
 wooden and leather containers and if none were available, in his hand.
 
-

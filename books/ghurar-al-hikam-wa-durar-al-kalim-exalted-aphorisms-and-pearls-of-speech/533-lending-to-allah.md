@@ -11,10 +11,5 @@ Lending To Allah
 prosperity so that you may take its repayment in your time of hardship.
 
 > 2ـ اِغْتَنِمْ مَنِ اسْتَقْرَضَكَ في حالِ غِناكَ لِيَجْعَلَ قَضاءَهُ
-<blockquote dir="rtl">
-  <p>
-(قَضاهُ) في يَوْمِ عُسْرَتِكَ.
-  </p>
-</blockquote>
-
+> (قَضاهُ) في يَوْمِ عُسْرَتِكَ.
 

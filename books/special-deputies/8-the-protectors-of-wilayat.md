@@ -157,12 +157,8 @@ The only conclusion that comes to our mind is that all success
 Due to this even Ameerul Momineen (a.s.) desired to see these scholars.
 It is narrated about Shaikh Mufid (r.a.)
 
-<blockquote dir="rtl">
-  <p>
-ما كان ينام من الليل اِلاَّ هجة ثم يقوم يُصَلّى او يطالع او يدرس او
-يتلو القرآن
-  </p>
-</blockquote>
+> ما كان ينام من الليل اِلاَّ هجة ثم يقوم يُصَلّى او يطالع او يدرس او
+> يتلو القرآن
 
 ‘He slept in the night for a short period. Then he got up and prayed or
 he studied or took his class or taught the Quran.’[^3]
@@ -204,13 +200,9 @@ creation. The bounties that we are receiving from Allah are through the
 medium of Imam (a.t.f.s.). This reality is well-highlighted in Ziaarat
 al-Jaameah in the following verses:
 
-<blockquote dir="rtl">
-  <p>
-بِكُمْ فَتَحَ اللهُ وَ بِكُمْ يَخْتِمُ وَ بِكُمْ يُنَزِّلُ الْغَيْثَ
-وَ بِكُمْ يُمْسِكُ السَّمَآءَ اَنْ تَقَعَ عَلَى الْاَرْضِ اِلاَّ
-بِاِذْنِه وَ بِكُمْ يُنَفِّسُ الْهَمَّ-
-  </p>
-</blockquote>
+> بِكُمْ فَتَحَ اللهُ وَ بِكُمْ يَخْتِمُ وَ بِكُمْ يُنَزِّلُ الْغَيْثَ
+> وَ بِكُمْ يُمْسِكُ السَّمَآءَ اَنْ تَقَعَ عَلَى الْاَرْضِ اِلاَّ
+> بِاِذْنِه وَ بِكُمْ يُنَفِّسُ الْهَمَّ-
 
 “Allah has initiated creation through you and through you, He will end
 it. Through you, He sends down rain and because of you, the sky does not
@@ -219,13 +211,9 @@ fall on the earth. And because of you sorrow is relieved.”
 Besides this Imam Mahdi (a.t.f.s) has pointed towards his special
 attention in his Tauqee’ (a signed letter) to Shaikh al-Mufid (r.a.):
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا غَيْرُ مُهْمِلِيْنَ لِمُرَاعَاتِكُمْ وَ لاَ نَاسِيْنَ
-لِذِكْرِكُمْ وَ لَوْلاَ ذٰلِكَ لَنَزَلَتْ بِكُمُ اللَّاوَاءُ وَ
-اصْطَلَمَتْكُمُ الْاَعْدَاءُ
-  </p>
-</blockquote>
+> اِنَّا غَيْرُ مُهْمِلِيْنَ لِمُرَاعَاتِكُمْ وَ لاَ نَاسِيْنَ
+> لِذِكْرِكُمْ وَ لَوْلاَ ذٰلِكَ لَنَزَلَتْ بِكُمُ اللَّاوَاءُ وَ
+> اصْطَلَمَتْكُمُ الْاَعْدَاءُ
 
 “Surely we are not negligent of your protection nor are we forgetful of
 your remembrance. If it was so, calamities would have surrounded you and
@@ -265,12 +253,8 @@ leadership of the society. At that time Imam (a.t.f.s.) sent a message
 to him through Hujjatul Islam wal Muslimeen al Haaj Shaikh Muhammad Kufi
 Shustari (who had performed 40 Hajj):
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَهُ اَرْخِصْ نَفْسَكَ وَاجْعَلْ مَجْلِسَكَ فِىْ الدَّهْلِيْزِ
-وَاقْضِ حَوَائِجَ النَّاسِ نَحْنُ نَنْصُرُكَ
-  </p>
-</blockquote>
+> قُلْ لَهُ اَرْخِصْ نَفْسَكَ وَاجْعَلْ مَجْلِسَكَ فِىْ الدَّهْلِيْزِ
+> وَاقْضِ حَوَائِجَ النَّاسِ نَحْنُ نَنْصُرُكَ
 
 “Say to him, ‘Make yourself available (to the common people). And
 conduct your gatherings in the drawing room (of your house). And fulfill
@@ -295,5 +279,4 @@ Imam al-Asr’s (a.t.f.s.) help and support for us!
 [^5]: Al-Ehtejaaj, vol. 2, pg. 323
 
 [^6]: Inaayat al-Hazrat Mahdi be Ulama wa Maraaje’ Taqleed, p. 110
-
 

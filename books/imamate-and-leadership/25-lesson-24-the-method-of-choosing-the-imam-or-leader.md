@@ -520,4 +520,3 @@ al-Athir, al-Kamil; Ibn Kathir, al-Bidayah.
 [^3]: Muslim, al-Sahih, "Kitab al-Jihad wa Sayr" Bab: Ghuzwah Badr, Vol.
 III, p.1403.
 
-

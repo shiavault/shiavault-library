@@ -262,4 +262,3 @@ ar-Ridha’ (s) and the aunt of Imam al-Jawad (s), was buried.
 
 [^7]: Ath-Tharee’a, vol.1 p.315, al-A’laam, vol.7 p.155
 
-

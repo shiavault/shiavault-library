@@ -39,4 +39,3 @@ truthful.”[^1]
 
 [^1]: Bihar al-Anwar, nol. 49, p. 55.
 
-

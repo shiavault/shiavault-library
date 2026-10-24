@@ -11,46 +11,26 @@ layers, the understanding which is not possible for everyone. As such,
 in understanding some verses, it is necessary to take other verses into
 account. For example, in interpreting verses such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿الرَّحْمَانُ عَلَى الْعَرْشِ اسْتَوَى.﴾
-  </p>
-</blockquote>
+> ﴿الرَّحْمَانُ عَلَى الْعَرْشِ اسْتَوَى.﴾
 
 ***The All-beneficent settled on the Throne**,*[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا.﴾
-  </p>
-</blockquote>
+> ﴿وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا.﴾
 
 ***And Your Lord and the angels arrive in ranks**,*[^3]
 
 one must seek the assistance of other verses for clarity and correct
 interpretation such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَيْسَ كَمِثْلِهِ شَيْءٌ.﴾
-  </p>
-</blockquote>
+> ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ.﴾
 
 ***Nothing is like Him**,*[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ.﴾
 
 ***Nor has He any equal**,*[^5]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا.﴾
-  </p>
-</blockquote>
+> ﴿وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا.﴾
 
 ***And Allah has knowledge of all things**.*[^6]
 
@@ -122,12 +102,8 @@ innumerable verses. The Qur'an itself talks about *Ta'wil*, using the
 word itself through the tongue of Hadrat Yusuf (Joseph) (*'a*) when he
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِذْ قَالَ يُوسُفُ لأَبِيهِ: يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ
-كَوْكَباً وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ.﴾
-  </p>
-</blockquote>
+> ﴿إِذْ قَالَ يُوسُفُ لأَبِيهِ: يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ
+> كَوْكَباً وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ.﴾
 
 ***When Joseph said to his father, 'Father! I saw eleven planets, and
 the sun and the moon: I saw them prostrating themselves before
@@ -141,11 +117,7 @@ along with their father. When Ya'qub (*'a*) and his wife and sons saw
 Yusuf (*'a*) with such glory and grandeur, they prostrated before him.
 Then, Yusuf (*'a*) recounted his childhood dream, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَبَتِ هَذَا تَأْوِيلُ رُؤْيَاي مِنْ قَبْلُ.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَبَتِ هَذَا تَأْوِيلُ رُؤْيَاي مِنْ قَبْلُ.﴾
 
 ***'Father! This is the fulfillment {Ta'wil} of my dream of long
 ago**.*[^10]
@@ -193,11 +165,7 @@ The Wahhabis regard any kind of gathering for the passing away or birth
 of the *awliya'* as a sort of worship of the saints of God, equating it
 to the worship of idols:
 
-<blockquote dir="rtl">
-  <p>
-هِيَ نَوْعٌ مِنَ العِبَادَةِ لَهُمْ وَتَعْظِيمِهِمْ.
-  </p>
-</blockquote>
+> هِيَ نَوْعٌ مِنَ العِبَادَةِ لَهُمْ وَتَعْظِيمِهِمْ.
 
 It is a kind of worship and reverence to them.[^11]102
 
@@ -209,11 +177,7 @@ accordingly. Although they believed in One God, they also thought that
 these products of their own hands (i.e. the idols) had supreme authority
 on earth, and as such, they would plead for their intercession:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيَقُولُونَ هَؤُلاَءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَيَقُولُونَ هَؤُلاَءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ.﴾
 
 ***And they say, 'These are our intercessors with Allah'**.*[^12]
 
@@ -229,11 +193,7 @@ According to the author of *Fath al-Majid*, the Wahhabis acknowledge two
 festivals: *'id al-Fitr*[^13] and the feast of the day of Friday, and in
 this connection, they have cited this *hadith* of the Prophet (s):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ هَذَا يَوْمٌ قَدْ جَعَلَهُ اللهُ لِلْمُسْلِمِينَ عِيداً.
-  </p>
-</blockquote>
+> إنَّ هَذَا يَوْمٌ قَدْ جَعَلَهُ اللهُ لِلْمُسْلِمِينَ عِيداً.
 
 Indeed, Allah has made this day (Friday) as a day of festivity for the
 Muslims.
@@ -250,15 +210,11 @@ no idols there; if the practice was not to commit a sin against Allah;
 and if none of the customs of the *jahiliyyah* was observed, then there
 would be no wrong in fulfilling such a vow:
 
-<blockquote dir="rtl">
-  <p>
-…قَالَ: نَذَرَ رَجُلٌ أنْ يَنْحَرَ إبِلاً بِبَوَانَةَ. فَسَألَ
-النَّبِيَّ فَقَالَ: “هَلْ كَانَ فِيهَا وَثَنٌ مِنْ أوْثَانِ
-الجَاهِلِيَّةِ يُعْبَدُ؟” قَالَ: “لاَ”. قَالَ: “فَهَلْ كَانَ عِيداً
-مِنْ أعْيَادِهِمْ؟” قَالَ: “لا”. فَقَالَ : “فَإنَّهُ لاَ وَفَاءَ
-لِنَذْرٍ فِي مَعْصِيَةِ اللهِ.”
-  </p>
-</blockquote>
+> …قَالَ: نَذَرَ رَجُلٌ أنْ يَنْحَرَ إبِلاً بِبَوَانَةَ. فَسَألَ
+> النَّبِيَّ فَقَالَ: “هَلْ كَانَ فِيهَا وَثَنٌ مِنْ أوْثَانِ
+> الجَاهِلِيَّةِ يُعْبَدُ؟” قَالَ: “لاَ”. قَالَ: “فَهَلْ كَانَ عِيداً
+> مِنْ أعْيَادِهِمْ؟” قَالَ: “لا”. فَقَالَ : “فَإنَّهُ لاَ وَفَاءَ
+> لِنَذْرٍ فِي مَعْصِيَةِ اللهِ.”
 
 He said: ”{O Messenger of Allah (s)!} Somebody has made a vow to offer a
 sacrificial animal in Bawanah.” The Prophet (s) asked: “Is there any
@@ -308,11 +264,7 @@ against God.
 Of course, their reason behind finding fault with these kinds of
 festivities, as we have stated before, is the *hadith*,
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَجْعَلُوا قَبْرِي عِيداً.
-  </p>
-</blockquote>
+> وَلاَ تَجْعَلُوا قَبْرِي عِيداً.
 
 Do not make my grave a site for festivity {*'i*d}.
 
@@ -340,13 +292,9 @@ gratitude to God. One such day is when at the request of Hadrat '«sa
 (Jesus) (*'a*) a table spread full of food and drink was sent down, as
 the Qur'an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا
-مَائِدَةً مِنْ السَّمَاءِ تَكُونُ لَنَا عِيدًا لأَوَّلِنَا وَآخِرِنَا
-وَآيَةً مِنْكَ وَارْزُقْنَا وَأَنْتَ خَيرُ الرَّازِقِينَ.﴾
-  </p>
-</blockquote>
+> ﴿قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا
+> مَائِدَةً مِنْ السَّمَاءِ تَكُونُ لَنَا عِيدًا لأَوَّلِنَا وَآخِرِنَا
+> وَآيَةً مِنْكَ وَارْزُقْنَا وَأَنْتَ خَيرُ الرَّازِقِينَ.﴾
 
 ***Said Jesus son of Mary, 'O Allah! Our Lord! Send down to us a table
 from the sky, to be a festival for us, for the first ones and the last
@@ -358,12 +306,8 @@ Similarly, one may point to the day when the people {*qawm*} of Musa
 Exalted, and saved from misguidance, and Hadrat Musa (*'a*) was enjoined
 to keep alive the memory and to commemorate these days:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ إِنَّ فِي ذَلِكَ لآيَاتٍ لِكُلِّ
-صَبَّارٍ شَكُورٍ.﴾
-  </p>
-</blockquote>
+> ﴿وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ إِنَّ فِي ذَلِكَ لآيَاتٍ لِكُلِّ
+> صَبَّارٍ شَكُورٍ.﴾
 
 ***And remind them of Allah's {holy} days. There are indeed signs in
 that for every patient and grateful {servant}**.*[^25]
@@ -373,11 +317,7 @@ mercy and grace from His servants and afflicted them with wrath and
 calamity, such as the days when the fierce eight-day wind struck the
 people of 'ad and sent this community to perdition:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي أَيَّامٍ نَحِسَاتٍ.﴾
-  </p>
-</blockquote>
+> ﴿فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي أَيَّامٍ نَحِسَاتٍ.﴾
 
 ***So We unleashed upon them an icy gale during ill-fated days**.*[^26]
 
@@ -402,12 +342,8 @@ because it will require more time, which is beyond the scope of this
 book. In order to clarify the view of the Imams (*'a*), however, we
 shall suffice to mention a *hadith* from Hadrat 'Ali (*'a*):
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا هُوَ عِيدٌ لِمَنْ قَبِلَ اللهُ صِيَامَهُ وَشَكَرَ قِيَامَهُ؛
-وَكُلُّ يَوْمٍ لاَ يُعْصَى اللهُ فِيهِ فَهُوَ عِيدٌ.
-  </p>
-</blockquote>
+> إنَّمَا هُوَ عِيدٌ لِمَنْ قَبِلَ اللهُ صِيَامَهُ وَشَكَرَ قِيَامَهُ؛
+> وَكُلُّ يَوْمٍ لاَ يُعْصَى اللهُ فِيهِ فَهُوَ عِيدٌ.
 
 Verily, it is a festivity for the one whose fast is accepted by God and
 whose prayer is taken as a gratitude, and any day in which none of the
@@ -501,14 +437,10 @@ from this ruling. In a bid to depict this belief as well-substantiated,
 they resort to traditions narrated from the Prophet (s), among which is
 the following:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ رَسُولَ اللهِ قَالَ: أرْبَعٌ فِي أُمَّتِي مِنْ أمْرِ
-الجَاهِلِيَّةِ لاَ يَتْرُكُونَهُنَّ: الفَخْرُ بِالإحْتِسَابِ،
-وَالطَّعْنُ فِي الأنْسَابِ، وَالاسْتِسْقَاءُ بِالنُّجُومِ،
-وَالنِّيَاحَةُ.
-  </p>
-</blockquote>
+> إنَّ رَسُولَ اللهِ قَالَ: أرْبَعٌ فِي أُمَّتِي مِنْ أمْرِ
+> الجَاهِلِيَّةِ لاَ يَتْرُكُونَهُنَّ: الفَخْرُ بِالإحْتِسَابِ،
+> وَالطَّعْنُ فِي الأنْسَابِ، وَالاسْتِسْقَاءُ بِالنُّجُومِ،
+> وَالنِّيَاحَةُ.
 
 Verily, the Messenger of Allah (s) said: Four (things from among the
 practices of *jahiliyyah*) in my *ummah* are not abandoned: taking pride
@@ -517,13 +449,9 @@ rain based on astrology, and mourning for the dead {*an-niyahah*}.[^33]
 
 Then, in interpreting the word, ”*an-niyahah*,” they have said:
 
-<blockquote dir="rtl">
-  <p>
-النَّياحَةُ، أيْ رَفْعَ الصَّوتِ بِالنَّدبِ عَلى المَيِّتِ. وَذلِك
-يُنافي الصَّبْر الوَاجِبَ وهُو مِن الكَبائِر لِشدَّةِ الوَعيدِ
-والعُقوبةِ عَليها.
-  </p>
-</blockquote>
+> النَّياحَةُ، أيْ رَفْعَ الصَّوتِ بِالنَّدبِ عَلى المَيِّتِ. وَذلِك
+> يُنافي الصَّبْر الوَاجِبَ وهُو مِن الكَبائِر لِشدَّةِ الوَعيدِ
+> والعُقوبةِ عَليها.
 
 *Niyahah* means raising the voice over the dead in lamentation and
 weeping… This sort of mourning is inconsistent with obligatory patience.
@@ -553,12 +481,8 @@ The other argument of the Wahhabis
 Another tradition that the Wahhabis narrate from the Messenger of Allah
 (s) to which they have resorted is this:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْمَيِّتَ لَيُعَذَّبُ بِبُكَاءِ الْحَيِّ عَلَيْهِ… وَمِثْلُ أنَّ
-الْمَيِّتَ يُعَذَّبُ فِي قَبْرِهِ بِالنِّيَاحَةِ عَلَيْهِ.
-  </p>
-</blockquote>
+> إنَّ الْمَيِّتَ لَيُعَذَّبُ بِبُكَاءِ الْحَيِّ عَلَيْهِ… وَمِثْلُ أنَّ
+> الْمَيِّتَ يُعَذَّبُ فِي قَبْرِهِ بِالنِّيَاحَةِ عَلَيْهِ.
 
 Indeed the dead experience agony due to the weeping of the living for
 them… Similarly, the dead is chastised in their graves due to mourning
@@ -575,11 +499,7 @@ mourners is against religion and entails tribulation for the dead, this
 is not only against reason but also contrary to the text of the
 Qur'an:[^35]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى.﴾
 
 ***Nor doth any laden bear another's load**.*[^36]
 
@@ -605,11 +525,7 @@ further informing the readers, we shall mention some other instances:
 1. The Holy Prophet (s) exhorted the Companions to weep for the
 martyrdom of Ja'far ibn Abi Talib at-Tayyar and the like of him:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَى مِثْلِ جَعْفَرٍ فَلْتَبْكِ البَوَاكِي.
-  </p>
-</blockquote>
+> وَعَلَى مِثْلِ جَعْفَرٍ فَلْتَبْكِ البَوَاكِي.
 
 For the like of Ja'far, let weepers weep.[^37]
 
@@ -620,12 +536,8 @@ participate in the mourning ceremony.
 protests of some Companions against weeping over the death of his son
 Ibrahim, he (s) said:
 
-<blockquote dir="rtl">
-  <p>
-يَا بْنَ عَوْفٍ! إنَّهَا رَحْمَةٌ؛ العَيْنُ تَدْمَعُ، وَالقَلْبُ
-يَحْزَنُ، وَلاَ نَقُولُ إلاَّ مَا يُرْضِي رَبَّنَا.
-  </p>
-</blockquote>
+> يَا بْنَ عَوْفٍ! إنَّهَا رَحْمَةٌ؛ العَيْنُ تَدْمَعُ، وَالقَلْبُ
+> يَحْزَنُ، وَلاَ نَقُولُ إلاَّ مَا يُرْضِي رَبَّنَا.
 
 O Ibn 'Awf (epithet of Malik ibn Anas)! Crying is a mercy. The eyes cry
 and the heart gets sad, and certainly we do not say anything which will
@@ -635,11 +547,7 @@ displease our Lord.
 of his mother and wept for the memory of her great soul such that those
 who were present also shed tears:[^38]
 
-<blockquote dir="rtl">
-  <p>
-إنَّ النَّبِيَّ زَارَ قَبْرَ أُمِّهِ فَبَكَى، وَأبْكَى مَنْ حَوْلَهُ.
-  </p>
-</blockquote>
+> إنَّ النَّبِيَّ زَارَ قَبْرَ أُمِّهِ فَبَكَى، وَأبْكَى مَنْ حَوْلَهُ.
 
 5. When 'Uthman ibn Maz'un passed away, the Prophet (s) removed the
 shroud adjacent to his face, kissed the portion between his eyes, and
@@ -647,14 +555,10 @@ wept a lot. When the coffin was raised, the Prophet (s) said: “O
 'Uthman, blessed are you! The world did not fascinate you and you also
 did become attached to it:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ النَّبِيَّ لَمَّا مَاتَ عُثْمَانُ بْنُ مَظْعُونٍ كَشَفَ الثَّوْبَ
-عَنْ وَجْهِهِ ثُمَّ قَبَّلَ مَا بَيْنَ عَيْنَيْهِ، ثُمَّ بَكَى
-طَوِيلاً. فَلَمَّا رُفِعَ السَّرِيرُ قَالَ: طُوبَى لَكَ يَا عُثْمَانُ؛
-لَمْ تَلْبَسْكَ الدُّنْيَا وَلَمْ تَلْبَسْهَا.
-  </p>
-</blockquote>
+> إنَّ النَّبِيَّ لَمَّا مَاتَ عُثْمَانُ بْنُ مَظْعُونٍ كَشَفَ الثَّوْبَ
+> عَنْ وَجْهِهِ ثُمَّ قَبَّلَ مَا بَيْنَ عَيْنَيْهِ، ثُمَّ بَكَى
+> طَوِيلاً. فَلَمَّا رُفِعَ السَّرِيرُ قَالَ: طُوبَى لَكَ يَا عُثْمَانُ؛
+> لَمْ تَلْبَسْكَ الدُّنْيَا وَلَمْ تَلْبَسْهَا.
 
 6. When the Prophet (s) passed away, Hadrat Fatimah az-Zahra (*'a*) wept
 profusely; also, Imam Zayn al-'abidin (*'a*) used to weep for the
@@ -675,12 +579,8 @@ Types of elegy writing
 during the heavenly ascension of her esteemed father, Hadrat az-Zahra
 (*'a*) thus said:
 
-<blockquote dir="rtl">
-  <p>
-يَا أبَتَاهُ! مَنْ رَبُّهُ نَادَاهُ! يَا أبَتَاهُ! مَنْ جِبْرَئِيلُ
-نَعَاهُ! يَا أبَتَاهُ! أجَابَ رَبّاً دَعَاهُ.
-  </p>
-</blockquote>
+> يَا أبَتَاهُ! مَنْ رَبُّهُ نَادَاهُ! يَا أبَتَاهُ! مَنْ جِبْرَئِيلُ
+> نَعَاهُ! يَا أبَتَاهُ! أجَابَ رَبّاً دَعَاهُ.
 
 O my dear father! Blessed are you for being in the proximity of God,
 taking your abode beside Jibra'il, responding to the call of the
@@ -735,11 +635,7 @@ in lamentation as an occupation. The opinion of the 'Allamah in the
 book, *Qawa*'*id*, and the author of the book, *Mafatih al-Karamah*,
 like many other Shi\`ah *fuqaha*, is as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَيَحْرُمُ أجْرُ النَّائِحَةِ بِالبَاطِلِ، وَيَجُوزُ بِالْحَقِّ.
-  </p>
-</blockquote>
+> وَيَحْرُمُ أجْرُ النَّائِحَةِ بِالبَاطِلِ، وَيَجُوزُ بِالْحَقِّ.
 
 The occupation of those who are engaged in false {*batil*} elegizing is
 *haram* while the occupation of those who are engaged in true
@@ -767,12 +663,8 @@ eyes.
  Of course, there are also *hadith*s about unlawful mourning which have
 been transmitted to us. As a specimen, we shall quote some cases:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ أُمُّ عَطِيَّةَ: أخَذَ عَلَيْنَا رَسُولُ اللهِ عِنْدَ
-البَيْعَةِ أنْ لاَ نَنُوحَ.
-  </p>
-</blockquote>
+> قَالَتْ أُمُّ عَطِيَّةَ: أخَذَ عَلَيْنَا رَسُولُ اللهِ عِنْدَ
+> البَيْعَةِ أنْ لاَ نَنُوحَ.
 
 Umm 'Atiyyah said: “During the pledge of allegiance to the Messenger of
 Allah (s), he asked us not to perform lamentation.”
@@ -781,12 +673,8 @@ It is said that this *hadith* indicates that the Muslims have to avoid
 lamentation according to the practice of the pre-Islamic period of
 ignorance {*ayyam al-jahiliyyah*}.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أبِي مُوسَى أنَّ النَّبِيَّ قَالَ: لَيْسَ مِنَّا مَنْ ضَرَبَ
-الخُدُودَ وَشَقَّ الجُيُوبَ وَدَعَا بِدَعْوَى الجَاهِلِيَّةِ.
-  </p>
-</blockquote>
+> عَنْ أبِي مُوسَى أنَّ النَّبِيَّ قَالَ: لَيْسَ مِنَّا مَنْ ضَرَبَ
+> الخُدُودَ وَشَقَّ الجُيُوبَ وَدَعَا بِدَعْوَى الجَاهِلِيَّةِ.
 
 Abu Musa (al-Ash'ari) narrates that the Messenger of Allah (s) says: “He
 who at the time of tragedy harms his face, tears off his shirt, and
@@ -914,5 +802,4 @@ in Musakkin al-Fu’ad, p. 103.
 [^41]: ‘Ali Asghar Faqihi, Wahhabiyan, p. 108.
 
 [^42]: Ibn al-Qudamah, Al-Mughni, vol. 2, p. 383, 411.
-
 

@@ -260,4 +260,3 @@ bin ‘Ali', Najaf, Matba al Ilmiah, Masudi - 'Muravvij az Zaheb', Beirut,
 Darul Fikr, 1989, vol.2, p.430, Ibn. Sabbagh - ‘al Fusul al Muhimmah',
 Najaf, Maktab Darul Kutub, p.143.
 
-

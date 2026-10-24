@@ -749,4 +749,3 @@ Ikhwan al-Safa, and the Franciscans, were opposed to philosophical
 rationalism and accepted some form of esoteric and metaphysical doctrine
 based on intellectual intuition and revelation.
 
-

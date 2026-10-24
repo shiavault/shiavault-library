@@ -61,4 +61,3 @@ role of “responsibility” such as Hans Jonas.
 to call for “preventive ethics” by reviving that which has been
 neglected for many centuries.
 
-

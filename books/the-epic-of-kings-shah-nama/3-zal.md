@@ -192,4 +192,3 @@ land. And when Saum went forth to fight the battles of the Shah, he left
 the kingdom under his hands, and Zal administered it with judgment and
 virtue.
 
-

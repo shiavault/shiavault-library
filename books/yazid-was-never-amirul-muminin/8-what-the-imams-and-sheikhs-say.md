@@ -63,4 +63,3 @@ so when his own son did not consider him to be qualified to have this
 title? Who would know him better, his son or an outsider? I leave this
 to the readers to decide.
 
-

@@ -4,23 +4,11 @@ Section 5: Abraham Exhorts His Father to Discard Idolatry
 Surah Ash-Shu‘ara - Verses 69-71
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ
-  </p>
-</blockquote>
+> قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ
 
 ***69. “And recite unto them the story of Abraham.”***  
 ***70. “When he said to his father and his people: ‘What do you
@@ -90,17 +78,9 @@ venerable and sacred things.
 Surah Ash-Shu‘ara - Verses 72-73
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
-  </p>
-</blockquote>
+> قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
-  </p>
-</blockquote>
+> أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
 
 ***72. “Said (Abraham): ‘Do they hear you when you call (them)?’”***  
 ***73. “Or do they profit you, or harm?”***
@@ -153,23 +133,11 @@ superstition and the power of delusion have given such situation.
 Surah Ash-Shu‘ara - Verses 74-76
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَلْ وَجَدْنَا آبَاءنَا كَذَلِكَ يَفْعَلُونَ
-  </p>
-</blockquote>
+> قَالُوا بَلْ وَجَدْنَا آبَاءنَا كَذَلِكَ يَفْعَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَفَرَأَيْتُم مَّا كُنتُمْ تَعْبُدُونَ
-  </p>
-</blockquote>
+> قَالَ أَفَرَأَيْتُم مَّا كُنتُمْ تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَنتُمْ وَآبَاؤُكُمُ الأَقْدَمُونَ
-  </p>
-</blockquote>
+> أَنتُمْ وَآبَاؤُكُمُ الأَقْدَمُونَ
 
 ***74. “They said: ‘Nay, but we found our fathers so doing’.”***  
 ***75. “He said: ‘Have you then considered what you have been
@@ -221,11 +189,7 @@ worshipping?”***
 Surah Ash-Shu‘ara - Verse 77
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُمْ عَدُوٌّ لِّي إِلاَّ رَبَّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> فَإِنَّهُمْ عَدُوٌّ لِّي إِلاَّ رَبَّ الْعَالَمِينَ
 
 ***77. “Surely they are enemies to me, save the Lord of the Worlds,”***
 
@@ -265,35 +229,15 @@ this matter, Abraham excepted the Lord of the Worlds Whom he loved.
 Surah Ash-Shu‘ara - Verses 78-81
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ
-  </p>
-</blockquote>
+> وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
-  </p>
-</blockquote>
+> وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ
-  </p>
-</blockquote>
+> وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي أَطْمَعُ أَن يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ
-  </p>
-</blockquote>
+> وَالَّذِي أَطْمَعُ أَن يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ
 
 ***78. “Who created me, and Himself guides me,”***  
 ***79. “And Himself feeds me and provides me to drink;”***  
@@ -429,11 +373,7 @@ and various deities and bows before Allah with glorification.
 Surah Ash-Shu‘ara - Verse 83
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
 
 ***83. “My Lord! Bestow wisdom on me, and join me with the
 righteous!”***
@@ -489,23 +429,11 @@ continuation and perfection of this way.
 Surah Ash-Shu‘ara - Verses 84-86
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ
-  </p>
-</blockquote>
+> وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ
-  </p>
-</blockquote>
+> وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ
-  </p>
-</blockquote>
+> وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ
 
 ***84. “And ordain for me a goodly mention among posterity;”***  
 ***85. “And make me of the heirs of the garden of bliss;”***  
@@ -590,23 +518,11 @@ declared himself quit of him...”***
 Surah Ash-Shu‘ara - Verses 87-89
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُخْزِنِي يَوْمَ يُبْعَثُونَ
-  </p>
-</blockquote>
+> وَلاَ تُخْزِنِي يَوْمَ يُبْعَثُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لاَ يَنفَعُ مَالٌ وَلاَ بَنُونَ
-  </p>
-</blockquote>
+> يَوْمَ لاَ يَنفَعُ مَالٌ وَلاَ بَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-إلاَّ مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> إلاَّ مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
 
 ***87. “And abase me not on the Day when (men) will be raised up;”***  
 ***88. “The Day whereon neither wealth nor sons will avail,”***  
@@ -685,23 +601,11 @@ satanic.
 Surah Ash-Shu‘ara - Verses 90-92
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ
-  </p>
-</blockquote>
+> وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ
-  </p>
-</blockquote>
+> وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ
 
 ***90. “And the Paradise shall be brought near for the pious.”***  
 ***91. “And the Hell shall appear plainly to the erring ones,”***  
@@ -755,23 +659,11 @@ worship,”***
 Surah Ash-Shu‘ara - Verses 93-95
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مِن دُونِ اللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ
-  </p>
-</blockquote>
+> مِن دُونِ اللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ
-  </p>
-</blockquote>
+> فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ
-  </p>
-</blockquote>
+> وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ
 
 ***93. “Besides Allah? Do they help you or help themselves?’”***  
 ***94. " So they shall be thrown into it, - they and the erring
@@ -822,29 +714,13 @@ falls at the bottom of the valley.
 Surah Ash-Shu‘ara - Verses 96-99
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ
-  </p>
-</blockquote>
+> قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-تَاللَّهِ إِن كُنَّا لَفِي ضَلاَلٍ مُّبِينٍ
-  </p>
-</blockquote>
+> تَاللَّهِ إِن كُنَّا لَفِي ضَلاَلٍ مُّبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ نُسَوِّيكُم بِرَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِذْ نُسَوِّيكُم بِرَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَضَلَّنَا إِلاَّ الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> وَمَا أَضَلَّنَا إِلاَّ الْمُجْرِمُونَ
 
 ***96. “And they will say, when they are mutually quarrelling therein:
 ”***  
@@ -887,23 +763,11 @@ on another’s shoulders.
 Surah Ash-Shu‘ara - Verses 100-101
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لَنَا مِن شَافِعِينَ
-  </p>
-</blockquote>
+> فَمَا لَنَا مِن شَافِعِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ صَدِيقٍ حَمِيمٍ
-  </p>
-</blockquote>
+> وَلاَ صَدِيقٍ حَمِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ
 
 ***100. “Now, then we have no intercessors,”***  
 ***101. “Nor a single intimate friend,”***  
@@ -1021,17 +885,9 @@ its evidence.
 Surah Ash-Shu‘ara - Verses 103-104
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***103. “Verily in this is a sign but most of them do not believe.”***  
 ***104. “And verily your Lord is He the Mighty, the Merciful.”***
@@ -1111,5 +967,4 @@ mercy.
 [^21]: Surah Al-Baqarah, No. 2, verse 255
 
 [^22]: Mahasin-i-Barghy, P. 183
-
 

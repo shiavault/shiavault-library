@@ -170,4 +170,3 @@ inconsistency between them, does not arise. It cannot be said that in
 such and such case Allah’s Knowledge will be right and that otherwise it
 will be wrong.
 
-

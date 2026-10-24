@@ -742,4 +742,3 @@ and prosperity. If they had kept their faith and guarded themselves from
 evil, far better had been the rewards that they would get from their
 Lord, if they but knew!
 
-

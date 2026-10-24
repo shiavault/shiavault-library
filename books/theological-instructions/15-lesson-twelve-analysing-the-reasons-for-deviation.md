@@ -176,4 +176,3 @@ centuries?
 
 7- How can one combat the elements of deviation?
 
-

@@ -122,4 +122,3 @@ the relationship between man and God?
 What follows is a summary of the necessary explanation concerning both
 questions:
 
-

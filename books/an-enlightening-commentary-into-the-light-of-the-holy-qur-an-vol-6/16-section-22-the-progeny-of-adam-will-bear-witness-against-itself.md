@@ -4,14 +4,10 @@ Section 22: The Progeny of Adam Will Bear Witness Against Itself
 Surah al-‘Araf – Verse 172
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ أَخَذَ رَبُّكَ مِن بَنِي ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
-وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلى
-شَهِدْنَآ أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَذَا
-غَافِلِينَ
-  </p>
-</blockquote>
+> وإِذْ أَخَذَ رَبُّكَ مِن بَنِي ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
+> وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلى
+> شَهِدْنَآ أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَذَا
+> غَافِلِينَ
 
 **172*****. “And (remember) when your Lord took from the children of
 Adam, from their backs, their descendants and made them bear witness
@@ -66,18 +62,10 @@ own selves, since they have confessed it in the world of pre-existence.
 Surah al-‘Araf – Verses 173-174
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوْ تَقُولُوا إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا
-ذُرِّيَّةً مِن بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ الْمُبْطِلُونَ
-  </p>
-</blockquote>
+> أَوْ تَقُولُوا إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا
+> ذُرِّيَّةً مِن بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ الْمُبْطِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ نُفَصِّلُ الاَيَاتِ وَلَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ نُفَصِّلُ الاَيَاتِ وَلَعَلَّهُمْ يَرْجِعُونَ
 
 **173*****. “Or lest you should say: ‘Verily our fathers were idolaters
 from before and we were descendants after them (following them). Will
@@ -127,12 +115,8 @@ reason the Truth by them and return from falsehood towards the Truth.
 Surah al-‘Araf – Verse 175
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِي ءَاتَيْنَاهُ ءَايَاتِنَا فَانْسَلَخَ
-مِنْهَا فَاَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِي ءَاتَيْنَاهُ ءَايَاتِنَا فَانْسَلَخَ
+> مِنْهَا فَاَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاوِينَ
 
 **175*****. “And recite unto them the tale of him to whom We gave Our
 signs, but he withdrew (himself) from them, and Satan pursued him, and
@@ -177,14 +161,10 @@ Satan. The verse ends as follows:
 Surah al-‘Araf – Verse 176
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شِئْنَا لَرَفَعْنَاهُ بِهَا وَلَكِنَّهُ اَخْلَدَ إِلَى الاَرْضِ
-وَاتَّبَعَ هَوَاهُ فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ
-يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ ذَلِكَ مَثَلُ الْقَوْمِ الَّذِينَ
-كَذَّبُوا بِاَيَاتِنَا فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَلَوْ شِئْنَا لَرَفَعْنَاهُ بِهَا وَلَكِنَّهُ اَخْلَدَ إِلَى الاَرْضِ
+> وَاتَّبَعَ هَوَاهُ فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ
+> يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ ذَلِكَ مَثَلُ الْقَوْمِ الَّذِينَ
+> كَذَّبُوا بِاَيَاتِنَا فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ
 
 **176*****. “And had We willed, We would certainly have exalted him
 thereby, but he clung to the earth and followed his lust. So his parable
@@ -250,19 +230,11 @@ of Moses (as), and therefore, he lost all his spiritual ranks.
 Surah al-‘Araf – Verses 177-178
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَآءَ مَثَلاً الْقَوْمُ الَّذِينَ كَذَّبُوا بِاَيَاتِنَا
-وَأَنْفُسَهُمْ كَانُوا يَظْلِمُونَ
-  </p>
-</blockquote>
+> سَآءَ مَثَلاً الْقَوْمُ الَّذِينَ كَذَّبُوا بِاَيَاتِنَا
+> وَأَنْفُسَهُمْ كَانُوا يَظْلِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَن يَهْدِ اللّهُ فَهُوَ الْمُهْتَدِي وَمَن يُضْلِلْ فَأُوْلَئِكَ هُمُ
-الْخَاسِرُونَ
-  </p>
-</blockquote>
+> مَن يَهْدِ اللّهُ فَهُوَ الْمُهْتَدِي وَمَن يُضْلِلْ فَأُوْلَئِكَ هُمُ
+> الْخَاسِرُونَ
 
 **177*****. “How evil is the parable of the people who belied Our Signs,
 but they were doing injustice to themselves.”***  
@@ -301,14 +273,10 @@ real losers. The verse continues saying:
 Surah al-‘Araf – Verse 179
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيراً مِنَ الْجِنِّ وَالإِنْسِ
-لَهُمْ قُلُوبٌ لاَيَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَيُبْصِرُونَ
-بِهَا وَلَهُمْ ءَاذَانٌ لاَيَسْمَعُونَ بِهَآ اُوْلَئِكَ كَالاَنْعَامِ
-بَلْ هُمْ أَضَلُّ اُوْلَئِكَ هُمُ الْغَافِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيراً مِنَ الْجِنِّ وَالإِنْسِ
+> لَهُمْ قُلُوبٌ لاَيَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَيُبْصِرُونَ
+> بِهَا وَلَهُمْ ءَاذَانٌ لاَيَسْمَعُونَ بِهَآ اُوْلَئِكَ كَالاَنْعَامِ
+> بَلْ هُمْ أَضَلُّ اُوْلَئِكَ هُمُ الْغَافِلُونَ
 
 **179*****. “Indeed We have created for Hell many jinn and humans; they
 have hearts with which they do not understand, and they have eyes with
@@ -381,12 +349,8 @@ look at them.
 Surah al-‘Araf – Verse 180
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ الاَسْمَآءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ
-يُلْحِدُونَ فِي أَسْمَآئِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلِلّهِ الاَسْمَآءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ
+> يُلْحِدُونَ فِي أَسْمَآئِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ
 
 **180*****. “And to Allah belong the most beautiful names, so call on
 Him by them, and leave those who blaspheme His names. Soon they shall be
@@ -447,11 +411,7 @@ attributes to His creatures.
 Surah al-‘Araf – Verse 181
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِمَّنْ خَلَقْنَآ اُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ
-  </p>
-</blockquote>
+> وَمِمَّنْ خَلَقْنَآ اُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ
 
 **181*****. “And of those (whom) We have created are a people who guide
 (others) by the Truth and establish justice therewith.”***
@@ -483,5 +443,4 @@ too. The above holy verse concludes as follows:
 [^1]: Nūr-uth-Thaqalayn, the commentary.
 
 [^2]: Nūr-uth-Thaqalayn, the commentary; and Tafsir-ul-Burhān
-
 

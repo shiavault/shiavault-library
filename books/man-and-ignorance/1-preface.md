@@ -12,4 +12,3 @@ Almighty - and the judgment of the people of the ignorance (jahiliyah).
 So, whoever misses Allah's judgment, surely will judge according to the
 judgment of the people of jahiliyah.”* Imam Ja'far al-Sadiq (a.s)
 
-

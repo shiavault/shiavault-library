@@ -21,12 +21,8 @@ commandments of Allah.[^1]
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أَنْ يَكُونَ مِنْ أَصْحَابِ الْقَائِمِ فَلْيَنْتَظِرْ وَ
-لْيَعْمَلْ بِالْوَرَعِ وَ مَحَاسِنَ الأَخْلاَقِ وَ هُوَ مُنْتَظِرٌ
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أَنْ يَكُونَ مِنْ أَصْحَابِ الْقَائِمِ فَلْيَنْتَظِرْ وَ
+> لْيَعْمَلْ بِالْوَرَعِ وَ مَحَاسِنَ الأَخْلاَقِ وَ هُوَ مُنْتَظِرٌ
 
 “A person who would like to be among the companions of al-Qa\`im (ajtf)
 should be in a state of waiting and perform all of his actions with
@@ -41,5 +37,4 @@ others as being something necessary and some have actually outright
 denied this requirement!
 
 [^2]: al-Ghaybah of Nu’mani, pg. 200, no. 16
-
 

@@ -935,4 +935,3 @@ was a scholar of vast learning who died in Najaf in 1359/1940 [Tr].
 different levels of meaning - mystical and profane, personal, and
 political [Tr].
 
-

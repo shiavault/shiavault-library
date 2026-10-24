@@ -32,4 +32,3 @@ behaviour. He knew that it could not happen except by explaining what is
 good and what is bad; which in actuality He has explained through
 religious commands and prohibitions.”*
 
-

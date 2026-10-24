@@ -36,4 +36,3 @@ Imam Askari (as) was martyred and the Minor Occultation of Imam Mahdi
 (as) began. Each of these three periods has certain characteristics,
 which I am going to touch briefly.
 
-

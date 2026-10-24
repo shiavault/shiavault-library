@@ -175,4 +175,3 @@ were covered by the Prophet’s cloak.
 
 [^8]: Huqooq al-Walidain, p. 101.
 
-

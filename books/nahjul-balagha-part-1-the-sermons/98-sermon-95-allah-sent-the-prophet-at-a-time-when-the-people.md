@@ -5,17 +5,9 @@ Sermon 95: Allah sent the Prophet at a time when the people...
 proclamation and his actions to do with the dissemination of his
 message*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-يقرر فضيلة الرسول الكريم
-  </p>
-</blockquote>
+> يقرر فضيلة الرسول الكريم
 
 Allah sent the Prophet at a time when the people were going astray in
 perplexity and were moving here and there in mischief. Desires had
@@ -26,20 +18,15 @@ him and his descendants - did his best in giving them sincere advice,
 himself trod on the right path and called (them) towards wisdom and good
 counsel.
 
-<blockquote dir="rtl">
-  <p>
-بَعَثَهُ وَالنَّاسُ ضُلاَّلٌ فِي حَيْرَة، وَحَاطِبُونَ فِي فِتْنَة،
-قَدِ اسْتَهْوَتْهُمُ الاْهْوَاءُ، وَاسْتَزَلَّتْهُمُ الْكِبْرِيَاءُ،
-وَاسْتَخَفَّتْهُمُ الْجَاهِلِيِّةُ الْجَهْلاَءُ: حَيَارَى فِي زَلْزَال
-مَنَ الاْمْرِ، وَبَلاَء مِنَ الْجَهْلِ، فَبَالَغَ (صلى الله عليه وآله)
-فِي النَّصِيحَةِ، وَمَضَى عَلَى الطَّرِيقَةِ، وَدَعَا إِلَى
-الْحِكْمَةِ وَالْمَوْعِظَةِ.
-  </p>
-</blockquote>
+> بَعَثَهُ وَالنَّاسُ ضُلاَّلٌ فِي حَيْرَة، وَحَاطِبُونَ فِي فِتْنَة،
+> قَدِ اسْتَهْوَتْهُمُ الاْهْوَاءُ، وَاسْتَزَلَّتْهُمُ الْكِبْرِيَاءُ،
+> وَاسْتَخَفَّتْهُمُ الْجَاهِلِيِّةُ الْجَهْلاَءُ: حَيَارَى فِي زَلْزَال
+> مَنَ الاْمْرِ، وَبَلاَء مِنَ الْجَهْلِ، فَبَالَغَ (صلى الله عليه وآله)
+> فِي النَّصِيحَةِ، وَمَضَى عَلَى الطَّرِيقَةِ، وَدَعَا إِلَى
+> الْحِكْمَةِ وَالْمَوْعِظَةِ.
 
 Alternative Sources for Sermon 95
 ---------------------------------
 
 (1) Al-Majlisi, *Bihar,* XVIII, 219.
-
 

@@ -24,4 +24,3 @@ Subhanna wa-ta’alah.
  Peace be upon the prophets.  
  Peace be upon the imams.
 
-

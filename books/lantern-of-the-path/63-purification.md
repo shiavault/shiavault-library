@@ -8,28 +8,16 @@ service. Just as the mercy of Allah purifies the wrong actions of His
 bondsmen, so are outward impurities cleansed only by water. As Allah
 said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ
-وَأَنزَلْنَا مِنَ السَّمَاء مَاء طَهُورًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ
+> وَأَنزَلْنَا مِنَ السَّمَاء مَاء طَهُورًا
 
 ***It is He Who sends the winds as good news before His mercy; and We
 send down pure water out of heaven!*** (25:48) and elsewhere,
 
-
-
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنَ الْمَاء كُلَّ شَيْءٍ حَيٍّ أَفَلَا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنَ الْمَاء كُلَّ شَيْءٍ حَيٍّ أَفَلَا يُؤْمِنُونَ
 
 ***We have made of water everything living. Will they not then
 believe?*** (21:30)
-
 
 As He gives life to every blessing in this world from water, so by His
 mercy and overflowing favour He gives life to the heart and to acts of
@@ -48,5 +36,4 @@ Let your purity with Allah in all your obedience be like the purity of
 water when He sent it down out of heaven and called it pure. Purify your
 heart with precaution and certainty when you purify your limbs with
 water.
-
 

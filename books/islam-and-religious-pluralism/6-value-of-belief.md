@@ -38,12 +38,8 @@ overlooked by God.
 To explain this point, it is necessary to speak a bit about submission
 and obstinacy. The Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لاٌ يَنْفَعُ مٌالٌ وَ لاٌ بَنُونَ إِلاَّ مَنْ أَتَـى اللٌّهَ
-بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> يَوْمَ لاٌ يَنْفَعُ مٌالٌ وَ لاٌ بَنُونَ إِلاَّ مَنْ أَتَـى اللٌّهَ
+> بِقَلْبٍ سَلِيمٍ
 
 ***“The day when neither wealth nor children will avail, except him who
 comes to God with a sound heart.***”[^1]
@@ -94,11 +90,7 @@ stand still.”
 Force can compel a person to recant his or her words, but the human
 intellect does not submit except when faced with logic and reasoning.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هٌــاتُوا بُرْهٌــنَكُمْ إِنْ كُنْــتُمْ صٌدِقِينَ
-  </p>
-</blockquote>
+> قُلْ هٌــاتُوا بُرْهٌــنَكُمْ إِنْ كُنْــتُمْ صٌدِقِينَ
 
 ***“Say, ‘Produce your evidence, should you be truthful***.’”[^2]
 
@@ -119,12 +111,8 @@ submission of the heart and soul.
 
 God says in the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ ءٌامَنُوا ادْخُلُوا فِي السِّلْمِ كٌــآفَةً وَ
-لاٌ تَتَّبِعُوا خُطُوٌاتِ الشَّيْطٌانِ
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ ءٌامَنُوا ادْخُلُوا فِي السِّلْمِ كٌــآفَةً وَ
+> لاٌ تَتَّبِعُوا خُطُوٌاتِ الشَّيْطٌانِ
 
 ***“O you who have faith! Enter into submission, all together, and do
 not follow in Satan’s steps**.*”[^3]
@@ -138,11 +126,7 @@ Shaīťān recognized God, believed in the Day of Judgement, completely
 recognized the Prophets and their legatees and admitted their position;
 at the same time, God calls him an unbeliever and says of him:
 
-<blockquote dir="rtl">
-  <p>
-وَ كٌــانَ مِنَ الْكٌفِرِينَ
-  </p>
-</blockquote>
+> وَ كٌــانَ مِنَ الْكٌفِرِينَ
 
 ***“And he was of the unbelievers.***”[^4]
 
@@ -150,34 +134,22 @@ The evidence that, in the view of the Qur’ān, Shaīťān recognized God is
 that the Qur’ān explicitly says that he confessed that He is the
 Creator. Addressing God, he said:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقْتَنِــي مِنْ نٌارٍ وَ خَلَقْتَهُ مِنْ طِينٍ
-  </p>
-</blockquote>
+> خَلَقْتَنِــي مِنْ نٌارٍ وَ خَلَقْتَهُ مِنْ طِينٍ
 
 ***“You created me from fire, and You created him from clay.***”[^5]
 
 And the evidence that he believed in the Day of Judgement is that he
 said:
 
-<blockquote dir="rtl">
-  <p>
-أُنْظُرْنِــي إِلـى يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> أُنْظُرْنِــي إِلـى يَوْمِ يُبْعَثُونَ
 
 ***“Grant me reprieve until the day they are resurrected.***”[^6]
 
 And the evidence that he recognized the Prophets and infallibles is that
 he said:
 
-<blockquote dir="rtl">
-  <p>
-قٌالَ فَبِعِزَّتِكَ لَأَغْوِينَّهُمْ أَجْمَعِينَ إِلاَّ عِبٌادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قٌالَ فَبِعِزَّتِكَ لَأَغْوِينَّهُمْ أَجْمَعِينَ إِلاَّ عِبٌادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***“By Your might, I shall lead them all astray, except Your purified
 servants among them.***”[^7]
@@ -229,11 +201,7 @@ without that person being at fault, God will most certainly refrain from
 punishing him or her; he or she shall achieve salvation from Hell. God
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مٌا كُنٌّا مُعَذِّبِينَ حَـتَّى نَبْعَثَ رَسُولاً
-  </p>
-</blockquote>
+> وَ مٌا كُنٌّا مُعَذِّبِينَ حَـتَّى نَبْعَثَ رَسُولاً
 
 ***“And We do not punish until We have sent a messenger.***”[^8]
 
@@ -343,12 +311,8 @@ that have spirit.
 
 The Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَ الْحَيٌاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلاً
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَ الْحَيٌاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلاً
 
 ***“Who created death and life to try you as to which of you is the best
 in deeds.***”[^9]
@@ -546,12 +510,8 @@ is not accepted. The Divine law says that a coerced soldier is useless;
 I want a soldier who has the soul of a soldier, who has accepted the
 call:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ اشْتَرَى مِنَ الْــمُؤْمِنِينَ أَنْفُسَهُمْ وَ
-أَمْوٌالَــهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ اشْتَرَى مِنَ الْــمُؤْمِنِينَ أَنْفُسَهُمْ وَ
+> أَمْوٌالَــهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ
 
 ***“Verily God has purchased from the believers their souls and their
 belongings in return for Paradise***”[^10]
@@ -562,40 +522,24 @@ It has been related from the Messenger of Islām (S) in a
 consecutively-narrated tradition among both the Sunnis and Shī\`as that
 he said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الأَعْمٌالُ بِالنِّيٌّاتِ
-  </p>
-</blockquote>
+> إِنَّمٌا الأَعْمٌالُ بِالنِّيٌّاتِ
 
 *“The value of deeds is based on the intention.”*
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ امْرِئٍ مٌا نَوى.
-  </p>
-</blockquote>
+> لِكُلِّ امْرِئٍ مٌا نَوى.
 
 *“Every individual shall have what he or she intended.”*
 
-<blockquote dir="rtl">
-  <p>
-لاٌ عَمَلَ إِلاَّ بِنِيَّةِ
-  </p>
-</blockquote>
+> لاٌ عَمَلَ إِلاَّ بِنِيَّةِ
 
 *“No deed is accepted without an intention.*”[^11]
 
 One tradition has been narrated in the following words:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمٌا الأَعْمٌالُ بِالنِّيَّةِ، وَإِنَّمٌا لامَرْئَ مٌا نَوى،
-فَمَنْ كٌانَتْ هِجْرَتَهُ إِلـى اللٌّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلـى
-اللٌّهِ وَرَسُولِهِ، وَمَنْ كٌانَتْ هِجْرَتُهُ لِدُّنْيٌا يُصِيبُهٌا
-أَوْ امْرَأَةٍ يَتَزَوَّجُهٌا فَهِجْرَتُهُ إِلـى مٌا هٌاجَرَ إِلَيْهِ.
-  </p>
-</blockquote>
+> إِنَّمٌا الأَعْمٌالُ بِالنِّيَّةِ، وَإِنَّمٌا لامَرْئَ مٌا نَوى،
+> فَمَنْ كٌانَتْ هِجْرَتَهُ إِلـى اللٌّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلـى
+> اللٌّهِ وَرَسُولِهِ، وَمَنْ كٌانَتْ هِجْرَتُهُ لِدُّنْيٌا يُصِيبُهٌا
+> أَوْ امْرَأَةٍ يَتَزَوَّجُهٌا فَهِجْرَتُهُ إِلـى مٌا هٌاجَرَ إِلَيْهِ.
 
 *“The value of actions is in their intention, and a man shall only get
 that which he intended. So whoever migrated for the sake of God and His
@@ -615,12 +559,8 @@ human being’s action depend on its soul.
 What is the soul of an action? The soul of an action is sincerity. The
 Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-وَ مٌــآ أُمِرُوا إِلاَّ لِيَعْبُدُوا اللٌّهَ مُخْلِصِينَ لَهُ
-الدِّينَ
-  </p>
-</blockquote>
+> وَ مٌــآ أُمِرُوا إِلاَّ لِيَعْبُدُوا اللٌّهَ مُخْلِصِينَ لَهُ
+> الدِّينَ
 
 ***“Yet they were not commanded except to worship God, dedicating their
 faith to Him…*****”**[^13]
@@ -676,23 +616,15 @@ highest realm and elicited Divine praise and glorification.
 
 In the words of Shaykh Farīud Dīn al-\`Aťťar:
 
-<blockquote dir="rtl">
-  <p>
-گذشته ز آنجهان وصف سه نانش, گذشته زین جهان وصف سنانش
-  </p>
-</blockquote>
+> گذشته ز آنجهان وصف سه نانش, گذشته زین جهان وصف سنانش
 
 *It is beyond [the power] this world to describe his spear;*  
 *It is beyond that world to describe his three pieces of bread.*
 
 The importance of their action lies in what the Qur’ān has quoted:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّـمٌا نُطْعِمُكُمْ لِوَجْهِ اللٌّهِ لاٌ نُرِيدُ مِنْكُمْ جَزٌآءً
-وَ لاٌ شُكُوراً
-  </p>
-</blockquote>
+> إِنَّـمٌا نُطْعِمُكُمْ لِوَجْهِ اللٌّهِ لاٌ نُرِيدُ مِنْكُمْ جَزٌآءً
+> وَ لاٌ شُكُوراً
 
 ***“We feed you only for God’s sake; we wish from you no recompense, nor
 any gratitude**.*”[^15]
@@ -794,12 +726,8 @@ And the spirit of an action is its otherworldly aspect.
 
 How beautiful are the words of the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
-إِلَيْـهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَ الْعَمَلُ الصٌّلِحُ
-يَرْفَعَهُ
-  </p>
-</blockquote>
+> إِلَيْـهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَ الْعَمَلُ الصٌّلِحُ
+> يَرْفَعَهُ
 
 ***“To Him rises the pure word, and good deeds He raises.*****”**[^16]
 
@@ -838,19 +766,11 @@ next world, every person sees him or herself at his or her journey’s
 final point; one above, and the other below; one the highest of the
 high, and the other the lowest of the low.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ كِتٌبَ الأَبْرٌارَ لَفِـي عِلِّيِّـينَ
-  </p>
-</blockquote>
+> إِنَّ كِتٌبَ الأَبْرٌارَ لَفِـي عِلِّيِّـينَ
 
 ***“The record of the pious is indeed in Illiyīn*****.**”[^17]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ كِتٌبَ الْفُجٌّارَ لَفِـي سِجِّينَ
-  </p>
-</blockquote>
+> إِنَّ كِتٌبَ الْفُجٌّارَ لَفِـي سِجِّينَ
 
 ***“The record of the vicious is indeed in Sijjīn**.*”[^18]
 
@@ -870,14 +790,10 @@ to God.
 
 The Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كٌانَ يُرِيدُ الْعٌاجِلَةَ عَجَّلْنٌا لَهُ فِيهٌا مٌا نَشٌاءُ
-لِمَنْ نُّرِيدُ ثُمَّ جَعَلْنٌا لَهُ جَهَنَّمَ يَصْلاٌهٌا مَذْمُومًا
-مَّدْحُورًا وَمَنْ أَرٌادَ الآخِرَةَ وَسَعَى لَهٌا سَعْيَهٌا وَهُوَ
-مُؤْمِنٌ فَأُولٌئِكَ كٌانَ سَعْيُهُم مَّشْكُورًا
-  </p>
-</blockquote>
+> مَنْ كٌانَ يُرِيدُ الْعٌاجِلَةَ عَجَّلْنٌا لَهُ فِيهٌا مٌا نَشٌاءُ
+> لِمَنْ نُّرِيدُ ثُمَّ جَعَلْنٌا لَهُ جَهَنَّمَ يَصْلاٌهٌا مَذْمُومًا
+> مَّدْحُورًا وَمَنْ أَرٌادَ الآخِرَةَ وَسَعَى لَهٌا سَعْيَهٌا وَهُوَ
+> مُؤْمِنٌ فَأُولٌئِكَ كٌانَ سَعْيُهُم مَّشْكُورًا
 
 ***“Whoever desires this transitory life, We expedite for him therein
 whatever We wish, for whomever We desire. Then We appoint hell for him,
@@ -912,12 +828,8 @@ person to move forward and attain the goal without taking a step.
 
 Then in the next verse, the Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-كُلاًّ نُّمِدُّ هَـؤُلاٌءِ وَهَـؤُلاٌءِ مِنْ عَطٌاءِ رَبِّكَ وَمٌا
-كٌانَ عَطٌاءُ رَبِّكَ مَحْظُورًا
-  </p>
-</blockquote>
+> كُلاًّ نُّمِدُّ هَـؤُلاٌءِ وَهَـؤُلاٌءِ مِنْ عَطٌاءِ رَبِّكَ وَمٌا
+> كٌانَ عَطٌاءُ رَبِّكَ مَحْظُورًا
 
 ***“Each We assist out of the bounty of your Lord, both this group and
 that one; and the bounty of your Lord has not been withheld from
@@ -953,17 +865,9 @@ this world are deprived of this mercy, since they do not seek it. But
 the rahmāniyyah (general) mercy of God applies equally to all people and
 all paths. In the words of Sa\`dī:
 
-<blockquote dir="rtl">
-  <p>
-بر اين خوان يغما چه دشمن چه دوست
-  </p>
-</blockquote>
+> بر اين خوان يغما چه دشمن چه دوست
 
-<blockquote dir="rtl">
-  <p>
-اديم زمين سفره عام اوست
-  </p>
-</blockquote>
+> اديم زمين سفره عام اوست
 
 *The earth’s surface is His all-encompassing table,*
 
@@ -1045,11 +949,7 @@ of the well-known unbelievers in the Age of Ignorance and one of the
 chiefs of Quraysh, *“The one who has the lightest punishment in Hell is
 Ibn Jud\`ān.”* He was asked why, to which he replied:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ كٌانَ يُطْعِمُ الطَّعٌامَ
-  </p>
-</blockquote>
+> إِنَّهُ كٌانَ يُطْعِمُ الطَّعٌامَ
 
 *“He used to give people to eat.”*
 
@@ -1210,11 +1110,7 @@ performs his or her actions without a correct program. In other words,
 the Muslim has been guided, and the non-Muslim, though he or she
 believes in God, is misguided. In this very regard the Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا
-  </p>
-</blockquote>
+> فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا
 
 ***“So if they submit, they will have achieved guidance**.*”[^24]
 
@@ -1246,13 +1142,9 @@ conditions can attain the results of those actions.
 
 The Qur’ān says, addressing the People of the Book:
 
-<blockquote dir="rtl">
-  <p>
-تَعٌالَوا إِلَــى كَلَمَةٍ سَوٌاءَ بَيْنَنٌا وَبَيْنَكُمْ أَلاَّ
-نَعْبُدَ إِلاَّ اللٌّهَ وَلاٌ نُشْرِكَ بِهِ شَيْئًا وَلاٌ يَتَّخِذَ
-بَعْضُنٌا بَعْضاً أَرْبٌابًا مِّنْ دُونِ اللٌّهِ
-  </p>
-</blockquote>
+> تَعٌالَوا إِلَــى كَلَمَةٍ سَوٌاءَ بَيْنَنٌا وَبَيْنَكُمْ أَلاَّ
+> نَعْبُدَ إِلاَّ اللٌّهَ وَلاٌ نُشْرِكَ بِهِ شَيْئًا وَلاٌ يَتَّخِذَ
+> بَعْضُنٌا بَعْضاً أَرْبٌابًا مِّنْ دُونِ اللٌّهِ
 
 ***“Come to a common word between us and yourselves, that we worship
 none but God and associate none with Him, and that we take not each
@@ -1298,24 +1190,16 @@ the other person or some other form of mental torment.
 
 The Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَيُّهٌا الَّذِينَ ءٌامَنُوا لاٌ تُبْطِلُوا صَدَقٌتِكُمْ
-بِالْمَنِّ وَ الأَذى
-  </p>
-</blockquote>
+> يٌا أَيُّهٌا الَّذِينَ ءٌامَنُوا لاٌ تُبْطِلُوا صَدَقٌتِكُمْ
+> بِالْمَنِّ وَ الأَذى
 
 ***“O you who have faith! Do not render your charities void by
 reproaches and affronts.*****”**[^26]
 
 Another of the afflictions of good deeds is jealousy, as has been said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْحَسَدَ لَيَأْكُلُ الْحَسَنٌاتِ كَمٌا تَأْكُلُ النٌّارَ
-الْحَطَبَ
-  </p>
-</blockquote>
+> إِنَّ الْحَسَدَ لَيَأْكُلُ الْحَسَنٌاتِ كَمٌا تَأْكُلُ النٌّارَ
+> الْحَطَبَ
 
 ***“Verily envy eats away good deeds just as fire destroys
 wood.*****”**[^27]
@@ -1335,11 +1219,7 @@ afflictions.
 
 Imām \`Alī Ibn Abī Ťalib (as) says, defining Islām:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِسْلاٌمُ هُوَ التَّسْلِيمُ.
-  </p>
-</blockquote>
+> أَلإِسْلاٌمُ هُوَ التَّسْلِيمُ.
 
 *“Islām is submission.*”[^28]
 
@@ -1361,13 +1241,9 @@ describe this quality of denial.
 The Qur’ān has excellently described the presence of this quality in
 some people where it says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قٌالُوا اللٌّهُمَّ إِنْ كٌانَ هٌـذَا هُوَ الْحَقَّ مِنْ
-عِنْدِكَ فَأَمْطِرْ عَلَيْـنٌا حِجٌارَةً مِّنَ السَّمٌاءِ أَوِ
-ائْتِنَا بِعَذٌابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> وَإِذْ قٌالُوا اللٌّهُمَّ إِنْ كٌانَ هٌـذَا هُوَ الْحَقَّ مِنْ
+> عِنْدِكَ فَأَمْطِرْ عَلَيْـنٌا حِجٌارَةً مِّنَ السَّمٌاءِ أَوِ
+> ائْتِنَا بِعَذٌابٍ أَلِيمٍ
 
 ***“And when they said, O’ God, if this be the truth from You, rain down
 upon us stones from heaven, or bring us to a painful
@@ -1420,12 +1296,8 @@ tradition in Al-Kāfī that sheds light on this reality.
 Muhammad Ibn Muslim narrated that he heard Imām Muhammad Ibn \`Alī
 al-Bāqir (as) say:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ يَجُرُّهُ الإِقْرٌارُ وَالتَّسْلِيمُ فَهُوَ الإِيْمٌانُ،
-وَكُلُّ شَيْءٍ يَجُرُّهُ الإِنْكٌارُ وَالْجُحُودُ، فَهُوَ الْكُفْر
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ يَجُرُّهُ الإِقْرٌارُ وَالتَّسْلِيمُ فَهُوَ الإِيْمٌانُ،
+> وَكُلُّ شَيْءٍ يَجُرُّهُ الإِنْكٌارُ وَالْجُحُودُ، فَهُوَ الْكُفْر
 
 *“Everything that results from confession and submission is faith, and
 everything that results from denial and rejection is unbelief.*”[^31]
@@ -1507,12 +1379,8 @@ This is why in relation to the actions of those who disbelieve in which
 they have been compared to ashes which a strong wind blows upon and
 destroys, God tells us:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ أَعْمٌلَهُمْ كَرَمٌادِ
-اشَّتَدَتْ بِهِ الرِّيْحُ فِي يَوْمٍ عٌاصِفٍ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ أَعْمٌلَهُمْ كَرَمٌادِ
+> اشَّتَدَتْ بِهِ الرِّيْحُ فِي يَوْمٍ عٌاصِفٍ
 
 ***“A parable of those who defy their Lord: their deeds are like ashes
 over which the wind blows hard on a tempestuous day…***”[^32]
@@ -1555,14 +1423,10 @@ Lady Zaynab bint \`Alī (sa), in her famous address to the people of
 Kūfah, rebukes them for their negligence in coming to the defence of the
 truth and for oppressing and sinning against it. She said:
 
-<blockquote dir="rtl">
-  <p>
-يٌا أَهْلَ الْكُوفَةِ، يٌا أَهْلَ الْخَتْلِ وَالْغَدْرِ وَالْخَدْلِ،
-أَتَبْكُونَ؟ أَلاٌ فَلاٌ رَقَأَتِ الْعَبْرَةُ، وَلاٌ هَدَأَتِ
-الزَّفْرَةُ. إِنَّمٌا مَثَلُكُمْ كَمَثَلِ الَّتِي نَقَضَتْ غَزْلَهٌا
-مِنْ بَعْدِ قُوَّةٍ أَنْكٌاثاً
-  </p>
-</blockquote>
+> يٌا أَهْلَ الْكُوفَةِ، يٌا أَهْلَ الْخَتْلِ وَالْغَدْرِ وَالْخَدْلِ،
+> أَتَبْكُونَ؟ أَلاٌ فَلاٌ رَقَأَتِ الْعَبْرَةُ، وَلاٌ هَدَأَتِ
+> الزَّفْرَةُ. إِنَّمٌا مَثَلُكُمْ كَمَثَلِ الَّتِي نَقَضَتْ غَزْلَهٌا
+> مِنْ بَعْدِ قُوَّةٍ أَنْكٌاثاً
 
 *“O’ people of Kūfah! O’ people of deception treachery and disloyalty,
 do you weep? So let your tears not dry, and your cries not cease! Your
@@ -1582,15 +1446,11 @@ altogether, and sometimes is converted into an evil deed.”*
 
 Imām Muhammad Ibn \`Alī al-Bāqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلإِبْقٌاءُ عَلى الْعَمَلِ أَشَدُّ مِنَ الْعَمَلِ. قٌالَ (الرٌّاوِي):
-وَمٌا الإِبْقٌاءُ عَلى الْعَمَلِ؟ قٌالَ: يَصِلَ الرَّجُلُ بِصِلَةٍ
-وَيُنْفِقُ نَفَقَةً لِلٌّهِ وَحْدَهُ لاٌ شَرِيكَ لَهُ، فَتُكْتَبُ لَهُ
-سِرًّا، ثُمَّ يَذْكُرُهٌا فَتُمْحى فَتُكْتَبُ لَهُ عَلاٌنِيَةً، ثُمَّ
-يَذْكُرُهٌا فَتُمْحى وَتُكْتَبُ لَهُ رِيٌاءً
-  </p>
-</blockquote>
+> أَلإِبْقٌاءُ عَلى الْعَمَلِ أَشَدُّ مِنَ الْعَمَلِ. قٌالَ (الرٌّاوِي):
+> وَمٌا الإِبْقٌاءُ عَلى الْعَمَلِ؟ قٌالَ: يَصِلَ الرَّجُلُ بِصِلَةٍ
+> وَيُنْفِقُ نَفَقَةً لِلٌّهِ وَحْدَهُ لاٌ شَرِيكَ لَهُ، فَتُكْتَبُ لَهُ
+> سِرًّا، ثُمَّ يَذْكُرُهٌا فَتُمْحى فَتُكْتَبُ لَهُ عَلاٌنِيَةً، ثُمَّ
+> يَذْكُرُهٌا فَتُمْحى وَتُكْتَبُ لَهُ رِيٌاءً
 
 *“Preserving a deed is harder than the deed itself.”* The narrator asked
 what preserving a deed meant. The Imām replied, *“A person does a good
@@ -1668,5 +1528,4 @@ Volume 1, Page 8.
 [^33]: Nafas al-Mahmūm, Page 339
 
 [^34]: Wasā'ilush Shī\`a, Volume 1, Page 55
-
 

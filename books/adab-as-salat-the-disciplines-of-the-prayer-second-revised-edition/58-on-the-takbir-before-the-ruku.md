@@ -46,4 +46,3 @@ the attributes of the creatures.
 
 [^2]: Refer to footnote 273
 
-

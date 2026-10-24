@@ -223,4 +223,3 @@ to achieve success; bring in the rule of justice and fair play; make us
 bright, free from grief; and take care of us. Through Thy mercy, O most
 Merciful.
 
-

@@ -353,7 +353,6 @@ faith, namely Mecca, to live in the Christian land of Abyssinia. With
 just twelve refugees there was never a question of starting a movement
 with this step.
 
-
 The next time when the pressure upon the Muslims increased, the Prophet
 ordered a larger emigration, and it is said that the time there were
 seventy men together with their wives and children. In the second
@@ -550,5 +549,4 @@ recreational attractions so that it would draw people of the faith as
 the foremost factor. Even now a pilgrimage to this land as compared to
 other recreational and tourist places is quite different from the
 viewpoint of expense and endurance of hardships.
-
 

@@ -37,7 +37,6 @@ associated to religion. "There is no way out for them!" But, they can
 neither dare to given up their beliefs, nor have any Inclination towards
 these religiously coloured racial traditions!
 
-
 What should they do! what is the way out? They are dragged in this
 invincible tussle!……………….They break, they burst forth, and at a later
 stage, get absorbed in the "defected generation", as configured
@@ -98,7 +97,6 @@ May Allah accept our efforts, and bless, it with recognition!
 
 ldara Tamaddun-i-lslam
 \*\*\*\*\*\*\*\*\*
-
 
 **2. It all starts from here**
 
@@ -333,7 +331,6 @@ only through the prescribed procedure, the processed as explained by the
 religion, and under all circumstances it is necessary to keep in view
 all of it's details.
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 5.A1-Baqara, Verse: 201
 6. Surah: 53 Al-Najam Verse: 39
@@ -414,5 +411,4 @@ the other side, when incorporated in ones practical life, guarantee's a
 sure success.
 
 \* \*\*\*\* \*\*\*
-
 

@@ -37,13 +37,9 @@ and their materialization is definite and determined. The assumption of
 definiteness and fixedness is in conflict with free-will. For instance,
 the Holy Qur’an also explicitly declares, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأرْضِ وَلا فِي أَنْفُسِكُمْ إِلا
-فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللَّهِ
-يَسِيرٌ ﴾
-  </p>
-</blockquote>
+> ﴿ مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأرْضِ وَلا فِي أَنْفُسِكُمْ إِلا
+> فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللَّهِ
+> يَسِيرٌ ﴾
 
 ***“No affliction visits the earth or yourselves but it is in a Book
 before We bring it about—that is indeed easy for Allah.”***[^1]
@@ -58,22 +54,14 @@ used to refer to God as well as to the human being.
 
 *Qaḍā* in the following verse means the verbal *qaḍā* of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ ﴾
 
 ***“Your Lord has decreed that you shall not worship anyone except
 Him.”***[^2]
 
 And in the following verse it refers to *qaḍā* of God’s action:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ ﴾
 
 ***“Then He set them up as seven heavens in two days.”***[^3]
 
@@ -81,11 +69,7 @@ Similarly, what is referred to in the expression “The judge decrees
 (*qaḍā*) so-and-so” is the human verbal *qaḍā*. And what is meant by the
 word *qaḍaytum* in the following verse is the *qaḍā* of a human action:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ ﴾
 
 ***“And when you finish your rites...”***[^4]
 
@@ -132,39 +116,23 @@ What is meant by the Divine decree is that God has foreknowledge of the
 limits and characteristics of each of the creatures and as such, they
 will be materialized. For instance, the Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنْ مِنْ شَيْءٍ إِلّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ
-إِلّا بِقَدَرٍ مَعْلُومٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنْ مِنْ شَيْءٍ إِلّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ
+> إِلّا بِقَدَرٍ مَعْلُومٍ ﴾
 
 ***“There is not a thing but that its sources are with Us, and We do not
 send it down except in a known measure.”***[^9]
 
 It is also stated, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا ﴾
 
 ***“Certainly Allah has set a measure for everything.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ﴾
 
 ***“Indeed We have created everything in a measure.”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ ﴾
 
 ***“And everything is by [precise] measure with Him.”***[^12]
 
@@ -177,22 +145,14 @@ In a tradition narrated by Yūnus ibn ‘Abd al-Raḥmān from Imām al-Riḍā
 fixedness and limits of the things. For instance, on the interpretation
 of *qadar*, it is thus stated:
 
-<blockquote dir="rtl">
-  <p>
-هِيَ الهَنْدَسَةُ وَوَضْعُ الحُدودِ مِنَ البَقاءِ والفَناءِ.
-  </p>
-</blockquote>
+> هِيَ الهَنْدَسَةُ وَوَضْعُ الحُدودِ مِنَ البَقاءِ والفَناءِ.
 
 “It is the geometry and determination of the limits [of a thing] in
 terms of subsistence and extinction.”
 
 And on the interpretation of *qaḍā*, it is thus stated:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الإبرامُ وَإقامَةُ العَينِ.
-  </p>
-</blockquote>
+> هُوَ الإبرامُ وَإقامَةُ العَينِ.
 
 “It is to strengthen and build up a reality.”[^14]
 
@@ -365,13 +325,9 @@ The Divine Guidance and Misguidance and Man’s Freewill
 In some Qur’anic verses, it is clearly stated that God guides whoever He
 wills and misguides whoever He wills. For instance, it is thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ
-لَهُمْ فَيُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ وَهُوَ
-الْعَزِيزُ الْحَكِيمُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ
+> لَهُمْ فَيُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ وَهُوَ
+> الْعَزِيزُ الْحَكِيمُ ﴾
 
 ***“We did not send any apostle except with the language of his
 people,*** ***so that he might make [Our messages] clear to them. Then
@@ -386,11 +342,7 @@ Qur’an by the Qur’an, and one must study a set of verses through another
 set because as Imām ‘Alī (*‘a*) said, some verses of the Qur’an are
 interpretations of some other verses:
 
-<blockquote dir="rtl">
-  <p>
-يَنْطِقُ بَعْضُهُ بِبَعْضٍ وَيَشْهَدُ بَعْضُهُ عَلى بَعْضٍ.
-  </p>
-</blockquote>
+> يَنْطِقُ بَعْضُهُ بِبَعْضٍ وَيَشْهَدُ بَعْضُهُ عَلى بَعْضٍ.
 
 “Some speak about some others and some testify to some others.”[^23]
 
@@ -402,34 +354,22 @@ with the issue of man’s free-will.
 First of all, in some verses of the Qur’an, guidance and misguidance
 have been delegated to man’s free-will and desire, as it is thus stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقُلِ الْحَقُّ مِن رَّبِّكُمْ فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء
-فَلْيَكْفُرْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَقُلِ الْحَقُّ مِن رَّبِّكُمْ فَمَن شَاء فَلْيُؤْمِن وَمَن شَاء
+> فَلْيَكْفُرْ ﴾
 
 ***“And say, ‘[This is] the truth from your Lord: let anyone who wishes
 believe it, and let anyone who wishes disbelieve it’.”***[^24]
 
 It is also said, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ هَذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلا
-﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ هَذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلا
+> ﴾
 
 ***“This is indeed a reminder. So let anyone who wishes take the way
 toward his Lord.”***[^25]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنْ هُوَ إِلّا ذِكْرٌ لِلْعَالَمِينَ ٭ لِمَنْ شَاءَ مِنْكُمْ أَنْ
-يَسْتَقِيمَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنْ هُوَ إِلّا ذِكْرٌ لِلْعَالَمِينَ ٭ لِمَنْ شَاءَ مِنْكُمْ أَنْ
+> يَسْتَقِيمَ ﴾
 
 ***“It is just a reminder for all the nations, for those of you who wish
 to be steadfast.”***[^26]
@@ -439,11 +379,7 @@ acts independently, and thus, he himself is the independent agent of his
 voluntary actions, there is a reminder that man’s free-will cannot be
 formed except through the will of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا تَشَاءُونَ إِلّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا تَشَاءُونَ إِلّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ ﴾
 
 ***“But you do not wish unless it is wished by Allah, the Lord of the
 worlds.”***[^27]
@@ -457,13 +393,9 @@ ability have been stated.
 
 1. Faith and clinging to Allah
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ
-فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ
-صِرَاطًا مُسْتَقِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ
+> فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ
+> صِرَاطًا مُسْتَقِيمًا ﴾
 
 ***“As for those who have faith in Allah, and hold fast to Him, He will
 admit them to His mercy and grace, and He will guide them on a straight
@@ -471,14 +403,10 @@ path to Him.”***[^28]
 
 2. Doing that which pleases Allah
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ ٭ يَهْدِي بِهِ
-اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلامِ وَيُخْرِجُهُمْ مِنَ
-الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ وَيَهْدِيهِمْ إِلَى صِرَاطٍ
-مُسْتَقِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ ٭ يَهْدِي بِهِ
+> اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلامِ وَيُخْرِجُهُمْ مِنَ
+> الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ وَيَهْدِيهِمْ إِلَى صِرَاطٍ
+> مُسْتَقِيمٍ ﴾
 
 ***“Certainly there has come to you a light from Allah and a manifest
 Book. With it Allah guides those who follow [the course of] His pleasure
@@ -487,24 +415,16 @@ His will, and guides them to a straight path.”***[^29]
 
 3. Struggle in the way of Allah
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
-اللَّهَ لَمَعَ الْمُحْسِنِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ
+> اللَّهَ لَمَعَ الْمُحْسِنِينَ ﴾
 
 ***“As for those who strive in Us, We shall surely guide them in Our
 ways, and Allah is indeed with the virtuous.”***[^30]
 
 3. Repentance and humility to Allah
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ يَجْتَبِي إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ
-يُنِيبُ ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ يَجْتَبِي إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ
+> يُنِيبُ ﴾
 
 ***“Allah chooses for it whomever He wishes and He guides to it whoever
 returns penitently.”***[^31]
@@ -513,13 +433,9 @@ returns penitently.”***[^31]
 
 1. Friendship with the enemies of God
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي
-وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ... وَمَن
-يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي
+> وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ... وَمَن
+> يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ ﴾
 
 ***“O you who have faith! Do not take My enemy and your enemy for
 friends, [secretly] offering them affection (for they have certainly
@@ -529,37 +445,25 @@ among you does that has certainly strayed from the right way.”***[^32]
 
 2. Following the chiefs of corruption and arrogance
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا
-فَأَضَلُّونَا السَّبِيلا ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا
+> فَأَضَلُّونَا السَّبِيلا ﴾
 
 ***“And they will say, ‘Our Lord! We obeyed our leaders and elders, and
 they led us astray from the way.”***[^33]
 
 3. Imaginary and delusive calculation
 
-<blockquote dir="rtl">
-  <p>
-﴿ اُنْظُرْ كَيْفَ ضَرَبُوا لَكَ الأمْثَالَ فَضَلُّوا فَلا
-يَسْتَطِيعُونَ سَبِيلا ﴾
-  </p>
-</blockquote>
+> ﴿ اُنْظُرْ كَيْفَ ضَرَبُوا لَكَ الأمْثَالَ فَضَلُّوا فَلا
+> يَسْتَطِيعُونَ سَبِيلا ﴾
 
 ***“Look, how they coin epithets for you; so they go astray, and cannot
 find a way.”***[^34]
 
 4. Attachment to materialistic life
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَى الآخِرَةِ
-وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا أُولَئِكَ فِي
-ضَلالٍ بَعِيدٍ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَى الآخِرَةِ
+> وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا أُولَئِكَ فِي
+> ضَلالٍ بَعِيدٍ ﴾
 
 ***“[They are] those who prefer the life of this world to the Hereafter,
 and bar [others] from the way of Allah, and seek to make it crooked.
@@ -567,13 +471,9 @@ They are in extreme error.”***[^35]
 
 5. Association with the deviants
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلانًا خَلِيلا ٭ لَقَدْ
-أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ
-لِلإنْسَانِ خَذُولا ﴾
-  </p>
-</blockquote>
+> ﴿ يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلانًا خَلِيلا ٭ لَقَدْ
+> أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ
+> لِلإنْسَانِ خَذُولا ﴾
 
 ***“Woe to me! I wish I had not taken so and so as a friend! Certainly
 he led me astray from the Reminder after it had come to me, and Satan is
@@ -705,5 +605,4 @@ contents.
 [^35]: Sūrat Ibrāhīm 14:3.
 
 [^36]: Sūrat al-Furqān 25:28-29.
-
 

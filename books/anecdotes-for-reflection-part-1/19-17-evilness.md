@@ -3,22 +3,14 @@
 
 Allah, the Wise, says:
 
-<blockquote dir="rtl">
-  <p>
-عَسى‏َ أَنْ تُحِبُّوا شَيْئاً وَ هُوَ شَرٌّ لَكُمْ
-  </p>
-</blockquote>
+> عَسى‏َ أَنْ تُحِبُّوا شَيْئاً وَ هُوَ شَرٌّ لَكُمْ
 
 *(It may be that you love a thing while it is evil for you)*[^1]
 
 Imam Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ الْعَمَلَ السَّيِّئَ أَسْرَعُ فِي صَاحِبِهِ مِنَ السِّكِّينِ
-فِي اللَّحْمِ
-  </p>
-</blockquote>
+> وَ إِنَّ الْعَمَلَ السَّيِّئَ أَسْرَعُ فِي صَاحِبِهِ مِنَ السِّكِّينِ
+> فِي اللَّحْمِ
 
 *(Surely, the effect of an evil deed upon the doer is faster than that
 of a knife upon a piece of meat.)*[^2]
@@ -319,5 +311,4 @@ vol. 8, pg. 544.
 pg. 57.
 
 [^11]: Daastaan-ha-e-Shigift, pg. 292.
-
 

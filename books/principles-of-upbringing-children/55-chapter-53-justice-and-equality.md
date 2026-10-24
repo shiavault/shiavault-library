@@ -170,4 +170,3 @@ younger sister cooks better food.’"
 
 [^7]: Sunan, Ibn Majah,v72, p. 1210
 
-

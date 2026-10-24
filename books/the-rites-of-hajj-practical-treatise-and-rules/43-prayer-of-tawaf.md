@@ -132,4 +132,3 @@ Attention and cares of scholars of Tajwid (proper pronunciation during
 recitation) are not necessary, and it is enough if people say that it is
 a correct recitation according to common Arabic pronunciation.
 
-

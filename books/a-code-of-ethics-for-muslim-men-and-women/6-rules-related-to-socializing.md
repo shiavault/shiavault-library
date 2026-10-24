@@ -1,22 +1,14 @@
 Rules related To socializing
 ============================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرّحمن الرّحيم
-  </p>
-</blockquote>
+> بسم الله الرّحمن الرّحيم
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي
-الْأَرْضِ مَا يَكُونُ مِن نَّجْوَى ثَلاًثَةٍ إلاَّ هُوَ رَابِعُهُمْ
-وَلاَ خَمْسَةٍ إِلاَّ هُوَ سَادِسُهُمْ وَلاَ أَدْنَى مِن ذَلِكَ وَلاَ
-أَكْثَرَ إِلاَّ هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ثُمَّ يُنَبِّئُهُم
-بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ
-عَلِيمٌ .
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي
+> الْأَرْضِ مَا يَكُونُ مِن نَّجْوَى ثَلاًثَةٍ إلاَّ هُوَ رَابِعُهُمْ
+> وَلاَ خَمْسَةٍ إِلاَّ هُوَ سَادِسُهُمْ وَلاَ أَدْنَى مِن ذَلِكَ وَلاَ
+> أَكْثَرَ إِلاَّ هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ثُمَّ يُنَبِّئُهُم
+> بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ
+> عَلِيمٌ .
 
 ***“Do you not see that Allah knows whatever is in the heavens and
 whatever is in the earth? Nowhere is there a secret counsel between
@@ -587,5 +579,4 @@ specific way in front of a non-Mahram so as to make them fall into sin;
 putting on a necklace, keeping the arms and chest open with the aim of
 drawing the attention of non-Mahram women, etc… all of these and other
 such things are haram and one must refrain from performing them.
-
 

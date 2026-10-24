@@ -137,4 +137,3 @@ first and the remainder, if any, should be applied to other parts.
 **599.** It is also recommended that 2 pieces of fresh and green twigs
 are placed with the dead body.
 
-

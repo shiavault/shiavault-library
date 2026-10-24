@@ -27,4 +27,3 @@ infinitives if they have more than three letters, for example:
 **إحسان,** masculine non-rational beings in the diminutive form, for
 example: **دُرَیهِم** and as adjectives, for example: **معدود.**
 
-

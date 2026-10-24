@@ -27,4 +27,3 @@ Imams wore all gifted with such knowledge which others were not
 acquainted with. A rotating chain of the sayings of the Prophet (S)
 support this.
 
-

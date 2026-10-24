@@ -3,12 +3,8 @@ Lesson Two: Measure of Deliberation
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"صَلاحُ حالِ التَّعايُشِ و التَّعاشُرِ مِلء مِكْيال ثُلْثَاهُ فِطْنَةٌ
-وَ ثُلْثَهُ تَغافُلٌ"
-  </p>
-</blockquote>
+> "صَلاحُ حالِ التَّعايُشِ و التَّعاشُرِ مِلء مِكْيال ثُلْثَاهُ فِطْنَةٌ
+> وَ ثُلْثَهُ تَغافُلٌ"
 
 Translation
 -----------
@@ -37,5 +33,4 @@ some non-vigilance or expediency (for the remaining one third).
 
 [^1]: From the book Tuhaful Uqul, page 267; Bihar Al-Anwar Vol 75, page
 241
-
 

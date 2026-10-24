@@ -3,11 +3,7 @@ Lesson Eighty Four: Two Things Cause Destruction Of People
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-أَهْلَكَ النّاسَ إِثْنانِ خَوْفُ الْفَقْرِ وَ طَلَبُ الْفَخْرِ
-  </p>
-</blockquote>
+> أَهْلَكَ النّاسَ إِثْنانِ خَوْفُ الْفَقْرِ وَ طَلَبُ الْفَخْرِ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ man to enjoy inner peace and happiness.
 
 [^1]: Tuhaful Uqul. Mustadrak AlWasail, vol 12, page 91. AlKhisal, vol
 1, page 68.
-
 

@@ -66,4 +66,3 @@ But as soon as you stop the rotation, the stone will fall down on the
 ground. In the same way the perpetual motion of stars keeps them from
 falling down.
 
-

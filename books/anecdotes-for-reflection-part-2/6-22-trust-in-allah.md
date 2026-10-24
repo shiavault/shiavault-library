@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِِذاَ عَزَمْتَ فَتَوَکَّلْ عَلى اللٌّهِ اِنَّ اللٌّهَ يُحِـبُّ
-الْمُتَوَکِّلِيْنَ
-  </p>
-</blockquote>
+> فَإِِذاَ عَزَمْتَ فَتَوَکَّلْ عَلى اللٌّهِ اِنَّ اللٌّهَ يُحِـبُّ
+> الْمُتَوَکِّلِيْنَ
 
 “So when you have decided, then place your trust in Allah; surely Allah
 loves those who trust.”[^1]  
  Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلتَّوَكُّلُ عَلى اللٌّهِ نَجاَةٌ مِنْ كُلِّ سُوْءٍ.
-  </p>
-</blockquote>
+> أَلتَّوَكُّلُ عَلى اللٌّهِ نَجاَةٌ مِنْ كُلِّ سُوْءٍ.
 
 “Placing one’s trust in Allah is the means of deliverance from every
 evil.”[^2]
@@ -156,11 +148,7 @@ and scented with musk, also came up to the tree.
 I concealed myself fearing that if I came forward, he would move away to
 another place. The youth readied himself for his prayers, recited:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ حَاذَ کُلََّ شَيْءٍٍٍ مَلَکُوْتاً
-  </p>
-</blockquote>
+> يَا مَنْ حَاذَ کُلََّ شَيْءٍٍٍ مَلَکُوْتاً
 
 and then started his prayers.  
  I noticed that there was a spring of water nearby. I performed my
@@ -170,11 +158,7 @@ narrated Divine chastisement and punishment, he would repeat them with
 wailing, weeping and lamentation. After the prayers, the youth began to
 walk away from his place, all the while supplicating:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ قَصَدَهُ الضَّالُّونَ
-  </p>
-</blockquote>
+> يَا مَنْ قَصَدَهُ الضَّالُّونَ
 
 Fearing that I might lose him, I rushed toward him and pleaded: “I place
 you under the oath of He Who has taken away exhaustion from you and
@@ -276,5 +260,4 @@ fraction of a moment, miraculously. (Tr.)
 24
 
 [^9]: Namunah-e-Ma’arif, Volume 3, Page 280; Layaliul Akhbar, Page 92
-
 

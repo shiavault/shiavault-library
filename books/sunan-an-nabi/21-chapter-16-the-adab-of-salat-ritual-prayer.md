@@ -629,16 +629,12 @@ protected: So he (S) answered him: The *tawajjuh* is entirely
 non-obligatory, and the highly recommended *sunnah* which has been
 agreed upon is (for one to recite):
 
-<blockquote dir="rtl">
-  <p>
-وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمٌوَاتِ وَالأَرْضَ حَنِيفاً
-مسْلِماً وَمَا أَنَا مِنَ الْمُشْرِكِينَ. إِنَّ صَلاَتِي وَنُسُكِي
-وَمَحْـيَايَ وَمَمَاتِي لِلٌّهِ رَبِّ الْعَالَمِينَ لاَ شَرِيكَ لَهُ،
-وَبِذٌلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ. أَللٌّهُمَّ
-اجْعَلْنِي مِنَ الْمُسْلِمِينَ. أَعُوذُ بِاللٌّه السَّمِيعِ الْعَلِيمِ
-مِنَ الشَّيْطَانِ الرَّجِيمِ. بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ.
-  </p>
-</blockquote>
+> وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمٌوَاتِ وَالأَرْضَ حَنِيفاً
+> مسْلِماً وَمَا أَنَا مِنَ الْمُشْرِكِينَ. إِنَّ صَلاَتِي وَنُسُكِي
+> وَمَحْـيَايَ وَمَمَاتِي لِلٌّهِ رَبِّ الْعَالَمِينَ لاَ شَرِيكَ لَهُ،
+> وَبِذٌلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ. أَللٌّهُمَّ
+> اجْعَلْنِي مِنَ الْمُسْلِمِينَ. أَعُوذُ بِاللٌّه السَّمِيعِ الْعَلِيمِ
+> مِنَ الشَّيْطَانِ الرَّجِيمِ. بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ.
 
 *“I have turned myself wholly towards the One who originated the heavens
 and the earth and I am not from the polytheists. Verily my prayer and my
@@ -746,13 +742,9 @@ stood and we walked in front of him, he raised his head toward the
 heavens and recited the *takbir* four times ... and when he came to the
 door he stopped briefly and said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، عَلى مَا
-هَدَانَا، أَللٌّهُ أَكْبَرُ عَلى مَا رَزَقَنَا مِنْ بَهِيمَةِ
-الأَنْعَامِ، وَالْحَمْدُ لِلٌّهِ عَلى مَا أَبْلاَنَا.
-  </p>
-</blockquote>
+> أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، عَلى مَا
+> هَدَانَا، أَللٌّهُ أَكْبَرُ عَلى مَا رَزَقَنَا مِنْ بَهِيمَةِ
+> الأَنْعَامِ، وَالْحَمْدُ لِلٌّهِ عَلى مَا أَبْلاَنَا.
 
 *“Allah is the Greatest, Allah is the Greatest, Allah is the Greatest
 for that which He has guided us to. Allah is the Greatest for what He
@@ -802,12 +794,8 @@ al-Da’aim.[^121]
 89. In al-Faqih: When the Holy Prophet (S) supplicated for rain he would
 recite:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اسْقِ عِبَادَكَ وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ،
-وَأَحْيِي بِلاَدَكَ الْمَيِّتَةَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اسْقِ عِبَادَكَ وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ،
+> وَأَحْيِي بِلاَدَكَ الْمَيِّتَةَ.
 
 *“O Allah! Give water to Your servants and Your creatures, and spread
 Your mercy, and give life to Your lifeless land.”*
@@ -937,13 +925,9 @@ al-Hamd).[^148]
 111. In ‘Awarif al-Ma’arif: Amir al-Mu’minin (as) narrated that the
 Noble Prophet (S) used to say in his *sajdah*:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ، سَجَدَ
-وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ،
-فَتَبَارَكَ اللٌّهُ أَحْسَنُ الْخَالِقِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ، سَجَدَ
+> وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ،
+> فَتَبَارَكَ اللٌّهُ أَحْسَنُ الْخَالِقِينَ.
 
 *“O Allah! I have prostrated before You, and believed in You and
 submitted myself to You. My face has prostrated to the One who created
@@ -954,12 +938,8 @@ blessed is Allah the best of Creators.”*[^149]
 al-Mu’minin (as) wrote to Muhammad ibn Abi Bakr: Observe your *ruku’*
 ... and when the Holy Prophet (S) stood from the *ruku’* he said:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعَ اللٌّهُ لِمَنْ حَمِدَهُ، أَللٌّهُمَّ لَكَ الْحَمْدُ مِلْءَ
-سَمٌوَاتِكَ، وَمِلْءَ أَرْضِكَ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ.
-  </p>
-</blockquote>
+> سَمِعَ اللٌّهُ لِمَنْ حَمِدَهُ، أَللٌّهُمَّ لَكَ الْحَمْدُ مِلْءَ
+> سَمٌوَاتِكَ، وَمِلْءَ أَرْضِكَ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ.
 
 *“Allah listens to the one who glorifies Him. O Allah! Glory be to You,
 (a glory that is) filling Your heavens and filling Your earth and
@@ -969,13 +949,9 @@ filling up whatever You wish.”*[^150]
 two *sajdahs* – it has been narrated from the Holy Prophet (S) that he
 used to say between them:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَ أَجِرْنِي وَعَافِـنِي إِنِّي
-لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ. تَبَارَكَ اللٌّهُ رَبُّ
-الْعَالَمِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَ أَجِرْنِي وَعَافِـنِي إِنِّي
+> لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ. تَبَارَكَ اللٌّهُ رَبُّ
+> الْعَالَمِينَ.
 
 *“O Allah! Forgive me, and have mercy on me, and keep me safe and grant
 me well-being. I am needy of the good that You have sent down to me.
@@ -1013,12 +989,8 @@ night of the month of Ramad’an ten rak’ahs, reciting in every rak’ah
 (Surah al-Ikhlas) ten times and reciting in his *ruku’* and his *sujud*
 ten times:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللٌّهِ وَالْحَمْدُ لِلٌّهِ وَلاَ إِلٌهَ إِلاَّ اللٌّهُ
-وَاللٌّهُ أَكْبَرُ.
-  </p>
-</blockquote>
+> سُبْحَانَ اللٌّهِ وَالْحَمْدُ لِلٌّهِ وَلاَ إِلٌهَ إِلاَّ اللٌّهُ
+> وَاللٌّهُ أَكْبَرُ.
 
 *“Subhanallahi wal Hamdu Lillahi wa La Ilaha Illallahu Wallahu Akbar”*
 and recites the *tashahhud* and *salam* after every two rak’ahs. And
@@ -1026,14 +998,10 @@ when he completes the last of the ten rak’ahs, after the *salam* he
 recites: *‘Astaghfirullah’* one thousand times after which he goes into
 sajdah and says:
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ يَا قَـيُّومُ، يَا ذَا الْجَلاَلِ وَالإِكْرَامِ، يَا
-رَحْمٌنُ الدُّنْـيَا وَالآخِرَةِ وَرَحِيمَهُمَا، يَا أَرْحَمَ
-الرَّاحِمِينَ، يَا إِلٌهَ الأَوَّلِينَ وَالآخِرِينَ، إِغْفِرْ لَنَا
-ذُنُوبَنَا، وَتَقَبَّلْ مِنَّا صَلاَتَناَ وَصِيَامَنَا وَقِيَامَنَا.
-  </p>
-</blockquote>
+> يَا حَيُّ يَا قَـيُّومُ، يَا ذَا الْجَلاَلِ وَالإِكْرَامِ، يَا
+> رَحْمٌنُ الدُّنْـيَا وَالآخِرَةِ وَرَحِيمَهُمَا، يَا أَرْحَمَ
+> الرَّاحِمِينَ، يَا إِلٌهَ الأَوَّلِينَ وَالآخِرِينَ، إِغْفِرْ لَنَا
+> ذُنُوبَنَا، وَتَقَبَّلْ مِنَّا صَلاَتَناَ وَصِيَامَنَا وَقِيَامَنَا.
 
 *“O Ever-Living! O Self-Subsisting! O Lord of Might and Majesty! O
 Merciful in this world and hereafter and Compassionate in them both! O
@@ -1070,41 +1038,25 @@ and the Holy Prophet (S) came forward and the angels and the prophets
 lined up behind the Prophet (S). He said: We asked him: How did he
 recite the *adhan*? He replied: (He said)
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، أَشْهَدُ أَنْ لاَ إِلٌهَ إِلاَّ
-اللٌّهَ، أَشْهَدُ أَنْ لاَ إِلٌهَ إِلاَّ اللٌّهَ، أَشْهَدُ أَنَّ
-مُحَمَّداً رَسُولُ اللٌّهِ، أَشْهَدُ أَنَّ مُحَمَّداً رَسُولُ اللٌّهَ،
-حَيَّ عَلى الصَّلاَةِ، حَيَّ عَلى الصَّلاَةِ، حَيَّ عَلى الْفَلاَحِ،
-حَيَّ عَلى الْفَلاَحِ، حَيَّ عَلى خَيْرِ الْعَمَلِ، حَيَّ عَلى خَيْرِ
-الْعَمَلِ، أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، لاَ إِلٌهَ إِلاَّ
-اللٌّهِ، لاَ إِلٌهَ إِلاَّ اللٌّهَ.
-  </p>
-</blockquote>
+> أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، أَشْهَدُ أَنْ لاَ إِلٌهَ إِلاَّ
+> اللٌّهَ، أَشْهَدُ أَنْ لاَ إِلٌهَ إِلاَّ اللٌّهَ، أَشْهَدُ أَنَّ
+> مُحَمَّداً رَسُولُ اللٌّهِ، أَشْهَدُ أَنَّ مُحَمَّداً رَسُولُ اللٌّهَ،
+> حَيَّ عَلى الصَّلاَةِ، حَيَّ عَلى الصَّلاَةِ، حَيَّ عَلى الْفَلاَحِ،
+> حَيَّ عَلى الْفَلاَحِ، حَيَّ عَلى خَيْرِ الْعَمَلِ، حَيَّ عَلى خَيْرِ
+> الْعَمَلِ، أَللٌّهُ أَكْبَرُ، أَللٌّهُ أَكْبَرُ، لاَ إِلٌهَ إِلاَّ
+> اللٌّهِ، لاَ إِلٌهَ إِلاَّ اللٌّهَ.
 
 And the *iqamah* was similar except that it included:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ قَامَتِ الصَّلاَةِ، قَدْ قَامَتِ الصَّلاَةِ.
-  </p>
-</blockquote>
+> قَدْ قَامَتِ الصَّلاَةِ، قَدْ قَامَتِ الصَّلاَةِ.
 
 Which was recited between the:
 
-<blockquote dir="rtl">
-  <p>
-حَيَّ عَلى خَيْرِ الْعَمَلِ.
-  </p>
-</blockquote>
+> حَيَّ عَلى خَيْرِ الْعَمَلِ.
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُ أَكْبَرُ.
-  </p>
-</blockquote>
+> أَللٌّهُ أَكْبَرُ.
 
 And the Holy Prophet (S) instructed Bilal (to recite it like this) and
 he continued reciting this *adhan* until the Prophet (S) passed
@@ -1564,5 +1516,4 @@ Shaykh Nasir Makarim Shirazi)
 [^177]: Da\`aim al-Islam 1:200
 
 [^178]: Ibid., 1:202
-
 

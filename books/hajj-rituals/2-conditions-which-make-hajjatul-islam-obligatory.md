@@ -665,4 +665,3 @@ possible. However, if he dies, pilgrimage has to be performed by way of
 qadha, from his estate. Should someone performs it for him gratuitously,
 after his death, it is in order.
 
-

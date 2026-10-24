@@ -593,4 +593,3 @@ al–Tafsir* by Sheikh Qutbuddin al–Rawandi. Replete with facts and
 subtleties, it is one of the best commentaries written after the time of
 Sheikh al–Tusi.
 
-

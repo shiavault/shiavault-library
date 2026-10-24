@@ -195,4 +195,3 @@ Shi’ism.
 [^2]: We have already dealt with his life in our preface to Shi’ite
 Islam, pp. 22- 25.
 
-

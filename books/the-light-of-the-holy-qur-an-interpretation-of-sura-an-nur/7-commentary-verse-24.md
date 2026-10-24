@@ -47,7 +47,6 @@ inevitable."[^1]
 
 [^1] Nur-uth-Thaqalyn, 'Usul-i-Kafi, Vol.2 p. 32
 
-
 **Commentary : Verse 25**
 
 25. يَوْمَئِذٍ يُوَفّـِيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ
@@ -153,5 +152,4 @@ awaits them. The verse concludes:
 the companions of Imams sometimes asked about 'KhabIthah' and they were
 answered negatively. This itself shows that the word 'khAbithah' refers
 to unchaste women, not evil 'words' or evil 'deeds'.
-
 

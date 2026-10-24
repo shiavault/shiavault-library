@@ -12,12 +12,8 @@ Message, including:
 
 1. The verse of Purification (Tathir):
 
-<blockquote dir="rtl">
-  <p>
- إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+>  إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“...Allah only desires to keep away the uncleanness from you O people
 of the house! And to purify you a (thorough) purifying.” Holy Qur'an
@@ -37,13 +33,9 @@ Ahlul Bayt (as), and that they were Islam incarnate.
 
 2. The Verse of Malediction (Mubahalah):
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
-وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
-لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
+> وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
+> لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
 
 ***“...come let us call our sons and your sons and our women and your
 women and our near people and your near people,...” Holy Qur'an
@@ -70,12 +62,8 @@ Allah and His Messenger (S).
 
 3. The verse of Affection (Mawaddah):
 
-<blockquote dir="rtl">
-  <p>
- قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+>  قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***“...Say: I do not ask of you any reward for it but love for my near
 relatives...” Holy Qur'an (42:23)***
@@ -174,5 +162,4 @@ al-Maliki, Al-Fusool al-Muhimmah (Important Chapters), Tawfeeq Abu-Alam,
 I'lam al-Wara (Informing humankind), al-Tabarsi, Ahlul Bayt, and Sayy'id
 Muhsin al-Ameen al-Amili, al-Majalis al-Saniyyah. They were reported in
 many books other than these.
-
 

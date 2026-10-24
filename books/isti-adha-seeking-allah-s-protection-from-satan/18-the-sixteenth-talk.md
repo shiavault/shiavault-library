@@ -1,20 +1,12 @@
 The Sixteenth Talk
 ==================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura An-Nahl, 16:99)***
@@ -23,7 +15,6 @@ on their Lord. (Sura An-Nahl, 16:99)***
 
 Tawakkul or Trust in Allah (S.w.T.) Essential Part of Practicing Monotheism
 ---------------------------------------------------------------------------
-
 
 The topic of *Tawakkul* is one of the most important of the aspects of
 the religion of Islam because the essential part of monotheism is
@@ -44,7 +35,6 @@ the Universe. He should also have belief in the fact that the very
 existence of the universe is the miraculous phenomenon of the *Musabbib
 al-Haqeeqi* or the real doer of things and the absolute Creator, that is
 Allah (S.w.T.) and not something that evolved by itself.
-
 
 Dependence on Allah (S.w.T.) for the Success of the Tasks That One Strives to Do
 --------------------------------------------------------------------------------
@@ -67,7 +57,6 @@ that he is incapable of handling his case himself, he has retained the
 attorney. Then he has to trust him and proceed according to the advice
 tendered by him.
 
-
 Essential to Have a Wakil or Attorney
 -------------------------------------
 
@@ -87,7 +76,6 @@ al-Mawla wa ni’m an-Naseer.*
 Satan Runs Away From The Mutawakkil or the One Resigned to the Will of Allah (S.w.T.)
 -------------------------------------------------------------------------------------
 
-
 It has been narrated that when a person stirs out of his house in the
 morning, the satans will be waiting for him at the threshold. But when
 he steps out of the house and says, “*Aamantu billahi tawakkaltu ‘alal
@@ -100,7 +88,6 @@ a fact that if you trust your Wakil, He is Omnipotent and can keep away
 from you all difficulties and hardships. He will help you get all the
 profits that He deems are legitimate. There is none more generous and
 powerful than Allah (S.w.T.).
-
 
 Ibn Zubair’s Rebellion After the Event of Karbala
 -------------------------------------------------
@@ -129,7 +116,6 @@ general massacre there to the maximum possible extent.
 
 Imam Zayn Al-’Abidin and a Saintly Personality
 ----------------------------------------------
-
 
 On one hand there was the scheming of Ibn Zubair and on the other
 Yazid’s hordes. It was only after a few days of the tragic events of
@@ -172,10 +158,8 @@ And the person disappeared from the view!
 About this event Allama Majlisi says, “It was either a saintly
 personality, an angel or Hadrat Khidr (a.s.)”
 
-
 Speaking for the Tranquility of the Heart
 -----------------------------------------
-
 
 Allama Majlisi says that such conversations are in no way a remark on
 the high status of the Imams (a.s.) but are manifestations of
@@ -194,7 +178,6 @@ says something and an old and learned person draws benefit from the
 Imam Husayn (a.s.) Talks to ‘Ali Akbar
 --------------------------------------
 
-
 You must have heard that Hadrat Imam Husayn (a.s.), at one of the
 stages on the journey to Karbala woke up uneasily from his sleep. ‘Ali
 Akbar said, “O father! What is the reason that you are disturbed?” The
@@ -211,7 +194,4 @@ the cause of Truth!”
 Such words of wisdom from the mouth of the young son soothed the nerves
 of the Imam (a.s.) and he prayed to Allah (S.w.T.) to enable the youth
 to be Righteous!
-
-
-
 

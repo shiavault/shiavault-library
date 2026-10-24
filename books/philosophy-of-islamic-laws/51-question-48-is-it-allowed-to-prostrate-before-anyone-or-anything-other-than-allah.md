@@ -40,6 +40,3 @@ Allah and Hazrat Adam's (a.s.) position was that of Qibla.
 In view of this narration in the mentioned Ayat, there is no dispute in
 the historical meaning is related by Imam Ali (a.s.).
 
-
-
-

@@ -12,4 +12,3 @@ The slave jokingly said, “I ate a pigeon.”
 
 Bahlool said, “I can see bird droppings on your beard.”
 
-

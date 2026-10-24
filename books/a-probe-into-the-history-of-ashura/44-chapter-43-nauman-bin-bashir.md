@@ -140,4 +140,3 @@ Hijaz and the city of Yathrib.
 
 [^2]: Nahjul Balāgha (Letter 9).
 
-

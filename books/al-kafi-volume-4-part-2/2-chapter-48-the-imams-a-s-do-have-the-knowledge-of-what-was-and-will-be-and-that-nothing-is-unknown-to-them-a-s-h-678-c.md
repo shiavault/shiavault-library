@@ -135,7 +135,6 @@ Gracious, is far exalted and above imposing the obedience of a servant
 heavens and on earth from him and then say, "Do not hide that from
 him."
 
-
 **Chapter 49 : Allah, the Most Holy, the Most High, did not teach
 anything to His Messenger but that He commanded him to teach such
 knowledge to Amir al-Mu'minin (a.s.) and he was his partner in Knowledge
@@ -189,5 +188,4 @@ said, "I swear by Allah that there was nothing of all the knowledge that
 was taught to the Messenger of Allah but that he taught them to Ali
 (a.s.) and thereafter knowledge was transferred to us. He then placed
 his hand over his chest."
-
 

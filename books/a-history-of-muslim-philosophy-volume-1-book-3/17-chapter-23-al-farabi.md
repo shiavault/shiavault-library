@@ -1112,4 +1112,3 @@ pp. 128-29.
 [^70]: Ibn Rushd, Fasl al-Maqal fi ma bain al-Hikmah w-al Shari’ah min
 al-Ittisal, Cairo, p. 26; Manahij al-Adillah, Cairo, pp. 120-21.
 
-

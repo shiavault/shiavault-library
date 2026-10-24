@@ -225,4 +225,3 @@ Last in the line of Prophets.' The word Khatam in its dictionary meaning
 and linguistic usage does not refer to the post office stamp which is
 affixed on the outgoing mail.
 
-

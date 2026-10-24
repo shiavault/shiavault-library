@@ -81,43 +81,27 @@ after its separation from the body. For the sake of brevity, we bring
 here only the text of the verses and postpone its analysis for some
 other proper time.
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ ۚ بَلْ
-أَحْيَاءٌ وَلَٰكِنْ لَا تَشْعُرُونَ
-  </p>
-</blockquote>
+> وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ ۚ بَلْ
+> أَحْيَاءٌ وَلَٰكِنْ لَا تَشْعُرُونَ
 
 ***“And do not speak of those who are slain in Allah's way as dead, nay,
 (they are) alive, but you do not perceive. (Baqarah 2:154)”***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
-بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ
+> بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ
 
 ***“And reckon not those who are killed in Allah's way as dead, nay,
 they are alive (and) are provided sustenance from their Lord.***
 ***(Aal-Imran 3:169)”***
 
-<blockquote dir="rtl">
-  <p>
-فَرِحِينَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ وَيَسْتَبْشِرُونَ
-بِالَّذِينَ لَمْ يَلْحَقُوا بِهِمْ
-  </p>
-</blockquote>
+> فَرِحِينَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ وَيَسْتَبْشِرُونَ
+> بِالَّذِينَ لَمْ يَلْحَقُوا بِهِمْ
 
 ***“Rejoicing in what Allah has given them out of His grace, and they
 rejoice for the sake of those who, (being left) behind them, have not
 yet joined them.*** ***(Aal-Imran 3:170)”***
 
-<blockquote dir="rtl">
-  <p>
-يَسْتَبْشِرُونَ بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ
-  </p>
-</blockquote>
+> يَسْتَبْشِرُونَ بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ
 
 ***“They*** ***rejoice on account of favour from Allah and (His) grace.
 (Aal-Imran 3:171)”***
@@ -160,12 +144,8 @@ From these two verses we come to know that after entering Paradise, his
 people were still living in this world till death suddenly overtook them
 and, this Paradise cannot be anything other than Paradise of *barzakh*.
 
-<blockquote dir="rtl">
-  <p>
-النار يُعرضون عليها عدًواً وعشياً ويوم تقوم الساعة ادخِلوا أل فرعون
-أشد العذاب
-  </p>
-</blockquote>
+> النار يُعرضون عليها عدًواً وعشياً ويوم تقوم الساعة ادخِلوا أل فرعون
+> أشد العذاب
 
 ***“The fire, they shall be brought before it (every) morning and
 evening and on the day when the hour shall come to pass: Make Firawn's
@@ -203,12 +183,8 @@ Rather we shall discuss this matter only from the viewpoint of Qur’an.
 fact can easily be seen that the reality of man is his very soul and
 spirit. Here, we shall ponder over the contents of this verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
-إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
+> إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
 
 ***“Say: The angel of death who is given charge of you shall cause you
 to die, and then to your Lord you shall be brought back.*** ***(Sajdah
@@ -263,33 +239,21 @@ disconnected.
 
 ### A) Salih ('a) Speaks with the Souls of His People
 
-<blockquote dir="rtl">
-  <p>
-فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا يَا
-صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا يَا
+> صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الْمُرْسَلِينَ
 
 ***“So they slew the she-camel and revolted against their Lord's
 commandment, and they said: O Salih! Bring us what you threatened us
 with, if you are one of the apostles.*** ***(Araf 7:77)”***
 
-<blockquote dir="rtl">
-  <p>
-فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
-  </p>
-</blockquote>
+> فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
 
 ***“Then the earthquake overtook them, so they became motionless bodies
 in their abode.*** ***(Araf 7:78)”*** [^2]
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
-رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَٰكِنْ لَا تُحِبُّونَ
-النَّاصِحِينَ
-  </p>
-</blockquote>
+> فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
+> رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَٰكِنْ لَا تُحِبُّونَ
+> النَّاصِحِينَ
 
 ***“Then he turned away from them and said: O my people, I did certainly
 deliver to you the message of my lord, and I gave you advice, but you do
@@ -326,33 +290,21 @@ after death and says: “Now too, you do not like an advisor.”
 
 ### B) Shu'ayb ('a) Speaks with the Souls of the Deceased Ones
 
-<blockquote dir="rtl">
-  <p>
-فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
-  </p>
-</blockquote>
+> فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
 
 ***“Then the earthquake overtook them, so they became motionless bodies
 in their abode.*** ***(Araf 7:91)”***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَذَّبُوا شُعَيْبًا كَأَنْ لَمْ يَغْنَوْا فِيهَا ۚ الَّذِينَ
-كَذَّبُوا شُعَيْبًا كَانُوا هُمُ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> الَّذِينَ كَذَّبُوا شُعَيْبًا كَأَنْ لَمْ يَغْنَوْا فِيهَا ۚ الَّذِينَ
+> كَذَّبُوا شُعَيْبًا كَانُوا هُمُ الْخَاسِرِينَ
 
 ***“Those who called Shu'ayb a liar were as though they had never dwelt
 therein, those who called Shu'ayb a liar, they were the losers.***
 ***(Araf 7:92)”***
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
-رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ آسَىٰ عَلَىٰ قَوْمٍ
-كَافِرِينَ
-  </p>
-</blockquote>
+> فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ
+> رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ آسَىٰ عَلَىٰ قَوْمٍ
+> كَافِرِينَ
 
 ***“So he turned away from them and said: O my people! certainly I
 delivered to you the messages of my Lord and I gave you good advice, how
@@ -363,12 +315,8 @@ to Salih (‘a).
 
 ### C) The Holy Prophet (s) of Islam Speaks with the Souls of Prophets
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا
-مِنْ دُونِ الرَّحْمَٰنِ آلِهَةً يُعْبَدُونَ
-  </p>
-</blockquote>
+> وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا
+> مِنْ دُونِ الرَّحْمَٰنِ آلِهَةً يُعْبَدُونَ
 
 ***“And ask those of Our Apostles whom We sent before you: Did We ever
 appoint gods to be worshipped besides the Beneficent God?*** ***(Zukhraf
@@ -413,11 +361,7 @@ have in the principles of jurisprudence address the glorious Messenger
 of Allah in the *tashahhud* of their *salat* every morning and night and
 say:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك أيها النبيّ ورحمة الله وبركاته
-  </p>
-</blockquote>
+> السلام عليك أيها النبيّ ورحمة الله وبركاته
 
 The only thing is that the Shafi'ites and some others reckon this to be
 obligatory in *tashahhud* whereas other sects think it to be *mustahab*
@@ -475,18 +419,10 @@ judgements, deny the fact that the companions of the Holy Prophet (s)
 and those after them had asked the Prophet (s) for their needs to be
 fulfilled. Regarding this matter they say:
 
-<blockquote dir="rtl">
-  <p>
-ولم يكن أحد من سلف الأمة في عصر الصحابة ولا التابعين ولا تابعي
-التابعين يتخيرون الصلاة والدعاء عند قبور
-  </p>
-</blockquote>
+> ولم يكن أحد من سلف الأمة في عصر الصحابة ولا التابعين ولا تابعي
+> التابعين يتخيرون الصلاة والدعاء عند قبور
 
-<blockquote dir="rtl">
-  <p>
-الأنبياء ويسألونهم ولا يستغيثون بهم لا في مغيبهم ولا عند قبورهم.
-  </p>
-</blockquote>
+> الأنبياء ويسألونهم ولا يستغيثون بهم لا في مغيبهم ولا عند قبورهم.
 
 *“No one from* *the past* *ummah* *either at the time of the Companions
 nor the period after the* *tabi'in* *(disciples of companions) have
@@ -499,19 +435,11 @@ Holy Prophet) and the *tabi'in* may imagine such an attribution to be
 true. However, referring to history will prove contrary to that. As an
 example, we narrate some instances:
 
-<blockquote dir="rtl">
-  <p>
-أصاب الناس قحط في زمان عمر بن الخطاب فجاء رجل إلى قبر النبيّ فقال يا
-رسول الله استسق الله لأمتك فإنهم قد
-  </p>
-</blockquote>
+> أصاب الناس قحط في زمان عمر بن الخطاب فجاء رجل إلى قبر النبيّ فقال يا
+> رسول الله استسق الله لأمتك فإنهم قد
 
-<blockquote dir="rtl">
-  <p>
-هلكوا فأتاه رسول الله صلى الله عليه وأله في المنام فقال: أنت عمر ،
-فاقرنه وأخبره إنهم مسقون.
-  </p>
-</blockquote>
+> هلكوا فأتاه رسول الله صلى الله عليه وأله في المنام فقال: أنت عمر ،
+> فاقرنه وأخبره إنهم مسقون.
 
 *“During the Caliphate of ‘Umar, when there was a famine, a person came
 near the grave of the Holy Prophet (s) and said: ‘O Prophet, ask water
@@ -522,19 +450,11 @@ with water.’”* [^6]
 
 (A) Al-Samhudi continues as such:
 
-<blockquote dir="rtl">
-  <p>
-ومحل الإستشهاد طلب الإستسقاء منه صلى الله عليه وأله وهو في البرزخ
-ودعاؤه لربه هذه الحالة غير ممتنع
-  </p>
-</blockquote>
+> ومحل الإستشهاد طلب الإستسقاء منه صلى الله عليه وأله وهو في البرزخ
+> ودعاؤه لربه هذه الحالة غير ممتنع
 
-<blockquote dir="rtl">
-  <p>
-وعلمه بسؤال من يسأله قد ورد فلا مانع من سؤال الإستسقاء وغيره كما كان
-في الدنيا.
-  </p>
-</blockquote>
+> وعلمه بسؤال من يسأله قد ورد فلا مانع من سؤال الإستسقاء وغيره كما كان
+> في الدنيا.
 
 *“This incident shows that though the Prophet (s) is in* *barzakh, one
 can ask him to pray for us.* *This matter is of no objection because he
@@ -548,18 +468,10 @@ bin al-Nu'man with the chain of narrators ending in 'Ali bin Abi Talib
 when an Arab from outside Medina came and sprinkled the soil of the
 Prophet's grave over his head and said:
 
-<blockquote dir="rtl">
-  <p>
-يا رسول الله قلت فسمعنا قولك ووعيت عن الله سبحانه ما وعينا عنك ، وكان
-فيما انزل عليك (ولو أنهم إذ ظلموا
-  </p>
-</blockquote>
+> يا رسول الله قلت فسمعنا قولك ووعيت عن الله سبحانه ما وعينا عنك ، وكان
+> فيما انزل عليك (ولو أنهم إذ ظلموا
 
-<blockquote dir="rtl">
-  <p>
-أنفسهم جاؤك فاستغفروا الله...) وقد ظلمت وجئتك نستغفر لي
-  </p>
-</blockquote>
+> أنفسهم جاؤك فاستغفروا الله...) وقد ظلمت وجئتك نستغفر لي
 
 *“O Prophet! you spoke and we listened to your sayings. You* *received
 from God what we received from you. Among those things which was
@@ -594,11 +506,7 @@ Hunger overtook al-Tabarani, Abu al-Shaykh and myself and we were close
 to the grave of the Holy Prophet (s). When night approached I went near
 the grave of the Prophet (s) and said:
 
-<blockquote dir="rtl">
-  <p>
-يا رسول الله الجوع...
-  </p>
-</blockquote>
+> يا رسول الله الجوع...
 
 *Moments later, a person from the Alawites entered the mosque with two
 young men and each of them was holding a bag full of food…. When* *we
@@ -682,11 +590,7 @@ established. The only point is that every action and affair either in
 the form of *dua’* or other than that it is dependent on the Will of
 Allah and they are clear evidence to:
 
-<blockquote dir="rtl">
-  <p>
-ما تشاءون إلا أن يشاء الله
-  </p>
-</blockquote>
+> ما تشاءون إلا أن يشاء الله
 
 Just as in this world, 'Isa (‘a) could pray to God for goodness for
 someone or could cure by the Will of Allah, those who were born blind
@@ -712,12 +616,8 @@ God, the Causer has made them a channel and a route for receiving His
 Grace and Mercy and He, Himself, has ordered the believers for attaining
 as such. As verse says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
-الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ
+> الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“O you who*** ***believe! be careful of (your duty to) Allah and seek
 means of nearness to Him and strive hard in His way that you may be
@@ -762,5 +662,4 @@ described example of these implorations till page 1385.
 [^10]: Same as previous reference.
 
 [^11]: Wafa' al-wafa', vol. 2 page 1361.
-
 

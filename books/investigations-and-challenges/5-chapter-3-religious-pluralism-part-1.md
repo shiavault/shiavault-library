@@ -65,11 +65,7 @@ knowledge and of drawing the curtains of doubt and uncertainty. In its
 very first page and at the beginning of *Surah al-Baqarah*, the Qur’an
 states:
 
-<blockquote dir="rtl">
-  <p>
-.. وَبِالْآخِرَةِ هُمْ يُوقِنُونَ
-  </p>
-</blockquote>
+> .. وَبِالْآخِرَةِ هُمْ يُوقِنُونَ
 
 ***…and are certain of the hereafter. (2:4)***
 
@@ -528,5 +524,4 @@ considered as the preeminent master of the ghazal form. [Trans.]
 at-Tayr (The Conference of the Birds), a poem consisting of 4,600
 couplets (two successive lines of verse that rhyme, forming a single
 unit). [Trans.]
-
 

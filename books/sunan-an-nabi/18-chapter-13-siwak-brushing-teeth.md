@@ -93,4 +93,3 @@ al-Ja’fariyat: 15, al-Mahasin: 562, Tuhf al-’Uqul: 101
 
 [^14]: Jami’ al-Akhbar: 68
 
-

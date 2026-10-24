@@ -207,4 +207,3 @@ The last five are regarded as major sins, because the prayer, fasting,
 paying Zakah, making pilgrimage and enjoining good and prohibiting evil
 are Qur'anic duties.
 
-

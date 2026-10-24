@@ -177,4 +177,3 @@ person doing "Hajj", his face turned yellow and he could not say
 Labaik) what would happen to me?" It is reported that his whole Hajj was
 spent in fear of Allah.
 
-

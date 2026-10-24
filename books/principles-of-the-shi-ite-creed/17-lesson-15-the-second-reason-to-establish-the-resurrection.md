@@ -73,4 +73,3 @@ consequences.”***[^3]
 
 [^3]: Cfr. Sura al-Zalzala, 99.
 
-

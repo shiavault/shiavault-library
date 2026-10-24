@@ -4,13 +4,9 @@ Section 2: The Ethics Preached Through Luqman
 Surah Luqman – Verse 12
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ وَمَن
-يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ اللَّهَ
-غَنِيٌ حَمِيدٌ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ وَمَن
+> يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ اللَّهَ
+> غَنِيٌ حَمِيدٌ
 
 ***12. “And indeed We gave wisdom to Luqman, (saying:) ‘Be grateful to
 Allah; and whoever is grateful, he is only grateful for his own soul;
@@ -337,12 +333,8 @@ the Divine wisdom.
 Surah Luqman – Verse 13
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ لُقْمَانُ لإِبْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لاَ
-تُشْرِكْ بِاللَّهِ إِنَّ الشّـِرْكَ لَظُلْمٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ لُقْمَانُ لإِبْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لاَ
+> تُشْرِكْ بِاللَّهِ إِنَّ الشّـِرْكَ لَظُلْمٌ عَظِيمٌ
 
 ***13. “And (remember) when Luqman said to his son admonishing him: ‘O
 my son! Do not associate aught with Allah for verily polytheism is a
@@ -677,13 +669,9 @@ Majma‘ul-Bayan.
 Surah Luqman – Verse 14
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ اُمُّهُ وَهْناً عَلَي
-وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ
-إِلَيَّ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ اُمُّهُ وَهْناً عَلَي
+> وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ
+> إِلَيَّ الْمَصِيرُ
 
 ***14. “And We did enjoin upon man concerning his parents, did his
 mother bear him with fainting upon fainting and his weaning takes two
@@ -842,14 +830,10 @@ He answered:
 Surah Luqman – Verse 15
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن جَاهَدَاكَ عَلَي أَن تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ
-فَلاَ تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفاً وَاتَّبِعْ
-سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ
-فَأُنَبّـِئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَإِن جَاهَدَاكَ عَلَي أَن تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ
+> فَلاَ تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفاً وَاتَّبِعْ
+> سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ
+> فَأُنَبّـِئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
 ***15. “And if they (both) contend with you that you should associate
 with Me what you have no knowledge of, do not obey them, and keep
@@ -937,13 +921,9 @@ will inform you of what you were doing.”***
 Surah Luqman – Verse 16
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُن
-فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الأَرْضِ يَأْتِ بِهَا
-اللَّهُ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ
-  </p>
-</blockquote>
+> يَا بُنَيَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُن
+> فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الأَرْضِ يَأْتِ بِهَا
+> اللَّهُ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ
 
 ***16. “O’ my son! If there be (your deed but) the weight of a
 mustard-seed and it were (hidden) in a rock or in the heavens or in the
@@ -1009,13 +989,9 @@ bring it forth; (for) verily Allah is All-Subtle, All-Aware’ .”***
 Surah Luqman – Verse 17
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ أَقِمِ الصَّلاَةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
-الْمُنكَرِ وَاصْبِرْ عَلَي مَآ أَصَابَكَ إِنَّ ذَلِكَ مِنْ عَزْمِ
-الأُمُورِ
-  </p>
-</blockquote>
+> يَا بُنَيَّ أَقِمِ الصَّلاَةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
+> الْمُنكَرِ وَاصْبِرْ عَلَي مَآ أَصَابَكَ إِنَّ ذَلِكَ مِنْ عَزْمِ
+> الأُمُورِ
 
 ***17. “O’ my son! Keep up the prayer and enjoin the good and forbid the
 evil, and patiently persevere against whatever may befall you, for this
@@ -1087,12 +1063,8 @@ first probability.
 Surah Luqman – Verse 18
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُصَعّـِرْ خَدَّكَ لِلنَّاسِ وَلاَ تَمْشِ في الأَرْضِ مَرَحاً
-إِنَّ اللَّهَ لاَ يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> وَلاَ تُصَعّـِرْ خَدَّكَ لِلنَّاسِ وَلاَ تَمْشِ في الأَرْضِ مَرَحاً
+> إِنَّ اللَّهَ لاَ يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 ***18. “And do not turn your face away from people (in contempt), nor
 walk in the earth exultantly; verily Allah does not love any
@@ -1193,12 +1165,8 @@ than the one’s position, are among the signs of modesty.
 Surah Luqman – Verse 19
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
-الاَصْوَاتِ لَصَوْتُ الْحَمِيرِ
-  </p>
-</blockquote>
+> وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ
+> الاَصْوَاتِ لَصَوْتُ الْحَمِيرِ
 
 ***19. “And be moderate in your pace; and lower your voice; verily the
 most unpleasant of voices is the braying of the asses.”***
@@ -1347,5 +1315,4 @@ worship is accepted by Allah and He is pleased of but that its door is
 modesty.”*
 
 [^1]: Kanz-ul-‘Ummal, 8849
-
 

@@ -26,4 +26,3 @@ It was to avoid this type of situation that “enjoining what is good and
 forbidding what is wrong” has been emphasized in Islam. It is the corner
 stone of Shariah which strengthens the whole structure of religion.
 
-

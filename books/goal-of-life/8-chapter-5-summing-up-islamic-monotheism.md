@@ -228,4 +228,3 @@ mutual trust? Faith in God is by itself a goal. The effects of faith
 which are so numerous make it the link of man with God, and such a link
 is perfection from the viewpoint of Islam.
 
-

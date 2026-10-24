@@ -160,7 +160,6 @@ ago."
 "What a great difference there is between me and that Prophet sent by
 Allah!"
 
-
 **Bahlool Proves The Three Facts**
 
 Abu Hanifa was once teaching Islamic beliefs to his students. He was
@@ -221,5 +220,4 @@ If we are responsible for our actions and are to be punished or
 rewarded accordingly, then it is only fair and just that Allah should
 not manipulate or compel us to do things but leave us alone to act the
 way we see it fit, and be answerable for those actions ourselves.
-
 

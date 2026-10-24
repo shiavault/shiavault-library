@@ -101,7 +101,6 @@ observe its fast; accept the same from us; receive our fast from and
 safeguard the same for us in an ease from You and good health; surely
 You can do everything.
 
-
 **Chapter 6 : What Breaks the Fast**
 
 Any of the following invalidates the fast: eating or drinking, sexual
@@ -161,7 +160,6 @@ natural milk is not sufficient, as well as women during their prenatal
 period, may break their fast if it harms their infants. They, too, have
 to make up for the fast.
 
-
 **Chapter 7 : Do not say "Ramadhan"**
 
 On p. 232, Vol. 7, of Wasail al-Shi’a, and also on p. 69, Vol. 4 (old
@@ -185,5 +183,4 @@ month of Ramadhan,’ and whoever says ‘Ramadhan’ [only], let him both pay
 sadaqa (alms) and kaffara (atonement) so that his sin may be forgiven."
 (AI-Saduq, in his Connotations of the News, quoting Hisham bin Salim.
 Also in Basaair al Darajat by Sa’ad ibn Abdullah).
-
 

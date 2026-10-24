@@ -143,7 +143,6 @@ p462
 The above was just a part of speech of the Prophet (PBUH&HF). For a
 more detailed speech of the Prophet, please see the end of this part.
 
-
 **Revelation of Verse 5:3**
 
 Immediately after the Prophet (PBUH&HF) finished his speech, the
@@ -171,5 +170,4 @@ Abu Sa'id Khudri.
 The above verse clearly indicates that Islam without clearing up matter
 of leadership after Prophet was not complete, and completion of religion
 was due to announcement of Prophet's immediate successor.
-
 

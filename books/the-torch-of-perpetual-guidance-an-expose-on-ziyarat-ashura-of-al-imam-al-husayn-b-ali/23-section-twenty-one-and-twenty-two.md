@@ -1,12 +1,8 @@
 Section Twenty One and Twenty Two
 =================================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ اجْعَلْنِي فِي مَقَامِي هذَا مِمَّنْ تَنالُهُ مِنْكَ
-صَلَواتٌ وَرَحْمَةٌ وَمَغْفِرَةٌ
-  </p>
-</blockquote>
+> أَللَّهُمَّ اجْعَلْنِي فِي مَقَامِي هذَا مِمَّنْ تَنالُهُ مِنْكَ
+> صَلَواتٌ وَرَحْمَةٌ وَمَغْفِرَةٌ
 
 “O’ Allah! Make me at this moment, one who receives from You prayers,
 mercy and forgiveness.”
@@ -21,12 +17,8 @@ Thus, as we seek nearness to Allah through the Ahlul Bayt, we ask Allah
 for His prayers, mercy and His forgiveness from our sins and
 transgressions.
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ اجْعَلْ مَحْيايَ مَحْيا مُحَمَّدٍ وَآلِ مُحَمَّدٍ،
-وَمَماتِي مَماتَ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> أَللَّهُمَّ اجْعَلْ مَحْيايَ مَحْيا مُحَمَّدٍ وَآلِ مُحَمَّدٍ،
+> وَمَماتِي مَماتَ مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
 
 “O’ Allah! Make me live the life of Muhammad and the family of Muhammad
 and permit me to die the death of Muhammad and the family of Muhammad.”
@@ -66,5 +58,4 @@ Thus, in this life of the Ziyarat we are asking for the death of a
 Shaheed – Martyr – as this is the noblest way of leaving the world
 especially keeping in mind that we could die in many ways such as
 crossing the street, riding a bike or something of this nature...
-
 

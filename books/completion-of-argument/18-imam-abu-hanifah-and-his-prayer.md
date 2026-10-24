@@ -560,4 +560,3 @@ the beginning of ritual prayer
 
 [^38]: Surah Baqarah 2:166
 
-

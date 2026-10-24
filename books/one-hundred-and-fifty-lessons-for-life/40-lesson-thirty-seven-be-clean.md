@@ -3,12 +3,8 @@ Lesson Thirty Seven: Be clean
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-أَفْوَاهُكُمْ مِنْ طُرُقِ رَبِّكُمْ فَأَحَبُّها إلى اللّه أَطْيَبُها
-رِيْحاً فَطَيَّبُوها بِما قَدَرْتُم عَلَيْهِ.
-  </p>
-</blockquote>
+> أَفْوَاهُكُمْ مِنْ طُرُقِ رَبِّكُمْ فَأَحَبُّها إلى اللّه أَطْيَبُها
+> رِيْحاً فَطَيَّبُوها بِما قَدَرْتُم عَلَيْهِ.
 
 Translation
 -----------
@@ -30,5 +26,4 @@ favored by Allah when it becomes fragrant with good, clean and kind
 speech and is free from bad utterances, insults, lies and harshness.
 
 [^1]: Wasa’il ‘ush-Shi’a, volume 1, page 358
-
 

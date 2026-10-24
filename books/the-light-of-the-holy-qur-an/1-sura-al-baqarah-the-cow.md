@@ -6,13 +6,10 @@ N0. 2 (286 Verses)
 
 Volume 1 & 2 & 3
 
-  
-
 [](../jadval.htm)
 
 Transliteration of Arabic Letters
 
-  
  [Sura Al-Baqarah (The Cow) No. 2](00.htm)
 
 Contents of the Sura

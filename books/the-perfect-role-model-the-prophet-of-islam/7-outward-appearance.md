@@ -58,4 +58,3 @@ pleasing and carrying it is not difficult'."[^5]
 
 [^5]: Makarim al-Akhlaq, vol. 1, p. 66.
 
-

@@ -2,17 +2,9 @@ Chapter 25: Knowing one’s imam
 ==============================
 
 > 1 - أخبرنا محمد بن يعقوب  قال: حدثنا علي بن إبراهيم، عن أبيه، عن حماد
-<blockquote dir="rtl">
-  <p>
-بن عيسى، عن حريز، عن زرارة، قال: قال أبو عبد الله:
-  </p>
-</blockquote>
+> بن عيسى، عن حريز، عن زرارة، قال: قال أبو عبد الله:
 
-<blockquote dir="rtl">
-  <p>
-إعرف إمامك فإنك إذا عرفته لم يضرّك تقدم هذا الأمر أو تأخر.
-  </p>
-</blockquote>
+> إعرف إمامك فإنك إذا عرفته لم يضرّك تقدم هذا الأمر أو تأخر.
 
 (1) Muhammad bin Ya'qoob narrated from Ali bin Ibraheem from his father
 from Hammad bin Eessa from Hurayz from Zurara that Abu Abdullah as-Sadiq
@@ -22,46 +14,22 @@ from Hammad bin Eessa from Hurayz from Zurara that Abu Abdullah as-Sadiq
 deliverance comes soon or late.”[^1]
 
 > 2 - أخبرنا محمد بن يعقوب قال: حدثني الحسين بن محمد بن عامر، عن معلي بن
-<blockquote dir="rtl">
-  <p>
-محمد، عن محمد بن جمهور، عن صفوان بن يحيى، عن محمد بن مروان، عن الفضيل
-بن يسار، قال:
-  </p>
-</blockquote>
+> محمد، عن محمد بن جمهور، عن صفوان بن يحيى، عن محمد بن مروان، عن الفضيل
+> بن يسار، قال:
 
-<blockquote dir="rtl">
-  <p>
-سألت أبا عبد الله عن قول الله
-  </p>
-</blockquote>
+> سألت أبا عبد الله عن قول الله
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ
-بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ
-فَتِيلًا
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ
+> بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ
+> فَتِيلًا
 
-<blockquote dir="rtl">
-  <p>
-قال:
-  </p>
-</blockquote>
+> قال:
 
-<blockquote dir="rtl">
-  <p>
-يا فضيل، إعرف إمامك، فإنك إذا عرفت إمامك لم يضرّك تقدم هذا الأمر أو
-تأخر، ومن عرف إمامه ثم مات قبل أن يقوم صاحب هذا الأمر كان بمنْزلة من
-كان قاعداً في عسكره، لا بل بمنْزلة من قعد تحت لوائه.
-  </p>
-</blockquote>
+> يا فضيل، إعرف إمامك، فإنك إذا عرفت إمامك لم يضرّك تقدم هذا الأمر أو
+> تأخر، ومن عرف إمامه ثم مات قبل أن يقوم صاحب هذا الأمر كان بمنْزلة من
+> كان قاعداً في عسكره، لا بل بمنْزلة من قعد تحت لوائه.
 
-<blockquote dir="rtl">
-  <p>
-(قال) ورواه بعض أصحابنا "بمنْزلة من استشهد مع رسول الله ."
-  </p>
-</blockquote>
+> (قال) ورواه بعض أصحابنا "بمنْزلة من استشهد مع رسول الله ."
 
 (2) Muhammad bin Ya'qoob narrated from al-Husayn bin Muhammad bin Aamir
 from Mu’alla bin Muhammad from Muhammad bin Jumhoor from Safwan bin
@@ -81,24 +49,12 @@ Some of our companions narrated the tradition with this addition “…like
 one, who has been martyred (while fighting) with the Prophet (S).”[^3]
 
 > 3 - أخبرنا محمد بن يعقوب، عن علي بن محمد رفعه إلى علي بن أبي حمزة، عن
-<blockquote dir="rtl">
-  <p>
-أبي بصير، قال:
-  </p>
-</blockquote>
+> أبي بصير، قال:
 
-<blockquote dir="rtl">
-  <p>
-قلت لأبي عبد الله: جعلت فداك، متى الفرج؟
-  </p>
-</blockquote>
+> قلت لأبي عبد الله: جعلت فداك، متى الفرج؟
 
-<blockquote dir="rtl">
-  <p>
-فقال: يا أبا بصير، وأنت ممن يريد الدنيا؟ من عرف هذا الأمر فقد فرج عنه
-بانتظاره.
-  </p>
-</blockquote>
+> فقال: يا أبا بصير، وأنت ممن يريد الدنيا؟ من عرف هذا الأمر فقد فرج عنه
+> بانتظاره.
 
 (3) Muhammad bin Ya'qoob narrated from Ali bin Muhammad from Ali bin Abu
 Hamza that Abu Baseer had said:
@@ -110,36 +66,16 @@ He said: “O Abu Baseer, are you from those, who love this life? Whoever
 believes in this matter is delivered for his waiting for it.”[^4]
 
 > 4 - أخبرنا محمد بن يعقوب، عن علي بن إبراهيم، عن صالح بن السندي، عن
-<blockquote dir="rtl">
-  <p>
-جعفر بن بشير، عن إسماعيل بن محمد الخزاعي، قال:
-  </p>
-</blockquote>
+> جعفر بن بشير، عن إسماعيل بن محمد الخزاعي، قال:
 
-<blockquote dir="rtl">
-  <p>
-سأل أبو بصير أبا عبد الله وأنا أسمع، فقال: تراني أدرك القائم ؟
-  </p>
-</blockquote>
+> سأل أبو بصير أبا عبد الله وأنا أسمع، فقال: تراني أدرك القائم ؟
 
-<blockquote dir="rtl">
-  <p>
-فقال: يا أبا بصير، ألست تعرف إمامك؟
-  </p>
-</blockquote>
+> فقال: يا أبا بصير، ألست تعرف إمامك؟
 
-<blockquote dir="rtl">
-  <p>
-فقال: إي والله وأنت هو - وتناول يده -.
-  </p>
-</blockquote>
+> فقال: إي والله وأنت هو - وتناول يده -.
 
-<blockquote dir="rtl">
-  <p>
-فقال: والله ما تبالي يا أبا بصير إلاّ تكون محتبياً بسيفك في ظل رواق
-القائم .
-  </p>
-</blockquote>
+> فقال: والله ما تبالي يا أبا بصير إلاّ تكون محتبياً بسيفك في ظل رواق
+> القائم .
 
 (4) Muhammad bin Ya'qoob narrated from Ali bin Ibraheem from Salih
 as-Sindi from Ja'far bin Basheer that Issma'eel bin Muhammad al-Khuza’iy
@@ -158,20 +94,12 @@ Allah, never mind if you are not under the shadow of al-Qa'im’s tent
 with your sword!”[^5]
 
 > 5 - أخبرنا محمد بن يعقوب قال: حدثنا عدة من أصحابنا، عن أحمد بن محمد،
-<blockquote dir="rtl">
-  <p>
-عن علي بن النعمان، عن محمد بن مروان، عن الفضيل بن يسار، قال: سمعت أبا
-جعفر يقول:
-  </p>
-</blockquote>
+> عن علي بن النعمان، عن محمد بن مروان، عن الفضيل بن يسار، قال: سمعت أبا
+> جعفر يقول:
 
-<blockquote dir="rtl">
-  <p>
-من مات وليس له إمام فميتته ميتة جاهيلة، ومن مات وهو عارف لإمامه لم
-يضرّه تقدم هذا الأمر أو تأخر، ومن مات وهو عارف لإمامه كان كمن هو قائم
-مع القائم في فسطاطه.
-  </p>
-</blockquote>
+> من مات وليس له إمام فميتته ميتة جاهيلة، ومن مات وهو عارف لإمامه لم
+> يضرّه تقدم هذا الأمر أو تأخر، ومن مات وهو عارف لإمامه كان كمن هو قائم
+> مع القائم في فسطاطه.
 
 (5) Muhammad bin Ya'qoob narrated from some of his companions from Ahmad
 bin Muhammad from Ali bin an-Nu’man from Muhammad bin Marwan from
@@ -184,32 +112,16 @@ in his imam, is like one, who will be with al-Qa'im in his
 pavilion.”[^6]
 
 > 6 - أخبرنا محمد بن يعقوب، عن علي بن محمد، عن سهل بن زياد، عن الحسن بن
-<blockquote dir="rtl">
-  <p>
-سعيد، عن فضالة بن أيوب، عن عمر بن أبان قال: سمعت أبا عبد الله يقول:
-  </p>
-</blockquote>
+> سعيد، عن فضالة بن أيوب، عن عمر بن أبان قال: سمعت أبا عبد الله يقول:
 
-<blockquote dir="rtl">
-  <p>
-إعرف العلامة، فإذا عرفته لم يضرك تقدم هذا الأمر أو تأخر. إن الله تعالى
-يقول
-  </p>
-</blockquote>
+> إعرف العلامة، فإذا عرفته لم يضرك تقدم هذا الأمر أو تأخر. إن الله تعالى
+> يقول
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ
-بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ
-فَتِيلًا
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ
+> بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ
+> فَتِيلًا
 
-<blockquote dir="rtl">
-  <p>
-فمن عرف إمامه كان كمن هو في فسطاط المنتظر .
-  </p>
-</blockquote>
+> فمن عرف إمامه كان كمن هو في فسطاط المنتظر .
 
 (6) Muhammad bin Ya'qoob narrated from Ali bin Muhammad from Sahl bin
 Ziyad from al-Hasan bin Sa'eed from Fudhala bin Ayyoob from Umar bin
@@ -222,32 +134,16 @@ his imam, is like one, who will be with al-Mahdi (aj) in his
 pavilion.”[^7]
 
 > 7 - حدثنا أحمد بن محمد بن سعيد قال: حدثني يحيى بن زكريا بن شيبان قال:
-<blockquote dir="rtl">
-  <p>
-حدثنا علي بن سيف بن عميرة، عن أبيه، عن حمران بن أعين، عن أبي عبد الله
-أنه قال:
-  </p>
-</blockquote>
+> حدثنا علي بن سيف بن عميرة، عن أبيه، عن حمران بن أعين، عن أبي عبد الله
+> أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-إعرف إمامك فإذا عرفته لم يضرك تقدم هذا الأمر أم تأخر فإن الله يقول
-  </p>
-</blockquote>
+> إعرف إمامك فإذا عرفته لم يضرك تقدم هذا الأمر أم تأخر فإن الله يقول
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ
-بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ
-فَتِيلًا
-  </p>
-</blockquote>
+> يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ
+> بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ
+> فَتِيلًا
 
-<blockquote dir="rtl">
-  <p>
-فمن عرف إمامه كان كمن هو في فسطاط القائم .
-  </p>
-</blockquote>
+> فمن عرف إمامه كان كمن هو في فسطاط القائم .
 
 (7) Ahmad bin Muhammad bin Sa'eed narrated from Yahya bin Zakariyya bin
 Shayban from Ali bin Sayf bin Omayra from his father from Hamran bin
@@ -280,5 +176,4 @@ Muntakhab al-Athar p.516, Mo’jam Ahadeeth al-Imam al-Mahdi, vol.3 p.344.
 [^7]: Refer to references of the first tradition.
 
 [^8]: Ibid.
-
 

@@ -216,4 +216,3 @@ that who searches for truth, may Allah benefit by it whom he wishes.
 
 ([^3]) Aletkhan 2/52.
 
-

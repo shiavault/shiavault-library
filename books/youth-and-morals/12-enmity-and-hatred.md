@@ -281,4 +281,3 @@ themselves. These codes are Allah’s rights on people.
 
 [^10]: Ghurar al-Hikam p. 399
 
-

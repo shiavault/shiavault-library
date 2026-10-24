@@ -316,4 +316,3 @@ Questions to ask yourself
 2. By studying the philosophy of creation with attention to God's Wisdom
 what result do you reach?
 
-

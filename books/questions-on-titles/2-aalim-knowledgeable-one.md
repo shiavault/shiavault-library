@@ -134,7 +134,6 @@ is there? So which scholars is this Hadeeth referring to? The priests or
 the Holy Infallibles (a.s.)? The following Hadeeth has answered this
 question.
 
-
 Ali ibn Ibrahim has narrated from his father from 'Abd al-'Aziz ibn
 al-Muhtadi from 'Abd Allah ibn Jundab to who Imam al-Rida, recipient of
 divine supreme covenant, wrote the following: "Thereafter (after
@@ -152,5 +151,4 @@ When was the last time you heard from the mouth of a priest the words
 'I don't know'?
 
 Why do they concentrate mainly on Fiqh and not on Hadeeth?
-
 

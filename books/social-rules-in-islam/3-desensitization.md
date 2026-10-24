@@ -56,12 +56,8 @@ sincere. Thus, we should judge them for their good intention. For this
 reason negative assumption is considered a mortal sin in Islam. The
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ
 
 ***“O you who believe! Avoid much suspicion; indeed some suspicions
 (negative assumptions) are sins….” (the Holy Qur’an 49:12)***
@@ -103,17 +99,9 @@ take revenge it will die out.
 Imam ‘Ali (a.s) advised his son Muhammad In Hanafiya:
 
 > یا بُنی\`! الکلام ذَکَر، و الجواب انثی، فاذا اجتمع الزوجان فلابد\` من
-<blockquote dir="rtl">
-  <p>
-انتاج.
-  </p>
-</blockquote>
+> انتاج.
 
-<blockquote dir="rtl">
-  <p>
-سلیم العِرض من حذر الجوابا و مَن داری الرجال فقد اصابا
-  </p>
-</blockquote>
+> سلیم العِرض من حذر الجوابا و مَن داری الرجال فقد اصابا
 
 > -وسائل الشیعة 12:220
 
@@ -130,5 +118,4 @@ And whoever complies with people has met the right target.
 [^2]: Al-Kafi, 2/96
 
 [^3]: Wasa’il ush-Shi’a, 12/220
-
 

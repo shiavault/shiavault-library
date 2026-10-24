@@ -157,4 +157,3 @@ attitudes of the Companions.
 [^2]: al Mustadrak, al Hakim (al Dhahabi's abridged), vol 3 p 151,Al
 Sawaiq al Muhriqah, Ibn Hajjar, p 184, 234
 
-

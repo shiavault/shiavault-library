@@ -473,4 +473,3 @@ Messenger of Allah or \`Umar?”); al-Bayhaqiy: al-Sunan al-Kubra 5:21 H.
 [^9]: Al-Zubayr ibn Bakkar: al-Muwaffaqiyyat 332-333. In this reference
 book, the author has written a commentary to this report.
 
-

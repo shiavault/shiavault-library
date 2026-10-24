@@ -64,22 +64,14 @@ genealogy goes back to Bani Umayyah and without any doubt, cursing the
 friends of the Holy Imams (as) is haraam. And the Almighty Allah has
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
-  </p>
-</blockquote>
+> وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
 
 ***And no bearer of burden shall bear the burden of another. (Qur’an,
 Surah Anaam 6:164)***
 
 Allah, the High and the Mighty has also said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ
-  </p>
-</blockquote>
+> كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ
 
 ***Every man is responsible for what he shall have wrought. (Qur’an,
 Surah Tur 52:21)***
@@ -93,20 +85,12 @@ Momineen (as) and the Imams (as), to whichever tribe he may belong, he
 will be counted as a doer of good. This can be proved from the saying of
 Almighty:
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَىٰ نُوحٌ رَبَّهُ فَقَالَ رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي
-وَإِنَّ وَعْدَكَ الْحَقُّ وَأَنْتَ أَحْكَمُ الْحَاكِمِينَ .
-  </p>
-</blockquote>
+> وَنَادَىٰ نُوحٌ رَبَّهُ فَقَالَ رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي
+> وَإِنَّ وَعْدَكَ الْحَقُّ وَأَنْتَ أَحْكَمُ الْحَاكِمِينَ .
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُ عَمَلٌ غَيْرُ
-صَالِحٍ ۖ فَلَا تَسْأَلْنِ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۖ إِنِّي
-أَعِظُكَ أَنْ تَكُونَ مِنَ الْجَاهِلِينَ
-  </p>
-</blockquote>
+> قَالَ يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُ عَمَلٌ غَيْرُ
+> صَالِحٍ ۖ فَلَا تَسْأَلْنِ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۖ إِنِّي
+> أَعِظُكَ أَنْ تَكُونَ مِنَ الْجَاهِلِينَ
 
 ***And Nuh cried out to his Lord and said: My Lord! surely my son is of
 my family, and Your promise is surely true, and You are the most just of
@@ -123,12 +107,8 @@ Allah, from us. And I asked him: May I be sacrificed on you, from Aale
 Muhammad? He replied: Yes, by Allah, from them only. O Umar, have you
 not seen the following verse in the Book of Allah?
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
-النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ
 
 ***Most surely the nearest of people to Ibrahim are those who followed
 him and this Prophet and those who believe and Allah is the guardian of
@@ -136,12 +116,8 @@ the believers (Qur’an, Surah Aale Imran 3:68).*** [^3]
 
 And have you not read the following?
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ
-رَحِيمٌ
-  </p>
-</blockquote>
+> فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ
+> رَحِيمٌ
 
 ***Then whoever follows me, he is surely of me, and whoever disobeys me,
 You surely are Forgiving, Merciful. (Qur’an, Surah Ibrahim 14:36)***
@@ -154,5 +130,4 @@ so far would be sufficient for the people of insight.
 [^2]: Tahdhib, Vol. 2, Pg. 109, Tr. no. 179
 
 [^3]: Tafseer Al-Burhan, Vol. 1/290 &
-
 

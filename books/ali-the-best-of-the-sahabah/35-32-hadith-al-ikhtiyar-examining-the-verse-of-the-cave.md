@@ -3,21 +3,13 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-يقول الله إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ
-هما في الغار إذ يقول لصاحبه لا تحزن أن الله معنا
-  </p>
-</blockquote>
+> يقول الله إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ
+> هما في الغار إذ يقول لصاحبه لا تحزن أن الله معنا
 
-<blockquote dir="rtl">
-  <p>
-و مثل هذه الفضيلة لم تحصل لغير أبي بكر قطعا ... و الأفضلية إنما تثبت
-بالخصائص لا بالمشتركات ...و قد قال العلماء ما صح لعلي من الفضائل فهي
-مشتركة شاركه فيها غيره بخلاف الصديق فان كثيرا من فضائله و أكثرها خصائص
-له لا يشركه فيها غيره
-  </p>
-</blockquote>
+> و مثل هذه الفضيلة لم تحصل لغير أبي بكر قطعا ... و الأفضلية إنما تثبت
+> بالخصائص لا بالمشتركات ...و قد قال العلماء ما صح لعلي من الفضائل فهي
+> مشتركة شاركه فيها غيره بخلاف الصديق فان كثيرا من فضائله و أكثرها خصائص
+> له لا يشركه فيها غيره
 
 Allah says: {If you help him not, for Allah did indeed help him when the
 disbelievers drove him out, the second of two, when they both were in
@@ -36,13 +28,9 @@ In other words, the above verse establishes the superiority of Abu Bakr
 over all the Sahabah. It contains his *exclusive* merit. Our Shaykh says
 further:
 
-<blockquote dir="rtl">
-  <p>
-فيقال لا ريب أن الفضيلة التي حصلت لأبي بكر قي الهجرة لم تحصل لغيره من
-الصحابة بالكتاب و السنة و الإجماع فتكون هذه الأفضلية ثابتة له دون عمر
-و عثمان و علي و غيرهم من الصحابة فيكون هو الإمام
-  </p>
-</blockquote>
+> فيقال لا ريب أن الفضيلة التي حصلت لأبي بكر قي الهجرة لم تحصل لغيره من
+> الصحابة بالكتاب و السنة و الإجماع فتكون هذه الأفضلية ثابتة له دون عمر
+> و عثمان و علي و غيرهم من الصحابة فيكون هو الإمام
 
 So, it is said that there is no doubt that the merit achieved by Abu
 Bakr during the *Hijrah*, **none other of the Sahabah achieved it**, in
@@ -81,14 +69,10 @@ leaving it no chance of revival!
 We will begin our analysis by looking first at the full text of the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
-الغار إذ يقول لصاحبه لا تحزن إن الله معنا فأنزل الله سكينته عليه وأيده
-بجنود لم تروها وجعل كلمة الذين كفروا السفلى وكلمة الله هي العليا والله
-عزيز حكيم
-  </p>
-</blockquote>
+> إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
+> الغار إذ يقول لصاحبه لا تحزن إن الله معنا فأنزل الله سكينته عليه وأيده
+> بجنود لم تروها وجعل كلمة الذين كفروا السفلى وكلمة الله هي العليا والله
+> عزيز حكيم
 
 If you help **him** not, for Allah did indeed help **him** when the
 disbelievers drove **him** out - the second of two *when* they both were
@@ -122,12 +106,8 @@ fail, and His Own Plan to succeed.
 
 Particular attention must be paid to this part:
 
-<blockquote dir="rtl">
-  <p>
-إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
-الغار إذ يقول لصاحبه
-  </p>
-</blockquote>
+> إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
+> الغار إذ يقول لصاحبه
 
 If you help **him** not, for Allah did indeed help **him** when the
 disbelievers drove **him** out - the second of two when they both were
@@ -140,13 +120,9 @@ companion. This is so obvious from the text of the verse. Meanwhile,
 Prof. Ibn Yasin, a contemporary Sunni *mufassir*, also states in support
 of our proposition under the verse:
 
-<blockquote dir="rtl">
-  <p>
-أخرج الطبري بسنده الصحيح عن مجاهد: (إلا تنصروه) ذكر ما كان في أول شأنه
-حين بعثه يقول الله: فأنا فاعل ذلك به وناصره، كما نصرته إذ ذاك وهو ثاني
-اثنين.
-  </p>
-</blockquote>
+> أخرج الطبري بسنده الصحيح عن مجاهد: (إلا تنصروه) ذكر ما كان في أول شأنه
+> حين بعثه يقول الله: فأنا فاعل ذلك به وناصره، كما نصرته إذ ذاك وهو ثاني
+> اثنين.
 
 Al-Tabari records **with his** ***sahih*** **chain** from Mujahid that
 he said: “(If you help him not) He mentioned what was his affair since
@@ -161,24 +137,16 @@ alleged “exclusive merit” of Abu Bakr in it is only a widespread Sunni
 misconception that he was the one referred to as “the second of two”!
 For instance, Imam al-Bukhari (d. 256 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إبراهيم بن موسى أخبرنا هشام عن معمر عن الزهري
-  </p>
-</blockquote>
+> حدثنا إبراهيم بن موسى أخبرنا هشام عن معمر عن الزهري
 
-<blockquote dir="rtl">
-  <p>
-أخبرني أنس بن مالك رضي الله عنه أنه سمع خطبة عمر الآخرة حين جلس على
-المنبر وذلك الغد من يوم توفي النبي صلى الله عليه و سلم فتشهد وأبو بكر
-صامت لا يتكلم قال كنت أرجو أن يعيش رسول الله صلى الله عليه و سلم حتى
-يدبرنا يريد بذلك أن يكون آخرهم فإن يك محمد صلى الله عليه و سلم قد مات
-فإن الله تعالى قد جعل بين أظهركم نورا تهتدون به بما هدى الله محمدا صلى
-الله عليه و سلم وإن أبا بكر صاحب رسول الله صلى الله عليه و سلم ثاني
-اثنين فإنه أولى المسلمين بأموركم فقوموا فبايعوه وكانت طائفة منهم قد
-بايعوه قبل ذلك في سقيفة بني ساعدة وكانت بيعة العامة على المنبر
-  </p>
-</blockquote>
+> أخبرني أنس بن مالك رضي الله عنه أنه سمع خطبة عمر الآخرة حين جلس على
+> المنبر وذلك الغد من يوم توفي النبي صلى الله عليه و سلم فتشهد وأبو بكر
+> صامت لا يتكلم قال كنت أرجو أن يعيش رسول الله صلى الله عليه و سلم حتى
+> يدبرنا يريد بذلك أن يكون آخرهم فإن يك محمد صلى الله عليه و سلم قد مات
+> فإن الله تعالى قد جعل بين أظهركم نورا تهتدون به بما هدى الله محمدا صلى
+> الله عليه و سلم وإن أبا بكر صاحب رسول الله صلى الله عليه و سلم ثاني
+> اثنين فإنه أولى المسلمين بأموركم فقوموا فبايعوه وكانت طائفة منهم قد
+> بايعوه قبل ذلك في سقيفة بني ساعدة وكانت بيعة العامة على المنبر
 
 Ibrahim b. Musa – Hisham – Ma’mar – al-Zuhri – Anas b. Malik, may Allah
 be pleased with him:
@@ -198,16 +166,12 @@ him.”[^5]
 Imam ‘Abd al-Razzaq (d. 211 H) has recorded the same report with the
 same chain:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا عبد الرزاق قال: أخبرنا معمر عن الزهري قال: أخبرني أنس بن مالك
-... ثم قال عمر: أما بعد ... فإن يك محمد قد مات فإن الله قد جعل بين
-أظهركم نورا تهتدون به، هذا كتاب الله فاعتصموا به، تهتدون لما هدى الله
-به محمدا صلى الله عليه وسلم ثم إن أبا بكر رحمه الله - صاحب رسول الله
-صلى الله عليه وسلم وثاني اثنين، وإنه أولى الناس بأموركم، فقوموا،
-فبايعوه
-  </p>
-</blockquote>
+> أخبرنا عبد الرزاق قال: أخبرنا معمر عن الزهري قال: أخبرني أنس بن مالك
+> ... ثم قال عمر: أما بعد ... فإن يك محمد قد مات فإن الله قد جعل بين
+> أظهركم نورا تهتدون به، هذا كتاب الله فاعتصموا به، تهتدون لما هدى الله
+> به محمدا صلى الله عليه وسلم ثم إن أبا بكر رحمه الله - صاحب رسول الله
+> صلى الله عليه وسلم وثاني اثنين، وإنه أولى الناس بأموركم، فقوموا،
+> فبايعوه
 
 ‘Abd al-Razzaq – Ma’mar – al-Zuhri – Anas b. Malik:
 
@@ -222,15 +186,11 @@ affairs. Therefore get up and swear allegiance to him.”[^6]
 
 Commenting on these reports, al-Hafiz (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-قوله) وان أبا بكر صاحب رسول الله صلى الله عليه وسلم الخ (قال ابن التين
-قدم الصحبة لشرفها ولما كان غيره قد يشاركه فيها عطف عليها ما انفرد به
-أبو بكر وهو كونه ثاني اثنين وهي أعظم فضائله التي استحق بها ان يكون
-الخليفة من بعد النبي صلى الله عليه وسلم ولذلك قال وانه أولى الناس
-بأموركم
-  </p>
-</blockquote>
+> قوله) وان أبا بكر صاحب رسول الله صلى الله عليه وسلم الخ (قال ابن التين
+> قدم الصحبة لشرفها ولما كان غيره قد يشاركه فيها عطف عليها ما انفرد به
+> أبو بكر وهو كونه ثاني اثنين وهي أعظم فضائله التي استحق بها ان يكون
+> الخليفة من بعد النبي صلى الله عليه وسلم ولذلك قال وانه أولى الناس
+> بأموركم
 
 His statement (Abu Bakr is the companion of the Messenger of Allah,
 peace be upon him, etc): Ibn al-Tin said: “He mentioned the
@@ -246,13 +206,9 @@ It is apparent that the Ahl al-Sunnah, based upon the submissions of
 ‘Umar and others, consider Abu Bakr to have been the one referred to by
 Allah as “the *second* of two” in this verse:
 
-<blockquote dir="rtl">
-  <p>
-إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
-الغار إذ يقول لصاحبه لا تحزن إن الله معنا فأنزل الله سكينته عليه وأيده
-بجنود لم تروها
-  </p>
-</blockquote>
+> إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
+> الغار إذ يقول لصاحبه لا تحزن إن الله معنا فأنزل الله سكينته عليه وأيده
+> بجنود لم تروها
 
 If you help **him** not, for Allah did indeed help **him** when the
 disbelievers drove **him** out - the second of two *when* they both were
@@ -295,13 +251,9 @@ in the Ummah. But, does this arrangement really help the Ahl al-Sunnah?
 The best way to find out is through this *hadith* recorded by Imam
 al-Bukhari:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن سنان حدثنا همام عن ثابت عن أنس عن أبي بكر رضي الله عنه
-قال :قلت للنبي صلى الله عليه و سلم وأنا في الغار لو أن أحدهم نظر تحت
-قدميه لأبصرنا فقال ما ظنك يا أبا بكر باثنين الله ثالثهما
-  </p>
-</blockquote>
+> حدثنا محمد بن سنان حدثنا همام عن ثابت عن أنس عن أبي بكر رضي الله عنه
+> قال :قلت للنبي صلى الله عليه و سلم وأنا في الغار لو أن أحدهم نظر تحت
+> قدميه لأبصرنا فقال ما ظنك يا أبا بكر باثنين الله ثالثهما
 
 Muhammad b. Sinan – Hamam – Thabit – Anas – Abu Bakr, may Allah be
 pleased with him:
@@ -316,13 +268,9 @@ the *third*. By Sunni logic therefore, Abu Bakr is superior to Allah?!
 May Allah forgive us and save us from such blasphemies. The above
 question of the Prophet was picked from this verse:
 
-<blockquote dir="rtl">
-  <p>
-ألم تر أن الله يعلم ما في السماوات وما في الأرض ما يكون من نجوى ثلاثة
-إلا هو رابعهم ولا خمسة إلا هو سادسهم ولا أدنى من ذلك ولا أكثر إلا هو
-معهم أين ما كانوا
-  </p>
-</blockquote>
+> ألم تر أن الله يعلم ما في السماوات وما في الأرض ما يكون من نجوى ثلاثة
+> إلا هو رابعهم ولا خمسة إلا هو سادسهم ولا أدنى من ذلك ولا أكثر إلا هو
+> معهم أين ما كانوا
 
 Have you not seen that Allah knows whatsoever is in the heavens and
 whatsoever is on the earth? **There is no private conversation of three,
@@ -332,34 +280,22 @@ sixth***, nor of less than that or more, except **He is with them**
 
 Let us connect everything now. First, we have the verse:
 
-<blockquote dir="rtl">
-  <p>
-إذ يقول لصاحبه لا تحزن إن الله معنا
-  </p>
-</blockquote>
+> إذ يقول لصاحبه لا تحزن إن الله معنا
 
 When he was saying to his companion: “Do not fear, **surely Allah is
 WITH US**.”
 
 Then the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-فقال ما ظنك يا أبا بكر باثنين الله ثالثهما
-  </p>
-</blockquote>
+> فقال ما ظنك يا أبا بكر باثنين الله ثالثهما
 
 He said, “O Abu Bakr! **What do you think of two, the** ***third*** **of
 whom is Allah**?”
 
 Both sentences are then connected by Allah Himself:
 
-<blockquote dir="rtl">
-  <p>
-ما يكون من نجوى ثلاثة إلا هو رابعهم ولا خمسة إلا هو سادسهم ولا أدنى من
-ذلك ولا أكثر إلا هو معهم أين ما كانوا
-  </p>
-</blockquote>
+> ما يكون من نجوى ثلاثة إلا هو رابعهم ولا خمسة إلا هو سادسهم ولا أدنى من
+> ذلك ولا أكثر إلا هو معهم أين ما كانوا
 
 **There is no private conversation of three, except He is** ***their
 fourth*****,** nor five except He is *their sixth*, **nor of less than
@@ -378,12 +314,8 @@ first undeniable fact, at this stage, is that Allah ignored Abu Bakr and
 did not help him, even though there were two of them together in the
 cave:
 
-<blockquote dir="rtl">
-  <p>
-إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
-الغار
-  </p>
-</blockquote>
+> إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
+> الغار
 
 If you help him not, for Allah did indeed help **him** when the
 disbelievers drove him out - the second of two when they both were in
@@ -402,23 +334,15 @@ concerning his *iman* and his real intentions with his migration.
 
 Allah provided two kinds of help in the cave:
 
-<blockquote dir="rtl">
-  <p>
-فأنزل الله سكينته عليه وأيده بجنود لم تروها
-  </p>
-</blockquote>
+> فأنزل الله سكينته عليه وأيده بجنود لم تروها
 
 So, Allah sent down His *sakinah* upon **him**, and helped **him** with
 forces which you saw not.
 
 Al-Hafiz Ibn Kathir (d. 774 H) comments:
 
-<blockquote dir="rtl">
-  <p>
-{فأنزل الله سكينته عليه} أي : تأييده ونصره عليه ، أي : على الرسول في
-أشهر القولين ... ولهذا قال : {وأيده بجنود لم تروها} أي: الملائكة ،
-  </p>
-</blockquote>
+> {فأنزل الله سكينته عليه} أي : تأييده ونصره عليه ، أي : على الرسول في
+> أشهر القولين ... ولهذا قال : {وأيده بجنود لم تروها} أي: الملائكة ،
 
 {So, Allah sent down His *sakinah* upon him}: meaning, (He sent down)
 His assistance and help upon him, that his, upon the Messenger according
@@ -433,11 +357,7 @@ further helped him with unseen forces, namely the angels. Abu Bakr was
 ignored. The foundational fact to note about *sakinah* is that it is
 revealed into the heart:
 
-<blockquote dir="rtl">
-  <p>
-هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم
-  </p>
-</blockquote>
+> هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم
 
 He it is **Who sent down** ***sakinah*** **into the hearts of the
 believers, that they may grow more in faith (*****iman*****)** along
@@ -455,12 +375,8 @@ would be nothing for it to strengthen.
 In particular, before Allah sends down *sakinah* to any heart, He first
 looks at what is inside it to find *iman*:
 
-<blockquote dir="rtl">
-  <p>
-لقد رضي الله عن المؤمنين إذ يبايعونك تحت الشجرة فعلم ما في قلوبهم
-فأنزل السكينة عليهم
-  </p>
-</blockquote>
+> لقد رضي الله عن المؤمنين إذ يبايعونك تحت الشجرة فعلم ما في قلوبهم
+> فأنزل السكينة عليهم
 
 Indeed, Allah was pleased with the believers when they gave their
 *ba’yah* to you (O Muhammad) under the tree. **He knew what was in their
@@ -470,22 +386,14 @@ The question is: why did Allah send down *sakinah* into the heart of His
 Prophet alone, despite the presence of Abu Bakr with him? In similar
 cases, He had equally revealed it to whichever believer was with him:
 
-<blockquote dir="rtl">
-  <p>
-فأنزل الله سكينته على رسوله وعلى المؤمنين
-  </p>
-</blockquote>
+> فأنزل الله سكينته على رسوله وعلى المؤمنين
 
 So, Allah sent down His *sakinah* upon His Messenger **and upon the
 believers**.[^15]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-ثم أنزل الله سكينته على رسوله وعلى المؤمنين وأنزل جنودا لم تروها
-  </p>
-</blockquote>
+> ثم أنزل الله سكينته على رسوله وعلى المؤمنين وأنزل جنودا لم تروها
 
 Then Allah sent down His *sakinah* upon His Messenger **and upon the
 believers**, and sent down forces which you saw not.[^16]
@@ -506,12 +414,8 @@ and found no *iman* there. Therefore, He decided to send down His
 Expectedly, Shaykh Ibn Taymiyyah feels severely troubled by this
 conclusion:
 
-<blockquote dir="rtl">
-  <p>
-وأما قول الرافضي إن القرآن حيث ذكر إنزال السكينة على رسول الله صلى
-الله عليه و سلم شرك معه المؤمنين إلا هذا الموضع ولا نقص أعظم منه
-  </p>
-</blockquote>
+> وأما قول الرافضي إن القرآن حيث ذكر إنزال السكينة على رسول الله صلى
+> الله عليه و سلم شرك معه المؤمنين إلا هذا الموضع ولا نقص أعظم منه
 
 > فالجواب أولا أن هذا يوهم أنه ذكر ذلك في مواضع متعددة وليس كذلك بل لم
 > يذكر ذلك إلا في قصة حنين ... وقد ذكر إنزال السكينة على المؤمنين وليس
@@ -542,12 +446,8 @@ First and foremost, the Rafidhi did not claim that *sakinah* was
 revealed upon the Prophet and the believers together at several places.
 His statement is very clear:
 
-<blockquote dir="rtl">
-  <p>
-وأما قول الرافضي إن القرآن حيث ذكر إنزال السكينة على رسول الله صلى
-الله عليه و سلم شرك معه المؤمنين إلا هذا الموضع ولا نقص أعظم منه
-  </p>
-</blockquote>
+> وأما قول الرافضي إن القرآن حيث ذكر إنزال السكينة على رسول الله صلى
+> الله عليه و سلم شرك معه المؤمنين إلا هذا الموضع ولا نقص أعظم منه
 
 As for the statement of the Rafidhi that “the Qur’an, **whenever it
 mentions the descent of** ***sakinah*** **upon the Messenger of Allah,
@@ -566,15 +466,11 @@ Secondly, our Shaykh’s claim that *sakinah* descended upon the Prophet
 and the believers together only at Hunayn (8 H), and at no other place,
 is equally untrue! The same thing occurred at al-Hudaybiyyah (6 H) too:
 
-<blockquote dir="rtl">
-  <p>
-إذ جعل الذين كفروا في قلوبهم الحمية حمية الجاهلية فأنزل الله سكينته
-على رسوله وعلى المؤمنين وألزمهم كلمة التقوى وكانوا أحق بها وأهلها وكان
-الله بكل شيء عليما لقد صدق الله رسوله الرؤيا بالحق لتدخلن المسجد
-الحرام إن شاء الله آمنين محلقين رءوسكم ومقصرين لا تخافون فعلم ما لم
-تعلموا فجعل من دون ذلك فتحا قريبا
-  </p>
-</blockquote>
+> إذ جعل الذين كفروا في قلوبهم الحمية حمية الجاهلية فأنزل الله سكينته
+> على رسوله وعلى المؤمنين وألزمهم كلمة التقوى وكانوا أحق بها وأهلها وكان
+> الله بكل شيء عليما لقد صدق الله رسوله الرؤيا بالحق لتدخلن المسجد
+> الحرام إن شاء الله آمنين محلقين رءوسكم ومقصرين لا تخافون فعلم ما لم
+> تعلموا فجعل من دون ذلك فتحا قريبا
 
 When those who disbelieve had put in their hearts pride and haughtiness,
 the pride and haughtiness of *Jahiliyyah*, **then Allah sent down His**
@@ -636,16 +532,12 @@ second:
 
 > ويقال ثانيا الناس قد تنازعوا في عود الضمير في قوله تعالى فأنزل الله
 > سكينته عليه سورة التوبة 40 فمنهم من قال إنه عائد إلى النبي صلى الله
-<blockquote dir="rtl">
-  <p>
-عليه و سلم ومنهم من قال إنه عائد إلى أبي بكر لأنه أقرب المذكورين ولأنه
-كان محتاجا إلى إنزال السكينة فأنزل السكينة عليه كما أنزلها على
-المؤمنين الذين بايعوه تحت الشجرة والنبي صلى الله عليه و سلم كان
-مستغنيا عنها في هذه الحال لكمال طمأنينته بخلاف إنزالها يوم حنين فإنه
-كان محتاجا إليها لانهزام جمهور أصحابه وإقبال العدو نحوه وسوقه ببغلته
-إلى العدو
-  </p>
-</blockquote>
+> عليه و سلم ومنهم من قال إنه عائد إلى أبي بكر لأنه أقرب المذكورين ولأنه
+> كان محتاجا إلى إنزال السكينة فأنزل السكينة عليه كما أنزلها على
+> المؤمنين الذين بايعوه تحت الشجرة والنبي صلى الله عليه و سلم كان
+> مستغنيا عنها في هذه الحال لكمال طمأنينته بخلاف إنزالها يوم حنين فإنه
+> كان محتاجا إليها لانهزام جمهور أصحابه وإقبال العدو نحوه وسوقه ببغلته
+> إلى العدو
 
 It is said, secondly: people disagree on exactly who was intended with
 His statement {So Allah sent down His *sakinah* upon him) in *Surah
@@ -665,13 +557,9 @@ This one is even far worse! To begin with, suggesting that the *sakinah*
 descended upon Abu Bakr in the Verse of the Cave, and not the Prophet,
 is high blasphemy. Let us have a renewed look at the verse:
 
-<blockquote dir="rtl">
-  <p>
-إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
-الغار إذ يقول لصاحبه لا تحزن إن الله معنا فأنزل الله سكينته عليه وأيده
-بجنود لم تروها
-  </p>
-</blockquote>
+> إلا تنصروه فقد نصره الله إذ أخرجه الذين كفروا ثاني اثنين إذ هما في
+> الغار إذ يقول لصاحبه لا تحزن إن الله معنا فأنزل الله سكينته عليه وأيده
+> بجنود لم تروها
 
 If you help him not, **for Allah did indeed help him** when the
 disbelievers drove him out - the second of two *when* they both were in
@@ -688,12 +576,8 @@ there is ambiguity in the statement. There is none here. Anyway, as
 stated by al-Hafiz Ibn Kathir, the majority of Sunni scholars agree with
 the apparent teaching of the verse:
 
-<blockquote dir="rtl">
-  <p>
-{فأنزل الله سكينته عليه} أي : تأييده ونصره عليه ، أي : على الرسول في
-أشهر القولين
-  </p>
-</blockquote>
+> {فأنزل الله سكينته عليه} أي : تأييده ونصره عليه ، أي : على الرسول في
+> أشهر القولين
 
 {So, Allah sent down His *sakinah* upon him}: meaning, (He sent down)
 His assistance and help upon him, that his, **upon the Messenger
@@ -702,11 +586,7 @@ according to the more popular of two views**.[^20]
 Our Shaykh also suggests that *sakinah* is revealed to remove fear and
 restore calm, a submission completely contradictory to the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم
-  </p>
-</blockquote>
+> هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم
 
 He it is **Who sent down** ***sakinah*** **into the hearts of the
 believers, THAT THEY MAY GROW MORE IN FAITH (*****IMAN*****)** along
@@ -727,15 +607,11 @@ just to uplift Abu Bakr!
 
 Shaykh Ibn Taymiyyah now moves to his final “answer”:
 
-<blockquote dir="rtl">
-  <p>
-يقال على هذا لما قال لصاحبه إن الله معنا والنبي صلى الله عليه و سلم هو
-المتبوع المطاع وأبو بكر تابع مطيع وهو صاحبه والله معهما فإذا حصل
-للمتبوع في هذه الحال سكينة وتأييد كان ذلك للتابع أيضا بحكم الحال فإنه
-صاحب تابع لازم ولم يحتج أن يذكر هنا أبو بكر لكمال الملازمة والمصاحبة
-التي توجب مشاركة النبي صلى الله عليه و سلم في التأييد
-  </p>
-</blockquote>
+> يقال على هذا لما قال لصاحبه إن الله معنا والنبي صلى الله عليه و سلم هو
+> المتبوع المطاع وأبو بكر تابع مطيع وهو صاحبه والله معهما فإذا حصل
+> للمتبوع في هذه الحال سكينة وتأييد كان ذلك للتابع أيضا بحكم الحال فإنه
+> صاحب تابع لازم ولم يحتج أن يذكر هنا أبو بكر لكمال الملازمة والمصاحبة
+> التي توجب مشاركة النبي صلى الله عليه و سلم في التأييد
 
 It is said upon this: when he said to his companion, “Allah is with us”,
 the Prophet, peace be upon him, was the leader while Abu Bakr was the
@@ -754,11 +630,7 @@ benefitted from Allah’s provision of security to His Prophet. However,
 the same cannot be said about His *sakinah*, which has to do only with
 the growth of *iman* in the heart:
 
-<blockquote dir="rtl">
-  <p>
-هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم
-  </p>
-</blockquote>
+> هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم
 
 He it is **Who sent down** ***sakinah*** **into the hearts of the
 believers, THAT THEY MAY GROW MORE IN FAITH (*****IMAN*****)** along
@@ -771,11 +643,7 @@ Sahabah present there were also “companions” and “sticking followers” of
 the Prophet, Allah still saw the need to separately send down *sakinah*
 upon them:
 
-<blockquote dir="rtl">
-  <p>
-فأنزل الله سكينته على رسوله وعلى المؤمنين
-  </p>
-</blockquote>
+> فأنزل الله سكينته على رسوله وعلى المؤمنين
 
 So, Allah sent down His *sakinah* upon His Messenger **and upon the
 believers**.[^24]
@@ -788,11 +656,7 @@ precarious situations. How would he explain what Allah did at
 al-Hudaybiyyah? On the other hand, Abu Bakr displayed demeaning levels
 of fear in the cave:
 
-<blockquote dir="rtl">
-  <p>
-إذ يقول لصاحبه لا تحزن إن الله معنا
-  </p>
-</blockquote>
+> إذ يقول لصاحبه لا تحزن إن الله معنا
 
 When **he was saying** to his companion: “**Do not fear**, surely Allah
 is with us.”
@@ -889,5 +753,4 @@ Minhaj al-Sunnah al-Nabawiyyah (Muasassat Qurtubah; 1st edition, 1406 H)
 [^23]: Qur’an 48:4
 
 [^24]: Qur’an 48:26
-
 

@@ -67,7 +67,7 @@ edition) p 853: Muwatta, Imam Malik, vol 2.p 623.For the verse of
 suckling, see: Sahih Muslim, vol. 4. p. 167: As-Suyuti, ad-Durru
 'l-Manthur, vol. 2. p.
 
-[^30] Sahih Muslim, vol 1. p. 167: As-Suyuti, ad-Durru 'l-Manthur, vol2.
+[^30]: Sahih Muslim, vol 1. p. 167: As-Suyuti, ad-Durru 'l-Manthur, vol2.
 p. 135.
 
 [^31] Musnad Ahmad bin Hanbal. vol. 6. p. 269: Sunan Ibn Majah, p. 626:
@@ -75,5 +75,5 @@ Ibn Qutbah, Tawil Mukhtalafi 'l-Hadith (Cairo: Maktaba al-Kulliyat
 al-Azhariyya. 1966) p. 310 which has been misprinted as 210-: As-Suyuti,
 ad-Durru 'l-Manthur, vol. 2. p. 13.
 
-[^32] al Bayan , p. 224.
+[^32]: al Bayan , p. 224.
 

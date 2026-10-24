@@ -7,12 +7,8 @@ by the angels appointed on him by the Almighty Allah.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ عَلَيْكُمْ لَحَافِظِينَ \* كِرَاماً كَاتِبِينَ \* يَعْلَمُونَ
-مَا تَفْعَلُونَ‏
-  </p>
-</blockquote>
+> وَ إِنَّ عَلَيْكُمْ لَحَافِظِينَ \* كِرَاماً كَاتِبِينَ \* يَعْلَمُونَ
+> مَا تَفْعَلُونَ‏
 
 ***And most surely there are keepers over you. Honorable recorders, they
 know what you do. (82:10-12)***
@@ -21,13 +17,9 @@ That writing in the terminology of Quran is named as ‘bird’ and ‘book’.
 
 It is also said in Quran that:
 
-<blockquote dir="rtl">
-  <p>
-وَ كُلَّ إِنسَنٍ أَلْزَمْنَهُ طَئِرَهُ فِى عُنُقِهِ وَنُخْرِجُ لَهُ
-يَوْمَ الْقِيَمَةِ كِتَباً يَلْقَهُ مَنشُوراً \* اِقْرَأْ كِتَبَكَ
-كَفَى‏ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيباً
-  </p>
-</blockquote>
+> وَ كُلَّ إِنسَنٍ أَلْزَمْنَهُ طَئِرَهُ فِى عُنُقِهِ وَنُخْرِجُ لَهُ
+> يَوْمَ الْقِيَمَةِ كِتَباً يَلْقَهُ مَنشُوراً \* اِقْرَأْ كِتَبَكَ
+> كَفَى‏ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيباً
 
 ***And We have made every man’s actions to cling to his neck, and We
 will bring forth to him on the resurrection day a book which he will
@@ -64,14 +56,10 @@ their written records.
 
 The Almighty Allah says in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
-بَعِيداً وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ وَ اللَّهُ رَءُوفٌ
-بِالْعِبَادِ
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
+> بَعِيداً وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ وَ اللَّهُ رَءُوفٌ
+> بِالْعِبَادِ
 
 ***On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and
@@ -81,14 +69,10 @@ the servants. (3:30)***
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-وَوُضِعَ الْكِتَبُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
-وَيَقُولُونَ يَوَيْلَتَنَا مَالِ هَذَا الْكِتَبِ لَا يُغَادِرُ
-صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَهَا وَوَجَدُواْ مَا عَمِلُواْ
-حَاضِراً وَلَا يَظْلِمُ رَبُّكَ أَحَداً
-  </p>
-</blockquote>
+> وَوُضِعَ الْكِتَبُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ
+> وَيَقُولُونَ يَوَيْلَتَنَا مَالِ هَذَا الْكِتَبِ لَا يُغَادِرُ
+> صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَهَا وَوَجَدُواْ مَا عَمِلُواْ
+> حَاضِراً وَلَا يَظْلِمُ رَبُّكَ أَحَداً
 
 ***And the Book shall be placed, then you will see the guilty fearing
 from what is in it, and they will say: Ah! woe to us! what a book is
@@ -114,11 +98,7 @@ The same meaning is intended in some traditions.
 Abul Jarud has narrated from Imam Muhammad Baqir (as) that he said in
 the interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ كُلَّ إِنسَنٍ أَلْزَمْنَهُ طَئِرَهُ فِى عُنُقِهِ
-  </p>
-</blockquote>
+> وَ كُلَّ إِنسَنٍ أَلْزَمْنَهُ طَئِرَهُ فِى عُنُقِهِ
 
 ***And We have made every man’s actions to cling to his neck… (17:13)***
 
@@ -145,12 +125,8 @@ if he has committed it that very moment.
 
 Therefore the Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَوَيْلَتَنَا مَالِ هَذَا الْكِتَبِ لَا يُغَادِرُ صَغِيرَةً وَلَا
-كَبِيرَةً إِلَّا أَحْصَهَا
-  </p>
-</blockquote>
+> يَوَيْلَتَنَا مَالِ هَذَا الْكِتَبِ لَا يُغَادِرُ صَغِيرَةً وَلَا
+> كَبِيرَةً إِلَّا أَحْصَهَا
 
 ***Ah! woe to us! what a book is this! it does not omit a small one nor
 a great one, but numbers them (all)… (18:49)***[^3]
@@ -258,5 +234,4 @@ lowest level and in a horrific form.[^7]
 [^6]: Ilmul Yaqeen, Vol. 2, Pg. 938.
 
 [^7]: Maad az Deedgah Imam Khomeini, Pg. 339.
-
 

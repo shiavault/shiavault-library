@@ -44,4 +44,3 @@ perform it…”
 [^1]: Faqih Yamani author of Fauz al-Akbar Feema Yatalluq Ba Imaam
 al-Asr (as)
 
-

@@ -1,14 +1,10 @@
 Discourse 32: Swallowing The Anger
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّه يَا عَلِيُّ أُوصِيكَ بِوَصِيَّةِ فَاحْفَظْهَا
-فَلاَ تَزَالُ بِخَيْرٍ مَا حَفِظْتَ وَصِيَّتِـي. يَا عَلِيُّ مَنْ
-كَظُمَ غَيْظاً وَ هُوَ يَقْدِرُ عَلى إِمْضَائِهِ أَعْقَبَهُ اللٌّهُ
-يَوْمَ الْقِيَامَةِ أَمْناً وَإِيْمَاناً يَجِدُ طَعْمَهُ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّه يَا عَلِيُّ أُوصِيكَ بِوَصِيَّةِ فَاحْفَظْهَا
+> فَلاَ تَزَالُ بِخَيْرٍ مَا حَفِظْتَ وَصِيَّتِـي. يَا عَلِيُّ مَنْ
+> كَظُمَ غَيْظاً وَ هُوَ يَقْدِرُ عَلى إِمْضَائِهِ أَعْقَبَهُ اللٌّهُ
+> يَوْمَ الْقِيَامَةِ أَمْناً وَإِيْمَاناً يَجِدُ طَعْمَهُ.
 
 The Messenger of Allah (S) has said, “O' ‘Ali! I advise you (in regards
 to something) with a piece of advice, so then safe-guard this as you
@@ -144,11 +140,7 @@ nation and destroy the entire community as well as the old man!”  Once
 they were given this command, they were told the reason why this was to
 be done:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَحْمَرَّ وَجْهُهُ لِغَضَبِ قَطُّ.
-  </p>
-</blockquote>
+> لَمْ يَحْمَرَّ وَجْهُهُ لِغَضَبِ قَطُّ.
 
 “The same old man you see awake in the dark hours of the night in
 worship is the same person whose face never turned red in anger at
@@ -209,114 +201,74 @@ Anger in the Islamic Narrations
 1. Imam Ja’far b. Muhammad as-Sadiq (as) has stated that “Anger spoils
 faith just as vinegar spoils honey.”[^2]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ جَعْفَرُ بْنُ مُحَمَّدٍ الصَّادِقُ أَلْغَضَبُ يُفْسِدُ
-الإِيـمَانَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ جَعْفَرُ بْنُ مُحَمَّدٍ الصَّادِقُ أَلْغَضَبُ يُفْسِدُ
+> الإِيـمَانَ كَمَا يُفْسِدُ الْخَلُّ الْعَسَلَ.
 
 2. Imam ‘Ali b. Abi Talib (as) has said, “I advise you in regards to
 anger since the beginning stage of it is insanity while the final stage
 of it is remorse.”
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ: إِيَّاكَ وَالْغَضَبَ، فَأَوَّلُهُ
-جُنُونٌ وَآخِرُهُ نَدَمٌ.
-  </p>
-</blockquote>
+> قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ: إِيَّاكَ وَالْغَضَبَ، فَأَوَّلُهُ
+> جُنُونٌ وَآخِرُهُ نَدَمٌ.
 
 3. The Prophet of Islam (S) has said, “The strong person is not the one
 who can lift heavy weights. Rather, the strong person is the one who is
 in control of his soul while in a state of anger.”[^3]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهُ: لَيْسَ الشَّدِيدُ بِالصُّرْعَةِ، إِنَّما
-الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهُ: لَيْسَ الشَّدِيدُ بِالصُّرْعَةِ، إِنَّما
+> الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ.
 
 4. Imam ‘Ali b. Abi Talib (as) has said, “Anger is a fire which is
 burning away. The one who is able to swallow it is the one who has
 extinguished it, while the person who permits his anger to be free is
 the first person who shall be burnt by it.”[^4]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبٍ: أَلْغَضَبُ نَارٌ
-مُوقَدَةٌ. مَنْ كَظَمَهُ أَطْفَأْهَا، وَ مَنْ أَطْلَقَهُ كَانَ أَوَّلَ
-مُحْتَرَقٌ بِهَا.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبٍ: أَلْغَضَبُ نَارٌ
+> مُوقَدَةٌ. مَنْ كَظَمَهُ أَطْفَأْهَا، وَ مَنْ أَطْلَقَهُ كَانَ أَوَّلَ
+> مُحْتَرَقٌ بِهَا.
 
 5. Imam Ja’far b. Muhammad as-Sadiq (as): “Anger is the key to all
 evil.”[^5]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ جَعْفَرُ بْنُ مُحَمَّدٍ الصَّادِقُ: أَلْغَضَبُ
-مِفْتَاحُ كُلِّ شَرٍّ.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ جَعْفَرُ بْنُ مُحَمَّدٍ الصَّادِقُ: أَلْغَضَبُ
+> مِفْتَاحُ كُلِّ شَرٍّ.
 
 6. Imam ‘Ali b. Abi Talib (as) has said, “A strong feeling of anger
 changes the way a person speaks; destroys the pillars of logic and makes
 a person's comprehension scattered and disturbed.”[^6]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبِ: شِدَّةُ الْغَضَبِ
-تُغَيِّرُ الْمَنْطِقَ، وَ تَقْطَعُ مَادَّةَ الْحُجَّةِ، وَتُفَرِّقُ
-الْفَهْمَ.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبِ: شِدَّةُ الْغَضَبِ
+> تُغَيِّرُ الْمَنْطِقَ، وَ تَقْطَعُ مَادَّةَ الْحُجَّةِ، وَتُفَرِّقُ
+> الْفَهْمَ.
 
 7. Imam ‘Ali b. Abi Talib (as) has said, “The staunchest of enemies for
 a person are his anger and lower desires. The person who is able to take
 control of these two shall have the greatest rank and shall be able to
 reach to the pinnacles of humanity.”[^7]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبٍ: أَعْدى عَدُوٍّ لِلْمَرْءِ
-غَضَـبُهُ وَشَهْوَتُهُ، فَمَنْ مَلَكَهُمَا عَظُمَتْ دَرَجَتُهُ
-وَبَلَتْ غَايَـتُهُ.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ عَلِيُّ بْنُ أَبِي طَالِبٍ: أَعْدى عَدُوٍّ لِلْمَرْءِ
+> غَضَـبُهُ وَشَهْوَتُهُ، فَمَنْ مَلَكَهُمَا عَظُمَتْ دَرَجَتُهُ
+> وَبَلَتْ غَايَـتُهُ.
 
 8. The Prophet of Allah (S) has said, “Anytime you get angry, keep
 quiet.”[^8]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهُ: إِذَا غَضِبْتَ فَاسْكُتْ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهُ: إِذَا غَضِبْتَ فَاسْكُتْ.
 
 9. Imam Musa b. Ja’far al-Kadhim (as) said, “The one who controls his
 anger over the people, Allah shall control His anger over that person on
 the Day of Judgement.”[^9]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ مُوسَـى بْنِ جَعْفَرٍ أَلْكَــاظِمُ: مَنْ كَفَّ
-غَضَـبَهُ عَنِ النَّاسِ، كَفَّ اللٌّهُ عَنْهُ غَضَبَهُ يَوْمَ
-الْقِيَامَةِ.
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ مُوسَـى بْنِ جَعْفَرٍ أَلْكَــاظِمُ: مَنْ كَفَّ
+> غَضَـبَهُ عَنِ النَّاسِ، كَفَّ اللٌّهُ عَنْهُ غَضَبَهُ يَوْمَ
+> الْقِيَامَةِ.
 
 10. The Noble Prophet (S) has said, “Anytime one of you gets angery, he
 should wash his face with cold water since surely anger is from the hell
 fire.”[^10]
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: إِذَا غَضِبَ أَحَدُكُمْ، فَيَتَوَضَّأْ
-بِالْمَآءِ الْبَارِدِ، فَإِنَّ الْغَضَبَ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: إِذَا غَضِبَ أَحَدُكُمْ، فَيَتَوَضَّأْ
+> بِالْمَآءِ الْبَارِدِ، فَإِنَّ الْغَضَبَ مِنَ النَّارِ.
 
 [^1]: Bihar al-Anwar, vol. 74, pg. 46
 
@@ -337,5 +289,4 @@ fire.”[^10]
 [^9]: Wasail al-Shia, vol. 11, pg. 298
 
 [^10]: al-Mahajjat al-Baydaaf1, vol. 5, pg. 305
-
 

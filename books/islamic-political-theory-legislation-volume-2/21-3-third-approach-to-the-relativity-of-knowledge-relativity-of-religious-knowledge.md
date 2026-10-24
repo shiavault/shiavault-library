@@ -108,20 +108,12 @@ the knowledge of the Apostle (*s*) also belongs to the realm of human
 knowledge and subject to be mistaken! That is, when God says in the
 Qur’an,
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾
-  </p>
-</blockquote>
+> ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾
 
 ***“Say, ‘He is Allah, the One’**”*[^1] or
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِلَـهُكُمْ إِلَهٌ وَاحِدٌ لا إِلَهَ إِلاَّ هُوَ الرَّحْمَنُ
-الرَّحِيمُ﴾
-  </p>
-</blockquote>
+> ﴿وَإِلَـهُكُمْ إِلَهٌ وَاحِدٌ لا إِلَهَ إِلاَّ هُوَ الرَّحْمَنُ
+> الرَّحِيمُ﴾
 
 ***“Your god is the One God; there is no god except Him, the
 All-beneficent, the All-merciful,**”*[^2]
@@ -196,5 +188,4 @@ given field.
 
 [^4]: It refers to ‘Allamah Sayyid Muhammad Husayn Ṭabataba’i, the
 renowned author of Al-Mizan fi Tafsir al-Qur’an. [Trans.]
-
 

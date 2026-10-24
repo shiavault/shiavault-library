@@ -87,7 +87,6 @@ when We call every nation with their leaders, Imams. . ." (17:71). One
 who knows who his Imam is he would be just like the one who would
 present in the tents of al- Mahdi (a.s.)."
 
-
 **Chapter 85 : The case of those who would claim to be the Imam but is
 not qualified, the case of those who would reject all or some of the
 Imams and the case of those who argue in support of one who is not a
@@ -247,5 +246,4 @@ not purify them and they will suffer pain full punishments.
 They are those who claim to be the Imam with authority from Allah,
 those who would reject the Imam, Leader with Divine Authority and those
 who think that for the two there is a share in Islam."
-
 

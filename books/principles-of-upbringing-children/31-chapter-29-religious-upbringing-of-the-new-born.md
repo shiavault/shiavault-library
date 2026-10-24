@@ -78,4 +78,3 @@ copulating with his wife." [^2]
 
 [^2]: Mustadrak al-wasail, v 2, p. 546
 
-

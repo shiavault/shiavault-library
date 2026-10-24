@@ -80,4 +80,3 @@ of Caliphate, believes like Ahlul Sunnat do. How can these opposite
 beliefs find a place in the mind of a single person? It is beyond the
 understanding of this writer.
 
-

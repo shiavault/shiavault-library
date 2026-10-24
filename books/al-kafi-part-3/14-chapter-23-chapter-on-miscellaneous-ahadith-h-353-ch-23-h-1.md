@@ -177,7 +177,6 @@ It means the Imams from us. Allah has also said, "They (children of
 Israel) did not wrong Us but wronged themselves. (2:57)" Then he
 mentioned a similar statement."
 
-
 **Chapter 24 : Chapter on al-Bida' H 364, Ch. 24, h 1**
 
 It is narrated from Muhammad ibn Yahya from Ahmad ibn Muhammad ibn 'Isa
@@ -380,5 +379,4 @@ and end. With the decree Ahe made public for people theiir places and
 guided them thereto. With the letting them to happen He explained the
 reaasons and made the affairs public. This how is the planing of the
 Most Majestic, the All-knowing."
-
 

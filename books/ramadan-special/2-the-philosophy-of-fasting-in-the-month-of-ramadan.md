@@ -19,7 +19,6 @@ in the same season. Muslims follow a purely lunar calendar, and
 consequently their month of fasting. Ramazan. Rotates gradually in all
 the seasons of the year.
 
-
 **Sense Of Fasting (Spiritual aspects)**
 
 Experience shows that a blind man has generally a stronger memory, and
@@ -141,7 +140,6 @@ moderate. Neither he is gluttonous nor quarrelsome. Accordingly the Holy
 Prophet (S.A.) and the Infallible Imams (A.S.) have mentioned these
 attributes of fasting.
 
-
 **The Holy Prophet (Mohammad) (S.A.)**
 
 The Commander of the Faithful [ALI (A.S.)] says that a party of the
@@ -186,5 +184,4 @@ Resurrection.
 The Jew said:
 
 "Mohammad, you are right."
-
 

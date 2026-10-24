@@ -169,4 +169,3 @@ al-Sunan al-Kubra 2:493 H. 4379.
 Hazm: al-Muhalla 7:107; al-Dhahbiy: Tadhkirat al-Huffadh 1:366;
 al-Jassas:Ahkam al-Qur'an 2:153.
 
-

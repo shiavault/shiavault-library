@@ -6,23 +6,11 @@ Sermon 31: Don't meet Talhah ...
 that he should advise him back to obedience, he said to him on that
 occasion:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا أنفذ عبدالله بن العباس(رحمه الله) إلى الزبير
-  </p>
-</blockquote>
+> لمّا أنفذ عبدالله بن العباس(رحمه الله) إلى الزبير
 
-<blockquote dir="rtl">
-  <p>
-قبل وقوع الحرب يوم الجمل ليستفيئه إلى طاعته
-  </p>
-</blockquote>
+> قبل وقوع الحرب يوم الجمل ليستفيئه إلى طاعته
 
 Do not meet Talhah (ibn \`Ubaydillah). If you meet him you will find him
 like an unruly bull whose horns are turned towards its ears. He rides a
@@ -32,25 +20,17 @@ cousin says that, “(It looks as if) in the Hijaz you knew me (accepted
 me), but (on coming here to) Iraq you do not know me (do not accept me).
 So, what has dissuaded (you) from what was shown (by you previously)?!”
 
-<blockquote dir="rtl">
-  <p>
-لاتَلْقَيَنَّ طَلْحَةَ، فَإِنَّكَ إِنْ تَلْقَهُ تَجِدْهُ كَالثَّوْرِ
-عَاقِصاً قَرْنَهُ يَرْكَبُ الصَّعْبَئِ وَيَقُولُ: هُوَ الذَّلُولُ،
-وَلكِنِ القَ الزُّبَيْرَ، فَإِنَّهُ أَليَنُ عَرِيكَةً فَقُلْ لَهُ:
-يَقُولُ لَكَ ابْنُ خَالِكَ: عَرَفْتَني بَالحِجَازِ وَأَنْكَرْتَنِي
-بِالعِرَاقِ، فَمَا عَدَا مِمَّابَدَا
-  </p>
-</blockquote>
+> لاتَلْقَيَنَّ طَلْحَةَ، فَإِنَّكَ إِنْ تَلْقَهُ تَجِدْهُ كَالثَّوْرِ
+> عَاقِصاً قَرْنَهُ يَرْكَبُ الصَّعْبَئِ وَيَقُولُ: هُوَ الذَّلُولُ،
+> وَلكِنِ القَ الزُّبَيْرَ، فَإِنَّهُ أَليَنُ عَرِيكَةً فَقُلْ لَهُ:
+> يَقُولُ لَكَ ابْنُ خَالِكَ: عَرَفْتَني بَالحِجَازِ وَأَنْكَرْتَنِي
+> بِالعِرَاقِ، فَمَا عَدَا مِمَّابَدَا
 
 **As-Sayyid ar-Radi says:** The last sentence of this sermon *“fama
 \`ada mimma bada”* has been heard only from Amir al-mu’minin.
 
-<blockquote dir="rtl">
-  <p>
-قال السيد الشريف: وهو (عليه السلام) أوّل من سمعت منه هذه الكلمة، أعني:
-«فَمَا عَدَا مِمَّا بَدَا«.
-  </p>
-</blockquote>
+> قال السيد الشريف: وهو (عليه السلام) أوّل من سمعت منه هذه الكلمة، أعني:
+> «فَمَا عَدَا مِمَّا بَدَا«.
 
 Alternative Sources for Sermon 31
 ---------------------------------
@@ -66,5 +46,4 @@ Alternative Sources for Sermon 31
 
 (5) Ibn Khallikan, *Wafayat al-'a\`yan,* biographical account of Ibn
 al-Mu\`allim, see \`Abd al-Zahra', I, 412.
-
 

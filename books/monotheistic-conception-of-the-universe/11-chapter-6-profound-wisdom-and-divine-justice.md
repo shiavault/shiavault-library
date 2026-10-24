@@ -224,4 +224,3 @@ a special history and is considered by the Shiah to be one of the
 articles of their faith, it will not be improper to touch briefly on its
 history also.
 
-

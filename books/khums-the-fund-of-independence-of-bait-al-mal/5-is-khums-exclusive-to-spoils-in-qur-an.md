@@ -7,12 +7,10 @@ there are lots of rulings of Qur'an which have been mentioned only once
 in Qur'an and there is no doubt that, this one time expression is
 enough). And that is verse 41 of Anfal Sura:
 
-<p dir="rtl">
 وَ اعْلَمُوا اَنَّما غَنِمْتُمْ مِنْ شَىْءه خُمُسَهُ وَ لِلرَّسُولِ وَ
 لِذِى الْقُرْبى وَ اليَتامى وَ الْمَساكينِ وَ ابْنِ السَّبيلِ اِنْ
 كُنْتُمْ آمَنْتُمْ بِالله وَما اَنْزَلْنا عَلى عَبْدِنا يَوْمَ
 الْفُرْقانِ يَوْمَ الْتَقَىالْجَمْعانِ وَ الله عَلى كُلِّ شَىء قَديرٌ
-</p>
 
 And know that whatever advantage you gain from things, one fifth of it
 is for Allah and Prophet (s.a.) and his Ahl -e- Bait and orphans and
@@ -62,11 +60,9 @@ Arab scientist and litterateurs:
 
 We read in the book “Lisan Al-Arab” (Tongue of Arab), vol. 12:
 
-<p dir="rtl">
 و الغنم: الفوز بالشّىء من غير مشقّة و... الغنم،الغنيمة و المغنم،
 الفىء... و فى الحديث الرّهن لمن رهنه له غنمه و عليه غرمه، غنمه زيادته و
 نمائه و فاضل قيمته... و غنم الشّىء غنما: فاز به
-</p>
 
 “غنم” means gaining a thing without any hardship and “غنم”, “غنيمت”
 (advantage) and “مغنم” are all in the meaning of “فيء” (and also “فيء”
@@ -79,9 +75,7 @@ excess, growth and surplus of the price … he take that as an advantage
 
 And we read in the book “Taj Al-Arous” (the bride’s brown), vol. 9:
 
-<p dir="rtl">
 والغنم الفوز بالشيء بلا مشقّة!
-</p>
 
 Advantage (غنيمت) is the thing that person gains without hardship!
 
@@ -92,9 +86,7 @@ And in the book “Mufradat” by Ragheb “غنيمت” has been said to be
 derived from the root “غنم” in the meaning of “sheep” and then it
 says:
 
-<p dir="rtl">
 ثم استعمل فى كل مظفور به من جهة العدى و غيرهم
-</p>
 
 Then it has been used in all things which person gains from enemy or
 non-enemy.
@@ -112,26 +104,20 @@ This word has been used in many cases in “Nahjul Balagha”:
 
 We read in sermon 76:
 
-<p dir="rtl">
 اِغْتَنَمِ الْمَهَلْ
-</p>
 
 Take advantage from opportunities.
 
 And we read in sermon 120:
 
-<p dir="rtl">
 مَنْ اَخَذَ بِها لَحِقَ وَ غَنِمَ
-</p>
 
 Person who acts as the religion of Allah finds happiness and takes
 advantages.
 
 And he says in letter 53 to Malik Ashtar:
 
-<p dir="rtl">
 وَ لا تَكُونَنَّ عَلَيْهِمْ سَبُعاً ضارِياً تَغْتَنِمُ اَكْلَهُمْ
-</p>
 
 Do not be like a cruel animal against people of Egypt in the way that
 consider eating them as an advantage غنيمت” and a kind of income for
@@ -139,32 +125,25 @@ yourself!
 
 And he says in letter 45 to Osman ibn Hanif:
 
-<p dir="rtl">
 فَوَ الله ما كَنَزْتُ مِنْ دُنْياكُم تِبْرأَ وَلا اَدَّخَرْتُ مِنْ
 غَنائِمِها وَفْراً
-</p>
 
 I swear to Allah that I did reserve no gold from your world, and I did
 no saving from its advantages or incomes!
 
 And it is in quotes, in sentence 331:
 
-<p dir="rtl">
 اِنَّ الله سُبْحانَهُ جَعَلَ الطّاعَةَ غَنِيمَةَ الاْكْياسِ
-</p>
 
 Indeed pure Allah has made obedience as advantage and benefit of
 tactful people.
 
 And we read in letter 31:
 
-<p dir="rtl">
 وَ اغْتَنِمْ مَنِ اسْتَقْرَضَكَ فى حَالِ غِناكَ
-</p>
 
 If a person asks you for a loan when you are rich, consider this as an
 advantage "غنيمت "
 
 And there are lots of expressions like these.
-
 

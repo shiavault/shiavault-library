@@ -248,4 +248,3 @@ with delight For him is an occultation which is inevitable And Allah
 sends salutations upon this concealed person He will stay thus for a
 while and then appear And fill with justice the East and the West
 
-

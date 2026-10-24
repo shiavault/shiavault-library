@@ -393,4 +393,3 @@ this article.
 [^23]: Bukhari, Sahih, Babu Farzil Khumus (Arabic Text with English
 Translation) Beirut, n.d. vol.4, p, 208; Muslim, Sahih, vol.5 p.154
 
-

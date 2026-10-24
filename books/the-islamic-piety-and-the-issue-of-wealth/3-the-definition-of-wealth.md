@@ -126,4 +126,3 @@ that Roger Bacon established his experimental method, considered as a
 vital requirement for Western Enlightenment and Renaissance on the basis
 of his long studies of Islam and The Qur’an[^16] .
 
-

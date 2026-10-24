@@ -10,4 +10,3 @@ Being one of the five o-loo Al-Azm prophets meant that Jesus was sent to
 the entire world of mankind and Jin (other beings living amongst us that
 can see us without us seeing them).
 
-

@@ -629,4 +629,3 @@ though, agree with it.
 
 [^13]: Surat al-Anbiya’ 21:105.
 
-

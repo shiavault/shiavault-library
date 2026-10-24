@@ -8,11 +8,7 @@ Surah Humazah, Chapter 104
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -48,67 +44,27 @@ him.[^2]
 Surah Humazah, Verses 1-9
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
-  </p>
-</blockquote>
+> وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
-  </p>
-</blockquote>
+> الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
 
-<blockquote dir="rtl">
-  <p>
-يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
-  </p>
-</blockquote>
+> يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَيُنبَذَنَّ فِي الْحُطَمَةِ
-  </p>
-</blockquote>
+> كَلَّا لَيُنبَذَنَّ فِي الْحُطَمَةِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
 
-<blockquote dir="rtl">
-  <p>
-نَارُ اللَّهِ الْمُوقَدَةُ
-  </p>
-</blockquote>
+> نَارُ اللَّهِ الْمُوقَدَةُ
 
-<blockquote dir="rtl">
-  <p>
-الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
-  </p>
-</blockquote>
+> الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ
-  </p>
-</blockquote>
+> إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فِي عَمَدٍ مُّمَدَّدَةٍ
-  </p>
-</blockquote>
+> فِي عَمَدٍ مُّمَدَّدَةٍ
 
 ***1. “Woe to every backbiter, slanderer",***  
 ***2. “Who amasses wealth and hoards it,"***  
@@ -563,5 +519,4 @@ from it, but with your Grace. Bestow Your Grace on us.*
 [^12]: Bihar-ul-Anwar, vol 73. p 142
 
 [^13]: Ibid p 137 tradition 3
-
 

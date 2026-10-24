@@ -3,24 +3,16 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَکُونُوا کَالَّذِينَ خَرَجُوا مِنْ دِياَرِکُم بَطَراً وَ
-رِئاَءَ النَّاسِ
-  </p>
-</blockquote>
+> وَ لاَ تَکُونُوا کَالَّذِينَ خَرَجُوا مِنْ دِياَرِکُم بَطَراً وَ
+> رِئاَءَ النَّاسِ
 
 *“And be not like those who came forth from their homes in great
 exultation and to be sin of men.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَقْبَلُ اللهُ تَعاَلىَ عَمَلاً فِيهِ مِثقاَلُ ذَرَّةٍ مِنْ
-رِياَءٍ
-  </p>
-</blockquote>
+> لاَ يَقْبَلُ اللهُ تَعاَلىَ عَمَلاً فِيهِ مِثقاَلُ ذَرَّةٍ مِنْ
+> رِياَءٍ
 
 *“Allah shall not accept a deed, which has an atom's weight of showing
 off in it.”*[^2]
@@ -182,12 +174,8 @@ He heard: 'We do not impose any duty on a soul except in the measure of
 its ability. Recite the following three hundred and sixty times daily;
 every word of it is charity for a vein of your body:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَ لاٌ إِلٌهَ إِلاَّ اللٌّهُ وَ
-اللٌّهُ أَكْبَرُ وَ لاٌ حَوْلَ وَ لاٌ قُوَّةَ إِلاَّ بِاللٌّهِ
-  </p>
-</blockquote>
+> سُبْحَانَ اللٌّهِ وَ الْحَمْدُ لِلٌّهِ وَ لاٌ إِلٌهَ إِلاَّ اللٌّهُ وَ
+> اللٌّهُ أَكْبَرُ وَ لاٌ حَوْلَ وَ لاٌ قُوَّةَ إِلاَّ بِاللٌّهِ
 
 Subhan Allahi, Wal Hamdu Lillahi, Wa La Ilaha Illallahu, Wallahu Akbar,
 Wa La Haul Wa La Quwwata Illa Billah.'
@@ -218,5 +206,4 @@ pg. 144
 
 [^10]: Pand-e-Tarikh, vol. 1, pg. 35; Bihar al-Anwar, vol. 18, pg. 523
 (Old Publication)
-
 

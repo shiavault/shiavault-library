@@ -5,7 +5,6 @@ Presentation
 
 ***(Surah Nahl 16:43)***
 
-
 This international organization named “The Islamic Seminary”,
 established under the patronage of His Eminence Ayatullah Khu’i, is
 endeavoring to convey authentic Islamic Literature to the people of the
@@ -60,6 +59,4 @@ jointly and singly.”(Surah Saba 34: 46)***
 May Allah bless you!
 Yours in Islam,
 Publication Secretary
-
-
 

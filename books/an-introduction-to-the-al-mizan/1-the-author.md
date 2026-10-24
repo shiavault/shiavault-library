@@ -61,4 +61,3 @@ Mutahhari, Martyr Beheshti, Hasan Hasanzadeh Amuli and Husayn Nasr.
 The 'Allamah was also a good poet. He composed the poetry mainly in
 Persian, but occasionally in Arabic also.
 
-

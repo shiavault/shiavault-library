@@ -42,7 +42,6 @@ Baqar - e - Isphahani gave him a loan of 20,000 dinars.
 
 Moral: Kindness is never wasted.
 
-
 **The Five Loaves**
 
 Zarr Bin Hobeish relates this story. Two travellers sat together on the
@@ -83,5 +82,4 @@ Payame Shadi 3-9;Qurn
 Payame Shadi 4-2;Qum
 LIGHT - April 1975; Dar-es-Salaam.
 Golden Crescent Group Fifth Seminar Report - 1975;
-
 

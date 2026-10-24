@@ -120,4 +120,3 @@ the ‘Madda’ (essence) is present in whatever state it may be. It is
 stated in the Holy Qur’an, “We will recreate you second time in the same
 way as We created you originally.”
 
-

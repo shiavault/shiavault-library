@@ -89,4 +89,3 @@ Beirut, Dar al-Fikr.
 32. Shams al-Din Ahmad bin Muhammad bin Khallakan, *Wafayat al-A'ayan*,
 Beirut, Dar Sadir.
 
-

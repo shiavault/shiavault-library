@@ -473,4 +473,3 @@ Chapter 2 of Rizvi's Shī'ism: Imāmate and Wilāyah. There are a multitude
 of other traditions in which the Messenger of Allāh explicitly appoints
 'Alī as his heir and successor.
 
-

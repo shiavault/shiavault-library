@@ -1673,4 +1673,3 @@ the conditions of being just, etc. or his representative, who, in cases
 needing what in English is called a magistrate, assumes this
 responsibility.
 
-

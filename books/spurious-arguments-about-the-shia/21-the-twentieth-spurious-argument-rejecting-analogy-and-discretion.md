@@ -57,4 +57,3 @@ Imam Ali deposited this knowledge with the Infallible
 
 Imams and each in turn inherited it.
 
-

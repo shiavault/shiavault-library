@@ -113,4 +113,3 @@ Abd al Uzza ( the slave of Uzza the idol) to Abd Allah. Abd al Haris
 
 [^6]: Ibid.
 
-

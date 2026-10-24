@@ -3,11 +3,7 @@ Lesson Ninety Nine: The Zealous
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللّهَ تَعالَى يُحِبُّ مِنْ عِبادِهِ الْغَيُورَ
-  </p>
-</blockquote>
+> إنَّ اللّهَ تَعالَى يُحِبُّ مِنْ عِبادِهِ الْغَيُورَ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ was zealous’. Zeal is a powerful barrier against the advance of alien
 forces and ideologies.
 
 [^1]: Nahjul Fasahah, page 15
-
 

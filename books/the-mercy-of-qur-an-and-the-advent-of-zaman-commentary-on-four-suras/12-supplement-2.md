@@ -271,4 +271,3 @@ before creation, was planned. He was a potential manifestation. Allah
 reminds man in the Qur'an of the time when he was in the non-manifest,
 simply as potential energies.
 
-

@@ -275,4 +275,3 @@ quite famous in the books of Sunnah. The same is true about his
 ignorance of the injunctions relevant to tayammum; these are all known
 to everyone as al-Bukhari indicates on p. 90, Vol. 1, of his Sahih.
 
-

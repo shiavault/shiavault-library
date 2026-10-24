@@ -3,14 +3,10 @@
 
  
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ (ع): قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ (ص)
-فَقَالَ: يَا رَسُولَ اللٌّهِ مَنْ أَبَرُّ؟ قَالَ أُمَّكَ. قَالَ ثُمَّ
-مَنْ؟ قَالَ أُمَّكَ. قَالَ ثُمَّ مَنْ؟ قَالَ أُمَّكَ. قَالَ ثُمَّ
-مَنْ؟ قَالَ أَبَاكَ‏.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ (ع): قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ (ص)
+> فَقَالَ: يَا رَسُولَ اللٌّهِ مَنْ أَبَرُّ؟ قَالَ أُمَّكَ. قَالَ ثُمَّ
+> مَنْ؟ قَالَ أُمَّكَ. قَالَ ثُمَّ مَنْ؟ قَالَ أُمَّكَ. قَالَ ثُمَّ
+> مَنْ؟ قَالَ أَبَاكَ‏.
 
 Imam as-Sadiq (peace be upon him) relates that once a person approached
 the Noble Prophet (peace be upon him and his family) and asked: “O’
@@ -22,5 +18,4 @@ replied: “Your mother.”  For the fourth time the man asked: “And then?”
 This time he said: “(Then towards) Your father.”
 
 Biharul Anwar, Volume 74, Page 49
-
 

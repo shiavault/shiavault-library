@@ -292,4 +292,3 @@ The author says: There are a lot of almost mutawatir traditions
 narrated through the chains of both sects, in condemnation of swallowing
 the orphan's property, showing that it is a major and mortal sin.
 
-

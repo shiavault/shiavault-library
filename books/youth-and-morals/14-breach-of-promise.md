@@ -283,4 +283,3 @@ responsibilities towards vows and promises.
 
 [^7]: Ghurar al-Hikam p. 223.
 
-

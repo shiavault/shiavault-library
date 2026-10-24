@@ -10,4 +10,3 @@ Glossary of Islamic Terms
 *SUNNAT* or *MUSTAHAB*: recommended, desirable, better.  
 *WAJIB*: obligatory, necessary, incumbent.
 
-

@@ -105,7 +105,6 @@ next man."
 1. The case with David and Solomon (a.s.) is referred to in the Holy
 Quran (21:78 - 79) .
 
-
 **Chapter 61 : The Imams (a.s.) never did and would not do anything
 except because of the covenant of Allah, the Most Holy, the Most High,
 and a command from Him and they did not go beyond such limits H 740, Ch.
@@ -392,5 +391,4 @@ and support. You were certainly assigned for his support and help and to
 weep for him. The angels then wept in mourning and sadness for their
 loss of the opportunity to help and support to him. When he will come
 out they will be of his helpers."
-
 

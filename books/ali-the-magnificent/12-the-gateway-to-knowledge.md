@@ -45,7 +45,6 @@ regular science. The elaboration of the various doctrines and dogmas
 which have since enlightened the Muslims, was thus chiefly due to the
 initiative taken by Ali.
 
-
 Ali an authority on the Scriptures
 There is ample evidence to show that. Ali was well acquainted with both
 the Old and New Testaments, which he applied frequently when deciding
@@ -84,7 +83,6 @@ magnitude he left unattended by God?"
 The duty of the collection and codification of the Quran was entrusted
 to Ali.
 
-
 Ali dedicates his life to the propagation of truth
 A careful study of the biographies of great men reveals that they lived
 for a central idea and that their life's work consisted of delivering
@@ -115,7 +113,6 @@ Islam. Through his exalted personality, the ideals, for which he stood
 and which he embodied in his own saintly life, have continued to flow
 through Islam in a mighty stream.
 
-
 His Character
 The late George Gordon was a famous Christian historian, linguist,
 philosopher and poet of Egypt. Arabic was his mother tongue, at the same
@@ -138,7 +135,6 @@ and in his sincere belief in truth and justice. He never had a servant
 and never allowed his slaves to work hard. Often he would carry his
 household goods himself and if anybody offered to relieve him of the
 weight he would refuse."
-
 
 Ali's views on charity
 Ali was always extremely poor, yet he was as renowned for his charity
@@ -255,7 +251,6 @@ dare you talk so insolently to the Commander of the Faithful?" The widow
 in great shame fell prostrate to the ground, begging forgiveness, but
 Ali said, "It is Ali who must feel ashamed at having neglected you."
 
-
 Ali's humility
 Ali was humble and hated pomp and arrogance. Even as Caliph he used to
 sweep the floor of his own house, chop wood for fuel, carry water on his
@@ -295,7 +290,6 @@ in justice, and never conceal the truth from me. I cannot trust any
 flatterer because he might mislead me and his tempting talk might
 beguile me into vainglory. I pray to God to save me from an erroneous
 path. We men are all alike and there is no other Master than God."
-
 
 Reforms and social justice
 Ali's ideas of social justice were all based on the laws which had been
@@ -338,7 +332,6 @@ wanting in their duties towards God, in His mercy He may forgive them ;
 but the violation of the rights of individuals involved infringements of
 the laws of society and the guilty parties could only be forgiven by
 those whom they had wronged.
-
 
 Ali's submission to law
 The fame of Ali's impartiality as Chief justice spread far and wide.
@@ -423,7 +416,6 @@ my face, I got enraged and his
 death at that juncture would have been attributed to a motive of
 retaliation rather than in the spirit of Jehad."
 
-
 His greatness
 Muslim scholars unanimously agree with the fact, "that none of the
 companions of the Holy Prophet was so widely praised by God (through the
@@ -500,7 +492,6 @@ curtains of light and on every one of the pillars of the empyrean to
 which I came, I saw written, There is no God but Allah, Muhammad is the
 Apostle of God, and Ali ibn Abu Talib is the commander of the
 Faithful."
-
 
 Ibne-abil-Hadeed on Hazrat Ali
 Allama Ibne abil Hadid al-Motazali, the commentator of Nahjul Balagha,
@@ -1062,7 +1053,6 @@ the place till his sight left him.
 25. Abul Qasim-al-Zajjaji narrates in his Dictations that Ali wrote a
 work on the principles of the Arabic language and the Grammar of the
 Arabic language.
-
 
 Ali's superiority recognised by the Holy Prophet
 The Holy Prophet recognised the superiority of Ali in many of his

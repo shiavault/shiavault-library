@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى وَ اتَّقُوْنِ يَـا أُُولِي
-الأََلْبَابِ
-  </p>
-</blockquote>
+> فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى وَ اتَّقُوْنِ يَـا أُُولِي
+> الأََلْبَابِ
 
 “But the best of provisions is right conduct. So fear Me, O’ ye that are
 wise.”[^1]  
  Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُقَلَّلُ عَمَلٌ مَعَ تَقْوىً.
-  </p>
-</blockquote>
+> لاَ يُقَلَّلُ عَمَلٌ مَعَ تَقْوىً.
 
 “No deed, if accompanied by piety, is trivial.”[^2]
 
@@ -216,5 +208,4 @@ cautioned him.[^9]
 Shakhsiyyat-e-Sheikh Ansari, Page 70
 
 [^9]: Namunah-e-Ma’arif, Volume 3, Page 171; Al-Wafi, Volume 3, Page 60
-
 

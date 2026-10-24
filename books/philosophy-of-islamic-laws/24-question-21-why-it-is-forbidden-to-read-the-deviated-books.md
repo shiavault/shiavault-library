@@ -52,9 +52,7 @@ knowledge. The religious leaders have always answered this type of faith
 not by killing those who follow that faith but by logic and free
 discussion.
 
-
 [^1]: Ahmad ibn Ali ibn Abi Talib's writing who died approximately in
 550 Hijri. This book was published many times and shows one aspect of
 knowledge of Ahlul Bayt (a.s.).
-
 

@@ -448,4 +448,3 @@ of such laws, is but what is agreeable to the law-makers, and justice,
 to them, is but what follows the whims of the law- makers and protects
 their authority and interests.
 
-

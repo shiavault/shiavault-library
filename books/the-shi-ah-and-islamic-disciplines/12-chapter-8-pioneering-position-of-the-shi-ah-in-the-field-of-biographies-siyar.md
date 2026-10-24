@@ -31,4 +31,3 @@ Ishaq although this is quite strange. Al–Suyuti did this because Ibn
 Ishaq was a Shi’ah. Ibn Hajar has attested to his Shi’ism and so have
 our companions in the books of *rijal*.
 
-

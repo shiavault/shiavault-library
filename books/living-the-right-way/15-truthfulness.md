@@ -46,4 +46,3 @@ caliph al-Ma’mun.
 
 [^3]: The Qur’an: 19:54.
 
-

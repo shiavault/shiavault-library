@@ -16,4 +16,3 @@ patients suffering from certain diseases. This idea was rather ridiculed
 by the learned people till it was proved to be correct by scientific
 studies.
 
-

@@ -7,11 +7,7 @@ Youth
 lost them are youth and health.
 
 > 1ـ شَيْئانِ لايَعْرِفُ فَضْلَهُما إلاّ مَنْ فَقَدَهُما الشَّبابُ
-<blockquote dir="rtl">
-  <p>
-وَالْعافِيَةُ.
-  </p>
-</blockquote>
+> وَالْعافِيَةُ.
 
 2. The ignorance of a youth is excused and his knowledge is undermined.
 
@@ -21,14 +17,9 @@ lost them are youth and health.
 stooping of old age?
 
 > 3ـ هَلْ يَنْتَظِرُ أهْلُ غَضاضَةِ (بِضاضَةِ)الشَّبابِ إلاّ حَوانِيَ
-<blockquote dir="rtl">
-  <p>
-الْهَرَمِ.
-  </p>
-</blockquote>
+> الْهَرَمِ.
 
 4. Youthfulness and senility do not go together.
 
 > 4ـ لا تَجْتَمِعُ الشَّبيبَةُ وَ الهَرَمُ.
-
 

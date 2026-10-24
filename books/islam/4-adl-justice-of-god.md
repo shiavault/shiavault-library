@@ -482,4 +482,3 @@ expressly discontinued after the advent of the Holy Prophet of Islam.
 
 [^4]: Minhdj al-wusul, page 13
 
-

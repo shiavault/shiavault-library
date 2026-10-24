@@ -3,23 +3,11 @@ Sermon 56: In the company of the Prophet (S)
 
 *About steadiness in the battlefield*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-يصف أصحاب رسول الله
-  </p>
-</blockquote>
+> يصف أصحاب رسول الله
 
-<blockquote dir="rtl">
-  <p>
-وذلك يوم صفين حين أمر الناس بالصلح
-  </p>
-</blockquote>
+> وذلك يوم صفين حين أمر الناس بالصلح
 
 In the company of the Prophet of Allah (S) we used to fight our parents,
 sons, brothers and uncles, and this continued us in our faith, in
@@ -31,18 +19,14 @@ like energetic men contesting as to who would kill the other; sometime
 our man got over his adversary and some-time the enemy's man got over
 ours.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كُنَّا مَعَ رَسُولِ اللهِ(صلى الله عليه وآله)، نَقْتُلُ
-آبَاءَنا وَأَبْنَاءَنَا وَإخْوَانَنا وَأَعْمَامَنَا، مَا يَزِيدُنَا
-ذلِكَ إلاَّ إِيمَاناً وَتَسْلِيماً، وَمُضِيّاً عَلَى اللَّقَمِ،
-وَصَبْراً عَلى مَضَضِ الاْلَمِ، وَجِدّاً عَلى جِهَادِ الْعَدُوِّ،
-وَلَقَدْ كَانَ الرَّجُلُ مِنَّا وَالاْخَرُ مِنْ عَدُوِّنا
-يَتَصَاوَلاَنِ تَصَاوُلَ الْفَحْلَيْنِ، يَتَخَالَسَانِ أَنْفُسَهُمَا،
-أيُّهُمَا يَسْقِي صَاحِبَهُ كَأْسَ المَنُونِ، فَمَرَّةً لَنَا مِنْ
-عَدُوِّنَا، ومَرَّةً لِعَدُوِّنا مِنَّا،
-  </p>
-</blockquote>
+> وَلَقَدْ كُنَّا مَعَ رَسُولِ اللهِ(صلى الله عليه وآله)، نَقْتُلُ
+> آبَاءَنا وَأَبْنَاءَنَا وَإخْوَانَنا وَأَعْمَامَنَا، مَا يَزِيدُنَا
+> ذلِكَ إلاَّ إِيمَاناً وَتَسْلِيماً، وَمُضِيّاً عَلَى اللَّقَمِ،
+> وَصَبْراً عَلى مَضَضِ الاْلَمِ، وَجِدّاً عَلى جِهَادِ الْعَدُوِّ،
+> وَلَقَدْ كَانَ الرَّجُلُ مِنَّا وَالاْخَرُ مِنْ عَدُوِّنا
+> يَتَصَاوَلاَنِ تَصَاوُلَ الْفَحْلَيْنِ، يَتَخَالَسَانِ أَنْفُسَهُمَا،
+> أيُّهُمَا يَسْقِي صَاحِبَهُ كَأْسَ المَنُونِ، فَمَرَّةً لَنَا مِنْ
+> عَدُوِّنَا، ومَرَّةً لِعَدُوِّنا مِنَّا،
 
 When Allah had observed our truth, He sent ignominy to our foe and sent
 His succour to us till Islam got established (like the camel) with neck
@@ -52,16 +36,12 @@ nor could the tree of faith have borne leaves. By Allah, certainly you
 will now milk our blood (instead of milk) and eventually you will face
 shame.[^1]
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَأَى اللهُ صِدْقَنَا أَنْزَلَ بِعَدُوِّنَا الْكَبْتَ،
-وَأَنْزَلَ عَلَيْنَا النَّصرَ، حَتَّى اسْتَقَرَّ الاْسْلاَمُ مُلْقِياً
-جِرَانَهُ وَمُتَبَوِّئاً أَوْطَانَهُ، وَلَعَمْرِي لَوْ كُنَّا نَأْتِي
-مَا أَتَيْتُمْ، مَا قَامَ لِلدِّينِ عَمُودٌ، وَلاَ اخْضَرَّ
-لِلاِيمَانِ عُودٌ، وَأَيْمُ اللهِ لَتَحْتَلِبُنَّهَا دَماً،
-وَلَتُتْبِعُنَّهَا نَدَماً!
-  </p>
-</blockquote>
+> فَلَمَّا رَأَى اللهُ صِدْقَنَا أَنْزَلَ بِعَدُوِّنَا الْكَبْتَ،
+> وَأَنْزَلَ عَلَيْنَا النَّصرَ، حَتَّى اسْتَقَرَّ الاْسْلاَمُ مُلْقِياً
+> جِرَانَهُ وَمُتَبَوِّئاً أَوْطَانَهُ، وَلَعَمْرِي لَوْ كُنَّا نَأْتِي
+> مَا أَتَيْتُمْ، مَا قَامَ لِلدِّينِ عَمُودٌ، وَلاَ اخْضَرَّ
+> لِلاِيمَانِ عُودٌ، وَأَيْمُ اللهِ لَتَحْتَلِبُنَّهَا دَماً،
+> وَلَتُتْبِعُنَّهَا نَدَماً!
 
 Alternative Sources for Sermon 56
 ---------------------------------
@@ -105,5 +85,4 @@ of Sabil as-Sa\`di. When Jariyah saw no other way he got this house set
 on fire. When fire rose into flames they came out in search of safety
 but could not succeed in running away. Some of them were crushed to
 death under the wall while others were killed.
-
 

@@ -18,13 +18,9 @@ came to the Prophet (s) who was stationed in the valley known as Ghadir
 Khumm and revealed the following verse of the Qur'an to him:  
   
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّـغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَّبِّكَ
-وَ إِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللٌّهُ يَعْصِمُكَ
-مِنَ النَّاسِ...
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّـغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَّبِّكَ
+> وَ إِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللٌّهُ يَعْصِمُكَ
+> مِنَ النَّاسِ...
 
 * *  
 ***“O’ Messenger!  Convey that which has been revealed to you from your
@@ -66,12 +62,8 @@ believers than they have over their own selves.” 
 
  
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كُنْتُ مَوْلاَهُ فَهٌذَا عَلِيٌّ مَوْلاَهٌ. ‏أَللٌّهُمَّ وَالِ
-مَنْ وَالاَهُ وَ عَادِ مَنْ عَادَاهُ
-  </p>
-</blockquote>
+> مَنْ كُنْتُ مَوْلاَهُ فَهٌذَا عَلِيٌّ مَوْلاَهٌ. ‏أَللٌّهُمَّ وَالِ
+> مَنْ وَالاَهُ وَ عَادِ مَنْ عَادَاهُ
 
    
 *“Whomsoever I am his master, this 'Ali is also his master.  O’ Allah! 
@@ -82,12 +74,8 @@ order of Allah (s.w.t.) and this time, revealed the following verse of
 the Qur'an:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَلْـيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَ أَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَ رَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً
-  </p>
-</blockquote>
+> أَلْـيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَ أَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَ رَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً
 
    
 ***“On this day have I completed your religion for you and perfected My
@@ -219,5 +207,4 @@ day of 'Eidul Ghadir in such a great and magnanimous way and celebrate
 it as it deserves to be celebrated.
 
 [^1]: Biharul Anwar, vol. 97, Page 117.
-
 

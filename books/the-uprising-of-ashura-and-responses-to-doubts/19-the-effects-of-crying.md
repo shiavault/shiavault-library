@@ -13,34 +13,22 @@ is shed for Allah while grieving for His *awliya’* have extraordinary
 spiritual effects. That is why the Commander of the Faithful, Imam ‘Ali
 (as), in the Prayer *al-Kumayl*, says,
 
-<blockquote dir="rtl">
-  <p>
-«يا الهي وربّي وسيدي ومولاي، لأي الأمور اليك اشکوا ولما منها اضجّ
-وأبکي.»
-  </p>
-</blockquote>
+> «يا الهي وربّي وسيدي ومولاي، لأي الأمور اليك اشکوا ولما منها اضجّ
+> وأبکي.»
 
 “O my Lord, Master and Protector! For which of my affairs should I
 complain to you! And for which of them should I lament and weep?”
 
 And elsewhere, he says,
 
-<blockquote dir="rtl">
-  <p>
-«ولأبکينّ عليك بکاء الفاقدين.»
-  </p>
-</blockquote>
+> «ولأبکينّ عليك بکاء الفاقدين.»
 
 “And (due to separation from you) I will weep before You with the
 weeping of the bereft.”
 
 And in the last part of the prayer, he says,
 
-<blockquote dir="rtl">
-  <p>
-«إرحم من رأس ماله الرجاء، وسلاحه البکاء.»
-  </p>
-</blockquote>
+> «إرحم من رأس ماله الرجاء، وسلاحه البکاء.»
 
 “Have mercy on one whose only capital is hope and whose weapon is
 tears.”
@@ -52,11 +40,7 @@ Crying and shedding tears is a strong and cutting weapon that can help
 us tremendously along the way of self-knowledge and self-building.
 Again, this is why Imam ‘Ali (as) in the Prayer *al-Kumayl* says,
 
-<blockquote dir="rtl">
-  <p>
-«إرحم من رأس ماله الرجاء وسلاحه البکاء.»
-  </p>
-</blockquote>
+> «إرحم من رأس ماله الرجاء وسلاحه البکاء.»
 
 “Have mercy on one whose only capital is hope and whose weapon is
 tears.”
@@ -153,5 +137,4 @@ can help us identify different types of disorders. 
 [^2]: Chekideh-ye Andisheh-ha (A Summary of Thoughts), p. 250.
 
 [^3]: Ibid.
-
 

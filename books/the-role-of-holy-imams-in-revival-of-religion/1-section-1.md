@@ -448,4 +448,3 @@ Islamic community, and will comprehend the fact to be mentioned that the
 Holy Prophet (s.a.w) and Hazrat Mahdi (a.s) had one aim and means for
 accomplishing it.
 
-

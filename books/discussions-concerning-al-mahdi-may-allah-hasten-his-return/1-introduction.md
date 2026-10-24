@@ -11,11 +11,7 @@ Prophet (peace be upon him and his family), and obedience to the Prophet
 (peace be upon him and his family) is obedience to Allah, and Allah has
 created the entire universe to obey and worship Him.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنُّ وَالإِنْسُ إِلاَّ لِيَعْبُدُونِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنُّ وَالإِنْسُ إِلاَّ لِيَعْبُدُونِ
 
 **“And I have not created the Jinn and mankind except to worship
 Me.***”*[^1]
@@ -31,34 +27,22 @@ is not possible. And without devoutness, perplexity and misguidedness
 and wandering in the darkness will result; it is as we have been taught
 in the form of supplications:
 
-<blockquote dir="rtl">
-  <p>
-اّللَّهُمَّ عَرِّفْنِي حُجَّتَكَ فَإِنَّكَ إِنْ لَمْ تُعَرِّفْنِي
-حُجَّتَكَ ضَلَلْتُ عَنْ دِيْنِي
-  </p>
-</blockquote>
+> اّللَّهُمَّ عَرِّفْنِي حُجَّتَكَ فَإِنَّكَ إِنْ لَمْ تُعَرِّفْنِي
+> حُجَّتَكَ ضَلَلْتُ عَنْ دِيْنِي
 
 *“O’ Allah, make me recognize Your authority, for if You don’t make me
 recognize him, I shall go astray in my religion.*”[^2]
 
 And they have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَنْكَرَ الْمَهْدِي فَقَدَ كَفَرَ
-  </p>
-</blockquote>
+> مَنْ أَنْكَرَ الْمَهْدِي فَقَدَ كَفَرَ
 
 “One who denies the Mahdi (peace be upon him) has become a
 disbeliever.”  
  And also:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ وَلَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيْتَةً
-جَاهِلِيَّةٍ
-  </p>
-</blockquote>
+> مَنْ مَاتَ وَلَمْ يَعْرِفْ إِمَامَ زَمَانِهِ مَاتَ مِيْتَةً
+> جَاهِلِيَّةٍ
 
 “One who dies without recognizing the Imam of his time dies the death of
 the Age of Ignorance*.”*[^3]
@@ -122,5 +106,4 @@ Research Unit of the Holy Masjid of Jamkaran,
 [^2]: Al-Kafi, Volume 1, Page 337, hadith 5
 
 [^3]: Bihar al-Anwar, Volume 8, Page 368, hadith 41
-
 

@@ -125,4 +125,3 @@ of a whole civilization collapsed only with the smallest conquering
 gesture. That was because it has been already falling apart and loosing
 confidence in its existence and trust in its reality
 
-

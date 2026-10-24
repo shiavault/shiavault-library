@@ -22,12 +22,8 @@ the right path and has embarked upon a mission of distressing others; an
 entity that attempts to create division, discord and corruption, just as
 we recite:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَ
-الْبَغْضَاءَ
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَ
+> الْبَغْضَاءَ
 
 ***“Surely Shaytan only desires to cause enmity and hatred to spring in
 your midst.”***[^1]
@@ -40,12 +36,8 @@ Furthermore, we observe that in the Qur’an, the use of the term Shaytan
 has not been restricted for a specific being; rather it has been used to
 refer to wicked and corrupt humans too. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَ كَذٌلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الإِِنْسِ وَ
-الْجِنِّنِ‏
-  </p>
-</blockquote>
+> وَ كَذٌلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الإِِنْسِ وَ
+> الْجِنِّنِ‏
 
 ***“And thus did We make for every prophet an enemy, the Shaytans from
 among men and jinn.”***[^2]
@@ -58,13 +50,9 @@ microbes too:
 
 For example, the Commander of the Faithful (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَشْرَبُوا الْمَآءَ مِنْ ثُلْمَةِ الإِِنَاءِ وَ لاَ مِنْ
-عُرْوَتِهِ فَإِنَّ الشَّيْطَانَ يَقْعُدُ عَلَى الْعُرْوَةِ وَ
-الثُّلْمَةِ.
-  </p>
-</blockquote>
+> لاَ تَشْرَبُوا الْمَآءَ مِنْ ثُلْمَةِ الإِِنَاءِ وَ لاَ مِنْ
+> عُرْوَتِهِ فَإِنَّ الشَّيْطَانَ يَقْعُدُ عَلَى الْعُرْوَةِ وَ
+> الثُّلْمَةِ.
 
 “Do not drink water from the broken portion of the vessel nor from the
 portion of the handle, for surely, the Shaytan sits upon the handle and
@@ -72,12 +60,8 @@ the broken portion.”[^3]
 
 Imam as-Sadiq (a.s.) has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ يُشْرَبُ مِنْ أُذُنِ الْكُوزِ وَ لاَ مِنْ كَسْرِهِ إِنْ كَانَ
-فِيهِ فَإِنَّهُ مَشْرَبُ الشَّيَاطِينِ.
-  </p>
-</blockquote>
+> وَ لاَ يُشْرَبُ مِنْ أُذُنِ الْكُوزِ وَ لاَ مِنْ كَسْرِهِ إِنْ كَانَ
+> فِيهِ فَإِنَّهُ مَشْرَبُ الشَّيَاطِينِ.
 
 “(Water) should not be drunk from the handle (side) of a jug and nor
 from the broken portion of it, if present, for these are the
@@ -106,5 +90,4 @@ al-Awani.
 [^5]: Ibid.
 
 [^6]: Tafsir-e-Namuna, vol. 1, pg. 191
-
 

@@ -101,7 +101,7 @@ time when humanity was sunk in ignorance, crimes and evils. The Almighty
 Allah says:
 
 *“And you were on the brink of a pit of fire, then He saved you from
-it.”<sup>[1]</sup>*
+it.”[1]*
 
 His Eminence, Amirul Mo-mineen (a.s) has described the society, which
 was filled with all evil when the Holy Prophet (a.s) announced his
@@ -112,7 +112,7 @@ and the people were in slumber for a long time. Evils were raising
 heads; all matters were under disruption and in flames of wars, while
 the world was devoid of brightness, and full of open deceitfulness. Its
 leaves had turned yellow and there was absence of hope about its
-fruits.”<sup>[2]</sup>
+fruits.”[2]
 
 In the same way the reappearance of the Qaim of Aale Muhammad would
 occur at a time when humanity and human beings would be under the yoke
@@ -162,7 +162,7 @@ the cradle and he said:
 
 *“Surely I am a servant of Allah; He has given me the Book and made me a
 prophet; and He has made me blessed wherever I may be, and He has
-enjoined on me prayer and poor-rate so long as I live…”<sup>[1]</sup>*
+enjoined on me prayer and poor-rate so long as I live…”[1]*
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ following verse of Quran:
 
 *“And We desired to bestow a favor upon those who were deemed weak in
 the land, and to make them the Imams and to make them the
-heirs.”<sup>[1]</sup>*
+heirs.”[1]*
 
 His Eminence, the Awaited Imam, was not similar to the prophets in only
 these aspects. He was having similarity in more important aspects like

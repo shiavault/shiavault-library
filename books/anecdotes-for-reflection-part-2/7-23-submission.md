@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أُمِرْناَ لِنُسْلِمَ لِرَبِّ الْعَالَـمِينَ
-  </p>
-</blockquote>
+> وَ أُمِرْناَ لِنُسْلِمَ لِرَبِّ الْعَالَـمِينَ
 
 “And we are commanded that we should submit to the Lord of the
 worlds.”[^1]
 
 Imam Baqir (as) said:
 
-<blockquote dir="rtl">
-  <p>
-أَحَقُّ خَلْقِ اللٌّهِ أَنْ يُّسْلِمَ لِمَا قَضى اللٌّهُ.
-  </p>
-</blockquote>
+> أَحَقُّ خَلْقِ اللٌّهِ أَنْ يُّسْلِمَ لِمَا قَضى اللٌّهُ.
 
 “The most worthy of Allah’s servants is one who submits before divine
 decree.”[^2]
@@ -216,5 +208,4 @@ Page 13
 
 [^11]: Dastan-ha Wa Pand-ha, Volume 9, Page 102; Majma’ul Bayan, Volume
 3, Page 69
-
 

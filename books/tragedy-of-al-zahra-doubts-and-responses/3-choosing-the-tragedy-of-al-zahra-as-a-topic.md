@@ -72,4 +72,3 @@ we shall remain steadfast with them on the same path.
 
 [^2]: \_\_, Bayyinat (October 25, 1996).
 
-

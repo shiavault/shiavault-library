@@ -72,11 +72,7 @@ intellects.
 not glorify yourself.
 
 > 17ـ إذا أرَدْتَ أنْ تَعْظُمَ مَحاسِنُكَ عِنْدَ النّاسِ، فَلا تَعْظُمْ
-<blockquote dir="rtl">
-  <p>
-في عَيْنِكَ.
-  </p>
-</blockquote>
+> في عَيْنِكَ.
 
 18. When your self-importance is increased by the position [of
 authority] you are in, and this brings about arrogance or vanity in you,
@@ -86,14 +82,10 @@ mellow your recalcitrance, cure your vehemence and bring back to you
 that which had departed from you of your intellect.
 
 > 18ـ إذا زادَ عُجْبُكَ بِما أنْتَ فيهِ مِنْ سُلْطانِكَ، فَحَدَثَتْ لَكَ
-<blockquote dir="rtl">
-  <p>
-أُبَّهَةٌ أو مَخيلَةٌ، فَانْظُرْ إلى عِظَمِ مُلْكِ اللّهِ
-وَقُدْرَتِهِ، مِمّا لاتَقْدِرُ عَلَيْهِ مِنْ نَفْسِكَ، فَإنَّ ذلِكَ
-يُلَيِّنُ مِنْ جَماحِكَ، ويَكُفُّ عَنْ غَرْبِكَ، ويَفيءُ إلَيْكَ بِما
-عَزَبَ عَنْكَ مِنْ عَقْلِكَ.
-  </p>
-</blockquote>
+> أُبَّهَةٌ أو مَخيلَةٌ، فَانْظُرْ إلى عِظَمِ مُلْكِ اللّهِ
+> وَقُدْرَتِهِ، مِمّا لاتَقْدِرُ عَلَيْهِ مِنْ نَفْسِكَ، فَإنَّ ذلِكَ
+> يُلَيِّنُ مِنْ جَماحِكَ، ويَكُفُّ عَنْ غَرْبِكَ، ويَفيءُ إلَيْكَ بِما
+> عَزَبَ عَنْكَ مِنْ عَقْلِكَ.
 
 19. By being pleased with oneself, vices and faults become manifest.
 
@@ -156,11 +148,7 @@ semen and his end is a rotting corpse, and in between these he is a
 carrier of waste products.
 
 > 32ـ ما لابْنِ آدَمَ والعُجْبِ، وأوَّلُهُ نُطْفَةٌ مَذِرَةٌ وآخِرُهُ
-<blockquote dir="rtl">
-  <p>
-جيفَةٌ قَذِرَةٌ، وهُوَ بَيْنَ ذلِكَ يَحْمِلُ العَذَرَةَ.
-  </p>
-</blockquote>
+> جيفَةٌ قَذِرَةٌ، وهُوَ بَيْنَ ذلِكَ يَحْمِلُ العَذَرَةَ.
 
 33. There is no alienation more desolating than conceit.
 
@@ -170,31 +158,19 @@ carrier of waste products.
 symbol of his weak intellect.
 
 > 34ـ إعْجابُ المَرْءِ بِنَفْسِهِ بُرْهانُ نَقْصِهِ، وعُنْوانُ ضَعْفِ
-<blockquote dir="rtl">
-  <p>
-عَقْلِهِ.
-  </p>
-</blockquote>
+> عَقْلِهِ.
 
 35. Keep away from self-conceit and love for praise, for these are the
 strongest opportunities for Satan.
 
 > 35ـ إيّاكَ والإعْجابَ وحُبَّ الإطْراءِ، فَإنَّ ذلِكَ مِنْ أوْثَقِ
-<blockquote dir="rtl">
-  <p>
-فُرَصِ الشَّيْطانِ.
-  </p>
-</blockquote>
+> فُرَصِ الشَّيْطانِ.
 
 36. Be careful not to be self-conceited, thereby making deficiency and
 enmity manifest upon [and against] you.
 
 > 36ـ إيّاكَ أنْ تُعْجِبَ بِنَفْسِكَ، فَيَظْهَرَ عَلَيْكَ النَّقْصُ
-<blockquote dir="rtl">
-  <p>
-والشَّنَ آنُ.
-  </p>
-</blockquote>
+> والشَّنَ آنُ.
 
 37. Be cautious not to consider the sin of others as great while you
 deem it to be small [when it comes] from yourself, or to consider your
@@ -202,11 +178,6 @@ worship as abundant while you deem the same to be less when performed by
 others.
 
 > 37ـ إيّاكَ أنْ تَسْتَكْبِرَ مِنْ مَعْصِيَةِ غَيْرِكَ ما تَسْتَصْغِرُهُ
-<blockquote dir="rtl">
-  <p>
-مِنْ نَفْسِكَ، أو تَسْتَكْثِرَ مِنْ طاعَتِكَ ما تَسْتَقِلُّهُ مِنْ
-غَيْرِكَ.
-  </p>
-</blockquote>
-
+> مِنْ نَفْسِكَ، أو تَسْتَكْثِرَ مِنْ طاعَتِكَ ما تَسْتَقِلُّهُ مِنْ
+> غَيْرِكَ.
 

@@ -91,4 +91,3 @@ causing great damage and discomfort to human existence on this planet.
 
 ***Al-Balagh Foundation***
 
-

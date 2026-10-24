@@ -170,4 +170,3 @@ themselves: piety, knowing that the best of rations is piety. They bring
 about deeds that are free of pretension, protecting themselves against
 all levels of pretension.
 
-

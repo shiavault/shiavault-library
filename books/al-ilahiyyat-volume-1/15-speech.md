@@ -1422,4 +1422,3 @@ p. 223.
 [^35]: Refer to p. 252, Vol. 11 of Siyar Alam al-Nubala. A chapter in
 this book details what imam Ahmed [ibn Hanbal] went through.
 
-

@@ -21,4 +21,3 @@ So, they promised him to do that.
 
 Our Master Muhammad [s] stood by his uncle, against Kinana.
 
-

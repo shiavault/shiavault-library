@@ -20,11 +20,7 @@ oppression and abolishes the practice of justice.
 afflicted, chastised and despoiled because of his injustice.
 
 > 4ـ ظالِمُ النّاسِ يَوْمَ القِيمَةِ مَنْكُوبٌ بِظُلْمِهِ مُعَذَّبٌ
-<blockquote dir="rtl">
-  <p>
-مَحْرُوبٌ.
-  </p>
-</blockquote>
+> مَحْرُوبٌ.
 
 5. For every oppressor there is a reprisal.
 
@@ -48,12 +44,8 @@ the one who is above him by disobedience, and to the one below him by
 overruling him, and supporting the faction of oppressors.
 
 > 9ـ لِلظّالِمِ مِنَ الرِّجالِ ثَلاثُ عَلامات: يَظْلِمُ مَنْ فَوْقَهُ
-<blockquote dir="rtl">
-  <p>
-بِالمَعْصِيَةِ، ومَنْ دُوْنَهُ بِالغَلَبَةِ، ويُظاهِرُ الْقَوْمَ
-الظَّلَمَةَ.
-  </p>
-</blockquote>
+> بِالمَعْصِيَةِ، ومَنْ دُوْنَهُ بِالغَلَبَةِ، ويُظاهِرُ الْقَوْمَ
+> الظَّلَمَةَ.
 
 10. One who oppresses [others] gets oppressed.
 
@@ -136,23 +128,15 @@ transgresses, and acts tyrannically and oppresses!
 and the greatness of His wrath.
 
 > 28 ـ هيْهاتَ أنْ يَنْجُوَ الظّالِمُ مِنْ أليمِ عَذابِ اللّهِ وعَظيمِ
-<blockquote dir="rtl">
-  <p>
-سَطَواتِهِ.
-  </p>
-</blockquote>
+> سَطَواتِهِ.
 
 29. Even though Allah, the Exalted, gives time to the oppressor, His
 grasp will not spare him and He will ambush him on the passage of his
 way and the place where his saliva runs down.
 
 > 29ـ ولَئِنْ أمْهَلَ اللّهُ تعالى الظّالِمَ فَلَنْ يَفُوتَهُ أخْذُهُ،
-<blockquote dir="rtl">
-  <p>
-وهُوَ لَهُ بِالمِرْصادِ عَلى مَجازِ طَريقِهِ، ومَوْضِعِ الشَّجا مِنْ
-مَجازِ (مَساغِ) ريقِهِ.
-  </p>
-</blockquote>
+> وهُوَ لَهُ بِالمِرْصادِ عَلى مَجازِ طَريقِهِ، ومَوْضِعِ الشَّجا مِنْ
+> مَجازِ (مَساغِ) ريقِهِ.
 
 30. The aggressive tyrant has many opponents and enemies.
 
@@ -170,21 +154,13 @@ way and the place where his saliva runs down.
 judges and the Knower of the inner thoughts of the hidden consciences.
 
 > 33ـ وَيْلٌ لِلْباغينَ مِنْ أحْكَمِ الحاكِمينَ، وَعالِمِ ضَمائِرِ
-<blockquote dir="rtl">
-  <p>
-المُضْمِرينَ.
-  </p>
-</blockquote>
+> المُضْمِرينَ.
 
 34. The tyrant is hated and dispraised, even if nothing of his tyranny
 reaches his dispraiser, and the just one is the opposite of this.
 
 > 34ـ اَلْجائِرُ مَمْقُوتٌ مَذْمُومٌ، وَإنْ لَمْ يَصِلْ مِنْ جَوْرِهِ
-<blockquote dir="rtl">
-  <p>
-إلى ذامِّهِ شَيْءٌوالعادِلُ ضِدُّذلِكَ.
-  </p>
-</blockquote>
+> إلى ذامِّهِ شَيْءٌوالعادِلُ ضِدُّذلِكَ.
 
 35. The most oppressive of people is the one who considers his tyranny
 to be justice on his part.
@@ -206,5 +182,4 @@ this world or the Hereafter].
 
 [^1]: Referring to Q25:27 where Allah says: The day when the wrongdoer
 will bite his hand and say ‘I wish I had followed the Apostle’s way!’
-
 

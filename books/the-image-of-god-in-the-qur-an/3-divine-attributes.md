@@ -1858,4 +1858,3 @@ could protect those who He wishes to visit with ill. See verse 13:11.
 there are 7 cases, in which the Qur’an emphasises that there is no nasir
 who can replace God.
 
-

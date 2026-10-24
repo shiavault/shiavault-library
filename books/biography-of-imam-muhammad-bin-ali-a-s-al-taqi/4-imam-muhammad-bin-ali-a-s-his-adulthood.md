@@ -50,7 +50,6 @@ given by Allah. He went to Marv to be by the side of his father, and to
 offer all the ritual services given to the dead. After that he returned
 to Medina.
 
-
 **MAMOON CALLS HIM TO BAGHDAD IN AH 206**
 
 As the Imam of his times, he started serving Islam in the same way as
@@ -173,5 +172,4 @@ Bin Aksam could not reply the Imam's question, who else could? The Imam
 The Ban Abbasi who had come to the Court to Humiliate the Imam (A.S.)
 were themselves humbled. They could do nothing but bow down their heads
 in front of the Imam (A.S.).
-
 

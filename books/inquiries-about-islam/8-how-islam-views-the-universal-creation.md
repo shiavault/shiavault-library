@@ -209,4 +209,3 @@ No one can hide himself from God Who is Ever-Present and Who knows
 everything. God does not need to ask Adam where he is, nor does He need
 to ask Adam if he had eaten from the tree.
 
-

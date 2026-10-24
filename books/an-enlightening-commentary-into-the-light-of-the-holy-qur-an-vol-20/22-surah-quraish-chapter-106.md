@@ -8,11 +8,7 @@ Surah Quraish, Chapter 106
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -52,37 +48,17 @@ to the message of the shrine with the ear of his soul and practices it.
 Surah Quraish, Verses 1-4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-لِإِيلَافِ قُرَيْشٍ
-  </p>
-</blockquote>
+> لِإِيلَافِ قُرَيْشٍ
 
-<blockquote dir="rtl">
-  <p>
-إِيلَافِهِمْ رِحْلَةَ الشِّتَاء وَالصَّيْفِ
-  </p>
-</blockquote>
+> إِيلَافِهِمْ رِحْلَةَ الشِّتَاء وَالصَّيْفِ
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ
-  </p>
-</blockquote>
+> فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ
-  </p>
-</blockquote>
+> الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ
 
 ***1. “For stabilizing and unifying the Quraish,"***  
 ***2. “(We maintain for them) their trading caravans by winter and
@@ -191,5 +167,4 @@ all those who abuse this great center.*
 
 [^1]: Majma-al-Bayan, vol. 10, p. 543, and Atyab-ul-Bayan, vol. 14, p.
 235.
-
 

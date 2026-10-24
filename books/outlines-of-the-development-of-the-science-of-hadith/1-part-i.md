@@ -244,4 +244,3 @@ the course of development of the science of hadith among the Shi\`ah and
 the Ahl al-Sunnah from the point of view of style of compilation of the
 texts during various periods.
 
-

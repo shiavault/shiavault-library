@@ -4,16 +4,12 @@
 The significance of this too can be found in the supplication of
 aforementioned book as follows:
 
-<blockquote dir="rtl">
-  <p>
- اللهم إني أسألك بمعاقد العز من عرشك، ومنتهى الرحمة من كتابك، وباسمك
-الأعظم، وكلماتك التامة، التي لا يجاوزهن بر ولا فاجر فإنك لا تبيد ولا
-تنفد، أن تصلي على محمد وآل محمد، وتقبل مني ومن جميع المؤمنين والمؤمنات
-صيام شهر رمضان وقيامه، وتفك رقابنا من النار، اللهم صل على محمد وآل
-محمد، واجعل قلبي بارا، وعملي سارا، ورزقي دارا، وحوض نبيك عليه وآله
-السلام لي قرارا ومستقرا وتعجل فرج آل محمد في عافية يا أرحم الراحمين.
-  </p>
-</blockquote>
+>  اللهم إني أسألك بمعاقد العز من عرشك، ومنتهى الرحمة من كتابك، وباسمك
+> الأعظم، وكلماتك التامة، التي لا يجاوزهن بر ولا فاجر فإنك لا تبيد ولا
+> تنفد، أن تصلي على محمد وآل محمد، وتقبل مني ومن جميع المؤمنين والمؤمنات
+> صيام شهر رمضان وقيامه، وتفك رقابنا من النار، اللهم صل على محمد وآل
+> محمد، واجعل قلبي بارا، وعملي سارا، ورزقي دارا، وحوض نبيك عليه وآله
+> السلام لي قرارا ومستقرا وتعجل فرج آل محمد في عافية يا أرحم الراحمين.
 
 O Allah, indeed I ask You in the name of the greatness of Your throne
 and the limit of mercy in Your Book, and through the great names and
@@ -30,5 +26,4 @@ make me stay there; and hasten with ease the relief of the progeny of
 Muhammad. O the most merciful of the merciful ones.[^1]
 
 [^1]: Iqbaalul Aamaal, Pg. 141
-
 

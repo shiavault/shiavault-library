@@ -21,4 +21,3 @@ The Almighty Allah says: “Whoever does good, will see the result of his
 goodness, and whoever does bad, will also see the result of his
 wrong-doing”.
 
-

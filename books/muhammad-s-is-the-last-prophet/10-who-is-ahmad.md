@@ -202,4 +202,3 @@ the Prophet" or "slave of Husain".
 
 [^1]: Al-Iqdul-Farid, Vol. IV, p. 251.
 
-

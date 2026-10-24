@@ -280,4 +280,3 @@ Margaret nee Noyes had eight children and, now, 14 grandchildren.
 [^2]: The economist Guy Standing coined the term “precariat” to try to
 describe the reality of low wage workers in our modern, global economy.
 
-

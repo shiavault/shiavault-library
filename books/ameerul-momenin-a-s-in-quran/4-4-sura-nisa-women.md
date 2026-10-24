@@ -43,7 +43,6 @@ shall be triumphant" Ibne Abbas (ra) narrates regarding this ayah, "The
 party of Allah is Ameerul Momineen Ali (asws) ibn Abi Talib (as)."
 (Tafseer Furat pg 129)
 
-
 **6. Sura An'aam (The Cattle)**
 
 1. ayah 44 "But when they neglected that with which they had been
@@ -103,7 +102,6 @@ in him and honor him and help him, and follow the noor which has been
 sent down with him", Imam (as) said, "That noor is Ali (asws) ibn Abi
 Talib (as)". (Tafseer e Burhan Second Edition pg 39)
 
-
 **8.Sura Anfaal (Spoils of War)**
 
 1. ayah 62 "And if they intend to deceive you-- then surely Allah is
@@ -116,5 +114,4 @@ helped through Ali (asws)." This ayah was revealed for Ali (asws) ibn
 Abi Talib (as) "He it is Who strengthened you with His help and with the
 believers" and that help is Ali (asws) ibn Abi Talib (as)". (Taweel ul
 Ayat pg 201)
-
 

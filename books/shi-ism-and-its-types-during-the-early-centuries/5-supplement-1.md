@@ -55,4 +55,3 @@ of night. [^56]
 
 Umm Araban recited this verse to mourn Ali's martyrdom:
 
-

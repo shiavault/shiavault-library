@@ -219,4 +219,3 @@ only claim a sprinkling of disciples among the tribes, and as a
 converting agent was no longer operative.  
   
 
-

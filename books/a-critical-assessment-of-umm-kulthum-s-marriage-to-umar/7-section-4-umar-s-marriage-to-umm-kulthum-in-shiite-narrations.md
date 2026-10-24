@@ -29,11 +29,7 @@ The first tradition
 Imam Ja‘far Sadiq (S.A) has been reported as having said concerning the
 marriage of Umm Kulthum:
 
-<blockquote dir="rtl">
-  <p>
-إن ذلك فرج غصبناه
-  </p>
-</blockquote>
+> إن ذلك فرج غصبناه
 
 “That this was the farj that was usurped from us.”
 
@@ -42,36 +38,16 @@ The second tradition
 
 It has been narrated in another narration that Imam Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لما خطب اليه قال له أمير المؤمنين عليه السلام: إنها صبية.
-  </p>
-</blockquote>
+> لما خطب اليه قال له أمير المؤمنين عليه السلام: إنها صبية.
 
-<blockquote dir="rtl">
-  <p>
-قال : فلقي العباس فقال له: ما لي؟ ابي بأس؟
-  </p>
-</blockquote>
+> قال : فلقي العباس فقال له: ما لي؟ ابي بأس؟
 
-<blockquote dir="rtl">
-  <p>
-قال: وما ذاك؟
-  </p>
-</blockquote>
+> قال: وما ذاك؟
 
-<blockquote dir="rtl">
-  <p>
-قال: خطبت إلى ابن اخيك فردني اما والله! لأعورن زمزم ولا ادع لكم مكرمة
-إلا هدمتها ولأقيمن عليه شاهدين بأنه سرق ولأقتعن يمينه.
-  </p>
-</blockquote>
+> قال: خطبت إلى ابن اخيك فردني اما والله! لأعورن زمزم ولا ادع لكم مكرمة
+> إلا هدمتها ولأقيمن عليه شاهدين بأنه سرق ولأقتعن يمينه.
 
-<blockquote dir="rtl">
-  <p>
-فأته العباس وسأله ان يجعل الأمر اليه فجعله اليه.
-  </p>
-</blockquote>
+> فأته العباس وسأله ان يجعل الأمر اليه فجعله اليه.
 
 ‘When Umar came to make the marriage proposal, the Commander of the
 Faithful, Ali (a.s.) told him: She is a young girl.
@@ -101,12 +77,8 @@ house or wherever she wanted?
 The Imam (a.s.) said: Yes, she can pass her waiting period wherever she
 would like to.‖ Then he said:
 
-<blockquote dir="rtl">
-  <p>
-إن عليا عليه السلام لما مات عمر أتى أم كلثوم فأخذ بيدها فأنطلق بها إلى
-بيته.
-  </p>
-</blockquote>
+> إن عليا عليه السلام لما مات عمر أتى أم كلثوم فأخذ بيدها فأنطلق بها إلى
+> بيته.
 
 When Umar died, Ali (a.s.) went to Umm Kulthum, got hold of her hand and
 brought her to his house.[^5]
@@ -168,11 +140,7 @@ brother, Ja‘far. In fact, this was done by the order of the Messenger of
 Allah (S) because one day the holy Prophet (S) looked at Ali‘s and
 Ja‘far‘s children whereupon the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-بناتنا لبنينا وبنونا لبناتنا
-  </p>
-</blockquote>
+> بناتنا لبنينا وبنونا لبناتنا
 
 “Our daughters are for our sons and our sons are for our daughters”.[^7]
 
@@ -255,5 +223,4 @@ mentioned in the books of Islamic laws.
 [^8]: Dhakhair Uqba, 288; Kanzul Ummal, 13/269 tradition number 37586.
 
 [^9]: Al-Isabah, 6/7.
-
 

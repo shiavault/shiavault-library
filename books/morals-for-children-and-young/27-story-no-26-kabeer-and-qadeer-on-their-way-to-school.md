@@ -11,4 +11,3 @@ tomans back.
  Qadeer replied “It is one of the lessons of Islam that I have learnt
 from my father and mother”.
 
-

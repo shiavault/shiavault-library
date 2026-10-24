@@ -176,4 +176,3 @@ belief in a creator? Why?
 
 5. Does the presumption of evolution nullify belief in God? Why?
 
-

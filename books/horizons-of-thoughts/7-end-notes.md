@@ -210,4 +210,3 @@ denotes intensity and permanence.
 
 70 al-Shahid al-Awwal, al-Mazar, p. 149
 
-

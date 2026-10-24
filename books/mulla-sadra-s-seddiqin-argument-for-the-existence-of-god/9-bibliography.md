@@ -282,4 +282,3 @@ al-Shirazi, Damascus, 1936
 108- Yasin, Jafar Ali. Sadr al-Din al-Shirazi, Mujaddid al-falsafat
 al-islamiyyah, Baghdad 1375 (A.H. lunar)/1955
 
-

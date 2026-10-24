@@ -443,4 +443,3 @@ his being, for he falls from what he ought to be. As a result of this
 fall there exist the sufferings which he must bear, such as remorse in
 the present life.
 
-

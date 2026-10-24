@@ -20,9 +20,7 @@ and a dialogue took place between them:
 -Yes, dear Fatima; your esteem, your knowledge, and your fidelity were
 praiseworthy. You were more honorable than everyone
 
-<p dir="rtl">
 “ والله انت ابرّ و اتقي واكرم”.
-</p>
 
 (At this time, both Ali (peace be upon him) and Fatima (peace be upon
 her) cried. Fatima (peace be upon her) got unconscious, and when came to
@@ -42,5 +40,4 @@ do not let the enemy attend my funeral ceremony or say prayer on me.
 
 Then, Ali started reciting Yasin Sura (from the holy Quran). Fatima then
 closed eyes forever.
-
 

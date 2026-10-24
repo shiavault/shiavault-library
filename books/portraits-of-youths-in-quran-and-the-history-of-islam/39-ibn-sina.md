@@ -1,11 +1,6 @@
 Ibn Sina
 ========
 
-  
-  
-  
-  
-
 ### The Renowned Philosopher And Physician Of The East
 
 Among the greatest intellectuals of Islam is the name of Abu Ali Husain

@@ -7,4 +7,3 @@ issues regarding the rights and governing laws that pertain to women in
 Islam and unwraps some of the distorted images and misconceptions that
 surround Muslim women.
 
-

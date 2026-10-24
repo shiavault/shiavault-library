@@ -166,17 +166,13 @@ Garden; and both are equally forgiven when they repent.
 in commanding equality for men and women in its directives regarding
 religious obligations and rewards. We read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ
-وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ
-وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ
-وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ
-وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ
-وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ
-أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا 
-  </p>
-</blockquote>
+> إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ
+> وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ
+> وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ
+> وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ
+> وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ
+> وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ
+> أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا
 
 ***Lo! Men who surrender unto Allah, and women who surrender, and men
 who believe and women who believe, and men who obey and women who obey,
@@ -194,25 +190,17 @@ Secondly, the Qur'an reveals to mankind the desired equality of the two
 sexes by establishing the same ethical obligations and rewards for women
 and men.
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ
-مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ
-نَقِيرًا
-  </p>
-</blockquote>
+> وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ
+> مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ
+> نَقِيرًا
 
 ***And who so does good works, whether male or female, and he (or she)
 is a believer, such will enter Paradise and they will not be wronged the
 dint in a date-stone. (4:124)***
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***Whosoever does right, whether male or female, and is a believer, him
 verily We shall quicken with good life, and We shall pay them a
@@ -381,15 +369,11 @@ and mothers, children and elders, and relatives of all degrees
 (17:23-26; 4:1, 7-12; 2:177; 8:41; 16:90; etc.). The care of and concern
 for other members of society is equally a duty of the Muslim.
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ
-وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ
-الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ
-عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ
-وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ …
-  </p>
-</blockquote>
+> لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ
+> وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ
+> الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ
+> عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ
+> وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ …
 
 ***It is not righteousness that you turn faces to the east and the west;
 but righteous is he who believes in Allah and the Last Day and the
@@ -596,12 +580,8 @@ Why should the Qur'an specify male leadership for the 'a'ilah, i.e., a
 patriarchal family, rather than a matriarchal organisation? The Qur'an
 answers that question in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
-بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ…
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ
+> بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ…
 
 ***Men are in charge of women, because Allah has made the one of them to
 excel the other, and because they spend of their property (for the
@@ -666,5 +646,4 @@ scholars which could be made available to Muslims and non-Muslims alike.
 There is no better way to serve the will of Allah and the whole of
 mankind. There is no better da'wah than such offering of a helping hand
 to the struggling victims of contemporary society.
-
 

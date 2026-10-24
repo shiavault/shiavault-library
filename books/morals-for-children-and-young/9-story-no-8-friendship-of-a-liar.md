@@ -12,4 +12,3 @@ Yes, lying is a big sin. We should not lie and also keep away from those
 who lie. The leaders of Islam have advised us not to say lies even if it
 is in a joke.
 
-

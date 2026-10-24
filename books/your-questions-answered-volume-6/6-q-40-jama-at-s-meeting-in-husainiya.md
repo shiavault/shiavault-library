@@ -189,4 +189,3 @@ health care may be taken from their shares. So may be the marriage
 expenses (simple Islamic one, not the lavish extravaganza which is seen
 in marriage ceremonies nowadays).
 
-

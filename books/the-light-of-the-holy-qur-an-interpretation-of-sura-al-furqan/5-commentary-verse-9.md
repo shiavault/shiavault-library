@@ -11,7 +11,6 @@ The Great Bounties of Allah awaiting the Apostle (Muhammad) - The
 grievous and the wicked will meet - Reward for the faithful - The
 Apostles of Allah were men.
 
-
 **Section 2 : The Bounties awaiting the Apostle Commentary : Verse
 10**
 
@@ -188,8 +187,7 @@ However, the Arabic word/tabaraka/ is derived either from /baraka/ with
 the sense of 'fix' and 'ever lasting', or from /barakat/ which means
 'abundant goodness'
 
-[^1] Nahj-ul-Balaqah, sermon 192
-
+[^1]: Nahj-ul-Balaqah, sermon 192
 
 **Commentary : Verse 11**
 
@@ -230,5 +228,4 @@ effective for such people. It continues saying:
 
 "... and We have prepared a Blazing Fire for him who denies the
 Hour."
-
 

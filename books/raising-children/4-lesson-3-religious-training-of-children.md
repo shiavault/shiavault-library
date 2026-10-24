@@ -236,4 +236,3 @@ in this world and [wants to be] vindicated in the presence of his Lord
 concerning his responsibility about the child.  
  Imam Zaynul Abidin (a) in *Risalatul Huqooq*
 
-

@@ -850,4 +850,3 @@ than that in which he attended to a beggar without being unconscious of
 Allah. He was so attentive to Allah that he could see the whole world.
 In the presence of all this evidence this incident cannot be denied.
 
-

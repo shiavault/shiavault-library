@@ -47,12 +47,8 @@ the cloud.”
 
 When he dressed, he started dressing from his right side saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي كَسَانِي مَا أُوَارِي بِهِ عَوْرَتِي وَ
-أَتَجَمَّلُ بِهِ فِي النَّاسِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي كَسَانِي مَا أُوَارِي بِهِ عَوْرَتِي وَ
+> أَتَجَمَّلُ بِهِ فِي النَّاسِ.
 
 **“**Praise *be to Allah who clothed me with that which I conceal my
 nakedness with and by which I adorn myself amongst the people.* *“*
@@ -359,5 +355,4 @@ Akhbar al-Rid’a 2:55
 [^42]: Ibid., 21:401
 
 [^43]: Ibid., 21:372
-
 

@@ -121,4 +121,3 @@ another account by Jabir (XVIII:14). Cf. Ibn al-Athir, al-Nihayah IV:106
 (“Madat qamh”): “You and your followers [shiatuka] will be pleased and
 pleasing...” - addressed to \`Ali.
 
-

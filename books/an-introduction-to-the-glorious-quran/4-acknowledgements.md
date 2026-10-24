@@ -60,4 +60,3 @@ books in English, in addition to other activities, including translation
 of the Glorious Qur'an into English. She has helped me tremendously to
 finalize this book.
 
-

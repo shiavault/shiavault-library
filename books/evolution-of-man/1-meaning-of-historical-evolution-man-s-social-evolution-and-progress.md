@@ -198,4 +198,3 @@ sciences. For, he has gained much knowledge of nature, conquered it, and
 made it to serve him.
 The next point of view is man's social evolution.
 
-

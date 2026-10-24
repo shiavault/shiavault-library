@@ -49,4 +49,3 @@ Questions
 
 3. Which surahs of the Holy Qur'an do we usually recite in prayers?
 
-

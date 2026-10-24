@@ -100,12 +100,8 @@ the hereafter.
 The Prophet had gathered ‘Ali, Fatima, Hasan and Husain in a cloak and
 said:
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً.»
-  </p>
-</blockquote>
+> «إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً.»
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House! and to purify you a (thorough) purifying.***[^3]
@@ -129,14 +125,10 @@ announced: “‘Ali is the master for whom I am the master.”
 The Prophet called ‘Ali, Fatima, Hasan and Husain when the following
 verse of holy Quran was revealed:
 
-<blockquote dir="rtl">
-  <p>
-«فَمَنْ حَاجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
-وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللَّهِ
-عَلَى الْكَاذِبِينَ.»
-  </p>
-</blockquote>
+> «فَمَنْ حَاجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
+> وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللَّهِ
+> عَلَى الْكَاذِبِينَ.»
 
 ***“But whoever disputes with you in this matter after what has come to
 you of knowledge, then say: Come let us call our sons and your sons and
@@ -515,13 +507,9 @@ In 7 A.H., the people of Fadak surrendered their land to the Prophet.
 Fadak was now a personal property of the Prophet. Almighty Allah says in
 Surah Hashr:
 
-<blockquote dir="rtl">
-  <p>
-«وَمَا أَفَاء اللَّهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ
-عَلَيْهِ مِنْ خَيْلٍ وَلاَ رِكَابٍ وَلٰكِنَّ اللَّهَ يُسَلِّطُ
-رُسُلَهُ عَلَى مَن يَشَاء وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.»
-  </p>
-</blockquote>
+> «وَمَا أَفَاء اللَّهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ
+> عَلَيْهِ مِنْ خَيْلٍ وَلاَ رِكَابٍ وَلٰكِنَّ اللَّهَ يُسَلِّطُ
+> رُسُلَهُ عَلَى مَن يَشَاء وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.»
 
 ***And whatever Allah restored to His Apostle from them, you did not
 press forward against it any horse or a riding camel, but Allah gives
@@ -689,24 +677,16 @@ against holy Quran.
 1. Almighty Allah says in holy Quran: Allah enjoins you concerning your
 children:
 
-<blockquote dir="rtl">
-  <p>
-«يُوصِيكُمُ اللَّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
-الأُنثَيَيْنِ.»
-  </p>
-</blockquote>
+> «يُوصِيكُمُ اللَّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
+> الأُنثَيَيْنِ.»
 
 ***The Male shall have the equal of the portion of two females.***[^13]
 
 2. Almighty Allah has said regarding the inheritance of everyone as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-«وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ
-وَالأَقْرَبُونَ.»
-  </p>
-</blockquote>
+> «وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ
+> وَالأَقْرَبُونَ.»
 
 ***And to every one We have appointed heirs of what parents and near
 relatives leave.***[^14]
@@ -733,11 +713,7 @@ Holy Quran rejects all the three points of this tradition.
 
 Almighty Allah says in holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-«وَوَرِثَ سُلَيْمَانُ دَاوُودَ.»
-  </p>
-</blockquote>
+> «وَوَرِثَ سُلَيْمَانُ دَاوُودَ.»
 
 ***And Sulaiman was Dawood’s heir.***[^15]
 
@@ -758,16 +734,12 @@ parts of the tradition of non-inheritance incorrect.
 The supplication of Prophet Zakariya (a) is mentioned in Quran as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-«قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ
-شَيْباً وَلَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيّاً. وَإِنِّي خِفْتُ
-الْمَوَالِيَ مِن وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِراً فَهَبْ لِي مِن
-لَّدُنكَ وَلِيّاً. يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ
-رَبِّ رَضِيّاً. يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ
-يَحْيَى لَمْ نَجْعَل لَّهُ مِن قَبْلُ سَمِيّاً.»
-  </p>
-</blockquote>
+> «قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ
+> شَيْباً وَلَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيّاً. وَإِنِّي خِفْتُ
+> الْمَوَالِيَ مِن وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِراً فَهَبْ لِي مِن
+> لَّدُنكَ وَلِيّاً. يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ
+> رَبِّ رَضِيّاً. يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ
+> يَحْيَى لَمْ نَجْعَل لَّهُ مِن قَبْلُ سَمِيّاً.»
 
 ***He said: My Lord! Surely my bones are weakened and my head flares
 with hoariness, and, my Lord! I have never been unsuccessful in my
@@ -931,13 +903,9 @@ The fact is that this proof is complete in all aspects.
 Refer to the following verse of Surah Aale Imran to know how strong
 ‘Ali’s proof was:
 
-<blockquote dir="rtl">
-  <p>
-«شَهِدَ اللَّهُ أَنَّهُ لاَ إِلٰـهَ إِلاَّ هُوَ وَالْمَلاَئِكَةُ
-وَأُوْلُواْ الْعِلْمِ قَائِمَاً بِالْقِسْطِ لاَ إِلٰـهَ إِلاَّ هُوَ
-الْعَزِيزُ الْحَكِيمُ.»
-  </p>
-</blockquote>
+> «شَهِدَ اللَّهُ أَنَّهُ لاَ إِلٰـهَ إِلاَّ هُوَ وَالْمَلاَئِكَةُ
+> وَأُوْلُواْ الْعِلْمِ قَائِمَاً بِالْقِسْطِ لاَ إِلٰـهَ إِلاَّ هُوَ
+> الْعَزِيزُ الْحَكِيمُ.»
 
 ***Allah bears witness that there is no god but He, and (so do) the
 angels and those possessed of knowledge, maintaining His creation with
@@ -959,12 +927,8 @@ reject it in the matter of Fadak. Imam ‘Ali (a) is not only a witness to
 Tauheed but also a witness to the prophethood of the Prophet as
 mentioned in Surah Raad by Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-«وَيَقُولُ الَّذِينَ كَفَرُواْ لَسْتَ مُرْسَلاً قُلْ كَفَىٰ بِاللَّهِ
-شَهِيداً بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَابِ.»
-  </p>
-</blockquote>
+> «وَيَقُولُ الَّذِينَ كَفَرُواْ لَسْتَ مُرْسَلاً قُلْ كَفَىٰ بِاللَّهِ
+> شَهِيداً بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَابِ.»
 
 ***And those who disbelieve say: You are not a messenger. Say: Allah is
 sufficient as a witness between me and you and whoever has knowledge of
@@ -1007,14 +971,10 @@ Testimony of Mubahila
 When Christian scholars rejected the prophethood of Prophet Muhammad,
 the Almighty Allah revealed the verse of Mubahila and said:
 
-<blockquote dir="rtl">
-  <p>
-«فَمَنْ حَاجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
-وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
-عَلَى الْكَاذِبِينَ.»
-  </p>
-</blockquote>
+> «فَمَنْ حَاجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْاْ نَدْعُ أَبْنَاءنَا وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ
+> وَأَنفُسَنَا وأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ
+> عَلَى الْكَاذِبِينَ.»
 
 ***But whoever disputes with you in this matter after what has come to
 you of knowledge, then say: Come let us call our sons and your sons and
@@ -1044,12 +1004,8 @@ witnesses of truthfulness of entire religion of Islam.
 Also it is enough to say regarding the Caliphate of these personalities
 that Allah has revealed the following verse for them:
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً.»
-  </p>
-</blockquote>
+> «إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً.»
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House! And to purify you a (thorough) purifying.***[^19]
@@ -1586,5 +1542,4 @@ Pg. 216
 [^28]: Ibn Abil Hadid, Sharh Nahjul Balagha, Vol. 1, Pg. 50-67
 
 [^29]: Tabari, Tarikh al-Umam wal Muluk, Vol. 2, Pg. 34-35
-
 

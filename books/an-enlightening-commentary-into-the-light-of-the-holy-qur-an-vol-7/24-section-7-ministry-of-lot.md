@@ -4,12 +4,8 @@ Section 7: Ministry of Lot
 Surah Hud – Verse 69
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَاهِيَم بِالْبُشْرَي قَالُوا سَلاَماً
-قَالَ سَلاَمٌ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
-  </p>
-</blockquote>
+> وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَاهِيَم بِالْبُشْرَي قَالُوا سَلاَماً
+> قَالَ سَلاَمٌ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
 
 ***69. “And certainly Our messengers (the angels) came to Abraham with
 glad tidings. They said ‘Peace!’ He answered ‘Peace!’ and he did not
@@ -56,13 +52,9 @@ hungry, especially when he is a traveler.
 Surah Hud – Verse 70
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَءَآ أَيْدِيَهُمْ لاَ تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ
-مِنْهُمْ خِيفَةً قَالُوا لا تَخَفْ إِنَّآ اُرْسِلْنَآ إِلَي قَوْمِ
-لُوطٍ
-  </p>
-</blockquote>
+> فَلَمَّا رَءَآ أَيْدِيَهُمْ لاَ تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ
+> مِنْهُمْ خِيفَةً قَالُوا لا تَخَفْ إِنَّآ اُرْسِلْنَآ إِلَي قَوْمِ
+> لُوطٍ
 
 ***70. “But when he saw their hands extended not towards it, he
 mistrusted them, and conceived a fear of them. They said: ‘Fear not; we
@@ -86,12 +78,8 @@ Abraham’s command, he had to be briefed before their annihilation.
 Surah Hud – Verse 71
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَامْرَأَتُهُ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بإِسْحَاقَ وَمِن
-وَرَآءِ إِسْحَاقَ يَعْقُوبَ
-  </p>
-</blockquote>
+> وَامْرَأَتُهُ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بإِسْحَاقَ وَمِن
+> وَرَآءِ إِسْحَاقَ يَعْقُوبَ
 
 ***71. “And his wife was standing (by) and she laughed when We gave her
 the glad tidings (of the birth) of Isaac, and after Isaac, of Jacob.”***
@@ -127,12 +115,8 @@ Abraham (as) and Sarah.
 Surah Hud – Verse 72
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ يَا وَيْلَتَي ءَأَلِدُ وَأَنَاْ عَجُوزٌ وَهَذَا بَعْلِي
-شَيْخاً إِنَّ هَذَا لَشَيْءٌ عَجِيبٌ
-  </p>
-</blockquote>
+> قَالَتْ يَا وَيْلَتَي ءَأَلِدُ وَأَنَاْ عَجُوزٌ وَهَذَا بَعْلِي
+> شَيْخاً إِنَّ هَذَا لَشَيْءٌ عَجِيبٌ
 
 ***72. “She said: ‘Voe is me! Shall I bear a child when I am an old
 woman, and this my husband is an old man? Verily this is a wonderful
@@ -156,12 +140,8 @@ infertile old woman fertile and an old man sire a child.
 Surah Hud – Verse 73
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَتَعْجَبِينَ مِنْ أَمْرِ اللَّهِ رَحْمَةُ اللَّهِ
-وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ حَمِيدٌ مَجِيدٌ
-  </p>
-</blockquote>
+> قَالُوا أَتَعْجَبِينَ مِنْ أَمْرِ اللَّهِ رَحْمَةُ اللَّهِ
+> وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ حَمِيدٌ مَجِيدٌ
 
 ***73. “They said: “Do you wonder at Allah’s decree? The grace of Allah
 and His blessings on you, O people of the House! Verily He is Praise
@@ -221,12 +201,8 @@ superior to that bestowed upon the Prophet (S) and the Immaculate Imams
 Surah Hud – Verse 74
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَّوْعُ وَجَآءَتْهُ الْبُشْرَي
-يُجَادِلُنَا فِي قَوْمِ لُوطٍ
-  </p>
-</blockquote>
+> فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَّوْعُ وَجَآءَتْهُ الْبُشْرَي
+> يُجَادِلُنَا فِي قَوْمِ لُوطٍ
 
 ***74. “So when fear had passed from Abraham and the glad tidings
 reached him, he began disputing with Us concerning the people of
@@ -251,18 +227,10 @@ to society as a whole and children are related to the household.
 Surah Hud – Verses 75 - 76
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ
-  </p>
-</blockquote>
+> إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ
 
-<blockquote dir="rtl">
-  <p>
-يَآ إِبْرَاهِيمُ أَعْرِضْ عَنْ هَذَآ إِنَّهُ قَدْ جَآءَ أَمْرُ رَبّكَ
-وَإِنَّهُمْ ءَاتِيِهمْ عَذَابٌ غَيْرُ مَرْدُودٍ
-  </p>
-</blockquote>
+> يَآ إِبْرَاهِيمُ أَعْرِضْ عَنْ هَذَآ إِنَّهُ قَدْ جَآءَ أَمْرُ رَبّكَ
+> وَإِنَّهُمْ ءَاتِيِهمْ عَذَابٌ غَيْرُ مَرْدُودٍ
 
 ***75. “Verily Abraham was indeed for bearing, tender-hearted,
 penitent.”***  
@@ -325,12 +293,8 @@ work executing the Divine order and exterminating the people of Lot.
 Surah Hud – Verse 77
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَآءَتْ رُسُلُنَا لُوطاً سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعاً
-وَقَالَ هَذَا يَوْمٌ عَصِيبٌ
-  </p>
-</blockquote>
+> وَلَمَّا جَآءَتْ رُسُلُنَا لُوطاً سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعاً
+> وَقَالَ هَذَا يَوْمٌ عَصِيبٌ
 
 ***77. “And when Our messengers (the angels) came to Lot, he was grieved
 for them and felt straitened to protect them. He said: ‘This is a
@@ -400,14 +364,10 @@ with (others) that enter!’”***[^3]
 Surah Hud – Verse 78
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا
-يَعْمَلُونَ السَّيّئاتِ قَالَ يَاقَوْمِ هَؤُلآءِ بَنَاتي هُنَّ
-أَطْهَرُ لَكُمْ فَاتَّقُوا اللَّهَ وَلاتُخْزُونِ فِي ضَيْفِي أَلَيْسَ
-مِنكُمْ رَجُلٌ رَشِيدٌ
-  </p>
-</blockquote>
+> وَجَآءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا
+> يَعْمَلُونَ السَّيّئاتِ قَالَ يَاقَوْمِ هَؤُلآءِ بَنَاتي هُنَّ
+> أَطْهَرُ لَكُمْ فَاتَّقُوا اللَّهَ وَلاتُخْزُونِ فِي ضَيْفِي أَلَيْسَ
+> مِنكُمْ رَجُلٌ رَشِيدٌ
 
 ***78. “And his people came rushing towards him, And aforetime they had
 been practicing abominations. He said: ‘O my people, here are my
@@ -478,18 +438,10 @@ development and chastity.
 Surah Hud – Verses 79 - 80
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَقَدْ عَلِمْتَ مَالَنَا فِي بَنَاتِكَ مِنْ حَقّ‌ٍ وَإِنَّكَ
-لَتَعْلَمُ مَا نُرِيدُ
-  </p>
-</blockquote>
+> قَالُوا لَقَدْ عَلِمْتَ مَالَنَا فِي بَنَاتِكَ مِنْ حَقّ‌ٍ وَإِنَّكَ
+> لَتَعْلَمُ مَا نُرِيدُ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ ءَاوِي إِلَي رُكْنٍ شَدِيدٍ
-  </p>
-</blockquote>
+> قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ ءَاوِي إِلَي رُكْنٍ شَدِيدٍ
 
 ***79. “They said: ‘You know we have no right to your daughters, and
 verily you know well what we desire’.”***  
@@ -560,14 +512,10 @@ them to the act of sodomy.
 Surah Hud – Verse 81
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا لُوطُ إِنَّا رُسُلُ رَبّكَ لَن يَصِلُوا إِلَيْكَ فَاَسْرِ
-بِاَهْلِكَ بِقِطْعٍ مِنَ الَّيْلِ وَلا يَلْتَفِتْ مِنكُمْ أَحَدٌ
-إِلاَّ امْرَأَتَكَ إِنَّهُ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ
-مَوْعِدَهُمُ الصُّبْحُ أَلَيْسَ الصُّبْحُ بِقَرِيبٍ
-  </p>
-</blockquote>
+> قَالُوا يَا لُوطُ إِنَّا رُسُلُ رَبّكَ لَن يَصِلُوا إِلَيْكَ فَاَسْرِ
+> بِاَهْلِكَ بِقِطْعٍ مِنَ الَّيْلِ وَلا يَلْتَفِتْ مِنكُمْ أَحَدٌ
+> إِلاَّ امْرَأَتَكَ إِنَّهُ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ
+> مَوْعِدَهُمُ الصُّبْحُ أَلَيْسَ الصُّبْحُ بِقَرِيبٍ
 
 ***81. “They (the guests) said: ‘O Lot! Verily we are messengers of your
 Lord! Never shall they reach you! So travel with your family in a part
@@ -627,18 +575,10 @@ nigh?’”***
 Surah Hud – Verses 82-83
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا
-عَلَيْهَا حِجَارَةً مِن سِجّيلٍ مَنْضُود
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا
+> عَلَيْهَا حِجَارَةً مِن سِجّيلٍ مَنْضُود
 
-<blockquote dir="rtl">
-  <p>
-مُسَوَّمَةً عِندَ رَبّكَ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ
-  </p>
-</blockquote>
+> مُسَوَّمَةً عِندَ رَبّكَ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ
 
 ***82. “When Our command came, We turned it (their township) upside
 down, and rained on it stones of baked clay, layer on layer.”***
@@ -720,5 +660,4 @@ Balaqah
 [^6]: Surah Ash-Shu‘ara, No. 26, verse 167
 
 [^7]: Al-Mizan, the
-
 

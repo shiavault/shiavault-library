@@ -42,4 +42,3 @@ perform all parts of the act one after another without a gap.
  8. *Tartib*: To perform every act in the same order that has been
 approved in the Shari’ah.
 
-

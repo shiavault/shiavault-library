@@ -43,4 +43,3 @@ Baqar-e-Isphahani gave him a loan of 20,000 dinars.
 
 Moral: Kindness is never wasted.
 
-

@@ -407,4 +407,3 @@ these had come and stood before him, Husain said:-
 Husain left Mecca for Kufa in response to the implorations of the
 people of the place.
 
-

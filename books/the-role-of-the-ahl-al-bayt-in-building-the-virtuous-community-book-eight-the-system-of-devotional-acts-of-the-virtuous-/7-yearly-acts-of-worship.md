@@ -40,4 +40,3 @@ worship (the ritual prayer, almsgiving, fasting, and self-purification).
 We will discuss the last two with brief explanations, having already
 discussed specific days and nights.
 
-

@@ -15,14 +15,9 @@ High Esteem
 he should [in turn] be more respectful to the people.
 
 > 3ـ مَنْ زادَهُ اللّهُ كَرامَةً فَحَقيقٌ بِه أنْ يَزيدَ النّاسَ
-<blockquote dir="rtl">
-  <p>
-إكْراماً.
-  </p>
-</blockquote>
+> إكْراماً.
 
 4. One who is raised by disgrace is made vain by high esteem.
 
 > 4ـ مَنْ رَبّاهُ الهَوانُ أبْطَـرَتْهُ الكَرامَةُ.
-
 

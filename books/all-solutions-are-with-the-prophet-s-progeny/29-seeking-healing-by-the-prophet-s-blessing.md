@@ -119,4 +119,3 @@ prophethood in the book “The beginning of creation”.
 [^7]: Sahih al-Bukhari, vol. 4 p. 170-, chapt. the signs of prophethood
 in the book “the beginning of creation”.
 
-

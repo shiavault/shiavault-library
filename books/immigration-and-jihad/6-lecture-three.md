@@ -476,4 +476,3 @@ Subhi as-Saleh, Sermon No. 189.
 
 [^3]: Ibn Hisham’s Prophetic Biography, vol. 2, p. 88.
 
-

@@ -94,4 +94,3 @@ Article 8
 The money that is given for registration has no Khums, if it is from the
 income of the same year.
 
-

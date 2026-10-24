@@ -187,4 +187,3 @@ last time, people saw the holy Prophet, was he praying in a sitting
 position behind Abu Bakr? Or it was when he turned the curtain aside, in
 Aysha's house, and people were standing in rows behind Abu Bakr?
 
-

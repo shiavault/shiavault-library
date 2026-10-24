@@ -169,4 +169,3 @@ read our other books. This book Kashaful Wilayah today 15t h of
 September 2009 24t h Ramadan 1430 Hijra at 6:00 pm with the blessings of
 Allah and help of Imam e Zamana (ajf) has been completed.
 
-

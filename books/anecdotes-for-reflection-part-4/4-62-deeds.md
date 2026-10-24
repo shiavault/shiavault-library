@@ -3,17 +3,9 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-مَن عَمِلَ صاَلحِاً فَلِنَفسِهِ وَ مَن اَساَءَ فَعَلَيهاَ
-  </p>
-</blockquote>
+> مَن عَمِلَ صاَلحِاً فَلِنَفسِهِ وَ مَن اَساَءَ فَعَلَيهاَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ
-  </p>
-</blockquote>
+> وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ
 
 ***“Whoever does good, it is for his own soul, and whoever does evil, it
 is against it; and your Lord is not in the least unjust to the
@@ -21,12 +13,8 @@ servants.”***[^1]
 
 Imam Sadiq (peace be upon him):
 
-<blockquote dir="rtl">
-  <p>
-کُونُوا دُعاَةَ النَّاسِ بِاَعماَلِکُم وَ لاَ تَکُونُوا دُعاَةً
-بِاَلسِنَتِکُم
-  </p>
-</blockquote>
+> کُونُوا دُعاَةَ النَّاسِ بِاَعماَلِکُم وَ لاَ تَکُونُوا دُعاَةً
+> بِاَلسِنَتِکُم
 
 *Invite the people (towards guidance) by means of your deeds and not by
 means of your tongues*[^2]
@@ -235,5 +223,4 @@ al-Mu'minin (peace be upon him), a book on nahw (Arabic grammar) and
 placing dots on the Arabic letters that form the words of the Qur’an.
 
 [^8]: Khazinah al-Jawahir, p. 536.
-
 

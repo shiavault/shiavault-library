@@ -169,4 +169,3 @@ cordial relationship, the life of both the animals and plants will be
 exhausted, i.e., whenever this life equilibrium changes, the condition
 of both of them will be completely changed.”6
 
-

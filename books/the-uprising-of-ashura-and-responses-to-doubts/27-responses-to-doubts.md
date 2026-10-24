@@ -1,4 +1,3 @@
 Responses to Doubts
 ===================
 
-

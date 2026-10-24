@@ -1,11 +1,7 @@
 Commentary of: “Bismillah, ar-Rahman, ar-Rahim”
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 ***In the name of Allah, the Beneficent, the Merciful.***
 
@@ -15,12 +11,8 @@ illuminating phrase.
 Amir al-Mu’minin (as) narrated from the Holy Prophet (S) who narrated
 from Allah that the Almighty that He stated:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ أمْرٍ ذِي بَالٍ لاَ يُذْكَرُ ’بِسْمِ اللهِ‘ فِيهِ فَهُوَ
-أبْتَرُ.
-  </p>
-</blockquote>
+> كُلُّ أمْرٍ ذِي بَالٍ لاَ يُذْكَرُ ’بِسْمِ اللهِ‘ فِيهِ فَهُوَ
+> أبْتَرُ.
 
 *Any important job which is done without Allah’s remembrance, is
 tarnished and useless.*[^1]
@@ -28,14 +20,10 @@ tarnished and useless.*[^1]
 The late Tabarsi narrates Imam *Musa* Ibn Ja’far (as) in his book
 ‘*Makarim Al-Akhlaq*’:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ أحَدٍ دَهَمَهُ أمْرٌ يَغُمُّهُ أوْ كَرَبَتْهُ كُرْبَةٌ
-فَرَفَعَ رَأسَهُ إلَى السَّمَاءِ ثُمَّ قَالَ ثَلاثَ مَرَّاتٍ: ’بِسْمِ
-اللهِ الرَّحْمَنِ الرَّحِيمِ‘ إلاّ فَرَّجَ اللهُ كُرْبَتَهُ وَأذْهَبَ
-غَمَّهُ، إنْ شَاءَ اللهُ تَعَالَى.
-  </p>
-</blockquote>
+> مَا مِنْ أحَدٍ دَهَمَهُ أمْرٌ يَغُمُّهُ أوْ كَرَبَتْهُ كُرْبَةٌ
+> فَرَفَعَ رَأسَهُ إلَى السَّمَاءِ ثُمَّ قَالَ ثَلاثَ مَرَّاتٍ: ’بِسْمِ
+> اللهِ الرَّحْمَنِ الرَّحِيمِ‘ إلاّ فَرَّجَ اللهُ كُرْبَتَهُ وَأذْهَبَ
+> غَمَّهُ، إنْ شَاءَ اللهُ تَعَالَى.
 
 *There’s no grief-stricken individual who says
 ‘bismillahir-rahmanir-rahim’ three times while looking up to the sky,
@@ -43,11 +31,7 @@ where in return Allah eliminates his grief, if He wills.*[^2]
 
 We read in an important tradition:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُرَدُّ دُعَاءٌ أوَّلُهُ ’بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ‘.
-  </p>
-</blockquote>
+> لاَ يُرَدُّ دُعَاءٌ أوَّلُهُ ’بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ‘.
 
 *A du’a’ which begins with bismillahir-rahmanir-rahim will not be
 rejected by Allah.*[^3]
@@ -55,14 +39,10 @@ rejected by Allah.*[^3]
 The Messenger of Allah (S) counted the guards of hell as nineteen and
 said,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أرَادَ أنْ يُنَجِّيَهُ اللهُ مِنَ الزَّبَانِيَةِ التِّسْعَةَ
-عَشَرَ فَلْيَقْرَأْ ’بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ‘، فَإنَّهَا
-تِسْعَةَ عَشَرَ حَرفاً لِيَجْعَلَ اللهُ لَهُ كُلَّ حَرْفٍ مِنْهَا
-جُنَّةً مِنْ وَاحِدٍ مِنْهُمْ.
-  </p>
-</blockquote>
+> مَنْ أرَادَ أنْ يُنَجِّيَهُ اللهُ مِنَ الزَّبَانِيَةِ التِّسْعَةَ
+> عَشَرَ فَلْيَقْرَأْ ’بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ‘، فَإنَّهَا
+> تِسْعَةَ عَشَرَ حَرفاً لِيَجْعَلَ اللهُ لَهُ كُلَّ حَرْفٍ مِنْهَا
+> جُنَّةً مِنْ وَاحِدٍ مِنْهُمْ.
 
 *One who wants Allah to save him from these guards should recite
 bismillahir-rahmanir-rahim which consists of nineteen letters, so that
@@ -70,13 +50,9 @@ Allah will set each letter as a guard from the fire.*[^4]
 
 It is narrated from the Messenger of Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَالَ المُعَلِّمُ لِلصَّبِيِّ: قُلْ ’بِسْمِ اللهِ الرَّحْمَنِ
-الرَّحِيمِ‘، فَقَالَ، كَتَبَ اللهُ بَرَاءَةً لِلصَّبِيِّ وَلأَبَوَيْهِ
-وَلِلمُعَلِّمِ.
-  </p>
-</blockquote>
+> إذَا قَالَ المُعَلِّمُ لِلصَّبِيِّ: قُلْ ’بِسْمِ اللهِ الرَّحْمَنِ
+> الرَّحِيمِ‘، فَقَالَ، كَتَبَ اللهُ بَرَاءَةً لِلصَّبِيِّ وَلأَبَوَيْهِ
+> وَلِلمُعَلِّمِ.
 
 *When a teacher teaches ‘bismillahir-rahmanir-rahim’ to a child, the
 Exalted God sets the child, his parents and his teacher free from the
@@ -93,12 +69,8 @@ of mankind.”
 
 It is narrated from Imam al-Ridha (as):
 
-<blockquote dir="rtl">
-  <p>
-إنَّ ’بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ‘ تَقْتَرِبُ مِنَ الإسْمِ
-الأعْظَمِ اقْتِرَابَ سَوَادِ العَيْنِ مِنْ بَياضِهَا.
-  </p>
-</blockquote>
+> إنَّ ’بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ‘ تَقْتَرِبُ مِنَ الإسْمِ
+> الأعْظَمِ اقْتِرَابَ سَوَادِ العَيْنِ مِنْ بَياضِهَا.
 
 *The ‘bismillahir-rahmanir-rahim’ is as close to Allah’s chief name as
 is the blackness of eye to its whiteness.*[^6]
@@ -174,33 +146,21 @@ Furthermore, if the first letter of the Arabic word ‘A*llah* (الله)’ is
 omitted, what remains is ‘*lillahi* (لله)’, which means ‘for Allah,’ as
 in the following Verse:
 
-<blockquote dir="rtl">
-  <p>
-لِلَّهِ الأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ.
-  </p>
-</blockquote>
+> لِلَّهِ الأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ.
 
 ***Allah's is the command before and after. (30:4)***
 
 If the first two letters are dropped, what remains is ‘*lahu* (له)’,
 which means (His) remains, as in the following Verse:
 
-<blockquote dir="rtl">
-  <p>
-لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ.
-  </p>
-</blockquote>
+> لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ.
 
 ***To Him belongs the kingdom, and to Him is all due praise. (64:1)***
 
 If the first three letters are dropped, what remains is ‘*huwa* (هو)”,
 which means ‘He’ implying Almighty Allah, as in the following Verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللَّهُ أَحَدٌ.
-  </p>
-</blockquote>
+> قُلْ هُوَ اللَّهُ أَحَدٌ.
 
 ***Say: He, Allah, is One. (112:1)***
 
@@ -292,5 +252,4 @@ is not pronounced in English, or is hidden.
 [^8]: See “Al-Kafi”, “Ma’ani Al-Akhbar”, “Tawhid Saduq”, “Wasa’il
 Al-Shi’ah”, “Bahr l-Haqa’iq”, “Mafatih Al-Ghayb” and “Exegesis of
 Fatihat Al-Kitab”.
-
 

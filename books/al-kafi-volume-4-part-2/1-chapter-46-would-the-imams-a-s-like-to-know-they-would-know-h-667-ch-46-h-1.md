@@ -21,7 +21,6 @@ Ja'far from 'Amr ibn Sa'id al-Mada'ini from abu 'Ubayda al-Mada'ini from
 abu 'Abdallah (a.s.) who has said the following. "When the Imam (a.s.)
 would will to know something Allah will grant him such knowledge."
 
-
 **Chapter 47 : The Imams (a.s.) know when they will die and they die
 voluntarily H 670, Ch. 47, h 1**
 
@@ -123,7 +122,6 @@ was saying, "O Ali, what is with us is better for you." (The mention of
 fish is to show equality of degree of certain in his knowledge from
 observation and his knowledge from his dream.)
 
-
 H 676, Ch. 47, h 7
 
 Muhammad ibn Yahya has narrated from Ahmad ibn Muhammad from
@@ -149,5 +147,4 @@ Ja'far (a.s.) who has said the following.
 (a.s.) up to the fill between the heavens and earth. Then he was let to
 choose either victory or meeting Allah. He, however, chose the meeting
 of Allah the Most High."
-
 

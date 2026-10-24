@@ -1,19 +1,11 @@
 2.  The Hajj and Focusing on Allah
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَرِ البَاقِرِ (ع) فِي قَوْلِ اللٌّهِ تَبَارَكَ وَ
-تـــَعَالـى:
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَرِ البَاقِرِ (ع) فِي قَوْلِ اللٌّهِ تَبَارَكَ وَ
+> تـــَعَالـى:
 
-<blockquote dir="rtl">
-  <p>
-فَــفِرُّوا إِلـى اللٌّه إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ ‏ قَالَ:
-حَجُّوا إِلـى اللٌّهِ.
-  </p>
-</blockquote>
+> فَــفِرُّوا إِلـى اللٌّه إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ ‏ قَالَ:
+> حَجُّوا إِلـى اللٌّهِ.
 
    
  It has been narrated from Abi Ja’far [Imam Muhammad Ibn ‘Ali] al-Baqir
@@ -21,11 +13,7 @@
 and High:  
   
 
-<blockquote dir="rtl">
-  <p>
-فَــفِرُّوا إِلـى اللٌّه إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ ‏
-  </p>
-</blockquote>
+> فَــفِرُّوا إِلـى اللٌّه إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ ‏
 
 ***“So then hasten towards Allah, surely I (Muhammad) am a plain warner
 to you from Him.”*** ***(Suratul Dhariyat (51), Verse 50)***  
@@ -35,5 +23,4 @@ to you from Him.”*** ***(Suratul Dhariyat (51), Verse 50)***
  Ma’aniul Akhbar, Page 222  
     
   
-
 

@@ -39,4 +39,3 @@ slight corrections that is hoped to render it more useful.
 **Reza Ostadi**,  
 **Qum Seminary.**
 
-

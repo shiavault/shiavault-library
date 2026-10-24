@@ -11,4 +11,3 @@ not guard (against punishment).”***[^1]
 
 [^1]: Qur'an, 8;55-56.
 
-

@@ -33,4 +33,3 @@ name is mentioned.
 
 [^2]: Ibid.
 
-

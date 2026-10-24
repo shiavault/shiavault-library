@@ -528,4 +528,3 @@ also became known for his brave criticism of wrong actions or policies
 of the government, and for his standing up to tyrant and despot rulers
 of his time.
 
-

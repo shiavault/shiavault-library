@@ -25,15 +25,12 @@ At last, all were dead, the devil had won,
 Blood red sank down the merciless sun,
 Trampled and torn lay the gallant Husain,
 
-
 For Islam, God, and the faithful were slain.\*
 \* Khurshed, ed., Imam Husain, 2nd ed., pp. 141-142.
 
 41
 
-
 **Tabish Khair : Poem from Outside a Muharram Procession**
-
 
 The clash of arms, the clasp of armour
 (Ya Hassan, Ya Hussain):
@@ -56,7 +53,6 @@ Passed on from mother to daughter
 This is not religion, this
 Is the exchange of unwrapped
 
-
 Presents. This is a young boy feeling
 With his father's heart, this is
 A pony-tailed girl speaking
@@ -71,12 +67,9 @@ L. 2. ?Ya", an Arabic vocative or attention-getter, almost
 equivalent to English O, Oh, or Lo. Imam al- Hassan, here
 mentioned as Hassan, was Imam al- Hussain's elder brother.
 
-
 43
 
-
 **Anonymous : On the Morn of Muharram**
-
 
 Wake up my friends; for the morn of
 Qiama has arrived
@@ -104,7 +97,6 @@ The arms of 'Abbas were cut in this month
 The three-edged arrow settled in the
 parched throat of little Asghar
 
-
 The crescent of grief has appeared
 The month of mourning has arrived
 Zainab will hug the dust of thee dungeon
@@ -114,7 +106,6 @@ Bruised in this month
 The crescent of grief has appeared
 The month of mourning has arrived.\*
 30
-
 
 L. 2. ?Qiama? (correct form qi?mah) means the Resurrection Day.
 
@@ -130,9 +121,7 @@ L. 29. ?Sakina? was Imam Husain's beloved daughter.
 
 45
 
-
 **Farah Yeganeh : A Shaped Elegy for Karbala**
-
 
 Where do you reside now?
 Where you reside?
@@ -175,5 +164,4 @@ Nothingness?\*
 volume.
 
 47
-
 

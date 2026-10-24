@@ -55,4 +55,3 @@ of cotton, because on a sanitary pad the blood is absorbed and usually a
 sanitary pad has a plastic base to avoid leakage. Hence to determine the
 type of istihadha cotton should be used.*
 
-

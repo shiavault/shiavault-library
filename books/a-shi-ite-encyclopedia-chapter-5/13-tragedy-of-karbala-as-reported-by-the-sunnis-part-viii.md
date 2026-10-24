@@ -197,7 +197,6 @@ may God have mercy on him. The two who took part in killing him were
 Zayd b. Warqa al-Hanafi and Hahm b. al-Tufail al- Shabsi, after he had
 been covered with wounds and could not move.
 
-
 [ The account of al Abbas death is missing from Tabari ]
 
 When al-Husayn, peace be on him, came back from the dam to his tents,
@@ -376,5 +375,4 @@ buried al-Abbas b. 'Ali, peace be on them both, in the place where he
 was killed, on the road to al-Ghadiriyya, where his tomb still is.
 
 **[ These details are not given by Tabari ]**
-
 

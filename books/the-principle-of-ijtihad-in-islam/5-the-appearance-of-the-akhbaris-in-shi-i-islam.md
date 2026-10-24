@@ -78,4 +78,3 @@ However, against this is the fact that Ayatullah Burujirdi never spoke
 without evidence. I now regret that I never asked him for an explanation
 at the time.
 
-

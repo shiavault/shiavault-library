@@ -2006,4 +2006,3 @@ members of the party of God in 1982.
 [^15]: Reference to the words of Ali Asghar, son of Imam Hussein (A.S.)
 in the eve of Ashura in Karbala.
 
-

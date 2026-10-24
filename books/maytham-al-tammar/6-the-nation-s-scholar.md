@@ -10,4 +10,3 @@ everything from Imam Ali [a].*
 So, bin Abbas sat before Maytham to learn lessons about the Qur'an
 explanation.
 
-

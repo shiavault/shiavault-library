@@ -93,14 +93,10 @@ than Allah.” He then praised and beseeched blessings for Muhammad
 (s.a.w.a.) and Amir ul-Mu’minin ‘Ali (a.s.), and every one of the Imams
 (a.s.) till he reached his father. Then he recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ وَنُمَكِّنَ
-لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا
-مِنْهُمْ مَا كَانُوا يَحْذَرُونَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ وَنُمَكِّنَ
+> لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا
+> مِنْهُمْ مَا كَانُوا يَحْذَرُونَ
 
 ***“And We desire to confer kindness upon those who have been enfeebled
 on the earth and make them Imams and make them heirs and give them power
@@ -116,12 +112,8 @@ on his head and body and then flying off. Hazrat Imam Hasan al- Askari
 “O aunt! Bring my son to me. ...... On his arm, the Qur’anic verse was
 written:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ
-زَهُوقًا
-  </p>
-</blockquote>
+> وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ
+> زَهُوقًا
 
 ***“Say: Truth has arrived and falsehood vanished. Surely, falsehood was
 bound to vanish.” (Surah Bani Israael, 17: 81)*** [^2]
@@ -325,5 +317,4 @@ her the duties and the traditions, for she is the wife of Abu Muhammad
 Publications
 
 [^2]: Muntahal Aamaal, Shaikh Abbas Qummi (a.r.), vol. 2, p. 285
-
 

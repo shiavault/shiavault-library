@@ -41,4 +41,3 @@ Fast, pray, remember Allah and recite the Holy Book
 
 Allah is Merciful, yes, He can give us all a new look.
 
-

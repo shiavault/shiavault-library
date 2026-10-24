@@ -325,7 +325,6 @@ our Islamic law (Fiqh).
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Will Du Rant, Philosophy Enjoyment, p. 158.
 
-
 **Chapter Five : Woman; the Family Axis**
 
 The importance of family is known to everybody. It has a central role

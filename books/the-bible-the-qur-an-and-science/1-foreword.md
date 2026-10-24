@@ -31,7 +31,6 @@ writings and scientific data.
 The results of his research into the Judeo-Christian Revelation and the
 Qur'an are set out in this book.
 
-
 **Introduction**
 
 Each of the three monotheistic religions possess its own collection of
@@ -408,5 +407,4 @@ passages by modern scientific knowledge.
 
 Previously these passages were obscure owning to the non-availability
 of knowledge which could help interpret them.
-
 

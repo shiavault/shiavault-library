@@ -4,31 +4,15 @@ Section 5: The Great Tiding
 Surah Sad - Verses 65-68
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَآ أَنَاْ مُنذِرٌ وَمَا مِنْ إِلَهٍ إِلاَّ اللَّهُ
-الْوَاحِدُ الْقَهَّارُ
-  </p>
-</blockquote>
+> قُلْ إِنَّمَآ أَنَاْ مُنذِرٌ وَمَا مِنْ إِلَهٍ إِلاَّ اللَّهُ
+> الْوَاحِدُ الْقَهَّارُ
 
-<blockquote dir="rtl">
-  <p>
-رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ
-الْغَفَّارُ
-  </p>
-</blockquote>
+> رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ
+> الْغَفَّارُ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ نَبَؤٌاْ عَظِيمٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ نَبَؤٌاْ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-أَنتُمْ عَنْهُ مُعْرِضُونَ
-  </p>
-</blockquote>
+> أَنتُمْ عَنْهُ مُعْرِضُونَ
 
 ***65. “Say: ‘I am only a Warner and there is no god but Allah, the One,
 the Almighty’,”***  
@@ -199,17 +183,9 @@ peaks of honour and dignity.
 Surah Sad - Verses 69-70
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلأِ الأَعْلَي إِذْ يَخْتَصِمُونَ
-  </p>
-</blockquote>
+> مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلأِ الأَعْلَي إِذْ يَخْتَصِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِن يُوحَي إِلَيَّ إِلآَّ أَنَّمَآ أَنَاْ نَذِيرٌ مُبِينٌ
-  </p>
-</blockquote>
+> إِن يُوحَي إِلَيَّ إِلآَّ أَنَّمَآ أَنَاْ نَذِيرٌ مُبِينٌ
 
 ***69. “I had no knowledge of the High Council when they disputed.”***  
 ***70. “Naught is revealed to me save that I am a clear Warner.”***
@@ -301,30 +277,14 @@ Divine revelation.”*[^5]
 Surah Sad - Verses 71-74
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ رَبُّكَ لِلْمَلآَئِكَةِ إِنّـِي خَالِقٌ بَشَراً مِن طِينٍ
-  </p>
-</blockquote>
+> إِذْ قَالَ رَبُّكَ لِلْمَلآَئِكَةِ إِنّـِي خَالِقٌ بَشَراً مِن طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُوحِي فَقَعُوا لَهُ
-سَاجِدِينَ
-  </p>
-</blockquote>
+> فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُوحِي فَقَعُوا لَهُ
+> سَاجِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَسَجَدَ الْمَلآَئِكَةُ كُلُّهُمْ أَجْمَعُونَ
-  </p>
-</blockquote>
+> فَسَجَدَ الْمَلآَئِكَةُ كُلُّهُمْ أَجْمَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلآَّ اِبْلِيسَ اسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> إِلآَّ اِبْلِيسَ اسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
 
 ***71. “When your Lord said to the angels: ‘I am about to create a
 mortal out of mire.”***  
@@ -411,31 +371,15 @@ row of disobedient ones, in the same manner that He set ’Iblis.
 Surah Sad - Verses 75-78
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَآ إِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّ
-أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ الْعَالِينَ
-  </p>
-</blockquote>
+> قَالَ يَآ إِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّ
+> أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ الْعَالِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَنَاْ خَيْرٌ مِنْهُ خَلَقْتَنِي مِن نَارٍ وَخَلَقْتَهُ مِن
-طِينٍ
-  </p>
-</blockquote>
+> قَالَ أَنَاْ خَيْرٌ مِنْهُ خَلَقْتَنِي مِن نَارٍ وَخَلَقْتَهُ مِن
+> طِينٍ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
-  </p>
-</blockquote>
+> قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ عَلَيْكَ لَعْنَتِي إِلَي يَوْمِ الدّ‌ِينِ
-  </p>
-</blockquote>
+> وَإِنَّ عَلَيْكَ لَعْنَتِي إِلَي يَوْمِ الدّ‌ِينِ
 
 ***75. “(Allah) said: ‘O’ Iblis! What prevented you from prostrating
 yourself to one whom I have created with My hands? Are you proud or are
@@ -606,35 +550,15 @@ from His mercy, where He says:
 Surah Sad - Verses 79-83
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ فَأَنظِرْنِي إِلَي يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ فَأَنظِرْنِي إِلَي يَوْمِ يُبْعَثُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ
-  </p>
-</blockquote>
+> قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَي يَوْمِ الْوَقْتِ الْمَعْلُومِ
-  </p>
-</blockquote>
+> إِلَي يَوْمِ الْوَقْتِ الْمَعْلُومِ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لأُغْوِيَنَّهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لأُغْوِيَنَّهُمْ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عِبَادَكَ مِنْهُمُ الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> إِلاَّ عِبَادَكَ مِنْهُمُ الْمُـخْلَصِينَ
 
 ***79. “He said: ‘O’ Lord! Then respite me till the Day they shall be
 raised,”***  
@@ -731,17 +655,9 @@ they followed him, except a party of the believers!”***
 Surah Sad - Verses 84-85
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَالْحَقُّ وَالْحَقَّ أَقُولُ
-  </p>
-</blockquote>
+> قَالَ فَالْحَقُّ وَالْحَقَّ أَقُولُ
 
-<blockquote dir="rtl">
-  <p>
-لأَمْلأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> لأَمْلأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
 
 ***84. “(Allah) said: ‘Then it is the truth; and the truth do I
 speak,”***  
@@ -786,24 +702,12 @@ to Dar-ul-Bawar (one of the names of Hell).
 Surah Sad - Verses 86-88
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَآ أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَاْ مِنَ
-الْمُتَكَلّـِفِينَ
-  </p>
-</blockquote>
+> قُلْ مَآ أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَاْ مِنَ
+> الْمُتَكَلّـِفِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلاَّ ذِكْرٌ لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلاَّ ذِكْرٌ لِلْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ
-  </p>
-</blockquote>
+> وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ
 
 ***86. “(O Prophet!) say: ‘No reward do I ask of you for it, nor am I of
 the impostors.”***  
@@ -957,5 +861,4 @@ of the Worlds.*
 [^12]: Al-Mizan, Jawami‘-ul-Jami‘, Nur-uth-Thaqalayn following the verse
 
 [^13]: Nur-uth-Thaqalayn, Following the verse
-
 

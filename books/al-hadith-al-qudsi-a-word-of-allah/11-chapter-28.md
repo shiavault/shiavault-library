@@ -1,11 +1,8 @@
 Chapter 28
 ==========
 
-<p dir="rtl">
 الحديث الثامن والعشرون‏
-</p>
 
-<p dir="rtl">
 يَابْنَ آدَمَ!! اَلْمَالُ مَالِي وَ أَنْتَ عَبْدِي وَ مَالَكَ إِلَّا
 مَا أَكَلْتَ فَأَفْنَيْتَ وَ مَا لَبِسْتَ فَأَبْلَيْتَ وَ مَا
 تَصَدَّقْتَ فَأبْقَيْتَ وَ مَا ذَخَرْتَ فَحَظكَ مِنْهُ الْمقتُ وَ
@@ -22,8 +19,6 @@ Chapter 28
 وَ الْأَغْنِيَاءُ بِالْكِبْرِ وَ القُرِّاءُ بِالْغَفْلَةِ وَ الصُبَّاغُ
 بِالْغشِّ وَ مَانِعُ الزَّكاةِ بِمَنْعِ الزَّكاةِ فَأَيْنَ مَنْ يَطْلُبُ
 الْجَنَّةَ.
-</p>
-
 
 Almighty Allah says:
 
@@ -47,16 +42,11 @@ because of their pride indigent because of their carelessness, dyers
 because of their fraud, preventor of Zakat because of their prevention.
 Then where are the seekers of Jannat (Heaven)?
 
-<p dir="rtl">
 الحديث التاسع والعشرون‏
-</p>
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَ لاَ
 تَمُوتُنَّ إلَّا وَ أَنْتُمْ مُسلِمُونَ.
-</p>
 
-<p dir="rtl">
 يَابْنَ آدَمَ!! مَثَلْ الْعَمَلِ بِلاَ عِلْمٍ كَمَثَلِ الرَّعْدِ بِلاَ
 مَطَرٍ وَ مَثَلُ الْعِلْمِ بِلاَ عَمَلٍ كَمَثَلِ الشَّجَرِ بِلاَ ثَمَرٍ
 وَ مَثَلُ الْعِلْمِ بِلاَ زُهْدٍ وَ خَشْيَةٍ كَالْمَالِ بِلاَ زَكاةٍ
@@ -70,8 +60,6 @@ Then where are the seekers of Jannat (Heaven)?
 مَثَلُ الْعَمَلِ بِلاَ تَوْبَةِ كَمَثَلِ البُنْيَانِ بِلاَ أسَاسٍ
 أَفَأمِنُوا مَكْرَ اللَّهِ فَلاَ يَأمَنُ مَكْرَ اللَّهِ إلَّا القَوْمُ
 الْخَاسِرُونَ.
-</p>
-
 
 **Chapter 29**
 
@@ -93,11 +81,8 @@ without foundation. What! do they feel secure from Allah's plans? But
 none feels secure from Allah's plan except the people who shall perish
 (7:99).
 
-<p dir="rtl">
 الحديث الثلاثون‏
-</p>
 
-<p dir="rtl">
 يَا بْنَ آدَمَ!! بِقَدْرِ مَا يَمِيْلُ قَلْبُكَ إِلَى الدُّنْيَا
 أُخْرِجُ مَحَبَّتِي عَنْ قَلْبِكَ فَأنِّي لاَ أَجْمَعُ حُبِّي وَ حُبَّ
 الدُّنْيا في قَلْبٍ وَاحِدٍ أَبَداً تَجَرَّدْ لِعِبَادَتِي وَ أَخْلِصْ
@@ -115,8 +100,6 @@ none feels secure from Allah's plan except the people who shall perish
 أُذْكُرْني بِالتَّلَفظِ أَذْكُرْكَ بِالتَّلَطفِ اذْكُرْني بِتَرْكِ
 الدُّنْيَا أَذْكُرْكَ بِنَعِيْمِ الْبَقَاءِ اذْكُرْني في الشِّدَّةِ
 الْهَالِكَةِ أَذْكُرْكَ بِالنَّجَاةِ الْكَامِلَةِ.
-</p>
-
 
 **Chapter 30**
 
@@ -144,5 +127,4 @@ you with mercy. Remember Me with words, I will remember you with
 rewards. Remember Me by abandoning this world, I will remember you by
 giving you salvation of the Hereafter. Remember Me in your extreme
 difficulties, I will remember you with perfect salvation.
-
 

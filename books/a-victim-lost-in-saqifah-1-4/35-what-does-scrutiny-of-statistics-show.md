@@ -98,7 +98,7 @@ and problems.”**[3]**
  **[2]** Jalal Darikhsha: *Mawaaze Siyasi Hazrat Ali Dar Qibal
 Mukhalifeen* (Political stands of Ali against opponents), Pg. 53  
  **[3]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg.
+Ali from the Sunni point of view), [1st Edition 1380], Pg.
 104
 
 A little attention and care will prove to us that Umar contacted Ali
@@ -148,7 +148,7 @@ passed judgment it would have been better.**[2]**”**[1]**
 
 **[1]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 42  
  **[2]** In another version it is mentioned: While it was such a
 judgment that if a mad man
@@ -198,7 +198,7 @@ behind claim of good relations between the Caliphs and Amirul Momineen
 had judged this matter he would have said more than this.**  
  [1]** Refer: Muhammad Ismail Ansari Zanjani: Translation of *Asraar
 Aale Muhammad,* Pg. 340**  
- [2]** Muhammad Baqir Bahboodi: *Seerah Alawi* (1<sup>st</sup> Edition),
+ [2]** Muhammad Baqir Bahboodi: *Seerah Alawi* (1st Edition),
 Pg. 41; quoting from: *Tarikh Tabari,* Vol. 3, Pg. 608  
  **[3]** Ali Muhammad Meer Jalili: *Imam Ali (a.s.) wa Zamaamdaaraan*
 (Imam Ali and the Rulers), Pg. 289; quoting from *Musnad Ahmad,* Vol. 1,
@@ -710,7 +710,7 @@ Autumn 81, Pg. 7
 Autumn 82, Pg. 11  
  **[4]** Refer: Sayyid Ali Husaini Milani: *Imamat-e-Bila Fasl* (Edit.
 Muhammad Reza Kareemi), Pg. 160  
- **[5]** Muhammad Baqir Bahboodi: *Seerah Alawi* (1<sup>st</sup>
+ **[5]** Muhammad Baqir Bahboodi: *Seerah Alawi* (1st
 Edition), Pg. 41
 
 “In important matters whenever Umar could not take a decision by himself

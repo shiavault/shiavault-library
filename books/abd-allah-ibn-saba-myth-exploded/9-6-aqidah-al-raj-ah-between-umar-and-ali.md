@@ -6,16 +6,12 @@ earliest to publicly declare belief in *al-raj’ah*, long before even the
 unproved profession of the same *‘aqidah* by Ibn Saba. Imam al-Bukhari
 (d. 256 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسماعيل بن عبد الله حدثنا سليمان بن بلال عن هشام ابن عروة عن
-عروة بن الزبير عن عائشة رضي الله عنها زوج النبي صلى الله عليه و سلم
-:أن رسول الله صلى الله عليه و سلم مات وأبو بكر بالسنح - قال إسماعيل
-يعني بالعالية - فقام عمر يقول والله ما مات رسول الله صلى الله عليه و
-سلم قالت وقال عمر والله ما كان يقع في نفسي إلا ذاك وليبعثنه الله
-فليقطعن أيدي رجال وأرجلهم .
-  </p>
-</blockquote>
+> حدثنا إسماعيل بن عبد الله حدثنا سليمان بن بلال عن هشام ابن عروة عن
+> عروة بن الزبير عن عائشة رضي الله عنها زوج النبي صلى الله عليه و سلم
+> :أن رسول الله صلى الله عليه و سلم مات وأبو بكر بالسنح - قال إسماعيل
+> يعني بالعالية - فقام عمر يقول والله ما مات رسول الله صلى الله عليه و
+> سلم قالت وقال عمر والله ما كان يقع في نفسي إلا ذاك وليبعثنه الله
+> فليقطعن أيدي رجال وأرجلهم .
 
 Isma’il b. ‘Abd Allah – Sulayman b. Bilal – Hisham b. ‘Urwah – ‘Urwah b.
 al-Zubayr – ‘Aishah, may Allah be pleased with her, the wife of the
@@ -32,13 +28,9 @@ It is this very belief that has been attributed to ‘Abd Allah b. Saba in
 the *mawdhu’* (fabricated) report documented by Imam Ibn Jarir al-Tabari
 (d. 310 H):
 
-<blockquote dir="rtl">
-  <p>
-فقال لهم فيما يقول لعجب ممن يزعم أن عيسى يرجع ويكذب بأن محمدا يرجع وقد
-قال الله عز و جل إن الذي فرض عليك القرآن لرادك إلى معاد فمحمد أحق
-بالرجوع من عيسى قال فقبل ذلك عنه ووضع لهم الرجعة فتكلموا فيها
-  </p>
-</blockquote>
+> فقال لهم فيما يقول لعجب ممن يزعم أن عيسى يرجع ويكذب بأن محمدا يرجع وقد
+> قال الله عز و جل إن الذي فرض عليك القرآن لرادك إلى معاد فمحمد أحق
+> بالرجوع من عيسى قال فقبل ذلك عنه ووضع لهم الرجعة فتكلموا فيها
 
 Then, he said to them, “It is strange of he who claims that ‘Isa will
 return but rejects that Muhammad will return. Meanwhile, Allah the
@@ -57,14 +49,10 @@ Meanwhile, there is also good Sunni evidence to support a theory that
 Amir al-Muminin ‘Ali b. Abi Talib, *‘alaihi al-salam*, equally believed
 in his own *raj’ah* before the *Qiyamah*. Imam al-Tabari again records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن القاسم
-بن أبي بزة، عن أبي الطفيل، قال: سمعت عليا وسألوه عن ذي القرنين أنبيا
-كان؟ قال: كان عبدا صالحا، أحب الله فأحبه، وناصح الله فنصحه، فبعثه الله
-إلى قومه، فضربوه ضربتين في رأسه، فسمي ذا القرنين، وفيكم اليوم مثله.
-  </p>
-</blockquote>
+> حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن القاسم
+> بن أبي بزة، عن أبي الطفيل، قال: سمعت عليا وسألوه عن ذي القرنين أنبيا
+> كان؟ قال: كان عبدا صالحا، أحب الله فأحبه، وناصح الله فنصحه، فبعثه الله
+> إلى قومه، فضربوه ضربتين في رأسه، فسمي ذا القرنين، وفيكم اليوم مثله.
 
 Muhammad b. al-Muthanna – Muhammad b. Ja’far – Shu’bah – al-Qasim b. Abi
 Bazzah – Abu al-Tufayl:
@@ -78,11 +66,7 @@ an example of him**.[^4]
 
 Commenting upon this exact *riwayah*, Prof. Ibn Yasin pronounces:
 
-<blockquote dir="rtl">
-  <p>
-وسنده صحيح
-  </p>
-</blockquote>
+> وسنده صحيح
 
 Its chain is *sahih*.[^5]
 
@@ -102,14 +86,10 @@ qualities and jobs of prophets.
 
 Imam al-Tabari further presents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن بشار، قال: ثنا يحيى، عن سفيان، عن حبيب بن أبي ثابت، عن
-أبي الطفيل، قال: سئل علي رضوان الله عليه عن ذي القرنين، فقال: كان عبدا
-ناصح الله فناصحه، فدعا قومه إلى الله، فضربوه على قرنه فمات، فأحياه
-الله، فدعا قومه إلى الله، فضربوه على قرنه فمات، فسمي ذا القرنين.
-  </p>
-</blockquote>
+> حدثنا محمد بن بشار، قال: ثنا يحيى، عن سفيان، عن حبيب بن أبي ثابت، عن
+> أبي الطفيل، قال: سئل علي رضوان الله عليه عن ذي القرنين، فقال: كان عبدا
+> ناصح الله فناصحه، فدعا قومه إلى الله، فضربوه على قرنه فمات، فأحياه
+> الله، فدعا قومه إلى الله، فضربوه على قرنه فمات، فسمي ذا القرنين.
 
 Muhammad b. Bashar – Yahya – Sufyan – Habib b. Abi Thabit – Abu
 al-Tufayl:
@@ -125,23 +105,15 @@ al-Qarnayn**.[^6]
 This report too is *sahih*. Al-Hafiz (d. 852 H) states about the first
 narrator:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن بشار بن عثمان العبدي البصري أبو بكر بندار ثقة
-  </p>
-</blockquote>
+> محمد بن بشار بن عثمان العبدي البصري أبو بكر بندار ثقة
 
 Muhammad b. Bashar b. ‘Uthman al-‘Abdi al-Basri, Abu Bakr Bundar:
 ***Thiqah*** **(trustworthy)**.[^7]
 
 Concerning the second narrator, he also says:
 
-<blockquote dir="rtl">
-  <p>
-يحيى بن سعيد بن فروخ بفتح الفاء وتشديد الراء المضمومة وسكون الواو ثم
-معجمة التميمي أبو سعيد القطان البصري ثقة متقن حافظ إمام قدوة
-  </p>
-</blockquote>
+> يحيى بن سعيد بن فروخ بفتح الفاء وتشديد الراء المضمومة وسكون الواو ثم
+> معجمة التميمي أبو سعيد القطان البصري ثقة متقن حافظ إمام قدوة
 
 Yahya b. Sa’id b. Farrukh al-Tamimi, Abu Sa’id al-Qattan al- Basri:
 ***Thiqah*** **(trustworthy)**, extremely precise, a *hadith* scientist,
@@ -149,12 +121,8 @@ Yahya b. Sa’id b. Farrukh al-Tamimi, Abu Sa’id al-Qattan al- Basri:
 
 On the third narrator, al-Hafiz submits:
 
-<blockquote dir="rtl">
-  <p>
-سفيان بن سعيد بن مسروق الثوري أبو عبد الله الكوفي ثقة حافظ فقيه عابد
-إمام حجة
-  </p>
-</blockquote>
+> سفيان بن سعيد بن مسروق الثوري أبو عبد الله الكوفي ثقة حافظ فقيه عابد
+> إمام حجة
 
 Sufyan b. Sa’id b. Masruq al-Thawri, Abu ‘Abd Allah al-Kufi:
 ***Thiqah*** **(trustworthy)**, a *hadith* scientist, a jurist, a devout
@@ -162,12 +130,8 @@ worshipper of Allah, **an Imam, a** ***hujjah*** **(authority)**.[^9]
 
 The fourth narrator is *thiqah* (trustworthy) too, as al-Hafiz declares:
 
-<blockquote dir="rtl">
-  <p>
-حبيب بن أبي ثابت قيس ويقال هند بن دينار الأسدي مولاهم أبو يحيى الكوفي
-ثقة فقيه جليل وكان كثير الإرسال والتدليس
-  </p>
-</blockquote>
+> حبيب بن أبي ثابت قيس ويقال هند بن دينار الأسدي مولاهم أبو يحيى الكوفي
+> ثقة فقيه جليل وكان كثير الإرسال والتدليس
 
 Habib b. Abi Thabit Qays, and he is called Hind, b. Dinar al-Asadi,
 their freed slave, Abu Yahya al-Kufi: ***Thiqah*** **(trustworthy)**, a
@@ -182,15 +146,11 @@ Habib is *sahih* through the *mutaba’ah* of al-Qasim.
 Meanwhile, Imam Ibn Abi Shaybah (d. 235 H) has also documented a
 slightly more detailed *riwayah* through the same narrators:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا يحيى بن سعيد عن سفيان عن حبيب بن أبي ثابت عن أبي ا لطفيل قال:سئل
-علي عن ذي القرنين فقال: لم يكن نبيا ولا ملكا، ولكنه كان عابدا ناصح
-الله فنصحه فدعا قومه إلى الله فضرب على قرنه الأيمن فمات فأحياه الله،
-ثم دعا قومه إلى الله فضرب على قرنه الأيسر فمات فأحياه الله فسمي ذا
-القرنين.
-  </p>
-</blockquote>
+> حدثنا يحيى بن سعيد عن سفيان عن حبيب بن أبي ثابت عن أبي ا لطفيل قال:سئل
+> علي عن ذي القرنين فقال: لم يكن نبيا ولا ملكا، ولكنه كان عابدا ناصح
+> الله فنصحه فدعا قومه إلى الله فضرب على قرنه الأيمن فمات فأحياه الله،
+> ثم دعا قومه إلى الله فضرب على قرنه الأيسر فمات فأحياه الله فسمي ذا
+> القرنين.
 
 Yahya b. Sa’id – Sufyan – Habib b. Abi Thabit – Abu al-Tufayl:
 
@@ -207,20 +167,16 @@ already established.
 
 Prof. Ibn Yasin quotes another report for us:
 
-<blockquote dir="rtl">
-  <p>
-قال الضياء المقدسي: أخبرنا أبو المجد زاهر بن أحمد بن حامد بن أحمد
-الثقفي -بقراءتي عليه بأصبهان- قلت له: أخبركم أبو عبد الله الحسين بن
-عبد الملك ابن الحسين الخلال -قراءة عليه وأنت تسمع- أنا الإمام أبو
-الفضل عبد الرحمن ابن أحمد بن الحسن بن بندار الرازي المقري، أنا أبو
-الحسن أحمد بن إبراهيم ابن أحمد بن علي بن فراس، ثنا أبو جعفر محمد بن
-إبراهيم الديلي، ثنا أبو عبيد الله سعيد بن عبد الرحمن المخزومي، ثنا
-سفيان ابن عيينة عن ابن أبي حسين، عن أبي الطفيل قال: سمعت ابن الكواء
-يسأل علي بن أبي طالب - رضي الله عنه - عن ذي القرنين فقال علي: لم يكن
-نبياً ولا ملك، كان عبداً صالحاً، أحبّ الله فأحبه، وناصح الله فناصحه
-الله، بُعث إلى قومه فضربوه على قرنه فمات فبعثه الله، فسمى ذي القرنين.
-  </p>
-</blockquote>
+> قال الضياء المقدسي: أخبرنا أبو المجد زاهر بن أحمد بن حامد بن أحمد
+> الثقفي -بقراءتي عليه بأصبهان- قلت له: أخبركم أبو عبد الله الحسين بن
+> عبد الملك ابن الحسين الخلال -قراءة عليه وأنت تسمع- أنا الإمام أبو
+> الفضل عبد الرحمن ابن أحمد بن الحسن بن بندار الرازي المقري، أنا أبو
+> الحسن أحمد بن إبراهيم ابن أحمد بن علي بن فراس، ثنا أبو جعفر محمد بن
+> إبراهيم الديلي، ثنا أبو عبيد الله سعيد بن عبد الرحمن المخزومي، ثنا
+> سفيان ابن عيينة عن ابن أبي حسين، عن أبي الطفيل قال: سمعت ابن الكواء
+> يسأل علي بن أبي طالب - رضي الله عنه - عن ذي القرنين فقال علي: لم يكن
+> نبياً ولا ملك، كان عبداً صالحاً، أحبّ الله فأحبه، وناصح الله فناصحه
+> الله، بُعث إلى قومه فضربوه على قرنه فمات فبعثه الله، فسمى ذي القرنين.
 
 Al-Dhiya al-Maqdisi said:
 
@@ -250,13 +206,9 @@ Giving the source, our professor states:
 
 These are the exact words of al-Hafiz in his *Fath*:
 
-<blockquote dir="rtl">
-  <p>
-أخرجه سفيان بن عيينة في جامعه عن ابن أبي حسين عن أبي الطفيل نحوه وزاد
-وناصح الله فناصحه وفيه لم يكن نبيا ولا ملكا وسنده صحيح سمعناه في
-الأحاديث المختارة للحافظ الضياء
-  </p>
-</blockquote>
+> أخرجه سفيان بن عيينة في جامعه عن ابن أبي حسين عن أبي الطفيل نحوه وزاد
+> وناصح الله فناصحه وفيه لم يكن نبيا ولا ملكا وسنده صحيح سمعناه في
+> الأحاديث المختارة للحافظ الضياء
 
 Sufyan b. ‘Uyaynah recorded it in his *Jami’* from Ibn Abi Husayn from
 Abu al-Tufayl, and he added: “He sought the guidance of Allah; and so,
@@ -275,14 +227,10 @@ Habib b. Abi Thabit.
 
 Imam Ibn Abi Asim (d. 287 H) here presents the seal of these *athar*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة نا وكيع عن بسام عن أبي الطفيل عن علي رضي
-الله عنه قال كان ذو القرنين عبدا صالحا نصح الله عز و جل فنصحه فضرب على
-قرنه الأيمن فمات فأحياه الله عز و جل ثم ضرب على قرنه الأيسر فمات
-فأحياه الله عز و جل وفيكم مثله
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة نا وكيع عن بسام عن أبي الطفيل عن علي رضي
+> الله عنه قال كان ذو القرنين عبدا صالحا نصح الله عز و جل فنصحه فضرب على
+> قرنه الأيمن فمات فأحياه الله عز و جل ثم ضرب على قرنه الأيسر فمات
+> فأحياه الله عز و جل وفيكم مثله
 
 Abu Bakr b. Abi Shaybah – Waki’ – Bassam – Abu al-Tufayl – ‘Ali, may
 Allah be pleased with him:
@@ -295,12 +243,8 @@ his left *qarn*, AND HE DIED, and Allah the Almighty RESURRECTED him
 
 Concerning the first narrator, al-Hafiz says:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن محمد بن أبي شيبة إبراهيم بن عثمان الواسطي الأصل أبو بكر بن
-أبي شيبة الكوفي ثقة حافظ صاحب تصانيف
-  </p>
-</blockquote>
+> عبد الله بن محمد بن أبي شيبة إبراهيم بن عثمان الواسطي الأصل أبو بكر بن
+> أبي شيبة الكوفي ثقة حافظ صاحب تصانيف
 
 Abd Allah b. Muhammad b. Abi Shaybah Ibrahim b. ‘Uthman, of Wasiti
 origin, Abu Bakr b. Abi Shaybah al-Kufi: ***Thiqah*** **(trustworthy)**,
@@ -308,12 +252,8 @@ a *hadith* scientist, author of books.[^16]
 
 On the second narrator, he states as well:
 
-<blockquote dir="rtl">
-  <p>
-وكيع بن الجراح بن مليح الرؤاسي بضم الراء وهمزة ثم مهملة، أبو سفيان
-الكوفي ثقة حافظ عابد
-  </p>
-</blockquote>
+> وكيع بن الجراح بن مليح الرؤاسي بضم الراء وهمزة ثم مهملة، أبو سفيان
+> الكوفي ثقة حافظ عابد
 
 Waki’ b. al-Jarah b. Malih al-Ruwasi, Abu Sufyan al-Kufi: ***Thiqah***
 **(trustworthy)**, a *hadith* scientist, a devout worshipper of
@@ -321,11 +261,7 @@ Allah.[^17]
 
 And, about the last narrator, al-Hafiz submits:
 
-<blockquote dir="rtl">
-  <p>
-بسام بن عبد الله الصيرفي الكوفي أبو الحسن صدوق
-  </p>
-</blockquote>
+> بسام بن عبد الله الصيرفي الكوفي أبو الحسن صدوق
 
 Bassam b. ‘Abd Allah al-Sayrafi al-Kufi, Abu al-Hasan: ***Saduq***
 **(very truthful)**.[^18]
@@ -335,21 +271,13 @@ So, the *isnad* is *hasan*, due to Bassam, and the *hadith* itself is
 
 In the above *athar*, we read two interesting phrases:
 
-<blockquote dir="rtl">
-  <p>
-وفيكم اليوم مثله.
-  </p>
-</blockquote>
+> وفيكم اليوم مثله.
 
 And among you today is an example of him.
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وفيكم مثله
-  </p>
-</blockquote>
+> وفيكم مثله
 
 And among you is an example of him.
 
@@ -378,14 +306,10 @@ too is a clear indication.
 Imam Ibn Salam (d. 224 H), a grand ancient Sunni *hadith* linguist, has
 the same conclusion as well:
 
-<blockquote dir="rtl">
-  <p>
-وإنما اخترت هذا التفسير على الأول لحديث عن علي نفسه هو عندي مفسر له
-ولنا وذلك أنه ذكر ذا القرنين فقال: دعا قومه إلى عبادة الله فضربوه على
-قرنيه ضربتين وفيكم مثله. فنرى أنه أراد بقوله هذا نفسه - يعني أني أدعو
-إلى الحق حتى أضرب على رأسي ضربتين يكون فيهما قتلي.
-  </p>
-</blockquote>
+> وإنما اخترت هذا التفسير على الأول لحديث عن علي نفسه هو عندي مفسر له
+> ولنا وذلك أنه ذكر ذا القرنين فقال: دعا قومه إلى عبادة الله فضربوه على
+> قرنيه ضربتين وفيكم مثله. فنرى أنه أراد بقوله هذا نفسه - يعني أني أدعو
+> إلى الحق حتى أضرب على رأسي ضربتين يكون فيهما قتلي.
 
 I have only chosen this explanation instead of the first due to a
 *hadith* from ‘Ali himself. It (the *hadith*), in my view, explains it
@@ -399,12 +323,8 @@ twice. My death will be in them.”[^19]
 Imam Ibn al-Athir (d. 606 H), a leading classical Sunni *hadith*
 linguist, also submits:
 
-<blockquote dir="rtl">
-  <p>
-ومنه حديث علي وذكر قصة ذي القرنين ثم قال وفيكم مثله فيرى أنه إنما عنى
-نفسه لأنه ضرب على رأسه ضربتين إحداهما يوم الخندق والأخرى ضربة ابن ملجم
-  </p>
-</blockquote>
+> ومنه حديث علي وذكر قصة ذي القرنين ثم قال وفيكم مثله فيرى أنه إنما عنى
+> نفسه لأنه ضرب على رأسه ضربتين إحداهما يوم الخندق والأخرى ضربة ابن ملجم
 
 And from it is the *hadith* of ‘Ali. He mentioned the story of Dhu
 al-Qarnayn, and then said: “And among you is an example of him.” **So,
@@ -427,13 +347,9 @@ after his own second death as well.
 
 Imam al-Nasafi (d. 710 H) has this comment about the words of ‘Ali too:
 
-<blockquote dir="rtl">
-  <p>
-وعن عليّ رضي الله عنه أنه قال : ليس بملك ولا نبي ولكن كان عبداً صالحاً
-ضرب على قرنه الأيمن في طاعة الله فمات ثم بعثه الله فضرب على قرنه
-الأيسر فمات فبعثه الله فسمي ذا القرنين وفيكم مثله أراد نفسه
-  </p>
-</blockquote>
+> وعن عليّ رضي الله عنه أنه قال : ليس بملك ولا نبي ولكن كان عبداً صالحاً
+> ضرب على قرنه الأيمن في طاعة الله فمات ثم بعثه الله فضرب على قرنه
+> الأيسر فمات فبعثه الله فسمي ذا القرنين وفيكم مثله أراد نفسه
 
 It is narrated that ‘Ali, may Allah be pleased with him, said (about Dhu
 al-Qarnayn): “He was neither an angel nor a prophet. But, he was a
@@ -447,14 +363,10 @@ Meanwhile, there is a *shahid* from the Messenger of Allah, *sallallahu
 ‘alaihi wa alihi*, for the words of Amir al-Muminin in the *athar*. Imam
 Ahmad (d. 241 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبى ثنا عفان ثنا حماد بن سلمة ثنا محمد بن إسحاق
-عن محمد بن إبراهيم التيمي عن سلمة بن أبي الطفيل عن علي بن أبي طالب رضي
-الله عنه ان النبي صلى الله عليه و سلم قال له يا على ان لك كنزا من
-الجنة وانك ذو قرنيها
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبى ثنا عفان ثنا حماد بن سلمة ثنا محمد بن إسحاق
+> عن محمد بن إبراهيم التيمي عن سلمة بن أبي الطفيل عن علي بن أبي طالب رضي
+> الله عنه ان النبي صلى الله عليه و سلم قال له يا على ان لك كنزا من
+> الجنة وانك ذو قرنيها
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Affan – Hamad b.
 Salamah – Muhammad b. Ishaq – Muhammad b. Ibrahim al-Taymi – Salamah b.
@@ -466,36 +378,24 @@ al-Qarnayn**.”[^22]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حسن لغيره
-  </p>
-</blockquote>
+> حسن لغيره
 
 *Hasan li ghayrihi*[^23]
 
 ‘Allamah al-Albani (d. 1420 H) too says:
 
-<blockquote dir="rtl">
-  <p>
-حسن لغيره
-  </p>
-</blockquote>
+> حسن لغيره
 
 *Hasan li ghayrihi*[^24]
 
 Imam al-Hakim (d. 403 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو العباس محمد بن يعقوب ثنا الحسن بن علي بن عفان العامري ثنا
-عبد الله بن نمير أخبرنا أحمد بن سهل الفقيه ببخارى ثنا أبو عصمة سهل بن
-المتوكل البخاري ثنا عفان وسليمان بن حرب قالا : ثنا حماد بن سلمة عن
-محمد بن إسحاق عن محمد بن إبراهيم التيمي عن سلمة بن أبي الطفيل أظنه عن
-أبيه عن علي رضي الله عنه قال قال لي رسول الله صلى الله عليه وسلم يا
-علي إن لك كنزا في الجنة وإنك ذو قرنيها
-  </p>
-</blockquote>
+> حدثنا أبو العباس محمد بن يعقوب ثنا الحسن بن علي بن عفان العامري ثنا
+> عبد الله بن نمير أخبرنا أحمد بن سهل الفقيه ببخارى ثنا أبو عصمة سهل بن
+> المتوكل البخاري ثنا عفان وسليمان بن حرب قالا : ثنا حماد بن سلمة عن
+> محمد بن إسحاق عن محمد بن إبراهيم التيمي عن سلمة بن أبي الطفيل أظنه عن
+> أبيه عن علي رضي الله عنه قال قال لي رسول الله صلى الله عليه وسلم يا
+> علي إن لك كنزا في الجنة وإنك ذو قرنيها
 
 Abu al-‘Abbas Muhammad b. Ya’qub – al-Hasan b. ‘Ali b. ‘Affan al-‘Amiri
 – ‘Abd Allah b. Numayr – Ahmad b. Sahl al-Faqih – Abu ‘Ismah Sahl b.
@@ -510,21 +410,13 @@ Dhu al-Qarnayn**.”[^25]
 
 Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^26]
 
 And Imam al-Dhahabi (d. 748 H) agrees with him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^27]
 
@@ -538,12 +430,8 @@ This is because the comparison then would be about kingdom, as opposed
 to personal merits or qualities. Dhu al-Qarnayn was the emperor of the
 earth during his lifetime, as the Qur’an testifies:
 
-<blockquote dir="rtl">
-  <p>
-ويسألونك عن ذي القرنين قل سأتلو عليكم منه ذكرا إنا مكنا له في الأرض
-وآتيناه من كل شيء سببا
-  </p>
-</blockquote>
+> ويسألونك عن ذي القرنين قل سأتلو عليكم منه ذكرا إنا مكنا له في الأرض
+> وآتيناه من كل شيء سببا
 
 And they ask you about Dhu al-Qarnayn. Say: “I shall recite to you
 something of his story: ‘**Verily, We established him over the earth,
@@ -560,13 +448,9 @@ them is that Imam ‘Ali is the Dhu al-Qarnayn of this *Ummah* only,
 according to the *hadith*. Imam Ibn Salam for instance states about the
 *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-قد كان بعض أهل العلم يتأول هذا الحديث أنه ذو قرني الجنة - يريد طرفيها،
-وإنما يأول ذلك لذكره الجنة في أول الحديث، وأما أنا فلا أحسبه أراد
-ذلك - والله أعلم، ولكنه أراد إنك ذو قرني هذه الأمة، فأضمر الأمة
-  </p>
-</blockquote>
+> قد كان بعض أهل العلم يتأول هذا الحديث أنه ذو قرني الجنة - يريد طرفيها،
+> وإنما يأول ذلك لذكره الجنة في أول الحديث، وأما أنا فلا أحسبه أراد
+> ذلك - والله أعلم، ولكنه أراد إنك ذو قرني هذه الأمة، فأضمر الأمة
 
 One of the people of knowledge interpreted this *hadith* to mean that he
 (‘Ali) will be the Dhu al-Qarnayn of Paradise – intending its entire
@@ -585,13 +469,9 @@ about their shared personal merits and qualities, and not about their
 political histories. Imam al-Mundhiri (d. 656 H) gives some further
 explanation:
 
-<blockquote dir="rtl">
-  <p>
-قول صلى الله عليه و سلم لعلي وإنك ذو قرنيها أي ذو قرني هذه الأمة وذاك
-لأنه كان له شجتان في قرني رأسه إحداهما من ابن ملجم لعنه الله والأخرى
-من عمرو بن ود
-  </p>
-</blockquote>
+> قول صلى الله عليه و سلم لعلي وإنك ذو قرنيها أي ذو قرني هذه الأمة وذاك
+> لأنه كان له شجتان في قرني رأسه إحداهما من ابن ملجم لعنه الله والأخرى
+> من عمرو بن ود
 
 His statement, peace be upon him, to ‘Ali “and you are its Dhu
 al-Qarnayn”, that is, the Dhu al-Qarnayn of this *Ummah*. **And this is
@@ -602,16 +482,12 @@ from ‘Amr b. Wudd.[^30]
 ‘Ali Shiri, the annotator of *Tarikh Madinah Dimashq*, quotes a similar
 exegesis for the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-جاء في الفائق للزمخشري ٣/١٧٣ في مادة قرن): قال صلى الله عليه وسلم لعلي
-رضي الله عنه: إن ذلك بيتا في الجنة وإنك لذو قرنيها (الضمير للأمة
-وتفسيره فيما يروى عن علي رضي الله عنه: إنه ذكر ذا القرنين فقال: دعا
-قومه إلى عبادة الله فضربوه على قرنيه ضربتين وفيكم مثله يعني نفسه
-الطاهرة لأنه ضرب على رأسه ضربتين: إحداهما يوم الخندق والثانية ضربة ابن
-ملجم.
-  </p>
-</blockquote>
+> جاء في الفائق للزمخشري ٣/١٧٣ في مادة قرن): قال صلى الله عليه وسلم لعلي
+> رضي الله عنه: إن ذلك بيتا في الجنة وإنك لذو قرنيها (الضمير للأمة
+> وتفسيره فيما يروى عن علي رضي الله عنه: إنه ذكر ذا القرنين فقال: دعا
+> قومه إلى عبادة الله فضربوه على قرنيه ضربتين وفيكم مثله يعني نفسه
+> الطاهرة لأنه ضرب على رأسه ضربتين: إحداهما يوم الخندق والثانية ضربة ابن
+> ملجم.
 
 It is in *al-Faiq* of al-Zamakhshari 3/173 under the entry “Qarn”:
 
@@ -778,5 +654,4 @@ al-Targhib wa al-Tarhib (Beirut: Dar al-Kutub al-‘Ilmiyyah; 1st edition,
 [^31]: Abu al-Qasim ‘Ali b. al-Hasan b. Habat Allah b. ‘Abd Allah, Ibn
 Asakir al-Shafi’i, Tarikh Madinah Dimashq (Beirut: Dar al-Fikr; 1st
 edition, 1417 H) [annotator: ‘Ali Shiri], vol. 43, p. 324, footnote \# 4
-
 

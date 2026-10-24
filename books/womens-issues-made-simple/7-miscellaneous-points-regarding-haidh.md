@@ -6,4 +6,3 @@ the signs of the blood, if a woman is certain that the blood is haidh
 (please refer to point \#3 in the section of haidh for ways to be
 certain), then she should follow the rules of haidh.
 
-

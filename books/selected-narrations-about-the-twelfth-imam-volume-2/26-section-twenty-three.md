@@ -193,4 +193,3 @@ saying that such a tradition points to the brightness of his color and
 his handsome looks and that he will appear young and energetic and his
 face will not age with the passing of days.
 
-

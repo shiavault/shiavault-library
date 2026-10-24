@@ -61,35 +61,23 @@ reality and firm foundation which the Imam and proof of Allah of our
 time, al-Hujjat ibnil Hasan (as) has invited his Shi’a (followers) and
 those who are actively awaiting his noble advent to observe:
 
-<blockquote dir="rtl">
-  <p>
-فَـاتَّقُوا اللٌّهَ جَلَّ جَلاَلُهُ وَ ظَاهِرُونَا عَلـى
-انْتِـيَاشِكُمْ مِنْ فِـتْنَةٍ قَدْ أَنَافَتْ عَلَيْكُمْ
-  </p>
-</blockquote>
+> فَـاتَّقُوا اللٌّهَ جَلَّ جَلاَلُهُ وَ ظَاهِرُونَا عَلـى
+> انْتِـيَاشِكُمْ مِنْ فِـتْنَةٍ قَدْ أَنَافَتْ عَلَيْكُمْ
 
 “So be conscious of Allah, Majestic is His Glory, and help us to save
 you from a seditious matter that is about to overcome you.”[^3]
 
 He has also stated:
 
-<blockquote dir="rtl">
-  <p>
-فَتَّقُوا اللٌّهَ وَ سَلِّمُوا لَنَا وَ رُدُّوا الأَمْرَ إِلَيْنَا
-  </p>
-</blockquote>
+> فَتَّقُوا اللٌّهَ وَ سَلِّمُوا لَنَا وَ رُدُّوا الأَمْرَ إِلَيْنَا
 
 “Be conscious of Allah and submit to us and refer all affairs to
 us.”[^4]
 
 In addition, he has told us:
 
-<blockquote dir="rtl">
-  <p>
-وَ الْعَاقِبَةُ بِجَمِيلِ صُنْعِ اللٌّهِ سُبْحَانَهُ تَكُونُ حَمِيدَةً
-لَهُمْ مَا اجْـتَنَبُوا الْمَنْهِيَّ عَنْهُ مِنَ الذُّنُوبِ
-  </p>
-</blockquote>
+> وَ الْعَاقِبَةُ بِجَمِيلِ صُنْعِ اللٌّهِ سُبْحَانَهُ تَكُونُ حَمِيدَةً
+> لَهُمْ مَا اجْـتَنَبُوا الْمَنْهِيَّ عَنْهُ مِنَ الذُّنُوبِ
 
 “The end result, by virtue of the excellent arrangement of Allah,
 Glorious is He, shall be praiseworthy for them (our followers) because
@@ -209,5 +197,4 @@ al-Mufid); Biharul Anwar, vol. 53, pg. 177, sec. 31, no. 8
 ISfahani.
 
 [^7]: Written by the late Sadrul Islam Mirza ‘Ali Akbar Hamdani.
-
 

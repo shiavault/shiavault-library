@@ -179,4 +179,3 @@ past and his identity, has founded his life on wisdom and reason, and
 puts to good use what others have already achieved. This is quite
 different from mere unseemly imitation.
 
-

@@ -629,4 +629,3 @@ and kin remains a superior deed.  And giving sadaqah to a needy relative
 who shows enmity towards you is more commendable than giving it to
 another relative who does not.  Far superior still is lending money.
 
-

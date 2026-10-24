@@ -9,4 +9,3 @@ culminated in the murder of the Prophet's grandson, it will be necessary
 to discuss briefly, the situation that had developed in al-Kufa during
 the previous twenty years.
 
-

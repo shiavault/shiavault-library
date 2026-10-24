@@ -607,4 +607,3 @@ Allah Yiisuf .Ali's English trans). 2 vols. London 1978.
 181. [Anonym] Urda tarjamah (Qur'an). Agra: Matba' Mufidp-e 'Am 1301/
 1892p-93.
 
-

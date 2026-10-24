@@ -38,12 +38,7 @@ will elevate you.
 his community’s love [for him] will last.
 
 > 8ـ ألِنْ كَنَفَكَ فَإنَّ مَنْ يُلِنْ كَنَفَهُ يَسْتَدِمْ مِنْ قَوْمِهِ
-<blockquote dir="rtl">
-  <p>
-المَحَبَّةَ.
-  </p>
-</blockquote>
+> المَحَبَّةَ.
 
 [^1]: Meaning that one who is gentle has many friends.
-
 

@@ -59,4 +59,3 @@ story of the bird and the hunter.
 
 [^28]Usul e Iqtisad e Nuhsin, "Shakl e arzish e pul".
 
-

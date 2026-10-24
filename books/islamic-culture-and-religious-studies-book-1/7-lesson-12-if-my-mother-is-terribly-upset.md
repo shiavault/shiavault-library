@@ -146,7 +146,6 @@ Brotherhood which allows a person to know another's problems.
 The implementation of justice helps Muslims to attain a life of
 respect, honour, dignity and total commitment to Islam.
 
-
 **Lesson 13 : Srirtual Role Models**
 
 **The Infallible Imams**
@@ -283,5 +282,4 @@ the positive effects?
 
 4. What do you think justice actually mean in the eyes of the divine
 laws of Islam? Explain your answer.
-
 

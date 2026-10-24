@@ -367,4 +367,3 @@ Qur’an says:
 
 [^3]: Carrel, op. cit., page 30.
 
-

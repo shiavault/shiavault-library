@@ -181,4 +181,3 @@ their sons, seeing this inef­fectiveness, remain cut‑off from their
 promises and links with this religion and this family, then, who is
 responsible?
 
-

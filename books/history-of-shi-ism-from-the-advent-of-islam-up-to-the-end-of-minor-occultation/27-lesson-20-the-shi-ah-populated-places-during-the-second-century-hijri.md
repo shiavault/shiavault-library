@@ -327,4 +327,3 @@ Markaz-e Jahani-ye ‘Ulum-e Islami, n.d.), p. 19.
 Dhakawati Qaragzelu (Tehran: Mu’assaseh-ye Intisharat-e Amir Kabir, 1364
 AHS), pp. 85-86.
 
-

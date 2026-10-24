@@ -1,20 +1,15 @@
 Revelation Scribes:
 ===================
 
-  
-  
-  
-
 The well-known of the wahy scribes — as stated — were the four caliphs,
 and Sa’id ibn al-As and others. It is said also that the most famous
 among them and most prolific in writing was Zayd ibn Thabit, though the
 first one who wrote for the Prophet in Makkah, from Quraysh, was Abd
 Allah bn Sa'd ibn Abi Sarah, who apostatized after conversion to Islam
 and was reconverted on the day of the conquest of Makkah. And the first
-who wrote in al-Madinah was Ubayy ibn Ka'b and Zayd ibn Thabit. <span
-id="_anchor_460"></span>460
+who wrote in al-Madinah was Ubayy ibn Ka'b and Zayd ibn Thabit. 460
 
-In al-Mawahib al-fathiyyah, <span id="_anchor_461"></span>461  it is
+In al-Mawahib al-fathiyyah, 461  it is
 stated:
 
 Al-Zubayr ibn al-Awwam and Jaham ibn al-Salt were charged with writing
@@ -34,8 +29,7 @@ the Qur’an would be lost with the death of the Companions. Once upon a
 day he entered upon Abu Bakr saying to him: The Battle of Yamamah is
 taking the lives of the Companions of the Messenger of Allah as fire
 devouring the butterflies, and I am afraid that such bloody encounters
-should recur, many of the Qur'an memorizers <span
-id="_anchor_462"></span>462  would be killed and the Qur'an would be
+should recur, many of the Qur'an memorizers 462  would be killed and the Qur'an would be
 lost and buried in oblivion. Would it be better that you order the
 Qur'an to be collected and written? But Abu Bakr abstained from this.
 Thereafter, Abu Bakr summoned Zayd ibn Thabit and said to him: Umar
@@ -45,9 +39,8 @@ did not do so saying: How do we do a thing which the messenger of Allah
 didn't? Umar said (to both of them): No blame would befall you when you
 do this. Zayd says: He kept on pressing me, until God opened my heart to
 do that to which He had opened those of Abu Bakr and Umar. Then I sought
-for the Qur'an, and collected it from pieces of palm branches, <span
-id="_anchor_463"></span>463 white stones (likhaf), scapulae, pieces of
-leather and inside hearts of men. <span id="_anchor_464"></span>464
+for the Qur'an, and collected it from pieces of palm branches, 463 white stones (likhaf), scapulae, pieces of
+leather and inside hearts of men. 464
 
 Abu Bakr distinguished Zayd with this task as he was one of the scribes
 of the wahy and memorizers of the Qur'an. So he collected the scattered
@@ -190,8 +183,7 @@ words never heard by the Syrians. Then each party would charge the other
 with disbelief.
 
 When Uthman became aware of this, finding the situation reaching that
-critical stage, he sent someone to Hafsah, <span
-id="_anchor_465"></span>465  daughter of Umar, asking her to send the
+critical stage, he sent someone to Hafsah, 465  daughter of Umar, asking her to send the
 suhuf that were with her, to be copied in the masahif and returned to
 her later on. Hafsah sent them to Uthman who ordered Zayd ibn Thabit,
 Abd Allah ibn al-Zubayr, Sa'id ibn al-\`As and Abd al-Rahman ibn
@@ -239,10 +231,6 @@ time to publish the lengthy research which I prepared for a separate
 full book, about this significant subject, so as to be benefited by
 Muslims in particular, and all those concerned with Islamic themes in
 general.
-
-  
-  
-  
 
 460. Between the revelation of first verses and last verses of the
 Qur'an were 20, or 23, or 25 years, based on difference in period of his
@@ -295,5 +283,4 @@ waiting period (iddah) to which Allah commanded us to follow when
 divorcing the women (Fath al-Bari, vol. IX, p. 288).
 Ibn Daqiq al-'Id reported that the Prophet (S) was enraged at this act
 done by Ibn Umar.
-
 

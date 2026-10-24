@@ -322,4 +322,3 @@ In it we read: “يا نور النور” (O light of light)
 
 [^16]: al-Tawhid, ch. 14, no. 1
 
-

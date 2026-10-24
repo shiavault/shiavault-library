@@ -59,4 +59,3 @@ not representative of the external objects. This tendency was a
 complication of the materialistic notion that knowledge was purely a
 physiological act conditioned by the nature of the nervous system.
 
-

@@ -233,7 +233,6 @@ as the passing away of clouds; the handiwork of Allah Wit. made all
 things perfectly. Surely He is Aware of what you do." Sura Al - Naml
 (2788)
 
-
 **Thirdly: Proper Use Of Physical Abilities**
 
 The Islamic programme, thus takes the form of an orderly perfection
@@ -394,5 +393,4 @@ intercourse, a wet-dream or masturbation.
 46. Afd Tebere, Ruh A' - 0Th A' - lslami, p. 443.
 47. ibid., p. 443.
 48. ibid., p. 443.
-
 

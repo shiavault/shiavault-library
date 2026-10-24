@@ -301,10 +301,8 @@ Do whatever you can against me, but know that nothing will stop me
 doing my duty, and soon will our Lord judge among us, and His judgement
 is true and just.''
 
-<p dir="rtl">
 وَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا شُعَيْباً وَالَّذِينَ آمَنُوا
 مَعَهُ بِرَحْمَة مِّنَّا وَأَخَذَتِ الَّذِينَ ظَلَمُوا
-</p>
 
 [ 205 ]
 
@@ -561,5 +559,4 @@ ACCOMPLISHES WHAT HE WANTS.
 108ِAND AS FOR THE FORTUNATES; THEY SHALL BE IN PARADISE, THEREIN THEY
 DWELL FOREVER, SO LONG AS THE HEAVENS AND THE EARTH ENDURE, EXCEPT AS
 YOUR LORD WANTS. (SOMETHING ELSE) A GIFT THAT NOT BE CEASED.
-
 

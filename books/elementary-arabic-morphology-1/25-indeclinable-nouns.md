@@ -17,12 +17,7 @@ demonstrative pronouns, conditional nouns and interrogative pronouns.
 93. There are four forms of indeclinable nouns: *al-dumm, al-fath,
 al-kasr and al-sukūn*:
 
-<blockquote dir="rtl">
-  <p>
-حَیثُ کَیفَ ﺃمسِ مَن
-  </p>
-</blockquote>
+> حَیثُ کَیفَ ﺃمسِ مَن
 
 (who, yesterday, how, where)
-
 

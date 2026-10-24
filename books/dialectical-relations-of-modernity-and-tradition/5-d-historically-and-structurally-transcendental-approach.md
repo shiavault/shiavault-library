@@ -203,4 +203,3 @@ religions. For that purpose, we already have the institute of DIAN
 however we can try to introduce the concept of ‘passing over’ in order
 to develop a spiritual feeling (Hidayat and Ahmad Gaus AF, 1998: xiv)
 
-

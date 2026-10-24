@@ -55,7 +55,6 @@ that angel first begins with meeting the Imam to present the task to
 him. The presence of Imam, Leader with Divine Authority is the scene of
 great mix of the angels from Allah, the Most Holy, the Most High."
 
-
 **Chapter 98 : The Jinns Come to the Imam for Religious Instructions
 and for Dealing with their Affairs H 1027, Ch. 98, h 1**
 
@@ -220,5 +219,4 @@ He went to see him and found him playing with the children while riding
 a twig of reeds. He said, "Thanks to Allah for saving me from killing
 him." The narrator has said that just within few days Mansur ibn Jumhur
 entered Kufa and did what Jabir was speaking of before."
-
 

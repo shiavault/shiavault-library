@@ -43,12 +43,8 @@ society is equal to destroying half the life of that society; just as
 taking away the mortal security of a society is equal to massacring all
 the people of that society. For this reason, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الأَرْضِ
-فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا... ﴾
-  </p>
-</blockquote>
+> ﴿ ... مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الأَرْضِ
+> فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا... ﴾
 
 ***“Whosoever kills a person unless to retaliate for a murder or for
 corruption done in the land, it shall be as if that person has killed
@@ -110,11 +106,7 @@ entire society in absolute cruelty. Freeing a thief and preserving the
 honor of a criminal is equivalent to entangling millions of innocent
 people and shredding their honor.
 
-<blockquote dir="rtl">
-  <p>
-ترحم بر پلنگ تيزدندان ستمکاري بود بر گوسفندان
-  </p>
-</blockquote>
+> ترحم بر پلنگ تيزدندان ستمکاري بود بر گوسفندان
 
 Mercy upon the sharp-toothed tiger,
 
@@ -237,5 +229,4 @@ completely eradicating it so it never occurs again.[^2]
 [^1]: Sūrat al-Mā’idah 5:32.
 
 [^2]: Extracted from the yearbook, “Maktab-e Tashayyu‘”.
-
 

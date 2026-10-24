@@ -3,11 +3,7 @@ Picking Faults is Prohibited
 
 ( Verse 11 )
 
-<blockquote dir="rtl">
-  <p>
-...وَلاٌ تَلْمِزُوا أَنفُسَكُمْ...
-  </p>
-</blockquote>
+> ...وَلاٌ تَلْمِزُوا أَنفُسَكُمْ...
 
 **“*****Do not find faults in yourselves…”***
 
@@ -33,13 +29,9 @@ then he must resolve not to repeat that act.”*
 
 Amir al-Mu’minin \`Ali ibn Abi Talib (peace be upon him) has said:
 
-<blockquote dir="rtl">
-  <p>
-عَلى الْعٌاقِلِ أَنْ يُحْصى مِنْ نَفْسِهِ مُسٌاوِيهٌا فِي الدِّيْنِ وَ
-الرَأْى وَ الأَخْلاٌقَ وَ الآدٌابَ فَيَجْمَعْ ذٌلِكَ فِي صَدْرِهِ أَوْ
-ِفي كِتٌابٍ وَ يَعْمَلُ فِي إِزٌالَتِهٌا.
-  </p>
-</blockquote>
+> عَلى الْعٌاقِلِ أَنْ يُحْصى مِنْ نَفْسِهِ مُسٌاوِيهٌا فِي الدِّيْنِ وَ
+> الرَأْى وَ الأَخْلاٌقَ وَ الآدٌابَ فَيَجْمَعْ ذٌلِكَ فِي صَدْرِهِ أَوْ
+> ِفي كِتٌابٍ وَ يَعْمَلُ فِي إِزٌالَتِهٌا.
 
 *“It is incumbent upon every person of intelligence that he carefully
 look over his weaknesses in regards to (following his) religion, his
@@ -77,12 +69,8 @@ In relation to people who always look at the weaknesses and faults of
 other people, Imam Muhammad ibn \`Ali al-Baqir (peace be upon him) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-كَفى بِالْمَرْءِ عَيْـباً أَنْ يُبْصِرَ مِنَ النٌّاسِ مٌا يَعْمى
-عَنْهُ مِنْ نَفْسِهِ.
-  </p>
-</blockquote>
+> كَفى بِالْمَرْءِ عَيْـباً أَنْ يُبْصِرَ مِنَ النٌّاسِ مٌا يَعْمى
+> عَنْهُ مِنْ نَفْسِهِ.
 
 *“Sufficient is a person’s own defect (in himself) that he tries to pick
 and look for faults in other people when he himself has those same
@@ -96,11 +84,7 @@ they would be able to reach to! It is here that the value and worth of
 the hadith which has come to us from one of the leaders of our faith is
 made clear when it has been said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ بَحَثَ عَنْ عُيُوبِ النٌّاسِ فَلْيَبْدَأْ بِنَفْسِهِ
-  </p>
-</blockquote>
+> مَنْ بَحَثَ عَنْ عُيُوبِ النٌّاسِ فَلْيَبْدَأْ بِنَفْسِهِ
 
 *“The person who busies himself looking into the faults of others should
 start by looking into the faults of his own self (first).”*[^3]
@@ -113,12 +97,8 @@ It is because of this reason that Amir al-Mu’minin \`Ali ibn Abi Talib
 (peace be upon him) has forbidden us from associating ourselves with
 such people and has said that:
 
-<blockquote dir="rtl">
-  <p>
-إِيٌّاكَ وَ مَعٌاشِرَةَ مُتَتَبِّعِي عُيُوبِ النٌّاسِ! فَإِنَّهُ لَمْ
-يَسْلَمْ مُصٌاحِبُهُمْ مِنْهِمْ.
-  </p>
-</blockquote>
+> إِيٌّاكَ وَ مَعٌاشِرَةَ مُتَتَبِّعِي عُيُوبِ النٌّاسِ! فَإِنَّهُ لَمْ
+> يَسْلَمْ مُصٌاحِبُهُمْ مِنْهِمْ.
 
 *“I warn you about keeping relations with people who look for faults in
 others, since surely there is not a single person who will be safe from
@@ -147,11 +127,7 @@ and valuable that Imam Ja\`far ibn Muhammad as-Sadiq (peace be upon him)
 classified this as the greatest gift that a person can give to another
 and has said:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَ اللٌّهُ امْرَأً أَهْدى إِلَيَّ عُيُوبِـي
-  </p>
-</blockquote>
+> رَحِمَ اللٌّهُ امْرَأً أَهْدى إِلَيَّ عُيُوبِـي
 
 *“May Allah’s mercy be upon that person who offers a gift to me by
 pointing out my own mistakes and shortcomings.”*[^5]
@@ -159,11 +135,7 @@ pointing out my own mistakes and shortcomings.”*[^5]
 In addition, Amir al-Mu’minin \`Ali ibn Abi Talib (peace be upon him)
 has said:
 
-<blockquote dir="rtl">
-  <p>
-لِيَكُنْ آثَرُ النٌّاسِ عِنْدَكَ مَنْ أَهْدى إِلَيْكَ عَيْـبَكَ
-  </p>
-</blockquote>
+> لِيَكُنْ آثَرُ النٌّاسِ عِنْدَكَ مَنْ أَهْدى إِلَيْكَ عَيْـبَكَ
 
 *“Let the best person in your estimation be that person who points out
 to you your faults and shortcomings and presents them to you as a
@@ -207,11 +179,7 @@ In bringing up this ethical principle, the Qur’an has appealed to the
 emotions of humanity and thus when it wants to instruct its’ adherents
 that they should not pick the faults of others it says:
 
-<blockquote dir="rtl">
-  <p>
-...وَلاٌ تَلْمِزُوا أَنفُسَكُمْ...
-  </p>
-</blockquote>
+> ...وَلاٌ تَلْمِزُوا أَنفُسَكُمْ...
 
 ***“Do not find faults in*** ***yourselves.”***
 
@@ -233,5 +201,4 @@ it is equivalent to picking faults with the entire Muslim body.
 [^5]: Tuhaf al-\`Uqul, Page 366.
 
 [^6]: Ghurur al-Hikm, Page 558.
-
 

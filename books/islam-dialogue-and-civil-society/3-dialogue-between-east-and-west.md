@@ -316,4 +316,3 @@ brimful with a sense of balance, affection and tolerance, and for this
 reason, Iranians are the advocates of dialogue and adherents to justice
 and peace.
 
-

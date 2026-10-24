@@ -131,4 +131,3 @@ of Shi'ism which combined within it elements of various existing systems
 to form a synthesis whose influence helped inspire renewed debates
 within Twelver Shi'ism.16
 
-

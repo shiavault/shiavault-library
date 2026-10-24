@@ -8,4 +8,3 @@ intellect. There are numerous invocations, narrated on the authority of
 the infallible Imams (as) in this regard. We shall mention a few of them
 hereunder:
 
-

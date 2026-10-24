@@ -174,7 +174,6 @@ Man Maata walam ya'rif Imama Zamaanihi faqad Maatameetatul jahiliah
 of the age of ignorance (as did Abu Jehaland Abu Lahab and the others of
 his kind.")
 
-
 **REVOLUTIONARY CHANGES RESULTING FROM THE Qur'anIC TEACHINGS**
 
 The wonderful transformation that the Holy Prophet Muhammad, the Last
@@ -271,7 +270,6 @@ that was with Ameerul-Mo'mineen Ali ibne Abi Taleb, with the special
 explanatory notes from the Holy Prophet and by himself regarding the
 external as well as the internal meaning of the Word of God.
 
-
 **ONE OF THE MYSTERIES**
 
 One of the wonderful mysteries about the personalities of Muhammad, the
@@ -352,5 +350,4 @@ acknowledged by the Muslim world as the Golden Chain of the divinely
 commissioned and sinless guides and Imams, guardians of the Holy Qur'an
 and its correct interpretation, and perfect models of Islamic
 practice.
-
 

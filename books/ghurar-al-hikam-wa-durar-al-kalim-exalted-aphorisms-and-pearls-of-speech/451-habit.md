@@ -48,4 +48,3 @@ perform].
 [^1]: Or: Nosiness [and inquisitiveness about that which does not
 concern you] is one of the worst habits.
 
-

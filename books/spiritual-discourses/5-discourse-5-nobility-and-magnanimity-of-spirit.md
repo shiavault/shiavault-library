@@ -262,4 +262,3 @@ his revival of the noble self in fighting for (God and the truth. I pray
 God to grant us such spirits of nobleness and to give us the awareness
 of our destiny .
 
-

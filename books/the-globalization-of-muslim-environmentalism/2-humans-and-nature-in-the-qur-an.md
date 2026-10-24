@@ -50,4 +50,3 @@ property (54:28). Balance (*mīzan* ) is to be maintained in all things,
 including, presumably, natural systems (13:8, 15:21, 25:2). Failure to
 do so, consequently, may be argued to be un-Islamic.
 
-

@@ -72,11 +72,7 @@ Islam considers a respect for parents and observance of their rights to
 be the greatest duty of the people after the divine injunctions. The
 Quran says in this connection:
 
-<blockquote dir="rtl">
-  <p>
-أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ
-  </p>
-</blockquote>
+> أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ
 
 ***"Be grateful to Me and to both your parents." (31:14)***
 
@@ -106,11 +102,7 @@ their needs before they ask you."
 
 God says:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ
-  </p>
-</blockquote>
+> لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ
 
 ***"By no means shall you attain righteousness until you spend
 benevolently out of the assets you love." (3:92)***
@@ -123,16 +115,12 @@ walk ahead of them.[^3]
 
 The fourth Imam says:
 
-<blockquote dir="rtl">
-  <p>
-و أما حَقُّ أُمِّكَ، فَأَنْ تَعْلَمَ أَنَّهَا حَمَلَتكَ حَيْثُ لا
-يحتمل أحدٌ أحداَ، وأعْطَتْكَ مِن ثَمْرَةِ قَلبِها ما لا يُعطي أحدٌ
-أحداَ، ووَقَتْكَ بِجَمِيعِ جَوارحِها، ولَمْ تبال أن تجوع وتطعمك، وتعطش
-وتسقيك، وتعرى وتكسوك، وتضحى وتظلك، وتهجر النوم لأجلك، ووَقَتْكَ
-الحَرَّ والبَردَ، لتكون لها، فانك لا تُطيق شُكرها إلّا بِعَونِ اللهِ
-وتَوفيقه.
-  </p>
-</blockquote>
+> و أما حَقُّ أُمِّكَ، فَأَنْ تَعْلَمَ أَنَّهَا حَمَلَتكَ حَيْثُ لا
+> يحتمل أحدٌ أحداَ، وأعْطَتْكَ مِن ثَمْرَةِ قَلبِها ما لا يُعطي أحدٌ
+> أحداَ، ووَقَتْكَ بِجَمِيعِ جَوارحِها، ولَمْ تبال أن تجوع وتطعمك، وتعطش
+> وتسقيك، وتعرى وتكسوك، وتضحى وتظلك، وتهجر النوم لأجلك، ووَقَتْكَ
+> الحَرَّ والبَردَ، لتكون لها، فانك لا تُطيق شُكرها إلّا بِعَونِ اللهِ
+> وتَوفيقه.
 
 "*It is your mother's right towards you that you should remember that
 she carried you in her womb for several months and nourished you with
@@ -230,5 +218,4 @@ Right 22: The Right of the Mother.
 P.267.
 
 [^6]: Undiscovered Man, 260.
-
 

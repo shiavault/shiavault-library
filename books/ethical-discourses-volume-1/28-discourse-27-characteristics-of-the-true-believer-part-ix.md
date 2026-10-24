@@ -11,11 +11,7 @@ and one will get closer in his journey towards Allah (SwT).
  In our previous gatherings, we discussed forty-one characteristics and
 today, we cover another four characteristics of a true believer.
 
-<blockquote dir="rtl">
-  <p>
-… وُقُوراً، صَبُوراً، رَضِياً، شُكُوراً…
-  </p>
-</blockquote>
+> … وُقُوراً، صَبُوراً، رَضِياً، شُكُوراً…
 
 The Prophet (S) continued: ”(A true believer) is: dignified (in the face
 of challenges), patient, content (with whatever Allah decrees for him),
@@ -30,12 +26,8 @@ Three of the characteristics given by the Commander of the Faithful,
 'Ali b. Abi Talib (as) in his talk to Hammam were actually explanations
 of the words of the Prophet (S) in this tradition:
 
-<blockquote dir="rtl">
-  <p>
-فِي الزَلاَزِلِ وُقُوراً وَ فِي الْمَكَارِهِ صَبُوراً وَ فَي
-الرَّخَاءِ شَكُوراً.
-  </p>
-</blockquote>
+> فِي الزَلاَزِلِ وُقُوراً وَ فِي الْمَكَارِهِ صَبُوراً وَ فَي
+> الرَّخَاءِ شَكُوراً.
 
 “In the face of calamities they are dignified, and in the face of
 detestable acts they are patient; and in the face of ease and comfort,
@@ -44,11 +36,7 @@ they are thankful.”[^2]
 The word “وقور” is in the meaning of something heavy, and in the Noble
 Qur'an, we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِي آذَانِهِمْ وَقْراً 
-  </p>
-</blockquote>
+> وَ فِي آذَانِهِمْ وَقْراً
 
 “And in their ears is a heaviness.”[^3]  
  Thus, we see that due to the sins that people commit, Allah (SwT)
@@ -69,11 +57,7 @@ true believer is like a mountain such that even with strong winds - not
 only does it not move at all, rather the mountain actually makes the
 wind stop in its place - and a true believer is just like this!
 
-<blockquote dir="rtl">
-  <p>
-وَ أَلْقى فِي الأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ
-  </p>
-</blockquote>
+> وَ أَلْقى فِي الأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ
 
 “And He has set up on the Earth, mountains, standing firm, lest it
 should shake with you!”[^4]  
@@ -89,12 +73,8 @@ being of the person such as the inner (lower) passions and desires.
 
 It has been mentioned in Surat Yusuf where it has been stated:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلاَ أََنْ رَأى بُرْهَانَ
-رَبِّهِ
-  </p>
-</blockquote>
+> وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلاَ أََنْ رَأى بُرْهَانَ
+> رَبِّهِ
 
 “And (with passion) did she (Zulaykha) desire him, and he (Yusuf) would
 have desired her, but he saw the evidence of his Lord.”[^5]
@@ -106,11 +86,7 @@ The forty-third characteristic is that of showing extreme patience and
 again, in the speech given to Hammam , the Commander of the Faithful,,
 'Ali b. Abi Talib (as) said:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِي الْمَكَارِهِ صَـبُوراً.
-  </p>
-</blockquote>
+> وَ فِي الْمَكَارِهِ صَـبُوراً.
 
 “And during the times of distress, one is patient.”
 
@@ -136,12 +112,8 @@ If do not have patience, then what will happen?  If we are not patient,
 will this change our situation in any way?  How beautifully Imam 'Ali
 (as) has put it:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ صَبَرْتَ جَرَتْ عَلَيْكَ الْمَقَادِيرَ وَ أَنْتَ مَأْجُورٌ وَ
-إِنْ جَزَعْتَ جَرَتْ عَلَيْكَ الْمَقَادِيرُ وَ أَنْتَ مَأْزُورٌ.
-  </p>
-</blockquote>
+> إِنْ صَبَرْتَ جَرَتْ عَلَيْكَ الْمَقَادِيرَ وَ أَنْتَ مَأْجُورٌ وَ
+> إِنْ جَزَعْتَ جَرَتْ عَلَيْكَ الْمَقَادِيرُ وَ أَنْتَ مَأْزُورٌ.
 
 “If you are patient, then surely that which has been ordained will be
 granted unto you and you will be rewarded; and if you are anxious or
@@ -152,11 +124,7 @@ Thus, it is best that we observe patience until we are able to achieve
 the reward. One intellectual stated that: “Whenever I am faced with
 difficulties, I say to myself:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ لَمْ أَصْبِرْ فَمَا أَفْعَلْ.
-  </p>
-</blockquote>
+> إِنْ لَمْ أَصْبِرْ فَمَا أَفْعَلْ.
 
 The forty-fourth characteristic of a true believer is that one is
 content with whatever Allah (SwT) decrees for him.
@@ -179,11 +147,7 @@ The forty-fifth characteristic of a true believer is that one is
 thankful. In the Khutbah of Hammam , the Commander of the Faithful,,
 'Ali b. Abi Talib (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ فِي الرَّخَاءِ شَكُورٌ.
-  </p>
-</blockquote>
+> وَ فِي الرَّخَاءِ شَكُورٌ.
 
 “In times of ease, he is thankful.”  
  Often, when a person is in a good period of security, safety, and
@@ -191,11 +155,7 @@ peace, one tends to forget Allah (SwT). However when one is plagued with
 difficulties, then one falls into the remembrance of Allah (SwT). The
 Noble Qur\`an has said:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا نَجَّاهُمْ إِلـى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> فَلَمَّا نَجَّاهُمْ إِلـى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
 
 “And when they reach back to land (after facing difficulties at sea),
 once again they setup partners with Him (Allah).”[^7]  
@@ -214,11 +174,7 @@ of the Faithful, 'Ali b. Abi Talib (as) in which a total of one hundred
 and three characteristics of the true, complete believer were explained,
 we will cover two more in this discussion.
 
-<blockquote dir="rtl">
-  <p>
-…قَلِيلُ الْكَلاَمِ، صَدُوقُ الْلِسَانِ…
-  </p>
-</blockquote>
+> …قَلِيلُ الْكَلاَمِ، صَدُوقُ الْلِسَانِ…
 
  ”(A true believer) speaks less and is truthful in his speech…”[^8]  
     
@@ -246,11 +202,7 @@ point in relation to the benefit of not speaking much.
 
 1. Silence - The First Step in the Worship of Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-قال رسول اللّه : أَلصُّمْتُ هُوَ أَوَّلُ الْعِبَادَةُ.
-  </p>
-</blockquote>
+> قال رسول اللّه : أَلصُّمْتُ هُوَ أَوَّلُ الْعِبَادَةُ.
 
 The Messenger of Allah (S) has said, “Silence is the first form of
 worship (of Allah).”[^9]  
@@ -273,12 +225,8 @@ tongue are not even considered as anything bad by the common people.
 
 2. Silence Keeps Shaitan Far Away:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ : عَلَيْكَ بِطُوْلِ الصُّمْتِ فَإِنَّهُ
-مُطَرِّدَةُ لِلشَّيْطَانِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ : عَلَيْكَ بِطُوْلِ الصُّمْتِ فَإِنَّهُ
+> مُطَرِّدَةُ لِلشَّيْطَانِ.
 
 The Messenger of Allah (S) has said, “I advise you to prolong keeping
 quiet since this act repels Shaitan.”[^10]
@@ -291,12 +239,8 @@ families are due to the useless talk that Shaitan enters into.
 
 3. Silence - The Best Protector:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَلِيٍّ (عَلَيْهِ السَّلاَمُ): لاٌ حَافِظٌ أَحْفَظَ مِنَ
-الصُّمْتِ.
-  </p>
-</blockquote>
+> عَنْ عَلِيٍّ (عَلَيْهِ السَّلاَمُ): لاٌ حَافِظٌ أَحْفَظَ مِنَ
+> الصُّمْتِ.
 
 Imam 'Ali (as) has said, “There is no protector better for protecting (a
 person) than silence.”[^11]  
@@ -305,12 +249,8 @@ killed. In the face of jealousy, enmity and other Shaitanic things,
 remaining quiet is the best protector for a person.  
  4. Silence - The Source of Dignity:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَلِيٍّ : أَلصُّمْتُ يُكْسِيكَ الْوَقَارَ وَ يَكْفِيكَ مَؤُنَةَ
-الإِعْتِذَارِ.
-  </p>
-</blockquote>
+> عَنْ عَلِيٍّ : أَلصُّمْتُ يُكْسِيكَ الْوَقَارَ وَ يَكْفِيكَ مَؤُنَةَ
+> الإِعْتِذَارِ.
 
 Imam 'Ali (as) has said, “Silence clothes a person with the robes of
 dignity and reduces the need to always ask for forgiveness”[^12]
@@ -330,11 +270,7 @@ forced to ask others for forgiveness for his errors.
 
 5. Silence - The Garden of Contemplation and Reflection:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَلِيٍّ : أَلصُّمْتُ رَوْضَةُ الْفِكْرِ.
-  </p>
-</blockquote>
+> عَنْ عَلِيٍّ : أَلصُّمْتُ رَوْضَةُ الْفِكْرِ.
 
 Imam 'Ali (as) has said, “Silence is the garden of contemplation.”[^13]
 
@@ -364,11 +300,7 @@ worship of Allah, this worship has no merit in it.”
 For every single Prophet that Allah (SwT) raised up, He commanded them
 to follow two principles in their mission:
 
-<blockquote dir="rtl">
-  <p>
-أَدَاءُ الأَمَانَةِ وَ صِدْقُ الْحَدِيثِ.
-  </p>
-</blockquote>
+> أَدَاءُ الأَمَانَةِ وَ صِدْقُ الْحَدِيثِ.
 
 “Maintain and return trusts given to them and truthfulness in their
 speech.”
@@ -411,5 +343,4 @@ according to these commandments.!
 [^12]: Ibid., tradition 10822
 
 [^13]: Ibid., tradition 10823
-
 

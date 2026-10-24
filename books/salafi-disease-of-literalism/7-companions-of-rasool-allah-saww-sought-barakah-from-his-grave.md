@@ -63,10 +63,8 @@ Volume 4, Book 55, Number 562
 Respecting valley of Tuwa and seeking Barakah from it is not
 worshipping it
 
-<p dir="rtl">
 إِنِّي أَنَا رَبُّكَ فَاخ'لَع' نَع'لَي'كَ إِنَّكَ بِال'وَادِ
 ال'مُقَدَّسِ طُوًى
-</p>
 
 [Pickthal 20:12] Lo! I, even I, am thy Lord, So take off thy shoes, for
 lo! thou art in the holy valley of Tuwa.
@@ -101,5 +99,4 @@ them.
 That is why most of the simple people, who follow the Salafi path, they
 are fully unaware of existence of this part of Qur'an and Sunnah. These
 poor people are following only that, which the Salafi Ulama tell them.
-
 

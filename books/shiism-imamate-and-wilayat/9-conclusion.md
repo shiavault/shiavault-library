@@ -20,4 +20,3 @@ Muslims. The Ahlul Bayt have been vested by Allah with the *wilayat* in
 the broadest sense of the word, and that also includes the *'ilmu
 'l-ghayb.*
 
-

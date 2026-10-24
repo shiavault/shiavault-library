@@ -99,7 +99,6 @@ stage; they will listen attentively with interest and more desire than
 the real stories that comprise of many occurrences base on the
 imagination of the parents while narrating the stories.
 
-
 **Tenthly : Care For The Orphans**
 
 An orphan feel deprivation after loosing his father or mother or both
@@ -287,7 +286,6 @@ Darul Fikr 1st edition 1405 A.H.
 
 [^31] - Bihaaril Anwaar vol- 22:114.
 
-
 [^32] - Attifl bainal wiraatha WA ttarbiya vol-2:180 from the book 'we
 and the children: 39'.
 
@@ -386,7 +384,6 @@ printed by Darul kitaab Beirut 1975 A.D.
 
 [^76] - Makaarimul Akh'laq: 223.
 
-
 [^77] - Mashaakilil Aabaa'a: 284.
 
 [^78] - Qur'an 76: 8.
@@ -413,7 +410,6 @@ printed by Darul kitaab Beirut 1975 A.D.
 
 [^89] - Al-mahjatul badaa'i vol - 3: 403.
 
-
 [^90] - Al-mahjatul badaa'i vol - 3: 403.
 
 [^91] - Al-mahjatul badaa'i vol - 3: 403.
@@ -425,5 +421,4 @@ printed by Darul kitaab Beirut 1975 A.D.
 [^94] - Kanzul Umaal vol - 3 : 170/ 6008.
 
 [^95] - Al-kafi vol- 6: 48/8 ch- educating the child.
-
 

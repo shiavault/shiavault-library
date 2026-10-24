@@ -49,4 +49,3 @@ concludes that it is not possible to base a sound realism except on the
 basis of the rational theory of knowledge which asserts the presence of
 necessary rational principles independent of sense experience.
 
-

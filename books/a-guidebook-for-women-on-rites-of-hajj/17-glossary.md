@@ -242,4 +242,3 @@ Zawwal: Time when the sun begins to set
 
 Ziarat: To make a visit to a Holy place
 
-

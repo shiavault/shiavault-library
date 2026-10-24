@@ -25,4 +25,3 @@ Quran.
 
 O Allah! Bless Muhammad and the Progeny of Muhammad.
 
-

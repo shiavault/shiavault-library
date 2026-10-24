@@ -376,7 +376,6 @@ which is hidden from our sight in this life, but will soon be manifested
 in our life to come, and that makes the principle of the personification
 of our deeds in the Resurrection Day.
 
-<p dir="rtl">
 يُوصِيكُمُ اللهُ فِى أَوْلَـدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
 الاُْنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا
 مَاتَرَكَ وَإِن كَانَتْ وَحِدَةً فَلَهَا النِّصْفُ وَلاَِبَوَيْهِ
@@ -385,7 +384,6 @@ of our deeds in the Resurrection Day.
 الثُّلُثُ فَإِن كَانَ لَهُ إِخْوَةٌ فَلاُِمِّهِ السُّدُسُ مِن بَعْدِ
 وَصِيَّة يُوصِى بِها أوْ ديْن ءَبآؤُكُمْ وَأَبْنَآؤُكُمْ لاَ تَدْرُونَ
 أَيُّهُمْ أَقْرَبُ
-</p>
 
 [ 493 ]
 
@@ -686,5 +684,4 @@ HAZRAT IMAM SADIQ (AS) has said: \`\`There were some Arabs in the Pagan
 Era who detained their wives in the worst of conditions, without giving
 them a divorce or treating them as a wife! They did so waiting for her
 to die in order to own her property and wealth.''
-
 

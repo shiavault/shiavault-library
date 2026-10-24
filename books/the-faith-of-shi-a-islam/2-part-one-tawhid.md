@@ -35,7 +35,6 @@ taken note of the use of figures of speech which the nature of language
 necessitates. Thus they have misunderstood the true meaning of the
 Quar'an and the hadith.
 
-
 **6. Doctrine of Divine Unity (tawhid)
 **
 We believe that the Unity of Allah (tawhid) must be in all respects,
@@ -81,7 +80,6 @@ godliness of their hearts. (22;32)
 It has been shown in the law (shar') that these acts are mustahabb. If
 a man performs these actions with the intention of pleasing Allah, he
 deserves to be rewarded for them.
-
 
 **7. Doctrine of the Attributes of Allah
 **
@@ -148,7 +146,6 @@ recognises His like, and whoever recognises His like regards Him as two,
 and whoever regards Him as two recognises parts for Him, and whoever
 recognises parts for Him has mistaken Him. (Nahj al-Balaghah, Khutbah
 1)
-
 
 **8. Doctrine of the Justice of Allah
 **
@@ -217,7 +214,6 @@ I have not created the jinn and mankind except to serve Me. (51;56)
 and He has said similar things in other verses.
 
 Glory be to Thee Who did not create without aim. (3;190)
-
 
 **9. Doctrine of the Commands of Allah
 **
@@ -319,7 +315,6 @@ extremes, i.e. that there is neither compulsion nor absolute free-will.
 Anyway, this matter is not one in which it is necessary to have faith
 based on investigation and profound thinking.
 
-
 **11. Doctrine of bada'
 **
 The meaning of bada' for a man is this: the appearance (bada' literally
@@ -381,7 +376,6 @@ And similar to this meaning of bada' is the abrogation of previous
 shara'i' (pl. of shari'ah) by the arrival of the shari'ah of our Prophet
 (S.A.), and even the abrogation of some of the commandments which were
 brought by Muhammad (S.A.)
-
 
 **12. Doctrine of Religious Ordinances
 **

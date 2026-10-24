@@ -51,11 +51,7 @@ today.
 extravagant praised nor is his indigence sympathized [with].
 
 > 11ـ ذَرِ السَّـرََفَ فَإنَّ المُسْرِفَ لا يُحْمَدُ جُودُهُ، ولا
-<blockquote dir="rtl">
-  <p>
-يُرْحَمُ فَقْرُهُ.
-  </p>
-</blockquote>
+> يُرْحَمُ فَقْرُهُ.
 
 12. The cause of poverty is extravagance.
 
@@ -65,33 +61,21 @@ extravagant praised nor is his indigence sympathized [with].
 qualities of justice and equity.
 
 > 13ـ عَلَيْكَ بِتَرْكِ التَّبْذيرِ وَالإسْرافِ وَالتَّخَلُّقِ
-<blockquote dir="rtl">
-  <p>
-بِالعَدْلِ والإنْصافِ.
-  </p>
-</blockquote>
+> بِالعَدْلِ والإنْصافِ.
 
 14. Extravagance is censured in everything except in performance of
 virtuous acts and excessiveness in obedience [and worship of Allah].
 
 > 14ـ في كُلِّ شَيْء يُذَمُّ السَّرَفُ إلاّ في صَنايِعِ المَعْرُوُفِ
-<blockquote dir="rtl">
-  <p>
-والمُبالَغَةُ فيِ الطَّاعَةِ.
-  </p>
-</blockquote>
+> والمُبالَغَةُ فيِ الطَّاعَةِ.
 
 15. Then shun extravagance by economizing, and recall today [what you
 will need] tomorrow; hold on to wealth [only] to the extent of your
 necessity and send forth the surplus for the day when you will need it.
 
 > 15ـ فَدَعِ الإسْرافَ مُقْتَصِداً، واذْكُرْ فِي اليَوْمِ غَداً،
-<blockquote dir="rtl">
-  <p>
-وأمْسِكْ مِنَ المالِ بِقَدْرِ ضَرُورَتِكَ، وَقَدِّمِ الفَضْلَ لِيَوْمِ
-حاجَتِكَ.
-  </p>
-</blockquote>
+> وأمْسِكْ مِنَ المالِ بِقَدْرِ ضَرُورَتِكَ، وَقَدِّمِ الفَضْلَ لِيَوْمِ
+> حاجَتِكَ.
 
 16. Wastefulness is enough of an extravagance.
 
@@ -125,10 +109,5 @@ necessity and send forth the surplus for the day when you will need it.
 setting right his affair!
 
 > 23ـ وَيْحَ المُسْرِفِ، ما أبْعَدَهُ عَنْ صَلاحِ نَفْسِهِ
-<blockquote dir="rtl">
-  <p>
-وَاِسْتِدْراكِ أمْرِهِ.
-  </p>
-</blockquote>
-
+> وَاِسْتِدْراكِ أمْرِهِ.
 

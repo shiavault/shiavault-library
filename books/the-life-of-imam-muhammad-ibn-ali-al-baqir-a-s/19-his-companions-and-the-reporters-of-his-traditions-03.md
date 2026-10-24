@@ -722,193 +722,193 @@ lying.”[^94]
 
 ###
 
-[^1] Al-Tusi, Rijal.
+[^1]: Al-Tusi, Rijal.
 
-[^2] Ibid.
+[^2]: Ibid.
 
-[^3] Tanqih al-Maqal, vol.1, p.[^454]:
+[^3]: Tanqih al-Maqal, vol.1, p.454.
 
-[^4] Mu‘jam Rijal al-Hadith, vol.7, p.[^300]:
+[^4]: Mu‘jam Rijal al-Hadith, vol.7, p.300.
 
-[^5] Ibid, p.[^302]:
+[^5]: Ibid, p.302.
 
-[^6] Ibid, p.[^303]:
+[^6]: Ibid, p.303.
 
-[^7] Ibid, p.[^304]:
+[^7]: Ibid, p.304.
 
-[^8] Ibid, p.[^306]:
+[^8]: Ibid, p.306.
 
-[^9] Ibid, p.[^308]:
+[^9]: Ibid, p.308.
 
-[^10] Al-Tusi, Rijal.
+[^10]: Al-Tusi, Rijal.
 
-[^11] Mu‘jam Rijal al-Hadith, vol.7, pp.212-[^314]:
+[^11]: Mu‘jam Rijal al-Hadith, vol.7, pp.212-[^314]:
 
-[^12] Al-Tusi, Rijal.
+[^12]: Al-Tusi, Rijal.
 
-[^13] Al-Najashi.
+[^13]: Al-Najashi.
 
-[^14] Al-Tusi, Rijal.
+[^14]: Al-Tusi, Rijal.
 
-[^15] Mu‘jam Rijal al-Hadith, vol.7, pp.322-[^326]:
+[^15]: Mu‘jam Rijal al-Hadith, vol.7, pp.322-[^326]:
 
-[^16] Al-Tusi, Rijal.
+[^16]: Al-Tusi, Rijal.
 
-[^17] Ibid.
+[^17]: Ibid.
 
-[^18] Ibid.
+[^18]: Ibid.
 
-[^19] Tanqih al-Maqal, vol.1, p.[^465]:
+[^19]: Tanqih al-Maqal, vol.1, p.465.
 
-[^20] Ibid, pp.465-[^466]:
+[^20]: Ibid, pp.465-[^466]:
 
-[^21] Al-Tusi, Rijal.
+[^21]: Al-Tusi, Rijal.
 
-[^22] Al-Najashi.
+[^22]: Al-Najashi.
 
-[^23] Mu‘jam Rijal al-Hadith, vol.8, p.[^18]:
+[^23]: Mu‘jam Rijal al-Hadith, vol.8, p.18.
 
-[^24] Tanqih al-Maqal, vol.2, p.[^3]:
+[^24]: Tanqih al-Maqal, vol.2, p.3.
 
-[^25] Al-Najashi.
+[^25]: Al-Najashi.
 
-[^26] Al-Tusi, Rijal, p.[^124]:
+[^26]: Al-Tusi, Rijal, p.124.
 
-[^27] Ibid.
+[^27]: Ibid.
 
-[^28] Tanqih al-Maqal, vol.1, p.[^8]:
+[^28]: Tanqih al-Maqal, vol.1, p.8.
 
-[^29] Mu‘jam Rijal al-Hadith, vol.8, p.[^27]:
+[^29]: Mu‘jam Rijal al-Hadith, vol.8, p.27.
 
-[^30] Al-Tusi, Rijal, p.[^124]:
+[^30]: Al-Tusi, Rijal, p.124.
 
-[^31] Shaykh al-Mufid, al-Amali.
+[^31]: Shaykh al-Mufid, al-Amali.
 
-[^32] Mukhtasar Akhbar al-Khulafa’, p.[^10]:
+[^32]: Mukhtasar Akhbar al-Khulafa’, p.10.
 
-[^33] Al-‘Aqd al-Farid, vol.3, p.[^207]:
+[^33]: Al-‘Aqd al-Farid, vol.3, p.207.
 
-[^34] Ibn al-Athir, Tarikh, vol.4, p.[^332]:
+[^34]: Ibn al-Athir, Tarikh, vol.4, p.332.
 
-[^35] Al-Tusi, Rijal, p.[^124]:
+[^35]: Al-Tusi, Rijal, p.124.
 
-[^36] Kamil al-Ziyarat, Chapter [^26]:
+[^36]: Kamil al-Ziyarat, Chapter [^26]:
 
-[^37] Al-Tusi, Rijal, p.[^124]:
+[^37]: Al-Tusi, Rijal, p.124.
 
-[^38] Ibid.
+[^38]: Ibid.
 
-[^39] Al-Najashi.
+[^39]: Al-Najashi.
 
-[^40] Mu‘jam Rijal al-Hadith, vol.8, p.[^70]:
+[^40]: Mu‘jam Rijal al-Hadith, vol.8, p.70.
 
-[^41] Ibid.
+[^41]: Ibid.
 
-[^42] Ibid.
+[^42]: Ibid.
 
-[^43] Al-Barqi, Rijal.
+[^43]: Al-Barqi, Rijal.
 
-[^44] Al-Tusi, Rijal, p.[^124]:
+[^44]: Al-Tusi, Rijal, p.124.
 
-[^45] Al-Najashi.
+[^45]: Al-Najashi.
 
-[^46] Al-Tusi, Rijal, p.[^124]:
+[^46]: Al-Tusi, Rijal, p.124.
 
-[^47] Mu‘jam Rijal al-Hadith, vol.8, p.[^175]:
+[^47]: Mu‘jam Rijal al-Hadith, vol.8, p.175.
 
-[^48] Al-Tusi, Rijal.
+[^48]: Al-Tusi, Rijal.
 
-[^49] Mu‘jam Rijal al-Hadith, vol.8, p.[^176]:
+[^49]: Mu‘jam Rijal al-Hadith, vol.8, p.176.
 
-[^50] Al-Barqi, Rijal.
+[^50]: Al-Barqi, Rijal.
 
-[^51] Al-Tusi, Rijal, p.[^124]:
+[^51]: Al-Tusi, Rijal, p.124.
 
-[^52] Mu‘jam Rijal al-Hadith, vol.8, p.[^182]: Tanqih al-Maqal, vol.2,
+[^52]: Mu‘jam Rijal al-Hadith, vol.8, p.182. Tanqih al-Maqal, vol.2,
 p.45.
 
-[^53] Mu‘jam Rijal al-Hadith, vol.8, p.[^201]:
+[^53]: Mu‘jam Rijal al-Hadith, vol.8, p.201.
 
-[^54] Al-Tusi, Rijal, p.[^124]:
+[^54]: Al-Tusi, Rijal, p.124.
 
-[^55] Al-Najashi. It was said that his finger was cut, not his hand.
+[^55]: Al-Najashi. It was said that his finger was cut, not his hand.
 
-[^56] Al-Najashi.
+[^56]: Al-Najashi.
 
-[^57] Al-Irshad.
+[^57]: Al-Irshad.
 
-[^58] Tanqih al-Maqal, vol.2, p.[^51]:
+[^58]: Tanqih al-Maqal, vol.2, p.51.
 
-[^59] Al-Tusi, Rijal.
+[^59]: Al-Tusi, Rijal.
 
-[^60] In Mu‘jam Rijal al-Hadith, vol.8, p.282, it has been mentioned
+[^60]: In Mu‘jam Rijal al-Hadith, vol.8, p.282, it has been mentioned
 that his name is Sulayman b. Maula Turbal.
 
-[^61] Al-Najashi.
+[^61]: Al-Najashi.
 
-[^62] Al-Tusi, Rijal. Al-Barqi numbered him as one of the companions of
+[^62]: Al-Tusi, Rijal. Al-Barqi numbered him as one of the companions of
 al-Baqir and al-Sadiq, peace be on them.
 
-[^63] Al-Tusi, Rijal.
+[^63]: Al-Tusi, Rijal.
 
-[^64] Ibid. Al-Barqi.
+[^64]: Ibid. Al-Barqi.
 
-[^65] Mu‘jam Rijal al-Hadith, vol.8, p.[^311]:
+[^65]: Mu‘jam Rijal al-Hadith, vol.8, p.311.
 
-[^66] Al-Tusi, Rijal. Al-Barqi, Rijal.
+[^66]: Al-Tusi, Rijal. Al-Barqi, Rijal.
 
-[^67] Mu‘jam Rijal al-Hadith, vol.8, p.[^333]:
+[^67]: Mu‘jam Rijal al-Hadith, vol.8, p.333.
 
-[^68] Al-Najashi. Al-Tusi, Rijal.
+[^68]: Al-Najashi. Al-Tusi, Rijal.
 
-[^69] Mu‘jam Rijal al-Hadith, vol.9, p.[^20]:
+[^69]: Mu‘jam Rijal al-Hadith, vol.9, p.20.
 
-[^70] Ibid, p.[^33]:
+[^70]: Ibid, p.33.
 
-[^71] Al-Barqi, Rijal.
+[^71]: Al-Barqi, Rijal.
 
-[^72] Al-Najashi.
+[^72]: Al-Najashi.
 
-[^73] Al-Kashi.
+[^73]: Al-Kashi.
 
-[^74] Mu‘jam Rijal al-Hadith, vol.9, p.[^46]:
+[^74]: Mu‘jam Rijal al-Hadith, vol.9, p.46.
 
-[^75] Ibid, p.[^49]:
+[^75]: Ibid, p.49.
 
-[^76] Al-Tusi, Rijal, p.[^127]:
+[^76]: Al-Tusi, Rijal, p.127.
 
-[^77] Al-Kashi.
+[^77]: Al-Kashi.
 
-[^78] Mu‘jam Rijal al-Hadith, vol.9, p.[^76]:
+[^78]: Mu‘jam Rijal al-Hadith, vol.9, p.76.
 
-[^79] Al-Tusi, Rijal.
+[^79]: Al-Tusi, Rijal.
 
-[^80] Al-Najashi.
+[^80]: Al-Najashi.
 
-[^81] Al-Tusi, Rijal.
+[^81]: Al-Tusi, Rijal.
 
-[^82] Al-‘Llama,Al-Khulasa.
+[^82]: Al-‘Llama,Al-Khulasa.
 
-[^83] Mu‘jam Rijal al-Hadith, vol.9, p.[^89]:
+[^83]: Mu‘jam Rijal al-Hadith, vol.9, p.89.
 
-[^84] Al-Tusi, Rijal.
+[^84]: Al-Tusi, Rijal.
 
-[^85] Al-Najashi.
+[^85]: Al-Najashi.
 
-[^86] Al-Tusi, Rijal.
+[^86]: Al-Tusi, Rijal.
 
-[^87] Mu‘jam Rijal al-Hadith, vol.9, p.[^152]:
+[^87]: Mu‘jam Rijal al-Hadith, vol.9, p.152.
 
-[^88] Al-Tusi, Rijal.
+[^88]: Al-Tusi, Rijal.
 
-[^89] Mu‘jam Rijal al-Hadith, vol.9, p.[^157]:
+[^89]: Mu‘jam Rijal al-Hadith, vol.9, p.157.
 
-[^90] Al-Tusi, Rijal. Al-Barqi, Rijal.
+[^90]: Al-Tusi, Rijal. Al-Barqi, Rijal.
 
-[^91] Mu‘jam Rijal al-Hadith, vol.9, p.[^165]:
+[^91]: Mu‘jam Rijal al-Hadith, vol.9, p.165.
 
-[^92] Al-Tusi, Rijal.
+[^92]: Al-Tusi, Rijal.
 
-[^93] Al-Najashi.
+[^93]: Al-Najashi.
 
-[^94] Mu‘jam Rijal al-Hadith, vol.9, p.[^191]:
+[^94]: Mu‘jam Rijal al-Hadith, vol.9, p.191.

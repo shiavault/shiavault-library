@@ -65,4 +65,3 @@ doing it in the name of Islam. Brilliantly,**Imam Husayn** succeeded in
 foiling this plan and he exposed the disreputable nature of Bani Umayya
 though this was at the expense of his life.
 
-

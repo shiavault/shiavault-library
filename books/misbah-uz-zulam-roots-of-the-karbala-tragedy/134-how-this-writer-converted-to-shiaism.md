@@ -183,4 +183,3 @@ or scholastic theology, but he could do nothing about it.
 
 [^1]: A city in North-East India.
 
-

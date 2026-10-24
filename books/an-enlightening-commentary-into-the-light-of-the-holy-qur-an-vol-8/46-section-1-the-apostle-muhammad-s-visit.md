@@ -1,24 +1,16 @@
 Section 1: The Apostle Muhammad’s Visit
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
 Surah Isra’ – Verse 1
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرَي بِعَبْدِهِ لَيْلاً مِنَ الْمَسْجِدِ
-الْحَرَامِ إِلَي الْمَسْجِدِ الاَقْصَا الَّذِي بَارَكْنَا حَوْلَهُ
-لِنُرِيَهُ مِنْ ءَايَاتِنَآ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرَي بِعَبْدِهِ لَيْلاً مِنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَي الْمَسْجِدِ الاَقْصَا الَّذِي بَارَكْنَا حَوْلَهُ
+> لِنُرِيَهُ مِنْ ءَايَاتِنَآ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
 ***1. “Glory be to Him Who took his servant by night from Masjid-ul-Har
 am to Masjid-ul-’Aqsa the precincts of which We have blessed that We
@@ -108,12 +100,8 @@ such an assignment.
 Surah Isra’ – Verse 2
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَءَاتَيْنَا مُوسَي الْكِتَابَ وَجَعَلْنَاهُ هُدًي لّـِبَني
-إِسْرَآئِيلَ أَلاَّ تَتَّخِذُوا مِن دُونِي وَكِيلاً
-  </p>
-</blockquote>
+> وَءَاتَيْنَا مُوسَي الْكِتَابَ وَجَعَلْنَاهُ هُدًي لّـِبَني
+> إِسْرَآئِيلَ أَلاَّ تَتَّخِذُوا مِن دُونِي وَكِيلاً
 
 ***2. “And We gave Moses the Book, and made him a Guide for the Children
 of Israel, (saying:) ‘Do not take other than Me a guardian’.”***
@@ -160,11 +148,7 @@ and his eventual reliance on Him.
 Surah Isra’ – Verse 3
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-ذُرّ‌ِيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبْداً شَكُوراً
-  </p>
-</blockquote>
+> ذُرّ‌ِيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبْداً شَكُوراً
 
 ***3. “(O’ you!) the offspring of those whom We embarked along with Noah
 (on the Ark). Verily, he was a grateful servant.”***
@@ -198,12 +182,8 @@ by saying:
 Surah Isra’ – Verse 4
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَضَيْنَآ إِلَي بَنِي إِسْرَآئِيلَ فِي الْكِتَابِ لَتُفْسِدُنَّ فِي
-الاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوّاً كَبِيراً
-  </p>
-</blockquote>
+> وَقَضَيْنَآ إِلَي بَنِي إِسْرَآئِيلَ فِي الْكِتَابِ لَتُفْسِدُنَّ فِي
+> الاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوّاً كَبِيراً
 
 ***4. “And We declared unto the Children of Israel in the Book (the
 Torah, saying): “Certainly you will make mischief on the earth twice,
@@ -240,13 +220,9 @@ Surah Al-Qasas, No. 28, verse 83 says:
 Surah Isra’ – Verse 5
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِذَا جَآءَ وَعْدُ اُولاَهُمَا بَعَثْنَا عَلَيْكُمْ عِبَاداً لَنَآ
-اُوْلِي بَأْسٍ شَدِيدٍ فَجَاسُوا خِلاَلَ الدّ‌ِيَارِ وَكَانَ وَعْداً
-مَّفْعُولاً
-  </p>
-</blockquote>
+> فإِذَا جَآءَ وَعْدُ اُولاَهُمَا بَعَثْنَا عَلَيْكُمْ عِبَاداً لَنَآ
+> اُوْلِي بَأْسٍ شَدِيدٍ فَجَاسُوا خِلاَلَ الدّ‌ِيَارِ وَكَانَ وَعْداً
+> مَّفْعُولاً
 
 ***5. “So when the promise for the first of the two came to pass, We
 raised against you some of powerful servants of Ours, given to terrible
@@ -292,12 +268,8 @@ and not to be broken.
 Surah Isra’ – Verse 6
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُم
-بِاَمْوالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيراً
-  </p>
-</blockquote>
+> ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُم
+> بِاَمْوالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيراً
 
 ***6. “Then We gave you back the turn to prevail against them, and We
 assisted you with wealth and children and We made you a numerous
@@ -326,14 +298,10 @@ numerous host.”***
 Surah Isra’ – Verse 7
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لاَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا
-فَإِذَا جَآءَ وَعْدُ الاَخِرَةِ لِيَسوءُوا وُجُوهَكُمْ وَلِيَدْخُلُوا
-الْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبّـِرُوا مَا
-عَلَوْا تَتْبِيرا
-  </p>
-</blockquote>
+> إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لاَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا
+> فَإِذَا جَآءَ وَعْدُ الاَخِرَةِ لِيَسوءُوا وُجُوهَكُمْ وَلِيَدْخُلُوا
+> الْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبّـِرُوا مَا
+> عَلَوْا تَتْبِيرا
 
 ***7. “If you do good, you do it for your own selves; and if you commit
 evil, it is (in like manner) for your own selves. Hence, when the
@@ -456,12 +424,8 @@ time of the conquest of Mecca.
 Surah Isra’ – Verse 8
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-عَسَي رَبُّكُمْ أَن يَرْحَمَكُمْ وَاِنْ عُدتُّمْ عُدْنَا وَجَعَلْنَا
-جَهَنَّمَ لِلْكَافِرِينَ حَصِيراً
-  </p>
-</blockquote>
+> عَسَي رَبُّكُمْ أَن يَرْحَمَكُمْ وَاِنْ عُدتُّمْ عُدْنَا وَجَعَلْنَا
+> جَهَنَّمَ لِلْكَافِرِينَ حَصِيراً
 
 ***8. “It may be that your Lord will have mercy on you, but if you
 revert (to your sins), We shall (also) revert (to Our punishment), and
@@ -496,13 +460,9 @@ made Hell a prison for the unbelievers.”***
 Surah Isra’ – Verse 9
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا الْقُرْءَانَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشّـِرُ
-الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ اَنَّ لَهُمْ
-أَجْراً كَبِيراً
-  </p>
-</blockquote>
+> إِنَّ هَذَا الْقُرْءَانَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشّـِرُ
+> الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ اَنَّ لَهُمْ
+> أَجْراً كَبِيراً
 
 ***9. “Verily, this Qur’an guides to that which is the most upright, and
 gives good tidings to the believers who do righteous deeds that they
@@ -551,12 +511,8 @@ they shall have a great reward.”***
 Surah Isra’ – Verse 10
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاَنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ أَعْتَدْنَا لَهُمْ
-عَذَاباً أَلِيماً
-  </p>
-</blockquote>
+> وَاَنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ أَعْتَدْنَا لَهُمْ
+> عَذَاباً أَلِيماً
 
 ***10. “And that (as for) those who do not believe in the Hereafter, We
 have prepared for them a painful chastisement.”***
@@ -579,5 +535,4 @@ prepared for them a painful chastisement.”***
 36, verse 60
 
 [^2]: Surah As-Saffat, No. 37, verse 79
-
 

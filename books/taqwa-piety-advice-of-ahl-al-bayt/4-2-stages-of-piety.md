@@ -17,4 +17,3 @@ c. To safeguard the heart from what keeps it busy away from truth, from
 the forbidden, blameworthy, and permissible acts. This is the excellent
 stage of Taqwa.
 
-

@@ -29,4 +29,3 @@ followed by the true believers. Therefore, the supplications and Ziyarat
 which have been mentioned to be read at specific times should be
 performed in order to fulfill this responsibility.
 
-

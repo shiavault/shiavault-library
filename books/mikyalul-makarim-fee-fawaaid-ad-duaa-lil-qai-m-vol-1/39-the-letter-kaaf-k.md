@@ -96,11 +96,7 @@ present the matter in three sections:
 The Almighty Allah appointed Adam as His caliph on the whole earth and
 made him its heir and He says in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
-  </p>
-</blockquote>
+> إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
 
 ***“I am going to place in the earth a vicegerent.” (Qur’an, Surah
 Baqarah 2:30)***
@@ -110,12 +106,8 @@ the earth and will appoint him as His caliph on His earth, as narrated
 from His Eminence, Abu Abdillah Sadiq (as) that he said with reference
 to the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ
 
 ***“Allah has promised to those of you who believe and do good that He
 will most certainly make them rulers in the earth.” (Qur’an, Surah Noor
@@ -146,11 +138,7 @@ the *Ziarat* Nahiya addressing his ancestor, Husain (as):
 
 Regarding Adam (as) the verse was revealed that:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا
-  </p>
-</blockquote>
+> وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا
 
 ***“And He taught Adam all the names…” (Qur’an, Surah Baqarah 2:31)***
 
@@ -180,11 +168,7 @@ disbelief and transgression of the people.
 In *Biharul Anwar,* it is narrated from His Eminence, Abu Ja’far Baqir
 (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا
-  </p>
-</blockquote>
+> وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا
 
 ***“…gives life to the earth after its death…” (Qur’an, Surah Rum
 30:19)***
@@ -224,14 +208,10 @@ In the being of Adam for the Imam-e-Qaim.
 His nearest and closest kin killed Habeel – that is his brother – the
 Almighty Allah says in His great book:
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ
-الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ
-مِنَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ
+> الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ
+> مِنَ الْمُتَّقِينَ
 
 ***“And relate to them the story of the two sons of Adam with truth when
 they both offered an offering, but it was accepted from one of them and
@@ -306,12 +286,8 @@ The complete text of this narration has already been mentioned before.
 
 Nuh, by his words, purified the earth from the disbelievers and said:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ
-دَيَّارًا
-  </p>
-</blockquote>
+> وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ
+> دَيَّارًا
 
 ***“My Lord! Leave not upon the land any dweller from among the
 unbelievers.” (Qur’an, Surah Nuh 71:26)***
@@ -435,11 +411,7 @@ him, except you and he will be returned to you very soon as Moosa was
 returned to his mother. And it is about this that the Almighty Allah
 said:
 
-<blockquote dir="rtl">
-  <p>
-فَرَدَدْنَاهُ إِلَىٰ أُمِّهِ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ
-  </p>
-</blockquote>
+> فَرَدَدْنَاهُ إِلَىٰ أُمِّهِ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ
 
 ***“So We gave him back to his mother that her eye might be refreshed,
 and that she might not grieve…” (Qur’an, Surah Qasas 28:13)***
@@ -520,11 +492,7 @@ they had become despaired and calamities and hardships had surrounded
 them fully and the enemies were destroyed by a wind sans benefit, a wind
 that the Almighty Allah has described as follows in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
-  </p>
-</blockquote>
+> مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
 
 ***“It did not leave aught on which it blew, but it made it like ashes.”
 (Qur’an, Surah Zariyat 51:41-42)***
@@ -539,17 +507,9 @@ occultation and reappearance as parts of them have been mentioned above.
 Allah, the Mighty and Sublime destroyed the infidels through Hud (as)
 and He sent Aqeem on them as the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ .
-  </p>
-</blockquote>
+> وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ .
 
-<blockquote dir="rtl">
-  <p>
-مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
-  </p>
-</blockquote>
+> مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
 
 ***“When We sent upon them the destructive wind. It did not leave aught
 on which it blew, but it made it like ashes.” (Qur’an, Surah Zariyat
@@ -596,34 +556,22 @@ she-camel to drink from the stream and alternate for you. We have
 brought faith on Allah and also believed on whatever you have brought.
 At that time Allah, the Mighty and the High said:
 
-<blockquote dir="rtl">
-  <p>
-أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ
-  </p>
-</blockquote>
+> أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ
 
 ***“Do you know that Salih is sent by his Lord?” (Qur’an, Surah Araaf
 7:75)***
 
 And the believers and people of faith said:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ
-  </p>
-</blockquote>
+> قَالُوا إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ
 
 ***“Surely we are believers in what he has been sent with.” (Qur’an,
 Surah Araaf 7:75)***
 
 And the arrogant ones – those who doubted him – said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا بِالَّذِي آمَنْتُمْ بِهِ
-كَافِرُونَ
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا بِالَّذِي آمَنْتُمْ بِهِ
+> كَافِرُونَ
 
 ***“Surely we are deniers of what you believe in.” (Qur’an, Surah Araaf
 7:76)***
@@ -683,11 +631,7 @@ week as much as others grow in a year?”[^26]
 Ibrahim (as) separated himself from the people. Allah, the Mighty and
 Sublime has quoted him as:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ
-  </p>
-</blockquote>
+> وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ
 
 ***“And I will withdraw from you and what you call on besides Allah…”
 (Qur’an, Surah Maryam 19:48)***
@@ -716,11 +660,7 @@ those circumstances befell him. Thus when Yusuf removed it from the arm
 band in Egypt, Yaqoob perceived its fragrance and it is about the same
 thing that Allah quotes him saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ
-  </p>
-</blockquote>
+> إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ
 
 ***“Most surely I perceive the fragrance of Yusuf, unless you pronounce
 me to be weak in judgment.” (Qur’an, Surah Yusuf 12:94)***
@@ -756,13 +696,9 @@ And Allah knows best.
 Ibrahim (as): He constructed the Holy Kaaba and fixed the Black Stone in
 its place. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
-وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ
-الْعَلِيمُ
-  </p>
-</blockquote>
+> وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ
+> وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ
+> الْعَلِيمُ
 
 ***“And when Ibrahim and Ismail raised the foundations of the House: Our
 Lord! accept from us; surely Thou art the Hearing, the Knowing…”
@@ -845,11 +781,7 @@ away in that illness. May Allah have mercy on him.[^31]
 The Almighty Allah saved Ibrahim (as) from the fire. Allah, the Mighty
 and Sublime says in His book:
 
-<blockquote dir="rtl">
-  <p>
-قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ
 
 ***“We said: O fire! be a comfort and peace to Ibrahim…” (Qur’an, Surah
 Anbiya 21:69)***
@@ -863,12 +795,8 @@ him to show the miracle of His Eminence, Ibrahim, the Friend of Allah.
 So the Imam would order the preparation of a huge fire and he would
 recite the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ
-تُرْجَعُونَ
-  </p>
-</blockquote>
+> فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ
+> تُرْجَعُونَ
 
 ***“Therefore glory be to Him in Whose hand is the kingdom of all
 things, and to Him you shall be brought back.” (Qur’an, Surah Yasin
@@ -884,11 +812,7 @@ of the Beneficent.
 Ibrahim (as) would call the people towards the Almighty Allah. The Holy
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ
-  </p>
-</blockquote>
+> وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ
 
 ***“And proclaim among men the Pilgrimage…” (Qur’an, Surah Hajj
 22:27)***
@@ -910,11 +834,7 @@ pages.
 The Almighty Allah gave glad tidings of the birth of Ismail (as) and He
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ
-  </p>
-</blockquote>
+> فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ
 
 ***“So We gave him the good news of a boy, possessing forbearance.”
 (Qur’an, Surah Saffat 37:101)***
@@ -1059,12 +979,8 @@ appear as a young man.”[^35]
 
 Ismail (as) was submissive to the command of the Almighty. He said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ
-مِنَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ
+> مِنَ الصَّابِرِينَ
 
 ***“He said: O my father! do what you are commanded; if Allah please,
 you will find me of the patient ones.” (Qur’an, Surah Saffat 37:102)***
@@ -1077,19 +993,11 @@ Ishaq (as): the Almighty Allah gave the glad tidings of his birth to
 Sarah when she had lost all hope of having a child. Allah, the Mighty
 and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ
-وَرَاءِ إِسْحَاقَ يَعْقُوبَ .
-  </p>
-</blockquote>
+> وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ
+> وَرَاءِ إِسْحَاقَ يَعْقُوبَ .
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ يَا وَيْلَتَىٰ أَأَلِدُ وَأَنَا عَجُوزٌ وَهَٰذَا بَعْلِي
-شَيْخًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عَجِيبٌ
-  </p>
-</blockquote>
+> قَالَتْ يَا وَيْلَتَىٰ أَأَلِدُ وَأَنَا عَجُوزٌ وَهَٰذَا بَعْلِي
+> شَيْخًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عَجِيبٌ
 
 ***“And his wife was standing (by), so she laughed, then We gave her the
 good news of Ishaq and after Ishaq of (a son’s son) Yaqoob. She said: O
@@ -1132,11 +1040,7 @@ period of time he was alone among the people.[^36]
 
 Lut (as): Angels came down to render him assistance.
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا لُوطُ إِنَّا رُسُلُ رَبِّكَ لَنْ يَصِلُوا إِلَيْكَ
-  </p>
-</blockquote>
+> قَالُوا يَا لُوطُ إِنَّا رُسُلُ رَبِّكَ لَنْ يَصِلُوا إِلَيْكَ
 
 ***“They said: O Lut! we are the messengers of your Lord; they shall by
 no means reach you…” (Qur’an, Surah Hud 11:81)***
@@ -1175,13 +1079,9 @@ Qaim (aj) weeps intensely for his great grandfather, Husain (as) and in
 
 Yaqoob (as) was in anticipation of reappearance and he said:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا
-تَيْأَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ
-اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا
+> تَيْأَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ
+> اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ
 
 ***“O my sons! Go and inquire respecting Yusuf and his brother, and
 despair not of Allah’s mercy; surely none despairs of Allah’s mercy
@@ -1197,14 +1097,10 @@ Yusuf (as) was the most handsome person of his time.
 Qaim (aj) would also be the most handsome person of his time as
 mentioned in the discussion about the elegance of His Eminence.
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا
-وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا
-الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا إِنَّ اللَّهَ يَجْزِي
-الْمُتَصَدِّقِينَ
-  </p>
-</blockquote>
+> فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا
+> وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا
+> الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا إِنَّ اللَّهَ يَجْزِي
+> الْمُتَصَدِّقِينَ
 
 ***“So when they came in to him, they said: O chief! distress has
 afflicted us and our family and we have brought scanty money, so give us
@@ -1237,11 +1133,7 @@ reform his affairs overnight.”[^41]
 
 Yusuf (as) was distressed by being imprisoned and he said as follows:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
-  </p>
-</blockquote>
+> قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ
 
 ***“He said: My Lord! the prison house is dearer to me than that to
 which they invite me…” (Qur’an, Surah Yusuf 12:33)***
@@ -1388,17 +1280,9 @@ which we have presented in this book.
 Khizr (as) has the ability to know the unseen as he said in his
 conversation with Prophet Moosa (as):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا.
-  </p>
-</blockquote>
+> قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا.
 
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا
-  </p>
-</blockquote>
+> وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا
 
 ***“He said: Surely you cannot have patience with me: And how can you
 have patience in that of which you have not got a comprehensive
@@ -1869,11 +1753,7 @@ Qaim (aj) says in *Ziarat* Nahiya as follows:
 
 Shuaib (as) said to his people:
 
-<blockquote dir="rtl">
-  <p>
-بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
-  </p>
-</blockquote>
+> بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
 
 ***“What remains with Allah is better for you if you are believers…”
 (Qur’an, Surah Hud 11:86)***
@@ -1903,12 +1783,8 @@ who brings faith during the occultation and who obeys.”[^69]
 Shuaib (as) came out of the fire that came out of a cloud hovering on
 his deniers and burned them as Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ
-عَذَابَ يَوْمٍ عَظِيمٍ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ
+> عَذَابَ يَوْمٍ عَظِيمٍ
 
 ***“But they called him a liar, so the punishment of the day of covering
 overtook them; surely it was the punishment of a grievous day.” (Qur’an,
@@ -1946,11 +1822,7 @@ replied: Twenty eight years.”[^70]
 And the duration of the second disappearance was forty days; Allah, the
 Mighty and the High says:
 
-<blockquote dir="rtl">
-  <p>
-فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً
-  </p>
-</blockquote>
+> فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً
 
 ***“…so the appointed time of his Lord was complete forty nights…”
 (Qur’an, Surah Araaf 7:142)***
@@ -1961,12 +1833,8 @@ the other as we have already explained above.
 Moosa (as) was such that the Almighty Allah spoke to him. And He said to
 him:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا مُوسَىٰ إِنِّي اصْطَفَيْتُكَ عَلَى النَّاسِ بِرِسَالَاتِي
-وَبِكَلَامِي فَخُذْ مَا آتَيْتُكَ وَكُنْ مِنَ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> قَالَ يَا مُوسَىٰ إِنِّي اصْطَفَيْتُكَ عَلَى النَّاسِ بِرِسَالَاتِي
+> وَبِكَلَامِي فَخُذْ مَا آتَيْتُكَ وَكُنْ مِنَ الشَّاكِرِينَ
 
 ***“Surely I have chosen you above the people with My messages and with
 My words, therefore take hold of what I give to you and be of the
@@ -1987,11 +1855,7 @@ I would forgive and by you I would punish.”[^71]
 Moosa (as) went into occultation from his people as well as others, due
 to the fear of his enemies. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ
-  </p>
-</blockquote>
+> فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ
 
 ***“So he went forth therefrom, fearing, awaiting…” (Qur’an, Surah Qasas
 28:21)***
@@ -2004,13 +1868,9 @@ hardships, calamities and misery and they were disgraced much. So much
 so that their enemies slew their sons and spared their women (to enslave
 them).
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
-لِنُرِيَهُ مِنْ آيَاتِنَا إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
+> لِنُرِيَهُ مِنْ آيَاتِنَا إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
 ***In the same way during the occultation of Qaim (aj) his Shias and
 followers would have to undergo untold hardships and calamities during
@@ -2138,11 +1998,7 @@ And this supplication is for the benefit of all humanity.
 
 Regarding Moosa (as) the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ
 
 ***“And certainly We gave the book to Moosa, but it was gone against…”
 (Qur’an, Surah Hud 11:110)***
@@ -2159,11 +2015,7 @@ there would be dispute regarding it.
 That which proves this is a tradition quoted in *Raudat Kafi* from Imam
 Muhammad Baqir (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ
 
 ***“And certainly We gave the book to Moosa, but it was gone against…”
 (Qur’an, Surah Hud 11:110)***
@@ -2179,11 +2031,7 @@ chain of narrators that His Eminence, Abu Abdillah Sadiq (as) said:
 “The companions of Moosa (as) were tested by the stream and it is that
 which the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ مُبْتَلِيكُمْ بِنَهَرٍ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ مُبْتَلِيكُمْ بِنَهَرٍ
 
 ***“Surely Allah will try you with a river…” (Qur’an, Surah Baqarah
 2:249)***
@@ -2300,11 +2148,7 @@ his reappearance.”[^91]
 Moosa (as) fled from Egypt in fear, Allah, the Mighty and Sublime quotes
 him thus:
 
-<blockquote dir="rtl">
-  <p>
-فَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ
-  </p>
-</blockquote>
+> فَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ
 
 ***“So I fled from you when I feared you…” (Qur’an, Surah Shuara
 26:21)***
@@ -2343,11 +2187,7 @@ on their backs…”[^92]
 Moosa (as) was such that the Almighty Allah made the earth swallow up
 Qaroon, his enemy, as Allah the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ
-  </p>
-</blockquote>
+> فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ
 
 ***“Thus We made the earth to swallow up him and his abode…” (Qur’an,
 Surah Qasas 28:81)***
@@ -2558,12 +2398,8 @@ The Almighty Allah revived the dead for Hizqil (as) as mentioned in
 *Rauda Kafi* quoting His Eminence, Abu Ja’far Baqir (as) regarding the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ وَهُمْ أُلُوفٌ
-حَذَرَ الْمَوْتِ فَقَالَ لَهُمُ اللَّهُ مُوتُوا ثُمَّ أَحْيَاهُمْ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ وَهُمْ أُلُوفٌ
+> حَذَرَ الْمَوْتِ فَقَالَ لَهُمُ اللَّهُ مُوتُوا ثُمَّ أَحْيَاهُمْ
 
 ***“Have you not considered those who went forth from their homes, for
 fear of death, and they were thousands, then Allah said to them, Die;
@@ -2617,13 +2453,9 @@ them is one mentioned in *Rauda Kafi* from Abu Baseer that he said:
 “I asked His Eminence, Abu Abdillah Sadiq (as) regarding the statement
 of Allah Almighty:
 
-<blockquote dir="rtl">
-  <p>
-وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَا يَبْعَثُ اللَّهُ مَنْ
-يَمُوتُ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّا وَلَٰكِنَّ أَكْثَرَ النَّاسِ
-لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَا يَبْعَثُ اللَّهُ مَنْ
+> يَمُوتُ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّا وَلَٰكِنَّ أَكْثَرَ النَّاسِ
+> لَا يَعْلَمُونَ
 
 ***“And they swear by Allah with the most energetic of their oaths:
 Allah will not raise up him who dies. Yea! it is a promise binding on
@@ -2686,11 +2518,7 @@ Kufa…”[^108]
 
 It is narrated from His Eminence that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ
-  </p>
-</blockquote>
+> رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ
 
 ***“Often will those who disbelieve wish that they had been Muslims.”
 (Qur’an, Surah Hijr 15:2)***
@@ -2701,11 +2529,7 @@ time those who disbelieve would wish that they were Muslims.”[^109]
 
 In *Tafseer* *Ali bin Ibrahim* it is mentioned regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
-  </p>
-</blockquote>
+> فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
 
 ***“So grant the unbelievers a respite: let them alone for a while.”
 (Qur’an, Surah Tariq 86:17)***
@@ -2722,11 +2546,7 @@ Letter ‘N’, *Insha Allah.*
 Allah, the Mighty and Sublime appointed Dawood as the Caliph on the
 earth and said:
 
-<blockquote dir="rtl">
-  <p>
-يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ
-  </p>
-</blockquote>
+> يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ
 
 ***“O Dawood! surely We have made you a ruler in the land…” (Qur’an,
 Surah Saad 38:26)***
@@ -2734,11 +2554,7 @@ Surah Saad 38:26)***
 The Almighty Allah also appointed Qaim (aj) as the Caliph on the earth
 and said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-  </p>
-</blockquote>
+> أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
 
 ***“Or, Who answers the distressed one when he calls upon Him and
 removes the evil…” (Qur’an, Surah Naml 27:62)***
@@ -2754,11 +2570,7 @@ of Letter ‘Alif’ and Letter ‘Kh’.
 The Almighty Allah softened iron for Dawood (as) as the Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَلَنَّا لَهُ الْحَدِيدَ
-  </p>
-</blockquote>
+> وَأَلَنَّا لَهُ الْحَدِيدَ
 
 ***“…and We made the iron pliant to him…” (Qur’an, Surah Saba 34:10)***
 
@@ -2869,12 +2681,8 @@ pages.
 
 Sulaiman (as) said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَا يَنْبَغِي لِأَحَدٍ مِنْ
-بَعْدِي
-  </p>
-</blockquote>
+> قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَا يَنْبَغِي لِأَحَدٍ مِنْ
+> بَعْدِي
 
 ***“O Lord, give me such a kingdom that none after me should have such
 dominion.” (Qur’an, Surah Saad 38:35)***
@@ -2886,12 +2694,8 @@ kingdom of the kings and rulers of the earth is limited only on human
 beings, however the power of Sulaiman extended even upon the Jinns and
 birds. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ
-فَهُمْ يُوزَعُونَ
-  </p>
-</blockquote>
+> وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ
+> فَهُمْ يُوزَعُونَ
 
 ***“And his hosts of the jinn and the men and the birds were gathered to
 him, and they were formed into groups.” (Qur’an, Surah Naml 27:17)***
@@ -2907,11 +2711,7 @@ explained above.
 Sulaiman (as) was such that the Almighty Allah gave him control over the
 wind. Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ أَصَابَ
-  </p>
-</blockquote>
+> فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ أَصَابَ
 
 ***“Then We made the wind subservient to him; it made his command to run
 gently wherever he desired.” (Qur’an, Surah Saad 38:36)***
@@ -2996,11 +2796,7 @@ Ayyub (as) observed patience in calamities for seven years as His
 Eminence, Abu Abdillah Sadiq (as) has mentioned[^117] that Allah, the
 Mighty and the High says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ
-  </p>
-</blockquote>
+> إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ
 
 ***“Surely We found him patient; most excellent the servant! Surely he
 was frequent in returning (to Allah).” (Qur’an, Surah Saad 38:44)***
@@ -3013,11 +2809,7 @@ the chapter of Letter ‘B’.
 Once or twice, water spring burst forth for Ayyub (as) as the Almighty
 Allah says:
 
-<blockquote dir="rtl">
-  <p>
-ارْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
-  </p>
-</blockquote>
+> ارْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
 
 ***“Urge with your foot; here is a cool washing-place and a drink.”
 (Qur’an, Surah Saad 38:42)***
@@ -3051,12 +2843,8 @@ Shia, because previously he was Zaidiyyah.”[^118]
 Allah, the Mighty and Sublime brought the dead back to life for the sake
 of Ayyub (as) as Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنْ عِنْدِنَا
-وَذِكْرَىٰ لِلْعَابِدِينَ
-  </p>
-</blockquote>
+> وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنْ عِنْدِنَا
+> وَذِكْرَىٰ لِلْعَابِدِينَ
 
 ***“And We gave him his family and the like of them with them: a mercy
 from Us and a reminder to the worshippers.” (Qur’an, Surah Anbiya
@@ -3163,12 +2951,8 @@ his lips till on the seventh day he spoke on monotheism and recited
 benedictions on Muhammad and Imams (as). Then he recited the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
 
 ***“In the Name of Allah the Beneficent the Merciful. And We desired to
 bestow a favor upon those who were deemed weak in the land, and to make
@@ -3237,11 +3021,7 @@ that:
 The Jews and Christians unanimously say that Isa (as) has died. But
 Allah, the Mighty and Sublime has refuted them saying:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ
-  </p>
-</blockquote>
+> وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ
 
 ***“And they did not kill him nor did they crucify him, but it appeared
 to them so.”(Qur’an, Surah Nisa 4:157)***
@@ -3259,22 +3039,14 @@ Isa (as) by the permission of the Almighty Allah used to bring the dead
 back to life. The Almighty Allah has quoted him directly in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ اللَّهِ
-  </p>
-</blockquote>
+> وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ اللَّهِ
 
 ***“And (I) bring the dead to life with Allah’s permission.” (Qur’an,
 Surah Aale Imran 3:49)***
 
 And addressing him says:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
-  </p>
-</blockquote>
+> إِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي
 
 ***“And when you brought forth the dead by My permission.” (Qur’an,
 Surah Maidah 5:110)***
@@ -3344,12 +3116,8 @@ After that he would die.”
 
 Isa (as) said:
 
-<blockquote dir="rtl">
-  <p>
-بِإِذْنِ اللَّهِ ۖ وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا
-تَدَّخِرُونَ فِي بُيُوتِكُمْ
-  </p>
-</blockquote>
+> بِإِذْنِ اللَّهِ ۖ وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا
+> تَدَّخِرُونَ فِي بُيُوتِكُمْ
 
 ***“With Allah’s permission and I inform you of what you should eat and
 what you should store in your houses…” (Qur’an, Surah Aale Imran
@@ -3407,11 +3175,7 @@ the Imam mentioned the names of each, and their respective tribes. They
 said: “You are right.” He said: “And I will inform you of what you asked
 me regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
-  </p>
-</blockquote>
+> كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ
 
 ***“Like a good tree, whose root is firm and whose branches are in
 heaven.” (Qur’an, Surah Ibrahim 14:24)***
@@ -3598,11 +3362,7 @@ all the world is like the power of the day over the dark night.[^136]
 Ali bin Ibrahim through an authentic chain of narrators from His
 Eminence, Abu Ja’far Baqir (as) relates regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّهَارِ إِذَا تَجَلَّىٰ
-  </p>
-</blockquote>
+> وَالنَّهَارِ إِذَا تَجَلَّىٰ
 
 ***“And the day when it shines in brightness.” (Qur’an, Surah Lail
 92:2)***
@@ -3765,18 +3525,10 @@ Muhammad (S). And one who argues with me with regard to the prophets
 should know that I am the nearest one to the prophets. Has the Almighty
 Allah not said in His Clear Book? That:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ.
-  </p>
-</blockquote>
+> إنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ.
 
-<blockquote dir="rtl">
-  <p>
-ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ
 
 ***“Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of Imran above the nations. Offspring, one of the other;
@@ -4128,5 +3880,4 @@ eligibility. (The Author)
 [^141]: Biharul Anwar; Vol. 44, Pg. 367
 
 [^142]: Biharul Anwar; Vol. 52, Pg. 238
-
 

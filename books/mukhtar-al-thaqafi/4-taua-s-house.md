@@ -22,4 +22,3 @@ his companion down the palace.
 Ubaidullah bin Ziyad began killing and imprisoning the people in Kufa
 for any accusation. So, the people there were afraid.
 
-

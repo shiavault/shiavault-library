@@ -255,4 +255,3 @@ Islamic Conference (OIC).
 MEDEA, Sunni Muslims are 55% and Zaydite Muslims are 44% and Christians
 are 1%.
 
-

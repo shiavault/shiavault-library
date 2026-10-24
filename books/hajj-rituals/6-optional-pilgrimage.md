@@ -24,4 +24,3 @@ is also the rule for a woman observing a waiting period (iddah) arising
 from a revocable divorce but not for a woman of an irrevocable divorce.
 A widow, who is still in iddah, can perform a pilgrimage.
 
-

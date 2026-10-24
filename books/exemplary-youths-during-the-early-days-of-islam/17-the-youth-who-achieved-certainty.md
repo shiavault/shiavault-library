@@ -48,4 +48,3 @@ appears in them.”[^1]
 [^1]: Usūl al-Kāfī, vol. 3, p. 92; Bihār al-Anwār, vol. 70, p. 159,
 hadīth 17.
 
-

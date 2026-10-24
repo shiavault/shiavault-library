@@ -152,4 +152,3 @@ is popularly known as Ibn Dawud, the student of Sayyid ibn Tawus, both
 of whom are mentioned in the section on masters of defamation and
 authentication (al–jarh wa al–ta’adil).
 
-

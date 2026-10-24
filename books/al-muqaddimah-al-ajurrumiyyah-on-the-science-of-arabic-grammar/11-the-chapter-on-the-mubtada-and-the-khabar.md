@@ -82,4 +82,3 @@ the Mubtada’ with its Khabar
 
 زيدجاريتُه ذاهبةٌ           (Zayd,his maid is going )
 
-

@@ -1476,4 +1476,3 @@ p. 156. Sharh Shafiyat Abi Firas, vol. 2, p. 104. Tarikh Dimashq, vol.
 
 [^69]: Al-Sahifa al-Sajjadiya, supplication no. 27.
 
-

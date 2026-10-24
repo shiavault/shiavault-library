@@ -913,4 +913,3 @@ November 7, 1981. He was contemporary of the compiler. – Tr.
 
 [^2]: Will Durant, Pleasures of Philosophy, p. 478.
 
-

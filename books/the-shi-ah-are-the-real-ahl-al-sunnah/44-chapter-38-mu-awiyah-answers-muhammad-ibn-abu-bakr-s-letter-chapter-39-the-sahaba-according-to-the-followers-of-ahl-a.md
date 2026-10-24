@@ -143,14 +143,14 @@ done: They have exaggerated in their belief in the equity of all the
 sahaba without researching the latter's conditions; they, therefore,
 remained to our time distant from the truth.
 
-[^274] His full name is Sharaf ad-Din Sadr ad-Din al-Musawi. He is
+[^274]: His full name is Sharaf ad-Din Sadr ad-Din al-Musawi. He is
 author of the celebrated book Al-Muraja\`at. The translator of this book
 has translated it into English under the title: Al-Muraja\`at: A
 Shi\`i-Sunni Dialogue. It was published (hard cover edition only) in
 1995 by Imam Hussain Foundation, P.O. Box 25/114, Beirut, Lebanon. \_\_
 Tr.
 
-[^275] This text was published on p. 8 and its following pages of the
+[^275]: This text was published on p. 8 and its following pages of the
 book titled Al-Sahaba fi Nadar al-Shi\`a al-Imamiyya (the Prophet's
 companions as seen by Imamite Shi\`as).
 

@@ -64,9 +64,7 @@ to fulfill that which has been commanded of us, to glorify and give due
 respect to the religious duties of Islam. "and whoever respects the
 signs of Allah, this surely is (the outcome) of die piety of hearts".
 
-
 AL-BALAGH FOUNDATION
-
 
 **Hajj - A Definition**
 
@@ -108,7 +106,6 @@ Dhul-Hijjah. Passing the night at Muzdalifah is on the night of 10th
 sacrificed) is the 10th day which is also the day of Eid. And spending
 the night at Mina is on the 11th and the 12th nights, of
 Dhul-Hijjah...all of them are related firmly to specific times.
-
 
 **IN THE FOOTSTEPS OF THE FATHER OF THE PROPHETS:**
 
@@ -300,5 +297,4 @@ humbleness to His greatness, and their submission to His mightiness.
 Allah chose from His servants obedient ones who respond to His call
 believe in His word. They follow in the footsteps of His messenger, and
 imitate His angels who circumambulate around His throne."3
-
 

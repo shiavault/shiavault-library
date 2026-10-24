@@ -10,11 +10,7 @@ Surah al-Haqqa, Chapter 69
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -41,31 +37,15 @@ he acts upon his religious obligations.
 Surah al-Haqqa – Verses 1-3
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-الْحَاقَّةُ
-  </p>
-</blockquote>
+> الْحَاقَّةُ
 
-<blockquote dir="rtl">
-  <p>
-مَا الْحَاقَّةُ
-  </p>
-</blockquote>
+> مَا الْحَاقَّةُ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الْحَاقَّةُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الْحَاقَّةُ
 
 ***1. The Inevitable [Day]!***  
 ***2. What an Inevitable Day it is.***  
@@ -113,11 +93,7 @@ while an evil torment (haqq) encompassed Pharaoh’s people."***[^4]
 Surah al-Haqqa – Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ
-  </p>
-</blockquote>
+> كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ
 
 ***4. Thamud and ‘Àd peoples denied Divine destructive torment!***
 
@@ -128,11 +104,7 @@ that the peoples of Thamud and ‘Àd belied Divine destructive torments.
 Surah al-Haqqa – Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ
-  </p>
-</blockquote>
+> فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ
 
 ***5. As for Thamud, they were destroyed by an incontrollable
 torment!***
@@ -168,11 +140,7 @@ is an uncontrollable torment.
 Surah al-Haqqa – Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ
-  </p>
-</blockquote>
+> وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ
 
 ***6. And as for ‘Àd, they were destroyed by a furious violent gale!***
 
@@ -200,19 +168,11 @@ breezes rather than disobedient to God Almighty.
 Surah al-Haqqa – Verses 7-8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا
-فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ
-خَاوِيَةٍ
-  </p>
-</blockquote>
+> سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا
+> فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ
+> خَاوِيَةٍ
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ
-  </p>
-</blockquote>
+> فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ
 
 ***7. Which Allah imposed the [raging gale] on them for seven nights and
 eight days in succession and had you been there you would have seen
@@ -248,17 +208,9 @@ habitations, majestic edifices, and fertile farms.
 Surah al-Haqqa – Verses 9-10
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءَ فِرْعَوْنُ وَمَن قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ
-  </p>
-</blockquote>
+> وَجَاءَ فِرْعَوْنُ وَمَن قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ
 
-<blockquote dir="rtl">
-  <p>
-فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً
-  </p>
-</blockquote>
+> فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً
 
 ***9. And Pharaoh and those before him and the inhabitants of the
 shattered cities [of the people of Lot] who had committed grave
@@ -304,17 +256,9 @@ severe torment.
 Surah al-Haqqa – Verses 11-12
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ
-  </p>
-</blockquote>
+> إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ
 
-<blockquote dir="rtl">
-  <p>
-لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
-  </p>
-</blockquote>
+> لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
 
 ***11. When the water rose beyond its limits, We carried you on the
 floating Ark.***  
@@ -381,23 +325,11 @@ Messenger (S), but I remembered his words at all times."*[^5]
 Surah al-Haqqa – Verses 13-15
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
-  </p>
-</blockquote>
+> فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
-  </p>
-</blockquote>
+> وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
 
-<blockquote dir="rtl">
-  <p>
-فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
-  </p>
-</blockquote>
+> فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
 
 ***13. Then, as soon as the Trumpet shall be blown with one
 blowing.***  
@@ -468,18 +400,10 @@ Resurrection shall be actualized.***
 Surah al-Haqqa – Verses 16-17
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَانشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
-  </p>
-</blockquote>
+> وَانشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ
-يَوْمَئِذٍ ثَمَانِيَةٌ
-  </p>
-</blockquote>
+> وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ
+> يَوْمَئِذٍ ثَمَانِيَةٌ
 
 ***16. And the heavens shall be rent asunder, for that Day it shall be
 frail and shall collapse.***  
@@ -570,49 +494,21 @@ Day.
 Surah al-Haqqa – Verses 18-24
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ
-  </p>
-</blockquote>
+> يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ
-اقْرَءُوا كِتَابِيَهْ
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ
+> اقْرَءُوا كِتَابِيَهْ
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ
-  </p>
-</blockquote>
+> إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ
 
-<blockquote dir="rtl">
-  <p>
-فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
-  </p>
-</blockquote>
+> فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّةٍ عَالِيَةٍ
-  </p>
-</blockquote>
+> فِي جَنَّةٍ عَالِيَةٍ
 
-<blockquote dir="rtl">
-  <p>
-قُطُوفُهَا دَانِيَةٌ
-  </p>
-</blockquote>
+> قُطُوفُهَا دَانِيَةٌ
 
-<blockquote dir="rtl">
-  <p>
-كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ
-الْخَالِيَةِ
-  </p>
-</blockquote>
+> كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ
+> الْخَالِيَةِ
 
 ***18. That Day shall everyone be brought to Divine Threshold, not a
 secret of you shall be veiled.***  
@@ -741,36 +637,16 @@ not be restricted in semantic scope.
 Surah al-Haqqa – Verses 25-29
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي
-لَمْ أُوتَ كِتَابِيَهْ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي
+> لَمْ أُوتَ كِتَابِيَهْ
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ أَدْرِ مَا حِسَابِيَهْ
-  </p>
-</blockquote>
+> وَلَمْ أَدْرِ مَا حِسَابِيَهْ
 
-<blockquote dir="rtl">
-  <p>
-يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ
-  </p>
-</blockquote>
+> يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ
 
-<blockquote dir="rtl">
-  <p>
-مَا أَغْنَىٰ عَنِّي مَالِيَهْ
-  </p>
-</blockquote>
+> مَا أَغْنَىٰ عَنِّي مَالِيَهْ
 
-<blockquote dir="rtl">
-  <p>
-هَلَكَ عَنِّي سُلْطَانِيَهْ
-  </p>
-</blockquote>
+> هَلَكَ عَنِّي سُلْطَانِيَهْ
 
 ***25. But as for him who shall be given his Record in his left hand, he
 shall say: "I wish that I had not been given my Record!***  
@@ -842,53 +718,21 @@ despite having been entangled with vanity, neglect, and sins.
 Surah al-Haqqa – Verses 30-37
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-خُذُوهُ فَغُلُّوهُ
-  </p>
-</blockquote>
+> خُذُوهُ فَغُلُّوهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ الْجَحِيمَ صَلُّوهُ
-  </p>
-</blockquote>
+> ثُمَّ الْجَحِيمَ صَلُّوهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
-  </p>
-</blockquote>
+> ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
-  </p>
-</blockquote>
+> إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
-  </p>
-</blockquote>
+> وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
-  </p>
-</blockquote>
+> فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
-  </p>
-</blockquote>
+> وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
 
-<blockquote dir="rtl">
-  <p>
-لَّا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ
-  </p>
-</blockquote>
+> لَّا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ
 
 ***30. [It shall be said:] "Seize him and fetter him;***  
 ***31. Then, throw him into Hell.***  
@@ -1055,41 +899,17 @@ jarr).*[^11]
 Surah al-Haqqa – Verses 38-43
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ
-  </p>
-</blockquote>
+> فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَا تُبْصِرُونَ
-  </p>
-</blockquote>
+> وَمَا لَا تُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
-  </p>
-</blockquote>
+> إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَا تُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَا تُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا تَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا تَذَكَّرُونَ
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ
 
 ***38. So, I swear by whatever you see,***  
 ***39. And by whatever you see not,***  
@@ -1223,29 +1043,13 @@ faith (S).
 Surah al-Haqqa – Verses 44-47
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ
-  </p>
-</blockquote>
+> وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ
 
-<blockquote dir="rtl">
-  <p>
-لَأَخَذْنَا مِنْهُ بِالْيَمِينِ
-  </p>
-</blockquote>
+> لَأَخَذْنَا مِنْهُ بِالْيَمِينِ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
-  </p>
-</blockquote>
+> ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ
-  </p>
-</blockquote>
+> فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ
 
 ***44. And if he had forged a false saying concerning Us,***  
 ***45. We would have certainly seized him,***  
@@ -1281,35 +1085,15 @@ obstacle").
 Surah al-Haqqa – Verses 48-52
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ
-  </p>
-</blockquote>
+> وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَحَقُّ الْيَقِينِ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَحَقُّ الْيَقِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
-  </p>
-</blockquote>
+> فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
 
 ***48. And this is a Reminder for the God fearing.***  
 ***49. And We know that there are some amongst you that belie it,***  
@@ -1473,5 +1257,4 @@ historical sources.
 [^16]: Kanz al-‘Ummal, vol. 1, p. 459.
 
 [^17]: Muslim’s Sahih, vol. 1, p. 351.
-
 

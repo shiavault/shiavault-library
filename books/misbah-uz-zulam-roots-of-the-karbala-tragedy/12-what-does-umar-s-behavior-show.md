@@ -74,4 +74,3 @@ begun right from the moment of the demise of the Messenger.
 
 [^1]: Ref. Tarikh Abul Fida
 
-

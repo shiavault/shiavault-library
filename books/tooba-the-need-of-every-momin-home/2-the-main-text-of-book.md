@@ -851,25 +851,15 @@ nothing left in Deen other than Walayat e Ali (s.a.)?
 
 Imam Jafar Sadiq (s.a.) said: It is Sunnah to say:
 
-<p dir="rtl">
 الاسماء وخير لله والحمد بالله و الله بسم
-</p>
 
-<p dir="rtl">
 عبده محمدا ان واشهد له لاشريك وحده الله الا اله لا ان اشهد لله كلها
-</p>
 
-<p dir="rtl">
 نعم ربى ان واشهد الساعته يدى بين نذيرا بشيراو بالحق ارسله رسوله و
-</p>
 
-<p dir="rtl">
 صل اللهم الامام ونعم الوصى نعم علياً وان الرسول نعم محمدا وان الرب
-</p>
 
-<p dir="rtl">
 العالمين رب لله الحمد درجته وارفع امته فى شفاعته تقبل محمد وآل محمد
-</p>
 
 (Fiqh e Kamil, P 31)
 
@@ -879,17 +869,11 @@ Imam Jafar Sadiq (s.a.) said: It is Sunnah to say:
 
 واشهد له لاشريك وحده الله الا اله لا ان اشهد لله الحمد
 
-<p dir="rtl">
 واولاده الله ولى علياً المؤمنين امير ان واشهد ورسوله عبده محمدا ان
-</p>
 
-<p dir="rtl">
 على صلى اللهم اجمعين عليهم الله صلوات الله حجج المعصومين
-</p>
 
-<p dir="rtl">
 مجيد حميد انك ابراهيم آل وعلى ابراهيم على صليت كما محمد وآل محمد
-</p>
 
 #### 46-Beautiful Tashahud
 
@@ -897,29 +881,17 @@ Imam Jafar Sadiq (s.a.) said: It is Sunnah to say:
 
 لا ان اشهد
 
-<p dir="rtl">
 امير ان واشهد ورسوله عبده محمدا ان واشهد له لاشريك وحده الله الا اله
-</p>
 
-<p dir="rtl">
 حجته الحسين بن وعلى حجته والحسين حجته والحسن حجته المؤمنين
-</p>
 
-<p dir="rtl">
 حجته جعفر بن وموسىٰ حجته محمد بن وجعفر حجته على بن ومحمد
-</p>
 
-<p dir="rtl">
 حجته محمد بن على و حجته على بن ومحمد حجته موسىٰ بن على و
-</p>
 
-<p dir="rtl">
 على صلى اللهم حجته الحسن بن ومحمد حجته على بن والحسن
-</p>
 
-<p dir="rtl">
 مجيد حميد انك ابراهيم آل وعلى ابراهيم على صليت كما محمد وآل محمد
-</p>
 
 #### 47-Zikr of Imams (s.a.a.) in Sajdah e Shukr
 
@@ -927,25 +899,15 @@ Imam Jafar Sadiq (s.a.) said: It is Sunnah to say:
 
 Imam Musa Kazim (s.a.) used to recite in Sajdah e Shukr:
 
-<p dir="rtl">
 ورسلك وانبيائك ملائكتك واشهد اشهدك انى اللهم
-</p>
 
-<p dir="rtl">
 والحسن وعلياً ومحمدنبي دينى والاسلام ربى الله انك خلقك وجميع
-</p>
 
-<p dir="rtl">
 وموسىٰ محمد بن وجعفر على بن ومحمد الحسين بن وعلى والحسين
-</p>
 
-<p dir="rtl">
 الحسن محمدو بن وعلى على بن ومحمد موسىٰ بن وعلى جعفر بن
-</p>
 
-<p dir="rtl">
 أتبراء اعدائهم ومن أتونى بهم أئمتى على بن الحسن بن والحجة على بن
-</p>
 
 (Mun La Yahzorul Faqeh, V 1, P 221)
 
@@ -984,9 +946,7 @@ martyr with tongue means to deny Testification of Walayat.
 
 الزنا اولاد جبهات على كتبت                  معروفة علامة الوصى بغض
 
-<p dir="rtl">
 زنا ام صلى الله عند سيان                      وليه الانام من يوال لم من
-</p>
 
 (al Manaqab ibne Shahr Ashoob, V 3, P 208)
 
@@ -2715,9 +2675,7 @@ obligatory. Hazrat Abu Talib (s.a.) is the  Protector of Namaaz.
 Therefore we recite Salawaat according to the order of Rasool Allah
 (s.a.w.a.w.):     محمد على صلى اللهم
 
-<p dir="rtl">
 مجيد حميد انك ابراهيم آل على و ابراهيم على صليت كما محمد وآل
-</p>
 
 (Amali Sheikh Sudooq, V 2, P 138)
 
@@ -4286,9 +4244,7 @@ It means that who has firm faith in Kalima Tayyiba, then he is born on
 the chosen Fitrat of Allah, and it is proof of purity of his birth. And
 who doubt in it, then for him this verse applies:
 
-<p dir="rtl">
 والاولد الاموال فى وشاركهم
-</p>
 
 There can’t be any changing in Fitrat of Allah with anyone’s advice,
 that Mulla can divide Kalima into pieces using his tricks, and thinks
@@ -4313,9 +4269,7 @@ testify Walayat of Ali (s.a.), I thought he was human and did not
 mention his name in Namaaz, but alas I did mention myself in Sajdah and
 used to say:
 
-<p dir="rtl">
 المسكين الحقير الذليل ضعيف عبدك ارحم يارب
-</p>
 
 Woe to me, now I realize that I considered my own zikr in Namaaz better
 than Zikr of Imam Ali (s.a.).
@@ -4542,9 +4496,7 @@ of judgement.”*
 Rasool Allah (s.a.w.a.w.) said: It means that they were not followers of
 Imams (s.a.a.), about whom Allah says:
 
-<p dir="rtl">
 المقربون اولئك السبقون والسبقون
-</p>
 
 Don’t you see that a horse which is on Second position in a horse race
 is called مصلى , so those people will say المصلين من نك لم , so it means
@@ -4700,5 +4652,4 @@ consider ‘light’. This meaning is also right, because two heavy things
 from these two weighty things, he made his Namaaz imbalanced and light.
 Anyway it is strongly forbidden to separate Quran and Itrat (s.a.a.),
 the Saqalain.
-
 

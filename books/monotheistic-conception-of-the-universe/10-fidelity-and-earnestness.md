@@ -83,7 +83,6 @@ Holy Qur'an. The point is that there is a difference in being mukhlis,
 that is to do things purely for Allah, and being mukhlas, that is to be
 pure in oneself.
 
-
 **Unity and Singleness of the World**
 
 Does the entire universe that is the temporal and spatial creations of
@@ -268,7 +267,6 @@ has risen from the West has spread to such an extent that a section of
 the people insists to bring down the vast and high Islamic conception of
 the world to the level of the perceptible and material things.
 
-
 **This World and the Next World**
 
 Another basic principle of the Islamic conception of the cosmos is the
@@ -281,7 +279,6 @@ this world and it is a world to which man returns, it deserves to be
 dealt with separately. The invisible world is that from where we have
 come and the next world is that to which we shall go. That is what Imam
 Ali meant when he said:
-
 
 "May Allah bless him who knows from where he has come, where he is and
 where he will go".
@@ -308,5 +305,4 @@ worldly act. In many cases if the same thing is done for the sake of
 Allah and to gain His pleasure, it becomes the next worldly act. We are
 going to discuss this world and the next in detail later under the
 heading 'Eternal Life.
-
 

@@ -267,4 +267,3 @@ tradition. Such was said by ath-Thahabi in his Mizan.
 [^19]: Refer to an-Nawawi’s Sharh, printed in the margins of Irshad
 as-Sari and Tuhfat al-Bari, vol.11, pg.360.
 
-

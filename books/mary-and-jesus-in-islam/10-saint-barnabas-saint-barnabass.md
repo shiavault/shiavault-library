@@ -422,4 +422,3 @@ teaches except that their qibla was towards the south. Still others say
 that they followed the religion of Prophet Noah, and surely Allah knows
 best.
 
-

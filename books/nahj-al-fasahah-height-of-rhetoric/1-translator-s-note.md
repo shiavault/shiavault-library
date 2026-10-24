@@ -43,4 +43,3 @@ all and every aspects of worldly and otherworldly life.
 
 **Dr. Hossein Vahid Dastjerd**
 
-

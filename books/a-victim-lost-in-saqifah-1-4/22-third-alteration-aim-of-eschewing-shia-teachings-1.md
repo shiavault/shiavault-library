@@ -199,7 +199,7 @@ Winter 79, Pg. 62
  **[6]** Abdul Kareem Bi-Aazaar Shirazi: *Mashal-e-Ittehaad* (Torch of
 Unity), Pg. 22  
  **[7]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (Unity of Islamic
-Sects), (Preface to the 3<sup>rd</sup> Edition) Pg. 11
+Sects), (Preface to the 3rd Edition) Pg. 11
 
 companions. Therefore we can never make any progress”!**[1]**
 

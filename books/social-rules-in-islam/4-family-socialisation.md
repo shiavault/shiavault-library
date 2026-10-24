@@ -18,11 +18,7 @@ is limited to people who hold the same beliefs and share the same
 fundamentals. This rule is repeatedly mentioned in the Quran especially
 in Surah al Nisa and al Ma’eda. The Almighty Allah states:
 
-<blockquote dir="rtl">
-  <p>
-لایتخذ المؤمنون الکافرین اولیاء من دون المؤمنین.
-  </p>
-</blockquote>
+> لایتخذ المؤمنون الکافرین اولیاء من دون المؤمنین.
 
 ***“Let not the believers take the disbelievers as mates (or supporters)
 instead of the believers.” (3:28)***
@@ -39,11 +35,7 @@ However, in certain circumstances this practice is permissible.
 We can only socialize with families that we know well enough and are
 reliable and descent people. Imam ‘Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-الاخوان صنفان: اخوان الثقة و اخوان المکاشرة.
-  </p>
-</blockquote>
+> الاخوان صنفان: اخوان الثقة و اخوان المکاشرة.
 
 “There are two types of friends: reliable friends and facial friends.”
 
@@ -60,12 +52,8 @@ Only once you feel at ease with them you may open the door for a family
 relation. The Almighty Allah in stating the rules of family
 socialization says:
 
-<blockquote dir="rtl">
-  <p>
-یا ایها الذین آمنوا لاتدخلوا بیوتا غیر بیوتکم حتی تستأنسوا و تسلّموا
-علی اهلها ذلکم خیر لکم.
-  </p>
-</blockquote>
+> یا ایها الذین آمنوا لاتدخلوا بیوتا غیر بیوتکم حتی تستأنسوا و تسلّموا
+> علی اهلها ذلکم خیر لکم.
 
 ***“O you who believe! Do not enter houses other than your houses until
 you are acquainted (with them) and then greet their family (before
@@ -88,12 +76,8 @@ fanatical’. These are the tricks of Satan to trap people into adultery.
 If you don’t want to lose your spouse do the right thing. Imam al- Sadiq
 (a.s) quoting from the holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-فیما اخذ رسول الله (ص) البیعة علی النساء: ان لایحتبین و لایقعدن مع
-الرجال فی الخلاء.
-  </p>
-</blockquote>
+> فیما اخذ رسول الله (ص) البیعة علی النساء: ان لایحتبین و لایقعدن مع
+> الرجال فی الخلاء.
 
 “Of the covenant that the Prophet (S) took from the ladies prior to
 their conversion to Islam was that they shall not sit inappropriately
@@ -101,12 +85,8 @@ and alone with men.” [^1]
 
 It is also narrated from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-من صافح امرأة حراما جاء یوم القیامة مغلولا ثم یؤمر به الی النار، و من
-فاکه امرأة لایملکها حُبس بکل کلمة کلّمها فی الدنیا الف عام.
-  </p>
-</blockquote>
+> من صافح امرأة حراما جاء یوم القیامة مغلولا ثم یؤمر به الی النار، و من
+> فاکه امرأة لایملکها حُبس بکل کلمة کلّمها فی الدنیا الف عام.
 
 “Any man who shakes hands with a non-Mahram woman comes on the Day of
 Resurrection handcuffed then he will be ordered to the Fire, and any man
@@ -116,5 +96,4 @@ Hell) for every word one thousand years.” [^2]
 [^1]: Al-Kafi 5/519
 
 [^2]: Iqabul-A’maal 334
-
 

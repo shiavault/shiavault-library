@@ -1323,4 +1323,3 @@ translation and offered a number of useful suggestions for its
 improvement, and Sayyid Muhammad Husain al-Husaini al-Jalali, who placed
 at my disposal a useful bibliography of works concerning the Sahifa.
 
-

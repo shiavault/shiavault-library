@@ -21,4 +21,3 @@ recipients?”[^1]
 
 [^1]: Nahj al Balagha. Kalamat-e Qhisar (Short words), \# 37.
 
-

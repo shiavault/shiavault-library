@@ -279,4 +279,3 @@ al-Khulafa' 1:241.
 
 [^7]: Mustafa al-A\`dhamiy: Dirasatun fi’l-Hadith al-Nubawiy, 32.
 
-

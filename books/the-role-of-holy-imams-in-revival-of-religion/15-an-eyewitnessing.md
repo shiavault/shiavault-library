@@ -320,4 +320,3 @@ Islam is to dissipate the blood of the martyrs of Karbala. Here is where
 the efforts of Imam Baqer and Sadeq are destroyed. What responsibility
 do we have with regard to this, and what thought and feeling?
 
-

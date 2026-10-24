@@ -38,4 +38,3 @@ Dar Rah-e-Huq
 Qum-Iran Sha’ban 1400 A.H.
 June 1980 A.D.
 
-

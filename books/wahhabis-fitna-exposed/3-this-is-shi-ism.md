@@ -27,12 +27,8 @@ Allah:
 
 In the story of Musa (a.s) it says:
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ ۖ فَاسْتَغَاثَهُ الَّذِي
-مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ
-  </p>
-</blockquote>
+> هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ ۖ فَاسْتَغَاثَهُ الَّذِي
+> مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ
 
 ***This was from his*** **(i.e. Musa’s)** ***followers*** **(Shi‘a)**
 ***and that from his enemies*** **(‘aduww).** ***And he who was of his
@@ -41,11 +37,7 @@ Shi‘a asked him for his help against him who was of his enemies***
 
 In the story of Nuh (a.s) it says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ
-  </p>
-</blockquote>
+> وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ
 
 ***And, verily, of his Shi‘a is Ibrahim.***[^2]
 
@@ -855,5 +847,4 @@ al-Milal wan Nihal, 1988 ed. p. 114.
 
 [^42]: Ash-Shahristani, al-Milal wan Nihal, printed on the margin of
 Kitabul Fasl of Ibn Hazam, p. 141.
-
 

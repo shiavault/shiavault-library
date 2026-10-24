@@ -135,4 +135,3 @@ Guidance!
 philosophy, to which some added the phrase: “in its image and
 perfection.”
 
-

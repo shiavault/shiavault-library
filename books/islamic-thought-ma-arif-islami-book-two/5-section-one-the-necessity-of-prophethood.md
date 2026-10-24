@@ -290,11 +290,7 @@ Rather, apart from designing an order or system of creation, He has
 provided a sort of guidance according to the natural constitution of
 each being:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“Our Lord is He who gave everything its creation and then guided
 it.”***[^13]
@@ -333,13 +329,9 @@ rather on a proof that bespeaks of the existence of a motive and purpose
 in the creation of every creature or thing. The reason behind this is
 that God is All-wise and He does not do anything futile or useless:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْنَا السَّمَاء وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا
-ذَلِكَ ظَنُّ الَّذِينَ كَفَرُوا فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِنَ
-النَّارِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْنَا السَّمَاء وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا
+> ذَلِكَ ظَنُّ الَّذِينَ كَفَرُوا فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِنَ
+> النَّارِ ﴾
 
 ***“We did not create the sky and the earth and whatever is between them
 in vain. That is a conjecture of the faithless. So woe to the faithless
@@ -353,12 +345,8 @@ Allah.
 Like other creatures, human beings are enveloped in God’s mercy and
 guidance for there is surely a purpose in his creation:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
-لاَ تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا
+> لاَ تُرْجَعُونَ ﴾
 
 ***“Did you suppose that We created you aimlessly, and that you will not
 be brought back to Us?”***[^16]
@@ -368,12 +356,8 @@ power and wisdom has no doubt about the soundness of the *proof of
 general* *guidance*. Is there any doubt about a principle which the
 Qur’an explicitly affirms?
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا قَدَرُواْ اللّهَ حَقَّ قَدْرِهِ إِذْ قَالُواْ مَا أَنزَلَ
-اللّهُ عَلَى بَشَرٍ مِّن شَيْءٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا قَدَرُواْ اللّهَ حَقَّ قَدْرِهِ إِذْ قَالُواْ مَا أَنزَلَ
+> اللّهُ عَلَى بَشَرٍ مِّن شَيْءٍ ﴾
 
 ***“They did not regard Allah with the regard due to Him when they said,
 ‘Allah has not sent down anything to any human’.”***[^17]
@@ -393,13 +377,9 @@ the human being is an animal that has a precious gem within. In
 appearance, the human being resembles other animals, but in addition he
 has a divine spirit that bears a heavy burden of trust:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن
-صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ ٭ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ
-فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ سَاجِدِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذْ قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن
+> صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ ٭ فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ
+> فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ سَاجِدِينَ ﴾
 
 ***“When your Lord said to the angels, ‘Indeed I am going to create a
 human out of dry clay [drawn] from an aging mud. So when I have
@@ -491,15 +471,11 @@ prophets (*‘a*) can reform man, send him back to his original nature
 which is God’s spirit, and make him immortal by the grace and mercy of
 God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
-وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ ٭
-وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ
-الْحَكِيمُ ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ
+> وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ ٭
+> وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ
+> الْحَكِيمُ ﴾
 
 ***“It is He who sent to the unlettered [people] an apostle from among
 themselves, to recite to them His signs, to purify them, and to teach
@@ -536,17 +512,13 @@ are none other than the prophets (*‘a*).”[^25]
 
 b. In Sermon 1 of *Nahj al-Balāghah*,[^26] Imām ‘Alī (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-فَبَعَثَ فِيهمْ رُسُلَهُ، وَوَاتَرَ إِلَيْهِمْ أَنْبِياءَهُ،
-لِيَسْتَأْدُوهُمْ مِيثَاقَ فِطْرَتِهِ، وَيُذَكِّرُوهُمْ مَنْسِيَّ
-نِعْمَتِهِ، وَيَحْتَجُّوا عَلَيْهِمْ بَالتَّبْلِيغِ، وَيُثِيرُوا
-لَهُمْ دَفَائِنَ الْعُقُولِ، وَيُرُوهُمْ آيَاتِ الْمَقْدِرَةِ: مِنْ
-سَقْف فَوْقَهُمْ مَرْفُوع، وَمِهَاد تَحْتَهُمْ مَوْضُوع، وَمَعَايِشَ
-تُحْيِيهِمْ، وَآجَال تُفْنِيهمْ، وَأَوْصَاب تُهْرِمُهُمْ، وَأَحْدَاث
-تَتَابَعُ عَلَيْهِمْ.
-  </p>
-</blockquote>
+> فَبَعَثَ فِيهمْ رُسُلَهُ، وَوَاتَرَ إِلَيْهِمْ أَنْبِياءَهُ،
+> لِيَسْتَأْدُوهُمْ مِيثَاقَ فِطْرَتِهِ، وَيُذَكِّرُوهُمْ مَنْسِيَّ
+> نِعْمَتِهِ، وَيَحْتَجُّوا عَلَيْهِمْ بَالتَّبْلِيغِ، وَيُثِيرُوا
+> لَهُمْ دَفَائِنَ الْعُقُولِ، وَيُرُوهُمْ آيَاتِ الْمَقْدِرَةِ: مِنْ
+> سَقْف فَوْقَهُمْ مَرْفُوع، وَمِهَاد تَحْتَهُمْ مَوْضُوع، وَمَعَايِشَ
+> تُحْيِيهِمْ، وَآجَال تُفْنِيهمْ، وَأَوْصَاب تُهْرِمُهُمْ، وَأَحْدَاث
+> تَتَابَعُ عَلَيْهِمْ.
 
 “Then Allah sent His Messengers and a series of His prophets towards
 them to get them to fulfill the pledges of His creation, to recall to
@@ -577,11 +549,7 @@ Meanwhile, it is also by the hint of reason that revelation is welcomed,
 and it is in the hearts of those who apply reason that the tree of
 revelation bears fruit:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاء ﴾
 
 ***“Only those of Allah’s servants having knowledge fear Him.”***[^28]
 
@@ -817,5 +785,4 @@ the worlds of science and religion. [Trans.]
 in-depth discussion on the meaning of “necessity” with respect to God,
 see Sayyid Muḥammad Ḥusayn Ṭabāṭabā’ī, Al-Mīzān fī Tafsīr al-Qur’ān,
 vol. 14, p. 94.
-
 

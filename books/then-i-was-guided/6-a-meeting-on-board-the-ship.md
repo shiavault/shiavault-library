@@ -197,4 +197,3 @@ As soon as we got to Damascus we went to the Iraqi Embassy there and
 obtained a visa at incredible speed. When we left the Embassy he
 congratulated me, and we thanked Allah for His help.
 
-

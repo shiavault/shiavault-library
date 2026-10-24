@@ -1021,4 +1021,3 @@ Abdullah Ibn Saba p. 117)
 
 [^58]: Al-Tabari his History part 4 p. 341 (Events of 35th year A.H.).
 
-

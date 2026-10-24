@@ -95,7 +95,6 @@ Islam and transit himself with a comfortable conviction. He will be a
 contented man with his priorities right whatever the reality on the
 ground may confront him.
 
-
 **26- The Child's "Books & Buddies"**
 
 A parent on meeting his next door neighbour, also a parent, in a
@@ -194,5 +193,4 @@ What is more important is for the child to be made aware of the
 "temporary" phase of the temptation for the adventurism which is
 attendant with the risks of the child acquiring certain "permanent"
 addictions in result.
-
 

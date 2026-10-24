@@ -20,7 +20,6 @@ verse says:
 " Besides Him,(I am quit of everything you worship), therefore,
 scheme(your worst)against me, all together, and give me no respite. "
 
-
 **Commentary : Verse 56**
 
 (56) إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَ رَبِّكُمْ ما مِنْ
@@ -50,7 +49,6 @@ Verily my Lord is on a Straight Path. "
 One can speak of Divine anger and the Divine system of justice being at
 work when the issue involved is the enmity and obstinacy of the idol
 worshippers, so that they may be transformed and become believers.
-
 
 **Commentary : Verse 57**
 
@@ -96,7 +94,6 @@ command. The verse says:
 
 "... Verily my Lord is Guardian over everything. "
 
-
 **Commentary : Verse 58**
 
 (58) وَ لَمَّا جاءَ أَمْرُنا نَجَّيْنا هُوداً وَ الَّذينَ آمَنُوا
@@ -122,7 +119,6 @@ supporting them is also necessary.
 
 We must also take note that the main source of all blessings is He, but
 His anger, estrangement and outrage have their roots in our conduct.
-
 
 **Commentary : Verse 59**
 
@@ -164,7 +160,6 @@ characteristics describe the profiles of despots and tyrants who, in
 every epoch, are noted for never lending their ears to the truth, and
 whenever they face an opponent they mercilessly torture and eradicate
 him.
-
 
 **Commentary : Verse 60**
 
@@ -212,5 +207,4 @@ with Allah's anger which was manifested in the form of furious, burning
 storms. The people of 'Ad consisted of two groups; the first 'Ad and the
 second 'Ad. The latter used to live in Ahqaf(a region in the Hijaz)or in
 the Yemen until seven hundred B. C.
-
 

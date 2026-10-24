@@ -1,29 +1,21 @@
 Right n. 48: The Right of Him Who Wrongs You
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-حق من ساءك
-  </p>
-</blockquote>
+> حق من ساءك
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ مَنْ سَاءَكَ القَضَاءُ عَلَى يَدَيهِ بقَوْلٍ أَوْ فِعْلٍ
-فَإنْ كَانَ تَعَمَّدَهَا كَانَ العَفْوُ أَوْلَى بكَ لِمَا فِيهِ لَهُ
-مِن القَمْعِ وَحُسْنَ الأَدَب مَعَ كَثِيرِ أَمْثالِهِ مِنَ الخَلْقِ،
-فإنَّ اللهَ يَقُولُ [وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُولئِكَ مَا
-عَلَيْهِمْ مِنْ سَبيلٍٍ. إنمَّا السّبيلُ عَلى الَّذين يظْلِمونَ
-النَّاسَ ويَبغونَ في الأرْضِ بغَيرِ الحَقِّ، أُولئِكَ لهُم عَذابٌ
-أليِمٌ. وَلمَنْ صَبَرَ وَغَفَرَ إنَّ ذلِكَ لََمِنْ عَزْمِ الأُمُورِ]
-وَقَالَ عَزَّ وَجَلَّ [وَإنْ عَاقَبْتُمْ فَعَاقِبُوا بمِثلِ مَا
-عُوقِبتُمْ به وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابرِينَ] هَذا
-فِي الْعَمْدِ فَإنْ لَمْ يَكُنْ عَمْدًا لَمْ تَظْلِمْهُ بتَعَمُّدِ
-الانتِصَارِ مِنْهُ فَتَكُونَ قَدْ كَافَأتَهُ فِي تَعَمُّدٍ عَلَى
-خَطَأٍ. وَرَفِقْتَ بهِ وَرَدَدتَهُ بأَلْطَفِ مَا تقْدِرُ عَلَيْهِ. ولا
-قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ مَنْ سَاءَكَ القَضَاءُ عَلَى يَدَيهِ بقَوْلٍ أَوْ فِعْلٍ
+> فَإنْ كَانَ تَعَمَّدَهَا كَانَ العَفْوُ أَوْلَى بكَ لِمَا فِيهِ لَهُ
+> مِن القَمْعِ وَحُسْنَ الأَدَب مَعَ كَثِيرِ أَمْثالِهِ مِنَ الخَلْقِ،
+> فإنَّ اللهَ يَقُولُ [وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُولئِكَ مَا
+> عَلَيْهِمْ مِنْ سَبيلٍٍ. إنمَّا السّبيلُ عَلى الَّذين يظْلِمونَ
+> النَّاسَ ويَبغونَ في الأرْضِ بغَيرِ الحَقِّ، أُولئِكَ لهُم عَذابٌ
+> أليِمٌ. وَلمَنْ صَبَرَ وَغَفَرَ إنَّ ذلِكَ لََمِنْ عَزْمِ الأُمُورِ]
+> وَقَالَ عَزَّ وَجَلَّ [وَإنْ عَاقَبْتُمْ فَعَاقِبُوا بمِثلِ مَا
+> عُوقِبتُمْ به وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابرِينَ] هَذا
+> فِي الْعَمْدِ فَإنْ لَمْ يَكُنْ عَمْدًا لَمْ تَظْلِمْهُ بتَعَمُّدِ
+> الانتِصَارِ مِنْهُ فَتَكُونَ قَدْ كَافَأتَهُ فِي تَعَمُّدٍ عَلَى
+> خَطَأٍ. وَرَفِقْتَ بهِ وَرَدَدتَهُ بأَلْطَفِ مَا تقْدِرُ عَلَيْهِ. ولا
+> قُوَّةَ إلا باللهِ.
 
 **And the right of him who wrongs you**[^1] **is to put an end to the
 matter by word or deed. If he did it intentionally, it is more
@@ -86,11 +78,7 @@ Seeking Help from the Believers
 Seeking help from other believers is one of the signs of believers. The
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ
 
 ***“And those who, when an oppressive wrong is inflicted on them, (are
 not cowed but) help and defend themselves.” [The Holy Qur’an, al-Shura
@@ -102,11 +90,7 @@ oppressed and other believers are responsible to help defend against the
 oppressor. This is also stated in the following verse of the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنِ اسْتَنصَرُوكُمْ فِي الدِّينِ فَعَلَيْكُمُ النَّصْرُ
-  </p>
-</blockquote>
+> وَإِنِ اسْتَنصَرُوكُمْ فِي الدِّينِ فَعَلَيْكُمُ النَّصْرُ
 
 ***“… But if they seek your aid in religion, it is your duty to help
 them.” [The Holy Qur’an, al-Anfal 8:72]***
@@ -117,12 +101,8 @@ that other believers will not sit idle if a believer is oppressed. In
 another verse, the response to injuries is clearly stated to be an equal
 injury:
 
-<blockquote dir="rtl">
-  <p>
-وَجَزَاء سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ
-فَأَجْرُهُ عَلَى اللَّهِ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَجَزَاء سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ
+> فَأَجْرُهُ عَلَى اللَّهِ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ
 
 ***“The recompense for an injury is an injury equal thereto (in degree):
 but if a person forgives and makes reconciliation, his reward is due
@@ -134,14 +114,10 @@ recompense is an equal injury and is considered a bad deed even though
 the original injury is a bad deed. We also read in another verse of the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الشَّهْرُ الْحَرَامُ بِالشَّهْرِ الْحَرَامِ وَالْحُرُمَاتُ قِصَاصٌ
-فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُواْ عَلَيْهِ بِمِثْلِ مَا اعْتَدَى
-عَلَيْكُمْ وَاتَّقُواْ اللّهَ وَاعْلَمُواْ أَنَّ اللّهَ مَعَ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> الشَّهْرُ الْحَرَامُ بِالشَّهْرِ الْحَرَامِ وَالْحُرُمَاتُ قِصَاصٌ
+> فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُواْ عَلَيْهِ بِمِثْلِ مَا اعْتَدَى
+> عَلَيْكُمْ وَاتَّقُواْ اللّهَ وَاعْلَمُواْ أَنَّ اللّهَ مَعَ
+> الْمُتَّقِينَ
 
 ***“The prohibited month for the prohibited month, - and so for all
 things prohibited, - there is the law of equality. If then anyone
@@ -151,12 +127,8 @@ themselves.” [The Holy Qur’an, al-Baqarah 2:194]***
 
 It is also not wrong to seek help or help defend others as we read:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُوْلَئِكَ مَا عَلَيْهِم مِّن
-سَبِيلٍ
-  </p>
-</blockquote>
+> وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُوْلَئِكَ مَا عَلَيْهِم مِّن
+> سَبِيلٍ
 
 ***“But indeed if any do help and defend themselves after a wrong (done)
 to them, against such there is no cause of blame.” [The Holy Qur’an,
@@ -167,11 +139,7 @@ Forgiving: a Better Way
 
 Imam Sajjad cited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
-  </p>
-</blockquote>
+> وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
 
 ***“But indeed if any show patience and forgive, that would truly be an
 exercise of courageous will and resolution in the conduct of affairs.”
@@ -179,12 +147,8 @@ exercise of courageous will and resolution in the conduct of affairs.”
 
 He also cited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ عَاقَبْتُمْ فَعَاقِبُواْ بِمِثْلِ مَا عُوقِبْتُم بِهِ وَلَئِن
-صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرينَ
-  </p>
-</blockquote>
+> وَإِنْ عَاقَبْتُمْ فَعَاقِبُواْ بِمِثْلِ مَا عُوقِبْتُم بِهِ وَلَئِن
+> صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرينَ
 
 ***“And if ye do catch them out, catch them out no worse than they catch
 you out: But if ye show patience, that is indeed the best (course) for
@@ -194,12 +158,8 @@ In some traditions, it is stated that this verse was revealed in the
 Battle of Uhud when the Prophet of God saw the body of his noble uncle,
 the Blessed Hamzeh, torn into pieces. He got upset and said:
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ لَكَ الحَمْدُ وإلَيكَ المُشتَكى وَأنتَ المُستَعانُ عَلى ما
-أرى.
-  </p>
-</blockquote>
+> اللّهُمَّ لَكَ الحَمْدُ وإلَيكَ المُشتَكى وَأنتَ المُستَعانُ عَلى ما
+> أرى.
 
 *“O God! Praise is for you. I bring my complaint to You, and seek Your
 help regarding what I see.”*
@@ -213,14 +173,10 @@ The Difference between Forgiving and Overlooking
 We read the following verse in the Holy Qur’an regarding forgiving and
 overlooking:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَأْتَلِ أُوْلُوا الْفَضْلِ مِنكُمْ وَالسَّعَةِ أَن يُؤْتُوا
-أُوْلِي الْقُرْبَى وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ
-اللَّهِ وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ
-اللَّهُ لَكُمْ وَاللَّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَلَا يَأْتَلِ أُوْلُوا الْفَضْلِ مِنكُمْ وَالسَّعَةِ أَن يُؤْتُوا
+> أُوْلِي الْقُرْبَى وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ
+> اللَّهِ وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَن يَغْفِرَ
+> اللَّهُ لَكُمْ وَاللَّهُ غَفُورٌ رَّحِيمٌ
 
 ***“Let not those among you who are endowed with grace and amplitude of
 means resolve by oath against helping their kinsmen, those in want, and
@@ -243,20 +199,12 @@ teach those who engage in an evil deed. Therefore, this kind of response
 to an evil deed is considered the best way to end animosities. We read
 in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
-أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
-وَلِيٌّ حَمِيمٌ
-  </p>
-</blockquote>
+> وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ادْفَعْ بِالَّتِي هِيَ
+> أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ
+> وَلِيٌّ حَمِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
-ذُو حَظٍّ عَظِيمٍ
-  </p>
-</blockquote>
+> وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا
+> ذُو حَظٍّ عَظِيمٍ
 
 ***“Nor can goodness and Evil be equal. Repel (Evil) with what is
 better: Then will he between whom and thee was hatred become as it were
@@ -296,13 +244,9 @@ This point has been clarified in the Holy Qur’an in the story of the
 Blessed Joseph and his wrongdoing brothers. When they went to Egypt for
 the third time and they got to know their brother Joseph:
 
-<blockquote dir="rtl">
-  <p>
-قَالُواْ أَإِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَاْ يُوسُفُ وَهَـذَا أَخِي
-قَدْ مَنَّ اللّهُ عَلَيْنَا إِنَّهُ مَن يَتَّقِ وَيِصْبِرْ فَإِنَّ
-اللّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> قَالُواْ أَإِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَاْ يُوسُفُ وَهَـذَا أَخِي
+> قَدْ مَنَّ اللّهُ عَلَيْنَا إِنَّهُ مَن يَتَّقِ وَيِصْبِرْ فَإِنَّ
+> اللّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ
 
 ***“They said: "Art thou indeed Joseph?" He said, "I am Joseph, and this
 is my brother. God has indeed been gracious to us (all): behold, he that
@@ -314,12 +258,8 @@ deserved. They acknowledged their wrong deeds and accepted that they
 deserved to be punished, but asked Joseph to forgive them. Joseph
 replied:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لاَ تَثْرَيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللّهُ لَكُمْ وَهُوَ
-أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> قَالَ لاَ تَثْرَيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللّهُ لَكُمْ وَهُوَ
+> أَرْحَمُ الرَّاحِمِينَ
 
 ***“He said: "This day let no reproach be (cast) on you: God will
 forgive you, and He is the Most Merciful of those who show mercy!” [The
@@ -335,12 +275,8 @@ The Prophet Muhammad conquered Mecca in the 8th year after his
 immigration to Medina. He entered the city and went to the Masjid
 ul-Haram (The Haram Mosque). He recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ جَاء الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ
-زَهُوقًا
-  </p>
-</blockquote>
+> وَقُلْ جَاء الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ
+> زَهُوقًا
 
 ***“And say: "Truth has (now) arrived, and Falsehood perished: for
 Falsehood is (by its nature) bound to perish." [The Holy Qur’an, Bani
@@ -360,11 +296,7 @@ all, did not do so. He only punished a few who had committed major
 crimes, and forgave all others.”[^3]  
  Imam Ali ibn Abi Talib said:
 
-<blockquote dir="rtl">
-  <p>
-عِندَ كَمالِ القُدرَةِ تَظْهَرُ فَضيلَةُ العَفْوِ.
-  </p>
-</blockquote>
+> عِندَ كَمالِ القُدرَةِ تَظْهَرُ فَضيلَةُ العَفْوِ.
 
 *“The nobility and true value of forgiving will be demonstrated when in
 total power.”*[^4]
@@ -373,22 +305,14 @@ This emphasizes the fact that true forgiving is limited to cases where
 one has the power to take revenge. One who does not have any power has
 no choice but to forgive. He also said:
 
-<blockquote dir="rtl">
-  <p>
-أحْسَنُ العَفْوِ ما كانَ عَن قُدرَةٍ.
-  </p>
-</blockquote>
+> أحْسَنُ العَفْوِ ما كانَ عَن قُدرَةٍ.
 
 *“The best form of forgiving is one rooted in power.”* [^5]
 
 He also said in *Nahjul Balaghah*:
 
-<blockquote dir="rtl">
-  <p>
-إذَا قَدَرتَ عَلى عَدُوِّكَ فاجْعَلِ العَفْوَ عَنْهُ شُكراً
-لِقُدرَتِكَ عَليهِ.
-  </p>
-</blockquote>
+> إذَا قَدَرتَ عَلى عَدُوِّكَ فاجْعَلِ العَفْوَ عَنْهُ شُكراً
+> لِقُدرَتِكَ عَليهِ.
 
 *“Once you overcome your enemy, make your forgiveness of him a way of
 being grateful to God for your victory over him.”*[^6]
@@ -411,5 +335,4 @@ there is no way’”. [Shura,, 42:41]
 [^5]: Ibid. v.2, p.435.
 
 [^6]: Nahjul Balaghah, Subhi Salih, Hikmat no.11.
-
 

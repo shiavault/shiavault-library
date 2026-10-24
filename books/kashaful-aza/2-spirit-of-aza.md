@@ -33,7 +33,6 @@ This is not aza. This is human nature. This is why it has been said; a
 momin cries when he listens to fazail(attributes) and at the remembrance
 of masaib(sufferings).
 
-
 **Customs of Aza**
 
 Customs of aza are of extreme importance and absolutely compulsory.
@@ -149,5 +148,4 @@ of Imam Hussain (as)." Abu Haroon said, "When I recited marsya after
 having recited souz, Imam (as) shed a great many tears and asked me to
 recite more. Even the family of Imam (as) who were sitting behind the
 veil shed a great many tears. "
-
 

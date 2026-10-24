@@ -76,4 +76,3 @@ Poetry of Ernesto Cardenal: A Contemporary Voice for an Ancient People*
 (McFarland, 2010). He is currently collaborating with Dr. Morrow on
 various projects.
 
-

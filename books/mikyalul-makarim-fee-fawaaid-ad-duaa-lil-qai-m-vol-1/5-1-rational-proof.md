@@ -164,4 +164,3 @@ Allah wills.
 
 [^4]: Usul al-Kafi; Muhammad bin Yaqoob Kulaini; Vol. 2/249
 
-

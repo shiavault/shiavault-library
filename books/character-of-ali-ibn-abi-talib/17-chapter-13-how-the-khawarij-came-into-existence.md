@@ -302,4 +302,3 @@ the lands knowing that they would be killed and their blood would be
 wasted, and knowing that no useful result would come out of their
 uprising.
 
-

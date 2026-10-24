@@ -1,12 +1,8 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-الحَمْدُ للهِ رَبِّ العَالَمِينَ وَالصَّلاةُ عَلَى مُحَمَّدٍ وَآلِهِ
-أَجْمَعِينَ وَلَعْنَةُ اللهِ عَلَى أَعْدَائِهِمْ إِلى يَوْمِ الدِّينِ.
-  </p>
-</blockquote>
+> الحَمْدُ للهِ رَبِّ العَالَمِينَ وَالصَّلاةُ عَلَى مُحَمَّدٍ وَآلِهِ
+> أَجْمَعِينَ وَلَعْنَةُ اللهِ عَلَى أَعْدَائِهِمْ إِلى يَوْمِ الدِّينِ.
 
 Lord! Grant brightness of sincerity to the mirror of the heart, Cleanse
 the rust of hypocrisy from the tablet of the heart, and show the path of
@@ -34,16 +30,11 @@ people. I chose to write them in Persian, so that the Persian knowing
 people may also be benefited from them. God willing, this compilation
 would be an attempt to serve the command of the Prophet (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ عَلَى أُمَّتِي أَرْبَعِينَ حَدِيثاً يَنْتَفِعُونَ بِهَا
-بَعَثَهُ اللهُ يَوْمَ القِيَامَةِ فَقِيهاً عَالِماً.
-  </p>
-</blockquote>
+> مَنْ حَفِظَ عَلَى أُمَّتِي أَرْبَعِينَ حَدِيثاً يَنْتَفِعُونَ بِهَا
+> بَعَثَهُ اللهُ يَوْمَ القِيَامَةِ فَقِيهاً عَالِماً.
 
 From among my followers, one who shall preserve and protect my forty
 ahadith, so that my people may be benefited from them, God Almighty will
 treat him on the Day of Resurrection with great men of wisdom and
 learning (jurisprudence).
-
 

@@ -339,4 +339,3 @@ the unabridged version some of his elegies on Abu Abdillah al–Husayn
 (‘a) and presented the biographies of the aforementioned poets as well
 as that of other Shi'ah poets.
 
-

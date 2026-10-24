@@ -141,4 +141,3 @@ the world. The youths are subjected to dangers on account of misusing of
 science, publication of immorality and exploiting unfairly the people of
 the backward countries by some irreligious and Mammonish groups.
 
-

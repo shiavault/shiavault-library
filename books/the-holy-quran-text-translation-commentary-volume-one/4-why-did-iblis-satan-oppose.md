@@ -576,7 +576,6 @@ GUIDED ARIGHT.
 فَاقْتُلُواْ أَنفُسَكُمْ ذَ لِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ
 فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ(( 54 ))
 
-
 **THE COMMENTARY
 ISRAELITE'S GREATEST DEVIATION. (VERSE NO. 51)**
 
@@ -610,5 +609,4 @@ turn in repentance to your creator, and slay one another! that will be
 better for you in the sight of your creator. And after that incident
 Allah turned towards you in forgiveness, for HE is Oft,returning, Most
 Merciful.''
-
 

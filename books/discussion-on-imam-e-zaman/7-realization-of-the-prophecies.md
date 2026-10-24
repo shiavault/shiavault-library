@@ -160,7 +160,6 @@ I took the infant to his father. He put his tongue in his mouth and
 laying him in his lap, he ordered, ‘Son, talk, by the permission of
 Allah.’ At once, the infant began reciting,
 
-<p dir="rtl">
 أعوذ بِاللّه السميع الع.ليم مِن الشّيطان الرّجيم. بِسم اللّه الرُّحمن
 الرُّحيم. و نُريد أن نَم.نُّ علي » الّذين استُضعِفوا فِي الاَرض و
 نَجعلهم أئمه و نجعلهم الوارثين. و نُمكِنُّ لَه.م فِي الارض و نُري. فرعون
@@ -168,7 +167,6 @@ Allah.’ At once, the infant began reciting,
 و علي. المرتضي و فاطمه الزهرا و الحسن و الحسين و علي بن الحسين و محمد بن
 علي و جعفر بن محمد و موسي بن .« جعفر و علي بن موسي و محمد بن علي و علي
 بن محمد و الحسن بن علي أبي
-</p>
 
 ‘I seek refuge in Allah, the All-Hearing, and the All-Seeing from the
 accursed Shaitan. In the Name of Allah, the Beneficent, the Merciful.
@@ -194,9 +192,7 @@ know not.’
 I returned the child to his mother. He was very clean, pure and
 unblemished. On his right shoulder, it was inscribed,
 
-<p dir="rtl">
 .« جاء. الحق و ز.هق الباطِل إنُّ الباطِل كانُ زهوقاً »
-</p>
 
 ‘Truth has come and falsehood vanished. Surely, falsehood was bound to
 vanish.26’
@@ -220,5 +216,4 @@ the mid-wife or the nurse. The question of witnesses or testimony does
 not arise. Moreover, traditions other than that of Hakeemah Khatoon have
 been narrated regarding the birth of Hazrat Mahdi (a.t.f.s.). For
 details
-
 

@@ -153,4 +153,3 @@ all-knowing and one who saves from deviation.
 
 [^5]: Biharul Anwar, Vol. 36, Pg. 399, Chapter 46, Tr. No. 9
 
-

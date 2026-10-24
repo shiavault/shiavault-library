@@ -54,4 +54,3 @@ infallibility of the prophets.
 [^1]: Ibn Hajar al-Makki, as-Sawa'iqu 'l-Muhriqah, chapter 11, section
 1.
 
-

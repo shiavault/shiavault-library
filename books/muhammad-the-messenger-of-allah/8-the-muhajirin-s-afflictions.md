@@ -81,4 +81,3 @@ God willing, we will shed light on the movement of Islam step by step.
 
 Praise is due to Allah, the Lord of the worlds.
 
-

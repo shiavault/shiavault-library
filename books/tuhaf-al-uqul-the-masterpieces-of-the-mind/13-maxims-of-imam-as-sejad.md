@@ -1245,4 +1245,3 @@ has regarded the acknowledgement of His favors as praise. All praise be
 to Him Who has regarded the acknowledgement of the failure to thank Him
 properly as showing him gratitude.
 
-

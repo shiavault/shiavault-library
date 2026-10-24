@@ -32,17 +32,9 @@ I. The age of Prophet (S) (nearly 8 years)
 Forty Traditions from Imam Hassan Mujtaba (as)
 ----------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً عن
-  </p>
-</blockquote>
+> اربعون حديثاً عن
 
-<blockquote dir="rtl">
-  <p>
-الامام الحسين عليه السلام
-  </p>
-</blockquote>
+> الامام الحسين عليه السلام
 
 1. Praise & Eulogy is for Allah who hears the conversation of who so
 ever talks and if he remains silent (then) He knows whatever is there in
@@ -328,11 +320,7 @@ magnanimity & that one who does not possess shame & modesty, does not
 have religion. [^29]
 
 > 30- لا اَدَبَ لِمَن لا عَقلَ لَهُ، وَلا مُرُوَّةَ لِمَن لا هِمَّةَ
-<blockquote dir="rtl">
-  <p>
-لَهُ وَلا حَياءَ لِمَن لا دِينَ لَهُ.
-  </p>
-</blockquote>
+> لَهُ وَلا حَياءَ لِمَن لا دِينَ لَهُ.
 
 > (کشف الغمة ( (طبع بيروت))ج2 ص197)
 
@@ -500,5 +488,4 @@ ones. [^39]
 [^38]: Bihar ul-Anwar Vol. 78, P 109
 
 [^39]: Tuhaf al-Uqul P 232
-
 

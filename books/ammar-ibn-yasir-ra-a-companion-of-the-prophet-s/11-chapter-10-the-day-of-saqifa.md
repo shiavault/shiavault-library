@@ -2317,4 +2317,3 @@ further details, refer "Abu Dharr", Islamic Seminary Publications, 1984
 also available on line at:
 http://www.al-islam.org/abu-dharr-the-great-companion-of-the-prophet ).
 
-

@@ -6,15 +6,11 @@ the purity of heart and have attained proximity to God) to be the guests
 of Allāh (SwT).  In his *Futūhāt al-Makkiyyah* he says:  
   
 
-<blockquote dir="rtl">
-  <p>
-ألصوفية أضياف الله، فإِنهم سافروا من حظوظ أنفسهم وجميع الاكـوان
-إيثاراً للجناب الإلهي، فنـزلوا به، فلا يعملون عملاً إلا بإذن من نزلوا
-عليه، وهو الله، فلا يتصرفون ولا يسكنون ولا يتحركون إلا عن أمر إلهي،
-ومن ليست هذه صفته فهو في الطريق يمشي يقطع مناهل نفسه حتى يصل إلى ربه،
-فحينئذ يـكون ضيفاً...
-  </p>
-</blockquote>
+> ألصوفية أضياف الله، فإِنهم سافروا من حظوظ أنفسهم وجميع الاكـوان
+> إيثاراً للجناب الإلهي، فنـزلوا به، فلا يعملون عملاً إلا بإذن من نزلوا
+> عليه، وهو الله، فلا يتصرفون ولا يسكنون ولا يتحركون إلا عن أمر إلهي،
+> ومن ليست هذه صفته فهو في الطريق يمشي يقطع مناهل نفسه حتى يصل إلى ربه،
+> فحينئذ يـكون ضيفاً...
 
 “‘The mystics (*al-sūfiyyah*) are guests of Allāh, for they journeyed
 from the pleasures of their lower self and everything in sacrifice for
@@ -27,5 +23,4 @@ walking on the way, crossing the springs of his self until he reaches
 his Lord, and then it is when he is a guest…’”[^1]
 
 [^1]: al-Futūhāt al-Makkiyyah, vol. 9, pg. 416.
-
 

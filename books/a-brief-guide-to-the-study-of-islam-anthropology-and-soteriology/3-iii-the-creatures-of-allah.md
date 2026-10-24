@@ -51,4 +51,3 @@ and defines the roles of many of the angels, and Islamic theological
 tradition, not to mention folklore, has a highly developed and complex
 angelology.
 
-

@@ -3,17 +3,9 @@ Sermon 13: You are a woman's army ...
 
 *Condemning the people of Basrah [after the battle of Jamal]*[^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في ذم البصرة وأهلها [بعد وقعة الجمل]
-  </p>
-</blockquote>
+> في ذم البصرة وأهلها [بعد وقعة الجمل]
 
 You were the army of a woman and in the command of a quadruped. When it
 grumbled you responded, and when it was wounded (hamstrung) you fled
@@ -24,17 +16,13 @@ see your mosque prominent, resembling the surface of a boat, while Allah
 has sent chastisement from above and from below it and everyone who is
 on it is drowned.[^2]
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُمْ جُنْدَ الْمَرْأَةِ، وَأَتْبَاعَ البَهِيمَةِ رَغَافَأَجَبْتُم،
-وَعُقِرَفَهَرَبْتُمْ. أَخْلاَقُكُمْ دِقَاقٌ وَعَهْدُكُمْ شِقَاقٌ،
-وَدِيْنُكُمْ نِفَاقٌ، وَمَاؤُكُمْ زُعَاقٌ المُقِيمُ بَيْنَ
-أَظْهُرِكُمْ مُرْتَهَنٌ بِذَنْبِهِ، وَالشَّاخِصُ عَنْكُمْ مُتَدَارَكٌ
-بِرَحْمةٍ مِنْ رَبِّهِ. كَأَنِّي بِمَسْجِدكُمْ كَجُؤْجُؤِ سَفِينَةٍ
-قَدْ بَعَثَ اللهُ عَلَيْها العَذَابَ مِنْ فَوْقِها وَمِنْ تَحتِها،
-وَغَرِقَ مَنْ في ضِمْنِها
-  </p>
-</blockquote>
+> كُنْتُمْ جُنْدَ الْمَرْأَةِ، وَأَتْبَاعَ البَهِيمَةِ رَغَافَأَجَبْتُم،
+> وَعُقِرَفَهَرَبْتُمْ. أَخْلاَقُكُمْ دِقَاقٌ وَعَهْدُكُمْ شِقَاقٌ،
+> وَدِيْنُكُمْ نِفَاقٌ، وَمَاؤُكُمْ زُعَاقٌ المُقِيمُ بَيْنَ
+> أَظْهُرِكُمْ مُرْتَهَنٌ بِذَنْبِهِ، وَالشَّاخِصُ عَنْكُمْ مُتَدَارَكٌ
+> بِرَحْمةٍ مِنْ رَبِّهِ. كَأَنِّي بِمَسْجِدكُمْ كَجُؤْجُؤِ سَفِينَةٍ
+> قَدْ بَعَثَ اللهُ عَلَيْها العَذَابَ مِنْ فَوْقِها وَمِنْ تَحتِها،
+> وَغَرِقَ مَنْ في ضِمْنِها
 
 Another version
 ---------------
@@ -42,35 +30,19 @@ Another version
 By Allah, your city would certainly be drowned so much so that as though
 I see its mosque like the upper part of a boat or a sitting ostrich.
 
-<blockquote dir="rtl">
-  <p>
-وفي رواية:
-  </p>
-</blockquote>
+> وفي رواية:
 
-<blockquote dir="rtl">
-  <p>
-وَأيْمُ اللهِ لَتَغْرَقَنَّ بَلْدَتُكُمْ حَتَّى كَأَنِّي أَنْظُرُ إِلى
-مَسْجِدِهَا كَجُؤْجُؤِ سَفِينَةٍ، أَوْ نَعَامَةٍ جَاثِمَةٍ
-  </p>
-</blockquote>
+> وَأيْمُ اللهِ لَتَغْرَقَنَّ بَلْدَتُكُمْ حَتَّى كَأَنِّي أَنْظُرُ إِلى
+> مَسْجِدِهَا كَجُؤْجُؤِ سَفِينَةٍ، أَوْ نَعَامَةٍ جَاثِمَةٍ
 
 Another version
 ---------------
 
 Like the bosom of a bird in deep sea.
 
-<blockquote dir="rtl">
-  <p>
-وفي رواية أخرى:
-  </p>
-</blockquote>
+> وفي رواية أخرى:
 
-<blockquote dir="rtl">
-  <p>
-كَجُؤْجُؤِ طَيْرٍ في لُجَّةِ بَحْرٍ
-  </p>
-</blockquote>
+> كَجُؤْجُؤِ طَيْرٍ في لُجَّةِ بَحْرٍ
 
 Another version
 ---------------
@@ -83,20 +55,12 @@ habitation of yours that water has so engulfed it that nothing can be
 seen of it except the highest part of mosque appearing like the bosom of
 a bird in deep sea.
 
-<blockquote dir="rtl">
-  <p>
-و في رواية:
-  </p>
-</blockquote>
+> و في رواية:
 
-<blockquote dir="rtl">
-  <p>
-بلادكم أنتن بلاد الله تربةً: أقربها من الماء و أبعدها من السماء . و
-بها تسعة اعشار الشر، المحتَبَس فيها بِذنبِهِ ، و الخارج بِعفوِ اللهِ .
-كأنّي أنظر الى قريتكم هذه قد طبَّقَها الماء ، حتّى ما يرى منها الّا
-شُرُف المسجد ، كأنه جؤجؤ طير في لجة بحر.
-  </p>
-</blockquote>
+> بلادكم أنتن بلاد الله تربةً: أقربها من الماء و أبعدها من السماء . و
+> بها تسعة اعشار الشر، المحتَبَس فيها بِذنبِهِ ، و الخارج بِعفوِ اللهِ .
+> كأنّي أنظر الى قريتكم هذه قد طبَّقَها الماء ، حتّى ما يرى منها الّا
+> شُرُف المسجد ، كأنه جؤجؤ طير في لجة بحر.
 
 Alternative Sources for Sermon 13
 ---------------------------------
@@ -399,5 +363,4 @@ Bi’llah and once in the reign of al-Qa'im bi Amri'l-lah and the state of
 flooding was just this that while the whole city was under water but the
 top ends of the mosque were seen about the surface of the water and
 looked like a bird sitting on the side of its bosom.
-
 

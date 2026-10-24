@@ -103,4 +103,3 @@ whose hostility towards the Shi'is - like their enmity towards other
 Muslim sects in Baghdad - was greater than that of any other hostile
 group.
 
-

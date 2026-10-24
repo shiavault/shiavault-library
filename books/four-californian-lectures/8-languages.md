@@ -170,4 +170,3 @@ community. That feeling is not good either for the community or for the
 country. But the politicians and the powers seem to be oblivious to this
 danger. They are either unable or unwilling to control this situation.
 
-

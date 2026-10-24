@@ -482,4 +482,3 @@ thousand men, women and children.
 Saeed and al-Hajjaj died in the same year. Their story became a lesson
 for generations. History praises Saeed and dispraises al-Hajjaj!
 
-

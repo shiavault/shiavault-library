@@ -1,17 +1,9 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله رب العالمين و الصلاة و السلام على محمد و آله الطاهرين
-  </p>
-</blockquote>
+> الحمد لله رب العالمين و الصلاة و السلام على محمد و آله الطاهرين
 
 *In the name of Allah, the Beneficent, the Merciful.*
 
@@ -59,5 +51,4 @@ clothing of Muslim women.
 
 It is in this latter meaning —headdress as well as the overall clothing—
 that we have used the term “*hijab*” in this article.
-
 

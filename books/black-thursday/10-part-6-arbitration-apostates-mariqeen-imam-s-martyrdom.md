@@ -154,11 +154,7 @@ the ‘right hand of Muawiyah’. The father of Amr, Aas al-Sahmi, was one
 of those who mimicked the Prophet and regarding him the Almighty Allah
 has said in Surah Kauthar:
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّ شَانِئَكَ هُوَ الأَبْتَرُ.»
-  </p>
-</blockquote>
+> «إِنَّ شَانِئَكَ هُوَ الأَبْتَرُ.»
 
 Surely your enemy is the one who shall be without posterity.[^2]
 
@@ -511,5 +507,4 @@ Pg. 83
 [^10]: Dr. Taha Husayn, Al-Fitnah al-Kubra ‘‘Ali wa Banuh, Pg. 133
 
 [^11]: Al-Fitnah al-Kubra ‘‘Ali wa Banuh, Pg. 129
-
 

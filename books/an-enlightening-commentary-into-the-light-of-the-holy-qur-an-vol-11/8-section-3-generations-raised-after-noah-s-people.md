@@ -4,14 +4,10 @@ Section 3: Generations Raised After Noah’s People
 Surah al-Mu’minun - Verse 33
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَلاَُ مِن قَوْمِهِ الَّذِينَ كَفَرُوا وَكَذَّبُوا
-بِلِقَآءِ الاَخِرَةِ وَأَتْرَفْنَاهُمْ فِي الْحَيَاةِ الدُّنْيَا مَا
-هَذَآ إِلاَّ بَشَرٌ مّـِثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ
-وَيَشْرَبُ مِمَّا تَشْرَبُونَ
-  </p>
-</blockquote>
+> وَقَالَ الْمَلاَُ مِن قَوْمِهِ الَّذِينَ كَفَرُوا وَكَذَّبُوا
+> بِلِقَآءِ الاَخِرَةِ وَأَتْرَفْنَاهُمْ فِي الْحَيَاةِ الدُّنْيَا مَا
+> هَذَآ إِلاَّ بَشَرٌ مّـِثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ
+> وَيَشْرَبُ مِمَّا تَشْرَبُونَ
 
 ***33.“The chiefs of his people, who disbelieved and denied the meeting
 of the Hereafter, and whom We had given affluence in the life of the
@@ -64,24 +60,12 @@ Imam Ali (as) says:
 Surah al-Mu’minun - Verses 34-36
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ أَطَعْتُم بَشَراً مِثْلَكُمْ إِنَّكُمْ إِذاً لَخَاسِرُونَ
-  </p>
-</blockquote>
+> وَلَئِنْ أَطَعْتُم بَشَراً مِثْلَكُمْ إِنَّكُمْ إِذاً لَخَاسِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَاباً وَعِظَاماً
-أَنَّكُم مُخْرَجُونَ
-  </p>
-</blockquote>
+> أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَاباً وَعِظَاماً
+> أَنَّكُم مُخْرَجُونَ
 
-<blockquote dir="rtl">
-  <p>
-هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُون
-  </p>
-</blockquote>
+> هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُون
 
 ***34. “And if you obey a mortal like yourselves, verily then you will
 be losers.”***  
@@ -129,19 +113,11 @@ the Resurrection was a very remote possibility indeed.
 Surah al-Mu’minun - Verses 37-38
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هِيَ إِلاَّ حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ
-بِمَبْعُوثِينَ
-  </p>
-</blockquote>
+> إِنْ هِيَ إِلاَّ حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ
+> بِمَبْعُوثِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلاَّ رَجُلٌ افْتَرَي عَلَي اللَّهِ كَذِباً وَمَا نَحْنُ
-لَهُ بِمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلاَّ رَجُلٌ افْتَرَي عَلَي اللَّهِ كَذِباً وَمَا نَحْنُ
+> لَهُ بِمُؤْمِنِينَ
 
 ***37. “There is nothing but our life in this world: we die and we live,
 and we shall not be raised again”***  
@@ -184,24 +160,12 @@ unbelievers are called as supporters of Allah’s sanctuaries.
 Surah al-Mu’minun - Verses 39-41
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ انصُرْنِي بِمَا كَذَّبُونِ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ انصُرْنِي بِمَا كَذَّبُونِ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَادِمِينَ
-  </p>
-</blockquote>
+> قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَادِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَخَذَتْهُمُ الصَّيْحَةُ بِالْحَقّ‌ِ فَجَعَلْنَاهُمْ غُثَآءً
-فَبُعْداً لّـِلْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَاَخَذَتْهُمُ الصَّيْحَةُ بِالْحَقّ‌ِ فَجَعَلْنَاهُمْ غُثَآءً
+> فَبُعْداً لّـِلْقَوْمِ الظَّالِمِينَ
 
 ***39. “ (Their prophet) said: ‘My Lord! Help me against what they
 belie!’.”***  
@@ -469,17 +433,9 @@ course of history share the same characteristics and the same fate.
 Surah al-Mu’minun - Verses 42-43
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنشَأْنَا مِنْ بَعْدِهِمْ قُرُوناً ءَاخَرِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَنشَأْنَا مِنْ بَعْدِهِمْ قُرُوناً ءَاخَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-مَا تَسْبِقُ مِنْ اُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ
-  </p>
-</blockquote>
+> مَا تَسْبِقُ مِنْ اُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ
 
 ***42.“Then after them We brought forth other generations.”***  
 ***43. “No nation may outstrip its term, nor do they postpone (it).”***
@@ -532,13 +488,9 @@ This verse obviously refers to ‘the unavoidable kind of /’ajal/’.
 Surah al-Mu’minun - Verse 44
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا كُلَّ مَا جَآءَ اُمَّةً
-رَّسُولُهَا كَذَّبُوهُ فَاَتْبَعْنَا بَعْضَهُم بَعْضاً وَجَعَلْنَاهُمْ
-أَحَادِيثَ فَبُعْداً لِقَوْمٍ لاَّيُؤْمِنُونَ
-  </p>
-</blockquote>
+> ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا كُلَّ مَا جَآءَ اُمَّةً
+> رَّسُولُهَا كَذَّبُوهُ فَاَتْبَعْنَا بَعْضَهُم بَعْضاً وَجَعَلْنَاهُمْ
+> أَحَادِيثَ فَبُعْداً لِقَوْمٍ لاَّيُؤْمِنُونَ
 
 ***44. “Then We sent Our messengers one after another. Whenever there
 came unto a people their messenger, they belied him, so We caused some
@@ -613,18 +565,10 @@ absolute and encompasses all.
 Surah al-Mu’minun - Verses 45-46
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَرْسَلْنَا مُوسَي وَأَخَاهُ هَارُونَ بِاَيَاتِنَا وَسُلْطَانٍ
-مُبِينٍ
-  </p>
-</blockquote>
+> ثُمَّ أَرْسَلْنَا مُوسَي وَأَخَاهُ هَارُونَ بِاَيَاتِنَا وَسُلْطَانٍ
+> مُبِينٍ
 
-<blockquote dir="rtl">
-  <p>
-إِلَي فِرْعَوْنَ وَمَلَئِهِ فَاسْتَكْبَرُوا وَكَانُوا قَوْماً عَالِينَ
-  </p>
-</blockquote>
+> إِلَي فِرْعَوْنَ وَمَلَئِهِ فَاسْتَكْبَرُوا وَكَانُوا قَوْماً عَالِينَ
 
 ***45. “Then We sent Moses and his brother Aaron with Our signs and a
 manifest authority, ”***  
@@ -677,18 +621,10 @@ The verse concludes saying:
 Surah al-Mu’minun - Verses 47-48
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا
-عَابِدُونَ
-  </p>
-</blockquote>
+> فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا
+> عَابِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ
 
 ***47. “And they said: ‘Shall we believe in two humans like ourselves
 while their people are our slaves?’”***  
@@ -729,11 +665,7 @@ Divine education and training for the Children of Israel began.
 Surah al-Mu’minun - Verse 49
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ لَعَلَّهُمْ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ لَعَلَّهُمْ يَهْتَدُونَ
 
 ***49. “And certainly We gave Moses the Book, that they may be rightly
 guided.”***
@@ -761,12 +693,8 @@ Aaron, remained to represent him among the Children of Israel.
 Surah al-Mu’minun - Verse 50
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا ابْنَ مَرْيَمَ وَاُمَّهُ ءَايَةً وَءَاوَيْنَاهُمَآ إِلَي
-رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
-  </p>
-</blockquote>
+> وَجَعَلْنَا ابْنَ مَرْيَمَ وَاُمَّهُ ءَايَةً وَءَاوَيْنَاهُمَآ إِلَي
+> رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
 
 ***50. “And We made the son of Mary and his mother a Sign, and We
 sheltered them upon a height quiet, secure and watered by a stream.”***
@@ -870,5 +798,4 @@ relied it on his intelligence and talent.
 [^14]: It is a historic city of Lower Galilee, in northern Palestine. It
 is the largest Arab city in the country. In the New Testament Nazareth
 is associated with Jesus as his bodyhood
-
 

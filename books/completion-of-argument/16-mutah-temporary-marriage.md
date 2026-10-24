@@ -1863,4 +1863,3 @@ Qiyas, Pg. 77, Egypt
 
 [^89]: Surah Nisa 4:69
 
-

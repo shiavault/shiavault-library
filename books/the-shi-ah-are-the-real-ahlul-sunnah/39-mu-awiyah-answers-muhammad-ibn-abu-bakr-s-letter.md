@@ -330,4 +330,3 @@ Nahjul Balagha, Vol. 1, p. 284.
 
 [^3]: Arabic original of the loan word “caliph.”
 
-

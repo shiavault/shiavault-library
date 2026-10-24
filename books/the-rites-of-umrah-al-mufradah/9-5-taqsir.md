@@ -148,4 +148,3 @@ is the purpose of this expression? What is the duty of such person?
 **Answer:** The purpose is to perform hypocrisy in Taqsir, and his/her
 duty is to perform Taqsir with the intention of closeness to Allah.
 
-

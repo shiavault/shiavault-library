@@ -7,14 +7,9 @@ Garments
 for you, safer for your heart and more long-lasting on you.
 
 > 1ـ اِرْفَعْ ثَوبَكَ فَإنَّهُ أنْقى لَكَ، وأتْقى لِقَلْبِكَ، وأبْقى
-<blockquote dir="rtl">
-  <p>
-عَلَيكَ.
-  </p>
-</blockquote>
+> عَلَيكَ.
 
 2. Wear that which neither makes you famous nor degrades you.
 
 > 2ـ اِلْبَسْ ما لا تَشْتَهِرُ بِهِ ولا يُزْري بِكَ.
-
 

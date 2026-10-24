@@ -41,4 +41,3 @@ Questions
 3. What opinion will you form about a person who does not treat animals
 kindly?
 
-

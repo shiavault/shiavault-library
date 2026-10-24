@@ -33,4 +33,3 @@ addressee have changed and are not anymore the wives? Rather, they are
 other individuals that include males, whom Allah (SWT) is referring to
 in the purification verse.
 
-

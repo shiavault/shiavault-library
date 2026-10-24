@@ -1,11 +1,7 @@
 O Allāh, Facilitate the Payment of Every Indebted One
 =====================================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اقْضِ دَيْنَ كُلِّ مَدِيْنٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اقْضِ دَيْنَ كُلِّ مَدِيْنٍ
 
 The Comprehensive Meaning of ‘dayn’
 -----------------------------------
@@ -52,12 +48,8 @@ O God,
 
 2. The Holy Prophet (s) is reported to have said[^3]:
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكُمْ وَالدَّيْنَ! فَإِنَّهُ هَمٌّ بِاللَّيلِ، وَذُلٌّ
-بِالنَّهَارِ.
-  </p>
-</blockquote>
+> إِيَّاكُمْ وَالدَّيْنَ! فَإِنَّهُ هَمٌّ بِاللَّيلِ، وَذُلٌّ
+> بِالنَّهَارِ.
 
 “Beware of debt, for surely it causes grief during the night and
 humiliation during the day.”
@@ -68,24 +60,16 @@ are traditions worthy of contemplation:
 
 1. Imām Ja’far al-Sādiq (as) is reported[^4] to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّمَا رَجُلٌ أَتَىَ رَجُلاً فَاسْتَقْرَضَ مِنْهُ مَالاً وَفِي
-نِيَّتِهِ أَنْ لاَّ يُؤَدِّيَهُ، فَذٌلِكَ اللّصُّ الْعَادِّي.
-  </p>
-</blockquote>
+> أَيُّمَا رَجُلٌ أَتَىَ رَجُلاً فَاسْتَقْرَضَ مِنْهُ مَالاً وَفِي
+> نِيَّتِهِ أَنْ لاَّ يُؤَدِّيَهُ، فَذٌلِكَ اللّصُّ الْعَادِّي.
 
 “Whosoever comes to a person and takes some money as a loan from him
 while he has the intention of not paying him back is a common thief.”
 
 2. Imām Ja’far al-Sādiq (as) is reported[^5] to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ اسْتَدَانَ دَيْنًا فَلَمْ يَنْوِِ قَضاءَهُ، كَانَ بِمِنْزِلَةِ
-السَّارِقِ.
-  </p>
-</blockquote>
+> مَنْ اسْتَدَانَ دَيْنًا فَلَمْ يَنْوِِ قَضاءَهُ، كَانَ بِمِنْزِلَةِ
+> السَّارِقِ.
 
 “Whosoever takes a loan and has no intention to pay it back, is the same
 as a thief.”
@@ -100,25 +84,17 @@ follows:
 
 1. Imām ‘Alī (as) is reported to have said[^6]:
 
-<blockquote dir="rtl">
-  <p>
-كَثْرَةُ الدَّيْنِ تُصَيِّرُ الصَّادِقَ كَاذِبَاً، وَالْمُنْجِزَ
-مُخْلِفاً.
-  </p>
-</blockquote>
+> كَثْرَةُ الدَّيْنِ تُصَيِّرُ الصَّادِقَ كَاذِبَاً، وَالْمُنْجِزَ
+> مُخْلِفاً.
 
 “Excess of debt turns the truthful one into a liar and one who fulfills
 [his promises] to become unfaithful.”
 
 2. Imām Muhammad al-Bāqir (as) is reported[^7] to have said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ ذَنْبٍ يُكَفِّرُهُ القَتْلُ فِي سَبِيلِ اللٌّهِ إلاَّ الدَّيْنَ،
-لاَ كَفَّارَةَ لَهُ إِلاَّ أَدَاؤهُ، أَوْ يَقْضِي صَاحِبُهُ، أَوْ
-يَعْفُو الَّذِي لَهُ الحَقُّ.
-  </p>
-</blockquote>
+> كُلُّ ذَنْبٍ يُكَفِّرُهُ القَتْلُ فِي سَبِيلِ اللٌّهِ إلاَّ الدَّيْنَ،
+> لاَ كَفَّارَةَ لَهُ إِلاَّ أَدَاؤهُ، أَوْ يَقْضِي صَاحِبُهُ، أَوْ
+> يَعْفُو الَّذِي لَهُ الحَقُّ.
 
 “Martyrdom in Allāh’s way expiates every sin, save debt, for it has no
 compensation save its repayment, or payment by the inheritor
@@ -126,12 +102,8 @@ compensation save its repayment, or payment by the inheritor
 
 3. Imām Ja’far al-Sādiq (as) is reported to have said[^8]:
 
-<blockquote dir="rtl">
-  <p>
-خَفِّفُوْا الدَّيْنَ، فَإِنَّ فِي خِفَّةِ الدَّيْنِ زِيَادَةَ
-العُمُرِ.
-  </p>
-</blockquote>
+> خَفِّفُوْا الدَّيْنَ، فَإِنَّ فِي خِفَّةِ الدَّيْنِ زِيَادَةَ
+> العُمُرِ.
 
 “Lessen your debts, for surely in the reduction of your debts is the
 increment of life.”
@@ -194,12 +166,8 @@ Following are traditions worthy of reflection:
 
 1. Imām Ja’far al-Sādiq (as) is reported to have said[^9]:
 
-<blockquote dir="rtl">
-  <p>
-مَكْتُوْبٌ عَلَى بَابِ الْجَنَّةِ: إِنَّ الصَّدَّقَةَ بِالْعَشَرةِ،
-وَالْقَرْضُ الْوَاحِدُ بِثَمَانِيَةَ عَشرَة...
-  </p>
-</blockquote>
+> مَكْتُوْبٌ عَلَى بَابِ الْجَنَّةِ: إِنَّ الصَّدَّقَةَ بِالْعَشَرةِ،
+> وَالْقَرْضُ الْوَاحِدُ بِثَمَانِيَةَ عَشرَة...
 
 “The following has been written on the door of Paradise: Surely sadaqah
 equals ten times [reward], and one loan equals to eighteen times
@@ -207,13 +175,9 @@ equals ten times [reward], and one loan equals to eighteen times
 
 2. Imām Ja’far al-Sādiq (as) is reported to have said[^10]:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَقْرَضَ مُؤْمِنًا قَرْضاً يَنْظُرُ بِهِ مَيْسُوْرَهُ كَانَ
-مَـالُهُ فِيْ زَكَاةٍ، وَكَانَ هُوَ فِي صَلاةٍ مِنَ الْمَلائِكَةِ
-حَتَّى يُؤَدِّيَهُ.
-  </p>
-</blockquote>
+> مَنْ أَقْرَضَ مُؤْمِنًا قَرْضاً يَنْظُرُ بِهِ مَيْسُوْرَهُ كَانَ
+> مَـالُهُ فِيْ زَكَاةٍ، وَكَانَ هُوَ فِي صَلاةٍ مِنَ الْمَلائِكَةِ
+> حَتَّى يُؤَدِّيَهُ.
 
 “Whosoever gives a loan to a mu’min, expecting his ease thereby, his
 wealth would increase and the angels would invoke blessings on him until
@@ -236,12 +200,8 @@ and he (s) said:
 
 O ‘Alī say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَغْنِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَبِفَضْلِكَ عَمَّنْ
-سِوَاكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَغْنِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَبِفَضْلِكَ عَمَّنْ
+> سِوَاكَ.
 
 “O Allāh: Make me needless of that which you have made unlawful through
 that which you have made lawful, and [make me needless] of other than
@@ -341,31 +301,19 @@ relieves himself or herself from the same. The following sayings of Imām
 
 1. Imām ‘Alī (as) is reported to have said[^13]:
 
-<blockquote dir="rtl">
-  <p>
-الدَّيْنُ رِقٌّ، والْقَضاءُ عِتْقٌ.
-  </p>
-</blockquote>
+> الدَّيْنُ رِقٌّ، والْقَضاءُ عِتْقٌ.
 
 “Debt is slavery and payment is freedom.”
 
 2. Imām ‘Alī (as) is reported to have said[^14]:
 
-<blockquote dir="rtl">
-  <p>
-الدَّيْنُ أَحَدُ الرِّقَّيْنِ.
-  </p>
-</blockquote>
+> الدَّيْنُ أَحَدُ الرِّقَّيْنِ.
 
 “Debt is one of the two kinds of slavery.”
 
 3. The Holy Prophet (s) is reported to have said[^15]:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَزَالُ نَفْسُ الْمُؤْمِنِ مُعَلَّقَةً مَا كَانَ عَلَيْهِ دَيْنٌ.
-  </p>
-</blockquote>
+> لاَ تَزَالُ نَفْسُ الْمُؤْمِنِ مُعَلَّقَةً مَا كَانَ عَلَيْهِ دَيْنٌ.
 
 “The spirit of a believer remains suspended as long as he has a debt on
 him.”
@@ -382,12 +330,8 @@ following radiant tradition, *Salāt* is considered to be an extension of
 
 Imām Ja’far al-Sādiq (as) narrates[^16] Hadrat Luqmān as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَاءَ وَقْتُ الصَّلاَةِ فَلاَ تُؤَخِّرْهَا لِشَيءٍ: صَلِّهَا
-وَاسْتَرِحْ، فَإِنَّهَا دَيْنٌ.
-  </p>
-</blockquote>
+> إِذَا جَاءَ وَقْتُ الصَّلاَةِ فَلاَ تُؤَخِّرْهَا لِشَيءٍ: صَلِّهَا
+> وَاسْتَرِحْ، فَإِنَّهَا دَيْنٌ.
 
 “When the time of prayer comes, do not delay the prayer for something
 else; pray and take rest, for verily it is a debt (*dayn*).”
@@ -424,5 +368,4 @@ Tafsīre Namūne, pg. 70
 [^15]: Wasāi’l al-Shī‘a ilā Tahsīli Masā’il al-Sharī‘a, v. 18, pg. 317
 
 [^16]: Wasāi’l al-Shī‘a ilā Tahsīli Masā’il al-Sharī‘a
-
 

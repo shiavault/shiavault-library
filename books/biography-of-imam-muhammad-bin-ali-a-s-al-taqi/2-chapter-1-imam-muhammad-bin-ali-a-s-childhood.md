@@ -131,4 +131,3 @@ Imam Reza (A.S.) replied, that Allah had sent Prophet Issa as Prophet
 and Messenger and the latter assumed his mission when he was younger in
 age than Imam Muhammad Taqi (A.S.).
 
-

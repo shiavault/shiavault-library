@@ -212,4 +212,3 @@ Bayt (a.s.).
 
 [^2]: Surah Shura 42:23
 
-

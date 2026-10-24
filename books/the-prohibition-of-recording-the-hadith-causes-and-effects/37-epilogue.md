@@ -51,4 +51,3 @@ clearly that we follow it, and to show us the wrong so clearly that we
 avoid it. The last of our prayer is “Praise be to Allah, the Lord of the
 worlds.”
 
-

@@ -101,14 +101,12 @@ any third position between absolute predestination (jabr) and absolute
 freedom (qadar)?" They said: "Yes, vaster than the space between the
 heaven and the earth."
 
-
 ...Muhammad ibn 'Ajun says: "I asked Abu 'Abd Allah (A), 'Has God left
 men free [to do what they may like]?' He replied, 'God is nobler than
 that He should leave it upto them [to do whatever they may like].' I
 said, 'Then God has imposed their deeds upon them?' He said, 'God is
 more just than that He should coerce a creature into committing some act
 and then punish him on its account.'
-
 
 Al-Hasan ibn 'Ali al-Washsha' says, "I asked al-Imam al-Rida (A) whether
 God has given men total freedom in their acts. He said, 'God is mightier
@@ -117,7 +115,6 @@ than that.' I said, 'Then, has He coerced them into sins?' He replied,
 he added, 'God, the Almighty, has said, "O son of Adam! I deserve more
 credit in your virtues than yourself, and you deserve more discredit for
 your sins than I; you commit sins with the power I have given you."'''
-
 
 ...Al-Mufaddal ibn 'Umar reports that al-Imam Abu 'Abd Allah (al-Sadiq)
 (A) said, "Neither total predetermination (jabr), nor total freedom
@@ -207,5 +204,4 @@ exactly similar to the Shi'ah position.
 [^19]. Murtada Mutahhari, 'Adle Ilahi (Divine Justice).
 
 [^20]. Ibid., the discussion on shafa'ah.
-
 

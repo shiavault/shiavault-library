@@ -244,4 +244,3 @@ strengthening themselves spiritually. We thank Allah, subhanahu wa
 ta’ala, for providing such means of spiritual training in the daily
 rituals of an Islamic life.
 
-

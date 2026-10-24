@@ -121,4 +121,3 @@ reality as it is and who dislikes to know people’s opinion about him,
 should be told: Break thyself, as it is wrong to break the mirror, which
 reflects real face.
 
-

@@ -55,4 +55,3 @@ to test people's faith, but also perhaps to provide a dark glass, or a
 dim mirror, through which believers can view a foreshadowing of what
 true Mahdism will consist when it arrives.
 
-

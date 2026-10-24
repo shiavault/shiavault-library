@@ -116,4 +116,3 @@ Murtaza Husayn, Imamia Mission, Aligarh, [2002]
 Kalidar of Iraq. Translated into Urdu by Muhammad Baqer Naqvi, the
 Editor of Islah, Khajwa, Bihar.
 
-

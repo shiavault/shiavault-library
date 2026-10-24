@@ -4,7 +4,7 @@ Importance of Laylat Al-qadr
 **Question:** Many causes are mentioned in Islam regarding the
 importance and greatness of Laylat al-Qadr. Well-known traditions of
 religious leaders indicate it to one of the following nights of the holy
-month of Ramadan: 19<sup>th</sup>, 21<sup>st</sup> or 23<sup>rd</sup>.
+month of Ramadan: 19th, 21st or 23rd.
 We are instructed to offer special prayers on this night.
 
 It seems that Laylat al-Qadr is not more than one night every year, but
@@ -43,8 +43,8 @@ al-Qadr. The explanation to this statement is that residents of every
 place start their lunar year according to the specific horizon of that
 place from the first of Muharram. And after passing some lunar months,
 the month of Ramadan also of that place, starts with the specific
-horizon of that place and in that month, 19<sup>th</sup>, 21st or
-23<sup>rd</sup> night is Laylat al-Qadr for the people residing in that
+horizon of that place and in that month, 19th, 21st or
+23rd night is Laylat al-Qadr for the people residing in that
 area.
 
 Residents of every place have to fix their holy days and times according

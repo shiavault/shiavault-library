@@ -463,7 +463,6 @@ On this view it is possible to claim that to know "God" is not to know
 the existence and attributes of a metaphysical being, but the use of a
 term and its connections to a life style.
 
-
 **C. DIVINE ATTRIBUTES**
 
 Classical theism is found in the Greeks since Plato; in the Judaism of
@@ -549,5 +548,4 @@ Some used it to reject the Trinity.
 Augustine had recognized a potential conflict between simplicity and
 the Trinity, but believed the resolution lay in proper understanding of
 the Trinity.
-
 

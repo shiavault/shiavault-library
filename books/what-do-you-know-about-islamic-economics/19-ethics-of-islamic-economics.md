@@ -153,4 +153,3 @@ unified standard of living for members of the Muslim society. It is
 obvious that planning for such harmony is not preaching but is an
 organizational ideology on the level of an economic doctrine.
 
-

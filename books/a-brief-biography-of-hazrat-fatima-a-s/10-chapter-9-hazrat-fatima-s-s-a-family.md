@@ -143,4 +143,3 @@ grandchildren had to go through for sake of Islam.
 It is said that she is buried in the graveyard at "Makbara Saghira" in
 Damascus.
 
-

@@ -159,4 +159,3 @@ that sacred secret which brought Muhammad and his Lord together…between
 the worshipper and the one who is being worshipped…between the lover and
 the beloved…and between the heart and whom it loves and desires!!!
 
-

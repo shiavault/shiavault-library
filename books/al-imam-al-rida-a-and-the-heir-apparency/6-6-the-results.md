@@ -57,4 +57,3 @@ justified this, and all or most of them were realized.
 On the strategic level, however, al-Ma'mun had failed while al-Rida (A)
 had been successful.
 
-

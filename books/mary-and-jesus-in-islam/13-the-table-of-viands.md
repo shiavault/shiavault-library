@@ -26,11 +26,11 @@ face[^2]... When the disciples asked him to bring them tables of viands,
 he said, “Lord! Do send down to us food from heavens to be for us an
 ever-recurring happiness, to the first of us and to the last, and
 
-[^1] Ata ibn Abu Rabah (d. 114 A.H./732 A.D.) was a renown tabi\`i who
+[^1]: Ata ibn Abu Rabah (d. 114 A.H./732 A.D.) was a renown tabi\`i who
 learned from the sahaba and reported hadith from them. He was once the
 mufti of Mecca.
 
-[^2] This is a figure of speech which means: “He never hurt anyone.”
+[^2]: This is a figure of speech which means: “He never hurt anyone.”
 
 (89)
 
@@ -127,5 +127,4 @@ wept and kept turning around him. Jesus called them by their names, and
 they came, one by one, crying and nodding with their heads as he called
 out their names, unable to speak. They lived for three days, then they
 perished.
-
 

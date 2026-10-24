@@ -295,7 +295,6 @@ humanity comes under its purview. Islam sanctifies life and all its
 pursuits provided they are performed with honesty, justice and pure
 intents.
 
-
 It obliterates the age-long distinction between the sacred and profane.
 The Quran says if you eat clean things and thank God for it, it is an
 act of worship. It is saying of the prophet of Islam that Morsel of food
@@ -449,5 +448,4 @@ live in Islam?" Carlyle himself answers this question of Goethe and says
 "Yes, all of us that have any moral life, we all live so. This is yet
 the highest wisdom that heaven has revealed to our earth." Azmat N.
 Khan
-
 

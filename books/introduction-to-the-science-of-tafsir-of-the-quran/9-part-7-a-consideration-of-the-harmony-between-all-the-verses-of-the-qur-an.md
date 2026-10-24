@@ -46,12 +46,8 @@ Divine Revelation (wahi) and that all of these make up the actual goals
 and objectives which the Qur\`an has put forward, since the Qur\`an
 clearly states that:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللٌّهِ لَوَجَدُوا فِيهِ اخْـتِلاَفاً
-كَثِيراً
-  </p>
-</blockquote>
+> وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللٌّهِ لَوَجَدُوا فِيهِ اخْـتِلاَفاً
+> كَثِيراً
 
 ***“And had this (Qur\`an) come from any other than Allah then surely
 you would have found numerous discrepancies within it.”***[^8]
@@ -69,12 +65,8 @@ necessarily repeated verbatim).
 
 This is clearly seen in a verse of the Qur\`an in which it is stated:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَاباً مُّـتَشَابِهاً
-مَّـثَانِيَ
-  </p>
-</blockquote>
+> أَللٌّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَاباً مُّـتَشَابِهاً
+> مَّـثَانِيَ
 
 ***“Allah has revealed the best of discourses in the form of a Book,
 consistent with itself, (yet) repeating (its teachings in various
@@ -156,5 +148,4 @@ volumes have been published to date.
 [^11]: The thematic exegesis of the Qur\`an written in ‘Arabic. Seven
 volumes have been published to date. This work can be read in its
 entirety at www.imamsadeq.org
-
 

@@ -23,4 +23,3 @@ transgression and injustice of the Caliphs.
 short time, the audacious enemy was impudent to her, usurped her right,
 made her arm black, and aborted her foetus.
 
-

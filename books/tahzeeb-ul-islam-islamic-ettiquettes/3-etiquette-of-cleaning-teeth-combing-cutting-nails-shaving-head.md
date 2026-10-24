@@ -341,4 +341,3 @@ Imam Moosa Kazim (a.s.) has said that a comb made of ivory cures fever.
 A tradition from Imam Ja'far-e-Sadiq (a.s.) states that the use of a
 comb made of silver or etched with silver is makrooh.
 
-

@@ -643,4 +643,3 @@ In addition, once the carpet of time is rolled up and motion itself is
 thereby brought to an end, temporal relationships which permit “before”
 and “after” to be established will no longer exist.
 
-

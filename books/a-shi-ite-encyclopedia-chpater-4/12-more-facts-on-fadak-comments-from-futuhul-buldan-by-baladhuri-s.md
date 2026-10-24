@@ -190,4 +190,3 @@ the verse of Purification (Vide, al-Qur'an, 33 33) in the Holy Qur'an,
 was made to produce witnesses, and on presentation of the witnesses
 also, the claim was disallowed.
 
-

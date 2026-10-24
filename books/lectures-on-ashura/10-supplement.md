@@ -680,4 +680,3 @@ the Prophet of Allah there is no power greater than the Power of Allah,
 the Almighty Allah! Peace and Mercy of Allah be upon Muhammad and his
 pious Chosen Descendants."
 
-

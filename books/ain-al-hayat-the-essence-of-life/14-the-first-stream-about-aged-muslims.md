@@ -15,4 +15,3 @@ will be pardoned and even the sins that he might commit later might be
 forgiven.He will be listed in the group of Allah’s captives and will
 intercede on behalf of his kinsmen on the Day of Judgement.
 
-

@@ -3,13 +3,9 @@ Lesson Seventy: Three Basic Social Principles
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلنّاسُ سَوَاءٌ كَأَسْنانِ الْمِشْطِ وَ الْمَرْءُ كَثِيرٌ بِأَخِيْهِ
-وَ لا خَيْرَ فِى صُحْبَةِ مَنْ لَمْ يَرَ لَكَ مِثْلَ الَّذِى يَرَى
-لِنَفْسِهِ
-  </p>
-</blockquote>
+> اَلنّاسُ سَوَاءٌ كَأَسْنانِ الْمِشْطِ وَ الْمَرْءُ كَثِيرٌ بِأَخِيْهِ
+> وَ لا خَيْرَ فِى صُحْبَةِ مَنْ لَمْ يَرَ لَكَ مِثْلَ الَّذِى يَرَى
+> لِنَفْسِهِ
 
 Translation
 -----------
@@ -37,5 +33,4 @@ society devoid of these three principles is neither an Islamic nor a
 humanitarian society.
 
 [^1]: Tuhaful Uqul, page 274.
-
 

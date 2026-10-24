@@ -127,4 +127,3 @@ Six and Seven this will be explained in further detail.
 
 [^6]: Sahifa Sajjadiya, Supplication no. 27
 
-

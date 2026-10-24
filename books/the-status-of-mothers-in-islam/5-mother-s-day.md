@@ -42,4 +42,3 @@ Day" and acquaint mothers and their children with their basic duties, we
 may then say that they have rendered a service and performed their
 obligation.
 
-

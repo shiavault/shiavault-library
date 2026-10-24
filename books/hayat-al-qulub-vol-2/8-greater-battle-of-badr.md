@@ -130,11 +130,7 @@ from God is true, and if you command us to go into the fire, or to
 scourge our own bodies with the thorns of the desert, we will not flinch
 from it. We will not say to you as the Bani Israel did to Musa:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا إِنَّا هَاهُنَا قَاعِدُونَ
-  </p>
-</blockquote>
+> فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلا إِنَّا هَاهُنَا قَاعِدُونَ
 
 ***“…go therefore you and your Lord, then fight you both, surely we will
 here sit down.”***[^1]
@@ -179,18 +175,14 @@ Manba and Baniya and other idolatrous chiefs of the Quraish, and
 describing the manner in which they would slain and which came to be
 true. Then Jibraeel came with the following verses:
 
-<blockquote dir="rtl">
-  <p>
-كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا
-مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ ﴿٥﴾ يُجَادِلُونَكَ فِي الْحَقِّ
-بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ وَهُمْ
-يَنْظُرُونَ ﴿٦﴾ وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ
-أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ
-لَكُمْ وَيُرِيدُ اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ
-وَيَقْطَعَ دَابِرَ الْكَافِرِينَ ﴿٧﴾ لِيُحِقَّ الْحَقَّ وَيُبْطِلَ
-الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا
+> مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ ﴿٥﴾ يُجَادِلُونَكَ فِي الْحَقِّ
+> بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ وَهُمْ
+> يَنْظُرُونَ ﴿٦﴾ وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ
+> أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ
+> لَكُمْ وَيُرِيدُ اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ
+> وَيَقْطَعَ دَابِرَ الْكَافِرِينَ ﴿٧﴾ لِيُحِقَّ الْحَقَّ وَيُبْطِلَ
+> الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ
 
 ***“Even as your Lord caused you to go forth from your house with the
 truth, though a party of the believers were surely averse. They disputed
@@ -285,12 +277,8 @@ The Muslims on being apprised of the number of the Quraish were greatly
 alarmed, wailed and wept and sought refuge in God, on which the Almighty
 Allah sent this verse to console them:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ
-بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ.
-  </p>
-</blockquote>
+> إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ
+> بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ.
 
 ***“When you sought aid from your Lord, so He answered you: I will
 assist you with a thousand of the angels following one another.”***[^3]
@@ -304,13 +292,9 @@ Prophet kept his hand raised towards heaven and prayed and supplicated
 till his robe fell from his blessed shoulders. The Almighty Allah then
 revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ
-قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ ۚ إِنَّ
-اللَّهَ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ
+> قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ ۚ إِنَّ
+> اللَّهَ عَزِيزٌ حَكِيمٌ
 
 ***“And Allah only gave it as a good news and that your hearts might be
 at ease thereby; and victory is only from Allah; surely Allah is Mighty,
@@ -336,14 +320,10 @@ on it. The Almighty Allah created terror among the infidels lest Muslims
 attack secretly at night. This lent courage to the Muslims and they
 began to hope in divine mercy as the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ
-مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ
-الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ
-الْأَقْدَامَ
-  </p>
-</blockquote>
+> إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ
+> مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ
+> الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ
+> الْأَقْدَامَ
 
 ***“When He caused calm to fall on you as a security from Him and sent
 down upon you water from the cloud that He might thereby purify you, and
@@ -362,13 +342,9 @@ Prophet (S) said: “By Allah they had eaten to satiation but they were
 making such statements due to fear, because the Almighty Allah had put
 awe into their hearts, as He Himself says:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا
-الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ
-فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ
-  </p>
-</blockquote>
+> إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا
+> الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ
+> فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ
 
 ***“When your Lord revealed to the angels: I am with you, therefore make
 firm those who believe. I will cast terror into the hearts of those who
@@ -422,11 +398,7 @@ glittering swords has turned your gall to water.”
 As the Muslims feared the formidable numbers of the enemy, the Almighty
 Allah sent this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ 
-  </p>
-</blockquote>
+> وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ
 
 ***“And if they incline to peace, then incline to it and trust in
 Allah…”***[^7]
@@ -565,13 +537,9 @@ they faltered in their faith and began to say: “Their religion has
 deceived them and very soon they will be killed.” At that juncture, the
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ
-هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ
-اللَّهَ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ
+> هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ
+> اللَّهَ عَزِيزٌ حَكِيمٌ
 
 ***“When the hypocrites and those in whose hearts was disease said:
 Their religion has deceived them; and whoever trusts in Allah, then
@@ -604,12 +572,8 @@ him on his chest and said: “Go away, you can’t see what I see. I am
 terrified from the Lord of the universe.” Thus the Almighty Allah has
 alluded to this incident in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ
-لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَكُمْ
-  </p>
-</blockquote>
+> وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ
+> لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَكُمْ
 
 ***“And when the Shaitan made their works fair seeming to them, and
 said: No one can overcome you this day, and surely I am your
@@ -623,13 +587,9 @@ accursed Iblis appeared in the form of Surakha bin Malik, a leader of
 that tribe, with a huge army of demons and he said: “I stand as a
 guarantee that no harm will reach you from Kanana tribe.
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ
-إِنِّي بَرِيءٌ مِنْكُمْ إِنِّي أَرَىٰ مَا لَا تَرَوْنَ إِنِّي أَخَافُ
-اللَّهَ ۚ وَاللَّهُ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> فَلَمَّا تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ
+> إِنِّي بَرِيءٌ مِنْكُمْ إِنِّي أَرَىٰ مَا لَا تَرَوْنَ إِنِّي أَخَافُ
+> اللَّهَ ۚ وَاللَّهُ شَدِيدُ الْعِقَابِ
 
 ***“…but when the two parties came in sight of each other he turned upon
 his heels, and said: Surely I am clear of you, surely I see what you do
@@ -671,11 +631,7 @@ religion is ancient and the religion of Muhammad is new; help the
 religion you prefer.” At that juncture, the Almighty Allah revealed the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ 
-  </p>
-</blockquote>
+> إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ
 
 ***“If you demanded a judgment, the judgment has then indeed come to
 you…”***[^11]
@@ -687,11 +643,7 @@ breeze which thrashed the sand on the faces of idolaters and they fled
 from there. Whoever was hit with those particles was killed that day as
 the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلٰكِنَّ اللَّهَ رَمٰى
-  </p>
-</blockquote>
+> وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلٰكِنَّ اللَّهَ رَمٰى
 
 ***“…and you did not smite when you smote (the enemy), but it was Allah
 Who smote…”***[^12]
@@ -921,13 +873,9 @@ indeed, except for Allah, no one knew anything about it. You can take
 all that I demand from the people. At that juncture, the following verse
 was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُلْ لِمَنْ فِي أَيْدِيكُمْ مِنَ الْأَسْرَىٰ
-إِنْ يَعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا
-مِمَّا أُخِذَ مِنْكُمْ وَيَغْفِرْ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُلْ لِمَنْ فِي أَيْدِيكُمْ مِنَ الْأَسْرَىٰ
+> إِنْ يَعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا
+> مِمَّا أُخِذَ مِنْكُمْ وَيَغْفِرْ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ
 
 ***“O Prophet! say to those of the captives who are in your hands: If
 Allah knows anything good in your hearts, He will give to you better
@@ -1020,12 +968,8 @@ tribe and clan. O Messenger of Allah (S), forgive them for our sake and
 take ransom from them and set them free.” At that juncture, the Almighty
 Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي
-الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ
-  </p>
-</blockquote>
+> مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي
+> الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ
 
 ***“It is not fit for a prophet that he should take captives unless he
 has fought and triumphed in the land…”***[^14]
@@ -1033,11 +977,7 @@ has fought and triumphed in the land…”***[^14]
 In the verses following this, the Almighty Allah has condemned the greed
 of believers for booty and ransom and then said:
 
-<blockquote dir="rtl">
-  <p>
-فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا
-  </p>
-</blockquote>
+> فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا
 
 ***“Eat then of the lawful and good (things) which you have acquired in
 war…”***[^15]
@@ -1160,12 +1100,8 @@ and confiscating their property. When the booty and the prisoners were
 gathered, Ansaris began to talk about the prisoners and the Almighty
 Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي
-الْأَرْضِ 
-  </p>
-</blockquote>
+> مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي
+> الْأَرْضِ
 
 ***“It is not fit for a prophet that he should take captives unless he
 has fought and triumphed in the land…”***[^17]
@@ -1188,12 +1124,8 @@ the Holy Prophet (S) came to know about it and they asked to whom that
 booty was going to be distributed. At that juncture, the following verse
 was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الْأَنْفَالِ ۖ قُلِ الْأَنْفَالُ لِلَّهِ
-وَالرَّسُولِ 
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الْأَنْفَالِ ۖ قُلِ الْأَنْفَالُ لِلَّهِ
+> وَالرَّسُولِ
 
 ***“They ask you about the windfalls. Say: The windfalls are for Allah
 and the Apostle.”***[^18]
@@ -1347,5 +1279,4 @@ slay a single infidel.
 [^17]: Surah Anfal 8:67
 
 [^18]: Surah Anfal 8:1
-
 

@@ -389,12 +389,8 @@ with wholesome and good things so much so that a wheat and barley farmer
 can get from every *man* (a unit of measurement equivalent to three
 kilograms) of wheat, a hundred *man* of produce just as God said:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ وَاللَّهُ يُضَاعِفُ لِمَنْ
-يَشَاءُ ﴾
-  </p>
-</blockquote>
+> ﴿ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ وَاللَّهُ يُضَاعِفُ لِمَنْ
+> يَشَاءُ ﴾
 
 *“In every ear (grow) a hundred grains. Allah enhances severalfold
 whomever He wishes.”*[^43]”[^44]
@@ -468,7 +464,6 @@ adiq (
 
 ‘a
 
-  
 ) said: “Date palms will connect Mecca and Medina.”
 
 [^51]
@@ -690,5 +685,4 @@ vol. 19, p. 681.
 
 [^58]: Ibn Abi Shaybah, Musannif, vol. 15, p. 142; Ad-Durr al-Manthur,
 vol. 5, p. 354; Muttaqi Hindi, Burhan, p. 193.
-
 

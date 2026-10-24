@@ -31,4 +31,3 @@ and on the path of virtue.”
 
 (Sermon 192)
 
-

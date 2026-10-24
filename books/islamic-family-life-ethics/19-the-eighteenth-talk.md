@@ -14,12 +14,8 @@ endowed to him from the *Aalam e Malkoot*! The human being is so
 spiritually developed that Allah has made a special reference to him
 highlighting his felicity.
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا سَوَّيْتُهُ وَ نَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُواْ لَهُ
-سَجِدِين
-  </p>
-</blockquote>
+> فَإِذَا سَوَّيْتُهُ وَ نَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُواْ لَهُ
+> سَجِدِين
 
 ***So, when I have made him and have breathed into him of My spirit, do
 ye fall down, prostrating yourselves unto him.*** ***(Sura al Hijr, 15:
@@ -39,14 +35,10 @@ physically, it is not so important. But if he dies spiritually,
 according to the Holy Quran, he is worse than the lowliest of the
 animals and is headed straight for Hell:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ الجِْنّ‏ِ وَ الْانسِ
-لهَُمْ قُلُوبٌ لَّا يَفْقَهُونَ بهَِا وَ لهَُمْ أَعْينُ‏ٌ لَّا
-يُبْصِرُونَ بهَِا وَ لهَُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بهَِا أُوْلَئكَ
-كاَلْأَنْعَمِ بَلْ هُمْ أَضَلُّ أُوْلَئكَ هُمُ الْغَفِلُون
-  </p>
-</blockquote>
+> وَ لَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ الجِْنّ‏ِ وَ الْانسِ
+> لهَُمْ قُلُوبٌ لَّا يَفْقَهُونَ بهَِا وَ لهَُمْ أَعْينُ‏ٌ لَّا
+> يُبْصِرُونَ بهَِا وَ لهَُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بهَِا أُوْلَئكَ
+> كاَلْأَنْعَمِ بَلْ هُمْ أَضَلُّ أُوْلَئكَ هُمُ الْغَفِلُون
 
 ***Already have We urged unto Hell many of the jinn and humankind,
 having hearts wherewith they understand not, and having eyes wherewith
@@ -67,12 +59,8 @@ received spiritual nourishment, his soul is dead. Such people should cry
 day and night, because of what the Holy Quran says about them. In
 another Verse the Holy Quran is more forceful:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ شَرَّ الدَّوَابّ‏ِ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لَا يَعْقِلُون
-  </p>
-</blockquote>
+> إِنَّ شَرَّ الدَّوَابّ‏ِ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لَا يَعْقِلُون
 
 ***Lo! The worst of beasts in Allah’s sight are the deaf, the dumb, who
 have no sense.*** ***(Sura Al-Anfal, 8: 22)***
@@ -103,12 +91,8 @@ spiritually ill person is at war with the Holy Quran. Therefore, the
 Quran says it is a cure, but for the spiritually ill, there is nothing
 but loss, and more loss!
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الَّذِينَ فىِ قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَبَهَ
-مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَ ابْتِغَاءَ تَأْوِيلِه
-  </p>
-</blockquote>
+> فَأَمَّا الَّذِينَ فىِ قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَبَهَ
+> مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَ ابْتِغَاءَ تَأْوِيلِه
 
 ***But those in whose hearts is doubt pursue, forsooth, that which is
 allegorical (ambiguous)*** ***seeking( to cause) dissensions by seeking
@@ -140,12 +124,8 @@ communicating with Allah. If a woman doesn’t offer salah, or offers it
 incorrectly, then her home and her husband are to be pitied. The Holy
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَأَيهَُّا الَّذِينَ ءَامَنُواْ قُواْ أَنفُسَكمُ‏ْ وَ أَهْلِيكمُ‏ْ
-نَارًا وَقُودُهَا النَّاسُ وَ الحِْجَارَة
-  </p>
-</blockquote>
+> يَأَيهَُّا الَّذِينَ ءَامَنُواْ قُواْ أَنفُسَكمُ‏ْ وَ أَهْلِيكمُ‏ْ
+> نَارًا وَقُودُهَا النَّاسُ وَ الحِْجَارَة
 
 ***O ye who believe! Save yourselves and your families from the fire
 whose fuel shall be men and stones… (Sura Tahrim, 66: 6)***
@@ -190,12 +170,8 @@ for dark places.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-فخََلَفَ مِن بَعْدِهِمْ خَلْفٌ أَضَاعُواْ الصَّلَوةَ وَ اتَّبَعُواْ
-الشهََّوَتِ فَسَوْفَ يَلْقَوْنَ غَيًّا
-  </p>
-</blockquote>
+> فخََلَفَ مِن بَعْدِهِمْ خَلْفٌ أَضَاعُواْ الصَّلَوةَ وَ اتَّبَعُواْ
+> الشهََّوَتِ فَسَوْفَ يَلْقَوْنَ غَيًّا
 
 ***Now there hath succeeded them a later generation who have ruined
 worship and have followed lusts. But they will meet deception. (Sura
@@ -251,13 +227,9 @@ extent. Sometimes the entire heart becomes pitch black. Imam Jafar
 al-Sadiq (a.s.) says that such persons will not get deliverance. The
 Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-أَ فَمَن شَرَحَ اللَّهُ صَدْرَهُ لِلْاسْلَمِ فَهُوَ عَلىَ‏ نُورٍ مِّن
-رَّبِّهِ فَوَيْلٌ لِّلْقَسِيَةِ قُلُوبهُُم مِّن ذِكْرِ اللَّهِ
-أُوْلَئكَ فىِ ضَلَلٍ مُّبِين
-  </p>
-</blockquote>
+> أَ فَمَن شَرَحَ اللَّهُ صَدْرَهُ لِلْاسْلَمِ فَهُوَ عَلىَ‏ نُورٍ مِّن
+> رَّبِّهِ فَوَيْلٌ لِّلْقَسِيَةِ قُلُوبهُُم مِّن ذِكْرِ اللَّهِ
+> أُوْلَئكَ فىِ ضَلَلٍ مُّبِين
 
 ***Is he whose bosom Allah hath expanded for the Surrender (unto Him),
 so that he followeth a light from His Lord,(as he who disbelieveth)?
@@ -349,12 +321,8 @@ decreased. He does not fulfil the spiritual needs of the family. Because
 of the paucity of a spiritual atmosphere in their homes, they turn into
 dungeons. These homes, in terms of the Quran, have turned dark.
 
-<blockquote dir="rtl">
-  <p>
-أَوْ كَظُلُمَتٍ فىِ بحَْرٍ لُّجِّىٍ‏ّ يَغْشَئهُ مَوْجٌ مِّن فَوْقِهِ
-مَوْجٌ مِّن فَوْقِهِ سحََابٌ ظُلُمَتُ بَعْضُهَا فَوْقَ بَعْض
-  </p>
-</blockquote>
+> أَوْ كَظُلُمَتٍ فىِ بحَْرٍ لُّجِّىٍ‏ّ يَغْشَئهُ مَوْجٌ مِّن فَوْقِهِ
+> مَوْجٌ مِّن فَوْقِهِ سحََابٌ ظُلُمَتُ بَعْضُهَا فَوْقَ بَعْض
 
 ***Or as darkness on a vast, abysmal sea. There covereth him a wave,
 above which is a wave, above which is a cloud. Layer upon layer of
@@ -362,5 +330,4 @@ darkness …*** ***(Sura an-Nur, 24: 40)***
 
 The actions of infidels are compared here with the darkness of the deep
 seas where wave after wave covers the bottom and makes it dark!
-
 

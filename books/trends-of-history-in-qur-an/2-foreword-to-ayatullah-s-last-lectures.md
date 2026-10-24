@@ -127,4 +127,3 @@ to the spiritual world, and there also shows his mettle.
 
 Dr. Sayyid Jamal Musavi
 
-

@@ -265,4 +265,3 @@ parts are brought into existence successively and by constant renewal.
 This argument is the firmest of the arguments for substantial motion,
 and there appear to be no problems with it.
 
-

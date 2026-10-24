@@ -54,4 +54,3 @@ affected by the prevailing conditions and who is perfectly calm and
 composed, although there is nothing to mitigate his anxiety and mental
 disturbance.
 
-

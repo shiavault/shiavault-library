@@ -48,4 +48,3 @@ whom Allah has said:* ***‘Surely those who love that scandal should
 circulate respecting those who believe, they shall have a grievous
 chastisement in this world and the hereafter.’**”*
 
-

@@ -258,4 +258,3 @@ prophets by God?
 
 [^1]: Nūru ’th-Thaqalayn, vol. 3, p. 367.
 
-

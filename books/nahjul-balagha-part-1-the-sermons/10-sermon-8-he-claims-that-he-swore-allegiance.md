@@ -3,23 +3,11 @@ Sermon 8: He claims that he swore allegiance ...
 
 *Said about az-Zubayr at a time for which it was appropriate*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-يعني به الزبير في حال اقتضت ذلك
-  </p>
-</blockquote>
+> يعني به الزبير في حال اقتضت ذلك
 
-<blockquote dir="rtl">
-  <p>
-[ويدعوه للدخول في البيعة ثانية]
-  </p>
-</blockquote>
+> [ويدعوه للدخول في البيعة ثانية]
 
 He claims that he swore allegiance to me with his hand but did not swear
 with his heart.[^1] So he does admit allegiance. As regards his claiming
@@ -27,13 +15,9 @@ it otherwise than with his heart he should come forward with a clear
 argument for it. Otherwise, he should return to wherefrom he has gone
 out.[^2]
 
-<blockquote dir="rtl">
-  <p>
-يَزْعُمُ أَنَّهُ قَدْ بَايَعَ بِيَدِهِ، وَلَمْ يُبَايعْ بِقَلْبِهِ،
-فَقَدْ أَقَرَّ بِالبَيْعَةِ، وَادَّعَى الوَلِيجَةَ، فَلْيَأْتِ
-عَلَيْهَا بِأَمْر يُعْرَفُ، وَإِلاَّ فَلْيَدخُلْ فِيَما خَرَجَ مِنْهُ.
-  </p>
-</blockquote>
+> يَزْعُمُ أَنَّهُ قَدْ بَايَعَ بِيَدِهِ، وَلَمْ يُبَايعْ بِقَلْبِهِ،
+> فَقَدْ أَقَرَّ بِالبَيْعَةِ، وَادَّعَى الوَلِيجَةَ، فَلْيَأْتِ
+> عَلَيْهَا بِأَمْر يُعْرَفُ، وَإِلاَّ فَلْيَدخُلْ فِيَما خَرَجَ مِنْهُ.
 
 Alternative Sources for Sermon 8
 --------------------------------
@@ -65,5 +49,4 @@ if, according to him his heart was not in accord with it he should
 produce other proof for it. Since proof about the state of heart cannot
 be adduced how can he bring such proof, and an assertion without proof
 is unacceptable to his mind.
-
 

@@ -13,4 +13,3 @@ in a gathering and not make the owner unhappy”.
 Bravo to those children who respect their fathers and mothers and obey
 them.
 
-

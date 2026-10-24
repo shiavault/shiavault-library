@@ -34,21 +34,13 @@ secrecy.
 the plan.
 
 > 7ـ تَذِلُّ الأُمُورُ لِلْمَقاديرِ حتّى يَكُونََ الحَتْفُ (الحِيْفُ) في
-<blockquote dir="rtl">
-  <p>
-التَّدبيرِِ.
-  </p>
-</blockquote>
+> التَّدبيرِِ.
 
 8. Seek in your work the course by which your excuse may be credible,
 your evidence may be established and your integrity may be restored.
 
 > 8ـ تَحَرَّ مِنْ أمْرِكَ مايَقُومُ بِهِ عُذرُكَ، وتَثْبُتُ بِِهِ
-<blockquote dir="rtl">
-  <p>
-حُجَّتُكَ ويَفيءُ إلَيْكَ بِرُشْدِكَ.
-  </p>
-</blockquote>
+> حُجَّتُكَ ويَفيءُ إلَيْكَ بِرُشْدِكَ.
 
 9. The best matters are those which give rise to certitude.
 
@@ -71,11 +63,7 @@ hellfire].
 give praiseworthy results.
 
 > 13ـ خَيرُ الأُمُورِ ما سَهُلَتْ مَباديهِ، وحَسُنَتْ خَواتِمُهُ
-<blockquote dir="rtl">
-  <p>
-وحُمِدَتْ عَواقِبُهُ.
-  </p>
-</blockquote>
+> وحُمِدَتْ عَواقِبُهُ.
 
 14. The best matters are those that give the quickest benefit and the
 most praiseworthy results.
@@ -86,11 +74,7 @@ most praiseworthy results.
 establishes your proof.
 
 > 15ـ خُذْ مِنْ أمْرِكَ ما يَقُومُ بِهِ عُذْرُكَ، وتَثْبُتُ بِهِ
-<blockquote dir="rtl">
-  <p>
-حُجَتُك.
-  </p>
-</blockquote>
+> حُجَتُك.
 
 16. Sometimes matters look grim (or inescapable).
 
@@ -149,11 +133,7 @@ strenuous.
 and the most equitable with [regards to the] rights [of others].
 
 > 29ـ لِيَكُنْ أحَبُّ الأُمورِ إلَيكَ أعَمَّها في العَدْلِ وأقسَطَها
-<blockquote dir="rtl">
-  <p>
-بِالحقِّ.
-  </p>
-</blockquote>
+> بِالحقِّ.
 
 30. Be wary of every matter that degrades the one who performs it when
 it becomes apparent, and abases him.
@@ -164,5 +144,4 @@ it becomes apparent, and abases him.
 worldly life.
 
 > 31ـ إحذَرْ كُلَّ أمْر يُفْسِدُ الآجِلَةَ، ويُصْلِحُ الدَّانيةَ.
-
 

@@ -126,4 +126,3 @@ Hegel, of believing that the whole point of the past was that it should
 culminate with us. History is neither a prison nor a museum, nor is it a
 set of materials for self-congratulation.
 
-

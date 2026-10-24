@@ -216,4 +216,3 @@ subdue Ibn Ziyad, who had not more than fifty persons with him, and gain
 control over the city, and only one false rumor spread by the supporters
 of Ibn Ziyad that the Syrian army was arriving, scattered all of them.
 
-

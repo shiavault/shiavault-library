@@ -30,14 +30,10 @@ unbecoming role of endless wishes in keeping perfection and the sublime
 prosperity of the hereafter at a far distance, the devil uses them as
 effective tools to mislead the servants of Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَدْعُونَ مِنْ دُونِهِ إِلاَّ إِنَاثًا وَإِنْ يَدْعُونَ إِلاَّ
-شَيْطَانًا مَرِيدًا \* لَعَنَهُ اللّهُ وَقَالَ لأََتَّخِذَنَّ مِنْ
-عِبَادِكَ نَصِيبًا مَفْرُوضًا \* وَلأُضِلَّنَّهُمْ
-وَلأُمَنِّيَنَّهُمْ...
-  </p>
-</blockquote>
+> إِنْ يَدْعُونَ مِنْ دُونِهِ إِلاَّ إِنَاثًا وَإِنْ يَدْعُونَ إِلاَّ
+> شَيْطَانًا مَرِيدًا \* لَعَنَهُ اللّهُ وَقَالَ لأََتَّخِذَنَّ مِنْ
+> عِبَادِكَ نَصِيبًا مَفْرُوضًا \* وَلأُضِلَّنَّهُمْ
+> وَلأُمَنِّيَنَّهُمْ...
 
 ***“They invoke none but female (deities) besides Him, and invoke none
 but a rebellious Satan, whom Allah has cursed, and who said, ‘I will
@@ -66,13 +62,9 @@ and in worthy benefits which derive from good deeds, he would neither
 fulfill his worldly nor eschatological duties, and to quote the words of
 the Gracious Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنصُرَهُ اللَّهُ فِي الدُّنْيَا
-وَالآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لِيَقْطَعْ
-فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ
-  </p>
-</blockquote>
+> مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنصُرَهُ اللَّهُ فِي الدُّنْيَا
+> وَالآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لِيَقْطَعْ
+> فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ
 
 ***“Whoever thinks that Allah will not help him in this world and the
 hereafter let him extend a rope to the ceiling and cut (himself) off,
@@ -483,11 +475,7 @@ Allah. For this reason, in order to have divine modesty, it is incumbent
 to pay heed to the stomach and be cautious about the food that is placed
 into it. The Noble Qur’an advises man to be careful what food he eats:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرِ الإِنسَانُ إِلَى طَعَامِهِ
-  </p>
-</blockquote>
+> فَلْيَنْظُرِ الإِنسَانُ إِلَى طَعَامِهِ
 
 **“So let man observe his food.”**[^13]
 
@@ -502,12 +490,8 @@ narrating the events that came to pass for the Companions of the Cave in
 the grotto and their waking up from sleep after a hundred years and the
 course of their conversation, the Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرْ أَيُّهَا أَزْكَى طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِنْهُ
-...
-  </p>
-</blockquote>
+> فَلْيَنْظُرْ أَيُّهَا أَزْكَى طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِنْهُ
+> ...
 
 ***“Send one of you to the city with this money.*** ***Let him observe
 which of them has the purest food, and bring you provisions from
@@ -668,5 +652,4 @@ Imam Khomeini’s Works (International Affairs Department), 4th printing
 [^15]: Bihar al-Anwar, vol. 45, p. 8.
 
 [^16]: Tafsir al-Mizan, vol. 6, p. 330.
-
 

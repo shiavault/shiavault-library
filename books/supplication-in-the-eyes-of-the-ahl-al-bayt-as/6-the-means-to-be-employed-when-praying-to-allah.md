@@ -642,4 +642,3 @@ professed Your Oneness.”
 
 [^8]: Qur’an, 69:30 32.
 
-

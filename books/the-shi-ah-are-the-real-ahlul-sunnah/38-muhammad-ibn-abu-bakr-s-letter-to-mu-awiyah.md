@@ -102,4 +102,3 @@ his answer.
 al-Dhahab, Vol. 2, p. 59. Ibn Abul-Hadid, Sharh Nahjul Balagha, Vol. 1,
 p. 283.
 
-

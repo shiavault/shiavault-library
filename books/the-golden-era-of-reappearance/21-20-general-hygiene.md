@@ -22,4 +22,3 @@ Shaykh Toosi (a.r.); E'qd al-Dorar, p. 159; Mikyaal al-Makaarem, vol. 1,
 p. 203; Hilyah al-Abraar, vol. 2, p. 635 narrating from Dalaael
 al-Imaamah; Al-Malaahem wa al-Fetan, Chapter 204, p. 97.)
 
-

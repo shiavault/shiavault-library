@@ -376,4 +376,3 @@ sufficient in keeping the account. (Surah al-Ahzab, 33:38-39)
 [^6]: Mafatihul Ghayb Razi, vol. XV, page 212 and Ruhul Ma'ani, chapter
 22, pp. 23-24.
 
-

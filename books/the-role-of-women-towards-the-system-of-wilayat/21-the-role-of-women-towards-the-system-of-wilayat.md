@@ -52,4 +52,3 @@ you are interested to learn more, then I can guide you towards a series
 of lectures which I have delivered on the system of Wilayat, titled as
 "Imamat O Ummat", they are available in audio video format.
 
-

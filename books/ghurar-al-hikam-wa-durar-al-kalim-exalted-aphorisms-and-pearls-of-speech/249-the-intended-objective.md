@@ -7,4 +7,3 @@ The Intended Objective
 
 > 1ـ قَدْ يُدْرَكُ المُرادُ.
 
-

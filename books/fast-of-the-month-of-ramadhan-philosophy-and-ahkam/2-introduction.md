@@ -232,4 +232,3 @@ come..., *especially in the life to come*, Allahomma Aameen.
 **Yasin T. al-Jibouri**  
  Rajab 1415/December 1994
 
-

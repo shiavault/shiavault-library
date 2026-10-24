@@ -12,11 +12,7 @@ and one who lets it burn freely is the first person who will be burnt by
 it.
 
 > 2ـ اَلغَضَبُ نارٌ مُوقَدَةٌ، مَنْ كَظَمَهُ أطْفَأَها، ومَنْ أطْلَقَهُ
-<blockquote dir="rtl">
-  <p>
-كانَ أوَّلَ مُحْتَرِق بِها.
-  </p>
-</blockquote>
+> كانَ أوَّلَ مُحْتَرِق بِها.
 
 3. Anger arouses hidden feelings of malice.
 
@@ -45,11 +41,7 @@ fly off [in a rage] then calm back down.
 restraint and forbearance that will help you fight against it.
 
 > 8ـ اِحْتَرِسُوا مِنْ سَوْرَةِ الغَضَبِ، وأعِدُّوا لَهُ ما
-<blockquote dir="rtl">
-  <p>
-تُجاهِدُونَهُ، بِهِ مِنَ الكَظْمِ وَالحِلْمِ.
-  </p>
-</blockquote>
+> تُجاهِدُونَهُ، بِهِ مِنَ الكَظْمِ وَالحِلْمِ.
 
 9. Beware of anger, for it is indeed a burning fire.
 
@@ -65,11 +57,7 @@ whoever controls these two, his status is elevated and he attains his
 goal.
 
 > 11ـ أعْدى عَدُوّ لِلْمَرْءِ غَضَبُهُ، وشَهْوَتُهُ، فَمَنْ مَلَكَهُما
-<blockquote dir="rtl">
-  <p>
-عَلَتْ دَرَجَتُهُ، وَبَلَغَ غايَتَهُ.
-  </p>
-</blockquote>
+> عَلَتْ دَرَجَتُهُ، وَبَلَغَ غايَتَهُ.
 
 12. Anger is the conveyance of impetuosity.
 
@@ -95,21 +83,13 @@ goal.
 reward).
 
 > 17ـ اَلْغَضَبُ يُفْسِدُ الألْبابَ،وَ يُبْعِدُ مِنَ الصَّوابِ(عَنِ
-<blockquote dir="rtl">
-  <p>
-الثَّوابِ).
-  </p>
-</blockquote>
+> الثَّوابِ).
 
 18. Verily if you obey the vehemence of anger, it will lead you to the
 utmost destruction.
 
 > 18ـ إنَّكُمْ إنْ أطَعْتُمْ سَوْرَةَ الغَضَبِ أوْرَدَتْكُمْ نِهايَةَ
-<blockquote dir="rtl">
-  <p>
-العَطَبِ.
-  </p>
-</blockquote>
+> العَطَبِ.
 
 19. When anger comes over you, then overcome it with forbearance and
 dignity.
@@ -124,11 +104,7 @@ dignity.
 closer and distances good.
 
 > 21ـ بِئْسَ القَرينُ الغَضَبُ، يُبْدي المَعائِبَ، ويُدْنِى الشَّرَّ،
-<blockquote dir="rtl">
-  <p>
-ويُباعِدُ الخَيْرَ.
-  </p>
-</blockquote>
+> ويُباعِدُ الخَيْرَ.
 
 22. Remedy your anger with silence and your lust with reason.
 
@@ -150,11 +126,7 @@ closer and distances good.
 praiseworthy in every matter.
 
 > 26ـ ضادُّوا الغَضَبَ بِالحِلْمِ، تَحْمِدُوا عَواقِبَكُمْ في كُلِّ
-<blockquote dir="rtl">
-  <p>
-أمْر.
-  </p>
-</blockquote>
+> أمْر.
 
 27. The raging fire of anger leads to the embarking of destruction.
 
@@ -188,11 +160,7 @@ praiseworthy in every matter.
 excuses.
 
 > 34ـ كُنْ بَطيءَ الغَضَبِ، سَريعَ الفَيْءِ، مُحِبّاً لِقَبُولِ
-<blockquote dir="rtl">
-  <p>
-العُذْرِ.
-  </p>
-</blockquote>
+> العُذْرِ.
 
 35. The devil has no greater lasso [to ensnare human beings with] than
 anger and women.
@@ -231,21 +199,13 @@ anger and women.
 sadness and torments himself.
 
 > 43ـ مَنْ غَضِبَ عَلى مَنْ لايَقْدِرُعَلى مَضَرَّتِهِ طالَ حُزْنُهُ،
-<blockquote dir="rtl">
-  <p>
-وعذَّبَ نَفْسَهُ.
-  </p>
-</blockquote>
+> وعذَّبَ نَفْسَهُ.
 
 44. Whoever is overpowered by his anger and lust, then he is in the
 category of beasts.
 
 > 44ـ مَنْ غَلَبَ عَلَيْهِ غَضَبُهُ وشَهْوَتُهُ فَهُوَ في حَيِّزِ
-<blockquote dir="rtl">
-  <p>
-البَهائِمِ.
-  </p>
-</blockquote>
+> البَهائِمِ.
 
 45. He who gets angry upon one whom he has no power over, dies with his
 rage.
@@ -258,12 +218,8 @@ patient” or when I have the power to (exact revenge) and it is said to
 me “it is better for you to forgive”?
 
 > 46ـ مَتى أشْفِي غَيْظي إذا غَضِبْتُ، أحِيْنَ أعْجِزُ (عَنِ
-<blockquote dir="rtl">
-  <p>
-الاِنْتِقامِ) فَيُقالَ لي لَوْ صَبَرْتَ، أمْ حينَ أقْدِرُ (عَلَيْهِ)
-فَيُقالَ لي لَوْ عَفَوْتَ.
-  </p>
-</blockquote>
+> الاِنْتِقامِ) فَيُقالَ لي لَوْ صَبَرْتَ، أمْ حينَ أقْدِرُ (عَلَيْهِ)
+> فَيُقالَ لي لَوْ عَفَوْتَ.
 
 47. Let your anger never prevail over your forbearance.
 
@@ -287,5 +243,4 @@ uncontrollable habit.
 > 51ـ لايَقُومُ عِزُّ الغَضَبِ بِذُلِّ الاِعْتِذارِ.
 
 [^1]: Or: One who gets angry frequently becomes weary.
-
 

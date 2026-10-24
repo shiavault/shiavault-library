@@ -18,4 +18,3 @@ Allah.
 
 [^1]: Biharul Anwar, Vol. 44, Pg. 278
 
-

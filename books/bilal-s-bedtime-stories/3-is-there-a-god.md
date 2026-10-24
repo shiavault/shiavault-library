@@ -54,4 +54,3 @@ existence of God. How far is your statement reasonable and justified?
 This silenced them all and there was no answer to this. So the
 non-believers lost and the believer won.
 
-

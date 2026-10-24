@@ -157,4 +157,3 @@ written a great deal in this regard and it is not worth repeating here.
 
 [^10]: Pg. 462
 
-

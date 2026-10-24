@@ -43,4 +43,3 @@ al-Mustadrak 7:560
 [^6]: al-Faqih 2:184, Tahdhib al-Ahkam 4:287, al-Usul al-Sittata ‘Ashar:
 112
 
-

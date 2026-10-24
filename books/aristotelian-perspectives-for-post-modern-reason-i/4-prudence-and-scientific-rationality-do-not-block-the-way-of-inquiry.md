@@ -195,4 +195,3 @@ substances, like persons, animals, plants and elements, a reality with
 its own dynamic, not subjected to concept, but open to human
 intellection.
 
-

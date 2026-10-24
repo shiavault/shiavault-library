@@ -192,4 +192,3 @@ circulation, he was the most fearless, the most fear-inspiring, the most
 violent-tempered, and the most headstrong man in Makkah. And who but
 Umar would dare to challenge Hamza? But the challenge never came.
 
-

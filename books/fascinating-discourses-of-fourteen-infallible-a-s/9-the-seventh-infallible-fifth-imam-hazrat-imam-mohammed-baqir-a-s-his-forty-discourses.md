@@ -36,10 +36,8 @@ war &. confrontation, he made good of the chance to the maximum in
 connection with training of pupils &. students &. the consolidation &.
 expansion .of shiite school &. bringing about cultural revolution.
 
-<p dir="rtl">
 اربعون حديثا  عن الامام محمد الباقر عليه السلام
 -----------------------------------------------
-</p>
 
 1- مَن مَشی اِلی سُلطانٍ جائِرٍ فَأَمَرَهُ بِتَقوَی اللهِ وَخَوَّفَه
 وَوَعَظَهُ،کانَ لَهُ مِثلُ أَجرِ الثَّقَلَينِ مِنَ الجِنِّ وَالإنسِ
@@ -583,5 +581,4 @@ ANWAR VOL 72. P 2.37)
 from the other &. if the one who is begged from knows the evil of
 rejecting the one who begs, nobody will turn down anyone's request.
 (TUHfUL AQOOL. P .300)
-
 

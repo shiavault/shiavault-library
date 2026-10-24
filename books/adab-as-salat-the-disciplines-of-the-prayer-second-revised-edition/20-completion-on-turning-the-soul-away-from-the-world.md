@@ -60,4 +60,3 @@ of the shrine of 'Abd al-'Azīm al-Hasanī, in the graveyard of the late
 Shaykh Abū 'l-Futūh ar-Rāzī. May Allah resurrect him together with the
 Prophet Muhammad and his pure progeny.
 
-

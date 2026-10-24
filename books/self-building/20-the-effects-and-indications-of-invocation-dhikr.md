@@ -32,12 +32,8 @@ the exalted position of love and witnessing and would not have a total
 commitment towards Divine commands. Imam al-Sadiq has defined the
 invocation (*dhikr*) as follows:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: (فى حديث الى ان قال) ولكن اذ اورد عليك شئ
-امر الله به اخذت به واذا ورد عليك شئ نهى عنه تركته.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: (فى حديث الى ان قال) ولكن اذ اورد عليك شئ
+> امر الله به اخذت به واذا ورد عليك شئ نهى عنه تركته.
 
 *“Invocation is meant that when some one encounters an act which has
 been made mandatory by God-Almighty he performs it and if it is
@@ -45,12 +41,8 @@ forbidden, he refrains from it.”*[^1]
 
 Imam al Husayn (a.s.) in his prayer of Arafah said:
 
-<blockquote dir="rtl">
-  <p>
-يا من اذاق احبائه حلاوة المؤانسة فقاموا بين يديه متملقين و يا من البس
-اوليائه ملابس هيبته فقاموا بين يديه مستغفرين.
-  </p>
-</blockquote>
+> يا من اذاق احبائه حلاوة المؤانسة فقاموا بين يديه متملقين و يا من البس
+> اوليائه ملابس هيبته فقاموا بين يديه مستغفرين.
 
 *“Oh God-Almighty! Thou are the One Who has poured the sweetness of Your
 love inside your friend's mouths so that they should stand in prayer in
@@ -60,23 +52,15 @@ and repent in front of you.”*[^2]
 
 God-Almighty said in Holy Qur’an
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللَّهُ
-  </p>
-</blockquote>
+> قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللَّهُ
 
 ***“Say: If you do love God follow me: God will love you. (3:31)***
 
 Imam al Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: من كان ذاكر الله على الحقيقة فهو مطيع ومن كان
-غافلا عنه فهو عاص.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: من كان ذاكر الله على الحقيقة فهو مطيع ومن كان
+> غافلا عنه فهو عاص.
 
 *“Whoever becomes a sincere invocator of God-Almighty, will also become
 truly obedient to Him, and whoever is negligent, will be a sinner.”*[^3]
@@ -90,12 +74,8 @@ in regret while realizing his omissions and negligence.
 
 Imam al-Sadiq (a.s.) had narrated in a tradition:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام (فى حديث الى قال) ومعرفتك بذكره لك يورثك الخضوع
-والاستحيا والانكسار.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام (فى حديث الى قال) ومعرفتك بذكره لك يورثك الخضوع
+> والاستحيا والانكسار.
 
 *“Your enlightenment because of your being paid attention by
 God-Almighty will result in your becoming humble, modest and
@@ -146,11 +126,7 @@ All of the above most probably takes away ease and comfort from a human
 being, whose roots could be traced to strong attachments to world and
 avoidance of God's remembrance. God-Almighty said in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
-  </p>
-</blockquote>
+> وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا
 
 ***“But he who turneth away from remembrance of me, his will be a narrow
 life. (20:124)***
@@ -167,21 +143,13 @@ have attached themselves to the Fountainhead of all Blessings and
 Perfection, which lacks nothing. Imam al-Hussain (a.s.) in his prayer of
 Arafah had said:
 
-<blockquote dir="rtl">
-  <p>
-أنت الذي أزلت الأغيار عن قلوب أحبائك، حتى لم يحبوا سواك، ولم يلجئوا
-إلى غيرك أنت المونس لهم حيث أوحشتهم العوالم، وأنت الذي هديتهم حيث
-استبانت لهم المعالم ماذا وجد من فقدك؟
-  </p>
-</blockquote>
+> أنت الذي أزلت الأغيار عن قلوب أحبائك، حتى لم يحبوا سواك، ولم يلجئوا
+> إلى غيرك أنت المونس لهم حيث أوحشتهم العوالم، وأنت الذي هديتهم حيث
+> استبانت لهم المعالم ماذا وجد من فقدك؟
 
-<blockquote dir="rtl">
-  <p>
-وما الذي فقد من وجدك؟ لقد خاب من رضي دونك بدلا ولقد خسر من بغى عنك
-متحولا كيف يرجى سواك وانت ما قطعت الاحسان وكيف يطلب من غيرك وانت ما
-بدلت عادة الامتنان.
-  </p>
-</blockquote>
+> وما الذي فقد من وجدك؟ لقد خاب من رضي دونك بدلا ولقد خسر من بغى عنك
+> متحولا كيف يرجى سواك وانت ما قطعت الاحسان وكيف يطلب من غيرك وانت ما
+> بدلت عادة الامتنان.
 
 *“Oh Lord! Thou are the one who has removed the love of others from the
 hearts of your favorite saints, so that they are not attached to any
@@ -204,12 +172,8 @@ tranquility, because, in principle, nothing can rescue the heart's boat
 inside the stormy oceans of the life except God’s Remembrance.
 God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا
-بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا
+> بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
 
 ***“Who have believed and whose hearts have rest in the remembrance of
 God. Verily in the remembrance of God do hearts find rest! (***13:28)
@@ -225,24 +189,16 @@ special favor and blessing upon His servant. This matter has been
 mentioned in the following verses and traditions, God-Almighty said in
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَاذْكُرُونِي أَذْكُرْكُمْ
-  </p>
-</blockquote>
+> فَاذْكُرُونِي أَذْكُرْكُمْ
 
 ***“Therefore, remember me, I will remember you. (2:152)***
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام: قال الله عزوجل: يابن آدم! اذكرنى فى نفسك
-اذكرك فى نفسى, يابن آدم! اذكرنى فى خلا اذكرك فى خلا, يابن آدم! اذكرنى
-فى ملا اذكرك فى ملا خير من ملاك. وقال: ما من عبد ذكر الله فى ملا من
-الناس الا ذكره الله فى ملا من الملائكة.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام: قال الله عزوجل: يابن آدم! اذكرنى فى نفسك
+> اذكرك فى نفسى, يابن آدم! اذكرنى فى خلا اذكرك فى خلا, يابن آدم! اذكرنى
+> فى ملا اذكرك فى ملا خير من ملاك. وقال: ما من عبد ذكر الله فى ملا من
+> الناس الا ذكره الله فى ملا من الملائكة.
 
 *“God-Almighty had said: 'Oh son of Adam! Remember me in your self so
 that I would remember you in My Self;. Oh son of Adam! Remember me in
@@ -270,15 +226,11 @@ towards Him, he is blessed with God's attention and special favors,
 whereby He bestows upon him exalted spiritual positions and takes over
 the control of his heart, The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-عن النبى صلى الله عليه وآله قال: قال الله تعالى: إذا علمت أنّ الغالب
-على عبدي الاشتغال بي نقلت شهوته في مسألتي ومناجاتي ، فإذا كان عبدي
-كذلك فأراد أن يسهو حلتُ بينه وبين أن يسهو ـ وهذا معنى العصمة ـ اُولئك
-أوليائي حقّاً ، اُولئك الأبطال حقّا, أولئك الذين اذا اردت ان اهلك اهل
-الارض عقوبة زويتها عنهم من اجل اولئك الابطال.
-  </p>
-</blockquote>
+> عن النبى صلى الله عليه وآله قال: قال الله تعالى: إذا علمت أنّ الغالب
+> على عبدي الاشتغال بي نقلت شهوته في مسألتي ومناجاتي ، فإذا كان عبدي
+> كذلك فأراد أن يسهو حلتُ بينه وبين أن يسهو ـ وهذا معنى العصمة ـ اُولئك
+> أوليائي حقّاً ، اُولئك الأبطال حقّا, أولئك الذين اذا اردت ان اهلك اهل
+> الارض عقوبة زويتها عنهم من اجل اولئك الابطال.
 
 *“God Almighty said: 'When I find a servant sincerely engaged in my
 invocation -makes him further interested into hymns and worshipping, and
@@ -296,23 +248,15 @@ when a person engages himself in God's remembrance and obeys His
 commandments, He too reciprocates and starts loving that person, The
 Holy Qur’an said:
 
-<blockquote dir="rtl">
-  <p>
-قل ان كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ
-  </p>
-</blockquote>
+> قل ان كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ
 
 ***“If you love God, follow me, God will love you. (3:31)***
 
 Imam al-Sadiq had narrated from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبد الله عليه السلام: قال رسول الله صلى الله عليه وآله: من اكثر
-ذكر الله احبه الله ومن ذكر الله كثيرا كتبت له برائتان برائة من النار و
-برائة من النفاق.
-  </p>
-</blockquote>
+> عن ابي عبد الله عليه السلام: قال رسول الله صلى الله عليه وآله: من اكثر
+> ذكر الله احبه الله ومن ذكر الله كثيرا كتبت له برائتان برائة من النار و
+> برائة من النفاق.
 
 *“Whoever offers lots of God's invocation will achieve God's affection
 towards him, whoever continuously remembers God-Almighty will have two
@@ -371,11 +315,7 @@ pays attention towards anything except the Holy Names and
 Characteristics of God-Almighty. He sees the Lord of the Universe as
 Over seer of every thing and every where, Who had said:
 
-<blockquote dir="rtl">
-  <p>
-هو الاول والاخر والظاهر والباطن.
-  </p>
-</blockquote>
+> هو الاول والاخر والظاهر والباطن.
 
 *“I am the first, the last, the hidden and the apparent.”*
 
@@ -406,5 +346,4 @@ entering into these privileged positions.
 [^7]: Bihar al-Anwar, vol, 93, p-162.
 
 [^8]: Wasail al-Shi’a, vol. 4, p-181.
-
 

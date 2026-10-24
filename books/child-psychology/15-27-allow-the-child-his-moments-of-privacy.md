@@ -79,7 +79,6 @@ privacy is now considered a human right and there already exists laws
 against its intrusion in many countries. Childhood is no excuse for
 deprivation of privacy. The excuse is childish!
 
-
 **28- Save the Child from Risk of School Antipathy**
 
 It was a primary school. The geography teacher asked for a volunteer
@@ -202,5 +201,4 @@ landed in a trouble when he repeated it during the dinner time that
 evening at home. That was way back in 1946. Have things changed with
 regard to the antipathy…?……Much? Then the author wouldn't be mentioning
 the story!
-
 

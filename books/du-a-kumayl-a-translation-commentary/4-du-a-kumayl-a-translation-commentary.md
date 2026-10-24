@@ -1,27 +1,15 @@
 Du`a Kumayl, A Translation & Commentary
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-دُعَاء كُميل بن زياد (رحمه الله)
-  </p>
-</blockquote>
+> دُعَاء كُميل بن زياد (رحمه الله)
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 **In The Name of Allah, The Compassionate, The Merciful**
 
 O Allah! Bless Muhammad and his progeny.
 
-<blockquote dir="rtl">
-  <p>
-أَللّهُمَّ إِنِّي أَسأَلُكَ بِرحَمتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ
-  </p>
-</blockquote>
+> أَللّهُمَّ إِنِّي أَسأَلُكَ بِرحَمتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ
 
 O Allah! I beseech Thee by Thy mercy which encompasses all thingsO
 Allah! I beseech Thee by Thy mercy which encompasses all things
@@ -60,12 +48,8 @@ one else-besides Allah-deserving to be sought from and the words "Thy
 Mercy which encompasses all things represent exactly the description
 thereof given in C. 7 v. 156 of the Holy Qur'an.
 
-<blockquote dir="rtl">
-  <p>
-وَبِقُوَّتِكَ الَّتِي قَهرْتَ بِها كُلَّ شَيءٍ ، وَخضَعَ لَها كُلُّ
-شَيْءٍ ، وَذَلَّ لَها كُلُّ شَيْءٍٍ
-  </p>
-</blockquote>
+> وَبِقُوَّتِكَ الَّتِي قَهرْتَ بِها كُلَّ شَيءٍ ، وَخضَعَ لَها كُلُّ
+> شَيْءٍ ، وَذَلَّ لَها كُلُّ شَيْءٍٍ
 
 And by Thy power by which Thou overcometh all things and submit to it
 all things and humble before it all things
@@ -76,11 +60,7 @@ C. 39 v. 4 of the Qur'an states - ***"He is Allah, the One, the Subduer
 "Al Qahar" (the Subduer) is an epithet of Allah and C. 2 v. 165
 clarifies that "The Power is wholly Allah's."
 
-<blockquote dir="rtl">
-  <p>
-وَبِجَبَرُوتِكَ الَّتِي غَلَبْتَ بِها كُلَّ شَيْءٍ
-  </p>
-</blockquote>
+> وَبِجَبَرُوتِكَ الَّتِي غَلَبْتَ بِها كُلَّ شَيْءٍ
 
 And by Thy might by which Thou hast conquered all thingsAnd by Thy might
 by which Thou hast conquered all things
@@ -88,11 +68,7 @@ by which Thou hast conquered all things
 The word "Jabarut" meaning "Might", is derived from the epithet of Allah
 "Al Jabbar" meaning "The Mighty One."
 
-<blockquote dir="rtl">
-  <p>
-وَبعَزَّتِكَ الَّتِي لا يَقُومُ لَها شَيْءٌ
-  </p>
-</blockquote>
+> وَبعَزَّتِكَ الَّتِي لا يَقُومُ لَها شَيْءٌ
 
 And by Thy majesty against which nothing can stand upAnd by Thy majesty
 against which nothing can stand up
@@ -100,22 +76,14 @@ against which nothing can stand up
 The word "Izzat" is derived from Allah's epithet "Al Aziz" (The
 Glorious).
 
-<blockquote dir="rtl">
-  <p>
-وَبِعَظَمَتِكَ الَّتِي مَلاَتْ كُلَّ شَيْءٍ
-  </p>
-</blockquote>
+> وَبِعَظَمَتِكَ الَّتِي مَلاَتْ كُلَّ شَيْءٍ
 
 And by Thy grandeur which prevails upon all thingsAnd by Thy grandeur
 which prevails upon all things
 
 ***"He is the Most High, the Tremendous"*** C. 2 v. 255 of the Qur'an.
 
-<blockquote dir="rtl">
-  <p>
-وَبِسُلْطانِكَ الَّذِي عَلا كُلَّ شَيْءٍ
-  </p>
-</blockquote>
+> وَبِسُلْطانِكَ الَّذِي عَلا كُلَّ شَيْءٍ
 
 And by Thy authority which is exercised over all thingsAnd by Thy
 authority which is exercised over all things
@@ -125,11 +93,7 @@ Jaushan al-Kabir). The combined authority of all worldly powers are
 incapable to prevent natural disasters like earthquakes, cyclones or
 floods even though they may have had previous notice of it.
 
-<blockquote dir="rtl">
-  <p>
-وَبِوَجْهِكَ الباقِي بَعْدَ فَناءِ كُلِّ شَيْءٍ
-  </p>
-</blockquote>
+> وَبِوَجْهِكَ الباقِي بَعْدَ فَناءِ كُلِّ شَيْءٍ
 
 And by Thy own self that shall endure forever after all things have
 vanishedAnd by Thy own self that shall endure forever after all things
@@ -144,11 +108,7 @@ and in C. 55 v. 27.
 It is stated "And there shall remain for ever the Person of Thy Lord,
 the Lord of Glory and Honour."
 
-<blockquote dir="rtl">
-  <p>
-وَبِأَسْمائِكَ الَّتِي ملاَ َتْ أَرْكانَ كُلِّ شَيْءٍ
-  </p>
-</blockquote>
+> وَبِأَسْمائِكَ الَّتِي ملاَ َتْ أَرْكانَ كُلِّ شَيْءٍ
 
 And by Thy Names which manifest Thy power over all thingsAnd by Thy
 Names which manifest Thy power over all things
@@ -157,11 +117,7 @@ This refers to "Asmaul Husna" the Excellent Names of Allah. Malbubi
 states that these Names constitute the props which sustain everything in
 existence.
 
-<blockquote dir="rtl">
-  <p>
-وَبِعِلْمِكَ الَّذِي أَحاطَ بِكُلِّ شَيْءٍ
-  </p>
-</blockquote>
+> وَبِعِلْمِكَ الَّذِي أَحاطَ بِكُلِّ شَيْءٍ
 
 And by Thy knowledge which pervades all thingsAnd by Thy knowledge which
 pervades all things
@@ -174,11 +130,7 @@ states:
 "Al Muhitun" meaning "One who Encompasses or Comprehends" is one of the
 epithets of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَبِنُورِ وَجْهِكَ الَّذِي أَضأَ لَهُ كُلُّ شَيءٍْ
-  </p>
-</blockquote>
+> وَبِنُورِ وَجْهِكَ الَّذِي أَضأَ لَهُ كُلُّ شَيءٍْ
 
 And by the light of Thy countenance which illuminates everythingAnd by
 the light of Thy countenance which illuminates everything
@@ -191,22 +143,14 @@ that the Imams are the countenance of Allah. (Tafsir Safi). Imam
 al-Ridha (A.S.) has stated that the Prophets, the Messengers and the
 Imams are meant by the phrase "Countenance of Allah" (Tafsir Qummi).
 
-<blockquote dir="rtl">
-  <p>
-يا نوُرُ ياقُدُّوسُ ياأَوَّلَ الاوَّلِينَ ، وَيا آخِرَ الآخِرينَ
-  </p>
-</blockquote>
+> يا نوُرُ ياقُدُّوسُ ياأَوَّلَ الاوَّلِينَ ، وَيا آخِرَ الآخِرينَ
 
 O Thou who art the light! O Thou who art the most holy! O Thou who
 existed before the foremost! O Thou who shall exist after the last!
 
 This passage asserts that Allah's eternity has no beginning and no end.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تَهْتِكُ العِصَمَ
-  </p>
-</blockquote>
+> اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تَهْتِكُ العِصَمَ
 
 O Allah! Forgive me my such sins as would affront my contingency
 
@@ -224,11 +168,7 @@ which cause mockery or derision amongst people, (4) Gossiping about
 other people's vices or infamies; and (5) Associating with those who are
 sceptics or agnostics (Anisul Lail).
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُنْزِلُ النِّقَمَ
-  </p>
-</blockquote>
+> اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُنْزِلُ النِّقَمَ
 
 O Allah! Forgive me my such sins as would bring down calamityO Allah!
 Forgive me my such sins as would bring down calamity
@@ -239,11 +179,7 @@ Publication of falsehood; (4) Giving judgement contrary to Allah's
 revelation; (5) Refusing, or preventing the payment of Zakaat, and (6)
 Giving of short measure. (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُغَيِّرُ النِّعَمَ
-  </p>
-</blockquote>
+> اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُغَيِّرُ النِّعَمَ
 
 O Allah! Forgive me my such sins as would change divine favours (into
 disfavours)O Allah! Forgive me my such sins as would change divine
@@ -256,11 +192,7 @@ Sadiq (A.S.) has also included the following other sins under this
 category:- (1) Displaying one's own poverty; (2) Despising Allah's
 Favour; and (3) Uttering a complaint against Allah. ( Anisul Lail ) .
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تَحْبِسُ الدُّعأَ
-  </p>
-</blockquote>
+> اللّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تَحْبِسُ الدُّعأَ
 
 O Allah! Forgive me my such sins as would hinder my supplicationO Allah!
 Forgive me my such sins as would hinder my supplication
@@ -270,11 +202,7 @@ ceasing to believe in the prayer being answered (granted ), hypocrisy
 towards brethren, delays in the saying of prayers in time and violation
 of duties towards the two parents (Uququl Walidain). (Anisul Lail).
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اغْفِرْ لِيَ الّذنُوبَ الّتي تُنْزِلُ البَلاَ
-  </p>
-</blockquote>
+> اللّهُمَّ اغْفِرْ لِيَ الّذنُوبَ الّتي تُنْزِلُ البَلاَ
 
 O Allah! Forgive me such sins as bring down misfortunes (or
 afflictions)O Allah! Forgive me such sins as bring down misfortunes (or
@@ -326,12 +254,8 @@ Does My bondman, in his distress, hope for relief from any one else save
 Myself whilst I control destinies? Does he hope to acquire anything from
 any one else when I am All Sufficing and Generous?" ( Anisul Lail ) .
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ اغْفِرْ لِيَ كُلَّ ذَنْبٍ أذْنَبْتُهُ ، وَكُلَّ خَطِيئَةٍ
-أَخْطَأْتُها
-  </p>
-</blockquote>
+> اللّهُمَّ اغْفِرْ لِيَ كُلَّ ذَنْبٍ أذْنَبْتُهُ ، وَكُلَّ خَطِيئَةٍ
+> أَخْطَأْتُها
 
 O Allah! Forgive every sin that I have committed and every error that I
 have erredO Allah! Forgive every sin that I have committed and every
@@ -350,11 +274,7 @@ C. 4 v. 17 of the Qur'an says:
 then turn (to Allah) soon, so these it is to whom Allah turns
 (mercifully), and Allah is ever Knowing, Wise."***
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ بِذِكْرِكَ
-  </p>
-</blockquote>
+> اللّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ بِذِكْرِكَ
 
 O Allah! I endeavour to draw myself nigh to Thee through Thy invocationO
 Allah! I endeavour to draw myself nigh to Thee through Thy invocation
@@ -368,11 +288,7 @@ is the highest prize a human being to attain. The Qur'an says:
 ***"Then if he is one of those drawn nigh (to Allah); Then happiness and
 bounty and a garden of bliss (for them)"*** (C. 56 v. 88 and 89).
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَشفِعُ بِكَ إِلى نَفْسِكَ
-  </p>
-</blockquote>
+> وَاسْتَشفِعُ بِكَ إِلى نَفْسِكَ
 
 And I pray to Thee to intercede on my behalf. And I pray to Thee to
 intercede on my behalf
@@ -383,22 +299,14 @@ others also to intercede. See Verse 109 of C. 20 which reads- "On that
 day shall no intercession avail except of him whom the Beneficent God
 allows and whose word He is pleased with."***
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْأَلُكَ بِجوُدِكَ أَنْ تُدْنِيَنِي مِنْ قُرْبِكَ
-  </p>
-</blockquote>
+> وَأَسْأَلُكَ بِجوُدِكَ أَنْ تُدْنِيَنِي مِنْ قُرْبِكَ
 
 And I entreat Thee by Thy benevolence to draw me nearer to TheeAnd I
 entreat Thee by Thy benevolence to draw me nearer to Thee
 
 The nearness to God signifies the perfection of a human being
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ تُوزِعَنِي شُكْرَكَ، وأَنْ تُلْهِمَنِي ذِكْرَك
-  </p>
-</blockquote>
+> وَأَنْ تُوزِعَنِي شُكْرَكَ، وأَنْ تُلْهِمَنِي ذِكْرَك
 
 And grant me that I should be grateful to Thee and inspire me to
 remember and to invoke Thee. And grant me that I should be grateful to
@@ -412,11 +320,7 @@ says:
 ***"Surely by Allah's remembrance are the hearts set at rest."*** C. 13
 v. 29.
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ إِنِّي أَسأَلُكَ سُؤالَ خاضِعٍ مُتَذَلِّلٍ خاشِعٍ
-  </p>
-</blockquote>
+> اللّهُمَّ إِنِّي أَسأَلُكَ سُؤالَ خاضِعٍ مُتَذَلِّلٍ خاشِعٍ
 
 O Allah! I entreat Thee begging Thee submissively, humbly and
 awestricken
@@ -425,12 +329,8 @@ These are the essential qualities needed for approaching Allah. A person
 is required to have awe of his Lord and fear the evil consequences of
 the Day of Reckoning. See C. 13 v. 21 of the Qur'an.
 
-<blockquote dir="rtl">
-  <p>
-أَنْ تُسامِحَنِي وَتَرْحَمَنِي وَتَجْعَلَنِي بِقِسَمِكَ راضِياً
-قانِعاً
-  </p>
-</blockquote>
+> أَنْ تُسامِحَنِي وَتَرْحَمَنِي وَتَجْعَلَنِي بِقِسَمِكَ راضِياً
+> قانِعاً
 
 To treat me with clemency and mercy, and to make me pleased and
 contented with what Thou hast allotted to me
@@ -465,11 +365,7 @@ Allah says in the Holy Qur'an:
 ***"We distribute among them their sustenance (rizq) in the life of the
 world.''*** C. 43 v. 32 (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-وَفِي جَمِيعِ الاحْوالِ مُتَواضِعا
-  </p>
-</blockquote>
+> وَفِي جَمِيعِ الاحْوالِ مُتَواضِعا
 
 And cause me to be modest and unassuming in all circumstancesAnd cause
 me to be modest and unassuming in all circumstances
@@ -478,12 +374,8 @@ It is stated in Hadith that Allah has appointed two angels over each of
 his bondsmen; whoever is humble and unassuming over others, Allah exalts
 him, but whoever is arrogant suffers humiliation. ( Malbubi ) .
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ وَأَسأَلُكَ سُؤالَ مَنِ إِشْتَدَّتْ فاقَتُهُ وَأَنْزَلَ بِكَ
-عِنْدَ الشَّدائِدِ حاجَتَهُ ، وَعَظُمَ فِيما عِنْدَكَ رَغْبَتُهُ
-  </p>
-</blockquote>
+> اللّهُمَّ وَأَسأَلُكَ سُؤالَ مَنِ إِشْتَدَّتْ فاقَتُهُ وَأَنْزَلَ بِكَ
+> عِنْدَ الشَّدائِدِ حاجَتَهُ ، وَعَظُمَ فِيما عِنْدَكَ رَغْبَتُهُ
 
 O Allah! I beg Thee as one who is passing through extreme privation and
 who supplicates his needs to Thee and his hope has been greatly raised
@@ -497,11 +389,7 @@ committed)." It is stated by Allah in Hadith Qudsi "When hope and fear
 (of His Wrath) combine in a believer, I make paradise for him
 incumbent." ( Malbubi ) .
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ عَظُمَ سُلْطانُكَ وَعَلا مَكانُكَ
-  </p>
-</blockquote>
+> اللّهُمَّ عَظُمَ سُلْطانُكَ وَعَلا مَكانُكَ
 
 O Allah! Great is Thy kingdom and exalted is Thy greatnessO Allah! Great
 is Thy kingdom and exalted is Thy greatness
@@ -511,12 +399,8 @@ having acknowledged his own disability to remedy his own privation,
 seeks succour from the Lord Whose Kingdom is great and Might is exalted.
 (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-وَخَفِيَ مَكْرُكَ ، وَظَهَرَ أَمْرُك وَغَلَبَ قَهْرُكَ ، وَجَرَتْ
-قُدْرَتُكَ ، وَلايُمْكِنُ الفِرارُ مِنْ حُكُومَتِكَ
-  </p>
-</blockquote>
+> وَخَفِيَ مَكْرُكَ ، وَظَهَرَ أَمْرُك وَغَلَبَ قَهْرُكَ ، وَجَرَتْ
+> قُدْرَتُكَ ، وَلايُمْكِنُ الفِرارُ مِنْ حُكُومَتِكَ
 
 Thy plan is secret, Thy authority is manifest, Thy might is victorious
 and subduing and Thy power is prevalent throughout and it is not
@@ -536,11 +420,7 @@ strength to resist Malik, the Angel in charge of the Hell, flinging you
 into the Hell. If you are able to do these five things, then sin as you
 like. (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ لا أَجِدُ لِذُنُوبِي غافِراً وَلا لِقَبائِحِي ساتِراً
-  </p>
-</blockquote>
+> اللّهُمَّ لا أَجِدُ لِذُنُوبِي غافِراً وَلا لِقَبائِحِي ساتِراً
 
 O Allah! Except Thee I do not find any one able to pardon my sins nor to
 conceal my loathsome actsO Allah! Except Thee I do not find any one able
@@ -559,11 +439,7 @@ virtues. In one of our supplications, we say "O Thou! who makes
 conspicuous our decorous actions and conceals those that are loathsome."
 (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-وَلا لِشَيٍْ مِنْ عَمَلِيَ القَبِيحِ بِالحَسَنِ مُبَدِّلاً غَيْرَكَ
-  </p>
-</blockquote>
+> وَلا لِشَيٍْ مِنْ عَمَلِيَ القَبِيحِ بِالحَسَنِ مُبَدِّلاً غَيْرَكَ
 
 Nor have I any one except Thee to change my evil deeds into virtuesNor
 have I any one except Thee to change my evil deeds into virtues
@@ -575,23 +451,15 @@ virtues. Says the Holy Qur'an:
 are they of whom Allah changes the evil deeds to good ones; and Allah is
 Forgiving and Merciful***." C. 25 v. 70.
 
-<blockquote dir="rtl">
-  <p>
-لا إِلهَ إِلا أَنْتَ ، سُبْحانَكَ وَبِحَمْدِكَ ظَلَمْتُ نَفْسِي ،
-وَتَجَرَّأْتُ بِجَهْلِي
-  </p>
-</blockquote>
+> لا إِلهَ إِلا أَنْتَ ، سُبْحانَكَ وَبِحَمْدِكَ ظَلَمْتُ نَفْسِي ،
+> وَتَجَرَّأْتُ بِجَهْلِي
 
 There is no god but Thou glory and praise be to Thee I have made my own
 soul to suffer I had the audacity (to sin) by my ignorance
 
 "Ignorance" here means "foolishness or stupidity" (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-وَسَكَنْتُ إِلى قَدِيمِ ذِكْرِكَ لِي ، وَمَنِّكَ عَلَيَّ
-  </p>
-</blockquote>
+> وَسَكَنْتُ إِلى قَدِيمِ ذِكْرِكَ لِي ، وَمَنِّكَ عَلَيَّ
 
 Relying upon my past remembrance of Thee and Thy grace towards meRelying
 upon my past remembrance of Thee and Thy grace towards me
@@ -642,22 +510,14 @@ the following words engraved on his chest in clear letters:-'I have
 washed this bondman with the water of penitence, now My bondman is pure
 from sins.' (Anisul Lail).
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ مَوْلايَ كَمْ مِنْ قَبيحٍ سَتَرْتَهُ ، وَكَمْ مِنْ فادِحٍ
-مِنَ البَلاِ أَقَلْتَهُ
-  </p>
-</blockquote>
+> اللّهُمَّ مَوْلايَ كَمْ مِنْ قَبيحٍ سَتَرْتَهُ ، وَكَمْ مِنْ فادِحٍ
+> مِنَ البَلاِ أَقَلْتَهُ
 
 O Allah! My Lord! How many of my loathsome acts hast Thou screened (from
 public gaze)O Allah! My Lord! How many of my loathsome acts hast Thou
 screened (from public gaze)
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ مِنْ عِثارٍ وَقَيْتَهُ ، وَكَمْ مِنْ مَكْروُهٍ دَفَعْتَهُ
-  </p>
-</blockquote>
+> وَكَمْ مِنْ عِثارٍ وَقَيْتَهُ ، وَكَمْ مِنْ مَكْروُهٍ دَفَعْتَهُ
 
 How many of my grievous afflictions (distresses) hast Thou reduced in
 severity
@@ -665,11 +525,7 @@ severity
 The word "Maula" has here been used in the sense of "Master" and the
 word "Fadihin" means "heavy" or "grievous" (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ مِنْ ثَنأٍ جَمِيلٍ لَسْتُ أَهْلاً لَهُ نَشَرْتَهُ
-  </p>
-</blockquote>
+> وَكَمْ مِنْ ثَنأٍ جَمِيلٍ لَسْتُ أَهْلاً لَهُ نَشَرْتَهُ
 
 And how many of my stumblings hast Thou protected, how many of my
 detestable acts has Thou averted, and how many of my undeserving praises
@@ -680,12 +536,8 @@ The Arabic word "ithar" has been translated by Malbubi as meaning
 stumbling." " Makruhin" is used in the general sense to mean "any
 blameworthy act."
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ عَظُمَ بَلائِي ، وَأَفْرَطَ بِي سُؤُ حالِي ، وَقَصُرَتْ بِي
-أَعْمالِي
-  </p>
-</blockquote>
+> اللّهُمَّ عَظُمَ بَلائِي ، وَأَفْرَطَ بِي سُؤُ حالِي ، وَقَصُرَتْ بِي
+> أَعْمالِي
 
 O Allah! My trails and sufferings have increased and my evilness has
 worsened, my good deeds have diminished and my yokes (of misdeeds) have
@@ -698,12 +550,8 @@ accomplish good deeds." When the yokes of sins become heavy, they over
 power the sinner and prevent him from accomplishing good deeds. (
 Malbubi ) .
 
-<blockquote dir="rtl">
-  <p>
-وَقَعَدَتْ بِي أَغْلالِي وَحَبَسَنِي عَنْ نَفْعِي بُعْدُ أَمَلِي
-وَخَدَعَتْنِي الدُّنْيا بِغُرُورِها ، وَنَفْسِي بِجِنايَتِها وَمِطالِي
-  </p>
-</blockquote>
+> وَقَعَدَتْ بِي أَغْلالِي وَحَبَسَنِي عَنْ نَفْعِي بُعْدُ أَمَلِي
+> وَخَدَعَتْنِي الدُّنْيا بِغُرُورِها ، وَنَفْسِي بِجِنايَتِها وَمِطالِي
 
 And remote hopes restrain me to profit (by good deeds) and the world has
 deceived me with its allurements and my own self has been affected by
@@ -719,21 +567,13 @@ referred to several types of \`nafs'' in a Hadith recorded in Majma' ul
 Bahraini but in the passage of this supplication, the supplicant
 obviously refers to his own self.
 
-<blockquote dir="rtl">
-  <p>
-ياسَيِّدِي فَأَسْأَلُكَ بِعِزَّتِكَ أَنْ لايَحْجُبَ عَنْكَ دُعائِي
-سُؤُ عَمَلِي وَفِعالي وَلاتَفْضَحَنِي بِخَفِيِّ مااطَّلَعْتَ عَلَيْهِ
-مِنْ سِرِّي
-  </p>
-</blockquote>
+> ياسَيِّدِي فَأَسْأَلُكَ بِعِزَّتِكَ أَنْ لايَحْجُبَ عَنْكَ دُعائِي
+> سُؤُ عَمَلِي وَفِعالي وَلاتَفْضَحَنِي بِخَفِيِّ مااطَّلَعْتَ عَلَيْهِ
+> مِنْ سِرِّي
 
-<blockquote dir="rtl">
-  <p>
-وَلاتُعاجِلْنِي بِالعُقُوبَةِ عَلى ما عَمِلْتُهُ فِي خَلَواتِي مِنْ
-سُؤِ فِعْلِي وَإِسأَتِي ، وَدَوامِ تَفْرِيطِي وَجَهالَتِي ، وَكَثْرَةِ
-شَهَواتِي وَغَفْلَتِي
-  </p>
-</blockquote>
+> وَلاتُعاجِلْنِي بِالعُقُوبَةِ عَلى ما عَمِلْتُهُ فِي خَلَواتِي مِنْ
+> سُؤِ فِعْلِي وَإِسأَتِي ، وَدَوامِ تَفْرِيطِي وَجَهالَتِي ، وَكَثْرَةِ
+> شَهَواتِي وَغَفْلَتِي
 
 Therefore, my Lord! I implore Thee by Thy greatness not to let my sins
 and my misdeeds shut out access to my prayers from reaching Thy realm
@@ -742,22 +582,14 @@ hast knowledge nor to hasten my retribution for those vices and misdeeds
 committed by me in secret which were due to evil-mindedness, ignorance,
 excessive lustfulness and my negligence
 
-<blockquote dir="rtl">
-  <p>
-وَكُنِ اللّهُمَّ بِعِزَّتِكَ لِي فِي كُلِّ الاحْوالِ رَؤُوفاً ،
-وَعَلَيَّ فِي جَمِيعِ الامُورِ عَطُوفاً
-  </p>
-</blockquote>
+> وَكُنِ اللّهُمَّ بِعِزَّتِكَ لِي فِي كُلِّ الاحْوالِ رَؤُوفاً ،
+> وَعَلَيَّ فِي جَمِيعِ الامُورِ عَطُوفاً
 
 O Allah! I beg Thee by Thy greatness to be compassionate to me in all
 circumstances and well disposed towards me in all matters
 
-<blockquote dir="rtl">
-  <p>
-إِلهِي وَرَبِّي مَنْ لِي غَيْرُكَ أَسأَلُهُ كَشْفَ ضُرِّي وَالنَّظَرَ
-فِي أَمْرِي
-  </p>
-</blockquote>
+> إِلهِي وَرَبِّي مَنْ لِي غَيْرُكَ أَسأَلُهُ كَشْفَ ضُرِّي وَالنَّظَرَ
+> فِي أَمْرِي
 
 My God! My Nourisher! Have I anyone except Thee from whom I can seek the
 dislodging of my evils and understanding of my problems?
@@ -772,22 +604,14 @@ the evil"*** C. 27 v. 62.
 One of the attributes of Allah is "Reliever of distresses" and every
 Prophet has sought relief from Him during distress.
 
-<blockquote dir="rtl">
-  <p>
-إِلهِي وَمَوْلايَ أَجْرَيْتَ عَلَيَّ حُكْماً اتَّبَعْتُ فِيهِ هَوى
-نَفْسِي
-  </p>
-</blockquote>
+> إِلهِي وَمَوْلايَ أَجْرَيْتَ عَلَيَّ حُكْماً اتَّبَعْتُ فِيهِ هَوى
+> نَفْسِي
 
 My God! My Master! Thou decreed a law for me but instead I obeyed my own
 low desiresMy God! My Master! Thou decreed a law for me but instead I
 obeyed my own low desires
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ أَحْتَرِسْ فِيهِ مِنْ تَزْيينِ
-  </p>
-</blockquote>
+> وَلَمْ أَحْتَرِسْ فِيهِ مِنْ تَزْيينِ
 
 And I did not guard myself against the allurements of my enemy
 
@@ -795,11 +619,7 @@ The enemy referred to is Satan who had declared before Allah:
  ***"I will certainty make (evil) fair seeming to them on earth and I
 will cause them all to deviate."*** C. 15 v. 39 of the Qur'an.
 
-<blockquote dir="rtl">
-  <p>
-عَدُوِّي فَغَرَّنِي بِما أَهْوى وَأَسْعَدَهُ عَلى ذلِكَ القَض
-  </p>
-</blockquote>
+> عَدُوِّي فَغَرَّنِي بِما أَهْوى وَأَسْعَدَهُ عَلى ذلِكَ القَض
 
 He deceived me with vain hopes whereby I was led astray and fate helped
 him in that respectHe deceived me with vain hopes whereby I was led
@@ -812,13 +632,9 @@ numerous meanings amongst them it means "decreed", "created".
 "destiny", "death", "fatality", "prayer after the time appointed for it
 elapsed", "adjudged", "fate", "predestination", or "inevitable fate".
 
-<blockquote dir="rtl">
-  <p>
-فَتَجاوَزْتُ بِما جَرى عَلَيَّ مِنْ ذلِكَ بَعْضَ حُدُودِكَ ،
-وَخالَفْتُ بَعْضَ أَوامِرِكَ فَلَكَ الحَمْدُ عَلَيَّ فِي جَمِيعِ ذلِكَ
-وَلاحُجَّةَ لِي فِيما جَرى عَلَيَّ فِيهِ قَضاؤُكَ
-  </p>
-</blockquote>
+> فَتَجاوَزْتُ بِما جَرى عَلَيَّ مِنْ ذلِكَ بَعْضَ حُدُودِكَ ،
+> وَخالَفْتُ بَعْضَ أَوامِرِكَ فَلَكَ الحَمْدُ عَلَيَّ فِي جَمِيعِ ذلِكَ
+> وَلاحُجَّةَ لِي فِيما جَرى عَلَيَّ فِيهِ قَضاؤُكَ
 
 Thus I transgressed some of its limits set for me by Thee and I
 disobeyed some of Thy commandments; Thou hast therefore a (just) cause
@@ -833,25 +649,17 @@ Apostle, revealing the Qur'an and appointing the Imams to interpret His
 laws and the sinner further admits that he has no "plea" or argument for
 excusing himself from transgressing Allah's laws. ( Malbubi ).
 
-<blockquote dir="rtl">
-  <p>
-وَأَلْزَمَنِي حُكْمُكَ وَبَلاؤُكَ
-  </p>
-</blockquote>
+> وَأَلْزَمَنِي حُكْمُكَ وَبَلاؤُكَ
 
 I have therefore become (justifiably) liable to Thy judgement and
 afflictionsI have therefore become (justifiably) liable to Thy judgement
 and afflictions
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ أَتَيْتُكَ ياإِلهِي بَعْدَ تَقْصِيرِي وَإِسْرافِي عَلى نَفْسِي
-مُعْتَذِراً نادِماً مُنْكَسِراً مُسْتَقِيلاً مُسْتَغْفِراً مُنِيباً
-مُقِرّاً مُذْعِنا مُعْتَرِفاً لا أَجِدُ مَفَرّاً مِمّا كانَ مِنِّي
-وَلا مَفْزَعاً أَتَوَجَّهُ إِلَيْهِ فِي أَمْرِي، غَيْرَ قَبُوُلِكَ
-عُذْرِي وَإِدْخالِكَ إِيّايَ فِي سَعَةِ رَحْمَتِكَ
-  </p>
-</blockquote>
+> وَقَدْ أَتَيْتُكَ ياإِلهِي بَعْدَ تَقْصِيرِي وَإِسْرافِي عَلى نَفْسِي
+> مُعْتَذِراً نادِماً مُنْكَسِراً مُسْتَقِيلاً مُسْتَغْفِراً مُنِيباً
+> مُقِرّاً مُذْعِنا مُعْتَرِفاً لا أَجِدُ مَفَرّاً مِمّا كانَ مِنِّي
+> وَلا مَفْزَعاً أَتَوَجَّهُ إِلَيْهِ فِي أَمْرِي، غَيْرَ قَبُوُلِكَ
+> عُذْرِي وَإِدْخالِكَ إِيّايَ فِي سَعَةِ رَحْمَتِكَ
 
 But now I have turned Thee, my Lord, after being guilty of omissions and
 transgressions against my soul, apologetically, repentantly, broken
@@ -860,45 +668,29 @@ heartedly, entreating earnestly for forgiveness, yieldingly confessing
 having no refuge to which I could turn except seeking Thy acceptance of
 my excuse and admitting me into the realm of Thy capacious mercy
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ فَاقْبَلْ عُذْرِي ، وَارْحَمْ شِدَّةَ ضُرِّي وَفُكَّنِي مِنْ
-شَدِّ وَثاقِي
-  </p>
-</blockquote>
+> اللّهُمَّ فَاقْبَلْ عُذْرِي ، وَارْحَمْ شِدَّةَ ضُرِّي وَفُكَّنِي مِنْ
+> شَدِّ وَثاقِي
 
 O Allah! Accept my apology and have pity on my intense sufferings and
 set me free from my heavy fetters (of evil deeds)
 
-<blockquote dir="rtl">
-  <p>
-يارَبِّ ارْحَمْ ضَعْفَ بَدَنِي ، وَرِقَّةَ جِلْدِي ، وَدِقَّةَ عَظْمِي
-  </p>
-</blockquote>
+> يارَبِّ ارْحَمْ ضَعْفَ بَدَنِي ، وَرِقَّةَ جِلْدِي ، وَدِقَّةَ عَظْمِي
 
 My Nourisher! Have mercy on the infirmity of my body, the delicacy of my
 skin and the brittleness of my bones
 
-<blockquote dir="rtl">
-  <p>
-يامَنْ بَدَأَ خَلْقِي وَذِكْرِي وَتَرْبِيَتِي وَبِرِّي وَتَغْذِيَتِي
-هَبْنِي لابْتِدأِ كَرَمِكَ وَسالِفِ بِرِّكَ بِي
-  </p>
-</blockquote>
+> يامَنْ بَدَأَ خَلْقِي وَذِكْرِي وَتَرْبِيَتِي وَبِرِّي وَتَغْذِيَتِي
+> هَبْنِي لابْتِدأِ كَرَمِكَ وَسالِفِ بِرِّكَ بِي
 
 O' Thou! Who originated my creation and (accorded me) my individuality,
 and (ensured) my upbringing and welfare (and provided) my sustenance (I
 beg Thee) to restore Thy favours and blessings upon me as Thou didst in
 the beginning of my life
 
-<blockquote dir="rtl">
-  <p>
-ياإِلهِي وَسَيِّدِي وَرَبِّي ، أَتُراكَ مُعَذِّبِي بِنارِكَ بَعْدَ
-تَوْحِيدِك وَبَعْدَما انْطَوى عَلَيْهِ قَلْبِي مِنْ مَعْرِفَتِكَ ،
-وَلَهِجَ بِهِ لِسانِي مِنْ ذِكْرِكَ وَاعْتَقَدَهُ ضَمِيرِي مِنْ
-حُبِّكَ وَبَعْدَ صِدْقِ إِعْتِرافِي وَدُعائِي خاضِعاً لِرُبُوبِيَّتِكَ
-  </p>
-</blockquote>
+> ياإِلهِي وَسَيِّدِي وَرَبِّي ، أَتُراكَ مُعَذِّبِي بِنارِكَ بَعْدَ
+> تَوْحِيدِك وَبَعْدَما انْطَوى عَلَيْهِ قَلْبِي مِنْ مَعْرِفَتِكَ ،
+> وَلَهِجَ بِهِ لِسانِي مِنْ ذِكْرِكَ وَاعْتَقَدَهُ ضَمِيرِي مِنْ
+> حُبِّكَ وَبَعْدَ صِدْقِ إِعْتِرافِي وَدُعائِي خاضِعاً لِرُبُوبِيَّتِكَ
 
 O' my God! My master! My Lord! And my Nourisher! What! Wilt Thou see me
 punished with the fire kindled by Thee despite my belief in Thy unity?
@@ -907,13 +699,9 @@ of Thee and when my tongue has repeatedly praised Thee and my conscience
 has acknowledged Thy love and despite my sincere confessions (of my
 sins) and my humble entreaties submissively made to Thy divinity?
 
-<blockquote dir="rtl">
-  <p>
-هَيْهاتَ ! أَنْتَ أَكْرَمُ مِنْ أَنْ تُضَيِّعَ مَنْ رَبَّيْتَهُ ، أَوْ
-تُبَعِّدَ مَنْ أَدْنَيْتَهُ أَوْ تُشَرِّدَ مَنْ آوَيْتَهُ ، أَوْ
-تُسَلِّمَ إِلى البَلاءِ مَنْ كَفَيْتَهُ وَرَحِمْتَهُ
-  </p>
-</blockquote>
+> هَيْهاتَ ! أَنْتَ أَكْرَمُ مِنْ أَنْ تُضَيِّعَ مَنْ رَبَّيْتَهُ ، أَوْ
+> تُبَعِّدَ مَنْ أَدْنَيْتَهُ أَوْ تُشَرِّدَ مَنْ آوَيْتَهُ ، أَوْ
+> تُسَلِّمَ إِلى البَلاءِ مَنْ كَفَيْتَهُ وَرَحِمْتَهُ
 
 Nay, Thou art far too kind and generous to destroy one whom thyself
 nourished and supported, or to drive away from Thyself one whom Thou has
@@ -921,17 +709,13 @@ kept under Thy protection, or to scare away one whom Thy self hast given
 shelter, or to abandon in affliction one Thou hast maintained and to
 whom Thou hast been merciful
 
-<blockquote dir="rtl">
-  <p>
-وَلَيْتَ شِعْرِي ياسَيِّدِي وَإِلهِي وَمَوْلايَ ! أَتُسَلِّطُ النّارَ
-عَلى وُجُوهٍ خَرَّتْ لِعَظَمَتِكَ ساجِدَةً وَعَلى أَلْسُنٍ نَطَقَتْ
-بِتَوْحِيدِكَ صادِقَةً وَبُشُكْرِكَ مادِحَةً وَعَلى قُلُوبٍ
-أَعْتَرَفَتْ بِإِلهِيَّتِكَ مُحَقِّقَةً وَعَلَى ضَمائِرَ حَوَتْ مِنَ
-العِلْمِ بِكَ حَتّى صارَتْ خاشِعَةً وَعَلى جَوارِحَ سَعَتْ إِلى
-أَوْطانِ تَعَبُّدِكَ طائِعَةً ، وَأَشارَتْ بِإِسْتِغْفارِكَ مُذْعِنَةً
-؟!
-  </p>
-</blockquote>
+> وَلَيْتَ شِعْرِي ياسَيِّدِي وَإِلهِي وَمَوْلايَ ! أَتُسَلِّطُ النّارَ
+> عَلى وُجُوهٍ خَرَّتْ لِعَظَمَتِكَ ساجِدَةً وَعَلى أَلْسُنٍ نَطَقَتْ
+> بِتَوْحِيدِكَ صادِقَةً وَبُشُكْرِكَ مادِحَةً وَعَلى قُلُوبٍ
+> أَعْتَرَفَتْ بِإِلهِيَّتِكَ مُحَقِّقَةً وَعَلَى ضَمائِرَ حَوَتْ مِنَ
+> العِلْمِ بِكَ حَتّى صارَتْ خاشِعَةً وَعَلى جَوارِحَ سَعَتْ إِلى
+> أَوْطانِ تَعَبُّدِكَ طائِعَةً ، وَأَشارَتْ بِإِسْتِغْفارِكَ مُذْعِنَةً
+> ؟!
 
 I wish I had known o' my Master, my God and my Lord! Wilt Thou inflict
 fire upon faces which have submissively bowed in prostration to Thy
@@ -954,11 +738,7 @@ translates "autaan" as plural of "Watan" meaning centres or homes and
 like namaz gah. In fact every inch of the earth, which is not privately
 owned and is pure from pollution (najasat) is a place of worship".
 
-<blockquote dir="rtl">
-  <p>
-ماهكَذا الظَنُّ بِكَ وَلا اُخْبِرْنا بِفَضْلِكَ عَنْك
-  </p>
-</blockquote>
+> ماهكَذا الظَنُّ بِكَ وَلا اُخْبِرْنا بِفَضْلِكَ عَنْك
 
 Such sort (of harshness) is not expected from Thee as it is remote from
 Thy grace, o' generous one!Such sort (of harshness) is not expected from
@@ -969,28 +749,20 @@ Although the Qur'an proclaims Allah as ***"severe in requiting
 Merciful."*** C. 9 v. 118. According to Malbubi, a Hadith directs us
 always to have "Husni dhan a good and favourable opinion for Allah.
 
-<blockquote dir="rtl">
-  <p>
-ياكَرِيمُ يارَبِّ وَأَنْتَ تَعْلَمُ ضَعْفِي عَنْ قَلِيلٍ مِنْ بَلاءِ
-الدُّنْيا وَعُقُوباتِها وَمايَجْرِي فِيها مِنَ المَكارِهِ عَلى
-أَهْلِها عَلى أَنَّ ذلِكَ بَلاٌ وَمَكْروهٌ قَلِيلٌ مَكْثُهُ ، يَسِيرٌ
-بَقاؤهُ قَصِيٌر مُدَّتُهُ
-  </p>
-</blockquote>
+> ياكَرِيمُ يارَبِّ وَأَنْتَ تَعْلَمُ ضَعْفِي عَنْ قَلِيلٍ مِنْ بَلاءِ
+> الدُّنْيا وَعُقُوباتِها وَمايَجْرِي فِيها مِنَ المَكارِهِ عَلى
+> أَهْلِها عَلى أَنَّ ذلِكَ بَلاٌ وَمَكْروهٌ قَلِيلٌ مَكْثُهُ ، يَسِيرٌ
+> بَقاؤهُ قَصِيٌر مُدَّتُهُ
 
 O' Lord! Thou art aware of my weakness to bear even a minor affliction
 of this world and its consequence and adversity affecting the denizen of
 this earth, although such afflictions are momentary, short-lived and
 transient
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِحْتِمالِي لِبَلاءِ الاخِرَةِ وَجَلِيلِ وُقُوعِ المَكارِهِ
-فِيها وَهُوَ بَلاٌ تَطُولُ مُدَّتُهُ وَيَدُومُ مَقامُهُ وَلايُخَفَّفُ
-عَنْ أَهْلِهِ لاَنَّهُ لايَكُونُ إِلاّ عَنْ غَضَبِكَ وَانْتِقامِكَ
-وَسَخَطِكَ وَهذا ما لاتَقُومُ لَهُ السَّماواتُ وَالارْضُ
-  </p>
-</blockquote>
+> فَكَيْفَ إِحْتِمالِي لِبَلاءِ الاخِرَةِ وَجَلِيلِ وُقُوعِ المَكارِهِ
+> فِيها وَهُوَ بَلاٌ تَطُولُ مُدَّتُهُ وَيَدُومُ مَقامُهُ وَلايُخَفَّفُ
+> عَنْ أَهْلِهِ لاَنَّهُ لايَكُونُ إِلاّ عَنْ غَضَبِكَ وَانْتِقامِكَ
+> وَسَخَطِكَ وَهذا ما لاتَقُومُ لَهُ السَّماواتُ وَالارْضُ
 
 How then can I bear the retributions and the punishments of the
 hereafter which are enormous and of intensive sufferings, of prolonged
@@ -999,43 +771,27 @@ those who deserve the same as those retributions will be the result of
 Thy wrath; and Thy punishment which neither the heavens nor the earth
 can withstand and bear!
 
-<blockquote dir="rtl">
-  <p>
-ياسَيِّدِي فَكَيْفَ لِي وَأَنا عَبْدُكَ الضَّعِيفُ الذَّلِيلُ
-الحَقِيرُ المِسْكِينُ المُسْتَكِينُ ؟!
-  </p>
-</blockquote>
+> ياسَيِّدِي فَكَيْفَ لِي وَأَنا عَبْدُكَ الضَّعِيفُ الذَّلِيلُ
+> الحَقِيرُ المِسْكِينُ المُسْتَكِينُ ؟!
 
 My Lord! How can I, a weak, insignificant, humble, poor and destitute
 creature of Thine be able to bear them?
 
-<blockquote dir="rtl">
-  <p>
-ياإِلهِي وَرَبِّي وَسَيِّدِي وَمَوْلايَ ، لايِّ الاُمُورِ إِلَيْكَ
-أَشْكُو ، وَلِما مِنها أَضِجُّ وَأَبْكِي
-  </p>
-</blockquote>
+> ياإِلهِي وَرَبِّي وَسَيِّدِي وَمَوْلايَ ، لايِّ الاُمُورِ إِلَيْكَ
+> أَشْكُو ، وَلِما مِنها أَضِجُّ وَأَبْكِي
 
 O' my God! My Lord! My King! And Master! Which of the matters shall I
 complain to Thee and for which of them shall I bewail and weep?
 
-<blockquote dir="rtl">
-  <p>
-لاَلِيمِ العَذابِ وَشِدَّتِهِ ، أَمْ لِطُولِ البَلاءِ وَمُدَّتِهِ ؟!
-  </p>
-</blockquote>
+> لاَلِيمِ العَذابِ وَشِدَّتِهِ ، أَمْ لِطُولِ البَلاءِ وَمُدَّتِهِ ؟!
 
 Shall I bewail for the pains and pangs of the punishment and their
 intensity or for the length of sufferings and their duration?
 
-<blockquote dir="rtl">
-  <p>
-فَلَئِنْ صَيَّرْتَنِي لِلْعُقُوباتِ مَعَ أَعْدائِكَ ، وَجَمَعْتَ
-بَيْنِي وَبَيْنَ أَهْلِ بَلائِكَ وَفَرَّقْتَ بَيْنِي وَبَيْنَ
-أَحِبّائِكَ وَأَوْلِيائِكَ فَهَبْنِي ياإِلهِي وَسَيِّدِي وَمَوْلايَ
-وَرَبِّي ، صَبَرْتُ عَلى عَذابِكَ فَكَيْفَ أَصْبِرُ عَلى فِراقِكَ؟
-  </p>
-</blockquote>
+> فَلَئِنْ صَيَّرْتَنِي لِلْعُقُوباتِ مَعَ أَعْدائِكَ ، وَجَمَعْتَ
+> بَيْنِي وَبَيْنَ أَهْلِ بَلائِكَ وَفَرَّقْتَ بَيْنِي وَبَيْنَ
+> أَحِبّائِكَ وَأَوْلِيائِكَ فَهَبْنِي ياإِلهِي وَسَيِّدِي وَمَوْلايَ
+> وَرَبِّي ، صَبَرْتُ عَلى عَذابِكَ فَكَيْفَ أَصْبِرُ عَلى فِراقِكَ؟
 
 Therefore (my Lord!) If Thou wilt subject me to the penalties (of hell)
 in company of Thy enemies and cast me with those who merited Thy
@@ -1043,13 +799,9 @@ punishments and tear me apart from Thy friends and those who will be
 near to Thee, then my God, my Lord and my Master, though I may patiently
 bear Thy punishments, how can I calmly accept being kept away from Thee?
 
-<blockquote dir="rtl">
-  <p>
-وَهَبْنِي صَبَرْتُ عَلى حَرِّ نارِكَ فَكَيْفَ أَصْبِرُ عَنِ النَّظَرِ
-إِلى كَرامَتِكَ ، أَمْ كَيْفَ أَسْكُنُ فِي النّارِ وَرَجائِي عَفْوُكَ
-؟
-  </p>
-</blockquote>
+> وَهَبْنِي صَبَرْتُ عَلى حَرِّ نارِكَ فَكَيْفَ أَصْبِرُ عَنِ النَّظَرِ
+> إِلى كَرامَتِكَ ، أَمْ كَيْفَ أَسْكُنُ فِي النّارِ وَرَجائِي عَفْوُكَ
+> ؟
 
 I reckon that though I may patiently endure the scorching fire of Thy
 hell, yet how can I resign myself to the denial of Thy pity and
@@ -1125,26 +877,18 @@ thereafter followed by a man called Bahaullah" who claimed to have
 received divine revelation. (The Reader's Digest Great Encyclopaedic
 Dictionary).
 
-<blockquote dir="rtl">
-  <p>
-فَبِعِزَّتِكَ ياسَيِّدِي وَمَوْلايَ اُقْسِمُ صادِقاً ، لَئِنْ
-تَرَكْتَنِي ناطِقاً لاَضِجَّنَّ إِلَيْكَ بَيْنَ أَهْلِها ضَجِيجَ
-الامِلِينَ وَلاَصْرُخَنَّ إِلَيْكَ صُراخَ المُسْتَصْرِخِينَ
-  </p>
-</blockquote>
+> فَبِعِزَّتِكَ ياسَيِّدِي وَمَوْلايَ اُقْسِمُ صادِقاً ، لَئِنْ
+> تَرَكْتَنِي ناطِقاً لاَضِجَّنَّ إِلَيْكَ بَيْنَ أَهْلِها ضَجِيجَ
+> الامِلِينَ وَلاَصْرُخَنَّ إِلَيْكَ صُراخَ المُسْتَصْرِخِينَ
 
 O' my Lord! By Thy honour truly do I swear that, if Thou wilt allow my
 power of speech to be retained by me in the hell, I shall amongst its
 inmates cry out bewailingly unto Thee like the cry of those who have
 faith in Thy kindness and compassion
 
-<blockquote dir="rtl">
-  <p>
-وَلاَبْكِيَنَّ عَلَيْكَ بُكأَ الفاقِدِينَ وَلاُنادِيَنَّكَ أَيْنَ
-كُنْتَ ياوَلِيَّ المُؤْمِنِينَ ، ياغايَةَ اَّمالِ العارِفِينَ ياغِياثَ
-المُسْتَغِيثِينَ ، ياحَبِيبَ قُلوُبِ الصّادِقِين وَيا إِلهَ العالَمينَ
-  </p>
-</blockquote>
+> وَلاَبْكِيَنَّ عَلَيْكَ بُكأَ الفاقِدِينَ وَلاُنادِيَنَّكَ أَيْنَ
+> كُنْتَ ياوَلِيَّ المُؤْمِنِينَ ، ياغايَةَ اَّمالِ العارِفِينَ ياغِياثَ
+> المُسْتَغِيثِينَ ، ياحَبِيبَ قُلوُبِ الصّادِقِين وَيا إِلهَ العالَمينَ
 
 And I shall bemoan for Thee (for being deprived of nearness to Thee) the
 lamentation of those who are bereaved, and I shall keep on calling unto
@@ -1175,15 +919,11 @@ seek Thy Forgiveness; if Thou seeks to reprove me for my blames, I shall
 seek from Thee Thy Generosity; If Thou wilt cast me into the fire, I
 shall inform its denizens of my love for Thee."
 
-<blockquote dir="rtl">
-  <p>
-أَفَتُراكَ سُبْحانَكَ ياإِلهي وَبِحَمْدِكَ تَسْمَعُ فِيها صَوتَ عَبْدٍ
-مُسْلِمٍ سُجِنَ فِيها بِمُخالَفَتِهِ وَذاقَ طَعْمَ عَذابِها
-بِمَعْصِيَتِهِ ، وَحُبِسَ بَيْنَ أَطْباقِها بِجُرْمِهِ وَجَرِيرَتِهِ
-وَهُوَ يَضجُّ إِلَيْكَ ضَجِيجَ مُؤَمِّلٍ لِرَحْمَتِكَ وَيُنادِيكَ
-بِلِسانِ أَهْلِ تَوْحِيدِكَ ، وَيَتَوَسَّلُ إِلَيْكَ بِرُبُوبِيَّتِكَ
-  </p>
-</blockquote>
+> أَفَتُراكَ سُبْحانَكَ ياإِلهي وَبِحَمْدِكَ تَسْمَعُ فِيها صَوتَ عَبْدٍ
+> مُسْلِمٍ سُجِنَ فِيها بِمُخالَفَتِهِ وَذاقَ طَعْمَ عَذابِها
+> بِمَعْصِيَتِهِ ، وَحُبِسَ بَيْنَ أَطْباقِها بِجُرْمِهِ وَجَرِيرَتِهِ
+> وَهُوَ يَضجُّ إِلَيْكَ ضَجِيجَ مُؤَمِّلٍ لِرَحْمَتِكَ وَيُنادِيكَ
+> بِلِسانِ أَهْلِ تَوْحِيدِكَ ، وَيَتَوَسَّلُ إِلَيْكَ بِرُبُوبِيَّتِكَ
 
 My Lord! Glory and praise be to Thee, wouldst Thou (wish) to be seen
 (disregarding) the voice of a Muslim bondman, incarcerated therein (the
@@ -1209,12 +949,8 @@ and means also "Nourisher", "Fosterer", "Accomplisher" and "Protector",
 when used in respect of Allah, it covers all these meanings and means
 "The Author and the Originator of all the existence."
 
-<blockquote dir="rtl">
-  <p>
-يامَوْلايَ فَكَيْفَ يَبْقى فِي العَذابِ وَهُوَ يَرْجوُ ماسَلفَ مِنْ
-حِلْمِكَ ؟
-  </p>
-</blockquote>
+> يامَوْلايَ فَكَيْفَ يَبْقى فِي العَذابِ وَهُوَ يَرْجوُ ماسَلفَ مِنْ
+> حِلْمِكَ ؟
 
 My Lord! Then how could he remain in torments when he hopefully relies
 upon Thy past forbearance, compassion and mercy?
@@ -1230,21 +966,13 @@ the Holy Qur'an, He says:
 
 ***"Your Lord hath prescribed for Himself Mercy."*** (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-أَمْ كَيْفَ تُؤْلِمُهُ النَّارُ وَهُوَ يَأْمَلُ فَضْلَكَ وَرَحْمَتَكَ
-؟ أَمْ كَيْفَ يُحْرِقُهُ لَهِيبُها وَأَنْتَ تَسْمَعُ صَوْتَهُ وَتَرى
-مَكانَهُ ؟
-  </p>
-</blockquote>
+> أَمْ كَيْفَ تُؤْلِمُهُ النَّارُ وَهُوَ يَأْمَلُ فَضْلَكَ وَرَحْمَتَكَ
+> ؟ أَمْ كَيْفَ يُحْرِقُهُ لَهِيبُها وَأَنْتَ تَسْمَعُ صَوْتَهُ وَتَرى
+> مَكانَهُ ؟
 
-<blockquote dir="rtl">
-  <p>
-أَمْ كَيْفَ يَشْتَمِلُ عَلَيْهِ زَفِيرُها وَأَنْتَ تَعْلَمُ ضَعْفَهُ ؟
-أَمْ كَيْفَ يَتَقَلْقَلُ بَيْنَ أَطْباقِها وَأَنْتَ تَعْلَمُ صِدْقَهُ
-؟ أَمْ كَيْفَ تَزْجُرُهُ زَبانِيَتُها وَهُوَ يُنادِيكَ يارَبَّاه ؟
-  </p>
-</blockquote>
+> أَمْ كَيْفَ يَشْتَمِلُ عَلَيْهِ زَفِيرُها وَأَنْتَ تَعْلَمُ ضَعْفَهُ ؟
+> أَمْ كَيْفَ يَتَقَلْقَلُ بَيْنَ أَطْباقِها وَأَنْتَ تَعْلَمُ صِدْقَهُ
+> ؟ أَمْ كَيْفَ تَزْجُرُهُ زَبانِيَتُها وَهُوَ يُنادِيكَ يارَبَّاه ؟
 
 And how can the fire cause him suffering when he hopes for Thy grace and
 mercy and how can its roaring flames char him when Thou hearest his
@@ -1253,37 +981,25 @@ when Thou knowest his frailness? And how can he be tossed about between
 its layers when Thou knowest his sincerity? And how can the guards of
 hell threaten him when he calls out to Thee?
 
-<blockquote dir="rtl">
-  <p>
-أَمْ كَيْفَ يَرْجُو فَضْلَكَ فِي عِتْقِهِ مِنْها فَتَتْرُكُهُ فِيها ؟
-  </p>
-</blockquote>
+> أَمْ كَيْفَ يَرْجُو فَضْلَكَ فِي عِتْقِهِ مِنْها فَتَتْرُكُهُ فِيها ؟
 
 "My Lord", and how would Thou abandon him therein (the hell) when he has
 faith in Thy grace to set him free?
 
-<blockquote dir="rtl">
-  <p>
-هَيْهاتَ ! ما ذَلِكَ الظَنُّ بِكَ ، وَلا المُعْروفُ مِنْ فَضْلِكَ ،
-وَلامُشْبِهٌ لِما عامَلْتَ بِهِ المُوَحِّدِينَ مِنْ بِرِّكَ
-وَإِحْسانِكَ !
-  </p>
-</blockquote>
+> هَيْهاتَ ! ما ذَلِكَ الظَنُّ بِكَ ، وَلا المُعْروفُ مِنْ فَضْلِكَ ،
+> وَلامُشْبِهٌ لِما عامَلْتَ بِهِ المُوَحِّدِينَ مِنْ بِرِّكَ
+> وَإِحْسانِكَ !
 
 Alas! That is not the concept (held by us) of Thee nor has Thy grace
 such a reputation nor does it resemble that which Thou hast awarded by
 Thy kindness and generosity to those who believe in Thy unity
 
-<blockquote dir="rtl">
-  <p>
-فَبِالْيَقِينِ أَقَطَعُ ، لَولا ماحَكَمْتَ بِهِ مِنْ تَعْذِيبِ
-جاحِدِيكَ وَقَضَيْتَ بِهِ مِنْ إِخْلادِ مُعانِدِيكَ ، لَجَعْلْتَ
-النَّارَ كُلَّها بَرْداً وَسَلاماً ، وَما كَانَ لاَحَدٍ فِيها مَقَرّاً
-وَلامُقاماً لكِنَّكَ تَقَدَّسَتْ أَسْماؤُكَ أَقْسَمْتَ أَنْ تَمْلاَها
-مِنَ الكافِرِينَ ، مِنَ الجِنَّةِ وَالنَّاسِ أَجْمَعِينَ ، وَأَنْ
-تُخَلِّدَ فِيها المُعانِدِينَ
-  </p>
-</blockquote>
+> فَبِالْيَقِينِ أَقَطَعُ ، لَولا ماحَكَمْتَ بِهِ مِنْ تَعْذِيبِ
+> جاحِدِيكَ وَقَضَيْتَ بِهِ مِنْ إِخْلادِ مُعانِدِيكَ ، لَجَعْلْتَ
+> النَّارَ كُلَّها بَرْداً وَسَلاماً ، وَما كَانَ لاَحَدٍ فِيها مَقَرّاً
+> وَلامُقاماً لكِنَّكَ تَقَدَّسَتْ أَسْماؤُكَ أَقْسَمْتَ أَنْ تَمْلاَها
+> مِنَ الكافِرِينَ ، مِنَ الجِنَّةِ وَالنَّاسِ أَجْمَعِينَ ، وَأَنْ
+> تُخَلِّدَ فِيها المُعانِدِينَ
 
 I definitely conclude that hadst Thou not ordained punishment for those
 who disbelieved in Thee, and hadst Thou not decreed Thy enemies to
@@ -1293,13 +1009,9 @@ sanctified be Thy Names, Thou hast sworn to fill the hell with the
 disbelievers from amongst the jinns and mankind together and to place
 forever Thy enemies therein
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْتَ جَلَّ ثَناؤُكَ قُلْتَ مُبْتَدِئاً ، وَتَطَوَّلْتَ
-بِالاِنْعامِ مُتَكَرِّماً ، أَفَمَنْ كانَ مُؤْمِناً كَمَنْ كانَ
-فاسِقاً ، لايَسْتَوُونَ
-  </p>
-</blockquote>
+> وَأَنْتَ جَلَّ ثَناؤُكَ قُلْتَ مُبْتَدِئاً ، وَتَطَوَّلْتَ
+> بِالاِنْعامِ مُتَكَرِّماً ، أَفَمَنْ كانَ مُؤْمِناً كَمَنْ كانَ
+> فاسِقاً ، لايَسْتَوُونَ
 
 And Thou, exalted be Thy praises, hadst made manifest, out of Thy
 generosity and kindness that a believer is not like unto him who is an
@@ -1307,21 +1019,17 @@ evil-liver
 
 See C. 32 v. 18 of the Holy Qur'an, Pickthall's translation.
 
-<blockquote dir="rtl">
-  <p>
-إِلهِي وَسَيِّدِي ، فَأَسأَلُكَ بِالقُدْرَةِ الَّتِي قَدَّرْتَها
-وَبِالقَضِيَّةِ الَّتِي حَتَمْتَها وَحَكَمْتَها ، وَغَلَبْتَ مَنْ
-عَلَيْهِ أَجْرَيْتَها أَنْ تَهَبَ لِي فِي هذِهِ اللّيْلَةِ وَفِي هذِهِ
-السَّاعَةِ ، كُلَّ جُرْمٍ أَجْرَمْتُهُ وَكُلَّ ذَنْبٍ أَذْنَبْتُهُ ،
-وَكُلَّ قَبِيحٍ أَسْرَرْتُهُ ، وَكُلَّ جَهْلٍ عَمِلْتُهُ ، كَتَمْتُهُ
-أَوْ أَعَلَنْتُهُ ، أَخْفَيْتُهُ أَوْ أَظْهَرْتُه وَكُلَّ سَيِّئَةٍ
-أَمَرْتَ بِإِثْباتِها الكِرامَ الكاتِبِينَ ، الَّذِينَ وَكَّلْتَهُمْ
-بِحِفْظِ مايَكُونُ مِنِّي وَجَعَلْتَهُمْ شُهُوداً عَلَيّ مَعَ
-جَوارِحِي ، وَكُنْتَ أَنْتَ الرَّقِيبَ عَلَيَّ مِنْ وَرائِهِمْ ،
-وَالشَّاهِدَ لِما خَفِي عَنْهُمْ ، وَبِرَحْمَتِكَ أَخْفَيْتَهُ ،
-وَبِفَضْلِكَ سَتَرْتَهُ
-  </p>
-</blockquote>
+> إِلهِي وَسَيِّدِي ، فَأَسأَلُكَ بِالقُدْرَةِ الَّتِي قَدَّرْتَها
+> وَبِالقَضِيَّةِ الَّتِي حَتَمْتَها وَحَكَمْتَها ، وَغَلَبْتَ مَنْ
+> عَلَيْهِ أَجْرَيْتَها أَنْ تَهَبَ لِي فِي هذِهِ اللّيْلَةِ وَفِي هذِهِ
+> السَّاعَةِ ، كُلَّ جُرْمٍ أَجْرَمْتُهُ وَكُلَّ ذَنْبٍ أَذْنَبْتُهُ ،
+> وَكُلَّ قَبِيحٍ أَسْرَرْتُهُ ، وَكُلَّ جَهْلٍ عَمِلْتُهُ ، كَتَمْتُهُ
+> أَوْ أَعَلَنْتُهُ ، أَخْفَيْتُهُ أَوْ أَظْهَرْتُه وَكُلَّ سَيِّئَةٍ
+> أَمَرْتَ بِإِثْباتِها الكِرامَ الكاتِبِينَ ، الَّذِينَ وَكَّلْتَهُمْ
+> بِحِفْظِ مايَكُونُ مِنِّي وَجَعَلْتَهُمْ شُهُوداً عَلَيّ مَعَ
+> جَوارِحِي ، وَكُنْتَ أَنْتَ الرَّقِيبَ عَلَيَّ مِنْ وَرائِهِمْ ،
+> وَالشَّاهِدَ لِما خَفِي عَنْهُمْ ، وَبِرَحْمَتِكَ أَخْفَيْتَهُ ،
+> وَبِفَضْلِكَ سَتَرْتَهُ
 
 My Lord! My Master! I, therefore implore Thee by that power which Thou
 determineth and by the decree which Thou hast finalised and ordained
@@ -1337,13 +1045,9 @@ observeth over me besides them and wast witness to those acts concealed
 from them? Which Thou in Thy mercy hast kept secret and through Thy
 kindness unexposed
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْ تُوَفِّرَ حَظِّي مِنْ كُلِّ خَيْرٍ أَنْزَلْتَهُ ، أَوْ إِحْسانٍ
-فَضَّلْتَهُ أَوْ بِرٍّ نَشَرْتَهُ، أَوْ رِزْقٍ بَسَطْتَهُ ، أَوْ
-ذَنْبٍ تَغْفِرُهُ أَوْ خَطأ تَسْتُرُهُ
-  </p>
-</blockquote>
+> وَأَنْ تُوَفِّرَ حَظِّي مِنْ كُلِّ خَيْرٍ أَنْزَلْتَهُ ، أَوْ إِحْسانٍ
+> فَضَّلْتَهُ أَوْ بِرٍّ نَشَرْتَهُ، أَوْ رِزْقٍ بَسَطْتَهُ ، أَوْ
+> ذَنْبٍ تَغْفِرُهُ أَوْ خَطأ تَسْتُرُهُ
 
 And I pray to Thee to make my share plentiful in all the good that Thou
 dost bestow; in all the favours that Thou dost grant; and in all the
@@ -1351,28 +1055,20 @@ virtues that Thou dost allow to be known everywhere; and in all the
 sustenance and livelihood that Thou dost expand and in respect of all
 the sins that Thou dost forgive and the wrongs that Thou dost cover up
 
-<blockquote dir="rtl">
-  <p>
-يارَبِّ يارَبِّ يارَبِّ ، ياإِلهِي وَسَيِّدِي وَمَوْلايَ وَمالِكَ
-رِقِّي ، يامَنْ بِيَدِهِ ناصِيَتِي ياعَلِيماً بِضُرِّي وَمَسْكَنَتِي ،
-ياخَبِيراً بَفَقْرِي وَفاقَتِي يارَبِّ يارَبِّ يارَبِّ
-  </p>
-</blockquote>
+> يارَبِّ يارَبِّ يارَبِّ ، ياإِلهِي وَسَيِّدِي وَمَوْلايَ وَمالِكَ
+> رِقِّي ، يامَنْ بِيَدِهِ ناصِيَتِي ياعَلِيماً بِضُرِّي وَمَسْكَنَتِي ،
+> ياخَبِيراً بَفَقْرِي وَفاقَتِي يارَبِّ يارَبِّ يارَبِّ
 
 O' Lord! O' Lord! O' Lord! O' my God! My Lord! My King! O' Master of my
 freedom! O' Thou who holdeth my destiny and who art aware of my
 suffering and poverty, o' Thou who knoweth my destitution and
 starvation, o' my Lord! O' Lord, o' Lord!
 
-<blockquote dir="rtl">
-  <p>
-أَسأَلُكَ بِحَقِكَ وَقُدْسِكَ وَأَعْظَمِ صِفاتِكَ وَأَسْمائِكَ أَنْ
-تَجْعَلَ أَوْقاتِي مِنَ اللّيْلِ وَالنَّهارِ بَذِكْرِكَ مَعْمُورَةً ،
-وَبِخِدْمَتِكَ مَوْصُولَةً وَأَعْمالِي عِنْدَكَ مَقْبُولَةًً ، حَتَّى
-تَكُونَ أَعْمالِي وأوْرادِي كُلُّها وِرْداً وَاحِداً، وَحالِي فِي
-خِدْمَتِكَ سَرْمَداً
-  </p>
-</blockquote>
+> أَسأَلُكَ بِحَقِكَ وَقُدْسِكَ وَأَعْظَمِ صِفاتِكَ وَأَسْمائِكَ أَنْ
+> تَجْعَلَ أَوْقاتِي مِنَ اللّيْلِ وَالنَّهارِ بَذِكْرِكَ مَعْمُورَةً ،
+> وَبِخِدْمَتِكَ مَوْصُولَةً وَأَعْمالِي عِنْدَكَ مَقْبُولَةًً ، حَتَّى
+> تَكُونَ أَعْمالِي وأوْرادِي كُلُّها وِرْداً وَاحِداً، وَحالِي فِي
+> خِدْمَتِكَ سَرْمَداً
 
 I beseech Thee by Thy glory and Thy honour, by Thy supremely high
 attributes and by Thy names to cause me to utilise my time, day and
@@ -1400,19 +1096,11 @@ saying the prayers, an angel calls out to the people-"Stand up to
 extinguish the fire that you have kindled behind your backs and put it
 out by means of your mouths (prayers)" (Malbubi).
 
-<blockquote dir="rtl">
-  <p>
-ياسَيِّدِي يامَنْ عَلَيْهِ مُعَوَّلِي ، يامَنْ إِلَيْهِ شَكَوْتُ
-أَحْوالِي يارَبِّ يارَبِّ يارَبِّ ، قَوِّ عَلى خَدْمَتِكَ جَوارِحِي
-  </p>
-</blockquote>
+> ياسَيِّدِي يامَنْ عَلَيْهِ مُعَوَّلِي ، يامَنْ إِلَيْهِ شَكَوْتُ
+> أَحْوالِي يارَبِّ يارَبِّ يارَبِّ ، قَوِّ عَلى خَدْمَتِكَ جَوارِحِي
 
-<blockquote dir="rtl">
-  <p>
-وَاشْدُدْ عَلى العَزِيمَةِ جَوانِحِي وَهَبْ لِيَ الجِدَّ فِي
-خَشْيَتِكَ ، وَالدَّوامَ فِي الاِتِّصالِ بِخِدْمَتِكَ
-  </p>
-</blockquote>
+> وَاشْدُدْ عَلى العَزِيمَةِ جَوانِحِي وَهَبْ لِيَ الجِدَّ فِي
+> خَشْيَتِكَ ، وَالدَّوامَ فِي الاِتِّصالِ بِخِدْمَتِكَ
 
 O' my Master! O' Thou upon Whom I rely! O' Thou unto Whom I express my
 distress! O' my Lord! My Lord! My Lord! Strengthen my limbs for Thy
@@ -1448,14 +1136,10 @@ from the Doom hereafter which has been described as one which "the earth
 and heavens cannot withstand." What is called for, is pure character and
 not "songs of Praise."
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى أَسْرَحَ إِلَيْكَ فِي مَيادِينِ السابِقِينَ واُسْرِعَ إِلَيْكَ
-فِي البارِزِينَ ، وَأَشْتاقَ إِلى قُرْبِكَ فِي المُشْتاقِينَ
-وَأَدْنُوَ مِنْكَ دُنُوَّ المُخْلِصِينَ ، وَأَخافَكَ مَخافَةَ
-المُوقِنِينَ ، وَأَجْتَمِعَ فِي جِوارِكَ مَعَ المُؤْمِنِينَ
-  </p>
-</blockquote>
+> حَتَّى أَسْرَحَ إِلَيْكَ فِي مَيادِينِ السابِقِينَ واُسْرِعَ إِلَيْكَ
+> فِي البارِزِينَ ، وَأَشْتاقَ إِلى قُرْبِكَ فِي المُشْتاقِينَ
+> وَأَدْنُوَ مِنْكَ دُنُوَّ المُخْلِصِينَ ، وَأَخافَكَ مَخافَةَ
+> المُوقِنِينَ ، وَأَجْتَمِعَ فِي جِوارِكَ مَعَ المُؤْمِنِينَ
 
 So that I may lead myself towards Thee in the field with the vanguards
 who are in the fore rank and be swift towards Thee among those who
@@ -1472,19 +1156,15 @@ the prophets and friends of Allah and the word "jawar" is the plural of
 \`Jar" meaning a neighbour and in the passage above it means "Allah's
 protection."
 
-<blockquote dir="rtl">
-  <p>
-اللّهُمَّ وَمَنْ أَرادَنِي بِسُؤٍ فَأَرِدْهُ ، وَمَنْ كادَنِي فَكِدْهُ
-وَاجْعَلْنِي مِنْ أَحْسَنِ عَبِيدِكَ نَصِيباً عِنْدَكَ ،
-وَأَقْرَبِهِمْ مَنْزِلَةً مِنْكَ ، وَأَخَصِّهِمْ زُلْفَةً لَدَيْكَ
-فِإِنَّهُ لايُنالُ ذلِكَ إِلا بِفَضْلِكَ وَجُدْ لِي بِجُودِكَ،
-وَاعْطِفْ عَلَيَّ بَمَجْدِكَ، وَأَحْفَظْنِي بِرَحْمَتِكَ وَأَجْعَلْ
-لِسانِي بِذِكْرِكَ لَهِجاً ، وَقَلْبِي بِحُبِّكَ مُتَيَّماً وَمُنَّ
-عَلَيَّ بِحُسْنِ إِجابَتِكَ ، وَأَقِلْنِي عَثْرَتِي ، وَاغْفِرْ
-زَلَّتِي فَإِنَّكَ قَضيْتَ عَلى عِبادِكَ بِعِبادَتِكَ ، وَأَمَرْتَهُمْ
-بِدُعائِكَ ، وَضَمِنْتَ لَهُمُ الاِجابَةَ
-  </p>
-</blockquote>
+> اللّهُمَّ وَمَنْ أَرادَنِي بِسُؤٍ فَأَرِدْهُ ، وَمَنْ كادَنِي فَكِدْهُ
+> وَاجْعَلْنِي مِنْ أَحْسَنِ عَبِيدِكَ نَصِيباً عِنْدَكَ ،
+> وَأَقْرَبِهِمْ مَنْزِلَةً مِنْكَ ، وَأَخَصِّهِمْ زُلْفَةً لَدَيْكَ
+> فِإِنَّهُ لايُنالُ ذلِكَ إِلا بِفَضْلِكَ وَجُدْ لِي بِجُودِكَ،
+> وَاعْطِفْ عَلَيَّ بَمَجْدِكَ، وَأَحْفَظْنِي بِرَحْمَتِكَ وَأَجْعَلْ
+> لِسانِي بِذِكْرِكَ لَهِجاً ، وَقَلْبِي بِحُبِّكَ مُتَيَّماً وَمُنَّ
+> عَلَيَّ بِحُسْنِ إِجابَتِكَ ، وَأَقِلْنِي عَثْرَتِي ، وَاغْفِرْ
+> زَلَّتِي فَإِنَّكَ قَضيْتَ عَلى عِبادِكَ بِعِبادَتِكَ ، وَأَمَرْتَهُمْ
+> بِدُعائِكَ ، وَضَمِنْتَ لَهُمُ الاِجابَةَ
 
 O' Allah! Whosoever intendeth evil against me, let ill befall on him and
 frustrate him who plots against me and assign for me a place in Thy
@@ -1517,17 +1197,13 @@ obedience to His commandments. He says:
 ***"Fulfil your promise to Me and I will fulfil Mine to you."*** (Ch. 2
 v. 40).
 
-<blockquote dir="rtl">
-  <p>
-فَإِلَيْكَ يارَبِّ نَصَبْتُ وَجْهِي ، وَإِلَيْكَ يارَبِّ مَدَدْتُ
-يَدِي فَبِعِزَّتِكَ أَسْتَجِبْ لِي دُعائِي ، وَبَلِّغْنِي مُنايَ
-وَلاتَقْطَعْ مِنْ فَضْلِكَ رَجائِي ، وَاكْفِنِي شَرَّ الجِنِّ
-وَالاِنْسِ مِنْ أعْدائِي ياسَرِيعَ الرِّضا إِغْفِرْ لِمَنْ لايَمْلِكُ
-إِلا الدُّعأَ ،فَإِنَّكَ فَعَّالٌ لِما تَشأُ يامَنْ إِسْمُهُ دَوأٌ ،
-وَذِكْرُهُ شِفأٌ ، وَطاعَتُهُ غِنىً إِرْحَمْ مَنْ رَأسُ مالِهِ
-الرَّجأُ وَسِلاحُهُ البُكأُ
-  </p>
-</blockquote>
+> فَإِلَيْكَ يارَبِّ نَصَبْتُ وَجْهِي ، وَإِلَيْكَ يارَبِّ مَدَدْتُ
+> يَدِي فَبِعِزَّتِكَ أَسْتَجِبْ لِي دُعائِي ، وَبَلِّغْنِي مُنايَ
+> وَلاتَقْطَعْ مِنْ فَضْلِكَ رَجائِي ، وَاكْفِنِي شَرَّ الجِنِّ
+> وَالاِنْسِ مِنْ أعْدائِي ياسَرِيعَ الرِّضا إِغْفِرْ لِمَنْ لايَمْلِكُ
+> إِلا الدُّعأَ ،فَإِنَّكَ فَعَّالٌ لِما تَشأُ يامَنْ إِسْمُهُ دَوأٌ ،
+> وَذِكْرُهُ شِفأٌ ، وَطاعَتُهُ غِنىً إِرْحَمْ مَنْ رَأسُ مالِهِ
+> الرَّجأُ وَسِلاحُهُ البُكأُ
 
 So, my Lord! I look earnestly towards Thee and towards Thee, my Lord! I
 have stretched forth my hands therefore, by Thy honour, respond to my
@@ -1540,13 +1216,9 @@ for all ailments and obedience to Whom makes one self sufficient; have
 mercy on one whose only asset is hope and whose only armour is
 lamentation
 
-<blockquote dir="rtl">
-  <p>
-ياسَابِغَ النِّعَمِ ، يادافِعَ النِّقَمِ ، يانُورَ المُسْتَوْحِشِينَ
-فِي الظُّلَمِ ياعالِماً لايُعَلَّمُ ، صَلِّ عَلى مُحَمَّدٍ وَآلِ
-مُحَمَّدٍ ، وَأَفْعَلْ بِي ماأَنْتَ أَهْلُه
-  </p>
-</blockquote>
+> ياسَابِغَ النِّعَمِ ، يادافِعَ النِّقَمِ ، يانُورَ المُسْتَوْحِشِينَ
+> فِي الظُّلَمِ ياعالِماً لايُعَلَّمُ ، صَلِّ عَلى مُحَمَّدٍ وَآلِ
+> مُحَمَّدٍ ، وَأَفْعَلْ بِي ماأَنْتَ أَهْلُه
 
 O' Thou! Who perfecteth all bounties and Who wardeth off all
 misfortunes! O' Light! Who illuminateth those who are in bewilderment!
@@ -1561,12 +1233,8 @@ with Allah's own high attributes as Forgiver, Merciful and Cherisher of
 His bondman and lead him to the path of piety and righteousness as He,
 Allah, is the Lord of Piety and Righteousness.
 
-<blockquote dir="rtl">
-  <p>
-وَصَلَّى اللّهُ عَلى رَسُولِهِ وَالاَئِمَّةِ المَيامِينَ مِنْ آلِهِ
-وَسَلَّمَ تَسْلِيماً كَثِيرا.
-  </p>
-</blockquote>
+> وَصَلَّى اللّهُ عَلى رَسُولِهِ وَالاَئِمَّةِ المَيامِينَ مِنْ آلِهِ
+> وَسَلَّمَ تَسْلِيماً كَثِيرا.
 
 May the blessings of Allah be bestowed upon His Apostle and the Rightful
 Imams from his Descendants and His peace be upon them plentifully
@@ -1588,5 +1256,4 @@ commentary on the "Du'a";
 (c) "**Darman Ruho Rawan**" which is a commentary in the Farsi language
 of the Du'a and contains scholarly interpretations of its words and
 phrases written by the learned Aqa Muhammad Baqir Malbubi.
-
 

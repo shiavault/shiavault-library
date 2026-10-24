@@ -11,11 +11,7 @@ As for the first event, we know that the meaning of Dahw is to spread or
 stretch and it is from the following verse of the Noble Qur'an that we
 extract this meaning:
 
-<blockquote dir="rtl">
-  <p>
-وَ الأَرْضِ بَعْدَ ذٌلِكَ دَحٌيهَا
-  </p>
-</blockquote>
+> وَ الأَرْضِ بَعْدَ ذٌلِكَ دَحٌيهَا
 
 “And after that He (Allah) spread forth the Earth.”[^1]
 
@@ -68,12 +64,8 @@ Prophet (S) listed one hundred and three characteristics of a true
 believer and of them, thirty-one have been discussed, and in today's
 discussion, we cover another four.
 
-<blockquote dir="rtl">
-  <p>
-…حَلِيماً إِذَا جُهِلَ عَلَيْهِ، صَبُوراً عَلى مَنْ أَسَاءَ إِلَيْهِ،
-يُبَجَّلُ الْكَبِيرَ وَ يُرَحِّمُ الصَّغِيرَ…
-  </p>
-</blockquote>
+> …حَلِيماً إِذَا جُهِلَ عَلَيْهِ، صَبُوراً عَلى مَنْ أَسَاءَ إِلَيْهِ،
+> يُبَجَّلُ الْكَبِيرَ وَ يُرَحِّمُ الصَّغِيرَ…
 
 ”(the true believer is one who) when a person (says) something out of
 ignorance about him, is forbearing; patient when a person does something
@@ -98,12 +90,8 @@ bad to you, then you are permitted to do something bad to him in return
 but only to that limit which he has done to you. In these regards, the
 Qur\`an states:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اعْـتَدى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْـتَدى
-عَلَيْكُمْ
-  </p>
-</blockquote>
+> فَمَنِ اعْـتَدى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْـتَدى
+> عَلَيْكُمْ
 
 “So then if a person attacks you then you too attack him just as he
 attacked you.”[^3]
@@ -116,20 +104,12 @@ only should we not retaliate with bad in the face of a bad deed, rather,
 we should repel the bad act with something nice!  In this regards, the
 Qur\`an states:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا مَرُّا بِاللَّغْوِ مَرُّوا كِرَاماً
-  </p>
-</blockquote>
+> وَ إِذَا مَرُّا بِاللَّغْوِ مَرُّوا كِرَاماً
 
 “And when they pass by vain and trivial acts, they pass by with
 dignity.”[^4]
 
-<blockquote dir="rtl">
-  <p>
-إِدْفَعْ بِاللَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ
-  </p>
-</blockquote>
+> إِدْفَعْ بِاللَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ
 
 “Repel evil with that which is much better.”[^5]
 
@@ -148,24 +128,16 @@ old people of the community has been mentioned quite often in the
 traditions. The late Shaikh 'Abbas al-Qummi   narrates the following
 tradition in his work Safinatul Bihar:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَقَّرَ ذَا شَيْبَةٍ لِشَيْبَتِهِ آمَنَهُ اللٌّهُ تَعَالـى مِنْ
-فَزَعٍ يَوْمُ الْقِيَمَةِ.
-  </p>
-</blockquote>
+> مَنْ وَقَّرَ ذَا شَيْبَةٍ لِشَيْبَتِهِ آمَنَهُ اللٌّهُ تَعَالـى مِنْ
+> فَزَعٍ يَوْمُ الْقِيَمَةِ.
 
 “The person who shows humility to an old person due to his old age,
 Allah, the Most High, will protect that person from the evil on the Day
 of Judgement.”[^7]  
  In another tradition it is mentioned:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مِنْ إِجْلاَلِ اللٌّهِ تَعَالـى إِكْرَامُ ذَى الشَّيْبَةِ
-الْمُسْلِمِ
-  </p>
-</blockquote>
+> إِنَّ مِنْ إِجْلاَلِ اللٌّهِ تَعَالـى إِكْرَامُ ذَى الشَّيْبَةِ
+> الْمُسْلِمِ
 
 “Surely one of the greatest things of Allah, the Most High, is the
 showing of respect to the older Muslims.”[^8]
@@ -196,5 +168,4 @@ shorter time)!
 [^7]: Safinat al-Bihar, under the word شيب
 
 [^8]: Ibid.
-
 

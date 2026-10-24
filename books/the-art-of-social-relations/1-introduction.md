@@ -222,4 +222,3 @@ that destroy relations and harm them?
 factors of a pioneer, sound, and righteous personality, which improve
 good relations with others?
 
-

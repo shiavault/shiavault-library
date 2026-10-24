@@ -1,20 +1,12 @@
 The Fourteenth Talk
 ===================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -57,22 +49,14 @@ ash-Shaitan* (worshipper of Satan). Therefore, it is imperative that he
 keeps firmly to his oath and he should strive to resist Satan who can
 only bring destruction and perfidy.
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
-الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا
+> الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
 
 ***Did I not charge you, O children of Adam ! that you should not serve
 the Shaitan? Surely he is your open enemy. (Sura Ya Sin, 36:60)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيراً أَفَلَمْ تَكُونُوا
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيراً أَفَلَمْ تَكُونُوا
+> تَعْقِلُونَ
 
 ***And certainly he led astray numerous people from among you. What!
 Will you not then understand. (Sura Ya Sin, 36:62)***
@@ -112,11 +96,7 @@ didn’t comply with his advice, his end will be very pitiable. Sometimes
 he gives him false hopes that the results of sins will be good. Satan’s
 advice influences only those who befriend him (Satan).
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا ذَلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءهُ
-  </p>
-</blockquote>
+> إِنَّمَا ذَلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءهُ
 
 ***It is only the Shaitan that causes you to fear from his friends….
 (Sura Aal Imran, 3:175)***
@@ -130,7 +110,6 @@ only Allah (S.w.T.). Allah (S.w.T.) says at the end of the Verse:
 
 Being Proud of One’s Prayers and Supplications
 ----------------------------------------------
-
 
 Sometimes Satan tricks men into becoming proud of their prayers and the
 love for the Ahl al-Bayt (a.s.). For example, he says, “How nice! You
@@ -158,7 +137,6 @@ person is one who is the preacher and sermonizer for himself!”
 Satanic Fears in a State of Anger
 ---------------------------------
 
-
 It happens that people sometimes become angry while they have a heated
 exchange of words. As a result of the altercation one might use abusive
 language. Satan tempts the other party to reciprocate in the same
@@ -172,11 +150,7 @@ Satan. If you do likewise, you too will render yourself the follower of
 Satan. With the beneficence of *Dhikr of Allah* (S.w.T.) his conscience
 will guide him to give a befitting reply to the opponent:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا
-  </p>
-</blockquote>
+> وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا
 
 ***and when the ignorant address them, they say: Peace. (Sura al-Furqan,
 25:63)***
@@ -288,8 +262,6 @@ which was inscribed:
 
 *With worldly attractions!*”[^1]
 
-
-
 A Bed of Two Hands Full of Dust
 -------------------------------
 
@@ -311,7 +283,6 @@ mountain in his moral behavior. One who is vulnerable to the wave of
 doubts created by Satan, He should ensure that the glitter of the world
 doesn’t overwhelm him. This is possible if he keeps in mind the
 inevitable end that every mortal being is destined to!
-
 
 Visit the Cemeteries is a Must
 ------------------------------
@@ -350,5 +321,4 @@ O Allah (S.w.T.)! Do make us *Ahl adh-Dhikr wat-Tadhakkur,* in the name
 of Muhammad (S) and his Holy Progeny (a.s.).
 
 [^1]: Ref: Ain al-Hayat, Page 178
-
 

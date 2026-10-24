@@ -32,4 +32,3 @@ Amen. A poet has penned a beautiful couplet in this connection:
 
 [^1]: Ref. Minhaj
 
-

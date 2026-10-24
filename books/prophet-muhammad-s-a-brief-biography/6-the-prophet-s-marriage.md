@@ -54,4 +54,3 @@ infancy. Hence, the Prophet's progeny survives today through his
 daughter Fatima and her two sons Hasan and Husayn who are the ancestors
 of all 'Seyyids' (descendants of the Prophet).
 
-

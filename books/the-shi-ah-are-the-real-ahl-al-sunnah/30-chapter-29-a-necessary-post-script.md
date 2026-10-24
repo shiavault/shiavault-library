@@ -28,6 +28,6 @@ events with which they interacted, by the dissension among them, and by
 their causing the nation to be divided upon itself, thus afflicting it
 with the greatest of calamities.
 
-[^125] The author used to follow the Hanbali sect before embracing the
+[^125]: The author used to follow the Hanbali sect before embracing the
 Shi\`a creed. \_\_ Tr.
 

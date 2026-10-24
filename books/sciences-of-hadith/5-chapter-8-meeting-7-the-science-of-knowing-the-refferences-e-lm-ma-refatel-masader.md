@@ -328,4 +328,3 @@ We have ample evidences that none of the Imams of Ahul-Bayt (a.s)
 including their special ambassadors left any literature behind that we
 have access to, for the reasons discussed in the lesson four.
 
-

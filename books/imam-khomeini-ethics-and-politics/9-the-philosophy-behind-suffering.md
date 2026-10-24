@@ -52,17 +52,9 @@ create another world, could he (the being other than God) have been able
 to cause a world better than this one to appear? Is the poet’s following
 assertion valid?
 
-<blockquote dir="rtl">
-  <p>
-گر بر فلكم دست بُدى چون يزدان           برداشتمى من اين فلک را ز ميان
-  </p>
-</blockquote>
+> گر بر فلكم دست بُدى چون يزدان           برداشتمى من اين فلک را ز ميان
 
-<blockquote dir="rtl">
-  <p>
-وز نو فلكى ديگر چنان ساختمى             كآزاده به كام دل رسيدى آسان
-  </p>
-</blockquote>
+> وز نو فلكى ديگر چنان ساختمى             كآزاده به كام دل رسيدى آسان
 
 *If like the Creator I had only dominion over* *the heaven,*
 
@@ -313,59 +305,23 @@ labeled from the human point of view, and also because of our interests’
 being variable, it may happen that yesterday’s evil is today’s good, and
 yesterday’s good, today’s evil:
 
-<blockquote dir="rtl">
-  <p>
-پس بد مطلق نباشد در جهان          بد به نسبت باشد، اين را هم بدان
-  </p>
-</blockquote>
+> پس بد مطلق نباشد در جهان          بد به نسبت باشد، اين را هم بدان
 
-<blockquote dir="rtl">
-  <p>
-در زمانه هيچ زهر و قند نيست       كه يكى را پا، دگر را بند نيست
-  </p>
-</blockquote>
+> در زمانه هيچ زهر و قند نيست       كه يكى را پا، دگر را بند نيست
 
-<blockquote dir="rtl">
-  <p>
-مر يكى را پا، دگر را پايبند             مر يكى را زهر و بر ديگر چو قند
-  </p>
-</blockquote>
+> مر يكى را پا، دگر را پايبند             مر يكى را زهر و بر ديگر چو قند
 
-<blockquote dir="rtl">
-  <p>
-زهرِ مار، آن مار را باشد حيات       نسبتش با آدمى باشد ممات
-  </p>
-</blockquote>
+> زهرِ مار، آن مار را باشد حيات       نسبتش با آدمى باشد ممات
 
-<blockquote dir="rtl">
-  <p>
-خلق آبى را بود دريا چو باغ           خلق خاكى را بود آن، مرگ و داغ
-  </p>
-</blockquote>
+> خلق آبى را بود دريا چو باغ           خلق خاكى را بود آن، مرگ و داغ
 
-<blockquote dir="rtl">
-  <p>
-همچنين برمىشمراى مرد كار!        نسبت اين، از يكى كسى تا هزار
-  </p>
-</blockquote>
+> همچنين برمىشمراى مرد كار!        نسبت اين، از يكى كسى تا هزار
 
-<blockquote dir="rtl">
-  <p>
-زيد اندر حقِ آن شيطان بود            در حقِ شخص دگر سلطان بود
-  </p>
-</blockquote>
+> زيد اندر حقِ آن شيطان بود            در حقِ شخص دگر سلطان بود
 
-<blockquote dir="rtl">
-  <p>
-آن بگويد: زيد صدّيق سنى است      وين بگويد: زيد گبرِ كُشتنى است
-  </p>
-</blockquote>
+> آن بگويد: زيد صدّيق سنى است      وين بگويد: زيد گبرِ كُشتنى است
 
-<blockquote dir="rtl">
-  <p>
-گر تو خواهى كو تو را باشد شكر     پس ورا از چشمِ عُشّاقش نگر
-  </p>
-</blockquote>
+> گر تو خواهى كو تو را باشد شكر     پس ورا از چشمِ عُشّاقش نگر
 
 *Hence there is no absolute evil in the world:*
 
@@ -486,38 +442,18 @@ failures and frustrations which themselves bring about suffering and
 evil. As a result, evil is inevitable in the corporeal world. Yet, this
 evil is relative, not absolute and a requisite for perfection:
 
-<blockquote dir="rtl">
-  <p>
-اين جهان جنگ است چون كل بنگرى           ذره با ذره، چو دين با كافرى
-  </p>
-</blockquote>
+> اين جهان جنگ است چون كل بنگرى           ذره با ذره، چو دين با كافرى
 
-<blockquote dir="rtl">
-  <p>
-آن يكى ذره همى پرّد به چپ                       و آن دگر سو يمين اندر
-طلب
-  </p>
-</blockquote>
+> آن يكى ذره همى پرّد به چپ                       و آن دگر سو يمين اندر
+> طلب
 
-<blockquote dir="rtl">
-  <p>
-ذره اى بالا و آن ديگر نگون                      جنگِ فعلىشان ببين اندر
-رُكون...
-  </p>
-</blockquote>
+> ذره اى بالا و آن ديگر نگون                      جنگِ فعلىشان ببين اندر
+> رُكون...
 
-<blockquote dir="rtl">
-  <p>
-جنگِ طبعى، جنگ فعلى، جنگِ قول             در ميان جزوها، حربى است هول
-  </p>
-</blockquote>
+> جنگِ طبعى، جنگ فعلى، جنگِ قول             در ميان جزوها، حربى است هول
 
-<blockquote dir="rtl">
-  <p>
-اين جهان زين جنگ قايم مى بُوَد                 در عناصر در نگر تا حل
-شود
-  </p>
-</blockquote>
+> اين جهان زين جنگ قايم مى بُوَد                 در عناصر در نگر تا حل
+> شود
 
 *When you consider, this world is all at strife,*
 
@@ -635,11 +571,7 @@ not only not bad, but also prepares the ground for the growth and
 cognition of man. Thus, they have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-اندر بلاى سخت پديد آيد                فضل و بزرگى و سالارى
-  </p>
-</blockquote>
+> اندر بلاى سخت پديد آيد                فضل و بزرگى و سالارى
 
 *From severe affliction will come out*
 
@@ -920,35 +852,15 @@ perfection. In his poetical lines Mawlānā likens the soul of believer to
 an animal named *ushghur*, a kind of porcupine, which becomes stronger
 and its resolve firmer with increasing tribulation and suffering:
 
-<blockquote dir="rtl">
-  <p>
-هست حيوانى كه نامش اُشغُراست          او به زخم چوب زفت و لَمتُر است
-  </p>
-</blockquote>
+> هست حيوانى كه نامش اُشغُراست          او به زخم چوب زفت و لَمتُر است
 
-<blockquote dir="rtl">
-  <p>
-تا كه چوبش مىزنى، به مىشود            او ز زخم چوب، فربه مىشود
-  </p>
-</blockquote>
+> تا كه چوبش مىزنى، به مىشود            او ز زخم چوب، فربه مىشود
 
-<blockquote dir="rtl">
-  <p>
-نفس ﻣﺆمن اشغرى آمد يقين                  كو به زخم رنج زفت است و سمين
-  </p>
-</blockquote>
+> نفس ﻣﺆمن اشغرى آمد يقين                  كو به زخم رنج زفت است و سمين
 
-<blockquote dir="rtl">
-  <p>
-زين سبب بر انبيا رنج و شكست            از همه خلق جهان افزون تر است
-  </p>
-</blockquote>
+> زين سبب بر انبيا رنج و شكست            از همه خلق جهان افزون تر است
 
-<blockquote dir="rtl">
-  <p>
-تا ز جانها جانشان شد زفت تر              كه نديدند آن بلا قوم دگر
-  </p>
-</blockquote>
+> تا ز جانها جانشان شد زفت تر              كه نديدند آن بلا قوم دگر
 
 *There is an animal whose name is* ushghur *(porcupine):*
 
@@ -975,42 +887,18 @@ Thereafter, he likens man to an untanned hide that the tanners treat and
 make useful by the use of bitter and acrid agents. Then, he urges us to
 accept such sufferings which are meant for our own perfection:
 
-<blockquote dir="rtl">
-  <p>
-پوست از دارو بلاكش مىشود              چون اديم طايفى خوش مىشود
-  </p>
-</blockquote>
+> پوست از دارو بلاكش مىشود              چون اديم طايفى خوش مىشود
 
-<blockquote dir="rtl">
-  <p>
-ورنه تلخ و تيز ماليدى در او                گنده گشتى، ناخوش و ناپاک بو
-  </p>
-</blockquote>
+> ورنه تلخ و تيز ماليدى در او                گنده گشتى، ناخوش و ناپاک بو
 
-<blockquote dir="rtl">
-  <p>
-آدمى را پوستِ نامدبوغ دان                 از رطوبتها شده زشت و گران
-  </p>
-</blockquote>
+> آدمى را پوستِ نامدبوغ دان                 از رطوبتها شده زشت و گران
 
-<blockquote dir="rtl">
-  <p>
-تلخ و تيز و مالِشِ بسيار ده                  تا شود پاك و لطيف و با
-فِرِه
-  </p>
-</blockquote>
+> تلخ و تيز و مالِشِ بسيار ده                  تا شود پاك و لطيف و با
+> فِرِه
 
-<blockquote dir="rtl">
-  <p>
-ور نمى تانى، رضا دە اى عيار                 گر خدا رنجت دهد بىاختيار
-  </p>
-</blockquote>
+> ور نمى تانى، رضا دە اى عيار                 گر خدا رنجت دهد بىاختيار
 
-<blockquote dir="rtl">
-  <p>
-كه بلاى دوست تطهير شماست             علم او بالاى تدبير شماست
-  </p>
-</blockquote>
+> كه بلاى دوست تطهير شماست             علم او بالاى تدبير شماست
 
 *The hide is afflicted by the medicine (tan-liquor),*
 
@@ -1051,11 +939,7 @@ suffering and awareness, and if man’s awareness exceeds a specific
 level, it can even prevent his happiness in life. Mawlānā describes this
 truth in this fashion:
 
-<blockquote dir="rtl">
-  <p>
-هر كه او بيدارتر، پردردتر                   هر كه او آگاهتر، رخ زردتر
-  </p>
-</blockquote>
+> هر كه او بيدارتر، پردردتر                   هر كه او آگاهتر، رخ زردتر
 
 *The more wakeful anyone is, the more full of suffering he is;*
 
@@ -1073,17 +957,9 @@ sufferings and the illusion arising there from trample on the soul of
 man:  
   
 
-<blockquote dir="rtl">
-  <p>
-جان همه روز از لگدكوب خيال             وز زيان و سود و از خوف زوال
-  </p>
-</blockquote>
+> جان همه روز از لگدكوب خيال             وز زيان و سود و از خوف زوال
 
-<blockquote dir="rtl">
-  <p>
-نى صفا مى ماندش نى لطف و فر          نى به سوى آسمان راه سفر
-  </p>
-</blockquote>
+> نى صفا مى ماندش نى لطف و فر          نى به سوى آسمان راه سفر
 
 *All day long, from* *the buffets of phantasy*
 
@@ -1185,5 +1061,4 @@ beneath his bosom.[287]        
 Therefore, what is meant by sagacious suffering is profound discernment
 of the tragic condition of some people, and not personal despondence and
 daily sorrows.[288]
-
 

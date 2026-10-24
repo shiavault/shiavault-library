@@ -52,4 +52,3 @@ theme. Chaucer's wise and humane work also illuminates the full scope of
 medieval thought. Overshadowed by Chaucer but of some note are the works
 of**John Gower.**
 
-

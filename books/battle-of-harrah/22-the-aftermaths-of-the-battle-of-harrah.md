@@ -288,4 +288,3 @@ al-Ta’rīkh, vol. 6, p. 14; Ibn Athīr, Al-Kāmil fī al-Ta’rīkh, vol. 4, p
 [^22]: Zubayrī, Mus‘ab, Nasab-i Quraysh, p. 222; Ibn Qutayba, Al-Imāma
 wa al-Siyāsa, vol. 1, p. 219; Samhūdī, Wafā’ al-Wafā’, vol. 1, p. 135.
 
-

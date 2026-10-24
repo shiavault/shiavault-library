@@ -1,27 +1,15 @@
 Islam or Disbelief
 ==================
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بسم الله الرَّحْمَنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-و صلى الله عليك يا وليّ العصر أدركنا
-  </p>
-</blockquote>
+> و صلى الله عليك يا وليّ العصر أدركنا
 
 Prophets Ibrahim (a.s.) and Yaqoub (a.s.) advised their sons thus:
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ
-اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ
-مُسْلِمُونَ
-  </p>
-</blockquote>
+> وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ
+> اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ
+> مُسْلِمُونَ
 
 ***And the same did Ibrahim enjoin on his sons and (so did) Yaqoub. O my
 sons! Surely Allah has chosen for you (this) faith, therefore die not
@@ -29,12 +17,8 @@ unless you are Muslims.*** ***(Surah al-Baqarah, 2: 132)***
 
 In another verse, Allah the Almighty addresses the believers,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا
-تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا
+> تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ
 
 ***O you who believe! Be careful of (your duty to) Allah with care which
 is due to Him, and do not die unless you are Muslims.(*** ***Surah Aali
@@ -42,29 +26,17 @@ Imran, 3: 102)***
 
 In another verse, He notifies,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
-يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
-وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
-سَبِيلًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ
+> يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ
+> وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ
+> سَبِيلًا
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ
-عَذَابًا مُهِينًا
-  </p>
-</blockquote>
+> أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ
+> عَذَابًا مُهِينًا
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ
-أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ
-اللَّهُ غَفُورًا رَحِيمًا
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ
+> أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ
+> اللَّهُ غَفُورًا رَحِيمًا
 
 ***Surely those who disbelieve in Allah and His Apostles, and (those
 who) desire to make a distinction between Allah and His Apostles and
@@ -80,14 +52,10 @@ and Allah is Forgiving, Merciful.(Surah an-Nisaa, 4: 150-152)***
 
 In yet another verse, Allah the Almighty gives tidings,
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
-ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
-نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
-وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
+> ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
+> نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
+> وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
 
 ***The Apostle believes in what has been revealed to him from his Lord,
 and (so do) the believers; they all believe in Allah and His angels and
@@ -235,5 +203,4 @@ az-Zaman (a.t.f.s.) himself is made as a witness over these beliefs.
 ***"Then you be a witness on what I have made you as a witness."***
 
 [^1]: Kamaal al-Deen, vol. 2, p. 379-380
-
 

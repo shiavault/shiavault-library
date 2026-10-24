@@ -65,21 +65,13 @@ speaker).
 it, repels injustice when he sees it and assists his companion by truth.
 
 > 15ـ رَحِمَ اللّهُ رَجُلاً رَأى حَقّاً فأعانَ عَلَيْهِ، ورَأى جَوْراً
-<blockquote dir="rtl">
-  <p>
-فَرَدَّهُ وَكانَ عَوْناً بِالحَقِّ عَلى صاحِبِهِ.
-  </p>
-</blockquote>
+> فَرَدَّهُ وَكانَ عَوْناً بِالحَقِّ عَلى صاحِبِهِ.
 
 16. May Allah have mercy of the person who enlivens the truth, causes
 falsehood to die, fights against oppression and establishes justice.
 
 > 16ـ رَحِمَ اللّهُ امْرَءاً أحْيى حَقّاً، وأماتَ باطِلاً، وأدْحَضَ
-<blockquote dir="rtl">
-  <p>
-الجَوْرَ، وأقامَ العَدْلَ.
-  </p>
-</blockquote>
+> الجَوْرَ، وأقامَ العَدْلَ.
 
 17. The peak of wisdom is clinging to the truth and obeying the one who
 stands for the truth.
@@ -96,11 +88,7 @@ and beware of the things that transpose falsities [to make them seem
 true].
 
 > 19ـ عَلَيْكُمْ بِمُوجِباتِ الحَقِّ فَالْزَمُوها، وإيّاكُمْ ومُحالاتِ
-<blockquote dir="rtl">
-  <p>
-التُّرَهاتِ.
-  </p>
-</blockquote>
+> التُّرَهاتِ.
 
 20. Your return to the truth is better than your persisting in
 falsehood.
@@ -111,11 +99,7 @@ falsehood.
 than your comfort while clinging to falsehood.
 
 > 21ـ عَوْدُكَ إلَى الحَقِّ وإنْ تَعِبْتَ خَيْرٌ مِنْ راحَتِكَ مَعَ
-<blockquote dir="rtl">
-  <p>
-لُزُومِ الباطِلِ.
-  </p>
-</blockquote>
+> لُزُومِ الباطِلِ.
 
 22. In adhering to the truth, there is prosperity.
 
@@ -125,21 +109,13 @@ than your comfort while clinging to falsehood.
 leave him and that which he has preferred for himself.
 
 > 23ـ فارِقْ مَنْ فارَقَ الحَقَّ إلى غَيْرِهِ، ودَعْهُ وما رَضِيَ
-<blockquote dir="rtl">
-  <p>
-لِنَفْسِهِ.
-  </p>
-</blockquote>
+> لِنَفْسِهِ.
 
 24. Little truth repels much falsehood, just as a little fire burns a
 lot of firewood.
 
 > 24ـ قَليلُ الحَقِّ يَدْفَعُ كَثيرَ الباطِلِ كَما أنَّ القَلِيلَ مِنَ
-<blockquote dir="rtl">
-  <p>
-النّارِ يُحْرِقُ كَثِيرَ الحَطَبِ.
-  </p>
-</blockquote>
+> النّارِ يُحْرِقُ كَثِيرَ الحَطَبِ.
 
 25. Speak the truth and you will benefit; do not utter falsehood and you
 will be safe.
@@ -245,21 +221,13 @@ Allah].
 [considered to be] among the righteous.
 
 > 49ـ مَنِ اسْتَسْلَمَ لِلْحَقِّ، وأَطاعَ المُحِقَّ كانَ مِنَ
-<blockquote dir="rtl">
-  <p>
-المُحْسِنِينَ.
-  </p>
-</blockquote>
+> المُحْسِنِينَ.
 
 50. Whoever makes the truth his goal, difficult things are made easy for
 him and distant things are brought nearer to him.
 
 > 50ـ مَنْ جَعَلَ الحَقَّ مَطْلَبَهُ، لانَ لَهُ الشَّديدُ، وقَرُبَ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ البَعيدُ.
-  </p>
-</blockquote>
+> عَلَيْهِ البَعيدُ.
 
 51. Whoever weakens the truth and forsakes it is destroyed by falsehood
 and killed by it.
@@ -270,21 +238,13 @@ and killed by it.
 uncertain.
 
 > 52ـ مَنْ كانَ مَقْصَدُهُ الحَقَّ أدْرَكَهُ، ولَوْ كانَ كَثِيرَ
-<blockquote dir="rtl">
-  <p>
-اللَّبْسِ.
-  </p>
-</blockquote>
+> اللَّبْسِ.
 
 53. Whoever opposes the truth, it kills him and whoever tries to
 overpower it, it humiliates him.
 
 > 53ـ مَنْ عانَدَ الحَقَّ قَتَلَهُ، ومَنْ تَعَزَّزَ عَلَيْهِ (عَلَى
-<blockquote dir="rtl">
-  <p>
-الباطِلِ) ذَلَّلَهُ.
-  </p>
-</blockquote>
+> الباطِلِ) ذَلَّلَهُ.
 
 54. Whoever helps the truth, benefits.
 
@@ -316,11 +276,7 @@ you uneasy except falsehood.
 to you] prevent you from establishing justice against him.
 
 > 60ـ لاتَمْنَعَنَّكُمْ رِعايَةُ الحَقِّ لأحَد عَنْ إقامَةِ الحَقِّ
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ.
-  </p>
-</blockquote>
+> عَلَيْهِ.
 
 61. Falsehood and truth do not go together.
 
@@ -363,11 +319,7 @@ intelligent one.
 censured for taking that which is not [rightfully] his.
 
 > 70ـ لا يُعابُ الرَّجُلُ بِأخْذِ حَقِّهِ، وإنَّما يُعابُ بِأخْذِ
-<blockquote dir="rtl">
-  <p>
-مالَيْسَ لَهُ.
-  </p>
-</blockquote>
+> مالَيْسَ لَهُ.
 
 71. A little truth repels much falsehood.
 
@@ -386,22 +338,14 @@ the truth and did not assist the falsehood.
 your Hereafter for this world.
 
 > 74ـ إرْ كَبِ الحَقَّ وإنْ خالَفَ هَواكَ، ولاتَبِـعْ آخِرَتَكَ
-<blockquote dir="rtl">
-  <p>
-بِدُنياكَ.
-  </p>
-</blockquote>
+> بِدُنياكَ.
 
 75. Cling to the truth and it will take you to the place of the
 followers of truth, on the day when judgment will not be made except
 with truth.
 
 > 75ـ اِلْـزَمِ الحَقَّ يُنَزِّلْكَ مَنازِلَ أهْلِ الحَقِّ يَوْمَ لا
-<blockquote dir="rtl">
-  <p>
-يُقْضى إلاّ بِالحَقِّ.
-  </p>
-</blockquote>
+> يُقْضى إلاّ بِالحَقِّ.
 
 76. Cling to the truth and salvation will cling to you.
 
@@ -411,22 +355,14 @@ with truth.
 or old, inferior or superior.
 
 > 77ـ اِعْرِفُوا الحَقَّ لِمَنْ عَرَفَهُ لَكُمْ، صَغِيراً كانَ أوْ
-<blockquote dir="rtl">
-  <p>
-كَبِيراً، وَضِيعاً كانَ أوْ رَفيعاً.
-  </p>
-</blockquote>
+> كَبِيراً، وَضِيعاً كانَ أوْ رَفيعاً.
 
 78. Indeed, one who is not benefitted by the truth is harmed by
 falsehood, and one who is not set straight by guidance is dragged down
 by misguidance.
 
 > 78ـ ألا ومَنْ لا يَنْفَعُهُ الحَقُّ يَضُـرُّهُ الباطِلُ، ومَنْ لا
-<blockquote dir="rtl">
-  <p>
-يَسْتَقِمْ بِهِ الهُدى يَجُرُّ بِهِ الضَّلالُ إلَى الرَّدى.
-  </p>
-</blockquote>
+> يَسْتَقِمْ بِهِ الهُدى يَجُرُّ بِهِ الضَّلالُ إلَى الرَّدى.
 
 79. The biggest loser is one who is able to speak the truth but still
 does not speak it.
@@ -438,11 +374,7 @@ most beloved among them in the sight of Allah are those who are more
 truthful in speech.
 
 > 80ـ أفْضَلُ الخَلْقِ أقْضاهُمْ بِالحَقِّ، وأحَبُّهُمْ إلَى اللّهِ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ أقْوَلُهُمْ لِلصِّدْقِ.
-  </p>
-</blockquote>
+> سُبْحانَهُ أقْوَلُهُمْ لِلصِّدْقِ.
 
 81. One who is overcome [while he is] on the right, is victorious.
 
@@ -455,5 +387,4 @@ truthful in speech.
 83. Speaking the truth is better than inarticulateness and silence.
 
 > 83ـ اَلقَوْلُ بِالحَقِّ خَيْـرٌ مِنَ العَيِّ والصَّمْتِ.
-
 

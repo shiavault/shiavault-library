@@ -11,4 +11,3 @@ Due to the immense amount of Arabic documents as well as the number of
 internet Arabic language users, this project aims to implement an Arabic
 Text-Documents Classifier (ATC).*
 
-

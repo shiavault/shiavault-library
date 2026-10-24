@@ -23,4 +23,3 @@ philosophy of the rule of Islam which forbids music.
 A.H. Sherriff  
  1/5/1983
 
-

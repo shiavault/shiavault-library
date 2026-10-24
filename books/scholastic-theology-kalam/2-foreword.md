@@ -18,4 +18,3 @@ However, the final say is that of the reader.
 
 **Fadhil Bahrul Uloom**
 
-

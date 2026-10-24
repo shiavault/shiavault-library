@@ -36,4 +36,3 @@ This is the how the caste system is supposed to be in its religious
 form. But in reality it is much more complicated and different from its
 religious form.
 
-

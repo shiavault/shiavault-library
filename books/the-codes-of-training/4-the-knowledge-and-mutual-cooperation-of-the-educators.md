@@ -122,4 +122,3 @@ Against this, a family where the parents have the habit of contradicting
 each other their children will be morally deficient, pretentious and
 excitable.
 
-

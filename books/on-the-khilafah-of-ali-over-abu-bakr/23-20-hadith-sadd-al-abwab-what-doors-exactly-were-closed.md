@@ -12,12 +12,8 @@ mosque. If it were closed, then he and his family would be sealed
 *inside* their house or permanently blocked from entering it. Al-Hafiz
 (d. 852 H) is quite explicit on this:
 
-<blockquote dir="rtl">
-  <p>
-والمعنى ان باب علي كان إلى جهة المسجد ولم يكن لبيته باب غيره فلذلك لم
-يؤمر بسده
-  </p>
-</blockquote>
+> والمعنى ان باب علي كان إلى جهة المسجد ولم يكن لبيته باب غيره فلذلك لم
+> يؤمر بسده
 
 The meaning is that the door of ‘Ali opens into the mosque and his house
 had no other door. This was why he was not commanded to close it.[^1]
@@ -25,19 +21,15 @@ had no other door. This was why he was not commanded to close it.[^1]
 One of the most crucial evidences often quoted for this position is this
 *hadith* documented by Imam al-Hakim (d. 403 H):
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
-عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
-أبو بلج ثنا عمرو بن ميمون قال إني لجالس عند ابن عباس إذ أتاه تسعة رهط
-فقالوا : يا ابن عباس : إما أن تقوم معنا وإما أن تخلو بنا من بين هؤلاء
-قال : فقال ابن عباس بل أنا أقوم معكم قال وهو يومئذ صحيح قبل أن يعمى
-قال : فابتدؤوا فتحدثوا فلا ندري ما قالوا قال فجاء ينفض ثوبه ويقول أف
-وتف وقعوا في رجل له بضع عشرة فضائل ليست لأحد غيره ....قال ابن عباس وسد
-رسول الله صلى الله عليه وسلم أبواب المسجد غير باب علي فكان يدخل المسجد
-جنبا وهو طريقه ليس له طريق غيره
-  </p>
-</blockquote>
+> أخبرنا أبو بكر أحمد بن جعفر بن حمدان القطيعي ببغداد من أصل كتابه ثنا
+> عبد الله بن أحمد بن حنبل حدثني أبي ثنا يحيى بن حماد ثنا أبو عوانة ثنا
+> أبو بلج ثنا عمرو بن ميمون قال إني لجالس عند ابن عباس إذ أتاه تسعة رهط
+> فقالوا : يا ابن عباس : إما أن تقوم معنا وإما أن تخلو بنا من بين هؤلاء
+> قال : فقال ابن عباس بل أنا أقوم معكم قال وهو يومئذ صحيح قبل أن يعمى
+> قال : فابتدؤوا فتحدثوا فلا ندري ما قالوا قال فجاء ينفض ثوبه ويقول أف
+> وتف وقعوا في رجل له بضع عشرة فضائل ليست لأحد غيره ....قال ابن عباس وسد
+> رسول الله صلى الله عليه وسلم أبواب المسجد غير باب علي فكان يدخل المسجد
+> جنبا وهو طريقه ليس له طريق غيره
 
 Abu Bakr Ahmad b. Ja’far b. Hamdan al-Qati’i – ‘Abd Allah b. Ahmad b.
 Hanbal – my father (Ahmad b. Hanbal) Yahya b. Hamad – Abu Awanah – Abu
@@ -60,21 +52,13 @@ it**.”[^2]
 
 Al-Hakim states:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^3]
 
 Imam al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^4]
 
@@ -103,21 +87,13 @@ Sahabah.
 Interestingly, Ibn ‘Umar also understood the incident as indicating a
 unique rank. Al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-واخرج النسائي من طريق العلاء بن عرار بمهملات قال فقلت لابن عمر أخبرني
-عن علي وعثمان فذكر الحديث وفيه وأما علي فلا تسأل عنه أحدا وانظر إلى
-منزلته من رسول الله صلى الله عليه وسلم قد سد أبوابنا في المسجد وأقر
-بابه ورجاله رجال الصحيح الا العلاء وقد وثقه يحيى بن معين وغيره
-  </p>
-</blockquote>
+> واخرج النسائي من طريق العلاء بن عرار بمهملات قال فقلت لابن عمر أخبرني
+> عن علي وعثمان فذكر الحديث وفيه وأما علي فلا تسأل عنه أحدا وانظر إلى
+> منزلته من رسول الله صلى الله عليه وسلم قد سد أبوابنا في المسجد وأقر
+> بابه ورجاله رجال الصحيح الا العلاء وقد وثقه يحيى بن معين وغيره
 
-<blockquote dir="rtl">
-  <p>
-وهذه الأحاديث يقوي بعضها بعضا وكل طريق منها صالح للاحتجاج فضلا عن
-مجموعها
-  </p>
-</blockquote>
+> وهذه الأحاديث يقوي بعضها بعضا وكل طريق منها صالح للاحتجاج فضلا عن
+> مجموعها
 
 And al-Nasai recorded through the route of al-‘Ala b. ‘Arar: “I said to
 Ibn ‘Umar: ‘Tell me about ‘Ali and ‘Uthman’.” Then he (al-Nasai)
@@ -135,14 +111,10 @@ combination.[^5]
 What exactly was this status? Imam Ahmad (d. 241 H) records a *hadith*
 that gives the answer:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الله بن نمير قال ثنا موسى الجهني قال
-حدثتني فاطمة بنت علي قالت حدثتني أسماء بنت عميس قالت سمعت رسول الله
-صلى الله عليه و سلم يقول: يا علي أنت مني بمنزلة هارون من موسى الا انه
-ليس بعدي نبي
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الله بن نمير قال ثنا موسى الجهني قال
+> حدثتني فاطمة بنت علي قالت حدثتني أسماء بنت عميس قالت سمعت رسول الله
+> صلى الله عليه و سلم يقول: يا علي أنت مني بمنزلة هارون من موسى الا انه
+> ليس بعدي نبي
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – ‘Abd Allah b. Numayr – Musa
 al-Juhani – Fatimah bint ‘Ali – Asma bint ‘Umays:
@@ -153,11 +125,7 @@ prophet after me.”[^6]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^7]
 
@@ -171,16 +139,12 @@ conclusion is a mystery of mysteries.
 In a related *riwayah*, Ibn ‘Umar even revealed a fact that changes the
 game even more drastically. Imam al-Nasai (d. 303 H) records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أحمد بن سليمان قال حدثنا عبيد الله قال حدثنا إسرائيل عن أبي
-إسحاق عن العلاء بن عرار قال سألت بن عمر وهو في مسجد رسول الله صلى الله
-عليه و سلم عن علي وعثمان فقال أما علي فلا تسألني عنه وانظر إلى منزله
-من رسول الله صلى الله عليه و سلم ليس في المسجد بيت غير بيته وأما عثمان
-فإنه أذنب ذنبا عظيما يوم التقى الجمعان فعفى الله عنه وغفر له وأذنب
-فيكم ذنبا دون فقتلتموه
-  </p>
-</blockquote>
+> أخبرنا أحمد بن سليمان قال حدثنا عبيد الله قال حدثنا إسرائيل عن أبي
+> إسحاق عن العلاء بن عرار قال سألت بن عمر وهو في مسجد رسول الله صلى الله
+> عليه و سلم عن علي وعثمان فقال أما علي فلا تسألني عنه وانظر إلى منزله
+> من رسول الله صلى الله عليه و سلم ليس في المسجد بيت غير بيته وأما عثمان
+> فإنه أذنب ذنبا عظيما يوم التقى الجمعان فعفى الله عنه وغفر له وأذنب
+> فيكم ذنبا دون فقتلتموه
 
 Ahmad b. Sulayman – ‘Abd Allah – Israil – Abu Ishaq – al-‘Ala b. ‘Arar:
 
@@ -195,25 +159,17 @@ committed another sin among you, and you killed him.”[^8]
 
 Both Dr. Bandari and Sayyid Hasan jointly state:
 
-<blockquote dir="rtl">
-  <p>
-صحيح رجاله ثقات
-  </p>
-</blockquote>
+> صحيح رجاله ثقات
 
 **It is** ***sahih***. Its narrators are trustworthy.[^9]
 
 Imam al-Bukhari (d. 256 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن رافع حدثنا حسين عن زائدة عن أبي حصين عن سعد بن عبيدة قال
-:جاء رجل إلى ابن عمر فسأله عن عثمان فذكر عن محاسن عمله قال لعل ذاك
-يسؤوك ؟ قال نعم قال فأرغم الله بأنفك ثم سأله عن علي فذكر محاسن عمله
-قال هو ذاك بيته أوسط بيوت النبي صلى الله عليه وسلم ثم قال لعل ذاك
-يسؤوك ؟ قال أجل قال فأرغم الله بأنفك انطلق فاجهد علي جهدك
-  </p>
-</blockquote>
+> حدثنا محمد بن رافع حدثنا حسين عن زائدة عن أبي حصين عن سعد بن عبيدة قال
+> :جاء رجل إلى ابن عمر فسأله عن عثمان فذكر عن محاسن عمله قال لعل ذاك
+> يسؤوك ؟ قال نعم قال فأرغم الله بأنفك ثم سأله عن علي فذكر محاسن عمله
+> قال هو ذاك بيته أوسط بيوت النبي صلى الله عليه وسلم ثم قال لعل ذاك
+> يسؤوك ؟ قال أجل قال فأرغم الله بأنفك انطلق فاجهد علي جهدك
 
 Muhammad b. Rafi’ – Husayn – Zaidah – Abu Husayn - Sad b. ‘Ubaydah:
 
@@ -276,13 +232,9 @@ however, their statements concerning those two also reveal a lot about
 the full meaning of *Hadith Sadd al-Abwab*. For instance, al-Hafiz Ibn
 Kathir (d. 774 H) states:
 
-<blockquote dir="rtl">
-  <p>
-وفي قوله عليه السلام سدوا عني كل خوخة - يعني الأبواب الصغار - إلى
-المسجد غير خوخة أبي بكر إشارة إلى الخلافة أي ليخرج منها إلى الصلاة
-بالمسلمين.
-  </p>
-</blockquote>
+> وفي قوله عليه السلام سدوا عني كل خوخة - يعني الأبواب الصغار - إلى
+> المسجد غير خوخة أبي بكر إشارة إلى الخلافة أي ليخرج منها إلى الصلاة
+> بالمسلمين.
 
 And in his statement, peace be upon him, “Close all wickets opening into
 the mosque except the wicket of Abu Bakr”, is **an indication towards
@@ -299,14 +251,10 @@ Sahabah that the latter was be his *real* legitimate *khalifah*.
 
 Imam al-Mubarakfuri (d. 1282 H) also says:
 
-<blockquote dir="rtl">
-  <p>
-وفي حديث أبي سعيد عند البخاري في المناقب لا يبقين في المسجد باب إلا سد
-إلا باب أبي بكر وفي الهجرة لا تبقين في المسجد خوخة إلا خوخة أبي بكر
-وكذا عند الترمذي كما تقدم قال الخطابي وابن بطال وغيرهما في هذا الحديث
-اختصاص ظاهر لأبي بكر رضي الله عنه وفيه إشارة قوية إلى استحقاقه للخلافة
-  </p>
-</blockquote>
+> وفي حديث أبي سعيد عند البخاري في المناقب لا يبقين في المسجد باب إلا سد
+> إلا باب أبي بكر وفي الهجرة لا تبقين في المسجد خوخة إلا خوخة أبي بكر
+> وكذا عند الترمذي كما تقدم قال الخطابي وابن بطال وغيرهما في هذا الحديث
+> اختصاص ظاهر لأبي بكر رضي الله عنه وفيه إشارة قوية إلى استحقاقه للخلافة
 
 In the *hadith* of Abu Sa’id, recorded by al-Bukhari in the Chapter of
 *al-Manaqib*, it is read, “Close all doors in the mosque except the door
@@ -322,13 +270,9 @@ Allah was confirming for him a clear, *exclusive* merit and affirming
 his right to the *khilafah* before anyone else. Imam al-‘Ayni (d. 855)
 adds his few cents too:
 
-<blockquote dir="rtl">
-  <p>
-قوله خوخة بفتح المعجمتين بينهما واو ساكنة هو الباب الصغير وكان بعض
-الصحابة فتحوا أبوابا في ديارهم إلى المسجد فأمر الشارع بسدها كلها إلا
-خوخة أبي بكر ليتميز بذلك فضله وفيه إيماء إلى الخلافة
-  </p>
-</blockquote>
+> قوله خوخة بفتح المعجمتين بينهما واو ساكنة هو الباب الصغير وكان بعض
+> الصحابة فتحوا أبوابا في ديارهم إلى المسجد فأمر الشارع بسدها كلها إلا
+> خوخة أبي بكر ليتميز بذلك فضله وفيه إيماء إلى الخلافة
 
 His statement “wicket” refers to the small door. Some of the Sahabah
 used to open the doors of their houses into the mosque. So, the
@@ -341,15 +285,11 @@ Sadd al-Abwab*, and was the first legitimate *khalifah* among them!
 Al-Hafiz makes an even more groundbreaking submission which reaches far
 to the very heart of Sunni Islam:
 
-<blockquote dir="rtl">
-  <p>
-وقد ادعى بعضهم ان الباب كناية عن الخلافة والامر بالسد كناية عن طلبها
-كأنه قال لا يطلبن أحد الخلافة الا أبا بكر فإنه لا حرج عليه في طلبها
-والى هذا جنح ابن حبان فقال بعد أن اخرج هذا الحديث في هذا الحديث دليل
-على أنه الخليفة بعد النبي صلى الله عليه وسلم لأنه حسم بقوله سدوا عني
-كل خوخة في المسجد أطماع الناس كلهم عن أن يكونوا خلفاء بعده
-  </p>
-</blockquote>
+> وقد ادعى بعضهم ان الباب كناية عن الخلافة والامر بالسد كناية عن طلبها
+> كأنه قال لا يطلبن أحد الخلافة الا أبا بكر فإنه لا حرج عليه في طلبها
+> والى هذا جنح ابن حبان فقال بعد أن اخرج هذا الحديث في هذا الحديث دليل
+> على أنه الخليفة بعد النبي صلى الله عليه وسلم لأنه حسم بقوله سدوا عني
+> كل خوخة في المسجد أطماع الناس كلهم عن أن يكونوا خلفاء بعده
 
 **Some of them (i.e. the Sunni scholars) have claimed that the “door”
 (in the** ***ahadith*****) is equivalent to the** ***khilafah***. So,
@@ -426,5 +366,4 @@ al-Kutub al-‘Ilmiyyah; 1st edition, 1410 H), vol. 10, p. 112
 [^14]: Shihab al-Din Ibn Hajar al-‘Asqalani, Fath al-Bari Sharh Sahih
 al-Bukhari (Beirut: Dar al-Ma’rifah li al-Taba’ah wa al-Nashr; 2nd
 edition), vol. 7, p. 12
-
 

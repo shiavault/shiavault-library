@@ -130,4 +130,3 @@ mercy to those who believe. (Holy Qur'an, 12:111)***
 [^1]: Muslim, Sahih, Vol. 7, p. 122 “Kitab al-Fadail” (Book of Virtues),
 the chapter dealing with the merits of Ali ibn Abu Talib .
 
-

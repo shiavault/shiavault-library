@@ -39,4 +39,3 @@ although it was meaningless, the aforesaid philosophy was in fact a
 demanding exigency which filled a vacancy and saved a room for its
 place, and thus it was accepted.
 
-

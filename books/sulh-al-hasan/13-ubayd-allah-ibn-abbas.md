@@ -262,4 +262,3 @@ authority of Abu al-Hasan, 'Ali b. Musa al-Rida." Qays died in the year
 
 [^9]: Ibid.
 
-

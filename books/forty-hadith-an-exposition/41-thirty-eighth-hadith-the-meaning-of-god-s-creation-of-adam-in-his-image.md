@@ -1,21 +1,17 @@
 Thirty-Eighth Hadith: The Meaning Of God’s Creation Of Adam In His Image
 ========================================================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى الشَّيْخِ الجَلِيلِ عِمَادِ الإسْلامِ
-مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِي، رِضْوَانُ اللهِ عَلَيْهِ، عَنْ
-عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ
-عَنْ أَبِيهِ عَنْ عَبْدِاللهِ بْنِ بَحْرٍ عَنْ أَبِي أَيُّوبَ
-الخَزَّازِ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ قَالَ: سَأَلْتُ أبَا جَعْفَرٍ
-عَلَيْهِ السَّلامُ عَمَّا يَرْوُونَ أنَّ اللهَ خَلَقَ آدَمَ عَلَى
-صُورَتِهِ، فَقَالَ: هِيَ صُورَةٌ مُحْدَثَةٌ مَخْلُوقَةٌ. وَاصْطَفَاهَا
-اللهُ وَاخْتَارَهَا عَلَى سَائِرِ الصُّوَرِ المُخْتَلِفَةِ،
-فَأَضَافَهَا إلَى نَفْسِهِ كَمَا أَضَافَ الكَعْبَةَ إلَى نَفْسِهِ
-وَالرُّوحَ إلَى نَفْسِهِ فَقَالَ: ﴿بَيْتِي﴾ ﴿وَنَفَخْتُ فِيهِ مِنْ
-رُوحِي.﴾
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى الشَّيْخِ الجَلِيلِ عِمَادِ الإسْلامِ
+> مُحَمَّدِ بْنِ يَعْقُوبَ الكُلَيْنِي، رِضْوَانُ اللهِ عَلَيْهِ، عَنْ
+> عِدَّةٍ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ
+> عَنْ أَبِيهِ عَنْ عَبْدِاللهِ بْنِ بَحْرٍ عَنْ أَبِي أَيُّوبَ
+> الخَزَّازِ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ قَالَ: سَأَلْتُ أبَا جَعْفَرٍ
+> عَلَيْهِ السَّلامُ عَمَّا يَرْوُونَ أنَّ اللهَ خَلَقَ آدَمَ عَلَى
+> صُورَتِهِ، فَقَالَ: هِيَ صُورَةٌ مُحْدَثَةٌ مَخْلُوقَةٌ. وَاصْطَفَاهَا
+> اللهُ وَاخْتَارَهَا عَلَى سَائِرِ الصُّوَرِ المُخْتَلِفَةِ،
+> فَأَضَافَهَا إلَى نَفْسِهِ كَمَا أَضَافَ الكَعْبَةَ إلَى نَفْسِهِ
+> وَالرُّوحَ إلَى نَفْسِهِ فَقَالَ: ﴿بَيْتِي﴾ ﴿وَنَفَخْتُ فِيهِ مِنْ
+> رُوحِي.﴾
 
 With my chain of authorities reaching up to the august shaykh, the
 Pillar of Islam, Muhammad ibn Ya’qub al-Kulayni (R) from a group of our
@@ -61,11 +57,7 @@ probable is that the tradition of Hadrat Rida (A) refers to the first
 tradition, where the meaning of “Adam” in the last part of the tradition
 where it states:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ.
 
 Verily, God created Adam in His image.
 
@@ -175,11 +167,7 @@ the immaterial spirit pertaining to [the realm of Divine] command
 (*amr*)*,* which is a Divine mystery (*sir al-subhani*) and the ‘spirit
 of God’ (*ruhullah*)*,* referred to in His words:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَنَفَخْتُ فِيهِ مِنْ رُوحِي.﴾
-  </p>
-</blockquote>
+> ﴿وَنَفَخْتُ فِيهِ مِنْ رُوحِي.﴾
 
 ***And I breathed into him*** (***i.e. Adam***) ***of My spirit.***[^7]
 
@@ -234,11 +222,7 @@ all-inclusive Name and the mirror of *tajalli* of the Greatest Name, and
 to this matter these are many references in the Qur’an and *Sunnah*.
 God, Exalted, has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا.﴾
-  </p>
-</blockquote>
+> ﴿وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا.﴾
 
 ***And He taught Adam the Names, all of them.*** (***2:31***)
 
@@ -250,11 +234,7 @@ world (*‘alam al-shahadat*) took place through the manifestation of the
 Hands of Majesty and Beauty in the mirror of physical nature
 (*tabi’at*)*.* And God, the Exalted, has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ…﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ…﴾
 
 ***We offered the Trust to the heavens and the earth***. (***33:72***)
 
@@ -263,40 +243,24 @@ and the ‘Trust’ (*amanah*) in the creed of the gnostics is the absolute
 *wilayah* is the same as the station of Sacred Effusion to which
 reference is made in the Noble Scripture in His statement:
 
-<blockquote dir="rtl">
-  <p>
-﴿كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ.﴾
-  </p>
-</blockquote>
+> ﴿كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ.﴾
 
 ***Everything is fated to perish save His Face.*** (***28:88***)
 
 And in a tradition of the noble *al-Kafi,* Imam Muhammad Baqir (A) is
 cited as having said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ وَجْهُ اللهِ.
-  </p>
-</blockquote>
+> نَحْنُ وَجْهُ اللهِ.
 
 We are the face of God.[^10]
 
 And it is mentioned is the *Du’a al-nudbah:*
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ وَجْهُ اللهِ الَّذِي إلَيْهِ يَتَوَجَّهُ الأَوْلِيَاءُ؟
-  </p>
-</blockquote>
+> أَيْنَ وَجْهُ اللهِ الَّذِي إلَيْهِ يَتَوَجَّهُ الأَوْلِيَاءُ؟
 
 Where is the Face of God towards which the friends of God turn?
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ السَّبَبُ المُتَّصِلُ بَيْنَ الأَرْضِ وَالسَّمَاءِ؟
-  </p>
-</blockquote>
+> أَيْنَ السَّبَبُ المُتَّصِلُ بَيْنَ الأَرْضِ وَالسَّمَاءِ؟
 
 Where is the link that connects the Earth’s people with the Heaven?[^11]
 
@@ -305,11 +269,7 @@ And in the *Ziyarat al-jami’ah* they are referred to as theوالمَثَلُ
 attribute of being the Face is the same as the image (*surah*) mentioned
 in this Noble tradition:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ.
 
 Indeed, God created Adam in His image.[^12]
 
@@ -319,35 +279,23 @@ His greatest sign, and the most complete manifestation and mirror of the
 Allah*)*,* the Eye of God (*‘ayn Allah*)*,* the Hand of God (*yad
 Allah*) and the side or proximity of God (*janb Allah*).
 
-<blockquote dir="rtl">
-  <p>
-هُوَ يَسْمَعُ وَيُبْصِرُ وَيَبْطِشُ بِاللهِ؛ وَاللهُ يُبْصِرُ
-وَيَسْمَعُ وَيَبْطِشُ بِهِ.
-  </p>
-</blockquote>
+> هُوَ يَسْمَعُ وَيُبْصِرُ وَيَبْطِشُ بِاللهِ؛ وَاللهُ يُبْصِرُ
+> وَيَسْمَعُ وَيَبْطِشُ بِهِ.
 
 He hears, sees, and holds by God, and God sees, hears and holds by
 him.[^13]
 
 This *wajh Allah* is the same ‘Light’ mentioned in the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***God is the Light of the heavens and the earth.*** (***24:35***)
 
 And Imam Baqir (A) said to Abu Khalid Kabuli in a tradition of the noble
 *Kafi:*
 
-<blockquote dir="rtl">
-  <p>
-هُمْ (أيْ الأَئِمَّةَ) وَاللهِ نُورُ اللهِ الَّذِي أَنْزَلَ، وَهُمْ
-وَاللهِ نُورُ اللهِ فِي السَّمَاوَاتِ وَالأَرْضِ.
-  </p>
-</blockquote>
+> هُمْ (أيْ الأَئِمَّةَ) وَاللهِ نُورُ اللهِ الَّذِي أَنْزَلَ، وَهُمْ
+> وَاللهِ نُورُ اللهِ فِي السَّمَاوَاتِ وَالأَرْضِ.
 
 They (i.e. the Imams) are, by God, the Light that He has sent down
 (64:8; 61:8;
@@ -359,23 +307,15 @@ And the noble *Kafi* narrates a tradition of Imam Baqir—may my soul be
 sacrificed for the dust of his feet that while expounding the noble
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿عَمَّ يَتَسَاءَلُونَ. عَنْ النَّبَإِ الْعَظِيمِ.﴾
-  </p>
-</blockquote>
+> ﴿عَمَّ يَتَسَاءَلُونَ. عَنْ النَّبَإِ الْعَظِيمِ.﴾
 
 ***Of what do they question? Of the great tiding?*** (***78:1-2***)
 
 he said,
 
-<blockquote dir="rtl">
-  <p>
-هِيَ فِي أَمِيرِ المُؤْمِنِينَ. كَانَ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ
-السَّلامُ يَقُولُ: مَا للهِ تَعَالَى آيَةٌ هِيَ أَكْبَرُ مِنِّي وَلا
-للهِ مِنْ نَبَإٍ أَعْظَمُ مِنِّي.
-  </p>
-</blockquote>
+> هِيَ فِي أَمِيرِ المُؤْمِنِينَ. كَانَ أَمِيرُ المُؤْمِنِينَ عَلَيْهِ
+> السَّلامُ يَقُولُ: مَا للهِ تَعَالَى آيَةٌ هِيَ أَكْبَرُ مِنِّي وَلا
+> للهِ مِنْ نَبَإٍ أَعْظَمُ مِنِّي.
 
 It refers to the Commander of the Faithful (‘Ali). And the Commander of
 the Faithful (A) used to say: “There isn’t a greater sign of God than
@@ -388,11 +328,7 @@ Blessed and the Exalted, is above having a like (*mithl*) and a peer,
 but one should not negate the existence of a metaphor for His sacred
 Essence, as:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَهُ المَثَلُ الأَعْلَى.﴾
-  </p>
-</blockquote>
+> ﴿وَلَهُ المَثَلُ الأَعْلَى.﴾
 
 ***And to Him belongs the highest metaphor*** (***mathal***)***.***[^16]
 
@@ -406,15 +342,11 @@ all-inclusive Name, that is, ‘Allah,’ except the all-inclusive being
 greatness with the Greatness of his Maker (جَلَّتْ عَظَمَتُهُ بِعَظَمَةِ
 بَارِيهِ.).
 
-<blockquote dir="rtl">
-  <p>
-فَاللهُ تَعَالَى خَلَقَ الإنْسَانَ الكَامِلَ وَالآدَمَ الأوَّلَ عَلى
-صُورَتِهِ الجَامِعَةِ وَجَعَلهُ مِرْآةَ أسْمائِهِ وَصِفَاتِهِ. قَالَ
-الشَّيخُ الكَبيرُ: فَظَهرَ جَميعُ ما في الصُّورةِ الإلهِيَّةِ مِن
-الأسماءِ في هذِهِ النَّشأةِ الإنسانيَّةِ، فَحازَتْ رُتبةَ الإحاطَةِ
-وَالجَمعِ بِهذا الوُجودِ وبهِ قَامَتِ الحُجَّةُ للهِ على المَلائكَةِ.
-  </p>
-</blockquote>
+> فَاللهُ تَعَالَى خَلَقَ الإنْسَانَ الكَامِلَ وَالآدَمَ الأوَّلَ عَلى
+> صُورَتِهِ الجَامِعَةِ وَجَعَلهُ مِرْآةَ أسْمائِهِ وَصِفَاتِهِ. قَالَ
+> الشَّيخُ الكَبيرُ: فَظَهرَ جَميعُ ما في الصُّورةِ الإلهِيَّةِ مِن
+> الأسماءِ في هذِهِ النَّشأةِ الإنسانيَّةِ، فَحازَتْ رُتبةَ الإحاطَةِ
+> وَالجَمعِ بِهذا الوُجودِ وبهِ قَامَتِ الحُجَّةُ للهِ على المَلائكَةِ.
 
 Hence, God, the Exalted, created the Perfect Man and the First Man in
 His all-inclusive Image, and He made him the mirror of His Names and
@@ -430,11 +362,7 @@ entities, and the secret of God’s giving precedence to Adam (A) over the
 angels and His giving him a dignity over all other existents and His
 attributing his spirit to Himself, in the Noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَنَفَخْتُ فِيهِ مِنْ رُوحِي.﴾
-  </p>
-</blockquote>
+> ﴿وَنَفَخْتُ فِيهِ مِنْ رُوحِي.﴾
 
 ***And I breathed into him*** (***i.e. Adam***) ***of My spirit.***
 (***15:29, 38:72***)
@@ -444,11 +372,7 @@ from explaining the reality of the Divine breath and its character in
 Adam, and His singling him out for it from among all the existents. And
 all Praise belongs to God, firstly and lastly.
 
-<blockquote dir="rtl">
-  <p>
-وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
-  </p>
-</blockquote>
+> وَالحَمْدُ للهِ أَوَّلاً وَآخِراً.
 
 [^1]: Al-Kulayni, Usul al-Kafi i, 134 “kitab al-tawhid,” “bab al-ruh,”
 hadith 4.
@@ -505,5 +429,4 @@ Allah,” hadith 1.
 al-lati dhakaraha Allahu fi kitabih…” hadith 3.
 
 [^16]: 30:27
-
 

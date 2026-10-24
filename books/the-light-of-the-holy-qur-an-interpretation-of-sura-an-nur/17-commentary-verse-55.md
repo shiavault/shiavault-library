@@ -270,7 +270,6 @@ polytheism is seen in the society, otherwise, when man is free to choose
 his way and has got the freedom of will, it is possible to have deviated
 individuals in the man's best divine societies.
 
-
 **Commentary : Verse 56**
 
 56. وَأَقِيمُوا الصَّلاَةَ وءَاتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ
@@ -405,7 +404,6 @@ camel, cow, and sheep, and let off other ones."[^3]
 may expire." Then Imam was asked: "What does expire mean?" He said:
 "Death"[^4]
 
-
 [^1] Ibid, p. 46
 
 [^2] Wasa'il-ush-Shi'ah, 146
@@ -413,5 +411,4 @@ may expire." Then Imam was asked: "What does expire mean?" He said:
 [^3] Ibid, 34
 
 [^4] Bihar-ul-'Anwar, Vol. 96, p. 109
-
 

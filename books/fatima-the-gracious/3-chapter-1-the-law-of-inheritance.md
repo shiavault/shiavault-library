@@ -83,4 +83,3 @@ children only through her."[^2]
 
 [^2]: Al-Esti'ab.
 
-

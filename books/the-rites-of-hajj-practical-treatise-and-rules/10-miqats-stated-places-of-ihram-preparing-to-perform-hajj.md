@@ -231,4 +231,3 @@ houses can become Muhrim from there for Umrah al-Tamattu’ or Hajj
 al-Ifrad and Qiran, but it is better that they also become Muhrim from
 one of quintet Miqats.
 
-

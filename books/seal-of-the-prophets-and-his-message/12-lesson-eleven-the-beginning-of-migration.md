@@ -401,4 +401,3 @@ hearts. For God said in the Qur’an:
 [^3]: Jawaharlal Nehru, Glimpses of World History, New York, 1948, pp.
 142, 144.
 
-

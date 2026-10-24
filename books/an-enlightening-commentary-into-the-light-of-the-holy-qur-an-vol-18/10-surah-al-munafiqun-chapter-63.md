@@ -10,11 +10,7 @@ Surah al-Munafiqun, Chapter 63
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -59,21 +55,13 @@ will be of no avail.
 Surah al-Munafiqun – Verse 1
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ
-اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ
-إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ
+> اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ
+> إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
 
 ***1. When the hypocrites come unto you, they say: "We bear witness that
 you are verily Allah's Messenger." Allah knows that you are His
@@ -179,19 +167,11 @@ hypocrites."*[^4]
 Surah al-Munafiqun – Verses 2-3
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ ۚ
-إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ ۚ
+> إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ
-فَهُمْ لَا يَفْقَهُونَ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ
+> فَهُمْ لَا يَفْقَهُونَ
 
 ***2. They have made their oaths a shield and thereby hinder people from
 the Path of Allah. Indeed, evil is what they do.***
@@ -277,14 +257,10 @@ since they pave the path for their own acts.
 Surah al-Munafiqun – Verse 4
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا
-تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ
-كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ
-قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا
+> تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ
+> كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ
+> قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
 
 ***4. And when you look at them, they have such looks that they make you
 wonder and when they speak, their speech is so beauteous and attractive
@@ -368,20 +344,12 @@ have four kinds of enemies:
 Surah al-Munafiqun – Verses 5-6
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
-لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ
+> لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
-لَن يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
-الْفَاسِقِينَ
-  </p>
-</blockquote>
+> سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ
+> لَن يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ
+> الْفَاسِقِينَ
 
 ***5. And whenever it is said unto them: "Come, so that Allah's
 Messenger may invoke Allah to forgive you," they twist their heads out
@@ -452,13 +420,9 @@ against the Truth may not be absolved of their sins.
 Surah al-Munafiqun – Verse 7
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَسُولِ
-اللَّهِ حَتَّىٰ يَنفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ
-وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
-  </p>
-</blockquote>
+> هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَسُولِ
+> اللَّهِ حَتَّىٰ يَنفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ
+> وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
 
 ***7. They are the ones who say: "Spend not on those who are with
 Allah's Messenger so that they desert him." And to Allah belong the
@@ -480,13 +444,9 @@ sanctions and pressures to make the nations submit to their will.
 Surah al-Munafiqun – Verse 8
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ
-الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ
-وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ
+> الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ
+> وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
 
 ***8. They say: "If we return to Medina from this military expedition,
 the more honorable will expel therefrom the meaner." But honor, and
@@ -539,13 +499,9 @@ His Absolute Ownership, they would have never erred in this respect.
 Surah al-Munafiqun – Verse 9
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
-أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ
-هُمُ الْخَاسِرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا
+> أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ
+> هُمُ الْخَاسِرُونَ
 
 ***9. O you who believe! Let neither your properties nor your children
 divert you from the remembrance of Allah. And whoever does that is the
@@ -586,13 +542,9 @@ explicit instances of such remembrance.
 Surah al-Munafiqun – Verse 10
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
-الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ
-فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ
+> الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ
+> فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ
 
 ***10. And expend of that with which We have provided you before death
 comes to any of you when he says: "My Lord! If only You would give me
@@ -656,12 +608,8 @@ impossible to return.
 Surah al-Munafiqun – Verse 11
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ
-خَبِيرٌ بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ
+> خَبِيرٌ بِمَا تَعْمَلُونَ
 
 ***11. And Allah grants respite to none when his appointed time comes.
 And Allah is All-Aware of what you do.***
@@ -707,5 +655,4 @@ dwellers of Paradise. Amen.
 tradition 3.
 
 [^11]: 7:34
-
 

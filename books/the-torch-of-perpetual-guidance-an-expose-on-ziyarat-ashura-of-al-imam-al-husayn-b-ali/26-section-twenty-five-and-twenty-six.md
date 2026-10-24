@@ -1,14 +1,10 @@
 Section Twenty Five and Twenty Six
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ فِي هذَا الْيَوْمِ، وَفِي
-مَوْقِفِي هذَا، وَأَيَّامِ حَيَاتِي بِالْبَرَاءَةِ مِنْهُمْ،
-وَاللَّعْنَةِ عَلَيْهِمْ، وَبِالْمُوَالاةِ لِنَبِيِّكَ وَآلِ نَبِيِّكَ
-عَلَيْهِ وَعَلَيْهِمُ أَلسَّلاَمُ.
-  </p>
-</blockquote>
+> أَللَّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ فِي هذَا الْيَوْمِ، وَفِي
+> مَوْقِفِي هذَا، وَأَيَّامِ حَيَاتِي بِالْبَرَاءَةِ مِنْهُمْ،
+> وَاللَّعْنَةِ عَلَيْهِمْ، وَبِالْمُوَالاةِ لِنَبِيِّكَ وَآلِ نَبِيِّكَ
+> عَلَيْهِ وَعَلَيْهِمُ أَلسَّلاَمُ.
 
 “O’ Allah! Surely I seek nearness to you on this day (the Day of
 ‘Ashura) and in this place (which I am in) and in all days of my life by
@@ -29,14 +25,10 @@ In actuality, this line of the Ziyarat is a summary of the entire
 visitation – love and hate – which we have covered in previous sections
 of this exposition.
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ الْعَنْ أَوَّلَ ظَالِمٍ ظَلَمَ حَقَّ مُحَمَّدٍ وَآلِ
-مُحَمَّدٍ وَآخِرَ تَابِعٍ لَهُ عَلَى ذلِكَ. أَللَّهُمَّ الْعَنِ
-الْعِصَابَةَ الَّتِي جاهَدَتِ الْحُسَيْنَ وَشايَعَتْ وَبايَعَتْ
-وَتابَعَتْ عَلَى قَتْلِهِ، أَللَّهُمَّ الْعَنْهُمْ جَمِيعاً.
-  </p>
-</blockquote>
+> أَللَّهُمَّ الْعَنْ أَوَّلَ ظَالِمٍ ظَلَمَ حَقَّ مُحَمَّدٍ وَآلِ
+> مُحَمَّدٍ وَآخِرَ تَابِعٍ لَهُ عَلَى ذلِكَ. أَللَّهُمَّ الْعَنِ
+> الْعِصَابَةَ الَّتِي جاهَدَتِ الْحُسَيْنَ وَشايَعَتْ وَبايَعَتْ
+> وَتابَعَتْ عَلَى قَتْلِهِ، أَللَّهُمَّ الْعَنْهُمْ جَمِيعاً.
 
 “O’ Allah! Curse the first tyrant who oppressed the right of Muhammad
 and the family of Muhammad and the next person who followed him on this
@@ -72,5 +64,4 @@ thus rendering these curses as not coming from the bottom of our heart,
 however without doubt, if we repeat it 100 times, we are guarantee that
 atleast one of these 100 would be done sincerely and with true faith in
 what we are saying.
-
 

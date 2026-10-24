@@ -51,4 +51,3 @@ email their comments to <sayedathar@hotmail.com>.
 ***Director***  
 ***Al-Qalam Translators & Writers Bureau***
 
-

@@ -318,4 +318,3 @@ li-sayyid al-'itra fi harb al-Basra, ed. 'Ali Mir Sharifi, Qumm, 1413,
 
 [^34]: See Q 33: 33.
 
-

@@ -294,4 +294,3 @@ did homage before him, and forgot the follies that he had done, and Kai
 Kaous grew worthy of the throne of light. And Iran was exalted at his
 hands, and power and prosperity increased within its borders.
 
-

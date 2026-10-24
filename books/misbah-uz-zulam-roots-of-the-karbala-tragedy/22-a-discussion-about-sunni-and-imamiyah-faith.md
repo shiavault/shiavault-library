@@ -102,4 +102,3 @@ and Malik used to practice jurisprudence on the lines of Imam Ja’far
 Sadiq (a.s.). Numerous proofs of this type of dissociation are mentioned
 below.
 
-

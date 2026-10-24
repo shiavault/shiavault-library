@@ -84,7 +84,6 @@ his schooling life. Such is the parental influence and impact on the
 child. No school. however good. can ever provide a substitute for this
 brand of a spring-board.
 
-
 **16- Mother's True Love for Son is Sharing his**
 
 with his Wife
@@ -257,5 +256,4 @@ loser in both the situations in his life time. Ironically, the wife,
 later also as a mother-in-law, keeps the cycle turning in adherence to
 the culture of intimidating her daughter-in-Iaw by possessing the son
 away from his wife.
-
 

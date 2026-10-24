@@ -161,4 +161,3 @@ in Religion (London: Pinter Publishers, 1994) p. 102.
 [^14]: Amir H. Siddiqi, Studies in Islamic History (Karachi: Jamiyatul
 Falah Publications, 3rd edition, 1967) p. 138.
 
-

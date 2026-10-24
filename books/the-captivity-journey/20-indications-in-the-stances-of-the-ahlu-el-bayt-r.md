@@ -61,4 +61,3 @@ dare
 to talk back to me?"… "God had pleased my soul with what he had done to
 your tyrant and the rebellions of your family!!"
 
-

@@ -26,10 +26,8 @@ re‑established, since, as has been pointed out, there is no separation
 between the ends of religion and science. Religion teaches that all
 creation is oriented towards God as stated in the Qur’anic verse:
 
-<p dir="rtl">
 يُسَبِّحُ لِلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ الْمَلِكِ
 الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ
-</p>
 
 ***All that is in the heavens and the earth magnifies God, the Supreme,
 the All­ holy, the Almighty, the All‑wise. (62:1)***
@@ -161,9 +159,7 @@ vol. LXXVIII, p. 80.
 [^29]: A narration from the Holy Prophet (S) found in Nahj al‑Fasahah,
 p. 635, says:
 
-<p dir="rtl">
 ((الناس كلهم عيال الله، فأحبهم إليه أنفعهم لعياله))
-</p>
 
 All human beings are the family of God, and the most beloved of men near
 God is one who is most beneficial to His family.

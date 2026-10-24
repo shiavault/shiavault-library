@@ -259,4 +259,3 @@ Sayyid Muhammad Baqir.
 
 [^9]: Nafasul Mahmoom, p. 96.
 
-

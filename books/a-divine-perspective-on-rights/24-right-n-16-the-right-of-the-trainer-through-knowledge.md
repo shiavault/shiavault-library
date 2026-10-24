@@ -1,26 +1,18 @@
 Right n. 16: The Right of the Trainer through Knowledge
 =======================================================
 
-<blockquote dir="rtl">
-  <p>
-حق سائسك بالعلم
-  </p>
-</blockquote>
+> حق سائسك بالعلم
 
-<blockquote dir="rtl">
-  <p>
-وأَمَّا حَقُّ سَائِسِكَ بالعِلْمِ فالتَّعْظِيمُ لَهُ والتَّوْقِيرُ
-لِمَجْلِسِهِ وَحُسْنُ الاسْتِمَاعِ إليهِ وَالإقْبَالُ عَلَيْهِ
-وَالْمَعُونةُ لَهُ عَلَى نفْسِكَ فِيمَا لا غِنَى بكَ عَنْهُ مِنْ
-الْعِلْمِ بأَنْ تُفَرِّغَ لَهُ عَقلَكَ وَتُحْضِرَهُ فَهْمَكَ وتُزَكِّي
-لَهُ قَلْبَكَ وتُجَلِّى لَهُ بَصَرَكَ بتَرْكِ اللّذَّاتِ وَنقْص
-الشّهَوَاتِ، وَأَنْ تَعْلَمَ أَنَّكَ فِيمَا أَلقَى إلَيْكَ رَسُولُهُ
-إلَى مَنْ لَقِيَكَ مِنْ أَهْلِ الْجَهْلِ فَلَزِمَكَ حُسْنُ
-التَّأْدِيَةِ عَنْهُ إلَيْهِمْ، ولا تَخُنْهُ فِي تَأْدِيَةِ
-رِسَالَتِهِ وَالْقِيَامِ بهَا عَنْهُ إذا تَقَلَّدْتَهَا. وَلا حَوْلَ
-وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وأَمَّا حَقُّ سَائِسِكَ بالعِلْمِ فالتَّعْظِيمُ لَهُ والتَّوْقِيرُ
+> لِمَجْلِسِهِ وَحُسْنُ الاسْتِمَاعِ إليهِ وَالإقْبَالُ عَلَيْهِ
+> وَالْمَعُونةُ لَهُ عَلَى نفْسِكَ فِيمَا لا غِنَى بكَ عَنْهُ مِنْ
+> الْعِلْمِ بأَنْ تُفَرِّغَ لَهُ عَقلَكَ وَتُحْضِرَهُ فَهْمَكَ وتُزَكِّي
+> لَهُ قَلْبَكَ وتُجَلِّى لَهُ بَصَرَكَ بتَرْكِ اللّذَّاتِ وَنقْص
+> الشّهَوَاتِ، وَأَنْ تَعْلَمَ أَنَّكَ فِيمَا أَلقَى إلَيْكَ رَسُولُهُ
+> إلَى مَنْ لَقِيَكَ مِنْ أَهْلِ الْجَهْلِ فَلَزِمَكَ حُسْنُ
+> التَّأْدِيَةِ عَنْهُ إلَيْهِمْ، ولا تَخُنْهُ فِي تَأْدِيَةِ
+> رِسَالَتِهِ وَالْقِيَامِ بهَا عَنْهُ إذا تَقَلَّدْتَهَا. وَلا حَوْلَ
+> وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of the one who trains you through knowledge is
 venerating him, and respecting his meetings, and listening well to him,
@@ -72,22 +64,14 @@ naturally humble to those who possess it. The Prophet of God who was the
 seal of the Prophets is told to read in the very first instance of
 receiving divine revelations:
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
-  </p>
-</blockquote>
+> اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
 
 ***"Read! In the name of thy Lord and Cherisher, Who created…” [The Holy
 Qur’an, al-‘Alaq 96:1]***
 
 Then the subject of teaching the use of the pen is revealed:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
-  </p>
-</blockquote>
+> الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ
 
 ***"… He who taught (the use of) the Pen. Taught man that which he knew
 not.” [The Holy Qur’an, al-‘Alaq 96:4-5]***
@@ -99,12 +83,8 @@ the lowest ranks to the highest positions, and finally approach the
 threshold of God. The Holy Qur’an asks man’s conscience to judge about
 knowledge:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
-إِنَّمَا يَتَذَكَّرُ أُوْلُوا الْأَلْبَابِ
-  </p>
-</blockquote>
+> قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
+> إِنَّمَا يَتَذَكَّرُ أُوْلُوا الْأَلْبَابِ
 
 ***“Say: Are those equal, those who know and those who do not know? It
 is those who are endued with understanding that receive admonition.”
@@ -112,26 +92,14 @@ is those who are endued with understanding that receive admonition.”
 
 Consider the following verses:
 
-<blockquote dir="rtl">
-  <p>
-قل لا يَسْتَوي الخَبِيثُ و الطَّيِّبُ
-  </p>
-</blockquote>
+> قل لا يَسْتَوي الخَبِيثُ و الطَّيِّبُ
 
 ***“Say: Not equal are things that are bad and things that are good …”
 [The Holy Qur’an, al-Maida 5:100]***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَسْتَوِي اْلأَعْمَى وَالْبَصِيرُ
-  </p>
-</blockquote>
+> وَمَا يَسْتَوِي اْلأَعْمَى وَالْبَصِيرُ
 
-<blockquote dir="rtl">
-  <p>
-وَلا الظُّلُمَاتُ وَلا النُّورُ و لا الظِّلُّ و لا الحَرُورُ
-  </p>
-</blockquote>
+> وَلا الظُّلُمَاتُ وَلا النُّورُ و لا الظِّلُّ و لا الحَرُورُ
 
 ***“The blind and the seeing are not alike, nor are the depths of
 Darkness and the Light. Nor are the (chilly) shade and the (genial) heat
@@ -143,12 +111,8 @@ that are bad”, “the blind”, “depths of Darkness” and “the chilly sha
 all represent the results of ignorance.  
  Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-ً قُلْ كَفَى بِاللّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ
-عِلْمُ الْكِتَاب
-  </p>
-</blockquote>
+> ً قُلْ كَفَى بِاللّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ
+> عِلْمُ الْكِتَاب
 
 ***Say: Enough for a witness between me and you is God, and such as have
 knowledge of the book.” [The Holy Qur’an, al-Ra’d 13:43]***
@@ -158,12 +122,8 @@ witness to Prophethood along with God, and their high rank near God is
 clarified.  
  To stress the importance of acquiring knowledge, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا
-الْعِلْمَ دَرَجَاتٍ
-  </p>
-</blockquote>
+> يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا
+> الْعِلْمَ دَرَجَاتٍ
 
 ***“… God will raise up to (suitable) ranks (and degrees), those of you
 who believe and who have been granted (mystic) knowledge …”[The Holy
@@ -177,15 +137,11 @@ The Importance of the Rank of a Teacher
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-زَيارَةُ العُلَماءِ أَحَبُّ إلى اللهِ تَعالَى مِن سَبعِينَ طَوافاً
-حَولَ البَيتِ وَأَفضَلُ مِن سَبْعينَ حِجَّةً وَعُمْرَةً مَبرورَةً
-مَقْبولَةً وَرَفَعَ اللهُ تَعالى لَهُ سَبعِينَ دَرَجَةً وَأَنزَلَ
-اللهُ عَلَيهِ الرَّحْمَةَ وَشَهِدَتْ لهُ المَلائِكَةُ أنَّ الجَنَّةَ
-وَجَبَتْ لهُ.
-  </p>
-</blockquote>
+> زَيارَةُ العُلَماءِ أَحَبُّ إلى اللهِ تَعالَى مِن سَبعِينَ طَوافاً
+> حَولَ البَيتِ وَأَفضَلُ مِن سَبْعينَ حِجَّةً وَعُمْرَةً مَبرورَةً
+> مَقْبولَةً وَرَفَعَ اللهُ تَعالى لَهُ سَبعِينَ دَرَجَةً وَأَنزَلَ
+> اللهُ عَلَيهِ الرَّحْمَةَ وَشَهِدَتْ لهُ المَلائِكَةُ أنَّ الجَنَّةَ
+> وَجَبَتْ لهُ.
 
 *“Visiting the knowledgeable people is more loved by God than seventy
 circumambulations of His Holy House, and more excellent than performing
@@ -197,14 +153,10 @@ the angels will bear witness that Heaven is guaranteed for him.”*[^2]
 The Noble Prophet encouraged the people to attend the meetings held by
 the knowledgeable people:
 
-<blockquote dir="rtl">
-  <p>
-يَا أبَا ذَرٍّ! الجُلوسُ سَاعَةً عِندَ مُذاكَرَةِ العِلمِ أحَبُّ إلى
-اللهِ مِن قِيامِ ألْفِ لَيلَةٍ يُصَلّى في كُلِّ لَيلَةٍ ألفَ رَكْعَةٍ.
-و الجُلوسُ سَاعَةً عِندَ مُذاكَرَةِ العِلمِ أحَبُّ إلى اللهِ مِن ألْفِ
-غَزْوَةٍ وَقِراءَةِ القُرآنِ كُلِّهِ.
-  </p>
-</blockquote>
+> يَا أبَا ذَرٍّ! الجُلوسُ سَاعَةً عِندَ مُذاكَرَةِ العِلمِ أحَبُّ إلى
+> اللهِ مِن قِيامِ ألْفِ لَيلَةٍ يُصَلّى في كُلِّ لَيلَةٍ ألفَ رَكْعَةٍ.
+> و الجُلوسُ سَاعَةً عِندَ مُذاكَرَةِ العِلمِ أحَبُّ إلى اللهِ مِن ألْفِ
+> غَزْوَةٍ وَقِراءَةِ القُرآنِ كُلِّهِ.
 
 *“O Abu-Dharr! Attending a scholarly discussion for an hour is more
 loved by God the Almighty than a thousand nights of standing in prayer,
@@ -214,13 +166,9 @@ battles and reciting the whole Qur’an.”*[^3]
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-ما مِنْ مُؤمِنٍ يَقْعُدُ ساعَةً عِندَ العَالِمِ إلاّ نَاداهُ رَبُّهُ
-عَزَّ وَجَلَّ: جَلَسْتَ إلى حَبيبي، وَعِزَّتِي وَجَلالي لأُسْكِنَنَّكَ
-الجَنَّةَ مَعَهُ وَلا أُبالي.
-  </p>
-</blockquote>
+> ما مِنْ مُؤمِنٍ يَقْعُدُ ساعَةً عِندَ العَالِمِ إلاّ نَاداهُ رَبُّهُ
+> عَزَّ وَجَلَّ: جَلَسْتَ إلى حَبيبي، وَعِزَّتِي وَجَلالي لأُسْكِنَنَّكَ
+> الجَنَّةَ مَعَهُ وَلا أُبالي.
 
 *“No believer sits with a scholar for an hour but that his Lord, the
 Exalted, the High, calls out to him: You sat with My beloved. I swear by
@@ -238,13 +186,9 @@ The Role of the Teacher
 
 Imam Jawad said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أصْغَى إلى ناطِقٍ فَقَد عَبَدَهُ؛ فإنْ كانَ النّاطِقُ عَن اللهِ
-فَقَد عَبَدَ اللهَ، وإنْ كانَ النّاطِقُ يَنْطِقُ عَن لِسانِ إبْلِيسَ
-فَقَدْ عَبَدَ إبْليسَ.
-  </p>
-</blockquote>
+> مَنْ أصْغَى إلى ناطِقٍ فَقَد عَبَدَهُ؛ فإنْ كانَ النّاطِقُ عَن اللهِ
+> فَقَد عَبَدَ اللهَ، وإنْ كانَ النّاطِقُ يَنْطِقُ عَن لِسانِ إبْلِيسَ
+> فَقَدْ عَبَدَ إبْليسَ.
 
 *“Whoever listens to a speaker has worshipped him. If the speaker is
 from God, (and is teaching divine things,) then the listener has
@@ -262,13 +206,9 @@ Imam Ali’s Advice to Malik
 In the following addressed to Malik al-Ashtar, Imam Ali recommends
 associating with people of knowledge:
 
-<blockquote dir="rtl">
-  <p>
-أكْثِرْ مُدارَسَةَ العُلَماءِ وَمُناقَشَةَ الحُكَماءِ في تَثْبيتِ ما
-صَلُحَ عَلَيهِ أمْرُ بِلادِكَ وإقامَةِ ما اسْتَقامَ به النّاسُ
-قَبْلَكَ.
-  </p>
-</blockquote>
+> أكْثِرْ مُدارَسَةَ العُلَماءِ وَمُناقَشَةَ الحُكَماءِ في تَثْبيتِ ما
+> صَلُحَ عَلَيهِ أمْرُ بِلادِكَ وإقامَةِ ما اسْتَقامَ به النّاسُ
+> قَبْلَكَ.
 
 *“O Malik! Study often with the scholars and have frequent discussions
 with the wise in consolidating what is suitable for the prosperity of
@@ -291,11 +231,7 @@ so effective that when Umar ibn Abdul Aziz became the Caliph, he banned
 this practice, and instead ordered the following verse to be
 recited:[^7]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ
 
 ***“God commands justice, the doing of good…” [The Holy Qur’an, al-Naĥl
 16:90]***
@@ -318,18 +254,10 @@ Which Teacher Should We Choose
 
 In the following verses, God has clarified this for us:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ إِلَى طَعَامِهِ أنَّا صَبَبْنا المَآءَ صَبّاً
-ثُمَّ شَقَقْنا الأرْضَ شَقّاً
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ إِلَى طَعَامِهِ أنَّا صَبَبْنا المَآءَ صَبّاً
+> ثُمَّ شَقَقْنا الأرْضَ شَقّاً
 
-<blockquote dir="rtl">
-  <p>
-فَأَنبَتْنَا فِيهَا حَبًّا
-  </p>
-</blockquote>
+> فَأَنبَتْنَا فِيهَا حَبًّا
 
 ***“Then let man look at his food (and how We provide it): For that We
 pour forth water in abundance, and We spilt the earth in fragments, And
@@ -365,13 +293,9 @@ The Rights of the Teacher as Viewed by Imam Baqir
 
 Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا جَلَسْتَ إلى عَالِمٍ فَكُنْ عَلى أنْ تَسْمَعَ أحْرَصَ مِنْكَ عَلى
-أنْ تَقولَ. وَتَعَلَّمْ حُسنَ الإسْتِماعِ كَما تَتَعَلَّمُ حْسنَ
-القَولِ، وَلا تَقْطَعْ عَلَيهِ حَديثَهُ.
-  </p>
-</blockquote>
+> إذَا جَلَسْتَ إلى عَالِمٍ فَكُنْ عَلى أنْ تَسْمَعَ أحْرَصَ مِنْكَ عَلى
+> أنْ تَقولَ. وَتَعَلَّمْ حُسنَ الإسْتِماعِ كَما تَتَعَلَّمُ حْسنَ
+> القَولِ، وَلا تَقْطَعْ عَلَيهِ حَديثَهُ.
 
 *“When you sit with a scholar, be more eager to hear him than to talk
 yourself. Learn how to listen well just as you learn how to speak well,
@@ -386,17 +310,13 @@ The Rights of the Teacher as Viewed by Imam Ali
 
 Imam Sadiq quoted on the authority of Imam Ali :
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِن حَقِّ العالِمِ أنْ لا تُكْثِرَ عَلَيه السُّؤالَ وَلا تَأخُذَ
-بِثَوبِهِ وإذا دَخَلْتَ عَلَيهِ وَعِندَهُ قَومٌ فَسَلِّمْ عَليهِم
-جَميعاً وَخُصَّهُ بالتَّحِيَّةِ دونَهُم وَاجْلِسْ بَينَ يَدَيْهِ وَلا
-تَجْلِسْ خَلفَهُ وَلا تَغْمِزْ بِعَيْنِكَ ولا تُشِرْ بِيَدِكَ وَلا
-تُكْثِرْ مِن قَولِ (قال فلانٌ وقَالَ فُلانٌ) خِلافاً لِقَوْلِهِ وَلا
-تَضْجُرْ بِطُول ِصُحْبَتِه، فإنمَّا مَثَلُ العالِمِ مَثَلُ النَّخْلَةِ
-تَنْنتظِرُها حتىّ يَسْقُطَ علَيكَ مِنها شَيءٌ.
-  </p>
-</blockquote>
+> إنَّ مِن حَقِّ العالِمِ أنْ لا تُكْثِرَ عَلَيه السُّؤالَ وَلا تَأخُذَ
+> بِثَوبِهِ وإذا دَخَلْتَ عَلَيهِ وَعِندَهُ قَومٌ فَسَلِّمْ عَليهِم
+> جَميعاً وَخُصَّهُ بالتَّحِيَّةِ دونَهُم وَاجْلِسْ بَينَ يَدَيْهِ وَلا
+> تَجْلِسْ خَلفَهُ وَلا تَغْمِزْ بِعَيْنِكَ ولا تُشِرْ بِيَدِكَ وَلا
+> تُكْثِرْ مِن قَولِ (قال فلانٌ وقَالَ فُلانٌ) خِلافاً لِقَوْلِهِ وَلا
+> تَضْجُرْ بِطُول ِصُحْبَتِه، فإنمَّا مَثَلُ العالِمِ مَثَلُ النَّخْلَةِ
+> تَنْنتظِرُها حتىّ يَسْقُطَ علَيكَ مِنها شَيءٌ.
 
 *"The rights of a scholar include the following:*
 
@@ -432,11 +352,7 @@ servants”. However, this knowledgeable wise man has been called Khidhr
 in many traditions.[^12] Even though the Prophet Moses was one to whom
 God spoke directly as evidenced by the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكَلَّمَ اللّهُ مُوسَى تَكْلِيمًا
-  </p>
-</blockquote>
+> وَكَلَّمَ اللّهُ مُوسَى تَكْلِيمًا
 
 ***“And to Moses God spoke direct … [The Holy Qur’an, al-Nisaa 4:164]***
 
@@ -445,12 +361,8 @@ to go to a teacher. He was accompanied by a brave young man from amongst
 the Israelites called “Yusha’ ibn Noon” (Joshua) to seek and finally
 find the teacher as we read in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِندِنَا
-وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْمًا
-  </p>
-</blockquote>
+> فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِندِنَا
+> وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْمًا
 
 ***“So they found one of Our servants, on whom We have bestowed mercy
 from Ourselves, and whom We have taught knowledge from Our own
@@ -465,14 +377,10 @@ the hardships of traveling in order to benefit from the teacher’s
 especial knowledge. When he meets the teacher, he politely asks a
 question as we read:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَهُ مُوسَى هَلْ أَتَّبِعُكَ عَلَى أَن تُعَلِّمَنِ مِمَّا
-عُلِّمْتَ رُشْدًا قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا
-وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا قَالَ
-سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا
-  </p>
-</blockquote>
+> قَالَ لَهُ مُوسَى هَلْ أَتَّبِعُكَ عَلَى أَن تُعَلِّمَنِ مِمَّا
+> عُلِّمْتَ رُشْدًا قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا
+> وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا قَالَ
+> سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا
 
 ***“Moses said to him: May I follow thee on the footing that thou teach
 me something of the (Higher) Truth which thou hast been taught? (The
@@ -661,5 +569,4 @@ al-Kahf 18:62-82.
 [^16]: Ibid. p.323.
 
 [^17]: Lu’lu wa’l Marjan, p.44, quoted from Manaqib Ibn ShahrAshub.
-
 

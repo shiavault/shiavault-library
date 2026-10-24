@@ -46,7 +46,6 @@ should not wake him up; we should just leave a message to those close to
 him hoping for his quick recovery. We can ask if there is any service
 needed so as to try our best to help.
 
-
 **Visiting Neighbors**
 
 Concerning neighbors, the Almighty Allah said: "…and neighbour close to
@@ -76,7 +75,6 @@ D- Make him feel loved: Try to show your concern for your neighbour and
 that you love him by welcoming him, visiting and presenting gifts to
 him. And if he is sick visit him.
 
-
 **7- The Manners of Saying Farewell and Welcoming a Traveler**
 
 Among the advices of Prophet Luqman (peace be upon him) to his child
@@ -98,18 +96,14 @@ Among the manners of farewell are:
 A- To pass the Holy Qur'an over the head of the traveler.
 B- To embrace him and read on his right shoulder:
 
-<p dir="rtl">
 (ان الدي فرض عليك القران لرادك الى معاد)"
-</p>
 
 "Verily He Who has ordained the Qur'an unto you certainly brings you
 back (to your) home;…" Holy Qur'an: (28: 85)
 
 And on his left shoulder:
 
-<p dir="rtl">
 فالله خير حافظا وهو ارحم الراحمين) )
-</p>
 
 "But Allah is the Best Guard, and He is the Most Merciful of the
 merciful ones." (Holy Qur'an (12: 64) C. To hope for his safety while
@@ -152,25 +146,19 @@ A. Taking part in the burial activities of the deceased, to walk in a
 sad mood as if the deceased is ours; and we should continue to recite
 the words of believing in the will of Allah, like:
 
-<p dir="rtl">
 (لا اله الا الله)
-</p>
 
 'La'ilaha Illallah'
 
 (There is no god, but Allah),
 
-<p dir="rtl">
 و(لا حول ولا قوة الا بالله)
-</p>
 
 'La hawla wa la quwata illa billah'
 
 (There is nor power but with Allah)
 
-<p dir="rtl">
 انا لله وانا اليه راجعون))
-</p>
 
 'Inna lillahi wa inna ilayhi Raji'un';
 
@@ -197,15 +185,11 @@ telephone, letter, telex, fax, and internet. There are certain common
 and well-known terms and expressions for extending condolences, which
 depend on the culture and custom of the people. Among them are
 
-<p dir="rtl">
 عظم الله اجوركم
-</p>
 
 "May Allah glorify your rewards."
 
-<p dir="rtl">
 انا لله وانا اليه راجعون
-</p>
 
 "(We are from Allah, and to Him we return) "
 
@@ -307,7 +291,6 @@ H- If you park your car in a special place, do not cause a rise in its
 sound. Do not start it carelessly for the purpose of protecting your
 health and the health of others.
 
-
 **12. The Manners of Relations With Elders:**
 
 Relations with elders - whether they are our parents or teachers and
@@ -346,5 +329,4 @@ with your knee, because the Almighty Allah revives hearts with the light
 of wisdom, as He revives the earth with the heavy rain of the sky". It
 is also good to assess their services, as well as, follow their advice
 and protect them.
-
 

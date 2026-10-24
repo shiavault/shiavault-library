@@ -5,18 +5,10 @@ Sermon 51: They ask you to feed them ...
 al-mu’minin and occupied the bank of River Euphrates and prevented them
 from taking its water, Amir al-mu’minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلامه (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلامه (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا غلب أصحاب معاوية أصحابه عليه السلام على شريعة الفرات بصفين
-ومنعوهم الماء
-  </p>
-</blockquote>
+> لمّا غلب أصحاب معاوية أصحابه عليه السلام على شريعة الفرات بصفين
+> ومنعوهم الماء
 
 They[^1] are asking you morsels of battle. So either you remain in
 ignominy and the lowest position or drench your swords with blood and
@@ -26,16 +18,12 @@ leading a small group of insurgents and has kept them in dark about the
 true facts with the result that they have made their bosoms the targets
 of death.
 
-<blockquote dir="rtl">
-  <p>
-قَدِ اسْتَطْعَمُوكُمُ الْقِتَالَ، فَأَقِرُّوا عَلَى مَذَلَّة،
-وَتَأْخِيرِ مَحَلَّة، أَوْ رَوُّوا السُّيُوفَ مِنَ الدِّمَاءِ
-تَرْوَوْا مِنَ الْمَاءِ، فَالمَوْتُ في حَيَاتِكُمْ مَقْهُورِينَ،
-وَالْحَيَاةُ في مَوْتِكُمْ قَاهِرِينَ. أَلاَ وَإِنَّ مُعَاوِيَةَ قَادَ
-لُمَةً مِنَ الْغُوَاةِ وَعَمَّسَ عَلَيْهِمُ الْخَبَرَ، حَتَّى جَعَلُوا
-نُحُورَهُمْ أَغْرَاضَ الْمَنِيَّةِ.
-  </p>
-</blockquote>
+> قَدِ اسْتَطْعَمُوكُمُ الْقِتَالَ، فَأَقِرُّوا عَلَى مَذَلَّة،
+> وَتَأْخِيرِ مَحَلَّة، أَوْ رَوُّوا السُّيُوفَ مِنَ الدِّمَاءِ
+> تَرْوَوْا مِنَ الْمَاءِ، فَالمَوْتُ في حَيَاتِكُمْ مَقْهُورِينَ،
+> وَالْحَيَاةُ في مَوْتِكُمْ قَاهِرِينَ. أَلاَ وَإِنَّ مُعَاوِيَةَ قَادَ
+> لُمَةً مِنَ الْغُوَاةِ وَعَمَّسَ عَلَيْهِمُ الْخَبَرَ، حَتَّى جَعَلُوا
+> نُحُورَهُمْ أَغْرَاضَ الْمَنِيَّةِ.
 
 Alternative Sources for Sermon 51
 ---------------------------------
@@ -65,5 +53,4 @@ prevent anyone from water. Whoever wants to drink, may drink and whoever
 wants to take away may take away." Consequently, despite occupation of
 the River by Amir al-mu'minin's army no one was prevented from the water
 and everyone was given full liberty to take water.
-
 

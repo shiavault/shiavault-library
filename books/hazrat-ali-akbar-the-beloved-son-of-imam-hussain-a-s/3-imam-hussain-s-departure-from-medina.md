@@ -107,4 +107,3 @@ month of Muharram the events, for which the Prophet and Ali and Fatima
 had prepared Hussain, started unfolding themselves. What a day it was
 and what fateful events it encompassed!
 
-

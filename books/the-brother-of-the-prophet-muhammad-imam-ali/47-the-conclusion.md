@@ -1118,4 +1118,3 @@ verse 43.
 
 [^28]: Abu Zuhrah Al-Imam Al-Sadiq p. 25
 
-

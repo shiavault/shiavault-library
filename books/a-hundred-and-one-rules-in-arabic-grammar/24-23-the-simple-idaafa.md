@@ -10,4 +10,3 @@ Environment where some nouns will play double grammatical functions.
 **  b. the door of the university building **بابُ بناءِ
 الجامعةِ         ****
 
-

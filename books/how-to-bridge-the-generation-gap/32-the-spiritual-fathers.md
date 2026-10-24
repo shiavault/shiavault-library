@@ -50,4 +50,3 @@ and innocent Imams are unhappy with these type of people. As Islam is a
 practical religion, only those who adhere to and practice according to
 its principles, will benefit from Islam.
 
-

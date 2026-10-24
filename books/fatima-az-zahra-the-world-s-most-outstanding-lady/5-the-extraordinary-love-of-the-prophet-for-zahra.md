@@ -1,11 +1,7 @@
 The Extraordinary Love of the Prophet for Zahra
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-إذا اشتقت إلى الجنة قبّلْتُ نحرَ فاطمة
-  </p>
-</blockquote>
+> إذا اشتقت إلى الجنة قبّلْتُ نحرَ فاطمة
 
 *“Whenever I long for paradise, I kiss the throat of Fatimah.**”***[^1]
 
@@ -24,12 +20,8 @@ From the many narratives that have come to us on this subject it is
 enough to just mention the following ones from the famous books of shi’a
 and sunni;
 
-<blockquote dir="rtl">
-  <p>
-ما كان أحد من الرجال أحب إلى رسول اللّه من عليٍّ ولا من النساء أحب
-إليه من فاطمة
-  </p>
-</blockquote>
+> ما كان أحد من الرجال أحب إلى رسول اللّه من عليٍّ ولا من النساء أحب
+> إليه من فاطمة
 
 *“There is no man more loved by the Prophet (S) than “the commander of
 the Faithful” Ali (a.s.) and no women more loved than Fatimah (s.a.).”*
@@ -39,11 +31,7 @@ It is interesting that a large group of these hadiths were reported by
 Aisha.
 When this honourable verse was revealed.
 
-<blockquote dir="rtl">
-  <p>
-لا تَجْعَلوا دعاء الرّسولِ بينَكم كدعاء بعضكم بعضاً
-  </p>
-</blockquote>
+> لا تَجْعَلوا دعاء الرّسولِ بينَكم كدعاء بعضكم بعضاً
 
 ***“Make not the calling of the messenger among you as your calling of
 one another.***”[^3]
@@ -51,16 +39,12 @@ one another.***”[^3]
 The Muslims did not address the prophet as “O’ Muhammad” anymore,
 instead they said: “O’ Messenger of God.”
 
-<blockquote dir="rtl">
-  <p>
-تقول فاطمة(عليها السلام) لمّا نزلت الآية الشريفة هبت رسول اللّه أن
-أقول له يا أبه. فكنت أقول: يا رسول اللّه، فأعرض عني مرةً واثنين أو
-ثلاثاً، ثم أقبل عليَّ فقال: يا فاطمة إنّها لم تنزل فيك ولا في أهلك ولا
-في نسلك، أنت مني و أنا منك، إنّما نزلت في أهل الجفاء والغلظة من قريش،
-أصحاب البذخ والكبر ثم أضاف هذه العبارة الروحية العجيبة قولي يا أبه
-فإنّها أحيى للقلب وأرضى للرّب
-  </p>
-</blockquote>
+> تقول فاطمة(عليها السلام) لمّا نزلت الآية الشريفة هبت رسول اللّه أن
+> أقول له يا أبه. فكنت أقول: يا رسول اللّه، فأعرض عني مرةً واثنين أو
+> ثلاثاً، ثم أقبل عليَّ فقال: يا فاطمة إنّها لم تنزل فيك ولا في أهلك ولا
+> في نسلك، أنت مني و أنا منك، إنّما نزلت في أهل الجفاء والغلظة من قريش،
+> أصحاب البذخ والكبر ثم أضاف هذه العبارة الروحية العجيبة قولي يا أبه
+> فإنّها أحيى للقلب وأرضى للرّب
 
 *Fatimah (s.a.) says:*
 *After this verse was revealed I didn’t dare call my father as (father
@@ -86,12 +70,8 @@ first person to rush to see him was Fatimah.
 This hadith was also narrated by many of the narrators of hadiths, both
 shi’a and sunni; that the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من آذاها فقد آذاني ومن أغضبها فقد أغضبني من سرها فقد سرني ومن سائها
-فقد سائني
-  </p>
-</blockquote>
+> من آذاها فقد آذاني ومن أغضبها فقد أغضبني من سرها فقد سرني ومن سائها
+> فقد سائني
 
 *“Whoever harms her has harmed me and whoever angers her has made me
 angry;*
@@ -126,5 +106,4 @@ narratives of the sunni (Ihqaq Al-Haq) vol. 1 pg. 167
 [^4]: 320 “Manaqib Ibn-shahr Ashub”, vol. 3 pg. 320
 
 [^5]: 132 الفضائل الخمسة، ج3، ص“Alfadhael Al-Khamsah” vol. 3 pg. 132
-
 

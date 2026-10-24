@@ -73,4 +73,3 @@ will come to pass ! I have heard it from my father, (who had heard it)
 from his father, and they had heard it from the Messenger of Allah
 (S.A.W.S.) when he was asked, "O Prophet of Allah (S.A)
 
-

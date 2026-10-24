@@ -106,7 +106,6 @@ knowledge of the abrogating and the abrogated, the clear text and that
 which requires interpretation, they will face destruction and lead
 others to their destruction."
 
-
 **Chapter 12 : Chapter on Those who Act without Knowledge H 104, Ch.
 12, h 1**
 
@@ -139,5 +138,4 @@ following.
 
 "Imam abu 'Abdallah (a.s.) has said that the Holy Prophet said, 'Those
 who work without knowledge they destroy more than what they gain.'"
-
 

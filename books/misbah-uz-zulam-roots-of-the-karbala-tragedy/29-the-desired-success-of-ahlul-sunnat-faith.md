@@ -23,4 +23,3 @@ same. In that case Ahlul Sunnat faith would have become extinct. The
 aloofness of Ahlul Sunnat scholars from the Imams of Ahlul Bayt (a.s.)
 was necessary for the popularity of Ahlul Sunnat faith.
 
-

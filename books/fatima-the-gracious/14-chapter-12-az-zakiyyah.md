@@ -38,4 +38,3 @@ As for the fourth verse, you can refer to the study in regard to her
 name "Al-Mubarakah", for here we have explained the purification meant
 in this verse.
 
-

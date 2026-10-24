@@ -85,4 +85,3 @@ Abdullah bin Idris from Mukhtar bin Filfil from Anas. According to him,
 if this tradition were authentic, Umar would not leave the matter of
 caliphate to council and would introduce Uthman as the next caliph.[^60]
 
-

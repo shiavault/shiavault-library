@@ -228,4 +228,3 @@ mark of respect. The effect of this was that the crowd that attended his
 funeral was so multitudinous that it was not seen thus even in the
 funeral of the ruler.
 
-

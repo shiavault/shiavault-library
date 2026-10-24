@@ -6,36 +6,16 @@ about the happening in Saqifah of Bani Sa\`idah,*[^1] *he enquired what
 the Ansar said. People said that they were asking for one chief from
 among them and one from the others, Amir al-mu'minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في معنى الانصار
-  </p>
-</blockquote>
+> في معنى الانصار
 
-<blockquote dir="rtl">
-  <p>
-قالوا: لمّا انتهت إلى أميرالمؤمنين (عليه السلام) أنباء السقيفة بعد
-وفاة رسول الله(صلى الله عليه وآله)،
-  </p>
-</blockquote>
+> قالوا: لمّا انتهت إلى أميرالمؤمنين (عليه السلام) أنباء السقيفة بعد
+> وفاة رسول الله(صلى الله عليه وآله)،
 
-<blockquote dir="rtl">
-  <p>
-قال(عليه السلام): ما قالت الانصار؟
-  </p>
-</blockquote>
+> قال(عليه السلام): ما قالت الانصار؟
 
-<blockquote dir="rtl">
-  <p>
-قالوا: قالت: منا أمير ومنكم أمير، قال عليه السلام: .
-  </p>
-</blockquote>
+> قالوا: قالت: منا أمير ومنكم أمير، قال عليه السلام: .
 
 Why did you not argue against them (*ansar*) that the Prophet had left
 his will that whoever is good among Ansar should be treated well and
@@ -60,44 +40,20 @@ Prophet.
 "They defended themselves with the plea of the tree but neglected the
 fruit."
 
-<blockquote dir="rtl">
-  <p>
-قال (عليه السلام): فَهَلاَّ احْتَجَجْتُمْ عَلَيْهِمْ: بِأَنَّ رَسُولَ
-اللهِ(صلى الله عليه وآله) وَصَّى بِأَنْ يُحْسَنَ إِلَى مُحْسِنِهمْ،
-وَيُتَجَاوَزَ عَنْ مُسِيئِهِمْ؟
-  </p>
-</blockquote>
+> قال (عليه السلام): فَهَلاَّ احْتَجَجْتُمْ عَلَيْهِمْ: بِأَنَّ رَسُولَ
+> اللهِ(صلى الله عليه وآله) وَصَّى بِأَنْ يُحْسَنَ إِلَى مُحْسِنِهمْ،
+> وَيُتَجَاوَزَ عَنْ مُسِيئِهِمْ؟
 
-<blockquote dir="rtl">
-  <p>
-قالوا: وما في هذا من الحجّة عليهم؟
-  </p>
-</blockquote>
+> قالوا: وما في هذا من الحجّة عليهم؟
 
-<blockquote dir="rtl">
-  <p>
-فقال(عليه السلام): لَوْ كَانَتِ الامارة فِيهمْ لَمْ تَكُنِ
-الْوَصِيَّةُ بِهِمْ.
-  </p>
-</blockquote>
+> فقال(عليه السلام): لَوْ كَانَتِ الامارة فِيهمْ لَمْ تَكُنِ
+> الْوَصِيَّةُ بِهِمْ.
 
-<blockquote dir="rtl">
-  <p>
-ثم قال: فَمَاذَا قَالَتْ قُرَيْشٌ؟
-  </p>
-</blockquote>
+> ثم قال: فَمَاذَا قَالَتْ قُرَيْشٌ؟
 
-<blockquote dir="rtl">
-  <p>
-قالوا: احتجت بأَنها شجرة الرسول (صلى الله عليه وآله).
-  </p>
-</blockquote>
+> قالوا: احتجت بأَنها شجرة الرسول (صلى الله عليه وآله).
 
-<blockquote dir="rtl">
-  <p>
-فقال (عليه السلام): احْتَجُّوا بِالشَّجَرَةِ، وَأَضَاعُوا الَّثمَرَةَ.
-  </p>
-</blockquote>
+> فقال (عليه السلام): احْتَجُّوا بِالشَّجَرَةِ، وَأَضَاعُوا الَّثمَرَةَ.
 
 Alternative Sources for Sermon 67
 ---------------------------------
@@ -197,5 +153,4 @@ strange that Abu Bakr who connects with the Prophet in the seventh
 generation above and \`Umar who connects with him in the ninth
 generation above may be held of the tribe and family of the Prophet and
 he who was his first cousin, he is refused the status of a brother.
-
 

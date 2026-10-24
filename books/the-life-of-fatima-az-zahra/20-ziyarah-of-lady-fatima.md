@@ -1683,8 +1683,7 @@ and fixed the Veil of Prophethood.
 
 اَللّهُمّ صَلّ عَلَيْهَا صَلاةً تَزِيدُ فِي مَحَلّهَا عِنْدَكَ،
 
-allāhumma salli \`alayhā salatan tazīdu fy mahallihā <span
-lang="FR">\`indaka,</span>
+allāhumma salli \`alayhā salatan tazīdu fy mahallihā \`indaka,
 
 O Allah: (please do) confer upon her with blessings that raise her
 standing

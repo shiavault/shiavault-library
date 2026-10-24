@@ -122,4 +122,3 @@ from the Deluge.
 Therefore, blessed are those who have passed this Divine test; we hope
 to be among their rank.
 
-

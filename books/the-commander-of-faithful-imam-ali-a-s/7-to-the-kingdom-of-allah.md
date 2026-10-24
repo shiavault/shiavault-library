@@ -125,7 +125,6 @@ martyred on his alter, and the day he shall be raised alive.
 
 Praise be to Allah, Lord of the worlds.
 
-
 **Endnotes**
 
 1. Al-Baladhiri, Ansab Al-Ashraf, vol. 2, p. 177.
@@ -655,5 +654,4 @@ different wordings; al- Nisa'i Khasa'is p. 71.
 172. Nahj al-Balaghah, Sermon No 182.
 
 173. Nahj al-Balaghah, Will No. 47, p. 412.
-
 

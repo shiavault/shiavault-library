@@ -15,4 +15,3 @@ that He does things in vain also, which He does not, for He says:
 
 [^1]: al-Mu’minun, 23:115
 
-

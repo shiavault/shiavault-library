@@ -268,4 +268,3 @@ lay down his life.
 
 [^1]: Ref. Tarikh Khamis
 
-

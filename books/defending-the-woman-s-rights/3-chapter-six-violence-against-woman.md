@@ -302,7 +302,6 @@ alUrwatul Wothqa, 14/64.
 2 Qur'an, 2: 233.
 3 Wasa'il al-Shi'a, 14/137.
 
-
 **Chapter Seven : Differential Psychology**
 
 Woman psychology is very complex and vast, especially with regard to
@@ -403,7 +402,6 @@ characteristics and mental power ... Mental characteristics are
 certainly in relation with physiologic activities ..." 1
 
 Some differences between the genders are briefly mentioned here :
-
 
 **Boy and girl's Growth**
 
@@ -788,5 +786,4 @@ and these differences bring about different social roles for them." 1
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Corrine Hut's 'Are Men Really Better Than Women?' , p.3, translated
 by Dr. Mahmud Behzad, Rudaki Publications, 1361, Tehran.
-
 

@@ -122,10 +122,8 @@ went to another seller but since he too recognized the Imam, he did not
 buy from him until he came to a young man. He bought a shirt for three
 Dirhams, put it on while praying as such to Allah,
 
-<p dir="rtl">
 ألحَمْدُ للهِ الَّذِي رَزَقَنِي مِنَ الرِّيَاشِ مَا أتَجَمَّلُ بِهِ فِي
 النَّاسِ وَأوَارِي بِهِ عَوْرَتِي.
-</p>
 
 “Praise be to Allah who provided me with a good garment to adorn myself
 and to cover my private parts with.”
@@ -167,5 +165,4 @@ right. On the words of Ya\`qubi, the Holy Prophet said, “What you have
 done is better than the red camels.” It was at this time addressing
 \`Ali, Allah’s Messenger said, “May my father and mother be your
 ransom.”[^24]
-
 

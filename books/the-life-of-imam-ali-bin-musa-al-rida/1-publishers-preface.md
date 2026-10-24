@@ -1,8 +1,6 @@
 Publishers Preface
 ==================
 
-  
-
 Some years ago, while I was paying a visitation to the Holy Shrine of
 the eighth Imām, my master, Ali b. Mūsā al-Ridā, peace be on him, I
 asked myself: Is it possible for me to find favor with my Imāms, the
@@ -22,12 +20,6 @@ the *ahl al-Bayt*, peace be on them. We ask Allah, the Great and
 Almighty, to help us enliven more works about the *ahl al-Bayt*, peace
 be on them, and on *Tashayyu;* surely He is powerful over everything.
 
-  
-
-  
-
-  
-
 In the Name of Allah the Merciful, the Compassionate
 
 Surely Allah chose Adam and Noah and the descendants of Abraham and the
@@ -37,6 +29,4 @@ away the uncleanness from you, O people of the House, and to purify you
 thoroughly. Qurān (33: 33)Say: I do not ask of you any reward for it but
 love for my near relatives; and whoever earns good, We give him more of
 good therein; surely Allah is Forgiving, Grateful. Qurān (53:23)
-
-  
 

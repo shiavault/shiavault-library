@@ -159,11 +159,7 @@ chain of narrators from Umar bin Zaid that he said:
 
 I asked His Eminence, Abu Abdillah Sadiq (as) about the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ
 
 ***“And those who join that which Allah has bidden to be joined.”
 (Qur’an, Surah Raad 13:21)***
@@ -180,11 +176,7 @@ O Allah, join us with those who joined to us and take away those who
 kept away from us, after that the same order is effective in the
 relationships of the believers. At that point he recited the verse:
 
-<blockquote dir="rtl">
-  <p>
-يوَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ
-  </p>
-</blockquote>
+> يوَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ
 
 ***“…and be careful of (your duty to) Allah, by Whom you demand one of
 another (your rights), and (to) the ties of relationship…”***
@@ -447,5 +439,4 @@ it is also a form of paying respect and doing a favor.
 [^11]: Tafseer Imam Hasan Askari (as), Pg. 113
 
 [^12]: Biharul Anwar; Vol. 46, Pg. 239
-
 

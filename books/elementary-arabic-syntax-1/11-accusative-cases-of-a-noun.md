@@ -26,4 +26,3 @@ accusative case?
 
 • If it is an inchoative of the preposition *inna*
 
-

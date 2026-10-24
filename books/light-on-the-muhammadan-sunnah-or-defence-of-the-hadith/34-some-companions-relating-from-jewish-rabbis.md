@@ -1,14 +1,11 @@
 Some Companions Relating From Jewish Rabbis:
 ============================================
 
-  
-  
-
 The Companions’ trust in the Ahl al-Kitab’s embrace of Islam and being
 beguiled by them made them (Sahabah) to believe their utterances and
 relate from them their fabricated traditions. Men of hadith state in
-their books that the three ‘Abds, <span id="_anchor_298"></span>298 Abu
-Hurayrah, <span id="_anchor_299"></span>299 Mu’awiyah and Anas beside
+their books that the three ‘Abds, 298 Abu
+Hurayrah, 299 Mu’awiyah and Anas beside
 others, have reported from Ka’b al-Ahbar and his brothers (Jewish
 rabbis). It is known that Abu Hurayrah was much more than all the
 Companions in having trust in and relating from him and following him,
@@ -38,12 +35,12 @@ others, kept on believing and taking from him till his last hour.
 Umar has forbidden Ka’b from relating the hadith, threatening to exile
 him to his homeland in case of continuing this practice, saying to him:
 You should give up narration of hadith or otherwise I shall make you
-join the land of apes. <span id="_anchor_300"></span>300 Ali used to say
+join the land of apes. 300 Ali used to say
 in his regard: He is verily a liar.
 
 Al-Bukhari reported from al-Zuhri that Hamid ibn Abd al-Rahman heard
 Mu’awiyah addressing a group of the Qurayshis, when he referred to Ka’b
-saying: He was the most truthful <span id="_anchor_301"></span>301 of
+saying: He was the most truthful 301 of
 all the narrators from among Ahl al-Kitab though we used to put falsity
 to test through him.
 
@@ -51,13 +48,13 @@ Ibn Abi Khaythamah, through a good sanad (chain of narrators), reported
 from Qatadah as saying: Hudhayfah was informed that Ka’b used to say:
 The sky revolves round a pivot like a handmill. Thereat he said: Ka’b
 told a lie, as Allah says: “Verily God holdeth the heavens and the earth
-lest they come to naught.” <span id="_anchor_302"></span>302 Ibn Abbas
+lest they come to naught.” 302 Ibn Abbas
 said to a man coming from the Sham: Whom did you meet? He replied: I met
 Ka’b. He asked him: What did you hear him saying? He said: I heard him
 say: The heavens revolves round a shoulder of an angel. Ibn Abbas said:
 Ka’b uttered falsehood...hasn’t he abandoned his jewishness yet? Then he
 recited: “Verily God holdeth the heavens and the earth lest they come to
-naught.” <span id="_anchor_303"></span>303
+naught.” 303
 
 There are numerous reports in this regard, but I suffice with the
 examples cited above.
@@ -67,18 +64,17 @@ examples cited above.
 After conquest of Ilya and its land during the reign of Umar in Rabi’
 al-Thani 16 H., and when Umar entered Bayt al-Maqdis, he summoned Ka’b
 al-Ahbar and said to him: Where do you think better to build the oratory
-(musalla)? Ka’b said: Beside the rock!! <span
-id="_anchor_304"></span>304 Umar said: O Ka’b, by God you
+(musalla)? Ka’b said: Beside the rock!! 304 Umar said: O Ka’b, by God you
 
-have resembled the Jewish creed. <span id="_anchor_305"></span>305 In
+have resembled the Jewish creed. 305 In
 another narration: O son of the Jewish woman, the Jewishness is mingled
 with you (with your blood). I shall build it at the forefront of the
 mosque, as to us belong the forefronts of the mosques, and I saw you and
 the way you took off your shoes! He said: I liked to conduct it with my
 foot! When he started to clean Bayt al-Maqdis from the sweeping which
-the Romans buried into it, <span id="_anchor_306"></span>306 he heard
+the Romans buried into it, 306 he heard
 the takbir (God is Greater) from behind him, while he was averse to evil
-of dissimulation <span id="_anchor_307"></span>307 in everything. He
+of dissimulation 307 in everything. He
 said: What is this? They replied: Ka’b said God is Greater and people
 repeated after him. He (Umar) said: Bring him here. Ka’b said: O Amir
 al-Mu’minin, a prophet foretold of what you did today five hundred years
@@ -86,7 +82,7 @@ ago!! He asked: How is that? He replied: The Romans attacked Banu Israel
 and buried it (Bayt al-Maqdis), till you were appointed a ruler, when
 Allah delegated a prophet over the sweepings who said: O Jerusalem, I
 have good tidings for you, al-Faruq has come to cleanse you of that
-which inside you. <span id="_anchor_308"></span>308 In another
+which inside you. 308 In another
 narration: Al-Faruq came to you with obedient soldiers, who will
 retaliate and take vengeance of your people upon the Romans... etc.
 Beside other similar superstitions that were fabricated by this impostor
@@ -97,7 +93,7 @@ ruling over the Sham, and also caliphate of Ali though he didn’t rule
 over it (Sham), continuing till the government of Mu’awiyah, his son and
 the son of his son. When Abd al-Malik ibn Marwan came to power, with
 that known sedition that occurred between him and Ibn al-Zubayr, it was
-him who built the dome over the rock, <span id="_anchor_309"></span>309
+him who built the dome over the rock, 309
 extolling the position of the rock through what he built and the garment
 he covered it in winter and summer. All this was aimed at encouraging
 larger number of people to make pilgrimage to Bayt al-Maqdis (Quds), and
@@ -123,8 +119,7 @@ In his Mir’at al-zaman, al-Sibt ibn al-Jawzi writes: People hesitated in
 regard of the traditions reported by Ka’b al-Ahbar from the Messenger of
 Allah, upon whom be God’s peace and benediction, since he embraced Islam
 under the hands of al-Faruq (Umar), who used to hit him with the pearl
-saying to him: Let us be far from your Jewishness. <span
-id="_anchor_310"></span>310
+saying to him: Let us be far from your Jewishness. 310
 
 ### Jewish Traditions on Excellence of Bayt al-Maqdis:
 
@@ -164,8 +159,7 @@ you, it is only through a wrath on My part against him.
 Ka’b said too: In Bayt al-Maqdis the day is like a thousand days, the
 month is like a thousand months, and the year is like a thousand years.
 Whoever dies in it, it is as if he has died in the heaven, and when
-anyone dies around it, it is as if he has died inside it. <span
-id="_anchor_311"></span>311
+anyone dies around it, it is as if he has died inside it. 311
 
 Wahb ibn Munabbih is reported to have said: People of Bayt al-Maqdis are
 neighbours of Allah, and Allah’s right is not to torment His neighbours.
@@ -273,8 +267,7 @@ the descension of Jesus, about whom they said he would be in his land.
 In the two Sahihs it is reported (that the Prophet said): A group of my
 Ummah is still backing the truth, and never be harmed by those who
 disappointed or opposed them, till God’s decree coming to them on this
-state. In another narration: …. While they be in the Sham. <span
-id="_anchor_312"></span>312
+state. In another narration: …. While they be in the Sham. 312
 
 In Sahih Muslim, Abu Hurayrah reported that the Prophet said: People of
 the west keep on supporting the truth till the Doomsday. Ahmad and
@@ -287,7 +280,7 @@ of their homeland. In al-Mu’jib fi talkhis akhbar al-Maghrib, it is
 reported from Sa’d ibn Abi Waqqas that the Messenger of Allah (S) said:
 People of the Maghrib continue to stand by the truth (haqq), unaffected
 or harmed by whoever disappointed them, till when the (destined) Hour
-comes. <span id="_anchor_313"></span>313
+comes. 313
 
 In Kashf al-khafa’, it is reported that Ka’b al-Ahbar said: People of
 the Sham are one of God’s swords with whom Allah revenges upon the
@@ -306,15 +299,15 @@ from among the host to whom Allah looks twice a day? He said: Who are
 they? He replied: People of Palestine. He said: I am of them! In another
 narration. You might be from the troops whose martyr intercedes for
 seventy persons? He said: Who are they? He replied: People of Hams.
-<span id="_anchor_314"></span>314
+314
 
 Ka'b said: The first wall built on the surface of the earth after the
 inundating flood, was the wall of Harran, then of Damascus, then of
-Babylon. <span id="_anchor_315"></span>315
+Babylon. 315
 
 Nafi reported from Ibn Umar, that Ka'b said: A fire will verily appear
 that takes off people. When you hear news about it you have to go out
-toward the Sham. <span id="_anchor_316"></span>316  It is known that Ibn
+toward the Sham. 316  It is known that Ibn
 Umar was a disciple of Ka'b.
 
 Following are some traditions recorded in al-Jami‘ al-saghir of
@@ -364,9 +357,9 @@ through him. In Sahih al-Bukhari it is reported from the Prophet (upon
 whom be God's peace and benediction) as saying: "When People of
 Scripture relate to you any hadith, you should neither believe or belie
 them. Since they either tell you lies which you may believe, or tell you
-the truth which you may belie. <span id="_anchor_317"></span>317
+the truth which you may belie. 317
 
-It is surprising that this preserved <span id="_anchor_318"></span>318
+It is surprising that this preserved 318
  and guarded Shari'ah, with this protected Ummah that never comes
 together on misguidance — when any hadith be related from the Prophet(s)
 by some of eminent Followers, like \`Ata' ibn Abi Rabah, al-Hasan
@@ -386,15 +379,14 @@ reported by Ka'b al-Ahbar and his likes from the prophets while about a
 thousand years were separating between him and the prophet from whom he
 used to report. Besides, he did not support these traditions with a
 chain of trustworthy men, but his intention was only to convey hadith
-from some books that were compiled by chiefs of the Jews. <span
-id="_anchor_319"></span>319  When Allah informs about their alteration
+from some books that were compiled by chiefs of the Jews. 319  When Allah informs about their alteration
 and perversion, so how would it be permissible for any Muslim to believe
 anything of that through this kind of transmission. Rather he should
 neither believe nor belie it, but only through an evidence proving its
 falsity. Truly in this way we have been ordered by the Prophet (S). Only
 God knows how much falsity against the prophets and what is rejected in
 our Shari'ah, contained in these Israeliyyat (Jewish falsified
-traditions). <span id="_anchor_320"></span>320
+traditions). 320
 
 Ibn Kathir, in his interpretation of Surat al-Naml, after stating the
 Israeliyyat that went on in the episode of the Queen of Saba’ with
@@ -420,8 +412,7 @@ portion of what he said in regard of Ka'b in particular, and about him
 and his friend Wahb in general.
 
 In regard of Ka'b in refuting those who described him as being a
-receptacle of knowledge, he said the following: <span
-id="_anchor_321"></span>321
+receptacle of knowledge, he said the following: 321
 
 “Establishment of abundant knowledge does not necessitate denial of
 falsity. Most of his (Ka'bs) knowledge in their view was confined in
@@ -442,15 +433,12 @@ they heard from the
 
 Prophet, with some authors counting them among the mawqufat that having
 the degree of marfu' traditions (whose sanad goes back to the Prophet),
-as stated by Ibn Kathir in several places of his Tafsir. <span
-id="_anchor_322"></span>322
+as stated by Ibn Kathir in several places of his Tafsir. 322
 
 About him he also said: He was a volcano of superstitions, I decisively
-determine his being a liar, and rather I never trust his faith. <span
-id="_anchor_323"></span>323
+determine his being a liar, and rather I never trust his faith. 323
 
-In regard of both Ka'b and Wahb, he said: <span
-id="_anchor_324"></span>324  “The worst of the narrators of these
+In regard of both Ka'b and Wahb, he said: 324  “The worst of the narrators of these
 Israeliyyat or the most of them in deceiving and cheating the Muslims
 were these two men. They were the source of every superstition foisted
 into books of exegesis and Islamic history, concerning the issues of
@@ -517,7 +505,7 @@ validity.
 This probability is more proper than that one, in preventing from
 considering the mawquf as marfu’, and taking it as a legal evidence.
 
-He further said: <span id="_anchor_325"></span>325  We, after
+He further said: 325  We, after
 experiencing a third of a century in tackling and solving the
 ambiguities and debating the atheists and their likes from among the
 opponents of Islam, and refuting them orally and in writing, it was
@@ -529,7 +517,7 @@ reliable by men of sarcasm and modification (jarh wa ta’dil) is verily
 reliable, though known for their successors to be having means of
 sarcasm that were unknown for them.
 
-He also said: Through their <span id="_anchor_326"></span>326  narration
+He also said: Through their 326  narration
 I found a lot whose falsity is definitely certain for us, due to its
 contradiction to what they used to ascribe to the Torah and other
 scriptures of the prophets. So we were sure of their being liars, the
@@ -545,16 +533,12 @@ charging Islam to be
 
 a religion of superstitions and fancies. While suspicion in any other
 religion might be bigger than this, like what Ka'b stated about
-attribute of the Prophet in the Torah. <span id="_anchor_327"></span>327
+attribute of the Prophet in the Torah. 327
 
 But though the investigating imams have confuted the narration of these
 two priests, still there are — regrettably — some who trust them and
 believe in their narrations as a whole, refusing any criticism against
 them.
-
-  
-  
-  
 
 298. The three Abds are: Abd Allah ibn Abbas, Abd Allah ibn Umar, and
 Abd Allah ibn 'Amr.

@@ -141,4 +141,3 @@ al-Da’i: 119
 
 [^24]: Bihar al-Anwar 76:118, al-Khisal: 520
 
-

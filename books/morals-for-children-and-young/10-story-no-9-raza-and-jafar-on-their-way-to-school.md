@@ -15,4 +15,3 @@ would be faithful on his promises from now on.
 Yes, one of the signs of the Muslims of the right path is to be faithful
 on promises.
 
-

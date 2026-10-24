@@ -1389,32 +1389,31 @@ These are some aspects of the characteristics of balance in the Islamic
 concept. Following these examples the reader can pursue the subject
 further on his own.[^14]
 
-[^1] Al-Shura 42:11
+[^1]: Al-Shura 42:11
 
-[^2] Al-Hadid 57:3
+[^2]: Al-Hadid 57:3
 
-[^3] Al-Rahman 55:26-27
+[^3]: Al-Rahman 55:26-27
 
-[^4] Al-Anbiya 21: 23
+[^4]: Al-Anbiya 21: 23
 
-[^5] Al-R'ad 13: 18
+[^5]: Al-R'ad 13: 18
 
-[^6] Al-Zumar 39:52
+[^6]: Al-Zumar 39:52
 
-[^7] Al-Nur 24:19
+[^7]: Al-Nur 24:19
 
-[^8] Al-Ikhtas 112:4
+[^8]: Al-Ikhtas 112:4
 
-[^9] Al-Shura 42:21
+[^9]: Al-Shura 42:21
 
-[^10] See the author.s book: Mashahid Al-Qiyamah
+[^10]: See the author.s book: Mashahid Al-Qiyamah
 
-[^11] See the author's book Mashahid Al-Qiyamah
+[^11]: See the author's book Mashahid Al-Qiyamah
 
-[^12] Al-Akkad. Allah. p. 137.
+[^12]: Al-Akkad. Allah. p. 137.
 
-[^13] Ibid, p. 188
+[^13]: Ibid, p. 188
 
-[^14] See Muhammad Qutb's Manhaj Al-Tarbiyat A l-Islamiyah.
-
+[^14]: See Muhammad Qutb's Manhaj Al-Tarbiyat A l-Islamiyah.
 

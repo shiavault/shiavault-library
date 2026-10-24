@@ -13,4 +13,3 @@ the Medina and stayed in it for three days, Burdua Al-Himar who is
 friend of Yazeed, sent after Ali Bin Al-Hussain in order to kill or
 poison him.
 
-

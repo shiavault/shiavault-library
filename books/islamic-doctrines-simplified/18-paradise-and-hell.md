@@ -19,4 +19,3 @@ Man's existence in the Hereafter will be similar to his life in the
 present world. He will eat, drink, be happy or sad, think of and
 remember things which he did in his previous life.
 
-

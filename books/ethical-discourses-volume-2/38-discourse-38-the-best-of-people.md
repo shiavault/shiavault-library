@@ -1,15 +1,11 @@
 Discourse 38: The Best Of People
 ================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، ثَلاَثٌ مَنْ لَقِيَ اللٌّهُ
-بِهِنَّ فَهُوَ مِنْ أَفْضَلِ النٌّاسِ: مَنْ أَتَى اللٌّهَ بِمَا
-افْتَرَضَ اللٌّهُ عَلَيْهِ فَهُوَ مِنْ أَعْـبَدِ النَّاسِ، وَمَنْ
-وَرَعَ عَنْ مَحَارَمِ اللٌّهِ فَهُوَ مِنْ أَوْرَعِ النَّاسِ وَ مَنْ
-قَنَعَ بِمَا رَزَقَهُ اللٌّهُ فَهُوَ مِنْ أَغْـنَى النَّاسِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، ثَلاَثٌ مَنْ لَقِيَ اللٌّهُ
+> بِهِنَّ فَهُوَ مِنْ أَفْضَلِ النٌّاسِ: مَنْ أَتَى اللٌّهَ بِمَا
+> افْتَرَضَ اللٌّهُ عَلَيْهِ فَهُوَ مِنْ أَعْـبَدِ النَّاسِ، وَمَنْ
+> وَرَعَ عَنْ مَحَارَمِ اللٌّهِ فَهُوَ مِنْ أَوْرَعِ النَّاسِ وَ مَنْ
+> قَنَعَ بِمَا رَزَقَهُ اللٌّهُ فَهُوَ مِنْ أَغْـنَى النَّاسِ.
 
 The Prophet Muhammad (S) said, “O' ‘Ali! If a person meets Allah with
 three traits, he will be considered as being from the greatest of
@@ -25,12 +21,8 @@ the Resurrection. On that Day, the effects of the actions of Allah (SwT)
 will be shown to everyone to such an extent that not a single person
 shall have any doubts in regards to Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُدْرِكُهُ الْعُيُونَ فِي مُشَاهِدَةِ الأََبْصَارِ وَ لٌكِنْ
-رَأَتْهُ الْقُلُوبَ بِحَقائِقِ الإِِيْمَانِ.
-  </p>
-</blockquote>
+> لاَ تُدْرِكُهُ الْعُيُونَ فِي مُشَاهِدَةِ الأََبْصَارِ وَ لٌكِنْ
+> رَأَتْهُ الْقُلُوبَ بِحَقائِقِ الإِِيْمَانِ.
 
 “The physical eyes do not see Allah, rather the heart sees Him through
 the true faith (which it possesses).”[^2]
@@ -51,11 +43,7 @@ was blessed by the many graces of Allah (SwT), at this point when his
 brothers saw what their actions had produced, they all spoke out and
 said:
 
-<blockquote dir="rtl">
-  <p>
-فَاللٌّهُ لَقَدْ آثَرَكَ اللٌّهُ عَلَيْنَا
-  </p>
-</blockquote>
+> فَاللٌّهُ لَقَدْ آثَرَكَ اللٌّهُ عَلَيْنَا
 
 “I swear by Allah! Allah has made him superior over all of us!”
 
@@ -124,26 +112,18 @@ fortunate people.
 
 How beautifully the poet has stated it when he said:
 
-<blockquote dir="rtl">
-  <p>
-چشم صاحب دولتان هوشيار باشد صبحدم              عاشقان را ناله هاى زار
-باشد صبحدم
-  </p>
-</blockquote>
+> چشم صاحب دولتان هوشيار باشد صبحدم              عاشقان را ناله هاى زار
+> باشد صبحدم
 
 The chief of the narrators of traditions, Abu Ja’far Muhammad b. ‘Ali b.
 Babawayiah (Shaykh Saduq), in his work, Man La Yahdhurul Faqih, has
 related from the inner and outer Imam, Muhammad b. ‘Ali al-Baqir (as) a
 tradition in which the Imam has offered the following lofty words:
 
-<blockquote dir="rtl">
-  <p>
-نُومُ الْغَدَاةِ يَمْنَعُ الرِّزْقَ، وَيَصْفَرَ اللَّوْنَ وتُغَيِّرُهُ
-وتُقَبِّحُهُ وَهُوَ نَومُ كُلِّ مَشَؤُومٍ، إِنَّ اللٌّهَ تَبَارَكَ
-وَتَعَالـى يُقَسِّمُ الأَرْزَاقَ مَا بَيْنَ طُلُوعِ الْفَجِرِ إِلـى
-طُلُوعِ الشَّمْسِ، فَإِيَّاكُمْ وَتِلْكَ النَّوْمَةِ.
-  </p>
-</blockquote>
+> نُومُ الْغَدَاةِ يَمْنَعُ الرِّزْقَ، وَيَصْفَرَ اللَّوْنَ وتُغَيِّرُهُ
+> وتُقَبِّحُهُ وَهُوَ نَومُ كُلِّ مَشَؤُومٍ، إِنَّ اللٌّهَ تَبَارَكَ
+> وَتَعَالـى يُقَسِّمُ الأَرْزَاقَ مَا بَيْنَ طُلُوعِ الْفَجِرِ إِلـى
+> طُلُوعِ الشَّمْسِ، فَإِيَّاكُمْ وَتِلْكَ النَّوْمَةِ.
 
 “Sleeping at the time of Fajr prevents the sustenance (from reaching the
 person); makes the color of the face, yellow; changes the appearance of
@@ -157,23 +137,15 @@ In addition, Shaykh Saduq has also narrated from the 8th Imam Abul Hasan
 ‘Ali b. Musa al-Riza (as) in regards to the commentary of the verse
 which reads:
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُقَسِّمَاتِ أَمْراً
-  </p>
-</blockquote>
+> فَالْمُقَسِّمَاتِ أَمْراً
 
 “I swear by those (Angels who) distribute blessings by Our command”[^4]
 
 that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمَلاَئِكَةَ تُقَسِّمُ أَرْزَاقَ بَنِي آدَمَ مَا بَيْنَ
-طُلُوعِ الْفَجِرِ إِلـى طُلُوعِ الشَّمْسِ فَمَنْ نَامَ مـَا
-بَيْـنَهُمَا نَامَ عَنْ رِزْقِهِ.
-  </p>
-</blockquote>
+> إِنَّ الْمَلاَئِكَةَ تُقَسِّمُ أَرْزَاقَ بَنِي آدَمَ مَا بَيْنَ
+> طُلُوعِ الْفَجِرِ إِلـى طُلُوعِ الشَّمْسِ فَمَنْ نَامَ مـَا
+> بَيْـنَهُمَا نَامَ عَنْ رِزْقِهِ.
 
 “Surely the Angels distribute the sustenance of the progeny of Adam
 between the time of the Fajr and the sunrise. Thus, the person who is
@@ -380,12 +352,8 @@ Muhammad as-Sadiq (as) that when the Imam 'apparently' sent his curse
 upon gold and silver, one of his companions became surprised and in
 reply to this companion, the Imam (as) said:
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ حَيْثُ تَذْهَبُ إِلَيْه إِنَّما الذَّهْبَ الَّتِي ذَهْبَ
-بِالدِّينِ وَالْفِضَّةُ الَّتِـي أَفَاضَتْ الكُفْرَ…
-  </p>
-</blockquote>
+> لَيْسَ حَيْثُ تَذْهَبُ إِلَيْه إِنَّما الذَّهْبَ الَّتِي ذَهْبَ
+> بِالدِّينِ وَالْفِضَّةُ الَّتِـي أَفَاضَتْ الكُفْرَ…
 
 “The meaning of gold is that thing which removes the religion (which a
 person has) while the meaning of silver is that thing which is source of
@@ -394,12 +362,8 @@ disbelief and lack of faith.”[^7]
 In addition, in a tradition narrated in Bihar al-Anwar from the
 Commmander of the Faithful, ‘Ali b. Abi Talib (as) we read that:
 
-<blockquote dir="rtl">
-  <p>
-أَلسُّكْرُ أَرْبَعُ سَكَرَاتٍ: سُكْرُ الشَّرَابِ، وَسُكْرُ الْمَالِ،
-وَسُكْرُ النَّوْمِ، وَسُكْرُ الْمُلْكِ.
-  </p>
-</blockquote>
+> أَلسُّكْرُ أَرْبَعُ سَكَرَاتٍ: سُكْرُ الشَّرَابِ، وَسُكْرُ الْمَالِ،
+> وَسُكْرُ النَّوْمِ، وَسُكْرُ الْمُلْكِ.
 
 “Intoxication is of four types: intoxication of alcohol, intoxication of
 wealth, intoxication of sleep and intoxication of power.”[^8]
@@ -413,21 +377,13 @@ inherit it are the ones who will make use of it!
 It is for this reason that we read in the traditions that the Commander
 of the Faithful, ‘Ali b. Abi Talib (as) was once asked:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَعْظَمَ النَّاسِ حَسْرَةً؟
-  </p>
-</blockquote>
+> مَنْ أَعْظَمَ النَّاسِ حَسْرَةً؟
 
 “Who will show the greatest remorse?”  
  He then answered his own question and stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ رَأْى مَالَهُ فِي مِيْزَانِ غَيْرِهِ، وَأَدْخَلَهُ اللٌّهُ بِهِ
-النَّارُ، وَأَدْخَلَ وَارِثَهُ بِهِ الْجَنَّةَ.
-  </p>
-</blockquote>
+> مَنْ رَأْى مَالَهُ فِي مِيْزَانِ غَيْرِهِ، وَأَدْخَلَهُ اللٌّهُ بِهِ
+> النَّارُ، وَأَدْخَلَ وَارِثَهُ بِهِ الْجَنَّةَ.
 
 “The person (who shall show the greatest remorse) is the one who will
 see his wealth (and the good which it brought) in the scales of someone
@@ -437,23 +393,15 @@ and will cause his inheritors to enter into Paradise!”[^9]
 In a tradition from Imam Ja’far b. Muhammad as-Sadiq (as) in regards to
 the commentary of the verse which reads:
 
-<blockquote dir="rtl">
-  <p>
-كَذٌلِكَ يُرِيهُمُ اللٌّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِم …
-  </p>
-</blockquote>
+> كَذٌلِكَ يُرِيهُمُ اللٌّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِم …
 
 “Thus will Allah show them their deeds to be intense regret to
 them…”[^10]  
  he stated:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الرَّجُلُ يَدْعُ الْمَالَ لاَ يَنْفَقَهُ فِي طَاعَةِ اللٌّهِ
-بُخْلاً، ثُمَّ يَمُوتُ فَيَدَعُهُ لِمَنْ يَعْمَلُ بِـهِ فِي طَاعَةِ
-اللٌّهِ أَوْ فِــي مَعْصِيَتِهِ.
-  </p>
-</blockquote>
+> هُوَ الرَّجُلُ يَدْعُ الْمَالَ لاَ يَنْفَقَهُ فِي طَاعَةِ اللٌّهِ
+> بُخْلاً، ثُمَّ يَمُوتُ فَيَدَعُهُ لِمَنْ يَعْمَلُ بِـهِ فِي طَاعَةِ
+> اللٌّهِ أَوْ فِــي مَعْصِيَتِهِ.
 
 “This is in regards to the person who saved his wealth and due to his
 stinginess, did not spend it in the obedience of Allah and then dies and
@@ -462,15 +410,11 @@ obedience of Allah or in His disobedience and transgression.”[^11]
 
 The Imam continued and said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا صَرَفَهُ فِي طِرِيقِ إِطَاعَةِ اللٌّهِ سُبْحَانَهُ وَتَعَالـى
-فَسَيَرَاهُ صَاحِبُهُ فِي مِيْزَانِ أَعْمَالِ غَيْرِهِ ويَتَحَسَّرُ
-عَلَيْهِ لأَنَّ الْمَالَ كَانَ مَالُهُ، وَإِذَا صَرَفَهُ فِي
-مَعْصِيَةِ اللٌّهِ فَسَيَكُونُ سَبَباً لِتَقْوِيَتِهِ عَلى الذَّنْبِ
-وَتَكُونُ الْعُقُوبَةَ وَالْحَسْرَةَ نَصِيبُهُ أَيْضاً.
-  </p>
-</blockquote>
+> فَإِذَا صَرَفَهُ فِي طِرِيقِ إِطَاعَةِ اللٌّهِ سُبْحَانَهُ وَتَعَالـى
+> فَسَيَرَاهُ صَاحِبُهُ فِي مِيْزَانِ أَعْمَالِ غَيْرِهِ ويَتَحَسَّرُ
+> عَلَيْهِ لأَنَّ الْمَالَ كَانَ مَالُهُ، وَإِذَا صَرَفَهُ فِي
+> مَعْصِيَةِ اللٌّهِ فَسَيَكُونُ سَبَباً لِتَقْوِيَتِهِ عَلى الذَّنْبِ
+> وَتَكُونُ الْعُقُوبَةَ وَالْحَسْرَةَ نَصِيبُهُ أَيْضاً.
 
 “If the person (who inherits the wealth) spends it in the way of
 obedience of Allah, Glory and Greatness be to Him, then the person whose
@@ -493,21 +437,13 @@ Contentment in the Islamic Narrations
 
 1. It has been narrated that Imam ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْقَنَاعَةُ مَالٌ لاَ يَنْفَذُ.
-  </p>
-</blockquote>
+> أَلْقَنَاعَةُ مَالٌ لاَ يَنْفَذُ.
 
 “Contentment is a wealth which shall not diminish”[^13]
 
 2. It has been narrated that Imam ‘Ali b. Husayn al-Sajjad (as) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَـنَعَ شَبَعَ وَ مَنْ لَمْ يَقْنَعْ لاَ يَشْــبَعْ.
-  </p>
-</blockquote>
+> مَنْ قَـنَعَ شَبَعَ وَ مَنْ لَمْ يَقْنَعْ لاَ يَشْــبَعْ.
 
 “Whoever shows contentment will be satiated and whoever does not show
 contentment (with what he has) will never become satiated (no matter how
@@ -516,22 +452,14 @@ much he gets).”[^14]
 3. Imam Ja’far b. Muhammad as-Sadiq (as) has stated the Messenger of
 Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبـى لِمَنْ أَسْلَمَ وَكانَ عَيْشَهُ كَفَافاً.
-  </p>
-</blockquote>
+> طُوبـى لِمَنْ أَسْلَمَ وَكانَ عَيْشَهُ كَفَافاً.
 
 “Congratulations be upon the person who submits himself and who leads
 his life according to his needs (and is not extravagant).”[^15]
 
 4. The final Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَقِيرٌ كُلِّ وَمَنْ يَطْمَعْ، غَنِيٌّ كُلِّ وَمَنْ يَقْـنَعْ.
-  </p>
-</blockquote>
+> فَقِيرٌ كُلِّ وَمَنْ يَطْمَعْ، غَنِيٌّ كُلِّ وَمَنْ يَقْـنَعْ.
 
 “The person who always desires more is (truly) the neediest of people
 while the person who is content (with what he has) is (truly) the
@@ -602,5 +530,4 @@ yet truthful manner. - Tr.]
 [^15]: al-Kafi, vol. 2, pg. 140
 
 [^16]: Jami al-Akhbar, pg. 126
-
 

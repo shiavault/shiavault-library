@@ -21,4 +21,3 @@ he remained until Ma'mun's death. When Mu'tasim became caliph he called
 the Imam back to Baghdad and, as we have seen, through the Imam's wife
 had him poisoned and killed.
 
-

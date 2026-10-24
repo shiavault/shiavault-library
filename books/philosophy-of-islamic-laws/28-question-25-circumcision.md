@@ -17,4 +17,3 @@ very narrow. So care should be taken that these children along with
 getting the benefit of this religious ritual, should not be subjected to
 agony and suffering which is possible due to negligence.
 
-

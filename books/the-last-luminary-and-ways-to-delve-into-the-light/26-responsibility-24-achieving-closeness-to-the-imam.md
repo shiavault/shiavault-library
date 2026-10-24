@@ -40,13 +40,9 @@ the occultation is a recommended act.
 
 The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-رِبَاطُ الْخَيْلِ لَيْلَةً فِي سَبِيلِ اللٌّهِ خَيْرٌ مِنْ صِيَامِ
-شَهْرٍ وَ قِيَامِهِ فَإِنْ مَاتَ جَرى عَلَيْهِ عَمَلُهُ الَّذِي كَانَ
-يَعْمَلُ وَ أُجْرِيَ عَلَيْهِ رِزْقُهُ وَ أَمِنَ الْفَتَّانَ
-  </p>
-</blockquote>
+> رِبَاطُ الْخَيْلِ لَيْلَةً فِي سَبِيلِ اللٌّهِ خَيْرٌ مِنْ صِيَامِ
+> شَهْرٍ وَ قِيَامِهِ فَإِنْ مَاتَ جَرى عَلَيْهِ عَمَلُهُ الَّذِي كَانَ
+> يَعْمَلُ وَ أُجْرِيَ عَلَيْهِ رِزْقُهُ وَ أَمِنَ الْفَتَّانَ
 
 “To be prepared (for war) one night in the way of Allah is better than
 fasting an entire month and spending all its night in worship. If a
@@ -56,13 +52,9 @@ and he will be saved from the Angel of Examination (in the grave).”[^1]
 
 The Messenger of Allah (S) also said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَيِّتٍ نَخْتِمُ عَلـى عَمَلِهِ إِلاَّ الْمُرَابِطَ فِي سَبِيلِ
-اللٌّهِ فَإِنَّهُ يَنْمُو لَهُ عَمَلُهُ إِلـى يَوْمِ الْقِيَامَةِ وَ
-يُؤْمِنُ مِنْ فَتَّانِ الْقَبْرِ
-  </p>
-</blockquote>
+> كُلُّ مَيِّتٍ نَخْتِمُ عَلـى عَمَلِهِ إِلاَّ الْمُرَابِطَ فِي سَبِيلِ
+> اللٌّهِ فَإِنَّهُ يَنْمُو لَهُ عَمَلُهُ إِلـى يَوْمِ الْقِيَامَةِ وَ
+> يُؤْمِنُ مِنْ فَتَّانِ الْقَبْرِ
 
 “The actions of every deceased person are sealed except one who is
 garrisoned in the way of Allah - this person’s good deeds will continue
@@ -88,12 +80,8 @@ shall not accept the actions of any person.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِصْبِرُوا عَلـى الْمَصَائِبِ وَ صَابِرُوا عَلـى الْفَرَائِضِ وَ
-رَابِطُوا عَلـى الأَئِمَّةِ
-  </p>
-</blockquote>
+> إِصْبِرُوا عَلـى الْمَصَائِبِ وَ صَابِرُوا عَلـى الْفَرَائِضِ وَ
+> رَابِطُوا عَلـى الأَئِمَّةِ
 
 “Have patience in the face of difficulties, observe patience in relation
 to the performance of obligatory acts, and establish an affinity with
@@ -106,12 +94,8 @@ establish a relation***[^4]***,***
 
 Imam Muhammad b. ‘Ali al-Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِصْـبِرُوا عَلـى أَدَآءِ الْفَرَائِضِ وَ صَابِرُوا عَدُوَّكُمْ وَ
-رَابِطُوا إِمَامَكُمْ الْمُنْـتَظَرْ
-  </p>
-</blockquote>
+> إِصْـبِرُوا عَلـى أَدَآءِ الْفَرَائِضِ وَ صَابِرُوا عَدُوَّكُمْ وَ
+> رَابِطُوا إِمَامَكُمْ الْمُنْـتَظَرْ
 
 “Observe patience in relation to performing the obligatory acts, have
 endurance in facing your enemies and establish closeness with your Imam,
@@ -119,11 +103,7 @@ al-Muntadhar (the Awaited One).”[^5]
 
 In relation to the verse that states:
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا 
-  </p>
-</blockquote>
+>  يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا 
 
 “O’ you that have faith! Observe patience, stand firm and close [your]
 ranks.
@@ -131,11 +111,7 @@ ranks.
 Imam Ja’far. Muhammad as-Sadiq (as) said that ‘establish a relation’
 means:
 
-<blockquote dir="rtl">
-  <p>
-أَلْمُقَامُ مَعَ إِمَامِكُمْ
-  </p>
-</blockquote>
+> أَلْمُقَامُ مَعَ إِمَامِكُمْ
 
 “Standing firm (and resolved) with your Imam.”[^6]
 
@@ -152,5 +128,4 @@ vol. 8, pg. 449
 [^5]: al-Ghaybah of Nu’mani, pg. 199, no. 13
 
 [^6]: Biharul Anwar, vol. 24, pg. 217, sec. 57, no. 11
-
 

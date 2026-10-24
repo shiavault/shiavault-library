@@ -355,4 +355,3 @@ The many other traditions refute this seeing as being knowledge by
 reality let alone it being a sight and an intuitive witnessing. As a
 result, what has been sought for is affirmed, and praise is to Allah.
 
-

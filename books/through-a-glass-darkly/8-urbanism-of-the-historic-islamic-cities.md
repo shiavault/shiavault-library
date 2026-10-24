@@ -217,4 +217,3 @@ elements and tools required for a successful urban practice that
 considers the basic principles of Islam rather than architectural
 symbols of a specific time.
 
-

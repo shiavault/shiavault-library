@@ -80,12 +80,8 @@ he was brought back. Finally he was forgiven and the Holy Prophet (S)
 sought divine forgiveness on his behalf, saying: “Never repeat it.” The
 Almighty Allah revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
-أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ
+> أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ
 
 ***“O you who believe! do not take My enemy and your enemy for friends:
 would you offer them love…”***[^1]  
@@ -318,11 +314,7 @@ Kulaini has narrated through correct chains from Imam Ja’far Sadiq
 idols in the chamber of Prophet Ismail. Each idol the Prophet hit with
 his staff saying:
 
-<blockquote dir="rtl">
-  <p>
-جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
-  </p>
-</blockquote>
+> جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
 
 ***“The truth has come and the falsehood has vanished; surely falsehood
 is a vanishing*** ***(thing).”***[^2]
@@ -349,16 +341,12 @@ the Prophet sat in the Masjid and received the fealty of the men of the
 city, by the form of shaking hands till the time of Noon prayer, and the
 allegiance of the women. The Almighty Allah then revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ
-عَلَىٰ أَنْ لَا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا
-يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ
-يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ
-فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ
-اللَّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ
+> عَلَىٰ أَنْ لَا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا
+> يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ
+> يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ
+> فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ
+> اللَّهَ غَفُورٌ رَحِيمٌ
 
 ***“O Prophet! when believing women come to you giving you a pledge that
 they will not associate aught with Allah, and will not steal, and will
@@ -420,12 +408,8 @@ Prophet, who opened the door and entered the Kaaba, prayed two rakats
 prayer. When he came out, Abbas said: “Return the keys to him.” At that
 juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ
-أَهْلِهَا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ
+> أَهْلِهَا
 
 ***“Surely Allah commands you to make over trusts to their
 owners…”***[^4]
@@ -440,12 +424,8 @@ Quraish was placed on Mount Marwah. They prayed to the Prophet to spare
 it. The Holy Prophet (S) waited for a moment, then ordered them to
 demolish that also. At that juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
-قَلِيلًا
-  </p>
-</blockquote>
+> وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا
+> قَلِيلًا
 
 ***“And had it not been that We had already established you, you would
 certainly have been near to incline to them a little…”***[^5]
@@ -466,11 +446,7 @@ priority to any other city. Jibraeel came with divine greetings and glad
 tidings that soon the Almighty Allah will bring him back victorious as
 mentioned in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ 
-  </p>
-</blockquote>
+> إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ
 
 ***“Most surely He Who has made the Qur’an binding on you will bring you
 back to the destination…”***[^6]
@@ -555,5 +531,4 @@ hypocrites.
 [^5]: Surah Isra 17:74
 
 [^6]: Surah Qasas 28:85
-
 

@@ -157,10 +157,8 @@ one thousand years. And on the day of Qayamat when he will arise from
 his grave, his face will be shining like a full moon, and his name will
 be written among the truthful ones (Siddiqeen):
 
-<p dir="rtl">
 لا إله إلاّ الله وَلا نَعْبُدُ إلاّ إيّاهُ مُخْلِصينَ لَهُ الدّينَ
 وَلَوْ كَرِهُ المُشْرِكون
-</p>
 
 َ (6) To recite Dua'e Jawshane Kabeer in the first part of the month of
 Ramazan is also beneficial.

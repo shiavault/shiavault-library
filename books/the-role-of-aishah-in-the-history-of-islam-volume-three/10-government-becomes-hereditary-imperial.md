@@ -148,7 +148,6 @@ what Mu'awiyah wants! If I were to show allegiance in return for this
 money, it would be clear that I consider my religion as trifling and
 worthless." (224)(225)
 
-
 **Allegiance to Yazid in ash-Sham**
 
 Mu'awiyah ordered his Jewish physician to poison and kill 'Abd
@@ -427,5 +426,4 @@ re-discover his complex personality in order to find out the nature of
 his connection with and interest in Umm al-Mu'minin 'A'ishah in this
 particular field. This is a subject, which will be dealt with in the
 forthcoming pages.
-
 

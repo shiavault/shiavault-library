@@ -1,21 +1,13 @@
 Right n. 34: The Right of the Partner
 =====================================
 
-<blockquote dir="rtl">
-  <p>
-حق الشريك
-  </p>
-</blockquote>
+> حق الشريك
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الشَّرِيكِ، فَإنْ غَابَ كَفَيْتَهُ، وَإنْ حَضَرَ
-سَاويْتَهُ، ولا تَعْزِمْ عَلَى حُكْمِكَ دُونَ حُكْمِهِ، وَلا تَعمَلْ
-برَأْيكَ دُونَ مُناظَرَتهِ، وتَحْفَظُ عَلَيْهِ مَالَهُ وَتنْفِي عَنْهُ
-خِيَانتَهُ فِيمَا عَزَّ أَو هَانَ فَإنَّهُ بَلَغَنَا أَنَّ «يَدَ اللهِ
-عَلَى الشَّرِيكَيْنِ مَا لَمْ يَتَخاوَنا». ولا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الشَّرِيكِ، فَإنْ غَابَ كَفَيْتَهُ، وَإنْ حَضَرَ
+> سَاويْتَهُ، ولا تَعْزِمْ عَلَى حُكْمِكَ دُونَ حُكْمِهِ، وَلا تَعمَلْ
+> برَأْيكَ دُونَ مُناظَرَتهِ، وتَحْفَظُ عَلَيْهِ مَالَهُ وَتنْفِي عَنْهُ
+> خِيَانتَهُ فِيمَا عَزَّ أَو هَانَ فَإنَّهُ بَلَغَنَا أَنَّ «يَدَ اللهِ
+> عَلَى الشَّرِيكَيْنِ مَا لَمْ يَتَخاوَنا». ولا قُوَّةَ إلا باللهِ.
 
 **And the right of the partner is that you should take care of his
 affairs in his absence. And you should treat him equally when he is
@@ -31,17 +23,9 @@ The concept of partnership has been mentioned in the Holy Qur’an when
 referring to Moses and his brother Aaron. Here Aaron is to become a
 partner with Moses to help him invite Pharaoh to obey God.
 
-<blockquote dir="rtl">
-  <p>
-اشْدُدْ بِهِ أَزْرِي
-  </p>
-</blockquote>
+> اشْدُدْ بِهِ أَزْرِي
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْرِكْهُ فِي أَمْرِي
-  </p>
-</blockquote>
+> وَأَشْرِكْهُ فِي أَمْرِي
 
 ***“Add to my strength through him. And make him share my task.”***
 ***[The Holy Qur’an, Ta-Ha 20:31-32]***
@@ -49,11 +33,7 @@ partner with Moses to help him invite Pharaoh to obey God.
 A partner is one who has a share in something or some work. We read in
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ
 
 ***“…Nor has He a partner in His dominion...” [The Holy Qur’an,
 al-Furqan 25:2]***
@@ -62,11 +42,7 @@ This refers to God having no partners. Of course, God has created many
 angels and forces to act as intermediate means to run the affairs of the
 universe. This also refers to ascribing partners to God.
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ
-  </p>
-</blockquote>
+> أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ
 
 ***“…Or have they a share in the heavens?” [The Holy Qur’an, al-Fatir
 35:40]***
@@ -103,13 +79,9 @@ there is certain trade etiquette in Islam. There is a whole chapter on
 trade, it is subject to that etiquette. Imam Sadiq quoted on the
 authority of the Noble Prophet :
 
-<blockquote dir="rtl">
-  <p>
-مَن باعَ وَاشْتَرى فَليَحْفَظْ خَمْسَ خِصالٍ وإلاّ فلا يَشْتَرِيَنَّ
-وَلا يَبِيعَنَّ: الرّبا وَالحَلْفَ وَكِتْمانَ العَيبِ وَالحَمْدَ إذا
-باعَ والذَّمَّ إذا اشْتَرى.
-  </p>
-</blockquote>
+> مَن باعَ وَاشْتَرى فَليَحْفَظْ خَمْسَ خِصالٍ وإلاّ فلا يَشْتَرِيَنَّ
+> وَلا يَبِيعَنَّ: الرّبا وَالحَلْفَ وَكِتْمانَ العَيبِ وَالحَمْدَ إذا
+> باعَ والذَّمَّ إذا اشْتَرى.
 
 *“Whoever buys or sells should adhere to the following or not engage in
 trade:*
@@ -141,12 +113,8 @@ Partnership as Viewed in Traditions
 
 The Noble Prophet said that God the Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-أنَا ثالِثُ الشَّريكَينِ ما لَمْ يَخُنْ أحَدُهُما صَاحِبَهُ، فإذا
-خَانَهُ خَرَجْتُ مِن بَينِهِما.
-  </p>
-</blockquote>
+> أنَا ثالِثُ الشَّريكَينِ ما لَمْ يَخُنْ أحَدُهُما صَاحِبَهُ، فإذا
+> خَانَهُ خَرَجْتُ مِن بَينِهِما.
 
 *“I am the third party in any partnership as long as one of the partners
 does not cheat the other. If he cheats him, I leave the
@@ -156,13 +124,9 @@ Husayn ibn Mukhtar asked Imam Sadiq : “If one who has a partner finds
 out that his partner has cheated him, does he have the right to take the
 same amount of money from what they share?” Imam Sadiq replied:
 
-<blockquote dir="rtl">
-  <p>
-شُوِّه! إنمَّا اشتَرَكا بأمَانَةِ اللهِ، وإنّي لأُحِبُّ لهُ إنْ رَآى
-شَيئاً مِن ذلِكَ أنْ يَسْتُرَ عَلَيهِ ومَا أُحِبُّ أنْ يَأخُذَ مِنهُ
-شَيئاً بِغَيرِ عِلْمِهِ.
-  </p>
-</blockquote>
+> شُوِّه! إنمَّا اشتَرَكا بأمَانَةِ اللهِ، وإنّي لأُحِبُّ لهُ إنْ رَآى
+> شَيئاً مِن ذلِكَ أنْ يَسْتُرَ عَلَيهِ ومَا أُحِبُّ أنْ يَأخُذَ مِنهُ
+> شَيئاً بِغَيرِ عِلْمِهِ.
 
 *“How unseemly! They only entered into partnership in the security of
 God. I wish him to cover up his partner’s mistake, and do not like him
@@ -185,5 +149,4 @@ this act would violate the rights of the other partner.
 [^6]: Nahjul Fasaha, Kalameh 767.
 
 [^7]: Wasa’il al-Shi’ah, v.13, p.187.
-
 

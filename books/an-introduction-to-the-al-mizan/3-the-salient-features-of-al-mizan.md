@@ -118,4 +118,3 @@ I have confined my brief comments to the three most salient features
 of*al-Mizan* , while the other dimensions, which in my view are
 subordinated to these three, will be discussed later.
 
-

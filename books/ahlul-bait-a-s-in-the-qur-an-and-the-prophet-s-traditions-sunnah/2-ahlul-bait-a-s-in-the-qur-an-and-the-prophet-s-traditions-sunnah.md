@@ -573,4 +573,3 @@ saying:
 fathers, except the sons of Fatima, as I am their father and agnation."
 (Narrated by Ahmad bin Hanbal in 'al-Manaqib').(24)
 
-

@@ -3,24 +3,16 @@
 
 **Allah, the Wise, has said:**
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُم خَيْرَ اُمَّهٍ اُخْرِجَت للنَّاسِ تَآمُرُونَ بِالْمَعْرُوفِ وَ
-تَنْهَونَ عَنِ الْمُنكَر
-  </p>
-</blockquote>
+> كُنْتُم خَيْرَ اُمَّهٍ اُخْرِجَت للنَّاسِ تَآمُرُونَ بِالْمَعْرُوفِ وَ
+> تَنْهَونَ عَنِ الْمُنكَر
 
 ***(You are the best group that has been brought forth for mankind: you
 enjoin goodness and you forbid the evil.)***[^1]
 
 Imam Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَرَكَ اِنْكاَرَ الْمُنْكَرِ بِقَلْبِهِ وَ يَدِهِ وَ لِساَنِهِ
-فَهُوَ مَيِّتٌ بَيْنَ الْاَحْياَء
-  </p>
-</blockquote>
+> مَنْ تَرَكَ اِنْكاَرَ الْمُنْكَرِ بِقَلْبِهِ وَ يَدِهِ وَ لِساَنِهِ
+> فَهُوَ مَيِّتٌ بَيْنَ الْاَحْياَء
 
 *One, who refrains from prohibiting the evil by means of his heart, hand
 and tongue, is (like) a dead amongst the living.*[^2]
@@ -226,5 +218,4 @@ al-Rahmaan, in his time, is as Salman Farsi was, in his own.
 فَسَلِّمُوا)
 
 [^12]: Pand-e-Taareekh, vol. 5, pg. 29; Al-Ghadeer, vol. 6, pg. 121.
-
 

@@ -294,4 +294,3 @@ until he departed while believing in their love. [^13]
 
 [^13]: al-Manaqib v.4, p. 19
 
-

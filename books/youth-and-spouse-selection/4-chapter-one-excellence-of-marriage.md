@@ -18,11 +18,7 @@ whole universe.
 
 The Qur’an calls man and woman the dress of each other.
 
-<blockquote dir="rtl">
-  <p>
-هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ
-  </p>
-</blockquote>
+> هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ
 
 ***“They (wives) are as a dress for you (husbands) and you are as a
 dress for them.” (2: 187)***
@@ -44,12 +40,8 @@ Spouse: A Big Blessing From Allah
 One of the greatest blessings of Allah to man is a nice life‑partner.
 The Prophet (S) said in this regard:
 
-<blockquote dir="rtl">
-  <p>
-ما اسْتَفَادَ امْرُؤٌ مُسْلِمٌ فَائِدَةً بَعْدَ الإسْلامِ أفْضَلَ مِنْ
-زَوْجَةٍ مُسْلِمَةٍ (أو صَالِحَةٍ).
-  </p>
-</blockquote>
+> ما اسْتَفَادَ امْرُؤٌ مُسْلِمٌ فَائِدَةً بَعْدَ الإسْلامِ أفْضَلَ مِنْ
+> زَوْجَةٍ مُسْلِمَةٍ (أو صَالِحَةٍ).
 
 “The Muslim man has not achieved any benefit (from Allah’s blessings)
 better than a suitable Muslim wife, after Islam.”[^1]
@@ -117,13 +109,9 @@ woman and placing them side by side, as one of His wisdoms and signs,
 and introduced marriage as the cause of love, affection, beneficence and
 comfort of man, saying:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ
-فِي ذَلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ
+> فِي ذَلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***“And one of His signs is that he created mates for you from
 yourselves that you may find rest in them, and He put between you love
@@ -146,12 +134,8 @@ worthier before Allah and the angels, so that its value goes up to many
 times the previous one. For example, consider this Hadith of Imam Ja’far
 (a.s):
 
-<blockquote dir="rtl">
-  <p>
-رَكْعَتانِ يُصَلِّيهِما المُتَزَوِّجُ أفْضَلُ مِن سَبْعِينَ رَكعَة
-يُصَلِّيهَا العَزِبُ.
-  </p>
-</blockquote>
+> رَكْعَتانِ يُصَلِّيهِما المُتَزَوِّجُ أفْضَلُ مِن سَبْعِينَ رَكعَة
+> يُصَلِّيهَا العَزِبُ.
 
 “Two cycles of service offered by a married person is more excellent and
 worthier than seventy cycles of service offered by a bachelor and
@@ -177,13 +161,9 @@ The Medal of Honour
 Ali (a.s), the chief of believers, has described a very worthy fact
 about the value of marriage:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَكُن أحَدٌ مِن أصْحَابِ رَسُولِ اللهِ صَلّى اللهُ عَليهِ وَآلهِ
-يَتَزَوَّجُ إلاّ قَالَ رَسُولِ اللهِ صَلّى اللهُ عَلَيه وَآلهِ: “كمل
-دينه.”
-  </p>
-</blockquote>
+> لَمْ يَكُن أحَدٌ مِن أصْحَابِ رَسُولِ اللهِ صَلّى اللهُ عَليهِ وَآلهِ
+> يَتَزَوَّجُ إلاّ قَالَ رَسُولِ اللهِ صَلّى اللهُ عَلَيه وَآلهِ: “كمل
+> دينه.”
 
 “There were none of the friends of the Prophet (S) who would marry but
 the Prophet (S) would say his faith (religion) had been completed.”[^7]
@@ -238,5 +218,4 @@ of marriage.
 [^6]: Bihar al-Anwar, vol. 103, p. 222.
 
 [^7]: Makaremul Akhlaq, p 99.
-
 

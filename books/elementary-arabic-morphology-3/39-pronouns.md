@@ -34,4 +34,3 @@ person *hā'*), for example: **أکرَمَکَ سیَّدک,** and those that c
 the nominative, accusative, and genitive cases which is the **نا,** for
 example: **ربَّنا إنَّنا سمعنا** .
 
-

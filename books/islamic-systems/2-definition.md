@@ -113,4 +113,3 @@ infidelity, fear and oppression, wars and enmity among the nations, the
 domination of colonialists over the oppressed and downtrodden, and other
 miseries and problems which mankind is suffering from today.
 
-

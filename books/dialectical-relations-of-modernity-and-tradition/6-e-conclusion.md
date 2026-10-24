@@ -23,4 +23,3 @@ This process can be shortened if there existed a mutual dialogue with
 other groups, or had there been comparative history studies with already
 advanced societies in the West.
 
-

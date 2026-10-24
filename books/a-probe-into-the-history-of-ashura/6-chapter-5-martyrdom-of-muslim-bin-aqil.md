@@ -177,4 +177,3 @@ Ibn Ziyad and bury it".
 Muslim and Hani were martyred on the same day and their heads were cut
 off and sent to Yazid in Damascus.
 
-

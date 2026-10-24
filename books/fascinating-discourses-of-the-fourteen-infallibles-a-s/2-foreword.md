@@ -42,12 +42,8 @@ On this basis the Prophet of Islam (S) said:
 No doubt hearts get rusted like the swords & Hadith* is their
 polish.[^1]
 
-<blockquote dir="rtl">
-  <p>
-تذاکرو وتلاقوا وتحدثوا فان الحديث جلاءُ القلوب، ان القلوب لترين کما
-يرين السيف وجلاؤها الحديث.
-  </p>
-</blockquote>
+> تذاکرو وتلاقوا وتحدثوا فان الحديث جلاءُ القلوب، ان القلوب لترين کما
+> يرين السيف وجلاؤها الحديث.
 
 Essa (removal of that rust).' Essa (Christ) (as) at the height & summit
 of his speech told the Bani Israel (sons of Israel):
@@ -57,11 +53,7 @@ committed excess (injustice) to those subjects & do not refuse & conceal
 them from the sage & wise ones so that you may have committed injustice
 & excess* upon them.[^2]
 
-<blockquote dir="rtl">
-  <p>
-لا تحدثوا لجهال بالحکمة فتظلموها ولا تمنعوها اهلها فتظلموهم
-  </p>
-</blockquote>
+> لا تحدثوا لجهال بالحکمة فتظلموها ولا تمنعوها اهلها فتظلموهم
 
 Imam Ali (as) as per his well-known saying said.
 
@@ -69,17 +61,9 @@ Imam Ali (as) as per his well-known saying said.
 which secures & retains more (than others). Therefore do secure &
 memorize what I tell you.*
 
-<blockquote dir="rtl">
-  <p>
-ان هذه القلوب اوعية فخيرها اوعاها فاحفظ عنی ما اقول لک
-  </p>
-</blockquote>
+> ان هذه القلوب اوعية فخيرها اوعاها فاحفظ عنی ما اقول لک
 
-<blockquote dir="rtl">
-  <p>
-الناس ثلاثه فعالم ربانی، ومتعلم علی سبيل النجاة وهمج رعاعٌ
-  </p>
-</blockquote>
+> الناس ثلاثه فعالم ربانی، ومتعلم علی سبيل النجاة وهمج رعاعٌ
 
 People are divided in three groups: 1.The Godly scholars 2. The
 knowledge seekers (students) who move on the way towards salvation. 3.
@@ -137,11 +121,7 @@ Imam Sadiq (as) said:
 of our shias steady & firm (with our culture) is better than a thousand
 adorers"* [^5]*.*
 
-<blockquote dir="rtl">
-  <p>
-الرواية لحديثنا يشدد به قلوب شيعتنا، افضل من الف عابدٍ
-  </p>
-</blockquote>
+> الرواية لحديثنا يشدد به قلوب شيعتنا، افضل من الف عابدٍ
 
 Imam Ali Ridha’ (as) said ", Allah may have mercy upon the person who
 revives & establishes our affair." A man asked him ", how must one
@@ -149,11 +129,7 @@ revive it?
 
 He replied.
 
-<blockquote dir="rtl">
-  <p>
-يتعلم علومنا ويعلمها الناس
-  </p>
-</blockquote>
+> يتعلم علومنا ويعلمها الناس
 
 "He may learn our knowledge’s & teach others" [^6]
 
@@ -166,12 +142,8 @@ The Prophet of Allah (S) said":
 they need for their religion, Allah will resurge & resurrect him (as) a
 wise jurisprudent on the dooms day".*[^7]
 
-<blockquote dir="rtl">
-  <p>
-من حفظ امتی ... اربعين حديثاً تحتاجون اليه من امر دينهم بعثه الله يوم
-القيامة فقيهاً عالماً
-  </p>
-</blockquote>
+> من حفظ امتی ... اربعين حديثاً تحتاجون اليه من امر دينهم بعثه الله يوم
+> القيامة فقيهاً عالماً
 
 Four points must be taken into view a about this Hadith:
 
@@ -240,5 +212,4 @@ his answers, hadith 8.
 [^9]: Quotation from Bihar al-Anwar, vol.2, p. 157.
 
 [^10]: Goodlysaying, the outline of it, p. 175-181.
-
 

@@ -126,4 +126,3 @@ nadhr made for a mubah (ordinarily permissible) thing, having no
 legitimate benefit here or hereafter, is not valid. Both oath and nadhr
 are a covenant made witl1 Allah and they must be honoured.
 
-

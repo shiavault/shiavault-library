@@ -229,4 +229,3 @@ the Holy Bible), 3rd ed, pp. 31-33.
 
 [^5]: Ibid, p.50.
 
-

@@ -175,4 +175,3 @@ Wasalamu alaikum wa rahmatullah wa barakatuh…
 (Everyone departs the conference hall while side conversations and
 discussions were taking place among the attendees).
 
-

@@ -77,4 +77,3 @@ Mahdi, which held the mosaic together. Today too this belief in Imamate
 holds the jurisprudents in awe and reverence and the deputies of the
 Imam.
 
-

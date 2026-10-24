@@ -947,4 +947,3 @@ p. 75.
 
 [^43]: Bihār al-Anwār, vol. 46, “Fath al-Abwāb,” p. 57.
 
-

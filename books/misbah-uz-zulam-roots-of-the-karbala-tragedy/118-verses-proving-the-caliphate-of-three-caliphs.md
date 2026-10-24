@@ -1231,4 +1231,3 @@ have become blind in his love!
 
 [^53]: Mishkat 2; Ashra Mubashera, Pg. 558.
 
-

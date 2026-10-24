@@ -9,11 +9,7 @@ Surah Ta Ha, Chapter 20
 Introduction to the Surah
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -36,5 +32,4 @@ Imam Sadiq (as) says:
 given to his right hand…”*[^1]
 
 [^1]: Nur-uth-Thaqalayn, vol. 3, p. 367
-
 

@@ -257,4 +257,3 @@ One last honour which was given to Hazrat Khadija because of her
 services to Islam is so far as she was alive the Prophet did not many
 any other woman. He gave his complete attention to her.
 
-

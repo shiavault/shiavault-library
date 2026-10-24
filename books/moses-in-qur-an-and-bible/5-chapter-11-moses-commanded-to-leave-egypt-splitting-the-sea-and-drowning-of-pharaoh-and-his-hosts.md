@@ -33,7 +33,6 @@ But this day We save thee in thy body6 that thou mayest be a sign to
 those after thee and most surely most people are heedless of Our signs."
 (20:90-92).
 
-
 **Chapter 12: Moses Receives the Law**
 
 "And We appointed with Musa a time of thirty nights and completed them
@@ -56,7 +55,6 @@ and be of the grateful ones. And We ordained for him in the tablets
 admonition of every kind and clear explanation of all things. Take hold
 of them with firmness and enjoin the people to take hold of what is best
 thereof." (7:142-145)7
-
 
 **Chapter 13: Israelites Worship the Calf**
 
@@ -113,5 +111,4 @@ escape. Look at thy god to whose worship thou didst keep so long. We
 will certainly burn it, then we will certainly scatter it a wide
 scattering in the sea.11 You God is only Allah; there is no god but He
 and He comprehends all things in His knowledge." (20:85-98)
-
 

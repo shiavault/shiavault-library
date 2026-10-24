@@ -55,13 +55,9 @@ Hell. Then***,*** they will object to Allah and accuse Him of making a
 mistake. They will swear that they are good people and will say that
 Allah is making a mistake by unjustly assigning them to Hell!
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَبْعَثهُُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا
-يحَْلِفُونَ لَكمُ‏ْ وَ يحَْسَبُونَ أَنهَُّمْ عَلىَ‏ شىَ‏ْءٍ أَلَا
-إِنهَُّمْ هُمُ الْكَذِبُون
-  </p>
-</blockquote>
+> يَوْمَ يَبْعَثهُُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا
+> يحَْلِفُونَ لَكمُ‏ْ وَ يحَْسَبُونَ أَنهَُّمْ عَلىَ‏ شىَ‏ْءٍ أَلَا
+> إِنهَُّمْ هُمُ الْكَذِبُون
 
 ***On the day when Allah will raise them all together, then will they
 swear unto Him as they (now) swear unto you, and they will fancy that
@@ -122,11 +118,7 @@ has no cure, but 90% of people suffer from this ailment of arguing and
 quarrelling. The Holy Quran says that quarrel and argument is instigated
 by Satan.
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ الشَّيَطِينَ لَيُوحُونَ إِلىَ أَوْلِيَائهِمْ لِيُجَدِلُوكُمْ
-  </p>
-</blockquote>
+> وَ إِنَّ الشَّيَطِينَ لَيُوحُونَ إِلىَ أَوْلِيَائهِمْ لِيُجَدِلُوكُمْ
 
 ***… Lo! The devils do inspire their minions to dispute (Sura al An’aam,
 6: 121)***
@@ -159,12 +151,8 @@ very harmful trait. The Holy Quran says that people are of two types.
 The first category is that of persons who accept the truth. When they
 recognize the truth, their eyes water with sheer happiness.
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا سَمِعُواْ مَا أُنزِلَ إِلىَ الرَّسُولِ تَرَى أَعْيُنَهُمْ
-تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُواْ مِنَ الْحَق
-  </p>
-</blockquote>
+> وَ إِذَا سَمِعُواْ مَا أُنزِلَ إِلىَ الرَّسُولِ تَرَى أَعْيُنَهُمْ
+> تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُواْ مِنَ الْحَق
 
 ***When they listen to that which hath been revealed unto the messenger,
 thou seest their eyes overflowing with tears because of their
@@ -176,13 +164,9 @@ another group who are not willing to recognise and accept the truth.
 They are willing to eat stones, or burn in the Hellfire, but stubbornly
 refuse to accept the truth. .
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذْ قَالُواْ اللَّهُمَّ إِن كاَنَ هَذَا هُوَ الْحَقَّ مِنْ عِندِكَ
-فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَاءِ أَوِ ائْتِنَا
-بِعَذَابٍ أَلِيم
-  </p>
-</blockquote>
+> وَ إِذْ قَالُواْ اللَّهُمَّ إِن كاَنَ هَذَا هُوَ الْحَقَّ مِنْ عِندِكَ
+> فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَاءِ أَوِ ائْتِنَا
+> بِعَذَابٍ أَلِيم
 
 ***And when they said: O Allah! If this be indeed the truth from Thee,
 then rain down stones on us or bring on us some painful doom!***
@@ -299,5 +283,4 @@ for the wife in the husband's heart. When a husband repeatedly tells her
 something, but the wife pays no heed to his advice and criticisms, he
 turns indifferent to her. The end result will be that there will be no
 love left between the two!
-
 

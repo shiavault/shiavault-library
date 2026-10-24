@@ -272,4 +272,3 @@ The conditions and rates are different for each item.Khums is wajib on
 Perhaps for you the 7th item will be applicable. For the conditions and
 details study any English book of Masa'il of your mujtahid.
 
-

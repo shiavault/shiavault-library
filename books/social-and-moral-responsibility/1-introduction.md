@@ -31,4 +31,3 @@ notion that individuals should support and protect their societies’
 interests and that they should be more broadly accountable to their
 communities for their actions.
 
-

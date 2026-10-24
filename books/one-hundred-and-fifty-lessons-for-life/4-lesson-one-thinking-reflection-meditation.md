@@ -3,13 +3,9 @@ Lesson one: Thinking, reflection, meditation
 
 Imam Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-"أَلا لا خَيْرَ فى عِلم لَيْسَ فيهِ تَفَهُّمٌ، ألا لا خَيْرَ فى قرائة
-لَيْسَ فيها تَدَبُّرٌ، ألا لاَ خَيْرَ فى عِبادَة لَيْسَ فيها
-تَفَكُّرٌ"
-  </p>
-</blockquote>
+> "أَلا لا خَيْرَ فى عِلم لَيْسَ فيهِ تَفَهُّمٌ، ألا لا خَيْرَ فى قرائة
+> لَيْسَ فيها تَدَبُّرٌ، ألا لاَ خَيْرَ فى عِبادَة لَيْسَ فيها
+> تَفَكُّرٌ"
 
 Translation
 -----------
@@ -36,5 +32,4 @@ spiritless body and unable to impart their high educational value.
 [^1]: Al-Kafi, Volume One, Page 36 and Tuhaful Uqul, Maani Al-Akhbar,
 page 226; Bihar Al-Anwar Volume 2, page 48-49, Aalamu Addeen, page 100,
 Mishkat Al-Anwar 137-138, Muniat Almureed 162.
-
 

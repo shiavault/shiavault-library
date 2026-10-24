@@ -502,4 +502,3 @@ With your blood."125
 'Ali stepped forward to fight and with his first stroke of the sword
 split the crown of his head, scattering his brain and killing him.126
 
-

@@ -40,4 +40,3 @@ cannot survive without them.”*
 Imam Muhammad al-Baqir (a.s.) said: *“Surely Allah does abhor a servant
 when an enemy invades his home and he does not fight him.”*
 
-

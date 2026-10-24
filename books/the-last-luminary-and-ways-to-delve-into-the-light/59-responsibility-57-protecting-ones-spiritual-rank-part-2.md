@@ -16,12 +16,8 @@ closeness to the Imam) nor should he do anything to have someone else
 put in his place. In actuality, this is the same thing which we recite
 in the following du’a:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَسْتَبْدِلْ بِنَا غَيْرَنَا فَإِنَّ اسْتِبْدَالَكَ بِنَا
-غَيْرَنَا عَلَيْكَ يَسِيرٌ وَ هُوَ عَلَيْنَا كَبِيرٌ
-  </p>
-</blockquote>
+> وَ لاَ تَسْتَبْدِلْ بِنَا غَيْرَنَا فَإِنَّ اسْتِبْدَالَكَ بِنَا
+> غَيْرَنَا عَلَيْكَ يَسِيرٌ وَ هُوَ عَلَيْنَا كَبِيرٌ
 
 “And do not place someone else in our place since surely Your
 replacement of us with others is something easy for You to perform,
@@ -30,5 +26,4 @@ however this is something grave (and difficult) for us (to bear).”[^1]
 [^1]: MiSbah al-Mutahajjid, pg. 409; Bihar al-Anwar, vol. 95, pg. 330,
 sec. 115, no. 4; Mafatih al-Jinan, sec. 3, Part 10 after Du’a al-Nudbah
 and Du’a al-’Ahd.
-
 

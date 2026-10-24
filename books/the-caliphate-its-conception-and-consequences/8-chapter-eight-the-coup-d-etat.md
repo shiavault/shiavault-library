@@ -291,7 +291,6 @@ done without consulting the Muslims. Can it honestly be maintained that
 on the basis of these one-sided and vicious proceedings, ABU BAKR was
 duly elected by the Muslims as the Caliph?
 
-
 **Discussion**
 
 It is obvious from even a cursory reading of the facts narrated above
@@ -808,7 +807,6 @@ there could have been no better method of achieving that object than the
 one actually adopted. Now it is clear why only those three went to the
 SAQIFA.
 
-
 **THE TIME AND PLACE:**
 
 My discussion would be incomplete if I did not refer to the time and
@@ -837,5 +835,4 @@ possible for all to meet and deliberate. The ANSAR could also have been
 invited there. In that case, the burial arrangements and the election
 could have gone on simultaneously. That, however, was not the
 intention.
-
 

@@ -342,4 +342,3 @@ Basrah who was the companion of ‘Umar ibn al-Khattab (ed.)]
 
 [^9]: \* \* Not found in N.
 
-

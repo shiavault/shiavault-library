@@ -85,40 +85,20 @@ Also, poems were recited during the caliphate of Imam ‘Ali (*‘a*) in
 which ‘Ali (*‘a*) has been described as the rightful Imam and successor,
 and the leader after the Prophet (S). As Qays ibn Sa‘d was saying,
 
-<blockquote dir="rtl">
-  <p>
-و عليّ إمامنا و إمام لسوانا أتى به التنـزيل
-  </p>
-</blockquote>
+> و عليّ إمامنا و إمام لسوانا أتى به التنـزيل
 
 *‘Ali is our Imam and that of others. The Qur’an has been revealed for
 this purpose.*[^17]
 
 Khuzaymah ibn Thabit Dhu’sh-Shahadatayn used to say:
 
-<blockquote dir="rtl">
-  <p>
-فديت عليّاً إمام الورى سراج البريّة مأوى التّقى
-  </p>
-</blockquote>
+> فديت عليّاً إمام الورى سراج البريّة مأوى التّقى
 
-<blockquote dir="rtl">
-  <p>
-وصيّ الرّسول و زوج البتول إمام البريّة شمس الضّحى
-  </p>
-</blockquote>
+> وصيّ الرّسول و زوج البتول إمام البريّة شمس الضّحى
 
-<blockquote dir="rtl">
-  <p>
-تصدق خاتمه راكعاً فاحسن بفعل إمام الورى
-  </p>
-</blockquote>
+> تصدق خاتمه راكعاً فاحسن بفعل إمام الورى
 
-<blockquote dir="rtl">
-  <p>
-ففضّله الله ربّ العباد و أنزل في شأنه هل أتى
-  </p>
-</blockquote>
+> ففضّله الله ربّ العباد و أنزل في شأنه هل أتى
 
 *May I be the ransom of ‘Ali! He is the Imam of the people, the light of
 creation and the asylum of the God-conscious ones.*
@@ -137,12 +117,8 @@ the religion of ‘Ali (*‘a*). For example, while engaged in a fight
 against a person named ‘Amru ibn Yathribi from among the army of *Jamal*
 {camel} during the Battle of Jamal, ‘Ammar ibn Yasir recited thus:
 
-<blockquote dir="rtl">
-  <p>
-لا تبرح العرصة يا ابن يثربي حتى اقاتلك علىٰ دين علي نحن و بيت الله
-اولى بالنّبي
-  </p>
-</blockquote>
+> لا تبرح العرصة يا ابن يثربي حتى اقاتلك علىٰ دين علي نحن و بيت الله
+> اولى بالنّبي
 
 *O Ibn Yathribi! Leave not the battlefront so that we could fight
 against you over the religion of ‘Ali. I swear to the House of God that
@@ -152,12 +128,8 @@ Even the enemies and adversaries were using the same descriptions for
 the Shi‘ah. For example, in a poem, proud of killing the supporters of
 ‘Ali (*‘a*), ‘Amru ibn Yathribi says:
 
-<blockquote dir="rtl">
-  <p>
-ان تنكروني فانا ابن يثربي قاتل عِلباء و هِند الجملى ثمّ ابن صوحان علىٰ
-دين عليّ
-  </p>
-</blockquote>
+> ان تنكروني فانا ابن يثربي قاتل عِلباء و هِند الجملى ثمّ ابن صوحان علىٰ
+> دين عليّ
 
 *If you do not know me, I am Ibn Yathribi, the killer of ‘Ilba’ and Hind
 al-Jamali.*[^20] *I am also the killer of Ibn* *Sawhan for the crime of
@@ -426,5 +398,4 @@ Manshurat Mu’assasah al-A‘lami Li’l-Matbu‘at, 1411 AH), vol. 3, p. 187.
 
 [^29]: Muhammad Baqir (‘Allamah) Majlisi, Bihar al-Anwar, 2nd edition
 (Tehran: Al-Maktabah al-Islamiyyah, 1394 AH), vol. 46, p. 275.
-
 

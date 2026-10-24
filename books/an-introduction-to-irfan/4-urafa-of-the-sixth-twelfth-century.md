@@ -59,7 +59,6 @@ He is known as Shaykh-e Shattah on account of his prolific theopathetic
 exclamations. In recent years some of his books have been published,
 mainly through the efforts of the orientalists. He died in 606/1209.
 
-
 **'Urafa' of the Seventh/Thirteenth Century**
 
 This century has produced some mystics of the highest stature. We will
@@ -267,7 +266,6 @@ A well-known poet of ghazal and a mystic, he was a pupil of Sadr al-Din
 Qunawi and a murid and protege of Shihab al-Din al-Suhrawardi. He
 passed-away in 688/1289.
 
-
 **'Urafa' of the Eighth/Fourteenth Century**
 
 **1. 'Ala' al-Dawlah Simnani:**
@@ -331,7 +329,6 @@ following verse:
 My teachersaid: the pen of creation was subject to no error,Bravo the
 pure eyes that hide all defects.
 
-
 Hafiz passed away in 791/1389. 17
 
 **4. Shaykh Mahmud Shabistari:**
@@ -365,7 +362,6 @@ as far as we know, at least two mystics have written whole books on the
 subject. One is 'Aziz al-Din Nasafi, a mystic of the latter half of the
 7th/13th century, the other being 'Abd al-Karim Jilani. Jilani passed
 away in 805/1402 at the age of thirty- eight.
-
 
 **'Urafa' of the Ninth/Fifteenth Century**
 
@@ -541,5 +537,4 @@ Sir Thomas Arnold and Alfred Guillaume pp. 211-212
 16. Can't find
 17. Hafiz is the most beloved figure of Persian poetry in Iran
 18. Ahmad Jami was known as Shaykh al Isma
-
 

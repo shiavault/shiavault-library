@@ -26,14 +26,10 @@ respect them.
 
 The Noble Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-طُوْبـى لِمَنْ أَدْرَكَ قَائِمَ أَهْلِ بَيْتِي وَ هُوَ يَأْتَمُّ بِهِ
-فِي غَيْبَتِهِ قَبْلَ قِيَامِهِ وَ يَتَوَلَّـى أَوْلِيَآءَهُ وَ
-يُعَادِي أَعْدَاءَهُ، ذٌلِكَ مِنْ رُفَقَائِـي وَ ذَوِي مَوَدَّتِي وَ
-أَكْرَمِ أُمَّتِـي عَلَـيَّ يَوْمَ الْقِيَامَةِ
-  </p>
-</blockquote>
+> طُوْبـى لِمَنْ أَدْرَكَ قَائِمَ أَهْلِ بَيْتِي وَ هُوَ يَأْتَمُّ بِهِ
+> فِي غَيْبَتِهِ قَبْلَ قِيَامِهِ وَ يَتَوَلَّـى أَوْلِيَآءَهُ وَ
+> يُعَادِي أَعْدَاءَهُ، ذٌلِكَ مِنْ رُفَقَائِـي وَ ذَوِي مَوَدَّتِي وَ
+> أَكْرَمِ أُمَّتِـي عَلَـيَّ يَوْمَ الْقِيَامَةِ
 
 “Glad tidings to the one who meets the Qa\`im (ajtf) of my Ahlul Bayt
 (as) while he has followed him during his occultation before his advent
@@ -43,5 +39,4 @@ my love, and are the noblest of my nation to me on the Day of
 Judgement.”[^1]
 
 [^1]: Kamal ad-Din wa Tamam an-Ni’mah, vol. 1, pg. 286, sec. 25, no. 2
-
 

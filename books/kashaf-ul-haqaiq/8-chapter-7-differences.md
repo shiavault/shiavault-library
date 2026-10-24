@@ -48,10 +48,8 @@ them. And this proof of being on the right has always been presented
 among the Shiites and accepted by them. Even Allah (s.w.t.) has made
 this as a proof of His message.
 
-<p dir="rtl">
 أَفَلاَ يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ اللّهِ
 لَوَجَدُواْ فِيهِ اخْتِلاَفًا كَثِيراً
-</p>
 
 [Shakir 4:82] Do they not then meditate on the Quran? And if it were
 from any other than Allah, they would have found in it many a
@@ -70,10 +68,8 @@ discrepancies in it.
 are therefore in need of guidance from those who have been endowed with
 such knowledge, and Allah (s.w.t.) has introduced them as such.
 
-<p dir="rtl">
 بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ
 وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ
-</p>
 
 [Shakir 29:49] Nay! These are clear communications in the breasts of
 those who are granted knowledge; and none deny our communications except
@@ -111,7 +107,6 @@ people. I will not present all the verses in condemnation of
 discrepancies, and so for the sake of brevity I shall give you examples
 of just a few.
 
-<p dir="rtl">
 كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللّهُ النَّبِيِّينَ
 مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ
 لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُواْ فِيهِ وَمَا اخْتَلَفَ
@@ -119,7 +114,6 @@ of just a few.
 بَغْيًا بَيْنَهُمْ فَهَدَى اللّهُ الَّذِينَ آمَنُواْ لِمَا اخْتَلَفُواْ
 فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ وَاللّهُ يَهْدِي مَن يَشَاء إِلَى صِرَاطٍ
 مُّسْتَقِيمٍ
-</p>
 
 [Shakir 2:213] (All) people are a single nation; so Allah raised
 prophets as bearers of good news and as warners, and He revealed with
@@ -130,25 +124,20 @@ among themselves; so Allah has guided by His will those who believe to
 the truth about which they differed and Allah guides whom He pleases to
 the right path.
 
-<p dir="rtl">
 وَمَا أَنزَلْنَا عَلَيْكَ الْكِتَابَ إِلاَّ لِتُبَيِّنَ لَهُمُ الَّذِي
 اخْتَلَفُواْ فِيهِ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ
-</p>
 
 [Shakir 16:64] And we have not revealed to you the Book except that you
 may make clear to them that about which they differ, and (as) a guidance
 and a mercy for a people who believe.
 
-<p dir="rtl">
 وَلاَ تَكُونُواْ كَالَّذِينَ تَفَرَّقُواْ وَاخْتَلَفُواْ مِن بَعْدِ مَا
 جَاءهُمُ الْبَيِّنَاتُ وَأُوْلَـئِكَ لَهُمْ عَذَابٌ عَظِيمٌ
-</p>
 
 [Shakir 3:105] And be not like those who became divided and disagreed
 after clear arguments had come to them, and these it is that shall have
 a grievous chastisement.
 
-<p dir="rtl">
 وَأَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ
 يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ فَاحْكُم بَيْنَهُم بِمَا
 أَنزَلَ اللّهُ وَلاَ تَتَّبِعْ أَهْوَاءهُمْ عَمَّا جَاءكَ مِنَ الْحَقِّ
@@ -156,7 +145,6 @@ a grievous chastisement.
 لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَـكِن لِّيَبْلُوَكُمْ فِي مَا آتَاكُم
 فَاسْتَبِقُوا الخَيْرَاتِ إِلَى الله مَرْجِعُكُمْ جَمِيعًا
 فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
-</p>
 
 [Shakir 5:48] And We have revealed to you the Book with the truth,
 verifying what is before it of the Book and a guardian over it,
@@ -168,12 +156,10 @@ might try you in what He gave you, therefore strive with one another to
 hasten to virtuous deeds; to Allah is your return, of all (of you), so
 He will let you know that in which you differed;
 
-<p dir="rtl">
 قُلْ أَغَيْرَ اللّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ وَلاَ
 تَكْسِبُ كُلُّ نَفْسٍ إِلاَّ عَلَيْهَا وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ
 أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ
 فِيهِ تَخْتَلِفُونَ
-</p>
 
 [Shakir 6:164] Say: What! shall I seek a Lord other than Allah? And He
 is the Lord of all things; and no soul earns (evil) but against itself,
@@ -181,10 +167,8 @@ and no bearer of burden shall bear the burden of another; then to your
 Lord is your return, so He will inform you of that in which you
 differed.
 
-<p dir="rtl">
 مَن يَهْدِ اللّهُ فَهُوَ الْمُهْتَدِي وَمَن يُضْلِلْ فَأُوْلَـئِكَ هُمُ
 الْخَاسِرُونَ
-</p>
 
 [Shakir 7:178] Whomsoever Allah guides, he is the one who follows the
 right way; and whomsoever He causes to err, these are the losers.
@@ -532,10 +516,8 @@ polytheism is proven. What shall we do now? Either we accept all this
 nonsense or come to the fold of the Holy Infallibles (a.s.) by accepting
 the divine command:
 
-<p dir="rtl">
 مَّنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللّهَ وَمَن تَوَلَّى فَمَا
 أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا
-</p>
 
 [Shakir 4:80] Whoever obeys the Messenger, he indeed obeys Allah, and
 whoever turns back, so we have not sent you as a keeper over them.
@@ -725,10 +707,8 @@ unclean? And if one cannot then all this is nothing but conjecture and
 imaginary. Allah (s.w.t.) has already stated that conjecture is of no
 use against the truth.
 
-<p dir="rtl">
 وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلاَّ ظَنًّا إَنَّ الظَّنَّ لاَ يُغْنِي
 مِنَ الْحَقِّ شَيْئًا إِنَّ اللّهَ عَلَيمٌ بِمَا يَفْعَلُونَ
-</p>
 
 [Shakir 10:36] And most of them do not follow (anything) but conjecture;
 surely conjecture will not avail aught against the truth; surely Allah
@@ -840,5 +820,4 @@ remove any of them’. As soon as he got into power, he confiscated the
 status of the Mujtahid Shariatmadari to the extent that his turban and
 his cloak were also taken away. His hundreds and thousands of followers
 were left to wander aimlessly not knowing what to do.
-
 

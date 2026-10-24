@@ -1189,7 +1189,7 @@ Necessary Being", ed. by Daneshpazhooh, (Tehran: University of Tehran).
 
 26 - Avicenna, Al-Esharat wa Al-Tanbihat, vol. III, pp. 18-[^28]:
 
-27 - Ibid., p.[^66]:
+27 - Ibid., p.66.
 
 28 - Mulla Sadra, Asfar VI, pp. 25-26
 

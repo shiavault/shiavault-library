@@ -30,4 +30,3 @@ as: satiating his hunger, removing his grief, or paying his debt."
 
 Al-Kafi, vol. 2, p. 192
 
-

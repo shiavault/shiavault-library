@@ -28,4 +28,3 @@ conversations for different spiritual states, such as being fearful,
 hopeful and thankful. Conversing with Allah according to our current
 spiritual state will only serve to enhance our relationship with him.
 
-

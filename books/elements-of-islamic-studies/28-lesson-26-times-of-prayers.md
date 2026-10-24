@@ -47,4 +47,3 @@ Maghrib. If anyone prays Isha in that time, it will be *batil*;
 if anyone prays *Maghrib* in that time, it will be batil. The time
 between the two reserved times is joint time of *Maghrib* and Isha.
 
-

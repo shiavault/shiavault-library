@@ -204,11 +204,7 @@ legatee and both of his sons Hasan and Husain (a.s.) and the Imams from
 their sons have attained salvation. Then they will be ordered that all
 of them be led to Paradise. This is the meaning of the Divine words:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ زُحْزِحَ عَنْ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ.
-  </p>
-</blockquote>
+> فَمَنْ زُحْزِحَ عَنْ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ.
 
 ***Then whoever is removed far away from the fire and is made to enter
 the garden he indeed has attained the object… (Surah Ale-Imran 3:185)***
@@ -326,12 +322,8 @@ include in my intercession those who follow them because in fact they
 will be following me and the one who follows me is from me and this is
 the example which has been given in the case of Ibrahim (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ
-رَحِيمٌ.
-  </p>
-</blockquote>
+> فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي وَمَنْ عَصَانِي فَإِنَّكَ غَفُورٌ
+> رَحِيمٌ.
 
 ***Then whoever follows me, he is surely of me, and whoever disobeys me,
 Thou surely are Forgiving, Merciful: (Surah Ibrahim 14:36)***
@@ -341,15 +333,10 @@ his Religion and my Sunnah is his Sunnah and my grace is his grace and I
 am more graceful than him and my grace is his grace according to the
 testification of my Lord as His Words convey:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اصْطَفَى آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ.
 
 ***Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of Imran above the nations. (Surah Ale-Imran***
 ***3:33)***
-
 

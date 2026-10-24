@@ -7,4 +7,3 @@ and without any doubt, faith is the cause of permanent residence in
 Paradise, thus this *Dua* will result in permanent residence in
 Paradise.
 
-

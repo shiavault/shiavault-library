@@ -4,19 +4,11 @@ Section 4: Saleh and Lot
 Surah An-Naml - Verses 45-46
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَآ إِلَي ثَمُودَ أَخَاهُمْ صَالِحاً أَنِ اعْبُدُوا
-اللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَآ إِلَي ثَمُودَ أَخَاهُمْ صَالِحاً أَنِ اعْبُدُوا
+> اللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا قَوْمِ لِمَ تَسْتَعْجِلُونَ بِالسَّيّـِئَةِ قَبْلَ
-الْحَسَنَةِ لَوْلاَ تَسْتَغْفِرُونَ اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> قَالَ يَا قَوْمِ لِمَ تَسْتَعْجِلُونَ بِالسَّيّـِئَةِ قَبْلَ
+> الْحَسَنَةِ لَوْلاَ تَسْتَغْفِرُونَ اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
 
 ***45. “And indeed We sent unto (the tribe of) Thamud their brother
 Saleh, saying: ‘Worship you Allah!’ but behold, they became two parties
@@ -138,12 +130,8 @@ has many fruits of this kind.
 Surah An-Naml - Verse 47
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا اطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ قَالَ طَآئِرُكُمْ عِندَ
-اللَّهِ بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ
-  </p>
-</blockquote>
+> قَالُوا اطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ قَالَ طَآئِرُكُمْ عِندَ
+> اللَّهِ بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ
 
 ***47. “They said: ‘Ill omen do we augur from you and those with you’.
 He said: ‘Your ill omen is with Allah. Nay! You are a people who are
@@ -246,12 +234,8 @@ in Allah, the Exalted, the Great.”*[^11]
 Surah An-Naml - Verse 48
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الاَرْضِ
-وَلاَ يُصْلِحُونَ
-  </p>
-</blockquote>
+> وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الاَرْضِ
+> وَلاَ يُصْلِحُونَ
 
 ***48. “And there were in the city nine (groups of) persons who made
 mischief in the land and would not reform.”***
@@ -293,13 +277,9 @@ was from a separate tribe.
 Surah An-Naml - Verse 49
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيّـِتَنَّهُ وَأَهْلَهُ ثُمَّ
-لَنَقُولَنَّ لِوَلِيّـِهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا
-لَصَادِقُونَ
-  </p>
-</blockquote>
+> قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيّـِتَنَّهُ وَأَهْلَهُ ثُمَّ
+> لَنَقُولَنَّ لِوَلِيّـِهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا
+> لَصَادِقُونَ
 
 ***49. “They said: ‘Swear a mutual oath by Allah that surely we will
 make a sudden attack on him and his family by night, then we will tell
@@ -351,18 +331,10 @@ present there nor had they witnessed it.
 Surah An-Naml - Verses 50-51
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَكَرُوا مَكْراً وَمَكَرْنَا مَكْراً وَهُمْ لاَ يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَمَكَرُوا مَكْراً وَمَكَرْنَا مَكْراً وَهُمْ لاَ يَشْعُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ
-وَقَوْمَهُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ
+> وَقَوْمَهُمْ أَجْمَعِينَ
 
 ***50. “And they devised a device, and We devised a device (too), but
 they were not aware;”***  
@@ -438,18 +410,10 @@ of harmful plots’; and when it is used about mischief mongers, it means:
 Surah An-Naml - Verses 52-53
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا إِنَّ فِي ذَلِكَ لاَيَةً
-لِقَوْمٍ يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا إِنَّ فِي ذَلِكَ لاَيَةً
+> لِقَوْمٍ يَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَنجَيْنَا الَّذِينَ ءَامَنُوا وَكَانُوا يَتَّقُونَ
-  </p>
-</blockquote>
+> وَأَنجَيْنَا الَّذِينَ ءَامَنُوا وَكَانُوا يَتَّقُونَ
 
 ***52. “So those are their houses in empty ruins for they were unjust.
 Verily there is in this a sign for a people who have knowledge.”***  
@@ -490,19 +454,11 @@ The verse says:
 Surah An-Naml - Verses 54-55
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلُوطاً إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ وَأَنتُمْ
-تبْصِرُونَ
-  </p>
-</blockquote>
+> وَلُوطاً إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ وَأَنتُمْ
+> تبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَئِنَّكُمْ لَتَأْتُونَ الرّ‌ِجَالَ شَهْوَةً مِن دُونِ النّـِسَآءِ
-بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
-  </p>
-</blockquote>
+> أَئِنَّكُمْ لَتَأْتُونَ الرّ‌ِجَالَ شَهْوَةً مِن دُونِ النّـِسَآءِ
+> بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
 
 ***54. “And (We sent) Lot, when he said to his people: ‘Do you commit
 indecency while you see (its iniquity)?’”***  
@@ -598,12 +554,8 @@ so that it may be more effective.
 Surah An-Naml - Verse 56
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَمَا كَانَ جَوَابَ قَوْمِهِ إِلآَّ أَن قَالُوا أَخْرِجُوا ءَالَ لُوطٍ
-مِن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
-  </p>
-</blockquote>
+> فَمَا كَانَ جَوَابَ قَوْمِهِ إِلآَّ أَن قَالُوا أَخْرِجُوا ءَالَ لُوطٍ
+> مِن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
 
 ***56. “But the answer of his people was naught except that they said:
 ‘Drive out the people of Lot from your city; verily they are people (who
@@ -666,18 +618,10 @@ story and it is an interesting sensible example for this logical matter.
 Surah An-Naml - Verses 57-58
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأنجَيْنَاهُ وَأَهْلَهُ إِلاَّ امْرَأَتَهُ قَدَّرْنَاهَا مِنَ
-الْغَابِرِينَ
-  </p>
-</blockquote>
+> فَأنجَيْنَاهُ وَأَهْلَهُ إِلاَّ امْرَأَتَهُ قَدَّرْنَاهَا مِنَ
+> الْغَابِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمْطَرْنَا عَلَيْهِم مَّطَراً فَسَآءَ مَطَرُ الْمُنذَرِينَ
-  </p>
-</blockquote>
+> وَأَمْطَرْنَا عَلَيْهِم مَّطَراً فَسَآءَ مَطَرُ الْمُنذَرِينَ
 
 ***57. “So We saved him and his household, except his wife, We had
 decreed her to be of those that tarried.”***  
@@ -778,5 +722,4 @@ verse 77
 [^15]: Surah ’Isra’, No. 17, verse 46
 
 [^16]: Nur-uth-Thaqalayn, the Commentary, Vol. 2, P. 382
-
 

@@ -125,4 +125,3 @@ ch. “One who Learnt the Qur'an then Forgot it,” hadīth no. 2.
 [^5]: Ibid., vol. 3, p. 137, “Book of Faith and Infidelity,” ch.
 “Economy in Worshipping,” hadīth 2.
 
-

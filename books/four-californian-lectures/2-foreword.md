@@ -3,7 +3,6 @@ Foreword
 
 In the name of Allah, the Compassionate, the Merciful
 
-
 Human being is the most wonderful and complex creation of God, a
 creature who, aside from natural and animal instincts and physical
 reactions, has spiritual disposition and personality, which has made him
@@ -43,7 +42,6 @@ towards perfection and lofty values. Indeed, the source of pride, great
 values and true civilizations in the history of mankind, are the outcome
 of such struggle.
 
-
 The Islamic Revolution which, to the astonishment of the world, has
 occurred in the contemporary period through the effort and aspiration of
 one of the men of God, was in essence not only a political movement or a
@@ -52,11 +50,9 @@ that, it is a moral and cultural revivification that summons the
 contemporary weak and feeble man to regain his divide natural
 disposition.
 
-
 The founder of the Islamic Republic, in his abiding last will and
 testament under the importance of the great revolution, which he has
 initiated, said:
-
 
 “In the world the extent of one’s toils, sufferings and acts of self-
 sacrifice and self-abnegation is commensurate with the loftiness and
@@ -151,13 +147,12 @@ Second Publication, June 2002
 
 **Notes:
 **
-[^1] Sûrah ash-Shams [Chapter: The Sun] 91:9-10 of the Glorious
+[^1]: Sûrah ash-Shams [Chapter: The Sun] 91:9-10 of the Glorious
 Qur’an.
 
-[^2] It should be noted that the subjects of the book, The Greatest
+[^2]: It should be noted that the subjects of the book, The Greatest
 Jihâd, are excerpts of Imâm Khomeinî’s lectures and admonitions in the
 different levels of Islamic theology during the days of his residence in
 Najaf al-Ashraf, Iraq (1964-1978), which has been transcribed and
 compiled by Hujjat al-Islâm wal-Muslimîn Sayyid Hamîd Rûhânî.
-
 

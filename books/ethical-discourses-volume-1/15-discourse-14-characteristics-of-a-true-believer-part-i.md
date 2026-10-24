@@ -1,17 +1,13 @@
 Discourse 14: Characteristics of a True Believer – Part I
 =========================================================
 
-<blockquote dir="rtl">
-  <p>
-رُوَى أَنَّ رَسُولَ اللٌّهِ قَالَ: يَكْمُلُ الْمُؤْمِنُ إِيْمَانَهُ
-حَتَّى يَحْتَوى عَلى مِائَةَ وَ ثَلاَثَ خِصَالٍ: فِعْلٌ وَ عَمَلٌ وَ
-نِيَّةٌ وَ بَاطِنٌ وَ ظَاهِرٌ. فَقَالَ أَمِيرُ الْمُؤْمِنِينَ : يَا
-رَسُولَ اللٌّهِ مَا الْمِائَةَ وَ ثَلاَثَ خِصَالٍ؟ فَقَالَ : يَا
-عَلِيُّ مِنْ صِفَاتِ الْمُؤْمِنُ أَنْ يَكُونَ جَوَّالُ الْفِكْرِ،
-جَوْهَرِّيُ الذِّكْرِ، كَثِيراً عِلْمهُ عَظِيماً حِلْمَهُ، جَمِيلُ
-الْمُنَازِعَةُ…
-  </p>
-</blockquote>
+> رُوَى أَنَّ رَسُولَ اللٌّهِ قَالَ: يَكْمُلُ الْمُؤْمِنُ إِيْمَانَهُ
+> حَتَّى يَحْتَوى عَلى مِائَةَ وَ ثَلاَثَ خِصَالٍ: فِعْلٌ وَ عَمَلٌ وَ
+> نِيَّةٌ وَ بَاطِنٌ وَ ظَاهِرٌ. فَقَالَ أَمِيرُ الْمُؤْمِنِينَ : يَا
+> رَسُولَ اللٌّهِ مَا الْمِائَةَ وَ ثَلاَثَ خِصَالٍ؟ فَقَالَ : يَا
+> عَلِيُّ مِنْ صِفَاتِ الْمُؤْمِنُ أَنْ يَكُونَ جَوَّالُ الْفِكْرِ،
+> جَوْهَرِّيُ الذِّكْرِ، كَثِيراً عِلْمهُ عَظِيماً حِلْمَهُ، جَمِيلُ
+> الْمُنَازِعَةُ…
 
 It has been narrated that the Messenger of Allah (S) said to the
 Commander of the Faithful, 'Ali b. Abi Talib (as): “The true believer's
@@ -98,12 +94,8 @@ people who were more corrupt than the people of Prophet Lut (as) and
 their punishment too was the most frightening of all other forms of
 punishment:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَ أَمْرَنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَ
-أَمْطَرْنَا عَلَيْهَا حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَ أَمْرَنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَ
+> أَمْطَرْنَا عَلَيْهَا حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ
 
 “When Our decree which was issued came to pass, We turned (the cities)
 upside down and rained down on them brimstones hard as baked clay spread
@@ -118,13 +110,9 @@ Ibrahim (as) extremely happy. After hearing this, he prayed to Allah
 (SwT) for the permission to intercede for the people of the tribe of
 Prophet Lut (as) and it is quoted in the Qur\`an that it was said:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَوْعَ وَ جَآءَتْهُ البُشْرى
-يُجَادِلُنَا فِي قَوْمِ لُوطٍ. إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ
-مُنِيبٌ
-  </p>
-</blockquote>
+> فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَوْعَ وَ جَآءَتْهُ البُشْرى
+> يُجَادِلُنَا فِي قَوْمِ لُوطٍ. إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ
+> مُنِيبٌ
 
 “When fear had passed from (the mind of) Ibrahim and the glad tidings
 had reached him he began to plead with Us for Lut's people. For Ibrahim
@@ -153,11 +141,7 @@ time that demands harmony and unity?
 
 Thus, we must always go back to the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُوا بِحَبْلِ اللٌّهِ جَمِيعاً وَلاَ تَفَرَّقُوا
-  </p>
-</blockquote>
+> وَاعْتَصِمُوا بِحَبْلِ اللٌّهِ جَمِيعاً وَلاَ تَفَرَّقُوا
 
 “And hold tightly to the rope of Allah all together and do not be
 divided…”
@@ -177,11 +161,7 @@ enemies can take advantage of such movements and activities?
 It is our hope and prayer that if there is discussion and even
 disagreement then these take place under the banner of:
 
-<blockquote dir="rtl">
-  <p>
-جَمِيلٌ الْمُنَازِعَةِ.
-  </p>
-</blockquote>
+> جَمِيلٌ الْمُنَازِعَةِ.
 
 That we must have beautiful discourses and dialogues with one another as
 this is one of the characteristics of the true believer we must keep in
@@ -200,5 +180,4 @@ pg. 310, tradition 45
 [^2]: Surat Hud (11), Verse 82
 
 [^3]: Ibid., Verses 74 and 75
-
 

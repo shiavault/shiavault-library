@@ -140,4 +140,3 @@ Prophet’s family to have or possess anything that is given as alms.
 
 [^10]: Quoted from al-Kafi.
 
-

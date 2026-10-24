@@ -1,17 +1,9 @@
 Letter 4: To one of the officers of his army
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-ومن كتاب كتبه (عليه السلام)
-  </p>
-</blockquote>
+> ومن كتاب كتبه (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-إلى بعض أُمراء جيشه
-  </p>
-</blockquote>
+> إلى بعض أُمراء جيشه
 
 If they [^1] return to the umbrella of obedience then this is all that
 we want. But if the condition of these people points out towards
@@ -21,15 +13,11 @@ follow you do not worry about those who hold back from you, because the
 absence of a halfhearted man is better than his presence, and his
 sitting down is better than his rising up.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ عَادُوا إِلَى ظِلِّ الطَّاعَةِ فَذَاكَ الَّذِي نُحِبُّ، وَإِنْ
-تَوَافَتِ الاْمُورُ بِالْقَوْمِ إِلَى الشِّقَاقِ وَالْعِصْيَانِ
-فَانْهَدْ بِمَنْ أَطاعَكَ إِلَى مَنْ عَصَاكَ، وَاسْتَغْنِ بِمَنِ
-انْقَادَ مَعَكَ عَمَّنْ تَقَاعَسَ عَنْكَ، فَإِنَّ الْمُتَكَارِهَ
-مَغِيبُهُ خَيْرٌ مِنْ شُهُودِهِ، وَقُعُودُهُ أَغْنَى مِنْ نُهُوضِهِ.
-  </p>
-</blockquote>
+> فَإِنْ عَادُوا إِلَى ظِلِّ الطَّاعَةِ فَذَاكَ الَّذِي نُحِبُّ، وَإِنْ
+> تَوَافَتِ الاْمُورُ بِالْقَوْمِ إِلَى الشِّقَاقِ وَالْعِصْيَانِ
+> فَانْهَدْ بِمَنْ أَطاعَكَ إِلَى مَنْ عَصَاكَ، وَاسْتَغْنِ بِمَنِ
+> انْقَادَ مَعَكَ عَمَّنْ تَقَاعَسَ عَنْكَ، فَإِنَّ الْمُتَكَارِهَ
+> مَغِيبُهُ خَيْرٌ مِنْ شُهُودِهِ، وَقُعُودُهُ أَغْنَى مِنْ نُهُوضِهِ.
 
 [^1]: When \`Uthman ibn Hunayf, the Governor of Basrah informed Amir
 al-mu 'minin of the arrival of Talhah and az-Zubayr in Basrah and of
@@ -42,5 +30,4 @@ merely by persuasion, because such people could not be expected to fight
 steadfastly nor could they be depended upon. Rather, such people would
 try to dishearten others too. Therefore, it was only good to leave aside
 such people.
-
 

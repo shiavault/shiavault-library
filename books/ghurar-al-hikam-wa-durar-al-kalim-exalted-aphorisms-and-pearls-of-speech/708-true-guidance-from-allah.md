@@ -31,11 +31,7 @@ equipage for his Hereafter and [makes] God-wariness his reserve and
 provision.
 
 > 6ـ فازَ مَنِ اسْتَصْبَحَ بِنُورِ الهُدى، وَخالَفَ دَواعِيَ الهَوى،
-<blockquote dir="rtl">
-  <p>
-وجَعَلَ الإيمانَ عُدَّةَ مَعادِهِ، والتَّقْوى ذُخْرَهُ وزادَهُ.
-  </p>
-</blockquote>
+> وجَعَلَ الإيمانَ عُدَّةَ مَعادِهِ، والتَّقْوى ذُخْرَهُ وزادَهُ.
 
 7. How can the one who is astray be guided aright when the guide [he
 follows] is heedless?![^1]
@@ -102,5 +98,4 @@ course of true guidance.
 
 [^1]: Or: How can the one who is astray be guided aright while he is
 negligent about the guide?
-
 

@@ -164,4 +164,3 @@ lands possessed by an enemy, lest the accused should run to the enemy's
 camp for shelter and then fight on his behalf against our country in any
 way.
 
-

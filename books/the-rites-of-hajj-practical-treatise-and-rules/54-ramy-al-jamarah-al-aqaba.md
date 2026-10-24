@@ -204,4 +204,3 @@ this hardness is not necessary and if they perform Ramy from the upper
 level, throwing the pebbles to the holes which are placed in upper level
 and then pebbles fall of the ground from there is enough.
 
-

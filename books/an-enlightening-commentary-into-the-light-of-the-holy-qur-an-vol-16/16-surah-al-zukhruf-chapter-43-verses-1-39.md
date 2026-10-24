@@ -10,11 +10,7 @@ Surah al-Zukhruf, Chapter 43, Verses 1 - 39
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -52,37 +48,17 @@ religious instructions.’”*
 Surah al-Zukhruf - Verses 1 - 4
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-وَالْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> وَالْكِتَابِ الْمُبِينِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا جَعَلْنَاهُ قُرْآناً عَرَبِيّاً لَعَلَّكُمْ تَعْقِلُونَ
-  </p>
-</blockquote>
+> إِنَّا جَعَلْنَاهُ قُرْآناً عَرَبِيّاً لَعَلَّكُمْ تَعْقِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ
 
 ***1. HM***  
 ***2. By the illuminating Book [the Qur’an].***  
@@ -179,30 +155,14 @@ Revealed by the Wise Originator of creation.
 Surah al-Zukhruf - Verse 5 - 8
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحاً أَنْ كُنْتُمْ قَوْماً
-مُسْرِفِينَ
-  </p>
-</blockquote>
+> أَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحاً أَنْ كُنْتُمْ قَوْماً
+> مُسْرِفِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ أَرْسَلْنَا مِنْ نَبِيٍّ فِي الْأَوَّلِينَ
-  </p>
-</blockquote>
+> وَكَمْ أَرْسَلْنَا مِنْ نَبِيٍّ فِي الْأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَأْتِيهِمْ مِنْ نَبِيٍّ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> وَمَا يَأْتِيهِمْ مِنْ نَبِيٍّ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَهْلَكْنَا أَشَدَّ مِنْهُمْ بَطْشاً وَمَضَى مَثَلُ الْأَوَّلِينَ
-  </p>
-</blockquote>
+> فَأَهْلَكْنَا أَشَدَّ مِنْهُمْ بَطْشاً وَمَضَى مَثَلُ الْأَوَّلِينَ
 
 ***5. Shall We then take away the Reminder [i.e., the Holy Qur’an] from
 you, because you are transgressors beyond bounds.***  
@@ -255,12 +215,8 @@ prophets. Their dire fate may serve as a lesson to others.
 Surah al-Zukhruf - Verse 9
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ
 
 ***9. And indeed if you ask them, “Who has created the heavens and the
 earth” They will surely say: “The Omnipotent, the Omniscient [God]
@@ -306,12 +262,8 @@ protection.
 Surah al-Zukhruf - Verse 10
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْداً وَجَعَلَ لَكُمْ فِيهَا سُبُلاً
-لَعَلَّكُمْ تَهْتَدُونَ
-  </p>
-</blockquote>
+> الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْداً وَجَعَلَ لَكُمْ فِيهَا سُبُلاً
+> لَعَلَّكُمْ تَهْتَدُونَ
 
 ***10. Who has made for you the earth a resting place, and has made for
 you roads therein, in order that you may find your way.***
@@ -345,19 +297,11 @@ unknown to any anyone in olden times.
 Surah al-Zukhruf - Verses 11 - 12
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي نَزَّلَ مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَنْشَرْنَا بِهِ
-بَلْدَةً مَيْتاً كَذَلِكَ تُخْرَجُونَ
-  </p>
-</blockquote>
+> وَالَّذِي نَزَّلَ مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَنْشَرْنَا بِهِ
+> بَلْدَةً مَيْتاً كَذَلِكَ تُخْرَجُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ
-وَالْأَنْعَامِ مَا تَرْكَبُونَ
-  </p>
-</blockquote>
+> وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ
+> وَالْأَنْعَامِ مَا تَرْكَبُونَ
 
 ***11. And Who sent down water from the sky in due measure, then We
 revived a dead land therewith, and so you will be brought forth [from
@@ -416,19 +360,11 @@ other purposes, bestowed on mankind in order to meet their needs.
 Surah al-Zukhruf - Verses 13 - 14
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِتَسْتَوُوا عَلَی ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا
-اسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا سُبْحَانَ الَّذِي سَخَّرَ لَنَا
-هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ
-  </p>
-</blockquote>
+> لِتَسْتَوُوا عَلَی ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا
+> اسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا سُبْحَانَ الَّذِي سَخَّرَ لَنَا
+> هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّا إِلَی رَبِّنَا لَمُنْقَلِبُونَ
-  </p>
-</blockquote>
+> وَإِنَّا إِلَی رَبِّنَا لَمُنْقَلِبُونَ
 
 ***13. In order that you may mount on their backs and then may remember
 the Favor of your Lord when you mount thereon and say “Glory to Him Who
@@ -476,18 +412,10 @@ Wrathful and Whose Most Beautiful Names include All-Subjugating
 Surah al-Zukhruf - Verses 15 - 16
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءاً إِنَّ الْأِنْسَانَ لَكَفُورٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءاً إِنَّ الْأِنْسَانَ لَكَفُورٌ
+> مُبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍ وَأَصْفَاكُمْ بِالْبَنِينَ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍ وَأَصْفَاكُمْ بِالْبَنِينَ
 
 ***15. [Polytheists said: “Angels are daughters of God”] and they
 assigned to some of His servants a share with Him. Indeed man is a
@@ -531,12 +459,8 @@ man is a manifest ingrate.
 Surah al-Zukhruf - Verse 17
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا بُشِّرَ أَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمَنِ مَثَلاً ظَلَّ
-وَجْهُهُ مُسْوَدّاً وَهُوَ كَظِيمٌ
-  </p>
-</blockquote>
+> وَإِذَا بُشِّرَ أَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمَنِ مَثَلاً ظَلَّ
+> وَجْهُهُ مُسْوَدّاً وَهُوَ كَظِيمٌ
 
 ***17. And if one of them is informed of the news of what pleases God
 the All-Compassionate, his face becomes dark and he suppresses his
@@ -566,12 +490,8 @@ yourselves what you regard stronger?”*
 Surah al-Zukhruf - Verse 18
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ
-مُبِينٍ
-  </p>
-</blockquote>
+> أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ
+> مُبِينٍ
 
 ***18. Is [it appropriate that] the one who is brought up in adornments
 and who in dispute cannot make herself clear [be attributed to God
@@ -623,12 +543,8 @@ their own offspring.
 Surah al-Zukhruf - Verse 19
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلُوا الْمَلائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَنِ إِنَاثاً
-أَشَهِدُوا خَلْقَهُمْ سَتُكْتَبُ شَهَادَتُهُمْ وَيُسْأَلونَ
-  </p>
-</blockquote>
+> وَجَعَلُوا الْمَلائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَنِ إِنَاثاً
+> أَشَهِدُوا خَلْقَهُمْ سَتُكْتَبُ شَهَادَتُهُمْ وَيُسْأَلونَ
 
 ***19. And they make the angels who themselves are servants of the Most
 Gracious [Allah] females. Did they witness their creation? Their
@@ -652,12 +568,8 @@ acts.”*
 Surah al-Zukhruf - Verse 20
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْ شَاءَ الرَّحْمَنُ مَا عَبَدْنَاهُمْ مَا لَهُمْ بِذَلِكَ
-مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَخْرُصُونَ
-  </p>
-</blockquote>
+> وَقَالُوا لَوْ شَاءَ الرَّحْمَنُ مَا عَبَدْنَاهُمْ مَا لَهُمْ بِذَلِكَ
+> مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَخْرُصُونَ
 
 ***20. And they said: “If it had been the Will of the Most Gracious
 [Allah], we should not have worshipped them.” They have no knowledge
@@ -691,18 +603,10 @@ Qur’an:
 Surah al-Zukhruf - Verses 21- 22
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ آتَيْنَاهُمْ كِتَاباً مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ
-  </p>
-</blockquote>
+> أَمْ آتَيْنَاهُمْ كِتَاباً مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَی
-آثَارِهِمْ مُهْتَدُونَ
-  </p>
-</blockquote>
+> بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَی
+> آثَارِهِمْ مُهْتَدُونَ
 
 ***21. Or have We given them any Book before this to which they are
 holding fast?***  
@@ -750,13 +654,9 @@ imitation from their ancestors and forefathers was inaccurate.
 Surah al-Zukhruf - Verse 23
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ مَا أَرْسَلْنَا مِنْ قَبْلِكَ فِي قَرْيَةٍ مِنْ نَذِيرٍ
-إِلَّا قَالَ مُتْرَفُوهَا إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ
-وَإِنَّا عَلَى آثَارِهِمْ مُقْتَدُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ مَا أَرْسَلْنَا مِنْ قَبْلِكَ فِي قَرْيَةٍ مِنْ نَذِيرٍ
+> إِلَّا قَالَ مُتْرَفُوهَا إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ
+> وَإِنَّا عَلَى آثَارِهِمْ مُقْتَدُونَ
 
 ***23. And similarly We sent not a warner before you to any town but the
 luxurious ones among them said: “We found our fathers following a
@@ -806,19 +706,11 @@ religion.
 Surah al-Zukhruf - Verses 24 - 25
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَوَلَوْ جِئْتُكُمْ بِأَهْدَی مِمَّا وَجَدْتُمْ عَلَيْهِ
-آبَاءَكُمْ قَالُوا إِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ
-  </p>
-</blockquote>
+> قَالَ أَوَلَوْ جِئْتُكُمْ بِأَهْدَی مِمَّا وَجَدْتُمْ عَلَيْهِ
+> آبَاءَكُمْ قَالُوا إِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَانْتَقَمْنَا مِنْهُمْ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ
-الْمُكَذِّبِينَ
-  </p>
-</blockquote>
+> فَانْتَقَمْنَا مِنْهُمْ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ
+> الْمُكَذِّبِينَ
 
 ***24. [Their Prophet] said, “[Would you desist from following your
 ancestors’ footsteps] if I bring you better guidance than that which you
@@ -871,24 +763,12 @@ warning to polytheists and disbelievers.
 Surah al-Zukhruf - Verses 26 - 28
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ وَقَوْمِهِ إِنَّنِي بَرَاءٌ مِمَّا
-تَعْبُدُونَ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ وَقَوْمِهِ إِنَّنِي بَرَاءٌ مِمَّا
+> تَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا الَّذِي فَطَرَنِي فَإِنَّهُ سَيَهْدِينِ
-  </p>
-</blockquote>
+> إِلَّا الَّذِي فَطَرَنِي فَإِنَّهُ سَيَهْدِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ
 
 ***26. And [remember] when Abraham (as) said unto his father [his
 paternal uncle, Azar] and his people: “Indeed I dislike what you
@@ -1040,19 +920,11 @@ which is not inconsistent with the aforementioned exegesis.[^11]
 Surah al-Zukhruf - Verses 29- 30
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ مَتَّعْتُ هَؤُلاءِ وَآبَاءَهُمْ حَتَّى جَاءَهُمُ الْحَقُّ
-وَرَسُولٌ مُبِينٌ
-  </p>
-</blockquote>
+> بَلْ مَتَّعْتُ هَؤُلاءِ وَآبَاءَهُمْ حَتَّى جَاءَهُمُ الْحَقُّ
+> وَرَسُولٌ مُبِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَاءَهُمُ الْحَقُّ قَالُوا هَذَا سِحْرٌ وَإِنَّا بِهِ
-كَافِرُونَ
-  </p>
-</blockquote>
+> وَلَمَّا جَاءَهُمُ الْحَقُّ قَالُوا هَذَا سِحْرٌ وَإِنَّا بِهِ
+> كَافِرُونَ
 
 ***29. [Not only I did not destroy polytheists] but also I made them and
 their fathers to enjoy till there came to them the truth (the Holy
@@ -1097,21 +969,13 @@ afflicted with Divine chastisement.
 Surah al-Zukhruf - Verses 31 - 32
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْلا نُزِّلَ هَذَا الْقُرْآنُ عَلَی رَجُلٍ مِنَ
-الْقَرْيَتَيْنِ عَظِيمٍ
-  </p>
-</blockquote>
+> وَقَالُوا لَوْلا نُزِّلَ هَذَا الْقُرْآنُ عَلَی رَجُلٍ مِنَ
+> الْقَرْيَتَيْنِ عَظِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُمْ
-مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ
-بَعْضٍ دَرَجَاتٍ لِيَتَّخِذَ بَعْضُهُمْ بَعْضاً سُخْرِيّاً وَرَحْمَتُ
-رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ
-  </p>
-</blockquote>
+> أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُمْ
+> مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ
+> بَعْضٍ دَرَجَاتٍ لِيَتَّخِذَ بَعْضُهُمْ بَعْضاً سُخْرِيّاً وَرَحْمَتُ
+> رَبِّكَ خَيْرٌ مِمَّا يَجْمَعُونَ
 
 ***31. And they said: “Why is not this Qur’an sent down to some great
 man [in terms of dignity and wealth] of the two towns (Mecca and
@@ -1210,26 +1074,14 @@ him as the Seal of Prophets.
 Surah al-Zukhruf - Verses 33 - 35
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ
-يَكْفُرُ بِالرَّحْمَنِ لِبُيُوتِهِمْ سُقُفاً مِنْ فِضَّةٍ وَمَعَارِجَ
-عَلَيْهَا يَظْهَرُونَ
-  </p>
-</blockquote>
+> وَلَوْلا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ
+> يَكْفُرُ بِالرَّحْمَنِ لِبُيُوتِهِمْ سُقُفاً مِنْ فِضَّةٍ وَمَعَارِجَ
+> عَلَيْهَا يَظْهَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلِبُيُوتِهِمْ أَبْوَاباً وَسُرُراً عَلَيْهَا يَتَّكِئُونَ
-  </p>
-</blockquote>
+> وَلِبُيُوتِهِمْ أَبْوَاباً وَسُرُراً عَلَيْهَا يَتَّكِئُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَزُخْرُفاً وَإِنْ كُلُّ ذَلِكَ لَمَّا مَتَاعُ الْحَيَاةِ الدُّنْيَا
-وَالْآخِرَةُ عِنْدَ رَبِّكَ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَزُخْرُفاً وَإِنْ كُلُّ ذَلِكَ لَمَّا مَتَاعُ الْحَيَاةِ الدُّنْيَا
+> وَالْآخِرَةُ عِنْدَ رَبِّكَ لِلْمُتَّقِينَ
 
 ***33. And were it not that mankind would have become of one community
 [of disbelievers], We would have provided for those who disbelieve in
@@ -1381,19 +1233,11 @@ good],”***[^14]***).***
 Surah al-Zukhruf - Verses 36 - 37
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَنِ نُقَيِّضْ لَهُ شَيْطَاناً فَهُوَ
-لَهُ قَرِينٌ
-  </p>
-</blockquote>
+> وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَنِ نُقَيِّضْ لَهُ شَيْطَاناً فَهُوَ
+> لَهُ قَرِينٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ وَيَحْسَبُونَ أَنَّهُمْ
-مُهْتَدُونَ
-  </p>
-</blockquote>
+> وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ وَيَحْسَبُونَ أَنَّهُمْ
+> مُهْتَدُونَ
 
 ***36. And whosoever turns away blindly from the remembrance of the Most
 Gracious [Allah], We appoint for him a devil to be a companion to
@@ -1446,19 +1290,11 @@ the right path whereas he is in error.
 Surah al-Zukhruf - Verses 38 - 39
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّی إِذَا جَاءَنَا قَالَ يَا لَيْتَ بَيْنِي وَبَيْنَكَ بُعْدَ
-الْمَشْرِقَيْنِ فَبِئْسَ الْقَرِينُ
-  </p>
-</blockquote>
+> حَتَّی إِذَا جَاءَنَا قَالَ يَا لَيْتَ بَيْنِي وَبَيْنَكَ بُعْدَ
+> الْمَشْرِقَيْنِ فَبِئْسَ الْقَرِينُ
 
-<blockquote dir="rtl">
-  <p>
-وَلَنْ يَنْفَعَكُمُ الْيَوْمَ إِذْ ظَلَمْتُمْ أَنَّكُمْ فِي الْعَذَابِ
-مُشْتَرِكُونَ
-  </p>
-</blockquote>
+> وَلَنْ يَنْفَعَكُمُ الْيَوْمَ إِذْ ظَلَمْتُمْ أَنَّكُمْ فِي الْعَذَابِ
+> مُشْتَرِكُونَ
 
 ***38. [Satan’s companionship continues] till when [the sinner on
 Resurrection Day] comes unto Us saying [unto his companion, Satan,]
@@ -1544,5 +1380,4 @@ Chastisement with their company.
 [^14]: 13:11
 
 [^15]: Makhzan al-’Irfan [Exegesis], p.25.
-
 

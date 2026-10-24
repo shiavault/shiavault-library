@@ -4,13 +4,9 @@ Section 16: Effects of the Guidance Revealed
 Surah At-Tawbah – Verse 123
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا الَّذِينَ يَلُونَكُم مِّنَ
-الْكُفَّارِ وَلْيَجِدُوا فِيكُمْ غِلْظَةً ۚ وَاعْلَمُوا أَنَّ اللَّهَ
-مَعَ الْمُتَّقِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا الَّذِينَ يَلُونَكُم مِّنَ
+> الْكُفَّارِ وَلْيَجِدُوا فِيكُمْ غِلْظَةً ۚ وَاعْلَمُوا أَنَّ اللَّهَ
+> مَعَ الْمُتَّقِينَ
 
 **123*****. “O’ you who have Faith! Fight those of the infidels who are
 near to you, and let them find severity in you, and know that Allah is
@@ -50,13 +46,9 @@ heart against the unbelievers, compassionate among themselves…”***
 Surah At-Tawbah – Verse 124
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا مَآ اُنْزِلَتْ سُورَةٌ فَمِنْهُم مَن يَقُولُ أَيُّكُمْ
-زَادَتْهُ هَذِهِ إِيمَاناً فَاَمَّا الَّذِينَ ءَامَنُوا فَزَادَتْهُمْ
-إِيمَاناً وَهُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> وإِذَا مَآ اُنْزِلَتْ سُورَةٌ فَمِنْهُم مَن يَقُولُ أَيُّكُمْ
+> زَادَتْهُ هَذِهِ إِيمَاناً فَاَمَّا الَّذِينَ ءَامَنُوا فَزَادَتْهُمْ
+> إِيمَاناً وَهُمْ يَسْتَبْشِرُونَ
 
 **124*****. “And whenever a Surah is sent down, there are some of them
 (the hypocrites) who say: ‘Which of you did this increase in belief?’.
@@ -104,12 +96,8 @@ those who have Faith, it increases them in belief and they rejoice.”***
 Surah At-Tawbah – Verse 125
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَرَضٌ فَزَادَتْهُمْ رِجْساً إِلَى
-رِجْسِهِمْ وَمَاتُوا وَهُمْ كَافِرُونَ
-  </p>
-</blockquote>
+> وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَرَضٌ فَزَادَتْهُمْ رِجْساً إِلَى
+> رِجْسِهِمْ وَمَاتُوا وَهُمْ كَافِرُونَ
 
 **125*****. “And as for those in whose hearts is a sickness, it (only)
 adds filth to their filth, and they die while they are infidels.”***
@@ -135,12 +123,8 @@ to their filth, and they die while they are infidels.”***
 Surah At-Tawbah – Verse 126
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِي كُلِّ عَامٍ مَرَّةً أَوْ
-مَرَّتَيْنِ ثُمَّ لاَ يَتُوبُونَ وَلاَ هُمْ يَذَّكَّرُونَ
-  </p>
-</blockquote>
+> أَوَلا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِي كُلِّ عَامٍ مَرَّةً أَوْ
+> مَرَّتَيْنِ ثُمَّ لاَ يَتُوبُونَ وَلاَ هُمْ يَذَّكَّرُونَ
 
 **126*****. “Do they not see that they are tried once or twice every
 year? Yet they neither repent, nor do they take admonition.”***
@@ -159,13 +143,9 @@ they neither repent, nor do they take admonition.”***
 Surah At-Tawbah – Verse 127
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَا أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ
-يَرَاكُم مِّنْ أَحَدٍ ثُمَّ انصَرَفُوا ۚ صَرَفَ اللَّهُ قُلُوبَهُم
-بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَا أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ
+> يَرَاكُم مِّنْ أَحَدٍ ثُمَّ انصَرَفُوا ۚ صَرَفَ اللَّهُ قُلُوبَهُم
+> بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
 
 **127*****. “And whenever a Surah is sent down, they look at one
 another, (saying): ‘Does anyone see you?’ Then they turn away. Allah has
@@ -209,12 +189,8 @@ it be contacted to electricity it does not work.
 Surah At-Tawbah – Verse 128
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ جَآءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ
-مَاعَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَؤُوفٌ رَحِيمٌ
-  </p>
-</blockquote>
+> لَقَدْ جَآءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ
+> مَاعَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَؤُوفٌ رَحِيمٌ
 
 **128*****. “There has indeed come to you a messenger from among
 yourselves. Grievous to him is whatever afflicts you; he is full of
@@ -283,12 +259,8 @@ it from the very beginning.
 Surah At-Tawbah – Verse 129
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن تَوَلَّوْا فَقُلْ حَسْبِيَ اللّهُ لآ إِلَهَ إِلاَّ هُوَ عَلَيْهِ
-تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
-  </p>
-</blockquote>
+> فإِن تَوَلَّوْا فَقُلْ حَسْبِيَ اللّهُ لآ إِلَهَ إِلاَّ هُوَ عَلَيْهِ
+> تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
 
 **129*****. “So if they turn away, say: ‘Allah is sufficient for me.
 There is no god but He. In Him I have put my trust and He is the Lord of
@@ -317,5 +289,4 @@ god but He. In Him I have put my trust and He is the Lord of the great
 It was by this high spirit that he conquered the highest peaks of
 dignity, and possessed the greatest rank that a godly human being can
 ever obtain.
-
 

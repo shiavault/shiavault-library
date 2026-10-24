@@ -119,4 +119,3 @@ comparison to one reward of other prayers.
 
 [^1]: Wasa’il ul-Shia
 
-

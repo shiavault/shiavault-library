@@ -1,13 +1,9 @@
 Discourse 40: Three Important and Fate Deciding Traits in the Life of a Person
 ==============================================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، ثَلاَثٌ مَنْ لَمْ يَتُمَّ عَمَلُه:
-وَرَعٌ يَحْجُزُهُ عَنْ مَعَاصِي اللٌّهِ عَزَّ وَجَلَّ وَ خُلْقٌ
-يُدَارِي بِهِ النَّاسِ وَ حِلْمٌ يَرُدُّ بِهِ جَهْلَ الْجَاهِلِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، ثَلاَثٌ مَنْ لَمْ يَتُمَّ عَمَلُه:
+> وَرَعٌ يَحْجُزُهُ عَنْ مَعَاصِي اللٌّهِ عَزَّ وَجَلَّ وَ خُلْقٌ
+> يُدَارِي بِهِ النَّاسِ وَ حِلْمٌ يَرُدُّ بِهِ جَهْلَ الْجَاهِلِ.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! If the following three
 traits are not found within a person, then his actions shall not be
@@ -64,11 +60,7 @@ second-nature of ‘Adalah - justice?
 
 Answer: It is actually very easy to recognize this trait since:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الإِنْسَانَ عَلى نَفْسِهِ بَصِيرَةٌ وَ لَوْ أَلْقى مَعَاذِيرَةٌ.
-  </p>
-</blockquote>
+> إِنَّ الإِنْسَانَ عَلى نَفْسِهِ بَصِيرَةٌ وَ لَوْ أَلْقى مَعَاذِيرَةٌ.
 
 “Surely mankind is witness over his own self even if he puts up
 excuses.”[^1]
@@ -107,11 +99,7 @@ traits through which he acts with tolerance with the people…” 
 As we know, everyone has his or her own taste and style, and normally
 they can be grouped under the following thought:
 
-<blockquote dir="rtl">
-  <p>
-صَاحِبُ الْحَاجَةِ لاَ يُرى إِلاَّ حَاجَتَهُ.
-  </p>
-</blockquote>
+> صَاحِبُ الْحَاجَةِ لاَ يُرى إِلاَّ حَاجَتَهُ.
 
 “The person who has a need will not see anything other than the need
 which he has (and having that fulfilled).”
@@ -173,11 +161,7 @@ all of their crimes were forgotten! It is due to this fact that this
 verse of the Qur’an became manifest during the lifetime of the Prophet
 (S):
 
-<blockquote dir="rtl">
-  <p>
-يَدْخُلُونَ فِي دِينِ اللٌّهِ أَفْواجاً
-  </p>
-</blockquote>
+> يَدْخُلُونَ فِي دِينِ اللٌّهِ أَفْواجاً
 
 “And you see people entering into the faith of Allah inn groups…”
 
@@ -225,11 +209,7 @@ Prophet (S) was not there, then the backwards, ignorant ‘Arab nation and
 the angry, hard-lined ‘Arabs would not have come into the faith of Islam
 and would have been the manifestation of the verse which reads:
 
-<blockquote dir="rtl">
-  <p>
-لاَ نْفَضُّوا مِنْ حَوْلِكَ
-  </p>
-</blockquote>
+> لاَ نْفَضُّوا مِنْ حَوْلِكَ
 
 “…they would have dispersed from around you (Muhammad)…”
 
@@ -245,11 +225,7 @@ as have been mentioned in Majma’ al-Bayan:
 
 1. It has been narrated that the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِِِنَّمَا بُعِثْتُ لاُتَمِّمَ مَكَارِمَ الأَخْلاَقِ.
-  </p>
-</blockquote>
+> إِِِنَّمَا بُعِثْتُ لاُتَمِّمَ مَكَارِمَ الأَخْلاَقِ.
 
 “Surely I was appointed (to a Prophet) only to perfect the noble ethical
 traits.”  
@@ -258,12 +234,8 @@ of the Prophet (S) was to perfect and complete the great ethical values.
 
 2. In another tradition from the same individual we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُ لِيُدْرِكَ بِحُسْنِ خُلْقِهِ دَرَجةَ قَائِمِ
-اللَّيْلِ وَ صَائِمِ النَّهَارِ.
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُ لِيُدْرِكَ بِحُسْنِ خُلْقِهِ دَرَجةَ قَائِمِ
+> اللَّيْلِ وَ صَائِمِ النَّهَارِ.
 
 “Surely the true believer, through his noble ethical traits, shall reach
 to the stage similar to those who stand up in the night (in prayer) and
@@ -271,25 +243,17 @@ fast during the day.”
 
 3. The Prophet (S) has also stated that:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَيْءٍ أَثْقَلَ فِي الْمِيزَانِ مِنْ حُسْنِ الْخُلْقِ.
-  </p>
-</blockquote>
+> مَا مِنْ شَيْءٍ أَثْقَلَ فِي الْمِيزَانِ مِنْ حُسْنِ الْخُلْقِ.
 
 “There is not a single thing which is heavier in the scale of (goods)
 deeds than a good demeanor.”
 
 4. The Prophet (S) has also told us that:
 
-<blockquote dir="rtl">
-  <p>
-أَحَبَّكُمْ إِلـى اللٌّهِ أَحْسَنُكُمْ أَخْلاَقاً أَلْمَوْطُؤنَ
-أَكْنَافاً، أَلَّذِينَ يَأْلَفُونَ وَ يُؤْلِفُونَ. وَ أَبْغَضُكُم
-إِلـى اللٌّهِ أَلْمَشَّاؤُونَ بِالنَّمِيمَةِ، أَلْمُفَرِّقُونَ بَيْنَ
-الإِخَوَانَ، أَلْمُلْتَمِسُونَ لِلْبَرآءِ الْعَثَرَاتِ.
-  </p>
-</blockquote>
+> أَحَبَّكُمْ إِلـى اللٌّهِ أَحْسَنُكُمْ أَخْلاَقاً أَلْمَوْطُؤنَ
+> أَكْنَافاً، أَلَّذِينَ يَأْلَفُونَ وَ يُؤْلِفُونَ. وَ أَبْغَضُكُم
+> إِلـى اللٌّهِ أَلْمَشَّاؤُونَ بِالنَّمِيمَةِ، أَلْمُفَرِّقُونَ بَيْنَ
+> الإِخَوَانَ، أَلْمُلْتَمِسُونَ لِلْبَرآءِ الْعَثَرَاتِ.
 
 “The most beloved of you to Allah is the one who has the best etiquette,
 the most humble and modest, is attracted to other people (due to the
@@ -300,12 +264,8 @@ are free of error.”
 
 5. The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ لَنْ تَسَعُوا النَّاسَ بِأَمْوَالِكُمْ فَسَعُوهُمْ بِـبَسْطِ
-الْوُجُوهِ و حُسْنِ الْخُلْقِ.
-  </p>
-</blockquote>
+> إِنَّكُمْ لَنْ تَسَعُوا النَّاسَ بِأَمْوَالِكُمْ فَسَعُوهُمْ بِـبَسْطِ
+> الْوُجُوهِ و حُسْنِ الْخُلْقِ.
 
 “Surely you can never answer the needs of the people with your wealth,
 thus, answer them through your cheeriness and good demeanor.”[^2]
@@ -313,13 +273,9 @@ thus, answer them through your cheeriness and good demeanor.”[^2]
 6. It has been narrated from Imam Ja’far b. Muhammad as-Sadiq (as) from
 his forefathers that the Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكُم بِحُسْنِ الْخُلْقِ، فَإِنَّ حُسْنِ الْخُلْقِ فِي الْجَنَّةِ
-لاَ مَحَالَةَ، وَ إِيَّاكُمْ وَ سُوءُ الْخُلْقُ، فَإِنَّ سُوءَ
-الْخُلْقِ فِي النَّارِ لاَ مَحَالَةً.
-  </p>
-</blockquote>
+> عَلَيْكُم بِحُسْنِ الْخُلْقِ، فَإِنَّ حُسْنِ الْخُلْقِ فِي الْجَنَّةِ
+> لاَ مَحَالَةَ، وَ إِيَّاكُمْ وَ سُوءُ الْخُلْقُ، فَإِنَّ سُوءَ
+> الْخُلْقِ فِي النَّارِ لاَ مَحَالَةً.
 
 “I advise you to have a good demeanor since surely the person with a
 good demeanor shall necessarily be in Paradise and I advise you to
@@ -329,33 +285,21 @@ negative ethical traits will necessarily be in the Hell-fire.”
 7. Jabir b. ‘Abdullah al-Ansari has narrated from Imam Muhammad b. ‘Ali
 al-Baqir (as) that he said:
 
-<blockquote dir="rtl">
-  <p>
-تَبَسُّمُ الرَّجُلِ فِي وَجْهِ أَخِيهِ حَسَنَةٌ.
-  </p>
-</blockquote>
+> تَبَسُّمُ الرَّجُلِ فِي وَجْهِ أَخِيهِ حَسَنَةٌ.
 
 “A person smiling in the face of his brother is a good deed.”[^3]
 
 8. Imam ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلتَّبَسُّمُ فِي وَجْهِ الْمُؤْمِنِ الْغَرِيبِ مِنْ كَفَّارَةِ
-الذُّنُوبِ.
-  </p>
-</blockquote>
+> أَلتَّبَسُّمُ فِي وَجْهِ الْمُؤْمِنِ الْغَرِيبِ مِنْ كَفَّارَةِ
+> الذُّنُوبِ.
 
 “Smiling in the face of the true believer who is a stranger (in a land
 which is not his home) is a penitence for one's sins.”[^4]
 
 9. It has also been related from Imam ‘Ali b. Abi Talib (as) that:
 
-<blockquote dir="rtl">
-  <p>
-بِشَاشَةُ الْوَجْهِ عَطِيَّةٌ ثَانِيَةٌ.
-  </p>
-</blockquote>
+> بِشَاشَةُ الْوَجْهِ عَطِيَّةٌ ثَانِيَةٌ.
 
 “A cheery face is a second gift.”[^5]
 
@@ -400,12 +344,8 @@ The people replied that they were watching a very strong and powerful
 weightlifter. The Prophet said to them, “Should I not tell you of the
 one who is even stronger than this person?”  The Prophet (S) then said:
 
-<blockquote dir="rtl">
-  <p>
-رَجُلٌ سَـبُّهُ فَحَلُمَ عَنْهُ، فَغَلَبَ نَفْسَهُ، وَ غَلَبَ
-شَيْطَانَهُ وَ شَيْطَانَ صَاحِبُهُ.
-  </p>
-</blockquote>
+> رَجُلٌ سَـبُّهُ فَحَلُمَ عَنْهُ، فَغَلَبَ نَفْسَهُ، وَ غَلَبَ
+> شَيْطَانَهُ وَ شَيْطَانَ صَاحِبُهُ.
 
 “The person who is even stronger than this weightlifter is the one who
 when is cursed or sworn at, is able to show forbearance and is
@@ -414,12 +354,8 @@ Satan while the Satan is alongside him.”
 
 2. Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُمَارِيَنَّ حَلِيماً وَ لاَ سَفِيهاً فَإِنَّ الْحَلِيمَ
-يُقَلِّيكَ وَالسَّفِيهَ يُؤْذِيكَ.
-  </p>
-</blockquote>
+> لاَ تُمَارِيَنَّ حَلِيماً وَ لاَ سَفِيهاً فَإِنَّ الْحَلِيمَ
+> يُقَلِّيكَ وَالسَّفِيهَ يُؤْذِيكَ.
 
 “Never argue with a person who has forbearance nor with a foolish person
 since surely the forbearing person shall take in whatever you tell him
@@ -429,20 +365,16 @@ him.”[^7]
 Hilm (an extreme form of patience) and the Halim in the words of Imam Ja’far b. Muhammad as-Sadiq (as)]
 -------------------------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلْحِلْمُ سِرَاجُ اللٌّهِ يَسْتَضِيءُُ بِهِ صَاحِبُهُ إِلـى
-جَوَارِهِ، وَ لاَ يَكُونُ حَلِيماً إِلاَّ الْـمُؤَيَّدُ بِأَنْوَار
-ِالْمَعْرَفِةِ وَالتَّوْحِيدِ وَالْحِلْمُ يَدُورُ عَلى خَمْسِ
-أَوْجُهُ: أَنْ يَكُونَ عَزِيزاً فَيَذِلُّ، أَوْ يَكُونَ صَادِقاً
-فَيُتَّهَمْ، أَوْ يَدْعُوا إِلـى الْحَقِّ فَيَسْتَخَفَّ بِهِ ، أَوْ
-أَنْ يُؤذَى بِلاَجُرْمٍ، أَوْ أَنْ يُطَالِبَ بِالْحَقِّ
-فَيُخَالِفُوهُ، فَإِذَا أَتَيْتَ كُلاَّ مِنْهَا حَقَّهُ فَقَدْ
-أَصَبْتَ. وَ قَابِلَ السَّفِيَةَ بِالإِِْعَرَاضِ عَنْهُ وَتَرْكِ
-الْجَوَابِ يَكُنِ النَّاسُ أَنْصَارَكَ، لأَنَّ مَنْ جَاوَبَ
-السَّفِيَّهَ: فَكَأَنَّهُ قَدْ وَضَعَ عَلى النَّارِ.
-  </p>
-</blockquote>
+> أَلْحِلْمُ سِرَاجُ اللٌّهِ يَسْتَضِيءُُ بِهِ صَاحِبُهُ إِلـى
+> جَوَارِهِ، وَ لاَ يَكُونُ حَلِيماً إِلاَّ الْـمُؤَيَّدُ بِأَنْوَار
+> ِالْمَعْرَفِةِ وَالتَّوْحِيدِ وَالْحِلْمُ يَدُورُ عَلى خَمْسِ
+> أَوْجُهُ: أَنْ يَكُونَ عَزِيزاً فَيَذِلُّ، أَوْ يَكُونَ صَادِقاً
+> فَيُتَّهَمْ، أَوْ يَدْعُوا إِلـى الْحَقِّ فَيَسْتَخَفَّ بِهِ ، أَوْ
+> أَنْ يُؤذَى بِلاَجُرْمٍ، أَوْ أَنْ يُطَالِبَ بِالْحَقِّ
+> فَيُخَالِفُوهُ، فَإِذَا أَتَيْتَ كُلاَّ مِنْهَا حَقَّهُ فَقَدْ
+> أَصَبْتَ. وَ قَابِلَ السَّفِيَةَ بِالإِِْعَرَاضِ عَنْهُ وَتَرْكِ
+> الْجَوَابِ يَكُنِ النَّاسُ أَنْصَارَكَ، لأَنَّ مَنْ جَاوَبَ
+> السَّفِيَّهَ: فَكَأَنَّهُ قَدْ وَضَعَ عَلى النَّارِ.
 
 “Forbearance is the torch of Allah and through the light of it, the
 person is brought closer to His presence. A person can never become a
@@ -485,19 +417,11 @@ knowledge coupled with forbearance - meaning that level and form of
 knowledge with is coupled with humility and humbleness and which keeps
 the traits of pride, self-conceit and arrogance far away from a person.
 
-<blockquote dir="rtl">
-  <p>
-صد هزاران حلم دارند اين گروه                  هر يكى حلمى از آنها چو
-كوه
-  </p>
-</blockquote>
+> صد هزاران حلم دارند اين گروه                  هر يكى حلمى از آنها چو
+> كوه
 
-<blockquote dir="rtl">
-  <p>
-حلمشان بيدار را ابله كند                          زيرك صد چشم را گمره
-كند
-  </p>
-</blockquote>
+> حلمشان بيدار را ابله كند                          زيرك صد چشم را گمره
+> كند
 
  
 
@@ -514,5 +438,4 @@ the traits of pride, self-conceit and arrogance far away from a person.
 [^6]: Tafsir-e-Namuna, vol. 19, pg. 110
 
 [^7]: al-Kafi, vol. 2, pg. 301
-
 

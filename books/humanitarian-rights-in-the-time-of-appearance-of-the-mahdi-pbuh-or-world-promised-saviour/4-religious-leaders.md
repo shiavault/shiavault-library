@@ -64,7 +64,6 @@ ethical principles. "Treat people in such a way and live amongst them in
 such a manner that if you die the will weep over you; alive they crave
 for your company."(35)
 
-
 **V.- Guiding Principles from the Book of Ben Sira**
 
 Duties toward the Poor and the Oppressed (36)
@@ -130,7 +129,6 @@ sin is wedged in between selling and buying.
 If a person is not steadfast in the fear of the Lord, his house will be
 quickly overthrown.
 
-
 **VI.-Final Comments**
 
 By faith we believe and understand that the worlds were created by the
@@ -191,7 +189,6 @@ yourself." On these two commandments hang all the law and the prophets."
 Are we moving forward towards the Mahdi (Pbuh) or Saviour of the World
 most important concern?
 
-
 **VI.-Bibliography**
 
 -The Qur´an, a new translation, M.A.S. Abdel Haleem, 2004, Oxford
@@ -215,7 +212,6 @@ enfrentamiento entre Oriente y Occidente, 2004 Tusquets Editores, S.A.,
 Barcelona.
 -Al Hambali, Ibn Rayab, Compendio de Conocimiento y Sabidur?a, 2004,
 International Islamic Publising House, Riyadh.
-
 
 **VII.-Notes
 **
@@ -264,5 +260,4 @@ Assembly Resolution 36/55, 25th of November, 1981.
 (40) Sirach 14, 5-6; 8 ; 13
 (41) Sirach 26, 29; 27, 2-3
 (42) Matthew 22, 36-40
-
 

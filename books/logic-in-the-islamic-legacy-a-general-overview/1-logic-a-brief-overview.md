@@ -11,4 +11,3 @@ centuries.
 "*Mantiq* " is the Arabic equivalent of "logic". It points to the
 practice of defending the tenets of Islam through rational argument.
 
-

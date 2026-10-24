@@ -12,4 +12,3 @@ Arifa Hudda for the editing of this work. Publication of this book was
 made possible by the Ahlul Bayt Society
 ([www.12imams.com](http://www.12imams.com)).
 
-

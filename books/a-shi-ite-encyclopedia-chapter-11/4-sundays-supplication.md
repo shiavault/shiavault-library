@@ -104,7 +104,6 @@ Chittick,
 Published by: The Muhammadi Trust of Great Britain and Northern
 Ireland,
 
-
 **Tuesdays' Supplication**
 
 In the name of God, the all merciful, the compassionate.
@@ -165,5 +164,4 @@ The Psalms of Islam, Arabic-English, Translated by: William C.
 Chittick,
 Published by: The Muhammadi Trust of Great Britain and Northern
 Ireland,
-
 

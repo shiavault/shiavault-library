@@ -10,15 +10,9 @@ which is not truthfulness, is permitted to coexist with it; just as
 happened with Adam, who believed Iblis when he lied because Iblis had
 sworn a false oath to him and there was no lying in Adam. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلَمْ نَجِدْ لَهُ عَزْمًا
-  </p>
-</blockquote>
+> وَلَمْ نَجِدْ لَهُ عَزْمًا
 
 ***We did not find in him any determination.*** (20:115)
-
 
 because Iblis originated something previously unknown, both outwardly
 and inwardly. Iblis will be gathered with his lie, and he will never
@@ -35,18 +29,10 @@ regarding the truthfulness ‘Isa (‘a) on the Day of Reckoning. He
 indicated it by referring to the guiltlessness of the truthful men of
 the community of Muhammad, saying,
 
-
-<blockquote dir="rtl">
-  <p>
-هَذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ
-  </p>
-</blockquote>
-
-
+> هَذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ
 
 ***This is the day when their truth shall benefit the truthful ones.***
 (5:119)
-
 
 The Commander of the Faithful' said, 'Truthfulness is the sword of
 Allah in His heaven and earth: it cuts everything it touches.' If you
@@ -55,20 +41,13 @@ truthfulness of what you mean and the conclusion of your claim. Then
 gauge them both according to a scale from Allah, as if you were present
 on the Day of Resurrection. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ
-  </p>
-</blockquote>
+> وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ
 
 ***And measuring out on that day will be just.*** (7:8)
-
 
 If there is balance and harmony in what you mean, then your claim is
 successful, and your truthfulness is in the fact that the tongue does
 not differ from the heart, nor the heart from the tongue. The truthful
 person with this description is like the angel who draws out his soul;
 if the soul is not drawn out, then what is it to do?
-
 

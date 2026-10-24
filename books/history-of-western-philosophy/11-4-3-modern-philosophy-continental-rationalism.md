@@ -60,4 +60,3 @@ Realistic philosophy, metaphysics and psychology, science of values
 His greatest influence was in education: ends are ethics: instruction,
 apperception, interest are important in education
 
-

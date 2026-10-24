@@ -215,4 +215,3 @@ Daru 'l-Kutubi 'l-Islamiyya, 1388 AH) p. 542.
 only: on gold and silver coins; on camels, cows and sheep; on wheat,
 barley, dates and raisins.
 
-

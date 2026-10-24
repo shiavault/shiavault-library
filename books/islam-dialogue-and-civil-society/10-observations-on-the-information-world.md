@@ -159,4 +159,3 @@ created for the scientists and thinkers of the whole Muslim world to
 work together. All Muslims must firmly join hands to further the cause
 of development in their societies.
 
-

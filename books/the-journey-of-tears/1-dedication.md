@@ -165,4 +165,3 @@ Muhammad Husayn R. Walji
 Please remember these deceased individuals with the recitation of a
 Suratul **Fateha** for their reward.
 
-

@@ -535,4 +535,3 @@ exception of polygamy and concubinage (Ali 1988:69a, 104a). He deals
 with polygamy and concubinage in brief notes on important topics (All
 1988:139a, 140a). They are all dealt with in detail in Tabataba'i.
 
-

@@ -44,4 +44,3 @@ turned into a masjid (mosque) and now it is one of the most famous
 masajid of Najaf al-Ashraf (Iraq) where Islamic scholars discuss and
 deliver lectures on Islamic knowledge.
 
-

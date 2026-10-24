@@ -40,4 +40,3 @@ in order to oppose the injustices done to women in Muslim society:
 In our country we are in need of a women's movement, but we need a pure
 Islamic movement and not a dark and gloomy European movement.33
 
-

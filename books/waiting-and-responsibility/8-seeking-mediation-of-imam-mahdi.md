@@ -300,4 +300,3 @@ point becomes crystal clear from the above-mentioned incident - Imam
 
 " O master " we ask the intercession through you to God"
 
-

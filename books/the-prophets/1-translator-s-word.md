@@ -58,4 +58,3 @@ from (name1) from (name2) ...etc: This is called the chain of the
 speech or saying and points out the names of people that carried the
 tidings or news.
 
-

@@ -478,4 +478,3 @@ himself said that he was not going to reveal it [to anyone] until he
 meets his Lord! Therefore, [Ibn al-A’tham] is solely responsible for
 what he has said. And Allah knows best about this.
 
-

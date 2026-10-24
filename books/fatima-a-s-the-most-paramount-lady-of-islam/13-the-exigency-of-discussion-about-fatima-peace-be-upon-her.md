@@ -55,4 +55,3 @@ Fatima (peace be upon her) has got a grand grandeur, not well known in
 her own era and even in our own time. Our hobby and concerns do not
 allow us discover and apply the aspects of her noble character.
 
-

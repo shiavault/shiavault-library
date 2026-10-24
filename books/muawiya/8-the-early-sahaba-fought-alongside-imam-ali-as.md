@@ -57,7 +57,6 @@ and fought with 'Ali (as) whilst we have a defender of Mu'awiya writing
 some 1400 years later raising question marks on Imam Ali (as)'s position
 and defending and showering praise on his enemies.
 
-
 **Abu Sulaiman's refusal to describe Mu'awiya as a baghi**
 
 We then witness Abu Sulaiman's deviant interpretation of the Qur'an so
@@ -185,7 +184,6 @@ entire rebellion was baseless since the Qur'an would not support it. He
 had no text to justify his actions he was on the path of falsehood and
 had led his supporters down that same slippery road of deviance.
 
-
 **Mu'awiya's rebellion was in violation to the Sunnah of Rasulullah
 (s)**
 
@@ -248,7 +246,6 @@ Rightful Imam and oppose him, are deemed as Qasatheen. The duty was to
 obey Imam Ali (as) and yet Mu'awiyah and his supporters refused to
 recognise his authority and give him bayya, hence they were the
 Qasatheen.
-
 
 **Mu'awiya was amongst the Fajireen (perpetrators of debauchery)**
 
@@ -344,5 +341,4 @@ shall insha'allah present a list of references where you can locate this
 episode. We then leave it to readers to decided whether there is indeed
 any basis for Abu Sulaiman's claims that this event never happened, did
 all these historians get it wrong?
-
 

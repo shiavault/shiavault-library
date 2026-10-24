@@ -76,4 +76,3 @@ Hajj'.'
 "Be truthful and righteous. A truthful and righteous man is a partner in
 the wealth of others."
 
-

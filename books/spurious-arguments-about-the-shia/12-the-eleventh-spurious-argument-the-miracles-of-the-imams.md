@@ -19,4 +19,3 @@ uninterrupted chains of narrators. Refer to Ihqaqul-Haq vol. 11,12, and
 mentioned in Sunni books. It includes some of those mentioned in Sunni
 books with names of the books, the number of the pages and the edition.
 
-

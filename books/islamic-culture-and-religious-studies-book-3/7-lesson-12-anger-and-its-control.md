@@ -162,7 +162,6 @@ by the Prophet (s.a.w.w.) and Aimmah (a.s)).
 6. What is the worst punishment on the Day of Judgment and how can a
 Believer save himself from it?
 
-
 **Lesson 13 : Family Life in Islam**
 
 The family is one of the most important and sacred institutions in
@@ -387,5 +386,4 @@ by Allah (S.W.T.).
 In furthering our study of this most basic root of religion (Imamat),
 we will now look at the position of Aimmah (a.s.) and their attitude
 against unjust Caliphs.
-
 

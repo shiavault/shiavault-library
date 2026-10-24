@@ -60,4 +60,3 @@ blessed chapter to my very last breath’.”[^2]
 [^2]: Ibn Hishām, Al-Sīrah al-Nabawiyyah, vol. 2, p. 150; Tārīkh-e
 Payāmbar-e Islām, p. 373.
 
-

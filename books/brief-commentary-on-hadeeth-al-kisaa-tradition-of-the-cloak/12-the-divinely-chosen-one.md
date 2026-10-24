@@ -1,12 +1,8 @@
 The Divinely Chosen One
 =======================
 
-<blockquote dir="rtl">
-  <p>
-فَدَنَا الحُسَينُ ( عليه السَّلام ) نحوَ الكِساءِ وَ قالَ : أَلسَّلامُ
-عَلَيكَ يا جَدَّاهُ يا مَنِ أختارَهُ اللهُ
-  </p>
-</blockquote>
+> فَدَنَا الحُسَينُ ( عليه السَّلام ) نحوَ الكِساءِ وَ قالَ : أَلسَّلامُ
+> عَلَيكَ يا جَدَّاهُ يا مَنِ أختارَهُ اللهُ
 
 **Al-Husain then approached towards the cloak and said, "Peace be upon
 you, O grandfather! Peace be upon you, O he whom Allah has chosen!**
@@ -94,5 +90,4 @@ A’laq* where Angel Jibrael (AS) recited the first few verses of this
 chapter: *"Read: In the* *Name of your Lord who created, He created man
 from a clot. Read: And your Lord is the Most Generous Who taught to
 write by the pen, Taught man what he knew not".*
-
 

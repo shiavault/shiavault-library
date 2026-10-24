@@ -4,11 +4,7 @@ Part 4: Exegesis of the Qur`an through the Qur`an
 With complete clarity, the Qur\`an introduces itself as the explainer of
 all things, when it states:
 
-<blockquote dir="rtl">
-  <p>
-وَ نَزَّلْــنَا عَلَيْكَ الْكِتَابَ تِـبْـيَاناً لِّكُلِِّ شَيْءٍ
-  </p>
-</blockquote>
+> وَ نَزَّلْــنَا عَلَيْكَ الْكِتَابَ تِـبْـيَاناً لِّكُلِِّ شَيْءٍ
 
 ***“And We have sent down The Book (Qur\`an) upon you (Muhammad) as a
 clarifier of all things.”***[^1]
@@ -24,11 +20,7 @@ At this point, we present an example of this concept.
 In Suratul Shu’ara (26), verse 173, Allah (awj) states the following in
 regards to the nation of (prophet) Lut (‘a):
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمْطَرْنَا عَلَيْهِمْ مَّطَراً فَسَآءَ مَطَرُ الْمُـنْذَرِينَ
-  </p>
-</blockquote>
+> وَ أَمْطَرْنَا عَلَيْهِمْ مَّطَراً فَسَآءَ مَطَرُ الْمُـنْذَرِينَ
 
 ***“And We rained down upon them a rain, and evil was the rain on those
 warned.”***
@@ -39,11 +31,7 @@ of water or was it a raining down of stones? Therefore to clear this
 issue up, another verse of the Qur\`an, which removes the ambiguity of
 the verse quoted above, is referred to in which we are told:
 
-<blockquote dir="rtl">
-  <p>
-...وَ أَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّنْ سِجِّيلٍ...
-  </p>
-</blockquote>
+> ...وَ أَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّنْ سِجِّيلٍ...
 
 ***“…and We rained down upon them stones made from baked clay…***”[^2]
 
@@ -55,13 +43,9 @@ example.
 
 In one instance in the Qur\`an, we read the following:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ يَنْظُرُونَ إِلاَّ أَنْ يَّأْتِـيَهُمُ اللٌّهُ فِي ظُلَلٍ مِّنَ
-الْغَمَامِ وَالْمَلاَئِكَةُ وَقُضِيَ الأَمْرُ وَإِلـى اللٌّهِ تُرْجَعُ
-الأُمُورُ
-  </p>
-</blockquote>
+> هَلْ يَنْظُرُونَ إِلاَّ أَنْ يَّأْتِـيَهُمُ اللٌّهُ فِي ظُلَلٍ مِّنَ
+> الْغَمَامِ وَالْمَلاَئِكَةُ وَقُضِيَ الأَمْرُ وَإِلـى اللٌّهِ تُرْجَعُ
+> الأُمُورُ
 
 ***“Will they wait until Allah comes to them in canopies of clouds, with
 Angels (in His train) and the question is (thus) settled? But to Allah
@@ -82,13 +66,9 @@ the meaning of the ‘coming of the Lord’ as actually referring to the
 coming of ‘the commandments’ of Allah (awj) for the punishment and
 retribution and (also) the orders and prohibitions from Him:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ يَنْــظُرُونَ إِلاَّ أَنْ تَأْتِيَهُمُ الْمَلاَئِكَةُ أَوْ
-يَأْتِيَ أَمْرُ رَبِّكَ كَذٌلِكَ فَعَلَ الَّذِينَ مِنْ قَبْلِهِمْ
-وَمَا ظَلَمَهُمُ اللٌّهُ وَلٌكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> هَلْ يَنْــظُرُونَ إِلاَّ أَنْ تَأْتِيَهُمُ الْمَلاَئِكَةُ أَوْ
+> يَأْتِيَ أَمْرُ رَبِّكَ كَذٌلِكَ فَعَلَ الَّذِينَ مِنْ قَبْلِهِمْ
+> وَمَا ظَلَمَهُمُ اللٌّهُ وَلٌكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ
 
 ***“Do they wait until the Angels come to them, or there comes the
 Command of your Lord (for their doom)? So did those who went before them
@@ -131,5 +111,4 @@ the Qur\`an should be clear to the reader.
 [^2]: Suratul Hijr (15), Verse 74
 
 [^3]: Suratul Baqarah (2), Verse 210
-
 

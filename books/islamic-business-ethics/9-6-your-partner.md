@@ -200,4 +200,3 @@ an idol, or even a human being who misleads others.
 [^5]: At-Tusi,Tahdhibu ‘l-Ahkam,vol.6,p.303 as quoted in Wasa’ilu
 ‘sh-Shi’ah,vol.18,p.100
 
-

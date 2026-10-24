@@ -74,7 +74,6 @@ Mu'awiyah (275) and have made a survey of all her personality as a
 social and political genius in the forthcoming pages we will discuss
 some of her fine qualities.
 
-
 **Part 5 : The Qualities and Characteristics of 'A'ishah**
 
 **'A'ishah's generosity**
@@ -525,5 +524,4 @@ al-Bukhari quotes this narration with some addition and says: They
 asked: "What was she covered in?" He said: "She was in a Turkish tent
 with a cover, which was between us and her, and I saw her in a red
 dress."(306)
-
 

@@ -1,11 +1,7 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 This research is dedicated to the master
 
@@ -18,7 +14,5 @@ Muhammad b. ‘Abd Allah,
 
 sallallahu ‘alaihi wa alihi
 
-
 .
-
 

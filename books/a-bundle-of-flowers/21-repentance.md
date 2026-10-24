@@ -50,4 +50,3 @@ Bihar-ul-Anwar, vol. 92, p. 216
 
 [^1]: Bismillah, here is a short form of /bismillah-ir-rahman-ir-rahim/
 
-

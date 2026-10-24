@@ -187,4 +187,3 @@ Traditions?
  4. Have the names of the twelve Imams appeared in Sunni sources?  
  5. What other way exists to prove the twelve Imams?
 
-

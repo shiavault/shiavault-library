@@ -123,13 +123,9 @@ have to use their senses and purely theoretical wisdom to do so. Such
 photography is not limited to life. As Jalal-addin Muhammad Molawi
 (Rumi) says:
 
-<p dir="rtl">
 تا بدانــی کآسمانهــای سمـی هســت عکــس مدرکات آدمـــی
-</p>
 
-<p dir="rtl">
 گر نبودی عکـس آن سرّ و سُــرور پس نخوانـدی ايزدش دارالغـــرور
-</p>
 
 *(So that you may realize that the high skies are reflections of man's
 internal cognitions and perceptions. Don't you know that God has called
@@ -188,10 +184,8 @@ made through consultation are undertaken by the man to carry out.
 In the following verse of the Qur’an, the word “qavvam” refers to the
 fourth possibility mentioned above:
 
-<p dir="rtl">
 الرجال قوامون علی النساء بما فضل الله بعضهم علی بعض و بما انفقوا من
 اموالهم فالصالحات قائنات حافظات للغيب بما حفظ الله
-</p>
 
 ***“Men are overseers and maintainers of women because God has made one
 of them excel to the other, and because the husbands provide the living.
@@ -243,10 +237,8 @@ he may be.
 The verse then discusses cases in which women show disobedience and what
 should be done about it:
 
-<p dir="rtl">
 و اللاتي تخافون نشوزهن فغظوهن و اهجروهن في المضاجع و اضربوهن فان
 اطعنكم فلا تبغوا عليهن سبيلا
-</p>
 
 ***“And of those women you fear may be rebellious admonish; [if that
 does not work] banish them to their couches, [and if that proves also
@@ -309,12 +301,10 @@ In the Nahj-ul-balaghah, three points of difference has pointed out
 between men and women: imperfect faith, imperfect intelligence and
 different inheritance.
 
-<p dir="rtl">
 معاشر الناس ان النساء نواقص الايمان نواقص الحظوظ نواقص العقول. فاما
 نقصان ايمانهن فقعودهن عن الصلوة والصيام فی ايام حيضهن و اما نقصان عقولهن
 فشهادة امر اتين کشهادة الرجل الواحد و اما نقصان حظوظهن فمواريثهن علی
 الانصاف من مواريث الرجال
-</p>
 
 *“O people, women have imperfect faith, imperfect inheritance and
 imperfect intelligence. The reason for their imperfect faith is that
@@ -380,9 +370,7 @@ testimonies are as valuable as men's.
 3- Imperfect inheritance: Men and women inherit differently. As the Holy
 Qur’an says:
 
-<p dir="rtl">
 لوصيکم الله فی اولادکم للذکر مثل حظ الانثيين
-</p>
 
 ***“About your offspring, God advises you to give men twice as much as
 women.”( 4:11)***
@@ -401,5 +389,4 @@ As a general conclusion, we can say that all three imperfections
 mentioned about women are accountable and justifiable. Imam Ali has
 referred to superficial differences between men and women; he does not
 consider them to be truly different in character.
-
 

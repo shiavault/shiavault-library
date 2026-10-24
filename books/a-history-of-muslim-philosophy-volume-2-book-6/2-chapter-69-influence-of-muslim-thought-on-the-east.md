@@ -1494,4 +1494,3 @@ Edinburgh, 1820.
 
 [^49]: Richard Winstedt, op. cit., p. 144.
 
-

@@ -1,13 +1,9 @@
 Section Nineteen
 ================
 
-<blockquote dir="rtl">
-  <p>
-وَأَسْأَلُهُ أَنْ يُبَلِّغَنِي الْمَقامَ الْـمَحْمُودَ لَكُمْ عِنْدَ
-اللّهِ، وَأَنْ يَرْزُقَنِي طَلَبَ ثارِي مَعَ إِمامِ هُدىً ظَاهِرٍ
-نَاطِقٍ بِالْحَقِّ مِنْكُمْ
-  </p>
-</blockquote>
+> وَأَسْأَلُهُ أَنْ يُبَلِّغَنِي الْمَقامَ الْـمَحْمُودَ لَكُمْ عِنْدَ
+> اللّهِ، وَأَنْ يَرْزُقَنِي طَلَبَ ثارِي مَعَ إِمامِ هُدىً ظَاهِرٍ
+> نَاطِقٍ بِالْحَقِّ مِنْكُمْ
 
 “And I ask Him (Allah) that He enables me to reach to the honoured
 station with you in the presence of Allah and that He grant me the
@@ -41,5 +37,4 @@ Karbala’. This Imam **will** come and will take the revenge for his
 family who were wronged and one of the Du’as of each true believer
 should be that he is present and fighting **with** the Imam rather than
 **against** the Imam.
-
 

@@ -184,4 +184,3 @@ companions to be killed before Hussain's martyrdom,
 
 *    (His visage stately, with no flaw")*
 
-

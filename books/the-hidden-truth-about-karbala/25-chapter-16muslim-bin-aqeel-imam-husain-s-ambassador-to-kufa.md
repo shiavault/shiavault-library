@@ -371,7 +371,7 @@ Battle of the Camel (al-Jamal) during his Caliphate. Hani commanded
 great respect among people and was a known supporter of the Ahlul Bayt
 (a.s.). The killing of Muslim ibn Aqeel and Hani Ibn Urwa took place on
 the day of Arafa, Tuesday the ninth of Thul Hijjah, in the year 60 AH.
-Some writers claim that it was Wednesday, the 10<sup>th</sup> of Thul
+Some writers claim that it was Wednesday, the 10th of Thul
 Hijjah. The earlier account of al-Mas’udi in Murooj ath-Thahab and of
 other writers is considered more authentic. On the very day when  
 

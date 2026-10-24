@@ -40,4 +40,3 @@ Philosophical justice means that even if the sick screams and moans,
 give him the bitter medicine that he needs and do the surgery which is
 for his good.
 
-

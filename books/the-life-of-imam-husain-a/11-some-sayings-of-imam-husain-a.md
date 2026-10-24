@@ -82,7 +82,7 @@ people…”**[4]**
 
 15 – His Eminence said, “He is commanded to speak about these bounties
 of religion that Allah had
-given.”<sup>(</sup>**[5]**<sup>)\\ (</sup>**[6]**<sup>)</sup>
+given.”(**[5]**)\\ (**[6]**)
 
 16 – His Eminence said, “Death with honor is better than a life of
 degradation.”**[7]**

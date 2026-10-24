@@ -220,7 +220,6 @@ Prophet himself has shown that the tradition, hadith, known as the
 hadith al-thaqalayn which all sects of Islam accept, refers specifically
 to this matter of succession.
 
-
 **The Qur'an as a Document of Prophethood**
 
 The Qur'an refers on several occasions to the fact that it is the word
@@ -268,5 +267,4 @@ In another verse, the testimony of angels is added to that of God's:
 But God testifies concerning that which he has revealed to you; He has
 revealed it in His knowledge; and the Angels also testify. And God is
 sufficient witness [IV:166].
-
 

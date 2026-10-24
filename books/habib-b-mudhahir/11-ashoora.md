@@ -14,4 +14,3 @@ preached and advised them. He warned them of committing such a crime.
 All Imam Husayn's efforts were in vain. Satan led Yazeed's fighters
 astray. So, they forgot Allah.
 
-

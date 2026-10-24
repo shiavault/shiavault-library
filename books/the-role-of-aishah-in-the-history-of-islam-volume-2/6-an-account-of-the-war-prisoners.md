@@ -562,4 +562,3 @@ A'tham, too, says that this young man was from Kufah and of the house of
 Majashi'. His hands were cut off by a servant of 'A'ishah and killed by
 him.
 
-

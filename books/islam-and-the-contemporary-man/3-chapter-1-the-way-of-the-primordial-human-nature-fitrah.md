@@ -75,13 +75,9 @@ desires—that are one’s true needs. It is the fulfillment of these
 inherent needs that begets felicity and happiness. In His Book, God
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَٰلِكَ الدِّينُ
-الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَٰلِكَ الدِّينُ
+> الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
 
 ***“So set your heart on the religion as a people of pure faith, the
 origination of God***[^2] ***according to which He originated
@@ -116,12 +112,8 @@ perfection, and felicity. Human nature is equipped with the special
 apparatus that can direct one on the natural and innate path to
 fulfilling one’s true interests; God’s Book affirms this:
 
-<blockquote dir="rtl">
-  <p>
-وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
-أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا
-  </p>
-</blockquote>
+> وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ
+> أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا
 
 ***“By the soul and Him who fashioned it, and inspired it with
 discernment between its virtues and vices: one who purifies it is
@@ -144,19 +136,11 @@ the guidance of the primordial human nature, which reflects the will of
 God, the Exalted. It is for this reason that the Noble Qur’an declares
 the enactment of laws as the prerogative of God:
 
-<blockquote dir="rtl">
-  <p>
-إِنِ الْحُكْمُ إِلَّا لِلَّهِ
-  </p>
-</blockquote>
+> إِنِ الْحُكْمُ إِلَّا لِلَّهِ
 
 ***“…Judgment belongs only to God…”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ
-  </p>
-</blockquote>
+> وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ
 
 ***“…But who is better than God in judgment for a people who have
 certainty.”***[^7]
@@ -719,13 +703,9 @@ immutable. The latter—consisting of those regulations based on human
 nature and his essential qualities—is referred to as the *shari‘ah*
 (Divine dispensation), the avenue to human felicity:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ
-الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ
+> الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
 
 ***“So set your heart on the religion as a people of pure faith, the
 origination of God according to which He originated mankind; there is no
@@ -738,12 +718,8 @@ mutable regulations in light of the immutable principles and in response
 to the differing circumstances of time and place. These regulations are
 not technically considered part of the *shari‘ah*:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْۖ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْۖ
 
 ***“O you who have faith! Obey God and obey the Apostle and those vested
 with authority among you…”***[^11]
@@ -1036,12 +1012,8 @@ claim that the post-Islam human being is not in need of Divine
 Dispensation, especially considering Qur’an’s assertion that Islam
 subsumes the essence of all previous Divine revelations:
 
-<blockquote dir="rtl">
-  <p>
-نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ
-إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ
-  </p>
-</blockquote>
+> نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ
+> إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ
 
 ***“Noah and which We have also revealed to you, and which We had
 enjoined upon Abraham, Moses and Jesus…”***[^13]
@@ -1051,39 +1023,23 @@ final religion in His Book as *submission*, explaining that this was
 also the religion of Abraham and that it is the only acceptable faith,
 which no one may reject:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ ۗ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ ۗ
 
 ***“Indeed the only religion before God is Islam [Submission]…”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
-  </p>
-</blockquote>
+> وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
 
 ***“Should anyone follow a religion other than Islam, it shall never be
 accepted from him…”***[^15]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِلَّةَ أَبِيكُمْ
-إِبْرَاهِيمَ
-  </p>
-</blockquote>
+> وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِلَّةَ أَبِيكُمْ
+> إِبْرَاهِيمَ
 
 ***“He has…not burdened you with any hardship in the religion, the faith
 of your father, Abraham…”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ
 
 ***“A faithful man or woman may not, when God and His Apostle have
 decided on a matter, have an option in their matter…”***[^17]
@@ -1100,12 +1056,8 @@ Could one reasonably contend that the Noble Prophet’s guidance to the
 religion he introduced was merely a recommendation and argue that by the
 verse,
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
-اللَّهِ وَخَاتَمَ النَّبِيِّينَ
-  </p>
-</blockquote>
+> مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
+> اللَّهِ وَخَاتَمَ النَّبِيِّينَ
 
 ***“Muhammad…is the Apostle of God and the Seal of the
 Prophets…”***[^18]**,**
@@ -1133,12 +1085,8 @@ duty should be performed in the first place.
 
 Another possible interpretation of the verse,
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
-اللَّهِ وَخَاتَمَ النَّبِيِّينَ
-  </p>
-</blockquote>
+> مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ
+> اللَّهِ وَخَاتَمَ النَّبِيِّينَ
 
 ***“Muhammad…is the Apostle of Allah and the Seal of the
 Prophets…”***[^19]
@@ -1168,11 +1116,7 @@ the primordial human nature, on the necessity of abiding by the Truth,
 warning that disobedience to the Truth will lead to nothing but
 perversion:
 
-<blockquote dir="rtl">
-  <p>
-فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ ۖ
-  </p>
-</blockquote>
+> فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ ۖ
 
 ***“So what is there after the truth except error…”***[^20]
 
@@ -1191,22 +1135,14 @@ immune from error and nullification. Furthermore, the Qur’an explicitly
 reserves for God the authority to decree law, categorically shunning the
 possibility of anyone else sharing in His authority:
 
-<blockquote dir="rtl">
-  <p>
-إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا
-إِيَّاهُ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ
-لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا
+> إِيَّاهُ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ
+> لَا يَعْلَمُونَ
 
 ***“Judgment belongs only to God. He has commanded you to worship none
 except Him…”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-اخْتَلَفْتُمْ فِيهِ مِنْ شَيْءٍ فَحُكْمُهُ إِلَى اللَّهِ ۚ
-  </p>
-</blockquote>
+> اخْتَلَفْتُمْ فِيهِ مِنْ شَيْءٍ فَحُكْمُهُ إِلَى اللَّهِ ۚ
 
 ***“What ever thing you may differ about, its judgment is with
 God…”***[^23]
@@ -1326,5 +1262,4 @@ Dynasty. [trans.]
 [^23]: Surah al-Shawra 42:10.
 
 [^24]: Surah al-Jathiyah 45:16-19.
-
 

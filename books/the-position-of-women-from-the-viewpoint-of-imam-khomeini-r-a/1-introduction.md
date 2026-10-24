@@ -218,4 +218,3 @@ and a number of secondary sources.
 [^6]: - Fatima, the daughter of the Prophet and wife of Imam \`Ali, also
 known as Fatima Zahra.
 
-

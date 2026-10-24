@@ -10,13 +10,9 @@ invited him to temptation and [the pleasures of] this world, so they
 preferred it and displayed hatred towards us.
 
 > 1ـ أشَدُّ النّاسِ عَمىً: مَنْ عَمِيَ عَنْ حُبِّنا وفَضْلِنا،
-<blockquote dir="rtl">
-  <p>
-وَناصَبَنا العَداوَةَ بِلا ذَنْب سَبَقَ مِنّا إلَيْهِ إلاّ أنّا
-دَعَوْناهُ إلَى الحَقِّ، ودَعاهُ سَوانا إلَى الفِتْنَةِ والدُّنيا، فَ
-آثَرُوها، ونَصَبُوا العَداوَةَ لَنا.
-  </p>
-</blockquote>
+> وَناصَبَنا العَداوَةَ بِلا ذَنْب سَبَقَ مِنّا إلَيْهِ إلاّ أنّا
+> دَعَوْناهُ إلَى الحَقِّ، ودَعاهُ سَوانا إلَى الفِتْنَةِ والدُّنيا، فَ
+> آثَرُوها، ونَصَبُوا العَداوَةَ لَنا.
 
 2. Sometimes the blind one arrives at his goal.
 
@@ -26,10 +22,5 @@ preferred it and displayed hatred towards us.
 within himself.
 
 > 3ـ مَنْ عَمِيَ عَمّا بَيْنَ يَدَيْهِ غَرَسَ الشَّكَّ بَيْنَ
-<blockquote dir="rtl">
-  <p>
-جَنْبَيْهِ.
-  </p>
-</blockquote>
-
+> جَنْبَيْهِ.
 

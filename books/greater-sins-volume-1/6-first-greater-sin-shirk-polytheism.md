@@ -1432,4 +1432,3 @@ Qalbe Salīm by the same author.
 
 [^23]: al-Kāfi
 
-

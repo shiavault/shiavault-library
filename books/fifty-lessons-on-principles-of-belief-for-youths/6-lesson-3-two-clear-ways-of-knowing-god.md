@@ -109,4 +109,3 @@ seemed available to you except the kindness of God, the Almighty? (Write
 or tell about it briefly).  
  3. Why is this way called the closest way?
 
-

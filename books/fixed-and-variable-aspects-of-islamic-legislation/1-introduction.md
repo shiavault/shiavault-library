@@ -76,9 +76,7 @@ this clear understanding of the nature of Islamic legislation, Al-Balagh
 Foundation has decided to publish this book, which is small in size, but
 rich in content. All praise is due to Allah, the Lord of the Worlds.
 
-
 Al-Balagh Foundation
-
 
 **Islam and the Pre-Islamic Period of Ignorance \`Jahiliyya'**
 
@@ -346,5 +344,4 @@ civilization.
 Let us now consider the Qur'anic declaration and analyses on a
 Jahiliyya society, and the confirmation of this description, by reports
 and statistics that portray those deteriorating conditions.
-
 

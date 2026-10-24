@@ -665,4 +665,3 @@ found in the rocks of the world. They were few in number but priceless
 in value; to be expressed, not by quantity but only by quality, and that
 quality was sublime.
 
-

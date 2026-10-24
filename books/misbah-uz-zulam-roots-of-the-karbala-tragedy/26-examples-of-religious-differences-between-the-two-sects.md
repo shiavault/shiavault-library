@@ -74,4 +74,3 @@ Amirul Mo-mineen (a.s.) as a “judge who judges by the four scrolls” is
 very much appropriate. All his successors also are seen to be fully
 qualified for this title. And why shouldn’t it be so?
 
-

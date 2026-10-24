@@ -167,4 +167,3 @@ and the earth, “O servants of Allah! Wear the dress of grief and sorrow,
 and mourn, for the son of Muhammad (S) lies beheaded, oppressed and
 subdued.”
 
-

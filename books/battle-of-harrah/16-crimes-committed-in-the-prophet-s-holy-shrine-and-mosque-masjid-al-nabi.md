@@ -92,4 +92,3 @@ vol. 1, p. 137.
 
 [^6]: Ibn Qutayba, Al-Imāma wa al-Siyāsa, vol. 1, p. 220.
 
-

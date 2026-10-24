@@ -237,4 +237,3 @@ blind in the Day of Reckoning.”[^22]
 
 [^22]: Mi‘raj al-Sa‘adah (chapter of repentance) ,p. 553.
 
-

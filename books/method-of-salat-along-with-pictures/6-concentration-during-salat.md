@@ -22,4 +22,3 @@ was praying to his Lord, they managed to pull the arrow out. After Imam
 and asked those around him as to what had happened. The people replied
 that while he was praying, they removed the arrow from his leg!
 
-

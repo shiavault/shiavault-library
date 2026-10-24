@@ -374,4 +374,3 @@ among these nations shalt thou find no ease, neither shall the sole of
 thy foot have rest; but the Lord shall thee a trembling heart, and
 falling of eyes, and sorrow of Mind" (Deut. 28: 64-65)
 
-

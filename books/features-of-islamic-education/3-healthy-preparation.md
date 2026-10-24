@@ -167,7 +167,6 @@ aesthetic values in order to have strong belief i Allah, and provides an
 opportunity for real and ever last in pleasures and joys, It calls for
 airing love and harmony within morally permitted fields.
 
-
 **Who Is Responsible For Education?**
 
 Civilization gradually developed with time, and many types of social
@@ -346,7 +345,6 @@ directives and guidelines. It strives for arriving at fruitful results
 in the field of personal conduct and observance of Islamic laws, when
 conforming to Islamic teachings.
 
-
 **Some Suggestions For Parents and Children**
 
 The directives concerning education in Islam are many and the ways for
@@ -492,5 +490,4 @@ the glorious path of the Prophet Muhammad (s.a.w.) and his infallible
 Household. Ameen.
 
 Praise be to Allah, Lord of the worlds.
-
 

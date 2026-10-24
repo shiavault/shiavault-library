@@ -15,14 +15,9 @@ presence”.
 5. The keeping of promises, adhering to contracts and covenants, and
 repayment of debts. All these are mandatory. God says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ
 
 ***O you who believe! Fulfill the obligations…...(5:1)***
 
 6. The forgiving of any debt owed to one by a person unable to repay.
-
 

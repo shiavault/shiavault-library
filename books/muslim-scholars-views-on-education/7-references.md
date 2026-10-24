@@ -180,4 +180,3 @@ Tehran:Kharazmi Publications Corporation.
 Zamiri, M. A. (1995). History of Iran and Islam Education. (5th ed.).
 Shiraz: Rahgosha.
 
-

@@ -35,11 +35,7 @@ Eating and Taking Rest for God's Sake!
 
 According to the guideline given by the Holy Prophet (s) to Abu Dhar:
 
-<blockquote dir="rtl">
-  <p>
-"يا ابا ذر، لتكن لك في كل شيء نية صالحة، حتى في النوم والأكل"
-  </p>
-</blockquote>
+> "يا ابا ذر، لتكن لك في كل شيء نية صالحة، حتى في النوم والأكل"
 
 "O Abu Dhar! You should have pure intention in all your deeds, even in
 (lawful) eating and drinking."[^1]
@@ -240,11 +236,7 @@ The Shaykh would frequently use the following phrase in his talks:
 "Whoever is with Allah, Allah will be with him."[^3] Whoever works
 wholeheartedly for God, God will be for him. He would say:
 
-<blockquote dir="rtl">
-  <p>
-من كان لله كان الله له"
-  </p>
-</blockquote>
+> من كان لله كان الله له"
 
 "You be for God, He and His angels will be for you."
 
@@ -260,11 +252,7 @@ The Shaykh regarded enjoyment of special Divine Guidance as one of the
 most significant blessings of sincerity. Accordingly, by virtue of the
 verse,
 
-<blockquote dir="rtl">
-  <p>
-(والذين جاهدوا فينا لنهدينهم سبلنا)
-  </p>
-</blockquote>
+> (والذين جاهدوا فينا لنهدينهم سبلنا)
 
 (And those who strive in Our cause -We will certainly guide them)
 (al-Ankabut: 69), he expounded the idea as follows:
@@ -304,11 +292,7 @@ self-centrism and becomes God-Oriented, his tasks turn Divine and his
 acts get the Divine fragrance; and that have a sign which is revealed in
 the words of Imam al-Sajjad (a):
 
-<blockquote dir="rtl">
-  <p>
-"وما أطيب طعم حبك"
-  </p>
-</blockquote>
+> "وما أطيب طعم حبك"
 
 "How pleasant is the flavor of your love!"[^5]
 
@@ -370,11 +354,7 @@ obedience of God will not reduce his worldly life; rather, obedience to
 God will provide him with the eternal pure life as well as the worldly
 blessings of this life:
 
-<blockquote dir="rtl">
-  <p>
-(من كان يريد ثواب الدنيا فعند الله ثواب الدنيا والآخرة)
-  </p>
-</blockquote>
+> (من كان يريد ثواب الدنيا فعند الله ثواب الدنيا والآخرة)
 
 (Whoever desires reward in the life of this world, then (he should know)
 with Allah is the reward of this life as well as that of the Hereafter.)
@@ -446,5 +426,4 @@ any of the Infallible either.
 
 [^8]: See "Eating and Taking Rest for the Sake of God!" Chapter Four,
 Part 3.
-
 

@@ -354,4 +354,3 @@ impossibility of divine omniscience.
 Whatever view is taken of the argument from future facts, then, the
 argument from foreknowledge must be abandoned.
 
-

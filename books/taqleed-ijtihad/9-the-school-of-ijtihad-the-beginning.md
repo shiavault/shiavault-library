@@ -83,4 +83,3 @@ throwing Prophet Ibrahim (as) to a huge fire.
 [^2]: Khutabat Bahawalpur by Dr. Muhammad Hameed Ullah, p 118, 120,
 Journal of Islamic Research Council, Islamabad
 
-

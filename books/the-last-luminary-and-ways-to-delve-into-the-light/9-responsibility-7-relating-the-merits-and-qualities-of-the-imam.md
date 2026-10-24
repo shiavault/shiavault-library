@@ -14,14 +14,10 @@ Satan.
 
 Imam Musa b. Ja’far al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ الْمُؤْمِنَينِ يَلْتَقِيَانِ فَيَذْكُرَانِ اللٌّهَ ثُمَّ
-يَذْكُرَانِ فَضْلَنَا أَهْلَ الْبَيْتِ فَلاَ يَبْقـى عَلـى وَجْهِ
-إِبْلِيسَ مُضْغَةُ لَحْمٍ إِلاَّ تَخَدَّدُ حَـتَّى إِنَّ رُوحَهُ
-لَتَسْتَغِيثُ مِنْ شِدَّةِ مَا يَجِدُ مِنَ الأَلَمِ
-  </p>
-</blockquote>
+> وَ إِنَّ الْمُؤْمِنَينِ يَلْتَقِيَانِ فَيَذْكُرَانِ اللٌّهَ ثُمَّ
+> يَذْكُرَانِ فَضْلَنَا أَهْلَ الْبَيْتِ فَلاَ يَبْقـى عَلـى وَجْهِ
+> إِبْلِيسَ مُضْغَةُ لَحْمٍ إِلاَّ تَخَدَّدُ حَـتَّى إِنَّ رُوحَهُ
+> لَتَسْتَغِيثُ مِنْ شِدَّةِ مَا يَجِدُ مِنَ الأَلَمِ
 
 “Indeed when two believers meet one another and remember Allah and then
 mention the greatness of us the Ahlul Bayt (as), no flesh remains on the
@@ -31,12 +27,8 @@ out due to the severity of the pain (he feels).”[^1]
 In a tradition from Imam ‘Ali b. Husain as-Sajjad (as), it is stated
 that:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمَّا حَقُّ ذِي الْمَعْرُوفِ عَلَيْكَ فَأَنْ تَشْكُرَهُ وَ
-تَذْكُرَ مَعْرُوفَهُ وَ تَنْشُرَ لَهُ الْمَقَالَةَ الْحَسَنَةَ
-  </p>
-</blockquote>
+> وَ أَمَّا حَقُّ ذِي الْمَعْرُوفِ عَلَيْكَ فَأَنْ تَشْكُرَهُ وَ
+> تَذْكُرَ مَعْرُوفَهُ وَ تَنْشُرَ لَهُ الْمَقَالَةَ الْحَسَنَةَ
 
 “As for the right of the person who has done good to you over you, it is
 that you should thank him, remember his favor and spread (to others)
@@ -45,5 +37,4 @@ good words about him.”[^2]
 [^1]: al-Kafi, vol. 2, pg. 188, no. 7
 
 [^2]: Tuhaf al-’Uqul, pg. 265; Makarim al-Akhlaq, pg. 459
-
 

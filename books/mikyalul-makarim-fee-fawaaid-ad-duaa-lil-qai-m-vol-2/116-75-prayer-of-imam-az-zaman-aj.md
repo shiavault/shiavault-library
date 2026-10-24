@@ -58,15 +58,11 @@ oppressing me if You punish me due to my sin, but if You forgive and
 have mercy on me, verily You are the Openhanded and Generous. O the
 Generous. O the Generous…
 
-<blockquote dir="rtl">
-  <p>
-وَجْهِ الْمُكَابَرَةِ وَلاَ الْخُرُوجِ عَنْ عُبُودِيَّتِكَ وَلاَ
-الْجُحُودِ لِرُبُوبِيَّتِكَ وَلَكِنْ اَطَعْتُ هَوَايَ وَاَزَلَّنِي
-الشَّيْطَانُ فَلَكَ الْحُجَّةُ عَلَيَّ وَالْبَيَانُ فَإِنْ
-تُعَذِّبْنِي فَبِذُنُوبِي غَيْرَ ظَالِمٍ وَإِنْ تَغْفِرْ لِي
-وَتَرْحَمْنِي فَإِنَّكَ جَوَادٌ كَرِيمٌ يَا كَرِيمُ يَا كَرِيمُ.
-  </p>
-</blockquote>
+> وَجْهِ الْمُكَابَرَةِ وَلاَ الْخُرُوجِ عَنْ عُبُودِيَّتِكَ وَلاَ
+> الْجُحُودِ لِرُبُوبِيَّتِكَ وَلَكِنْ اَطَعْتُ هَوَايَ وَاَزَلَّنِي
+> الشَّيْطَانُ فَلَكَ الْحُجَّةُ عَلَيَّ وَالْبَيَانُ فَإِنْ
+> تُعَذِّبْنِي فَبِذُنُوبِي غَيْرَ ظَالِمٍ وَإِنْ تَغْفِرْ لِي
+> وَتَرْحَمْنِي فَإِنَّكَ جَوَادٌ كَرِيمٌ يَا كَرِيمُ يَا كَرِيمُ.
 
 (recite till you are out of breath)
 
@@ -168,14 +164,10 @@ god, except Allah, the High and the Great. Glory be to Allah, the Lord
 of the seven skies and the seven earths and what is in them and what is
 between them and the Lord of the Great Arsh.
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلَهَ إِلاَّ اللَّهُ الْحَلِيمُ الْكَرِيمُ لاَ إِلَهَ إِلاَّ
-اللَّهُ الْعَلِيُّ الْعَظِيمُ سُبْحَانَ اللَّهِ رَبِّ السَّمَاوَاتِ
-السَّبْعِ وَرَبِّ الاَرَضِينَ السَّبْعِ وَمَا فِيهِنَّ وَمَا
-بَيْنَهُنَّ وَرَبِّ الْعَرْشِ الْعَظِيمِ.
-  </p>
-</blockquote>
+> لاَ إِلَهَ إِلاَّ اللَّهُ الْحَلِيمُ الْكَرِيمُ لاَ إِلَهَ إِلاَّ
+> اللَّهُ الْعَلِيُّ الْعَظِيمُ سُبْحَانَ اللَّهِ رَبِّ السَّمَاوَاتِ
+> السَّبْعِ وَرَبِّ الاَرَضِينَ السَّبْعِ وَمَا فِيهِنَّ وَمَا
+> بَيْنَهُنَّ وَرَبِّ الْعَرْشِ الْعَظِيمِ.
 
 Note and Conclusion: Sayyid Ibne Tawoos, has mentioned a similar prayer
 in Prayers of fulfillment of needs on Friday eve and he says: Prayers of
@@ -189,5 +181,4 @@ Sajdah and recite two hundred times: Yaa rabbi, Yaa rabbi…and ask
 whatever you need.
 
 [^1]: Makarimul Akhlaq, Tabarsi, Pg. 339-340
-
 

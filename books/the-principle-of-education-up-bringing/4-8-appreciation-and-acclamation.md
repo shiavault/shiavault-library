@@ -27,7 +27,6 @@ Allah, even the small children of believers have an extremely high
 stature ,"62 In this context, there is still another saying of the Holy
 Prophet: -
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 61. Wasail ash-Shia', Vol:15, Page: 195
 Bihar-ul-Anwa'r, Vol:23, Page: 114
@@ -101,7 +100,6 @@ bestowing us with many other enlightenments for our thought and percept,
 also gave this divine guidance that we must decorate our beloveds with
 names, elegantly carved as emeralds; so that, when these innocent buds,
 in the garden of our
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 66. Waail ash-Shia', Vol: 15, Page: 198.
@@ -351,5 +349,4 @@ her mother be honoured and dignified!79
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 79. Wasail ash-Shia', Vol:7, Page: 199.
-
 

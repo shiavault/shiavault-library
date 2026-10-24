@@ -260,7 +260,5 @@ Who was it that Moses and Jesus spoke of when they said: God will place
 this words on his tongue, the revelation for him not being as it was for
 Moses, on stone tablets.
 
-
 THE END
-
 

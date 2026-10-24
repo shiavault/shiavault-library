@@ -40,4 +40,3 @@ enjoys none of the effectiveness and activity of the thing represented.
 This difference between the idea and reality is the difference between
 quiddity and existence, as described in Part 2 of this work.
 
-

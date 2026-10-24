@@ -23,11 +23,7 @@ There are only two instances in the Qur’an which allude to inauspicious
 days - verse 19 of Suratul Qamar and verse 16 of Suratul Fussilat - and
 which narrate the story of the people of 'Ad:
 
-<blockquote dir="rtl">
-  <p>
-فَأَرْسَلْنَا عَلَيْهِمْ رِيْحاً صَرْصَراً فِي أََيَّامٍ نَحِسَاتٍ
-  </p>
-</blockquote>
+> فَأَرْسَلْنَا عَلَيْهِمْ رِيْحاً صَرْصَراً فِي أََيَّامٍ نَحِسَاتٍ
 
 ***“So We sent on them a furious wind in unlucky days.”***[^1]
 
@@ -35,11 +31,7 @@ On the other hand, the expression مبارك (blessed) too is observed in
 some of the verses of the Qur’an, as is mentioned in connection with the
 Night of Qadr:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أََنْزَلْنَاهُ فِي لَيلَةٍ مُبَارَكَةٍ…
-  </p>
-</blockquote>
+> إِنَّا أََنْزَلْنَاهُ فِي لَيلَةٍ مُبَارَكَةٍ…
 
 ***“Surely We revealed it on a blessed night…”***[^2]
 
@@ -75,11 +67,7 @@ And therefore, numerous commentators, on the basis of abundant
 traditions, have declared the last Wednesday of the month to be
 inauspicious and refer to it as:
 
-<blockquote dir="rtl">
-  <p>
-أََلأَرْبِعَاءُ لاَ تَدُورُ.
-  </p>
-</blockquote>
+> أََلأَرْبِعَاءُ لاَ تَدُورُ.
 
 “The Wednesday that shall never recur.”
 
@@ -166,11 +154,7 @@ protected from the evils of Monday, should recite Surat Hal Ata in the
 first rak'at of his morning prayer.” The Imam then recited this verse
 from Surat Hal Ata (which bears relation to warding away the evils.)[^9]
 
-<blockquote dir="rtl">
-  <p>
-فَوَقاَهُمُ اللٌّهُ شَرَّ ذٌلِکَ الْيَوْمِ
-  </p>
-</blockquote>
+> فَوَقاَهُمُ اللٌّهُ شَرَّ ذٌلِکَ الْيَوْمِ
 
 “Therefore Allah (s.w.t.) will guard them from the evil of that day and
 cause them to meet with ease and happiness.”
@@ -252,5 +236,4 @@ has been annexed to the adjective.
 a slight abridgment).
 
 [^12]: Tafsir-e-Namuna, vol. 23, pg. 41
-
 

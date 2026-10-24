@@ -1459,4 +1459,3 @@ also Ibn 'Abd Rabbih al-Undulusi, al-'Iqdu'l-Farid, vol. 5 (Beirut:
 
 [^74]: Durant, W., The Story of Civilization, vol. 4, p. 209.
 
-

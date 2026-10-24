@@ -83,4 +83,3 @@ him additionally. The atonement of the covenant is like the atonement
 for the vow, meaning feeding sixty (60) poor people or fasting two
 consecutive months.
 
-

@@ -158,7 +158,6 @@ particular class grouped together with a deliberation; as the time
 elapsed, their scholars who were courtiers worked out an ideology to it.
 Theirs is an invention and Shia's is the religion.
 
-
 G. Many Mistakes:
 
 The writer has made so many mistakes that to point them out one by one
@@ -453,5 +452,4 @@ deliver justice.
 Therefore, the claims although met the acceptance of the people. In
 some cases, this claim furnished an avenue for various revolts and
 scattered upraising.
-
 

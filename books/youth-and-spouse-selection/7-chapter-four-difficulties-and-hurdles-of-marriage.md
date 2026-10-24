@@ -81,12 +81,8 @@ in a man. Now we consider a few of those.
 
 Allah promises:
 
-<blockquote dir="rtl">
-  <p>
-و أنكحوا الأيامي منكم والصالحين من عبادكم و إمائكم إن يكونوا فقراء
-يغنهم الله من فضله والله واسع عليم
-  </p>
-</blockquote>
+> و أنكحوا الأيامي منكم والصالحين من عبادكم و إمائكم إن يكونوا فقراء
+> يغنهم الله من فضله والله واسع عليم
 
 ***“And marry those among you who are single and those*** ***who are fit
 among your male slaves and your female slaves; if they are needy, Allah
@@ -118,17 +114,9 @@ period of youth till the “autumn of life” appeared.
 The Prophet (S) who is the trustee of Allah's mysteries and secrets
 spoke about Allah’s help to the youth as follows:
 
-<blockquote dir="rtl">
-  <p>
-زوجوا أياماكم فإن الله يحسن لهم في أخلاقهم و يوسع لهم في أرزاقهم
-  </p>
-</blockquote>
+> زوجوا أياماكم فإن الله يحسن لهم في أخلاقهم و يوسع لهم في أرزاقهم
 
-<blockquote dir="rtl">
-  <p>
-و يزيدهم في مرواتهم.
-  </p>
-</blockquote>
+> و يزيدهم في مرواتهم.
 
 *“Give spouse to your single ones, because Allah makes their morality
 better (improves it) (under the shadow of marriage)*
@@ -138,17 +126,9 @@ values).”* [^1]
 
 Yet again he says:
 
-<blockquote dir="rtl">
-  <p>
-من ترك التزويج مخافة العيلة فقد ساء الظن بالله. إن الله يقول: إن
-  </p>
-</blockquote>
+> من ترك التزويج مخافة العيلة فقد ساء الظن بالله. إن الله يقول: إن
 
-<blockquote dir="rtl">
-  <p>
-يكونوا فقراء يغنهم الله من فضله.
-  </p>
-</blockquote>
+> يكونوا فقراء يغنهم الله من فضله.
 
 *“The one who forsakes and drops marriage for fear of poverty and
 adversity, indeed he has a bad (negative) opinion and thought about
@@ -167,11 +147,7 @@ Again that magnanimous one says to the youth:
 
 *“Get spouses, as that increases your sustenance.”* [^3]
 
-<blockquote dir="rtl">
-  <p>
-الرزق مع النساء والعيال.
-  </p>
-</blockquote>
+> الرزق مع النساء والعيال.
 
 *“Sustenance is with wives and family.”* [^4]
 
@@ -503,11 +479,7 @@ he addressed Ali (a.s) and said:
 *“How did you find your wife?” The bridegroom lowered his head and
 replied with an innocent modesty:*
 
-<blockquote dir="rtl">
-  <p>
-نعم العون علي طاعة الله.
-  </p>
-</blockquote>
+> نعم العون علي طاعة الله.
 
 *“My wife is a good companion and helper on the way to Allah's
 obedience.”*
@@ -1466,11 +1438,7 @@ reach it.
 
 The Commander of the believers, Hazrat Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-أفضل الاعمال أحمزها.
-  </p>
-</blockquote>
+> أفضل الاعمال أحمزها.
 
 *“The best practices are the most difficult ones.”*
 
@@ -1502,11 +1470,7 @@ very great reward in the hereafter.
 Islam considers the man who struggle for the procurement of the
 sustenance and management for his family as a mujahid (fighter in war):
 
-<blockquote dir="rtl">
-  <p>
-الكاد علي عياله كالمجاهد قي سبيل الله
-  </p>
-</blockquote>
+> الكاد علي عياله كالمجاهد قي سبيل الله
 
 *“The one endeavoring for his family is like a mujahid (warrior) on
 Allah's way.”*
@@ -1575,11 +1539,7 @@ administering matters' and doing the work must be left the sons.
 Finally we present the message containing words of the Prophet (S) who
 said:
 
-<blockquote dir="rtl">
-  <p>
-يا معشر الشباب! عليكم بالباه.
-  </p>
-</blockquote>
+> يا معشر الشباب! عليكم بالباه.
 
 *“Oh youths: You must certainly marry.”*
 
@@ -1637,11 +1597,7 @@ are extremely worthy and valuable.
 
 Imam Ja’far As-Sadiq (a.s) says:
 
-<blockquote dir="rtl">
-  <p>
-من زوج أعزبا كان ممن ينظر الله إليه يوم القيامة.
-  </p>
-</blockquote>
+> من زوج أعزبا كان ممن ينظر الله إليه يوم القيامة.
 
 *“The person who provides a wife for a bachelor, Allah will look at him
 on the justice day*
@@ -1652,11 +1608,7 @@ What beneficence and blessing can be over and above Allah's mercy?
 
 Again the same magnanimous one says:
 
-<blockquote dir="rtl">
-  <p>
-أفضل الشفاعات أن تشفع بين اثنين في نكاح حتي يجمع الله بينهما.
-  </p>
-</blockquote>
+> أفضل الشفاعات أن تشفع بين اثنين في نكاح حتي يجمع الله بينهما.
 
 “*The best of mediations is to become a mediator between two person for
 marriage until Allah unites them together.”*
@@ -1734,5 +1686,4 @@ salary to suffice a simple life.
 
 [^14]: Nahjul Balagha; Subhi Saleh, sermon 108 (last sentence of the
 sermon.)
-
 

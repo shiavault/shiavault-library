@@ -27,8 +27,6 @@ durable peace on the globe.
 I end with the famous prayer taught to us by the Family of the
 Prophet:
 
-
 “*O Allah, You are the peace, from You emanates the peace and to You
 shall the peace return.”*
-
 

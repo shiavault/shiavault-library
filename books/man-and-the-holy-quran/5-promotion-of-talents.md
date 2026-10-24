@@ -38,7 +38,6 @@ spiritual health, but is also injurious to the healthy development of
 body. It may ruin physical health, for it leads to excess which
 basically disturbs all bodily systems.
 
-
 **Development of Soul**
 
 Islam has paid great attention to the development of mental faculties
@@ -194,5 +193,4 @@ It controls man's impulses and directs them to the course of truth and
 morality. Faith makes man, and man builds the world with the power of
 his knowledge. Where faith and knowledge are combined, both man and the
 world are brought to the desired state.
-
 

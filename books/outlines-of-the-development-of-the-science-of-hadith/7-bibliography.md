@@ -66,4 +66,3 @@ The Catalogue of the Tehran University Library.
 
 The Encyclopedia of Islam (English).
 
-

@@ -27,4 +27,3 @@ comes to the prophets sent to the Children of Israel and the forged
 traditions known as “Isra’ili” narrations, which are large in number and
 can never be relied upon.
 
-

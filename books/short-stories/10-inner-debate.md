@@ -79,4 +79,3 @@ right pat. She made up her mind to see her soon. She suddenly felt great
 comfort and relief at this idea. She fell asleep dreaming of the next
 day's meeting and the meaning of true repentance.
 
-

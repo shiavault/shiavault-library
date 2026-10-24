@@ -309,4 +309,3 @@ And may God's Blessings and Salutations with much respect be upon our
 Master Muhammad and his Household. And for us God sufficeth, and He is
 the best disposer of affairs.
 
-

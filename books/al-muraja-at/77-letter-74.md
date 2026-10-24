@@ -278,4 +278,3 @@ page 118, Vol. 2, of his Sahih.
 [^10]: Refer to it in the chapter dealing with rewarding the emissaries
 on page 118, Vol. 2, of Al-Jihad wal-Siyar.
 
-

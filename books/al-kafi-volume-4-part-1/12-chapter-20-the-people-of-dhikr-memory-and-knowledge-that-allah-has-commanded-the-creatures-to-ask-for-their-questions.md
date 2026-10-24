@@ -143,7 +143,6 @@ they would not do what you would ask them, know that they are only
 following their (evil) desires. Who strays more than one who follows his
 desires without guidance from God? . . ." (28:50)
 
-
 **Chapter 21 : Those whom Allah has called people of knowledge they are
 the Imams (a.s.) H 552, Ch. 21, h 1**
 
@@ -167,5 +166,4 @@ Only the people of reason take heed."
 (39:9) 'We are the people of knowledge, the people who and it is our
 enemies who do not know and our followers are the people who take heed
 and are the people of reason.'"
-
 

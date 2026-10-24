@@ -23,4 +23,3 @@ study can give its conductors insight to the faulty axioms within modern
 science, as well as provide a perception of modern day humanity’s latent
 ability to regain harmony with nature.
 
-

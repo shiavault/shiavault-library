@@ -107,17 +107,9 @@ unacceptable to them.
 Regarding severance from the divine plane, Jalāl ad-Dīn Mawlavī
 declares:
 
-<blockquote dir="rtl">
-  <p>
-بشنو از نى چون حكايت مي‌كند از جدايي‌ها شكايت مي‌كند
-  </p>
-</blockquote>
+> بشنو از نى چون حكايت مي‌كند از جدايي‌ها شكايت مي‌كند
 
-<blockquote dir="rtl">
-  <p>
-كـز نيسـتان تا مـرا بُبريده‌اند در نفيرم مرد و زن ناليده‌اند
-  </p>
-</blockquote>
+> كـز نيسـتان تا مـرا بُبريده‌اند در نفيرم مرد و زن ناليده‌اند
 
 *Listen to the reed pipe (humanity) as it tells a story;*
 
@@ -351,13 +343,9 @@ it is clear that the eternal life spoken of by divine religions is the
 
 Many Qur’anic verses attest to the existence of the span of Barzakh:
 
-<blockquote dir="rtl">
-  <p>
-﴿حَتّىٰ اذا جاء اَحَدَهُمُ الموتُ قالَ ربِّ ارجِعُون. لَعَلِّي اَعمَلُ
-صالحا فيما تَرَكتُ، كَلّا اِنَّها كَلِمَةٌ هو قائِلُها و مِن وَرائِهِم
-برزخٌ الى يومِ يُبعَثُون﴾
-  </p>
-</blockquote>
+> ﴿حَتّىٰ اذا جاء اَحَدَهُمُ الموتُ قالَ ربِّ ارجِعُون. لَعَلِّي اَعمَلُ
+> صالحا فيما تَرَكتُ، كَلّا اِنَّها كَلِمَةٌ هو قائِلُها و مِن وَرائِهِم
+> برزخٌ الى يومِ يُبعَثُون﴾
 
 ***“Until, when death comes unto one of them, he says, ‘My Lord! Return
 me! Surely I shall act righteously in that which I have forsook.’ Never!
@@ -368,12 +356,8 @@ According to this verse, it seems that returning to the world is not
 possible after true death. Moreover, between the end of worldly life and
 the Day of Judgment or Qīyāmat there is an intermission called Barzakh.
 
-<blockquote dir="rtl">
-  <p>
-﴿قالوا ربّنا اَمَتَّنا اثنَتَينِ و اَحْيَيتَنا اثنَتَينِ فاعْتَرَفْنا
-بِذُنُوبِنا فَهَل إِلىٰ خُرُوجٍ مِّن سَبيل﴾
-  </p>
-</blockquote>
+> ﴿قالوا ربّنا اَمَتَّنا اثنَتَينِ و اَحْيَيتَنا اثنَتَينِ فاعْتَرَفْنا
+> بِذُنُوبِنا فَهَل إِلىٰ خُرُوجٍ مِّن سَبيل﴾
 
 ***“They shall say, ‘Our Lord! You have caused us two deaths and have
 given us two lives. We confess to our sins, now, is there any escape
@@ -403,12 +387,8 @@ conviction are two resurrections in Barzakh and Qīyāmat.[^13] Their
 worldly life did not cause conviction within them because in their
 earthly life they denied life after death:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِِنَّ هٰؤُلآءِ لَيَقولون. إِنْ هيَ إِلّا مَوتَتُنا الأُولىٰ وَ ما
-نَحنُ بِمُنشَرين﴾
-  </p>
-</blockquote>
+> ﴿إِِنَّ هٰؤُلآءِ لَيَقولون. إِنْ هيَ إِلّا مَوتَتُنا الأُولىٰ وَ ما
+> نَحنُ بِمُنشَرين﴾
 
 ***“Surely these [unbelievers] say: There is nothing but our first death
 and we shall not be revived.”***[^14]
@@ -416,12 +396,8 @@ and we shall not be revived.”***[^14]
 The following verse signifies that the Qur’an regards death as
 transferal from one type of life to another:
 
-<blockquote dir="rtl">
-  <p>
-﴿و لا تقولوا لمَن يُقتَل في سبيل اللهِ امواتٌ، بل احياءٌ و لكن لا
-تشعرون﴾
-  </p>
-</blockquote>
+> ﴿و لا تقولوا لمَن يُقتَل في سبيل اللهِ امواتٌ، بل احياءٌ و لكن لا
+> تشعرون﴾
 
 ***“And do not call those who have died in the way of Allah dead;
 rather, they are alive but you do not realize.”***[^15]
@@ -500,11 +476,7 @@ a. Some verses denote that in the wake of death humans return to the
 earth and afterwards on the Day of Resurrection, they reemerge from it.
 For example:
 
-<blockquote dir="rtl">
-  <p>
-﴿مِنها خَلَقناكم و فيها نُعيدُكُم و منها نُخرِجُكُم تارةً أُخرىٰ﴾
-  </p>
-</blockquote>
+> ﴿مِنها خَلَقناكم و فيها نُعيدُكُم و منها نُخرِجُكُم تارةً أُخرىٰ﴾
 
 ***“Out of the earth We created you, into it We shall return you, and We
 shall withdraw you from it once more.”***[^18]
@@ -512,12 +484,8 @@ shall withdraw you from it once more.”***[^18]
 b. Other verses explicitly state that on the Day of Resurrection all
 humans shall rise from their graves:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ نُفِخَ في الصُّورِ فَإِذا هُم مِّنَ الاجداثِ إلى رَبِّهِم
-يَنسِلُون﴾
-  </p>
-</blockquote>
+> ﴿وَ نُفِخَ في الصُّورِ فَإِذا هُم مِّنَ الاجداثِ إلى رَبِّهِم
+> يَنسِلُون﴾
 
 ***“And the Horn shall be blown. Then suddenly they shall emerge from
 their graves to hasten towards their Lord.”***[^19]
@@ -529,12 +497,8 @@ c. Various verses speak of parts of the human body in the Ākhirat. These
 verses are also clear denotations of corporeal resurrection since it is
 evident that the immaterial soul does not have body parts:
 
-<blockquote dir="rtl">
-  <p>
-﴿اليَومَ نَختِمُ على افواهِهِم وَ تُكَلِّمُنا أََيديهِم وَ تَشهَدُ
-أَرجُلُهُم بِما كانوا يَكسِبون﴾
-  </p>
-</blockquote>
+> ﴿اليَومَ نَختِمُ على افواهِهِم وَ تُكَلِّمُنا أََيديهِم وَ تَشهَدُ
+> أَرجُلُهُم بِما كانوا يَكسِبون﴾
 
 ***“Today, We seal their mouths and their hands speak to Us and their
 feet bear witness to what they have been earning.”***[^20]
@@ -581,12 +545,8 @@ bodies in form. In order to prove their theory, these experts make use
 of various Qur’anic verses that speak of the creation of a “likeness” of
 each person in the Hereafter:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَوَ لَيسَ الّذي خَلَقَ السَماواتِ و الأَرضَ بِقادرٍ على أن يَخلُقَ
-مِثْلَهُم؛ بَلىٰ وَ هُوَ الخَلّاقُ العَلِيمُ﴾
-  </p>
-</blockquote>
+> ﴿أَوَ لَيسَ الّذي خَلَقَ السَماواتِ و الأَرضَ بِقادرٍ على أن يَخلُقَ
+> مِثْلَهُم؛ بَلىٰ وَ هُوَ الخَلّاقُ العَلِيمُ﴾
 
 ***“Is not He who created the heavens and earth able to create the like
 of them; yes indeed [he can], and He is the Creator (of all), the
@@ -688,5 +648,4 @@ shall refrain from further elaboration.
 ‘Alī Mudarris Zunūzī reformed it. This theory is based upon principles
 such as Basicality of Being [iṣālat-e wujūd], Analogicity of Being
 [tashkīk-e wujūd], and Evolution of Quiddity [ḥarikat-e jawharī].
-
 

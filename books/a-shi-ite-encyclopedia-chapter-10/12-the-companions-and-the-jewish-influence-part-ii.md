@@ -209,4 +209,3 @@ Caliph, Umar. What a historic catastrophe !
 
 To be continued, Insha Allah ...
 
-

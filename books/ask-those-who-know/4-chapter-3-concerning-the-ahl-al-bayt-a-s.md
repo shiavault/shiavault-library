@@ -1646,4 +1646,3 @@ say that which is correct, so that He may make your deeds pure and
 forgive your sins. Whoever obeys Allah and His Prophet has surely
 succeeded"*** (33:71).
 
-

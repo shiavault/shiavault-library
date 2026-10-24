@@ -112,4 +112,3 @@ Siffin and thus became blind. He used to come to the Masjid Kufa every
 day in the morning where he remained busy in prayers and supplications
 and returned home at night.
 
-

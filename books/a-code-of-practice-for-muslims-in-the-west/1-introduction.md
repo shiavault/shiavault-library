@@ -579,4 +579,3 @@ the chapters on "visiting the brethren" (vol. 2, p. 175) and
 [^13]: Al-Hurr al-'Amili, Wasa'ilu 'sh-Shi'a, vol. 12, p. 6ff. Also see
 al-Kulayni, al-Usûl mina 'l-Kafi, vol. 2, p. 636.
 
-

@@ -114,4 +114,3 @@ our own souls and save ourselves. 8
 Trans. Ali Quli Qara’i. Elmhurst, New York: Tahrike Tarsile Qur’an,
 Inc., 2006.
 
-

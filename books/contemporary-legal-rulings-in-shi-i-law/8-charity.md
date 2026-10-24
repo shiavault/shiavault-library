@@ -8,4 +8,3 @@ change it with another currency?**
 A: The money does not become a recommended charity by mere separation.
 (MMS, p. 35, Q72)
 
-

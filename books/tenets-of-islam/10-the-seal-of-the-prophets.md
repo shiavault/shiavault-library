@@ -9,4 +9,3 @@ Messenger of Allah and the seal of the Prophets.[^1]
 
 [^1]: Surah al-Ahzab, 33:40
 
-

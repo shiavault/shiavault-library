@@ -368,4 +368,3 @@ the Salat,” ch. 2, hadīth 15.
 
 [^17]: Sūrah an-Nūr 24:40.
 
-

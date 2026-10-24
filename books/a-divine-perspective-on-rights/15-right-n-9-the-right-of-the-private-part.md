@@ -1,21 +1,13 @@
 Right n. 9: The Right of the Private Part
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-حق الفرج
-  </p>
-</blockquote>
+> حق الفرج
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا حَقُّ فَرْجِكَ فَحِفْظُهُ مِمَّا لا يَحِلُّ لَكَ
-وَالاستِعَانَةُ عَلَيْهِ بغَضِّ الْبَصَرِ - فَإنَّهُ مِنْ أَعْوَنِ
-الأَعْوَانِ- وَكَثْرَةُ ذِكْرِ الْمَوتِ وَالتَّهَدُّدِ لِنَفْسِكَ
-باللهِ وَالتَّخوِيفِ لَهَا بهِ، وَباللهِ الْعِصْمَةُ وَالتَّأْيِيدُ
-وَلا حَوْلَ وَلا قُوَّةَ إلا بهِ.
-  </p>
-</blockquote>
+> وَأَمَّا حَقُّ فَرْجِكَ فَحِفْظُهُ مِمَّا لا يَحِلُّ لَكَ
+> وَالاستِعَانَةُ عَلَيْهِ بغَضِّ الْبَصَرِ - فَإنَّهُ مِنْ أَعْوَنِ
+> الأَعْوَانِ- وَكَثْرَةُ ذِكْرِ الْمَوتِ وَالتَّهَدُّدِ لِنَفْسِكَ
+> باللهِ وَالتَّخوِيفِ لَهَا بهِ، وَباللهِ الْعِصْمَةُ وَالتَّأْيِيدُ
+> وَلا حَوْلَ وَلا قُوَّةَ إلا بهِ.
 
 **And the right of your private part is that you should protect it from
 everything that is unlawful for you and help it by lowering your eyes -
@@ -27,24 +19,16 @@ are possible by God’s help. There is no strength or power but in Him.**
 What Imam Sajjad means by “protecting your private parts” is covering it
 from other people’s eyes. Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ
-فُرُوجَهُنَّ
-  </p>
-</blockquote>
+> وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ
+> فُرُوجَهُنَّ
 
 ***“And say to the believing women that they should lower their gaze and
 guard their modesty.” [The Holy Qur’an, al-Nur 24:31]***
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ آيَةٍ في القُرآنِ في ذِكْرِ الفُروجِ فَهِي مِن الزّنا إلاّ هَذه
-الآيَةَ فإنهَّا مِن النَّظَر.
-  </p>
-</blockquote>
+> كُلُّ آيَةٍ في القُرآنِ في ذِكْرِ الفُروجِ فَهِي مِن الزّنا إلاّ هَذه
+> الآيَةَ فإنهَّا مِن النَّظَر.
 
 *“Every verse in the Qur’an in which the private parts are mentioned is
 with regard to protecting it from fornication, except for this (above)
@@ -120,11 +104,7 @@ Islam Takes the Balanced View
 Islam condemns both extremist views. The Commander of the Faithful has
 considered going to either extreme to be out of ignorance. He said:
 
-<blockquote dir="rtl">
-  <p>
-لا يُرَى الجَاهِلُ إلاّ مُفْرِطاً أو مُفَرِّطاً.
-  </p>
-</blockquote>
+> لا يُرَى الجَاهِلُ إلاّ مُفْرِطاً أو مُفَرِّطاً.
 
 *“The ignorant one will only be seen either exceeding the bounds or
 falling short.”*
@@ -145,13 +125,9 @@ Islam and Marriage
 The Almighty God has expressed one of the main characteristics of
 believing men or women in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ إِلَّا عَلَىٰ أَزْوَاجِهِمْ
-أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ فَمَنِ
-ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ إِلَّا عَلَىٰ أَزْوَاجِهِمْ
+> أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ فَمَنِ
+> ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ
 
 ***“Who abstain from sex, except with those joined to them in the
 marriage bond, or (the captives) whom their right hands possess, - for
@@ -169,11 +145,7 @@ The Noble Prophet of Islam has paid attention to sexual instincts in his
 teachings and has instructed his followers not to follow celibacy. God’s
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أَحَبَّ فِطرَتي فَلْيَسْتَنَّ بِسُنَّتي، وَمِن سُنَّتي النِّكاحُ.
-  </p>
-</blockquote>
+> مَن أَحَبَّ فِطرَتي فَلْيَسْتَنَّ بِسُنَّتي، وَمِن سُنَّتي النِّكاحُ.
 
 *“Whoever likes my nature should follow my traditions. One of my
 traditions is marriage.”*[^5]
@@ -183,13 +155,9 @@ Marriage and Immunity from Sin
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-يا مَعْشَر الشَّبابِ! مَن استَطَاعَ مِنْكُم الباهُ فَلْيَتَزَوَّجْ،
-فَإنَّه أغَضُّ لِلبَصَرِ وَأحْسَنُ لِلفَرْجِ، وَمَنْ لمَ يَسْتَطِع
-مِنكُم فَلْيُدْمِنِ الصَّوْمَ فإنَّ له وَجَاءً.
-  </p>
-</blockquote>
+> يا مَعْشَر الشَّبابِ! مَن استَطَاعَ مِنْكُم الباهُ فَلْيَتَزَوَّجْ،
+> فَإنَّه أغَضُّ لِلبَصَرِ وَأحْسَنُ لِلفَرْجِ، وَمَنْ لمَ يَسْتَطِع
+> مِنكُم فَلْيُدْمِنِ الصَّوْمَ فإنَّ له وَجَاءً.
 
 *“O young people! Any of you who have the means to marry should do so
 since this is the best way to protect your eyes from corrupt and
@@ -204,12 +172,8 @@ Islam encourages its followers to establish a family and considers the
 family to be the most beautiful thing in the sight of God. The Noble
 Prophet of God said:
 
-<blockquote dir="rtl">
-  <p>
-ما بُنِيَ في الإسْلامِ بِناءٌ أَحَبُّ إلى اللهِ عَزَّ وَجَلَّ
-وَأَعَزَُ مِن التَّزْويجِ.
-  </p>
-</blockquote>
+> ما بُنِيَ في الإسْلامِ بِناءٌ أَحَبُّ إلى اللهِ عَزَّ وَجَلَّ
+> وَأَعَزَُ مِن التَّزْويجِ.
 
 *“There is no establishment in Islam dearer to God the Almighty than
 marriage.”*[^7]
@@ -218,16 +182,12 @@ Therefore, we must speed up the establishment of marriage. Imam Sadiq
 narrated that once the Prophet climbed up on the pulpit and after
 praising God said:
 
-<blockquote dir="rtl">
-  <p>
-أيُّها النّاسُ! إنَّ جِبرَئِيلَ أتَاني عَن اللَّطِيفِ الخَبِيرِ
-فَقالَ: إنَّ الأبْكارَ بِمَنْزِلَةِ الثَّمَرِ على الشَّجَرِ: إذا
-أَدْرَكَ ثَمَرَهُ فَلَم يُجْتَنَى أَفْسَدَتْهُ الشَّمْسُ وَنَثَرَتْهُ
-الرِّياحُ، وَكَذلِكَ الأبْكارُ: إذا أدْرَكْنَ ما يُدْرِكُ النِّساءُ
-فَلَيْسَ لَهُنَّ دَواءٌ إلاّ البُعُولَةَ وإلاّ لمَ يُؤْمَنْ عَلَيهِنَّ
-الفَسادُ، فإنَّهُنَّ بَشَرٌ.
-  </p>
-</blockquote>
+> أيُّها النّاسُ! إنَّ جِبرَئِيلَ أتَاني عَن اللَّطِيفِ الخَبِيرِ
+> فَقالَ: إنَّ الأبْكارَ بِمَنْزِلَةِ الثَّمَرِ على الشَّجَرِ: إذا
+> أَدْرَكَ ثَمَرَهُ فَلَم يُجْتَنَى أَفْسَدَتْهُ الشَّمْسُ وَنَثَرَتْهُ
+> الرِّياحُ، وَكَذلِكَ الأبْكارُ: إذا أدْرَكْنَ ما يُدْرِكُ النِّساءُ
+> فَلَيْسَ لَهُنَّ دَواءٌ إلاّ البُعُولَةَ وإلاّ لمَ يُؤْمَنْ عَلَيهِنَّ
+> الفَسادُ، فإنَّهُنَّ بَشَرٌ.
 
 *“O people! Gabriel came to me from the threshold of God and said:
 Virgin girls are like the fruits on a tree. When they ripen, they should
@@ -244,11 +204,7 @@ Marriage Provides a Garment
 The Holy Qur’an has considered the chastity of men and women and has
 said:
 
-<blockquote dir="rtl">
-  <p>
-هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ
-  </p>
-</blockquote>
+> هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ
 
 ***“They are your garments and ye are their garments.” [The Holy Qur’an,
 al-Baqarah 2:187]***
@@ -257,12 +213,8 @@ Our garments cover up our sex organs and protect us against many bad
 conditions such as heat, cold and bad weather. Marriage will help us
 stay clean and pure. The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن أَحَبَّ أنْ يَلْقى اللهَ طاهِراً وَمُطَهَّراً فَليَتَعَفَّفْ
-بِزَوجَةٍ.
-  </p>
-</blockquote>
+> مَن أَحَبَّ أنْ يَلْقى اللهَ طاهِراً وَمُطَهَّراً فَليَتَعَفَّفْ
+> بِزَوجَةٍ.
 
 *“Whoever likes to meet God in a pure and purified state should protect
 his chastity by means of marriage.”*[^8]
@@ -278,13 +230,9 @@ asked: “Are you married?” He said: “O’ Prophet of God! No.” Then the
 Prophet asked: “Are you healthy and wealthy?” He said: “Yes.” Then the
 Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-وَيْحَكَ يا عَكّافُ! تَزَوَّجْ تَزَوَّجْ فإنَّكَ مِن الخَاطِئينَ،
-تَزَوَّجْ وإلاّ فأنْتَ مِن المُذنِبِينَ، تَزَوَّجْ وإلاّ فأنْتَ مِن
-رُهْبانِ النَّصارَى، تَزَوَّجْ وإلاّ فأنْتَ مِن إخْوانِ الشَّياطِينِ.
-  </p>
-</blockquote>
+> وَيْحَكَ يا عَكّافُ! تَزَوَّجْ تَزَوَّجْ فإنَّكَ مِن الخَاطِئينَ،
+> تَزَوَّجْ وإلاّ فأنْتَ مِن المُذنِبِينَ، تَزَوَّجْ وإلاّ فأنْتَ مِن
+> رُهْبانِ النَّصارَى، تَزَوَّجْ وإلاّ فأنْتَ مِن إخْوانِ الشَّياطِينِ.
 
 *“Woe be to you, Akkaf! Marry, marry, for now you are of the wrongdoers!
 Marry, else you will be among the sinners! Marry, else you will be of
@@ -309,12 +257,8 @@ having sexual intercourse with their wives, eating breakfast and
 sleeping at night. Um Salmah realized this and told this to the Prophet
 . The Prophet went to them and asked:
 
-<blockquote dir="rtl">
-  <p>
-أتَرْغَبونَ عَن النِّساءِ؟ إني آتِي النِّساءَ وآكُلُ بِالنَّهارِ
-وأَنامُ بِاللَّيلِ، فَمَنْ رَغَبَ عنْ سُنَّتي فَلَيْسَ مِنّي.
-  </p>
-</blockquote>
+> أتَرْغَبونَ عَن النِّساءِ؟ إني آتِي النِّساءَ وآكُلُ بِالنَّهارِ
+> وأَنامُ بِاللَّيلِ، فَمَنْ رَغَبَ عنْ سُنَّتي فَلَيْسَ مِنّي.
 
 *“Do you abstain from (going to) your wives? I go to my wives, eat in
 the daytime and sleep at night. Whoever forsakes my tradition is not
@@ -327,11 +271,7 @@ Those who do not establish a family may commit adultery and fall into
 disaster. The Holy Qur’an considers adultery to be an evil deed and
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَقْرَبُواْ الزِّنَى إِنَّهُ كَانَ فَاحِشَةً وَسَاء سَبِيلاً
-  </p>
-</blockquote>
+> وَلاَ تَقْرَبُواْ الزِّنَى إِنَّهُ كَانَ فَاحِشَةً وَسَاء سَبِيلاً
 
 ***“Nor come nigh to adultery: for it is a shameful (deed) and an evil,
 opening the road (to other evils).” [The Holy Qur’an, Bani Israil
@@ -436,14 +376,10 @@ West. Now we shall point out some of the traditions regarding the
 punishment of adultery in this world and the Hereafter. Imam Ali
 narrated that he heard God’s Prophet say:
 
-<blockquote dir="rtl">
-  <p>
-في الزِّنا سِتُّ خِصالٍ؛ ثَلاثٌ في الدُّنْيا وَثَلاثٌ في الآخِرَةِ.
-فأمّا اللّواتي في الدُّنيا فَيَذْهَبُ بِنُورِ الوَجْهِ وَيَقْطَعُ
-الرِّزْقَ وَيُسَرِّعُ الفَناءَ. أمّا اللّواتي في الآخِرَةِ فَغَضَبُ
-الرَّبِّ وَسُوءُ الحِسابِ وَالدُّخُولِ (أو الخُلود) في النّارِ.
-  </p>
-</blockquote>
+> في الزِّنا سِتُّ خِصالٍ؛ ثَلاثٌ في الدُّنْيا وَثَلاثٌ في الآخِرَةِ.
+> فأمّا اللّواتي في الدُّنيا فَيَذْهَبُ بِنُورِ الوَجْهِ وَيَقْطَعُ
+> الرِّزْقَ وَيُسَرِّعُ الفَناءَ. أمّا اللّواتي في الآخِرَةِ فَغَضَبُ
+> الرَّبِّ وَسُوءُ الحِسابِ وَالدُّخُولِ (أو الخُلود) في النّارِ.
 
 *“There are six bad effects of adultery. Three of them are in this world
 and the other three are in the Hereafter. The effects of adultery in
@@ -464,11 +400,7 @@ Adultery Brings Poverty and Destruction
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-الزِّنا يُورِثُ الفَقْرَ وَيَدَعُ الدِّيارَ بَلاقِعَ.
-  </p>
-</blockquote>
+> الزِّنا يُورِثُ الفَقْرَ وَيَدَعُ الدِّيارَ بَلاقِعَ.
 
 *“Adultery causes poverty and turns habitations into wasteland.”*[^18]
 
@@ -476,11 +408,7 @@ These are the evil results of adultery. Adultery will also cause sudden
 death. Imam Baqir narrated that it is written in Imam Ali’s book that
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا كَثُرَ الزِّنا مِن بَعْدي كَثُرَ مَوْتُ الفُجأَةِ.
-  </p>
-</blockquote>
+> إذَا كَثُرَ الزِّنا مِن بَعْدي كَثُرَ مَوْتُ الفُجأَةِ.
 
 *“When adultery becomes widespread after me, there will be frequent
 occurrences of sudden deaths.”*[^19]
@@ -492,17 +420,13 @@ Muhammad ibn Ali ibn Al-Husayn quoted on the authority of Dho’aib ibn
 Waqid on the authority of Husayn ibn Zayd that Imam Sadiq quoted on the
 authority of his forefathers on the authority of the Prophet :
 
-<blockquote dir="rtl">
-  <p>
-ألا وَمَنْ زَنى بِامْرَأةٍ مُسْلِمَةٍ أَو يَهُودِيَّةٍ أو
-نَصْرانِيَّةٍ أو مجُوسِيَّةٍ، حُرَّةٍ أو أَمَةٍ، ثُمَّ لم يَتُبْ مِنهُ
-وَماتَ مُصِرّاً عَلَيهِ فَتَحَ اللهُ تَعالى لَهُ في قَبْرِهِ
-ثَلاثَمِائَةِ بَابٍ يَخْرُجُ مِنْها حَيّاتٌ وَعَقَارِبُ وَثُعْبانٌ
-مِنَ النّارِ، فَهُوَ يَحْتَرِقُ إلى يَومِ القِيامَةِ. فإذا بُعِثَ مِن
-قَبْرِه تَأذّى النّاسُ مِن نَتْنِ ريحِهِ فَيُعْرَفُ بِذلِكَ وَبِما
-كانَ يَعْمَلُ في دارِ الدُّنيَا حَتىّ يُؤمَرُ بِه إلى النّارِ.
-  </p>
-</blockquote>
+> ألا وَمَنْ زَنى بِامْرَأةٍ مُسْلِمَةٍ أَو يَهُودِيَّةٍ أو
+> نَصْرانِيَّةٍ أو مجُوسِيَّةٍ، حُرَّةٍ أو أَمَةٍ، ثُمَّ لم يَتُبْ مِنهُ
+> وَماتَ مُصِرّاً عَلَيهِ فَتَحَ اللهُ تَعالى لَهُ في قَبْرِهِ
+> ثَلاثَمِائَةِ بَابٍ يَخْرُجُ مِنْها حَيّاتٌ وَعَقَارِبُ وَثُعْبانٌ
+> مِنَ النّارِ، فَهُوَ يَحْتَرِقُ إلى يَومِ القِيامَةِ. فإذا بُعِثَ مِن
+> قَبْرِه تَأذّى النّاسُ مِن نَتْنِ ريحِهِ فَيُعْرَفُ بِذلِكَ وَبِما
+> كانَ يَعْمَلُ في دارِ الدُّنيَا حَتىّ يُؤمَرُ بِه إلى النّارِ.
 
 *“Beware! If a man commits adultery with a Muslim, Jewish, Christian or
 Magian woman- be it a free woman or a slave - and reaches the time of
@@ -523,11 +447,7 @@ Imam Sajjad has expressed ways to remain chaste. The first thing to do
 is not view forbidden scenes. The second way is to remember death a lot.
 Now let us look at the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَاءتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
-  </p>
-</blockquote>
+> وَجَاءتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنتَ مِنْهُ تَحِيدُ
 
 ***“And the stupor of death will bring Truth (before his eyes): This was
 the thing which thou wast trying to escape!” [The Holy Qur’an, Qaf
@@ -546,15 +466,11 @@ What is Death
 There is a tradition from Imam Sajjad which states that he was asked:
 “What is death?” He replied:
 
-<blockquote dir="rtl">
-  <p>
-)المَوتُ) لِلمُؤْمِنِ كَنَزْعِ ثِيابٍ وَسخَةٍ قَمْلَةٍ وَفَكِّ قُيودٍ
-وَأغْلالٍ ثَقيلَةٍ وَالاسْتِبْدالِ بِأفْخَرِ الثِّيابِ وأطْيَبِها
-وأوْطى المَراكِبِ وَآنَسِ المَنَازِلِ. وَلِلكافِرِ كَخَلْعِ ثِيابٍ
-فاخِرَةٍ وَالنَّقْلِ عَن مَنازِلَ أَنيسَةٍ وَالاسْتِبْدالِ بِأوسَخِ
-الثّيابِ وأخْشَنِها وأوْحَشِ المَنَازِلِ وأعْظَمِ العَذابِ.
-  </p>
-</blockquote>
+> )المَوتُ) لِلمُؤْمِنِ كَنَزْعِ ثِيابٍ وَسخَةٍ قَمْلَةٍ وَفَكِّ قُيودٍ
+> وَأغْلالٍ ثَقيلَةٍ وَالاسْتِبْدالِ بِأفْخَرِ الثِّيابِ وأطْيَبِها
+> وأوْطى المَراكِبِ وَآنَسِ المَنَازِلِ. وَلِلكافِرِ كَخَلْعِ ثِيابٍ
+> فاخِرَةٍ وَالنَّقْلِ عَن مَنازِلَ أَنيسَةٍ وَالاسْتِبْدالِ بِأوسَخِ
+> الثّيابِ وأخْشَنِها وأوْحَشِ المَنَازِلِ وأعْظَمِ العَذابِ.
 
 *“For a believer, death is like removing dirty, lice-infested clothes
 and unfastening heavy chains and locks, in exchange for the most
@@ -570,17 +486,13 @@ Imam Husayn’s Interpretation of Death
 Imam Husayn also presented a beautiful interpretation of death for his
 companions as follows:
 
-<blockquote dir="rtl">
-  <p>
-صَبراً بَني الكِرامِ! فمَا المَوتُ إلاّ قَنْطَرَةٌ تَعْبرُ بِكُم عنِ
-البُؤسِ وَالضَّرّاءِ إلى الجِنانِ الواسِعَةِ وَالنَّعيمِ الدّائِمَةِ،
-فَأيُّكُم يَكْرَهُ أنْ يَنْتَقِلَ مِن سِجْنٍ إلى قَصْرٍ؟ ومَا هُوَ
-لأعْدائِكُم إلاّ كَمَنْ يَنْتَقِلَ مِن قَصْرٍ إلى سِجْنٍ وَعَذابٍ.
-إنَّ أبي حَدَثَني عَن رَسُولِ اللهِ صَلّى اللهُ عَلَيهِ وَآلِهِ أنَّ
-الدُّنْيا سِجْنُ المُؤمِنِ وَجَنَّةُ الكَافِرِ، وَالمَوتُ جِسْرُ
-هؤلاءِ إلى جِنانِهِم وَجِسْرُ هؤلاءِ إلى جَحِيمِهِم.
-  </p>
-</blockquote>
+> صَبراً بَني الكِرامِ! فمَا المَوتُ إلاّ قَنْطَرَةٌ تَعْبرُ بِكُم عنِ
+> البُؤسِ وَالضَّرّاءِ إلى الجِنانِ الواسِعَةِ وَالنَّعيمِ الدّائِمَةِ،
+> فَأيُّكُم يَكْرَهُ أنْ يَنْتَقِلَ مِن سِجْنٍ إلى قَصْرٍ؟ ومَا هُوَ
+> لأعْدائِكُم إلاّ كَمَنْ يَنْتَقِلَ مِن قَصْرٍ إلى سِجْنٍ وَعَذابٍ.
+> إنَّ أبي حَدَثَني عَن رَسُولِ اللهِ صَلّى اللهُ عَلَيهِ وَآلِهِ أنَّ
+> الدُّنْيا سِجْنُ المُؤمِنِ وَجَنَّةُ الكَافِرِ، وَالمَوتُ جِسْرُ
+> هؤلاءِ إلى جِنانِهِم وَجِسْرُ هؤلاءِ إلى جَحِيمِهِم.
 
 *“O children of noble men! Persevere! Death is nothing but a bridge
 transferring you from hardship and suffering to the vast gardens of
@@ -597,13 +509,9 @@ Imam Sadiq’s Interpretation of Death
 
 Imam Sadiq was asked to describe death. He said:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ لِلمُؤمِنِ كَأطْيَبِ رِيحٍ يَشَمُّهُ فَيَنْعَسُ لِطِيبِهِ
-فَيَنْقَطِعُ التَّعَبُ وَالألَمُ كُلُّهُ عَنْهُ، وَلِلكَافِر كَلَسْعِ
-الأفاعِي وَلَدْغِ العَقارِبِ وَأَشَدَّ.
-  </p>
-</blockquote>
+> هُوَ لِلمُؤمِنِ كَأطْيَبِ رِيحٍ يَشَمُّهُ فَيَنْعَسُ لِطِيبِهِ
+> فَيَنْقَطِعُ التَّعَبُ وَالألَمُ كُلُّهُ عَنْهُ، وَلِلكَافِر كَلَسْعِ
+> الأفاعِي وَلَدْغِ العَقارِبِ وَأَشَدَّ.
 
 *“Death for the believer is like breathing in a most pleasant breeze,
 the fragrance of which makes him slumber and all tiredness and pain
@@ -613,13 +521,9 @@ and the sting of scorpions and even more severe.”*
 Imam Ali said the following about the time of death when the curtains to
 the Unseen are drawn aside and the angels enter:
 
-<blockquote dir="rtl">
-  <p>
-فَإنَّكُم لَو قَد عَايَنْتُم مَا قَد عَايَنَ مَن مَاتَ مِنْكُم
-لجَزَعْتُم وَوَهَلْتُم وَسَمِعْتُم وَأطَعْتُم وَلكِنْ مَحْجوبٌ عَنْكُم
-ما قَد عَايَنوا وَقَرِيبٌ ما يُطْرَحُ الحِجابُ.
-  </p>
-</blockquote>
+> فَإنَّكُم لَو قَد عَايَنْتُم مَا قَد عَايَنَ مَن مَاتَ مِنْكُم
+> لجَزَعْتُم وَوَهَلْتُم وَسَمِعْتُم وَأطَعْتُم وَلكِنْ مَحْجوبٌ عَنْكُم
+> ما قَد عَايَنوا وَقَرِيبٌ ما يُطْرَحُ الحِجابُ.
 
 *“If you could see what the dead see, you would be distressed and
 terrified and (as a result) you would hear and obey (God’s words).
@@ -643,12 +547,8 @@ Reckoning Ordeal and sees decrees that did not exist in this
 world.”[^24] God said the following about John the son of Zachariah
 regarding these three days:
 
-<blockquote dir="rtl">
-  <p>
-وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ
-حَيًّا
-  </p>
-</blockquote>
+> وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ
+> حَيًّا
 
 ***“So Peace on him the day he was born, the day that he dies, and the
 day that he will be raised up to life (again)!” [The Holy Qur’an, Maryam
@@ -656,12 +556,8 @@ day that he will be raised up to life (again)!” [The Holy Qur’an, Maryam
 
 It is also said in the Qur’an that Jesus said:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ
-أُبْعَثُ حَيًّا
-  </p>
-</blockquote>
+> وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ
+> أُبْعَثُ حَيًّا
 
 ***“So peace is on me the day I was born, the day that I die, and the
 day that I shall be raised up to life (again)"! [The Holy Qur’an, Maryam
@@ -669,21 +565,13 @@ day that I shall be raised up to life (again)"! [The Holy Qur’an, Maryam
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرُ المَوْتِ يُمِيتُ الشَّهَواتِ.
-  </p>
-</blockquote>
+> ذِكْرُ المَوْتِ يُمِيتُ الشَّهَواتِ.
 
 *“The remembrance of death kills desires.”*[^25]
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-اذْكُرُوا هادِمَ اللَّذّاتِ… الموتُ.
-  </p>
-</blockquote>
+> اذْكُرُوا هادِمَ اللَّذّاتِ… الموتُ.
 
 *“Remember the destroyer of pleasures.”*
 
@@ -696,12 +584,8 @@ lust. It is also important to seek God’s help as the Imam said. If young
 people remember God and consider Him to be watching over all that they
 do, they will succeed and be saved. Joseph said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أُبَرِّئُ نَفْسِي إِنَّ النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ
-مَا رَحِمَ رَبِّيَ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَمَا أُبَرِّئُ نَفْسِي إِنَّ النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ
+> مَا رَحِمَ رَبِّيَ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
 
 ***“Nor do I absolve my own self (of blame): the (human) soul is
 certainly prone to evil, unless my Lord do bestow His Mercy: but surely
@@ -719,14 +603,10 @@ rules and limitations are adhered to, then the Muslim society will be
 pure and there will be security for the family members. This issue has
 been addressed in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِئَةَ
-جَلْدَةٍ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
-كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ
-عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِئَةَ
+> جَلْدَةٍ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِن
+> كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ
+> عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ
 
 ***“The woman and the man guilty of adultery or fornication, - flog each
 of them with a hundred stripes: Let not compassion move you in their
@@ -945,5 +825,4 @@ Tradition no. 11, v.14, p.233.
 
 [^29]: Mabani’ Takmilat al-Minhaj, Tahrir al-Wasilah wa Sharh-i-Lum’ah,
 Section on Fornication.
-
 

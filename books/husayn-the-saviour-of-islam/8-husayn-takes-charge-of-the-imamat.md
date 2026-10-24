@@ -1059,4 +1059,3 @@ to what destination it was bound for. It was a mysterious move divinely
 guided by the will of the Lord, to fulfil the Great Sacrifice destined
 to take place in the seed of Abraham.
 
-

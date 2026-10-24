@@ -21,28 +21,20 @@ Barzakh as examples:
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى‏ إِذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ‏ \*
-لَعَلِّى أَعْمَلُ صَلِحاً فِيمَا تَرَكْتُ كَلَّا إِنَّهَا كَلِمَةٌ
-هُوَ قَآئِلُهَا وَمِن وَرَآئِهِم بَرْزَخٌ إِلَى‏ يَوْمِ يُبْعَثُونَ‏
-  </p>
-</blockquote>
+> حَتَّى‏ إِذَا جَآءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ‏ \*
+> لَعَلِّى أَعْمَلُ صَلِحاً فِيمَا تَرَكْتُ كَلَّا إِنَّهَا كَلِمَةٌ
+> هُوَ قَآئِلُهَا وَمِن وَرَآئِهِم بَرْزَخٌ إِلَى‏ يَوْمِ يُبْعَثُونَ‏
 
 ***Until when death overtakes one of them, he says: Send me back, my
 Lord, send me back; haply I may do good in that which I have left. By no
 means! it is a (mere) word that he speaks; and before them is a barrier
 until the day they are raised. (23:99-100)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُواْ فِى سَبِيلِ اللَّهِ أَمْوَتاً
-بَلْ أَحْيَآءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ‏ \* فَرِحِينَ بِمَآ
-ءَاتَهُمُ اللَّهُ مِنْ فَضْلِهِ وَيَسْتَبْشِرُونَ بِالَّذِينَ لَمْ
-يَلْحَقُواْ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ‏
-  </p>
-</blockquote>
+> وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُواْ فِى سَبِيلِ اللَّهِ أَمْوَتاً
+> بَلْ أَحْيَآءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ‏ \* فَرِحِينَ بِمَآ
+> ءَاتَهُمُ اللَّهُ مِنْ فَضْلِهِ وَيَسْتَبْشِرُونَ بِالَّذِينَ لَمْ
+> يَلْحَقُواْ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ‏
 
 ***And reckon not those who are killed in Allah’s way as dead; nay, they
 are alive (and) are provided sustenance from their Lord; Rejoicing in
@@ -189,23 +181,15 @@ The soul of man is having ranks and personal and existential signs, some
 of which are from the world of command and destiny. Thus the Holy Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّى
-  </p>
-</blockquote>
+> قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّى
 
 ***Say: The soul is one of the commands of my Lord… (17:85)***
 
 Some of it is from the world of creation and forms; hence it is
 mentioned in Quran:
 
-<blockquote dir="rtl">
-  <p>
-مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ
-تَارَةً أُخْرَى‏
-  </p>
-</blockquote>
+> مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ
+> تَارَةً أُخْرَى‏
 
 ***From it We created you and into it We shall send you back and from it
 will We raise you a second time. (20:55)***
@@ -215,12 +199,8 @@ soul. Therefore we say: Since the soul of man itself has progressed from
 the first creation to another creation on the path of development as the
 Quran has mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَكُمْ ثُمَّ صَوَّرْنَكُمْ ثُمَّ قُلْنَا لِلْمَلَئِكَةِ
-اسْجُدُواْ لِأَدَمَ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَكُمْ ثُمَّ صَوَّرْنَكُمْ ثُمَّ قُلْنَا لِلْمَلَئِكَةِ
+> اسْجُدُواْ لِأَدَمَ
 
 ***And certainly We created you, then We fashioned you, then We said to
 the angels: Make obeisance to Adam. (7:11)***
@@ -493,12 +473,8 @@ and continues till Judgment Day.[^11]
 The man in his journey through creation has to cross a number of worlds.
 It is mentioned in the Holy Quran that:
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى‏ رَبِّكَ كَدْحاً
-فَمُلاَقِيهِ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَى‏ رَبِّكَ كَدْحاً
+> فَمُلاَقِيهِ
 
 ***O man! surely you must strive (to attain) to your Lord, a hard
 striving until you meet Him. (84:6)***
@@ -545,13 +521,9 @@ of Quran and traditions:
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
-بَعِيداً
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
+> بَعِيداً
 
 ***On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and
@@ -559,12 +531,8 @@ that (evil) there were a long duration of time… (3:30)***
 
 And Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَ لَ الْيَتَمَى ظُلْماً إِنَّمَا
-يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَ لَ الْيَتَمَى ظُلْماً إِنَّمَا
+> يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
 
 ***(As for) those who swallow the property of the orphans unjustly,
 surely they only swallow fire into their bellies and they shall enter
@@ -905,5 +873,4 @@ in the celestial world and the unseen sphere.[^25]
 [^24]: Faiz Kashani, Ilmul Yaqeen, Vol. 2, Pg. 889.
 
 [^25]: Maad az Deedgah Imam Khomeini, Pg. 333.
-
 

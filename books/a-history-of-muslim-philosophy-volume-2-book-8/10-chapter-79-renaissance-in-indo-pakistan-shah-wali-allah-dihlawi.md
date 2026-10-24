@@ -1320,4 +1320,3 @@ translation by Sadr al-Din Islahi, Lahore, n.d., pp. 29-80.
 [^62]: H. A. R. Gibb, Mohammedanism, The New American Library, New York,
 1955, p. 125.
 
-

@@ -217,4 +217,3 @@ al-Su'ul fi Manaqib Aali Rasul Al-Ya'qubi, Tarikh , 2:503.
 [^11]: Sibt Ibn al-Jawzi , Tadhkirat al-Khawas Al-Shaykh Muhammad bin
 Talha Shafi'i , Matalib al-Su'ul. Ibn Khallikan, Wafayat al-A'yan.
 
-

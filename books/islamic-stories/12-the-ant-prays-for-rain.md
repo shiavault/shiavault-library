@@ -79,4 +79,3 @@ it attacks its food; how it lifts a grain so many times heavier than its
 body, carries it to its hole; how it stores grains; and how in summer it
 gathers and stocks food for winter and rainy days.'
 
-

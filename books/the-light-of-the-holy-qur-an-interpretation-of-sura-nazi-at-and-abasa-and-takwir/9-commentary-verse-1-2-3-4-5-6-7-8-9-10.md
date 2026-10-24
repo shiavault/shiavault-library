@@ -3,9 +3,7 @@ Commentary : Verse 1.2.3.4.5.6.7.8.9.10
 
 In The Name of Allah, The Beneficent, The Merciful
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 (1) عَبَسَ وَتَوَلَّى
 
@@ -244,5 +242,4 @@ of Islam; they are the real assemblage of Muslims and the power and
 defensive force against the enemies of Islam. Keep an open mind for
 them, be more friendly with them and secure their confidence and
 sympathy.
-
 

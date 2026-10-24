@@ -411,4 +411,3 @@ Sunnah has clearly explained this and the Ummah has reached a consensus
 on it. Hence anyone who lays a contradictory claim against this position
 shall be declared an apostate (ibid., vol.22, p. 39)
 
-

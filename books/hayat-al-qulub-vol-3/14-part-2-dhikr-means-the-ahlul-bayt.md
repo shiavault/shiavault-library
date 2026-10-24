@@ -7,33 +7,21 @@ them
 
 The Creator of the world says:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ.
-  </p>
-</blockquote>
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ.
 
 ***If you do not know ask Ahle Dhikr (the people of remembrance) (Sura
 Nahl 16:43)***
 
 At another place, He says:
 
-<blockquote dir="rtl">
-  <p>
-هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ.
-  </p>
-</blockquote>
+> هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ.
 
 ***This is Our free gift, therefore give freely or withhold, without
 reckoning. (Surah Sad 38:39)***
 
 And then says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلُونَ.
-  </p>
-</blockquote>
+> وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلُونَ.
 
 ***And most surely it is a reminder for you and your people, and you
 shall soon be questioned. (Sura Zukhruf 43:44)***
@@ -47,12 +35,8 @@ the Pure Imams (a.s.) because of two reasons: First, Ahlul Bayt (a.s.)
 have the perfect and complete knowledge of the Holy Quran. Hence the
 Lord of the universe in the subsequent Surah Nahl, says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ.
-  </p>
-</blockquote>
+> وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ.
 
 ***And We have revealed to you the ‘Reminder’ (Quran) that you may make
 clear to men what has been revealed to them, and that haply they may
@@ -61,11 +45,7 @@ reflect. (Sura Nahl 16:44)***
 The second reason is that the Pure Imams (a.s.) are the Ahlul Bayt
 (a.s.) of the Prophet as He has said:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا رَسُولًا.
-  </p>
-</blockquote>
+> قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا رَسُولًا.
 
 ***Allah has sent to you a messenger who is Dhikr. (Sura Talaq
 65:10-11)***
@@ -92,11 +72,7 @@ inquired: Should we ask you? He replied: Yes. He said: Then it is your
 duty to give reply to them. He said: We have the choice, that is, we may
 reply or we may not. Then he recited the verse:
 
-<blockquote dir="rtl">
-  <p>
-هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ.
-  </p>
-</blockquote>
+> هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ.
 
 ***This is Our free gift, therefore give freely or withhold, without
 reckoning. (Sura Sad 38:39)***[^1]
@@ -112,16 +88,12 @@ Have you any statement or argument against their word? The Hazrat said:
 Yes, the Holy Prophet (S) and we Ahlul Bayt (a.s.) are Dhikr and this is
 quite clear when Allah Almighty says in Surah Talaq:
 
-<blockquote dir="rtl">
-  <p>
-يَا أُوْلِي الْأَلْبَابِ الَّذِينَ آمَنُوا قَدْ أَنزَلَ اللَّهُ
-إِلَيْكُمْ ذِكْرًا رَسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ
-مُبَيِّنَاتٍ لِيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
-مِنْ الظُّلُمَاتِ إِلَى النُّورِ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ
-صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ
-خَالِدِينَ فِيهَا أَبَدًا قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا.
-  </p>
-</blockquote>
+> يَا أُوْلِي الْأَلْبَابِ الَّذِينَ آمَنُوا قَدْ أَنزَلَ اللَّهُ
+> إِلَيْكُمْ ذِكْرًا رَسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ
+> مُبَيِّنَاتٍ لِيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+> مِنْ الظُّلُمَاتِ إِلَى النُّورِ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ
+> صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ
+> خَالِدِينَ فِيهَا أَبَدًا قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا.
 
 ***O men of understanding who believe! Allah has indeed revealed to you
 a reminder. An Apostle who recites to you the clear communications of
@@ -142,14 +114,10 @@ Nahl 16:40)***
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَافَّةً فَلَوْلَا نَفَرَ مِنْ
-كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
-وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
-يَحْذَرُونَ.
-  </p>
-</blockquote>
+> وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَافَّةً فَلَوْلَا نَفَرَ مِنْ
+> كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ
+> وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ
+> يَحْذَرُونَ.
 
 ***And it does not beseem the believers that they should go forth all
 together; why should not then a company from every party from among them
@@ -161,13 +129,9 @@ The Imam said that this command has made it a must for you to approach
 and to inquire from us. But it has not compelled us to give you a reply.
 The Lord has said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
-أَهْوَاءَهُمْ وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى
-مِنْ اللَّهِ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ.
-  </p>
-</blockquote>
+> فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ
+> أَهْوَاءَهُمْ وَمَنْ أَضَلُّ مِمَّنْ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى
+> مِنْ اللَّهِ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ.
 
 ***But if they do not answer you, then know that they only follow their
 low desires; and who is more erring than he who follows his low desires
@@ -200,11 +164,7 @@ Awar.
 Imam Ja’far (a.s.) is quoted in *Basairud Darajat* through four true
 sources about the explanation of verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلُونَ.
-  </p>
-</blockquote>
+> وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلُونَ.
 
 ***And most surely it is a reminder for you and your people, and you
 shall soon be questioned. (Sura Zukhruf 43:44)***
@@ -259,12 +219,8 @@ is no mistake but a wilful statement based on the demands of Taqaiyyah
 understood that my hearts was full of confusion he turned towards me and
 said: O Aseem’s son! Allah has commanded:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانْتَهُوا.
-  </p>
-</blockquote>
+> وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانْتَهُوا.
 
 ***And whatever the Apostle gives you, accept it, and from whatever he
 forbids you, keep back. (Sura Hashr 59:7)***
@@ -305,12 +261,8 @@ thing.
 Ali bin Ibrahim (r.a.) is reported to have said in explanation of the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
-بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
+> بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
 
 ***Those who believe and whose hearts are set at rest by the remembrance
 of Allah; now surely by Allah’s remembrance are the hearts set at rest.
@@ -323,12 +275,8 @@ Allah’s remembrance.
 Ibne Mahyar has quoted Imam Kazim (a.s.) regarding the explanation of
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَنزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ أَفَلَا
-تَعْقِلُونَ.
-  </p>
-</blockquote>
+> لَقَدْ أَنزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ أَفَلَا
+> تَعْقِلُونَ.
 
 ***Certainly We have revealed to you a Book in which is your good
 remembrance; what! do you not then understand? (Sura Anbiya 21:10)***
@@ -359,5 +307,4 @@ of Sulaiman’s story also there may be some speciality of awareness and
 knowledge or it may also mean worldly affairs or that in the favour of
 Imam (a.s.) too, both the affairs of Religion and world may be meant
 generally.
-
 

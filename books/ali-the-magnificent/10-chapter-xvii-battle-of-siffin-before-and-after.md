@@ -195,7 +195,6 @@ occasioned Ali considerable vexation and perplexity, till at length the
 privations became unbearable, and Malik-al-Ashtar and Ashas the son of
 Qais begged to be allowed to open the communication with their swords.
 
-
 **The fight for the waterway to the Euphrates
 **
 
@@ -224,7 +223,6 @@ before the relentless attack of their assailants, and being already
 beaten from his post, despatched a messenger to Moawiya who immediately
 sent Amr b. Aas with three thousand horsemen to his relief.
 
-
 **Malik-al-Ashtar wins the day
 **
 
@@ -245,7 +243,6 @@ his troops allowed his enemy a free access to the Euphrates, and from
 this time the followers of either army passed and re-passed to the river
 with equal confidence and freedom of intercourse." S. Ockley's History
 of Saracens p. 312.
-
 
 **Desultory fighting for one month
 **
@@ -360,7 +357,6 @@ and died lamented by all. Having fallen wounded by a lance of Jowier
 Oskoni, he was brought to his tent where Ali, taking his head into his
 lap, shed tears of sorrow and offered prayers for the dead friend.
 
-
 Ali's furious charge on the Enemy
 Ali was very much annoyed and grieved at the loss of his brave General
 and friend. Putting himself at the head of twelve thousand of his
@@ -379,7 +375,6 @@ accept the challenge, telling him that his refusal would discredit him
 forever. But sneering at Amr, Moawiya replied that the provocation was
 prudently made to secure for him the Government of Syria, because he
 knew fully well that Ali's antagonist in fight never escaped death.
-
 
 **Scandalous plight of Amr B. AS
 **
@@ -453,7 +448,6 @@ said to him : 'Courage, Moawiya, do not be disheartened I have devised
 means to avert the crisis. Call the enemy to the Word of God by raising
 aloft the Holy Book. If they accept, it will lead to thy victory; if any
 refuse to abide thereby, it will sow discord amongst them.'
-
 
 **Trick to avert the crisis
 **
@@ -608,7 +602,6 @@ point for the present with bright hopes for the future. The armies
 having buried their dead, left the ill-starred battle-field. Moawiya
 retired to Damascus and Ali repaired to Kufa.
 
-
 **Decision of the umpires
 **
 
@@ -729,5 +722,4 @@ to the ground."
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Dr Andrew Crichton. History of Arabia and its people p. 307.
 Publishers Nelsons & Sons, London Ed. 1852.
-
 

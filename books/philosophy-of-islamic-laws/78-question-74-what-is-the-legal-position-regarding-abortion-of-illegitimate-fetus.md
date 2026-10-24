@@ -18,4 +18,3 @@ mother) had been instrumental in the abortion because in those
 conditions he is deprived of Diyat just as the killer cannot inherit
 from the killed one.
 
-

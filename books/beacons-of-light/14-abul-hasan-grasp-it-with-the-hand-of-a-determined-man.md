@@ -35,4 +35,3 @@ the mosque and declared: “O Muslims, I marvel at a man over whom the
 Messenger of Allah had set me as leader, yet who now sets himself up as
 commander over me and dismisses me! ”
 
-

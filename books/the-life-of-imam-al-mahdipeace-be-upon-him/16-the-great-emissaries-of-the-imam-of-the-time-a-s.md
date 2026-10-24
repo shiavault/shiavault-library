@@ -56,7 +56,7 @@ reality and said: “Amri (Uthman bin Saeed) is my trustworthy associate,
 so whatever he conveys to you on my behalf it is in fact from myself,
 and whatever he has said on my behalf, it is in fact what I have said.
 Thus listen and obey him because he is trustworthy and
-reliable...”<sup>[1]</sup>
+reliable...”[1]
 
 These certifications of the master of Wilayat (Guardianship) and
 infallibility, His Eminence, Imam Hadi (a.s) regarding Uthman bin Saeed
@@ -74,7 +74,7 @@ His Eminence replied: “Al-Amri and his son, both of them are trustworthy
 and reliable. Whatever they convey to you from me is in fact from me,
 and whatever they say on my behalf is actually what I have said. Thus
 listen to them and obey them because they are worthy of trust and are
-reliable.”<sup>[1]</sup>
+reliable.”[1]
 
 C. A matter that proves the position and elevated status of Uthman bin
 Saeed and confirms his trustworthiness and reliability is that letter of
@@ -113,7 +113,7 @@ I arrived in Baghdad in 408 A.H. till the year 430.”
 Shaykh Tusi further says, “The Governor, Muhammad bin Faraj had a metal
 enclosure constructed over the grave of Uthman bin Saeed and the
 neighbors and people visit the grave and obtain blessings
-therefrom.”<sup>[1]</sup>
+therefrom.”[1]
 
 Condolence of the Awaited Imam (a.s)
 ------------------------------------
@@ -163,19 +163,19 @@ position and elevated status among the Shias. And this distinction is
 sufficient for him that he was a special deputy of the Proof of Allah,
 and the Awaited Imam (a.s). A position held by his father during his
 lifetime, which after his passing away was transferred to Muhammad Ibne
-Uthman.<sup>[1]</sup> The written communication of His Eminence, the
+Uthman.[1] The written communication of His Eminence, the
 Master of the Age, proves his position and elevated status and the
 letter is as follows:
 
 “And as for Muhammad bin Uthman Amri, may Allah be pleased with him and
 his father before him, is my trustworthy and reliable associate and his
-writing is my writing.”<sup>[2]</sup>
+writing is my writing.”[2]
 
 Imam Hasan Askari (a.s) was asked regarding Uthman Amri. He replied:
 “Amri and his son, both are trustworthy and reliable. Whatever they do
 on my behalf is in fact from me. And whatever they say on my behalf is
 in fact my saying. Then listen to and obey them because they are
-trustworthy and reliable.”<sup>[3]</sup>
+trustworthy and reliable.”[3]
 
 ------------------------------------------------------------------------
 
@@ -186,13 +186,13 @@ letter to Muhammad bin Ibrahim bin Mahziyar Ahwazi: “Muhammad was always
 in the time of his father, may Allah be pleased with him, worthy of our
 trust. He is like his father in our view and he is appointed to his post
 and he acts according to our commands. May Allah protect him. So act
-upon what he says.”<sup>[1]</sup>
+upon what he says.”[1]
 
 And Muhammad bin Uthman has narrated that His Eminence, the Master of
 the Age (a.s) performed the Hajj Pilgrimage every year. He says, “By
 Allah! His Eminence, the Master of the Affair (a.s) is present every
 year in the Hajj season and he sees the people and recognizes them, but
-the people do not recognize him.”<sup>[2]</sup>
+the people do not recognize him.”[2]
 
 Writings of Muhammad bin Uthman
 -------------------------------
@@ -201,7 +201,7 @@ Muhammad bin Uthman has compiled a book on Islamic Jurisprudence and
 traditions that he heard from Imam Hasan Askari (a.s), Imam Mahdi (a.s)
 and his father, Uthman bin Saeed who had also heard them from the Holy
 Imams (a.s). Umme Kulthum daughter of Abu Ja'far has mentioned that her
-father's books reached Husain Ibne Ruh.<sup>[3]</sup>
+father's books reached Husain Ibne Ruh.[3]
 
 Deputyship of Muhammad bin Uthman from Imam Mahdi
 -------------------------------------------------
@@ -228,7 +228,7 @@ he had inscribed some verses of Quran and names of the Holy Imam on a
 tablet and had made a bequest that it be buried with him. After a few
 days his illness worsened and his soul flew away to the ethereal world
 and he submitted his life to his creator. This occurred in the end of
-the month of Jamadi I in the year 305 A.H.<sup>[1]</sup>
+the month of Jamadi I in the year 305 A.H.[1]
 
 ### 3. Husain bin Ruh
 
@@ -315,7 +315,7 @@ ask him whether it was his own reply or he had learnt it from the
 Infallible Imam (a.s). Husain bin Ruh told him: “O Muhammad bin Ibrahim!
 I never say anything on my own even in the most difficult circumstances.
 Rather the source of all the things is from the favors I have received
-from the Proof of Allah and heard from him...”<sup>[1]</sup>
+from the Proof of Allah and heard from him...”[1]
 
 Steadfastness of Husain bin Ruh
 -------------------------------
@@ -324,7 +324,7 @@ Husain bin Ruh had a powerful determination on the path of truth and
 possessed great steadfastness and bravery. Abu Sahl Nawbakhti says: “If
 Abul Qasim had the Imam underneath his garment, and even if his flesh
 was being cut into pieces to make him reveal his whereabouts, he would
-not yield or reveal his presence to his foes.”<sup>[2]</sup>
+not yield or reveal his presence to his foes.”[2]
 
 ------------------------------------------------------------------------
 
@@ -340,7 +340,7 @@ the great duty and heavy responsibility of the deputyship of the Imam of
 the time. Thus he used to act in dissimulation. Historians state that
 one day a sentry of his cursed Muawiyah, therefore Husain bin Ruh
 terminated his services and though many people interceded that he be
-reinstalled he was not taken back by Husain bin Ruh ever.<sup>[1]</sup>
+reinstalled he was not taken back by Husain bin Ruh ever.[1]
 
 Husain bin Ruh with Ali Qummi
 -----------------------------
@@ -360,7 +360,7 @@ experts of religion and memorizers of the verses of Allah Almighty and
 their powerful memory astonished the people and people say that this
 distinction was due to the blessings of His Eminence, Imam Mahdi (a.s).
 However Hasan was an ordinary man and was always engrossed in prayers,
-away from the company of people.<sup>[2]</sup>
+away from the company of people.[2]
 
 ------------------------------------------------------------------------
 
@@ -403,7 +403,7 @@ Individuals who claim to have seen me will come to my Shia. Behold,
 whoever claims seeing me before the
 
 rise of Sufyani and the Call, is a liar and a slanderer. And there is no
-power except through Allah, the Lofty, the Great.”<sup>[1]</sup>
+power except through Allah, the Lofty, the Great.”[1]
 
 We learn from this epistle that if anyone after the major occultation
 claims to meet His Eminence, Imam Mahdi (a.s) he would be a blatant
@@ -423,7 +423,7 @@ him and inquired, “Who is your successor after youa”
 
 He replied, “The affair rests in the hands of Allah (I do not have a
 successor).” Samari entered into the mercy of the Lord on 15th of Shaban
-328 A.H.<sup>[2]</sup>
+328 A.H.[2]
 
 ------------------------------------------------------------------------
 

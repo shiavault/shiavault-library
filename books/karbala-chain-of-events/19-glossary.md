@@ -140,4 +140,3 @@ the cause.*
 *Zubair: Sahaabi, leader during Jamal Confrontation, refused to fight
 during that battle.*
 
-

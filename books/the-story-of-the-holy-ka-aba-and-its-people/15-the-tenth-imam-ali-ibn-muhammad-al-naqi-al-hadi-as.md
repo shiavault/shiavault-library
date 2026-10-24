@@ -268,4 +268,3 @@ The Imam died in Sarammara, the funeral was attended only by his son
 Imam Hasan al Askari who led the funeral prayers and arranged his
 burial, laying him to rest in his house.
 
-

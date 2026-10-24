@@ -120,4 +120,3 @@ attention given should not go to the extent of pampering it."[^2]
 
 [^2]: Dar tarbiat, p. 79
 
-

@@ -1708,4 +1708,3 @@ Imam ‘Ali counselled his son Hasan thus:
 • "Love for your brother what you love for yourself, and hate for him
 what you hate for yourself."
 
-

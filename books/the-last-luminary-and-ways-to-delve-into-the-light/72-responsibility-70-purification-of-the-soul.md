@@ -20,12 +20,8 @@ and to travel spiritually towards Allah.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أَنْ يَكُونَ مِنْ أَصْحَابِ الْقَائِمِ فَلْيَنْتَظِرْ وَ
-لِيَعْمَلْ بِالْوَرَعِ وَ مَحَاسِنِ الأَخْلاَقِ وَ هُوَ مُنْتَظِرٌ
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أَنْ يَكُونَ مِنْ أَصْحَابِ الْقَائِمِ فَلْيَنْتَظِرْ وَ
+> لِيَعْمَلْ بِالْوَرَعِ وَ مَحَاسِنِ الأَخْلاَقِ وَ هُوَ مُنْتَظِرٌ
 
 “A person who would like to be among the companions of al-Qa\`im (ajtf)
 should be in a state of waiting and perform all of his actions with
@@ -34,23 +30,15 @@ counted as being in a state of waiting.”[^2]
 
 Imam Muhammad b. ‘Ali al-Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-...فَأَعيِنُوا بِوَرَعٍ وَ اجْتِهَادٍ
-  </p>
-</blockquote>
+> ...فَأَعيِنُوا بِوَرَعٍ وَ اجْتِهَادٍ
 
 “...So then assist (us) through piety and struggle.”[^3]
 
 Imam al-Mahdi (ajtf) wrote the following:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا يَحْبِسُنَا عَنْهُمْ إِلاَّ مَا يَتَّصِلُ بِنَا مِمَّا
-نَكْرَهُهُ وَ لاَ نُؤْثِرُهُ مِنْهُمْ وَ اللٌّهُ الْمُسْتَعَانُ وَ
-هُوَ حَسْبُنَا وَ نِعْمَ الْوَكِيلُ
-  </p>
-</blockquote>
+> فَمَا يَحْبِسُنَا عَنْهُمْ إِلاَّ مَا يَتَّصِلُ بِنَا مِمَّا
+> نَكْرَهُهُ وَ لاَ نُؤْثِرُهُ مِنْهُمْ وَ اللٌّهُ الْمُسْتَعَانُ وَ
+> هُوَ حَسْبُنَا وَ نِعْمَ الْوَكِيلُ
 
 “Nothing prevents us from them (our followers) but their coming to us
 with that (action) which we detest, and we do not like this from them;
@@ -60,14 +48,10 @@ for us! The most Excellent trustee! “[^4]
 In the letter which was written to Shaykh al-Mufid, Imam al-Mahdi (ajtf)
 stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَوْ أَنَّ أَشْيَاعَنَا، وَفَّقَهُمُ اللٌّهُ لِطَاعَتِهِ، عَلى
-اجْتِمَاعٍ مِنَ الْقُلُوبِ فِي الْوَفَاءِ بِالْعَهْدِ عَلَيْهِمْ لَمَا
-تَأَخَّرَ عَنْهُمُ الْيُمْنُ بِلِقَائِنَا وَ لَتَعَجَّلَتْ لَهُمُ
-السَّعَادَةُ بِمُشَاهَدَتِنَا عَلى حَقِّ الْمَعْرِفَةِ
-  </p>
-</blockquote>
+> وَ لَوْ أَنَّ أَشْيَاعَنَا، وَفَّقَهُمُ اللٌّهُ لِطَاعَتِهِ، عَلى
+> اجْتِمَاعٍ مِنَ الْقُلُوبِ فِي الْوَفَاءِ بِالْعَهْدِ عَلَيْهِمْ لَمَا
+> تَأَخَّرَ عَنْهُمُ الْيُمْنُ بِلِقَائِنَا وَ لَتَعَجَّلَتْ لَهُمُ
+> السَّعَادَةُ بِمُشَاهَدَتِنَا عَلى حَقِّ الْمَعْرِفَةِ
 
 “And if our followers, may Allah make them successful in obeying Him,
 were united with their hearts in fulfilling the promise that is upon
@@ -88,5 +72,4 @@ reason for the deputation of the prophets.
 [^4]: Biharul Anwar, vol. 53, pg. 177, sec. 31, no. 8
 
 [^5]: Biharul Anwar, vol. 53, pg. 177
-
 

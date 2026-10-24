@@ -12,4 +12,3 @@ comforted by seeing him long before that, he used to kiss him, kiss his
 lips, and carry him on his shoulder! O Bin Ziad, do prepare an answer
 for his Grandfather, as he is your opponent tomorrow!"
 
-

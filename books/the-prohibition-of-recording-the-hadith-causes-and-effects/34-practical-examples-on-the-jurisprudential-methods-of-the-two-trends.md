@@ -934,4 +934,3 @@ Tahdhib al-Ahkam 10:261; al-Istibsar 4:289.
 
 [^56]: \`Abdullah ibn Qudamah: al-Mughni 9:614.
 
-

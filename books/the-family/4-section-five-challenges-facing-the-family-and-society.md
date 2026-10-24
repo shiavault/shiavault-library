@@ -445,4 +445,3 @@ who believe the opposite of this, believing that marriage and children
 diminish wealth, then they are far from Allah and the Qur'an and from
 the logic of the intellect and wisdom.
 
-

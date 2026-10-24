@@ -1,45 +1,33 @@
 29) Supplication and Its Importance
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-"واعلم اَنَّ الَّذِي بيّدِهِ خَزائِنُ السَّمواتِ والارض قد اَذِنَ لَكَ
-في الدُّعاءِ وتَكَفَّلَ لَكَ بالإجابَةِ وامَرَكَ اَن تَسألَهُ
-ليُعِطيَكَ وتَستَرحِمَهُ لِيَرحَمَكَ ولم يَجْعَل بَينَهُ وبَينَكَ مَن
-يَحجِبُكَ عَنهُ، ولم يُلجِئكَ اِلى مَن يَشْفَعُ لَكَ اِلَيهِ ولم
-يَمْنعكَ اِن اسأتَ مِنَ التوبة ولم يُعاجِلكَ بِالنِقمَة و لم
-يُعَيِّركَ بالإنابَةِ ولم يَفضَحْكَ حَيْثُ الفَضيحَةُ بِكَ أولَى ولم
-يُشّدِّد عَلَيكَ في قَبُولِ الإنابَةِ ولم يُناقِشْكَ بالجَرِيمَةِ ولم
-يُؤِيسْكَ مِنَ الرَّحمَةِ بَل جَعَلَ نُزُوعَكَ عَنْ الذَّنْبِ حَسَنَةً
-وَحَسِبَ سَيِّئَتِكَ واحِدَةً وحَسِبَ حَسَنَتَكَ عَشراً.
-  </p>
-</blockquote>
+> "واعلم اَنَّ الَّذِي بيّدِهِ خَزائِنُ السَّمواتِ والارض قد اَذِنَ لَكَ
+> في الدُّعاءِ وتَكَفَّلَ لَكَ بالإجابَةِ وامَرَكَ اَن تَسألَهُ
+> ليُعِطيَكَ وتَستَرحِمَهُ لِيَرحَمَكَ ولم يَجْعَل بَينَهُ وبَينَكَ مَن
+> يَحجِبُكَ عَنهُ، ولم يُلجِئكَ اِلى مَن يَشْفَعُ لَكَ اِلَيهِ ولم
+> يَمْنعكَ اِن اسأتَ مِنَ التوبة ولم يُعاجِلكَ بِالنِقمَة و لم
+> يُعَيِّركَ بالإنابَةِ ولم يَفضَحْكَ حَيْثُ الفَضيحَةُ بِكَ أولَى ولم
+> يُشّدِّد عَلَيكَ في قَبُولِ الإنابَةِ ولم يُناقِشْكَ بالجَرِيمَةِ ولم
+> يُؤِيسْكَ مِنَ الرَّحمَةِ بَل جَعَلَ نُزُوعَكَ عَنْ الذَّنْبِ حَسَنَةً
+> وَحَسِبَ سَيِّئَتِكَ واحِدَةً وحَسِبَ حَسَنَتَكَ عَشراً.
 
-<blockquote dir="rtl">
-  <p>
-وفَتَحَ لَكَ بابَ المَتابِ وَبابَ الاِسْتِعتَابِ فاِذا نادَيْتَهُ
-سَمِعَ نِداكَ واِذا ناجَيْتَهً عَلِمَ نَجْواكَ فَاَفْضَيْتَ اِلَيهِ
-بِحاجَتِكَ وَابثَثْتَهُ ذاتَ نَفْسِكَ وشَكَوتَ اِلَيهِ هُمُومَكَ
-واستَكْشَفتَهُ كَرُوبَكَ واسْتَعَنتَهُ على اُمُورِكَ وسَألتَهُ مِنْ
-خَزائِنِ رَحْمَتِهِ مالا يَقْدِر عَلى اِعْطائِهِ غَيْرُهُ مِنْ
-زِيادَةِ الاَعْمارِ وصِحَّةِ الابدانِ وسِعَةِ الاَرْزاقِ.
-  </p>
-</blockquote>
+> وفَتَحَ لَكَ بابَ المَتابِ وَبابَ الاِسْتِعتَابِ فاِذا نادَيْتَهُ
+> سَمِعَ نِداكَ واِذا ناجَيْتَهً عَلِمَ نَجْواكَ فَاَفْضَيْتَ اِلَيهِ
+> بِحاجَتِكَ وَابثَثْتَهُ ذاتَ نَفْسِكَ وشَكَوتَ اِلَيهِ هُمُومَكَ
+> واستَكْشَفتَهُ كَرُوبَكَ واسْتَعَنتَهُ على اُمُورِكَ وسَألتَهُ مِنْ
+> خَزائِنِ رَحْمَتِهِ مالا يَقْدِر عَلى اِعْطائِهِ غَيْرُهُ مِنْ
+> زِيادَةِ الاَعْمارِ وصِحَّةِ الابدانِ وسِعَةِ الاَرْزاقِ.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ جَعَلَ في يَدَيْكَ مَفاتِيحَ خَزائِنِهِ, بِما اَذِنَ لَكَ مِنْ
-مَسْائِلِتِهِ، فَمَتى شِئتَ استَفتَحتَ بِالدُّعاءَ اَبْوابَ نِعْمَتِهِ
-واستَمْطَرْتَ شَآبِيْبَ رَحْمَتِهِ فَلا يُقنِطَنَّكَ اِبطاءُ
-اِجابَتِهِ، فَاِنَّ العَطِيَّةَ على قَدَرِ النِّيَةِ ورُبَّما
-اَخَّرَتْ عَنْكَ الاِجابَةُ لِيَكُونَ ذلِكَ اَعظَمَ الأجْرِ السائِلِ
-واَجزَلَ لِعَطاءِ الآمِلِ ورُبَّما سَألتَ الشَيئ فلا تُعْطاهُ
-وَاوْتيتَ خَيراً مِنْهُ عاجِلاً او آجِلاً او صُرِفَ عَنْكَ لِما هُوَ
-خَيْرٌ لَكَ فَلَرُبَّ اَمْرٍ قَدْ طَلَبْتَهُ فِيهِ هَلاكَ دِينِكَ لَو
-اُوتِيتَهُ فَلتَكُنْ مَسْالَتُكَ فِيما يَبْقى لَكَ جَمالُهُ وَيُنْفى
-عَنْكَ وَبالُهُ فالمالُ لايَبْقى لَكَ ولا تَبْقى لَهُ"
-  </p>
-</blockquote>
+> ثُمَّ جَعَلَ في يَدَيْكَ مَفاتِيحَ خَزائِنِهِ, بِما اَذِنَ لَكَ مِنْ
+> مَسْائِلِتِهِ، فَمَتى شِئتَ استَفتَحتَ بِالدُّعاءَ اَبْوابَ نِعْمَتِهِ
+> واستَمْطَرْتَ شَآبِيْبَ رَحْمَتِهِ فَلا يُقنِطَنَّكَ اِبطاءُ
+> اِجابَتِهِ، فَاِنَّ العَطِيَّةَ على قَدَرِ النِّيَةِ ورُبَّما
+> اَخَّرَتْ عَنْكَ الاِجابَةُ لِيَكُونَ ذلِكَ اَعظَمَ الأجْرِ السائِلِ
+> واَجزَلَ لِعَطاءِ الآمِلِ ورُبَّما سَألتَ الشَيئ فلا تُعْطاهُ
+> وَاوْتيتَ خَيراً مِنْهُ عاجِلاً او آجِلاً او صُرِفَ عَنْكَ لِما هُوَ
+> خَيْرٌ لَكَ فَلَرُبَّ اَمْرٍ قَدْ طَلَبْتَهُ فِيهِ هَلاكَ دِينِكَ لَو
+> اُوتِيتَهُ فَلتَكُنْ مَسْالَتُكَ فِيما يَبْقى لَكَ جَمالُهُ وَيُنْفى
+> عَنْكَ وَبالُهُ فالمالُ لايَبْقى لَكَ ولا تَبْقى لَهُ"
 
 *“Know that He in Whose hand are the treasures of the heavens and the
 earth has given you the permission for supplication and has guaranteed
@@ -156,16 +144,12 @@ In the Du’a Kumayl he introduces supplication as a means for the
 strengthening of the body and mind and as an agent to serve both God and
 people and a means for a journey towards Heaven.
 
-<blockquote dir="rtl">
-  <p>
-"قَوِّ على خِدمَتِكَ جَوارِحِي وَاشْدُد عَلى العَزِيمَةِ جَوانِحِي
-وهَب لِيَ الجِدَّ في خَشْيَتِكَ وَالدَوامَ في الاتِصالِ بِخِدمَتِكَ
-حَتّى اَسرَحَ اِلَيكَ في مَيادِينِ السَّابِقِينَ واُسرِعَ اِلَيكَ في
-البارِزِينَ واشتَاقَ اِلَيكَ في المُشتَاقِينَ واَدنُوَ مِنكَ دُنوَّ
-المُخلِصِينَ واَخافَكَ مَخافَةَ المُوقِنِينَ واجتَمِعَ في جِوارِكَ
-مَعَ المُؤمِنِينَ"
-  </p>
-</blockquote>
+> "قَوِّ على خِدمَتِكَ جَوارِحِي وَاشْدُد عَلى العَزِيمَةِ جَوانِحِي
+> وهَب لِيَ الجِدَّ في خَشْيَتِكَ وَالدَوامَ في الاتِصالِ بِخِدمَتِكَ
+> حَتّى اَسرَحَ اِلَيكَ في مَيادِينِ السَّابِقِينَ واُسرِعَ اِلَيكَ في
+> البارِزِينَ واشتَاقَ اِلَيكَ في المُشتَاقِينَ واَدنُوَ مِنكَ دُنوَّ
+> المُخلِصِينَ واَخافَكَ مَخافَةَ المُوقِنِينَ واجتَمِعَ في جِوارِكَ
+> مَعَ المُؤمِنِينَ"
 
 *"Strengthen my limbs for Your service and fortify my determination.
 Grant me earnestness in fear of You and continuity in attachment to Your
@@ -183,11 +167,7 @@ Because of the miraculous effects of supplication and worship, they have
 always been emphasized by God, Prophets and God's men. At one point the
 Holy Qur’an considers supplication as a means for the value of people:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ "
-  </p>
-</blockquote>
+> قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ "
 
 ***"Say: My Lord would not care for you were it not for your
 prayer".***[^5]
@@ -207,13 +187,9 @@ who are too proud for My service shall soon enter hell abased”.***[^6]
 The Prophet (S) considers supplication as the best weapon against the
 enemy and the best means to get sustenance.
 
-<blockquote dir="rtl">
-  <p>
-"اَلا اَدُلُّكُم عَلى سِلاحٍ يُنجِيكُم مِن اَعدَائِكُم ويُدِرُّ
-اَرزَاقَكُم؟ قَالوا بَلى يا رَسُولَ الله قال: تَدعُونَ رَبَّكُم
-بِالَليلِ والنَّهار فاِنَّ سِلاحَ المُؤمِن الدُّعاء"
-  </p>
-</blockquote>
+> "اَلا اَدُلُّكُم عَلى سِلاحٍ يُنجِيكُم مِن اَعدَائِكُم ويُدِرُّ
+> اَرزَاقَكُم؟ قَالوا بَلى يا رَسُولَ الله قال: تَدعُونَ رَبَّكُم
+> بِالَليلِ والنَّهار فاِنَّ سِلاحَ المُؤمِن الدُّعاء"
 
 *"Should I not lead you to have a weapon which could save you from your
 enemies and give you abundant sustenance?” They said: “Yes, O Messenger
@@ -227,13 +203,9 @@ supplication is among cause and effect factors. This assumption is
 rejected in numerous traditions including the following. Zurarah
 narrated that Imam al-Sadiq (as) said:
 
-<blockquote dir="rtl">
-  <p>
-"اُدعُ الله عَزَّوجَلَّ ولا تَقُل: اِنَّ الأمرَ قَدْ فُرِغَ مِنهُ قالَ
-زُرارَة: اِنَّما يَعنِي لا يَمنَعُكَ اِيمانُكَ بِالقَضاءِ والقَدَرِ
-اَن تُبالِغَ بِالدُّعاءِ وتَجتَهِدَ فِيهِ"
-  </p>
-</blockquote>
+> "اُدعُ الله عَزَّوجَلَّ ولا تَقُل: اِنَّ الأمرَ قَدْ فُرِغَ مِنهُ قالَ
+> زُرارَة: اِنَّما يَعنِي لا يَمنَعُكَ اِيمانُكَ بِالقَضاءِ والقَدَرِ
+> اَن تُبالِغَ بِالدُّعاءِ وتَجتَهِدَ فِيهِ"
 
 *"Call on God, and do not say: ‘The matter has been settled’”. Zurarah
 said: It only means that your faith in decree and destiny should not
@@ -241,14 +213,10 @@ prevent you from doing your utmost to strive in supplication".*[^8]
 
 Abdullah Ibn Sinan says that he heard Imam al-Sadiq (as) saying:
 
-<blockquote dir="rtl">
-  <p>
-"الدُّعاءُ يَرُدُّ القَضَاءَ بَعدَ مَا اُبْرِمَ اِبْراماً فَاكْثِر
-مِنَ الدُّعاءِ فَاِنَّهُ مِفتَاحُ كُلِّ رَحْمَةٍ ونَجاحُ كُلِّ حَاجَةٍ
-ولا يُنَالُ مَا عِنْدَ الله عَزَّوجَلَّ اِلاّ بِالدُّعاءِ واِنَّهُ
-لَيسَ بَابٌ يَكثُرُ قَرْعُهُ اِلا يُوشَكُ اَن يُفْتَحُ لِصَاحِبِهِ"
-  </p>
-</blockquote>
+> "الدُّعاءُ يَرُدُّ القَضَاءَ بَعدَ مَا اُبْرِمَ اِبْراماً فَاكْثِر
+> مِنَ الدُّعاءِ فَاِنَّهُ مِفتَاحُ كُلِّ رَحْمَةٍ ونَجاحُ كُلِّ حَاجَةٍ
+> ولا يُنَالُ مَا عِنْدَ الله عَزَّوجَلَّ اِلاّ بِالدُّعاءِ واِنَّهُ
+> لَيسَ بَابٌ يَكثُرُ قَرْعُهُ اِلا يُوشَكُ اَن يُفْتَحُ لِصَاحِبِهِ"
 
 *“Supplication repels decree after it has been concluded. Therefore,
 engage yourself in supplication often, since it is the key to every
@@ -261,13 +229,9 @@ therefore, you should always call on God.
 
 The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"يَدخُلِ الجَنَّةَ رَجُلانِ كَانا يَعْمَلانِ عَمَلاً واحِداً فَيَرى
-اَحَدَهُمَا صَاحِبَهُ فَوقَه، فَيَقُولُ يا ربِّ بِما اعطيتَهُ وكانَ
-عَمَلُنا واحِداً؟ فَيَقُولُ الله تَباركَ وتعالى: سَألَني ولم تَسألني"
-  </p>
-</blockquote>
+> "يَدخُلِ الجَنَّةَ رَجُلانِ كَانا يَعْمَلانِ عَمَلاً واحِداً فَيَرى
+> اَحَدَهُمَا صَاحِبَهُ فَوقَه، فَيَقُولُ يا ربِّ بِما اعطيتَهُ وكانَ
+> عَمَلُنا واحِداً؟ فَيَقُولُ الله تَباركَ وتعالى: سَألَني ولم تَسألني"
 
 *“Two men whose actions are identical enter paradise, but one of them
 sees his companion has a higher status. The man says: My Lord! Why did
@@ -276,13 +240,9 @@ replies: He asked and called on Me, but you did not”.*[^10]
 
 Imam Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الله كَرِهَ اِلحاحَ النَّاسِ بَعضَهُم عَلى بَعْضٍ في المَسألَةِ
-وَاحَبَّ ذلِكَ لِنَفسِهِ اِنَّ الله جَلَّ ذِكرُهُ يُحِبُّ اَن يُسألَ
-ويُطلَبَ ما عِندَهُ"
-  </p>
-</blockquote>
+> "اِنَّ الله كَرِهَ اِلحاحَ النَّاسِ بَعضَهُم عَلى بَعْضٍ في المَسألَةِ
+> وَاحَبَّ ذلِكَ لِنَفسِهِ اِنَّ الله جَلَّ ذِكرُهُ يُحِبُّ اَن يُسألَ
+> ويُطلَبَ ما عِندَهُ"
 
 *“God dislikes people beseeching one another for a request, but He likes
 that for Himself. God, the Exalted, likes to be asked and requested for
@@ -290,12 +250,8 @@ what is with Him”.*[^11]
 
 He has also said:
 
-<blockquote dir="rtl">
-  <p>
-"واللهِ لا يُلِحُّ عَبْدٌ مُؤمِنٌ عَلى اللهِ عَزَّوجَلَّ في حَاجَتِهِ
-اِلاّ قَضاها لَهُ"
-  </p>
-</blockquote>
+> "واللهِ لا يُلِحُّ عَبْدٌ مُؤمِنٌ عَلى اللهِ عَزَّوجَلَّ في حَاجَتِهِ
+> اِلاّ قَضاها لَهُ"
 
 *“I swear by God, a believer does not beseech God for a need but that He
 fulfils it for him”.*[^12]
@@ -303,23 +259,15 @@ fulfils it for him”.*[^12]
 In this regard, of course, there is no difference between big needs and
 small ones. Imam Baqir (as) has also said,
 
-<blockquote dir="rtl">
-  <p>
-"لا تُحَقِّروا صَغِيراً مِن حَوائِجِكُم فاِنَّ احَبَّ المُؤمِنِينَ
-اِلى اللهِ اسألَهُم"
-  </p>
-</blockquote>
+> "لا تُحَقِّروا صَغِيراً مِن حَوائِجِكُم فاِنَّ احَبَّ المُؤمِنِينَ
+> اِلى اللهِ اسألَهُم"
 
 *“Do not belittle your small needs because the believers dearest to God
 are those who ask the most.*[^13]
 
 God told Prophet Moses (as):
 
-<blockquote dir="rtl">
-  <p>
-"سَلْنِي كُلَّ ما تَحتاجُ اِليهِ حَتّى عَلَفَ شاتِكَ ومِلحَ عَجِينِكَ"
-  </p>
-</blockquote>
+> "سَلْنِي كُلَّ ما تَحتاجُ اِليهِ حَتّى عَلَفَ شاتِكَ ومِلحَ عَجِينِكَ"
 
 *“Ask Me for all that you need, even the grass for your sheep and salt
 for your dough”.*[^14]
@@ -341,13 +289,9 @@ offered in a whisper, let alone loudly. He is aware of the intentions of
 all. He does not suffer from any kind of jealousy. There is no need for
 a servant or mediator to connect people with God. Allah says:
 
-<blockquote dir="rtl">
-  <p>
-"وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِي إِذَا دَعَانِي فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
-لَعَلَّهُمْ يَرْشُدُونَ"
-  </p>
-</blockquote>
+> "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِي إِذَا دَعَانِي فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي
+> لَعَلَّهُمْ يَرْشُدُونَ"
 
 ***“And when My servants asks you concerning Me, then surely I am very
 near; I answer the prayer of the supplicant when he calls on Me, so they
@@ -377,13 +321,9 @@ instance.
 There is a tradition narrated from Imam al-Sadiq (as) which states that
 God has told Moses (as):
 
-<blockquote dir="rtl">
-  <p>
-"يا بْنَ عِمران هَبْ لِي مِن قَلبِكَ الخُشُوعَ ومِن بَدَنِكَ الخُضُوعَ
-ومِن عَينِكَ الدُّمُوعَ وادْعُنِي في ظُلَمِ الَّليلِ فاِنَّكَ
-تَجِدُنِي قَرِيباً مُجِيباً"
-  </p>
-</blockquote>
+> "يا بْنَ عِمران هَبْ لِي مِن قَلبِكَ الخُشُوعَ ومِن بَدَنِكَ الخُضُوعَ
+> ومِن عَينِكَ الدُّمُوعَ وادْعُنِي في ظُلَمِ الَّليلِ فاِنَّكَ
+> تَجِدُنِي قَرِيباً مُجِيباً"
 
 *“O son of Imran, give me from your heart humility, from your body
 submissiveness and from your eyes tears, and call on me in the darkness
@@ -405,11 +345,7 @@ the being at a distance from sins. It is because most sins are a thick
 curtain in the way of the acceptance of prayers. We observe this in the
 Du’a Kumayl:
 
-<blockquote dir="rtl">
-  <p>
-"الّلهُمَّ اغفِر لِيَ الذُنُوبَ الَّتي تَحبِسُ الدُّعاء"
-  </p>
-</blockquote>
+> "الّلهُمَّ اغفِر لِيَ الذُنُوبَ الَّتي تَحبِسُ الدُّعاء"
 
 *“O God! Forgive me the sins that hold back the supplication”.*
 
@@ -440,11 +376,7 @@ foods. If these foods are gained illegally, our prayers are not clean
 and as a consequence they are not accepted.
 The great Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن احَبَّ اَن يُستَجابَ دُعاؤُهُ فَليُطَيِّب مَطعَمَهُ ومَكسَبَهُ"
-  </p>
-</blockquote>
+> "مَن احَبَّ اَن يُستَجابَ دُعاؤُهُ فَليُطَيِّب مَطعَمَهُ ومَكسَبَهُ"
 
 *"Whoever wishes his supplication to be answered, let his food and his
 earnings be lawful"*[^22]*.*
@@ -452,23 +384,15 @@ earnings be lawful"*[^22]*.*
 In response to somebody who had said he wanted his prayers to be
 accepted, the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-"طَهِّر مأكَلَكَ ولا تُدخِل في بَطنِكَ الحرامَ"
-  </p>
-</blockquote>
+> "طَهِّر مأكَلَكَ ولا تُدخِل في بَطنِكَ الحرامَ"
 
 *"Purify your food (i.e. eat what is lawful) and do not let unlawful
 food enter your stomach."*[^23]
 
 He said also:
 
-<blockquote dir="rtl">
-  <p>
-"اطِب كَسبَكَ تُستَجابُ دَعوَتُكَ فاِنَّ الرَجُلَ يَرفَعُ الُّلقمَةَ
-اِلى فِيهِ حَراماً فما تُستَجابُ لَهُ اَربَعينَ يَوماً"
-  </p>
-</blockquote>
+> "اطِب كَسبَكَ تُستَجابُ دَعوَتُكَ فاِنَّ الرَجُلَ يَرفَعُ الُّلقمَةَ
+> اِلى فِيهِ حَراماً فما تُستَجابُ لَهُ اَربَعينَ يَوماً"
 
 *"Purify your earnings and your supplication will be accepted. This is
 because the supplication of a person who raises a morsel of unlawful
@@ -476,13 +400,9 @@ food to his mouth is not answered for forty days".*[^24]
 
 Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اِذا اَرادَ اَحَدُكُم اَن يُستَجابَ لَهُ فَليُطَيِّب كَسبَه ولِيَخرُج
-مِن مَظالِم النّاسِ واِنَّ الله لا يُرفَعُ اِلَيهِ دُعاءُ عَبدٍ وفي
-بَطنِهِ حَرامٌ او عِندَهُ مَظلمَةٌ لاحَدٍ مِن خَلقِهِ"
-  </p>
-</blockquote>
+> "اِذا اَرادَ اَحَدُكُم اَن يُستَجابَ لَهُ فَليُطَيِّب كَسبَه ولِيَخرُج
+> مِن مَظالِم النّاسِ واِنَّ الله لا يُرفَعُ اِلَيهِ دُعاءُ عَبدٍ وفي
+> بَطنِهِ حَرامٌ او عِندَهُ مَظلمَةٌ لاحَدٍ مِن خَلقِهِ"
 
 *“If anyone of you wishes his supplication be accepted, let him purify
 his earnings and cease defrauding people. This is because the
@@ -496,11 +416,7 @@ Among the conditions set for prayers to be acceptable are the
 possibility of the occurrence of the actions and the contingency of the
 desired action. Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"يا صَاحَبَ الدُّعاء لا تَسأل مَا لايَكُونُ ولا يَحِلُّ"
-  </p>
-</blockquote>
+> "يا صَاحَبَ الدُّعاء لا تَسأل مَا لايَكُونُ ولا يَحِلُّ"
 
 *"O performer of supplication, do not ask for anything unattainable or
 unlawful".*[^26]
@@ -521,12 +437,8 @@ one of his followers who was prostrating. After some time he was still
 prostrating. Musa told him: If I could, I would satisfy your needs.
 At this moment God revealed to him,
 
-<blockquote dir="rtl">
-  <p>
-"لو سَجَدَ حَتّى يَنقَطِعَ عُنُقُهُ ما قَبِلتُهُ حَتّى يَتَحوَّلَ
-عَمّا اَكْرَهُ اِلى ما اُحِبُّ"
-  </p>
-</blockquote>
+> "لو سَجَدَ حَتّى يَنقَطِعَ عُنُقُهُ ما قَبِلتُهُ حَتّى يَتَحوَّلَ
+> عَمّا اَكْرَهُ اِلى ما اُحِبُّ"
 
 *“I will not accept his prayers even if he engages in prostrating till
 his neck breaks. I will accept his prayers if he stops doing what I hate
@@ -538,17 +450,13 @@ One of the factors which hinder the acceptance of prayers is the
 injustice done to others. In the book Ihtijaj there is a tradition
 narrated from Imam Sadiq (as) depicting this truth:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّهُ سُئِلَ اَلَيسَ يَقُولُ الله اُدعُونِي اَستَجِب لَكُم؟ وقد
-نَرى المُضطَرَّ يَدعُوهُ ولا يُجابُ لَهُ والمَظلُومَ يَسْتَنْصرُهُ على
-عَدوه فَلا يَنصُرُه قال ويحَكَ ما يَدعُوه اَحدٌ اِلاّ استَجابَ لَهُ
-امَّا الظَالِم فدُعاؤُهُ مَردُودٌ الى اَن يَتُوبَ وامَّا المُحَقُّ
-فاذا دعا استجابَ لَهُ وصَرَفَ عَنهُ البَلاءَ مِن حَيثُ لا يَعلَمُهُ او
-ادَّخَرَ لَهُ ثَواباً جَزِيلاً لِيَومِ حاجَتِهِ اِليه واِن لم يَكُن
-الامرُ الَّذي سَأَلَ العَبدُ خَيرٌ لهُ اِن اعطاهُ اُمسِكَ عَنهُ"
-  </p>
-</blockquote>
+> "اِنَّهُ سُئِلَ اَلَيسَ يَقُولُ الله اُدعُونِي اَستَجِب لَكُم؟ وقد
+> نَرى المُضطَرَّ يَدعُوهُ ولا يُجابُ لَهُ والمَظلُومَ يَسْتَنْصرُهُ على
+> عَدوه فَلا يَنصُرُه قال ويحَكَ ما يَدعُوه اَحدٌ اِلاّ استَجابَ لَهُ
+> امَّا الظَالِم فدُعاؤُهُ مَردُودٌ الى اَن يَتُوبَ وامَّا المُحَقُّ
+> فاذا دعا استجابَ لَهُ وصَرَفَ عَنهُ البَلاءَ مِن حَيثُ لا يَعلَمُهُ او
+> ادَّخَرَ لَهُ ثَواباً جَزِيلاً لِيَومِ حاجَتِهِ اِليه واِن لم يَكُن
+> الامرُ الَّذي سَأَلَ العَبدُ خَيرٌ لهُ اِن اعطاهُ اُمسِكَ عَنهُ"
 
 *‘He was asked: Doesn't God tell the believers:* ***“Call upon Me and I
 will answer you” (40:60)**? And this is while we see the distressed call
@@ -569,17 +477,13 @@ According to the Islamic traditions, prayers and supplication are
 specific to occasions when man's trials and struggles are of no use.
 Imam Sadiq (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"أربَعَةٌ لا تُستَجابُ لهم دَعوَةٌ: رجلٌ جَالسٌ في بَيتِهِ يَقُولُ
-الّلهُمَّ ارزُقنِي فَيُقالُ لَه: اَلَم آمُركَ بِالطَلَبِ، وَرَجُلٌ
-كَانَت لَهُ اِمرأةٌ فَدَعا عَلَيها فَيُقالُ لَه: اَلَم اَجعَل اَمرَها
-اِلَيكَ، وَرَجُلٌ كَانَ لَهُ مَالٌ فَاَسرَفَ فَيَقُولَ الّلهُمَّ
-ارزُقنِي فَيُقالُ لَهُ: اَلَم آمُركَ بِالاِقتِصَادِ، اَلَم آمُركَ
-بِالاِصلاَحِ ...، وَرَجلٌ كَانَ لَهُ مَالٌ فَادَانَهُ بِغَيرِ
-بَيِّنَةٍ فَيُقالُ لَهُ: اَلم آمُركَ بِالشهادَةِ"
-  </p>
-</blockquote>
+> "أربَعَةٌ لا تُستَجابُ لهم دَعوَةٌ: رجلٌ جَالسٌ في بَيتِهِ يَقُولُ
+> الّلهُمَّ ارزُقنِي فَيُقالُ لَه: اَلَم آمُركَ بِالطَلَبِ، وَرَجُلٌ
+> كَانَت لَهُ اِمرأةٌ فَدَعا عَلَيها فَيُقالُ لَه: اَلَم اَجعَل اَمرَها
+> اِلَيكَ، وَرَجُلٌ كَانَ لَهُ مَالٌ فَاَسرَفَ فَيَقُولَ الّلهُمَّ
+> ارزُقنِي فَيُقالُ لَهُ: اَلَم آمُركَ بِالاِقتِصَادِ، اَلَم آمُركَ
+> بِالاِصلاَحِ ...، وَرَجلٌ كَانَ لَهُ مَالٌ فَادَانَهُ بِغَيرِ
+> بَيِّنَةٍ فَيُقالُ لَهُ: اَلم آمُركَ بِالشهادَةِ"
 
 *“There are four groups of people whose calls are not answered:*
 *A man who sits at home saying: ‘O God, give me daily bread’. He is then
@@ -602,13 +506,9 @@ takes place. This is shown in the tradition about the Bani Isra’il
 concerning Moses who fell ill but did not take the necessary medicine.
 God then said:
 
-<blockquote dir="rtl">
-  <p>
-"وَعِزَّتي وَجَلالي لا اُبرِؤُكَ حَتّى تَتدَاوى بِمَا ذَكَرُوه لَكَ،
-اَرَدْتَ اَن تُبطِلَ حِكْمَتِي بِتَوكُّلِكَ عَلَيَّ فَمَن اَودَعَ
-العَقاقِيرَ مَنافِعَ الاَشْياءِ غَيرِي"
-  </p>
-</blockquote>
+> "وَعِزَّتي وَجَلالي لا اُبرِؤُكَ حَتّى تَتدَاوى بِمَا ذَكَرُوه لَكَ،
+> اَرَدْتَ اَن تُبطِلَ حِكْمَتِي بِتَوكُّلِكَ عَلَيَّ فَمَن اَودَعَ
+> العَقاقِيرَ مَنافِعَ الاَشْياءِ غَيرِي"
 
 *"I swear by My Glory and My Majesty, I shall not cure you until you
 take the medicine which Bani Israel have brought for you. Do you wish to
@@ -625,12 +525,8 @@ absent in the person. This qualification is only obtained through the
 person’s struggle and perseverance.
 Concerning this issue, Imam ‘Ali (as) in the above letter has stated:
 
-<blockquote dir="rtl">
-  <p>
-"فَلا يُقنِطَنَّكَ اِبطاءُ اِجابَتِهِ فاِنَّ العَطِيَّةَ على قَدَرِ
-النِيَّة"
-  </p>
-</blockquote>
+> "فَلا يُقنِطَنَّكَ اِبطاءُ اِجابَتِهِ فاِنَّ العَطِيَّةَ على قَدَرِ
+> النِيَّة"
 
 "*Do not let the slowness of His response dishearten you, for the grant
 is in accordance with the intention* ".
@@ -640,13 +536,9 @@ more qualified. In that case he will get more reward for his endeavors.
 God has not answered to this person’s call in order that he may try to
 be more qualified. Imam ‘Ali (as), in this regard, says:
 
-<blockquote dir="rtl">
-  <p>
-"ورُبَّما اُخِّرَت عَنكَ الاِجَابَةُ لِيَكُونَ ذَلِكَ اَعظَمَ لأجرِ
-السَائِلِ وَاجْزَلَ لِعَطاءِ الآمِل وَرُبَما سَألتَ شَيئاً فَلا
-تُعطاهُ واوتِيتَ خَيراً مِنهُ عاجِلاً او آجِلاً"
-  </p>
-</blockquote>
+> "ورُبَّما اُخِّرَت عَنكَ الاِجَابَةُ لِيَكُونَ ذَلِكَ اَعظَمَ لأجرِ
+> السَائِلِ وَاجْزَلَ لِعَطاءِ الآمِل وَرُبَما سَألتَ شَيئاً فَلا
+> تُعطاهُ واوتِيتَ خَيراً مِنهُ عاجِلاً او آجِلاً"
 
 *“Sometimes the response has only been delayed for you so that it may be
 a greater reward for the petitioner and a more abundant grant for the
@@ -659,12 +551,8 @@ position, wealth, children, and the like. In such cases God will not
 answer the call since He is generous towards the person. Regarding this,
 Imam ‘Ali (as) states in this letter:
 
-<blockquote dir="rtl">
-  <p>
-"اَو صُرِفَ عَنكَ لِمَا هُوَ خَيرٌ لَكَ فَلَرُبَّ اَمرٍ قَد طَلَبتَهُ
-فِيهِ هَلاكُ دِينِكَ لَو اُوتِيتَه"
-  </p>
-</blockquote>
+> "اَو صُرِفَ عَنكَ لِمَا هُوَ خَيرٌ لَكَ فَلَرُبَّ اَمرٍ قَد طَلَبتَهُ
+> فِيهِ هَلاكُ دِينِكَ لَو اُوتِيتَه"
 
 *"..or it is turned away from you for what is better for you, because
 sometimes in the fulfillment of what you ask for is the destruction of
@@ -709,17 +597,13 @@ Thus, in Islam, a sinner can repent and there are no heavy conditions
 for his repentance and he also is addressed not to despair but to return
 to God:
 
-<blockquote dir="rtl">
-  <p>
-"قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لَا
-تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ وَأَنِيبُوا إِلَى
-رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمْ الْعَذَابُ
-ثُمَّ لَا تُنْصَرُونَ وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ
-مِنْ رَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَكُمْ العَذَابُ بَغْتَةً
-وَأَنْتُمْ لَا تَشْعُرُونَ"
-  </p>
-</blockquote>
+> "قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لَا
+> تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ وَأَنِيبُوا إِلَى
+> رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمْ الْعَذَابُ
+> ثُمَّ لَا تُنْصَرُونَ وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ
+> مِنْ رَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَكُمْ العَذَابُ بَغْتَةً
+> وَأَنْتُمْ لَا تَشْعُرُونَ"
 
 ***“Say: O my servants, who have acted extravagantly against their own
 souls, do not despair of the mercy of Allah; surely Allah forgives the
@@ -732,12 +616,8 @@ punishment all of a sudden while you do not even perceive.**”*[^32]
 And this return is so favorable that we read in one tradition from Imam
 Baqir (as):
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الله تَعالى اَشَدُّ فَرَحاً بِتَوبَةِ عَبدِهِ مِن رَجُلٍ
-اَضَلَّ راحِلَتَهُ وَزَادَهُ في لَيلَةٍ ظَلمَاءَ فَوَجَدهَا"
-  </p>
-</blockquote>
+> "اِنَّ الله تَعالى اَشَدُّ فَرَحاً بِتَوبَةِ عَبدِهِ مِن رَجُلٍ
+> اَضَلَّ راحِلَتَهُ وَزَادَهُ في لَيلَةٍ ظَلمَاءَ فَوَجَدهَا"
 
 *"God, the Exalted’s rejoicing at the repentance of His servant is far
 greater than a person who has lost his horse and provisions in a dark
@@ -755,13 +635,9 @@ and faith) and not to the factor of aggression. In such cases, he has
 time to repent and God is not in a hurry to revenge the worldly
 wrong-doings here or in the Hereafter.[^33] God says:
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ
-بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُوْلَئِكَ يَتُوبُ اللَّهُ
-عَلَيْهِمْ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا"
-  </p>
-</blockquote>
+> "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ
+> بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُوْلَئِكَ يَتُوبُ اللَّهُ
+> عَلَيْهِمْ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا"
 
 ***“Repentance with Allah is only for those who do evil in ignorance,
 then turn to Allah soon, so these it is to whom Allah turns mercifully,
@@ -769,14 +645,10 @@ and Allah is ever knowing, Wise”.***[^34]
 
 On the other hand, God rejects repentance at the time of death:
 
-<blockquote dir="rtl">
-  <p>
-"وَلَيْسَتْ التَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ حَتَّى
-إِذَا حَضَرَ أَحَدَهُمْ الْمَوْتُ قَالَ إِنِّي تُبْتُ الْآنَ وَلَا
-الَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ أُوْلَئِكَ أَعْتَدْنَا لَهُمْ
-عَذَابًا أَلِيمًا"
-  </p>
-</blockquote>
+> "وَلَيْسَتْ التَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ حَتَّى
+> إِذَا حَضَرَ أَحَدَهُمْ الْمَوْتُ قَالَ إِنِّي تُبْتُ الْآنَ وَلَا
+> الَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ أُوْلَئِكَ أَعْتَدْنَا لَهُمْ
+> عَذَابًا أَلِيمًا"
 
 ***“And repentance is not for those who go on doing evil deeds, until
 when death comes to one of them, he says: Surely now I repent; nor for
@@ -785,23 +657,15 @@ have prepared a painful chastisement”.***[^35]
 
 In traditions, we read that the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن تابَ قَبلَ اَن يُعايَنَ قَبِلَ الله تَوبَتَهُ"
-  </p>
-</blockquote>
+> "مَن تابَ قَبلَ اَن يُعايَنَ قَبِلَ الله تَوبَتَهُ"
 
 *“Whoever repents before he confronts death, God will accept his
 repentance”.*[^36]
 
 The Prophet, on the other hand, has said,
 
-<blockquote dir="rtl">
-  <p>
-"اِذَا بَلَغتِ النَّفسُ هَذِهِ ـ وَاهوى بِيَدِهِ اِلى حُنجُرَتِهِ ـ
-لَم يَكُن لِلعالِمِ تَوبَةٌ وَكانَت لِلجَاهِلِ تَوبَةٌ"
-  </p>
-</blockquote>
+> "اِذَا بَلَغتِ النَّفسُ هَذِهِ ـ وَاهوى بِيَدِهِ اِلى حُنجُرَتِهِ ـ
+> لَم يَكُن لِلعالِمِ تَوبَةٌ وَكانَت لِلجَاهِلِ تَوبَةٌ"
 
 *“When the soul arrives here – and he pointed at his throat - there is
 no repentance for a scholar, but there is repentance for an ignorant
@@ -816,12 +680,8 @@ sinner from his sin and has left the door of repentance open.
 Although God is strict towards those who aggressively indulge in
 wrong-doings and would not pardon them:
 
-<blockquote dir="rtl">
-  <p>
-"وَوَجَدُوا مَا عَمِلُوا حَاضِرًا وَلَا يَظْلِمُ رَبُّكَ أَحَدًا “ـ
-“وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه"
-  </p>
-</blockquote>
+> "وَوَجَدُوا مَا عَمِلُوا حَاضِرًا وَلَا يَظْلِمُ رَبُّكَ أَحَدًا “ـ
+> “وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه"
 
 ***“And what they had done they shall find present (there); and your
 Lord does not deal unjustly with any one”.***[^38] ***“And he who has
@@ -830,24 +690,16 @@ done an atom's weight of evil shall see it”.***[^39]
 He will, however, be generous towards those who regret their wrong deeds
 and turn towards Him.
 
-<blockquote dir="rtl">
-  <p>
-"إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُوْلَئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
-رَحِيمًا"
-  </p>
-</blockquote>
+> "إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُوْلَئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
+> رَحِيمًا"
 
 ***“Except him who repents and does a good deed; so these are they of
 whom Allah changes the evil deeds to good ones; and Allah is Forgiving,
 Merciful”.***[^40]
 
-<blockquote dir="rtl">
-  <p>
-"إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِنْ تَكُنْ حَسَنَةً
-يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ أَجْرًا عَظِيمًا"
-  </p>
-</blockquote>
+> "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِنْ تَكُنْ حَسَنَةً
+> يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ أَجْرًا عَظِيمًا"
 
 ***“Surely Allah does not do injustice to the weight of an atom, and if
 it is a good deed He multiplies it and gives from Himself a great
@@ -855,12 +707,8 @@ reward”.***[^41]
 
 Since repentance is a suitable action, God will carry out His promise:
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا وَمَنْ جَاءَ
-بِالسَّيِّئَةِ فَلَا يُجْزَى إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ"
-  </p>
-</blockquote>
+> "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا وَمَنْ جَاءَ
+> بِالسَّيِّئَةِ فَلَا يُجْزَى إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ"
 
 ***“Whoever brings a good deed, he shall have ten like it, and whoever
 brings an evil deed, he shall be recompensed only with the like of it,
@@ -882,21 +730,17 @@ But in some other traditions there are some restrictions such as the
 payment of what a person owes others. Such a restriction is seen in Nahj
 al-Balaghah:
 
-<blockquote dir="rtl">
-  <p>
-"قالَ اَميرُ المُؤمِنِين عليه السلام لقائِلٍ قال بِحَضرَتِهِ
-(استَغفِرُ الله): ثَكَلَتكَ اُمُّكَ، اتَدرِي مَا الاستِغفَارُ؟
-الاِستِغفارُ دَرَجَةُ العِلّيينَ، وهُوَ اِسمٌ واقِعٌ على سِتَةُ
-مَعانٍ: اوَّلُها النَدَم على ما مَضى، والثاني العَزمُ على تَركِ
-العَودِ اِلَيهِ ابَداً، والثالثُ اَن تُؤدِّي الى المَخلُوقِينَ
-حُقُوقَهُم حَتّى تَلقَى الله اَملَسَ لَيسَ عَليكَ تَبِعَةٌ، والرابِعُ
-اَن تَعْمِدَ الى كُلِّ فَرِيضَةٍ عَلَيكَ ضَيَّعتَها فَتُؤدِّي حَقَّها،
-والخامِسُ اَن تَعمِدَ الى اللَّحمِ الَّذي نَبَتَ على السحت فَتُذِيبُهُ
-الاحزانُ حَتّى تَلصِقَ الجِلدَ بِالعَظمِ ويَنشَأ بَينَها لَحمٌ
-جَدِيدٌ، والسادسُ اَن تُذِيقَ الجِسمَ اَلمَ الطاعَةِ كما اَذقتَهُ
-حَلاوَةَ المَعصِيَةِ فَعِندَ ذلِكَ تَقُولُ: استَغفِرُ الله".
-  </p>
-</blockquote>
+> "قالَ اَميرُ المُؤمِنِين عليه السلام لقائِلٍ قال بِحَضرَتِهِ
+> (استَغفِرُ الله): ثَكَلَتكَ اُمُّكَ، اتَدرِي مَا الاستِغفَارُ؟
+> الاِستِغفارُ دَرَجَةُ العِلّيينَ، وهُوَ اِسمٌ واقِعٌ على سِتَةُ
+> مَعانٍ: اوَّلُها النَدَم على ما مَضى، والثاني العَزمُ على تَركِ
+> العَودِ اِلَيهِ ابَداً، والثالثُ اَن تُؤدِّي الى المَخلُوقِينَ
+> حُقُوقَهُم حَتّى تَلقَى الله اَملَسَ لَيسَ عَليكَ تَبِعَةٌ، والرابِعُ
+> اَن تَعْمِدَ الى كُلِّ فَرِيضَةٍ عَلَيكَ ضَيَّعتَها فَتُؤدِّي حَقَّها،
+> والخامِسُ اَن تَعمِدَ الى اللَّحمِ الَّذي نَبَتَ على السحت فَتُذِيبُهُ
+> الاحزانُ حَتّى تَلصِقَ الجِلدَ بِالعَظمِ ويَنشَأ بَينَها لَحمٌ
+> جَدِيدٌ، والسادسُ اَن تُذِيقَ الجِسمَ اَلمَ الطاعَةِ كما اَذقتَهُ
+> حَلاوَةَ المَعصِيَةِ فَعِندَ ذلِكَ تَقُولُ: استَغفِرُ الله".
 
 *‘Somebody used the expression "Astaghfirullah" (I ask Allah to forgive
 me) in front of Imam ‘Ali (as). Imam ‘Ali (as) said: “May your mother
@@ -919,12 +763,8 @@ far. Thus, our scholars have tried to set forth a kind of compromise
 among these apparent contradictions. One of these scholars is al-Majlisi
 who after mentioning the tradition from Imam ‘Ali (as) said:
 
-<blockquote dir="rtl">
-  <p>
-"ما سِوى الاوَّلَينِ عِندَ جُمهُورِ المُتَكَلِّمِين مِن شَرائِطِ
-كَمالِ التَوبَةِ"
-  </p>
-</blockquote>
+> "ما سِوى الاوَّلَينِ عِندَ جُمهُورِ المُتَكَلِّمِين مِن شَرائِطِ
+> كَمالِ التَوبَةِ"
 
 “For scholars, repenting from the past doings and return from
 evil–doings is among the perfect conditions of repentance and not among
@@ -1038,5 +878,4 @@ vol.3; Refer to the verses following this verse.
 [^44]: . Bihar al-Anwar, vol.6, p.37.
 
 [^45]: . Kashf al-Murad, p.423.
-
 

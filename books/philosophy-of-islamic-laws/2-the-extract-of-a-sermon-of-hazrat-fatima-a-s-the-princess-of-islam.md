@@ -28,6 +28,3 @@ is saved.
 
 **Qisas -** so that the lives of the people are protected.
 
-
-
-

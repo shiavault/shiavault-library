@@ -226,4 +226,3 @@ have been mentioned in Sunni books of tafsir[^5] (Qur\`anic commentary).
 
 [^5]: Jami’ al-Bayan, vol. 25, pg. 70
 
-

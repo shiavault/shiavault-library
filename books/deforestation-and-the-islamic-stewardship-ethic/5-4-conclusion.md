@@ -37,4 +37,3 @@ Muslims and non-Muslims, alike, to preserve the nature entrusted to
 everybody. This is a universal concept toward the environment that
 almost everyone can agree upon.
 
-

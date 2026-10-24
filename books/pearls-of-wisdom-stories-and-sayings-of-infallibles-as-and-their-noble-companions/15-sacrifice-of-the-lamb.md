@@ -32,4 +32,3 @@ the group.[^1]
 
 [^1]: Kahl al Basar, p. 68
 
-

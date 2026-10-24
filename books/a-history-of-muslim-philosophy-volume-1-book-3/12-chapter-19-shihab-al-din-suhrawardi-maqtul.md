@@ -1500,4 +1500,3 @@ Azar Kaiwan, see M. Mu\`in, “Azar Kaiwan wa Pairuwan-i ,u,” Revue de la
 Faculte des Letters, Teheran Uni­versity, Vol. IV, No. 3, 1336,/1917,
 pp. 25-42.
 
-

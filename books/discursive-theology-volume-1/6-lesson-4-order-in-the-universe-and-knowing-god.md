@@ -206,4 +206,3 @@ terminological modification.
 
 [^6]: ‘Allāmah Majlisī, Biḥār al-Anwār, vol. 3, p. 62.
 
-

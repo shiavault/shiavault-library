@@ -46,4 +46,3 @@ these scholars who have transmitted to us information about the Imams.
 In order not to prolong the matter, the list of their names and works
 and their biographies have not been included here.
 
-

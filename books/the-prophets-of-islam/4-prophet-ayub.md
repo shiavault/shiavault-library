@@ -417,4 +417,3 @@ to the heaven.
 References : al Qur'an: Sura AleImran, Nisaa'. Maidah, An'am, Matiyam,
 Anmbiya' Momenun, Zakhraf, Hadeed, Saa Faa, Tahreem.
 
-

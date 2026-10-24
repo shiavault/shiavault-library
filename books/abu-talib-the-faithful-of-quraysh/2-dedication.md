@@ -23,4 +23,3 @@ Dedication
 
 [^1]: He means Imam Ali, Peace upon Him.
 
-

@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ يُطعِمُونَ الطَّعاَمَ عَلیَ حُبِّهِ مِسکِيناً وَ يَتِيماً وَ
-اَسِيراً
-  </p>
-</blockquote>
+> وَ يُطعِمُونَ الطَّعاَمَ عَلیَ حُبِّهِ مِسکِيناً وَ يَتِيماً وَ
+> اَسِيراً
 
 ***“And they give food out of love for Him to the poor and the orphan
 and the captive”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) has said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الاِطعاَمَ مِن مُوجِباَتِ الجَنَّةِ وَ المَغفِرَة
-  </p>
-</blockquote>
+> إنَّ الاِطعاَمَ مِن مُوجِباَتِ الجَنَّةِ وَ المَغفِرَة
 
 ***“Surely, feeding (others) is one of the causes for forgiveness (of
 sins) and entering into Paradise”***[^2]
@@ -207,5 +199,4 @@ said: اللَّهُمَّ باَرِک لَناَ فيِ الخُبز and also 
 [^8]: Namunah-e-Ma’arif, v. 1, p. 276; Safinah al-Bihar, v. 1, p. 375.
 
 [^9]: Tatimmah al-Muntaha, p. 231.
-
 

@@ -16,13 +16,9 @@ From the study of the Holy Quran we learn that Islam is the faith of
 nature. This means that there is absolute compatibility between faith
 and nature. Allah says in the Holy Book:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّهِ الَّتىِ فَطَرَ
-النَّاسَ عَلَيهَْا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّم
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّهِ الَّتىِ فَطَرَ
+> النَّاسَ عَلَيهَْا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّم
 
 ***So set thy purpose for religion as a man by nature upright—the nature
 of Allah, in which He*** ***hath created man. There is no altering the
@@ -80,12 +76,8 @@ be no place for us to turn. This is the time when, like a thirsty
 person, we find Allah. In the Holy Quran, in more than twenty verses,
 clear mention is made about this. For example:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَكِبُواْ فىِ الْفُلْكِ دَعَوُاْ اللَّهَ مخُْلِصِينَ لَهُ
-الدِّينَ فَلَمَّا نجََّئهُمْ إِلىَ الْبرَِّ إِذَا هُمْ يُشْرِكُون
-  </p>
-</blockquote>
+> فَإِذَا رَكِبُواْ فىِ الْفُلْكِ دَعَوُاْ اللَّهَ مخُْلِصِينَ لَهُ
+> الدِّينَ فَلَمَّا نجََّئهُمْ إِلىَ الْبرَِّ إِذَا هُمْ يُشْرِكُون
 
 ***And when they board the ships they pray to Allah, making their faith
 pure for Him only, but when He bringeth them safe to land, behold! They
@@ -118,12 +110,8 @@ of the prophets, the pulpit, the prayer niche (*mahrab*) and worship is
 to ensure that man always remembers Allah. In Surah Taha, Allah
 illustrates this point thus:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّنىِ أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنىِ وَ أَقِمِ
-الصَّلَوةَ لِذِكْرِى
-  </p>
-</blockquote>
+> إِنَّنىِ أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنىِ وَ أَقِمِ
+> الصَّلَوةَ لِذِكْرِى
 
 ***Lo! I, only I, am Allah. There is no god save Me. So serve Me and
 establish prayer for my Remembrance. (Sura Taha 20:14).***
@@ -141,11 +129,7 @@ strive to see through the eyes of their hearts, they will always have
 communion with Allah! They will attain a status that is highlighted in
 the Holy Quran as follows:
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ لَّا تُلْهِيهِمْ تجَِرَةٌ وَ لَا بَيْعٌ عَن ذِكْرِ الله
-  </p>
-</blockquote>
+> رِجَالٌ لَّا تُلْهِيهِمْ تجَِرَةٌ وَ لَا بَيْعٌ عَن ذِكْرِ الله
 
 ***Man whom neither merchandise nor sale beguileth from remembrance of
 Allah…(Sura An-Nur 24:37)***
@@ -197,14 +181,10 @@ him pleasure. When a person reaches this stage, he sacrifices not only
 his worldly belongings but also his own life and dear ones in the way of
 Allah. The Holy Quran has observed in this regard:
 
-<blockquote dir="rtl">
-  <p>
-تَتَجَافىَ‏ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبهَُّمْ خَوْفًا
-وَ طَمَعًا وَ مِمَّا رَزَقْنَهُمْ يُنفِقُونَ (\*) فَلَا تَعْلَمُ
-نَفْسٌ مَّا أُخْفِىَ لهَُم مِّن قُرَّةِ أَعْينُ‏ٍ جَزَاءَ بِمَا
-كاَنُواْ يَعْمَلُون
-  </p>
-</blockquote>
+> تَتَجَافىَ‏ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبهَُّمْ خَوْفًا
+> وَ طَمَعًا وَ مِمَّا رَزَقْنَهُمْ يُنفِقُونَ (\*) فَلَا تَعْلَمُ
+> نَفْسٌ مَّا أُخْفِىَ لهَُم مِّن قُرَّةِ أَعْينُ‏ٍ جَزَاءَ بِمَا
+> كاَنُواْ يَعْمَلُون
 
 ***Who forsake their beds to cry unto their Lord in fear and hope, and
 spend of what we have bestowed on them. No soul knoweth what is kept hid
@@ -293,12 +273,8 @@ required is to avoid sin and purify oneself.
 4. Importance of Prayer
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّنىِ أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنىِ وَ أَقِمِ
-الصَّلَوةَ لِذِكْرِى
-  </p>
-</blockquote>
+> إِنَّنىِ أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنىِ وَ أَقِمِ
+> الصَّلَوةَ لِذِكْرِى
 
 ***Lo! I, only I, am Allah. There is no god save Me. So serve Me and
 establish worship for My remembrance. (Sura Taha 20:14 )***
@@ -388,5 +364,4 @@ morning! During her supplication she would pray for her neighbors and
 Muslims in general. Once I suggested to her that it would be nice if she
 prayed for us as well! She replied, ‘First for the neighbors and then
 for the members of the family!’”
-
 

@@ -74,4 +74,3 @@ point and the pivot of Muslim emotions and beliefs, and this is one of
 the factors that create feelings of closeness among Muslims as well as
 among Islamic denominations.
 
-

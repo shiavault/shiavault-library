@@ -1,10 +1,6 @@
 Abu Dawud
 =========
 
-  
-  
-  
-
 He is al-Imam al-Faqih Abu Dawud Sulayman ibn al-Ash’ath al-Azdi
 al-Sijistani. He was born in 202H. He has visited Baghdad several times,
 and was dead in Basrah in 275 H. Al-Khitabi is reported to have said: No
@@ -44,8 +40,4 @@ two some dubious (mushtabah) things. Some of the traditionists have
 preferred it (Sunan) to Sahih al-Bukhari.
 
 Abu Dawud and al-Bukhari have both learnt fiqh under fuqaha’ of Iraq.
-
-  
-  
-  
 

@@ -356,4 +356,3 @@ it forward.
 
 [^5]: Bihar al-Anwar, I, p. 166.
 
-

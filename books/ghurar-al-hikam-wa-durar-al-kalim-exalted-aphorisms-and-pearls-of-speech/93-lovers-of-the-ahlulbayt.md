@@ -8,32 +8,20 @@ fights our enemies with his sword, then he will be with us in Paradise
 at our stage.
 
 > 1ـ مَنْ أحَبَّنا بِقَلْبِهِ وَكانَ مَعَنا بِلِسانِهِ وقاتَلَ عَدُوَّنا
-<blockquote dir="rtl">
-  <p>
-بِسَيْفِهِ فَهُوَ مَعَنا فيِ الْجَنَّةِ في دَرَجَتِنا.
-  </p>
-</blockquote>
+> بِسَيْفِهِ فَهُوَ مَعَنا فيِ الْجَنَّةِ في دَرَجَتِنا.
 
 2. Whoever loves us with his heart and supports us with his speech but
 does not fight alongside us with his hand, then he will be in Paradise
 but not at our stage.
 
 > 2ـ مَنْ أحَبَّنا بِقَلْبِهِ وأعانَنا بِلِسانِهِ ولَمْ يُقاتِلْ مَعَنا
-<blockquote dir="rtl">
-  <p>
-بِيَدِهِ فَهُوَ فِي الْجَنَّةِ دُونَ دَرَجَتِنا.
-  </p>
-</blockquote>
+> بِيَدِهِ فَهُوَ فِي الْجَنَّةِ دُونَ دَرَجَتِنا.
 
 3. Whoever loves us with his heart but pretends to hate us with his
 tongue will go to Paradise.
 
 > 3ـ مَنْ أحَبَّنا بِقَلْبِهِ وأبْغَضَنا بِلِسانِهِ فَهُوَ فِي
-<blockquote dir="rtl">
-  <p>
-الْجَنَّةِ.
-  </p>
-</blockquote>
+> الْجَنَّةِ.
 
 4. He who loves us should emulate our actions and clothe himself with
 piety.
@@ -57,5 +45,4 @@ and the extreme hater.
 8. If a mountain loved me, it would crumble.
 
 > 8ـ لَوْ أحَبَّنِي جَبَلٌ لَتَهافَتَ.
-
 

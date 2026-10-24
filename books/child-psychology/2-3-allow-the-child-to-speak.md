@@ -74,7 +74,6 @@ languages' to pass on. The child will remember the parents, not kindly,
 for this thoughtless and myopic omission or, worse still, parental
 negligence.
 
-
 **4- "Touch & Tie" the Child**
 
 An Indian mother sits on the floor with her legs stretched close
@@ -119,5 +118,4 @@ it; and so is 'cooking', but then the family needs affection and loyalty
 as much as the 'daily food'. How interesting! Is it not the mutual
 affection and loyalty within the family which also ensures the provision
 of daily food for all in the family?
-
 

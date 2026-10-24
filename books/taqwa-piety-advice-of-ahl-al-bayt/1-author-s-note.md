@@ -127,4 +127,3 @@ Sayyed Hussain Sheikh-al-Islami
 
 [^5]: Safeenat al-Bihar, vol. 2, p. 472.
 
-

@@ -52,4 +52,3 @@ disrespect of digging up a Muslim’s grave?
 Answer: If the obligatory action is more important than there is no
 problem.
 
-

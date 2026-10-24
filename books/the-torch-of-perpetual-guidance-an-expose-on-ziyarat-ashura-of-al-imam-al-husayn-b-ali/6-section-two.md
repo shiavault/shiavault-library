@@ -1,12 +1,8 @@
 Section Two
 ===========
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا ثارَ اللّهِ وَابْنَ ثارِهِ وَالْوِتْرَ
-الْمَوْتُورَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا ثارَ اللّهِ وَابْنَ ثارِهِ وَالْوِتْرَ
+> الْمَوْتُورَ
 
 “Peace be upon you O’ the one who was killed and whose blood has not yet
 been avenged – and whose avenging is in the hands of Allah and peace be
@@ -52,5 +48,4 @@ he cries out to the one who shall avenge the blood on behalf of Allah,
 “Where is the one who shall avenge the blood of the murdered Prophets
 and the sons of the Prophets who were murdered? Where is he one who
 shall avenge the blood of those killed in Karbala’?”
-
 

@@ -224,4 +224,3 @@ could no longer live with a man addicted to drinking and gambling. She
 filed for divorce. She gave up all her rights to her home in return for
 keeping her only child. She intended to raise him to be a good believer.
 
-

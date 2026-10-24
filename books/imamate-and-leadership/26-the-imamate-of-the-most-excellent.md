@@ -34,7 +34,6 @@ The Shi'ah believe that the Imamate constitutes an
  virtues and perfections. When God selects someone as the  
  teacher of humanity and the guide of the ummah to expound  
  His laws to interpret the complexities of the Qur'an and to  
-  
 
 **( 242 )**
 

@@ -44,11 +44,7 @@ I asked: “If I am able to live till that period, what action I should
 perform?” He replied: “O Zurarah if you live till that time you must
 recite the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-اللهم عرفني نفسك.
-  </p>
-</blockquote>
+> اللهم عرفني نفسك.
 
 O Allah! Introduce Yourself to me…[^3]
 
@@ -57,5 +53,4 @@ O Allah! Introduce Yourself to me…[^3]
 [^2]: Ghaibat Nomani, Pg. 86
 
 [^3]: Kamaluddin, Vol. 2, Pg. 342
-
 

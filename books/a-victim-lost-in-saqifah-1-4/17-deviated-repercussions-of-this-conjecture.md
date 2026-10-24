@@ -45,7 +45,7 @@ Unity), Pg. 20
  **[3]** [On the basis of Shia Belief the foundation of Islam is Imamate
 and Wilayat]  
  **[4]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (Unity of Islamic
-Sects), Preface to the 3<sup>rd</sup> Edition, Pg. 11  
+Sects), Preface to the 3rd Edition, Pg. 11  
  **[5]** Mustafa Husaini Tabatabai: *Raahi Bi Soo-e-Wahdat-e-Islami*
 (Way to Islamic Unity), Pg. 163  
  **[6]** Ibid. 5 *Raahi Bi Soo-e-Wahdat-e-Islami* (Way to Islamic
@@ -306,9 +306,9 @@ Pg. 219
 *Collected Papers of International Conference on Imam Ali,* Vol. 1, Pg.
 63-78  
  **[3]** Ibid. Article quoted in *Hambastigi-e-Mazaahib-e-Islami* (Unity
-of Islamic Sects), (3<sup>rd</sup> Edition 1377) Pg. 255 onwards.  
+of Islamic Sects), (3rd Edition 1377) Pg. 255 onwards.  
  **[4]** Ibid. Article quoted in *Hambastigi-e-Mazaahib-e-Islami* (Unity
-of Islamic Sects), (3<sup>rd</sup> Edition 1377) Pg. 257-258
+of Islamic Sects), (3rd Edition 1377) Pg. 257-258
 
 position of Caliphate. So consequently, coming down to position of an
 elected Caliphate one who holds the status of Guardianship it is too low
@@ -402,7 +402,7 @@ time of  
 ------------------------------------------------------------------------
 
 **[1]** Abdul Kareem Bi-Aazaar Shirazi: Article quoted in *Collected
-Papers of International Conference on Imam Ali,* (1<sup>st</sup> Edition
+Papers of International Conference on Imam Ali,* (1st Edition
 1380) Vol. 1, Pg. 63  
  **[2]** Ibid. Article quoted in Collected Papers of International
 Conference on Imam Ali, Vol. 1, Pg. 72  

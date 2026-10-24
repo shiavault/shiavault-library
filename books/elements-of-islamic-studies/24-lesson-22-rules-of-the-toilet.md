@@ -43,4 +43,3 @@ of Allah or Ma’sumeen on it.
 9. It is now allowed to use bone or dung in cleaning the body after
 relieving bowels.
 
-

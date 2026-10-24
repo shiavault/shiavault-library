@@ -94,4 +94,3 @@ Al-Hassan Al-Askari, commonly known as the Mahdi is the awaited Saviour
 about whom all prophets spoke. Birth: mid Sha'ban 255 A..H., Samaraa,
 Iraq.
 
-

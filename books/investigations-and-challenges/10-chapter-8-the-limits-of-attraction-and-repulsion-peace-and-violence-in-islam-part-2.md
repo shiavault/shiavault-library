@@ -83,13 +83,9 @@ advancement and perfection which is related to the body of man and there
 is also another stage of life, advancement and perfection which is
 related to his soul. The Holy Qur’an says thus:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ
-بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ
+> بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ
 
 ***O you who have faith! Answer Allah and the Apostle when he summons
 you to that which will give you life. (8:24)***
@@ -101,13 +97,9 @@ to that which will give you life*”? Definitely, this “*life*” is not
 material and physical, and a different life is referred to. In another
 place, it thus states:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ ۚ إِنْ هُوَ إِلَّا
-ذِكْرٌ وَقُرْآنٌ مُبِينٌ لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيَحِقَّ
-الْقَوْلُ عَلَى الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ ۚ إِنْ هُوَ إِلَّا
+> ذِكْرٌ وَقُرْآنٌ مُبِينٌ لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيَحِقَّ
+> الْقَوْلُ عَلَى الْكَافِرِينَ
 
 ***We did not teach him poetry, nor does it behoove him. This is just a
 reminder and a manifest Qur’an, so that anyone who is alive may be
@@ -123,12 +115,8 @@ become clear that the Qur’an refers to a different life. It is
 sense of hearing for him to be able to listen to the word of God and be
 guided:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ
-إِذَا وَلَّوْا مُدْبِرِينَ
-  </p>
-</blockquote>
+> فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ
+> إِذَا وَلَّوْا مُدْبِرِينَ
 
 ***Indeed you cannot make the dead hear. (30:52)***
 
@@ -139,15 +127,11 @@ dead.
 What is the sign of the aliveness of the heart and soul? Its sign is the
 state of “fear”:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِنْ تَدْعُ مُثْقَلَةٌ
-إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ
-ۗ إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ
-وَأَقَامُوا الصَّلَاةَ ۚ وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ
-لِنَفْسِهِ ۚ وَإِلَى اللَّهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِنْ تَدْعُ مُثْقَلَةٌ
+> إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ
+> ۗ إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ
+> وَأَقَامُوا الصَّلَاةَ ۚ وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ
+> لِنَفْسِهِ ۚ وَإِلَى اللَّهِ الْمَصِيرُ
 
 ***You can only warn those who fear their Lord in secret. (35:18)***
 
@@ -157,13 +141,9 @@ purpose and given you a responsibility, it will tremble and not remain
 indifferent. The outcome of fear and penetration of faith [*iman*] into
 the heart is this:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
-يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
-تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
+> يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
+> تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
 
 ***He will grant you a double share of His mercy and give you a light to
 walk by. (57:28**)*
@@ -172,13 +152,9 @@ This light is not material and perceptible; rather, it is light related
 to the aliveness of the heart and soul the aliveness which is pointed
 out by the Qur’an in many instances and through many ways:
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
-بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى
-الْأَبْصَارُ وَلَٰكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
-  </p>
-</blockquote>
+> أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ
+> بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى
+> الْأَبْصَارُ وَلَٰكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
 
 ***Indeed it is not the eyes that turn blind, but the hearts turn
 blind—those which are in the breasts! (22:46)***
@@ -187,15 +163,11 @@ Material and physical eye has life and vision, but it has no vision of
 the soul and inner being. The muscular heart in the bosom beats and is
 alive but there is another heart which has the problem:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
-أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ
-مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ
-ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
+> أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ
+> مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
+> مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ
+> ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ
 
 ***Then your hearts hardened after that; so they are like stones, or
 even harder. (2:74)***
@@ -203,15 +175,11 @@ even harder. (2:74)***
 That heart, like a stone, is hard and impenetrable, nay it has become
 more solid than stone:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
-أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ
-مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ
-ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
+> أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ
+> مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
+> مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ
+> ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ
 
 ***For indeed there are some stones from which streams gush forth, and
 indeed there are some of them that split, and water issues from them.
@@ -253,12 +221,8 @@ be repulsed. Therefore, the first step is knowledge and understanding
 and abandonment of negligence and ignorance. Man should know that his
 soul is such that:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ ۗ أَلَا
-بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ ۗ أَلَا
+> بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
 
 ***Look! The hearts find rest in Allah’s remembrance! (13:28)***
 
@@ -268,13 +232,9 @@ remembrance of God. The same heart is such that if it is not protected
 and not kept away from pests and simoom, it will become so corrupt and
 disgusted with God:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا
-يُؤْمِنُونَ بِالْآخِرَةِ ۖ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا
-هُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا
+> يُؤْمِنُونَ بِالْآخِرَةِ ۖ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا
+> هُمْ يَسْتَبْشِرُونَ
 
 ***When Allah is mentioned alone, [thereat] shrink away the hearts of
 those who do not believe in the Hereafter. (39:45)***
@@ -361,15 +321,11 @@ At any rate, whether this story is true or not is not important. What
 matters is that it is a fact that the high degree of faith is that even
 the thought of sinning is not entertained in one’s mind:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
-إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
-بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
-مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ
-رَحِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ
+> إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ
+> بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ
+> مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ
+> رَحِيمٌ
 
 ***O you who have faith! Avoid much suspicion. Indeed some suspicions
 are sins. (49:12)***
@@ -379,13 +335,9 @@ and keep aloof from it. To think of a sin and to imagine some of the
 scenes of sinning may insinuate a person gradually and drag him to sin.
 The faithful should remember God at all times:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
-وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
-خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
+> وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
+> خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
 
 ***Those who remember Allah standing, sitting, and lying on their sides.
 (3:191)***
@@ -410,11 +362,7 @@ Interpretation of the Verse, “So Let Man Observe his Food”
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
-  </p>
-</blockquote>
+> فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
 
 ***So let man observe his food. (80:24)***
 
@@ -461,15 +409,11 @@ there is nothing wrong to read or listen to subjects that bring about
 doubts, but as long as one has not yet attained such degree of immunity
 and intellectual growth, he should avoid such subjects:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
-اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
-حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
-إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
-جَمِيعًا
-  </p>
-</blockquote>
+> وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
+> اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
+> حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
+> إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
+> جَمِيعًا
 
 ***When you hear Allah’s signs being disbelieved and derided, do not sit
 with them until they engage in some other discourse, or else you [too]
@@ -481,14 +425,10 @@ we are not yet immunized, there is the possibility that participating in
 their meetings and listening to their statements, this mental virus will
 gradually affect us and rob us of our faith and beliefs:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ
-عَنْهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ وَإِمَّا
-يُنْسِيَنَّكَ الشَّيْطَانُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرَىٰ مَعَ
-الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ
+> عَنْهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ وَإِمَّا
+> يُنْسِيَنَّكَ الشَّيْطَانُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرَىٰ مَعَ
+> الْقَوْمِ الظَّالِمِينَ
 
 ***When you see those who gossip impiously about Our signs, avoid them
 until they engage in some other discourse. (6:68)***
@@ -502,15 +442,11 @@ vilified and insulted while the fundamentals of religion are questioned.
 What will happen if we participate and read so? This is the reply of the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
-اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
-حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
-إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
-جَمِيعًا
-  </p>
-</blockquote>
+> وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
+> اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
+> حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
+> إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
+> جَمِيعًا
 
 ***Or else you [too] will be like them. Indeed Allah will gather the
 hypocrites and the faithless in hell all together. (4:140)***
@@ -562,12 +498,8 @@ and there is no more hope for recovery and relief, just like one who is
 located at a very steep slope and cannot control himself from running
 down:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ
-وَأَبْصَارِهِمْ ۖ وَأُولَٰئِكَ هُمُ الْغَافِلُونَ
-  </p>
-</blockquote>
+> أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ
+> وَأَبْصَارِهِمْ ۖ وَأُولَٰئِكَ هُمُ الْغَافِلُونَ
 
 ***Allah has set a seal on their hearts, and on their hearing and their
 sight [as well], and it is they who are the heedless. (16:108)***
@@ -576,13 +508,9 @@ Sometimes, while our sickness is turning cancerous and incurable, we are
 still heedless and in many cases, we are instead very glad, imagining
 that day by day we are progressing and getting closer to perfection:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا الَّذِينَ ضَلَّ
-سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ
-يُحْسِنُونَ صُنْعًا
-  </p>
-</blockquote>
+> قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا الَّذِينَ ضَلَّ
+> سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ
+> يُحْسِنُونَ صُنْعًا
 
 ***Shall we inform you about the biggest losers in regard to works?
 Those who endeavor goes awry in the life of the world, while they
@@ -595,16 +523,12 @@ smoke and poison into our soul, and like the mountaineers and athletes,
 we may also provide fresh and clean air as the breathing space for our
 hearts and souls:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ
-لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا
-مَدْحُورًا وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ
-مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا كُلًّا نُمِدُّ
-هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ ۚ وَمَا كَانَ عَطَاءُ
-رَبِّكَ مَحْظُورً
-  </p>
-</blockquote>
+> مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ
+> لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا
+> مَدْحُورًا وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ
+> مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا كُلًّا نُمِدُّ
+> هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ ۚ وَمَا كَانَ عَطَاءُ
+> رَبِّكَ مَحْظُورً
 
 ***Whoever desires this transitory life, We expedite for him therein
 whatever We wish, for whoever We desire. Then We appoint hell for him,
@@ -643,12 +567,8 @@ thing is to be attracted or repulsed is your decision, and there is no
 difference whichever you choose good or bad. You will be provided with
 Our assistance in obtaining it. The Holy Qur'an also reads:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا ۖ وَمَنْ جَاءَ
-بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
-  </p>
-</blockquote>
+> مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا ۖ وَمَنْ جَاءَ
+> بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
 
 ***Whoever brings virtue shall receive ten times its like; but whoever
 brings vice shall not be requited except with its like, and they will
@@ -764,5 +684,4 @@ split the earth into fissures and made the grain grow in it, and vines
 and vegetables, olives and date palms, and densely-planted gardens,
 fruits and pastures, as a sustenance for you and your livestock.”
 [Trans.]
-
 

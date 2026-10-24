@@ -51,4 +51,3 @@ And you, my lady, in this world, and the next, O' Zaynab!
 
 AMEN
 
-

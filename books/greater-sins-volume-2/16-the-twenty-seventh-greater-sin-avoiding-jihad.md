@@ -89,4 +89,3 @@ deserted the battle in Khaibar and Ohud.”
 [^1]: Wajib al-Kifai means that if some person undertakes to fulfill an
 obligation, others need not.
 
-

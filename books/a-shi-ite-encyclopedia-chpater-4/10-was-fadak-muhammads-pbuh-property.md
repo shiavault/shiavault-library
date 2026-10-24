@@ -37,7 +37,6 @@ but they belonged to the Messenger of Allah especially.
 - Musnad of Ahmad Hanbal, vol p 25, 48, 60, 208
 - Sunan al Kubra (al Bayhaqi), vol 6 p 296-99
 
-
 **Did the Prophet (pbuh) present the land to Fatima (as) ?**
 
 The Prophet in his life time with the instructions from Allah the
@@ -83,7 +82,6 @@ from Abdullah ibn al Abbas for the above verse ]
 - Sharah e Muwaqif p 735
 - Tareekh Ahmadi p45
 - Ruh al ma'ani, vol 15 p 62
-
 
 It leaves no room for us to believe that the Land of Fadak was not the
 personal belonging of Hadhrat Fatimah (AS)!
@@ -163,7 +161,6 @@ Fatimah but he was rejected too.
 - al Muhalla, Ibn HAzm, vol 6 p 507
 - as Sirah al halabiyah, vol 3 p 261
 - at Tafsir, al Fakr ad Din al Razi, vol 29 p 284
-
 
 copied it. But there is a lot of contradiction in their statements.
 Ibn-Saad narrates that Fatimah had not heard this directly from
@@ -606,5 +603,4 @@ How can we take it for fact that what Abu Bakr stated was a hadith of
 the Holy Prophet (PBUH&HF) when the statement is in direct contradiction
 with not only Historical facts, Interpreatations of the Sunni
 Commentators, but also with the Quranic injunctions?
-
 

@@ -122,4 +122,3 @@ Seventh Occasion: Day of Judgement: It is the harshest and severest.
 There are fifty stations in the Day of Judgement; each more difficult
 than the previous one. We hope that you, dear reader, will pray for us.
 
-

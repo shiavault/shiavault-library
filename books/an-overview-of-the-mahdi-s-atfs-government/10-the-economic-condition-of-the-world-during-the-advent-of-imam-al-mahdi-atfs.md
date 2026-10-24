@@ -187,4 +187,3 @@ al-Mufid, Irshad, p. 361; A‘lam al-Wara, p. 456; ‘Ayyashi, Tafsir
 
 [^20]: Ibn Tawus, Malahim, p. 59.
 
-

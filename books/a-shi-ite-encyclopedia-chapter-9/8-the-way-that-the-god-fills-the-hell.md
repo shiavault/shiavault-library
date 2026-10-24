@@ -185,7 +185,6 @@ scholars!
 Please, after you look at the above two chapter of the book let me know
 what you think.
 
-
 The only hadith in this article was taken from:
 
 **The translation of the meaning of Sahih al-Bukhari
@@ -248,7 +247,6 @@ Total number of traditions in 9 volumns of Bukhari:
 
 Aisha the mother of faithful: 1250 (17.68%)
 
-
 Abu Hurairah: 1100 (15.56%)
 
 Ibn-Umar, son of Umar: 1100 (15.56%)
@@ -276,7 +274,6 @@ Umar-Ibn-Khattab: 50 (0.71%)
 Umm Salamh: 48 (0.68%)
 
 Abdullah-Ibn-Masud: 45 (0.64%)
-
 
 Muawiyah-Ibn-Abusofyan: 10 (0.14%)
 
@@ -490,5 +487,4 @@ hearing that), Aban said to Abu Huraira, "How strange your saying is!
 You, a guinea pig, descending from Qadum Dan, blaming me for (killing) a
 person whom Allah favored (with martyrdom) with my hand, and whom He
 forbade to degrade me with his hand.'
-
 

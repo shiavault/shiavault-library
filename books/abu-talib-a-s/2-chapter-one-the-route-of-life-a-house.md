@@ -492,4 +492,3 @@ knowing about him ... etc."
 2 Refer to Biharul Anwar, vol.6 p.43. It was mentioned in another ways
 in Ithbatul Wasiyya p.107 and Al-Hujja p.77.
 
-

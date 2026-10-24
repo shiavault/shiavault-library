@@ -25,7 +25,6 @@ affliction." (Surah Yunus, 10: 12)
 "Man has been created impatient - fretful, when evil befalls him, and
 when good befalls him grudging." (Surah al-Ma'arij, 70:19 - 20)
 
-
 **Is Man By Nature Good or Bad?**
 
 What conclusion can we draw from all this? Is man from the viewpoint of
@@ -69,5 +68,4 @@ endurance." (Surah al-Asr)
 but do not understand with them; they have eyes, but do not see with
 them; and they have ears, but do not hear with them. They are like
 beasts or even further astray." (Surah al-A'rif, 7:179)
-
 

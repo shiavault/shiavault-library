@@ -2370,4 +2370,3 @@ Tarikh al-Tabariy 2:273.
 [^132]: For more details, refer to Tarikh al-Tabariy, Tarikh
 al-Ya\`qubiy 2:132, and many other reference books of Islamic history.
 
-

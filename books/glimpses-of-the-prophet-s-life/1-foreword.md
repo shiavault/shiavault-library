@@ -146,4 +146,3 @@ written during his lifetime (4) and were compiled after his passing
 away. It need hardly be stated that the "science of Tradition" is highly
 developed and the method of authenti- cation is very impressive.
 
-

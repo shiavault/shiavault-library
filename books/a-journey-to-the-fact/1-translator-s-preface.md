@@ -50,4 +50,3 @@ questions and queries pertaining to religion and faith.
 **September** **2006**
 **Majeed** **Muhammad**
 
-

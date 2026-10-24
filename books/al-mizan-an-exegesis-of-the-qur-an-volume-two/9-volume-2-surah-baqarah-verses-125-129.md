@@ -1028,7 +1028,6 @@ traditions which have come down to us regarding the philosophy of
 various acts of worship and the esoteric aspects of their legislation
 and prescription, as any diligent scholar may find out.
 
-
 \* al-Buraq is the name of the animal which was also sent to the
 Prophet (s.a.w.a.) to ride during al-Mi'raj (Ascension). (tr.)
 

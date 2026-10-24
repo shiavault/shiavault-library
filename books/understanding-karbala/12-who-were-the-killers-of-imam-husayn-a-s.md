@@ -572,4 +572,3 @@ a liar, one worse than Hajjaj, and God knows what else!
 
 [^12]: Sharh Ibne Abil Hadid, Vol. 1, Part 4, Pg. 195
 
-

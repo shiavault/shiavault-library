@@ -67,7 +67,6 @@ Muslims' lives on the one hand, and fear from the Ummayyad authorities,
 the terrorism of the rulers, and the love of life and a comfortable,
 easy living on the other.
 
-
 **Imam Hussein (A.S.) In Karbala'**
 
 Imam Hussein's (a.s.) caravan set off on the eighth day of the month of
@@ -231,7 +230,6 @@ dismounted he stated that his father, Imam Ali (a.s.), on his way to
 Siffeen had passed by this desert plain when he himself had been in his
 company. Imam Ali (a.s) had informed him that he would be forced to camp
 here and his blood would be shed here.
-
 
 **KARBALA'**
 
@@ -410,5 +408,4 @@ yet satisfied with all this, carried the children and women, in addition
 to the sick son of Imam Hussein (a.s.), Imam Zain Al-Abideen (a.s.), as
 prisoners from Kufa to Syria. At the front of the sad procession were
 the heads of Imam Hussein (a.s.) and his followers.
-
 

@@ -1501,4 +1501,3 @@ Amen, O Lord of the worlds and peace be on whoever follows the guidance.
 
 [^131]: Qur'an, 15:39.
 
-

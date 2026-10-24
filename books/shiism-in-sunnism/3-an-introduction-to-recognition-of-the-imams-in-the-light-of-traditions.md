@@ -156,11 +156,7 @@ Sunni scholars have presented the same or nearly the same definitions
 for Imamate.[^3] As is quoted, Abu Bakr too, when denying Ansar’s[^4]
 candidate for Caliphate, adduced the tradition:
 
-<blockquote dir="rtl">
-  <p>
-الأئمَِّةُ مِن قُريشٍ.
-  </p>
-</blockquote>
+> الأئمَِّةُ مِن قُريشٍ.
 
 “Imams are from Quraysh.”[^5]
 
@@ -175,12 +171,8 @@ Islam is undoubtedly the everlasting religion until the Resurrection Day
 and never dependent upon the great Prophet of Islam (a.s). The Holy
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّد إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ
-أَفَإِيْن مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ.
-  </p>
-</blockquote>
+> وَمَا مُحَمَّد إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ
+> أَفَإِيْن مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ.
 
 ***“And Muhammad is no more than a messenger; the messengers have
 already passed away before him; if then he dies or is killed will you
@@ -220,48 +212,32 @@ as a pagan; i.e. he dies as apostate.
 
 • *Musnad Ahmad*, Vol. 3, p. 446:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : من مات وليست عليه طاعه مات
-ميتة جاهلية.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : من مات وليست عليه طاعه مات
+> ميتة جاهلية.
 
 The Holy Prophet (a.s) has said: One who dies without obedience (to an
 Imam), dies as a pagan and disbeliever.[^9]
 
 • *Sahih Muslim*, Vol. 12, p.240 (Nawawi’s exposition):
 
-<blockquote dir="rtl">
-  <p>
-سمعت رسول الله صلّى اللهُ عليهِ وسلَّم يقول: ومَن ماتَ وَلَيسَ في
-عُنُقِه بَيعَةٌ ماتَ ميتة جاهلية.
-  </p>
-</blockquote>
+> سمعت رسول الله صلّى اللهُ عليهِ وسلَّم يقول: ومَن ماتَ وَلَيسَ في
+> عُنُقِه بَيعَةٌ ماتَ ميتة جاهلية.
 
 The Holy Prophet (a.s) has said: One who dies with no allegiance (to an
 Imam) has died as a pagan.[^10]
 
 • *Al-Mu’jam* *Al-Kabir*, Vol. 10, p.289:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَنْ ماتَ ولَيسَ عليه إمامُ
-فَمِيتَتُهُ مِيتَةٌ جاهِلِيّة.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَنْ ماتَ ولَيسَ عليه إمامُ
+> فَمِيتَتُهُ مِيتَةٌ جاهِلِيّة.
 
 The Holy Prophet (a.s) has said: One who dies and has no Imam has died
 as a pagan.[^11]
 
 • *Sahih Muslim*, Vol. 12, p. 201 (Nawawi’s exposition):
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : لا يَزالُ هذا الأمرُ في
-قُرَيشٍ ما بَقيَ في النّاسِ اثْنانِ.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : لا يَزالُ هذا الأمرُ في
+> قُرَيشٍ ما بَقيَ في النّاسِ اثْنانِ.
 
 The Holy Prophet (a.s) has said: As long as there are at least two
 people (in the world), this issue (Caliphate) remains in Quraysh.[^12]
@@ -270,12 +246,8 @@ As is evident, this requires the continuation of Caliphate.
 
 • *Musnad Ahmad*, Vol. 4, p.96:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَنْ ماتَ بِغَيرِ إمامٍ ماتَ
-مِيتةً جاهِلِيّة.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَنْ ماتَ بِغَيرِ إمامٍ ماتَ
+> مِيتةً جاهِلِيّة.
 
 The Holy Prophet (a.s) has said: One who dies with no Imam dies as a
 pagan[^13].
@@ -288,12 +260,8 @@ and collections of traditions.
 
 • *Mustadrak Hakim*, Vol. 1,p.77:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَن ماتَ ولَيسَ عَلَيه إمامُ
-جَماعَةٍ فإنّ مِيتَتَهُ مِيتَةٌ جَاهِلِيةٌ.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَن ماتَ ولَيسَ عَلَيه إمامُ
+> جَماعَةٍ فإنّ مِيتَتَهُ مِيتَةٌ جَاهِلِيةٌ.
 
 The Messenger of Allah said: One who dies and has no Imam of the public
 dies as a pagan.
@@ -302,11 +270,7 @@ Hakim considers this tradition as valid.
 
 • *Al-Mu’jam* *Al-Kabir*, Vol. 12, p.336:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ ماتَ مِن غَيرِ إمامِ جَماعَةٍ ماتَ مِيتَةً جَاهِلِيَّةً.
-  </p>
-</blockquote>
+> وَمَنْ ماتَ مِن غَيرِ إمامِ جَماعَةٍ ماتَ مِيتَةً جَاهِلِيَّةً.
 
 One who dies without an Imam of the public dies a pagan death.
 
@@ -331,26 +295,18 @@ should be just.
 
 • *Al-Mu’jam* *Al-Kabir*, Vol. 10, p.132, No. 10210:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : لا بُدَّ للنّاسِ مِن إمارَةٍ
-بَرَّةٍ أو فَاجِرَةٍ.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : لا بُدَّ للنّاسِ مِن إمارَةٍ
+> بَرَّةٍ أو فَاجِرَةٍ.
 
 The Holy Prophet (a.s) has said: People have no refuge from the
 government; either a good or a bad one.
 
 • *Al-Sunan Al-Kubra*, Vol. 8, P. 184:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعَ عَليّاً رَضيَ اللهُ عَنهُ قوماً يَقولونَ: لا حُكْمَ إلاّ للهِ!
-قال: نَعَمْ! لا حُكْمَ إلاّ لله. وَلكِنْ لا بُدَّ لِلنّاسِ مِنْ أمِيرٍ
-بَرٍّ أوْ فاجِرٍ يَعْمَلُ فِيهِ المُؤْمِنِ وَيَسْتَمتِعُ فِيهِ
-الكَافِرُ وَيُبلِّغُ اللهُ فيهِ الأَجَلَ.
-  </p>
-</blockquote>
+> سَمِعَ عَليّاً رَضيَ اللهُ عَنهُ قوماً يَقولونَ: لا حُكْمَ إلاّ للهِ!
+> قال: نَعَمْ! لا حُكْمَ إلاّ لله. وَلكِنْ لا بُدَّ لِلنّاسِ مِنْ أمِيرٍ
+> بَرٍّ أوْ فاجِرٍ يَعْمَلُ فِيهِ المُؤْمِنِ وَيَسْتَمتِعُ فِيهِ
+> الكَافِرُ وَيُبلِّغُ اللهُ فيهِ الأَجَلَ.
 
 Ali (a.s)—May God be content with him—heard a group saying: “The ruling
 is only Allah’s.”[^17] He said: “This is true! Ruling is only Allah’s,
@@ -360,13 +316,9 @@ Allah will expire the appointed time.” [^18]
 
 • *Al-Durr Al-Manthur*, Vol. 4, p. 194 :
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : ﴿يَوْمَ نَدْعُو كُلَّ أُنَاسٍ
-بِإِمَامِهِمْ﴾ قال: يُدعَى كُلُّ قَومٍ بِإمامِ زَمانِهِمْ وَكِتابِ
-رَبِّهِمْ وَسُنّةِ نَبِيِّهِمْ.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : ﴿يَوْمَ نَدْعُو كُلَّ أُنَاسٍ
+> بِإِمَامِهِمْ﴾ قال: يُدعَى كُلُّ قَومٍ بِإمامِ زَمانِهِمْ وَكِتابِ
+> رَبِّهِمْ وَسُنّةِ نَبِيِّهِمْ.
 
 Ibn Mardwiah has quoted Ali—May his God be content with him—as saying
 that the Prophet (a.s), when interpreting the honorable Qur’anic verse:
@@ -381,23 +333,15 @@ the Imam of their age.[^20]
 
 • *Al-Musannaf*, Vol. 8, p.614, No. 146:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَلِيٍّ: وإنَّ النّاسَ لا يُصْلِحُهُم إلاّ إمامٌ بَرٌّ أو فاجِرٌ.
-  </p>
-</blockquote>
+> عَنْ عَلِيٍّ: وإنَّ النّاسَ لا يُصْلِحُهُم إلاّ إمامٌ بَرٌّ أو فاجِرٌ.
 
 Ali (a.s) is quoted as saying: People are indeed not guided, except by
 Imam and leader, either good or bad.[^21]
 
 • *Kanz Al-Ummal*, Vol. 5, p.779, No. 14366:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَليٍّ قالَ: إنَّ مُعاوِيَةَ سَيَظْهَرُ عَلَيكُم. قالوا: فَلِمَ
-نقاتل إذاً؟ قال: لا بُدَّ لِلنّاسِ مِن أميرٍ بَرٍّ أوْ فاجِرٍ.
-  </p>
-</blockquote>
+> عَنْ عَليٍّ قالَ: إنَّ مُعاوِيَةَ سَيَظْهَرُ عَلَيكُم. قالوا: فَلِمَ
+> نقاتل إذاً؟ قال: لا بُدَّ لِلنّاسِ مِن أميرٍ بَرٍّ أوْ فاجِرٍ.
 
 Ali (a.s) is quoted as saying: “Mu’awiyah will certainly dominate you.”
 “Why do we fight then?” he was asked. “People have no refuge from having
@@ -405,18 +349,14 @@ a ruler, either a good or a bad one,” he replied.
 
 • *Al-Musannaf*, Vol. 8, p. 741, No. 51:
 
-<blockquote dir="rtl">
-  <p>
-دَخَلَ رَجُلٌ المَسْجِدَ فَقَالَ: لا حُكْمَ إلاّ للهِ. ثُمَّ قالَ
-آخَرُ: لا حُكْمَ، فَقالَ عَليٌّ: لا حُكْمَ إلاّ للهِ ﴿إِنَّ وَعْدَ
-اللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ.﴾ فَما
-تَدْرونَ ما يَقولُ هَؤلاء؟ يَقولون لا إمارَةَ! أيُّها النّاسُ! لا
-يُصْلِحُكُمْ إلاّ أميرٌ بَرٌّ أوْ فاجِرٌ. قالوا: هَذا البَرُّ فَقَد
-عَرفْناهُ، فَما بَالُ الفاجِرِ؟ فَقالَ: يُملى لِلفاجِرِ وَيُبَلِّغُ
-اللهُ الأجَلَ وتَأمَنُ سُبُلُكُم وَتَقومُ أسْواقُكُم وَيُجْبى فَيئُكُم
-وَيُجاهِدُ عَدُوَّكُم وَيُؤخَذُ لِلضَّعِيفِ مِنَ الشَّدِيدِ مِنْكُمْ.
-  </p>
-</blockquote>
+> دَخَلَ رَجُلٌ المَسْجِدَ فَقَالَ: لا حُكْمَ إلاّ للهِ. ثُمَّ قالَ
+> آخَرُ: لا حُكْمَ، فَقالَ عَليٌّ: لا حُكْمَ إلاّ للهِ ﴿إِنَّ وَعْدَ
+> اللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ.﴾ فَما
+> تَدْرونَ ما يَقولُ هَؤلاء؟ يَقولون لا إمارَةَ! أيُّها النّاسُ! لا
+> يُصْلِحُكُمْ إلاّ أميرٌ بَرٌّ أوْ فاجِرٌ. قالوا: هَذا البَرُّ فَقَد
+> عَرفْناهُ، فَما بَالُ الفاجِرِ؟ فَقالَ: يُملى لِلفاجِرِ وَيُبَلِّغُ
+> اللهُ الأجَلَ وتَأمَنُ سُبُلُكُم وَتَقومُ أسْواقُكُم وَيُجْبى فَيئُكُم
+> وَيُجاهِدُ عَدُوَّكُم وَيُؤخَذُ لِلضَّعِيفِ مِنَ الشَّدِيدِ مِنْكُمْ.
 
 A man entered the mosque and said: “Ruling is only Allah’s.” Another one
 came and repeated the same thing. Ali (a.s) said: “Ruling is only
@@ -493,12 +433,8 @@ Prophet. Some traditions are mentioned hereinafter:
 
 • *Sahih Al-Bukhari*, Vol. 4.p. 168:
 
-<blockquote dir="rtl">
-  <p>
-سمعتُ النبيّ صلّى اللهُ عليهِ وسلَّم يقول: يَكونُ اثْنا عَشرَ أميراً،
-فقالَ كَلمَةً لم أسْمَعْها، فقال أبي إنّه قال: كُلُّهُم مِن قُريشٍ.
-  </p>
-</blockquote>
+> سمعتُ النبيّ صلّى اللهُ عليهِ وسلَّم يقول: يَكونُ اثْنا عَشرَ أميراً،
+> فقالَ كَلمَةً لم أسْمَعْها، فقال أبي إنّه قال: كُلُّهُم مِن قُريشٍ.
 
 Jabir says: I heard the Prophet (a.s) saying: “There will be twelve
 leaders and Caliphs.” Then he added something I could not hear. My
@@ -506,13 +442,9 @@ father said that the Prophet said: “All of them are from Quraysh.”[^26]
 
 • *Sahih Muslim*, Vol. 6, p. 3:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي صلّى اللهُ عليهِ وسلَّم : إنَّ هذا الأمْرَ لا يَنْقَضي حَتىّ
-يَمضي فيهم اثنا عَشَرَ خَليفَةً. قال: ثم تكلم بكلام خفِيَ عليّ، فقلتُ
-لأبي: ما قال؟ قال: كُلُّهُم مِن قُرَيْشٍ.
-  </p>
-</blockquote>
+> قال النبي صلّى اللهُ عليهِ وسلَّم : إنَّ هذا الأمْرَ لا يَنْقَضي حَتىّ
+> يَمضي فيهم اثنا عَشَرَ خَليفَةً. قال: ثم تكلم بكلام خفِيَ عليّ، فقلتُ
+> لأبي: ما قال؟ قال: كُلُّهُم مِن قُرَيْشٍ.
 
 Jabir narrates: My father and I went to the Prophet (a.s). We heard him
 saying: “This issue (Caliphate) will not be completed until twelve
@@ -521,13 +453,9 @@ what the Prophet had said. He said: “All are from Quraysh.”[^27]
 
 • *Sahih Muslim*, Vol. 6, p.4 (Nawawi’s exposition):
 
-<blockquote dir="rtl">
-  <p>
-سمعتُ رسول الله صلّى اللهُ عليهِ وسلَّم يقول: لا يَزالُ الدّين قائِماً
-حتىّ تَقومَ السّاعَةُ أو يَكونَ عَليكُم اثْنا عَشَرَ خَليفَةً كُلُّهُم
-مِن قُريشٍ.
-  </p>
-</blockquote>
+> سمعتُ رسول الله صلّى اللهُ عليهِ وسلَّم يقول: لا يَزالُ الدّين قائِماً
+> حتىّ تَقومَ السّاعَةُ أو يَكونَ عَليكُم اثْنا عَشَرَ خَليفَةً كُلُّهُم
+> مِن قُريشٍ.
 
 The Holy Prophet (a.s) has said: The religion (Islam) remains
 established until twelve Caliphs, all of whom from Quraysh, rule over
@@ -538,13 +466,9 @@ words.
 
 • *Sahih Muslim*, Vol. 6, p. 3:
 
-<blockquote dir="rtl">
-  <p>
-سمعتُ رسول الله صلّى اللهُ عليهِ وسلَّم يقول: لا يَزالُ الإسلامُ
-عَزيزاً إلى اثنَي عَشرَ خَليفَةً. ثمّ قالَ كَلمَةً لم أفْهَمْها،
-فقُلتُ لأبي: ما قال؟ فَقالَ: كُلُّهُم مِن قُريشٍ.
-  </p>
-</blockquote>
+> سمعتُ رسول الله صلّى اللهُ عليهِ وسلَّم يقول: لا يَزالُ الإسلامُ
+> عَزيزاً إلى اثنَي عَشرَ خَليفَةً. ثمّ قالَ كَلمَةً لم أفْهَمْها،
+> فقُلتُ لأبي: ما قال؟ فَقالَ: كُلُّهُم مِن قُريشٍ.
 
 Jabir narrates: I heared the great Prophet (a.s) saying: “Islam will
 always remain mighty until twelve Imams come.” Then he said something I
@@ -553,13 +477,9 @@ did not understand. I asked my father: “What did he say?” He replied:
 
 • *Sahih* Al-Tirmidhi, Vol 2, p. 45 :
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلّى اللهُ عليهِ وسلَّم : يَكونُ مِن بَعدِي اثْنا عَشرَ
-أميراً. ثمّ تَكَلّم بِشيءٍ لم أفهَمْه، فسأَلْتُ الذي يَليني فقال:
-كُلّهُم مِن قُريْشٍ.
-  </p>
-</blockquote>
+> قال رسول الله صلّى اللهُ عليهِ وسلَّم : يَكونُ مِن بَعدِي اثْنا عَشرَ
+> أميراً. ثمّ تَكَلّم بِشيءٍ لم أفهَمْه، فسأَلْتُ الذي يَليني فقال:
+> كُلّهُم مِن قُريْشٍ.
 
 Jabir says that the Prophet (a.s) said: “There will be Twelve Imams and
 leaders after me.” Then he said something I did not get. I asked the
@@ -570,12 +490,8 @@ which is narrated from Jabir in different chains.”[^30]
 
 • *Musnad Ahmad*, Vol. 5, p. 106:
 
-<blockquote dir="rtl">
-  <p>
-سمعتُ النبي صلّى اللهُ عليهِ وسلَّم يقول: يكونُ لِهذِه الأمَّةِ اثْنا
-عَشَر خَليفةً.
-  </p>
-</blockquote>
+> سمعتُ النبي صلّى اللهُ عليهِ وسلَّم يقول: يكونُ لِهذِه الأمَّةِ اثْنا
+> عَشَر خَليفةً.
 
 The Holy Prophet (a.s) said: There are twelve Caliphs for this
 nation.[^31]
@@ -585,13 +501,9 @@ about this issue in thirty four different tradition chains from Jabir.
 
 • *Sahih Abu Dawud*, vol. 2, p. 309:
 
-<blockquote dir="rtl">
-  <p>
-لا يَزالُ هذا الدّينُ عَزيزاً إلى اثنَي عَشرَ خَليفَةً. قال: فَكَبَّر
-النّاسُ وضَجّوا ثُمّ قالَ كلمةً خفيّةً. قُلتُ لأبي: يا أبه؛ ما قالَ؟
-قال: كُلُّهُم مِن قُريشٍ.
-  </p>
-</blockquote>
+> لا يَزالُ هذا الدّينُ عَزيزاً إلى اثنَي عَشرَ خَليفَةً. قال: فَكَبَّر
+> النّاسُ وضَجّوا ثُمّ قالَ كلمةً خفيّةً. قُلتُ لأبي: يا أبه؛ ما قالَ؟
+> قال: كُلُّهُم مِن قُريشٍ.
 
 “This religion will always be mighty until Twelve Imams come.” Hearing
 this, people glorified Allah with ‘Allahu Akbar’ (God is Great) and
@@ -603,14 +515,10 @@ those previously mentioned.
 
 • *Mustadrak Ala Al-Sahihayn*, Vol. 3, p. 618:
 
-<blockquote dir="rtl">
-  <p>
-قال النبي صلّى اللهُ عليهِ وآلِهِ وسلَّم : لا يَزالُ أمرُ أمّتي ماضياً
-حتىّ يَمضي اثنا عَشرَ خَليفَةً. ثُمّ قالَ وخفّضَ بها صوتَه، فقُلتُ
-لعَمّي وكانَ أمامي: ما قال يا عمّ؟ قال: قالَ، يا بُنيّ، كُلّهُم مِن
-قُريشٍ.
-  </p>
-</blockquote>
+> قال النبي صلّى اللهُ عليهِ وآلِهِ وسلَّم : لا يَزالُ أمرُ أمّتي ماضياً
+> حتىّ يَمضي اثنا عَشرَ خَليفَةً. ثُمّ قالَ وخفّضَ بها صوتَه، فقُلتُ
+> لعَمّي وكانَ أمامي: ما قال يا عمّ؟ قال: قالَ، يا بُنيّ، كُلّهُم مِن
+> قُريشٍ.
 
 Awn quotes his father Abu Juhayfah as saying: My uncle and I were with
 the Holy Prophet, when he said: “The affairs of my nation passes until
@@ -626,12 +534,8 @@ same as quoted in books of *Sahih*.”
 
 • *Musnad Ahmad*, Vol. 1, p. 398:
 
-<blockquote dir="rtl">
-  <p>
-…وَلَقد سألْنا رَسولَ الله صلّى اللهُ عليهِ وسلَّم فقالَ: اثنا عَشرَ
-كَعِدّةِ نُقَباء بني إسرائيل.
-  </p>
-</blockquote>
+> …وَلَقد سألْنا رَسولَ الله صلّى اللهُ عليهِ وسلَّم فقالَ: اثنا عَشرَ
+> كَعِدّةِ نُقَباء بني إسرائيل.
 
 Masruq says: We were sitting with Abdullah Ibn Mas’ud, learning Qur’an
 from him. Someone asked him, “Did you ask the Prophet (a.s) how many
@@ -644,14 +548,10 @@ as fine documentation.
 
 • *Al-Mu’jam* *Al-Kabir* of Tabarani, Vol. 2,p. 196:
 
-<blockquote dir="rtl">
-  <p>
-…النبي صلّى اللهُ عليهِ وسلَّم قال: يكونُ لِهذه الأمة اثنا عشرَ
-قَيّماً لا يَضُرّهُم مَن خَذَلهم. وهَمسَ رَسولُ الله صلّى اللهُ عليهِ
-وسلَّم بكلمةٍ لم أسمَعْها، فقلتُ لأبي: الكَلمَةُ الّتي هَمس بِها
-رَسولُ الله صلّى اللهُ عليهِ وسلَّم ؟ فَقال: كُلّهُم مِن قُريشٍ.
-  </p>
-</blockquote>
+> …النبي صلّى اللهُ عليهِ وسلَّم قال: يكونُ لِهذه الأمة اثنا عشرَ
+> قَيّماً لا يَضُرّهُم مَن خَذَلهم. وهَمسَ رَسولُ الله صلّى اللهُ عليهِ
+> وسلَّم بكلمةٍ لم أسمَعْها، فقلتُ لأبي: الكَلمَةُ الّتي هَمس بِها
+> رَسولُ الله صلّى اللهُ عليهِ وسلَّم ؟ فَقال: كُلّهُم مِن قُريشٍ.
 
 Jabir says: My father and I were before the Prophet (a.s) when he said:
 “Rulers and Caliphs of this nation will be twelve in number. They will
@@ -661,14 +561,10 @@ They are all from Quraysh,” he replied.[^38]
 
 • *Al- Mu’jam* *Al-Kabir*, Vol. 2, p.256:
 
-<blockquote dir="rtl">
-  <p>
-سمعت رسول الله صلّى اللهُ عليهِ وسلَّم يقول: إثنا عَشرَ قَيّماً مِن
-قُرَيشٍ لا يَضُرّهُم عَداوَةُ مَن عَادَاهُم. قال: فالتَفَتُّ خَلفي
-فإذا أنا بعُمَرَ بنِ الخَطّاب، رضي الله عنه، وأبي في أُناس؛ فأثبَتوا
-ليَ الحديث كما سمِعْتُ.
-  </p>
-</blockquote>
+> سمعت رسول الله صلّى اللهُ عليهِ وسلَّم يقول: إثنا عَشرَ قَيّماً مِن
+> قُرَيشٍ لا يَضُرّهُم عَداوَةُ مَن عَادَاهُم. قال: فالتَفَتُّ خَلفي
+> فإذا أنا بعُمَرَ بنِ الخَطّاب، رضي الله عنه، وأبي في أُناس؛ فأثبَتوا
+> ليَ الحديث كما سمِعْتُ.
 
 Jabir says: I heared the Prophet (a.s) delivering sermon and saying:
 “There will be twelve guardians from Quraysh the enmity of whose enemies
@@ -681,13 +577,9 @@ power might not be in their hands.
 
 • *Yanabi’ Al-Mawaddah*, Vol. 2, p. 315:
 
-<blockquote dir="rtl">
-  <p>
-…رسولُ اللهِ صلّى اللهُ عليهِ وسلَّم يقولُ: بَعدي اثْنا عَشرَ خَليفَة.
-ثم أخفى صوتَه، فقُلتُ لأبي: ما الّذي قال؟ قال: قالَ كُلُّهُم مِن بَني
-هاشِمٍ.
-  </p>
-</blockquote>
+> …رسولُ اللهِ صلّى اللهُ عليهِ وسلَّم يقولُ: بَعدي اثْنا عَشرَ خَليفَة.
+> ثم أخفى صوتَه، فقُلتُ لأبي: ما الّذي قال؟ قال: قالَ كُلُّهُم مِن بَني
+> هاشِمٍ.
 
 Jabir is quoted as saying: My father and I were before the Messenger of
 Allah (a.s) when he said: “There will be twelve Caliphs after me.” Then
@@ -730,11 +622,7 @@ Dawud, Ahmad and Hakim have quoted from Jabir Ibn Samarah and Abu
 Juhayfah by different chains of narrators that the Holy Prophet (a.s)
 said:
 
-<blockquote dir="rtl">
-  <p>
-لا يَزالُ الإسلامُ عَزيزاً إلى اثْنَي عَشرَ خَليفَة.
-  </p>
-</blockquote>
+> لا يَزالُ الإسلامُ عَزيزاً إلى اثْنَي عَشرَ خَليفَة.
 
 This religion will always be mighty until Twelve Imams come.
 
@@ -778,16 +666,12 @@ al-Bayt’s infallibility are mentioned hereinafter:[^43]
 
 • *Musnad Ahmad* *Ibn Hanbal*, Vol. 3, p. 17:
 
-<blockquote dir="rtl">
-  <p>
-عَن النّبيّ صلّى اللهُ عليهِ وسلَّم انه قال: إنّي أوشَكُ أنْ أدْعى
-فأُجيبُ، وإنيّ تارِكٌ فِيكُم الثَّقَلَينِ كِتابَ اللهِ عَزَّ وَجَلَّ
-وعِترَتي. كِتابُ اللهِ حَبْلٌ مَمدودٌ مِن السَّماءِ إلى الأرض
-وَعِترَتي أهل بَيتي؛ وَإنّ اللّطيفَ الخَبيرَ أخْبَرني أنَّهُما لَن
-يَفتَرقا حَتىّ يَردا عَلَيَّ الحَوْضَ؛ فانْظُروني بِم تُخَلَّفوني
-فِيهِما.
-  </p>
-</blockquote>
+> عَن النّبيّ صلّى اللهُ عليهِ وسلَّم انه قال: إنّي أوشَكُ أنْ أدْعى
+> فأُجيبُ، وإنيّ تارِكٌ فِيكُم الثَّقَلَينِ كِتابَ اللهِ عَزَّ وَجَلَّ
+> وعِترَتي. كِتابُ اللهِ حَبْلٌ مَمدودٌ مِن السَّماءِ إلى الأرض
+> وَعِترَتي أهل بَيتي؛ وَإنّ اللّطيفَ الخَبيرَ أخْبَرني أنَّهُما لَن
+> يَفتَرقا حَتىّ يَردا عَلَيَّ الحَوْضَ؛ فانْظُروني بِم تُخَلَّفوني
+> فِيهِما.
 
 The honorable Messenger of Allah (a.s) said: I will soon be called to my
 Lord and will accept it. I leave two invaluable entities among you; the
@@ -799,18 +683,14 @@ them after me!
 
 • *Sahih Muslim*, Vol. 7, Part 4, p.122:
 
-<blockquote dir="rtl">
-  <p>
-قام رسول الله صلّى اللهُ عليهِ وسلَّم يوماً فينا خطيباً بماءٍ يُدعى
-خُمّاً بين مَكَّة والمَدينَةِ فحَمِدَ اللهَ وأثْنى عَليهِ ووَعَظَ
-وذَكَّرَ ثمّ قالَ: أمّا بَعدُ! ألا أيّها النّاسُ فإنَّما أنا بَشَرٌ
-يُوشكُ أنْ يأتيَ رَسولُ رَبّي فأُجيبُ، وأنا تارِكٌ فِيكُم الثَّقَلين؛
-أوَّلُهُما كِتابُ اللهِ فيهِ الهُدى وَالنُّورُ، فَخُذوا بِكِتابِ اللهِ
-وَاسْتَمْسِكوا بهِ. فَحَثَّ على كِتابِ اللهِ ورغَّبَ فيهِ ثُمّ قالَ:
-وأهْلَ بَيتِي؛ أُذَكِّرُكُمُ اللهَ في أهل بَيتي أُذَكِّرُكُمُ اللهَ في
-أهل بَيتي أُذَكِّرُكُمُ اللهَ في أهل بَيتي.
-  </p>
-</blockquote>
+> قام رسول الله صلّى اللهُ عليهِ وسلَّم يوماً فينا خطيباً بماءٍ يُدعى
+> خُمّاً بين مَكَّة والمَدينَةِ فحَمِدَ اللهَ وأثْنى عَليهِ ووَعَظَ
+> وذَكَّرَ ثمّ قالَ: أمّا بَعدُ! ألا أيّها النّاسُ فإنَّما أنا بَشَرٌ
+> يُوشكُ أنْ يأتيَ رَسولُ رَبّي فأُجيبُ، وأنا تارِكٌ فِيكُم الثَّقَلين؛
+> أوَّلُهُما كِتابُ اللهِ فيهِ الهُدى وَالنُّورُ، فَخُذوا بِكِتابِ اللهِ
+> وَاسْتَمْسِكوا بهِ. فَحَثَّ على كِتابِ اللهِ ورغَّبَ فيهِ ثُمّ قالَ:
+> وأهْلَ بَيتِي؛ أُذَكِّرُكُمُ اللهَ في أهل بَيتي أُذَكِّرُكُمُ اللهَ في
+> أهل بَيتي أُذَكِّرُكُمُ اللهَ في أهل بَيتي.
 
 Zayd Ibn Arqam says: One day, the Messenger of Allah stopped beside
 Khumm Pond, between Mecca and Medina, for a sermon. After praising God
@@ -824,18 +704,14 @@ you of God about my Household.”
 
 • *Mustadrak*, Vol. 3, p. 109:
 
-<blockquote dir="rtl">
-  <p>
-عَن زَيدٍ قال: لمّا رجعَ رسولُ الله صلّى اللهُ عليهِ وآلِهِ وسلَّم مِن
-حِجّةِ الوَداعِ ونَزَلَ غَديرَ خُمٍّ أُمرَ بِدَوحاتٍ فَقُمِمنَ فقالَ:
-كأنّي قد دُعيتُ فأُجيبُ. إنّي قَد تَرَكتُ فِيكُم الثّقَلَين أحَدُهُما
-أكبَرُ مِن الآخَرِ؛ كِتابَ اللهِ وعِترَتي فانْظُروا كَيفَ تُخَلّفُونني
-فِيهِما فإنَّهُما لَن يَفتَرقا حتىّ يَرِدا عَلَيَّ الحَوضَ. ثمّ قال:
-إنّ الله عَزَّ وَجَلَّ مَولايَ وأنا مَولى كُلِّ مُؤمِنٍ. ثمَّ أخذَ
-بِيدِ عَلِيٍّ فقالَ: مَنْ كُنتُ مَولاهُ فَهذا وَلِيُّهُ، اللّهُمّ والِ
-مَن وَالاهُ وعَادِ مَن عاداهُ.
-  </p>
-</blockquote>
+> عَن زَيدٍ قال: لمّا رجعَ رسولُ الله صلّى اللهُ عليهِ وآلِهِ وسلَّم مِن
+> حِجّةِ الوَداعِ ونَزَلَ غَديرَ خُمٍّ أُمرَ بِدَوحاتٍ فَقُمِمنَ فقالَ:
+> كأنّي قد دُعيتُ فأُجيبُ. إنّي قَد تَرَكتُ فِيكُم الثّقَلَين أحَدُهُما
+> أكبَرُ مِن الآخَرِ؛ كِتابَ اللهِ وعِترَتي فانْظُروا كَيفَ تُخَلّفُونني
+> فِيهِما فإنَّهُما لَن يَفتَرقا حتىّ يَرِدا عَلَيَّ الحَوضَ. ثمّ قال:
+> إنّ الله عَزَّ وَجَلَّ مَولايَ وأنا مَولى كُلِّ مُؤمِنٍ. ثمَّ أخذَ
+> بِيدِ عَلِيٍّ فقالَ: مَنْ كُنتُ مَولاهُ فَهذا وَلِيُّهُ، اللّهُمّ والِ
+> مَن وَالاهُ وعَادِ مَن عاداهُ.
 
 The Messenger of Allah was returning from The Farewell Hajj[^44] when he
 stopped at Khumm Pond (Ghadir Khumm) and ordered people to sweep the
@@ -851,12 +727,8 @@ him.”[^45]
 
 • *Kanz Al-‘Ummal*, Vol. 1, p. 167:
 
-<blockquote dir="rtl">
-  <p>
-تَرَكتُ فِيكُم ما لَنْ تَضِلّوا إنْ اعْتَصَمْتُم بِه؛ كِتابَ اللهِ
-وَعِتْرَتي أهل بَيتي.
-  </p>
-</blockquote>
+> تَرَكتُ فِيكُم ما لَنْ تَضِلّوا إنْ اعْتَصَمْتُم بِه؛ كِتابَ اللهِ
+> وَعِتْرَتي أهل بَيتي.
 
 Jabir quotes the great Prophet (a.s) as saying: “I left things among
 you; you will never go astray if you hold fast to them—Allah’s Divine
@@ -879,14 +751,10 @@ wickedness and made them pure and clean.”[^49]
 
 • *Mustadrak*, Vol. 2, p.343:
 
-<blockquote dir="rtl">
-  <p>
-…أيُّها الناس! مَن عَرفَني فأنا عَرفْتُم وَمَن أنْكَرني فأنا أبو
-ذَرٍّ؛ سمِعْتُ رسولَ الله صلّى اللهُ عليهِ وآلِهِ وسلَّم يقولُ: مَثَلُ
-أهل بَيتي مَثَلُ سَفِينَةِ نوحٍ؛ مَن رَكِبَها نَجا وَمَن تَخَلَّفَ
-عَنها غَرِقَ.
-  </p>
-</blockquote>
+> …أيُّها الناس! مَن عَرفَني فأنا عَرفْتُم وَمَن أنْكَرني فأنا أبو
+> ذَرٍّ؛ سمِعْتُ رسولَ الله صلّى اللهُ عليهِ وآلِهِ وسلَّم يقولُ: مَثَلُ
+> أهل بَيتي مَثَلُ سَفِينَةِ نوحٍ؛ مَن رَكِبَها نَجا وَمَن تَخَلَّفَ
+> عَنها غَرِقَ.
 
 Hanash Kanani narrates: I saw Abudhar taking hold of the Ka’bah (Allah’s
 House) door and saying: “O People! If you know me, I am the one you
@@ -898,12 +766,8 @@ Hakim has confirmed this tradition.
 
 • *Al-Sawa’iq Al-Muhariqah*, p.184:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ أهل بَيتي مَثَلُ سَفِينَةِ نوحٍ؛ مَن رَكِبَها نَجا وَمَن
-تَخَلَّفَ عَنها غَرِقَ.
-  </p>
-</blockquote>
+> مَثَلُ أهل بَيتي مَثَلُ سَفِينَةِ نوحٍ؛ مَن رَكِبَها نَجا وَمَن
+> تَخَلَّفَ عَنها غَرِقَ.
 
 Ibn Abbas has quoted the Holy Prophet (a.s) as saying:[^50] My Ahl
 al-Bayt (Household) is comparable to Noah’s Ark; whoever enters it will
@@ -912,12 +776,8 @@ be rescued and whoever disobeys will be drowned.
 • *Al-Jami’ Al-Saghir*, Vol. 9, p. 155; *Al-Sawa’iq Al-Muhariqah*, p.
 184
 
-<blockquote dir="rtl">
-  <p>
-أنّ النبي صلّى اللهُ عليهِ وسلَّم قال: مَثَلُ أهل بَيتي مَثَلُ
-سَفِينَةِ نوحٍ؛ مَن رَكِبَها نَجا وَمَن تَخَلَّفَ عَنها غَرِقَ.
-  </p>
-</blockquote>
+> أنّ النبي صلّى اللهُ عليهِ وسلَّم قال: مَثَلُ أهل بَيتي مَثَلُ
+> سَفِينَةِ نوحٍ؛ مَن رَكِبَها نَجا وَمَن تَخَلَّفَ عَنها غَرِقَ.
 
 Abdullah Ibn Zubayr has quoted the honorable Prophet as saying: My Ahl
 al-Bayt (Household) is comparable to Noah’s Ark; whoever enters it will
@@ -935,13 +795,9 @@ doomed to the inferno.”[^51]
 
 • *Mustadrak*, Vol. 3, p.149:
 
-<blockquote dir="rtl">
-  <p>
-…رسول الله صلّى اللهُ عليهِ وآلِهِ وسلَّم قال: النُّجُومُ أمانٌ لأهْلِ
-الأرض مِن الغَرَقِ وأهْلُ بَيتي أمانٌ لأمَّتي مِن الاخْتِلافِ، فإذا
-خالَفَتْها قَبيلَةٌ مِن العَربِ اختَلَفوا فَصاروا حِزبَ إبْليسَ.
-  </p>
-</blockquote>
+> …رسول الله صلّى اللهُ عليهِ وآلِهِ وسلَّم قال: النُّجُومُ أمانٌ لأهْلِ
+> الأرض مِن الغَرَقِ وأهْلُ بَيتي أمانٌ لأمَّتي مِن الاخْتِلافِ، فإذا
+> خالَفَتْها قَبيلَةٌ مِن العَربِ اختَلَفوا فَصاروا حِزبَ إبْليسَ.
 
 Ibn Abbas quotes the Prophet (a.s) as saying: The stars save human race
 from being drowned; my Household saves the nation from having conflicts.
@@ -952,12 +808,8 @@ Hakim has confirmed this tradition.
 
 • *Al-Sawa’iq Al-Muhariqah*, p. 150:
 
-<blockquote dir="rtl">
-  <p>
-أهل بَيتي أمانٌ لأهْلِ الأرض، فإذا هَلَكَ أهل بَيتي جاءَ أهل الأرض في
-الآياتِ ما كانوا يوعَدونَ.
-  </p>
-</blockquote>
+> أهل بَيتي أمانٌ لأهْلِ الأرض، فإذا هَلَكَ أهل بَيتي جاءَ أهل الأرض في
+> الآياتِ ما كانوا يوعَدونَ.
 
 My Ahl al-Bayt are the protectors of people on the earth. If they
 vanish, people will experience the promised signs.
@@ -965,13 +817,9 @@ vanish, people will experience the promised signs.
 • *Musnad Ahmad Ibn Hanbal*, *Faza’il Al-Sahabah*; *Al-Sawa’iq
 Al-Muhariqah*, p. 333:
 
-<blockquote dir="rtl">
-  <p>
-…قال رسول الله صلّى اللهُ عليهِ وسلَّم : النُّجومُ أمانٌ لأهْلِ
-السّماءِ وأهْلُ بَيتي أمانٌ لأهلِ الأرض، فإذا ذَهبَ أهل بَيتي ذَهبَ
-أهل الأرض.
-  </p>
-</blockquote>
+> …قال رسول الله صلّى اللهُ عليهِ وسلَّم : النُّجومُ أمانٌ لأهْلِ
+> السّماءِ وأهْلُ بَيتي أمانٌ لأهلِ الأرض، فإذا ذَهبَ أهل بَيتي ذَهبَ
+> أهل الأرض.
 
 Ali (a.s) has quoted the Holy Prophet (a.s) as saying: “The stars are
 security for the inhabitants of the heavens; and if they vanished, the
@@ -997,12 +845,8 @@ and Sunni narrators provide the answer to these questions. Many
 traditions have been quoted by different chains of narrators under the
 exegesis of the following honorable Verse in the Sunni books:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 ***“Allah only desires to keep away the uncleanness from you, O people
 of the House (Ahl al-Bayt), and to purify you a thorough purifying.
@@ -1022,15 +866,11 @@ probably not included in the Ahl al-Bayt (a.s).
 
 • *Sahih Muslim*, Vol. 7, p. 130:
 
-<blockquote dir="rtl">
-  <p>
-عَن عائِشَةَ قالَت: خَرجَ النبي صلّى اللهُ عليهِ وسلَّم غداة وعَلَيه
-مِرطٌ مُرجَّلٌ مِن شعر أسوَدَ، فجاء الحسنُ بن عَليٍّ فأدخَلَهُ ثمَّ
-جاءَ الحُسينُ فَدخلَ معه ثمّ جاءَت فاطِمةُ فأدخَلَها ثمّ جاءَ عَليٌّ
-فأدْخَلَهُ، ثمّ قالَ: ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ
-الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
-  </p>
-</blockquote>
+> عَن عائِشَةَ قالَت: خَرجَ النبي صلّى اللهُ عليهِ وسلَّم غداة وعَلَيه
+> مِرطٌ مُرجَّلٌ مِن شعر أسوَدَ، فجاء الحسنُ بن عَليٍّ فأدخَلَهُ ثمَّ
+> جاءَ الحُسينُ فَدخلَ معه ثمّ جاءَت فاطِمةُ فأدخَلَها ثمّ جاءَ عَليٌّ
+> فأدْخَلَهُ، ثمّ قالَ: ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ
+> الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
 
 Aishah says: One morning, the Holy Prophet (a.s) came out of his house
 wearing a cloak made of black hair. Hasan (a.s) came in and the Prophet
@@ -1045,15 +885,11 @@ of the House (Ahl al-Bayt), and to purify you a thorough purifying.
 
 • *Sahih Al-Tirmidhi, Kitab Al-Manaqib*:
 
-<blockquote dir="rtl">
-  <p>
-عَن أمّ سَلَمَة: أنّ النبيّ صلّى اللهُ عليهِ وسلَّم حَلَّلَ عَلى
-الحَسَنِ والحُسينِ وَعَلِيٍّ وَفاطِمَةَ كِساءً ثمّ قال: اللّهُمّ
-هؤلاءِ أهلُ بَيتي وَخاصَّتي؛ أذْهِبْ عَنهمُ الرّجْسَ وَطَهّرهُم
-تَطهيراً. فقالَت أمُّ سَلَمة: وأنا مَعَهُم يا رَسولَ الله؟ قال: إنّك
-إلى خَيرٍ.
-  </p>
-</blockquote>
+> عَن أمّ سَلَمَة: أنّ النبيّ صلّى اللهُ عليهِ وسلَّم حَلَّلَ عَلى
+> الحَسَنِ والحُسينِ وَعَلِيٍّ وَفاطِمَةَ كِساءً ثمّ قال: اللّهُمّ
+> هؤلاءِ أهلُ بَيتي وَخاصَّتي؛ أذْهِبْ عَنهمُ الرّجْسَ وَطَهّرهُم
+> تَطهيراً. فقالَت أمُّ سَلَمة: وأنا مَعَهُم يا رَسولَ الله؟ قال: إنّك
+> إلى خَيرٍ.
 
 Ummu-Salamah has quoted that the Holy Prophet (a.s) covered Hasan,
 Husayn, Ali and Fatimah (a.s) with his cloak and then stated: “O Lord!
@@ -1069,17 +905,13 @@ well-documented and the best one quoted in this regard.”
 
 • *Sahih Al-Tirmidhi*, Vol. 13, p.200:
 
-<blockquote dir="rtl">
-  <p>
-…لمّا نَزَلَتْ هذه الآيَةُ على النّبي صلّى اللهُ عليهِ وسلَّم :
-﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾ في بَيتِ أُمِّ سَلَمةَ دَعا النّبيُّ صلّى
-اللهُ عليهِ وسلَّم فاطِمَةَ وَحسَناً وَحُسيناً وعَليٌّ خَلفَ ظَهْرِه
-فَجَلَّلَهُم بِكِساءٍ، ثمَّ قال: اللّهُمّ هؤلاءِ أهلُ بَيتي فَأذْهِبْ
-عَنهمُ الرّجْسَ وَطَهّرهُم تَطهيراً. قالَت أُمُّ سَلَمة: وأنا مَعَهُم
-يا نَبيَّ الله؟ قالَ: أنْتِ عَلى مَكانِكِ وأنْتِ إلى خَيرٍ.
-  </p>
-</blockquote>
+> …لمّا نَزَلَتْ هذه الآيَةُ على النّبي صلّى اللهُ عليهِ وسلَّم :
+> ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾ في بَيتِ أُمِّ سَلَمةَ دَعا النّبيُّ صلّى
+> اللهُ عليهِ وسلَّم فاطِمَةَ وَحسَناً وَحُسيناً وعَليٌّ خَلفَ ظَهْرِه
+> فَجَلَّلَهُم بِكِساءٍ، ثمَّ قال: اللّهُمّ هؤلاءِ أهلُ بَيتي فَأذْهِبْ
+> عَنهمُ الرّجْسَ وَطَهّرهُم تَطهيراً. قالَت أُمُّ سَلَمة: وأنا مَعَهُم
+> يا نَبيَّ الله؟ قالَ: أنْتِ عَلى مَكانِكِ وأنْتِ إلى خَيرٍ.
 
 Umar Ibn Salamah, the Holy Prophet’s stepchild, says: The honorable
 verse of “Purification” was revealed in the house of Ummu-Salamah, the
@@ -1092,17 +924,13 @@ your own place and you are into goodness, too.”[^55]
 
 • *Mushkil Al-’athar* (authored by Al-Tahawi), Vol. 1, p. 336:[^56]
 
-<blockquote dir="rtl">
-  <p>
-عَن أُمّ سَلَمَة: أنْزَلَ اللهُ هذِه الآيَةَ: ﴿إِنَّمَا يُرِيدُ
-اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ
-تَطْهِيرًا.﴾ وَما في البَيتِ إلاّ جِبريلُ وَرَسولُ اللهِ صلّى اللهُ
-عليهِ وسلَّم وَفاطِمةُ وَالحَسنُ وَالحُسينُ عَليهِمُ السَّلامُ،
-فقُلتُ: يا رَسولَ اللهِ! أنا مِن أهلِ البَيتِ؟ فقال: إنّ لكَ عِندَ
-الله خَيراً. فَوَددتُ أنّه قالَ (نَعم) فَكانَ أحَبَّ إليَّ ممّا تطلُعُ
-عليه الشّمسُ وتغرُبُ.
-  </p>
-</blockquote>
+> عَن أُمّ سَلَمَة: أنْزَلَ اللهُ هذِه الآيَةَ: ﴿إِنَّمَا يُرِيدُ
+> اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ
+> تَطْهِيرًا.﴾ وَما في البَيتِ إلاّ جِبريلُ وَرَسولُ اللهِ صلّى اللهُ
+> عليهِ وسلَّم وَفاطِمةُ وَالحَسنُ وَالحُسينُ عَليهِمُ السَّلامُ،
+> فقُلتُ: يا رَسولَ اللهِ! أنا مِن أهلِ البَيتِ؟ فقال: إنّ لكَ عِندَ
+> الله خَيراً. فَوَددتُ أنّه قالَ (نَعم) فَكانَ أحَبَّ إليَّ ممّا تطلُعُ
+> عليه الشّمسُ وتغرُبُ.
 
 Ummu-Salamah says: When the honorable verse (of purification) was
 revealed, there was no one at home except (Archangel) Gabriel, the Holy
@@ -1121,16 +949,12 @@ to her father’s and her tribe.”[^58]
 
 • *Al-Durr Al-Manthur*, under the exegesis of the Purification Verse:
 
-<blockquote dir="rtl">
-  <p>
-عَن ابنِ عبّاس قالَ: شَهِدْنا رَسولَ الله صلّى اللهُ عليهِ وسلَّم
-تِسعَةَ أشهُرٍ يأتي كُلَّ يَومٍ بابَ عَليّ بنِ أبي طالِبٍ رضي الله عنه
-عندَ وَقتِ كُلِّ صَلاةٍ فيَقولُ: السّلامُ عَلَيكُم وَرَحْمَةُ اللهِ
-وَبَركاتُه أهْلَ البَيتِ! ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
-عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾ الصّلاةَ
-رحِمَكُم اللهُ. كُلّ يَومٍ خَمسَ مَرّاتٍ.
-  </p>
-</blockquote>
+> عَن ابنِ عبّاس قالَ: شَهِدْنا رَسولَ الله صلّى اللهُ عليهِ وسلَّم
+> تِسعَةَ أشهُرٍ يأتي كُلَّ يَومٍ بابَ عَليّ بنِ أبي طالِبٍ رضي الله عنه
+> عندَ وَقتِ كُلِّ صَلاةٍ فيَقولُ: السّلامُ عَلَيكُم وَرَحْمَةُ اللهِ
+> وَبَركاتُه أهْلَ البَيتِ! ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
+> عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾ الصّلاةَ
+> رحِمَكُم اللهُ. كُلّ يَومٍ خَمسَ مَرّاتٍ.
 
 Ibn Abbas says: For nine months, we witnessed that the Messenger of
 Allah (a.s) came to the door of Ali’s house five times a day at the time
@@ -1178,12 +1002,8 @@ attitudes of your scholars and noble ones are as stated in your letters
 and by your messengers, I will come to you as soon as possible, God
 willing.
 
-<blockquote dir="rtl">
-  <p>
-فَلَعَمْري ما الإمامُ إلاّ العامِلُ بِالكِتابِ وَالآخِذُ بِالقِسْطِ
-وَالدّائِنُ بِالحَقِّ والحَابِسُ نَفْسَهُ عَلى ذاتِ اللهِ.
-  </p>
-</blockquote>
+> فَلَعَمْري ما الإمامُ إلاّ العامِلُ بِالكِتابِ وَالآخِذُ بِالقِسْطِ
+> وَالدّائِنُ بِالحَقِّ والحَابِسُ نَفْسَهُ عَلى ذاتِ اللهِ.
 
 I swear by myself that Imam is not but to practice Allah’s Book, do
 justice, and surrender himself to God’s will.[^61] Peace be upon you!
@@ -1200,15 +1020,11 @@ safety for the inhabitants of the earth.[^62]
 
 • *Dhakha’ir Al-Uqba*, p. 17:
 
-<blockquote dir="rtl">
-  <p>
-عَن عُمرَ إن النّبي صلّى اللهُ عليهِ وسلَّم قال: في كُلِّ خُلوفٍ مِن
-أُمَّتي عُدولٌ مِن أهْلِ بَيْتي يَنفونَ عَن هذا الدِّينِ تَحْريفَ
-الغالِينَ وَانتِحالَ المُبطِلينَ وتأويلَ الجَاهِلينَ. ألا وإنَّ
-أئِمَّتَكُم وفْدُكُم إلى اللهِ عَزَّ وَجَلَّ، فانظُروا بمَنْ
-تُوفِدونَ.
-  </p>
-</blockquote>
+> عَن عُمرَ إن النّبي صلّى اللهُ عليهِ وسلَّم قال: في كُلِّ خُلوفٍ مِن
+> أُمَّتي عُدولٌ مِن أهْلِ بَيْتي يَنفونَ عَن هذا الدِّينِ تَحْريفَ
+> الغالِينَ وَانتِحالَ المُبطِلينَ وتأويلَ الجَاهِلينَ. ألا وإنَّ
+> أئِمَّتَكُم وفْدُكُم إلى اللهِ عَزَّ وَجَلَّ، فانظُروا بمَنْ
+> تُوفِدونَ.
 
 Umar quoted the Holy Prophet (a.s) as saying: In each generation of my
 nation, there are just people from my Ahl al-Bayt, defending religion
@@ -1226,13 +1042,9 @@ following traditions:
 
 • *Musnad Ahmad*, Vol. 3, p. 28:
 
-<blockquote dir="rtl">
-  <p>
-إنّ رسولَ الله صلّى اللهُ عليهِ وسلَّم قالَ: تُمْلأُ الأرضُ ظُلْماً
-وَجَوراً ثُمَّ يخْرُجُ رَجُلٌ مِن عِترَتي يَملِكُ سَبعاً أو تِسعاً
-فَيَمْلأُ الأرضَ قِسْطاً وَعَدلاً.
-  </p>
-</blockquote>
+> إنّ رسولَ الله صلّى اللهُ عليهِ وسلَّم قالَ: تُمْلأُ الأرضُ ظُلْماً
+> وَجَوراً ثُمَّ يخْرُجُ رَجُلٌ مِن عِترَتي يَملِكُ سَبعاً أو تِسعاً
+> فَيَمْلأُ الأرضَ قِسْطاً وَعَدلاً.
 
 The earth will become full of injustice and oppression and then a man
 from the House (a.s) will emerge. He will govern the earth for seven or
@@ -1242,19 +1054,11 @@ Hakim has also narrated this tradition as a true one.[^64]
 
 • *Sunan Al-Tirmidhi*, Vol. 4, p. 505:
 
-<blockquote dir="rtl">
-  <p>
-عن عبدِالله عن النبي صلّى اللهُ عليهِ وسلَّم : يَلي رَجُلٌ مِن أهْلِ
-بَيتي يُواطِيءُ اسْمُه اسْمي...
-  </p>
-</blockquote>
+> عن عبدِالله عن النبي صلّى اللهُ عليهِ وسلَّم : يَلي رَجُلٌ مِن أهْلِ
+> بَيتي يُواطِيءُ اسْمُه اسْمي...
 
-<blockquote dir="rtl">
-  <p>
-عَن أبي هُريرَةَ قالَ: لَو لَمْ يَبْقَ مِن الدّنيا إلاّ يَومٌ
-لَطَوَّلَ اللهُ ذلِكَ اليَومَ حَتىّ يلي.
-  </p>
-</blockquote>
+> عَن أبي هُريرَةَ قالَ: لَو لَمْ يَبْقَ مِن الدّنيا إلاّ يَومٌ
+> لَطَوَّلَ اللهُ ذلِكَ اليَومَ حَتىّ يلي.
 
 The Prophet (a.s) said: “A man from my Household will come; his name
 will be as same as mine.
@@ -1266,13 +1070,9 @@ Tirmidhi says: “This tradition is fine and true.”
 
 • *Muntakhab Kanz Al-Ummal*, Vol. 6, p. 32:
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَسولُ اللهِ صَلّى اللهُ عَليهِ وَسَلّم: يخْرُجُ رَجلٌ مِن أهْلِ
-بَيتي يُواطِيءُ اسْمُه اسْمي وَخُلُقُهُ خُلُقي فَيَمْلأُها قِسْطاً
-وَعَدلاً كَما مُلِئَتْ ظُلْماً وَجوراً.
-  </p>
-</blockquote>
+> قالَ رَسولُ اللهِ صَلّى اللهُ عَليهِ وَسَلّم: يخْرُجُ رَجلٌ مِن أهْلِ
+> بَيتي يُواطِيءُ اسْمُه اسْمي وَخُلُقُهُ خُلُقي فَيَمْلأُها قِسْطاً
+> وَعَدلاً كَما مُلِئَتْ ظُلْماً وَجوراً.
 
 The Holy Prophet (a.s) said: A man from my Household (a.s) will emerge
 whose name and manner are the same as mine. He will fill in the earth
@@ -1280,37 +1080,25 @@ with justice as it had been filled with injustice and oppression.
 
 • *Musnad Ahmad*, *Musnad* *Al-Asharah*:
 
-<blockquote dir="rtl">
-  <p>
-عَن عَليٍّ عَليهِ السَّلامُ قال: قالَ رسولُ الله صلّى اللهُ عليهِ
-وسلَّم : المَهدِيُّ مِن أهْلِ البَيتِ؛ يُصْلِحُه اللهُ فِي لَيلَةٍ.
-  </p>
-</blockquote>
+> عَن عَليٍّ عَليهِ السَّلامُ قال: قالَ رسولُ الله صلّى اللهُ عليهِ
+> وسلَّم : المَهدِيُّ مِن أهْلِ البَيتِ؛ يُصْلِحُه اللهُ فِي لَيلَةٍ.
 
 The Holy Prophet (a.s) said: Mahdi is from my Household. God will
 provide him with victory over night.”[^65]
 
 • *Sunan Abi-Dawud*, Kitab Al-Mahdi:
 
-<blockquote dir="rtl">
-  <p>
-عَن أُمّ سَلَمةَ قالَت: سمِعْتُ رسولَ الله صلّى اللهُ عليهِ وسلَّم
-يقولُ: المَهدِيُّ مِن عِترَتي مِن ولْدِ فاطِمَةَ.
-  </p>
-</blockquote>
+> عَن أُمّ سَلَمةَ قالَت: سمِعْتُ رسولَ الله صلّى اللهُ عليهِ وسلَّم
+> يقولُ: المَهدِيُّ مِن عِترَتي مِن ولْدِ فاطِمَةَ.
 
 Ummu-Salamah quoted the honorable Prophet (a.s) as saying: “Mahdi is
 from my Household and Fatimah’s descendants.”[^66]
 
 • *Al-Mu’jam Al-Awsat* of Tabarani, Vol. 1, p. 56:
 
-<blockquote dir="rtl">
-  <p>
-عَن عَليِّ بنِ أبي طالِبٍ أنّهُ قالَ لِلنّبيِّ صلّى اللهُ عليهِ وسلَّم
-: أمِنّا المَهدِيُّ أمْ مِنْ غَيرِنا يا رَسولَ الله؟ قال: بلْ مِنّا؛
-بِنا يَخْتِمُ اللهُ كَما بِنا فَتَحَ.
-  </p>
-</blockquote>
+> عَن عَليِّ بنِ أبي طالِبٍ أنّهُ قالَ لِلنّبيِّ صلّى اللهُ عليهِ وسلَّم
+> : أمِنّا المَهدِيُّ أمْ مِنْ غَيرِنا يا رَسولَ الله؟ قال: بلْ مِنّا؛
+> بِنا يَخْتِمُ اللهُ كَما بِنا فَتَحَ.
 
 Ali Ibn Abi Talib asked the Holy Prophet (a.s): “O the Messenger of
 Allah! Is Mahdi from us?” The Prophet (a.s) answered: “He is surely from
@@ -1324,16 +1112,12 @@ to the Holy Prophet’s Household.
 
 • *Hilyat Al-Awliya’*, Vol. 1, p. 86:
 
-<blockquote dir="rtl">
-  <p>
-عن ابن عباس قال: قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَن سَرَّهُ
-أنْ يَحْيا حَياتي وَيمُوتَ مَماتي وَيَسكُنَ جَنَّةَ عَدْنٍ غَرَسها
-رَبِّي فَلْيُوالِ عَليّاً مِن بَعْدي وَلْيُوالِ وَلِيَّهُ وَلْيَقْتَدِ
-بِالأئِمَّةِ مِن بَعدي؛ فإنَّهُم عِترَتي خُلِقوا مِن طينَتي وَرُزِقوا
-فَهْماً وَعِلْماً. وَوَيْلٌ لِلمُكَذّبِينَ بِفَضْلِهِمْ مِن أُمَّتي
-وَالقاطِعِينَ فِيهِم صِلَتي لا أنالَهُمُ اللهُ شَفاعَتي.
-  </p>
-</blockquote>
+> عن ابن عباس قال: قال رسول الله صلّى اللهُ عليهِ وسلَّم : مَن سَرَّهُ
+> أنْ يَحْيا حَياتي وَيمُوتَ مَماتي وَيَسكُنَ جَنَّةَ عَدْنٍ غَرَسها
+> رَبِّي فَلْيُوالِ عَليّاً مِن بَعْدي وَلْيُوالِ وَلِيَّهُ وَلْيَقْتَدِ
+> بِالأئِمَّةِ مِن بَعدي؛ فإنَّهُم عِترَتي خُلِقوا مِن طينَتي وَرُزِقوا
+> فَهْماً وَعِلْماً. وَوَيْلٌ لِلمُكَذّبِينَ بِفَضْلِهِمْ مِن أُمَّتي
+> وَالقاطِعِينَ فِيهِم صِلَتي لا أنالَهُمُ اللهُ شَفاعَتي.
 
 The Holy Prophet (a.s) said: One who would like to live and die as I do
 and be placed in Paradise (of Eden) that is made by my Lord should
@@ -1345,17 +1129,13 @@ intercession![^68]
 
 • *Musnad* *Al-Firdaws*:
 
-<blockquote dir="rtl">
-  <p>
-عَن أبي سعيدٍ الخدري قالَ: صَلّى بِنا رَسولُ الله صلّى اللهُ عليهِ
-وسلَّم الصّلاةَ الأولى ثمَّ أقْبلَ بوَجهِهِ الكَريمِ عَلينا فقالَ: يا
-مَعاشِرَ أصحابي! إنَّ مَثَلَ أهْلِ بَيتي فِيكُم مَثَلُ سَفينَةِ نوحٍ
-وبابِ حِطَّةٍ في بَني إسرائيلَ، فَتَمَسَّكوا بأهْلِ بَيتي بَعدي؛
-الأئمَّةِ الرّاشدِينَ مِن ذُرّيَّتي؛ فَإنَّكم لَن تَضِلّوا أبَداً.
-فقِيلَ: يا رَسولَ اللهِ، كَم الأئِمّةُ بعدَكَ؟ قالَ: اثْنا عَشرَ مِن
-أهْلِ بَيتي، أو قال: مِن عِتْرتي.
-  </p>
-</blockquote>
+> عَن أبي سعيدٍ الخدري قالَ: صَلّى بِنا رَسولُ الله صلّى اللهُ عليهِ
+> وسلَّم الصّلاةَ الأولى ثمَّ أقْبلَ بوَجهِهِ الكَريمِ عَلينا فقالَ: يا
+> مَعاشِرَ أصحابي! إنَّ مَثَلَ أهْلِ بَيتي فِيكُم مَثَلُ سَفينَةِ نوحٍ
+> وبابِ حِطَّةٍ في بَني إسرائيلَ، فَتَمَسَّكوا بأهْلِ بَيتي بَعدي؛
+> الأئمَّةِ الرّاشدِينَ مِن ذُرّيَّتي؛ فَإنَّكم لَن تَضِلّوا أبَداً.
+> فقِيلَ: يا رَسولَ اللهِ، كَم الأئِمّةُ بعدَكَ؟ قالَ: اثْنا عَشرَ مِن
+> أهْلِ بَيتي، أو قال: مِن عِتْرتي.
 
 Abu Sa’id Khudri says: The Prophet (a.s) accomplished the first prayer
 with us and then turned to us and stated: “O my companions! The like of
@@ -1368,14 +1148,10 @@ Household.”
 
 • *Al-Mu’jam* *Al-Kabir*, Vol. 3, p. 93:[^71]
 
-<blockquote dir="rtl">
-  <p>
-عَن الإمام المُجْتَبى: إتّقوا اللهَ فينا فإنّا أمَراؤُكم… وَنَحنُ
-أهْلُ البَيتِ الّذي قالَ الله عَزَّ وَجَلَّ ﴿إِنَّمَا يُرِيدُ اللَّهُ
-لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ
-تَطْهِيرًا.﴾
-  </p>
-</blockquote>
+> عَن الإمام المُجْتَبى: إتّقوا اللهَ فينا فإنّا أمَراؤُكم… وَنَحنُ
+> أهْلُ البَيتِ الّذي قالَ الله عَزَّ وَجَلَّ ﴿إِنَّمَا يُرِيدُ اللَّهُ
+> لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أهل الْبَيْتِ وَيُطَهِّرَكُمْ
+> تَطْهِيرًا.﴾
 
 Imam Hasan Mujtaba (a.s) says: “Be pious concerning our affairs; we are
 your rulers indeed… we are the same People of the House about whom God
@@ -1390,15 +1166,11 @@ Exegesis,[^74] *Tarikh Dimashq* by Ibn ‘Asakir,[^75]… etc.
 
 • *Al-Isabah fi Tamyiz al-Sahabah*, Vol. 1, p. 559:
 
-<blockquote dir="rtl">
-  <p>
-عن زياد بن مطرف قال: سَمعْتُ رسولَ الله صلّى اللهُ عليهِ وسلَّم يقول:
-مَنْ أحبَّ أنْ يَحيا حَياتي ويَموتَ مِيتَتي وَيَدخُلَ الجَنَّة الّتي
-وَعَدني رَبّي، وهِي جَنَّةُ الخُلدِ، فَلْيَتَولَّ عَلِياً وذُرّيَّتَهُ
-مِن بعدِهِ فَإنَّهُم لَنْ يُخْرِجوكُم بابَ هُدىً وَلَن يُدخِلوكُم بابَ
-ضَلالةٍ.
-  </p>
-</blockquote>
+> عن زياد بن مطرف قال: سَمعْتُ رسولَ الله صلّى اللهُ عليهِ وسلَّم يقول:
+> مَنْ أحبَّ أنْ يَحيا حَياتي ويَموتَ مِيتَتي وَيَدخُلَ الجَنَّة الّتي
+> وَعَدني رَبّي، وهِي جَنَّةُ الخُلدِ، فَلْيَتَولَّ عَلِياً وذُرّيَّتَهُ
+> مِن بعدِهِ فَإنَّهُم لَنْ يُخْرِجوكُم بابَ هُدىً وَلَن يُدخِلوكُم بابَ
+> ضَلالةٍ.
 
 The Holy Prophet (a.s) said: Anyone who likes to live and die the same
 as I do and be placed in the eternal Paradise promised by my Lord should
@@ -1407,13 +1179,9 @@ never take you away from guidance and will never lead you astray.[^77]
 
 • *Al-Sawa’iq Al-Muhriqah*, p. 15:
 
-<blockquote dir="rtl">
-  <p>
-عَن رسولِ اللهِ صلّى اللهُ عليهِ وسلَّم : يا أيّها النّاسُ! إنّ
-الفَضلَ وَالشَّرَفَ وَالمَنْزِلةَ والولايَةَ لِرسولِ اللهِ
-وذُرِّيَّتِهِ، فَلا تَذهَبَنَّ بكُمُ الأباطِيلُ.
-  </p>
-</blockquote>
+> عَن رسولِ اللهِ صلّى اللهُ عليهِ وسلَّم : يا أيّها النّاسُ! إنّ
+> الفَضلَ وَالشَّرَفَ وَالمَنْزِلةَ والولايَةَ لِرسولِ اللهِ
+> وذُرِّيَّتِهِ، فَلا تَذهَبَنَّ بكُمُ الأباطِيلُ.
 
 The Messenger of Allah (a.s) says: O People! Excellence, honor, dignity
 and government are for the Messenger of Allah and his Progeny, so be
@@ -1442,23 +1210,19 @@ Qunduzi Hanafi about the names of all the Imams (a.s):
 
 • *Yanabi’ Al-Mawaddah*, p. 440:
 
-<blockquote dir="rtl">
-  <p>
-… قَدِمَ يَهودِيٌّ يُقالُ لهُ ’نَعْثل‘ فقالَ: يا مُحَمَّد! أسْألُكَ
-عَن أشْياءَ تَلَجْلَجُ في صَدْري مُنذُ حينٍ، فإنْ أجَبْتَني عَنها
-أسْلَمْتُ عَلى يَدَيْكَ. قال: سَلْ يا أبا عِمارة! فقالَ: يا مُحَمَّد…
-فأخْبِرْني عَن وَصِيِّكَ مَن هُو؟ فَما مِنْ نَبيٍّ إلاّ وَلَهُ وَصيٌّ
-وإنَّ نَبِيَّنا مُوسى بنَ عِمرانَ أوْصَى إلى يوشَعَ بنِ نونٍ. فقالَ:
-إنَّ وَصِيّي عَليُّ بنُ أبي طالِبٍ وَبَعْدَهُ سِبطايَ الحَسَنُ
-وَالحُسَينُ تَتلوهُ تِسْعَةُ أئِمَّةٍ مِن صُلبِ الحُسَين. قال: يا
-مُحَمَّد! فَسَمِّهِمْ لي. قالَ: إذا مَضى الحُسَينُ فابْنُه عَلِيٌّ،
-فإذا مَضَى عَليٌّ فابْنُهُ مُحَمَّد، فإذا مَضى مُحَمَّد فابْنُهُ
-جَعفَرُ، فإذا مَضى جَعفَر فابْنُه مُوسى، فإذا مَضى مُوسى فابْنُه
-عَلِيٌّ، فإذا مَضى عَليٌّ فابْنُه مُحَمَّد، فإذا مضَى مُحَمَّد فابْنُه
-عَلِيٌّ، فإذا مَضى عَليٌّ فابْنُهُ الحَسَنُ، فإذا مَضى الحَسَنُ
-فابْنُهُ الحُجَّةُ مُحَمَّد المَهدِي. فَهؤلاءِ اثنا عَشر.
-  </p>
-</blockquote>
+> … قَدِمَ يَهودِيٌّ يُقالُ لهُ ’نَعْثل‘ فقالَ: يا مُحَمَّد! أسْألُكَ
+> عَن أشْياءَ تَلَجْلَجُ في صَدْري مُنذُ حينٍ، فإنْ أجَبْتَني عَنها
+> أسْلَمْتُ عَلى يَدَيْكَ. قال: سَلْ يا أبا عِمارة! فقالَ: يا مُحَمَّد…
+> فأخْبِرْني عَن وَصِيِّكَ مَن هُو؟ فَما مِنْ نَبيٍّ إلاّ وَلَهُ وَصيٌّ
+> وإنَّ نَبِيَّنا مُوسى بنَ عِمرانَ أوْصَى إلى يوشَعَ بنِ نونٍ. فقالَ:
+> إنَّ وَصِيّي عَليُّ بنُ أبي طالِبٍ وَبَعْدَهُ سِبطايَ الحَسَنُ
+> وَالحُسَينُ تَتلوهُ تِسْعَةُ أئِمَّةٍ مِن صُلبِ الحُسَين. قال: يا
+> مُحَمَّد! فَسَمِّهِمْ لي. قالَ: إذا مَضى الحُسَينُ فابْنُه عَلِيٌّ،
+> فإذا مَضَى عَليٌّ فابْنُهُ مُحَمَّد، فإذا مَضى مُحَمَّد فابْنُهُ
+> جَعفَرُ، فإذا مَضى جَعفَر فابْنُه مُوسى، فإذا مَضى مُوسى فابْنُه
+> عَلِيٌّ، فإذا مَضى عَليٌّ فابْنُه مُحَمَّد، فإذا مضَى مُحَمَّد فابْنُه
+> عَلِيٌّ، فإذا مَضى عَليٌّ فابْنُهُ الحَسَنُ، فإذا مَضى الحَسَنُ
+> فابْنُهُ الحُجَّةُ مُحَمَّد المَهدِي. فَهؤلاءِ اثنا عَشر.
 
 A Jew called Na’thal came to the Holy Prophet (a.s) and said, “O
 Muhammad! I have some questions, which have been in my mind for a while.
@@ -1547,17 +1311,13 @@ auspicious names of Imams (a.s) follow:
 
 • *‘Uyun Akhbar Al-Riza* (a.s), Vol. 1, p. 57:
 
-<blockquote dir="rtl">
-  <p>
-عَن حُسَين بن عليٍّ عَليهِ السَّلامُ قال: سُئِلَ أميرُ المُؤمِنينَ
-عَليهِ السَّلامُ عَن مَعنى قَولِ رسولِ الله صلّى اللهُ عليهِ وآلِهِ
-وسلَّم : إنّي مُخَلِّفٌ فِيكُمُ الثَّقَلَينِ كِتابَ اللهِ وَعِتْرَتي؛
-مَن العِتْرَة؟ فقالَ: أنا وَالحَسَنُ وَالحُسَينُ والأئِمَّةُ
-التّسْعَةُ مِن ولْدِ الحُسينِ، تاسِعُهُم مَهْدِيُّهُم وَقائِمُهُم، لا
-يُفارِقونَ كِتابَ اللهِ وَلا يُفارِقُهُم حَتىّ يَردوا على رَسول اللهِ
-صلّى اللهُ عليهِ وآلِهِ وسلَّم حَوضَهُ.
-  </p>
-</blockquote>
+> عَن حُسَين بن عليٍّ عَليهِ السَّلامُ قال: سُئِلَ أميرُ المُؤمِنينَ
+> عَليهِ السَّلامُ عَن مَعنى قَولِ رسولِ الله صلّى اللهُ عليهِ وآلِهِ
+> وسلَّم : إنّي مُخَلِّفٌ فِيكُمُ الثَّقَلَينِ كِتابَ اللهِ وَعِتْرَتي؛
+> مَن العِتْرَة؟ فقالَ: أنا وَالحَسَنُ وَالحُسَينُ والأئِمَّةُ
+> التّسْعَةُ مِن ولْدِ الحُسينِ، تاسِعُهُم مَهْدِيُّهُم وَقائِمُهُم، لا
+> يُفارِقونَ كِتابَ اللهِ وَلا يُفارِقُهُم حَتىّ يَردوا على رَسول اللهِ
+> صلّى اللهُ عليهِ وآلِهِ وسلَّم حَوضَهُ.
 
 Ali (a.s) was asked, “What did the Prophet mean by ‘Household’ when he
 said, ‘I leave two valuable things among you—Allah’s book and my
@@ -1581,15 +1341,11 @@ deserving than you in terms of age and being Ali’s son. So do not
 quarrel with me about Imamate and the Prophet’s succession. Imam Sajjad
 (a.s) answered:
 
-<blockquote dir="rtl">
-  <p>
-يا عَمُّ! إتَّقِ اللهَ وَلا تَدَّعِ ما لَيْسَ لكَ بِحَقٍّ، إنّي
-أعِظُكَ أنْ تَكونَ مِن الجَاهِلينَ. إنَّ أبي، يا عَمُّ -صَلواتُ اللهِ
-عَلَيهِ- أوْصى إليَّ قَبْلَ أنْ يَتَوجَّهَ إلى العِراقِ وَعَهِدَ إليَّ
-في ذلِكَ قَبلَ أنْ يُسْتَشْهَدَ بِساعَةٍ، وَهذا سِلاحُ رَسولِ اللهِ
-صلّى اللهُ عليهِ وآلِهِ وسلَّم عِندي.
-  </p>
-</blockquote>
+> يا عَمُّ! إتَّقِ اللهَ وَلا تَدَّعِ ما لَيْسَ لكَ بِحَقٍّ، إنّي
+> أعِظُكَ أنْ تَكونَ مِن الجَاهِلينَ. إنَّ أبي، يا عَمُّ -صَلواتُ اللهِ
+> عَلَيهِ- أوْصى إليَّ قَبْلَ أنْ يَتَوجَّهَ إلى العِراقِ وَعَهِدَ إليَّ
+> في ذلِكَ قَبلَ أنْ يُسْتَشْهَدَ بِساعَةٍ، وَهذا سِلاحُ رَسولِ اللهِ
+> صلّى اللهُ عليهِ وآلِهِ وسلَّم عِندي.
 
 “O uncle! Fear God and do not claim something to which you have no
 right. I admonish you lest you may be of the ignorant. O uncle! My
@@ -1631,13 +1387,9 @@ documents.[^88]
 Shaykh Saduq, in his book entitled *Al-Amali*, narrates from Imam Sadiq
 (a.s):
 
-<blockquote dir="rtl">
-  <p>
-إنّ جابِراً دَخَلَ عَلى عَلِيِّ بنِ الحُسَينِ عَليهِ السَّلامُ فَوَجدَ
-ابْنَهُ مُحَمَّد بنَ عَلِيٍّ عَليهِ السَّلامُ عِندَهُ غُلاماً فقال:
-مَن هذا؟ قالَ: هذا ابْني وَصاحِبُ الأمْرِ بَعدي مُحَمَّد الباقِر.
-  </p>
-</blockquote>
+> إنّ جابِراً دَخَلَ عَلى عَلِيِّ بنِ الحُسَينِ عَليهِ السَّلامُ فَوَجدَ
+> ابْنَهُ مُحَمَّد بنَ عَلِيٍّ عَليهِ السَّلامُ عِندَهُ غُلاماً فقال:
+> مَن هذا؟ قالَ: هذا ابْني وَصاحِبُ الأمْرِ بَعدي مُحَمَّد الباقِر.
 
 Jabir went to Imam Sajjad (a.s) and saw his son, Muhammad who was a
 child then. He asked the Imam, ‘Who is he?’ The Imam (a.s) replied, ‘He
@@ -1647,17 +1399,13 @@ is my son and my successor, Muhammad Al-Baqir.’
 
 • *Ithbat Al-Hudat*, Vol. 5, p. 323:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي جعفر عَليهِ السَّلامُ… سُئلَ عَن القائِم عَليهِ السَّلامُ
-فضَربَ بِيَده على أبي عَبدِاللهِ عَليهِ السَّلامُ فقالَ: هذا واللهِ
-قائِمُ آلِ مُحَمَّدٍ صلّى اللهُ عليهِ وآلِهِ وسلَّم … فَلَمّا قُبضَ
-أبو جَعفَرٍ عَليهِ السَّلامُ دَخَلْتُ عَلى أبي عَبدِالله عَليهِ
-السَّلامُ فَأخْبَرْتُه بِذلِكَ فقالَ: صَدَقَ جابرُ، ثمَّ قالَ:
-لَعَلَّكُم تَرَونَ أنْ لَيسَ كُلُّ إمامٍ هُو القائِمَ بعدَ الإمامِ
-الّذي كان قَبلَهُ.
-  </p>
-</blockquote>
+> عن أبي جعفر عَليهِ السَّلامُ… سُئلَ عَن القائِم عَليهِ السَّلامُ
+> فضَربَ بِيَده على أبي عَبدِاللهِ عَليهِ السَّلامُ فقالَ: هذا واللهِ
+> قائِمُ آلِ مُحَمَّدٍ صلّى اللهُ عليهِ وآلِهِ وسلَّم … فَلَمّا قُبضَ
+> أبو جَعفَرٍ عَليهِ السَّلامُ دَخَلْتُ عَلى أبي عَبدِالله عَليهِ
+> السَّلامُ فَأخْبَرْتُه بِذلِكَ فقالَ: صَدَقَ جابرُ، ثمَّ قالَ:
+> لَعَلَّكُم تَرَونَ أنْ لَيسَ كُلُّ إمامٍ هُو القائِمَ بعدَ الإمامِ
+> الّذي كان قَبلَهُ.
 
 Imam Baqir (a.s) was asked, ‘Who is Qa’im?’ He pointed to Imam Sadiq
 (a.s) and said, ‘(I swear) By God that he is the Qa’im of the Household
@@ -1674,13 +1422,9 @@ since all Imams are *‘Qa’im bi ‘amri Allah*.’[^89]
 
 • *Ithbat Al-Hudat*, Vol. 5, p. 472:
 
-<blockquote dir="rtl">
-  <p>
-دَعى أبو عَبدِالله عَليهِ السَّلامُ أبا الحَسَنَ عَليهِ السَّلامُ
-يوماً وَنحْنُ عِندَه فقالَ لنا: عَلَيكُمْ بِصاحِبِكُم هذا فَهُو
-وَاللهِ صاحِبُكُم بَعدي.
-  </p>
-</blockquote>
+> دَعى أبو عَبدِالله عَليهِ السَّلامُ أبا الحَسَنَ عَليهِ السَّلامُ
+> يوماً وَنحْنُ عِندَه فقالَ لنا: عَلَيكُمْ بِصاحِبِكُم هذا فَهُو
+> وَاللهِ صاحِبُكُم بَعدي.
 
 Shaykh Kulayni quotes Sulayman Ibn Khalid as saying: One day we were
 with Imam Sadiq (a.s) when he called his son Abu al-Hasan (Musa) and
@@ -1690,13 +1434,9 @@ told us, “By God, he is your Imam after me.”
 
 • *Ithbat Al-Hudat*, Vol. 6, p. 8:
 
-<blockquote dir="rtl">
-  <p>
-عَن أبي الحسَنِ عَليهِ السَّلامُ أنّه قالَ: إنّ ابْنِي عَلِيّاً
-أكْبَرُ وِلْدِي وأبَرُّهُم وأحَبُّهُمْ إليّ وَهُو يَنظُر مَعي في
-الجَفْرِ ولَمْ يَنْظُر فيهِ إلاّ نَبيٌّ أو وَصِيٌّ.
-  </p>
-</blockquote>
+> عَن أبي الحسَنِ عَليهِ السَّلامُ أنّه قالَ: إنّ ابْنِي عَلِيّاً
+> أكْبَرُ وِلْدِي وأبَرُّهُم وأحَبُّهُمْ إليّ وَهُو يَنظُر مَعي في
+> الجَفْرِ ولَمْ يَنْظُر فيهِ إلاّ نَبيٌّ أو وَصِيٌّ.
 
 Shaykh Kulayni narrates from Abu al-Hasan, Imam Kazim (a.s), “My son,
 Ali, is the eldest and most beloved of my children. He reads *Jafr*
@@ -1707,15 +1447,11 @@ look at it.
 
 • *Ithbat Al-Hudat*, Vol. 6, p. 157:
 
-<blockquote dir="rtl">
-  <p>
-عَن صَفوانَ بنِ يحيى قال: قُلتُ لِلرّضا عَليهِ السَّلامُ: كُنّا
-نَسأَلُكَ… (إلى أنْ قال) فَلا أرانا اللهُ يَومَكَ! فإنْ كانَ كَوْنٌ
-فَإلى مَن؟ فَأشارَ بِيدِه إلى أبي جَعفَرٍ عَليهِ السَّلامُ وهوَ قائِمٌ
-بَينَ يَديه، فقُلت: جُعِلتُ فِداك! هذا ابنُ ثلاثِ سنينَ! فقال: وَما
-يَضُرُّهُ مِن ذلكَ؟ فَقَد قامَ عيسى بالحُجَّةِ وهوَ ابْنُ ثَلاث سنينَ.
-  </p>
-</blockquote>
+> عَن صَفوانَ بنِ يحيى قال: قُلتُ لِلرّضا عَليهِ السَّلامُ: كُنّا
+> نَسأَلُكَ… (إلى أنْ قال) فَلا أرانا اللهُ يَومَكَ! فإنْ كانَ كَوْنٌ
+> فَإلى مَن؟ فَأشارَ بِيدِه إلى أبي جَعفَرٍ عَليهِ السَّلامُ وهوَ قائِمٌ
+> بَينَ يَديه، فقُلت: جُعِلتُ فِداك! هذا ابنُ ثلاثِ سنينَ! فقال: وَما
+> يَضُرُّهُ مِن ذلكَ؟ فَقَد قامَ عيسى بالحُجَّةِ وهوَ ابْنُ ثَلاث سنينَ.
 
 Shaykh Kulayni quotes Safwan as saying: I told Imam Riza (a.s), ‘We
 always ask… If something happens to you, God forbid, whom should we
@@ -1737,11 +1473,7 @@ you think.” The second time he was taken to Mu’tasim (the Abbasid
 caliph), I asked, “You are going. Who will be the Imam after you?” He
 cried until his beard was wet. Then he returned to me and said:
 
-<blockquote dir="rtl">
-  <p>
-عِنْدَ هذِه يُخافُ عَلَيَّ؛ الأمْرُ مِن بَعدي إلى ابْني عَلِيٍّ.
-  </p>
-</blockquote>
+> عِنْدَ هذِه يُخافُ عَلَيَّ؛ الأمْرُ مِن بَعدي إلى ابْني عَلِيٍّ.
 
 “This time, my life is in danger. After me, Imamate is for my son, Ali
 (Imam Hadi (a.s)).
@@ -1754,24 +1486,16 @@ Imam Jawad (a.s) narrates a happening in which Al-Khidr (a.s) testifies
 to God’s Unity, the Prophet’s Mission and the Imamate of the Imams one
 by one. He then continues:
 
-<blockquote dir="rtl">
-  <p>
-وأشهَدُ عَلى الحَسَنِ بنِ عَليٍّ بأنَّهُ القائِمُ بأمْرِ عَلِيِّ بنِ
-مُحَمَّد.
-  </p>
-</blockquote>
+> وأشهَدُ عَلى الحَسَنِ بنِ عَليٍّ بأنَّهُ القائِمُ بأمْرِ عَلِيِّ بنِ
+> مُحَمَّد.
 
 I testify that Hasan Ibn Ali is the successor of Imam Hadi, Ali Ibn
 Muhammad, and the Imam after him.
 
 ### Imam Al-Mahdi
 
-<blockquote dir="rtl">
-  <p>
-وَأشْهَدُ عَلى رَجُلٍ مِن ولْدِ الحَسَنِ لا يُكَنّى وَلا يُسَمّى حتىّ
-يَظْهَرَ أمْرُهُ فَيَمْلأُها عَدلاً كَما مُلِئَتْ جَوراً.
-  </p>
-</blockquote>
+> وَأشْهَدُ عَلى رَجُلٍ مِن ولْدِ الحَسَنِ لا يُكَنّى وَلا يُسَمّى حتىّ
+> يَظْهَرَ أمْرُهُ فَيَمْلأُها عَدلاً كَما مُلِئَتْ جَوراً.
 
 And I testify to a man, the son of Hasan (Imam Askari) whose name and
 nickname are unknown until his emergence, when he will make the earth
@@ -1781,25 +1505,17 @@ full of justice as it was filled with oppression and injustice.
 
 • *Mir’at Al-Uqul* (Exposition of *Al-Kafi*), Vol. 4, p. 50:
 
-<blockquote dir="rtl">
-  <p>
-عَن مُحَمَّد بنِ مُسلِمٍ قالَ: سمِعْتُ أبا عَبدِاللهِ عَليهِ السَّلامُ
-يَقولُ: إنْ بَلَغَكُمْ عَن صاحِبِكُمْ غَيبَةٌ فَلا تُنكِروها.
-  </p>
-</blockquote>
+> عَن مُحَمَّد بنِ مُسلِمٍ قالَ: سمِعْتُ أبا عَبدِاللهِ عَليهِ السَّلامُ
+> يَقولُ: إنْ بَلَغَكُمْ عَن صاحِبِكُمْ غَيبَةٌ فَلا تُنكِروها.
 
 Muhammad Ibn Muslim quotes Imam Sadiq (a.s) as saying: “If you were
 informed of your Imam’s Occultation, do not deny it.”
 
 • *Mir’at Al-’Uqul* (Exposition of *Al-Kafi*), Vol. 4, p. 52:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبد الله عَليهِ السَّلامُ: للقائم غيبتانِ إحداهما طويلةٌ،
-والأخرى قَصيرة. فالأولى يعلَمُ بمَكانه فيها خاصةٌ من شِيعَتِه،
-والأُخرى لا يعلَم بمَكانه فيها إلاّ خاصة مَواليه في دينِه.
-  </p>
-</blockquote>
+> عن ابي عبد الله عَليهِ السَّلامُ: للقائم غيبتانِ إحداهما طويلةٌ،
+> والأخرى قَصيرة. فالأولى يعلَمُ بمَكانه فيها خاصةٌ من شِيعَتِه،
+> والأُخرى لا يعلَم بمَكانه فيها إلاّ خاصة مَواليه في دينِه.
 
 Imam Sadiq (a.s) says: “Imam Qa’im (a.s) has two Occultations—short and
 long. In the first one, nobody knows about his place except particular
@@ -1813,27 +1529,19 @@ from Allah’s Book and the Imams’ Sunnah.
 An honorable *Tawqi’* (letter from Imam Mahdi) that Shaykh Saduq
 narrated from a person called Ishaq Ibn Ya’qub reads:
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا الحَوادِثُ الواقِعَةُ فارجِعوا فِيها إلى رُواةِ أحادِيثِنا
-فإنَّهُم حُجَّتي عَلَيكُم وأنا حُجَّةُ اللهِ عَليهِمْ.
-  </p>
-</blockquote>
+> وَأمّا الحَوادِثُ الواقِعَةُ فارجِعوا فِيها إلى رُواةِ أحادِيثِنا
+> فإنَّهُم حُجَّتي عَلَيكُم وأنا حُجَّةُ اللهِ عَليهِمْ.
 
 And when something happens, refer to the narrators of our traditions who
 are my proof for you, and I am Allah’s proof for them.[^91]
 
 And at the end of this letter we read:
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا وَجهُ الانتِفاعِ بي في غَيبَتي فكالانتِفاعِ بالشَّمْسِ إذا
-غيَّبَها عَن الأبْصارِ السَّحابُ. وإنّي لأمانٌ لأهلِ الأرْضِ كَما أنَّ
-النُّجومَ أمانٌ لأهْلِ السَّماءِ. فأغْلِقوا بابَ السُّؤالِ عَمّا لا
-يُعنِيكُم ولا تَتَكلَّفوا عِلْمَ ما قد كُفِيتُم وأكْثِروا الدُّعاءَ
-بِتَعجيلِ الفَرجِ فإنّ ذلِكَ فَرَجُكُم.
-  </p>
-</blockquote>
+> وَأمّا وَجهُ الانتِفاعِ بي في غَيبَتي فكالانتِفاعِ بالشَّمْسِ إذا
+> غيَّبَها عَن الأبْصارِ السَّحابُ. وإنّي لأمانٌ لأهلِ الأرْضِ كَما أنَّ
+> النُّجومَ أمانٌ لأهْلِ السَّماءِ. فأغْلِقوا بابَ السُّؤالِ عَمّا لا
+> يُعنِيكُم ولا تَتَكلَّفوا عِلْمَ ما قد كُفِيتُم وأكْثِروا الدُّعاءَ
+> بِتَعجيلِ الفَرجِ فإنّ ذلِكَ فَرَجُكُم.
 
 And benefiting from me (The Imam) in the Occultation time is like
 benefiting from the sun while it is covered by the clouds. I am safety
@@ -2330,5 +2038,4 @@ well-known person, this meaning is confirmed by jurisprudents and some
 other traditions.
 
 [^92]: Kamal Al-Din, p. 483
-
 

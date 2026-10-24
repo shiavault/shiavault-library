@@ -511,4 +511,3 @@ Rivāyat-e-Asnād, Tehran, 1360 Sh./1981, Page 77.
 [^6]: Text of Āyatullāh Khumaynī’s eulogy in Yādnama-yi Ustād-i Shahīd
 Murtadha Muhahharī, pp. 3-5.
 
-

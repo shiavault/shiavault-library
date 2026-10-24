@@ -105,4 +105,3 @@ her children, without any form of negligence, then she may petition the
 Islamic courts or take her case to a religious scholar to secure the
 custody of her children.
 
-

@@ -46,4 +46,3 @@ and what they practice is within the frame of the Quran. Their deeds
 correspond to the Quran and do not contradict it. In other words they
 are as sacred as the Quran. Why should we doubt it?
 
-

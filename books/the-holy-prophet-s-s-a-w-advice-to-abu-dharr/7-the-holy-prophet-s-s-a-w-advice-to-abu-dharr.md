@@ -824,4 +824,3 @@ From Makarim al Akhlaq: Page 458
 Compiled by Sheikh al Jaleel Radiyu al Deen Abu Nasr al Hasan bin al
 Fadl al Tabrasi, one among the great scholars of the 6th Century A.H.
 
-

@@ -62,4 +62,3 @@ from the undesirable things bring about perfection, the lack of
 observing the discretionary rulings will not bring punishment, unless
 they prevent one from performing the obligations or cause a sinful deed.
 
-

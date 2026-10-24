@@ -435,4 +435,3 @@ society, consulted him as and when they were faced with any difficulty
 and on every such occasion he gave them the best advice suited to the
 circumstances of the time.
 
-

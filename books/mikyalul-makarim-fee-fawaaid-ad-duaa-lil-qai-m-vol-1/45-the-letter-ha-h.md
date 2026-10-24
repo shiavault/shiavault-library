@@ -69,12 +69,8 @@ asked: O my master, what will happen after that? He replied: The return,
 the return, *Raja’t*, *Raja’t*. Then he recited the following verse of
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُمْ
-بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا
-  </p>
-</blockquote>
+> ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُمْ
+> بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا
 
 ***“Then We gave you back the turn to prevail against them, and aided
 you with wealth and children and made you a numerous band.” (Qur’an,
@@ -201,5 +197,4 @@ lands.
 [^7]: Biharul Anwar; Vol. 2, Pg. 20
 
 [^8]: Biharul Anwar; Vol. 2, Pg. 44
-
 

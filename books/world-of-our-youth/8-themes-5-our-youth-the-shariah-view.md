@@ -2599,4 +2599,3 @@ Answer:
 This is permitted if their lyrics are not foul or contain items which
 displease God.
 
-

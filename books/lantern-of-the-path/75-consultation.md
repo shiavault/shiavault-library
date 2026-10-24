@@ -28,27 +28,15 @@ want. Surely the self combines both acceptance of the truth with what is
 opposed to it - that is, on receiving other truths which are clearer to
 him. Allah has said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَشَاوِرْهُمْ فِي الأَمْرِ
-  </p>
-</blockquote>
+> وَشَاوِرْهُمْ فِي الأَمْرِ
 
 ***Take counsel with them in the affair.*** (3:159)
 
-
 and again,
 
-<blockquote dir="rtl">
-  <p>
-وَأَمْرُهُمْ شُورَى بَيْنَهُمْ
-  </p>
-</blockquote>
+> وَأَمْرُهُمْ شُورَى بَيْنَهُمْ
 
 ***Their rule is to take counsel among themselves.*** (42:38)
 
-
 that is, they consult each other about it.
-
 

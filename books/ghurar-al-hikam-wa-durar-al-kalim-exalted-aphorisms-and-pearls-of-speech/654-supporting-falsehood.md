@@ -7,4 +7,3 @@ Supporting Falsehood
 
 > 1ـ مَنْ نَصَرَ الباطِلَ خَسِرَ.
 
-

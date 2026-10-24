@@ -112,4 +112,3 @@ method it prefers to use in regulating the economic life from its own
 concepts of equity, from the principles and ideals in which it believes,
 or from its general attitude towards life.
 
-

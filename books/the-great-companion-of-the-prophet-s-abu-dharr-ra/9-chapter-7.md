@@ -326,7 +326,6 @@ other. At that time one of you will be an oppressed and the other an
 oppressor. Abu Dharr! You should not refrain from telling the truth,
 whatever the tyranny may befall you.”[^5]
 
-
 It is most probable that the verse mentioned in the above passage
 related to the question of Zakat because Allamah Subaiti, hinting at it
 in his book, has written that there had arisen a discussion between
@@ -431,7 +430,6 @@ day when you will be made to stand before Allah for accountability and
 interrogation. On that day you will get the reward of your good deeds
 and will be recompensed for whatever good you will have done"[^10].
 
-
 [^1]: Salt is a very useful thing created by Allah. Countless benefits
 can be derived from it. It is narrated in hadith that a man will be
 saved from many diseases including leucoderma leprosy, etc. if he tastes
@@ -455,5 +453,4 @@ Mastership, ISP, 1979
 [^9]: Amali, Shaykh Mufid
 
 [^10]: Hayat ul-Qulub, vol. 2
-
 

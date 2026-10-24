@@ -1,9 +1,7 @@
 KALĀM and its Constituent Parts
 ===============================
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 ***In the Name of Allah, Most Gracious, Most Merciful***
 

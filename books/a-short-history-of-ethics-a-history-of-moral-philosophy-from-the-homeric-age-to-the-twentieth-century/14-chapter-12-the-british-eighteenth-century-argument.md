@@ -740,4 +740,3 @@ to be part of common sense. And because common sense is never more than
 an inherited amalgam of past clarities and past confusions, the
 defenders of common sense are unlikely to enlighten us.
 
-

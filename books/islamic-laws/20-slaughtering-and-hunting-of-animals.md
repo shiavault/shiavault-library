@@ -419,4 +419,3 @@ alive, it will be haraam even if he claims that he had caught it alive.
 **Issue 2632:** To eat the locust which has not yet developed its wings
 and cannot fly, is haraam.
 
-

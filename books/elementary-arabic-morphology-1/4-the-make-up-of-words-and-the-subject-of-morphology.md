@@ -16,4 +16,3 @@ the praise of Allah)
 16. Morphology teaches us the forms of single words and their different
 states before being joined together with other words.
 
-

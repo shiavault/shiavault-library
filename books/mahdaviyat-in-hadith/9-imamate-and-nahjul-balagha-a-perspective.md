@@ -92,7 +92,6 @@ condemns even those people as oppressors who befriend such persons -
 '...and whoever makes friends with them, these are the unjust.'
 (Surah Mumtahenah : 9)
 
-
 **Imam of light and guidance**
 
 Hazrat Ali (a.s.) outlines the characteristics of the just and rightly
@@ -216,5 +215,4 @@ their eyes and refer to their intellects and then decide with deep
 reflection - Are the leaders of guidance and the path bearers to
 paradise equal to the guides towards the hell fire and darkness? Never!
 Awaken and decide for yourselves.
-
 

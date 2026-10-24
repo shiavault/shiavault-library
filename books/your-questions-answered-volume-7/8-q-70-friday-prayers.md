@@ -547,4 +547,3 @@ to Banu Hashim was made and enforced by the prophet (s.a.w.a.), and was
 explained by the Imams. It is not a decision made by any fallible alim
 on his own.
 
-

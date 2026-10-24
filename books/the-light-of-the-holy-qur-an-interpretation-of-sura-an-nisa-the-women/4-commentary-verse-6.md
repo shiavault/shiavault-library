@@ -61,7 +61,6 @@ concealed to the witnesses, He will reckon it. Therefore, it says:
 
 "... and Allah is enough as a Reckoner."
 
-
 **Commentary : Verse 7**
 
 (7) لِّلرِّجَالِ نَصيِبٌ مِّمَّا تَرَكَ الْوَالِدَانِ وَالأَقْرَبُونَ
@@ -108,5 +107,4 @@ amount.
 4. The standard of the portion of inheritance is invariable.
 
 "... (it is) a decreed portion."
-
 

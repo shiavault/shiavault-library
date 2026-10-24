@@ -45,4 +45,3 @@ Questions
 3. What advice did Imam al-Sajjad (a) give to the children whom he saw
 studying together?
 
-

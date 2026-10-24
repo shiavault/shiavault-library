@@ -115,13 +115,11 @@ few examples have been given herein.
 1 - UNITY
 ---------
 
-<p dir="rtl">
 وَاعْتَصِمُواْ بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُواْ وَاذْكُرُواْ
 نِعْمَتَ اللّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاء فَأَلَّفَ بَيْنَ
 قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَىَ شَفَا
 حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا كَذَلِكَ يُبَيِّنُ اللّهُ
 لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ
-</p>
 
 [Shakir 3:103] And hold fast by the covenant of Allah all together and
 be not disunited, and remember the favour of Allah on you when you were
@@ -146,12 +144,10 @@ and honour, even if one has to speak a word of disbelief for it.
 Let us first see whether the mention of Taqayyah in the Holy Quran is
 for the beliefs or for actions.
 
-<p dir="rtl">
 لاَّ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاء مِن دُوْنِ
 الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
 إِلاَّ أَن تَتَّقُواْ مِنْهُمْ تُقَاةً وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ
 وَإِلَى اللّهِ الْمَصِيرُ
-</p>
 
 [Shakir 3:28] Let not the believers take the unbelievers for friends
 rather than believers; and whoever does this, he shall have nothing of
@@ -330,19 +326,15 @@ declared as allowable. I have discussed this in detail before.
 AHL UL ZIKR (PEOPLE OF REMEMBRANCE)
 -----------------------------------
 
-<p dir="rtl">
 وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
 فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 16:43] And We did not send before you any but men to whom We
 sent revelation-- so ask the followers of the Reminder if you do not
 know--
 
-<p dir="rtl">
 وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
 فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 16:43] And We did not send before you any but men to whom We
 sent revelation-- so ask the followers of the Reminder if you do not
@@ -400,32 +392,26 @@ Khisal.
 KHUMS
 -----
 
-<p dir="rtl">
 يَسْأَلُونَكَ عَنِ الأَنفَالِ قُلِ الأَنفَالُ لِلّهِ وَالرَّسُولِ
 فَاتَّقُواْ اللّهَ وَأَصْلِحُواْ ذَاتَ بِيْنِكُمْ وَأَطِيعُواْ اللّهَ
 وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ
-</p>
 
 [Shakir 8:1] They ask you about the windfalls. Say: The windfalls are
 for Allah and the Messenger. So be careful of (your duty to) Allah and
 set aright matters of your difference, and obey Allah and His Messenger
 if you are believers.
 
-<p dir="rtl">
 وَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلاَ
 تُبَذِّرْ تَبْذِيرًا
-</p>
 
 [Shakir 17:26] And give to the near of kin his due and (to) the needy
 and the wayfarer, and do not squander wastefully
 
-<p dir="rtl">
 مَّا أَفَاء اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ
 وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ
 السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاء مِنكُمْ وَمَا
 آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
 وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-</p>
 
 [Shakir 59:7] Whatever Allah has restored to His Messenger from the
 people of the towns, it is for Allah and for the Messenger, and for the
@@ -435,11 +421,9 @@ the Messenger gives you, accept it, and from whatever he forbids you,
 keep back, and be careful of (your duty to) Allah; surely Allah is
 severe in retributing (evil):
 
-<p dir="rtl">
 لِلْفُقَرَاء الْمُهَاجِرِينَ الَّذِينَ أُخْرِجُوا مِن دِيارِهِمْ
 وَأَمْوَالِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا
 وَيَنصُرُونَ اللَّهَ وَرَسُولَهُ أُوْلَئِكَ هُمُ الصَّادِقُونَ
-</p>
 
 [Shakir 59:8] (It is) for the poor who fled their homes and their
 possessions, seeking grace of Allah and (His) pleasure, and assisting
@@ -869,10 +853,8 @@ blasphemous.
 
 The first one is -
 
-<p dir="rtl">
 وَأَنْ تُدْخِلَنِي فِي كُلّ خَيْرٍ أَدْخَلْتَ فِيهِ مُحَمّداً وَآلَ
 مُحَمّدٍ،
-</p>
 
 And You may enter me into every of goodness with which You have entered
 Muhammad (s.a.w.) and the Household of Muhammad (a.s.).
@@ -904,10 +886,8 @@ part to equate yourself with them.
 
 The second sentence is even more dangerous than the first one -
 
-<p dir="rtl">
 وَأَنْ تُخْرِجَنِي مِنْ كُلِّ سُوءٍ أَخْرَجْتَ مِنْهُ مُحَمّداً وَآلَ
 مُحَمّدٍ
-</p>
 
 And that You take me out from every evil from which You have taken out
 Muhammad (s.a.w.) and the Household of Muhammad (a.s.).
@@ -932,12 +912,10 @@ he cannot differentiate between the simple Arabic terms of ‘Akhraj’ and
 ‘Azhab’. Everywhere the term ‘Azhab’ is used to denote ‘keeping away
 from’ like in the Verse of Purification.
 
-<p dir="rtl">
 وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
 الْأُولَى وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ
 وَرَسُولَهُ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ
 الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-</p>
 
 [Shakir 33:33] And stay in your houses and do not display your finery
 like the displaying of the ignorance of yore; and keep up prayer, and
@@ -960,31 +938,25 @@ knowledge.
 •Upon the creation of the human beings it was decided that the scale of
 virtue is knowledge.
 
-<p dir="rtl">
 وَيَقُولُ الَّذِينَ كَفَرُواْ لَسْتَ مُرْسَلاً قُلْ كَفَى بِاللّهِ
 شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَابِ
-</p>
 
 •[Shakir 13:43] And those who disbelieve say: You are not a messenger.
 Say: Allah is sufficient as a witness between me and you and whoever has
 knowledge of the Book.
 
-<p dir="rtl">
 وَعِندَهُ مَفَاتِحُ الْغَيْبِ لاَ يَعْلَمُهَا إِلاَّ هُوَ وَيَعْلَمُ مَا
 فِي الْبَرِّ وَالْبَحْرِ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلاَّ يَعْلَمُهَا
 وَلاَ حَبَّةٍ فِي ظُلُمَاتِ الأَرْضِ وَلاَ رَطْبٍ وَلاَ يَابِسٍ إِلاَّ
 فِي كِتَابٍ مُّبِينٍ
-</p>
 
 •[Shakir 6:59] And with Him are the keys of the unseen treasures-- none
 knows them but He; and He knows what is in the land and the sea, and
 there falls not a leaf but He knows it, nor a grain in the darkness of
 the earth, nor anything green nor dry but (it is all) in a clear book.
 
-<p dir="rtl">
 وَمَا مِنْ غَائِبَةٍ فِي السَّمَاء وَالْأَرْضِ إِلَّا فِي كِتَابٍ
 مُّبِينٍ
-</p>
 
 •[Shakir 27:75] And there is nothing concealed in the heaven and the
 earth but it is in a clear book.
@@ -1139,11 +1111,9 @@ me will cry over me’.
 Allah (s.w.t.) has stated that the evil deeds of some people will be
 changed into good ones.
 
-<p dir="rtl">
 إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُوْلَئِكَ
 يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
 رَّحِيمًا
-</p>
 
 [Shakir 25:70] Except him who repents and believes and does a good deed;
 so these are they of whom Allah changes the evil deeds to good ones; and
@@ -1578,12 +1548,10 @@ Please bear in mind that in the Arabic language has two forms of
 plural - the dual and the plural. The plural form is only used to denote
 three or more.
 
-<p dir="rtl">
 مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا إِلَيْهِ
 يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
 وَالَّذِينَ يَمْكُرُونَ السَّيِّئَاتِ لَهُمْ عَذَابٌ شَدِيدٌ وَمَكْرُ
 أُوْلَئِكَ هُوَ يَبُورُ
-</p>
 
 [Shakir 35:10] Whoever desires honour, then to Allah belongs the honour
 wholly. To Him do ascend the good words; and the good deeds, lift them
@@ -1614,28 +1582,20 @@ There is an obligatory part of Namaaz which is Tashahhud, and generally
 after sending salutations two testimonies are borne, but when we take a
 look at the Holy Quran we find it clear that:
 
-<p dir="rtl">
 وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
-</p>
 
 [Shakir 70:32] And those who are faithful to their trusts and their
 covenant
 
-<p dir="rtl">
 وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ
-</p>
 
 [Shakir 70:33] And those who are upright in their testimonies,
 
-<p dir="rtl">
 وَالَّذِينَ هُمْ عَلَى صَلَاتِهِمْ يُحَافِظُونَ
-</p>
 
 [Shakir 70:34] And those who keep a guard on their prayer,
 
-<p dir="rtl">
 أُوْلَئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ
-</p>
 
 [Shakir 70:35] Those shall be in gardens, honoured.
 
@@ -1770,5 +1730,4 @@ them from the path of truth’.
 
 Tell me! Has a clear picture come to your mind or not? That’s it! This
 is the picture that I wanted to show you.
-
 

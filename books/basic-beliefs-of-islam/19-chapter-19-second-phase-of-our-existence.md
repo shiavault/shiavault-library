@@ -120,4 +120,3 @@ sphere of life.
 We should acquire taqwa in life. Taqwa means, to observe the obligatory
 duties in full and to abstain from the evils and forbidden things.
 
-

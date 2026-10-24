@@ -8,11 +8,7 @@ to the highway of illumination [and truth]; and [one who] is infatuated
 with the Hereafter and turns away from this world.
 
 > 1ـ طُوبى لِمَنْ رَكِبَ الطَّريقَةَ الغَرّاءِ، ولَزِمَ المَحَجَّةَ
-<blockquote dir="rtl">
-  <p>
-البَيْضاءَ وتَوَلَّهَ بِالآخِرَةِ، وأعْرَضَ عَنِ الدُّنيا.
-  </p>
-</blockquote>
+> البَيْضاءَ وتَوَلَّهَ بِالآخِرَةِ، وأعْرَضَ عَنِ الدُّنيا.
 
 2. Indeed, the highway of truth has been made manifest for those who
 seek it.
@@ -47,41 +43,24 @@ sea.
 and save you from reproach.
 
 > 8ـ عَلَيْكَ بِمَنْهَجِ الاِسْتِقامَةِ، فَإنَّهُ يُكْسِبُكَ الكَرامَةَ،
-<blockquote dir="rtl">
-  <p>
-وَيَكْفيكَ المَلامَةَ.
-  </p>
-</blockquote>
+> وَيَكْفيكَ المَلامَةَ.
 
 9. Take to the highway of illumination [and truth] and follow it,
 otherwise Allah will replace you with others.
 
 > 9ـ عَلَيْكُمْ بِالمَحَجَّةِ البَيْضاءِ فَاسْلُكُوها، وإلاّ اسْتَبْدَلَ
-<blockquote dir="rtl">
-  <p>
-اللّهُ بِكُمْ غَيْرَكُمْ.
-  </p>
-</blockquote>
+> اللّهُ بِكُمْ غَيْرَكُمْ.
 
 10. Whoever deviates from the truth, good becomes evil for him and evil
 becomes good, and he gets intoxicated with the intoxication of
 misguidance.
 
 > 10ـ مَنْ زاغَ ساءَتْ عِنْدَهُ الحَسَنَةُ، وحَسُنَتْ عِنْدَهُ
-<blockquote dir="rtl">
-  <p>
-السَّيِّئَةُ، وسُكِرَ سُكْرَ الضَّلالَةِ.
-  </p>
-</blockquote>
+> السَّيِّئَةُ، وسُكِرَ سُكْرَ الضَّلالَةِ.
 
 11. Do not permit your selves to take you into the paths of the
 oppressors.
 
 > 11ـ لا تُرَخِّصُوا لأنْفُسِكُمْ أنْ تَذْهَبَ بِكُمْ في مَذاهِبِ
-<blockquote dir="rtl">
-  <p>
-الظَّلَمَةِ.
-  </p>
-</blockquote>
-
+> الظَّلَمَةِ.
 

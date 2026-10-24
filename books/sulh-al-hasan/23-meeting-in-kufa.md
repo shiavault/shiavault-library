@@ -271,4 +271,3 @@ in this abbey of her in al-Hira
 
 [^12]: Al-Mas'udi, Hamish b. al-Athir, vol. 6, p. 97.
 
-

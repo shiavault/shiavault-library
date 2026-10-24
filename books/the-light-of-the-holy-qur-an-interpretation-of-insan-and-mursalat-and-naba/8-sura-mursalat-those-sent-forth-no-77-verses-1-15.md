@@ -1,9 +1,7 @@
 Sura Mursalat (those Sent Forth) No.77 (verses 1-15)
 ====================================================
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 (1) وَالْمُرْسَلَاتِ عُرْفًا
 
@@ -34,7 +32,6 @@ Sura Mursalat (those Sent Forth) No.77 (verses 1-15)
 (14) وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ
 
 (15) وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
-
 
 **In The Name of Allah The Beneficent, The Merciful
 **
@@ -70,14 +67,12 @@ witness) ;
 
 15. Ah woe, that Day, to the Rejecters of Truth?.
 
-
 **Commentary:**
 
 Allah's Promises Surely Befall! Woe to the Rejecters of Truth!
 
 At the beginning of this Sura, there are five oaths in five verses
 about which many comments have been made and they are:
-
 
 By those (Angels) (winds) sent forth one after another,
 
@@ -298,5 +293,4 @@ oaths are to both the physical cherishers and the spiritual ones.
 It is interesting to note that all the oaths are for the belief that
 His promise of mercy and justice in the Hereafter, 'the Day of Sorting
 out', is indeed true.
-
 

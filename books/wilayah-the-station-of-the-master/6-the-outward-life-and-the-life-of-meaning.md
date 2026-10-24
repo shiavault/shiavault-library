@@ -103,11 +103,7 @@ In Usul al-Kafi, in the chapter, "The Imams are the Light of Allah", it
 is narrated from Abu Khalid al-Kabuli that he said: "I asked al-Imam
 Muhammad al-Baqir (a.s.) about this ayah:
 
-<blockquote dir="rtl">
-  <p>
-فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا
-  </p>
-</blockquote>
+> فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا
 
 ***“Therefore believe in Allah and His Messenger and the Light which We
 have revealed;” (64:8)***
@@ -146,5 +142,4 @@ If we envisage man only on this level, then this really is what it is
 all about, but man has another way, another future, which is obtained
 through the refinement of the soul and through acquaintance with the
 ultimate goal, that is to say, with the Most Purified Essence of Unity.
-
 

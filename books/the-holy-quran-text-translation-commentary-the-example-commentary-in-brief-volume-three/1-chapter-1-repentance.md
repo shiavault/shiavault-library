@@ -532,4 +532,3 @@ nominal Muslims and the hypocrites who had built the new mosque. Later
 on, in Qura"nic literature it was called,\`\`AL-ZARRAR''= the \`\`Mosque
 of Dissension''
 
-

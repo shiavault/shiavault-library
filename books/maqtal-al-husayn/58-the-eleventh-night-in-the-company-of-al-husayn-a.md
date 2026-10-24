@@ -189,4 +189,3 @@ where the holy city of Kaďimiyya is located.
 
 [^7]: al-Tanukhi, the judge, Nashwar al-Muhadara, Vol. 8, p. 218.
 
-

@@ -121,4 +121,3 @@ What a remarkable degree of intelligence possessed by Bahlool. No
 shrewed argument could ever beat him in his wit and ability to retort
 instantly.
 
-

@@ -68,4 +68,3 @@ people], We delivered you from the worry…” (20:40) So the ***dhulm*** is
 explained in this verse as “worry”; and ***“ghafara”*** is explained as
 “delivered”.
 
-

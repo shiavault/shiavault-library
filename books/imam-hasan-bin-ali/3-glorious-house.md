@@ -98,12 +98,8 @@ greatness be high, made marriage an attached lineage and an ordained
 duty by which He solidified family ties and drew people together. He,
 the Mighty, says:*
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا
-وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا
+> وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا
 
 ***“And He it is Who has created man from the water then. He has made
 for him blood-relationship and marriage-relationship and your Lord is
@@ -195,5 +191,4 @@ status quo, with no pretension, imposition or injustice.
 (Treasures of the Hereafter), 1387 A.H/1967 AD ed., p.32.
 
 [^2]: Ibid., p.30.
-
 

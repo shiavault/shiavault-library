@@ -43,4 +43,3 @@ sorcerer, a liar and an imitator of others' oral statements, etc, could
 not claim that he read the contents of other books to them due to his
 inability to read and write.** **
 
-

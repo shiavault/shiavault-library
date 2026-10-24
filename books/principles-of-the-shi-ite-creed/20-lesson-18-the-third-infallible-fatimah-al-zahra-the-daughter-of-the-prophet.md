@@ -51,4 +51,3 @@ her dissatisfaction with the events that took place after the death of
 the Prophet. She voiced her protest through these ways to be recorded
 and enlighten the Muslims.
 
-

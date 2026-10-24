@@ -433,4 +433,3 @@ to pass through many stages, the first of which is to believe that
 nothing can happen without Allah's permission. The next stage is to note
 the divine decree and fate, the subject we will handle presently.
 
-

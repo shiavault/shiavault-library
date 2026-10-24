@@ -165,7 +165,7 @@ a centralization to them in the limits of their beliefs. Such that it
 assumed a form of a well-defined school of thought in the life of Shia
 people.
 
-Phillip Hitti says: “Shia was born on the day of 10<sup>th</sup>
+Phillip Hitti says: “Shia was born on the day of 10th
 Mohurrum. From that day Imamate in the progeny of Ali became a principle
 of the faith of Shias, just as prophethood of Muhammad (s) was a
 principle of Islamic faith.”**[1]**

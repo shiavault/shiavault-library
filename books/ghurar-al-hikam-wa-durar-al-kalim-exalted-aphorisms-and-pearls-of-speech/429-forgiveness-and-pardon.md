@@ -37,32 +37,20 @@ you to be virtuous.
 not become evident for you.
 
 > 8 ـ أقِلِ العَثْرَةَ، وادْرَأِ الحَدَّ، وتَجاوَزْ عَمّا لَمْ يُصَرَّحْ
-<blockquote dir="rtl">
-  <p>
-لَكَ بِهِ.
-  </p>
-</blockquote>
+> لَكَ بِهِ.
 
 9. Accept the excuses of people and you will enjoy their brotherhood;
 meet them with cheerfulness and you will cause their malice [and grudges
 against you] to die away.
 
 > 9ـ اِقْبَلْ أعْذارَ النّاسِ، تَسْتَمْتِعْ بِإخائِهِمْ، والقَهُمْ
-<blockquote dir="rtl">
-  <p>
-بِالبِشْرِ، تُمِتْ أضْغانَهُمْ.
-  </p>
-</blockquote>
+> بِالبِشْرِ، تُمِتْ أضْغانَهُمْ.
 
 10. Pardon the errors of the magnanimous, for none of them slips but
 that the Hand of Allah lifts him [back] up.
 
 > 10ـ أقيلُوا ذَوِى المُروُءاتِ عَثَراتِهِمْ، فَما يَعْثِرُ مِنْهُمْ
-<blockquote dir="rtl">
-  <p>
-عاثِرٌ إلاّ ويَدُ اللّهِ تَرْفَعُهُ.
-  </p>
-</blockquote>
+> عاثِرٌ إلاّ ويَدُ اللّهِ تَرْفَعُهُ.
 
 11. Forgiveness is the best of favours.
 
@@ -88,11 +76,7 @@ that the Hand of Allah lifts him [back] up.
 it is informing the sinner of it.
 
 > 16ـ رُبَّ ذَنْب مِقْدارُُ العُقُوبَةِ عَلَيْهِ إعْلامُ المُذْنِبِ
-<blockquote dir="rtl">
-  <p>
-بِهِ.
-  </p>
-</blockquote>
+> بِهِ.
 
 17. Do not persist in that [action] which is followed by sin.
 
@@ -115,31 +99,19 @@ shield from the punishment of Allah, the Glorified.
 possessing authority, [for by this] your mastery will become complete.
 
 > 21ـ تَجاوَزْ مَعَ القُدْرَةِ وأحْسِنْ مَعَ الدَّوْلَةِ تَـكْمُلْ لَكَ
-<blockquote dir="rtl">
-  <p>
-السِّيادَةُ.
-  </p>
-</blockquote>
+> السِّيادَةُ.
 
 22. Overlook missteps and pardon mistakes, [for by this] your station
 will be elevated.
 
 > 22ـ تَجاوَزْ عَنِ الزَّلَلِ، وأقِلِ العَثَراتِ، تُرْفَعْ لَكَ
-<blockquote dir="rtl">
-  <p>
-الدَّرَجاتُ.
-  </p>
-</blockquote>
+> الدَّرَجاتُ.
 
 23. Cover up offences with forgiveness, especially for those who possess
 magnanimity and social standing.
 
 > 23ـ تَغَمَّدِ الذُّنُوبَ بِالغُفْرانِ، سِيَّما في ذَوِى المُرُوءَةِ
-<blockquote dir="rtl">
-  <p>
-والهَيْئاتِ.
-  </p>
-</blockquote>
+> والهَيْئاتِ.
 
 24. Feign heedlessness [about the mistakes of others] and your affair
 will be praised.
@@ -150,11 +122,7 @@ will be praised.
 in religion or an undermining of the authority of Islam.
 
 > 25ـ جازِ بِالحَسَنَةِ، وتَجاوَزْ عَنِ السَّيِّئَةِ، ما لَمْ يَكُنْ
-<blockquote dir="rtl">
-  <p>
-ثَلَماً فِي الدّينِ، أوْ وَهْناً في سُلْطانِ الإسْلامِ.
-  </p>
-</blockquote>
+> ثَلَماً فِي الدّينِ، أوْ وَهْناً في سُلْطانِ الإسْلامِ.
 
 26. Adopt [the policy of] excusing the people and do not extend your
 hand to that which is disagreeable to anyone of them.[^1]
@@ -166,12 +134,8 @@ powerful, and he who raises himself above the evil of reprisals has
 taken hold of the accumulation of merits.
 
 > 27ـ دَعِ الاِنْتِقامَ فَإنَّهُ مِنْ أسْوَءِ أفْعالِ المَقْتَدِرِ،
-<blockquote dir="rtl">
-  <p>
-ولَقَدْ أخَذَ بِجَوامِعِ الفَضْلِ مَنْ رَفَعَ نَفْسَهُ عَنْ سُوءِ
-المُجازاةِ.
-  </p>
-</blockquote>
+> ولَقَدْ أخَذَ بِجَوامِعِ الفَضْلِ مَنْ رَفَعَ نَفْسَهُ عَنْ سُوءِ
+> المُجازاةِ.
 
 28. It is when one possesses complete authority that the virtue of
 forgiveness becomes manifest.
@@ -182,21 +146,13 @@ forgiveness becomes manifest.
 revenge is the gravest of sins.
 
 > 29ـ قِلَّةُ العَفْوِ أقْبَحُ العُيُوبِ، والتَّسَرُّعُ إلَى
-<blockquote dir="rtl">
-  <p>
-الاِنْتِقامِ أعْظَمُ الذُّنُوبِ.
-  </p>
-</blockquote>
+> الاِنْتِقامِ أعْظَمُ الذُّنُوبِ.
 
 30. Accepting the excuse of a wrongdoer is from the acts that bring
 honour and the [is] the most excellent of traits.
 
 > 30ـ قَبُولُ عُذْرِ المُجْرِمِ مِنْ مَواجِبِ الكَرَمِ ومَحاسِنِ
-<blockquote dir="rtl">
-  <p>
-الشِّيَمِ.
-  </p>
-</blockquote>
+> الشِّيَمِ.
 
 31. Victory is a sufficient intercessor for the sinner.
 
@@ -212,11 +168,7 @@ altruistic despite your poverty, then virtue will become perfected for
 you (or virtues will become perfected for you).
 
 > 33ـ كُنْ عَفُوّاً في قُدْرَتِكَ، جَواداً في عُسْرَتِكَ، مُؤْثِراً مَعَ
-<blockquote dir="rtl">
-  <p>
-فاقَتِكَ، يَكْمُلْ لَكَ الفَضْلُ \>تَـكْمُلُ لَكَ الفَضائِلُ).
-  </p>
-</blockquote>
+> فاقَتِكَ، يَكْمُلْ لَكَ الفَضْلُ \>تَـكْمُلُ لَكَ الفَضائِلُ).
 
 34. One who forgives wrongdoings has taken hold of the accumulation of
 merits.
@@ -258,11 +210,7 @@ two (i.e. the sin and punishment) for forgiveness, through this you will
 gain recompense and reward.
 
 > 42ـ لاتُعاجِلْ الذَّنبَ بِالعُقُوبَةِ، واتْرُكْ بَيْنَهُما لِلْعَفْوِ
-<blockquote dir="rtl">
-  <p>
-مَوْضِعاً، تُحْرِزْ بِهِ الأجْرَ والمَثُوبَةَ.
-  </p>
-</blockquote>
+> مَوْضِعاً، تُحْرِزْ بِهِ الأجْرَ والمَثُوبَةَ.
 
 43. There is no clemency like pardon.
 
@@ -282,33 +230,21 @@ establish ties with the one who cuts him off, to give the one who
 deprives him and to respond to evil with goodness.
 
 > 46ـ يُعْجِبُني مِنَ الرَّجُلِ أنْ يَعْفُوَ عَمَّنْ ظَلَمَهُ، ويَصِلَ
-<blockquote dir="rtl">
-  <p>
-مَنْ قَطَعَهُ، ويُعْطِيَ مَنْ حَرَمَهُ، ويُقابِلَ الإساءَةَ
-بِالإحْسانِ.
-  </p>
-</blockquote>
+> مَنْ قَطَعَهُ، ويُعْطِيَ مَنْ حَرَمَهُ، ويُقابِلَ الإساءَةَ
+> بِالإحْسانِ.
 
 47. Give people your forgiveness and pardon just as you would like
 Allah, the Glorified, to grant [it] to you, and never regret showing
 forgiveness [to others].
 
 > 47ـ أعْطِ النّاسَ مِنْ عَفْوِكَ وصَفْحِكَ، مِثْلَ ما تُحِبُّ أنْ
-<blockquote dir="rtl">
-  <p>
-يُعْطِيَكَ اللّهُ سُبْحانَهُ، وعلى عَفْو فَلاتَنْدَمْ.
-  </p>
-</blockquote>
+> يُعْطِيَكَ اللّهُ سُبْحانَهُ، وعلى عَفْو فَلاتَنْدَمْ.
 
 48. Honour the one who loves you and pardon your enemy, [for by this]
 virtue will become complete for you.
 
 > 48ـ اَكْرِمْ مَنْ وَدَّكَ، واصْفَحْ عَنْ عَدُوِّكَ، يَتِمَّ لَكَ
-<blockquote dir="rtl">
-  <p>
-الفَضْلُ.
-  </p>
-</blockquote>
+> الفَضْلُ.
 
 49. The best act of a person in power is to forgive.
 
@@ -343,34 +279,22 @@ who is most forgiving to the people, even if he does not find them
 having any excuse.
 
 > 55ـ أعْرَفُ النّاسِ بِاللّهِ أعْذَرُهُمْ لِلنّاسِ، وإنْ لَمْ يَجِدْ
-<blockquote dir="rtl">
-  <p>
-لَهُمْ عُذْراً.
-  </p>
-</blockquote>
+> لَهُمْ عُذْراً.
 
 56. Verily, confronting evil with good and the covering up wrongs with
 forgiveness are from the best virtues and the most praiseworthy
 qualities.
 
 > 56ـ إنَّ مُقابَلَةَ الإساءَةِ بِالإحْسانِ، وتَغَمُّدَ الجَرائِمِ
-<blockquote dir="rtl">
-  <p>
-بِالغُفْرانِ، لَمِنْ أحْسَنِ الفَضائِلِ، وأفْضَلِ المَحامِدِ.
-  </p>
-</blockquote>
+> بِالغُفْرانِ، لَمِنْ أحْسَنِ الفَضائِلِ، وأفْضَلِ المَحامِدِ.
 
 57. Verily, he who gives to the one who deprives him, establishes ties
 with the one who cuts him off and forgives the one who oppresses him,
 will find in Allah, the Glorified, a Supporter and a Helper.
 
 > 57ـ إنَّ مَنْ أعْطى مَنْ حَرَمَهُ، وَوَصَلَ مَنْ قَطَعَهُ، وعَفى
-<blockquote dir="rtl">
-  <p>
-عَمَّنْ ظَلَمَهُ، كانَ لَهُ مِنَ اللّهِ سُبْحانَهُ الظَّهيرُ
-والنَّصيرُ.
-  </p>
-</blockquote>
+> عَمَّنْ ظَلَمَهُ، كانَ لَهُ مِنَ اللّهِ سُبْحانَهُ الظَّهيرُ
+> والنَّصيرُ.
 
 58. Forgiveness is a virtue.
 
@@ -404,11 +328,7 @@ will find in Allah, the Glorified, a Supporter and a Helper.
 wrong him and show forbearance with that which angers him.
 
 > 65ـ الصَّفْحُ أنْ يَعْفُوَ الرَّجُلُ عَمّا يُجْنى عَلَيْهِ، ويَحْلُمَ
-<blockquote dir="rtl">
-  <p>
-عَمّا يُغِيظُهُ.
-  </p>
-</blockquote>
+> عَمّا يُغِيظُهُ.
 
 66. Pardoning is the best of traits.
 
@@ -433,11 +353,7 @@ detestable in the sight of Allah and brings [unwanted] changes [and
 removal of blessings] closer.
 
 > 70ـ إيّاكَ والتَسرُّعَ إلَى العُقُوبَةِ، فَإنَّهُ مَمْقَتَةٌ
-<blockquote dir="rtl">
-  <p>
-عِنْدَاللّهِ، ومُقَرِّبٌ مِنَ الغَيْرِ.
-  </p>
-</blockquote>
+> عِنْدَاللّهِ، ومُقَرِّبٌ مِنَ الغَيْرِ.
 
 [^1]: It is possible that this is an instruction of the Imam (‘a) to
 those given the task of collecting the zakāt from the people.
@@ -445,5 +361,4 @@ those given the task of collecting the zakāt from the people.
 [^2]: A possible meaning for this would be: When a person does some bad
 to you and some good, then forgive his bad for the sake of the good that
 he has done to you.
-
 

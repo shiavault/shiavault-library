@@ -548,4 +548,3 @@ and an extreme abomination which the polytheism involves. It never
 implies that "one is licensed to commit any sinful act on the condition
 that he refrain from practicing Shirk (polytheism)."
 
-

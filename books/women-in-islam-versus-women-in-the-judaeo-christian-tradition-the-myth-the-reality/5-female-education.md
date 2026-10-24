@@ -58,4 +58,3 @@ only reference in matters of law and religion.
 [^1]: Denise L. Carmody, “Judaism”, in Arvind Sharma ed., op. cit., p.
 197.
 
-

@@ -24,19 +24,15 @@ admonition. (7:26)***
 In providing guidelines for having taqwa, Imam Ali (a) states in one of
 his sermons:
 
-<p dir="rtl">
 الا فصونوها و تصونوا بها
-</p>
 
 …you should take care of it and take care of yourselves through it….9
 
 Furthermore, Imam Ali (a) holds that piety is a great cause of freedom.
 He states:
 
-<p dir="rtl">
 فان تقوی الله مفتاح سداد و ذخيره‏ معاد و عتق من كل ملكه و نجاه من كل
 هلكه بها ينجح الطالب و ينجو الهارب و تنال الرغائب
-</p>
 
 Certainly, piety is the key to guidance, provision for the next world,
 freedom from all types of slavery, and deliverance from all ruin. With
@@ -58,5 +54,4 @@ One who is a slave and obedient to wealth and position cannot live free
 socially. Hence, it is true to say that taqwa gives human beings
 “freedom from all types of slavery.” Thus, not only does taqwa not have
 a chain or restriction, but it is in fact freedom itself.
-
 

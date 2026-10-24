@@ -722,23 +722,23 @@ jawbone of a camel and struck Abdurrahman bin Ouff on the head. Then he
 sat weeping for the killed people of the battle of Badr and reciting
 some poetry of al-Aswad bin Yafur:
 
-*<span style="font-size: 16pt">Is he unable to keep death away from
-me,</span>*
+*Is he unable to keep death away from
+me,*
 
-*<span style="font-size: 16pt">or resurrect me when my bones become
-destroyed?</span>*
+*or resurrect me when my bones become
+destroyed?*
 
-*<span style="font-size: 16pt">Is there someone who tells the
-Beneficent</span>*
+*Is there someone who tells the
+Beneficent*
 
-*<span style="font-size: 16pt">that I have given up the month of
-fast?</span>*
+*that I have given up the month of
+fast?*
 
-*<span style="font-size: 16pt">Say to Allah to prevent me my
-drink</span>*
+*Say to Allah to prevent me my
+drink*
 
-*<span style="font-size: 16pt">And say to Allah to prevent me my
-food.</span>*
+*And say to Allah to prevent me my
+food.*
 
 The Prophet (s) was informed of that and he became very angry. He went
 out dragging his garment and he hit Umar with something he had in his
@@ -1239,23 +1239,23 @@ the Prophet (s) in Khaybar when he spit in Alis eyes and they recovered
 and then the Prophet (s) gave him the banner. Marhab came out to Ali
 reciting:
 
-*<span style="font-size: 16pt">Khaybar has known that I am
-Marhab,</span>*
+*Khaybar has known that I am
+Marhab,*
 
-*<span style="font-size: 16pt">Expert hero with sharp weapons</span>*
+*Expert hero with sharp weapons*
 
-*<span style="font-size: 16pt">When wars come flaming.</span>*
+*When wars come flaming.*
 
 Ali (may Allah be pleased with him) came out to him reciting:
 
-*<span style="font-size: 16pt">It is me, whom my mother has called me
-Haydara,</span>*
+*It is me, whom my mother has called me
+Haydara,*
 
-*<span style="font-size: 16pt">like a lion of forest with bad
-look.</span>*
+*like a lion of forest with bad
+look.*
 
-*<span style="font-size: 16pt">I kill (many of) you with the
-sword.</span>*
+*I kill (many of) you with the
+sword.*
 
 Ali struck Marhab and split his head and then the victory came.[2]
 

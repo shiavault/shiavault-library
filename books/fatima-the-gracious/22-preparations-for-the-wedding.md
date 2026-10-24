@@ -234,4 +234,3 @@ She said: 'Yes, by Allah!'
 He [Prophet (S)] then said: 'Asma, may Allah fulfillfor you the needs of
 this world and the Hereafter.'
 
-

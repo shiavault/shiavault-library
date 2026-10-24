@@ -70,7 +70,6 @@ these verses of Qur'an even the traditions of the Holy Prophet are
 treated as revelation. Their words are not from Allah; but the idea
 is.
 
-
 **FROM BEHIND A CURTAIN**
 
 The revelations, which are sent "from behind a curtain", are, also, of
@@ -229,7 +228,6 @@ might be made out. But all the evidence we have, points in the opposite
 direction, and the suggestion of epilepsy is as groundless in the eyes
 of the present writer as it is offensive to all Muslims…"
 
-
 **Chapter Two : Pre-Islamic Revelations**
 
 **1.Some Previous Books**
@@ -267,9 +265,7 @@ youths are mostly confronted with Christianity; therefore, in the
 following chapters, I will mention some aspects of the Old and the New
 Testaments only.
 
-
 **2.The Torah**
-
 
 **History Of Present Compilation**
 
@@ -343,5 +339,4 @@ been re-written by the subsequent generations to modernize the language.
 This concession has to be given because "it is hardly probable that the
 Hebrew of Moses' day was like that of Biblical Hebrew". (See the
 Westminster Dictionary of the Bible under "Pentateuch").
-
 

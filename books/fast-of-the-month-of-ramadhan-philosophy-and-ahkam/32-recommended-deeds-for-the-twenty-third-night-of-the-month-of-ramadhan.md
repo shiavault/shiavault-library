@@ -69,4 +69,3 @@ hands. You may repeat it while you are prostrating, kneel­ing, standing
 or sitting, and repeat it on the last night of the nights of the month
 of Ramadhan."
 
-

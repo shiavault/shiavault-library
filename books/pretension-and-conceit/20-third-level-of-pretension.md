@@ -41,4 +41,3 @@ gates of Paradise will be closed before them while those of the fires
 will be opened." Thus the imām, may his shade endure, ends his
 statement.
 
-

@@ -123,4 +123,3 @@ out. The Sunnite traditions also show themselves up to be false as is
 clear to anyone who cares to consult the narrations in the book of
 al-Bukhari and others.
 
-

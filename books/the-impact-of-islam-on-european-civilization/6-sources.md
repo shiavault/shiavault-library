@@ -47,4 +47,3 @@ Touchstone Book, 1972.
 16- Watt, Montgomery. The Influence of Islam on Medieval Europe,
 Edinburgh: University Press, 1972.
 
-

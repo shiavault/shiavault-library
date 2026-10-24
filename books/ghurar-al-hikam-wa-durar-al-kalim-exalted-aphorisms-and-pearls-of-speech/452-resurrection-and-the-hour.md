@@ -21,11 +21,7 @@ increases his provisions.
 coming] is evident for the one who recognizes it.
 
 > 4ـ قَدْ أسْفَرَتِ السّاعَةُ عَنْ وَجْهِها، وظَهَرَتِ العَلامَةُ
-<blockquote dir="rtl">
-  <p>
-لِمُتَوَسِّمِها.
-  </p>
-</blockquote>
+> لِمُتَوَسِّمِها.
 
 5. The Hour has drawn near with its quakes and it has settled down with
 its chest on the ground.
@@ -37,11 +33,7 @@ towards the site of reckoning, and evidence has been brought against
 them.
 
 > 6ـ قَدْ شَخَصُوا عَنْ (مِنْ) مُسْتَقَّرِ الأجْداثِ، وصارُوا إلى مَقامِ
-<blockquote dir="rtl">
-  <p>
-الحِسابِ، وأُقيمَتْ عَلَيْهِمُ الحُجَجُ.
-  </p>
-</blockquote>
+> الحِسابِ، وأُقيمَتْ عَلَيْهِمُ الحُجَجُ.
 
 7. One who improves his Hereafter attains success through the right
 [course].
@@ -61,15 +53,10 @@ it].
 will be many who will show extreme regret.
 
 > 10ـ عِنْدَ مُعايَنَةِ أهْوالِ القِيامَةِ تَكْثُرُ مِنَ المُفَرِّطينَ
-<blockquote dir="rtl">
-  <p>
-النَّدامَةُ.
-  </p>
-</blockquote>
+> النَّدامَةُ.
 
 11. Being occupied with improving your Hereafter will save you from the
 chastisement of hellfire.
 
 > 11ـ اِشْتِغالُكَ بِإصْلاحِ مَعادِكَ يُنْجيكَ مِنْ عَذابِ النّارِ.
-
 

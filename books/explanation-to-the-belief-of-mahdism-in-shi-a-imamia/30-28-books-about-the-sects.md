@@ -47,4 +47,3 @@ There remains no doubt in the authenticity of the very subject. However
 the traditions or tradition quoting the number of Imams to be thirteen
 has been invented. Since it is a lie it is dismissed.
 
-

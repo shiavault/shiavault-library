@@ -58,25 +58,17 @@ Holy Imams) and the integration of faith and deeds.
 In this respect, Shaykh al-Kulayni has reported Imam al-Baqir and Imam
 al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الإيـمَانُ إقْرَارٌ وَعَمَلٌ، وَالإسْلاَمُ إقْرَارٌ بِلاَ عَمَلٍ.
-  </p>
-</blockquote>
+> الإيـمَانُ إقْرَارٌ وَعَمَلٌ، وَالإسْلاَمُ إقْرَارٌ بِلاَ عَمَلٍ.
 
 *Faith is to profess and act, and Islam is to profess without acts.*[^2]
 
 Imam al-Ridha (‘a) is also reported as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّ لَنَا عَاصِياً فَهُوَ عَاصٍ؛ وَمَنْ أَحَبَّ لَنَا
-مُطِيعاً فَهُوَ مُطِيعٌ: وَمَنْ أَعَانَ ظَالِماً فَهُوَ ظَالِمٌ:
-وَمَنْ خَذَلَ ظَالِماً فَهُوَ عَادِلٌ. إنَّهُ لَيْسَ بَيْنَ اللهِ
-وَبَيْنَ أَحَدٍ قَرَابَةٌ، وَلاَ تُنَالُ وِلاَيَتُنَا إلاَّ
-بِالطَّاعَةِ.
-  </p>
-</blockquote>
+> مَنْ أَحَبَّ لَنَا عَاصِياً فَهُوَ عَاصٍ؛ وَمَنْ أَحَبَّ لَنَا
+> مُطِيعاً فَهُوَ مُطِيعٌ: وَمَنْ أَعَانَ ظَالِماً فَهُوَ ظَالِمٌ:
+> وَمَنْ خَذَلَ ظَالِماً فَهُوَ عَادِلٌ. إنَّهُ لَيْسَ بَيْنَ اللهِ
+> وَبَيْنَ أَحَدٍ قَرَابَةٌ، وَلاَ تُنَالُ وِلاَيَتُنَا إلاَّ
+> بِالطَّاعَةِ.
 
 *Whoever loves a person who is disobedient to us is himself disobedient
 to us, whoever loves one that is obedient to us is actually obedient to
@@ -88,24 +80,16 @@ except by means of obedience.*[^3]
 In the book of *‘Uyun Akhbar al-Ridha*, it is recorded that Ibrahim ibn
 Muhammad al-Hamdani reported Imam al-Ridha (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ خَذَلَ عَادِلاً فَهُوَ ظَالِمٌ. وَلا يَنَالُ أَحَدٌ وَلايَةَ
-اللَّهِ إِلاَّ بِالطَّاعَةِ. وَلَقَدْ قَالَ رَسُولُ اللَّهِ‏ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ لِبَنِي عَبْدِ الْمُطَّلِبِ: ائْتُونِي
-بِأَعْمَالِكُمْ لاَ بِأَنْسَابِكُمْ وَأَحْسَابِكُمْ. قَالَ اللَّهُ
-تَبَارَكَ وَتَعَالَى:
-  </p>
-</blockquote>
+> مَنْ خَذَلَ عَادِلاً فَهُوَ ظَالِمٌ. وَلا يَنَالُ أَحَدٌ وَلايَةَ
+> اللَّهِ إِلاَّ بِالطَّاعَةِ. وَلَقَدْ قَالَ رَسُولُ اللَّهِ‏ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ لِبَنِي عَبْدِ الْمُطَّلِبِ: ائْتُونِي
+> بِأَعْمَالِكُمْ لاَ بِأَنْسَابِكُمْ وَأَحْسَابِكُمْ. قَالَ اللَّهُ
+> تَبَارَكَ وَتَعَالَى:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَإِذَا نُفِخَ فِي الصُّورِ فَلاَ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ
-وَلاَ يَتَسَاءَلُونَ. فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُوْلَئِكَ هُمْ
-الْمُفْلِحُونَ. وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُوْلَئِكَ الَّذِينَ
-خَسِرُوا أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ. ﴾
-  </p>
-</blockquote>
+> ﴿فَإِذَا نُفِخَ فِي الصُّورِ فَلاَ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ
+> وَلاَ يَتَسَاءَلُونَ. فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُوْلَئِكَ هُمْ
+> الْمُفْلِحُونَ. وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُوْلَئِكَ الَّذِينَ
+> خَسِرُوا أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ. ﴾
 
 *Whoever hinders a decent person is actually a wrongdoer. No one can
 attain loyalty to Allah except by means of obedience to Him. The Holy
@@ -133,14 +117,10 @@ prohibitions (to be avoided).
 
 Imam Muhammad al-Baqir (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْعِلْمَ الَّذِي نَزَلَ مَعَ آدَمَ لَمْ يُرْفَعْ، وَالْعِلْمُ
-الَّذِي يُتَوَارَثُ، وَكَانَ عَلِيٌّ عَالِمَ هَذِهِ الأُمَّةِ،
-وَإنَّهُ لَمْ يَهْلَكْ مِنَّا عَالِمٌ قَطُّ إلاَّ خَلَفَهُ مِنْ
-أَهْلِهِ مَنْ عَلِمَ مِثْلَ عِلْمِهِ أوْ مَا شَاءَ اللهُ.
-  </p>
-</blockquote>
+> إنَّ الْعِلْمَ الَّذِي نَزَلَ مَعَ آدَمَ لَمْ يُرْفَعْ، وَالْعِلْمُ
+> الَّذِي يُتَوَارَثُ، وَكَانَ عَلِيٌّ عَالِمَ هَذِهِ الأُمَّةِ،
+> وَإنَّهُ لَمْ يَهْلَكْ مِنَّا عَالِمٌ قَطُّ إلاَّ خَلَفَهُ مِنْ
+> أَهْلِهِ مَنْ عَلِمَ مِثْلَ عِلْمِهِ أوْ مَا شَاءَ اللهُ.
 
 *Verily, the knowledge that was brought down to the earth with Adam has
 not been taken back. Knowledge is transmitted among generations through
@@ -153,13 +133,9 @@ him—will succeed him.*[^5]
 Dhurays al-Kannasi is reported to have said that he once visited Imam
 al-Sadiq (‘a) and found Abu-Basir there. The Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ دَاوُودَ وَرِثَ عِلْمَ الأَنْبِيَاءِ وَإنَّ سُلَيْمَانَ وَرِثَ
-دَاوُودَ وَإنَّ مُحَمَّداً وَرِثَ سُلَيْمَانَ وَإنَّا وَرِثْنَا
-مُحَمَّداً وَإنَّ عِنْدَنَا صُحُفَ إبْرَاهِيمَ وَأَلْوَاحَ مُوسَى.
-  </p>
-</blockquote>
+> إنَّ دَاوُودَ وَرِثَ عِلْمَ الأَنْبِيَاءِ وَإنَّ سُلَيْمَانَ وَرِثَ
+> دَاوُودَ وَإنَّ مُحَمَّداً وَرِثَ سُلَيْمَانَ وَإنَّا وَرِثْنَا
+> مُحَمَّداً وَإنَّ عِنْدَنَا صُحُفَ إبْرَاهِيمَ وَأَلْوَاحَ مُوسَى.
 
 *Verily, (Prophet) David (‘a) inherited the knowledge of the prophets.
 (Prophet) Solomon (‘a) then inherited David’s. Most surely, (Prophet)
@@ -171,13 +147,9 @@ Abu-Basir commented, “This is real knowledge.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا مُحَمَّدٍ! لَيْسَ هَذَا هُوَ الْعِلْمَ؛ إنَّمَا الْعِلْمُ
-مَا يَحْدُثُ بِاللَّيْلِ وَالنَّهَارِ يَوْماً بِيَوْمٍ وَسَاعَةً
-بِسَاعَةٍ.
-  </p>
-</blockquote>
+> يَا أَبَا مُحَمَّدٍ! لَيْسَ هَذَا هُوَ الْعِلْمَ؛ إنَّمَا الْعِلْمُ
+> مَا يَحْدُثُ بِاللَّيْلِ وَالنَّهَارِ يَوْماً بِيَوْمٍ وَسَاعَةً
+> بِسَاعَةٍ.
 
 *Abu-Muhammad, this is not knowledge. True knowledge is to know what
 happens during the night and day, each day and every moment.*
@@ -204,14 +176,10 @@ leadership over people and enjoy decisive knowledge.
 Muhammad ibn al-Hasan al-Maythami has reported that he heard Imam
 al-Sadiq (‘a) stating:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ عَزَّ وَجَلَّ أَدَّبَ رَسُولَهُ حَتَّى قَوَّمَهُ عَلَى مَا
-أَرَادَ، ثُمَّ فَوَّضَ إلَيْهِ. فَقَالَ عَزَّ ذِكْرُهُ: ﴿وَمَا
-آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا﴾
-فَمَا فَوَّضَ اللهُ إلَى رَسُولِهِ فَقَدْ فَوَّضَهُ إلَيْنَا.
-  </p>
-</blockquote>
+> إنَّ اللهَ عَزَّ وَجَلَّ أَدَّبَ رَسُولَهُ حَتَّى قَوَّمَهُ عَلَى مَا
+> أَرَادَ، ثُمَّ فَوَّضَ إلَيْهِ. فَقَالَ عَزَّ ذِكْرُهُ: ﴿وَمَا
+> آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا﴾
+> فَمَا فَوَّضَ اللهُ إلَى رَسُولِهِ فَقَدْ فَوَّضَهُ إلَيْنَا.
 
 *Allah, the Almighty and Majestic, has verily disciplined His Messenger
 (S) so highly that He made him as exact as He wanted him to be. He then
@@ -407,12 +375,8 @@ These things are called ‘opinion (*ra'y*)’ in the words of the Ahl
 al-Bayt (‘a) and the traditions of the Holy Prophet (S), who is reported
 to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ فَسَّرَ الْقُرْآنَ بِرَأْيِهِ فَقَدْ كَفَرَ. إنَّ دِينَ اللهِ لاَ
-يُدْرَكُ بِالْعُقُولِ.
-  </p>
-</blockquote>
+> مَنْ فَسَّرَ الْقُرْآنَ بِرَأْيِهِ فَقَدْ كَفَرَ. إنَّ دِينَ اللهِ لاَ
+> يُدْرَكُ بِالْعُقُولِ.
 
 *Whoever* *interprets the Qur’an according to his own opinion has
 definitely become a disbeliever. Verily, the religion of Allah cannot be
@@ -426,21 +390,13 @@ Ayyub ibn al-Hurr has reported that he heard Imam al-Sadiq (‘a) saying:
 *All things must be referred to the Book of Allah and to the Sunnah. Any
 tradition that is not compatible with the Book of Allah is fake.*[^9]
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ مَرْدُودٌ إلَى كِتَابِ اللهِ وَالسُّنَّةِ؛ وَكُلُّ
-حَدِيثٍ لاَ يُوَافِقُ كِتَابَ اللهِ فَهُوَ زُخْرُفٌ.
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ مَرْدُودٌ إلَى كِتَابِ اللهِ وَالسُّنَّةِ؛ وَكُلُّ
+> حَدِيثٍ لاَ يُوَافِقُ كِتَابَ اللهِ فَهُوَ زُخْرُفٌ.
 
 Imam al-Sadiq (‘a) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَتَاكُمْ عَنَّا مِنْ حَدِيثٍ لاَ يُصَدِّقُهُ كِتَابُ اللهِ فَهُوَ
-بَاطِلٌ.
-  </p>
-</blockquote>
+> مَا أَتَاكُمْ عَنَّا مِنْ حَدِيثٍ لاَ يُصَدِّقُهُ كِتَابُ اللهِ فَهُوَ
+> بَاطِلٌ.
 
 *Any discourse that is not supported by the Book of Allah must be
 false.*[^10]
@@ -564,5 +520,4 @@ the View of the Ahl al-Bayt (‘a).
 
 [^10]: - Al-Barqi, al-Mahasin 1:347, H. 128; ‘Allamah al-Majlisi, Bihar
 al-Anwar 2:242, H. 38.
-
 

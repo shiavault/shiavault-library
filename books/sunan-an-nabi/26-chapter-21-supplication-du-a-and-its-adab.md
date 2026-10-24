@@ -21,13 +21,9 @@ His Du’a when he looked in the mirror
 fathers from ‘Ali (as) that whenever the Noble Prophet (S) looked in the
 mirror, he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَكْمَلَ خَلْقِي، وَأَحْسَنَ صُورَتِي،
-وَزَانَ مِنِّي مَاشَانَ مِنْ غَيْرِي، وَهَدَانِي لِلإِسْلاَمِ، وَمُنَّ
-عَلَيَّ بِالنُّـبُوَّةِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَكْمَلَ خَلْقِي، وَأَحْسَنَ صُورَتِي،
+> وَزَانَ مِنِّي مَاشَانَ مِنْ غَيْرِي، وَهَدَانِي لِلإِسْلاَمِ، وَمُنَّ
+> عَلَيَّ بِالنُّـبُوَّةِ.
 
 *“Praise be to Allah who created me perfectly, and made handsome my
 face, and made graceful from me what he made disgraceful from others,
@@ -36,12 +32,8 @@ and guided me to Islam, and blessed me with prophethood.”*[^4]
 4. From al-Shaykh Abi al-Fattuh in his Tafsir: From al-Sadiq (as) who
 said: When the Holy Prophet (S) looked in the mirror he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَحْسَنَ خَلْقِي وَخُلْقِي، وَزَانَ مِنِّي
-مَاشَانَ مِنْ غَـيْرِي.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَحْسَنَ خَلْقِي وَخُلْقِي، وَزَانَ مِنِّي
+> مَاشَانَ مِنْ غَـيْرِي.
 
 *“Praise be to Allah who made excellent my creation and my character,
 and made graceful from me what he made disgraceful from others.”*[^5]
@@ -53,17 +45,13 @@ His Du’a when sitting on his mount
 his mount as he departed for a journey, he would recite *takbir* thrice
 then say:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي سَخَّرَ لَنَا هٌذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ،
-وَإِنَّا إِلـى رَبِّنَا لَمُنْقَلِبُونَ. أَللٌّهُمَّ إِنَّا نَسْأَلُكَ
-فِي سَفَرِنَا هٌذَا الْبِرَّ وَالتَقْوى وَمِنَ الْعَمَلِ مَا تَرْضى.
-أَللٌّهُمَّ هَوِّنْ عَلَيْـنَا سَفَرَنَا وَأَطْوِ عَنَّا بُعْدَهُ.
-أَللٌّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي
-الأَهْلِ. أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعَثَاءِ السَّفَرِ
-وَكَآبَةِ الْمُنْقَلَبِ وَسُوءِ الْمَنْظَرِ فِي الأَهْلِ وَالْمَالِ.
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي سَخَّرَ لَنَا هٌذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ،
+> وَإِنَّا إِلـى رَبِّنَا لَمُنْقَلِبُونَ. أَللٌّهُمَّ إِنَّا نَسْأَلُكَ
+> فِي سَفَرِنَا هٌذَا الْبِرَّ وَالتَقْوى وَمِنَ الْعَمَلِ مَا تَرْضى.
+> أَللٌّهُمَّ هَوِّنْ عَلَيْـنَا سَفَرَنَا وَأَطْوِ عَنَّا بُعْدَهُ.
+> أَللٌّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي
+> الأَهْلِ. أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعَثَاءِ السَّفَرِ
+> وَكَآبَةِ الْمُنْقَلَبِ وَسُوءِ الْمَنْظَرِ فِي الأَهْلِ وَالْمَالِ.
 
 *“Glory be to Allah who has made this (animal) subservient to us and we
 would not be able to do it (ourselves) and surely to our Lord will we
@@ -77,11 +65,7 @@ bad in the family and wealth.”*
 
 And when he returned, he said:
 
-<blockquote dir="rtl">
-  <p>
-آئِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ.
-  </p>
-</blockquote>
+> آئِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ.
 
 *“We return (home while) repenting, worshipping and praising our
 Lord.”*[^6]
@@ -92,14 +76,10 @@ His Du’a in the night while travelling
 6. In al-Awali: From the Noble Prophet (S): When he was traveling on a
 journey and night fell, he said:
 
-<blockquote dir="rtl">
-  <p>
-أَرْضُ رَبِّي وَرَبُّكِ اللٌّهُ. أَعُوذُ مِنْ شَرِّكِ وَشَرِّ مَا
-فِيكِ وَشَرِّ مَا يَدُبُّ عَلَيْكِ وَأَعُوذُ بِاللٌّهِ مِنْ أَسَدٍ
-وَأَسْوَدٍ وَمِنَ الْحَيَّةِ وَالْعَقْرَبِ وَمِنْ سَاكِنِ الْبَلََدِ
-وَوَالِدٍ وَمَا وَلَدَ.
-  </p>
-</blockquote>
+> أَرْضُ رَبِّي وَرَبُّكِ اللٌّهُ. أَعُوذُ مِنْ شَرِّكِ وَشَرِّ مَا
+> فِيكِ وَشَرِّ مَا يَدُبُّ عَلَيْكِ وَأَعُوذُ بِاللٌّهِ مِنْ أَسَدٍ
+> وَأَسْوَدٍ وَمِنَ الْحَيَّةِ وَالْعَقْرَبِ وَمِنْ سَاكِنِ الْبَلََدِ
+> وَوَالِدٍ وَمَا وَلَدَ.
 
 *“O Earth! My Lord and your Lord is Allah. I seek refuge from your evil
 and the evil of what is (living) on you and the evil of what walks upon
@@ -113,12 +93,8 @@ His Du’a when he wore new clothes
 7. In al-Makarim: From the Holy Prophet (S) that when he wore new
 clothes he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي كَسَانِي مَا يُوَارِي عَوْرَتِي
-وَأَتَجَمَّلُ بِهِ فِي النَّاسِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي كَسَانِي مَا يُوَارِي عَوْرَتِي
+> وَأَتَجَمَّلُ بِهِ فِي النَّاسِ.
 
 *“Praise be to Allah who clothed me with what covers my nakedness and
 with what I adorn myself among the people.”*[^8]
@@ -139,17 +115,13 @@ person, whether he is alive or dead.”[^10]
 9. Also: Whenever he (S) wore new clothes and stood up, and was about to
 leave (his house), he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بِكَ اسْتَتَرْتُ وَإِلَيْكَ تَوَجَّهْتُ وَ بِكَ
-اعْـتَصَمْتُ وَعَلَيْكَ تَوَكَّلْتُ. أَللٌّهُمَّ أَنْتَ ثِقَتِي
-وَأَنْتَ رَجَائِي. أَللٌّهُمَّ اكْفِنِي مَا أَهَمَّنِي وَمَا لاَ
-أَهْـتَمُّ بِهِ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي عَزَّ جَارُكَ
-وَجَلَّ ثَنَاؤُكَ وَلاَ إِلٌهَ غَيْرُكَ. أَللٌّهُمَّ زَوِّدْنِي
-التَّقْوى وَاغْفِرْ لِي ذَنْبِي وَوَجِّهْنِي لِلْخَيْرِ حَيْثُ مَا
-تَوَجَّهْتُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بِكَ اسْتَتَرْتُ وَإِلَيْكَ تَوَجَّهْتُ وَ بِكَ
+> اعْـتَصَمْتُ وَعَلَيْكَ تَوَكَّلْتُ. أَللٌّهُمَّ أَنْتَ ثِقَتِي
+> وَأَنْتَ رَجَائِي. أَللٌّهُمَّ اكْفِنِي مَا أَهَمَّنِي وَمَا لاَ
+> أَهْـتَمُّ بِهِ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي عَزَّ جَارُكَ
+> وَجَلَّ ثَنَاؤُكَ وَلاَ إِلٌهَ غَيْرُكَ. أَللٌّهُمَّ زَوِّدْنِي
+> التَّقْوى وَاغْفِرْ لِي ذَنْبِي وَوَجِّهْنِي لِلْخَيْرِ حَيْثُ مَا
+> تَوَجَّهْتُ.
 
 *“O Allah! By You have I covered myself and to You have I turned and
 with You have I sought protection and upon You have I put my trust. O
@@ -168,12 +140,8 @@ His Du’a when he stood up from where he was sitting
 10. From al-Ghazali in al-Ihya’: When he would stand from where he was
 sitting he would say:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَكَ أَللٌّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لاَ إِلٌهَ إِلاَّ
-أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ.
-  </p>
-</blockquote>
+> سُبْحَانَكَ أَللٌّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لاَ إِلٌهَ إِلاَّ
+> أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ.
 
 *“Praise be to You O Allah And by Your Glory! I Bear witness that there
 is no god but You. I seek repentance from You and I turn to You.”*[^12]
@@ -186,21 +154,13 @@ al-Hasan from his mother Fatimah bint al-Husayn from her father from
 ‘Ali (as): Whenever the Holy Prophet (S) entered the masjid he would
 say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ.
 
 *“O Allah! Open for me the doors of Your Mercy.”*
 
 And when he used to leave he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ افْتَحْ لِي أَبْوَابَ رِزْقِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ افْتَحْ لِي أَبْوَابَ رِزْقِكَ.
 
 *“O Allah! Open for me the doors of Your Sustenance.”*[^13]
 
@@ -209,24 +169,16 @@ al-Hasan from Fatimah al-Sughra, from her father al-Husayn, from Fatimah
 al-Kubra bint Rasulillah, peace be upon them all: When the Noble Prophet
 (S) entered the masjid, he would say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ. أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ
-اغْفِرْلِي ذُنُوبِي وَ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ. أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ
+> اغْفِرْلِي ذُنُوبِي وَ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ.
 
 *“In the name of Allah. O Allah! Bless Muhammad and the progeny of
 Muhammad, and forgive my sins and open for me the doors of Your Mercy.”*
 
 And when he came out he would say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ. أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ
-اغْفِرْلِي ذُنُوبِي وَ افْتَحْ لِي أَبْوَابَ فَضْلِكَ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ. أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ
+> اغْفِرْلِي ذُنُوبِي وَ افْتَحْ لِي أَبْوَابَ فَضْلِكَ.
 
 *“In the name of Allah. O Allah! Bless Muhammad and the progeny of
 Muhammad, and forgive my sins and open for me the doors of Your
@@ -239,11 +191,7 @@ His Du’a when he retired to his bed
 his right side and place his right hand under his right cheek, then he
 would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ.
 
 *“O Allah! Keep me safe from Your Wrath on the day when You resurrect
 Your servants.”*[^15]
@@ -252,13 +200,9 @@ Your servants.”*[^15]
 recite when he laid down to sleep ... and when he was about to sleep he
 would say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ أَمُوتُ وَ أَحْـيَا وَ إِلـى اللٌّهِ الْمَصِيرُ.
-أَللٌّهُمَّ آمِنْ رَوْعَتِي وَ اسْـتُرْ عَوْرَتِي وَ أَدِّ عَنِّي
-أَمَانَتِي.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ أَمُوتُ وَ أَحْـيَا وَ إِلـى اللٌّهِ الْمَصِيرُ.
+> أَللٌّهُمَّ آمِنْ رَوْعَتِي وَ اسْـتُرْ عَوْرَتِي وَ أَدِّ عَنِّي
+> أَمَانَتِي.
 
 *“In the name of Allah do I die and live and to Allah is the return. O
 Allah! Dispel my fears and hide my faults and (help me to) return what
@@ -276,14 +220,10 @@ His Du’a when the table-spread is laid out
 ascribed it to an infallible; he said: When the table-spread was laid
 out in front of the Holy Prophet (S) he said:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَكَ أَللٌّهُمَّ مَا أَحْسَنَ مَا تَبْتَلِينَا، سُبْحَانَكَ مَا
-أَكْثَرَ مَا تُعْطِيناَ، سُبْحَانَكَ مَا أَكْثَرَ مَا تُعَافِينَا.
-أَللٌّهُمَّ أَوْسِعْ عَلَيْنَا وَعَلـى فُقَرَاءِ الْمُؤْمِنِينَ
-وَالْمُؤْمِنَاتِ وَالْمُسْلِمِينَ وَالْمُسْلِمَاتِ.
-  </p>
-</blockquote>
+> سُبْحَانَكَ أَللٌّهُمَّ مَا أَحْسَنَ مَا تَبْتَلِينَا، سُبْحَانَكَ مَا
+> أَكْثَرَ مَا تُعْطِيناَ، سُبْحَانَكَ مَا أَكْثَرَ مَا تُعَافِينَا.
+> أَللٌّهُمَّ أَوْسِعْ عَلَيْنَا وَعَلـى فُقَرَاءِ الْمُؤْمِنِينَ
+> وَالْمُؤْمِنَاتِ وَالْمُسْلِمِينَ وَالْمُسْلِمَاتِ.
 
 *“Glory be to You O Allah! How wonderful is that which You have tested
 us with. Glory be to You, how plentiful is that which You have given us.
@@ -294,12 +234,8 @@ and women and (for the poor) Muslim men and women.”*[^18]
 17. In al-Makarim: When the table-spread was laid out in front of the
 Holy Prophet (S) he said:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ. أَللٌّهُمَّ اجْعَلْهَا نِعْمَةً مَشْكُورَةً تَصِلُ
-بِهَا نِعْمَةَ الْجَنَّةِ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ. أَللٌّهُمَّ اجْعَلْهَا نِعْمَةً مَشْكُورَةً تَصِلُ
+> بِهَا نِعْمَةَ الْجَنَّةِ.
 
 *“In the name of Allah. O Allah! Make it an appreciated blessing by
 means of which the bounties of paradise are attained.”*[^19]
@@ -309,11 +245,7 @@ His Du’a when he touched the food
 
 18. In al-Makarim: When he placed his hand on the food he said:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ، بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَعَلَيْكَ خَلْفَهُ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ، بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَعَلَيْكَ خَلْفَهُ.
 
 *“In the name of Allah, (O Allah!) bless for us from what you have given
 us of sustenance and upon You do we rely for its replenishment.”*[^20]
@@ -325,12 +257,8 @@ His Du’a when the table-spread was picked up
 Ja’far (as) who said: When the table-spread was picked up, the Holy
 Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَكْثَرْتَ وَأَطَبْتَ وَبَارَكْتَ فَأَشْبَعْتَ
-وَأَرْوَيْتَ. أَلْحَمْدُ لِلٌّهِ الَّذِي يُطْعِمُ وَلاَ يُطْعَمُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَكْثَرْتَ وَأَطَبْتَ وَبَارَكْتَ فَأَشْبَعْتَ
+> وَأَرْوَيْتَ. أَلْحَمْدُ لِلٌّهِ الَّذِي يُطْعِمُ وَلاَ يُطْعَمُ.
 
 *“O Allah! You have increased Your bounties and made them good and
 blessed, thereby making us satiated and quenched. All praise be to
@@ -343,21 +271,13 @@ His Du’a when eating and drinking milk
 (as) who said: The Holy Prophet (S) would not eat any food nor drink any
 beverage but that he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بَارِكْ لَنَا فِيهِ وَأَبْدِلْنَا بِهِ خَيْراً مِنْهُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بَارِكْ لَنَا فِيهِ وَأَبْدِلْنَا بِهِ خَيْراً مِنْهُ.
 
 *“O Allah! Bless it for us and replenish it with that which is better”.*
 
 ...except when he drank milk, then he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ.
 
 *“O Allah! Bless it for us and increase it for us.”*[^22]
 
@@ -366,12 +286,8 @@ different chain of narrators.[^23]
 
 21. In al-Iqbal: Upon eating a morsel, the Noble Prophet (S) would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لَكَ الْحَمْدُ أَطْعَمْتَ وَأَسْقَيْتَ وَرَوَيْتَ. فَلَكَ
-الْحَمْدُ غَيْرُ مَكْفُورٍ وَلاَ مُوَدَّعٍ وَلاَ مُسْتَغْنـى عَـنْكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لَكَ الْحَمْدُ أَطْعَمْتَ وَأَسْقَيْتَ وَرَوَيْتَ. فَلَكَ
+> الْحَمْدُ غَيْرُ مَكْفُورٍ وَلاَ مُوَدَّعٍ وَلاَ مُسْتَغْنـى عَـنْكَ.
 
 *“O Allah! Praise be to You. You have nourished and quenched and
 satisfied (us), so to You be praise - praise without ingratitude and
@@ -385,12 +301,8 @@ Muhammad from his fathers from ‘Ali (as) who said: When the Holy Prophet
 (S) saw fresh fruit, he would kiss it and place it on his eyes and
 mouth, then he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ كَمَا أَرَيْتَنَا أَوَّلَهَا فِي عَافِيةٍ فَأَرِنَا
-آخِرَهَا فِي عَافِيةٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ كَمَا أَرَيْتَنَا أَوَّلَهَا فِي عَافِيةٍ فَأَرِنَا
+> آخِرَهَا فِي عَافِيةٍ
 
 *“O Allah! Just as You have shown us its beginning in well-being, show
 us its end in well-being.”*[^25]
@@ -406,13 +318,9 @@ His Du’a when he entered the washroom
 23. In al-Faqih: When the Holy Prophet (S) wanted to enter the washroom
 he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الرِّجْسِ النَّجِسِ الْخَبِيثِ
-الْمُخْبَثِ الشَّيْطَانِ، أَللٌّهُمَّ أَمْطِ عَنِّي الأَذى وَأَعِذْنِي
-مِنَ الشَّيْطَانِ الرَّجِيمِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الرِّجْسِ النَّجِسِ الْخَبِيثِ
+> الْمُخْبَثِ الشَّيْطَانِ، أَللٌّهُمَّ أَمْطِ عَنِّي الأَذى وَأَعِذْنِي
+> مِنَ الشَّيْطَانِ الرَّجِيمِ.
 
 *“O Allah! I seek refuge with You from the filth of the impurity of the
 evil of the reviled Shaitan. O Allah! Pull away from me all
@@ -420,48 +328,32 @@ uncleanliness and protect me from the accursed Shaitan.”*
 
 And when he sat to relieve himself he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَذْهِبْ عَنِّي الْقَذى وَالأَذى، وَاجْعَلْنِي مِنَ
-الْمُتَطَهِّرِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَذْهِبْ عَنِّي الْقَذى وَالأَذى، وَاجْعَلْنِي مِنَ
+> الْمُتَطَهِّرِينَ.
 
 *“O Allah! Remove from me the filth and impurity and make me from among
 the ones who purify themselves.”*
 
 When he became affected with a looseness of bowels he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ كَمَا أَطْعَمْتَنِيهِ طَيِّبًا فِي عَافِيَةٍ فَأَخْرِجْهُ
-مِنِّي خَبِيـثًا فِي عَافِيَةٍ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ كَمَا أَطْعَمْتَنِيهِ طَيِّبًا فِي عَافِيَةٍ فَأَخْرِجْهُ
+> مِنِّي خَبِيـثًا فِي عَافِيَةٍ.
 
 *“O Allah! Just as You have fed me with its goodness in well-being, then
 take its filth out of me in well-being.”*
 
 And when he (S) entered the toilet he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الْحَافِظِ الْمُؤَدِّي.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الْحَافِظِ الْمُؤَدِّي.
 
 *“Praise be to Allah, The Protector and The Fulfiller (of needs)”.*
 
 When he came out (from the toilet) he passed his hand over his stomach
 and said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَخْرَجَ عَنِّي أَذَاهُ، وَأَبْقى فِيَّ
-قُوَّتَهُ، فَيَالَهَا مِنْ نِعْمَةٍ لاَ يُقَدِّرُ الْقَادِرُونَ
-قَدْرَهَا.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَخْرَجَ عَنِّي أَذَاهُ، وَأَبْقى فِيَّ
+> قُوَّتَهُ، فَيَالَهَا مِنْ نِعْمَةٍ لاَ يُقَدِّرُ الْقَادِرُونَ
+> قَدْرَهَا.
 
 *“Praise be to Allah, the One who removed from me its filth and left in
 me its strength. What a (great) blessing it is – the real value of which
@@ -474,12 +366,8 @@ His Du’a when he passed by the graves
 Muslim from Abi Ja’far (as) who said: I heard him say: When the Noble
 Prophet (S) passed by the graves of a group of believers he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ مِنْ دِيَارِ قَوْمٍ مُؤْمِنِينَ وَإِنَّا إِنْ
-شَاءَ اللٌّهُ بِكُمْ لاَحِقُونَ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ مِنْ دِيَارِ قَوْمٍ مُؤْمِنِينَ وَإِنَّا إِنْ
+> شَاءَ اللٌّهُ بِكُمْ لاَحِقُونَ.
 
 *“Peace be unto you from the dwellings of the community of believers and
 we shall – if Allah wills – be joining you.”*[^28]
@@ -493,19 +381,11 @@ al-Jammal who said: I heard Aba ‘Abdillah (as) saying: The Holy Prophet
 Thursday evening and go to the graveyard of Baqi in Madinah and say
 three times:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيكُمْ يَا أَهْلَ الدِّيَارِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيكُمْ يَا أَهْلَ الدِّيَارِ.
 
 *“Peace be unto you O people of the dwellings”* – and three times:
 
-<blockquote dir="rtl">
-  <p>
-رَحِمَكُمُ اللٌّهُ.
-  </p>
-</blockquote>
+> رَحِمَكُمُ اللٌّهُ.
 
 *“May Allah have mercy on you”.*[^29]
 
@@ -516,21 +396,13 @@ His Du’a in the event of something pleasing or distressing coming upon him
 (as) who said: When something pleasing befell the Holy Prophet (S) he
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ عَلـى هٌذِهِ النِّعْمَةِ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ عَلـى هٌذِهِ النِّعْمَةِ.
 
 *“Praise be to Allah for this blessing”.*
 
 And when something distressing befell him he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ عَلـى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ عَلـى كُلِّ حَالٍ.
 
 *“Praise be to Allah in every situation.”*[^30]
 
@@ -540,11 +412,7 @@ His Du’a when he saw what he liked
 27. In al-Makarim: From Amir al-Mu’minin (as) who said: When the Noble
 Prophet (S) saw what he liked he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ.
 
 *Praise be to Allah, the One who completes (and perfects) all that is
 good with His bounty.*[^31]
@@ -559,34 +427,22 @@ His Dhikr when he heard the Adhan
 (as) that when the Holy Prophet (S) heard the *adhan*, he would repeat
 what the *mua’dhin* said, and when he said:
 
-<blockquote dir="rtl">
-  <p>
-حَيَّ عَلـى الصَّلاَةِ، حَيَّ عَلـى الْفَلاَحِ، حَيَّ عَلـى خَيْرِ
-الْعَمَلِ.
-  </p>
-</blockquote>
+> حَيَّ عَلـى الصَّلاَةِ، حَيَّ عَلـى الْفَلاَحِ، حَيَّ عَلـى خَيْرِ
+> الْعَمَلِ.
 
 *“Hurry to the prayer. Hurry to success. Hurry to the best of actions”,*
 he (S) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللٌّهِ.
-  </p>
-</blockquote>
+> لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللٌّهِ.
 
 *“There is no power and no might but by (the will of) Allah."*
 
 And when the call to prayer was completed, he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ رَبَّ هٌذِهِ الدَّعْوَةِ التَّامَةِ وَ الصَّلاَةِ
-القَائِمَةِ أَعْطِ مُحَمَّداً سُؤْلَهُ يَوْمَ الْقِـيَامَةِ وَ
-بَلِّغْهُ الدَّرَجَةَ الْوَسِيلَةِ مِنَ الْجَنَّةِ وَ تَقَبَّلْ
-شَفَاعَتَهُ فِي أُمَّتِهِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ رَبَّ هٌذِهِ الدَّعْوَةِ التَّامَةِ وَ الصَّلاَةِ
+> القَائِمَةِ أَعْطِ مُحَمَّداً سُؤْلَهُ يَوْمَ الْقِـيَامَةِ وَ
+> بَلِّغْهُ الدَّرَجَةَ الْوَسِيلَةِ مِنَ الْجَنَّةِ وَ تَقَبَّلْ
+> شَفَاعَتَهُ فِي أُمَّتِهِ.
 
 *“O Allah! Lord of this perfect call and established prayer, grant
 Muhammad his request on the day of Judgment, and raise his status to the
@@ -600,12 +456,8 @@ His Dhikr at the end of the Maghrib Prayer
 fathers from ‘Ali (as) that the Holy Prophet (S) used to recite (the
 following) in the third rak’ah of the Maghrib prayer:
 
-<blockquote dir="rtl">
-  <p>
- رَبَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْـتَنَا وَهَبْ لَنَا
-مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ 
-  </p>
-</blockquote>
+>  رَبَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْـتَنَا وَهَبْ لَنَا
+> مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ 
 
 ***“Our Lord! Make not our hearts deviate after You have guided us
 aright and bestow Your mercy on us, indeed You are the
@@ -617,11 +469,7 @@ His Dhikr and Du’a in the Qunut of the Witr Prayer
 30. In al-Faqih: The Noble Prophet (S) used to seek forgiveness seventy
 times in the Witr Prayer and then say seven times:
 
-<blockquote dir="rtl">
-  <p>
-هٌذَا مَقَامُ الْعَائِذِ بِكَ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> هٌذَا مَقَامُ الْعَائِذِ بِكَ مِنَ النَّارِ.
 
 ***“This is the position of the seeker of protection with You from the
 hellfire.”***[^34]
@@ -629,16 +477,12 @@ hellfire.”***[^34]
 31. Also: The Holy Prophet (S) used to say in the *qunut* of the Witr
 Prayer:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ وَ عَافِنِي فِيمَنْ عَافَيْتَ وَ
-تَوَلَّنِي فِيمَنْ تَوَلَّيْتَ وَ بَارِكْ لِي فِيمَا أَعْطَيْتَ وَ
-قِنِي شَرَّ مَا قَضَيْتَ إِنَّكَ تَقْضِي وَ لاَ يُقْضى عَلَيْكَ
-سُبْحَانَكَ رَبَّ الْبَيْتِ أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ وَ
-أُؤْمِنُ بِكَ وَ أَتَوَكَّلُ عَلَيْكَ وَ لاَ حَوْلَ وَ لاَ قُوَّةَ
-إِلاَّ بِكَ يَا رَحِيمُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ وَ عَافِنِي فِيمَنْ عَافَيْتَ وَ
+> تَوَلَّنِي فِيمَنْ تَوَلَّيْتَ وَ بَارِكْ لِي فِيمَا أَعْطَيْتَ وَ
+> قِنِي شَرَّ مَا قَضَيْتَ إِنَّكَ تَقْضِي وَ لاَ يُقْضى عَلَيْكَ
+> سُبْحَانَكَ رَبَّ الْبَيْتِ أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ وَ
+> أُؤْمِنُ بِكَ وَ أَتَوَكَّلُ عَلَيْكَ وَ لاَ حَوْلَ وَ لاَ قُوَّةَ
+> إِلاَّ بِكَ يَا رَحِيمُ.
 
 *“O Allah! Guide me as those whom You have guided, and grant me
 well-being as those whom You have granted well-being, and take care of
@@ -656,12 +500,8 @@ His Du’a when opening the Fast
 fore-fathers (as): Whenever the Holy Prophet (S) opened his fast, he
 would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لَكَ صُمْنَا وَ عَلـى رِزْقِكَ أَفْطَرْنَا فَتَقَبَّلْهُ
-مِنَّا. ذَهَبَ الْظَمَأُ وَ ابْـتَلَّتِ الْعُرُوقُ وَ بَقِيَ الأَجْرُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لَكَ صُمْنَا وَ عَلـى رِزْقِكَ أَفْطَرْنَا فَتَقَبَّلْهُ
+> مِنَّا. ذَهَبَ الْظَمَأُ وَ ابْـتَلَّتِ الْعُرُوقُ وَ بَقِيَ الأَجْرُ.
 
 *“O Allah! For You have we fasted, and with Your sustenance have we
 opened our fast, so accept it from us. The thirst has gone and the
@@ -679,13 +519,9 @@ who said: When the Noble Prophet (S) had finished reciting the
 *shahadatayn* and the *salam,* he would sit down cross-legged and place
 his right hand on his head, then say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الَّذِي لاَ إِلٌهَ إِلاَّ هُوَ عَالِمُ الْغَيْبِ وَ
-الشَّهَادَةِ الرَّحْمٌنُ الرَّحِيمُ صَلِّ عَلـى مُحَمَّدٍ وَ آلِ
-مُحَمَّدٍ وَ أَذْهِبْ عَنِّي الْهَمَّ وَ الْحُزْنَ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الَّذِي لاَ إِلٌهَ إِلاَّ هُوَ عَالِمُ الْغَيْبِ وَ
+> الشَّهَادَةِ الرَّحْمٌنُ الرَّحِيمُ صَلِّ عَلـى مُحَمَّدٍ وَ آلِ
+> مُحَمَّدٍ وَ أَذْهِبْ عَنِّي الْهَمَّ وَ الْحُزْنَ.
 
 *“In the name of Allah, there is no god but He, the Knower of the unseen
 and the seen, the Beneficent, the Merciful. O Allah! Send You blessings
@@ -696,31 +532,27 @@ distress and sorrow.”*[^38]
 ibn al-Rid’a (as) wrote to me: And when the Holy Prophet (S) had
 completed his prayer, he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اغْفِرْلِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ
-وَمَا أَعْـلَـنْتُ، وَإِسْرَافِي عَلـى أَمْرِي (نَفْسِي) وَمَا أَنْتَ
-أَعْلَمُ بِهِ مِنِّي. أَللٌّهُمَّ أَنْتَ الْمُقَدِّمُ وَالْمُؤَخِّرُ
-لاَ إِلٌهَ إِلاَّ أَنْتَ بِعِلْمِكَ الْغَيْبَ وَبِقُدْرَتِكَ عَلـى
-الْخَلْقِ أَجْمَعِينَ مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي فَأَحْيِنِي،
-وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي. أَللٌّهُمَّ
-إِنِّّي أَسْأَلُكَ خَشْـيَـتَكَ فِي السِّرِّ وَالْعَلاَنِيَةِ،
-وَكَلِمَةَ الْحَقِّ فِي الْغَضَبِ وَالرِّضَا، وَالْقَصْدَ فِي
-الْفَقْرِ وَالْغِنـى. وَأَسْأَلُكَ نَعِيماً لاَيَنْفَدُ، وَقُرَّةَ
-عَيْنٍ لاَ يَنْقَطِعُ. وَأَسْأَلُكَ الرِّضَا بِالْقَضَاءِ، وَبَرَكَةَ
-الْمَوْتِ بَعْدَ الْعَيْشِ، وَبَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ،
-وَلَذَّةَ النَّظَرِ إِلـى وَجْهِكَ، وَشَوقاً إِلـى رُؤْيَتِكَ
-وَلِقَائِكَ، مِنْ غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلاَ فِتْنَةٍ مُضِلَّةٍ.
-أَللٌّهُمَّ زَيِّنَّا بِزِينَةِ الإِيـمَانِ، وَاجْعَلْنَا هُدَاةً
-مُهْدِيِّـينَ. أَللٌّهُمَّ اهْدِنَا فِيمَنْ هَدَيْتَ. أَللٌّهُمَّ
-إِنِّي أَسْأَلُكَ عَزِيـمَـةَ الرَّشَادِ، وَالثَّبَاتَ فِي الأَمْرِ
-وَالرُّشْدَ. وَأَسْأَلُكَ شُكْرَ نِعَمِكَ، وَحُسْنَ عَافِيَتِكَ،
-وَأَدَاءَ حَقِّكَ. وَأَسْأَلُكَ يَا رَبِّ قَلْباً سَلِيماً، وَلِسَاناً
-صَادِقاً، وَأَسْتَغْفِرُكَ لِمَا تَعْلَمُ وَأَسْأَلُكَ خَيْرَ مَا
-تَعْلَمُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ، فَإِنَّكَ تَعْلَمُ
-وَلاَ نَعْلَمُ، وَأَنْتَ عَلاَّمُ الْغُيُوبِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اغْفِرْلِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ
+> وَمَا أَعْـلَـنْتُ، وَإِسْرَافِي عَلـى أَمْرِي (نَفْسِي) وَمَا أَنْتَ
+> أَعْلَمُ بِهِ مِنِّي. أَللٌّهُمَّ أَنْتَ الْمُقَدِّمُ وَالْمُؤَخِّرُ
+> لاَ إِلٌهَ إِلاَّ أَنْتَ بِعِلْمِكَ الْغَيْبَ وَبِقُدْرَتِكَ عَلـى
+> الْخَلْقِ أَجْمَعِينَ مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي فَأَحْيِنِي،
+> وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي. أَللٌّهُمَّ
+> إِنِّّي أَسْأَلُكَ خَشْـيَـتَكَ فِي السِّرِّ وَالْعَلاَنِيَةِ،
+> وَكَلِمَةَ الْحَقِّ فِي الْغَضَبِ وَالرِّضَا، وَالْقَصْدَ فِي
+> الْفَقْرِ وَالْغِنـى. وَأَسْأَلُكَ نَعِيماً لاَيَنْفَدُ، وَقُرَّةَ
+> عَيْنٍ لاَ يَنْقَطِعُ. وَأَسْأَلُكَ الرِّضَا بِالْقَضَاءِ، وَبَرَكَةَ
+> الْمَوْتِ بَعْدَ الْعَيْشِ، وَبَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ،
+> وَلَذَّةَ النَّظَرِ إِلـى وَجْهِكَ، وَشَوقاً إِلـى رُؤْيَتِكَ
+> وَلِقَائِكَ، مِنْ غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلاَ فِتْنَةٍ مُضِلَّةٍ.
+> أَللٌّهُمَّ زَيِّنَّا بِزِينَةِ الإِيـمَانِ، وَاجْعَلْنَا هُدَاةً
+> مُهْدِيِّـينَ. أَللٌّهُمَّ اهْدِنَا فِيمَنْ هَدَيْتَ. أَللٌّهُمَّ
+> إِنِّي أَسْأَلُكَ عَزِيـمَـةَ الرَّشَادِ، وَالثَّبَاتَ فِي الأَمْرِ
+> وَالرُّشْدَ. وَأَسْأَلُكَ شُكْرَ نِعَمِكَ، وَحُسْنَ عَافِيَتِكَ،
+> وَأَدَاءَ حَقِّكَ. وَأَسْأَلُكَ يَا رَبِّ قَلْباً سَلِيماً، وَلِسَاناً
+> صَادِقاً، وَأَسْتَغْفِرُكَ لِمَا تَعْلَمُ وَأَسْأَلُكَ خَيْرَ مَا
+> تَعْلَمُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ، فَإِنَّكَ تَعْلَمُ
+> وَلاَ نَعْلَمُ، وَأَنْتَ عَلاَّمُ الْغُيُوبِ.
 
 *“O Allah! Forgive me for my actions of the past and future, those done
 in secret and in the open; and my extravagance in my affairs and that
@@ -755,16 +587,12 @@ fathers from ‘Ali (as) that when the Holy Prophet (S) had prayed two
 rak’ahs before the morning prayer, he laid down on his right side and
 placed his right hand under his right cheek, then said:
 
-<blockquote dir="rtl">
-  <p>
-إِسْتَمْسَكْتُ بِعُرْوَةِ اللٌّهِ الْوُثْقى الَّتِي لاَ انْفِصَامَ
-لَهَا، وَاسْتَعْصَمْتُ بِحَبْلِ اللٌّهِ الْمَتِينِ. أَعُوذُ بِاللٌّهِ
-مِنْ فَوْرَةِ الْعَرَبِ وَالْعَجَمِ، وَأَعُوذُ بِاللٌّهِ مِنْ شَرِّ
-شَيَاطِينِ الإِنْسِ وَالْجِنِّ. تَوَكَّلْتُ عَلـى اللٌّهِ، طَلَبْتُ
-حَاجَتِي مِنَ اللٌّهِ، حَسْبِيَ اللٌّهُ ونِعْمَ الْوَكِيلُ، لاَ حَوْلَ
-وَلاَ قُوَّةَ إِلاَّ بِاللٌّهِ الْعَلِيِّ الْعَظِيمِ.
-  </p>
-</blockquote>
+> إِسْتَمْسَكْتُ بِعُرْوَةِ اللٌّهِ الْوُثْقى الَّتِي لاَ انْفِصَامَ
+> لَهَا، وَاسْتَعْصَمْتُ بِحَبْلِ اللٌّهِ الْمَتِينِ. أَعُوذُ بِاللٌّهِ
+> مِنْ فَوْرَةِ الْعَرَبِ وَالْعَجَمِ، وَأَعُوذُ بِاللٌّهِ مِنْ شَرِّ
+> شَيَاطِينِ الإِنْسِ وَالْجِنِّ. تَوَكَّلْتُ عَلـى اللٌّهِ، طَلَبْتُ
+> حَاجَتِي مِنَ اللٌّهِ، حَسْبِيَ اللٌّهُ ونِعْمَ الْوَكِيلُ، لاَ حَوْلَ
+> وَلاَ قُوَّةَ إِلاَّ بِاللٌّهِ الْعَلِيِّ الْعَظِيمِ.
 
 *“I have laid hold of the firmest handle of Allah which shall not break
 off and I have clung to the strong rope of Allah. I seek refuge with
@@ -782,17 +610,13 @@ from his father who said: When the Noble Prophet (S) had offered the
 Fajr Prayer, he raised his voice until his companions could hear him,
 and said :
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَصْلِحْ لِي دِيْـنِيَ الَّذِي جَعَلْتَهُ لِي عِصْمَةً.
-أَللٌّهُمَّ أَصْلِحْ لِي دُنْـيَايَ الَّتِي جَعَلْتَ فِيهَا مَعَاشِي.
-أَللٌّهُمَّ أَصْلِحْ لِي آخِرَتِيَ الَّتِي جَعَلْتَ إِلَيْهَا
-مَرْجَعِي. أَللٌّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ،
-وَأَعُوذُ بِعَفْوِكَ مِنْ نِقْمَتِكَ. أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ
-لاَ مَانِعَ لِمَا أَعْطَـيْتَ وَلاَ مُعْطِيَ لِمَا مَنَعْتَ وَلاَ
-يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَصْلِحْ لِي دِيْـنِيَ الَّذِي جَعَلْتَهُ لِي عِصْمَةً.
+> أَللٌّهُمَّ أَصْلِحْ لِي دُنْـيَايَ الَّتِي جَعَلْتَ فِيهَا مَعَاشِي.
+> أَللٌّهُمَّ أَصْلِحْ لِي آخِرَتِيَ الَّتِي جَعَلْتَ إِلَيْهَا
+> مَرْجَعِي. أَللٌّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ،
+> وَأَعُوذُ بِعَفْوِكَ مِنْ نِقْمَتِكَ. أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ
+> لاَ مَانِعَ لِمَا أَعْطَـيْتَ وَلاَ مُعْطِيَ لِمَا مَنَعْتَ وَلاَ
+> يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ.
 
 *“O Allah! Set right for me the religion that You have made a safeguard
 for me [three times]. O Allah! Set right for me this world that You have
@@ -807,12 +631,8 @@ fruition without You.”*[^41]
 37. From al-Qutb in his Da’awat: When the Holy Prophet (S) had offered
 the morning prayer he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهَمَّ مَتِّعْنِـي بِسَمْعِي وَ بَصَرِي وَاجْعَلْهُمَا
-الْوَارِثَيْنِ مِنِّي وَ أَرِنِـي ثَارِي مِنْ عَدُوِّي.
-  </p>
-</blockquote>
+> أَللٌّهَمَّ مَتِّعْنِـي بِسَمْعِي وَ بَصَرِي وَاجْعَلْهُمَا
+> الْوَارِثَيْنِ مِنِّي وَ أَرِنِـي ثَارِي مِنْ عَدُوِّي.
 
 *“O Allah! Grant me the use of my hearing and sight and let them stay
 with me till my death and show me the destruction of my enemies.”*[^42]
@@ -835,22 +655,18 @@ His Du’a after the Dhuhr Prayer
 fathers from Abi ‘Abdillah from Amir al-Mu’minin (as) from the Holy
 Prophet (S): From among his supplications after the Dhuhr Prayer was:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٌهَ إِلاَّ اللٌّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلٌهَ إِلاَّ
-اللٌّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، وَالْحَمْدُ لِلٌّهِ رَبِّ
-الْعَالَمِينَ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مُوْجِـبَاتِ رَحْمَتِكَ
-وَعَزَائِمَ مَغْفِرَتِكَ وَالْغَنِيمَةَ مِنْ كُلِّ خَيْرٍ
-وَالسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ. أَللٌّهُمَّ لاَ تَدَعْ لِي ذَنْباً
-إِلاَّ غَفَرْتَهُ، وَلاَ هَمّاً إِلاَّ فَرَّجْتَهُ، وَلاَ كَرْباً
-إِلاَّ كَشَفْتَهُ، وَلاَ سُقْماً إِلاَّ شَفَيْتَهُ، وَلاَ عَيْباً
-إِلاَّ سَتَرْتَهُ، وَلاَ رِزْقاً إِلاَّ بَسَطْتَهُ، وَلاَ خَوْفاً
-إِلاَّ آمَنْتَهُ، (وَلا دَيْـناً إِلاَّ قَضَيْـتَهُ) وَلاَ سُوءً
-إِلاَّ صَرَفْتَهُ، وَلاَ حَاجَةً هِيَ لَكَ رِضاً وَلِي فِيهَا صَلاَحٌ
-إِلاَّ قَضَيْتَهَا، يَا أَرْحَمَ الرَّاحِمِينَ، آمِينَ رَبَّ
-الْعَالَمِينَ.
-  </p>
-</blockquote>
+> لاَ إِلٌهَ إِلاَّ اللٌّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلٌهَ إِلاَّ
+> اللٌّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، وَالْحَمْدُ لِلٌّهِ رَبِّ
+> الْعَالَمِينَ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مُوْجِـبَاتِ رَحْمَتِكَ
+> وَعَزَائِمَ مَغْفِرَتِكَ وَالْغَنِيمَةَ مِنْ كُلِّ خَيْرٍ
+> وَالسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ. أَللٌّهُمَّ لاَ تَدَعْ لِي ذَنْباً
+> إِلاَّ غَفَرْتَهُ، وَلاَ هَمّاً إِلاَّ فَرَّجْتَهُ، وَلاَ كَرْباً
+> إِلاَّ كَشَفْتَهُ، وَلاَ سُقْماً إِلاَّ شَفَيْتَهُ، وَلاَ عَيْباً
+> إِلاَّ سَتَرْتَهُ، وَلاَ رِزْقاً إِلاَّ بَسَطْتَهُ، وَلاَ خَوْفاً
+> إِلاَّ آمَنْتَهُ، (وَلا دَيْـناً إِلاَّ قَضَيْـتَهُ) وَلاَ سُوءً
+> إِلاَّ صَرَفْتَهُ، وَلاَ حَاجَةً هِيَ لَكَ رِضاً وَلِي فِيهَا صَلاَحٌ
+> إِلاَّ قَضَيْتَهَا، يَا أَرْحَمَ الرَّاحِمِينَ، آمِينَ رَبَّ
+> الْعَالَمِينَ.
 
 *“There is no god But Allah, the Great, the Clement. There is no god but
 Allah, the Lord of the throne of Grace. All praise is for Allah, the
@@ -872,12 +688,8 @@ His Du’a in his Sujud (Prostration)
 (as) that when the Noble Prophet (S) put his face (on the earth) for
 *sujud*, he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ مَغْفِرَتُكَ أَوْسَعُ مِنْ ذُنُوبِي وَرَحْمَـتُكَ أَرْجى
-عِنْدِي مِنْ عَمَلِي، فَاغْفِرْ لِي ذُنُوبِي يَا حَيّاً لاَ يَمُوتُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ مَغْفِرَتُكَ أَوْسَعُ مِنْ ذُنُوبِي وَرَحْمَـتُكَ أَرْجى
+> عِنْدِي مِنْ عَمَلِي، فَاغْفِرْ لِي ذُنُوبِي يَا حَيّاً لاَ يَمُوتُ.
 
 *“O Allah! Your forgiveness is greater than my sins and I am more
 hopeful of Your mercy than of my actions, so forgive my sins O Living
@@ -891,13 +703,9 @@ fathers from ‘Ali (as), that when the Holy Prophet (S) wanted to leave
 (after completing) the prayer, he passed his right hand over his
 forehead then said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لَكَ الْحَمْدُ لاَ إِلٌهَ إِلاَّ أَنْتَ عَالِمُ الْغَيْبِ
-وَالشَّهَادَةِ. أَللٌّهُمَّ اذْهِبْ عَنَّا الْهَمَّ وَالْحُزْنَ
-وَالْفِتَنَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لَكَ الْحَمْدُ لاَ إِلٌهَ إِلاَّ أَنْتَ عَالِمُ الْغَيْبِ
+> وَالشَّهَادَةِ. أَللٌّهُمَّ اذْهِبْ عَنَّا الْهَمَّ وَالْحُزْنَ
+> وَالْفِتَنَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ.
 
 *“O Allah! For You is all praise, there is no god but You, Knower of the
 unseen and the seen. O Allah! Take away from us all worry, sorrow and
@@ -915,13 +723,9 @@ His Du’a after the Prayer
 42. In Kanz of al-Karajiki: Narrated from Anas who said: After the
 prayer, the Holy Prophet (S) would supplicate, saying:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَقَلْبٍ لاَ
-يَخْشَعُ وَنَفْسٍ لاَ تَشْبَعُ وَدُعَاءٍ لاَ يُسْمَعُ. أَللٌّهُمَّ
-إِنَّي أَعُوذُ بِكَ مِنْ هٌؤُلاَءِ الأَرْبَعِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَقَلْبٍ لاَ
+> يَخْشَعُ وَنَفْسٍ لاَ تَشْبَعُ وَدُعَاءٍ لاَ يُسْمَعُ. أَللٌّهُمَّ
+> إِنَّي أَعُوذُ بِكَ مِنْ هٌؤُلاَءِ الأَرْبَعِ.
 
 *“O Allah! I seek refuge with You from the knowledge that does not
 benefit, and the heart that does not fear (You), and the soul that does
@@ -938,28 +742,24 @@ who said: On the first day of Muharram, the Holy Prophet (S) would offer
 two rak’ahs after which he would raise his hands and supplicate thrice
 with the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَنْتَ الإِلٌهُ الْقَدِيـمُ، وَهٌذِهِ سَنَةٌ جَدِيدَةٌ،
-فَأَسْأَلُكَ فِيهَا الْعِصْمَةَ مِنَ الشَّيْطَانِ، وَالْقُوَّةَ عَلـى
-هٌذِهِ النَّفْسِ الأَمَّارَةِ بِالسُّوءِ، وَالإِشْتِغَالَ بِمَا
-يُقَرِّبُنِي إِلَيْكَ، يَا كَرِيـمُ، يَا ذَاالْجَلاَلِ وَالإِكْرَامِ،
-يَا عِمَادَ مَنْ لاَ عِمَادَ لَهُ، يَا ذَخِيرَةَ مَنْ لاَ ذَخِيرَةَ
-لَهُ، يَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ، يَا غِيَاثَ مَنْ لاَ غِيَاثَ
-لَهُ، يَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ، يَا كَنْزَ مَنْ لاَ كَنْزَ
-لَهُ، يَا حَسَنَ الْبَلاَءِ يَا عَظِيمَ الرَّجَاءِ، يَا عِزَّ
-الضُّعَـفَاءِ، يَا مُنْقِذَ الْغَرْقى، يَا مُنْجِيَ الْهَلْكى، يَا
-مُنْعِمُ، يَا مُجْمِلُ، يَا مُفْضِلُ، يَا مُحْسِنُ، أَنْتَ الَّذِي
-سَجَدَ لَكَ سَوَادُ اللَّيلِ، وَنُورُ النَّهَارِ، وَضَوْءُ الْقَمَرِ،
-وَشُعَاعُ الشَّمْسِ، وَدَوِيُّ الْمَاءِ، وحَفِيفُ الشَّجَرِ، يَا
-اللٌّهُ لاَ شَرِيكَ لَكَ. أَللٌّهُمَّ اجْعَلْنَا خَيْراً مِمَّا
-يَظُنُّونَ، وَاغْفِرْ لَنَا مَا لاَ يَعْلَمُونَ، حَسْبِيَ اللٌّهُ لاَ
-إِلٌهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ
-الْعَظِيمِ، آمَنَّا بِهِ، كُلُّ مِنْ عِنْدِ رَبِّنَا، وَمَا يَذَّكَّرُ
-إِلاَّ أُولُو الأَلْبَابِ، رَبَّنَا لاَ تُزِغْ قُلُوبَنَا وَهَبْ لَنَا
-مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَنْتَ الإِلٌهُ الْقَدِيـمُ، وَهٌذِهِ سَنَةٌ جَدِيدَةٌ،
+> فَأَسْأَلُكَ فِيهَا الْعِصْمَةَ مِنَ الشَّيْطَانِ، وَالْقُوَّةَ عَلـى
+> هٌذِهِ النَّفْسِ الأَمَّارَةِ بِالسُّوءِ، وَالإِشْتِغَالَ بِمَا
+> يُقَرِّبُنِي إِلَيْكَ، يَا كَرِيـمُ، يَا ذَاالْجَلاَلِ وَالإِكْرَامِ،
+> يَا عِمَادَ مَنْ لاَ عِمَادَ لَهُ، يَا ذَخِيرَةَ مَنْ لاَ ذَخِيرَةَ
+> لَهُ، يَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ، يَا غِيَاثَ مَنْ لاَ غِيَاثَ
+> لَهُ، يَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ، يَا كَنْزَ مَنْ لاَ كَنْزَ
+> لَهُ، يَا حَسَنَ الْبَلاَءِ يَا عَظِيمَ الرَّجَاءِ، يَا عِزَّ
+> الضُّعَـفَاءِ، يَا مُنْقِذَ الْغَرْقى، يَا مُنْجِيَ الْهَلْكى، يَا
+> مُنْعِمُ، يَا مُجْمِلُ، يَا مُفْضِلُ، يَا مُحْسِنُ، أَنْتَ الَّذِي
+> سَجَدَ لَكَ سَوَادُ اللَّيلِ، وَنُورُ النَّهَارِ، وَضَوْءُ الْقَمَرِ،
+> وَشُعَاعُ الشَّمْسِ، وَدَوِيُّ الْمَاءِ، وحَفِيفُ الشَّجَرِ، يَا
+> اللٌّهُ لاَ شَرِيكَ لَكَ. أَللٌّهُمَّ اجْعَلْنَا خَيْراً مِمَّا
+> يَظُنُّونَ، وَاغْفِرْ لَنَا مَا لاَ يَعْلَمُونَ، حَسْبِيَ اللٌّهُ لاَ
+> إِلٌهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ
+> الْعَظِيمِ، آمَنَّا بِهِ، كُلُّ مِنْ عِنْدِ رَبِّنَا، وَمَا يَذَّكَّرُ
+> إِلاَّ أُولُو الأَلْبَابِ، رَبَّنَا لاَ تُزِغْ قُلُوبَنَا وَهَبْ لَنَا
+> مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ.
 
 *“O Allah! You are the Eternal Lord, and this is a new year, so I ask
 that You grant me protection from Shaitan, and control over this
@@ -990,20 +790,16 @@ His Du’a on the night of Fifteenth of Sha’ban
 on the eve of the fifteenth of Sha’ban are ... and the Holy Prophet (S)
 used to supplicate on this night and say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا
-وَبَيْنَ مَعْصِيَتِكَ، وَمِنْ طَاعَتِكَ مَا تُبِلِّغُنَا بِهِ
-رِضْوَانَكَ، وَمِنَ الْيَقِينِ مَا يَهُونُ عَلَيْنَا بِهِ مُصِيبَاتِ
-الدُّنْـيَا. أَللٌّهُمَّ مَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا
-وَقُوَّتِنَا مَا أَحْـيَيْـتَنَا، وَاجْعَلْهُ الْوَارِثَ مِنَّا،
-وَاجْعَلْ ثَارَنَا عَلـى مَنْ ظَلَمَنَا، وَانْصُرْنَا عَلـى مَنْ
-عَادَانَا، وَلاَ تَجْعَلْ مُصِيبَتَنَا فِي دِيْنِنَا، وَلاَ تَجْعَلِ
-الدُّنْيَا أَكْبَـرَ هَمِّـنَا، وَلاَ مَبْلَغَ عِلْمِنَا، وَلاَ
-تُسَلِّطْ عَلَيْنَا مَنْ لاَ يَرْحَمُنَا، بِرَحْمَتِكَ يَا أَرْحَمَ
-الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا
+> وَبَيْنَ مَعْصِيَتِكَ، وَمِنْ طَاعَتِكَ مَا تُبِلِّغُنَا بِهِ
+> رِضْوَانَكَ، وَمِنَ الْيَقِينِ مَا يَهُونُ عَلَيْنَا بِهِ مُصِيبَاتِ
+> الدُّنْـيَا. أَللٌّهُمَّ مَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا
+> وَقُوَّتِنَا مَا أَحْـيَيْـتَنَا، وَاجْعَلْهُ الْوَارِثَ مِنَّا،
+> وَاجْعَلْ ثَارَنَا عَلـى مَنْ ظَلَمَنَا، وَانْصُرْنَا عَلـى مَنْ
+> عَادَانَا، وَلاَ تَجْعَلْ مُصِيبَتَنَا فِي دِيْنِنَا، وَلاَ تَجْعَلِ
+> الدُّنْيَا أَكْبَـرَ هَمِّـنَا، وَلاَ مَبْلَغَ عِلْمِنَا، وَلاَ
+> تُسَلِّطْ عَلَيْنَا مَنْ لاَ يَرْحَمُنَا، بِرَحْمَتِكَ يَا أَرْحَمَ
+> الرَّاحِمِينَ.
 
 *“O Allah! Grant us as much fear of You as would prevent us from Your
 disobedience, and as much obedience as would make us attain Your
@@ -1026,13 +822,9 @@ of his wives but when I came upon him, he was like a garment that had
 fallen on the ground, prostrating, with the tip of his toes (placed on
 the ground), and saying:
 
-<blockquote dir="rtl">
-  <p>
-أَصْـبَحْتُ إِلَيْكَ فَقِيراً خَائِفاً مُسْتَجِيراً فَلاَ تُبَدِّلْ
-إِسْمِي وَلاَ تُغَيِّرْ جِسْمِي وَلاَ تَجْتَهِدْ بَلاَئِي وَاغْفِرْ
-لِي.
-  </p>
-</blockquote>
+> أَصْـبَحْتُ إِلَيْكَ فَقِيراً خَائِفاً مُسْتَجِيراً فَلاَ تُبَدِّلْ
+> إِسْمِي وَلاَ تُغَيِّرْ جِسْمِي وَلاَ تَجْتَهِدْ بَلاَئِي وَاغْفِرْ
+> لِي.
 
 *“I come to You as a beggar, fearful, seeking refuge, so do not change
 my status, and do not alter my body, and do not make severe my
@@ -1040,14 +832,10 @@ tribulations, and forgive me.”*
 
 Then he raised his head and then prostrated again and I heard him say:
 
-<blockquote dir="rtl">
-  <p>
-سَجَدَ لَكَ سَوَادِي وَخِـيَالِي وَآمِنَ بِذٌلِكَ فُؤَادِي. هٌذِهِ
-يَدَايَ بِمَا جَنَيْتُ عَلـى نَفْسِي، يَا عَظِيمُ تُرجى لِكُلِّ
-عَظِيمٍ إِغْفِرْ لِي ذَنْبِيَ الْعَظِيمَ فَإِنَّهُ لاَ يَغْفِرُ
-الذَّنْبَ الْعَظِيمَ إِلاَّ الْعَظِيمُ.
-  </p>
-</blockquote>
+> سَجَدَ لَكَ سَوَادِي وَخِـيَالِي وَآمِنَ بِذٌلِكَ فُؤَادِي. هٌذِهِ
+> يَدَايَ بِمَا جَنَيْتُ عَلـى نَفْسِي، يَا عَظِيمُ تُرجى لِكُلِّ
+> عَظِيمٍ إِغْفِرْ لِي ذَنْبِيَ الْعَظِيمَ فَإِنَّهُ لاَ يَغْفِرُ
+> الذَّنْبَ الْعَظِيمَ إِلاَّ الْعَظِيمُ.
 
 *“My body and mind have prostrated to You, and by this has my heart
 gained faith. These are my hands with which I have oppressed my soul, O
@@ -1057,14 +845,10 @@ none forgives the greatest sin but the Greatest.”*
 Then he raised his head and prostrated for the third time and I heard
 him say:
 
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِعَفْوِكَ مِنْ عِقَابِكَ، وَأَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ،
-وَأَعُوذُ بِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ،
-أَنْتَ كَمَا أَثْـنَيْتَ عَلـى نَفْسِكَ وَفَوْقَ مَا يَقُولُ
-الْقَائِلُونَ.
-  </p>
-</blockquote>
+> أَعُوذُ بِعَفْوِكَ مِنْ عِقَابِكَ، وَأَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ،
+> وَأَعُوذُ بِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ،
+> أَنْتَ كَمَا أَثْـنَيْتَ عَلـى نَفْسِكَ وَفَوْقَ مَا يَقُولُ
+> الْقَائِلُونَ.
 
 *“I seek refuge in Your forgiveness from Your chastisement, and I seek
 refuge in Your grace from Your punishment, and I seek refuge in You from
@@ -1074,16 +858,12 @@ speak.”*
 Then he raised his head and prostrated once more for the fourth time and
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِنُورِ وَجْهِكَ الَّذِي أَشْرَقَتْ لَهُ
-السَّمٌوَاتُ وَالأَرْضُ، وَقَشَعَتْ بِهِ الظُّلُمَاتُ، وَصَلُحَ بِهِ
-أَمْرُ الأَوَّلِينَ وَالآخِرِينَ، أَنْ يَحِلَّ عَلَيَّ غَضَـبُكَ أَوْ
-يَنْزِلَ عَلَيَّ سَخَطُكَ. أَعُوذُ مِنْ زَوَالِ نِعْمَتِكَ وَفَجْأَةِ
-نِقْمَتِكَ وَتَحْوِيلِ عَافِيَتِكَ وَجَمِيعِ سَخَطِكَ. لَكَ الْعُتْبـى
-فِيمَا اسْتَطَعْتُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِنُورِ وَجْهِكَ الَّذِي أَشْرَقَتْ لَهُ
+> السَّمٌوَاتُ وَالأَرْضُ، وَقَشَعَتْ بِهِ الظُّلُمَاتُ، وَصَلُحَ بِهِ
+> أَمْرُ الأَوَّلِينَ وَالآخِرِينَ، أَنْ يَحِلَّ عَلَيَّ غَضَـبُكَ أَوْ
+> يَنْزِلَ عَلَيَّ سَخَطُكَ. أَعُوذُ مِنْ زَوَالِ نِعْمَتِكَ وَفَجْأَةِ
+> نِقْمَتِكَ وَتَحْوِيلِ عَافِيَتِكَ وَجَمِيعِ سَخَطِكَ. لَكَ الْعُتْبـى
+> فِيمَا اسْتَطَعْتُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِكَ.
 
 *“O Allah! I seek refuge with the light of Your presence by which the
 heavens and the earth radiate, and by which the darkness dispels, and
@@ -1118,12 +898,8 @@ His Du’a upon seeing the New-Moon
 from ‘Ali (as) who said: When the Holy Prophet (S) looked at the
 new-moon, he would raise his hands and say:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ، أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَ
-الإِيـمَانِ وَ السَّلاَمَةِ وَ الإِسْلاَمِ رَبِّي وَرَبُّكَ اللٌّهِ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ، أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَ
+> الإِيـمَانِ وَ السَّلاَمَةِ وَ الإِسْلاَمِ رَبِّي وَرَبُّكَ اللٌّهِ.
 
 *“In the name of Allah. O Allah! Make it come upon us with harmony and
 faith, peace and submission (to You). My Lord and your Lord is
@@ -1139,16 +915,12 @@ in the month of Ramad’an: From Muhammad ibn Hanafiyya from Amir
 al-Mu’minin (as) who said: When the Holy Prophet (S) saw the new-moon of
 the month of Ramad’an, he turned his face towards the Qiblah and said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيـمَانِ
-وَالسَّلاَمَةِ وَالإِسْلاَمِ، وَالْعَافِيةِ الْمُجَلَّلَةِ، وَدِفَاعِ
-الأَسْقَامِ، وَالْعَوْنِ عَلـى الصَّلاَةِ وَالصِّيَامِ وَتِّلاَوَةِ
-الْقُرَآنِ. أَللٌّهُمَّ سَلِّمْـنَا لِشَهْرِ رَمَضَانَ، وَتُسَلِّمْهُ
-مِنَّا، وَسَلِّمْنَا فِيهِ، حَتّى يَنْقَضِيَ عَنَّا شَهْرُ رَمَضَانَ
-وَقَدْ عَفَوْتَ عَنَّا وَغَفَرْتَ لَنَا وَرَحِمْتَنَا.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيـمَانِ
+> وَالسَّلاَمَةِ وَالإِسْلاَمِ، وَالْعَافِيةِ الْمُجَلَّلَةِ، وَدِفَاعِ
+> الأَسْقَامِ، وَالْعَوْنِ عَلـى الصَّلاَةِ وَالصِّيَامِ وَتِّلاَوَةِ
+> الْقُرَآنِ. أَللٌّهُمَّ سَلِّمْـنَا لِشَهْرِ رَمَضَانَ، وَتُسَلِّمْهُ
+> مِنَّا، وَسَلِّمْنَا فِيهِ، حَتّى يَنْقَضِيَ عَنَّا شَهْرُ رَمَضَانَ
+> وَقَدْ عَفَوْتَ عَنَّا وَغَفَرْتَ لَنَا وَرَحِمْتَنَا.
 
 *“O Allah! Make it come upon us with harmony and faith, peace and
 submission, well-being and protection from maladies, and help in prayer
@@ -1165,11 +937,7 @@ His Daily Dhikr
 and sixty times a day, the (same as the) number of canals in the body,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ رَبِّ الْعَالَمِينَ كَـثِيراً عَلـى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ رَبِّ الْعَالَمِينَ كَـثِيراً عَلـى كُلِّ حَالٍ.
 
 *“Many praises be to Allah – Lord of the Universe - in all
 conditions.”*[^57]
@@ -1181,11 +949,7 @@ and eighty are flowing and a hundred and eighty are stationary. If the
 flowing canal becomes stationary, it does not grow and it the stationary
 canal begins to flow, it does not grow. And the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ كَثِيراً عَلـى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ كَثِيراً عَلـى كُلِّ حَالٍ.
 
 *“Many praises be to Allah in all conditions.”*
 
@@ -1197,12 +961,8 @@ ibn Ya’qub from his father, from al-Sadiq, from his fathers (as) in a
 hadith: When the Holy Prophet (S) woke up in the morning, as the sun
 rose, he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ رَبِّ الْعَالَمِينَ كَـثِيراً طَيِّباً عَلـى كُلِّ
-حَالٍ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ رَبِّ الْعَالَمِينَ كَـثِيراً طَيِّباً عَلـى كُلِّ
+> حَالٍ.
 
 *“Many good praises be to Allah - Lord of the Universe, in all
 conditions.”*
@@ -1225,12 +985,8 @@ said: “My father narrated to me from my grandfather that when he had
 finished praying the morning prayer he would not talk until he had taken
 his prayer-beads in his hand and said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَصْبَحْتُ أُسَبِّحُكَ وَأُمَجِّدُكَ وَأُحَمِّدُكَ
-وَأُهَلِّلُكَ بِعَدَدِ مَا أُدِيْرُ بِهِ سُبْحَتِي.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَصْبَحْتُ أُسَبِّحُكَ وَأُمَجِّدُكَ وَأُحَمِّدُكَ
+> وَأُهَلِّلُكَ بِعَدَدِ مَا أُدِيْرُ بِهِ سُبْحَتِي.
 
 *“O Allah! I start my day by praising and glorifying You as many times
 as I have turned my prayer-beads.”*
@@ -1266,12 +1022,8 @@ His seeking protection from fever and other ailments
 53. In Da’awat al-Rawandi: The Noble Prophet (S) would seek protection
 from fever and pains by saying:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ عِرْقٍ نَعَّارٍ وَمِنْ
-شَرِّ حَرِّ النَّارِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ عِرْقٍ نَعَّارٍ وَمِنْ
+> شَرِّ حَرِّ النَّارِ.
 
 *“O Allah! I seek refuge with You from the harm of a gushing
 blood-vessel and from the evil of the fire of hell.”*[^64]
@@ -1284,15 +1036,11 @@ al-Jammal who said: We heard Amir al-Mu’minin (as) saying: A severe
 fever came upon the Holy Prophet (S) so Jibra’il came to him and recited
 the following invocation:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ أُرْقِيكَ، بِسْمِ اللٌّهِ أَشْفِيكَ مِنْ كُلِّ دَاءٍ
-يُؤْذِيكَ، وَاللٌّهُ شَافِيكَ، بِسْمِ اللٌّهِ خُذْهَا فَلْتُهَنِّيكَ.
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. وَلاَ أُقْسِمُ بِمَوَاقِعِ
-النُّجُومِ، وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ،
-لَتَبَرَّأَنَّ بِإِذْنِ اللٌّهِ عَزَّوَجَلَّ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ أُرْقِيكَ، بِسْمِ اللٌّهِ أَشْفِيكَ مِنْ كُلِّ دَاءٍ
+> يُؤْذِيكَ، وَاللٌّهُ شَافِيكَ، بِسْمِ اللٌّهِ خُذْهَا فَلْتُهَنِّيكَ.
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. وَلاَ أُقْسِمُ بِمَوَاقِعِ
+> النُّجُومِ، وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ،
+> لَتَبَرَّأَنَّ بِإِذْنِ اللٌّهِ عَزَّوَجَلَّ.
 
 *“In the name of Allah - I invoke (for) you. In the name of Allah - I
 cure you of every ailment that afflicts you and Allah is your Healer. In
@@ -1324,12 +1072,8 @@ the recitation of each ayah, one of the knots opened up, and after all
 the knots were undone, the Prophet (S) looked like someone who had just
 had a huge burden lifted from him, and Jibra’il started saying:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ أُرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ مِنْ حَاسِدٍ
-وَعَيْنٍ وَاللٌّهُ يَشْفِيكَ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ أُرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ مِنْ حَاسِدٍ
+> وَعَيْنٍ وَاللٌّهُ يَشْفِيكَ.
 
 *“In the name of Allah I protect you from all things that harm you –
 from the jealous one and the evil eye – and may Allah cure you.”*[^66]
@@ -1343,13 +1087,9 @@ Another one of his invocations
 56. In al-Bihar from the Tafsir of the Imam: The Prophet (S) placed his
 hand on the poisoned (meat of the) arm-bone and said:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الشَّافِي، بِسْمِ اللٌّهِ الْكَافِي، بِسْمِ اللٌّهِ
-الْمُعَافِي، بِسْمِ اللٌّهِ الَّذِي لاَ يَضُرُّ مَعَ إِسْمِهِ شَيْءٌ
-فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الشَّافِي، بِسْمِ اللٌّهِ الْكَافِي، بِسْمِ اللٌّهِ
+> الْمُعَافِي، بِسْمِ اللٌّهِ الَّذِي لاَ يَضُرُّ مَعَ إِسْمِهِ شَيْءٌ
+> فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ.
 
 *“In the name of Allah the Healer, in the name of Allah the Sufficient,
 in the name of Allah the Nourisher, in the name of Allah with whose name
@@ -1367,17 +1107,13 @@ His Du’a when Distressed or Troubled
 from ‘Ali (as), who said: Whenever the Noble Prophet (S) was distressed
 or troubled he would recite the following du’a:
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ يَا قَيُّومُ، يَا حَيّاً لاَ يَمُوتُ، يَا حَيُّ لاَ إِلٌهَ
-إِلاَّ أَنْتَ، كَاشِفَ الْهَمِّ، مُجِيبَ دَعْوَةِ الْمُضْطَرِّينَ.
-أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لاَ إِلٌهَ إِلاَّ أَنْتَ
-الْمَنَّانُ، بَدِيعُ السَّمٌوَاتِ وَالأَرْضِ ذُو الْجَلاَلِ
-وَالإِكْرَامِ، رَحْمٌنَ الدُّنْـيَا وَالآخِرَةِ وَرَحِيمَهُمَا، رَبِّ
-ارْحَمْنِي رَحْمَةً تُغْنِيَنِي بِهَا عَنْ رَحْمَةِ مَنْ سِوَاكَ، يَا
-أَرْحَمَ الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> يَا حَيُّ يَا قَيُّومُ، يَا حَيّاً لاَ يَمُوتُ، يَا حَيُّ لاَ إِلٌهَ
+> إِلاَّ أَنْتَ، كَاشِفَ الْهَمِّ، مُجِيبَ دَعْوَةِ الْمُضْطَرِّينَ.
+> أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لاَ إِلٌهَ إِلاَّ أَنْتَ
+> الْمَنَّانُ، بَدِيعُ السَّمٌوَاتِ وَالأَرْضِ ذُو الْجَلاَلِ
+> وَالإِكْرَامِ، رَحْمٌنَ الدُّنْـيَا وَالآخِرَةِ وَرَحِيمَهُمَا، رَبِّ
+> ارْحَمْنِي رَحْمَةً تُغْنِيَنِي بِهَا عَنْ رَحْمَةِ مَنْ سِوَاكَ، يَا
+> أَرْحَمَ الرَّاحِمِينَ.
 
 *“O Ever-living! O Ever-lasting! O Ever-living who never dies! O
 Ever-living there is no god but You. Remover of the troubles! Answerer
@@ -1400,17 +1136,13 @@ His Du’a for memorizing the Holy Qur’an
 from his fathers (as) that the following was one of the supplications of
 the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ ارْحَمْنِي بِتَرْكِ مَعَاصِيكَ مَا أَبْقَيْتَنِي،
-وَارْزُقْنِي حُسْنَ النَّظَرِ فِيمَا يُرْضِيكَ عَنِّي وَأَلْزِمْ
-قَلْبِي حِفْظَ كِتَابِكَ كَمَا عَلَّمْتَنِي، وَاجْعَلْنِي أَتْلُوهُ
-عَلـى النَّحْوِ الَّذِي يُرْضِيكَ عَنِّي. أَللٌّهُمَّ نَوِّرْ
-بِكِتَابِكَ بَصَرِي، وَاشْرَحْ بِهِ صَدْرِي، وَفَرِّحْ بِهِ قَلْبِي،
-وَأَطْلِقْ بِهِ لِسَانِي، وَاسْتَعْمِلْ بِهِ بَدَنِي، وَقَوِّنِي عَلـى
-ذٌلِكَ، فَإِنَّهُ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ ارْحَمْنِي بِتَرْكِ مَعَاصِيكَ مَا أَبْقَيْتَنِي،
+> وَارْزُقْنِي حُسْنَ النَّظَرِ فِيمَا يُرْضِيكَ عَنِّي وَأَلْزِمْ
+> قَلْبِي حِفْظَ كِتَابِكَ كَمَا عَلَّمْتَنِي، وَاجْعَلْنِي أَتْلُوهُ
+> عَلـى النَّحْوِ الَّذِي يُرْضِيكَ عَنِّي. أَللٌّهُمَّ نَوِّرْ
+> بِكِتَابِكَ بَصَرِي، وَاشْرَحْ بِهِ صَدْرِي، وَفَرِّحْ بِهِ قَلْبِي،
+> وَأَطْلِقْ بِهِ لِسَانِي، وَاسْتَعْمِلْ بِهِ بَدَنِي، وَقَوِّنِي عَلـى
+> ذٌلِكَ، فَإِنَّهُ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِكَ.
 
 *“O Allah! Bless me with the ability to keep away from Your disobedience
 for the rest of my life; and grant me the ability to see the good in
@@ -1427,28 +1159,24 @@ His Covering
 59. In al-Muhaj: The ‘Hijab’ (covering) of the Holy Prophet (S) (i.e.
 the supplication for protection from enemies) was:
 
-<blockquote dir="rtl">
-  <p>
- وَجَعَلْنَا عَلـى قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي
-آذَانِهِمْ وَقْراً. وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرَآنِ وَحْدَهُ
-وَلَّوا عَلـى أَدْبَارِهِمْ نُفُوراً  أَللٌّهُمَّ بِمَا وَارَتِ
-الْحُجُبُ مِنْ جَلاَلِكَ وَجَمَالِكَ، وَبِمَا أَطَافَ بِهِ الْعَرْشِ
-مِنْ بَهَاءِ كَمَالِكَ، وَبِمَعَاقِدِ الْعِزِّ مِنْ عَرْشِكَ، وَبِمَا
-تُحِيطُ بِهِ قُدْرَتُكَ مِنْ مَلَكُوتِ سُلْطَانِكَ، يَا مَنْ لاَ
-رَادَّ لِأَمْرِهِ وَلاَ مُعَقِّبَ لِحُكْمِهِ، إِضْرِبْ بَيْنِي
-وَبَيْنَ أَعْدَائِي بِسِتْرِكَ الَّذِي لاَ تُفَرِّقُهُ الْعَوَاصِفُ
-مِنَ الرِّيَاحِ، وَلاَ تَقْطَعُهُ الْبَوَاتِرُ مِنَ الصِّفَاحِ، وَلاَ
-تَنْفُذُهُ عَوَامِلُ الرِّمَاحِ، حُلَّ يَا شَدِيدَ الْبَطْشِ بَيْنِي
-وَبَيْنَ مَنْ يَرْمِينِي بِخَوَافِقِهِ، وَمَنْ تَسَرَّى إِلـيَّ
-طَوَارِقُهُ، وَفَرِّجْ عَنِّي كُلَّ هَمٍّ وَغَمٍّ، يَا فَارِجَ هَمِّ
-يَعْقُوبَ فَرِّجْ عَنِّي، يَا كَاشِفَ ضُرِّ أَيُوبَ إِكْشِفْ ضُرِّي،
-وَاغْلِبْ لِي مَنْ غَلَبَنِي، يَا غَالِباً غَيْرَ مَغْلُوبٍ.  وَرَدَّ
-اللٌّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَـنَالُوا خَيْراً وَكَفى
-اللٌّهُ الْمُؤْمِنِينَ الْقِتَالَ وَكاَنَ اللٌّهُ قَوِيّاً عَزِيزاً 
- فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلـى عَدُوِّهِمْ فَأَصْبَحُوا
-ظَاهِرِينَ 
-  </p>
-</blockquote>
+>  وَجَعَلْنَا عَلـى قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي
+> آذَانِهِمْ وَقْراً. وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرَآنِ وَحْدَهُ
+> وَلَّوا عَلـى أَدْبَارِهِمْ نُفُوراً  أَللٌّهُمَّ بِمَا وَارَتِ
+> الْحُجُبُ مِنْ جَلاَلِكَ وَجَمَالِكَ، وَبِمَا أَطَافَ بِهِ الْعَرْشِ
+> مِنْ بَهَاءِ كَمَالِكَ، وَبِمَعَاقِدِ الْعِزِّ مِنْ عَرْشِكَ، وَبِمَا
+> تُحِيطُ بِهِ قُدْرَتُكَ مِنْ مَلَكُوتِ سُلْطَانِكَ، يَا مَنْ لاَ
+> رَادَّ لِأَمْرِهِ وَلاَ مُعَقِّبَ لِحُكْمِهِ، إِضْرِبْ بَيْنِي
+> وَبَيْنَ أَعْدَائِي بِسِتْرِكَ الَّذِي لاَ تُفَرِّقُهُ الْعَوَاصِفُ
+> مِنَ الرِّيَاحِ، وَلاَ تَقْطَعُهُ الْبَوَاتِرُ مِنَ الصِّفَاحِ، وَلاَ
+> تَنْفُذُهُ عَوَامِلُ الرِّمَاحِ، حُلَّ يَا شَدِيدَ الْبَطْشِ بَيْنِي
+> وَبَيْنَ مَنْ يَرْمِينِي بِخَوَافِقِهِ، وَمَنْ تَسَرَّى إِلـيَّ
+> طَوَارِقُهُ، وَفَرِّجْ عَنِّي كُلَّ هَمٍّ وَغَمٍّ، يَا فَارِجَ هَمِّ
+> يَعْقُوبَ فَرِّجْ عَنِّي، يَا كَاشِفَ ضُرِّ أَيُوبَ إِكْشِفْ ضُرِّي،
+> وَاغْلِبْ لِي مَنْ غَلَبَنِي، يَا غَالِباً غَيْرَ مَغْلُوبٍ.  وَرَدَّ
+> اللٌّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَـنَالُوا خَيْراً وَكَفى
+> اللٌّهُ الْمُؤْمِنِينَ الْقِتَالَ وَكاَنَ اللٌّهُ قَوِيّاً عَزِيزاً 
+>  فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلـى عَدُوِّهِمْ فَأَصْبَحُوا
+> ظَاهِرِينَ 
 
 ***“We have cast veils over their hearts lest they understand it and a
 heaviness in their ears”*** (Surat al-An’am (6): 25)
@@ -1506,13 +1234,9 @@ us.”[^76]
 prophets, one after the other, from Adam (as) until they came down to
 the Noble Prophet (S). Every morning he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَسْأَلُكَ إِيـمَاناً تُبَاشِرُ بِهِ قَلْبِي،
-وَيَقِيناً حَتَّى أَعْلَمُ أَنَّهُ لاَ يُصِيبُنِي إِلاَّ مَا كَتَبْتَ
-لِي، وَرَضِّنِي بِمَا قَسَمْتَ لِي.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَسْأَلُكَ إِيـمَاناً تُبَاشِرُ بِهِ قَلْبِي،
+> وَيَقِيناً حَتَّى أَعْلَمُ أَنَّهُ لاَ يُصِيبُنِي إِلاَّ مَا كَتَبْتَ
+> لِي، وَرَضِّنِي بِمَا قَسَمْتَ لِي.
 
 *“O Allah! I ask You for faith which gives joy to my heart, and
 certitude so that I may know that nothing befalls me except that which
@@ -1523,20 +1247,16 @@ apportioned for me.”*[^77]
 Jibra’il brought from Allah (SwT) and instructed the Prophet to recite
 in times of hardships and troubles:
 
-<blockquote dir="rtl">
-  <p>
-يَا عِمَادَ مَنْ لاَ عِمَادَ لَهُ، وَيَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ،
-وَيَا ذُخْرَ مَنْ لاَ ذُخْرَ لَهُ، وَيَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ،
-وَيَا غِيَاثَ مَنْ لاَ غِيَاثَ لَهُ، وَيَا كَرِيـمَ الْعَفْوِ، وَيَا
-حَسَنَ الْبَلاَءِ، وَيَا عَظِيمَ الرَّجَاءِ، وَيَا عَوْنَ
-الضُّعَفَاءِ، وَيَا مُنْقِذَ الْغَرْقى، وَيَا مُنْجِيَ الْهَلْكى، يَا
-مُحْسِنُ، يَا مُجْمِلُ، يَا مُنْعِمُ، يَا مُفْضِلُ، أَنْتَ الَّذِي
-سَجَدَ لَكَ سَوَادُ اللَّيلِ، وَنُورُ النَّهَارِ وَضَوْءُ الْقَمَرِ،
-وَشُعَاعُ الشَّمْسِ، وَدَوِيُّ الْمَاءِ، وَحَفِيفُ الشَّجَرِ، يَا
-اللٌّهُ، يَا اللٌّهُ، يَا اللٌّهُ، أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ.
-ثُمَّ تَقُولُ: أَللٌّهُمَّ افْعَلْ بِي كَذَا وَكَذََا...
-  </p>
-</blockquote>
+> يَا عِمَادَ مَنْ لاَ عِمَادَ لَهُ، وَيَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ،
+> وَيَا ذُخْرَ مَنْ لاَ ذُخْرَ لَهُ، وَيَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ،
+> وَيَا غِيَاثَ مَنْ لاَ غِيَاثَ لَهُ، وَيَا كَرِيـمَ الْعَفْوِ، وَيَا
+> حَسَنَ الْبَلاَءِ، وَيَا عَظِيمَ الرَّجَاءِ، وَيَا عَوْنَ
+> الضُّعَفَاءِ، وَيَا مُنْقِذَ الْغَرْقى، وَيَا مُنْجِيَ الْهَلْكى، يَا
+> مُحْسِنُ، يَا مُجْمِلُ، يَا مُنْعِمُ، يَا مُفْضِلُ، أَنْتَ الَّذِي
+> سَجَدَ لَكَ سَوَادُ اللَّيلِ، وَنُورُ النَّهَارِ وَضَوْءُ الْقَمَرِ،
+> وَشُعَاعُ الشَّمْسِ، وَدَوِيُّ الْمَاءِ، وَحَفِيفُ الشَّجَرِ، يَا
+> اللٌّهُ، يَا اللٌّهُ، يَا اللٌّهُ، أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ.
+> ثُمَّ تَقُولُ: أَللٌّهُمَّ افْعَلْ بِي كَذَا وَكَذََا...
 
 *“O Supporter of the one with no supporter! O Protector of the one with
 no protector! O Provider of the one with no provisions! O Helper of the
@@ -1562,25 +1282,21 @@ who said: The Holy Prophet (S) would invoke (Allah (SwT)) for (the
 safety of) al-Hasan and al-Husayn (as) with this, and he would order his
 companions to recite it, and it is:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. أُعِيذُ نَفْسِي وَدِيـنِي
-وَأَهْلِي وَمَالِي وَوُلْدِي وَخَوَاتِيمَ عَمَلِي وَمَا رَزَقَنِي
-رَبِّي وَخَوَّلَنِي بِعِزَّةِ اللٌّهِ وَعَظَمَةِ اللٌّهِ وَجَبَرُوتِ
-اللٌّهِ وَسُلْطَانِ اللٌّهِ وَرَحْمَةِ اللٌّهِ وَرَأْفَةِ اللٌّهِ
-وَغُفْرَانِ اللٌّهِ وَقُوَّةِ اللٌّهِ وَقُدْرَةِ اللٌّهِ وَبِآلاَءِ
-اللٌّهِ وَبِصُنْعِ اللٌّهِ وَبِأَرْكَانِ اللٌّهِ وَبِجَمْعِ اللٌّهِ
-عَزَّوَجَلَّ وَبِرَسُولِ اللٌّهِ (صَلَّى اللٌّهُ عَلِيهِ وَآلِهِ)
-وَقُدْرَةِ اللٌّهِ عَلـى مَايَشَاءُ، مِنْ شَرِّ السَّامَّةِ
-وَالْهَامَّةِ، وَمِنْ شَرِّ الْجِنِّ وَالإِنْسِ، وَمِنْ شَرِّ مَا
-دَبَّ فِي الأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ
-مَا يَنْزِلُ مِنَ السَّمَآءِ، وَمَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ
-كُلِّ دَابَّةٍ رَبِّي آخِذٌ بِنَاصِيَتِهَا، إِنَّ رَبِّي عَلـى صِرَاطٍ
-مُسْتَقِيمٍ، وَهُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ، وَلاَ حَوْلَ وَلاَ
-قُوَّةَ إِلاَّ بِاللٌّهِ الْعَلِيِّ الْعَظِيمِ، وَصَلَّى اللٌّهُ عَلـى
-سَيِّدِنَا مُحَمَّدٍ وَآلِهِ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. أُعِيذُ نَفْسِي وَدِيـنِي
+> وَأَهْلِي وَمَالِي وَوُلْدِي وَخَوَاتِيمَ عَمَلِي وَمَا رَزَقَنِي
+> رَبِّي وَخَوَّلَنِي بِعِزَّةِ اللٌّهِ وَعَظَمَةِ اللٌّهِ وَجَبَرُوتِ
+> اللٌّهِ وَسُلْطَانِ اللٌّهِ وَرَحْمَةِ اللٌّهِ وَرَأْفَةِ اللٌّهِ
+> وَغُفْرَانِ اللٌّهِ وَقُوَّةِ اللٌّهِ وَقُدْرَةِ اللٌّهِ وَبِآلاَءِ
+> اللٌّهِ وَبِصُنْعِ اللٌّهِ وَبِأَرْكَانِ اللٌّهِ وَبِجَمْعِ اللٌّهِ
+> عَزَّوَجَلَّ وَبِرَسُولِ اللٌّهِ (صَلَّى اللٌّهُ عَلِيهِ وَآلِهِ)
+> وَقُدْرَةِ اللٌّهِ عَلـى مَايَشَاءُ، مِنْ شَرِّ السَّامَّةِ
+> وَالْهَامَّةِ، وَمِنْ شَرِّ الْجِنِّ وَالإِنْسِ، وَمِنْ شَرِّ مَا
+> دَبَّ فِي الأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ
+> مَا يَنْزِلُ مِنَ السَّمَآءِ، وَمَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ
+> كُلِّ دَابَّةٍ رَبِّي آخِذٌ بِنَاصِيَتِهَا، إِنَّ رَبِّي عَلـى صِرَاطٍ
+> مُسْتَقِيمٍ، وَهُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ، وَلاَ حَوْلَ وَلاَ
+> قُوَّةَ إِلاَّ بِاللٌّهِ الْعَلِيِّ الْعَظِيمِ، وَصَلَّى اللٌّهُ عَلـى
+> سَيِّدِنَا مُحَمَّدٍ وَآلِهِ.
 
 *“In the name of Allah the Beneficent the Merciful. I place myself, my
 religion, my family, my wealth, my children, the results of my actions
@@ -1605,14 +1321,10 @@ disbelievers troubled him very much, he clasped his hand and said: “Get
 restricted (then) get relieved.” Then he faced the Qibla and raised his
 hands and said:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ
-بِاللٌّهِ الْعَلِيِّ الْعَظِيمِ. أَللٌّهُمَّ إِيَّاكَ نَعْـبُدُ
-وَإِيَّاكَ نَسْتَعِينُ. أَللٌّهُمَّ كُفَّ بَأْسَ الَّذِينَ كَفَرُوا
-فَإِنَّكَ أَشَدُّ بَأْساً وَأَشَدُّ تَـنْكِيلاً.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ
+> بِاللٌّهِ الْعَلِيِّ الْعَظِيمِ. أَللٌّهُمَّ إِيَّاكَ نَعْـبُدُ
+> وَإِيَّاكَ نَسْتَعِينُ. أَللٌّهُمَّ كُفَّ بَأْسَ الَّذِينَ كَفَرُوا
+> فَإِنَّكَ أَشَدُّ بَأْساً وَأَشَدُّ تَـنْكِيلاً.
 
 *“In the name of Allah the Beneficent, the Merciful. There is no might
 and no power but that of Allah the Sublime, the Mighty. O Allah! You
@@ -1629,26 +1341,22 @@ solved.[^80]
 something troubled the Holy Prophet (S), he would recite the following
 du’a – and they called it *du’a al-faraj* :
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ احْرُسْنِي بِعَيْنِكَ الَّتِي لاَ تَنَامُ، وَاكْـنُفْنِي
-بِرُكْنِكَ الَّذِي لاَ يُرَامُ، وَارْحَمْنِي بِقُدْرَتِكَ عَلَيَّ،
-وَلاَ أَهْلَكُ وَأَنْتَ رَجَائِي، فَكَمْ مِنْ نِعْمَةٍ أَنْـعَمْتَ
-بِهَا عَلَيَّ قَلَّ لَهَا شُكْرِي، وَكَمْ مِنْ بَلِيَّةٍ
-ابْتَلَيْتَنِي قَلَّ لَكَ بِهَا صَـبْرِي، فَيَا مَنْ قَلَّ عِنْدَ
-نِعْمَتِهِ شُكْرِي فَلَمْ يَحْرِمْنِي، وَيَا مَنْ قَلَّ عِنْدَ
-بَلِيَّتِهِ صَبْرِي فَلَمْ يَخْذُلْنِي، وَيَا مَنْ رَآنِي عَلـى
-الْخَطَايَا فَلَمْ يَفْضَحْـنِي، أَسْأَلُكَ أَنْ تُصَلِّيَ عَلـى
-مُحَمَّدٍ وَآلِ مُحَمَّدٍ. أَللٌّهُمَّ أَعِنِّي عَلـى دِيـنِي
-بِالدُّنْـيَا، وَعَلـى الآخِرَةِ بِالتَّقْوى، وَاحْفَظْنِي فِيمَا
-غِبْتُ عَنْهُ، وَلاَ تَكِلْنِي إِلـى نَفْسِي فِيمَا حَضَرْتُهُ، يَا
-مَنْ لاَ تَضُرُّهُ الذُّنُوبُ، وَلاَ تَنْقُصُهُ الْمَغْفِرَةُ، هَبْ
-لِي مَا لاَ يَنْقُصُكَ، وَاغْفِرْ لِي مَا لاَ يَضُرُّكَ، إِنَّكَ رَبٌّ
-وَهَّابٌ. أَسْأَلُكَ فَرَجاً قَرِيـباً، وَصَبْراً جَمِيلاً، وَرِزْقاً
-وَاسِعاً، وَالْعَافِيَةَ مِنْ جَمِيعِ الْبَلاَءِ، وَشُكْرَ
-الْعَافِيَةِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ احْرُسْنِي بِعَيْنِكَ الَّتِي لاَ تَنَامُ، وَاكْـنُفْنِي
+> بِرُكْنِكَ الَّذِي لاَ يُرَامُ، وَارْحَمْنِي بِقُدْرَتِكَ عَلَيَّ،
+> وَلاَ أَهْلَكُ وَأَنْتَ رَجَائِي، فَكَمْ مِنْ نِعْمَةٍ أَنْـعَمْتَ
+> بِهَا عَلَيَّ قَلَّ لَهَا شُكْرِي، وَكَمْ مِنْ بَلِيَّةٍ
+> ابْتَلَيْتَنِي قَلَّ لَكَ بِهَا صَـبْرِي، فَيَا مَنْ قَلَّ عِنْدَ
+> نِعْمَتِهِ شُكْرِي فَلَمْ يَحْرِمْنِي، وَيَا مَنْ قَلَّ عِنْدَ
+> بَلِيَّتِهِ صَبْرِي فَلَمْ يَخْذُلْنِي، وَيَا مَنْ رَآنِي عَلـى
+> الْخَطَايَا فَلَمْ يَفْضَحْـنِي، أَسْأَلُكَ أَنْ تُصَلِّيَ عَلـى
+> مُحَمَّدٍ وَآلِ مُحَمَّدٍ. أَللٌّهُمَّ أَعِنِّي عَلـى دِيـنِي
+> بِالدُّنْـيَا، وَعَلـى الآخِرَةِ بِالتَّقْوى، وَاحْفَظْنِي فِيمَا
+> غِبْتُ عَنْهُ، وَلاَ تَكِلْنِي إِلـى نَفْسِي فِيمَا حَضَرْتُهُ، يَا
+> مَنْ لاَ تَضُرُّهُ الذُّنُوبُ، وَلاَ تَنْقُصُهُ الْمَغْفِرَةُ، هَبْ
+> لِي مَا لاَ يَنْقُصُكَ، وَاغْفِرْ لِي مَا لاَ يَضُرُّكَ، إِنَّكَ رَبٌّ
+> وَهَّابٌ. أَسْأَلُكَ فَرَجاً قَرِيـباً، وَصَبْراً جَمِيلاً، وَرِزْقاً
+> وَاسِعاً، وَالْعَافِيَةَ مِنْ جَمِيعِ الْبَلاَءِ، وَشُكْرَ
+> الْعَافِيَةِ.
 
 *“O Allah! Protect me by Your watchfulness that does not become weary,
 guard me with Your support which cannot be defeated, have mercy on me by
@@ -1675,17 +1383,13 @@ trials and gratitude for all your blessings.”*[^81]
 from his fathers, from ‘Ali (as) who said: When the Prophet (S) saw the
 new moon he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا الْخَلْقُ الْمُطِيعُ الدَّائِبُ السَّرِيعُ الْمُتَصَرِّفُ فِي
-مَلَكُوتِ الْجَبَرُوتِ بِالتَّقْدِيرِ! رَبِّي وَرَبُّكَ اللٌّهُ.
-أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيـمَانِ
-وَالسَّلاَمَةِ وَالإِحْسَانِ، وَكَمَا بَلَغْتَنَا أَوَّلَهُ
-فَبَلِّغْنَا آخِرَهُ، وَاجْعَلْهُ شَهْراً مُبَارَكاً تَمْحُو فِيهِ
-السَّيِّئَاتِ وَتَرْفَعُ لَنَا فِيهِ الدَّرَجَاتِ، يَا عَظِيمَ
-الْخَيْرَاتِ.
-  </p>
-</blockquote>
+> أَيُّهَا الْخَلْقُ الْمُطِيعُ الدَّائِبُ السَّرِيعُ الْمُتَصَرِّفُ فِي
+> مَلَكُوتِ الْجَبَرُوتِ بِالتَّقْدِيرِ! رَبِّي وَرَبُّكَ اللٌّهُ.
+> أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيـمَانِ
+> وَالسَّلاَمَةِ وَالإِحْسَانِ، وَكَمَا بَلَغْتَنَا أَوَّلَهُ
+> فَبَلِّغْنَا آخِرَهُ، وَاجْعَلْهُ شَهْراً مُبَارَكاً تَمْحُو فِيهِ
+> السَّيِّئَاتِ وَتَرْفَعُ لَنَا فِيهِ الدَّرَجَاتِ، يَا عَظِيمَ
+> الْخَيْرَاتِ.
 
 *“O Obedient creature - the untiring, fast-moving heavenly body that
 rotates by the Will of Allah! My Lord and your Lord is Allah. O Allah!
@@ -1701,12 +1405,8 @@ Note: A similar narration is in al-Mustadrak from al-Iqbal.[^83]
 11. In al-Iqbal: The du’a for the new moon of Rajab as found in
 al-Da’awat: The Noble Prophet (S) used to say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيـمَانِ
-وَالسَّلاَمَةِ وَالإِسْلاَمِ، رَبِّي وَرَبُّكَ اللٌّهُ عَزَّوَجَلَّ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيـمَانِ
+> وَالسَّلاَمَةِ وَالإِسْلاَمِ، رَبِّي وَرَبُّكَ اللٌّهُ عَزَّوَجَلَّ.
 
 *“O Allah! Make it (the new moon) come upon us with tranquility and
 faith, and peace and submission (to Your will). My Lord and Your Lord is
@@ -1715,14 +1415,10 @@ Allah (SwT)”.*[^84]
 12. Also: It is narrated that when he (S) saw the new moon of the month
 of Rajab he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ بَارِكْ لَنَا فِي رَجَبٍ وَشَعْبَانَ، وَبَلِّغْنَا شَهْرَ
-رَمَضَانَ، وأَعِنَّا عَلـى الصِّيَامِ وَالقِّيَامِ وَحِفْظِ اللِّسَانِ
-وَغَضِّ الْبَصَرِ، وَلاَ تَجْعَلْ حَظَّنَا مِنْهُ الْجُوْعَ
-وَالْعَطَشَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ بَارِكْ لَنَا فِي رَجَبٍ وَشَعْبَانَ، وَبَلِّغْنَا شَهْرَ
+> رَمَضَانَ، وأَعِنَّا عَلـى الصِّيَامِ وَالقِّيَامِ وَحِفْظِ اللِّسَانِ
+> وَغَضِّ الْبَصَرِ، وَلاَ تَجْعَلْ حَظَّنَا مِنْهُ الْجُوْعَ
+> وَالْعَطَشَ.
 
 *“O Allah! Bless us in Rajab and Sha’ban and make us reach the month of
 Ramad’an; and help us to fast and establish prayers and control the
@@ -1733,12 +1429,8 @@ and thirst.”*[^85]
 the *takbir* (Allah is the Greatest) thrice and the *tahlil* (There is
 no god but Allah) thrice, then he said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَذْهَبَ شَهْرَ كَذَا وَجَاءَ بِشَهْرِ
-كَذَا.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَذْهَبَ شَهْرَ كَذَا وَجَاءَ بِشَهْرِ
+> كَذَا.
 
 *“Praise be to Allah who make such-and-such month to pass and brought
 such-and-such month.”*[^86]
@@ -1751,20 +1443,16 @@ father, from his fathers, from Abi ‘Abdillah, from Amir al-Mu’minin (as)
 about the Holy Prophet (S), he said: His du’a after the Dhuhr prayer
 was:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٌهَ إِلاَّ اللٌّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلٌهَ إِلاَّ
-اللٌّهُ رَبُّ الْعَرْشِ الْكَرِيـمِ. أَلْحَمْدُ لِلٌّهِ رَبِّ
-الْعَالَمِينَ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ،
-وَعَزَائِمَ مَغْفِرَتِكَ، وَالْغَنِيمَةَ مِنْ كُلِّ خَيْرٍ،
-وَالسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ. أَللٌّهُمَّ لاَ تَدَعْ لِي ذَنْباً
-إِلاَّ غَفَرْتَهُ، وَلاَ هَمّاً إِلاَّ فَرَّجْتَهُ، وَلاَ سُقْماً
-إِلاَّ شَفَيْتَهُ، وَلاَ عَـيْباً إِلاَّ سَتَرْتَهُ، وَلاَ رِزْقاً
-إِلاَّ بَسَطْتَهُ، وَلاَ خَوْفاً إِلاَّ آمَنْتَهُ، وَلاَ سُوءً إِلاَّ
-صَرَفْتَهُ، وَلاَ حَاجَةً هِيَ لَكَ رِضاً وَلِي صَلاَحٌ إِلاَّ
-قَضَيْتَهَا، يَا أَرْحَمَ الرَّاحِمِينَ، آمِينَ رَبَّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> لاَ إِلٌهَ إِلاَّ اللٌّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلٌهَ إِلاَّ
+> اللٌّهُ رَبُّ الْعَرْشِ الْكَرِيـمِ. أَلْحَمْدُ لِلٌّهِ رَبِّ
+> الْعَالَمِينَ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ،
+> وَعَزَائِمَ مَغْفِرَتِكَ، وَالْغَنِيمَةَ مِنْ كُلِّ خَيْرٍ،
+> وَالسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ. أَللٌّهُمَّ لاَ تَدَعْ لِي ذَنْباً
+> إِلاَّ غَفَرْتَهُ، وَلاَ هَمّاً إِلاَّ فَرَّجْتَهُ، وَلاَ سُقْماً
+> إِلاَّ شَفَيْتَهُ، وَلاَ عَـيْباً إِلاَّ سَتَرْتَهُ، وَلاَ رِزْقاً
+> إِلاَّ بَسَطْتَهُ، وَلاَ خَوْفاً إِلاَّ آمَنْتَهُ، وَلاَ سُوءً إِلاَّ
+> صَرَفْتَهُ، وَلاَ حَاجَةً هِيَ لَكَ رِضاً وَلِي صَلاَحٌ إِلاَّ
+> قَضَيْتَهَا، يَا أَرْحَمَ الرَّاحِمِينَ، آمِينَ رَبَّ الْعَالَمِينَ.
 
 *“There is no god but Allah, the Great, the Clement. There is no god but
 Allah, the Lord of the throne of Grace. All praise is for Allah, the
@@ -1785,82 +1473,78 @@ Universe.”*[^87]
 her father al-Hasan ibn ‘Ali (as) who said: The Holy Prophet (S) used to
 recite this du’a between every two rak’ahs of the *nafilah* of Dhuhr:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَنْتَ أَكْرَمُ مَأْتِيٍّ، وَأَكْرَمُ مَزُورٍ، وَخَيْرُ
-مَنْ طُلِبَتْ إِلَيْهِ الْحَاجَاتِ، وَأَجْوَدُ مَنْ أَعْطى، وَأَرْحَمُ
-مَنِ اسْـتَرْحَمَ، وَأَرْأَفُ مَنْ عَفَا، وَأَعَزُّ مَنِ اعْتُمِدَ
-عَلَيْهِ. أَللٌّهُمَّ بِي إِلَيْكَ فَاقَةٌ، ولِي إِلَيْكَ حَاجَاتٌ،
-وَلَكَ عِنْدِي طَلِبَاتٌ، مِنْ ذُنُوبٍ أَنَا بِهَا مُرْتَهَنٌ قَدْ
-أَوْقَرَتْ ظَهْرِي وَأَوْبَقَتْنِي، وَإِلاَّ تَرْحَمْنِي وَتَغْفِرْلِي
-أَكُنْ مِّنَ الْخَاسِرِينَ. أَللٌّهُمَّ اعْتَمَدْتُكَ فِيهَا تَائِـباً
-إِلَيْكَ، فَصَلِّ عَلـى مُحَمَّدٍ وَآلِهِ، وَاغْفِرْلِي ذُنُوبِي
-كُلَّهَا قَدِيـمَهَا وَحَدِيثَهَا سِرَّهَا وَعَلاَنِيَتَهَا، خَطَأَهَا
-وَعَمْدَهَا، صَغِيرَهَا وَكَبِيرَهَا، وَكُلَّ ذَنْبٍ أَذْنَبْـتُهُ
-وَأَنَا مُذْنِبُهُ، مَغْفِرَةً جَزْمًا، لاَ تُغَادِرُ ذَنْـباً
-وَاحِداً، وَلاَ أَكْتَسِبُ بَعْدَهَا مُحَرَّماً أَبَداً، وَاقْبَلْ
-مِنِّي الْيَسِيرَ مِنْ طَاعَتِكَ وَتَجَاوَزْلِي عَنِ الْكَبِيرِ مِنْ
-مَعْصِيَتِكَ، يَا عَظِيمُ إِنَّهُ لاَ يَغْفِرُ الْعَظِيمَ إِلاَّ
-الْعَظِيمُ، يَسْأَلُهُ مَنْ فِي السَّمٌوَاتِ وَالأَرْضِ كُلَّ يَوْمٍ
-هُوَ فِي شَأْنٍ، يَا مَنْ هُوَ كُلَّ يَوْمٍ فِي شَأْنٍ، صَلِّ عَلـى
-مُحَمَّدٍ وَآلِهِ وَاجْعَلْ لِي فِي شَأْنِكَ شَأْنَ حَاجَتِي،
-وَحَاجَتِي هِيَ فَكَاكُ رَقَبَتِي مِنَ النَّارِ، وَالأَمَانُ مِنْ
-سَخَطِكَ، وَالْفَوْزُ بِرِضْوَانِكَ وَجَنَّتِكَ، وَصَلِّ عَلـى
-مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَامْـنُنْ بِذٌلِكَ عَلَيَّ وَبِكُلِّ مَا
-فِيهِ صَلاَحِي. أَسْأَلُكَ بِنُورِكَ السَّاطِعِ فِي الظُّلُمَاتِ أَنْ
-تُصَلِّي عَلـى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَلاَ تُفَرِّقْ بَيْنِي
-وَبَيْنَهُمْ فِي الدُّنْيَا وَالآخِرَةِ إِنَّكَ عَلـى كُلِّ شَيْءٍ
-قَدِيرٌ. أَللٌّهُمَّ وَاكْتُبْ لِي عِتْقاً مِنَ النَّارِ مَبْـتُولاً،
-وَاجْعَلْنِي مِنَ الْمُنِيبِينَ إِلَيْكَ التَّابِعِينَ لأَمْرِكَ،
-الْمُخْبِتِينَ الَّذِينَ إِذَا ذُكِرْتَ وَجِلَتْ قُلُوبُهُمْ،
-وَالْمُسْتَكْمِلِينَ مَنَاسِكَهُمْ، وَالصَّابِرِينَ فِي الْبَلاَءِ،
-وَالشَّاكِرِينَ فِي الرَّخَاءِ، وَالْمُطِيعِينَ لأَمْرِكَ فِيمَا
-أَمَرْتَهُمْ بِهِ، وَالْمُقِيمِينَ الصَّلاَةَ، وَالْمُؤْتِينَ
-الزَّكَاةَ، وَالْمُتَوَكِّلِينَ عَلَيْكَ. أَللٌّهُمَّ أَضْعِفْنِي يَا
-كَرِيـمُ كَرَامَتَكَ وَأَجْزِلْ لِي عَطِيَّتَكَ وَالْفَضِيلَةَ
-لَدَيْكَ وَالرَّاحَةَ مِنْكَ، وَالوَّسِيلَةَ إِلَيْكَ وَالْمَنْزِلَةَ
-عِنْدَكَ مَا تَكْفِينِي بِهِ كُلَّ هَوْلٍ دُونَ الْجَنَّةِ
-وَتُظِلَّنِي فِي ظِلِّ عَرْشِكَ يَوْمَ لاَ ظِلَّ إِلاَّ ظِلُّكَ،
-وَتُعَظِّمَ نُورِي، وَتُعْطِينِي كِتَابِي بِيَمِينِي، وَتُضْعِفَ
-حَسَنَاتِي، وَتَحْشُرَنِي فِي أَفْضَلِ الْوَافِدِينَ إِلَـيْكَ مِنَ
-الْمُتَّقِينَ، وَتُسْكِنَنِي فِي عِلِّيِينَ، وَاجْعَلْنِي مِمَّنْ
-تَنْظُرُ إِلَيْهِ بِوَجْهِكَ الْكَرِيـمِ، وَتَتَوَفَّانِي وَأَنْتَ
-عَنِّي رَاضٍ، وَالْحِقْنِي بِعِبَادِكَ الصَّالِحِينَ. أَللٌّهُمَّ
-صَلِّ عَلـى مُحَمَّدٍ وَآلِهِ، وَاقْلِـبْـنِي بِذٌلِكَ كُلِّهِ
-مُفْلِحاً مُنْجِحاً قَدْ غَفَرْتَ لِي خَطَايَايَ وَذُنُوبِي كُلَّهَا،
-وَكَفَّرْتَ عَنِّي سَيِّئَاتِي، وَحَطَطْتَ عَنِّي وِزْرِي،
-شَفَّعْتَنِي فِي جَمِيعِ حَوَائِجِي فِي الدُّنْيَا وَالآخِرَةِ فِي
-يُسْرٍ مِنْكَ وَعَافِيَةٍ. أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَآلِهِ،
-وَلاَ تَخْلُطْ بِشَيْءٍ مِنْ عَمَلِي وَلاَ بِمَا تَقَرَّبْتُ بِهِ
-إِلَيْكَ رِيَاءً وَلاَ سُمْعَةً وَلاَ أَشِراً وَلاَ بَطِراً،
-وَاجْعَلْنِي مِنَ الْخَاشِعِينَ لَكَ. أَللٌّهُمَّ صَلِّ عَلـى
-مُحَمَّدٍ وَآلِهِ، وَاعْطِنِي السَّعَةَ فِي رِزْقِي، وَالصِّحَةَ فِي
-جِسْمِي، وَالْقُوَّةَ فِي بَدَنِي عَلـى طَاعَتِكَ وَعِبَادَتِكَ،
-وَاعْطِنِي مِنْ رَحْمَتِكَ وَرِضْوَانِكَ وَعَافِيَتِكَ مَا
-تُسَلِّمُنِي بِهِ مِنْ كُلِّ بَلاَءِ الآخِرَةِ وَالدُّنْـيَا،
-وَارْزُقْنِي الرَّهْبَةَ مِنْكَ، وَالرَّغْبَةَ إِلَيْكَ، وَالْخُشُوعَ
-لَكَ، وَالْوَقَارَ وَالْحَيَاءَ مِنْكَ، وَالتَّعْظِيمَ لِذِكْرِكَ،
-وَالتَّقْدِيسَ لِمَجْدِكَ أَيَّامَ حَيَاتِي حَتَّى تَتَوَفَّانِي
-وَأَنْتَ عَنِّي رَاضٍ. أَللٌّهُمَّ وَأَسْأَلُكَ السَّعَةَ وَالدَّعَةَ،
-وَالأَمْنَ وَالْكِفَايَةَ، وَالسَّلاَمَةَ وَالصِّحَّةَ، وَالقُنُوعَ
-وَالْعِصْمَةَ، وَالْهُدى وَالرَّحْمَةَ، وَالْعَفْوَ وَالْعَافِيَةَ،
-وَالْيَقِينَ وَالْمَغْفِرَةَ، وَالشُّكْرَ وَالرِّضَا وَالصَّبْرَ،
-وَالْعِلْمَ وَالصِّدْقَ، وَالْبِرَّ وَالتَّقْوى، وَالْحِلْمَ
-وَالتَّوَاضُعَ وَالْيُسْرَ وَالتَّوْفِيقَ. أَللٌّهُمَّ صَلِّ عَلـى
-مُحَمَّدٍ وَآلِهِ، وَاعْصِمْ بِذٌلِكَ أَهْلَ بَيْتِي وَقُرُبَاتِي
-وَإِخْوَانِي فِيكَ وَمَنْ أَحْبَبْتُ وأَحَبَّنِي فِيكَ أَوْ
-وَلَّيْتُهُ وَوَلَدَنِي مِنْ جَمِيعِ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ
-وَالْمُسْلِمِينَ وَالْمُسْلِمَاتِ. وَأَسْأَلُكَ يَا رَبِّ حُسْنَ
-الظَّنِّ بِكَ وَالصِّدْقَ فِي التَّوَكُّلِ عَلَيْكَ، وَأَعُوذُبِكَ يَا
-رَبِّ أَنْ تَبْتَلِيَنِي بِِبَلِيَّةٍ تَحْمِلُنِي ضَـرُورَتُـهـَا
-عَلـى التَّغَوُّثِ بِشَيْءٍ مِنْ مَعَاصِيكَ، وَأَعُوذُبِكَ يَا رَبِّ
-أَنْ أَكُونَ فِي حَالِ عُسْرٍ أَوْ يُسْرٍ أَظُنُّ أَنَّ مَعَاصِيكَ
-أَنْجَحُ فِي طَلِبَتِي مِنْ طَاعَتِكَ، وَأَعُوذُ بِكَ مِنْ تَكَلُّفِ
-مَا لَمْ تُقَدِّرْ لِي فِيهِ رِزْقاً، وَمَا قَدَّرْتَ لِي مِنْ رِزْقٍ،
-فَصَلِّ عَلـى مُحَمَّدٍ وَآلِهِ وَآتِنِي بِهِ فِي يُسْرٍ مِنْكَ
-وَعَافِيَةٍ يَا أَرْحَمَ الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَنْتَ أَكْرَمُ مَأْتِيٍّ، وَأَكْرَمُ مَزُورٍ، وَخَيْرُ
+> مَنْ طُلِبَتْ إِلَيْهِ الْحَاجَاتِ، وَأَجْوَدُ مَنْ أَعْطى، وَأَرْحَمُ
+> مَنِ اسْـتَرْحَمَ، وَأَرْأَفُ مَنْ عَفَا، وَأَعَزُّ مَنِ اعْتُمِدَ
+> عَلَيْهِ. أَللٌّهُمَّ بِي إِلَيْكَ فَاقَةٌ، ولِي إِلَيْكَ حَاجَاتٌ،
+> وَلَكَ عِنْدِي طَلِبَاتٌ، مِنْ ذُنُوبٍ أَنَا بِهَا مُرْتَهَنٌ قَدْ
+> أَوْقَرَتْ ظَهْرِي وَأَوْبَقَتْنِي، وَإِلاَّ تَرْحَمْنِي وَتَغْفِرْلِي
+> أَكُنْ مِّنَ الْخَاسِرِينَ. أَللٌّهُمَّ اعْتَمَدْتُكَ فِيهَا تَائِـباً
+> إِلَيْكَ، فَصَلِّ عَلـى مُحَمَّدٍ وَآلِهِ، وَاغْفِرْلِي ذُنُوبِي
+> كُلَّهَا قَدِيـمَهَا وَحَدِيثَهَا سِرَّهَا وَعَلاَنِيَتَهَا، خَطَأَهَا
+> وَعَمْدَهَا، صَغِيرَهَا وَكَبِيرَهَا، وَكُلَّ ذَنْبٍ أَذْنَبْـتُهُ
+> وَأَنَا مُذْنِبُهُ، مَغْفِرَةً جَزْمًا، لاَ تُغَادِرُ ذَنْـباً
+> وَاحِداً، وَلاَ أَكْتَسِبُ بَعْدَهَا مُحَرَّماً أَبَداً، وَاقْبَلْ
+> مِنِّي الْيَسِيرَ مِنْ طَاعَتِكَ وَتَجَاوَزْلِي عَنِ الْكَبِيرِ مِنْ
+> مَعْصِيَتِكَ، يَا عَظِيمُ إِنَّهُ لاَ يَغْفِرُ الْعَظِيمَ إِلاَّ
+> الْعَظِيمُ، يَسْأَلُهُ مَنْ فِي السَّمٌوَاتِ وَالأَرْضِ كُلَّ يَوْمٍ
+> هُوَ فِي شَأْنٍ، يَا مَنْ هُوَ كُلَّ يَوْمٍ فِي شَأْنٍ، صَلِّ عَلـى
+> مُحَمَّدٍ وَآلِهِ وَاجْعَلْ لِي فِي شَأْنِكَ شَأْنَ حَاجَتِي،
+> وَحَاجَتِي هِيَ فَكَاكُ رَقَبَتِي مِنَ النَّارِ، وَالأَمَانُ مِنْ
+> سَخَطِكَ، وَالْفَوْزُ بِرِضْوَانِكَ وَجَنَّتِكَ، وَصَلِّ عَلـى
+> مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَامْـنُنْ بِذٌلِكَ عَلَيَّ وَبِكُلِّ مَا
+> فِيهِ صَلاَحِي. أَسْأَلُكَ بِنُورِكَ السَّاطِعِ فِي الظُّلُمَاتِ أَنْ
+> تُصَلِّي عَلـى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَلاَ تُفَرِّقْ بَيْنِي
+> وَبَيْنَهُمْ فِي الدُّنْيَا وَالآخِرَةِ إِنَّكَ عَلـى كُلِّ شَيْءٍ
+> قَدِيرٌ. أَللٌّهُمَّ وَاكْتُبْ لِي عِتْقاً مِنَ النَّارِ مَبْـتُولاً،
+> وَاجْعَلْنِي مِنَ الْمُنِيبِينَ إِلَيْكَ التَّابِعِينَ لأَمْرِكَ،
+> الْمُخْبِتِينَ الَّذِينَ إِذَا ذُكِرْتَ وَجِلَتْ قُلُوبُهُمْ،
+> وَالْمُسْتَكْمِلِينَ مَنَاسِكَهُمْ، وَالصَّابِرِينَ فِي الْبَلاَءِ،
+> وَالشَّاكِرِينَ فِي الرَّخَاءِ، وَالْمُطِيعِينَ لأَمْرِكَ فِيمَا
+> أَمَرْتَهُمْ بِهِ، وَالْمُقِيمِينَ الصَّلاَةَ، وَالْمُؤْتِينَ
+> الزَّكَاةَ، وَالْمُتَوَكِّلِينَ عَلَيْكَ. أَللٌّهُمَّ أَضْعِفْنِي يَا
+> كَرِيـمُ كَرَامَتَكَ وَأَجْزِلْ لِي عَطِيَّتَكَ وَالْفَضِيلَةَ
+> لَدَيْكَ وَالرَّاحَةَ مِنْكَ، وَالوَّسِيلَةَ إِلَيْكَ وَالْمَنْزِلَةَ
+> عِنْدَكَ مَا تَكْفِينِي بِهِ كُلَّ هَوْلٍ دُونَ الْجَنَّةِ
+> وَتُظِلَّنِي فِي ظِلِّ عَرْشِكَ يَوْمَ لاَ ظِلَّ إِلاَّ ظِلُّكَ،
+> وَتُعَظِّمَ نُورِي، وَتُعْطِينِي كِتَابِي بِيَمِينِي، وَتُضْعِفَ
+> حَسَنَاتِي، وَتَحْشُرَنِي فِي أَفْضَلِ الْوَافِدِينَ إِلَـيْكَ مِنَ
+> الْمُتَّقِينَ، وَتُسْكِنَنِي فِي عِلِّيِينَ، وَاجْعَلْنِي مِمَّنْ
+> تَنْظُرُ إِلَيْهِ بِوَجْهِكَ الْكَرِيـمِ، وَتَتَوَفَّانِي وَأَنْتَ
+> عَنِّي رَاضٍ، وَالْحِقْنِي بِعِبَادِكَ الصَّالِحِينَ. أَللٌّهُمَّ
+> صَلِّ عَلـى مُحَمَّدٍ وَآلِهِ، وَاقْلِـبْـنِي بِذٌلِكَ كُلِّهِ
+> مُفْلِحاً مُنْجِحاً قَدْ غَفَرْتَ لِي خَطَايَايَ وَذُنُوبِي كُلَّهَا،
+> وَكَفَّرْتَ عَنِّي سَيِّئَاتِي، وَحَطَطْتَ عَنِّي وِزْرِي،
+> شَفَّعْتَنِي فِي جَمِيعِ حَوَائِجِي فِي الدُّنْيَا وَالآخِرَةِ فِي
+> يُسْرٍ مِنْكَ وَعَافِيَةٍ. أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَآلِهِ،
+> وَلاَ تَخْلُطْ بِشَيْءٍ مِنْ عَمَلِي وَلاَ بِمَا تَقَرَّبْتُ بِهِ
+> إِلَيْكَ رِيَاءً وَلاَ سُمْعَةً وَلاَ أَشِراً وَلاَ بَطِراً،
+> وَاجْعَلْنِي مِنَ الْخَاشِعِينَ لَكَ. أَللٌّهُمَّ صَلِّ عَلـى
+> مُحَمَّدٍ وَآلِهِ، وَاعْطِنِي السَّعَةَ فِي رِزْقِي، وَالصِّحَةَ فِي
+> جِسْمِي، وَالْقُوَّةَ فِي بَدَنِي عَلـى طَاعَتِكَ وَعِبَادَتِكَ،
+> وَاعْطِنِي مِنْ رَحْمَتِكَ وَرِضْوَانِكَ وَعَافِيَتِكَ مَا
+> تُسَلِّمُنِي بِهِ مِنْ كُلِّ بَلاَءِ الآخِرَةِ وَالدُّنْـيَا،
+> وَارْزُقْنِي الرَّهْبَةَ مِنْكَ، وَالرَّغْبَةَ إِلَيْكَ، وَالْخُشُوعَ
+> لَكَ، وَالْوَقَارَ وَالْحَيَاءَ مِنْكَ، وَالتَّعْظِيمَ لِذِكْرِكَ،
+> وَالتَّقْدِيسَ لِمَجْدِكَ أَيَّامَ حَيَاتِي حَتَّى تَتَوَفَّانِي
+> وَأَنْتَ عَنِّي رَاضٍ. أَللٌّهُمَّ وَأَسْأَلُكَ السَّعَةَ وَالدَّعَةَ،
+> وَالأَمْنَ وَالْكِفَايَةَ، وَالسَّلاَمَةَ وَالصِّحَّةَ، وَالقُنُوعَ
+> وَالْعِصْمَةَ، وَالْهُدى وَالرَّحْمَةَ، وَالْعَفْوَ وَالْعَافِيَةَ،
+> وَالْيَقِينَ وَالْمَغْفِرَةَ، وَالشُّكْرَ وَالرِّضَا وَالصَّبْرَ،
+> وَالْعِلْمَ وَالصِّدْقَ، وَالْبِرَّ وَالتَّقْوى، وَالْحِلْمَ
+> وَالتَّوَاضُعَ وَالْيُسْرَ وَالتَّوْفِيقَ. أَللٌّهُمَّ صَلِّ عَلـى
+> مُحَمَّدٍ وَآلِهِ، وَاعْصِمْ بِذٌلِكَ أَهْلَ بَيْتِي وَقُرُبَاتِي
+> وَإِخْوَانِي فِيكَ وَمَنْ أَحْبَبْتُ وأَحَبَّنِي فِيكَ أَوْ
+> وَلَّيْتُهُ وَوَلَدَنِي مِنْ جَمِيعِ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ
+> وَالْمُسْلِمِينَ وَالْمُسْلِمَاتِ. وَأَسْأَلُكَ يَا رَبِّ حُسْنَ
+> الظَّنِّ بِكَ وَالصِّدْقَ فِي التَّوَكُّلِ عَلَيْكَ، وَأَعُوذُبِكَ يَا
+> رَبِّ أَنْ تَبْتَلِيَنِي بِِبَلِيَّةٍ تَحْمِلُنِي ضَـرُورَتُـهـَا
+> عَلـى التَّغَوُّثِ بِشَيْءٍ مِنْ مَعَاصِيكَ، وَأَعُوذُبِكَ يَا رَبِّ
+> أَنْ أَكُونَ فِي حَالِ عُسْرٍ أَوْ يُسْرٍ أَظُنُّ أَنَّ مَعَاصِيكَ
+> أَنْجَحُ فِي طَلِبَتِي مِنْ طَاعَتِكَ، وَأَعُوذُ بِكَ مِنْ تَكَلُّفِ
+> مَا لَمْ تُقَدِّرْ لِي فِيهِ رِزْقاً، وَمَا قَدَّرْتَ لِي مِنْ رِزْقٍ،
+> فَصَلِّ عَلـى مُحَمَّدٍ وَآلِهِ وَآتِنِي بِهِ فِي يُسْرٍ مِنْكَ
+> وَعَافِيَةٍ يَا أَرْحَمَ الرَّاحِمِينَ.
 
 *“O Allah! You are the most Noble One who is approached, the most
 Magnanimous who is visited, the best One from whom fulfillment of
@@ -1944,22 +1628,18 @@ mercifuls.”*[^88]
 
 16. In al-Faqih: The Holy Prophet (S) used to say after the Fajr prayer:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحُزَنِ، وَالعَجْزِ
-وَالْكَسْلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلْعِ الدِّينِ وَغَلَبَةِ
-الرِّجَالِ، وَبَوَارِ الأَيَّمِ وَالْغَفْلَةِ، وَالذِّلَّةِ
-وَالْقَسْوَةِ، وَالْعَيْلَةِ وَالْمَسْكَنَةِ. وَأَعُوذُ بِكَ مِنْ
-نَفْسٍ لاَ تَشْـبَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ، وَمِنْ عَيْنٍ لاَ
-تَدْمَعُ، وَمِنْ دُعَاءٍ لاَ يُسْمَعُ، وَمِنْ صَلاَةٍ لاَ تَنْفَعُ
-(تُرْفَعُ)، وَأَعُوذُ بِكَ مَنْ إِمْرَأةٍ تُشَيِّبُنِي قَبْلَ أَوَانَ
-مَشِيبِي، وَأَعُوذُ بِكَ مِنْ وَلَدٍ يَكُونُ عَلَيَّ رَباًّ، وَأَعُوذُ
-بِكَ مِنْ مَالٍ يَكُونُ عَلَيَّ عَذَاباً، وَأَعُوذُ بِكَ مِنْ صَاحِبِ
-خَدِيعَةٍ، إِنْ رَأى حَسَنَةً دَفَنَهَا، وَإِنْ رَأى سَيِّئَةً
-أَفْشَاهَا. أَللٌّهُمَّ لاَ تَجْعَلْ لِفَاجِرٍ عَلَيَّ (عِنْدِي)
-يَدْاً وَلاَ مِنَّةً.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحُزَنِ، وَالعَجْزِ
+> وَالْكَسْلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلْعِ الدِّينِ وَغَلَبَةِ
+> الرِّجَالِ، وَبَوَارِ الأَيَّمِ وَالْغَفْلَةِ، وَالذِّلَّةِ
+> وَالْقَسْوَةِ، وَالْعَيْلَةِ وَالْمَسْكَنَةِ. وَأَعُوذُ بِكَ مِنْ
+> نَفْسٍ لاَ تَشْـبَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ، وَمِنْ عَيْنٍ لاَ
+> تَدْمَعُ، وَمِنْ دُعَاءٍ لاَ يُسْمَعُ، وَمِنْ صَلاَةٍ لاَ تَنْفَعُ
+> (تُرْفَعُ)، وَأَعُوذُ بِكَ مَنْ إِمْرَأةٍ تُشَيِّبُنِي قَبْلَ أَوَانَ
+> مَشِيبِي، وَأَعُوذُ بِكَ مِنْ وَلَدٍ يَكُونُ عَلَيَّ رَباًّ، وَأَعُوذُ
+> بِكَ مِنْ مَالٍ يَكُونُ عَلَيَّ عَذَاباً، وَأَعُوذُ بِكَ مِنْ صَاحِبِ
+> خَدِيعَةٍ، إِنْ رَأى حَسَنَةً دَفَنَهَا، وَإِنْ رَأى سَيِّئَةً
+> أَفْشَاهَا. أَللٌّهُمَّ لاَ تَجْعَلْ لِفَاجِرٍ عَلَيَّ (عِنْدِي)
+> يَدْاً وَلاَ مِنَّةً.
 
 *“O Allah! I seek protection with You from grief and sorrow, weakness
 and laziness, miserliness and cowardice, turning away from the truth and
@@ -1981,21 +1661,17 @@ expect anything from me.”*[^89]
 supplicate on the first night of the month of Ramad’an with the
 following du’a:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي أَكْرَمَنِي بِكَ أَيُّهَا الشَّهْرُ
-الْمُبَارَكُ، أَللٌّهُمَّ فَقَوِّنَا عَلـى صِيَامِنَا وَقِـيَامِنَا
-وَثَـبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلـى الْقَوْمِ الْكَافِرِينَ.
-أَللٌّهُمَّ أَنْتَ الْوَاحِدُ فَلاَ وَلَدَ لَكَ، وَأَنْتَ الصَّمَدُ
-فَلاَ شِبْهَ لَكَ، وَأَنْتَ الْعَزِيزُ فَلاَ يُعِزُّكَ شَيْءٌ،
-وَأَنْتَ الْغَنِيُّ وَأَنَا الْفَقِيرُ، وَأَنْتَ الْمَوْلـى وَأَنَا
-الْعَبْدُ، وَأَنْتَ الْغَفُورُ وَأَنَا الْمُذْنِبُ، وَأَنْتَ
-الرَّحِيمُ وَأَنَا الْمُخْطِئُ، وَأَنْتَ الْخَالِقُ وَأَنَا
-الْمَخْلُوقُ، وَأَنْتَ الْحَيُّ وَأَنَا الْمَيِّتُ. أََسْأَلُكَ
-بِرَحْمَتِكَ أَنْ تَغْفِرْلِي وَتَرْحَمْنِي وَتَجَاوَزْ عَنِّي،
-إِنَّكَ عَلـى كُلِّ شَيءٍ قَدِيرٌ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي أَكْرَمَنِي بِكَ أَيُّهَا الشَّهْرُ
+> الْمُبَارَكُ، أَللٌّهُمَّ فَقَوِّنَا عَلـى صِيَامِنَا وَقِـيَامِنَا
+> وَثَـبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلـى الْقَوْمِ الْكَافِرِينَ.
+> أَللٌّهُمَّ أَنْتَ الْوَاحِدُ فَلاَ وَلَدَ لَكَ، وَأَنْتَ الصَّمَدُ
+> فَلاَ شِبْهَ لَكَ، وَأَنْتَ الْعَزِيزُ فَلاَ يُعِزُّكَ شَيْءٌ،
+> وَأَنْتَ الْغَنِيُّ وَأَنَا الْفَقِيرُ، وَأَنْتَ الْمَوْلـى وَأَنَا
+> الْعَبْدُ، وَأَنْتَ الْغَفُورُ وَأَنَا الْمُذْنِبُ، وَأَنْتَ
+> الرَّحِيمُ وَأَنَا الْمُخْطِئُ، وَأَنْتَ الْخَالِقُ وَأَنَا
+> الْمَخْلُوقُ، وَأَنْتَ الْحَيُّ وَأَنَا الْمَيِّتُ. أََسْأَلُكَ
+> بِرَحْمَتِكَ أَنْ تَغْفِرْلِي وَتَرْحَمْنِي وَتَجَاوَزْ عَنِّي،
+> إِنَّكَ عَلـى كُلِّ شَيءٍ قَدِيرٌ.
 
 *“All praise is for Allah, the One who honored me by you O Blessed
 Month. O Allah! Make us successful in our fasts and prayers, and keep us
@@ -2016,12 +1692,8 @@ Salim from Abi ‘Abdillah (as), in the hadith of Me’raj: The Holy Prophet
 grant it to me.” So Allah (SwT) said: “I give you two sentences from
 under My Throne:
 
-<blockquote dir="rtl">
-  <p>
-لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللٌّهِ وَلاَ مَنْجَأَ مِنْكَ إِلاَّ
-إِلَيْكَ.
-  </p>
-</blockquote>
+> لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللٌّهِ وَلاَ مَنْجَأَ مِنْكَ إِلاَّ
+> إِلَيْكَ.
 
 *“There is no power and no might but Allah” and “There is no security
 from You but with You”.*
@@ -2029,15 +1701,11 @@ from You but with You”.*
 He (S) said: “The angels taught me what to say in the morning and
 evening:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنَّ ظُلْمِي أَصْبَحَ مُسْتَجِيراً بِعَفْوِكَ، وَذَنْبِي
-أَصْبَحَ مُسْتَجِيراً بِمَغْفِرَتِكَ، وَذُلِّي أَصْبَحَ مُسْتَجِيراً
-بِعِزَّتِكَ، وَفَقْرِي أَصْبَحَ مُسْتَجِيراً بِغِنَاكَ، وَوَجْهِي
-الْبَالِي الْفَانِي أَصْـبَحَ مُسْتَجِيراً بِوَجْهِكَ الدَّائِمِ
-الْبَّاقِي الَّذِي لاَ يَفْنـى.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنَّ ظُلْمِي أَصْبَحَ مُسْتَجِيراً بِعَفْوِكَ، وَذَنْبِي
+> أَصْبَحَ مُسْتَجِيراً بِمَغْفِرَتِكَ، وَذُلِّي أَصْبَحَ مُسْتَجِيراً
+> بِعِزَّتِكَ، وَفَقْرِي أَصْبَحَ مُسْتَجِيراً بِغِنَاكَ، وَوَجْهِي
+> الْبَالِي الْفَانِي أَصْـبَحَ مُسْتَجِيراً بِوَجْهِكَ الدَّائِمِ
+> الْبَّاقِي الَّذِي لاَ يَفْنـى.
 
 *“O Allah! My oppression has sought refuge in Your Forgiveness, and my
 sin has sought refuge in Your Pardon, my lowliness has sought refuge
@@ -2054,17 +1722,13 @@ Muhammad al-Mustakin: In his narration from ‘Abi Ja’far (as) who said:
 When the redness of the sun reached the peak of the mountain, tears
 would flow from the Holy Prophet’s (S) eyes and he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ أَمسى ظُلْمِي مُسْتَجِيراً بِعَفْوِكَ، وَأَمْسَتْ ذُنُوبِي
-مُسْتَجِيراً بِمَغْفِرَتِكَ، وَأَمْسى خَوْفِي مُسْتَجِيراً بِأَمْنِكَ،
-وَأَمْسى ضَعْفِي مُسْتَجِيراً بِقُوَّتِكَ، وَأَمْسى وَجْهِيَ
-الْبَالِيَ الْفَانِي مُسْتَجِيراً بِوَجْهِكَ الْدَائِمِ الْبَاقِي،
-أَلْبِسْنِي عَافِيَتَكَ، وَغَشِّنِي بِرَحْمَتِكَ، وَجَلِّلْنِي
-كَرَامَتَكَ، وَقِنِي شَرَّ خَلْقِكَ مِنَ الْجِنِّ وَالإِنْسِ يَـا
-اللٌّهُ ياَ رَحْمٌنُ ياَ رَحِيمُ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ أَمسى ظُلْمِي مُسْتَجِيراً بِعَفْوِكَ، وَأَمْسَتْ ذُنُوبِي
+> مُسْتَجِيراً بِمَغْفِرَتِكَ، وَأَمْسى خَوْفِي مُسْتَجِيراً بِأَمْنِكَ،
+> وَأَمْسى ضَعْفِي مُسْتَجِيراً بِقُوَّتِكَ، وَأَمْسى وَجْهِيَ
+> الْبَالِيَ الْفَانِي مُسْتَجِيراً بِوَجْهِكَ الْدَائِمِ الْبَاقِي،
+> أَلْبِسْنِي عَافِيَتَكَ، وَغَشِّنِي بِرَحْمَتِكَ، وَجَلِّلْنِي
+> كَرَامَتَكَ، وَقِنِي شَرَّ خَلْقِكَ مِنَ الْجِنِّ وَالإِنْسِ يَـا
+> اللٌّهُ ياَ رَحْمٌنُ ياَ رَحِيمُ.
 
 *“O Allah! The day has come while my oppression has sought refuge in
 Your Forgiveness, and my sins have sought refuge in Your Pardon, my fear
@@ -2080,21 +1744,17 @@ Merciful!”*[^92]
 20. In al-Bihar, from Da’awat al-Rawandi: From the supplications of the
 Noble Prophet (S) was:
 
-<blockquote dir="rtl">
-  <p>
-يَا مَنْ أَظْهَرَ الْجَمِيلَ وَسَتَرَ الْقَبِيحَ، يَا مَنْ لَمْ
-يَهْتِكِ السِّتْرَ وَلَمْ يُؤَاخِذْ بِالْجَرِيرَةِ، يَا عَظِيمَ
-الْعَفْوِ، يَا حَسَنَ التَّجَاوُزِ، يَا وَاسِعَ الْمَغْفِرَةِ، يَا
-بَاسِطَ الْيَدَيْنِ بِالرَّحْمَةِ، يَا صَاحِبَ كُلِّ نَجْوى،
-وَمُنْتَهى كُلِّ شَكْوى، يَا مُقِيلَ الْعَثَرَاتِ، يَا كَرِيـمَ
-الصَّفْحِ، يَا عَظِيمَ الْمَنِّ، يَا مُبْـتَدِئاً بِالنِّعَمِ قَبْلَ
-اسْتِحْقَاقِهَا، يَا رَبَّاهُ، يَا سَيِّدَاهُ، يَا أَمْلاَهُ، يَا
-غَايَةَ رَغْبَتَاهُ. أَسْأَلُكَ بِكَ يَا اللٌّهُ أَنْ لاَ تُشَوِّهَ
-خَلْقِي بِالنَّارِ، وَأَنْ تَقْضِيَ لِي حَوَائِجَ آخِرَتِي
-وَدُنْـيَايَ، وَتَفْعَلْ بِي كَذَا وَكَذَا، وَتُصَلِّيَ عَلـى
-مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> يَا مَنْ أَظْهَرَ الْجَمِيلَ وَسَتَرَ الْقَبِيحَ، يَا مَنْ لَمْ
+> يَهْتِكِ السِّتْرَ وَلَمْ يُؤَاخِذْ بِالْجَرِيرَةِ، يَا عَظِيمَ
+> الْعَفْوِ، يَا حَسَنَ التَّجَاوُزِ، يَا وَاسِعَ الْمَغْفِرَةِ، يَا
+> بَاسِطَ الْيَدَيْنِ بِالرَّحْمَةِ، يَا صَاحِبَ كُلِّ نَجْوى،
+> وَمُنْتَهى كُلِّ شَكْوى، يَا مُقِيلَ الْعَثَرَاتِ، يَا كَرِيـمَ
+> الصَّفْحِ، يَا عَظِيمَ الْمَنِّ، يَا مُبْـتَدِئاً بِالنِّعَمِ قَبْلَ
+> اسْتِحْقَاقِهَا، يَا رَبَّاهُ، يَا سَيِّدَاهُ، يَا أَمْلاَهُ، يَا
+> غَايَةَ رَغْبَتَاهُ. أَسْأَلُكَ بِكَ يَا اللٌّهُ أَنْ لاَ تُشَوِّهَ
+> خَلْقِي بِالنَّارِ، وَأَنْ تَقْضِيَ لِي حَوَائِجَ آخِرَتِي
+> وَدُنْـيَايَ، وَتَفْعَلْ بِي كَذَا وَكَذَا، وَتُصَلِّيَ عَلـى
+> مُحَمَّدٍ وَآلِ مُحَمَّدٍ.
 
 *“O One who reveals the beautiful (deeds) and conceals the ugly
 (actions)! O One who did not expose the secret and did not punish the
@@ -2112,88 +1772,80 @@ Muhammad ibn ‘Ali (as), from Jabir ibn ‘Abdillah Ansari, from the
 Prophet (S) who said in a hadith: Jibra’il said: “O Muhammad! Say at all
 times:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ رَبِّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ رَبِّ الْعَالَمِينَ.
 
 *“Praise be to Allah, Lord of the universe.”*[^94]
 
 22. In al-Muhaj: From the supplications of the Holy Prophet (S) is the
 *du’a al-faraj* :
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ
-يَا اللٌّهُ يَا اللٌّهُ يَا اللٌّهُ، يَا مَنْ عَلاَ فَقَهَرَ، وَيَا
-مَنَ بَطَنَ فَخَبَرَ، وَيَا مَنْ مَلَكَ فَقَدَرَ، وَيَا مَنْ عُبِدَ
-فَشَكَرَ، وَيَا مَنْ عُصِيَ فَغَفَرَ، يَا مَنْ لاَ يُحِيطُ بِهِ
-الْفِكَرُ، يَا مَنْ لاَ يُدْرِكُهُ بَصَرُ، وَيَا مَنْ لاَ يَخْفى
-عَلَيْهِ أَثَر ٌ ، يَا عَالِيَ الْمَكَانِ، يَا شَدِيدَ الأَرْكَانِ،
-يَا مُنْزِلَ الْقُرَآنِ، يَا مُبَدِّلَ الزَّمَانِ، يَا قَابِلَ
-الْقُرْبَانِ، يَا نَيِّرَ الْبُرْهَانِ يَا عَظِيمَ الشَّأْنِ، يَا ذَا
-الْمَنِّ وَالإِحْسَانِ، وَيَا ذَا الْعِزِّ وَالسُّلْطَانِ، يَا رَحِيمُ
-يَا رَحْمٌنُ، يَا رَبَّ الأَرْبَابِ، يَا تَوَّابُ يَا وَهَّابُ، يَا
-مُعْتِقَ الرِّقَابِ، يَا مُنْشِئَ السَّحَابِ، يَا مَنْ حَيْثُ مَا
-دُعِيَ أَجَابَ، يَا مُرَخِّصَ الأَسْعَارِ، يَا مُنَـزِّلَ الأَمْطَارِ،
-يَا مُنْبِتَ الأَشْجَارِ فِي الأَرْضِ القِفَارِ، يَا مُخْرِجَ
-النَّبَاتِ، يَا مُحْيِيَ الأَمْوَاتِ، يَا مُقِيلَ الْعَثَرَاتِ، يَا
-كَاشِفَ الْكُرُبَاتِ، يَا مَنْ لاَ تَضْجُرُهُ الأَصْوَاتُ، وَلاَ
-تُشَبِّهُ عَلَيْهِ اللُّغَاتُ، وَلاَ تَغْشَاهُ الظُّلُمَاتُ، يَا
-مُعْطِيَ السُّؤْلاَتِ، يَا وَلِيَّ الْحَسَنَاتِ، يَا دَافِعَ
-الْبَلِيَّاتِ، يَا قَابِلَ الصَّدَقَاتِ، يَا قَابِلَ التَّوْبَاتِ، يَا
-عَالِمَ الْخَفِيَّاتِ، يَا مُجِيبَ الدَّعْوَاتِ، يَا رَافِعَ
-الدَّرَجَاتِ، يَا قَاضِيَ الْحَاجَاتِ، يَا رَاحِمَ الْعَبَرَاتِ، يَا
-مُنْجِحَ الطَّلِبَاتِ، يَا مُنْزِلَ الْبَرَكَاتِ، يَا جَامِعَ
-الشَّتَاتِ، يَا رَادَّ مَا كَانَ فَاتَ، يَا جَمَالَ الأَرْضِينَ
-وَالسَمٌوَاتِ، يَا سَابِغَ النِّعَمِ، يَا كَاشِفَ الأَلَمِ، يَا
-شَافِيَ السَّقَمِ، يَا مَعْدِنَ الْجُودِ وَالْكَرَمِ، يَا أَجْوَدَ
-الأَجْوَدِينَ، يَا أَكْرَمَ الأَكْرَمِينَ، يَا أَسْمَعَ السَّامِعِينَ،
-يَا أَبْصَرَ النَّاظِرِينَ، يَا أَرْحَمَ الرَّاحِمِينَ، يَا أَقْرَبَ
-الأَقْرَبِينَ، يَا إِلٌهَ الْعَالَمِينَ، يَا غِيَاثَ
-الْمُسْتَغِيثِينَ، يَا جَارَ الْمُسْتَجِيرِينَ، يَا مُتَجَاوِزاً عَنِ
-الْمُسِيئِينَ، يَا مَنْ لاَ يَعْجَلُ عَلـى الْخَاطِئِينَ، يَا فَكَّاكَ
-الْمَأْسُورِينَ، يَا مُفَرِّجَ غَمِّ الَمْغَمُومِينَ، يَا جَامِعَ
-الْمُتَفَرِّقِينَ، يَا مُدْرِكَ الْهَارِبِينَ، يَا غَايَةَ
-الطَّالِبِينَ، يَا صَاحِبَ كُلِّ غَرِيبٍ، يَا مُونِسَ كُلِّ وَحِيدٍ،
-يَا رَاحِمَ الشَّيْخِ الْكَبِيرِ، يَا رَازِقَ الطِّفْلِ الصَّغِيرِ،
-يَا جَابِرَ الْعَظْمِ الْكَسِيرِ، يَا عِصْمَةَ الْخَائِفِ
-الْمُسْتَجِيرِ، يَا مَنْ لَهُ التَّدْبِيرُ وَإِلَيهِ الْتَقْدِيرُ، يَا
-مَنِ الْعَسِيرُ عَلَيهِ سَهْلٌ يَسِيرٌ، يَا مَنْ هُوَ بِكُلِّ شَيْءٍ
-خَبِيرٌ، يَا مَنْ هُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ، يَا خَالِقَ
-السَّمَاءِ وَالْقَمَرِ الْمُنِيرِ، يَا فَالِقَ الإِصْبَاحِ، يَا
-مُرْسِلَ الرِّيَاحِ، يَا بَاعِثَ الأَرْوَاحِ، يَا ذَا الْجُوْدِ
-وَالسَّمَاحِ، يَا مَنْ بِيَدِهِ كُلُّ مِفْتَاحٍ، يَا عِمَادَ مَنْ لاَ
-عِمَادَ لَهُ، يَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ، يَا ذُخْرَ مَنْ لاَ
-ذُخْرَ لَهُ، يَا عِزَّ مَنْ لاَ عِزَّ لَهُ، يَا كَنْزَ مَنْ لاَ كَنْزَ
-لَهُ، يَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ، يَا عَوْنَ مَنْ لاَ عَوْنَ
-لَهُ، يَا رُكْنَ مَنْ لاَ رُكْنَ لَهُ، يَا غِيَاثَ مَنْ لاَ غِيَاثَ
-لَهُ، يَا عَظِيمَ الْمَنِّ، يَا كَرِيـمَ الْعَفْوِ، يَا حَسَنَ
-التَّجَاوُزِ، يَا وَاسِعَ الْمَغْفِرَةِ، يَا بَاسِطَ الْيَدَينِ
-بِالرَّحْمَةِ، يَا مُبْـتَدِئاً بِالنِّعَمِ قَبْلَ اسْتِحْقَاقِهَا،
-يَا ذَا الْحُجَّةِ الْبَالِغَةِ، يَا ذَا الْمُلْكِ والْمَلَكُوتِ، يَا
-ذَا الْعِزِّ وَالْجَبَرُوتِ، يَا مَنْ هُوَ حَيٌّ لاَ يَمُوتُ.
-أَسْأَلُكَ بِعِلْمِكَ الْغُيُوبَ، وَبِمَعْرِفَتِكَ مَا فِي ضَمَائِرِ
-الْقُلُوبِ، وَبِكُلِّ اسْمٍ هُوَ لَكَ اصْطَفَيْتَهُ لِنَفْسِكَ، أَوْ
-أَنْزَلْتَهُ فِي كِتَابٍ مِنْ كُتُبِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي
-عِلْمِ الْغَيْبِ عِنْدَكَ، وَبِأَسْمَائِكَ الْحُسْنـى كُلِّهَا حَتَّى
-انْتَهى إِلـى اسْمِكَ الْعَظِيمِ الأَعْظَمِ الَّذِي فَضَّلْتَهُ عَلـى
-جَمِيعِ أَسْمَائِكَ. أَسْأَلُكَ بِهِ، أَسْأَلُكَ بِهِ، أَسْأَلُكَ بِهِ
-أَنْ تُصَلِّي عَلـى مُحَمَّدٍ وآلِهِ، وَأَنْ تُيَسِّرَ لِي مِنْ
-أَمْرِي مَا أَخَافُ عُسْرَهُ، وَتُفَرِّجْ عَنِّي الْهَمَّ وَالْغَمَّ
-وَالْكَرْبَ، وَمَا ضَاقَ بِهِ صَدْرِي، وَعِيلَ بِهِ صَبْرِي، فَإِنَّهُ
-لاَ يَقْدِرُ عَلـى فَرَجِي سِوَاكَ وَافْعَلْ بِي مَا أَنْتَ أَهْلُُهُ،
-يَا أَهْلَ التَّقْوى وَأَهْلَ الْمَغْفِرَةِ، يَا مَنْ لاَ يَكْشِفُ
-الْكَرْبَ غَيْرُهُ، وَلاَ يُجَلِّي الْحُزْنَ سِوَاهُ، وَلاَ يُفَرِّجْ
-عَنِّي إِلاَّ هُوَ، إِكْفِنِي شَرَّ نَفْسِي خَاصَّةً، وَشَرَّ النَّاسِ
-عَامَّةً، وَأصْلِحْ لِي شَأْنِي كُلَّهُ، وَأصْلِحْ أُُُمُورِي، وَاقْضِ
-لِي حَوَائِجِي، وَاجْعَلْ لِي مِنْ أَمْرِي فَرَجاً وَمَخْرَجاً،
-فَإِنَّكَ تَعْلَمُ وَلاَ أَعْلَمُ، وَتُقَدِّرُ وَلاَ أُقَدِّرُ،
-وَأَنْتَ عَلـى كُلِّ شَيْءٍ قدَيِرٌ، بِرَحْمَتِكَ يَا أَرْحَمَ
-الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ
+> يَا اللٌّهُ يَا اللٌّهُ يَا اللٌّهُ، يَا مَنْ عَلاَ فَقَهَرَ، وَيَا
+> مَنَ بَطَنَ فَخَبَرَ، وَيَا مَنْ مَلَكَ فَقَدَرَ، وَيَا مَنْ عُبِدَ
+> فَشَكَرَ، وَيَا مَنْ عُصِيَ فَغَفَرَ، يَا مَنْ لاَ يُحِيطُ بِهِ
+> الْفِكَرُ، يَا مَنْ لاَ يُدْرِكُهُ بَصَرُ، وَيَا مَنْ لاَ يَخْفى
+> عَلَيْهِ أَثَر ٌ ، يَا عَالِيَ الْمَكَانِ، يَا شَدِيدَ الأَرْكَانِ،
+> يَا مُنْزِلَ الْقُرَآنِ، يَا مُبَدِّلَ الزَّمَانِ، يَا قَابِلَ
+> الْقُرْبَانِ، يَا نَيِّرَ الْبُرْهَانِ يَا عَظِيمَ الشَّأْنِ، يَا ذَا
+> الْمَنِّ وَالإِحْسَانِ، وَيَا ذَا الْعِزِّ وَالسُّلْطَانِ، يَا رَحِيمُ
+> يَا رَحْمٌنُ، يَا رَبَّ الأَرْبَابِ، يَا تَوَّابُ يَا وَهَّابُ، يَا
+> مُعْتِقَ الرِّقَابِ، يَا مُنْشِئَ السَّحَابِ، يَا مَنْ حَيْثُ مَا
+> دُعِيَ أَجَابَ، يَا مُرَخِّصَ الأَسْعَارِ، يَا مُنَـزِّلَ الأَمْطَارِ،
+> يَا مُنْبِتَ الأَشْجَارِ فِي الأَرْضِ القِفَارِ، يَا مُخْرِجَ
+> النَّبَاتِ، يَا مُحْيِيَ الأَمْوَاتِ، يَا مُقِيلَ الْعَثَرَاتِ، يَا
+> كَاشِفَ الْكُرُبَاتِ، يَا مَنْ لاَ تَضْجُرُهُ الأَصْوَاتُ، وَلاَ
+> تُشَبِّهُ عَلَيْهِ اللُّغَاتُ، وَلاَ تَغْشَاهُ الظُّلُمَاتُ، يَا
+> مُعْطِيَ السُّؤْلاَتِ، يَا وَلِيَّ الْحَسَنَاتِ، يَا دَافِعَ
+> الْبَلِيَّاتِ، يَا قَابِلَ الصَّدَقَاتِ، يَا قَابِلَ التَّوْبَاتِ، يَا
+> عَالِمَ الْخَفِيَّاتِ، يَا مُجِيبَ الدَّعْوَاتِ، يَا رَافِعَ
+> الدَّرَجَاتِ، يَا قَاضِيَ الْحَاجَاتِ، يَا رَاحِمَ الْعَبَرَاتِ، يَا
+> مُنْجِحَ الطَّلِبَاتِ، يَا مُنْزِلَ الْبَرَكَاتِ، يَا جَامِعَ
+> الشَّتَاتِ، يَا رَادَّ مَا كَانَ فَاتَ، يَا جَمَالَ الأَرْضِينَ
+> وَالسَمٌوَاتِ، يَا سَابِغَ النِّعَمِ، يَا كَاشِفَ الأَلَمِ، يَا
+> شَافِيَ السَّقَمِ، يَا مَعْدِنَ الْجُودِ وَالْكَرَمِ، يَا أَجْوَدَ
+> الأَجْوَدِينَ، يَا أَكْرَمَ الأَكْرَمِينَ، يَا أَسْمَعَ السَّامِعِينَ،
+> يَا أَبْصَرَ النَّاظِرِينَ، يَا أَرْحَمَ الرَّاحِمِينَ، يَا أَقْرَبَ
+> الأَقْرَبِينَ، يَا إِلٌهَ الْعَالَمِينَ، يَا غِيَاثَ
+> الْمُسْتَغِيثِينَ، يَا جَارَ الْمُسْتَجِيرِينَ، يَا مُتَجَاوِزاً عَنِ
+> الْمُسِيئِينَ، يَا مَنْ لاَ يَعْجَلُ عَلـى الْخَاطِئِينَ، يَا فَكَّاكَ
+> الْمَأْسُورِينَ، يَا مُفَرِّجَ غَمِّ الَمْغَمُومِينَ، يَا جَامِعَ
+> الْمُتَفَرِّقِينَ، يَا مُدْرِكَ الْهَارِبِينَ، يَا غَايَةَ
+> الطَّالِبِينَ، يَا صَاحِبَ كُلِّ غَرِيبٍ، يَا مُونِسَ كُلِّ وَحِيدٍ،
+> يَا رَاحِمَ الشَّيْخِ الْكَبِيرِ، يَا رَازِقَ الطِّفْلِ الصَّغِيرِ،
+> يَا جَابِرَ الْعَظْمِ الْكَسِيرِ، يَا عِصْمَةَ الْخَائِفِ
+> الْمُسْتَجِيرِ، يَا مَنْ لَهُ التَّدْبِيرُ وَإِلَيهِ الْتَقْدِيرُ، يَا
+> مَنِ الْعَسِيرُ عَلَيهِ سَهْلٌ يَسِيرٌ، يَا مَنْ هُوَ بِكُلِّ شَيْءٍ
+> خَبِيرٌ، يَا مَنْ هُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ، يَا خَالِقَ
+> السَّمَاءِ وَالْقَمَرِ الْمُنِيرِ، يَا فَالِقَ الإِصْبَاحِ، يَا
+> مُرْسِلَ الرِّيَاحِ، يَا بَاعِثَ الأَرْوَاحِ، يَا ذَا الْجُوْدِ
+> وَالسَّمَاحِ، يَا مَنْ بِيَدِهِ كُلُّ مِفْتَاحٍ، يَا عِمَادَ مَنْ لاَ
+> عِمَادَ لَهُ، يَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ، يَا ذُخْرَ مَنْ لاَ
+> ذُخْرَ لَهُ، يَا عِزَّ مَنْ لاَ عِزَّ لَهُ، يَا كَنْزَ مَنْ لاَ كَنْزَ
+> لَهُ، يَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ، يَا عَوْنَ مَنْ لاَ عَوْنَ
+> لَهُ، يَا رُكْنَ مَنْ لاَ رُكْنَ لَهُ، يَا غِيَاثَ مَنْ لاَ غِيَاثَ
+> لَهُ، يَا عَظِيمَ الْمَنِّ، يَا كَرِيـمَ الْعَفْوِ، يَا حَسَنَ
+> التَّجَاوُزِ، يَا وَاسِعَ الْمَغْفِرَةِ، يَا بَاسِطَ الْيَدَينِ
+> بِالرَّحْمَةِ، يَا مُبْـتَدِئاً بِالنِّعَمِ قَبْلَ اسْتِحْقَاقِهَا،
+> يَا ذَا الْحُجَّةِ الْبَالِغَةِ، يَا ذَا الْمُلْكِ والْمَلَكُوتِ، يَا
+> ذَا الْعِزِّ وَالْجَبَرُوتِ، يَا مَنْ هُوَ حَيٌّ لاَ يَمُوتُ.
+> أَسْأَلُكَ بِعِلْمِكَ الْغُيُوبَ، وَبِمَعْرِفَتِكَ مَا فِي ضَمَائِرِ
+> الْقُلُوبِ، وَبِكُلِّ اسْمٍ هُوَ لَكَ اصْطَفَيْتَهُ لِنَفْسِكَ، أَوْ
+> أَنْزَلْتَهُ فِي كِتَابٍ مِنْ كُتُبِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي
+> عِلْمِ الْغَيْبِ عِنْدَكَ، وَبِأَسْمَائِكَ الْحُسْنـى كُلِّهَا حَتَّى
+> انْتَهى إِلـى اسْمِكَ الْعَظِيمِ الأَعْظَمِ الَّذِي فَضَّلْتَهُ عَلـى
+> جَمِيعِ أَسْمَائِكَ. أَسْأَلُكَ بِهِ، أَسْأَلُكَ بِهِ، أَسْأَلُكَ بِهِ
+> أَنْ تُصَلِّي عَلـى مُحَمَّدٍ وآلِهِ، وَأَنْ تُيَسِّرَ لِي مِنْ
+> أَمْرِي مَا أَخَافُ عُسْرَهُ، وَتُفَرِّجْ عَنِّي الْهَمَّ وَالْغَمَّ
+> وَالْكَرْبَ، وَمَا ضَاقَ بِهِ صَدْرِي، وَعِيلَ بِهِ صَبْرِي، فَإِنَّهُ
+> لاَ يَقْدِرُ عَلـى فَرَجِي سِوَاكَ وَافْعَلْ بِي مَا أَنْتَ أَهْلُُهُ،
+> يَا أَهْلَ التَّقْوى وَأَهْلَ الْمَغْفِرَةِ، يَا مَنْ لاَ يَكْشِفُ
+> الْكَرْبَ غَيْرُهُ، وَلاَ يُجَلِّي الْحُزْنَ سِوَاهُ، وَلاَ يُفَرِّجْ
+> عَنِّي إِلاَّ هُوَ، إِكْفِنِي شَرَّ نَفْسِي خَاصَّةً، وَشَرَّ النَّاسِ
+> عَامَّةً، وَأصْلِحْ لِي شَأْنِي كُلَّهُ، وَأصْلِحْ أُُُمُورِي، وَاقْضِ
+> لِي حَوَائِجِي، وَاجْعَلْ لِي مِنْ أَمْرِي فَرَجاً وَمَخْرَجاً،
+> فَإِنَّكَ تَعْلَمُ وَلاَ أَعْلَمُ، وَتُقَدِّرُ وَلاَ أُقَدِّرُ،
+> وَأَنْتَ عَلـى كُلِّ شَيْءٍ قدَيِرٌ، بِرَحْمَتِكَ يَا أَرْحَمَ
+> الرَّاحِمِينَ.
 
 *“In the name of Allah, the Compassionate, the Merciful.* *O Allah! I
 beseech You. O Allah! O Allah! O Allah!* *O He who is exalted and
@@ -2269,46 +1921,38 @@ things – by Your Mercy O Most Merciful of mercifuls.”*[^95]
 his narration from al-Sadiq (as) who said: The Prophet (S) used to
 supplicate in his du’a:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اجْعَلْنِي صَـبُوراً، وَاجْعَلْنِي شَكُوراً، وَاجْعَلْنِي
-فِي أَمَانِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اجْعَلْنِي صَـبُوراً، وَاجْعَلْنِي شَكُوراً، وَاجْعَلْنِي
+> فِي أَمَانِكَ.
 
 *“O Allah! Make me patient, and make me thankful, and keep me in Your
 protection.”*[^96]
 
 24. In al-Irshad of al-Daylami: He (S) would supplicate and say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا
-وَبَيْنَ مَعْصِيَـتِكَ، وَمِنْ طَاعَتِكَ مَا تُبَلِّغْـنَا بِهِ
-جَنَّتَكَ وَمِنَ الْيَقِينِ مَا يُهَوِّنُ عَلَيْـنَا مِنْ مَصَائِبِ
-الدُّنْـيَا، وَمَتِّعْـنَا بَأَسْمَاعِنَا وَأَبْصَارِنَا وَانْصُرْنَا
-عَلـى مَنْ عَادَانَا، وَلاَ تَجْعَلِ الدُّنْـيَا أَكْبَرَ هَمِّنَا،
-وَلاَ تُسَلِّطْ عَلَيْـنَا مَنْ لاَ يَرْحَمُنَا. أَللٌّهُمَّ لَكَ
-الْحَمْدُ وَإِلَيْكَ الْمُشْـتَكى وَأَنْتَ الْمُسْتَعَانُ، وَفِيمَا
-عِنْدَكَ مِنَ الرَّغْبَةِ وَلَدَيْكَ غَايَةُ الْطَّلِبَةِ. أَللٌّهُمَّ
-آمِنْ رَوْعَتِي وَاسْـتُرْ عَوْرَتِي. أَللٌّهُمَّ أَصْلِحْ دِينَـنَا
-الَّذِي هُوَ عِصْمَةُ أَمْرِنَا، وَأَصْلِحْ لَنَا دُنْـيَانَا الَّتِي
-فِيهَا مَعَاشُنَا، وَأَصْلِحْ آخِرَتَـنَا الَّتِي إِلَيْهَا
-مُنْقَـلَـبُنَا وَاجْعَلِ الْحَيَاةَ زِيَادَةً لَنَا فِي كُلِّ خَيْرٍ،
-وَالْوَفَاةَ رَاحَةً لَنَا مِنْ كُلِّ سُوءٍ. أَللٌّهُمَّ إِنَّا
-نَسْأَلُكَ مُوْجِـبَاتِ رَحْمَتِكَ وَعَزَائِمَ مَغْفِرَتِكَ
-وَالْغَنِيمَةَ مِنْ كُلِّ بِرٍّ وَالسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ، يَا
-مَوْضِعَ كُلِّ شَكْوى، وَشَاهِدَ كُلِّ نَجْوى، وَكَاشِفَ كُلِّ بَلْوى،
-فَإِنَّكَ تَرى وَلاَ تُرى، وَأَنْتَ بِالْمَـنْظَرِ الأَعَلـى.
-أَسْأَلُكَ الْجَنَّةَ وَمَا يُقَرِّبُ إِلَيْهَا مِنْ قَوْلٍ أَوْ
-فِعْلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا يُقَرِّبُ إِلَيْهَا مِنْ
-قَوْلٍ أَوْ فِعْلٍ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْخَيْرِ
-رِضْوَانَكَ وَالْجَنَّةَ، وَأَعُوذُ بِكَ مِنْ شِرِّ الشَّرِّ سَخَطُكَ
-وَالنَّارُ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ مَا تَعْلَمُ
-وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ، فَإِنَّكَ أَنْتَ عَلاَّمُ
-الْغُيُوبِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا
+> وَبَيْنَ مَعْصِيَـتِكَ، وَمِنْ طَاعَتِكَ مَا تُبَلِّغْـنَا بِهِ
+> جَنَّتَكَ وَمِنَ الْيَقِينِ مَا يُهَوِّنُ عَلَيْـنَا مِنْ مَصَائِبِ
+> الدُّنْـيَا، وَمَتِّعْـنَا بَأَسْمَاعِنَا وَأَبْصَارِنَا وَانْصُرْنَا
+> عَلـى مَنْ عَادَانَا، وَلاَ تَجْعَلِ الدُّنْـيَا أَكْبَرَ هَمِّنَا،
+> وَلاَ تُسَلِّطْ عَلَيْـنَا مَنْ لاَ يَرْحَمُنَا. أَللٌّهُمَّ لَكَ
+> الْحَمْدُ وَإِلَيْكَ الْمُشْـتَكى وَأَنْتَ الْمُسْتَعَانُ، وَفِيمَا
+> عِنْدَكَ مِنَ الرَّغْبَةِ وَلَدَيْكَ غَايَةُ الْطَّلِبَةِ. أَللٌّهُمَّ
+> آمِنْ رَوْعَتِي وَاسْـتُرْ عَوْرَتِي. أَللٌّهُمَّ أَصْلِحْ دِينَـنَا
+> الَّذِي هُوَ عِصْمَةُ أَمْرِنَا، وَأَصْلِحْ لَنَا دُنْـيَانَا الَّتِي
+> فِيهَا مَعَاشُنَا، وَأَصْلِحْ آخِرَتَـنَا الَّتِي إِلَيْهَا
+> مُنْقَـلَـبُنَا وَاجْعَلِ الْحَيَاةَ زِيَادَةً لَنَا فِي كُلِّ خَيْرٍ،
+> وَالْوَفَاةَ رَاحَةً لَنَا مِنْ كُلِّ سُوءٍ. أَللٌّهُمَّ إِنَّا
+> نَسْأَلُكَ مُوْجِـبَاتِ رَحْمَتِكَ وَعَزَائِمَ مَغْفِرَتِكَ
+> وَالْغَنِيمَةَ مِنْ كُلِّ بِرٍّ وَالسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ، يَا
+> مَوْضِعَ كُلِّ شَكْوى، وَشَاهِدَ كُلِّ نَجْوى، وَكَاشِفَ كُلِّ بَلْوى،
+> فَإِنَّكَ تَرى وَلاَ تُرى، وَأَنْتَ بِالْمَـنْظَرِ الأَعَلـى.
+> أَسْأَلُكَ الْجَنَّةَ وَمَا يُقَرِّبُ إِلَيْهَا مِنْ قَوْلٍ أَوْ
+> فِعْلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا يُقَرِّبُ إِلَيْهَا مِنْ
+> قَوْلٍ أَوْ فِعْلٍ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْخَيْرِ
+> رِضْوَانَكَ وَالْجَنَّةَ، وَأَعُوذُ بِكَ مِنْ شِرِّ الشَّرِّ سَخَطُكَ
+> وَالنَّارُ. أَللٌّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ مَا تَعْلَمُ
+> وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ، فَإِنَّكَ أَنْتَ عَلاَّمُ
+> الْغُيُوبِ.
 
 *“O Allah apportion for us from Your fear that which would remove us
 from Your disobedience, and (apportion for us) from Your obedience that
@@ -2340,25 +1984,17 @@ unseen.”*[^97]
 25. In Jami’ al-Akhbar: A supplication narrated from the Holy Prophet
 (S):
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُبِكَ مِنْ سُوءِ الْقَضَاءِ وَسُوءِ
-الْقَدَرِ، وَسُوءِ الْمَنْظَرِ فِي الأَهْلِ وَالْمَالِ وَالْوَلَدِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُبِكَ مِنْ سُوءِ الْقَضَاءِ وَسُوءِ
+> الْقَدَرِ، وَسُوءِ الْمَنْظَرِ فِي الأَهْلِ وَالْمَالِ وَالْوَلَدِ.
 
 *“O Allah! I seek Your protection from a bad fate and a bad destiny and
 a look that is harmful to my family, property and children.”*[^98]
 
 26. Also: From his (S) supplications:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غِنیً يُطْغِينِي، وَفَقْرٍ
-يُنْسِينِي، وَهَویً يُرْدِينِي، وَعَمَلٍ يُخْزِينِي، وَجَارٍ
-يُؤْذِينِي.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غِنیً يُطْغِينِي، وَفَقْرٍ
+> يُنْسِينِي، وَهَویً يُرْدِينِي، وَعَمَلٍ يُخْزِينِي، وَجَارٍ
+> يُؤْذِينِي.
 
 *“O Allah! I seek Your protection from wealth that causes me to
 transgress, and from poverty that makes me forget (Your bounties), and
@@ -2367,19 +2003,15 @@ from the neighbor who disturbs me.”*[^99]
 
 27. Also: From his (S) supplications:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اجْعَلْنَا مَشْغُولِينَ بِأَمْرِكَ، آمِنِينَ بِوَعْدِكَ،
-آيِسِينَ مِنْ خَلْقِكَ، آنِسِينَ بِكَ، مُسْـتَوْحِشِينَ مِنْ غَيْرِكَ،
-رَاضِينَ بِقَضَائِكَ، صَابِرِينَ عَلـى بَلاَئِكَ، شَاكِرِينَ عَلـى
-نِعْمَائِكَ، مُتَلَذِّذِينَ بِذِكْرِكَ، فَرِحِينَ بِكِتَابِكَ،
-مُنَاجِينَ إِيَّاكَ آنَاءَ اللَّيْلِ وَأَطْرَافَ النَّهَارِ،
-مُسْـتَعِدِّينَ لِلْمَوْتِ، مُشْتَاقِينَ إِلـى لِقَائِكَ، مُبْغِضِينَ
-لِلدُّنْيَا، مُحِبِّينَ لِلآخِرَةِ، وَآتِنَا مَا وَعَدْتَنَا عَلـى
-رُسُلِكَ، وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ
-الْمِيعَادِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اجْعَلْنَا مَشْغُولِينَ بِأَمْرِكَ، آمِنِينَ بِوَعْدِكَ،
+> آيِسِينَ مِنْ خَلْقِكَ، آنِسِينَ بِكَ، مُسْـتَوْحِشِينَ مِنْ غَيْرِكَ،
+> رَاضِينَ بِقَضَائِكَ، صَابِرِينَ عَلـى بَلاَئِكَ، شَاكِرِينَ عَلـى
+> نِعْمَائِكَ، مُتَلَذِّذِينَ بِذِكْرِكَ، فَرِحِينَ بِكِتَابِكَ،
+> مُنَاجِينَ إِيَّاكَ آنَاءَ اللَّيْلِ وَأَطْرَافَ النَّهَارِ،
+> مُسْـتَعِدِّينَ لِلْمَوْتِ، مُشْتَاقِينَ إِلـى لِقَائِكَ، مُبْغِضِينَ
+> لِلدُّنْيَا، مُحِبِّينَ لِلآخِرَةِ، وَآتِنَا مَا وَعَدْتَنَا عَلـى
+> رُسُلِكَ، وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ
+> الْمِيعَادِ.
 
 *“O Allah! Make us occupied in following Your commandments, trust in
 Your promise, lose hope in Your creation, become close with You, feel
@@ -2397,44 +2029,40 @@ came to the Noble Prophet (S) and said to him: “Your Lord says to you:
 If you wish to worship me in the day and night as I am worthy of being
 worshipped, then raise your hands to me and say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لَكَ الْحَمْدُ حَمْداً خَالِداً مَعَ خُلُودِكَ، وَلَكَ
-الْحَمْدُ حَمْداً لاَ مُنْـتَهى لَهُ دُونَ عِلْمِكَ، وَلَكَ الْحَمْدُ
-حَمْداً لاَ أَمَدَ لَهُ دُونَ مَشِيَّتِكَ، وَلَكَ الْحَمْدُ حَمْداً
-لاَ جَزَاءَ لِقَائِلِهِ إِلاَّ رِضَاكَ. أَللٌّهُمَّ لَكَ الْحَمْدُ
-كُلُّهُ وَلَكَ الْمَنُّ كُلُّهُ، وَلَكَ الْفَخْرُ كُلُّهُ، وَلَكَ
-الْبَهَاءُ كُلُّهُ، وَلَكَ النُّوْرُ كُلُّهُ، وَلَكَ الْعِزَّةُ
-كُلُّهَا، وَلَكَ الْجَبَرُوتُ كُلُّهَا، وَلَكَ الْعَظَمَةُ كُلُّهَا،
-وَلَكَ الدُّنْـيَا كُلُّهَا، وَلَكَ الآخِرَةُ كُلُّهَا، وَلَكَ
-اللَّيْلُ وَالنَّهَارُ كُلُّهُ، وَلَكَ الْخَلْقُ كُلُّهُ، وَبِيَدِكَ
-الْخَيْرُ كُلُّهُ، وَإِلَيْكَ يَرْجِعُ الأَمْرُ كُلُّهُ،
-عَلاَنِيَّتُهُ وَسِرُّهُ. أَللٌّهُمَّ لَكَ الْحَمْدُ حَمْداً أَبَداً،
-أَنْتَ حَسَنُ الْبَلاَءِ، جَلِيلُ الثَّنَاءِ، سَابِغُ النِّعْمَاءِ،
-عَدْلُ الْقَضَاءِ، جَزِيلُ الْعَطَاءِ، حَسَنُ الآلاَءِ، إِلٌهُ مَنْ
-فِي الأَرْضِ وِإِلٌهُ مَنْ فِي السَّمَاءِ. أَللٌّهُمَّ لَكَ الْحَمْدُ
-فِي السَّبْعِ الشِّدَادِ، وَلَكَ الْحَمْدُ فِي الأَرْضِ الْمِهَادِ،
-وَلَكَ الْحَمْدُ طَاقَةَ الْعِبَادِ، وَلَكَ الْحَمْدُ سَعَةَ
-الْبِلاَدِ، وَلَكَ الْحَمْدُ فِي الْجِبَالِ الأَوْتَادِ، وَلَكَ
-الْحَمْدُ فِي اللَّيْلِ إِذَا يَغْشى، وَلَكَ الْحَمْدُ فِي النَّهَارِ
-إِذَا تَجَلَّى، وَلَكَ الْحَمْدُ فِي الآخِرَةِ وَالأُوْلـى، وَلَكَ
-الْحَمْدُ فِي الْمَثَانِي وَالْقُرآنِ الْعَظِيمِ. وَسُبْحَانَ اللٌّهِ
-وَبِحَمْدِهِ وَالأَرْضُ جَمِيعاً قَبْضَـتُهُ يَوْمَ الْقِيَامَةِ
-وَالسَّمٌوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ، سُبْحَانَهُ وَتَعَالـى عَمَّا
-يُشْرِكُونَ، سُبْحَانَ اللٌّهِ وَبِحَمْدِهِ، كُلُّ شَيْءٍ هَالِكٌ
-إِلاَّ وَجْهَهُ. سُبْحَانَكَ رَبَّنَا وَتَعَالَيْتَ وَتَبَارَكْتَ
-وَتَقَدَّسْتَ، خَلَقْتَ كُلَّ شَيْءٍ بِقُدْرَتِكَ، وَقَهَرْتَ كُلَّ
-شَيْءٍ بِعِزَّتِكَ، وَعَلْوَتَ فَوْقَ كُلِّ شِيْءٍ بِإرْتِفَاعِكَ،
-وَغَلَبْتَ كُلَّ شَيْءٍ بِقُوَّتِكَ، وَابْـتَدَعْتَ كُلَّ شَيْءٍ
-بِحِكْمَتِكَ وَعِلْمِكَ، وَبَـعَـثْتَ الرُّسُلَ بِكُـتُبِكَ،
-وَهَدَيْتَ الصَّالِحِينَ بِإِذْنِكَ، وَأَيَّدْتَ الْمُؤْمِنِينَ
-بِنَصْرِكَ، وَقَهَرْتَ الْخَلْقَ بِسُلْطَانِكَ، لاَ إِلٌهَ إِلاَّ
-أَنْتَ، وَحْدَكَ لاَ شَرِيكَ لَكَ، لاَ نَعْـبُدُ غَيْرَكَ، وَلاَ
-نَسْأَلُ إِلاَّ إِيَّاكَ، وَلاَ نَرْغَبُ إِلاَّ إِلَيْكَ، أَنْتَ
-مَوْضِعُ شَكْوَانَا، وَمُنْتَهى رَغْبَـتِنَا، وَإِلٌهُنَا
-وَمَلِيكُنَا.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لَكَ الْحَمْدُ حَمْداً خَالِداً مَعَ خُلُودِكَ، وَلَكَ
+> الْحَمْدُ حَمْداً لاَ مُنْـتَهى لَهُ دُونَ عِلْمِكَ، وَلَكَ الْحَمْدُ
+> حَمْداً لاَ أَمَدَ لَهُ دُونَ مَشِيَّتِكَ، وَلَكَ الْحَمْدُ حَمْداً
+> لاَ جَزَاءَ لِقَائِلِهِ إِلاَّ رِضَاكَ. أَللٌّهُمَّ لَكَ الْحَمْدُ
+> كُلُّهُ وَلَكَ الْمَنُّ كُلُّهُ، وَلَكَ الْفَخْرُ كُلُّهُ، وَلَكَ
+> الْبَهَاءُ كُلُّهُ، وَلَكَ النُّوْرُ كُلُّهُ، وَلَكَ الْعِزَّةُ
+> كُلُّهَا، وَلَكَ الْجَبَرُوتُ كُلُّهَا، وَلَكَ الْعَظَمَةُ كُلُّهَا،
+> وَلَكَ الدُّنْـيَا كُلُّهَا، وَلَكَ الآخِرَةُ كُلُّهَا، وَلَكَ
+> اللَّيْلُ وَالنَّهَارُ كُلُّهُ، وَلَكَ الْخَلْقُ كُلُّهُ، وَبِيَدِكَ
+> الْخَيْرُ كُلُّهُ، وَإِلَيْكَ يَرْجِعُ الأَمْرُ كُلُّهُ،
+> عَلاَنِيَّتُهُ وَسِرُّهُ. أَللٌّهُمَّ لَكَ الْحَمْدُ حَمْداً أَبَداً،
+> أَنْتَ حَسَنُ الْبَلاَءِ، جَلِيلُ الثَّنَاءِ، سَابِغُ النِّعْمَاءِ،
+> عَدْلُ الْقَضَاءِ، جَزِيلُ الْعَطَاءِ، حَسَنُ الآلاَءِ، إِلٌهُ مَنْ
+> فِي الأَرْضِ وِإِلٌهُ مَنْ فِي السَّمَاءِ. أَللٌّهُمَّ لَكَ الْحَمْدُ
+> فِي السَّبْعِ الشِّدَادِ، وَلَكَ الْحَمْدُ فِي الأَرْضِ الْمِهَادِ،
+> وَلَكَ الْحَمْدُ طَاقَةَ الْعِبَادِ، وَلَكَ الْحَمْدُ سَعَةَ
+> الْبِلاَدِ، وَلَكَ الْحَمْدُ فِي الْجِبَالِ الأَوْتَادِ، وَلَكَ
+> الْحَمْدُ فِي اللَّيْلِ إِذَا يَغْشى، وَلَكَ الْحَمْدُ فِي النَّهَارِ
+> إِذَا تَجَلَّى، وَلَكَ الْحَمْدُ فِي الآخِرَةِ وَالأُوْلـى، وَلَكَ
+> الْحَمْدُ فِي الْمَثَانِي وَالْقُرآنِ الْعَظِيمِ. وَسُبْحَانَ اللٌّهِ
+> وَبِحَمْدِهِ وَالأَرْضُ جَمِيعاً قَبْضَـتُهُ يَوْمَ الْقِيَامَةِ
+> وَالسَّمٌوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ، سُبْحَانَهُ وَتَعَالـى عَمَّا
+> يُشْرِكُونَ، سُبْحَانَ اللٌّهِ وَبِحَمْدِهِ، كُلُّ شَيْءٍ هَالِكٌ
+> إِلاَّ وَجْهَهُ. سُبْحَانَكَ رَبَّنَا وَتَعَالَيْتَ وَتَبَارَكْتَ
+> وَتَقَدَّسْتَ، خَلَقْتَ كُلَّ شَيْءٍ بِقُدْرَتِكَ، وَقَهَرْتَ كُلَّ
+> شَيْءٍ بِعِزَّتِكَ، وَعَلْوَتَ فَوْقَ كُلِّ شِيْءٍ بِإرْتِفَاعِكَ،
+> وَغَلَبْتَ كُلَّ شَيْءٍ بِقُوَّتِكَ، وَابْـتَدَعْتَ كُلَّ شَيْءٍ
+> بِحِكْمَتِكَ وَعِلْمِكَ، وَبَـعَـثْتَ الرُّسُلَ بِكُـتُبِكَ،
+> وَهَدَيْتَ الصَّالِحِينَ بِإِذْنِكَ، وَأَيَّدْتَ الْمُؤْمِنِينَ
+> بِنَصْرِكَ، وَقَهَرْتَ الْخَلْقَ بِسُلْطَانِكَ، لاَ إِلٌهَ إِلاَّ
+> أَنْتَ، وَحْدَكَ لاَ شَرِيكَ لَكَ، لاَ نَعْـبُدُ غَيْرَكَ، وَلاَ
+> نَسْأَلُ إِلاَّ إِيَّاكَ، وَلاَ نَرْغَبُ إِلاَّ إِلَيْكَ، أَنْتَ
+> مَوْضِعُ شَكْوَانَا، وَمُنْتَهى رَغْبَـتِنَا، وَإِلٌهُنَا
+> وَمَلِيكُنَا.
 
 *“O Allah! All praise be to You – praise which is eternal with Your
 Everlastingness. All praise be to You – praise that is unending but by
@@ -2480,12 +2108,8 @@ and our Lord and our Master.”*[^101]
 fathers from ‘Ali (as) who said: When the tablecloth was laid in front
 of the Holy Prophet (S) he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اجْعَلْهَا نِعْمَةً مَحْصُورَةً مَشْكُورَةً مَوْصُولَةً
-بِالْجَنَّةِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اجْعَلْهَا نِعْمَةً مَحْصُورَةً مَشْكُورَةً مَوْصُولَةً
+> بِالْجَنَّةِ.
 
 *“O Allah! Make it a blessing that is limited, appreciated and linked to
 paradise.”*[^102]
@@ -2493,27 +2117,19 @@ paradise.”*[^102]
 30. In ‘Awarif al-Ma’arif: From al-’Irbas ibn Sariyah who said: The Holy
 Prophet (S) used to supplicate:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اجْعَلْ حُبَّكَ أَحَبُّ إِلَـيَّ مِنْ نَفْسِي وَسَمْعِي
-وَبَصَرِي وَأَهْلِي وَمَالِي وَمِنَ الْمَاءِ الْبَارِدِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اجْعَلْ حُبَّكَ أَحَبُّ إِلَـيَّ مِنْ نَفْسِي وَسَمْعِي
+> وَبَصَرِي وَأَهْلِي وَمَالِي وَمِنَ الْمَاءِ الْبَارِدِ.
 
 *“O Allah! Make Your love more beloved to me than my self, my hearing,
 my sight, my family, my wealth and cool water.”*[^103]
 
 31. In al-Faqih: The Holy Prophet (S) used to say in his du’a:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَلَدٍ يَكُونُ عَلَيَّ رِباًّ،
-وَمِنْ مَالٍ يَكُونُ عَلَيَّ ضِيَاعاً، وَمِنْ زَوْجَةٍ تُشَيِّبَنِي
-قَبْلَ أَوَانِ مَشِيبَتِي، وَمِنْ خَلِيلٍ مَاكِرٍ عَيْنَاهُ تَرَانِي
-وَقَلْـبُهُ يَرْعَانِي، إِنْ رَأى خَيْراً دَفَنَهُ، وَإِنْ رَأى شَرّاً
-أَذَاعَهُ، وَأَعُوذُ بِكَ مِنْ وَجْعِ الْبَطْنِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَلَدٍ يَكُونُ عَلَيَّ رِباًّ،
+> وَمِنْ مَالٍ يَكُونُ عَلَيَّ ضِيَاعاً، وَمِنْ زَوْجَةٍ تُشَيِّبَنِي
+> قَبْلَ أَوَانِ مَشِيبَتِي، وَمِنْ خَلِيلٍ مَاكِرٍ عَيْنَاهُ تَرَانِي
+> وَقَلْـبُهُ يَرْعَانِي، إِنْ رَأى خَيْراً دَفَنَهُ، وَإِنْ رَأى شَرّاً
+> أَذَاعَهُ، وَأَعُوذُ بِكَ مِنْ وَجْعِ الْبَطْنِ.
 
 *“O Allah! I seek Your protection from a son who subjugates me, and from
 wealth that is the cause of my ruin, and from the wife who makes me old
@@ -2526,15 +2142,11 @@ Note: al-Tabarsi has also narrated this in al-Makarim.[^105]
 
 32. In al-Muhaj: From the supplications of the Noble Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَفْتَقِرُ فِي غِنَاكَ، أَوْ
-أَضِلَّ فِي هُدَاكَ، أَوْ أَذِّلَ فِي عِزِّكَ، أَوْ أُضَامَ فِي
-سُلْطَانِكَ، أَوْ أَضْطَهِدَ وَالأَمْرُ إِلَيْكَ. أَللٌّهُمَّ إِنِّي
-أَعُوذُ بِكَ أَنْ أَقُولَ زُوراً، أَوْ أَغْشى فُجُوراً، أَوْ أَكُونَ
-بِكَ مَغْرُوراً.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَفْتَقِرُ فِي غِنَاكَ، أَوْ
+> أَضِلَّ فِي هُدَاكَ، أَوْ أَذِّلَ فِي عِزِّكَ، أَوْ أُضَامَ فِي
+> سُلْطَانِكَ، أَوْ أَضْطَهِدَ وَالأَمْرُ إِلَيْكَ. أَللٌّهُمَّ إِنِّي
+> أَعُوذُ بِكَ أَنْ أَقُولَ زُوراً، أَوْ أَغْشى فُجُوراً، أَوْ أَكُونَ
+> بِكَ مَغْرُوراً.
 
 *“O Allah! I seek Your protection from becoming poor in Your Wealth, or
 going astray in Your Guidance, or becoming abased in Your Exaltedness,
@@ -2549,35 +2161,23 @@ lies, or being immoral, or being arrogant in front of You”.*[^106]
 facing Bayt al-Maqdis; and he would not be seen until he had completed
 his prayer, and would be veiled by the verse:
 
-<blockquote dir="rtl">
-  <p>
- وَإِذَا قَرَأْتَ الْقُرَآنَ جَعَلْنَا بَيْـنَكَ وَبَيْنَ الَّذِينَ
-لاَ يُؤْمِنُونَ بِالآخِرَةِ حِجَاباً مَسْـتُوراً 
-  </p>
-</blockquote>
+>  وَإِذَا قَرَأْتَ الْقُرَآنَ جَعَلْنَا بَيْـنَكَ وَبَيْنَ الَّذِينَ
+> لاَ يُؤْمِنُونَ بِالآخِرَةِ حِجَاباً مَسْـتُوراً 
 
 ***“And when you recite the Qur’an we place between you and those who do
 not believe a hidden barrier”*** (Surat al-Isra\` (17): 45)
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
- أُُوْلٌئِكَ الَّذِينَ طَبَعَ اللٌّهُ عَلـى قُلُوبِهِمْ 
-  </p>
-</blockquote>
+>  أُُوْلٌئِكَ الَّذِينَ طَبَعَ اللٌّهُ عَلـى قُلُوبِهِمْ 
 
 ***“These are they on whose hearts Allah has set a seal”.***  
  ( Surat al-Nahl (16): 108, Surat Muhammad (47):16)
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
- وَجَعَلْنَا عَلـى قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي
-آذَانَهِمْ وَقْراً 
-  </p>
-</blockquote>
+>  وَجَعَلْنَا عَلـى قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي
+> آذَانَهِمْ وَقْراً 
 
 ***“And We have put coverings on their hearts and deafness in their ears
 lest they understand”.***  
@@ -2585,13 +2185,9 @@ lest they understand”.***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
- أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلٌهَهُ هَوَاهُ وَأَضَلَّهُ اللٌّهُ
-عَلـى عِلْمٍ وَخَتَمَ عَلـى سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلـى
-بَصَرِهِ غِشَاوَةً 
-  </p>
-</blockquote>
+>  أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلٌهَهُ هَوَاهُ وَأَضَلَّهُ اللٌّهُ
+> عَلـى عِلْمٍ وَخَتَمَ عَلـى سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلـى
+> بَصَرِهِ غِشَاوَةً 
 
 ***“Have you then considered him who takes his lowly desire for his god,
 Allah has left him astray having knowledge and has set a seal on his
@@ -2630,18 +2226,14 @@ said: ‘Ali ibn al-Husayn
 Sha’ban and on the eve of the fifteenth of the month; and he would send
 salutations on the Holy Prophet (S) thus:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، شَجَرَةِ
-النُّــبُوَّةِ وَمَوْضِعِ الرِّسَالَةِ ... وَهٌذَا شَهْرُ نَبِيِّكَ
-سَيِّدِ رُسُلِكَ صَلَوَاتُكَ عَلَيْهِ وَآلِهِ، شَعْبَانُ الَّذِي
-حَفَفْتَهُ مِنْكَ بِالرَّحْمَةِ وَالرِّضْوَانِ، الَّذِي كَانَ
-رَسُولُكَ صَلَوَاتُكَ عَلَيْهِ وَآلِهِ يَدْأَبُ فِي صِيَامِهِ
-وَقِيَامِهِ فِي لَيَالِيهِ وَأَيَّامِهِ بُخُوعاً لَكَ فِي إِكْرَامِهِ
-وَإِعْظَامِهِ إِلـى مَحَلِّ حِمَامِهِ. أَللٌّهُمَّ فَأَعِنَّا عَلـى
-الإِسْـتِنَانِ بِسُنَّتِهِ فِيهِ وَنَيْلِ الشَّفَاعَةِ لَدَيهِ...
-  </p>
-</blockquote>
+> أَللٌّهُمَّ صَلِّ عَلـى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، شَجَرَةِ
+> النُّــبُوَّةِ وَمَوْضِعِ الرِّسَالَةِ ... وَهٌذَا شَهْرُ نَبِيِّكَ
+> سَيِّدِ رُسُلِكَ صَلَوَاتُكَ عَلَيْهِ وَآلِهِ، شَعْبَانُ الَّذِي
+> حَفَفْتَهُ مِنْكَ بِالرَّحْمَةِ وَالرِّضْوَانِ، الَّذِي كَانَ
+> رَسُولُكَ صَلَوَاتُكَ عَلَيْهِ وَآلِهِ يَدْأَبُ فِي صِيَامِهِ
+> وَقِيَامِهِ فِي لَيَالِيهِ وَأَيَّامِهِ بُخُوعاً لَكَ فِي إِكْرَامِهِ
+> وَإِعْظَامِهِ إِلـى مَحَلِّ حِمَامِهِ. أَللٌّهُمَّ فَأَعِنَّا عَلـى
+> الإِسْـتِنَانِ بِسُنَّتِهِ فِيهِ وَنَيْلِ الشَّفَاعَةِ لَدَيهِ...
 
 *“O Allah! Bless Muhammad and the progeny of Muhammad, the evergreen
 tree of prophethood, the destination of the Divine Message ... and this
@@ -2658,13 +2250,9 @@ be blessed: ‘Ata’ was questioned about the meaning of the saying of the
 Holy Prophet (S): “The best du’a is my du’a and the du’a of the prophets
 before me, and it is:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إِلٌهَ إِلاَّ اللٌّهُ وَحْدَهُ وَحْدَهُ وَحْدَهُ، لاَ شَرِيكَ
-لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ
-لاَ يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ.
-  </p>
-</blockquote>
+> لاَ إِلٌهَ إِلاَّ اللٌّهُ وَحْدَهُ وَحْدَهُ وَحْدَهُ، لاَ شَرِيكَ
+> لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ
+> لاَ يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ.
 
 *“There is no god but Allah, alone, alone, alone, having no partners,
 His is the kingdom and for Him is all praise, He gives life and death;
@@ -2679,15 +2267,11 @@ and praise.[^115]
 39. In al-Bihar, from Aman al-Akhtar: It is narrated that when the Holy
 Prophet (S) would burn incense he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ لِلٌّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ.
-أَللٌّهُمَّ طَيِّبْ عُرْفَنَا، وَزَكِّ رَوَائِحَنَا، وَأَحْسِنْ
-مُنْقَلَبَنَا، وَاجْعَلِ التَّقْوى زَادَنَا، وَالْجَنَّةَ مَعَادَنَا،
-وَلاَ تُفَرِّقْ بَيْـنَنَا وَبَيْنَ عَافِـيَـتِنَا إِيَّانَا
-وَكَرَامَتِكَ لَنَا إِنَّكَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ.
-  </p>
-</blockquote>
+> أَلْحَمْدُ لِلٌّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ.
+> أَللٌّهُمَّ طَيِّبْ عُرْفَنَا، وَزَكِّ رَوَائِحَنَا، وَأَحْسِنْ
+> مُنْقَلَبَنَا، وَاجْعَلِ التَّقْوى زَادَنَا، وَالْجَنَّةَ مَعَادَنَا،
+> وَلاَ تُفَرِّقْ بَيْـنَنَا وَبَيْنَ عَافِـيَـتِنَا إِيَّانَا
+> وَكَرَامَتِكَ لَنَا إِنَّكَ عَلـى كُلِّ شَيْءٍ قَدِيرٌ.
 
 *“All praise is due to Allah, the One by whose blessing all virtues are
 complete. O Allah! Make our scent pleasant, and increase our fragrance,
@@ -2726,13 +2310,9 @@ Prophet (S) used to end his gatherings with du’a.[^122]
 44. Also: When he (S) had completed his talk and wanted to stand up from
 where he was sitting, he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اغْفِرْلَنَا مَا أَخْطَأْنَا وَمَا تَعَمَّدْنَا وَمَا
-أَسْرَرْنَا وَمَا أَنْتَ أَعْلَمُ بِهِ مِنَّا، أَنْتَ الْمُقَدِّمُ
-وَأَنْتَ الْمُؤَخِّرُ لاَ إِلٌهَ إِلاَّ أَنْتَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اغْفِرْلَنَا مَا أَخْطَأْنَا وَمَا تَعَمَّدْنَا وَمَا
+> أَسْرَرْنَا وَمَا أَنْتَ أَعْلَمُ بِهِ مِنَّا، أَنْتَ الْمُقَدِّمُ
+> وَأَنْتَ الْمُؤَخِّرُ لاَ إِلٌهَ إِلاَّ أَنْتَ.
 
 *“O Allah! Forgive us for what we did by mistake and what we did on
 purpose, and what we concealed and what You know more of than us, You
@@ -2741,11 +2321,7 @@ are the Foremost and You are the Last, there is no god but You.”*[^123]
 45. In al-Durr al-Manthur: From Umm Salamah that the Holy Prophet (S)
 would frequently say in his du’a:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ مُقَلِّبَ الْقُلُوبِ ثَـبِّتْ قَلْبِي عَلـى دِينِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ مُقَلِّبَ الْقُلُوبِ ثَـبِّتْ قَلْبِي عَلـى دِينِكَ.
 
 *“O Allah - the Transformer of hearts! Make my heart steadfast on Your
 religion”.*
@@ -2758,23 +2334,15 @@ upright and if He willed he would make it deviate.”[^124]
 46. In Majma’ al-Bayan: And when he (S) heard the sound of thunder he
 said:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَهُ مِنْهُ يُسَبِّحُ الرَّعْدَ بِحَمْدِهِ.
-  </p>
-</blockquote>
+> سُبْحَانَهُ مِنْهُ يُسَبِّحُ الرَّعْدَ بِحَمْدِهِ.
 
 *“Praise be to Him – the thunder declares His glory.”*[^125]
 
 47. Also: Salim ibn ‘Abdillah narrates from his father who said:
 Whenever the Noble Prophet (S) heard thunder and thunderbolts he said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ لاَ تَقْـتُلْنَا بِغَضَبِكَ، وَلاَ تُهْلِكْنَا
-بِعَذَابِكَ، وَعَافِنَا قَبْلَ ذٌلِكَ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ لاَ تَقْـتُلْنَا بِغَضَبِكَ، وَلاَ تُهْلِكْنَا
+> بِعَذَابِكَ، وَعَافِنَا قَبْلَ ذٌلِكَ.
 
 *“O Allah! Do not kill us with Your wrath, and do not destroy us with
 Your punishment, and grant us amnesty before that.”*[^126]
@@ -2786,21 +2354,13 @@ of chastisement.[^127]
 49. In the Amali of Shaykh Tusi: When the Holy Prophet (S) saw a dark
 cloud, he would leave everything and say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهِ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهِ.
 
 *“O Allah! I seek Your protection from any evil that is in it.”*
 
 And if it passed he would praise Allah, and if it rained he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ نَاشِئاً نَافِعاً.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ نَاشِئاً نَافِعاً.
 
 *“O Allah! Make it a beneficial cloud.”*[^128]
 
@@ -2811,11 +2371,7 @@ Allah from its evil.[^129]
 51. In al-Bihar: When the Holy Prophet (S) saw that the wind had become
 strong he would say:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ اجْعَلْهَا رِيَاحاً وَلاَ تَجْعَلْهَا رِيْحاً.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ اجْعَلْهَا رِيَاحاً وَلاَ تَجْعَلْهَا رِيْحاً.
 
 *“O Allah! Make it (from the other) winds and do not make it (the
 destructive) wind.”*[^130]
@@ -2824,14 +2380,10 @@ destructive) wind.”*[^130]
 Jibra’il said: “O Prophet of Allah! Know that I have not loved any
 prophet as much as I love you, so say frequently:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنَّكَ تَرى وَلاَ تُرى، وَأَنْتَ بِالْمَنْظَرِ الأَعَلـى،
-وَأَنَّ إِلَيْكَ الْمُنْـتَهى وَالرُّجْعى، وَأَنَّ لَكَ الآخِرَةَ
-وَالأُولـى، وَأَنَّ لَكَ الْمَمَاتَ وَالْمَحْـيَا، رَبِّ أَعُوذُ بِكَ
-أَنْ أَذِلَّ وَأَخْزى.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنَّكَ تَرى وَلاَ تُرى، وَأَنْتَ بِالْمَنْظَرِ الأَعَلـى،
+> وَأَنَّ إِلَيْكَ الْمُنْـتَهى وَالرُّجْعى، وَأَنَّ لَكَ الآخِرَةَ
+> وَالأُولـى، وَأَنَّ لَكَ الْمَمَاتَ وَالْمَحْـيَا، رَبِّ أَعُوذُ بِكَ
+> أَنْ أَذِلَّ وَأَخْزى.
 
 *“O Allah! You see but cannot be seen, and You are at the highest
 viewpoint, and to You is the final destination and return, and Yours are
@@ -3114,5 +2666,4 @@ al-Kafi 8:109
 [^130]: Bihar al-Anwar 60:17
 
 [^131]: Muhaj al-Da’awat: 172, Bihar al-Anwar 94:268
-
 

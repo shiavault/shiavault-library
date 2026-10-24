@@ -29,9 +29,7 @@ etc. In this case, shouldn’t she be the dear of Allah?
 The Prophet (peace be upon him and his descendants) knows her as a part
 of his body and soul, as he says,
 
-<p dir="rtl">
 بضعة منه و روحة اللذي بين جنبيه
-</p>
 
 In the age of Ignorance and the hard times of his Prophethood, she was
 as a mother to her father in Mecca. She cleansed the thorns and dust
@@ -83,5 +81,4 @@ consisted of wooden and earthen bowls, but their soul bowls were full of
 grandeur and overfilled with cordiality and affection. Their bed clothes
 were shorter than their height, but they were full of faith, sympathy,
 unanimity, purity, and understanding.
-
 

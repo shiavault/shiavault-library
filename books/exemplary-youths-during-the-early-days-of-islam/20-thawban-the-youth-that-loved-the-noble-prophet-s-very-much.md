@@ -49,4 +49,3 @@ idol-worship and was the best creation of Allah in all respects.
 Al-Isābah, vol. 1, p. 212; Majma‘ al-Bayān, vol. 1, p. 258; Zarkulī,
 Al-A‘lām, vol. 2, p. 102; Tārīkh-e Payāmbar-e Islām, p. 201.
 
-

@@ -66,9 +66,7 @@ tablet was from Allah’s side for His Prophet (s.a.). Initially, some
 reminders regarding divine recognition are given and thereafter Allah
 the Almighty says,
 
-<p dir="rtl">
 .« ... إني لَم أَبع.ث نبياً ... إلّا ج.ع.لت. لَه. و.صيا »
-</p>
 
 “Surely I did not raise a Prophet but that I appointed for him a
 successor.. I have selected your cousin, Ali Ibn Abi Talib as your heir
@@ -94,14 +92,12 @@ The alphabets (huruf-e-muqatteaat) are used because in that period it
 was prohibited to take the name of Imam-e-Zaman (a.t.f.s.). Now, the
 tablet continues,
 
-<p dir="rtl">
 عليه كَمالُ موسي و ب.ها عيسي و ص.برْ إيوب فَي.ذَلُّ أوليائي في زمانِهِ
 فَي.قتلون و ي.حرقون و ي.كونون » خائِفين م.رعوبينُ وجِلينُ, تُصب.غُ
 الأرض. بِدمائِهم و ي.فشو الو.يلُ و الرنه في نِسائهِم, اولئك. أَوليائي
 حقّا. بِهم أدفَع. كلَّ فِتنُه ع.مياء حِندسٍ و بهِم أكشِف. الزّلازِلَ و
 أدفع. الآصار. و الأغلال, اُولئك. ع.ليهم .« ص.لوات مِن ربهم و ر.حمه و
 اولئك هم. الم.هتدون
-</p>
 
 “He possesses the perfection of Musa, the brightness of Eesa and the
 patience of Ayyub. My friends will be degraded in his time (of
@@ -140,11 +136,9 @@ When people objected at him for signing the peace treaty with Muaviyah,
 Imam Hasan al-Mujtaba (a.s.) justified his action in the following
 words,
 
-<p dir="rtl">
 أما علِمتُم أنّه ما مِنّا أحد. إلّا و ي.قَع. في ع.نقِه ب.يعه. لِطاغيهِ
 ز.مانهِ, اِلّا القائم. الّذي ي.صلّي روح اللّه » .« . عيسي بنْ مريم
 خَلفه
-</p>
 
 “Do you not know that each one of us (Imams) has to wear the allegiance
 of the tyrant of his time around his neck, except the Qaem, behind whom
@@ -177,10 +171,8 @@ no end and has indeed made me restless because I could not follow its
 meaning?” Imam Baqer (a.s.) asked, “Which is that verse?” Umme Haani
 responded,
 
-<p dir="rtl">
 .« . فلا أقسم. بِالخُنّس . الج.وارِ الكُنّس . و اللَّيلِ اِذا ع.سعس. .
 و الص.بحِ اِذا تَنفّس »
-</p>
 
 But nay! I swear by the stars, That run their course (and) hide
 themselves, And the night when it departs, And the morning when it
@@ -225,9 +217,7 @@ during ayyaam albeedh22. After seeking permission from the Imams (a.s.),
 he began reciting his poems depicting the oppression inflicted on the
 Ahle Bait (a.s.) till he reached the following verse:
 
-<p dir="rtl">
 م.تي يقوم الحق فيكم متي يقوم مهديكم الثاني
-</p>
 
 “When will the truth rise among you, when Will the second Mahdi from
 you, rise.” Hearing this couplet, Imam (a.s.) retorted, “Soon, if Allah
@@ -250,14 +240,12 @@ Imam Reza (a.s.) too has posted numerous reminders on this subject.
 Among these is the invocation that he has recommended to be read in the
 qunoot of every Friday prayer.24 It is as follows:
 
-<p dir="rtl">
 اللّهم أصلِح ع.بدك و خَليفَت ك بِما أصلَحت بِهِ أنبيائك. و رسلك و. حفّه
 بملائكتك. و أيده. بروح » القدس من عندك و ر.سلكه مِن بينِ يديهِ و مِن
 خلفِهِ رصداً يحفظونه. مِن كلِّ سو.ءٍ و أبدِله. مِن بعد خوفِهِ أمناً
 يعب.د.ك لا ي.شرك. بِك شيئاً و لا تجعل لِأحدٍ مِن خلقِك علي وليك س.لطاناً
 و أذَن لَه. في .« جِهاد عدوك و عدوهِ وِ اجعلني مِن إنصارِهِ, إنَّك علي
 كلِّ شي ءٍ قديرّ
-</p>
 
 “As we reach to the eras of the last Imams (a.s.), viz. Hazrat Jawaad
 (a.s.), Hazrat Hadi (a.s.) and Hazrat Askari (a.s.), we observe that
@@ -272,5 +260,4 @@ present books of traditions, notwithstanding the reality that many
 traditions have not reached unto us.
 
 24 Jamaal
-
 

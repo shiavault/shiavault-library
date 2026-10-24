@@ -56,4 +56,3 @@ journey. Humble and of high morals, her main concern was to strive to
 please Allah and in doing so she avoided anything which was the least
 bit doubtful. 
 
-

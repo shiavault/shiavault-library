@@ -123,4 +123,3 @@ thinkers can deeply meditate.
 **S** The degree carries the following title: “There is no creator, but
 God”
 
-

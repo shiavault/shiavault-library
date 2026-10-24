@@ -167,4 +167,3 @@ contempt." This sacred tradition will later be explained, so wait. There
 are many such traditions, and what we have stated must suffice and serve
 the memory.
 
-

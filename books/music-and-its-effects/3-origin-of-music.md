@@ -32,4 +32,3 @@ lowers the ethical values.
 
 [^1]: Wasael-us-Shia; Babu Tahrim-e-Istimal-il-Malahi.
 
-

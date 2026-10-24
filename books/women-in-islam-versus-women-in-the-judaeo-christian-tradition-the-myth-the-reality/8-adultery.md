@@ -84,4 +84,3 @@ Feminist Perspective (New York: Harper & Row Publishers, 1990) pp.
 
 [^2]: Swidler, op. cit. p. 141.
 
-

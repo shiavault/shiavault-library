@@ -15,4 +15,3 @@ Arthur ever existed, though most now accept that the legend is*very*
 loosely based on a real historical figure; he may have been a 5th or 6th
 century ruler name Arturus or Riothamus.
 
-

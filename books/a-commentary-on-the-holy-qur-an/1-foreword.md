@@ -26,9 +26,7 @@ the propagation of the faith is highly appreciated and honoured.
 S.S.S.R.
 19 May 1996 1 Muharram 1417 30th Urdi Bahesht 1375
 
-
 **Introduction**
-
 
 **The Age of Rapid Change**
 
@@ -97,5 +95,4 @@ While these hostile elements continue to distort our religious belief
 and social traditions, it is our duty to God and His Word, and to the
 faith of Islam, to present the truth and make it clear to every true
 seeker and to dispel any doubts created by hostile forces.
-
 

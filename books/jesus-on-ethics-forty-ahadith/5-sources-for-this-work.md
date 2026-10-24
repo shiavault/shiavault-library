@@ -133,4 +133,3 @@ Tashshayyu’, 1373 A.H. /1994 C.E.), Page 169.
 
 [^4]: Tuhaf al-’Uqul, Page 392
 
-

@@ -6,17 +6,9 @@ Sermon 2: I praise Allah seeking completion of His Blessing...
 Arabia before proclamation of Prophethood
 -----------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له ( عليه السلام) بعد انصرافه من صفين
-  </p>
-</blockquote>
+> ومن خطبة له ( عليه السلام) بعد انصرافه من صفين
 
-<blockquote dir="rtl">
-  <p>
-وفيها حال الناس قبل البعثة وصفة آل النبي ثمّ صفة قوم آخرين:
-  </p>
-</blockquote>
+> وفيها حال الناس قبل البعثة وصفة آل النبي ثمّ صفة قوم آخرين:
 
 I praise Allah seeking completion of His Blessing, submitting to His
 Glory and expecting safety from committing His sins. I invoke His help
@@ -25,15 +17,11 @@ not go astray, He with whom He is hostile gets no protection. He whom He
 supports does not remain needy. Praise is most weighty of all that is
 weighed and the most valuable of all that is treasured.
 
-<blockquote dir="rtl">
-  <p>
-أحْمَدُهُ اسْتِتْماماً لِنِعْمَتِهِ، وَاسْتِسْلاَماً لِعِزَّتِهِ،
-واسْتِعْصَاماً مِنْ مَعْصِيَتِهِ، وَأَسْتَعِينُهُ فَاقَةً إِلى
-كِفَايَتِهِ، إِنَّهُ لاَ يَضِلُّ مَنْ هَدَاهُ، وَلا يَئِلُ مَنْ
-عَادَاهُ، وَلا يَفْتَقِرُ مَنْ كَفَاهُ; فَإِنَّهُ أَرْجَحُ ما وُزِنَ،
-وَأَفْضَلُ مَا خُزِنَ.
-  </p>
-</blockquote>
+> أحْمَدُهُ اسْتِتْماماً لِنِعْمَتِهِ، وَاسْتِسْلاَماً لِعِزَّتِهِ،
+> واسْتِعْصَاماً مِنْ مَعْصِيَتِهِ، وَأَسْتَعِينُهُ فَاقَةً إِلى
+> كِفَايَتِهِ، إِنَّهُ لاَ يَضِلُّ مَنْ هَدَاهُ، وَلا يَئِلُ مَنْ
+> عَادَاهُ، وَلا يَفْتَقِرُ مَنْ كَفَاهُ; فَإِنَّهُ أَرْجَحُ ما وُزِنَ،
+> وَأَفْضَلُ مَا خُزِنَ.
 
 I stand witness that there is no god but Allah the One. He has no like.
 My testimony has been tested in its frankness, and its essence is our
@@ -42,15 +30,11 @@ for facing the tribulations that overtake us because it is the
 foundation stone of Belief *(iman)* and the first step towards good
 actions and Divine pleasure. It is the means to keep Satan away.
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ، شَهَادَةً مُمْتَحَناً
-إِخْلاَصُهَا، مُعْتَقَداً مُصَاصُهَا، نَتَمَسَّكُ بها أَبَداً ما
-أَبْقانَا، وَنَدَّخِرُهَا لاِهَاوِيلِ مَا يَلْقَانَا، فَإِنَّها
-عَزيمَةُ الاْيمَانِ، وَفَاتِحَةُ الاْحْسَانِ، وَمَرْضَاةُ الرَّحْمنِ،
-وَمَدْحَرَةُ الشَّيْطَانِ.
-  </p>
-</blockquote>
+> وَأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ، شَهَادَةً مُمْتَحَناً
+> إِخْلاَصُهَا، مُعْتَقَداً مُصَاصُهَا، نَتَمَسَّكُ بها أَبَداً ما
+> أَبْقانَا، وَنَدَّخِرُهَا لاِهَاوِيلِ مَا يَلْقَانَا، فَإِنَّها
+> عَزيمَةُ الاْيمَانِ، وَفَاتِحَةُ الاْحْسَانِ، وَمَرْضَاةُ الرَّحْمنِ،
+> وَمَدْحَرَةُ الشَّيْطَانِ.
 
 I also stand witness that Muhammad (S) is His slave and His Prophet.
 Allah sent him with the illustrious religion, effective emblem, written
@@ -62,18 +46,14 @@ belief had been shaken, principles had been sacrileged, system had
 become topsy turvy, openings were narrow, passage was dark, guidance was
 unknown and darkness prevailed.
 
-<blockquote dir="rtl">
-  <p>
-وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، أرْسَلَهُ بِالدِّينِ
-المشْهُورِ، وَالعَلَمِ المأْثُورِ، وَالكِتَابِ المسْطُورِ، وَالنُّورِ
-السَّاطِعِ، وَالضِّيَاءِ اللاَّمِعِ، وَالاَمْرِ الصَّادِعِ، إزَاحَةً
-لِلشُّبُهَاتِ، وَاحْتِجَاجاً بِالبَيِّنَاتِ، وَتَحْذِيراً بِالايَاتِ،
-وَتَخْويفاً بِالمَثُلاَتِ، وَالنَّاسُ في فِتَن انْجَذَمَ فِيها حَبْلُ
-الدِّينِ، وَتَزَعْزَعَتْ سَوَارِي اليَقِينِ، وَاخْتَلَفَ النَّجْرُ،
-وَتَشَتَّتَ الاْمْرُ، وَضَاقَ الْـمَخْرَجُ، وَعَمِيَ المَصْدَرُ،
-فَالهُدَى خَامِلٌ، واَلعَمَى شَامِلٌ.
-  </p>
-</blockquote>
+> وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، أرْسَلَهُ بِالدِّينِ
+> المشْهُورِ، وَالعَلَمِ المأْثُورِ، وَالكِتَابِ المسْطُورِ، وَالنُّورِ
+> السَّاطِعِ، وَالضِّيَاءِ اللاَّمِعِ، وَالاَمْرِ الصَّادِعِ، إزَاحَةً
+> لِلشُّبُهَاتِ، وَاحْتِجَاجاً بِالبَيِّنَاتِ، وَتَحْذِيراً بِالايَاتِ،
+> وَتَخْويفاً بِالمَثُلاَتِ، وَالنَّاسُ في فِتَن انْجَذَمَ فِيها حَبْلُ
+> الدِّينِ، وَتَزَعْزَعَتْ سَوَارِي اليَقِينِ، وَاخْتَلَفَ النَّجْرُ،
+> وَتَشَتَّتَ الاْمْرُ، وَضَاقَ الْـمَخْرَجُ، وَعَمِيَ المَصْدَرُ،
+> فَالهُدَى خَامِلٌ، واَلعَمَى شَامِلٌ.
 
 Allah was being disobeyed, Satan was given support and Belief had been
 forsaken. As a result the pillars of religion fell down, its traces
@@ -89,72 +69,44 @@ for antimony they had tears in the eyes. They were in a land where the
 learned were in bridle (keeping their mouths shut) while the ignorant
 were honoured.
 
-<blockquote dir="rtl">
-  <p>
-عُصِيَ الرَّحْمنُ، وَنُصِرَ الشَّيْطَانُ، وَخُذِلَ الاِْيمَانُ،
-فَانْهَارَتْ دَعَائِمُهُ، وَتَنكَّرَتْ مَعَالِمُهُ، وَدَرَسَتْ
-سُبُلُهُ، وَعَفَتْ شُرُكُهُ.
-  </p>
-</blockquote>
+> عُصِيَ الرَّحْمنُ، وَنُصِرَ الشَّيْطَانُ، وَخُذِلَ الاِْيمَانُ،
+> فَانْهَارَتْ دَعَائِمُهُ، وَتَنكَّرَتْ مَعَالِمُهُ، وَدَرَسَتْ
+> سُبُلُهُ، وَعَفَتْ شُرُكُهُ.
 
-<blockquote dir="rtl">
-  <p>
-أَطَاعُوا الشَّيْطَانَ فَسَلَكُوا مَسَالِكَهُ، وَوَرَدُوا مَنَاهِلَهُ،
-بِهِمْ سَارَتْ أَعْلامُهُ، وَقَامَ لِوَاؤُهُ، في فِتَن دَاسَتْهُمْ
-بِأَخْفَافِهَا، وَوَطِئَتْهُمْ بأَظْلاَفِهَا وَقَامَتْ عَلَى
-سَنَابِكِهَا، فَهُمْ فِيهَا تَائِهُونَ حَائِرونَ جَاهِلُونَ
-مَفْتُونُونَ، في خَيْرِ دَار، وَشَرِّ جِيرَان، نَوْمُهُمْ سُهُودٌ،
-وَكُحْلُهُمْ دُمُوعٌ، بأَرْض عَالِمُها مُلْجَمٌ، وَجَاهِلُها مُكْرَمٌ.
-  </p>
-</blockquote>
+> أَطَاعُوا الشَّيْطَانَ فَسَلَكُوا مَسَالِكَهُ، وَوَرَدُوا مَنَاهِلَهُ،
+> بِهِمْ سَارَتْ أَعْلامُهُ، وَقَامَ لِوَاؤُهُ، في فِتَن دَاسَتْهُمْ
+> بِأَخْفَافِهَا، وَوَطِئَتْهُمْ بأَظْلاَفِهَا وَقَامَتْ عَلَى
+> سَنَابِكِهَا، فَهُمْ فِيهَا تَائِهُونَ حَائِرونَ جَاهِلُونَ
+> مَفْتُونُونَ، في خَيْرِ دَار، وَشَرِّ جِيرَان، نَوْمُهُمْ سُهُودٌ،
+> وَكُحْلُهُمْ دُمُوعٌ، بأَرْض عَالِمُها مُلْجَمٌ، وَجَاهِلُها مُكْرَمٌ.
 
 In the same sermon Amir al-mu’minin referred to Al an-Nabi (the Household of the Holy Prophet) as under
 -------------------------------------------------------------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ومنها: ويعني آل النبي ( صلى الله عليه وآله وسلم)
-  </p>
-</blockquote>
+> ومنها: ويعني آل النبي ( صلى الله عليه وآله وسلم)
 
 They are the trustees of His secrets, shelter for His affairs, source of
 knowledge about Him, centre of His wisdom, valleys for His books and
 mountains of His religion. With them Allah straightened the bend of
 religion’s back and removed the trembling of its limbs.
 
-<blockquote dir="rtl">
-  <p>
-هُمْ مَوْضِعُ سِرِّهِ، وَلَجَأُ أَمْرِهِ، وَعَيْبَةُ عِلْمِهِ،
-وَمَوْئِلُ حُكْمِهِ، وَكُهُوفُ كُتُبِهِ، وَجِبَالُ دِينِه، بِهِمْ
-أَقَامَ انْحِناءَ ظَهْرِهِ، وَأذْهَبَ ارْتِعَادَ فَرَائِصِهِ.
-  </p>
-</blockquote>
+> هُمْ مَوْضِعُ سِرِّهِ، وَلَجَأُ أَمْرِهِ، وَعَيْبَةُ عِلْمِهِ،
+> وَمَوْئِلُ حُكْمِهِ، وَكُهُوفُ كُتُبِهِ، وَجِبَالُ دِينِه، بِهِمْ
+> أَقَامَ انْحِناءَ ظَهْرِهِ، وَأذْهَبَ ارْتِعَادَ فَرَائِصِهِ.
 
 In the same Sermon he spoke about the hypocrites
 ------------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-منها: يعني بها قوماً آخرين
-  </p>
-</blockquote>
+> منها: يعني بها قوماً آخرين
 
 They sowed vices, watered them with deception and harvested destruction.
 
-<blockquote dir="rtl">
-  <p>
-زَرَعُوا الفُجُورَ، وَسَقَوْهُ الغُرُورَ، وَحَصَدُوا الثُّبُورَ ،
-  </p>
-</blockquote>
+> زَرَعُوا الفُجُورَ، وَسَقَوْهُ الغُرُورَ، وَحَصَدُوا الثُّبُورَ ،
 
 Ali Muhammad
 ------------
 
-<blockquote dir="rtl">
-  <p>
-آل محمد (عليه السلام)
-  </p>
-</blockquote>
+> آل محمد (عليه السلام)
 
 None in the Islamic community can be taken at par with the Progeny[^3]
 of the Prophet (Ali Muhammad). One who was under their obligation cannot
@@ -165,21 +117,13 @@ vicegerency. In their favour exists the will and succession (of the
 Prophet). This is the time when right has returned to its owner and
 diverted to its centre of return.
 
-<blockquote dir="rtl">
-  <p>
-لا يُقَاسُ بِآلِ مُحَمَّد (عليهم السلام) مِنْ هذِهِ الاُمَّةِ أَحَدٌ،
-وَلا يُسَوَّى بِهِمْ مَنْ جَرَتْ نِعْمَتُهُمْ عَلَيْهِ أبَداً.
-  </p>
-</blockquote>
+> لا يُقَاسُ بِآلِ مُحَمَّد (عليهم السلام) مِنْ هذِهِ الاُمَّةِ أَحَدٌ،
+> وَلا يُسَوَّى بِهِمْ مَنْ جَرَتْ نِعْمَتُهُمْ عَلَيْهِ أبَداً.
 
-<blockquote dir="rtl">
-  <p>
-هُمْ أَسَاسُ الدِّينِ، وَعِمَادُ اليَقِينِ، إِلَيْهمْ يَفِيءُ الغَالي،
-وَبِهِمْ يَلْحَقُ التَّالي، وَلَهُمْ خَصَائِصُ حَقِّ الوِلايَةِ،
-وَفِيهِمُ الوَصِيَّةُ وَالوِرَاثَةُ، الاْنَ إِذْ رَجَعَ الحَقُّ إِلَى
-أَهْلِهِ، وَنُقِلَ إِلَى مُنْتَقَلِهِ.
-  </p>
-</blockquote>
+> هُمْ أَسَاسُ الدِّينِ، وَعِمَادُ اليَقِينِ، إِلَيْهمْ يَفِيءُ الغَالي،
+> وَبِهِمْ يَلْحَقُ التَّالي، وَلَهُمْ خَصَائِصُ حَقِّ الوِلايَةِ،
+> وَفِيهِمُ الوَصِيَّةُ وَالوِرَاثَةُ، الاْنَ إِذْ رَجَعَ الحَقُّ إِلَى
+> أَهْلِهِ، وَنُقِلَ إِلَى مُنْتَقَلِهِ.
 
 Alternative Sources for Sermon 2
 --------------------------------
@@ -241,5 +185,4 @@ property nor in knowledge because this was not an occasion to mention it
 here but it must mean the succession in the right leadership which stood
 proved as from Allah not only on the ground of kinship but on the ground
 of qualities of perfection.
-
 

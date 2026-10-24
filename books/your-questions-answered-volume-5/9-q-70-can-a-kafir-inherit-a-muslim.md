@@ -169,4 +169,3 @@ allowed in Islam?
 
 A. No. Vasectomy is not allowed.
 
-

@@ -4,28 +4,16 @@ Sermon 235: I began following the path….
 *In this sermon Amir al-mu'minin has related his own condition after the
 Prophet's migration till his meeting with him.* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-اقتصّ فيه ذكر ما كان منه بعد هجرة النبي(صلى الله عليه وآله) ثم لحاقه
-به
-  </p>
-</blockquote>
+> اقتصّ فيه ذكر ما كان منه بعد هجرة النبي(صلى الله عليه وآله) ثم لحاقه
+> به
 
 I began following the path adopted by the Prophet and treading on the
 lines of his remembrance till I reached al-\`Arj.
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلْتُ أَتْبَعُ مَأْخَذَ رَسُولِ الله (صلى الله عليه وآله)
-فَأَطَأُ ذِكْرَهُ، حَتَّى انْتَهَيْتُ إِلَى الْعَرَجِ.
-  </p>
-</blockquote>
+> فَجَعَلْتُ أَتْبَعُ مَأْخَذَ رَسُولِ الله (صلى الله عليه وآله)
+> فَأَطَأُ ذِكْرَهُ، حَتَّى انْتَهَيْتُ إِلَى الْعَرَجِ.
 
 **As-Sayyid ar-Radi** says: Amir al-mu'minin's words *"faata'u
 dhikrahu"* constitute the highest forms of brevity and eloquence. He
@@ -33,14 +21,10 @@ means to say that he was being given news about the Prophet from the
 commencement of his setting out till he reached this place, and he has
 expressed this sense in this wonderful expression.
 
-<blockquote dir="rtl">
-  <p>
-قال السيد الشريف رضي الله عته في حديث طويل: فقوله (عليه السلام):
-«فَأطَأُ ذِكْرَهُ»، من الكلام الذي رُمِيَ به إلى غايتي والفصاحة
-والايجاز، وأراد أني كنتُ أُعْطي خبره(عليه السلام) من بدء خروجي إلى أن
-انتهيتُ إلى هذا الموضع، وكنّى عن ذلك بهذه الكناية العجيبة.
-  </p>
-</blockquote>
+> قال السيد الشريف رضي الله عته في حديث طويل: فقوله (عليه السلام):
+> «فَأطَأُ ذِكْرَهُ»، من الكلام الذي رُمِيَ به إلى غايتي والفصاحة
+> والايجاز، وأراد أني كنتُ أُعْطي خبره(عليه السلام) من بدء خروجي إلى أن
+> انتهيتُ إلى هذا الموضع، وكنّى عن ذلك بهذه الكناية العجيبة.
 
 Alternative Sources for Sermon 235
 ----------------------------------
@@ -97,5 +81,4 @@ Hisham, as-Sirah, vol. 2, pp. 124-128; Ibn al-Athir, Usd al-ghabah, vol.
 pp. 302-303; at-Tarikh, vol. 3, pp. 180-181; Ibn Abi'l-Hadid, vol. 13,
 pp. 303-306; as-Suyuti, ad-Durr al-manthur, vol. 3, pp. 179-180;
 al-\`Allamah al-Majlisi, Bihar al-anwar, vol. 19, pp. 28-103).
-
 

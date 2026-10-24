@@ -28,4 +28,3 @@ All refused and said:
 *We'll sacrifice our lives, money, and families to defend you against
 the enemies! We'll stand by you!*
 
-

@@ -201,7 +201,6 @@ Al-Nahshali's troops were late to arrive. The man was so shocked at the
 news of the martyrdom of Imam Hussein (a.s.) that he died. He had missed
 the opportunity to help the grandson of Prophet Muhammad (s.a.w.).
 
-
 **Kufans' Regression**
 
 At first, the authorities of the Ummayyad party were panic stricken at
@@ -349,5 +348,4 @@ movement was lost by the martyrdom of Muslim and Hani, two of its
 greatest field leaders in Iraq. Kufa was humiliated with defeat and the
 darkness of terror descended on it. The tyrants seized control of the
 lives of the people.
-
 

@@ -245,7 +245,6 @@ code.
 
 \*\*\*
 
-
 **A Flower Flourish and Blooms In a Heap Of Dirt The Second
 Mu'awiyah**
 
@@ -353,7 +352,6 @@ and the next.'' The slave - girl's words affected the heart of Yazid's
 son and consequently he abandoned the sultanate and delivered himself of
 its heavy responsibilities and Allah's punishment in the next word.
 
-
 **Abe Al-Malil**
 
 After the downfall of the hated dynast of Abu Sufyan, it was the Marwan
@@ -395,5 +393,4 @@ crocodile. It is for this reason that people are reminded of lizards at
 the mention of any of the Banu Umayyah family.
 
 \*\*\*\*
-
 

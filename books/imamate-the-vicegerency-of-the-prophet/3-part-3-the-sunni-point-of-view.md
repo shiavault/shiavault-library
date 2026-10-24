@@ -1106,4 +1106,3 @@ of Islam. (pub)
 
 [^43]: Sedillot, L.P.E.A., Histoire des Arabes, (Arabic tr.), pp.126-7.]
 
-

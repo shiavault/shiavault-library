@@ -40,4 +40,3 @@ ghusl, what is the ruling for her?
 **Ans:** In such a case her Hajj was invalid and as a penalty she has to
 sacrifice a camel.
 
-

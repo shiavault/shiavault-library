@@ -23,4 +23,3 @@ sixth Imam Ja’far Al-Sadiq, he himself time and again declared that he
 was not Mahdi the awaited one. The qualities of Mahdi he had repeatedly
 disclosed.
 
-

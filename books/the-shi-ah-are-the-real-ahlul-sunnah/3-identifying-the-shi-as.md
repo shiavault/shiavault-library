@@ -247,4 +247,3 @@ continuing their research to discover the truth.
 [^3]: As did, indeed, happen to the author of this book and to many
 others. \_\_ Tr.
 
-

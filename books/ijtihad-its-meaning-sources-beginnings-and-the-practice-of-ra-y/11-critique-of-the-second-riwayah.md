@@ -363,4 +363,3 @@ II, 627; Abu al-Fida', Ta'rikh, 158.
 published in the Persian bimonthly journal Kayhan-e Andisheh No. 9,
 Adhar & Day) and is second of a series of articles by the author.
 
-

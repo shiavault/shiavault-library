@@ -4,12 +4,8 @@ Section 7: The Sincere Seekers Shall Be Guided Aright
 Surah Al-‘Ankabut - Verse 64
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَآ إِلاَّ لَهْوٌ وَلَعِبٌ وَإِنَّ
-الدَّارَ الأَخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا هَذِهِ الْحَيَاةُ الدُّنْيَآ إِلاَّ لَهْوٌ وَلَعِبٌ وَإِنَّ
+> الدَّارَ الأَخِرَةَ لَهِيَ الْحَيَوَانُ لَوْ كَانُوا يَعْلَمُونَ
 
 ***64. “And this life of the world is nothing but a sport and a play and
 verily the abode of the hereafter, is certainly the (real) life: did
@@ -81,12 +77,8 @@ noble values of his own self for them.
 Surah Al-‘Ankabut - Verse 65
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
-الدّ‌ِينَ فَلَمَّا نَجَّاهُمْ إِلَي الْبَرّ‌ِ إِذَا هُمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
+> الدّ‌ِينَ فَلَمَّا نَجَّاهُمْ إِلَي الْبَرّ‌ِ إِذَا هُمْ يُشْرِكُونَ
 
 ***65. “So when they ride in the ships, they call upon Allah sincerely
 vowing worship (only) unto Him, and when He brings them safe to the
@@ -169,12 +161,8 @@ deliverer and succours and where there is no helper.”*[^2]
 Surah Al-‘Ankabut - Verse 66
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَكْفُرُوا بِمَآ ءَاتَيْنَاهُمْ وَلِيَتَمَتَّعُوا فَسَوْفَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> لِيَكْفُرُوا بِمَآ ءَاتَيْنَاهُمْ وَلِيَتَمَتَّعُوا فَسَوْفَ
+> يَعْلَمُونَ
 
 ***66. “(Thus) let them be ungrateful for what We have given them and
 let them enjoy, but they shall soon know.”***
@@ -245,13 +233,9 @@ and with some comprehensive words.
 Surah Al-‘Ankabut - Verse 67
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَماً ءَامِناً وَيُتَخَطَّفُ
-النَّاسُ مِنْ حَوْلِهِمْ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ
-اللَّهِ يَكْفُرُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَماً ءَامِناً وَيُتَخَطَّفُ
+> النَّاسُ مِنْ حَوْلِهِمْ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ
+> اللَّهِ يَكْفُرُونَ
 
 ***67. “Have they not seen that We have appointed a sanctuary secure,
 while the people are snatched away from all around them? Will they still
@@ -283,13 +267,9 @@ some pagans and unbelievers?
 Surah Al-‘Ankabut - Verse 68
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَي عَلَي اللَّهِ كَذِباً أَوْ كَذَّبَ
-بِالْحَقّ‌ِ لَمَّا جَآءَهُ أَلَيْسَ فِي جَهَنَّمَ مَثْوًي
-لِلْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَي عَلَي اللَّهِ كَذِباً أَوْ كَذَّبَ
+> بِالْحَقّ‌ِ لَمَّا جَآءَهُ أَلَيْسَ فِي جَهَنَّمَ مَثْوًي
+> لِلْكَافِرِينَ
 
 ***68. “And who is more unjust than one who forges a lie against Allah,
 or belies the truth when it has come to him? Is there not a home in Hell
@@ -343,12 +323,8 @@ in them.[^5]
 Surah Al-‘Ankabut - Verse 69
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وإِنَّ
-اللَّهَ لَمَعَ الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وإِنَّ
+> اللَّهَ لَمَعَ الْمُـحْسِنِينَ
 
 ***69. “And those who strive hard for Us, We will certainly guide them
 in Our ways, and verily Allah is with the good-doers.”***
@@ -531,5 +507,4 @@ the cover of Your guidance in our whole lifetime!*
 
 [^5]: Some other explanations are mentioned in the commentary of Surah
 Al-’An‘am, No. 6, verse 21
-
 

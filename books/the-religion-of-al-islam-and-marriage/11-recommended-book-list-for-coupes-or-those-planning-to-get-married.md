@@ -41,4 +41,3 @@ format from [www.al-haqq.com](http://www.al-haqq.com) or
 Additional copies of this booklet can be acquired from the Islamic
 Humanitarian Service **head office.**
 
-

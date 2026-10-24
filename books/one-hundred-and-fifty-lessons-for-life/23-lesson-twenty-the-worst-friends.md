@@ -3,11 +3,7 @@ Lesson Twenty: The Worst Friends
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"شَرُّ إخْوانِكَ مَنْ داهَنَكَ فى نَفْسِكَ وَ ساتَرَكَ عَيْبَك"
-  </p>
-</blockquote>
+> "شَرُّ إخْوانِكَ مَنْ داهَنَكَ فى نَفْسِكَ وَ ساتَرَكَ عَيْبَك"
 
 Translation
 -----------
@@ -27,5 +23,4 @@ They have also committed a great treachery that may cause serious damage
 to the prestige, reputation, honor and prosperity of their friend.
 
 [^1]: Ghurar al-Hakam
-
 

@@ -554,4 +554,3 @@ relates this sentence to 'Umar.
 
 [^10]: Sirah al-Halabiyyah, vol. 3, p. 400.
 
-

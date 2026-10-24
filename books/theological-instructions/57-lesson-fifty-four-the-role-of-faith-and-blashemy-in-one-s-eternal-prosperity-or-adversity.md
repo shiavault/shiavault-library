@@ -242,4 +242,3 @@ adversity, and explain the reason behind it.
 7. Discuss the Qur’anic evidence representing such an effect (Question 6
 above).
 
-

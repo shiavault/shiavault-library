@@ -256,4 +256,3 @@ Questions to ask yourself
 
 5. What is the leadership of the religious jurisprudent?
 
-

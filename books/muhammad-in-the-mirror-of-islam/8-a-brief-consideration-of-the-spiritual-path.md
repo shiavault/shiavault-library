@@ -122,4 +122,3 @@ are identical with the Essence Itself.
 ***"Say: Allah is the Creator of all things, and He is the One, the
 Almighty." (Qur’an 13:16).***
 
-

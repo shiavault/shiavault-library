@@ -211,12 +211,7 @@ and that if we need to be killed to keep our honour and dignity (just as
 Imam Husayn did), then so be it. After all, Sayyid ash-Shuhada (as) has
 told us that:
 
-<blockquote dir="rtl">
-  <p>
-مَوْتٌ فِي عِزٍّ خَيرٌ مِنْ حَيَاةٍ فِي ذُلٍّ
-  </p>
-</blockquote>
+> مَوْتٌ فِي عِزٍّ خَيرٌ مِنْ حَيَاةٍ فِي ذُلٍّ
 
 “A death in dignity is better than a life in humiliation.”
-
 

@@ -8,11 +8,7 @@ Surah Falaq, Chapter 113
 Contents and Virtue of the Surah
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -109,43 +105,19 @@ soul, mind, belief and actions with the content of the Surah.
 Surah Falaq, Verses 1-5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
-  </p>
-</blockquote>
+> قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
 
-<blockquote dir="rtl">
-  <p>
-مِن شَرِّ مَا خَلَقَ
-  </p>
-</blockquote>
+> مِن شَرِّ مَا خَلَقَ
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
-  </p>
-</blockquote>
+> وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
-  </p>
-</blockquote>
+> وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
 
-<blockquote dir="rtl">
-  <p>
-وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
-  </p>
-</blockquote>
+> وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
 ***1. “Say: I take refuge with the Lord of the dawn,"***  
 ***2. “From the evil of what He has created,"***  
@@ -421,5 +393,4 @@ discouraged in the Holy Qur'an
 [^9]: Bihar-ul-Anwar. vol. 73. p. 237
 
 [^10]: Ibid.
-
 

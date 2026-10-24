@@ -1239,4 +1239,3 @@ their opponents as calling them as such.
 al-Mu'min, 40:23-44, Surah Taha, 20:49-71, Surah al-Shu'ara, 26:16-49
 and Surah al-Qasas, 28:36-39.
 
-

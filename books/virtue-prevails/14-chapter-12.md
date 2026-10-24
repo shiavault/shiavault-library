@@ -58,4 +58,3 @@ at the park. As she had predicted, Hamid thought her cousin was very
 beautiful, and he assumed that the man who had been with her at the
 airport was her boyfriend.
 
-

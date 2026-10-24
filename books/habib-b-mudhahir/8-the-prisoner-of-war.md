@@ -28,4 +28,3 @@ Then he said to him:
 Thus Imam Husayn's companions preferred death with him to life with the
 unjust.
 
-

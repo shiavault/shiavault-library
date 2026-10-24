@@ -1,20 +1,12 @@
 The Twenty Seventh Talk
 =======================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
-مِنْهُمُ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ إِلَّا عِبَادَكَ
+> مِنْهُمُ الْمُخْلَصِينَ
 
 ***He said: Then by Thy Might I will surely make them live an evil life,
 all, Except Thy servants from among them, the purified ones.*** ***(Sura
@@ -28,12 +20,8 @@ gold that is only gold and nothing other than that. It has not been
 alloyed with copper or any other metal. Or pure milk that has been
 described in the Holy Qur’an thus,
 
-<blockquote dir="rtl">
-  <p>
-مِّمَّا فِي بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا
-سَآئِغًا لِلشَّارِبِينَ
-  </p>
-</blockquote>
+> مِّمَّا فِي بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا
+> سَآئِغًا لِلشَّارِبِينَ
 
 ***..We gave you to drink of that which is in their bellies, from
 betwixt the refuse and the blood, pure milk, palatable to the
@@ -258,5 +246,4 @@ reflections of the heart of a person who has sincerity of purpose
 There is neither any worldly desire in these words nor is the craving
 for name and fame. They knew it fully well that Martyrdom was fated for
 them!
-
 

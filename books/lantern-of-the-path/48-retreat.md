@@ -28,4 +28,3 @@ evil and rest for the heart. There is no prophet nor regent (wasi) who
 has not chosen retreat in his lifetime, either at his beginning or at
 his end.
 
-

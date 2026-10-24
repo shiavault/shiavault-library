@@ -34,4 +34,3 @@ He made people eager to start the revolution.
 
 Poets urged Abid al-Rahman to go on revolting to end persecution.
 
-

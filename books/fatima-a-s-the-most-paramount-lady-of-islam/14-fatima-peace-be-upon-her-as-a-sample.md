@@ -10,4 +10,3 @@ provide the ground for presenting a complete sample of herself by means
 of self-construction. Therefore, why don’t we choose Fatima (peace be
 upon her) as sample?
 
-

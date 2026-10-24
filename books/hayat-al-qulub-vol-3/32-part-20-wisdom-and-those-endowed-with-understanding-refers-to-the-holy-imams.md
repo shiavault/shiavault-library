@@ -7,11 +7,7 @@ Wisdom and ‘those endowed with understanding’ refers to the Holy Imams
 Ali Ibne Ibrahim has narrated from Imam Sadiq (a.s.) on the explanation
 of:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا.
-  </p>
-</blockquote>
+> وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا.
 
 ***…and whoever is granted wisdom, he indeed is given a great good…
 (Surah Baqarah 2:269)***
@@ -36,11 +32,7 @@ In *Basairud Darajat,* *Tafsir* of Ibne Mahyar and *Manaqib* of Ibne
 Shahr Aashob there is a tradition from Imam Sadiq (a.s.) when asked
 about the explanation of:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لَآيَاتٍ لِأُوْلِي النُّهَى.
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لَآيَاتٍ لِأُوْلِي النُّهَى.
 
 ***…most surely there are signs in this for those endowed with
 understanding. (Surah Taha 20:54)***
@@ -72,5 +64,4 @@ Then we will propagate with the sword of religion and call the people
 towards Him. This time we will fight the last time with sword in the
 same way as the Holy Prophet (S) fought with the sword after making them
 aware about Allah at the onset.
-
 

@@ -92,7 +92,6 @@ invites emotions to help and fill the gap. As adult, he is likely to
 make worse decisions for himself more through emotions than reasoning.
 The road to hell in this life is paved with emotional decisions!
 
-
 **2- Treat the Child as an Adult
 **
 A child on his first day in the school leaves his desk, walks to his
@@ -203,5 +202,4 @@ accepted. " (17: 19).
 It is reported that in a community of boat people somewhere in a Far
 East jungle, children are let into the water and learn to float, like
 adults, even before they can walk!
-
 

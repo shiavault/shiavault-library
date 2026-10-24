@@ -34,4 +34,3 @@ case whoever is in doubt will follow the one who is sure.
  6. Doubt during a *sunnat* (non-obligatory) prayer, or in *Salat
 al-ihtiyat*.
 
-

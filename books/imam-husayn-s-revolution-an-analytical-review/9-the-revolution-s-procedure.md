@@ -59,4 +59,3 @@ Thus Imam Husayn and his Companions set an ever-shining torch of Jihad
 against deviation from Islamic conduct and smashed the myth of the
 Umayyads, of keeping allegiance to deviated regimes.
 
-

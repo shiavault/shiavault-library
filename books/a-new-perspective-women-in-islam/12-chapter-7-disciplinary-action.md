@@ -139,4 +139,3 @@ for fornication and adultery is equal concerning men and women.
 
 [^7]: Qur’an, 4:15-16.
 
-

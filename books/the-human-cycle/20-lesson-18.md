@@ -105,4 +105,3 @@ Fire.”*** *(**Qur’an (66:6)**).*
 Allah (the All-Powerful) is always in the picture. He is integral to
 everything and continually sustains us and the Universe.
 
-

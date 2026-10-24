@@ -18,12 +18,8 @@ prophethood.
 
 The Holy Prophet (s.a.w.s.) had already prophesied about this:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يَغِيْبُ عَنْهُمْ اِمَامُهُمْ مَآ شَآءَ اللهُ وَ يَكُوْنُ لَه
-غَيْبَتَانِ…
-  </p>
-</blockquote>
+> ثُمَّ يَغِيْبُ عَنْهُمْ اِمَامُهُمْ مَآ شَآءَ اللهُ وَ يَكُوْنُ لَه
+> غَيْبَتَانِ…
 
 *‘Then till Allah desires, their Imam will be hidden from them and he
 will have two occultations...’*[^1]
@@ -286,5 +282,4 @@ Zaman (a.t.f.s.)
 
 [^7]: Peeramun Zindagi al-Nawwaab al-Khassa al-Imam al-Zaman (a.s.), p.
 84
-
 

@@ -6,9 +6,7 @@ Khum after his return from Hajjat-ul-wadā‘ to Medina, and surrounded by
 the Companions (RA), he declared while raising the hand of ‘Alī
 al-Murtadā (SAW):
 
-<p dir="rtl">
 مَنْ كُنتُ مَولاهُ فعَلِيٌّ مَولاهُ
-</p>
 
 ***One who has me as his master has ‘Alī as his master***
 
@@ -83,14 +81,12 @@ up as:
 Shāh Walī Allāh (رحمة الله تعالى عليه) has commented on this division of
 legacy in the following words:
 
-<p dir="rtl">
 پس وارث آنحضرت هم بسه قسم منقسم اند، فوراثه الذين أخذوا الحكمة و العصمة
 و القطبية الباطنية، هم أهل بيته و خاصته، و وراثه الذين أخذوا الحفظ و
 التلقين و القطبية الظاهرة الإرشادية، هم أصحابه الكبار كالخلفاء الأربعة و
 سائر العشرة، و وراثه الذين أخذوا العنايات الجزئية و التقوى و العلم، هم
 أصحابه الذين لحقوا بإحسان كأنس و أبي هريرة و غيرهم من المتأخرين، فهذه
 ثلاثة مراتب متفرعة من كمال خاتم الرسل صلى الله عليه وآله وسلم
-</p>
 
 People who have received the Prophet’s legacy are of three kinds: ‘The
 first kind is of those who received wisdom, virtuousness and inner
@@ -231,35 +227,26 @@ as the opener of the spiritual kingdom.
 
 Shāh Walī Allāh (رحمة الله تعالى عليه) says:
 
-<p dir="rtl">
 و فاتحِ اَوّل اَزين اُمت مرحومه حضرت على مرتضى است كرم الله تعالى وجهه
-</p>
 
 In this Ummah the first person to open the door of spiritual dominion is
 ‘Alī al-Murtadā (كرم الله تعالى وجهه).
 
-<p dir="rtl">
 و سِر حضرت اَمير كرم الله وجهه در اولاد كرام ايشان رضي الله عنهم سرايت
 كرد
-</p>
 
 The secret of spiritual dominion of the leader permeated his progeny.
 
-<p dir="rtl">
 چنانكه كسى اَز اولياء امت نيست الا بخاندانِ مرتضى رضي الله عنه مرتبط است
 بوجهى اَز وجوه
-</p>
 
 Therefore, not a single saint is found in the Ummah who is not directly
 or indirectly indebted to the spiritual leadership of ‘Alī ((AS) to
 attain spiritual leadership).
 
-<p dir="rtl">
 و اَز اُمت آنحضرت صلى الله عليه وآله وسلم اَوّل كسيكه فاتح باب جذب شده
 است، و دران جا قدم نهاده است حضرت امير المؤمنين على كرم الله وجهه، و
 لهذا سلاسل طرق بدان جانب راجع ميشوند
-</p>
-
 
 The first person in the Prophet’s Ummah who opened the ecstasy gate of
 spiritual sovereignty and who stepped (firstly) on to this elevated spot
@@ -300,7 +287,6 @@ spiritual sovereignty.
 The words of Shaykh Ahmad Sarhandī (رحمة الله تعالى عليه) appropriately
 highlight the point:
 
-<p dir="rtl">
 و راهى است كه بقرب ولايت تعلق دارد: اقطاب و اوتاد و بدلاء و نجباء و عامه
 اولياء الله، به همين راه واصل اندراه سلوك عبارت ازين راه است بلكه جذبه
 متعارفه، نيز داخل همين است و توسط و حيلولت درين راه كانن است و پيشواى، و
@@ -318,7 +304,6 @@ highlight the point:
 اين بزرگواران بوده و بحيلولة ايشانان هر چند اقطاب و نجباى وقت بوده
 باشند، و ملاذ و ملجاء همه ايشان روده اند چه اطراف را غير از لحوق بمركز
 چاره نيست.
-</p>
 
 And there is another way close to the spiritual sovereignty and this is
 the way of the saints and the general friends of Allāh, and this way is
@@ -384,5 +369,4 @@ guidance.
 Muhammad Tahir-ul-Qadri
 
 **One of the servants of Prophet’s Family**
-
 

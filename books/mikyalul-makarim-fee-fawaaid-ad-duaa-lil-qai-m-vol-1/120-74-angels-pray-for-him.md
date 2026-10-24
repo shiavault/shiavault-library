@@ -60,4 +60,3 @@ our master, the Master of the Time (aj) in his occultation, whose
 
 [^4]: Wasailush Shia, Vol. 4, Pg. 1147
 
-

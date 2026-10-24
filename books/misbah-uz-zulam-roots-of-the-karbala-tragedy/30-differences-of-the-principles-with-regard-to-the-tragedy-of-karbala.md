@@ -14,4 +14,3 @@ of Caliphate, because the incident of Karbala’ has a definite connection
 with the matter of Caliphate and some basic principles are related to
 this problem.
 
-

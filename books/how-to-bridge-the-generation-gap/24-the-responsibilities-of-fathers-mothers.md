@@ -37,4 +37,3 @@ be involved. In this way, they will learn from their parent's past
 experiences. Of course, their involvement should not be detrimental to
 the children's independent personality or to their confidence building.
 
-

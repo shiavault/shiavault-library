@@ -784,4 +784,3 @@ Bahman, *Post-Revolution Persian Verse*, Aligarh, 1955; Ambikaprasad
 Vajpeyi, *Persian Influence on Hindi*, Calcutta, 1936; Hadi Hassan,
 *Studies in Persian Literature*, Aligarh, 1924.
 
-

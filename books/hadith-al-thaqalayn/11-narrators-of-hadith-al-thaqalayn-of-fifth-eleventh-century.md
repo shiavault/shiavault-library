@@ -175,4 +175,3 @@ al-­Waffi bi al-­Wafayat, iv, 317.
 
 [^15]: Wafayat al-a\`yan, ii, 380.
 
-

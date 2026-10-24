@@ -151,9 +151,9 @@ Hail, O Love that bringest us good again -Thou that art the physician
 of all our ills,The remedy of our pride and vainglory,Our Plato and our
 Galen! (transl. Nicholson, bk.1, 1.23)
 
-[^6] From Vahshi Kirmani, Iranian poet (991/1583)
-[^7] Hafiz
-[^8] \`Al'amah Taba'taba'i
-[^9] Rumi, Mathnavi
+[^6]: From Vahshi Kirmani, Iranian poet (991/1583)
+[^7]: Hafiz
+[^8]: \`Al'amah Taba'taba'i
+[^9]: Rumi, Mathnavi
 [^10] Adapted from Nicholson's translation of Rumi, Mathnavi, bk. 1
 

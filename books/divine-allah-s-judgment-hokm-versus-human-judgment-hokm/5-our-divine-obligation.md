@@ -86,4 +86,3 @@ reference to man:
 And if man is unjust even to himself in most cases, then how can he be
 just with the others?!
 
-

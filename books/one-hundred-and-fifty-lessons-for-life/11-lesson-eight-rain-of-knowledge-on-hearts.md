@@ -3,12 +3,8 @@ Lesson Eight: Rain of Knowledge On Hearts
 
 Luqman, the wise, said:
 
-<blockquote dir="rtl">
-  <p>
-"يا بُنَىَّ إنَّ اللّه يُحْيِى الْقُلُوبَ بِنُورِ الْحِكْمَةِ كَما
-يُحْيِى الأرضَ بِوابِلِ السّماءِ"
-  </p>
-</blockquote>
+> "يا بُنَىَّ إنَّ اللّه يُحْيِى الْقُلُوبَ بِنُورِ الْحِكْمَةِ كَما
+> يُحْيِى الأرضَ بِوابِلِ السّماءِ"
 
 Translation
 -----------
@@ -29,5 +25,4 @@ fruit, and they are dead. We should always, and in all conditions, keep
 alive our souls with the light of knowledge.
 
 [^1]: from Bihar al-Anwar, volume one
-
 

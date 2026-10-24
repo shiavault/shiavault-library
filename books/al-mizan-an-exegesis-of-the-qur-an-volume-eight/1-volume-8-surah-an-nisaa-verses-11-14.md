@@ -380,4 +380,3 @@ reward of obeying Allah and His Messenger in this respect, and the
 abasing everlasting chastisement for him who disobeys Allah and His
 Messenger.
 
-

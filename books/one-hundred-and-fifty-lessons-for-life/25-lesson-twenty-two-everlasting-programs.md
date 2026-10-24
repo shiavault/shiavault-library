@@ -3,12 +3,8 @@ Lesson twenty two: Everlasting Programs
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"إنَّ اللّه لَمْ يَبْعَثْ نَبِيّاً إلاّ بِصِدقِ الْحَدِيثِ وَ أَداءِ
-الأَمانَةِ"
-  </p>
-</blockquote>
+> "إنَّ اللّه لَمْ يَبْعَثْ نَبِيّاً إلاّ بِصِدقِ الْحَدِيثِ وَ أَداءِ
+> الأَمانَةِ"
 
 Translation
 -----------
@@ -34,5 +30,4 @@ This is the reason why invitation to honesty and trust has always been
 included in programs of all the divine prophets.
 
 [^1]: Safinat’ul-Bihar
-
 

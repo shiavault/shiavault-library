@@ -308,4 +308,3 @@ doubt about this that those who are governing this system have very
 clear intentions to take this nation away from religion and establish an
 aversion to Islamic values in the society.
 
-

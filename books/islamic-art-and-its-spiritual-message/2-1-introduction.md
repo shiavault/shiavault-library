@@ -46,4 +46,3 @@ astonishing aptitude to characterize a religious subject matter or
 communication all the way through painting or other art-forms or
 art-techniques.
 
-

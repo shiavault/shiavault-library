@@ -38,4 +38,3 @@ organization as a system chosen by God for all the human family.
 This briefly sums up this discussion and its subject-matters. The
 details of these researches and subject-matters follow.
 
-

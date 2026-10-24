@@ -10,11 +10,7 @@ Surah al-Rahman, Chapter 55, Verses 1 - 32
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -90,25 +86,13 @@ Divine Majesty and Glory.
 Surah al-Rahman - Verses 1-2
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمَنُ
-  </p>
-</blockquote>
+> الرَّحْمَنُ
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَ الْقُرْآنَ
-  </p>
-</blockquote>
+> عَلَّمَ الْقُرْآنَ
 
 ***1. The Most Gracious [Allah]!***  
 ***2. He taught the Qur’an.***
@@ -258,11 +242,7 @@ Messenger, the Noble Prophet of Islam (S).
 Surah al-Rahman - Verse 3
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الْإِنسَانَ
-  </p>
-</blockquote>
+> خَلَقَ الْإِنسَانَ
 
 ***3. He created man.***
 
@@ -301,11 +281,7 @@ every man reflects a version of this great and vast world!
 Surah al-Rahman - Verse 4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَهُ الْبَيَانَ
-  </p>
-</blockquote>
+> عَلَّمَهُ الْبَيَانَ
 
 ***4. He taught him speech.***
 
@@ -388,11 +364,7 @@ Blessings.
 Surah al-Rahman - Verse 5
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ
-  </p>
-</blockquote>
+> الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ
 
 ***5. The sun and the moon follow their measured out calculation.***
 
@@ -442,11 +414,7 @@ does the night outstrip the day. They all float, each in an orbit.").***
 Surah al-Rahman - Verse 6
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ
-  </p>
-</blockquote>
+> وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ
 
 ***6. And the plants and the trees both prostrate themselves to Him.***
 
@@ -481,17 +449,9 @@ blessed Verse.
 Surah al-Rahman - Verse 7-8
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاء رَفَعَهَا وَوَضَعَ الْمِيزَانَ
-  </p>
-</blockquote>
+> وَالسَّمَاء رَفَعَهَا وَوَضَعَ الْمِيزَانَ
 
-<blockquote dir="rtl">
-  <p>
-ألَآ تَطْغَوْا فِي الْمِيزَانِ
-  </p>
-</blockquote>
+> ألَآ تَطْغَوْا فِي الْمِيزَانِ
 
 ***7. And the heaven: He raised it high, and He set up two
 Balances.***  
@@ -556,11 +516,7 @@ all the same everywhere.
 Surah al-Rahman - Verse 9
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَآ تُخْسِرُوا الْمِيزَانَ
-  </p>
-</blockquote>
+> وَأقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَآ تُخْسِرُوا الْمِيزَانَ
 
 ***9. And observe the weight with equity and do not make the balance
 deficient.***
@@ -636,17 +592,9 @@ commerce, and transactions are all Divine Bounties.
 Surah al-Rahman - Verse 10-11
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالْأرْضَ وَضَعَهَا لِلْأنَامِ
-  </p>
-</blockquote>
+> وَالْأرْضَ وَضَعَهَا لِلْأنَامِ
 
-<blockquote dir="rtl">
-  <p>
-فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأكْمَامِ
-  </p>
-</blockquote>
+> فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأكْمَامِ
 
 ***10. And He created the earth for mankind.***  
 ***11. Therein are fruits and magnificent date-palms.***
@@ -710,11 +658,7 @@ produce.
 Surah al-Rahman - Verse 12
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ
-  </p>
-</blockquote>
+> وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ
 
 ***12. And also corns, with leaves and stalks for fodder and
 sweet-scented plants.***
@@ -731,11 +675,7 @@ smelling which man may derive pleasure.
 Surah al-Rahman - Verse 13
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***13. Then which of the Blessings of your Lord will you both [jinn and
 men] deny?***
@@ -814,23 +754,11 @@ enumerating further Blessings.
 Surah al-Rahman - Verses 14-16
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ الْإِنسَانَ مِن صَلْصَالٍ كَالْفَخَّارِ
-  </p>
-</blockquote>
+> خَلَقَ الْإِنسَانَ مِن صَلْصَالٍ كَالْفَخَّارِ
 
-<blockquote dir="rtl">
-  <p>
-وَخَلَقَ الْجَانَّ مِن مَّارِجٍ مِّن نَّارٍ
-  </p>
-</blockquote>
+> وَخَلَقَ الْجَانَّ مِن مَّارِجٍ مِّن نَّارٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***14. He created man from dry clay like the clay of pottery.***  
 ***15. And the jinn: He created from smokeless flames of fire.***  
@@ -940,17 +868,9 @@ men] deny?"***
 Surah al-Rahman - Verses 17-18
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ
-  </p>
-</blockquote>
+> رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***17. The Lord of the two easts and the Lord of the two wests.***  
 ***18. Then which of the Blessings of your Lord will you both [jinn and
@@ -1005,23 +925,11 @@ men] deny?"***
 Surah al-Rahman - Verses 19-21
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ
-  </p>
-</blockquote>
+> مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ
 
-<blockquote dir="rtl">
-  <p>
-بَيْنَهُمَا بَرْزَخٌ لَآ يَبْغِيَانِ
-  </p>
-</blockquote>
+> بَيْنَهُمَا بَرْزَخٌ لَآ يَبْغِيَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***19. He let loose the two salty and sweet seas meeting together.***  
 ***20. Between them is a barrier so that none of them can
@@ -1075,17 +983,9 @@ men] deny?"***
 Surah al-Rahman - Verses 22-23
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
-  </p>
-</blockquote>
+> يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***22. Out of both seas come out pearl and coral.***  
 ***23. Then which of the Blessings of your Lord will you both [jinn and
@@ -1150,17 +1050,9 @@ not inconsistent with the literal meaning of the same.
 Surah al-Rahman - Verses 24-25
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ الْجَوَارِ الْمُنشَآتُ فِي الْبَحْرِ كَالْأعْلَآمِ
-  </p>
-</blockquote>
+> وَلَهُ الْجَوَارِ الْمُنشَآتُ فِي الْبَحْرِ كَالْأعْلَآمِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***24. And His are the ships built, like mountains.***  
 ***25. Then which of the Blessings of your Lord will you both [jinn and
@@ -1190,23 +1082,11 @@ than God Almighty, the Omnipotent, has given you such might and power?
 Surah al-Rahman - Verses 26-28
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَنْ عَلَيْهَا فَانٍ
-  </p>
-</blockquote>
+> كُلُّ مَنْ عَلَيْهَا فَانٍ
 
-<blockquote dir="rtl">
-  <p>
-وَيَبْقَی وَجْهُ رَبِّكَ ذُو الْـجَلَآلِ وَالْإِكْرَامِ
-  </p>
-</blockquote>
+> وَيَبْقَی وَجْهُ رَبِّكَ ذُو الْـجَلَآلِ وَالْإِكْرَامِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***26. Whatsoever is on the earth is transient.***  
 ***27. And only the Essence of your Lord full of Majesty and Honor shall
@@ -1242,17 +1122,9 @@ men] deny?"***
 Surah al-Rahman - Verses 29-30
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَسْألُهُ مَن فِي السَّمَاوَاتِ وَالْأرْضِ كُلَّ يَوْمٍ هُوَ فِي شَأنٍ
-  </p>
-</blockquote>
+> يَسْألُهُ مَن فِي السَّمَاوَاتِ وَالْأرْضِ كُلَّ يَوْمٍ هُوَ فِي شَأنٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***29. Whosoever is in the heavens and on earth begs Him to meet his
 demands. Every day He is in some affair.***  
@@ -1308,17 +1180,9 @@ men] deny?"***
 Surah al-Rahman - Verses 31-32
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَنَفْرُغُ لَكُمْ أيُّهَا الثَّقَلَآنِ
-  </p>
-</blockquote>
+> سَنَفْرُغُ لَكُمْ أيُّهَا الثَّقَلَآنِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***31. We shall attend to your records, O you two classes [jinn and
 men]!***  
@@ -1401,5 +1265,4 @@ al-Bayan, under the blessed Verse in question.
 
 [^24]: Majma‘ al-Bayan, under the blessed Verse in question; Ruh
 al-Ma‘ani; Bukhari's Sahih.
-
 

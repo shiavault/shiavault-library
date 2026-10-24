@@ -69,13 +69,9 @@ and the universal order in general. The human civilization will sooner
 or later realize the necessity of believing in and effectuating these
 teachings.
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
 
 ***“So set thy face toward the pure religion; it is in accordance with
 the nature [fitrah] of God upon which He has formed the nature of
@@ -88,27 +84,15 @@ speech and actions that are not in line with reason and necessitate
 following doubt, conjecture, carnal lusts, desires, feelings, and
 longings.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ... ﴾
 
 ***“And follow not that of which you have no knowledge…”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... إَنَّ الظَّنَّ لاَ يُغْنِي مِنَ الْحَقِّ شَيْئًا... ﴾
-  </p>
-</blockquote>
+> ﴿ ... إَنَّ الظَّنَّ لاَ يُغْنِي مِنَ الْحَقِّ شَيْئًا... ﴾
 
 ***“…surely conjecture will not avail aught against the truth…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَلاَ تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَلاَ تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ... ﴾
 
 ***“And do not follow desire, for it shall lead you astray from the path
 of Allah…”***[^4]
@@ -280,11 +264,7 @@ These verses are so profuse and clear that quoting them does not seem
 necessary. However, there are some practical precepts that rise from the
 superior knowledge of God, such as the following statement:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ ﴾
 
 ***“…That is better for you, if you know.”***[^7]
 
@@ -359,11 +339,7 @@ In accordance with this principle, the Holy Qur’an clearly states: The
 Divine is Infinite and All-encompassing and shall never be limited or
 contained.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَلاَ إِنَّهُ بِكُلِّ شَيْءٍ مُحِيطٌ ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَلاَ إِنَّهُ بِكُلِّ شَيْءٍ مُحِيطٌ ﴾
 
 ***“Know that surely He encompasses all things absolutely.”***[^10]
 
@@ -371,12 +347,8 @@ In this same manner, absolute authority and sovereignty are particular
 to the Divine and He has no partner in the creation and management of
 the cosmos or in the emanation of command.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لا إِلَهَ إِلاّ
-هُوَ... ﴾
-  </p>
-</blockquote>
+> ﴿ ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لا إِلَهَ إِلاّ
+> هُوَ... ﴾
 
 ***“This is Allah, your Lord, Creator of all things; there is no god
 save Him…”***[^11]
@@ -650,12 +622,8 @@ its teachings.
 The Noble Qur’an explicitly holds religious authorities responsible for
 the religious disorder and the discord and chaos in human life.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلاَّ مِن بَعْدِ
-مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلاَّ مِن بَعْدِ
+> مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ... ﴾
 
 ***“And those who were given the Book were not at variance save after
 knowledge had come to them, being envious of one another…”***[^12]
@@ -666,12 +634,8 @@ Church, which has incorporated a type of idolatry into the heavenly
 teachings of Jesus Christ (‘a) and has turned it into a tenet of the
 Christian call.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَقَالَتْ النَّصَارَى الْمَسِيحُ ابْنُ اللّهِ ذَلِكَ قَوْلُهُم
-بِأَفْوَاهِهِمْ يُضَاهِؤُونَ قَوْلَ الَّذِينَ كَفَرُوا مِن قَبْلُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَقَالَتْ النَّصَارَى الْمَسِيحُ ابْنُ اللّهِ ذَلِكَ قَوْلُهُم
+> بِأَفْوَاهِهِمْ يُضَاهِؤُونَ قَوْلَ الَّذِينَ كَفَرُوا مِن قَبْلُ... ﴾
 
 ***“And the Christians say, ‘The Messiah (Christ) is the son of Allah’.
 That is the utterance of their mouths imitating the utterances of those
@@ -681,26 +645,18 @@ Following this they embodied divinity into the Church and introduced the
 word of the clergy as unconditionally binding in order to attain their
 material desires.
 
-<blockquote dir="rtl">
-  <p>
-﴿ اتَّخَذُواْ أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِن دُونِ
-اللّهِ وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلاَّ لِيَعْبُدُوا
-إِلَهًا وَاحِدًا لا إِلَهَ إِلاَّ هُوَ سُبْحَانَهُ عَمَّا يُشْرِكُونَ
-﴾
-  </p>
-</blockquote>
+> ﴿ اتَّخَذُواْ أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِن دُونِ
+> اللّهِ وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلاَّ لِيَعْبُدُوا
+> إِلَهًا وَاحِدًا لا إِلَهَ إِلاَّ هُوَ سُبْحَانَهُ عَمَّا يُشْرِكُونَ
+> ﴾
 
 ***“They have taken their rabbis and their monks as lords apart from
 Allah and Messiah son of Mary; whereas they were not commanded save to
 serve one God. There is no god but He; He is pure of what they associate
 (with Him).”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... إِنَّ كَثِيرًا مِنَ الأَحْبَارِ وَالرُّهْبَانِ لَيَأْكُلُونَ
-أَمْوَالَ النَّاسِ بِالْبَاطِلِ وَيَصُدُّونَ عَن سَبِيلِ اللّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... إِنَّ كَثِيرًا مِنَ الأَحْبَارِ وَالرُّهْبَانِ لَيَأْكُلُونَ
+> أَمْوَالَ النَّاسِ بِالْبَاطِلِ وَيَصُدُّونَ عَن سَبِيلِ اللّهِ... ﴾
 
 ***“Surely many of the rabbis and monks consume the wealth of the people
 unrighteously and debar (them) from the way of Allah…”***[^15]
@@ -718,13 +674,9 @@ that has created all humans with intelligence, freewill, and desire for
 beatitude and has stamped no person’s forehead with the mark “unduly
 dear”.
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوا إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
-وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
-وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِن دُونِ اللّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوا إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا
+> وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا
+> وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِن دُونِ اللّهِ... ﴾
 
 ***“Say, O People of the Book! Come to a word common among us and among
 you: That we serve none save Allah and that we associate nothing else
@@ -746,33 +698,21 @@ Tradition, and refrain from egotistical advice, exploitation, and
 judgment using religious tenets. These matters have been discussed in
 “Tafsīr al-Mīzān” under the following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاعْتَصِمُوا بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُوا... ﴾
-  </p>
-</blockquote>
+> ﴿ وَاعْتَصِمُوا بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُوا... ﴾
 
 ***“And hold you fast, all together, to the cord of Allah and divide
 not…”***[^17]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَآفَّةً
-وَلاَ تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
-مُبِينٌ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَآفَّةً
+> وَلاَ تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ
+> مُبِينٌ ﴾
 
 ***“O you who believe, enter absolute peace and submission (to Allah)
 and follow not the footsteps of Satan; surely he is an obvious foe to
 you.”***[^18]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... كُلُوا مِمَّا رَزَقَكُمُ اللّهُ وَلاَ تَتَّبِعُوا خُطُوَاتِ
-الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ ﴾
-  </p>
-</blockquote>
+> ﴿ ... كُلُوا مِمَّا رَزَقَكُمُ اللّهُ وَلاَ تَتَّبِعُوا خُطُوَاتِ
+> الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ ﴾
 
 ***“Eat of what Allah has provided for you and follow not the footsteps
 of Satan; surely he is an obvious foe to you.”***[^19]
@@ -783,14 +723,10 @@ shun spiritual commingling and superior-subordinate relationships with
 non-Islamic societies including polytheists, idolaters, and followers of
 divine books such as Christians, Jews, and Magi.
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ
-الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
-إِلاَّ أَن تَتَّقُوا مِنْهُمْ تُقَاةً وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ
-وَإِلَى اللّهِ الْمَصِيرُ ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ
+> الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
+> إِلاَّ أَن تَتَّقُوا مِنْهُمْ تُقَاةً وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ
+> وَإِلَى اللّهِ الْمَصِيرُ ﴾
 
 ***“Let not the believers take unbelievers for friends or superiors
 rather than believers and whosoever does that has no connection with
@@ -817,12 +753,8 @@ with the others—He took away the gift of spiritual bliss and worldly
 welfare, created division among them, and denied them every kind of
 material and spiritual supremacy and independence.[^21]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِن دِينِكُمْ فَلاَ
-تَخْشَوْهُمْ وَاخْشَوْنِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِن دِينِكُمْ فَلاَ
+> تَخْشَوْهُمْ وَاخْشَوْنِ... ﴾
 
 ***“Today, the disbelievers despaired of (harming) your religion;
 therefore, fear them not, fear me…”***[^22]
@@ -832,12 +764,8 @@ the Noble Qur’an implicitly indicates that due to relationships with
 non-Islamic societies, the Islamic society will successively abandon the
 precepts of the Qur’an using various excuses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا
-الْقُرْآنَ مَهْجُورًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا
+> الْقُرْآنَ مَهْجُورًا ﴾
 
 ***“And (on the Day of Judgment) the Prophet will declare: O my Lord!
 Surely my people have forsaken this Qur’an.”***[^23]
@@ -1005,22 +933,14 @@ explication of the Qur’an are perennially immutable and unchangeable? Or
 is their intent execution of these commandments, which according the
 specific wording of the Qur’an brooks no negligence?
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَإِنَّهُ لَكِتَابٌ عَزِيزٌ \* لاَ يَأْتِيهِ الْبَاطِلُ مِن
-بَيْنِ يَدَيْهِ وَلاَ مِنْ خَلْفِهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَإِنَّهُ لَكِتَابٌ عَزِيزٌ \* لاَ يَأْتِيهِ الْبَاطِلُ مِن
+> بَيْنِ يَدَيْهِ وَلاَ مِنْ خَلْفِهِ... ﴾
 
 ***“And most assuredly it is a sublime book. Falsehood approaches it not
 from before it nor from behind it…”***[^25]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللّهُ فَأُوْلَئِكَ هُمُ
-الْفَاسِقُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللّهُ فَأُوْلَئِكَ هُمُ
+> الْفَاسِقُونَ ﴾
 
 ***“And whosoever judges not by that which Allah has revealed, verily
 they are the evildoers.”***[^26]
@@ -1114,11 +1034,7 @@ In reply to a protest regarding prohibition of the grater pilgrimage
 [hajj-e tamattu‘], temporary marriage [nikāh-e mut‘ah], and other
 issues, the Second Caliph first said:
 
-<blockquote dir="rtl">
-  <p>
-«انا زميل محمد.»
-  </p>
-</blockquote>
+> «انا زميل محمد.»
 
 “I am the friend and associate of Muhammad.”
 
@@ -1334,15 +1250,11 @@ a “wāw” [و] be taken out of the “Verse of Wealth” [āyat ul-kanz] such
 that he even threatened Abī ibn Ka‘b the great Qur’anic scribe with his
 sword:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ كَثِيرًا مِنَ الأَحْبَارِ
-وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ
-وَيَصُدُّونَ عَن سَبِيلِ اللّهِ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ
-وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي سَبِيلِ اللّهِ فَبَشِّرْهُم
-بِعَذَابٍ أَلِيمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ كَثِيرًا مِنَ الأَحْبَارِ
+> وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ
+> وَيَصُدُّونَ عَن سَبِيلِ اللّهِ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ
+> وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا فِي سَبِيلِ اللّهِ فَبَشِّرْهُم
+> بِعَذَابٍ أَلِيمٍ ﴾
 
 ***“O you who believe! Most surely many of the rabbis and monks consume
 the wealth of the people unjustly and turn them from the way of Allah;
@@ -2000,5 +1912,4 @@ people to accept. [trans.]
 
 [^39]: This paper was originally published in Farsi in the seventh
 yearbook, “Maktab-e Islām”.
-
 

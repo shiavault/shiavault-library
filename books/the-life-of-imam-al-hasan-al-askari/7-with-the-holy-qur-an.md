@@ -289,4 +289,3 @@ which had no any feature of eloquence, ascribed to this great imam?
 Besides that, it has some traditions that have excessiveness as I think,
 and this was too far from the imam (a.s.).
 
-

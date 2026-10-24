@@ -54,7 +54,6 @@ choice. Choose to live a life that matters.
 
 "We make a living by what we get; we make a life by what we give."
 
-
 **How do we prepare for the journey of death?**
 
 When one undertakes to travel in the world there are numerous
@@ -450,7 +449,6 @@ Embrace Islam and all will be well
 For the deeds of this life, you'll pay the price
 In the depths of Hell or in Paradise
 
-
 **Do you know? What is Hell?**
 
 01. Hell is so deep that if a stone were to be thrown into it, it
@@ -541,5 +539,4 @@ reckoning." Elahi Ameen!
 General Knowledge: Elephants may pay homage to dead relatives - The
 elephants showed a strong preference towards an elephant skull (middle)
 rather than the skulls of a buffalo or a rhino.
-
 

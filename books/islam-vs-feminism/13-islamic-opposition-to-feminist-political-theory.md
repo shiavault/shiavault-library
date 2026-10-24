@@ -36,4 +36,3 @@ forming relationships and even communities without any form of
 hierarchy, subordination, or gender differentiation such as is found in
 the families of virtually all cultures.
 
-

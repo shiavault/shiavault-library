@@ -50,4 +50,3 @@ period, he must, as a matter of precaution, pay a kaffarah of a sheep.
 **Rule 357:** In Umrat-ut-Tamatu', Tawaf-un-Nisa is not obligatory; yet
 there is no objection to performing it.
 
-

@@ -70,11 +70,7 @@ attained under the auspices of knowledge and sound deeds; in other than
 this case, man is in the category of other animals, perhaps even worse
 than animals:
 
-<blockquote dir="rtl">
-  <p>
-... أُوْلَئِكَ كَالأَنْعَامِ بَلْ هُمْ أَضَلُّ ...
-  </p>
-</blockquote>
+> ... أُوْلَئِكَ كَالأَنْعَامِ بَلْ هُمْ أَضَلُّ ...
 
 ***“They are like cattle, rather they are more astray.”***[^1]
 
@@ -183,12 +179,8 @@ remove this ambiguity, the Noble Prophet (S) says:
 That is to say there is no distance between you and Allah and He is
 always in your presence and never separated from you:
 
-<blockquote dir="rtl">
-  <p>
-... وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَاللَّهُ بِمَا تَعْمَلُونَ
-بَصِيرٌ
-  </p>
-</blockquote>
+> ... وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَاللَّهُ بِمَا تَعْمَلُونَ
+> بَصِيرٌ
 
 ***“And He is with you wherever you may be. And Allah sees what you
 do.”***[^2]
@@ -220,12 +212,8 @@ It is natural that man pays attention to Allah when he finds himself
 entangled in hardships and unpleasant events; in regard to the
 polytheists, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
-الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
+> الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
 
 ***“When they board the ships, they invoke Allah putting exclusive faith
 in Him, but when He delivers them to land, behold, they ascribe partners
@@ -281,23 +269,15 @@ and tribulations or in affluence and ease. In the expression of the
 Qur’an, they remember Allah morning and evening—at all times, not only
 in times of hardships:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
-مِن الْقَوْلِ بِالْغُدُوِّ وَالآصَالِ وَلاَ تَكُنْ مِن الْغَافِلِينَ
-  </p>
-</blockquote>
+> وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
+> مِن الْقَوْلِ بِالْغُدُوِّ وَالآصَالِ وَلاَ تَكُنْ مِن الْغَافِلِينَ
 
 ***“And remember your Lord within your heart beseechingly and
 reverentially, without being loud morning and evening, and do not be
 among the heedless.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالآصَالِ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
+> يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالآصَالِ
 
 ***“In houses Allah has allowed to be raised and wherein His name is
 celebrated.”***[^5]
@@ -319,12 +299,8 @@ also comprises relatively good servants, but Allah complains in regard
 to them as to why they are negligent when they are granted blessings and
 return when they are deprived of His graces.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا أَنْعَمْنَا عَلَى الإِنسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
-وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ
-  </p>
-</blockquote>
+> وَإِذَا أَنْعَمْنَا عَلَى الإِنسَانِ أَعْرَضَ وَنَأى بِجَانِبِهِ
+> وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ
 
 ***“When We bless man, he is disregardful and turns aside; but when an
 ill befalls him, he makes protracted supplications.”***[^6]
@@ -343,12 +319,8 @@ and belief. This group of people does not turn to Allah when afflicted
 by problems which they do not perceive as coming from Allah. Allah has
 thus reproached this group of people:
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلا إِذْ جَاءهُمْ بَأْسُنَا تَضَرَّعُوا وَلَكِنْ قَسَتْ
-قُلُوبُهُمْ وَزَيَّنَ لَهُم الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> فَلَوْلا إِذْ جَاءهُمْ بَأْسُنَا تَضَرَّعُوا وَلَكِنْ قَسَتْ
+> قُلُوبُهُمْ وَزَيَّنَ لَهُم الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ
 
 ***“Why did they not humble themselves when Our punishment overtook
 them! But their hearts had hardened, and Satan had made to seem decorous
@@ -356,15 +328,11 @@ to them what they had been doing.”***[^7]
 
 Elsewhere, Allah has stated:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَسَتْ قُلُوبُكُم مِنْ بَعْدِ ذَلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ
-أَشَدُّ قَسْوَةً وَإِنَّ مِن الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ
-الأَنْهَارُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاء
-وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّهِ وَمَا اللّهُ
-بِغَافِلٍ عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> ثُمَّ قَسَتْ قُلُوبُكُم مِنْ بَعْدِ ذَلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ
+> أَشَدُّ قَسْوَةً وَإِنَّ مِن الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ
+> الأَنْهَارُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاء
+> وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّهِ وَمَا اللّهُ
+> بِغَافِلٍ عَمَّا تَعْمَلُونَ
 
 ***“When your hearts hardened after that; so they were like stones, or
 even harder, for indeed there are some stones from which streams gush
@@ -442,14 +410,10 @@ upset because he knows that whatever takes place is in accordance with
 divine decree and there is no escaping from it not to mention that all
 occurrences are in man’s best interests:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأرْضِ وَلاَ فِي أَنفُسِكُمْ إِلاَّ
-فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَّبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللَّهِ
-يَسِيرٌ \* لِكَيْلاَ تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلاَ تَفْرَحُوا
-بِمَا آتَاكُمْ ...
-  </p>
-</blockquote>
+> مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الأرْضِ وَلاَ فِي أَنفُسِكُمْ إِلاَّ
+> فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَّبْرَأَهَا إِنَّ ذَلِكَ عَلَى اللَّهِ
+> يَسِيرٌ \* لِكَيْلاَ تَأْسَوْا عَلَى مَا فَاتَكُمْ وَلاَ تَفْرَحُوا
+> بِمَا آتَاكُمْ ...
 
 ***“No affliction visits the earth or yourselves but it is in a Book
 before we bring it about—that is indeed easy for Allah—so that you may
@@ -475,13 +439,9 @@ and guard our state of humility in His presence. We must not be like
 Korah [Qarun] and conceive blessings as the fruit of our own efforts and
 endeavors:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّمَا أُوتِيتُهُ عَلَى عِلْمٍ عِنْدِي أَوَ لَمْ يَعْلَمْ
-أَنَّ اللَّهَ قَدْ أَهْلَكَ مِنْ قَبْلِهِ مِن القُرُونِ مَنْ هُوَ
-أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا...
-  </p>
-</blockquote>
+> قَالَ إِنَّمَا أُوتِيتُهُ عَلَى عِلْمٍ عِنْدِي أَوَ لَمْ يَعْلَمْ
+> أَنَّ اللَّهَ قَدْ أَهْلَكَ مِنْ قَبْلِهِ مِن القُرُونِ مَنْ هُوَ
+> أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا...
 
 ***“He said, ‘I have indeed been given [all] this because of the
 knowledge that I have.’ Did he not know that Allah had already destroyed
@@ -556,24 +516,16 @@ ability to do so.”
 If the will of Allah, the Exalted, makes the occurrence of something
 incumbent, all the conceivable powers of the universe cannot prevent it:
 
-<blockquote dir="rtl">
-  <p>
-... وَاللّهُ غَالِبٌ عَلَى أَمْرِهِ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> ... وَاللّهُ غَالِبٌ عَلَى أَمْرِهِ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ
+> يَعْلَمُونَ
 
 ***“And Allah has full command of His affairs, but most people do not
 know.”***[^12]
 
 In another verse, He sates:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ يَمْسَسْكَ اللّهُ بِضُرٍّ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِنْ
-يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَى كُلِّ شَيْءٍ قَدُيرٌ
-  </p>
-</blockquote>
+> وَإِنْ يَمْسَسْكَ اللّهُ بِضُرٍّ فَلاَ كَاشِفَ لَهُ إِلاَّ هُوَ وَإِنْ
+> يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَى كُلِّ شَيْءٍ قَدُيرٌ
 
 ***“Should Allah visit you with some distress, there is nothing to
 remove it except Him, and should He bring you some good, then He has
@@ -721,11 +673,7 @@ success is guaranteed by patience and forbearance, every sorrow and
 problem is accompanied by deliverance and every hardship goes along with
 ease. In the Qur’an too Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ مَعَ الْعُسْرِ يُسْرًا \* إِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> فَإِنَّ مَعَ الْعُسْرِ يُسْرًا \* إِنَّ مَعَ الْعُسْرِ يُسْرًا
 
 ***“Indeed ease accompanies hardship. Indeed ease accompanies
 hardship.”***[^14]
@@ -748,11 +696,7 @@ hardships and problems are a prerequisite for all of man’s perfection
 and progress and grant him vigor and therefore afflictions and problems
 are necessary for perfection:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الإِنسَانَ فِي كَبَدٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الإِنسَانَ فِي كَبَدٍ
 
 ***“Certainly, We created man in distress.”***[^15]
 
@@ -769,14 +713,10 @@ existential afflictions and problems. Ultimately, those who
 appropriately follow divine injunctions and endure hardships are guided
 to mercy and divine knowledge:
 
-<blockquote dir="rtl">
-  <p>
-وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِن الْخَوفْ وَالْجُوعِ وَنَقْصٍ مِن
-الأَمَوَالِ وَالأنفُسِ وَالثَّمَرَاتِ وَبَشِّرِ الصَّابِرِينَ \*
-الَّذِينَ إِذَا أَصَابَتْهُم مُصِيبَةٌ قَالُوا إِنَّا لِلّهِ وَإِنَّا
-إِلَيْهِ رَاجِعونَ
-  </p>
-</blockquote>
+> وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِن الْخَوفْ وَالْجُوعِ وَنَقْصٍ مِن
+> الأَمَوَالِ وَالأنفُسِ وَالثَّمَرَاتِ وَبَشِّرِ الصَّابِرِينَ \*
+> الَّذِينَ إِذَا أَصَابَتْهُم مُصِيبَةٌ قَالُوا إِنَّا لِلّهِ وَإِنَّا
+> إِلَيْهِ رَاجِعونَ
 
 ***“We will surely test you with a measure of fear and hunger and a loss
 of wealth, lives, and fruits; and give good news to the patient—those
@@ -809,11 +749,7 @@ the more man’s resistance increases, the more is his perfection and bit
 by bit his intelligence and natural capabilities blossom more and this
 is indicative of divine grace and blessings.
 
-<blockquote dir="rtl">
-  <p>
-... سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا
-  </p>
-</blockquote>
+> ... سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا
 
 ***“…Allah will bring about ease after hardship.”***[^18]
 
@@ -863,5 +799,4 @@ accompany hardships.
 [^17]: Usul al-Kafi, vol. 3, p. 354.
 
 [^18]: Surat al-Talaq 65:7.
-
 

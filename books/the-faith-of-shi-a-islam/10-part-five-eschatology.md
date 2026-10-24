@@ -17,7 +17,6 @@ Day of Resurrection. There is no reason to doubt it, unless one doubts
 Allah, His Power and His Messenger. In fact this amounts to doubting all
 religions.
 
-
 **44. Doctrine of Bodily Resurrection
 **
 This is one of the fundamentals of Islam, as it is said in the

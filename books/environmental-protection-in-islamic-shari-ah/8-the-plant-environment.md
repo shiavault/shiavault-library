@@ -95,4 +95,3 @@ ideologies correspond with the natural laws and life’s balanced system.
 These two points will show Allah’s wisdom and will in His legislation
 and creation.
 
-

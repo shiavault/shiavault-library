@@ -3,11 +3,7 @@ Lesson Nineteen: Those deprived from God’s mercy
 
 Imam ‘Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ وَجَدَ ماءً وَ تُراباً فَافْتَقَرَ فَأَبْعَدَهُ اللّهُ!”
-  </p>
-</blockquote>
+> "مَنْ وَجَدَ ماءً وَ تُراباً فَافْتَقَرَ فَأَبْعَدَهُ اللّهُ!”
 
 Translation
 -----------
@@ -30,5 +26,4 @@ mercy. Becoming needy and dependent on others is against the teachings
 and spirit of Islam.
 
 [^1]: Bihar al-Anwar, volume 103, page 65
-
 

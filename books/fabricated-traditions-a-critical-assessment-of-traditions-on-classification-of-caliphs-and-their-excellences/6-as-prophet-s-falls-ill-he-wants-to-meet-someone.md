@@ -65,4 +65,3 @@ mention names that were accused of innovation, but Bukhari and Muslim or
 one of them have however, reported from them. He considers Qays as one
 of those who were accused of showing hostility towards Ali (a.s).[^31]
 
-

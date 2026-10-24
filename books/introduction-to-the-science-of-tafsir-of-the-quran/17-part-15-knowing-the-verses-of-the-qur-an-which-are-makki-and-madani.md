@@ -34,12 +34,8 @@ reach the goal of the verses of the Qur\`an.
 The scholar who is not able to correctly differentiate which verse is
 Makki and which is Madani, may say, in regards to the verse which reads:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لاَّ أَسْئَلُكُمْ عَلَيْهِ أَجْراً إِلاَّ الْمَوَدَّةَ فِي
-الْقُربَــى
-  </p>
-</blockquote>
+> قُلْ لاَّ أَسْئَلُكُمْ عَلَيْهِ أَجْراً إِلاَّ الْمَوَدَّةَ فِي
+> الْقُربَــى
 
 ***“…Say (O’ Muhammad): I ask you (Muslims) no reward for my work except
 love for my close family members.”***[^2]
@@ -143,5 +139,4 @@ Resurrection), did not attest to the prophetic mission of the Prophet of
 Islam (‘s) and had not yet developed faith in his universal message.
 [Taken from, The Islamic Moral System: A Commentary of Surat al-Hujurat
 by Ayatullah Ja’far Suhani translated by Saleem Bhimji]
-
 

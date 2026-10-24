@@ -2,11 +2,7 @@
 ==========================================================================
 
 > 40. عن المسور بن مخرمة رضي الله عنه قال: قال رسول الله صلى الله عليه
-<blockquote dir="rtl">
-  <p>
-وسلم: إنما فاطمة شجنة مني يبسطني ما يبسطها و يقبضني ما يقبضها.
-  </p>
-</blockquote>
+> وسلم: إنما فاطمة شجنة مني يبسطني ما يبسطها و يقبضني ما يقبضها.
 
 Miswar bin Makhramah (ra) narrates that the Holy Prophet (saw) said,
 “Indeed, Fatimah is my fruitful branch; whatever makes her happy also
@@ -44,5 +40,4 @@ word that you said?” To this Umar bin Abd-ul-Aziz replied, “There is not
 a single person from the clan of Bani Hashim who has not been given the
 power to intercede. I just wanted to earn the right to the boy’s
 intercession.”
-
 

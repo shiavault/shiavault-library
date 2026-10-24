@@ -361,4 +361,3 @@ struck the people of Salih. Other reliable narrations state that the
 she-camel was killed on a Wednesday. There is agreement between these
 two traditions.
 
-

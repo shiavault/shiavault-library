@@ -3,12 +3,8 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) states:
 
-<blockquote dir="rtl">
-  <p>
-بل حمله على ذلك ممتنع لان أحدا لا يساوي رسول الله صلى الله عليه و سلم
-لا عليا ولا غيره
-  </p>
-</blockquote>
+> بل حمله على ذلك ممتنع لان أحدا لا يساوي رسول الله صلى الله عليه و سلم
+> لا عليا ولا غيره
 
 Rather, interpreting it like that is impossible, because there is none
 who is equal to the Messenger of Allah, neither ‘Ali nor any other
@@ -30,16 +26,12 @@ the master, teacher and saviour of ‘Ali in both this world and the next.
 Imam al-Nasai (d. 303 H) records an authentic *hadith* that confirms
 just that:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا العباس بن محمد قال حدثنا الأحوص بن جواب قال حدثنا يونس بن أبي
-إسحاق عن أبي إسحاق عن زيد بن يثيع عن أبي ذر قال قال رسول الله صلى الله
-عليه و سلم لينتهين بنو وليعة أو لأبعثن إليهم رجلا كنفسي ينفذ فيهم أمري
-فيقتل المقاتلة ويسبي الذرية فما راعني إلا وكف عمر في حجزتي من خلفي من
-يعني فقلت ما إياك يعني ولا صاحبك قال فمن يعني قلت خاصف النعل قال وعلي
-يخصف نعلا
-  </p>
-</blockquote>
+> أخبرنا العباس بن محمد قال حدثنا الأحوص بن جواب قال حدثنا يونس بن أبي
+> إسحاق عن أبي إسحاق عن زيد بن يثيع عن أبي ذر قال قال رسول الله صلى الله
+> عليه و سلم لينتهين بنو وليعة أو لأبعثن إليهم رجلا كنفسي ينفذ فيهم أمري
+> فيقتل المقاتلة ويسبي الذرية فما راعني إلا وكف عمر في حجزتي من خلفي من
+> يعني فقلت ما إياك يعني ولا صاحبك قال فمن يعني قلت خاصف النعل قال وعلي
+> يخصف نعلا
 
 Al-‘Abbas b. Muhammad – al-Ahwas b. Jawab – Yunus b. Abi Ishaq – Abu
 Ishaq – Zayd b. Yathi’ – Abu Dharr:
@@ -57,12 +49,8 @@ repairing a shoe.[^2]
 
 ‘Allamah al-Albani (d. 1420 H) says about this report:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد رجاله ثقات؛ لكن أبا إسحاق - وهو السبيعي - مدلس، وكان
-اختلط، وابنه يونس روى عنه بعد اختلاطه.
-  </p>
-</blockquote>
+> قلت: وهذا إسناد رجاله ثقات؛ لكن أبا إسحاق - وهو السبيعي - مدلس، وكان
+> اختلط، وابنه يونس روى عنه بعد اختلاطه.
 
 I say: **This chain, all its narrators are trustworthy**. However, Abu
 Ishaq – and he is al-Sabi’i – was a *mudalis*, and he became confused,
@@ -81,14 +69,10 @@ Let us briefly examine how the *muhadithun* of the Ahl al-Sunnah have
 treated a well-known, strictly *‘an-‘an* narration of Abu Ishaq. Imam
 Muslim (d. 261 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبدالله بن مسلمة بن قعنب حدثنا معتمر بن سليمان عن أبيه عن رقبة
-بن مسقلة عن أبي إسحاق عن سعيد بن جبير عن ابن عباس عن أبي بن كعب قال
-قال رسول الله صلى الله عليه و سلم إن الغلام الذي قتله الخضر طبع كافرا
-ولو عاش لأرهق أبويه طغيانا وكفرا
-  </p>
-</blockquote>
+> حدثنا عبدالله بن مسلمة بن قعنب حدثنا معتمر بن سليمان عن أبيه عن رقبة
+> بن مسقلة عن أبي إسحاق عن سعيد بن جبير عن ابن عباس عن أبي بن كعب قال
+> قال رسول الله صلى الله عليه و سلم إن الغلام الذي قتله الخضر طبع كافرا
+> ولو عاش لأرهق أبويه طغيانا وكفرا
 
 ‘Abd Allah b. Musalamah b. Qa’nab – Mu’tamir b. Sulayman – his father –
 Raqabah b. Masqalah – **Abu Ishaq** – Sa’id b. Jubayr – Ibn ‘Abbas –
@@ -104,54 +88,34 @@ accepted the *hadith* as *sahih*. Imam Ahmad b. Hanbal (d. 241 H) has
 also included the same *riwayah* with the same *‘an-‘an* chain in his
 *Musnad*[^5]. Shaykh al-Arnauṭ comments about it this way:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^6]
 
 Imam al-Tirmidhi (d. 279 H) has equally documented it with Abu Ishaq’s
 *‘an-‘an* narration[^7]. Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح غريب
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح غريب
 
 This *hadith* is *hasan* *sahih* *gharib*.[^8]
 
 Interestingly, even ‘Allamah al-Albani accepts its authenticity:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^9]
 
 Elsewhere, the ‘Allamah explains his decision:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن أبي بكر المقدمي ثنا معتمر بن سليمان عن أبيه عن رقبة بن
-مسقلة عن أبي إسحاق عن سعيد بن جبير عن ابن عباس ‏عن أبي بن كعب عن النبي
-صلى الله عليه وسلم قال‏:‏ الغلام الذي قتله الخضر طبع كافرا‏.‏
-  </p>
-</blockquote>
+> ثنا محمد بن أبي بكر المقدمي ثنا معتمر بن سليمان عن أبيه عن رقبة بن
+> مسقلة عن أبي إسحاق عن سعيد بن جبير عن ابن عباس ‏عن أبي بن كعب عن النبي
+> صلى الله عليه وسلم قال‏:‏ الغلام الذي قتله الخضر طبع كافرا‏.‏
 
 > إسناده صحيح على شرط الشيخين مع ما في النفس من عنعنة أبي إسحاق وهو عمرو
 > ابن عبد الله السبيعي فإني لم أجد تصريحه بالتحديث في شيء من الروايات
 > عنه مع أنه كان اختلط لكن لعل رقبة بن مسقلة سمعه منه قبل الاختلاط فإنه
 > قديم الوفاة فقد مات سنة 129 وهي السنة التي مات فيها ابو إسحاق نفسه فهو
-<blockquote dir="rtl">
-  <p>
-من أقرانه.
-  </p>
-</blockquote>
+> من أقرانه.
 
 Muhammad b. Abi Bakr al-Muqaddami – Mu’tamir b. Sulayman – his father –
 Raqabah b. Masqalah – **Abu Ishaq** – Sa’id b. Jubayr – Ibn ‘Abbas –
@@ -175,12 +139,8 @@ the Ahl al-Sunnah, including ‘Allamah al-Albani himself. But then,
 al-Hafiz (d. 852 H) documents a rather interesting dissenting viewpoint
 concerning Abu Ishaq’s *‘an-‘an* reports:
 
-<blockquote dir="rtl">
-  <p>
-قال شعبة وكان أبو إسحاق إذا أخبرني عن رجل قلت له هذا أكبر منك فإن قال
-نعم علمت أنه لقى وإن قال انا أكبر منه تركته.
-  </p>
-</blockquote>
+> قال شعبة وكان أبو إسحاق إذا أخبرني عن رجل قلت له هذا أكبر منك فإن قال
+> نعم علمت أنه لقى وإن قال انا أكبر منه تركته.
 
 Shu’bah said: “Whenever Abu Ishaq narrated to me in an *‘an-‘an* form
 from any person, I used to say to him, ‘Is he older than you?’ If he
@@ -198,11 +158,7 @@ passes his ultra-strict standards and is covered by his expert
 assurance. Zayd b. Yathi’ was much older than Abu Ishaq. Al-Hafiz
 states:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن يثيع … الهمداني الكوفي ثقة مخضرم
-  </p>
-</blockquote>
+> زيد بن يثيع … الهمداني الكوفي ثقة مخضرم
 
 Zayd b. Yathi’.... al-Hamadani al-Kufi: *Thiqah* (trustworthy). **He
 witnessed both the** ***Jahiliyyah*** **and the Islamic era**.[^13]
@@ -211,11 +167,7 @@ Therefore, Zayd b. Yathi’ was born even before any verse of the Qur’an
 was revealed! This means that he was even older than a lot of the
 Sahabah. Meanwhile, al-Hafiz further records this about Abu Ishaq:
 
-<blockquote dir="rtl">
-  <p>
-وعن أبي بكر بن عياش قال مات أبو إسحاق وهو ابن مائة سنة أو نحوها
-  </p>
-</blockquote>
+> وعن أبي بكر بن عياش قال مات أبو إسحاق وهو ابن مائة سنة أو نحوها
 
 Abu Bakr b. ‘Ayyash said: Abu Ishaq died while he was 100 years old or
 thereabout.[^14]
@@ -237,13 +189,9 @@ submission of our ‘Allamah is more farfetched statement than the other.
 Yunus was largely contemporaneous with his father. He even met Anas, one
 of the senior Sahabah! Imam al-Dhahabi (d. 748 H) states about him:
 
-<blockquote dir="rtl">
-  <p>
-يونس بن أبي إسحاق عمرو بن عبد الله الهمداني السبيعي الكوفي. عن أنس ...
-قلت: مات يونس سنة تسع وخمسين ومائة، وهو في عشر التسعين، إن لم يكن
-تجاوزها.
-  </p>
-</blockquote>
+> يونس بن أبي إسحاق عمرو بن عبد الله الهمداني السبيعي الكوفي. عن أنس ...
+> قلت: مات يونس سنة تسع وخمسين ومائة، وهو في عشر التسعين، إن لم يكن
+> تجاوزها.
 
 Yunus b. Abi Ishaq ‘Amr b. ‘Abd Allah al-Hamdani al-Sabi’i al-Kufi: **He
 narrated from Anas** ... I say: Yunus died in 159 AH, and he was close
@@ -256,11 +204,7 @@ even narrated from Anas who apparently died decades before his
 father![^17] Al-Hafiz tells us more why ‘Allamah al-Albani’s submission
 was completely out-of-touch with reality, while writing about Abu Ishaq:
 
-<blockquote dir="rtl">
-  <p>
-وعنه ابنه يونس وابن ابنه إسرائيل بن يونس وابن ابنه الآخر يوسف بن إسحاق
-  </p>
-</blockquote>
+> وعنه ابنه يونس وابن ابنه إسرائيل بن يونس وابن ابنه الآخر يوسف بن إسحاق
 
 His son (Yunus) narrated from him, **as well as his grandson** Israil b.
 Yunus and his other grandson Yusuf b. Ishaq.[^18]
@@ -285,16 +229,12 @@ is equally of the perfectly *sahih* grade, in any circumstance.
 *Hadith al-Tashbih*, as narrated by Abu Dharr, is supported by this
 *shahid* documented by Imam ‘Abd al-Razzaq (d. 211 H):
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا عبد الرزاق عن معمر عن ابن طاووس عن أبيه عن المطلب بن عبد الله
-بن حنطب قال: قال رسول الله صلى الله عليه وسلم لوفد ثقيف حين جاءوا:
-لتسلمن أو لنبعثن رجلا مني - أو قال: مثل نفسي فليضربن أعناقكم، وليسبين
-ذراريكم، وليأخذن أموالكم، فقال عمر: فوالله ما تمنيت الامارة إلا يومئذ،
-جعلت أنصب صدري رجاء أن يقول: هو هذا، قال: فالتفت إلي علي، فأخذ بيده ثم
-قال: هو هذا، هو هذا.
-  </p>
-</blockquote>
+> أخبرنا عبد الرزاق عن معمر عن ابن طاووس عن أبيه عن المطلب بن عبد الله
+> بن حنطب قال: قال رسول الله صلى الله عليه وسلم لوفد ثقيف حين جاءوا:
+> لتسلمن أو لنبعثن رجلا مني - أو قال: مثل نفسي فليضربن أعناقكم، وليسبين
+> ذراريكم، وليأخذن أموالكم، فقال عمر: فوالله ما تمنيت الامارة إلا يومئذ،
+> جعلت أنصب صدري رجاء أن يقول: هو هذا، قال: فالتفت إلي علي، فأخذ بيده ثم
+> قال: هو هذا، هو هذا.
 
 ‘Abd al-Razzaq – Ma’mar – Ibn Tawus – his father – al-Muṭalib b. ‘Abd
 Allah b. Hanṭab:
@@ -310,11 +250,7 @@ hand and said, “This is the one. This is the one.”[^23]
 
 ‘Allamah al-Albani comments about this report:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد صحيح؛ ولكنه مرسل.
-  </p>
-</blockquote>
+> قلت: وهذا إسناد صحيح؛ ولكنه مرسل.
 
 I say: **This chain is** ***sahih***. However, it is *mursal*.[^24]
 
@@ -415,5 +351,4 @@ Muasassat Qurtubah) [annotator: Shu’ayb al-Arnaut], vol. 4, p. 375, \#
 al-Ahadith al-Ḍa’ifah wa al-Mawdhu’ah wa Atharihah al-Sayyiah fi
 al-Ummah (Riyadh: Dar al-Ma’arif; 1st edition, 1412 H), vol. 10, p. 677,
 \# 4960
-
 

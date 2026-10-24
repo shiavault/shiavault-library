@@ -67,7 +67,6 @@ class interest demands. Accordingly his efforts and social out-look are
 always class-oriented. Marxism believes in this kind of
 self-consciousness, which may be termed as Marxist self-consciousness.
 
-
 **V. National Self-consciousness**
 
 It means the consciousness of one's relation to the people with whom
@@ -324,5 +323,4 @@ consciousnesses, is interested in the national, human or class problems
 and makes efforts to uplift and liberate his class, his nation or the
 whole mankind. He tries to transfer his consciousness to others and make
 them work for social emancipation.
-
 

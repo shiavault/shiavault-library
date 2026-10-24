@@ -364,4 +364,3 @@ rest.
 
 [^11]: Paiwand hai Kudak wa Khanwada, p. 176
 
-

@@ -124,11 +124,7 @@ obligatory under all circumstances; even if he professes sin and
 tyranny. His government is the Wish of Allah, as good and evil are all
 Allah’s Acts:
 
-<blockquote dir="rtl">
-  <p>
-الخير كله والشر كله من الله
-  </p>
-</blockquote>
+> الخير كله والشر كله من الله
 
 They further say that man is not free in his actions .
 
@@ -458,11 +454,7 @@ whereas belief in two eternal beings is tantamount to polytheism.
 Author says: I fail to understand what is wrong with these people who
 have not paid attention to God’s words in the Quran where He says:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الأَنفَالِ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الأَنفَالِ
 
 ***“O the Prophet, they ask you about the windfalls..... (Qur’an,
 8:1)***
@@ -479,12 +471,8 @@ cases too where the Quran relates the dispute among the people of that
 time and their recourse to the Prophet for setting aside their
 differences like:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا
-وَتَشْتَكِي
-  </p>
-</blockquote>
+> قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا
+> وَتَشْتَكِي
 
 ***“Allah indeed knows the plea of the woman who pleads with you about
 her husband and complains.... “ (Qur’an, 58:1)***
@@ -861,11 +849,7 @@ tribes that have converted their prophet’s graves into mosques..’
 That this hadith is fabricated has already been explained in Vol: 1 of
 “Ma’lem al-Madrasatain “ in the chapter concerning
 
-<blockquote dir="rtl">
-  <p>
-الخلاف حول البناء على قبور الانبياء
-  </p>
-</blockquote>
+> الخلاف حول البناء على قبور الانبياء
 
 About their belief regarding the permissibility of killing the Muslims,
 we have already discussed before, the reason for such an idea which is
@@ -1115,11 +1099,7 @@ areas for performing the Haj rites.
 turned him feeble-minded). Jabir would reply: Nay, I swear by Allah,
 I.’m not speaking in delirium but I heard the Prophet saying:
 
-<blockquote dir="rtl">
-  <p>
-إنك ستدرك رجلا مني، اسمه اسمي وشمائله شمائلي. يبقر العلم بقراً
-  </p>
-</blockquote>
+> إنك ستدرك رجلا مني، اسمه اسمي وشمائله شمائلي. يبقر العلم بقراً
 
 “You will (live to) see a man from me; his name will be my name and his
 character will be like my character. He will split the knowledge and
@@ -1411,12 +1391,8 @@ the angel of chastisement and not mercy.
 But, the Gharabiyah from the tribe of Ra.’fiza, curse Gabriel and
 Muhammad (S)! And the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ عَدُوًّا لِّلَّـهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ
-وَمِيكَالَ فَإِنَّ اللَّـهَ عَدُوٌّ لِّلْكَافِرِينَ
-  </p>
-</blockquote>
+> مَن كَانَ عَدُوًّا لِّلَّـهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ
+> وَمِيكَالَ فَإِنَّ اللَّـهَ عَدُوٌّ لِّلْكَافِرِينَ
 
 ***“Whoever is the enemy of Allah and His angels and His apostles and
 Gabriel and Meekaeel, so surely Allah is the enemy of the unbelievers. “
@@ -1835,11 +1811,7 @@ followed the Ashari in beliefs and the Shafei in jurisprudence writes in
 his book “Milal wan Nihal”, chapter “Al-Ghaliyah”, about the Ghulat sect
 and the polemics Imams had with them. Towards the conclusion, he says:
 
-<blockquote dir="rtl">
-  <p>
-و تبرأ من هولاء كلهم جعفر بن محمد الصادق (رض) وطردهم و لعنهم
-  </p>
-</blockquote>
+> و تبرأ من هولاء كلهم جعفر بن محمد الصادق (رض) وطردهم و لعنهم
 
 “Jafar-ibn-Muhammad-Sadiq (may Allah be satisfied with him) expressed
 his disgust with all the aforesaid sects. He drove them out and cursed
@@ -1873,19 +1845,11 @@ carnal desires.
 Man, as a leader is again divided into two categories. As Allah, the
 Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-أئمة يهدون بأمرنا
-  </p>
-</blockquote>
+> أئمة يهدون بأمرنا
 
 ***“Imams to guide by Our command “ (Qur’an, 21:73 & Qur’an, 32:24)***
 
-<blockquote dir="rtl">
-  <p>
-أئمة يدعون الى النار
-  </p>
-</blockquote>
+> أئمة يدعون الى النار
 
 ***“Imams who call to the fire” (Qur’an, 28:41)***
 
@@ -2577,5 +2541,4 @@ edition, pages 1737-1739 and 1748-1749.
 [^92]: Nahjul-Balagha (Subhi Saleh), page 496
 
 [^93]: Refer to Ma.’alem al-Madrasatain, Vol 3.
-
 

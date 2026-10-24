@@ -66,7 +66,7 @@ live. For as the Father has life in himself, so he has granted the Son
 also to have life in himself, and has given him authority to execute
 judgment, because he is the Son of man. Do not marvel at this; for the
 hour is coming when all who are in the tombs will hear his
-voice.”<sup>[1]</sup>
+voice.”[1]
 
 2. Gospel of St. Luke
 ---------------------
@@ -78,7 +78,7 @@ distress of nations in perplexity at the roaring of the sea and the
 waves, men fainting with fear and with foreboding powers of what is
 coming on the world; for the powers of the heavens will be shaken. And
 then they will see the Son of man coming in a cloud with power and great
-glory.”<sup>[2]</sup>
+glory.”[2]
 
 3. Gospel of St. Matthew
 ------------------------
@@ -89,18 +89,18 @@ Isa (a.s). Some of them are as follows:
 (a) “Immediately after the tribulation of those days the sun will be
 darkened, and the moon will not give its light, and the stars will fall
 from heaven, and the powers of the heavens will be shaken; then will
-appear the sign of the Son of man in heaven…”<sup>[3]</sup>
+appear the sign of the Son of man in heaven…”[3]
 
 (b) “But at midnight there was a cry, ‘Behold, the bridegroom! Come out
-to meet him.’”<sup>[4]</sup>
+to meet him.’”[4]
 
 ------------------------------------------------------------------------
 
-[1] John 5:25-28 <sup>[2]</sup> Luke 21:25-28 <sup>[3]</sup> Matthew
-24:29-30 <sup>[4]</sup> Matthew 25:6
+[1] John 5:25-28 [2] Luke 21:25-28 [3] Matthew
+24:29-30 [4] Matthew 25:6
 
 (c) “Therefore you also must be ready; for the Son of man is coming at
-an hour you do not expect.”<sup>[1]</sup>
+an hour you do not expect.”[1]
 
 These prophecies about unfavorable circumstances show that the return of
 Jesus Christ shall be to remove all pains and difficulties of the
@@ -110,7 +110,7 @@ And Will Durant says: “Christians of the world scattered on the earth
 believe in the return of Christ and that he would return to the earth
 and establish his rule and one who brings faith in him shall be bestowed
 with bounties of the Hereafter. And that Jesus is the son of God, is a
-general belief among the Christians.”<sup>[2]</sup>
+general belief among the Christians.”[2]
 
 ### Signs of reappearance of Christ (a.s)
 
@@ -179,7 +179,7 @@ before all these things take place. Heaven and earth will pass away, but
 my words will not pass away.
 
 “But of that day or that hour no one knows, not even the angels in
-heaven, nor the Son, but only the Father.”<sup>[1]</sup>
+heaven, nor the Son, but only the Father.”[1]
 
 In all periods of time the Christians have been waiting for the advent
 of the Jesus Christ. Amir Shabib Ansatan says: Huart, the French
@@ -193,7 +193,7 @@ And La Martine the French Poet in his travelogue says regarding the
 Mountain of Lebanon that in the village named Jaun, he met Madame Istir
 Satanub, the well known minister of British Isles and saw that a female
 attendant was ready with a saddled horse so that if Jesus Christ returns
-she must be ready for it.<sup>[2]</sup>
+she must be ready for it.[2]
 
 These were some of the examples that the Christian thinkers and scholars
 have mentioned regarding the return of Jesus Christ. As for the Muslims,
@@ -215,7 +215,7 @@ people. As Ibne Qayyim says: Indeed the Jews are anticipating a
 revolution from the Progeny of Prophet Dawood (a.s) in such a way that
 even if his lips move in prayers, all the communities shall be
 destroyed. This Promised one in the view of the Jews is the savior who
-was promised to the Jews.<sup>[1]</sup>
+was promised to the Jews.[1]
 
 ### Description of the Advent of the Reformer of Jews
 
@@ -227,7 +227,7 @@ the fear of God would become dominant on him. He shall rule with justice
 for the good of the oppressed people and procure justice for them and
 destroy the hypocrites. He would establish peace and security in such a
 way that all the people would live a life of peace and
-prosperity.<sup>[2]</sup>
+prosperity.[2]
 
 Although it is an established fact that such a golden era has never
 occurred in the history of the world so far, that justice is established

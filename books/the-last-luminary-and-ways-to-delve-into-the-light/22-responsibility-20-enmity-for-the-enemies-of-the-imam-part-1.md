@@ -51,11 +51,7 @@ believer must protect himself from.
 
 In describing the Shi’a, Imam Ja’far. Muhammad as-Sadiq (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُحِبُّ لَنَا مُبْغِضاً وَ لاَ يُبْغِضُ لَنَا مُحِبًّا
-  </p>
-</blockquote>
+> لاَ يُحِبُّ لَنَا مُبْغِضاً وَ لاَ يُبْغِضُ لَنَا مُحِبًّا
 
 “They (our Shi’a) are those who will not love the people who have enmity
 towards us (the Ahlul Bayt) and will not hate those who love us (the
@@ -63,25 +59,17 @@ Ahlul Bayt).”[^1]
 
 Imam Muhammad. ‘Ali al-Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَبْغِضْ مُبْغِضَ آلِ مُحَمَّدٍ وَ إِنْ كَانَ صَوَّاماً قَوَّامأً
-  </p>
-</blockquote>
+> وَ أَبْغِضْ مُبْغِضَ آلِ مُحَمَّدٍ وَ إِنْ كَانَ صَوَّاماً قَوَّامأً
 
 “Have enmity for those who have enmity for the family of Muhammad even
 if they fast and stand (for Salat) a lot.”[^2]
 
 Imam Ja’far. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ اللٌّهِ مَا جَعَلَ اللٌّهُ لِأَحَدٍ خِـيَرَةً فِي اتِّـبَاعِ
-غَيْرِنَا وَ إِنَّ مَنْ وَافَقَنَا خَالَفَ عَدُوَّنَا وَ مَنْ وَافَقَ
-عَدُوَّنَا فِي قَوْلٍ أَوْ عَمَلٍ فَلَيْسَ مِنَّا وَ لاَ نَحْنُ
-مِنْهُمْ
-  </p>
-</blockquote>
+> وَ اللٌّهِ مَا جَعَلَ اللٌّهُ لِأَحَدٍ خِـيَرَةً فِي اتِّـبَاعِ
+> غَيْرِنَا وَ إِنَّ مَنْ وَافَقَنَا خَالَفَ عَدُوَّنَا وَ مَنْ وَافَقَ
+> عَدُوَّنَا فِي قَوْلٍ أَوْ عَمَلٍ فَلَيْسَ مِنَّا وَ لاَ نَحْنُ
+> مِنْهُمْ
 
 “I swear by Allah that Allah has not permitted anyone to follow anybody
 other than us (the Ahlul Bayt) and whoever follows us (the Ahlul Bayt)
@@ -94,5 +82,4 @@ vol. 68, pg. 179, sec. 19, no. 37
 [^2]: Wasa\`il ash-Shi’a, vol. 11, pg. 444, sec. 17, no. 19
 
 [^3]: Wasa\`il ash-Shi’a, vol. 18, pg. 85, sec. 9, no. 33
-
 

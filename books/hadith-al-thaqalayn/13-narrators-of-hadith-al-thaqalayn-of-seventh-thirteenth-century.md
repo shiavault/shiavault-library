@@ -157,4 +157,3 @@ al-jinan, iv, 121.
 
 [^7]: Tadhkirat al-huffaz, iv, 1476; Tabaqat al-huffaz, 511.
 
-

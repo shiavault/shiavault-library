@@ -809,4 +809,3 @@ Jawad Tabasi, Naqsh-e Zanan.
 
 [^57]: Ibn Hammad, Fitan, p. 151; Kanz al-‘Ummal, vol. 14, p. 602.
 
-

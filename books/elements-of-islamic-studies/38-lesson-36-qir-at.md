@@ -86,4 +86,3 @@ Prayer; but it is not good and one should not resort to it except in
 emergency when there is no time to learn by heart, nor is there any
 *Salat al-jama’ah* (congregational prayer) to join.
 
-

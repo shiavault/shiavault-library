@@ -3,12 +3,8 @@ God's Free-hold on Living
 
 Undoubtedly, God owns the lives of all beings and creatures:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***[He] who created death and life to test you [as to] which of you is
 best in deed - and He is the Exalted in Might, the Forgiving. (Quran,
@@ -31,11 +27,7 @@ realizing that they are too weak (even) to destroy it."[^1]
 Quran emphasizes that creation of life and death is exclusively done by
 God:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
-  </p>
-</blockquote>
+> وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
 
 ***And that it is He who causes death and gives life.*** ***(Quran,
 53:44) ***
@@ -43,12 +35,8 @@ God:
 The evidence of God's capability in creating life is that he
 materialized life from nothing and from death.
 
-<blockquote dir="rtl">
-  <p>
-وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا
-مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
-  </p>
-</blockquote>
+> وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا
+> مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
 
 ***And a sign for them is the dead earth. We have brought it to life and
 brought forth from it grain, and from it they eat.*** ***(Quran,
@@ -57,17 +45,12 @@ brought forth from it grain, and from it they eat.*** ***(Quran,
 The ownership of life and death, as the most complicated phenomena of
 life also belongs to God:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ
-الْإِنْسَانَ لَكَفُورٌ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ
+> الْإِنْسَانَ لَكَفُورٌ
 
 ***And He is the one who gave you life; then He causes you to die and
 then will [again] give you life. Indeed, mankind is ungrateful.***
 ***(Quran, 22:66)***
 
 [^1]: Nahj al- Balaghah, Sermon 185.
-
 

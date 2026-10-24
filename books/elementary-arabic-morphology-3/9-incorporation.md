@@ -25,4 +25,3 @@ command verb, as in **مُدُّ** or **اُمدُد.**
 46. It is impermissible to incorporate when the verb is connected to a
 sound nominative pronoun with a vowel sign, for example: **مَدَدتُ.**
 
-

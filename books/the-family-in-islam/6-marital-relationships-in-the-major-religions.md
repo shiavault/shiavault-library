@@ -135,4 +135,3 @@ extreme quelling of any opposition together with the social gulf between
 the elite and nobility and the poor and miserable. All these matters
 have fuelled these philosophies.28
 
-

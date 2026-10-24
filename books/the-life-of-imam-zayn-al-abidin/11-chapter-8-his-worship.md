@@ -3190,4 +3190,3 @@ vol. 46, p. 81. Tha‘lab, al-Majjlis, vol. 2, p. 462.
 
 [^93]: Al-Sahifa al-Sajjadiya, Supplication no. 48.
 
-

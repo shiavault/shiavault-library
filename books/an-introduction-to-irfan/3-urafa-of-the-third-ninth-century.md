@@ -139,7 +139,6 @@ themselves in the state of 'intoxication'.
 Al-Hallaj is remembered by the 'urafa' as a martyr. He was executed in
 309/913. 15
 
-
 **'Urafa' of the Fourth/Tenth Century**
 
 **1. Abu Bakr al-Shibli:**
@@ -187,7 +186,6 @@ The fame of Abu Talib al-Makki rests largely on the book he authored on
 'irfan and sufism, Qut al-qulub. This book is one of the principal and
 earliest texts of 'irfan and sufism. He passed away in 385/995 or
 386/996.
-
 
 **'Urafa' of the Fifth/Eleventh Century:**
 
@@ -317,5 +315,4 @@ never again accepted any post or position. Following his period of
 solitary asceticism, he wrote his famous Ihya' 'ulum al-Din ('Reviving
 the Sciences of Religion'). He died in his home city of Tus in the year
 505/1111.
-
 

@@ -71,4 +71,3 @@ the first arrow for Islam.” *(The Life of Mohammed, London, 1877)*
 There were no more campaigns in the remainder of the first year of
 Hijra.
 
-

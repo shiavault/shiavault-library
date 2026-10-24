@@ -71,12 +71,8 @@ this volume. It should not remain unsaid, however, that it is unlawful
 to use water if it reaches the bound of what may be considered as
 extravagance. The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْوُضُوءُ مُدٌ وَ ٱلْغُسْلُ صَاعٌ وَ سَيَأْتِي أَقْوَامٌ
-يَسْتَقِلُّونَ ذٰلِكَ فَأُولٰئِكَ عَلىٰ خِلاَفِ سُنَّتي.
-  </p>
-</blockquote>
+> أَلْوُضُوءُ مُدٌ وَ ٱلْغُسْلُ صَاعٌ وَ سَيَأْتِي أَقْوَامٌ
+> يَسْتَقِلُّونَ ذٰلِكَ فَأُولٰئِكَ عَلىٰ خِلاَفِ سُنَّتي.
 
 “For ablution a *mudd*[^9] and for taking a bath {*ghusl*} a *sa‘*[^10]
 are enough, but there will come people in the future, people who will
@@ -286,12 +282,8 @@ at home, particularly at the time of sickness, is strongly recommended.
 
 In a *hadith*, the Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-سَيَأْتي عَلىٰ ٱلنَّاسِ زَمَانٌ يَتْرَكُونَ ٱلأَذَانَ عَلىٰ
-ضُعَفَائِهِمْ.
-  </p>
-</blockquote>
+> سَيَأْتي عَلىٰ ٱلنَّاسِ زَمَانٌ يَتْرَكُونَ ٱلأَذَانَ عَلىٰ
+> ضُعَفَائِهِمْ.
 
 “A time will come when the people will belittle the *adhan* and assign
 it to the weak among them.”[^27]
@@ -493,5 +485,4 @@ the time. {Trans.}
 
 [^39]: Tafsir Nemuneh, vol. 4, p. 438, under verse 58 of Surah
 al-Ma’idah.
-
 

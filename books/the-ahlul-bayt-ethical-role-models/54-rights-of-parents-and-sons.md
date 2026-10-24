@@ -497,4 +497,3 @@ in my childhood." (17:24)”
 
 [^22]: Quoted from Imam Ali ibn al-Hussein’s Treatise of Rights.
 
-

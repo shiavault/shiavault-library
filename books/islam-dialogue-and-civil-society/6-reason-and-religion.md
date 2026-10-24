@@ -228,4 +228,3 @@ material world.
 advocate of reason, I can already see the signs of the eager reception
 awaiting religion in today's world.
 
-

@@ -126,4 +126,3 @@ pp.405-6.
 
 [^14]: Present-day Samarra’ in ‘Iraq: Tarikh Baghdad, vol.5, p.196.
 
-

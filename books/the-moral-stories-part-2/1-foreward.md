@@ -27,4 +27,3 @@ Readers are requested to accord due respect to this booklet in view of
 the sacred quotations in Arabic from the Holy Qura'n. May they also help
 us in circulation so as to spread its benefit far and wide.
 
-

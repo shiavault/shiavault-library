@@ -29,4 +29,3 @@ their perfection has degrees. Highest of all is the status of the seal
 of prophets: Muhammad (s).[^6] Other people depending on the spiritual
 status that they earn enjoy some degrees of this perfection.
 
-

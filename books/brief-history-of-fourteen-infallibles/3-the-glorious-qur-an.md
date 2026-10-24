@@ -64,4 +64,3 @@ Historical and scholarly footnotes have been specially avoided to keep
 the volume from becoming cumbersome. Those interested in deeper studies,
 should have recourse to several libraries.
 
-

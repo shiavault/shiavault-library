@@ -101,12 +101,8 @@ are examples of the Invisible World. The Holy Qur’an regards faith in
 the Invisible the first characteristic of the pious and the prerequisite
 for human guidance:
 
-<blockquote dir="rtl">
-  <p>
-﴿ذلكَ الكتابُ لا رَيْبَ فيهِ هدیً لِلمُتَّقينَ. الّذينَ يُؤمِنونَ
-بالغَيبِ...﴾
-  </p>
-</blockquote>
+> ﴿ذلكَ الكتابُ لا رَيْبَ فيهِ هدیً لِلمُتَّقينَ. الّذينَ يُؤمِنونَ
+> بالغَيبِ...﴾
 
 ***“That is the book wherein there is no doubt [and it is] a guidance to
 the pious. They who have faith in the Invisible…”***[^5]
@@ -125,11 +121,7 @@ elevated worlds exist that cannot be perceived by the senses.[^8] The
 Qur’an swears by both these worlds in order to emphasize the existence
 of an unseen world beyond the natural world:
 
-<blockquote dir="rtl">
-  <p>
-﴿فلا أُقسمُ بما تُبْصِرون. و ما لا تُبْصِرون﴾
-  </p>
-</blockquote>
+> ﴿فلا أُقسمُ بما تُبْصِرون. و ما لا تُبْصِرون﴾
 
 **“No [it is not so]! I swear by what you see; and by what you see
 not.”**[^9]
@@ -141,27 +133,15 @@ reveals the profound fact that the source of all things is in God’s
 possession and that all natural entities are in fact, a relegated form
 of a truth that resides in the metaphysical world:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ إِنْ مِن شيءٍ إِلّا عندنا خزآئِنُهُ و ما نُنَزِّله إلّا بقدرٍ
-مَّعلوم﴾
-  </p>
-</blockquote>
+> ﴿وَ إِنْ مِن شيءٍ إِلّا عندنا خزآئِنُهُ و ما نُنَزِّله إلّا بقدرٍ
+> مَّعلوم﴾
 
 **“And there is naught but that its treasuries are with Us, and We send
 it down not save in specific amounts.”**[^10]
 
-<blockquote dir="rtl">
-  <p>
-چرخ با اين اختران نغز و خوش و زيباستي
-  </p>
-</blockquote>
+> چرخ با اين اختران نغز و خوش و زيباستي
 
-<blockquote dir="rtl">
-  <p>
-صورتي در زير دارد آنچه در بالاستي
-  </p>
-</blockquote>
+> صورتي در زير دارد آنچه در بالاستي
 
 *The heavens full of stars are wonderful, delightful, beautiful;*
 
@@ -174,12 +154,8 @@ Another prominent principle in Islamic cosmology is that the world has
 been founded upon justice and it revolves in the orbit of equity. The
 Noble Qur’an speaks of the justness of the world in various verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ما خَلَقَ الله السّماوات وَ الأَرض و ما بينهمآ إِلّا بالحقِّ و أَجَلٍ
-مسمّىً و إِنَّ كَثيراً مِنَ النّاسِ بِلِقآئِ رَبِّهِم لَكٰفِرُونَ﴾
-  </p>
-</blockquote>
+> ﴿ما خَلَقَ الله السّماوات وَ الأَرض و ما بينهمآ إِلّا بالحقِّ و أَجَلٍ
+> مسمّىً و إِنَّ كَثيراً مِنَ النّاسِ بِلِقآئِ رَبِّهِم لَكٰفِرُونَ﴾
 
 ***“Allah has not created the heavens and earth and all in between save
 in justice and an appointed end, yet surely many people deny the
@@ -188,11 +164,7 @@ encounter with their Lord.”***[^11]
 Additionally, the Qur’an retells the state of people of God who after
 contemplating Creation call upon their Lord in this manner:
 
-<blockquote dir="rtl">
-  <p>
-﴿ربنّا ما خلقتَ هذا باطلاً﴾
-  </p>
-</blockquote>
+> ﴿ربنّا ما خلقتَ هذا باطلاً﴾
 
 ***“O Lord! You have not created this [world] in vain!”***[^12]
 
@@ -206,11 +178,7 @@ the world be organized by specific laws and that worldly phenomena work
 under set restrictions. In representation of this truth, the Qur’an
 declares that the ordered movement of celestial bodies is divine fate:
 
-<blockquote dir="rtl">
-  <p>
-﴿و الشّمس تَجرى لمستقرّ لّهآ، ذلك تقديرُ العزيزِ الْعَليم﴾
-  </p>
-</blockquote>
+> ﴿و الشّمس تَجرى لمستقرّ لّهآ، ذلك تقديرُ العزيزِ الْعَليم﴾
 
 ***“And the sun moves within a set orbit; that is the destiny (or
 decree) of the Omnipotent, the Omniscient.”*** [^13]
@@ -221,17 +189,9 @@ who has made these governing laws can also violate them. His will and
 providence is transcendent to all laws. In other words, God is the
 “rule-maker” and “rule-breaker”:
 
-<blockquote dir="rtl">
-  <p>
-از سبب سازيش من سوداييم
-  </p>
-</blockquote>
+> از سبب سازيش من سوداييم
 
-<blockquote dir="rtl">
-  <p>
-وز سبب‌سوزيش سوفسطاييم
-  </p>
-</blockquote>
+> وز سبب‌سوزيش سوفسطاييم
 
 *I am lovesick due to His rule-making;*
 
@@ -273,11 +233,7 @@ divine wisdom, the sagacity of God requires that He create the best and
 most perfect world among all illimitably possible worlds. It seems that
 the Qur’an indicates this fact where it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿الّذي أحسنَ كلَّ شيءٍ خَلَقَهُ﴾
-  </p>
-</blockquote>
+> ﴿الّذي أحسنَ كلَّ شيءٍ خَلَقَهُ﴾
 
 ***“[He is] who has created all things perfect.”***[^15]
 
@@ -289,17 +245,9 @@ fallaciousness of this idea is revealed because within each evil various
 wisdoms are embedded that justify their existence and make them
 beneficial to the ideal perfection of the world.
 
-<blockquote dir="rtl">
-  <p>
-جهان چون چشم و خال و خط و ابروست
-  </p>
-</blockquote>
+> جهان چون چشم و خال و خط و ابروست
 
-<blockquote dir="rtl">
-  <p>
-كه هر چيزي به جاي خويش نيكوست
-  </p>
-</blockquote>
+> كه هر چيزي به جاي خويش نيكوست
 
 *The world is like eyes and moles and hair and brows;*
 
@@ -349,25 +297,13 @@ interpretation is incompatible with various evidences regarding this
 verse. In explanation, this definition of praise and exaltation is not
 something we cannot understand because the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿... و لكن لّا تفقهونَ تسبيحَهُم﴾
-  </p>
-</blockquote>
+> ﴿... و لكن لّا تفقهونَ تسبيحَهُم﴾
 
 ***“…and yet, you do not realize their exaltation.”*** [^18]
 
-<blockquote dir="rtl">
-  <p>
-كوه و دريا و درختان، همه در تسبيح‌اند
-  </p>
-</blockquote>
+> كوه و دريا و درختان، همه در تسبيح‌اند
 
-<blockquote dir="rtl">
-  <p>
-نه همه مستمعي فهم كند اين اسرار
-  </p>
-</blockquote>
+> نه همه مستمعي فهم كند اين اسرار
 
 *The mountains, seas, and trees are all praising Him;*
 
@@ -407,11 +343,7 @@ and merely watch the events and incidents occurring in the world;
 rather, the Divine Essence, despite being exalted and magnificent,
 accompanies even the lowliest elements of existence:
 
-<blockquote dir="rtl">
-  <p>
-﴿و هو معكم أَينَ ما كُنتُم﴾
-  </p>
-</blockquote>
+> ﴿و هو معكم أَينَ ما كُنتُم﴾
 
 ***“And He is with you wherever you may be.”***[^22]
 
@@ -426,20 +358,12 @@ there are profound interpretations of the relationship of God and His
 creations. Imam ‘Alī (‘a) has elucidated this connection in various
 erudite sermons using varied terms:
 
-<blockquote dir="rtl">
-  <p>
-مع كل شيء لا بمقارنة و غير كلّ شيء لا بمزايلة.
-  </p>
-</blockquote>
+> مع كل شيء لا بمقارنة و غير كلّ شيء لا بمزايلة.
 
 ***“[God] is with all things without being their partner and is apart
 from all things without being distant from them.”***[^24]
 
-<blockquote dir="rtl">
-  <p>
-عالٍ في دُنوّهُ و دانٍ في علوّه.
-  </p>
-</blockquote>
+> عالٍ في دُنوّهُ و دانٍ في علوّه.
 
 ***“[God] is close in His sublimity, and is Sublime in His
 closeness.”***[^25]
@@ -472,11 +396,7 @@ its colorfulness and diversity, is the manifestation of a united will.
 Moreover, all alterations and transformations originate from a
 changeless and exclusive fountainhead:
 
-<blockquote dir="rtl">
-  <p>
-لا حولَ و لا قوّةَ الّا بالله.
-  </p>
-</blockquote>
+> لا حولَ و لا قوّةَ الّا بالله.
 
 ***“There is no force or power but Allah.”***
 
@@ -502,12 +422,8 @@ and shorten our discussion.
 
 Various Qur’anic verses state that the world was created in six days.
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ ربّكم اللهُ الّذي خلق السّماوات و الأَرض في سِتَّةِ أَيّامٍ
-ثُمَّ استوى على العرش﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ ربّكم اللهُ الّذي خلق السّماوات و الأَرض في سِتَّةِ أَيّامٍ
+> ثُمَّ استوى على العرش﴾
 
 ***“Surely your Lord is Allah, who created the heavens and earth in six
 days, then established Himself atop the Throne.”***[^27]
@@ -531,11 +447,7 @@ reserves and provisions of the earth were also created in two eras.[^32]
 
 Many verses speak of the seven heavens:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللهُ الّذي خلق سبعَ سماواتٍ﴾
-  </p>
-</blockquote>
+> ﴿اللهُ الّذي خلق سبعَ سماواتٍ﴾
 
 ***“It is Allah who created the seven heavens.”***[^33]
 
@@ -553,22 +465,14 @@ been extracted from the Qur’an.
 
 These skies are arranged above one another:
 
-<blockquote dir="rtl">
-  <p>
-﴿الّذي خَلَقَ سَبْعَ سَماواتٍ طِبَاقاً﴾
-  </p>
-</blockquote>
+> ﴿الّذي خَلَقَ سَبْعَ سَماواتٍ طِبَاقاً﴾
 
 ***“[Allah is] who created the seven heavens in layers.”***[^35]
 
 Additionally, the stars that shine at night exist in the lowest of the
 seven skies:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنّا زيّنّا السّمآءَ الدُّنيا بزينةِ الكواكِب﴾
-  </p>
-</blockquote>
+> ﴿إِنّا زيّنّا السّمآءَ الدُّنيا بزينةِ الكواكِب﴾
 
 ***“Surely, We have adorned the sky of the world with the ornamentation
 of stars.”***[^36]
@@ -596,11 +500,7 @@ The Qur’an regards celestial bodies submissive to God. It stresses that
 the movements and effects of these bodies are according to a plan that
 the Creator of the World has set for them:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ الشَّمسَ وَ القَمَرَ و النُّجُومَ مُسَخَّراتٍ بِأَمرِه﴾
-  </p>
-</blockquote>
+> ﴿وَ الشَّمسَ وَ القَمَرَ و النُّجُومَ مُسَخَّراتٍ بِأَمرِه﴾
 
 ***“And [He created] the sun and moon and stars, subservient to His
 command.”***[^45]
@@ -613,25 +513,13 @@ not collide in normal circumstances. In Sūrah Yāsīn, after speaking of
 the movements of the earth and moon, it is stated that these two
 celestial bodies never collide, because they float in set orbits:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ كلٌّ في فَلَكٍ يَسبَحون﴾
-  </p>
-</blockquote>
+> ﴿وَ كلٌّ في فَلَكٍ يَسبَحون﴾
 
 ***“And each drifts in an orbit.”***[^48]
 
-<blockquote dir="rtl">
-  <p>
-ماه و خورشيد به منزل، چو امر تو رسند
-  </p>
-</blockquote>
+> ماه و خورشيد به منزل، چو امر تو رسند
 
-<blockquote dir="rtl">
-  <p>
-يار مه‌روي مرا نيز به من باز رسان
-  </p>
-</blockquote>
+> يار مه‌روي مرا نيز به من باز رسان
 
 *The sun and moon attain their places at your command;*
 
@@ -729,23 +617,15 @@ carnality or hedonistic desires. Thus, they continuously worship and
 glorify their Lord and never defy or rebel against God. The Qur’an
 describes angels thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿بَلْ عِبادٌ مُكْرَمون. لايَسْبِقُونَهُ بِالقَولِ وَ هُم بِأَمْرِهِ
-يَعْمَلُون﴾
-  </p>
-</blockquote>
+> ﴿بَلْ عِبادٌ مُكْرَمون. لايَسْبِقُونَهُ بِالقَولِ وَ هُم بِأَمْرِهِ
+> يَعْمَلُون﴾
 
 ***“Rather, [angels] are noble servants. They do not overtake Him in
 speech, and they perform as He commands.”***[^67]
 
 In addition, of the angels that guard hell it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿لا يَعْصُونَ اللهَ مآ أَمَرَهُم وَ يَفْعَلُونَ ما يُؤْمَرُون﴾
-  </p>
-</blockquote>
+> ﴿لا يَعْصُونَ اللهَ مآ أَمَرَهُم وَ يَفْعَلُونَ ما يُؤْمَرُون﴾
 
 ***“They disobey not Allah in what He commands and perform what they are
 commanded.”***[^68]
@@ -754,11 +634,7 @@ commanded.”***[^68]
 
 Angels have been appointed by God with divine missions:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللهُ يَصْطَفِي مِنَ الملائِكَةِ رُسُلاً...﴾
-  </p>
-</blockquote>
+> ﴿اللهُ يَصْطَفِي مِنَ الملائِكَةِ رُسُلاً...﴾
 
 ***“Allah appoints of the angels, messengers …”***[^69]
 
@@ -785,12 +661,8 @@ inhabitants.[^80]
 In addition, Angels continuously worship, revere, and praise God. They
 never stop and never do anything else. According to the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿و مَنْ عندهُ لا يَستَكبِرُونَ عَن عِبادَتِهِ و لا يَستَحْسِرُون.
-يُسَبِّحُون اللَّيلَ و النّهارَ لا يَفتُرُون﴾
-  </p>
-</blockquote>
+> ﴿و مَنْ عندهُ لا يَستَكبِرُونَ عَن عِبادَتِهِ و لا يَستَحْسِرُون.
+> يُسَبِّحُون اللَّيلَ و النّهارَ لا يَفتُرُون﴾
 
 ***“And those who are with Him never wax too proud to serve Him and
 never grow weary. They glorify Him night and day without remit.”***[^81]
@@ -805,11 +677,7 @@ that angels do possess various ranks and echelons and some are
 subordinate to others. The Qur’an declares that each angel possesses a
 determined station and rank:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ ما مِنّآ إِلّا لَهُ مَقامٌ مَعلومٌ﴾
-  </p>
-</blockquote>
+> ﴿وَ ما مِنّآ إِلّا لَهُ مَقامٌ مَعلومٌ﴾
 
 ***“And there are none of us (angels) save who has a determined
 rank.”***[^82]
@@ -843,11 +711,7 @@ become Muslim has been recorded.
 In contrast to the angels, the Qur’an explicitly speaks of the essence
 of the jinn’s creation:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ خَلَقَ الجآنَّ مِن مارِجٍ مِن نار﴾
-  </p>
-</blockquote>
+> ﴿وَ خَلَقَ الجآنَّ مِن مارِجٍ مِن نار﴾
 
 ***“And He created the jinn of a smokeless fire.”***[^85]
 
@@ -862,11 +726,7 @@ deeds that normal humans cannot accomplish without special tools.[^87]
 Another item extracted from the Qur’an is that the jinn have been
 created before humans. In Sūrah Ḥijr it is stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ الجآنَّ خَلَقْناهُ مِن قَبلُ مِن نارِ السَّمُوم﴾
-  </p>
-</blockquote>
+> ﴿وَ الجآنَّ خَلَقْناهُ مِن قَبلُ مِن نارِ السَّمُوم﴾
 
 ***“And We created the jinn before [humans] of a blazing fire.”***[^88]
 
@@ -886,11 +746,7 @@ from among the jinn as well so as to impart divine signs upon them.[^90]
 Another point of correspondence among humans and jinn is that the
 purpose of both races is servitude and worship of the One Allah:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ ما خَلَقْتُ الجِنَّ و الإِنسَ إِلّا لِيَعبُدُون﴾
-  </p>
-</blockquote>
+> ﴿وَ ما خَلَقْتُ الجِنَّ و الإِنسَ إِلّا لِيَعبُدُون﴾
 
 ***“And I have not created the jinn and humans but that they worship
 Me***.”[^91]
@@ -919,12 +775,8 @@ Satan [shaytān] or Iblis. Shaytān is sometimes used as a
 qualifier—meaning wicked and evil. This usage pertains to both humans
 and jinn:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ كَذٰلِكَ جَعَلنا لِكُلِّ نَبيٍّ عَدُوّاً شَياطينَ الإِنسِ وَ
-الجنِّ﴾
-  </p>
-</blockquote>
+> ﴿وَ كَذٰلِكَ جَعَلنا لِكُلِّ نَبيٍّ عَدُوّاً شَياطينَ الإِنسِ وَ
+> الجنِّ﴾
 
 ***“And thus We appointed for each prophet an enemy—satans of human and
 jinn.”***[^94]
@@ -938,11 +790,7 @@ innuendo.
 
 The Qur’an explicitly states that Satan is of the jinn:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَسَجَدُوا إَلّآ إِبليسَ كانَ مِنَ الجِنِّ﴾
-  </p>
-</blockquote>
+> ﴿فَسَجَدُوا إَلّآ إِبليسَ كانَ مِنَ الجِنِّ﴾
 
 ***“Then they [all] bowed save for Iblis who was of the jinn.”***[^96]
 
@@ -1005,12 +853,8 @@ collar of Satan’s discipleship and say labbayk [^109] to his call. The
 Qur’an depicts a scene from the Hereafter in which Satan addresses the
 souls of the damned and says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ ما كانَ ليَ عَلَيكُم مِن سُلطانٍ إِلّآ أَن دَعَوْتُكُم
-فَاستَجَبتُمْ لي، فَلا تَلُومُوني و لُومُوۤا أَنفُسَكُم﴾
-  </p>
-</blockquote>
+> ﴿وَ ما كانَ ليَ عَلَيكُم مِن سُلطانٍ إِلّآ أَن دَعَوْتُكُم
+> فَاستَجَبتُمْ لي، فَلا تَلُومُوني و لُومُوۤا أَنفُسَكُم﴾
 
 ***“And I had no dominance over you except that I called to you and you
 answered me; so do not reproach me but reproach yourselves.”***[^110]
@@ -1341,5 +1185,4 @@ in the Hereafter from those who doubt it.” (Sūrah Saba’ 34:21)
 [^109]: - This means, at your service. [trans.]
 
 [^110]: - Sūrah Ibrāhīm 14:22.
-
 

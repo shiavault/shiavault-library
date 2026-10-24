@@ -581,4 +581,3 @@ He may condone my sins.” This desire of the sinner, in fact, amounts to
 istighāthah (seeking help from others) while the Prophet’s readiness to
 implore Allah for the forgiveness of his sins is intercession.
 
-

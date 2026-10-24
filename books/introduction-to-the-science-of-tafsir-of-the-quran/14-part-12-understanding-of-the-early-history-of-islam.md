@@ -67,4 +67,3 @@ there was a difference of opinion between them.
 
 [^2]: Ibid., vol. 1, pg. 263
 
-

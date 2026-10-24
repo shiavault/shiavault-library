@@ -100,10 +100,9 @@ Merciful of the Merciful. [^5]
 \`Thus our last message is that praise be towards the lord of the
 worlds.
 
-[^1] Bihaaril-Anwaar: vol. 99. p.265, trad-no. 1.
-[^2] Bihaaril-Anwaar: vol. 99. p.265, trad-no. 3.
-[^3] Bihaaril-Anwaar: vol-no. 99. p.267, trad-no. 5.
-[^4] Bihaaril-Anwaar: vol-no. 99. p.267, trad-no. 6.
-[^5] Pleace vide, Bihaaril-Anwaar. Vol. 99, p. 102-103,m trade. 4.
-
+[^1]: Bihaaril-Anwaar: vol. 99. p.265, trad-no. 1.
+[^2]: Bihaaril-Anwaar: vol. 99. p.265, trad-no. 3.
+[^3]: Bihaaril-Anwaar: vol-no. 99. p.267, trad-no. 5.
+[^4]: Bihaaril-Anwaar: vol-no. 99. p.267, trad-no. 6.
+[^5]: Pleace vide, Bihaaril-Anwaar. Vol. 99, p. 102-103,m trade. 4.
 

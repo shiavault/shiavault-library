@@ -448,4 +448,3 @@ control on his own activities and property whereas the despotic rulers
 deprived the people of this right and subjected them to all sorts of
 torture and tyranny.
 
-

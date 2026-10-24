@@ -49,7 +49,6 @@ government, although it has different aspects than other sub-Shiite
 creeds, and the speech about this will take long time and maybe it needs
 a book for its own sake.
 
-
 **Introduction**
 
 In the name of God, the Beneficent, the Merciful And prays on the most
@@ -224,7 +223,6 @@ the same as well and he is the son of Al-Hasan ben 'Ali ben Muhammad ben
 ben Abi Talib (PUT) (the one born in year 256 Hejira) in Samarra' in
 Iraq.
 
-
 Al-Sayid Al-Jaza'iri said in his tales:
 
 The meaning of the messengers in the holy phrase "Lo! We verily do help
@@ -374,7 +372,6 @@ check all of its contents to its certain limits except few which, for
 necessity, had to be planted other than its position, and God is the
 Guider to the path of truth.
 
-
 **Introduction of The Second Edition**
 
 I did not expect when I started to write my book (The prophet, their
@@ -423,7 +420,5 @@ thanks to God firstly and lastly, asking Him to Accept it from me with a
 good acceptance and Give me from His grace, and Make the believers that
 avoid the stumbles benefit from it, and God is the Helper.
 
-
 The Author
-
 

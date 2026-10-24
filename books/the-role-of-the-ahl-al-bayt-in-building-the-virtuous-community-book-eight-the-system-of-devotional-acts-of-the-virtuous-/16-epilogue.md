@@ -34,4 +34,3 @@ Household.
 
 *Help us against those who stand against faith.*
 
-

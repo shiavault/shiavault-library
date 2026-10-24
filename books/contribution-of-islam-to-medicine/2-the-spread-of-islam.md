@@ -42,7 +42,6 @@ besieged Vienna twice, once during the reign of Sulayman 1 (1520-1566
 A.D.) and the other during the reign of Mohammed IV (1648-1687 A.D.)
 (Hitti 1977).
 
-
 **Islam and the Promotion of Culture and Science**
 
 As the Moslems challenged the civilized world at that time, they
@@ -128,5 +127,4 @@ Christians or Jews, especially at the early phase of the lslamic
 civilization: the translation period to Arabic, and the decline part:
 the translation period to Latin and Hebrew. Therefore, in this article,
 the adjectives Arabic or Islamic will be used as synonyms.
-
 

@@ -89,4 +89,3 @@ Thus the Christians backed away from the challenge of Mubalahah, and
 Wisely came to terms with the Prophet, pledging to pay an annual tribute
 to the Muslims.
 
-

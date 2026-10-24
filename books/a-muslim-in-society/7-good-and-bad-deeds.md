@@ -66,4 +66,3 @@ punishment like the doer of the deed.
 [^2]: Al-Hurr al-Amili, Wasa'il al-Shi'a, vol. 6, Kitab al-Amr bil
 al-Ma'roof
 
-

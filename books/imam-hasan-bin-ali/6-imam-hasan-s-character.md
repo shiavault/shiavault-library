@@ -30,4 +30,3 @@ As the ingredients of the characters of the two Imams were the same,
 they were singular in their behavior, march, steps and goals, which were
 Islamic in their entirety.
 
-

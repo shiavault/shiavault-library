@@ -64,4 +64,3 @@ comes any action’s success; upon Him one must rely.
     
 ** **
 
-

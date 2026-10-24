@@ -52,4 +52,3 @@ is not inappropriate to include her among the partisans of Husayn
 
 These exalted personalities are mentioned in the elegies (Marsiya).
 
-

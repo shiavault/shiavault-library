@@ -41,4 +41,3 @@ will have no effect upon you.”
 Then Bahlool shook his stick and said, “Move away! My horse kicks!” He
 remounted his stick and ran away.
 
-

@@ -116,7 +116,5 @@ Testimony is the axis around which the whole wheel of our religion
 rotates. This is the key to salvation. Without this there is nothing
 left worthy of mention.
 
-
 Bashir Alidina
-
 

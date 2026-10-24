@@ -108,7 +108,6 @@ son of Seth, the son of Adam, the son of God."
 The genealogies appear more clearly when presented in two tables, one
 showing the genealogy before David and the other after him.
 
-
 GENEALOGY OF JESUS, BEFORE DAVIDAccording to Marrhew VARIATIONS IN THE
 MANUSCRIPTS AND IN RELATION TO THE OLD TESTAMENT.
 
@@ -319,5 +318,4 @@ The genealogies of Jesus as they appear in the Gospels may perhaps be
 the subject that has led Christian commentators to perform their most
 characteristic feats of dialectic acrobatics, on par indeed with Luke's
 and Matthew's imagination.
-
 

@@ -8,10 +8,5 @@ spittle from the deliciousness of [this temporary] life; they [shall]
 taste it for a short while and then spit it all out.
 
 > 1ـ في ذِكرِ بَني اُمَيَّةَ: هِيَ مُجاجَةٌ مِنْ لَذيدِ العَيْشِ،
-<blockquote dir="rtl">
-  <p>
-يَتَطَعَّمُونَها بُرْهَةً، وَيَلْفَظُونَها جُمْلَةً.
-  </p>
-</blockquote>
-
+> يَتَطَعَّمُونَها بُرْهَةً، وَيَلْفَظُونَها جُمْلَةً.
 

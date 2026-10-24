@@ -325,4 +325,3 @@ strongly with whatever situation we are facing.
 
 (e) He subjects some people to greater difficulties than others.
 
-

@@ -6,4 +6,3 @@ historical background. Then I want very briefly to refer to the actual
 events that happened in the Muharram, and finally to draw your attention
 to the great lessons which we can learn from them.
 
-

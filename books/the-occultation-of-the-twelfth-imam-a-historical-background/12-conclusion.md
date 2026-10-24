@@ -227,4 +227,3 @@ Before the reappearance of the hidden Imam, the *Fuqaha’* can assume
 political authority in order to disseminate the above tasks and to
 implement the rules of the *shari* *‘a*.
 
-

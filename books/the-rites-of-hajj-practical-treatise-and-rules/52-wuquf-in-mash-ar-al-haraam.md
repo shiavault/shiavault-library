@@ -62,4 +62,3 @@ precaution not to leave Mash'ar before midnight, and it is precaution
 that guides return to Mash'ar after taking people who are in their
 charge if it is possible.
 
-

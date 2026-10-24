@@ -28,4 +28,3 @@ success.
 
 **The** **Council for Ten-Day Dawn Celebrations**
 
-

@@ -126,7 +126,7 @@ hindrance to the advancement of Islam and the Muslims.
 
 **Notes:**
 
-[^1] Before \`Ali, the Prophet called these people by these names when
+[^1]: Before \`Ali, the Prophet called these people by these names when
 he said to him: "After me, you will fight with the nakithun, the qasitun
 and the mariqun." This tradition is narrated by Ibn Abi'l Hadid in his
 commentary on Nahju 'l-balaghah (vol. 1, p.201), where he says that it
@@ -134,5 +134,5 @@ is one of the proofs of the prophethood of Muhammad since the tradition
 is quite explicit about the future and the unknown (ghayb), and there is
 no kind of hidden interpretation or ellipsis in it.
 
-[^2] Nahju 'l-balaghah - Sermon 3 "ash-Shiqshiqiyah".
+[^2]: Nahju 'l-balaghah - Sermon 3 "ash-Shiqshiqiyah".
 

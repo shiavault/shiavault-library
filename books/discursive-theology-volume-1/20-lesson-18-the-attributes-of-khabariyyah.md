@@ -124,11 +124,7 @@ and that is, in elucidating its sublime teachings, the Holy Qur’an uses
 parables so as to make these teachings understandable to the common
 people. As the Qur’an itself has stated,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَضْرِبُ اللَّهُ الأمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَضْرِبُ اللَّهُ الأمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ ﴾
 
 ***“Allah draws these parables for mankind so that they may take
 admonition.”***[^14]
@@ -140,19 +136,11 @@ anthropomorphism, there have been explicit and clear verses in the Holy
 Qur’an that negate any kind of similitude between God and other beings.
 It is thus stated,
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَيْسَ كَمِثْلِهِ شَيْءٌ ﴾
-  </p>
-</blockquote>
+> ﴿ لَيْسَ كَمِثْلِهِ شَيْءٌ ﴾
 
 ***“Nothing is like Him.”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴾
 
 ***“Nor has He any equal.”***[^17]
 
@@ -245,12 +233,8 @@ Bases of the Proponents of Tafwīḍ
 the allegorical verses as a product of sedition-mongering and
 *ta’wil*-orientedness:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا
-تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا
+> تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ﴾
 
 ***“As for those in whose hearts is deviance, they pursue what is
 metaphorical in it, courting temptation and courting its
@@ -274,11 +258,7 @@ acceptable and permissible.
 and certainty, and concerning the Divine Attributes, one cannot rely on
 conjecture and speculation:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنَّ الظَّنَّ لا يُغْنِي مِنَ الْحَقِّ شَيْئًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنَّ الظَّنَّ لا يُغْنِي مِنَ الْحَقِّ شَيْئًا ﴾
 
 ***“And indeed conjecture is no substitute for the truth.”***[^28]
 
@@ -346,11 +326,7 @@ Allah who looks after the Throne. His Throne is not located in a
 particular place but rather encompasses the heavens and the earth. As He
 said,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ ﴾
 
 ***“His seat embraces the heavens and the earth.”***[^32]
 
@@ -485,5 +461,4 @@ al-Rāzī. See Al-Mīzān fī Tafsīr al-Qur’ān, vol. 14, p. 133.
 
 [^33]: Shaykh al-Ṣadūq, Al-Tawḥīd, section (bāb) on the rejection of
 dualism (thanawiyyah) and atheism (zanādiqah), ḥadīth 1.
-
 

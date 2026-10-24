@@ -281,4 +281,3 @@ strong that they took their place in the ranks of 'Ali's enemies.
 
 [^2]: . In 'Ali' wa banuh (\`Ali and His Sons), p. 40.
 
-

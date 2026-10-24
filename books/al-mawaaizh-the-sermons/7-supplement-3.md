@@ -157,18 +157,14 @@ man, whose face was pale out of traveling, approached and asked: "Where
 is Amir ul-Mu'minin?" "Here he is," some answered (as they pointed to
 Imam Ali).
 
-<p dir="rtl">
 فسلّم عليه ثمّ قال: يا أمير المؤمنين، إنّي أتيتك من ناحية الشام، وأنا
 شيخ كبير قد سمعت فيك من الفضل ما لا أحصي، وإنّي أظنّك ستُغتال، فعلّمني
 ممّا علّمك الله.
-</p>
 
-<p dir="rtl">
 قال عليه السلام: نعم يا شيخ، من اعتدل يوماه فهو مغبون، ومن كانت الدنيا
 همّه اشتدّت حسرته على فِراقها، ومن كان غده شرّ يوميه فهو محروم، ومن لم
 يبالِ بما زوي من آخرته إذا سَلِمت له دنياه فهو هالك، ومن لم يتعاهد النقص
 من نفسه غلب عليه الهوى، ومن كان في نقص فالموت أهون له.
-</p>
 
 The old man moved toward him, greeted him, and said: "O Amir
 ul-Mu'minin, I have come to you from Syria in spite of my old age
@@ -185,7 +181,6 @@ perishing. He who does not pay attention to the defects of his own
 personality is overcome by passions. Death is surely better for those
 who are moving to the abyss.
 
-<p dir="rtl">
 يا شيخ، إنّ الدنيا خَضرِةٌ حلوة ولها أهل، وإنّ الآخرة لها أهل ظَلِفت
 أنفسهم عن مفاخرة أهل الدنيا، لا يتنافسون في الدنيا، ولا يفرحون بغضارتها،
 ولا يحزنون لبؤسها. يا شيخ، من خاف من البيات قلّ نومه، ما أسرع الليالي
@@ -193,7 +188,6 @@ who are moving to the abyss.
 للناس ما ترضى لنفسك، وأئت للناس ما تُحبّ أن يُؤتى إليك. ثمّ أقبل على
 أصحابه فقال: أيّها الناس، أما ترون أنّ أهل الدنيا يُمسون ويُصبحون على
 أحوال شتّى؟
-</p>
 
 O Old man, this world is sweet and green. It has its own people. The
 world to come is also has its own people whose selves are too lofty to
@@ -211,13 +205,11 @@ Ali (a) then turned to his companions and said: O people, do you not see
 that people in this world encountering a great variety of conditions
 whenever they enter into evening or morning?
 
-<p dir="rtl">
 فبين صريع يتلوّى، وبين عائد ومَعُود، وآخر بنفسه يجود، وآخر لا يُرجى،
 وآخر مُسجّى، وطالب الدنيا والموت يَطلبهُ، وغافل وليس بمغفول عنه، وعلى
 أثر الماضي يصير الباقي. فقال له زيد بن صوحان العبدي: يا أمير المؤمنين
 أيّ سلطان أغلب وأقوى؟ قال عليه السلام: الموت. قال: فأيّ ذلّ أذلّ؟ قال
 عليه السلام: الحرص على الدنيا. قال: فأيّ فقر أشد؟
-</p>
 
 They are either a victim that writhes (out of pain), a visitor of a
 sick, a person that is visited in his ailment, a person that is dying, a
@@ -239,15 +231,10 @@ Zaid: What is the harshest poverty?
 101. Refer to Men La Yahdhuruh ul-Faqih; 4:382 H.5833, As-Saduq's
 al-Amali; 321-2 H.4, Bihar ul-Anwar; 77:371 H.1 and 79:301 H.10.
 
-<p dir="rtl">
 قال عليه السلام: الكفر بعد الإيمان.
-</p>
 
-<p dir="rtl">
 قال: فأيّ دعوة أضلّ؟
-</p>
 
-<p dir="rtl">
 قال عليه السلام: الداعي بما لا يكون.
 قال: فأيّ عمل أفضل؟
 قال عليه السلام: التقوى.
@@ -256,7 +243,6 @@ al-Amali; 321-2 H.4, Bihar ul-Anwar; 77:371 H.1 and 79:301 H.10.
 قال: فأيّ صاحب لك شرّ؟
 قال عليه السلام: المُزيّن لك معصية الله عزّ وجلّ.
 قال: فأيّ الخلق أشقى؟
-</p>
 
 Amir ul-Mu'minin: It is apostasy after faith.
 Zaid: What is the most aberrant advocacy?
@@ -294,7 +280,6 @@ the right guidance after he had discriminated it from the wrong way.
 Zaid: Who is the most clement of people?
 Amir ul-Mu'minin: The clement of people is he who is never angry.
 
-<p dir="rtl">
 قال: فأيّ الناس أثبت رأياً؟
 قال عليه السلام: من لم تغرّه الناس من نفسه ولم تغرّه الدنيا بتشوّقها.
 قال: فأيّ النّاس أحمق؟
@@ -304,7 +289,6 @@ Amir ul-Mu'minin: The clement of people is he who is never angry.
 قال: فأيّ الخلق أعمى؟
 قال عليه السلام: الّذي عَمِل لغير الله يطلب بعمله الثواب من عند الله
 عزّ وجلّ.
-</p>
 
 Zaid: Who is the most resolute?
 
@@ -322,7 +306,6 @@ Amir ul-Mu'minin: The blindest is he who desired for gaining the
 rewards of Allah through acts that he had practiced for something other
 than the cause of Allah.
 
-<p dir="rtl">
 قال: فأيّ القنوع أفضل؟
 قال عليه السلام: القانع بما أعطاه الله عزّ وجلّ.
 قال: فأيّ المصائب أشدّ؟
@@ -332,7 +315,6 @@ than the cause of Allah.
 قال: فأيّ النّاس خيرٌ عند الله عزّ وجلّ؟
 قال عليه السلام: أخوفهم لله، وأعملهم بالتقوى، وأزهدهم في الدنيا.
 قال: فأيّ الكلام أفضل عند الله عزّ وجلّ؟
-</p>
 
 Zaid: What is the best sort of satisfaction?
 Amir ul-Mu'minin: It is the satisfaction with that which Allah has
@@ -347,7 +329,6 @@ observant of God-fearing, and the most abstinent in the worldly
 pleasures. Zaid: What is the most favorable utterance in the sight of
 Allah?
 
-<p dir="rtl">
 قال عليه السلام: كثرة ذكره، والتضرّع إليه بالدعاء.
 قال: فأيّ القول أصدق؟
 قال عليه السلام: شهادة أن لا إله إلاّ الله.
@@ -357,7 +338,6 @@ Allah?
 قال: من صدّق في المواطن.
 ثمّ أقبل عليه السلام على الشّيخ فقال: يا شيخ، إنّ الله عزّ وجلّ خلق
 خلقاً ضيّق الدنيا عليهم، نظر إليهم، فزهّدهم فيها وفي حطامها.
-</p>
 
 Amir ul-Mu'minin: It is the frequent reference to Him and the
 reverential supplication to Him.
@@ -373,7 +353,6 @@ created some people and made the worldly affairs difficult for them. He
 has also induced them to abstain from the worldly pleasures and
 transitory wreckage.
 
-<p dir="rtl">
 فرغبوا في دار السلام التي دعاهم إليها، وصبروا على ضيق المعيشة، وصبروا
 على المكروه، واشتاقوا إلى ما عند الله عزّ وجلّ من الكرامة. فبذلوا أنفسهم
 ابتغاء رضوان الله، وكانت خاتمة أعمالهم الشهادة، فلقوا الله عزّ وجلّ وهو
@@ -382,8 +361,6 @@ transitory wreckage.
 وأحبّوا في الله عزّ وجلّ وأبغضوا في الله عزّ وجلّ، اُولئك المصابيح وأهل
 النعيم في الآخرة والسلام. قال الشيخ: وأين أذهب وأدع الجنّة وأنا أراها
 وأرى أهلها معك يا أمير المؤمنين؟ جهّزوني بقوّة أقوى بها على عدوّك.
-</p>
-
 
 They desired from the Abode of Peace to which Allah has called them,
 stood the harsh livelihood and the misfortunes, and longed for the honor
@@ -400,7 +377,6 @@ The old man commented: "Where should I go and how should I leave
 Paradise while I can see it and its people with you, Amir ul-Mu'minin?
 Equip me with weapons by which I can fight against your enemy."
 
-<p dir="rtl">
 فأعطاه أمير المؤمنين عليه السلام سلاحاً، وحمله على الخيل. وكان في الحرب
 بين يدي أمير المؤمنين عليه السلام يضرب قُدُماً، وأمير المؤمنين عليه
 السلام يعجب ممّا يصنع. فلمّا اشتدّت الحرب أقبل بفرسه حتّى قتل رحمة الله
@@ -408,7 +384,6 @@ Equip me with weapons by which I can fight against your enemy."
 دابّته ووجد سيفه في ذراعه. فلمّا انقضت الحرب أتي أمير المؤمنين عليه
 السلام بدابّته وسلاحه، وصلّى عليه أمير المؤمنين عليه السلام، وقال: هذا
 والله السعيد حقّاً، فترحّموا على أخيكم.
-</p>
 
 Hence, Imam Ali (a) equipped him with weapons and prepared a horse for
 him. He went on fighting in front of Amir ul-Mu'minin (a) so bravely,
@@ -426,5 +401,4 @@ by Allah, the true happy. Seek Allah's mercy for your brother."102
 Sheikh As-Saduq 322, H.4, Me'aani al-Akhbar; 197 H.4, al-Amali; At-Tusi
 434, H.947, al-Ghayat; 66, Tanbih ul-Khawattir; 2:173, Bihar ul-Anwar;
 77:376 H.1.
-
 

@@ -256,11 +256,7 @@ to Tabari.
 This verse from Nasr Ibn Sayyar, Khurasan's governor, is an evidence
 indicating that he was from the Murji'ites,
 
-<blockquote dir="rtl">
-  <p>
-وارجاءكم لزّكم والشرك في قرن فأنتم أهل اشراك ومرجونا
-  </p>
-</blockquote>
+> وارجاءكم لزّكم والشرك في قرن فأنتم أهل اشراك ومرجونا
 
 “You are Murji'ites and are the same as atheists.” [^23]
 
@@ -315,11 +311,7 @@ drinking wine and passing nights among different singers and debauchees
 was his every day action.[^28] One of the worst actions, as it was told,
 was after reciting this verse,
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ.
-  </p>
-</blockquote>
+> وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ.
 
 “And (Allah's Prophets) asked for solutions and at last each obstinate
 tyrant became disappointed.”
@@ -327,17 +319,9 @@ tyrant became disappointed.”
 He said that he disliked it. Then he put Qur'an somewhere and shot
 toward it saying,
 
-<blockquote dir="rtl">
-  <p>
-اتوعد كلّ جبــار عنيد فها انا ذاك جبـار عنيد
-  </p>
-</blockquote>
+> اتوعد كلّ جبــار عنيد فها انا ذاك جبـار عنيد
 
-<blockquote dir="rtl">
-  <p>
-اذا ما جئت ربك يوم حشر فقل يارب حرقني الوليد
-  </p>
-</blockquote>
+> اذا ما جئت ربك يوم حشر فقل يارب حرقني الوليد
 
 Are you threatening Jabbar, the fighter. I am Jabbar the challenger. On
 the Day of Judgement, say to Allah to set fire on me[^29]
@@ -345,11 +329,7 @@ the Day of Judgement, say to Allah to set fire on me[^29]
 Somewhere else, Walid himself by denying Prophethood had openly said
 that he was an infidel.
 
-<blockquote dir="rtl">
-  <p>
-تلعب بالخلافة هاشمي بلا وحي أتاه ولا كتاب
-  </p>
-</blockquote>
+> تلعب بالخلافة هاشمي بلا وحي أتاه ولا كتاب
 
 “A man of the Hashimites played with succession without being revealed a
 Book.” [^30]
@@ -872,15 +852,11 @@ during the Marwanids than in time of 'Uthman and Mu'awiya.
 The poets of that time used some terms in reference to the Marwanids's
 caliphs such as,
 
-<blockquote dir="rtl">
-  <p>
-خليفة الله من الارض، الامين المأمون، امام المسلمين، امين الله، امام
-الاسلام، جنه الدين، الخليفه المبارك، راعي الله في الارض، الامام
-المصطفي، وليّ الحق، الامام العادل، ولي عهدالله ،‌امام الهدي، الامام
-المبارك ، امام العدل، الامام المنصور، خيارالله للناس، الحكم المصفي،
-امام الوري، ربّ الجنود، خليفه الحق، الخليفه الافضل، الملك المبارك
-  </p>
-</blockquote>
+> خليفة الله من الارض، الامين المأمون، امام المسلمين، امين الله، امام
+> الاسلام، جنه الدين، الخليفه المبارك، راعي الله في الارض، الامام
+> المصطفي، وليّ الحق، الامام العادل، ولي عهدالله ،‌امام الهدي، الامام
+> المبارك ، امام العدل، الامام المنصور، خيارالله للناس، الحكم المصفي،
+> امام الوري، ربّ الجنود، خليفه الحق، الخليفه الافضل، الملك المبارك
 
 Allah's Viceroy, trustee and trusted, Muslims' leader, religion's
 shield, auspicious caliph, public leader on behalf of God, selected
@@ -894,17 +870,9 @@ public. Taking into account the fact that their poets were important to
 Arabs, one can understand the impact of using such terms by them.[^88]
 One of the Umayyads peoms, Akhtal by referring to 'Abd al-Malik said:
 
-<blockquote dir="rtl">
-  <p>
-وقـد جعـل الله الخلافـة فيكـم بابيـض لا عاري الخوان ولا جدب
-  </p>
-</blockquote>
+> وقـد جعـل الله الخلافـة فيكـم بابيـض لا عاري الخوان ولا جدب
 
-<blockquote dir="rtl">
-  <p>
-ولكـن رآه الله مـوضع حقـهّا علـى رغم اعداء وصدّادة كـذب
-  </p>
-</blockquote>
+> ولكـن رآه الله مـوضع حقـهّا علـى رغم اعداء وصدّادة كـذب
 
 Thou art Allah's successor, someone who is merciful and has a shining
 face. Despite what your enemies desired Allah saw thee as the mere
@@ -912,28 +880,16 @@ truth[^89]
 
 By referring to Bishr Ibn Marwan, he said,
 
-<blockquote dir="rtl">
-  <p>
-اعطاكم الله ما انتم أحق به اذا الملوك على امثاله اقترعوا
-  </p>
-</blockquote>
+> اعطاكم الله ما انتم أحق به اذا الملوك على امثاله اقترعوا
 
 Allah has bestowed thee something that Thou deserve while all other
 kings have something (which they do not deserve) [^90]
 
 By referring to 'Abd al-Malik, Jarir said,
 
-<blockquote dir="rtl">
-  <p>
-الله طوّقك الخلافة والهدي والله ليس لما قضي تبديـل
-  </p>
-</blockquote>
+> الله طوّقك الخلافة والهدي والله ليس لما قضي تبديـل
 
-<blockquote dir="rtl">
-  <p>
-وليّ الخلافة والكرامة أهلها فالملك أفيح والعطاء جزيل
-  </p>
-</blockquote>
+> وليّ الخلافة والكرامة أهلها فالملك أفيح والعطاء جزيل
 
 Thou have been appointed as Allah's vicegerent. What He had decided upon
 could not be changed. Allah has given caliphate and greatness to someone
@@ -943,23 +899,11 @@ generous[^91]
 Somewhere else to stress the caliphate of 'Abd al-Rahman as a “Divine
 Decree” he said,
 
-<blockquote dir="rtl">
-  <p>
-انت الامين امين الله لاسرف فيمـا وليـت ولا هيّابـه ورع
-  </p>
-</blockquote>
+> انت الامين امين الله لاسرف فيمـا وليـت ولا هيّابـه ورع
 
-<blockquote dir="rtl">
-  <p>
-انت المبارك يهدي الله شيعته اذا تفرقـّت الاهـواء والشيّـع
-  </p>
-</blockquote>
+> انت المبارك يهدي الله شيعته اذا تفرقـّت الاهـواء والشيّـع
 
-<blockquote dir="rtl">
-  <p>
-يا آل مروان ان الله فضلكم فضلاً عظيماً على من دينه البدع
-  </p>
-</blockquote>
+> يا آل مروان ان الله فضلكم فضلاً عظيماً على من دينه البدع
 
 Thou art Allah's trustee, someone who does not waste what has been
 given, someone who is fearless. Thou art the source of blessings.
@@ -968,143 +912,83 @@ the Marwanids! Allah has regarded Thee. [^92]
 
 He also composed,
 
-<blockquote dir="rtl">
-  <p>
-والله قدّر ان تكون خليفة خير البرّية وارتضاك المرتضى
-  </p>
-</blockquote>
+> والله قدّر ان تكون خليفة خير البرّية وارتضاك المرتضى
 
 Allah had chosen thee as His viceroy. Thou are the right man for
 this[^93]
 
 Farazdaq said about 'Abd al-Malik,
 
-<blockquote dir="rtl">
-  <p>
-فالارض لله ولاها خليفته وصاحب الله فيها غير مغلـوب
-  </p>
-</blockquote>
+> فالارض لله ولاها خليفته وصاحب الله فيها غير مغلـوب
 
 The owner of this land is Allah and thou art as His vicegerent. The
 owner of Allah's land would not be defeated there[^94]
 
 By referring to Walid Farazdaq said,
 
-<blockquote dir="rtl">
-  <p>
-امّا وليد فانّ الله اورثه بعلمه فيه ملكاً ثابت الدّْعم
-  </p>
-</blockquote>
+> امّا وليد فانّ الله اورثه بعلمه فيه ملكاً ثابت الدّْعم
 
 As for Walid, with the knowledge of God, he was granted a firm
 monarchy[^95]  
  By referring to Sulayman Ibn 'Abd al-Malik, he said,
 
-<blockquote dir="rtl">
-  <p>
-به أمّن الله البلاد، فساكن بكلّ طريد ليلها ونهارها
-  </p>
-</blockquote>
+> به أمّن الله البلاد، فساكن بكلّ طريد ليلها ونهارها
 
 Allah selected thee as a peacemaker so a traveller can go whenever he
 wants to no matter whether it is day or night  
  'Adi Ibn Riqa' regarding Walid said,
 
-<blockquote dir="rtl">
-  <p>
-انّ الوليد اميرالمومنين له ملك عليه اعان الله فارتفعا
-  </p>
-</blockquote>
+> انّ الوليد اميرالمومنين له ملك عليه اعان الله فارتفعا
 
 Walid, the Commander of the Faithful, is a king. Allah assists him in
 his ruling, so he has been dignified by Allah[^96]  
  Ahwas composed this verse about Walid,
 
-<blockquote dir="rtl">
-  <p>
-تخّيره ربّ العباد لخلقه وليّاً وكان الله بالنّاس اعلمـا
-  </p>
-</blockquote>
+> تخّيره ربّ العباد لخلقه وليّاً وكان الله بالنّاس اعلمـا
 
 The Lord of the world had nominated him as His guardian. Taking into
 account that Allah is wiser than people[^97]  
  He said about Sulayman Ibn 'Abd al-Malik,
 
-<blockquote dir="rtl">
-  <p>
-سليمان اذ ولاك ربّك حكمنا وسلطاناً فاحكم اذا قلت واعدل
-  </p>
-</blockquote>
+> سليمان اذ ولاك ربّك حكمنا وسلطاناً فاحكم اذا قلت واعدل
 
 O Sulayman! Since thou have been chosen by Allah as our king, tell the
 truth and be just whenever thou want to judge[^98]  
  Farazdaq composed this verse about Sulayman,
 
-<blockquote dir="rtl">
-  <p>
-فقال الله انّك انـت اعلـي من المتلمسين لك الخبالا
-  </p>
-</blockquote>
+> فقال الله انّك انـت اعلـي من المتلمسين لك الخبالا
 
-<blockquote dir="rtl">
-  <p>
-فأعطاك الخلافه غيرغصب ولم تركب لتغصبها قبالا
-  </p>
-</blockquote>
+> فأعطاك الخلافه غيرغصب ولم تركب لتغصبها قبالا
 
 Then Allah said, “Thou art far better than those who want to enervate
 thee-so thou deserve to be appointed as His viceroy. Thou did not roll
 thy sleeves to usurp it” [^99]  
  Jarir composed these verses about Yazid Ibn 'Abd al-Malik:
 
-<blockquote dir="rtl">
-  <p>
-اما يزيـد فـانّ الله فهّمه حكماً واعطاه ملكاً واضح النور
-  </p>
-</blockquote>
+> اما يزيـد فـانّ الله فهّمه حكماً واعطاه ملكاً واضح النور
 
-<blockquote dir="rtl">
-  <p>
-يكفي الخليفه انّ الله فضّله عزم وثيق وعند غير تقريـر
-  </p>
-</blockquote>
+> يكفي الخليفه انّ الله فضّله عزم وثيق وعند غير تقريـر
 
 Allah has given Yazid wisdom. Thou art as the source of light. Allah has
 given thee priority over others in will and it suffices thee[^100]  
  Jarir Ibn Ayyub, Sulayman 'Abd al-Malik's son said,
 
-<blockquote dir="rtl">
-  <p>
-الله اعطاكم من علمه بكم حكماً وما بعد حكم الله تعقيب
-  </p>
-</blockquote>
+> الله اعطاكم من علمه بكم حكماً وما بعد حكم الله تعقيب
 
 Since Allah knew thee, He had appointed thee as the ruler, no one is
 permitted to disobey Allah's decree[^101]  
  He also said to 'Umar Ibn 'Abd al-’Aziz,
 
-<blockquote dir="rtl">
-  <p>
-انّ الذي بعث النّبي محمدا جعل الخلافه في الامام العادل
-  </p>
-</blockquote>
+> انّ الذي بعث النّبي محمدا جعل الخلافه في الامام العادل
 
 The One Who sent Muhammad as the Prophet,  
  Appointed the just Imam to the Khilafat.[^102]
 
 Farazdaq said to Yazid Ibn 'Abd al-Malik,
 
-<blockquote dir="rtl">
-  <p>
-اعطي بن عاتكة الذي ما فوقه غيرالنبوه والجلال الاجلل
-  </p>
-</blockquote>
+> اعطي بن عاتكة الذي ما فوقه غيرالنبوه والجلال الاجلل
 
-<blockquote dir="rtl">
-  <p>
-سلطانه وعصا النبي وخاتمـا القي اله بجرانه والكلكل
-  </p>
-</blockquote>
+> سلطانه وعصا النبي وخاتمـا القي اله بجرانه والكلكل
 
 Allah bestowed something to son of 'Atika. Nothing is greater than it
 except the Prophethood and monotheism. Allah had given him both the
@@ -1183,79 +1067,47 @@ attributed to them), “You would call Mu'awiya Mahdi if you could see
 him.[^119] Farazdaq by referring to Walid Ibn 'Abd al-Malik used this
 term for some of the Umayyads's caliphs.
 
-<blockquote dir="rtl">
-  <p>
-ومن عبد شمس انت سادس ستة خلائف كانوا منهـم العمُّ والاب
-  </p>
-</blockquote>
+> ومن عبد شمس انت سادس ستة خلائف كانوا منهـم العمُّ والاب
 
-<blockquote dir="rtl">
-  <p>
-هـداة ومهديين عثمـان منهـم ومروان وابن الابطحين المطيب
-  </p>
-</blockquote>
+> هـداة ومهديين عثمـان منهـم ومروان وابن الابطحين المطيب
 
 Thou art the sixth caliph among the children of 'Abd ash-Shams. Some of
 thy forefathers such as 'Uthman, Marwan and Mu'awiya were guided by
 Allah and they guided others too[^120]  
  Farazdaq composed this verse about Sulayman Ibn 'Abd al-Malik,
 
-<blockquote dir="rtl">
-  <p>
-فان امامك المهديُّ يهدي به الرحمن من خشي الضَّلالا
-  </p>
-</blockquote>
+> فان امامك المهديُّ يهدي به الرحمن من خشي الضَّلالا
 
 Mahdi is standing before thee. He is someone who at Allah's behest can
 guide whosoever does not want to be led astray[^121]
 
 He also said,
 
-<blockquote dir="rtl">
-  <p>
-فاجاب دعوتنا وانقَذًنا بخلافة المهديِّ من ضُرِّ
-  </p>
-</blockquote>
+> فاجاب دعوتنا وانقَذًنا بخلافة المهديِّ من ضُرِّ
 
 Allah accepted our prayers and protected us by His viceroy, Mahdi when
 we were in trouble[^122]  
  Jarir composed this verse about Sulayman,
 
-<blockquote dir="rtl">
-  <p>
-سليمانُ المبارك قد علِمْتُم هُوَ المهديُّ قد وضح السبيل
-  </p>
-</blockquote>
+> سليمانُ المبارك قد علِمْتُم هُوَ المهديُّ قد وضح السبيل
 
 Thou know that Sulayman is Mahdi, someone who guides thee[^123]  
  The word was attributed to 'Umar Ibn 'Abd al-’Aziz in some other
 sources as well.[^124] Jarir composed this verse about him,
 
-<blockquote dir="rtl">
-  <p>
-انت المبارك والمهديُّ سيرته تعصي الهوى وتقوم الليل بالسور
-  </p>
-</blockquote>
+> انت المبارك والمهديُّ سيرته تعصي الهوى وتقوم الليل بالسور
 
 Thou are ominous and thy conduct is just the same as that of Mahdi. Thou
 art not after carnal desire. Thou spend nights by saying prayer[^125]  
  He also composed this verse about Hisham Ibn 'Abd al-Malik,
 
-<blockquote dir="rtl">
-  <p>
-فقلت لها الخليفه غير شك هو المهديُّ والحكَمُ الرشيد
-  </p>
-</blockquote>
+> فقلت لها الخليفه غير شك هو المهديُّ والحكَمُ الرشيد
 
 Then I said thou art Mahdi without doubt. Thou art a ruler who had been
 guided[^126]  
  Farazdaq said about him,
 
-<blockquote dir="rtl">
-  <p>
-هو المالك المهديُّ والسابق الذي له اول المجد التليد وآخره
-  </p>
-</blockquote>
+> هو المالك المهديُّ والسابق الذي له اول المجد التليد وآخره
 
 He is Mahdi and superior to others. Praise does solely belong to
 thee[^127]
@@ -1338,11 +1190,7 @@ chosen at Allah's behest. It is said that Mu'awiya had coveted caliphate
 once 'Uthman consulted with him and others about how to cope with his
 opponents. During Hajj rite someone read this verse,
 
-<blockquote dir="rtl">
-  <p>
-انّ الامير بعده عليُّ و في الزبير خلف رضيُّ
-  </p>
-</blockquote>
+> انّ الامير بعده عليُّ و في الزبير خلف رضيُّ
 
 Verily 'Ali is Amir after him and Zubayr, too, is a good successor  
  Ka'b al-Ahbar told him,”You are telling lie. Mu'awiya will succeed
@@ -1398,17 +1246,9 @@ the legitimacy of the Umayyads rulers. Referring to Ayyub, the son of
 Sulayman Ibn 'Abd al-Malik, Jarir who was an eminent poet of the
 Umayyads composed these verses,
 
-<blockquote dir="rtl">
-  <p>
-انت الخليفه للرّحمن يعرفه اهلُ الزًّبور وفي التوراة مكتوب
-  </p>
-</blockquote>
+> انت الخليفه للرّحمن يعرفه اهلُ الزًّبور وفي التوراة مكتوب
 
-<blockquote dir="rtl">
-  <p>
-الله فضَّلـه والله وفَّقــَهُ توفيق يوسف اذا وصاه يعقوب
-  </p>
-</blockquote>
+> الله فضَّلـه والله وفَّقــَهُ توفيق يوسف اذا وصاه يعقوب
 
 Thou art Allah's Viceroy. The Zoroastrians know thee and thy name had
 been written in Torah. Allah had favored thee.Thou art just the same as
@@ -1769,12 +1609,8 @@ committed themselves to building two portals for it. The one built by
 'Abd al-Malik was burnt to a crisp by a thunderbolt later. Hajjaj wrote
 to him that the following Qur'anic verse was about them
 
-<blockquote dir="rtl">
-  <p>
-واتْلُ عَلَيْهِم بنا بني آذم بالحقّ اِذْ قَرّبا قُرْباناً فَتَقًّبَل
-مِنْ أحَدِهما وَلًمْ يتَقَّبلْ من الآخر
-  </p>
-</blockquote>
+> واتْلُ عَلَيْهِم بنا بني آذم بالحقّ اِذْ قَرّبا قُرْباناً فَتَقًّبَل
+> مِنْ أحَدِهما وَلًمْ يتَقَّبلْ من الآخر
 
 “And relate to them the story of the two sons of Adam with truth when
 they both offered an offering, but it was accepted from one of them and
@@ -1831,17 +1667,9 @@ accused of his religion while being an Umayyads governor in Mecca and
 Iraq for years. He had built a synagogue for his mother to worship.
 Concerning him, Farazdaq had composed,
 
-<blockquote dir="rtl">
-  <p>
-وكيف يؤم الناس من كانت أمّه تدين بـان الله ليس بواحــد
-  </p>
-</blockquote>
+> وكيف يؤم الناس من كانت أمّه تدين بـان الله ليس بواحــد
 
-<blockquote dir="rtl">
-  <p>
-بني بيعة فيها الصليب لامّــه ويهدم من بغض منارالمساجد
-  </p>
-</blockquote>
+> بني بيعة فيها الصليب لامّــه ويهدم من بغض منارالمساجد
 
 How can he ever be a leader for a nation while his mother is unbeliever
 in monotheism? The man who had built a synagogue having a cross for her
@@ -1876,11 +1704,7 @@ Earlier, we noticed how Iman as-Sajjad prohibited Hasan Basri from
 recounting stories. It was exactly the continuation of the Prophet's
 policy that had emphasized,
 
-<blockquote dir="rtl">
-  <p>
-لا تسألوا أهل كتاب عن شيء
-  </p>
-</blockquote>
+> لا تسألوا أهل كتاب عن شيء
 
 Never ever ask the followers of the divine Books any question[^206]
 
@@ -2730,5 +2554,4 @@ al-Buldan, pp 409-411
 [^229]: Ibid p. 203
 
 [^230]: Ibid pp 207-208
-
 

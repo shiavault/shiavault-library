@@ -18,4 +18,3 @@ for that.”
 Haroun and his courtiers laughed a lot at Bahlool's answer, and the sage
 shamefully left Baghdad.
 
-

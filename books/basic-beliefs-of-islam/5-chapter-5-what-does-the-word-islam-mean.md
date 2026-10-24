@@ -249,4 +249,3 @@ back towards his real nature, if he makes reasonable efforts. The
 concern to put reasonable efforts is the major criteria of ultimate fate
 of all mankind.
 
-

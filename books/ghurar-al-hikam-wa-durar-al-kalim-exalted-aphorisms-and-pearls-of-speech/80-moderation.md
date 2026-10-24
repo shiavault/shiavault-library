@@ -10,4 +10,3 @@ deprived.[^1]
 
 [^1]: This is half of a sentence from letter no. 31 of Nahj al-Balāgha.
 
-

@@ -171,4 +171,3 @@ then all you have to do is this or this or this to prove that it is
 false." Of course, in 1400 years no one has been able to do "This or
 this or this," and thus it is still considered true and authentic.
 
-

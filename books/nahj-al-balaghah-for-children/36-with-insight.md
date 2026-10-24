@@ -23,4 +23,3 @@ he refrains from it.
 
 (Sermon 154)
 
-

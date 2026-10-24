@@ -177,8 +177,6 @@ For he who knows his own symbolic existence has already come to know
 the true existence which belongs solely to God who is independent and
 without need of anything whatsoever.
 
-
 This lesson is entirely based on Shi’a Islam of Allamah Sayyid Muhammad
 Husayn at-Tabataba’i.
-
 

@@ -139,4 +139,3 @@ without imagining body; yet it is no more true that there is any real
 distance in that which we call imaginary space, than that there is any
 real figure there.
 
-

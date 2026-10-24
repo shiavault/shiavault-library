@@ -219,4 +219,3 @@ acquire honor in the world, cut off your hopes from what lies with
 others. Surely the Prophets and the Righteous reached their status by
 cutting off their hopes.
 
-

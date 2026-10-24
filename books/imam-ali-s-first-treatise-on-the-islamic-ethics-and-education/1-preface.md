@@ -108,22 +108,14 @@ Allah. That is why, the magnificent Qur’an, after eleven oaths,
 emphasizes that: he who attains salvation is one who purifies his soul
 of ethical corruptions and the wretched is one who corrupts his soul:
 
-<blockquote dir="rtl">
-  <p>
-"قَدْ أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا"
-  </p>
-</blockquote>
+> "قَدْ أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا"
 
 ***“He will indeed be successful who purifies it (the soul) and he will
 indeed fail who corrupts it”.***[^11]
 The Prophet (S) was appreciated by God for holding the highest degree
 of ethical codes:
 
-<blockquote dir="rtl">
-  <p>
-"و إنّك لعَلى خُلُقٍ عَظِيم"
-  </p>
-</blockquote>
+> "و إنّك لعَلى خُلُقٍ عَظِيم"
 
 ***“And most surely you conform (yourself) to sublime morality.”***[^12]
 
@@ -182,11 +174,7 @@ The great Messengers of God, by using the sublime Islamic education,
 have attempted to encourage people to engage in ethical affairs. The
 Great Messenger of Islam (S) has said
 
-<blockquote dir="rtl">
-  <p>
-"افضلُ النّاسِ ايماناً احسَنُهم خُلقاً"
-  </p>
-</blockquote>
+> "افضلُ النّاسِ ايماناً احسَنُهم خُلقاً"
 
 *"The most excellent of people in faith are those who are the best in
 moral traits.”*[^14]
@@ -195,11 +183,7 @@ On the other hand, the Great Messenger of Allah has mentioned that the
 reason of his prophetic mission was to perfect the ethical training.
 Imam ‘Ali has said:
 
-<blockquote dir="rtl">
-  <p>
-"ذَللوا اخلاقَكُم بالمحاسِن وقُودُوها اِلى المكارِم"
-  </p>
-</blockquote>
+> "ذَللوا اخلاقَكُم بالمحاسِن وقُودُوها اِلى المكارِم"
 
 *"Subdue your natures with beautiful actions and lead them toward noble
 moral traits”*.[^15]
@@ -207,11 +191,7 @@ moral traits”*.[^15]
 The narrator says: I asked Imam Sadiq (as) what the limit of good humor
 was. He answered:
 
-<blockquote dir="rtl">
-  <p>
-"تُلَيّنْ جانِبَكَ وتُطَيِّب كَلامَكَ و تَلقى اَخاكَ بِبِشْرٍ حَسَن"
-  </p>
-</blockquote>
+> "تُلَيّنْ جانِبَكَ وتُطَيِّب كَلامَكَ و تَلقى اَخاكَ بِبِشْرٍ حَسَن"
 
 *"You should be gentle, speak pleasantly and meet your brethren with a
 cheerful face".*[^16]
@@ -219,12 +199,8 @@ A man came to Imam Sadiq (as) and said: “O son of God's Messenger, let
 me know what the noble moral traits are”. Imam as-Sadiq (as) replied to
 him,
 
-<blockquote dir="rtl">
-  <p>
-"العَفُو عَمَّن ظَلَمَكَ وصِِلَةُ مَنْ قَطَعَكَ وإعْطَاءُ مَنْ
-حَرَمَكَ وقَولَ الحقِّ ولَو على نَفْسِك"
-  </p>
-</blockquote>
+> "العَفُو عَمَّن ظَلَمَكَ وصِِلَةُ مَنْ قَطَعَكَ وإعْطَاءُ مَنْ
+> حَرَمَكَ وقَولَ الحقِّ ولَو على نَفْسِك"
 
 *"Forgiving one who has wronged you, establishing ties with one who has
 severed relations with you, giving one who has deprived you, and
@@ -234,15 +210,11 @@ In his *Sahifah al-Sajjadiyah*, in the supplication Makarim Al-Akhlaq,
 "The noble moral traits," Imam ‘Ali Ibn al-Husayn (as) invokes God by
 saying:
 
-<blockquote dir="rtl">
-  <p>
-"اللّهُم صَلِّ على محمد وآله وسَدّدني لأن اُعارِضَ مَنْ غَشَّني
-بِالنُصْحِ واَجْزِي مَنْ هَجَرَني بِالبِر واُثِيبَ مَنْ حَرَمَني
-بِالبَذْلِ واُكافِئ مَنْ قَطَعَني بِالصِِلَةِ واُخالِفَ مَنِ
-اِغْتابَني اِلى حُسْن الذِكرِ واَن اَشْكُرَ الحَسَنَةَ واُغْضِي عَنِ
-السَيّئةِ"
-  </p>
-</blockquote>
+> "اللّهُم صَلِّ على محمد وآله وسَدّدني لأن اُعارِضَ مَنْ غَشَّني
+> بِالنُصْحِ واَجْزِي مَنْ هَجَرَني بِالبِر واُثِيبَ مَنْ حَرَمَني
+> بِالبَذْلِ واُكافِئ مَنْ قَطَعَني بِالصِِلَةِ واُخالِفَ مَنِ
+> اِغْتابَني اِلى حُسْن الذِكرِ واَن اَشْكُرَ الحَسَنَةَ واُغْضِي عَنِ
+> السَيّئةِ"
 
 *"O God, send your blessings to Muhammad and his offspring, and guide me
 so that I may counter with good advice whoever acts dishonestly towards
@@ -266,12 +238,8 @@ mosque and prayed for him and forgave him.
 When Imam Zayn al-‘Abidin (as) was insulted by a relative, he went to
 his house telling him:
 
-<blockquote dir="rtl">
-  <p>
-"فِان كُنْتَ قَدْ قُلْتَ ما فيَّ فانا استغفرُ اللهَ مِنْهُ وان كُنْتَ
-قُلْتَ ما لَيسَ فيَّ فغَفَرَ اللهُ لَكَ"
-  </p>
-</blockquote>
+> "فِان كُنْتَ قَدْ قُلْتَ ما فيَّ فانا استغفرُ اللهَ مِنْهُ وان كُنْتَ
+> قُلْتَ ما لَيسَ فيَّ فغَفَرَ اللهُ لَكَ"
 
 *"If what you say is true, I ask God to forgive me. But if what you say
 is not true, then I ask God to forgive you."*
@@ -294,13 +262,9 @@ assets. Anybody who possesses these assets should be thankful to God.
 Those who lack them should try to acquire them. In this regard Imam
 Sadiq (as) has said."
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ اللهَ عَزَّوجَلَّ خَصَّ رُسُلَهُ بِمَكارِمِ الاخْلاق
-فامْتَحِنُوا اَنْفُسَكُم فان كانت فيكُم فاحمَدوا الله واعلموا اَنَّ
-ذلك مِن خَير واِن لا تَكُنْ فاسْئَلُوا اللهَ وارغبوا الَيهِ فِيها"
-  </p>
-</blockquote>
+> "اِنَّ اللهَ عَزَّوجَلَّ خَصَّ رُسُلَهُ بِمَكارِمِ الاخْلاق
+> فامْتَحِنُوا اَنْفُسَكُم فان كانت فيكُم فاحمَدوا الله واعلموا اَنَّ
+> ذلك مِن خَير واِن لا تَكُنْ فاسْئَلُوا اللهَ وارغبوا الَيهِ فِيها"
 
 *“God distinguished His Messengers with noble moral traits. Thus,
 examine yourselves, if you possess them, be thankful to God for these
@@ -314,12 +278,8 @@ rather for God.
 Imam ‘Ali (as) says: *"I am amazed when a Muslim goes to another Muslim
 for some help, but he is turned down.*
 
-<blockquote dir="rtl">
-  <p>
-"فَلَو كان لا يَرجُو ثَواباً و لا يَخشى عِقابا لقد كان يَنبَغي لَهُ ان
-يُسارِعَ الى مَكارِمِ الاخلاقِ فانها ممّا تَدُلُ على سَبيلِ النجاة"
-  </p>
-</blockquote>
+> "فَلَو كان لا يَرجُو ثَواباً و لا يَخشى عِقابا لقد كان يَنبَغي لَهُ ان
+> يُسارِعَ الى مَكارِمِ الاخلاقِ فانها ممّا تَدُلُ على سَبيلِ النجاة"
 
 "*Even if he did not expect reward and did not fear the punishment, it
 would have been proper for him to hasten towards noble moral traits for
@@ -331,12 +291,8 @@ and sometimes for the recognition of his bravery; which one of these
 ways is right?"
 The Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ قاتَلَ لِتَكُونَ كَلِمَةُ اللهِ هِيَ العُليا فَهُو في سَبيل
-الله"
-  </p>
-</blockquote>
+> "مَنْ قاتَلَ لِتَكُونَ كَلِمَةُ اللهِ هِيَ العُليا فَهُو في سَبيل
+> الله"
 
 “The one who fights so that ***‘..the word of God is the highest..’,
 (9:40)*** – he is on the path of God.”[^21]
@@ -344,13 +300,9 @@ The Prophet (S) answered:
 This type of prayers is called "the prayers of free men" by Imam ‘Ali
 (as).
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ قَوماً عَبَدُوا الله رَغبَةً فتِلكَ عِبادةُ التُجّار واِنَّ
-قَوماً عَبَدُوا الله رَهْبَةً فتِلكَ عِبادَةُ العَبِيد واِنَّ قَوماً
-عَبَدُوه شُكراً (حُباً) فَتِلكَ عِبادَةُ الأحرار"
-  </p>
-</blockquote>
+> "اِنَّ قَوماً عَبَدُوا الله رَغبَةً فتِلكَ عِبادةُ التُجّار واِنَّ
+> قَوماً عَبَدُوا الله رَهْبَةً فتِلكَ عِبادَةُ العَبِيد واِنَّ قَوماً
+> عَبَدُوه شُكراً (حُباً) فَتِلكَ عِبادَةُ الأحرار"
 
 *“Some people worship God out of desire (for reward); that is the
 worship of traders. Some worship God out of fear (of punishment); that
@@ -361,18 +313,10 @@ In some Islamic traditions the cases of noble moral traits are
 enumerated. For instance, in Ibn Bekir's tradition from Imam as-Sadiq
 (as) it is said:
 
-<blockquote dir="rtl">
-  <p>
-"قُلْتُ جُعِلتُ فِداكَ وما هِيَ؟
-  </p>
-</blockquote>
+> "قُلْتُ جُعِلتُ فِداكَ وما هِيَ؟
 
-<blockquote dir="rtl">
-  <p>
-قال: هُنَّ الورَع والقَناعَة والصَبر والشُكر والحلم والحَياء والسَخاء
-والشَجاعَة والغَيرة والبِر وصِدق الحَدِيث واَداء الأمانة"
-  </p>
-</blockquote>
+> قال: هُنَّ الورَع والقَناعَة والصَبر والشُكر والحلم والحَياء والسَخاء
+> والشَجاعَة والغَيرة والبِر وصِدق الحَدِيث واَداء الأمانة"
 
 *I asked Imam as-Sadiq (as) what the noble moral traits were. He
 answered, "They are self–control, contentment, patience, thanking God,
@@ -402,12 +346,8 @@ The bee sucks the sweet nectar, turns it into honey, makes symmetrical
 shelters and divides the affairs of the hive among individual bees all
 because of divine inspiration and natural instincts.
 
-<blockquote dir="rtl">
-  <p>
-"واَوحَى رَبُّكَ الى النَحلِ اَنْ اتَّخِذِي مِنَ الجِبَالِ بُيُوتاً
-ومِنَ الشَجَرِ ومِمَّا يَعْرِشُونَ"
-  </p>
-</blockquote>
+> "واَوحَى رَبُّكَ الى النَحلِ اَنْ اتَّخِذِي مِنَ الجِبَالِ بُيُوتاً
+> ومِنَ الشَجَرِ ومِمَّا يَعْرِشُونَ"
 
 ***“And your Lord revealed to the bee saying: Make hives in the
 mountains and in the trees and in what they build.”***[^24]
@@ -415,12 +355,8 @@ mountains and in the trees and in what they build.”***[^24]
 This is the fact which is brought about by Prophet Moses (as) and his
 brother when they introduced their God to Pharaoh:
 
-<blockquote dir="rtl">
-  <p>
-"قالَ فَمَن ربُّكما يا موسى قال ربُّنا الذي اعطى كلَّ شئ خَلقَه ثُمَّ
-هَدى"
-  </p>
-</blockquote>
+> "قالَ فَمَن ربُّكما يا موسى قال ربُّنا الذي اعطى كلَّ شئ خَلقَه ثُمَّ
+> هَدى"
 
 ***“Pharaoh said: And who is your Lord, O Musa? He said: Our Lord is He
 Who gave to everything its creation, then guided it (to its
@@ -446,13 +382,9 @@ of his character, If God's Messengers had not risen to correct man, he
 would, no doubt, have had a much worse life than the Middle Ages. In
 this regard the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-"لقد مَنَّ اللهُ على المؤمنين اِذ بَعَثَ فِيهِم رَسُولاً مِنَ
-اَنْفُسِهِم يَتْلُوا علَيهِم آياتِهِ ويُزَكِيهم ويُعَلِّمَهُمُ
-الكِتابَ والحِكْمَةَ واِن كانوا مِن قَبلُ لَفِي ضَلالٍ مُبين"
-  </p>
-</blockquote>
+> "لقد مَنَّ اللهُ على المؤمنين اِذ بَعَثَ فِيهِم رَسُولاً مِنَ
+> اَنْفُسِهِم يَتْلُوا علَيهِم آياتِهِ ويُزَكِيهم ويُعَلِّمَهُمُ
+> الكِتابَ والحِكْمَةَ واِن كانوا مِن قَبلُ لَفِي ضَلالٍ مُبين"
 
 ***“Certainly Allah conferred a benefit upon the believers when He
 raised among them an Apostle from among themselves, reciting to them His
@@ -466,12 +398,8 @@ people to guide them was one of God's blessings.
 Still in another verse, God considers the Messengers’ teachings as true
 life, those not receiving it are considered as dead:
 
-<blockquote dir="rtl">
-  <p>
-"يا ايُّها الَّذِينَ آمَنوا اِستجيبوا للهِ وللرسولِ اِذا دَعاكُم لما
-يُحييكُم"
-  </p>
-</blockquote>
+> "يا ايُّها الَّذِينَ آمَنوا اِستجيبوا للهِ وللرسولِ اِذا دَعاكُم لما
+> يُحييكُم"
 
 ***“O you who believe! Answer the call of Allah and His Apostle when he
 calls you to that which gives you life”.***[^27]
@@ -547,12 +475,8 @@ deprive himself of these assets. Educating and nourishing man's skills
 is in harmony with the innate characteristic of religion. In this regard
 the Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-"فاقِم وجهَكَ لِلدِينِ حَنيفاً فِطرَتَ اللهِ التي فَطَرَ الناسَ
-عَلَيها لا تَبديلَ لِخَلقِ اللهِ ذلك الدِّينُ القيِّمُ"
-  </p>
-</blockquote>
+> "فاقِم وجهَكَ لِلدِينِ حَنيفاً فِطرَتَ اللهِ التي فَطَرَ الناسَ
+> عَلَيها لا تَبديلَ لِخَلقِ اللهِ ذلك الدِّينُ القيِّمُ"
 
 ***“Then set your face upright for religion in the right state - the
 nature made by Allah in which He has made men; there is no altering of
@@ -592,12 +516,8 @@ their remedies, neither his friends nor his foes, and possesses neither
 instruments nor his defense mechanisms. He has obtained all these
 through education and experience:
 
-<blockquote dir="rtl">
-  <p>
-"واللهُ اخرَجَكُم مِن بُطُونِ اُمَّهاتِكُم لا تَعلَمُونَ شَيئاً
-وجَعَلَ لَكُم السَمْعَ والابصارَ والافئدةَ لعلكم تَشْكُرونَ"
-  </p>
-</blockquote>
+> "واللهُ اخرَجَكُم مِن بُطُونِ اُمَّهاتِكُم لا تَعلَمُونَ شَيئاً
+> وجَعَلَ لَكُم السَمْعَ والابصارَ والافئدةَ لعلكم تَشْكُرونَ"
 
 ***“And Allah has brought you forth from the wombs of your mothers – you
 did not know anything – and He gave you hearing and sight and hearts
@@ -640,21 +560,13 @@ free-will, man does not have to function in accordance with wisdom's
 guidelines. Animals have recognized their development through the
 guidelines of genesis and have to go forward without their approval.
 
-<blockquote dir="rtl">
-  <p>
-"ما مِنْ دابَّةٍ اِلا هو آخذٌ بناصِيتِها اِنَّ رَبِّي على صِراطٍ
-مُستقيم"
-  </p>
-</blockquote>
+> "ما مِنْ دابَّةٍ اِلا هو آخذٌ بناصِيتِها اِنَّ رَبِّي على صِراطٍ
+> مُستقيم"
 
 ***“There is no living creature but He holds it by its forelock; surely
 my Lord is on the right path.”***[^32]
 
-<blockquote dir="rtl">
-  <p>
-"اِنّا هَديناهُ السَبيلَ اِمّا شاكراً واِما كَفُورا"
-  </p>
-</blockquote>
+> "اِنّا هَديناهُ السَبيلَ اِمّا شاكراً واِما كَفُورا"
 
 ***“Surely we have shown him the way: he may be thankful or
 unthankful.”***[^33]
@@ -668,12 +580,8 @@ Thus, he will need an infallible instructor. It is for this reason that
 God has sent Messengers and Imams to guide people. Imam Musa Ibn Ja’far
 (as) in his famous treatise tells Hisham.
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ لله على الناسِ حُجَّتَينِ حُجَّةٌ ظاهَِرةٌ وحُجَّةٌ باطِنة
-فامّا الظاهرة فالرُسُل والأنبياء والائمة وامّا الباطنة فالعُقُول"
-  </p>
-</blockquote>
+> "اِنَّ لله على الناسِ حُجَّتَينِ حُجَّةٌ ظاهَِرةٌ وحُجَّةٌ باطِنة
+> فامّا الظاهرة فالرُسُل والأنبياء والائمة وامّا الباطنة فالعُقُول"
 
 *“Allah has provided man with two proofs: the overt proof and the covert
 proof. The overt proofs are the Messengers and Imams and the covert
@@ -705,11 +613,7 @@ blank tablet or a mind not influenced by outside experiences. Our overt
 senses are canals through which we come in contact with nature and
 acquire our knowledge. Regarding this, Aristotle has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن فَقَدَ حِسَّاً فَقَدَ عِلماً"
-  </p>
-</blockquote>
+> "مَن فَقَدَ حِسَّاً فَقَدَ عِلماً"
 
 *“He who is deprived of one of the faculties of sense will suffer the
 deprivation of the related knowledge.”*
@@ -738,11 +642,7 @@ It would be better to leave a drunkard with a sword than let an
 ill-intentioned person have science at his disposal. There is a maxim
 which says:
 
-<blockquote dir="rtl">
-  <p>
-"اِذا فَسَدَ العالِمُ فَسَدَ العالَم"
-  </p>
-</blockquote>
+> "اِذا فَسَدَ العالِمُ فَسَدَ العالَم"
 
 "When a scholar becomes corrupt, the whole world becomes corrupt."
 As we saw in the three verses of the Holy Qur’an which dealt with
@@ -757,35 +657,19 @@ The Four Qur’anic Verses
 ------------------------
 
 > (1)"كما اَرسلنا فيكم رَسُولا مِنْكُم يَتْلُوا عليكم آياتِنا
-<blockquote dir="rtl">
-  <p>
-ويُزَكِيكُم ويُعَلِمَكُم الكتابَ
-  </p>
-</blockquote>
+> ويُزَكِيكُم ويُعَلِمَكُم الكتابَ
 
-<blockquote dir="rtl">
-  <p>
-والحِكمَةَ ويُعَلمَكُم ما لم تَكُونُوا تَعْلَمُون"
-  </p>
-</blockquote>
+> والحِكمَةَ ويُعَلمَكُم ما لم تَكُونُوا تَعْلَمُون"
 
 ***“Even as we have sent among you an Apostle from among you who recites
 to you Our communications and purifies you and teaches you the Book and
 the wisdom and teaches you that which you did not know”.***[^38]
 
 > (2)"لقد مَنَّ الله على المؤمنين اِذ بَعَثَ فِيهِم رَسُولاً مِنْ
-<blockquote dir="rtl">
-  <p>
-انفُسِهِم يَتْلوا عَلَيهِم آياتِه
-  </p>
-</blockquote>
+> انفُسِهِم يَتْلوا عَلَيهِم آياتِه
 
-<blockquote dir="rtl">
-  <p>
-ويُزَكِّيهم ويُعَلِّمهُم الكِتابَ والحِكمَةَ واِن كانوا مِن قَبْلُ
-لَفِي ضَلالٍ مُبِين"
-  </p>
-</blockquote>
+> ويُزَكِّيهم ويُعَلِّمهُم الكِتابَ والحِكمَةَ واِن كانوا مِن قَبْلُ
+> لَفِي ضَلالٍ مُبِين"
 
 ***“Certainly Allah conferred a benefit upon the believers when He
 raised among them an Apostle from among themselves, reciting to them His
@@ -794,17 +678,9 @@ wisdom, although before that they were surely in manifest
 error.”***[^39]
 
 > (3)"هُو الَّذي بَعَثَ في الأمِّيينَ رَسُولاً مِنهُم يَتْلُوا عَلَيهِم
-<blockquote dir="rtl">
-  <p>
-آياتِه ويُزَكِيهِم ويُعَلِّمَهُمُ
-  </p>
-</blockquote>
+> آياتِه ويُزَكِيهِم ويُعَلِّمَهُمُ
 
-<blockquote dir="rtl">
-  <p>
-الكِتابَ والحِكْمَةَ واِن كانُوا مِنْ قَبْلُ لَفِي ضَلالٍ مُبِين"
-  </p>
-</blockquote>
+> الكِتابَ والحِكْمَةَ واِن كانُوا مِنْ قَبْلُ لَفِي ضَلالٍ مُبِين"
 
 ***“He it is who raised among the illiterate an Apostle from among
 themselves who recites to them His communications and purifies them, and
@@ -813,13 +689,9 @@ certainly in clear error”.***[^40]
 
 **(4)** One verse mentions Ibrahim's prayers in which he asks God:
 
-<blockquote dir="rtl">
-  <p>
-"رَبَّنا وابعَثْ فِيهِم رَسُولاً مِنهُم يَتْلُوا عَلَيهِم آياتِكَ
-ويُعَلِّمَهُمُ الكِتابَ والحِكمِةِ ويُزَكِيهِم اِنَّكَ اَنتَ العَزيز
-الحَكِيم
-  </p>
-</blockquote>
+> "رَبَّنا وابعَثْ فِيهِم رَسُولاً مِنهُم يَتْلُوا عَلَيهِم آياتِكَ
+> ويُعَلِّمَهُمُ الكِتابَ والحِكمِةِ ويُزَكِيهِم اِنَّكَ اَنتَ العَزيز
+> الحَكِيم
 
 ***“Our Lord! And raise up in them an Apostle from among them who shall
 recite to them Thy communications and teach them the Book and the
@@ -1046,11 +918,7 @@ prosperity and not the extreme point, such as science.
 limited. Wisdom lacks the power to distinguish all ethical acts. This is
 for two reasons: on the one hand, wisdom is limited by nature:
 
-<blockquote dir="rtl">
-  <p>
-"قُل الرُّوحُ مِنْ أمرِ رَبِّي وما أوتيتم مِنَ العِلْمِِ إلاّ قَليلا"
-  </p>
-</blockquote>
+> "قُل الرُّوحُ مِنْ أمرِ رَبِّي وما أوتيتم مِنَ العِلْمِِ إلاّ قَليلا"
 
 ***“Say: The soul is one of the commands of my Lord, and you are not
 given aught of knowledge but a little”.***[^48]
@@ -1104,11 +972,7 @@ Of course, this hypothesis has the following positive aspects:
 **a)** There exists in man an agent which, with the help of heavenly
 inspiration, can distinguish good deeds;
 
-<blockquote dir="rtl">
-  <p>
-"فالهَمَها فُجُورَها وتَقوَاها"
-  </p>
-</blockquote>
+> "فالهَمَها فُجُورَها وتَقوَاها"
 
 ***“Then He inspired it to understand what is right and wrong for
 it”.***[^50]
@@ -1116,11 +980,7 @@ it”.***[^50]
 And when man opposes it, he is tortured by the scourge of rebuke,
 driving him crazy:
 
-<blockquote dir="rtl">
-  <p>
-"لا اُقْسِمُ بِيَومِ القِيامَةِ ولا اُقْسِمُ بالنَفْسِ اللوّامَة
-  </p>
-</blockquote>
+> "لا اُقْسِمُ بِيَومِ القِيامَةِ ولا اُقْسِمُ بالنَفْسِ اللوّامَة
 
 ***“Nay! I swear by the day of resurrection, nay! I swear by the
 self-accusing soul”.***[^51]
@@ -1136,11 +996,7 @@ God.
 prey to other desires. Every thing is created for his use. Nothing
 equals him.
 
-<blockquote dir="rtl">
-  <p>
-"مَنْ كَرُمَت عَلَيهِ نَفسُهُ هَانَت عَلَيهِ الدُّنيا"
-  </p>
-</blockquote>
+> "مَنْ كَرُمَت عَلَيهِ نَفسُهُ هَانَت عَلَيهِ الدُّنيا"
 
 ***“The world is of little importance to one who regards his soul to be
 noble.”***[^52]
@@ -1148,11 +1004,7 @@ noble.”***[^52]
 **e)** All human beings are equal and are therefore, equal in front of
 human rights.
 
-<blockquote dir="rtl">
-  <p>
-"اَحبِب لِغَيرِكَ ما تُحِبُّ لِنَفسِكَ واكره له ما تَكرَهُ لها"
-  </p>
-</blockquote>
+> "اَحبِب لِغَيرِكَ ما تُحِبُّ لِنَفسِكَ واكره له ما تَكرَهُ لها"
 
 ***“Love for others what you love for yourself, and dislike for others
 what you dislike for yourself.”***[^53]
@@ -1196,12 +1048,8 @@ pleasure.[^56]
 But the reverse is true when we see that Allah orders the doing of
 justice and the doing of good and forbids evil:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الله يامرُ بالعَدلِ والإحسانِ واِيتاءِ ذي القُربى ويَنهى عَن
-الفَحشَاءِ والمُنكَرِِ والبَغي"
-  </p>
-</blockquote>
+> "اِنَّ الله يامرُ بالعَدلِ والإحسانِ واِيتاءِ ذي القُربى ويَنهى عَن
+> الفَحشَاءِ والمُنكَرِِ والبَغي"
 
 ***Surely Allah enjoins the doing of justice and the doing of good (to
 others) and the giving to the kindred, and He forbids indecency and evil
@@ -1209,12 +1057,8 @@ and rebellion.***[^57]
 
 In other cases Allah commands people to do good things:
 
-<blockquote dir="rtl">
-  <p>
-"وَاَوحَينا اِلَيهِم فِعْلَ الخَيراتِ واِقامَ الصَلواتِ وإِيتاءِ
-الزَّكاة"
-  </p>
-</blockquote>
+> "وَاَوحَينا اِلَيهِم فِعْلَ الخَيراتِ واِقامَ الصَلواتِ وإِيتاءِ
+> الزَّكاة"
 
 ***“We revealed to them the doing of good and the keeping up of prayer
 and the giving of the alms.”***[^58]
@@ -1348,11 +1192,7 @@ appropriate!
 
 The communists believe that
 
-<blockquote dir="rtl">
-  <p>
-"الغايات تُبَرر المباديء"
-  </p>
-</blockquote>
+> "الغايات تُبَرر المباديء"
 
 "The objective justifies the means"
 
@@ -1500,14 +1340,10 @@ monotheism, to resurrection, to justice, to piety and to worship. This
 is because all of these traits stem from his nature. And Ibn al-Athir in
 al-Nihayah defines "*fitrah*" or nature as:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّهُ يُولَدُ على نَوعٍ مِنَ الجِبلَةِ والطَبعِ المُتهيئ لِقَبولِ
-الدِّينِ فلو تُرِكَ عَلَيها لاستَمَرَّ على لُزُومِها ولمَ يُفارِقها
-اِلى غَيرِها واِنَّما يَعدِلُ عَنهُ مَن يَعدِلُ لآفة مِن آفاتِ
-البَشَرِ والتقليد"
-  </p>
-</blockquote>
+> "اِنَّهُ يُولَدُ على نَوعٍ مِنَ الجِبلَةِ والطَبعِ المُتهيئ لِقَبولِ
+> الدِّينِ فلو تُرِكَ عَلَيها لاستَمَرَّ على لُزُومِها ولمَ يُفارِقها
+> اِلى غَيرِها واِنَّما يَعدِلُ عَنهُ مَن يَعدِلُ لآفة مِن آفاتِ
+> البَشَرِ والتقليد"
 
 “Man is created according to a natural disposition and nature that is
 inclined to accept religion. If he is left on it, he will continue in
@@ -1525,13 +1361,9 @@ make him a Jew or a Christian.”*
 
 The following sacred verse, too, emphasizes the same thing:
 
-<blockquote dir="rtl">
-  <p>
-"فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ"
-  </p>
-</blockquote>
+> "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ"
 
 ***"Then set your face upright for religion in the right state-the
 nature made by Allah in which He has made men; there is no altering of
@@ -1988,5 +1820,4 @@ pp.218-320.
 
 [^82]: . Refer to Al-Ghadir, vol. 4; Alzory'a vol. 14, Masadir Nahj
 al-Balaghah, vol.1; Recognition of Nahj al-Balaghah, vol. 2.
-
 

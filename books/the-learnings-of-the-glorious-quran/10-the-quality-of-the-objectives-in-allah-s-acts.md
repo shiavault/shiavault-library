@@ -560,4 +560,3 @@ objectives, the total of which can be placed under the title
 "perfection" - that is philosophical, not biological perfection, as had
 formerly been explained.
 
-

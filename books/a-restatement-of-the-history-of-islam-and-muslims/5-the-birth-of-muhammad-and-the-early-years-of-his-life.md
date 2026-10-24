@@ -180,4 +180,3 @@ and the policies to which Mohammed later found himself opposed. In
 particular his clan of Hashim came to have a leading role in the League
 of the Virtuous. *(Muhammad, Prophet and Statesman, 1961)*
 
-

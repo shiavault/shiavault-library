@@ -42,4 +42,3 @@ prophet? ‘Ismat is fundamental and it is the condition that qualities
 the imam for Imam-hood. No one has this except those chosen ones. Then,
 no one is a prophet or Imam except the chosen ones.
 
-

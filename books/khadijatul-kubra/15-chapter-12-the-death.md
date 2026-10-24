@@ -259,4 +259,3 @@ faith in Allah and His Messenger - in Islam!
 May Allah bless His loving slaves, Khadija and Abu Talib. Both of them
 put obedience to Him ahead of everything else in life.
 
-

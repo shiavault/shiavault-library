@@ -104,7 +104,6 @@ Details of these acts will be explained in the following articles.
 
 **I. Eating and Drinking**
 
-
 767. If a person eats or drinks something intentionally, while being
 conscious of fasting, his fast becomes void, irrespective of whether the
 thing which he ate or drank is usually edible or drinkable (like pead or
@@ -648,5 +647,4 @@ be in order.
 853. Fasting is Mustaa\*ab on every day of a year except those on which
 it is Halal (allowed) or Makruh to observe a fast. Some of these have
 been strongly recommended, which are explained in detailed books.
-
 

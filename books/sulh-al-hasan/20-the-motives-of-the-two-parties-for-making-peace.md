@@ -337,4 +337,3 @@ al Nahaya, vol. 8, p. 40. Al-Majlisi, Biharal-Anwar, vol. 10, p. 98.
 
 [^10]: Al-Bayhaqi, al-Mahasin wa al-Masawi', vol. 1, p. 64.
 
-

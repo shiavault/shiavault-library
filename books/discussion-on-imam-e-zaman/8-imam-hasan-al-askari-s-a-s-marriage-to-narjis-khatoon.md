@@ -87,4 +87,3 @@ Minor was called as Rome. (The Encyclopaedia of Dehkhuda-Under the word
 
 29 Behaarul Anwaar, by Allamah Majlisi (a.r.), vol. 51, p. 6
 
-

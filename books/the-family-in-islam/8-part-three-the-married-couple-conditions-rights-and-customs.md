@@ -229,4 +229,3 @@ This was related by Sheikh Murtada in Al-Makasib. Further detailed
 study of the hadith and pronouncements of the jurists can be found in
 the book of Fiqh.61
 
-

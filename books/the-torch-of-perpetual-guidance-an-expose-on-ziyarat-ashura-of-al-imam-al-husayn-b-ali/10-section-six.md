@@ -1,12 +1,8 @@
 Section Six
 ===========
 
-<blockquote dir="rtl">
-  <p>
-وَلَعَنَ اللّهُ أُمَّةً دَفَعَتْكُمْ عَنْ مَقامِكُمْ وَأَزالَتْكُمْ
-عَنْ مَراتِبِكُمُ الَّتِي رَتَّبَكُمُ اللّهُ فِيها
-  </p>
-</blockquote>
+> وَلَعَنَ اللّهُ أُمَّةً دَفَعَتْكُمْ عَنْ مَقامِكُمْ وَأَزالَتْكُمْ
+> عَنْ مَراتِبِكُمُ الَّتِي رَتَّبَكُمُ اللّهُ فِيها
 
 “May Allah curse those people who denied you your position (O’ Ahlul
 Bayt) and removed you from your rank which Allah himself had granted
@@ -60,5 +56,4 @@ dimensions.
 Thus, we reject any form of “Islam” if it does not conform to the Islam
 of Rasulullah, ‘Ali, Hasan and Husayn and the rest of the infallibles
 (peace be upon all of them).
-
 

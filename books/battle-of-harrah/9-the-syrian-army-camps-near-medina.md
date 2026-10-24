@@ -53,4 +53,3 @@ Sabā’ik al-Dhahab, p. 173; Zirklī, al-A‘lām, vol. 2, p. 42.
 
 [^6]: Tabarī, Ta’rīkh, vol. 4, p. 372.
 
-

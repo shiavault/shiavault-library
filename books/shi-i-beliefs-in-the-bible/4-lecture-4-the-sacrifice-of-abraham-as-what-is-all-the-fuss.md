@@ -685,4 +685,3 @@ is coherent, and the Bible and the Qur’an are both right. Everyone is
 disarmed and we are all faced with living together in peace. Can we rise
 to that challenge?
 
-

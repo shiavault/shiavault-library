@@ -5,7 +5,6 @@ Both monotheism and polytheism have degrees and stages. Unless a man
 passes through all the stages of monotheism, he cannot be a true
 monotheist.
 
-
 **I. Unity of the Essence of Allah**
 
 To acknowledge the unity of His essence means that Allah is One in His
@@ -133,7 +132,6 @@ that they are identical with His essence, and the attributes from which
 He is free are those which are limited and separate from His essence and
 from each other. Thus the unity of the Divine tributes means to
 acknowledge the unity of Allah's essence and His attributes.
-
 
 **III. Unity of the Work of Allah**
 
@@ -263,10 +261,8 @@ first to submit to Him."(Surah al-An'am, 6:79 & 163- 164)
 This monotheism of Prophet Ibrahim is the practical monotheism. This is
 what the creed, 'There is no god but Allah", visualizes.
 
-
 **Notes**
 
-[^13] The Islamic Seminary has published this book in English language
+[^13]: The Islamic Seminary has published this book in English language
 under the caption, Peak of Eloquence, 1984
-
 

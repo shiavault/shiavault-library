@@ -12,4 +12,3 @@ expounded principally in schools and other educational institutions,
 without distinction based on the political status of countries or
 territories".
 
-

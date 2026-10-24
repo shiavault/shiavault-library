@@ -59,7 +59,6 @@ notion of al-Badaa. This is one of the complex issues that has confused
 many people's minds, and consequently the enemies of the Ahl al-Bait
 (AS) have taken the advantage of this confusion to attack our faith.
 
-
 **The Badaa and its significance**
 
 There are many pieces of evidence in the Quran and the traditions
@@ -204,5 +203,4 @@ Ibn Salim narrated:
 Imam al-Sadiq (AS) said, "Allah was not worshipped to the extent that
 He was worshipped due to al-Badaa. Allah was not glorified as much as He
 was glorified due to al-Badaa."[^8]
-
 

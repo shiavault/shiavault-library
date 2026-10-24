@@ -73,4 +73,3 @@ ones in the Translation Office for undertaking this responsibility.
 Ayatullah Ja‘far Subhani (Qum: Nashr-e Mash‘ar, Autumn 1384 AHS (2005)),
 248 pp.
 
-

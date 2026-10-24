@@ -98,4 +98,3 @@ ill effects of using bad words.
 
 [^5]: al-mahajjat ul bayda, v 3, p. 127
 
-

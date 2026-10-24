@@ -10,12 +10,8 @@ other books also. It is mentioned in the book of *Ikhtisas* quoting from
 Muawiyah Ibne Dahni from His Eminence, Abu Abdillah Sadiq (as) that he
 said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي
-وَالْأَقْدَامِ
-  </p>
-</blockquote>
+> يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي
+> وَالْأَقْدَامِ
 
 ***“The guilty shall be recognized by their marks, so they shall be
 seized by the forelocks and the feet.” (Qur’an, Surah Rahman 55:41)***
@@ -43,12 +39,8 @@ Bukair that he said:
 
 I asked His Eminence, Abul Hasan (as) regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا
-وَإِلَيْهِ يُرْجَعُونَ
-  </p>
-</blockquote>
+> وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا
+> وَإِلَيْهِ يُرْجَعُونَ
 
 ***“…and to Him submits whoever is in the heavens and the earth,
 willingly or unwillingly…” (Qur’an, Surah Aale Imran 3:83)***
@@ -70,12 +62,8 @@ It is narrated from Abu Baseer that he said:
 I asked His Eminence, Abu Abdillah Sadiq (as) regarding the
 interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
 
 ***“He it is Who sent His Apostle with guidance and the religion of
 truth, that He might cause it to prevail over all religions, though the
@@ -94,12 +82,8 @@ It is narrated from Mufaddal bin Umar that he said:
 I asked His Eminence, Abu Abdillah Sadiq (as) regarding the
 interpretation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ
-الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ
+> الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
 
 ***“And most certainly We will make them taste of the nearer
 chastisement before the greater chastisement that haply they may turn.”
@@ -160,17 +144,9 @@ a traditional report from Ishaq bin Ammar that he said:
 I asked His Eminence about the saying of Allah that He has given respite
 to the Satan till the known hour as mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَإِنَّكَ مِنَ الْمُنْظَرِينَ
-  </p>
-</blockquote>
+> قَالَ فَإِنَّكَ مِنَ الْمُنْظَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ
-  </p>
-</blockquote>
+> إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ
 
 ***“He said: So surely you are of the respited ones, Till the period of
 the time made known.” (Qur’an, Surah Hijr 15:37)***
@@ -220,11 +196,7 @@ In *Kamaluddin* it is narrated from His Eminence, Abu Abdillah Sadiq
 
 When Prophet Lut (as) told his people:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ
-  </p>
-</blockquote>
+> قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ
 
 ***“He said: Ah! that I had power to suppress you, rather I shall have
 recourse to a strong support.” (Qur’an, Surah Hud 11:80)***
@@ -319,11 +291,7 @@ righteous and pious and felt very comfortable in his company, and he
 delivered a sum of money to me saying: This is from the Imam’s share.
 Thus I became extremely overjoyed and said to myself:
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا
-  </p>
-</blockquote>
+> هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا
 
 ***“…this is the significance of my vision of old; my Lord has indeed
 made it to be true.” (Qur’an, Surah Yusuf 12:100)***
@@ -335,12 +303,8 @@ Eminence even though nothing is concealed from him, as mentioned in
 “The Imam can hear even when he is in the womb and when he is born, it
 is written between his shoulders:
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ
-لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ
+> لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ
 
 ***“And the word of your Lord has been accomplished truly and justly;
 there is none who can change His words, and He is the Hearing, the
@@ -992,13 +956,9 @@ book of Allah that has destroyed my heart and has put me into doubt.
 Ammar said, “Which verse is that?” That man said, “It is when the
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَابَّةً مِنَ
-الْأَرْضِ تُكَلِّمُهُمْ أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا
-يُوقِنُونَ
-  </p>
-</blockquote>
+> وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَابَّةً مِنَ
+> الْأَرْضِ تُكَلِّمُهُمْ أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا
+> يُوقِنُونَ
 
 ***“And when the word shall come to pass against them, We shall bring
 forth for them a creature from the earth that shall talk to them,
@@ -1055,12 +1015,8 @@ that and he would not accept the repentance of anyone. As Shaykh Sadooq
 Abdillah Sadiq (as) regarding the saying of Allah, the Mighty and
 Sublime:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا
-لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا
-  </p>
-</blockquote>
+> يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا
+> لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا
 
 ***“On the day when some of the signs of your Lord shall come, its faith
 shall not profit a soul which did not believe before, or earn good
@@ -1085,11 +1041,7 @@ the *Daabba* but he will not accept after that.
 If it is said: with reference to the report that has come in *Tafseer
 Burhan* regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ
-  </p>
-</blockquote>
+> يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ
 
 ***“On the day when some of the signs of your Lord shall come…” (Qur’an,
 Surah Anaam 6:158)***
@@ -1139,11 +1091,7 @@ want to embrace faith because repentance in such condition would be like
 that of Firon when he was about to drown and he said: I repent and the
 Almighty Allah replied:
 
-<blockquote dir="rtl">
-  <p>
-آلْآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> آلْآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ
 
 ***“…and indeed you disobeyed before…” (Qur’an, Surah Yunus 10:91)***
 
@@ -1314,5 +1262,4 @@ in this case it would denote Hazrat Hujjat (aj).
 [^41]: Majma al-Bayan, Vol. 6, Pg. 447
 
 [^42]: Majma al-Bayan, Vol. 6, Pg. 447
-
 

@@ -855,4 +855,3 @@ hadith from 'Amir ibn Wathilah.
 [^3]: In the manuscript it is "ibn Muhammad"; Basim al-Musawi has
 corrected it from ash-Shaykh a-Saduq's Ikmalu 'd-Din.
 
-

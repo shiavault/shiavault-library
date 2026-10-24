@@ -5,7 +5,6 @@ According to Dr Sayyid \`Abd al-Latif, it can explicitly be understood
 from some of the Qur'anic verses that the Prophet (SA) could both read
 and write: In Surat Ali-\`Imran, verse 164, we read:
 
-
 "Truly Allah conferred a benefit upon the believers when He raised
 among them a Messenger from among themselves, reciting to them His
 communications and purifying them, and teaching them the Book and the
@@ -297,5 +296,4 @@ as a prophet.
 [^35]. Nahj al-Balaghah" Sermon No 190.
 [^36]. Ibn Khaldun, Al Muqaddamah (Introduction)", Ibrahim Hilmi Press,
 p 494, 495.
-
 

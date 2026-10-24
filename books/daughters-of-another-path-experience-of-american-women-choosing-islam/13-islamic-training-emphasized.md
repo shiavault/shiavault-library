@@ -373,4 +373,3 @@ are some guidelines that we can keep in mind as we relate to Muslims in
 the workplace, in the family, in public places, and as friends and
 acquaintances.
 
-

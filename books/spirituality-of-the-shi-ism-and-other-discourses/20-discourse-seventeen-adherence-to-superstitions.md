@@ -1,15 +1,11 @@
 Discourse Seventeen: Adherence to Superstitions
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللّهُ قَالُوا بَلْ
-نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
-لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ \* وَمَثَلُ الَّذِينَ
-كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لاَ يَسْمَعُ إِلاَّ دُعَاء
-وَنِدَاء صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللّهُ قَالُوا بَلْ
+> نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
+> لاَ يَعْقِلُونَ شَيْئاً وَلاَ يَهْتَدُونَ \* وَمَثَلُ الَّذِينَ
+> كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لاَ يَسْمَعُ إِلاَّ دُعَاء
+> وَنِدَاء صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَعْقِلُونَ ﴾
 
 ***“And when it is said to them, ‘Follow that which Allah has sent
 down.’ they reply, ‘We will follow that which we discovered from our
@@ -164,11 +160,7 @@ one’s heart’s desires, it will entail prosperity of both this world and
 the next and if it necessitates privation from one’s desires, the
 Almighty Lord will give a great reward:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَى... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَى... ﴾
 
 ***“However, that which is with Allah is better and more
 enduring…”***[^2]
@@ -217,11 +209,7 @@ Rome, do as the Romans do’ is considered a scientific one that has
 brought about the advancement of civilization but the following slogan
 is considered a religious imitation and a superstitious statement!
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... لاَ تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... لاَ تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ... ﴾
 
 ***“Do not follow caprices and desires because they will debar you from
 the path of Allah…”***[^3]
@@ -256,5 +244,4 @@ The age of senses [hiss] and matter [māddah][^4]
 [^3]: Sūrat Sād 38:26.
 
 [^4]: Extracted from the newspaper, “Wazīfah”, issue 127.
-
 

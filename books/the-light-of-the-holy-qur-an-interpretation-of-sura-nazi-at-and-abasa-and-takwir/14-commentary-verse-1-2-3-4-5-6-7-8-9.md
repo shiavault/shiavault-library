@@ -1,9 +1,7 @@
 Commentary : Verse 1.2.3.4.5.6.7.8.9
 ====================================
 
-<p dir="rtl">
 بسم الله الرحمن الرحيم
-</p>
 
 (1) إِذَا الشَّمْسُ كُوِّرَتْ
 
@@ -279,5 +277,4 @@ but it says that the innocent female-children will be asked about what
 sin it was for which they were slain so cruelly and indefensibly. It
 seems that the murderers are not worth questioning. Besides that only
 the testimony of the murdered ones is enough.
-
 

@@ -1,8 +1,6 @@
 150. Sawāda Al Qattān
 =====================
 
-  
-
 150. Sawāda al-Qattān
 ---------------------
 
@@ -43,8 +41,6 @@ b. 'Atiya al-Baghdādi. Shaykh al-Tūsi numbered him as one of the
 companions of Imām al-Ridā, peace be on him.[[7]](#_ftn1102) Al-Barqi
 numbered him as one of the companions of Imām al-Kāzim, peace be on him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1096) Mu'jam Rijāl al-Hadith.  
@@ -54,11 +50,6 @@ numbered him as one of the companions of Imām al-Kāzim, peace be on him.
  [[5]](#_F1100) Al-Barqi, Rijāl.  
  [[6]](#_F1101) Al-Tūsi, Rijāl.  
  [[7]](#_F1102) Ibid.  
-  
-
-  
-
-  
 
 156. Sālih al-Khabbāz al-Kūfi
 -----------------------------
@@ -100,18 +91,11 @@ fasted every year three months, and paid the poor-rate three times. With
 the exception of what we have mentioned, he donated on behalf of them as
 he donated on behalf of his own soul.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1103) Ibid.  
  [[2]](#_F1104) Mu'jam Rijāl al-Hadith.  
  [[3]](#_F1105) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 As he had firm devotion to (religion) and reverential fear, he said to
 the man who asked him to carry two dinars to his family in Kūfa: "My
@@ -169,11 +153,6 @@ b.
 
 [[1]](#_F1106) Mu'jam Rijāl al-Hadith, vol. 9, pp. 128-133.  
  [[2]](#_F1107) Al-Najāshi.  
-  
-
-  
-
-  
 
 Hātam) was right, and then he changed. He manifested belief in
 extremism. He has reports.[[1]](#_ftn1108)"
@@ -216,8 +195,6 @@ al-Nakhkhās. He was from Kūfa and is trustworthy. Shaykh al-Tūsi
 numbered him as one of the companions of Imām al-Ridā, peace be on
 him.[[6]](#_ftn1113)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1108) Al-Tūsi, Rijāl.  
@@ -226,11 +203,6 @@ him.[[6]](#_ftn1113)
  [[4]](#_F1111) Al-Tūsi, Rijāl.  
  [[5]](#_F1112) Al-Najāshi.  
  [[6]](#_F1113) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 166. Al-'Abbās Bin Hishām
 -------------------------
@@ -269,8 +241,6 @@ al-Nahāwandi. Shaykh al-Tūsi numbered him as one of the companions of
 Imām al-Ridā, peace be on him, and of Imām al-Jawād, peace be on
 him.[[5]](#_ftn1118)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1114) Ibid.  
@@ -278,11 +248,6 @@ him.[[5]](#_ftn1118)
  [[3]](#_F1116) Mu'jam Rijāl al-Hadith.  
  [[4]](#_F1117) Al-Tūsi, Rijāl.  
  [[5]](#_F1118) Ibid.  
-  
-
-  
-
-  
 
 170. 'Abd al-Hamid Bin Sa'id
 ----------------------------
@@ -326,11 +291,6 @@ said: 'What this *isnād* (chain of authorities) is?' My father
 [[1]](#_F1119) Ibid.  
  [[2]](#_F1120) Al-Najāshi.  
  [[3]](#_F1121) Ibid.  
-  
-
-  
-
-  
 
 answered: 'This is the sneezewort of the mad. When the mad are made to
 smell it, they recover.[[1]](#_ftn1122) '"
@@ -364,8 +324,6 @@ Gracious, the Most Merciful. You have known the prominent persons from
 whom the money has come to you. May Allah forgive you your sins and them
 their sins, and have mercy on us and you.[[6]](#_ftn1127)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1122) Mu'jam Rijāl al-Hadith, vol. 10, p. 20.  
@@ -374,11 +332,6 @@ their sins, and have mercy on us and you.[[6]](#_ftn1127)"
  [[4]](#_F1125) Ibid.  
  [[5]](#_F1126) Al-Najāshi.  
  [[6]](#_F1127) Al-Tūsi, al-Ghayba.  
-  
-
-  
-
-  
 
 175. 'Abd Allah Bin Abān
 ------------------------
@@ -430,11 +383,6 @@ al-Kāzim, peace be on him, and sometimes numbered him as
  [[3]](#_F1130) Al-Tūsi, Rijāl.  
  [[4]](#_F1131) Mu'jam Rijāl al-Hadith. Hayāt al-Imām Mohammed al-Jawād
 (the Life of Imām Mohammed al-Jawād, peace be on him.)   
-  
-
-  
-
-  
 
 one of the companions of Imām al-Ridā, peace be on him. Jundub was one
 of the agents of Imām al-Kāzim and Imām al-Ridā, peace be on them. He
@@ -479,11 +427,6 @@ His *kunya* is Abū Tālib. He was the retainer of the Banū Tamim.
 [[1]](#_F1132) Al-Kashi.  
  [[2]](#_F1133) Mu'jam Rijāl al-Hadith. Quoted from al-Irshād by Shaykh
 al-Mufid.  
-  
-
-  
-
-  
 
 He is trustworthy and his traditions are reliable. He narrated on the
 authority of Imām al-Ridā, peace be on him. It is well known that Kitāb
@@ -519,8 +462,6 @@ book.[[6]](#_ftn1139)
 al-Nahāwandi. He was one of the companions of Imām al-Ridā, peace be on
 him.[[7]](#_ftn1140)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1134) Al-Najāshi.  
@@ -530,11 +471,6 @@ him.[[7]](#_ftn1140)
  [[5]](#_F1138) Al-Tūsi, Rijāl.  
  [[6]](#_F1139) Al-Najāshi.  
  [[7]](#_F1140) Mu'jam Rijāl al-Hadith, vol. 10, p. 35.  
-  
-
-  
-
-  
 
 184. 'Abd Allah Bin Mohammed
 ----------------------------
@@ -583,11 +519,6 @@ stopped
  [[3]](#_F1143) Al-Najāshi.  
  [[4]](#_F1144) Mu'jam Rijāl al-Hadith.  
  [[5]](#_F1145) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 at his door, and said to the retainer: 'Say to your master that an Iraqi
 is at your door.' I heard him call (me) out: 'Come in, 'Abd Allah b.
@@ -622,19 +553,12 @@ him.[[3]](#_ftn1148)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[4]](#_ftn1149)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1146) Al-Kashi.  
  [[2]](#_F1147) Mu'jam Rijāl al-Hadith, vol. 10, p. 354.  
  [[3]](#_F1148) Al-Tūsi, Rijāl.  
  [[4]](#_F1149) Ibid.  
-  
-
-  
-
-  
 
 190. 'Ubayd Allah
 -----------------
@@ -677,8 +601,6 @@ reported: "He (Imām al-Ridā), peace be on him, had money at his ('Uthmān
 b. 'Īsā's) hand. He ('Uthmān b. 'Īsa) prevented him (al-Ridā from his
 money). As a result al-Ridā was displeased with him."
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1150) Ibid.  
@@ -686,11 +608,6 @@ money). As a result al-Ridā was displeased with him."
  [[3]](#_F1152) Ibid., p. 82.  
  [[4]](#_F1153) Al-Tūsi, Rijāl.  
  [[5]](#_F1154) Mu'jam Rijāl al-Hadith, vol. 11, p.116.  
-  
-
-  
-
-  
 
 He (Nasr b. al-Sabāh) added: " He ('Uthmān b. 'Īsa) turned to Allah in
 repentance and sent the money to al-Ridā. He narrated on the authority
@@ -732,8 +649,6 @@ of Imām al-Ridā, peace be on him.[[4]](#_ftn1158)
 b. Ashyam. Shaykh al-Tūsi numbered him as one of the companions of Imām
 al-Ridā, peace be on him.[[5]](#_ftn1159)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1155) Ibid., p. 126.  
@@ -741,11 +656,6 @@ al-Ridā, peace be on him.[[5]](#_ftn1159)
  [[3]](#_F1157) Ibid.  
  [[4]](#_F1158) Ibid.  
  [[5]](#_F1159) Ibid.  
-  
-
-  
-
-  
 
 200. 'Ali Bin Idris
 -------------------
@@ -790,18 +700,11 @@ on him)?"
 spokesman after him has spoken (i.e. the Imām after him has undertaken
 the office of the Imāmate), I answered.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1160) Mu'jam Rijāl al-Hadith, vol. 11, p. 276.  
  [[2]](#_F1161) Al-Zati: A kind of the black and the Indians  
  [[3]](#_F1162) Al-Najāshi.  
-  
-
-  
-
-  
 
 "Who is the spokesman after him?" he asked.
 
@@ -850,12 +753,6 @@ Accordingly, the Bedouin understood that Imām al-Jawād, peace be on him,
 was the  testamentary trustee of the Prophet, may Allah bless him and
 his family.
 
-  
-
-  
-
-  
-
 The Imām had sent for a doctor in order to bleed him, so 'Ali b. Ja'far
 stood up and said to him: "Master, let the doctor start with me, that
 the sharp iron may cut me before you!"
@@ -894,16 +791,9 @@ young man (to it) and placed him where He has placed him, then how can I
 deny his outstanding merit? I seek refuge in Allah from what you have
 said; rather I am his servant.[[1]](#_ftn1163)"        
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1163) Al-Kashi.  
-  
-
-  
-
-  
 
 203. 'Ali Bin Hadid
 -------------------
@@ -942,19 +832,12 @@ al-Ridā, peace be on him.[[3]](#_ftn1166)
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[4]](#_ftn1167)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1164) Al-Tūsi, Rijāl.  
  [[2]](#_F1165) Al-Najāshi.  
  [[3]](#_F1166) Al-Tūsi, Rijāl.  
  [[4]](#_F1167) Ibid.  
-  
-
-  
-
-  
 
 207. 'Ali Bin Swayd al-Sā'i[[1]](#_ftn1168)
 -------------------------------------------
@@ -990,19 +873,12 @@ conceal. I want to tell you that the most obligatory right of your
 brother against you is that you should not hide from him what benefits
 him in this world and the next.[[3]](#_ftn1170)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1168) Al-Sā'i is ascribed to a village called al-Sāya near
 Medina.  
  [[2]](#_F1169) Al-Tūsi, Rijāl.  
  [[3]](#_F1170) Al-Kashi.  
-  
-
-  
-
-  
 
 This letter contains important points and is evidence for the exalted
 position of 'Ali (b. Swayd) and his great rank with the Imām, peace be
@@ -1050,11 +926,6 @@ me on the authority of 'Ali b. al-Hakam, on the
 [[1]](#_F1171) Al-Najāshi.  
  [[2]](#_F1172) Mu'jam Rijāl al-Hadith, vol. 12, p. 66.  
  [[3]](#_F1173) Ibid., p. 87.  
-  
-
-  
-
-  
 
 authority of Sulaymān b. Ja'far, who said: 'Ali b. 'Ubayd Allah b.
 al-Husayn b. 'Ali b. al-Husayn b. 'Ali b. Abū Tālib, peace be on him,
@@ -1094,17 +965,10 @@ Imāmate).[[1]](#_ftn1174)'"  
 b. Razin. Shaykh al-Tūsi numbered him as one of the companions of Imām
 al-Ridā, peace be on him.[[]](#_ftn1175)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1174) Al-Kashi.  
  [[2]](#_F1175) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 213. 'Ali Bin 'Ali Bin Razin al-Khazā'i
 ---------------------------------------
@@ -1150,11 +1014,6 @@ him as one of the companions of Imām al-Ridā, peace be on
 
 [[1]](#_F1176) Al-Kashi.  
  [[2]](#_F1177) Mu'jam Rijāl al-Hadith, vol. 12, p. 125.  
-  
-
-  
-
-  
 
 him.[[1]](#_ftn1178) He narrated on his authority. Al-Najāshi said: "He
 has a book on al-Ridā, peace be on him.[[2]](#_ftn1179)"
@@ -1197,11 +1056,6 @@ righteous scholar, who was at the top of reverential fear,
 [[1]](#_F1178) Al-Tūsi, Rijāl.  
  [[2]](#_F1179) Al-Najāshi.  
  [[3]](#_F1180) Al-Ghayba.  
-  
-
-  
-
-  
 
 righteousness, and showing friendship toward the Imāms of guidance,
 peace be on them.
@@ -1251,17 +1105,10 @@ Jurisprudence. The following are some of them:
 
 Qur'ān).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1181) Al-Kashi.  
  [[2]](#_F1182) Ibid.  
-  
-
-  
-
-  
 
 10. Kitāb al-Fadā'il (the Book of Great Merits).
 
@@ -1331,16 +1178,9 @@ Book of Vows, Oaths, and Expiatory Gifts).
 
 Traditions).[[1]](#_ftn1183)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1183) Al-Najāshi.  
-  
-
-  
-
-  
 
 217. 'Ali Bin Yahyā
 -------------------
@@ -1381,8 +1221,6 @@ He is trustworthy. He narrated on the authority of Imām al-Ridā, peace
 be on him. He has a book. A group (of traditionalists) narrated the
 book.[[7]](#_ftn1190)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1184) Al-Tūsi, Rijāl.  
@@ -1392,11 +1230,6 @@ book.[[7]](#_ftn1190)
  [[5]](#_F1188) Ibid.  
  [[6]](#_F1189) Ibid.  
  [[7]](#_F1190) Al-Najāshi.  
-  
-
-  
-
-  
 
 223. 'Īsā Bin 'Uthmān
 ---------------------
@@ -1452,11 +1285,6 @@ the
  [[7]](#_F1197) Al-Fadl b. Sahl, nicknamed "the man with two offices"
 because he was in charge of the military and civil administration under
 the Caliph al-Ma'mūn.  
-  
-
-  
-
-  
 
 companions of Imām al-Ridā, peace be on him.[[1]](#_ftn1198) He was the
 mortal enemy of Imām al-Ridā, peace be on him. He and his brother urged
@@ -1500,8 +1328,6 @@ of Imām al-Ridā, peace be on him. He has a book.[[6]](#_ftn1203)
 He narrated on the authority of Imām al-Ridā, peace be on him, and Ahmed
 b. 'Ali al-Ju'fi reported on his authority.[[7]](#_ftn1204)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1198) Al-Tūsi, Rijāl.  
@@ -1511,11 +1337,6 @@ b. 'Ali al-Ju'fi reported on his authority.[[7]](#_ftn1204)
  [[5]](#_F1202) Al-Tūsi, Rijāl.  
  [[6]](#_F1203) Al-Najāshi. Al-Tūsi.  
  [[7]](#_F1204) Mu'jam Rijāl al-Hadith, vol. 14, p. 248.  
-  
-
-  
-
-  
 
 234. Mohammed Bin Abū 'Abbād
 ----------------------------
@@ -1552,17 +1373,10 @@ blind. What is your view of a man who prostrated after the dawn prayer
 and did not raise his head until the sun came near to descending (from
 its midday zenith)?'"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1205) Ibid., p. 283.  
  [[2]](#_F1206) Al-Najāshi.  
-  
-
-  
-
-  
 
 Al-Fadl said: "One day my father (shaykh) took me hand and took me to
 Ibn Abū 'Umayr. We went to him in a room. There were shaykhs around him,
@@ -1612,18 +1426,11 @@ b. Ghaylān. He was from Kūfa and was a retainer. He is trustworthy.
 Shaykh al-Tūsi numbered him as one of the companions of Imām al-Ridā,
 peace be on him.[[3]](#_ftn1209)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1207) Al-Kashi.  
  [[2]](#_F1208) Al-Najāshi.  
  [[3]](#_F1209) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 237. Mohammed Bin Ishāq al-Kūfi
 -------------------------------
@@ -1668,11 +1475,6 @@ position which you have mentioned, then ask him to supplicate
 the Imāms.  
  [[3]](#_F1212) Al-Mufid, al-Irshād.  
  [[4]](#_F1213) Al-Tūsi, Rijāl.  
-  
-
-  
-
-  
 
 to Allah for me, that I may follow your creed.' I would like you to pray
 to Allah for him.'"
@@ -1695,11 +1497,8 @@ Tabristān. It is said: "He was an extremist with corrupt traditions." He
 narrated on the authority of Imām al-Ridā, peace be on
 him.[[2]](#_ftn1215)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1214) Al-Kashi.  
  [[2]](#_F1215) Al-Najāshi.  
-  
 

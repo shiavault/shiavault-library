@@ -41,7 +41,6 @@ only Creator of the world. The verse says:
 " That you serve none but Allah; verily, I do fear for you the penalty
 of a painful day. "
 
-
 **Commentary : Verse 27**
 
 (27) فَقالَ الْمَلَأُ الَّذينَ كَفَرُوا مِنْ قَوْمِهِ ما نَراكَ إِلاَّ
@@ -87,7 +86,6 @@ decent.
 Therefore, the opponents of the prophets lack reasoning and whatever
 they claim is based on conjecture, speculation and on hallucinations.
 
-
 **Commentary : Verse 28**
 
 (28) قالَ يا قَوْمِ أَ رَأَيْتُمْ إِنْ كُنْتُ عَلى‏ بَيِّنَةٍ مِنْ
@@ -132,7 +130,6 @@ my Lord, and He has grant me mercy from His Presence, but has been
 obscured for you; shall we compel you to(accept)it while you are averse
 to it ?"
 
-
 **Commentary : Verse 29**
 
 (29) وَ يا قَوْمِ لا أَسْئَلُكُمْ عَلَيْهِ مالاً إِنْ أَجرِيَ إِلاَّ
@@ -161,5 +158,4 @@ ignorance and from the Divine punishment. The verse says:
 " And O' my People! I ask you no wealth for it. My reward is only upon
 Allah, and I will not drive away those who believe,(for)verily they
 shall meet their Lord, but I see you are an ignorant people. "
-
 

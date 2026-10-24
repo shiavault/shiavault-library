@@ -20,4 +20,3 @@ have a sentence, as in (c).
 
 **(c) The house is new**البيتُ جديدٌ    **  ** ****
 
-

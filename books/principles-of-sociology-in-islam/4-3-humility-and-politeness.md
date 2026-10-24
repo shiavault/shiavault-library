@@ -10,12 +10,8 @@ hearts.
 
 While praising the courteous people, the Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا
-وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا
-  </p>
-</blockquote>
+> وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا
+> وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا
 
 ***And the servants of (Allah) Most Gracious are those who walk on the
 earth in humility and when the ignorant address them, they say, "Peace".
@@ -80,11 +76,7 @@ Now see, how can a man having such behavior possibly create friends, or
 what can people learn from such person. That is why the Qur'an has
 clearly condemned selfishness and conceit:
 
-<blockquote dir="rtl">
-  <p>
-أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ
-  </p>
-</blockquote>
+> أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ
 
 ***. . . Is there not in Hell an abode for the haughty? (39:60)***
 
@@ -95,12 +87,8 @@ in Hell reserved for the arrogant people.
 The Holy Qur'an narrates the useful teachings of Luqman to his son in
 which, among other things, he says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ
-إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ
+> إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 ***And swell not thy cheek (for pride) at men, nor walk in insolence
 through the earth, for Allah loves not any arrogant boaster. (31:18)***
@@ -108,11 +96,7 @@ through the earth, for Allah loves not any arrogant boaster. (31:18)***
 The sixth Imam explains that pride is based on an inferiority complex.
 He says:
 
-<blockquote dir="rtl">
-  <p>
-ما من أحدٍ يتيه إلا من ذلة يجدها في نفسه
-  </p>
-</blockquote>
+> ما من أحدٍ يتيه إلا من ذلة يجدها في نفسه
 
 No one shows haughtiness and pride but because of some inferiority which
 he feels in himself.[^3]
@@ -135,5 +119,4 @@ through politeness.
 [^2]: Safinatu '1-Bihar, vo1.2, p.459.
 
 [^3]: al-Usul al -Kafi , vol. 3
-
 

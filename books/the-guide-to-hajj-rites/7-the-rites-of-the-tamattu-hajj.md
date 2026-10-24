@@ -294,7 +294,6 @@ sunset. The Ram’y is the first of the rites of Mina, and thus it is not
 permissible, as a precaution, to bring forward any of the other rites,
 namely the Had’y and the halq.
 
-
 **Obligations of the Ram’y**
 
 430. A number of issues are obligatory in Ram’y:
@@ -371,7 +370,6 @@ during the night, like the women, children, the elderly, and the sick.
 during the day his excuse was no more, he is not obliged to repeat the
 Ram’y, although as a precaution it is [recommended to do so].
 
-
 **Some of the Conditions of the Ram’y**
 
 442. [When collecting the stones, one should consider] some of the
@@ -431,7 +429,6 @@ and, as a precaution, it is recommended that he should also slaughter
 the second one too. If he slaughtered the second one before finding the
 one he had lost, it is preferred, but in fact obligatory as a
 precaution, to it too.
-
 
 **Obligations of the Had’y**
 
@@ -529,7 +526,6 @@ is no use or consumption for it, it is permitted to take it outside. It
 is also permitted [to take it outside] if the Haajj (pilgrim) bought the
 [sacrificed] Had’y – that he had previously given it to a destitute.
 
-
 **Miscellaneous issues**
 
 461. If one slaughtered an animal assuming that it is well-nourished,
@@ -609,5 +605,4 @@ slaughter the Had’y on the day of the Eid.
 obliged to perform the taqseer or trimming, but as a recommended
 precaution, he should regardless apply the shaving razor or the fine
 hair cutting machine to his head too.
-
 

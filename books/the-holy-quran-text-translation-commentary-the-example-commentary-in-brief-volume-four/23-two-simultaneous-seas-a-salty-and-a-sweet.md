@@ -470,15 +470,12 @@ THE END OF SUREH FORGHA"N (25) = (SEPARATOR)
 
 [ 427 ]
 
-<p dir="rtl">
 سُورَةُ الشُّعَراء
-</p>
 
 THE POETS
 
 بِسْمِ اللّهِ الرَّحْمَـنِ الرَّحِيمِ
 IN THE NAME OF ALLAH THE MERCIFUL THE COMPASSIONATE.
-
 
 طسم(( 1 ))
 1- T-S-M (TA"-SIN-MIM)
@@ -571,5 +568,4 @@ BENEFICIAL PAIRS (OF PLANTS) HAVE WE GROWN?
 وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ(( 9 ))
 
 9- AND THAT YOUR LORD, HE IS EXALTED IN MIGHT, THE COMPASSIONATE.
-
 

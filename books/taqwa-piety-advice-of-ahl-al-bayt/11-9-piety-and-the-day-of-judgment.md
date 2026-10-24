@@ -36,4 +36,3 @@ the Day of Judgment and the Hereafter will certainly have piety.
 
 [^1]: Qur'an, 73:17.
 
-

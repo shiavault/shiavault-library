@@ -800,4 +800,3 @@ of the Prophet (s) and his progeny had confirmed the faithfulness of
 this man. All that imposed upon us to brush that distorted
 interpretation aside and not to pay any attention to the evil wills.
 
-

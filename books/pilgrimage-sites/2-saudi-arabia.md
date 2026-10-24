@@ -382,4 +382,3 @@ al-Uqba
 History of the graveyard of Jannatul Baqi (Madina) & Jannatul Mualla
 (Makkah)
 
-

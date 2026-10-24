@@ -6,12 +6,8 @@ Apostles followed Abraham's footsteps -The other Apostles.
 Surah Al-‘An’am, Verse 83
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ حُجَّتُنَا آتَيْنَاهَا إِبْرَاهِيمَ عَلَى قَوْمِهِ نَرْفَعُ
-دَرَجَاتٍ مَّن نَّشَاء إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَتِلْكَ حُجَّتُنَا آتَيْنَاهَا إِبْرَاهِيمَ عَلَى قَوْمِهِ نَرْفَعُ
+> دَرَجَاتٍ مَّن نَّشَاء إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ
 
 **83.** ***"And such was Our argument which We gave to Abraham against
 his people. We raise up in degrees whom We please; verily your Lord is
@@ -68,14 +64,10 @@ The verse says:
 Surah Al-‘An’am, Verse 84
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلاًّ هَدَيْنَا وَنُوحًا
-هَدَيْنَا مِن قَبْلُ وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
-وَأَيُّوبَ وَيُوسُفَ وَمُوسَى وَهَارُونَ وَكَذَلِكَ نَجْزِي
-الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلاًّ هَدَيْنَا وَنُوحًا
+> هَدَيْنَا مِن قَبْلُ وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
+> وَأَيُّوبَ وَيُوسُفَ وَمُوسَى وَهَارُونَ وَكَذَلِكَ نَجْزِي
+> الْمُحْسِنِينَ
 
 **84.** ***"And We bestowed upon him (Abraham) (issues like) Isac and
 Jacob, each one We guided; and Noah We guided before; and of his seed
@@ -128,25 +120,13 @@ a result of their own good deeds.
 Surah Al-‘An’am, Verses 85 - 87
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَزَكَرِيَّا وَيَحْيَى وَعِيسَى وَإِلْيَاسَ كُلٌّ مِّنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> وَزَكَرِيَّا وَيَحْيَى وَعِيسَى وَإِلْيَاسَ كُلٌّ مِّنَ الصَّالِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلاًّ فضَّلْنَا عَلَى
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلاًّ فضَّلْنَا عَلَى
+> الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ
-وَهَدَيْنَاهُمْ إِلَى صِرَاطٍ مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ
+> وَهَدَيْنَاهُمْ إِلَى صِرَاطٍ مُّسْتَقِيمٍ
 
 **85.** ***"And Zakariya and John and Jesus and Elias; each one (of
 them) was of the righteous."***
@@ -184,12 +164,8 @@ brethren, and We chose them and guided them into the straight way."***
 Surah Al-‘An’am, Verse 88
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ هُدَى اللّهِ يَهْدِي بِهِ مَن يَشَاء مِنْ عِبَادِهِ وَلَوْ
-أَشْرَكُواْ لَحَبِطَ عَنْهُم مَّا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> ذَلِكَ هُدَى اللّهِ يَهْدِي بِهِ مَن يَشَاء مِنْ عِبَادِهِ وَلَوْ
+> أَشْرَكُواْ لَحَبِطَ عَنْهُم مَّا كَانُواْ يَعْمَلُونَ
 
 **88.** ***"Such is the guidance of*** ***Allah; He guides by it whom He
 pleases of His servants; and if they were to associate others (with
@@ -219,13 +195,9 @@ discrimination between them.
 Surah Al-‘An’am, Verse 89
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ
-وَالنُّبُوَّةَ فَإِن يَكْفُرْ بِهَا هَـؤُلاء فَقَدْ وَكَّلْنَا بِهَا
-قَوْمًا لَّيْسُواْ بِهَا بِكَافِرِينَ
-  </p>
-</blockquote>
+> أُوْلَـئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ
+> وَالنُّبُوَّةَ فَإِن يَكْفُرْ بِهَا هَـؤُلاء فَقَدْ وَكَّلْنَا بِهَا
+> قَوْمًا لَّيْسُواْ بِهَا بِكَافِرِينَ
 
 **89.** ***"These are they to whom We gave the Book, the authority and
 the prophet hood; so if these (infidels) disbelieve in it, We have
@@ -260,12 +232,8 @@ entrusted with it a people who are not disbelievers in it."***
 Surah Al-‘An’am, Verse 90
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ الَّذِينَ هَدَى اللّهُ فَبِهُدَاهُمُ اقْتَدِهْ قُل لاَّ
-أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِنْ هُوَ إِلاَّ ذِكْرَى لِلْعَالَمِينَ
-  </p>
-</blockquote>
+> أُوْلَـئِكَ الَّذِينَ هَدَى اللّهُ فَبِهُدَاهُمُ اقْتَدِهْ قُل لاَّ
+> أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِنْ هُوَ إِلاَّ ذِكْرَى لِلْعَالَمِينَ
 
 **90.** ***"These are they whom*** ***Allah*** ***has guided, therefore
 follow their guidance. Say (to people): 'I ask you no wage for it (the
@@ -310,5 +278,4 @@ wages for them.
 [^1]: In Tafsir Almanar and Tafsir Rouh-ul-Ma'ani, it is narrated from
 the commentators that the objective meaning of "... a people who are not
 disbelievers in it" is Iranians
-
 

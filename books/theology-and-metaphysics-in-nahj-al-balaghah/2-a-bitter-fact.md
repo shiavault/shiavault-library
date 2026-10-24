@@ -53,7 +53,6 @@ al-Kulayni wa al-Sahih li al-Bukhari, which is an original but a brief
 comparative study of al-Sahih of al-Bukhari and al-Kulayni's al-Kafi,
 has dealt with the traditions related to the problems of theology.
 
-
 **Shi'i Rationalism**
 
 The discussion of theological problems and their analysis by the Shi'i
@@ -197,5 +196,4 @@ These ideas are exclusively special to Islamic philosophy. The Islamic
 philosophers gradually picked these ideas up from the basic Islamic
 sources and incorporated them in their thought under the guidance of
 revelation.
-
 

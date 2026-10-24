@@ -89,12 +89,8 @@ before them the slogan of Islam, come what may."
 He went straight to the heart of the City, i.e. the Mosque and cried
 before the congregation of Quraish:
 
-<blockquote dir="rtl">
-  <p>
-اشْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَ اَشْهَدُ اَنَّ مُحَمَّدً
-اعَبْدُه وَرَسُولُه
-  </p>
-</blockquote>
+> اشْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَ اَشْهَدُ اَنَّ مُحَمَّدً
+> اعَبْدُه وَرَسُولُه
 
 "(I bear witness that there is no god but Allah and Mohammad is His
 Servant and Messenger)."
@@ -125,5 +121,4 @@ death. The Prophet had said about him
 
 "May God bless Abu Dharr! he will live alone, will die alone and shall
 be brought up alone on the Day of Resurrection."
-
 

@@ -97,4 +97,3 @@ Usamah bin Zaid bin Harithah, the young companion of the Prophet
 (s.a.w.) was appointed the leader of the army. But before the departure
 of the army the Prophet (s.a.w.) fell gravely ill.
 
-

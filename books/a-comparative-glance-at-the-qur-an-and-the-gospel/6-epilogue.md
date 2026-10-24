@@ -27,4 +27,3 @@ from the judgment of the Book of Allah, being deceived by their own
 claim, and misled by what they have themselves forged; they demonstrate,
 by their behaviour, that they do not need the Book of Allah.
 
-

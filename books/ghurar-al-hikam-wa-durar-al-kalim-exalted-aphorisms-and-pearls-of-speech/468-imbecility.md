@@ -15,14 +15,9 @@ Imbecility
 people when the same faults are hidden to him of himself.
 
 > 3ـ كَفى بِالمَرْءِ غَباوَةً أنْ يَنْظُرَ مِنْ عُيُوبِ النّاسِ إلى ما
-<blockquote dir="rtl">
-  <p>
-خَفِيَ عَلَيْهِ مِنْ عُيُوبِهِ.
-  </p>
-</blockquote>
+> خَفِيَ عَلَيْهِ مِنْ عُيُوبِهِ.
 
 4. Imbecility is from the most detestable of traits.
 
 > 4ـ مِنْ أقْبَحِ الشِّيَمِ الغَباوَةُ.
-
 

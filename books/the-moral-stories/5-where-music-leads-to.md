@@ -89,7 +89,6 @@ The Prophet of Islam had said:
 a calamity and musical rhythm at the time of rejoicing." (Nafahat
 Risaliyya)
 
-
 **Do Stars Influence Our Destiny?**
 
 Once Imam Ali bin Abi Talib (A.S.) was leaving Kufa - (the then capital
@@ -237,5 +236,4 @@ Thus to approach fortune-tellers, palmists, astrologers and such others
 who claim to have power to peep into future and to know of hidden
 matters is to display lack of true faith in the Will of Allah, It is
 against the teachings of Islam and leads to infidelity.
-
 

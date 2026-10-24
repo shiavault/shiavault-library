@@ -33,10 +33,8 @@ life was in this period.
 He had only a single son IMAM JAWAD Who was seven years of age at the
 time of his martyrdom.
 
-<p dir="rtl">
 اربعون حديثا عن الامام علي الرضا عليه السلام
 --------------------------------------------
-</p>
 
 1- مَن شَبَّةَ اللهَ بِخَلقِهِ فَهُو مُشرِکٌ، وَمَن نَسَبَ اِلَيهِ ما
 نَهی عَنهُ فَهُوَ کافِرٌ. (وسائل الشيعة ج18 ص557)
@@ -191,18 +189,14 @@ acquires three qualities: A way of Allah's treatment (sunnan Allah) a
 prophet's rule &. a rule of his saint. However, the Allah's treatment is
 the conce.iiling of his secret. Allah said
 
-<p dir="rtl">
 عالم الغيب... فلا يظهر علی غيبه احدأ الا من ارتضی من رسول.
-</p>
 
 The knower of the unseen! So he does not reveal his secret to any.
 Except to him whome he chooses as an apostle.' More over, the sunnah &.
 rule of the Prophet(P.B.U.H) is conciliation with the people. So Allah
 commanded the Prophet(P.B.U.H) to conciliate with the masses saying.
 
-<p dir="rtl">
 خذا العفو وامر بالمعروف
-</p>
 
 Take to forgiveness &. enjoin good.' Never the less, the rule of his
 saint is 'Excersicsing patience &. endurance in (the times of)
@@ -589,5 +583,4 @@ backgammons is worse than chess. (MUSTADRAK AL WASAIL VOL 2, P 436)
 
 40. The superior most mind is the man's recognition of his self. (BIHAR
 UL ANWAR VOL 78, P 352)
-
 

@@ -359,4 +359,3 @@ body but also his master's body lacked a shroud .
 In conclusion I pray to God for a good end for us all and for the chance
 of true repentance by us and forgiveness by Him.
 
-

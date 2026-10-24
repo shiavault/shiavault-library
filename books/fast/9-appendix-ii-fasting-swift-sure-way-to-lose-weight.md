@@ -117,4 +117,3 @@ better on nearly all of them. Said his examiners, "It is an indisputable
 fact that, according to the tests, there was no lasting evil effect of
 the fast, either upon muscular strength or mental activity."
 
-

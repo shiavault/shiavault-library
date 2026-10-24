@@ -3376,4 +3376,3 @@ peoples of the world. All these aroused from the unprincipled conducts
 that became far from morals. Hence many small countries fall victims to
 the political whims of the great countries.
 
-

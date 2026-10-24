@@ -648,4 +648,3 @@ course, limited in knowledge and in practice - this is a repelled
 conjecture. The conscience of man knows whether he is bound or free. It
 is just like when one doubts the heat even though he sees the fire.
 
-

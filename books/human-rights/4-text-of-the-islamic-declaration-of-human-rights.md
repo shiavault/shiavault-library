@@ -360,4 +360,3 @@ Article 25
 The Islamic law is the only source for the interpretation or explanation
 of any Article of this Declaration.
 
-

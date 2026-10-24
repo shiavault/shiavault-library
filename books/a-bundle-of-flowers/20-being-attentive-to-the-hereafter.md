@@ -25,4 +25,3 @@ is no physician to prevent you (from death) nor a friend to avail you."
 
 Bihar-ul-Anwar, vol. 78, p. 370
 
-

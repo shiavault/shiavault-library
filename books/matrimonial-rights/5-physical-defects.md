@@ -220,4 +220,3 @@ sexually or not.” ( 27 )
 looking at a woman will be given one of the Paradisiacal women in
 marriage by Allah before he is back to his normal sighting.” ( 28 )
 
-

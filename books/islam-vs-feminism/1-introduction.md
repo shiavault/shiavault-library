@@ -61,4 +61,3 @@ and Islamic doctrines in which their utter incompatibility is
 elucidated. Finally, some observations are drawn with regard to the
 Islamic women's movement.
 
-

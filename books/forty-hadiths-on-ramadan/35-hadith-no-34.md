@@ -9,4 +9,3 @@ The Holy Prophet (peace be upon him and his progeny) has said: Eat your
 (mere) mouthfuls of water, for the blessings of Allah are upon those who
 eat the sahur.*Tahdheeb al-Akhaam, vol. 4, pg. 198*
 
-

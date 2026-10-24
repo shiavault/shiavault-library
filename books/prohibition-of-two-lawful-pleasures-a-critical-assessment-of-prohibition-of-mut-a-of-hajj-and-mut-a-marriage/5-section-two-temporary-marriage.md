@@ -58,9 +58,7 @@ followers who were a reference in reciting the Holy Quran and
 comprehending its verses, the said verse is about temporary marriage. It
 is said that they used to recite it as under:
 
-<p dir="rtl">
 فما استمتعتم به منهن إلی أجل
-</p>
 
 Then as to those whom you profit by until an appointed time .
 
@@ -1067,9 +1065,7 @@ caliphs][^100] we are led to believe that the prohibition of temporary
 marriage by Umar was nothing but an innovation – a thing that was
 forbidden by the Holy Prophet (s).
 
-<p dir="rtl">
 ایاکم و محدثات الامور...
-</p>
 
 Distance yourself innovations.
 
@@ -1082,5 +1078,4 @@ We ask Allah to help us find the true path and do our deeds purely for
 Allah. We also ask Him to help us associate with the Holy Prophet (s),
 his progeny and his real followers. He is no doubt beneficent and
 merciful.
-
 

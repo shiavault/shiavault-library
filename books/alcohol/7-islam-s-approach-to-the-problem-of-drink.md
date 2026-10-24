@@ -511,4 +511,3 @@ destroys the strength of the nations.
 
 The End
 
-

@@ -16,14 +16,9 @@ The Home
 Allah.
 
 > 3ـ اِحْذَرْ مَنازِلَ الْغَفْلَةِ والْجَفاءِ وقِلَّةَ الأعْوانِ عَلى
-<blockquote dir="rtl">
-  <p>
-طاعَةِ اللّهِ.
-  </p>
-</blockquote>
+> طاعَةِ اللّهِ.
 
 4. How many a builder has built that which he does not reside in.
 
 > 4ـ كَمْ مِنْ بان مالا يَسْكُنُهُ.
-
 

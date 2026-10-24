@@ -201,4 +201,3 @@ instead of the ghusl and the other instead of *wudu*'.'.
 
 [^1]: Wasa'il, vol. 1, p. 991-2.
 
-

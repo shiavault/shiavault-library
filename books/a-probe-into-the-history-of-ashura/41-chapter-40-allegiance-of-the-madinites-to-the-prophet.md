@@ -142,4 +142,3 @@ necessary for us to thank the Almighty for this blessing. O you, who
 have been raised amongst us by Allah! You have come and arrived amongst
 us in such circumstances that we are prepared to obey all your orders"
 
-

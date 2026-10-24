@@ -22,4 +22,3 @@ and when I admonished you not to act as an enemy, I meant do not be your
 own enemy. Remember when a man commits a sin, and acts contrary to the
 behests of Allah, he harms himself.'
 
-

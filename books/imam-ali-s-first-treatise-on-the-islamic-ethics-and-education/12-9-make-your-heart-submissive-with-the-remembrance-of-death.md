@@ -1,11 +1,7 @@
 9) Make your heart submissive with the remembrance of Death
 ===========================================================
 
-<blockquote dir="rtl">
-  <p>
-وذَلِّله بذكر الموت""
-  </p>
-</blockquote>
+> وذَلِّله بذكر الموت""
 
 In this phrase of his letter (section 9), Imam ‘Ali (as) points out that
 man should not be involved in this transitory life; rather, he should
@@ -41,13 +37,9 @@ this burden of sins on his shoulders.
 For this very reason it is emphasized in the Islamic traditions to
 remember death. The Prophet of Islam has said:
 
-<blockquote dir="rtl">
-  <p>
-"اَفضَلُ الزُهدِ في الدُّنيا ذِِكرُ المَوتِ وَافضَلُ العِِبَادَةِ
-ذِكرُ المَوتِ وَافضَلُ التَفَكُّرِ ذِكْرُ المَوتِ، فَمَن اَثقَلَهُ
-ذِكْرُ المَوتِ وَجَدَ قَبرَهُ رَوضَةً مِن رِيَاضِ الجَنَّةِ"
-  </p>
-</blockquote>
+> "اَفضَلُ الزُهدِ في الدُّنيا ذِِكرُ المَوتِ وَافضَلُ العِِبَادَةِ
+> ذِكرُ المَوتِ وَافضَلُ التَفَكُّرِ ذِكْرُ المَوتِ، فَمَن اَثقَلَهُ
+> ذِكْرُ المَوتِ وَجَدَ قَبرَهُ رَوضَةً مِن رِيَاضِ الجَنَّةِ"
 
 *"The best asceticism in this world is the remembrance of death; the
 best worship is the remembrance of death, and the best contemplation is
@@ -56,13 +48,9 @@ heavily, will find his grave to be one of the gardens of Paradise."*[^1]
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اِذْكُروا هَادِمَ الَّلذّاتِ وَمُنَغِّصَ الشَّهوَاتِ وَدَاعِيَ
-الشَّتَاتِ اذْكُروا مُفَرِّقَ الجَمَاعَاتِ وَمُباعِدَ الاُمنِيَاتِ
-وَمُدنِيَ المنسيَّاتِ وَالمُؤذِنَ بِالبَينِ وَالشَتَاتِ"
-  </p>
-</blockquote>
+> "اِذْكُروا هَادِمَ الَّلذّاتِ وَمُنَغِّصَ الشَّهوَاتِ وَدَاعِيَ
+> الشَّتَاتِ اذْكُروا مُفَرِّقَ الجَمَاعَاتِ وَمُباعِدَ الاُمنِيَاتِ
+> وَمُدنِيَ المنسيَّاتِ وَالمُؤذِنَ بِالبَينِ وَالشَتَاتِ"
 
 *"Remember the destroyer of pleasures, the terminator of desires, the
 inviter to separations. Remember the disperser of groups, the remover of
@@ -71,13 +59,9 @@ partings and dispersions."*[^2]
 
 Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"ذِِكرُ المَوتِ يُمِيتُ الشَّهَواتِ في النَّفسِ وَيَقطَعُ مَنَابِتَ
-الغَفلَةِ وَيُقَوّي القَلبَ بِمَواعِدِ الله ويُرقُّ الطَبْعَ وَيَكسِرُ
-اَعلاَمَ الهَوى وَيُطفِئُ نَارَ الحِرصِ وَيُحَقِّرُ الدُّنيا"
-  </p>
-</blockquote>
+> "ذِِكرُ المَوتِ يُمِيتُ الشَّهَواتِ في النَّفسِ وَيَقطَعُ مَنَابِتَ
+> الغَفلَةِ وَيُقَوّي القَلبَ بِمَواعِدِ الله ويُرقُّ الطَبْعَ وَيَكسِرُ
+> اَعلاَمَ الهَوى وَيُطفِئُ نَارَ الحِرصِ وَيُحَقِّرُ الدُّنيا"
 
 *"The remembrance of death kills desires in the soul, cuts off the
 sources of heedlessness and strengthens the heart through God's
@@ -87,12 +71,8 @@ worthless."*[^3]
 
 It is also narrated from Imam ‘Ali (as) his saying:
 
-<blockquote dir="rtl">
-  <p>
-"اَكثِرُوا ذِكْرَ المَوتِ وَيَومَ خُرُوجِكُم مِنَ القُبُورِ
-وَقِيَامَكُم بَينَ يَدَي الله"
-  </p>
-</blockquote>
+> "اَكثِرُوا ذِكْرَ المَوتِ وَيَومَ خُرُوجِكُم مِنَ القُبُورِ
+> وَقِيَامَكُم بَينَ يَدَي الله"
 
 *"Remember death frequently, and the day you will be resurrected from
 the graves and your standing before God; this remembrance will ease your
@@ -100,12 +80,8 @@ disasters."*[^4]
 
 The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"لَو تَعلَم البَهائِمُ مِنَ المَوتِ مَا تَعلَمُونَ مَا اَكلتُم مِنهَا
-سَمِيناً"
-  </p>
-</blockquote>
+> "لَو تَعلَم البَهائِمُ مِنَ المَوتِ مَا تَعلَمُونَ مَا اَكلتُم مِنهَا
+> سَمِيناً"
 
 *"If animals knew what we know of death, you would never eat a fat
 animal."*[^5]
@@ -116,13 +92,9 @@ attendants answered: “We don't remember him saying anything about
 death”. The Prophet (S) said: “Then he is not to be praised”.[^6]
 The Prophet was asked:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اكيَسُ الناس واكرَمُ الناس يا رسول الله؟ فقال: اكثرُهُم ذِكراً
-للموت واشدَّهُم استعداداً له اولئك هم الاكياس ذهبوا بشرف الدنيا وكرامة
-الآخرة"
-  </p>
-</blockquote>
+> "مَن اكيَسُ الناس واكرَمُ الناس يا رسول الله؟ فقال: اكثرُهُم ذِكراً
+> للموت واشدَّهُم استعداداً له اولئك هم الاكياس ذهبوا بشرف الدنيا وكرامة
+> الآخرة"
 
 *“O Messenger of Allah, who are the cleverest people”? He answered:
 “Those who are the most frequent in the remembrance of death and the
@@ -161,24 +133,16 @@ For in your killing there is life.
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اَفضَلُ تُحفَةُ المُؤمِنِ المَوتُ"
-  </p>
-</blockquote>
+> "اَفضَلُ تُحفَةُ المُؤمِنِ المَوتُ"
 
 *"The best gift for a believer is death"*[^10]
 
 Imam Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"في المَوتِِ نَجَاةُ المُخلِصِينَ وَهَلاكُ المُجرِمِينَ وَلِذلِكَ
-اشتَاقَ مَن اِشتَاقَ اِلى المَوتِ وَكَرِهَ مَن كَرِهَ. قَالَ النَبيُّ
-(ص): مَن احَبَّ لِقاءَ الله اَحَبَّ اللهُ لِقاءَهُ وَمَن كَرِهَ لِقاءَ
-الله كَرِهَ اللهُ لِقاءَهُ"
-  </p>
-</blockquote>
+> "في المَوتِِ نَجَاةُ المُخلِصِينَ وَهَلاكُ المُجرِمِينَ وَلِذلِكَ
+> اشتَاقَ مَن اِشتَاقَ اِلى المَوتِ وَكَرِهَ مَن كَرِهَ. قَالَ النَبيُّ
+> (ص): مَن احَبَّ لِقاءَ الله اَحَبَّ اللهُ لِقاءَهُ وَمَن كَرِهَ لِقاءَ
+> الله كَرِهَ اللهُ لِقاءَهُ"
 
 *“In death lies the salvation of the sincere ones and the destruction of
 the evildoers. For this reason, some love death and others dislike it.
@@ -211,5 +175,4 @@ submissive with the remembrance of death.
 [^10]: . Ghurar al-Hikam.
 
 [^11]: . Misbah al-Shari’ah, p.458.
-
 

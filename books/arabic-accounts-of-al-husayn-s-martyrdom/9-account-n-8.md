@@ -16,5 +16,5 @@ tradition.
 
 **Notes:**
 
-[^43] Abu al-Faraj, op. cit., pp. 51-81.
+[^43]: Abu al-Faraj, op. cit., pp. 51-81.
 

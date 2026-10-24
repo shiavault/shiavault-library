@@ -35,4 +35,3 @@ mosque, and the conversation with Menhal was in the market of Damascus,
 and it is not strange to repeat and have a similar answer for the same
 question.
 
-

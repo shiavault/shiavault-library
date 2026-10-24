@@ -164,10 +164,7 @@ becomes needless of everything for its continued existence, it should be
 wajibul wujood while this is impossible for a Mumkinul wujood to change
 into wajibul wujood.[^1]
 
-
-
 [^1]: For more details refer to Rationality of Islam, by Ayatullah
 Behishti and Hujjatul Islam Bahonar. Published by the Islamic Seminary
 Karachi.
-
 

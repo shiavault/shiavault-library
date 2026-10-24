@@ -272,4 +272,3 @@ first row of the philosophers of the world. Muhammad in fact referred to
 Ali when he said: “The scholars among my followers are like the Prophets
 of descendants of Israel”.
 
-

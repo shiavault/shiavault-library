@@ -132,4 +132,3 @@ Sayyid Sa’eed Akhtar Rizvi
  25th Dhul-hijja, 1410  
  20th July, 1990
 
-

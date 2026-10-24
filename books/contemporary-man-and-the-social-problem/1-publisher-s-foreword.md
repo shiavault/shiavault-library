@@ -30,4 +30,3 @@ to help.
 
 Muharram 1, 1400 A. H./November 26, 1979 A. D.
 
-

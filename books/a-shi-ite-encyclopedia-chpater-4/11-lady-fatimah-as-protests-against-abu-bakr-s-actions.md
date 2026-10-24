@@ -230,7 +230,6 @@ You claim that I have no share! And that I do not inherit my father!
 What! Did Allah reveal a (Quranic) verse regarding you from which He
 excluded my father? Or do you say:
 
-
 'These (Fatimah and her father) are the people of two faiths, they do
 not inherit each other? !' Are we not, me and my father, a people
 adhering to one faith? Or is it that you have more knowledge about the
@@ -440,5 +439,4 @@ Umar then seized the decree and tore it up !!!
 - Seerah al Halabiyah, vol 3 p 391 -\> 400
 - Fadak in History, Murtaza Muttaheri, p 85
 - Fatimah the Gracious, Abu Muhammad Ordoni, 217 -\> 240
-
 

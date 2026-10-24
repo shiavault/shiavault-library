@@ -344,4 +344,3 @@ the good?"
 
 "I am Burayr b. Hudayr," he replied. And they both cursed each other.
 
-

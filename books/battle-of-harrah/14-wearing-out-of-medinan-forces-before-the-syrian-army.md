@@ -71,4 +71,3 @@ women, children, and life!
 
 [^5]: Mas‘ūdī, Murūj al-Dhahab, vol. 3, p. 69.
 
-

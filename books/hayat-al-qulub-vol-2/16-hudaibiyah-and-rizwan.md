@@ -6,11 +6,7 @@ Hijri and some say that it was in the 5th year. Ali bin Ibrahim through
 good chains, on the contrary through correct chains has narrated from
 Imam Ja’far Sadiq (a.s.) in the exegesis of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا
-  </p>
-</blockquote>
+> إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا
 
 ***“Surely We have given to you a clear victory…”***[^1]
 
@@ -38,11 +34,7 @@ never discontinued their prayers half-way and that it was the most
 precious thing of their lives. But his plans were thwarted by Jibraeel
 who instructed the Holy Prophet (S) to perform the prayer of fear:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلاَةَ فَلْتَقُمْ
-  </p>
-</blockquote>
+> وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلاَةَ فَلْتَقُمْ
 
 ***“And when you are among them and keep up the prayer for them…”***[^2]
 
@@ -208,13 +200,9 @@ your community their past faults and those to follow and complete His
 favor to you and keep you on a right way, And that Allah might help you
 with a mighty help.”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ
-لِيَزْدَادُوا إِيمَانًا مَعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ
-السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ
+> لِيَزْدَادُوا إِيمَانًا مَعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ
+> السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا
 
 ***“He it is Who sent down tranquility into the hearts of the believers
 that they might have more of faith added to their faith- and Allah’s are
@@ -224,26 +212,18 @@ Wise.”***[^5]
 Ali bin Ibrahim says that it is about those who did not oppose the
 treaty of the Prophet with the idolaters.
 
-<blockquote dir="rtl">
-  <p>
-لِيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ
-تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ
-سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِنْدَ اللَّهِ فَوْزًا عَظِيمًا
-  </p>
-</blockquote>
+> لِيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ
+> تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ
+> سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِنْدَ اللَّهِ فَوْزًا عَظِيمًا
 
 ***“That He may cause the believing men and the believing women to enter
 gardens beneath which rivers flow to abide therein and remove from them
 their evil; and that is a grand achievement with Allah.”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ
-وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ ۚ عَلَيْهِمْ
-دَائِرَةُ السَّوْءِ ۖ وَغَضِبَ اللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ
-وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا
-  </p>
-</blockquote>
+> وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ
+> وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ ۚ عَلَيْهِمْ
+> دَائِرَةُ السَّوْءِ ۖ وَغَضِبَ اللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ
+> وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا
 
 ***“And (that) He may punish the hypocritical men and the hypocritical
 women, and the polytheistic men and the polytheistic women, the
@@ -258,12 +238,8 @@ Holy Prophet (S) sought at the time of departing to Mecca and they had
 said that the Prophet will not return from that journey as was mentioned
 before.
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
-الشَّجَرَةِ
-  </p>
-</blockquote>
+> لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ
+> الشَّجَرَةِ
 
 ***“Certainly Allah was well pleased with the believers when they swore
 allegiance to you under the tree…”***[^8]
@@ -272,14 +248,10 @@ allegiance to you under the tree…”***[^8]
 Prophet says or does in future. After that the Almighty Allah revealed
 the following verses:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
-اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ
-نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ
-فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
+> اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ
+> نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ
+> فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 ***“Surely those who swear allegiance to you do but swear allegiance to
 Allah; the hand of Allah is above their hands. Therefore whoever breaks
@@ -294,15 +266,11 @@ it means this only, that the Almighty Allah will be satisfied with them
 only on these conditions. After that the Almighty Allah has condemned
 those Arabs who failed to attend the expedition of Hudaibiyah:
 
-<blockquote dir="rtl">
-  <p>
-سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا
-أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ
-بِأَلْسِنَتِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَنْ يَمْلِكُ
-لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ
-بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا
-  </p>
-</blockquote>
+> سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا
+> أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ
+> بِأَلْسِنَتِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَنْ يَمْلِكُ
+> لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ
+> بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا
 
 ***“Those of the dwellers of the desert who were left behind will say to
 you: Our property and our families kept us busy, so ask forgiveness for
@@ -311,13 +279,9 @@ who can control anything for you from Allah if He intends to do you harm
 or if He intends to do you good; nay, Allah is Aware of what you
 do.”***[^10]
 
-<blockquote dir="rtl">
-  <p>
-بَلْ ظَنَنْتُمْ أَنْ لَنْ يَنْقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ
-إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ
-وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا
-  </p>
-</blockquote>
+> بَلْ ظَنَنْتُمْ أَنْ لَنْ يَنْقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ
+> إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ
+> وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا
 
 ***“Nay! you rather thought that the Apostle and the believers would not
 return to their families ever, and that was made fairseeming to your
@@ -329,15 +293,11 @@ returned from Hudaibiyah to Medina and set out for Khyber, those who had
 not attended the Battle of Hudaibiyah sought permission to attend this
 battle, so the Almighty Allah revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلٰى مَغَانِمَ
-لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَنْ يُبَدِّلُوا
-كَلَامَ اللَّهِ ۚ قُلْ لَنْ تَتَّبِعُونَا كَذٰلِكُمْ قَالَ اللَّهُ
-مِنْ قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا
-يَفْقَهُونَ إِلَّا قَلِيلًا
-  </p>
-</blockquote>
+> سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلٰى مَغَانِمَ
+> لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَنْ يُبَدِّلُوا
+> كَلَامَ اللَّهِ ۚ قُلْ لَنْ تَتَّبِعُونَا كَذٰلِكُمْ قَالَ اللَّهُ
+> مِنْ قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا
+> يَفْقَهُونَ إِلَّا قَلِيلًا
 
 ***“Those who are left behind will say when you set forth for the
 gaining of acquisitions: Allow us (that) we may follow you. They desire
@@ -347,26 +307,18 @@ Nay! they do not understand but a little.”***[^12]
 
 Then the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ
-هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنْكُمْ وَلِتَكُونَ آيَةً
-لِلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَاطًا مُسْتَقِيمًا
-  </p>
-</blockquote>
+> وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ
+> هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنْكُمْ وَلِتَكُونَ آيَةً
+> لِلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَاطًا مُسْتَقِيمًا
 
 ***“Allah promised you many acquisitions which you will take, then He
 hastened on this one for you and held back the hands of men from you,
 and that it may be a sign for the believers and that He may guide you on
 a right path.”***[^13]
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ
-بِبَطْنِ مَكَّةَ مِنْ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ
-اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ
+> بِبَطْنِ مَكَّةَ مِنْ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ
+> اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
 
 ***“And He it is Who held back their hands from you and your hands from
 them in the valley of Mecca after He had given you victory over them;
@@ -392,16 +344,12 @@ released. After that is the remaining part of the report of Ali bin
 Ibrahim that after the Almighty Allah mentions about the advantages of
 the treaty, He said in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ
-وَالْهَدْيَ مَعْكُوفًا أَنْ يَبْلُغَ مَحِلَّهُ ۚ وَلَوْلَا رِجَالٌ
-مُؤْمِنُونَ وَنِسَاءٌ مُؤْمِنَاتٌ لَمْ تَعْلَمُوهُمْ أَنْ تَطَئُوهُمْ
-فَتُصِيبَكُمْ مِنْهُمْ مَعَرَّةٌ بِغَيْرِ عِلْمٍ ۖ لِيُدْخِلَ اللَّهُ
-فِي رَحْمَتِهِ مَنْ يَشَاءُ ۚ لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ
-كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا
-  </p>
-</blockquote>
+> هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ
+> وَالْهَدْيَ مَعْكُوفًا أَنْ يَبْلُغَ مَحِلَّهُ ۚ وَلَوْلَا رِجَالٌ
+> مُؤْمِنُونَ وَنِسَاءٌ مُؤْمِنَاتٌ لَمْ تَعْلَمُوهُمْ أَنْ تَطَئُوهُمْ
+> فَتُصِيبَكُمْ مِنْهُمْ مَعَرَّةٌ بِغَيْرِ عِلْمٍ ۖ لِيُدْخِلَ اللَّهُ
+> فِي رَحْمَتِهِ مَنْ يَشَاءُ ۚ لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ
+> كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا
 
 ***“It is they who disbelieved and turned you away from the Sacred
 Mosque and (turned off) the offering withheld from arriving at its
@@ -665,19 +613,15 @@ the Prophet professing Islam and she was demanded by her husband, a
 disbeliever, Musafir from Bani Makhzum. So the Almighty Allah revealed
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ
-مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ ۖ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ۖ
-فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى
-الْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ
-وَآتُوهُمْ مَا أَنْفَقُوا ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَنْ
-تَنْكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا
-بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنْفَقْتُمْ وَلْيَسْأَلُوا مَا
-أَنْفَقُوا ۚ ذَٰلِكُمْ حُكْمُ اللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ
-وَاللَّهُ عَلِيمٌ حَكِيمٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ
+> مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ ۖ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ۖ
+> فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى
+> الْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ
+> وَآتُوهُمْ مَا أَنْفَقُوا ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَنْ
+> تَنْكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا
+> بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنْفَقْتُمْ وَلْيَسْأَلُوا مَا
+> أَنْفَقُوا ۚ ذَٰلِكُمْ حُكْمُ اللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ
+> وَاللَّهُ عَلِيمٌ حَكِيمٌ
 
 ***“O you who believe! when believing women come to you flying, then
 examine them; Allah knows best their faith; then if you find them to be
@@ -757,13 +701,9 @@ us.
 Kulaini has narrated through good chains for Imam Ja’far Sadiq (a.s.) in
 the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-آمَنُوا لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ
-أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللَّهُ مَنْ يَخَافُهُ
-بِالْغَيْبِ فَمَنِ اعْتَدٰى بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> آمَنُوا لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ
+> أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللَّهُ مَنْ يَخَافُهُ
+> بِالْغَيْبِ فَمَنِ اعْتَدٰى بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ
 
 ***“Allah will certainly try you in respect of some game which your
 hands and your lances can reach, that Allah might know who fears Him in
@@ -820,5 +760,4 @@ also.
 [^16]: Surah Mumtahina 60:10
 
 [^17]: Surah Maidah 5:94
-
 

@@ -1537,4 +1537,3 @@ power nor strength except with Allah, the most High, the most Great.
 The companions' conduct towards the Prophet's commands after his death.
 -----------------------------------------------------------------------
 
-

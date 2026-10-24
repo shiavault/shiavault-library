@@ -111,10 +111,8 @@ the following: "Once I heard abu 'Abd Allah, recipient of divine supreme
 covenant, say, 'There will be three kinds of people to whom Allah will
 not look on the Day of Judgment.
 
-
 He will not purify them and they will suffer painful punishments. They
 are those who claim to be the Imam but without authority from Allah,
 those who reject the Imam (Leader with Divine Authority), and those who
 think that for the 'two' there is a share in Islam.'"
-
 

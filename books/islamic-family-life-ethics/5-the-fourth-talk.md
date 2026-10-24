@@ -127,12 +127,8 @@ avoided. Instead, we should place trust in Allah. Allah will set the
 future right. According to the Holy Quran one should neither grieve over
 the past, nor be fearful about the future.
 
-<blockquote dir="rtl">
-  <p>
-أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَ لَا هُمْ
-يحَْزَنُون
-  </p>
-</blockquote>
+> أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَ لَا هُمْ
+> يحَْزَنُون
 
 ***Lo! Verily the friends of Allah are (those) on whom fear (cometh)
 not, nor do they grieve. ( Sura Yunus, 10: 62).***
@@ -168,12 +164,8 @@ offer prayers.” The couple performed ghusl and recited *Salahul Layl.*
 The story we have related about Kashif al Ghita, it doesn’t conclude
 here because:
 
-<blockquote dir="rtl">
-  <p>
-وَ الَّذِينَ جَهَدُواْ فِينَا لَنهَْدِيَنهَُّمْ سُبُلَنَا وَ إِنَّ
-اللَّهَ لَمَعَ الْمُحْسِنِين
-  </p>
-</blockquote>
+> وَ الَّذِينَ جَهَدُواْ فِينَا لَنهَْدِيَنهَُّمْ سُبُلَنَا وَ إِنَّ
+> اللَّهَ لَمَعَ الْمُحْسِنِين
 
 ***As for those who strive for Us, we surely guide them to Our paths,
 and lo! Allah is with the good.***  
@@ -328,12 +320,8 @@ wrong concept. This can only bring worries, debt and problems for both
 the newly-weds! Love is that which is endowed by Allah. In the Holy
 Quran He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ءَامَنُواْ وَ عَمِلُواْ الصَّلِحَتِ سَيَجْعَلُ لهَُمُ
-الرَّحْمَنُ وُدًّا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ءَامَنُواْ وَ عَمِلُواْ الصَّلِحَتِ سَيَجْعَلُ لهَُمُ
+> الرَّحْمَنُ وُدًّا
 
 ***Lo! Those who believe and do good works, the Beneficent will appoint
 for them love. (Sura Maryam, 19: 96).***
@@ -453,5 +441,4 @@ we have for our marriages and kind of *majlis* we hold for the dead are
 wrong. We should put an end to these practices, because Allah is not
 pleased with us. Our Prophet and the Imams are not pleased with us. Our
 Imam is not pleased with us.
-
 

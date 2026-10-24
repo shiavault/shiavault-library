@@ -1211,7 +1211,6 @@ the very best,
 3) by A. Yousuf Ali, which has been published also by
 Tahrike-Tarsile-Qur'an of New York.
 
-
 Al-Jibouri edited several newsletters and magazines, including Middle
 East Business Magazine of which he became Senior Editor. Among the books
 which he has edited are:
@@ -1225,7 +1224,6 @@ translation by Dr. Sayyid Nazir Hasan Zaidi, and
 3. Your Kalima and the Savior by Wajahat Husain which was published in
 India in the year 2000 while the author was then living in New Jersey,
 U.S.A.
-
 
 He has also translated: 1) The Form of Islamic Government and Wilayat
 al-Faqeeh, and 2) About the World Political Situation from a Muslim’s
@@ -1243,7 +1241,6 @@ al-Musawi,
 3) Al-Shiite hum Ahl al-Sunnah by Dr. Muhammed al-Tijani al-Samawi,
 4) Al-Maqtal (the martyrdom epic of Imam Husain) by Abd al-Razzaq
 al-Muqarram.
-
 
 Al-Jibouri has also translated the following titles originally authored
 in Arabic by Rachad el-Moussaoui:
@@ -1381,7 +1378,6 @@ Islamic Society of Virginia”, “Islamic Affairs”, “Islamic Society of
 Georgia” and “Jibouri, al-”. It is just one of many books written by
 non-Muslim scholars documenting the spread of Islam in the West.
 
-
 Following the collapse of Saddam Hussein's dictatorship, Yasin T.
 al-Jibouri decided to go home. He was deprived of seeing his family for
 full 32 years. On the first of September, 2003, al-Jibouri reached
@@ -1404,5 +1400,4 @@ publications, Wassalamo Alaikom.
 Ansariyan Publications,
 
 Qum, Islamic Republic of Iran
-
 

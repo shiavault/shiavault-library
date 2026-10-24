@@ -8,4 +8,3 @@ or**تَمييز** .
 
 How many students are there in the class?    **کم طالِباً في الصفِّ؟**
 
-

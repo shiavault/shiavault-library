@@ -445,7 +445,6 @@ issue remains unsolved since the death of the eleventh Imam, and has
 caused dissension and disputes. How is this problem to be resolved from
 our point of view?
 
-
 Answer: We have already dealt with some of these points, but you have
 again turned the question of Imamat into a question of the government
 only. As we have already pointed out the question of Imamat is different
@@ -517,5 +516,4 @@ and is the miqat of the people of Syria. Ghadir al-Khum is situated near
 Juhfah. It is the place at which the Muslims returning from Makkah after
 performing pilgrimage disperse. Some go to Medina and others to their
 respective places.
-
 

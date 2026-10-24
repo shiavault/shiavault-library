@@ -1,19 +1,15 @@
 Nineteenth Hadith: Backbiting (Ghibah)
 ======================================
 
-<blockquote dir="rtl">
-  <p>
-بِسَنَدي المُتَّصِلِ إِلى ثِقَةِ الإِسْلامِ وَالمُسْلِمِينَ مُحَمَّدِ
-بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنْ عَلِيِّ بْنِ
-إبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ النَّوْفَلِي، عَنِ السُّكُونِيِّ، عَنْ
-أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ: الغَيْبَةُ أَسْرَعُ فِي دِينِ الرَّجُلِ
-المُسْلِمِ مِنَ الأكْلَةِ فِي جَوْفِهِ. قَالَ: وَقَالَ رَسُولُ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الجُلُوسُ فِي المَسْجِدِ انْتِظَارَ
-الصَّلاةِ عِبَادُةٌ مَا لَمْ يُحْدِثْ. قِيلَ: يَا رَسُولَ اللهِ وِمَا
-يُحْدِثُ؟ قَالَ: الاغْتِيَابُ.
-  </p>
-</blockquote>
+> بِسَنَدي المُتَّصِلِ إِلى ثِقَةِ الإِسْلامِ وَالمُسْلِمِينَ مُحَمَّدِ
+> بْنِ يَعْقُوبَ رِضْوَانُ اللهِ عَلَيْهِ، عَنْ عَلِيِّ بْنِ
+> إبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ النَّوْفَلِي، عَنِ السُّكُونِيِّ، عَنْ
+> أبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ: الغَيْبَةُ أَسْرَعُ فِي دِينِ الرَّجُلِ
+> المُسْلِمِ مِنَ الأكْلَةِ فِي جَوْفِهِ. قَالَ: وَقَالَ رَسُولُ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الجُلُوسُ فِي المَسْجِدِ انْتِظَارَ
+> الصَّلاةِ عِبَادُةٌ مَا لَمْ يُحْدِثْ. قِيلَ: يَا رَسُولَ اللهِ وِمَا
+> يُحْدِثُ؟ قَالَ: الاغْتِيَابُ.
 
 With my isnad going back to Thiqat al-Islam wa al-Muslimin Muhammad ibn
 Ya’qub al-Kulayni (R) from ‘Ali ibn Ibrahim, from his father, from
@@ -31,14 +27,10 @@ Exposition
 *Ghibah* is the *masdar* (verbal noun) of *ghaba* and also that of
 *ightiyab,* as mentioned in the dictionaries. Al-Jawhari says:
 
-<blockquote dir="rtl">
-  <p>
-واغْتَابَهُ اغْتِيَاباً، إذَا وَقَعَ فِيهِ، وَالاسْمُ الغِيبَةُ،
-وَهُوَ أنْ يَتَكَلَّمَ خَلْفَ إِنْسَانٍ مَسْتُورٍ بِما يُغِمُّهُ لَوْ
-سَمِعَهُ. فإنْ كَانَ صِدْقاً سُمِّيَ غِيبَةً وإنْ كانَ كَذِباً سُمِّيَ
-بُهْتاناً.
-  </p>
-</blockquote>
+> واغْتَابَهُ اغْتِيَاباً، إذَا وَقَعَ فِيهِ، وَالاسْمُ الغِيبَةُ،
+> وَهُوَ أنْ يَتَكَلَّمَ خَلْفَ إِنْسَانٍ مَسْتُورٍ بِما يُغِمُّهُ لَوْ
+> سَمِعَهُ. فإنْ كَانَ صِدْقاً سُمِّيَ غِيبَةً وإنْ كانَ كَذِباً سُمِّيَ
+> بُهْتاناً.
 
 (It is said) “ightabahu ightiyaban” when one falls into it (i.e.
 backbiting). The noun is al-ghibah, and it means saying such things
@@ -54,12 +46,8 @@ lexicographers occasionally give the technical or Shar’i meanings in
 their works. The author of *al-Qamus* is quoted to have taken *ghaba* to
 signify *‘aba.* According to *al-Misbah al-munir:*
 
-<blockquote dir="rtl">
-  <p>
-إغْتَابَهُ إذَا ذَكَرَهُ بِمَا يَكْرَهُهُ مِنَ العُيُوبِ، وَهُوَ
-حَقٌّ.
-  </p>
-</blockquote>
+> إغْتَابَهُ إذَا ذَكَرَهُ بِمَا يَكْرَهُهُ مِنَ العُيُوبِ، وَهُوَ
+> حَقٌّ.
 
 Ightabahu’ means making a mention of someone’s actual defects that he
 would find detestable (to be mentioned).
@@ -75,13 +63,9 @@ Later on we will have occasion to discuss this special sense.
 
 Al-Majlisi says:
 
-<blockquote dir="rtl">
-  <p>
-وَالأكْلَةُ كَفَرْحَة، دَاءٌ في العُضوِ يأتَكِلُ منهُ، كما في القاموسِ
-وغيرِهِ. وقَد يُقرأُ بمدِّ الهَمزَةِ على وزن فاعِلَة، أي العِلَّة التي
-تأكُلُ اللَّحمَ، والأوَّل أوفق باللغةِ.
-  </p>
-</blockquote>
+> وَالأكْلَةُ كَفَرْحَة، دَاءٌ في العُضوِ يأتَكِلُ منهُ، كما في القاموسِ
+> وغيرِهِ. وقَد يُقرأُ بمدِّ الهَمزَةِ على وزن فاعِلَة، أي العِلَّة التي
+> تأكُلُ اللَّحمَ، والأوَّل أوفق باللغةِ.
 
 Aklah corresponds (in vowelization) to farhah. It is an affliction of a
 bodily member that consumes it, as mentioned in al-Qamus and other
@@ -115,13 +99,9 @@ the Shaykh (Zayn al-*Din* ‘Ali, known as al-Shahid al-Thani) in his
 *kashf al-ribah ‘an ahkam al-ghibah* says, “There are two definitions
 for it. The first one, which is famous among the *fuqaha*’, is:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ ذِكْرُ الإنْسَانِ حَالَ غَيْبِهِ بِمَا يَكْرَهُ نِسْبَتَهُ
-إلَيْهِ مِمَّا يُعَدُّ نُقْصَاناً فِي العُرْفِ بِقَصْدِ الإنْتِقَاصِ
-والذَّمِّ.
-  </p>
-</blockquote>
+> هُوَ ذِكْرُ الإنْسَانِ حَالَ غَيْبِهِ بِمَا يَكْرَهُ نِسْبَتَهُ
+> إلَيْهِ مِمَّا يُعَدُّ نُقْصَاناً فِي العُرْفِ بِقَصْدِ الإنْتِقَاصِ
+> والذَّمِّ.
 
 It is the mention of a person in his absence, ascribing to him something
 whose ascription he rinds detestable and which is generally considered
@@ -130,11 +110,7 @@ reputation) and disparaging him.
 
 The second one is:
 
-<blockquote dir="rtl">
-  <p>
-التَّنْبِيهُ عَلى مَا يَكْرَهُ نِسْبَتَهُ إلَيْهِ.
-  </p>
-</blockquote>
+> التَّنْبِيهُ عَلى مَا يَكْرَهُ نِسْبَتَهُ إلَيْهِ.
 
 Informing about something whose ascription to one is regarded as
 detestable by him.
@@ -149,16 +125,12 @@ also suggest these two definitions, such as the one recorded in
 al-Shaykh al-Tusi’s *Amali* (*Majalis*) and narrated on the authority of
 Abu Basir:
 
-<blockquote dir="rtl">
-  <p>
-فِي وَصِيَّةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لأبِي ذَرٍّ
-رِضْوَانُ اللهِ عَلَيْهِ وَفِيهِ: قُلْتُ يَا رَسُولَ اللهِ، مَا
-الغِيبَةُ؟ قَالَ: ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ. قُلْتُ: يَا رَسُولَ
-اللهِ، فَإنْ كَانَ فِيهِ الَّذِي يُذْكَرُ بِهِ؟ قَالَ: إعْلَمْ أنَّكَ
-إذَا ذَكَرْتَهُ بِمَا هُوَ فِيهِ فَقَدِ اغْتَبْتَهُ، وَإذَا ذَكَرْتَهُ
-بِمَا لَيْسَ فِيهِ فَقَدْ بَهَتَّهُ.
-  </p>
-</blockquote>
+> فِي وَصِيَّةِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ لأبِي ذَرٍّ
+> رِضْوَانُ اللهِ عَلَيْهِ وَفِيهِ: قُلْتُ يَا رَسُولَ اللهِ، مَا
+> الغِيبَةُ؟ قَالَ: ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ. قُلْتُ: يَا رَسُولَ
+> اللهِ، فَإنْ كَانَ فِيهِ الَّذِي يُذْكَرُ بِهِ؟ قَالَ: إعْلَمْ أنَّكَ
+> إذَا ذَكَرْتَهُ بِمَا هُوَ فِيهِ فَقَدِ اغْتَبْتَهُ، وَإذَا ذَكَرْتَهُ
+> بِمَا لَيْسَ فِيهِ فَقَدْ بَهَتَّهُ.
 
 In (the tradition about) the counsel that the Messenger of Allah (S)
 gave to Abu Dharr (R), Abu Dharr is narrated to have said: I said: “O
@@ -171,12 +143,8 @@ then you have slandered him.”[^2]
 
 In a famous tradition of the Prophet (S) it is reported:
 
-<blockquote dir="rtl">
-  <p>
-هَلْ تَدْرُونَ مَا الغِيبَةُ؟ فَقَالوا: اللهُ وَرَسُولُهُ أعْلَمُ.
-فَقَالَ: ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ.
-  </p>
-</blockquote>
+> هَلْ تَدْرُونَ مَا الغِيبَةُ؟ فَقَالوا: اللهُ وَرَسُولُهُ أعْلَمُ.
+> فَقَالَ: ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ.
 
 (The Prophet (S) asked his companions:) “Do you know what is ghibah?”
 They said: “God and His Messenger know best.” He (S) said: “It is to
@@ -197,14 +165,10 @@ prophetic tradition, it can be understood from the context. Rather, the
 opening of Abu Dharr’s narration indicates it, and there was no need of
 an explicit mention. The narration opens in this manner:
 
-<blockquote dir="rtl">
-  <p>
-الغِيبَةُ أشَدُّ مِنَ الزِّنَا. قُلْتُ: وَلِمَ ذَاكَ يَا رَسُولَ
-اللهِ؟ قَالَ: لأنَّ الرَّجُلَ يَزْنِي فَيَتُوبُ إلى اللهِ فَيَتُوبُ
-اللهُ عَلَيْهِ، وَالغِيبَةُ لا تُغْفَرُ حَتَّى يَغْفِرَهُا
-صَاحِبُهُا... وَأَكْلُ لحَمْهِ ِمِنْ مَعَاصِي اللهِ.
-  </p>
-</blockquote>
+> الغِيبَةُ أشَدُّ مِنَ الزِّنَا. قُلْتُ: وَلِمَ ذَاكَ يَا رَسُولَ
+> اللهِ؟ قَالَ: لأنَّ الرَّجُلَ يَزْنِي فَيَتُوبُ إلى اللهِ فَيَتُوبُ
+> اللهُ عَلَيْهِ، وَالغِيبَةُ لا تُغْفَرُ حَتَّى يَغْفِرَهُا
+> صَاحِبُهُا... وَأَكْلُ لحَمْهِ ِمِنْ مَعَاصِي اللهِ.
 
 (The Prophet [S] said:) “Ghibah is a graver sin than adultery.” I said,
 “How is that, O Messenger of Allah?” “That is because a man commits
@@ -220,13 +184,9 @@ amounts to eating his flesh.
 The general character of *ghibah* is also understandable from the
 following narration of ‘A’ishah:
 
-<blockquote dir="rtl">
-  <p>
-دَخَلَتْ عَلَيْنا امْرَأَةٌ، فَلَمَّا خَرَجَتْ أَوْمَأْتُ بِيَدِي
-أَنَّهَا قَصِيرَةٌ. فَقَالَ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: لَقَدِ
-اغْتَبْتِهَا.
-  </p>
-</blockquote>
+> دَخَلَتْ عَلَيْنا امْرَأَةٌ، فَلَمَّا خَرَجَتْ أَوْمَأْتُ بِيَدِي
+> أَنَّهَا قَصِيرَةٌ. فَقَالَ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: لَقَدِ
+> اغْتَبْتِهَا.
 
 (‘A’ishah says:) A woman came to visit us, and when she turned to go
 away I made a gesture by my hand to indicate that she is short of
@@ -276,12 +236,8 @@ in His noble book and which has been pointed out explicitly and
 implicitly in the noble traditions. Allah, the Glorious and the Exalted,
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ
-لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ
+> لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ.﴾
 
 ***Neither backbite one another; would any of you like to eat the flesh
 of his dead brother? You would abominate it.*** (***49:12***)
@@ -293,16 +249,12 @@ cadaver eating. It will return to its perpetrator in the hell in its
 other-worldly (*malakut*) form, for he, like a ferocious dog, has torn
 other people’s honor to shreds and devoured their (moral) flesh.
 
-<blockquote dir="rtl">
-  <p>
-وَفِي رِوَايَةٍ أنَّ رَسُولَ اللهِ لَمَّا رَجَمَ الرَّجُلَ فِي
-الزِّنَا قَالَ رَجُلٌ لِصَاحِبِهِ: هَذَا أُقْعِصَ كَمَا يُقْعَصُ
-الكَلْبُ. فَمَرَّ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ مَعَهُمَا
-بِجِيفَةٍ فَقَالَ: إنْهَشَا مِنْهَا. فَقَالا: يَا رَسُولَ اللهِ،
-نَنْهَشُ جِيفَةً؟ فَقَالَ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَا
-أَصَبْتُمَا مِنْ أَخِيكُمَا أَنْتَنُ مِنْ هَذِهِ.
-  </p>
-</blockquote>
+> وَفِي رِوَايَةٍ أنَّ رَسُولَ اللهِ لَمَّا رَجَمَ الرَّجُلَ فِي
+> الزِّنَا قَالَ رَجُلٌ لِصَاحِبِهِ: هَذَا أُقْعِصَ كَمَا يُقْعَصُ
+> الكَلْبُ. فَمَرَّ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ مَعَهُمَا
+> بِجِيفَةٍ فَقَالَ: إنْهَشَا مِنْهَا. فَقَالا: يَا رَسُولَ اللهِ،
+> نَنْهَشُ جِيفَةً؟ فَقَالَ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَا
+> أَصَبْتُمَا مِنْ أَخِيكُمَا أَنْتَنُ مِنْ هَذِهِ.
 
 In a tradition, it is narrated that once the Messenger of Allah (S)
 stoned a man for commission of adultery. One of the persons present
@@ -322,13 +274,9 @@ tradition of *al-Wasa’il,* cited from the *Majalis* (*Amali*) of
 al-Saduq (R), Amir al-Mu’minin (A) is reported to have said the
 following in the course of his advice to Nawf al-Bakali:
 
-<blockquote dir="rtl">
-  <p>
-قَلْتُ: زِدْنِي. قَالَ: إجْتَنِبِ الغِيبَةَ فَإنَّهَا إدَامُ كِلابِ
-النَّارِ. ثُمَّ قَالَ: يَا نَوْفُ، كَذَبَ مَنْ زَعَمَ أنَّهُ وُلِدَ
-مِنْ حَلالٍ وَهُوَ يَأكُلُ لحُُُومَ النَّاسِ بِالغِيبَةِ.
-  </p>
-</blockquote>
+> قَلْتُ: زِدْنِي. قَالَ: إجْتَنِبِ الغِيبَةَ فَإنَّهَا إدَامُ كِلابِ
+> النَّارِ. ثُمَّ قَالَ: يَا نَوْفُ، كَذَبَ مَنْ زَعَمَ أنَّهُ وُلِدَ
+> مِنْ حَلالٍ وَهُوَ يَأكُلُ لحُُُومَ النَّاسِ بِالغِيبَةِ.
 
 Nawf al-Bakali says: I said: Tell me something more. He (A) said,
 “Abstain from ghibah, for it is the food of the dogs of hellfire.” Then
@@ -343,14 +291,10 @@ by the hounds of hell. There, the forms are subject to the efficient
 dimensions and a being may possess several outward forms - something the
 proof of which has been given in its appropriate place.
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ عِقَابِ الأَعْمَالِ بَإسْنَادِهِ عَنِ النَّبِيِّ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ في حَدِيثٍ: مَنْ مَشِي َفِي غِيبَةِ أخِيهِ وَكَشْفِ
-عَوْرَتِهِ كَانَتْ أوَّلُ خُطْوَةٍ خَطَاهَا وَضَعَهَا فِي جَهَنَّمَ
-وَكَشَفَ اللهُ عَوْرَتَهُ عَلَى رُؤُوسِ الخَلائِقِ.
-  </p>
-</blockquote>
+> وَعَنْ عِقَابِ الأَعْمَالِ بَإسْنَادِهِ عَنِ النَّبِيِّ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ في حَدِيثٍ: مَنْ مَشِي َفِي غِيبَةِ أخِيهِ وَكَشْفِ
+> عَوْرَتِهِ كَانَتْ أوَّلُ خُطْوَةٍ خَطَاهَا وَضَعَهَا فِي جَهَنَّمَ
+> وَكَشَفَ اللهُ عَوْرَتَهُ عَلَى رُؤُوسِ الخَلائِقِ.
 
 (Al-Saduq) in ‘Iqab al-’a’mal, narrates with his isnad from the
 Messenger of Allah (S) that he said in a tradition, “One who walks on
@@ -364,15 +308,11 @@ presence of the inhabitants of the celestial realms. In *al-Wasa’il,*
 with a chain of transmission reaching Imam al-Sadiq (A) the Prophet (S)
 is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَنِ اغْتَابَ امْرَءاً
-مُسْلِماَ بَطُلَ صَوْمُهُ وَنَقَضَ وُضُوءَهُ وَجَاءَ يَوْمَ
-القِيَامَةِ تَفُوحُ مِنْهُ رَائِحَةٌ أَنْتَنُ مِنَ الجِيفَةِ
-يَتَأَذَّى بِهِ أَهْلُ المَوْقِفِ، فَإنْ مَاتَ قَبْلَ أنْ يَتُوبَ
-مَاتَ مُسْتَحِلّاً لِمَا حَرَّمَ اللهُ عَزَّ وَجَلَّ.
-  </p>
-</blockquote>
+> وَقَالَ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: مَنِ اغْتَابَ امْرَءاً
+> مُسْلِماَ بَطُلَ صَوْمُهُ وَنَقَضَ وُضُوءَهُ وَجَاءَ يَوْمَ
+> القِيَامَةِ تَفُوحُ مِنْهُ رَائِحَةٌ أَنْتَنُ مِنَ الجِيفَةِ
+> يَتَأَذَّى بِهِ أَهْلُ المَوْقِفِ، فَإنْ مَاتَ قَبْلَ أنْ يَتُوبَ
+> مَاتَ مُسْتَحِلّاً لِمَا حَرَّمَ اللهُ عَزَّ وَجَلَّ.
 
 The Noble Messenger (S) said, “whoever backbites a Muslim spoils his
 fasts and breaks his wudu’ and shall come on the Day of Resurrection
@@ -390,15 +330,11 @@ backbiter (*mughtab*) is, in effect, like him according to this noble
 tradition. Another tradition has been narrated from the Messenger of God
 (S) regarding the state of such a one in the Barzakh:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-وَسَلَّمَ: مَرَرْتُ لَيْلَةَ أُسْرِيَ بِي عَلَى قَوْمٍ يَخْمِشُونَ
-وُجُوهَهُمْ بِأظَافِيرِهِمْ، فَقُلْتُ: يَا جِبْرَائِيلُ، مَنْ
-هَؤُلاءِ؟ قَالَ: هَؤُلاءِ الَّذِينَ يَغْتَابُونَ النَّاسَ وَيَقَعُونَ
-فِي أعْرَاضِهِمْ.
-  </p>
-</blockquote>
+> عَنْ أَنَسٍ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> وَسَلَّمَ: مَرَرْتُ لَيْلَةَ أُسْرِيَ بِي عَلَى قَوْمٍ يَخْمِشُونَ
+> وُجُوهَهُمْ بِأظَافِيرِهِمْ، فَقُلْتُ: يَا جِبْرَائِيلُ، مَنْ
+> هَؤُلاءِ؟ قَالَ: هَؤُلاءِ الَّذِينَ يَغْتَابُونَ النَّاسَ وَيَقَعُونَ
+> فِي أعْرَاضِهِمْ.
 
 Anas ibn Malik says: The Messenger of Allah (S) said: On the night of my
 celestial journey (mi’raj) I passed by a people scratching their faces
@@ -412,17 +348,13 @@ dwell in disgrace and dishonor in the hell too. Rather, some of its
 degrees will bring him disrepute in this world also, as is mentioned in
 the following noble tradition of *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ إسْحَاقَ بْنِ عَمَّارٍ قَالَ: سَمِعْتُ أبَا عَبْدِاللهِ عَلَيْهِ
-السَّلامُ يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ:
-يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُخْلِصِ الإيمَانَ إلَى
-قَلْبِهِ! لا تَذُمُّوا المُسْلِمِينَ وَلا تَتَّبِعُوا عَوُرَاتِهِمْ
-فَإنَّهُ مَنْ تَتَبَّعَ عَوْرَاتِهِمْ تَتَبَّعَ اللهُ عَوْرَتَهُ،
-وَمَنْ تَتَبَّعَ اللهُ تَعَالَى عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي
-بَيْتِهِ.
-  </p>
-</blockquote>
+> عَنْ إسْحَاقَ بْنِ عَمَّارٍ قَالَ: سَمِعْتُ أبَا عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ:
+> يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُخْلِصِ الإيمَانَ إلَى
+> قَلْبِهِ! لا تَذُمُّوا المُسْلِمِينَ وَلا تَتَّبِعُوا عَوُرَاتِهِمْ
+> فَإنَّهُ مَنْ تَتَبَّعَ عَوْرَاتِهِمْ تَتَبَّعَ اللهُ عَوْرَتَهُ،
+> وَمَنْ تَتَبَّعَ اللهُ تَعَالَى عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي
+> بَيْتِهِ.
 
 Ishaq ibn ‘Ammir reports on the authority of Imam al-Sadiq (A) that the
 Messenger of Allah (S) said, “O you who have embraced Islam with their
@@ -441,14 +373,10 @@ in that world in front of the angels, the prophets and the *awliya’*
 (A). In a noble tradition of *al-Kafi* whose *isnad* goes back to Imam
 al-Baqir (A) it is stated:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا أُسْرِيَ بِالنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ: يَا
-رَبِّ، مَا حَالُ المُؤْمِنِ عَنْدَكَ؟ قَالَ: يَا مُحَمَّدُ، مَنْ
-أَهَانَ لِي وَلِيّاً فَقَدْ بَارَزَنِي بِالمُحَارَبَةِ، وَأَنَا
-أَسْرَعُ شَيْءٍ إلَى نُصْرَةِ أَوْلِيَائِي.
-  </p>
-</blockquote>
+> لَمَّا أُسْرِيَ بِالنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ قَالَ: يَا
+> رَبِّ، مَا حَالُ المُؤْمِنِ عَنْدَكَ؟ قَالَ: يَا مُحَمَّدُ، مَنْ
+> أَهَانَ لِي وَلِيّاً فَقَدْ بَارَزَنِي بِالمُحَارَبَةِ، وَأَنَا
+> أَسْرَعُ شَيْءٍ إلَى نُصْرَةِ أَوْلِيَائِي.
 
 Imam al-Baqir (A) said: During his celestial journey, the Prophet (S)
 said to God, “My Lord, what is the status of the mu’min before Thee?” He
@@ -460,12 +388,8 @@ There are many traditions in this regard. In a tradition whose *isnad*
 goes back to Imam al-Sadiq (A), al-Shaykh al-Saduq reports the Imam as
 having said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنِ اغْتَابَهُ بِمَا هُوَ فِيهِ فَهُوَ خَارِجٌ مِنْ وَلايَةِ اللهِ
-تَعَالى دَاخِلٌ فِي وَلايَةِ الشَّيْطَانِ.
-  </p>
-</blockquote>
+> وَمَنِ اغْتَابَهُ بِمَا هُوَ فِيهِ فَهُوَ خَارِجٌ مِنْ وَلايَةِ اللهِ
+> تَعَالى دَاخِلٌ فِي وَلايَةِ الشَّيْطَانِ.
 
 Whoever perpetrates the ghibah of such a person (i.e. of one who
 conceals his defects and is just in outward conduct, though he should be
@@ -504,16 +428,12 @@ rights of people (*haqq al-nas*)*,* and God does not forgive the
 backbiter unless the victim is propitiated by him. This theme is
 mentioned in the noble *hadith* through several chains of transmission.
 
-<blockquote dir="rtl">
-  <p>
-عَنْ مُحَمَّدِ بْنِ الحَسَنِ فِي المَجَالِسِ وَالأخْبَارِ بإسْنَادِهِ
-عَنْ أبِي ذَرٍّ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي
-وَصِيَّةٍ لَهُ قَالَ: الغِيبَةُ أشَدُّ مِنَ الزِّنَا. قُلْتُ: وَلِمَ
-ذَاكَ يَا رَسُولَ اللهِ؟ قَالَ: لأنَّ الرَّجُلَ يَزْنِي فَيَتُوبُ إلى
-اللهِ فَيَتُوبُ اللهُ عَلَيْهِ، وَالغِيبَةُ لا تُغْفَرُ حَتَّى
-يَغْفِرَهُا صَاحِبُهُا... وَأَكْلُ لحَمْهِ ِمِنْ مَعَاصِي اللهِ.
-  </p>
-</blockquote>
+> عَنْ مُحَمَّدِ بْنِ الحَسَنِ فِي المَجَالِسِ وَالأخْبَارِ بإسْنَادِهِ
+> عَنْ أبِي ذَرٍّ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي
+> وَصِيَّةٍ لَهُ قَالَ: الغِيبَةُ أشَدُّ مِنَ الزِّنَا. قُلْتُ: وَلِمَ
+> ذَاكَ يَا رَسُولَ اللهِ؟ قَالَ: لأنَّ الرَّجُلَ يَزْنِي فَيَتُوبُ إلى
+> اللهِ فَيَتُوبُ اللهُ عَلَيْهِ، وَالغِيبَةُ لا تُغْفَرُ حَتَّى
+> يَغْفِرَهُا صَاحِبُهُا... وَأَكْلُ لحَمْهِ ِمِنْ مَعَاصِي اللهِ.
 
 It is narrated in al-Majalis wa al-‘akhbar with isnad on the authority
 of Muhammad ibn al-Hasan from Abu Dharr from the Prophet (S) that, in a
@@ -541,45 +461,33 @@ matter is of supreme difficulty. The traditions concerning the serious
 nature of *ghibah* are more than can be quoted here and we shall confine
 ourselves to a few of them.
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَنَّهُ خَطَبَ
-يَوْماً فَذَكَرَ الرِّبَا وَعَظَّمَ شَأْنَهُ فَقَالَ: إنَّ الدِّرْهَمَ
-يُصِيبُهُ الرَّجُلُ مِنَ الرِّبَا أَعْظَمُ عِنْدَ اللهِ فِي
-الخَطِيئَةِ مِنْ سِتٍّ وَثَلاثِينَ زِنْيَةً يُزْنِيهَا الرَّجُلُ.
-وَإنَّ أَرْبَى الرِّبَا عِرْضُ الرَّجُلِ المُسْلِمِ.
-  </p>
-</blockquote>
+> رُوِيَ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَنَّهُ خَطَبَ
+> يَوْماً فَذَكَرَ الرِّبَا وَعَظَّمَ شَأْنَهُ فَقَالَ: إنَّ الدِّرْهَمَ
+> يُصِيبُهُ الرَّجُلُ مِنَ الرِّبَا أَعْظَمُ عِنْدَ اللهِ فِي
+> الخَطِيئَةِ مِنْ سِتٍّ وَثَلاثِينَ زِنْيَةً يُزْنِيهَا الرَّجُلُ.
+> وَإنَّ أَرْبَى الرِّبَا عِرْضُ الرَّجُلِ المُسْلِمِ.
 
 In a sermon, the Prophet (S) spoke about usury and its great evil. Then
 he said, “Verily, a single dirham earned by a man through usury is
 greater (in sinfulness) than thirty-six counts of adultery. And verily,
 more heinous than usury is (violating) the honor of a Muslim.[^15]
 
-<blockquote dir="rtl">
-  <p>
-رُوِيَ عَنْ النَّبِيِّ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، أَنَّهُ قَالَ:
-مَا النَّارُ فِي اليَبْسِ بِأَسْرَعَ مِنَ الغِيبَةِ فِي حَسَنَاتِ
-العَبْدِ.
-  </p>
-</blockquote>
+> رُوِيَ عَنْ النَّبِيِّ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، أَنَّهُ قَالَ:
+> مَا النَّارُ فِي اليَبْسِ بِأَسْرَعَ مِنَ الغِيبَةِ فِي حَسَنَاتِ
+> العَبْدِ.
 
 The Prophet (S) said, “No fire is faster in consuming dry wood than
 ghibah consuming a devotee’s virtues.”[^16]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ النَّبِيِّ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ: يُؤْتَى بِأَحَدٍ
-يَوْمَ القِيَامَةِ فَيُوقَفُ بَيْنَ يَدَيِ الرَّبِّ عَزَّ وَجَلَّ
-وَيُدْفَعُ إلَيْهِ كِتَابُهُ فَلا يَرَى حَسَنَاتِهِ فِيهِ فَيَقُولُ:
-إلَهِي لَيْسَ هَذَا كِتَابِي، لا أَرَى فِيهِ حَسَنَاتِي! فَيُقَالُ
-لَهُ: إنَّ رَبَّكَ لا يَضِلُّ وَلا يَنْسَى، ذَهَبَ عَمَلُكَ
-بِاغْتِيَابِ النَّاسِ. ثُمَّ يُؤْتَى بِآخَرَ وَيُدْفَعُ إلَيْهِ
-كِتَابُهُ فَيَرَى فِيهِ طَاعَاتٍ كَثِيرَةً فَيَقُولُ: إلَهِي مَا هَذَا
-كِتَابِي، فَإنِّي مَا عَمِلْتُ هَذِهِ الطَّاعَاتِ! فَيُقَالُ لَهُ:
-إنَّ فُلاناً اغْتَابَكَ فَدُفِعَ حَسَنَاتُهُ إلَيْكَ.
-  </p>
-</blockquote>
+> وَعَنْ النَّبِيِّ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ: يُؤْتَى بِأَحَدٍ
+> يَوْمَ القِيَامَةِ فَيُوقَفُ بَيْنَ يَدَيِ الرَّبِّ عَزَّ وَجَلَّ
+> وَيُدْفَعُ إلَيْهِ كِتَابُهُ فَلا يَرَى حَسَنَاتِهِ فِيهِ فَيَقُولُ:
+> إلَهِي لَيْسَ هَذَا كِتَابِي، لا أَرَى فِيهِ حَسَنَاتِي! فَيُقَالُ
+> لَهُ: إنَّ رَبَّكَ لا يَضِلُّ وَلا يَنْسَى، ذَهَبَ عَمَلُكَ
+> بِاغْتِيَابِ النَّاسِ. ثُمَّ يُؤْتَى بِآخَرَ وَيُدْفَعُ إلَيْهِ
+> كِتَابُهُ فَيَرَى فِيهِ طَاعَاتٍ كَثِيرَةً فَيَقُولُ: إلَهِي مَا هَذَا
+> كِتَابِي، فَإنِّي مَا عَمِلْتُ هَذِهِ الطَّاعَاتِ! فَيُقَالُ لَهُ:
+> إنَّ فُلاناً اغْتَابَكَ فَدُفِعَ حَسَنَاتُهُ إلَيْكَ.
 
 The Prophet (S) said: A person shall be made to halt in front of the
 Glorious and Exalted Lord on the Day of Resurrection and handed over his
@@ -592,13 +500,9 @@ and he will say, “My God, this is not my book, for I have not performed
 these deeds of obedience.” He shall be told, “So and so committed your
 ghibah and so his good deeds have been awarded to you.”[^17]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ النَّبِيِّ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ: أَدَنَى الكُفْرِ أنْ
-يَسْمَعَ الرَّجُلُ مِنْ أَخِيهِ كَلِمَةً يَحْفَظُهَا عَلَيْهِ يُرِيدُ
-أنْ يَفْضَحَهُ بِهَا. أُولَئِكَ لا خَلاقَ لَهُمْ.
-  </p>
-</blockquote>
+> وَعَنْ النَّبِيِّ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ: أَدَنَى الكُفْرِ أنْ
+> يَسْمَعَ الرَّجُلُ مِنْ أَخِيهِ كَلِمَةً يَحْفَظُهَا عَلَيْهِ يُرِيدُ
+> أنْ يَفْضَحَهُ بِهَا. أُولَئِكَ لا خَلاقَ لَهُمْ.
 
 The Prophet (S) said, “A lower degree of kufr is for a man to hear
 something from his brother and to commit it to his memory intending
@@ -655,24 +559,16 @@ established the covenant of brotherhood amongst early Muslims and the
 relationship of brotherhood came to prevail between all Muslims on the
 basis of the Quranic text:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ.﴾
 
 ***Indeed, the believers are brethren.*** (***49: 10***)
 
 The following traditions are recorded in the noble *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-عَنِ العَقَرْقُوفِيِّ قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ
-السَّلامُ يَقُولُ لأَصْحَابِهِ: إتَّقُوا اللهَ وَكُونُوا إخْوَةً
-بَرَرَةً مُتَحَابِّينَ فِي اللهِ، مُتَوَاصِلِينَ، مُتَرَاحِمِينَ.
-تَزَاوَرُوا وَتَلاقوا وَتَذَاكَرُوا أَمْرَنَا وَأَحْيُوهُ.
-  </p>
-</blockquote>
+> عَنِ العَقَرْقُوفِيِّ قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ يَقُولُ لأَصْحَابِهِ: إتَّقُوا اللهَ وَكُونُوا إخْوَةً
+> بَرَرَةً مُتَحَابِّينَ فِي اللهِ، مُتَوَاصِلِينَ، مُتَرَاحِمِينَ.
+> تَزَاوَرُوا وَتَلاقوا وَتَذَاكَرُوا أَمْرَنَا وَأَحْيُوهُ.
 
 Al Aqarqufi says: I heard Abu ‘Abd Allah (A) say to his companions,
 “Fear God and be righteous brethren, loving one another for the sake of
@@ -680,15 +576,11 @@ God, mutually interlinked and merciful into one another. Visit one
 another, meet one another, remind one another about our affair (i.e.
 Imamate), and keep it alive.”[^19]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: يَحِقُّ عَلَى
-المُسْلِمِينَ الإجْتِهَادُ فِي التَّوَاصُلِ وَالتَّعَاوُنِ عَلَى
-التَّعَاطُفِ وَالمُؤاسَاةُ لأهْلِ الحَاجَةِ وَتَعَاطُفُ بَعْضِهِمْ
-عَلَى بَعْضٍ حَتَّى تَكُونُوا كَمَا أَمَرَكُمُ اللهُ عَزَّ وَجَلَّ:
-﴿رُحَمَاءُ بَيْنَهُمْ.﴾
-  </p>
-</blockquote>
+> وَعَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: يَحِقُّ عَلَى
+> المُسْلِمِينَ الإجْتِهَادُ فِي التَّوَاصُلِ وَالتَّعَاوُنِ عَلَى
+> التَّعَاطُفِ وَالمُؤاسَاةُ لأهْلِ الحَاجَةِ وَتَعَاطُفُ بَعْضِهِمْ
+> عَلَى بَعْضٍ حَتَّى تَكُونُوا كَمَا أَمَرَكُمُ اللهُ عَزَّ وَجَلَّ:
+> ﴿رُحَمَاءُ بَيْنَهُمْ.﴾
 
 Abu ‘Abd Allah (A) said: It a the duty of all Muslims to strive in
 respect of mutual relations, cooperation, kindness and charity to the
@@ -696,13 +588,9 @@ needy and mutual affection amongst themselves, until you become as God,
 the Almighty and the Glorious, has commanded you to be (saying): They
 are merciful unto one another.[^20]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْهُ عَلَيْهِ السَّلامُ قَالَ: تَوَاصَلُوا وَتَبَارُّوا
-وَتَرَاحَمُوا وَكُونُوا إخْوَةً بَرَرَةً كَمَا أَمَرَكُمُ اللهُ عَزَّ
-وَجَلَّ.
-  </p>
-</blockquote>
+> وَعَنْهُ عَلَيْهِ السَّلامُ قَالَ: تَوَاصَلُوا وَتَبَارُّوا
+> وَتَرَاحَمُوا وَكُونُوا إخْوَةً بَرَرَةً كَمَا أَمَرَكُمُ اللهُ عَزَّ
+> وَجَلَّ.
 
 Imam al-Sadiq (A) also said, “Cultivate mutual relations, be kind and
 merciful to one another and be such true brethren as God, the Almighty
@@ -807,11 +695,7 @@ The *mu’minun* are the *awliya’* (friends) of God. Their friendship is
 the friendship of God; their enmity is the enmity of God. Beware of the
 wrath of God and the enmity of the intercessors on the Day of Judgment:
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِمَنْ شُفَعَاؤُهُ خُصَمَاؤُهُ.
-  </p>
-</blockquote>
+> وَيْلٌ لِمَنْ شُفَعَاؤُهُ خُصَمَاؤُهُ.
 
 Woe to him whose intercessors [i.e. those who were supposed to intercede
 in his favor] are his enemies.
@@ -923,11 +807,7 @@ upon filth. Don’t be such that you notice only the defects of people.”
 
 It is narrated that the Noble Messenger (S) said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبَى لِمَنْ شَغَلَهُ عَيْبُهُ عَنْ عُيُوبِ النَّاسِ.
-  </p>
-</blockquote>
+> طُوبَى لِمَنْ شَغَلَهُ عَيْبُهُ عَنْ عُيُوبِ النَّاسِ.
 
 Blessed is the man who has been detained by his own defects from
 noticing the defects of other people.[^22]
@@ -952,20 +832,12 @@ show, the listener is like the backbiter in all the evil respects, even
 in regard to his act being a major sin and the obligation to propitiate
 the victim.
 
-<blockquote dir="rtl">
-  <p>
-عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: المُسْتَمِعُ أَحَدُ
-المُغْتَابِينَ.
-  </p>
-</blockquote>
+> عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: المُسْتَمِعُ أَحَدُ
+> المُغْتَابِينَ.
 
 The Prophet (S) said, “The listener is one of the two backbiters.”
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ عَلِيٍّ عَلَيْهِ السَّلامُ: السَّامِعُ أَحَدُ المُغْتَابِينَ.
-  </p>
-</blockquote>
+> وَعَنْ عَلِيٍّ عَلَيْهِ السَّلامُ: السَّامِعُ أَحَدُ المُغْتَابِينَ.
 
 Ali (A) said, “The listener is one of the two who engage in
 backbiting.”[^23]
@@ -974,18 +846,14 @@ Hence, one who listens to *ghibah* is also a backbiter. *Sami*’ here
 means *mustami’*. Therefore, as many traditions indicate, it is
 obligatory to refute *ghibah.*
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الصَّدُوقِ بِإسْنَادِهِ عَنِ الصَّادِقِ، عَنْ آبَائِهِ عَلَيْهِمُ
-السَّلامُ - فِي حَدِيثِ المَنَاهِي - أنَّ رَسُولَ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ نَهَى عَنِ الغِيبَةِ والإسْتِمَاعِ إلَيْهَا، إلَى أنْ
-قَالَ: وَمَنْ تَطَوَّلَ عَلَى أخِيهِ فِي غِيبَةٍ سَمِعَهَا فِيهِ فِي
-مَجْلِسٍ فَرَدَّهَا عَنْهُ رَدَّ اللهُ عَنْهُ أَلْفَ بَابٍ مِنَ
-الشَّرِّ فِي الدُّنْيَا وَالآخِرَةِ، فَإنْ هُوَ لَمْ يَرُدَّهَا وَهُوَ
-قَادِرٌ عَلَى رَدِّهَا كَانَ عَلَيْهِ كَوِزْرِ مَنِ اغْتَابَهُ
-سَبْعِينَ مَرَّةً.
-  </p>
-</blockquote>
+> عَنِ الصَّدُوقِ بِإسْنَادِهِ عَنِ الصَّادِقِ، عَنْ آبَائِهِ عَلَيْهِمُ
+> السَّلامُ - فِي حَدِيثِ المَنَاهِي - أنَّ رَسُولَ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ نَهَى عَنِ الغِيبَةِ والإسْتِمَاعِ إلَيْهَا، إلَى أنْ
+> قَالَ: وَمَنْ تَطَوَّلَ عَلَى أخِيهِ فِي غِيبَةٍ سَمِعَهَا فِيهِ فِي
+> مَجْلِسٍ فَرَدَّهَا عَنْهُ رَدَّ اللهُ عَنْهُ أَلْفَ بَابٍ مِنَ
+> الشَّرِّ فِي الدُّنْيَا وَالآخِرَةِ، فَإنْ هُوَ لَمْ يَرُدَّهَا وَهُوَ
+> قَادِرٌ عَلَى رَدِّهَا كَانَ عَلَيْهِ كَوِزْرِ مَنِ اغْتَابَهُ
+> سَبْعِينَ مَرَّةً.
 
 In a tradition reported by al-Saduq with his isnad from Imam al-Sadiq
 (A), the Noble Messenger (S) is once said to have forbidden ghibah and
@@ -996,15 +864,11 @@ Hereafter. And if he doesn’t do so in spite of his ability to refute it
 on him shall be the burden of one who commits his ghibah seventy
 times.”[^24]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ الصَّدُوقِ بِإسْنَادِهِ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ
-آبَائِهِ عَلَيْهِمُ السَّلامُ - فِي وَصِيَّةِ النَّبِيِّ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ وَسَلَّمَ لِعَلِيٍّ عَلَيْهِ السَّلامُ -: يَا
-عَلِيُّ، مَنِ اغْتِيبُ عِنْدَهُ أَخُوهُ المُسْلِمُ فَاسْتَطَاعَ
-نَصْرَهُ فَلَمْ يَنْصُرْهُ خَذَلَهُ اللهُ فِي الدُّنْيَا وَالآخِرَةِ.
-  </p>
-</blockquote>
+> وَعَنِ الصَّدُوقِ بِإسْنَادِهِ عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ
+> آبَائِهِ عَلَيْهِمُ السَّلامُ - فِي وَصِيَّةِ النَّبِيِّ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ وَسَلَّمَ لِعَلِيٍّ عَلَيْهِ السَّلامُ -: يَا
+> عَلِيُّ، مَنِ اغْتِيبُ عِنْدَهُ أَخُوهُ المُسْلِمُ فَاسْتَطَاعَ
+> نَصْرَهُ فَلَمْ يَنْصُرْهُ خَذَلَهُ اللهُ فِي الدُّنْيَا وَالآخِرَةِ.
 
 In a tradition reported by al-Saduq with his isnad from Imam al-Sadiq
 (A), the Prophet (S) is reported to have said to Amir al-Mu’minin (A) in
@@ -1013,15 +877,11 @@ the ghibah of his Muslim brother and it is committed in his presence,
 yet he does not rally to his assistance despite being capable of doing
 so, God shall humiliate him in the world and the Hereafter.[^25]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنْ عِقَابِ الأعْمَالِ بِسَنِدِهِ عَنْ رَسُولِ اللهِ صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ: مَنْ رَدَّ عَنْ أَخِيهِ غِيبَةً سَمِعَهَا فِي
-مَجْلِسٍ رَدَّ اللهُ عَنْهُ ألْفَ بَابٍ مِنَ الشَّرِّ فِي الدُّنْيَا
-وَالآخِرَةِ، فَإنْ لَمْ يَرُدَّ عَنْهُ وَأَعْجَبَهُ كَانَ عَلَيْهِ
-كَوِزْرِ مَنِ اغْتَابَ.
-  </p>
-</blockquote>
+> وَعَنْ عِقَابِ الأعْمَالِ بِسَنِدِهِ عَنْ رَسُولِ اللهِ صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ: مَنْ رَدَّ عَنْ أَخِيهِ غِيبَةً سَمِعَهَا فِي
+> مَجْلِسٍ رَدَّ اللهُ عَنْهُ ألْفَ بَابٍ مِنَ الشَّرِّ فِي الدُّنْيَا
+> وَالآخِرَةِ، فَإنْ لَمْ يَرُدَّ عَنْهُ وَأَعْجَبَهُ كَانَ عَلَيْهِ
+> كَوِزْرِ مَنِ اغْتَابَ.
 
 In Iqab al-’a’mal, al-Saduq reports with his isnad from the Prophet (S)
 that he said, “Whoever refutes the ghibah of his brother that he hears
@@ -1135,13 +995,9 @@ and praises and extols him. This is a kind of hypocrisy (*nifaq*)
 double-facedness and double-tonguedness that have been condemned in
 unambiguous terms in the traditions:
 
-<blockquote dir="rtl">
-  <p>
-فِي الكَافِي الشَّرِيفِ بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
-السَّلامُ قَالَ: مَنْ لَقِيَ المُسْلِمِينَ بِوَجْهَيْنِ وَلِسَانَيْنِ
-جَاءَ يَوْمَ القِيَامَةِ وَلَهُ لِسَانَانِ مِنْ نَارٍ.
-  </p>
-</blockquote>
+> فِي الكَافِي الشَّرِيفِ بِإسْنَادِهِ عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ
+> السَّلامُ قَالَ: مَنْ لَقِيَ المُسْلِمِينَ بِوَجْهَيْنِ وَلِسَانَيْنِ
+> جَاءَ يَوْمَ القِيَامَةِ وَلَهُ لِسَانَانِ مِنْ نَارٍ.
 
 In the noble al-Kafi, al-Kulayni reports with his isnad from Imam
 al-Sadiq (A) that he said, “Whoever encounters Muslims with two faces
@@ -1215,5 +1071,4 @@ al-ta’atuf”, hadith no. 3.
 
 [^27]: Al-Kafi, ii, “kitab al-iman wa al-kufr”, “bab dhi al-lisanayn”,
 hadith no. 1.
-
 

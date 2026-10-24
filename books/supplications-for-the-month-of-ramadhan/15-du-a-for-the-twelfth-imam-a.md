@@ -43,88 +43,31 @@ and do for me . . . (ask for your wishes),
 
 in this night, this night.
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد وال محمد
-  </p>
-</blockquote>
+> اللهم صل على محمد وال محمد
 
-<blockquote dir="rtl">
-  <p>
-اللهم كُن لوليّك الحُجة بن الحسن
-  </p>
-</blockquote>
+> اللهم كُن لوليّك الحُجة بن الحسن
 
-<blockquote dir="rtl">
-  <p>
-صلوتك عليه وعلى ابائه
-  </p>
-</blockquote>
+> صلوتك عليه وعلى ابائه
 
-<blockquote dir="rtl">
-  <p>
-في هذه الساعة وفي كُل الساعة
-  </p>
-</blockquote>
+> في هذه الساعة وفي كُل الساعة
 
-<blockquote dir="rtl">
-  <p>
-وليّا وحافظاً وقائداً
-  </p>
-</blockquote>
+> وليّا وحافظاً وقائداً
 
-<blockquote dir="rtl">
-  <p>
-وناصراً ودليلاً وعيناً
-  </p>
-</blockquote>
+> وناصراً ودليلاً وعيناً
 
-<blockquote dir="rtl">
-  <p>
-حتى تُسكنه ارضك طوعاً
-  </p>
-</blockquote>
+> حتى تُسكنه ارضك طوعاً
 
-<blockquote dir="rtl">
-  <p>
-وتُمتعه يها طويلاً
-  </p>
-</blockquote>
+> وتُمتعه يها طويلاً
 
-<blockquote dir="rtl">
-  <p>
-يا مدبر الأمور يا باعث من في القبور
-  </p>
-</blockquote>
+> يا مدبر الأمور يا باعث من في القبور
 
-<blockquote dir="rtl">
-  <p>
-يا مُجري البحور
-  </p>
-</blockquote>
+> يا مُجري البحور
 
-<blockquote dir="rtl">
-  <p>
-يا مُليّن الحديد لداود
-  </p>
-</blockquote>
+> يا مُليّن الحديد لداود
 
-<blockquote dir="rtl">
-  <p>
-صلى على محمد وال محمد
-  </p>
-</blockquote>
+> صلى على محمد وال محمد
 
-<blockquote dir="rtl">
-  <p>
-وافعل بي ...الليلة الليلة (حاجات)
-  </p>
-</blockquote>
-
+> وافعل بي ...الليلة الليلة (حاجات)
 

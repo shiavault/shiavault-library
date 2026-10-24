@@ -220,4 +220,3 @@ force. In general, all material events are explained through this.
 
 [^9]: Extracted from the journal, “Majmū‘ah-ye Hikmat”, issue 4.
 
-

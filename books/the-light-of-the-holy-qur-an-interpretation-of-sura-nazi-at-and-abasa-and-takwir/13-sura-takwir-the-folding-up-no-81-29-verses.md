@@ -68,4 +68,3 @@ recitation, is to produce knowledge, faith, and action in the reciter.
 (5) Thawab-ul-amal. according to what is cited in the quotation of
 Nur-uth-Thaqalayn, vol.5, p.512.
 
-

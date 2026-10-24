@@ -115,4 +115,3 @@ the fabricated and false stories created by the Shias, which have been
 ingrained in the minds of Sunnis, for the past 12 centuries.**  
 **Ahlul-Tawheed**
 
-

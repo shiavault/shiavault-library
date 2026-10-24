@@ -51,4 +51,3 @@ conditions and circumstances surrounding him at the time. As it was a
 Divine design so they prognosticated the advent of Mahdi whose
 responsibility is to establish the government of God.
 
-

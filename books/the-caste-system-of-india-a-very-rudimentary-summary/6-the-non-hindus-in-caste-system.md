@@ -136,4 +136,3 @@ their ceremonies. One such tribe, called Gond, had a strong kingdom in
 central India. Most of the tribes adopted Hinduism, others adopted Islam
 or Christianity. Some tribes in East India claim to Jewish origin.
 
-

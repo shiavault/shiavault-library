@@ -132,13 +132,9 @@ al-Tusi in al-Tahdhib and Ibn Shahr ashib in al-Manaqib.[^27]
 
 14. In al-Makarim: He (S) would supplicate:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَلَدٍ يَكُونُ عَلَيَّ رَبًّا وَ
-مِنْ مَالٍ يَكُونُ عَلَيَّ ضَـيَاعاً وَ مِنْ زَوْجَةٍ تُشَـيِّـبَنِي
-قَبْلَ أَوَانَ مَشِيـبَتِي.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَلَدٍ يَكُونُ عَلَيَّ رَبًّا وَ
+> مِنْ مَالٍ يَكُونُ عَلَيَّ ضَـيَاعاً وَ مِنْ زَوْجَةٍ تُشَـيِّـبَنِي
+> قَبْلَ أَوَانَ مَشِيـبَتِي.
 
 *“O Allah! I seek refuge with You from an offspring who would rule over
 me, and from the wealth that would be the cause of my destruction and
@@ -367,5 +363,4 @@ al-Mustadrak 14:180
 [^49]: Bihar al-Anwar 16:12
 
 [^50]: Nawadir al-Rawandi: 15, Bihar al-Anwar 103:228
-
 

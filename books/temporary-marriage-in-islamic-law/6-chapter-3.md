@@ -185,4 +185,3 @@ of a temporary marriage: its inheritance from its father is one-half of
 that of a child by permanent marriage, while its inheritance from its
 mother is the same as it would be in permanent marriage.
 
-

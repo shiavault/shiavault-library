@@ -120,4 +120,3 @@ mean that the person whom the angels speak with is a prophet. This can
 be inferred from verses 19:17–19 of the Holy Quran that mention the
 story of Mary, peace be on her, speaking with one of God’s angels—Ed.
 
-

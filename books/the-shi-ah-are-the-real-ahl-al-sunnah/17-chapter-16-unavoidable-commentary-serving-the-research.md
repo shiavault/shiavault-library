@@ -168,7 +168,7 @@ disclaim it;" so, when al-Mansour noticed that, he ordered the eunuch to
 carry it for Malik to where the latter's camel was tied so that people
 might not know about it.
 
-[^79] There is no contradiction between his verdict prohibiting the
+[^79]: There is no contradiction between his verdict prohibiting the
 securing of allegiance by force and his mandating obedience to the
 ruler, and they have, indeed, narrated many "traditions" supporting
 their viewpoint such as: "Whoever disobeys the ruler and dies disobeying

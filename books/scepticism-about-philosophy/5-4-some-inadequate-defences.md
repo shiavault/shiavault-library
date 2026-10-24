@@ -205,4 +205,3 @@ addition, this aretaic defence is somewhat embarrassing, in that it does
 not do much to differentiate philosophy from playing logic games or
 Sudoku.
 
-

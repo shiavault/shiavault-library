@@ -4,13 +4,9 @@ Section 6: The Divine Mercy Precedes the Wrath
 Surah Yunus – Verse 54
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ لِكُلّ نَفْسٍ ظَلَمَتْ مَا فِي الأَرْضِ لافْتَدَتْ بِهِ
-وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ وَقُضِي بَيْنَهُم
-بِالْقِسْطِ وَهُمْ لا يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ لِكُلّ نَفْسٍ ظَلَمَتْ مَا فِي الأَرْضِ لافْتَدَتْ بِهِ
+> وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ وَقُضِي بَيْنَهُم
+> بِالْقِسْطِ وَهُمْ لا يُظْلَمُونَ
 
 ***54. “And if every soul that has done injustice had all that is on
 earth, he would assuredly give it in ransom, and they declare (their)
@@ -53,12 +49,8 @@ not be dealt with unjustly.”***
 Surah Yunus – Verse 55
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلآ إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ والأَرْضِ أَلآ إِنَّ وَعْدَ
-اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> أَلآ إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ والأَرْضِ أَلآ إِنَّ وَعْدَ
+> اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لاَ يَعْلَمُونَ
 
 ***55. “Behold! Verily to Allah belongs whatever is in the heavens and
 the earth. Behold! Verily, Allah’s promise is true, but most of them do
@@ -88,11 +80,7 @@ know.”***
 Surah Yunus – Verse 56
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ يُحْيِي وَيُمِيتُ وإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> هُوَ يُحْيِي وَيُمِيتُ وإِلَيْهِ تُرْجَعُونَ
 
 ***56. “He (it is Who) gives life and causes to die, and to Him you
 shall be returned.”***
@@ -121,12 +109,8 @@ and there.
 Surah Yunus – Verse 57
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أيُّهَا النَّاسُ قَدْ جَآءَتْكُم مَوْعِظَةٌ مِن رَبِّكُمْ
-وَشِفَآءٌ لِمَا فِي الصُّدُورِ وَهُدًي وَرَحْمَةٌ لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> يَآ أيُّهَا النَّاسُ قَدْ جَآءَتْكُم مَوْعِظَةٌ مِن رَبِّكُمْ
+> وَشِفَآءٌ لِمَا فِي الصُّدُورِ وَهُدًي وَرَحْمَةٌ لِلْمُؤْمِنِينَ
 
 ***57. “O mankind! There hath come to you an admonition from your Lord
 and a healing for what is in your hearts, and a guidance and a mercy for
@@ -178,12 +162,8 @@ time.”*
 Surah Yunus – Verse 58
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ
-خَيْرٌ مِّمَّا يَجْمَعُونَ
-  </p>
-</blockquote>
+> قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ
+> خَيْرٌ مِّمَّا يَجْمَعُونَ
 
 ***58. “Say: ‘In the grace of Allah, and in His mercy – in that let them
 rejoice; it is better than that which they hoard’.”***
@@ -245,13 +225,9 @@ hoard’.”***
 Surah Yunus – Verse 59
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُم مَآ أَنزَلَ اللَّهُ لَكُم مِن رِزْقٍ فَجَعَلْتُمْ
-مِنْهُ حَرَاماً وَحَلاَلاً قُلْ ءَآللَّهُ أَذِنَ لَكُمْ أَمْ عَلَي
-اللَّهِ تَفْتَرُونَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُم مَآ أَنزَلَ اللَّهُ لَكُم مِن رِزْقٍ فَجَعَلْتُمْ
+> مِنْهُ حَرَاماً وَحَلاَلاً قُلْ ءَآللَّهُ أَذِنَ لَكُمْ أَمْ عَلَي
+> اللَّهِ تَفْتَرُونَ
 
 ***59. “Say: ‘Have you considered what (things) Allah has sent down for
 you of sustenance, then you made some of it unlawful, and (some of it)
@@ -289,13 +265,9 @@ against Allah is another crime.
 Surah Yunus – Verse 60
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ظَنُّ الَّذِينَ يَفْتَرُونَ عَلَي اللَّهِ الْكَذِبَ يَوْمَ
-الْقِيَامَةِ إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَي النَّاسِ وَلَكِنَّ
-أَكْثَرَهُمْ لاَ يَشْكُرُونَ
-  </p>
-</blockquote>
+> وَمَا ظَنُّ الَّذِينَ يَفْتَرُونَ عَلَي اللَّهِ الْكَذِبَ يَوْمَ
+> الْقِيَامَةِ إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَي النَّاسِ وَلَكِنَّ
+> أَكْثَرَهُمْ لاَ يَشْكُرُونَ
 
 ***60. “And what imagine those who forge lies against Allah, on the Day
 of Resurrection? Verily Allah is the Lord of bounty to mankind, but most
@@ -353,5 +325,4 @@ verse.
 [^5]: Tafsir-ul-Burhan, vol. 2, p. 187
 
 [^6]: Tafsir-us-Safi, vol. 2, p. 407
-
 

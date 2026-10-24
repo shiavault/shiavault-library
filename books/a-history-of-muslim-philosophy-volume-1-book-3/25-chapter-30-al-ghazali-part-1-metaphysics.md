@@ -2012,4 +2012,3 @@ statement. Cf. A. E. Taylor, “David Hume and the Miraculous,” in his
 Philosophical Studies, London, 1934, pp. 330 – 65; also F. R. Tennant,
 Miracle and Its Philosophical Pre-suppositions, Cambridge, 1925, p., 84.
 
-

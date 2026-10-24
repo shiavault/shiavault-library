@@ -4,23 +4,11 @@ Part 1: Supplications from the Holy Qur’an
 Supplication n. 1
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
-  </p>
-</blockquote>
+> اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ الضَّالِّينَ
-  </p>
-</blockquote>
+> وَلاَ الضَّالِّينَ
 
 Ihdinas’siraat’al Mustaqeem Si’raat’al Lad’eena An-A’mta A’layhim
 Ghayril Maghz’’oobi A’layhim Wa Laz’’ Z’’aaalleen
@@ -42,11 +30,7 @@ destruction in the end.
 Supplication n. 2
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ
-  </p>
-</blockquote>
+> رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ
 
 Rabbana Taqabbal Minna Innaka Antas Samee-u’l A’leem
 
@@ -74,13 +58,9 @@ any legitimate desires.
 Supplication n. 3
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي
-لَعَلَّهُمْ يَرْشُدُونَ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي
+> لَعَلَّهُمْ يَرْشُدُونَ
 
 Wa Id’aa Sa-alaka I’baadee A’nnee Fa Innee Qareeb Ujeebu Da’-Watad
 Daa-i’ Id’aa Da-a’ani Fal-Yastajeeboo Lee Wal Yoo-Minoo Bee La-A’llahum
@@ -112,12 +92,8 @@ your convenience.
 Supplication n. 4
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً
-وَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً
+> وَقِنَا عَذَابَ النَّارِ
 
 Rabbanaaa Aatinaa Fiddunyaa H’asanata Wa Fil Aakhirati H’asanata Wa
 Qinaa A’d’aaban Naar
@@ -141,12 +117,8 @@ Ka’-bah.
 Supplication n. 5
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا
-عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا
+> عَلَى الْقَوْمِ الْكَافِرِينَ
 
 Rabbanaaa Afrigh A’laynaa S’abraw Wa Thabbit Aqdamanaa Wan Surnaa A’lal
 Qawmil Kaafireen
@@ -168,15 +140,11 @@ to undo and put an end to the intrigues of your enemies.
 Supplication n. 6
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا رَبَّنَا
-وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن
-قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ
-وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلاَنَا
-فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا رَبَّنَا
+> وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن
+> قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ
+> وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلاَنَا
+> فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 
 Rabbanaa Laa Too-Akhid’naaa In-Naseenaa Aw Akht’aanaa Rabbanaa wa Laa
 Tah’mil A’laynaaa Is’ran Kamaa Ha’maltahoo A’lal Lad’eena min Qablinaa
@@ -213,12 +181,8 @@ all traces of errors and mistakes.
 Supplication n. 7
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا
-مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ
-  </p>
-</blockquote>
+> رَبَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا
+> مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ
 
 Rabbanaa Laa Tuzigh Quloobanaa Ba’-Da Id’hadaytanaa Wa Hab Lanaa Mil
 Ladunka Rah’mah Innaka Antal Wahaab
@@ -242,21 +206,13 @@ To strengthen your faith recite this dua’a in every *wajib* as well as
 Supplication n. 8
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء وَتَنزِعُ
-الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن تَشَاء
-بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء وَتَنزِعُ
+> الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن تَشَاء
+> بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
 
-<blockquote dir="rtl">
-  <p>
-تُولِجُ اللَّيْلَ فِي الْنَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ
-وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الَمَيَّتَ مِنَ
-الْحَيِّ وَتَرْزُقُ مَن تَشَاء بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> تُولِجُ اللَّيْلَ فِي الْنَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ
+> وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الَمَيَّتَ مِنَ
+> الْحَيِّ وَتَرْزُقُ مَن تَشَاء بِغَيْرِ حِسَابٍ
 
 Allaahumma Maalikal Mulki Tu’-til Mulka Man Tashaa-u wa Tanzi-u’l Mulka
 Mimman Tashaa wa Tu-i’zzu Man Tashaa-u wa Tud’illu Man Tashaa Biyadikal
@@ -316,12 +272,8 @@ a person or a group of persons recite this dua’a.
 Supplication n. 9
 -----------------
 
-<blockquote dir="rtl">
-  <p>
-هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُ قَالَ رَبِّ هَبْ لِي مِن لَّدُنْكَ
-ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاء
-  </p>
-</blockquote>
+> هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُ قَالَ رَبِّ هَبْ لِي مِن لَّدُنْكَ
+> ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاء
 
 Rabbi Hab Lee Mil Ladunka D’urriyyatan T’ayyibah Innaka Samee-u’d Du’aa
 
@@ -339,13 +291,9 @@ your children pious and obedient.
 Supplication n. 10
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ قَوْلَهُمْ إِلاَّ أَن قَالُواْ ربَّنَا اغْفِرْ لَنَا
-ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا
-وانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ قَوْلَهُمْ إِلاَّ أَن قَالُواْ ربَّنَا اغْفِرْ لَنَا
+> ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا
+> وانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 
 Rabbanaghfir lanaa d’unoobanaa wa israafanaa fee amrinaa wa thabbit
 aqdaamanaa wan s’urnaa a’lal qawmil kaafireen
@@ -375,11 +323,7 @@ doing things as Allah has asked us to do.
 Supplication n. 11
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ
 
 Rabbanaa Maa Khalaqta Haad’aa Baat’ilaa Subh’aanaka Faqinaa A’d’aaban
 Naar
@@ -397,13 +341,9 @@ and day are signs of His omnipotence for the men of understanding.
 Supplication n. 12
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلإِيمَانِ أَنْ
-آمِنُواْ بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
-وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الأبْرَارِ
-  </p>
-</blockquote>
+> رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلإِيمَانِ أَنْ
+> آمِنُواْ بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا
+> وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الأبْرَارِ
 
 Rabbanaa Innanaa Sami’-Naa Munaadiyay Yunaadee Lil – Eemaani An Aaminoo
 Birabbikum Fa- Aamannaa Rabbanaa Faghfir Lanaa D’unoobanaa Wa Kaffir
@@ -433,12 +373,8 @@ life, he is forever condemned to fire of hell.
 Supplication n. 13
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ وَلاَ تُخْزِنَا
-يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ الْمِيعَادَ
-  </p>
-</blockquote>
+> رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ وَلاَ تُخْزِنَا
+> يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ الْمِيعَادَ
 
 Rabbanaa Wa Aatinaa Maa Wa-A’ttanaa A’laa Rusulika Wa Laa Tukhzinaa
 Yawal Qiyaamah Innak Laa Tukhliful Mee’a’ad
@@ -458,11 +394,7 @@ the day of judgement.
 Supplication n. 14
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-لَّئِنْ أَنجَانَا مِنْ هَـذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> لَّئِنْ أَنجَانَا مِنْ هَـذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ
 
 La-in Anjaanaa Min Haad’ihee Lanakoo- Nanna Minash Shakireen
 
@@ -477,11 +409,7 @@ the calamities
 Supplication n. 15
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لاَ تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> رَبَّنَا لاَ تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
 
 Rabbanaa Laa Taj-a’lnaa Ma – A’l Qawmiz’ Z’aalimeen
 
@@ -496,11 +424,7 @@ behavior in this world.
 Supplication n. 16
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ
-  </p>
-</blockquote>
+> رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ
 
 Rabbanaaa Afrigh A’laynaa S’abraw Wa Tawaffanaa Muslimeen
 
@@ -528,12 +452,8 @@ miracle of Allah, they laughed at Pharaoh and recited this dua’a.
 Supplication n. 17
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اغْفِرْ لِي وَلأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنتَ
-أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> رَبِّ اغْفِرْ لِي وَلأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنتَ
+> أَرْحَمُ الرَّاحِمِينَ
 
 Rabbighfir Lee Wa Li – Akhee Wa Adkhilnaa Fee Rah’matika Wa Anta
 Arh’amur Raah’imeen
@@ -567,12 +487,8 @@ It is highly recommended to read this dua’a as qunoot in all prayers.
 Supplication n. 18
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ
-الْغَافِرِينَ
-  </p>
-</blockquote>
+> أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ
+> الْغَافِرِينَ
 
 Anta Waliyyunaa Faghfir Lanaa Warh’amnaa Wa Anta Khayrul Ghaafireen
 
@@ -593,12 +509,8 @@ beseech Allah to have mercy on him and on the pious among his followers.
 Supplication n. 19
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاكْتُبْ لَنَا فِي هَـذِهِ الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ إِنَّا
-هُدْنَـا إِلَيْكَ
-  </p>
-</blockquote>
+> وَاكْتُبْ لَنَا فِي هَـذِهِ الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ إِنَّا
+> هُدْنَـا إِلَيْكَ
 
 Waktub Lanaa Fee Haad’ihid Dunyaa H’asanataw Wa Fil Aakhirati Innaa
 Hudnaaa Ilayk
@@ -619,12 +531,8 @@ to Allah.
 Supplication n. 20
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-حَسْبِيَ اللّهُ لا إِلَـهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
-رَبُّ الْعَرْشِ الْعَظِيمِ
-  </p>
-</blockquote>
+> حَسْبِيَ اللّهُ لا إِلَـهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
+> رَبُّ الْعَرْشِ الْعَظِيمِ
 
 H’asbiyallaah Laaa Ilaaha Illaa – Huw A’layhi Tawakkaltu Wa Huwa Rabbul
 A’rshil A’z’eem
@@ -650,17 +558,9 @@ respect.
 Supplication n. 21
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لاَ تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> رَبَّنَا لاَ تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
 
 Rabbana Laa Taj –A’lnaa Fitnatal Lil – Qawmiz’ Z’aalimeen Wa Najjinaa
 Birah’matika Minal Qawmil Kaafireen
@@ -680,12 +580,8 @@ seek protection of Allah from the harm of our enemies.
 Supplication n. 22
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ إِنَّ ابُنِي مِنْ أَهْلِي وَإِنَّ وَعْدَكَ الْحَقُّ وَأَنتَ
-أَحْكَمُ الْحَاكِمِينَ
-  </p>
-</blockquote>
+> رَبِّ إِنَّ ابُنِي مِنْ أَهْلِي وَإِنَّ وَعْدَكَ الْحَقُّ وَأَنتَ
+> أَحْكَمُ الْحَاكِمِينَ
 
 Rabbi Inna bonee Min Ahlee Wa Inna Wa’-Dakal H’aqqu Wa Anta Ah’kamul
 H’aakimeen
@@ -709,12 +605,8 @@ recited to seek fulfillment of legitimate desires.
 Supplication n. 23
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ
-وَإِلاَّ تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِّنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ
+> وَإِلاَّ تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِّنَ الْخَاسِرِينَ
 
 Rabbi Inneee A-o’od’u Bika An As-alaka Maa Laysa Lee Bihee I’lm Wa Illaa
 Taghfirlee Wa Tarh’amneee Akum Minal Khaasireen
@@ -736,11 +628,7 @@ path.
 Supplication n. 24
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
-  </p>
-</blockquote>
+> تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
 
 Tawaffanee Muslimaw Wa Alh’iqnee Bis’-S’aalih’een
 
@@ -758,12 +646,8 @@ difficulties.
 Supplication n. 25
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اجْعَلْ هَـذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن
-نَّعْبُدَ الأَصْنَامَ
-  </p>
-</blockquote>
+> رَبِّ اجْعَلْ هَـذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن
+> نَّعْبُدَ الأَصْنَامَ
 
 Rabbij-A’l Haad’al Balada Aaminaw Wajnubnee Wa Baniyya An Na’-Budal
 As’naam
@@ -783,12 +667,8 @@ possible.
 Supplication n. 26
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا
-وَتَقَبَّلْ دُعَاء
-  </p>
-</blockquote>
+> رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا
+> وَتَقَبَّلْ دُعَاء
 
 Rabbij-A’lnee Muqeemas’ S’alaati Wa Min D’urrriyyatee Rabbanaa Wa
 Taqabbal Du-A’aa
@@ -806,12 +686,8 @@ after every prayer.
 Supplication n. 27
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
-الْحِسَابُ
-  </p>
-</blockquote>
+> رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ
+> الْحِسَابُ
 
 Rabbanaghfir Lee Wa Liwaalidayya Wa Lil-Mu’mineena Yawma Yaqoomul
 H’isaab
@@ -850,11 +726,7 @@ compassion and recite this dua’a and the dua’a mentioned in 28.
 Supplication n. 28
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
-  </p>
-</blockquote>
+> رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
 
 Rabbir-H’amhumaa Kamaa Rabbayaanee S’agheeraa
 
@@ -889,12 +761,8 @@ on those who disobey their parents.
 Supplication n. 29
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ
-وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا
-  </p>
-</blockquote>
+> رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ
+> وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا
 
 Rabbi Adkhilnee Mudkhala S’idqiw Wa Akhrijnee Mukhraja S’diqiw Waj-a’l
 Lee Mil Ladunkaa Sult’aanan Nas’eeraa
@@ -917,12 +785,8 @@ of going to dangerous places.
 Supplication n. 30
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا
-رَشَدًا
-  </p>
-</blockquote>
+> رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا
+> رَشَدًا
 
 Rabbanaaa Aatina Mil Ladunka Rah’mataw Wa Hayyi Lanaa Min Amrinaa
 Rashadaa
@@ -946,11 +810,7 @@ success in whatever work we are doing.
 Supplication n. 31
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا
-  </p>
-</blockquote>
+> فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا
 
 Fahab Lee Mil Ladunka Waliyyaa
 
@@ -963,12 +823,8 @@ recited by Prophet Zakariyya to beseech Allah to give him a son.
 Supplication n. 32
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً
-مِّن لِّسَانِي يَفْقَهُوا قَوْلِي
-  </p>
-</blockquote>
+> رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً
+> مِّن لِّسَانِي يَفْقَهُوا قَوْلِي
 
 Rabbishrah’ Lee S’adree wa Yassir Leee Amree Wah’–Lul U’qdatam Mil
 Lisaanee Yafqahoo Qawlee
@@ -996,11 +852,7 @@ will disappear if this dua’a is regularly recited.
 Supplication n. 33
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ زِدْنِي عِلْمًا
-  </p>
-</blockquote>
+> رَّبِّ زِدْنِي عِلْمًا
 
 …Rabbi Zidnee I’lmaa.
 
@@ -1012,11 +864,7 @@ knowledge.
 Supplication n. 34
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ
 
 Annee Massaniya” Z”urru Wa Anta Arh’amur Raah’imeen.
 
@@ -1036,11 +884,7 @@ Recite this dua’a to cure sickness and disease and to remove poverty.
 Supplication n. 35
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-لَّا إِلَهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> لَّا إِلَهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ
 
 Laa Ilaha Illaaa Anta Subh’aanaka Innee Kuntu Minaz” Z’aalimeen
 
@@ -1059,11 +903,7 @@ and calamities, offer a two rakat salat and at the end recite this dua’a
 Supplication n. 36
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ
 
 Rabbi Laa Tad’arnee Fardaw wa Anta Khayrul Waaritheen
 
@@ -1079,12 +919,8 @@ child.
 Supplication n. 37
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ احْكُم بِالْحَقِّ وَرَبُّنَا الرَّحْمَنُ الْمُسْتَعَانُ عَلَى
-مَا تَصِفُونَ
-  </p>
-</blockquote>
+> رَبِّ احْكُم بِالْحَقِّ وَرَبُّنَا الرَّحْمَنُ الْمُسْتَعَانُ عَلَى
+> مَا تَصِفُونَ
 
 Rabbih’- Kum Bil H’aqq Wa Rabbunar Rah’maanul Musta- A’anu A’laa Maa
 Tas’ifoon
@@ -1106,11 +942,7 @@ reciting this dua’a to deal with your affairs justly.
 Supplication n. 38
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ انصُرْنِي بِمَا كَذَّبُونِ
-  </p>
-</blockquote>
+> رَبِّ انصُرْنِي بِمَا كَذَّبُونِ
 
 Rabbin S’urnee Bimaa Kad’d’aboon.
 
@@ -1127,11 +959,7 @@ recite this dua’a.
 Supplication n. 39
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ
-  </p>
-</blockquote>
+> رَّبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ
 
 Rabbi Anzilnee Munzalam Mubaarakaw Wa Anta Khayrul Munzileen
 
@@ -1147,11 +975,7 @@ migrating or moving over to another place.
 Supplication n. 40
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ
 
 Rabbi Falaa Taj-a’lnee Fil Qawmiz’ Z’aalimeen
 
@@ -1164,12 +988,8 @@ hands of the enemies of Allah, and to avoid sinful ways.
 Supplication n. 41
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ
-الرَّاحِمِينَ
-  </p>
-</blockquote>
+> رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ
+> الرَّاحِمِينَ
 
 Rabbanaa Aamannaa Faghfir Lanaa Warh’amnaa Wa Anta Khayrur Raah’imeen
 
@@ -1186,11 +1006,7 @@ the evil of this world and from the punishment on the Day of Judgement.
 Supplication n. 42
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ
 
 Rabbighfir Warh’am Wa Anta Khayrur Raah’imeen
 
@@ -1209,12 +1025,8 @@ We must recite this dua’a at all times and at all places.
 Supplication n. 43
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ
-غَرَامًا
-  </p>
-</blockquote>
+> رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ
+> غَرَامًا
 
 Rabbanas’rif ‘Nnaa A’d’aaba Jahannama Inna A’d’aabahaa Kaana Gharaama.
 
@@ -1230,12 +1042,8 @@ It is highly recommended to recite this dua’a in *tahajjud*.
 Supplication n. 44
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
-أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
-  </p>
-</blockquote>
+> رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ
+> أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 
 Rabbanaa Hab Lanaa Min Azwaajinaa Wa D’urriyyaatinaa Qurrata A’-Yuniw
 Waj – A’lnaa Lil – Muttaqeena Imaamaa
@@ -1256,15 +1064,11 @@ Imams, for the mankind, by Allah).
 Supplication n. 45
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ وَاجْعَل لِّي
-لِسَانَ صِدْقٍ فِي الْآخِرِينَ وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ
-النَّعِيمِ وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ وَلَا
-تُخْزِنِي يَوْمَ يُبْعَثُونَ يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ
-إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
-  </p>
-</blockquote>
+> رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ وَاجْعَل لِّي
+> لِسَانَ صِدْقٍ فِي الْآخِرِينَ وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ
+> النَّعِيمِ وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ وَلَا
+> تُخْزِنِي يَوْمَ يُبْعَثُونَ يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ
+> إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
 
 Rabbi Hab Lee H’ukma Wa Alh’iqnee Bis’-S’aalih’een Waj A’l Lee Lisaana
 S’idqin Fil Aakhireen Waj – A’lnee Miw Warathati Jannatin Na-E’em
@@ -1293,12 +1097,8 @@ prayer of Prophet Ibrahim and fulfilled all his desires.
 Supplication n. 46
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِي مِنَ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِي مِنَ
+> الْمُؤْمِنِينَ
 
 Faftah’ Baynee Wa Baynahum Fat- h’aw Wa Najjinee Wa Mam Ma-I’ya Minal
 Mu’mineen
@@ -1317,13 +1117,9 @@ who want to harm you because of your faith and belief.
 Supplication n. 47
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي
-بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي
+> بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ
 
 Rabbi Awzi’–Nee An Ashkura Ni’-Matakal Latee An-A’mta A’layya Wa A’laa
 Waalidayya Wa An A’-Mala S’aalih’an – Tarz”aahu Wa Adkhilnee
@@ -1349,11 +1145,7 @@ in our work and have power over men and material.
 Supplication n. 48
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي
 
 Rabbi Innee Z’alamtu Nafsee Faghfirlee
 
@@ -1375,11 +1167,7 @@ protection and protection of Allah.
 Supplication n. 49
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
 
 Rabbi Najjinee Minal Qawmiz’ Z’aalimeen
 
@@ -1397,11 +1185,7 @@ safe place, for a permanene or for temporary asylum.
 Supplication n. 50
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ
 
 Rabbin S’urnee A’lal Qawmil Mufsideen
 
@@ -1418,11 +1202,7 @@ the temptations of the vulgar and sinful satanic social set up.
 Supplication n. 51
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
-  </p>
-</blockquote>
+> رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
 
 Rabbi Innee Limaaa Anzalta Ilayya Min Khayrin Faqeer
 
@@ -1451,11 +1231,7 @@ salat*.
 Supplication n. 52
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ
 
 Rabbi Hab Lee Minas’ S’aalih’een
 
@@ -1470,12 +1246,8 @@ to him from Saarah.
 Supplication n. 53
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ
-تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
-  </p>
-</blockquote>
+> رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ
+> تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
 
 Rabbanaa Wasi’ –Ta Kulla Shay-ir Rah’mataw Wa I’lman Fghfir Lil-Lad’eena
 Taaboo Wat-Taba-o’o Sabeelaka Waqihim A’d’aabal Jah’eem
@@ -1495,13 +1267,9 @@ your Lord, which alone can keep you away from the fire of hell.
 Supplication n. 54
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ
-صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ
-أَنْتَ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ
+> صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ
+> أَنْتَ الْعَزِيزُ الْحَكِيمُ
 
 Rabbanaa Wa Adkhilhum Jannaati A’dni Nillatee Wa- A’ttahum Wa Man
 S’alah’a Min Aabaaa-Ihim Wa Azwaajihim Wa D’urriyyaatihim Innaka Antal
@@ -1520,12 +1288,8 @@ conduct.
 Supplication n. 55
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقِهِمُ السَّيِّئَاتِ ۚ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ
-رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> وَقِهِمُ السَّيِّئَاتِ ۚ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ
+> رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
 
 Waqihimus Sayyi-Aat Wa Man Taqis Sayyi-Aati Yawma-Id’in Faqad Rah’imtah
 Wa D’aalika Huwal Fawzul A’z’eem
@@ -1543,13 +1307,9 @@ achievement for the faithful servants of Allah.
 Supplication n. 56
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ
 
 Rabbi Awzi’-Nee An Ashkura Ni’-Matakal Lateee An-A’mta A’layya Wa A’laa
 Waalidayya Wa An A’-Mala S’aalih’an Tarz”Aahu Wa As’lih’lee Fee
@@ -1582,11 +1342,7 @@ wajib prayer daily.
 Supplication n. 57
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّهُ أَنِّي مَغْلُوبٌ فَانتَصِرْ
-  </p>
-</blockquote>
+> رَبَّهُ أَنِّي مَغْلُوبٌ فَانتَصِرْ
 
 Rabbi Annee Maghloobun Fantas’iir.
 
@@ -1605,13 +1361,9 @@ evil of enemies, or adverse circumstances.
 Supplication n. 58
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا
-بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا
-رَبَّنَا إِنَّكَ رَؤُوفٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا
+> بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا
+> رَبَّنَا إِنَّكَ رَؤُوفٌ رَّحِيمٌ
 
 Rabbanagh Fir Lanaa Wa Li-Ikwaaninal Lad’eena Sabaqoonaa Bil-Eemaani Wa
 Laa Taj-A’lfee Quloobinaa Ghillal Lil-Lad’eena Aamanoo Rabbanaaa Innaka
@@ -1632,12 +1384,8 @@ include in our dua’a all the believing men and women.
 Supplication n. 59
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ
-الْمَصِيرُ
-  </p>
-</blockquote>
+> رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ
+> الْمَصِيرُ
 
 Rabbanaa A’layka Tawakkalnaa Wa Ilayka Anabnaa Wa Ilaykal Mas’eer
 
@@ -1658,12 +1406,8 @@ forgiveness alone will keep us away from the fire of hell.
 Supplication n. 60
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ
-شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ
+> شَيْءٍ قَدِيرٌ
 
 Rabbanaa Atmim Lanaa Nooranaa Waghfirlanaa Innaka A’laa Kulli Shay-In
 Qadeer
@@ -1681,11 +1425,7 @@ Imam Ali and his friends who will recite this dua’a.
 Supplication n. 61
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ
-  </p>
-</blockquote>
+> رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ
 
 Rabbibni Lee I’ndaka Baytan Fil-Jannati
 
@@ -1707,13 +1447,9 @@ wanted a house in paradise, where she would live for ever.
 Supplication n. 62
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا
-وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
-تَبَارًا
-  </p>
-</blockquote>
+> رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا
+> وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا
+> تَبَارًا
 
 Rabbighfir Lee Wa Liwaalidayya Wa Liman Dakhala Baytiya Mu’minaw Wa
 Lil-Moomineena Al Mu’minaat Wa Laa Tazidiz’z’aalimeena Illaa Tabaaraa
@@ -1727,5 +1463,4 @@ revolted against Allah, to invoke Allah to forgive him, and his parents
 and believing men and believing women, and to destroy the infidels.
 
 This dua’a is recited in the qunoot of salatul walaydayn(parents).
-
 

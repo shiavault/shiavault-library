@@ -127,17 +127,9 @@ after the demise of the Prophet (S), they did not officially recognize
 the government in Medina and refrain from remitting their *zakat* to Abu
 Bakr, the caliph of the time.[^11] As stated in one of their poems,
 
-<blockquote dir="rtl">
-  <p>
-أَطَعْنا رَسولَ الله ما دام وسطنا فيا قوم ما شأني وَ شأنُ أبي بكر؟
-  </p>
-</blockquote>
+> أَطَعْنا رَسولَ الله ما دام وسطنا فيا قوم ما شأني وَ شأنُ أبي بكر؟
 
-<blockquote dir="rtl">
-  <p>
-أيورثها بكراً إذا كانَ بَعْدَه فتلك لعمر الله قاصمة الظُّهر
-  </p>
-</blockquote>
+> أيورثها بكراً إذا كانَ بَعْدَه فتلك لعمر الله قاصمة الظُّهر
 
 *When the Messenger of Allah was in our midst, we obeyed him.*  
 *O people! Where are we and where is Abu Bakr?*  
@@ -711,5 +703,4 @@ Shahpur, the first Sassanid king. {Trans.}
 
 [^60]: Kird-‘Ali, Muhammad. Khatat ash-Sham, 3rd edition (Damascus:
 Maktabah an-Nuri, 1403 AH/1983), vol. 6, p. 246.
-
 

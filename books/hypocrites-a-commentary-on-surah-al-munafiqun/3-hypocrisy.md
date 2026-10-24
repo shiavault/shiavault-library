@@ -1,13 +1,9 @@
 Hypocrisy
 =========
 
-<blockquote dir="rtl">
-  <p>
-إِذَا جَاءكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ
-اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ
-إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> إِذَا جَاءكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ
+> اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ
+> إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
 
 ***When the hypocrites come to you, they say: “We bear witness that thou
 are indeed the Messenger of Allah.” Yea, Allah knows that you are indeed
@@ -182,11 +178,7 @@ not have any resolve. They did not know which side to join. They had
 weak spirits and hearts. They were confused because of their weak
 intellects. The Qur’an describes them in the following manner:
 
-<blockquote dir="rtl">
-  <p>
-مُّذَبْذَبِينَ بَيْنَ ذَلِكَ لاَ إِلَى هَـؤُلاء وَلاَ إِلَى هَـؤُلاء
-  </p>
-</blockquote>
+> مُّذَبْذَبِينَ بَيْنَ ذَلِكَ لاَ إِلَى هَـؤُلاء وَلاَ إِلَى هَـؤُلاء
 
 “***Swaying between this (and that), (belonging) neither to these nor to
 those***.”[^6]
@@ -221,5 +213,4 @@ words: “We bear witness that you are *indeed* the Messenger of Allah.”
 [^5]: Sayyid ‛Ali bin Ma‛sum, Al-Darajat al-Rafi’ah, pages 86-87
 
 [^6]: 4:143
-
 

@@ -4,12 +4,8 @@ Part 28: 'Scholars' in Quran imply the Imams
 In Quran, ‘Scholars’ imply the Imams and ‘people of understanding’
 stands for their Shias
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
-إِنَّمَا يَتَذَكَّرُ أُوْلُوا الْأَلْبَابِ.
-  </p>
-</blockquote>
+> قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ
+> إِنَّمَا يَتَذَكَّرُ أُوْلُوا الْأَلْبَابِ.
 
 ***Say: Are those who know and those who do not know alike? Only the men
 of understanding are mindful. (Surah Zumar 39:9)***
@@ -40,11 +36,7 @@ Imam Sadiq (a.s.). He said: We are ‘those who know’ and our enemies are
 Kulaini has narrated authentically from Ammar Sabati, that he says: I
 asked Imam Sadiq (a.s.) about the verse of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ.
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ.
 
 ***And when distress afflicts a man he calls upon his Lord turning to
 Him frequently; (Surah Zumar 39:8)***
@@ -54,12 +46,8 @@ considered the Prophet (S) as a magician. When he used to fall ill,
 apparently he used to pray and use to say that I will return from saying
 that thing again, which he used to regarding the Prophet (S).
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِذَا خَوَّلَهُ نِعْمَةً مِنْهُ نَسِيَ مَا كَانَ يَدْعُو
-إِلَيْهِ مِنْ قَبْلُ.
-  </p>
-</blockquote>
+> ثُمَّ إِذَا خَوَّلَهُ نِعْمَةً مِنْهُ نَسِيَ مَا كَانَ يَدْعُو
+> إِلَيْهِ مِنْ قَبْلُ.
 
 ***…then when He makes him possess a favor from Him, he forgets that for
 which he called upon Him before…(Surah Zumar 39:8)***
@@ -69,11 +57,7 @@ used to forget Allah and what he had prayed earlier. The Imam said that
 he forgot to repent from what he used to say about the Prophet (S) that
 he was a magician. That is why Allah said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَابِ النَّارِ
-  </p>
-</blockquote>
+> قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَابِ النَّارِ
 
 ***Say: Enjoy yourself in your ungratefulness a little, surely you are
 of the inmates of the fire. (Surah Zumar 39:8)***
@@ -85,13 +69,9 @@ the Hazrat said that after this Allah turns His address to Ali (a.s.)
 informed the people about his condition and his excellence. Then He
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ سَاجِدًا وَقَائِمًا يَحْذَرُ
-الْآخِرَةَ وَيَرْجُو رَحْمَةَ رَبِّهِ قُلْ هَلْ يَسْتَوِي الَّذِينَ
-يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ.
-  </p>
-</blockquote>
+> أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ سَاجِدًا وَقَائِمًا يَحْذَرُ
+> الْآخِرَةَ وَيَرْجُو رَحْمَةَ رَبِّهِ قُلْ هَلْ يَسْتَوِي الَّذِينَ
+> يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ.
 
 ***What! He who is obedient during hours of the night, prostrating
 himself and standing, takes care of the hereafter and hopes for the
@@ -104,12 +84,8 @@ is the explanation of this verse.
 
 Then the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا
-الْعَالِمُونَ.
-  </p>
-</blockquote>
+> وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا
+> الْعَالِمُونَ.
 
 ***And (as for) these examples, We set them forth for men, and none
 understand them but the learned. (Surah Ankabut 29:43)***
@@ -120,11 +96,7 @@ its examples.
 
 Also the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أُوتِيتُمْ مِنْ الْعِلْمِ إِلَّا قَلِيلًا.
-  </p>
-</blockquote>
+> وَمَا أُوتِيتُمْ مِنْ الْعِلْمِ إِلَّا قَلِيلًا.
 
 ***…and you are not given aught of knowledge but a little. (Surah Israa
 17:85)***
@@ -138,11 +110,7 @@ these blessed persons.
 
 The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ.
-  </p>
-</blockquote>
+> بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ.
 
 ***Nay! these are clear communications in the breasts of those who are
 granted knowledge… (Surah Ankabut 29:49)***
@@ -155,11 +123,7 @@ but He said it is in our hearts.
 
 Also the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ.
-  </p>
-</blockquote>
+> إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ.
 
 ***…those of His servants only who are possessed of knowledge fear
 Allah…(Surah Fatir 35:28)***
@@ -169,5 +133,4 @@ Momineen (a.s.) who was a learned one, having the recognition his Lord,
 fear of Allah, he always remembering Allah, performed his duties, fought
 in the way of Allah, did not do anything except that which pleased Allah
 and His Prophet.
-
 

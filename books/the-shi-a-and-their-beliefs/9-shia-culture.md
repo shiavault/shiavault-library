@@ -240,4 +240,3 @@ Inspire me Your obedience, and the practice which brings about Your
 pleasure, and (inspire me) the avoidance of anything which may bring
 about Your wrath, O most merciful of all.’
 
-

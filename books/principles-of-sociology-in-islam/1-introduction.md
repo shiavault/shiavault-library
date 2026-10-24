@@ -32,13 +32,9 @@ According to Islamic law, the only criterion of individual or collective
 supremacy is faith and piety, knowledge and wisdom. The Holy Qur'an
 clearly says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
-أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
+> أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ
 
 ***O people, We created you from a male and a female and made you into
 clans and tribes so*** ***that you may know each other. Verily the most
@@ -47,12 +43,8 @@ honoured of you in the sight of Allah is the most pious of you . . .(
 
 The Holy Qur'an further elaborates:
 
-<blockquote dir="rtl">
-  <p>
- يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا
-الْعِلْمَ دَرَجَاتٍ
-  </p>
-</blockquote>
+>  يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا
+> الْعِلْمَ دَرَجَاتٍ
 
 ***. . . Allah raises in rank those of you who believe and who have been
 given knowledge . . . (58:11)***
@@ -85,5 +77,4 @@ diligently, in order to gain affection and love from others.
 
 [^1]: ‘S’ after the mention of the Prophet means peace be upon him and
 his holy family, to be recited whenever the Prophet is mentioned.
-
 

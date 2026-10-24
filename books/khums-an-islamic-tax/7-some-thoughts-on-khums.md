@@ -172,4 +172,3 @@ Iraq, 1786-1850," Middle Eastern Studies, vol. 22 (1986) No. 4, pp.
 
 [^3]: Nahju 'l-Balaghah, Letter No. 41.
 
-

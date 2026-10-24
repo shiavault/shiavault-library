@@ -562,11 +562,7 @@ propaganda against the ‘Alids in general. This attitude can be discerned
 in the poem of Yahya b. Muhammad al‑Aslami, who praised the ‘Abbasid
 leader al‑Muwaffaq in 270/883 with this verse:
 
-<blockquote dir="rtl">
-  <p>
-ويتلى كتاب الله في كل مسجد \* ويلقى دعاء الطالبين خاسيا
-  </p>
-</blockquote>
+> ويتلى كتاب الله في كل مسجد \* ويلقى دعاء الطالبين خاسيا
 
 *And the Book of Allah is recited in every mosque, and the Talibiyyin
 invite people to their cause in vain*[^78].
@@ -1325,5 +1321,4 @@ tomb situated in a mosque called al-Khullani. The people believe that it
 is the grave of Abu Ja’far. Since al-Tusi mentions that his grave is on
 the western side it is possible that his corpse was transported to the
 new grave, but there is no available source to support such a claim.
-
 

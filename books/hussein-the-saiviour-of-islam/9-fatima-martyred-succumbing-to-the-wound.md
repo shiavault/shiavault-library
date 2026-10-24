@@ -382,4 +382,3 @@ ruin to Islam and the Muslims. Ali told Abu Sofyan :-
 Holy Prophet and now also you aim to do the same, but Ali will never
 allow you to succeed."
 
-

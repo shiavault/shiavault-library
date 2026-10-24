@@ -69,4 +69,3 @@ than this from a lunatic.”
 
 But the teacher believed Bahlool with all his heart.
 
-

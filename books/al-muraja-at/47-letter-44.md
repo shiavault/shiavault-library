@@ -101,4 +101,3 @@ sixth volume of his book.
 [^2]: What weight can a superficial interpretation have if it
 contradicts the spirit of the entire text?
 
-

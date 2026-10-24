@@ -20,5 +20,3 @@ Prayers with proper Arabic pronunciation but it is up to the personal
 capacity of the people. Islam does not demand anything beyond ones
 capacity.
 
-
-

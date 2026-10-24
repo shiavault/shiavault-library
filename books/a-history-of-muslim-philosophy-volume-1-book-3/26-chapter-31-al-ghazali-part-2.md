@@ -1412,4 +1412,3 @@ brother, Ahmad al-Ghazālī (d. 520/1126), under the title Lubab al-Ihya’.
 A list of these may be found in Sayyid Murtada’s Ittihaj al-Sadah,
 Cairo, 1311/1893, p. 41.
 
-

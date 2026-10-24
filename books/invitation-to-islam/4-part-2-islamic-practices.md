@@ -806,4 +806,3 @@ English.
 
 [^7]: Al-Ithna'ashariyyah, p. 23.
 
-

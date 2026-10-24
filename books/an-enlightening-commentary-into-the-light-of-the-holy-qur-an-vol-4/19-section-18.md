@@ -4,13 +4,9 @@ Section 18
 Surah An-Nisa', Verse 116
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَلِكَ لِمَن يَشَاء وَمَن يُشْرِكْ بِاللّهِ فَقَدْ ضَلَّ ضَلاَلاً
-بَعِيدًا
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَلِكَ لِمَن يَشَاء وَمَن يُشْرِكْ بِاللّهِ فَقَدْ ضَلَّ ضَلاَلاً
+> بَعِيدًا
 
 **116.** ***"Verily Allah does not forgive that (anything) be associated
 with Him, but He forgives less than that to whom He pleases; and whoever
@@ -32,12 +28,8 @@ associates anything with Allah, has gone astray into far error."***
 Surah An-Nisa', Verse 117
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن يَدْعُونَ مِن دُونِهِ إِلاَّ إِنَاثًا وَإِن يَدْعُونَ إِلاَّ
-شَيْطَانًا مَّرِيدًا
-  </p>
-</blockquote>
+> إِن يَدْعُونَ مِن دُونِهِ إِلاَّ إِنَاثًا وَإِن يَدْعُونَ إِلاَّ
+> شَيْطَانًا مَّرِيدًا
 
 **117.** ***"They (the pagans) invoke in His stead but female things
 (the Idols), and they invoke none but Satan, the persistent rebel."***
@@ -55,12 +47,8 @@ and they invoke none but Satan, the persistent rebel."***
 Surah An-Nisa', Verse 118
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَّعَنَهُ اللّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا
-مَّفْرُوضًا
-  </p>
-</blockquote>
+> لَّعَنَهُ اللّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا
+> مَّفْرُوضًا
 
 **118.** ***"Allah has cursed him (Satan) and he said, most certainly I
 will take of Your servants an appointed share."***
@@ -80,14 +68,10 @@ appointed share."***
 Surah An-Nisa', Verse 119
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلأُضِلَّنَّهُمْ وَلأُمَنِّيَنَّهُمْ وَلآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ
-آذَانَ الأَنْعَامِ وَلآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللّهِ
-وَمَن يَتَّخِذِ الشَّيْطَانَ وَلِيًّا مِّن دُونِ اللّهِ فَقَدْ خَسِرَ
-خُسْرَانًا مُّبِينًا
-  </p>
-</blockquote>
+> وَلأُضِلَّنَّهُمْ وَلأُمَنِّيَنَّهُمْ وَلآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ
+> آذَانَ الأَنْعَامِ وَلآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللّهِ
+> وَمَن يَتَّخِذِ الشَّيْطَانَ وَلِيًّا مِّن دُونِ اللّهِ فَقَدْ خَسِرَ
+> خُسْرَانًا مُّبِينًا
 
 **119.** ***"And most certainly I will lead them astray and certainly I
 will arouse desires in them, and certainly I will bid them that they
@@ -148,12 +132,8 @@ indeed suffered a manifest loss."***
 Surah An-Nisa', Verse 120
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلاَّ
-غُرُورًا
-  </p>
-</blockquote>
+> يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلاَّ
+> غُرُورًا
 
 **120.** ***"He promises them and fills them with (vain) desires, and
 Satan does not promise them except delusion."***
@@ -174,11 +154,7 @@ not promise them except delusion."***
 Surah An-Nisa', Verse 121
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَـئِكَ مَأْوَاهُمْ جَهَنَّمُ وَلاَ يَجِدُونَ عَنْهَا مَحِيصًا
-  </p>
-</blockquote>
+> أُوْلَـئِكَ مَأْوَاهُمْ جَهَنَّمُ وَلاَ يَجِدُونَ عَنْهَا مَحِيصًا
 
 **121.** ***"These are they whose abode is Hell, and they will find no
 refuge there from."***
@@ -198,13 +174,9 @@ it is better to return from evil actions before passing away.
 Surah An-Nisa', Verse 122
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ
-تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا وَعْدَ
-اللّهِ حَقًّا وَمَنْ أَصْدَقُ مِنَ اللّهِ قِيلاً
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُواْ وَعَمِلُواْ الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ
+> تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا وَعْدَ
+> اللّهِ حَقًّا وَمَنْ أَصْدَقُ مِنَ اللّهِ قِيلاً
 
 **122.** ***"But (as for) those who believe and do righteous deeds,
 shortly we will admit them into gardens beneath which rivers flow.
@@ -239,13 +211,9 @@ which are far from His Holy presence. It says:
 Surah An-Nisa', Verse 123
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ بِأَمَانِيِّكُمْ وَلا أَمَانِيِّ أَهْلِ الْكِتَابِ مَن
-يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلاَ يَجِدْ لَهُ مِن دُونِ اللّهِ
-وَلِيًّا وَلاَ نَصِيرًا
-  </p>
-</blockquote>
+> لَّيْسَ بِأَمَانِيِّكُمْ وَلا أَمَانِيِّ أَهْلِ الْكِتَابِ مَن
+> يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلاَ يَجِدْ لَهُ مِن دُونِ اللّهِ
+> وَلِيًّا وَلاَ نَصِيرًا
 
 **123.** ***"It is not your vain desires, nor the vain desires of the
 people of the Book. Whoever does evil shall be recompensed for it, and,
@@ -278,13 +246,9 @@ Allah, he will find for himself neither a guardian nor a helper. "***
 Surah An-Nisa', Verse 124
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَعْمَلْ مِنَ الصَّالِحَاتَ مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ
-مُؤْمِنٌ فَأُوْلَـئِكَ يَدْخُلُونَ الْجَنَّةَ وَلاَ يُظْلَمُونَ
-نَقِيرًا
-  </p>
-</blockquote>
+> وَمَن يَعْمَلْ مِنَ الصَّالِحَاتَ مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ
+> مُؤْمِنٌ فَأُوْلَـئِكَ يَدْخُلُونَ الْجَنَّةَ وَلاَ يُظْلَمُونَ
+> نَقِيرًا
 
 **124.** ***"And whoever does deeds of righteousness, whether male or
 female, and is a believer, then these shall enter Heaven and they shall
@@ -320,13 +284,9 @@ jot unjustly."***
 Surah An-Nisa', Verse 125
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُ لله وَهُوَ مُحْسِنٌ
-واتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَاتَّخَذَ اللّهُ إِبْرَاهِيمَ
-خَلِيلاً
-  </p>
-</blockquote>
+> وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُ لله وَهُوَ مُحْسِنٌ
+> واتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَاتَّخَذَ اللّهُ إِبْرَاهِيمَ
+> خَلِيلاً
 
 **125.** ***"And who is better in religion than the one who surrenders
 himself entirely to Allah while he is righteous and follows the creed of
@@ -374,12 +334,8 @@ his hospitality. [^2]
 Surah An-Nisa', Verse 126
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَللّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَانَ اللّهُ
-بِكُلِّ شَيْءٍ مُّحِيطًا
-  </p>
-</blockquote>
+> وَللّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَكَانَ اللّهُ
+> بِكُلِّ شَيْءٍ مُّحِيطًا
 
 **126.** ***"And to Allah belongs whatever is in the heavens and
 whatever is in the earth, and Allah encompasses all things."***
@@ -398,5 +354,4 @@ conspicuous attributes that Abraham had.
 [^1]: Tafsir-ul-Burhan, Vol. 1, P. 464.
 
 [^2]: At-Tafsir-ul-Burhan, vol. 1, p. 417.
-
 

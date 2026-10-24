@@ -4,12 +4,8 @@ Section 7: The Hypocrites
 Surah At-Tawbah – Verse 43
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَفَا اللّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّى يَتَبَيَّنَ لَكَ
-الَّذِينَ صَدَقُوا وَتَعْلَمَ الْكاذِبِينَ
-  </p>
-</blockquote>
+> عَفَا اللّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّى يَتَبَيَّنَ لَكَ
+> الَّذِينَ صَدَقُوا وَتَعْلَمَ الْكاذِبِينَ
 
 **43*****. “May Allah pardon you! Why did you give them leave before you
 had found out those who spoke the truth and before you had known the
@@ -59,13 +55,9 @@ friend and your advocate.
 Surah At-Tawbah – Verse 44
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لا يَسْتَأْذِنُكَ الَّذِينَ يُؤْمِنُونَ بِاللّهِ وَالْيَوْمِ الاَخِرِ
-أَن يُجَاهِدُوا بِاَمْوَالِهِمْ وَأَنْفُسِهِمْ وَاللّهُ عَلِيمٌ
-بِالْمُتَّقِينَ
-  </p>
-</blockquote>
+> لا يَسْتَأْذِنُكَ الَّذِينَ يُؤْمِنُونَ بِاللّهِ وَالْيَوْمِ الاَخِرِ
+> أَن يُجَاهِدُوا بِاَمْوَالِهِمْ وَأَنْفُسِهِمْ وَاللّهُ عَلِيمٌ
+> بِالْمُتَّقِينَ
 
 **44*****. “Those who believe in Allah and the Last Day do not ask you
 for leave, (to be exempt) from striving with their possessions and their
@@ -105,12 +97,8 @@ during the time of peace. The verse continues saying:
 Surah At-Tawbah – Verse 45
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَسْتَأْذِنُكَ الَّذِينَ لايُؤْمِنُونَ بِاللّهِ وَالْيَوْمِ
-الاَخِرِ وَارْتَابَتْ قُلُوبُهُمْ فَهُمْ فِي رَيْبِهِمْ يَتَرَدَّدُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَسْتَأْذِنُكَ الَّذِينَ لايُؤْمِنُونَ بِاللّهِ وَالْيَوْمِ
+> الاَخِرِ وَارْتَابَتْ قُلُوبُهُمْ فَهُمْ فِي رَيْبِهِمْ يَتَرَدَّدُونَ
 
 **45*****. “Only those ask leave from you who do not believe in Allah
 and the Last Day and their hearts are in doubt, so they waver in their
@@ -151,13 +139,9 @@ Hadrat Amir-ul-Mu’mineen Ali (as) in one of his sayings has cited:
 Surah At-Tawbah – Verse 46
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَرَادُوا الْخُرُوجَ لأَعَدُّوا لَهُ عُدَّةً وَلَكِن كَرِهَ
-اللّهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ
-الْقَاعِدِينَ
-  </p>
-</blockquote>
+> وَلَوْ أَرَادُوا الْخُرُوجَ لأَعَدُّوا لَهُ عُدَّةً وَلَكِن كَرِهَ
+> اللّهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ
+> الْقَاعِدِينَ
 
 **46*****. “And if they had intended to go forth, they would have
 certainly provided equipment for it, but Allah was averse to their going
@@ -198,13 +182,9 @@ is a negation of Divine succor, not a practical prohibition.
 Surah At-Tawbah – Verse 47
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْ خَرَجُوا فِيكُمْ مَا زَادُوكُمْ إِلاَّ خَبَالاً وَلأَوْضَعُوا
-خِلاَلَكُمْ يَبْغُونَكُمُ الْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ
-وَاللّهُ عَلِيمٌ بِالظَّالِمِينَ
-  </p>
-</blockquote>
+> لَوْ خَرَجُوا فِيكُمْ مَا زَادُوكُمْ إِلاَّ خَبَالاً وَلأَوْضَعُوا
+> خِلاَلَكُمْ يَبْغُونَكُمُ الْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ
+> وَاللّهُ عَلِيمٌ بِالظَّالِمِينَ
 
 **47*****. “Had they gone forth among you, they would not have increased
 to you aught save corruption, and they would have certainly hurried
@@ -240,12 +220,8 @@ all their plots. The verse says:
 Surah At-Tawbah – Verse 48
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدِ ابْتَغَوُا الْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا لَكَ الاُمُورَ
-حَتَّى جَآءَ الْحَقُّ وَظَهَرَ أَمْرُ اللّهِ وَهُمْ كَارِهُونَ
-  </p>
-</blockquote>
+> لَقَدِ ابْتَغَوُا الْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا لَكَ الاُمُورَ
+> حَتَّى جَآءَ الْحَقُّ وَظَهَرَ أَمْرُ اللّهِ وَهُمْ كَارِهُونَ
 
 **48*****. “They certainly sought to stir up sedition already before,
 and turned matters upside down for you, until the truth came and Allah’s
@@ -297,12 +273,8 @@ destroy the plans of the hypocrites:
 Surah At-Tawbah – Verse 49
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُم مَن يَقُولُ ائْذَن لِي وَلا تَفْتِنِّي أَلاَ فِي الْفِتْنَةِ
-سَقَطُوا وإِنَّ جَهَنَّمَ لَمحِيطَةٌ بِالْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمِنْهُم مَن يَقُولُ ائْذَن لِي وَلا تَفْتِنِّي أَلاَ فِي الْفِتْنَةِ
+> سَقَطُوا وإِنَّ جَهَنَّمَ لَمحِيطَةٌ بِالْكَافِرِينَ
 
 **49*****. “And among them there is he who says: ‘Give me leave and do
 not tempt me.’ Surely into temptation have they already fallen; and
@@ -341,12 +313,8 @@ encompassment of sin upon their entity. The verse continues saying:
 Surah At-Tawbah – Verse 50
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا
-قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوْا وَهُمْ فَرِحُونَ
-  </p>
-</blockquote>
+> إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا
+> قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوْا وَهُمْ فَرِحُونَ
 
 **50*****. “If (any) good befalls you, it vexes them; but if an
 affliction visits you, they say: ‘We had taken care of our affair in
@@ -372,12 +340,8 @@ they turn away, rejoicing.”***
 Surah At-Tawbah – Verse 51
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَن يُصِيبَنَآ إِلاَّ مَاكَتَبَ اللّهُ لَنَا هُوَ مَوْلاَنَا
-وَعَلى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُل لَن يُصِيبَنَآ إِلاَّ مَاكَتَبَ اللّهُ لَنَا هُوَ مَوْلاَنَا
+> وَعَلى اللّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
 **51*****. “Say: ‘Never shall afflict us (anything) save what Allah has
 prescribed for us; He is our Master; and on Allah should the believers
@@ -410,13 +374,9 @@ of Faith is relying on Allah. The verse says:
 Surah At-Tawbah – Verse 52
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلآَّ إِحْدَى الْحُسْنَيَيْنِ وَنَحْنُ
-نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ اللّهُ بِعَذَابٍ مِنْ عِندِهِ أَوْ
-بِاَيْدِينَا فَتَرَبَّصُوا إِنَّا مَعَكُمْ مُتَرَبِّصُونَ
-  </p>
-</blockquote>
+> قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلآَّ إِحْدَى الْحُسْنَيَيْنِ وَنَحْنُ
+> نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ اللّهُ بِعَذَابٍ مِنْ عِندِهِ أَوْ
+> بِاَيْدِينَا فَتَرَبَّصُوا إِنَّا مَعَكُمْ مُتَرَبِّصُونَ
 
 **52*****. “Say: ‘Do you await for us but one of the two excellences?
 And we await for you that Allah will afflict you with punishment from
@@ -452,12 +412,8 @@ other. The verse continues saying:
 Surah At-Tawbah – Verse 53
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَنفِقُوا طَوْعاً أَوْ كَرْهاً لَن يُتَقَبَّلَ مِنكُمْ إِنَّكُمْ
-كُنتُمْ قَوْماً فَاسِقِينَ
-  </p>
-</blockquote>
+> قُلْ أَنفِقُوا طَوْعاً أَوْ كَرْهاً لَن يُتَقَبَّلَ مِنكُمْ إِنَّكُمْ
+> كُنتُمْ قَوْماً فَاسِقِينَ
 
 **53*****. “Say: ‘Spend willingly or unwillingly, it shall never be
 accepted from you; (for) verily you have ever been an ungodly
@@ -487,13 +443,9 @@ Islam.
 Surah At-Tawbah – Verse 54
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَاتُهُمْ اِلآَّ أَنَّهُمْ
-كَفَرُوا بِاللّهِ وَبِرَسُولِهِ وَلا يَأْتُونَ الصَّلاَةَ إِلاَّ
-وَهُمْ كُسَالَى وَلا يُنفِقُونَ إِلاَّ وَهُمْ كَارِهُونَ
-  </p>
-</blockquote>
+> وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَاتُهُمْ اِلآَّ أَنَّهُمْ
+> كَفَرُوا بِاللّهِ وَبِرَسُولِهِ وَلا يَأْتُونَ الصَّلاَةَ إِلاَّ
+> وَهُمْ كُسَالَى وَلا يُنفِقُونَ إِلاَّ وَهُمْ كَارِهُونَ
 
 **54*****. “And naught prevented that their spendings should be accepted
 from them, save that they have disbelieved in Allah and in his
@@ -552,13 +504,9 @@ infidelity, and the second is that it is performed sluggishly.
 Surah At-Tawbah – Verse 55
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَا تُعْجِبْكَ أَمْوَالُهُمْ وَلآ أَوْلاَدُهُمْ إِنَّما يُرِيدُ
-اللّهُ لِيُعَذِّبَهُم بِهَا فِي الْحَيَاةِ الدُّنْيَا وَتَزْهَقَ
-أَنْفُسُهُمْ وَهُمْ كَافِرُونَ
-  </p>
-</blockquote>
+> فَلَا تُعْجِبْكَ أَمْوَالُهُمْ وَلآ أَوْلاَدُهُمْ إِنَّما يُرِيدُ
+> اللّهُ لِيُعَذِّبَهُم بِهَا فِي الْحَيَاةِ الدُّنْيَا وَتَزْهَقَ
+> أَنْفُسُهُمْ وَهُمْ كَافِرُونَ
 
 **55*****. “So let not their possessions and their issues astonish you;
 verily Allah only desires thereby to chastise them in the life of (this)
@@ -599,12 +547,8 @@ painful torment for their holders.
 Surah At-Tawbah – Verse 56
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَحْلِفُونَ بِاللّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُمْ مِنكُمْ
-وَلَكِنَّهُمْ قَوْمٌ يَفْرَقُونَ
-  </p>
-</blockquote>
+> وَيَحْلِفُونَ بِاللّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُمْ مِنكُمْ
+> وَلَكِنَّهُمْ قَوْمٌ يَفْرَقُونَ
 
 **56*****. “And they swear by Allah that they are most surely of you,
 while they are not of you. But they are a people that are afraid.”***
@@ -625,12 +569,8 @@ However, heartily fear and terror are among the signs of hypocrites.
 Surah At-Tawbah – Verse 57
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْ يَجِدُونَ مَلْجَأً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلاً لَوَلَّوْا
-إِلَيْهِ وَهُمْ يَجْمَحُونَ
-  </p>
-</blockquote>
+> لَوْ يَجِدُونَ مَلْجَأً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلاً لَوَلَّوْا
+> إِلَيْهِ وَهُمْ يَجْمَحُونَ
 
 **57*****. “If they (the hypocrites) could find a refuge, or caves or a
 place to enter therein, they would certainly turn thereto, running away
@@ -662,12 +602,8 @@ haste.”***
 Surah At-Tawbah – Verse 58
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُمْ مَن يَلْمِزُكَ فِي الصَّدَقَاتِ فَإِنْ اُعْطُوا مِنْهَا
-رَضُوا وَإِن لَمْ يُعْطَوْا مِنْهَآ إِذَا هُمْ يَسْخَطُونَ
-  </p>
-</blockquote>
+> وَمِنْهُمْ مَن يَلْمِزُكَ فِي الصَّدَقَاتِ فَإِنْ اُعْطُوا مِنْهَا
+> رَضُوا وَإِن لَمْ يُعْطَوْا مِنْهَآ إِذَا هُمْ يَسْخَطُونَ
 
 **58*****. “And some of them find fault with you regarding to the
 (distribution of) alms; so if they are given from them, they are
@@ -709,13 +645,9 @@ are not given from them, they are enraged.”***
 Surah At-Tawbah – Verse 59
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ رَضُوا مَآءَاتَاهُمُ اللّهُ وَرَسُولُهُ وَقَالُوا
-حَسْبُنَا اللّهُ سَيُؤْتِينَا اللّهُ مِن فَضْلِهِ وَرَسُولُهُ إِنَّآ
-إِلَى اللّهِ رَاغِبُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ رَضُوا مَآءَاتَاهُمُ اللّهُ وَرَسُولُهُ وَقَالُوا
+> حَسْبُنَا اللّهُ سَيُؤْتِينَا اللّهُ مِن فَضْلِهِ وَرَسُولُهُ إِنَّآ
+> إِلَى اللّهِ رَاغِبُونَ
 
 **59*****. “And if they were content with what Allah and His Messenger
 gave them and they said: ‘Allah is sufficient for us; Allah will soon
@@ -760,5 +692,4 @@ Allah’s promises to the believers, and the bounties of Heaven.
 [^2]: Nahjul-Balāghah, saying No. 31, p. 550 (English version)
 
 [^3]: Surah ‘Al-i-‘Imrān, No. 3, verse 122
-
 

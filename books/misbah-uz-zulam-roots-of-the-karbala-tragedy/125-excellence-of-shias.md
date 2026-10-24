@@ -135,4 +135,3 @@ Judgment Day.
 [^9]: Refer to the discussion of justification of cursing the Imamiyah
 sect in the previous pages of this book.
 
-

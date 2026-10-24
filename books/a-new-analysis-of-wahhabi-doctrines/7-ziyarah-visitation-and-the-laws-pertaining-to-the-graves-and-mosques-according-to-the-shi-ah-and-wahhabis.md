@@ -25,12 +25,8 @@ Islam, elaborates that *ziyarah* is permissible for men while
 undesiderable {*makru*h} for women. In confirming this view, he has
 cited the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-لَعَنَ اللهُ زُوّارَاتِ القُبُورِ، الْمُتَّخِذَاتِ عَلَيْهِنَّ
-الْمَسَاجِدَ وَالسُّرَجَ.
-  </p>
-</blockquote>
+> لَعَنَ اللهُ زُوّارَاتِ القُبُورِ، الْمُتَّخِذَاتِ عَلَيْهِنَّ
+> الْمَسَاجِدَ وَالسُّرَجَ.
 
 Allah curses the visitors of the graves, especially women who light
 candles on the graves and take them as their place of prostration or
@@ -57,13 +53,9 @@ beside the grave *surahs* of *at-Tawhid* (*al-Ikhlas*) and *Ya Sin*, and
 permissible. In case of its permissibility, man and woman should recite
 this salutation:
 
-<blockquote dir="rtl">
-  <p>
-السَّلاَمُ عَلَيْكُمْ أهْلَ الدِّيَارِ مِنَ الْمُؤمِنِينَ
-وَالْمُسْلِمِينَ، إنَّا إنْ شَاءَ اللهُ بِكُمْ لاَحِقُونَ، نَسْألُ
-اللهَ لَنَا وَلَكُمُ العَافِيَةَ.
-  </p>
-</blockquote>
+> السَّلاَمُ عَلَيْكُمْ أهْلَ الدِّيَارِ مِنَ الْمُؤمِنِينَ
+> وَالْمُسْلِمِينَ، إنَّا إنْ شَاءَ اللهُ بِكُمْ لاَحِقُونَ، نَسْألُ
+> اللهَ لَنَا وَلَكُمُ العَافِيَةَ.
 
 *“Peace be upon you, O believers and Muslims who inhabit these graves.
 We will join you, God willing. We pray Allah for wellbeing for you and
@@ -72,12 +64,8 @@ us.”*[^2]
 Ibn al-Qudamah does not regard the *ziyarah* as permissible for women,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-وَتُكْرَهُ لِلنِّسَاءِ، لأنَّ النَّبِيَّ  قَالَ: لَعَنَ اللهُ
-زُوَّارَاتِ القُبُورِ…
-  </p>
-</blockquote>
+> وَتُكْرَهُ لِلنِّسَاءِ، لأنَّ النَّبِيَّ  قَالَ: لَعَنَ اللهُ
+> زُوَّارَاتِ القُبُورِ…
 
 Ziyarah for women is *makruh* (dis commended) because the Prophet said,
 'Allah curses the women who visit the graves'.
@@ -86,21 +74,13 @@ He believed that the Prophet (s) initially prohibited *ziyarah* for
 women and the phrase, “Allah curses…” bespeaks of this fact. But
 afterward, he considered the *ziyarah* for women as permissible, saying:
 
-<blockquote dir="rtl">
-  <p>
-كُنْتُ نَهَيْتُكُمْ عَنْ زِيَارَةِ القُبُورِ، فَزُورُوهَا.
-  </p>
-</blockquote>
+> كُنْتُ نَهَيْتُكُمْ عَنْ زِيَارَةِ القُبُورِ، فَزُورُوهَا.
 
 I was prohibiting you from visiting to grave in the past, but now you
 may do so.  
  Ibn al-Qudamah also says:
 
-<blockquote dir="rtl">
-  <p>
-وَرَوَى التِّرْمِذِيُّ أنَّ عَائِشَةَ زَارَتْ قَبْرَ أخِيهَا.
-  </p>
-</blockquote>
+> وَرَوَى التِّرْمِذِيُّ أنَّ عَائِشَةَ زَارَتْ قَبْرَ أخِيهَا.
 
 Tirmidhi narrated that 'a'ishah visited the grave of her brother ('Abd
 ar-Rahman).  
@@ -124,13 +104,9 @@ have consensus of opinion that at the time of death of a believer, he
 would go to his grave and express condolences to the bereaved ones. It
 is also stated in the Holy Qur'an, thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلاَ تُصَلِّ عَلَى أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا وَلاَ تَقُمْ عَلَى
-قَبْرِهِ إِنَّهُمْ كَفَرُوا بِاللَّهِ وَرَسُولِهِ وَمَاتُوا وَهُمْ
-فَاسِقُونَ.﴾
-  </p>
-</blockquote>
+> ﴿وَلاَ تُصَلِّ عَلَى أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا وَلاَ تَقُمْ عَلَى
+> قَبْرِهِ إِنَّهُمْ كَفَرُوا بِاللَّهِ وَرَسُولِهِ وَمَاتُوا وَهُمْ
+> فَاسِقُونَ.﴾
 
 ***And never pray over any of them when he dies, nor stand on his
 graveside. They indeed defied Allah and His Apostle and died as
@@ -153,11 +129,7 @@ It is thus recorded in history books attributed to the Ahl as-Sunnah:
 Every year the Prophet (s) would visit the graves of the martyrs
 {*shuhada*'} of the Battle of Uhud and recite this prayer {*ziyarah*}:
 
-<blockquote dir="rtl">
-  <p>
-السَلاَمُ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِ.
-  </p>
-</blockquote>
+> السَلاَمُ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِ.
 
 Peace be on you because you were constant, how excellent, is then, the
 issue of the abode.  
@@ -168,11 +140,7 @@ of Uhud two days a week. During his visit to the martyrs, especially in
 the *ziyarah* to Hamzah and Mus'ab ibn 'Umayr, the Holy Prophet (s)
 would recite this verse,
 
-<blockquote dir="rtl">
-  <p>
-رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ.
-  </p>
-</blockquote>
+> رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ.
 
 ***Men who fulfill what they have pledged to Allah**.*[^6]
 
@@ -313,12 +281,8 @@ improper and against the religion.
 
 The Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَجْعَلُوا بُيُوتَكُمْ قُبُوراً، وَلاَ تَجْعَلُوا قَبْرِي عِيداً،
-وَصَلُّوا عَلَيَّ؛ فَإنَّ صَلاتَكُمْ تَبْلُغُنِي حَيْثُ كُنْتُمْ.
-  </p>
-</blockquote>
+> لاَ تَجْعَلُوا بُيُوتَكُمْ قُبُوراً، وَلاَ تَجْعَلُوا قَبْرِي عِيداً،
+> وَصَلُّوا عَلَيَّ؛ فَإنَّ صَلاتَكُمْ تَبْلُغُنِي حَيْثُ كُنْتُمْ.
 
 *Do not convert your houses into a graveyard and do not make my grave as
 a site for festivity {'id}. Send salutations to me as your salutations,
@@ -354,12 +318,8 @@ disease and unpleasantness. Of course, this expression does not include
 the Prophet (s) and the infallible Imams (*'a*) because their bodies and
 souls, based on this Verse of Purification {*ayat* *at-tathir*},
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
 
 ***Indeed Allah desires to repel all impurity from you, O People of the
 Household, and purify you with a thorough purification**,*[^11]71
@@ -387,15 +347,11 @@ acceptable, the Wahhabis utilized the verse below although no part of it
 can actually be taken to substantiate their belief. The verse in
 question thus states:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَذَلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوا أَنَّ وَعْدَ اللَّهِ
-حَقٌّ وَأَنَّ السَّاعَةَ لاَ رَيْبَ فِيهَا إِذْ يَتَنَازَعُونَ
-بَيْنَهُمْ أَمْرَهُمْ فَقَالُوا ابْنُوا عَلَيْهِمْ بُنْيَانًا
-رَبُّهُمْ أَعْلَمُ بِهِمْ قَالَ الَّذِينَ غَلَبُوا عَلَى أَمْرِهِمْ
-لَنَتَّخِذَنَّ عَلَيْهِمْ مَسْجِدًا.﴾
-  </p>
-</blockquote>
+> ﴿وَكَذَلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوا أَنَّ وَعْدَ اللَّهِ
+> حَقٌّ وَأَنَّ السَّاعَةَ لاَ رَيْبَ فِيهَا إِذْ يَتَنَازَعُونَ
+> بَيْنَهُمْ أَمْرَهُمْ فَقَالُوا ابْنُوا عَلَيْهِمْ بُنْيَانًا
+> رَبُّهُمْ أَعْلَمُ بِهِمْ قَالَ الَّذِينَ غَلَبُوا عَلَى أَمْرِهِمْ
+> لَنَتَّخِذَنَّ عَلَيْهِمْ مَسْجِدًا.﴾
 
 ***So it was that We let them come upon them, that they might know that
 Allah's promise is true, and that there is no doubt in the Hour. As they
@@ -414,12 +370,8 @@ tradition, no matter how weak {*da'if*} it is. For example, they have
 resorted to the following tradition, whose authenticity has no basis,
 for whatever purpose it may serve them:
 
-<blockquote dir="rtl">
-  <p>
-لَعَنَ اللهُ اليَهُودَ وَالنَّصَارَى؛ إتَّخَذُوا قُبُورَ
-أنْبِيَائِهِمْ وَصَالِحِيهِمْ مَسَاجِدَ.
-  </p>
-</blockquote>
+> لَعَنَ اللهُ اليَهُودَ وَالنَّصَارَى؛ إتَّخَذُوا قُبُورَ
+> أنْبِيَائِهِمْ وَصَالِحِيهِمْ مَسَاجِدَ.
 
 *Allah curses the Jews and the Christians for making the graves of their
 prophets and righteous ones as places of worship*.[^14]
@@ -489,15 +441,11 @@ points to some traditions that confirm the permissibility of praying
 near the shrines of the Imams (*'a*). For instance, he narrates that the
 Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-“…وَاللهِ لَتُقْتَلُنَّ بِأرْضِ العِرَاقِ وَتُدْفَنُ بِهَا.” قُلْتُ:
-“يَا رَسُولَ اللهِ! مَا لِمَنْ زَارَ قُبُورَنَا وَعَمَّرَهَا
-وَتَعَاهَدَهَا؟” فَقَالَ لِي: “يَا أبَا الْحَسَنِ! إنَّ اللهَ تَعَالَى
-جَعَلَ قَبْرَكَ وَقَبْرَ وُلْدِكَ بِقَاعاً مِنْ بِقَاعِ الْجَنَّةِ
-وَعَرَصَةً مِنْ عَرَصَاتِهَا.”
-  </p>
-</blockquote>
+> “…وَاللهِ لَتُقْتَلُنَّ بِأرْضِ العِرَاقِ وَتُدْفَنُ بِهَا.” قُلْتُ:
+> “يَا رَسُولَ اللهِ! مَا لِمَنْ زَارَ قُبُورَنَا وَعَمَّرَهَا
+> وَتَعَاهَدَهَا؟” فَقَالَ لِي: “يَا أبَا الْحَسَنِ! إنَّ اللهَ تَعَالَى
+> جَعَلَ قَبْرَكَ وَقَبْرَ وُلْدِكَ بِقَاعاً مِنْ بِقَاعِ الْجَنَّةِ
+> وَعَرَصَةً مِنْ عَرَصَاتِهَا.”
 
 {The Prophet (s) said:} “You shall be killed in Iraq and you shall also
 be buried there!” I (Imam 'Ali (*'a*)) said: O Messenger of Allah! What
@@ -517,13 +465,9 @@ must not be elevated beyond the ground level, or that a mausoleum should
 not be constructed upon graves. Abu'l-Hayyaj narrates that 'Ali (*'a*)
 said:
 
-<blockquote dir="rtl">
-  <p>
-ألاَ أبْعَثُكَ عَلَى مَا بَعَثَنِي عَلَيْهِ رَسُولُ اللهِ ؟ أنْ لاَ
-تَدَعَ قَبْراً مُشْرِفاً إلاَّ سَوَّيْتَهُ، وَلاَ تِمْثالاً إلاَّ
-طَمَسْتَهُ.
-  </p>
-</blockquote>
+> ألاَ أبْعَثُكَ عَلَى مَا بَعَثَنِي عَلَيْهِ رَسُولُ اللهِ ؟ أنْ لاَ
+> تَدَعَ قَبْراً مُشْرِفاً إلاَّ سَوَّيْتَهُ، وَلاَ تِمْثالاً إلاَّ
+> طَمَسْتَهُ.
 
 {O Abu'l-Hayyaj!} Be aware that I shall send you for a mission for which
 I was dispatched by the Messenger of Allah (s). Your mission is to level
@@ -547,21 +491,13 @@ the book, *Al-Ghadir*, that “Malik ibn Anas passed away in 179 AH and
 his grave is in Medina, in the Baqi' cemetery in particular, and has a
 small dome and a small building:[^18]
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ قُبَّةٌ صَغِيرَةٌ مُخْتَصَرُ البِنَاءِ.
-  </p>
-</blockquote>
+> عَلَيْهِ قُبَّةٌ صَغِيرَةٌ مُخْتَصَرُ البِنَاءِ.
 
 Therefore, it is permissible to construct domes and shrine according to
 the Maliki *'ulama*'. In the book, *Al-Fiqh 'ala al-Madhahib
 al-Arba'ah*, it is thus stated about the manner of making grave:
 
-<blockquote dir="rtl">
-  <p>
-وَيُنْدَبُ ارْتِفَاعُ التُّرَابِ فَوْقَ الْقَبْرِ بِقَدَرِ شِبْرٍ.
-  </p>
-</blockquote>
+> وَيُنْدَبُ ارْتِفَاعُ التُّرَابِ فَوْقَ الْقَبْرِ بِقَدَرِ شِبْرٍ.
 
 It is *mustahabb* for the grave to be an inch above the ground.[^19]
 
@@ -594,12 +530,8 @@ al-Wahhab believe that traveling with the intention of surveying mosques
 is unlawful. Their main basis is a tradition on the authority of Abu
 Sa'id who narrated that the Messenger of Allah (s) said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُشَدُّ الرِّحَالُ إلاَّ إلَى ثَلاَثَةِ مَسَاجِدَ: الْمَسْجِدُ
-الْحَرَامُ، وَمَسْجِدِي هَذَا، وَالْمَسْجِدُ الأقْصَى.
-  </p>
-</blockquote>
+> لاَ تُشَدُّ الرِّحَالُ إلاَّ إلَى ثَلاَثَةِ مَسَاجِدَ: الْمَسْجِدُ
+> الْحَرَامُ، وَمَسْجِدِي هَذَا، وَالْمَسْجِدُ الأقْصَى.
 
 You are not supposed to travel except for the visitation {*ziyarah*} of
 three mosques: Masjid al-Haram (in Mecca), this mosque of mine (Masjid
@@ -608,12 +540,8 @@ an-Nabi in Medina), and Masjid al-Aqsa (in Jerusalem).
 The Wahhabis have concluded from this *hadith* that travel to see other
 mosques are not lawful. Muhammad ibn 'Abd al-Wahhab also says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَافَرَ لِمُجَرَّدِ زِيَارَةِ قُبُورِ الأنْبِيَاءِ
-وَالصَّالِحِينَ فَهُوَ مُشْرِكٌ.
-  </p>
-</blockquote>
+> مَنْ سَافَرَ لِمُجَرَّدِ زِيَارَةِ قُبُورِ الأنْبِيَاءِ
+> وَالصَّالِحِينَ فَهُوَ مُشْرِكٌ.
 
 He who travels only to visit the graves of the prophets and the pious is
 a polytheist.[^20]
@@ -664,5 +592,4 @@ buried in Qum. [Trans.]
 [^19]: Al-Fiqh ‘ala al-Madhahib al-Arba‘ah, vol. 1, p. 420.
 
 [^20]: Fath al-Majid, p. 261.
-
 

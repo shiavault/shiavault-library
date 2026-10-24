@@ -21,4 +21,3 @@ Fatima (peace be upon her) has got these two valuable drops. After the
 Prophet’s demise, in about three months, she passed away, and it is said
 that she was not more than 18 years old.
 
-

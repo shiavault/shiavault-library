@@ -16,16 +16,10 @@ substance and his inner destitution is flooded with love of praise and
 enveloped in the darkness of greed. How seduced he is by his passion!
 How he leads people astray with his words! As Allah has said,
 
-
-<blockquote dir="rtl">
-  <p>
-لَبِئْسَ الْمَوْلَى وَلَبِئْسَ الْعَشِيرُ
-  </p>
-</blockquote>
+> لَبِئْسَ الْمَوْلَى وَلَبِئْسَ الْعَشِيرُ
 
 ***Evil certainly is the guardian and evil certainly is the
 associate.*** (22:13)
-
 
 But whoever Allah has protected by the light of tawhid, support, and
 excellent success, his heart is cleansed of impurity. He does not
@@ -49,5 +43,4 @@ blessing. Beware of the proof against you, and make his time in your
 company pleasant, so that you do not reproach him and lose. Look at him
 with the eye of Allah's favour upon him, His selecting him and His
 honouring him.
-
 

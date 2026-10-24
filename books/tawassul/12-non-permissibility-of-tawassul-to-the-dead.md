@@ -47,4 +47,3 @@ he adds, without the least doubt*tawassul* to Prophet Muhammad
 includes both his lifetime and after his death as well as in the
 Hereafter.[^33]
 
-

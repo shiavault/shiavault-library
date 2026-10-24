@@ -11,23 +11,15 @@ If the commentary of the Qur\`an requires such a series of preparatory
 steps as have been mentioned, then why has the Qur\`an referred to
 itself with the following description:
 
-<blockquote dir="rtl">
-  <p>
-وَ هٌذَا لِسَانٌ عَرَبِيٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> وَ هٌذَا لِسَانٌ عَرَبِيٌّ مُّبِينٌ
 
 ***“And this (the Qur\`an) is in a clear, understandable,
 Arabic.”***[^1]
 
 In another instance, we read:
 
-<blockquote dir="rtl">
-  <p>
-نَـزَلَ بِهِ الرُّوحُ الأَمِينُ ٭ عَلَى قَلْبِكَ لِتَكُونَ مِــنَ
-الْمُنْذِرِينَ ٭ بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ
-  </p>
-</blockquote>
+> نَـزَلَ بِهِ الرُّوحُ الأَمِينُ ٭ عَلَى قَلْبِكَ لِتَكُونَ مِــنَ
+> الْمُنْذِرِينَ ٭ بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ
 
 ***“The Trustworthy Spirit (Jibra\`il) has brought this (the Qur\`an) to
 your (Muhammad) heart so that you may be amongst the warners, in a
@@ -47,13 +39,9 @@ had to state that, “Muhammad learned the Qur\`an from two Roman slaves
 named Jabr and Yasar and others like them”[^3], and this is what has
 been alluded to in a verse of the Qur\`an where it states:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَـرٌ
-لِسَانُ الَّذِي يُلْحِدُونَ إِلَـيْهِ أَعْجَمِيٌّ وَّهٌذَا لِــسَانٌ
-عَرَبِيٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَـرٌ
+> لِسَانُ الَّذِي يُلْحِدُونَ إِلَـيْهِ أَعْجَمِيٌّ وَّهٌذَا لِــسَانٌ
+> عَرَبِيٌّ مُّبِينٌ
 
 ***“And certainly We*** ***indeed know that they say, “It is a mortal
 human being who teaches him (Muhammad).” The tongue (language) of him,
@@ -135,14 +123,10 @@ offered a reply to an ambassador who had travelled from Iran, looking
 for answers in regards to various inexplicable signs which were seen on
 the night of the birth of the Messenger of Allah, Muhammad (‘s)[^5]:
 
-<blockquote dir="rtl">
-  <p>
-عَبْدُ الْمَسِيحِ عَلـى جَمَلِ مَشِيحِ، أَقْبَلَ إِلـى سَطِيحٍ، وَقَدْ
-أَوْفـى إِلـى الضَّرِيحِ بَعَثَكَ مَلِكُ سَاسَانِ، لارْتِجَاس
-الإِيوَانِ، وَرُؤْيَا الْمُؤَبِّذَانِ، رَأَى إِبِلاً صِعَاباً، تَقُودُ
-خَيْلاً عِرَاباً.
-  </p>
-</blockquote>
+> عَبْدُ الْمَسِيحِ عَلـى جَمَلِ مَشِيحِ، أَقْبَلَ إِلـى سَطِيحٍ، وَقَدْ
+> أَوْفـى إِلـى الضَّرِيحِ بَعَثَكَ مَلِكُ سَاسَانِ، لارْتِجَاس
+> الإِيوَانِ، وَرُؤْيَا الْمُؤَبِّذَانِ، رَأَى إِبِلاً صِعَاباً، تَقُودُ
+> خَيْلاً عِرَاباً.
 
 “Abd al-Masih[^6], mounted on a serious and swift camel[^7], has come to
 Satih[^8], who has already approached his death[^9]; The Sassanian king
@@ -190,11 +174,7 @@ who make use of unintelligible sentences and words…
 **Thus in summary:** Verses such as the one below and others which
 state:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ يَسَّرْنَا الْقُرَآنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ
-  </p>
-</blockquote>
+> وَلَقَدْ يَسَّرْنَا الْقُرَآنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ
 
 ***“And We have indeed made the Qur\`an easy to understand for
 remembrance, then is there any that will receive admonition?”***[^11]
@@ -262,5 +242,4 @@ However, the context of the expression implies death. (Ed.)
 [^12]: Suratul Nahl (16), Verse 78
 
 [^13]: Suratul Qiyamat (75), Verse 19
-
 

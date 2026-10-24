@@ -473,4 +473,3 @@ become legitimate unless permission is sought from the mujtahid. This is
 the underlining reason for the clause "without the permission of the
 mujtahid" in the above answer.
 
-

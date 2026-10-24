@@ -305,4 +305,3 @@ on those who follow the instruction!
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1. The number of prophets according to Muhammadan tradition.
 
-

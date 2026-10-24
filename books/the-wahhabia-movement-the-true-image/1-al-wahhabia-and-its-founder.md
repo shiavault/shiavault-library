@@ -51,4 +51,3 @@ return.
 Fitnat al-Wahhabia, p. 5; Mahmoud Shukri al-Aloosi, Al-Sawa'ik
 al-Ilahiafi al- Ra'd ala al-Wahhabia.
 
-

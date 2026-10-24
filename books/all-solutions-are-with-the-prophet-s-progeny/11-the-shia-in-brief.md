@@ -203,4 +203,3 @@ their reasons and not emotions and fanaticism?
 [^3]: The Present Islamic World, vol. 1 p. 191, quoted from
 al-Khawarizmi.
 
-

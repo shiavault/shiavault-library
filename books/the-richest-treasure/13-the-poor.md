@@ -36,4 +36,3 @@ with foresight. It is only such societies or nations who truly carry out
 with equanimity their covenant with God to discharge their duty to the
 poor.
 
-

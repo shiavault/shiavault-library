@@ -208,4 +208,3 @@ approach and style of reasoning to be closer to that of the original
 teachers of the faith. Here we are compelled to be content with these
 brief references only.
 
-

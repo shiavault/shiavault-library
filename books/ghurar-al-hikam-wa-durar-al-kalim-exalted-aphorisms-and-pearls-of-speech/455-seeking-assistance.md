@@ -27,16 +27,11 @@ the abandonment of every shortcoming (or disgraceful act) that drives
 you into doubt or surrenders you to misguidance.
 
 > 5ـ عَلَيْكَ بِالاِسْتِعانَةِ بِإلهِكَ، والرَّغْبَةِ إلَيْهِ في
-<blockquote dir="rtl">
-  <p>
-تَوْفيقِكَ، وتَرْكِكَ كُلَّ شائِبَة (شائِنَة) أوْلَجَتْكَ في شُبْهَة،
-أوْ أسْلَمَتْكَ إلى ضَلالَة.
-  </p>
-</blockquote>
+> تَوْفيقِكَ، وتَرْكِكَ كُلَّ شائِبَة (شائِنَة) أوْلَجَتْكَ في شُبْهَة،
+> أوْ أسْلَمَتْكَ إلى ضَلالَة.
 
 6. One who seeks assistance from the people of intellect traverses the
 path of right guidance.
 
 > 6ـ مَنِ اسْتَعانَ بِذَوِى الألْبابِ سَلَكَ سَبيلَ الرَّشادِ.
-
 

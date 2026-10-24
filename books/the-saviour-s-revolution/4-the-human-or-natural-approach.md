@@ -372,4 +372,3 @@ moral and human, not material, nor is it a class war.
 
 [^1]: See: Sermon 154, Peak of Eloquence, Nahjul Balaghah, ISP 1979.
 
-

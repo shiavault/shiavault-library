@@ -87,4 +87,3 @@ Tehran, Karachi, Mumbai, Jakarta, Kuwait, Qatar, Ahsa’ and QaUif
 provinces (Arabia), Afghanistan, Damascus, Libya, Tunisia, Algeria,
 Jordan, African countries, Europe, America and elsewhere.14
 
-

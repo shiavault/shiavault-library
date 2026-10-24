@@ -16,11 +16,7 @@ The Possibility of Concentration In Prayer
 
 Almighty Allah says in the Holy Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
 
 ***Allah does not charge a soul Save to its capacity.***[^1]
 
@@ -110,11 +106,7 @@ Can such directions of guidance be taught to the believer if they are
 impossible to achieve? Obviously Allah does not burden any soul save
 what it can bear to handle. The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا
 
 ***Allah does not charge a soul save to its capacity.***[^4]
 
@@ -123,11 +115,7 @@ prayer. The task being difficult cannot be taken as a reason of its
 impossibility. If man struggles and is orderly in his venture, he would
 achieve his objective. The Holy Qur'an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَن لَّيْسَ لِلإنسَانِ إلاَّ مَا سَعَى
-  </p>
-</blockquote>
+> وَأَن لَّيْسَ لِلإنسَانِ إلاَّ مَا سَعَى
 
 ***And that a man shall have to his account only as he has
 labored.***[^5]
@@ -154,5 +142,4 @@ Therefore attention in prayer is a possible phenomenon.
 [^4]: Holy Qur'an, 2:286
 
 [^5]: Ibid., 53:39
-
 

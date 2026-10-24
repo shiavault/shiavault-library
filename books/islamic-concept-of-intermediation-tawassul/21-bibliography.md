@@ -751,4 +751,3 @@ Matba‘at-ul-istiqāmah, 2nd ed. 1373/1953.
 193. Commentary (Sharh Zurqānī ‘alā al-Mawāhib-ul-laduniyyah), Beirut,
 Lebanon: Dār-ul-kutub-il-‘ilmiyyah, 1st ed. 1417/1996.
 
-

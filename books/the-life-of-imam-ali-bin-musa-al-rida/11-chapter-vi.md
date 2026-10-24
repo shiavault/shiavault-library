@@ -1,10 +1,6 @@
 Chapter Vi
 ==========
 
-  
-
-  
-
 HIS WORKS
 =========
 
@@ -36,10 +32,6 @@ dictated to him:
 In the name of Allah, the Most Gracious, the Most Merciful. It is
 sufficient for us to witness that there is no god but Allah, Who is
 Unique,  Everlasting Refuge, has not taken a consort nor a son, Self-  
-
-  
-
-  
 
 subsistent, All-hearing, All-seeing, Strong, All-steadfast, Eternal,
 Light, Knower never be ignorant, Powerful never be incapable, Rich never
@@ -77,10 +69,6 @@ inheritors; all those who have opposed them are straying and misleading
 and leaving the truth and guidance; it is they who express the Qurān and
 speaks on behalf of the Messenger with  
 
-  
-
-  
-
 eloquence. He who dies and does not know their names and their fathers
 names dies as those who died before Islam. Surely of their religion are
 piety, chastity, truthfulness, righteousness, diligence, returning the
@@ -117,12 +105,6 @@ face and hands, rubbing the head and feet. One is a religious duty and
 two are recommended. He who increases *(wudū)* is sinful and is not
 rewarded. Nothing invalidates *wudū* except flatus, urine, feces, sleep,
 and *janāba* (sexual intercourse or just discharge of semen).
-
-  
-
-  
-
-  
 
 He who rubs over the shoes opposes Allah, His Apostle, and His Book, and
 his *wudū* is invalid. That is because Ali, peace be on him,  opposed
@@ -162,12 +144,6 @@ the Book of Allah and the Sunna (practices) of His Messenger, and his
 *wudū*  is invalid, as it has been mentioned by the Imām, peace be on
 him, and the successive texts (traditions) transmitted from the Imāms of
 the members of the House (*ahl al-Bayt)*, peace be on them.
-
-  
-
-  
-
-  
 
 ### 2. Things that Invalidate *wudū*
 
@@ -215,12 +191,6 @@ second is sexual intercourse *(jumā)*  even if there is no discharge of
 (semen), and it is real by the virtue of entering the glans into the
 vagina or the anus without any difference between man and woman.
 
-  
-
-  
-
-  
-
 #### B. Ghusl of *hayd*
 
 *Hayd* is blood which women experience and which Allah creates in the
@@ -267,10 +237,6 @@ C. *Ghusl* for the Day of Arafa
 D. *Ghusl* for the first night of the blessed month of Ramadān
 
 E. *Ghusl* for the nineteenth night of Ramadān, the twenty-first  
-
-  
-
-  
 
 night of it, and the twenty-third night of it, which is the blessed
 night when it is thought that the Night of the Divine Decree occurred.
@@ -321,11 +287,6 @@ intention of the even prayer *(al-shaf')* and the other by the virtue of
 the intention of the odd prayer.  
  [[2]](#_F298) His statement 'and two *rak'as* after the odd prayer'
 means the morning supererogatory prayer.  
-  
-
-  
-
-  
 
 afternoon); four *rakas* is the night supererogatory prayer (for the
 night); eight *rakas* is the late-night supererogatory prayers *(salāt
@@ -369,16 +330,9 @@ He, peace be on him, has said: (Prayer) is shortened after (covering)
 four *firsikhs*[[1]](#_ftn299) back and forth, twelve miles; and when
 you shorten (your prayers), then you should break the fast.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F299) *A farsakh* (league) is about three miles.    
-  
-
-  
-
-  
 
 In these words the Imām, peace be on him, has discussed the travelers
 prayer in which the four-*raka* prayer is shortened, that is through
@@ -421,12 +375,6 @@ He, peace be on him, has said: As for the prayer for the dead, it
 consists of five *takbirs* (i.e. five times Allah Akbar), but it has no
 *taslim*, for it has neither *rukū* nor *sujūd*.
 
-  
-
-  
-
-  
-
 The prayer for the deceased Muslims, male or female, is a general
 obligation *(wājib kifāi)*. It is performed as follows: At the first
 place, the worshipper should say the first *takbir (Allāhu akbar)*, then
@@ -465,16 +413,9 @@ the field of love and unify their ranks, for men are disposed by nature
 for love those who do good for them. *Zakāt* is the clearest aspect of
 charity.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F300) Al-'Urwat al-Withqā.  
-  
-
-  
-
-  
 
 This part of the speech of the Imām, peace be on him, shows the
 following:
@@ -517,10 +458,6 @@ Man spends some of his money on his hajj and visitations, his alms,
 tightening the bonds of kin, his gifts, his vows, his religious
 expiation, marrying his children, and other than these of which he is  
 
-  
-
-  
-
 indeed and which he spends on lawful items. Accordingly, *khums* is
 divided into two equal shares: The first share is to be paid to the Imām
 , the blessings of Allah be on him, in the time of his appearance, but
@@ -558,12 +495,6 @@ a group of authentic traditions which indicate that *zakāt* is not
 obligatory (on the seeds except the four corps); there for, (the Imāms
 statement) is regarded as recommended, and this is one of the sources of
 bringing traditions together, as the jurists say.
-
-  
-
-  
-
-  
 
 *Zakāt* is due on the four corps when they reach the minimum amount
 *(nisāb)* which is five *wasaqs*, which is in this time estimated at
@@ -605,16 +536,9 @@ pray. A menstruating woman should leave prayer and not perform these
 prayers later on as *qadā*; she should leave fasting and compensate for
 it (by fasting later on).
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F301) Minhājj al-Sālihin, vol. 1, p. 266.  
-  
-
-  
-
-  
 
 This paragraph gives an account as follows:
 
@@ -653,12 +577,6 @@ established when thirty days of the month of Ramadān has passed.
 
 He, peace be on him, has said: And it is not permissible to perform the
 *tarāwih* (the long prayers in the nights of Ramadān) in congregation.
-
-  
-
-  
-
-  
 
 As for the *tarāwih*, they were not legislated in the time of the
 greatest Prophet, may Allah bless him and his family. It was Umar (b.
@@ -703,11 +621,6 @@ al-Qurān)*
 ------------------------------------------------------------------------
 
 [[1]](#_F302) Al-Fiqh 'alā al-Madhāhib al-Arba'a, vol. 1, 340-343.  
-  
-
-  
-
-  
 
 which the non-Shiites *(āmma)* make are not permissible. And *(hajj)
 al-ihrām* apart from *miqāt* (point and time) is not permissible. Allah
@@ -748,17 +661,10 @@ Mecca in all directions. The characteristics of this hajj are: *Ihrām*
 obligatory on it, umra therein precedes hajj, umra connects with it to
 the extent that they are as one act.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F303) Qur'ān, 2, 196.  
  [[2]](#_F304) Ibid., 22, 27-28.  
-  
-
-  
-
-  
 
 B. *Hajj al-Qirān*[[1]](#_ftn305)
 
@@ -799,17 +705,10 @@ As for jihad, it is one of the doors to the Garden; Allah has open it
 for His special friends, as Imām Ali, the Commander of the faithful,
 peace be on him, says. It is of various kinds, which are as follows:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F305) *Hajj al-Qirān* is pilgrimage in common, to perform two
 affairs at the same time.  
-  
-
-  
-
-  
 
 A. Jihad against the polytheists in order to summon them to Islam.
 
@@ -854,10 +753,6 @@ Imāms of the members of the House (*ahl al-Bayt)*, peace be on them, and
 their Shiites. For example, in the time of the wicked pagan, Muāwiya b.
 Abū Sufyān, person preferred being called infidel to  
 
-  
-
-  
-
 being called a follower of Imām Ali, the Commander of the faithful,
 peace be on him. Most Umayyad and Abbāsid kings followed this infidel
 plan which was drawn by the son of Hind (Muāwiya). Had it not been for
@@ -900,12 +795,6 @@ fixed-term marriage *(mutta)*.
 C. The wife should be free from *hayd *  (regular menstrual bleeding)
 and * nifās* (childbirth bleeding) if the husband had already married
 her.
-
-  
-
-  
-
-  
 
 D. The formula of divorce, it is that the husband should say: You are
 divorced or she is divorced.
@@ -953,11 +842,6 @@ their friends, to hate the enemies of Allah and to renounce
 ------------------------------------------------------------------------
 
 [[1]](#_F306) Fiqh al-Sunna.  
-  
-
-  
-
-  
 
 them and their leaders (Imāms), for that is one of the elements of
 reverential fear and Islamic message.
@@ -1002,11 +886,6 @@ parents is obligatory. If they are polytheists, then their is no
 obedience to them nor to other than them in disobeying the Creator, for
 there is no obedience to creature in disobeying Allah."  
  [[2]](#_F308) Qur'ān, 31, 14-15.  
-  
-
-  
-
-  
 
 its mother is slaughtered and it dies in its uterus, its flesh is
 lawful. When it comes out alive and is slaughtered, its flesh is lawful;
@@ -1050,12 +929,6 @@ there is no child, and the one-eighth when there is a child. As for the
 husband, he inherits the one-fourth when there is a child, and the half
 when there is no child.
 
-  
-
-  
-
-  
-
 Thirdly, there is no *asaba* in inheritances according to the viewpoints
 of the Shiites; other than them from among the followers of the Islamic
 sects also adopt this view, and example of that, when the deceased
@@ -1095,16 +968,9 @@ given as alms to the needy. The Prophet, may Allah bless him and his
 family, performed that on behalf of his two grandsons and his two sweet
 basil, peace be on them.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F309) Minhājj al-Sālihin, vol. 2, p. 279.  
-  
-
-  
-
-  
 
 C. Giving a name to the child:
 
@@ -1141,17 +1007,10 @@ Abih, the sinful criminal, has said: I punish the innocent due to the
 guilty, and I punish because of doubt and accusation. Islam renounces
 this reckless policy because it belongs to its enemies and opponents.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F310) Qur'ān, 6, 165.  
  [[2]](#_F311) Ibid., 53, 40.  
-  
-
-  
-
-  
 
 Another example of Allahs justice is that He does not torture the
 children because of their parents sins, for He says: And no bearer of
@@ -1196,11 +1055,6 @@ a certain crime.
  [[2]](#_F313) This means that they are Muslims, but they are neither
 believers nor unbelievers, in this manner it has been mentioned the book
 al-'Uyūn.  
-  
-
-  
-
-  
 
 is no god but Allah and that Mohammed is His Messenger) is a Muslim, his
 blood is spared, his property and his honor are safeguarded; whether he
@@ -1243,10 +1097,6 @@ It is strongly recommended that one should exclaim *Allahuakbar* in (Īd)
 al-Addhā after ten prayers, also it is recommended that one should
 exclaim *Allahuakbar* on the night of   
 
-  
-
-  
-
 (Īd) al-Fitr after the evening prayer and after four prayers. It is also
 recommended that one should recite the supplications transmitted from
 the Imāms of guidance, peace be on them.
@@ -1286,12 +1136,6 @@ it; otherwise, they will fall into the Fire.
 
 He, peace be on him, has said: And (he/she should) renounce the Imāms of
 error and their followers; they should support Allahs friends.
-
-  
-
-  
-
-  
 
 Surely renouncing the Imāms of error and their followers, and supporting
 Allahs friends are of the important elements in Islamic religion, which
@@ -1337,12 +1181,6 @@ floating (dead) on water, eel, pipefish, and all scaleless fish.
 neither gizzard nor craw nor spurs on their feet. It is lawful to eat
 the birds whose flapping is more than their gliding.
 
-  
-
-  
-
-  
-
 He, peace be on him, has said: It permissible to eat the eggs whose tips
 are different; it is forbidden to eat the eggs whose tips are the same.
 
@@ -1373,10 +1211,7 @@ greeting.[[1]](#_ftn314)
 With this (paragraph) we will end this excellent letter, which contains
 some theological researches and basic, juristic matters.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F314) Tuhaf al-'Uqūl, pp. 415-423.  
-  
 

@@ -10,11 +10,9 @@ We mention some of their objections for instance.
 1- They say for Hadith of Mohammad ibn Ash’ari (which correctness of
 its evidence had proved):
 
-<p dir="rtl">
 كتب بعض اصحابنا الى ابى جعفر الّئانى عليه السلام خبرنى عن الخمس اعلى
 جميع ما يستفيد الرّجل من قليل و كثير من جميع الضّروب و على الصّناع و كيف
 ذلك؟ فكتب بخطّه عليه السلام الخمس بعد المؤونة
-</p>
 
 One of our companions wrote to ninth Imam (a.s.): Inform us that if
 Khums applies on all the things which a person uses, from few and many
@@ -216,7 +214,6 @@ half of one sixth (one twelfth) from persons who their agricultural
 income covers their costs, but a person who his agricultural income dos
 not cover his costs half of one sixth is not upon him and nothing other
 than that”.1
-
 
 Some matters are understood from this Hadith:
 
@@ -509,9 +506,7 @@ mostly have been due to lack of knowledge or obstinacy and partiality.
 implication and proves Khums in all incomes is the cabbala of “Sama’a
 ibn Mehran” from Imam “Mousa ibn Ja’far” (a.s.):
 
-<p dir="rtl">
 قال سألت ابالحسن عن الخمس فقال فى كلّ ما افاد النّاس من قليل او كثير
-</p>
 
 I asked Imam Mousa ibn Ja’far about Khums; he said Khums is all
 benefits that people gain from little to many.
@@ -561,5 +556,4 @@ many, we do not know that where could this person find these baseless
 possibilities, and how he connected them to this Hadith and he did not
 thought that if anyone see his writing, that person will blame him for
 this obstinacy.
-
 

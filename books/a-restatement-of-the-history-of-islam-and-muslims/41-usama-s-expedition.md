@@ -382,4 +382,3 @@ in the matter of his succession after his death. They put their own
 ambitions and interests ahead of the commands and wishes of Muhammad
 Mustafa, the blessed Messenger of God.
 
-

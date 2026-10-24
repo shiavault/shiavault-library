@@ -170,7 +170,6 @@ studying books on history and biography in order to establish historical
 facts, correcting historical distor-tions and cleansing it of falsehood
 and interpolations.
 
-
 **Procedures of Missionary Work**
 
 The methods and means of delivering Islam to the audience and
@@ -366,5 +365,4 @@ method by saying:
 "Say: \`Who provides you with sustenance from the heavens and the
 earth?' Say: \`(It is) Allah, and verily (either) we or you are guided
 aright, or in manifest error?'" Holy Qur'an (Saba' 34: 24)
-
 

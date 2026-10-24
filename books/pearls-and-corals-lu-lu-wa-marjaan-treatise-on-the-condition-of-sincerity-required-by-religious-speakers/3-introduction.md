@@ -10,7 +10,6 @@ been praised, but rewards and remuneration have also been ordained for
 it. It has been narrated in the book Kāmil al-Ziyarāt that Imam al-Ṣadiq
 (as) said to 'Abdullah ibn Ḥammad Baṣri:
 
-
 *“I have heard that in the middle of the month of Sha'bān, some people
 from the suburbs of Kufa – and other cities – go to him (meaning
 al-Ḥusayn) and their ladies lament over him, the reciters recite poems
@@ -198,5 +197,4 @@ one of them are not correct or without defect, one will fall face first
 and will be completely deprived of the blessings of reciting from the
 pulpit. The explanation of these two conditions will be covered within
 the next two chapters, God Willing.17
-
 

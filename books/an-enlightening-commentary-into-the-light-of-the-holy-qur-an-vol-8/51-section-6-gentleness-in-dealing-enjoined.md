@@ -4,13 +4,9 @@ Section 6: Gentleness in Dealing Enjoined
 Surah Isra’ – Verse 53
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُل لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ إِنَّ الشَّيْطَانَ
-يَنزَغُ بَيْنَهُمْ إِنَّ الشَّيْطَانَ كَانَ لِلإِنسَانِ عَدُوّاً
-مُبِيناً
-  </p>
-</blockquote>
+> وَقُل لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ إِنَّ الشَّيْطَانَ
+> يَنزَغُ بَيْنَهُمْ إِنَّ الشَّيْطَانَ كَانَ لِلإِنسَانِ عَدُوّاً
+> مُبِيناً
 
 ***53. “And say to My servants to speak what is best. Verily, the Satan
 sows dissensions among them. Verily the Satan unto man is an open
@@ -65,12 +61,8 @@ Satan from inciting corruption.
 Surah Isra’ – Verse 54
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبُّكُمْ أَعْلَمُ بِكُمْ إِن يَشَأْ يَرْحَمْكُمْ أَوْ إِن يَشَأْ
-يُعَذّ‌ِبْكُمْ وَمَآ أَرْسَلْنَاكَ عَلَيْهِمْ وَكِيلاً
-  </p>
-</blockquote>
+> رَبُّكُمْ أَعْلَمُ بِكُمْ إِن يَشَأْ يَرْحَمْكُمْ أَوْ إِن يَشَأْ
+> يُعَذّ‌ِبْكُمْ وَمَآ أَرْسَلْنَاكَ عَلَيْهِمْ وَكِيلاً
 
 ***54. “Your Lord is more knowledgeable about you than yourself. He will
 have mercy on you if He pleases, or He will punish you (for your
@@ -109,13 +101,9 @@ to you.
 Surah Isra’ – Verse 55
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ أَعْلَمُ بِمَن فِي السَّمَاوَاتِ وَالاَرْضِ وَلَقَدْ
-فَضَّلْنَا بَعْضَ النَّبِيّـِينَ عَلَي بَعْضٍ وءَاتَيْنَا دَاوُدَ
-زَبُوراً
-  </p>
-</blockquote>
+> وَرَبُّكَ أَعْلَمُ بِمَن فِي السَّمَاوَاتِ وَالاَرْضِ وَلَقَدْ
+> فَضَّلْنَا بَعْضَ النَّبِيّـِينَ عَلَي بَعْضٍ وءَاتَيْنَا دَاوُدَ
+> زَبُوراً
 
 ***55. “And your Lord is more knowledgeable than any one who is in the
 heavens and the earth; and, certainly, We have made some of the prophets
@@ -196,12 +184,8 @@ The verse concludes:
 Surah Isra’ – Verse 56
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ ادْعُوا الَّذِينَ زَعَمْتُم مِن دُونِهِ فَلاَ يَمْلِكُونَ كَشْفَ
-الضُّرّ‌ِ عَنكُمْ وَلاَ تَحْوِيلاً
-  </p>
-</blockquote>
+> قُلِ ادْعُوا الَّذِينَ زَعَمْتُم مِن دُونِهِ فَلاَ يَمْلِكُونَ كَشْفَ
+> الضُّرّ‌ِ عَنكُمْ وَلاَ تَحْوِيلاً
 
 ***56. “Say: Call on those whom you asserted (to be your god) besides
 Him; so they shall neither have the ability of removing the affliction
@@ -238,13 +222,9 @@ the like.
 Surah Isra’ – Verse 57
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَي رَبّـِهِمُ
-الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ
-عَذَابَهُ إِنَّ عَذَابَ رَبّـِكَ كَانَ مَحْذُوراً
-  </p>
-</blockquote>
+> اُوْلَئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَي رَبّـِهِمُ
+> الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ
+> عَذَابَهُ إِنَّ عَذَابَ رَبّـِكَ كَانَ مَحْذُوراً
 
 ***57. “Those whom they call upon, themselves search for means of
 approaching their Lord which of them is nearer, and they hope for His
@@ -320,13 +300,9 @@ must avoid it.
 Surah Isra’ – Verse 58
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِن مِن قَرْيَةٍ إِلاَّ نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ
-الْقِيَامَةِ أَوْ مُعَذّ‌ِبُوهَا عَذَاباً شَدِيداً كَانَ ذَلِكَ فِي
-الْكِتَابِ مَسْطُوراً
-  </p>
-</blockquote>
+> وَإِن مِن قَرْيَةٍ إِلاَّ نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ
+> الْقِيَامَةِ أَوْ مُعَذّ‌ِبُوهَا عَذَاباً شَدِيداً كَانَ ذَلِكَ فِي
+> الْكِتَابِ مَسْطُوراً
 
 ***58. “And there is not a town but We shall annihilate it before the
 Day of Resurrection or chastise it with a severe chastisement. That is
@@ -366,13 +342,9 @@ The verse remarks:
 Surah Isra’ – Verse 59
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مَنَعَنَآ أَن نُرْسِلَ بِالاَيَاتِ إِلآَّ أَن كَذَّبَ بِهَا
-الاَوَّلُونَ وءَاتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا
-بِهَا وَمَا نُرْسِلُ بِالاَيَاتِ إِلاَّ تَخْوِيفاً
-  </p>
-</blockquote>
+> وَمَا مَنَعَنَآ أَن نُرْسِلَ بِالاَيَاتِ إِلآَّ أَن كَذَّبَ بِهَا
+> الاَوَّلُونَ وءَاتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا
+> بِهَا وَمَا نُرْسِلُ بِالاَيَاتِ إِلاَّ تَخْوِيفاً
 
 ***59. “And nothing prevented Us that We should send the signs
 (requested by the people) save that the former nations rejected them;
@@ -472,14 +444,10 @@ and as warning for them.
 Surah Isra’ – Verse 60
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ وَمَا جَعَلْنَا
-الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لّـِلنَّاسِ
-وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا
-يَزِيدُهُمْ إِلاَّ طُغْيَاناً كَبِيراً
-  </p>
-</blockquote>
+> وإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ وَمَا جَعَلْنَا
+> الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لّـِلنَّاسِ
+> وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا
+> يَزِيدُهُمْ إِلاَّ طُغْيَاناً كَبِيراً
 
 ***60. “And (remember) when We said to you: ‘Verily your Lord
 encompasses the people;’ and we did not make the dream which We showed
@@ -677,5 +645,4 @@ Warnings will have no impact on the tenacious people who are obstinate.
 [^8]: Tafsir-i-Tibyan
 
 [^9]: Tafsir-i-Lahiji
-
 

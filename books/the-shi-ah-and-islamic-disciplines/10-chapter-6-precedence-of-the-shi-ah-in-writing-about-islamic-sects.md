@@ -34,4 +34,3 @@ just as he was mistaken in regarding the chief of the Shi’ah, Sheikh
 al–Tusi (may both of them rest in peace) as one of them. I have recorded
 his detailed biography in the original version of this book.
 
-

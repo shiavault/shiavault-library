@@ -63,8 +63,7 @@ they heard (of traditions). But these (lost) traditions do not include
 those ones exposing and explaining the Qur’an, or any of the issues
 related to the Din as they are recognized from the Qur’an, and
 manifested in the practical Sunnah. Whatever is other than the
-traditions can only increase in the guidance and manifestation. <span
-id="_anchor_783"></span>783
+traditions can only increase in the guidance and manifestation. 783
 
 1. The people were not charged with what is correct near God, as that
 cannot be done on His part and He never tasks or imposes what cannot be
@@ -90,8 +89,7 @@ and for all dainties the rule is permission.
 
 – The rule that necessity knows no law.
 
-– The rule that neither detriment nor adversity <span
-id="_anchor_784"></span>784 (la darar wa la dirar).
+– The rule that neither detriment nor adversity 784 (la darar wa la dirar).
 
 Al-Imam Abu Hanifah says: “My opposition to every man relating from the
 Prophet anything disagreeing with the Qur’an, is not to be taken as a
@@ -107,7 +105,7 @@ what Allah said, nor has he been among the feigning forgers
 Al-Imam Ahmad ibn Hanbal is reported to have said: Be careful in taking
 the rules of your Din, as imitating other than the ma’sum (infallible)
 is an abominable act, causing blindness for insight and perception.
-<span id="_anchor_785"></span>785
+785
 
 \* \* \*
 --------

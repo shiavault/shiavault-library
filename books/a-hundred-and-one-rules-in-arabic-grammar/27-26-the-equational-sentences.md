@@ -28,8 +28,5 @@ an adjective, (d) an adverb, or (e) a prepositional phrase.
 A pronoun of separation could be added in example (b) above, where both
 the subject and the predicate are nouns.
 
-<p dir="rtl">
 **الاستاذ ُ هو** محمدّ **ٌ.**
-</p>
-
 

@@ -593,4 +593,3 @@ al-Sunan, Vol. I, p. 44, and Ahmad b. Hanbal, al-Musnad, Vol. IV, pp.
 
 [^21]: Amir al-Mu'minin.
 
-

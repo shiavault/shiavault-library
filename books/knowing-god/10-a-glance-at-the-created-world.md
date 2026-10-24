@@ -125,4 +125,3 @@ C) That we gain proximity to Him through worship and supplications.
 D) That we inhabit the earth through efforts and cooperation and spread
 justice and equity in it.
 
-

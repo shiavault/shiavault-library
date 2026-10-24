@@ -44,4 +44,3 @@ was astonished at this. Finally, the commander fulfilled his promise by
 giving the man a very good reward. This is how he was saved from
 punishment.
 
-

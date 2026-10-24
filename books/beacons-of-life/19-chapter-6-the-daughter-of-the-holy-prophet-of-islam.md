@@ -232,7 +232,7 @@ From Allah alone comes success.
 
 **Notes:**
 
-[^71] That is, Abu Sa'd or Said al-Kharkushi; see note 12 above.
+[^71]: That is, Abu Sa'd or Said al-Kharkushi; see note 12 above.
 at-Tabrisi' (or his editor) here calls him "al-Hafiz", but he seems
 rather to be known as al-Wa'iz. Despite al-Kharkushi's statement as here
 reported by at-Tabrisi, traditionists have generally agreed that Fatimah

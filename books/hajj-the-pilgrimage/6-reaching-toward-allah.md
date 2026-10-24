@@ -76,4 +76,3 @@ Dismember yourself from the flock of those animals whose shepherd is the
 wolf. Join the flock at Miad who is going to see the house of Allah or
 the house of the people.
 
-

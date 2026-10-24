@@ -87,4 +87,3 @@ for ten years.”
 
 [^4]: Sūrah an-Naml 27: 62.
 
-

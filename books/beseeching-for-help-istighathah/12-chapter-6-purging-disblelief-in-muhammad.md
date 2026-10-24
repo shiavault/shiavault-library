@@ -240,4 +240,3 @@ the Muslim community will be transformed once again into an indivisible
 unity. This is the only way to preserve our faith and to perpetuate a
 correct interpretation of the nature and essence of divine unity.
 
-

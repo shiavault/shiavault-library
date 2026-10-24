@@ -23,4 +23,3 @@ knowledge. There is nothing whose affirmation is the reality of its
 negation other that worldly ignorance and greed. All ignorant people are
 alike.
 
-

@@ -5,9 +5,7 @@ The object of the revelation of the Qur'an to the Apostle(Muhammad)The
 believers and the disbelievers in the Turah and the reward and the
 punishment.
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ
-</p>
 
 (1) الر تِلْكَ آياتُ الْكِتابِ الْحَكيمِ
 
@@ -37,7 +35,6 @@ itself is Wise. Simultaneously, while it contains both teachings of
 wisdom and is wise in content, it is a judge and an arbitrator as well.
 It remains intact from hostile elements and history and the passage of
 time can leave no impact upon it. It is "the Book of Wisdom".
-
 
 **Commentary : Verse 2**
 
@@ -85,7 +82,6 @@ The disbelievers considered prophecy as sorcery and, because of their
 short sightedness, dark heartedness, and lack of understanding, they
 could mostly not grasp the truth and distinguish the difference between
 miracles and the work of magicians.
-
 
 **Commentary : Verse 3**
 
@@ -162,7 +158,6 @@ concludes:
 
 7. Deity is not separate from Lordship.
 
-
 **Commentary : Verse 4**
 
 (4) إِلَيْهِ مَرْجِعُكُمْ جَميعاً وَعْدَ اللَّهِ حَقًّا إِنَّهُ
@@ -198,7 +193,6 @@ unbelievers will be a burning liquid made of boiling water that will
 torture them painfully and they will be kept in Hell forever.
 
 **Commentary : Verse 5**
-
 
 (5) هُوَ الَّذي جَعَلَ الشَّمْسَ ضِياءً وَ الْقَمَرَ نُوراً وَ
 قَدَّرَهُ مَنازِلَ لِتَعْلَمُوا عَدَدَ السِّنينَ وَ الْحِسابَ ما خَلَقَ
@@ -263,7 +257,6 @@ thing from them. It says:
 "... (Thus)does He explain the Signs in detail, for a people who know.
 "
 
-
 **Commentary : Verse 6**
 
 (6) إِنَّ في‏ اخْتِلافِ اللَّيْلِ وَ النَّهارِ وَ ما خَلَقَ اللَّهُ فِي
@@ -322,7 +315,6 @@ originate from those who honestly seek the truth and reality. Thus sins
 and pollutions from sin leave a negative impact upon one's analysis and
 cognition.
 
-
 **Commentary : Verse 7.8**
 
 (7) إِنَّ الَّذينَ لا يَرْجُونَ لِقاءَنا وَ رَضُوا بِالْحَياةِ
@@ -371,7 +363,6 @@ separation from Allah which in turn is the origin of the lack of
 sympathy and, consequently, falling into pollution, mischief, and sin
 whose ultimate result cannot be aught but Fire.
 
-
 **Commentary : Verse 9**
 
 (9) إِنَّ الَّذينَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ يَهْديهِمْ
@@ -401,7 +392,6 @@ As for the Hereafter, the Creator(s. w. t.)establishes them in palaces
 and Gardens underneath which Rivers flow. The verse continues saying:
 
 "... beneath them rivers flow in gardens of bliss. "
-
 
 **Commentary : Verse 10**
 
@@ -460,5 +450,4 @@ Sadiqin, the Commentary)
 (1) Sura Yaseen, No. 36, verse 58
 (2) Sura Az- Zumae, No. 39, verse 73
 (3) Sura Al- Waqi'ah, No. 56, verse 26
-
 

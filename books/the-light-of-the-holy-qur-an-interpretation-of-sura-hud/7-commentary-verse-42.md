@@ -41,7 +41,6 @@ However, his son's companionship and association with evil company had
 overtaken him to such an extent that his father's compassion against
 annihilation made no impact upon him.
 
-
 **Commentary : Verse 43**
 
 (43) قالَ سَآوي إِلى‏ جَبَلٍ يَعْصِمُني‏ مِنَ الْماءِ قالَ لا عاصِمَ
@@ -167,7 +166,6 @@ Ma'ani; and other detailed books which have been mentioned in Ih qaq ul
 H aqq(vol. 9)from P. 270 onwards. See also Nafahat ul Azhar fi Khulasah
 'Abaqat ul Anwar, Part 4 P. 370.
 
-
 **Commentary : Verse 44**
 
 (44) وَ قيلَ يا أَرْضُ ابْلَعي‏ ماءَكِ وَ يا سَماءُ أَقْلِعي‏ وَ غيضَ
@@ -220,7 +218,6 @@ surprise, saying: "These are words unsurpassed and unequalled by all
 means, and they do not resemble those made by human beings. " Saying
 this, they abandoned their decision and dispersed in despair.
 
-
 **Commentary : Verse 45**
 
 (45) وَ نادى‏ نُوحٌ رَبَّهُ فَقالَ رَبِّ إِنَّ ابْني‏ مِنْ أَهْلي‏ وَ
@@ -251,7 +248,6 @@ Sura. The verse says:
 " And Noah called unto his Lord, and said: "O my Lord! Verily, my son
 is of my family, and certainly Your promise is true and You are the Most
 just of Judges. "
-
 
 **Commentary : Verse 46**
 
@@ -293,7 +289,6 @@ kinship when he committed sins and disobeyed, leading himself astray.
 Those who also belong to our school but refuse to obey Allah should not
 be considered as of us. "
 
-
 **Commentary : Verse 47**
 
 (47) قالَ رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْئَلَكَ ما لَيْسَ لي‏ بِهِ
@@ -317,7 +312,6 @@ says:
 " He(Noah)said: 'O my Lord! Verily I seek refuge in You, lest I should
 ask You(for)that of which I have no knowledge. And unless You forgive me
 and have Mercy on me I should be of the losers'. "
-
 
 **Commentary : Verse 48**
 
@@ -359,7 +353,6 @@ says:
 
 "... and nations whom We shall afford provision, then there shall
 afflict them from Us a painful chastisement'. "
-
 
 **Commentary : Verse 49**
 
@@ -454,5 +447,4 @@ indicates the extent to which man may be so despicable that he may not
 be moved by the admonitions of the prophets, on the contrary, he can
 disrespect their followers as villains, and think he could escape
 Allah's wrath by taking refuge in physical structures like mountains.
-
 

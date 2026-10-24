@@ -1,22 +1,14 @@
 The Manifestation of Qur’anic Wisdom in the Laws of Inheritance
 ===============================================================
 
-<blockquote dir="rtl">
-  <p>
-يُوصِيكُمُ اللّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
-الأُنثَيَيْنِ
-  </p>
-</blockquote>
+> يُوصِيكُمُ اللّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
+> الأُنثَيَيْنِ
 
 ***God enjoins you concerning your children: the male shall have a share
 (of inheritance) equal to the share of two females; (al-Nisa, 4/10)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كَانُواْ إِخْوَةً رِّجَالاً وَنِسَاء فَلِلذَّكَرِ مِثْلُ حَظِّ
-الأُنثَيَيْنِ
-  </p>
-</blockquote>
+> وَإِن كَانُواْ إِخْوَةً رِّجَالاً وَنِسَاء فَلِلذَّكَرِ مِثْلُ حَظِّ
+> الأُنثَيَيْنِ
 
 ***And if there are (several) siblings, men and women, then the male
 shall have the like of the portion of two females; (al-Nisa, 4/176)***
@@ -346,11 +338,7 @@ caters for the needs of the family.
  When the Qur’an places the responsibility of protection and supervision
 on the shoulders of men by stating:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء
 
 ***Men are the protectors of women (al-Nisa, 4/34)***
 
@@ -525,12 +513,8 @@ beings and the universe are yet to go through. And He is God, and the
 right to systematize legislation is only befitting for Him.  
  The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ اللّهِ
-حُكْمًا لِّقَوْمٍ يُوقِنُونَ
-  </p>
-</blockquote>
+> أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ اللّهِ
+> حُكْمًا لِّقَوْمٍ يُوقِنُونَ
 
 ***Is it then the judgment of (the times of) ignorance that they desire?
 And who is better than Allah to judge for a people who are sure?
@@ -568,5 +552,4 @@ amongst human beings.
 [^5]: Social Conventions, p. 81.
 
 [^6]: Man, the Unknown, p. 30.
-
 

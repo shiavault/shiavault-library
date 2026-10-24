@@ -104,4 +104,3 @@ al- Qummi’s al-Kuna wal-Alqab
 Baghdad, al-Hujjatu ela ath-Thahib, Thakhirat ud-Darain, Murouj uth-
 Thahab, al-Isfahani’s al-Aghani, and many others
 
-

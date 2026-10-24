@@ -20,4 +20,3 @@ rulers who were too Sunni. So under the pretext of Taqia. The writer is
 short of knowledge in this subject. As we pointed out earlier it is a
 clear commandment from God. To obey God is not wrong.
 
-

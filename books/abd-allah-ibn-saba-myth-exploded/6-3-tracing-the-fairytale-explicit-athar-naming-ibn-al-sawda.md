@@ -5,11 +5,7 @@ According to Sunni *‘ulama*, ‘Abd Allah b. Saba was “well-known” as *Ibn
 al-Sawda* – the son of the black woman. Imam Ibn al-Athir (d. 630 H),
 for instance, submits:
 
-<blockquote dir="rtl">
-  <p>
-وكان عبد الله بن سبأ المعروف بابن السوداء
-  </p>
-</blockquote>
+> وكان عبد الله بن سبأ المعروف بابن السوداء
 
 He was ‘Abd Allah b. Saba, *well-known* as *Ibn al-Sawda*.[^1]
 
@@ -46,16 +42,12 @@ Narration One
 
 Imam Ibn Asakir (d. 571 H) helps us with the first of them:
 
-<blockquote dir="rtl">
-  <p>
-قال ونا سيف عن أبي حارثة وأبي عثمان قالا لما قدم ابن السوداء مصر عجمهم
-واستخلاهم واستخلوه وعرض لهم بالكفر فأبعدوه وعرض لهم بالشقاق فأطمعوه
-فبدأ فطعن على عمرو بن العاص وقال ما باله أكثركم عطاء ورزقا ألا ننصب
-رجلا من قريش يسوي بيننا فاستحلوا ذلك منه وقالوا كيف نطيق ذلك مع عمرو
-وهو رجل العرب قال تستعفون منه ثم يعمل عملنا ويظهر الائتمار بالمعروف
-والطعن فلا يرده علينا أحد
-  </p>
-</blockquote>
+> قال ونا سيف عن أبي حارثة وأبي عثمان قالا لما قدم ابن السوداء مصر عجمهم
+> واستخلاهم واستخلوه وعرض لهم بالكفر فأبعدوه وعرض لهم بالشقاق فأطمعوه
+> فبدأ فطعن على عمرو بن العاص وقال ما باله أكثركم عطاء ورزقا ألا ننصب
+> رجلا من قريش يسوي بيننا فاستحلوا ذلك منه وقالوا كيف نطيق ذلك مع عمرو
+> وهو رجل العرب قال تستعفون منه ثم يعمل عملنا ويظهر الائتمار بالمعروف
+> والطعن فلا يرده علينا أحد
 
 **Sayf** – Abu Harithah and Abu ‘Uthman:
 
@@ -74,12 +66,8 @@ us back.”[^2]
 In this chain again is Sayf b. ‘Umar. We will only remind ourselves of
 the words of ‘Allamah al-Albani (d. 1420 H) concerning him:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وفي هذا نظر، فإن أكثر الطرق المشار إليها مدارها على سيف بن عمر
-والواقدي وهما كذابان
-  </p>
-</blockquote>
+> قلت: وفي هذا نظر، فإن أكثر الطرق المشار إليها مدارها على سيف بن عمر
+> والواقدي وهما كذابان
 
 I say: There is an error in this, for most of the indicated chains,
 their pivot is **Sayf b. ‘Umar and al-Waqidi, and they both were
@@ -125,16 +113,12 @@ Narration Two
 With the collapse of the first *riwayah*, Imam Ibn Asakir takes us to
 another:
 
-<blockquote dir="rtl">
-  <p>
-قرأنا على أبي عبد الله يحيى بن الحسن عن أبي الحسين بن الآبنوسي أنا
-أحمد بن عبيد بن الفضل وعن أبي نعيم محمد بن عبد الواحد بن عبد العزيز
-أنا علي بن محمد بن خزفة قالا نا محمد بن الحسن نا ابن أبي خيثمة نا محمد
-بن عباد نا سفيان عن عمار الدهني قال سمعت أبا الطفيل يقول رأيت المسيب
-بن نجبة أتى به ملببة يعني ابن السوداء وعلي على المنبر فقال علي ما شأنه
-فقال يكذب على الله وعلى رسوله
-  </p>
-</blockquote>
+> قرأنا على أبي عبد الله يحيى بن الحسن عن أبي الحسين بن الآبنوسي أنا
+> أحمد بن عبيد بن الفضل وعن أبي نعيم محمد بن عبد الواحد بن عبد العزيز
+> أنا علي بن محمد بن خزفة قالا نا محمد بن الحسن نا ابن أبي خيثمة نا محمد
+> بن عباد نا سفيان عن عمار الدهني قال سمعت أبا الطفيل يقول رأيت المسيب
+> بن نجبة أتى به ملببة يعني ابن السوداء وعلي على المنبر فقال علي ما شأنه
+> فقال يكذب على الله وعلى رسوله
 
 Abu ‘Abd Allah Yahya b. al-Hasan – Abu al-Husayn b. al-Abnusi – Ahmad b.
 ‘Ubayd b. al-Fadhl and Abu Na’im Muhammad b. ‘Abd al-Wahid b. ‘Abd
@@ -164,13 +148,9 @@ Narration Three
 
 Imam Ibn Abi Khaythamah (d. 279 H) reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن عباد المكي قال نا سفيان قال نا عبد الجبار بن عباس
-الهمداني عن سلمة عن حجية بن عدي الكندي :رأيت عليا على المنبر وهو يقول
-من يعذرني من هذا الحميت الأسود الذي يكذب على الله يعني ابن السوداء
-  </p>
-</blockquote>
+> حدثنا محمد بن عباد المكي قال نا سفيان قال نا عبد الجبار بن عباس
+> الهمداني عن سلمة عن حجية بن عدي الكندي :رأيت عليا على المنبر وهو يقول
+> من يعذرني من هذا الحميت الأسود الذي يكذب على الله يعني ابن السوداء
 
 Muhammad b. ‘Abbad – Sufyan – ‘Abd al-Jabbar b. ‘Abbas al-Hamdani –
 Salamah – **Hujayyah b. ‘Adi al-Kindi**:
@@ -181,18 +161,14 @@ this evil black container, who tells lies upon Allah?” **He meant**
 
 Imam Ibn Asakir has also transmitted the same *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-أنبأنا أبو عبد الله محمد بن أحمد بن إبراهيم بن الخطاب أنا أبو القاسم
-علي بن محمد بن علي الفارسي ح وأخبرنا أبو محمد عبد الرحمن بن أبي الحسن
-بن إبراهيم الداراني أنا سهل بن بشر أنا أبو الحسن علي بن منير بن أحمد
-بن منير الخلال قالا أنا القاضي أبو الطاهر محمد بن أحمد بن عبد الله
-الذهلي نا أبو أحمد بن عبدوس نا محمد بن عباد نا سفيان نا عبد الجبار بن
-العباس الهمداني عن سلمة بن كهيل عن حجية بن عدي الكندي قال رأيت عليا
-كرم الله وجهه وهو على المنبر وهو يقول من يعذرني من هذا الحميت الأسود
-الذي يكذب على الله ورسوله يعني ابن السوداء
-  </p>
-</blockquote>
+> أنبأنا أبو عبد الله محمد بن أحمد بن إبراهيم بن الخطاب أنا أبو القاسم
+> علي بن محمد بن علي الفارسي ح وأخبرنا أبو محمد عبد الرحمن بن أبي الحسن
+> بن إبراهيم الداراني أنا سهل بن بشر أنا أبو الحسن علي بن منير بن أحمد
+> بن منير الخلال قالا أنا القاضي أبو الطاهر محمد بن أحمد بن عبد الله
+> الذهلي نا أبو أحمد بن عبدوس نا محمد بن عباد نا سفيان نا عبد الجبار بن
+> العباس الهمداني عن سلمة بن كهيل عن حجية بن عدي الكندي قال رأيت عليا
+> كرم الله وجهه وهو على المنبر وهو يقول من يعذرني من هذا الحميت الأسود
+> الذي يكذب على الله ورسوله يعني ابن السوداء
 
 Abu ‘Abd Allah Muhammad b. Ahmad b. Ibrahim b. al-Khattab – Abu al-Qasim
 ‘Ali b. Muhammad b. ‘Ali al-Farisi; AND Abu Muhammad ‘Abd al-Rahman b.
@@ -227,16 +203,12 @@ Narration Four
 This is the fourth “evidence” of Imam Ibn Asakir, allegedly about ‘Abd
 Allah b. Saba:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو بكر أحمد بن المظفر بن الحسين بن سوسن التمار في كتابه
-وأخبرني أبو طاهر محمد بن محمد بن عبد الله السنجي بمرو عنه أنا أبو علي
-بن شاذان نا أبو بكر محمد بن جعفر بن محمد الآدمي نا أحمد بن موسى الشطوي
-نا أحمد بن عبد الله بن يونس نا أبو الأحوص عن مغيرة عن سباط قال بلغ
-عليا أن ابن السوداء ينتقص أبا بكر وعمر فدعا به ودعا بالسيف أو قال فهم
-بقتله فكلم فيه فقال لا يساكني ببلد أنا فيه قال فسيره إلى المدائن
-  </p>
-</blockquote>
+> أخبرنا أبو بكر أحمد بن المظفر بن الحسين بن سوسن التمار في كتابه
+> وأخبرني أبو طاهر محمد بن محمد بن عبد الله السنجي بمرو عنه أنا أبو علي
+> بن شاذان نا أبو بكر محمد بن جعفر بن محمد الآدمي نا أحمد بن موسى الشطوي
+> نا أحمد بن عبد الله بن يونس نا أبو الأحوص عن مغيرة عن سباط قال بلغ
+> عليا أن ابن السوداء ينتقص أبا بكر وعمر فدعا به ودعا بالسيف أو قال فهم
+> بقتله فكلم فيه فقال لا يساكني ببلد أنا فيه قال فسيره إلى المدائن
 
 Abu Bakr Ahmad b. al-Muzaffar b. al-Husayn b. Susan al-Tamar – Abu Tahir
 Muhammad b. Muhammad b. ‘Abd Allah al-Sinji – Abu ‘Ali b. Shadhan –
@@ -257,12 +229,8 @@ for him whatsoever concerning his narrations. None exists in any other
 Sunni book either. By contrast, al-Baghdadi has actually recorded this
 under the said *tarjamah*:
 
-<blockquote dir="rtl">
-  <p>
-قال محمد بن أبي الفوارس سنة ثمان وأربعين وثلاثمائة فيها مات محمد بن
-جعفر الادمي وكان قد خلط فيما حدث
-  </p>
-</blockquote>
+> قال محمد بن أبي الفوارس سنة ثمان وأربعين وثلاثمائة فيها مات محمد بن
+> جعفر الادمي وكان قد خلط فيما حدث
 
 Muhammad b. Abi al-Fawaris said: “In the year 348 H, Muhammad b. Ja’far
 died, **and he used to mix things up in what he narrated**.”[^8]
@@ -275,29 +243,17 @@ made. So, he is perfectly *majhul*.
 
 But, Shaykh Ibn Taymiyyah (d. 728 H) thinks it is not over yet:
 
-<blockquote dir="rtl">
-  <p>
-فروى أبو الأحوص عن مغيرة عن شباك عن إبراهيم قال: بلغ علي بن أبي طالب
-أن عبد الله بن السوداء ينتقص أبا بكر وعمر فهم بقتله فقيل له: تقتل رجلا
-يدعو إلى حبكم أهل البيت؟ فقال: "لا يساكنني في دار أبدا".
-  </p>
-</blockquote>
+> فروى أبو الأحوص عن مغيرة عن شباك عن إبراهيم قال: بلغ علي بن أبي طالب
+> أن عبد الله بن السوداء ينتقص أبا بكر وعمر فهم بقتله فقيل له: تقتل رجلا
+> يدعو إلى حبكم أهل البيت؟ فقال: "لا يساكنني في دار أبدا".
 
-<blockquote dir="rtl">
-  <p>
-وفي رواية عن شباك قال: بلغ عليا أن ابن السوداء يبغض أبا بكر وعمر قال:
-فدعاه ودعا بالسيف أو قال: فهم بقتله فكلم فيه فقال: "لا يساكنني ببلد
-أنا فيه" فنفاه إلى المدائن وهذا محفوظ عن أبي الأحوص وقد رواه النجاد
-وابن بطة واللالكائي وغيرهم
-  </p>
-</blockquote>
+> وفي رواية عن شباك قال: بلغ عليا أن ابن السوداء يبغض أبا بكر وعمر قال:
+> فدعاه ودعا بالسيف أو قال: فهم بقتله فكلم فيه فقال: "لا يساكنني ببلد
+> أنا فيه" فنفاه إلى المدائن وهذا محفوظ عن أبي الأحوص وقد رواه النجاد
+> وابن بطة واللالكائي وغيرهم
 
-<blockquote dir="rtl">
-  <p>
-ومراسيل إبراهيم جياد لا يظهر علي رضي الله عنه أنه يريد قتل رجل إلا
-وقتله حلال عنده ويشبه والله أعلم أن يكون إنما تركه خوف الفتنه بقتله
-  </p>
-</blockquote>
+> ومراسيل إبراهيم جياد لا يظهر علي رضي الله عنه أنه يريد قتل رجل إلا
+> وقتله حلال عنده ويشبه والله أعلم أن يكون إنما تركه خوف الفتنه بقتله
 
 Abu al-Ahwas narrated from Mughirah **from Shibak from Ibrahim** that he
 said, “It reached ‘Ali b. Abi Talib that ‘Abd Allah b. al-Sawda was
@@ -320,12 +276,8 @@ And the *marasil* (i.e. disconnected narrations) of Ibrahim are good
 The pretensions of Ibn Taymiyyah nonetheless, both reports are
 unreliable! Imam Ibn Hibban (d. 354 H) tells us why:
 
-<blockquote dir="rtl">
-  <p>
-إبراهيم النخعي وهو إبراهيم بن يزيد بن عمرو بن الأسود أبو عمران كان
-مولده سنة خمسين ومات سنة خمس أو ست وتسعين
-  </p>
-</blockquote>
+> إبراهيم النخعي وهو إبراهيم بن يزيد بن عمرو بن الأسود أبو عمران كان
+> مولده سنة خمسين ومات سنة خمس أو ست وتسعين
 
 Ibrahim al-Nakha’i: he was Ibrahim b. Yazid b. ‘Amr b. al-Aswad, Abu
 ‘Imran. **He was born in 50 H** and died in 95 or 96 H.[^10]
@@ -346,12 +298,8 @@ of narrators), Shibak only fell in the sixth – a fact which throws him
 far, far away from the time of the alleged incident! Yet, al-Hafiz (d.
 852 H) has some further damaging information about him:
 
-<blockquote dir="rtl">
-  <p>
-شباك ... الضبي الكوفي الأعمى ثقة له ذكر في صحيح مسلم وكان يدلس من
-السادسة.
-  </p>
-</blockquote>
+> شباك ... الضبي الكوفي الأعمى ثقة له ذكر في صحيح مسلم وكان يدلس من
+> السادسة.
 
 Shibak ... al-Dhabi al-Kufi, the Blind: *Thiqah* (trustworthy). He is
 mentioned in *Sahih Muslim*. **He used to do** ***tadlis*****. He was
@@ -419,5 +367,4 @@ al-Tawzi’; 1st edition, 1411 H) [annotator: Marzuq ‘Ali Ibrahim], p.
 [^11]: Ahmad b. ‘Ali b. Hajar al-‘Asqalani, Taqrib al-Tahdhib (Beirut:
 Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 ‘Abd al-Qadir ‘Ata], vol. 1, pp. 410-411, \# 2742
-
 

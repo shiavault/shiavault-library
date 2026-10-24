@@ -36,4 +36,3 @@ arbaab-e ma'refat*).
 **Abdullah Amini, Summer, 1382/2003Abdullah Amini, Summer,
 1382/2003Abdullah Amini, Summer, 1382/2003**
 
-

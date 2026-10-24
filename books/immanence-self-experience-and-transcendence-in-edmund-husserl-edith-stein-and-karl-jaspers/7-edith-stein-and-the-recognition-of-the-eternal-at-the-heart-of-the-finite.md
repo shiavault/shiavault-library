@@ -215,4 +215,3 @@ me in the voice of whatever exists, and most decidedly in that of my
 self-being. The transcendence before which I stand is the measure of my
 own depth.[^61]
 
-

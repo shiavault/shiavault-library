@@ -351,4 +351,3 @@ correcting his error, he must recite the prayers after tawaaf again and
 the rules relating to a person who had forgotten to recite the prayers
 will apply to him.
 
-

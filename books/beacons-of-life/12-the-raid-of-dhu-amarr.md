@@ -311,4 +311,3 @@ Hamzah, as he stood by Fatimah at the door of the Mosque he addressed
 the women saying: "Return, may Allah have mercy upon you. You have
 indeed consoled us with your grief."
 
-

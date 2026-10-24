@@ -50,4 +50,3 @@ and it is beneath God to exercise tyranny and oppression.”[^2]
 
 [^2]: Al-Tawhid by al-Saduq, p. 407.
 
-

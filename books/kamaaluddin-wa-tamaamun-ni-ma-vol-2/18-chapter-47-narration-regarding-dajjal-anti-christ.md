@@ -333,4 +333,3 @@ to long lifespans has been decreed for this Imam. This denial is only
 due to malice, bigotry and obstinacy against acceptance of truth. [We
 seek Allah’s refuge from humiliation].
 
-

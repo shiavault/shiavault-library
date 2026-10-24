@@ -150,4 +150,3 @@ Urdu translations by Dr. Ahmad Khan, which is more upp-top- date. It has
 442 pertain to complete and 569 to partial works. Of these, according to
 the author's estimate, there are about 164 complete translations.
 
-

@@ -357,7 +357,6 @@ plain or in a mountain."
 
 Sa'id Ibn Musayyib as well as Umar Ibn al-Khattab said:
 
-
 "No companion of the Prophet ever said 'Ask me' except Ali."
 
 **Sunni References:**
@@ -386,7 +385,6 @@ enter from its Gate", it is clear that the only source of knowledge
 after Prophet Muhammad (PBUH&HF) was Imam Ali (AS), and those who seek
 other sources do not gain the genuine Sunnah of the Prophet because
 nobody can enter this City from a direction other than its door.
-
 
 **Concluding Remarks**
 
@@ -465,5 +463,4 @@ intelligence through which we will be able to differentiate between the
 truth and falsehood, and He has made clear to us the Right Path and then
 tests us by many things so that they can bear witness on the day of
 judgment.
-
 

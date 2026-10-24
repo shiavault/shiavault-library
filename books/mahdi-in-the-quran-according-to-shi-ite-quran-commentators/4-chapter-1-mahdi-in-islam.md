@@ -788,4 +788,3 @@ al-Shi’a fi zaman al-ghayba, pp. 122-127
 [^52]: Al-Nu’mani , Kitab al-ghayba, ch. 14, 15, 18, 21; Ibn Babuye,
 Kamal al-Din, ch. 47, 57, 58.
 
-

@@ -25,6 +25,3 @@ Allah created Adam (a.s.). He commanded all the angels to prostrate
 before him and ordered Adam (a.s.) to tell the angels what he knew and
 in other words Allah made Adam (a.s.) the teacher of the angels.
 
-
-
-

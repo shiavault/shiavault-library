@@ -12,7 +12,7 @@ Khabar mutawatir (successive) and khabar ahad. Khabar mutawatir is a
 khabar reported from some authentic narrator who related it to a large
 number of people to an extent that it is impossible to charge them with
 collaboration on falsifying and foisting into it. This kind of khabar is
-useful for knowledge itself, <span id="_anchor_511"></span>511  as it is
+useful for knowledge itself, 511  as it is
 definitely correct and should be adopted without any hesitation in
 respect of beliefs (aqa’id), for which it is a guide.
 
@@ -20,7 +20,7 @@ And khabar al-ahad, which is also called khabar al-wahid, is the khabar
 whose reporters didn't reach that number as in the case of al-khabar
 al-mutawatir, whether the reporter being one or two or... five, up to a
 number with which it can never be sensed to be of al-khabar
-al-mutawatir. <span id="_anchor_512"></span>512  This khabar indicates
+al-mutawatir. 512  This khabar indicates
 surmise, according to which it is acted in respect of rituals (ibadat)
 and transactions (mu‘amalat), not in aqa'id.
 
@@ -29,14 +29,13 @@ mutawatir and ahad. The mutawatir is that khabar which being transmitted
 by a number of narrators that usually cannot be charged with falsity,
 and its two sides equal the central part, who altogether tell of an
 unsuspected source, and knowledge is established through their
-utterance. <span id="_anchor_513"></span>513  The fact upon which concur
+utterance. 513  The fact upon which concur
 most of the researchers is that this khabar cannot be determined by a
 certain number, and neither Islam nor reliability being a condition for
 the reporters. Whereas khabar al-wahid is devoid of the provision
 required in the
 
-mutawatir, whether the narrator being one or more, <span
-id="_anchor_514"></span>514  and it includes the sahih and non- sahih.
+mutawatir, whether the narrator being one or more, 514  and it includes the sahih and non- sahih.
 All the books of hadith come under the bab of ahad.
 
 ### Rule of Mutawatir and Ahad:
@@ -50,7 +49,7 @@ cognizancer at all, even if they were recorded in Sahih al-Bukhari or
 Sahih Muslim. Approving of them by the Ummah verily signify to act
 according to whatever stated in them, on the basis that the Ummah is
 commanded to adopt every khabar which is most likely nearer to truth,
-<span id="_anchor_515"></span>515  and does not denote that what they
+515  and does not denote that what they
 contain is in itself static absolutely. The express example for this is
 the judge, who is obligated to issue his rule according to the testimony
 of that who is apparently reliable. And his being duty-bound to do so
@@ -71,7 +70,7 @@ Tafsir, says:
 
 narration of wahid (single) only indicates conjecture.
 
-And in his Ma’alam usul al-Din, <span id="_anchor_516"></span>516 after
+And in his Ma’alam usul al-Din, 516 after
 enumerating the spontaneous elements contained in the traditional proofs
 based on oral narration, he writes: "If this is proved, we would come to
 know that the traditional evidences being only conjectural, and the
@@ -88,7 +87,7 @@ it should never be researched about the mutawatir in ‘ilm al-athar, is
 an indisputable fact.
 
 Some of the ulama hold: The mutawatir does not belong to the school of
-‘ilm al-isnad, <span id="_anchor_517"></span>517  as it is a science in
+‘ilm al-isnad, 517  as it is a science in
 which the research is made about the veracity and weakness of hadith, in
 respect of the characteristics of its narrators, and forms of their
 statements, so as to act according to it or abandon it.
@@ -110,7 +109,7 @@ hundred.
 
 Al-Nawawi, in al-Taqrib, says: Whey they say, it is sahih and upon it or
 its veracity there is agreement, they mean the agreement of the Shaykhan
-(al-Bukhari and Muslim). Al-Shaykh <span id="_anchor_518"></span>518  is
+(al-Bukhari and Muslim). Al-Shaykh 518  is
 reported to have said: What is narrated by both or one of them is
 definitely veracious and regarding which definite knowledge is attained.
 He was contradicted by the investigators and most of \`ulama of hadith,
@@ -126,7 +125,7 @@ signify conjecture, hence they are ahad, which — as concurred by all —
 denote only conjecture, with no difference between al-Bukhari and Muslim
 and others in this regard. The Ummah's approval of these traditions
 makes us obliged to act according to them... and unanimity of the Ummah
-<span id="_anchor_519"></span>519  to adopt them in life never
+519  to adopt them in life never
 necessarily indicates their concurrence that they being definitely
 uttered by the Prophet (S). Ibn Burhan disapproved of that who agreed
 with al-Shaykh, exaggerating in reproaching him.
@@ -148,20 +147,18 @@ that some of the researchers were of the opinion that akhbar al-ahad may
 indicate knowledge — with the contexts — differing in regard of whether
 the contexts signifying the report (khabar) being true or not. Al-Nazzam
 and Imam al-Haramayn and al-Ghazzali believed in their denoting
-knowledge while others denied this. <span id="_anchor_520"></span>520
+knowledge while others denied this. 520
 
 ### Hadith Including no Mutawatir:
 
-Al-Hazimi, in Shurut al-A‘immah al-Khamsah, <span
-id="_anchor_521"></span>521  writes: "Every hadith should be either
+Al-Hazimi, in Shurut al-A‘immah al-Khamsah, 521  writes: "Every hadith should be either
 mutawatir or ahad, and to prove the tawatur in hadith is so hard,
 especially for the school of those not considering the number of
 narrators as a condition for defining it (hadith). In regard of akhbar
 al-ahad, most of the fuqaha’ have made it obligatory to act according to
 them without necessity of knowledge.
 
-Al-Imam al-Shatibi, in the first part of al-I’tisam, <span
-id="_anchor_522"></span>522  while discussing khabar al-wahid, says:
+Al-Imam al-Shatibi, in the first part of al-I’tisam, 522  while discussing khabar al-wahid, says:
 
 Charging with duties as a whole is based on it, as the command and
 decree being sent to the mukallaf (duty-bound), from the Book of Allah
@@ -177,16 +174,13 @@ as a whole akhbar al-ahad, as no khabar is available to be reported
 through two reliable men, each of whom reported it from two reliable
 men, each of whom reported it from two reliable men, and so on till
 reaching the Messenger of Allah (S). The impossibility and voidness of
-this thing proved to us that all the reports being akhbar al-ahad. <span
-id="_anchor_523"></span>523
+this thing proved to us that all the reports being akhbar al-ahad. 523
 
 In al-Taqrib al-Nawawi writes: Al-Mutawatir is known in the fiqh and its
 usul, but to it no reference is made by the traditionists, and it is
-very rarely mentioned in their narrations. <span
-id="_anchor_524"></span>524  Besides, some of them negated the presence
+very rarely mentioned in their narrations. 524  Besides, some of them negated the presence
 of verbal mutawatir in the Prophet's traditions except in the case of
-the hadith "whoever tells a lie against me..." and the Pond <span
-id="_anchor_525"></span>525  (Hawd) hadith, and some other few
+the hadith "whoever tells a lie against me..." and the Pond 525  (Hawd) hadith, and some other few
 traditions.
 
 ### Ahadith al-Ahad:
@@ -201,8 +195,7 @@ with.
 Hadith, in fact and reality, can either be correct or incorrect. The
 correct (sahih) one is that whose ascription to the Prophet is confirmed
 and proved, and the incorrect is that whose veracity is unconfirmed. But
-the traditionists classify the hadith into sahih, hasan and da'if <span
-id="_anchor_526"></span>526  (weak), by which they mean the hadith
+the traditionists classify the hadith into sahih, hasan and da'if 526  (weak), by which they mean the hadith
 narrated through the way of ahad, whereas the mutawatir being out of the
 scope of this classification, as stated before.
 
@@ -284,7 +277,7 @@ Some of the ulama’ hold that it can be acted according to it in respect
 of virtuous deeds, but this was prohibited by great religious
 authorities (imams).
 
-In al-Adab al-Shar’iyyah <span id="_anchor_527"></span>527  Ibn Muflih
+In al-Adab al-Shar’iyyah 527  Ibn Muflih
 says:
 
 It is reported from al-Imam Ahmad that it is impermissible to act
@@ -324,7 +317,7 @@ and heedful to them."
 
 Al-Qadi Abu Bakr ibn al-Arabi al-Maliki said: “It is impermissible to
 act according to the weak traditions at all,” which is verily a right
-notion. <span id="_anchor_528"></span>528
+notion. 528
 
 ### Multiplicity of Hadith Ways Never Reinforces Them:
 
@@ -341,7 +334,7 @@ due to the permissibility of unanimity of those turuq on falsehood.
 
 ### Being Self-Decisive is no Condition for Correct Hadith:
 
-Al-Hafiz Ibn Salah says: <span id="_anchor_529"></span>529
+Al-Hafiz Ibn Salah says: 529
 
 "When they say: "This is a correct hadith' this means that its sanad
 (chain of transmitters) being attached to the other afore-mentioned
@@ -360,15 +353,14 @@ say: Among the traditions there are some whose isnad being sahih but
 text is not sahih, and some whose isnad is not sahih but text is sahih,
 or those whose isnad is sahih and text (matn) is sahih, or those whose
 isnad is unknown and text is unknown, or those whose isnad is weak and
-text is weak. <span id="_anchor_530"></span>530
+text is weak. 530
 
-Al-Zayn al-Iraqi (d.806H) in his Alfiyyah, <span
-id="_anchor_531"></span>531  writes:
+Al-Zayn al-Iraqi (d.806H) in his Alfiyyah, 531  writes:
 
 When the traditionists say: "This hadith is sahih', they want to say —
 as it seems through the appearance of isnad — that its veracity is not
 decisive by itself, due to possibility of inadvertence and forgetfulness
-on the part of the thiqah. <span id="_anchor_532"></span>532  This being
+on the part of the thiqah. 532  This being
 the sahih upon which concurred men of knowledge contrarily to those
 holding that khabar al-wahid necessitating knowledge through the visible
 exterior. And so also when they say: "This hadith is weak,' they mean:
@@ -402,10 +394,6 @@ incorrect."
 
 He also said: The predecessors were averse to going deeply into matters
 and call disputants as heretics.
-
-  
-  
-  
 
 511. Even the mutawatir was not free from suspicion in regard of its
 relation - ilm al-yaqin - as it is possible to inform some people, who

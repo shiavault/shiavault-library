@@ -453,4 +453,3 @@ Rivayat-e-Asnad, Tehran, 1360 Sh./1981, Page 77.
 [^5]: Text of Ayatullah Khumayni’s eulogy in Yadnama-yi Ustad-i Shahid
 Murtadha Mutahhari, pp.  3-5.
 
-

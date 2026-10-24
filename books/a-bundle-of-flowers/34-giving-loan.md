@@ -13,4 +13,3 @@ Paradise on the Day when the righteous will be recompensed."
 
 Bihar-ul-Anwar, vol. 76, p. 367
 
-

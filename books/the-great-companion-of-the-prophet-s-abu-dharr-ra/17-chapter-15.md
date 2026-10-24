@@ -147,4 +147,3 @@ have now given them to the rightful person. Therefore, I am now happy".
 [^3]: Murujuz Zahab al-Mas'udi, vol. 1, p. 438 and Tarikh Ya'qubi, vol.
 2, p. 148
 
-

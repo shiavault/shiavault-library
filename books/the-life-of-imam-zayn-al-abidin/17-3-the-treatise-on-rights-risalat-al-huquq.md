@@ -1207,4 +1207,3 @@ methods to make the Muslims happy and to set them right.
 
 [^4]: Mu‘jam al-Buldan, vol. 4, p. 3.
 
-

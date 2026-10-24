@@ -52,4 +52,3 @@ companions.
 [^1]: Or: The thing of least importance is the censure of the ignorant
 ones.
 
-

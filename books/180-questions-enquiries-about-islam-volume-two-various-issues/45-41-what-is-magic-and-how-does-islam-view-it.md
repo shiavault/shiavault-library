@@ -17,11 +17,7 @@ According to the dictionary, magic has two meanings:
 Deception, guile, sleight of hand and legerdemain; and according to the
 book *Qamus al-Lughah*, magic means 'to deceive'.
 
-<blockquote dir="rtl">
-  <p>
-کُلُّ ماَ لَطُفَ وَ دَقَّ.
-  </p>
-</blockquote>
+> کُلُّ ماَ لَطُفَ وَ دَقَّ.
 
 “All such things, the causes of which are invisible and mysterious.”
 
@@ -49,23 +45,15 @@ according to the Qur’an, can be classified into two categories:
 Those instances wherein the objective is deception, jugglery, sleight of
 hand and legerdemain and possesses no reality, as we read:
 
-<blockquote dir="rtl">
-  <p>
-فَإِِذاَ حِبَالُهُمْ وَ عِصِيُّهُم يُخَيَّلُ إِِلَيهِ مِنْ سِحْرِهِمْ
-أَنَّهَا تَسْعَـى
-  </p>
-</blockquote>
+> فَإِِذاَ حِبَالُهُمْ وَ عِصِيُّهُم يُخَيَّلُ إِِلَيهِ مِنْ سِحْرِهِمْ
+> أَنَّهَا تَسْعَـى
 
 ***“Then lo! their cords and their rods– it was imaged to him on account
 of their magic as if they were running.”***[^2]
 
 Another verse says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا أَلْقَوا سَحَرُوا أََعيُنَ النَّاسِ وَ اسْتَرْهَبُوهُمْ
-  </p>
-</blockquote>
+> فَلَمَّا أَلْقَوا سَحَرُوا أََعيُنَ النَّاسِ وَ اسْتَرْهَبُوهُمْ
 
 ***“So when they cast, they deceived the people's eyes and frightened
 them, and they produced a***  
@@ -79,12 +67,8 @@ that gives the impression of magic.
 From some of the verses of the Qur’an it can be inferred that certain
 kinds of magic do yield an influence, such as this verse, which says:
 
-<blockquote dir="rtl">
-  <p>
-فَيَتَعَلَّمُونَ مِنْهُماَ ماَ يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَ
-زَوْجِهِ
-  </p>
-</blockquote>
+> فَيَتَعَلَّمُونَ مِنْهُماَ ماَ يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَ
+> زَوْجِهِ
 
 ***“Even then men learned from these two, magic by which they might
 cause a separation between a man and his wife.”***[^4]
@@ -92,11 +76,7 @@ cause a separation between a man and his wife.”***[^4]
 Another verse of the Qur’an says that they learned things that were
 detrimental to them and not at all beneficial.
 
-<blockquote dir="rtl">
-  <p>
-وَ يَتَعَلَّمُونَ ماَ يَضُرُّهُمْ وَ لاَ يَنْفَعُهُمْ
-  </p>
-</blockquote>
+> وَ يَتَعَلَّمُونَ ماَ يَضُرُّهُمْ وَ لاَ يَنْفَعُهُمْ
 
 ***“And they learned what harmed them and did not profit them.”***[^5]
 
@@ -128,12 +108,8 @@ Furthermore, we present some traditions that have been narrated from the
 Imams (a.s.) and which have been reported in authentic books.  
  Imam 'Ali (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَعَلَّمَ شَيئاً مِنَ السِّحْرِ قَليلاً أَو کَثِيراً فَقَدْ
-کَفَرَ وَ کاَنَ آخِرُ عَهْدِهِ بِرَبِّهِ.
-  </p>
-</blockquote>
+> مَنْ تَعَلَّمَ شَيئاً مِنَ السِّحْرِ قَليلاً أَو کَثِيراً فَقَدْ
+> کَفَرَ وَ کاَنَ آخِرُ عَهْدِهِ بِرَبِّهِ.
 
 “One who learns magic, less or more, has become an infidel and his
 association with Allah (s.w.t.) s completely severed.”[^6]
@@ -176,5 +152,4 @@ bihi, no. 7
 bihi, no. 1
 
 [^8]: Tafsir-e-Namuna, vol. 1, pg. 377
-
 

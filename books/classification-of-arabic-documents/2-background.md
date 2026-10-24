@@ -50,4 +50,3 @@ categories by the function Φ ̂
 
 Figure1: TC example
 
-

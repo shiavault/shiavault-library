@@ -3,13 +3,9 @@ Lesson Fifty Three: Why are Favors Lost?
 
 Imam Al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللّهَ قَضَى قَضاءً حَتْماً أَلاّ يُنْعِمَ عَلَى الْعَبْدِ
-بِنِعْمَة فَيَسْلُبُها إيّاهُ حَتّى يُحْدِثَ الْعَبْدُ ذَنْباً
-يَسْتَحِقُّ بِذلِكَ النَّقِمَةِ.
-  </p>
-</blockquote>
+> إنَّ اللّهَ قَضَى قَضاءً حَتْماً أَلاّ يُنْعِمَ عَلَى الْعَبْدِ
+> بِنِعْمَة فَيَسْلُبُها إيّاهُ حَتّى يُحْدِثَ الْعَبْدُ ذَنْباً
+> يَسْتَحِقُّ بِذلِكَ النَّقِمَةِ.
 
 Translation
 -----------
@@ -31,5 +27,4 @@ devices become the cause of their retardation, because they have misused
 the graces.
 
 [^1]: Usool al-Kafi, , volume 2
-
 

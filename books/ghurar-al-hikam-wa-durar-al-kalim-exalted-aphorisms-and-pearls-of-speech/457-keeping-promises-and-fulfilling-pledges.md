@@ -17,11 +17,7 @@ brotherhood.
 caring for one’s close relatives.
 
 > 3ـ اَلْوَفاءُ حِفْظُ الذِّمامِ، والمُرُوءَةُ تَعَهُّدُ ذَوِى
-<blockquote dir="rtl">
-  <p>
-الأرْحامِ.
-  </p>
-</blockquote>
+> الأرْحامِ.
 
 4. Verily loyalty is the twin of truthfulness and I do not know of a
 shield that is more protective than it.
@@ -51,13 +47,9 @@ loyalty and guard your pledge with trust, and make your soul a shield
 between you and that which you have pledged.
 
 > 9ـ إنْ وَقَعَتْ بَيْنَكَ وبَيْنَ عَدُوِّكَ قِصَّةٌ عَقَدْتَ بِها
-<blockquote dir="rtl">
-  <p>
-صُلْحاً وألبَسْتَهُ بِها ذِمَّةً، فَحُطْ عَهْدَكَ بِالوَفاءِ، وارْعَ
-ذِمَّتَكَ بِالأمانَةِ، واجْعَلْ نَفْسَكَ جُنَّةً بَيْنَكَ وبَيْنَ ما
-أعْطَيْتَ مِنْ عَهْدِكَ.
-  </p>
-</blockquote>
+> صُلْحاً وألبَسْتَهُ بِها ذِمَّةً، فَحُطْ عَهْدَكَ بِالوَفاءِ، وارْعَ
+> ذِمَّتَكَ بِالأمانَةِ، واجْعَلْ نَفْسَكَ جُنَّةً بَيْنَكَ وبَيْنَ ما
+> أعْطَيْتَ مِنْ عَهْدِكَ.
 
 10. The bane of covenants is lack of care [in fulfilling them].
 
@@ -137,14 +129,10 @@ of fear of a hindrance that could cause its reneging, for indeed
 reneging on a promise is not from the characteristics of the honourable.
 
 > 27ـ ما باتَ لِرَجُل عِنْدي مَوْعِدٌ قَطُّ، فَباتَ يَتَمَلْمَلُ عَلى
-<blockquote dir="rtl">
-  <p>
-فِراشِهِ، لِيَغْدُوَ بِالظَّفَرِ بِحاجَتِهِ أشَدُّ مِنْ تَمَلْمُلي
-عَلى فِراشي، حِرْصاً عَلَى الخُرُوجِ إلَيْهِ مِنْ دَيْنِ عِدَتِهِ
-وخَوْفاً مِنْ عائِق يُوجِبُ الخُلْفَ، فَإنَّ خُلْفَ الوَعْدِ لَيْسَ
-مِنْ أخْلاقِ الكِرامِ.
-  </p>
-</blockquote>
+> فِراشِهِ، لِيَغْدُوَ بِالظَّفَرِ بِحاجَتِهِ أشَدُّ مِنْ تَمَلْمُلي
+> عَلى فِراشي، حِرْصاً عَلَى الخُرُوجِ إلَيْهِ مِنْ دَيْنِ عِدَتِهِ
+> وخَوْفاً مِنْ عائِق يُوجِبُ الخُلْفَ، فَإنَّ خُلْفَ الوَعْدِ لَيْسَ
+> مِنْ أخْلاقِ الكِرامِ.
 
 28. The basis of a promise is its fulfilment.
 
@@ -158,11 +146,7 @@ reneging on a promise is not from the characteristics of the honourable.
 associate of God-wariness piety is!
 
 > 30ـ نِعْمَ قَرينُ الصِّدْقِ الوَفاءُ، ونِعْمَ رَفيقُ التَّقْوى
-<blockquote dir="rtl">
-  <p>
-اَلْوَرَعُ.
-  </p>
-</blockquote>
+> اَلْوَرَعُ.
 
 31. How good a companion of trustworthiness loyalty is!
 
@@ -250,11 +234,7 @@ keep.
 one who has cast it away.
 
 > 51ـ لَنْ تَأْخُذُوا بِمِيثاقِ الكِتابِ حتّى تَعْرِفُوا الَّذي
-<blockquote dir="rtl">
-  <p>
-نَبَذَهُ.
-  </p>
-</blockquote>
+> نَبَذَهُ.
 
 52. Never let the hardship that you undergo in [fulfilling] the covenant
 of Allah lead you to break it, for indeed your patience during the
@@ -263,23 +243,15 @@ for you than the excuse [and betrayal] whose evil consequences you fear
 and because of which you are encompassed by chastisement from Allah.
 
 > 52ـ لايَدْعُوَنَّكَ ضيقٌ لَزِمَكَ في عَهْدِ اللّهِ إلَى النَّكْثِ،
-<blockquote dir="rtl">
-  <p>
-فَإنَّ صَبْرَكَ عَلى ضيق تَرْجُو اِنْفِراجَهُ، وفَضْلَ عاقِبَتِهِ
-خَيْـرٌ لَكَ مِنْ عُذْر تَخافُ تَبِعَتَهُ، وتُحيطُ بِكَ مِنَ اللّهِ
-لأجْلِهِ العُقُوبَةُ.
-  </p>
-</blockquote>
+> فَإنَّ صَبْرَكَ عَلى ضيق تَرْجُو اِنْفِراجَهُ، وفَضْلَ عاقِبَتِهِ
+> خَيْـرٌ لَكَ مِنْ عُذْر تَخافُ تَبِعَتَهُ، وتُحيطُ بِكَ مِنَ اللّهِ
+> لأجْلِهِ العُقُوبَةُ.
 
 53. The most honourable of endeavours is being careful of [fulfilling]
 one’s pledges (and the best trait is keeping ties with near relatives).
 
 > 53ـ أشْرَفُ الهِمَمِ، رِعايَةُ الذِّمامِ (الذِّمَمِ، وأفْضَلُ
-<blockquote dir="rtl">
-  <p>
-الشِّيَمِ صِلَةُ الرَّحِمِ).
-  </p>
-</blockquote>
+> الشِّيَمِ صِلَةُ الرَّحِمِ).
 
 54. Verily fulfilling promises is part of faith.
 
@@ -292,25 +264,17 @@ whoever takes them lightly, they will take their plea to the One who has
 enjoined them and has ordered His creation to fulfil them.
 
 > 55ـ إنَّ العُهُودَ قَلائِدُ فِي الأعْناقِ إلى يَوْمِ القِيامَةِ،
-<blockquote dir="rtl">
-  <p>
-فَمَنْ وَصَلَها وَصَلَهُ اللّهُ، ومَنْ نَقَضَها خَذَلَهُ اللّهُ، ومَنِ
-اسْتَخَّفَ بِها خاصَمَتْهُ إلَى الَّذي أكَّدَها وأخَذَ خَلْقَهُ
-بِحِفْظِها.
-  </p>
-</blockquote>
+> فَمَنْ وَصَلَها وَصَلَهُ اللّهُ، ومَنْ نَقَضَها خَذَلَهُ اللّهُ، ومَنِ
+> اسْتَخَّفَ بِها خاصَمَتْهُ إلَى الَّذي أكَّدَها وأخَذَ خَلْقَهُ
+> بِحِفْظِها.
 
 56. Do not renege on your covenant and do not break your pledge; and do
 not double-cross your enemy, for Allah has made his covenant and his
 pact a safety for him.
 
 > 56ـ لاتَعْذَرَنَّ بِعَهْدِكَ، وَلاتُخْفِرَنَّ ذِمَّتَكَ، ولاتَخْتِلْ
-<blockquote dir="rtl">
-  <p>
-عَدُوَّكَ، فَقَدْ جَعَلَ اللّهُ سُبْحانَهُ عَهْدَهُ وذِمَّتَهُ أمْناً
-لَهُ.
-  </p>
-</blockquote>
+> عَدُوَّكَ، فَقَدْ جَعَلَ اللّهُ سُبْحانَهُ عَهْدَهُ وذِمَّتَهُ أمْناً
+> لَهُ.
 
 57. One of the most honourable of traits is safeguarding [and
 fulfilling] your pledges.
@@ -368,5 +332,4 @@ loyalty.
 69. For every pledge that is broken there is uncertainty.
 
 > 69ـ لِكُلِّ ناكِث شُبْهَةٌ.
-
 

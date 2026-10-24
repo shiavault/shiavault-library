@@ -67,4 +67,3 @@ continued to do so in the future too. Finally, Islam became such a
 strong tree that even the Choesroe and Caesar of Rome could not subdue
 it.
 
-

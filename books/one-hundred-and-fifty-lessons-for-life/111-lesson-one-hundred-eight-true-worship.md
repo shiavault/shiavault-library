@@ -3,13 +3,9 @@ Lesson One Hundred Eight: True Worship
 
 Imam ‘Ali (a.s.) said to Kumayl:
 
-<blockquote dir="rtl">
-  <p>
-يا كُمَيْلُ! لَيْسَ الشَّأْنُ أَنْ تُصَلِّىَ وَ تَصُوْمَ وَ
-تَتَصَدَّقَ، اَلشَّأْنُ أَنْ تَكُونَ الصَّلاةُ بِقَلْب نَقِىٍّ وَ
-عَمَل عِنْدَ اللّهِ مَرْضِىٍّ وَ خُشُوع سَوىٍّ
-  </p>
-</blockquote>
+> يا كُمَيْلُ! لَيْسَ الشَّأْنُ أَنْ تُصَلِّىَ وَ تَصُوْمَ وَ
+> تَتَصَدَّقَ، اَلشَّأْنُ أَنْ تَكُونَ الصَّلاةُ بِقَلْب نَقِىٍّ وَ
+> عَمَل عِنْدَ اللّهِ مَرْضِىٍّ وَ خُشُوع سَوىٍّ
 
 Translation
 -----------
@@ -31,5 +27,4 @@ with which he performs them .
 
 [^1]: Tuhaful Uqul, page 117. Mustadrak Alwasail,vol 4, page 94.
 Bisharat Al-Mustafa, page 28.
-
 

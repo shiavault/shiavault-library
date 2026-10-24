@@ -1,16 +1,12 @@
 36) The Last Three Advices of Imam ‘Ali’s Letter
 ================================================
 
-<blockquote dir="rtl">
-  <p>
-"وَاجْعَلْ لِكُلِّ اِنسَانٍ مِنْ خَدَمِكَ عَمَلاً تَأخُذُهُ بِهِ،
-فَاِنَّهُ اَحْرى اَلاّ يَتَواكَلُوا في خِدْمَتِكَ واَكْرِم عَشِيرَتَكَ
-فَاِنَّهُم جَناحَكَ الّذِي بِهِ تَطِيرُ وَاَصلَكَ الَّذي اِلَيهِ
-تَصِيرُ وَيَدَكَ الَّتي بِها تَصُولُ اَسْتَودِعُ اللهَ دِينَكَ
-ودُنْيَاكَ وَاَسْألهُ خَيْرَ القَضَاءِ لَكَ في العَاجِلَةِ وَالآجِلَةِ
-وَالدُّنيا وَالآخِرَةِ وَالسَّلامُ"
-  </p>
-</blockquote>
+> "وَاجْعَلْ لِكُلِّ اِنسَانٍ مِنْ خَدَمِكَ عَمَلاً تَأخُذُهُ بِهِ،
+> فَاِنَّهُ اَحْرى اَلاّ يَتَواكَلُوا في خِدْمَتِكَ واَكْرِم عَشِيرَتَكَ
+> فَاِنَّهُم جَناحَكَ الّذِي بِهِ تَطِيرُ وَاَصلَكَ الَّذي اِلَيهِ
+> تَصِيرُ وَيَدَكَ الَّتي بِها تَصُولُ اَسْتَودِعُ اللهَ دِينَكَ
+> ودُنْيَاكَ وَاَسْألهُ خَيْرَ القَضَاءِ لَكَ في العَاجِلَةِ وَالآجِلَةِ
+> وَالدُّنيا وَالآخِرَةِ وَالسَّلامُ"
 
 *"Appoint for each of your servants a specific task for which you hold
 them responsible, for it is more appropriate so that they do not pass on
@@ -74,14 +70,10 @@ in contrast with the truth and righteousness, and even if being
 ill-mannered, should be respected. Here one tradition is presented as a
 proof:
 
-<blockquote dir="rtl">
-  <p>
-"عَن الجَهَمِ بن حَمِيد قَالَ: قُلتُ لابي عبدالله عليه السلام: يَكُونُ
-لِيَ القَرَابَةُ عَلى غَيرِ اَمري أَلَهُم عَليَّ حَقٌّ؟ قال: نَعم،
-حَقُّ الرَحِمِ لا يَقْطَعُهُ شَيئٌ واِذا كَانُوا عَلى أَمرِكَ كَانَ
-لَهُم حَقّانِ: حَقُّ الرَحِمِ وحَقُّ الإسلامِ"
-  </p>
-</blockquote>
+> "عَن الجَهَمِ بن حَمِيد قَالَ: قُلتُ لابي عبدالله عليه السلام: يَكُونُ
+> لِيَ القَرَابَةُ عَلى غَيرِ اَمري أَلَهُم عَليَّ حَقٌّ؟ قال: نَعم،
+> حَقُّ الرَحِمِ لا يَقْطَعُهُ شَيئٌ واِذا كَانُوا عَلى أَمرِكَ كَانَ
+> لَهُم حَقّانِ: حَقُّ الرَحِمِ وحَقُّ الإسلامِ"
 
 *"Jahm ibn Hamid says: I told Imam Sadiq (as): I have a family who do
 not believe in what I believe. Do they have a right upon me? Imam Sadiq
@@ -93,13 +85,9 @@ After reporting this tradition, al-Majlisi explains: “This implies that
 infidelity does not abolish the right of kinship and this meaning is not
 in contrast with the verse 22 of Surah al-Mujadilah [The pleading one]:
 
-<blockquote dir="rtl">
-  <p>
-"لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
-يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ
-أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ"
-  </p>
-</blockquote>
+> "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
+> يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ
+> أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ"
 
 ***"You shall not find a people who believe in Allah and the latter day
 befriending those who act in opposition to Allah and His apostle, even
@@ -128,11 +116,7 @@ the end of his book. Imam ‘Ali (as), too, based on this principle, asks
 God to protect his son, both here and in the Hereafter and wishes him
 the best of luck:
 
-<blockquote dir="rtl">
-  <p>
-"اَسْتَودِعُ دِينَكَ وَدُنيَاكَ"
-  </p>
-</blockquote>
+> "اَسْتَودِعُ دِينَكَ وَدُنيَاكَ"
 
 *“I entrust your religion and your world to Allah”.*
 
@@ -164,5 +148,4 @@ about His command: and Allah does not guide the transgressing people
 [^4]: . Bihar, vol.74, p.131.
 
 [^5]: . Bihar, vol.74, p.131.
-
 

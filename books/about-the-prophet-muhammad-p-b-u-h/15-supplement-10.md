@@ -409,4 +409,3 @@ anybody else. The revenues were declared to be in no wise the private
 property of the head of the State. Above all, the Prophet Muhammad set a
 noble example and fully practised all that he taught to others.
 
-

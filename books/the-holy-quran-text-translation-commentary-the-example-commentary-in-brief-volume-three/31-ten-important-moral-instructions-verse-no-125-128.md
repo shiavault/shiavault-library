@@ -90,28 +90,19 @@ always with the pious who avoid evil and with those who do good deeds.
 Therefore the believers should go on with constancy, doing good for the
 sake of God to all His servants and even to all His creatures.
 
-
 THE END OF SUREH BEE (16)
 
 THE END OF PART ِ 14
 
 [ 527 ]
 
-
-<p dir="rtl">
 سوره اسراء
-</p>
-
 
 ASRA" (THE NIGHT JOURNEY)
 
-
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
-
 
 سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلا مِّنَ الْمَسْجِدِ
 الْحَرَامِ إِلَى الْمَسْجِدِ الاَْقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
@@ -122,9 +113,7 @@ IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
 ENVIRONMENT OF WHICH WE HAVE BLESSED; IN ORDER TO SHOW HIM SOME OF OUR
 SIGNS, THAT HE IS THE ALL-HEARING, ALL-SEEING.
 
-
 THE COMMENTARY
-
 
 THE ASCENSION OF THE HOLY PROPHET (VERSE NO. 1)
 
@@ -168,7 +157,6 @@ the natural resistances, gravity, and attractions and repulsions. There
 has been provided special vehicles and facilities of transport by the
 Omnipotent and All-mighty Lord of Mohammad. Man may come to know the
 secrets of the ascension gradually and in time.
-
 
 \*\*\*\*\*
 
@@ -359,9 +347,7 @@ POWER WITH UTTER DESTRUCTION!
 WE (TOO) SHALL RETURN; AND WE HAVE MADE THE HELL A PRISON FOR THE
 UNBELIEVERS.
 
-
 THE COMMENTARY
-
 
 TWO GREAT STORMS (VERSE NO. 2 - 8)
 
@@ -435,7 +421,6 @@ of ten times which is far above merits, but to the evil the punishment
 is no more than the evil, while the doors of repentance and pardon too
 is always open!
 
-
 إِنَّ هَذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ
 الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْراً
 كَبِيراً(( 9 ))
@@ -467,9 +452,7 @@ SIGN OF NIGHT TO DISAPPEAR, AND MADE THE SIGN OF DAY VISIBLE, SO THAT
 YOU MAY SEEK GRACE FROM YOUR LORD, AND TO KNOW THE NUMBER OF THE YEARS
 AND RECKONING. AND EVERYTHING WE HAVE EXPLAINED IT IN DETAIL.
 
-
 THE COMMENTARY
-
 
 THE MOST UPRIGHT WAY TO PROSPERITY (VERSE NO. 9 - 12)
 
@@ -521,7 +504,6 @@ month, and year:ِ
 seek Grace from your Lord, and to know the number of the years and
 reckoning.''
 
-
 وَكُلَّ إِنسَان أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ وَنُخْرِجُ لَهُ
 يَوْمَ الْقِيَامَةِ كِتَاباً يَلْقَاهُ مَنشُوراً(( 13 ))
 
@@ -546,9 +528,7 @@ AND HE WHO IS STRAYED, HE ONLY STRAYS AGAINST HIMSELF. AND NO CARRIER
 WILL CARRY THE BURDEN (OF THE SINS) OF ANOTHER. AND WE WERE NOT TO
 PUNISH UNTIL WE RAISE A MESSENGER.
 
-
 THE COMMENTARY
-
 
 FOUR IMPORTANT ISLAMIC PRINCIPLES (VERSE NO. 13 - 15)
 
@@ -634,5 +614,4 @@ AND DESERVED THE WORD (OF PUNISHMENT), THEN WE DESTROYED IT UTTERLY.
 
 17- AND HOW MANY OF GENERATIONS WE DESTROYED AFTER NOAH. AND ENOUGH IS
 YOUR LORD FOR BEING AWARE OF, AND SEEING THE SINS OF HIS SERVANTS.
-
 

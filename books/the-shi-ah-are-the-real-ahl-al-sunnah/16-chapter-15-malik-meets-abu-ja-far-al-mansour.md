@@ -93,7 +93,7 @@ eunuch put that outfit on my shoulder, I leaned to avoid it, trying to
 disclaim it, whereupon Abu Ja\`far ordered him to carry it to where my
 camel was tied."[^78]
 
-[^77] He is referring to his cousin Ja\`far ibn Sulayman ibn al-Abbas,
+[^77]: He is referring to his cousin Ja\`far ibn Sulayman ibn al-Abbas,
 then his governor over Medina.
-[^78] Ibn Qutaybah, Tarikh al-Khulafa, Vol. 2, p. 150.
+[^78]: Ibn Qutaybah, Tarikh al-Khulafa, Vol. 2, p. 150.
 

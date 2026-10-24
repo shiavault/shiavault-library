@@ -284,4 +284,3 @@ Vol. 6, p. 323, Vol. 6; and al-Nasa'i, Khasais, p. 17.
 fiqh and the injunctions upon which they are based, of Ibn Khaldun's
 Muqaddimah (Introduction).
 
-

@@ -106,4 +106,3 @@ Pg. 182.
 [^7]: This happened when he breathed his last in 1354 H.E. and attained
 nearness to the Holy Family.
 
-

@@ -29,4 +29,3 @@ the afore-mentioned evidences which unequivocally prove the authenticity
 of the Qur’an as the word of God, the Almighty.  
 ** **
 
-

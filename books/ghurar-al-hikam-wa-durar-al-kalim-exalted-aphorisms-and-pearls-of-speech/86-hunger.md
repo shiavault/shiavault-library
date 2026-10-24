@@ -33,10 +33,5 @@ contentment.
 self and breaking its [bad] habits hunger is!
 
 > 7ـ نِعْمَ العَونُ عَلى أشَـرِ(أسْرِ) النَّفْسِ وكَسْرِ عادَتِها
-<blockquote dir="rtl">
-  <p>
-التَّجَوُّعُ.
-  </p>
-</blockquote>
-
+> التَّجَوُّعُ.
 

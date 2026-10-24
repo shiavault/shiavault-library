@@ -68,4 +68,3 @@ on the decoration of the created world.
 
 [^3]: Surah Aaraf 7:13
 
-

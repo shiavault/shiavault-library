@@ -168,4 +168,3 @@ Man may look mahram women, provided there is no lust or enjoyment. He
 is not allowed to look at Ghair-mahrams even without lusty intention; it
 is ahwat not to look even at Ghair- mahram woman's face and palms.
 
-

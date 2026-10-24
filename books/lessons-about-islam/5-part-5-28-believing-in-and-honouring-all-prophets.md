@@ -106,5 +106,4 @@ with them\*.
 Dr. Beheshti to the "Epiphany Community Hamburg" on October 14, 1965 and
 to the students "Corps Rhenania Hamburge" on October 29, 1965.
 
-
 THE END

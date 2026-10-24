@@ -68,7 +68,5 @@ With his scholarly skills none can compete.
 Admire his piety. He is not guided by greed.
 The Prophet of Allah - only he can succeed.
 
-
 Ali Rizwan Shah
-
 

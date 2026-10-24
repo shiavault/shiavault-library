@@ -48,7 +48,6 @@ which Khums has not been paid, one fifth of it is the liability of the
 donor himself, and one who gets the gift is not required to pay
 anything.
 
-
 861. If a person acquires wealth from an unbeliever, or a person who
 does not believe in paying khums or does not pay Khums at all, it will
 not be obligatory for him, that is, the person who receives it, to pay
@@ -312,5 +311,4 @@ Mujtahid to do so, or give Khums to the deserving person and thereafter,
 the deserring persn returns it to him towards the debt. He can also
 become pkoxy of the deserving person, receiving Khums on his behalf, and
 then deduct his debt from it.
-
 

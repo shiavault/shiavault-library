@@ -6,7 +6,7 @@ grandfather, the Messenger of Allah (a.s). The Holy Prophet saved the
 people from deviation and his grandson and last of the twelve successors
 is also the savior of humanity. Historians and tradition reporters are
 unanimous that his holy great grandfather, the Messenger of Allah,
-selected this name for him.<sup>[1]</sup>
+selected this name for him.[1]
 
 ### Titles of Imam Mahdi (a.s)
 
@@ -23,12 +23,12 @@ following couplet at the tragedy of passing away of the Holy Prophet
 
 *“What has happened to my eyes that I cannot sleep*
 
-*As if in my eyes is the Kohl of sleeplessness.”<sup>[2]</sup>*
+*As if in my eyes is the Kohl of sleeplessness.”[2]*
 
 In the same way, the Prophet of Allah (a.s) says in his supplication,
 
 “O Allah, embellish me with the embellishment of faith. O Allah! Make me
-of the guided ones.”<sup>[3]</sup>
+of the guided ones.”[3]
 
 ------------------------------------------------------------------------
 
@@ -38,23 +38,23 @@ Ahmad, Vol. 4, Pg-264
 This title was also associated with Imam Hasan (a.s). Sulaiman bin Sard,
 one of the prominent penitents of Kufa says, “O Allah, have mercy on
 Hasan, the martyr, son of the martyr, the Mahdi, son of the
-Mahdi.”<sup>[1]</sup>
+Mahdi.”[1]
 
 However, this honorific is specially associated with the Awaited Imam in
 such a way that its application to any other personality is very rare
 and any reference to it is without fail associated with Imam Mahdi (a.s)
-as mentioned by Ibne Manzoor<sup>[2]</sup> and Zubaidi<sup>[3]</sup>,
+as mentioned by Ibne Manzoor[2] and Zubaidi[3],
 the well known lexicographers and experts of Arabic.
 
 **2. Qaim** (One who rises). This is also a title of the Holy Imam Mahdi
 (a.s). It is due to the fact that he would arise for
-truth.<sup>[4]</sup> And he is also referred to as the Qaim of the
+truth.[4] And he is also referred to as the Qaim of the
 Progeny of Muhammad (a.s).
 
-**3. Muntazar**<sup>[5]</sup> (The Awaited one). As the believers are
+**3. Muntazar**[5] (The Awaited one). As the believers are
 patiently waiting for his reappearance.
 
-**4. Hujjat<sup>[6]</sup>** (Proof). This is because he is the Proof of
+**4. Hujjat[6]** (Proof). This is because he is the Proof of
 Almighty God upon His creatures and servants.
 
 **5. Khalaf-e-Salih** (the best and the righteous Successor), because he
@@ -63,9 +63,9 @@ is the heir of the greatest families of the Islamic world…
 ### Agnomen of the Imam of the time
 
 It is a confirmed fact that the Prophet of Islam (a.s) had designated,
-Abu Abdillah<sup>[7]</sup> as the agnomen of his last successor, the
+Abu Abdillah[7] as the agnomen of his last successor, the
 Awaited Imam. It is also said that the agnomen of the Holy Imam is, Abu
-Ja’far and Abul Qasim.<sup>[8]</sup>
+Ja’far and Abul Qasim.[8]
 
 ------------------------------------------------------------------------
 
@@ -76,8 +76,8 @@ Akhbar-e-Muntazar, Pg. 194 [8] Rauzatush Shohada, Pg. 326
 ### Year of Birth of the Imam of the Time
 
 The birth of His Eminence, Mahdi (a.s), the great reformer of humanity
-is said to have been in the year 255 A.H.<sup>[1]</sup> and the year 232
-all is also mentioned in this regard.<sup>[2]</sup>
+is said to have been in the year 255 A.H.[1] and the year 232
+all is also mentioned in this regard.[2]
 
 ### The Blessed Night
 

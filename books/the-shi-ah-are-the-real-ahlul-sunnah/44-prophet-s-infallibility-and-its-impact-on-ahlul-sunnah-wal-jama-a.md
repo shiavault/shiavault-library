@@ -98,4 +98,3 @@ disputing among themselves; so Allah guided by His will those who
 believed to the truth about which they disputed, and Allah guides
 whomsoever He pleases to the Right Path.” (Holy Qur'an, 2:213)***
 
-

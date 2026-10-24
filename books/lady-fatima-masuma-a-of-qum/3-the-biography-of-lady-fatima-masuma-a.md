@@ -10,12 +10,8 @@ noble lady and her presence in Qum many years before her birth.
 Qādī Nūrullāh Shūshtarī (d. 1109 A.H) reports from the 6th Imam, Imam
 Ja\`far al-Sādiq (A):
 
-<blockquote dir="rtl">
-  <p>
-تُقبَض فيها امْراةٌ منْ وُلْدى، اِسْمُها فاطِمَةُ بِنْتُ مُوسى،
-وتَدْخُلُ بِشَفاعَتِها شيعَتى الجنّة بَاجْمَعِهِمْ
-  </p>
-</blockquote>
+> تُقبَض فيها امْراةٌ منْ وُلْدى، اِسْمُها فاطِمَةُ بِنْتُ مُوسى،
+> وتَدْخُلُ بِشَفاعَتِها شيعَتى الجنّة بَاجْمَعِهِمْ
 
 **“A lady from my children whose name will be Fatima, daughter of Mūsā,
 will die in Qum. On the Day of Judgement this lady will intercede for
@@ -23,12 +19,8 @@ all my Shi\`a to enter Heaven.”**[^1]
 
 \`Allāmah Majlisī narrates from Imam al-Sādiq (A):
 
-<blockquote dir="rtl">
-  <p>
-وَسَتُدْفَنُ فيها امْرَأةٌ مِنْ اَوْلادى تُسَمّى فاطِمَةَ، فَمَنْ
-زارَها وَجَبَتْ لَهُ الجنّة
-  </p>
-</blockquote>
+> وَسَتُدْفَنُ فيها امْرَأةٌ مِنْ اَوْلادى تُسَمّى فاطِمَةَ، فَمَنْ
+> زارَها وَجَبَتْ لَهُ الجنّة
 
 **“A lady from my children, by the name of Fatima will be buried in Qum.
 Whoever visits her [shrine], will certainly be admitted to
@@ -247,11 +239,7 @@ Mirzā Muhammad Taqī (d. 1297 A.H) reports that the title “Masuma” was
 given to her by her brother – Imam al-Ridā (A). And according to this
 tradition Imam al-Ridā (A) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَ الْمَعْصومَةَ بِقُمْ كَمَنْ زارَني
-  </p>
-</blockquote>
+> مَنْ زارَ الْمَعْصومَةَ بِقُمْ كَمَنْ زارَني
 
 **“Whoever visits Masuma in Qum is like the one who has visited
 me.”**[^25]
@@ -262,12 +250,8 @@ as the 14 Ma\`sūmīn (The Prophet, Lady Fatima Zahra and the 12 Imams –
 peace be upon them all), who are considered sinless and Divinely
 protected according to the verse of Purity:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 **“Verily, Allah intends to keep all uncleanliness away from you, O Ahl
 al-Bayt, and to purify you thoroughly.”**[^26]
@@ -302,11 +286,7 @@ and in his dream he saw himself present at the grave of either Imam
 al-Bāqir (A) or Imam al-Sādiq (A) (both of whom are buried in Jannat
 al-Baqī\` in Madina). Imam (A) said to him:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِكَريمَـةِ اَهْـلِ الْبَيْتِ
-  </p>
-</blockquote>
+> عَلَيْكَ بِكَريمَـةِ اَهْـلِ الْبَيْتِ
 
 **“I advise you to go to the Karīmat (Noble one)**
 
@@ -368,11 +348,7 @@ In the salutation (Ziyārat) of Lady Fatima Masuma (A) which has been
 narrated from Imam al-Ridā (A) (the salutation is quoted in the final
 chapter of this book), one reads:
 
-<blockquote dir="rtl">
-  <p>
-وَاَنْ لا يَسْلُبَنا مَعْرِفَتَكُمْ اِنَّهُ وَلىُّ قَديرٌ
-  </p>
-</blockquote>
+> وَاَنْ لا يَسْلُبَنا مَعْرِفَتَكُمْ اِنَّهُ وَلىُّ قَديرٌ
 
 **“(We ask from Allah) not to deprive us from understanding your status.
 Indeed, He is the Protector and has Power over everything.”**
@@ -383,11 +359,7 @@ her status are mentioned below:
 
 1. The authentic tradition from Imam al-Ridā (A):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَ الْمَعْصومَةَ بِقُمْ كَمَنْ زارَنى
-  </p>
-</blockquote>
+> مَنْ زارَ الْمَعْصومَةَ بِقُمْ كَمَنْ زارَنى
 
 **“Whoever visits Masuma in Qum is like the one who has visited
 me.”**[^28]
@@ -400,12 +372,8 @@ this noble lady by Imam (A) himself.
 
 1. The authentic tradition from Imam al-Sādiq (A):
 
-<blockquote dir="rtl">
-  <p>
-وَسَتُدْفَنُ فيها امْرَأةٌ مِنْ اَوْلادى تُسَمّى فاطِمَةَ، فَمَنْ
-زارَها وَجَبَتْ لَهُ الجنّة
-  </p>
-</blockquote>
+> وَسَتُدْفَنُ فيها امْرَأةٌ مِنْ اَوْلادى تُسَمّى فاطِمَةَ، فَمَنْ
+> زارَها وَجَبَتْ لَهُ الجنّة
 
 **“A lady from my children, by the name of Fatima will be buried in Qum.
 Whoever visits her [shrine], will certainly be admitted to
@@ -416,12 +384,8 @@ because her pilgrim is ensured entry into Heaven.
 
 3. Another authentic tradition from Imam al-Sādiq (A):
 
-<blockquote dir="rtl">
-  <p>
-تُقبَض فيها امْراةٌ منْ وُلْدي، اِسْمُها فاطِمَةُ بِنْتُ مُوسى،
-وتَدْخُلُ بِشَفاعَتِها شيعَتي الجنّة بَأجْمَعِهِمْ
-  </p>
-</blockquote>
+> تُقبَض فيها امْراةٌ منْ وُلْدي، اِسْمُها فاطِمَةُ بِنْتُ مُوسى،
+> وتَدْخُلُ بِشَفاعَتِها شيعَتي الجنّة بَأجْمَعِهِمْ
 
 **“A lady from my children whose name will be Fatima, daughter of Mūsā,
 will die in Qum. On the day of Judgement this lady will intercede for
@@ -459,60 +423,32 @@ the daughter of the Prophet of God,
 
 That portion from her Ziyārat is reproduced below:
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا بنت رسول الله
-  </p>
-</blockquote>
+> السلام عليك يا بنت رسول الله
 
 **Peace be on You, O Daughter of the Messenger of Allah!**
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا بنت فاطمة وخديجة
-  </p>
-</blockquote>
+> السلام عليك يا بنت فاطمة وخديجة
 
 **Peace be on you, O Daughter of Fatima and Khadījah!**
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا بنت امير المؤمنين
-  </p>
-</blockquote>
+> السلام عليك يا بنت امير المؤمنين
 
 **Peace be on you, O Daughter of the  
  Commander of the Faithful!**
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا بنت الحسن والحسين
-  </p>
-</blockquote>
+> السلام عليك يا بنت الحسن والحسين
 
 **Peace be on you, O Daughter of Hasan and Husain!**
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا بنت وليّ الله
-  </p>
-</blockquote>
+> السلام عليك يا بنت وليّ الله
 
 **Peace be on you, O Daughter of the Vicegerent of Allah!**
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا أخت وليّ الله
-  </p>
-</blockquote>
+> السلام عليك يا أخت وليّ الله
 
 **Peace be on you, O Sister of the Vicegerent of Allah!**
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا عمّة ولىّ الله
-  </p>
-</blockquote>
+> السلام عليك يا عمّة ولىّ الله
 
 **Peace be on you, O Aunt of the Vicegerent of Allah!**
 
@@ -524,11 +460,7 @@ Fatima Zahra (A) and the Pure Imams (A).
 ii. In this Ziyārat, Imam al-Ridā (A) refers us to her for intercession,
 due to her nearness, status and special esteem in the eyes of Allah.
 
-<blockquote dir="rtl">
-  <p>
-يا فاطمة ٱشفعي لي في الجنّة فانّ لك عند الله شأناً مّن الشّأن
-  </p>
-</blockquote>
+> يا فاطمة ٱشفعي لي في الجنّة فانّ لك عند الله شأناً مّن الشّأن
 
 **O Fatima! Intercede for me, so that** **I** **enter Heaven, for indeed
 you have a** **great status in the eyes of Allah.** [^31]
@@ -540,11 +472,7 @@ al-Sādiq (A) and in the salutation taught by Imam al-Ridā (A).[^32]
 5. One of the noble qualities attributed to Lady Fatima Zahra (A) was
 that her father, the Prophet (S) would say about her:
 
-<blockquote dir="rtl">
-  <p>
-فِدَاهَا اَبُوهَا
-  </p>
-</blockquote>
+> فِدَاهَا اَبُوهَا
 
 **“May her father be sacrificed for her.”**[^33]
 
@@ -598,21 +526,13 @@ question arises “Why?”
 Islam and in regards to marriage, some of the traditions of the Prophet
 (S) are quoted below:
 
-<blockquote dir="rtl">
-  <p>
-ما بُِنيَ فِى الْاِسْلامِ بِناءٌ اَحَبُّ اِلَى اللهِ عَزَّ وَجَلَّ
-وَاَعَزُّ مِنَ التَّزويجِ
-  </p>
-</blockquote>
+> ما بُِنيَ فِى الْاِسْلامِ بِناءٌ اَحَبُّ اِلَى اللهِ عَزَّ وَجَلَّ
+> وَاَعَزُّ مِنَ التَّزويجِ
 
 **There is no institution more honourable and beloved to Allah, than
 marriage.**[^37]
 
-<blockquote dir="rtl">
-  <p>
-النِّكاحُ سُنَّتِي، فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي
-  </p>
-</blockquote>
+> النِّكاحُ سُنَّتِي، فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي
 
 **Marriage is part of my Sunnah (practice) and whoever disregards my
 Sunnah is not from me.**[^38]
@@ -639,12 +559,8 @@ of the Ahl al-Bayt (A), does not seem so far-fetched when we consider
 the tradition from Imam al-Sādiq (A) in reference to Lady Fatima Zahra
 (A):
 
-<blockquote dir="rtl">
-  <p>
-لولا أنّ الله تبارك وتعالى خلق أمير المؤمنين لفاطمة  
- ما كان لها كفو على ظهر الارض من آدم ومن دونه.
-  </p>
-</blockquote>
+> لولا أنّ الله تبارك وتعالى خلق أمير المؤمنين لفاطمة
+>  ما كان لها كفو على ظهر الارض من آدم ومن دونه.
 
 **“If God had not created the Commander of the Faithful [Ali] for
 Fatima, then there would not have been a suitable husband for her in the
@@ -681,27 +597,15 @@ transmission (*sanad*).
 
 ### 1. The tradition of Ghadīr and the tradition of Manzilat
 
-<blockquote dir="rtl">
-  <p>
-حدثتنا فاطمة وزينب وامّ كلثوم بنات موسى بن جعفر، قلن حدثتنا فاطمة
-...بنت جعفر بن محمد الصادق، حدثتني فاطمة بنت محمد بن علي، حدثتني فاطمة
-بنت علي بن الحسين، حدثتني فاطمة وسكينة ابنتا الحسين بن علي، عن أم
-كلثوم بنت فاطمة بنت النبي، عن فاطمة بنت رسول الله (ص) قالت :
-  </p>
-</blockquote>
+> حدثتنا فاطمة وزينب وامّ كلثوم بنات موسى بن جعفر، قلن حدثتنا فاطمة
+> ...بنت جعفر بن محمد الصادق، حدثتني فاطمة بنت محمد بن علي، حدثتني فاطمة
+> بنت علي بن الحسين، حدثتني فاطمة وسكينة ابنتا الحسين بن علي، عن أم
+> كلثوم بنت فاطمة بنت النبي، عن فاطمة بنت رسول الله (ص) قالت :
 
-<blockquote dir="rtl">
-  <p>
-أنسيتم قول رسول الله (ص) يوم غديرخم: مَنْ كُنْتُ مَوْلاهُ فَعَلِيٍّ
-مَوْلاهُ
-  </p>
-</blockquote>
+> أنسيتم قول رسول الله (ص) يوم غديرخم: مَنْ كُنْتُ مَوْلاهُ فَعَلِيٍّ
+> مَوْلاهُ
 
-<blockquote dir="rtl">
-  <p>
-وقوله (ص): اَنْتَ مِنِّي بِمَنْزِلَةِ هارُونَ مِنْ مُوسى
-  </p>
-</blockquote>
+> وقوله (ص): اَنْتَ مِنِّي بِمَنْزِلَةِ هارُونَ مِنْ مُوسى
 
 **The daughters of Imam al-Kāđim (A), Fatima (Masuma), Zaynab and Umm
 Kulthūm have narrated to me:**  
@@ -725,22 +629,14 @@ was decorated with pearls and rubies, and on that door was hanging a
 curtain.  
  I raised my head towards it and saw written on the door:
 
-<blockquote dir="rtl">
-  <p>
-لا اِلهَ اِلا اللهُ، مُحَمَّدٌ رَسُولُ اللهِ، عَلِيٌّ وَلِيُّ القَوْمِ
-  </p>
-</blockquote>
+> لا اِلهَ اِلا اللهُ، مُحَمَّدٌ رَسُولُ اللهِ، عَلِيٌّ وَلِيُّ القَوْمِ
 
 **“There is no God but Allah, Muhammad is the Messenger of Allah, Ali is
 the Guardian of the community.”**
 
 I then looked at the curtain and on that was written:
 
-<blockquote dir="rtl">
-  <p>
-بَخٍّ بَخٍّ مَنْ مِثْلُ شِيعَةِ عَلِىٍّ؟
-  </p>
-</blockquote>
+> بَخٍّ بَخٍّ مَنْ مِثْلُ شِيعَةِ عَلِىٍّ؟
 
 **“Ah, ah! Who is like the Shi\`a of Ali?”**
 
@@ -749,11 +645,7 @@ door of silver, decorated with green topaz and on that door was hanging
 a curtain.  
  I raised up my head and saw written on that door:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدٌ رَسُولُ اللهِ، عَلِيٌّ وَصِيُّ الْمُصْطَفى
-  </p>
-</blockquote>
+> مُحَمَّدٌ رَسُولُ اللهِ، عَلِيٌّ وَصِيُّ الْمُصْطَفى
 
 **Muhammad is the Messenger of Allah, Ali is the Successor of
 Mustafā.”**[^44]
@@ -762,14 +654,10 @@ Mustafā.”**[^44]
 Safīyah, the daughter of \`Abd al-Muttalib, [the paternal aunt of the
 Prophet (S)], who relates:
 
-<blockquote dir="rtl">
-  <p>
-عن صفية بنت عبد المطّلب قالت: لمّا سقط الحسين (ع) من بطن امّه وكنت
-وليتها قال رسول الله (ص) يا عمة هلمّي اليّ ابني فقلت يا رسول الله اناّ
-لم ننظفّه بعد. فقال (ص) يا عمة انت تنظّفينه انّ الله تبارك وتعالى قد
-نظّفه وطهّره
-  </p>
-</blockquote>
+> عن صفية بنت عبد المطّلب قالت: لمّا سقط الحسين (ع) من بطن امّه وكنت
+> وليتها قال رسول الله (ص) يا عمة هلمّي اليّ ابني فقلت يا رسول الله اناّ
+> لم ننظفّه بعد. فقال (ص) يا عمة انت تنظّفينه انّ الله تبارك وتعالى قد
+> نظّفه وطهّره
 
 **“When Imam Husain (A) was born and I was attending to his mother, the
 Prophet (S) said to me: Oh aunt ! Bring my child to me. I said: I have
@@ -779,14 +667,10 @@ him pure?”**[^45]
 
 4. It is narrated that:
 
-<blockquote dir="rtl">
-  <p>
-عن فاطمة بنت موسى بن جعفر، عن فاطمة بنت الصادق جعفر بن محمد، عن فاطمة
-بنت الباقر محمد بن علي، عن فاطمة بنت السجاد علي بن الحسين زين
-العابدين، عن فاطمة بنت ابي عبدالله الحسين، عن زينب بنت أمير المؤمنين،
-عن فاطمة بنت رسول الله (ص)، قالت قال رسول الله (ص):
-  </p>
-</blockquote>
+> عن فاطمة بنت موسى بن جعفر، عن فاطمة بنت الصادق جعفر بن محمد، عن فاطمة
+> بنت الباقر محمد بن علي، عن فاطمة بنت السجاد علي بن الحسين زين
+> العابدين، عن فاطمة بنت ابي عبدالله الحسين، عن زينب بنت أمير المؤمنين،
+> عن فاطمة بنت رسول الله (ص)، قالت قال رسول الله (ص):
 
 اَلا مَنْ ماتَ عَلى حُبِّ آلِ مُحَمَّدٍ ماتَ شَهِيداً
 
@@ -832,12 +716,8 @@ In the beginning of the will of Imam al-Kāđim (A), after mentioning the
 guardianship of Imam al-Ridā (A) for his wives and daughters, the
 following was written:
 
-<blockquote dir="rtl">
-  <p>
-وَاِنْ اَرادَ رَجُلٌ مِنْهُمْ اَنْ يُزَوِّجَ اُخْتَهُ،  
- فَلَيْسَ لَهُ اَنْ يُزَوِّجَها اِلاَّ بِاِدْنِهِ وَاَمْرِهِ
-  </p>
-</blockquote>
+> وَاِنْ اَرادَ رَجُلٌ مِنْهُمْ اَنْ يُزَوِّجَ اُخْتَهُ،
+>  فَلَيْسَ لَهُ اَنْ يُزَوِّجَها اِلاَّ بِاِدْنِهِ وَاَمْرِهِ
 
 **“…and if anyone of the brothers wants his sister to get married, he
 must get his (Imam al-Ridā’s) permission...”**[^47]
@@ -879,11 +759,7 @@ Fatima Masuma (A). After studying her replies and finding all the
 questions answered so correctly and eloquently by his young daughter,
 the Imam (A) remarked:
 
-<blockquote dir="rtl">
-  <p>
-فِدَاهَا اَبُوهَا
-  </p>
-</blockquote>
+> فِدَاهَا اَبُوهَا
 
 **May her father be sacrificed for her.**
 
@@ -895,12 +771,8 @@ Masuma (A), even as a child. It comes as no surprise, therefore, when we
 read in her Ziyārat – which was dictated by Imam Ali Ridā (A), the
 following:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكِ يا فاطِمَةُ بِنْتَ موسَى بْنِ جَعْفَرٍ وَحُجَّتِهِ
-وَاَمينِهِ
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكِ يا فاطِمَةُ بِنْتَ موسَى بْنِ جَعْفَرٍ وَحُجَّتِهِ
+> وَاَمينِهِ
 
 **Salutations to you, Oh Fatima, daughter of Mūsā ibn Ja\`far, the proof
 (*****hujjah*****) and trusted one (*****amīn*****).**[^51]
@@ -1071,5 +943,4 @@ vol. 1, pp. 16 & 17.
 [^50]: Bihār al-Anwār, vol. 43, pp. 86 & 88.
 
 [^51]: Bihār al-Anwār, vol. 43, p. 88.
-
 

@@ -1455,4 +1455,3 @@ al-Husayn, p. 50, Vol. 4, and of Ibn Kathir's book Al-Tarikh al-Kamil,
 where the events of the year 64 A.H./684 A.D. are detailed, an account
 which agrees with what is recorded in al-Mas’udi's book Muruj al-Thahab.
 
-

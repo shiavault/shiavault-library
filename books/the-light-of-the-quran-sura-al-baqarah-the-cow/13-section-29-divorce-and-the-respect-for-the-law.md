@@ -297,4 +297,3 @@ that He is aware of all your activities and all the secrects of this
 world. "...and be in awe of Allah and know that Allah is All-Knowing of
 all things."
 
-

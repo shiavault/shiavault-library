@@ -148,4 +148,3 @@ development and evolution. It requires those who seek the pleasure of
 Allah, not the self‑seekers.  
   
 
-

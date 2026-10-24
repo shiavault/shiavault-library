@@ -6,12 +6,8 @@ that is called *Mihr* or *Sadaq*. The word *Mihr* does not appear in the
 Holy Quran, however, the word *Sadaq* has been employed. The Quran
 states:
 
-<blockquote dir="rtl">
-  <p>
-وَ آتُواْ النَّسَاء صَدُقَاتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن
-شَيْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَّرِيئًا
-  </p>
-</blockquote>
+> وَ آتُواْ النَّسَاء صَدُقَاتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن
+> شَيْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَّرِيئًا
 
 ***“And give unto women their Sadaq willingly and if they freely remit
 any part of it to you, consume it in pleasure and delight.”***[^1]
@@ -20,12 +16,8 @@ No specific amount has been determined for *Sadaq*—it is a matter that
 is decided by mutual agreement between the woman and man. Imam Baqir
 (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو جعفر (ع): «الصداق ما تراضیا علیه من قلیل او کثیر، فهذا
-الصداق.»
-  </p>
-</blockquote>
+> قال ابو جعفر (ع): «الصداق ما تراضیا علیه من قلیل او کثیر، فهذا
+> الصداق.»
 
 *Sadaq* is something that the betrothed agree upon, whether slight or
 considerable.[^2]
@@ -34,12 +26,8 @@ There is no minimum amount set for *Mahr* although various Hadith
 suggest that it not be excessively low. Imam Sadiq (‘a) has cited Imam
 ‘Ali (‘a) through his forefathers:
 
-<blockquote dir="rtl">
-  <p>
-جعفر بن محمّد، عن آبائه، عن علیّ (ع) قال: «إنّی أکره أن یکون المهر
-أقلّ من عشرة دراهم؛ لئلّا یشبه مهر البغی.»
-  </p>
-</blockquote>
+> جعفر بن محمّد، عن آبائه، عن علیّ (ع) قال: «إنّی أکره أن یکون المهر
+> أقلّ من عشرة دراهم؛ لئلّا یشبه مهر البغی.»
 
 I do not like *Mahr* to be less than ten dirham, so it does not resemble
 the payment of a prostitute.[^3]
@@ -49,11 +37,7 @@ though a high *Mahr* is not forbidden, Islam does not regard setting
 high *Mahr* and competing in *Mahr* to be prudent and has advised
 against it. Amir al-Mu’minin (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-عن علیّ (ع) قال: «لاتغالوا بمهور النساء فتکون عداوة.»
-  </p>
-</blockquote>
+> عن علیّ (ع) قال: «لاتغالوا بمهور النساء فتکون عداوة.»
 
 Do not set substantial *Mahr* for women and do not compete in its excess
 for this causes enmity.[^4]
@@ -92,12 +76,8 @@ without her consent; even her father, mother, or husband. The profits of
 a woman’s properties also belong to herself. The Prophet of Allah (S)
 has stated:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): «إنّ الله لیغفر کلّ ذنب یوم القیامة إلّا مهر إمرأة،
-و من اغتصب أجیراً أجره، و من باع حراً.»
-  </p>
-</blockquote>
+> قال رسول الله (ص): «إنّ الله لیغفر کلّ ذنب یوم القیامة إلّا مهر إمرأة،
+> و من اغتصب أجیراً أجره، و من باع حراً.»
 
 Surely Allah will forgive any sin on the Day of Resurrection save the
 sin of one who misappropriates the *Mahr* of a woman or the wages of a
@@ -105,12 +85,8 @@ hired person, or who sells a free person (as a slave).[^6]
 
 It was asked of Imam Musa ibn Ja‘far (‘a):
 
-<blockquote dir="rtl">
-  <p>
-احمد بن ابی نصر قال سأل ابوالحسن الاول (ع) عن الرجل یزوج ابنته، اله ان
-یأکل صداقها؟ قال: «لا، لیس ذلک له.»
-  </p>
-</blockquote>
+> احمد بن ابی نصر قال سأل ابوالحسن الاول (ع) عن الرجل یزوج ابنته، اله ان
+> یأکل صداقها؟ قال: «لا، لیس ذلک له.»
 
 ‘May a father consume the *Mahr* of his daughter?’ He replied, ‘No, he
 does not have such right.’[^7]
@@ -121,23 +97,15 @@ pay it on demand and as soon as possible.
 Regarding a man who had married a woman but did not intend to pay her
 *Mahr*, Imam Sadiq (‘a) declared:
 
-<blockquote dir="rtl">
-  <p>
-فضیل بن یسار، عن أبی عبدالله (ع) في الرجل یتزوّج المرأة و لا یجعل فی
-نفسه أن یعطیها مهرها: فهو زنا.
-  </p>
-</blockquote>
+> فضیل بن یسار، عن أبی عبدالله (ع) في الرجل یتزوّج المرأة و لا یجعل فی
+> نفسه أن یعطیها مهرها: فهو زنا.
 
 This is [considered] fornication.[^8]
 
 Imam Sadiq (‘a) has also declared:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی عبدالله (ع) قال: «من أمهر مهراً ثمّ لا ینوی قضاءه کان بمنزلة
-السارق.»
-  </p>
-</blockquote>
+> عن أبی عبدالله (ع) قال: «من أمهر مهراً ثمّ لا ینوی قضاءه کان بمنزلة
+> السارق.»
 
 He who designates *Mihr* for his wife but does not intend to honor it is
 equivalent to a thief.[^9]
@@ -145,15 +113,11 @@ equivalent to a thief.[^9]
 The noble Imam Sadiq (‘a) thus cited the Prophet of Allah through his
 forefathers:
 
-<blockquote dir="rtl">
-  <p>
-عن الصادق، عن آبائه (ع) عن النبیّ (ص) – فی حدیث المناهي – قال: «من ظلم
-امرأة مهرها فهو عند الله زنا، یقول الله عزّوجلّ یوم القیامة: عبدی!
-زوّجتک أمتي علی عهدي فلم توف بعهدي، و ظلمت أمتی. فیؤخذ من حسناته فیدفع
-إلیها بقدر حقّها، فإذا لم تبق له حسنة، أمر به إلی النار بنکثه للعهد،
-إنّ العهد کان مسؤلاً.»
-  </p>
-</blockquote>
+> عن الصادق، عن آبائه (ع) عن النبیّ (ص) – فی حدیث المناهي – قال: «من ظلم
+> امرأة مهرها فهو عند الله زنا، یقول الله عزّوجلّ یوم القیامة: عبدی!
+> زوّجتک أمتي علی عهدي فلم توف بعهدي، و ظلمت أمتی. فیؤخذ من حسناته فیدفع
+> إلیها بقدر حقّها، فإذا لم تبق له حسنة، أمر به إلی النار بنکثه للعهد،
+> إنّ العهد کان مسؤلاً.»
 
 He who wrongs his wife regarding her *Mahr* is considered by Allah a
 fornicator. On the Day of Judgment, Allah, the honored, the glorified,
@@ -259,13 +223,9 @@ backup for marriage.
 
 Imam Sadiq (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-عن الصادق (ع) قال: «إنّما صار الصداق علی الرَّجُل دونَ المرأة-و إن کان
-فعلهما واحداً-لانّ الرجل إذا قَضَی حاجته منها قام عَنها و لَم یَنتَظر
-فراغها فَصار الصداق عَلَیه دونُها لذلک.»
-  </p>
-</blockquote>
+> عن الصادق (ع) قال: «إنّما صار الصداق علی الرَّجُل دونَ المرأة-و إن کان
+> فعلهما واحداً-لانّ الرجل إذا قَضَی حاجته منها قام عَنها و لَم یَنتَظر
+> فراغها فَصار الصداق عَلَیه دونُها لذلک.»
 
 The reason that [the responsibility of] *Sadaq* has been placed upon the
 man not the woman—even though their actions are the same—is that when
@@ -295,5 +255,4 @@ the previous chapter. [trans.]
 [^10]: - Wasa’il ush-Shi‘ah, p. 276.
 
 [^11]: - Wasa’il ush-Shi‘ah, vol. 21, p. 268.
-
 

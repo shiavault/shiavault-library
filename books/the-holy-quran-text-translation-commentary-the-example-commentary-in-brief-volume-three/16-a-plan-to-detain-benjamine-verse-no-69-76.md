@@ -309,7 +309,6 @@ JOSEPH AND HIS BROTHER WHEN YOU WERE IGNORANTS?''
 قَدْ مَنَّ اللهُ عَلَيْنَا إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللهَ
 لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ(( 90 ))
 
-
 90- THEY SAID:ِ \`\`ARE YOU INDEED JOSEPH!?''
 
 HE SAID:ِ \`\`I AM JOSEPH AND THIS IS MY BROTHER. ALLAH HAS INDEED MADE
@@ -457,5 +456,4 @@ FROM ALLAH THAT WHICH YOU DO NOT KNOW?''
 
 98- HE SAID:ِ \`\`SOON WILL I ASK MY LORD TO FORGIVE YOU, THAT HE IS
 ALL-FORGIVING, COMPASSIONATE.''
-
 

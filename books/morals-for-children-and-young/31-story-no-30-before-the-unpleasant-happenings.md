@@ -17,4 +17,3 @@ reached high status.
 Yes, it is against the morals of Islam to rejoice at the misfortune of
 others. It is possible that he will be freed of it and you be caught.
 
-

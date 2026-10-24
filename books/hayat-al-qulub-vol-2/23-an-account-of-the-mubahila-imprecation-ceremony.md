@@ -51,12 +51,8 @@ of God and His messenger.” They said, “Have you ever seen any child come
 into this world without a father?” At that moment the following verse
 was revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ
-تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ
+> تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ
 
 ***“Surely the likeness of Isa is with Allah as the likeness of Adam; He
 created him from dust, then said to him, Be, and he was.”***[^1]
@@ -65,14 +61,10 @@ Thus when the discussion prolonged, and the opponents increased in their
 enmity to the Prophet, the Almighty Allah revealed the following
 command:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
-وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
-لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
+> وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
+> لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
 
 ***“But whoever disputes with you in this matter after what has come to
 you of knowledge, then say: Come let us call our sons and your sons and
@@ -154,12 +146,8 @@ Prophet (S) took a sheet of black hair, covered Imam Hasan (a.s.), Imam
 Husain (a.s.) and Fatima Zahra and Ali Ibn Abi Talib (a.s.) and then he
 recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Allah only desires to keep away the uncleanness from you, O people
 of the House! and to purify you a (thorough) purifying.”***[^3]
@@ -188,17 +176,13 @@ human beings and have relations with women?” The Holy Prophet (S) asked,
 was the father of Adam?” They could offer no reply. At that moment, the
 following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ
-تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ. الْحَقُّ مِنْ رَبِّكَ فَلَا
-تَكُنْ مِنَ الْمُمْتَرِينَ. فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ مَا
-جَاءَكَ مِنَ الْعِلْمِ فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا
-وَأَبْنَاءَكُمْ وَنِسَاءَنَا وَنِسَاءَكُمْ وَأَنْفُسَنَا
-وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ اللَّهِ عَلَى
-الْكَاذِبِينَ
-  </p>
-</blockquote>
+> إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ
+> تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ. الْحَقُّ مِنْ رَبِّكَ فَلَا
+> تَكُنْ مِنَ الْمُمْتَرِينَ. فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ مَا
+> جَاءَكَ مِنَ الْعِلْمِ فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا
+> وَأَبْنَاءَكُمْ وَنِسَاءَنَا وَنِسَاءَكُمْ وَأَنْفُسَنَا
+> وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ اللَّهِ عَلَى
+> الْكَاذِبِينَ
 
 ***“Surely the likeness of Isa is with Allah as the likeness of Adam; He
 created him from dust, then said to him, Be, and he was. (This is) the
@@ -432,14 +416,10 @@ accept Islam, they must in all humility pay the Jizya voluntarily. And
 if they refuse this also, and show enmity, they must be prepared for a
 great battle. And the following verse was mentioned in the letter:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ
-بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ
-بِهِ شَيْئًا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِنْ دُونِ
-اللَّهِ ۚ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ
+> بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ
+> بِهِ شَيْئًا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِنْ دُونِ
+> اللَّهِ ۚ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ
 
 ***“Say: O followers of the Book! come to an equitable proposition
 between us and you that we shall not serve any but Allah and (that) we
@@ -1720,12 +1700,8 @@ creation is more difficult than another with the Most High whose power
 is such that whatever He wishes to create, He says to it, “Be” and it
 is. The Prophet then recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ
-تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ
-  </p>
-</blockquote>
+> إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ
+> تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ
 
 ***“Surely the likeness of Isa is with Allah as the likeness of Adam; He
 created him from dust, then said to him, Be, and he was.”***[^6]
@@ -1737,13 +1713,9 @@ either us that lies and let the truth be speedily manifested. And very
 soon the truth becomes manifest. At that time, the following verse of
 imprecation was revealed:
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
-وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
-لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
+> وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
+> لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
 
 ***“Then say: Come let us call our sons and your sons and our women and
 your women and our near people and your near people, then let us be
@@ -1999,5 +1971,4 @@ sincerely seeks the truth. Verily God is the guide to the right path.
 [^7]: Surah Aale Imran 3:61
 
 [^8]: 1.234 grammes
-
 

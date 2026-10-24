@@ -42,4 +42,3 @@ are manifest is that of Imam Husayn (as) – especially since he was the
 supreme expression of rising up for Allah (swt) and standing up in the
 face of oppression and tyranny.
 
-

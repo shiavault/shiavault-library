@@ -115,4 +115,3 @@ judgements.
 
 "And peace and the mercy of Allah be upon you"
 
-

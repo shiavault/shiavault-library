@@ -42,4 +42,3 @@ al- Jawahir, ch. 58.
 
 [^3]: Ibn Taimia, Majmut Fatawa, vol. 13, p. 20.
 
-

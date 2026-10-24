@@ -88,17 +88,9 @@ enigmatic and is not based on the rules of the Arabic language. On the
 other hand, these letters definitely have a purpose, for the Qur’an
 affirms that God’s word is free of nonsense:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقَوْلٌ فَصْلٌ
-  </p>
-</blockquote>
+> إِنَّهُ لَقَوْلٌ فَصْلٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ بِالْهَزْلِ
-  </p>
-</blockquote>
+> وَمَا هُوَ بِالْهَزْلِ
 
 ***“It is indeed a decisive word and it is not a jest.”***[^6]
 
@@ -190,5 +182,4 @@ the exact content of the Qur’an. [trans.]
 
 [^7]: ‘Allamah Tabataba’i’s reply to Dr. ‘Abd al-Rahman al-Kiyali is
 dated 21 Rabi‘ al-Awwal 1389 AH.
-
 

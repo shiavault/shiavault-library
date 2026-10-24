@@ -34,7 +34,6 @@ answers. The one concerning the spirit was inserted among the verses of
 the chapter of ASRA"ِS 17:84. The next two questions were answered in
 the chapter of CAVE=18
 
-
 THE SEVEN SLEEPERS OF EPHESUS
 
 Now the wonderful story of the seven sleepers has been narrated, in
@@ -100,7 +99,6 @@ thereafter.
 
 TRANSLATOR'S NOTE)
 
-
 نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُمْ بِالْحَقِّ إِنَّهُمْ فِتْيَةٌ
 آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدىً(( 13 ))
 
@@ -134,11 +132,9 @@ OPPRESSOR THAN HE WHO FORGES A LIE AGAINST ALLAH.
 REFUGE IN THE CAVE; YOUR LORD WILL HAVE HIS MERCY SHOWERED ON YOU; AND
 SHALL PROVIDE COMFORT AND EASE FOR YOU IN YOUR AFFAIR.
 
-
 [ 626 ]
 
 THE COMMENTARY
-
 
 THE STORY OF THE SLEEPERS IN MORE DETAIL (VERSE NO. 13 - 16)
 
@@ -183,7 +179,6 @@ God's decree to be issued:ِ
 \`\`.... So let us take refuge in the cave. Your Lord will have his
 Mercy on you, and He shall provide you with comfort and ease.''
 
-
 وَتَرَى الشَّمْسَ إِذَا طَلَعَتْ تَتَزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ
 الْيَمِينِ وَإِذَا غَرَبَتْ تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِي
 فَجْوَة مِنْهُ ذَلِكَ مِنْ آيَاتِ اللهِ مَنْ يَهْدِ اللهُ فَهُوَ
@@ -212,7 +207,6 @@ FLIGHT WITH DREAD!
 [ 628 ]
 
 THE COMMENTARY
-
 
 THE EXACT POSITION OF THE SLEEPERS (VERSE NO. 17 - 18)
 
@@ -251,13 +245,11 @@ of those who return.
 6ِ If you could see them in their sleeping state, you would be seized
 by fear and dread, and run away:ِ
 
-
 [ 629 ]
 
 \`\`And their dog has its hands stretched out at the entrance of the
 cave. Would you observe them in that condition in which they were
 asleep, you would turn away from them in flight with dread!''
-
 
 وَكَذَلِكَ بَعَثْنَاهُمْ لِيَتَسَاءَلُوا بَيْنَهُمْ قَالَ قَائِلٌ
 مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا لَبِثْنَا يَوْماً أَوْ بَعْضَ يَوْم
@@ -282,11 +274,9 @@ ANY ONE AWARE OF YOU.
 DEATH), OR FORCE YOU BACK TO THEIR CREED; AND THEN YOU WILL NEVER
 PROSPER.
 
-
 [ 630 ]
 
 THE COMMENTARY
-
 
 WAKEFULNESS AFTER A LONG SLEEP (VERSE NO. 19 - 20)
 
@@ -307,7 +297,6 @@ They sent one of them to buy some clean lawful food for them and
 emphasized keeping it confidential because they thought that the fierce
 persecution they knew, was still going on, and they had to pay their
 life to their faith.
-
 
 وَكَذَلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوا أَنَّ وَعْدَ اللهِ حَقٌّ
 وَأَنَّ السَّاعَةَ لاَ رَيْبَ فِيهَا إِذْ يَتَنَازَعُونَ بَيْنَهُمْ
@@ -349,7 +338,6 @@ THEM.
 
 [ 632 ]
 
-
 إِلاَّ أَنْ يَشَاءَ اللهُ وَاذْكُرْ رَبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَى
 أَنْ يَهْدِيَنِ رَبِّي لاَِقْرَبَ مِنْ هَذَا رَشَداً(( 24 ))
 
@@ -357,9 +345,7 @@ THEM.
 FORGOT (SAYING THAT), REMEMBER YOUR LORD, AND SAY:ِ \`\`MAY MY LORD
 GUIDE ME TO SOMETHING NEARER THAN THIS, TO RECTITUDE.
 
-
 THE COMMENTARY
-
 
 THE END OF THE SLEEPERS EVENT (VERSE NO. 21 - 24)
 
@@ -417,7 +403,6 @@ them, then they said; build a building of monument upon them.... But
 those who prevailed on the matter said; we will build a mosque over
 them.''
 
-
 وَلَبِثُوا فِي كَهْفِهِمْ ثَلاَثَ مِائَة سِنِينَ وَازْدَادُوا تِسْعاً((
 25 ))
 
@@ -442,9 +427,7 @@ NO ONE TO SHARE HIS COMMAND.''
 NO ONE CAN CHANGE HIS WORDS, AND YOU WILL NEVER FIND ANY REFUGE OTHER
 THAN HIM.
 
-
 THE COMMENTARY
-
 
 THE SLEEP OF THE COMPANIONS OF THE CAVE (VERSE NO. 25 - 27)
 
@@ -499,7 +482,6 @@ the story to Latin, with the name; \`\`THE GLORY OF THE MARTYRS''. These
 are evidences that the story was well known to the Christians a couple
 of centuries before the advent of Mohammad. (AS)
 
-
 وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاوَةِ
 وَالْعَشِىِّ يُرِيدُونَ وَجْهَهُ وَلاَ تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ
 زِينَةَ الْحَيَاةِ الدُّنْيَا وَلاَ تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ
@@ -517,7 +499,6 @@ FOLLOWED HIS CARNAL DESIRES, AND HIS AFFAIR WAS EXTRAVAGANT.
 فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً أَحَاطَ بِهِمْ
 سُرَادِقُهَا وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاء كَالْمُهْلِ يَشْوِي
 الْوُجُوهَ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقاً(( 29 ))
-
 
 إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ إِنَّا لاَ نُضِيعُ
 أَجْرَ مَنْ أَحْسَنَ عَمَلا(( 30 ))
@@ -537,7 +518,5 @@ THEM. THEY ARE ADORNED IN IT WITH BRACELETS OF GOLD, AND WEAR CLOTHES OF
 FINE AND COARSE GREEN SILK; RECLINING THERE UPON COACHES. WHAT A GOOD
 REWARD, AND WHAT A NICE RESTING PLACE.
 
-
 THE COMMENTARY
-
 

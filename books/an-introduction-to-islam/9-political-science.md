@@ -5,24 +5,16 @@ Sovereignty belongs to God. The ruler, whether a king or an elected or
 nominated representative, can only rule as His vicegerent and in
 accordance with His laws.
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ
-وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ
+> وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
 
 ***And those who respond to their Lord and keep up prayer, and their
 rule is to take counsel among themselves, and who spend out of what We
 have given them. (42:38)***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
-وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
-الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
-  </p>
-</blockquote>
+> الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ
+> وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ
+> الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ
 
 ***Those who, should We establish them in the land, will keep up prayer
 and pay the poor-rate and enjoin good and forbid evil; and Allah's is
@@ -47,5 +39,4 @@ conduct of a ruler or his representative. In the preamble of the letter
 al-Ashtar when he appointed him Governor of Egypt, for the collection of
 its (Egypt's) revenues, fighting against its enemies, seeking the good
 of its people and making its cities prosperous.”
-
 

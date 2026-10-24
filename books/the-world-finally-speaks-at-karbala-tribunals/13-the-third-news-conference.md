@@ -218,4 +218,3 @@ the prosecution case is very near. Thank you all and see you next time
 God-willing. Salam to everyone. (He exits the hall and the audience
 begins to depart).
 
-

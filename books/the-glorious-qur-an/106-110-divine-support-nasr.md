@@ -16,4 +16,3 @@ effective in rendering such meanings or situations, so I use it in
 preference to "victory" (which I have retained for the word fath as in
 Chapter 48).
 
-

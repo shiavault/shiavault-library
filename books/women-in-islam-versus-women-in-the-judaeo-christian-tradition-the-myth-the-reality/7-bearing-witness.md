@@ -181,4 +181,3 @@ York: Simon and Schuster, 1977), p. 41.
 [^3]: Matilda J. Gage, Woman, Church and State (New York: Truth Seeker
 Company, 1983) p. 142.
 
-

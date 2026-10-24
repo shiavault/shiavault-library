@@ -144,4 +144,3 @@ not possess the requisite strength even to defend themselves and the
 question of their Islam becoming the source of the dignity and
 exaltation of the Muslims did not therefore arise.
 
-

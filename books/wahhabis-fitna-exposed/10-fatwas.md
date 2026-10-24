@@ -63,4 +63,3 @@ hypocrisy and we disbelieve in their **American** Islam.
 
 [^4]: Qur’an, 60:4.
 
-

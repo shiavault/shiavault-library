@@ -10,11 +10,7 @@ Surah As-Saffat, Chapter 37
 The Feature of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -48,5 +44,4 @@ performs the content of the Surah and the Qur’an accordingly, and these
 are required but the barriers must be removed, too.
 
 [^1]: Majma‘-ul-Bayan, following the verse
-
 

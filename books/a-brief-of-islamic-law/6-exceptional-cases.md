@@ -324,4 +324,3 @@ only. So, if a person prays to show off to the people, his prayer is
 void. It will be void even if he couples the intention of showing off,
 with the performance for the pleasure of allah.
 
-

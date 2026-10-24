@@ -52,7 +52,6 @@ When people just don't understand you ... just P.U.S.H!
 
 P + U + S + H = Pray + Until + Something + Happens
 
-
 **The Ultimate Truth of life!**
 
 One more fictional story, only for the purpose of explanation and easy
@@ -148,5 +147,4 @@ highly ranked by Allah".
 
 Imam Ja'far Sadiq (p.b.u.h.) says: "Increase Dua because it is the key
 to all mercy and fulfiller of every need".
-
 

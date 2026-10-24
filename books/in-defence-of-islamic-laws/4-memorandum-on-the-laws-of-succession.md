@@ -374,4 +374,3 @@ His daily life would become a long list of transgressions; his prayers,
 his pilgrimage, even his food and clothing would become, in religious
 sense, unlawful. Thus he can never expect peace in the life hereafter.
 
-

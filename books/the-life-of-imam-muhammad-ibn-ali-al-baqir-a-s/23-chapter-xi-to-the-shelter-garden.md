@@ -328,70 +328,70 @@ suspicion.”
 
 ###
 
-[^1] Tadhkirat al-Khawa\`s, p.[^350]: In Kashf al-Ghumma, vol. 2, p.322,
+[^1]: Tadhkirat al-Khawa\`s, p.350. In Kashf al-Ghumma, vol. 2, p.322,
 it has been reported on the authority of Ima\`m Ja‘far al-Sa\`diq, peace
 be on him, who said: [My father Mohammed al-Ba\`qir, peace be on him,
 said:] “‘Ali was killed at the age of fifty-eight. ‘Ali b. al-Husayn
 died at the age of fifty-eight. I am fifty-eighty years old.”
 
-[^2] Biha\`r al-Anwa\`r.
+[^2]: Biha\`r al-Anwa\`r.
 
-[^3] Akhba\`r al-Duwal, p.[^111]:
+[^3]: Akhba\`r al-Duwal, p.111.
 
-[^4] Biha\`r al-Anwa\`r.
+[^4]: Biha\`r al-Anwa\`r.
 
-[^5] Nu\`r al-Abbsa\`r, vol.[^131]: Ibn Tolo\`n, al-A’imma al-Ithna\`
+[^5]: Nu\`r al-Abbsa\`r, vol.131. Ibn Tolo\`n, al-A’imma al-Ithna\`
 ‘Ashar, p.281.
 
-[^6] Usu\`l al-Ka\`fi, vol.1, p.[^306]:
+[^6]: Usu\`l al-Ka\`fi, vol.1, p.306.
 
-[^7] Ibid.
+[^7]: Ibid.
 
-[^8] Ibid.
+[^8]: Ibid.
 
-[^9] Safwat al-Safwa, vol.2, p.[^63]: Ibn al-Wardi, Ta\`rikh, vol.1,
+[^9]: Safwat al-Safwa, vol.2, p.63. Ibn al-Wardi, Ta\`rikh, vol.1,
 p.184. Abi al-Fida\`’, Ta\`rikh, vol.1, p.214. Ibn al-Jawzi,
 al-Muntazam, vol.7 (photographed).
 
-[^10] Biha\`r al-Anwa\`r, vol.11, p.[^62]:
+[^10]: Biha\`r al-Anwa\`r, vol.11, p.62.
 
-[^11] Usu\`l al-Ka\`fi, vol.1, p.[^307]:
+[^11]: Usu\`l al-Ka\`fi, vol.1, p.307.
 
-[^12] Al-Humayma was the name of a village outside Medina. ‘Ali b.
+[^12]: Al-Humayma was the name of a village outside Medina. ‘Ali b.
 al-‘Abba\`s and his sons owned the village during the time of the
 Umayyad government. Ibn Tolo\`n has mentioned that in his book,
-“Ta\`rikh al-A’imma al-Ithna\` ‘Ashar, p.[^281]:”
+“Ta\`rikh al-A’imma al-Ithna\` ‘Ashar, p.281.”
 
-[^13] Safwat al-Safwa, vol.2, p.[^63]: Ibn ‘Asa\`kir, Ta\`rikh, vol. 51,
+[^13]: Safwat al-Safwa, vol.2, p.63. Ibn ‘Asa\`kir, Ta\`rikh, vol. 51,
 p.39. Ibn al-Jawzi, al-Muntazam, vol.7. Abi al-Fida\`’, Ta\`rikh, vol.1,
 p.214. Ibn al-Athir, Ta\`rikh, vol.4, p.217. Ibn al-Wardi, Ta\`rikh,
 vol.1, p.184.
 
-[^14] Abi Isha\`q al-Shira\`zi, Tabaqa\`t al-Fuqaha\`’, p.[^36]:
+[^14]: Abi Isha\`q al-Shira\`zi, Tabaqa\`t al-Fuqaha\`’, p.36.
 
-[^15] Biha\`r al-Anwa\`r, vol.11, p.[^63]:
+[^15]: Biha\`r al-Anwa\`r, vol.11, p.63.
 
-[^16] Al-Fa\`khu\`ri, Mukhtasar Ta\`rikh al-Isla\`m, p.[^85]:
+[^16]: Al-Fa\`khu\`ri, Mukhtasar Ta\`rikh al-Isla\`m, p.85.
 
-[^17] Al-Shaykha\`ni, al-Sira\`t al-Sawi, p.[^94]: Ta\`rikh al-Khamïs,
+[^17]: Al-Shaykha\`ni, al-Sira\`t al-Sawi, p.94. Ta\`rikh al-Khamïs,
 vol. 2, p.319. Safwat al-Safwa, vol. 2, p.63.
 
-[^18] Ta\`rikh al-A’imma, p.[^5]:
+[^18]: Ta\`rikh al-A’imma, p.5.
 
-[^19] Al-Nafha al-‘Anbariya.
+[^19]: Al-Nafha al-‘Anbariya.
 
-[^20] Al-Fa\`khu\`ri, Mukhtasar Ta\`rikh al-Isla\`m, p.[^85]:
+[^20]: Al-Fa\`khu\`ri, Mukhtasar Ta\`rikh al-Isla\`m, p.85.
 
-[^21] Khalifa Khayya\`t, Ta\`rikh, vol. 2, p.[^236]:
+[^21]: Khalifa Khayya\`t, Ta\`rikh, vol. 2, p.236.
 
-[^22] Safwat al-Safwa, vol.2, p.[^63]:
+[^22]: Safwat al-Safwa, vol.2, p.63.
 
-[^23] Ibn al-Wardi, Ta\`rikh, vol. 1, p.[^184]: Abi al-Fida\`’,
+[^23]: Ibn al-Wardi, Ta\`rikh, vol. 1, p.184. Abi al-Fida\`’,
 Ta\`rikh, vol. 1, p.214.
 
-[^24] ‘Ima\`d al-Dïn al-Asfaha\`ni, al-Busta\`n al-Ja\`mi‘. Al-Nafha
-al-‘Anbariya. Shadhara\`t al-Dhahab, vol. 1, p.[^149]:
+[^24]: ‘Ima\`d al-Dïn al-Asfaha\`ni, al-Busta\`n al-Ja\`mi‘. Al-Nafha
+al-‘Anbariya. Shadhara\`t al-Dhahab, vol. 1, p.149.
 
-[^25] Wajjdi, Da\`’irat al-Ma‘a\`rif, vol.3, p.[^563]:
+[^25]: Wajjdi, Da\`’irat al-Ma‘a\`rif, vol.3, p.563.
 
-[^26] Al-Shaykh al-Tu\`si, al-Ama\`li, p.[^125]:
+[^26]: Al-Shaykh al-Tu\`si, al-Ama\`li, p.125.

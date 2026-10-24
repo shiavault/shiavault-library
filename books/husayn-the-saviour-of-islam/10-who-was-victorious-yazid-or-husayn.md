@@ -859,4 +859,3 @@ shall be satiated and made drunk with their blood for the Lord God of
 hosts hath a sacrifice in the North country by the river Euphrates.”
 (The Old Testament, Jeremiah, 46:10)**
 
-

@@ -774,4 +774,3 @@ result of the teaching of the Qur'an.
 
 [^1]: Lane's Mod. Egypt, vol. I, p.69.
 
-

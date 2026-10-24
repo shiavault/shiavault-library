@@ -1648,4 +1648,3 @@ religion in politics and good politics in religion.
 [^37]: Taqlid: accepting and following the opinions of a mujtahid or a
 religious authority concerning the religious affairs.
 
-

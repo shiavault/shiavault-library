@@ -461,4 +461,3 @@ in his work Bihar Al-Anwar, Vol. 82, p. 142.
 
 [^35]: Ibid., Vol. 4, pp. 179, 882.
 
-

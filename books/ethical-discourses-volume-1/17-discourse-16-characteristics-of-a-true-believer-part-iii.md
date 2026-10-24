@@ -7,13 +7,9 @@ hundred and three qualities which the true believer must possess. Ten of
 these qualities have been explained in detail, and now we embark on
 explaining six more characteristics:
 
-<blockquote dir="rtl">
-  <p>
-مُذَكِّرُ الْغَافِلِ، مُعَلِّمُ الْجَاهِلِ، لاَ يُؤْذى مَنْ يُؤْذِيهِ
-وَ لاَ يَخُوضُ فِيمَا لاَ يُعْنِيهِ وَلاَ يُشْمِتُ بِمُصِيبَةِ وَلاَ
-يُذْكَرُ أَحَداً بِغِـيبَةِ…
-  </p>
-</blockquote>
+> مُذَكِّرُ الْغَافِلِ، مُعَلِّمُ الْجَاهِلِ، لاَ يُؤْذى مَنْ يُؤْذِيهِ
+> وَ لاَ يَخُوضُ فِيمَا لاَ يُعْنِيهِ وَلاَ يُشْمِتُ بِمُصِيبَةِ وَلاَ
+> يُذْكَرُ أَحَداً بِغِـيبَةِ…
 
 ”(The true believer) is that person who continuously reminds those
 people who are negligent; they are teachers of the ignorant people; they
@@ -129,28 +125,16 @@ refer to as 'Afw or forgiveness. By this we mean that we do good to a
 person who does bad to us and this is one of the greatest
 characteristics, such that the Prohpet of Islam (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-يُعْطى مَنْ حَرُمَهُ.
-  </p>
-</blockquote>
+> يُعْطى مَنْ حَرُمَهُ.
 
 “The person who has prevented you (from something) should still be given
 (his right).”
 
-<blockquote dir="rtl">
-  <p>
-يُعْفَو عَنْ مَنْ ظَلَمَهُ.
-  </p>
-</blockquote>
+> يُعْفَو عَنْ مَنْ ظَلَمَهُ.
 
 “The one who has done oppression should be forgiven.”
 
-<blockquote dir="rtl">
-  <p>
-يُصَلِ مَنْ قُطِعَهُ.
-  </p>
-</blockquote>
+> يُصَلِ مَنْ قُطِعَهُ.
 
 “Try to establish ties with the one who broke off relations.”
 
@@ -199,5 +183,4 @@ respect are actually more important than his blood (life)!
   
 
 [^1]: Bihar al-Anwar, vol. 64, pg. 310
-
 

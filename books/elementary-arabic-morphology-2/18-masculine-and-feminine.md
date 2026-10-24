@@ -102,4 +102,3 @@ example: **أحمَر** (red) becomes **حَمراء** (red).
 the **فُعلیَ** form. For example: **أکبر** (bigger) becomes **کُبریَ**
 (bigger)
 
-

@@ -32,10 +32,5 @@ oppressive, and who tyrannizes and infringes upon the rights [of those
 who are under him].
 
 > 7ـ وَيْلٌ لِمَنْ ساءَتْ سيرَتُهُ، وَ جارَتْ مَلَكَتُهُ وَ تَجَبَّرَ وَ
-<blockquote dir="rtl">
-  <p>
-اعْتَدى.
-  </p>
-</blockquote>
-
+> اعْتَدى.
 

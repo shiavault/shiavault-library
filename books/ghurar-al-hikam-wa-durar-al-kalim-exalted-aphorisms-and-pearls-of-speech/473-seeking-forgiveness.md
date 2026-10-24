@@ -34,11 +34,7 @@ forgiveness whenever they disobeyed [or sinned], they would neither be
 punished nor would they be destroyed.
 
 > 7ـ لَوْ أنَّ النّاسَ حينَ عَصَوْا أنابُوا وَاسْتَغْفَرُوا لَمْ
-<blockquote dir="rtl">
-  <p>
-يُعَذَّبُوا وَلَمْيَهْلِكُوا.
-  </p>
-</blockquote>
+> يُعَذَّبُوا وَلَمْيَهْلِكُوا.
 
 8. One who has been granted [the opportunity to seek] repentance shall
 not be deprived of forgiveness.
@@ -61,5 +57,4 @@ forgiveness is!
 12. No one gains forgiveness except he who reciprocates evil with good.
 
 > 12ـ لايَحُوزُ الغُفْرانَ إلاّ مَنْ قابَل الإساءَةَ بِالإحْسانِ.
-
 

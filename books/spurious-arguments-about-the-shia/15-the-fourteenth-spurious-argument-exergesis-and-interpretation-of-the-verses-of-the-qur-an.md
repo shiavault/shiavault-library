@@ -17,4 +17,3 @@ collected in vol. 3,9, and 14 two hundred and fifty-five such verses,
 and after each verse he wrote down the traditions related in the books
 of the Sunnis that explains the verse with the page numbers.
 
-

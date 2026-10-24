@@ -4,20 +4,12 @@ Section 8: Allah is Forgiving and the Lord of Mercy
 Surah Al-Kahf – Verses 54 - 55
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْءَانِ لِلنَّاسِ مِن كُلّ‌ِ مَثَلٍ
-وَكَانَ الإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلاً
-  </p>
-</blockquote>
+> وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْءَانِ لِلنَّاسِ مِن كُلّ‌ِ مَثَلٍ
+> وَكَانَ الإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلاً
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَآءَهُمُ الْهُدَي
-وَيَسْتَغْفِرُوا رَبَّهُمْ إِلآَّ أَن تَأْتِيَهُمْ سُنَّةُ
-الاَوَّلِينَ أَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلاً
-  </p>
-</blockquote>
+> وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَآءَهُمُ الْهُدَي
+> وَيَسْتَغْفِرُوا رَبَّهُمْ إِلآَّ أَن تَأْتِيَهُمْ سُنَّةُ
+> الاَوَّلِينَ أَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلاً
 
 ***54. “And indeed We have explained in this Qur’an every kind of
 similitude for mankind, but man, of most things, is contentious.”***  
@@ -91,13 +83,9 @@ their own eyes. This constrained faith, of course, will be worthless.
 Surah Al-Kahf – Verse 56
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلاَّ مُبَشّـِرِينَ وَمُنذِرِينَ
-وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ
-وَاتَّخَذُوا ءَايَاتِي وَمَآ اُنذِرُوا هُزُواً
-  </p>
-</blockquote>
+> وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلاَّ مُبَشّـِرِينَ وَمُنذِرِينَ
+> وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ
+> وَاتَّخَذُوا ءَايَاتِي وَمَآ اُنذِرُوا هُزُواً
 
 ***56. “And We do not send the messengers save as bearers of good
 tidings and warners, but those who disbelieve dispute with falsehood in
@@ -143,14 +131,10 @@ Hell as a means of mockery.
 Surah Al-Kahf – Verse 57
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّن ذُكّـِرَ بِاَيَاتِ رَبّـِهِ فَاَعْرَضَ عَنْهَا
-وَنَسِيَ مَا قَدَّمَتْ يَدَاهُ إِنَّا جَعَلْنَا عَلَي قُلُوبِهِمْ
-أَكِنَّةً أَن يَفْقَهُوهُ وَفِي ءَاذَانِهِمْ وَقْراً وَإِن تَدْعُهُمْ
-إِلَي الْهُدَي فَلَن يَهْتَدُوا إِذاً أَبَداً
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّن ذُكّـِرَ بِاَيَاتِ رَبّـِهِ فَاَعْرَضَ عَنْهَا
+> وَنَسِيَ مَا قَدَّمَتْ يَدَاهُ إِنَّا جَعَلْنَا عَلَي قُلُوبِهِمْ
+> أَكِنَّةً أَن يَفْقَهُوهُ وَفِي ءَاذَانِهِمْ وَقْراً وَإِن تَدْعُهُمْ
+> إِلَي الْهُدَي فَلَن يَهْتَدُوا إِذاً أَبَداً
 
 ***57. “And who is more unjust than he who is reminded of the sings of
 his Lord, then he turns away from them and forgets what his hands have
@@ -223,20 +207,12 @@ then will they never get guided in that case at all.”***
 Surah Al-Kahf – Verses 58 - 59
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا
-لَعَجَّلَ لَهُمُ الْعَذَابَ بَل لَهُم مَوْعِدٌ لَّن يَجِدُوا مِن
-دُونِهِ مَوْئِلاً
-  </p>
-</blockquote>
+> وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا
+> لَعَجَّلَ لَهُمُ الْعَذَابَ بَل لَهُم مَوْعِدٌ لَّن يَجِدُوا مِن
+> دُونِهِ مَوْئِلاً
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ الْقُرَي أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا
-لِمَهْلِكِهِم مَوْعِداً
-  </p>
-</blockquote>
+> وَتِلْكَ الْقُرَي أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا
+> لِمَهْلِكِهِم مَوْعِداً
 
 ***58. “And your Lord is Forgiving, the Lord of Mercy. Were He to seize
 them (to task) for what they earn, surely He would hasten for them the
@@ -293,5 +269,4 @@ them, who were destroyed as the result of their rejecting the prophets
 and their denying the Divine revelations.
 
 [^1]: Nahjul-Balaqah, Sermon One, Allah chooses His Prophets
-
 

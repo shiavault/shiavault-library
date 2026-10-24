@@ -71,4 +71,3 @@ example: **صَبور** becomes **صُبَر**
 • **فَعلان فَعلی**َ becomes **فُعالی** or **فِعال,** for example:
 **سکران** becomes **سُکاری**
 
-

@@ -583,4 +583,3 @@ Prevent them from acknowledging the truth.
 
 [^33]: Bihar-ol-Anvar. Vol. 2. P 120.
 
-

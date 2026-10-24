@@ -209,7 +209,7 @@ Name is mentioned, submissive of heart whenever you yourself mention Me,
 awake when the heedless sleep. O Jesus! This is My advice to you and My
 admonishment; so, take it from Me, for I am the Lord of the Worlds.[^1]
 
-[^1] al-Majlisi, Bihar al-Anwar, Vol. 14, pp. 289-293. There is a lot
+[^1]: al-Majlisi, Bihar al-Anwar, Vol. 14, pp. 289-293. There is a lot
 more text of
 
 (98)
@@ -222,5 +222,4 @@ the same, and so is His Wisdom and Creed. His speech, too, is one and
 the same, praise be to Him. Very few, however, realize this simple and
 pristine fact. the same, but the lack of space does not allow me to
 provide the reader with more.
-
 

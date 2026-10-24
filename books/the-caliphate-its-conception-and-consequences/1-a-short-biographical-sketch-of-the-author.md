@@ -87,7 +87,6 @@ He breathed his last peacefully, on 17th December 1965) 24 SHA'BAN,
 B.A, LL.B. C.S.S (RTD.)
 Son of the author
 
-
 **EDITOR'S FORWARD**
 
 IN THE NAME OF THE MOST HIGH.
@@ -125,7 +124,6 @@ the Reader's forbearance for any errors that might remain, and wish him
 the best in his search for truth.
 
 HAIDER R. REEVE, 23rd October 1988
-
 
 **Preface**
 
@@ -501,10 +499,8 @@ reliability and augment its worth, as the most conclusive demonstration
 of the strength of case is that it can be built on the arguments of its
 adversaries.
 
-
 M.S.MIRZA
 10,Sunny-side Mansion,
 Artillery Maidan-3,
 27th February 1949
-
 

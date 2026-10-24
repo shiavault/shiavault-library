@@ -24,4 +24,3 @@ glowing torches illuminating the way for generations.
 Baqir al-’Ulum  
  Research Foundation
 
-

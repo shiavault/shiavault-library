@@ -80,7 +80,6 @@ al-Mu'min, as well as later Muwahhid caliphs like Ya\`qub al-Mansur,
 were very intolerant of Jews and Christians, threatening them with
 conversion or death in many cases.
 
-
 To be fair, the militant Catholicism emanating from the Normans of
 Sicily and the Reconquista in Iberia probably had as much to do with
 this as did religious doct rine. Regarding Sufism, after intial
@@ -97,5 +96,4 @@ regional Pan-Islamic unity, in that "through unifying the Maghrib under
 their rule, the Almohads gave for the first and only time a concrete
 historical existence to the conception of the Maghrib as a distinct
 religio-cultural entity."
-
 

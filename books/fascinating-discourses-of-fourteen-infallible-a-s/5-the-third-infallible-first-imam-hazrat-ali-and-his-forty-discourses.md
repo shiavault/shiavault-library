@@ -38,10 +38,8 @@ I"rophet hy rejecting his caliphate. creating a split \* Ideologkal
 difference with the true school of Islamk Ideology presemed by the holy
 Prophe (PBUH).
 
-<p dir="rtl">
 اربعون حديثاًعن اميرالمؤمنين علي عليه السلام
 --------------------------------------------
-</p>
 
 1- مَن عَرَفَ نَفسَهُ فَقَد عَرَفَ رَبَّهُ. (غررالحکم، الفصل 77
 الحديث301)
@@ -593,5 +591,4 @@ chapter IB, Hadieth 119)
 40. How plenty in number are the lessons to be taken &. how less in
 number are those who learn lesson. (NEHJUL.BALAGHA LE SABEEH AL SALEH
 QISAR UL HIKAM 297, P 529)
-
 

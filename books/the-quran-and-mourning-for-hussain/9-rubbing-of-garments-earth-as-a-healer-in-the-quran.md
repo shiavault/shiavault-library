@@ -99,4 +99,3 @@ otherwise on its own merit, what was the significance of this mere
 shirt? If the same shirt were on the body of another, neither would it
 be respected nor would it be of any importance.
 
-

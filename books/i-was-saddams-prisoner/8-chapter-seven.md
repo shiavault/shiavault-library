@@ -79,4 +79,3 @@ could be stamped. Such was the colourful, motley crowd, each with a
 peculiar story.  
    
 
-

@@ -452,4 +452,3 @@ existent.
 
 19. Ibn Majah, Sunan, vol\_ 2, p. 1262, hadith 3841.
 
-

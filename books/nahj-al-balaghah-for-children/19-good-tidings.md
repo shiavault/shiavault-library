@@ -29,4 +29,3 @@ generosity.
 
 (Sermon 105)
 
-

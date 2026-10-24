@@ -4,12 +4,8 @@ Section 12: Histories of the Ancient People Serve as a Lesson
 Surah Yusuf – Verse 105
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَاَيّن مِنْ ءَايَةٍ فِي السَّمَاوَاتِ وَالأَرْضِ يَمُرُّونَ
-عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَكَاَيّن مِنْ ءَايَةٍ فِي السَّمَاوَاتِ وَالأَرْضِ يَمُرُّونَ
+> عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
 
 ***105. “And how many a sign there is in the heavens and on the earth
 which they pass by while they turn away from it.”***
@@ -57,11 +53,7 @@ space under his control.
 Surah Yusuf – Verse 106
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُؤْمِنُ أَكْثَرُهُم بِاللَّهِ إِلاَّ وَهُم مُشْرِكُونَ
-  </p>
-</blockquote>
+> وَمَا يُؤْمِنُ أَكْثَرُهُم بِاللَّهِ إِلاَّ وَهُم مُشْرِكُونَ
 
 ***106. “And most of them do not believe in Allah except that they
 associate others (with him).”***
@@ -140,12 +132,8 @@ remembrance of Allah...”***[^12]
 Surah Yusuf – Verse 107
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَاَمِنُوا أَن تَأْتِيَهُمْ غاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ
-تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ
-  </p>
-</blockquote>
+> أَفَاَمِنُوا أَن تَأْتِيَهُمْ غاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ
+> تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ
 
 ***107. “Do they then feel secure from the enveloping punishment coming
 upon them from Allah, or the coming of the Hour suddenly, while they are
@@ -178,12 +166,8 @@ The verse continues saying:
 Surah Yusuf – Verse 108
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَذِهِ سَبِيلِي أَدْعُوا إِلَي اللَّهِ عَلَي بَصِيرَةٍ أَنَاْ
-وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَآ أَنَاْ مِنَ الْمُشْرِكينَ
-  </p>
-</blockquote>
+> قُلْ هَذِهِ سَبِيلِي أَدْعُوا إِلَي اللَّهِ عَلَي بَصِيرَةٍ أَنَاْ
+> وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَآ أَنَاْ مِنَ الْمُشْرِكينَ
 
 ***108. “Say (O’ Our Apostle): ‘This is my way. I invite to Allah with
 clear sight, I and whoever follows me; and glory be to Allah! And I am
@@ -245,14 +229,10 @@ of polytheism.
 Surah Yusuf – Verse 109
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُوحِي إِلَيْهِم مِنْ
-أَهْلِ الْقُرَي أَفَلَمْ يَسِيرُوا فِي الاَرْضِ فَيَنظُرُوا كَيْفَ
-كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ وَلَدَارُ الاَخِرَةِ خَيْرٌ
-لِلَّذِينَ اتَّقَوْا أَفَلا تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُوحِي إِلَيْهِم مِنْ
+> أَهْلِ الْقُرَي أَفَلَمْ يَسِيرُوا فِي الاَرْضِ فَيَنظُرُوا كَيْفَ
+> كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ وَلَدَارُ الاَخِرَةِ خَيْرٌ
+> لِلَّذِينَ اتَّقَوْا أَفَلا تَعْقِلُونَ
 
 ***109. “And We did not send (apostles) before you but men from the
 people of the towns whom We did inspire with revelations. Have they not
@@ -333,13 +313,9 @@ monuments for the experience and instruction of the future generations.
 Surah Yusuf – Verse 110
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
-جَآءَهُمْ نَصْرُنَا فَنُجّيَ مَن نَّشَآءُ وَلاَ يُرَدُّ بَأْسُنَا عَنِ
-الْقَوْمِ الْمُـجْرِمِينَ
-  </p>
-</blockquote>
+> حَتَّي إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا
+> جَآءَهُمْ نَصْرُنَا فَنُجّيَ مَن نَّشَآءُ وَلاَ يُرَدُّ بَأْسُنَا عَنِ
+> الْقَوْمِ الْمُـجْرِمِينَ
 
 ***110. “Till when the messengers despaired and they (disbelievers)
 thought they had been told a lie, Our help came to them and We delivered
@@ -417,13 +393,9 @@ upon a people, there is no averting it.
 Surah Yusuf – Verse 111
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لأُوْلِي الاَْلْبَابِ مَا كَانَ
-حَدِيثاً يُفْتَرَي وَلَكِن تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ
-وَتَفْصِيلَ كُلّ شَيْءٍ وَهُدًي وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لأُوْلِي الاَْلْبَابِ مَا كَانَ
+> حَدِيثاً يُفْتَرَي وَلَكِن تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ
+> وَتَفْصِيلَ كُلّ شَيْءٍ وَهُدًي وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
 
 ***111. “Indeed in their stories, there is a lesson for the possessors
 of intellect. It is not an invented tale, but a confirmation of what
@@ -565,5 +537,4 @@ position to execute all the commands of the Qur’an.
 [^16]: Surah Ar-Rum, No. 30, verse. 47.
 
 [^17]: Surah Hud, No. 11, verser. 58.
-
 

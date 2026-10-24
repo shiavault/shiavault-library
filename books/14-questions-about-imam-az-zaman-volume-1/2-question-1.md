@@ -35,4 +35,3 @@ and corruption.”[^1]
 
 [^1]: Al-Fusul Al-Muhimmah, Ibn Sabbagh Maliki, p. 294
 
-

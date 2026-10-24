@@ -71,12 +71,8 @@ Understanding the Merit of the Supplication
 
 The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ دَعَا بِهٌذَا الدُّعاءِ فِي شَهْرِ رَمَضَانَ بَعْدَ
-الْمَكْتُوبَةِ غُفِرَتْ ذُنُوبُهُ إِلـى يَوْمِ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> مَنْ دَعَا بِهٌذَا الدُّعاءِ فِي شَهْرِ رَمَضَانَ بَعْدَ
+> الْمَكْتُوبَةِ غُفِرَتْ ذُنُوبُهُ إِلـى يَوْمِ الْقِيَامَةِ.
 
 “Whosoever beseeches with this supplication in the Holy month of
 Ramadān, after the prescribed prayer, his sins (*dhunūb*) shall be
@@ -116,5 +112,4 @@ those who utter this wonderful supplication as a manifestation of our
 inner spirits.
 
 [^1]: Bihār al-Anwār, v. 95, pg. 120, ch. 6
-
 

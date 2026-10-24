@@ -81,83 +81,43 @@ the hero, and kissed him between his eyes. According to Imam Ja’far
 Sadiq (a.s.) the Muslims had never before taken such valuable spoils,
 except at Khyber. Thus the Almighty Allah revealed Surah Adiyat:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَادِيَاتِ ضَبْحًا ﴿١﴾
-  </p>
-</blockquote>
+> وَالْعَادِيَاتِ ضَبْحًا ﴿١﴾
 
 ***“I swear by the runners breathing pantingly…”***
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُورِيَاتِ قَدْحًا ﴿٢﴾
-  </p>
-</blockquote>
+> فَالْمُورِيَاتِ قَدْحًا ﴿٢﴾
 
 ***“Then those that produce fire striking…”***
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُغِيرَاتِ صُبْحًا ﴿٣﴾
-  </p>
-</blockquote>
+> فَالْمُغِيرَاتِ صُبْحًا ﴿٣﴾
 
 ***“Then those that make raids at morning…”***
 
-<blockquote dir="rtl">
-  <p>
-فَأَثَرْنَ بِهِ نَقْعًا ﴿٤﴾ فَوَسَطْنَ بِهِ جَمْعًا ﴿٥﴾
-  </p>
-</blockquote>
+> فَأَثَرْنَ بِهِ نَقْعًا ﴿٤﴾ فَوَسَطْنَ بِهِ جَمْعًا ﴿٥﴾
 
 ***“Then thereby raise dust. Then rush thereby upon an assembly…”***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ ﴿٦﴾
-  </p>
-</blockquote>
+> إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ ﴿٦﴾
 
 ***“Most surely man is ungrateful to his Lord.”***
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ ﴿٧﴾
-  </p>
-</blockquote>
+> وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ ﴿٧﴾
 
 ***“And most surely he is a witness of that***
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ ﴿٨﴾
-  </p>
-</blockquote>
+> وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ ﴿٨﴾
 
 ***“And most surely he is tenacious in the love of wealth.”***
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ ﴿٩﴾
-  </p>
-</blockquote>
+> أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ ﴿٩﴾
 
 ***“Does he not then know when what is in the graves is raised…”***
 
-<blockquote dir="rtl">
-  <p>
-وَحُصِّلَ مَا فِي الصُّدُورِ ﴿١٠﴾
-  </p>
-</blockquote>
+> وَحُصِّلَ مَا فِي الصُّدُورِ ﴿١٠﴾
 
 ***“And what is in the breasts is made apparent?”***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ ﴿١١﴾
-  </p>
-</blockquote>
+> إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ ﴿١١﴾
 
 ***“Most surely their Lord that day shall be fully aware of them.”***
 
@@ -390,11 +350,7 @@ competitor. Chief of the army, Harith bin Makida who was considered
 equal to 500 men, emerged and the Almighty Allah had remarked about him
 that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ لِرَبِّهٖ لَكَنُودٌ
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ لِرَبِّهٖ لَكَنُودٌ
 
 ***“Most surely man is ungrateful to his Lord.”***[^1]
 
@@ -428,5 +384,4 @@ It is mentioned in another report that Imam Ali (a.s.) killed a hundred
 and twenty men from them.
 
 [^1]: Surah Adiyat 100:6
-
 

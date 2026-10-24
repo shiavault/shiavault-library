@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ خَلَقَ كُلَّ شَيْ‏ءٍ فَقَدَّرَهُ تَقْدِيراً
-  </p>
-</blockquote>
+> وَ خَلَقَ كُلَّ شَيْ‏ءٍ فَقَدَّرَهُ تَقْدِيراً
 
 ***“Who created everything, then ordained for it a measure”***[^1]
 
 Imam Sadiq (peace be upon him) said:
 
-<blockquote dir="rtl">
-  <p>
-فِي قَضَاءِ اللَّهِ عَزَّ وَ جَلَّ كُلُّ خَيْرٍ لِلْمُؤْمِنِ‏
-  </p>
-</blockquote>
+> فِي قَضَاءِ اللَّهِ عَزَّ وَ جَلَّ كُلُّ خَيْرٍ لِلْمُؤْمِنِ‏
 
 ***“In every decree of God, there is goodness and benefit for the
 Mu'min”***[^2]
@@ -236,5 +228,4 @@ sought from you.*[^8]
 [^7]: Daastaan-ha-e-Mathnawi, vol. 1, pg. 41.
 
 [^8]: Khazinah al-Jawaahir, pg. 676; Zeenah al-Majaalis.
-
 

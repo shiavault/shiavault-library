@@ -3,11 +3,7 @@ Lesson One Hundred Four: The Best Heritage
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-خَيْرُ ما وَرَثَ الآباءُ لِلأَبْناءَ الأَدَبَ
-  </p>
-</blockquote>
+> خَيْرُ ما وَرَثَ الآباءُ لِلأَبْناءَ الأَدَبَ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ affection, sincerity, friendship, and unity and an important factor in
 effectiveness of speech and progress in social objectives.
 
 [^1]: Ghurarol hekam, page 393
-
 

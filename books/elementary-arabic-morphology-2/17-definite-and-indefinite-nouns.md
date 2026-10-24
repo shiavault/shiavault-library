@@ -39,4 +39,3 @@ book).
 • if it is contracted with a definite noun (and the nunation is erased
 if it was nunated). For example: **کتابي** (my book).
 
-

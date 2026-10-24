@@ -103,4 +103,3 @@ incorrectness of some subjective interpretations and the way to
 distinguish the correct from the incorrect, are beyond the scope of this
 article.
 
-

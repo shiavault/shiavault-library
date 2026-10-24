@@ -115,4 +115,3 @@ belief, which blocked her way to his heart. No, she must engineer a
 revenge through her cousin. She is determined to do her best to spoil
 this marriage, and lay thinking of the best way to achieve her aim.
 
-

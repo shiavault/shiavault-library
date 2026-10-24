@@ -20,4 +20,3 @@ simply displaying them without the attempt to explain them except
 whenever necessary, leaving to the kind reader the option to draw his
 own conclusion; so, let me say the following:
 
-

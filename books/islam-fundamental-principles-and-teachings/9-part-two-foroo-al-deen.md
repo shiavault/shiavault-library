@@ -554,4 +554,3 @@ wasted” and “the blood of a Muslim person does not go in vain”210, and
 in this way it facilitates welfare and happiness for the nation under
 its just social security.
 
-

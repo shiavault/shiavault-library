@@ -22,4 +22,3 @@ visible world. Its perception, in many ways, leads humanity
 intellectually toward the same everyday life experiences that philosophy
 and science investigate and address rationally.
 
-

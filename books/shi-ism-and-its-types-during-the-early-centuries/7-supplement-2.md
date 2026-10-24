@@ -201,10 +201,8 @@ and plant them in the hearts of their likes. Knowledge has led them to
 the reality of understanding, and they have attained the spirit of
 certitude.
 
-
 That which is hard upon seekers of comfort comes easy to them. They
 endear what the ignorant regard with aversion. They live in the world
 with their bodies, but their spirits are in a higher realm. They are the
 vicegerents of God in His earth and His callers to His faith. [^84]
-
 

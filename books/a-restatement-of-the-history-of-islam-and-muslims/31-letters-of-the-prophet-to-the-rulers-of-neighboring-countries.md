@@ -31,4 +31,3 @@ Obedience to those commandments and laws alone can guarantee the peace,
 happiness and welfare of mankind in this world, and its salvation in the
 Hereafter.
 
-

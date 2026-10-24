@@ -3,11 +3,7 @@ Lesson One Hundred Thirty Two: Beware Of Mean People!
 
 Imam ‘Ali Ibn Muhammad At-Taqi (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ هانَتْ عَلَيْهِ نَفْسُهُ فَلا تَأْمَنْ شَرَّهُ
-  </p>
-</blockquote>
+> مَنْ هانَتْ عَلَيْهِ نَفْسُهُ فَلا تَأْمَنْ شَرَّهُ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ children is to inculcate in them the awareness of dignity and a feeling
 that they possess a special dignity.
 
 [^1]: Tuhaful Uqul, page 362.
-
 

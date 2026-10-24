@@ -434,4 +434,3 @@ Islamic Ummah who if they are righteous then the Ummah will be righteous
 and if corrupt then the Ummah will be corrupt - the commanders and the
 Qur'anic reciters.' 136
 
-

@@ -25,7 +25,6 @@ Sura Mursalat (those Sent Forth) No.77 (verses 29-40)
 
 (40) وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
 
-
 29."(On that Day it will be said unto them:) Depart you to that which
 you used to deny.
 
@@ -54,7 +53,6 @@ you and the men of old together.
 Me!
 
 40. Ah woe, that Day, to the Rejecters of Truth.
-
 
 **Commentary :
 
@@ -248,5 +246,4 @@ oppressor from oppressed) .
 
 Again, the warning and enlightening verse is repeated: Ah woe, that
 Day, to the Rejecters of Truth.
-
 

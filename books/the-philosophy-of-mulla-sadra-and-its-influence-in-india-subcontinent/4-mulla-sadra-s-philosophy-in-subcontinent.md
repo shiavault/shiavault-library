@@ -126,4 +126,3 @@ get an answer to the question as to how far Sadra's larger vision was
 integrated or adopted in Indo-Muslim thought - whether it was just
 noticed and docketed to be taught, or also endorsed fully in spirit.
 
-

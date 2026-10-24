@@ -88,4 +88,3 @@ In his *al-QawI al-mustahsan fi fakhr al-Hasan.*
 
 [^6]: Ibid., vii, 527.
 
-

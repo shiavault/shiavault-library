@@ -1,12 +1,8 @@
 32. Rewards for Stoning the Shaitan
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ (ع) فِي رَمِي الْجِمَارِ قَالَ: لَهُ بِكُلِّ
-حَصَاةٍ يُرمى بِهَا تَحُطُّ عَنْهُ كَبِيرَةً مُوْبِقَةً.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ (ع) فِي رَمِي الْجِمَارِ قَالَ: لَهُ بِكُلِّ
+> حَصَاةٍ يُرمى بِهَا تَحُطُّ عَنْهُ كَبِيرَةً مُوْبِقَةً.
 
    
  It has been narrated from Abi ‘Abdillah [Imam Ja’far Ibn Muhammad
@@ -17,5 +13,4 @@ would have led to his destruction, is averted from him.”
  Biharul Anwar, Volume 96, Page 273  
     
   
-
 

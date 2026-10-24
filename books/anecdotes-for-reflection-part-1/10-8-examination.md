@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَ الْحَياَةَ لِيَبْلَوَكُم اَيُّكُم اَحْسَنُ
-عَمَلاً
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَ الْحَياَةَ لِيَبْلَوَكُم اَيُّكُم اَحْسَنُ
+> عَمَلاً
 
 *(Who created death and life that He may try you (to prove) which of you
 is best in deeds; and He is the Mighty, the Forgiving)*[^1]
 
 Imam Sajjad (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّماَ خَلَقَ الدُّنْياَ وَ اَهْلَهاَ لِيَبْلُوَهُم فِيهَا
-  </p>
-</blockquote>
+> اِنَّماَ خَلَقَ الدُّنْياَ وَ اَهْلَهاَ لِيَبْلُوَهُم فِيهَا
 
 *(Allah created the world and its inhabitants in order to examine them
 in it.)*[^2]
@@ -335,5 +327,4 @@ and so, lived in the veranda or the rooms of the mosque.
 
 [^8]: Daastaan-ha Wa Pand-ha, vol. 2, pg. 78; Hayaat al-Quloob, vol. 1,
 pg. 578.
-
 

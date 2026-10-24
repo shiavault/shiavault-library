@@ -1,17 +1,13 @@
 Discourse 34: Conflict Between Actions and Beliefs
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَبْدِ اللٌّهِ بْنِ عُمَرَ قَالَ: سَمِعْتُ رَسُولُ اللٌّهِ
-يَقُولُ: اِنَّمَا هُوَ خَيْرٌ يُرْجى، أَوْ شَرٌّ يُتَّقى، أَوْ بَاطِلٌ
-عُرِفَ فَاجْـتُنِبَ، أَوْ حَقٌّ يَتَعَيَّنُ فَطُلِبَ، وَ آخِرَةٌ
-أَظَلَّ إقْبَالُهَا فَسُعِىَ لَهَا، وَ دنْيَا عُرِفَ نَفَادُهَا
-فَأعْرِضَ عَنْهَا… إِنَّ الْعَجَبَ كُلَّ الْعَجَبِ لِمَنْ صَدَّقَ
-بِدَارِ الْبَقَاءِ، وَ هُوَ يَسْعى لِدَارِ الْفَنَاءِ، وَ عَرَفَ أَنَّ
-رِضَى اللٌّهِ فِي طَاعَتِهِ، وَ هُوَ يَسْعى فِي مُخَالَفَتِهِ.
-  </p>
-</blockquote>
+> عَنْ عَبْدِ اللٌّهِ بْنِ عُمَرَ قَالَ: سَمِعْتُ رَسُولُ اللٌّهِ
+> يَقُولُ: اِنَّمَا هُوَ خَيْرٌ يُرْجى، أَوْ شَرٌّ يُتَّقى، أَوْ بَاطِلٌ
+> عُرِفَ فَاجْـتُنِبَ، أَوْ حَقٌّ يَتَعَيَّنُ فَطُلِبَ، وَ آخِرَةٌ
+> أَظَلَّ إقْبَالُهَا فَسُعِىَ لَهَا، وَ دنْيَا عُرِفَ نَفَادُهَا
+> فَأعْرِضَ عَنْهَا… إِنَّ الْعَجَبَ كُلَّ الْعَجَبِ لِمَنْ صَدَّقَ
+> بِدَارِ الْبَقَاءِ، وَ هُوَ يَسْعى لِدَارِ الْفَنَاءِ، وَ عَرَفَ أَنَّ
+> رِضَى اللٌّهِ فِي طَاعَتِهِ، وَ هُوَ يَسْعى فِي مُخَالَفَتِهِ.
 
 It has been narrated from 'Abdullah b. 'Umar: “I heard the Messenger of
 Allah (S) say, “Surely that which is good is what a person anticipates,
@@ -75,12 +71,8 @@ Imam 'Ali (as) stated that the best of warners are these same corpses
 that are placed in front of a person and with the chanting of “**لا إله
 إلا الله”,** are passed in front of our eyes to see…
 
-<blockquote dir="rtl">
-  <p>
-فَكَفى وَاعِظاً بِمَوْتى عَايَنْتُمُوهُمْ، حُمِلُوا إِلـى قُبُورِهِمْ
-غَيْرَ رَاكِبينَ، وَ أُنْزِلُوا فِيهَا غَيْرَ نَازِلِيـنَ.
-  </p>
-</blockquote>
+> فَكَفى وَاعِظاً بِمَوْتى عَايَنْتُمُوهُمْ، حُمِلُوا إِلـى قُبُورِهِمْ
+> غَيْرَ رَاكِبينَ، وَ أُنْزِلُوا فِيهَا غَيْرَ نَازِلِيـنَ.
 
 “The dead whom you witness suffice as warners. They were carried to
 their graves, not going themselves, and were placed in them (the grave)
@@ -128,12 +120,8 @@ The Commander of the Faithful, 'Ali b. Abi Talib (as) spoke some amazing
 words while on his death bed and summarized everything in one sentence
 when he said:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا بِالأَمْسِ صَاحِبُكُمْ وَ أَنَا الْيَوْمَ عِبْرَةٌ لَكُمْ وَ
-غَدًا مُفَارِقُكُمْ.
-  </p>
-</blockquote>
+> أَنَا بِالأَمْسِ صَاحِبُكُمْ وَ أَنَا الْيَوْمَ عِبْرَةٌ لَكُمْ وَ
+> غَدًا مُفَارِقُكُمْ.
 
 “Yesterday I was your companion and today I am the lesson (which you
 should learn from) and tomorrow I will depart from you.”[^4]
@@ -148,13 +136,9 @@ us step forward and try to correct and reform ourselves.
 A Conflict Between Actions and Beliefs:
 ---------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-… إِنَّ الْعَجَبَ كُلَّ الْعَجَبِ لِمَنْ صَدَّقَ بِدَارِ الْبَقَاءِ،
-وَ هُوَ يَسْعى لِدَارِ الْفَنَاءِ، وَ عَرَفَ أَنَّ رِضَى اللٌّهِ فِي
-طَاعَتِهِ، وَ هُوَ يَسْعى فِي مُخَالَفَتِهِ.
-  </p>
-</blockquote>
+> … إِنَّ الْعَجَبَ كُلَّ الْعَجَبِ لِمَنْ صَدَّقَ بِدَارِ الْبَقَاءِ،
+> وَ هُوَ يَسْعى لِدَارِ الْفَنَاءِ، وَ عَرَفَ أَنَّ رِضَى اللٌّهِ فِي
+> طَاعَتِهِ، وَ هُوَ يَسْعى فِي مُخَالَفَتِهِ.
 
 “Surely that which is the most amazing is that a person who believes and
 accepts as being true that there is an eternal abode, however he strives
@@ -201,12 +185,8 @@ ever bring your hand close to that fire. If we had this same amount of
 belief in the words of Allah (SwT) then it is impossible that a conflict
 could ever occur between our beliefs and actions that we perform:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامى ظُلْماً إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَاراً وَ سَيَصْلَوْنَ سَعِـيراً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامى ظُلْماً إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَاراً وَ سَيَصْلَوْنَ سَعِـيراً
 
 “Surely those people who oppressively eat (take) the wealth of the
 orphan, certainly they are eating fire in their stomachs and soon for
@@ -286,5 +266,4 @@ them and through this, one can remove the negligence from one's heart.
 است، يقين مى دانم رختِ خود باز برآنم كه همان جا فكنم مرغ باغ ملكوتم
 نِيَم از عالَم خاك دو سه روزى قفسى ساخته اند از بدنم اى خوش آن روز كه
 پرواز كنم تا برِ دوست به هواى سرِكويش پر و بالى بزنم
-
 

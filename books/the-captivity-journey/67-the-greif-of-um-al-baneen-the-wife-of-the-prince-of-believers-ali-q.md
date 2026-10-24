@@ -43,4 +43,3 @@ And she stayed alive for one year after the death of Imam Hussain (Q),
 during which she had never stayed inside a house, till she died out of
 distress.
 
-

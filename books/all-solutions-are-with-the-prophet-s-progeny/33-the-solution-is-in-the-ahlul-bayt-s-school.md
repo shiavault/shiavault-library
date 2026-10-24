@@ -35,4 +35,3 @@ narrated by them from their grandfather the Prophet Muhammad (S) that
 and to wipe (with the wet remaining in the hands) the head and the
 feet*.”
 
-

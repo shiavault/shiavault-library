@@ -90,11 +90,7 @@ the guide and protector.
 From the past discussion the meaning of the following verse is also
 learnt:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ
-  </p>
-</blockquote>
+> إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ
 
 ***“Surely prayer keeps (one) away from indecency and evil.” (Qur’anb
 Surah Ankaboot 29:45)***
@@ -222,11 +218,7 @@ if one is not able to openly express his heartfelt love and devotion to
 Allah and His *Awliya*, only this much is sufficient according to the
 Holy Qur’an which says:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
-  </p>
-</blockquote>
+> إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
 
 ***“…not he who is compelled while his heart is at rest on account of
 faith.” (Qur’an, Surah Nahl 16:106)***
@@ -271,5 +263,4 @@ depending on the level of love.
 [^6]: Biharul Anwar; Vol. 82, Pg. 192
 
 [^7]: Amali, Sadooq, Pg. 59, Gathering no. 15, Vol. 1, Beirut
-
 

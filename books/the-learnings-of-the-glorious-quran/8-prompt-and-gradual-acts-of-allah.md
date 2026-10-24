@@ -705,4 +705,3 @@ receptivity of the recipient, not of the kind of effectiveness of the
 factor. Thus, Allah's act, when ascribed to the Divine Potency and His
 limitless Power, is unconditional.
 
-

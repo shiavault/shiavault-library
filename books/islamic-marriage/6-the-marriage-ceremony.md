@@ -41,4 +41,3 @@ the playing of music. It is also *haraam* for ladies to go for mixed
 gatherings without proper *hijab*. Such things invite divine wrath and
 take away the blessings of this auspicious occasion.
 
-

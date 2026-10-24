@@ -54,7 +54,6 @@ Allah, the Majestic, the Most High, the Master and the Recourse to Who
 all man and Jinn turn for help in their difficulties and from Him they
 expect relief.
 
-
 **Chapter 19 : Chapter on Motion and Change H 325, Ch. 19, h 1**
 
 Muhammad ibn abu 'Abdallah has narrated from Muhammad ibn Isma'il
@@ -250,5 +249,4 @@ Lord in the heavens. He is the king in the heavens and the Lord on
 earth. He is the Lord in oceans and on land and in all places. "The
 narrator has said, "I came back, went to abu Shakir and explained to him
 the answer. He said, "This (answer) is brought from al- Hijaz."
-
 

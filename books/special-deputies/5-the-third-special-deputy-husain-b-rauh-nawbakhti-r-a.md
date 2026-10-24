@@ -35,4 +35,3 @@ Imam - e - Zamana (a.t.f.s.), pg 233
 [^2]: Zindagaani al-Nuwaab al-Khaas al-Imam az-Zaman (a.t.f.s.), pg. 234
 sourced from Manaqeb, pg. 423
 
-

@@ -50,14 +50,14 @@ Ahmad Sha-kir considers the isna-d of this hadith as sahi-h.
 
 **Notes:**
 
-[^49] Al-Musnad, hadith no. 642 (Ahmad Sha-kir). This hadith has been
+[^49]: Al-Musnad, hadith no. 642 (Ahmad Sha-kir). This hadith has been
 recorded through a slightly different chain of authority (isna-d) on
 pages 102 & 236 of the same book.
-[^50] Ibid, hadith no. 576. This hadith has been added by Ibn Hanbal’s
+[^50]: Ibid, hadith no. 576. This hadith has been added by Ibn Hanbal’s
 son ‘Abdulla-h.
-[^51] Ibn Hajar ‘Asqala-ni-, Tahdhi-b al-Tahdhi-b, vol. 1, p. 430,
+[^51]: Ibn Hajar ‘Asqala-ni-, Tahdhi-b al-Tahdhi-b, vol. 1, p. 430,
 printed by Da-’irat al-Ma‘a-rif al-‘Uthma-niyyah, Haiderabad Deccan
 (India).
-[^52] Al-Musnad, hadith no. 7863 (Ahmad Sha-kir); also refer to hadith
+[^52]: Al-Musnad, hadith no. 7863 (Ahmad Sha-kir); also refer to hadith
 nos. 6406 & 7392 of the same edition.
 

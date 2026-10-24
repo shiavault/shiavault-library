@@ -4,14 +4,10 @@ Section 3: He Who Submits Himself to Allah Holds the Never-Breaking Firmest Rope
 Surah Luqman – Verse 20
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُم مَا فِي السَّمَاوَاتِ وَمَا
-فِي الأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً
-وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلاَ هُدًي
-وَلاَ كِتَابٍ مُنِيرٍ
-  </p>
-</blockquote>
+> أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُم مَا فِي السَّمَاوَاتِ وَمَا
+> فِي الأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً
+> وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلاَ هُدًي
+> وَلاَ كِتَابٍ مُنِيرٍ
 
 ***20. “Have you not seen that Allah has made subservient to you
 whatever is in the heavens and whatever is in the earth and He has
@@ -122,13 +118,9 @@ way of Satan.
 Surah Luqman – Verse 21
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَآ أَنزَلَ اللَّهُ قَالُوا بَلْ
-نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ
-الشَّيْطاَنُ يَدْعُوهُمْ إِلَي عَذَابِ السَّعِيرِ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَآ أَنزَلَ اللَّهُ قَالُوا بَلْ
+> نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ
+> الشَّيْطاَنُ يَدْعُوهُمْ إِلَي عَذَابِ السَّعِيرِ
 
 ***21. “And when it is said to them: ‘Follow what Allah has sent down’,
 they say: ‘We shall follow that on which we found our fathers.’ What!
@@ -171,13 +163,9 @@ unto Heaven and goes after the invitation of Satan unto Hell?
 Surah Luqman – Verse 22
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يُسْلِمْ وَجْهَهُ إِلَي اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَي وَإِلَي اللَّهِ عَاقِبَةُ
-الأُمُورِ
-  </p>
-</blockquote>
+> وَمَن يُسْلِمْ وَجْهَهُ إِلَي اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَي وَإِلَي اللَّهِ عَاقِبَةُ
+> الأُمُورِ
 
 ***22. “And whoever submits himself (truly) to Allah and he be a doer of
 good, he indeed has taken hold of the firmest hand-hold (a rope); and
@@ -267,19 +255,11 @@ such as: Monotheism, piety, and the like.
 Surah Luqman – Verses 23-24
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَن كَفَرَ فَلاَ يَحْزُنكَ كُفْرُهُ إِلَيْنَا مَرْجِعُهُمْ
-فَنُنَبّـِئُهُم بِمَا عَمِلُوا إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ
-الصُّدُورِ
-  </p>
-</blockquote>
+> وَمَن كَفَرَ فَلاَ يَحْزُنكَ كُفْرُهُ إِلَيْنَا مَرْجِعُهُمْ
+> فَنُنَبّـِئُهُم بِمَا عَمِلُوا إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ
+> الصُّدُورِ
 
-<blockquote dir="rtl">
-  <p>
-نُمَتّـِعُهُمْ قَلِيلاً ثُمَّ نَضْطَرُّهُمْ إِلَي عَذَابٍ غَلِيظٍ
-  </p>
-</blockquote>
+> نُمَتّـِعُهُمْ قَلِيلاً ثُمَّ نَضْطَرُّهُمْ إِلَي عَذَابٍ غَلِيظٍ
 
 ***23. “And whoever disbelieves, let not his disbelief grieve you, unto
 Us is their return then will We inform them of what they did. Verily
@@ -367,12 +347,8 @@ mercy.
 Surah Luqman – Verse 25
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالأَرْضَ لَيَقُولُنَّ
-اللَّهُ قُلِ الْحَمْدُ للَّهِ بَلْ أَكْثَرُهُمْ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالأَرْضَ لَيَقُولُنَّ
+> اللَّهُ قُلِ الْحَمْدُ للَّهِ بَلْ أَكْثَرُهُمْ لاَ يَعْلَمُونَ
 
 ***25. “And if you ask them: ‘Who created the heavens and the earth?
 Certainly they will say: ‘Allah’. Say: ‘(All) praise is Allah’s.’ ‘Nay!
@@ -410,12 +386,8 @@ know’,”***
 Surah Luqman – Verse 26
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-لِلَّهِ مَا فِي السَّمَاوَاتِ وَالأَرْضِ إِنَّ اللَّهَ هُوَ الْغَنِيُّ
-الْحَمِيدُ
-  </p>
-</blockquote>
+> لِلَّهِ مَا فِي السَّمَاوَاتِ وَالأَرْضِ إِنَّ اللَّهَ هُوَ الْغَنِيُّ
+> الْحَمِيدُ
 
 ***26. “What is in the heavens and the earth is Allah’s; verily Allah is
 the Self-Sufficient, the Most Praised.”***
@@ -462,13 +434,9 @@ therefore, He is All-Praised.
 Surah Luqman – Verse 27
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّمَا فِي الأَرْضِ مِن شَجَرَةٍ أَقْلاَمٌ وَالْبَحْرُ
-يَمُدُّهُ مِن بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَاتُ
-اللَّهِ إِنَّ اللَّهَ عَزِيرٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّمَا فِي الأَرْضِ مِن شَجَرَةٍ أَقْلاَمٌ وَالْبَحْرُ
+> يَمُدُّهُ مِن بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَاتُ
+> اللَّهِ إِنَّ اللَّهَ عَزِيرٌ حَكِيمٌ
 
 ***27. “And if all the trees on the earth were pens and the sea added to
 seven seas (were ink in the writing), (yet) would not the Words of Allah
@@ -581,12 +549,8 @@ used as a complete figure and for multiplicity.
 Surah Luqman – Verse 28
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّا خَلْقُكُمْ وَلاَ بَعْثُكُمْ إِلاَّ كَنَفْسٍ وَاحِدَةٍ إِنَّ
-اللَّهَ سَمِيعٌ بَصِيرٌ
-  </p>
-</blockquote>
+> مَّا خَلْقُكُمْ وَلاَ بَعْثُكُمْ إِلاَّ كَنَفْسٍ وَاحِدَةٍ إِنَّ
+> اللَّهَ سَمِيعٌ بَصِيرٌ
 
 ***28. “Your creation and your raising (after your death) are only as
 (the creation and the raising of) a single soul; verily Allah is
@@ -620,13 +584,9 @@ Seeing.”***
 Surah Luqman – Verse 29
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ الَّيْلَ فِي النَّهَارِ وَيُولِجُ
-النَّهَارَ فِي الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي
-إِلَي أَجَلٍ مُسَمًّي وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ الَّيْلَ فِي النَّهَارِ وَيُولِجُ
+> النَّهَارَ فِي الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي
+> إِلَي أَجَلٍ مُسَمًّي وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ***29. “Have you not seen that Allah merges the night into the day and
 merges the day into the night, and He has made the sun and the moon
@@ -674,12 +634,8 @@ this shows that the content of the verse envelops all people in general.
 Surah Luqman – Verse 30
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِاَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ
-الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
-  </p>
-</blockquote>
+> ذَلِكَ بِاَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ
+> الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
 
 ***30. “This is because Allah is the Truth and because whatever they
 call upon besides Him is falsehood, and because Allah, He is the High,
@@ -733,5 +689,4 @@ Unity in all stages of worship.
 
 [^2]: Similar to this very meaning is also mentioned in Surah
 ’Al-i-‘Imran, No. 3, verse 45
-
 

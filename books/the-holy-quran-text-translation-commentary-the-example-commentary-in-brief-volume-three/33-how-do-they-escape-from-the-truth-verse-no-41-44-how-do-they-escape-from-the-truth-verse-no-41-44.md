@@ -65,7 +65,6 @@ No bird or beast is hunted, or fallen, except that he has stopped
 glorifying God. When the birds sing, they sing the praise of their
 Creator, and pray for His sustenance!
 
-
 وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لاَ
 يُؤْمِنُونَ بِالاْخِرَةِ حِجَاباً مَّسْتُوراً(( 45 ))
 
@@ -100,7 +99,6 @@ STRAYED THAT COULD NOT FIND A WAY.
 
 THE COMMENTARY
 
-
 OCCASION OF THE REVELATION (VERSE NO. 45 - 48)
 
 The verses came down on account of some idolaters who threw stones on
@@ -115,7 +113,6 @@ can't follow what this man is saying at all!''. I only see him moving
 his lips up and down! Abusofya"n whispered to him saying:ِ \`\`I think
 there are some points of truth in some of his words!'' The uncle
 Abulahab said, not so! He is a magician, and well versed in poetry!
-
 
 THE HIDDEN BARRIER
 
@@ -147,7 +144,6 @@ was to scoff at, and to raise objection on it. Then in their private
 meetings, they confessed to each other that, their listening to the
 prophet was only for show and dissimulation; and they knew the man (The
 Messenger of God) to be bewitched!
-
 
 وَقَالُوا أَءِذَا كُنَّا عِظَاماً وَرُفَاتاً أَئِنَّا لَمَبْعُوثُونَ
 خَلْقاً جَدِيداً(( 49 ))
@@ -181,7 +177,6 @@ TARRIED BUT A LITTLE.
 [ 562 ]
 
 THE COMMENTARY
-
 
 RESURRECTION DAY WILL DEFINITELY COME (VERSE NO. 49 - 52)
 
@@ -231,7 +226,6 @@ in doubt and delusion as regards the reality of God, and therefore,
 every one after his raise from the grave will celebrate the praise of
 Allah! Glory be to HIM.
 
-
 وَقُلْ لِّعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ إِنَّ الشَّيْطَانَ
 يَنزَغُ بَيْنَهُمْ إِنَّ الشَّيْطَانَ كَانَ لِلْإِنسَانِ عَدُوّاً
 مُبِيناً(( 53 ))
@@ -275,9 +269,7 @@ THEM) TO THEIR LORD; WHOEVER OF THEM BE NEARER. AND THEY HOPE (TO HAVE)
 HIS MERCY, AND FEAR HIS PUNISHMENT. VERILY THE PUNISHMENT OF YOUR LORD
 IS TO BE AVOIDED.
 
-
 THE COMMENTARY
-
 
 LOGICAL ENCOUNTER WITH ALL (VERSE NO. 53 - 57)
 
@@ -344,9 +336,7 @@ dries up, and that, those who trust in the Lord will possess the land.
 The Lord takes care for those who obey Him, and the land will be theirs
 for ever.
 
-
 \*\*\*\*\*
-
 
 THE PSALMS
 
@@ -378,7 +368,6 @@ church from its beginning, and the second only to the Pentateuch, in the
 estimation of Jews.
 
 They are all together 150 Psalms grouped into five collections.
-
 
 TRANSLATOR'S NOTE)
 
@@ -414,7 +403,6 @@ WE FRIGHTEN THEM, BUT IT INCREASES THEM NOTHING BUT GREAT INSOLENCE.
 [ 568 ]
 
 THE COMMENTARY
-
 
 YIELD NOT TO THOSE WHO SEEK EXCUSES (VERSE NO. 58 - 60)
 
@@ -539,7 +527,5 @@ THEM. AND SATAN WILL PROMISE THEM NOTHING BUT VANITY.
 65- BUT, AS FOR MY SERVANTS; YOU HAVE NO AUTHORITY OVER THEM, AND
 ENOUGH IS YOUR LORD FOR A DISPOSER.
 
-
 THE COMMENTARY
-
 

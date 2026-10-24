@@ -142,4 +142,3 @@ the word ‘khalq’.
 
 [^14]: Shaykh Kulaynī, Usūl al-Kāfī, chapter Makarim al-Akhlāq.
 
-

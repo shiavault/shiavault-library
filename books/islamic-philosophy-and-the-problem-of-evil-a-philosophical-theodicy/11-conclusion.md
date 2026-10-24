@@ -26,4 +26,3 @@ philosophers meet this problem briefly as far as they seek to discover
 some universal reasonable purposes and benefits for certain kinds of
 evils.
 
-

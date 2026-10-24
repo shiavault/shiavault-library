@@ -28,12 +28,10 @@ re-examine their faith and, like that Muslim youth, will think
 independently, keeping them- selves free from the fetters of dogmas and
 pre- conceived ideas.
 
-
 Dar Rah-i Haq Publications
 
 P. O. Box No. 5,
 Qum - IRAN.
-
 
 **Translator's Note**
 
@@ -63,10 +61,8 @@ Bilal Muslim Mission of Tan- zania, Dar-es-Salaam.
 This addition, I hope, will throw more light on the subjects discussed
 in this booklet, and will, thus, enhance its value.
 
-
 Sayyid Saeed Akhtar Rizvi
 Dar-es-Salaam,
 TANZANIA.
 29th November,1974
-
 

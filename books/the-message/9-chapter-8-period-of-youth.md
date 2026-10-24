@@ -244,4 +244,3 @@ page 184.
 
 [^8]: Seerah-i Halabi, vol. I, pp. 155 - 157.
 
-

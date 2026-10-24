@@ -404,4 +404,3 @@ prevalent and the truth would be triumphant.
 
 [^8]: Al-Tabari his History part 5 pp.81-82.
 
-

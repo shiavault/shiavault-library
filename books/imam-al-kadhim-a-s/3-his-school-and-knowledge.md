@@ -585,4 +585,3 @@ exemplaries.
 
 Holy Qur'an (6:91)
 
-

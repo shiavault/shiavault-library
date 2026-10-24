@@ -64,4 +64,3 @@ In what follows, we will try to avoid sophisticated theological
 discussions and instead, will just classify divine names and attributes
 that are mentioned in the Qur’an according to their similarities.
 
-

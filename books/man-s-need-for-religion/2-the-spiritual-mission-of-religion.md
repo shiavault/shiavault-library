@@ -555,4 +555,3 @@ the society. This discernable cultural reality is confirmed by man's
 social experience and by his sufferings from deviated principles,
 systems and theories.
 
-

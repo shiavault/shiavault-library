@@ -111,4 +111,3 @@ of merely eleven trees which were planted in Fadak!
 
 [^1]: Indian currency
 
-

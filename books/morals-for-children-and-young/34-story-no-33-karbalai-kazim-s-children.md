@@ -14,4 +14,3 @@ after praying namaz, we recite Quran and become familiar to our God, and
 if we have the means, to be also aware of the translation of the ayahs
 of the Holy Quran.
 
-

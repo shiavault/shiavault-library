@@ -162,4 +162,3 @@ useless to talk to such a person.
 
 [^2]: My Departure from the Wahhābīsm to the Imāmiyyah.
 
-

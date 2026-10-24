@@ -129,4 +129,3 @@ hypocrites, arrogant, those whom Allah (SWT) is displeased with, the
 luxurious, and the unjust, those who want to achieved highness on earth
 and be worshipped besides Allah (SWT).
 
-

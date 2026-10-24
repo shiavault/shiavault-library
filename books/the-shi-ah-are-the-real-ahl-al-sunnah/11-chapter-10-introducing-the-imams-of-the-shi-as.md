@@ -141,13 +141,13 @@ human being in this nation who is infallible except those from whom
 Allah removed all abomination and whom He purified with a perfect
 purification [according to verse 33, Chapter 33, of the Holy Qur'an].
 
-[^55] We have deliberately made no reference to the caliphate of Ali ibn
+[^55]: We have deliberately made no reference to the caliphate of Ali ibn
 Abu Talib because "Ahl al-Sunnah wal Jama\`a" did not recognize it
 except during the time of Ahmad ibn Hanbal, as we have already indicated
 above; so, refer to the chapter with the heading "Ahl al-Sunnah Are Not
 Familiar with the Prophetic Sunnah" in this book.
 
-[^56] The only exception is the caliphate of Ali ibn Abu Talib . Only he
+[^56]: The only exception is the caliphate of Ali ibn Abu Talib . Only he
 was not appointed by his predecessor, nor did he achieve it by fighting
 others and subduing them. Rather, Muslims chose him out of their free
 will to be their caliph, and they insisted on it when they invited him

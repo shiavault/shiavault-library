@@ -1,18 +1,14 @@
 Chapter 4 : Rules Related To Socializing
 ========================================
 
-<p dir="rtl">
 بسم الله الرّحمن الرّحيم
-</p>
 
-<p dir="rtl">
 أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي
 الْأَرْضِ مَا يَكُونُ مِن نَّجْوَى ثَلاًثَةٍ إلاَّ هُوَ رَابِعُهُمْ
 وَلاَ خَمْسَةٍ إِلاَّ هُوَ سَادِسُهُمْ وَلاَ أَدْنَى مِن ذَلِكَ وَلاَ
 أَكْثَرَ إِلاَّ هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ثُمَّ يُنَبِّئُهُم
 بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
 .
-</p>
 
 “Do you not see that Allah knows whatever is in the heavens and
 whatever is in the earth? Nowhere is there a secret counsel between
@@ -110,7 +106,6 @@ things because this kind of socializing and speaking (with members of
 the opposite sex) are usually associated with the intention of lust and
 obtaining (sexual) pleasure and can lead to being haram, according to
 Islam.
-
 
 **Women Talking to Non-Mahram Men
 **
@@ -219,5 +214,4 @@ Answer: One must refrain from all things that may lead to corruption.
 A
 
 Answer: It is not allowed. G
-
 

@@ -219,4 +219,3 @@ Vertical expansion of topical method includes looking deep into the
 rules of Islamic law and discovering the values which the law-giver of
 Islam never consented to dispense with).
 
-

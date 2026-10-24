@@ -230,7 +230,6 @@ followers:
 والّذى بعثني بالحقّ ما أخرتُكَ إلّا لنفسي و أنت منّي بمنزلة هارونَ من
 موسى غير أنّه لا نبيّ بعدي و أنت أخي ووارثي
 
-  
 “
 
 “I swear to Allah who has rightly appointed me as His Apostle, I did not
@@ -280,5 +279,4 @@ however we shall refer to only two such cases here.
 p. 31.
 
 [^13]: . Al-Murajeat, pp. 141-147.
-
 

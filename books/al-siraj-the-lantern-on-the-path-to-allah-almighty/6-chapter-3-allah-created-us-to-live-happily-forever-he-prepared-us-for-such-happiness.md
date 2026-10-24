@@ -143,4 +143,3 @@ humility to Him, deeming Him Great. In addition to that, their
 conditions sometimes change from the highest to the high, and such a
 change obligates them to always seek forgiveness.
 
-

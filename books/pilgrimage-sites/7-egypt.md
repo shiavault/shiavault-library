@@ -64,4 +64,3 @@ Memphis - the first capital of Egypt.
 
 **Note:** Sak'kara and Memphis are to the south of Cairo.
 
-

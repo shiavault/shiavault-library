@@ -447,4 +447,3 @@ all of them are equal in understanding different matters and performing
 various tasks. In fact, every individual has a talent for certain types
 of work and no one is found to be devoid of certain gifts and talents.
 
-

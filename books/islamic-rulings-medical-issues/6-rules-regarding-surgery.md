@@ -43,4 +43,3 @@ Answer: as per the question, the opinion of the doctor is important. He
 should perform the operation in whatever way is easier and the chance of
 success greater.
 
-

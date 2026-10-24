@@ -346,4 +346,3 @@ and the most beneficial manners that believers usually follow. They have
 no faith in them; therefore they give up hope in face of problems and
 hardships and most fall into diseases of the soul or the body.
 
-

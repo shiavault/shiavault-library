@@ -69,15 +69,11 @@ following verse which regards reflection (*tafakkur*) on the system of
 creation as one of the characteristics of those who possess intellects
 (*ūli’l-albāb*) for which they are praised:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
-وَالنَّهَارِ لآيَاتٍ لِّأُوْلِي الألْبَابِ ٭ الَّذِينَ يَذْكُرُونَ
-اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي
-خَلْقِ السَّمَاوَاتِ وَالأَرْضِ رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً
-سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ
+> وَالنَّهَارِ لآيَاتٍ لِّأُوْلِي الألْبَابِ ٭ الَّذِينَ يَذْكُرُونَ
+> اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي
+> خَلْقِ السَّمَاوَاتِ وَالأَرْضِ رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً
+> سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴾
 
 ***“Indeed in the creation of the heavens and the earth and the
 alternation of night and day, there are signs for those who possess
@@ -213,22 +209,14 @@ There is a well known story that someone asked Mālik ibn Anas (93-179
 AH) about the meaning of “Allah’s settlement on the Throne” as mentioned
 in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ ﴾
-  </p>
-</blockquote>
+> ﴿ ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ ﴾
 
 ***“The All-beneficent, settled on the Throne.”***[^22]
 
 In reply, Ibn Anas said:
 
-<blockquote dir="rtl">
-  <p>
-اَلْاِسْتِواءُ مَعْلومٌ وَالْكِيْفِيَّةُ مَجْهولَةٌ وَالْايمانُ بِهِ
-واجِبٌ وَالسُّؤالُ عَنْهُ بِدْعَةٌ.
-  </p>
-</blockquote>
+> اَلْاِسْتِواءُ مَعْلومٌ وَالْكِيْفِيَّةُ مَجْهولَةٌ وَالْايمانُ بِهِ
+> واجِبٌ وَالسُّؤالُ عَنْهُ بِدْعَةٌ.
 
 “The settlement is known; how God settles on the Throne is unknown; to
 believe in it is obligatory and to ask about it is *bid‘ah* (innovation
@@ -278,12 +266,8 @@ It is true that reason cannot discern all religious truths, but it is
 not totally incapable of knowing religious truths. In this regard, Imām
 ‘Alī (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يُطْلِعِ الْعُقُولَ عَلَى تَحْدِيدِ صِفَتِهِ، ولَمْ يَحْجُبْهَا
-عَنْ وَاجِبِ مَعْرِفَتِهِ.
-  </p>
-</blockquote>
+> لَمْ يُطْلِعِ الْعُقُولَ عَلَى تَحْدِيدِ صِفَتِهِ، ولَمْ يَحْجُبْهَا
+> عَنْ وَاجِبِ مَعْرِفَتِهِ.
 
 ***“He has not informed (human) wit about the limits of His qualities.
 Nevertheless, He has not prevented it from securing essential knowledge
@@ -298,21 +282,13 @@ Thirdly, rational thinking has been encouraged and emphasized in the
 Holy Qur’an. The Qur’an has described those who do not use their minds
 as the worst of beasts:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ شَرَّ الدَّوَابِّ عِندَ اللّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
-لاَ يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ شَرَّ الدَّوَابِّ عِندَ اللّهِ الصُّمُّ الْبُكْمُ الَّذِينَ
+> لاَ يَعْقِلُونَ ﴾
 
 ***“Indeed the worst of beasts in Allah’s sight are the deaf and the
 dumb who do not apply reason.”***[^30]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَيَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لا يَعْقِلُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَيَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لا يَعْقِلُونَ ﴾
 
 ***“And He lays defilement on those who do not apply reason.”***[^31]
 
@@ -321,21 +297,13 @@ engaging in intellectual discussion and argumentation. For example, by
 means of two rational arguments, it has proved the Oneness of God,
 saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلا اللَّهُ لَفَسَدَتَا ﴾
-  </p>
-</blockquote>
+> ﴿ لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلا اللَّهُ لَفَسَدَتَا ﴾
 
 ***“Had there been gods in them other than Allah, they would surely have
 fallen apart.”***[^32]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذًا لَذَهَبَ كُلُّ إِلَهٍ بِمَا
-خَلَقَ وَلَعَلا بَعْضُهُمْ عَلَى بَعْضٍ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا كَانَ مَعَهُ مِنْ إِلَهٍ إِذًا لَذَهَبَ كُلُّ إِلَهٍ بِمَا
+> خَلَقَ وَلَعَلا بَعْضُهُمْ عَلَى بَعْضٍ ﴾
 
 ***“Neither is there any god besides Him, for then each god would take
 away what he created, and some of them would surely rise up against
@@ -344,14 +312,10 @@ others.”***[^33]
 In refuting the notion of those who think that God has a son, it is thus
 stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا سُبْحَانَهُ بَلْ لَهُ مَا فِي
-السَّمَاوَاتِ وَالأرْضِ كُلٌّ لَهُ قَانِتُونَ ٭ بَدِيعُ السَّمَاوَاتِ
-وَالأرْضِ وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ
-﴾
-  </p>
-</blockquote>
+> ﴿ وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا سُبْحَانَهُ بَلْ لَهُ مَا فِي
+> السَّمَاوَاتِ وَالأرْضِ كُلٌّ لَهُ قَانِتُونَ ٭ بَدِيعُ السَّمَاوَاتِ
+> وَالأرْضِ وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ
+> ﴾
 
 ***“And they say, ‘Allah has taken a son.’ Immaculate is He! Rather to
 Him belongs whatever is in the heavens and the earth. All are obedient
@@ -374,13 +338,9 @@ the inward proof of God. Imām al-Ṣādiq (*‘a*) has regarded reason as the
 human being’s guide in knowing God as well as in knowing the principles
 of what is good and what is evil:
 
-<blockquote dir="rtl">
-  <p>
-فَبِالْعَقلِ عَرَفَ الْعِبادُ خالِقَهُم وَأَنَّهُمْ مَخْلوقونَ،
-وَأَنَّهُ المُدَبِّرُ لَهُمْ وَأَنَّهُمْ المُدَبَّرونَ... وَعَرَفوا
-بِهِ الْحَسَنَ مِنَ القَبيحِ...
-  </p>
-</blockquote>
+> فَبِالْعَقلِ عَرَفَ الْعِبادُ خالِقَهُم وَأَنَّهُمْ مَخْلوقونَ،
+> وَأَنَّهُ المُدَبِّرُ لَهُمْ وَأَنَّهُمْ المُدَبَّرونَ... وَعَرَفوا
+> بِهِ الْحَسَنَ مِنَ القَبيحِ...
 
 ***“By means of reason, the servants recognize their Creator and that
 they are creatures and that He is their Governor and that they are
@@ -390,11 +350,7 @@ According to Imām ‘Alī (*‘a*), one of the goals of the mission of the
 prophets is “to unveil before them (people) the hidden virtues of
 wisdom”: [^41]
 
-<blockquote dir="rtl">
-  <p>
-لِيُثيروا لَهُمْ دَفائِنَ العُقولِ
-  </p>
-</blockquote>
+> لِيُثيروا لَهُمْ دَفائِنَ العُقولِ
 
 Fifthly, the Holy Qur’an and traditions (*aḥādīth*) have a set of
 sublime knowledge which is beyond sensory perception and common
@@ -642,5 +598,4 @@ Al-Iḥtijāj, Al-Kāfī fī ’l-Fiqh, Tārīkh al-A’immah and Kitāb al-Ṣa
 [^41]: Nahj al-Balāghah, Sermon 1.
 
 [^42]: Nahj al-Balāghah, Sermon 49. [Trans.]
-
 

@@ -99,4 +99,3 @@ biography of Safiyya in the Isti’ab, Ibn Hajar in her biography in
 Al-Isabah, by Shaykh Rashid Rida at the end of page 589, Vol. 12, of his
 Manar, in addition to many other traditionists.
 
-

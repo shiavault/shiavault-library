@@ -85,4 +85,3 @@ shadows of kufr (denial of Truth), and it is in this light that we must
 forever remember her and take inspiration and guidance from her
 example. 
 
-

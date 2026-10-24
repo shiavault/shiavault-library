@@ -194,7 +194,6 @@ religion. Only under its light the mind can explain life and estimate it
 as required. In this way man would discover his inefficiency and his
 need to follow the path of religion and to be guided by it.
 
-
 **The Spitrtual Mission Of Religion**
 
 Man's relations to the realm of matter and nature, placing his
@@ -527,7 +526,6 @@ about a spiritual and lawful harmony to create co-ordination between the
 picture of the inner self of the believer, and the outer form of life
 and society.
 
-
 Islam, too, is keenly interested in keeping the natural system, in
 protecting it against deviation, and in guiding it along the straight
 path of Allah, so as to realize happiness for man, and to solve his
@@ -551,5 +549,4 @@ Allah the Almighty says:
 
 "Say: Every one acts according to his manner; but your Lord best
 bestows who is best guided in the path. " Holy Our'an (17:84)
-
 

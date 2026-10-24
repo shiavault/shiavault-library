@@ -25,4 +25,3 @@ of their outlook on life. Unless and until they change their view point
 in relation to man, they can not be expected to extend and expand the
 sphere of fundamental rights[^21] .
 
-

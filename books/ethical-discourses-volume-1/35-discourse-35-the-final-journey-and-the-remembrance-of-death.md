@@ -1,17 +1,13 @@
 Discourse 35: The Final Journey and the Remembrance of Death
 ============================================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ سَالِمِ بْنِ عَبْدِ اللٌّهِ عَنْ إِبْنِ عُمَرَ قَالَ، قَالَ لِي
-رَسُولُ اللٌّهِ : كُنْ فِي الدُّنْـيَا كَأَنَّكَ غَرِيبٌ وَ عَابِرُ
-سَبِيلِ، وَ اعْدُدْ نَفْسَكَ فِي الْمَوْتى، وَ إِذَا أَصْبَحْتَ لاَ
-تُحَدِّثْ نَفْسَكَ بِالْمَسَاءِ، وَ إِذَا أَمْسَيْتَ فَلاَ تُحَدِّثْ
-نَفْسَكَ بِالْصَّبَاحِ، وَ خُذْ مِنْ صِحَّتِكَ لِسُقْمِكَ وَ مِنْ
-شَبَابِكَ لِهَرَمِكَ وَ مِنْ حَـيَاتِكَ لِوَفَاتِكَ. فَإِنَّكَ لاَ
-تَدْرِي مَا اسْمُكَ غَداً.
-  </p>
-</blockquote>
+> عَنْ سَالِمِ بْنِ عَبْدِ اللٌّهِ عَنْ إِبْنِ عُمَرَ قَالَ، قَالَ لِي
+> رَسُولُ اللٌّهِ : كُنْ فِي الدُّنْـيَا كَأَنَّكَ غَرِيبٌ وَ عَابِرُ
+> سَبِيلِ، وَ اعْدُدْ نَفْسَكَ فِي الْمَوْتى، وَ إِذَا أَصْبَحْتَ لاَ
+> تُحَدِّثْ نَفْسَكَ بِالْمَسَاءِ، وَ إِذَا أَمْسَيْتَ فَلاَ تُحَدِّثْ
+> نَفْسَكَ بِالْصَّبَاحِ، وَ خُذْ مِنْ صِحَّتِكَ لِسُقْمِكَ وَ مِنْ
+> شَبَابِكَ لِهَرَمِكَ وَ مِنْ حَـيَاتِكَ لِوَفَاتِكَ. فَإِنَّكَ لاَ
+> تَدْرِي مَا اسْمُكَ غَداً.
 
 It has been narrated from Salim b. 'Abdullah from b. 'Umar who said that
 the Messenger of Allah (S) told me: “Live in the world as if you are a
@@ -30,11 +26,7 @@ human soul) and that is the remembrance of death.
 must not have trust or reliance upon this passing world, and in Biharul
 Anwar it has been mentioned:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ الدُّنْـيَا رَأْسُ كُلِّ خَطِيئَةٍ.
-  </p>
-</blockquote>
+> حُبُّ الدُّنْـيَا رَأْسُ كُلِّ خَطِيئَةٍ.
 
 “Love of the (material) world is the source of all sins.”[^2]
 
@@ -123,11 +115,7 @@ person is one who remembers death the most. As well, in the traditions
 it has been mentioned that when Imam as-Sajjad (as) used to recite
 Suratul Hamd and reached the line:
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 “Master of the Day of Judgement”
 
@@ -175,5 +163,4 @@ prison for a true believer and paradise for a disbeliever and that death
 is a bridge for the true believer towards paradise while death is a
 bridge for the disbeliever towards the fire of hell.”  Tafsir-e-Namuna,
 vol. 22, pg. 362
-
 

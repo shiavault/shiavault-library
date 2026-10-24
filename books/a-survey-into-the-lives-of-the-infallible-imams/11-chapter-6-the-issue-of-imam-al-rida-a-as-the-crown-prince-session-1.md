@@ -635,4 +635,3 @@ responsibility, again what business was this to him?
 [^8]: [Unfortunately the last few minutes of this speech were not
 recorded on the tape].
 
-

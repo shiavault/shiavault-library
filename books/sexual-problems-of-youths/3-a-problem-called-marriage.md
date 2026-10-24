@@ -638,11 +638,7 @@ societies, has been strongly condemned, and Islam has introduced
 faithful women and men, girls and boys in the same and equal rank.  
  We read in Islamic traditions:
 
-<blockquote dir="rtl">
-  <p>
-المؤمن کفو المؤمن
-  </p>
-</blockquote>
+> المؤمن کفو المؤمن
 
 *A believer from any family, race and social class is in the same rank
 and position as the other believer.*
@@ -1446,5 +1442,4 @@ The companions asked: “What do you mean by these plants?”
 He answered: “I mean those beautiful women trained in impure
 environments and tainted families (and lacking moral privileges and
 merits).”
-
 

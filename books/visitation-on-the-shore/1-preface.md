@@ -28,7 +28,6 @@ Also, every time the holy name of Imam Mahdi was mentioned by the title
 Qibla would place his hand on his head and pray for the divine savior’s
 appearance. He would weep for his absence and craved for seeing him.
 
-
 On the other hand, the enemies of God and truth lay in ambush. They
 were very well aware that this "divine promised one" is the son of Imam
 Hasan Askari (A.S). They kept Imam (a.s.) under strict surveillance.
@@ -53,5 +52,4 @@ These visitations took place during the very lifetime or at the end of
 Imam Hasan Askari (a.s.) honorable life. In such instances, Imam Hasan
 Askari (a.s.) introduced Imam Mahdi (a.s.) in different ways to the
 Shi'ites.
-
 

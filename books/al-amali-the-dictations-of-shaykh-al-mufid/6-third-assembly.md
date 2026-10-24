@@ -254,4 +254,3 @@ I heard Abu Abdillah (as) say: "Whoever has not been blessed by Allah
 with an admonishing innerself, he can derive no benefit from the
 admonitions of the people."
 
-

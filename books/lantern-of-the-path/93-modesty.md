@@ -27,4 +27,3 @@ wrong action; shame for one's incapacity; modesty in the face of a noble
 equality; the modesty of love, and the modesty of awe. Each of these has
 its adherents, who are ranked according to these categories of modesty.
 
-

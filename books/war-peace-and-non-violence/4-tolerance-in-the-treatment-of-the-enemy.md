@@ -616,4 +616,3 @@ was asked: 'What O Messenger of Allah is the muthallath?' He (S) said:
 'The man who strives against his brother and kills him for he will
 destroy himself and his brother and his guardian or leader.'
 
-

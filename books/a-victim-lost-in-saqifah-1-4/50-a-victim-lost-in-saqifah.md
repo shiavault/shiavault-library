@@ -50,10 +50,10 @@ way was Umar.”!**[4]**
 Magazine, Issue No. 17, (9000 copies), Spring 83, Pg. 14  
  **[2]** Ibid. Article quoted in Nida-e-Islam Magazine, Issue No. 2,
 (copies not mentioned), Summer 79, Pg. 30; *Bani Khatam wa Deen-e-Kamil*
-(1<sup>st</sup> Edition 1379), Pgs. 102-103  
- **[3]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup>
+(1st Edition 1379), Pgs. 102-103  
+ **[3]** Fawad Farooqi: *Beest-o-panj Saal Sukoot-e-Ali* (2nd
 Edition 1379), Pgs. 49-50  
- **[4]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup> Edition
+ **[4]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2nd Edition
 1379), Pg. 101
 
 “Ali was like Umar in piety of a poor life.”!**[1]**
@@ -104,12 +104,12 @@ freedom of the government of Abu Bakr and Umar.”!**[3]**
 
 ------------------------------------------------------------------------
 
-**[1]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup> Edition
+**[1]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2nd Edition
 1379), Pg. 139  
- **[2]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2<sup>nd</sup> Edition
+ **[2]** Ibid. *Beest-o-panj Saal Sukoot-e-Ali* (2nd Edition
 1379), Pg. 244  
  **[3]** Dr. Ali Shariati: *Husain Warith-e-Adam* (Collected Writings
-19), 1<sup>st</sup> Edition Pg. 356
+19), 1st Edition Pg. 356
 
 In continuation of this same text written as preface to the book of
 *Hujr bin Adi,* we read in the footnote:
@@ -156,7 +156,7 @@ Islam covered their real horrible  
 
 **[1]** Ibid. *Husain Warith-e-Adam* (Collected Writings 19), Pg. 356  
  **[2]** Dr. Ali Shariati: *Tarikh O Shanakht-e-Adyan* (Collected
-Writings 15), Vol. 2, (8<sup>th</sup> Edition 1381), Pg. 18
+Writings 15), Vol. 2, (8th Edition 1381), Pg. 18
 
 designs and from the other side dishonest historians did not record the
 truth. Therefore it vanished from the history also. The record of
@@ -217,7 +217,7 @@ Ja’far Ibn Sulaiman al-Zabyee**[3]** and others.**[4]**
 
 In the middle of third century curse and abuse of Abu Bakr and Umar was
 a common practice. Zaid bin Qadama who lived in that period
-(3<sup>rd</sup> Century) writes:
+(3rd Century) writes:
 
 What a time has come! People abuse Abu Bakr and Umar.**[5]** This matter
 spread till in the Sixth Century prominent hadith scholar of Ahle Sunnat

@@ -235,4 +235,3 @@ Messenger insisted on favouring him, and so it was: he and the Messenger
 of Allah (pbuh) became brothers, contrary to the common norm of practice
 among all the immigrants and supporters at that time and place.
 
-

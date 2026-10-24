@@ -216,4 +216,3 @@ Maurice Bucaille
 
 Praise be to Allah, Lord of the worlds.
 
-

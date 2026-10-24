@@ -135,4 +135,3 @@ each other. We spent the night in blissful comfort.
 (Praying sincerely for the dead can improve their lot as God can bless
 them through his mercy and forgiveness.)
 
-

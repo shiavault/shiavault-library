@@ -380,12 +380,8 @@ the prophet's infallible household and leaving him all alone. They were
 intent on repenting and being killed to make up for their misdeed.[^53]
 By relying on the Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
-يا قوم إنكُم ظَلمتمْ أنفُسَكمْ باتّخاذِكُمْ العِجْل فَتُوبُوا إلي
-بارِئِكُمْ فَاقْتُلُوا أنفسكُمْ
-  </p>
-</blockquote>
+> يا قوم إنكُم ظَلمتمْ أنفُسَكمْ باتّخاذِكُمْ العِجْل فَتُوبُوا إلي
+> بارِئِكُمْ فَاقْتُلُوا أنفسكُمْ
 
 “O my people! Thou have surely been unjust to thyselves by taking the
 calf (for a god), therefore turn to thy Creator (penitently), so kill
@@ -410,13 +406,9 @@ greatness of the Prophet's descendants, 'Ubayd Allah Ibn 'Abd Allah
 hinted at how they were affronted in Karbala and while addressing the
 audience being Tawwabin, he affirmed how to repent,
 
-<blockquote dir="rtl">
-  <p>
-أما أدعوكم إلى كتاب الله وسنة نبيّه والطلب بدماء أهل بيته وإلى جهاد
-المحلين والمارقين فَإن قتِلنا فما عند الله خير للأبرار وإن ظهرنا،
-رددنا هذا الأمر إلى أهل بيت نبيَنا
-  </p>
-</blockquote>
+> أما أدعوكم إلى كتاب الله وسنة نبيّه والطلب بدماء أهل بيته وإلى جهاد
+> المحلين والمارقين فَإن قتِلنا فما عند الله خير للأبرار وإن ظهرنا،
+> رددنا هذا الأمر إلى أهل بيت نبيَنا
 
 “I do call you towards the divine Book, the Prophet's Sunna, a revenge
 for Ahl al-Bayt's blood and Jihad against the deniers of the religion as
@@ -654,12 +646,8 @@ repentance and the manifestation thereof in departing this world and
 attaining martyrdom. From the incipient stage of the battle, Sulayman
 Ibn Surad yelled out,
 
-<blockquote dir="rtl">
-  <p>
-يا شيعة آل محمد! فوالله ما بينكم وبين الشهادة ودخول الجّنة والراحة من
-هذا الدنيا الا فراق الانفس والتوبة والوفاء بالعهد
-  </p>
-</blockquote>
+> يا شيعة آل محمد! فوالله ما بينكم وبين الشهادة ودخول الجّنة والراحة من
+> هذا الدنيا الا فراق الانفس والتوبة والوفاء بالعهد
 
 “O Shi'ite Muslims of Muhammad's family! Not a short distance is there
 between you and martyrdom, your entrance to the Heaven and being
@@ -668,17 +656,9 @@ and fulfilling your pledge.”
 
 In a poem he had said:
 
-<blockquote dir="rtl">
-  <p>
-اليك ربي تبت عن ذنوبي وقد علاني في الوري شيبي
-  </p>
-</blockquote>
+> اليك ربي تبت عن ذنوبي وقد علاني في الوري شيبي
 
-<blockquote dir="rtl">
-  <p>
-فارحم عبيداً غير ما تكذيب واغفرذنوبي سيدي وحوبي
-  </p>
-</blockquote>
+> فارحم عبيداً غير ما تكذيب واغفرذنوبي سيدي وحوبي
 
 “O My Lord, I beg for forgiveness for my sins whereas where as my old
 age has made me conspicuous. While not denying me, pardon your servant
@@ -686,17 +666,9 @@ and have mercy on him, the sinner.”
 
 'Abd Allah Ibn Sa'd has composed,
 
-<blockquote dir="rtl">
-  <p>
-ارحم الـهي عبدك التوابا ولا تواخـذه فقـد أنابـا
-  </p>
-</blockquote>
+> ارحم الـهي عبدك التوابا ولا تواخـذه فقـد أنابـا
 
-<blockquote dir="rtl">
-  <p>
-لا كوفة يبقي ولا عـراقا لا بل يريـد الموت والعتاقـا
-  </p>
-</blockquote>
+> لا كوفة يبقي ولا عـراقا لا بل يريـد الموت والعتاقـا
 
 “O my God! Have mercy on your penitent servant. Take not him to task for
 he has repented. No longer is he after Kufa or Iraq. He is merely after
@@ -704,22 +676,14 @@ death and freedom.” [^77]
 
 Rufa'a Ibn Shaddad also has composed,
 
-<blockquote dir="rtl">
-  <p>
-يارب اني تائب اليكا قد اتكلت شدتي عليكا
-  </p>
-</blockquote>
+> يارب اني تائب اليكا قد اتكلت شدتي عليكا
 
 “My Lord! Not only have I repent but also I have trusted in you.” [^78]
 
 While Sakhr Ibn Hudhayfa was in battle with thirty of his cousins, he
 said:
 
-<blockquote dir="rtl">
-  <p>
-الى الله من الذنب أفرّ أنوي ثواب الله فيما قد اسر
-  </p>
-</blockquote>
+> الى الله من الذنب أفرّ أنوي ثواب الله فيما قد اسر
 
 “I run away from sins to Allah my only intention is nothing but Allah's
 reward.” [^79]
@@ -839,12 +803,8 @@ group met Ibn Hanafiyya privately and asked him about his position
 concerning Mukhtar. Muhammad Ibn Hanafiyya supported Mukhtar implicitly
 and ambiguously and said:
 
-<blockquote dir="rtl">
-  <p>
-أما ما ذكرتم من دعاء من دعاكم الي الطلب بدمائنا فواللّه لوددت أنّ
-اللّه انتصر لنا من عدوّنا بمن شاء من خلقه
-  </p>
-</blockquote>
+> أما ما ذكرتم من دعاء من دعاكم الي الطلب بدمائنا فواللّه لوددت أنّ
+> اللّه انتصر لنا من عدوّنا بمن شاء من خلقه
 
 “About what you mentioned that someone has summoned you to rise up in
 revenge for Ahl al-Bayt's blood, by Almighty Allah I desire that Allah
@@ -1708,5 +1668,4 @@ throne” Ansab al-Ashraf, vol. V, pp 241,242
 [^149]: Tarikh at-Tabari, vol. IV p. 577
 
 [^150]: al-’Iqd al-Farid, vol. IV, p. 148
-
 

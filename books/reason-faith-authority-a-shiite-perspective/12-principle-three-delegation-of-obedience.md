@@ -11,4 +11,3 @@ obeys God and then the position of leadership and not the person per se.
 Even the person who is a leader, he himself must respect the position of
 leadership and act according to his commands as a leader.
 
-

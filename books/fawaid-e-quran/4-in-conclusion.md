@@ -11,4 +11,3 @@ In conclusion, we all pray to Allah (S.w.T.) to make our hearts attached
 to the Holy Qur’an and make us able to understand its teachings and
 guidance.
 
-

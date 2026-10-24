@@ -73,4 +73,3 @@ God is three in one rather than One and only One. The rest of the Bible
 is filled with verses indicating the absolute Oneness of God, and they
 carry no record of the idea of John in such way.
 
-

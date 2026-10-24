@@ -10,13 +10,9 @@ which are, on the basis of narrations, stated here under.
 First Verse
 -----------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّـهُ
-يَعْصِمُكَ مِنَ النَّاسِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّـهُ
+> يَعْصِمُكَ مِنَ النَّاسِ
 
 ***O’ Apostle, Proclaim the Message which has been sent to you from your
 Lord! And if you do not do that, then you would not have fulfilled and
@@ -31,12 +27,8 @@ Sheikh Muhammad Ibn Yaqub al-Kulaini (d. 328 AH) quotes this narration
 on his documentation as under revealing this verse, Allah ordered his
 Prophet to announce wilayat (guardianship) of Ali (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-إنَّمَا وَلِيُّكُمُ اللَّـهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إنَّمَا وَلِيُّكُمُ اللَّـهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Your guardians are Allah, his Apostle and those who believe –those
 who establish prayers and give Zakat (poor’s rate) while they are bowing
@@ -53,13 +45,9 @@ fearing that people might leave his religion, rejecting him as a
 prophet. He thus mentioned this while talking to his Lord. It was at
 this point that God, the Exalted, revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّـهُ
-يَعْصِمُكَ مِنَ النَّاسِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللَّـهُ
+> يَعْصِمُكَ مِنَ النَّاسِ
 
 ***O’ Prophet, Proclaim the Message which has been sent to you from your
 Lord! And if you do not do that, then you would not have fulfilled and
@@ -83,12 +71,8 @@ When the Holy Prophet’s speech ended on the day of Ghadir and those
 present paid allegiance to Ali (a.s.) as the commander of the faithful,
 this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
 
 ***Today I have perfected your religion for you and finished my bounty
 upon you and have chosen Islam for you as religion.*** Sura Al-Ma'idah:
@@ -103,11 +87,7 @@ made something like a pulpit by his order. The Prophet (S) mounted it
 and raised my arm to the extent that the whiteness of his armpit became
 visible. Then he said loudly:*
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه
-  </p>
-</blockquote>
+> من كنت مولاه فهذا علي مولاه، اللهم وال من والاه وعاد من عاداه
 
 *Of whomsoever I am a master, Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes enmity
@@ -118,12 +98,8 @@ me is enmity with Allah.*
 
 At this moment Allah revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
- الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
-  </p>
-</blockquote>
+>  الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
 
 ***Today I have perfected your religion for you, and finished my bounty
 upon you and have chosen Islam for you as religion. (5:3)***
@@ -142,11 +118,7 @@ Third Verse
 When people paid allegiance to Amir Al-Muminin and the process came to
 an end, this verse was revealed concerning a person named Numan Fahri:
 
-<blockquote dir="rtl">
-  <p>
-سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِع \* لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
-  </p>
-</blockquote>
+> سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِع \* لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
 
 ***A demander demanded an absolute chastisement. There is no repellent
 against it for disbelievers.*** Sura Al-Ma'arej: verses 1 and 2.
@@ -169,23 +141,15 @@ whiteness of their armpits became visible.
 
 At this moment the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-الم ابلّغكم الرسألة؟ الم انصح لكم؟
-  </p>
-</blockquote>
+> الم ابلّغكم الرسألة؟ الم انصح لكم؟
 
 *Have I not proclaimed the message to you? Have I not admonished you?*
 
 They said: “Yes you have done it.”
 He said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فعلي مولاه ، اللهم وال من والاه ، وعاد من عاداه وانصر من
-نصره ، واخذل من خذله
-  </p>
-</blockquote>
+> من كنت مولاه فعلي مولاه ، اللهم وال من والاه ، وعاد من عاداه وانصر من
+> نصره ، واخذل من خذله
 
 *Of whomsoever I am a master, Ali is his master. My Lord! Befriend
 anyone who befriends him and make enmity towards anyone who makes enmity
@@ -215,11 +179,7 @@ leaves him alone.” Are these words from you or Allah?
 
 The Prophet of Allah (S) thrice said:
 
-<blockquote dir="rtl">
-  <p>
-بل عند الله
-  </p>
-</blockquote>
+> بل عند الله
 
 *Indeed from Allah.*
 
@@ -237,12 +197,8 @@ hitting his head, the stone came out of his back, causing him perdition.
 At this moment, Allah the Most High revealed this verse concerning
 Nu’aman Fahri.
 
-<blockquote dir="rtl">
-  <p>
-سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ \* لِّلْكَافِرِينَ لَيْسَ لَهُ
-دَافِعٌ \* مِّنَ اللَّـهِ ذِي الْمَعَارِجِ
-  </p>
-</blockquote>
+> سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ \* لِّلْكَافِرِينَ لَيْسَ لَهُ
+> دَافِعٌ \* مِّنَ اللَّـهِ ذِي الْمَعَارِجِ
 
 *A demander demanded an absolute chastisement. There is no repellent
 against it for disbelievers. (It is) from Allah the owner of the ways of
@@ -265,12 +221,8 @@ Ja’far Sadiq (a.s.) as saying:
 The following verses were revealed about Ali, the commander of the
 faithful (a.s.) on Ghadir Day)[^7]:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ\*  نَزَلَ بِهِ الرُّوحُ
-الْأَمِينُ\* عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ
-  </p>
-</blockquote>
+> وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ\*  نَزَلَ بِهِ الرُّوحُ
+> الْأَمِينُ\* عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ
 
 ***And Verily this (holy Quran) has been sent down from the Lord of the
 worlds; The Faithful Spirit has descended it; upon your heart that you
@@ -297,5 +249,4 @@ Al-Halbiyah, vol. 3, p.334, Noor Al-Absar, p. 78 etc.
 [^7]: Tafsir Al-Qomi, vol.2, p.124, Sheikh Muhammad Muhsen Feid Kashani
 (d. 1091 AH), has also narrated this narration on the authority of
 Tafsir Al-Qomi in his Al-safi fi Tafsir Al-Quran, vol. 4, p.50.
-
 

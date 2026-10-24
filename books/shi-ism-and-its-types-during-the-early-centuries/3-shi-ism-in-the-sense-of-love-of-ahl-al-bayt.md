@@ -91,4 +91,3 @@ this attachment opened the door to Shi'ism and it could pave the way for
 the spread of Shiism in the long run. Elsewhere we have discussed this
 issue.
 
-

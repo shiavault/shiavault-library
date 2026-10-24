@@ -142,4 +142,3 @@ however, there is considerable variety in viewpoint between comparative
 theologians and the greater the assumption or claim to neutral
 categories the more vulnerable their accounts become to criticism.
 
-

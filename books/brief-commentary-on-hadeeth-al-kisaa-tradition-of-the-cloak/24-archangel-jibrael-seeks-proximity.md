@@ -1,12 +1,8 @@
 Archangel Jibrael Seeks Proximity
 =================================
 
-<blockquote dir="rtl">
-  <p>
-فَقالَ جِبرائِيلُ : يا رَبِّ أَتَأذَنُ لي أَن أَهبِطَ إلىَ الأَرضِ
-لأِكُونَ مَعَهُم سادِساً ؟ فَقالَ اللهُ : نَعَم قَد أَذِنتُ لَكَ
-  </p>
-</blockquote>
+> فَقالَ جِبرائِيلُ : يا رَبِّ أَتَأذَنُ لي أَن أَهبِطَ إلىَ الأَرضِ
+> لأِكُونَ مَعَهُم سادِساً ؟ فَقالَ اللهُ : نَعَم قَد أَذِنتُ لَكَ
 
 **"O my Lord," Gabriel asked, "Will You allow me to descend to the earth
 to be the sixth of them?" Allah the Almighty and All-majestic said,
@@ -39,12 +35,8 @@ the Prophet (SA) was given permission to continue forward at a position
 which no one else was ever given permission to enter. As the Holy Qur’an
 describes:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَنَا فَتَدَلَّى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ. وَهُوَ
-بِالْأُفُقِ الأعلى
-  </p>
-</blockquote>
+> ثُمَّ دَنَا فَتَدَلَّى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ. وَهُوَ
+> بِالْأُفُقِ الأعلى
 
 ***“When he was on the highest part of the horizon, Then he approached
 and came closer, Till he was at a distance two bows' length or even
@@ -70,12 +62,8 @@ benefit by his association to that pure good. In essence, Jibrael (AS)
 acted upon the idea of seeking Qurba (proximity) to the AhlulBayt (AS)
 as Allah (SWT) has ordered:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَىٰ
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَىٰ
 
 ***“Say: I do not ask of you any reward for it but love for my near
 relatives.” (42:22)***
@@ -114,5 +102,4 @@ join them under the cloak, even if it is just as an unofficial member of
 the cloak. We will come to understand shortly what is the main wisdom
 behind the divine permission for Jibrael (AS) to descend to the earth
 and join this momentous occasion.
-
 

@@ -48,7 +48,6 @@ Adam) your good deeds are due to Me and your bad deeds are due to you,
 you have committed your disobediences by the power I have given
 you).[^28]
 
-
 **8. God’s domination over the movement of destiny and fate in the
 universe along history**
 
@@ -111,7 +110,6 @@ and he can only extend his hand by the will of Allah.
 
 The man then got in to the Imam, asked him about few things in which he
 came to believe, and then he left).[^29]
-
 
 **9. The divine law of assistance and negligence and its role in the
 life of people**
@@ -264,8 +262,7 @@ Sadiquy: 123.
 
 ([^27]) Ibid 1: 120/2.
 
-[^28] Ibid 1: 157/3 Ketab AL Tawheed.
+[^28]: Ibid 1: 157/3 Ketab AL Tawheed.
 
-[^29] AL Tawheed (As Sadouqu) 3/337.
-
+[^29]: AL Tawheed (As Sadouqu) 3/337.
 

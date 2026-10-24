@@ -14,4 +14,3 @@ it changes its own function to a negation particle.
 
 I did not eat at this restaurant. **ما أکلتُ في هذا المطعم.**
 
-

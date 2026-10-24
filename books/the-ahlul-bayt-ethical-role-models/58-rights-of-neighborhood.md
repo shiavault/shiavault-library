@@ -90,4 +90,3 @@ and aided him so as to save him from selling his house.
 
 [^6]: Quoted from al-Wafi; part 3 page 96 (as quoted from al-Kafi).
 
-

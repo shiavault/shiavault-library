@@ -316,4 +316,3 @@ share and man two shares.' " (al-Kafi) The author says: There are very
 many traditions of this import, and we have shown that the Qur'an too
 shows the same thing.
 
-

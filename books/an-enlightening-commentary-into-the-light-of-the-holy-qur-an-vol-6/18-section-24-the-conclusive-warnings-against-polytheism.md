@@ -4,14 +4,10 @@ Section 24: The Conclusive Warnings Against Polytheism
 Surah al-‘Araf – Verse 189
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَكُم مِن نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا
-لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّاهَا حَمَلَتْ حَمْلاً خَفِيفاً
-فَمَرَّتْ بِهِ فَلَمَّآ اَثْقَلَت دَعَوَا اللّهَ رَبَّهُمَا لَئِنْ
-ءَاتَيْتَنَا صَالِحاً لَنَكُونَنَّ مِنَ الشَّاكِرِينَ
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَكُم مِن نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا
+> لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّاهَا حَمَلَتْ حَمْلاً خَفِيفاً
+> فَمَرَّتْ بِهِ فَلَمَّآ اَثْقَلَت دَعَوَا اللّهَ رَبَّهُمَا لَئِنْ
+> ءَاتَيْتَنَا صَالِحاً لَنَكُونَنَّ مِنَ الشَّاكِرِينَ
 
 **189*****. “He it is Who created you from a single soul, and of the
 same (kind) did He make his mate, that he might take rest in her. So
@@ -50,18 +46,10 @@ grateful ones’.”***
 Surah al-‘Araf – Verses 190-191
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ ءَاتَاهُمَا صَالِحاً جَعَلاَ لَهُ شُرَكَآءَ فِيَمآ
-ءَاتَاهُمَا فَتَعَالَى اللّهُ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> فَلَمَّآ ءَاتَاهُمَا صَالِحاً جَعَلاَ لَهُ شُرَكَآءَ فِيَمآ
+> ءَاتَاهُمَا فَتَعَالَى اللّهُ عَمَّا يُشْرِكُونَ
 
-<blockquote dir="rtl">
-  <p>
-اَيُشْرِكُونَ مَالا يَخْلُقُ شَيْئاً وَهُمْ يُخْلَقُونَ
-  </p>
-</blockquote>
+> اَيُشْرِكُونَ مَالا يَخْلُقُ شَيْئاً وَهُمْ يُخْلَقُونَ
 
 **190*****. “But when He gave them a righteous son, they (Adam’s
 children) ascribed partners to Him in what He had given them. But
@@ -90,18 +78,10 @@ are created?”***
 Surah al-‘Araf – Verses 192-193
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَسْتَطِيعُونَ لَهُمْ نَصْراً وَلآ أَنفُسَهُمْ يَنصُرُونَ
-  </p>
-</blockquote>
+> وَلا يَسْتَطِيعُونَ لَهُمْ نَصْراً وَلآ أَنفُسَهُمْ يَنصُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وإِن تَدْعُوهُمْ إِلَى الْهُدَى لا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ
-أَدَعَوْتُمُوهُمْ اَمْ أَنتُمْ صَامِتُونَ
-  </p>
-</blockquote>
+> وإِن تَدْعُوهُمْ إِلَى الْهُدَى لا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ
+> أَدَعَوْتُمُوهُمْ اَمْ أَنتُمْ صَامِتُونَ
 
 **192*****. “And they can neither help them nor help themselves.”***  
 **193*****. “And if you invite them unto guidance, they will not follow
@@ -131,12 +111,8 @@ silent.”***
 Surah al-‘Araf – Verse 194
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللّهِ عِبَادٌ اَمْثَالُكُمْ
-فَادْعُوهُمْ فَلْيَسْتَجِيبُوا لَكُمْ إِن كُنْتُمْ صَادِقِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللّهِ عِبَادٌ اَمْثَالُكُمْ
+> فَادْعُوهُمْ فَلْيَسْتَجِيبُوا لَكُمْ إِن كُنْتُمْ صَادِقِينَ
 
 ***194. “Verily those whom you call upon other than Allah are creatures
 like your own selves. So call on them, then they should answer you if
@@ -166,14 +142,10 @@ truthful.”***
 Surah al-‘Araf – Verse 195
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَلَهُمْ اَرْجُلٌ يَمْشُونَ بِهَآ اَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ
-اَمْ لَهُمْ اَعْيُنٌ يُبْصِرُونَ بِهَآ اَمْ لَهُمْ ءَاذَانٌ
-يَسْمَعُونَ بِهَا قُلِ ادْعُوا شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلاَ
-تُنظِرُونِ
-  </p>
-</blockquote>
+> اَلَهُمْ اَرْجُلٌ يَمْشُونَ بِهَآ اَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ
+> اَمْ لَهُمْ اَعْيُنٌ يُبْصِرُونَ بِهَآ اَمْ لَهُمْ ءَاذَانٌ
+> يَسْمَعُونَ بِهَا قُلِ ادْعُوا شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلاَ
+> تُنظِرُونِ
 
 **195*****. “Have they feet with which they walk? Or, have they hands
 with which they hold (firmly)? Or, have they eyes with which they see?
@@ -202,12 +174,8 @@ associates, then contrive against me and give me no respite’.”***
 Surah al-‘Araf – Verse 196
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ وَلِيِّيَ اللّهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلّى
-الصَّالِحِينَ
-  </p>
-</blockquote>
+> إِنَّ وَلِيِّيَ اللّهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلّى
+> الصَّالِحِينَ
 
 **196*****. “Verily my guardian is Allah Who sent down the Book, and He
 guards the righteous.”***
@@ -227,19 +195,11 @@ favour encompass them. The verse concludes as follows:
 Surah al-‘Araf – Verses 197-198
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَدْعُونَ مِن دُونِهِ لاَيَسْتَطِيعُونَ نَصْرَكُمْ وَلآ
-اَنْفُسَهُمْ يَنصُرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَدْعُونَ مِن دُونِهِ لاَيَسْتَطِيعُونَ نَصْرَكُمْ وَلآ
+> اَنْفُسَهُمْ يَنصُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وإِن تَدْعُوهُمْ إِلَى الْهُدَى لايَسْمَعُوا وَتَرَاهُمْ يَنظُرُونَ
-إِلَيْكَ وَهُمْ لايُبْصِرُونَ
-  </p>
-</blockquote>
+> وإِن تَدْعُوهُمْ إِلَى الْهُدَى لايَسْمَعُوا وَتَرَاهُمْ يَنظُرُونَ
+> إِلَيْكَ وَهُمْ لايُبْصِرُونَ
 
 **197*****. “And those whom you call upon other than Him can neither
 help you, nor help themselves.”***
@@ -277,11 +237,7 @@ look at something. The verse continues saying:
 Surah al-‘Araf – Verse 199
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ
-  </p>
-</blockquote>
+> خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ
 
 **199*****. “Keep to forgiveness and enjoin kindness, and turn away from
 the ignorant.”***
@@ -325,12 +281,8 @@ the fire of their anger, envy, and bigotry.
 Surah al-‘Araf – Verse 200
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللّهِ
-إِنَّهُ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللّهِ
+> إِنَّهُ سَمِيعٌ عَلِيمٌ
 
 **200*****. “And if a temptation from Satan afflicts you, then seek
 refuge in Allah; surely He is All-Hearing, All-Knowing.”***
@@ -347,18 +299,10 @@ Allah; surely He is All-Hearing, All-Knowing.”***
 Surah al-‘Araf – Verses 201-202
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَآئِفٌ مِنَ الشَّيْطَانِ
-تَذَكَّرُوا فإِذَا هُم مُبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَآئِفٌ مِنَ الشَّيْطَانِ
+> تَذَكَّرُوا فإِذَا هُم مُبْصِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وإِخْوَانُهُمْ يَمُدُّونَهُمْ فِي الْغَيِّ ثُمَّ لايُقْصِرُونَ
-  </p>
-</blockquote>
+> وإِخْوَانُهُمْ يَمُدُّونَهُمْ فِي الْغَيِّ ثُمَّ لايُقْصِرُونَ
 
 **201*****. “Verily, those who keep from evil, when a visitation from
 Satan afflicts them they become mindful. Then behold, they see
@@ -452,13 +396,9 @@ short.”***
 Surah al-‘Araf – Verse 203
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا لَمْ تَأْتِهِم بِاَيَةٍ قَالُوا لَوْلا اجْتَبَيْتَهَا قُلْ
-إِنَّمَآ اَتَّبِعُ مَايُوحَى إِلَيَّ مِن رَبِّي هَذَا بَصَآئِرُ مِن
-رَبِّكُمْ وَهُدًى وَرَحْمَةٌ لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وإِذَا لَمْ تَأْتِهِم بِاَيَةٍ قَالُوا لَوْلا اجْتَبَيْتَهَا قُلْ
+> إِنَّمَآ اَتَّبِعُ مَايُوحَى إِلَيَّ مِن رَبِّي هَذَا بَصَآئِرُ مِن
+> رَبِّكُمْ وَهُدًى وَرَحْمَةٌ لِقَوْمٍ يُؤْمِنُونَ
 
 **203*****. “And when you do not bring them a sign, they say: ‘Why do
 you not choose one?’ Say: ‘I follow only what is revealed to me from my
@@ -505,12 +445,8 @@ for a people that believe’.”***
 Surah al-‘Araf – Verse 204
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قُرِئَ الْقُرْءَانُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا
-لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا قُرِئَ الْقُرْءَانُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا
+> لَعَلَّكُمْ تُرْحَمُونَ
 
 **204*****. “And when the Qur’ān is recited, then listen to it and be
 silent, so that mercy may be shown to you.”***
@@ -542,12 +478,8 @@ the divine mercy to. The verse concludes as follows:
 Surah al-‘Araf – Verse 205
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُر رَبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
-مِنَ الْقَوْلِ بِالْغُدُوِّ والاَصَالِ وَلا تَكُن مِنَ الْغَافِلِينَ
-  </p>
-</blockquote>
+> وَاذْكُر رَبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ
+> مِنَ الْقَوْلِ بِالْغُدُوِّ والاَصَالِ وَلا تَكُن مِنَ الْغَافِلِينَ
 
 **205*****. “And remember your Lord within your self in humility and
 awe; without being loud of voice, in the morning and the evening, and do
@@ -597,12 +529,8 @@ not be of the heedless ones.”***
 Surah al-‘Araf – Verse 206
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ عِندَ رَبِّكَ لاَيَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ
-وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ عِندَ رَبِّكَ لاَيَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ
+> وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ
 
 **206*****. “Verily those who are (stationed) near your Lord do not
 disdain to worship Him, and they glorify Him and prostrate for Him.”***
@@ -626,5 +554,4 @@ prostrations for Him alone. The verse continues saying:
 
 ***“…do not disdain to worship Him, and they glorify Him and prostrate
 for Him.”***
-
 

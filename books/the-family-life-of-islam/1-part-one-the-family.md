@@ -69,7 +69,6 @@ which has no shari \`ah at all. Therefore, they try to imply that, that
 perfection of shari \`ah is a "drawback" or that the moral standard of
 Islamic teachings is not as high as that of Christianity.
 
-
 In any family there are those persons without whom a family cannot be
 regarded as complete. A human being is born of a father and a mother;
 the parents look after the child and bring it up. This child in turn
@@ -105,7 +104,6 @@ religion. There is no such prohibition in Islam.
 
 However, both these systems are very old, and each has its advantages
 and disadvantages.
-
 
 **Joint Family System: Its Advantages and Disadvantages**
 
@@ -158,5 +156,4 @@ hating each other, tempers flare on the slightest pretext; suspicion,
 anger and hatred fill the place of trust, love and happiness. The
 atmosphere of the house gradually turns into a living hell and then
 comes a time when separation remains the only remedy.
-
 

@@ -38,7 +38,7 @@ world. Very soon the treasures of the earth would fill up their lavish
 homes. Such that 300 asses would be required to carry their keys. It
 would be the time when people shall enter the fold of Jews in groups and
 all would welcome them except the Christians who are destroyed, as they
-are from the progeny of Satan.<sup>[1]</sup>
+are from the progeny of Satan.[1]
 
 This part shows that the Jews have animosity towards all faiths,
 especially Christianity. They desire to be the most dominant people on
@@ -52,7 +52,7 @@ of persons ought you be in lives of holiness and godliness, waiting for
 and hastening the coming of the day of God, because of which the heaven
 will be kindled and dissolved, and the elements will melt with fire. But
 according to his promise we wait for new heavens and a new earth in
-which righteousness dwells.<sup>[2]</sup>
+which righteousness dwells.[2]
 
 j) In the teachings (Talmud), regarding the signs of the advent of the
 Jewish savior it is mentioned: It is incumbent upon every Jew that he or
@@ -74,7 +74,7 @@ and the last real savior will come and he shall be the one who is
 anticipated. They shall be successful and the Jew community shall be at
 the Zenith in matter of wealth and prosperity as they shall be the
 masters of all worldly wealth. So much so, that at least 300 asses will
-be required to carry the keys of their treasures.<sup>[1]</sup>
+be required to carry the keys of their treasures.[1]
 
 These statements show that the Jews harbor enmity and animosity to all
 the other religious communities of the world and their aim is to grab
@@ -86,19 +86,19 @@ world.
 Jews believe that after the advent of the savior, the widespread
 bounties shall reach to every nook and corner of the world. Such that
 people shall continue to live for centuries and their stature would be
-200 yards in height.<sup>[2]</sup>
+200 yards in height.[2]
 
 It is said: Very soon the lands of Israel will fructify with bread and
 fabrics and the stalks of wheat will grow high in Lebanon like the date
 palms and they would sway in the wind so fast that they grind the grains
-in them.<sup>[3]</sup>
+in them.[3]
 
 Also, the lands of Israel will give out unleavened bread and each grain
 will produce a thousand grains. Wine shall be available in abundance and
 the cultivation of grapes will increase. Buildings of Jerusalem shall
 rise high upto three miles. Their gates shall be made of pearls and
 genuine gemstones such that each part shall be 30 yards
-long.<sup>[4]</sup> Poverty will be eradicated and people shall be
+long.[4] Poverty will be eradicated and people shall be
 healthy and acquire more good qualities. Justice, truth
 
 ------------------------------------------------------------------------
@@ -106,9 +106,9 @@ healthy and acquire more good qualities. Justice, truth
 [1] Israel and Talmud, Pg. 60 [2] Al-Burhan, 1/129 [3] At-Talmud
 Tarrkhiya wa Tahmiya, Pg. 60 [4] Qisatud Diyanat, Pg. 376
 
-and peace shall be dominant.<sup>[1]</sup> And this is the time when
+and peace shall be dominant.[1] And this is the time when
 Jews shall dominate the world and all communities will submit to that
-savior. Each Jew shall have 2800 servants to attend him.<sup>[2]</sup>
+savior. Each Jew shall have 2800 servants to attend him.[2]
 
 Yes! The Jews have such beliefs and it is the part of their fundamental
 principles of faith. On the basis of this they aim to subjugate the

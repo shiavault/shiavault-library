@@ -697,4 +697,3 @@ right side three times. Ahmad has said that ever since I have not been
 able to sleep on my left side and can not go to sleep on my left
 side."
 
-

@@ -85,4 +85,3 @@ issues.[^6]
 
 [^6]: - Lisan al-Mizan, vol. 3, p. 113.
 
-

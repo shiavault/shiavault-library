@@ -143,4 +143,3 @@ Day of Judgement:
 ***"Our Lord! We obeyed our chiefs and great men who misled us from the
 right path."*** (Surah al-Ahzab, 33:67)
 
-

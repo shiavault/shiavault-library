@@ -796,4 +796,3 @@ Ahlu 'l- bayt is established by their love, they should be raised in
 status and degree by teaching them true knowledge - which is the
 inheritance of their fathers.
 
-

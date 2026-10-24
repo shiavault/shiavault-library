@@ -15,4 +15,3 @@ and received such a beating and endured such misfortune; but you have
 been sitting on this throne all your life! What troubles you must
 receive, yet you still don't fear the consequence.”
 
-

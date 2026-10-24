@@ -25,7 +25,6 @@ the name of Allah is because of the fact that the Prophet's judgment is
 ordered by Allah and Allah's judgment and that of the Prophet (p.b.u.h.)
 are the same.
 
-
 **Commentary : Verse 53**
 
 53. وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ أَمَرْتَهُمْ
@@ -38,7 +37,6 @@ than this is) honourable obedience. Verily Allah is aware of what you
 do'."
 
 **Commentary:**
-
 
 Do not trust any swear and oath, because hypocrites often abuse the
 sacred things, and prevent hypocrites' abuse by not accepting their oath
@@ -84,7 +82,6 @@ indicating that they need not swear, it is better they do sincere and
 frank obedience in action. By the way, Allah is informed of what they
 have in their mind and He knows that whether they are swearing false
 oath or they have really changed their way.
-
 
 **Commentary : Verse 54**
 
@@ -170,5 +167,4 @@ the Prophet (p.b.u.h.) so that he would not get discouraged about his
 mission concerning people's inattention and heedlessness.
 
 [^1] The verse under discussion
-
 

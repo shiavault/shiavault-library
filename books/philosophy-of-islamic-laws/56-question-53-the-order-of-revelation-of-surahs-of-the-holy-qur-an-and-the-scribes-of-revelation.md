@@ -39,7 +39,5 @@ committed it to memory. The Holy Qur’an, which is present with the
 Muslims, is the same which existed with the Muslims at the time of
 demise of the Prophet (s.a.w.a.).
 
-
 [^1]: Surah Alaq 96:1
-
 

@@ -16,4 +16,3 @@ he became Imam. In his absence he appointed deputies who were his
 agents. This was immediately after the death of his father Imam Hasan
 Askari.
 
-

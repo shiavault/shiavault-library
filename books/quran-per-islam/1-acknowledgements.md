@@ -177,7 +177,6 @@ the sword of discernment between truth and falsehood and a "presence"
 whose experience makes possible here a taste of the realities of
 paradise.
 
-
 Seyyed Hossein Nasr Bethesda,
 Maryland December 1986
 
@@ -473,5 +472,4 @@ another verse, the testimony of angels is added to that of God's: "But
 God testifies concerning that which he has revealed to you; He has
 revealed it in His knowledge; and the Angels also testify. And God is
 sufficient witness IV: 166.
-
 

@@ -105,12 +105,8 @@ abided by the Qur'an they had compiled.
 One of the proofs of the Shi\`ah on the absence of *tahrif* of the
 Qur'an is the statement of Imam 'Ali (*'a*) who says:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا إنَّ هَذَا القُرْآنَ هُوَ النَّاصِحُ الَّذِي لاَ يَغُشُّ،
-وَالهَادِي الَّذِي لاَ يُضِلُّ، وَالْمُحَدِّثُ الَّذِي لاَ يَكْذِبُ.
-  </p>
-</blockquote>
+> وَاعْلَمُوا إنَّ هَذَا القُرْآنَ هُوَ النَّاصِحُ الَّذِي لاَ يَغُشُّ،
+> وَالهَادِي الَّذِي لاَ يُضِلُّ، وَالْمُحَدِّثُ الَّذِي لاَ يَكْذِبُ.
 
 And know that this Qur'an is indeed an adviser who does not deceive, a
 leader who does not mislead, and a narrator who does not lie.[^2]
@@ -221,12 +217,8 @@ shall cite some of these instances below:
 One of the *hadith*s being manipulated by this group is the *hadith*
 known as *thaqalayn* {two precious things} when the Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي، أهْلَ
-بَيْتِي.
-  </p>
-</blockquote>
+> إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي، أهْلَ
+> بَيْتِي.
 
 Verily, I am leaving among you two precious things: the Book of Allah
 and my progeny, the members of my Household.
@@ -239,12 +231,8 @@ Palestine and Lebanon and the vilification of others such America, the
 Soviet Union and Israel as a sin. Then, in page 8 of his booklet, he
 narrates the said *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ خَطَبَ النَّاسَ يَوْمَ عَرَفَةَ، فَقَالَ: إنِّي تَارِكٌ فِيكُمْ
-مَا لَنْ تَضِلُّوا إنِ إعْتَصَمْتُمْ بِهِ: كِتَابَ اللهِ وَسُنَّتِي.
-  </p>
-</blockquote>
+> إنَّهُ خَطَبَ النَّاسَ يَوْمَ عَرَفَةَ، فَقَالَ: إنِّي تَارِكٌ فِيكُمْ
+> مَا لَنْ تَضِلُّوا إنِ إعْتَصَمْتُمْ بِهِ: كِتَابَ اللهِ وَسُنَّتِي.
 
 Verily, he (s) addressed the people on the Day of 'Arafah, saying: “I am
 leaving among you things which if firmly hold, you shall never go
@@ -252,12 +240,8 @@ astray: the Book of Allah and my tradition {*sunnati*}.”
  In the book, *Fath al-Majid*, a tradition with a similar intention has
 been narrated, thus:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ : إنِّي تَارِكٌ فِيكُمْ مَا إنْ تَمَسَّكْتُمْ بِهِ لَنْ
-تَضِلُّوا: كِتَابَ اللهِ.
-  </p>
-</blockquote>
+> قَالَ : إنِّي تَارِكٌ فِيكُمْ مَا إنْ تَمَسَّكْتُمْ بِهِ لَنْ
+> تَضِلُّوا: كِتَابَ اللهِ.
 
 He (s) said: 'Verily, I am leaving something among you which if you take
 firm hold, you shall never go astray: the Book of Allah'.[^11]
@@ -275,15 +259,11 @@ this indisputable tradition is in favor of the family of the Prophet (s)
 and corroborated by the Shi\`ah, however, the Wahhabis have manipulated
 it. The tradition has been narrated in the *Sahih Muslim*, thus:
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ قَالَ: “ألاَ أيُّهَا النَّاسُ! يُوشَكُ أنْ يَأتِيَ رَسُولُ
-رَبِّي فَأُجِيبُ؛ وَأنَا تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: أوَّلُهُمَا
-كِتَابُ اللهِ، فِيهِ الْهُدَى وَالنُّورُ، فَخُذُوا بِكِتَابِ اللهِ
-وَاسْتَمْسِكُوا بِهِ.” فَحَثَّ عَلَى كِتَابِ اللهِ وَرَغَّبَ فِيهِ.
-ثُمَّ قَالَ: “وَأهْلُ بَيْتِي؛ أُذَكِّرُكُمُ اللهَ فِي أهْلِ بَيْتِي.”
-  </p>
-</blockquote>
+> إنَّهُ قَالَ: “ألاَ أيُّهَا النَّاسُ! يُوشَكُ أنْ يَأتِيَ رَسُولُ
+> رَبِّي فَأُجِيبُ؛ وَأنَا تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: أوَّلُهُمَا
+> كِتَابُ اللهِ، فِيهِ الْهُدَى وَالنُّورُ، فَخُذُوا بِكِتَابِ اللهِ
+> وَاسْتَمْسِكُوا بِهِ.” فَحَثَّ عَلَى كِتَابِ اللهِ وَرَغَّبَ فِيهِ.
+> ثُمَّ قَالَ: “وَأهْلُ بَيْتِي؛ أُذَكِّرُكُمُ اللهَ فِي أهْلِ بَيْتِي.”
 
 He verily said: “Now to our purpose: O people, I am only a human being.
 I am about to receive a messenger (the angel of death) from my Lord and
@@ -311,13 +291,9 @@ treachery to Islam and the history of Muslims?
 In the book, *al-As'ilah wal-Ajwibah*, there has been recorded a
 tradition allegedly from the Prophet (s):
 
-<blockquote dir="rtl">
-  <p>
-إنَّهُ قَالَ: سَتَفْتَرِقُ هَذِهِ الأُمَّةُ عَلَى ثَلاَثٍ وَسَبْعِينَ
-فِرْقَةً؛ كُلُّهَا فِي النَّارِ إلاَّ وَاحِدَةً، وَهُمْ أهْلُ
-السُّنَّةِ وَالْجَمَاعَةِ.
-  </p>
-</blockquote>
+> إنَّهُ قَالَ: سَتَفْتَرِقُ هَذِهِ الأُمَّةُ عَلَى ثَلاَثٍ وَسَبْعِينَ
+> فِرْقَةً؛ كُلُّهَا فِي النَّارِ إلاَّ وَاحِدَةً، وَهُمْ أهْلُ
+> السُّنَّةِ وَالْجَمَاعَةِ.
 
 Verily, he (s) said: “This *ummah* will be divided into seventy-three
 sects and all of which shall be in the hellfire except one, and that is
@@ -351,15 +327,11 @@ Allah and the *Ahl al-Bayt* (*'a*) will not go astray.
 In *Sahih* *al-Tirmidhi*, another authoritative Sunni source, this
 tradition has been recorded:
 
-<blockquote dir="rtl">
-  <p>
-سُئِلَ ابْنُ عُمَرَ عَنْ متْعَةِ النِّسَاءِ، فَقَالَ: “هِيَ حَلاَلٌ.”
-وَكَانَ السَّائِلُ مِنْ أهْلِ الشَّامِ، فَقَالَ لَهُ: “إنَّ أبَاكَ
-قَدْ نَهَى عَنْهَا.” فَقَالَ ابْنُ عُمَرَ: “أرَأيْتَ إنْ كَانَ أبِي
-نَهَى عَنْهَا، وَصَنَعَهَا رَسُولُ اللهِ. أتَتْرُكُ السُّنَّةَ
-وَتَتْبَعُ قَوْلَ أبِي؟”
-  </p>
-</blockquote>
+> سُئِلَ ابْنُ عُمَرَ عَنْ متْعَةِ النِّسَاءِ، فَقَالَ: “هِيَ حَلاَلٌ.”
+> وَكَانَ السَّائِلُ مِنْ أهْلِ الشَّامِ، فَقَالَ لَهُ: “إنَّ أبَاكَ
+> قَدْ نَهَى عَنْهَا.” فَقَالَ ابْنُ عُمَرَ: “أرَأيْتَ إنْ كَانَ أبِي
+> نَهَى عَنْهَا، وَصَنَعَهَا رَسُولُ اللهِ. أتَتْرُكُ السُّنَّةَ
+> وَتَتْبَعُ قَوْلَ أبِي؟”
 
 A certain man from Sham[^16] asked {'Abd Allah} ibn 'Umar about *mut'ah*
 {fixed-time marriage}. He said: “It is *halal* {lawful}.” The man from
@@ -379,14 +351,10 @@ may enjoy performing lawful sexual acts.
  Ibn Kathir has narrated a *hadith* similar to the one quoted above
 concerning the prohibition of *mut'ah*:
 
-<blockquote dir="rtl">
-  <p>
-…كَانَ ابْنُهُ عَبْدُ اللهِ يُخَالِفُهُ. فَقَالَ: “إنَّ أبَاكَ يَنْهَى
-عَنْهَا.” فَيَقُولُ: “خَشِيتُ أنْ تَقَعَ عَلَيْكُمْ حِجَارَةٌ مِنَ
-السَّمَاءِ! قَدْ فَعَلَهَا رَسُولُ اللهِ. أَفَسُنَّةَ رَسُولِ اللهِ
-نَتْبَعُ أمْ سُنَّةَ عُمْرَ بْنِ الخَطَّابِ؟”
-  </p>
-</blockquote>
+> …كَانَ ابْنُهُ عَبْدُ اللهِ يُخَالِفُهُ. فَقَالَ: “إنَّ أبَاكَ يَنْهَى
+> عَنْهَا.” فَيَقُولُ: “خَشِيتُ أنْ تَقَعَ عَلَيْكُمْ حِجَارَةٌ مِنَ
+> السَّمَاءِ! قَدْ فَعَلَهَا رَسُولُ اللهِ. أَفَسُنَّةَ رَسُولِ اللهِ
+> نَتْبَعُ أمْ سُنَّةَ عُمْرَ بْنِ الخَطَّابِ؟”
 
 'Abd Allah was against the saying of his father. When it was said to him
 that his father had indeed prohibited the people from practicing
@@ -401,12 +369,8 @@ Zahiriyyah[^22] believe that the practice of the Companions is the
 proof, but in view of the diverse opinions of the Companions in this
 regard, the saying of 'Umar must be accepted:
 
-<blockquote dir="rtl">
-  <p>
-متْعَتَانِ كَانَتَا عَلَى عَهْدِ رَسُولِ اللهِ وَأنَا أنْهَى عَنْهُمَا
-وَأُعَاقبُ عَلَيْهِمَا: متْعَةُ الْحَجِّ وَمتْعَةُ النِّسَاءِ.
-  </p>
-</blockquote>
+> متْعَتَانِ كَانَتَا عَلَى عَهْدِ رَسُولِ اللهِ وَأنَا أنْهَى عَنْهُمَا
+> وَأُعَاقبُ عَلَيْهِمَا: متْعَةُ الْحَجِّ وَمتْعَةُ النِّسَاءِ.
 
 {'Umar said:} There were two types of *mut'ah* during the time of the
 Messenger of Allah which I prohibited and I shall punish whoever shall
@@ -445,11 +409,7 @@ which indicate the brotherhood and fraternity between the Prophet (s)
 and 'Ali (*'a*). In all of these traditions, the Prophet (s) pointed at
 Imam 'Ali ibn Abi Talib (*'a*) and said:
 
-<blockquote dir="rtl">
-  <p>
-هٰذَا أخِي.
-  </p>
-</blockquote>
+> هٰذَا أخِي.
 
 This ('Ali) is my brother.  
  In the new editions of this book, however, all these traditions are
@@ -460,12 +420,8 @@ expunged and no trace of them is left.
 In *Tarikh Ya'qubi* until the 1358 AH edition, it is stated that this
 noble verse was revealed on the day of Ghadir Khumm:
 
-<blockquote dir="rtl">
-  <p>
-﴿الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمْ الإِسْلاَمَ دِينًا.﴾
-  </p>
-</blockquote>
+> ﴿الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمْ الإِسْلاَمَ دِينًا.﴾
 
 ***Today I have perfected your religion for you, and I have completed My
 blessing upon you, and I have approved Islam as your religion**.*[^24]
@@ -505,11 +461,7 @@ authoritative religious references and texts, and to make efforts in
 protecting the foundations of Islam. Perhaps, the secret behind the
 *hadith*,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ حَفِظَ مِنْ أُمَّتِي أرْبَعِينَ حَدِيثاً…
-  </p>
-</blockquote>
+> مَنْ حَفِظَ مِنْ أُمَّتِي أرْبَعِينَ حَدِيثاً…
 
 “Whoever in my *ummah* preserves or memorizes four *hadith*s…”  
  is a campaign against these distortions.
@@ -601,5 +553,4 @@ with you concerning him, after the knowledge that has come to you, say,
 ‘Come! Let us call our sons and your sons, our women and your women, our
 souls and your souls, then let us pray earnestly and call down Allah’s
 curse upon the liars’.” [Trans.]
-
 

@@ -266,4 +266,3 @@ Ahl-ul-Bayt, meaning members of the house, as in the Qur’anic verse
 Allah only wishes to remove all abomination from you, and thoroughly
 purify you, O Ahl-ul-Bayt (Members of the House). [33: 33].
 
-

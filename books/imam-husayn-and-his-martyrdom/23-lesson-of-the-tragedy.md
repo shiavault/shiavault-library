@@ -28,4 +28,3 @@ Damascus and all it stood for. And Muharram has still the power to unite
 the different schools of thought in Islam, and make a powerful appeal to
 non-Muslims also.
 
-

@@ -96,4 +96,3 @@ return?! (Qur'an, 36:22) This book has been finished on Jamadi al-awwal
 All praise is due to Allah, Lord of the worlds; prayers and salutations
 be upon Muhammad and all those purely-guided ones among his progeny.
 
-

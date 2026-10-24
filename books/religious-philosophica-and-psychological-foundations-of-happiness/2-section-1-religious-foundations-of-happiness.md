@@ -577,4 +577,3 @@ journey in the land, then behold how was the end of the sinners" (Naml,
 27:69). "Journey in the land, then behold how was the end of those that
 were before" (Rum, 30:42).
 
-

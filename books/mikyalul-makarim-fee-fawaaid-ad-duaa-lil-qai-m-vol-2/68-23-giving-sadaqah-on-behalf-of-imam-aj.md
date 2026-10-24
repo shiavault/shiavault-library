@@ -163,11 +163,7 @@ Miratul Uqool[^6] has explained it to be kindness to parents after their
 passing away (pay attention). And it is possible to prove the point
 under discussion with the help of the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ
-  </p>
-</blockquote>
+> وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ
 
 ***And help one another in goodness and piety.*** ***(Qur’an, Surah
 Maidah 5:2)***
@@ -290,5 +286,4 @@ of Parents, tr. No. 7
 [^6]: Miraat al-Uqool, Vol. 8, Pg. 388
 
 [^7]: Wasailush Shia, Vol. 5, Pg. 368, Tr. No. 16
-
 

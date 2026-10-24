@@ -236,11 +236,7 @@ form of the
 > And he swore to both of them, “Truly, I am for you both a sincere
 > adviser.” (7:21)
 
-<blockquote dir="rtl">
-  <p>
-وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
-  </p>
-</blockquote>
+> وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
 
 In this way the Qur’an strongly refutes the misconception which was
 prevalent at that time and which is still found in certain quarters and
@@ -312,11 +308,7 @@ Islam has combated fiercely against this superstition. It considers
 marriage to be sacred and celibacy to be impure. Islam considers love of
 women to be a part of prophetic morality, and says:
 
-<blockquote dir="rtl">
-  <p>
-مِن الأخلاق الأنبياء حُب النساء
-  </p>
-</blockquote>
+> مِن الأخلاق الأنبياء حُب النساء
 
 “Love of women is of the morality of the prophets.” The last Prophet
 used to say: “Three things are dear to me: perfume, women and prayer.”
@@ -336,11 +328,7 @@ the sky, the clouds and the winds, plants and animals have all been
 created for man. But it never says that woman was created for man. Islam
 says that man and women were each created for the other:
 
-<blockquote dir="rtl">
-  <p>
-هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ
-  </p>
-</blockquote>
+> هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ
 
 ***They are a vestment for you (man) and you are a vestment for
 them*****, (Qur’an, 2:187).**
@@ -1132,5 +1120,4 @@ December 1948. (Tr.)
 تَقْوِيمٍ
 
 [^13]: Translated from the Persian. Original untraced, (Tr.)
-
 

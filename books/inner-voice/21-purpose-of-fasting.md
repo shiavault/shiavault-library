@@ -32,4 +32,3 @@ As the month of Ramadhan prepares a Muslim to become a perfect man, it
 is called “the shield against the Hell”. Also, the Holy Prophet said:
 “God says that fast is for me only and I Myself will give its reward”.
 
-

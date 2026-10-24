@@ -17,4 +17,3 @@ Spring Maryland) Mr. Harold Samhat (Troy Michigan) Mr. Nazim Yazbak
 Only unusually noble spirited men as those listed above would achieve
 what normally takes a whole community to accomplish.
 
-

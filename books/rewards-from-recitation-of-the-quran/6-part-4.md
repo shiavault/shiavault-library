@@ -181,4 +181,3 @@ al-Sadiq (as) is quoted saying that whoever recites this Chapter and the
 Chapter of Ikhlas in one of his obligatory prayers will be forgiven, and
 so will his parents.
 
-

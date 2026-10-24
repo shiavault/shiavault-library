@@ -542,4 +542,3 @@ In answer to the hadi'th of 'Ali, al-Razi relates the other saying
 attributed to him referred to above; but he has nothing to say about the
 other two traditions mentioned by the Shi'is.
 
-

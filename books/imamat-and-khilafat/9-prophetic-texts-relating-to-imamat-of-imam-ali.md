@@ -428,4 +428,3 @@ only remembered and not written. Naturally the traditions containing
 Imam Ali's name could be remembered by more people than any other
 traditions.
 
-

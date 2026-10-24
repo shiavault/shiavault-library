@@ -404,4 +404,3 @@ understanding Islam.
 
 [^4]: at which falsehood cannot come from before it or behind it,
 
-

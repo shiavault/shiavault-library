@@ -79,4 +79,3 @@ In his*Lisan* , Ibn Hajar follows in the footstep of Dahabi. While
 giving an account of his life, he refers the said two traditions and
 says that Ibrahim bin Abdullah is a liar.[^80]
 
-

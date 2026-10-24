@@ -50,4 +50,3 @@ Their number is equal to the chiefs of Bani Israel"[^5]
 [^5]: Faraidus Simtain Vol.2 Pg.133, Kifayatul Asar Pg.13 & 14. Yanabiul
 Mawaddah Pg. 441.
 
-

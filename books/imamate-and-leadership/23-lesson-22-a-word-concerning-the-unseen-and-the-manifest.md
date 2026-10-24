@@ -402,4 +402,3 @@ This was the mentality of the *Jahiliyyah* the Qur'an had to combat.
 
 [^4]: Ja'far Subhani, Agahi-yi Sevvom, p. 184.
 
-

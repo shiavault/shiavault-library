@@ -140,4 +140,3 @@ and the infallible *Imams* (PBUT all), is the "practical" form of
 guidance to the Straight Path for the ultimate and true pleasure,
 prosperity, peace and tranquillity *(salam).*
 
-

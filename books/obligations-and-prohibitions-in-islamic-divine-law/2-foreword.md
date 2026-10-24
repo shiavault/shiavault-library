@@ -23,4 +23,3 @@ This book is one of a kind because it presents the issues the society is
 confronted with, in a brief and simple language, both in the field of
 thought and practice.
 
-

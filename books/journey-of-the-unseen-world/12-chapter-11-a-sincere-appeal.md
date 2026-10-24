@@ -25,9 +25,7 @@ after our death.
 We can only expect those deeds which we have managed to do, to come to
 our rescue and help, and cannot be certain of anything else.
 
-
 My God help every body to atone and do good.
 All praise is for God.
 Peace be upon Mohammed and his progeny.
-
 

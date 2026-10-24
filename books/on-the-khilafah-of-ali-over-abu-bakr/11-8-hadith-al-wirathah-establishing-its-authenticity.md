@@ -3,11 +3,7 @@
 
 Allah informs us about two of His prophets in His Book:
 
-<blockquote dir="rtl">
-  <p>
-وورث سليمان داوود
-  </p>
-</blockquote>
+> وورث سليمان داوود
 
 And Sulayman inherited Dawud.[^1]
 
@@ -15,12 +11,8 @@ In other words, it was Sulayman, *‘alaihi al-salam*, who inherited
 Dawud, *‘alaihi al-salam*. Explaining this verse, Imam al-Tabari (d. 310
 H) states:
 
-<blockquote dir="rtl">
-  <p>
-يقول تعالى ذكره :وورث سليمان أباه داود العلم الذي كان آتاه الله في
-حياته، والملك الذي كان خصه به على سائر قومه
-  </p>
-</blockquote>
+> يقول تعالى ذكره :وورث سليمان أباه داود العلم الذي كان آتاه الله في
+> حياته، والملك الذي كان خصه به على سائر قومه
 
 He, the Most High, says: Sulayman inherited **the knowledge** which
 Allah gave his father during his lifetime and **the kingdom** which He
@@ -28,14 +20,10 @@ specially bestowed upon him above all of his people.[^2]
 
 Al-Hafiz Ibn Kathir (d. 774 H) also says:
 
-<blockquote dir="rtl">
-  <p>
-قال الله تعالى: }وورث سليمان داود وقال يا أيها الناس علمنا منطق الطير
-وأوتينا من كل شئ إن هذا لهو الفضل المبين) {النمل: ١٦ (أي ورثه في
-النبوة والملك، وليس المراد ورثه في المال، لأنه قد كان له بنون غيره،
-فما كان ليخص بالمال دونهم
-  </p>
-</blockquote>
+> قال الله تعالى: }وورث سليمان داود وقال يا أيها الناس علمنا منطق الطير
+> وأوتينا من كل شئ إن هذا لهو الفضل المبين) {النمل: ١٦ (أي ورثه في
+> النبوة والملك، وليس المراد ورثه في المال، لأنه قد كان له بنون غيره،
+> فما كان ليخص بالمال دونهم
 
 Allah the Most High said: {And Sulayman inherited Dawud, and he
 (Sulayman) said, “O people, we have been taught the language of birds,
@@ -48,13 +36,9 @@ possessions at their expense.[^3]
 
 Imam Ibn al-Jawzi (d. 597 H) has these words too:
 
-<blockquote dir="rtl">
-  <p>
-قوله تعالى: }وورث سليمان داود {أي :ورث نبوته وعلمه وملكه، وكان لداود
-تسعة عشر ذكرا، فخص سليمان بذلك، ولو كانت وراثة مال لكان جميع أولاده
-فيها سواء.
-  </p>
-</blockquote>
+> قوله تعالى: }وورث سليمان داود {أي :ورث نبوته وعلمه وملكه، وكان لداود
+> تسعة عشر ذكرا، فخص سليمان بذلك، ولو كانت وراثة مال لكان جميع أولاده
+> فيها سواء.
 
 Allah the Most High says {And Sulayman inherited Dawud}, that is: **he
 inherited his prophethood, knowledge and kingdom**. Dawud had nineteen
@@ -82,21 +66,17 @@ he name any inheritor?
 Imam al-Nasai (d. 303 H) records a really interesting *hadith* in this
 regard:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا الفضل بن سهل قال حدثني عفان بن مسلم قال حدثنا أبو عوانة عن
-عثمان بن المغيرة عن أبي صادق عن ربيعة بن ناجد أن رجلا قال لعلي يا أمير
-المؤمنين لم ورثت بن عمك دون عمك قال: جمع رسول الله صلى الله عليه و سلم
-أو قال دعا رسول الله صلى الله عليه و سلم بني عبد المطلب فصنع لهم مدا
-من طعام قال فأكلوا حتى شبعوا وبقي الطعام كما هو كأنه لم يمس ثم دعا
-بغمر فشربوا حتى رووا وبقي الشراب كأنه لم يمس أو لم يشرب فقال يا بني
-عبد المطلب إني بعثت إليكم بخاصة وإلى الناس بعامة وقد رأيتم من هذه
-الآية ما قد رأيتم فأيكم يبايعني على أن يكون أخي وصاحبي ووارثي فلم يقم
-إليه أحد فقمت إليه وكنت أصغر القوم فقال اجلس ثم قال ثلاث مرات كل ذلك
-أقوم إليه فيقول اجلس حتى كان في الثالثة ضرب بيده على يدي ثم قال أنت
-أخي وصاحبي ووارثي ووزيري فبذلك ورثت بن عمي دون عمي
-  </p>
-</blockquote>
+> أخبرنا الفضل بن سهل قال حدثني عفان بن مسلم قال حدثنا أبو عوانة عن
+> عثمان بن المغيرة عن أبي صادق عن ربيعة بن ناجد أن رجلا قال لعلي يا أمير
+> المؤمنين لم ورثت بن عمك دون عمك قال: جمع رسول الله صلى الله عليه و سلم
+> أو قال دعا رسول الله صلى الله عليه و سلم بني عبد المطلب فصنع لهم مدا
+> من طعام قال فأكلوا حتى شبعوا وبقي الطعام كما هو كأنه لم يمس ثم دعا
+> بغمر فشربوا حتى رووا وبقي الشراب كأنه لم يمس أو لم يشرب فقال يا بني
+> عبد المطلب إني بعثت إليكم بخاصة وإلى الناس بعامة وقد رأيتم من هذه
+> الآية ما قد رأيتم فأيكم يبايعني على أن يكون أخي وصاحبي ووارثي فلم يقم
+> إليه أحد فقمت إليه وكنت أصغر القوم فقال اجلس ثم قال ثلاث مرات كل ذلك
+> أقوم إليه فيقول اجلس حتى كان في الثالثة ضرب بيده على يدي ثم قال أنت
+> أخي وصاحبي ووارثي ووزيري فبذلك ورثت بن عمي دون عمي
 
 Al-Fadhl b. Sahl – ‘Affan b. Muslim – Abu ‘Awanah – ‘Uthman b.
 al-Mughirah – Abu Sadiq – Rabi’ah b. Najid:
@@ -126,14 +106,10 @@ The above *hadith* has a *sahih* chain. All its narrators – without
 *any* exception – are *thiqah* (trustworthy), and it is well-connected.
 Strangely, this is what ‘Allamah al-Albani (d. 1420 H) says about it:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد ضعيف، رجاله كلهم ثقات؛ غير ربيعة ين ناجد، قال الذهبي
-في ((الميزان)) : ((لا يكاد يعرف، وعنه أبو صادق بخبر منكر فيه: علي أخي
-ووارثي)) يشير إلى هذا الحديث. وصرح في ((الكاشف)) بأنه لم يرو عنه غير
-أبي صادق هذا. وقال في ((الضعفاء والمتروكين)) : ((فيه جهالة)) .
-  </p>
-</blockquote>
+> قلت: وهذا إسناد ضعيف، رجاله كلهم ثقات؛ غير ربيعة ين ناجد، قال الذهبي
+> في ((الميزان)) : ((لا يكاد يعرف، وعنه أبو صادق بخبر منكر فيه: علي أخي
+> ووارثي)) يشير إلى هذا الحديث. وصرح في ((الكاشف)) بأنه لم يرو عنه غير
+> أبي صادق هذا. وقال في ((الضعفاء والمتروكين)) : ((فيه جهالة)) .
 
 I say: This chain is *dha’if*, **all its narrators are** ***thiqah***
 **(trustworthy), except Rabi’ah b. Najid**. Al-Dhahabi said in
@@ -162,12 +138,8 @@ the Ahl al-Sunnah have treated other similar cases.
 A very clear example is Hasin b. Muhammad al-Ansari. Al-Hafiz (d. 852 H)
 says about him:
 
-<blockquote dir="rtl">
-  <p>
-حصين بن محمد الأنصاري السالمي المدني يحتج به في الصحيحين لا يكاد يعرف
-قلت ذكره ابن حبان في الثقات
-  </p>
-</blockquote>
+> حصين بن محمد الأنصاري السالمي المدني يحتج به في الصحيحين لا يكاد يعرف
+> قلت ذكره ابن حبان في الثقات
 
 Hasin b. Muhammad al-Ansari al-Salimi al-Madani: **He is relied upon as
 a** ***hujjah*** **in both** ***Sahihs*** (i.e. *Sahih al-Bukhari* and
@@ -176,12 +148,8 @@ included him in *al-Thiqat*.[^8]
 
 He also adds:
 
-<blockquote dir="rtl">
-  <p>
-حصين بن محمد الأنصاري السالمي المدني صدوق الحديث من الثانية لم يرو عنه
-غير الزهري.
-  </p>
-</blockquote>
+> حصين بن محمد الأنصاري السالمي المدني صدوق الحديث من الثانية لم يرو عنه
+> غير الزهري.
 
 Hasin b. Muhammad al-Ansari al-Salimi al-Madani: *Saduq al-hadith* (very
 truthful in *ahadith*), from the second (*tabaqat*). **None narrated
@@ -194,12 +162,8 @@ as *saduq* (very truthful)!
 Another case is that of Zayd b. Rabah. He too is like Rabi’ah; only one
 person as transmitted from him. Imam al-Dhahabi confirms:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن رباح مديني. سمع أبا عبد الله الأغر. ما وجدت أحدا روى عنه سوى
-مالك
-  </p>
-</blockquote>
+> زيد بن رباح مديني. سمع أبا عبد الله الأغر. ما وجدت أحدا روى عنه سوى
+> مالك
 
 Zayd b. Rabah, a resident of Madinah: He heard from Abu ‘Abd Allah
 al-Aghrah. **I could not find anyone who has transmitted from him except
@@ -207,11 +171,7 @@ Malik**.[^10]
 
 Nonetheless, he is graded *thiqah* (trustworthy) by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن رباح المدني ثقة
-  </p>
-</blockquote>
+> زيد بن رباح المدني ثقة
 
 Zayd b. Rabah al-Madani: *Thiqah* (trustworthy).[^11]
 
@@ -229,11 +189,7 @@ Rabi’ah’s surname is spelt in two ways in the books of *ahadith* and
 used the two words to refer to the same individual. As such, Imam
 al-‘Ijli (d. 261 H) says about Rabi’ah:
 
-<blockquote dir="rtl">
-  <p>
-ربيعة بن ناجذ كوفي تابعي ثقة
-  </p>
-</blockquote>
+> ربيعة بن ناجذ كوفي تابعي ثقة
 
 Rabi’ah b. Najidh: He was a Kufan, a Tabi’i, ***thiqah***
 **(trustworthy)**[^12]
@@ -241,24 +197,16 @@ Rabi’ah b. Najidh: He was a Kufan, a Tabi’i, ***thiqah***
 Imam Ibn Hibban (d. 354 H) has also included him in his book of *thiqah*
 (trustworthy) narrators:
 
-<blockquote dir="rtl">
-  <p>
-ربيعة بن ناجذ الأسدي الأزدي الكوفي يروى عن علي روى عنه أبو صادق
-  </p>
-</blockquote>
+> ربيعة بن ناجذ الأسدي الأزدي الكوفي يروى عن علي روى عنه أبو صادق
 
 Rabi’ah b. Najidh al-Asadi al-Azdi al-Kufi: He narrated from ‘Ali, and
 Abu Sadiq narrated from him.[^13]
 
 Al-Hafiz confirms both of these in his *al-Tahdhib*:
 
-<blockquote dir="rtl">
-  <p>
-ربيعة بن ناجد الأزدي ويقال أيضا الأسدي الكوفي. روى عن علي وابن مسعود
-وعبادة بن الصامت رضي الله عنهم. وعنه أبو صادق الأزدي يقال إنه أخوه
-ذكره ابن حبان في الثقات ….وقال العجلي كوفي تابعي ثقة
-  </p>
-</blockquote>
+> ربيعة بن ناجد الأزدي ويقال أيضا الأسدي الكوفي. روى عن علي وابن مسعود
+> وعبادة بن الصامت رضي الله عنهم. وعنه أبو صادق الأزدي يقال إنه أخوه
+> ذكره ابن حبان في الثقات ….وقال العجلي كوفي تابعي ثقة
 
 Rabi’ah b. **Najid** al-Azdi, also called al-Asadi al-Kufi. He narrated
 from ‘Ali, Ibn Mas’ud and ‘Ubadah b. al-Samit, may Allah be pleased with
@@ -269,14 +217,10 @@ al-‘Ijli said: A Kufan, Tabi’i,** ***thiqah*** **(trustworthy)**.[^14]
 Imam al-Hakim (d. 403 H) also considers the chain of Rabi’ah to be
 *sahih*, thereby accepting him as *thiqah*:
 
-<blockquote dir="rtl">
-  <p>
-حدثني أبو قتيبة سالم بن الفضل الآدمي بمكة ثنا محمد بن عثمان بن أبي
-شيبة ثنا عمي أبو بكر ثنا علي بن ثابت الدهان ثنا الحكم بن عبد الملك عن
-الحارث بن حصيرة عن أبي صادق عن ربيعة بن ناجد عن علي رضي الله عنه....
-صحيح الإسناد
-  </p>
-</blockquote>
+> حدثني أبو قتيبة سالم بن الفضل الآدمي بمكة ثنا محمد بن عثمان بن أبي
+> شيبة ثنا عمي أبو بكر ثنا علي بن ثابت الدهان ثنا الحكم بن عبد الملك عن
+> الحارث بن حصيرة عن أبي صادق عن ربيعة بن ناجد عن علي رضي الله عنه....
+> صحيح الإسناد
 
 Abu Qutaybah Salim b. al-Fadhl al-Adami –Muhammad b. ‘Uthman b. Abi
 Shaybah – Abu Bakr – ‘Ali b. Thabit al-Dihan – al-Hakam b. ‘Abd al-Malik
@@ -286,30 +230,18 @@ Allah be pleased with him.... **The chain is** ***sahih***.[^15]
 In his *al-Taqrib*, al-Hafiz personally grades him *thiqah*
 (trustworthy) too:
 
-<blockquote dir="rtl">
-  <p>
-ربيعة بن ناجد الأزدي الكوفي يقال هو أخو أبي صادق الراوي عنه ثقة
-  </p>
-</blockquote>
+> ربيعة بن ناجد الأزدي الكوفي يقال هو أخو أبي صادق الراوي عنه ثقة
 
 Rabi’ah b. Najid al-Azdi al-Kufi: It is said that he was the brother of
 the narrator, Abu Sadiq. **He was** ***thiqah*** **(trustworthy)**.[^16]
 
 Intriguingly, ‘Allamah al-Albani himself concurs to a good extent:
 
-<blockquote dir="rtl">
-  <p>
-عن عبد الله بن سالم المفلوج حدثنا عبيدة بن الأسود عن القاسم بن الوليد
-عن أبي صادق عن ربيعة بن ناجذ عن عبادة بن الصامت مرفوعا....
-  </p>
-</blockquote>
+> عن عبد الله بن سالم المفلوج حدثنا عبيدة بن الأسود عن القاسم بن الوليد
+> عن أبي صادق عن ربيعة بن ناجذ عن عبادة بن الصامت مرفوعا....
 
-<blockquote dir="rtl">
-  <p>
-قلت: وهذا إسناد جيد، رجاله ثقات غير ربيعة هذا فقد وثقه الحافظ فقط تبعا
-لابن حبان.
-  </p>
-</blockquote>
+> قلت: وهذا إسناد جيد، رجاله ثقات غير ربيعة هذا فقد وثقه الحافظ فقط تبعا
+> لابن حبان.
 
 ‘Abd Allah b. Salim al-Mafluj – ‘Ubaydah b. al-Aswad – al-Qasim b.
 al-Walid – Abu Sadiq – **Rabi’ah b. Najidh** – ‘Ubadah b. al-Samit, in a
@@ -329,11 +261,7 @@ was at least both al-‘Ijli and Ibn Hibban.
 
 The bottom-line is that this *hadith* has a *sahih* chain:
 
-<blockquote dir="rtl">
-  <p>
-أنت أخي وصاحبي ووارثي ووزيري
-  </p>
-</blockquote>
+> أنت أخي وصاحبي ووارثي ووزيري
 
 You are my brother, and my companion, and MY INHERITOR, and my *wazir*.
 
@@ -413,5 +341,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 b. Adam al-Ashqudri al-Albani, Silsilah al-Ahadith al-Sahihah wa Shayhun
 min Fiqhihah wa Fawaidihah (Riyadh: Maktabah al-Ma’arif li al-Nashr wa
 al-Tawzi’; 1st edition, 1415 H), vol. 4, p. 582, \# 1942
-
 

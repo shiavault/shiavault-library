@@ -75,4 +75,3 @@ to the left or the right. However it is better to act on precaution.
 
 [^2]: Wasa’il ul-Shia
 
-

@@ -229,4 +229,3 @@ Little did he realize that his very men
 
 Would dare spill the blood of Prophet's GEM.
 
-

@@ -24,4 +24,3 @@ reward, and punishment too. Islam starts from the depths of the human
 conscience, and proceeds in its endeavours to secure a happy life for
 all.
 
-

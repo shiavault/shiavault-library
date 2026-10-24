@@ -10,12 +10,8 @@ Genitive Cases of a Noun
 50. How many prepositions are there?  
  There are eleven prepositions:
 
-<blockquote dir="rtl">
-  <p>
-مِن إلی عَن عَلَی في رُبّ الباءُ الکافُ اللامُ واوالقَسَم و
-تاءُالقَسَم
-  </p>
-</blockquote>
+> مِن إلی عَن عَلَی في رُبّ الباءُ الکافُ اللامُ واوالقَسَم و
+> تاءُالقَسَم
 
 For example: **ذَهَبتُ** **مِنَ** **البیتِ** **إلی** **المدینَةِ** (I
 went from the house to the city.)
@@ -31,5 +27,4 @@ example: **خادِمُ** **الامیر** (the general's maid)
 sound plural form, the *nūn* must be erased. For example: **یدا**
 **الرّجُلِ** (the man's two hands) takes the place of **یدانِ**
 **الرّجُلِ**.
-
 

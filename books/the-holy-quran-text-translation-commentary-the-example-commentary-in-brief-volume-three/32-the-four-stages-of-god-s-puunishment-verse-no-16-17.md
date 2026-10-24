@@ -45,7 +45,6 @@ needed to prove the matter:ِ
 \`\`.... And enough is your Lord for being aware of, and seeing the
 sins of his servants.''
 
-
 مَّنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ
 لِمَنْ نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلاَهَا مَذْمُوماً
 مَّدْحُوراً(( 18 ))
@@ -75,9 +74,7 @@ GIFT OF YOUR LORD HAS NOT BEEN PROHIBITED (FROM ANY ONE).
 NEXT WORLD, GRADES ARE GREATER, AND SO ARE (THE DIVERSITY) OF ITS
 RANKS.
 
-
 THE COMMENTARY
-
 
 THE WAY OF THOSE WHO SEEK HERE AND HEREAFTER (VERSE NO. 18 - 21)
 
@@ -156,7 +153,6 @@ measure. There are so many grades here as well as in the Hereafter. But
 the grades are far greater in the world to come, and so are the
 diversity of the ranks there!
 
-
 لاَ تَجْعَلْ مَعَ اللهِ إِلَهاً آخَرَ فَتَقْعُدَ مَذْمُوماً
 مَّخْذُولا(( 22 ))
 
@@ -187,9 +183,7 @@ LORD! HAVE MERCY ON THEM AS THEY NURTURED ME WHEN I WAS SMALL.''
 25- YOUR LORD KNOWS BEST WHAT IS IN YOUR MINDS. IF YOU BECOME RIGHTEOUS
 THEN HE IS FORGIVING TO THOSE WHO TURN TO HIM. (IN REPENTANCE)
 
-
 THE COMMENTARY
-
 
 A SERIES OF ISLAMIC COMMANDMENTS
 
@@ -239,9 +233,7 @@ Father and mother deserve our humble respect and kindness, because they
 cherished us in childhood, and always loved us tenderly. It is therefore
 a must, to love them in response.
 
-
 \*\*\*\*\*
-
 
 WORSHIP GOD ALONE, AND RESPECT YOUR PARENT
 
@@ -311,11 +303,9 @@ DESTITUTE.
 RESTRICTS IT, (FOR WHOM HE WILL) THAT HE IS AWARE OF HIS SERVANTS,
 SEEING THEM.
 
-
 [ 548 ]
 
 THE COMMENTARY
-
 
 OBSERVE MODERATION (VERSE NO. 26 - 30)
 
@@ -372,7 +362,6 @@ our gracious hand from the just needs of those who have a right to our
 help. We should neither live miserly, nor be given to extravagant and
 reckless spending.
 
-
 وَلاَ تَقْتُلُوا أَوْلاَدَكُمْ خَشْيَةَ إِمْلاَق نَّحْنُ نَرْزُقُهُمْ
 وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ كَانَ خِطْئاً كَبِيراً(( 31 ))
 
@@ -410,9 +399,7 @@ TO (YOUR) PROMISE, THAT PROMISE WILL BE QUESTIONED.
 35- AND GIVE FULL MEASURE WHEN MEASURING; AND WEIGH WITH A STRAIGHT
 (CORRECT) BALANCE. THIS IS BETTER, AND THE BEST AT THE END.
 
-
 THE COMMENTARY
-
 
 SIX MORE COMMANDMENTS (VERSE NO. 31 - 35)
 
@@ -571,7 +558,6 @@ ANGELS FEMALES (FOR HIMSELF AS DAUGHTERS)? INDEED YOU ARE SAYING A
 
 THE COMMENTARY
 
-
 FOLLOW WITH KNOWLEDGE (VERSE NO. 36 - 40)
 
 The moral precepts, and acts of directing, commanding, and prohibiting,
@@ -596,7 +582,6 @@ famous verse:
 
 And for the rest, you are but bone and flesh.''
 
-
 AN IMPORTANT LESSON FOR ESTABLISHING SOCIAL ORDER
 
 The above instruction (V.NO.36) is so important that ignoring it, will
@@ -614,7 +599,6 @@ knowledge, will slay the spirit of research and investigation in Man. It
 is in fact a source of pessimism, the effect of which may depress every
 one involved.
 
-
 To make it short, we may end our discussion of knowledge by a beautiful
 Persian proverb, which is very meaningful too:ِ
 
@@ -628,7 +612,6 @@ him.
 
 But he who knows, and knows that he knows, he is a wise manِget to know
 him.
-
 
 DON'T BE PROUD
 
@@ -665,7 +648,6 @@ who believed that the angels were the daughters of Allah, and this was
 when in their population daughters were considered as some sort of a
 disgrace, and even their lives were strictly under question!
 
-
 وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْآنِ لِيَذَّكَّرُوا وَمَا
 يَزِيدُهُمْ إِلاَّ نُفُوراً(( 41 ))
 
@@ -695,5 +677,4 @@ HEIGHT.
 THEM. AND THERE IS NOT A THING THAT DOES NOT CELEBRATE HIS PRAISE, BUT
 YOU DO NOT UNDERSTAND THEIR CELEBRATION. VERILY HE IS FORBEARING, MOST
 FORGIVING.
-
 

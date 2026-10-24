@@ -544,4 +544,3 @@ administration and the control of commercial activity like, alcalde
 (mayor), alcaid (governor of a fortress), the zalmedina (magistrate),
 zoco or azoguejo (market) etc…
 
-

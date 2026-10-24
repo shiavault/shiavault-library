@@ -170,4 +170,3 @@ who he is. Here, one must put his personal feelings aside.
 
 [^4]: 4:135.
 
-

@@ -19,4 +19,3 @@ Bahlool said, “It is a book of philosophy.”
 
 “I bought it from a cobbler.”
 
-

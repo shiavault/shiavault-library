@@ -4,12 +4,8 @@ Section 8: Yusuf Measures Out Corn to His Brothers
 Surah Yusuf – Verse 58
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ
-مُنْكِرُونَ
-  </p>
-</blockquote>
+> وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ
+> مُنْكِرُونَ
 
 ***58. “And the brothers of Yusuf came and entered unto him, then he
 knew them but they did not recognize him.”***
@@ -65,13 +61,9 @@ he had become a great ‘Aziz of Egypt.
 Surah Yusuf – Verse 59
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ائْتُونِي بِاَخٍ لَّكُم مِنْ
-أَبِيكُمْ أَلا تَرَوْنَ أَنّي اُوفِي الْكَيْلَ وَأَنَاْ خَيْرُ
-الْمُنْزِلِينَ
-  </p>
-</blockquote>
+> وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ائْتُونِي بِاَخٍ لَّكُم مِنْ
+> أَبِيكُمْ أَلا تَرَوْنَ أَنّي اُوفِي الْكَيْلَ وَأَنَاْ خَيْرُ
+> الْمُنْزِلِينَ
 
 ***59. “And when he provided them with their provisions, he said: ‘Bring
 unto me a brother of years from your father. Do you not see that I give
@@ -118,11 +110,7 @@ of hosts?’”***
 Surah Yusuf – Verse 60
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن لَمْ تَأْتُونِي بِهِ فَلا كَيْلَ لَكُمْ عِنْدِي وَلاَ تَقْرَبُونِ
-  </p>
-</blockquote>
+> فإِن لَمْ تَأْتُونِي بِهِ فَلا كَيْلَ لَكُمْ عِنْدِي وَلاَ تَقْرَبُونِ
 
 ***60. “But if you do not bring him to me you shall have no measure (of
 corn) from me nor shall you (even) come near me.”***
@@ -147,11 +135,7 @@ hospitable person.
 Surah Yusuf – Verse 61
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وإِنَّا لَفَاعِلُونَ
-  </p>
-</blockquote>
+> قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وإِنَّا لَفَاعِلُونَ
 
 ***61. “They said: ‘We will seek to get him from his father; and verily
 we certainly will do (it)’.”***
@@ -175,13 +159,9 @@ someone, accompanying with surge and plot.
 Surah Yusuf – Verse 62
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ
-لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَي أَهْلِهِمْ
-لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ
+> لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَي أَهْلِهِمْ
+> لَعَلَّهُمْ يَرْجِعُونَ
 
 ***62. “And he told his servants to put their merchandise (with which
 they had bartered) into their saddle-bags, so that they may recognize it
@@ -220,13 +200,9 @@ presuming that he would take revenge upon them for the past.
 Surah Yusuf – Verse 63
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا رَجَعُوا إِلَي أَبِيهِمْ قَالُوا يَآ أَبَانَا مُنِعَ مِنَّا
-الْكَيْلُ فَاَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُ
-لَحَافِظُونَ
-  </p>
-</blockquote>
+> فَلَمَّا رَجَعُوا إِلَي أَبِيهِمْ قَالُوا يَآ أَبَانَا مُنِعَ مِنَّا
+> الْكَيْلُ فَاَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُ
+> لَحَافِظُونَ
 
 ***63. “So, when they returned to their father, they said: ‘O our
 father! The measure was denied to us, therefore send our brother with us
@@ -251,13 +227,9 @@ may get our measure; and verily we will certainly guard him’.”***
 Surah Yusuf – Verse 64
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَلْ ءَأَمَنُكُمْ عَلَيْهِ إِلاَّ كَمَآ أَمِنْتُكُمْ عَلَي
-أَخِيهِ مِن قَبْلُ فَاللَّهُ خَيْرٌ حَافِظاً وَهُوَ أَرْحَمُ
-الرَّاحِمينَ
-  </p>
-</blockquote>
+> قَالَ هَلْ ءَأَمَنُكُمْ عَلَيْهِ إِلاَّ كَمَآ أَمِنْتُكُمْ عَلَي
+> أَخِيهِ مِن قَبْلُ فَاللَّهُ خَيْرٌ حَافِظاً وَهُوَ أَرْحَمُ
+> الرَّاحِمينَ
 
 ***64. “He said: ‘Shall I trust you with him save as I trusted you with
 his brother before? But Allah is the best guardian, and He is the Most
@@ -301,14 +273,10 @@ his brothers.
 Surah Yusuf – Verse 65
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ
-إِلَيْهِمْ قَالُوا يَآ أَبَانَا مَا نَبْغِي هَذِهِ بِضَاعَتُنَا
-رُدَّتْ إِلَيْنَا وَنَميرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ
-كَيْلَ بَعِيرٍ ذَلِكَ كَيْلٌ يَسِيرٌ
-  </p>
-</blockquote>
+> وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ
+> إِلَيْهِمْ قَالُوا يَآ أَبَانَا مَا نَبْغِي هَذِهِ بِضَاعَتُنَا
+> رُدَّتْ إِلَيْنَا وَنَميرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ
+> كَيْلَ بَعِيرٍ ذَلِكَ كَيْلٌ يَسِيرٌ
 
 ***65. “And when they opened their baggage, they found their merchandise
 had been returned to them. They said: ‘O our father! What (more) can we
@@ -350,13 +318,9 @@ load. That is an easy measure’.”***
 Surah Yusuf – Verse 66
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَنْ اُرْسِلَهُ مَعَكُمْ حَتَّي تُؤْتُونِ مَوْثِقاً مِنَ اللَّهِ
-لَتَأْتُنَّنِي بِهِ إِلآَّ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ
-مَوْثِقَهُمْ قَالَ اللَّهُ عَلَي مَا نَقُولُ وَكِيلٌ
-  </p>
-</blockquote>
+> قَالَ لَنْ اُرْسِلَهُ مَعَكُمْ حَتَّي تُؤْتُونِ مَوْثِقاً مِنَ اللَّهِ
+> لَتَأْتُنَّنِي بِهِ إِلآَّ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ
+> مَوْثِقَهُمْ قَالَ اللَّهُ عَلَي مَا نَقُولُ وَكِيلٌ
 
 ***66. “He said: ‘Never will I send him with you until you pledge a
 solemn covenant to me, in Allah’s name, that you will surely bring him
@@ -396,14 +360,10 @@ Guardian over what we say’.”***
 Surah Yusuf – Verse 67
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ يَا بَنِيَّ لاَ تَدْخُلُوا مِن بَابٍ وَاحدٍ وَادْخُلُوا مِنْ
-أَبْوَابٍ مُّتَفَرّقَةٍ وَمَآ اُغْنِي عَنكُم مِنَ اللَّهِ مِن شَيْءٍ
-إِنِ الْحُكْمُ إِلاَّ لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيهِ
-فَلْيَتَوَكَّلِ الْمُتَوَكّلُونَ
-  </p>
-</blockquote>
+> وَقَالَ يَا بَنِيَّ لاَ تَدْخُلُوا مِن بَابٍ وَاحدٍ وَادْخُلُوا مِنْ
+> أَبْوَابٍ مُّتَفَرّقَةٍ وَمَآ اُغْنِي عَنكُم مِنَ اللَّهِ مِن شَيْءٍ
+> إِنِ الْحُكْمُ إِلاَّ لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيهِ
+> فَلْيَتَوَكَّلِ الْمُتَوَكّلُونَ
 
 ***67. “He also said: ‘O’ my sons! Do not enter by one gate, but enter
 by separate gates. Yet I cannot avail you anything against Allah.
@@ -438,14 +398,10 @@ put their trust’.”***
 Surah Yusuf – Verse 68
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِي
-عَنْهُم مِنَ اللَّهِ مِن شَيْءٍ إِلاَّ حَاجَةً فِي نَفْسِ يَعْقُوبَ
-قَضَاهَا وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَكِنَّ أَكْثَرَ
-النَّاسِ لاَ يَعْلَمُون
-  </p>
-</blockquote>
+> وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِي
+> عَنْهُم مِنَ اللَّهِ مِن شَيْءٍ إِلاَّ حَاجَةً فِي نَفْسِ يَعْقُوبَ
+> قَضَاهَا وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَكِنَّ أَكْثَرَ
+> النَّاسِ لاَ يَعْلَمُون
 
 ***68. “And when they entered in the manner their father had enjoined
 them, it availed them nothing against Allah; but (it was) a need in
@@ -501,5 +457,4 @@ fulfilled.
 6. Most people are only aware of the means and the causes of events and
 are ignorant of Allah’s authority and the need for putting all their
 hopes and trust in Him.
-
 

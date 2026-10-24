@@ -212,11 +212,9 @@ PIDE Islamabad.
 USA's Future Economic Collapse, Excerpt from FOUNDATION TO ALL FREEDOM
 (Net)
 
-
 World Population International Data Base (US Census Bureau)
 
 www.Census.gov/ipc/www/idb/worldpopinfo.html
-
 
 World GDP country wise Year 2006
 
@@ -226,17 +224,13 @@ www.economywatch.com
 
 Earth trends.wri.org/updatesnode/51
 
-
 16. Data Quick Reference Tables World Bank
 
 www.worldbank.org/data/quickreference/quickref. html
-
 
 Krueger, Anne O, (2005), "How Stable is the Global Economy"
 International Monetary Fund, Standard Institute of Policy Research:
 Economic Summit Stanford, California, February 11, 2005.
 
-
 World Population International Data Base (US Census Bureau)
-
 

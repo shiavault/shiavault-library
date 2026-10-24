@@ -174,7 +174,5 @@ magnificent is His Praise! in all this. And there is no power and no
 strength save in God. And all praise and thanks is to God, the Lord of
 the Universe.
 
-
 THE END
-
 

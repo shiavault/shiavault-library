@@ -4,7 +4,7 @@ Instead of a Preface: Introduction
 Introduction: Fatimah Zahra (p.b.u.h.) and the “Night of Divine Decrees”
 ------------------------------------------------------------------------
 
-<sup>[^1]</sup>
+[^1]
 
 After the completion of this booklet I was thinking of writing a preface
 for it that would be both an articulation of the magnificence of this
@@ -111,5 +111,4 @@ Qum - Howzeh Elmieh,
 **1407, 2Oth Jamadi Al Sanieh.**
 
 **“The happy Birth date of Fatimah Zahra (p.b.u.h.)”**
-
 

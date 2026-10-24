@@ -150,4 +150,3 @@ Weber, Max. Weber: Political Writings (Cambridge Texts in the History of
 Political Thought). Ed. Peter Lassman. Trans. Ronald Speirs. Cambridge
 UP, 1994.
 
-

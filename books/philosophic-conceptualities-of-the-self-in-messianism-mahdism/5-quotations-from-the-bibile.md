@@ -109,4 +109,3 @@ beyond the borders of the lands of their origin. It is desirable to have
 a view of the Messianic hope (or millennialism) in non-Semitic religions
 also.
 
-

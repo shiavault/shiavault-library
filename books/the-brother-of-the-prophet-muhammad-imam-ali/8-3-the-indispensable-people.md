@@ -630,4 +630,3 @@ Biography of the Prophet Part 1 p.246.
 
 [^10]: Nahjul-Balaghah Part 2 p. 15.
 
-

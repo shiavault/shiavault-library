@@ -22,4 +22,3 @@ unable to achieve any of the goodness and reformation objectives, and by
 the nation the leaders of wickedness win and without it they cannot
 reach their evil objectives.
 
-

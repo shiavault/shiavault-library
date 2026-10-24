@@ -8,4 +8,3 @@ is the one who fabricates [a lie].
 
 > 1ـ هَلَكَ مَنِ ادَّعى، وخابَ مَنِ افْتَرى.
 
-

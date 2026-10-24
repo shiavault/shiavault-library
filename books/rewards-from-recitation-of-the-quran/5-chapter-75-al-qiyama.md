@@ -208,4 +208,3 @@ and learned it." Imam Ja’fer al-Sadiq (as) has said thatwhoever recites
 this Sura will be free from shirk and will be admitted in the creed of
 the Prophet (pbuh), and Allah will try him an easy trial.
 
-

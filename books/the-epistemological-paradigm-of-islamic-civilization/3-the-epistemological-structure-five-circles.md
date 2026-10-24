@@ -59,4 +59,3 @@ nations and groups activate themselves in such a way that the
 intellectual influence of this circle becomes more noticeable socially
 and politically.
 
-

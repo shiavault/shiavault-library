@@ -10,4 +10,3 @@ sophisticated.32 Sometimes for one single*fatwa* (edict) to be issued,
 ijtihad might involve weeks of enquiry and investigation of religious
 sources. Obviously ijtihad must be based on revelation and reason.33
 
-

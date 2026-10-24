@@ -3,12 +3,8 @@ Lesson Sixty Nine: The Most Dignified People
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أَعْظَمَ النَّاسِ مَنْزِلَةً عِنْدَ اللّهِ يَوْمَ القِيامَةِ
-أَمْشاهُمْ فِى أَرْضِهِ بالنَّصِيحَةِ لِخَلْقِهِ
-  </p>
-</blockquote>
+> إنَّ أَعْظَمَ النَّاسِ مَنْزِلَةً عِنْدَ اللّهِ يَوْمَ القِيامَةِ
+> أَمْشاهُمْ فِى أَرْضِهِ بالنَّصِيحَةِ لِخَلْقِهِ
 
 Translation
 -----------
@@ -26,5 +22,4 @@ well as behind their back.
 
 [^1]: al-Kafi, volume 2, page 166. Wasail Al-Shia, vol 16, page 382.
 Mustadrak AlWasa'il, vol 12, page 387.
-
 

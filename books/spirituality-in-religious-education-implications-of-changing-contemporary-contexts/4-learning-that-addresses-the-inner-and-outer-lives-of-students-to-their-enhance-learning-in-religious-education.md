@@ -264,4 +264,3 @@ experience such a learning context should enhance the lives of every
 child, adolescent and teacher and promote their capacity for empathy and
 living in peace and harmony in a shrinking, divisive global world.
 
-

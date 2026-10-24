@@ -496,4 +496,3 @@ the atmosphere of the earth as a whole. The promised Last Deliverer,
 Muhammad, appeared when in spite of the labours of all the preceding
 apostles of God, there was darkness everywhere on the earth.
 
-

@@ -287,4 +287,3 @@ practices tadlis) here usually uses the mode ("on the authority of") or
 
 [^22]: Al-Bedayah wa al-Nehayah, 8/117.
 
-

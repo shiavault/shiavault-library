@@ -68,4 +68,3 @@ explained in the coming pages, if Allah wills. [^1]
 [^1]: The story of Khadija's marriage was summarized and carried on from
 Bihar al-Anwar: v.6.
 
-

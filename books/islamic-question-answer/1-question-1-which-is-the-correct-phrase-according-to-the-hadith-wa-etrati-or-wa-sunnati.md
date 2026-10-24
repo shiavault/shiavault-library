@@ -70,7 +70,6 @@ Jalal Al-Deen Al-Seuti, Dur Al-Manthur, vol.6, in interpretation of the
 seventh verse of sura Bayyinah (as for) those who believe and do good,
 surely they are the best of men.)
 
-
 **Question 3. Why is Ali bin Abi Talib the guardian and successor of
 the Holy prophet?**
 
@@ -156,5 +155,4 @@ Al-Hadid) vol. 13 p. 210-212
 Hajar) 2nd print, Egypt section 9, chapt. 2, p. 121.
 For example, 'Al-sawa-eq Al-mohregha' (Ibn Hajar) 2nd print, Egypt,
 section 9, p. 122.
-
 

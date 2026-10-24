@@ -105,4 +105,3 @@ Biharul Anwar, vol. 1
 [^3]: Murujuz Zahab by Mas'udi, vol. 3, p. 454, printed by Oarul Andalus
 Press
 
-

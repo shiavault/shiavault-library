@@ -134,7 +134,6 @@ of the people’s lack of acceptance of the truth and rejecting the means
 of their happiness, he pains so much that as if he tended to kill
 himself.
 
-
 **Commentary : Verse 9**
 
 (9) وَاللَّهُ الَّذِي أَرْسَلَ الرّ‌ِيَاحَ فَتُثِيرُ سَحَاباً
@@ -189,5 +188,4 @@ He (p.b.u.h.) said: “In such a way Allah quickens the dead and this is
 its sign in the creation.” [^1]
 
 [^1] The Commentary book by Qurtabi-, Vol. 8, P. 5409
-
 

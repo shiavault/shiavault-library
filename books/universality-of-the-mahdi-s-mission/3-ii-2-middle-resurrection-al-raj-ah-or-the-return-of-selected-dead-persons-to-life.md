@@ -93,7 +93,6 @@ as just Imams (leaders). Hope that this stern message will reach this
 memorizer of the Quran before he will be resurrected with whom he
 loves.
 
-
 **II.3 Major Resurrection - The day of Reckoning**
 
 "Nay, I swear by the Day of Resurrection." Quran (75:1)
@@ -135,5 +134,4 @@ Prophet Muhammad, in turn, foretold about the coming of the Mahdi. This
 will occur just before the day of resurrection. The seal of the
 Prophet's certainty about the coming of Imam Mahdi was no less than that
 of Abraham's certainty about the Judgment day.
-
 

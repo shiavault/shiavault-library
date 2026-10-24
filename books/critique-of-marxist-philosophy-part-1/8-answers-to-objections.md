@@ -38,4 +38,3 @@ mind and thought, and in epistemology means the doctrine that objects of
 knowledge and experience exist independently of their being known or
 experienced) bases its arguments on these two principles.
 
-

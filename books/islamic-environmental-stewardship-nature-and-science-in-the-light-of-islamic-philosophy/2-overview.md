@@ -62,4 +62,3 @@ God’s
 creation, the natural world. In this essay, Islamic philosophy serves as
 the lens through which these sacred qualities of nature are observed.
 
-

@@ -336,11 +336,11 @@ the Household of the Prophet (s)) cannot be denied by anyone except
 those who are obstinate. We praise the Honorable the Exalted God for
 this. This was the fourth.
 
-The fifth verse<span style="letter-spacing: .4pt"> regarding the choice
+The fifth verse regarding the choice
 is the Honorable the Exalted God’s words, ‘*And render to the kindred
 their due rights…’* [[390]](footnotes.htm#b390) The Honorable the
 Omnipotent has made them especial by this characteristic and has chosen
-them over the nation. When this verse was revealed to the</span>
+them over the nation. When this verse was revealed to the
 
 لا يَسْبِقُهُمْ إِلَيْهِ خَلْقٌ، إِذْ جَعَلَ نَفْسَ عَلِيٍ‏ عَلَيْهِ
 السَّلامُ كَنَفْسِهِ. فَهَذِهِ الثَّالِثَةُ.
@@ -428,11 +428,9 @@ his family, because they have ignored one of the duties made incumbent
 upon them by God. This is surely the most prominent honor.
 
 When the verse *’Say, No reward do I ask of you for this except the love
-of those near of kin’* was revealed, the Prophet (s) stood up, <span
-style="letter-spacing:.2pt">expressed praise and gratitude for God and
+of those near of kin’* was revealed, the Prophet (s) stood up, expressed praise and gratitude for God and
 glorified Him. The Prophet (s) then said, “O people! The Honorable the
-Exalted God has made an affair<span
-style="letter-spacing:.2pt"></span></span>
+Exalted God has made an affair
 
 وَآلِهِ قَالَ: ادْعُوا لِي فَاطِمَةَ. فَدُعِيَتْ لَهُ، فَقَالَ: يَا
 فَاطِمَةُ. قَالَتْ: لَبَّيْكَ يَا رَسُولَ اللَّهِ. فَقَالَ‏ صَلَّى اللهُ

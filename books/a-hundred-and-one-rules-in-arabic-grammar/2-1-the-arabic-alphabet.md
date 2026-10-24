@@ -28,17 +28,11 @@ including 3 long vowels. He put them in the following order starting
 with the laryngeal and ending with labial, representing the place of
 articulation along the vocal tract.
 
-<p dir="rtl">
 **ء، ا، هـ ، ع ، ح ، غ ، خ ، ك ، ق ، ض،**
-</p>
 
-<p dir="rtl">
 **ج ، ش ، ي ، ل ، ر ، ن ، ط ، د ، ت ، ص ،**
-</p>
 
-<p dir="rtl">
 **ز ، س ، ظ ، ذ ، ث ، ف ، ب ، م ، و**
-</p>
 
 Though Siibawayh listed 29 letters he concluded that in reality there
 were 35 sounds which are represented by those 29 letters. He explained
@@ -58,10 +52,8 @@ their use is only limited to oral communication.
 Al-Khalil Ibn Ahmed, who died in 791, grouped and put them in the
 following order:
 
-<p dir="rtl">
 **ع ح هـ خ غ ، ق ك ، ج ش ض ، ص س ز ، ط د ت ، ظ ث ذ ، ر د ن ، ف ب م ، و ا
 ي ء**
-</p>
 
 The codification of the Qur'an was a crucial moment in the development
 of a written standard for the Arabic language. On a practical level, the
@@ -128,5 +120,4 @@ They not only copy Quranic verses and design phrases to be incorporated
 into building tiles and mosques , but they write nearly all newspaper
 and magazine headlines. Modern Arabic lends itself to the art, with its
 fluid design and diacritical markings.
-
 

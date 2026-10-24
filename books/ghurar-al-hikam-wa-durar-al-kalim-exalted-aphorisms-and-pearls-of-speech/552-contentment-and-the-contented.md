@@ -20,11 +20,7 @@ of your religion, for indeed the believer is satisfied with the little
 that he gets of this world.
 
 > 4ـ اِقْنَعُوا بِالقَليلِ مِنْ دُنْياكُمْ لِسَلامَةِ ديـنِكُمْ، فَإنَّ
-<blockquote dir="rtl">
-  <p>
-المُؤمِنَ اَلبُلْغَةُ اليَسيرَةُ مِنَ الدُّنْيا تُقْنِعُهُ.
-  </p>
-</blockquote>
+> المُؤمِنَ اَلبُلْغَةُ اليَسيرَةُ مِنَ الدُّنْيا تُقْنِعُهُ.
 
 5. The wealthiest of all people is the contented one.
 
@@ -103,22 +99,14 @@ long as he covets.
 sustenance than being greedy of acquiring more.
 
 > 23ـ إنَّكُمْ إلَى القِناعَةِ بِيَسيرِ الرِّزْقِ أحْوَجُ مِنْكُمْ إلَى
-<blockquote dir="rtl">
-  <p>
-اكْتِسابِ الحِرْصِ فِي الطَّلَبِ.
-  </p>
-</blockquote>
+> اكْتِسابِ الحِرْصِ فِي الطَّلَبِ.
 
 24. Verily if you become contented you will gain independence [and
 affluence] and the burden of worldly provisions will become lighter for
 you.
 
 > 24ـ إنَّكُمْ إنْ قَنِعْتُمْ حُزْتُمْ الغَناءَ وخَفَّتْ عَلَيْكُمْ
-<blockquote dir="rtl">
-  <p>
-مُؤَنُ الدُّنيا.
-  </p>
-</blockquote>
+> مُؤَنُ الدُّنيا.
 
 25. When you are deprived, then be content [with what you have].
 
@@ -140,11 +128,7 @@ you.
 livelihood] and refraining from asking [others].
 
 > 29ـ ثَمَرَةُ القَناعَةِ الإجْمالُ فِي المُكْتَسَبِ والعُزُوفُ عَنِ
-<blockquote dir="rtl">
-  <p>
-الطَّلَبِ.
-  </p>
-</blockquote>
+> الطَّلَبِ.
 
 30. The fruit of contentment is honour.
 
@@ -158,11 +142,7 @@ livelihood] and refraining from asking [others].
 Glorified, has apportioned for you.
 
 > 32ـ حَسْبُكَ مِنَ القَناعَةِ غِناكَ بِما قَسَمَ لَكَ اللّهُ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ.
 
 33. Preserving that which is in your possession is better for you than
 seeking that which is in someone else’s possession.
@@ -179,11 +159,7 @@ works for the Reckoning, espouses continence, is content with what
 suffices [him] and is pleased with [the decree of] Allah, the Glorified.
 
 > 35ـ طُوبى لِمَنْ خافَ العِقابَ، وعَمِلَ لِلْحِسابِ،وَ صاحَبَ العَفافَ،
-<blockquote dir="rtl">
-  <p>
-وقَنِعَ بِالكَفافِ،وَ رَضِيَ عَنِ اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> وقَنِعَ بِالكَفافِ،وَ رَضِيَ عَنِ اللّهِ سُبْحانَهُ.
 
 36. You must have contentment, for indeed there is nothing that wards
 off poverty more than it.
@@ -316,11 +292,7 @@ contentment.
 with much!
 
 > 66ـ ما أحْسَنَ بِالإنْسانِ أنْ يَقْنَعَ بِالقَليلِ ويَجُودَ
-<blockquote dir="rtl">
-  <p>
-بِالجَزيلِ.
-  </p>
-</blockquote>
+> بِالجَزيلِ.
 
 67. The best fortune is contentment.
 
@@ -394,5 +366,4 @@ subordination.
 > 83ـ لاغِنى كَالقُنُوْعِ.
 
 [^1]: Meaning that it makes poverty easier to bear.
-
 

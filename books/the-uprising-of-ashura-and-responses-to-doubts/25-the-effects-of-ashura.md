@@ -573,11 +573,7 @@ of women. I was shouting out loudly as I remembered that day, while hot
 tears were falling from my eyes because of the sorrow which I felt deep
 inside my heart. With a heart torn by deep sorrow, I said,
 
-<blockquote dir="rtl">
-  <p>
-ويرثي ربابك دنيا السّجون ودمع النواح وفيض الدما
-  </p>
-</blockquote>
+> ويرثي ربابك دنيا السّجون ودمع النواح وفيض الدما
 
 What did the enemies of al-Husayn (as) achieve, except digging their own
 graves?! Their crushed bodies got buried in the annals of history in a
@@ -585,11 +581,7 @@ disgraceful and lowly manner. O Aba ‘Abd Allah! You are the greatest man
 in the history of mankind! Life has become enlightened by your pure and
 sweet-smelling blood!
 
-<blockquote dir="rtl">
-  <p>
-سطعتَ بريقاً کوَمْضِ الشموس وشاعَ سناك کبر السما
-  </p>
-</blockquote>
+> سطعتَ بريقاً کوَمْضِ الشموس وشاعَ سناك کبر السما
 
 Whenever I read detailed accounts about Karbala, they attracted me from
 afar. Then, my breathing would quicken. I used to see al-Husayn next to
@@ -794,5 +786,4 @@ me a Shi‘ite), pp. 63-65.
 [^31]: Ahmad Husayn Ya‘qub, Karbala, al-Thawrah wa al-Ma’sah, pp. 7-8.
 
 [^32]: As narrated in the Newspaper Jumhuri-ye Islami, no. 6771.
-
 

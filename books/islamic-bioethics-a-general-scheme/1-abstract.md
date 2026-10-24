@@ -20,4 +20,3 @@ and stable family. Secondly, we will study family planning and abortion.
 With respect to the end of life, issues such as suicide and euthanasia
 will be studied. Finally organ transplantation will be discussed.
 
-

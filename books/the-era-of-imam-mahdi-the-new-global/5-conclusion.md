@@ -27,4 +27,3 @@ Zionist messianic project represents a fundamental betrayal of the
 message of Jesus Christ, ironically a betrayal being so aggressively
 perpetrated in his name.
 
-

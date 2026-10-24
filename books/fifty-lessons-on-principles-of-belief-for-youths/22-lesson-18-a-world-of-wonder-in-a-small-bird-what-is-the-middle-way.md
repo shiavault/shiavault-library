@@ -145,4 +145,3 @@ and punishments and heaven and hell?
  5. Is the verse, ***“But you will not except as God Wills... “
 (76:30),*** a proof of fatalism?
 
-

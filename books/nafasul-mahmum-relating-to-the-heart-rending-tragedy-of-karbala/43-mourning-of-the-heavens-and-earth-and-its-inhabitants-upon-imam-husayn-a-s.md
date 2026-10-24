@@ -451,4 +451,3 @@ Our Masters relate, that one of the signs of the (reappearance of) Mahdi
 (a.t.f.s.) is that the sun would be eclipsed in the first-half of the
 month of Ramazan.
 
-

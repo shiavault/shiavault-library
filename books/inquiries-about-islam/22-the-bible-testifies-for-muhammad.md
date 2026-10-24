@@ -139,4 +139,3 @@ defend itself and to defeat its enemies. History, after Jesus, had
 witnessed many brave nations, but none of them were motivated by a
 heavenly revelation except the nation of Muhammad.
 
-

@@ -23,4 +23,3 @@ the new physics that refers us back to ourselves, indeed which raises
 what to the philosopher is the spectre of solipsism, but what to the
 mystic is the bread and butter of spiritual experience.
 
-

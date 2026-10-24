@@ -234,8 +234,7 @@ assimilating a salutary philosophy of life, as they have indeed done in
 their past epochs."
 
 [^1] Women and Her Rights, http://www./WomanRights/index.html
-[^2] Marriage and Morals, pp. 173-174
-[^3] Marriage and Morals, pp. 173-174
-[^4] Ibid. pp. 194-195
-
+[^2]: Marriage and Morals, pp. 173-174
+[^3]: Marriage and Morals, pp. 173-174
+[^4]: Ibid. pp. 194-195
 

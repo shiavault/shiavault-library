@@ -59,4 +59,3 @@ against the Shi'ites.
 **Sunnah**: The customs, behavior and traditions of the Prophet of
 Islam.
 
-

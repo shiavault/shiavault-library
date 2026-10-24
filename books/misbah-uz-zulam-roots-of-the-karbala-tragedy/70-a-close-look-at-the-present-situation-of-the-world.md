@@ -51,4 +51,3 @@ not dependant upon any government or authority, if even such a person
 cannot write the truth, only Allah can help him. Obviously, such a
 person would not be eligible for Divine Mercy.
 
-

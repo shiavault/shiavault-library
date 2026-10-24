@@ -153,4 +153,3 @@ The positive attributes of God are like sweetness is to sugar; they are
 not additional to the person of God. Power, mercy, knowledge, justice,
 virtue, truth, etc. were never separate from His person.
 
-

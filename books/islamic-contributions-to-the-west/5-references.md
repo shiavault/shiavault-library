@@ -35,4 +35,3 @@ Subjects).
 
 [12]Index Islamicus , (supplement to the Revue des Etudes Islamiques).
 
-

@@ -172,7 +172,6 @@ direct observation and supervision through participation in his plays
 because child through direct dealings will conceal his emotion, view and
 his imagination due to shyness or fear of the parents.
 
-
 **Eighthly : Training and Distancing The Child From Excitements**
 
 Sexual education is the most difficult and complicated type of
@@ -312,5 +311,4 @@ In summary it is upon the parents to answer the children's questions
 regards sex with tranquil without rigorous and to distance them from its
 different types and colors especially in the era of cinema, video and
 television.
-
 

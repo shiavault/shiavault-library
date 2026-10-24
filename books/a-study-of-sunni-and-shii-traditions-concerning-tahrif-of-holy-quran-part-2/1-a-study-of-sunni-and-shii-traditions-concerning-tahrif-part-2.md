@@ -207,4 +207,3 @@ Qur'an and the absence of deletions from it and additions to it, as per
 consensus, it becomes necessary to discard these traditions which entail
 the Quran's basis on akhbar ahad.
 
-

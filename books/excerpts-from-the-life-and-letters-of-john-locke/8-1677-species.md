@@ -269,4 +269,3 @@ extension seems to be mentally separable from body, and distance nothing
 but the relation of space, resulting from the existence of two positive
 beings; or, which is all one, two parts of the same being.
 
-

@@ -55,11 +55,7 @@ Thus Yaqoob (a.s.) knew that Yusuf was alive and comfortable and that
 the Almighty Allah will bring him out after his occultation. He used to
 say the same thing to his sons:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
 
 ***I know from Allah what you do not know?***[^1]
 
@@ -67,15 +63,11 @@ His family members and relatives used to criticize him for remembering
 Yusuf (a.s.). Till the time he perceived the fragrance of Yusuf (a.s.)
 he said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ
-يُوسُفَ ۖ لَوْلَا أَنْ تُفَنِّدُونِ قَالُوا تَاللَّهِ إِنَّكَ لَفِي
-ضَلَالِكَ الْقَدِيمِ فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ
-وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي
-أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ
+> يُوسُفَ ۖ لَوْلَا أَنْ تُفَنِّدُونِ قَالُوا تَاللَّهِ إِنَّكَ لَفِي
+> ضَلَالِكَ الْقَدِيمِ فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ
+> وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي
+> أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
 
 ***Most surely I perceive the fragrance of Yusuf, unless you pronounce
 me to be weak in judgment. They said: By Allah, you are most surely in
@@ -100,11 +92,7 @@ And it was tied to his arm till those circumstances befell him. Thus
 when Yusuf removed it from the arm band in Egypt, Yaqoob perceived its
 fragrance and it is about the same thing that Allah quotes him saying:
 
-<blockquote dir="rtl">
-  <p>
-أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَا أَنْ تُفَنِّدُونِ
-  </p>
-</blockquote>
+> أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَا أَنْ تُفَنِّدُونِ
 
 ***“Most surely I perceive the fragrance of Yusuf, unless you pronounce
 me to be weak in judgment.”***[^3]
@@ -126,13 +114,9 @@ had disappeared as a divine test is that when the other sons returned in
 the evening weeping and wailing he asked them, “Why are you crying and
 wailing? And why don’t I see my dear Yusuf among you?
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا أَبَانَا إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ
-عِنْدَ مَتَاعِنَا فَأَكَلَهُ الذِّئْبُ ۖ وَمَا أَنْتَ بِمُؤْمِنٍ لَنَا
-وَلَوْ كُنَّا صَادِقِينَ
-  </p>
-</blockquote>
+> قَالُوا يَا أَبَانَا إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ
+> عِنْدَ مَتَاعِنَا فَأَكَلَهُ الذِّئْبُ ۖ وَمَا أَنْتَ بِمُؤْمِنٍ لَنَا
+> وَلَوْ كُنَّا صَادِقِينَ
 
 ***They said: O our father! surely we went off racing and left Yusuf by
 our goods, so the wolf devoured him, and you will not believe us though
@@ -171,24 +155,16 @@ you had to suffer.”
 Among the points proving that Yaqoob (a.s.) was aware that Yusuf (a.s.)
 was alive and in occultation is that he said:
 
-<blockquote dir="rtl">
-  <p>
-أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ
-جَمِيعًا
-  </p>
-</blockquote>
+> أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ
+> جَمِيعًا
 
 ***…maybe Allah will bring them all together to me…***[^5]
 
 And he said:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا
-تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ
-اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا
+> تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ
+> اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ
 
 ***O my sons! Go and inquire respecting Yusuf and his brother, and
 despair not of Allah’s mercy; surely none despairs of Allah’s mercy
@@ -243,13 +219,9 @@ could not recognize him. Until Allah, the Mighty and Sublime permits the
 Divine Proof to introduce himself as He had permitted Yusuf (a.s.) to do
 so when he said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ
-جَاهِلُونَ قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ قَالَ أَنَا يُوسُفُ
-وَهَٰذَا أَخِي
-  </p>
-</blockquote>
+> قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ
+> جَاهِلُونَ قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ قَالَ أَنَا يُوسُفُ
+> وَهَٰذَا أَخِي
 
 ***Do you know how you treated Yusuf and his brother when you were
 ignorant? They said: Are you indeed Yusuf? He said: I am Yusuf and this
@@ -268,5 +240,4 @@ is my brother.***[^7]
 [^6]: Surah Yusuf 12:87
 
 [^7]: Surah Yusuf 12:89-90
-
 

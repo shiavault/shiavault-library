@@ -2433,4 +2433,3 @@ al-Khadhim (a.s.) and did not believe in the rest five Imams.
 
 [^289]: Rijal at-Tusi
 
-

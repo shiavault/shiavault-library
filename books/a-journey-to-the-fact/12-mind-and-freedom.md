@@ -425,4 +425,3 @@ was applied in Egypt or Saudi Arabia, it would be a catastrophe!”
 Western deceit and double standard have been disclosed to the whole
 world.
 
-

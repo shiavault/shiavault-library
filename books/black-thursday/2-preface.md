@@ -232,12 +232,8 @@ in this condition? They bade farewell to him by telling him such hurting
 words. It was as if they had not gone through the open declaration of
 the Book of Allah:
 
-<blockquote dir="rtl">
-  <p>
-«وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانتَهُوا.»
-  </p>
-</blockquote>
+> «وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانتَهُوا.»
 
 ***And whatever the Apostle gives you, accept it, and from whatever he
 forbids you, keep back. (59:8)***
@@ -245,12 +241,8 @@ forbids you, keep back. (59:8)***
 While accusing the Prophet of talking rubbish they had forgotten this
 verse of holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ. ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ
-مَكِينٍ. مُطَاعٍ ثَمَّ أَمِينٍ. وَمَا صَاحِبُكُم بِمَجْنُونٍ.»
-  </p>
-</blockquote>
+> «إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ. ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ
+> مَكِينٍ. مُطَاعٍ ثَمَّ أَمِينٍ. وَمَا صَاحِبُكُم بِمَجْنُونٍ.»
 
 ***Most surely it (the Quran) is the Word of an honored messenger, the
 processor of strength, having an honorable place with the Lord of the
@@ -260,13 +252,9 @@ is not gone mad. (81:19-22)***
 Didn’t the people, who called words of the Prophet, ‘rubbish’, read this
 verse?
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ. وَمَا هُوَ بِقَوْلِ شَاعِرٍ
-قَلِيلاً مَا تُؤْمِنُونَ. وَلاَ بِقَوْلِ كَاهِنٍ قَلِيلاً مَا
-تَذَكَّرُونَ. تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ.»
-  </p>
-</blockquote>
+> «إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ. وَمَا هُوَ بِقَوْلِ شَاعِرٍ
+> قَلِيلاً مَا تُؤْمِنُونَ. وَلاَ بِقَوْلِ كَاهِنٍ قَلِيلاً مَا
+> تَذَكَّرُونَ. تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ.»
 
 ***Most surely, it is the Word brought by an honored Apostle, and it is
 not the word of a poet; little is it that you believe; nor the word of a
@@ -276,13 +264,9 @@ of the worlds. (69:40-43)***
 Didn’t the people who rejected the words of the Messenger read this
 verse?
 
-<blockquote dir="rtl">
-  <p>
-«وَالنَّجْمِ إِذَا هَوَى. مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى. وَمَا
-يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى. عَلَّمَهُ
-شَدِيدُ الْقُوَى.»
-  </p>
-</blockquote>
+> «وَالنَّجْمِ إِذَا هَوَى. مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى. وَمَا
+> يَنطِقُ عَنِ الْهَوَى. إِنْ هُوَ إِلاَّ وَحْيٌ يُوحَى. عَلَّمَهُ
+> شَدِيدُ الْقُوَى.»
 
 ***I swear by the star when it goes down. Your companion does not err,
 nor does he go astray; nor does he speak out of desire. It is naught but
@@ -412,21 +396,13 @@ in a state of illness, and this would have created a big scandal. He
 therefore remarked, “The Book of Allah is sufficient for us,” in view of
 the words of Allah, the Most High:
 
-<blockquote dir="rtl">
-  <p>
-«مَا فَرَّطْنَا فِي الكِتَابِ مِن شَيْءٍ.»
-  </p>
-</blockquote>
+> «مَا فَرَّطْنَا فِي الكِتَابِ مِن شَيْءٍ.»
 
 ***We have not neglected anything in the Book. (6:38)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-«الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ.»
-  </p>
-</blockquote>
+> «الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ.»
 
 ***This day have I perfected for you your religion. (5:3)***
 
@@ -577,13 +553,9 @@ His order ought to have been carried out and not ignored. When it was
 his aim to have ink and paper, he had also ordered them to supply him
 with these things, nobody should have refused to obey him.
 
-<blockquote dir="rtl">
-  <p>
-«وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْراً أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
-وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلالاً مُّبِيناً.»
-  </p>
-</blockquote>
+> «وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْراً أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
+> وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلالاً مُّبِيناً.»
 
 ***And it behoves not a believing man and a believing woman that they
 should have any choice in their matter when Allah and His Apostle have
@@ -632,21 +604,13 @@ material, and passing the remark, “he has talked nonsense”?
 While interpreting his words, “the Book of Allah is sufficient for us,”
 they have referred to the Quranic verses:
 
-<blockquote dir="rtl">
-  <p>
-«مَا فَرَّطْنَا فِي الكِتَابِ مِن شَيْءٍ.»
-  </p>
-</blockquote>
+> «مَا فَرَّطْنَا فِي الكِتَابِ مِن شَيْءٍ.»
 
 ***We have not neglected anything in the Book. (6:38)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-«الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ.»
-  </p>
-</blockquote>
+> «الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ.»
 
 ***This day have I perfected for you your religion. (5:3)***
 
@@ -688,12 +652,8 @@ general consent in my nation on error;” and also his words, “There will
 always be in my nation, a group of people who will adhere to truth and
 support it;” and the words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-«وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُم فِي الأَرْضِ.»
-  </p>
-</blockquote>
+> «وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُم فِي الأَرْضِ.»
 
 ***Allah has promised to those of you who believe and do good that He
 will most certainly make them rulers in the earth as He made rulers
@@ -832,5 +792,4 @@ Utbah bin Masood who has narrated from Ibn Abbas and Imam Muslim has
 also narrated it.
 
 [^3]: Ibn Abil Hadid, Sharh Nahjul Balagha, Vol. 3, Pg. 140, Egypt.
-
 

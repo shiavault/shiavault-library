@@ -4,13 +4,9 @@ Section 7: Unity of Allah
 Surah Al-Qasas - Verse 61
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَن وَعَدْنَاهُ وَعْداً حَسَناً فَهُوَ لاَقِيهِ كَمَن مَتَّعْنَاهُ
-مَتَاعَ الْحَيَاةِ الدُّنْيَا ثُمَّ هُوَ يَوْمَ الْقِيَامَةِ مِنَ
-الْمُـحْضَرِينَ
-  </p>
-</blockquote>
+> أَفَمَن وَعَدْنَاهُ وَعْداً حَسَناً فَهُوَ لاَقِيهِ كَمَن مَتَّعْنَاهُ
+> مَتَاعَ الْحَيَاةِ الدُّنْيَا ثُمَّ هُوَ يَوْمَ الْقِيَامَةِ مِنَ
+> الْمُـحْضَرِينَ
 
 ***61. “Is he then unto whom We have promised a goodly promise which he
 shall meet it, similar to him whom We have provided with the provision
@@ -75,27 +71,15 @@ fitting.
 Surah Al-Qasas - Verses 62-64
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شرَكَآءِيَ الَّذِينَ كُنتُمْ
-تَزْعُمُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شرَكَآءِيَ الَّذِينَ كُنتُمْ
+> تَزْعُمُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ رَبَّنَا هَؤُلآءِ الَّذِينَ
-أَغْوَيْنَآ أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا تَبَرَّأْنَآ إِلَيْكَ مَا
-كَانُوا إِيَّانَا يَعْبُدُونَ
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ رَبَّنَا هَؤُلآءِ الَّذِينَ
+> أَغْوَيْنَآ أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا تَبَرَّأْنَآ إِلَيْكَ مَا
+> كَانُوا إِيَّانَا يَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلَ ادْعُوا شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ
-وَرَأَوُا الْعَذَابَ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَقِيلَ ادْعُوا شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ
+> وَرَأَوُا الْعَذَابَ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ
 
 ***62. “And on the Day (when) He will call them and say: ‘Where are My
 associates whom you were asserting?’”***  
@@ -208,24 +192,12 @@ aright.”***
 Surah Al-Qasas - Verses 65-67
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَعَمِيَتْ عَلَيْهِمُ الاَنْبَآءُ يَوْمَئِذٍ فَهُمْ لاَ يَتَسَآءَلُونَ
-  </p>
-</blockquote>
+> فَعَمِيَتْ عَلَيْهِمُ الاَنْبَآءُ يَوْمَئِذٍ فَهُمْ لاَ يَتَسَآءَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاَمَّا مَن تَابَ وءَامَنَ وَعَمِلَ صَالِحاً فَعَسَي أَن يَكُونَ مِنَ
-الْمُفْلِحِينَ
-  </p>
-</blockquote>
+> فَاَمَّا مَن تَابَ وءَامَنَ وَعَمِلَ صَالِحاً فَعَسَي أَن يَكُونَ مِنَ
+> الْمُفْلِحِينَ
 
 ***65. “And on that Day He will call them and say: ‘What was the answer
 you gave to the messengers?’”***  
@@ -314,25 +286,13 @@ Allah is ‘The Most Generous’.
 Surah Al-Qasas - Verses 68-70
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ مَا كَانَ لَهُمُ
-الْخِيَرَةُ سُبْحَانَ اللَّهِ وَتَعَالَي عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ مَا كَانَ لَهُمُ
+> الْخِيَرَةُ سُبْحَانَ اللَّهِ وَتَعَالَي عَمَّا يُشْرِكُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
-  </p>
-</blockquote>
+> وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ اللَّهُ لآ إِلَهَ إِلاَّ هُوَ لَهُ الْحَمْدُ فِي الأُولَي
-وَالاَخِرَةِ وَلَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَهُوَ اللَّهُ لآ إِلَهَ إِلاَّ هُوَ لَهُ الْحَمْدُ فِي الأُولَي
+> وَالاَخِرَةِ وَلَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
 
 ***68. “And your Lord creates whatever He pleases, and He chooses: They
 have not the choice. Glory be to Allah, and exalted be He above what
@@ -445,13 +405,9 @@ reckoning and reward of our deeds are in His hand, too.
 Surah Al-Qasas - Verse 71
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِن جَعَلَ اللَّهُ عَلَيْكُمُ الَّيْلَ سَرْمَداً
-إِلَي يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم
-بِضِيَآءٍ أَفَلاَ تَسْمَعُونَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِن جَعَلَ اللَّهُ عَلَيْكُمُ الَّيْلَ سَرْمَداً
+> إِلَي يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم
+> بِضِيَآءٍ أَفَلاَ تَسْمَعُونَ
 
 ***71. “Say: ‘Have you thought, if Allah made the night everlasting for
 you till the Day of Resurrection, what god other than Allah shall bring
@@ -491,13 +447,9 @@ would exist a human being, nor would it rain a drop of rain.
 Surah Al-Qasas - Verse 72
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتُمْ إِن جَعَلَ اللَّهُ عَلَيْكُمُ النَّهَارَ سَرْمَداً
-إِلَي يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم
-بِلَيْلٍ تَسْكُنُونَ فِيهِ أَفَلاَ تُبْصِرُونَ
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتُمْ إِن جَعَلَ اللَّهُ عَلَيْكُمُ النَّهَارَ سَرْمَداً
+> إِلَي يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم
+> بِلَيْلٍ تَسْكُنُونَ فِيهِ أَفَلاَ تُبْصِرُونَ
 
 ***72. “Say: ‘Have you thought, if Allah made the day everlasting for
 you till the Day of Resurrection, what god other than Allah shall bring
@@ -531,12 +483,8 @@ that you know that they both are from the side of a Wise Administrator?
 Surah Al-Qasas - Verse 73
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِن رَحْمَتِهِ جَعَلَ لَكُمُ اللَّيْلَ وَالنَّهَارَ لِتَسْكُنُوا
-فِيهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
-  </p>
-</blockquote>
+> وَمِن رَحْمَتِهِ جَعَلَ لَكُمُ اللَّيْلَ وَالنَّهَارَ لِتَسْكُنُوا
+> فِيهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ
 
 ***73. “And it is out of His Mercy that He has made for you the night
 and the day, that you may rest therein, and that you may seek of His
@@ -592,12 +540,8 @@ a thanksgiving which is the motive of Faith in the doctrinal subjects.
 Surah Al-Qasas - Verse 74
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِيَ الَّذِينَ كُنتُمْ
-تَزْعُمُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِيَ الَّذِينَ كُنتُمْ
+> تَزْعُمُونَ
 
 ***74. “And on the day when He shall call them and say: ‘Where are My
 partners whom you used to assert?’”***
@@ -626,13 +570,9 @@ and pleasure of Allah.
 Surah Al-Qasas - Verse 75
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مِن كُلّ‌ِ اُمَّةٍ شَهِيداً فَقُلْنَا هَاتُوا
-بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا
-كَانُوا يَفْتَرُونَ
-  </p>
-</blockquote>
+> وَنَزَعْنَا مِن كُلّ‌ِ اُمَّةٍ شَهِيداً فَقُلْنَا هَاتُوا
+> بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا
+> كَانُوا يَفْتَرُونَ
 
 ***75. “And We will draw forth from every nation a witness, and say:
 ‘Bring you your proof!’ Then shall they know that the Truth is Allah’s,
@@ -701,5 +641,4 @@ tradition is of the kind of statement of the extension of this meaning.
 [^2]: According to Tafsir-i-Nur-uth-Thaqalayn, Vol. 4, P. 136
 
 [^3]: The Commentary of Al-Mizan, Vol. 16, P. 20
-
 

@@ -29,4 +29,3 @@ than worshipping for a year.'
 The station of reflection is only obtained by him whom Allah has
 singled out for the light of gnosis (ma'rifah) and tawhid.
 
-

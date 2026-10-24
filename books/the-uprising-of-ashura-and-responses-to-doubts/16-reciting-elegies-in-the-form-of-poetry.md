@@ -50,11 +50,7 @@ On his chain of transmission, Tabari narrates that Imam ‘Ali said, “When
 the child of Adam (Abel) was killed by his brother (Cain), Prophet Adam
 cried and recited this elegy,
 
-<blockquote dir="rtl">
-  <p>
-تغيرت ِ البلاد ُ ومن عليها فلون ُ الارض ِ مغبّر قبيح ُ
-  </p>
-</blockquote>
+> تغيرت ِ البلاد ُ ومن عليها فلون ُ الارض ِ مغبّر قبيح ُ
 
 > تغير کلّ ُ ذي طعم ٍ ولون ٍ وقلّ بشاشة ُ الوجه ِ المليح ُ522
 
@@ -68,70 +64,38 @@ when mourning over the Holy Prophet (S).
 Ibn ‘Abd Rabbah recounts that Fatimah (as) stood at the head of her
 father’s tomb and recited,
 
-<blockquote dir="rtl">
-  <p>
-فقد ناك فقد َ الارض ِ وابلها وغاب َ مذغبت عنّا الوحيّ ُ والکتب ُ
-  </p>
-</blockquote>
+> فقد ناك فقد َ الارض ِ وابلها وغاب َ مذغبت عنّا الوحيّ ُ والکتب ُ
 
 > فليت َ قبلك کان َ الموت ُ صادفنا لمّا نعيت َ وحالتْ دونك الکثب ُ523
 
 #### B. Poetic elegies of the daughter of ‘Abd al-Muttalib
 
-<blockquote dir="rtl">
-  <p>
-ألا يا رسول َ الله ِ کنت َ رجاء َنا وکنت َ بنا برّاً ولم تك جافياً
-  </p>
-</blockquote>
+> ألا يا رسول َ الله ِ کنت َ رجاء َنا وکنت َ بنا برّاً ولم تك جافياً
 
 > وکنت َ رحيماً هادياً ومعلّماً لبيك ِ عليك اليوم َ من کان َ باکياً 524
 
 #### C. Poetic elegies of Hassan ibn Thabit
 
-<blockquote dir="rtl">
-  <p>
-ومالك لا تبکين َ ذاالنعمة ِ التي على الناس ِ منها سائغ ٌ يتغمّد ُ
-  </p>
-</blockquote>
+> ومالك لا تبکين َ ذاالنعمة ِ التي على الناس ِ منها سائغ ٌ يتغمّد ُ
 
-<blockquote dir="rtl">
-  <p>
-فجودي عليه ِ بالمدموع ِ وأعولي لفقد ِ الذي لا مثله ٌ الدهر ٌ يوجد ٌ
-  </p>
-</blockquote>
+> فجودي عليه ِ بالمدموع ِ وأعولي لفقد ِ الذي لا مثله ٌ الدهر ٌ يوجد ٌ
 
-<blockquote dir="rtl">
-  <p>
-وما فقد َ الماضون َ مثل َ محمّد ٍ ولا مثله ُ حتّى القيامة ِ يفقد ُ
-  </p>
-</blockquote>
+> وما فقد َ الماضون َ مثل َ محمّد ٍ ولا مثله ُ حتّى القيامة ِ يفقد ُ
 
 #### D. Poetic elegies of Abu Sufiyan ibn Harith
 
 Ibn Ishaq says, “Abu Sufiyan ibn Harith cried a lot in grieving for the
 Holy Prophet and recited this elegy,
 
-<blockquote dir="rtl">
-  <p>
-أرّقت ُ فبات َ ليلي لايزول ُ وليل ُ أخي المصيبة ِ فيه طول ُ
-  </p>
-</blockquote>
+> أرّقت ُ فبات َ ليلي لايزول ُ وليل ُ أخي المصيبة ِ فيه طول ُ
 
-<blockquote dir="rtl">
-  <p>
-فاسعدني البکاء ُ وذاك فيما أ ُصيب المسلمون َ به قليل ُ
-  </p>
-</blockquote>
+> فاسعدني البکاء ُ وذاك فيما أ ُصيب المسلمون َ به قليل ُ
 
 > لقد عظمتْ مصيبتنا وجلّتْ عشية َ قيل َ: قد قُبِضَ الرسول ُ525
 
 #### E. Poetic elegies of Abi Dhu’ayb ibn Hadhali
 
-<blockquote dir="rtl">
-  <p>
-کُسفِتْ لمصرعهِ النجومُ وبدرُها وتزعزعتْ آطامُ بطنِ الأبطحِ
-  </p>
-</blockquote>
+> کُسفِتْ لمصرعهِ النجومُ وبدرُها وتزعزعتْ آطامُ بطنِ الأبطحِ
 
 > وتزعزعتْ أجبالُ يثربَ کلُّها ونخيلُها لحلولِ خطبٍ مفدحِ526
 
@@ -145,27 +109,15 @@ Holy Prophet and recited this elegy,
 
 #### H. Poetic elegies of ‘Amir ibn Tufayl
 
-<blockquote dir="rtl">
-  <p>
-بکتِ الارضُ والسماءُ على النو رِ الذي کانَ للعبادِ سراجاً
-  </p>
-</blockquote>
+> بکتِ الارضُ والسماءُ على النو رِ الذي کانَ للعبادِ سراجاً
 
 > من هدينا به الى سبيل ال قٍ وکنّا لانعرفُ المنهاجا529
 
 #### I. Poetic elegies of Suad ibn Qarib
 
-<blockquote dir="rtl">
-  <p>
-بکتْ عليهِ ارضُنا و سماؤُنا وتصدّعتْ وجداً به الاکبادُ
-  </p>
-</blockquote>
+> بکتْ عليهِ ارضُنا و سماؤُنا وتصدّعتْ وجداً به الاکبادُ
 
-<blockquote dir="rtl">
-  <p>
-لو قيلَ: تفدون النّبيَّ محمداً بُذلتْ لهُ الاموالُ والاولادُ
-  </p>
-</blockquote>
+> لو قيلَ: تفدون النّبيَّ محمداً بُذلتْ لهُ الاموالُ والاولادُ
 
 ### 5. Recitation of poetic elegies before the Holy Prophet (S)
 
@@ -178,39 +130,19 @@ did not prohibit them from doing so, but he encouraged them as well.
 Safiyyah, the daughter of ‘Abd al-Muttalib and the sister of Hamzah,
 recited,
 
-<blockquote dir="rtl">
-  <p>
-أسائلةٌ اصحابَ أحدٍ مخافةً بناتِ أبي من أعجمٍ وخبيرِ
-  </p>
-</blockquote>
+> أسائلةٌ اصحابَ أحدٍ مخافةً بناتِ أبي من أعجمٍ وخبيرِ
 
-<blockquote dir="rtl">
-  <p>
-فقالَ الخبيرُ إنّ حمزةَ قد ثوی وزيرُ رسولِ اللهِ خيرُ وزيرِ
-  </p>
-</blockquote>
+> فقالَ الخبيرُ إنّ حمزةَ قد ثوی وزيرُ رسولِ اللهِ خيرُ وزيرِ
 
 > دعاهُ الى الحقّ ذوالعرشِ دعوةً الى جنّةٍ يَحيا بها وسرورُ 530
 
 When mourning for Hamzah, Ka‘b ibn Malik used to recite,
 
-<blockquote dir="rtl">
-  <p>
-صفيةُ قومي ولا تَعجزي وبکّي النساءَ علی حمزةِ
-  </p>
-</blockquote>
+> صفيةُ قومي ولا تَعجزي وبکّي النساءَ علی حمزةِ
 
-<blockquote dir="rtl">
-  <p>
-ولا تسأمي أن تطيلي البُکا على أسدِ اللهِ في الهزّةِ
-  </p>
-</blockquote>
+> ولا تسأمي أن تطيلي البُکا على أسدِ اللهِ في الهزّةِ
 
-<blockquote dir="rtl">
-  <p>
-فقد کانَ عزّاً لأ يتامِنا وليثَ الملاحمِ في البزّةِ
-  </p>
-</blockquote>
+> فقد کانَ عزّاً لأ يتامِنا وليثَ الملاحمِ في البزّةِ
 
 > يريدُ بذاك الرضا احمداً ورضوانُ ذي العرشِ والعزّةِ531
 
@@ -219,11 +151,7 @@ When mourning for Hamzah, Ka‘b ibn Malik used to recite,
 When ‘Ubaydah was killed at Badr, Ka‘b ibn Malik Ansari cried mournfully
 and recited,
 
-<blockquote dir="rtl">
-  <p>
-ايا عينُ جودي ولا تبخلي بدمعكِ حقاً ولا تنزري
-  </p>
-</blockquote>
+> ايا عينُ جودي ولا تبخلي بدمعكِ حقاً ولا تنزري
 
 > على سيدٍ هدّنا هُلَله کريمِ المشاهدِ والعنصرِ 532
 
@@ -231,33 +159,17 @@ and recited,
 
 Hassan ibn Thabit recited,
 
-<blockquote dir="rtl">
-  <p>
-فلا يبعدنَّ اللهِ قتلی تتابعوا بمؤتةَ منهم ذو الجناحينِ جعفرُ
-  </p>
-</blockquote>
+> فلا يبعدنَّ اللهِ قتلی تتابعوا بمؤتةَ منهم ذو الجناحينِ جعفرُ
 
 > وزيدُ وعبدُ اللهِ فيمن تتابعوا جميعاً وأصحابُ المنيةِ تخطرّ533
 
 Ka‘b ibn Malik Ansari recited,
 
-<blockquote dir="rtl">
-  <p>
-نامَ العيونُ ودمعُ عينكَ يهملُ سحّاً کما وکفَّ الطبابُ المخضّلُ
-  </p>
-</blockquote>
+> نامَ العيونُ ودمعُ عينكَ يهملُ سحّاً کما وکفَّ الطبابُ المخضّلُ
 
-<blockquote dir="rtl">
-  <p>
-في ليلةٍ وردتْ عليّ همومُها طوراً أحِنُّ وتارةً أتململُ
-  </p>
-</blockquote>
+> في ليلةٍ وردتْ عليّ همومُها طوراً أحِنُّ وتارةً أتململُ
 
-<blockquote dir="rtl">
-  <p>
-صبروا بموتةِ للإلهِ نفوسَهُم حذَر الردی ومخافةً ان ينکلوا
-  </p>
-</blockquote>
+> صبروا بموتةِ للإلهِ نفوسَهُم حذَر الردی ومخافةً ان ينکلوا
 
 > اذ يهتدونَ بجعفرٍ ولوائهٍ قدّامَ اوّلهِمِ فنعمَ الاوّلُ534
 
@@ -282,21 +194,13 @@ end, Khabib was given over to the people of Mecca, who hanged him.
 
 Hassan recited the following about these six martyrs,
 
-<blockquote dir="rtl">
-  <p>
-صلّی الإلهُ على الذينَ تتابعوا يومَ الرجيعِ فأکرموا واثيبوا
-  </p>
-</blockquote>
+> صلّی الإلهُ على الذينَ تتابعوا يومَ الرجيعِ فأکرموا واثيبوا
 
 > رأسُ السريةِ مرثدُ واميرُهُم وابُن البکيرِ امامُهُم وخُبيبُ535
 
 And then, while crying, he said,
 
-<blockquote dir="rtl">
-  <p>
-ما بالُ عينك لا ترقْأ مدامِعُها سحّاً على الصدرِ مثلَ الؤلؤِ القلقِ
-  </p>
-</blockquote>
+> ما بالُ عينك لا ترقْأ مدامِعُها سحّاً على الصدرِ مثلَ الؤلؤِ القلقِ
 
 > على خُبيبٍ فتی الفتيانِ قد علمِوا لا فشلُ حتّى تلقاهُ ولا نزقِ536
 
@@ -312,11 +216,7 @@ A man from among the Helpers [*ansar*] says this about Sa‘d,
 
 Hassan ibn Thabit, while mourning Sa‘d, recited,
 
-<blockquote dir="rtl">
-  <p>
-لقد سجمتْ من دمعِ عينيَّ عبرةٌ وحقَّ لعيني أن تفيضَ على سعدِ
-  </p>
-</blockquote>
+> لقد سجمتْ من دمعِ عينيَّ عبرةٌ وحقَّ لعيني أن تفيضَ على سعدِ
 
 > قتيلٌ ثوی في معركٍ فجعتْ بهِ عيونُ ذواري الدمعِ دائمةُ الوجدِ539
 
@@ -335,11 +235,7 @@ tribes, killed the remaining Muslims. ‘Abd Allah ibn Rawahah grieved for
 Nafi‘ ibn Badil ibn Warqa’ Khaza‘i, who was among the martyrs and
 recited,
 
-<blockquote dir="rtl">
-  <p>
-رحَم اللهُ نافَع بَن بديلِ رحمةَ المبتغي ثوابَ الجهادِ
-  </p>
-</blockquote>
+> رحَم اللهُ نافَع بَن بديلِ رحمةَ المبتغي ثوابَ الجهادِ
 
 > صابرٌ صادقٌ وفيٌّ اذا ما أکثَر القومُ قالَ قولَ السدادِ540
 
@@ -351,11 +247,7 @@ While grieving over them, Hassan ibn Thabit recites,
 
 When ‘Uthman ibn Maz‘un passed away, his wife said this about him,
 
-<blockquote dir="rtl">
-  <p>
-يا عينُ جودي بدمعٍ غيرِ ممنونِ على رزيّةِ عثمانَ بنِ مظعونِ
-  </p>
-</blockquote>
+> يا عينُ جودي بدمعٍ غيرِ ممنونِ على رزيّةِ عثمانَ بنِ مظعونِ
 
 > على أمري کانَ في رضوانِ خالقهِِ طوبي لهُ من فقيدِ الشخصِ مدفونِ542
 
@@ -363,11 +255,7 @@ When ‘Uthman ibn Maz‘un passed away, his wife said this about him,
 
 Umm Salamah, the Prophet’s (S) wife, while grieving for Walid, recited,
 
-<blockquote dir="rtl">
-  <p>
-ألا يا ليتَ امّي لم تلدْني ولم اكُ في الغزاةِ لدی البقيعِ
-  </p>
-</blockquote>
+> ألا يا ليتَ امّي لم تلدْني ولم اكُ في الغزاةِ لدی البقيعِ
 
 > ولم أرَ مصرعِ بنِ الخيرِ زيدٍ وهدّتهُ هنا لكَ من صريعِ543
 
@@ -386,11 +274,7 @@ Amir al-Mu’minin Imam ‘Ali (as) stood at the tomb of Fatimah al-Zahra
 not stop the burning tears flowing from his heart. It was at this time
 that he recited,
 
-<blockquote dir="rtl">
-  <p>
-لکلَّ اجتماعٍ من خليلبنِ فرقةٌ وکلُّ الذي دونَ الممات قليلُ
-  </p>
-</blockquote>
+> لکلَّ اجتماعٍ من خليلبنِ فرقةٌ وکلُّ الذي دونَ الممات قليلُ
 
 > وإنّ افتقادي واحداً بعد واحدٍ دليلٌ على أن لا يدومُ خليلُ545
 
@@ -425,11 +309,7 @@ Marzbani narrates, “Abu al-Rajah Khaza‘i went to see Fatimah, the
 daughter of al-Husayn ibn ‘Ali (as), and recited elegies to her about
 al-Husayn, including,
 
-<blockquote dir="rtl">
-  <p>
-أجالتْ على عَيني سجائبُ عبرةٍ فلم تصحُّ بعدَ الدمعِ حتى ارمعلّتِ
-  </p>
-</blockquote>
+> أجالتْ على عَيني سجائبُ عبرةٍ فلم تصحُّ بعدَ الدمعِ حتى ارمعلّتِ
 
 > تبکي على آلِ النبيَّ محمّدٍ ما اکثرتْ في الدمعِ لا بلْ اقلّتِ548
 
@@ -441,23 +321,11 @@ and weeping. At this time, Zaynab (as), the daughter of ‘Ali ibn Abi
 Talib (as), cried out sorrowfully, “O al-Husayn! O my brother! O members
 of my Household! O Muhammad!” Then, she recited prose saying,
 
-<blockquote dir="rtl">
-  <p>
-ماذا تقولونَ إذ قالَ النبيُّ لکمْ ماذا فعلتْم وانتْم آخرُ الأممِ
-  </p>
-</blockquote>
+> ماذا تقولونَ إذ قالَ النبيُّ لکمْ ماذا فعلتْم وانتْم آخرُ الأممِ
 
-<blockquote dir="rtl">
-  <p>
-بأهلِ بيتي وأولادي أما لکُمُ عهُد أما أنتمُ توفونَ بالذّممِ
-  </p>
-</blockquote>
+> بأهلِ بيتي وأولادي أما لکُمُ عهُد أما أنتمُ توفونَ بالذّممِ
 
-<blockquote dir="rtl">
-  <p>
-ذريتي وبنو عمّي بمضيعةٍ منهمْ أساری ومنهمْ ضرّجوا بدمِ
-  </p>
-</blockquote>
+> ذريتي وبنو عمّي بمضيعةٍ منهمْ أساری ومنهمْ ضرّجوا بدمِ
 
 > ما کانَ هذا جزاءي اذ نَصحتُ لکُمْ أن تخلفوني بسوءٍ في ذوي رَحمي549
 
@@ -466,23 +334,11 @@ of my Household! O Muhammad!” Then, she recited prose saying,
 Ibn ‘Affan was one of the companions of Imam al-Sadiq (as). He eulogizes
 Imam al-Husayn (as) in this way,
 
-<blockquote dir="rtl">
-  <p>
-لبّيكِ على الاسلامِ من کانَ باکياً فقد ضُيّعتْ احکامُهُ واستحلّتِ
-  </p>
-</blockquote>
+> لبّيكِ على الاسلامِ من کانَ باکياً فقد ضُيّعتْ احکامُهُ واستحلّتِ
 
-<blockquote dir="rtl">
-  <p>
-غداةَ حسينٌ للرماحِ دريئةٌ وقد نهلَتْ منهُ السيوفُ وعلّتِ
-  </p>
-</blockquote>
+> غداةَ حسينٌ للرماحِ دريئةٌ وقد نهلَتْ منهُ السيوفُ وعلّتِ
 
-<blockquote dir="rtl">
-  <p>
-وغودِر في الصحراءِ لحماً مبدّداً وقد نهلتْ منهُ السيوفُ وعلّتِ
-  </p>
-</blockquote>
+> وغودِر في الصحراءِ لحماً مبدّداً وقد نهلتْ منهُ السيوفُ وعلّتِ
 
 > فما نصرتْه أمّةُ السوءِ اذ دَعا لقد طاشتِ الاحلامُ منها وضلّتِ550
 
@@ -494,59 +350,23 @@ al-Qasim Fadl ibn Muhammad Mustamla, who quotes Qadi Abu Bakr Sahl ibn
 Muhammad, from Abu al-Qasim Bakran ibn Tayyib that news reached him that
 Shafi‘i used to recite the following,
 
-<blockquote dir="rtl">
-  <p>
-تأوّبَ همّي والفؤادُ کئيبُ وأرّقَ عيني والرقادُ غريبُ
-  </p>
-</blockquote>
+> تأوّبَ همّي والفؤادُ کئيبُ وأرّقَ عيني والرقادُ غريبُ
 
-<blockquote dir="rtl">
-  <p>
-وممّا نفی نومي وشيّبَ لُمّتي تصاريفُ ايّام لهنَّ خطوبُ
-  </p>
-</blockquote>
+> وممّا نفی نومي وشيّبَ لُمّتي تصاريفُ ايّام لهنَّ خطوبُ
 
-<blockquote dir="rtl">
-  <p>
-تزلزلتِ الدنيا لآلِ محمدّ ٍ وکادتْ لهمْ صمُّ الجبالِ تذوبُ
-  </p>
-</blockquote>
+> تزلزلتِ الدنيا لآلِ محمدّ ٍ وکادتْ لهمْ صمُّ الجبالِ تذوبُ
 
-<blockquote dir="rtl">
-  <p>
-وغارتْ نجومٌ واقشعرّتْ ذوائبٌ وهتّكَ استارٌ وشقَّ جيوبُ
-  </p>
-</blockquote>
+> وغارتْ نجومٌ واقشعرّتْ ذوائبٌ وهتّكَ استارٌ وشقَّ جيوبُ
 
-<blockquote dir="rtl">
-  <p>
-فَللنصلِ إعوالٌ وللرّمحِ رنّةٌ وللخيلِ من بعدِ الصّهيلِ نحيبُ
-  </p>
-</blockquote>
+> فَللنصلِ إعوالٌ وللرّمحِ رنّةٌ وللخيلِ من بعدِ الصّهيلِ نحيبُ
 
-<blockquote dir="rtl">
-  <p>
-فمنْ مبلغٌ عنيّ الحسينَ رسالةً وإن کرهتْها انفسٌ وقلوبُ
-  </p>
-</blockquote>
+> فمنْ مبلغٌ عنيّ الحسينَ رسالةً وإن کرهتْها انفسٌ وقلوبُ
 
-<blockquote dir="rtl">
-  <p>
-قتيلٌ بِلا جرمٍ کأنّ قصيصَهُ صبيغٌ بماءِ الأُرجوانِ خضيبُ
-  </p>
-</blockquote>
+> قتيلٌ بِلا جرمٍ کأنّ قصيصَهُ صبيغٌ بماءِ الأُرجوانِ خضيبُ
 
-<blockquote dir="rtl">
-  <p>
-يُصلّي على المختارِ منْ آلِ هاشمٍ ويغزي بنوهُ اٍنّ ذا لعجيبُ
-  </p>
-</blockquote>
+> يُصلّي على المختارِ منْ آلِ هاشمٍ ويغزي بنوهُ اٍنّ ذا لعجيبُ
 
-<blockquote dir="rtl">
-  <p>
-لئنْ کانَ ذنبي حبُّ آلِ محمّدٍ فذلكَ ذنبٌ لستُ عنهُ أتوبُ
-  </p>
-</blockquote>
+> لئنْ کانَ ذنبي حبُّ آلِ محمّدٍ فذلكَ ذنبٌ لستُ عنهُ أتوبُ
 
 > همُ شفعائي يومَ حشري وموقفي وحبُّهُمُ للشافعيَّ ذنوبُ551
 
@@ -557,23 +377,11 @@ Zarandi recounts that Amir Adid al-Din Muhammad ibn ‘Ali ibn Ahmad ibn
 al-Husayn ibn ‘Ali (as) and his household (as) that are as lucid as
 water, rather even more subtle and exquisite, such as the following,
 
-<blockquote dir="rtl">
-  <p>
-بدتْ کربلا ملأی من الکربِ والبَلا فقوما معي في ارضِها وقِفا نبکي
-  </p>
-</blockquote>
+> بدتْ کربلا ملأی من الکربِ والبَلا فقوما معي في ارضِها وقِفا نبکي
 
-<blockquote dir="rtl">
-  <p>
-بها قتلوا سبطَ النبيَّ محمدٍ وباعوا هذاكَ الرّشدِ بالمالِ والمُلكِ
-  </p>
-</blockquote>
+> بها قتلوا سبطَ النبيَّ محمدٍ وباعوا هذاكَ الرّشدِ بالمالِ والمُلكِ
 
-<blockquote dir="rtl">
-  <p>
-وضاعتْ دماءٌ بالعراقِ عزيزةٌ مکرّمةٌ اذ کانَ راماً من المسكِ
-  </p>
-</blockquote>
+> وضاعتْ دماءٌ بالعراقِ عزيزةٌ مکرّمةٌ اذ کانَ راماً من المسكِ
 
 > فياويلَ اقوامٍ طغاةٍ تعرّضوا لتلكَ الدماءِ الفاطمياتِ بالسفكِ552
 
@@ -582,11 +390,7 @@ water, rather even more subtle and exquisite, such as the following,
 Sibt ibn Jawzi narrates from his grandfather that he used to recite
 elegies when grieving for Imam al-Husayn, some parts of which read,
 
-<blockquote dir="rtl">
-  <p>
-ولمّا رأَوا بعضَ الحياة مذلّةً عليهِمْ وعزَّ الموت غَير محرّمِ
-  </p>
-</blockquote>
+> ولمّا رأَوا بعضَ الحياة مذلّةً عليهِمْ وعزَّ الموت غَير محرّمِ
 
 > أبَوا أن يذوقوا العيشَ والذلُّ واقعٌ عليهِ وماتوا ميتةً لم تذمّمِ553
 
@@ -598,29 +402,13 @@ Rubab, the wife of Imam al-Husayn (as). She refused the proposal, and
 said, ‘After the Prophet’s child, I will never marry anyone.’ Then, she
 recited these verses while grieving for Imam al-Husayn (as),
 
-<blockquote dir="rtl">
-  <p>
-إنّ الذي کانَ يستضاء به بکربلاء قتيلٌ غيرُ مدفونِ
-  </p>
-</blockquote>
+> إنّ الذي کانَ يستضاء به بکربلاء قتيلٌ غيرُ مدفونِ
 
-<blockquote dir="rtl">
-  <p>
-سبطُ النبيَّ جزاكَ اللهُ صالحةً عنّا وجنّبتَ خسرانَ الموازينِ
-  </p>
-</blockquote>
+> سبطُ النبيَّ جزاكَ اللهُ صالحةً عنّا وجنّبتَ خسرانَ الموازينِ
 
-<blockquote dir="rtl">
-  <p>
-قد کنتَ لي جبلاً صعباً ألوذُ بهِ وکنتَ تصحُبنا بالرّحمِ والدينِ
-  </p>
-</blockquote>
+> قد کنتَ لي جبلاً صعباً ألوذُ بهِ وکنتَ تصحُبنا بالرّحمِ والدينِ
 
-<blockquote dir="rtl">
-  <p>
-من لليتامی ومن للسائلينَ ومَنْ يُغني ويُؤوي اليهِ کلِّ مسکينِ
-  </p>
-</blockquote>
+> من لليتامی ومن للسائلينَ ومَنْ يُغني ويُؤوي اليهِ کلِّ مسکينِ
 
 > واللهِ لا أبتغي صِهراً بصحرِکُمُ حتى أُغيّبَ بينَ الرملِ والطينِ554
 
@@ -660,38 +448,17 @@ place of Imam al-Husayn (as) and his companions and asked forgiveness.
 He then set out for Mada’in. In a eulogy of the massacred martyrs he
 said,
 
-<blockquote dir="rtl">
-  <p>
-يقول أميرٌ غادرٌ وابنُ غادرٍ ألا کنتُ قابلتُ الشهيدَ بنَ فاطمهْ
-  </p>
-</blockquote>
+> يقول أميرٌ غادرٌ وابنُ غادرٍ ألا کنتُ قابلتُ الشهيدَ بنَ فاطمهْ
 
-<blockquote dir="rtl">
-  <p>
-ونفسي على خذلانِهِ واعتزالهِ وبيعةِ هذا الناکثِ العهد لائمهْ
-  </p>
-</blockquote>
+> ونفسي على خذلانِهِ واعتزالهِ وبيعةِ هذا الناکثِ العهد لائمهْ
 
-<blockquote dir="rtl">
-  <p>
-فيا ندمي أن لا اکونَ نصرتُهُ ألا کلُّ نفسٍ لا تسدَّدَ نادمهْ
-  </p>
-</blockquote>
+> فيا ندمي أن لا اکونَ نصرتُهُ ألا کلُّ نفسٍ لا تسدَّدَ نادمهْ
 
-<blockquote dir="rtl">
-  <p>
-ويا ندمي أن لم أکنْ من حماتِهِ لذو حسرةٍ ما أن تفارقَ لازمهْ
-  </p>
-</blockquote>
+> ويا ندمي أن لم أکنْ من حماتِهِ لذو حسرةٍ ما أن تفارقَ لازمهْ
 
-<blockquote dir="rtl">
-  <p>
-سقی اللهُ ارواحَ الذينَ تآزروا على نصرِهِ سقياً من الغيثِ دائمهْ
-  </p>
-</blockquote>
+> سقی اللهُ ارواحَ الذينَ تآزروا على نصرِهِ سقياً من الغيثِ دائمهْ
 
 > وقفتُ على اجداثِهِمْ ومجالِهِمْ فکادَ الحشی ينفضُّ والعينُ ساجمهْ555
 
 [^1]: Maqatil al-Talibiyyin, p. 90.
-
 

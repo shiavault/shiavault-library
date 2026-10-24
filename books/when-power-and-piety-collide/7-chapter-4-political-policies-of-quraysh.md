@@ -1,12 +1,8 @@
 Chapter 4: Political Policies of Quraysh
 ========================================
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلاَةَ
-وَأَمْرُهُمْ شُورىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ 
-  </p>
-</blockquote>
+> وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلاَةَ
+> وَأَمْرُهُمْ شُورىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ 
 
 ***Those who hearken to their Lord, and establish regular prayer; who
 (conduct) their affairs by mutual consultation; who spend out of what We
@@ -361,5 +357,4 @@ Al-Kamil fil-Tarikh, 3:63; Ibn Abil Hadid, Sharh Nahjul-Balaghah, 3:107
 [^18]: Holy Qur’an, 28:68
 
 [^19]: Holy Qur’an, 33:33
-
 

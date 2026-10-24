@@ -5,9 +5,7 @@ The object of the revelation of the Qur'an to the Apostle(Muhammad)The
 believers and the disbelievers in the Turah and the reward and the
 punishment.
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمنِ الرَّحيمِ
-</p>
 
 (1) الر تِلْكَ آياتُ الْكِتابِ الْحَكيمِ
 
@@ -35,7 +33,6 @@ itself is Wise. Simultaneously, while it contains both teachings of
 wisdom and is wise in content, it is a judge and an arbitrator as well.
 It remains intact from hostile elements and history and the passage of
 time can leave no impact upon it. It is "the Book of Wisdom".
-
 
 **Commentary : Verse 2**
 
@@ -83,7 +80,6 @@ The disbelievers considered prophecy as sorcery and, because of their
 short sightedness, dark heartedness, and lack of understanding, they
 could mostly not grasp the truth and distinguish the difference between
 miracles and the work of magicians.
-
 
 **Commentary : Verse 3**
 
@@ -160,7 +156,6 @@ concludes:
 
 7. Deity is not separate from Lordship.
 
-
 **Commentary : Verse 4**
 
 (4) إِلَيْهِ مَرْجِعُكُمْ جَميعاً وَعْدَ اللَّهِ حَقًّا إِنَّهُ
@@ -194,5 +189,4 @@ Therefore, those who are believers and have done good deeds will be
 rewarded in a just manner, leading them to Paradise. The share of the
 unbelievers will be a burning liquid made of boiling water that will
 torture them painfully and they will be kept in Hell forever.
-
 

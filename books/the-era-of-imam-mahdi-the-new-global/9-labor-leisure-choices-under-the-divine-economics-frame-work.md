@@ -29,7 +29,6 @@ implications on different aspects of wellbeing. Secondly the paper would
 estimate the leisure choices using the Divine Economics framework of
 Hamdani (2003) and Hamdani et.al (2004) for resource allocation.
 
-
 **Theoretical Background**
 
 Conventional concept of human being as an economic agent is very
@@ -168,7 +167,6 @@ would be a wrong criteria for positive analysis, and basing policy
 recommendations on even less then 12 % of the sample would be a
 statistical nightmare.
 
-
 **Economics of well-being**
 
 The above discussion leads us to further investigate that what are the
@@ -250,5 +248,4 @@ parsimony. Especially for a learned preparation of welcoming Our Imam of
 the time (Mahdi, A.S) requires us to find such a global optima for
 dynamic and static resource allocation equilibrium which confers to the
 totality of individual optimization process of her well-being.
-
 

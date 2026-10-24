@@ -58,13 +58,9 @@ through them Imam's personality in the Messenger's eyes can be imagined.
 
 Abu Sa'id Khudri said,
 
-<blockquote dir="rtl">
-  <p>
-كان لعلي من النبي (ص) دخلة ليست لأحد وكان للنبي (ص) من علي دخلة ليست
-لأحد غيره فكانت دخلة النبي (ص) من علي ان النبي (ص) كان يدخل عليهم كل
-يوم
-  </p>
-</blockquote>
+> كان لعلي من النبي (ص) دخلة ليست لأحد وكان للنبي (ص) من علي دخلة ليست
+> لأحد غيره فكانت دخلة النبي (ص) من علي ان النبي (ص) كان يدخل عليهم كل
+> يوم
 
 “No one met the prophet more than 'Ali, so did the Prophet. The
 Prophet's meeting was to come up to them every day.” [^8]
@@ -113,8 +109,6 @@ other companions? He answered,
 
 لأني كنت إذا سألته أنبأني وإذا سكتّ ابتدأني “
 
-  
-
 Because When I asked the Messenger a question, He taught me the
 knowledge and when I kept silent, he started to speak himself.”[^21]
 
@@ -134,11 +128,7 @@ the wrist with the arm.”[^24]
 He said, “I followed the Messenger just as a baby camel follows its
 mother.”[^25]
 
-<blockquote dir="rtl">
-  <p>
-إني لم أردّ على الله ولا على رسوله ساعة قطّ
-  </p>
-</blockquote>
+> إني لم أردّ على الله ولا على رسوله ساعة قطّ
 
 “I never disobeyed God or his Messenger at all.”[^26]
 
@@ -193,11 +183,7 @@ sons,'Ali (a) and Ja’far did.”[^34]Once somebody complained to the
 Prophet about 'Ali (a) and he stated three times, Leave 'Ali (a)
 alone.[^35]
 
-<blockquote dir="rtl">
-  <p>
-فإن علياً مني وأنا منه وهو ولي كل مومن
-  </p>
-</blockquote>
+> فإن علياً مني وأنا منه وهو ولي كل مومن
 
 ”'Ali is from me and I am from him; he is guardian of every faithful.”
 
@@ -361,13 +347,9 @@ truth brought this about. Afterwards, these conquests were attributed to
 strategy and thought of emirs. Among them, some were magnified and some
 others were forgotten,
 
-<blockquote dir="rtl">
-  <p>
-فكنا ممن خمل ذكره وخبت ناره وانقطع صوته وصيته، حتى أكل الدهر علينا
-وشرب، ومضت السنون والاحقاب بما فيها، ومات كثير ممن يعرف ونشأ كثير ممن
-لا يعرف “
-  </p>
-</blockquote>
+> فكنا ممن خمل ذكره وخبت ناره وانقطع صوته وصيته، حتى أكل الدهر علينا
+> وشرب، ومضت السنون والاحقاب بما فيها، ومات كثير ممن يعرف ونشأ كثير ممن
+> لا يعرف “
 
 We were from someone whose memory was last whose luminosity was cut and
 whose outcry was stopped as if time swallowed us. Years passed this way,
@@ -438,12 +420,8 @@ but you refrain me from having it”.[^68]
 
 Imam made reasoning of this kind a lot,
 
-<blockquote dir="rtl">
-  <p>
-يا معشر قريش! إنا أهل البيت أحق بهذا الامر منكم، أما كان فينا من يقرء
-القرآن ويعرف السنّة ويدين بدين الحق؟
-  </p>
-</blockquote>
+> يا معشر قريش! إنا أهل البيت أحق بهذا الامر منكم، أما كان فينا من يقرء
+> القرآن ويعرف السنّة ويدين بدين الحق؟
 
 O Quraysh people! We, Ahl al-Bayt deserve more than you in caliphate!
 Are there no people among us who read Qur'an and follow Sunna and true
@@ -493,11 +471,7 @@ as to a necessity and preservation of unity among Muslims.[^73]
 Imam referred to Aaron's speech in front of Moses(a) for justifying his
 silence, Aaron said,
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي خَشِيتُ أَنْ تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ.
-  </p>
-</blockquote>
+> إِنِّي خَشِيتُ أَنْ تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ.
 
 “I feared lest thou shouldst say: Thou hast caused division among the
 Children of Israel.”[^74]
@@ -508,8 +482,6 @@ Imam said of Saqifa,
 **
 
 بل عرفت أنّ حقي هو المأخوذ وقد تركته لهم، تجاوز الله عنهم “
-
-  
 
 When I learned I am withdrawn with my rights, I left to them, may God
 punish them.”[^75]
@@ -613,12 +585,8 @@ Ibn 'Abbas replied, “They abominated what God had sent down.”[^79]
 
 Opposing Mu'awiya, Darimiyya Hajuniyya said,
 
-<blockquote dir="rtl">
-  <p>
-واليت عليًا على حبّه المساكين وإعطائه أهل السبيل وفقهه في الدين وبذله
-الحق من نفسه وما عقد له رسول الله من الولاية “
-  </p>
-</blockquote>
+> واليت عليًا على حبّه المساكين وإعطائه أهل السبيل وفقهه في الدين وبذله
+> الحق من نفسه وما عقد له رسول الله من الولاية “
 
 He loved 'Ali because the Messenger confined the sainthood to him.”[^80]
 
@@ -640,15 +608,11 @@ Shi'a”.
 Abu Dharr, passed away at 'Uthman's time, called people toward the
 People of House and commemorated Prophet's family this way,
 
-<blockquote dir="rtl">
-  <p>
-ايها الناس! إن آل محمد هم الأسرة من نوح والآل من إبراهيم والصفوة
-والسلالة من إسماعيل والعترة الطيبة الهادية من محمد، فأنزلوا آل محمد
-بمنـزلة الرأس من الجسد بل بمنـزلة العينين من الرأس فانهم منكم كالسماء
-المرفوعة وكالجبال المنصوبة والشمس الضاحية وكالشجرة الزيتونة اضاء زيتها
-وبورك زندها “
-  </p>
-</blockquote>
+> ايها الناس! إن آل محمد هم الأسرة من نوح والآل من إبراهيم والصفوة
+> والسلالة من إسماعيل والعترة الطيبة الهادية من محمد، فأنزلوا آل محمد
+> بمنـزلة الرأس من الجسد بل بمنـزلة العينين من الرأس فانهم منكم كالسماء
+> المرفوعة وكالجبال المنصوبة والشمس الضاحية وكالشجرة الزيتونة اضاء زيتها
+> وبورك زندها “
 
 The family of Muhammad (S), is the family of Noah and Ibraham and the
 selected progeny of Isma'il and saint posterity. Regard them as the head
@@ -695,22 +659,14 @@ forward to four men, Salman, Abu Dharr, Miqdad and 'Ammar.[^88]
 Describing 'Ali, Umm Sanan, the daughter of Khaythama Ibn Kharasha,
 composed this,
 
-<blockquote dir="rtl">
-  <p>
-قدكنت بعد محمد خلفاً لنا أوصى إليك بنا فكنت وفيا
-  </p>
-</blockquote>
+> قدكنت بعد محمد خلفاً لنا أوصى إليك بنا فكنت وفيا
 
 “You are Muhammad's remainder to us, He made his will to thee about us
 and thou art the faithful.”[^89]
 
 Inciting 'Ali's troops at Siffin,Umm al-Khayr said,
 
-<blockquote dir="rtl">
-  <p>
-هلموا رحمكم الله إلى الإمام العدل والتقي الوفي والصديق الوصي
-  </p>
-</blockquote>
+> هلموا رحمكم الله إلى الإمام العدل والتقي الوفي والصديق الوصي
 
 “May God bless you. Hasten toward the sincere, pious and just
 successor.”[^90]
@@ -729,21 +685,13 @@ successor of the successors” and “The heir of Prophets' knowledge.”[^92]
 
 In Siffin, he composed this,
 
-<blockquote dir="rtl">
-  <p>
-من رآى عزة الوصيّ عليّ إنه في دجى الحنادس نور
-  </p>
-</blockquote>
+> من رآى عزة الوصيّ عليّ إنه في دجى الحنادس نور
 
 “Everyone knows 'Ali, the chief successor, he is the very man who
 illuminates dark night.” [^93]  
  Lamenting over 'Ali's martyrdom, Umm 'Irban said,
 
-<blockquote dir="rtl">
-  <p>
-وكنا قبل مقتله بخير نرى مولى رسول الله فينا
-  </p>
-</blockquote>
+> وكنا قبل مقتله بخير نرى مولى رسول الله فينا
 
 “We had a good life before he was killed because we stayed with the
 Messenger (S).” [^94]
@@ -754,23 +702,11 @@ leadership. For instance, the poems of Qays Ibn Sa'd Ibn
  'Ubada, Hassan Ibn Thabit as well as Imam 'Ali himself.[^95] Qays Ibn
 Sa'd composed this about Ghadir:
 
-<blockquote dir="rtl">
-  <p>
-وعـليّ إمامـنا وإمـام لسـوانا أتى به التنـزيل
-  </p>
-</blockquote>
+> وعـليّ إمامـنا وإمـام لسـوانا أتى به التنـزيل
 
-<blockquote dir="rtl">
-  <p>
-يوم قال النبي من كنت مولا ه فهذا مولاه خطب جليل
-  </p>
-</blockquote>
+> يوم قال النبي من كنت مولا ه فهذا مولاه خطب جليل
 
-<blockquote dir="rtl">
-  <p>
-انّ ما قاله النبيّ على الأمـ ة حتم ما فيـه قال وقيل
-  </p>
-</blockquote>
+> انّ ما قاله النبيّ على الأمـ ة حتم ما فيـه قال وقيل
 
 ”'Ali is our Imam and everyone's, he is the one who has introduced
 Qur'an  
@@ -780,17 +716,9 @@ whomever I am his lord”
 
 Hassan Ibn Thabit also composed this one about the same,
 
-<blockquote dir="rtl">
-  <p>
-يناديهـم يوم الغدير نبيهم بخــم واسمع بالرسول مناديا
-  </p>
-</blockquote>
+> يناديهـم يوم الغدير نبيهم بخــم واسمع بالرسول مناديا
 
-<blockquote dir="rtl">
-  <p>
-فقال له قم يا علي فاننـي جعلتك من بعدي اماما وهاديا
-  </p>
-</blockquote>
+> فقال له قم يا علي فاننـي جعلتك من بعدي اماما وهاديا
 
 “Their Prophet called them to obey God at Ghadir Khum, a great herald
 whose call must be heard  
@@ -828,11 +756,7 @@ composed a poem about the content of Ghadir Tradition, in which he has
 interpreted the mentioned tradition as indicating the necessity of
 sainthood over people.
 
-<blockquote dir="rtl">
-  <p>
-فأوجب لي ولايته عليكم رسول الله يوم غدير خم
-  </p>
-</blockquote>
+> فأوجب لي ولايته عليكم رسول الله يوم غدير خم
 
 “The Messenger (S) deemed his sainthood for you obligatory on the of
 Ghadir Khum.”[^103]
@@ -980,14 +904,10 @@ powerful.”[^115]
 
 Elsewhere he states:
 
-<blockquote dir="rtl">
-  <p>
-فأين تذهبون وأنى توفكون والأعلام قائمة والآيات واضحة والمنار منصوبة
-فأين يتاه بكم بل كيف تعمهون وبينكم عترة نبيكم وهم أزمة الحق وأعلام
-الدين وألسنة الصدق فأنزلوهم بأحسن منازل القرآن وردوهم ورود الهيم
-العطاش “
-  </p>
-</blockquote>
+> فأين تذهبون وأنى توفكون والأعلام قائمة والآيات واضحة والمنار منصوبة
+> فأين يتاه بكم بل كيف تعمهون وبينكم عترة نبيكم وهم أزمة الحق وأعلام
+> الدين وألسنة الصدق فأنزلوهم بأحسن منازل القرآن وردوهم ورود الهيم
+> العطاش “
 
 Where are you going and when are you due to return? The landmarks are
 fixed, beacons are lighted and direction indicators are set up. To what
@@ -1094,11 +1014,7 @@ rebutted or his signs overlooked.”[^124]
 In a letter to the one in charge of collecting alms, Imam included
 instructions for treating people and telling them,
 
-<blockquote dir="rtl">
-  <p>
-عبادالله! أرسلني ولي الله وخليفته لآخذ منكم حق الله في أموالكم
-  </p>
-</blockquote>
+> عبادالله! أرسلني ولي الله وخليفته لآخذ منكم حق الله في أموالكم
 
 “O servants of God! The vicegerent of God and His caliph sent me to you
 for collecting God's share in your properties.”[^125]
@@ -1133,11 +1049,7 @@ father while 'Ali about whom God said, **عليّ وليّ كل مؤمن ومؤ�
  Umm Salama replied, “You may have not, but your aunt, 'Ayisha, has.”  
  I myself heard the Messenger saying,
 
-<blockquote dir="rtl">
-  <p>
-عليّ خليفتي عليكم في حياتي ومماتي فمن عصاه فقد عصاني
-  </p>
-</blockquote>
+> عليّ خليفتي عليكم في حياتي ومماتي فمن عصاه فقد عصاني
 
 Alive or dead, I place 'Ali as my caliph to you, so whoever disobeys
 him, he has disobeyed me.” 'Ayisha has also confirmed this.[^127]
@@ -1154,17 +1066,9 @@ enemies. There is a poem quoted from one of Imam's adherents who
 compared his pledge to that of early caliphs to prove his rightfulness
 and public commitments to him,
 
-<blockquote dir="rtl">
-  <p>
-له في رقاب النـاس عهد وذمـة كعهد ابي حفص وعهد ابي بكر
-  </p>
-</blockquote>
+> له في رقاب النـاس عهد وذمـة كعهد ابي حفص وعهد ابي بكر
 
-<blockquote dir="rtl">
-  <p>
-فبايع ولا ترجع علي العقب كافراً أعـيذك بالله العزيز من الكفر
-  </p>
-</blockquote>
+> فبايع ولا ترجع علي العقب كافراً أعـيذك بالله العزيز من الكفر
 
 “People owe him just as 'Umar and Abu Bakr do. So swear an allegiance
 and avoid infidelity, do you excuse yourself in atheism!” [^128]
@@ -1216,11 +1120,7 @@ had killed him while he believed in 'Ali.
 
 Opposing 'Ammar he composed this:
 
-<blockquote dir="rtl">
-  <p>
-لا تبرح العرصة يا بن اليثربي حتى اقاتلك على دين علي
-  </p>
-</blockquote>
+> لا تبرح العرصة يا بن اليثربي حتى اقاتلك على دين علي
 
 “O Yathrib-born! Leave not the battlefield so that I might fight you by
 relying on 'Ali's religion.” [^132]
@@ -1228,32 +1128,20 @@ relying on 'Ali's religion.” [^132]
 ”'Uthman's religion” was coined versus ”'Ali's religion”. A poet from
 Damascus, told about the Damascus army:
 
-<blockquote dir="rtl">
-  <p>
-ثمانين الف “دين عثمان” دينهم كتائب فيها جبرئيل يقودها
-  </p>
-</blockquote>
+> ثمانين الف “دين عثمان” دينهم كتائب فيها جبرئيل يقودها
 
 “80 thousands are those whose religion is that of 'Uthman's, troops who
 are led by Gabriel.” [^133]
 
 A poet participating in Siffin, introduced himself this way,
 
-<blockquote dir="rtl">
-  <p>
-انا ابن ارباب الملوك غسان والدائن اليوم به دين عثمان
-  </p>
-</blockquote>
+> انا ابن ارباب الملوك غسان والدائن اليوم به دين عثمان
 
 “I am son of king of kings and today I follow 'Uthman's religion.”
 [^134]  
  In a poem Rufa'a Ibn shaddad told,
 
-<blockquote dir="rtl">
-  <p>
-انا ابن شداد على “دين علي” لست لعثمان بن اروى بولي
-  </p>
-</blockquote>
+> انا ابن شداد على “دين علي” لست لعثمان بن اروى بولي
 
 “I am Ibn Shaddad, a follower of 'Ali's religion and never am I guardian
 of 'Uthman Ibn 'Arwa.” [^135]
@@ -1831,11 +1719,7 @@ Prophet's biography spoke of his fiscal policy and called virtue of
 Muhajir and Ansar superior over others, that is kept and rewarded by
 God.
 
-<blockquote dir="rtl">
-  <p>
-وإني حاملكم على منهج نبيكم صلى الله عليه وآله
-  </p>
-</blockquote>
+> وإني حاملكم على منهج نبيكم صلى الله عليه وآله
 
 But in this world, anyone who accepts call of God and His Messenger (S)
 and becomes a Muslim and pray before Qibla, he will benefit from all
@@ -1866,11 +1750,7 @@ the Book out of wrath. Imam came down the pulpit and after rendering two
 units of pray sat with Talha and Zubayr on the corner of mosque. These
 two people spoke of first, Imam's not consulting with them and second,
 
-<blockquote dir="rtl">
-  <p>
-خلافك عمر بن الخطاب في القسم
-  </p>
-</blockquote>
+> خلافك عمر بن الخطاب في القسم
 
 A major disadvantage is that you disagree on the way of division
 comparing 'Umar. You gave our share just like that of others who took no
@@ -1985,17 +1865,9 @@ kept away from them.”[^206]
 Included in Imam's poetry, there is a piece of poem that talks about
 negating the effect of racial problems on divine and human honor,
 
-<blockquote dir="rtl">
-  <p>
-لعمرك ما الإنسـان إلاّ بـدينه فلا تترك التقوى اتكالاً علي الحسب
-  </p>
-</blockquote>
+> لعمرك ما الإنسـان إلاّ بـدينه فلا تترك التقوى اتكالاً علي الحسب
 
-<blockquote dir="rtl">
-  <p>
-فقد رفع الإسلام سلمان فارس وقد هجن الشرك الشـريف أبا لهب
-  </p>
-</blockquote>
+> فقد رفع الإسلام سلمان فارس وقد هجن الشرك الشـريف أبا لهب
 
 “Religion, swear by thy soul, brings value to man  
  Thou not for a lineage seek divine piety Whilst Abu Lahab was down for
@@ -2091,8 +1963,6 @@ and about the worldly-minded religious people said,
 **
 .
 
-  
-
 “This religion has been in the shackles of the wrong people, they moved
 forward out of passion and captured the world under the name of
 religion.”[^213]
@@ -2109,12 +1979,8 @@ inattention to the Prophet's speech Imam recorded.
 Imam 'Ali regarded doubt and scepticism among people a major cause for
 emerging civil wars among Muslims,
 
-<blockquote dir="rtl">
-  <p>
-ولكنّا إنما أصبحنا نقاتل إخواننا في الاسلام على ما دخل فيه من الزيغ
-والإعوجاج والشبهة والتأويل “
-  </p>
-</blockquote>
+> ولكنّا إنما أصبحنا نقاتل إخواننا في الاسلام على ما دخل فيه من الزيغ
+> والإعوجاج والشبهة والتأويل “
 
 We today fight our Muslim brethren because they mixed Islam with
 deviation, scepticism and distraction.”[^215]
@@ -2143,14 +2009,10 @@ its limits and failed to follow its rules.[^218]
 
 Imam also stated about corruption of the time:
 
-<blockquote dir="rtl">
-  <p>
-واعلموا رحمكم الله أنكم في زمان القائل فيه بالحق قليل واللسان عن الصدق
-كليل واللازم للحق ذليل. أهله معتكفون على العصيان، مصطلحون على الادهان،
-فتاهم عارم وشائبهم آثم وعالمهم منافق وقارئهم مماذق لا يعظم ضعيرهم
-كبيرهم ولايعول غنيهم فقيرهم “
-  </p>
-</blockquote>
+> واعلموا رحمكم الله أنكم في زمان القائل فيه بالحق قليل واللسان عن الصدق
+> كليل واللازم للحق ذليل. أهله معتكفون على العصيان، مصطلحون على الادهان،
+> فتاهم عارم وشائبهم آثم وعالمهم منافق وقارئهم مماذق لا يعظم ضعيرهم
+> كبيرهم ولايعول غنيهم فقيرهم “
 
 Know that may God bless you! You are living at a time the truth- seeker
 is little and tongue falls short of truth. Those following truth are
@@ -2224,13 +2086,9 @@ tradition as well as resuscitating the forgotten rules and positive laws
 of religion. Imam on explaining his activities for reforming the society
 says:
 
-<blockquote dir="rtl">
-  <p>
-ألم أعمل فيكم بالثقل الأكبر وأترك فيكم الثقل الاصغر وركزت فيكم راية
-الايمان ووقفتكم على حدود الحلال والحرام والبستكم العافية من عدلي
-وفرشتكم المعروف من قولي وفعلي وأريتكم كرائم الأخلاق من نفسي.
-  </p>
-</blockquote>
+> ألم أعمل فيكم بالثقل الأكبر وأترك فيكم الثقل الاصغر وركزت فيكم راية
+> الايمان ووقفتكم على حدود الحلال والحرام والبستكم العافية من عدلي
+> وفرشتكم المعروف من قولي وفعلي وأريتكم كرائم الأخلاق من نفسي.
 
 Did I not raise rule of Qur'an among you and my two offsprings - who are
 the lamp of religion path after me - and did I not leave for you the
@@ -2258,11 +2116,7 @@ Imam in his contact with 'Uthman about being clothed in a pilgrim state
 during Hajj or about doing the same in the visitation and Hajj together
 says on the tradition of the Messenger (S):
 
-<blockquote dir="rtl">
-  <p>
-ما كنت لأدع سنّة رسول الله صلى الله عليه وآله وسلم لأحد من الناس
-  </p>
-</blockquote>
+> ما كنت لأدع سنّة رسول الله صلى الله عليه وآله وسلم لأحد من الناس
 
 I never leave tradition of the Messenger (S) because of anybody.”[^225]
 
@@ -2280,22 +2134,14 @@ I was doing prayer service, Mutrif Ibn 'Abd Allah says, along with
 'Imran Ibn Husayn (one of the Prophet's companions) behind Imam 'Ali.
 After the service 'Imran held my hand and said,
 
-<blockquote dir="rtl">
-  <p>
-لقد صلى صلاة محمد، ولقد ذكّرني صلاة محمد (ص(
-  </p>
-</blockquote>
+> لقد صلى صلاة محمد، ولقد ذكّرني صلاة محمد (ص(
 
 “He performed the service like that of the Prophet's. He reminded me of
 how the Prophet said the prayers.”[^228]
 
 Abu Musa Ash'ari who performed the service just behind Imam said,
 
-<blockquote dir="rtl">
-  <p>
-ذكرنا علي بن ابي طالب صلاة النبي (ص(
-  </p>
-</blockquote>
+> ذكرنا علي بن ابي طالب صلاة النبي (ص(
 
 ”'Ali reminded us of the Prophet's prayers.”[^229]
 
@@ -2305,12 +2151,8 @@ as well.
 
 'Ammar said about the constructie measures of Imam,
 
-<blockquote dir="rtl">
-  <p>
-لو أن علياً لم يعمل عملاً ولم يصنع شيئاً الا أنه أحيا التكبيرتين عند
-السجود لكان قد أصاب بذلك فضلاً عظيماً '
-  </p>
-</blockquote>
+> لو أن علياً لم يعمل عملاً ولم يصنع شيئاً الا أنه أحيا التكبيرتين عند
+> السجود لكان قد أصاب بذلك فضلاً عظيماً '
 
 ‘Ali has done nothing but reviving two “Allah Akbar” when prostrating
 back, for this, he has achieved a high virtue.”[^230]
@@ -2367,11 +2209,7 @@ the policy Imam adopted during his caliphate.
 
 Another poet, addressing Imam, composed this:
 
-<blockquote dir="rtl">
-  <p>
-أوضحت من ديننا ما كان مشتبها جزاك ربك عنا فيه إحسانا
-  </p>
-</blockquote>
+> أوضحت من ديننا ما كان مشتبها جزاك ربك عنا فيه إحسانا
 
 “What was skeptical is now clarified by you, may God grant thee virtues
 and benevolence.”[^241]  
@@ -2410,11 +2248,7 @@ they are good ones”.
 
 Imam was not willing to cheat in the field of religion and he said,
 
-<blockquote dir="rtl">
-  <p>
-والله لا أدهنت في ديني “
-  </p>
-</blockquote>
+> والله لا أدهنت في ديني “
 
 I swear by God I never cheated in the field of religion.”[^251]
 
@@ -2755,11 +2589,7 @@ Prophet.”[^297]
  On the day of attack, one of Basran companions of rebels said in a
 piece of poetry:
 
-<blockquote dir="rtl">
-  <p>
-نحن نوالي أمّنا الرضية وننصر الصّحابة المرضية
-  </p>
-</blockquote>
+> نحن نوالي أمّنا الرضية وننصر الصّحابة المرضية
 
 “We hold sainthood of our contented mother and help Companions pleased
 by God.” [^298]
@@ -3371,17 +3201,9 @@ the past, but the old grounds could also affect it. Damascus surrender
 meant that its people had yielded to Iraqis. This could be true in the
 other way round. Ka'b Ibn Ju'ayl composed,
 
-<blockquote dir="rtl">
-  <p>
-أرى الشام تكره ملك العراق وأهل العراق لها كارهونا
-  </p>
-</blockquote>
+> أرى الشام تكره ملك العراق وأهل العراق لها كارهونا
 
-<blockquote dir="rtl">
-  <p>
-وكل لـصاحبـه مبغـض يرى كلّ ما كان من ذاك دينا
-  </p>
-</blockquote>
+> وكل لـصاحبـه مبغـض يرى كلّ ما كان من ذاك دينا
 
 “Damascus people dislike Iraq's rulership and so do Iraqis, they call
 each other enemies and dismiss each other's doings as bad.” [^374]
@@ -3400,8 +3222,6 @@ Iraqis and Damascus people will have hard days ahead.
 **  
 **
 .
-
-  
 
 “Damascus is only captured by destroying the Iraqis and so is Iraq by
 killing Damascus people.” [^375]
@@ -3575,17 +3395,9 @@ assured that he could gain the world, that according to him was
 government of Egypt, by selling his religion. Talking to Mu'awiya, he
 composed,
 
-<blockquote dir="rtl">
-  <p>
-معاوي لا اعطيك ديني ولم أنل بذلك دنيا فانظر كيف تصنع
-  </p>
-</blockquote>
+> معاوي لا اعطيك ديني ولم أنل بذلك دنيا فانظر كيف تصنع
 
-<blockquote dir="rtl">
-  <p>
-فإن تعطني مصراً فأربح بصفقة أخذت بها شيخاً يضرّ وينفع
-  </p>
-</blockquote>
+> فإن تعطني مصراً فأربح بصفقة أخذت بها شيخاً يضرّ وينفع
 
 “O Mu'awiya! I sell not my religion for you and I sought not a benefit
 from your world, now this is you and all this, so if you give rulership
@@ -3701,11 +3513,7 @@ suppressed as soon as possible.
 'Ammar said that if they rushed one day earlier, it would be better. He
 composed,
 
-<blockquote dir="rtl">
-  <p>
-سيروا إلى الأحزاب أعداء النبي سيروا فخير الناس أتباع علي
-  </p>
-</blockquote>
+> سيروا إلى الأحزاب أعداء النبي سيروا فخير الناس أتباع علي
 
 “Move towards the parties and enemies of the Prophet because the best
 people are 'Ali's followers.” [^416]
@@ -4015,11 +3823,7 @@ war was launched between Malik and Habib Ibn Muslim in the first day of
 Safar, that as said, had been Wednesday! [^459] In the night of war
 being launched, Imam advised all his forces:
 
-<blockquote dir="rtl">
-  <p>
-لا تقاتلوا القوم حتـى يبدءوكم
-  </p>
-</blockquote>
+> لا تقاتلوا القوم حتـى يبدءوكم
 
 > “Avoid fighting these people until they start the fighting.” 1334
 
@@ -4123,11 +3927,7 @@ conquests.”[^476]
  'Ammar composed about war with Damascus troops in a poetic line,
 religious justification of which is said to be interesting,
 
-<blockquote dir="rtl">
-  <p>
-نحن ضربناكم على تنـزيله فاليوم نضربكم على تأويله
-  </p>
-</blockquote>
+> نحن ضربناكم على تنـزيله فاليوم نضربكم على تأويله
 
 “Earlier, We beat thee for his descension and now we beat thee for his
 interpretation.” [^477]
@@ -4137,11 +3937,7 @@ really never confessed to it. Muslims also made use of sense of
 “rebellion”.  
  Mughira Ibn Harith Ibn 'Abd al-Muttalib said in a poem,
 
-<blockquote dir="rtl">
-  <p>
-أهل الصلاة قتلناهم ببغيهم والمشركون قتلناهم بما جحدوا
-  </p>
-</blockquote>
+> أهل الصلاة قتلناهم ببغيهم والمشركون قتلناهم بما جحدوا
 
 “Prayer-holders are killed for their rebellion and the atheists are
 murdered for their denial.” [^478]  
@@ -4181,11 +3977,7 @@ Hamdan tribes, headman of the latter of which was Sa'id Ibn Qays
 sacrificed in the most part in as much as Imam said in a piece of
 poetry:
 
-<blockquote dir="rtl">
-  <p>
-فلوكنت بوّاباً على باب جنة لقلت لهمدان ادخلوا بسلام
-  </p>
-</blockquote>
+> فلوكنت بوّاباً على باب جنة لقلت لهمدان ادخلوا بسلام
 
 “If I were gate keeper of Heaven, I would tell Banu Hamdan people to
 enter there in goodness.” [^489]  
@@ -4235,23 +4027,15 @@ of 'Adi Hamdani[^498] and others whose biographies are mentioned in
 various sources.  
  Umm Sanan addressed 'Ali in Siffin and said:
 
-<blockquote dir="rtl">
-  <p>
-قد كنت بعد محمد خلفاً لنا أوصى اليك بنا وكنت وفيّا
-  </p>
-</blockquote>
+> قد كنت بعد محمد خلفاً لنا أوصى اليك بنا وكنت وفيّا
 
 “After Muhammad (S), he was his successor among us and he kept his
 promise well in front of us.” [^499]
 
 One of these women named Umm al-Khayr said in Siffin:
 
-<blockquote dir="rtl">
-  <p>
-إنها إحن بدريّة وضغائن جاهلية وأحقاد احديّة، وثب معاوية عند الغفلة
-ليدرك بها الفرصة من ثارات عبد شمس
-  </p>
-</blockquote>
+> إنها إحن بدريّة وضغائن جاهلية وأحقاد احديّة، وثب معاوية عند الغفلة
+> ليدرك بها الفرصة من ثارات عبد شمس
 
 “Mu'awiya's waging war comes from his vengeance in Badr, Uhud and from
 his ignorant bigotry and it is because he wants to take revenge for
@@ -4261,11 +4045,7 @@ Another woman was Jurwa, daughter of Murra Ibn Ghalib Tamimi who was
 later brought by Mu'awiya to Damascus. When she was asked by Mu'awiya
 about Imam 'Ali (a), she said,
 
-<blockquote dir="rtl">
-  <p>
-حاز والله الشرف حتى لا يوصف ، وغاية حتى لا تعرف,
-  </p>
-</blockquote>
+> حاز والله الشرف حتى لا يوصف ، وغاية حتى لا تعرف,
 
 “By God, he attained an indescribable nobility and reached a station
 beyond imagination.” [^501]
@@ -4277,11 +4057,7 @@ to Ibn 'Abbas[^502], he attempted to force them to oppose Imam (a).
 Besides, he changed the condition by frequently granting money to his
 troops,
 
-<blockquote dir="rtl">
-  <p>
-لم يبق من أهل العراق أحد فى قلبه مرض إلاّ طمع فى معاوية “
-  </p>
-</blockquote>
+> لم يبق من أهل العراق أحد فى قلبه مرض إلاّ طمع فى معاوية “
 
 There remained no one but the problematic Iraqis who joined Mu'awiya in
 his caprice and this was such that Imam was bothered.”[^503]
@@ -4394,11 +4170,7 @@ or Ashtar, but they said that Ashtar believes in war, Ibn 'Abbas
 shouldn't be either, for 'Amr Ibn 'As is from Mudhar tribe, so the other
 side should be Yemeni.
 
-<blockquote dir="rtl">
-  <p>
-لا والله لايحكم فيها مضريان حتى تقوم الساعة “
-  </p>
-</blockquote>
+> لا والله لايحكم فيها مضريان حتى تقوم الساعة “
 
 By Allah, two persons from Muďrids won't judge in that until the Day of
 Resurrection.” [^514]
@@ -4656,17 +4428,9 @@ infidelity, and therefore they asked Imam to witness his infidelity and
 repent of it,[^541] not that he has merely committed a sin. Hence, Imam
 said in a poem:
 
-<blockquote dir="rtl">
-  <p>
-يا شاهد الله عليّ فاشهد آمنت بالله ولي احمد
-  </p>
-</blockquote>
+> يا شاهد الله عليّ فاشهد آمنت بالله ولي احمد
 
-<blockquote dir="rtl">
-  <p>
-من شك في الله فاني مهتد
-  </p>
-</blockquote>
+> من شك في الله فاني مهتد
 
 “O thou, Allah's witness!  
  To me, thou be a witness!  
@@ -5071,11 +4835,7 @@ Allah.
 
 Thabit Qutna, a Murji'i poet said:
 
-<blockquote dir="rtl">
-  <p>
-نرجي الامور اذ كانت مشبهة ونصدق القول فيمن جار أو عندا
-  </p>
-</blockquote>
+> نرجي الامور اذ كانت مشبهة ونصدق القول فيمن جار أو عندا
 
 “We leave (to Allah) all the dubious affairs, and we judge correctly the
 oppressor or obstinate.”[^575]
@@ -5136,12 +4896,8 @@ view, is that of the Umayya, since it is blind dim.”[^578]
 That's why Imam asked his Shi'ite Muslims not to waste their energy
 fighting the Kharijites:
 
-<blockquote dir="rtl">
-  <p>
-لا تقتلوا الخوارج من بعدي فليس من طلب الحق فاخطأه كمن طلب الباطل
-فأدركه
-  </p>
-</blockquote>
+> لا تقتلوا الخوارج من بعدي فليس من طلب الحق فاخطأه كمن طلب الباطل
+> فأدركه
 
 “Do not kill the Kharijites after me, since the one seeking the gospel
 truth, but going the wrong path is not like the one seeking the credal
@@ -5688,11 +5444,7 @@ zenith of enmity in front of him.
 
 In this regard, the Prophet (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-يهلك فيك الرجلان محب مفرط ومبغض مفرط
-  </p>
-</blockquote>
+> يهلك فيك الرجلان محب مفرط ومبغض مفرط
 
 His withstanding for the sake of the path of Truth does incense the
 enemy that it makes him go to extremes whereas it does fan the blames of
@@ -5711,11 +5463,7 @@ everything. A group asked about the most ascetic man in the presence of
 'Umar Ibn 'Abd al-’Aziz. Some named Abu Dharr and 'Umar but 'Umar Ibn
 'Abd al-’Aziz said:
 
-<blockquote dir="rtl">
-  <p>
-أزهد الناس علي بن ابي‌طالب (ع(
-  </p>
-</blockquote>
+> أزهد الناس علي بن ابي‌طالب (ع(
 
 “No one is the most ascetic but 'Ali Ibn Abi Talib.”[^623]
 
@@ -5725,11 +5473,7 @@ wearing his one and the only shirt wet. Repeatedly, Imam has referred to
 his simple life in Nahj al-Balagha. Noticing that Imam ate very frugal
 food, one of his disciples told him,
 
-<blockquote dir="rtl">
-  <p>
-أبالعراق تصنع هذا؟ العراق أكثر خيراً وأكثر طعاماً
-  </p>
-</blockquote>
+> أبالعراق تصنع هذا؟ العراق أكثر خيراً وأكثر طعاماً
 
 Do you eat such food in Iraq where the best food can he found?”[^625]
 
@@ -7311,5 +7055,4 @@ I, p. 72
 [^630]: Hayat As-Sahaba, vol. II, p. 310
 
 [^631]: al-Futuh, vol. III, pp 90-92
-
 

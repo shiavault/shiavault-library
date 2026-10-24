@@ -26,4 +26,3 @@ him (and with the permission of Allah, these will be granted).
 [^1]: Mafatih al-Jinan, sec. 3: “The greatness and actions of the
 Blessed Month of Ramaďhan and the actions for the Nights of Qadr.’
 
-

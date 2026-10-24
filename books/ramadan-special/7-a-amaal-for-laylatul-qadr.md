@@ -24,11 +24,9 @@ elaihe" i.e., "I seek pardon from God and ask for penitence from Him".
 3. The Holy Qur'an should be opened and placed in front, then one
 should recite:
 
-<p dir="rtl">
 اللَّهُمَّ إِنِّى أَسْأَلُكَ بِكِتَابِكَ الْمُنْزَلِ وَ مَا فِيهِ وَ
 فِيهِ اسْمُكَ الْأَكْبَرُ وَ أَسْمَاؤُكَ الْحُسْنَى وَ مَا يُخَافُ وَ
 يُرْجَى أَنْ تَجْعَلَنِى مِنْ عُتَقَائِكَ مِنَ النَّارِ
-</p>
 
 Translation: O Allah treat me as one of those who are free from Hell,
 in the name of this Holy Book sent by Thee, whatever there be in the
@@ -36,16 +34,13 @@ Book. Including Ism-e-A'azam and Asmaa-e-Husnaa and the things to be
 dreaded, the things that may be expected and desired, like blessings of
 Jannat. Do forgive through the grace of this book.
 
-
 (SALAWAT-After this he may beg from Allah whatever he wants).
 
 He should place the Holy Qur'an on his head and say,
 
-<p dir="rtl">
 اللَّهُمَّ بِحَقِّ هَذَا الْقُرْآنِ وَ بِحَقِّ مَنْ أَرْسَلْتَهُ بِهِ
 وَ بِحَقِّ كُلِّ مُؤْمِنٍ مَدَحْتَهُ فِيهِ وَ بِحَقِّكَ عَلَيْهِمْ فَلا
 أَحَدَ أَعْرَفُ بِحَقِّكَ مِنْكَ
-</p>
 
 Translation: O Allah! I appeal to Thee in the name of this Qur'an and
 the Rooh that was sent along with it, and in the name of the Momin
@@ -110,25 +105,20 @@ of Roku'or Sojud:
 
 8. Recite: "Astagferullaah Rabbi Wa atoobo elaihe" 100 times.
 
-<p dir="rtl">
 أَسْتَغْفِرُ اللَّهَ رَبِّى وَ أَتُوبُ إِلَيْهِ.
-</p>
 
 (i.e., "I seek pardon from God and ask for penitence from Him").
 
 9. Recite: "Allaahummal'an qatalatal Ameeril Momeneen" 100 times,
 (specially recommended for the 19th night of Ramadhan).
 
-<p dir="rtl">
 اللَّهُمَّ الْعَنْ قَتَلَةَ أَمِيرِ الْمُؤْمِنِينَ.
-</p>
 
 (i.e., "O Allah! Thy malison upon the assassin of Ameerul Moineneen Ali
 ibne Abi Talib").
 
 10. Then it is recommended to recite the following Dua,
 
-<p dir="rtl">
 يَا ذَا الَّذِى كَانَ قَبْلَ كُلِّ شَىْ‏ءٍ ثُمَّ خَلَقَ كُلَّ شَىْ‏ءٍ
 ثُمَّ يَبْقَى وَ يَفْنَى كُلُّ شَىْ‏ءٍ يَا ذَا الَّذِى لَيْسَ كَمِثْلِهِ
 شَىْ‏ءٌ وَ يَا ذَا الَّذِى لَيْسَ فِى السَّمَاوَاتِ الْعُلَى وَ لا فِى
@@ -136,7 +126,6 @@ ibne Abi Talib").
 بَيْنَهُنَّ إِلَهٌ يُعْبَدُ غَيْرُهُ لَكَ الْحَمْدُ حَمْدا لا يَقْوَى
 عَلَى إِحْصَائِهِ إِلا أَنْتَ فَصَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ
 صَلاةً لا يَقْوَى عَلَى إِحْصَائِهَا إِلا أَنْتَ.
-</p>
 
 Translation: O One Who was before everything and then brought
 everything into existence. He will remain while all else will be
@@ -152,7 +141,6 @@ The following Du'a has been narrated from Imam Ja'afar Sadiq (a.s.) and
 is recommended to be read on every night of the month of Ramadhan
 specially on the 19th:
 
-<p dir="rtl">
 اللَّهُمَّ إِنِّى أَسْأَلُكَ أَنْ تَجْعَلَ فِيمَا تَقْضِى وَ تُقَدِّرُ
 مِنَ الْأَمْرِ الْمَحْتُومِ فِى الْأَمْرِ الْحَكِيمِ مِنَ الْقَضَاءِ
 الَّذِى لا يُرَدُّ وَ لا يُبَدَّلُ أَنْ تَكْتُبَنِى مِنْ حُجَّاجِ
@@ -162,8 +150,6 @@ specially on the 19th:
 تُطِيلَ عُمُرِى فِى خَيْرٍ وَ عَافِيَةٍ وَ تُوَسِّعَ فِى رِزْقِى وَ
 تَجْعَلَنِى مِمَّنْ تَنْتَصِرُ بِهِ لِدِينِكَ وَ لا تَسْتَبْدِلْ بِى
 غَيْرِى.
-</p>
-
 
 **Translation:**
 
@@ -177,7 +163,6 @@ decisions and rendering possible things and events, make possible for me
 a long life and enough means of livelihood, and fulfill (mention your
 legitimate desires). Dua'a for 21st Ramadhan (1)
 
-<p dir="rtl">
 اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ اقْسِمْ لِى حِلْما
 يَسُدُّ عَنِّى بَابَ الْجَهْلِ وَ هُدًى تَمُنُّ بِهِ عَلَىَّ مِنْ كُلِّ
 ضَلالَةٍ وَ غِنًى تَسُدُّ بِهِ عَنِّى بَابَ كُلِّ فَقْرٍ وَ قُوَّةً
@@ -191,7 +176,6 @@ legitimate desires). Dua'a for 21st Ramadhan (1)
 رَحْمَةٍ وَ عِصْمَةً تَحُولُ بِهَا بَيْنِى وَ بَيْنَ الذُّنُوبِ حَتَّى
 أُفْلِحَ بِهَا عِنْدَ الْمَعْصُومِينَ عِنْدَكَ بِرَحْمَتِكَ يَا أَرْحَمَ
 الرَّاحِمِينَ.
-</p>
 
 **Translation:**
 
@@ -214,5 +198,4 @@ all-embracing mercy; preserve incorruptible integrity in me so that it
 puts a barrier between me and wrongdoing till I reach the sanctuary of
 all (14) Infallibles, to be presented before Thee for obtaining Thy
 mercy, O the Most Merciful.
-
 

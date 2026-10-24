@@ -41,4 +41,3 @@ honourable man, in the sight of Allah, is he, who is most careful of his
 duty to Allah and that man has rights only to the extent of the duties,
 he performs.* (Shakir, M.A.: Islamic History)
 
-

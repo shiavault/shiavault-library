@@ -4,13 +4,9 @@ Tashahhud and Salam
 Tashahhud
 ---------
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنْ لاَ إِلٰهَ إِلاّ الله وَ أَشَهَدُ أَنَّ مُحَمَّداً
-عَبْدُهُ وَ رَسُولُه، أَللّهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَ آلِ
-مُحَمَّد.
-  </p>
-</blockquote>
+> أَشْهَدُ أَنْ لاَ إِلٰهَ إِلاّ الله وَ أَشَهَدُ أَنَّ مُحَمَّداً
+> عَبْدُهُ وَ رَسُولُه، أَللّهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَ آلِ
+> مُحَمَّد.
 
 *I bear witness that there is no god but Allah and Muhammad is His
 servant and Messenger.O Allah! Send blessings on Muhammad and his
@@ -37,12 +33,8 @@ The slogan of tawhid
 “*La* *ilaha illallah*” is the testimony that all those who possess
 knowledge along with the angels do acknowledge:
 
-<blockquote dir="rtl">
-  <p>
-﴿ شهِدَ اللَّهُ أَنَّهُ لا إِلَهَ إِلا هُوَ وَ الْمَلاَئكَةُ وَ
-أُولُوا الْعِلْمِ ﴾
-  </p>
-</blockquote>
+> ﴿ شهِدَ اللَّهُ أَنَّهُ لا إِلَهَ إِلا هُوَ وَ الْمَلاَئكَةُ وَ
+> أُولُوا الْعِلْمِ ﴾
 
 ***“Allah bears witness that there is no god but Him—and {so do} the
 angels and those who possess knowledge.”***[^1]
@@ -88,11 +80,7 @@ control and in legislation: “*wa lam yaku’l-lahu sharika fi’l-mulk*”
 “And He has no partner in sovereignty.” Servitude to God is the highest
 honor for the saints of God:
 
-<blockquote dir="rtl">
-  <p>
-عَبْداً لَكَ اَكُونَ اَنْ عِزّاً بى كَفىٰ اِلٰهى
-  </p>
-</blockquote>
+> عَبْداً لَكَ اَكُونَ اَنْ عِزّاً بى كَفىٰ اِلٰهى
 
 “O Lord! It is already enough of an honor for me that I am Your
 servant.”[^7]
@@ -106,11 +94,7 @@ subjected all to his service, she remained the servant of God alone. Her
 accomplishment was such that she became a model for all believing men
 and women throughout history:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ضرَب اللَّهُ مَثَلاً لِّلَّذِينَ ءَامَنُوا امْرَأَة فِرْعَوْنَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ضرَب اللَّهُ مَثَلاً لِّلَّذِينَ ءَامَنُوا امْرَأَة فِرْعَوْنَ ﴾
 
 ***“Allah draws an{other} example for those who have faith: the wife of
 Pharaoh.”***[^8]
@@ -185,13 +169,9 @@ truthfulness for, the hypocrites {*munafiqin*} used to testify also to
 the apostleship of the Prophet (S) yet the Qur’an thus reveals about
 them:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِذَا جَاءكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ
-اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ
-إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِذَا جَاءكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ
+> اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ
+> إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ ﴾
 
 ***“When the hypocrites come to you they say, ‘We bear witness that you
 are indeed the apostle of Allah.’ Allah knows that you are indeed His
@@ -225,12 +205,8 @@ The one who has blissful fate is he whose last statement in the world is
  God initially sends blessings {*salawat*} to the Prophet (S) and then
 orders us to send *salawat*:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا
-أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا
+> أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا ﴾
 
 ***“Indeed Allah and His angels bless the Prophet. O you who have faith!
 Invoke blessings on him and invoke Peace upon him in a worthy
@@ -280,12 +256,8 @@ Sunni books, that someone asked the Prophet (S): “We know how to greet
 you {*salam*}, but how should we send blessings to you?” The Prophet (S)
 said: “You say,
 
-<blockquote dir="rtl">
-  <p>
-أَللّهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَ آلِ مُحَمَّد كَما صَلَّيْتَ عَلىٰ
-إبْراهيم وَ آلِ إبْراهيم إِنَّكَ حَميدٌ مَجيدٌ.
-  </p>
-</blockquote>
+> أَللّهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَ آلِ مُحَمَّد كَما صَلَّيْتَ عَلىٰ
+> إبْراهيم وَ آلِ إبْراهيم إِنَّكَ حَميدٌ مَجيدٌ.
 
 “O Allah! Send blessings on Muhammad and the progeny of Muhammad as You
 have sent blessings on Ibrahim and the progeny of Ibrahim. You are the
@@ -294,29 +266,13 @@ Praiseworthy and Holy.”[^29]
 Imam ash-Shafi’i, the imam of the Shafi’i school of Sunni jurisprudence,
 expresses this issue in the following poem:
 
-<blockquote dir="rtl">
-  <p>
-يا أَهْلَ بَيْتِ رَسولِ اللهِ حُبُّكُمُ
-  </p>
-</blockquote>
+> يا أَهْلَ بَيْتِ رَسولِ اللهِ حُبُّكُمُ
 
-<blockquote dir="rtl">
-  <p>
-فَرْضٌ مِنَ اللهِ في ٱلْقُرْآنِ أَنْزَلَه
-  </p>
-</blockquote>
+> فَرْضٌ مِنَ اللهِ في ٱلْقُرْآنِ أَنْزَلَه
 
-<blockquote dir="rtl">
-  <p>
-كَفاكُمْ مِنْ عَظيمِ ٱلْقَدْرِ أنَّكُم
-  </p>
-</blockquote>
+> كَفاكُمْ مِنْ عَظيمِ ٱلْقَدْرِ أنَّكُم
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يُصَلِّ عَلَيْكُمْ فَلا صَلٰوةَ لَه
-  </p>
-</blockquote>
+> مَنْ لَمْ يُصَلِّ عَلَيْكُمْ فَلا صَلٰوةَ لَه
 
 *O members of the Household {Ahl al-Bayt} of the Messenger of Allah!
 Loving you is an obligation, which God has revealed in the Qur’an.*
@@ -362,11 +318,7 @@ worthy manner,”***[^36] God commands us to send salutations {*salam*}
 upon the Prophet (S) after the *salawat*. In prayer, therefore, after
 the *salawat* we extend *salam*s to him:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ اَيُّها ٱلنَّبِىُّ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه!
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ اَيُّها ٱلنَّبِىُّ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه!
 
 *Assalamu ‘alayka ayyuha’n-nabiyyu wa rahmatullahi wa barakuh!*
 
@@ -377,11 +329,7 @@ of the prayer we also first convey salutation to the gem of creation,
 viz. the Holy Prophet (S). Then, we extend our salutation to the
 righteous servants of God:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَينا وَ عَلىٰ عِبادِ اللهِ الصّالِحِينَ!
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَينا وَ عَلىٰ عِبادِ اللهِ الصّالِحِينَ!
 
 *As-salamu ‘alayna* *wa ‘ala* *‘ibadillahi’s-salihin!*  
  “May peace be upon us and the righteous servants of Allah!”
@@ -405,11 +353,7 @@ of Muslims who have been standing with us in ranks as well as upon the
 angels who are present in the congregation of Muslims and the two angels
 who are assigned to each of us:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكُمْ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه!
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكُمْ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه!
 
 *Assalamu ‘alaykum wa rahmatullahi wa barakuh!*  
  “May Allah’s peace, mercy and blessings be upon you!”
@@ -505,20 +449,12 @@ first to the one walking; the one standing to the one sitting; and the
 one arriving to those who are sitting in an assembly.[^42] And the
 Qur’an thus exhorts:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسنَ مِنهَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسنَ مِنهَا ﴾
 
 ***“When you are greeted with a salute, greet with a better one than
 it.”***[^43]
 
-<blockquote dir="rtl">
-  <p>
-وَ السَّلامُ عَلَيْكُمْ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه!
-  </p>
-</blockquote>
+> وَ السَّلامُ عَلَيْكُمْ وَ رَحْمَةُ اللهِ وَ بَرَكاتُه!
 
 **May Allah’s peace, mercy and blessings be upon you!**
 
@@ -617,5 +553,4 @@ vol. 6, p. 151.
 [^42]: Bihar al-Anwar, vol. 84, p. 277.
 
 [^43]: Surah an-Nisa’ 4:86.
-
 

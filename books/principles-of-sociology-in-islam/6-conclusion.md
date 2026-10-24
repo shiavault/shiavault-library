@@ -47,4 +47,3 @@ of Allah (S), as has been mentioned by historians and traditionalists.
 Let us hope that all the Muslims will follow his examples and thus lead
 the world onto the path of moral perfection and sublime humanity.
 
-

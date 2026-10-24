@@ -169,4 +169,3 @@ Tir, 1353 (June-July, 1974)
 [^1]: Persian daily Ittila'at, no. 14812, 26 Shahrivar, 1354 H. Sh.
 (1975).
 
-

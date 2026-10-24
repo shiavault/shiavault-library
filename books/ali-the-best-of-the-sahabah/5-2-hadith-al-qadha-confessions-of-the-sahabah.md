@@ -6,13 +6,9 @@ used to admit, unanimously, that Amir al-Muminin ‘Ali b. Abi Talib,
 *‘alaihi al-salam*, was indeed the best judge among them. Imam Ahmad (d.
 241 H), for instance records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا وكيع ثنا سفيان عن حبيب بن أبي ثابت عن
-سعيد بن جبير عن بن عباس قال قال عمر رضي الله عنه: علي أقضانا وأبي
-أقرؤنا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا وكيع ثنا سفيان عن حبيب بن أبي ثابت عن
+> سعيد بن جبير عن بن عباس قال قال عمر رضي الله عنه: علي أقضانا وأبي
+> أقرؤنا
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Waki’ –
 Sufyan – Habib b. Abi Thabit – Sa’id b. Jubayr – Ibn ‘Abbas:
@@ -22,23 +18,15 @@ among us**, and Ubayy is the best reciter among us.”[^1]
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^2]
 
 Imam Ahmad further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن سعيد عن سفيان حدثني حبيب يعنى بن
-أبي ثابت عن سعيد بن جبير عن بن عباس رضي الله عنهما قال: قال عمر علي
-أقضانا وأبي أقرؤنا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن سعيد عن سفيان حدثني حبيب يعنى بن
+> أبي ثابت عن سعيد بن جبير عن بن عباس رضي الله عنهما قال: قال عمر علي
+> أقضانا وأبي أقرؤنا
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Yahya b.
 Sa’id – Sufyan – Habib b. Abi Thabit – Sa’id b. Jubayr – Ibn ‘Abbas, may
@@ -49,25 +37,17 @@ reciter among us.”[^3]
 
 Al-Arnauṭ again comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs.[^4]
 
 This is the third *athar* recorded on the same matter by Ahmad b.
 Hanbal:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا سويد بن سعيد في سنة ست وعشرين ومائتين ثنا
-علي بن مسهر عن الأعمش عن حبيب بن أبي ثابت عن سعيد بن جبير عن بن عباس
-قال خطبنا عمر رضي الله عنه على منبر رسول الله صلى الله عليه و سلم
-فقال: علي رضي الله عنه أقضانا وأبي رضي الله عنه اقرؤنا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا سويد بن سعيد في سنة ست وعشرين ومائتين ثنا
+> علي بن مسهر عن الأعمش عن حبيب بن أبي ثابت عن سعيد بن جبير عن بن عباس
+> قال خطبنا عمر رضي الله عنه على منبر رسول الله صلى الله عليه و سلم
+> فقال: علي رضي الله عنه أقضانا وأبي رضي الله عنه اقرؤنا
 
 ‘Abd Allah (b. Ahmad b. Hanbal) – my father (Ahmad b. Hanbal) – Suwayd
 b. Sa’id – ‘Ali b. Mashar – al-A’mash – Habib b. Abi Thabit – Sa’id b.
@@ -80,11 +60,7 @@ Allah be pleased with him, is the best reciter.”[^5]
 
 Shaykh Shu’ayb al-Arnauṭ has a simple verdict on it:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^6]
 
@@ -94,12 +70,8 @@ their unanimous concurrence with him on the matter.
 
 Imam al-Bukhari (d. 256 H) records the same *athar* in his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عمرو بن علي حدثنا يحيى حدثنا سفيان عن حبيب عن سعيد بن جبير عن
-ابن عباس قال قال عمر رضي الله عنه: أقرؤنا أبي وأقضانا علي
-  </p>
-</blockquote>
+> حدثنا عمرو بن علي حدثنا يحيى حدثنا سفيان عن حبيب عن سعيد بن جبير عن
+> ابن عباس قال قال عمر رضي الله عنه: أقرؤنا أبي وأقضانا علي
 
 ‘Amr b. ‘Ali – Yahya – Sufyan – Habib – Sa’id b. Jubayr – Ibn ‘Abbas:
 
@@ -111,14 +83,10 @@ the best judge among them – including their most senior ones living in
 Madinah - was none other than Amir al-Muminin. Imam al-Hakim (d. 403 H)
 records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني عبد الرحمن بن الحسن القاضي بهمدان ثنا إبراهيم بن الحسين ثنا آدم
-بن أبي إياس ثنا شعبة عن أبي إسحاق عن عبد الرحمن بن يزيد عن علقمة عن
-عبد الله قال كنا نتحدث أن أقضى أهل المدينة علي بن أبي طالب رضي الله
-عنه
-  </p>
-</blockquote>
+> أخبرني عبد الرحمن بن الحسن القاضي بهمدان ثنا إبراهيم بن الحسين ثنا آدم
+> بن أبي إياس ثنا شعبة عن أبي إسحاق عن عبد الرحمن بن يزيد عن علقمة عن
+> عبد الله قال كنا نتحدث أن أقضى أهل المدينة علي بن أبي طالب رضي الله
+> عنه
 
 ‘Abd al-Rahman b. al-Hasan al-Qadi – Ibrahim b. al-Husayn – Adam b. Abi
 Iyas – Shu’bah – Abu Ishaq – ‘Abd al-Rahman b. Yazid – ‘Alqamah – ‘Abd
@@ -129,11 +97,7 @@ Allah (b. Mas’ud):
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^9]
 
@@ -143,12 +107,8 @@ Meanwhile, he has personally authenticated the *sanad* and all its
 narrators in the same book in other *ahadith*! For example, al-Hakim
 records this chain:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا عبد الرحمن بن الحسن القاضي ثنا إبراهيم بن الحسين ثنا آدم بن أبي
-إياس ثنا شعبة عن منصور عن إبراهيم عن علقمة عن عبد الله رضي الله عنه
-  </p>
-</blockquote>
+> أخبرنا عبد الرحمن بن الحسن القاضي ثنا إبراهيم بن الحسين ثنا آدم بن أبي
+> إياس ثنا شعبة عن منصور عن إبراهيم عن علقمة عن عبد الله رضي الله عنه
 
 **‘Abd al-Rahman b. al-Hasan al-Qadi** – **Ibrahim b. al-Husayn** –
 **Adam b. Abi Iyas** – **Shu’bah** – Mansur – Ibrahim – **‘Alqamah** –
@@ -157,21 +117,13 @@ records this chain:
 The only differences in this *sanad* from that of the *athar* are Mansur
 and Ibrahim. Al-Hakim declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^11]
 
 Interestingly, al-Dhahabi confirms the verdict:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim.[^12]
 
@@ -183,13 +135,9 @@ But, what is the status Abu Ishaq and ‘Abd al-Rahman b. Yazid – the only
 remaining narrators of Ibn Mas’ud’s *athar*? Note this chain documented
 by Imam al-Hakim:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو زكريا العنبري ثنا محمد بن عبد السلام ثنا إسحاق أنبأ يحيى بن
-آدم ثنا إسرائيل عن أبي إسحاق عن عبد الرحمن بن يزيد عن عبد الله رضي
-الله عنه
-  </p>
-</blockquote>
+> أخبرنا أبو زكريا العنبري ثنا محمد بن عبد السلام ثنا إسحاق أنبأ يحيى بن
+> آدم ثنا إسرائيل عن أبي إسحاق عن عبد الرحمن بن يزيد عن عبد الله رضي
+> الله عنه
 
 Abu Zakariyah al-‘Anbari – Muhammad b. ‘Abd al-Salam – Ishaq – Yahya b.
 Adam – Israil – **Abu Ishaq** – **‘Abd al-Rahman b. Yazid** – ‘Abd Allah
@@ -197,21 +145,13 @@ Adam – Israil – **Abu Ishaq** – **‘Abd al-Rahman b. Yazid** – ‘Abd A
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^14]
 
 Al-Dhahabi also reiterates:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim.[^15]
 
@@ -221,13 +161,9 @@ But then, is there any break between Shu’bah and Abu Ishaq? We have seen
 the unbroken connection between all the other narrators except these
 two. This chain, recorded by al-Hakim, puts the seal on things:
 
-<blockquote dir="rtl">
-  <p>
-حدثني محمد بن صالح بن هانئ ثنا المسيب بن زهير ثنا عاصم بن علي ثنا شعبة
-عن أبي إسحاق قال : سمعت وهب بن جابر يحدث عن عبد الله بن عمرو رضي الله
-عنهما
-  </p>
-</blockquote>
+> حدثني محمد بن صالح بن هانئ ثنا المسيب بن زهير ثنا عاصم بن علي ثنا شعبة
+> عن أبي إسحاق قال : سمعت وهب بن جابر يحدث عن عبد الله بن عمرو رضي الله
+> عنهما
 
 Muhammad b. Salih b. Hani – al-Musayyab b. Zuhayr – ‘Asim b. ‘Ali –
 **Shu’bah** – **Abu Ishaq** – Wahb b. Jabir – ‘Abd Allah b. ‘Amr, may
@@ -235,21 +171,13 @@ Allah be pleased with them both[^16]
 
 Al-Hakim states:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^17]
 
 Al-Dhahabi agrees:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim.[^18]
 
@@ -300,5 +228,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 3, p.
 [^17]: Ibid
 
 [^18]: Ibid
-
 

@@ -33,12 +33,8 @@ man after death to the great creation of the heavens and the earth and
 reminds that He who has created this entire universe also possesses the
 Power to give life to the dead.
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَى
-أَنْ يَخْلُقَ مِثْلَهُمْ بَلَى وَهُوَ الْخَلاَّقُ الْعَلِيمُ
-  </p>
-</blockquote>
+> أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَى
+> أَنْ يَخْلُقَ مِثْلَهُمْ بَلَى وَهُوَ الْخَلاَّقُ الْعَلِيمُ
 
 ***“Is not He who created the heavens and the earth able to create
 (again) the like of them.*** ***Yea! and He is the Creator, the
@@ -52,24 +48,16 @@ just a part of the entire Existence, once again?
 The Holy Qur’an in reply to the second objection also alludes to the
 first creation of man and says:
 
-<blockquote dir="rtl">
-  <p>
-فَسَيَقُولُونَ مَنْ يُعِيدُنَا قُلْ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ
-  </p>
-</blockquote>
+> فَسَيَقُولُونَ مَنْ يُعِيدُنَا قُلْ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ
 
 ***“So they say Who will bring us to life?*** ***Say: He who created you
 the first time.”***[^2]
 
 In another verse it states:
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِ الْعِظَامَ
-وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
-وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-  </p>
-</blockquote>
+> وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِ الْعِظَامَ
+> وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
+> وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 
 ***“And he strikes out a likeness for Us and forgets his own
 creation.*** ***Says he: Who will give life to the bones when they are
@@ -108,13 +96,9 @@ ordinary and insists on denying it.
 
 The Holy Qur’an says :
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَسُقْنَاهُ
-إِلَى بَلَدٍ مَيِّتٍ فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا
-كَذَلِكَ النُّشُورُ
-  </p>
-</blockquote>
+> وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَسُقْنَاهُ
+> إِلَى بَلَدٍ مَيِّتٍ فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا
+> كَذَلِكَ النُّشُورُ
 
 ***“And Allah is He Who sends the winds so they raise a cloud, then We
 drive it on to a dead country and therewith We give life to the earth
@@ -147,13 +131,9 @@ created you from a sperm-drop. Then we brought out this sperm-drop as an
 finally in the form of a complete human, we gave him birth by means of
 his mother.
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَى ثُمَّ كَانَ عَلَقَةً
-فَخَلَقَ فَسَوَّى فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَى
-أَلَيْسَ ذَلِكَ بِقَادِرٍ عَلَى أَنْ يُحْيِيَ الْمَوْتَ
-  </p>
-</blockquote>
+> أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَى ثُمَّ كَانَ عَلَقَةً
+> فَخَلَقَ فَسَوَّى فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَى
+> أَلَيْسَ ذَلِكَ بِقَادِرٍ عَلَى أَنْ يُحْيِيَ الْمَوْتَ
 
 ***“Was he not a (mere) drop of sperm emitted?*** ***Then he was a clot
 of blood, then He Shaped (him) and fashioned (him).*** ***Then He made
@@ -189,14 +169,10 @@ new environment.
 The Holy Qur’an, in proving the possibility of Resurrection makes use of
 this fact also and states:
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِ الْعِظَامَ
-وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
-وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ الَّذِي جَعَلَ لَكُمْ مِنْ الشَّجَرِ
-الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُون َ
-  </p>
-</blockquote>
+> وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِ الْعِظَامَ
+> وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ
+> وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ الَّذِي جَعَلَ لَكُمْ مِنْ الشَّجَرِ
+> الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُون َ
 
 ***“And he strikes out a likeness of Us and forgets his own creation.***
 ***Says he: Who will give life to the bones when they are rotten?***
@@ -265,13 +241,9 @@ the Resurrection.
 
 Regarding this, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ الْإِنسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ بَلَى قَادِرِينَ
-عَلَى أَنْ نُسَوِّيَ بَنَانَهُ . بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ
-أَمَامَهُ
-  </p>
-</blockquote>
+> أَيَحْسَبُ الْإِنسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ بَلَى قَادِرِينَ
+> عَلَى أَنْ نُسَوِّيَ بَنَانَهُ . بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ
+> أَمَامَهُ
 
 ***“Does man think that we shall not gather his bones? Yea! We are able
 to make complete his very fingertips.*** ***Nay, man desires to deny
@@ -291,13 +263,9 @@ beliefs are nothing except historical legends and myths.
 
 The Holy Qur’an mentions their talks as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا أَئِذَا كُنَّا تُرَابًا وَآبَاؤُنَا
-أَئِنَّا لَمُخْرَجُونَ لَقَدْ وُعِدْنَا هَذَا نَحْنُ وَآبَاؤُنَا مِنْ
-قَبْلُ إِنْ هَذَا إِلاَّ أَسَاطِيرُ الْأَوَّلِينَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا أَئِذَا كُنَّا تُرَابًا وَآبَاؤُنَا
+> أَئِنَّا لَمُخْرَجُونَ لَقَدْ وُعِدْنَا هَذَا نَحْنُ وَآبَاؤُنَا مِنْ
+> قَبْلُ إِنْ هَذَا إِلاَّ أَسَاطِيرُ الْأَوَّلِينَ
 
 ***“And those who disbelieve say: When we have become dust like our
 fathers, shall we verily be brought forth (again).*** ***Indeed we had
@@ -346,5 +314,4 @@ Speech. No. 1
 [^10]: Qiyamat (75):3-5
 
 [^11]: Naml (27):67-68
-
 

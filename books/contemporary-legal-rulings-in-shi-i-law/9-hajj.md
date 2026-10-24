@@ -42,4 +42,3 @@ so, before cutting his own?**
 A: It is not permissible for one to attend to the *taqsir* of others
 before his own. (FM, p. 404)
 
-

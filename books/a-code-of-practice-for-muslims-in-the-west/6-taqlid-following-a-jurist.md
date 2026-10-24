@@ -186,4 +186,3 @@ with the view of his own marja'.
 
 [^1]:  Translator's Note: See rule no. 26 for meaning of ahlul khibra.
 
-

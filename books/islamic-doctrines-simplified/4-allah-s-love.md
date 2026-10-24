@@ -35,4 +35,3 @@ demonstrating His love and His sympathy for His creatures. In return, we
 should love our Creator by thanking and worshipping Him. He Who has such
 love and mercy for us deserves great praise and gratitude.
 
-

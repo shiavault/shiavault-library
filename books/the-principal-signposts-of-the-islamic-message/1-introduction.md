@@ -212,4 +212,3 @@ man and his society which this religion creates. These four facts are:
 We shall try in this brief study, to deal with these four facts by way
 of explanation and definition.
 
-

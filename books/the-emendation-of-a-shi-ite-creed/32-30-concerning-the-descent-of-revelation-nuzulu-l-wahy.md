@@ -84,4 +84,3 @@ from us to imitate (anything) blindly.
 
 [^1]: \* \* Not found in N.
 
-

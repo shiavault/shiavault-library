@@ -15,17 +15,11 @@ deprivation, he is blamed wherever he is.' For how could he be other
 than bereft when he flees from the covenant of Allah, and opposes His
 words:
 
-
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
-يُحْيِيكُمْ
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ
+> يُحْيِيكُمْ
 
 ***Allah is He Who created you, then gave you sustenance, then He causes
 you to die, then brings you life.*** (30:40)
-
 
 The covetous person is in the midst of seven difficult evils: thinking,
 which harms his body but brings it no help; anxiety, which has no end;
@@ -42,5 +36,4 @@ and prepared for him things which only Allah knows. Avarice is what
 flows out from Allah's anger. When the slave is not bereft of certainty,
 he is not covetous. Certainty is the earth of Islam and the heaven of
 iman.
-
 

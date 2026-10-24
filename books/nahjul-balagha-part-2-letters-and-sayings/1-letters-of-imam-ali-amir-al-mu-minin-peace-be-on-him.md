@@ -7,23 +7,10 @@ provinces, including selections of his letters of appointment to his
 administrative officers and his injunctions to members of his family and
 his companions
 
-<blockquote dir="rtl">
-  <p>
-رسائل أمير المؤمنين (عليه السلام)
-  </p>
-</blockquote>
+> رسائل أمير المؤمنين (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-باب مختار من كتب مولانا أمير المؤمنين علي (عليه السلام)
-  </p>
-</blockquote>
+> باب مختار من كتب مولانا أمير المؤمنين علي (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-و رسائله الى أعدائه و أمراء بلاده ، و يدخل في ذلك ما اختير من عهوده
-الى عماله و وصاياه لأهله و أصحابه .
-  </p>
-</blockquote>
-
+> و رسائله الى أعدائه و أمراء بلاده ، و يدخل في ذلك ما اختير من عهوده
+> الى عماله و وصاياه لأهله و أصحابه .
 

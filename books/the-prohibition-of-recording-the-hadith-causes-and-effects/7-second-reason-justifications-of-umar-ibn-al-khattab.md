@@ -161,10 +161,9 @@ has occupied a special position in each and every Muslim’s heart. For
 instance, they should never touch its letters unless they are pure, for
 their compliance with Almighty Allah’s saying,
 
-<span
-id="“none-shall-touch-it-save-purified-ones”-holy-qur’-5679">[“None
+[“None
 shall touch it save the purified ones”. (Holy Qur’an:
-56:79)](#%E2%80%9Cnone-shall-touch-it-save-purified-ones%E2%80%9D-holy-qur%E2%80%99-5679)</span>Finally,
+56:79)](#%E2%80%9Cnone-shall-touch-it-save-purified-ones%E2%80%9D-holy-qur%E2%80%99-5679)Finally,
 they have been always observing and reciting the Holy verses day and
 night.
 
@@ -294,5 +293,4 @@ The Encyclopedia of al-Mawrid 4:199)
 [^6]: Jalal al-Din al-Suyutiy: al-Durr al-Manthur 4:332;
 Al-Mubarakfuriy: Tuhfat al-Ahwadhiy fi Sharh Jami\` al-Tirmidhiy 8:408;
 al-Itqan fi \`Ulum al-Qur'an 1:162-163.
-
 

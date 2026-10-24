@@ -386,4 +386,3 @@ about 400 tomans. If it is announced every day for one week from the day
 that it is found and every week for one year in the place of
 congregation of people then it is enough.
 
-

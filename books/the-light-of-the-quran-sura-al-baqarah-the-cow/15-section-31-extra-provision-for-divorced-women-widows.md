@@ -154,7 +154,6 @@ the worldly engagements.
 
 245
 
-
 **Verse 239**
 
 (239) فَإنْ خِفْتُمْ فَرِجَالاً أَوْ رُكْبَانًا فَإِذَا أَمِنتُمْ
@@ -264,5 +263,4 @@ understand." It is evident that the purpose of the Qur'anic phrase
 intention of movement from the beginning should be towards the
 destination of ' action '; else, mere contemplation upon ordinances and
 understanding them, with no deed, will be fruitless.
-
 

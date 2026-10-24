@@ -156,4 +156,3 @@ of His messenger or you have a say in it?' The Imam replied, "As a
 matter of fact, everything is in the book of Allah and the Sunnah of His
 messenger (s.a.)'"
 
-

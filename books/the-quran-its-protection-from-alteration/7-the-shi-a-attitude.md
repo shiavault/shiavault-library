@@ -105,4 +105,3 @@ carelessness towards the Qur'an. 
 [^7]: al Hurr al Amili, Wasailu 'sh Shiah, vol. 3 (Kitabu 'l qadha: bab
 wujuhi 'l jam bayna 'l ahadithi 'l mukhtalifah), p. 380.
 
-

@@ -15,12 +15,8 @@ collection *Yanabi’ al-Mawadda* (lit. Fountains of Constant Love)
 narrates a tradition from Abu Dharr al-Ghiffari who narrates from the
 Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَثَل َ أَهْلِ بَيْتِي فِيكُمْ مَثَلُ سَفِيْنَةِ نُوْح، مَنْ
-رَكِبَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ
-  </p>
-</blockquote>
+> إِنَّ مَثَل َ أَهْلِ بَيْتِي فِيكُمْ مَثَلُ سَفِيْنَةِ نُوْح، مَنْ
+> رَكِبَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ
 
 The similitude of my progeny among you is that of the ship of Noah A;
 whosoever boards it is saved, and whosoever lags behind would perish[^1]
@@ -31,12 +27,8 @@ prophetic tradition “Surely al-Husayn is the lamp of guidance and the
 ship of salvation” saying: “Aren’t you [the Ahl al-Bayt (AS)] ships of
 salvation [too]?” The Imam (AS) replied:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّنَا سُفُنُ النَّجَاةِ إِلاَّ أَنَّ سَفِيْنَةَ الْحُسَيْنِ
-أَوَسَعُ وَأَسْرَعُ
-  </p>
-</blockquote>
+> كُلُّنَا سُفُنُ النَّجَاةِ إِلاَّ أَنَّ سَفِيْنَةَ الْحُسَيْنِ
+> أَوَسَعُ وَأَسْرَعُ
 
 All of us are ships of salvation, save that the ship of al-Husayn (AS)
 is **more spacious and faster**.[^2]
@@ -117,13 +109,9 @@ taught to us when expressing our greetings to the Imam is to seek
 spiritual harmony with the Imam (AS) in both this world as well as the
 Hereafter. We say later in this *Ziyarat:*
 
-<blockquote dir="rtl">
-  <p>
-فَأَسْأَلُ اللهَ الَّذِي أَكْرَمَنِي بِمَعْرِفَتِكُمْ وَمَعْرِفَةِ
-أَوْلِيَائِكُمْ وَرَزَقَنِي الْبَرَاءَةَ مِنْ أَعْدَائِكُمْ أَنْ
-يَجْعَلَنِي مَعَكُمْ فِي الدُّنْيَا وَالآخِرَةِ
-  </p>
-</blockquote>
+> فَأَسْأَلُ اللهَ الَّذِي أَكْرَمَنِي بِمَعْرِفَتِكُمْ وَمَعْرِفَةِ
+> أَوْلِيَائِكُمْ وَرَزَقَنِي الْبَرَاءَةَ مِنْ أَعْدَائِكُمْ أَنْ
+> يَجْعَلَنِي مَعَكُمْ فِي الدُّنْيَا وَالآخِرَةِ
 
 *So I ask Allah, who ennobled me by knowing you and knowing your
 friends, and enabled me to seek remoteness from your enemies, to place
@@ -149,18 +137,14 @@ where Imam al-Husayn (AS) is buried, and instead of seeking their real
 needs, asking for those things that would increase the burden that they
 had already accumulated. He is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَكْثَرَ النَّاس حِيْنَمَا يَذْهَبُوْنَ إِلى زِيَارَةِ
-العَتَبَاتِ الْمُقَدَّسَةِ يَقِفُوْنَ مَاسِكِي الضَّرِيْحِ
-فَيَتَوَسَّلُوْنَ بِالإِمَامِ لِحَوَائِجِهِمْ الْمَادِّيَّةِ
-فَيَحْمِلُوْنَ ثِقْلاً عَلى ثِقْلِهِمْ وَلَمْ يَسْئَلُوا الإِمَامَ
-بِأَنْ يَّأْخُذَ مِنْهُمْ ثِقْلَهُمْ وَهُوَ التَّعَلُّقُ
-باِلدُّنْيَا،بَلْ يَسْئَلُوْنَهُ بِاَنْ يُعْطيَهُمْ بَيْتاً اَوْ
-وَلَداً اَوْ زَوْجاً اَوْ سَيَّارَةً، وَمَا سَمِعْنَا عَنْ اَحَدٍ
-دَخَلَ بِخِدْمَتِهِ وَقَالَ لَهُ خُذْ مِنِّيْ كَذَا وَكَذَا
-  </p>
-</blockquote>
+> إِنَّ أَكْثَرَ النَّاس حِيْنَمَا يَذْهَبُوْنَ إِلى زِيَارَةِ
+> العَتَبَاتِ الْمُقَدَّسَةِ يَقِفُوْنَ مَاسِكِي الضَّرِيْحِ
+> فَيَتَوَسَّلُوْنَ بِالإِمَامِ لِحَوَائِجِهِمْ الْمَادِّيَّةِ
+> فَيَحْمِلُوْنَ ثِقْلاً عَلى ثِقْلِهِمْ وَلَمْ يَسْئَلُوا الإِمَامَ
+> بِأَنْ يَّأْخُذَ مِنْهُمْ ثِقْلَهُمْ وَهُوَ التَّعَلُّقُ
+> باِلدُّنْيَا،بَلْ يَسْئَلُوْنَهُ بِاَنْ يُعْطيَهُمْ بَيْتاً اَوْ
+> وَلَداً اَوْ زَوْجاً اَوْ سَيَّارَةً، وَمَا سَمِعْنَا عَنْ اَحَدٍ
+> دَخَلَ بِخِدْمَتِهِ وَقَالَ لَهُ خُذْ مِنِّيْ كَذَا وَكَذَا
 
 When most of the people visit the holy shrines, they stand holding fast
 onto the enclosures of the graves and ask the Imam (AS) to mediate on
@@ -175,12 +159,8 @@ In one of his lessons on practical ethics (*akhlaq*), Ayatullah
 Mujtahidi (may Allah elevate his status) narrates the following
 incident:
 
-<blockquote dir="rtl">
-  <p>
-حاج شيخ ‏عبدالكريم حائری (ره) را در حرم امام ‏ ‏ديدند كه گريه ‏می‏كند
-و به امام می‏گويد: آقا جان من مجتهد شده‏ام، ولی می‏خواهم آدم ‏بشوم.
-  </p>
-</blockquote>
+> حاج شيخ ‏عبدالكريم حائری (ره) را در حرم امام ‏ ‏ديدند كه گريه ‏می‏كند
+> و به امام می‏گويد: آقا جان من مجتهد شده‏ام، ولی می‏خواهم آدم ‏بشوم.
 
 Haj Shaykh ‘Abd al-Karim Ha\`iri [the founder of the Islamic Seminary of
 Qum] was seen in the haram of Imam al-Husayn (AS) weeping and telling
@@ -192,13 +172,9 @@ Some traditions clearly teach us about the ultimate purpose of
 
 1. Safwan bin Mihran is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ اَبِيْ عَبْدِ اللهِ َ قَالَ: مَنْ زَارَ قَبْرَ الْحُسَيْنَ وَهُوَ
-يُرِيْدُ اللهَ عَزَّ وَجَلَّ شَيَّعَهُ جَبْرَئِيْلُ وَمِيْكَائِيْلُ
-وَاِسْرَافِيْلُ حَتَّى يَرِدَ إِلى مَنْزِلِِهِ.
-  </p>
-</blockquote>
+> عَنْ اَبِيْ عَبْدِ اللهِ َ قَالَ: مَنْ زَارَ قَبْرَ الْحُسَيْنَ وَهُوَ
+> يُرِيْدُ اللهَ عَزَّ وَجَلَّ شَيَّعَهُ جَبْرَئِيْلُ وَمِيْكَائِيْلُ
+> وَاِسْرَافِيْلُ حَتَّى يَرِدَ إِلى مَنْزِلِِهِ.
 
 Imam al-Sadiq (AS) said: ‘Whosoever visits the grave of al-Husayn (AS)
 while ***he seeks Allah***, the Invincible and Exalted, Jibra\`il,
@@ -208,14 +184,10 @@ house.’[^10]
 2. Mu\`ammar is reported to have said: I heard Zayd bin ‘Ali (AS)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زَارَ قَبْرَ الْحُسَيْنِ بْنِ عَلِيٍّ لاَ يُرِيْدُ بِهِ اِلاَّ
-اللهَ تَعَالى غُفِرَ لَهُ جَمِِيعُ ذُنُوْبِهِ وَلَوْ كَانَتْ مِثْلُ
-زَبَدِ الْبَحْرِ، فَاسْتَكْثِرُوْا مِنْ زِيَارَتِهِ يَغْفِرُ اللهُ
-لَكُمْ ذُنُوْبَكُمْ.
-  </p>
-</blockquote>
+> مَنْ زَارَ قَبْرَ الْحُسَيْنِ بْنِ عَلِيٍّ لاَ يُرِيْدُ بِهِ اِلاَّ
+> اللهَ تَعَالى غُفِرَ لَهُ جَمِِيعُ ذُنُوْبِهِ وَلَوْ كَانَتْ مِثْلُ
+> زَبَدِ الْبَحْرِ، فَاسْتَكْثِرُوْا مِنْ زِيَارَتِهِ يَغْفِرُ اللهُ
+> لَكُمْ ذُنُوْبَكُمْ.
 
 Whosoever visits the grave of al-Husayn bin ‘Ali (AS) while he ***does
 not seek thereby save Allah**, Allah* would forgive all his sins even if
@@ -246,12 +218,8 @@ for the one who deflects from other than a certain entity intends the
 entity. Al-Fayumi, a well-known lexicographer in his authoritative
 lexicon *al-Misbah al-Munir* says:
 
-<blockquote dir="rtl">
-  <p>
-و(الزِّيَارَةُ) فِي الْعُرْفِ قَصْدُ الْمَزُوْرِ اِكْرَامًا لَهُ
-وَاسْتِئْنَاسًا بِهِ
-  </p>
-</blockquote>
+> و(الزِّيَارَةُ) فِي الْعُرْفِ قَصْدُ الْمَزُوْرِ اِكْرَامًا لَهُ
+> وَاسْتِئْنَاسًا بِهِ
 
 The conventional meaning of *al-Ziyarat* is to intend the one to be
 visited, for his veneration and intimacy.[^13]
@@ -280,13 +248,9 @@ saying “*ay* *hujju*” (It means ‘perform *hajj’*). And the literal
 meaning of *hajj* is *qasd* (intention). In a conversation he had with
 his son Zayd bin ‘Ali, Imam Zayn al-’Abidin (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَعْنَى قَوْلِهِ عَزّوَجَلّ: فَفِرُّوْا إِلَى اللهِ يَعْنِي
-حُجُّوْا إِلى بَيْتِ اللهِ، يَا بُنَيّ إِنَّ الْكَعْبَة َبَيْتُ اللهِ
-فَمَنْ حَجّ بَيْتَ اللهِ فَقَدْ قَصَدَ إِلى اللهِ...
-  </p>
-</blockquote>
+> وَمَعْنَى قَوْلِهِ عَزّوَجَلّ: فَفِرُّوْا إِلَى اللهِ يَعْنِي
+> حُجُّوْا إِلى بَيْتِ اللهِ، يَا بُنَيّ إِنَّ الْكَعْبَة َبَيْتُ اللهِ
+> فَمَنْ حَجّ بَيْتَ اللهِ فَقَدْ قَصَدَ إِلى اللهِ...
 
 And the meaning of Allah’s speech “*And flee to Allah...*” is *Hujju ila
 baytillah* (Intend the house of Allah); O my dear young son, surely the
@@ -305,38 +269,26 @@ Some narrations explicitly say that doing *Ziyarat* of the Holy Prophet
 (S) and the infallible Imams (AS) is like doing the *Ziyarat* of Allah.
 Consider the following traditions:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ زَيْد الشَّحَّامُ قَالَ: قُلْتُ لاَبِي عَبْدِ اللهِ: مَا لِمَنْ
-زَارَ رَسُوْلَ اللهِ ؟ قَالَ: كَمَنْ زَارَ الله َعَزَّوَجَلَّ فَوْقَ
-عَرْشِهِ...
-  </p>
-</blockquote>
+> عَنْ زَيْد الشَّحَّامُ قَالَ: قُلْتُ لاَبِي عَبْدِ اللهِ: مَا لِمَنْ
+> زَارَ رَسُوْلَ اللهِ ؟ قَالَ: كَمَنْ زَارَ الله َعَزَّوَجَلَّ فَوْقَ
+> عَرْشِهِ...
 
 Zayd al-Shahham is reported to have said: I asked Abu ‘Abdilah (al-Sadiq
 (AS)): What is the reward for one who visits the Messenger of Allah? The
 Imam (AS) said: ‘It is like one who has visited Allah at His throne
 (*‘arsh*).’[^18]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ زَيْد الشَّحَّام،عَنْ اَبِيْ عَبْدِ اللهِ قَالَ: مَنْ زَارَ
-قَبْرَ الْحُسَيْنِ بنِ عَلِيّ عَارِفًا بِحَقِّه كَانَ كَمَنْ زَارَ
-اللهَ فِيْ عَرْشِه...
-  </p>
-</blockquote>
+> عَنْ زَيْد الشَّحَّام،عَنْ اَبِيْ عَبْدِ اللهِ قَالَ: مَنْ زَارَ
+> قَبْرَ الْحُسَيْنِ بنِ عَلِيّ عَارِفًا بِحَقِّه كَانَ كَمَنْ زَارَ
+> اللهَ فِيْ عَرْشِه...
 
 Zayd al-Shahham is reported to have said: Abu ‘Abdillah (al-Sadiq (AS))
 said: Whosoever visits the grave of al-Husayn (AS) with the knowledge of
 his status is like one who visits Allah at His Throne.[^19]
 
-<blockquote dir="rtl">
-  <p>
-عَنْ جَابِر اَلْجُعْفِي، قَالَ: دَخَلْتُ عَلى جَعْفَر بنِ مُحَمّد فِيْ
-يَوْمِ عَاشُوْرَآء،فَقَالَ لِيْ: هَؤُلاَءِ زُوَّارُ اللهِ وَحَقُّ عَلى
-الْمَزُوْرِ اَنْ يُكْرِمَ الزَّائِرَ...
-  </p>
-</blockquote>
+> عَنْ جَابِر اَلْجُعْفِي، قَالَ: دَخَلْتُ عَلى جَعْفَر بنِ مُحَمّد فِيْ
+> يَوْمِ عَاشُوْرَآء،فَقَالَ لِيْ: هَؤُلاَءِ زُوَّارُ اللهِ وَحَقُّ عَلى
+> الْمَزُوْرِ اَنْ يُكْرِمَ الزَّائِرَ...
 
 Jabir al-Ju’fi is reported to have said: I came to Ja’far bin Muhammad
 (al-Sadiq (AS)) on the day of ‘Ashura\`, and he said to me: ‘These
@@ -357,11 +309,7 @@ according to his *limitations*. The Imams (AS), however, are sheer
 manifestations (*mazhahir*) of Allah’s names and thus no attribute
 independently belongs to other than Allah. The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ لاَ إلَهَ إلاَّ هُو لَهُ الأسْمآء الحُسْنى
-  </p>
-</blockquote>
+> اَللهُ لاَ إلَهَ إلاَّ هُو لَهُ الأسْمآء الحُسْنى
 
 ***Allah, other than Him there is no God; and to Him alone*** ***belong
 the Beautiful Names...(20:8)***
@@ -377,17 +325,13 @@ comprehend this reality in the state of *ruku’* when they vision that no
 one other than Almighty Allah has any perfection whatsoever. Imam
 Khumayni in his Etiquettes of Prayer says:
 
-<blockquote dir="rtl">
-  <p>
-اِعْلَمْ اَنَّ عُمْدَةَ اَحْوَالِ الصّلاَةِ ثَلاَثَةٌ،وَسَائِرُ
-الاَعْمَالِ وَالاَفْعَالِ مُقَدِّمَاتُهَا وَمُهَيّئَاتٌ لَهَا،
-الاَوَّلُ: اَلْقِيَامُ.وَالثّانِيْ: َلرُّكُوْع.
-َالثّالِثُ:السُّجُوْدُ.وَاَهْلُ الْمَعْرِفَةِ يَرَوْنَ هَذِهِ
-الثَلاَثَة إِشَارَةً إِلى التَّوْحِيْدَاتِ الثَّلاَثَة...وَفِي
-الرُّكُوْعِ تَرْكٌ لِرُؤْيَةِ النَّفْسِ عَلى حَسَبِ مَقَامِ الصّفَاتِ
-وَالاَسْمَاءِ وَرُؤْيَة لِمَقَامِ اَسْمَاءِ الْحَقّ وَصِفَاتِهِ
-  </p>
-</blockquote>
+> اِعْلَمْ اَنَّ عُمْدَةَ اَحْوَالِ الصّلاَةِ ثَلاَثَةٌ،وَسَائِرُ
+> الاَعْمَالِ وَالاَفْعَالِ مُقَدِّمَاتُهَا وَمُهَيّئَاتٌ لَهَا،
+> الاَوَّلُ: اَلْقِيَامُ.وَالثّانِيْ: َلرُّكُوْع.
+> َالثّالِثُ:السُّجُوْدُ.وَاَهْلُ الْمَعْرِفَةِ يَرَوْنَ هَذِهِ
+> الثَلاَثَة إِشَارَةً إِلى التَّوْحِيْدَاتِ الثَّلاَثَة...وَفِي
+> الرُّكُوْعِ تَرْكٌ لِرُؤْيَةِ النَّفْسِ عَلى حَسَبِ مَقَامِ الصّفَاتِ
+> وَالاَسْمَاءِ وَرُؤْيَة لِمَقَامِ اَسْمَاءِ الْحَقّ وَصِفَاتِهِ
 
 Beware that the main states of prayer are three, and the rest of the
 acts serve as introductory and preparatory phases: (1) *qiyam*, (2)
@@ -406,15 +350,11 @@ encourages meaningful *Ziyarat* - *Ziyarat* with a purpose and aim.
 Observe the following traditions:  
  Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ تَزَاوَرُوا فَإِنَّ فِي زِيَارَتِكُمْ إِحْيَاءً لِقُلُوبِكُمْ
-وَذِكْراً لأحَادِيثِنَا وَأَحَادِيثُنَا تُعَطفُ بَعْضَكُمْ عَلَى
-بَعْضٍ فَإِنْ أَخَذْتُمْ بِهَا رَشَدْتُمْ وَنَجَوْتُمْ وَإِنْ
-تَرَكْتُمُوهَا ضَلَلْتُمْ وَهَلَكْتُمْ فَخُذُوا بِهَا وَأَنَا
-بِنَجَاتِكُمْ زَعِيمٌ
-  </p>
-</blockquote>
+> قَالَ تَزَاوَرُوا فَإِنَّ فِي زِيَارَتِكُمْ إِحْيَاءً لِقُلُوبِكُمْ
+> وَذِكْراً لأحَادِيثِنَا وَأَحَادِيثُنَا تُعَطفُ بَعْضَكُمْ عَلَى
+> بَعْضٍ فَإِنْ أَخَذْتُمْ بِهَا رَشَدْتُمْ وَنَجَوْتُمْ وَإِنْ
+> تَرَكْتُمُوهَا ضَلَلْتُمْ وَهَلَكْتُمْ فَخُذُوا بِهَا وَأَنَا
+> بِنَجَاتِكُمْ زَعِيمٌ
 
 Visit one another, for verily in your visitation is the revival of your
 hearts, and a remembrance of our speeches; our speeches make you harbor
@@ -424,12 +364,8 @@ perish; therefore follow them while I guarantee your salvation.[^23]
 
 And Imam al-Baqir (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-تَزَاوَرُوا فِي بُيُوتِكُمْ فَإِنَّ ذَلِكَ حَيَاةٌ لاَمْرِنَا رَحِمَ
-اللهَ عَبْداً أَحْيَا أَمْرَنَا
-  </p>
-</blockquote>
+> تَزَاوَرُوا فِي بُيُوتِكُمْ فَإِنَّ ذَلِكَ حَيَاةٌ لاَمْرِنَا رَحِمَ
+> اللهَ عَبْداً أَحْيَا أَمْرَنَا
 
 Visit one another in your homes for surely in that is the revival of our
 affair; may Allah’s Mercy be upon one who revives our affair.[^24]
@@ -455,12 +391,8 @@ It rather believes that human beings can communicate with those who have
 transcended this limited world of matter and can listen to them as well.
 In our daily prayer, we address the Holy Prophet (S) as follows:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ
-وَبَرَكَاتُهُ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ
+> وَبَرَكَاتُهُ
 
 Peace be unto you O Prophet and may Allah’s mercy and blessings be on
 you.[^25]
@@ -476,12 +408,8 @@ the well-known *idhn al-dukhul* (recital of permission to enter). The
 presence of the Holy Prophet (S) seeks his permission to enter his
 sanctuary. In this well-known recital, we say:
 
-<blockquote dir="rtl">
-  <p>
-...واَعْلَمُ اَنَّ رَسُولَكَ وَخُلَفَائَكَ اَحْياَء عندك يُرزَقون،
-يَرونَ مَقَامِي وَيَسْمَعُوْنَ كَلاَمِي، وَيَرُدّوْنَ سَلاَمِي...
-  </p>
-</blockquote>
+> ...واَعْلَمُ اَنَّ رَسُولَكَ وَخُلَفَائَكَ اَحْياَء عندك يُرزَقون،
+> يَرونَ مَقَامِي وَيَسْمَعُوْنَ كَلاَمِي، وَيَرُدّوْنَ سَلاَمِي...
 
 ...and I know that Your Apostle and vicegerents (upon whom be peace) are
 alive, receiving sustenance in Your proximity, they see where I stand
@@ -496,11 +424,7 @@ claim that they can behold the ultimate form of the reality of this
 world while they still exist in this earthly abode. In one of his famous
 dictums, Imam ‘Ali A is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُشِفَ الغطاء مَا ازْدَدْتُ يقينًا
-  </p>
-</blockquote>
+> لَوْ كُشِفَ الغطاء مَا ازْدَدْتُ يقينًا
 
 If the curtains were unveiled nothing would be added to my
 conviction.[^27]
@@ -512,11 +436,7 @@ their hearts can also relatively enjoy such exalted positions. In fact,
 Almighty Allah calls the human beings to appreciate the kernel of this
 world in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَ وَلَمْ يَنْظُرُوا فِي مَلَكُوتِ السَّماواتِ وَالارْضِ
-  </p>
-</blockquote>
+> أَ وَلَمْ يَنْظُرُوا فِي مَلَكُوتِ السَّماواتِ وَالارْضِ
 
 ***And do they not look into the kernel of the heavens and the earth?
 (7:185)***
@@ -525,12 +445,8 @@ Hence there is an invitation to tear the veils that we have created for
 ourselves by sinning. In another interesting dictum of the Holy Prophet
 (S) we are told:
 
-<blockquote dir="rtl">
-  <p>
-لَوْلا أَنَّ الشَّيَاطينَ يَحُومُونَ عَلَى قُلُوبِ بَنِي آدَمَ
-لَنَظَرُوا إِلَى مَلَكُوتِ السَّمَاوَات
-  </p>
-</blockquote>
+> لَوْلا أَنَّ الشَّيَاطينَ يَحُومُونَ عَلَى قُلُوبِ بَنِي آدَمَ
+> لَنَظَرُوا إِلَى مَلَكُوتِ السَّمَاوَات
 
 Was it not for the Satans circling around the hearts of the off-spring
 of Adam, they surely would have beheld the kernel of the heavens.[^28]
@@ -562,14 +478,10 @@ no share save appreciating the tip of the iceberg:
 
 Imam ‘Ali (AS) is reported to have said to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-اعْلَمْ يَا أَبَا ذَرٍّ أَنَا عَبْدُ اللَّهِ عَزَّ وَجَلَّ
-وَخَلِيفَتُهُ عَلَى عِبَادِهِ لا تَجْعَلُونَا أَرْبَاباً وَقُولُوا فِي
-فَضْلِنَا مَا شِئْتُمْ فَإِنَّكُمْ لا تَبْلُغُونَ كُنْهَ مَا فِينَا
-وَلا نِهَايَتَهُ
-  </p>
-</blockquote>
+> اعْلَمْ يَا أَبَا ذَرٍّ أَنَا عَبْدُ اللَّهِ عَزَّ وَجَلَّ
+> وَخَلِيفَتُهُ عَلَى عِبَادِهِ لا تَجْعَلُونَا أَرْبَاباً وَقُولُوا فِي
+> فَضْلِنَا مَا شِئْتُمْ فَإِنَّكُمْ لا تَبْلُغُونَ كُنْهَ مَا فِينَا
+> وَلا نِهَايَتَهُ
 
 Know O Abu Dharr that I am [only] a slave of Allah and His vicegerent
 over His servants; do not consider us as lords and you may say whatever
@@ -578,11 +490,7 @@ perfection, nor its zenith...[^29]
 
 And in another tradition he (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لا يُقَاسُ بِآلِ مُحَمَّدٍ مِنْ هَذِهِ الأمَّةِ أَحَدٌ
-  </p>
-</blockquote>
+> لا يُقَاسُ بِآلِ مُحَمَّدٍ مِنْ هَذِهِ الأمَّةِ أَحَدٌ
 
 ...None from this *umma* can be compared with the progeny of Muhammad
 (upon whom be peace)...[^30]
@@ -597,11 +505,7 @@ our deeds would be directed towards our eternal salvation. The purpose
 of human creation according to Qur\`an and Sunna is to worship Almighty
 Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالإِنْسَ إِلاَّ لِيَعْبُدُوْنِ
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالإِنْسَ إِلاَّ لِيَعْبُدُوْنِ
 
 ***And I have not created the jinn and the men save that they worship me
 alone. (51:56)***
@@ -610,12 +514,8 @@ And worship without knowledge carries no meaning. This is because
 worship is not a mere exercise without any sense of devotion. *‘Ibadah*
 in the literal sense is defined as:
 
-<blockquote dir="rtl">
-  <p>
-العِبَادَةُ هِيَ نَصبُ الْعَبْدِ نَفْسَهُ فِي مَقَامِ المْمْلُوكِيَّة
-لِرَبّهِ
-  </p>
-</blockquote>
+> العِبَادَةُ هِيَ نَصبُ الْعَبْدِ نَفْسَهُ فِي مَقَامِ المْمْلُوكِيَّة
+> لِرَبّهِ
 
 *‘Ibada* is when the servant places himself in the position of being a
 bondsman of his Lord.[^31]
@@ -629,13 +529,9 @@ he places himself in the station of being an obedient slave of Almighty
 Allah. Imam al-Husayn (AS), underlining the clear link between knowledge
 and worship is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ جَلَّ ذِكْرُهُ مَا خَلَقَ الْعِبَادَ إِلاَّ
-لِيَعْرِفُوهُ فَإِذَا عَرَفُوهُ عَبَدُوهُ فَإِذَا عَبَدُوهُ
-اسْتَغْنَوْا بِعِبَادَتِهِ عَنْ عِبَادَةِ مَا سِوَاهُ...
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ جَلَّ ذِكْرُهُ مَا خَلَقَ الْعِبَادَ إِلاَّ
+> لِيَعْرِفُوهُ فَإِذَا عَرَفُوهُ عَبَدُوهُ فَإِذَا عَبَدُوهُ
+> اسْتَغْنَوْا بِعِبَادَتِهِ عَنْ عِبَادَةِ مَا سِوَاهُ...
 
 Surely Allah (SwT) did not Create His servants except for knowing Him,
 and when they know him, they would worship Him, and when they worship
@@ -654,11 +550,7 @@ heart’ which is knowledge by presence (*al-’ilm al-hudhuri*). Perhaps
 the following verse of the Qur\`an alludes to the close link between
 worship and conviction:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ
-  </p>
-</blockquote>
+> وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ
 
 ***And worship your Lord so that conviction comes to you***[^34]
 
@@ -670,12 +562,8 @@ following examples:
 1. In one of the *ziyarat* of the Holy Prophet (S) we are taught by Imam
 ‘Ali (AS) to address his noble being as follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَأَشْهَدُ أَنَّكَ قَدْ نَصَحْتَ لاُِمَّتِكَ، وَجَاهَدْتَ فيِ
-سَبِيْلِ رَبِّكَ، وَعَبَدْتَهُ حَتّى أَتَاكَ الْيَقِيْنُ...
-  </p>
-</blockquote>
+> ...وَأَشْهَدُ أَنَّكَ قَدْ نَصَحْتَ لاُِمَّتِكَ، وَجَاهَدْتَ فيِ
+> سَبِيْلِ رَبِّكَ، وَعَبَدْتَهُ حَتّى أَتَاكَ الْيَقِيْنُ...
 
 ...And I bear witness that you gave counsel to your nation and struggled
 in the way of your Lord, and worshipped Him until conviction
@@ -683,14 +571,10 @@ in the way of your Lord, and worshipped Him until conviction
 
 2. In another *Ziyarat* we address Imam al-Husayn (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-...يَا أَبَا عَبْدِ اللهِ أَشْهَدُ أَنَّكَ قَدْ بَلَّغْتَ عَنِ اللهِ
-عَزَّوَجَلَّ مَا اُمِرْتَ بِهِ وَلَمْ تَخْشَ أَحَدًا غَيْرَهُ
-وَجَاهَدْتَ فِيْ سَبِيْلِهِ وَعَبَدْتَهُ صَادِقًا حَتّى أَتَاكَ
-الْيَقِيْنُ...
-  </p>
-</blockquote>
+> ...يَا أَبَا عَبْدِ اللهِ أَشْهَدُ أَنَّكَ قَدْ بَلَّغْتَ عَنِ اللهِ
+> عَزَّوَجَلَّ مَا اُمِرْتَ بِهِ وَلَمْ تَخْشَ أَحَدًا غَيْرَهُ
+> وَجَاهَدْتَ فِيْ سَبِيْلِهِ وَعَبَدْتَهُ صَادِقًا حَتّى أَتَاكَ
+> الْيَقِيْنُ...
 
 ...O Aba ‘Abdillah, I bear witness that surely you conveyed what you
 were ordered by Allah (the Invincible and Majestic) and other than Him
@@ -700,14 +584,10 @@ Him truthfully until conviction (*al-yaqin*) came to you...[^36]
 3. In one of the *ziyarat* of Imam al-Ridha (AS) we are taught to
 address him as follows:
 
-<blockquote dir="rtl">
-  <p>
-...اَشْهَدُ اَنَّكَ قَدْ اَقَمْتَ الصَّلاَةَ وَآتَيْتَ الزَّكَاةَ
-وَاَمَرْتَ بِالْمَعْرُوْفِ وَنَهَيْتَ عَنِ الْمُنْكَرِ وَعَبَدْتَ
-اللهَ مُخْلِصًا حَتّى اَتَاكَ الْيَقِيْنُ، السَّلاَمُ عَلَيْكَ يَا
-أبَا الْحَسَنِ...
-  </p>
-</blockquote>
+> ...اَشْهَدُ اَنَّكَ قَدْ اَقَمْتَ الصَّلاَةَ وَآتَيْتَ الزَّكَاةَ
+> وَاَمَرْتَ بِالْمَعْرُوْفِ وَنَهَيْتَ عَنِ الْمُنْكَرِ وَعَبَدْتَ
+> اللهَ مُخْلِصًا حَتّى اَتَاكَ الْيَقِيْنُ، السَّلاَمُ عَلَيْكَ يَا
+> أبَا الْحَسَنِ...
 
 ...I bear witness that you kept prayer upright and gave the poor tax and
 invited to what was good and forbade the evil and worshipped Allah
@@ -832,5 +712,4 @@ property is independent of the owner.
 [^36]: Shaykh al-Kulayni, al-Kafi, v.4, p. 573
 
 [^37]: Shaykh al-Saduq, ‘Uyun Akhbar al-Ridha , v.1, p. 302
-
 

@@ -146,4 +146,3 @@ the text is as relevant today as it was when it was first produced and
 secondly; how a demythologised ʿAlī b. al-Ḥusayn as a historical figure
 represents the contemporary human aspirations.
 
-

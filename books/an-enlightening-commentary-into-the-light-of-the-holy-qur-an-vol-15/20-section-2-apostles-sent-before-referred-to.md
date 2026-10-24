@@ -4,12 +4,8 @@ Section 2: Apostles Sent Before, Referred to
 Surah Ya-Sin - Verse 13
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاضْرِبْ لَهُم مَّثَلاً أَصْحَابَ الْقَرْيَةِ اِذْ جَآءَهَا
-الْمُرْسَلُونَ
-  </p>
-</blockquote>
+> وَاضْرِبْ لَهُم مَّثَلاً أَصْحَابَ الْقَرْيَةِ اِذْ جَآءَهَا
+> الْمُرْسَلُونَ
 
 ***13. “And coin for them a similitude of the people of the town, when
 the messengers came to it.”***
@@ -59,12 +55,8 @@ invite them toward Monotheism and struggle against polytheism.
 Surah Ya-Sin - Verse 14
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ أَرْسَلْنَآ إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا
-بِثَالِثٍ فَقَالُوا إِنَّآ اِلَيْكُم مُّرْسَلُونَ
-  </p>
-</blockquote>
+> إِذْ أَرْسَلْنَآ إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا
+> بِثَالِثٍ فَقَالُوا إِنَّآ اِلَيْكُم مُّرْسَلُونَ
 
 ***14. “When We sent unto them two (of Our apostles) they belied them
 both, then We strengthened (the two) with a third and they said (unto
@@ -93,24 +85,12 @@ of the above verses adapts to the first commentary.
 Surah Ya-Sin - Verses 15-17
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا مَآ أَنتُمْ إِلاَّ بَشَرٌ مّـِثْلُنَا وَمَآ أَنزَلَ
-الرَّحْمَنُ مِن شَيْءٍ اِنْ أَنتُمْ اِلاَّ تَكْذِبُونَ
-  </p>
-</blockquote>
+> قَالُوا مَآ أَنتُمْ إِلاَّ بَشَرٌ مّـِثْلُنَا وَمَآ أَنزَلَ
+> الرَّحْمَنُ مِن شَيْءٍ اِنْ أَنتُمْ اِلاَّ تَكْذِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبُّنَا يَعْلَمُ إِنَّآ اِلَيْكُمْ لَمُرْسَلُونَ
-  </p>
-</blockquote>
+> قَالُوا رَبُّنَا يَعْلَمُ إِنَّآ اِلَيْكُمْ لَمُرْسَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا عَلَيْنَآ إِلاَّ الْبَلاَغُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَمَا عَلَيْنَآ إِلاَّ الْبَلاَغُ الْمُبِينُ
 
 ***15. “They said: ‘You are not but men like unto us, nor has the
 Beneficent (Allah) sent down anything. You are speaking only
@@ -172,19 +152,11 @@ Allah, they cured some irrecoverable patients.
 Surah Ya-Sin - Verses 18-19
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا اِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا
-لَنَرْجُمَنَّكُمْ وَلَيَـمَسَّنَّكُم مِنَّا عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> قَالُوا اِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا
+> لَنَرْجُمَنَّكُمْ وَلَيَـمَسَّنَّكُم مِنَّا عَذَابٌ أَلِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا طَآئِرُكُم مَعَكُمْ أَئِنْ ذُكّـِرْتُم بَلْ أَنتُمْ قَوْمٌ
-مُّسْرِفُونَ
-  </p>
-</blockquote>
+> قَالُوا طَآئِرُكُم مَعَكُمْ أَئِنْ ذُكّـِرْتُم بَلْ أَنتُمْ قَوْمٌ
+> مُّسْرِفُونَ
 
 ***18. “(The pagans told the prophets:) ‘For us, we augur an evil omen
 from you, if you do not desist, we will certainly stone you, and there
@@ -269,18 +241,10 @@ events happened.
 Surah Ya-Sin - Verses 20-21
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَ مِنْ أَقْصَا الْمَدِينَةِ رَجُلٌ يَسْعَي قَالَ يَا قَوْمِ
-اتَّبِعُوا الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> وَجَآءَ مِنْ أَقْصَا الْمَدِينَةِ رَجُلٌ يَسْعَي قَالَ يَا قَوْمِ
+> اتَّبِعُوا الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-اتَّبِعُوا مَن لاَ يَسْأَلُكُمْ أَجْراً وَهُم مُّهْتَدُونَ
-  </p>
-</blockquote>
+> اتَّبِعُوا مَن لاَ يَسْأَلُكُمْ أَجْراً وَهُم مُّهْتَدُونَ
 
 ***20. “And from the farthest part of the city there came a man running;
 he said: ‘O’ my people! Follow the messengers;”***  
@@ -384,24 +348,12 @@ nor this, is there any room for hesitation?
 Surah Ya-Sin - Verses 22-24
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِيَ لآ أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَمَا لِيَ لآ أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-ءَأَتَّخِذُ مِن دُونِهِ ءَالِهَةً إِن يُرِدْنِ الرَّحْمَنُ بِضُرٍّ لاَ
-تُغْنِ عَنّـِي شَفَاعَتُهُمْ شَيْئاً وَلاَ يُنقِذُونِ
-  </p>
-</blockquote>
+> ءَأَتَّخِذُ مِن دُونِهِ ءَالِهَةً إِن يُرِدْنِ الرَّحْمَنُ بِضُرٍّ لاَ
+> تُغْنِ عَنّـِي شَفَاعَتُهُمْ شَيْئاً وَلاَ يُنقِذُونِ
 
-<blockquote dir="rtl">
-  <p>
-إِنّـِي إِذًا لَفِي ضَلاَلٍ مُبِينٍ
-  </p>
-</blockquote>
+> إِنّـِي إِذًا لَفِي ضَلاَلٍ مُبِينٍ
 
 ***22. “And why should not I worship Him Who brought me into being, and
 unto Whom you all shall be returned.”***  
@@ -462,23 +414,11 @@ earth and heaven.
 Surah Ya-Sin - Verses 25-27
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنّـِي ءَامَنتُ بِرَبّـِكُمْ فَاسْمَعُونِ
-  </p>
-</blockquote>
+> إِنّـِي ءَامَنتُ بِرَبّـِكُمْ فَاسْمَعُونِ
 
-<blockquote dir="rtl">
-  <p>
-قِيلَ ادْخُلِ الْجَنَّةَ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ
-  </p>
-</blockquote>
+> قِيلَ ادْخُلِ الْجَنَّةَ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-بِمَا غَفَرَ لِي رَبّـِي وَجَعَلَنِي مِنَ الْمُكْرَمِينَ
-  </p>
-</blockquote>
+> بِمَا غَفَرَ لِي رَبّـِي وَجَعَلَنِي مِنَ الْمُكْرَمِينَ
 
 ***25. “Verily I have believed in your lord,*** ***therefore hear
 me!”***  
@@ -626,18 +566,10 @@ prophets, too.
 Surah Ya-Sin - Verses 28-29
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَنزَلْنَا عَلَي قَوْمِهِ مِنْ بَعْدِهِ مِن جُندٍ مِنَ
-السَّمَآءِ وَمَا كُنَّا مُنزِلِينَ
-  </p>
-</blockquote>
+> وَمَآ أَنزَلْنَا عَلَي قَوْمِهِ مِنْ بَعْدِهِ مِن جُندٍ مِنَ
+> السَّمَآءِ وَمَا كُنَّا مُنزِلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِن كَانَتْ إِلاَّ صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ
-  </p>
-</blockquote>
+> إِن كَانَتْ إِلاَّ صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ
 
 ***28. “And We did not send down upon his people, after him, any host
 from heaven, nor do We ever send down.”***  
@@ -688,12 +620,8 @@ this was the fate of a misguided and useless nation.
 Surah Ya-Sin - Verse 30
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا حَسْرَةً عَلَي الْعِبَادِ مَا يَأْتِيهِم مِن رَّسُولٍ إِلاَّ
-كَانُوا بِهِ يَسْتَهْزِؤُونَ
-  </p>
-</blockquote>
+> يَا حَسْرَةً عَلَي الْعِبَادِ مَا يَأْتِيهِم مِن رَّسُولٍ إِلاَّ
+> كَانُوا بِهِ يَسْتَهْزِؤُونَ
 
 ***30. “Alas for the servants! Never came there unto them a messenger
 but they used to mock him!”***
@@ -742,18 +670,10 @@ crimes.
 Surah Ya-Sin - Verses 31-32
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُم مِنَ الْقُرُونِ أَنَّهُمْ
-إِلَيْهِمْ لاَ يَرْجِعُونَ
-  </p>
-</blockquote>
+> أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُم مِنَ الْقُرُونِ أَنَّهُمْ
+> إِلَيْهِمْ لاَ يَرْجِعُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَاِن كُلٌّ لَمَّا جَمِيعٌ لَدَيْنَا مُحْضَرُونَ
-  </p>
-</blockquote>
+> وَاِن كُلٌّ لَمَّا جَمِيعٌ لَدَيْنَا مُحْضَرُونَ
 
 ***31. “Have they not seen how many generations We destroyed before
 them? Not to them will they return.”***  
@@ -858,5 +778,4 @@ and so on.
 [^9]: Tafsir-i-Qurtabi, Vol. 8, P. 5464
 
 [^10]: Nahj-ul-Balaqah, sermon 188
-
 

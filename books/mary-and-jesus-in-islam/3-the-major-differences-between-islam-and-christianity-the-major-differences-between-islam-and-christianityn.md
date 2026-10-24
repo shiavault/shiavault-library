@@ -182,4 +182,3 @@ about the Bible, its authors and message.
 
 [^1] This is the statement of Canon Barnes.
 
-

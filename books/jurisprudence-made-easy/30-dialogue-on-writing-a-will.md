@@ -141,4 +141,3 @@ estate in the way he may have wished.
  -  It be divided according to certain formula, that we will discuss in
 the next dialogue on inheritance.
 
-

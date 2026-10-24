@@ -68,4 +68,3 @@ the major elements of current Imami political theory.
 [^2]: Joseph Raz, Liberalism Autonomy and the Politics of Neutral
 Concern, Midwest Studies in Philosophy, 1982, p. 7.
 
-

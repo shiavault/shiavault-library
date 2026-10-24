@@ -10,13 +10,9 @@ animals and plants, man's spiritual life deserves more significance. It
 enjoys a much higher rank. The Holy Quran refers to it as 'Hayate
 Tayyebeh':
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***Whoever does righteousness, whether male or female, while he is a
 believer - We will surely cause him to live a good life, and We will
@@ -44,5 +40,4 @@ important as protection of his material life which has been stressed by
 Islam.[^1]
 
 [^1]: Declaration of Human Rights in Islamic Law, Article 17.
-
 

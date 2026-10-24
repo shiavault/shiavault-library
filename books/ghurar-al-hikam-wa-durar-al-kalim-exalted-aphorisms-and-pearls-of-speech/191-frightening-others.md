@@ -13,10 +13,5 @@ anyone].
 security on order that you may become frightened.
 
 > 2ـ مَنْ أخافَكَ لِكَى يُؤْمِنَكَ خَيْـرٌ لَكَ مِمَّنْ يُؤْمِنُكَ
-<blockquote dir="rtl">
-  <p>
-لِكَىْ يُخيفَكَ.
-  </p>
-</blockquote>
-
+> لِكَىْ يُخيفَكَ.
 

@@ -137,4 +137,3 @@ explained.
 
 Each chapter that occurs to us we shall explain by the help of God.
 
-

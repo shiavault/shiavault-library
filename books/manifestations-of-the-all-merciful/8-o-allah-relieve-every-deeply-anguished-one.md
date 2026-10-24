@@ -1,11 +1,7 @@
 O Allāh, Relieve Every Deeply Anguished One
 ===========================================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ فَرِّجْ عَنْ كُلِّ مَكْرُوْبٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ فَرِّجْ عَنْ كُلِّ مَكْرُوْبٍ
 
 Meaning of ‘Makrūb’
 -------------------
@@ -15,11 +11,7 @@ meaning ‘deep anguish.’ ‘Allāmah Tabātabā’ī in his *al-Mīzān* quot
 Rāghib Isfahānī, the famous lexicographer of Qur’ānic words, as
 saying[^1]:
 
-<blockquote dir="rtl">
-  <p>
-الْكَرْبُ الغَمُّ الشَّدِيْدُ.
-  </p>
-</blockquote>
+> الْكَرْبُ الغَمُّ الشَّدِيْدُ.
 
 “Karb means deep anguish.”
 
@@ -40,12 +32,8 @@ of anguish vary with different people and different circumstances. Those
 who enjoy the proximity of Allāh, despite having no grief for loss of
 the world and its pleasures:
 
-<blockquote dir="rtl">
-  <p>
- أَلاَ إِنَّ أَوْلِيَآءَ اللٌّهِ لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
-يَحْزَنُونَ 
-  </p>
-</blockquote>
+>  أَلاَ إِنَّ أَوْلِيَآءَ اللٌّهِ لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
+> يَحْزَنُونَ 
 
 ***“Surely, the friends of Allāh neither fear nor grieve.”*** [Holy
 Qur’ān, 10:62]
@@ -53,11 +41,7 @@ Qur’ān, 10:62]
 experience deep anguish for the disbelievers due to the consequences
 they would have to face in future:
 
-<blockquote dir="rtl">
-  <p>
- فَلاَ تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍ 
-  </p>
-</blockquote>
+>  فَلاَ تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍ 
 
 ***“…And therefore do not consume yourself for them due to grief [of
 their unbelief]…”*** [Holy Qur’ān, 35:8]
@@ -79,12 +63,8 @@ Sometimes the source of grief is different. For example, with regard to
 Prophet Ayyūb (as) we say the following[^2] in one of the supplications
 of the Holy month of Ramadān:
 
-<blockquote dir="rtl">
-  <p>
-يَا مُلَيِّنَ الْحَدِيدِ لِدَاوُوْدَ عَلَيْهِ السَّلاَمِ! يَا كَاشِفَ
-الْكُرَبِ الْعِظَامِ عَنْ أَيُّوْبَ عَلَيْهِ السَّلاَم!
-  </p>
-</blockquote>
+> يَا مُلَيِّنَ الْحَدِيدِ لِدَاوُوْدَ عَلَيْهِ السَّلاَمِ! يَا كَاشِفَ
+> الْكُرَبِ الْعِظَامِ عَنْ أَيُّوْبَ عَلَيْهِ السَّلاَم!
 
 “O Softner of Iron for Dāwūd, upon whom be peace. O Reliever of great
 sorrows from Ayyūb, upon whom be peace.”
@@ -106,12 +86,8 @@ from the garbage thrown outside the town.”[^3]
 With regard to Prophet Nūh (as) also, ‘intense grief’ has been
 mentioned. Look at the following verse:
 
-<blockquote dir="rtl">
-  <p>
- وَنُوحًا إِذْ نــَادَى مِنْ قَبْلُ فَاسْتَجَبْنَا لَهُ
-فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ 
-  </p>
-</blockquote>
+>  وَنُوحًا إِذْ نــَادَى مِنْ قَبْلُ فَاسْتَجَبْنَا لَهُ
+> فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ 
 
 ***“And Nūh, when he cried aforetime, so We answered him, and delivered
 him and his followers from the great anguish.”*** [Holy Qur’ān, 21:76]
@@ -183,11 +159,7 @@ those anguished and distressed people that we can support. For we are
 not obliged to do what is beyond our capacity. The Holy Qur’ān
 [al-Baqara - 2:286] says:
 
-<blockquote dir="rtl">
-  <p>
- لاَ يُكَلِّفُ اللٌّهُ نَفْساً إِلاَّ وُسْعَهَا 
-  </p>
-</blockquote>
+>  لاَ يُكَلِّفُ اللٌّهُ نَفْساً إِلاَّ وُسْعَهَا 
 
 ***“Allāh does not oblige a soul save to the extent of its capacity…”***
 
@@ -209,24 +181,16 @@ have extensively covered. Following are traditions worthy of reflection:
 
 1. The Holy Prophet (s) is reported[^4] to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّ مُؤْمِنًا فَقَدْ سَرَّنِي، وَمَنْ سَرَّنِي فَقَدْ سَرَّ
-اللٌّهَ.
-  </p>
-</blockquote>
+> مَنْ سَرَّ مُؤْمِنًا فَقَدْ سَرَّنِي، وَمَنْ سَرَّنِي فَقَدْ سَرَّ
+> اللٌّهَ.
 
 “Whoever makes a believer happy has indeed made me happy; and whosoever
 has made me happy has indeed made Allāh happy.”
 
 2. The Holy Prophet (s) is reported[^5] to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي الْجَنَّةِ دَاراً يُقَالُ لَهَا دَارُ الْفَرَحِ، لاَ
-يَدْخُلُهَا إلاَّ مَنْ فَرَّحَ يَتامَى الْمُؤْمِنِيْنَ.
-  </p>
-</blockquote>
+> إِنَّ فِي الْجَنَّةِ دَاراً يُقَالُ لَهَا دَارُ الْفَرَحِ، لاَ
+> يَدْخُلُهَا إلاَّ مَنْ فَرَّحَ يَتامَى الْمُؤْمِنِيْنَ.
 
 “Surely, there is a place in Paradise called ‘the House of Joy’; none
 would enter therein save one who made the believers among the orphans
@@ -241,11 +205,7 @@ state:
 
 Imām ‘Alī (as) is reported[^6] to have said:
 
-<blockquote dir="rtl">
-  <p>
-سُرُوْرُ الْمُؤْمِنِ بِطَاعَةِ رَبِّهِ، وَحُزْنُهُ عَلَى ذَنْبِهِ.
-  </p>
-</blockquote>
+> سُرُوْرُ الْمُؤْمِنِ بِطَاعَةِ رَبِّهِ، وَحُزْنُهُ عَلَى ذَنْبِهِ.
 
 “The happiness of a believer is in his obedience and his grief is due to
 his sin.”
@@ -254,24 +214,16 @@ In fact, repentance is a fundamental condition from among the six
 conditions of *istighfār* enumerated by Imām ‘Alī (as) in *Nahju’l
 Balāgha*. Imām (as) says:
 
-<blockquote dir="rtl">
-  <p>
-...أَوَّلُهَا النَّدَمُ عَلَى مَا مَضَى...
-  </p>
-</blockquote>
+> ...أَوَّلُهَا النَّدَمُ عَلَى مَا مَضَى...
 
 “The first [condition of *istighfār*] is regret about the past
 [misdeeds].”
 
 The Holy Qur’ān [3:135] says:
 
-<blockquote dir="rtl">
-  <p>
- وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْـفُسَهُمْ
-ذَكَرُوا اللٌّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَنْ يَغْفِرُ
-الذُّنُوبَ إِلاَّ اللٌّهُ...
-  </p>
-</blockquote>
+>  وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْـفُسَهُمْ
+> ذَكَرُوا اللٌّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَنْ يَغْفِرُ
+> الذُّنُوبَ إِلاَّ اللٌّهُ...
 
 ***“And those when they commit an indecency or oppress themselves,
 remember Allāh and seek forgiveness of their sins; and who can forgive a
@@ -346,5 +298,4 @@ Holy Prophet (s) nears the youth and tells him: “I give you glad tidings
 [^6]: Ibid., v. 2, pg. 1291, tr. 8455
 
 [^7]: Tafsīr al-Sāfī, v. 1, pp. 382-384
-
 

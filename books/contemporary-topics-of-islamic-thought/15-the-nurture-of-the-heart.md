@@ -479,4 +479,3 @@ al-Musawi al-Khomeini, tr. by A. Q. Qara'i, Al-Tawhid, vol. XII, No. 1,
 
 [^16]: Ibid., 23-24.
 
-

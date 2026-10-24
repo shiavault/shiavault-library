@@ -590,9 +590,7 @@ that, every affair will return to Him for final decision.
 **سوره يوسف
 JOSEPH**
 
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH, THE MERCIFUL, THE COMPASSIONATE
 
@@ -614,5 +612,4 @@ WISDOM.
 THIS QURA"N, WHILE BEFORE THIS, YOU WERE OF THOSE WHO KNEW IT NOT.
 
 [ 230 ]
-
 

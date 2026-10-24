@@ -308,4 +308,3 @@ will be no way to justify the military might of any modern nation that
 rises in arms to defend its freedom when it is threatened by its
 adversaries.
 
-

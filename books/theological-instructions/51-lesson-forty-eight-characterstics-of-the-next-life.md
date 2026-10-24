@@ -158,4 +158,3 @@ life.
 4- Explain the characteristics of the next world from the intellectual
 viewpoint.
 
-

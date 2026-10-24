@@ -299,4 +299,3 @@ Kramers, Shorter Encyclopedia of Islam: Leiden, E.J. Brill, 1974, p.135.
 [^9]: Razi Ale Yasin - 'Sulh-ul Hasan', Qum, Manshuraat al Shareef Razi,
 1414 A.H., pp.108-111
 
-

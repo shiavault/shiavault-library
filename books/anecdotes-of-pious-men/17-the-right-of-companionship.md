@@ -41,4 +41,3 @@ learnt afterwards that his Muslim friend was Ali bin Abi-Talib, the
 Caliph of that time. Soon after he embraced Islam and was counted among
 the most devout and self-sacrificing companions of Ali.
 
-

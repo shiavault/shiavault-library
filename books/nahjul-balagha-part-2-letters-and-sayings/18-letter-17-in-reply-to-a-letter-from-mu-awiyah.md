@@ -3,17 +3,9 @@ Letter 17: In reply to a letter from Mu'awiyah
 
 *In reply to a letter from Mu'awiyah* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن كتاب له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كتاب له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-إلى معاوية، جواباً عن كتاب منه
-  </p>
-</blockquote>
+> إلى معاوية، جواباً عن كتاب منه
 
 As for your demand to me to (hand over) Syria, I cannot give you today
 what I denied you yesterday. As regards your saying that the war has
@@ -24,18 +16,14 @@ certainly you cannot be more penetrating in doubtfulness (of belief)
 than I am in certainty (of belief), and the people of Syria are not more
 greedy for this world than the people of Iraq are for the next world.
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا طَلَبُكَ إِلَيَّ الشَّامَ، فَإِنِّي لَمْ أَكُنْ لاِعْطِيَكَ
-الْيَوْمَ مَا مَنَعْتُكَ أَمْسِ. وَأَمَّا قَوْلُكَ: إِنَّ الْحَرْبَ
-قَدْ أَكَلَتِ الْعَرَبَ إِلاَّ حُشَاشَاتِ أَنْفُس بَقِيَتْ، فَمَنْ
-أَكَلَهُ الْحَقُّ فَإِلَى الْجَنَّةِ،مَنْ أَكَلَهُ الْبَاطِلُ فَإِلَى
-النّارِ. وَأَمَّا اسْتِوَاؤُنَا فِي الْحَرْبِ والرِّجَالِ، فَلَسْتَ
-بِأَمْضَى عَلَى الشَّكِّ مِنِّي عَلَى الْيَقِينِ، وَلَيْسَ أَهْلُ
-الشَّامِ بِأَحْرَصَ عَلَى الدُّنْيَا مِنْ أَهْلِ الْعِرَاقِ عَلَى
-الاْخِرَةِ.
-  </p>
-</blockquote>
+> وَأَمَّا طَلَبُكَ إِلَيَّ الشَّامَ، فَإِنِّي لَمْ أَكُنْ لاِعْطِيَكَ
+> الْيَوْمَ مَا مَنَعْتُكَ أَمْسِ. وَأَمَّا قَوْلُكَ: إِنَّ الْحَرْبَ
+> قَدْ أَكَلَتِ الْعَرَبَ إِلاَّ حُشَاشَاتِ أَنْفُس بَقِيَتْ، فَمَنْ
+> أَكَلَهُ الْحَقُّ فَإِلَى الْجَنَّةِ،مَنْ أَكَلَهُ الْبَاطِلُ فَإِلَى
+> النّارِ. وَأَمَّا اسْتِوَاؤُنَا فِي الْحَرْبِ والرِّجَالِ، فَلَسْتَ
+> بِأَمْضَى عَلَى الشَّكِّ مِنِّي عَلَى الْيَقِينِ، وَلَيْسَ أَهْلُ
+> الشَّامِ بِأَحْرَصَ عَلَى الدُّنْيَا مِنْ أَهْلِ الْعِرَاقِ عَلَى
+> الاْخِرَةِ.
 
 As for your saying that both of us are sons of 'Abd Manaf, it is no
 doubt so, but Umayyah cannot be like Hashim, nor Harb like Abd
@@ -47,16 +35,12 @@ wrong, nor a believer be a match for a hypocrite. How bad are the
 successors who go on following their predecessors who have fallen in the
 fire of Hell!
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا قَوْلُكَ: إِنَّا بَنُو عَبْدِ مَنَاف، فَكَذلِكَ نَحْنُ،
-وَلكِنْ لَيْسَ أُمَيَّةُ كَهَاشِمَ، وَلاَ حَرْبٌ كَعَبْدِ
-الْمُطَّلِبِ، وَلاَ أَبُوسُفْيَانَ كَأَبِي طَالِب، وَلاَ المُهَاجرُ
-كَالطَّلِيقِ، وَلاَ الصَّرِيحُ كَاللَّصِيقِ، وَلاَ الْـمُحِقُّ
-كَالْمُبطِلِ، وَلاَ الْمُؤْمِنُ كَالمُدْغِلِ، وَلَبِئْسَ الْخَلَفُ
-خَلَفٌ يَتْبَعُ سَلَفاً هَوَى فِي نَارِ جَهَنَّمَ.
-  </p>
-</blockquote>
+> وَأَمَّا قَوْلُكَ: إِنَّا بَنُو عَبْدِ مَنَاف، فَكَذلِكَ نَحْنُ،
+> وَلكِنْ لَيْسَ أُمَيَّةُ كَهَاشِمَ، وَلاَ حَرْبٌ كَعَبْدِ
+> الْمُطَّلِبِ، وَلاَ أَبُوسُفْيَانَ كَأَبِي طَالِب، وَلاَ المُهَاجرُ
+> كَالطَّلِيقِ، وَلاَ الصَّرِيحُ كَاللَّصِيقِ، وَلاَ الْـمُحِقُّ
+> كَالْمُبطِلِ، وَلاَ الْمُؤْمِنُ كَالمُدْغِلِ، وَلَبِئْسَ الْخَلَفُ
+> خَلَفٌ يَتْبَعُ سَلَفاً هَوَى فِي نَارِ جَهَنَّمَ.
 
 Besides that, we also have the distinction of prophethood among us, by
 virtue of which we subdued the strong and raised up the down-trodden.
@@ -68,18 +52,14 @@ acquired their (peculiar) distinction. Now, do not allow Satan have a
 share with you nor let him have his sway over you; and that is an end to
 the matter.
 
-<blockquote dir="rtl">
-  <p>
-وَفِي أَيْدِينَا بعْدُ فَضْلُ النُّبُوَّةِ الَّتِي أَذْلَلْنَا بِهَا
-الْعَزِيزَ، وَنَعَشْنَا بِهَا الذَّلِيلَ. وَلَمَّا أَدْخَلَ اللهُ
-الْعَرَبَ فِي دِينِهِ أَفْوَاجاً، وَأَسْلَمَتْ لَهُ هذِهِ الاْمَّةُ
-طَوْعاً وَكَرْهاً، كُنْتُمْ مِمَّنْ دَخَلَ فِي الدِّينِ: إِمَّا
-رَغْبَةً وَإِمَّا رَهْبَةً، عَلَى حِينَ فَازَ أَهْلُ السَّبْقِ
-بِسَبْقِهِمْ، وَذَهَبَ الْمُهَاجِرُونَ الاْوَّلُونَ بِفَضْلِهِمْ.
-فَلاَ تَجْعَلَنَّ لِلشَّيْطَانِ فِيكَ نَصِيباً، وَلاَ عَلَى نَفْسِكَ
-سَبِيلاً، وَالسَّلاَمُ.
-  </p>
-</blockquote>
+> وَفِي أَيْدِينَا بعْدُ فَضْلُ النُّبُوَّةِ الَّتِي أَذْلَلْنَا بِهَا
+> الْعَزِيزَ، وَنَعَشْنَا بِهَا الذَّلِيلَ. وَلَمَّا أَدْخَلَ اللهُ
+> الْعَرَبَ فِي دِينِهِ أَفْوَاجاً، وَأَسْلَمَتْ لَهُ هذِهِ الاْمَّةُ
+> طَوْعاً وَكَرْهاً، كُنْتُمْ مِمَّنْ دَخَلَ فِي الدِّينِ: إِمَّا
+> رَغْبَةً وَإِمَّا رَهْبَةً، عَلَى حِينَ فَازَ أَهْلُ السَّبْقِ
+> بِسَبْقِهِمْ، وَذَهَبَ الْمُهَاجِرُونَ الاْوَّلُونَ بِفَضْلِهِمْ.
+> فَلاَ تَجْعَلَنَّ لِلشَّيْطَانِ فِيكَ نَصِيباً، وَلاَ عَلَى نَفْسِكَ
+> سَبِيلاً، وَالسَّلاَمُ.
 
 [^1]: During the battle of Siffin, Mu'awiyah thought of again demanding
 the province of Syria from Amir al-mu'minin and to play such a trick as
@@ -188,5 +168,4 @@ al-mu'minin has exposed his hypocricy in the earlier writing in these
 words.  These people had not accepted Islam but they had secured safety
 by verbally professing it and had hidden their misbelief. Consequently,
 when they found helpers for their mischief they disclosed it.
-
 

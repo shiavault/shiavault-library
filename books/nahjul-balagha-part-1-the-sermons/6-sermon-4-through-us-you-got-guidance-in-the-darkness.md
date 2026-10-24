@@ -4,23 +4,11 @@ Sermon 4: Through us you got guidance in the darkness...
 *Amir al-mu’minin’s far-sightedness and his staunch conviction in
 Belief*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وهي من أفصح كلامه (عليه السلام)، وفيها يعظ الناس ويهديهم من ضلالتهم،
-  </p>
-</blockquote>
+> وهي من أفصح كلامه (عليه السلام)، وفيها يعظ الناس ويهديهم من ضلالتهم،
 
-<blockquote dir="rtl">
-  <p>
-ويقال: إنه خطبها بعد قتل طلحة والزبير
-  </p>
-</blockquote>
+> ويقال: إنه خطبها بعد قتل طلحة والزبير
 
 Through us you got guidance in the darkness and secured high position,
 and through us you got out of the gloomy night. The ears which do not
@@ -29,14 +17,10 @@ the loud cries (of the Qur’an and the Prophet) listen to (my) feeble
 voice? The heart that has ever palpitated (with fear of Allah) may get
 peace.
 
-<blockquote dir="rtl">
-  <p>
-بِنَا اهْتَدَيْتُمْ في الظَّلْمَاءِ، وَتَسَنَّمْتُمُ العلْيَاءَ،
-وبِنَا انْفَجَرْتُم عَنِ السِّرَارِ، وُقِرَ سَمْعٌ لَمْ يَفْقَهِ
-الوَاعِيَةَ، كَيْفَ يُرَاعِي النَّبْأَةَ مَنْ أَصَمَّتْهُ الصَّيْحَةُ؟
-رُبِطَ جَنَانٌ لَمْ يُفَارِقْهُ الخَفَقَانُ.
-  </p>
-</blockquote>
+> بِنَا اهْتَدَيْتُمْ في الظَّلْمَاءِ، وَتَسَنَّمْتُمُ العلْيَاءَ،
+> وبِنَا انْفَجَرْتُم عَنِ السِّرَارِ، وُقِرَ سَمْعٌ لَمْ يَفْقَهِ
+> الوَاعِيَةَ، كَيْفَ يُرَاعِي النَّبْأَةَ مَنْ أَصَمَّتْهُ الصَّيْحَةُ؟
+> رُبِطَ جَنَانٌ لَمْ يُفَارِقْهُ الخَفَقَانُ.
 
 I always apprehended from you consequences of treachery and I had seen
 you through in the garb of the deceitful. The curtain of religion had
@@ -44,15 +28,11 @@ kept me hidden from you but the truth of my intentions disclosed you to
 me. I stood for you on the path of truth among misleading tracks where
 you met each other but there was no leader and you dug but got no water.
 
-<blockquote dir="rtl">
-  <p>
-مَا زِلتُ أَنْتَظِرُ بِكُمْ عَوَاقِبَ الغَدْرِ، وَأَتَوَسَّمُكُمْ
-بِحِلْيَةِ الـمُغْتَرِّينَ ، سَتَرَني عَنْكُمْ جِلْبَابُ الدِّينِ،
-وَبَصَّرَنِيكُمْ صِدْقُ النِّيَّةِ، أَقَمْتُ لَكُمْ عَلَى سَنَنِ
-الحَقِّ في جَوَادِّ الـمَضَلَّةِ، حيْثُ تَلْتَقُونَ وَلا دَلِيلَ،
-وَتَحْتَفِرُونَ وَلا تُميِهُونَ.
-  </p>
-</blockquote>
+> مَا زِلتُ أَنْتَظِرُ بِكُمْ عَوَاقِبَ الغَدْرِ، وَأَتَوَسَّمُكُمْ
+> بِحِلْيَةِ الـمُغْتَرِّينَ ، سَتَرَني عَنْكُمْ جِلْبَابُ الدِّينِ،
+> وَبَصَّرَنِيكُمْ صِدْقُ النِّيَّةِ، أَقَمْتُ لَكُمْ عَلَى سَنَنِ
+> الحَقِّ في جَوَادِّ الـمَضَلَّةِ، حيْثُ تَلْتَقُونَ وَلا دَلِيلَ،
+> وَتَحْتَفِرُونَ وَلا تُميِهُونَ.
 
 Today I am making these dumb things speak to you (i.e. my suggestive
 ideas and deep musings etc.) which are full of descriptive power. The
@@ -62,15 +42,11 @@ not entertain fear for his own self. Rather he apprehended mastery of
 the ignorant and away of deviation. Today we stand on the cross-roads of
 truth and untruth. The one who is sure of getting water feels no thirst.
 
-<blockquote dir="rtl">
-  <p>
-اليَوْمَ أُنْطِقُ لَكُمُ العَجْمَاءَ ذاتَ البَيَان! عَزَبَ رَأْيُ
-امْرِىء تَخَلَّفَ عَنِّي، مَا شَكَكْتُ في الحَقِّ مُذْ أُرِيتُهُ! لَمْ
-يُوجِسْ مُوسَى خِيفَةً عَلَى نَفْسِهِ، أَشْفَقَ مِنْ غَلَبَةِ
-الجُهَّالِ وَدُوَلِ الضَّلالِ! اليَوْمَ تَوَاقَفْنَا عَلَى سَبِيلِ
-الحَقِّ وَالباطِلِ، مَنْ وَثِقَ بِمَاء لَمْ يَظْمَأْ!
-  </p>
-</blockquote>
+> اليَوْمَ أُنْطِقُ لَكُمُ العَجْمَاءَ ذاتَ البَيَان! عَزَبَ رَأْيُ
+> امْرِىء تَخَلَّفَ عَنِّي، مَا شَكَكْتُ في الحَقِّ مُذْ أُرِيتُهُ! لَمْ
+> يُوجِسْ مُوسَى خِيفَةً عَلَى نَفْسِهِ، أَشْفَقَ مِنْ غَلَبَةِ
+> الجُهَّالِ وَدُوَلِ الضَّلالِ! اليَوْمَ تَوَاقَفْنَا عَلَى سَبِيلِ
+> الحَقِّ وَالباطِلِ، مَنْ وَثِقَ بِمَاء لَمْ يَظْمَأْ!
 
 Alternative Sources for Sermon 4
 --------------------------------
@@ -98,5 +74,4 @@ too had the same fear viz. that the people should not be caught in the
 trap of these (Talhah, az-Zubayr, etc.) and fail into misguidance by
 getting astray from the true faith. Otherwise, he himself never feared
 for his own life.
-
 

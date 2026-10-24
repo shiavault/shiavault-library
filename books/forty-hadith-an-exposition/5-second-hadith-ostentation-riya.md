@@ -1,16 +1,12 @@
 Second Hadith: Ostentation (Riya’)
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
-بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي عُمَيْرٍ، عَنْ أَبِي
-المَغْرَا عَنْ يَزِيدَ بْنِ خَلِيفَةٍ قَالَ: قَالَ أَبُو عَبْدِاللهِ
-عَلَيْهِ السَّلامُ: كُلُّ رِيَاءٍ شِرْكٌ. إِنَّهُ مَنْ عَمِلَ
-لِلنَّاسِ كَانَ ثَوَابُهُ عَلَى النَّاسِ، وَمَنْ عَمِلَ للهِ كَانَ
-ثَوابُهُ عَلَى اللهِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ عَلِيٍّ
+> بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي عُمَيْرٍ، عَنْ أَبِي
+> المَغْرَا عَنْ يَزِيدَ بْنِ خَلِيفَةٍ قَالَ: قَالَ أَبُو عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ: كُلُّ رِيَاءٍ شِرْكٌ. إِنَّهُ مَنْ عَمِلَ
+> لِلنَّاسِ كَانَ ثَوَابُهُ عَلَى النَّاسِ، وَمَنْ عَمِلَ للهِ كَانَ
+> ثَوابُهُ عَلَى اللهِ.
 
 (On the authority of the above-mentioned narrators), Yazid ibn Khalifah
 reports from Imam al-Sadiq (A) that he said, “Riya in any of its forms
@@ -109,13 +105,9 @@ content, a body without soul and a skull without brain; and in no way is
 acceptable to God. This fact is confirmed by a tradition mentioned in
 *al-Kafi*, narrated by ‘Ali ibn Salim:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ أَبَا عَبْدِاللهِ، عَلَيْهِ السَّلامُ، يَقُولُ: قَالَ اللهُ،
-عَزَّ وَجَلَّ: أَنَا خَيْرُ شَرِيكٍ؛ مَنْ أَشْرَكَ مَعِيَ غَيْرِي فِي
-عَمَلٍ عَمِلَهُ لَمْ أَقْبَلْهُ إِلا مَا كَانَ لِي خَالِصاً.
-  </p>
-</blockquote>
+> سَمِعْتُ أَبَا عَبْدِاللهِ، عَلَيْهِ السَّلامُ، يَقُولُ: قَالَ اللهُ،
+> عَزَّ وَجَلَّ: أَنَا خَيْرُ شَرِيكٍ؛ مَنْ أَشْرَكَ مَعِيَ غَيْرِي فِي
+> عَمَلٍ عَمِلَهُ لَمْ أَقْبَلْهُ إِلا مَا كَانَ لِي خَالِصاً.
 
 The narrator of the tradition says that he heard Imam al-Sadiq (A)
 saying that God Almighty said, “I am the best of friends; one who makes
@@ -230,11 +222,7 @@ region of your spirit, as well as the realm of the body. It is beyond
 your capacity and mine to conceive or perceive the intensity of that
 fire, as God Almighty has mentioned in His Holy Book:
 
-<blockquote dir="rtl">
-  <p>
-﴿نَارُ اللَّهِ الْمُوقَدَةُ. الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ.﴾
-  </p>
-</blockquote>
+> ﴿نَارُ اللَّهِ الْمُوقَدَةُ. الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ.﴾
 
 (***It is***) ***the fire of Allah, kindled, which leapeth up over the
 hearts of men.*** (***104:6-7***)
@@ -295,20 +283,16 @@ they intended, they could not achieve, but something that they did not
 desire happened to them. The following tradition in *al-Kafi* points to
 the same fact:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ جَرَّاحٍ المَدَائِنِيِّ، عَنْ أَبِي عَبْدِاللهِ، عَلَيْهِ
-السَّلامُ، فِي قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿فَمَنْ كَانَ يَرْجُو
-لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلا يُشْرِكْ
-بِعِبَادَةِ رَبِّهِ أَحَداً.﴾ قَالَ: الرَّجُلُ يَعْمَلُ شَيْئاً مِنَ
-الثَّوَابِ لا يَطْلُبُ بِهِ وَجْهَ اللهِ إِنَّمَا يَطْلُبُ تَزْكِيَةَ
-النَّاسِ يَشْتَهِي أَنْ يُسْمِعَ بِهِ النَّاسَ، فَهَذَا الَّذِي
-أَشْرَكَ بِعِبَادَةِ رَبِّهِ. ثُمَّ قَالَ: مَا مِنْ عَبْدٍ أَسَرَّ
-خَيْراً فَذَهَبَتِ الأَيَّامُ أَبَداً حَتَّى يُظْهِرَ اللهُ لَهُ
-خَيْراً، وَمَا مِنْ عَبْدٍ يُسِرُّ شَرّاً فَذَهَبَتِ الأَيَّامُ
-أَبَداً حَتَّى يُظْهِرَ اللهُ لَهُ شَرّاً.
-  </p>
-</blockquote>
+> عَنْ جَرَّاحٍ المَدَائِنِيِّ، عَنْ أَبِي عَبْدِاللهِ، عَلَيْهِ
+> السَّلامُ، فِي قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿فَمَنْ كَانَ يَرْجُو
+> لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلا يُشْرِكْ
+> بِعِبَادَةِ رَبِّهِ أَحَداً.﴾ قَالَ: الرَّجُلُ يَعْمَلُ شَيْئاً مِنَ
+> الثَّوَابِ لا يَطْلُبُ بِهِ وَجْهَ اللهِ إِنَّمَا يَطْلُبُ تَزْكِيَةَ
+> النَّاسِ يَشْتَهِي أَنْ يُسْمِعَ بِهِ النَّاسَ، فَهَذَا الَّذِي
+> أَشْرَكَ بِعِبَادَةِ رَبِّهِ. ثُمَّ قَالَ: مَا مِنْ عَبْدٍ أَسَرَّ
+> خَيْراً فَذَهَبَتِ الأَيَّامُ أَبَداً حَتَّى يُظْهِرَ اللهُ لَهُ
+> خَيْراً، وَمَا مِنْ عَبْدٍ يُسِرُّ شَرّاً فَذَهَبَتِ الأَيَّامُ
+> أَبَداً حَتَّى يُظْهِرَ اللهُ لَهُ شَرّاً.
 
 The narrator of the tradition, Jarrah al-Mada’ini, reports from Imam
 al-Sadiq (A) that he asked the Imam about the words of the Almighty that
@@ -354,11 +338,7 @@ Can you imagine the disgrace of that day? God alone knows what sort of
 darkness is to follow that disgrace. It will be the day, as God Almighty
 has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا.﴾
-  </p>
-</blockquote>
+> ﴿وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا.﴾
 
 ***And the disbeliever will cry: ‘Would that I were dust’.***
 (***78:40***)
@@ -397,11 +377,7 @@ world. Do not allow the light of your nature to be turned into the gloom
 of apostasy. Do not be a traitor to yourself and do not destroy what God
 has entrusted to you, calling it:
 
-<blockquote dir="rtl">
-  <p>
-﴿فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾
-  </p>
-</blockquote>
+> ﴿فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾
 
 (***It is***) ***the nature*** (***framed***) ***of Allah in which He
 hath created man.*** (***30:30***)
@@ -440,11 +416,7 @@ cannot be caused to His Kingdom, and we cannot exclude ourselves from
 His reign of power either. If we are acting like the polytheists we are
 causing harm to ourselves, because:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَإِنَّ اللَّهَ غَنِيٌّ عَنْ الْعَالَمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿فَإِنَّ اللَّهَ غَنِيٌّ عَنْ الْعَالَمِينَ.﴾
 
 ***Lo! Allah is independent of*** (***all***) ***creatures.***
 (***3:97***)
@@ -520,22 +492,14 @@ of guiding us and showing the right path, for which we are indebted to
 them and even a fraction of it we cannot pay back in this world. Nothing
 of this world is worthy of the repayment of their debt:
 
-<blockquote dir="rtl">
-  <p>
-فَلِلَّهِ وَلِرَسُولِهِ وَلأَوْلِيَائِهِ المِنَّةُ.
-  </p>
-</blockquote>
+> فَلِلَّهِ وَلِرَسُولِهِ وَلأَوْلِيَائِهِ المِنَّةُ.
 
 It is to God, His Prophet (S), and His saints to whom all owe gratitude.
 
 As God Almighty has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ لَا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ بَلْ اللَّهُ يَمُنُّ
-عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنتُمْ صَادِقِينَ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ لَا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ بَلْ اللَّهُ يَمُنُّ
+> عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنتُمْ صَادِقِينَ.﴾
 
 ***Say: Deem not your surrender a favor unto me; nay, but Allah does
 confer a favor on you, inasmuch as He hath led you to the faith, if ye
@@ -587,11 +551,7 @@ the right path, and is genuinely in search of God, his devotion is
 within the bounds of the *Shari’ah*, and God will help him, as promised
 in the following verse of the Quran:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا.﴾
-  </p>
-</blockquote>
+> ﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا.﴾
 
 ***As for those who strive for Us, We surely guide them to Our paths.***
 (***29:69***)
@@ -618,12 +578,8 @@ your heart is purged of impurities and unholiness, you cannot be
 benefited from spiritual exercises, as God Almighty states in a *hadith
 qudsi:*
 
-<blockquote dir="rtl">
-  <p>
-لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
-المُؤْمِنُ.
-  </p>
-</blockquote>
+> لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
+> المُؤْمِنُ.
 
 Neither [the vastness of] My earth, nor [that of] My heaven can contain
 Me. Indeed it is the heart of the man of faith, which can contain Me.
@@ -635,12 +591,8 @@ The believer’s heart is in the occupation of God, not at the disposal of
 the self. The heart of the believer is not self-willed, nor is it
 vagrant. It is said of it:
 
-<blockquote dir="rtl">
-  <p>
-قَلْبُ المُؤْمِنِ بَيْنَ إِصْبِعَيِ الرَّحْمَانِ، يُقَلِّبُهُ كَيْفَ
-يَشَاءُ.
-  </p>
-</blockquote>
+> قَلْبُ المُؤْمِنِ بَيْنَ إِصْبِعَيِ الرَّحْمَانِ، يُقَلِّبُهُ كَيْفَ
+> يَشَاءُ.
 
 The heart of the true believer (mu’min) lies between two fingers of God,
 that He may turn it whatever way He pleases.
@@ -664,11 +616,7 @@ be aware, do not let sleep overtake your senses, and know that God
 Almighty has created you for His own sake, as stated in one *hadith
 qudsi:*
 
-<blockquote dir="rtl">
-  <p>
-يَا ابْنَ آدَمَ؛ خَلَقْتُ الأَشْيَاءَ لَكَ وَخَلَقْتُكَ لأَجْلِي.
-  </p>
-</blockquote>
+> يَا ابْنَ آدَمَ؛ خَلَقْتُ الأَشْيَاءَ لَكَ وَخَلَقْتُكَ لأَجْلِي.
 
 O progeny of Adam, We have made everything for you and you for Our
 service.
@@ -1044,11 +992,7 @@ All power belongs to the Almighty. He is the Mover of the universe.
 Whenever you do something and make an effort to perform something,
 inscribe on your heart with the pen of reason:
 
-<blockquote dir="rtl">
-  <p>
-لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
-  </p>
-</blockquote>
+> لا مُؤَثِّرَ فِي الوُجُودِ إَلا اللهُ.
 
 No one is effective in the realm of existence except God.
 
@@ -1063,11 +1007,7 @@ alone is capable of doing any harm or good to anybody. Cure your vision,
 which suffers from blindness so that you are not raised blind on the Day
 of Judgment and complain to the Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنْتُ بَصِيراً.﴾
-  </p>
-</blockquote>
+> ﴿رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنْتُ بَصِيراً.﴾
 
 ***My Lord! wherefore have You raised me*** (***here***) ***blind?***
 (***20:125***)
@@ -1124,15 +1064,11 @@ is no hope of salvation for you. Then you will invite the wrath of God,
 as mentioned in the tradition quoted in *Wasa’il al-Shi’ah* from *Qurb
 al- asnad,* and reported from Amir al-mu’minin ‘Ali (A):
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَمِيرِ المُؤْمِنِينَ عَلِيٍّ، عَلَيْهِ السَّلامُ، عَنْ رَسُولِ
-اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، (أَنَّهُ قَالَ) مَنْ تَزَيَّنَ
-لِلنَّاسِ بِمَا يُحِبُّ اللهُ وَبَارَزَ اللهَ فِي السِّرِّ بِمَا
-يَكْرَهُهُ اللهُ لَقِيَ اللهَ وَهُوَ عَلَيْهِ غَضْبَانَ وَلَهُ
-مَاقِتٌ.
-  </p>
-</blockquote>
+> عَنْ أَمِيرِ المُؤْمِنِينَ عَلِيٍّ، عَلَيْهِ السَّلامُ، عَنْ رَسُولِ
+> اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ، (أَنَّهُ قَالَ) مَنْ تَزَيَّنَ
+> لِلنَّاسِ بِمَا يُحِبُّ اللهُ وَبَارَزَ اللهَ فِي السِّرِّ بِمَا
+> يَكْرَهُهُ اللهُ لَقِيَ اللهَ وَهُوَ عَلَيْهِ غَضْبَانَ وَلَهُ
+> مَاقِتٌ.
 
 Amir al-mu’minin ‘Ali (A) reports that the Prophet (S) said, “One who
 does some act liked by God in order to show off to people, and in secret
@@ -1153,11 +1089,7 @@ This is a warning for us to be cautious lest, God forbid, we do
 something to incur the wrath of the King of kings and the Most Merciful
 of the merciful:
 
-<blockquote dir="rtl">
-  <p>
-أَعُوذُ بِاللهِ مِنْ غَضَبِ الحَلِيمِ.
-  </p>
-</blockquote>
+> أَعُوذُ بِاللهِ مِنْ غَضَبِ الحَلِيمِ.
 
 ### A Tradition Of Imam ‘Ali (A)
 
@@ -1167,14 +1099,10 @@ al-Saduq has also reported the same tradition from Imam al-Sadiq (A),
 which forms a part of the last will and testament of the Prophet (S) to
 ‘Ali (A):
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ أَمِيرُ
-المُؤْمِنِينَ عَلَيْهِ السَّلامُ : ثَلاثُ عَلامَاتٍ لِلْمُرَائِي:
-يَنْشِطُ إِذَا رَأَى النَّاسَ، وَيَكْسِلُ إِذَا كَانَ وَحْدَهُ،
-وَيُحِبُّ أَنْ يُحْمَدَ فِي جَمِيعِ أُمُورِهِ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ أَمِيرُ
+> المُؤْمِنِينَ عَلَيْهِ السَّلامُ : ثَلاثُ عَلامَاتٍ لِلْمُرَائِي:
+> يَنْشِطُ إِذَا رَأَى النَّاسَ، وَيَكْسِلُ إِذَا كَانَ وَحْدَهُ،
+> وَيُحِبُّ أَنْ يُحْمَدَ فِي جَمِيعِ أُمُورِهِ.
 
 Said Imam al-Sadiq (A) that Amir al-mu’minin (A) said: ‘There are three
 distinguishing features of one accustomed to riya’: he expresses joy and
@@ -1286,15 +1214,11 @@ narrated from the Prophet (S) and Amir al-mu’minin (A), there is another
 *hadith* also, reported by Zurarah from imam Abu Ja’far (A), which is as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ زُرَازَةَ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ؛ قَالَ
-(زُرَارَةُ): سَأَلْتُهُ عَنِ الرَّجُلِ يَعْمَلُ الشَّيْءَ مِنَ
-الخَيْرِ فَيَرَاهُ إِنْسَانُ فَيَسُرُّهُ ذَلِكَ. قَالَ: لا بَأْسَ! مَا
-مِنْ أَحَدٍ إِلا وَيُحِبُّ أَنْ يَظْهَرَ لَهُ فِي النَّاسِ الخَيْرُ
-إِذَا لَمْ يَكُنْ صَنَعَ ذَلِكَ لِذَلِكَ.
-  </p>
-</blockquote>
+> عَنْ زُرَازَةَ عَنْ أَبِي جَعْفَرٍ عَلَيْهِ السَّلامُ؛ قَالَ
+> (زُرَارَةُ): سَأَلْتُهُ عَنِ الرَّجُلِ يَعْمَلُ الشَّيْءَ مِنَ
+> الخَيْرِ فَيَرَاهُ إِنْسَانُ فَيَسُرُّهُ ذَلِكَ. قَالَ: لا بَأْسَ! مَا
+> مِنْ أَحَدٍ إِلا وَيُحِبُّ أَنْ يَظْهَرَ لَهُ فِي النَّاسِ الخَيْرُ
+> إِذَا لَمْ يَكُنْ صَنَعَ ذَلِكَ لِذَلِكَ.
 
 Zurarah reports that he questioned Imam al-Baqir (A) about the status of
 a person who performed good deeds, which were seen by others and it made
@@ -1334,5 +1258,4 @@ its meaning separately.
 [^6]: Usul al-Kafi, vol. 2, p. 295.
 
 [^7]: Usul al-Kafi, vol. 2, p. 297.
-
 

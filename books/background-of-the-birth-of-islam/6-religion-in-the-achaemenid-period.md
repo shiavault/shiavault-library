@@ -564,4 +564,3 @@ difficult, and the next two scholars completed the task. About three
 experts devoted their whole lifetime in extracting the meaning and
 finally translating the texts.
 
-

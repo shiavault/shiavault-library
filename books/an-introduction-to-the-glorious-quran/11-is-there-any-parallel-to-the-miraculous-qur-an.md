@@ -124,4 +124,3 @@ Balaghi Amir Kabir publisher, Tehran, Iran pages 316‑319 and 346‑347
 [^2]: Awake! volume XXXVIII, number 17, September 8, 1957, p 25.
 Brooklyn, New York, U.S.A.
 
-

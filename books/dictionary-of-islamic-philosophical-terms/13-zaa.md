@@ -52,4 +52,3 @@ advanced to defend the block-reality monism of his master. They,
 however, raised good deal of controversy and, thus, contributed to
 increase logical and mathematical rigour throughout the ages.
 
-

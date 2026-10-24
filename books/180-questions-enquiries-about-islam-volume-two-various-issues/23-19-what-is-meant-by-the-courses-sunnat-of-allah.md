@@ -12,12 +12,8 @@ In verse 38 of Suratul Ahzab, the Noble Qur’an, after issuing the
 permission to break the incorrect pagan custom, which prohibited a
 person from marrying the divorced wife of his adopted son, says:
 
-<blockquote dir="rtl">
-  <p>
-سُنَّةَ اللٌّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ وَ كَانَ أَمْرُ
-اللٌّهِ قَدَراً مَقْدُوراً
-  </p>
-</blockquote>
+> سُنَّةَ اللٌّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ وَ كَانَ أَمْرُ
+> اللٌّهِ قَدَراً مَقْدُوراً
 
 ***“Such has been the course of Allah (s.w.t.) with respect to those who
 have gone before; and the command of Allah (s.w.t.) s a decree that is
@@ -26,13 +22,9 @@ made absolute.”***
 In verse 43 of Suratul Fatir, after threatening the sinning nations with
 perdition, the Noble Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ يَنْظُرُونَ إِلاَّ سُنَّةَ الأََوَّلِينَ فَلَنْ تَجِدَ
-لِسُنَّةِ اللٌّهِ تَبْدِيلاً وَ لَنْ تَجِدَ لِسُنَّةِ اللٌّهِ
-تَحْوِيلاً
-  </p>
-</blockquote>
+> فَهَلْ يَنْظُرُونَ إِلاَّ سُنَّةَ الأََوَّلِينَ فَلَنْ تَجِدَ
+> لِسُنَّةِ اللٌّهِ تَبْدِيلاً وَ لَنْ تَجِدَ لِسُنَّةِ اللٌّهِ
+> تَحْوِيلاً
 
 ***“Then should they wait for aught except the way of the former people?
 For you shall not find any alteration in the course of Allah; and you
@@ -43,12 +35,8 @@ witnessing the annihilating chastisement descending upon them was not at
 all helpful for the obstinate disbelievers of the past nations, the
 Qur’an adds:
 
-<blockquote dir="rtl">
-  <p>
-سُنَّةَ اللٌّهِ الَّتِي قَدْ خَلَتْ فِي عِبَادِهِ وَ خَسِرَ هُنَالِكَ
-الْكَافِرُونَ
-  </p>
-</blockquote>
+> سُنَّةَ اللٌّهِ الَّتِي قَدْ خَلَتْ فِي عِبَادِهِ وَ خَسِرَ هُنَالِكَ
+> الْكَافِرُونَ
 
 ***“But their belief was not going to profit them when they had seen Our
 punishment; (this is) Allah's law, which has indeed obtained in the
@@ -58,12 +46,8 @@ In verse 23 of Suratul Fath, after speaking about the victory for the
 believers, defeat for the disbelievers and non-existence of any
 protector or helper for them in the battles, it adds:
 
-<blockquote dir="rtl">
-  <p>
-سُنَّةَ اللٌّهِ الَّتِي قَدْ خَلَتْ مِنْ قَبْلُ وَ لَنْ تَجِدَ
-لِسُنَّةِ اللٌّهِ تَبْدِيلاً
-  </p>
-</blockquote>
+> سُنَّةَ اللٌّهِ الَّتِي قَدْ خَلَتْ مِنْ قَبْلُ وَ لَنْ تَجِدَ
+> لِسُنَّةِ اللٌّهِ تَبْدِيلاً
 
 ***“Such has been the course of Allah (s.w.t.) that has indeed run
 before, and you shall not find a change in Allah's course.”***
@@ -71,12 +55,8 @@ before, and you shall not find a change in Allah's course.”***
 And again in verse 77 of Suratul Isra', when speaking of the conspiracy
 to either banish or kill the Noble Prophet (S), it adds:
 
-<blockquote dir="rtl">
-  <p>
-سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا وَ لاَ تَجِدُ
-لِسُنَّتِنَا تَحْوِيلاً
-  </p>
-</blockquote>
+> سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا وَ لاَ تَجِدُ
+> لِسُنَّتِنَا تَحْوِيلاً
 
 ***“(This is Our) course with regard to those of Our messengers whom We
 sent before you, and you shall not find a change in Our course.”***
@@ -98,5 +78,4 @@ of Divine chastisement and the like are some examples of these eternal
 courses.[^1]
 
 [^1]: Tafsir-e-Namuna, vol. 17, pg. 434
-
 

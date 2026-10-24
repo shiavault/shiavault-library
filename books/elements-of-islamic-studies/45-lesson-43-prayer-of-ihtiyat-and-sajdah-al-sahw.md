@@ -57,4 +57,3 @@ al-sahw* is to be done just after the *qada tashahhud* or *sajdah*.
 (like turning away from qibla}, it is necessary to do the *qada* and the
 *sajdah* *al-sahw* as required, and then to repeat the prayer.
 
-

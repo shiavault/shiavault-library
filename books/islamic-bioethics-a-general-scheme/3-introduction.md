@@ -17,4 +17,3 @@ safeguarded in the Islamic law and ethics.
 
 [^1]: Qu’ran: 5: 32
 
-

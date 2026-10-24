@@ -116,4 +116,3 @@ Al Fusool al Mohimma Pg. 250-251.
 
 [^7]: Faraidus Simtain vol.2. Pg.336
 
-

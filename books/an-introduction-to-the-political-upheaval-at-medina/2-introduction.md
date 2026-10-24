@@ -164,4 +164,3 @@ the death of the Prophet. That it was nei- ther open and sincere nor
 peaceful is apparent from both (a) direct and (b) circumstantial
 evidence.
 
-

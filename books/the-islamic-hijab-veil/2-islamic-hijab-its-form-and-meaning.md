@@ -304,4 +304,3 @@ p.48.
 
 [^10]: Mas'lat al-Hijab, Shahid Murtadha Mutahhari.
 
-

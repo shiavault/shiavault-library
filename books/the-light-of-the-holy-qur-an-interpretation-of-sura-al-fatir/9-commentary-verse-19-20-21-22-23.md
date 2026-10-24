@@ -84,7 +84,6 @@ harmful and fatal winds which blow during the day, while the Arabic word
 at might.” Anyhow, how different is this wind and the cold cheerful
 shade which gives rest to both soul and body?
 
-
 And finally through the last similitude in the fourth verse, the
 Qur’a-n says:
 
@@ -117,7 +116,6 @@ should not be worried and anxious about the lack of faith in them, his
 duty was to convey it and to warn them. The verse says:
 
 “You are naught but a Warner.”
-
 
 **Two Points:**
 
@@ -191,7 +189,6 @@ relying on this very imagination, without considering other verses of
 the Qur’a-n, and without having any veneration for the abundant
 traditions narrated from the Prophet (p.b.u.h.), have negated the
 subject of resorting and, as they think, they have nullified it.
-
 
 **Commentary : Verse 24.25.26**
 
@@ -321,5 +318,4 @@ And, on the other side, it is a threat against these aberrant opponents
 that they should know that they cannot continue their disgraceful and
 destructive deeds forever. Soon or late, the divine punishments will
 encompass them.
-
 

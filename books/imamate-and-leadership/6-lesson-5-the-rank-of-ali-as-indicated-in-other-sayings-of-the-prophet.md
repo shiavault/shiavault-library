@@ -593,4 +593,3 @@ al-Khamsah, Vol. II, p.81.
 
 [^24]: al-Shiblanji, Nur al-Absar, p. 104.
 
-

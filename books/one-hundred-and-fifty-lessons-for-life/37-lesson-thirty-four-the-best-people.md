@@ -3,11 +3,7 @@ Lesson Thirty Four: The Best People
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-خَيْرُ النّاسِ قُضاةُ الْحَقِّ
-  </p>
-</blockquote>
+> خَيْرُ النّاسِ قُضاةُ الْحَقِّ
 
 Translation
 -----------
@@ -29,5 +25,4 @@ overcome their mind and conscience. Such people deserve to be called
 “the best people.”
 
 [^1]: Islam is the Center of Society
-
 

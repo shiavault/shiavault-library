@@ -82,12 +82,8 @@ our prophet Moses (as) placed Joshua as his successor”.
 
 Prophet (S) answered this question:
 
-<blockquote dir="rtl">
-  <p>
-انّ وصیّی علیّ بن ابی طالب و بعده سبطای الحسن و الحسین تتلوه تسعة
-ائمّة من صلب الحسین
-  </p>
-</blockquote>
+> انّ وصیّی علیّ بن ابی طالب و بعده سبطای الحسن و الحسین تتلوه تسعة
+> ائمّة من صلب الحسین
 
 My successor is Ali ibn Abi Talib and after him my grandsons Hassan and
 Hussein and after Hussein, nine Imams from his generation
@@ -104,13 +100,9 @@ successor; they are twelve persons (my successors) …
 Then he asked from the condition of their death and martyrdom and
 Prophet (S) said after some explanations:
 
-<blockquote dir="rtl">
-  <p>
-و انّ الثّانی عشر من ولدی یغیب حتّی لا یری، و یأتی علی امّتی بزمن
-لایبقی من الاسلام الّا اسمه؛ و لایبقی من القرآن الّا رسمه فحینئذ یأذن
-الله تبارک و تعالی له بالخروج فیظهر الله الاسلام به و یجدّده ...
-  </p>
-</blockquote>
+> و انّ الثّانی عشر من ولدی یغیب حتّی لا یری، و یأتی علی امّتی بزمن
+> لایبقی من الاسلام الّا اسمه؛ و لایبقی من القرآن الّا رسمه فحینئذ یأذن
+> الله تبارک و تعالی له بالخروج فیظهر الله الاسلام به و یجدّده ...
 
 My twelfth child will be occulted and won’t be seen and the time will
 come for my followers that nothing remains from Islam but its name and
@@ -206,5 +198,4 @@ fair person can consider Umayyad and Abbasid caliphs - who deviated the
 Islamic government from its way and performed any kind of crime,
 oppression, transformation and distortion of concepts of Islam - as the
 successors of prophet and competent of being praised.
-
 

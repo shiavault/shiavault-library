@@ -16,4 +16,3 @@ Hasan, Sayed Umaar Kazmi, and Hussain Ali Nasser. May Allah bless them
 all and all our loving brothers and sisters from the Shi’ah Imamiyyah
 and the Ahl al-Sunnah wa al-Jama’ah.
 
-

@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَاصْـبِرْ کَماَ صَبَرَ أُُولُوا الْعَزمِ مِنَ الرُّسُلِ
-  </p>
-</blockquote>
+> فَاصْـبِرْ کَماَ صَبَرَ أُُولُوا الْعَزمِ مِنَ الرُّسُلِ
 
 *“Therefore bear up patiently as did the messengers endowed with
 faithfulness bear up with patience.”*[^1]
 
 Imam ‘Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-حَلاَوَةُ الظَّفَرِ تَمْحُوا مَراَرَةَ الصَّـبْرِ.
-  </p>
-</blockquote>
+> حَلاَوَةُ الظَّفَرِ تَمْحُوا مَراَرَةَ الصَّـبْرِ.
 
 *“The sweetness of success erases the bitterness of patience.”*[^2]
 
@@ -100,11 +92,7 @@ that you were able to inform me of the unseen?”
  He (a.s) said: “I deduced this from one of the traditions of the Noble
 Prophet (s.a.w). He (s.a.w) had said:
 
-<blockquote dir="rtl">
-  <p>
-عِندَ فَناَءِ الصَّبرِ ياِتيِ الْفَرَجُ
-  </p>
-</blockquote>
+> عِندَ فَناَءِ الصَّبرِ ياِتيِ الْفَرَجُ
 
 “When man's patience reaches its end, ease and relief sets in upon him.”
 When I observed that your patience had reached its termination, I
@@ -243,5 +231,4 @@ pg. 266
 [^7]: Muntakhab al-Tawarikh, pg. 51
 
 [^8]: Dastan-ha-e-Shigaft, pg. 255
-
 

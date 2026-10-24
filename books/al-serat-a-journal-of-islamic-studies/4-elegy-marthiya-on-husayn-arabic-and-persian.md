@@ -547,4 +547,3 @@ pp. 339-340.
 [^17] Anataly Kova;enko, Le Martyre de Husayn dans la poesie populaire
 d'Iraq (Geneve, 1979), pp. 220-222
 
-

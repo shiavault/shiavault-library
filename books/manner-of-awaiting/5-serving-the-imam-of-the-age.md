@@ -20,4 +20,3 @@ worships and obedience.[^2]
 
 [^2]: Mikyal al-Makarem; 2/220
 
-

@@ -320,4 +320,3 @@ and blessings in this and the next world; to acquaint us with the facts
 of Islam; to meet our legitimate needs and to grant salvation to our
 deceased ones.
 
-

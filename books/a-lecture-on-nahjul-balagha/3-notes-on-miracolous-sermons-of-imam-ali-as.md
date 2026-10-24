@@ -1,11 +1,7 @@
 Notes on Miracolous Sermons of Imam Ali (as)
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 Now we propose to adorn this booklet with two miraculous sermons of Ali
 (ع) not found in Nahjul Balaghah. First is his sermon which is free from
@@ -42,5 +38,4 @@ Al-Misbah which have been given here in brackets.
 It should be recorded here that my teacher, Ayatollah Sayyid
 Zafru1-Hassan Rizvi (Jawadia, Benaras) had translated it in Urdu, in the
 same style, i.e. without Alif.
-
 

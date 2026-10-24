@@ -36,10 +36,8 @@ pronouncement of intention to kill him, strongly despising such an act -
 and despite being fully aware of the risk of being killed for doing so -
 declared:
 
-<p dir="rtl">
 ".لئن بسطت إلي يدك لتقتلني ما أنا بباسط يدي لأقتلك إني أخاف الله رب
 العالمين"
-</p>
 
 "Even if you stretch forth your hand towards me in order to kill me, I
 will never stretch out a hand towards you to kill you. I fear God, Lord
@@ -56,5 +54,4 @@ societies. However, the essence is contradiction between two totally
 different forces. This shall lead us to a thorough discussion of
 contradiction and its philosophical definition within the social
 arena.
-
 

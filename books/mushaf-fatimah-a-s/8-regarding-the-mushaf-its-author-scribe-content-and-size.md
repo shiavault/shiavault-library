@@ -158,12 +158,8 @@ In *Bihaar al-Anwaar*, 'Allamah Majlisi relates a narration in Khati's
 *Jawaame' al-Fawaa'id* from Abu Basir: “Imam al-Sadiq (A) read this ayah
 as so:
 
-<blockquote dir="rtl">
-  <p>
-سَأَلَ بِعَذَابٍ وَاقِعٍ لِّلْكَافِرينَ) بولاية علي( لَيْسَ لَهُ
-دَافِعٌ
-  </p>
-</blockquote>
+> سَأَلَ بِعَذَابٍ وَاقِعٍ لِّلْكَافِرينَ) بولاية علي( لَيْسَ لَهُ
+> دَافِعٌ
 
 (سَائِلٌ has been omitted from the hadith) “The questioner asks about
 the punishment which will befall the unbelievers (the Imam(a.s) adds as
@@ -506,5 +502,4 @@ is the gospel of Jesus according to… and not the gospel itself.
 
 [^41]: Kulayni, M. Usul al-Kaafi, v.1, p.239, hadith \#3 and, Majlisi,
 MB. Bihar al-Anwaar, v.26, p.39, hadith \#10.
-
 

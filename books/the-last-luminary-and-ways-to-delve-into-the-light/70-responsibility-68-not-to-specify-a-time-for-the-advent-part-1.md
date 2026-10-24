@@ -5,13 +5,9 @@ The believers must not set a specific time for the return of Imam
 al-Mahdi (ajtf) and this responsibility can be proven from many
 traditions. For example, Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-يَا مُفَضَّلُ! لاَ تُوَقِّتْ فَإِنَّ مَنْ وَقَّتَ لِمَهْدِيِّنَا
-وَقْتاً فَقَدْ شَارَكَ اللٌّهَ فِي عِلْمِهِ وَ ادَّعى أَنَّهُ
-أَظْهَرَهُ (اللٌّهُ تَعَالـى) عَلى سِرِّهِ
-  </p>
-</blockquote>
+> يَا مُفَضَّلُ! لاَ تُوَقِّتْ فَإِنَّ مَنْ وَقَّتَ لِمَهْدِيِّنَا
+> وَقْتاً فَقَدْ شَارَكَ اللٌّهَ فِي عِلْمِهِ وَ ادَّعى أَنَّهُ
+> أَظْهَرَهُ (اللٌّهُ تَعَالـى) عَلى سِرِّهِ
 
 “O’Mufaďďal! Do not specify a time (of advent of the Imam) since anyone
 who specifies a time for the return of our Mahdi (ajtf) has (claimed to)
@@ -20,12 +16,8 @@ become a partner with Allah in His knowledge and has declared that He
 
 A companion once asked Imam Muhammad b. ‘Ali al-Baqir (as):
 
-<blockquote dir="rtl">
-  <p>
-هَلْ لِهٌذَا الأَمْرِ وَقْتٌ؟ فَقَالَ: كَذِبَ الْوَقَّاتُونَ، كَذِبَ
-الْوَقَّاتُونَ، كَذِبَ الْوَقَّاتُونَ
-  </p>
-</blockquote>
+> هَلْ لِهٌذَا الأَمْرِ وَقْتٌ؟ فَقَالَ: كَذِبَ الْوَقَّاتُونَ، كَذِبَ
+> الْوَقَّاتُونَ، كَذِبَ الْوَقَّاتُونَ
 
 “Is a time set for this event (the advent of al-Mahdi)?” The Imam (peace
 be upon him) replied: “Those who specify a time are liars those who
@@ -40,16 +32,12 @@ explain his return in this manner.
 
 Abu BaSir said to Imam Ja’far b. Muhammad as-Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-جُعِلْتُ فِدَاكَ، مَتـى خُرُوجُ الْقَائِمِ؟ فَقَالَ: يَا أَبَا
-مُحَمَّدٍ! إِنَّا أَهْلَ بَيْتٍ لاَ نُوَقِّتُ وَ قَدْ قَالَ مُحَمَّدٌ
- كَذَبَ الْوَقَّاتُونَ! يَا أَبَا مُحَمَّدٍ إِنَّ قُدَّامَ هٌذَا
-الأَمْرِ خَمْسَ عَلاَمَاتٍ أُوْلاَهُنَّ النِّدَاءُ فِي شَهْرِ
-رَمَضَانَ وَ خُرُوجُ السُّفْيَانِيِّ وَ خُرُوجُ الْخُرسَانِيِّ وَ
-قَتْلُ النَّفْسِ الزَّكِيَّةِ وَ خَسْفٌ بِالْبَيْدَاءِ
-  </p>
-</blockquote>
+> جُعِلْتُ فِدَاكَ، مَتـى خُرُوجُ الْقَائِمِ؟ فَقَالَ: يَا أَبَا
+> مُحَمَّدٍ! إِنَّا أَهْلَ بَيْتٍ لاَ نُوَقِّتُ وَ قَدْ قَالَ مُحَمَّدٌ
+>  كَذَبَ الْوَقَّاتُونَ! يَا أَبَا مُحَمَّدٍ إِنَّ قُدَّامَ هٌذَا
+> الأَمْرِ خَمْسَ عَلاَمَاتٍ أُوْلاَهُنَّ النِّدَاءُ فِي شَهْرِ
+> رَمَضَانَ وَ خُرُوجُ السُّفْيَانِيِّ وَ خُرُوجُ الْخُرسَانِيِّ وَ
+> قَتْلُ النَّفْسِ الزَّكِيَّةِ وَ خَسْفٌ بِالْبَيْدَاءِ
 
 “’May I be your ransom! When will al-Qa\`im (ajtf) make his advent?’ The
 Imam replied: “O’ Aba Muhammad! Surely we the Ahlul Bayt (as) do not
@@ -69,5 +57,4 @@ of the ground in Bayda\` (into the Earth).”[^3]
 Time for his Advent.’
 
 [^3]: al-Ghaybah of Nu’mani, pg. 289, no. 6
-
 

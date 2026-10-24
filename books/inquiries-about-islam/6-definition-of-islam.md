@@ -135,4 +135,3 @@ The teaching of Islam seems to be acceptable to the human mind, unless
 the human mind has been exposed to illogical teaching. This is the
 reason why Islam is called the religion of nature.
 
-

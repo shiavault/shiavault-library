@@ -29,4 +29,3 @@ Taw. is on p.61. FC, no. 84.
 
 [^3]: Reading with D يثيب N. err. يثبت
 
-

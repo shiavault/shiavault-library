@@ -240,4 +240,3 @@ traditions which are strange.[^42]
 Thus it is plain that those who considered his traditions not only weak
 but also fake and fabricated were right.[^43]
 
-

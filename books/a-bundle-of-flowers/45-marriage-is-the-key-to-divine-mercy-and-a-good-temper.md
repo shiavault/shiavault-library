@@ -28,4 +28,3 @@ divorce."
 
 Al-Kafi, vol. 5, p. 328
 
-

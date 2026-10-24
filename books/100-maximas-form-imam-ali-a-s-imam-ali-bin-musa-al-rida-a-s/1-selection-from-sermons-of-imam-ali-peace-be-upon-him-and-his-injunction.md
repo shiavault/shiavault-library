@@ -1,9 +1,7 @@
 Selection From Sermons of Imam Ali (peace Be Upon Him) and His Injunction
 =========================================================================
 
-<p dir="rtl">
 ِبسمِِ اللهِ اَلرَّحمنِ الرَّحيمِ
-</p>
 
 In The Name of Allah.
 
@@ -143,5 +141,4 @@ thinks.
 
 20- One who is quick in saying unpleasant things about others, will
 himself quickly . become a target to their scandal.
-
 

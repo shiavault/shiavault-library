@@ -18,4 +18,3 @@ the formal and casual clothes, due to which differences arise and they
 should wear a two piece cloths and all people should look alike in this
 grand ritual.
 
-

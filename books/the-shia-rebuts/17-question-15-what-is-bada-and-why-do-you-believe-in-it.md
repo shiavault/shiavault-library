@@ -14,23 +14,15 @@ and by reverting to the right path and meritorious conduct he can change
 the ultimate destination of his life. The Qur’an points to this truth as
 a universal and permanent principle as follows:
 
-<blockquote dir="rtl">
-  <p>
-"إن الله لا يغيّر ما بقوم حتى يغيّروا بأنفسهم."
-  </p>
-</blockquote>
+> "إن الله لا يغيّر ما بقوم حتى يغيّروا بأنفسهم."
 
 ***“Indeed Allah does not change a people’s lot, unless they change what
 is in their souls.”***[^1]
 
 It also says elsewhere:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُواْ وَاتَّقَواْ لَفَتَحْنَا
-عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاء وَالأَرْضِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُواْ وَاتَّقَواْ لَفَتَحْنَا
+> عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاء وَالأَرْضِ ﴾
 
 ***“If the people of the towns had been faithful and God-wary, We would
 have opened to them blessings from the heaven and the earth.”***[^2]
@@ -38,11 +30,7 @@ have opened to them blessings from the heaven and the earth.”***[^2]
 And regarding the change in the destiny of Hadrat Yunus (Jonah) (*‘a*),
 it says:
 
-<blockquote dir="rtl">
-  <p>
-"فلولا أنه كان من المسبحين للبث في بطنه إلى يوم يُبعثون."
-  </p>
-</blockquote>
+> "فلولا أنه كان من المسبحين للبث في بطنه إلى يوم يُبعثون."
 
 ***“And had he not been one of those who celebrate Allah’s glory, he
 would have surely remained in its belly till the day they will be
@@ -56,12 +44,8 @@ which resulted in changing the course of his destiny and safety.
 This truth has also been acknowledged by the Islamic traditions. In this
 regard, the Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-إن الرجل ليحرم الرزق بالذنب يصيبه ولا يردّ القدر إلا الدعاء ولا يزيد
-في العمر إلا البرّ.
-  </p>
-</blockquote>
+> إن الرجل ليحرم الرزق بالذنب يصيبه ولا يردّ القدر إلا الدعاء ولا يزيد
+> في العمر إلا البرّ.
 
 It is due to his sin that one is deprived of his sustenance, and there
 is nothing that can change one’s destiny and fate except supplications
@@ -94,11 +78,7 @@ features of Shi‘ism, but this word is also found in the writings of the
 Ahl as-Sunnah and the speeches of the Holy Prophet (S). For example, the
 Prophet (S) has used the term “*bada’*” in the *hadith* below:
 
-<blockquote dir="rtl">
-  <p>
-"الله جل وعز أن يبتليهم."
-  </p>
-</blockquote>
+> "الله جل وعز أن يبتليهم."
 
 “The *bada’* of Allah, the Glorious and Dignified, is to examine
 them.”[^5]
@@ -109,11 +89,7 @@ beginning of the natural course of man’s behavior and of the effect of
 the transformative elements which cause *bada’*, and He does point to
 this fact in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-"يمحوا الله ما يشاء ويُثبت وعنده أم الكتاب."
-  </p>
-</blockquote>
+> "يمحوا الله ما يشاء ويُثبت وعنده أم الكتاب."
 
 ***“Allah effaces and confirms whatever He wishes and with Him is the
 Mother of the Book.”***[^6]
@@ -122,11 +98,7 @@ Therefore, at the occurrence of *bada’* God, the Exalted, manifests to
 us the truth, which has been known to Him from the very beginning of
 existence. As such, Imam as-Sadiq (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-"ما بدا الله في شئ إلا كان في علمه قبل أن يبدوله."
-  </p>
-</blockquote>
+> "ما بدا الله في شئ إلا كان في علمه قبل أن يبدوله."
 
 “*Bada’* has never happened unless God is aware of it from the very
 beginning of existence.”[^7]
@@ -162,5 +134,4 @@ al-Hadith wa’l-Athar, vol. 1, p. 109.
 [^6]: Surah ar-Ra‘d 13:39.
 
 [^7]: Usul al-Kafi, vol. 1, “Kitab at-Tawhid,” “Bab al-Bada’,” hadith 9.
-
 

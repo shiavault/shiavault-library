@@ -27,11 +27,9 @@ punishment in the hereafter after which they will be the recipient of
 Divine rewards due to their correct beliefs. Eternal punishment is only
 for those unbelievers that do not believe in the principles of religion.
 
-<p dir="rtl">
 وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ
 أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُم مِّنْ عَمَلِهِم
 مِّن شَيْءٍ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ
-</p>
 
 [Shakir 52:21] And (as for) those who believe and their offspring follow
 them in faith, We will unite with them their offspring and We will not
@@ -53,11 +51,9 @@ his sins known to others.
 These sins will then be ordered to turn into good deeds. This has been
 revealed in this manner:
 
-<p dir="rtl">
 إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُوْلَئِكَ
 يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا
 رَّحِيمًا
-</p>
 
 [Shakir 25:70] Except him who repents and believes and does a good deed;
 so these are they of whom Allah changes the evil deeds to good ones; and
@@ -227,5 +223,4 @@ the next chapter please reflect upon this, as it is a matter of eternal
 life, either of damnation or salvation, eternal punishments or eternal
 rewards. Do not take this lightly as it could cost us an unrecoverable
 loss, an opportunity which will never be given to us again!
-
 

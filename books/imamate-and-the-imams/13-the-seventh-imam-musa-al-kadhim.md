@@ -547,4 +547,3 @@ Ghummah, Vol 3, p. 11.
 
 [^47]: Biharul Anwar, Vol 48, p. 117.
 
-

@@ -209,4 +209,3 @@ those imaginary accusations which some people spread against their
 Shiite pothers, for it is clear that the Shiites are innocent of all
 these false and fapicated accusations.
 
-

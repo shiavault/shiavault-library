@@ -4,17 +4,9 @@ Sermon 175: O people who are (negligent of Allah but) not neglected (by Allah)�
 *Warning to neglectful people, and about the vastness of his own
 knowledge*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في الموعظة وبيان قرباه من رسول الله
-  </p>
-</blockquote>
+> في الموعظة وبيان قرباه من رسول الله
 
 O people who are (negligent of Allah but) not neglected (by Allah), and
 those who miss (doing good acts) but are to be caught. How is it that I
@@ -25,16 +17,12 @@ fed in order to be slaughtered, but they do not know what is intended
 for them. When they are treated well they think that day to be their
 whole life, and eating their full to be their aim.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا الغَافِلُونَ غَيْرُ الْمَغْفُولِ عَنْهُمْ، وَالتَّارِكُونَ
-الْمَأْخُوذُ مِنْهُمْ، مَالي أَرَاكُمْ عَنِ اللهِ ذَاهِبِينَ، وَإِلَى
-غَيْرِهِ رَاغِبِينَ! كَأَنَّكُمْ نَعَمٌ أَرَاحَ بِهَا سَائِمٌ إلَى
-مَرْعىً وبيّ، وَمَشْرَب دَوِيّ، وَإنَّمَا هِيَ كَالْمَعْلُوفَةِ
-لِلْمُدَى لاَ تَعْرِفُ مَاذَا يُرَادُ بِهَا! إذَا أُحْسِنَ إلَيْهَا
-تَحْسَبُ يَوْمَهَا دَهْرَهَا، وَشِبَعَهَا أَمْرَهَا
-  </p>
-</blockquote>
+> أَيُّهَا الغَافِلُونَ غَيْرُ الْمَغْفُولِ عَنْهُمْ، وَالتَّارِكُونَ
+> الْمَأْخُوذُ مِنْهُمْ، مَالي أَرَاكُمْ عَنِ اللهِ ذَاهِبِينَ، وَإِلَى
+> غَيْرِهِ رَاغِبِينَ! كَأَنَّكُمْ نَعَمٌ أَرَاحَ بِهَا سَائِمٌ إلَى
+> مَرْعىً وبيّ، وَمَشْرَب دَوِيّ، وَإنَّمَا هِيَ كَالْمَعْلُوفَةِ
+> لِلْمُدَى لاَ تَعْرِفُ مَاذَا يُرَادُ بِهَا! إذَا أُحْسِنَ إلَيْهَا
+> تَحْسَبُ يَوْمَهَا دَهْرَهَا، وَشِبَعَهَا أَمْرَهَا
 
 By Allah, if I wish, I can tell every one of you from where he has come,
 where he has to go and all his affairs, but I fear lest you abandon the
@@ -48,31 +36,23 @@ granted salvation, and the consequences of this matter (the caliphate).
 He left nothing (that could) pass into my head without putting it in my
 ear and telling me about it. [^1]
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ لَوْ شِئْتُ أَنْ أُخْبِرَ كُلَّ رَجُل مِنْكُمْ بِمَخْرَجِهِ
-وَمَوْلِجِهِ وَجَمِيعِ شَأْنِهِ لَفَعَلْتُ، وَلكِنْ أَخَافُ أَنْ
-تَكْفُرُوا فيَّ بِرَسُولِ اللهِ (صلى الله عليه وآله). أَلاَ وَإِنِّي
-مُفْضِيهِ إلَى الْخَاصَّةِ مِمَّنْ يُؤْمَنُ ذلِكَ مِنْهُ. وَالَّذِي
-بَعَثَهُ بِالحَقِّ، وَاصْطَفَاهُ عَلَى الْخَلْقِ، مَا أَنْطِقُ إلاَّ
-صَادِقاً، وَقَدْ عَهِدَ إِلَيَّ بِذلِكَ كُلِّهِ، وَبِمَهْلِكِ مَنْ
-يَهْلِكُ، وَمَنْجَى مَنْ يَنْجُو، وَمَآلِ هذَا الاْمْرِ، وَمَا أَبْقَى
-شَيْئاً يَمُرُّ عَلَى رَأْسِي ألاَّ أَفْرَغَهُ فِي أُذُنَيَّ وَأَفْضَى
-بِهِ إِلَيَّ.
-  </p>
-</blockquote>
+> وَاللهِ لَوْ شِئْتُ أَنْ أُخْبِرَ كُلَّ رَجُل مِنْكُمْ بِمَخْرَجِهِ
+> وَمَوْلِجِهِ وَجَمِيعِ شَأْنِهِ لَفَعَلْتُ، وَلكِنْ أَخَافُ أَنْ
+> تَكْفُرُوا فيَّ بِرَسُولِ اللهِ (صلى الله عليه وآله). أَلاَ وَإِنِّي
+> مُفْضِيهِ إلَى الْخَاصَّةِ مِمَّنْ يُؤْمَنُ ذلِكَ مِنْهُ. وَالَّذِي
+> بَعَثَهُ بِالحَقِّ، وَاصْطَفَاهُ عَلَى الْخَلْقِ، مَا أَنْطِقُ إلاَّ
+> صَادِقاً، وَقَدْ عَهِدَ إِلَيَّ بِذلِكَ كُلِّهِ، وَبِمَهْلِكِ مَنْ
+> يَهْلِكُ، وَمَنْجَى مَنْ يَنْجُو، وَمَآلِ هذَا الاْمْرِ، وَمَا أَبْقَى
+> شَيْئاً يَمُرُّ عَلَى رَأْسِي ألاَّ أَفْرَغَهُ فِي أُذُنَيَّ وَأَفْضَى
+> بِهِ إِلَيَّ.
 
 O people! By Allah, I do not impel you to any obedience unless I
 practise it before you and do not restrain you from any disobedience
 unless I desist from it before you.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إِنِّي، وَاللهِ، مَا أَحُثُّكُمْ عَلَى طَاعَة
-إِلاَّ وَأَسْبِقُكُمْ إِلَيْهَا، وَلاَ أَنْهَا كُمْ عَنْ مَعْصِيَة
-إِلاَّ وَأَتَنَاهَى قَبْلَكُمْ عَنْهَا.
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إِنِّي، وَاللهِ، مَا أَحُثُّكُمْ عَلَى طَاعَة
+> إِلاَّ وَأَسْبِقُكُمْ إِلَيْهَا، وَلاَ أَنْهَا كُمْ عَنْ مَعْصِيَة
+> إِلاَّ وَأَتَنَاهَى قَبْلَكُمْ عَنْهَا.
 
 Alternative Sources for Sermon 175
 ----------------------------------
@@ -216,5 +196,4 @@ regard him higher than the Prophet. Despite all this people did go
 astray about \`Isa (Jesus), and in the same way about Amir al-mu'minin
 also they began to say all sorts of things and were misled into
 resorting to exaggeration.
-
 

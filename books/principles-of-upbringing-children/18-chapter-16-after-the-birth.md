@@ -56,4 +56,3 @@ the consequences will have to be borne by him too.
 
 [^1]: Ruwan shinashi kudak, p. 223
 
-

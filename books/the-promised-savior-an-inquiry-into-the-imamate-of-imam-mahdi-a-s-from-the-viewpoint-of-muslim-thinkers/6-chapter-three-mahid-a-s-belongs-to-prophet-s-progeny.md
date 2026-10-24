@@ -76,10 +76,8 @@ Imam Husain (a.s). Below are three specimens of such traditions:
 
 The Holy Prophet (s) said:
 
-<p dir="rtl">
 لو لم یبق من الدنیا الا یوم واحد لطول الله عزو جل ذلک الیوم حتی یبعث فیه
 رجلا من ولدی اسمه اسمی
-</p>
 
 If there were only one day left for the world, that day would be
 lengthened until a man (Hazrat Mahdi) from among my children, who is my
@@ -100,12 +98,10 @@ al-Muhriqa* have mentioned this tradition in their books.[^66]
 During the last days of his life, the Holy Prophet (s), addressing his
 daughter, Fatima (a.s), said:
 
-<p dir="rtl">
 ما یبکیک یا فاطمه! اما علمت ان الله اطلع الی الارض اطلاعه فاختار منها
 اباک فبعثه نبیا ثم اطلع ثانیه فاختار بعلک فاوحی الی فانکحته ایاک و
 اتخدته وصیا اما علمت انک بکرامه الله ایاک زوجک اعلمهم علما و اکثرهم حلما
 و اقدمهم سلما
-</p>
 
 O Fatima! Why do you weep? Do you not know that when Allah looked at the
 inhabitants of earth for the first time He chose your father as prophet
@@ -139,5 +135,4 @@ destroy them making his way through them.
 This tradition has been mentioned by Na'eem bin Hammad (in hi*al-Fitan*
 ), Tabarani, Abu Na'eem Isfahani and Maqdisi, author of 'Aqd al-Durar fi
 Akhbar al-Muntazar.[^68]
-
 

@@ -1,11 +1,7 @@
 Fatimah (s.a.) The Loyal wife of Ali
 ====================================
 
-<blockquote dir="rtl">
-  <p>
-لو لم يخلق علىٌّ لم يكن لفاطمة كفو
-  </p>
-</blockquote>
+> لو لم يخلق علىٌّ لم يكن لفاطمة كفو
 
 *“In the event that Ali would not have been created, there would have
 been no one worthy to be Fatimah’s (s.a..) spouse.*” [^1]ٌ
@@ -21,11 +17,7 @@ the Prophet (S) to propose to her; but all heard negative answers.
 The interesting point here being that the Prophet (S) would usually
 answer them, saying:
 
-<blockquote dir="rtl">
-  <p>
-أمرها الى ربِّها
-  </p>
-</blockquote>
+> أمرها الى ربِّها
 
 *“Her matter is in the hands of her Lord.”*
 
@@ -59,13 +51,9 @@ When they investigated this, it became clear that the indicator I guide
 of the Prophet (S) in this blessed historical marriage was a heavenly
 revelation, because he said himself:
 
-<blockquote dir="rtl">
-  <p>
-(صلى الله عليه وآله)قال:أتاني ملك فقال يا محمد ان الله يقرئك السلام و
-يقول لك: إنى قد زوجت فاطمة ابنتك من عليٍّ ابن أبى طالب في الملأ
-الاعلى، فزوجها منه في الأرض
-  </p>
-</blockquote>
+> (صلى الله عليه وآله)قال:أتاني ملك فقال يا محمد ان الله يقرئك السلام و
+> يقول لك: إنى قد زوجت فاطمة ابنتك من عليٍّ ابن أبى طالب في الملأ
+> الاعلى، فزوجها منه في الأرض
 
 *“An Angel of God came to me and said; God sends you greetings and says
 that in heaven I have made Fatimah the wife of Ali ibn Abi Talib. You
@@ -78,29 +66,17 @@ But Ali (a.s.), because of the imposing presence of the Prophet (S),
 could not put forth his wish, and as such remained silent.
 The Prophet (S), who was informed of Ali's inner self, said:
 
-<blockquote dir="rtl">
-  <p>
-لعلك جئت تخطب فاطمة؟
-  </p>
-</blockquote>
+> لعلك جئت تخطب فاطمة؟
 
 *“Maybe you have come for marriage proposal of Fatimah?”*
 
-<blockquote dir="rtl">
-  <p>
-فقال علي(عليه السلام): نعم
-  </p>
-</blockquote>
+> فقال علي(عليه السلام): نعم
 
 He replied:
 *“Yes, I have come for that very purpose.”*
 
-<blockquote dir="rtl">
-  <p>
-فقال الرسول(صلى الله عليه وآله): يا علي! لقد سبقك آخرون خطبتها مني، و
-اني كلما عرضت الامر عليها لم تظهر موافقتها، دعني أحدّثها في شأنك
-  </p>
-</blockquote>
+> فقال الرسول(صلى الله عليه وآله): يا علي! لقد سبقك آخرون خطبتها مني، و
+> اني كلما عرضت الامر عليها لم تظهر موافقتها، دعني أحدّثها في شأنك
 
 *The Prophet said:*
 *“Ali before you, other Men had come for proposal of Fatimah. Whenever I
@@ -124,11 +100,7 @@ The Prophet (S) raised his head and spoke this historical sentence,
 which is a document for Islamic Jurisprudents in relation to the
 Marriage of previously unmarried girls:
 
-<blockquote dir="rtl">
-  <p>
-الله أكبر! سكوتها اقرارها
-  </p>
-</blockquote>
+> الله أكبر! سكوتها اقرارها
 
 *“God is the Greatest. Her silence is the proof of her agreement.”*
 
@@ -282,15 +254,11 @@ Kashk with this money. I did this. Then the Prophet (S) himself rolled
 up his sleeves and mixed these things together with his own hands
 preparing a meal, serving the people with this very food.
 
-<blockquote dir="rtl">
-  <p>
-ثمَّ قال يا علي ادعُ من أحببت، فخرجت الى المسجد و أصحاب رسول الله
-متوافرون، فقلت: أجيبوا رسول الله، فقاموا جميعاً و أقبلوا نحو النبي،
-فأخبرته بأن القوم كثير، فجلل السفرة بمنديل، و قال: ادخل عليَّ عشرة بعد
-عشرة، ففعلت و جعلوا يأكلون يخرجون و لاينقص الطعام، حتى لقد أكل من ذلك
-الحيس سبع مائة رجل و امرأة ببركة النبى
-  </p>
-</blockquote>
+> ثمَّ قال يا علي ادعُ من أحببت، فخرجت الى المسجد و أصحاب رسول الله
+> متوافرون، فقلت: أجيبوا رسول الله، فقاموا جميعاً و أقبلوا نحو النبي،
+> فأخبرته بأن القوم كثير، فجلل السفرة بمنديل، و قال: ادخل عليَّ عشرة بعد
+> عشرة، ففعلت و جعلوا يأكلون يخرجون و لاينقص الطعام، حتى لقد أكل من ذلك
+> الحيس سبع مائة رجل و امرأة ببركة النبى
 
 *Then he (the Prophet) said “Oh Ali invite whomever you wish”. I left
 for the mosque where many companions of the Prophet were gathering. I
@@ -307,12 +275,8 @@ prophet of Islam placed Fatimah (s.a.) on his left side and Ali (a.s.)
 on his right, and wished them good luck by spraying a bit of sacred
 saliva from his mouth on both Fatimah and Ali, Praying for them, saying:
 
-<blockquote dir="rtl">
-  <p>
-طهركما الله و طهر نسلكما أنا سلم لمن سالمكما و حرب لمن حاربكما،
-أستودعكما الله و استخلفه عليكم
-  </p>
-</blockquote>
+> طهركما الله و طهر نسلكما أنا سلم لمن سالمكما و حرب لمن حاربكما،
+> أستودعكما الله و استخلفه عليكم
 
 *“God! They are of me and I am of them. O lord! Just as you removed
 every kind of filth and impurity from me, also remove it from them
@@ -342,5 +306,4 @@ in the pages of history.
 
 [^6]: بحار الانوار، ج43، «تاريخ الزهراء» ص 131-132 Bihar Alanwar vol. 43
 “History of AzZahra” pg. 131-132
-
 

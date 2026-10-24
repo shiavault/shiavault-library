@@ -54,10 +54,8 @@ happiness for those who possess Divine authority." I asked, "How is it,
 said, "When Frinday night comes the Messenger of Allah arrives to the
 throne with the Imams (a.s.) and I also arrive there with them.
 
-
 I do not return before receiving new knowledge without which I would
 have already be left without out of knowledge."
-
 
 **Chapter 43 : Would the Imams (a.s.) not receive new knowledge their
 previous know would be Exhausted H 655, Ch. 43, h 1**
@@ -99,5 +97,4 @@ the following. "Nothing comes from Allah, the Most Holy, the Most High,
 except that first it begins with the Messenger of Allah then Amir
 al-Mu'minin Ali (a.s.) then the Imams one after the other so that the
 last us would not be more knowledgeable than the first of us."
-
 

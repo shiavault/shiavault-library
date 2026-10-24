@@ -40,4 +40,3 @@ master, the Master of the Time (aj) on the basis of precedence.
 
 [^1]: Kafi; Vol. 2, Pg. 206
 
-

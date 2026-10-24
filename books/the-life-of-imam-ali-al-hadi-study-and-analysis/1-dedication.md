@@ -14,4 +14,3 @@ accepted to be a provision for me on the day when I shall meet my Lord.
 
 The Author
 
-

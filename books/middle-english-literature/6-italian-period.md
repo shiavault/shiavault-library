@@ -95,4 +95,3 @@ Chaucer was among the first to use English to create a great work of
 poetry, in an age when courtly languages like Latin and French were
 typically favoured for poetry and stories.
 
-

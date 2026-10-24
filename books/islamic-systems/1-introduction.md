@@ -49,4 +49,3 @@ so as to encourage them to study further the immense subject of Islam.
 
 Al-Balagh Foundation
 
-

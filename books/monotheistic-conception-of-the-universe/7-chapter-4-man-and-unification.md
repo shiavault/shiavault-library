@@ -336,4 +336,3 @@ monotheistic system he is like a boat fully equipped with guiding
 apparatus, moving in a regular manner under the command of a
 well-intentioned captain
 
-

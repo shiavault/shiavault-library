@@ -33,4 +33,3 @@ to understand the term ‘Human Rights’, conceptually may be fitness of
 things to take stock of the different concepts given in both west and in
 the rest of the world.
 
-

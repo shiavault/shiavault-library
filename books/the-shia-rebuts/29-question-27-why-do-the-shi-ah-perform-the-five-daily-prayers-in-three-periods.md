@@ -143,25 +143,13 @@ A glance at the traditions
 school of jurisprudence, thus narrates on the authority of Jabir ibn
 Zayd:
 
-<blockquote dir="rtl">
-  <p>
-أخبرني جابر بن زيد أنه سمع ابن عباس يقول: صليت مع رسول الله صلى الله
-عليه وأله وسلم ثمانياً وجميعاً
-  </p>
-</blockquote>
+> أخبرني جابر بن زيد أنه سمع ابن عباس يقول: صليت مع رسول الله صلى الله
+> عليه وأله وسلم ثمانياً وجميعاً
 
-<blockquote dir="rtl">
-  <p>
-سبعاً جميعاً. قال: قلت: له يا أبا الشعثاء أظنه أخر الظهر وعجّل العصر
-وأخّر المغرب وعجل العشاء. قال:
-  </p>
-</blockquote>
+> سبعاً جميعاً. قال: قلت: له يا أبا الشعثاء أظنه أخر الظهر وعجّل العصر
+> وأخّر المغرب وعجل العشاء. قال:
 
-<blockquote dir="rtl">
-  <p>
-وأنا أظن ذلك.
-  </p>
-</blockquote>
+> وأنا أظن ذلك.
 
 Jabir ibn Zayd reports: I heard Ibn ‘Abbas say: I prayed behind the
 Apostle of Allah (S) eight (*rak‘ah*s) in combination, and seven
@@ -177,15 +165,11 @@ It is evident from this tradition that the Holy Prophet (S) performed
 **2.** Ahmad ibn Hanbal narrates the following on the authority of ‘Abd
 Allah ibn Shaqiq:
 
-<blockquote dir="rtl">
-  <p>
-خطبنا ابن عباس يوماً بعد العصر حتى غربت الشمس وبدت النجوم و علق الناس
-ينادونه الصلوة وفي القوم رجل من بني تميم ، فجعل يقول: الصلوة الصلوة
-قال: فغضب و قال أتعلمني ؟ بالسنة شهدت رسول الله صلى الله عليه وأله
-وسلم – جمع بين الظهر والعصر والمغرب والعشاء. قال عبد الله فوجدت في
-نفسي من ذلك شيئاً فلقيت أبا هريرة فسألته فوفقه.
-  </p>
-</blockquote>
+> خطبنا ابن عباس يوماً بعد العصر حتى غربت الشمس وبدت النجوم و علق الناس
+> ينادونه الصلوة وفي القوم رجل من بني تميم ، فجعل يقول: الصلوة الصلوة
+> قال: فغضب و قال أتعلمني ؟ بالسنة شهدت رسول الله صلى الله عليه وأله
+> وسلم – جمع بين الظهر والعصر والمغرب والعشاء. قال عبد الله فوجدت في
+> نفسي من ذلك شيئاً فلقيت أبا هريرة فسألته فوفقه.
 
 Ibn al-‘Abbas one day delivered us a speech in the late afternoon (after
 the afternoon prayer) till the sun disappeared and the stars appeared.
@@ -206,12 +190,8 @@ Ibn ‘Abbas imitated this act of the Prophet (S).
 **3.** Malik ibn Anas, the founder of the Maliki school of
 jurisprudence, thus writes in his book, *Al-Muwatta’*:
 
-<blockquote dir="rtl">
-  <p>
-صلى رسول الله صلى الله عليه وأله وسلم الظهر والعصر جميعاً والمغرب
-والعشاء جميعاً في غير خوف ول سفر.
-  </p>
-</blockquote>
+> صلى رسول الله صلى الله عليه وأله وسلم الظهر والعصر جميعاً والمغرب
+> والعشاء جميعاً في غير خوف ول سفر.
 
 The Messenger of Allah (S) performed noon and afternoon prayers
 immediately one after the other, and performed *maghrib* and *‘isha’*
@@ -221,12 +201,8 @@ of fear nor on travels.[^6]
 **4.** Malik ibn Anas thus narrates on the authority of Mu‘adh ibn
 Jabal:
 
-<blockquote dir="rtl">
-  <p>
-فكان رسول الله صلى الله عليه وأله وسلم يجمع بين الظهر والعصر والمغرب
-والعشاء.
-  </p>
-</blockquote>
+> فكان رسول الله صلى الله عليه وأله وسلم يجمع بين الظهر والعصر والمغرب
+> والعشاء.
 
 “The Messenger of Allah (S) (on the Tabuk expedition) performed
 afternoon prayer immediately after noon prayer and *‘isha’* prayer
@@ -235,36 +211,24 @@ immediately after *maghrib* prayer.”[^7]
 **5.** Malik ibn Anas thus narrates on the authority of Nafi‘, from ‘Abd
 Allah ibn ‘Umar:
 
-<blockquote dir="rtl">
-  <p>
-كان رسول الله صلى الله عليه وأله وسلم إذا عجّل به السير يجمع بين
-المغرب والعشاء.
-  </p>
-</blockquote>
+> كان رسول الله صلى الله عليه وأله وسلم إذا عجّل به السير يجمع بين
+> المغرب والعشاء.
 
 “Whenever the Messenger of Allah (S) was in a hurry, he would perform
 *‘isha’* prayer immediately after *maghrib* prayer.”[^8]
 
 **6.** Malik ibn Anas thus narrates on the authority of Abu Hurayrah:
 
-<blockquote dir="rtl">
-  <p>
-إن رسول الله صلى الله عليه وأله وسلم كان يجمع بين الظهر والعصر في سفره
-إلى تبوك.
-  </p>
-</blockquote>
+> إن رسول الله صلى الله عليه وأله وسلم كان يجمع بين الظهر والعصر في سفره
+> إلى تبوك.
 
 “Verily, the Messenger of Allah (S) combined *maghrib* and *‘isha’*
 prayers together when he travelled to Tabuk.”[^9]
 
 **7.** Malik ibn Anas thus narrates on the authority of Nafi‘:
 
-<blockquote dir="rtl">
-  <p>
-إن عبد الله بن عمر كان إذا جمع الأمراء بين المغرب والعشاء في المظر جمع
-معهم.
-  </p>
-</blockquote>
+> إن عبد الله بن عمر كان إذا جمع الأمراء بين المغرب والعشاء في المظر جمع
+> معهم.
 
 “Verily, whenever the emirs combined *maghrib* and *‘isha’* prayers
 while raining, ‘Abd Allah ibn ‘Umar would also combine the two
@@ -273,12 +237,8 @@ prayers.”[^10]
 **8.** Malik ibn Anas thus narrates on the authority of ‘Ali ibn
 al-Husayn:
 
-<blockquote dir="rtl">
-  <p>
-كان رسول الله صلى الله عليه وأله وسلم إذا أراد أن يسير يومه جمع بين
-الظهر والعصر ، إذا أراد أن يسير ليله جمع بين المغرب والعشاء.
-  </p>
-</blockquote>
+> كان رسول الله صلى الله عليه وأله وسلم إذا أراد أن يسير يومه جمع بين
+> الظهر والعصر ، إذا أراد أن يسير ليله جمع بين المغرب والعشاء.
 
 Whenever the Messenger of Allah (S) wanted to travel during the day, he
 would combine *zuhr* and *‘asr* prayers, and whenever he wanted to
@@ -288,12 +248,8 @@ prayers.[^11]
 **9.** In his *Sharh* *al-Muwatta’*, Muhammad az-Zarqani thus narrates
 on the authority of Abu ash-Sha‘tha’:
 
-<blockquote dir="rtl">
-  <p>
-إن بن عباس صلى بالبصرة الظهر والعصر ليس بينهما شئ والمغرب والعشاء ليس
-بينهما شئ.
-  </p>
-</blockquote>
+> إن بن عباس صلى بالبصرة الظهر والعصر ليس بينهما شئ والمغرب والعشاء ليس
+> بينهما شئ.
 
 Verily, (‘Abd Allah) ibn ‘Abbas performed in Basrah *zuhr* and *‘asr*
 prayers together without any interval in between, and performed
@@ -302,12 +258,8 @@ between.[^12]
 
 **10.** Zarqani narrates on the authority of Tabrani, from Ibn Mas‘ud:
 
-<blockquote dir="rtl">
-  <p>
-جمع النبيّ صلى الله عليه وأله وسلم بين الظهر والعصر وبين المغرب
-والعشاء. فقيل له في ذلك ، فقال: صنعت هذا لئلا تحرج أمتي.
-  </p>
-</blockquote>
+> جمع النبيّ صلى الله عليه وأله وسلم بين الظهر والعصر وبين المغرب
+> والعشاء. فقيل له في ذلك ، فقال: صنعت هذا لئلا تحرج أمتي.
 
 The Prophet (S) performed *zuhr* and *‘asr* prayers together, and the
 *maghrib* and *‘isha’* prayers together. When he was asked about the
@@ -317,12 +269,8 @@ reason for that, he said: I wanted that my *ummah* would not be put to
 **11.** Muslim ibn al-Hajjaj narrates on the authority of Abu Zubayr
 from Sa‘id ibn Jubayr from Ibn ‘Abbas:
 
-<blockquote dir="rtl">
-  <p>
-صلى رسول الله صلى الله عليه وأله وسلم الظهر والعصر جميعاً بالمدينة في
-غير خوف ولا سفر.
-  </p>
-</blockquote>
+> صلى رسول الله صلى الله عليه وأله وسلم الظهر والعصر جميعاً بالمدينة في
+> غير خوف ولا سفر.
 
 “The Messenger of Allah (S) performed noon and afternoon prayers
 together in Medina though he was neither in a state of fear nor on
@@ -336,12 +284,8 @@ did that. He said: I asked Ibn ‘Abbas about it, and he replied that he
 **12.** In his *Sahih*, Muslim thus narrates on the authority of Abu
 Zubayr from Sa‘id ibn Jubayr from Ibn al-‘Abbas:
 
-<blockquote dir="rtl">
-  <p>
-جمع رسول الله صلى الله عليه وأله وسلم بين الظهر والعصر والمغرب والعئاء
-في المدينة من غير خوف ولا مظر.
-  </p>
-</blockquote>
+> جمع رسول الله صلى الله عليه وأله وسلم بين الظهر والعصر والمغرب والعئاء
+> في المدينة من غير خوف ولا مظر.
 
 The Messenger of Allah (S) combined the noon prayer with the afternoon
 prayer and the sunset prayer with the *‘isha’* prayer in Medina without
@@ -359,12 +303,8 @@ performing the *zuhr* prayer and observe it along with the *‘asr* prayer
 at the time of the latter. Then, in that section Bukhari narrates a
 tradition, which we shall quote below:
 
-<blockquote dir="rtl">
-  <p>
-إن النبيّ صلى الله عليه وأله وسلم صلى بالمدينة سبعاً وثمانياً والظهر
-والعصر والمغرب والعشاء.
-  </p>
-</blockquote>
+> إن النبيّ صلى الله عليه وأله وسلم صلى بالمدينة سبعاً وثمانياً والظهر
+> والعصر والمغرب والعشاء.
 
 “Verily, the Prophet (S) prayed eight *rak‘ah*s for the *zuhr* and
 *‘asr*, and seven for the *maghrib* and *‘isha’* prayers in
@@ -379,12 +319,8 @@ prayer at the time of the latter.
 
 **14.** And thus, elsewhere in his *Sahih*, Bukhari says:
 
-<blockquote dir="rtl">
-  <p>
-قال ابن عمر وأبو أيوب ابن عباس رضى الله عنهم: صلى النبيّ صلى الله عليه
-وأله وسلم – المغرب والعشاء.
-  </p>
-</blockquote>
+> قال ابن عمر وأبو أيوب ابن عباس رضى الله عنهم: صلى النبيّ صلى الله عليه
+> وأله وسلم – المغرب والعشاء.
 
 “(‘Abd Allah) ibn ‘Umar, Abu Ayyub and Ibn al-‘Abbas (may Allah be
 pleased with them) said: The Prophet (S) observed the *maghrib* and
@@ -396,13 +332,9 @@ is obvious that the Prophet (S) never neglected prayer.
 
 **15.** In his *Sahih*, Muslim ibn al-Hajjaj thus writes:
 
-<blockquote dir="rtl">
-  <p>
-قال رجل لأبن عباس الصلوة فسكت ثم قال الصلوة فسكت ثم قال الصلوة فسكت ،
-قال: لا أم لك أتعلمنا بالصلوة وكنا نجمع بين الصلاتين على عهد رسول الله
-صلى الله عليه وأله وسلم.
-  </p>
-</blockquote>
+> قال رجل لأبن عباس الصلوة فسكت ثم قال الصلوة فسكت ثم قال الصلوة فسكت ،
+> قال: لا أم لك أتعلمنا بالصلوة وكنا نجمع بين الصلاتين على عهد رسول الله
+> صلى الله عليه وأله وسلم.
 
 A person said to Ibn al-‘Abbas (as he delayed the prayer): Prayer. He
 kept silence. He again said: Prayer. He again kept silence, and he again
@@ -412,13 +344,9 @@ prayers during the life of the Messenger of Allah (S).[^21]
 
 **16.** Muslim narrates:
 
-<blockquote dir="rtl">
-  <p>
-إن رسول الله صلى الله عليه وأله وسلم جمع بين الصلاة سفرة سافرها في
-غزوة تبوك فجمع بين الظهر والعصر والمغرب والعشاء. قال سعيد: فقلت لإبن
-عباس: ما حمله على ذلك؟ قال: أراد أن لا يحرج امته.
-  </p>
-</blockquote>
+> إن رسول الله صلى الله عليه وأله وسلم جمع بين الصلاة سفرة سافرها في
+> غزوة تبوك فجمع بين الظهر والعصر والمغرب والعشاء. قال سعيد: فقلت لإبن
+> عباس: ما حمله على ذلك؟ قال: أراد أن لا يحرج امته.
 
 Ibn al-‘Abbas reported that the Messenger of Allah (S) combined the
 prayers as he set on a journey in the expedition to Tabuk. He combined
@@ -430,12 +358,8 @@ not be put to (unnecessary) hardship.[^22]
 **17.** Muslim ibn al-Hajjaj thus narrates on the authority of Mu‘adh
 ibn Jabal:
 
-<blockquote dir="rtl">
-  <p>
-خرجنا مع رسول الله صلى الله عليه وأله وسلم في غزوة تبوك فكان يصلي
-الظهر والعصر جميعاً والمغرب والعشاء جميعاً.
-  </p>
-</blockquote>
+> خرجنا مع رسول الله صلى الله عليه وأله وسلم في غزوة تبوك فكان يصلي
+> الظهر والعصر جميعاً والمغرب والعشاء جميعاً.
 
 Mu‘adh reported: We set out with the Messenger of Allah (S) on the Tabuk
 expedition, and he observed the noon and afternoon prayers together and
@@ -443,12 +367,8 @@ the sunset and *‘isha’* prayers together.[^23]
 
 **18.** Malik ibn Anas writes in the book, *Al-Muwatta’*:
 
-<blockquote dir="rtl">
-  <p>
-عن ابن شهاب أنه سأله سالم بن عبد الله: هل يجمع بين الظهر والعصر في
-السفر؟ فقال: نعم لا بأس بذلك ، ألم تر إلى صلاة الناس يعرفه؟
-  </p>
-</blockquote>
+> عن ابن شهاب أنه سأله سالم بن عبد الله: هل يجمع بين الظهر والعصر في
+> السفر؟ فقال: نعم لا بأس بذلك ، ألم تر إلى صلاة الناس يعرفه؟
 
 Ibn Shahab asked Salim ibn ‘Abd Allah: “Do you combine the *zuhr* and
 *‘asr* prayers while in travel?” He replied: “Yes, there is no problem
@@ -464,14 +384,10 @@ can also do the same elsewhere.
 
 **19.** Muttaqi Hindi thus stated in his book, *Kanz al-‘Ummal*:
 
-<blockquote dir="rtl">
-  <p>
-قال عبد الله: جمع لنا رسول الله صلى الله عليه وأله وسلم مقيماً غير
-مسافر بين الظهر والعصر والمغرب والعشاء. فقال رجل لإبن عمر: لم ترى
-النبيّ صلى الله عليه وأله وسلم فعل ذلك؟ قال: لأن لا يحرج امته إن جمع
-رجل.
-  </p>
-</blockquote>
+> قال عبد الله: جمع لنا رسول الله صلى الله عليه وأله وسلم مقيماً غير
+> مسافر بين الظهر والعصر والمغرب والعشاء. فقال رجل لإبن عمر: لم ترى
+> النبيّ صلى الله عليه وأله وسلم فعل ذلك؟ قال: لأن لا يحرج امته إن جمع
+> رجل.
 
 ‘Abd Allah (ibn ‘Umar) said: “The Messenger of Allah (S) combined the
 *zuhr* and *‘asr* prayers and the *maghrib* and *‘isha’* prayers
@@ -481,24 +397,16 @@ be put to (unnecessary) difficulty should one prefer to do so”.[^25]
 
 **20.** We can also read the following in *Kanz al-‘Ummal*:
 
-<blockquote dir="rtl">
-  <p>
-عن جابر أن النبيّ صلى الله عليه وأله وسلم جمع بين الظهر والعصر وبأذان
-وإقامتين.
-  </p>
-</blockquote>
+> عن جابر أن النبيّ صلى الله عليه وأله وسلم جمع بين الظهر والعصر وبأذان
+> وإقامتين.
 
 Jabir (ibn ‘Abd Allah) says: “Verily, the Prophet (S) combined together
 the *zuhr* and *‘asr* prayers with one *adhan* and two *iqamah*s.”[^26]
 
 **21.** In *Kanz al-‘Ummal*, one can read the tradition below:
 
-<blockquote dir="rtl">
-  <p>
-عن جابر أن رسول الله صلى الله عليه وأله وسلم: غربت له الشمس بمكة فجمع
-بينهما بسفر.
-  </p>
-</blockquote>
+> عن جابر أن رسول الله صلى الله عليه وأله وسلم: غربت له الشمس بمكة فجمع
+> بينهما بسفر.
 
 Jabir (ibn ‘Abd Allah) says: “While the Messenger of Allah (S) was in
 Mecca the sun had set. Upon reaching Sarf,[^27] he combined the two
@@ -506,13 +414,9 @@ prayers (*maghrib* and *‘isha’*).”[^28]
 
 **22.** In *Kanz al-‘Ummal*, it is thus narrated from Ibn al-‘Abbas:
 
-<blockquote dir="rtl">
-  <p>
-جمع رسول الله صلى الله عليه وأله وسلم بين الظهر والعصر والمغرب والعشاء
-بالمدينة في غير سفر ولا مطر ، قال: قلت لإبن عباس: لم تراه فعل ذلك؟
-قال: أراد التوسعة على امته.
-  </p>
-</blockquote>
+> جمع رسول الله صلى الله عليه وأله وسلم بين الظهر والعصر والمغرب والعشاء
+> بالمدينة في غير سفر ولا مطر ، قال: قلت لإبن عباس: لم تراه فعل ذلك؟
+> قال: أراد التوسعة على امته.
 
 The Messenger of Allah (S) combined together the *zuhr* and *‘asr*
 prayers as well as the *maghrib* and *‘isha’* prayers in Medina while
@@ -743,5 +647,4 @@ as-Salah,” “Al-Bab ar-Rabi‘ fi’s-Salah al-Musafir, Bab Jam‘,” p. 247
 
 [^30]: Al-Fiqh ‘ala’l-Madhahib al-Arba‘ah, “Kitab as-Salah,” “Al-Jam‘
 bayn as-Salatayn Taqdiman wa Ta’khiran”.
-
 

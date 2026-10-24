@@ -347,4 +347,3 @@ earth. (Holy Qur’an, 6: 79).
 
 [^19]: Shaykh Saduq, Divine Unity: pp 19, ch. 1, hadith 34.
 
-

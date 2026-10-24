@@ -32,11 +32,7 @@ This state is referred to as spiritual vision or mystical intuition.
 This is the same thing that the Qur’an mentions in verse 5 and 6 of
 Suratul Takathur:
 
-<blockquote dir="rtl">
-  <p>
-کَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ. لَتَرَوُنَّ الْجَحِيمَمُ
-  </p>
-</blockquote>
+> کَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ. لَتَرَوُنَّ الْجَحِيمَمُ
 
 ***“Nay! if you had known with a certain knowledge, You should most
 certainly have seen the hell!”***
@@ -86,5 +82,4 @@ claimants.
 [^2]: A summary of some renowned verses.
 
 [^3]: Tafsir Payam-e-Qur’an, vol. 1, pg. 252
-
 

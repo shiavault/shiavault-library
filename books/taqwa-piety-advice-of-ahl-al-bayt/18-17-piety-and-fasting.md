@@ -233,4 +233,3 @@ her holy tomb.[^13]
 
 [^13]: Safeenat al-Bihar, vol. 2, p. 606.
 
-

@@ -4,16 +4,12 @@ Discourse Twenty-One: Clarity, Ambiguity, and Interpretation in the Qur’an
 **Discourse Twenty-One: Clarity, Ambiguity, and Interpretation in the
 Qur’an**[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الَّذِيَ أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ
-هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ فَأَمَّا الَّذِينَ في
-قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاء
-الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلاَّ
-اللّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ
-مِنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُوْلُوا الألْبَابِ ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الَّذِيَ أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ
+> هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ فَأَمَّا الَّذِينَ في
+> قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاء
+> الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلاَّ
+> اللّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ
+> مِنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُوْلُوا الألْبَابِ ﴾
 
 ***“It is He who sent down upon thee the Book wherein are clear verses
 that are the Mother of the Book and other verses that are ambiguous.
@@ -69,11 +65,7 @@ muhkam verses however a muhkam verse is muhkam in and of itself.
 
 For instance, in verse five of Sūrat Tā Hā (20:5) it is stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى ﴾
-  </p>
-</blockquote>
+> ﴿ الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى ﴾
 
 ***“The Rahmān (Beneficent) is established upon the Throne.”***
 
@@ -84,31 +76,19 @@ God is predominant over all of existence not that there is a place where
 He rests which would necessitate that He be material—which is impossible
 for God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... لَيْسَ كَمِثْلِهِ شَيْءٌ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... لَيْسَ كَمِثْلِهِ شَيْءٌ... ﴾
 
 ***“There is nothing like Him…”***
 
 Another example can be found in Sūrat al-Qiyāmah (75:23):
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِلَى رَبِّهَا نَاظِرَةٌ ﴾
-  </p>
-</blockquote>
+> ﴿ إِلَى رَبِّهَا نَاظِرَةٌ ﴾
 
 ***“Looking towards their Lord.”***
 
 And Sūrat al-An‘ām (6:103):
 
-<blockquote dir="rtl">
-  <p>
-﴿ لاَ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ ... ﴾
-  </p>
-</blockquote>
+> ﴿ لاَ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ ... ﴾
 
 ***“Eyes do not perceive Him and He perceives the eyes.”***
 
@@ -159,19 +139,11 @@ of matter and the senses. However, normal intellects halt here and are
 in doubt as to whether the meaning is physical. For instance, in Sūrat
 al-Fajr (89:14, 22) it is stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ رَبَّكَ لَبِالْمِرْصَادِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ رَبَّكَ لَبِالْمِرْصَادِ ﴾
 
 ***“Verily your Lord lies in ambush.”***
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَجَاءَ رَبُّكَ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَجَاءَ رَبُّكَ... ﴾
 
 ***“And your Lord came…”***
 
@@ -187,21 +159,13 @@ books in teachings that have not been altered or distorted and also in
 theological discussions in philosophy. The Qur’an indicates this where
 it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَنزَلَ مِنَ السَّمَاء مَاءَ فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا... ﴾
-  </p>
-</blockquote>
+> ﴿ أَنزَلَ مِنَ السَّمَاء مَاءَ فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا... ﴾
 
 ***“He sent down water from the sky that flowed in every channel to the
 extent of its capacity…”***[^7]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ \*
-وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ \*
+> وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ ﴾
 
 ***“Verily We have made the Qur’an an Arabic book that you may
 understand and it is with Us in the Mother of the Book, high in dignity
@@ -228,12 +192,8 @@ Following mutashābih verses
 
 God states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَأَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا
-تَشَابَهَ مِنْهُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَأَمَّا الَّذِينَ في قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا
+> تَشَابَهَ مِنْهُ... ﴾
 
 ***“Those in whose hearts is doubt and divergence follow the ambiguities
 in it…”***[^9]
@@ -291,12 +251,8 @@ the general public.
 If we maintain such a discrepancy in the Qur’an, the following argument
 would be invalid:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَفَلاَ يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ
-اللّهِ لَوَجَدُوا فِيهِ اخْتِلاَفًا كَثِيرًا ﴾
-  </p>
-</blockquote>
+> ﴿ أَفَلاَ يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ
+> اللّهِ لَوَجَدُوا فِيهِ اخْتِلاَفًا كَثِيرًا ﴾
 
 ***“Why do they not ponder upon the Qur’an? If it was from other than
 Allah surely they would find within it much discrepancy.”***[^11]
@@ -343,13 +299,9 @@ may become closer to something we are able to comprehend. These words
 are analogies used to explain things in a way we may better understand.
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالْكِتَابِ الْمُبِينِ \* إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا
-لَعَلَّكُمْ تَعْقِلُونَ \* وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا
-لَعَلِيٌّ حَكِيمٌ ﴾
-  </p>
-</blockquote>
+> ﴿ وَالْكِتَابِ الْمُبِينِ \* إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا
+> لَعَلَّكُمْ تَعْقِلُونَ \* وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا
+> لَعَلِيٌّ حَكِيمٌ ﴾
 
 ***“By the Book that makes things clear, verily We have made the Qur’an
 an Arabic book that you may understand and it is with Us in the Mother
@@ -369,22 +321,14 @@ Several proofs from the Qur’an
 1. Ta’wīl of the deeds of Khidr (‘a): In the story of Moses (‘a) and
 Khidr (‘a) the word ta’wīl is used where Khidr tells Moses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَلَيْهِ صَبْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ ... سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَلَيْهِ صَبْرًا ﴾
 
 ***“I will soon inform you of the ta’wīl of that for which you could not
 bear patience.”***[^13]
 
 And at the end of the narration he says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... ذَلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ ... ذَلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا ﴾
 
 ***“This is the ta’wīl of that for which you could not bear
 patience.”***[^14]
@@ -393,29 +337,17 @@ Now we will examine the account to understand the meaning of ta’wīl.
 Khidr (‘a) did three things that according to Moses (‘a) did not seem
 right and he protested:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... حَتَّى إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا... ﴾
-  </p>
-</blockquote>
+> ﴿ ... حَتَّى إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا... ﴾
 
 ***“When they embarked upon the boat, he made a hole in it…”***[^15]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... حَتَّى إِذَا لَقِيَا غُلامًا فَقَتَلَهُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... حَتَّى إِذَا لَقِيَا غُلامًا فَقَتَلَهُ... ﴾
 
 ***“When they met a young man he slew him…”***[^16]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا
-فَأَبَوْا أَنْ يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ
-يَنقَضَّ فَأَقَامَهُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا
+> فَأَبَوْا أَنْ يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ
+> يَنقَضَّ فَأَقَامَهُ... ﴾
 
 “When they came to the people of a town, they asked them for food but
 they refused them hospitality. They came to a wall that was close to
@@ -425,31 +357,19 @@ These were acts that Khidr (‘a) performed and Moses (‘a) protested each
 of them. That is to say, the semblance that Moses perceived for these
 deeds were as follows:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا
-﴾
-  </p>
-</blockquote>
+> ﴿ ... أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا
+> ﴾
 
 ***“Did you make a hole in the boat to drown its passengers? Thou has
 indeed done a dreadful thing.”***[^18]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَقَدْ جِئْتَ
-شَيْئًا نُكْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَقَدْ جِئْتَ
+> شَيْئًا نُكْرًا ﴾
 
 ***“Have you killed an innocent person and that not for retaliation
 against a person slain? Thou has indeed done a horrible thing.”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... لَوْ شِئْتَ لاَتَّخَذْتَ عَلَيْهِ أَجْرًا ﴾
-  </p>
-</blockquote>
+> ﴿ ... لَوْ شِئْتَ لاَتَّخَذْتَ عَلَيْهِ أَجْرًا ﴾
 
 ***“If you wanted, you could have taken payment for it.”***[^20]
 
@@ -459,39 +379,27 @@ not have appropriate outward appearances.
 Now, let us examine the ta’wīl of Khidr (‘a), that is, the true and good
 aspects and designations of these deeds:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ
-فَأَرَدتُّ أَنْ أَعِيبَهَا وَكَانَ وَرَاءهُم مَلِكٌ يَأْخُذُ كُلَّ
-سَفِينَةٍ غَصْبًا ﴾
-  </p>
-</blockquote>
+> ﴿ أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ
+> فَأَرَدتُّ أَنْ أَعِيبَهَا وَكَانَ وَرَاءهُم مَلِكٌ يَأْخُذُ كُلَّ
+> سَفِينَةٍ غَصْبًا ﴾
 
 ***“As for the boat, it belonged to some poor people who worked upon the
 sea. I intended to mar it because there was a king before them who
 seized every ship by force.”***[^21]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَمَّا الْغُلاَمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَن
-يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا \* فَأَرَدْنَا أَن يُبْدِلَهُمَا
-رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَمَّا الْغُلاَمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَن
+> يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا \* فَأَرَدْنَا أَن يُبْدِلَهُمَا
+> رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا ﴾
 
 ***“As for the young man, his parents were people of faith. I feared
 that he would impose upon them rebellion and disbelief. Thus I intended
 that their Lord give to them in exchange a son better than him in purity
 and closer in affection.”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَمَّا الْجِدَارُ فَكَانَ لِغُلاَمَيْنِ يَتِيمَيْنِ فِي
-الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌ لَهُمَا وَكَانَ أَبُوهُمَا
-صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا
-كَنزَهُمَا رَحْمَةً مِنْ رَبِّكَ ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَمَّا الْجِدَارُ فَكَانَ لِغُلاَمَيْنِ يَتِيمَيْنِ فِي
+> الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌ لَهُمَا وَكَانَ أَبُوهُمَا
+> صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا
+> كَنزَهُمَا رَحْمَةً مِنْ رَبِّكَ ... ﴾
 
 ***“As for the wall, it belonged to two orphan boys in the city. Beneath
 the wall there was a treasure cache belonging to them and their father
@@ -501,11 +409,7 @@ adults and unearth their treasure as a blessing from your Lord.”***[^23]
 After Khidr (‘a) gave his answers for each of his deeds, he gave another
 comprehensive answer for all the criticisms of Moses (‘a):
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَمَا فَعَلْتُهُ عَنْ أَمْرِي... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَمَا فَعَلْتُهُ عَنْ أَمْرِي... ﴾
 
 ***“And I did not do these things willfully…”***[^24]
 
@@ -527,13 +431,9 @@ of which we saw in the verses regarding Moses (‘a) and Khidr (‘a).
 2. Ta’wīl in the story of Joseph (‘a): In the story of Joseph the word
 ta’wīl is repeatedly used. For instance, it is said:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا وَقَالَ
-يَا أَبَتِ هَذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي
-حَقًّا... ﴾
-  </p>
-</blockquote>
+> ﴿ وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا وَقَالَ
+> يَا أَبَتِ هَذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي
+> حَقًّا... ﴾
 
 ***“And he lifted his parents upon the throne and they fell down before
 him in prostration. And he said O father! This is the ta’wīl of my dream
@@ -541,12 +441,8 @@ from before. Verily my Lord has made it true…”***[^25]
 
 The earlier dream of Joseph (‘a) was as follows:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... يَا أَبْتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ
-وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ ... يَا أَبْتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ
+> وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ ﴾
 
 ***“O father! Verily I saw eleven stars and the sun and the moon. I saw
 them bowing down before me.”***[^26]
@@ -580,21 +476,13 @@ the senses we use in this world; just as the occurrence of these
 phenomena and the system governing that Day are different from what we
 are used to in this world.
 
-<blockquote dir="rtl">
-  <p>
-﴿ هَلْ يَنظُرُونَ إِلاَّ تَأْوِيلَهُ يَوْمَ يَأْتِي تَأْوِيلُهُ... ﴾
-  </p>
-</blockquote>
+> ﴿ هَلْ يَنظُرُونَ إِلاَّ تَأْوِيلَهُ يَوْمَ يَأْتِي تَأْوِيلُهُ... ﴾
 
 ***“Do they look to anything save its ta’wīl? The Day its ta’wīl
 comes…”***[^30]
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَقَدْ كُنتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنكَ غِطَاءكَ
-فَبَصَرُكَ الْيَوْمَ حَدِيدٌ ﴾
-  </p>
-</blockquote>
+> ﴿ لَقَدْ كُنتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنكَ غِطَاءكَ
+> فَبَصَرُكَ الْيَوْمَ حَدِيدٌ ﴾
 
 ***“Verily you were in ignorance of these (truths) but We took away the
 veil from before you so today your eyes are sharp.”***[^31]
@@ -704,5 +592,4 @@ it more understandable for the respected readership.
 [^31]: Sūrat Qāf 50:22.
 
 [^32]: Extracted from the annual, “Ma‘ārif-e Ja‘farī”.
-
 

@@ -76,4 +76,3 @@ injustice and will continue to provide an alternative to feminism, in
 which the family is strengthened rather than undermined in loving
 obedience to the Most Merciful of the Merciful
 
-

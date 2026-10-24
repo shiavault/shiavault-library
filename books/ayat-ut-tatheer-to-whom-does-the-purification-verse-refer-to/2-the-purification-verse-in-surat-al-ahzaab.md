@@ -1,11 +1,7 @@
 The Purification Verse in Surat Al Ahzaab
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-﴿ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴾
-  </p>
-</blockquote>
+> ﴿ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴾
 
 **In the Name of Allah, the Compassionate, the Merciful**
 
@@ -221,5 +217,4 @@ Verse 34
 ***And remember that which is recited in your houses of the verses of
 Allah and the wisdom; surely Allah is Ever Most Courteous, Acquainted
 with all things.***
-
 

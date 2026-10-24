@@ -198,7 +198,6 @@ the Holy, the Most High, is in every place but is out of everything. '
 No mortal eyes can see Him, but He can see all eyes. He is All-kind and
 All-aware.'" (6:103)
 
-
 **Chapter 11 : Chapter On Prohibition on Considering Allah as having
 Body (JISM) and Form (SURAH) H 276, Ch. 11, h 1**
 
@@ -338,5 +337,4 @@ statements of Hisham al- Jawaliqi and what he says about fully grown up
 young man (see Hadith 3 Chapter on prohibited Attributes). I also
 mentioned the statements of Hisham ibn al-Hakam in this matter." The
 Imam said, "Allah, certainly, is not similar to any thing."
-
 

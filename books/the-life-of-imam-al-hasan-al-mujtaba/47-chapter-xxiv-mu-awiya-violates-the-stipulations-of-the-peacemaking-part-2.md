@@ -388,4 +388,3 @@ followers of Imam Ali (a.s), and that of his household.[^3] The governors
 yielded to his command. They did not accept the testimony of the Shia
 while they were trustworthy, just, and good Muslims.
 
-

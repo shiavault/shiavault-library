@@ -6,10 +6,7 @@ Under such circumstances, the subject needs to be moved inside the
 sentence and, therefore, will take the predicate position, not its
 syntactical function.
 
-<p dir="rtl">
 **في الصفِّ طالباتٌ مصرياتٌ.**
-</p>
 
 **There are Egyptian students (f) in the classroom.**
-
 

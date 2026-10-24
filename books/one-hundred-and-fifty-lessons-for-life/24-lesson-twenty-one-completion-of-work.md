@@ -3,11 +3,7 @@ Lesson Twenty One: Completion of work
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-"إسْتِتْمامُ الْمَعْرُوفِ خَيْرٌ مِنْ إِبْتِدائهِ"
-  </p>
-</blockquote>
+> "إسْتِتْمامُ الْمَعْرُوفِ خَيْرٌ مِنْ إِبْتِدائهِ"
 
 Translation
 -----------
@@ -25,5 +21,4 @@ soon and have left them uncompleted. Islam admires faithful and diligent
 individuals who accomplish the useful work which they commence.[^1]
 
 [^1]: Nahjul Fasahah
-
 

@@ -96,7 +96,6 @@ Berkeley straddle the classification; and, this simple scheme of
 classification does not exhaust the possibilities for precision,
 dimensionality or completeness
 
-
 **The first edition**
 
 This history of Western philosophy began as an endeavor to provide
@@ -188,12 +187,10 @@ of philosophy and the potential of being.
 This endeavor is taken up in the author's website of the same name:
 Journey in Being A section on Transcendental Logic added June 16, 2003
 
-
 **1 THE PERIODS AND MAIN INFLUENCES**
 
 In the following table, a philosopher, school or temperament e.g.
 rationalism is directly influenced by the one immediately above it and,
 perhaps, by others above it; these lines of influence are not shown.
 Other influences are shown by deep blue arrows.
-
 

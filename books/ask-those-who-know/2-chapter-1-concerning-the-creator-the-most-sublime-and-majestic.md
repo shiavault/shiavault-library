@@ -544,4 +544,3 @@ and resolved. His verdict is certain, His knowledge definite, His
 governance overwhelming. Even in distress, He is the centre of Hope and,
 despite all the bounties, He is to be feared.”
 
-

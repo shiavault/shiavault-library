@@ -41,11 +41,11 @@ posts and also participated in battles without any hesitation.”!**[4]**
 
 **[1]** Muhammad Jawad Hujjati Kermani: Aftaab-e-Yazd Daily, Issue No.
 8, Khordad 1381  
- **[2]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1<sup>st</sup>
+ **[2]** Fareedoon Islamniya: *Ashra-e-Mubashira* (1st
 Edition 1380), Pg. 140  
  **[3]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 38  
  **[4]** Sayyid Ahmad Mawassaqi: *Istiratazi-e-Wahdat* (Strategy of
 Unity), Vol. 1, Pg. 128
@@ -90,7 +90,7 @@ authenticity**[5]** an example of  
 ------------------------------------------------------------------------
 
 **[1]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg.
+Ali from the Sunni point of view), [1st Edition 1380], Pg.
 104  
  **[2]** The later history shows that the reason why Caliph referred to
 Amr Aas was that the latter had a deep understanding of the personality
@@ -98,7 +98,7 @@ of Amirul Momineen (a.s.). The Qasida of Ghadeeriya also mentions this
 point.  
  **[3]** Yaqoobi: *Tarikh Yaqoobi,* Vol. 2, Pg. 129  
  **[4]** Allamah Ja’far Murtuza Amili: *Tahlili Az Zindagi-e-Siyasi Imam
-Hasan Mujtaba (a.s.)* (1<sup>st</sup> Edition), Pg. 198; quoting from
+Hasan Mujtaba (a.s.)* (1st Edition), Pg. 198; quoting from
 *Futuh Ibne Athim,* Vol. 1, Pg. 72  
  **[5]** Refer: Ali Labbaf: *A Victim Lost in Saqifah,* Vol. 3, Pgs.
 143-144
@@ -201,7 +201,7 @@ explained that Uthman mediated in this matter but the Imam rejected the
 commandership.  
  **[4]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 43  
  **[5]** Muhammad Ali Taskhiri: Article quoted in Kayhan Farhangi, Issue
 No. 184, Bahman 80, Pg. 35

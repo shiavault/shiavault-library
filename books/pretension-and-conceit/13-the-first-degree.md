@@ -46,4 +46,3 @@ Praise to Him, regretting and pleading to Allāh, Who sways the hearts,
 to change people's attitude about him, he seeks a means through
 pretension, trying to cover his sin with pretension.
 
-

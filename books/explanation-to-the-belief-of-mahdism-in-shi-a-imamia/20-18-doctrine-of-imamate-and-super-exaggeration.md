@@ -95,4 +95,3 @@ a prophet or a prophet God. Stations are known; positions are
 prescribed; status stated; ambit is put there to avoid the ambition; so
 how can deception creep in?
 
-

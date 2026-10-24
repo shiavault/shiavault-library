@@ -171,4 +171,3 @@ it together. Although futures research may now seem like a blind man in
 a dark room looking for a black cat that is not there, we must still go
 on. We have no other “Globe”.
 
-

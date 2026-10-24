@@ -110,7 +110,6 @@ The above tradition implies that our strict adherence to the commands
 of Ahl al- Bait (PBUT) and trying to please them by our deeds, may
 contribute to our early relief by leave of Allah.
 
-
 **10 Educating others about the religion**
 
 As persons living in constant expectation, we should also teach what we
@@ -168,5 +167,4 @@ and teaches him our path, he shall be with us in the loftiest
 companionship (a special degree in Paradise where the prophets and the
 Imams reside). My father reported this to me, from his forefathers, from
 the Apostle of Allah (PBUH&HF)."[^1]
-
 

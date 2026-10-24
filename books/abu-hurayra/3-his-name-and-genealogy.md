@@ -63,4 +63,3 @@ article of (hirra).
 of creation”, pg.149 and by Ahmed bin Hanbal in his Musnad, vol.2
 pg.261.
 
-

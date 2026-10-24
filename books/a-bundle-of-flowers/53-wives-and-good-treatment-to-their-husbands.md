@@ -52,4 +52,3 @@ Sunnah."
 
 Al-Kafi, vol. 5, p.494
 
-

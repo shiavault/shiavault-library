@@ -249,4 +249,3 @@ meticulous care.
 
 **Jamadi al-Awwal, 1422 AH.**
 
-

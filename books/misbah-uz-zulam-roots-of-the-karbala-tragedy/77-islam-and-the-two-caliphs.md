@@ -104,4 +104,3 @@ man and a bigot cannot see the truth.
 
 [^1]: Surah Aale Imran 3:144
 
-

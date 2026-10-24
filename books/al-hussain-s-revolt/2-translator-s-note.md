@@ -36,4 +36,3 @@ excerpts from the Introduction to "Sunshine at Midnight (The Karbala
 Epic)", a rhymed version of the story of Karbala in English, by the late
 S.A. Mahdi, 1985. You will find these passages under the Introduction.
 
-

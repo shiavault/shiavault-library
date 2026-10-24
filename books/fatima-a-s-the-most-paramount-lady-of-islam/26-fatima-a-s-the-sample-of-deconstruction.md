@@ -48,4 +48,3 @@ Prophetic mission were achieved?
 If there existed no Fatima, how the complexes, disgrace, irregularity,
 making the women’s souls weak, were removed?
 
-

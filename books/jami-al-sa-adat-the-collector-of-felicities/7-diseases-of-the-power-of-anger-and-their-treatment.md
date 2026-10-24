@@ -36,11 +36,7 @@ temper, results in a feeling of inferiority, irresolution, melancholy,
 and lack of self-confidence. In a tradition attributed to the Holy
 Prophet, it is stated:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني اعوذ بك من البخل وأعوذ بك من الجبن.
-  </p>
-</blockquote>
+> اللهم إني اعوذ بك من البخل وأعوذ بك من الجبن.
 
 O God, I seek Thy refuge from miserliness and cowardice.
 
@@ -60,5 +56,4 @@ the Power of Intellect. This subservience is a most admirable trait, and
 is the cause of numerous spiritual virtues. It is attained after
 successful struggle against foolhardiness and cowardice as the result of
 constant perseverance and exercise.
-
 

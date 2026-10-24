@@ -332,4 +332,3 @@ occurs once each year and is the largest gathering of people in the
 world as 2 to 2 1/2 million gather from every continent of the globe to
 fulfill this obligation.
 
-

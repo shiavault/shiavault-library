@@ -1,17 +1,9 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَحِيْمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَحِيْمِ
 
-<blockquote dir="rtl">
-  <p>
-وَ صَلَّى اللهُ عَلَيْكَ يَا وَلِيَّ الْعَصْرِ (عج) اَدْرِكْنَا
-  </p>
-</blockquote>
+> وَ صَلَّى اللهُ عَلَيْكَ يَا وَلِيَّ الْعَصْرِ (عج) اَدْرِكْنَا
 
 Allah’s mercy is infinite. None else is more gracious than the Almighty
 to His creatures. Even the vast love of a mother for her child is just a
@@ -49,29 +41,17 @@ absence of choice when one is forced to tread a particular path, freedom
 becomes totally meaningless. The Holy Quran mentions about this reality
 thus:
 
-<blockquote dir="rtl">
-  <p>
-وَهَدَيْنَاهُ النَّجْدَيْنِ
-  </p>
-</blockquote>
+> وَهَدَيْنَاهُ النَّجْدَيْنِ
 
 **“*****And We guided him to the two ways*****”**[^1]
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 
 **“*****Surely We have guided him to the way either: he may be thankful
 or ungrateful*****.”**[^2]
 
-<blockquote dir="rtl">
-  <p>
-فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا. قَدْ أَفْلَحَ مَن زَكَّاهَا.
-وَقَدْ خَابَ مَن دَسَّاهَا.
-  </p>
-</blockquote>
+> فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا. قَدْ أَفْلَحَ مَن زَكَّاهَا.
+> وَقَدْ خَابَ مَن دَسَّاهَا.
 
 **“*****Then He inspired it to understand what is right and wrong for
 it; He will indeed be successful who purifies it, And he will indeed
@@ -109,20 +89,16 @@ disgraced to the lowest of depths.
 At that moment the Satan exceeded all limits of decency and his
 misbehavior in divine presence is recorded thus in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ يَا إِبْلِيسُ مَا لَكَ أَلاَّ تَكُونَ مَعَ السَّاجِدِينَ. قَالَ
-لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِّنْ حَمَإٍ
-مَّسْنُونٍ. قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ. وَإِنَّ
-عَلَيْكَ اللَّعْنَةَ إِلَى يَوْمِ الدِّينِ. قَالَ رَبِّ فَأَنظِرْنِي
-إِلَى يَوْمِ يُبْعَثُونَ. قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ. إِلَى
-يَومِ الْوَقْتِ الْمَعْلُومِ. قَالَ رَبِّ بِمَآ أَغْوَيْتَنِي
-لَأُزَيِّنَنَّ لَهُمْ فِي الأَرْضِ وَلأُغْوِيَنَّهُمْ أَجْمَعِينَ.
-إِلاَّ عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ. قَالَ هَذَا صِرَاطٌ عَلَيَّ
-مُسْتَقِيمٌ. إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلاَّ
-مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ.
-  </p>
-</blockquote>
+> قَالَ يَا إِبْلِيسُ مَا لَكَ أَلاَّ تَكُونَ مَعَ السَّاجِدِينَ. قَالَ
+> لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِّنْ حَمَإٍ
+> مَّسْنُونٍ. قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ. وَإِنَّ
+> عَلَيْكَ اللَّعْنَةَ إِلَى يَوْمِ الدِّينِ. قَالَ رَبِّ فَأَنظِرْنِي
+> إِلَى يَوْمِ يُبْعَثُونَ. قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ. إِلَى
+> يَومِ الْوَقْتِ الْمَعْلُومِ. قَالَ رَبِّ بِمَآ أَغْوَيْتَنِي
+> لَأُزَيِّنَنَّ لَهُمْ فِي الأَرْضِ وَلأُغْوِيَنَّهُمْ أَجْمَعِينَ.
+> إِلاَّ عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ. قَالَ هَذَا صِرَاطٌ عَلَيَّ
+> مُسْتَقِيمٌ. إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلاَّ
+> مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ.
 
 **“*****He said: O Iblis! What excuses have you that you are not with
 those who make obeisance? He said: I am not such that I should make
@@ -143,11 +119,7 @@ of the deviators*****.”**[^4]
 In Surah Sad after recording this incident in some other words, it is
 mentioned that:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لَاُغْوِيَنَّهُمْ أَجْمَعِينَ.
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لَاُغْوِيَنَّهُمْ أَجْمَعِينَ.
 
 **“*****He said: Then by Thy Might I will surely make them live an evil
 life, all*****”**[^5]
@@ -179,39 +151,23 @@ The Arrangement of Allah
 Consequently, Allah made a comprehensive arrangement for man’s guidance.
 Regarding the Holy Prophet of Islam (s.a.w.a.), the Holy Quran declares:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللهِ إِلَيْكُمْ جَمِيعًا
-  </p>
-</blockquote>
+> قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللهِ إِلَيْكُمْ جَمِيعًا
 
 **“*****Say: O people! Surely I am the Apostle of Allah to you
 all*****”**[^6]
 
-<blockquote dir="rtl">
-  <p>
-وَأُوحِيَ إِلَيَّ هَذَا الْقُرْآنُ لِأُنذِرَكُم بِهِ وَمَن بَلَغَ
-  </p>
-</blockquote>
+> وَأُوحِيَ إِلَيَّ هَذَا الْقُرْآنُ لِأُنذِرَكُم بِهِ وَمَن بَلَغَ
 
 **“*****This Quran has been revealed to me that with it I may warn you
 and whomsoever it reaches*****”**[^7]
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَاكَ إِلاَ رَحْمَةً لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَاكَ إِلاَ رَحْمَةً لِّلْعَالَمِينَ
 
 **“*****And We have not sent you but as a mercy to the
 worlds*****”**[^8]
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ.
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ.
 
 **“*****He it is Who sent His Apostle with guidance and the religion of
 truth, that He might cause it to prevail over all religions, though the
@@ -243,11 +199,7 @@ and the Satan and his allies are always agitated despite accessing all
 means to achieve their evil intentions. This difference is in the
 following Quranic declaration:
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَاقِبَةُ لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَالْعَاقِبَةُ لِلْمُتَّقِينَ
 
 **“*****And the final end is for the pious*****”**[^10]
 
@@ -376,12 +328,8 @@ Hasan al-Askari (a.t.f.s.) responsible for the establishment of a system
 of justice by fully eradicating all forms of oppression. Hence we find
 traditions mentioning about him (a.t.f.s.) thus:
 
-<blockquote dir="rtl">
-  <p>
-يَمْلَأُ الْاَرْضَ قِسْطًا وَ عَدْلاً بَعْدَ مَا مُلِئَتْ ظُلْمًا وَ
-جَوْرًا
-  </p>
-</blockquote>
+> يَمْلَأُ الْاَرْضَ قِسْطًا وَ عَدْلاً بَعْدَ مَا مُلِئَتْ ظُلْمًا وَ
+> جَوْرًا
 
 *“*He will fill the earth with equity and justice as it would be fraught
 with oppression and tyranny*.”*
@@ -452,11 +400,7 @@ are not ready to accept his commands. This arrangement is called
 Janab Khawaja Nasir at-at-Tusi (r.a.) in his book ‘Tajrid ul-Itiqad’
 mentions this reality very subtly as follows:
 
-<blockquote dir="rtl">
-  <p>
-وُجُوْدُهُ لُطْفٌ، و تَصرُّفُهُ لُطْفٌ آخِرُ وَ غَيْبَتُهُ مِنَّا
-  </p>
-</blockquote>
+> وُجُوْدُهُ لُطْفٌ، و تَصرُّفُهُ لُطْفٌ آخِرُ وَ غَيْبَتُهُ مِنَّا
 
 *“His existence is Allah’s grace, his sovereignty is another grace and
 his occultation is due to us”*
@@ -565,5 +509,4 @@ of Hazrat Qa’im Ali Muhammad (a.t.f.s.).
 [^9]: Surah Tauba (9): Verse 33
 
 [^10]: Surah A’raaf (7): Verse 128
-
 

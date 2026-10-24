@@ -4,13 +4,9 @@ Section 4: Pilgrimage to the Sacred House
 Surah Al-Hajj – Verse 26
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ بَوَّأْنَا لإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَن لاَّ تُشْرِكْ
-بِي شَيْئاً وَطَهّـِرْ بَيْتِيَ لِلطَّآئِفِينَ وَالْقَآئِمِينَ
-وَالرُّكَّعِ السُّجُودِ
-  </p>
-</blockquote>
+> وَإِذْ بَوَّأْنَا لإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَن لاَّ تُشْرِكْ
+> بِي شَيْئاً وَطَهّـِرْ بَيْتِيَ لِلطَّآئِفِينَ وَالْقَآئِمِينَ
+> وَالرُّكَّعِ السُّجُودِ
 
 ***26. “And (remember) when We prepare for Abraham the place of the
 (holy) House, (saying): ‘Do not associate with Me aught, and sanctify My
@@ -81,12 +77,8 @@ worships to each other.
 Surah Al-Hajj – Verse 27
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَذّ‌ِن فِي النَّاسِ بِالْحَجّ‌ِ يَأْتُوكَ رِجَالاً وَعَلَي كُلّ‌ِ
-ضَامِرٍ يَأْتِينَ مِن كُلّ‌ِ فَجٍّ عَمِيقٍ
-  </p>
-</blockquote>
+> وَأَذّ‌ِن فِي النَّاسِ بِالْحَجّ‌ِ يَأْتُوكَ رِجَالاً وَعَلَي كُلّ‌ِ
+> ضَامِرٍ يَأْتِينَ مِن كُلّ‌ِ فَجٍّ عَمِيقٍ
 
 ***27. “And proclaim among men the pilgrimage; they will come to you on
 foot and (mounted) on every lean beast, coming from every remote
@@ -204,13 +196,9 @@ own soul.
 Surah Al-Hajj – Verse 28
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ
-مَعْلُومَاتٍ عَلَى مَا رَزَقَهُم مِن بَهِيمَةِ الاَنْعَامِ فَكُلُوا
-مِنْهَا وَأَطْعِمُوا الْبَآئِسَ الْفَقِيرَ
-  </p>
-</blockquote>
+> لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ
+> مَعْلُومَاتٍ عَلَى مَا رَزَقَهُم مِن بَهِيمَةِ الاَنْعَامِ فَكُلُوا
+> مِنْهَا وَأَطْعِمُوا الْبَآئِسَ الْفَقِيرَ
 
 ***28. “That they may witness advantages for them and mention the name
 of Allah during the appointed days over what He has provided them of the
@@ -684,12 +672,8 @@ needy weak people.
 Surah Al-Hajj – Verse 29
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا
-بِالْبَيْتِ الْعَتِيقِ
-  </p>
-</blockquote>
+> ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا
+> بِالْبَيْتِ الْعَتِيقِ
 
 ***29. “Then let them get cleaned (smarten themselves) and fulfil their
 rows, and let them circumambulate the Ancient House (the Ka‘bah).”***
@@ -884,14 +868,10 @@ circumambulation.
 Surah Al-Hajj – Verse 30
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ وَمَن يُعَظّـِمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَّهُ عِندَ
-رَبّـِهِ وَاُحِلَّتْ لَكُمُ الاَنْعَامُ إِلاَّ مَا يُتْلَي عَلَيْكُمْ
-فَاجْتَنِبُوا الرّ‌ِجْسَ مِنَ الاَوْثَانِ وَاجْتَنِبُوا قَوْلَ
-الزُّورِ
-  </p>
-</blockquote>
+> ذَلِكَ وَمَن يُعَظّـِمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَّهُ عِندَ
+> رَبّـِهِ وَاُحِلَّتْ لَكُمُ الاَنْعَامُ إِلاَّ مَا يُتْلَي عَلَيْكُمْ
+> فَاجْتَنِبُوا الرّ‌ِجْسَ مِنَ الاَوْثَانِ وَاجْتَنِبُوا قَوْلَ
+> الزُّورِ
 
 ***30. “Such (is the pilgrimage); and whoever magnifies the sacred
 things of Allah, it is better for him with his Lord; and the cattle are
@@ -1037,13 +1017,9 @@ this holy verse.
 Surah Al-Hajj – Verse 31
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ وَمَن يُشْرِكْ بِاللَّهِ
-فَكَاَنَّمَا خَرَّ مِنَ السَّمآءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوي
-بِهِ الرّ‌ِيحُ فِي مَكَانٍ سَحِيقٍ
-  </p>
-</blockquote>
+> حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ وَمَن يُشْرِكْ بِاللَّهِ
+> فَكَاَنَّمَا خَرَّ مِنَ السَّمآءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوي
+> بِهِ الرّ‌ِيحُ فِي مَكَانٍ سَحِيقٍ
 
 ***31. “(Fulfil the rites of Hajj while) being true in Faith for Allah,
 not associating (anything) with Him, and whoever associates with Allah
@@ -1150,12 +1126,8 @@ illuminates his entity.
 Surah Al-Hajj – Verse 32
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ وَمَن يُعَظّـِمْ شَعَآئِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَي
-الْقُلُوبِ
-  </p>
-</blockquote>
+> ذَلِكَ وَمَن يُعَظّـِمْ شَعَآئِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَي
+> الْقُلُوبِ
 
 ***32. “That (is the command); and whoever holds in honour the rites of
 Allah, verily it is (the reflection) of the piety of the hearts.”***
@@ -1244,12 +1216,8 @@ to his chest and said:
 Surah Al-Hajj – Verse 33
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَكُمْ فِيهَا مَنَافِعُ إِلَي أَجَلٍ مُسَمًّي ثُمَّ مَحِلُّهَآ إِلَي
-الْبَيْتِ الْعَتِيقِ
-  </p>
-</blockquote>
+> لَكُمْ فِيهَا مَنَافِعُ إِلَي أَجَلٍ مُسَمًّي ثُمَّ مَحِلُّهَآ إِلَي
+> الْبَيْتِ الْعَتِيقِ
 
 ***33. “You have benefits in them till an appointed time, then their
 place of sacrifice is by the Ancient House, (the ka‘bah).”***
@@ -1396,5 +1364,4 @@ the commentary
 [^33]: Tafsir-i-Kabir, by Fakhr-i-Razi, vol. 23, P. 33
 
 [^34]: Nur-uth-Thaqalayn, vol. 3, P. 497
-
 

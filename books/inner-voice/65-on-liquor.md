@@ -36,4 +36,3 @@ want to tempt a man into this trap. It was for this reason that the Holy
 Prophet declared: “Anything which intoxicates when taken excessively,
 even a drop of it is forbidden to take”.
 
-

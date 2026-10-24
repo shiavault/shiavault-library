@@ -71,80 +71,52 @@ Verses on this topic can be divided into different types:
 
 ### First Group: Verses that apparently negate intercession
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ يَوْماً لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلَا
-يُقْبَلُ مِنْهَا شَفَعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ
-يُنصَرُونَ‏
-  </p>
-</blockquote>
+> وَاتَّقُواْ يَوْماً لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلَا
+> يُقْبَلُ مِنْهَا شَفَعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ
+> يُنصَرُونَ‏
 
 ***And be on your guard against a day when one soul shall not avail
 another in the least, neither shall intercession on its behalf be
 accepted, nor shall any compensation be taken from it, nor shall they be
 helped. (2:48)***
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ يَوْماً لاَّ تَجْزى نَفْسٌ عَنْ نَفْسٍ شَيْئاً وَلاَ
-يُقْبَلُ مِنْهَا عَدْلٌ وَ لاَ تَنْفَعُهَا شَفَعَةٌ وَلاَ هُمْ
-يُنْصَرُونَ‏
-  </p>
-</blockquote>
+> وَاتَّقُواْ يَوْماً لاَّ تَجْزى نَفْسٌ عَنْ نَفْسٍ شَيْئاً وَلاَ
+> يُقْبَلُ مِنْهَا عَدْلٌ وَ لاَ تَنْفَعُهَا شَفَعَةٌ وَلاَ هُمْ
+> يُنْصَرُونَ‏
 
 ***And be on your guard against a day when no soul shall avail another
 in the least neither shall any compensation be accepted from it, nor
 shall intercession profit it, nor shall they be helped. (2:123)***
 
-<blockquote dir="rtl">
-  <p>
-يَأَيُّهَا الَّذِينَ ءَامَنُواْ أَنْفِقُواْ مِمَّا رَزَقْنَكُمْ مِنْ
-قَبْلِ أَنْ يَأْتِىَ يَوْمٌ لَابَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا
-شَفَعَةٌ وَالْكَفِرُونَ هُمُ الْظَّلِمُونَ‏
-  </p>
-</blockquote>
+> يَأَيُّهَا الَّذِينَ ءَامَنُواْ أَنْفِقُواْ مِمَّا رَزَقْنَكُمْ مِنْ
+> قَبْلِ أَنْ يَأْتِىَ يَوْمٌ لَابَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا
+> شَفَعَةٌ وَالْكَفِرُونَ هُمُ الْظَّلِمُونَ‏
 
 ***O you who believe! spend out of what We have given you before the day
 comes in which there is no bargaining, neither any friendship nor
 intercession, and the unbelievers- they are the unjust. (2:254)***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ لَا يُغْنِى مَوْلىً عَن مَّوْلىً شَيْئاً وَلَا هُمْ يُنصَرُونَ‏
-  </p>
-</blockquote>
+> يَوْمَ لَا يُغْنِى مَوْلىً عَن مَّوْلىً شَيْئاً وَلَا هُمْ يُنصَرُونَ‏
 
 ***The day on which a friend shall not avail (his) friend aught, nor
 shall they be helped. (44:41)***
 
 ### Second Group: Negation of intercession for a Special Category
 
-<blockquote dir="rtl">
-  <p>
-مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ‏
-  </p>
-</blockquote>
+> مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ‏
 
 ***…the unjust shall not have any compassionate friend nor any
 intercessor who should be obeyed. (40:18)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَضَلَّنَآ إِلَّا الْمُجْرِمُونَ‏ \* فَمَا لَنَا مِن
-شَافِعِينَ \* وَلَا صَدِيقٍ حَمِيمٍ
-  </p>
-</blockquote>
+> وَمَآ أَضَلَّنَآ إِلَّا الْمُجْرِمُونَ‏ \* فَمَا لَنَا مِن
+> شَافِعِينَ \* وَلَا صَدِيقٍ حَمِيمٍ
 
 ***And none but the guilty led us astray. So we have no intercessors,
 nor a true friend. (26:99-101)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُواْ إِلَى‏ رَبِّهِمْ
-لَيْسَ لَهُم مِّن دُونِهِ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ
-يَتَّقُونَ‏
-  </p>
-</blockquote>
+> وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُواْ إِلَى‏ رَبِّهِمْ
+> لَيْسَ لَهُم مِّن دُونِهِ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ
+> يَتَّقُونَ‏
 
 ***And warn with it those who fear that they shall be gathered to their
 Lord- there is no guardian for them, nor any intercessor besides Him-
@@ -152,24 +124,16 @@ that they may guard (against evil). (6:51)***
 
 ### Third Group: Verses that limit intercession to Allah
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّلَّهِ الشَّفَاعَةُ جِمِيعاً لَّهُ مُلْكُ السَّمَوَاتِ
-وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ‏
-  </p>
-</blockquote>
+> قُل لِّلَّهِ الشَّفَاعَةُ جِمِيعاً لَّهُ مُلْكُ السَّمَوَاتِ
+> وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ‏
 
 ***Say: Allah’s is the intercession altogether; His is the kingdom of
 the heavens and the earth, then to Him you shall be brought back.
 (39:44)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ‏ \* يَوْمَ لَا يُغْنِى
-مَوْلىً عَن مَّوْلىً شَيْئاً وَلَا هُمْ يُنصَرُونَ‏ \* إِلَّا مَن
-رَّحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ‏
-  </p>
-</blockquote>
+> إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ‏ \* يَوْمَ لَا يُغْنِى
+> مَوْلىً عَن مَّوْلىً شَيْئاً وَلَا هُمْ يُنصَرُونَ‏ \* إِلَّا مَن
+> رَّحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ‏
 
 ***Surely the day of separation is their appointed term, of all of them.
 The day on which a friend shall not avail (his) friend aught, nor shall
@@ -178,53 +142,33 @@ the Mighty the Merciful. (44:40-42)***
 
 ### Fourth Group: Proof of intercession by the approval of Allah
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ لَّا تَنفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ
-الرَّحْمَنُ وَرَضِىَ لَهُ قَوْلًا
-  </p>
-</blockquote>
+> يَوْمَئِذٍ لَّا تَنفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ
+> الرَّحْمَنُ وَرَضِىَ لَهُ قَوْلًا
 
 ***On that day shall no intercession avail except of him whom the
 Beneficent God allows and whose word He is pleased with. (20:109)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَى‏ وَ هُم مِّنْ خَشْيَتِهِ
-مُشْفِقُونَ‏
-  </p>
-</blockquote>
+> وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَى‏ وَ هُم مِّنْ خَشْيَتِهِ
+> مُشْفِقُونَ‏
 
 ***…and they do not intercede except for him whom He approves, and for
 fear of Him they tremble. (21:28)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَنفَعُ الشَّفَاعَةُ عِندَهُ إِلَّا لِمَنْ أَذِنَ لَهُ
-  </p>
-</blockquote>
+> وَلَا تَنفَعُ الشَّفَاعَةُ عِندَهُ إِلَّا لِمَنْ أَذِنَ لَهُ
 
 ***And intercession will not avail aught with Him save of him whom He
 permits. (34:23)***
 
-<blockquote dir="rtl">
-  <p>
-وَكَم مِّن مَّلَكٍ فِى السَّمَوَاتِ لَا تُغْنِى شَفَاعَتُهُمْ شَيْئاً
-إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَآءُ وَيَرْضَى‏
-  </p>
-</blockquote>
+> وَكَم مِّن مَّلَكٍ فِى السَّمَوَاتِ لَا تُغْنِى شَفَاعَتُهُمْ شَيْئاً
+> إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَآءُ وَيَرْضَى‏
 
 ***And how many an angel is there in the heavens whose intercession does
 not avail at all except after Allah has given permission to whom He
 pleases and chooses. (53:26)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّكُمُ اللَّهُ الَّذِى خَلَقَ السَّمَوَتِ وَالْأَرْضَ فِى
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى‏ عَلَى الْعَرْشِ يُدَبِّرُ الْأَمْرَ
-مَا مِن شَفِيعٍ إِلَّا مِن بَعْدِ إِذْنِهِ
-  </p>
-</blockquote>
+> إِنَّ رَبَّكُمُ اللَّهُ الَّذِى خَلَقَ السَّمَوَتِ وَالْأَرْضَ فِى
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى‏ عَلَى الْعَرْشِ يُدَبِّرُ الْأَمْرَ
+> مَا مِن شَفِيعٍ إِلَّا مِن بَعْدِ إِذْنِهِ
 
 ***Surely your Lord is Allah, Who created the heavens and the earth in
 six periods, and He is firm in power, regulating the affair, there is no
@@ -270,13 +214,9 @@ In this matter also, the best solution is to refer to verses of Quran:
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَنِ وَفْداً \* وَنَسُوقُ
-الْمُجْرِمِينَ إِلَى‏ جَهَنَّمَ وِرْداً \* لَا يَمْلِكُونَ
-الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِندَ الرَّحْمَنِ عَهْداً
-  </p>
-</blockquote>
+> يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَنِ وَفْداً \* وَنَسُوقُ
+> الْمُجْرِمِينَ إِلَى‏ جَهَنَّمَ وِرْداً \* لَا يَمْلِكُونَ
+> الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِندَ الرَّحْمَنِ عَهْداً
 
 ***The day on which We will gather those who guard (against evil) to the
 Beneficent God to receive honors. And We will drive the guilty to hell,
@@ -300,12 +240,8 @@ Quran.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ عَمِلُواْ السَّيِّئَاتِ ثُمَّ تَابُواْ مِن بَعْدِهَا
-وَءَامَنُواْ إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ‏
-  </p>
-</blockquote>
+> وَالَّذِينَ عَمِلُواْ السَّيِّئَاتِ ثُمَّ تَابُواْ مِن بَعْدِهَا
+> وَءَامَنُواْ إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ‏
 
 ***And (as to) those who do evil deeds, then repent after that and
 believe, your Lord after that is most surely Forgiving, Merciful.
@@ -313,25 +249,17 @@ believe, your Lord after that is most surely Forgiving, Merciful.
 
 And also says:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِى يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُواْ عَنِ
-السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ‏
-  </p>
-</blockquote>
+> وَهُوَ الَّذِى يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُواْ عَنِ
+> السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ‏
 
 ***And He it is Who accepts repentance from His servants and pardons the
 evil deeds and He knows what you do. (42:25)***
 
 Further it says:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَن تَابَ وَءَامَن وَعَمِلَ عَمَلاً صَلِحاً فَأُوْلَئِكَ
-يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَتٍ وَكَانَ اللَّهُ غَفُوراً
-رَّحِيماً
-  </p>
-</blockquote>
+> إِلَّا مَن تَابَ وَءَامَن وَعَمِلَ عَمَلاً صَلِحاً فَأُوْلَئِكَ
+> يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَتٍ وَكَانَ اللَّهُ غَفُوراً
+> رَّحِيماً
 
 ***Except him who repents and believes and does a good deed; so these
 are they of whom Allah changes the evil deeds to good ones; and Allah is
@@ -343,12 +271,8 @@ who are pious and who refrain from greater sins.
 
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ
-سَيِّئَاتِكُمْ وَ نُدْخِلْكُمْ مُّدْخَلاً كَرِيماً
-  </p>
-</blockquote>
+> إِنْ تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ
+> سَيِّئَاتِكُمْ وَ نُدْخِلْكُمْ مُّدْخَلاً كَرِيماً
 
 ***If you shun the great sins which you are forbidden, We will do away
 with your small sins and cause you to enter an honorable place of
@@ -356,12 +280,8 @@ entering. (4:31)***
 
 And also says:
 
-<blockquote dir="rtl">
-  <p>
-ذَ لِكَ أَمْرُ اللَّهِ أَنزَلَهُ إِلَيْكُمْ وَمَن يَتَّقِ اللَّهَ
-يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْراً
-  </p>
-</blockquote>
+> ذَ لِكَ أَمْرُ اللَّهِ أَنزَلَهُ إِلَيْكُمْ وَمَن يَتَّقِ اللَّهَ
+> يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْراً
 
 ***That is the command of Allah which He has revealed to you, and
 whoever is careful of (his duty to) Allah, He will remove from him his
@@ -369,13 +289,9 @@ evil and give him a big reward. (65:5)***
 
 It also says:
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللَّهَ وَ آمِنُواْ
-بِرَسُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِ وَ يَجْعَل لَّكُمْ
-نُوراً تَمْشُونَ بِهِ وَ يَغْفِرْ لَكُمْ وَ اللَّهُ غَفُورٌ رَّحِيمٌ‏
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللَّهَ وَ آمِنُواْ
+> بِرَسُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِ وَ يَجْعَل لَّكُمْ
+> نُوراً تَمْشُونَ بِهِ وَ يَغْفِرْ لَكُمْ وَ اللَّهُ غَفُورٌ رَّحِيمٌ‏
 
 ***O you who believe! be careful of (your duty to) Allah and believe in
 His Apostle: He will give you two portions of His mercy, and make for
@@ -384,12 +300,8 @@ Forgiving, Merciful. (57:28)***
 
 Quran has also said:
 
-<blockquote dir="rtl">
-  <p>
-يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن
-يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزاً عَظِيماً
-  </p>
-</blockquote>
+> يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن
+> يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزاً عَظِيماً
 
 ***He will put your deeds into a right state for you, and forgive you
 your faults; and whoever obeys Allah and His Apostle, he indeed achieves
@@ -401,12 +313,8 @@ He would overlook some sins subject to particular conditions.
 The glorified Lord has also promised the righteous an increase in
 rewards. The Quran say:
 
-<blockquote dir="rtl">
-  <p>
-مَن جَآءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا وَمَن جَآءَ
-بِالسَّيِّئَةِ فَلَا يُجْزَى‏ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
-  </p>
-</blockquote>
+> مَن جَآءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا وَمَن جَآءَ
+> بِالسَّيِّئَةِ فَلَا يُجْزَى‏ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ
 
 ***Whoever brings a good deed, he shall have ten like it, and whoever
 brings an evil deed, he shall be recompensed only with the like of it,
@@ -417,12 +325,8 @@ Ibne Abi Umair says: I heard Imam Musa Kazim (as) say:
 Every believer who keeps away from greater sins, would not be
 interrogated about his small sins. The Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ
-سَيِّئَاتِكُمْ وَ نُدْخِلْكُمْ مُّدْخَلاً كَرِيماً
-  </p>
-</blockquote>
+> إِنْ تَجْتَنِبُواْ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ
+> سَيِّئَاتِكُمْ وَ نُدْخِلْكُمْ مُّدْخَلاً كَرِيماً
 
 ***If you shun the great sins which you are forbidden, We will do away
 with your small sins and cause you to enter an honorable place of
@@ -441,11 +345,7 @@ Ibne Abi Umair asked: “O son of Allah’s Messenger, how would
 intercession be done for sinners of great sins when the Almighty Allah
 has said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَى
-  </p>
-</blockquote>
+> وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَى
 
 ***…and they do not intercede except for him whom He approves…
 (21:28)***
@@ -466,11 +366,7 @@ believers would enter Paradise by intercession of the Holy Prophet (S).
 
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى‏
-  </p>
-</blockquote>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى‏
 
 ***And soon will your Lord give you so that you shall be well pleased.
 (93:5)***
@@ -574,11 +470,7 @@ approval of Allah, although their intercession is innate. In the same
 way it is proved for the Holy Prophet of Islam (S), under the permission
 of Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى‏
-  </p>
-</blockquote>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى‏
 
 ***And soon will your Lord give you so that you shall be well pleased.
 (93:5)***
@@ -626,5 +518,4 @@ intercessors.
 [^3]: Biharul Anwar, Vol. 8, Pg. 37.
 
 [^4]: Biharul Anwar, Vol. 6, Pg. 267.
-
 

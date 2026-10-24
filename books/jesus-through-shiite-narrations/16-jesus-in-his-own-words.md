@@ -119,4 +119,3 @@ hate. So who of the poor is more poor than I?’”[^8]
 
 [^8]: Bihar, 14, 322, 31
 
-

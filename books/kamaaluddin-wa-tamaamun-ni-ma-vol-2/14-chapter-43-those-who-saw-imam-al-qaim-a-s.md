@@ -828,11 +828,7 @@ permitted to marry her.”
 Then I asked: “O son of the Prophet, Tell me about the statement of the
 Almighty Allah to His Prophet Musa (a.s.) that:
 
-<blockquote dir="rtl">
-  <p>
-فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى
-  </p>
-</blockquote>
+> فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى
 
 ***“Therefore put off your shoes; surely you are in the sacred valley,
 Tuwa.”***[^1]
@@ -911,11 +907,7 @@ community and those who were in the forefront of his army; about whose
 sincerity he was sure and about whom he had no doubt, in fact he had
 selected hypocrites. Allah, the Mighty and the High says:
 
-<blockquote dir="rtl">
-  <p>
-وَاخْتَارَ مُوسَى قَوْمَهُ سَبْعِينَ رَجُلاً لِّمِيقَاتِنَا
-  </p>
-</blockquote>
+> وَاخْتَارَ مُوسَى قَوْمَهُ سَبْعِينَ رَجُلاً لِّمِيقَاتِنَا
 
 ***“And Musa chose out of his people seventy men for Our
 appointment…”***[^2]
@@ -1124,11 +1116,7 @@ Imam said to me: O Mahziyar, how are your brothers in Iraq? I said:
 Master they are following wrong views about you and the progeny of the
 satan is dominating them. Imam (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قَاتَلَهُم ُاللّه ُأَنَّ ىيُؤْفَكُونَ
-  </p>
-</blockquote>
+> قَاتَلَهُم ُاللّه ُأَنَّ ىيُؤْفَكُونَ
 
 ***May Allah destroy them; how they are turned away!***[^3]
 
@@ -1156,12 +1144,8 @@ which both the armies will be destroyed. Those who survive this battle
 will be cut into pieces by the Almighty Allah. Then he recited the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-أَتَاهَا أَمْرُنَا لَيْلاً أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَن
-لَّمْ تَغْنَ بِالأَمْسِ
-  </p>
-</blockquote>
+> أَتَاهَا أَمْرُنَا لَيْلاً أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَن
+> لَّمْ تَغْنَ بِالأَمْسِ
 
 ***Our command comes to it, by night or by day, so We render it as
 reaped seed- produce, as though it had not been in existence
@@ -1173,11 +1157,7 @@ replied:
 We are the Amr of Allah and His army. Then I asked: Sir, has that time
 arrived? He recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ
-  </p>
-</blockquote>
+> اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ
 
 ***The hour drew nigh and the moon did rend asunder.***[^5]
 
@@ -1599,5 +1579,4 @@ appoint you on the post of Imamate, it would be of no use to you.
 [^4]: Surah Yunus 10:24
 
 [^5]: Surah Qamar 54:1
-
 

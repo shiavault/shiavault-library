@@ -73,4 +73,3 @@ wisdom' and "ethics" refers to \`.practical wisdom'. A man who has
 mastered both speculative wisdom and practical wisdom is a microcosmic
 mirror of the larger universe: the macrocosm.
 
-

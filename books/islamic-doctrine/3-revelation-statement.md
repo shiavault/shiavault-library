@@ -107,4 +107,3 @@ A person commits sins when he behaves against God's laws. Everyone is
 responsible for his own deeds. He is not charged with sins committed by
 other people.
 
-

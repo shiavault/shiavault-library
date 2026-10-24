@@ -271,4 +271,3 @@ it haram to shake a strange man’s hand, even if it were the hand of
 Ceaser. ( Neal AbuNab, “Halal vs. Haram: Blessed vs. Sinful,” The Arab
 American News (December 3-9, 2005) p.17
 
-

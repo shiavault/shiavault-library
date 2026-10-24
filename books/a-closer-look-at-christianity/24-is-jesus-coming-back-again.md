@@ -8,4 +8,3 @@ The discussion of this topic is long. Therefore, I will leave it up to
 you to find out more about Jesus’ second coming and the events
 associated with his arrival.
 
-

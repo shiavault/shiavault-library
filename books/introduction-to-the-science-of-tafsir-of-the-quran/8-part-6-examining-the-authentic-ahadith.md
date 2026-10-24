@@ -55,11 +55,7 @@ of the laws be expounded gradually, and not all at one place.
 For example, the Qur\`an has prohibited the taking of interest and has
 stated:
 
-<blockquote dir="rtl">
-  <p>
-.وَ حَرَّمَ الرِّبٌوا...
-  </p>
-</blockquote>
+> .وَ حَرَّمَ الرِّبٌوا...
 
 ***“And He (Allah) has prohibited interest.”***[^1]
 
@@ -72,12 +68,8 @@ color and has thus been designated as lawful.
 
 According to the verse of the Qur\`an which reads:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانْـتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانْـتَهُوا
 
 ***“…whatever the Prophet gives to you, take it; and whatever he forbids
 you from, stay away from it…”***[^2]
@@ -116,11 +108,7 @@ have been mentioned in the ahadith.
 
 Therefore, expounding the verse of the Qur\`an which reads:
 
-<blockquote dir="rtl">
-  <p>
-وَأَحَلَّ اللٌّهُ الْبَــيْعَ...
-  </p>
-</blockquote>
+> وَأَحَلَّ اللٌّهُ الْبَــيْعَ...
 
 ***“…And Allah has made business transactions permissible...”***[^4]
 
@@ -128,11 +116,7 @@ Without referring to these traditions would be incorrect and baseless.
 
 Likewise is the case with the verse that reads:
 
-<blockquote dir="rtl">
-  <p>
-.أَوْفُوا بِالْعُقُودِ
-  </p>
-</blockquote>
+> .أَوْفُوا بِالْعُقُودِ
 
 ***“…Be truthful to all of your promises.”***[^5]
 
@@ -141,11 +125,7 @@ pacts as futile and invalid, it would be incorrect to explain the verse.
 
 For example the phrase of the ahadith which states:
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ شَرْطاً أَحَلَّ حَرَاماً وَحَرَّمَ حَلاَلاً.
-  </p>
-</blockquote>
+> إِلاَّ شَرْطاً أَحَلَّ حَرَاماً وَحَرَّمَ حَلاَلاً.
 
 *“(Respect all conditions) except a condition which makes a forbidden
 act lawful and a lawful act impermissible.”*
@@ -167,12 +147,8 @@ not go into detail in explaining them:
 
 1. The first example is seen in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْـزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
-إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَأَنْـزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ
+> إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ
 
 ***“And We have sent down to you (Muhammad) The Reminder so that you may
 explain to mankind that which has been sent to them so that perhaps they
@@ -197,13 +173,9 @@ law or verses that require enlightenment and exceptions.
 
 2. The second example is seen in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُـــحَرِّكْ بِهِ لِسَانَـكَ لِتَعْجَلَ بِهِ ٭ إِنَّ عَلَيْنَا
-جَمْعَهُ وَقُرْأَنَهُ ٭ فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْأَنَهُ ٭
-ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
-  </p>
-</blockquote>
+> لاَ تُـــحَرِّكْ بِهِ لِسَانَـكَ لِتَعْجَلَ بِهِ ٭ إِنَّ عَلَيْنَا
+> جَمْعَهُ وَقُرْأَنَهُ ٭ فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْأَنَهُ ٭
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
 
 ***“Do not move your tongue (Muhammad) to make haste with it (the
 recitation of the Qur\`an). Surely upon Us lies the responsibility of
@@ -237,11 +209,7 @@ orders the Prophet (‘s) to follow the Angel in recitation. Finally He
 (also) takes the responsibility of expounding and elucidating the
 contents, as the following phrase of the verse clearly reveals:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ عَلَيْنَا بَيَانَهُ
-  </p>
-</blockquote>
+> ثُمَّ عَلَيْنَا بَيَانَهُ
 
 “Again on Us (devolves) the explaining of it (the Qur\`an).”
 
@@ -250,11 +218,7 @@ takes responsibility of? We should not conjecture that it refers to the
 exposition of defining the words of the verses, for this has already
 been mentioned previously in the phrase:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْأَنَهُ
-  </p>
-</blockquote>
+> إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْأَنَهُ
 
 “Surely upon Us is the responsibility of collecting it and the reciting
 of it (the Qur\`an).”
@@ -269,11 +233,7 @@ It should be known however that the aim is not that every verse of the
 Noble Qur\`an needs exposition so that someone should say that the
 following verse too needs exposition:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللٌّهَ عَلَــى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> إِنَّ اللٌّهَ عَلَــى كُلِّ شَيْءٍ قَدِيرٌ
 
 “Surely Allah has power over all things.”
 
@@ -310,5 +270,4 @@ transactions. (Ed.)
 [^6]: Suratul Nahl (16), Verse 44
 
 [^7]: Suratul Qiyamat (75), Verses 16 to 19
-
 

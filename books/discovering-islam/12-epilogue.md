@@ -16,4 +16,3 @@ conclusion, I hope and pray that God the Almighty may guide us all along
 the right path. It is only through His path that one is insured success,
 prosperity, and peace in this life and in the Hereafter, *insha'Allah*.
 
-

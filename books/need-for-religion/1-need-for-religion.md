@@ -326,17 +326,9 @@ planner was the 'Nature' (which is just an abstract idea) or the
 
 A Muslim poet has said:
 
-<blockquote dir="rtl">
-  <p>
-قال المنجم و الطبيب كلا هما لن يحشر الاموت فلت اليكما
-  </p>
-</blockquote>
+> قال المنجم و الطبيب كلا هما لن يحشر الاموت فلت اليكما
 
-<blockquote dir="rtl">
-  <p>
-ان صح قو لكما فلست بخاسر ان صح قولى فا لخسار عليكم
-  </p>
-</blockquote>
+> ان صح قو لكما فلست بخاسر ان صح قولى فا لخسار عليكم
 
 *"The astrologer and the physician both said: 'The dead will never be
 resurrected.'*  
@@ -467,5 +459,4 @@ It will appear from the above, criteria that among the vast multitudes
 of the world religions, it is only the Islam (Shia Ithna-asheri faith)
 which fulfils all the necessary conditions of a true and enlightened
 religion.
-
 

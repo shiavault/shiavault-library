@@ -186,4 +186,3 @@ both traditions say, there is only one true faith and all who do not
 accept that faith will perish, is the moral imperative for Christians
 and Muslims one of dialogue or conversion?
 
-

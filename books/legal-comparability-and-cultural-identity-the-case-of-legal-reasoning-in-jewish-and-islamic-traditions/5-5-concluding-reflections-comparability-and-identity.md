@@ -159,6 +159,5 @@ their development in the Middle Ages.
 Cite as: Joseph E. David,*Legal Comparability and Cultural Identity: The
 Case of Legal Reasoning in Jewish and Islamic Traditions* , vol. 14.1
 ELECTRONIC JOURNAL OF COMPARATIVE LAW, (May 2010),
-\<http://www.ejcl.org/141/art141-2.pdf\>.
-
+<http://www.ejcl.org/141/art141-2.pdf>.
 

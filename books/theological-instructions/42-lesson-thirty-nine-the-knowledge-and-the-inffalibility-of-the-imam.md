@@ -233,4 +233,3 @@ using it?
 7. Mention an example of the narrations referring to the Imams’
 knowledge.
 
-

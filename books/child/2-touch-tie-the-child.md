@@ -46,7 +46,6 @@ as much as the 'daily food'. How interesting! Is it not the mutual
 affection and loyalty within the family which also ensures the provision
 of daily food for all in the family?
 
-
 **Let the Child be a Child**
 
 A child was visited at home by his friend. That night the child
@@ -136,7 +135,6 @@ So let the child be a child under the dictates of a child's nature
 while he as a child gropes in the dark for light, that is, knowledge
 leading to faith and then conviction, which he attains one after the
 other regarding the Unseen later in his adult life.
-
 
 **Spare the Child from Inferiority Complex (Part 1 of 3)**
 
@@ -252,5 +250,4 @@ have n traversed the earth and seen what have remained of those in the
 past who thought themselves to be mighty and ever-lasting. and sensed
 themselves superior in material terms during their time of pomp in this
 life.
-
 

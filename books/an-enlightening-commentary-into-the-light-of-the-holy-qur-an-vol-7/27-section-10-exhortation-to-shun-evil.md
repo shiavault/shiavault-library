@@ -4,13 +4,9 @@ Section 10: Exhortation to Shun Evil
 Surah Hud – Verse 110
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ فَاخْتُلِفَ فِيهِ وَلَوْلاَ
-كَلِمَةٌ سَبَقَتْ مِن رَبّكَ لَقُضِيَ بَيْنَهُمْ وَإِنَّهُمْ لَفِي
-شَكّ‌ٍ مِنْهُ مُرِيبٍ
-  </p>
-</blockquote>
+> وَلَقَدْ ءَاتَيْنَا مُوسَي الْكِتَابَ فَاخْتُلِفَ فِيهِ وَلَوْلاَ
+> كَلِمَةٌ سَبَقَتْ مِن رَبّكَ لَقُضِيَ بَيْنَهُمْ وَإِنَّهُمْ لَفِي
+> شَكّ‌ٍ مِنْهُ مُرِيبٍ
 
 ***110. “And We certainly gave Moses the Book, then variance was
 (created) in it, and had not a Word gone forth before from your Lord,
@@ -49,12 +45,8 @@ concerning it.”***
 Surah Hud – Verse 111
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ كُلاًّ لَمَّا لَيُوَفّيَنَّهُمْ رَبُّكَ أَعْمَالَهُمْ إِنَّهُ
-بِمَا يَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> وَإِنَّ كُلاًّ لَمَّا لَيُوَفّيَنَّهُمْ رَبُّكَ أَعْمَالَهُمْ إِنَّهُ
+> بِمَا يَعْمَلُونَ خَبِيرٌ
 
 ***111. “And certainly, to all will your Lord recompense them their
 deeds in full; verily He is aware of what they do.”***
@@ -89,12 +81,8 @@ if it is evil it will be compensated for with the same.
 Surah Hud – Verse 112
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَقِمْ كَمَآ اُمِرْتَ وَمَن تَابَ مَعَكَ وَلاَ تَطْغَوْا إِنَّهُ
-بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> فَاسْتَقِمْ كَمَآ اُمِرْتَ وَمَن تَابَ مَعَكَ وَلاَ تَطْغَوْا إِنَّهُ
+> بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***112. “Therefore stand firm (O Prophet) as you are commanded, and
 (also) he who has turned (unto Allah) with you, and (O’ men) do not
@@ -168,12 +156,8 @@ principles mentioned above.
 Surah Hud – Verse 113
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَرْكَنُوا إِلَي الَّذِينَ ظَلَمُوا فَتَمَسَّكُمْ النَّارُ وَمَا
-لَكُم مِن دُونِ اللَّهِ مِنْ أَوْلِيَآءَ ثُمَّ لاَ تُنصَرُونَ
-  </p>
-</blockquote>
+> وَلاَ تَرْكَنُوا إِلَي الَّذِينَ ظَلَمُوا فَتَمَسَّكُمْ النَّارُ وَمَا
+> لَكُم مِن دُونِ اللَّهِ مِنْ أَوْلِيَآءَ ثُمَّ لاَ تُنصَرُونَ
 
 ***113. “And do not incline to those who are unjust, lest the Fire will
 touch you; and you have no protectors other than Allah, nor shall you be
@@ -260,18 +244,10 @@ of injustice.
 Surah Hud – Verses 114 - 115
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفاً مِنَ اللَّيْلِ إِنَّ
-الْحَسَنَاتِ يُذْهِبْنَ السَّيّئاتِ ذَلِكَ ذِكْرَي لِلذ اكِرِينَ
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفاً مِنَ اللَّيْلِ إِنَّ
+> الْحَسَنَاتِ يُذْهِبْنَ السَّيّئاتِ ذَلِكَ ذِكْرَي لِلذ اكِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَاصْبِرْ فَإِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> وَاصْبِرْ فَإِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُـحْسِنِينَ
 
 ***114. “And establish the prayer at the two ends of the day and at the
 approaches of the night; verily the good deeds remove evil deeds. That
@@ -447,14 +423,10 @@ himself in a stream in front of his house, fives times every day.”*[^7]
 Surah Hud – Verse 116
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَوْلاَ كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ اُولُواْ بَقِيَّةٍ
-يَنْهَوْنَ عَنِ الْفَسَادِ فِي الأَرْضِ إِلاَّ قَلِيلاً مِمَّنْ
-أَنْجَيْنَا مِنْهُمْ وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَآ اُتْرِفُوا
-فِيهِ وَكَانُوا مُجْرِمِينَ
-  </p>
-</blockquote>
+> فَلَوْلاَ كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ اُولُواْ بَقِيَّةٍ
+> يَنْهَوْنَ عَنِ الْفَسَادِ فِي الأَرْضِ إِلاَّ قَلِيلاً مِمَّنْ
+> أَنْجَيْنَا مِنْهُمْ وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَآ اُتْرِفُوا
+> فِيهِ وَكَانُوا مُجْرِمِينَ
 
 ***116. “But why were there not, among the generations before you,
 persons possessed understanding (and authority), prohibiting (people)
@@ -562,12 +534,8 @@ from these dangers and deviations.
 Surah Hud – Verse 117
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَي بِظُلْمٍ وَأَهْلُهَا
-مُصْلِحُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَي بِظُلْمٍ وَأَهْلُهَا
+> مُصْلِحُونَ
 
 ***117. “Nor would your Lord destroy the townships unjustly while their
 people acted well.”***
@@ -596,12 +564,8 @@ it to survive.
 Surah Hud – Verse 118
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ النَّاسَ اُمَّةً وَاحِدَةً وَلا
-يَزَالُونَ مُخْتَلِفِينَ
-  </p>
-</blockquote>
+> وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ النَّاسَ اُمَّةً وَاحِدَةً وَلا
+> يَزَالُونَ مُخْتَلِفِينَ
 
 ***118. “And had your Lord willed, He would have made mankind a single
 people: yet they cease not differing.”***
@@ -663,12 +627,8 @@ differences regarding ideas and schools of thought must exist.
 Surah Hud – Verse 119
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَن رَحِمَ رَبُّكَ وَلِذَلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ
-رَبّكَ لأَمْلأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ
-  </p>
-</blockquote>
+> إِلاَّ مَن رَحِمَ رَبُّكَ وَلِذَلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ
+> رَبّكَ لأَمْلأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ
 
 ***119. “Except those on whom your Lord has Mercy; and for that (mercy)
 did He create them. And the Word of your Lord has been fulfilled:
@@ -708,13 +668,9 @@ together’.”***
 Surah Hud – Verse 120
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكُلاًّ نَقُصُّ عَلَيْكَ مِنْ أَنبَآءِ الرُّسُلِ مَا نُثَبّتُ بِهِ
-فُؤَادَكَ وَجَآءَكَ فِي هَذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَي
-لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَكُلاًّ نَقُصُّ عَلَيْكَ مِنْ أَنبَآءِ الرُّسُلِ مَا نُثَبّتُ بِهِ
+> فُؤَادَكَ وَجَآءَكَ فِي هَذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَي
+> لِلْمُؤْمِنِينَ
 
 ***120. “And all that We relate to you of the account of the messengers
 is something in order that with it We make firm your heart and in this
@@ -760,18 +716,10 @@ aspects of life for all people in all times.
 Surah Hud – Verses 121 - 122
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقُل لِلَّذِينَ لاَ يُؤْمِنُونَ اعْمَلُوا عَلَي مَكَانَتِكُمْ إِنَّا
-عَامِلُونَ
-  </p>
-</blockquote>
+> وَقُل لِلَّذِينَ لاَ يُؤْمِنُونَ اعْمَلُوا عَلَي مَكَانَتِكُمْ إِنَّا
+> عَامِلُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَانْتَظِرُوا إِنَّا مُنْتَظِرُونَ
-  </p>
-</blockquote>
+> وَانْتَظِرُوا إِنَّا مُنْتَظِرُونَ
 
 ***121. “And say to those who do not believe: ‘Act according to your
 ability; we shall do (our part)’;”***  
@@ -804,13 +752,9 @@ of Allah.
 Surah Hud – Verse 123
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالأَرْضِ وَإِلَيْهِ يُرْجَعُ الأَمْرُ
-كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ وَمَا رَبُّكَ بِغَافِلٍ
-عَمَّا تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالأَرْضِ وَإِلَيْهِ يُرْجَعُ الأَمْرُ
+> كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ وَمَا رَبُّكَ بِغَافِلٍ
+> عَمَّا تَعْمَلُونَ
 
 ***123. “And to Allah (alone) belong the Unseen of the heavens and the
 earth, and to Him the whole affairs will be returned; Then worship Him,
@@ -888,5 +832,4 @@ It continues saying:
 [^11]: Surah Hajj No. 22, verse 41
 
 [^12]: Surah Al-Ghashiyah, No. 88, verses 21& 22
-
 

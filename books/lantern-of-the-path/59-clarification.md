@@ -34,5 +34,3 @@ Allah's help in purifying your outward nature of wrong actions and
 cleanse your inward being from faults. Cut the shackles of heedlessness
 from your heart, and extinguish the fire of desires in your soul.
 
-
-

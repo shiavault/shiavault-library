@@ -59,4 +59,3 @@ Holy Qur’an (A’raf 7:56)
 
 Praise be to Allah, the lord of the Worlds
 
-

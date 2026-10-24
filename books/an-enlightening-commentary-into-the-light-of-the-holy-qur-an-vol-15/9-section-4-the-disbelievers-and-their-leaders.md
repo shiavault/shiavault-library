@@ -4,15 +4,11 @@ Section 4: The Disbelievers and Their Leaders
 Surah As-Saba- Verse 31
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ كَفَرُوا لَن نُؤْمِنَ بِهَذَا الْقُرْءَانِ وَلاَ
-بِالَّذِي بَيْنَ يَدَيْهِ وَلَوْ تَرَي اِذِ الظَّالِمُونَ مَوْقُوفُونَ
-عِندَ رَبّـِهِمْ يَرْجِعُ بَعْضُهُمْ إِلَي بَعْضٍ الْقَوْلَ يَقُولُ
-الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلآ أَنتُمْ
-لَكُنَّا مُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ كَفَرُوا لَن نُؤْمِنَ بِهَذَا الْقُرْءَانِ وَلاَ
+> بِالَّذِي بَيْنَ يَدَيْهِ وَلَوْ تَرَي اِذِ الظَّالِمُونَ مَوْقُوفُونَ
+> عِندَ رَبّـِهِمْ يَرْجِعُ بَعْضُهُمْ إِلَي بَعْضٍ الْقَوْلَ يَقُولُ
+> الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلآ أَنتُمْ
+> لَكُنَّا مُؤْمِنِينَ
 
 ***31. “And those who disbelieve say: ‘Never will we believe in this
 Qur’an, nor in that which is before it, and could you see when the
@@ -103,13 +99,9 @@ they stand in front of them and speak frankly, disputing with them.
 Surah As-Saba- Verse 32
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا أَنَحْنُ
-صَدَدْنَاكُمْ عَنِ الْهُدَي بَعْدَ إِذْ جَآءَكُم بَلْ كُنتُم
-مُّجْرِمِينَ
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا أَنَحْنُ
+> صَدَدْنَاكُمْ عَنِ الْهُدَي بَعْدَ إِذْ جَآءَكُم بَلْ كُنتُم
+> مُّجْرِمِينَ
 
 ***32. “Those who had prided shall say unto those who were despised as
 weak: ‘Did we turn you away from the guidance after it had come to you?
@@ -141,15 +133,11 @@ their sins are upon their own shoulders.
 Surah As-Saba- Verse 33
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَروُا بَلْ مَكْرُ
-الَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِاللَّهِ
-وَنَجْعَلَ لَهُ أَندَاداً وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا
-الْعَذَابَ وَجَعَلْنَا الأَغْلاَلَ فِي أَعْنَاقِ الَّذِينَ كَفَرُوا
-هَلْ يُجْزَوْنَ اِلاَّ مَا كَانُوا يَعْمَلُون
-  </p>
-</blockquote>
+> وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَروُا بَلْ مَكْرُ
+> الَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِاللَّهِ
+> وَنَجْعَلَ لَهُ أَندَاداً وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا
+> الْعَذَابَ وَجَعَلْنَا الأَغْلاَلَ فِي أَعْنَاقِ الَّذِينَ كَفَرُوا
+> هَلْ يُجْزَوْنَ اِلاَّ مَا كَانُوا يَعْمَلُون
 
 ***33. “And those who were despised as weak shall say unto those who had
 prided: ‘Nay! It was a plot (of yours) by day and by night when you bade
@@ -238,19 +226,11 @@ hint to this fact that the cause of their punishment is their paganism.
 Surah As-Saba- Verses 34-35
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا فِي قَرْيَةٍ مِن نَذِيرٍ إِلاَّ قَالَ مُتْرَفُوهَآ
-إِنَّا بِمَآ اُرْسِلْتُم بِهِ كَافِرُونَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا فِي قَرْيَةٍ مِن نَذِيرٍ إِلاَّ قَالَ مُتْرَفُوهَآ
+> إِنَّا بِمَآ اُرْسِلْتُم بِهِ كَافِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالاً وَأَوْلاَداً وَمَا نَحْنُ
-بِمُعَذَّبِينَ
-  </p>
-</blockquote>
+> وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالاً وَأَوْلاَداً وَمَا نَحْنُ
+> بِمُعَذَّبِينَ
 
 ***34. “And We sent no Warner into any city except the opulent ones of
 it said: ‘Verily we are disbelievers in what you are sent with’.”***  
@@ -354,12 +334,8 @@ nigh to Allah.
 Surah As-Saba- Verse 36
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّ رَبّـِي يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ وَيَقْدِرُ
-وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلْ إِنَّ رَبّـِي يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ وَيَقْدِرُ
+> وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
 
 ***36. “Say: ‘Verily my Lord amplifies the sustenance for whom He
 pleases and straitens for whom He pleases, but most of the people do not
@@ -399,5 +375,4 @@ clear for the aware ones.
 [^1]: Surah Al-’Anbiya’, No. 21, verse 14
 
 [^2]: Lisan-ul-‘Arab, Vol. 9, p. 17
-
 

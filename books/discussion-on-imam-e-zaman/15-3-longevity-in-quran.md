@@ -72,10 +72,8 @@ longevity, now let us proceed to establish longevity from the Quranic
 verses itself. The first clear proof from the Quran is about the
 longevity of Hazrat Nuh (a.s.). The Holy Quran informs,
 
-<p dir="rtl">
 « و لقدارسلنا نُوحاً إلي قومِهِ فلبث فيهم الف سنه إلّا خمسين عاما
 فاخذهم الطوفانْ و ه.م ظالمون »
-</p>
 
 “And indeed We sent Nuh to his nation, then he stayed with them for a
 thousand save fifty years. Later, the deluge overtook them while they
@@ -93,13 +91,11 @@ our readers. In the story of Hazrat Ozair (a.s.) [or Irmiya (a.s.)
 according to some interpreters as the name is not mentioned in the
 Quran] it has come down as follows:
 
-<p dir="rtl">
 أو كالّذي مرُّ علي قريهٍ و هي خاويه. علي ع.رْوشها قال أنّي يحيي هذه
 اللّه. بعد موتها فأماته. اللّه. » مائه عامٍ ثم. بعثه قال كم لبثت قال
 لبثت يوماً أو بعض يومٍ قال بل لبثت مائه عام فانظر إلي طعامك و شرابك لم
 يتسنّه و انظر الي حمارك و لنجعلك آيه للناس و انظر الي العظام كيف ننشزها
 ثم .« نكسوها لحما فلما تبين له قال أعلم أن اللّه علي كلِّ شي ءٍ قدير
-</p>
 
 “Or the like of whom (Ozair) who passed by a town and it had fallen
 down on its roofs. He said, ‘When will Allah give it life after its
@@ -395,9 +391,7 @@ This is one view that it is decreed for man to achieve perfection on
 his own accord. On a social level too, the same applies, as Allah
 declares,
 
-<p dir="rtl">
 .« و لو شاء رب.ك لآمن من في الارض كلُّهم جميعا »
-</p>
 
 “Had your Lord willed, indeed everyone who is on the earth would have
 believed.78”
@@ -750,9 +744,7 @@ and protected the endeavours of all the Prophets, Messengers and
 successors from Adam (a.s.) till himself and became the heir of Adam
 (a.s.).
 
-<p dir="rtl">
 .« السلام عليك يا وارث آدم صفوه اللّه »
-</p>
 
 “Peace be on you, O heir of Adam, the chosen one of Allah.”
 
@@ -864,9 +856,7 @@ level of execution, he could not meet with much success due to the lack
 of co-operation from ignorant among his followers. It was precisely this
 emotion that he (a.s.) expressed in the following statement:
 
-<p dir="rtl">
 .« . قصم ظهري رجلان : عالم. متهتِّك و جاهلٌ متنسك »
-</p>
 
 “Two persons broke my back: The scholar, who tore the veil apart84 and
 the pious ignorant worshipper.85”
@@ -899,9 +889,7 @@ entire blame of non-implementation directly on the society, i.e. on
 individuals as well as the society as a whole. As the Messenger of Islam
 (s.a.w.a.) had warned,
 
-<p dir="rtl">
 .« كلُّكم راعٍ . و كُلُّكم مسؤولٌ عن رعي.ته »
-</p>
 
 “All of you are shepherds and all of you will be questioned about your
 flock (of sheep).86”
@@ -985,10 +973,8 @@ Explaining the reasons for his peace treaty, Imam Hasan al-Mujtaba
 (a.s.) wrote a letter to Moaviyah, the contents of which are indeed a
 very important lesson for all of us. He (a.s.) wrote,
 
-<p dir="rtl">
 .« . لو وجدت. صابرين عارفين بحقّي غير م.نكرين, ما سلَّمت. لك و لا
 اعطيتُك ما تريد »
-</p>
 
 “Had I found friends who were patient and aware of my rights and not
 denying (my position), I would never have submitted to you nor would I
@@ -1153,5 +1139,4 @@ out for help, “Is there a monotheist who fears Allah concerning our
 rights? Is there a refuge that hopes for divine reward in providing us
 protection?91” But you raised his severed head on the spear and obeyed
 the instructions of Yazid!
-
 

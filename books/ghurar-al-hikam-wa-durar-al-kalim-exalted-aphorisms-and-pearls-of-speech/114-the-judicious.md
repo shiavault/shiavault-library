@@ -7,31 +7,19 @@ The Judicious
 blessing [he has been given] to work for his afterlife.
 
 > 1ـ اَلحازِمُ مَنْ لا يَشْغَلُهُ النِّعْمَةُ عَنِ العَمَلِ
-<blockquote dir="rtl">
-  <p>
-لِلْعاقِبَةِ.
-  </p>
-</blockquote>
+> لِلْعاقِبَةِ.
 
 2. The judicious person is one who is generous with what he has in his
 possession and does not postpone his work of today to tomorrow.
 
 > 2ـ اَلحازِمُ مَنْ جادَ بِما في يَدِهِ، ولَمْ يُؤَخِّرْ عَمَلَ يَومِهِ
-<blockquote dir="rtl">
-  <p>
-إلى غَدِهِ.
-  </p>
-</blockquote>
+> إلى غَدِهِ.
 
 3. The judicious person is one who is not too preoccupied with the
 deceptions of his world to work for his Hereafter.
 
 > 3ـ اَلحازِمُ مَنْ لَمْ يَشْغَلْهُ غُرُورُ دُنْياهُ عَنِ العَمَلِ
-<blockquote dir="rtl">
-  <p>
-لاُخْراهُ.
-  </p>
-</blockquote>
+> لاُخْراهُ.
 
 4. The judicious person is one who is amicable with [the people of] his
 time.
@@ -48,22 +36,14 @@ to him and is patient and thinks no more of it when the blessings turn
 away or turn back from him.
 
 > 6ـ اَلحازِمُ مَنْ شَكَرَ النِّعْمَةَ مُقْبِلَةً، وصَبَرَ عَنْها،
-<blockquote dir="rtl">
-  <p>
-وَسَلاها مُوَلِّيَةً مُدْبِرَةً.
-  </p>
-</blockquote>
+> وَسَلاها مُوَلِّيَةً مُدْبِرَةً.
 
 7. The judicious person is one who delays meting out punishment when [he
 is] under the yoke of anger and expedites the repayment of favours by
 taking advantage of the available opportunity.
 
 > 7ـ اَلحازِمُ مَنْ يُؤَخِّرُ العُقُوبَةَ في سُلْطانِ الغَضَبِ،
-<blockquote dir="rtl">
-  <p>
-ويُعَجِّلُ مُكافاةَ الإحْسانِ إغْتِناماً لِفُرْصَةِ الإمكانِ.
-  </p>
-</blockquote>
+> ويُعَجِّلُ مُكافاةَ الإحْسانِ إغْتِناماً لِفُرْصَةِ الإمكانِ.
 
 8. The most judicious of you is the most abstemious of you [from worldly
 pleasures].
@@ -85,21 +65,13 @@ garments are patience and consideration of the consequences [of his
 actions].
 
 > 11ـ أحْزَمُ النّاسِ مَنْ كانَ الصَّبْرُ والنَّظَرُ فيِ العَواقِبِ
-<blockquote dir="rtl">
-  <p>
-شِعارَهُ وَدِثارَهُ.
-  </p>
-</blockquote>
+> شِعارَهُ وَدِثارَهُ.
 
 12. The most judicious of people is the one who fulfils his promise and
 does not postpone his work of today to tomorrow.
 
 > 12ـ أحْزَمُ النّاسِ رَأْياً مَنْ أنْجَزَ وَعْدَهُ، ولَمْ يُؤَخِّرْ
-<blockquote dir="rtl">
-  <p>
-عَمَلَ يَوْمِهِ لِغَدِهِ.
-  </p>
-</blockquote>
+> عَمَلَ يَوْمِهِ لِغَدِهِ.
 
 13. Indeed the judicious person is one who does not get beguiled by
 deceptions.
@@ -114,23 +86,15 @@ preoccupation in keeping himself away from [that which is impermissible
 of] this world, its contents and its people.
 
 > 14ـ إنَّ الحازِمَ مَنْ شَغَلَ نَفْسَهُ بِجِهادِ نَفْسِهِ، فَأصْلَحَها،
-<blockquote dir="rtl">
-  <p>
-وحَبَسَها عَنْ أهْوِيَتِها ولَذّاتِها فَمَلَكَها، وإنَّ لِلْعاقِلِ
-بِنَفْسِهِ عَنِ الدُّنيا وَما فيها وأهْلِها شُغْلاً.
-  </p>
-</blockquote>
+> وحَبَسَها عَنْ أهْوِيَتِها ولَذّاتِها فَمَلَكَها، وإنَّ لِلْعاقِلِ
+> بِنَفْسِهِ عَنِ الدُّنيا وَما فيها وأهْلِها شُغْلاً.
 
 15. Verily the judicious person is one who restrains his [lower] self by
 taking it to account, and controls it with rage (or by overcoming it),
 and kills it by fighting against it.
 
 > 15ـ إنَّ الحازِمَ مَنْ قَيـَّدَ نَفْسَهُ بِالمُحاسَبَةِ، ومَلَكَها
-<blockquote dir="rtl">
-  <p>
-بِالمُغاضَبَةِ (بِالمُغالَبَةِ)، وقَتَلَها بِالمُجاهَدَةِ.
-  </p>
-</blockquote>
+> بِالمُغاضَبَةِ (بِالمُغالَبَةِ)، وقَتَلَها بِالمُجاهَدَةِ.
 
 16. The judicious one is alert, the negligent one is sleepy.
 
@@ -159,11 +123,7 @@ whose concern is entirely for his religion, and whose struggle is
 entirely for his Hereafter.
 
 > 21ـ إنَّما الحازِمُ مَنْ كانَ بِنَفْسِهِ كُلُّ شُغْلِهِ، ولِدينِهِ
-<blockquote dir="rtl">
-  <p>
-كُلُّ هَمِّهِ، وَلآخِرَتِهِ كُلُّ جِدِّهِ.
-  </p>
-</blockquote>
+> كُلُّ هَمِّهِ، وَلآخِرَتِهِ كُلُّ جِدِّهِ.
 
 22. Many a young person is more judicious than an old person.
 
@@ -191,11 +151,7 @@ advance (or save) his work of today for his morrow[^1] is not a
 judicious person.
 
 > 27ـ لايَكُونُ حازِماً مَنْ لايَجُودُ بِما في يَدِهِ، ولايُؤَخِّرُ
-<blockquote dir="rtl">
-  <p>
-(وَلا يَدَّخِرُ)عَمَلَ يَوْمِهِ إلى غَدِهِ.
-  </p>
-</blockquote>
+> (وَلا يَدَّخِرُ)عَمَلَ يَوْمِهِ إلى غَدِهِ.
 
 28. The judicious person never dispenses with a pertinent and superior
 opinion.
@@ -203,5 +159,4 @@ opinion.
 > 28ـ لايَسْتَغْنِي الحازِمُ أبَداً عَنْ رَأْي سَديد راجِح.
 
 [^1]: Meaning that he does not work in this world for his Hereafter.
-
 

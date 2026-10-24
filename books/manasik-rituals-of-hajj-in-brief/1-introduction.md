@@ -746,4 +746,3 @@ through *niyabah*, the *naib* can receive wages for it. If the *Umrah*
 *Mufradah* were obligatory for the one who has hired the *naib*, it
 would be sufficient.
 
-

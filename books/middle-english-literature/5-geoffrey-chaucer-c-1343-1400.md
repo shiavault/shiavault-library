@@ -71,4 +71,3 @@ this time are the***Book of the Duchess*** *,* an allegorical lament
 written in 1369 on the death of Blanche, wife of John of Gaunt, and a
 partial translation of the***Roman de la Rose.***
 
-

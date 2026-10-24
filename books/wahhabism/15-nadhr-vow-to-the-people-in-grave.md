@@ -7,11 +7,7 @@ they will donate a certain sum of money for one of the shrines over the
 grave and / or will sacrifice a goat for preparing food for the
 pilgrims. They say:
 
-<blockquote dir="rtl">
-  <p>
-لله علىَّ كذا إن كان كذا
-  </p>
-</blockquote>
+> لله علىَّ كذا إن كان كذا
 
 This matter is prevalent among all the Muslims of the world especially
 at those centres where the graves of awliya Allah and virtuous
@@ -33,18 +29,10 @@ be related to the Shi'a whereas, the founder of Wahhabism Ibn Taymiyya
 has discussed the matter in a wider scope and has believed it to be
 related to the common Muslims. As he says:
 
-<blockquote dir="rtl">
-  <p>
-من نذر شيئاً للنبيّ أو غيره من النبييّن والأولياء من أهل القبول أو ذبح
-ذبيحة كان كالمشركين الذين يذبحون
-  </p>
-</blockquote>
+> من نذر شيئاً للنبيّ أو غيره من النبييّن والأولياء من أهل القبول أو ذبح
+> ذبيحة كان كالمشركين الذين يذبحون
 
-<blockquote dir="rtl">
-  <p>
-لأوثانهم و ينذرون لها فهو عابد لغير الله فيكون بذلك كافراً
-  </p>
-</blockquote>
+> لأوثانهم و ينذرون لها فهو عابد لغير الله فيكون بذلك كافراً
 
 *“Anyone who has a* *nadhr* *(vow) to make and sacrifice for the Holy
 Prophet (s), other Prophets and other awliya is similar to the
@@ -72,25 +60,13 @@ judgement only because the two actions are apparently the same.
 Regarding this matter, the author of *Sulh al-'ikhwan* has given a
 statement which can clarify this matter. He says:
 
-<blockquote dir="rtl">
-  <p>
-إن المسألة تدور مدار نيات الناذرين وإنما الأعمال بالنيات فإن كان قصد
-الناذر الميت نففسه والتقرب إليه بذلك لم
-  </p>
-</blockquote>
+> إن المسألة تدور مدار نيات الناذرين وإنما الأعمال بالنيات فإن كان قصد
+> الناذر الميت نففسه والتقرب إليه بذلك لم
 
-<blockquote dir="rtl">
-  <p>
-يجُز قولاً واحداً وإن كان قصد وجه الله تعالى وانتفاع الأحياء بوجه من
-الوجوه وثوابه لذلك المنذور له الميت فيجب
-  </p>
-</blockquote>
+> يجُز قولاً واحداً وإن كان قصد وجه الله تعالى وانتفاع الأحياء بوجه من
+> الوجوه وثوابه لذلك المنذور له الميت فيجب
 
-<blockquote dir="rtl">
-  <p>
-الوفاء بالنذر
-  </p>
-</blockquote>
+> الوفاء بالنذر
 
 This Sunni scholar who is himself a critic of the beliefs of Wahhabis
 has, in this short statement discussed the matter from the viewpoint of
@@ -115,11 +91,7 @@ the Muslims is to seek the satisfaction of Allah and present its reward
 to the dead. Therefore they bring the word of Allah in their vows and
 say:
 
-<blockquote dir="rtl">
-  <p>
-لله عليًّ إن قضيت حاجتي ان افعل كذا
-  </p>
-</blockquote>
+> لله عليًّ إن قضيت حاجتي ان افعل كذا
 
 *“The purpose of* *nadhr* *in reality is seeking proximity to Allah and
 presenting its reward to the one in grave and the beneficiaries of
@@ -142,11 +114,7 @@ like; **لله عليَّ** and sometimes it is meant to describe its usage like
 **إنما الصدقات للفقراء**and while carrying out the paradigm of *nadhr*
 (vow) they use both kinds of **لام**and say:
 
-<blockquote dir="rtl">
-  <p>
-نذرت لله إن قُضيت حاجتي أن أذبح للنبيَّ
-  </p>
-</blockquote>
+> نذرت لله إن قُضيت حاجتي أن أذبح للنبيَّ
 
 The first **لام**is the same **لام**of goal and motive and it implies
 that the aim of this *nadhr* is seeking the satisfaction of Allah and
@@ -177,11 +145,7 @@ will she derive any benefit from it?” The Holy Prophet (s) replied:
 charities which charity was the most useful and the Prophet (s) replied:
 “Water”. Sa’d dug a well and said:
 
-<blockquote dir="rtl">
-  <p>
-هذه لإم سعد
-  </p>
-</blockquote>
+> هذه لإم سعد
 
 As you must have noticed, the **لام**of this sentence is different from
 the **لام** that is present in the sentence **نذرت لله**the first
@@ -196,11 +160,7 @@ people to worship?” He replied “No.” The Prophet (s) asked: “Was any
 congregation held in any of the ignorant festivals in that place?” He
 replied “No.” At that moment, the Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-اوفِ بنذرك فإنه لا وفاء لنذرٍ في معصية الله ولا فيما لا يملك ابن أدم
-  </p>
-</blockquote>
+> اوفِ بنذرك فإنه لا وفاء لنذرٍ في معصية الله ولا فيما لا يملك ابن أدم
 
 *“Fulfill your vow (nadhr) as* *nadhr* *is not correct in two
 instances:*
@@ -228,11 +188,7 @@ for Allah and not for the idols. In fact, one of the forbidden acts from
 the viewpoint of Qur’an is to slaughter in the name of an idol. As the
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وما ذُبِح على النُصب
-  </p>
-</blockquote>
+> وما ذُبِح على النُصب
 
 ***“And what is sacrificed on stones set up (for idols). (Maida 5:3)”***
 
@@ -264,5 +220,4 @@ Taymiyya.
 [^6]: Sunan Abi Dawud, vol. 2 page 80.
 
 [^7]: Sunan Abi Dawud, vol. 2 page 81
-
 

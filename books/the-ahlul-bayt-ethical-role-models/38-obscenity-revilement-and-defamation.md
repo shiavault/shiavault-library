@@ -109,4 +109,3 @@ reaches of the Indus.
 
 [^11]: Quoted from al-Wafi; part 3 page 161 (as quoted from al- Kafi).
 
-

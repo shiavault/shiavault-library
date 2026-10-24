@@ -51,4 +51,3 @@ Thus, the Imams of Ahlul-Bait (a.s.) explain that the true monotheism
 is the one called upon by the Qur'an which unified Allah in His Self,
 His attributes, His deeds and His worships.
 
-

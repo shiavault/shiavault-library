@@ -237,4 +237,3 @@ He said, “Even if you put me to death, his love cannot leave my heart.”
 This reply infuriated Motamid further and he sentenced the man to life
 imprisonment.
 
-

@@ -1,7 +1,6 @@
 Introduction of the Complier
 ============================
 
-<p dir="rtl">
 الحمد لوليّه ومستحقّه, وأفضل الصلوة والسلام على أشرف خلقه محمّد خاتم
 الأنبياء والمرسلين العظام، وعلى بضعته الطاهرة وأوصيائه المعصومين الكرام.
 أما بعد، فهذه لآلي غوالٍ وجواهر زواهر، وصايا خرجت من عمّان النبوّة ومعدن
@@ -10,7 +9,6 @@ Introduction of the Complier
 التقطا… حلّ المشكلات وفيصل القضايا، سيدّنا ومولانا أمير المؤمنين، وإمام
 المسلمين، عليّ بن أبي طالب صلوات الله وتسليماته عليه، وعلى عترته
 المعصومين.
-</p>
 
 All praise is due to the true Master and Deserver of all praise.
 Honorable blessings and peace be upon the honorable being-Mohammed the
@@ -63,7 +61,6 @@ his father from Ja'far bin Mohammed from his father from his grandfather
 from Ali bin Abi Talib (a) that the Prophet (s) said: O Ali, I
 command…)
 
-<p dir="rtl">
 يا عليّ، من كظم الغيظ وهو يقدر على إمضائه أعقبه الله يوم القيامة أمناً
 وإيماناً يجد طعمه.
 يا عليُّ، مَن لم يُحسن وصيّته عند موته كان نقصاً في مروءته ولم يملك
@@ -72,7 +69,6 @@ command…)
 يا عليُّ، مَن خاف الناس لسانه فهو من أهل النار.
 يا عليُّ، شرّ الناس من أكرمه الناس إتّقاء شرّه.
 يا عليُّ، شرّ الناس من باع آخرته بدنياه.
-</p>
 
 O Ali, for those who suppress their anger while they are able to
 punish, Allah will endow them with security and tasteful faith on the
@@ -99,7 +95,6 @@ one-third of his will to charity.
 3. In other way of narration, the word 'obscene language' replaces the
 word 'evildoing'.
 
-<p dir="rtl">
 وشرّ من ذلك من باع آخرته بدنيا غيره.
 يا عليُّ، مَن لم يقبل العذر من متنصّل صادقاً كان أو كاذباً، لم ينل
 شفاعتي.
@@ -108,7 +103,6 @@ word 'evildoing'.
 يا عليّ، مَن ترك الخمر لغير الله سقاه الله من الرحيق المختوم.
 فقال عليّ عليه السلام: لغير الله؟
 قال: نعم، والله صيانة لنفسه يشكره الله على ذلك.
-</p>
 
 Those who sold their lives to come with others' worldly lives are
 eviler than the previous. O Ali, he who rejects an apology, whether true
@@ -139,7 +133,6 @@ narrated that Imam As-Sadiq (a) said: The reformer is not liar.
 the reward of giving up any act of disobedience to God. Many narratives
 confirm this fact.
 
-<p dir="rtl">
 يا عليّ، شارب الخمر لا يقبل الله عزّ وجلّ صلواته أربعين يوماً، فإن مات
 في الأربعين مات كافراً.
 يا عليّ، كلّ مسكر حرام، وما أسكر كثيره فالجرعة منه حرام.
@@ -148,7 +141,6 @@ confirm this fact.
 يا عليّ، إنّ إزالة الجبال الرّواسي أهون من إزالة ملك موكّل لم تنقص
 أيامه.
 يا عليّ، مَن لم ينتفع بدينه ولا دنياه فلا خير في مجالسته.
-</p>
 
 O Ali, the drinker of wines is as same as the idolater.6
 
@@ -188,7 +180,6 @@ the committers of one of the grand sins.
 following form: "It is worthless to sit with him whom you do not benefit
 by his religion or world."
 
-<p dir="rtl">
 ومَن لم يوجب لك فلا توجب له ولا كرامة. يا عليّ، ينبغي أن يكون في المؤمن
 ثمان خصال: وقارُ عند الهزاهز، وصبر عند البلاء، وشكر عند الرخاء، وقنوع
 بما رزقه الله عزّ وجلّ، لا يظلم الأعداء، ولا يتحامل على الأصدقاء، بدنه
@@ -196,7 +187,6 @@ by his religion or world."
 عادل، ووالد لولده، والرجل يدعو لأخيه بظهر الغيب، والمظلوم. يقول الله عزّ
 وجلّ: وعزّتي وجلالي لأنتصرنّ لك ولو بعد حين. يا عليّ، ثمانية إن اُهينوا
 فلا يلومنَّ إلاّ أنفسهم:
-</p>
 
 You should not respect or honor him who did not respect and honor
 you.
@@ -216,14 +206,12 @@ long period passes.
 O Ali, eight classes of people should blame no one but themselves if
 they are insulted.
 
-<p dir="rtl">
 الذاهب إلى مائدة لم يدع إليها، والمتأمّر على ربّ البيت، وطالب الخير من
 أعدائه، وطالب الفضل من اللئام، والداخل بين اثنين في سرٍّ لم يُدخلاه فيه،
 والمستخفّ بالسلطان، والجالس في مجلس ليس له بأهل، والمقبل بالحديث على من
 لا يسمع منه. يا عليّ، حرّم الله الجنّة على كلّ فحّاش بذيّ لا يبالي ما
 قال، ولا ما قيل له. يا عليّ، طوبى لمن طال عمره وحسن عمله. يا عليّ، لا
 تمزح، فيذهب بهاؤك، ولا تكذب فيذهب نورك.
-</p>
 
 They are: he who attends a banquet without invitation, he who behaves
 imperiously upon the owner, he who seeks goodness from his enemies, he
@@ -239,7 +227,6 @@ O Ali, blessed is he whose age is long and deeds are good.
 O Ali, do not joke lest, you will lose respect, and do not tell
 untruths; lest, you will lose illumination.
 
-<p dir="rtl">
 وإيّاك وخصلتين: الضجر والكسل، فانّك إن ضجرت لم تصبر على حقّ، وإن كسلت
 لم تؤدِّه. يا عليّ، لكلّ ذنب توبة إلاّ سوء الخلق، فإنّ صاحبه كلّما خرج
 من ذنب، دخل في ذنب آخر. يا عليّ، أربعة أسرع شيء عقوبة: رجل أحسنت إليه
@@ -248,7 +235,6 @@ untruths; lest, you will lose illumination.
 الضجر رحلت عنه الراحة. يا عليّ، اثني عشرة خصلة ينبغي للرجل المسلم أن
 يتعلّمها على المائدة: أربع منها فريضة، وأربع منها سنّة، وأربع منها
 أدب.
-</p>
 
 Beware of two characters: indolence and laziness, for if you are
 indolent, you will not stand the right and if you are lazy, you will not
@@ -265,7 +251,6 @@ enjoy twelve characters in regard with sitting to the dining tables,
 four of which are obligatory, four are recommendable, and four are
 ethical.
 
-<p dir="rtl">
 فأمّا الفريضة: فالمعرفة بما يأكل، والتسمية، والشكر، والرضا. وأمّا
 السنّة: فالجلوس على الرجل اليسرى، والأكل بثلاث أصابع، وأن يأكل ممّا
 يليه، ومصّ الأصابع. وأمّا الأدب: فتصغير اللقمة، والمضغ الشديد، وقلّة
@@ -273,7 +258,6 @@ ethical.
 لبنتين، لبنة من ذهب ولبنة من فضّة، وجعل حيطانها الياقوت، وسقفها الزبرجد،
 وحصاها اللؤلؤ، وترابها الزعفران والمسك الأذفر، ثم قال لها: تكلّمي،
 فقالت: لا إله إلاّ الله الحيّ القيّوم، قد سعد من يدخلني.
-</p>
 
 The four obligatory characters are to know what to eat, begin with
 bismillahirrahmanirraheem (In the Name of Allah, the Compassionate, the
@@ -290,7 +274,6 @@ pebbles from pearl, and the dust from saffron and odorous musk. Then
 Allah ordered it to speak; hence, Paradise said: "No god but Allah the
 Everlasting the Eternal. He who enters me will be surely happy."
 
-<p dir="rtl">
 قال الله جلّ جلاله: وعزّتي وجلالي لا يدخلها مدمن خمر ولا نمّام ولا
 ديّوث ولا شرطيّ ولا مخنّث ولا نبّاش ولا عشّار ولا قاطع رحم ولا قدريّ. يا
 عليّ، كفر بالله العظيم من هذه الاُمّة عشرة: القتّات، والساحر، والديّوث،
@@ -299,7 +282,6 @@ Everlasting the Eternal. He who enters me will be surely happy."
 يحجّ. يا عليّ، لا وليمة إلاّ في خمسة: في عرس، وخرس، وعذار، ووكار، وركاز;
 فالعرس التزويج، والخرس النفاس بالولد، والعذار الختان، والوكار في شراء
 الدار، والركاز يقدم من مكّة.
-</p>
 
 Allah, the Exalted, then said: "By My glory and majesty I swear, the
 alcoholic, the talebearers, the pimps, the detectives, the effeminate,
@@ -321,7 +303,6 @@ arrival from Mecca (after performing the hajj).
 8. Qadariya, in Islam, are the adherents of the doctrine of free
 will.
 
-<p dir="rtl">
 يا عليّ، لا ينبغي للعاقل أن يكون ظاعناً إلاّ في ثلاث: مرمّة لمعاش، أو
 تزوّد لمعاد، أو لذّة في غير محرّم. يا عليّ، ثلاث من مكارم الأخلاق في
 الدنيا والآخرة: أن تعفو عمّن ظلمك، وتصل من قطعك، وتحلم عمّن جهل عليك. يا
@@ -329,7 +310,6 @@ will.
 فقرك، وحياتك قبل موتك. يا عليّ، كره الله عزّ وجلّ لاُمّتي العبث في
 الصلاة، والمنّ في الصدقة، وإتيان المساجد جنباً، والضحك بين القبور،
 والتطلّع في الدور، والنظر إلى فرج النساء لأنّه يورث العمى.
-</p>
 
 O Ali, the intelligent should not travel except in three situations: in
 seeking the worldly earnings, getting supplies for the life to come, and
@@ -348,7 +328,6 @@ favors, to attend in mosques while being ceremonially impure, to laugh
 among graves, to spy on houses, and to look in women's genitals, for
 this may cause blindness.
 
-<p dir="rtl">
 وكره الكلام عند الجماع لأنّه يورث الخرس.
 وكره النوم بين العشائين، لأنّه يحرم الرزق.
 وكره الغسل تحت السماء إلاّ بمئزر.
@@ -357,7 +336,6 @@ this may cause blindness.
 وكره الكلام بين الأذان والإقامة في صلاة الغداة.
 وكره ركوب البحر في وقت هيجانه.
 وكره النوم في سطح ليس بمحجّر وقال:
-</p>
 
 Allah also disliked (for people) speaking while copulation, for this
 may cause deafness.
@@ -372,5 +350,4 @@ He disliked speaking between the azan and iqama of the Fajr Prayer.
 He disliked embarking on a ship in seaways.
 He disliked to sleep on a surface (of a house) without a fence and
 said:
-
 

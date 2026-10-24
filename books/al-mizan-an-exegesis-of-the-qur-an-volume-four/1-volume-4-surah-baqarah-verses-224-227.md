@@ -106,7 +106,6 @@ guardian for his ward.
 In any case the active participle al-kasib and al-muktasib (both of
 which mean "one who earns") are used only for a human being.
 
-
 Anyhow, now we come back to the verse. The sentence, "but He will call
 you to account for what your hearts have earned", is a metaphor in a
 metaphor. The preceding sentence says: Allah will not call you to

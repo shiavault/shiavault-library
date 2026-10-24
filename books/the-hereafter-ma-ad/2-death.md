@@ -1046,4 +1046,3 @@ http://www.al-islam.org/greater-sins-complete-ayatullah-dastaghaib-shirazi
 
 [^12]: Usul al-Kafi.
 
-

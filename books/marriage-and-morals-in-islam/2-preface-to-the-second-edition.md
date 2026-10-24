@@ -28,4 +28,3 @@ Jamadi I, 1415
  S. M. Rizvi  
  Toronto, Canada
 
-

@@ -1232,4 +1232,3 @@ all other Qur’ānic verses and traditions which attest to the reality of
 beseeching help from others as a valid act and which is explicitly urged
 by both the Qur’ān and the*sunnah.*
 
-

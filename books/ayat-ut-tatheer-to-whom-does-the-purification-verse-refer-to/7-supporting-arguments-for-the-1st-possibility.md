@@ -48,4 +48,3 @@ Let us now examine the validity of these arguments that are often raised
 by the supporters and advocates of the first possibility, who based on
 these arguments build their beliefs, thinking, and conviction.
 
-

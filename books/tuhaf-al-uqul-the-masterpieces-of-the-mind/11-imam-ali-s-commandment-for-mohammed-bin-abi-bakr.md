@@ -1781,4 +1781,3 @@ angels to keep him so that he will not fall in a well, a wall will not
 fall on him, or a beast will not raven him. When his term of death
 falls, the keeping angels will leave him.
 
-

@@ -38,4 +38,3 @@ sacred Sunna of the Prophet (s).
 
 **Nooruddeen Sharafuddeen**
 
-

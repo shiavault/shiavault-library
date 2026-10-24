@@ -2014,4 +2014,3 @@ al-Li’ali, 1/225, No. 116.
 ʿAli ʿAmili, Al-Durus, 3/81; Shahid Thani, Zayn al-Din b. ʿAli ʿAmili,
 Al-Rawdhat al-Bihiyya, 7/77.
 
-

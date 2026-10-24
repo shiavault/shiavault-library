@@ -441,4 +441,3 @@ reply?
 
 [^10]: See Ithbat al-Hudat vol. 1. p. 350
 
-

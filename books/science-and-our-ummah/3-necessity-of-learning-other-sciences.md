@@ -133,4 +133,3 @@ it... He who appointed the earth to be a cradle for you and therein
 threaded roads for you and sent down water out of heaven, and therewith
 We have brought forth diverse kinds of plants. (22:50-53)
 
-

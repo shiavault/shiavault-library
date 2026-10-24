@@ -133,7 +133,6 @@ is a kafir".
 
 To be continued..
 
-
 In sha'a Allah
 
 **Walid Dabbous**
@@ -206,5 +205,4 @@ He is stablished on the trone but we don't know how? On the other hand
 Wahhabis attribute physical entities to it, while shia do not beleieve
 Allah has hand at all. Shia also beleive he can not be seen at all, and
 so on.
-
 

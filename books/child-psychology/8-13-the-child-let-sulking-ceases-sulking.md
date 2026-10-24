@@ -81,7 +81,6 @@ and that refusal of permission where prudent and kept firm is apart of
 that very care and concern which in turn makes the child feel this world
 safe and secured.
 
-
 **14- Gaining Vision from Family History**
 
 A client brought his prospective (intended) partner to my office for a
@@ -193,5 +192,4 @@ order to be able to monitor the direction and forge ahead. It never gets
 lost. We too need to look back into the family history, that is, if we
 have been made aware of it in good time, as we march on with the time
 with no repetition of past family mistakes.
-
 

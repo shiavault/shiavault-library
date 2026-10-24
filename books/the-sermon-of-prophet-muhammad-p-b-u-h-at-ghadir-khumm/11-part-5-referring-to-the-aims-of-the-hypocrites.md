@@ -134,7 +134,6 @@ Allah, the exalted, states: “Did We not destroy the former generations?
 So shall We follow the same for later (generations). Such is how We
 treat the guilty. Woe on that Day to the rejecters (of truth)!”1
 
-
 O people! Allah gave me the commandments and the prohibitions, and I
 gave them to Ali by the order of Allah. Hence, the knowledge of all
 commandments and prohibitions are with him.
@@ -147,5 +146,4 @@ from his path.2
 
 1 Chapter 77, Verses 16-19 of the Holy Quran.
 2 cf., Chapter 6, Verse 153 of the Quran.
-
 

@@ -674,7 +674,6 @@ continued chain of necessary causes, pre-ordained and pre-determined,
 reaching from the original cause of all to every single volition of
 every human creature.
 
-
 No contingency any- where in the universe; no indifference; no liberty.
 While we act, we are, at the same time, acted upon.
 
@@ -871,5 +870,4 @@ ter.
 
 And this constantly forms the very essence of necessity, nor have we
 any other idea of it.
-
 

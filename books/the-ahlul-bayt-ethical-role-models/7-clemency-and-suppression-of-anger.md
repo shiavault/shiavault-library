@@ -280,4 +280,3 @@ battle and was captured by Imam Ali’s army.
 [^14]: Quoted from Bihar ul-Anwar; 11 as quoted from I’lam ul- Wara and
 al-Irshad
 
-

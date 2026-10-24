@@ -129,13 +129,9 @@ and all worldly goals which are against divine aims (Rumi, 2000, P.4).
 
 Also, the Qur’an confirms this fact that:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
-يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
-تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ
+> يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا
+> تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ
 
 ***“O you who believe! Be careful of (your duty to) God and believe in
 His Apostle: He will give you two portions of His mercy, and make for
@@ -236,13 +232,9 @@ scholar and enlightened wise. That is because to a man who does this and
 loves God, there would be nothing hidden to him, and according to the
 Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ
-فُرْقَانًا وَيُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ
-وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ
+> فُرْقَانًا وَيُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ
+> وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
 
 ***“O believers, if you fear God, He will assign you a salvation, and
 acquit you of your evil deeds, and forgive you; and God is a bounty
@@ -802,5 +794,4 @@ take care of their sons and bring them comport, “so that their eyes are
 not fixed at others’ hands, because he who shows no care of his
 offspring will see him cared for by others and roaming about (*Bustan*,
 p. 384).
-
 

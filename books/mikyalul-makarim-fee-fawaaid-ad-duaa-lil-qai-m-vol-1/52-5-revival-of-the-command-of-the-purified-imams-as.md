@@ -38,4 +38,3 @@ command is enlivened and Allah forgives one who enlivens our command.”
 
 [^2]: Biharul Anwar; Vol. 44, Pg. 278
 
-

@@ -1081,4 +1081,3 @@ khums.
 
 [^53]: Al-Imama wes-Siyasa, vol. 1 p. 16.
 
-

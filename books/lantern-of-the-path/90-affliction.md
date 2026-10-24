@@ -36,4 +36,3 @@ a horse and a halter to a camel.' Ali said, 'Steadfastness in relation
 to belief is like the head to the body. The head of steadfastness is
 afflictions but only those who act righteously understand that.'
 
-

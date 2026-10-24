@@ -104,4 +104,3 @@ Tareekh and all the historians and biographers who have recorded the
 biography of Khalid. Ibn Abdul Birr said in his book al-Istee’ab after
 mentioning this story: “This is a true tradition”.
 
-

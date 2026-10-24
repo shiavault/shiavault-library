@@ -547,4 +547,3 @@ where Musakkin Al-Fuad is quoted.
 70, pp. 26, 28 where Musakkin Al-Fuad is quoted. It is also recorded by
 Al-Fayd Al-Kashani in Al-Mahajja Al-Bayda', Vol. 8, p. 58.
 
-

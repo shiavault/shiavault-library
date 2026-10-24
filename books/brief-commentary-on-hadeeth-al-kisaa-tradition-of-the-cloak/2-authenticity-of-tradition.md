@@ -72,4 +72,3 @@ they must be the ones referred to as “Ahl”.*
 most exegesists was revealed in regards to Ali, Fatima, Hasan, and
 Husain.”* Source: Sawa’eq Al Muhreqa, pg. 220
 
-

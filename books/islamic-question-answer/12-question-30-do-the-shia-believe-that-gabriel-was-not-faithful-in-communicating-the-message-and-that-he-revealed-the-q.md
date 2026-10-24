@@ -118,4 +118,3 @@ al-Quran' by Jaffar Subhani.
 The mentioned narrations has countless references of which we shall
 point to a few:
 
-

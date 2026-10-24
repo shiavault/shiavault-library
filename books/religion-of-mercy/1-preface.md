@@ -57,4 +57,3 @@ usurper Israel.
 [^2]: Newsletter of Qom Seminary Professors Association, issue 927, page
 29.
 
-

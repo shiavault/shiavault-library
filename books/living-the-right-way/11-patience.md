@@ -84,4 +84,3 @@ made to receive it but those who have a mighty good fortune.”*[^3]
 
 [^3]: The Qur’an 41:34-35.
 
-

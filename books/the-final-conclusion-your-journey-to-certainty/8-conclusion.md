@@ -184,4 +184,3 @@ the good worshippers of Allah (SWT)! Peace be upon those who follow the
 guidance till the Day of Judgment! Peace be upon all of the angels of
 Allah (SWT)! And praise be to Allah, the Lord of all Worlds!!!
 
-

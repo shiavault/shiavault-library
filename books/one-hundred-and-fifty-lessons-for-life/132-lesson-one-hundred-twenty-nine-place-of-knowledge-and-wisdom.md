@@ -3,13 +3,9 @@ Lesson One Hundred Twenty Nine: Place Of Knowledge And Wisdom
 
 Imam Al-Kadhim (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الزَّرْعَ يَنْبُتُ فِى السَّهْلِ وَ لايَنْبُتُ فِى الصَّفا
-فَكَذلِكَ الْحِكْمَةُ تَعْمُرُ فِى قَلْبِ الْمُتَواضِعِ وَ لا تَعْمُرُ
-فى قَلْبِ الْمُتَكَبِّرِ الْجَبّارِ!
-  </p>
-</blockquote>
+> اِنَّ الزَّرْعَ يَنْبُتُ فِى السَّهْلِ وَ لايَنْبُتُ فِى الصَّفا
+> فَكَذلِكَ الْحِكْمَةُ تَعْمُرُ فِى قَلْبِ الْمُتَواضِعِ وَ لا تَعْمُرُ
+> فى قَلْبِ الْمُتَكَبِّرِ الْجَبّارِ!
 
 Translation
 -----------
@@ -32,5 +28,4 @@ would deny it and oppose it. They do not accept the truth from anyone
 and remain engulfed in their ignorance.
 
 [^1]: Tuhaful Uqul, page 296. Mustadrak Alwasail, vol 11, page 299.
-
 

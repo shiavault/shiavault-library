@@ -10,4 +10,3 @@ He was the one to take Habib Ibn Muthaher's head and place it on his
 horse and run in Kufa with it. He was killed by Alqassim Ibn Habib,
 Habib Ibn Muthaher's son.
 
-

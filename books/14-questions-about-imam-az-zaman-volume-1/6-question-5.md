@@ -79,4 +79,3 @@ Yanaabee’ al-Mawaddah, Shaikh Sulaiman Qunduzi, vol. 3, p. 163
 [^5]: Yanaabee’ al-Mawaddah, Shaikh Sulaiman Qunduzi, vol. 3, p. 163;
 Fusul al-Muhimmah, Ibn Sabbag al-Maliki, p. 293
 
-

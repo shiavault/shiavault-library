@@ -45,4 +45,3 @@ Therefore, in this inquiry and discussion, we must answer the question
 as to what the Holy Qur’an says in the connection, and not what we, who
 follow a certain school of Islamic Law, say about the Holy Qur’an.
 
-

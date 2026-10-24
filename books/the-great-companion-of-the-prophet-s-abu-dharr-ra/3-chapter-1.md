@@ -262,4 +262,3 @@ told me that she is his wife, Khadijah.
 
 [^1]: Sahih Muslim
 
-

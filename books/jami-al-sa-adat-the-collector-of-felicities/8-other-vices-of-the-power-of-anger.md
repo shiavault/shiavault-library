@@ -71,12 +71,8 @@ soul from lust, surely Paradise shall be the refuge.*** **(79:40-41)**
 
 And the Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-من خاف الله اخاف الله منه كل شيء. ومن لم يخف الله أخافه الله من كل
-شيء.
-  </p>
-</blockquote>
+> من خاف الله اخاف الله منه كل شيء. ومن لم يخف الله أخافه الله من كل
+> شيء.
 
 Whoever fears God, He will make all things fear him; whoever is not
 afraid of God, He will cause him to be afraid of everything.
@@ -121,11 +117,7 @@ Qur’an says:
 
 There is a tradition which says:
 
-<blockquote dir="rtl">
-  <p>
-إن الله فوض إلى المؤمن كل شيء إلا اذلال نفسه.
-  </p>
-</blockquote>
+> إن الله فوض إلى المؤمن كل شيء إلا اذلال نفسه.
 
 God has assigned to the believer the duty to [suffer] everything except
 humiliation of his own self.
@@ -135,28 +127,16 @@ character and self-respect; that is, one should acquire a temperament
 which is unaffected by anything pleasant or painful, either praise or
 blame. Imam al-Baqir (A) has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-المؤمن اصلب من الجبل.
-  </p>
-</blockquote>
+> المؤمن اصلب من الجبل.
 
 A true believer is firmer than a mountain.
 
 In another tradition, he has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-إن الله اعطى المؤمن ثلاث خصال:
-  </p>
-</blockquote>
+> إن الله اعطى المؤمن ثلاث خصال:
 
-<blockquote dir="rtl">
-  <p>
-العز في الدنيا والآخرة, والفلح في الدنيا والآخرة والمهابة في صدور
-الظالمين.
-  </p>
-</blockquote>
+> العز في الدنيا والآخرة, والفلح في الدنيا والآخرة والمهابة في صدور
+> الظالمين.
 
 God has bestowed on the believer three qualities: honour in this world
 and the Hereafter, salvation in both the worlds, and fear of him in the
@@ -235,12 +215,8 @@ worthless.*** **(48:12)**
 
 Imam Ali (A) says:
 
-<blockquote dir="rtl">
-  <p>
-ضع أمر أخيك على أحسنه حتى يأتيك ما يغلبك منه,  ولا تظنن بكلمة خرجت من
-أخيك سوءا وأنت تجد لها في الخير محملا.
-  </p>
-</blockquote>
+> ضع أمر أخيك على أحسنه حتى يأتيك ما يغلبك منه,  ولا تظنن بكلمة خرجت من
+> أخيك سوءا وأنت تجد لها في الخير محملا.
 
 Think favourably of what your brother does, unless you find something
 that proves the contrary; don't distrust what he says as long as it is
@@ -275,11 +251,7 @@ person.
 
 Imam Ali (A) has said:
 
-<blockquote dir="rtl">
-  <p>
-الحدة ضرب من الجنون, لأن صاحبها يندم, فأن لم يندم فجنونه مستحكم.
-  </p>
-</blockquote>
+> الحدة ضرب من الجنون, لأن صاحبها يندم, فأن لم يندم فجنونه مستحكم.
 
 Anger is a stroke of madness, since the afflicted later feels remorse
 and regrets. If someone does not feel any remorse after anger, it means
@@ -310,11 +282,7 @@ ignorant.*** **(7:199)**
 
 And the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-العفو لا يزيد العبد إلا عزا فاعفوا يعزكم الله.
-  </p>
-</blockquote>
+> العفو لا يزيد العبد إلا عزا فاعفوا يعزكم الله.
 
 Forgiveness raises a man's station; forgive so that God may honour you.
 
@@ -331,22 +299,14 @@ dispersed from about thee ....*****(3:159)**
 
 And in a tradition attributed to the Prophet (S), it is said:
 
-<blockquote dir="rtl">
-  <p>
-إذا أحب الله عبدا أعطاه الرفق, ومن يحرم الرفق يحرم الخير كله.
-  </p>
-</blockquote>
+> إذا أحب الله عبدا أعطاه الرفق, ومن يحرم الرفق يحرم الخير كله.
 
 When God loves one of His servants, He blesses him with the trait of
 friendliness, and whoever lacks this trait, lacks all other blessings.
 
 Elsewhere, in a prophetic tradition, it is said:
 
-<blockquote dir="rtl">
-  <p>
-المداراة نصف الإيمان
-  </p>
-</blockquote>
+> المداراة نصف الإيمان
 
 Consideration and kindness for people is half of the faith.
 
@@ -358,11 +318,7 @@ good-temperedness. This vice causes people to shun someone who possesses
 it, and brings him ruin in this world and the next. It also destroys all
 of one's good works. The Prophet (S) has been quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-سوء الخلق يفسد العمل كما يفسد الخل العسل
-  </p>
-</blockquote>
+> سوء الخلق يفسد العمل كما يفسد الخل العسل
 
 Ill-temper ruins good works, just as vinegar ruins honey.
 
@@ -402,11 +358,7 @@ of God, Who is the source of all things. A great number of traditions
 point out the evilness of this trait. One quotes the Prophet (S) as
 having said:
 
-<blockquote dir="rtl">
-  <p>
-لو لم تذنبوا لخشيت عليكم ما هو أكبر من ذلك, العجب العجب.
-  </p>
-</blockquote>
+> لو لم تذنبوا لخشيت عليكم ما هو أكبر من ذلك, العجب العجب.
 
 Even if you do not commit any sins, I fear that you may fall into
 something which is worse: conceit! conceit!
@@ -442,11 +394,7 @@ raises him.*** **(80:17-22)**
 
 And we have the following couplet from a Persian poet:
 
-<blockquote dir="rtl">
-  <p>
-بر مال و جمال خويشتن غره مشو كان را به شبى برند و اين را به تبى
-  </p>
-</blockquote>
+> بر مال و جمال خويشتن غره مشو كان را به شبى برند و اين را به تبى
 
 *Don't boast of your riches, vigour and elegance,*
 
@@ -488,11 +436,7 @@ And
 
 And the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-لا يدخل الجنة من كان في قلبه مثقال حبة من خردل من كبر.
-  </p>
-</blockquote>
+> لا يدخل الجنة من كان في قلبه مثقال حبة من خردل من كبر.
 
 One who has even a particle of pride in his heart, shall not enter
 paradise.
@@ -537,32 +481,20 @@ against all those to whom it is necessary to be obedient, such as:
 prophets and their vicegerents, righteous governments, teachers,
 parents, etc. In a prophetic tradition, we read:
 
-<blockquote dir="rtl">
-  <p>
-إن اعجل الشر عقوبة البغي.
-  </p>
-</blockquote>
+> إن اعجل الشر عقوبة البغي.
 
 The sin quickest to be punished is that of rebelliousness.
 
 The Prophet (S) has also said:
 
-<blockquote dir="rtl">
-  <p>
-حق على الله عز وجل الا يبغي شيء على شيء إلا اذله الله.
-  </p>
-</blockquote>
+> حق على الله عز وجل الا يبغي شيء على شيء إلا اذله الله.
 
 It is the right of God to humble anything that rebels against anything
 else.
 
 Imam Ali (A) has said:
 
-<blockquote dir="rtl">
-  <p>
-ان البغي يقود اصحابه إلى النار.
-  </p>
-</blockquote>
+> ان البغي يقود اصحابه إلى النار.
 
 Rebelliousness drives the rebellious towards the Fire.
 
@@ -590,12 +522,8 @@ inappropriate things, it would be a vice.
 
 There is a prophetic tradition that says:
 
-<blockquote dir="rtl">
-  <p>
-من كان في قلبه حبة من خردل من عصبية بعثه الله يوم القيامة مع اعراب
-الجاهلية
-  </p>
-</blockquote>
+> من كان في قلبه حبة من خردل من عصبية بعثه الله يوم القيامة مع اعراب
+> الجاهلية
 
 Whoever has the least amount of fanaticism in his heart shall be raised
 by God on the Day of Resurrection together with the pagan Arabs of
@@ -654,5 +582,4 @@ difficulties faced by others, and consider their problems to be his own.
 Furthermore, he should try to react in an appropriate manner to such
 situations, until, gradually, he begins to taste the flavour of
 compassion, slowly making it permanent within himself.
-
 

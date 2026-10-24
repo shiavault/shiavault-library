@@ -8,11 +8,7 @@ Surah Qadr, Chapter 97
 Contents of Surah Qadr
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -62,44 +58,20 @@ his life obeys its verses.
 Surah Qadr, Verses 1-5
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
-  </p>
-</blockquote>
+> إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ
 
-<blockquote dir="rtl">
-  <p>
-لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
-  </p>
-</blockquote>
+> لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
 
-<blockquote dir="rtl">
-  <p>
-تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن
-كُلِّ أَمْرٍ
-  </p>
-</blockquote>
+> تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن
+> كُلِّ أَمْرٍ
 
-<blockquote dir="rtl">
-  <p>
-سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
-  </p>
-</blockquote>
+> سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
 
 ***1. “Surely, We sent it (the Qur'an) down on the Night of
 Honour,"***  
@@ -635,5 +607,4 @@ because it is the worst deprivation.*
 [^14]: Nur-ath-Thaqalayn, vol. 5, p. 626, Tradition 62.
 
 [^15]: Nur-ath-Thaqalayn, vol. 5. p. 626, part of tradition 58.
-
 

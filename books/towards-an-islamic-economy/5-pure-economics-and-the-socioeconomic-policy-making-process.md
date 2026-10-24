@@ -344,4 +344,3 @@ means to investigate justice and rights of men. The concept of justice
 can only be derived from the principles of a comprehensive: ideology, so
 as to justly and wholesomely regulate a people's socioeconomic system.
 
-

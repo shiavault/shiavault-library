@@ -226,4 +226,3 @@ Qur’an and the traditional sayings of the Prophet Muhammad (a.s.).
 who had committed some errors and injustices and who had been taken as a
 role model by a great number of Muslims.
 
-

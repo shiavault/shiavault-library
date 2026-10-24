@@ -35,4 +35,3 @@ President Gorbachev.
 The original in Arabic was published by Al-Tawhid (Arabic), No. 14 (3rd
 year, Jamadi al-'Awwal-Jamadi al-Thani 1405) pp. 44-55
 
-

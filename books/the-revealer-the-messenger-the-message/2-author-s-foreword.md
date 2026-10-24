@@ -90,4 +90,3 @@ and to Him I turn for help.
 [^2]: Qur'an, 52:35. All Qur'anic translations are those of the
 translator.
 
-

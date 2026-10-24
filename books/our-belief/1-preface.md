@@ -76,4 +76,3 @@ company of the righteous." (Holy Qur’an, 3:193).***
 Qum, School of Imam ‘Ali Ibn Abi Talib  
  Nasir Makarim Shirazi
 
-

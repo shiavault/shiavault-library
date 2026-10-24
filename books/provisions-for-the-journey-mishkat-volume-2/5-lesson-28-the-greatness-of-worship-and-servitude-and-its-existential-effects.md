@@ -66,13 +66,9 @@ These are the real meanings which they deduce from the Qur’anic verses
 and *hadith*s and assert that the trees, earth, stones and… have
 awareness and glorify Allah:
 
-<blockquote dir="rtl">
-  <p>
-تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأَرْضُ وَمَنْ فِيهِنَّ
-وَإِنْ مِن شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ وَلَكِنْ لاَ تَفْقَهُونَ
-تَسْبِيحَهُمْ ...
-  </p>
-</blockquote>
+> تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأَرْضُ وَمَنْ فِيهِنَّ
+> وَإِنْ مِن شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ وَلَكِنْ لاَ تَفْقَهُونَ
+> تَسْبِيحَهُمْ ...
 
 ***“The seven heavens glorify Him, and the earth [too], and whoever is
 in them. There is not a thing but celebrates His praise, but you do not
@@ -145,12 +141,8 @@ tongue, hands and legs all give witness against him. If these limbs did
 not have any perception, their evidence would be meaningless. In regard
 to the evidence of the limbs of the body, the Gracious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا قَالُوا أَنْطَقَنَا
-اللَّهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ ...
-  </p>
-</blockquote>
+> وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا قَالُوا أَنْطَقَنَا
+> اللَّهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ ...
 
 ***“They will say to their skins, ‘Why did you bear witness against us?’
 They will say, ‘We were given speech by Allah, who gave speech to all
@@ -205,11 +197,7 @@ have to admit that there are unknown truths in the cosmos that are
 outside the realm of conception and understanding and our knowledge of
 them is meager. As the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-... وَمَا أُوتِيتُمْ مِن الْعِلْمِ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> ... وَمَا أُوتِيتُمْ مِن الْعِلْمِ إِلاَّ قَلِيلاً
 
 ***“…And you have not been given of knowledge except a little.”***[^5]
 
@@ -222,13 +210,9 @@ realities for us because, if they had not, our intellects would not have
 attained them and it would not have been possible for us to conceive
 such truths with our imperfect intellects:
 
-<blockquote dir="rtl">
-  <p>
-كَمَا أَرْسَلْنَا فِيكُمْ رَسُولاً مِنكُمْ يَتْلُوا عَلَيْكُمْ
-آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ
-وَيُعَلِّمُكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ
-  </p>
-</blockquote>
+> كَمَا أَرْسَلْنَا فِيكُمْ رَسُولاً مِنكُمْ يَتْلُوا عَلَيْكُمْ
+> آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ
+> وَيُعَلِّمُكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ
 
 ***“As We sent to you an apostle from among yourselves, who recites to
 you Our signs, and purifies you, and teaches you the Book and wisdom,
@@ -343,11 +327,7 @@ our deeds, and higher than this is the holy presence of the Imam of the
 Age, may Allah hasten his reappearance, who sees our actions and even
 higher than all is the Divine Essence of Allah watching over our deeds:
 
-<blockquote dir="rtl">
-  <p>
-... إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ شَهِيدًا
-  </p>
-</blockquote>
+> ... إِنَّ اللّهَ كَانَ عَلَى كُلِّ شَيْءٍ شَهِيدًا
 
 ***“…Indeed Allah is witness to all things.”***[^9]
 
@@ -355,14 +335,10 @@ In regard to His awareness about the apparent and hidden deeds of man
 and also the watching of the angels over the actions of man, Allah, the
 Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
-وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ \* إِذْ يَتَلَقَّى
-الْمُتَلَقِّيَانِ عَن الْيَمِينِ وَعَن الشِّمَالِ قَعِيدٌ \* مَا
-يَلْفِظُ مِنْ قَوْلٍ إِلاَّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
+> وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ \* إِذْ يَتَلَقَّى
+> الْمُتَلَقِّيَانِ عَن الْيَمِينِ وَعَن الشِّمَالِ قَعِيدٌ \* مَا
+> يَلْفِظُ مِنْ قَوْلٍ إِلاَّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
 
 ***“And certainly We have created man and We know to what his soul
 tempts him, and we are nearer to him than his jugular vein. When the
@@ -373,12 +349,8 @@ him.”***[^10]
 Elsewhere, in regard to the witnessing of the Noble Prophet (S) on the
 Day of Resurrection, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
-عَلَى هَؤُلاءِ شَهِيدًا
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ
+> عَلَى هَؤُلاءِ شَهِيدًا
 
 ***“So how shall it be, when we bring from every nation a witness, and
 We bring you as a witness to them?”***[^11]
@@ -425,13 +397,9 @@ let them get pictures of us in ugly and shameful circumstances in order
 not to become embarrassed on the Day of Resurrection when all our deeds
 and thoughts will become apparent:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
-عَمِلَتْ مِنْ سُوَءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
-بَعِيدًا...
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا
+> عَمِلَتْ مِنْ سُوَءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
+> بَعِيدًا...
 
 ***“The day when every soul will find present what it has done of good
 and what it has done of evil, it will wish there were a far distance
@@ -476,11 +444,7 @@ sincere intention, they become like a dead body devoid of spirit.
 Therefore, it is befitting that all our deeds and acts of worship are
 done for Allah:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّينَ
-  </p>
-</blockquote>
+> قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّينَ
 
 ***“Say, ‘Indeed I have been commanded to worship Allah with exclusive
 faith in Him, and I have been commanded to be the first of those who
@@ -502,12 +466,8 @@ can attain levels where Allah, the Exalted, purifies him for Himself, as
 praise has been heaped upon the sincere in various instances in the
 Qur’an, for example, in regard to Moses (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرْ فِي الْكِتَابِ مُوسَى إِنَّهُ كَانَ مُخْلَصًا وَكَانَ
-رَسُولاً نَبِيًّا
-  </p>
-</blockquote>
+> وَاذْكُرْ فِي الْكِتَابِ مُوسَى إِنَّهُ كَانَ مُخْلَصًا وَكَانَ
+> رَسُولاً نَبِيًّا
 
 ***“And mention in the Book Moses. Indeed he was exclusively dedicated
 [to Allah], and an apostle and a prophet.”***[^15]
@@ -516,12 +476,8 @@ Naturally, the purified [*mukhlas*] needs a purifier [*mukhlis*] and
 beyond the shadow of doubt it is Allah who purifies the pure, to the
 extent that the devil cannot ensnare them towards perversions:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَبِعِزَّتِكَ لأُغْوِيَنَّهُمْ أَجْمَعِينَ \* إِلاَّ عِبَادَكَ
-مِنْهُمْ الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> قَالَ فَبِعِزَّتِكَ لأُغْوِيَنَّهُمْ أَجْمَعِينَ \* إِلاَّ عِبَادَكَ
+> مِنْهُمْ الْمُخْلَصِينَ
 
 ***“He said, ‘By Your might, I will surely pervert them, except your
 exclusive servants among them.”***[^16]
@@ -533,13 +489,9 @@ have a bad effect on them. Of course, the sincere derive benefit of such
 power by the grace and mercy of Allah. In regard to Prophet Joseph
 (*‘a*), Allah, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْ لا أَنْ رَأَى بُرْهَانَ
-رَبِّهِ كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ
-مِنْ عِبَادِنَا الْمُخْلَصِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْ لا أَنْ رَأَى بُرْهَانَ
+> رَبِّهِ كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ
+> مِنْ عِبَادِنَا الْمُخْلَصِينَ
 
 ***“And certainly she made for him; and he would certainly have made for
 her [too] had he not beheld the proof of his Lord; so it was, that We
@@ -569,13 +521,9 @@ any value and worth if they are not done for Allah. In the words of the
 *hadith*s and Qur’anic verses, the best of deeds is *jihad* (striving in
 the way of Allah), to the extent that Allah states:
 
-<blockquote dir="rtl">
-  <p>
-... فَضَّلَ اللّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ عَلَى
-الْقَاعِدِينَ دَرَجَةً وَكُلاًّ وَعَدَ اللّهُ الْحُسْنَى وَفَضَّلَ
-اللّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> ... فَضَّلَ اللّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ عَلَى
+> الْقَاعِدِينَ دَرَجَةً وَكُلاًّ وَعَدَ اللّهُ الْحُسْنَى وَفَضَّلَ
+> اللّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا
 
 ***“Allah has graced those who wage jihad with their possessions and
 their persons by a degree over those who sit back; and to each Allah has
@@ -636,11 +584,7 @@ When we turn the pages of the Glorious Qur’an, we do not find any scene
 in which the invocation and glorification of Allah has not been
 mentioned. One of the statements of Allah, the Exalted, is:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا
 
 ***“O you who have faith! Remember Allah with frequent
 remembrance.”***[^19]
@@ -649,12 +593,8 @@ In another place, after citing for the wise reasons for creating the
 sky, the earth and the rotation of the night and day, Allah, the
 Exalted, thus introduces those who possess wisdom:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ جُنُوبِهِمْ
-وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ...
-  </p>
-</blockquote>
+> الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ جُنُوبِهِمْ
+> وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ...
 
 ***“Those who remember Allah standing, sitting, and lying on their
 sides, and reflect on the creation of the heavens and the earth [and
@@ -723,5 +663,4 @@ and purpose to our lives.
 [^20]: Surat Al ‘Imran 3:191.
 
 [^21]: Bihar al-Anwar, vol. 13, p. 343.
-
 

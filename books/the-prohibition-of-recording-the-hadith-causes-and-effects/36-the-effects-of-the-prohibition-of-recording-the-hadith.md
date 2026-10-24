@@ -320,4 +320,3 @@ so indeed, While no news from the Heaven had come, nor was there
 anything revealed I will disavow the Khandaf if I will not seek revenge
 From Ahmed’s children for what he did to us!
 
-

@@ -639,4 +639,3 @@ country and marries someone there.
 
 [^34]: Nahjul Balagha, Vol. 3, p. 304.
 
-

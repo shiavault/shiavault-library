@@ -24,9 +24,7 @@ Hills, canals, meadows, trees-
 Some are Yazidis
 Else, they are Hussainis.
 
-
 71
-
 
 Blood your neck irrigated Everything under the sky into two divided -
 Even the color Resided in every particle In a dazzling garish
@@ -61,7 +59,6 @@ In a demand.
 You to be found in crevices,
 
 72
-
 
 To be smelled in roses
 And the burning sun to be demanded,
@@ -124,9 +121,7 @@ Broke Yazid's name into a shred,
 And made the sense in the word tyranny dead.
 Troops of words with barracks of description fled.
 
-
 74
-
 
 Indeed, defeated is every human toil;
 Battle with you is foul and toil.
@@ -145,7 +140,6 @@ Carried forty days the pilgrim's season.
 Ah, burns me the desire of comprehension;
 The incomplete pilgrimage pawned in suspension,
 
-
 Gained in your kiss at the dagger its perfection;
 For the "BLACK STONE" virtual the best compensation.
 Begins the love's history,
@@ -157,7 +151,6 @@ As you fell the truth stood
 And took the Right a mould good.
 Weakened the tyranny's base in your blood's flood.
 Autumn of your death delivered eternal spring,
-
 
 75
 
@@ -176,7 +169,6 @@ Oh, the red that frills the green
 Nobler than every pure and clean
 No human a parallel to you ever has been.
 
-
 O, sweet but staunch and staunch but sweet,
 Gapes wide history its mouth for you to spit.
 You an iron arm, you the scale of balance-
@@ -191,7 +183,6 @@ My astonishment ends not if I to ponder
 Foolhardy it is to fathom oceans by a finger.
 
 76
-
 
 Weep we- Gains your blood in our tears constancy Our tears a polish and
 sword in tendency Its seat is in the arena of tyranny.
@@ -220,7 +211,6 @@ At that side of the river to contribute:
 He parted the caravan and its plenitude.
 Bridges to a man your word, your look;
 Towards you he is in a hook
-
 
 77
 
@@ -251,7 +241,6 @@ End too to end tends,
 At you no end bends.\*
 
 78
-
 
 \*First published in Message of Thaqalayn, vol. 2, no. 1
 
@@ -313,5 +302,4 @@ martyred. He symbolizes last-minute repentance, eternal felicity, and
 salvation.
 
 80
-
 

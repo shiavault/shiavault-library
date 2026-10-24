@@ -403,4 +403,3 @@ reward him as He rewards His sincere servants.
 
 [^5]: Hayat al-Imam Mohammed al-Baqir, vol. 1, p.51.
 
-

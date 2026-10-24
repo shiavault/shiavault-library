@@ -176,4 +176,3 @@ About youth: I may to give only some speculations on this topic.
 Probably they have quite interested in futures questions (connected with
 career planning etc.) but more about medium term than long-term.
 
-

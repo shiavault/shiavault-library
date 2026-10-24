@@ -52,4 +52,3 @@ The branches are your father Ali and your mother Fatima Zahra, and the
 twigs are your brothers Hasan and Husayn. They will all depart this
 world before you do, and you will suffer their separation and loss." 
 
-

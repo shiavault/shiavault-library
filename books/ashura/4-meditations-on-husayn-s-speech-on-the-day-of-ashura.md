@@ -433,4 +433,3 @@ while bowing down” Qur’an Ch: 5, Vs: 55.
 
 [^12]: - Qur'an Ch: 11 vs: 46.
 
-

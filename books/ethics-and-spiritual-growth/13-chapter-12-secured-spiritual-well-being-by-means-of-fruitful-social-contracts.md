@@ -994,4 +994,3 @@ farzandan-e ma p. 83.
 
 [^34]: Akhlaq-e Samuel, p. 124.
 
-

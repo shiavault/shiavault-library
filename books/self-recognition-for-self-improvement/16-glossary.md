@@ -101,4 +101,3 @@ Wujub: necessity
 
 Zakat: statutory Islamic levy on specified items for Muslim’s welfare
 
-

@@ -771,4 +771,3 @@ enjoy some permissible facets the legality of which is in doubt, such as
 talking nonsense or doing what is haram. His nafs will then entice him
 into looking at what is definitely haram.
 
-

@@ -299,4 +299,3 @@ your good friendship, I would have you killed.”[^27]
 
 [^27]: Bihar al-Anwar, vol. 72, p. 377.
 
-

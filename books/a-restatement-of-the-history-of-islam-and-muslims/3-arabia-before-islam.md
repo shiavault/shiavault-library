@@ -466,4 +466,3 @@ in the bloodletting of their internecine wars, looking at Byzantium, at
 Ctesiphon and even at Axum as distant beacons of civilization completely
 out of their reach.
 
-

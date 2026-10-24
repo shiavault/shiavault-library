@@ -167,4 +167,3 @@ finally realise the essence of real living within the spectrum of
 brotherhood. Islam will conquer the hearts of man and become the rule of
 the globe.
 
-

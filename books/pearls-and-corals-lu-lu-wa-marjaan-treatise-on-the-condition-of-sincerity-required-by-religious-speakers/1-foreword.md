@@ -1,9 +1,7 @@
 FOREWORD
 ========
 
-<p dir="rtl">
 بسم الله الرحمن الرحیم
-</p>
 
 IN THE NAME OF ALLAH, THE MOST GRACIOUS, THE MOST MERCIFUL
 
@@ -181,5 +179,4 @@ where scholars or non-scholars are lecturing.
 **Syed Ali Imran Qum, Iran**
 
 **April 9th, 2015 / 19th Jamādi al-Thāni, 1436**
-
 

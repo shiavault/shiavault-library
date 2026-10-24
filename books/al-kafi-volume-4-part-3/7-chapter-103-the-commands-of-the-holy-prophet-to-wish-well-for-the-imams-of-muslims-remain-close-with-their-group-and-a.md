@@ -122,7 +122,6 @@ Through the same chain of narrators it is narrated from abu 'Abdallah
 the company of the Muslims and disregard the pledge of allegiance with
 the Imam he will come before Allah with his hand cut off."
 
-
 **Chapter 104 : The Mutual Rights between the Imam and his Followers H
 , Ch. 104, h 1**
 
@@ -256,5 +255,4 @@ has said the following. "I heard Ali ibn Musa (a.s.) say, "A bankrupt
 who would lend or borrow -uncertainty is from Mu'awiya- will given one
 years time to pay. If he still could not pay, the Imam it off from
 public treasury."
-
 

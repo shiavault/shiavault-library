@@ -133,4 +133,3 @@ there is no reason for any conflict between these two. In fact they
 would complement each other. Science is like the lamp of life and
 religion its guide.
 
-

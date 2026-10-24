@@ -58,4 +58,3 @@ as David.
 3. The Injil (Gospel) revealed to Prophet Isa.
 4. The Qur'an (pronounced as Qur-aan) revealed to Prophet Muhammad.
 
-

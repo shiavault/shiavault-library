@@ -689,11 +689,7 @@ sinner himself, and is advising others against sinning.
 Allah, addressing Prophet Ibrahim (as), in the Holy Qur’an, clarifies
 the point thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿لاَ يَنَالُ عَهْدِي الظَّالِمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿لاَ يَنَالُ عَهْدِي الظَّالِمِينَ.﴾
 
 ***“My Authority shall not reach the transgressors.”*** **(2:124)**
 
@@ -761,12 +757,8 @@ black hair. Then came Hasan, Husayn, ‘Ali and Fatima (as). He took all
 of them under his shawl.Then the Prophet (S) recited the following verse
 from the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمْ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.﴾
 
 ***“Allah wishes, O Ahl-ul-Bayt, to keep all sin (rijs) away from you,
 and keep you Pure as Pure could be.”*** **(33:33)**
@@ -785,12 +777,8 @@ months, the Prophet (S) used to stop at the door of Fatima (as)’s house
 every morning on his way to the Mosque for the *Fajr* prayer and say in
 a loud voice”
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاةَ يَا أَهْلَ البَيْتِ! إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
-عَنْكُمْ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
-  </p>
-</blockquote>
+> الصَّلاةَ يَا أَهْلَ البَيْتِ! إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ
+> عَنْكُمْ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا.
 
 *Prayer, OAhl-ul-Bayt. Allah wishes, O Ahl-ul-Bayt, to keep all sin away
 from you, and keep you Pure as Pure could be.*
@@ -1118,11 +1106,7 @@ because it is undesirable that the students have knowledge superior to
 the mentor and the ignorant better informed than the scholar. Allah,
 therefore, says in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ.﴾
 
 ***“Whatever you wish to know, ask of the possessors of Knowledge.”***
 **(16:43)**
@@ -1131,12 +1115,8 @@ This is the reason why Allah made Adam (as) superior to the Angels in
 knowledge and asked them to prostrate before him. About knowledge Allah
 poses a question in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا
-يَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا
+> يَعْلَمُونَ.﴾
 
 ***“Are the learned and the ignorant equal?”*** **(39:9)**
 
@@ -2271,5 +2251,4 @@ which I guarantee.
 
 For the description of the above, study of the three objectives is
 essential, which are dealt in the next chapter.
-
 

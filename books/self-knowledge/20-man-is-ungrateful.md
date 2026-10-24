@@ -44,4 +44,3 @@ subsistence for whomsoever he pleases of His servants; had not Allah
 been gracious to us, He would most surely have abased us; Ah! (know)
 that the ungrateful are never successful” (28:82)***
 
-

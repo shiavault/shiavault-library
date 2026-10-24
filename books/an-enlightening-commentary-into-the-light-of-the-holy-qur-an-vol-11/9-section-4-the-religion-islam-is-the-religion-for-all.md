@@ -4,12 +4,8 @@ Section 4: The Religion (Islam) Is the Religion for All
 Surah al-Mu’minun - Verse 51
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيّـِبَاتِ وَاعْمَلُوا صَالِحاً
-إِنّـِي بِمَا تَعْمَلُونَ عَلِيمٌ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيّـِبَاتِ وَاعْمَلُوا صَالِحاً
+> إِنّـِي بِمَا تَعْمَلُونَ عَلِيمٌ
 
 ***51. “O messengers! Eat of the good things and act righteously. Verily
 I know best what you do.”***
@@ -243,12 +239,8 @@ unlawfully is not our friend’.”*[^25]
 Surah al-Mu’minun - Verse 52
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّ هَذِهِ اُمَّتُكُمْ اُمَّةً وَاحِدَةً وَأَنَاْ رَبُّكُمْ
-فَاتَّقُونِ
-  </p>
-</blockquote>
+> وإِنَّ هَذِهِ اُمَّتُكُمْ اُمَّةً وَاحِدَةً وَأَنَاْ رَبُّكُمْ
+> فَاتَّقُونِ
 
 ***52. “And verily this Ummah of yours is a single Ummah, and I am your
 Lord, so fear Me.”***
@@ -312,12 +304,8 @@ Allah, and all were persuading one goal.
 Surah al-Mu’minun - Verse 53
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُراً كُلُّ حِزْبٍ بِمَا
-لَدَيْهِمْ فَرِحُونَ
-  </p>
-</blockquote>
+> فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُراً كُلُّ حِزْبٍ بِمَا
+> لَدَيْهِمْ فَرِحُونَ
 
 ***53. “But people have cut off their affair (of unity) between them,
 into sects: each party rejoicing in that which is with them.”***
@@ -388,11 +376,7 @@ truth and instead he becomes obstinate and headstrong in his own view.
 Surah al-Mu’minun - Verse 54
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَرْهُمْ فِي غَمْرَتِهِمْ حَتَّي حِينٍ
-  </p>
-</blockquote>
+> فَذَرْهُمْ فِي غَمْرَتِهِمْ حَتَّي حِينٍ
 
 ***54. “But leave them in their overwhelming ignorance for a time.”***
 
@@ -428,17 +412,9 @@ word means ignorance, negligence, confusion and misguidance.
 Surah al-Mu’minun - Verses 55-56
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِ مِن مَّالٍ وَبَنِينَ
-  </p>
-</blockquote>
+> أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِ مِن مَّالٍ وَبَنِينَ
 
-<blockquote dir="rtl">
-  <p>
-نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ بَل لاَّ يَشْعُرُونَ
-  </p>
-</blockquote>
+> نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ بَل لاَّ يَشْعُرُونَ
 
 ***55. “Do they think that what We aid them with wealth and children,
 ”***  
@@ -497,23 +473,11 @@ something from ending.
 Surah al-Mu’minun - Verses 57-59
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ هُم مِنْ خَشْيَةِ رَبّـِهِم مُشْفِقُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ هُم مِنْ خَشْيَةِ رَبّـِهِم مُشْفِقُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُم بِاَيَاتِ رَبّـِهِمْ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُم بِاَيَاتِ رَبّـِهِمْ يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هُم بِرَبّـِهِمْ لاَ يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هُم بِرَبّـِهِمْ لاَ يُشْرِكُونَ
 
 ***57. “Verily those, who from fear of their Lord are cautious, ”***  
 ***58. “And those who believe in the Signs of their Lord, ”***  
@@ -575,12 +539,8 @@ polytheism whether hidden or open.
 Surah al-Mu’minun - Verse 60
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يُؤْتُونَ مَآ ءَاتَوْا وَقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ
-إِلَي رَبّـِهِمْ رَاجِعُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يُؤْتُونَ مَآ ءَاتَوْا وَقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ
+> إِلَي رَبّـِهِمْ رَاجِعُونَ
 
 ***60. “And those who give what they give (in charity) while their
 hearts are full of fear that they must (finally) return unto their Lord,
@@ -649,11 +609,7 @@ else rendering him unable to answer Allah on the Day of Judgment
 Surah al-Mu’minun - Verse 61
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ يُسَارِعُونَ فِي الْخَيْرَاتِ وَهُمْ لَهَا سَابِقُونَ
-  </p>
-</blockquote>
+> اُوْلَئِكَ يُسَارِعُونَ فِي الْخَيْرَاتِ وَهُمْ لَهَا سَابِقُونَ
 
 ***61. “These (are they who) hasten in good things and they are the
 foremost to (attain) them.”***
@@ -696,12 +652,8 @@ the competitors in acts of goodness and righteous deeds.
 Surah al-Mu’minun - Verse 62
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ نُكَلّـِفُ نَفْساً إِلاَّ وُسْعَهَا وَلَدَيْنَا كِتَابٌ يَنطِقُ
-بِالْحَقّ‌ِ وَهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> وَلاَ نُكَلّـِفُ نَفْساً إِلاَّ وُسْعَهَا وَلَدَيْنَا كِتَابٌ يَنطِقُ
+> بِالْحَقّ‌ِ وَهُمْ لاَ يُظْلَمُونَ
 
 ***62. “And We do not task a soul but to the extent of its ability, and
 with Us is Record which clearly speaks the truth, and they will not be
@@ -771,12 +723,8 @@ punished or rewarded for their deeds which are recorded accurately.
 Surah al-Mu’minun - Verse 63
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِنْ هَذَا وَلَهُمْ أَعْمَالٌ مِن دُونِ
-ذَلِكَ هُمْ لَهَا عَامِلُونَ
-  </p>
-</blockquote>
+> بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِنْ هَذَا وَلَهُمْ أَعْمَالٌ مِن دُونِ
+> ذَلِكَ هُمْ لَهَا عَامِلُونَ
 
 ***63. “But their hearts are in overwhelming ignorance of this (Record),
 and they have, besides that, other deeds which they are doing;”***
@@ -831,17 +779,9 @@ that their hearts are steeped in ignorance and unawareness.
 Surah al-Mu’minun - Verses 64-65
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتّي إِذَآ أَخَذْنَا مُتْرَفِيهِم بِالْعَذَابِ إِذَا هُمْ يَجْاَرُونَ
-  </p>
-</blockquote>
+> حَتّي إِذَآ أَخَذْنَا مُتْرَفِيهِم بِالْعَذَابِ إِذَا هُمْ يَجْاَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَجْاَرُوا الْيَوْمَ إِنَّكُم مِنَّا لاَ تُنصَرُونَ
-  </p>
-</blockquote>
+> لاَ تَجْاَرُوا الْيَوْمَ إِنَّكُم مِنَّا لاَ تُنصَرُونَ
 
 ***64. “Until, when We seize the luxurious ones of them with punishment,
 behold, they groan.”***  
@@ -898,18 +838,10 @@ due.”*[^32]
 Surah al-Mu’minun - Verses 66-67
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ كَانَتْ ءَايَاتِي تُتْلَي عَلَيْكُمْ فَكُنتُمْ عَلَي
-أَعْقَابِكُمْ تَنكِصُون
-  </p>
-</blockquote>
+> قَدْ كَانَتْ ءَايَاتِي تُتْلَي عَلَيْكُمْ فَكُنتُمْ عَلَي
+> أَعْقَابِكُمْ تَنكِصُون
 
-<blockquote dir="rtl">
-  <p>
-مُسْتَكْبِرِينَ بِهِ سَامِراً تَهْجُرُونَ
-  </p>
-</blockquote>
+> مُسْتَكْبِرِينَ بِهِ سَامِراً تَهْجُرُونَ
 
 ***66. “Indeed My Signs used to be rehearsed to you, but you used to
 turn back on your heels, ”***  
@@ -989,25 +921,13 @@ path of the truth.
 Surah al-Mu’minun - Verses 68-70
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَمْ يَدَّبَّرُوا الْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ
-ءَابَآءَهُمُ الاَوَّلِينَ
-  </p>
-</blockquote>
+> أَفَلَمْ يَدَّبَّرُوا الْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ
+> ءَابَآءَهُمُ الاَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ لَمْ يَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنِكِرُونَ
-  </p>
-</blockquote>
+> أَمْ لَمْ يَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنِكِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ بِهِ جِنَّةٌ بَلْ جَآءَهُم بِالْحَقّ‌ِ وَأَكْثَرُهُمْ
-لِلْحَقِ كَارِهُونَ
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ بِهِ جِنَّةٌ بَلْ جَآءَهُم بِالْحَقّ‌ِ وَأَكْثَرُهُمْ
+> لِلْحَقِ كَارِهُونَ
 
 ***68. “Have they not pondered over the statement (of the Qur’an), or
 has anything come to them that did not come to their fathers of
@@ -1098,13 +1018,9 @@ the majority of society might be averse to it.
 Surah al-Mu’minun - Verse 71
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالأَرْضُ وَمَن فِيهِنَّ بَلْ أَتَيْنَاهُم بِذِكْرِهِمْ فَهُمْ عن
-ذِكْرِهِم مُعْرِضُونَ
-  </p>
-</blockquote>
+> وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالأَرْضُ وَمَن فِيهِنَّ بَلْ أَتَيْنَاهُم بِذِكْرِهِمْ فَهُمْ عن
+> ذِكْرِهِم مُعْرِضُونَ
 
 ***71. “And if the Truth had followed their low desires, certainly the
 heavens and the earth, and whoever therein would have perished! Rather,
@@ -1134,18 +1050,10 @@ turn away from their Reminder.”***[^33]
 Surah al-Mu’minun - Verses 72-73
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ تَسْاَلُهُمْ خَرْجاً فَخَرَاجُ رَبّـِكَ خَيْرٌ وَهُوَ خَيْرُ
-الرَّازِقِينَ
-  </p>
-</blockquote>
+> أَمْ تَسْاَلُهُمْ خَرْجاً فَخَرَاجُ رَبّـِكَ خَيْرٌ وَهُوَ خَيْرُ
+> الرَّازِقِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَتَدْعُوهُمْ إِلَي صِرَاطٍ مُسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّكَ لَتَدْعُوهُمْ إِلَي صِرَاطٍ مُسْتَقِيمٍ
 
 ***72. “Or is it that you ask them a recompense? But the recompense of
 your Lord is the best: He is the Best of the sustainers.”***  
@@ -1205,12 +1113,8 @@ and justice.
 Surah al-Mu’minun - Verse 74
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ عَنِ الصّـِرَاطِ
-لَنَاكِبُونَ
-  </p>
-</blockquote>
+> وإِنَّ الَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ عَنِ الصّـِرَاطِ
+> لَنَاكِبُونَ
 
 ***74. “And verily those who do not believe in the Hereafter are
 deviating from the Way.”***
@@ -1354,12 +1258,8 @@ Explanation of Jami‘-us-Saqir and the book Suyuti, Vol. 2, P. 21
 Surah al-Mu’minun - Verse 75
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِم مِن ضُرٍّ لَّلَجُّواْ فِي
-طُغْيَانِهِمْ يَعْمَهُونَ
-  </p>
-</blockquote>
+> وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِم مِن ضُرٍّ لَّلَجُّواْ فِي
+> طُغْيَانِهِمْ يَعْمَهُونَ
 
 ***75. “If We had mercy on them and removed the distress which is on
 them, they would obstinately persist in their transgression, blindly
@@ -1398,12 +1298,8 @@ on.”***
 Surah al-Mu’minun - Verse 76
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَبّـِهِمْ
-وَمَا يَتَضَرَّعُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَبّـِهِمْ
+> وَمَا يَتَضَرَّعُونَ
 
 ***76. “And indeed We inflicted chastisement on them, but they were not
 submissive unto their Lord, nor do they humble themselves, ”***
@@ -1442,12 +1338,8 @@ of the extensions of this vast meaning.
 Surah al-Mu’minun - Verse 77
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-حَتَّي إِذَا فَتَحْنَا عَلَيْهِم بَاباً ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ
-فِيهِ مُبْلِسُونَ
-  </p>
-</blockquote>
+> حَتَّي إِذَا فَتَحْنَا عَلَيْهِم بَاباً ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ
+> فِيهِ مُبْلِسُونَ
 
 ***77. “Until, when We open against them a gate of severe chastisement,
 behold! They will get into despair at it.”***
@@ -1596,5 +1488,4 @@ commentary
 
 [^39]: “O you who have faith! Obey Allah and obey the Messenger and
 those charged with authority (‘Ulu-l-’Amr) among you …”
-
 

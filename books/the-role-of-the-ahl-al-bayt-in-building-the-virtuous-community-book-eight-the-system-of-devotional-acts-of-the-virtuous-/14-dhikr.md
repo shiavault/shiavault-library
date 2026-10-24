@@ -95,18 +95,14 @@ darkness into the light. He is Merciful to the believers. (33:41-43)***
 According to a validly reported tradition, Imam al-Baqir (‘a) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَكْتُوبٌ فِي التَّوْرَاةِ الَّتِي لَمْ تُغَيَّرْ أَنَّ مُوسَى
-عَلَيْهِ السَّلاَمُ سَأَلَ رَبَّهُ فَقَالَ: يَا رَبِّ، أَقَرِيبٌ
-أَنْتَ مِنِّي فَأُنَاجِيكَ، أَمْ بَعِيدٌ فَأُنَادِيكَ؟ فَأَوْحَى اللهُ
-عَزَّ وَجَلَّ إِلَيْهِ: يَا مُوسَى، أَنَا جَلِيسُ مَنْ ذَكَرَنِي.
-فَقَالَ مُوسَى: فَمَنْ فِي سِتْرِكَ يَوْمَ لاَ سِتْرَ إِلاَّ سَتْرُكَ؟
-فَقَالَ: الَّذِينَ يَذْكُرُونَنِي فَأَذْكُرَهُمْ وَيَتَحَابُّونَ فِيَّ
-فَأُحِبَّهُمْ، فَأُولَئِكَ الَّذِينَ إِذَا أَرَدْتُ أَنْ أُصِيبَ
-أَهْلَ الأَرْضِ بِسُوءٍ ذَكَرْتُهُمْ فَدَفَعْتُ عَنْهُمْ بِهِمْ.
-  </p>
-</blockquote>
+> مَكْتُوبٌ فِي التَّوْرَاةِ الَّتِي لَمْ تُغَيَّرْ أَنَّ مُوسَى
+> عَلَيْهِ السَّلاَمُ سَأَلَ رَبَّهُ فَقَالَ: يَا رَبِّ، أَقَرِيبٌ
+> أَنْتَ مِنِّي فَأُنَاجِيكَ، أَمْ بَعِيدٌ فَأُنَادِيكَ؟ فَأَوْحَى اللهُ
+> عَزَّ وَجَلَّ إِلَيْهِ: يَا مُوسَى، أَنَا جَلِيسُ مَنْ ذَكَرَنِي.
+> فَقَالَ مُوسَى: فَمَنْ فِي سِتْرِكَ يَوْمَ لاَ سِتْرَ إِلاَّ سَتْرُكَ؟
+> فَقَالَ: الَّذِينَ يَذْكُرُونَنِي فَأَذْكُرَهُمْ وَيَتَحَابُّونَ فِيَّ
+> فَأُحِبَّهُمْ، فَأُولَئِكَ الَّذِينَ إِذَا أَرَدْتُ أَنْ أُصِيبَ
+> أَهْلَ الأَرْضِ بِسُوءٍ ذَكَرْتُهُمْ فَدَفَعْتُ عَنْهُمْ بِهِمْ.
 
 *In the unaltered Torah, it is written that (Prophet) Moses asked his
 Lord, saying, “O Lord, are You nigh to me that I can speak to You
@@ -123,13 +119,9 @@ remember Me).”*[^3]
 Shaykh al-Kulayni has reported that Imam al-Sadiq (‘a) quoted the Holy
 Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَكْثَرَ ذِكْرَ اللهِ عَزَّ وَجَلَّ أَحَبَّهُ اللهُ، وَمَنْ
-ذَكَرَ اللهُ كَثِيراً كُتِبَتْ لَهُ بَرَاءَتَانِ: بَرَاءَةٌ مِنَ
-النَّارِ وَبَرَاءَةٌ مِنَ النِّفَاقِ.
-  </p>
-</blockquote>
+> مَنْ أَكْثَرَ ذِكْرَ اللهِ عَزَّ وَجَلَّ أَحَبَّهُ اللهُ، وَمَنْ
+> ذَكَرَ اللهُ كَثِيراً كُتِبَتْ لَهُ بَرَاءَتَانِ: بَرَاءَةٌ مِنَ
+> النَّارِ وَبَرَاءَةٌ مِنَ النِّفَاقِ.
 
 *Whoever mentions Almighty Allah frequently will be loved by Him.
 Whoever mentions Almighty Allah frequently will be granted two
@@ -142,20 +134,16 @@ and said, “Enjoy yourselves in the gardens of heaven.”
 
 He (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَجَالِسُ الذِّكْرِ، أُغْدُوا وَرُوحُوا وَاذْكُرُوا. وَمَنْ كَانَ
-يُحِبُّ أَنْ يَعْلَمَ مَنْزِلَتَهُ عِنْدَ اللهِ فَلْيَنْظُرْ كَيْفَ
-مَنْزِلَةُ اللهِ عِنْدَهُ، فَإِنَّ اللهَ تَعَالَى يُنْزِلُ الْعَبْدَ
-حَيْثُ أَنْزَلَ الْعَبْدُ اللهَ مِنْ نَفْسِهِ. وَاعْلَمُوا أَنَّ
-خَيْرَ أَعْمَالِكُمْ وَأَزْكَاهَا وَأَرْفَعَهَا فِي دَرَجَاتِكُمْ
-وَخَيْرَ مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ ذِكْرُ اللهِ سُبْحَانَهُ،
-فَإِنَّهُ أَخْبَرَ عَنْ نَفْسِهِ فَقَالَ: أَنَا جَلِيسُ مَنْ
-ذَكَرَنِي. وَقَالَ سُبْحَانَهُ: فَاذْكُرُونِي أَذْكُرْكُمْ بِنِعْمَتِي
-وَاذْكُرُونِي بِالطَّاعَةِ وَالْعِبَادَةِ أَذْكُرْكُمْ بِالنِّعَمِ
-وَالإِحْسَانِ وَالرَّحْمَةِ وَالرِّضُوَانِ.
-  </p>
-</blockquote>
+> مَجَالِسُ الذِّكْرِ، أُغْدُوا وَرُوحُوا وَاذْكُرُوا. وَمَنْ كَانَ
+> يُحِبُّ أَنْ يَعْلَمَ مَنْزِلَتَهُ عِنْدَ اللهِ فَلْيَنْظُرْ كَيْفَ
+> مَنْزِلَةُ اللهِ عِنْدَهُ، فَإِنَّ اللهَ تَعَالَى يُنْزِلُ الْعَبْدَ
+> حَيْثُ أَنْزَلَ الْعَبْدُ اللهَ مِنْ نَفْسِهِ. وَاعْلَمُوا أَنَّ
+> خَيْرَ أَعْمَالِكُمْ وَأَزْكَاهَا وَأَرْفَعَهَا فِي دَرَجَاتِكُمْ
+> وَخَيْرَ مَا طَلَعَتْ عَلَيْهِ الشَّمْسُ ذِكْرُ اللهِ سُبْحَانَهُ،
+> فَإِنَّهُ أَخْبَرَ عَنْ نَفْسِهِ فَقَالَ: أَنَا جَلِيسُ مَنْ
+> ذَكَرَنِي. وَقَالَ سُبْحَانَهُ: فَاذْكُرُونِي أَذْكُرْكُمْ بِنِعْمَتِي
+> وَاذْكُرُونِي بِالطَّاعَةِ وَالْعِبَادَةِ أَذْكُرْكُمْ بِالنِّعَمِ
+> وَالإِحْسَانِ وَالرَّحْمَةِ وَالرِّضُوَانِ.
 
 *These are the meetings of mentioning Almighty Allah. Come, go, and
 mention Him. Whoever wishes to know his standing with Almighty Allah
@@ -238,25 +226,17 @@ verses.”[^7]
 According to another tradition, Imam al-Baqir (‘a) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ أَقْرَبُ إِلَى اسْمِ اللهِ
-الأَعْظَمِ مِنْ نَاظِرِ الْعَيْنِ إِلَى سَوَادِهَا.
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ أَقْرَبُ إِلَى اسْمِ اللهِ
+> الأَعْظَمِ مِنْ نَاظِرِ الْعَيْنِ إِلَى سَوَادِهَا.
 
 *Bismi-llahir-rahmanir-rahim is closer to the Greatest Name than the
 pupil of the eye to its surrounding blackness.*[^8]
 
 A third tradition states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوَّلَ كِتَابِ نَزَلَ مِنَ السَّمَاءِ بِسْمِ اللهِ الرَّحْمَنِ
-الرَّحِيمِ. وَإِذَا قَرَأْتَ بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
-سَتَرَتْكَ فِيمَا بَيْنَ الأَرْضِ وَالسَّمَاءِ.
-  </p>
-</blockquote>
+> إِنَّ أَوَّلَ كِتَابِ نَزَلَ مِنَ السَّمَاءِ بِسْمِ اللهِ الرَّحْمَنِ
+> الرَّحِيمِ. وَإِذَا قَرَأْتَ بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
+> سَتَرَتْكَ فِيمَا بَيْنَ الأَرْضِ وَالسَّمَاءِ.
 
 *Verily, bismi-llahir-rahmanir-rahim was the foremost book revealed from
 the heavens. When you recite bismi-llahir-rahmanir-rahim, it will
@@ -299,21 +279,13 @@ be said.
 
 In this regard, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ أَمْرٍ ذِي بَالٍ لاَ يُذْكَرُ بِسْمِ اللهِ الرَّحْمَنِ
-الرَّحِيمِ فِيهِ فَهُوَ أَبْتَرُ.
-  </p>
-</blockquote>
+> كُلُّ أَمْرٍ ذِي بَالٍ لاَ يُذْكَرُ بِسْمِ اللهِ الرَّحْمَنِ
+> الرَّحِيمِ فِيهِ فَهُوَ أَبْتَرُ.
 
 *Any important affair that is not preceded by
 bismi-llahir-rahmanir-rahim is imperfect.*
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ كِتَابٍ لاَ يُبْدَأُ فِيهِ بِذِكْرِ اللهِ فَهُوَ أَقْطَعُ.
-  </p>
-</blockquote>
+> كُلُّ كِتَابٍ لاَ يُبْدَأُ فِيهِ بِذِكْرِ اللهِ فَهُوَ أَقْطَعُ.
 
 *Any letter that is not begun with bismi-llahir-rahmanir-rahim is
 incomplete.*[^11]
@@ -373,13 +345,9 @@ In *al-Kafi*, Shaykh al-Kulayni has reported through a chain of
 authority that Furat ibn Ahnaf said that he heard Imam al-Baqir (‘a)
 saying:
 
-<blockquote dir="rtl">
-  <p>
-أَوَّلُ كِتَابٍ نَزَلَ مِنَ السَّمَاءِ بِسْمِ اللهِ الرَّحْمَنِ
-الرَّحِيمِ، فَإِذَا قَرَأْتَ بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ فَلاَ
-تُبَالِ أَلاَّ تَسْتَعِيذَ.
-  </p>
-</blockquote>
+> أَوَّلُ كِتَابٍ نَزَلَ مِنَ السَّمَاءِ بِسْمِ اللهِ الرَّحْمَنِ
+> الرَّحِيمِ، فَإِذَا قَرَأْتَ بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ فَلاَ
+> تُبَالِ أَلاَّ تَسْتَعِيذَ.
 
 *The first book revealed from the heavens was
 bismi-llahir-rahmanir-rahim. Therefore, when you utter it, do not care
@@ -420,13 +388,9 @@ al-Ridha (‘a) at Nayshabur during his journey to Khurasan, he quoted on
 the authority of his fathers, on the authority of Archangel Gabriel
 (‘a), on the authority of Almighty Allah, Who says:
 
-<blockquote dir="rtl">
-  <p>
-شَهَادَةُ لاَ إِلَهَ إِلاَّ اللهُ حِصْنِي، مَنْ قَالَهَا مُخْلِصاً
-مِنْ قَلْبِهِ دَخَلَ حِصْنِي، وَمَنْ دَخَلَ حِصْنِي أَمِنْ مِنْ
-عَذَابِي.
-  </p>
-</blockquote>
+> شَهَادَةُ لاَ إِلَهَ إِلاَّ اللهُ حِصْنِي، مَنْ قَالَهَا مُخْلِصاً
+> مِنْ قَلْبِهِ دَخَلَ حِصْنِي، وَمَنْ دَخَلَ حِصْنِي أَمِنْ مِنْ
+> عَذَابِي.
 
 *To bear witness that there is no god save Allah is My fortress. Whoever
 pronounces it wholeheartedly will enter into My fortress, and whoever
@@ -446,13 +410,9 @@ Likewise, to declare this statement audibly brings about great rewards.
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مُسْلِمٍ يَقُولُ: لاَ إِلَهَ إِلاَّ اللهُ يَرْفَعُ بِهَا
-صَوْتَهُ فَيَفْرُغُ، حَتَّى تَتَنَاثَرُ ذُنُوبُهُ تَحْتَ قَدَمَيْهِ
-كَمَا تَتَنَاثَرُ وَرَقُ الشَّجَرِ تَحْتَهَا.
-  </p>
-</blockquote>
+> مَا مِنْ مُسْلِمٍ يَقُولُ: لاَ إِلَهَ إِلاَّ اللهُ يَرْفَعُ بِهَا
+> صَوْتَهُ فَيَفْرُغُ، حَتَّى تَتَنَاثَرُ ذُنُوبُهُ تَحْتَ قَدَمَيْهِ
+> كَمَا تَتَنَاثَرُ وَرَقُ الشَّجَرِ تَحْتَهَا.
 
 *No Muslim raises his voice with la ilaha illallah but that his sins,
 the moment that he finishes, will be scattered under his feet in the
@@ -535,12 +495,8 @@ A good number of traditions reveal the merits of *Tasbih*,[^23] such as
 the following one that is reported in Ibn Idris al-Hilli’s book of
 *al-Sara'ir* from Imam al-Sadiq (‘a):
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ كَلِمَةٍ أَخَفُّ عَلَى اللِّسَانِ وَلاَ أَبْلَغُ مِنْ:
-سُبْحَانَ اللهِ.
-  </p>
-</blockquote>
+> مَا مِنْ كَلِمَةٍ أَخَفُّ عَلَى اللِّسَانِ وَلاَ أَبْلَغُ مِنْ:
+> سُبْحَانَ اللهِ.
 
 *There in no word lighter on tongues and more eloquent than subhanallah
 (All glory is due to Allah).*[^24]
@@ -548,14 +504,10 @@ the following one that is reported in Ibn Idris al-Hilli’s book of
 In his book entitled *Thawab al-A’mal*, Shaykh al-Saduq has quoted Imam
 al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قَالَ: سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ اللهِ الْعَظِيمِ
-وَبِحَمْدِهِ، كَتَبَ اللهُ لَهُ ثَلاَثَةَ آلاَفِ حَسَنَةٍ، وَرَفَعَ
-لَهُ ثَلاَثَةَ آلاَفِ دَرَجَةٍ، وَخَلَقَ مِنْهَا طَائِراً فِي
-الْجَنَّةِ يُسَبِّحُ اللهَ وَكَانَ أَجْرُ تَسْبِيحِهِ لَهُ.
-  </p>
-</blockquote>
+> مَنْ قَالَ: سُبْحَانَ اللهِ وَبِحَمْدِهِ سُبْحَانَ اللهِ الْعَظِيمِ
+> وَبِحَمْدِهِ، كَتَبَ اللهُ لَهُ ثَلاَثَةَ آلاَفِ حَسَنَةٍ، وَرَفَعَ
+> لَهُ ثَلاَثَةَ آلاَفِ دَرَجَةٍ، وَخَلَقَ مِنْهَا طَائِراً فِي
+> الْجَنَّةِ يُسَبِّحُ اللهَ وَكَانَ أَجْرُ تَسْبِيحِهِ لَهُ.
 
 *Whoever says, ‘subhanallahi wabihamdihi subhanallahi al’azimi
 wabihamdihi (All glory is due to Allah and in praise of Him. All glory
@@ -679,13 +631,9 @@ Al-Ash’ath replied, “You are surely the utmost and best of knowledge.”
 
 The Imam (‘a) explained:
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا قَوْلُكَ: إِنَّا للهِ، فَإِقْرَارٌ مِنْكَ بِالْمُلْكِ، وَأَمَّا
-قَوْلُكَ: وَإِنَّا إِلَيْهِ رَاجِعُونَ، فَإِقْرَارٌ مِنْكَ
-بِالْهَلاَكِ.
-  </p>
-</blockquote>
+> أَمَّا قَوْلُكَ: إِنَّا للهِ، فَإِقْرَارٌ مِنْكَ بِالْمُلْكِ، وَأَمَّا
+> قَوْلُكَ: وَإِنَّا إِلَيْهِ رَاجِعُونَ، فَإِقْرَارٌ مِنْكَ
+> بِالْهَلاَكِ.
 
 *Your saying, ‘We are Allah’s,’ is a confession of Allah’s possession of
 all things, while your saying, ‘To Him we will return,’ is a confession
@@ -826,34 +774,22 @@ traditions have been reported.
 Imam al-Sadiq (‘a) is reported to have quoted the Holy Prophet (S) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-الإِسْتِغْفَارُ خَيْرُ الدُّعَاءِ.
-  </p>
-</blockquote>
+> الإِسْتِغْفَارُ خَيْرُ الدُّعَاءِ.
 
 *Imploration for forgiveness is the best of supplications.*[^33]
 
 The Holy Prophet (S) is also reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْقُلُوبِ صَدَأً كَصَدَأِ النُّحَاسِ، فَاجْلُوهَا
-بِالإسْتِغْفَارِ.
-  </p>
-</blockquote>
+> إِنَّ لِلْقُلُوبِ صَدَأً كَصَدَأِ النُّحَاسِ، فَاجْلُوهَا
+> بِالإسْتِغْفَارِ.
 
 *Hearts rust just like the rusting of copper. You should therefore
 polish them by means of imploring for forgiveness.*[^34]
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أَكْثَرَ الْعَبْدُ مِنَ الإسْتِغْفَارِ رُفِعَتْ صَحِيفَتُهُ
-وَهِيَ تَتَلأْلأُ.
-  </p>
-</blockquote>
+> إِذَا أَكْثَرَ الْعَبْدُ مِنَ الإسْتِغْفَارِ رُفِعَتْ صَحِيفَتُهُ
+> وَهِيَ تَتَلأْلأُ.
 
 *When a servant (of Allah) implores Him for forgiveness repeatedly, his
 record of deeds will be elevated, shining.*[^35]
@@ -869,11 +805,7 @@ grave ones.
 
 A tradition reads:
 
-<blockquote dir="rtl">
-  <p>
-لاَ صَغِيرَةَ مَعَ الإِصْرَارِ وَلاَ كَبِيرَةَ مَعَ الإسْتِغْفَارِ.
-  </p>
-</blockquote>
+> لاَ صَغِيرَةَ مَعَ الإِصْرَارِ وَلاَ كَبِيرَةَ مَعَ الإسْتِغْفَارِ.
 
 *An insignificant fault that is committed persistently no longer remains
 insignificant, and a grave sin for which forgiveness is implored does
@@ -886,16 +818,12 @@ repentance and imploration for forgiveness.[^38]
 Imam al-Sadiq, on the authority of Imam al-Baqir, has quoted the Holy
 Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أَرْبَعٌ مَنْ كُنَّ فِيهِ كَانَ فِي نُورِ اللهِ الأَعْظَمِ: مَنْ كَانَ
-عِصْمَةَ أَمْرِهِ شَهَادَةُ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنِّي
-رَسُولُ اللهِ، وَمَنْ إِذَا أَصَابَتْهُ مُصِيبَةٌ قَالَ: إِنَّا للهِ
-وَإِنَّا إِلَيْهِ رَاجِعُونَ، وَمَنْ إِذَا أَصَابَ خَيْراً قَالَ:
-الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ، وَمَنْ إِذَا أَصَابَ خَطِيئَةً
-قَالَ: أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ.
-  </p>
-</blockquote>
+> أَرْبَعٌ مَنْ كُنَّ فِيهِ كَانَ فِي نُورِ اللهِ الأَعْظَمِ: مَنْ كَانَ
+> عِصْمَةَ أَمْرِهِ شَهَادَةُ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنِّي
+> رَسُولُ اللهِ، وَمَنْ إِذَا أَصَابَتْهُ مُصِيبَةٌ قَالَ: إِنَّا للهِ
+> وَإِنَّا إِلَيْهِ رَاجِعُونَ، وَمَنْ إِذَا أَصَابَ خَيْراً قَالَ:
+> الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ، وَمَنْ إِذَا أَصَابَ خَطِيئَةً
+> قَالَ: أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ.
 
 *He who possesses the following four qualities will enjoy the brightest
 illumination by* *Allah: (1) belief that there is no god but Allah and
@@ -908,12 +836,8 @@ repent’.*[^39]
 According to another validly reported tradition, Mu’awiyah ibn Wahab is
 reported to have heard Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا تَابَ الْعَبْدُ تَوْبَةً نَصُوحاً أَحَبَّهُ اللهُ فَسَتَرَ
-عَلَيْهِ فِي الدُّنْيَا وَالآخِرَةِ.
-  </p>
-</blockquote>
+> إِذَا تَابَ الْعَبْدُ تَوْبَةً نَصُوحاً أَحَبَّهُ اللهُ فَسَتَرَ
+> عَلَيْهِ فِي الدُّنْيَا وَالآخِرَةِ.
 
 *If one repents truly, Almighty Allah will then love him. As a result,
 He will cover up his sins in the world and the Hereafter.*
@@ -922,15 +846,11 @@ He will cover up his sins in the world and the Hereafter.*
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يُنْسِي مَلَكَيْهِ مَا كَتَبَا عَلَيْهِ مِنَ الذُّنُوبِ، وَيُوحِي
-إِلَى جَوَارِحِهِ: إكْتُمِي عَلَيْهِ ذُنُوبَهُ. وَيُوحِي إِلَى بِقَاعِ
-الأَرْضِ: إكْتُمِي مَا كَانَ يَعْمَلُ عَلَيْكِ مِنَ الذُّنُوبِ.
-فَيَلْقَى اللهَ حِينَ يَلْقَاهُ وَلَيْسَ شَيْءٌ يَشْهَدُ عَلَيْهِ
-بِشَيْءٍ مِنَ الذُّنُوبِ.
-  </p>
-</blockquote>
+> يُنْسِي مَلَكَيْهِ مَا كَتَبَا عَلَيْهِ مِنَ الذُّنُوبِ، وَيُوحِي
+> إِلَى جَوَارِحِهِ: إكْتُمِي عَلَيْهِ ذُنُوبَهُ. وَيُوحِي إِلَى بِقَاعِ
+> الأَرْضِ: إكْتُمِي مَا كَانَ يَعْمَلُ عَلَيْكِ مِنَ الذُّنُوبِ.
+> فَيَلْقَى اللهَ حِينَ يَلْقَاهُ وَلَيْسَ شَيْءٌ يَشْهَدُ عَلَيْهِ
+> بِشَيْءٍ مِنَ الذُّنُوبِ.
 
 *He will make his two guardian angels forget whatever they have recorded
 regarding his sins. He will order his limbs to screen whatever sins he
@@ -948,14 +868,10 @@ Almighty Allah will certainly forgive any believer who commits forty
 grave sins every day and night but then truly regrets what he did and
 prays to Him for forgiveness through the following imploration:
 
-<blockquote dir="rtl">
-  <p>
-اَسْتَغْفِرُ اللَّهَ الَّذِي لاَ إِلٰهَ إِلاََّ هُوَ الْحَيُّ
-الْقَيُّوْمُ بَدِيعُ السَّمَاوَاتِ وَالاَرْضِ ذُو الْجَلاَلِ
-وَالإِكْرَامِ وَاَسْئََلُهُ اَنْ يُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِ
-مُحَمَّدٍ وَاَنْ يَتُوبَ عَلَيَّ.
-  </p>
-</blockquote>
+> اَسْتَغْفِرُ اللَّهَ الَّذِي لاَ إِلٰهَ إِلاََّ هُوَ الْحَيُّ
+> الْقَيُّوْمُ بَدِيعُ السَّمَاوَاتِ وَالاَرْضِ ذُو الْجَلاَلِ
+> وَالإِكْرَامِ وَاَسْئََلُهُ اَنْ يُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِ
+> مُحَمَّدٍ وَاَنْ يَتُوبَ عَلَيَّ.
 
 *I pray for the forgiveness of Allah save Whom there is no god; the
 Ever-living, the Self-Subsisting, the wonderful Originator of the
@@ -1064,22 +980,14 @@ forgiveness three times, the sin will not be recorded against him:
 Ever-living and Self-Subsisting; and to Him do I turn in
 repentance.*[^45]
 
-<blockquote dir="rtl">
-  <p>
-ا سْتَغْفِرُ ٱللَّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ ٱلْحَيُّ
-ٱلْقَيُّومُ وَا تُوبُ إِلَيْهِ.
-  </p>
-</blockquote>
+> ا سْتَغْفِرُ ٱللَّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ ٱلْحَيُّ
+> ٱلْقَيُّومُ وَا تُوبُ إِلَيْهِ.
 
 According to another validly reported tradition, Zurarah reports that he
 heard Imam al-Sadiq (‘a) saying:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعَبْدَ إِذَا أَذْنَبَ ذَنْباً أُجِّلَ مِنْ غَدْوَةٍ إَلَى
-اللَّيْلِ، فَإِنِ إسْتَغْفَرَ اللهَ لَمْ تُكْتَبْ عَلَيْهِ.
-  </p>
-</blockquote>
+> إِنَّ الْعَبْدَ إِذَا أَذْنَبَ ذَنْباً أُجِّلَ مِنْ غَدْوَةٍ إَلَى
+> اللَّيْلِ، فَإِنِ إسْتَغْفَرَ اللهَ لَمْ تُكْتَبْ عَلَيْهِ.
 
 *When a servant (of Allah) commits a sin, he is granted a delay from
 morning to evening. If he implores forgiveness of Almighty Allah, the
@@ -1129,30 +1037,18 @@ or generally.
 
 Shaykh al-Kulayni has reported Imam al-Baqir (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-وَاللهِ مَا يَنْجُو مِنَ الذَّنْبِ إِلاَّ مَنْ أَقَرَّ بِهِ.
-  </p>
-</blockquote>
+> وَاللهِ مَا يَنْجُو مِنَ الذَّنْبِ إِلاَّ مَنْ أَقَرَّ بِهِ.
 
 *By Allah I swear that none shall be redeemed from the consequences of a
 committed sin except he who confesses it.*
 
-<blockquote dir="rtl">
-  <p>
-كَفَى بِالنَّدَمِ تَوْبَةً.
-  </p>
-</blockquote>
+> كَفَى بِالنَّدَمِ تَوْبَةً.
 
 *Remorse is sufficient repentance.*[^49]
 
-<blockquote dir="rtl">
-  <p>
-لاَ وَاللهِ، مَا أَرَادَ اللهُ مِنَ النَّاسِ إِلاَّ خِصْلَتَيْنِ: أَنْ
-يُقِرُّوا لَهُ بِالنِّعَمِ فَيَزِيدَهُمْ، وَبِالذُّنُوبِ فَيَغْفِرَهَا
-لَهُمْ.
-  </p>
-</blockquote>
+> لاَ وَاللهِ، مَا أَرَادَ اللهُ مِنَ النَّاسِ إِلاَّ خِصْلَتَيْنِ: أَنْ
+> يُقِرُّوا لَهُ بِالنِّعَمِ فَيَزِيدَهُمْ، وَبِالذُّنُوبِ فَيَغْفِرَهَا
+> لَهُمْ.
 
 *By Allah I swear that He does not want from people more than the
 following two features: they should acknowledge His favors upon them so
@@ -1171,13 +1067,9 @@ forgiveness.
 In this connection, Imam al-Ridha (‘a) is reported to have quoted the
 Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الْمُسْتَتِرُ بِالْحَسَنَةِ يَعْدِلُ سَبْعِينَ حَسَنَةً، وَالْمُذِيعُ
-بِالسَّيِّئَةِ مَخْذُولٌ، وَالْمُسْتَتِرُ بِالسَّيِّئَةِ مَغْفُورٌ
-لَهُ.
-  </p>
-</blockquote>
+> الْمُسْتَتِرُ بِالْحَسَنَةِ يَعْدِلُ سَبْعِينَ حَسَنَةً، وَالْمُذِيعُ
+> بِالسَّيِّئَةِ مَخْذُولٌ، وَالْمُسْتَتِرُ بِالسَّيِّئَةِ مَغْفُورٌ
+> لَهُ.
 
 *He who conceals a good deed that he has done will be given seventy
 rewards. He who commits a sin openly will be disappointed. He who
@@ -1236,14 +1128,10 @@ About the merits of invocations of blessings, many traditions have been
 reported. Through a valid chain of authority, Shaykh al-Kulayni, in
 *al-Kafi*, has reported Imam al-Baqir or Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-مَا فِي الْمِيزَانِ شَيْءٌ أَثْقَلُ مِنَ الصَّلاَةِ عَلَى مُحَمَّدٍ
-وَآلِ مُحَمَّدٍ. وَإِنَّ الرَّجُلَ لَتُوضَعُ أَعْمَالُهُ فِي
-الْمِيزَانِ فَيَمِيلُ بِهِ فَيُخْرِجُ الصَّلاَةَ عَلَيْهِ فَيَضَعُهَا
-فِي مِيزَانِهِ فَيَرْجُحُ بِهِ.
-  </p>
-</blockquote>
+> مَا فِي الْمِيزَانِ شَيْءٌ أَثْقَلُ مِنَ الصَّلاَةِ عَلَى مُحَمَّدٍ
+> وَآلِ مُحَمَّدٍ. وَإِنَّ الرَّجُلَ لَتُوضَعُ أَعْمَالُهُ فِي
+> الْمِيزَانِ فَيَمِيلُ بِهِ فَيُخْرِجُ الصَّلاَةَ عَلَيْهِ فَيَضَعُهَا
+> فِي مِيزَانِهِ فَيَرْجُحُ بِهِ.
 
 *Nothing in the scale of one’s deeds is heavier than the invocations of
 blessings upon the Prophet and his Household. When the deeds of someone
@@ -1256,35 +1144,23 @@ This fact has been reported in other traditions with various styles and
 explanations. For instance, the Holy Prophet (S) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَنَا عِنْدَ الْمِيزَانِ يَوْمَ الْقِيَامَةِ، فَمَنْ ثَقُلَتْ
-سَيِّئَاتُهُ عَلَى حَسَنَاتِهِ جِئْتُ بِالصَّلاَةِ عَلَيَّ حَتَّى
-أُثْقِلَ بِهَا حَسَنَاتِهِ.
-  </p>
-</blockquote>
+> أَنَا عِنْدَ الْمِيزَانِ يَوْمَ الْقِيَامَةِ، فَمَنْ ثَقُلَتْ
+> سَيِّئَاتُهُ عَلَى حَسَنَاتِهِ جِئْتُ بِالصَّلاَةِ عَلَيَّ حَتَّى
+> أُثْقِلَ بِهَا حَسَنَاتِهِ.
 
 I will be standing at the Balance on the Day of Resurrection. When I
 notice that the scale of bad deeds of someone outweighs the other scale,
 I will then add his invocations of blessings upon me to the scale of his
 good deeds so that it will outweigh the other scale.
 
-<blockquote dir="rtl">
-  <p>
-لَنْ يَلِجَ النَّارَ مَنْ صَلَّى عَلَيَّ، وَمَنْ نَسِيَ الصَّلاَةَ
-عَلَيَّ فَقَدْ أَخْطَأَ طَرِيقَ الْجَنَّةِ.
-  </p>
-</blockquote>
+> لَنْ يَلِجَ النَّارَ مَنْ صَلَّى عَلَيَّ، وَمَنْ نَسِيَ الصَّلاَةَ
+> عَلَيَّ فَقَدْ أَخْطَأَ طَرِيقَ الْجَنَّةِ.
 
 *He that invokes blessings upon me will not be sent to Hellfire, but he
 that forgets to invoke blessings upon me will lose the way to heaven.*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّلاَةَ تَعْدِلُ عِنْدَ اللهِ عَزَّ وَجَلَّ التَّسْبِيحَ
-وَالتَّهْلِيلَ وَالتَّكْبِيرَ.
-  </p>
-</blockquote>
+> إِنَّ الصَّلاَةَ تَعْدِلُ عِنْدَ اللهِ عَزَّ وَجَلَّ التَّسْبِيحَ
+> وَالتَّهْلِيلَ وَالتَّكْبِيرَ.
 
 *In the sight of Almighty Allah, invocation of blessings is equal to the
 statements of Tasbih, Tahlil, and Takbir.*[^54]
@@ -1300,12 +1176,8 @@ invoking Allah’s blessings upon the Holy Prophet and his Household.
 In *Thawab al-A’mal*, Shaykh al-Saduq has quoted Imam ‘Ali (‘a) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاَةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَمْحَقُ
-لِلْخَطَايَا مِنَ الْمَاءِ لِلنَّارِ.
-  </p>
-</blockquote>
+> الصَّلاَةُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَمْحَقُ
+> لِلْخَطَايَا مِنَ الْمَاءِ لِلنَّارِ.
 
 *Invoking blessings upon the Prophet extinguishes wrongdoings in a way
 more effective than when water is used to extinguish fire.*[^55]
@@ -1313,12 +1185,8 @@ more effective than when water is used to extinguish fire.*[^55]
 In *‘Uyun Akhbar al-Ridha* and *al-Amali*, Shaykh al-Saduq has quoted
 Imam al-Ridha (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إن الصلاة على النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ تَهْدِمُ
-الذُّنُوبَ هَدْماً.
-  </p>
-</blockquote>
+> إن الصلاة على النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ تَهْدِمُ
+> الذُّنُوبَ هَدْماً.
 
 *Surely, invoking blessings upon the Prophet totally demolishes
 sins.*[^56]
@@ -1329,12 +1197,8 @@ Shaykh al-Kulayni, through a valid chain of authority, and Shaykh
 al-Saduq reported Imam al-Sadiq (‘a) to have quoted the Holy Prophet (S)
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِرْفَعُوا أَصْوَاتَكُمْ بِالصَّلاَةِ عَلَيَّ، فَإِنَّهَا تَذْهَبُ
-بِالنِّفَاقِ.
-  </p>
-</blockquote>
+> إِرْفَعُوا أَصْوَاتَكُمْ بِالصَّلاَةِ عَلَيَّ، فَإِنَّهَا تَذْهَبُ
+> بِالنِّفَاقِ.
 
 *Raise your voices with invocations of blessings upon me, for this
 removes hypocrisy.*[^57]
@@ -1342,11 +1206,7 @@ removes hypocrisy.*[^57]
 According to another validly reported tradition, Shaykh al-Kulayni
 reports the Holy Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الصَّلاَةُ عَلَيَّ وَعَلَى أَهْلِ بَيْتِي تَذْهَبُ بِالنِّفَاقِ.
-  </p>
-</blockquote>
+> الصَّلاَةُ عَلَيَّ وَعَلَى أَهْلِ بَيْتِي تَذْهَبُ بِالنِّفَاقِ.
 
 *Invocations of blessings upon me and my Household remove
 hypocrisy.*[^58]
@@ -1356,12 +1216,8 @@ intercession:
 
 In his instructive will to Imam ‘Ali (‘a), the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-يَا عَلِيُّ، مَنْ صَلَّى عَلَيَّ كُلَّ يَوْمٍ أَوْ كُلَّ لَيْلَةٍ
-وَجَبَتْ لَهُ شَفَاعَتِي وَلَوْ كَانَ مِنْ أَهْلِ الْكَبَائِرِ.
-  </p>
-</blockquote>
+> يَا عَلِيُّ، مَنْ صَلَّى عَلَيَّ كُلَّ يَوْمٍ أَوْ كُلَّ لَيْلَةٍ
+> وَجَبَتْ لَهُ شَفَاعَتِي وَلَوْ كَانَ مِنْ أَهْلِ الْكَبَائِرِ.
 
 *O ‘Ali, my intercession will be bindingly attainable for him who
 invokes blessings upon me every day or every night, even if he has
@@ -1373,16 +1229,12 @@ invoker:
 Many traditions have confirmed this fact. Shaykh al-Kulayni, in
 *al-Kafi*, reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا ذُكِرَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فَأَكْثِرُوا
-الصَّلاَةَ عَلَيْهِ; فَإِنَّهُ مَنْ صَلَّى عَلَى النَّبِيِّ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ صَلاَةً وَاحِدَةً صَلَّى اللهُ عَلَيْهَ اَلْفَ
-صَلاَةٍ فِي اَلْفِ صَفٍّ مِنَ الْمَلاَئِكَةِ، وَلَمْ يَبْقَ شَيْءٌ
-مِمَّا خَلَقَهُ اللهُ إِلاَّ صَلَّى عَلَى الْعَبْدِ لِصَلاَةِ اللهِ
-عَلَيْهِ وَصَلاَةِ مَلاَئِكَتِهِ.
-  </p>
-</blockquote>
+> إِذَا ذُكِرَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فَأَكْثِرُوا
+> الصَّلاَةَ عَلَيْهِ; فَإِنَّهُ مَنْ صَلَّى عَلَى النَّبِيِّ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ صَلاَةً وَاحِدَةً صَلَّى اللهُ عَلَيْهَ اَلْفَ
+> صَلاَةٍ فِي اَلْفِ صَفٍّ مِنَ الْمَلاَئِكَةِ، وَلَمْ يَبْقَ شَيْءٌ
+> مِمَّا خَلَقَهُ اللهُ إِلاَّ صَلَّى عَلَى الْعَبْدِ لِصَلاَةِ اللهِ
+> عَلَيْهِ وَصَلاَةِ مَلاَئِكَتِهِ.
 
 *Whenever the Prophet (S) is mentioned, invoke Allah’s blessings upon
 him as many times as possible. Verily, whoever invokes blessings upon
@@ -1397,12 +1249,8 @@ Lord, and increase physical powers:
 In *al-Ja’fariyyat*, Imam ‘Ali (‘a) is reported to have quoted the Holy
 Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-صَلاَتُكُمْ عَلَيَّ مُجَوِّزَةٌ لِدُعَائِكُمْ وَمَرْضَاةٌ لِرَبِّكُمْ
-وَزَكَاةٌ لأَِبْدَانِكُمْ.
-  </p>
-</blockquote>
+> صَلاَتُكُمْ عَلَيَّ مُجَوِّزَةٌ لِدُعَائِكُمْ وَمَرْضَاةٌ لِرَبِّكُمْ
+> وَزَكَاةٌ لأَِبْدَانِكُمْ.
 
 *Your invocations of blessings upon me make your prayers successful,
 give pleasure to your Lord, and improve your bodies.*[^61]
@@ -1473,13 +1321,9 @@ Household.’*[^64]
 Imam ‘Ali (‘a) is reported to have quoted the Holy Prophet (S) as
 saying:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُصَلُّوا عَلَيَّ صَلاَةً مَبْتُورَةً، بَلْ صِلُوا إِلَى أَهْلِ
-بَيْتِي وَلاَ تَقْطَعُوهُمْ; فَإِنَّ كُلَّ نَسَبٍ وَسَبَبٍ يَوْمَ
-الْقِيَامَةِ مُنْقَطِعٌ إِلاَّ نَسَبِي.
-  </p>
-</blockquote>
+> لاَ تُصَلُّوا عَلَيَّ صَلاَةً مَبْتُورَةً، بَلْ صِلُوا إِلَى أَهْلِ
+> بَيْتِي وَلاَ تَقْطَعُوهُمْ; فَإِنَّ كُلَّ نَسَبٍ وَسَبَبٍ يَوْمَ
+> الْقِيَامَةِ مُنْقَطِعٌ إِلاَّ نَسَبِي.
 
 *Do not utter mutilated invocations of blessings upon me; rather, you
 should include my Household and not separate them. Verily, all lineages
@@ -1557,12 +1401,8 @@ said that his father ‘Ali ibn Husayn said that his father Husayn ibn
 ‘Ali said that his father ‘Ali ibn Abi-Talib said that the Messenger of
 Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ آخِرَ كَلاَمِهِ الصَّلاَةُ عَلَيَّ وَعَلَى عَلِيٍّ دَخَلَ
-الْجَنَّةَ.
-  </p>
-</blockquote>
+> مَنْ كَانَ آخِرَ كَلاَمِهِ الصَّلاَةُ عَلَيَّ وَعَلَى عَلِيٍّ دَخَلَ
+> الْجَنَّةَ.
 
 *He that concludes his discourse with an invocation of Allah’s blessings
 upon me and upon ‘Ali will be allowed to enter Paradise.*[^68]
@@ -1575,18 +1415,14 @@ illumined.
 Abu-Hashim Dawud ibn Qasim al-Ja’fari has reported on the authority of
 Imam al-Baqir (‘a) that Imam Hasan (‘a) once replied to someone, thus:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَا ذَكَرْتَ مِنْ أَمْرِ الذِّكْرِ وَالنِّسْيَانِ فَإِنَّ
-قَلْبَ الرَّجُلِ فِي حُقٍّ وَعَلَى الْحُقِّ طَبَقٌ، فَإِنْ صَلَّى
-الرَّجُلُ عِنْدَ ذَلِكَ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ صَلاَةً
-تَامَّةً إنْكَشَفَ ذَلِكَ الطَّبَقُ عَنْ ذَلِكَ الْحُقِّ، فَأَضَاءَ
-الْقَلْبَ وَذَكَرَ الرَّجُلُ مَا كَانَ نَسِيَ، فَإِنْ هُوَ لَمْ
-يُصَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ أَوْ نَقَصَ مِنَ الصَّلاَةِ
-عَلَيْهِمُ انْطَبَقَ ذَلِكَ الطَّبَقُ عَلَى ذَلِكَ الْحُقِّ فَأَظْلَمَ
-الْقَلْبُ.
-  </p>
-</blockquote>
+> وَأَمَّا مَا ذَكَرْتَ مِنْ أَمْرِ الذِّكْرِ وَالنِّسْيَانِ فَإِنَّ
+> قَلْبَ الرَّجُلِ فِي حُقٍّ وَعَلَى الْحُقِّ طَبَقٌ، فَإِنْ صَلَّى
+> الرَّجُلُ عِنْدَ ذَلِكَ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ صَلاَةً
+> تَامَّةً إنْكَشَفَ ذَلِكَ الطَّبَقُ عَنْ ذَلِكَ الْحُقِّ، فَأَضَاءَ
+> الْقَلْبَ وَذَكَرَ الرَّجُلُ مَا كَانَ نَسِيَ، فَإِنْ هُوَ لَمْ
+> يُصَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ أَوْ نَقَصَ مِنَ الصَّلاَةِ
+> عَلَيْهِمُ انْطَبَقَ ذَلِكَ الطَّبَقُ عَلَى ذَلِكَ الْحُقِّ فَأَظْلَمَ
+> الْقَلْبُ.
 
 *Regarding what you have asked about remembering and forgetting, there
 is an area in man’s heart over which there is a plate. When a person
@@ -1633,25 +1469,21 @@ as saying:
 > يَرْضَ مِنْهُ بِالْقَلِيلِ وَلَمْ يَجْعَلْ لَهُ حَدّاً يَنْتَهِي
 > إِلَيْهِ: " يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا
 > كَثِيرًا (41) وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا (42)" لَمْ يَجْعَلِ
-<blockquote dir="rtl">
-  <p>
-اللهُ عَزَّ وَجَلَّ لَهُ حَدّاً يَنْتَهِي إِلَيْهِ. وَكَانَ أَبِي
-عَلَيْهِ السَّلاَمُ كَثِيرَ الذِّكْرِ. لَقَدْ كُنْتُ أَمْشِي مَعَهُ
-وَإِنَّهُ لَيَذْكُرُ اللهَ، وَآكُلُ مَعَهُ الطَّعَامَ وَإِنَّهُ
-لَيَذْكُرُ اللهَ، وَلَقَدْ كَانَ يُحَدِّثُ الْقَوْمَ وَمَا يَشْغَلُهُ
-ذَلِكَ عَنْ ذِكْرِ اللهِ، وَكُنْتُ أَرَى لِسَانَهُ لاَزِقاً بِحَنَكِهِ
-يَقُولُ: لاَ إِلَهَ إِلاَّ اللهُ، وَكَانَ يَجْمَعُنَا فَيَأْمُرُنَا
-بِالذِّكْرِ حَتَّى تَطْلُعَ الشَّمْسُ، وَيَأْمُرُ بِالْقِرَاءَةِ مَنْ
-كَانَ يَقْرَأُ مِنَّا، وَمَنْ كَانَ لاَ يَقْرَأُ مِنَّا أَمَرَهُ
-بِالذِّكْرِ. وَالْبَيْتُ الَّذِي يُقْرَأُ فِيهِ الْقُرْآنُ وَيُذْكَرُ
-اللهُ عَزَّ وَجَلَّ فِيهِ تَكْثُرُ بَرَكَتُهُ وَتَحْضُرُهُ
-الْمَلاَئِكَةُ وَتَهْجُرُهُ الشَّيَاطِينُ وَيُضِيءُ لأَِهْلِ
-السَّمَاءِ كَمَا يُضِيءُ الْكَوْكَبُ الدُّرِّيُّ لأَِهْلِ الأَرْضِ،
-وَإِنَّ الْبَيْتَ الَّذِي لاَ يُقْرَأُ فِيهِ الْقُرْآنُ وَلاَ يُذْكَرُ
-اللهُ عَزَّ وَجَلَّ فِيهِ تَقِلُّ بَرَكَتُهُ وَتَهْجُرُهُ
-الْمَلاَئِكَةُ وَتَحْضُرُهُ الشَّيَاطِينُ.
-  </p>
-</blockquote>
+> اللهُ عَزَّ وَجَلَّ لَهُ حَدّاً يَنْتَهِي إِلَيْهِ. وَكَانَ أَبِي
+> عَلَيْهِ السَّلاَمُ كَثِيرَ الذِّكْرِ. لَقَدْ كُنْتُ أَمْشِي مَعَهُ
+> وَإِنَّهُ لَيَذْكُرُ اللهَ، وَآكُلُ مَعَهُ الطَّعَامَ وَإِنَّهُ
+> لَيَذْكُرُ اللهَ، وَلَقَدْ كَانَ يُحَدِّثُ الْقَوْمَ وَمَا يَشْغَلُهُ
+> ذَلِكَ عَنْ ذِكْرِ اللهِ، وَكُنْتُ أَرَى لِسَانَهُ لاَزِقاً بِحَنَكِهِ
+> يَقُولُ: لاَ إِلَهَ إِلاَّ اللهُ، وَكَانَ يَجْمَعُنَا فَيَأْمُرُنَا
+> بِالذِّكْرِ حَتَّى تَطْلُعَ الشَّمْسُ، وَيَأْمُرُ بِالْقِرَاءَةِ مَنْ
+> كَانَ يَقْرَأُ مِنَّا، وَمَنْ كَانَ لاَ يَقْرَأُ مِنَّا أَمَرَهُ
+> بِالذِّكْرِ. وَالْبَيْتُ الَّذِي يُقْرَأُ فِيهِ الْقُرْآنُ وَيُذْكَرُ
+> اللهُ عَزَّ وَجَلَّ فِيهِ تَكْثُرُ بَرَكَتُهُ وَتَحْضُرُهُ
+> الْمَلاَئِكَةُ وَتَهْجُرُهُ الشَّيَاطِينُ وَيُضِيءُ لأَِهْلِ
+> السَّمَاءِ كَمَا يُضِيءُ الْكَوْكَبُ الدُّرِّيُّ لأَِهْلِ الأَرْضِ،
+> وَإِنَّ الْبَيْتَ الَّذِي لاَ يُقْرَأُ فِيهِ الْقُرْآنُ وَلاَ يُذْكَرُ
+> اللهُ عَزَّ وَجَلَّ فِيهِ تَقِلُّ بَرَكَتُهُ وَتَهْجُرُهُ
+> الْمَلاَئِكَةُ وَتَحْضُرُهُ الشَّيَاطِينُ.
 
 *All things entirely have limits at which they eventually arrive, except
 remembering Allah (i.e. dhikr), which is the one and only thing that has
@@ -1710,15 +1542,11 @@ In this regard, Muhammad ibn Yusuf has reported that Muhammad ibn Ja’far
 authority of his fathers on the authority of the Messenger of Allah (S)
 who said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ تَظَاهَرَتْ عَلَيْهِ النِّعَمُ فَلْيَقُلِ الْحَمْدُ للهِ رَبِّ
-الْعَالَمِينَ. وَمَنْ أَلَحَّ عَلَيْهِ الْفَقْرُ فَلْيُكْثِرْ مِنْ
-قَوْلِ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ الْعَلِيِّ الْعَظِيمِ;
-فَإِنَّهُ كَنْزٌ مِنْ كُنُوزِ الْجَنَّةِ وَفِيهِ الشِّفَاءُ مِنِ
-اثْنَيْنِ وَسَبْعِينَ دَاءً أَدْنَاهَا الْهَمُّ.
-  </p>
-</blockquote>
+> مَنْ تَظَاهَرَتْ عَلَيْهِ النِّعَمُ فَلْيَقُلِ الْحَمْدُ للهِ رَبِّ
+> الْعَالَمِينَ. وَمَنْ أَلَحَّ عَلَيْهِ الْفَقْرُ فَلْيُكْثِرْ مِنْ
+> قَوْلِ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ الْعَلِيِّ الْعَظِيمِ;
+> فَإِنَّهُ كَنْزٌ مِنْ كُنُوزِ الْجَنَّةِ وَفِيهِ الشِّفَاءُ مِنِ
+> اثْنَيْنِ وَسَبْعِينَ دَاءً أَدْنَاهَا الْهَمُّ.
 
 *Whoever is showered with graces should say alhamdu lillahi
 rabbi’l-’alamin (all praise is due to Allah, Lord of the Worlds). But
@@ -1740,16 +1568,12 @@ recite something from the Holy Qur'an. No sooner did I recite the first
 verse of a chapter than Imam al-Sadiq (‘a) was moved and he started
 weeping. He then said to me:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا أُسَامَةَ، إِرْعَوْا قُلُوبَكُمْ بِذِكْرِ اللهِ عَزَّ
-وَجَلَّ وَاحْذَرُوا النُّكَتَ; فَإِنَّهُ يَأْتِي عَلَى الْقَلْبِ
-تَارَاتٌ أَوْ َساعَاتُ الشَّكِّ مِنْ صَبَاحٍ لَيْسَ فِيهِ إِيمَانٌ
-وَلاَ كُفْرٌ شِبْهُ الْخِرْقَةِ الْبَالِيَةِ أَوِ الْعَظُمِ النَّخِرِ.
-يَا أَبَا أُسَامَةَ، أَلَيْسَ رُبَّمَا تَفَقَّدْتَ قَلْبَكَ فَلاَ
-تَذْكُرُ بِهِ خَيْراً وَلاَ شَرّاً وَلاَ تَدْرِي أَيْنَ هُوَ؟
-  </p>
-</blockquote>
+> يَا أَبَا أُسَامَةَ، إِرْعَوْا قُلُوبَكُمْ بِذِكْرِ اللهِ عَزَّ
+> وَجَلَّ وَاحْذَرُوا النُّكَتَ; فَإِنَّهُ يَأْتِي عَلَى الْقَلْبِ
+> تَارَاتٌ أَوْ َساعَاتُ الشَّكِّ مِنْ صَبَاحٍ لَيْسَ فِيهِ إِيمَانٌ
+> وَلاَ كُفْرٌ شِبْهُ الْخِرْقَةِ الْبَالِيَةِ أَوِ الْعَظُمِ النَّخِرِ.
+> يَا أَبَا أُسَامَةَ، أَلَيْسَ رُبَّمَا تَفَقَّدْتَ قَلْبَكَ فَلاَ
+> تَذْكُرُ بِهِ خَيْراً وَلاَ شَرّاً وَلاَ تَدْرِي أَيْنَ هُوَ؟
 
 *O Abu-Usamah, take care of your heart (against negligence and oblivion)
 and beware lest corruption attack it. A heart may be attacked at certain
@@ -1764,14 +1588,10 @@ happens to all people,” answered Abu-Usamah.
 
 The Imam (‘a) commented:
 
-<blockquote dir="rtl">
-  <p>
-أَجَلْ! لَيْسَ يَعْرَى مِنْهُ أَحَدٌ. فَإِذَا كَانَ ذَلِكَ فَاذْكُرُوا
-اللهَ عَزَّ وَجَلَّ وَاحْذَرُوا النُّكَتَ; فَإِنَّهُ إِذَا أَرَادَ
-بِعَبْدٍ خَيْراً نَكَتَ إِيمَاناً وَإِذَا أَرَادَ بِهِ غَيْرَ ذَلِكَ
-نَكَتَ غَيْرَ ذَلِكَ.
-  </p>
-</blockquote>
+> أَجَلْ! لَيْسَ يَعْرَى مِنْهُ أَحَدٌ. فَإِذَا كَانَ ذَلِكَ فَاذْكُرُوا
+> اللهَ عَزَّ وَجَلَّ وَاحْذَرُوا النُّكَتَ; فَإِنَّهُ إِذَا أَرَادَ
+> بِعَبْدٍ خَيْراً نَكَتَ إِيمَاناً وَإِذَا أَرَادَ بِهِ غَيْرَ ذَلِكَ
+> نَكَتَ غَيْرَ ذَلِكَ.
 
 *Yes, it does. No one is spared from this feeling. If this happens to
 you, you should remember Almighty Allah and beware lest corruptive
@@ -1784,11 +1604,7 @@ you—mean by something else?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أَرَادَ كُفْراً نَكَتَ كُفْراً.
-  </p>
-</blockquote>
+> إِذَا أَرَادَ كُفْراً نَكَتَ كُفْراً.
 
 *He may cast unfaith if He intends it.*[^73]
 
@@ -1806,23 +1622,15 @@ It is highly recommended to mention Almighty Allah upon leaving a
 meeting and concluding a lecture or a discourse with one of the
 following statements:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ, وَسَلَامٌ عَلَى
-الْمُرْسَلِينَ, وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ, وَسَلَامٌ عَلَى
+> الْمُرْسَلِينَ, وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.
 
 *Glory be to you Lord, the Lord of Honor, above what they describe.
 Peace be on the messengers. All praise is due to Allah, the Lord of the
 worlds.*
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، لاَ إِلَهَ إِلاَّ أَنْتَ،
-أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ.
-  </p>
-</blockquote>
+> سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، لاَ إِلَهَ إِلاَّ أَنْتَ،
+> أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ.
 
 All glory be to You, O Allah, and in praise of You. There is no god save
 You. I implore Your forgiveness and turn to You repentant.
@@ -1836,13 +1644,9 @@ Almighty Allah and thank Him for granting you perfection in your
 creation and good looks. The Holy Prophet (S) said the following
 statement whenever he looked in the mirror:
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للهِ الَّذِي أَكْمَلَ خَلْقِي وَأَحْسَنَ صُورَتِي وَزَانَ
-مِنِّي مَا شَانَ مِنْ غَيْرِي، وَهَدَانِي لِلإِسْلاَمِ وَمَنَّ عَلَيَّ
-بِالنُّبُوَّةِ.
-  </p>
-</blockquote>
+> الْحَمْدُ للهِ الَّذِي أَكْمَلَ خَلْقِي وَأَحْسَنَ صُورَتِي وَزَانَ
+> مِنِّي مَا شَانَ مِنْ غَيْرِي، وَهَدَانِي لِلإِسْلاَمِ وَمَنَّ عَلَيَّ
+> بِالنُّبُوَّةِ.
 
 *All praise is due to Allah Who has granted perfection in my creation,
 made goodly my form, given me perfect things that others have imperfect,
@@ -1853,11 +1657,7 @@ overtly and covertly.
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-شِيعَتُنَا الَّذِينَ إِذَا خَلَوْا ذَكَرُوا اللهَ كَثِيراً.
-  </p>
-</blockquote>
+> شِيعَتُنَا الَّذِينَ إِذَا خَلَوْا ذَكَرُوا اللهَ كَثِيراً.
 
 *Our true partisans (i.e. Shi’ah) are those who mention Allah frequently
 in private.*[^78]
@@ -1865,14 +1665,10 @@ in private.*[^78]
 The following saying of Imam al-Sadiq (‘a) is recorded in the book of
 *al-Mahasin*:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ اللهُ تَعَالَى: إِبْنَ آدَمَ، إِذْكُرْنِي فِي نَفْسِكَ
-أَذْكُرْكَ فِي نَفْسِي. إِبْنَ آدَمَ، إِذْكُرْنِي فِي خَلاَءٍ
-أَذْكُرْكَ فِي خَلاَءٍ. إِبْنَ آدَمَ، إِذْكُرْنِي فِي مَلإٍ أَذْكُرْكَ
-فِي مَلإٍ خَيْرٍ مِنْ مَلإِكَ.
-  </p>
-</blockquote>
+> قَالَ اللهُ تَعَالَى: إِبْنَ آدَمَ، إِذْكُرْنِي فِي نَفْسِكَ
+> أَذْكُرْكَ فِي نَفْسِي. إِبْنَ آدَمَ، إِذْكُرْنِي فِي خَلاَءٍ
+> أَذْكُرْكَ فِي خَلاَءٍ. إِبْنَ آدَمَ، إِذْكُرْنِي فِي مَلإٍ أَذْكُرْكَ
+> فِي مَلإٍ خَيْرٍ مِنْ مَلإِكَ.
 
 *Allah, the Exalted, says, “O son of Adam, if you remember Me in
 private, I will remember you in private. O son of Adam, if you remember
@@ -1880,12 +1676,8 @@ Me confidentially, I will remember you confidentially.* *O son of Adam,
 if you remember Me in the presence of a company, I will remember you in
 the presence of a company better than yours.”*
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ عَبْدٍ يَذْكُرُ اللهَ فِي مَلإٍ مِنَ النَّاسِ إِلاَّ ذَكَرَهُ
-اللهُ فِي مَلإٍ مِنَ الْمَلاَئِكَةَ.
-  </p>
-</blockquote>
+> مَا مِنْ عَبْدٍ يَذْكُرُ اللهَ فِي مَلإٍ مِنَ النَّاسِ إِلاَّ ذَكَرَهُ
+> اللهُ فِي مَلإٍ مِنَ الْمَلاَئِكَةَ.
 
 *No servant remembers Allah in the company of others but that Allah will
 remember him in a company of angels.*[^79]
@@ -1969,18 +1761,14 @@ sessions have been described as rich gardens of Paradise.
 
 Advising his son, Luqman the wise said:
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ، إِخْتَرِ الْمَجَالِسَ عَلَى عَيْنِكَ، فَإِنْ رَأَيْتَ
-قَوْماً يَذْكُرُونَ اللهَ جَلَّ وَعَزَّ فَاجْلِسْ مَعَهُمْ؛ فَإِنْ
-تَكُنْ عَالِماً يَزِيدُونَكَ عِلْماً، وَإِنْ تَكُنْ جَاهِلاً
-عَلَّمُوكَ، وَلَعَلَّ اللهَ أَنْ يُظِلَّهُمْ بِرَحْمَتِهِ فَيَعُمَّكَ
-مَعَهُمْ. وَإِذَا رَأَيْتَ قَوْماً لاَ يَذْكُرُونَ اللهَ عَزَّ وَجَلَّ
-فَلاَ تَجْلِسْ مَعَهُمْ؛ فَإِنْ تَكُنْ عَالِماً لَمْ يَنْفَعْكَ
-عِلْمُكَ، وَإِنْ كُنْتَ جَاهِلاً يَزِيدُوكَ جَهْلاً، وَلَعَلَّ اللهَ
-أَنْ يُظِلَّهُمْ بِعُقُوبَةٍ فَيَعُمَّكَ مَعَهُمْ.
-  </p>
-</blockquote>
+> يَا بُنَيَّ، إِخْتَرِ الْمَجَالِسَ عَلَى عَيْنِكَ، فَإِنْ رَأَيْتَ
+> قَوْماً يَذْكُرُونَ اللهَ جَلَّ وَعَزَّ فَاجْلِسْ مَعَهُمْ؛ فَإِنْ
+> تَكُنْ عَالِماً يَزِيدُونَكَ عِلْماً، وَإِنْ تَكُنْ جَاهِلاً
+> عَلَّمُوكَ، وَلَعَلَّ اللهَ أَنْ يُظِلَّهُمْ بِرَحْمَتِهِ فَيَعُمَّكَ
+> مَعَهُمْ. وَإِذَا رَأَيْتَ قَوْماً لاَ يَذْكُرُونَ اللهَ عَزَّ وَجَلَّ
+> فَلاَ تَجْلِسْ مَعَهُمْ؛ فَإِنْ تَكُنْ عَالِماً لَمْ يَنْفَعْكَ
+> عِلْمُكَ، وَإِنْ كُنْتَ جَاهِلاً يَزِيدُوكَ جَهْلاً، وَلَعَلَّ اللهَ
+> أَنْ يُظِلَّهُمْ بِعُقُوبَةٍ فَيَعُمَّكَ مَعَهُمْ.
 
 *O son, investigate the meetings that you want to join. If you find some
 people remembering Almighty Allah, then sit with them because they will
@@ -2239,5 +2027,4 @@ H. 1 & 2.
 [^84]: - Sayyid al-Borujerdi, Jami\` Ahadith al-Shi\`ah 15:433, S. 26.
 
 [^85]: - Sayyid al-Borujerdi, Jami\` Ahadith al-Shi\`ah 15:457, S. 29.
-
 

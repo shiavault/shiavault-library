@@ -272,4 +272,3 @@ The Prophet Muhammad said to his cousin Ali:
 ***“Thy position from me compares to the position of Aaron from Moses,
 but there will be no prophet after me. ”***
 
-

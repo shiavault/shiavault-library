@@ -1025,4 +1025,3 @@ of Allah and opposing the Sunnah of the Prophet. see Tabari, Ta'rikh,
 [^19]: Al-Mirza Muhammad Husayn al-Na'ini, Tanbih al-Umma wa Tanzih
 al-Milla, Tehran, 1955, p 15.
 
-

@@ -24,13 +24,9 @@ following examples:
 
 In Suratul Araf (7), verse 35, Allah (awj) says:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَــنِي آدَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّونَ
-عَلَيْكُمْ آيَاتِي فَمَنِ اتَّــقَى وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ
-وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> يَا بَــنِي آدَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّونَ
+> عَلَيْكُمْ آيَاتِي فَمَنِ اتَّــقَى وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ
+> وَلاَ هُمْ يَحْزَنُونَ
 
 ***“O children of Adam! If there come to you Messengers from among
 yourselves, relating My communications to you, then whoever shall guard
@@ -46,13 +42,9 @@ of the Qur\`an, it is stated that Prophet Muhammad (‘s) is the final and
 seal of all the prophets (and none shall come after him) just as we
 read:
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّنْ رِجَالِكُمْ وَلٌكِنْ رَّسُولَ
-اللٌّهِ وَخَاتَمَ النَّـبِـيِّـينَ وَكَانَ اللٌّهُ بِكُلِّ شَيْءٍ
-عَلِيماً
-  </p>
-</blockquote>
+> مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّنْ رِجَالِكُمْ وَلٌكِنْ رَّسُولَ
+> اللٌّهِ وَخَاتَمَ النَّـبِـيِّـينَ وَكَانَ اللٌّهُ بِكُلِّ شَيْءٍ
+> عَلِيماً
 
 ***“Muhammad is not the father of any of your men, but he is the
 Messenger of Allah and the last (and seal) of*** ***the prophets, and
@@ -80,12 +72,8 @@ There is no doubt that after Adam (‘a) settled down on Earth, countless
 prophets came from Allah (awj) to guide mankind and all of their
 missions were one and the same:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنِ اتَّقَـى وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
-يَحْزَنُونَ
-  </p>
-</blockquote>
+> فَمَنِ اتَّقَـى وَأَصْلَحَ فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
+> يَحْزَنُونَ
 
 ***“…then whoever shall guard (against evil) and act aright, they shall
 have no fear nor shall they grieve.”***
@@ -108,30 +96,18 @@ are directly addressing the (actual) children of Adam (‘a) as is seen
 when they are directly spoken to three times by the phrase, “O’ Children
 of Adam!” (يا بني آدم) as can be seen in the verses below:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَـنِي آدَمَ قَدْ أَنْزَلْـنَا عَلَيْكُمْ لِـبَاساً...
-  </p>
-</blockquote>
+> يَا بَـنِي آدَمَ قَدْ أَنْزَلْـنَا عَلَيْكُمْ لِـبَاساً...
 
 ***“O’ Children of Adam! Surely we have sent down to you
 clothing…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-يَا بَـنِي آدَمَ لاَ يَفْتِــنَـنَّكُمُ الشَّـيْطَانُ كَمَا أَخْرَجَ
-أَبَوَيْكُمْ...
-  </p>
-</blockquote>
+> يَا بَـنِي آدَمَ لاَ يَفْتِــنَـنَّكُمُ الشَّـيْطَانُ كَمَا أَخْرَجَ
+> أَبَوَيْكُمْ...
 
 ***“O’ Children of Adam! Do not let Satan test you as He ousted your
 parents…”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-يَا بَـنِي آدَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنْكُمْ...
-  </p>
-</blockquote>
+> يَا بَـنِي آدَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنْكُمْ...
 
  ***“O’ Children of Adam!*** ***If there come to you Messengers from
 among yourselves…”***[^5]
@@ -140,12 +116,8 @@ In another instance in which the Qur\`an speaks about the beginning of
 creation, we see the same wordings being used, such as in the following
 example:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَـنِي آدَمَ أَنْ لاَّ تَعْبُدُوا
-الشَّيْطَانَ...
-  </p>
-</blockquote>
+> أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَـنِي آدَمَ أَنْ لاَّ تَعْبُدُوا
+> الشَّيْطَانَ...
 
 ***“Did I not take a covenant from you, O children of Adam that you
 should not serve Satan?”***[^6]
@@ -214,22 +186,18 @@ Nevertheless, at this point, in order for this issue to be
 understandable for the readers, we bring forth these verses of the
 Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ طَلَّقْـتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ وَقَدْ
-فَرَضْـتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْـتُمْ إِلاَّ أَنْ
-يَّعْفُونَ أَوْ يَعْفُوَ الَّذِي بِـيَدِهِ عُقْدَةُ النِّكَاحِ وَأَنْ
-تَعْفُوا أَقْــرَبُ لِلتَّقْوَى وَلاَ تَـنْسَوُا الْفَضْلَ بَيْـنَكُمْ
-إِنَّ اللٌّهَ بِمَا تَعْمَلُونَ بَــصِيرٌ ٭ حَافِظُوا عَلَى
-الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَقُومُوا لِلٌّهِ قَانِـتِينَ ٭
-فَإِنْ خِـفْـتُمْ فَرِجَالاً أَوْ رُكْبَاناً فَإِذَا أَمِـنْـتُمْ
-فَاذْكُرُوا اللٌّهَ كَمَا عَلَّمَكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ ٭
-وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجاً
-وَّصِيَّةًلّأَزْوَاجِهِمْ مَّـتَاعاً إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ
-فَإِنْ خَرَجْنَ فَلاَ جُــنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِي
-أَنْـفُسِهِنَّ مِنْ مَّعْرُوفٍ وَاللٌّهُ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> وَإِنْ طَلَّقْـتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ وَقَدْ
+> فَرَضْـتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْـتُمْ إِلاَّ أَنْ
+> يَّعْفُونَ أَوْ يَعْفُوَ الَّذِي بِـيَدِهِ عُقْدَةُ النِّكَاحِ وَأَنْ
+> تَعْفُوا أَقْــرَبُ لِلتَّقْوَى وَلاَ تَـنْسَوُا الْفَضْلَ بَيْـنَكُمْ
+> إِنَّ اللٌّهَ بِمَا تَعْمَلُونَ بَــصِيرٌ ٭ حَافِظُوا عَلَى
+> الصَّلَوَاتِ وَالصَّلاَةِ الْوُسْطَى وَقُومُوا لِلٌّهِ قَانِـتِينَ ٭
+> فَإِنْ خِـفْـتُمْ فَرِجَالاً أَوْ رُكْبَاناً فَإِذَا أَمِـنْـتُمْ
+> فَاذْكُرُوا اللٌّهَ كَمَا عَلَّمَكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ ٭
+> وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجاً
+> وَّصِيَّةًلّأَزْوَاجِهِمْ مَّـتَاعاً إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ
+> فَإِنْ خَرَجْنَ فَلاَ جُــنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِي
+> أَنْـفُسِهِنَّ مِنْ مَّعْرُوفٍ وَاللٌّهُ عَزِيزٌ حَكِيمٌ
 
 ***“And if you divorce them (women) before you have touched them (had
 sexual relations with them) and you have appointed for them a portion
@@ -267,12 +235,8 @@ a. In Suratul Ahzab (33), from verses 28 to 35, the Qur\`an discusses
 the wives of the Noble Prophet of Islam (‘s). However in verse 33, we
 see the following sentence:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللٌّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللٌّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***“Surely Allah wishes to remove all forms of impurity from you, Ahlul
 Bayt, and to purify you with a thorough purification.”***[^8]
@@ -302,12 +266,8 @@ b. In Suratul Ma\`idah (5), from verses 1 to 5, the Qur\`an speaks in a
 particular way about meat and other issues regarding food. However in
 the middle of the third verse, we read:
 
-<blockquote dir="rtl">
-  <p>
-أَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً
-  </p>
-</blockquote>
+> أَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً
 
 ***“On this day, I have perfected your religion for you and have
 completed My bounties upon you and have been pleased to choose Islam as
@@ -365,5 +325,4 @@ for a specific group of people who were clearly identified by the Noble
 Prophet of Islam (‘s).
 
 [^10]: Suratul Ma\`idah (5), Verse 3
-
 

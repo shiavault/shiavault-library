@@ -214,7 +214,6 @@ cit., 189, citing Ibn Abi Tayy.
 10. Kitab al-Irshad (ed. Al-Mayamawi) edition reproduced with
 additional notes by al-Akhundi, Teheran, A.H.1377.
 
-
 **Islam and the Question of Violence**
 
 Seyyed Hossein Nasr Vol. XIII, No. 2 Despite the presence of violence
@@ -353,5 +352,4 @@ surrender (taslim) comes peace (salam), hence islam, and only through
 this islam can the violence inbred within the nature of fallen man be
 controlled and the beast within subdued so that man lives at peace with
 himself and the world because he lives at peace with God.
-
 

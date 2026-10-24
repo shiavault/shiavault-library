@@ -251,7 +251,6 @@ However, when other people, taller or shorter would try it would be
 taller on them by a hand stretch of thump and pinkeye. He is a Muhaddath
 (the one spoken to by angels) up to the time of his passing away."
 
-
 **Chapter 94 : The Creation of the bodies, spirits and the Hearts of
 the Imam (a.s.) H 1010, Ch. 94, h 1**
 
@@ -333,5 +332,4 @@ Then he recited this verse of the Holy Quran.
 "Let them know that the records of the sinner's deeds are in Sij4 n
 (83:7).Would that you knew what Sij4 n is!? (83:8). It is a
 comprehensively written Book (of records)." (83:9)."
-
 

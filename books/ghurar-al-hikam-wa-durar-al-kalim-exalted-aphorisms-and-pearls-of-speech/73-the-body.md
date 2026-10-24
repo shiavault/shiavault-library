@@ -8,11 +8,7 @@ desires and what it covets, but in [all] this is the destruction of the
 soul.
 
 > 1ـ خِدْمَةُ الجَسَدِ إعْطاؤُهُ ما يَسْتَدْعيهِ مِنَ المَلاذِّ
-<blockquote dir="rtl">
-  <p>
-والشَّهَواتِ والمُقْتَنَياتِ وَفي ذلِكَ هِلاكُ النَّفسِ.
-  </p>
-</blockquote>
+> والشَّهَواتِ والمُقْتَنَياتِ وَفي ذلِكَ هِلاكُ النَّفسِ.
 
 2. Physical health is one of the most wholesome bounties.
 
@@ -22,5 +18,4 @@ soul.
 malady?
 
 > 3ـ كَيفَ يُغْتَرُّ بِسَلامَةِ جِسْم مُعَرَّض للآفاتِ.
-
 

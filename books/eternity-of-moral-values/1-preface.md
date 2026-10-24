@@ -117,4 +117,3 @@ later case, using the term \`reason' for practical reason is equivocal,
 that is, practical reason is not reason in the sense of a cognitive
 faculty.
 
-

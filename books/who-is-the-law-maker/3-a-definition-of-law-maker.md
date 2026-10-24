@@ -1,15 +1,11 @@
 A Definition of Law Maker
 =========================
 
-<blockquote dir="rtl">
-  <p>
-“مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا
-أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ
-الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ
-ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا
-يَعْلَمُونَ “
-  </p>
-</blockquote>
+> “مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا
+> أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ
+> الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ
+> ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا
+> يَعْلَمُونَ “
 
 ***[12:40] You do not serve besides Him but names which you have named,
 you and your fathers; Allah has not sent down any authority for them;
@@ -17,15 +13,11 @@ judgment is only Allah's; He has commanded that you shall not serve
 aught but Him; this is the right religion but most people do not
 know:***
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
-النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
-مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ
-اللَّهُ رَبُّ الْعَالَمِينَ “
-  </p>
-</blockquote>
+> “إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
+> النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
+> مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ
+> اللَّهُ رَبُّ الْعَالَمِينَ “
 
 ***[7:54] Surely your Lord is Allah, Who created the heavens and the
 earth in six periods of time, and He is firm in power; He throws the
@@ -91,15 +83,11 @@ idea of man's need to be governed by a natural order. This is obvious in
 the call of the Qur'an and in its address to man, as is shown in this
 verse:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
-النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
-مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ
-اللَّهُ رَبُّ الْعَالَمِينَ “
-  </p>
-</blockquote>
+> “إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
+> النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
+> مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ
+> اللَّهُ رَبُّ الْعَالَمِينَ “
 
 ***[7:54] Surely your Lord is Allah, Who created the heavens and the
 earth in six periods of time, and He is firm in power; He throws the
@@ -123,25 +111,17 @@ decline and decay.
 The Qur'an refers to this - Genesis - Legislation' relationship in an
 explicit expression:
 
-<blockquote dir="rtl">
-  <p>
-…”ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ
-الْعَالَمِينَ “
-  </p>
-</blockquote>
+> …”ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ
+> الْعَالَمِينَ “
 
 ***[07:54] ...surely His is the creation and the command; blessed is
 Allah, the Lord of the worlds.***
 
-<blockquote dir="rtl">
-  <p>
-“مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا
-أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ
-الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ
-ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا
-يَعْلَمُونَ “
-  </p>
-</blockquote>
+> “مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا
+> أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ
+> الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ
+> ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا
+> يَعْلَمُونَ “
 
 ***[12:40] You do not serve besides Him but names which you have named,
 you and your fathers; Allah has not sent down any authority for them;
@@ -176,12 +156,8 @@ a form of worship, submission and surrender to other than Allah[^2].
 That is why the glorious Qur'an draws our attention towards this grave
 conclusion and firmly rebukes man from committing this error.
 
-<blockquote dir="rtl">
-  <p>
-”إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا
-إِيَّاهُ ۚ”
-  </p>
-</blockquote>
+> ”إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا
+> إِيَّاهُ ۚ”
 
 ***[12:40] …judgment is only Allah's; He has commanded that you shall
 not serve aught but Him…***
@@ -191,14 +167,10 @@ Laws and Just system, and submitted to the desires of the rabbis and the
 priests, who coined their own laws and rules contrary to the Divine
 Command. The Qur'an refers to them as follows:
 
-<blockquote dir="rtl">
-  <p>
-“اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ
-اللَّهِ وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا
-إِلَٰهًا وَاحِدًا ۖ لَا إِلَٰهَ إِلَّا هُوَ ۚ سُبْحَانَهُ عَمَّا
-يُشْرِكُونَ “
-  </p>
-</blockquote>
+> “اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ
+> اللَّهِ وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا
+> إِلَٰهًا وَاحِدًا ۖ لَا إِلَٰهَ إِلَّا هُوَ ۚ سُبْحَانَهُ عَمَّا
+> يُشْرِكُونَ “
 
 ***[ 9:31] They have taken their doctors of law and their monks for
 lords besides Allah, and (also) the Messiah son of Marium and they were
@@ -226,27 +198,19 @@ who legislate and make abnormal laws, distorting Divine Justice and
 Allah's Will, are called tyrants and idol worshippers as the Qur'anic
 texts say:
 
-<blockquote dir="rtl">
-  <p>
-“وَلْيَحْكُمْ أَهْلُ الْإِنْجِيلِ بِمَا أَنْزَلَ اللَّهُ فِيهِ ۚ
-وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ
-الْفَاسِقُونَ “
-  </p>
-</blockquote>
+> “وَلْيَحْكُمْ أَهْلُ الْإِنْجِيلِ بِمَا أَنْزَلَ اللَّهُ فِيهِ ۚ
+> وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ
+> الْفَاسِقُونَ “
 
 ***[5:47] And the followers of the Injeel should have judged by what
 Allah revealed in it; and whoever did not judge by what Allah revealed,
 those are they that are the transgressors.***
 
-<blockquote dir="rtl">
-  <p>
-“وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ
-بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ
-بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ
-كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ
-فَأُولَٰئِكَ هُمُ الظَّالِمُونَ “
-  </p>
-</blockquote>
+> “وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ
+> بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ
+> بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ
+> كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ
+> فَأُولَٰئِكَ هُمُ الظَّالِمُونَ “
 
 ***[5:45] And We prescribed to them in it that life is for life, and eye
 for eye, and nose for nose, and ear for ear, and tooth for tooth, and
@@ -254,16 +218,12 @@ for eye, and nose for nose, and ear for ear, and tooth for tooth, and
 an expiation for him; and whoever did not judge by what Allah revealed,
 those are they that are the unjust.***
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا
-النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا
-وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ
-اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ
-وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ
-يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ “
-  </p>
-</blockquote>
+> “إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا
+> النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا
+> وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ
+> اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ
+> وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ
+> يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ “
 
 ***[5:44] Surely We revealed the Taurat in which was guidance and light;
 with it the prophets who submitted themselves (to Allah) judged
@@ -274,25 +234,17 @@ and fear Me, and do not take a small price for My communications; and
 whoever did not judge by what Allah revealed, those are they that are
 the unbelievers.***
 
-<blockquote dir="rtl">
-  <p>
-“أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ
-حُكْمًا لِقَوْمٍ يُوقِنُونَ “
-  </p>
-</blockquote>
+> “أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ
+> حُكْمًا لِقَوْمٍ يُوقِنُونَ “
 
 ***[5:50] Is it then the judgment of (the times of) ignorance that they
 desire? And who is better than Allah to judge for a people who are
 sure?***
 
-<blockquote dir="rtl">
-  <p>
-“أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا
-أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ
-يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ
-وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا “
-  </p>
-</blockquote>
+> “أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا
+> أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ
+> يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ
+> وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا “
 
 ***[4:60] Have you not seen those who assert that they believe in what
 has been revealed to you and what was revealed before you? They desire
@@ -313,5 +265,4 @@ should submit to Him alone.
 man's will. It actually means to have man's life and course planned and
 systematized, and at the same time, to enable his human will to choose
 and differentiate between vices and virtues.
-
 

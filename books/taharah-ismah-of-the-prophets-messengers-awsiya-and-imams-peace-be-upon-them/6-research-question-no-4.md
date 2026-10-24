@@ -88,4 +88,3 @@ verify that, then it is not appropriate nor is it our right to pose
 questions such as “How is this?” Except if we abandoned our minds and
 surrendered to what the foolish, silly, and ignorant minds say.
 
-

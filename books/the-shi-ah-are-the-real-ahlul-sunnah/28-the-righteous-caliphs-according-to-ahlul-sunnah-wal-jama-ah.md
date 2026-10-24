@@ -114,4 +114,3 @@ is a sign of iman (conviction), and hating him is a sign of hypocrisy,”
 and the hypocrites during the time of the Prophet used to be identified
 by their hatred towards Ali .
 
-

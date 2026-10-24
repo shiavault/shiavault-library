@@ -157,4 +157,3 @@ When the Prophet realized the man's uneasiness, he comforted him
 saying, "Brother, don't be afraid; relax and be at ease. I am not a
 great monarch or king. I am only a son of a lady who ate cured meat."
 
-

@@ -40,4 +40,3 @@ first printed in 1495, although there is a possibility that*Everyman* is
 the original, the Flemish play the translation. There are four surviving
 versions of*Everyman* , two of them fragmentary.
 
-

@@ -151,4 +151,3 @@ on “The One,” hadīth 100.
 
 [^10]: Sūrah al-Jumu'ah 62:5
 
-

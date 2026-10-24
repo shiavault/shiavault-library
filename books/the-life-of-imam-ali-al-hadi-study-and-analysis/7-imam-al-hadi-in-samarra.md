@@ -1491,4 +1491,3 @@ fruitful trees.
 
 [^59]: Al-Fakhri, p.222
 
-

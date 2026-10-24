@@ -243,4 +243,3 @@ or he washes only around the wound or over the bandage, etc.
 
 [^4]: Wasa'il, vol. 1, p. 515; also see p. 50
 
-

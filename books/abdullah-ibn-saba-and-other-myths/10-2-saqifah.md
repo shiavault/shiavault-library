@@ -1675,4 +1675,3 @@ defend Saif's stories under the name of Islam.
 
 [^1]: The tribes of Abubakr and ‘Omar.
 
-

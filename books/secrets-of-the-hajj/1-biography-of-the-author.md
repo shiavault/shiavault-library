@@ -35,4 +35,3 @@ the Muslims, many of his speeches have been compiled into books such as,
 Children, Commentary on Dua al‑Kumayl, Control of One's Sexual Urges,
 Ma\`ad (Resurrection) in the Qur'an,* and countless others.
 
-

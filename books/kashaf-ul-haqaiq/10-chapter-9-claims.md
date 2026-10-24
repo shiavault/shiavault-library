@@ -44,10 +44,8 @@ claimants in this world and no followers. And so, we first have to
 decide as to who has the right to make a claim. In order to eliminate
 this problem, Allah (s.w.t.) has given us the decision in this manner:
 
-<p dir="rtl">
 وَرَبُّكَ يَخْلُقُ مَا يَشَاء وَيَخْتَارُ مَا كَانَ لَهُمُ الْخِيَرَةُ
 سُبْحَانَ اللَّهِ وَتَعَالَى عَمَّا يُشْرِكُونَ
-</p>
 
 [Shakir 28:68] And your Lord creates and chooses whom He pleases; to
 choose is not theirs; glory be to Allah, and exalted be He above what
@@ -67,13 +65,11 @@ announcement of it.
 
 Let us now look at some verses.
 
-<p dir="rtl">
 وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَى عَلَىَ شَيْءٍ وَقَالَتِ
 النَّصَارَى لَيْسَتِ الْيَهُودُ عَلَى شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ
 كَذَلِكَ قَالَ الَّذِينَ لاَ يَعْلَمُونَ مِثْلَ قَوْلِهِمْ فَاللّهُ
 يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُواْ فِيهِ
 يَخْتَلِفُونَ
-</p>
 
 [Shakir 2:113] And the Jews say: The Christians do not follow anything
 (good) and the Christians say: The Jews do not follow anything (good)
@@ -81,13 +77,11 @@ while they recite the (same) Book. Even thus say those who have no
 knowledge, like to what they say; so Allah shall judge between them on
 the day of resurrection in what they differ.
 
-<p dir="rtl">
 لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
 الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا
 الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ
 اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ إِنَّ اللَّهَ قَوِيٌّ
 عَزِيزٌ
-</p>
 
 [Shakir 57:25] Certainly We sent Our messengers with clear arguments,
 and sent down with them the Book and the balance that men may conduct
@@ -99,22 +93,18 @@ This means that whenever Allah (s.w.t.) sent someone then it was
 accompanied with clear proofs and arguments. When someone was sent as a
 ‘Wali’ (Master) then:
 
-<p dir="rtl">
 إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
 يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-</p>
 
 [Shakir 5:55] Only Allah is your Vali and His Messenger and those who
 believe, those who keep up prayers and pay the poor-rate while they bow.
 
 And if He (s.w.t.) wanted someone to be obeyed then:
 
-<p dir="rtl">
 يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
 الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ
 فَرُدُّوهُ إِلَى اللّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللّهِ
 وَالْيَوْمِ الآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلاً
-</p>
 
 [Shakir 4:59] O you who believe! obey Allah and obey the Messenger and
 those in authority from among you; then if you quarrel about anything,
@@ -229,79 +219,63 @@ I shall show you from the Hadeeth what is meant by an Ayatullah. Firstly
 you should seek refuge in Allah (s.w.t.) from Satan the accursed, only
 then you should go through the Verses.
 
-<p dir="rtl">
 وَالَّذِينَ كَفَرواْ وَكَذَّبُواْ بِآيَاتِنَا أُولَـئِكَ أَصْحَابُ
 النَّارِ هُمْ فِيهَا خَالِدُونَ
-</p>
 
 [Shakir 2:39] And (as to) those who disbelieve in and reject My
 communications, they are the inmates of the fire, in it they shall
 abide.
 
-<p dir="rtl">
 وَبَآؤُوْاْ بِغَضَبٍ مِّنَ اللَّهِ ذَلِكَ بِأَنَّهُمْ كَانُواْ
 يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ
 الْحَقِّ ذَلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعْتَدُونَ
-</p>
 
 [Shakir 2:61] And abasement and humiliation were brought down upon them,
 and they became deserving of Allah's wrath; this was so because they
 disbelieved in the communications of Allah and killed the prophets
 unjustly; this was so because they disobeyed and exceeded the limits.
 
-<p dir="rtl">
 مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ إِنَّ الَّذِينَ
 كَفَرُواْ بِآيَاتِ اللّهِ لَهُمْ عَذَابٌ شَدِيدٌ وَاللّهُ عَزِيزٌ ذُو
 انتِقَامٍ
-</p>
 
 [Shakir 3:4] Surely they who disbelieve in the communications of Allah
 they shall have a severe chastisement; and Allah is Mighty, the Lord of
 retribution.
 
-<p dir="rtl">
 إِنَّ الَّذِينَ يَكْفُرُونَ بِآيَاتِ اللّهِ وَيَقْتُلُونَ النَّبِيِّينَ
 بِغَيْرِ حَقٍّ وَيَقْتُلُونَ الِّذِينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ
 النَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
-</p>
 
 [Shakir 3:21] Surely (as for) those who disbelieve in the communications
 of Allah and slay the prophets unjustly and slay those among men who
 enjoin justice, announce to them a painful chastisement.
 
-<p dir="rtl">
 أُولَـئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالآخِرَةِ
 وَمَا لَهُم مِّن نَّاصِرِينَ
-</p>
 
 [Shakir 3:22] Those are they whose works shall become null in this world
 as well as the hereafter, and they shall have no helpers
 
-<p dir="rtl">
 وَالَّذِينَ كَذَّبُواْ بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ مَن
 يَشَإِ اللّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَى صِرَاطٍ
 مُّسْتَقِيمٍ
-</p>
 
 [Shakir 6:39] And they who reject our communications are deaf and dumb,
 in utter darkness; whom Allah pleases He causes to err and whom He
 pleases He puts on the right way.
 
-<p dir="rtl">
 وَالَّذِينَ كَذَّبُواْ بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُواْ
 يَفْسُقُونَ
-</p>
 
 [Shakir 6:49] And (as for) those who reject Our communications,
 chastisement shall afflict them because they transgressed.
 
-<p dir="rtl">
 أَوْ تَقُولُواْ لَوْ أَنَّا أُنزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا
 أَهْدَى مِنْهُمْ فَقَدْ جَاءكُم بَيِّنَةٌ مِّن رَّبِّكُمْ وَهُدًى
 وَرَحْمَةٌ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِآيَاتِ اللّهِ وَصَدَفَ
 عَنْهَا سَنَجْزِي الَّذِينَ يَصْدِفُونَ عَنْ آيَاتِنَا سُوءَ الْعَذَابِ
 بِمَا كَانُواْ يَصْدِفُونَ
-</p>
 
 [Shakir 6:157] Or lest you should say: If the Book had been revealed to
 us, we would certainly have been better guided than they, so indeed
@@ -311,113 +285,89 @@ communications and turns away from them? We will reward those who turn
 away from our communications with an evil chastisement because they
 turned away.
 
-<p dir="rtl">
 إِنَّ الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَاسْتَكْبَرُواْ عَنْهَا لاَ
 تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاء وَلاَ يَدْخُلُونَ الْجَنَّةَ حَتَّى
 يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ وَكَذَلِكَ نَجْزِي الْمُجْرِمِينَ
-</p>
 
 [Shakir 7:40] Surely (as for) those who reject our communications and
 turn away from them haughtily, the doors of heaven shall not be opened
 for them, nor shall they enter the garden until the camel pass through
 the eye of the needle; and thus do We reward the guilty.
 
-<p dir="rtl">
 فَكَذَّبُوهُ فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ فِي الْفُلْكِ
 وَأَغْرَقْنَا الَّذِينَ كَذَّبُواْ بِآيَاتِنَا إِنَّهُمْ كَانُواْ
 قَوْماً عَمِينَ
-</p>
 
 [Shakir 7:64] But they called him a liar, so We delivered him and those
 with him in the ark, and We drowned those who rejected our
 communications; surely they were a blind people.
 
-<p dir="rtl">
 فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا دَابِرَ
 الَّذِينَ كَذَّبُواْ بِآيَاتِنَا وَمَا كَانُواْ مُؤْمِنِينَ
-</p>
 
 [Shakir 7:72] So We delivered him and those with him by mercy from Us,
 and We cut off the last of those who rejected our communications and
 were not believers.
 
-<p dir="rtl">
 وَإِذَا لَمْ تَأْتِهِم بِآيَةٍ قَالُواْ لَوْلاَ اجْتَبَيْتَهَا قُلْ
 إِنَّمَا أَتَّبِعُ مَا يِوحَى إِلَيَّ مِن رَّبِّي هَـذَا بَصَآئِرُ مِن
 رَّبِّكُمْ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُؤْمِنُونَ
-</p>
 
 [Shakir 7:203] And when you bring them not a revelation they say: Why do
 you not forge it? Say: I only follow what is revealed to me from my
 Lord; these are clear proofs from your Lord and a guidance and a mercy
 for a people who believe.
 
-<p dir="rtl">
 فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللّهِ كَذِبًا أَوْ كَذَّبَ
 بِآيَاتِهِ إِنَّهُ لاَ يُفْلِحُ الْمُجْرِمُونَ
-</p>
 
 [Shakir 10:17] Who is then more unjust than who forges a lie against
 Allah or (who) gives the lie to His communications? Surely the guilty
 shall not be successful.
 
-<p dir="rtl">
 وَتِلْكَ عَادٌ جَحَدُواْ بِآيَاتِ رَبِّهِمْ وَعَصَوْاْ رُسُلَهُ
 وَاتَّبَعُواْ أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ
-</p>
 
 [Shakir 11:59] And this was Ad; they denied the communications of their
 Lord, and disobeyed His messengers and followed the bidding of every
 insolent opposer (of truth).
 
-<p dir="rtl">
 وَأُتْبِعُواْ فِي هَـذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ أَلا
 إِنَّ عَادًا كَفَرُواْ رَبَّهُمْ أَلاَ بُعْدًا لِّعَادٍ قَوْمِ هُودٍ
-</p>
 
 [Shakir 11:60] And they were overtaken by curse in this world and on the
 resurrection day; now surely Ad disbelieved in their Lord; now surely,
 away with Ad, the people of Hud.
 
-<p dir="rtl">
 قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنتُ بَصِيرًا
-</p>
 
 [Shakir 20:125] He shall say: My Lord! Why hast Thou raised me blind and
 I was a seeing one indeed?
 
-<p dir="rtl">
 قَالَ كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ
 تُنسَى
-</p>
 
 [Shakir 20:126] He will say: Even so, our communications came to you but
 you neglected them; even thus shall you be forsaken this day.
 
-<p dir="rtl">
 وَكَذَلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِن بِآيَاتِ رَبِّهِ
 وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَى
-</p>
 
 [Shakir 20:127] And thus do We recompense him who is extravagant and
 does not believe in the communications of his Lord, and certainly the
 chastisement of the hereafter is severer and more lasting.
 
-<p dir="rtl">
 وَإِذَا غَشِيَهُم مَّوْجٌ كَالظُّلَلِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ
 الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ فَمِنْهُم مُّقْتَصِدٌ وَمَا
 يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ
-</p>
 
 [Shakir 31:32] And when a wave like mountains covers them they call upon
 Allah, being sincere to Him in obedience, but when He brings them safe
 to the land, some of them follow the middle course; and none denies Our
 signs but every perfidious, ungrateful one.
 
-<p dir="rtl">
 لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ وَالَّذِينَ كَفَرُوا بِآيَاتِ
 اللَّهِ أُوْلَئِكَ هُمُ الْخَاسِرُونَ
-</p>
 
 [Shakir 39:63] His are the treasures of the heavens and the earth; and
 (as for) those who disbelieve in the communications of Allah, these it
@@ -459,86 +409,60 @@ Prophets (s.a.w.). Now let us see what the pinnacle of the Holy Prophet
 is and what its actual purpose was. For this I present to you thirteen
 Verses of the Holy Quran.
 
-<p dir="rtl">
 سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
 الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
 لِنُرِيَهُ مِنْ آيَاتِنَا إِنَّهُ هُوَ السَّمِيعُ البَصِيرُ
-</p>
 
 [Shakir 17:1] Glory be to Him Who made His servant to go on a night from
 the Sacred Mosque to the remote mosque of which We have blessed the
 precincts, so that We may show to him some of Our signs; surely He is
 the Hearing, the Seeing.
 
-<p dir="rtl">
 وَهُوَ بِالْأُفُقِ الْأَعْلَى
-</p>
 
 [Shakir 53:7] And he is in the highest part of the horizon.
 
-<p dir="rtl">
 ثُمَّ دَنَا فَتَدَلَّى
-</p>
 
 [Shakir 53:8] Then he drew near, then he bowed
 
-<p dir="rtl">
 فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَى
-</p>
 
 [Shakir 53:9] So he was the measure of two bows or closer still.
 
-<p dir="rtl">
 فَأَوْحَى إِلَى عَبْدِهِ مَا أَوْحَى
-</p>
 
 [Shakir 53:10] And He revealed to His servant what He revealed.
 
-<p dir="rtl">
 مَا كَذَبَ الْفُؤَادُ مَا رَأَى
-</p>
 
 [Shakir 53:11] The heart was not untrue in (making him see) what he saw.
 
-<p dir="rtl">
 أَفَتُمَارُونَهُ عَلَى مَا يَرَى
-</p>
 
 [Shakir 53:12] What! do you then dispute with him as to what he saw?
 
-<p dir="rtl">
 وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى
-</p>
 
 [Shakir 53:13] And certainly he saw him in another descent,
 
-<p dir="rtl">
 عِندَ سِدْرَةِ الْمُنْتَهَى
-</p>
 
 [Shakir 53:14] At the farthest lote-tree;
 
-<p dir="rtl">
 عِندَهَا جَنَّةُ الْمَأْوَى
-</p>
 
 [Shakir 53:15] Near which is the garden, the place to be resorted to.
 
-<p dir="rtl">
 إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى
-</p>
 
 [Shakir 53:16] When that which covers covered the lote-tree;
 
-<p dir="rtl">
 مَا زَاغَ الْبَصَرُ وَمَا طَغَى
-</p>
 
 [Shakir 53:17] The eye did not turn aside, nor did it exceed the limit.
 
-<p dir="rtl">
 لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى
-</p>
 
 [Shakir 53:18] Certainly he saw of the greatest signs of his Lord.
 
@@ -630,20 +554,16 @@ you will not, then how can you accept the degrees of ‘Ayatullah’,
 ‘Ayatul Uzma’ and ‘Ayatul Kubra’? In reality this is a mockery of the
 Holy Infallibles (a.s.) and the Holy Quran.
 
-<p dir="rtl">
 وَقِيلَ الْيَوْمَ نَنسَاكُمْ كَمَا نَسِيتُمْ لِقَاء يَوْمِكُمْ هَذَا
 وَمَأْوَاكُمْ النَّارُ وَمَا لَكُم مِّن نَّاصِرِينَ
-</p>
 
 [Shakir 45:34] And it shall be said: Today We forsake you as you
 neglected the meeting of this day of yours and your abode is the fire,
 and there are not for you any helpers:
 
-<p dir="rtl">
 ذَلِكُم بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا وَغَرَّتْكُمُ
 الْحَيَاةُ الدُّنْيَا فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ
 يُسْتَعْتَبُونَ
-</p>
 
 [Shakir 45:35] That is because you took the communications of Allah for
 a jest and the life of this world deceived you. So on that day they
@@ -821,11 +741,9 @@ and then they let it go. When they went to the Mosque on Friday, Imam
 Ali (a.s.) was delivering a speech in which he (a.s.) was explaining the
 verse:
 
-<p dir="rtl">
 يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ فَمَنْ أُوتِيَ كِتَابَهُ
 بِيَمِينِهِ فَأُوْلَـئِكَ يَقْرَؤُونَ كِتَابَهُمْ وَلاَ يُظْلَمُونَ
 فَتِيلاً
-</p>
 
 [Shakir 17:71] (Remember) the day when We will call every people with
 their Imam; then whoever is given his book in his right hand, these
@@ -838,10 +756,8 @@ as that is their Imam’.
 Now stop worrying about ‘this meaning’ and ‘that meaning’. Let us ask
 the Holy Quran and the Holy Infallibles (a.s.) about this.
 
-<p dir="rtl">
 وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُواْ عَلَى اللَّهِ وُجُوهُهُم
 مُّسْوَدَّةٌ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ
-</p>
 
 [Shakir 39:60] And on the day of resurrection you shall see those who
 lied against Allah; their faces shall be blackened. Is there not in hell
@@ -866,18 +782,14 @@ divine supreme covenant?’ He said, ‘Yes, even if he is as such.’”
 
 This is also found in Tafseer Qummi, Tafseer Ayyashi and Tafseer Saafi.
 
-<p dir="rtl">
 وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ الْقِيَامَةِ
 لَا يُنصَرُونَ
-</p>
 
 [Shakir 28:41] And we made them Imams who call to the fire, and on the
 day of resurrection they shall not be assisted.
 
-<p dir="rtl">
 وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ
 هُم مِّنَ الْمَقْبُوحِينَ
-</p>
 
 [Shakir 28:42] And We caused a curse to follow them in this world, and
 on the day of resurrection they shall be of those made to appear
@@ -1114,10 +1026,8 @@ caliphs.
 
 4.This claim also falsifies the Verse:
 
-<p dir="rtl">
 سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ
 اللَّهِ تَبْدِيلًا
-</p>
 
 [Shakir 33:62] (Such has been) the course of Allah with respect to those
 who have gone before; and you shall not find any change in the course of
@@ -1145,15 +1055,11 @@ in them by God.
 If you have not understood by the term ‘vested’ then try and understand
 it from these Verses:
 
-<p dir="rtl">
 فَإِذَا فَرَغْتَ فَانصَبْ
-</p>
 
 [Shakir 94:7] So when you are free, nominate.
 
-<p dir="rtl">
 وَإِلَى رَبِّكَ فَارْغَبْ
-</p>
 
 [Shakir 94:8] And make your Lord your exclusive object.
 
@@ -1232,12 +1138,10 @@ our actions, all of Allah (s.w.t.)’s Attributes and His Created
 universe, whatsoever there is, it is under the Wilayah. This is why
 Allah (s.w.t.) said:
 
-<p dir="rtl">
 اللّهُ وَلِيُّ الَّذِينَ آمَنُواْ يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى
 النُّوُرِ وَالَّذِينَ كَفَرُواْ أَوْلِيَآؤُهُمُ الطَّاغُوتُ
 يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ أُوْلَـئِكَ أَصْحَابُ
 النَّارِ هُمْ فِيهَا خَالِدُونَ
-</p>
 
 [Shakir 2:257] Allah is the guardian of those who believe. He brings
 them out of the darkness into the light; and (as to) those who
@@ -1247,10 +1151,8 @@ abide.
 
 He (s.w.t.) made sure that no one else can make this claim.
 
-<p dir="rtl">
 إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
 يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-</p>
 
 [Shakir 5:55] Only Allah is your Vali and His Messenger and those who
 believe, those who keep up prayers and pay the poor-rate while they bow.
@@ -1506,10 +1408,8 @@ AHL UL ZIKR - (PEOPLE OF REMEMBRANCE)
 
 This claim is made on the basis of the Verse:
 
-<p dir="rtl">
 وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُّوحِي إِلَيْهِمْ
 فَاسْأَلُواْ أَهْلَ الذِّكْرِ إِن كُنتُمْ لاَ تَعْلَمُونَ
-</p>
 
 [Shakir 16:43] And We did not send before you any but men to whom We
 sent revelation- so ask the followers of the Reminder if you do not know
@@ -1529,11 +1429,9 @@ discuss more about this in the next chapter; however, I shall now quote
 from Allamah Haeri’s book: ‘The Ahl Ul Zikr here are the scholars of the
 Holy Quran. They are those who are immersed in knowledge’.
 
-<p dir="rtl">
 ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا
 فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌ
 بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ذَلِكَ هُوَ الْفَضْلُ الْكَبِيرُ
-</p>
 
 [Shakir 35:32] Then we gave the Book for an inheritance to those whom we
 chose from among our servants; but of them is he who makes his soul to
@@ -1544,10 +1442,8 @@ is the great excellence
 There are numerous commentaries that the inheritors are the Holy Imam
 (a.s.).
 
-<p dir="rtl">
 وَيَقُولُ الَّذِينَ كَفَرُواْ لَسْتَ مُرْسَلاً قُلْ كَفَى بِاللّهِ
 شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِندَهُ عِلْمُ الْكِتَابِ
-</p>
 
 [Shakir 13:43] And those who disbelieve say: You are not a messenger.
 Say: Allah is sufficient as a witness between me and you and whoever has
@@ -1560,14 +1456,12 @@ as the one who has the knowledge of the Book. Now, I don’t know whether
 the claimants are making the claim of Imam Ali (a.s.) or Abdullah Ibn
 Salam. I leave this to you to decide.
 
-<p dir="rtl">
 هُوَ الَّذِيَ أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ
 هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ فَأَمَّا الَّذِينَ في
 قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاء
 الْفِتْنَةِ وَابْتِغَاء تَأْوِيلِهِ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلاَّ
 اللّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِّنْ
 عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُوْلُواْ الألْبَابِ
-</p>
 
 [Shakir 3:7] He it is Who has revealed the Book to you; some of its
 verses are decisive, they are the basis of the Book, and others are
@@ -1624,12 +1518,10 @@ I then came across a few more. I don’t know which claim to deal with and
 which ones to leave out. Anyhow, you go through this and decide for
 yourself what claims have been made.
 
-<p dir="rtl">
 وَإِذَا جَاءهُمْ أَمْرٌ مِّنَ الأَمْنِ أَوِ الْخَوْفِ أَذَاعُواْ بِهِ
 وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَى أُوْلِي الأَمْرِ مِنْهُمْ
 لَعَلِمَهُ الَّذِينَ يَسْتَنبِطُونَهُ مِنْهُمْ وَلَوْلاَ فَضْلُ اللّهِ
 عَلَيْكُمْ وَرَحْمَتُهُ لاَتَّبَعْتُمُ الشَّيْطَانَ إِلاَّ قَلِيلاً
-</p>
 
 [Shakir 4:83] And when there comes to them news of security or fear they
 spread it abroad; and if they had referred it to the Messenger and to
@@ -1724,15 +1616,12 @@ Then the claim that ‘This is because the Mujtahid does istambaat and
 extracts the knowledge of Allah (s.w.t.)’s Commands and knows His
 (s.w.t.) Desires’ means that they are the ones referred to in the Verse:
 
-<p dir="rtl">
 وَمَا تَشَاؤُونَ إِلَّا أَن يَشَاء اللَّهُ إِنَّ اللَّهَ كَانَ عَلِيمًا
 حَكِيمًا
-</p>
 
 [Shakir 76:30] And you do not desire except that Allah desires, surely
 Allah is Knowing, Wise;
 
 I am not going to say anything at all about this, except that I seek
 justice from you.
-
 

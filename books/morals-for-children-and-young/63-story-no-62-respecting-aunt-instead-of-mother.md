@@ -17,4 +17,3 @@ respecting aunt is like respecting mother. We do not have a mother to
 serve, so why not be fortunate enough to serve and respect our aunt?”  
  Their father was happy and encouraged them more.
 
-

@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَاَمَّا الْاِنْساَن اِذاَ ماَ ابْتَلاَهُ رَبُّهُ فَاَكْرَمَهُ وَ
-نَعَّمَهُ فَيَقُولُ رَبِّي اَكرَمَنِ
-  </p>
-</blockquote>
+> فَاَمَّا الْاِنْساَن اِذاَ ماَ ابْتَلاَهُ رَبُّهُ فَاَكْرَمَهُ وَ
+> نَعَّمَهُ فَيَقُولُ رَبِّي اَكرَمَنِ
 
 *(And as for man, when his Lord tries him, then treats him with honor
 and makes him lead an easy life, he says: My Lord has honoured me.)*[^1]
 
 The Holy Prophet (s.a.w.) has said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الْبَلاَءَ لِلظَّالِم اَدَبٌ وَ لِلْمُؤمِنِ اِمْتِحاَن
-  </p>
-</blockquote>
+> اِنَّ الْبَلاَءَ لِلظَّالِم اَدَبٌ وَ لِلْمُؤمِنِ اِمْتِحاَن
 
 *(Surely, misfortune for an oppressor is a (corrective) chastisement and
 for a Mu'min, a trial)*[^2]
@@ -235,5 +227,4 @@ thirst. (Farhang-e-A’meed).
 [^7]: Muntahal Aa’maal, vol. 2, pg. 358.
 
 [^8]: Jawaame’ al-Hikaayaat, pg. 95.
-
 

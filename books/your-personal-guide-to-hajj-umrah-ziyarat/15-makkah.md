@@ -331,4 +331,3 @@ friends then you must to go to Masjid al-Umra just outside of Makkah, do
 your Niyyat, go to Masjid-ul-Haraam and do the Umrah, (exactly the same
 A’amals that you did when you arrived from Medina).
 
-

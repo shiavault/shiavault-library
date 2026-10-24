@@ -17,4 +17,3 @@ find here followers of all major world religions; but the majority has
 been of white Protestant Christians.  
   
 
-

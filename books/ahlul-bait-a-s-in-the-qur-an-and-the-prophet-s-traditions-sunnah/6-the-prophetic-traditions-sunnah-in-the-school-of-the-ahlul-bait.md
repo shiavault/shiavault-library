@@ -103,4 +103,3 @@ group to which the narrator belonged. Therefore, the method of the
 jurists of Ahlul-Bait (a.s.) is not to view a book of hadith as
 completely correct or as completely false.
 
-

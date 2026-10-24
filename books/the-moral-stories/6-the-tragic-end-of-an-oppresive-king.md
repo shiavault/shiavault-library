@@ -72,7 +72,6 @@ as well as in the next is oppression of people.
 and they who act unjustly shall know to what final place of turning
 they shall turn back. (26:227)
 
-
 **In Willing Submission To The Will of Allah**
 
 Abu Talha was one of the respected companions of Prophet Muhammad
@@ -128,5 +127,4 @@ words:
 mountain. That is so because a mountain can be carved out whereas one
 cannot cut back any part of the faith of a believer since he holds it
 firmly with deep attachment."
-
 

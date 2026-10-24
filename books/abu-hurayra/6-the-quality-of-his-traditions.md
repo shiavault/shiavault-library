@@ -4496,4 +4496,3 @@ vol.6, pg.116.
 [^212]: Refer to Al-Bukhari’s Sahih, vol.3 chapter of Nafaqat
 (expenditures), pg.189.
 
-

@@ -168,4 +168,3 @@ This concept is among the fabrications of the "holy Fathers."
 We pray to Almighty God to guide all the Christians to the path of
 truth seeking and honesty.
 
-

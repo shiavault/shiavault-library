@@ -476,4 +476,3 @@ Allah. Read the chapter: "the Secret of the Attitude" in this book.
 
 [^4]: Read the Peace Treaty in this book
 
-

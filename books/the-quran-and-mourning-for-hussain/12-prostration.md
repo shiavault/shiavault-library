@@ -89,4 +89,3 @@ Shakir translates as, ‘When Yusuf said to his father: O my father!
 Surely I saw eleven stars and the sun and the moon-- I saw them making
 obeisance to me.’ (http://quran.al-islam.org/).
 
-

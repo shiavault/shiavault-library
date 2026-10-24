@@ -13,11 +13,7 @@ people of truth is [prey] for Satan just as the lonely sheep is [prey]
 for the wolf.
 
 > 2ـ إيّاكُمْ والفُرْقَةَ، فَإنَّ الشّاذَّ عَنْ أهْلِ الحَقِّ
-<blockquote dir="rtl">
-  <p>
-لِلشَّيْطانِ، كَما أنَّ الشّاذَّ مِنَ الغَنَمِ لِلذِّئْبِ.
-  </p>
-</blockquote>
+> لِلشَّيْطانِ، كَما أنَّ الشّاذَّ مِنَ الغَنَمِ لِلذِّئْبِ.
 
 3. The worst endeavour is separating two close friends.
 
@@ -30,5 +26,4 @@ for the wolf.
 5. Remain with the community and eschew separation.
 
 > 5ـ اِلْـزَمُوا الجَماعَةَ، واجْتَنِبُوا الفُرْقَةَ.
-
 

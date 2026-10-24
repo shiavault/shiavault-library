@@ -81,7 +81,6 @@ heavier than its body, carries it to its hole; How it stores grains; and
 how in summer, it gathers and stocks food for winter and rainy days."
 (Nahjul Balagah sermon 185)
 
-
 **Care For The Dumb Animals**
 
 A man once came to Hazrat Muhammad (S.A.W.) carrying with him his
@@ -250,5 +249,4 @@ privilage and honour.
 This is how Muhammad (S.A.W.) the Prophet of Islam suceeded in uniting
 the ever-fighting and ignorant Arabs with his honesty, justice and noble
 character.
-
 

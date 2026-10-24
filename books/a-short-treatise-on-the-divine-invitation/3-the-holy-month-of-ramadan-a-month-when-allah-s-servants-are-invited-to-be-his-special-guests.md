@@ -4,11 +4,7 @@ The Holy Month of Ramadān: A Month When Allāh’s Servants are Invited to be H
 The Holy Prophet (s) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-...وَهُوَ شَهْرٌ دُعِيــتُمْ فِيهِ إِلـى ضِيَافَةِ اللٌّهِ...
-  </p>
-</blockquote>
+> ...وَهُوَ شَهْرٌ دُعِيــتُمْ فِيهِ إِلـى ضِيَافَةِ اللٌّهِ...
 
 “…It is a month in which you have been called to the banquet of
 Allāh…[^1]”
@@ -20,11 +16,7 @@ emphasis on inviting the believers and feeding them in the way of Allāh
 So much emphasis has Islam laid upon such invitation, that there is a
 prophetic tradition that says:
 
-<blockquote dir="rtl">
-  <p>
-أَلضَّيْفُ دَلِيلُ الْجَنَّةِ.
-  </p>
-</blockquote>
+> أَلضَّيْفُ دَلِيلُ الْجَنَّةِ.
 
 “A guest is a guide to Paradise.[^2]”
 
@@ -38,12 +30,8 @@ In another tradition narrated from the Holy Prophet (s), ‘disliking a
 guest’ is equated to disliking Allāh (SwT):  
   
 
-<blockquote dir="rtl">
-  <p>
-...إِنَّّ مَنْ أَبْغَضَ الضَّيْفَ فَقَدْ أَبْغَضَ اللٌّهَ، وَمَنْ
-أَبْغَضَ اللٌّهَ أَبْغَضَهُ اللٌّهُ...
-  </p>
-</blockquote>
+> ...إِنَّّ مَنْ أَبْغَضَ الضَّيْفَ فَقَدْ أَبْغَضَ اللٌّهَ، وَمَنْ
+> أَبْغَضَ اللٌّهَ أَبْغَضَهُ اللٌّهُ...
 
 “…surely whosoever hates a guest, hates Allāh, and whosoever hates
 Allāh, Allāh [likewise] Hates him…”[^3]
@@ -62,11 +50,7 @@ He is also known to be the first Prophet of Allāh[^5] to have served a
 guest.  Imām ‘Alī (‘a) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-كَانَ إِبْرَاهِيمُ أَوَّلَ مَنْ أَضَافَ الضَّيْفَ...
-  </p>
-</blockquote>
+> كَانَ إِبْرَاهِيمُ أَوَّلَ مَنْ أَضَافَ الضَّيْفَ...
 
 “Prophet Ibrāhīm (‘a) was the first to host a guest…”[^6]
 
@@ -83,11 +67,7 @@ no ordinary entertainment is encouraged.  One must struggle to observe
 Prophet Ibrāhīm (‘a) says:  
   
 
-<blockquote dir="rtl">
-  <p>
-هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ
-  </p>
-</blockquote>
+> هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ
 
 “***Did you receive the story of Abraham’s honored guests?***”[^7]
 
@@ -154,5 +134,4 @@ such a Host cannot be comprehended at all.
 
 [^8]: See Tafsīr Majma‘ al-Bayān, vol. 9, pg. 23 and Tafsīr al-Kashshāf,
 vol. 4, pg. 401.
-
 

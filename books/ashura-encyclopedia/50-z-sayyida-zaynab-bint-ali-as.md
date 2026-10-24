@@ -14,4 +14,3 @@ Husayn was slain, Sayyida Zaynab took care of the women until they came
 back to Madinah. She went to Al-Sham with her husband and there she died
 on 63/65 AH.
 
-

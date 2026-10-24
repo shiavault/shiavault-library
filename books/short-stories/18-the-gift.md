@@ -65,4 +65,3 @@ would tread the road of struggle till the banner of justice could be
 raised in Palestine. Whenever she longed for her husband she read the
 Qur'anic verse and a feeling of calm crept through her.
 
-

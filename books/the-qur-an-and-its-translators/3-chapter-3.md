@@ -124,4 +124,3 @@ is a 61 page selection (London 1515). George Sale's was the first to be
 made from Arabic and was published in London in 1734. It became a source
 on which many other trans. were based.
 
-

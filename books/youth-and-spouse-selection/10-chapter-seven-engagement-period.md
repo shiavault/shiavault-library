@@ -667,11 +667,7 @@ confronted with perplexity, envy, dismay, and disappointment.
 The leaders of Islam have repeatedly forbidden people from casting
 prohibited looks. For instance:
 
-<blockquote dir="rtl">
-  <p>
-النظرة سهم من سهام إبليس مسمومة. و كم من نظرة أو نظرة أورثت حسرة.
-  </p>
-</blockquote>
+> النظرة سهم من سهام إبليس مسمومة. و كم من نظرة أو نظرة أورثت حسرة.
 
 *“A prohibited look is one of the poisoned arrows of Satan. And many
 looks have been followed by prolonged remorse (regret).”*
@@ -1088,5 +1084,4 @@ their matters.
 [^2]: Risalat Newspaper, Issue no. 2102 1st of Urdibehesht 1372 SH, P4.
 
 [^3]: Spouse selection. p 227.
-
 

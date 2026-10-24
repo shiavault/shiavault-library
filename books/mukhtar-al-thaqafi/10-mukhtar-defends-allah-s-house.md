@@ -55,4 +55,3 @@ of the siege. They were displeased with attacking the Ka'aba, Allah's
 House, because they turned their faces towards it when they said their
 prayers.
 
-

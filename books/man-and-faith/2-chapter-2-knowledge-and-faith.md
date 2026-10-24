@@ -355,4 +355,3 @@ Bible Society London.
 
 [^6]: Bertrand Russell, Marriage and Morals, p. 102. (London 1929)
 
-

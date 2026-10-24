@@ -860,9 +860,9 @@ sinful.”[^43]
 
 ##### Forbidden Treatments
 
-<span id="massacre-and-lack-right-surrender-forbidden">[Massacre and
+[Massacre and
 Lack of Right to Surrender is
-Forbidden](#massacre-and-lack-right-surrender-forbidden)</span>
+Forbidden](#massacre-and-lack-right-surrender-forbidden)
 The Muslim combatant is forbidden to total destruction of enemy or
 banning the right to surrender. This principle is mentioned in article
 40 of the first protocol[^44] and paragraph 1 of article 4 of the second
@@ -933,8 +933,8 @@ ordered that all the ants on that hill should be burnt. Then God said to
 the prophet, ‘If an ant bites you, is it advisable that you order the
 killing of all the ants which cry praise to the Almighty!’”[^51]
 
-<span id="revengeful-acts-are-forbidden">[Revengeful Acts Are
-Forbidden](#revengeful-acts-are-forbidden)</span>There are verses in the
+[Revengeful Acts Are
+Forbidden](#revengeful-acts-are-forbidden)There are verses in the
 Qur’an relating to the prohibition of revengeful acts, which determine
 the principles of punishment.
 
@@ -998,9 +998,9 @@ act likewise, for Allah commands the Muslims to treat the enemy soldiers
 fairly and the holy Prophet forbade people not to keep anyone
 thirsty.[^54]
 
-<span id="outrages-against-dignity-wounded-prohibited">[Outrages against
+[Outrages against
 the Dignity of the Wounded is
-prohibited](#outrages-against-dignity-wounded-prohibited)</span>
+prohibited](#outrages-against-dignity-wounded-prohibited)
 Based on the international humanitarian law, the wounded and the sick
 should be treated with respect. For this reason, the medical
 organizations are paid much attention to. That is why many of the
@@ -1021,9 +1021,9 @@ contradicted Islamic law.
 Therefore, it is no exaggeration to say that any illegal act against the
 wounded and the sick is against Islam.
 
-<span id="it-forbidden-deprive-others-food-and-drink">[It is Forbidden
+[It is Forbidden
 to Deprive Others of Food and
-Drink](#it-forbidden-deprive-others-food-and-drink)</span>Now we shall
+Drink](#it-forbidden-deprive-others-food-and-drink)Now we shall
 talk about depriving the citizens of food and drink (for survival) for
 the sole purpose of driving them from their houses. Islam even prohibits
 the killing of animals except when this helps satisfy man’s hunger.[^56]
@@ -1058,9 +1058,9 @@ since the time he had immigrated to Medina. At all events, the order of
 the holy Prophet for not destroying Mecca which we shall deal with soon
 demonstrates the truth of the aforementioned points.
 
-<span id="it-forbidden-destroy-buildings-and-trees">[It is Forbidden to
+[It is Forbidden to
 Destroy the Buildings and the
-Trees](#it-forbidden-destroy-buildings-and-trees)</span>
+Trees](#it-forbidden-destroy-buildings-and-trees)
 Here, we shall deal with the commitment of the Muslims to the enemy’s
 property. Briefly, the commitment in this regard is making a distinction
 between the military goals and the citizen’s property which the latter
@@ -1120,8 +1120,8 @@ drive the flocks to their masters.”[^61]
 
 ##### Special Classes Under Protection
 
-<span id="women-and-children">[Women and
-Children](#women-and-children)</span>
+[Women and
+Children](#women-and-children)
 According to Muslim jurisprudents, women and children are immune from
 aggression and killing them is prohibited.[^62] The reasons for this
 fatwa are the prophet’s traditions and his actions. For instance the
@@ -1199,7 +1199,7 @@ children are those who have not reached the age of maturity. In Islamic
 jurisprudence, the age of maturity is limited to natural growth (age
 15).[^79]
 
-<span id="old-people">[Old People](#old-people)</span>
+[Old People](#old-people)
 Generally, old people belong to classes under protection. In the
 following, we shall mention the opinions of some Muslim jurisprudents.
 
@@ -1242,8 +1242,8 @@ The prohibition of killing the old people is one of the ten commands,
 which Abu Bakr gave when dispatching his army. “Do not kill old
 people.”[^83] And other caliphs followed suit.
 
-<span id="handicapped-mad-sick-and-likes">[The Handicapped, the Mad, the
-Sick and the Likes](#handicapped-mad-sick-and-likes)</span>This group
+[The Handicapped, the Mad, the
+Sick and the Likes](#handicapped-mad-sick-and-likes)This group
 enjoys protection, for firstly, due to physical incapability, they are
 not among the combatants and the military forces and killing do not
 involve those who do not actively participate in war. Secondly, special
@@ -1257,8 +1257,8 @@ From this tradition, one can conclude that killing old people is not
 lawful. The Shafi’i and the twelver Shi ‘ah jurisprudents have included
 the mad people in the category of children.[^85]
 
-<span id="non-military-passers">[Non-military
-Passers-by](#non-military-passers)</span>*Muhaqqiq Hilli*, the twelver
+[Non-military
+Passers-by](#non-military-passers)*Muhaqqiq Hilli*, the twelver
 Shi’ah jurisprudent, stated that the passing of passers-by who pass in
 war zones can be prevented.[^86] He added that when the commander of the
 army together with the army under his supervision steps into the enemy
@@ -1277,9 +1277,9 @@ can be said that the passers-by shall have immunity.
 
 ##### Exceptions:
 
-<span id="abusing-immunity-non-military-people">[Abusing the Immunity of
+[Abusing the Immunity of
 the Non-military
-People](#abusing-immunity-non-military-people)</span>One of the tricks
+People](#abusing-immunity-non-military-people)One of the tricks
 that the enemy might resort to is abusing the immunity of the
 non-military people. The enemy might use the immune people as the means
 to protect itself from danger or defeat. Here, the question is: should
@@ -1332,8 +1332,8 @@ Therefore, choosing the ways which lead to the death of no-military
 people is not allowed, for they might have been prohibited by the Holy
 Qur’an.[^96]
 
-<span id="scapegoating-enemy-muslims">[Scapegoating Enemy by the
-Muslims](#scapegoating-enemy-muslims)</span>
+[Scapegoating Enemy by the
+Muslims](#scapegoating-enemy-muslims)
 When the enemy uses the Muslim prisoners of war, citizens, merchants
 and the tourists as scapegoat, the Hanafi jurisprudents believe that it
 is allowed to attack them, for suffering special loss is for eliminating
@@ -1556,8 +1556,8 @@ jurisprudents to free slaves. On the other hand, in books on Islamic
 jurisprudence,[^114] there are abundant cases in which the slaves are
 freed by commitment or by persuasion by their masters.
 
-<span id="first-arbitrary-freedom">[First: Arbitrary
-Freedom](#first-arbitrary-freedom)</span>
+[First: Arbitrary
+Freedom](#first-arbitrary-freedom)
 In the following cases, the slave is arbitrarily freed:
 
 1. If someone frees a part of his slave’s body, all other parts his body
@@ -1583,8 +1583,8 @@ people’s freedoms.
 7. If one of the parents is freed and the other one a slave, their
 children will definitely be free.
 
-<span id="second-compulsory-freedom">[Second-Compulsory
-Freedom](#second-compulsory-freedom)</span>
+[Second-Compulsory
+Freedom](#second-compulsory-freedom)
 In many cases, the Muslim is obligated to free a slave or slaves for
 reasons such as atonement for murder, and atonement for fast.
 
@@ -1654,9 +1654,9 @@ Today, the *Imam* cannot make decisions about the destiny of the
 prisoners of war. Therefore, some rights are given to the prisoners of
 war, which we shall discuss in the following.
 
-<span id="respect-and-prevention-torturing-captives">[Respect and
+[Respect and
 Prevention from Torturing the
-Captives](#respect-and-prevention-torturing-captives)</span>The first
+Captives](#respect-and-prevention-torturing-captives)The first
 right is respect for the prisoners of war. Therefore, it is not allowed
 to expose them to torture under any circumstances. The holy Prophet
 stated, “The Almighty shall torment those who torture others in this
@@ -1668,21 +1668,21 @@ might no longer be able to talk against the holy Prophet. The holy
 Prophet said, “I shall not make him so, for if I do this, Allah shall do
 the same to me who am a prophet.”[^119]
 
-<span id="preserving-family-ties-prisoners-war">[Preserving the Family
+[Preserving the Family
 Ties of the Prisoners of
-War](#preserving-family-ties-prisoners-war)</span>It is necessary to
+War](#preserving-family-ties-prisoners-war)It is necessary to
 preserve the family ties of the prisoners of war. Hence, there is a
 consensus among the Muslim jurisprudents that it is not allowed to
 separate a seven-year-old child from his mother. However, some of the
 jurisprudents hold that it is allowed to separate the spouses from each
 other in time of dividing the booty or in time of selling them.
 
-<span id="granting-right-corresponding-family">[Granting the Right of
-Corresponding to Family](#granting-right-corresponding-family)</span>
+[Granting the Right of
+Corresponding to Family](#granting-right-corresponding-family)
 The captives have the right to write letters to their families.
 
-<span id="prohibiting-discrimination">[Prohibiting
-discrimination](#prohibiting-discrimination)</span>It is not allowed to
+[Prohibiting
+discrimination](#prohibiting-discrimination)It is not allowed to
 discriminate between the captives. The stance of Islam towards this
 issue is completely clear, suggesting that we are the descendents of
 Adam and created from dust.
@@ -1704,8 +1704,8 @@ al-Baqarah, 2:253)***
 ***“And We have made them excel by an appropriate excellence.” (Surah
 al-Isra, 17:70)***
 
-<span id="exercise-fair-treatment">[The Exercise of Fair
-Treatment](#exercise-fair-treatment)</span>Islamic realism does not
+[The Exercise of Fair
+Treatment](#exercise-fair-treatment)Islamic realism does not
 allow equal treatment towards the prisoners of war without considering
 their social status although humanitarian considerations are observed.
 When the daughter of al-Maquqas was taken prisoner, Maqrizi states, “The
@@ -1723,8 +1723,8 @@ scope, the principles 44 and 45 in the Geneva Convention of the
 prisoners of war[^120] provided that the enemy officers should be
 treated fairly according to their rank.
 
-<span id="freedom-captives">[Freedom of
-Captives](#freedom-captives)</span>It is necessary to mention that if a
+[Freedom of
+Captives](#freedom-captives)It is necessary to mention that if a
 captive escapes and goes back to his country, he is free unless he has
 bound himself to a commitment. If any commitment is involved, he is
 obligated to return for Islam condemns treachery. The Holy Qur’an
@@ -2111,5 +2111,4 @@ articles 44 and 45.
 INT, L. Rev., Red Cross, pp. 455-462.
 
 [^122]: Sarakhsi, Sharh-i Siyar al Kabir, p.44
-
 

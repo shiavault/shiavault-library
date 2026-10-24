@@ -34,4 +34,3 @@ poor or for the advancement of religion, etc.
 
 **Probate** – Power to distribute the wealth.
 
-

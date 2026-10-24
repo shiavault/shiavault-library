@@ -233,4 +233,3 @@ taste the sweetness of disobedience. On such an occasion, you may say,
 
 [^8]: Nahj al-Balagha (The Peak of Eloquence), sermon \#426.
 
-

@@ -84,8 +84,7 @@ And the sun rises every end of night,
 
 Red with its colour becoming rosy,
 
-It comes but never rises for us fluently, <span
-id="_anchor_432"></span>432
+It comes but never rises for us fluently, 432
 
 But only when suffering pain and tolerating.
 
@@ -94,7 +93,7 @@ Majma’ al-zawa’id, beside being reported by Abu Ya'la and al-Tabarrani
 through trustworthy rijal.
 
 When objection was raised against his saying "But only when suffering
-pain and tolerating", Ibn Abbas said: <span id="_anchor_433"></span>433
+pain and tolerating", Ibn Abbas said: 433
  By Him Who owns my soul, the sun would never rise but only when being
 pricked by seventy thousand angels who would say to her: Rise, rise! she
 would say: Nay, I never rise for a people worshipping me other than
@@ -125,7 +124,7 @@ It is known that Anas died in 93 H., after his life was contemporaneous
 with that of the lad regarding whom the Prophet said that he would never
 reach decrepitude till the coming of the Hour...thus, as is defined by
 the hadith, the coming of the Hour would have been before the end of the
-first Hijrah year!! <span id="_anchor_434"></span>434
+first Hijrah year!! 434
 
 So what would adorers of asanid say about this?? Some may daresay and
 claim that: Who knows, this lad may have not reached decrepitude yet?!!
@@ -150,7 +149,7 @@ shoulders till I felt the coolness of the tips of His fingers.
 
 ### The Paradise Bull:
 
-In Bada’i’ al-fawa’id, <span id="_anchor_435"></span>435  Ibn al-Qayyim
+In Bada’i’ al-fawa’id, 435  Ibn al-Qayyim
 reported that the Prophet used to say that for the believers, on the Day
 of Resurrection, the Bull of Paradise of which it used to eat, will be
 sacrificed and be their entertainment. Ibn al-Qayyim said: This animal
@@ -159,10 +158,10 @@ entertainment for its inhabitants.
 
 ### Prophet's Seeing God Eleven Times, and Isra' was Reality:
 
-Al-Qadi <span id="_anchor_436"></span>436  said: Ahmad confirmed that
+Al-Qadi 436  said: Ahmad confirmed that
 Isra’ was reality. And when it was related to him that Musa ibn Aqabah
 holds that traditions on Isra’ were all dreams, he said: This is the
-claim of the scowling people. <span id="_anchor_437"></span>437
+claim of the scowling people. 437
 
 Abu Bakr al-Najjar said: He (the Prophet) saw God for eleven times! nine
 of which were on the Mi’raj (ascension) night, when he was frequenting
@@ -185,20 +184,19 @@ be.
 
 Ibn Abbas said: Thunder is one of Allah's angels charged with the
 clouds, holding rags of fire with which he drives the clouds wherever
-Allah, the most High, will. <span id="_anchor_438"></span>438
+Allah, the most High, will. 438
 
 From him also it is reported: The snakes are the transformation of Jinn
 as the apes and pigs were metamorphosed during the era of the Children
 of Israel. From him further: The first thing Allah created was the
 "qalam" (pen), then He created the nun (alphabet letter). Then He
-compressed the earth on the back of the (Nun). <span
-id="_anchor_439"></span>439
+compressed the earth on the back of the (Nun). 439
 
 ### The Black Stone:
 
 Ibn Abbas is reported to have said: The Black Stone is Allah's right
 hand in the earth, with which He shakes hand with whomever He wills from
-among His creatures. <span id="_anchor_440"></span>440  In another
+among His creatures. 440  In another
 narration by him also, he said: The Black Stone is in origin from
 Paradise, and it was much whiter than the snow, till it was blackened by
 the guilts of polytheism, and it is said that it will come on the Day of
@@ -207,8 +205,7 @@ that who touched (istalama) it as it should be.
 
 It is obvious that this hadith is an Israeli (Jewish fabricated) one,
 and it is reported from Wahb ibn Munabbih who said in it: "It (Black
-Stone) was a white pearl but blackened by the polytheists. <span
-id="_anchor_441"></span>441
+Stone) was a white pearl but blackened by the polytheists. 441
 
 Al-Jahiz scoffed at this hadith saying: The Muslims were supposed to
 whiten it on embracing Islam...
@@ -221,7 +218,7 @@ clouds fled toward the east, the winds calmed, the sea agitated, the
 beasts listened with their ears, the devils were stoned from the sky,
 and Allah the Most High took an oath with His Power and Glory that when
 His name be pronounced on anything, that thing would be verily blessed
-with it. <span id="_anchor_442"></span>442
+with it. 442
 
 ### One of Throne Bearers:
 
@@ -313,7 +310,7 @@ Regarding his ancestral lineage he is known to be Alawi Fatimi, and
 among the sons of al-Imam al-Hasan, with the Imami Shi'ah taking him to
 be one of the sons of (al-Imam) al-Husayn.
 
-In his Muqaddimah, Ibn Khaldun <span id="_anchor_443"></span>443
+In his Muqaddimah, Ibn Khaldun 443
  writes:
 
 It is commonly known among all Muslims throughout course of time, that
@@ -353,10 +350,6 @@ fabricators used to make advances to them to have share in their gifts
 and donations. There are reports stating that they had their own Mahdi
 called al-Sufyani, that it is out of scope here to prolong the
 discussion by referring to the traditions and reports cited about him.
-
-  
-  
-  
 
 432. Rasl means rifq (leniency - slowness), see Tafsir Ibn Kathir, vol.
 IV, p. 7.

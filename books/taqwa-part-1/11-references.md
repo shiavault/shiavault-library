@@ -32,9 +32,7 @@ http://www[^2]:enel.ucalgary.ca/People/far/hobbies/iran/hafez.html.
 
 [^13]: Hafiz uses the term “parhiz” which means here taqwa:
 
-<p dir="rtl">
 قوت بازوی پرهيز به خوبان مفروش كه در اين خيل حصاری به سواری‏ گيرند
-</p>
 
 [^14]: Ibid.
 
@@ -43,5 +41,4 @@ http://www[^2]:enel.ucalgary.ca/People/far/hobbies/iran/hafez.html.
 [^16]: Ibid. Sermon 197.
 
 [^17]: Ibid.
-
 

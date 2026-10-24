@@ -182,19 +182,15 @@ in every verse and its being contrary to that which God had revealed.
 Hence the Qur'an would lose its authority and utility, and the purpose
 of commanding adherence to it would be lost. God Almighty says:
 
-<p dir="rtl">
 ..وَإِنَّهُ لَكِتَابٌ عَزِيزٌ  لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ
 يَدَيْهِ وَلَا مِنْ خَلْفِهِ..
-</p>
 
 ***And surely it is a Mighty Book. Falsehood does not approach it from
 before it nor from behind it (41:41-42)***
 
 And He says:
 
-<p dir="rtl">
 إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-</p>
 
 ***Verily We have sent down the Remembrance, and verily We are its
 protector.(15:9)***
@@ -212,9 +208,7 @@ reject them on the basis of their falsehood, or to interpret them.12
 
 Concerning the meaning of verse 9 of Stirat al-Hijr, al-Fayd ob­serves:
 
-<p dir="rtl">
 انا لحافظون من التحريف و التغيير والزيادة و النقصان
-</p>
 
 *[ It means,] 'We will protect it from tahrif, alteration, addition and
 deletion'.* 13
@@ -264,9 +258,7 @@ slanderers imputing to him the belief in occurrence of tahrif.18
 13. The eminent scholar Zayn al-Din al-Bayadi, author of al­Sirat
 al-mustaqim, writes while elucidating the Quranic verse
 
-<p dir="rtl">
 إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
-</p>
 
 ***"It implies that God will protect it from tahrif, alteration,
 addition and deletion."*** 19
@@ -385,5 +377,4 @@ The authors mentioned at the end of the above list have writings
 indicating their belief in the absence of occurrence of tahrif, and the
 author of Burhan-e roshan, Mirza Mahdi al-Burujerdi, has mentioned them
 along with the names of other scholars not mentioned here.
-
 

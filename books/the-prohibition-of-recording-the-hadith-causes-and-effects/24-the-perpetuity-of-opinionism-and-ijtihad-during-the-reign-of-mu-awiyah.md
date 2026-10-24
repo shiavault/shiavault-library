@@ -554,4 +554,3 @@ al-Andalusiy: Hijjat al-Wada\` 353 H. 391; Ibn \`Abd al-Barr: al-Tamhid
 al-Kubra 7:206 H. 13947; Ibn Hajar al-\`Asqalaniy: Fath al-Bari fi Sharh
 Sahih al-Bukhariy 9:174.
 
-

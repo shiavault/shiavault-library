@@ -29,11 +29,7 @@ The enemies of the Shi‘ah used to apply to them the label, “Rafidhi” and
 in most cases, whenever they liked to accuse somebody of abandoning
 religion, they would brand him a *rafidhi*, just as ash-Shafi‘i says:
 
-<blockquote dir="rtl">
-  <p>
-إن كان رفضاً حبّ آل محمّد فليشهد الثّقلان أنّى رافضى
-  </p>
-</blockquote>
+> إن كان رفضاً حبّ آل محمّد فليشهد الثّقلان أنّى رافضى
 
 *If loving the progeny {al} of Muhammad is rafdh, the two worlds (of
 mankind and jinn) shall therefore be the witness that I am indeed a
@@ -107,11 +103,7 @@ but this term has also been applied to them in terms of principles of
 religion {*usul*} in contradistinction to other sects. The poem of
 Humayri is as follows:
 
-<blockquote dir="rtl">
-  <p>
-تجعفرت باسم الله و الله أكبر
-  </p>
-</blockquote>
+> تجعفرت باسم الله و الله أكبر
 
 *In the Name of Allah, I became a Ja‘fari, and Allah is the great*.[^11]
 
@@ -221,11 +213,7 @@ During the latter years of the Prophet’s (S) life, the issue of ‘Ali’s
 was accepted by both his friends and foes especially after the Holy
 Prophet (S) said to ‘Ali (*‘a*) before going to the Tabuk expedition:
 
-<blockquote dir="rtl">
-  <p>
-أنت منّي بمنزلة هارون من موسىٰ إلاّ أنّه لانبيّ بعدي.
-  </p>
-</blockquote>
+> أنت منّي بمنزلة هارون من موسىٰ إلاّ أنّه لانبيّ بعدي.
 
 “You are to me as Harun (Aaron) is to Musa (Moses) with the only
 difference that there shall be no prophet after me.”[^20]
@@ -240,12 +228,8 @@ instruction from God to announce the succession of ‘Ali (*‘a*) to all
 the Muslims. He ordered the Muslims to halt and mounting a pulpit made
 out of the camel saddles he delivered a long speech. He then said:
 
-<blockquote dir="rtl">
-  <p>
-من كنت مولاه فهذا عليّ مولاه اللّهمّ وال من والاه و عاد من عاداه وانصر
-من نصره واخذل من خذله.
-  </p>
-</blockquote>
+> من كنت مولاه فهذا عليّ مولاه اللّهمّ وال من والاه و عاد من عاداه وانصر
+> من نصره واخذل من خذله.
 
 Of whosoever I am Master {*mawla*}, then ‘Ali is also his Master
 {*mawla*}. O Allah! Be Thou a Friend of him who is a friend of him
@@ -268,35 +252,15 @@ time of Saqifah and these poems bespeak of a smaller degree of
 distortion that has ever happened in poetry. ‘Utbah ibn Abi Lahab
 recited this poem after the event of Saqifah and Abubakr’s inauguration:
 
-<blockquote dir="rtl">
-  <p>
-ما كنت أحسب أن الأمر منصرف عن هاشم ثمّ منها عن أبي حسن
-  </p>
-</blockquote>
+> ما كنت أحسب أن الأمر منصرف عن هاشم ثمّ منها عن أبي حسن
 
-<blockquote dir="rtl">
-  <p>
-أليس أوّل من صلّی لقبلتكم و أعلم النّاس بالقرآن و السّنن
-  </p>
-</blockquote>
+> أليس أوّل من صلّی لقبلتكم و أعلم النّاس بالقرآن و السّنن
 
-<blockquote dir="rtl">
-  <p>
-و أقرب النّاس عهداً بالنبي و من جبرئيل عون له في الغسل و الكفن
-  </p>
-</blockquote>
+> و أقرب النّاس عهداً بالنبي و من جبرئيل عون له في الغسل و الكفن
 
-<blockquote dir="rtl">
-  <p>
-ما فيه ما فيهم لايمترون به و ليس في القوم ما فيه من الحسن
-  </p>
-</blockquote>
+> ما فيه ما فيهم لايمترون به و ليس في القوم ما فيه من الحسن
 
-<blockquote dir="rtl">
-  <p>
-ماذا الّذي ردهم عنه فنعلمه ها أن ذاغبناً من أعظم الغبن
-  </p>
-</blockquote>
+> ماذا الّذي ردهم عنه فنعلمه ها أن ذاغبناً من أعظم الغبن
 
 *I was not imagining that the caliphate affair would be withdrawn from
 the Banu Hashim and much less to Abu’l-Hasan (‘Ali).*
@@ -321,17 +285,9 @@ important than anything else.”[^25]
 
 Ibn Abi ‘Abrah Qurshi has also said:
 
-<blockquote dir="rtl">
-  <p>
-شكراً لمن هو باثناء قيق ذهب اللّجاج و بويع الصديق
-  </p>
-</blockquote>
+> شكراً لمن هو باثناء قيق ذهب اللّجاج و بويع الصديق
 
-<blockquote dir="rtl">
-  <p>
-كنّا نقول لها على و الرضا عمر و أولاهم بذاك عتيق
-  </p>
-</blockquote>
+> كنّا نقول لها على و الرضا عمر و أولاهم بذاك عتيق
 
 *Thanks to Him Who is worthy to be praised! The dispute was no more and
 the allegiance was paid to* *Sadiq (Abubakr).*
@@ -346,41 +302,17 @@ against the *Ansar*. In reply to him, Nu‘man ibn al-‘Ajlan—one of the
 poets of the *Ansar*—has recited a poem in which ‘Ali’s (*‘a*) right has
 been emphasized:
 
-<blockquote dir="rtl">
-  <p>
-فقل لقريش نحن أصحاب مكّة و يوم حنين و الفوارس في بدر
-  </p>
-</blockquote>
+> فقل لقريش نحن أصحاب مكّة و يوم حنين و الفوارس في بدر
 
-<blockquote dir="rtl">
-  <p>
-و قلتم حرام نصب سعد و نصبكمعتيق بن عثمان حلال أبابكر
-  </p>
-</blockquote>
+> و قلتم حرام نصب سعد و نصبكمعتيق بن عثمان حلال أبابكر
 
-<blockquote dir="rtl">
-  <p>
-و أهل أبوبكر لها خير قائم و أن علياً كان أخلق بالأمر
-  </p>
-</blockquote>
+> و أهل أبوبكر لها خير قائم و أن علياً كان أخلق بالأمر
 
-<blockquote dir="rtl">
-  <p>
-و كان هوانا في عليٍّ و أنهلأهل لها يا عمر و من حيث لاتدري
-  </p>
-</blockquote>
+> و كان هوانا في عليٍّ و أنهلأهل لها يا عمر و من حيث لاتدري
 
-<blockquote dir="rtl">
-  <p>
-فذلك بعون الله يدعو إلى الهدىو ينهى عن الفحشاء و البغي و النّكر
-  </p>
-</blockquote>
+> فذلك بعون الله يدعو إلى الهدىو ينهى عن الفحشاء و البغي و النّكر
 
-<blockquote dir="rtl">
-  <p>
-وصيّ النّبي المصطفى و ابن عمه و قاتل فرسان الضلالة و الكفر
-  </p>
-</blockquote>
+> وصيّ النّبي المصطفى و ابن عمه و قاتل فرسان الضلالة و الكفر
 
 *Say to the Quraysh: “We are the army of (the Conquest of) Mecca and the
 Battle of* *Hunayn, and the cavalry of Badr!”*
@@ -404,29 +336,13 @@ With the aim of thanking Fadhl ibn al-‘Abbas who, under ‘Ali’s (*‘a*)
 order, had defended the *Ansar*, Hassan ibn Thabit has recited this
 poem:
 
-<blockquote dir="rtl">
-  <p>
-جزى الله عنّا و الجزاء بكفّه أبا حسن عنا و من كان كابى حسن
-  </p>
-</blockquote>
+> جزى الله عنّا و الجزاء بكفّه أبا حسن عنا و من كان كابى حسن
 
-<blockquote dir="rtl">
-  <p>
-سبقت قريشاً بالذي أنت أهل هفصدرك مشروح و قلبك ممتحن
-  </p>
-</blockquote>
+> سبقت قريشاً بالذي أنت أهل هفصدرك مشروح و قلبك ممتحن
 
-<blockquote dir="rtl">
-  <p>
-حفظت رسول الله فينا و عهده إليك و من أولى به منك من و من
-  </p>
-</blockquote>
+> حفظت رسول الله فينا و عهده إليك و من أولى به منك من و من
 
-<blockquote dir="rtl">
-  <p>
-ألست أخاه في الهدى و وصيّهو أعلم منهم بالكتاب و بالسّنن
-  </p>
-</blockquote>
+> ألست أخاه في الهدى و وصيّهو أعلم منهم بالكتاب و بالسّنن
 
 *May God give good reward to Abu’l-Hasan for us as the reward is in his
 hand. Who, by the way, is like Abu’l-Hasan?*
@@ -444,17 +360,9 @@ caliphate and defended the Commander of the Faithful (*‘a*). Apart from
 the speeches he delivered in this regard, he also composed the following
 poem:
 
-<blockquote dir="rtl">
-  <p>
-بني هاشم لا تطمعوا النّاس فيكم و لا سيّما تيم بن مرّه أو عدي
-  </p>
-</blockquote>
+> بني هاشم لا تطمعوا النّاس فيكم و لا سيّما تيم بن مرّه أو عدي
 
-<blockquote dir="rtl">
-  <p>
-فما الأمر الاّ فيكم و إليكم و ليس لها الاّ أبو حسن عليّ
-  </p>
-</blockquote>
+> فما الأمر الاّ فيكم و إليكم و ليس لها الاّ أبو حسن عليّ
 
 *O Bani Hashim! Do not allow others to get involve in your affair
 especially Taym ibn Murrah or ‘Adi.*[^29]
@@ -466,65 +374,25 @@ Finally, on that very day of Ghadir Khumm, the Prophet’s poet, Hassan
 ibn Thabit, asked the Messenger of Allah’s (S) permission to narrate the
 event of Ghadir in poetry, and thus recites:
 
-<blockquote dir="rtl">
-  <p>
-يناديهم يوم الغدير نبيّهم بخمّ واسمع بالرّسول مناديا
-  </p>
-</blockquote>
+> يناديهم يوم الغدير نبيّهم بخمّ واسمع بالرّسول مناديا
 
-<blockquote dir="rtl">
-  <p>
-وقد جاء جبرئيل عن أمر ربّه بانّك معصوم فلاتك وانيا
-  </p>
-</blockquote>
+> وقد جاء جبرئيل عن أمر ربّه بانّك معصوم فلاتك وانيا
 
-<blockquote dir="rtl">
-  <p>
-و بلغهم ما أنزل الله ربّهم إليك و لا تخش هناك الأعاديا
-  </p>
-</blockquote>
+> و بلغهم ما أنزل الله ربّهم إليك و لا تخش هناك الأعاديا
 
-<blockquote dir="rtl">
-  <p>
-و قام به اذ ذاك رافع كفّه بكف عليّ معلن الصوت عاليا
-  </p>
-</blockquote>
+> و قام به اذ ذاك رافع كفّه بكف عليّ معلن الصوت عاليا
 
-<blockquote dir="rtl">
-  <p>
-فقال فمن مولاكم و نبيّكم؟ فقالوا و لم يبدا أهناك التّعاميا
-  </p>
-</blockquote>
+> فقال فمن مولاكم و نبيّكم؟ فقالوا و لم يبدا أهناك التّعاميا
 
-<blockquote dir="rtl">
-  <p>
-إلهكَ مولانا و أنت نبيّنا و لم تلق منّا في الولاية عاصيا
-  </p>
-</blockquote>
+> إلهكَ مولانا و أنت نبيّنا و لم تلق منّا في الولاية عاصيا
 
-<blockquote dir="rtl">
-  <p>
-فقال له: قم يا عليّ فإنّني رضيتك من بعدي إماماً و هاديا
-  </p>
-</blockquote>
+> فقال له: قم يا عليّ فإنّني رضيتك من بعدي إماماً و هاديا
 
-<blockquote dir="rtl">
-  <p>
-فمن كنت مولاه فهذا وليّه فكونوا له اتباع صدق مواليا
-  </p>
-</blockquote>
+> فمن كنت مولاه فهذا وليّه فكونوا له اتباع صدق مواليا
 
-<blockquote dir="rtl">
-  <p>
-هناك دعا: أللّهمّ وال وليّه وكن للّذي عادى عليّاً معاديا
-  </p>
-</blockquote>
+> هناك دعا: أللّهمّ وال وليّه وكن للّذي عادى عليّاً معاديا
 
-<blockquote dir="rtl">
-  <p>
-فيا ربّ انصر ناصريه لنصرهم إمام هدى كالبدر يجلو الدياجيا
-  </p>
-</blockquote>
+> فيا ربّ انصر ناصريه لنصرهم إمام هدى كالبدر يجلو الدياجيا
 
 *Their Prophet calls on them on the day of Ghadir Khumm; now, listen to
 the call of the Prophet:*  
@@ -843,5 +711,4 @@ Al-Manaqib (Najaf: Manshurat al-Matba‘ah al-Haydariyyah, 1385 AH), pp.
 59-60.
 
 [^42]: Baladhuri, Insab al-Ashraf, vol. 2, p. 312-313.
-
 

@@ -632,4 +632,3 @@ an apparent total certitude as to what goodness and justice are, and a
 willingness to impose his own certitudes upon others, with a use of
 profoundly unsatisfactory arguments to support his convictions.
 
-

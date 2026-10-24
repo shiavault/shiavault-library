@@ -1,14 +1,10 @@
 Section Eighteen
 ================
 
-<blockquote dir="rtl">
-  <p>
-فَأَسْأَلُ اللّهَ الَّذِي أَكْرَمَنِي بِمَعْرِفَتِكُمْ، وَمَعْرِفَةِ
-أَوْلِيَائِكُمْ، وَرَزَقَنِي الْبَراءَةَ مِنْ أَعْدائِكُمْ، أَنْ
-يَجْعَلَنِي مَعَكُمْ فِي الدُّنْيا وَلأَخِرَةِ، وَأَنْ يُثَبِّتَ لِي
-عِنْدَكُمْ قَدَمَ صِدْقٍ فِي الدُّنْيا وَالأَخِرَةِ
-  </p>
-</blockquote>
+> فَأَسْأَلُ اللّهَ الَّذِي أَكْرَمَنِي بِمَعْرِفَتِكُمْ، وَمَعْرِفَةِ
+> أَوْلِيَائِكُمْ، وَرَزَقَنِي الْبَراءَةَ مِنْ أَعْدائِكُمْ، أَنْ
+> يَجْعَلَنِي مَعَكُمْ فِي الدُّنْيا وَلأَخِرَةِ، وَأَنْ يُثَبِّتَ لِي
+> عِنْدَكُمْ قَدَمَ صِدْقٍ فِي الدُّنْيا وَالأَخِرَةِ
 
 “So then I ask Allah who has honoured me with a cognizance of all of you
 and a cognizance of your friends that He also grant me the opportunity
@@ -64,5 +60,4 @@ fighting the battles of Jamal, Siffin, Nahrwan and other wars?
 Thus, in this section we make a prayer to Allah that we are able to
 remain as a “Husayni” throughout our entire life and even at
 Resurrection and that we never switch sides and become a “Yazidi”.
-
 

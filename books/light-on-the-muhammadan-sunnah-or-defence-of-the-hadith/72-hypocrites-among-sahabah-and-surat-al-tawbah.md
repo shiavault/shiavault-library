@@ -1,11 +1,6 @@
 Hypocrites Among Sahabah and Surat Al-tawbah:
 =============================================
 
-  
-  
-  
-  
-
 Al-Baghawi and others reported from Ibn Abbas as saying: The Messenger
 of Allah was not aware of the hypocrites till the revelation of Surat
 Bara’ah (al-Tawbah). Before it he could recognize some of their
@@ -23,8 +18,7 @@ its limit, with their acts and signs of their hypocrisy, and scandals,
 and
 
 their punishment, arranged according to the course of the verses of
-Surat al-Tawbah not according to the letters. <span
-id="_anchor_682"></span>682
+Surat al-Tawbah not according to the letters. 682
 
 1. Their asking permission to remain behind, which can never be done by
 a believer, as none asks permission to abandon jihad but only that who
@@ -179,8 +173,7 @@ Best of sustainers” (61:11).
 
 ### Hypocrisy of Companions during and after Prophet’s Lifetime:
 
-The following is a hadith reported by al-Bukhari and others <span
-id="_anchor_683"></span>683 from Hudhayfah ibn al-Yaman, in which he
+The following is a hadith reported by al-Bukhari and others 683 from Hudhayfah ibn al-Yaman, in which he
 manifests clear the hypocrisy of the Sahabah during the Prophet’s
 lifetime and after him.
 
@@ -296,7 +289,7 @@ The point that has no room for any doubt being that, the Muslims have
 differed in opinions regarding Uthman, and this disagreement resulted in
 a disorder and insurrection that created disunion and discord after
 which they haven’t attained unity or agreement till the present time.
-<span id="_anchor_684"></span>684
+684
 
 Taha Husayn concluded this chapter with some elaboration about the rules
 that everyone studying the Islamic history should follow and base his
@@ -315,21 +308,19 @@ undoubtedly deserve approval and confidence of ilm (knowledge), truth
 and religion altogether.
 
 I conclude this chapter with a word recorded by Dr. Ahmad Amin (may
-God’s mercy be upon him) in his book Duha al-Islam, <span
-id="_anchor_685"></span>685 through a letter by some Zaydis, saying.
+God’s mercy be upon him) in his book Duha al-Islam, 685 through a letter by some Zaydis, saying.
 
 “We noticed how the Sahabah used to criticize each other, or rather
 curse each other, and if the Companions were at a position where no
 criticism or cursing be permitted, we would be able to recognize this
 fact through them themselves, as they are better aware of their status
-than common people of our present time. <span
-id="_anchor_686"></span>686 For example Talhah, al-Zubayr and A’ishah
+than common people of our present time. 686 For example Talhah, al-Zubayr and A’ishah
 and their supporters have forsaken Ali, with Mu’awiyah and Amr ibn al-As
 having not fallen short of smiting him and his followers with the sword.
 It is also
 
 reported that Umar used to vilify and refute the narrations of Abu
-Hurayrah, <span id="_anchor_687"></span>687 standering Khalid ibn
+Hurayrah, 687 standering Khalid ibn
 al-Walid and charging him with debauchery, accusing Amr ibn al-’As and
 Mu’awiyah with dishonesty and looting the spoils of war and deducting
 them. In fact we can rarely find among the Sahabah anyone whose tongue
@@ -353,8 +344,7 @@ manifest how the Ummah ulama’ were viewing the akhbar al-ahad.
 Attitude of Ulama’ toward Akhbar al-Ahad
 ----------------------------------------
 
-In a comment on utterance of Ibn al-Salah, <span
-id="_anchor_688"></span>688 “The Ummah received al-Bukhari and Muslim
+In a comment on utterance of Ibn al-Salah, 688 “The Ummah received al-Bukhari and Muslim
 with approval” al-Jaza’iri said: “He didn’t manifest what he meant by
 Ummah! Or what he intended by receiving them both with approval! And he
 had to elucidate that clearly so as not to let doubts and questions
@@ -390,8 +380,7 @@ it if finding its interpretation accessible. Or they would reject it
 contenting with saying: This is of akhbar al-ahad indicating only
 conjecture, and it is impermissible to take decision based on conjecture
 in the case of kalami issues, since the basic principle in ilm al-kalam
-being always: The naqli evidences can never indicate certainty” <span
-id="_anchor_689"></span>689 As an example for this, we can refer to the
+being always: The naqli evidences can never indicate certainty” 689 As an example for this, we can refer to the
 hadith: A dispute was heated between the Paradise and Fire. The Fire
 said: I have been distinguished with the supercilious and despots. While
 the Paradise said: What is the matter with me that no one enters me but
@@ -426,7 +415,7 @@ the mutakallimun and muhaddithun, that is known for anyone looking into
 history books, to the extent that the mutakallimun called the
 muhaddithun with the name al-mushabbihah (anthropomorphists), while the
 muhaddithun used to give them the title al-mu‘attilah (prorogators).
-<span id="_anchor_690"></span>690
+690
 
 ### The Fuqaha’:
 
@@ -502,8 +491,7 @@ how he found defect in the text he stated.
 Some of the usulis said that the traditions contained things that can’t
 be ascribed to the Prophet (S), as they can’t be held in accordance with
 their apparent aspect due to their being contradictory to the proof, and
-other than their appearance being far from his(S) eloquence. <span
-id="_anchor_691"></span>691
+other than their appearance being far from his(S) eloquence. 691
 
 ### Sayings of Madhahib Imitators:
 
@@ -536,10 +524,10 @@ his companions.
 
 This matter was elucidated by al-Imam Abu Yusuf, the companion of Abu
 Hanifah, in his book which he compiled from al-Awza’i. And in the book
-al-Umm of al-Imam al-Shafi’i <span id="_anchor_692"></span>692 the
+al-Umm of al-Imam al-Shafi’i 692 the
 following statement was quoted from Abu Yusuf the disciple of
 al-Shafi’I: “You have to take the hadith which is widely-known by common
-people (‘ammah) <span id="_anchor_693"></span>693 and beware of the odd
+people (‘ammah) 693 and beware of the odd
 one, as Ibn Abi Karimah related to us from Ja’far that the Messenger of
 Allah has one day summoned the Jews and put to them some questions, when
 they related to him some traditions in which they told lies about Jesus
@@ -557,20 +545,19 @@ Messenger of Allah. The narrations are multiplied, producing strange
 things unknown by the fuqaha’, and inconsistent with the Book and
 Sunnah, so avoid the odd traditions, and take only the traditions
 approved unanimously by men of hadith and fiqh, and which agree with the
-Book and the (Prophetic) Sunnah. <span id="_anchor_694"></span>694 So
+Book and the (Prophetic) Sunnah. 694 So
 you have to measure everything according to this rule, whatever
 contradicting the Qur’an is verily not uttered by the Messenger of
 Allah, even if cited through narrations. And even if related by
 trustworthy narrators from the Messenger of Allah (S), that he said when
 was on death-bed: I forbid — in another narration: I never forbid but
 only — what is forbidden by the Qur’an and Allah, and they never retain
-anything against me. <span id="_anchor_695"></span>695 Make the Qur’an
+anything against me. 695 Make the Qur’an
 and the Sunnah your Imam and leader, and keep on this, and take it as a
 criterion for measuring whatever is cited to you, of that which was
 never clarified in the Book and the Sunnah!
 
-Al-Imam Alam al-Din al-Maliki, in his book Iqaz al-himam, <span
-id="_anchor_696"></span>696 writes:
+Al-Imam Alam al-Din al-Maliki, in his book Iqaz al-himam, 696 writes:
 
 We may see someone that when coming across some hadith agreeing with his
 madhhab, he would be delighted and would admit and yield to it. But if
@@ -579,7 +566,7 @@ supporting the madhhab of other than his imam, he would open wide the
 door for remote probabilities, turning away from it, seeking for his
 leader’s madhhab aspects of preponderation, despite its contradiction
 with the Suhabah, Followers and express text; when failing in all this
-he would claim abrogation <span id="_anchor_697"></span>697 , without
+he would claim abrogation 697 , without
 any evidence, or specification, or non-acting according to it, or any
 other plea presented by ill-minded people. When being unable to do all
 this, he would allege that his imam had knowledge of all the narrations
@@ -604,13 +591,13 @@ saying: The most beloved traditions to me are those upon which there
 being unanimous agreement among people.
 
 We have to return to the original topic. Al-Shatibi, in al-Muwafiqat,
-<span id="_anchor_698"></span>698 said. About the hadith “washing the
+698 said. About the hadith “washing the
 pot from the licking of the dog seven times”, the imam (of madhhab)
 said: This hadith is cited, and I don’t know the truth about it! He
 deemed it weak saying: When its (dog’s) game trophy is eaten so how its
 saliva being abhorred? Malik also disregarded the hadith: “Whoever dies
 while owing some days fasting, his wali (custodian) should fast on his
-behalf, <span id="_anchor_699"></span>699 in accordance with the
+behalf, 699 in accordance with the
 Qur’anic principle: “No laden soul can bear another’s load.”
 
 Ibn al-Arabi says: If khabar al-wahid comes contradictory to any of the
@@ -634,7 +621,7 @@ Abu Hanifah holds: When khabar al-wahid is cited contradictory to the
 qiyas (analogy) it will never be accepted, that is why they have never
 approved of the hadith of al-misrat.
 
-Al-Tahawi, <span id="_anchor_700"></span>700 the Imam of the Hanafis,
+Al-Tahawi, 700 the Imam of the Hanafis,
 who was mujtahid in the madhhab, used to disagree with his father when
 the evidence being established, criticizing the hadith in respect of its
 meaning despite the veracity of the sanad in the view of the
@@ -658,7 +645,7 @@ was afqah (more knowledgeable) than Salim, and Alqamah was not lower
 than Ibn Umar in fiqh ... and if Ibn Umar was merited with his company
 (to the Prophet), al-Aswad also was of great virtue.
 
-The Moroccan Hafiz, in al-Intiqa’, <span id="_anchor_701"></span>701
+The Moroccan Hafiz, in al-Intiqa’, 701
 said:
 
 Many of men of hadith used to permit sarcasm against Abu Hanifah because
@@ -672,11 +659,10 @@ considered to be correct that were reported by trustworthy narrators,
 beside the acts of the Messenger and Kufah ulama’ he could see.
 
 Al-Awza’i used to say: We never harbour malice against Abu Hanifah
-because of exerting his opinion, <span id="_anchor_702"></span>702 as we
+because of exerting his opinion, 702 as we
 all do that also, but the reason for our malice against him lies in the
 fact that when relating to him any hadith from the Messenger of Allah he
-would disagree with it by approving of another hadith. <span
-id="_anchor_703"></span>703
+would disagree with it by approving of another hadith. 703
 
 Despite all these facts, Abu Hanifah is and will be counted as the
 greatest Imam, and his followers are spreading all over the world, east
@@ -695,7 +681,7 @@ reported from the Messenger of Allah. He also reported from Wukay’ as
 saying: We know about Abu Hanifah that he disapproved of two hundred
 traditions. Further he reported from Hammad ibn Salamah through two
 ways, as saying: Abu Hanifah received the athar (old traditions) and
-sunan and refuted them by his opinion. <span id="_anchor_704"></span>704
+sunan and refuted them by his opinion. 704
 
 We conclude this chapter with a statement uttered by Abu Shamah:
 
@@ -706,14 +692,14 @@ al-amr al-awwal, writes: One of gnostics was inquired about the meaning
 of the madhhab, when he replied: It gives the meaning of an altered Din,
 as Allah the Exalted said: “... and be not of those who ascribe partners
 (unto Him). Of those who split up their religion and became
-schismatics.” <span id="_anchor_705"></span>705
+schismatics.” 705
 
 ### Points of Disagreement among Fuqaha’:
 
 The opinions of fuqaha’ differed due to the fact that everyone of them
 adopted a single hadith, adhering to it alone with ignoring others, the
 example for which can be seen in the hadith related by Abd al-Warith
-<span id="_anchor_706"></span>706 ibn Sa’id who said: I came to Makkah
+706 ibn Sa’id who said: I came to Makkah
 where I found Abu Hanifah. I said to him: What is your opinion regarding
 a man who sold something with stipulating a certain provision? He
 replied: The selling transaction is invalid and the provision is
@@ -732,7 +718,7 @@ of what his friends said, when he said: I have nothing to do with what
 they said to you, I was told by Hisham, reporting from his father, that
 A’ishah said: The Messenger of Allah ordered me to buy a slave girl and
 set her free ... the selling is valid and the condition is invalid.
-<span id="_anchor_707"></span>707
+707
 
 Then I went to Shubrimah and made him aware of the opinions of his two
 companions, when he said: It is not my business to know what are the
@@ -740,7 +726,7 @@ companions, when he said: It is not my business to know what are the
 opinions of them. It was reported to me by Mis’ar ibn Kudam, from
 Muharib ibn Dithar, from Jabir who said: I sold to the Prophet (S) a
 camel, and he stipulated to me to carry it to al-Madinah, so the selling
-is valid and the condition is valid. <span id="_anchor_708"></span>708
+is valid and the condition is valid. 708
 
 I suffice with these evidences, as citing all of them will need a full
 volume.
@@ -819,8 +805,7 @@ probable he said some words identical to these ones, and the narrators
 have used the identical words not the original ones. Because what is
 intended being the meaning, particularly with passage of long time on
 hearing without precising the hadith by writing, and depending upon
-memorization with precision of meaning, <span
-id="_anchor_709"></span>709 as precising of words being far-reaching
+memorization with precision of meaning, 709 as precising of words being far-reaching
 especially in the long traditions. Sufyan al-Thawri said: If I tell you
 that I relate to you the hadith exactly in the way I heard it, never
 believe me, as it is verily the denotation. And whoever making the least
@@ -859,12 +844,12 @@ his Progeny) was the most eloquent among the Arabs, and this hadith is
 da’if (weak). Also in the book al-Nahw of Ibrahim Mustafa, a hadith is
 recorded, that reads: Verily the severest torment on the Day of
 Resurrection will befall the photographers,” so its narrator has
-solecized. <span id="_anchor_710"></span>710 This hadith was reported by
+solecized. 710 This hadith was reported by
 Muslim.
 
 Among those who refuted Ibn Malik, we can mention also Abu Ishaq Ibrahim
 al-Andalusi al-Shatibi al-Ghirnati, in his exposition (sharh) of
-Alfiyyat Ibn Malik, who said. <span id="_anchor_711"></span>711
+Alfiyyat Ibn Malik, who said. 711
 
 Ibn Malik, by inferring the Prophetic hadith, has in fact disagreed with
 all the earliers (grammarians), as in none of their grammar books we can
@@ -940,13 +925,13 @@ from his father Amir al-Mu’minin, from the Messenger of Allah, (God’s
 peace be upon them all. Whereas the traditions reported by people like
 Abu Hurayrah, Samurah ibn Jundub, Marwan ibn al-Hakam, Imran ibn Hittan,
 and Amr ibn al-As and their likes, have no consideration even an atom in
-their view. <span id="_anchor_712"></span>712
+their view. 712
 
-Concerning the Khawarij, <span id="_anchor_713"></span>713 they used to
+Concerning the Khawarij, 713 they used to
 take and adopt only those traditions reported by the Sahabah followed by
 them. So the traditions accepted and deemed authentic by them being only
 those which were propagated to people before the fitnah (disorder,
-sedition), <span id="_anchor_714"></span>714 white after it they have
+sedition), 714 white after it they have
 disregarded all the Jumhur due to their following of the imams of
 tyranny — as they claimed — as a result of which they could not attain
 their trust.
@@ -962,8 +947,7 @@ regard.
 Talking about the sorcery ascribed to the Prophet, he said: Many of
 (blind) imitators who never recognize what the Prophethood is and the
 rights to be considered for it, were of the opinion that effect of
-sorcery on the noble soul of the Prophet was correct, <span
-id="_anchor_715"></span>715 so it should be believed, with disapproving
+sorcery on the noble soul of the Prophet was correct, 715 so it should be believed, with disapproving
 and rejecting all the innovations of the heretics since they denied
 sorcery while some Qur’anic verses were revealed on confirming it.!! We
 can clearly notice here how the correct Din and manifest truth being
@@ -976,8 +960,7 @@ interpretation is applied to this fact while it is unallowed in that
 case? Though what is intended by the polytheists being so manifest.
 Because they say that the Satan used to transfigurate the Prophet (S),
 and this transfiguration was counted by them to be sorcery and one of
-its modes. This being the very sorcery ascribed to Labid, <span
-id="_anchor_716"></span>716 in regard of whom they claimed that sorcery
+its modes. This being the very sorcery ascribed to Labid, 716 in regard of whom they claimed that sorcery
 had intermixed with his mind and perception!
 
 The fact in which all should strongly believe is that the Qur’an being
@@ -989,10 +972,6 @@ it there being verses refuting the charge of sorcery from his (S), when
 ascribing assertion of this charge to the polytheists, his enemies,
 censuring them for this allegation. So he is definitely not afflicted
 with sorcery.
-
-  
-  
-  
 
 682. This chapter is taken from the tenth volume of Tafsir al-Qur'an
 al-hakim, of al-Imaman Muhammad Abduh and Muhammad Rashid Rida, and the

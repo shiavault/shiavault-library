@@ -425,4 +425,3 @@ Vol. II, p. 460.
 
 [^28]: al-Tabari, Tarikh, Vol. II, p.84.
 
-

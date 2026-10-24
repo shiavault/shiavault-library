@@ -66,4 +66,3 @@ with Ibn al-Nadim must have preceded his discipleship of al Sayyid al
 Murtada for it is unlikely that Abu Ya'la may have become the Sayyid's
 pupil before the latter had reached the age of 22 years.
 
-

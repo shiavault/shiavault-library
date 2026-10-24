@@ -82,7 +82,6 @@ ideologies correspond with the natural laws and life's balanced system.
 These two points well show Allah's wisdom and will in His legislation
 and creation.
 
-
 **Protecting The Animal Environment**
 
 "Behold! In the creation of the heavens and the earth; in the
@@ -289,7 +288,6 @@ friend, hath of a surety suffered a loss that is manifest." Holy Qur'an
 able to understand the Islamic principles which call for the protection
 of animals and their environment.
 
-
 **The Government and Environment Protection**
 
 Islam terms government as a political power respon -sible for the
@@ -347,7 +345,6 @@ Holy Qur'an prohibits this, in its statement:
 Holy Qur'an (A\`raf 7:56)
 
 Praise be to Allah, the Lord of the Worlds.
-
 
 **Endnotes**
 
@@ -409,5 +406,4 @@ on the merit of cultivation and planting, pg. 135.
 23. Ibid., pg. 192.
 
 24. Ibid., vol. 2, pg. 12.
-
 

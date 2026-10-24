@@ -196,4 +196,3 @@ this different from Resurrection? Illustrate your answer.
 
 6. Explain the intermediate world.
 
-

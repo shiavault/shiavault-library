@@ -2004,4 +2004,3 @@ recommended, be considered bidat? I firmly resolve that, Allah willing,
 I will go this year to visit the tomb of the beloved grandson of the
 Prophet, Husain. I will ask Allah to forgive me for my past faults.
 
-

@@ -44,7 +44,6 @@ the land nor does she irrigate the tilth, sound, without a blemish in
 her. They said: Now you have brought the truth. So they sacrificed her
 though they had not the mind to do it". (2:67-71)
 
-
 **Chapter 15: Divine Favours on Israelites and their Stubbornness**
 
 "We made the clouds to give shade over you and We sent to you Manna and
@@ -78,5 +77,4 @@ Allah." (33:69)13
 grief when you know that I am Allah's apostle to you. But when they
 turned aside, Allah made the hearts turn aside and Allah doth not guide
 the transgressing people." (61:5)
-
 

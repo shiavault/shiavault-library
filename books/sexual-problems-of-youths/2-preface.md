@@ -65,4 +65,3 @@ instructions in this book. This is our utmost desire.
 Qom – Nasir Makarim Shirazi  
  August 1971
 
-

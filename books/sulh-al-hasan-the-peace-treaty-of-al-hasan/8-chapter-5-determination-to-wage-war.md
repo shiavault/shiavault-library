@@ -1,8 +1,6 @@
 Chapter 5: Determination To Wage War
 ====================================
 
-  
-
 The studies throughout the various historical periods have maintained
 that the victory of religion in a certain society is of great importance
 for spreading ethics. That is because nations follow the example of
@@ -31,8 +29,6 @@ own message. They did not retreat from it. For they wanted to save
 people (from oppression) not to achieve their own interest. They wanted
 to spread the teachings of the religion not to establish their own
 thorns. They wanted to preserve morals not to preserve their own selves.
-
-  
 
 However, Mu'awiya opposed these objectives. He waged war against those
 who wanted to propagate them (the objectives). He insisted on his
@@ -70,8 +66,6 @@ of Muhammad. So you bestowed upon them and yielded to them. Then we
 argued with Quraysh as the Arabs did. However, Quraysh did not treat us
 with justice as the Arabs treated them. They (Quraysh), with exclusion
 of  
-
-  
 
 the Arabs, took this matter through (asking) equity and protest. When
 we, the members of the House of Muhammad and his friends, began
@@ -111,8 +105,6 @@ than you with Allah and with every loyal repentant, and a repenting
 heart. Fear Allah, abandon oppression, and spare the blood of the
 Muslims. Enter peace and obedience. Do not dispute with the people of
 authority over their authority, and with those who are  
-
-  
 
 worthier of it than you. With that Allah will put out this disturbance,
 unify (the Muslims), and settle the enmity.
@@ -155,8 +147,6 @@ the letter of al-Hasan, peace be on him, was clear in
 
 [[1]](#n1) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 12.
 
-  
-
 threatening, severe in preaching, strong in presenting the words that
 ordered Mu'awiya and prevented him: "Fear Allah, abandon oppression, and
 spare the blood of the Muslims. Be peaceful and obedient. Do not dispute
@@ -196,8 +186,6 @@ the religion and the secret of its success among the religions.
 
 Mu'awiya was unable to convince even the ignorant ones through two ways.
 Namely, he was unable to convince them to believe in him  
-
-  
 
 and his father Abu Sufyan b. Harb. For the Muslims knew the backgrounds
 of these two ways through numbers and dates. So Mu'awiya began writing
@@ -242,10 +230,6 @@ thousand dinars. Zayd b. Thabit had gold and silver which were broken
 with axes. Therefore, no wonder when the majority expressed their
 dissatisfaction with the plan of this new one (i.e., Mu'awiya). No
 wonder  
-
-  
-
-  
 
 ------------------------------------------------------------------------
 
@@ -294,8 +278,6 @@ and al-Zubayr) went here and there accusing 'Ali of killing 'Uthman,
 while 'Ali b. Abu Talib gave him a sincere piece of advice and warned
 him against that fate."
 
-  
-
 Yes, the only proof of Mu'awiya in his letters to al-Hasan was this
 claim of his: "I am prior to you in authority, more experienced than you
 in authority, and older than you in age." [[1]](#r4)
@@ -338,8 +320,6 @@ The man (i.e., Mu'awiya) maybe the most knowledgeable one of all
 
 [[1]](#n4) Ibn abu al-Hadid, Sharh Nahj al-Balagha, vol 4, p.13.
 
-  
-
 people in buying the consciences of men or in stirring up discord among
 men. However, this does not mean that such a man is worthy of the
 succession of the Prophethood in Islam.
@@ -377,8 +357,6 @@ However, al-Hasan was the grandson of the Apostle of Allah may Allah
 bless him and his family. Thus the Muslims all over the Muslim lands
 pledged allegiance to him. For this reason,  
  Mu'awiya said to him: "I am prior to you in authority, more  
-
-  
 
 experienced than you in authority, and older than you in age.
 
@@ -422,8 +400,6 @@ his advance against Iraq. So they got ready to meet him and
 [[2]](#n6) Ibid. [[3]](#n7) Al-Mas'udi, Hamish b. al-Athir, vol. 6, p.
 119.
 
-  
-
 his army.
 
 In this way, the attitude became serious. Thus the trustee of authority
@@ -464,8 +440,6 @@ learned them from his father, the Commander of the faithful and Master
 of the Arabs. As history tells us, the Commander of the faithful took
 care of his son al-Hasan very much: "He (i.e., the  
 
-  
-
 Commander of the faithful) honored him very much, glorified him, and
 revered him." [[1]](#r8) These commandments of Imam 'Ali, peace be on
 him, are ideals. Falsehood does not approach them. They do not deviate
@@ -503,8 +477,6 @@ problems with his watchful mind more than they did.
 ------------------------------------------------------------------------
 
 [[1]](#n8) Ibn Kathir, vol. 8, pp. 36- 37.
-
-  
 
 Al-Hasan understood that critical attitude very well, for he knew those
 bad manners that prevailed a great part of those who were with him in
@@ -544,8 +516,6 @@ For this reason, what al-Hasan had chosen was the best thing for his
 critical situation.
 
 Some of al-Hasan's companions recommended him to make war  
-
-  
 
 at haste. They asked him: "to surprise Mu'awiya through advancing
 against him to fight against him in his lands, his country, and his
@@ -590,8 +560,6 @@ of people went out of it. Among them were al-Bukhari, Abu Firas
 al-Hamadani, and the like." [[3]](#n11) Al-Ya'qubi, Ta'rikh, vol. 2, p.
 191.
 
-  
-
 Kufa to invite them to fight against him.
 
 Mu'awiya regarded the killing of 'Ali, peace be on him, as the best
@@ -633,8 +601,6 @@ al-Ashtar al-
 
 [[1]](#n12) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 13.
 
-  
-
 Nakha'i, Muslim b. 'Ausaja, 'Amr b. al-Hamq al-Khuza'i, Bashir
 al-Hamadani, al-Musayyab b. Nujayya, 'Amir b. Wathila al-Kinani,
 Juwayriya b. Mushir, 'Abd Allah b. Musmi' al-Hamadani, Qays b. Mushir
@@ -673,8 +639,6 @@ It (al-Hasan's Camp) included weak, cowardly persons. If they had been
 forced to fight, they would have escaped. Besides they had no hope but
 booty: "They do not agree with each other on an idea or a desire. They
 are in disagreement. They have no  
-
-  
 
 intention in good nor in evil." [[1]](#r13) Moreover, the Camp included
 party quarrels that played a dangerous role in hindering the necessities
@@ -717,8 +681,6 @@ They waited for appropriate events and conditions.
 with which he described the Kufans. See Ibn al-Athir, vol. 3, p. 62.
 [[2]](#n14) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol. 4, p. 14.
 
-  
-
 They seized the opportunities, and cooperated with each other to commit
 abominable acts. They paid no attention to the results of their deeds.
 Moreover, they were indifferent to disgrace in this life and the fire of
@@ -756,8 +718,6 @@ there is an Imam over the people, then the curse of Allah is on him, so
 kill him."
 
 Al-Hasan had to forbid evil deeds by force. For he had military  
-
-  
 
 forces all over Kufa and the fortified borderline cities which he
 governed. This makes us certain that there were enough forces to wage
@@ -799,8 +759,6 @@ gone astray. The people came in groups on the day when the summons
 [[1]](#n15) Al-Ya'qubi, al-Ta'rikh, vol. 2, p. 94. Ibn Qutayba
 al-Dinawari, al Imama wa al-Siyasa, p. 151. [[2]](#n16) Jamil Madwar,
 Hidarat al-Islam fi dar al-Salam.
-
-  
 
 would have won the battle if these groups of people had been truthful in
 what they promised Allah on the day when the parties met and the battle

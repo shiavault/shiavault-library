@@ -66,19 +66,11 @@ this sin:
 their own souls... (59:19)."***
 Elsewhere it says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا
-يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ”
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا
+> يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ”
 
-<blockquote dir="rtl">
-  <p>
-إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ
-تَعْمَلُونَ“…
-  </p>
-</blockquote>
+> إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ
+> تَعْمَلُونَ“…
 
 ***"... Take care of your souls: he who errs cannot hurt you when you
 are the right way... (5:105)."***
@@ -86,13 +78,9 @@ are the right way... (5:105)."***
 Although divine verses pay heed to the universe and the souls, the Holy
 Qu'ran states:
 
-<blockquote dir="rtl">
-  <p>
-”سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ
-يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ
-أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ“…
-  </p>
-</blockquote>
+> ”سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ
+> يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ
+> أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ“…
 
 ***"We will soon show them our signs in the universe and in their own
 souls, until it will become quite clear to them that it is the truth...
@@ -101,11 +89,7 @@ souls, until it will become quite clear to them that it is the truth...
 It however, accords a special status to the verses pertaining to the
 soul with such an interpretation:
 
-<blockquote dir="rtl">
-  <p>
-”وَفِي أَنْفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ“
-  </p>
-</blockquote>
+> ”وَفِي أَنْفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ“
 
 ***"And in your own souls (too); will you not then see (51:21)?"***
 
@@ -207,5 +191,4 @@ framework of that very terminology so as not to misunderstand (the
 matters).
 
 [^1]: Mustadrakul wasail vol 2, p310.
-
 

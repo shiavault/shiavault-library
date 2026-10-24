@@ -25,33 +25,21 @@ reputations is ignobility.
 generously spending wealth is a sublime gift.
 
 > 5ـ وُفُورُ الدّينِ والعِرضِ بِابْتِذالِ الأمْوالِ مَوْهِبَةٌ
-<blockquote dir="rtl">
-  <p>
-سَنِيَّةٌ.
-  </p>
-</blockquote>
+> سَنِيَّةٌ.
 
 6. Protect your dignity with your worldly possessions and you will be
 honoured, do good to others and you will be served, show clemency and
 you will be put forward (or you will advance).
 
 > 6ـ وَقِّ عِرْضَكَ بِعَرَضِكَ تُـكْرَمْ، وتَفَضَّلْ تُخْدَمْ، واحْلُمْ
-<blockquote dir="rtl">
-  <p>
-تُقَدَّمْ.
-  </p>
-</blockquote>
+> تُقَدَّمْ.
 
 7. The plenitude of dignity is [attained] through the generous spending
 of wealth, and the uprightness of religion is [realized] through
 devaluing this world.
 
 > 7ـ وُفُورُ العِرْضِ بِابْتِذالِ المالِ، وَصَلاحُ الدّينِ بِإفْسادِ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا.
-  </p>
-</blockquote>
+> الدُّنيا.
 
 8. Nothing safeguards reputations like spending generously.
 
@@ -78,5 +66,4 @@ engaging in shameful deeds].
 value for him.
 
 > 13ـ مَنْ كَرُمَ عَلَيْهِ عِرْضُهُ هانَ عَلَيْهِ المالُ.
-
 

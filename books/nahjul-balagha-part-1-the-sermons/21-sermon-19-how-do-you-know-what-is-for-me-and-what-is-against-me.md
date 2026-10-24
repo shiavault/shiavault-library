@@ -6,24 +6,12 @@ of) Kufah when al-Ash\`ath ibn Qays[^1] objected and said, “O’ Amir
 al-mu’minin this thing is not in your favour but against you.”[^2] Amir
 al-mu’minin looked at him with anger and said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-قاله للاشعث بن قيس وهو على منبر الكوفة يخطب
-  </p>
-</blockquote>
+> قاله للاشعث بن قيس وهو على منبر الكوفة يخطب
 
-<blockquote dir="rtl">
-  <p>
-فمضى في بعض كلامه شيء اعترضه الاشعث، فقال: يا أميرالمؤمنين، هذه عليك
-لا لك، فخفض (عليه السلام) إليه بصره ثم قال:
-  </p>
-</blockquote>
+> فمضى في بعض كلامه شيء اعترضه الاشعث، فقال: يا أميرالمؤمنين، هذه عليك
+> لا لك، فخفض (عليه السلام) إليه بصره ثم قال:
 
 How do you know what is for me and what is against me?! Curse of Allah
 and others be on you. You are a weaver and son of a weaver. You are the
@@ -34,16 +22,12 @@ put to sword and invites death and destruction for them does deserve
 that the near ones should hate him and the remote ones should not trust
 him.
 
-<blockquote dir="rtl">
-  <p>
-ومَا يُدْرِيكَ مَا عَلَيَّ مِمَّا لِي؟ عَلَيْكَ لَعْنَةُ اللهِ
-وَلَعْنَةُ اللاَّعِنِينَ! حَائِكٌ ابْنُ حَائِك! مُنَافِقٌ ابْنُ
-كُافِر! وَاللهِ لَقَدْ أَسَرَكَ الكُفْرُ مَرَّةً وَالاسْلامُ أُخْرَى!
-فَمَا فَداكَ مِنْ وَاحِدَة مِنْهُمَا مَالُكَ وَلاَ حَسَبُكَ! وَإِنَّ
-امْرَأً دَلَّ عَلَى قَوْمِهِ السَّيْفَ، وَسَاقَ إِلَيْهِمُ الحَتْفَ،
-لَحَرِيٌّ أَنْ يَمقُتَهُ الاْقْرَبُ، وَلاَ يَأْمَنَهُ الاْبْعَدُ!
-  </p>
-</blockquote>
+> ومَا يُدْرِيكَ مَا عَلَيَّ مِمَّا لِي؟ عَلَيْكَ لَعْنَةُ اللهِ
+> وَلَعْنَةُ اللاَّعِنِينَ! حَائِكٌ ابْنُ حَائِك! مُنَافِقٌ ابْنُ
+> كُافِر! وَاللهِ لَقَدْ أَسَرَكَ الكُفْرُ مَرَّةً وَالاسْلامُ أُخْرَى!
+> فَمَا فَداكَ مِنْ وَاحِدَة مِنْهُمَا مَالُكَ وَلاَ حَسَبُكَ! وَإِنَّ
+> امْرَأً دَلَّ عَلَى قَوْمِهِ السَّيْفَ، وَسَاقَ إِلَيْهِمُ الحَتْفَ،
+> لَحَرِيٌّ أَنْ يَمقُتَهُ الاْقْرَبُ، وَلاَ يَأْمَنَهُ الاْبْعَدُ!
 
 **as-Sayyid ar-Radi says:** This man was arrested once when an
 unbeliever and once in days of Islam. As for Amir al-mu’minin’s words
@@ -54,14 +38,10 @@ deceived his people and contrived a trick till Khalid attacked them.
 After this incident his people nicknamed him “\`Urf an-Nar” which in the
 parlance stood for traitor.
 
-<blockquote dir="rtl">
-  <p>
-قال السيد الشربف: يريد عليه السلام أنه أُسر في الكفر مرة وفي الاِسلام
-مرة . وأما قوله: «دل على قومه السيف»، فأراد به: حديثاً كان للاَشعث مع
-خالد بن الوليد باليمامة، غرّ فيه قومه ومكر بهم حتى أوقع بهم خالد، وكان
-قومه بعد ذلك يسمو نه «عُرْفَ النار»، وهو اسم للغادر عندهم.
-  </p>
-</blockquote>
+> قال السيد الشربف: يريد عليه السلام أنه أُسر في الكفر مرة وفي الاِسلام
+> مرة . وأما قوله: «دل على قومه السيف»، فأراد به: حديثاً كان للاَشعث مع
+> خالد بن الوليد باليمامة، غرّ فيه قومه ومكر بهم حتى أوقع بهم خالد، وكان
+> قومه بعد ذلك يسمو نه «عُرْفَ النار»، وهو اسم للغادر عندهم.
 
 Alternative Sources for Sermon 19
 ---------------------------------
@@ -233,5 +213,4 @@ women were calling him traitor and one who got his own people put to
 sword. Who else can be a greater traitor? However, when he reached
 Medina Abu Bakr released him and on that occasion he was married to Umm
 Farwah.
-
 

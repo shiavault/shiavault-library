@@ -129,4 +129,3 @@ himself nor would he hunt them."[^7]
 
 [^7]: Ihya’ al-‘Ulum, vol. 2, p. 369.
 
-

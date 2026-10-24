@@ -68,4 +68,3 @@ criterion of 'meaning'. Metaphysical propositions are as meaningful as
 any other, in that they relate to realities independent of the mind and
 the logical possibility of being true or false holds in their case.
 
-

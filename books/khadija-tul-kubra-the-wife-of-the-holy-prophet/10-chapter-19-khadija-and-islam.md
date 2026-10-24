@@ -144,7 +144,6 @@ BENEATH WHICH RIVERS FLOW; THEY WILL DWELL THEREIN FOR EVER; ALLAH WELL
 PLEASED WITH THEM, AND THEY WITH HIM: ALL THIS FOR SUCH AS FEAR THEIR
 LORD AND CHERISHER. (Chapter 98; verses 7, 8)
 
-
 **Chapter 20 : Khadija and the Muslim Historians**
 
 In their history books, the highest tribute that most of the Muslim
@@ -727,5 +726,4 @@ May Allah bless Khadija and may He elevate her to the highest ranks in
 the hierarchy of His true and faithful friends. May Allah bless Muhammed
 Mustafa, and his Ahlel-Bayt. Through him mankind received the Blessing
 of Light of Islam.
-
 

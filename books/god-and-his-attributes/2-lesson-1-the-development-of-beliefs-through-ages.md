@@ -318,4 +318,3 @@ gained from religion.
 
 [^2]: King, Sociology, p.99.
 
-

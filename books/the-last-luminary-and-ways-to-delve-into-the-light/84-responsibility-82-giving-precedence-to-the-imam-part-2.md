@@ -20,13 +20,9 @@ supplicates for another person, whatever he prayed for will also be
 applicable to him and his pleas will be accepted. In this regards, Imam
 Muhammad b. ‘Ali al-Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الْمُؤْمِنُ يَدْعُو لِأَخِيهِ بِظَهْرِ الْغَيْبِ فَيَقُولُ لَهُ
-الْمَلَكُ: آمِينَ وَ يَقُولُ اللٌّهُ الْعَزِيزُ الْجَبَّارُ: وَ لَكَ
-مِثْلاَ مَا سَأَلْتَ وَ قَدْ أُعْطِيتَ مَا سَأَلْتَ بِحُبِّكَ إِيَّاهُ
-  </p>
-</blockquote>
+> هُوَ الْمُؤْمِنُ يَدْعُو لِأَخِيهِ بِظَهْرِ الْغَيْبِ فَيَقُولُ لَهُ
+> الْمَلَكُ: آمِينَ وَ يَقُولُ اللٌّهُ الْعَزِيزُ الْجَبَّارُ: وَ لَكَ
+> مِثْلاَ مَا سَأَلْتَ وَ قَدْ أُعْطِيتَ مَا سَأَلْتَ بِحُبِّكَ إِيَّاهُ
 
 “He is a believer who prayers for his brother (in faith) in his absence,
 to which the Angel says: ‘Ameen (May Allah accept your prayer).’ At this
@@ -36,12 +32,8 @@ for him.’”[^1]
 
 Imam Musa b. Ja’far al-Kadhim (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَنْ دَعَا لِأَخِيهِ بِظَهْرِ الْغَيْبِ نُودِيَ مِنَ الْعَرْشِ:
-وَ لَكَ مِائَةُ أَلْفِ ضِعْفٍ
-  </p>
-</blockquote>
+> إِنَّ مَنْ دَعَا لِأَخِيهِ بِظَهْرِ الْغَيْبِ نُودِيَ مِنَ الْعَرْشِ:
+> وَ لَكَ مِائَةُ أَلْفِ ضِعْفٍ
 
 “Verily when one supplicates for his (believing) brother in his absence,
 a sound is heard from the Noble Throne: ‘For you is one hundred thousand
@@ -54,5 +46,4 @@ vol. 93, pg. 388, sec. 26, no. 19
 [^2]: al-Kafi, vol. 2, The Book of Du’a, sec. ‘Making supplicaiton for
 one’s brother when he is not there’; pg. 508, no. 6; Biharul Anwar, vol.
 93, pg. 384, sec. 26, no. 8
-
 

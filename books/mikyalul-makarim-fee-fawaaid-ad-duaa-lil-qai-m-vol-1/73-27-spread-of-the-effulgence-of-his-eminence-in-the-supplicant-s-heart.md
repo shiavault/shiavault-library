@@ -10,23 +10,15 @@ the Holy Qur’an and traditions of the family of infallibility (as) also
 prove it. Allah, the Mighty and the High says, regarding the faithful
 people:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ
-قُلُوبُهُمْ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ
+> قُلُوبُهُمْ
 
 ***“Those only are believers whose hearts become full of fear when Allah
 is mentioned.” (Qur’an, Surah Anfaal 8:2)***
 
 And with regard to the infidels and transgressors He says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
-  </p>
-</blockquote>
+> ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ
 
 ***“Then your hearts hardened after that, so that they were like rocks.”
 (Qur’an, Surah Baqarah 2:74)***
@@ -85,5 +77,4 @@ Imam (as) *Insha Allah Taala*.
 [^1]: Kafi; Vol. 1, Pg. 194
 
 [^2]: Kharaij, Sciences of Muhammad bin Ali al-Baqir (as)
-
 

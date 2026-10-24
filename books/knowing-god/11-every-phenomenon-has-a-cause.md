@@ -159,12 +159,8 @@ endure because of Him; God is higher and superior.
 
 In the Holy Quran, He says:
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَآءُ إِلَى اللَّهِ وَاللَّهُ
-هُوَ الْغَنِىُّ الْحَمِيدُ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَآءُ إِلَى اللَّهِ وَاللَّهُ
+> هُوَ الْغَنِىُّ الْحَمِيدُ
 
 ***“O men! you are they who stand in need of Allah, and Allah is He Who
 is the Self-sufficient, the Praised One.” (35:15)***
@@ -237,13 +233,8 @@ much.
 
 It is mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ بَل رَّبُّكُمْ رَبُّ السَّمَوَتِ وَالْأَرْضِ الَّذِى فَطَرَهُنَّ
-  </p>
-</blockquote>
+> قَالَ بَل رَّبُّكُمْ رَبُّ السَّمَوَتِ وَالْأَرْضِ الَّذِى فَطَرَهُنَّ
 
 ***“…your Lord is the Lord of the heavens and the earth, Who brought
 them into existence…” (21:56)***
-
 

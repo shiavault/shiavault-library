@@ -222,4 +222,3 @@ great and useful instructions of prudence, and be warned against the
 cheats and rogueries of the world, with many more advantages, which I
 shall not here enumerate.
 
-

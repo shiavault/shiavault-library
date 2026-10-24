@@ -9,4 +9,3 @@ the same as past article, it means that this act is Makrooh. But if does
 not cause bleeding then it is not a problem, although Mustahab
 precaution is to renounce that.
 
-

@@ -51,4 +51,3 @@ him to tread the path of piety, to keep his mission secret, to be
 lenient and moderate, and to inform the Imam immediately if he found
 that the people supported the rising and revolution.
 
-

@@ -142,4 +142,3 @@ vol. 1, chap. 9, p. 488, no. 162.
 [^6]: Ghaybat al-Shaykh, p. 185, no. 144; Biḥār al-anwār, vol. 51, chap.
 1, p. 75, no. 29; Ithbāt al-hudāt, vol. 3, chap. 32, p. 503, no. 300.
 
-

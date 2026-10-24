@@ -187,4 +187,3 @@ women and children prisoners".
 Battle of Urnab took place between Bani Zubayd and Bani Ziyad and Bani
 Ziyad bin Harith bin Ka' b were defeated by Raht Abdul Madan.
 
-

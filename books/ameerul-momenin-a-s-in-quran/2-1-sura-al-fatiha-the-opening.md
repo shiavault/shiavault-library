@@ -6,7 +6,6 @@
 Imam Sadiq (as) narrates, "Siratul Mustaqeem is Ameerul Momineen Ali
 (asws) ibn Abi Talib (as)." (Maani ul Akbar pg 32)
 
-
 **2.Sura Baqarah (The Cow)**
 
 1. ayah 26 , "Surely Allah is not ashamed to set forth any parable,
@@ -147,5 +146,4 @@ In the tafseer of this ayah "And the parable of those who spend their
 property to seek the pleasure of Allah", Imam Sadiq (as) said, "This
 ayah was revealed for Ameerul Momineen Ali (asws) ibn Abi Talib (as)."
 (Tafseer Furat pg 7)
-
 

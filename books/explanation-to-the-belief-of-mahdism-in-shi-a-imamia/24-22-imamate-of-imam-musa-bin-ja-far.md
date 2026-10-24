@@ -31,4 +31,3 @@ Hijrah. So, in the time of these two Imams the Bani Abbas dynasty was
 fast going down, and the military officers were handling the
 installation of a caliph and again dismissing or discarding him.
 
-

@@ -584,4 +584,3 @@ place in the khanaqah reserved for the Pir, often covered by a lambskin.
 
 [^11]: See note 41, p. 33. (Eds.)
 
-

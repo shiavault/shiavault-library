@@ -4,7 +4,6 @@ Mission’s of the Prophets: Justice
 Who was Prophet Muhammad? And what was his mission?
 ---------------------------------------------------
 
-
 For us Muslims, Prophet Muhammad is the last in the series of
 124,000 prophets whom God sent for guidance of human society.
 
@@ -22,15 +21,12 @@ in vacuum. It is inter-twined with justice. To have peace, justice must
 become the foundation of our social system; otherwise, we cannot achieve
 a durable peace.
 
-
 What is Justice?
 ----------------
-
 
 Justice means putting everything in its rightful place; it means
 balancing things in the proper order; it means creating harmony. If one
 starts putting things in the wrong places, then he disrupts the social
 harmony and disturbs peace.
 ** **
-
 

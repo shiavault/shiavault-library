@@ -34,9 +34,9 @@ be seen. She hated that and wanted none to look at her. As a result she
 summoned Asma’, daughter of ‘Umays[^2] and told her of what she wanted.
 She made her a coffin
 
-[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 95.
+[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 95.
 
-[^2] Asma’ was the daughter of Umays bin Sa‘eed bin al-Harith
+[^2]: Asma’ was the daughter of Umays bin Sa‘eed bin al-Harith
 al-Khath‘ami. Her mother was the daughter of Awf bin Zuhayr bin Kinana.
 She had become Muslim before Allah’s Apostle (a.s.) enter al-Arqam’s
 house in Mecca. She pledged allegiance (to the Prophet). She and her

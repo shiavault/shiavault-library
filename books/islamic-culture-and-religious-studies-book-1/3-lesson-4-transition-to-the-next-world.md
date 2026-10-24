@@ -179,7 +179,6 @@ essence of life and remained ignorant of the right path. It is for this
 reason, amongst many others, that the need for Ambiya and Aimmah (a.s.)
 as our perfect guides, arose in the world.
 
-
 **Lssson 5 : A Lesson On The Peak Of The Mountain**
 
 We were all sitting on the steps outside the front entrance to the
@@ -232,7 +231,6 @@ Mustafa - and we waited him to speak. "I understand that you would like
 to go mountain-climbing tomorrow," he said. We nodded our heads in
 reply. He smiled and asked us, "What measures and preparations you have
 made for the trip?"
-
 
 As he waited for an answer, we looked at each other sheepishly. What
 amateurs we were! We wanted to undertake an adventure but hadn't even
@@ -454,5 +452,4 @@ gain eternal bliss and nearness to Allah (S.W.T.).
 example.
 3. In what ways can we remain safe on the road to the hereafter?
 4. What provisions have you made for this special trip?
-
 

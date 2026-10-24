@@ -26,4 +26,3 @@ of the external world are insufficient to justify belief in its
 existence, though, then how much more uncertain must be the connection
 between barely tangible religious experiences and belief in God.
 
-

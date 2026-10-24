@@ -130,4 +130,3 @@ Wasā'il ash-Shī'ah, vol. 4, p. 1024, “The Book of as-Salāt,” sec. on
 [^4]: Bihār al-Anwār, vol. 24, p. 239, quoting al-Khisāl, vol. 2, ch.7,
 p. 394.
 
-

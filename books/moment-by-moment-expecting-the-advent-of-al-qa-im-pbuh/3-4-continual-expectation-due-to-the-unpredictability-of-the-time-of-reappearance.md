@@ -92,7 +92,6 @@ waiting for receiving Allah's permission at any moment.
 
 [^1]Bihar al-Anwar, vol. 52, p. 268, Hadith 157.
 
-
 **5 The significance and the purpose of specifying the signs**
 
 Specifying the signs before the time of reappearance has its own
@@ -166,5 +165,4 @@ appointed time is fast approaching, and if he did not observe the signs,
 he will still remain hopeful to receive the Imam (PBUH) because he
 believes that Allah is never restricted by His creation including His
 previous will and has power to do all things at any moment.
-
 

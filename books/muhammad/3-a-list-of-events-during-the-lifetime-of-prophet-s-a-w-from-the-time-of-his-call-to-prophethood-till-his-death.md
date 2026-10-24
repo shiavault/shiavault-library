@@ -396,4 +396,3 @@ The Eleventh Year (11 A.H./632 A.D.):
 
 • Death of the Blessed One (s.a.w).
 
-

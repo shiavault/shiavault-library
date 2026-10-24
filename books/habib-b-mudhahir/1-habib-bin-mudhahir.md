@@ -20,4 +20,3 @@ but they did not know him.
 The old man sat down. He had a beard. His beard was as white as cotton.
 The men began looking at his calm expression and his white beard.
 
-

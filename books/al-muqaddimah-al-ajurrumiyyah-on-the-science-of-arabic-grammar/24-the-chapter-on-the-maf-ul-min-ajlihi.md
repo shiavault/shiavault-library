@@ -17,4 +17,3 @@ say:**
 **قصدتُّك** ابتغاءَ معروفك (I sought youout of a desire for you
 goodness)
 
-

@@ -25,47 +25,27 @@ The Qur’an and the Divine Unity in Creation
 In many verses, the Holy Qur’an has emphasized the Oneness of God in
 creating the universe. For example, it has stated:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلِ اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ الْوَاحِدُ الْقَهَّارُ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلِ اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ الْوَاحِدُ الْقَهَّارُ ﴾
 
 ***“Say, ‘Allah is the creator of all things, and He is the One, the
 All-paramount’.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَى كُلِّ شَيْءٍ وَكِيلٌ ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَى كُلِّ شَيْءٍ وَكِيلٌ ﴾
 
 ***“Allah is creator of all things, and He watches over all
 things.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لا إِلَهَ إِلا هُوَ
-﴾
-  </p>
-</blockquote>
+> ﴿ ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لا إِلَهَ إِلا هُوَ
+> ﴾
 
 ***“That is Allah, your Lord, the creator of all things, there is no god
 except Him.”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-﴿ هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ ﴾
 
 ***“Is there any creator other than Allah?”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“Our Lord is He who gave everything its creation and then guided
 it.”***[^5]
@@ -77,23 +57,15 @@ The traditions (*aḥādīth*) also stipulate and emphasize the Divine Unity
 in creation. In this regard, Imām ‘Alī (*‘a*) has said [about the
 creation of ant]:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَشْرَكْهُ فِي فِطْرَتِهَا فَاطِرٌ، وَلَمْ يُعِنْهُ عَلَىٰ
-خَلْقِهَا قَادِرٌ.
-  </p>
-</blockquote>
+> لَمْ يَشْرَكْهُ فِي فِطْرَتِهَا فَاطِرٌ، وَلَمْ يُعِنْهُ عَلَىٰ
+> خَلْقِهَا قَادِرٌ.
 
 “No other originator took part with Him in its origination and no one
 having power assisted Him in its creation.”[^6]
 
 The Imām (*‘a*) has also said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا شَرِيكٍ أَعَانَهُ عَلَىٰ ٱبْتِدَاعِ عَجَائِبِ ٱلْأُمُورِ.
-  </p>
-</blockquote>
+> وَلَا شَرِيكٍ أَعَانَهُ عَلَىٰ ٱبْتِدَاعِ عَجَائِبِ ٱلْأُمُورِ.
 
 “And He is without any partner who might have assisted Him in creating
 wonderful things.”[^7]
@@ -172,45 +144,29 @@ attributed to God and at other times the attribution is to natural and
 supernatural causes. For instance, it says regarding the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا ﴾
-  </p>
-</blockquote>
+> ﴿ أَللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا ﴾
 
 ***“God takes the souls at the time of their death.”***[^8]
 
 It also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
-إِلَى رَبِّكُمْ تُرْجَعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
+> إِلَى رَبِّكُمْ تُرْجَعُونَ ﴾
 
 ***“Say, ‘You will be taken away by the angel of death, who has been
 charged with you. Then you will be brought back to your Lord.’”***[^9]
 
 And it thus says regarding the movement of clouds:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ
-﴾
-  </p>
-</blockquote>
+> ﴿ أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ
+> ﴾
 
 ***“Have you not regarded that Allah drives the clouds, then He omposes
 them?”***[^10]
 
 And the Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا ﴾
 
 ***“It is Allah who sends the winds. Then they raise a cloud.”***[^11]
 
@@ -248,11 +204,7 @@ illness or death which is evil, and death and illness have the nature of
 non-existence or absence. Illness means the absence of wellbeing while
 death means the absence of life. In the words of Mawlānā [Rūmī],[^12]
 
-<blockquote dir="rtl">
-  <p>
-زهرِ مار، آن مار را باشد حيات گرچه باشد آدمی را مر ممات
-  </p>
-</blockquote>
+> زهرِ مار، آن مار را باشد حيات گرچه باشد آدمی را مر ممات
 
 *Snake-poison is life to the snake,*
 
@@ -296,11 +248,7 @@ evil or wickedness finds its way into them, for reality or existence
 vis-à-vis absence or non-existence possesses the attribute of goodness
 and beauty. The Holy Qur’an thus says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ﴾
 
 ***“[It is He] who perfected everything that He created.”***[^17]
 
@@ -394,5 +342,4 @@ other words, it is the upholding of freewill [ikhtiyār] vis-à-vis
 predestination. [Trans.]
 
 [^17]: Sūrat al-Sajdah 32:7.
-
 

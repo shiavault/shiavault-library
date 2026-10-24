@@ -8,13 +8,9 @@ concerning reports of how the Prophet, *sallallahu ‘alaihi wa alihi*,
 implemented *Hadith al-Ada* in the case of Abu Bakr, the Shaykh further
 states:
 
-<blockquote dir="rtl">
-  <p>
-وقال الخطابي في كتاب شعار الدين وقوله لا يؤدي عني إلا رجل من أهل بيتي
-هو شيء جاء به أهل الكوفة عن زيد بن يثيع وهو متهم في الرواية منسوب إلى
-الرفض
-  </p>
-</blockquote>
+> وقال الخطابي في كتاب شعار الدين وقوله لا يؤدي عني إلا رجل من أهل بيتي
+> هو شيء جاء به أهل الكوفة عن زيد بن يثيع وهو متهم في الرواية منسوب إلى
+> الرفض
 
 Al-Khattabi said in *Kitab Shi’ar al-Din*: “And his statement ‘None can
 discharge on my behalf except except a man from my Ahl al-Bayt’, **it is
@@ -43,33 +39,21 @@ mention first the scholars of *rijal* who had commented about Zayd
 *before* Shaykh Ibn Taymiyyah (d. 728 H). Imam Muhammad b. Sa’d (d. 230
 H) submits:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن يثيع :روى عن علي وحذيفة بن اليمان وكان قليل الحديث
-  </p>
-</blockquote>
+> زيد بن يثيع :روى عن علي وحذيفة بن اليمان وكان قليل الحديث
 
 Zayd b. Yathi’: He narrated from ‘Ali and Hudhayfah b. al-Yaman, and he
 narrated few *ahadith*.[^2]
 
 Imam al-‘Ijli (d. 261 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن يثيع كوفي ثقة تابعي
-  </p>
-</blockquote>
+> زيد بن يثيع كوفي ثقة تابعي
 
 Zayd b. Yathi’: A Kufan, ***thiqah*** **(trustworthy)**, a Tabi’i.[^3]
 
 Ibn Abi Hatim (d. 327 H) makes a mistake in the surname:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن نفيع الهمداني الكوفي روى عن علي وأبي ذر وحذيفة روى عنه أبو
-إسحاق الهمداني سمعت أبي يقول ذلك.
-  </p>
-</blockquote>
+> زيد بن نفيع الهمداني الكوفي روى عن علي وأبي ذر وحذيفة روى عنه أبو
+> إسحاق الهمداني سمعت أبي يقول ذلك.
 
 Zayd b. Nafi’ al-Hamadani al-Kufi: He narrated from ‘Ali, Abu Dharr and
 Hudhayfah, and Abu Ishaq al-Hamadani narrated from him. I heard this
@@ -78,11 +62,7 @@ from my father.[^4]
 Imam Ibn Hibban (d. 354 H) has also included him in his book of *thiqah*
 (trustworthy) narrators:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن يثيع الهمداني كوفي يروى عن علي روى عنه أبو إسحاق السبيعي
-  </p>
-</blockquote>
+> زيد بن يثيع الهمداني كوفي يروى عن علي روى عنه أبو إسحاق السبيعي
 
 Zayd b. Yathi’ al-Hamadani: A Kufan, he narrated from ‘Ali, and Abu
 Ishaq al-Sabi’i narrated from him.[^5]
@@ -91,14 +71,10 @@ In addition to al-‘Ijli and Ibn Hibban, Imam al-Hakim (d. 403 H) too
 considers Zayd b. Yathi’ to be *thiqah* (trustworthy). He mentions this
 chain in his book:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو العباس محمد بن يعقوب ثنا الحسن بن علي بن عفان وأخبرني محمد
-بن عبد الله الجوهري ثنا محمد بن إسحاق بن خزيمة ثنا الحسن بن علي بن
-عفان العامري ثنا فضيل بن مرزوق الرواسي ثنا أبو إسحاق عن زيد بن يثيع عن
-علي رضي الله عنه
-  </p>
-</blockquote>
+> حدثنا أبو العباس محمد بن يعقوب ثنا الحسن بن علي بن عفان وأخبرني محمد
+> بن عبد الله الجوهري ثنا محمد بن إسحاق بن خزيمة ثنا الحسن بن علي بن
+> عفان العامري ثنا فضيل بن مرزوق الرواسي ثنا أبو إسحاق عن زيد بن يثيع عن
+> علي رضي الله عنه
 
 Abu al-‘Abbas Muhammad b. Ya’qub – al-Hasan b. ‘Ali b. ‘Affan – Muhammad
 b. ‘Abd Allah al-Jawhari – Muhammad b. Ishaq b. Khuzaymah – al-Hasan b.
@@ -107,11 +83,7 @@ b. ‘Abd Allah al-Jawhari – Muhammad b. Ishaq b. Khuzaymah – al-Hasan b.
 
 Commenting on the *sanad*, al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^7]
 
@@ -124,12 +96,8 @@ Taymiyyah.
 What about the *rijal* scholars after Ibn Taymiyyah (d. 728 H)? Al-Hakim
 further records this chain in his *al-Mustadrak*:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو عبد الله الصفار ثنا محمد بن إبراهيم الأصفهاني ثنا الحسين بن
-حفص عن سفيان عن أبي إسحاق عن زيد بن يثيع عن حذيفة رضي الله عنه
-  </p>
-</blockquote>
+> أخبرنا أبو عبد الله الصفار ثنا محمد بن إبراهيم الأصفهاني ثنا الحسين بن
+> حفص عن سفيان عن أبي إسحاق عن زيد بن يثيع عن حذيفة رضي الله عنه
 
 Abu ‘Abd Allah al-Saffar – Muhammad b. Ibrahim al-Isfahani – al-Husayn
 b. Hafs – Sufyan – Abu Ishaq – **Zayd b. Yathi’** – Hudhayfah, may Allah
@@ -137,21 +105,13 @@ be pleased with him.[^8]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs.[^9]
 
 Imam al-Dhahabi (d. 748 H) confirms:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim.[^10]
 
@@ -161,11 +121,7 @@ relied upon him in his *Sahih*. However, their main message – that he is
 *thiqah* (trustworthy) is unmistakable from their respective verdicts.
 Elsewhere, the same al-Dhahabi also says:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن يثيع عن أبي بكر وأبي ذر وعنه أبو إسحاق فقط وثق
-  </p>
-</blockquote>
+> زيد بن يثيع عن أبي بكر وأبي ذر وعنه أبو إسحاق فقط وثق
 
 Zayd b. Yathi’: **He narrated from Abu Bakr** and Abu Dharr, and only
 Abu Ishaq narrated from him. **He has been graded** ***thiqah***
@@ -173,11 +129,7 @@ Abu Ishaq narrated from him. **He has been graded** ***thiqah***
 
 Al-Hafiz (d. 852 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-زيد بن يثيع … الهمداني الكوفي ثقة مخضرم
-  </p>
-</blockquote>
+> زيد بن يثيع … الهمداني الكوفي ثقة مخضرم
 
 Zayd b. Yathi’.... al-Hamadani al-Kufi: ***Thiqah*** **(trustworthy)**.
 He witnessed both the *Jahiliyyah* and the Islamic era.[^12]
@@ -208,16 +160,12 @@ history.
 Zayd b. Yathi’s *hadith* from Abu Bakr is documented by Imam Ahmad b.
 Hanbal (d. 241 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله قال حدثني أبي قال ثنا وكيع قال قال إسرائيل قال أبو
-إسحاق عن زيد بن يثيع عن أبي بكر: أن النبي صلى الله عليه و سلم بعثه
-ببراءة لأهل مكة .... فسار بها ثلاثا ثم قال لعلي رضي الله تعالى عنه
-ألحقه فرد علي أبا بكر وبلغها أنت قال ففعل قال فلما قدم على النبي صلى
-الله عليه و سلم أبو بكر بكى قال يا رسول الله حدث في شيء قال ما حدث فيك
-إلا خير ولكن أمرت أن لا يبلغه إلا أنا أو رجل مني
-  </p>
-</blockquote>
+> حدثنا عبد الله قال حدثني أبي قال ثنا وكيع قال قال إسرائيل قال أبو
+> إسحاق عن زيد بن يثيع عن أبي بكر: أن النبي صلى الله عليه و سلم بعثه
+> ببراءة لأهل مكة .... فسار بها ثلاثا ثم قال لعلي رضي الله تعالى عنه
+> ألحقه فرد علي أبا بكر وبلغها أنت قال ففعل قال فلما قدم على النبي صلى
+> الله عليه و سلم أبو بكر بكى قال يا رسول الله حدث في شيء قال ما حدث فيك
+> إلا خير ولكن أمرت أن لا يبلغه إلا أنا أو رجل مني
 
 ‘Abd Allah – my father (Ahmad b. Hanbal) – Waki’ – Israil – Abu Ishaq –
 Zayd b. Yathi’ – Abu Bakr:
@@ -234,11 +182,7 @@ or a man from me**.”[^13]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده ضعيف رجاله ثقات رجال الشيخين غير زيد بن يثيع
-  </p>
-</blockquote>
+> إسناده ضعيف رجاله ثقات رجال الشيخين غير زيد بن يثيع
 
 Its chain is *dha’if*. Its narrators are *thiqah* (trustworthy),
 narrators of the two Shaykhs, except Zayd b. Yathi’.[^14]
@@ -258,16 +202,12 @@ merely a piece of advice or a recommendation.
 The same report is also recorded by Imam Abu Ya’la al-Mawsili (d. 307 H)
 his *Musnad*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا إسحاق بن إسماعيل حدثنا وكيع حدثنا إسرائيل عن أبي إسحاق عن زيد بن
-يثيع عن أبي بكر الصديق أن النبي صلى الله عليه و سلم بعثه ببراءة إلى
-أهل مكة ....فسار بها ثلاثا ثم قال لعلي الحقه فرد علي أبا بكر وبلغها
-قال ففعل قال : فلما قدم على النبي صلى الله عليه و سلم أبو بكر بكى وقال
-: يا رسول الله أحدث في شيء ؟ قال ثم قال : ما حدث فيك إلا خير إلا أني
-أمرت بذلك : أن لا يبلغ إلا أنا أو رجل مني
-  </p>
-</blockquote>
+> حدثنا إسحاق بن إسماعيل حدثنا وكيع حدثنا إسرائيل عن أبي إسحاق عن زيد بن
+> يثيع عن أبي بكر الصديق أن النبي صلى الله عليه و سلم بعثه ببراءة إلى
+> أهل مكة ....فسار بها ثلاثا ثم قال لعلي الحقه فرد علي أبا بكر وبلغها
+> قال ففعل قال : فلما قدم على النبي صلى الله عليه و سلم أبو بكر بكى وقال
+> : يا رسول الله أحدث في شيء ؟ قال ثم قال : ما حدث فيك إلا خير إلا أني
+> أمرت بذلك : أن لا يبلغ إلا أنا أو رجل مني
 
 Ishaq b. Isma’il – Waki’ – Israil – Abu Ishaq – **Zayd b. Yathi’** – Abu
 Bakr al-Siddiq:
@@ -283,27 +223,19 @@ HAVE BEEN COMMANDED with it, that none can convey it (i.e.**
 
 Shaykh Dr. Husayn Asad Salim, the annotator, says:
 
-<blockquote dir="rtl">
-  <p>
-رجاله ثقات
-  </p>
-</blockquote>
+> رجاله ثقات
 
 Its narrators are *thiqah* (trustworthy).[^16]
 
 Zayd b. Yathi’s report from Amir al-Muminin, *‘alaihi al-salam*, is
 documented by Imam al-Nasai (d. 303 H). He records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا العباس بن محمد قال حدثنا أبو نوح واسمه عبد الرحمن بن غزوان قراد
-عن يونس بن أبي إسحاق عن أبي إسحاق عن زيد بن يثيع عن علي: أن رسول الله
-صلى الله عليه و سلم بعث ببراءة إلى أهل مكة مع أبي بكر ثم اتبعه بعلي
-فقال له خذ الكتاب فامض به إلى أهل مكة قال فلحقته فأخذت الكتاب منه
-فانصرف أبو بكر وهو كئيب فقال يا رسول الله أنزل في شيء قال لا إني أمرت
-أن أبلغه أنا أو رجل من أهل بيتي
-  </p>
-</blockquote>
+> أخبرنا العباس بن محمد قال حدثنا أبو نوح واسمه عبد الرحمن بن غزوان قراد
+> عن يونس بن أبي إسحاق عن أبي إسحاق عن زيد بن يثيع عن علي: أن رسول الله
+> صلى الله عليه و سلم بعث ببراءة إلى أهل مكة مع أبي بكر ثم اتبعه بعلي
+> فقال له خذ الكتاب فامض به إلى أهل مكة قال فلحقته فأخذت الكتاب منه
+> فانصرف أبو بكر وهو كئيب فقال يا رسول الله أنزل في شيء قال لا إني أمرت
+> أن أبلغه أنا أو رجل من أهل بيتي
 
 Al-‘Abbas b. Muhammad – Abu Nuh, his name is ‘Abd al-Rahman b. Ghazwan
 Qurad – Yunus b. Abi Ishaq – Abu Ishaq – Zayd b. Yathi’ – ‘Ali:
@@ -318,11 +250,7 @@ convey it myself or a man from my Ahl al-Bayt should convey it**.”[^17]
 
 Al-Hafiz says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عباس بن محمد بن حاتم الدوري أبو الفضل البغدادي خوارزمي الأصل ثقة حافظ
-  </p>
-</blockquote>
+> عباس بن محمد بن حاتم الدوري أبو الفضل البغدادي خوارزمي الأصل ثقة حافظ
 
 ‘Abbas b. Muhammad b. Hatim al-Dawri Abu al-Fadhl al-Baghdadi,
 originally from Khawarazm: ***Thiqah*** **(trustworthy),** ***hafiz (the
@@ -330,22 +258,14 @@ hadith scientist)***.[^18]
 
 The second narrator is like that too, according to al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرحمن بن غزوان …. أبو نوح المعروف بقراد …. ثقة
-  </p>
-</blockquote>
+> عبد الرحمن بن غزوان …. أبو نوح المعروف بقراد …. ثقة
 
 ‘Abd al-Rahman b. Ghazwan .... Abu Nuh, better known as Qurad ....:
 ***Thiqah*** **(trustworthy)**.[^19]
 
 What of the third narrator? Al-Hafiz states:
 
-<blockquote dir="rtl">
-  <p>
-يونس بن أبي إسحاق السبيعي أبو إسرائيل الكوفي صدوق يهم قليلا
-  </p>
-</blockquote>
+> يونس بن أبي إسحاق السبيعي أبو إسرائيل الكوفي صدوق يهم قليلا
 
 Yunus b. Abi Ishaq al-Sabi’i, Abu Israil al-Kufi: ***Saduq*** **(very
 truthful), hallucinates a little**.[^20]
@@ -425,5 +345,4 @@ Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 [^19]: Ibid, vol. 1, p. 586, \# 3991
 
 [^20]: Ibid, vol. 2, p. 348, \# 7928
-
 

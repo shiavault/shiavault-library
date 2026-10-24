@@ -115,7 +115,6 @@ not hear it. Then the man shouted, "I mean you." The Imam (A.S) replied,
 according to the Qur'an which says "'Go to what is honourable and turn
 away from the ignorant" (7:199).
 
-
 **His Generosity**
 
 His acts of piety did not end with only spending his time communicating
@@ -205,5 +204,4 @@ needing help. The Imam needed no reward or thanks. Saying so he went
 away - leaving behind Hasin to bite his figures in disbelief Such was
 the generosity of our fourth Imam, Ali Bin Husain, Zainul Abidin
 (A.S).
-
 

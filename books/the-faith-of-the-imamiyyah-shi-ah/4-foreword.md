@@ -282,11 +282,7 @@ The *Imamiyyah Shi\`ah* interpret the following holy verse of the Holy
 Qur'an, which the Sunnis set as evidence on their belief, with a
 suitable meaning:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
-  </p>
-</blockquote>
+> لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
 
 ***“He cannot be questioned concerning what He does and they shall be
 questioned. 21:23”***
@@ -312,11 +308,7 @@ freedom that is not restricted to anything and is not overpowered by
 anything. As evidence on such ‘Freedom’, Sunnis and Sufis quote the
 following holy verse:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
-  </p>
-</blockquote>
+> لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
 
 ***“He cannot be questioned concerning what He does and they shall be
 questioned. 21:23”***
@@ -482,5 +474,4 @@ Egypt)’.
 [^3]: Dr. Hamid Hafni Dawud: Professor of Arabic Literature in the
 College of Languages; Supervisor of Islamic Studies at Aligarah
 University, India.
-
 

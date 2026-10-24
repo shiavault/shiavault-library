@@ -51,7 +51,6 @@ here- after. The verse says:
 
 "... Verily, Our messengers record what you devise'. ""
 
-
 **Commentary : Verse 22**
 
 (22) هُوَ الَّذي يُسَيِّرُكُمْ فِي الْبَرِّ وَ الْبَحْرِ حَتَّى إِذا
@@ -110,7 +109,6 @@ eventual condemnation.
 In such incidents, those individuals, who are only slightly polluted,
 are usually awakened and tend to reform themselves.
 
-
 **Commentary : Verse 23**
 
 (23) فَلَمَّا أَنْجاهُمْ إِذا هُمْ يَبْغُونَ فِي الْأَرْضِ بِغَيْرِ
@@ -145,7 +143,6 @@ whatever they did in the world. The verse says:
 
 "... an enjoyment of the life of this world. Then to Us is your return,
 and We shall inform you of what you used to do. "
-
 
 **Commentary : Verse 24**
 
@@ -210,7 +207,6 @@ declares:
 
 "... Thus do We explain the Signs in detail for a people who reflect.
 
-
 **Commentary : Verse 25**
 
 (25) وَ اللَّهُ يَدْعُوا إِلى‏ دارِ السَّلامِ وَ يَهْدي مَنْ يَشاءُ
@@ -247,5 +243,4 @@ second stage is permanent.
 Incidentally, the Straight Path is one which creates 'peace' for man
 not only in the Hereafter, but also creates peace for him in this
 world.
-
 

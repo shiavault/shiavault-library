@@ -80,4 +80,3 @@ from the Islamic point of view, so that these issues are brought to
 light and put in a proper perspective. We propose to deal briefly with
 these issues one by one.
 
-

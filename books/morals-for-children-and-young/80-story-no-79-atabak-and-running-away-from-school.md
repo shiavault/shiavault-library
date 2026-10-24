@@ -17,4 +17,3 @@ time, decided to continue education.
  He did so, and not only was he no longer illiterate, he reached high
 status.
 
-

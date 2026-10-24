@@ -21,4 +21,3 @@ metaphoric­ally unless there is an evidence in its context.
 The word \`book' denotes existence of a collection and not of scattered
 scribbles, nor of things which are in the memory but not written.
 
-

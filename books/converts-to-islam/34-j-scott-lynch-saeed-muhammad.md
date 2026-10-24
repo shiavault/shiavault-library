@@ -234,4 +234,3 @@ non-Muslims, may Allah guide us all to the right path.
 servant, then produce a chapter like it and call on your witnesses
 besides Allah if you are truthful.***
 
-

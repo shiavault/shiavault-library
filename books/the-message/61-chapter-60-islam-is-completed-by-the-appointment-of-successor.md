@@ -257,4 +257,3 @@ the Prophet repeated this sentence thrice.
 
 [^5]: For further details refer al-Ghadir vol. I, by Allamah Amini.
 
-

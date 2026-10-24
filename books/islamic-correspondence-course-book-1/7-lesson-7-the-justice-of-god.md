@@ -263,4 +263,3 @@ This lesson is based on the followings: Dar Rah-e Haq Board, The Roots
 of Religion, Qum 1982. It has been compiled and edited for this course
 by S.M. Rizvi.
 
-

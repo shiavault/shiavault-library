@@ -6,12 +6,8 @@ specific conditions; however, Islam regards divorce as abhorrent and
 reprehensible. Thus, it has been censured in Hadith. Imam Sadiq (‘a) has
 declared:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی عبدالله (ع) قال: «إنَّ الله عزّ و جلّ یحبّ البیت الذی فیه
-العرس، و یبغض البیت الذی فیه الطلاق، و ما من شیء أبغض من الطلاق.»
-  </p>
-</blockquote>
+> عن أبی عبدالله (ع) قال: «إنَّ الله عزّ و جلّ یحبّ البیت الذی فیه
+> العرس، و یبغض البیت الذی فیه الطلاق، و ما من شیء أبغض من الطلاق.»
 
 Verily, Allah loves a house in which a wedding is held and hates a house
 in which a divorce is conducted and there is nothing more hateful than
@@ -19,12 +15,8 @@ divorce.[^1]
 
 Noble Sadiq (‘a) has elsewhere announced:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی عبدالله (ع) قال: «ما من شیءٍ اُحلّه الله أبغض إلیه من الطلاق، و
-إنّ الله یبغض المطلاق الذّواق.»
-  </p>
-</blockquote>
+> عن أبی عبدالله (ع) قال: «ما من شیءٍ اُحلّه الله أبغض إلیه من الطلاق، و
+> إنّ الله یبغض المطلاق الذّواق.»
 
 Among that which Allah has made permissible there is nothing He hates
 more than divorce and Allah hates a man who divorces and marries many
@@ -32,12 +24,8 @@ women.[^2]
 
 He has also stated:
 
-<blockquote dir="rtl">
-  <p>
-عن أبی عبدالله (ع) قال: «بلغ النبی (ص) أنّ أبا أیّوب یرید أن یطلّق
-امرأته فقال رسول الله: إنّ طلاق امّ أیّوب لحوب، أی إثم.»
-  </p>
-</blockquote>
+> عن أبی عبدالله (ع) قال: «بلغ النبی (ص) أنّ أبا أیّوب یرید أن یطلّق
+> امرأته فقال رسول الله: إنّ طلاق امّ أیّوب لحوب، أی إثم.»
 
 When the Prophet of Allah heard that Abu Ayyub (Ayyub’s father) intended
 to divorce his wife, he declared: The divorce of Umm Ayyub (Ayyub’s
@@ -45,12 +33,8 @@ mother) is a sin.[^3]
 
 Imam Muhammad Baqir (‘a) cited from the Prophet of Allah (S):
 
-<blockquote dir="rtl">
-  <p>
-عن أبی جعفر (ع) قال: قال رسول الله (ص): «أوصانی جبرئیل علیه السلام
-بالمرأة حتی ظننت أنّه لا ينبغي طلاقها إلّا من فاحشة مبیّنة.»
-  </p>
-</blockquote>
+> عن أبی جعفر (ع) قال: قال رسول الله (ص): «أوصانی جبرئیل علیه السلام
+> بالمرأة حتی ظننت أنّه لا ينبغي طلاقها إلّا من فاحشة مبیّنة.»
 
 Gabriel (‘a) commended wives to such an extent that I presumed divorce
 is not permissible unless a wife performs an‌ explicit act of
@@ -58,24 +42,16 @@ unfaithfulness and infidelity.[^4]
 
 Noble Sadiq (‘a) had stated:
 
-<blockquote dir="rtl">
-  <p>
-عن الصادق (ع) قال: «تزوّجوا و لا تطلّقوا؛ فإنّ الطلاق یهتزّ منه
-العرش.»
-  </p>
-</blockquote>
+> عن الصادق (ع) قال: «تزوّجوا و لا تطلّقوا؛ فإنّ الطلاق یهتزّ منه
+> العرش.»
 
 Marry and do not divorce because surely divorce shakes the very Throne
 of God [*‘Arsh*].[^5]
 
 The Prophet of Allah (S) has proclaimed:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): «ما أحبّ الله مباحاً کالنکاح، و ما أبغض الله مباحاً
-کالطلاق.»
-  </p>
-</blockquote>
+> قال رسول الله (ص): «ما أحبّ الله مباحاً کالنکاح، و ما أبغض الله مباحاً
+> کالطلاق.»
 
 Allah loves no permissible like marriage, and Allah hates no permissible
 like divorce.[^6]
@@ -139,13 +115,9 @@ the disputes of spouses and preclude divorce. This team consists of two
 mediators; one chosen by the wife’s family, and one by the husband’s.
 They may be of the couple’s family or unrelated. The Quran states:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُواْ حَكَمًا مِّنْ
-أَهْلِهِ وَ حَكَمًا مِّنْ أَهْلِهَا إِن يُرِيدَا إِصْلاَحًا يُوَفِّقِ
-اللّهُ بَيْنَهُمَا إِنَّ اللّهَ كَانَ عَلِيمًا خَبِيرًا
-  </p>
-</blockquote>
+> وَ إِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُواْ حَكَمًا مِّنْ
+> أَهْلِهِ وَ حَكَمًا مِّنْ أَهْلِهَا إِن يُرِيدَا إِصْلاَحًا يُوَفِّقِ
+> اللّهُ بَيْنَهُمَا إِنَّ اللّهَ كَانَ عَلِيمًا خَبِيرًا
 
 ***“And if you fear a breach between the two, then choose an arbitrator
 from his people and an arbitrator from her people. If they both desire
@@ -187,15 +159,11 @@ the payment of *Mihr*. A man who has paid his wife’s *Mihr*, does not
 have the right to take it back, and if he has not, he must pay it
 completely before divorce. The Holy Quran states:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنْ أَرَدتُّمُ اسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَ آتَيْتُمْ
-إِحْدَاهُنَّ قِنطَارًا فَلاَ تَأْخُذُواْ مِنْهُ شَيْئًا
-أَتَأْخُذُونَهُ بُهْتَاناً وَ إِثْماً مُّبِيناً\* وَ كَيْفَ
-تَأْخُذُونَهُ وَ قَدْ أَفْضَى بَعْضُكُمْ إِلَى بَعْضٍ وَ أَخَذْنَ
-مِنكُم مِّيثَاقًا غَلِيظًا
-  </p>
-</blockquote>
+> وَ إِنْ أَرَدتُّمُ اسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَ آتَيْتُمْ
+> إِحْدَاهُنَّ قِنطَارًا فَلاَ تَأْخُذُواْ مِنْهُ شَيْئًا
+> أَتَأْخُذُونَهُ بُهْتَاناً وَ إِثْماً مُّبِيناً\* وَ كَيْفَ
+> تَأْخُذُونَهُ وَ قَدْ أَفْضَى بَعْضُكُمْ إِلَى بَعْضٍ وَ أَخَذْنَ
+> مِنكُم مِّيثَاقًا غَلِيظًا
 
 ***“And if you desire to take a wife instead of a [current] wife and
 have given her much wealth, do not take back any part of it; would you
@@ -425,5 +393,4 @@ her husband.
 
 [^9]: - The ‘iddah of a revocable divorce is the duration of three
 menstrual cycles of a woman after divorce.
-
 

@@ -237,7 +237,6 @@ killed Imam Hussain'). If this source can be advanced as 'proof' by
 Ansar.org against the Shi'a then by the same token this book can also be
 used by the Shi'a as 'proof' against Mu'awiya.
 
-
 **Mu'awiya's Governors would curse Hadhrath 'Ali (as)**
 
 Egyptian Sunni scholar Ahmad Zakhee Safwaath in his book Umar bin Abdul
@@ -432,5 +431,4 @@ Mu'awiya":
 "During the reign of Banu Umayya Banu Umayya would curse 'Ali in the
 Friday Sermon, when Umar bin Abdul Aziz became khalifa he brought an end
 to this horrible bidah that had been introduced by Mu'awiya".
-
 

@@ -53,12 +53,8 @@ As a result, others are never idle in enacting policies against this
 pure religion—by their own acknowledgement—and continually attempt to
 extinguish its light.[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُرِيدُونَ لِيُطْفِؤُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ
-مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يُرِيدُونَ لِيُطْفِؤُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ
+> مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ ﴾
 
 ***“They desire to extinguish the light of Allah with their mouths;
 however, Allah will complete His light though unbelievers be
@@ -134,13 +130,9 @@ identifies the divine course before humans as the straight path. The
 right method of living is the straight path and the wrong lifestyle is
 the deviate way. Thus, God states in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَن لَّعْنَةُ اللّهِ عَلَى الظَّالِمِينَ \* الَّذِينَ يَصُدُّونَ
-عَن سَبِيلِ اللّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالآخِرَةِ كَافِرُونَ
-﴾
-  </p>
-</blockquote>
+> ﴿ ... أَن لَّعْنَةُ اللّهِ عَلَى الظَّالِمِينَ \* الَّذِينَ يَصُدُّونَ
+> عَن سَبِيلِ اللّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالآخِرَةِ كَافِرُونَ
+> ﴾
 
 ***“Allah’s damnation is upon the evildoers; who debar people from the
 path of Allah and seek to deviate it, and they disbelieve the
@@ -198,25 +190,17 @@ social methods between citizens and non-citizens.
 Only Islam considers the human world to be a balanced unit and has
 extirpated bias and division at its roots. The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِنْدَ اللَّهِ أَتْقَاكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِنْدَ اللَّهِ أَتْقَاكُمْ... ﴾
 
 ***“O people! Surely, I have created you as males and females and
 divided you into groups great and small that you may know one another
 (and form societies). Verily, the most noble among you before Allah is
 the most pious of you…”***[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ
-أُنْثَى بَعْضُكُم مِنْ بَعْضٍ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ
+> أُنْثَى بَعْضُكُم مِنْ بَعْضٍ... ﴾
 
 ***“I shall not leave unrewarded the work of any agent among you,
 whether man or woman; you are all members of the same race…”***[^5]
@@ -259,20 +243,12 @@ In the Holy Qur’an’s parlance, that which conforms to reality or real
 interests is called haqq (truth). It is the only aim towards which
 humans must strive in their belief and practice.
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ الضَّلاَلُ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَمَاذَا بَعْدَ الْحَقِّ إِلاَّ الضَّلاَلُ... ﴾
 
 ***“So what is there after Truth [haqq] save error?”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالأََرْضُ وَمَنْ فِيهِنَّ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالأََرْضُ وَمَنْ فِيهِنَّ... ﴾
 
 ***“And if Truth [haqq] had followed their caprices, the heavens and the
 earth and all in them would surely have been thrown into confusion and
@@ -317,20 +293,12 @@ them. This determination and guidance is the same as fate [taqdīr] and
 universal guidance indicated in the Holy Qur’an which is attributed to
 the Creator God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى ﴾
 
 ***“He said: Our Lord is He who gave to each thing its specific creation
 and then guided it.”***[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِي خَلَقَ فَسَوَّى \* وَالَّذِي قَدَّرَ فَهَدَى ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِي خَلَقَ فَسَوَّى \* وَالَّذِي قَدَّرَ فَهَدَى ﴾
 
 ***“The Lord who has created (components) then gave them order. And who
 has given quantity then guided accordingly.”***[^9]
@@ -340,12 +308,8 @@ exception to the rule. Our specific creation—or make-up—shows us the
 method we must adopt in our lives and specifies the duties and laws we
 must observe. The Qur’an proclaims:
 
-<blockquote dir="rtl">
-  <p>
-﴿ مِنْ أَيِّ شَيْءٍ خَلَقَهُ \* مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ \*
-ثُمَّ السَّبِيلَ يَسَّرَهُ ﴾
-  </p>
-</blockquote>
+> ﴿ مِنْ أَيِّ شَيْءٍ خَلَقَهُ \* مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ \*
+> ثُمَّ السَّبِيلَ يَسَّرَهُ ﴾
 
 ***“From what did He create humankind? He created it from a zygote then
 He gave it a measure. Then He eased the way (of happiness and
@@ -359,13 +323,9 @@ special faculties. This is the religion of truth and haqq; it is also
 called the fitrī (i.e. innate or natural) religion because of its
 relation to creation and the inherent human make-up.
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ... ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ... ﴾
 
 ***“So resolutely accept the religion of moderateness; do not turn aside
 from it because this religion is the special divine creation upon which
@@ -373,12 +333,8 @@ Allah has created humankind. The creation of Allah is inalterable. This
 is the religion that can secure the will and prosperity of the human
 community…”***[^11]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَنَفْسٍ وَمَا سَوَّاهَا \* فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا \*
-قَدْ أَفْلَحَ مَنْ زَكَّاهَا \* وَقَدْ خَابَ مَنْ دَسَّاهَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَنَفْسٍ وَمَا سَوَّاهَا \* فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا \*
+> قَدْ أَفْلَحَ مَنْ زَكَّاهَا \* وَقَدْ خَابَ مَنْ دَسَّاهَا ﴾
 
 ***“By the soul and He who created it and gave it order; then inspired
 it with understanding of its wrong and its right. Truly saved are those
@@ -396,12 +352,8 @@ from His genetic will [irādah takwīnī] which is absolutely inviolable.)
 The duties and decree obtained in this way are considered the commands
 and injunctions of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَرَبُّكَ يَخْلُقُ مَا يَشَاء وَيَخْتَارُ مَا كَانَ لَهُمُ
-الْخِيَرَةُ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَرَبُّكَ يَخْلُقُ مَا يَشَاء وَيَخْتَارُ مَا كَانَ لَهُمُ
+> الْخِيَرَةُ... ﴾
 
 ***“And your Lord creates and chooses what He pleases; they have no will
 before the will of Allah…”***[^13]
@@ -411,20 +363,12 @@ instructions from God, the Creator, for those who follow its theoretical
 and practical precepts and submit to God, in Qur’anic parlance this
 religion is called Islam:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الدِّينَ عِنْدَ اللّهِ الإِسْلاَمُ... ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الدِّينَ عِنْدَ اللّهِ الإِسْلاَمُ... ﴾
 
 ***“Indeed, Religion is surrender [Islam] to Allah…”***[^14]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَنْ يَبْتَغِ غَيْرَ الإِسْلاَمِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ...
-﴾
-  </p>
-</blockquote>
+> ﴿ وَمَنْ يَبْتَغِ غَيْرَ الإِسْلاَمِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ...
+> ﴾
 
 ***“And whosoever seeks a religion other than Islam (surrender to Allah)
 it will not be accepted of him…”***[^15]
@@ -579,14 +523,10 @@ This means that all acts must be performed in the radius of the three
 principles of tawhīd (monotheism), nubuwwah (Prophethood), and ma‘ād
 (Resurrection). The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلَمَةٍ سَوَاء
-بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
-بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِنْ دُونِ
-اللّهِ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلَمَةٍ سَوَاء
+> بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ
+> بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَابًا مِنْ دُونِ
+> اللّهِ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ ﴾
 
 ***“O Prophet! Say to the People of the Book, ‘Come, let us unite in a
 common word: that we serve none save Allah and that we associate not
@@ -613,11 +553,7 @@ and repugnant eventualities, and bound by the events of this disruptive
 world, their hearts are free and they reside in a calm world. Every
 which way they turn, they see naught but the face of their God:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَأَيْنَمَا تُوَلُّواْ فَثَمَّ وَجْهُ اللّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَأَيْنَمَا تُوَلُّواْ فَثَمَّ وَجْهُ اللّهِ... ﴾
 
 ***“Whichever way you turn, you face Allah…”***[^18]
 
@@ -661,24 +597,16 @@ understanding and its encouragement and eagerness regarding obtaining
 knowledge cannot be found in any religion whether divine or secular. The
 Holy Qur’an proclaims:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لا
-يَعْلَمُونَ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لا
+> يَعْلَمُونَ... ﴾
 
 ***“Are those who know and those who do not know equal?”***[^19]
 
 The Holy Qur’an has greatly and lucidly venerated the high status of
 knowledge. The Noble Prophet declares:
 
-<blockquote dir="rtl">
-  <p>
-طلب العلم فريضة علی کل مسلم. اطلبوا العلم من المهد إلی اللحد. اطلبوا
-العلم ولو بالصين.
-  </p>
-</blockquote>
+> طلب العلم فريضة علی کل مسلم. اطلبوا العلم من المهد إلی اللحد. اطلبوا
+> العلم ولو بالصين.
 
 ***“Seeking knowledge is a religious duty of all Muslims.” “Seek
 knowledge from the cradle to the grave.” and “Seek knowledge even if it
@@ -689,12 +617,8 @@ knowledge and to refrain from following conjecture and accepting
 anything heard, seen, or conceived without contemplation because the
 ears, eyes, and minds are responsible:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ
-وَالْفُؤَادَ كُلُّ أُولئِكَ كَانَ عَنْهُ مَسْؤُولاً ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ
+> وَالْفُؤَادَ كُلُّ أُولئِكَ كَانَ عَنْهُ مَسْؤُولاً ﴾
 
 ***“And adhere not to that which you have no knowledge because the ears,
 eyes, and hearts will be interrogated.”***[^20]
@@ -703,13 +627,9 @@ Clearly, Islam encourages its followers to attain knowledge with full
 force. Among the types of knowledge, it deems learning the theoretical
 teachings and practical laws obligatory:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَآفَّةً فَلَوْلاَ نَفَرَ
-مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَآئِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ...
-﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَآفَّةً فَلَوْلاَ نَفَرَ
+> مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَآئِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ...
+> ﴾
 
 ***“All believers must not go out to jihād; rather, from each party a
 group must engage in learning religious knowledge and undertake
@@ -740,22 +660,14 @@ reasoning, and the rest by way of jihād of the soul and inner
 purification. God, the Almighty, gives an exemplum regarding His
 teachings:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَنزَلَ مِنَ السَّمَاء مَاء فَسَألَتْ أَوْدِيَةٌ بِقَدَرِهَا... ﴾
-  </p>
-</blockquote>
+> ﴿ أَنزَلَ مِنَ السَّمَاء مَاء فَسَألَتْ أَوْدِيَةٌ بِقَدَرِهَا... ﴾
 
 ***“He sent down water from the sky that flowed in every channel to the
 extent of its capacity…”***[^22]
 
 Also, the Holy Prophet stated:
 
-<blockquote dir="rtl">
-  <p>
-«نحن معاشر الأنبياء، أمرنا أن نکلم الناس علی قدر عقولهم.»
-  </p>
-</blockquote>
+> «نحن معاشر الأنبياء، أمرنا أن نکلم الناس علی قدر عقولهم.»
 
 “We, the group of prophets, are charged to speak with the people on a
 level they can understand.”[^23]
@@ -813,11 +725,7 @@ Moreover, following a religious leader [taqlīd][^24] cannot be
 considered inconsistent with the general mandate that an action must
 only be performed in knowledge and a breach of the aforementioned verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ... ﴾
 
 ***“And adhere not to that which you have no knowledge…”*** [^25]
 
@@ -864,11 +772,7 @@ but a series of rigid simple beliefs and dry devotions.”
 In order to answer these claimants, the following hemistich must be
 cited:
 
-<blockquote dir="rtl">
-  <p>
-سخن‌شناس نه‌اي دلبرا، خطا اينجاست.
-  </p>
-</blockquote>
+> سخن‌شناس نه‌اي دلبرا، خطا اينجاست.
 
 You are not a knower of words, O dearest, your error is this.
 
@@ -1076,51 +980,31 @@ paradise or avoiding hell is in truth worship of rewards or punishment,
 not worship of God. As a result of the love and devotion pervading their
 hearts, especially after hearing that God, the Exalted, states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَاذْكُرُونِي أَذْكُرْكُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ فَاذْكُرُونِي أَذْكُرْكُمْ... ﴾
 
 ***“Remember Me that I remember you…”***[^28]
 
 and discovering hundreds of other verses that speak of the remembrance
 of God, such as:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ
-جُنُوبِهِمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذِينَ يَذْكُرُونَ اللّهَ قِيَامًا وَقُعُودًا وَعَلَىَ
+> جُنُوبِهِمْ... ﴾
 
 ***“They remember Allah standing, sitting, and laying on their sides
 (whichever way they face and in whatever state they are)…”***[^29]
 
 and when they hear the message of their Beloved that:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ فِي السَّمَاوَاتِ وَالأَرْضِ لآيَاتٍ لِلْمُؤْمِنِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ فِي السَّمَاوَاتِ وَالأَرْضِ لآيَاتٍ لِلْمُؤْمِنِينَ ﴾
 
 ***“Surely in the heavens and earth there are (many) signs for the
 believers.”***[^30]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... وَإِنْ مِنْ شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... وَإِنْ مِنْ شَيْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ... ﴾
 
 ***“And there is not a thing but celebrates His praise…”***[^31]
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللّهِ... ﴾
-  </p>
-</blockquote>
+> ﴿ ... فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللّهِ... ﴾
 
 ***“Whichever way you turn, you face Allah…”***[^32]
 
@@ -1132,22 +1016,14 @@ behold the beauty of the true Beloved.
 
 And when they hear God’s message that:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنفُسَكُمْ لاَ
-يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ... ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنفُسَكُمْ لاَ
+> يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ... ﴾
 
 ***“O you who believe! Be mindful of your selves (souls): a person who
 is gone astray cannot harm you if you are rightly guided…”***[^33]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا
-فَمُلاقِيهِ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا
+> فَمُلاقِيهِ ﴾
 
 ***“O human! Verily you are striving towards your Lord and you shall
 encounter Him.”***[^34]
@@ -1172,11 +1048,7 @@ in their hearts, free of vanity, through various devotions, they shall
 enter the first rank of the people of certitude [yaqīn]. Thus, the
 following divine covenant will be realized for them.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ ﴾
 
 ***“And worship your Lord until you attain certainty.”***[^35]
 
@@ -1184,12 +1056,8 @@ At this moment, the doors to the kingdom of the heavens and the earth
 will open to them and they will perceive everything as being from Him.
 Regarding Abraham, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالأَرْضِ
-وَلِيَكُونَ مِنَ الْمُوقِنِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالأَرْضِ
+> وَلِيَكُونَ مِنَ الْمُوقِنِينَ ﴾
 
 ***“Thus, We show Abraham the kingdoms of the heavens and the earth that
 he becomes one of those having certitude.”***[^36]
@@ -1205,11 +1073,7 @@ His (figuratively) capable hands.
 Whether it is a cause, an effect, or the relationship between them, all
 are created and formed by Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَلَّهِ مُلْكُ السَّمَاوَاتِ وَالأََرضِ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَلَّهِ مُلْكُ السَّمَاوَاتِ وَالأََرضِ... ﴾
 
 ***“And to Allah belongs the kingdom of the heavens and the
 earth…”***[^37]
@@ -1222,11 +1086,7 @@ glory, and splendor, are all rays from the never-ending light source of
 Truth that radiate from the existential windows of the diverse objects
 in the world:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلِلّهِ الأَسْمَاء الْحُسْنَى... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلِلّهِ الأَسْمَاء الْحُسْنَى... ﴾
 
 ***“And to God belong names (even) more beautiful…”***[^38]
 
@@ -1234,11 +1094,7 @@ Then in the third stage, they perceive that all these various attributes
 are manifestations of an infinite Essence and are in truth all exactly
 the same and identical to the Essence:
 
-<blockquote dir="rtl">
-  <p>
-﴿ ... قُلِ اللّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ الْوَاحِدُ الْقَهَّارُ ﴾
-  </p>
-</blockquote>
+> ﴿ ... قُلِ اللّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ الْوَاحِدُ الْقَهَّارُ ﴾
 
 ***“Say: Allah is the Creator of all things and He is the One and the
 Predominant (over all things).”***[^39]
@@ -1267,12 +1123,8 @@ According to a narration cited in the book “Al-Kāfī” from the sixth Imām
 the fact that this discussion is beyond the level I have pursued in this
 article up until now, I will forbear from further explication.
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلِ ادْعُوا اللّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا
-فَلَهُ الأَسْمَاء الْحُسْنَى... ﴾
-  </p>
-</blockquote>
+> ﴿ قُلِ ادْعُوا اللّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا
+> فَلَهُ الأَسْمَاء الْحُسْنَى... ﴾
 
 ***“Say: call upon Allah or call upon the Merciful [rahmān]. Whichsoever
 you call upon, He has names (even) more beautiful…”***[^40]
@@ -1295,26 +1147,18 @@ This is when they realize the greatest tranquility and are freed of all
 suffering, fear, and sorrow since they do not own anything to be afraid
 of its possible harm or be sorrowful for harm realized.
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
-تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلاَّ تَخَافُوا وَلاَ تَحْزَنُوا
-وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ \* نَحْنُ
-أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ... ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+> تَتَنَزَّلُ عَلَيْهِمُ الْمَلائِكَةُ أَلاَّ تَخَافُوا وَلاَ تَحْزَنُوا
+> وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ \* نَحْنُ
+> أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ... ﴾
 
 ***“Verily upon those who said, ‘Our Lord is Allah’ then persevered,
 angels descend saying, ‘Fear not nor feel sorrow; receive joyous tidings
 of the Paradise you were promised. We are your guardians and guides in
 the world and in the Hereafter’…”***[^41]
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَلا إِنَّ أَوْلِيَاءَ اللّهِ لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
-يَحْزَنُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ أَلا إِنَّ أَوْلِيَاءَ اللّهِ لاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ
+> يَحْزَنُونَ ﴾
 
 ***“Lo! Verily the friends of Allah feel no fear nor do they feel
 sorrow.”***[^42]
@@ -1324,12 +1168,8 @@ ups and downs of the world will become one for them. They will attain a
 different existence, seeing the world and all that is in it in a new
 light:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَوَ مَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا
-يَمْشِي بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ... ﴾
-  </p>
-</blockquote>
+> ﴿ أَوَ مَنْ كَانَ مَيْتًا فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُورًا
+> يَمْشِي بِهِ فِي النَّاسِ كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ... ﴾
 
 ***“Is he who was dead and We brought to life and set for him a light
 with which he walks among people like his counterpart in
@@ -1338,11 +1178,7 @@ darkness?”***[^43]
 Ultimately, they and everything they had becomes of God and God becomes
 of them:
 
-<blockquote dir="rtl">
-  <p>
-«من کان لله، کان الله له.»
-  </p>
-</blockquote>
+> «من کان لله، کان الله له.»
 
 “Those who are for Allah, Allah is for them.”[^44]
 
@@ -1462,5 +1298,4 @@ al-Millah al-Nasrāniyyah” (Idolatrous Beliefs in the Christian Nation).
 [^44]: Bihār al-Anwār, vol. 82, p. 197; Wāfī, vol. 8, p. 784.
 
 [^45]: Extracted from “Muhammad Khātam-e Payāmbarān”.
-
 

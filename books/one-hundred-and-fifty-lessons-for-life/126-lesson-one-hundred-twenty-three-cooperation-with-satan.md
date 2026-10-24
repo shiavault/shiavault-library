@@ -3,12 +3,8 @@ Lesson One Hundred Twenty Three: Cooperation With Satan!
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَسُبَّنَّ إِبْلِيْسَ فِى الْعَلانِيَةِ وَ أنْتَ صَدِيقُهُ فِى
-السِّرِ
-  </p>
-</blockquote>
+> لا تَسُبَّنَّ إِبْلِيْسَ فِى الْعَلانِيَةِ وَ أنْتَ صَدِيقُهُ فِى
+> السِّرِ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ much importance to their devilish activities. Their words are devoid of
 substance and contradict their inner reality.
 
 [^1]: Turasol-Aemeh page 289. Sharh Nahjul Balaghah, vol 20, page 329.
-
 

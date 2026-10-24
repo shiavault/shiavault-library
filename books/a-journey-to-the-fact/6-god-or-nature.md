@@ -403,4 +403,3 @@ said: “***if*** ***they*** ***are*** ***in*** ***poverty,*** ***Allah***
 
 ***F*** Postpone this subject to another time.
 
-

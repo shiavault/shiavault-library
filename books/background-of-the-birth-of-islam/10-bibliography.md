@@ -78,4 +78,3 @@ Frankfurt am Main, 1981.
 
 27. The New Encyclopedia Britannica, Chicago, 1970.
 
-

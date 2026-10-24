@@ -64,7 +64,6 @@ Imam Jaafer Sadiq (A.S.) has said that one should at least recite 50
 Ayats everyday. Let us, therefore, value and respect this Great Book by
 reading it with understanding and follow its teachings.
 
-
 **MUST GOD BE JUST?**
 
 Kisra, A Persian King, was once asked, "How did you learn Justice?" He
@@ -110,7 +109,6 @@ understand the wisdom behind them.
 
 "This is for what your own hands have sent on before, and because Allah
 is not in the least unjust to the servants" Qur'an: (8: 51)
-
 
 **From The Shadow Of a Tree To The Shadow Of Islam**
 
@@ -321,5 +319,4 @@ home, they fully realised the need for a religion. Since then, they
 respected their religious teachings more and more and made every effort
 to follow them. In so doing they became happier and successful in
 life.
-
 

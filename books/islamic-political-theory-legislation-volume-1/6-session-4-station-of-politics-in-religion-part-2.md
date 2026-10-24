@@ -104,21 +104,13 @@ harmful for us in the hereafter. Since our actions affect our
 otherworldly lives, the religious and Islamic view is that life in the
 hereafter is settled in this very world:
 
-<blockquote dir="rtl">
-  <p>
-أَلْيَوْمَ عَمَلٌ وَ لاَ حِسَابَ وَ غداً حِسَابٌ وَ لاَ عَمَلَ.
-  </p>
-</blockquote>
+> أَلْيَوْمَ عَمَلٌ وَ لاَ حِسَابَ وَ غداً حِسَابٌ وَ لاَ عَمَلَ.
 
 *“Today is the time for action and not for reckoning while tomorrow is
 the time for reckoning and not for action,”*[^2]   
  And
 
-<blockquote dir="rtl">
-  <p>
-أَلدُّنْيَا مَزْرَعَةُ ٱلأَْخِرَةِ.
-  </p>
-</blockquote>
+> أَلدُّنْيَا مَزْرَعَةُ ٱلأَْخِرَةِ.
 
 *“This world is the sowing ground for the hereafter.”*[^3]
 
@@ -135,12 +127,8 @@ the hereafter, or bring harm to us. It is true that the style of cooking
 and consumption of food are related to this world but the same act of
 eating can send us to paradise, or throw us into hellfire:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا﴾
 
 ***“Indeed those who consume the property of orphans wrongfully only
 ingest fire into their bellies, and soon they will enter the
@@ -225,15 +213,11 @@ building a house. It also invites us to consume foods that are effective
 in our human and spiritual growth and avoid unlawful foods, alcoholic
 beverages, and narcotic drugs, which are unhealthy for us:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
-وَالأَنصَابُ وَالأَزْلاَمُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ
-فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ ٭ إِنَّمَا يُرِيدُ الشَّيْطَانُ
-أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاء فِي الْخَمْرِ
-وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللّهِ...﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ
+> وَالأَنصَابُ وَالأَزْلاَمُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ
+> فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ ٭ إِنَّمَا يُرِيدُ الشَّيْطَانُ
+> أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاء فِي الْخَمْرِ
+> وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللّهِ...﴾
 
 ***“O you who have faith! Indeed wine, gambling, idols and the divining
 arrows are abominations of Satan’s doing, so avoid them, so that you may
@@ -397,13 +381,9 @@ felicity or wretchedness, as the case may be. So, we have to acknowledge
 that religion can give its opinion on all matters in our lives and state
 their ideological value. As the Prophet (*s*) said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ شَىءٍ يقرّبكم إلىٰ الْجَنَّة وَ يباعدكم عَنِ النَّار إلاَّ
-وَقَدْ أمرتكم به و مَا مِنْ شَىءٍ يقرّبكم مِنَ النَّار وَ يباعدكم من
-الْجَنَّة إلاَّ وَقَدْ نَهَيْتَكُم عَنْهُ.
-  </p>
-</blockquote>
+> مَا مِنْ شَىءٍ يقرّبكم إلىٰ الْجَنَّة وَ يباعدكم عَنِ النَّار إلاَّ
+> وَقَدْ أمرتكم به و مَا مِنْ شَىءٍ يقرّبكم مِنَ النَّار وَ يباعدكم من
+> الْجَنَّة إلاَّ وَقَدْ نَهَيْتَكُم عَنْهُ.
 
 “There is nothing that would draw you toward paradise and keep you away
 from hell except that I commanded you and there is nothing that would
@@ -413,12 +393,8 @@ prohibited you.”[^9]
 In the Islamic perspective, felicity without paradise has no meaning and
 wretchedness without being thrown into hellfire simply does not exist:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَمَّا الَّذِينَ شَقُواْ فَفِي النَّارِ... وَأَمَّا الَّذِينَ
-سُعِدُواْ فَفِي الْجَنَّةِ﴾
-  </p>
-</blockquote>
+> ﴿فَأَمَّا الَّذِينَ شَقُواْ فَفِي النَّارِ... وَأَمَّا الَّذِينَ
+> سُعِدُواْ فَفِي الْجَنَّةِ﴾
 
 ***“As for the wretched, they shall be in the Fire*****…** ***And as for
 the happy, they shall be in Paradise*****.”**[^10]
@@ -484,5 +460,4 @@ site), and in his third year of rule he invaded Mecca. [Trans.]
 [^9]: Bihar al-Anwar, vol. 70, p. 96.
 
 [^10]: Surah Hud 11:106, 108.
-
 

@@ -38,4 +38,3 @@ indeed overtaken the communist states, wherein the subjugation of all
 thought to the official doctrine has led to intellectual repression,
 stagnation, and backwardness.
 
-

@@ -15,13 +15,11 @@ place of worship?
 
 God says in the Qur’an:
 
-<p dir="rtl">
 إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا
 وَهُدًى لِلْعَالَمِينَ فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ
 وَمَنْ دَخَلَهُ كَانَ آمِنًا وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ
 مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ
 عَنِ الْعَالَمِينَ
-</p>
 
 ***“Indeed the first house to be set up for mankind is the one at
 Bakkah, blessed and a guidance for all nations. In it are manifest signs
@@ -40,9 +38,7 @@ spiritual epic and sojourn on this planet.
 
 The great-grandson of the Prophet (S), Imam J’afar al-Sadiq (‘a) said:
 
-<p dir="rtl">
 لا يزال الدين قائماً ما قامت الكعبة
-</p>
 
 Religion will withstand so long as the Ka’bah stands.1
 
@@ -51,12 +47,10 @@ the influx of people from all different places on the earth towards
 Makkah. As such the Ka’bah is the centre whose circumference encompasses
 the entire world. God says in the Qur’an:
 
-<p dir="rtl">
 وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَنْ لَا تُشْرِكْ بِي
 شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ
 السُّجُودِ وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ
 كُلِّ ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ
-</p>
 
 ***When We settled for Abraham the site of the House [saying], Do not
 ascribe any partners to Me, and purify My House for those who go around
@@ -95,12 +89,10 @@ In addition to being for all people a source of guidance, the House of
 God - and the symbol of Islam - is also a refuge and sanctuary for
 people. The Qur’an says:
 
-<p dir="rtl">
 وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا
 مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ
 وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ
 وَالرُّكَّعِ السُّجُودِ
-</p>
 
 ***“And [remember] when We made the House a resort for mankind and a
 sanctuary, [declaring], ‘Take the venue of prayer from Abraham’s
@@ -148,12 +140,10 @@ His empathy and sympathy with created beings grows; and as he rises in
 rank and station, he is able what it is. He longs to reach out and raise
 with himself all those around and below him. The Qur’an says:
 
-<p dir="rtl">
 جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ
 وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ذَٰلِكَ لِتَعْلَمُوا
 أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ
 اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
-</p>
 
 ***“God has made the Ka‘bah, the Sacred House, sustentation for
 mankind - and [also] the sacred month, the offering and the garlands -
@@ -176,12 +166,10 @@ refuge, and sustainer or elevator for them). The following verse
 emphasizes the fact that it is for people of all places equally and that
 no one is to be given preference based on where he hails from.
 
-<p dir="rtl">
 إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَالْمَسْجِدِ
 الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَاءً الْعَاكِفُ فِيهِ
 وَالْبَادِ وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُذِقْهُ مِنْ
 عَذَابٍ أَلِيمٍ
-</p>
 
 ***“Indeed those who are faithless and who bar from the way of God and
 the Sacred Mosque, which We have assigned for all the people, the native
@@ -192,13 +180,11 @@ painful punishment.”( Qur’an 22:25)***
 That the Ka’bah is for all people, the first and the last, can be seen
 from the following sermon of Imam ‘Ali (‘a).
 
-<p dir="rtl">
 ألاَ تَرَوْنَ أَنَّ اللهَ سُبْحَانَهُ، اخْتَبَرَ الاْوَّلِينَ مِنْ
 لَدُنْ آدَمَ صَلَّى اللهِ عَلَيْهِ، إِلَى الاخِرِينَ مِنْ هذا
 الْعَالَمِ، بَأَحْجَار لاَ تَضُرُّ وَلاَ تَنْفَعُ، وَلاَ تُبْصِرُ وَلاَ
 تَسْمَعُ، فَعَجَلَهَا بَيْتَهُ الْحَرَامَ الَّذِي جَعَلَهُ لِلنَّاسِ
 قِيَاماً.
-</p>
 
 Do you not see how God, most Holy, has tried the first of men from the
 time of Adam to the last of men from this world by means of stones [i.e.
@@ -210,12 +196,9 @@ Not only does the temporal extent of the Ka’bah’s influence span the
 extent of human history, it transcends it, making its presence felt even
 after death and in the afterlife. There is a tradition which says:
 
-<p dir="rtl">
 قال الصادق (عليه السلام) ودَّ من في القبور لو أنَّ له ُ حَجَّةٌ بالدنيا
 و ما فيها
-</p>
 
 Al-Sadiq (‘a) said: He who is in the grave wishes that he could give the
 world and all that is in it for just one Hajj for himself.3
-
 

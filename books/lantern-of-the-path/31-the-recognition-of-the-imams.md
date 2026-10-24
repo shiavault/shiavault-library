@@ -66,20 +66,12 @@ Salman said, 'I wept. Then I continued,
 
 >
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاء وَعْدُ أُولاهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَا
-أُوْلِي بَأْسٍ شَدِيدٍ فَجَاسُواْ خِلاَلَ الدِّيَارِ وَكَانَ وَعْدًا
-مَّفْعُولاً
-  </p>
-</blockquote>
+> فَإِذَا جَاء وَعْدُ أُولاهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَا
+> أُوْلِي بَأْسٍ شَدِيدٍ فَجَاسُواْ خِلاَلَ الدِّيَارِ وَكَانَ وَعْدًا
+> مَّفْعُولاً
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُم
-بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا
-  </p>
-</blockquote>
+> ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُم
+> بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا
 
 >
 
@@ -88,7 +80,6 @@ servants of mighty prowess, so they went to and fro among the houses,
 and it was a promise to be accomplished. Then We gave you back the turn
 to prevail against them, and aided you with wealth and children and made
 you a numerous band."*** ' (17:5-6)
-
 
 "I wept a lot," said Salman, "and my yearning became intense.” I said,
 "O Messenger of Allah, is it a pledge from you?"
@@ -104,14 +95,10 @@ will not wrong anyone. It is we who are indicated in this verse:
 
 >
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ. وَنُمَكِّنَ
-لَهُمْ فِي الْأَرْضِ وَنُرِي فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا
-مِنْهُم مَّا كَانُوا يَحْذَرُونَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ. وَنُمَكِّنَ
+> لَهُمْ فِي الْأَرْضِ وَنُرِي فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا
+> مِنْهُم مَّا كَانُوا يَحْذَرُونَ
 
 >
 
@@ -120,10 +107,7 @@ land, and to make them the leaders, and to make them the heirs, and to
 grant them power in the land, and to make*** ***Pharaoh, Haman and their
 armies see from them what they feared."*** ' (28:5-6)
 
-
 Salman said, “I took leave of the Messenger of Allah, completely
 unconcerned as to how Salman would meet death, or how death would meet
 him.”
-
-
 

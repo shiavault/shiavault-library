@@ -91,7 +91,6 @@ In agreement with His Mercy, He has sent prophets and heavenly Books,
 and in agreement with His forgiveness, He pardons our countless sins in
 the light of faith and penance.
 
-
 **Commentary : Verse 6.7.8**
 
 7. وَقَالُوا مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ وَيَمْشِي فِي
@@ -163,7 +162,7 @@ garden to eat of it?'..."
 They did not get satisfied only with these and finally they accused him
 of insanity. In the end of the verse we read:
 
-[^1] Nur-uth-Thaqalyn, Vol. 4, p. 6
+[^1]: Nur-uth-Thaqalyn, Vol. 4, p. 6
 
 " ... And the unjust say: 'You follow none other than a man
 bewitched'."
@@ -192,5 +191,4 @@ he is a prophet.
 
 As a conclusion, they said that his great claim in such conditions is
 the sign of insanity!!
-
 

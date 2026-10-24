@@ -96,13 +96,9 @@ drive you out from our houses snatched by you.” But when the Holy
 Prophet (S) arrived, the Ansar became Muslim but the Jews turned
 infidels. Almighty Allah has hinted this in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا
-فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ
-عَلَى الْكَافِرِينَ.
-  </p>
-</blockquote>
+> وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا
+> فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ
+> عَلَى الْكَافِرِينَ.
 
 ***“…and aforetime they used to pray for victory against those who
 disbelieve, but when there came to them (Prophet) that which recognized,
@@ -1205,11 +1201,7 @@ used to say: This son of mine has a very great status. Amirul Momineen
 the idols around the Kaaba toppled and a voice came from the sky at
 sunset:
 
-<blockquote dir="rtl">
-  <p>
-جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
-  </p>
-</blockquote>
+> جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
 
 ***“The truth has come and the falsehood has vanished; surely falsehood
 is a vanishing (thing).”***[^7]
@@ -1481,11 +1473,7 @@ worship that tree. Once when they had gathered near that tree, a
 terrifying voice came out of it: “O people of Yemen and Yamama! O
 idolaters!”
 
-<blockquote dir="rtl">
-  <p>
-جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
-  </p>
-</blockquote>
+> جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
 
 ***“The truth has come and the falsehood has vanished; surely falsehood
 is a vanishing (thing).”***[^8]
@@ -1607,13 +1595,9 @@ Holy Prophet (S) and saw that he was praising and hallowing God in the
 most lucid and eloquent manner. Then Allah sent a white silken tent
 whereon was written:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمـَنِ الرَّحِيمِ. يَا أَيُّهَا النَّبِيُّ إِنَّا
-أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا. وَدَاعِيًا إِلَى
-اللَّهِ بِإِذْنِهِ وَسِرَاجًا مُنِيرًا .
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمـَنِ الرَّحِيمِ. يَا أَيُّهَا النَّبِيُّ إِنَّا
+> أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا. وَدَاعِيًا إِلَى
+> اللَّهِ بِإِذْنِهِ وَسِرَاجًا مُنِيرًا .
 
 ***In the name of Allah, the Beneficent, the Merciful. O Prophet! surely
 We have sent you as a witness, and as a bearer of good news and as a
@@ -1639,11 +1623,7 @@ and by Allah.” The Kaaba spoke up with the order of God: “Peace be on
 you O Muhammad, and the mercy of Allah and His blessings.” And an
 invisible caller called:
 
-<blockquote dir="rtl">
-  <p>
-جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
-  </p>
-</blockquote>
+> جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
 
 ***“The truth has come and the falsehood has vanished; surely falsehood
 is a vanishing (thing).”***[^10]
@@ -2133,12 +2113,8 @@ messengership in him.
  It is narrated through reliable traditions that a man asked Imam
 Muhammad Baqir (a.s.) about the Qur’anic verse
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
-يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا.
-  </p>
-</blockquote>
+> إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ
+> يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا.
 
 ***“Except to him whom He chooses as an apostle; for surely He makes a
 guard to march before him and after him.”***[^12]
@@ -5017,80 +4993,44 @@ Sadiq (a.s.) that Prophet’s ten names are found in Qur’an: Muhammad,
 Ahmad, Abdullah, Taha, Yasin, Nun, Muzammil, Muddassir, Rasul and Zikr
 as the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ
-  </p>
-</blockquote>
+> وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ
 
 ***“And Muhammad is no more than an apostle…”***[^17]
 
-<blockquote dir="rtl">
-  <p>
-وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ
-  </p>
-</blockquote>
+> وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ
 
 ***“…and giving the good news of an Apostle who will come after me, his
 name being Ahmad…”***[^18]
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ
-عَلَيْهِ لِبَدًا
-  </p>
-</blockquote>
+> وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ
+> عَلَيْهِ لِبَدًا
 
 ***“And that when the servant of Allah stood up calling upon Him, they
 well-nigh crowded him (to death).”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-طٰهٰ. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقٰى.
-  </p>
-</blockquote>
+> طٰهٰ. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقٰى.
 
 ***“Ta Ha. We have not revealed the Qur’an to you that you may be
 unsuccessful.”***[^20]
 
-<blockquote dir="rtl">
-  <p>
-يٰس. وَالْقُرْآنِ الْحَكِيمِ
-  </p>
-</blockquote>
+> يٰس. وَالْقُرْآنِ الْحَكِيمِ
 
 ***“Ya Seen. I swear by the Qur’an full of wisdom…”***[^21]
 
-<blockquote dir="rtl">
-  <p>
-ن. وَالْقَلَمِ وَمَا يَسْطُرُونَ
-  </p>
-</blockquote>
+> ن. وَالْقَلَمِ وَمَا يَسْطُرُونَ
 
 ***“Noon. I swear by the pen and what the angels write…”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْمُزَّمِّلُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْمُزَّمِّلُ
 
 ***“O you who have wrapped up in your garments!”***[^23]
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْمُدَّثِّرُ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْمُدَّثِّرُ
 
 ***“O you who are clothed!”***[^24]
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا. رَّسُولًا يَتْلُو عَلَيْكُمْ
-آيَاتِ اللَّهِ مُبَيِّنَاتٍ.
-  </p>
-</blockquote>
+> قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا. رَّسُولًا يَتْلُو عَلَيْكُمْ
+> آيَاتِ اللَّهِ مُبَيِّنَاتٍ.
 
 ***“Allah has indeed revealed to you a reminder. An Apostle who recites
 to you the clear communications of Allah”***[^25]
@@ -5098,11 +5038,7 @@ to you the clear communications of Allah”***[^25]
 Imam Ja’far Sadiq (a.s.) has said: Zikr is one of the names of the Holy
 Prophet (S) and we are Ahle Zikr as the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ.
-  </p>
-</blockquote>
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ.
 
 ***“…so ask the followers of the Reminder if you do not know…”***[^26]
 
@@ -5144,11 +5080,7 @@ In many authentic narrations, it is narrated from Imam Muhammad Baqir
 Holy Prophet (S) used to stand on his toes until they swelled up. Then
 Allah said in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-طٰهٰ. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقٰى.
-  </p>
-</blockquote>
+> طٰهٰ. مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقٰى.
 
 ***“Ta Ha. We have not revealed the Qur’an to you that you may be
 unsuccessful.”***[^27]
@@ -5163,11 +5095,7 @@ It is mentioned by both Shias and non-Shias in several narrations that
 Yasin is the name of His Eminence, Muhammad Mustafa (S) and that Aale
 Yasin are his Ahlul Bayt to whom the Holy Qur’an has saluted:
 
-<blockquote dir="rtl">
-  <p>
-سَلَامٌ عَلَى إِلْ يَاسِينَ
-  </p>
-</blockquote>
+> سَلَامٌ عَلَى إِلْ يَاسِينَ
 
 ***“Peace be on Aale Yasin.”***[^28]
 
@@ -5178,11 +5106,7 @@ tradition: Don’t name anyone as Yasin, as it is the name of Muhammad who
 has not permitted its being given to anyone else. According to another
 reliable tradition, Imam Musa Kazim (a.s.) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-حم. وَالْكِتَابِ الْمُبِينِ
-  </p>
-</blockquote>
+> حم. وَالْكِتَابِ الْمُبِينِ
 
 ***“Ha Mim. I swear by the Book that makes things clear.”***[^29]
 
@@ -5191,11 +5115,7 @@ Prophet (S) in the Book revealed by Allah to him (Muhammad). And
 *Kitabil Mubeen* means Amirul Momineen (a.s.). According to reliable
 narrations, it is mentioned in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوٰى
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوٰى
 
 ***“I swear by the star when it goes down.”***[^30]
 
@@ -5204,11 +5124,7 @@ Meraj or when he left this world. *Najm* means the Holy Prophet (S) who
 is the star in the sky of guidance. Likewise, in the explanation of the
 Divine words:
 
-<blockquote dir="rtl">
-  <p>
-وَعَلامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَعَلامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
 
 ***“And landmarks; and by the stars they find the right way.”***[^31]
 
@@ -5217,11 +5133,7 @@ Imams who are milestones on the highway of guidance and *Najm* is the
 Messenger of Allah (S) who guided them. There are also several
 traditions explaining the verses:
 
-<blockquote dir="rtl">
-  <p>
-وَالشَّمْسِ وَضُحَاهَا
-  </p>
-</blockquote>
+> وَالشَّمْسِ وَضُحَاهَا
 
 ***“I swear by the sun and its brilliance…”***[^32]
 
@@ -5230,12 +5142,8 @@ Qamar means the Amirul Momineen (a.s.), the high moon of Imamate who is
 the follower of the Holy Prophet (S). *Nahaar* means the holy Imams by
 whose light of leadership the world is shining. In the explanation of:
 
-<blockquote dir="rtl">
-  <p>
-وَالتِّينِ وَالزَّيْتُونِ. وَطُورِ سِينِينَ. وَهَذَا الْبَلَدِ
-الْأَمِينِ
-  </p>
-</blockquote>
+> وَالتِّينِ وَالزَّيْتُونِ. وَطُورِ سِينِينَ. وَهَذَا الْبَلَدِ
+> الْأَمِينِ
 
 ***“I swear by the fig and the olive, and mount Sinai, and this city
 made secure…”***[^33]
@@ -5277,12 +5185,8 @@ meaning the city of Mecca. And there is no dispute about the fact that,
 the Holy Prophet (S) had, till he was appointed as a prophet, not learnt
 reading and writing from anybody. The Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ
-بِيَمِينِكَ ۖ إِذًا لَارْتَابَ الْمُبْطِلُونَ.
-  </p>
-</blockquote>
+> وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ
+> بِيَمِينِكَ ۖ إِذًا لَارْتَابَ الْمُبْطِلُونَ.
 
 ***“And you did not recite before it any book, nor did you transcribe
 one with your right hand, for then could those who say untrue things
@@ -5301,12 +5205,8 @@ In another authentic tradition he said: Among the things which Allah
 bestowed on the Holy Prophet (S) was that he was Ummee. He was not
 writing but could read letters. In another good tradition, the verse
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
-عَلَيْهِمْ آيَاتِهِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو
+> عَلَيْهِمْ آيَاتِهِ
 
 ***“He it is Who raised among the inhabitants of Mecca an Apostle from
 among themselves, who recites to them His communications…”***[^36]
@@ -5328,11 +5228,7 @@ the Holy Prophet (S) could read and write seventy-three languages. Yet
 Allah called him Ummee because he was from Mecca and Ummul Qura is one
 of the names of Mecca; as mentioned in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلِتُنْذِرَ أُمَّ الْقُرٰى وَمَنْ حَوْلَهَا
-  </p>
-</blockquote>
+> وَلِتُنْذِرَ أُمَّ الْقُرٰى وَمَنْ حَوْلَهَا
 
 ***“…and that you may warn the metropolis and those around her…”***[^37]
 
@@ -5350,11 +5246,7 @@ Rather he could read even the unwritten and follow it. How then could he
 not know a written thing? The Imam is reported to have said while
 explaining the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأُوحِيَ إِلَيَّ هٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ
-  </p>
-</blockquote>
+> وَأُوحِيَ إِلَيَّ هٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ
 
 ***“…and this Qur’an has been revealed to me that with it I may warn you
 and whomsoever it reaches.”***[^38]
@@ -5481,40 +5373,24 @@ sufficient here.
 
 Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَالضُّحٰى. وَاللَّيْلِ إِذَا سَجٰى
-  </p>
-</blockquote>
+> وَالضُّحٰى. وَاللَّيْلِ إِذَا سَجٰى
 
 ***“I swear by the early hours of the day and the night when it covers
 with darkness.”***[^39]
 
-<blockquote dir="rtl">
-  <p>
-مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰى
-  </p>
-</blockquote>
+> مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰى
 
 ***“Your Lord has not forsaken you, nor has He become
 displeased.”***[^40]  
  (as the deniers say on account of the delay in the arrival of
 revelation):
 
-<blockquote dir="rtl">
-  <p>
-وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولٰى
-  </p>
-</blockquote>
+> وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولٰى
 
 ***“And surely what comes after is better for you than that which has
 gone before.”***[^41]
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضٰى
-  </p>
-</blockquote>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضٰى
 
 ***“And soon will your Lord give you so that you shall be well
 pleased.”*** [^42]
@@ -5538,12 +5414,8 @@ given to him that he will be pleased. Almighty Allah has bestowed to the
 Holy Prophet (S) in Paradise a thousand palaces the ground of which is
 of musk and there are as many servants in it as befit such a palace.
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَجِدْكَ يَتِيمًا فَآوٰى. وَوَجَدَكَ ضَالًّا فَهَدٰى وَوَجَدَكَ
-عَائِلًا فَأَغْنٰى.
-  </p>
-</blockquote>
+> أَلَمْ يَجِدْكَ يَتِيمًا فَآوٰى. وَوَجَدَكَ ضَالًّا فَهَدٰى وَوَجَدَكَ
+> عَائِلًا فَأَغْنٰى.
 
 ***“Did He not find you an orphan and give you shelter? And find you
 lost (i.e. unrecognized by men) and guide (them to you)? And find you in
@@ -5700,5 +5572,4 @@ revolving round it and they are visible from evening till dawn.
 [^42]: Surah Zuha 93:5
 
 [^43]: Surah Zuha 93:6-8
-
 

@@ -117,4 +117,3 @@ Muslims will derive inspiration from this book in fashioning their lives
 in accordance with the dictates of Allah as well as the noble attributes
 of the Holy Prophet and his Chosen Descendants.
 
-

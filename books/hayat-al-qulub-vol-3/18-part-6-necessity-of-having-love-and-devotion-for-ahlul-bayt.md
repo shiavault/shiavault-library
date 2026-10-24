@@ -6,25 +6,17 @@ their love is the recompense of Messengership.
 
 Allah Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ وَجَعَلْنَا لَهُمْ
-أَزْوَاجًا وَذُرِّيَّةً.
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ وَجَعَلْنَا لَهُمْ
+> أَزْوَاجًا وَذُرِّيَّةً.
 
 And certainly We sent apostles before you and gave them wives and
 children. 13:38
 
 And says:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا إِنَّ
-اللَّهَ غَفُورٌ شَكُورٌ.
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا إِنَّ
+> اللَّهَ غَفُورٌ شَكُورٌ.
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives; and whoever earns good, We give him more of good therein;
@@ -78,12 +70,8 @@ If one engages in worship for a thousand years between Safa and Marwah
 until one breaks down, but without our love and affection in his heart,
 Allah will hurl one into Hell, face down. Then he recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى.
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى.
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives. (Sura Shuraa 42:23)***
@@ -119,13 +107,9 @@ giving him a promise of obedience. At that time the hypocrites said:
 Muhammad has fabricated this verse because he wants to degrade us by
 making us obey his near relatives. At that moment came this Verse:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَى عَلَى اللَّهِ كَذِبًا فَإِنْ يَشَأْ اللَّهُ
-يَخْتِمْ عَلَى قَلْبِكَ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ
-بِكَلِمَاتِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ.
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَى عَلَى اللَّهِ كَذِبًا فَإِنْ يَشَأْ اللَّهُ
+> يَخْتِمْ عَلَى قَلْبِكَ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ
+> بِكَلِمَاتِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ.
 
 ***Or do they say: He has forged a lie against Allah? But if Allah
 pleased, He would seal your heart; and Allah will blot out the falsehood
@@ -136,12 +120,8 @@ The Holy Prophet (S) called those hypocrites and recited this verse
 before them. They started weeping as they considered it too difficult to
 act upon this or to obey this command. So came the Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنْ
-السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ.
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنْ
+> السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ.
 
 ***And He it is Who accepts repentance from His servants and pardons the
 evil deeds and He knows what you do. (Sura Shuraa 42:25)***
@@ -150,12 +130,8 @@ So the Holy Prophet (S) conveyed this verse also to them and gave them
 good tidings then he said that this means those people who were ready to
 respond to the command of Allah beforehand.
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ
-مِنْ فَضْلِهِ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ.
-  </p>
-</blockquote>
+> وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ
+> مِنْ فَضْلِهِ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ.
 
 ***And He answers those who believe and do good deeds, and gives them
 more out of His grace. (Sura Shuraa 42:26)***
@@ -253,12 +229,8 @@ and love for Ali (a.s.), Fatima, Hasan and Husain (a.s.). Therefore it
 also becomes obligatory for the entire Ummah to act upon the verse:
 *Follow the Holy Prophet so that you may succeed* and Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَحْذَرْ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ
-فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ.
-  </p>
-</blockquote>
+> فَلْيَحْذَرْ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ
+> فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ.
 
 ***Therefore let those beware who go against his order lest a trial
 afflict them or there befall them a painful chastisement. (Sura Nur
@@ -266,24 +238,16 @@ afflict them or there befall them a painful chastisement. (Sura Nur
 
 And Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمْ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمْ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ.
 
 ***Say: If you love Allah, then follow me , Allah will love you and
 forgive you your faults. (Sura Ale-Imran 3:31)***
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
-يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا.
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
+> يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا.
 
 ***Certainly you have in the Apostle of Allah an excellent exemplar for
 him who hopes in Allah and the latter day and remembers Allah much.
@@ -320,13 +284,9 @@ Explaining the verse (42:23) Imam Baqir (a.s.) said that the Holy
 Prophet (S) asked his followers to befriend his near and dear ones and
 not to give them any pain. At that time this verse was sent by Allah:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا إِنَّ
-اللَّهَ غَفُورٌ شَكُورٌ.
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا إِنَّ
+> اللَّهَ غَفُورٌ شَكُورٌ.
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives; and whoever earns good, We give him more of good therein.
@@ -392,44 +352,28 @@ You should maintain friendship and love (affection) for my Ahlul Bayt
 of his own and did not accept the affection of Ahlul Bayt (a.s.). It was
 at that time this verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَى عَلَى اللَّهِ كَذِبًا.
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَى عَلَى اللَّهِ كَذِبًا.
 
 ***Or do they say: He has forged a lie against Allah? (Sura Shura
 42:24)***
 
 After this Allah said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ يَشَأْ اللَّهُ يَخْتِمْ عَلَى قَلْبِكَ وَيَمْحُ اللَّهُ
-الْبَاطِلَ.
-  </p>
-</blockquote>
+> فَإِنْ يَشَأْ اللَّهُ يَخْتِمْ عَلَى قَلْبِكَ وَيَمْحُ اللَّهُ
+> الْبَاطِلَ.
 
 ***But if Allah pleased, He would seal your heart; and Allah will blot
 out the falsehood. (Sura Shura 42:24)***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ.
-  </p>
-</blockquote>
+> وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ.
 
 ***And confirm the truth with His words…(Sura Shura 42:24)***
 
 ‘With His words’ means through the Imams and Qaem Aale Muhammad (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ.
-  </p>
-</blockquote>
+> وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ.
 
 ***And He answers those who believe and do good deeds, (Sura Shura,
 42:26)***
@@ -439,11 +383,7 @@ messenger is the word of Allah and said: good deeds (Hasanah) is the
 acceptance of Ahlul Bayt (a.s.) and to behave nicely with them and to be
 kind to them.
 
-<blockquote dir="rtl">
-  <p>
-وَيَزِيدُهُمْ مِنْ فَضْلِهِ.
-  </p>
-</blockquote>
+> وَيَزِيدُهُمْ مِنْ فَضْلِهِ.
 
 ***and gives them more out of His grace. (Sura Shura 42:26)***
 
@@ -554,11 +494,7 @@ to Haqq (truth).[^2]
 Among the verses aiming at the love of Ahlul Bayt (a.s.), according to
 reliable traditions, is also:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْمَوْءُودَةُ سُئِلَتْ. بِأَيِّ ذَنْبٍ قُتِلَتْ.
-  </p>
-</blockquote>
+> وَإِذَا الْمَوْءُودَةُ سُئِلَتْ. بِأَيِّ ذَنْبٍ قُتِلَتْ.
 
 ***And when the female infant buried alive is asked, For what sin she
 was killed, (Surah Tawkir 81:8-9)***
@@ -641,5 +577,4 @@ are getting provision as Allah says: And do not speak of those who are
 slain in Allah’s way as dead; nay, (they are) alive, but you do not
 perceive. (2:154). As if they have been buried and this reason is very
 subtle.
-
 

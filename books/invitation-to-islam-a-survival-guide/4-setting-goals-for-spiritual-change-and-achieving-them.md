@@ -600,4 +600,3 @@ periodically using the scale of 1-6, to document change.
 </tbody>
 </table>
 
-

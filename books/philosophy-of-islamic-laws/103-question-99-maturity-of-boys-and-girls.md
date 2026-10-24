@@ -20,6 +20,3 @@ faster is its growth. This is the reason that many girls of 13 or 14
 years are capable of motherhood while most of the boys generally haven’t
 reach puberty yet at this age.
 
-
-
-

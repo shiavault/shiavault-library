@@ -44,4 +44,3 @@ qualifications, political achievements, military victories – everything
 is worthless here. Nothing can be admired here. The only thing which has
 any value ‘you’, as a servant of God.
 
-

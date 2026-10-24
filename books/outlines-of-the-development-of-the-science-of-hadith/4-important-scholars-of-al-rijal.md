@@ -593,4 +593,3 @@ al-Shi\`ah, vol.111, p. 222.
 
 [^38]. Ibid., vol. VII, p.64.
 
-

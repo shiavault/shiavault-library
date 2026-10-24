@@ -45,4 +45,3 @@ five months. Due to these reasons, Fadak, which had gone out of hands of
 Ahlul Bayt, remained out of their possession during the Caliphate of Ali
 (a.s.) also.
 
-

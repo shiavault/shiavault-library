@@ -122,4 +122,3 @@ thinking of the Imam became apparent.[^5]
 
 [^5]: Majalleye Paasdaar Islam, No. 214, Pg. 41
 
-

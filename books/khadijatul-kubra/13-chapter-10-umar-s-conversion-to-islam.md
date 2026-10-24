@@ -94,4 +94,3 @@ At that time, Umar ibn al-Khattab was a mature man of thirty to
 thirty-five years of age.  
  (The Life of Muhammad, Cairo, 1935)
 
-

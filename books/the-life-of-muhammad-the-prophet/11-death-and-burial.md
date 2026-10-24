@@ -157,4 +157,3 @@ believers.*** **(Qur'an, 10:57)**
 ***Accept what the Messenger gives you and stay away from whatever he
 forbids you.*** **(Qur'an, 59:7)**
 
-

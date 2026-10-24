@@ -10,12 +10,8 @@ jobs, they were earning money, and they were getting married and were
 having children. All these things were happening in the Fironic system,
 but when the Quran painted the picture of this Fironic system it said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ
-الْعَذَابِ
-  </p>
-</blockquote>
+> وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ
+> الْعَذَابِ
 
 ***"And we delivered you from the system of Firon, which was taking you
 towards punishment" (Surah al-Baqarah, 2: 49)***
@@ -53,5 +49,4 @@ along with him so that he can tell the world that this is not the system
 to which we will agree to live our lives. This was the first
 characteristic of the Fironic system whereby it takes the entire nation
 (Ummah) towards eternal destruction (Hell).
-
 

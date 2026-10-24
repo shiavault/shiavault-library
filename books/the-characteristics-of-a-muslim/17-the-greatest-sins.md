@@ -78,4 +78,3 @@ says: Surely, lying is among the greatest sins due to its being the
 cause for crimes, and when man gives it up and is truthful, he will be
 far from such crimes.
 
-

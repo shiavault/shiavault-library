@@ -34,4 +34,3 @@ lifetime. Likewise, they cannot use this story to argue that the
 Commander of the Faithful, Ali, peace be upon him, was in good and
 friendly terms with Umar.
 
-

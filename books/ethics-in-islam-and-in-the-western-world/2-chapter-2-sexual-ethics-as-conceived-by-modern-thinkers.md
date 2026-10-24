@@ -209,4 +209,3 @@ morality is proposed. God-willing, we should be able to render these
 arguments untenable, through an adequate investigation and a thorough
 evaluation of the three basic premises mentioned above.
 
-

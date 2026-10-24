@@ -268,4 +268,3 @@ translation), Vol. III, 27-28,46.
 
 [^4]: Ibn Abi 'l-Hadid, Sharh, Vol. I, p.6.
 
-

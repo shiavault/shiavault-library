@@ -387,4 +387,3 @@ He likes. Allah is the Most Gracious.
 Our last word is to say: Thanks be to Allah, Lord of Creation, and may
 Allah bless our master Muhammad and his purified Household.
 
-

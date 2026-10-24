@@ -480,4 +480,3 @@ Holy Prophet (S) and Imam Sadiq
 [^11]: Supreme Leader’s Friday prayer sermons delivered on October 20,
 1989
 
-

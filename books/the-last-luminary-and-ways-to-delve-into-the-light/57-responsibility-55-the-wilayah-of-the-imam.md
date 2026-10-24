@@ -21,4 +21,3 @@ even things such as knowledge and sustenance are all issues which are
 related to the essence of Allah and are out of the power of people to
 acquire without the help of Allah.
 
-

@@ -209,4 +209,3 @@ Oh daughter of Ali, dead is my joy and pride"
 
 What do you wish to see Oh Sister? Akbar is no more"
 
-

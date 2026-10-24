@@ -475,4 +475,3 @@ al-Ghumah, vol. 3, p. 286.
 
 [^28]: Kanz al-‘Ummal, vol. 14, p. 591.
 
-

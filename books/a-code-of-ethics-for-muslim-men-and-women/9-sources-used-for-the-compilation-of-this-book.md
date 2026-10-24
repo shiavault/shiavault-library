@@ -72,4 +72,3 @@ Ta’liqah Sirat al-Najah Fi Ajwabatul Istifta’at
 In addition, approximately 250 questions whose answers were taken
 directly from the office of the various Maraja’ Taqlid in Qum, Iran.
 
-

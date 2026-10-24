@@ -26,11 +26,7 @@ person waiting for the prayer has been described as “guest of God”.[^1]
 Performance of supererogatory acts and supplications after the prayer is
 also recommended. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذَا فَرَغْتَ فٱنصَبْ ٭ وَ إِلىٰ رَبِّكَ فَٱرْغَب ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذَا فَرَغْتَ فٱنصَبْ ٭ وَ إِلىٰ رَبِّكَ فَٱرْغَب ﴾
 
 ***“So when you are done, appoint, and turn eagerly to your
 Lord.”***[^2]
@@ -282,29 +278,17 @@ supererogatory {devotion} for you.”*[^28]
 In describing those who are observing the night vigils and performing
 the *tahajjud*, the Glorious Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ ٱلْمُسْتَغْفِرِينَ بِٱلأَْسْحَارِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ ٱلْمُسْتَغْفِرِينَ بِٱلأَْسْحَارِ ﴾
 
 ***“And pleading {Allah’s} forgiveness at dawns.”***[^29]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَعِبَادُ الرَّحْمَنِ... وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا
-وَقِيَامًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَعِبَادُ الرَّحْمَنِ... وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا
+> وَقِيَامًا ﴾
 
 ***“The servants of the All-beneficent are… those who spend the night
 with their Lord, prostrating*** ***and standing {in worship}.”***[^30]
 
-<blockquote dir="rtl">
-  <p>
-﴿ كَانُوا قَلِيلاً مِنَ ٱللَّيلِ مَا يَهْجَعُون ﴾
-  </p>
-</blockquote>
+> ﴿ كَانُوا قَلِيلاً مِنَ ٱللَّيلِ مَا يَهْجَعُون ﴾
 
 ***“They used to sleep a little during the night.”***[^31]
 
@@ -314,11 +298,7 @@ prayer. Their reward does not pertain to paradise, its nymphs and the
 like. There are things that God has reserved for them which shall make
 them joyful:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلاَ تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ ﴾
 
 ***“No one knows what has been kept hidden for them of comfort as a
 reward for what they used to do.”***[^32]
@@ -466,5 +446,4 @@ hadiths have been narrated in this regard.
 [^40]: Nur ath-Thaqalayn, vol. 3, p. 204.
 
 [^41]: Thawab al-A‘mal, p. 88.
-
 

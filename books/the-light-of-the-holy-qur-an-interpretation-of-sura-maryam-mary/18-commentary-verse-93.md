@@ -23,7 +23,6 @@ These servants obey Him, but in the meantime He does not need their
 obedience. It is those creatures who are totally in need of
 Him. \* \* \* \* \*
 
-
 **Commentary : Verse 94.95**
 
 94- لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدّاً
@@ -59,7 +58,6 @@ Thus, both Jesus, and Ezra, and angels, and all human beings are
 involved in this general commandment. Yet, how disgrace is the
 consideration of belief of a child for Him, and how low do we bring His
 Pure Essence from the climax of Dignity and Grandeur!
-
 
 **Commentary : Verse 96**
 
@@ -178,5 +176,4 @@ However, as it was said in the commentary explanations of the
 abovementioned verses, the revelation of this verse upon Ali, as a
 complete example, does not contrast the generality of the meaning upon
 the believers wholly, with a hierarchical order, of course.
-
 

@@ -23,11 +23,7 @@ Disputation And Argument
 leader, the low, the lewd, the woman and the child.
 
 > 5ـ سِتَّةٌ لايُمارُونَ: اَلْفَقيهُ وَالرَّئيسُ وَالدَّنيُّ والبَذيُّ
-<blockquote dir="rtl">
-  <p>
-والمَرْأَةُ وَالصَّبيُّ.
-  </p>
-</blockquote>
+> والمَرْأَةُ وَالصَّبيُّ.
 
 6. One whose disputation increases does not remain safe from error.
 
@@ -54,5 +50,4 @@ persists.
 11. With excessive disputation, there can be no affection.
 
 > 11ـ لامَحَبَّةَ مَعَ كَثْرَةِ مِراء.
-
 

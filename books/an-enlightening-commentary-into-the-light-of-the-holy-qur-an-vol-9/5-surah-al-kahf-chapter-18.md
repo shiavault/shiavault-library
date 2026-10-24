@@ -8,11 +8,7 @@ Surah Al-Kahf, Chapter 18
 The Feature of the Surah
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, The Beneficent, The Merciful***
 
@@ -50,5 +46,4 @@ of the Qur’an accompanied with understanding and fulfilling them
 accordingly, is the secret of obtaining the blessings of the Qur’an.
 
 [^1]: Durr-ul-Manthūr
-
 

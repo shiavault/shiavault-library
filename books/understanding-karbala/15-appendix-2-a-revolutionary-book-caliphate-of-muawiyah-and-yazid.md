@@ -459,4 +459,3 @@ acknowledged their own failure to defend Muawiyah and Yazid.]
 
 [^21]: Surah Shoara 26:227
 
-

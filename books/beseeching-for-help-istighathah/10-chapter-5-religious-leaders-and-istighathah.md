@@ -427,4 +427,3 @@ unpopularity of a saint. He has also prescribed a method for discovering
 the stature of a saint and for seeking help from him. This can be looked
 up in*Fatāwā ‘Azīzī* .
 
-

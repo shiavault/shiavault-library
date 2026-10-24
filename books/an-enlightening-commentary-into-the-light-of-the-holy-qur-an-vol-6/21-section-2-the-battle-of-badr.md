@@ -4,14 +4,10 @@ Section 2: The Battle of Badr
 Surah Al-Anfal – Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ
-مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ
-الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ
-الْأَقْدَامَ
-  </p>
-</blockquote>
+> إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ
+> مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ
+> الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ
+> الْأَقْدَامَ
 
 **11*****. (Remember) when He made the slumber fall upon you as a
 security from Him and sent down water from the sky upon you to purify
@@ -39,13 +35,9 @@ the best gardens either, or the sleep may not be a calm-giving one.
 Surah Al-Anfal – Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا
-الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ
-فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ
-  </p>
-</blockquote>
+> إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا
+> الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ
+> فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ
 
 **12*****. “(And remember) when your Lord revealed unto the angels,
 (saying): ‘Verily I am with you, so confirm those who believe. Soon I
@@ -88,18 +80,10 @@ feet to become inactive. The holy verse continues saying:
 Surah Al-Anfal – Verses 13-14
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۚ وَمَنْ يُشَاقِقِ
-اللَّهَ وَرَسُولَهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۚ وَمَنْ يُشَاقِقِ
+> اللَّهَ وَرَسُولَهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ
 
 **13*****. “That is because they opposed Allah and His Messenger; and
 whoever opposes Allah and His Messenger, then verily Allah is severe in
@@ -140,12 +124,8 @@ painful punishment. The verse says:
 Surah Al-Anfal – Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا
-زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا
+> زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ
 
 **15*****. “O’ you who have Faith! when you meet those who disbelieve
 (to attack) in battle, then do not turn your backs to them.”***
@@ -179,13 +159,9 @@ me save that I satiated the earth from his blood.”*
 Surah Al-Anfal – Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُ إِلَّا مُتَحَرِّفًا لِقِتَالٍ
-أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ فَقَدْ بَاءَ بِغَضَبٍ مِنَ اللَّهِ
-وَمَأْوَاهُ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
-  </p>
-</blockquote>
+> وَمَنْ يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُ إِلَّا مُتَحَرِّفًا لِقِتَالٍ
+> أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ فَقَدْ بَاءَ بِغَضَبٍ مِنَ اللَّهِ
+> وَمَأْوَاهُ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
 
 **16*****. “And whoever turns his back to them on that day, unless
 withdrawing to fight again or removing to join another troop, he has
@@ -225,13 +201,9 @@ from Allah, and his abode is Hell; and an evil destination it is.”***
 Surah Al-Anfal – Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ
-إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ ۚ وَلِيُبْلِيَ الْمُؤْمِنِينَ
-مِنْهُ بَلَاءً حَسَنًا ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ
+> إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ ۚ وَلِيُبْلِيَ الْمُؤْمِنِينَ
+> مِنْهُ بَلَاءً حَسَنًا ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
 
 **17*****. “You did not slay them, but Allah slew them; and you (O’
 Muhammad) did not throw when you did throw, but Allah threw, that He
@@ -276,11 +248,7 @@ that they will show.
 Surah Al-Anfal – Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكُمْ وَأَنَّ اللَّهَ مُوهِنُ كَيْدِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> ذَٰلِكُمْ وَأَنَّ اللَّهَ مُوهِنُ كَيْدِ الْكَافِرِينَ
 
 **18*****. “That (was the grace of Allah) for you, and that Allah
 weakens the plan of disbelievers.”***
@@ -303,14 +271,10 @@ the enemy's plots against them. The verse continues saying:
 Surah Al-Anfal – Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ ۖ وَإِنْ تَنْتَهُوا
-فَهُوَ خَيْرٌ لَكُمْ ۖ وَإِنْ تَعُودُوا نَعُدْ وَلَنْ تُغْنِيَ
-عَنْكُمْ فِئَتُكُمْ شَيْئًا وَلَوْ كَثُرَتْ وَأَنَّ اللَّهَ مَعَ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ ۖ وَإِنْ تَنْتَهُوا
+> فَهُوَ خَيْرٌ لَكُمْ ۖ وَإِنْ تَعُودُوا نَعُدْ وَلَنْ تُغْنِيَ
+> عَنْكُمْ فِئَتُكُمْ شَيْئًا وَلَوْ كَثُرَتْ وَأَنَّ اللَّهَ مَعَ
+> الْمُؤْمِنِينَ
 
 **19*****. “(O' infidels!) If (Islam's) victory you are seeking, the
 victory has already come upon you, and if you desist, it will be better
@@ -359,5 +323,4 @@ the believers.”***
 [^1]: Recorded in Nur-uth-Thaqalayn.
 
 [^2]: Narrated from the of Fi-zilal-il-Qur'an
-
 

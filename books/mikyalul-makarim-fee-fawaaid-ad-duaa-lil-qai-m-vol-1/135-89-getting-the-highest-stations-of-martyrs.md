@@ -15,4 +15,3 @@ have mentioned a number of times, praying for an early reappearance of
 our master, the Master of the Time (aj) and helping him is same as
 helping the Messenger of Allah (S).
 
-

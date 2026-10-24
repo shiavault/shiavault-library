@@ -60,11 +60,7 @@ magnanimity.
 lowliness of his base desires and falsity of his aspirations.
 
 > 13ـ مَنْ عَرَفَ شَرَفَ مَعْناهُ صانَهُ عَنْ دَناءَةِ شَهْوَتِهِ وزُورِ
-<blockquote dir="rtl">
-  <p>
-مُناهُ.
-  </p>
-</blockquote>
+> مُناهُ.
 
 14. Holding on to comprehensive merit (or merits) is from the perfection
 of honour.
@@ -89,12 +85,8 @@ strongest winds; and the lowly is made careless by the most inferior
 position, just as the grass that is moved by the passing breeze.
 
 > 18ـ ذُوالشَّـرَفِ لا تُبْطِرُهُ مَنْزِلَةٌ نالَها، وإنْ عَظُمَتْ
-<blockquote dir="rtl">
-  <p>
-كالْجَبَلِ الَّذي لاتُزَعْزِعُهُ الرِّياحُ، والدَّنِيُّ تُبْطِرُهُ
-أدْنى مَنْزِلَة كَالْكَلاءِ الَّذي يُحَرِّكُهُ مَرُّ النَّسيمِ.
-  </p>
-</blockquote>
+> كالْجَبَلِ الَّذي لاتُزَعْزِعُهُ الرِّياحُ، والدَّنِيُّ تُبْطِرُهُ
+> أدْنى مَنْزِلَة كَالْكَلاءِ الَّذي يُحَرِّكُهُ مَرُّ النَّسيمِ.
 
 19. The honourable one never oppresses [others].
 
@@ -102,5 +94,4 @@ position, just as the grass that is moved by the passing breeze.
 
 [^1]: One should not consider himself honourable just because of his
 lineage.
-
 

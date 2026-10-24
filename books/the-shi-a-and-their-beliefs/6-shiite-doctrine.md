@@ -136,4 +136,3 @@ The Sh:!a believe that the direction for prayer (qiblah) is the holy
 house of the ka!bah in Mecca (may Alla\>h increase its holiness) and
 that prayer is not correct unless directed towards it.
 
-

@@ -48,4 +48,3 @@ Questions
 
 3. Why did the poor decline to share the wealth of the rich?
 
-

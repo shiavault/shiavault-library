@@ -437,4 +437,3 @@ Hazrat Adam (a.s.) (930), Hazrat Shoaib (a.s.) (912), Hazrat Lut (a.s.)
 (732), Hazrat Idris (a.s.) (300), Hazrat Nuh (a.s.) (950+), etc. have
 been mentioned. (Ref: Aaftaab-e-Subh-e-Ummeed, p. 83, 84).
 
-

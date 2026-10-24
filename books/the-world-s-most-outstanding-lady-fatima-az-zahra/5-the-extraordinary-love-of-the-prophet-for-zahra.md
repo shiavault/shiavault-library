@@ -1,11 +1,7 @@
 The Extraordinary Love of the Prophet for Zahra
 ===============================================
 
-<blockquote dir="rtl">
-  <p>
-إذا اشتقت إلى الجنة قبّلْتُ نحرَ فاطمة
-  </p>
-</blockquote>
+> إذا اشتقت إلى الجنة قبّلْتُ نحرَ فاطمة
 
 *“Whenever I long for paradise, I kiss the throat of Fatimah.**”***[^1]
 
@@ -32,11 +28,7 @@ It is interesting that a large group of these hadiths were reported by
 Aisha.  
  When this honourable verse was revealed.
 
-<blockquote dir="rtl">
-  <p>
-لا تَجْعَلوا دعاء الرّسولِ بينَكم كدعاء بعضكم بعضاً
-  </p>
-</blockquote>
+> لا تَجْعَلوا دعاء الرّسولِ بينَكم كدعاء بعضكم بعضاً
 
 ***“Make not the calling of the messenger among you as your calling of
 one another.***”[^2]
@@ -44,16 +36,12 @@ one another.***”[^2]
 The Muslims did not address the prophet as “O’ Muhammad” anymore,
 instead they said: “O’ Messenger of God.”
 
-<blockquote dir="rtl">
-  <p>
-تقول فاطمة(عليها السلام) لمّا نزلت الآية الشريفة هبت رسول اللّه أن
-أقول له يا أبه. فكنت أقول: يا رسول اللّه، فأعرض عني مرةً واثنين أو
-ثلاثاً، ثم أقبل عليَّ فقال: يا فاطمة إنّها لم تنزل فيك ولا في أهلك ولا
-في نسلك، أنت مني و أنا منك، إنّما نزلت في أهل الجفاء والغلظة من قريش،
-أصحاب البذخ والكبر ثم أضاف هذه العبارة الروحية العجيبة قولي يا أبه
-فإنّها أحيى للقلب وأرضى للرّب
-  </p>
-</blockquote>
+> تقول فاطمة(عليها السلام) لمّا نزلت الآية الشريفة هبت رسول اللّه أن
+> أقول له يا أبه. فكنت أقول: يا رسول اللّه، فأعرض عني مرةً واثنين أو
+> ثلاثاً، ثم أقبل عليَّ فقال: يا فاطمة إنّها لم تنزل فيك ولا في أهلك ولا
+> في نسلك، أنت مني و أنا منك، إنّما نزلت في أهل الجفاء والغلظة من قريش،
+> أصحاب البذخ والكبر ثم أضاف هذه العبارة الروحية العجيبة قولي يا أبه
+> فإنّها أحيى للقلب وأرضى للرّب
 
 *Fatimah (s.a.) says:*  
 *After this verse was revealed I didn’t dare call my father as (father
@@ -79,12 +67,8 @@ first person to rush to see him was Fatimah.
  This hadith was also narrated by many of the narrators of hadiths, both
 shi’a and sunni; that the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من آذاها فقد آذاني ومن أغضبها فقد أغضبني من سرها فقد سرني ومن سائها
-فقد سائني
-  </p>
-</blockquote>
+> من آذاها فقد آذاني ومن أغضبها فقد أغضبني من سرها فقد سرني ومن سائها
+> فقد سائني
 
 *“Whoever harms her has harmed me and whoever angers her has made me
 angry;*  
@@ -116,5 +100,4 @@ was restored.
 [^3]: 320 “Manaqib Ibn-shahr Ashub”, vol. 3 pg. 320
 
 [^4]: 132 الفضائل الخمسة، ج3، ص“Alfadhael Al-Khamsah” vol. 3 pg. 132
-
 

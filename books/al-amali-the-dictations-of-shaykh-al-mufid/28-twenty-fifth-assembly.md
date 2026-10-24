@@ -202,4 +202,3 @@ which the idle, vain doers will be in loss."
 And may Allah bless our master Muhammad and his progeny, and send unto
 him salutations.
 
-

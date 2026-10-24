@@ -68,4 +68,3 @@ The meaning of this surah is that we must use every tool that is
 available to help others reduce their outer afflictions until they
 recog­nize the truth of the din which is incumbent upon them.
 
-

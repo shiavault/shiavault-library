@@ -38,4 +38,3 @@ came).
 • Just like any other noun in the accusative case, unless it is
 unnonated. For example: **رأیتُ** **قاضیاً** (I saw a judge).
 
-

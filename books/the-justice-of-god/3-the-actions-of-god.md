@@ -216,4 +216,3 @@ al‑Milal wa 'n‑Nihal, pp. 128‑129.
 
 [^10]: as‑Sadiiq, Risalatu 'I‑I'tiqadat, chp. 22, p. 69.
 
-

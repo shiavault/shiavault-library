@@ -100,11 +100,7 @@ episode of his staff’s transformation into a snake. Similarly, “the
 white (shining) palm” was one of his miracles. The reaction of Pharaoh
 to Musa (*‘a*) and his miracles was that he said to his people:
 
-<blockquote dir="rtl">
-  <p>
-الْمَلَأُ مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي
-  </p>
-</blockquote>
+> الْمَلَأُ مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي
 
 ***I do not know of any god that you may have other than me. (28:38)***
 
@@ -113,13 +109,9 @@ from the root “*‘ilm*” [knowledge]; that is, “I do not *know* of any god
 that you may have other than me.” Through the tongue of Prophet Musa
 (*‘a*), the Qur’an rejects this point, saying:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لَقَدْ عَلِمْتَ مَا أَنْزَلَ هَٰؤُلَاءِ إِلَّا رَبُّ
-السَّمَاوَاتِ وَالْأَرْضِ بَصَائِرَ وَإِنِّي لَأَظُنُّكَ يَا
-فِرْعَوْنُ مَثْبُورًا
-  </p>
-</blockquote>
+> قَالَ لَقَدْ عَلِمْتَ مَا أَنْزَلَ هَٰؤُلَاءِ إِلَّا رَبُّ
+> السَّمَاوَاتِ وَالْأَرْضِ بَصَائِرَ وَإِنِّي لَأَظُنُّكَ يَا
+> فِرْعَوْنُ مَثْبُورًا
 
 ***“You certainly know that no one has sent these [signs] except the
 Lord of the heavens and the earth.*** **(17:102)*****”***
@@ -145,12 +137,8 @@ them.
 Another proof is again related to the people of Pharaoh. The Qur’an
 states,
 
-<blockquote dir="rtl">
-  <p>
-وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ
-فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ
+> فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
 
 ***They impugned them though they were convinced in their hearts.
 (27:14)***
@@ -243,11 +231,7 @@ substantiate their claim, they have cited the fact that the Qur’an does
 not regard “knowledge” as not the same with “faith.” They quote the
 Qur’anic verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا
-  </p>
-</blockquote>
+> وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا
 
 **‘*****They impugned them though they were convinced in their
 hearts.*** **(27:14)’**
@@ -266,12 +250,8 @@ In elucidating further their view, the Muslim “intellectuals” who have
 accepted this interpretation of faith say: “By referring to the Qur’an,
 it becomes clear that faith is a voluntary affair:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ ۖ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ
-شَاءَ فَلْيَكْفُرْ
-  </p>
-</blockquote>
+> وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ ۖ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ
+> شَاءَ فَلْيَكْفُرْ
 
 ***And say, ‘[This is] the truth from your Lord: let anyone who wishes
 believe it, and let anyone who wishes disbelieve it’. (18:29)***
@@ -392,14 +372,10 @@ a place outside Medina and curse each other so that God would send down
 His chastisement on the false group and annihilate them. The Qur’an thus
 says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
-وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
-لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> فَمَنْ حَاجَّكَ فِيهِ مِنْ بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ وَنِسَاءَنَا
+> وَنِسَاءَكُمْ وَأَنْفُسَنَا وَأَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ
+> لَعْنَتَ اللَّهِ عَلَى الْكَاذِبِينَ
 
 ***Should anyone argue with you concerning him, after the knowledge that
 has come to you, say, ‘Come! Let us call our sons and your sons, our
@@ -600,13 +576,9 @@ resolution of man to undertake them will equally become stronger. In
 this state, faith will be enhanced and its level elevated. The Qur’an
 thus says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ
-قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا
-وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ
+> قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا
+> وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***The faithful are only those whose hearts tremble [with awe] when
 Allah is mentioned, and when His signs are recited to them, they
@@ -636,13 +608,9 @@ contrary to its requirements, their initial faith gradually weakens and
 as the effect of further and repetitive sinning, it may end up in the
 total effacement of faith:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ
-فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا
-ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ
+> فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا
+> ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ
 
 ***Then the fate of those who committed misdeeds was that they denied
 the signs of Allah and they used to deride them. (30:47)***
@@ -712,5 +680,4 @@ who was a writer of great influence in his book Gharbzadegi (“Xenomania”
 or “Occidentosis”). See its English translation, R. Campbell (trans.)
 and Hamid Algar (ed. and anno.), Occidentosis: A Plague from the West
 (Berkeley: Al-Mizan Press, 1984). [Trans.]
-
 

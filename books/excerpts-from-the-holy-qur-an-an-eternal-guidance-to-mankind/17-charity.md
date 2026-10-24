@@ -6,14 +6,10 @@ How To Spend Money on Charity
 
 **Surah Baqarah, 2:215**
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلْ مَا أَنفَقْتُم مِّنْ خَيْرٍ
-فَلِلْوَالِدَيْنِ وَالأَقْرَبِينَ وَالْيَتَامَى وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ وَمَا تَفْعَلُواْ مِنْ خَيْرٍ فَإِنَّ اللّهَ بِهِ
-عَلِيمٌ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلْ مَا أَنفَقْتُم مِّنْ خَيْرٍ
+> فَلِلْوَالِدَيْنِ وَالأَقْرَبِينَ وَالْيَتَامَى وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ وَمَا تَفْعَلُواْ مِنْ خَيْرٍ فَإِنَّ اللّهَ بِهِ
+> عَلِيمٌ
 
 Yas-’aluunaka maa zaa yunfiquun Qul maaa ‘anfaqtum-min khayrin
 falil-waalidayni wal-’aqrabilina wal-yataamaa wal-masaakiini
@@ -30,13 +26,9 @@ Charity is best when given privately
 
 **Surah Baqarah, 2:271**
 
-<blockquote dir="rtl">
-  <p>
-إِن تُبْدُواْ الصَّدَقَاتِ فَنِعِمَّا هِيَ وَإِن تُخْفُوهَا
-وَتُؤْتُوهَا الْفُقَرَاء فَهُوَ خَيْرٌ لُّكُمْ وَيُكَفِّرُ عَنكُم مِّن
-سَيِّئَاتِكُمْ وَاللّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-  </p>
-</blockquote>
+> إِن تُبْدُواْ الصَّدَقَاتِ فَنِعِمَّا هِيَ وَإِن تُخْفُوهَا
+> وَتُؤْتُوهَا الْفُقَرَاء فَهُوَ خَيْرٌ لُّكُمْ وَيُكَفِّرُ عَنكُم مِّن
+> سَيِّئَاتِكُمْ وَاللّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 ‘In-tubdus-sadaqaati fa-ni-’im-maa nii; wa ‘in-tukhfuu-haa wa
 tu-tuuhal-fuqaraa-’afa-huwa khayrul-lakum: wa yukaf-firu
@@ -57,12 +49,8 @@ No compulsion by Allah (swt) to spend in His way
 
 **Surah Muhammad, 47:36-38**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِن تُؤْمِنُوا
-وَتَتَّقُوا يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْأَلْكُمْ أَمْوَالَكُمْ
-  </p>
-</blockquote>
+> إِنَّمَا الحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِن تُؤْمِنُوا
+> وَتَتَّقُوا يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْأَلْكُمْ أَمْوَالَكُمْ
 
 ’In-namal-hayaatud-dunyaa la-‘ibunw-wa lah: wa ’in-tu’-minuu wa
 tat-taquu yu’tikum ’ujuurakum wa laa yas-’alkum ’amwaa-lakum.
@@ -74,11 +62,7 @@ recompense.*
 *And withal, He does not demand of you (to sacrifice in His cause all
 of) your possessions:*
 
-<blockquote dir="rtl">
-  <p>
-إِن يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ
-  </p>
-</blockquote>
+> إِن يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ
 
 ’Iy-yas-’alkumuu-haa fa-yuh-fikum tab-khaluu wa yukhrij az-
 
@@ -90,15 +74,11 @@ ghaa-nakum
 would niggardly cling (to* *them), and so He would (but) bring out your
 moral failings.*
 
-<blockquote dir="rtl">
-  <p>
-هَاأَنتُمْ هَؤُلَاء تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّهِ
-فَمِنكُم مَّن يَبْخَلُ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن
-نَّفْسِهِ وَاللَّهُ الْغَنِيُّ وَأَنتُمُ الْفُقَرَاء وَإِن
-تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا
-أَمْثَالَكُمْ
-  </p>
-</blockquote>
+> هَاأَنتُمْ هَؤُلَاء تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّهِ
+> فَمِنكُم مَّن يَبْخَلُ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن
+> نَّفْسِهِ وَاللَّهُ الْغَنِيُّ وَأَنتُمُ الْفُقَرَاء وَإِن
+> تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا
+> أَمْثَالَكُمْ
 
 Haaa-’antum haaa-’ulaaa-’i tud-‘awna litun-fiquu fii Sabiilil-laah:
 famin-kum-may-yabkhal , Wa may-yabkhal fa-’in-namaa yab-khalu
@@ -129,12 +109,8 @@ Charity in God’s cause is a loan given to Him
 
 **Surah Al – Hadid, 57:11**
 
-<blockquote dir="rtl">
-  <p>
-مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
-وَلَهُ أَجْرٌ كَرِيمٌ
-  </p>
-</blockquote>
+> مَن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ
+> وَلَهُ أَجْرٌ كَرِيمٌ
 
 Man-zal-lazii yuqrizul-laaha Qarzan Hasanan-fayuzaa-‘ifahuu lahuu wa
 lahuuu ’ajrun-kariim.
@@ -172,5 +148,4 @@ any hypocritical show, name or fame.
 should consider it to be less and insignificant.
 
 • what is given away should be dear to the giver.
-
 

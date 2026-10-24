@@ -395,4 +395,3 @@ that you were not to return to Us?” (The Holy Qur’an, 23:115)
 
 [^4]: Hayat al-Qulub, v.2, p-168.
 
-

@@ -154,4 +154,3 @@ blood." He thus saved her grave from being dishounoured.
 A good Muslim must therefore always show his or her respect to her and
 her progeny.
 
-

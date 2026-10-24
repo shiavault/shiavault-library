@@ -167,4 +167,3 @@ of Yemen embracing Islam gradually.[^5]
 [^5]: Tarikh-i Kamil, vol. II, page 305; Biharul Anwar, vol. XXI, pp.
 360 - 363.  
 
-

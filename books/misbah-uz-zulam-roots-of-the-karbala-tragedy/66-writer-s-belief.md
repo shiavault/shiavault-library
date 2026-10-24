@@ -612,4 +612,3 @@ started immediately after the passing away of the Holy Prophet (S).
 
 [^4]: Ref. Tarikhul Khulafa of Suyuti.
 
-

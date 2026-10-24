@@ -355,4 +355,3 @@ Anas (d. 179/796) in his Muwatta' (ed. Muhammad Fu’ad 'Abd al-Baqi,
 Cairo, 1951) mentions 'the Book of God and the customs of His
 Apostle'.            
 
-

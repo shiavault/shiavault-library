@@ -97,4 +97,3 @@ loving Allāh, worshipping Him; surely You can do anything at all."
 This is the conclusion of the wise admonishment of imām Khomeini, may
 his blessings last.
 
-

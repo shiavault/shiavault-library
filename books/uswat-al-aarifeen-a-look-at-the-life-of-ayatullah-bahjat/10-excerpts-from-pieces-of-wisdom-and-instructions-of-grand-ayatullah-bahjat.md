@@ -328,4 +328,3 @@ Allah Almighty is more apt to grant him success and to help him. Peace
 be with you, the mercy of Allah with Muhammad and the Progeny of
 Muhammad, and may a curse be on all their enemies.
 
-

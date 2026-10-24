@@ -6,11 +6,7 @@ all human beings, nay, all phenomena of the world, are in need of God in
 their creation, they are also in need of Him for their subsistence.  
  In this regard, the Holy Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-"ياأيها الناس أنتم الفقراء إلى الله والله هو الغنيّ الحميد."
-  </p>
-</blockquote>
+> "ياأيها الناس أنتم الفقراء إلى الله والله هو الغنيّ الحميد."
 
 ***“O mankind! You are the ones who stand in need of Allah, and Allah—He
 is the All-sufficient, the All-laudable.”***[^1]
@@ -18,11 +14,7 @@ is the All-sufficient, the All-laudable.”***[^1]
 In another place, it attributes all victories to the Lord of the worlds,
 stating:
 
-<blockquote dir="rtl">
-  <p>
-"وما النصر إلا من عند الله العزيز الحكيم."
-  </p>
-</blockquote>
+> "وما النصر إلا من عند الله العزيز الحكيم."
 
 ***“And victory comes only from Allah, the All-mighty, the
 All-wise.”***[^2]
@@ -30,11 +22,7 @@ All-wise.”***[^2]
 Abiding by this principle confirmed by Islam, we, Muslims, recite this
 noble verse in every prayer:
 
-<blockquote dir="rtl">
-  <p>
-"إياك نعبد وإياك نستعين."
-  </p>
-</blockquote>
+> "إياك نعبد وإياك نستعين."
 
 ***“You {alone} do we worship, and to You {alone} do we turn for
 help.”***[^3]
@@ -50,13 +38,9 @@ Without any doubt, seeking assistance from someone other than God in
 this way is sheer polytheism. The Holy Qur’an points to its futility in
 the following verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِّنَ اللَّهِ إِنْ أَرَادَ بِكُمْ
-سُوءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً وَلَا يَجِدُونَ لَهُم مِّن دُونِ
-اللَّهِ وَلِيًّا وَلَا نَصِيرًا ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِّنَ اللَّهِ إِنْ أَرَادَ بِكُمْ
+> سُوءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً وَلَا يَجِدُونَ لَهُم مِّن دُونِ
+> اللَّهِ وَلِيًّا وَلَا نَصِيرًا ﴾
 
 ***“Say, ‘Who is it that can protect you from Allah should He desire to
 cause you ill, or desire to grant you mercy?’ They will not find for
@@ -90,11 +74,7 @@ consistent with the spirit of monotheism. In fact, the Glorious Qur’an
 invites us to seek assistance through such things like patience and
 prayer as in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-واستعينوا بالصبر والصلوة.
-  </p>
-</blockquote>
+> واستعينوا بالصبر والصلوة.
 
 ***“And take recourse in patience and prayer.”***[^5]
 
@@ -103,11 +83,7 @@ are invited to seek assistance through it. The aforementioned way of
 seeking assistance is not inconsistent with turning for help to God as
 stated in the following verse:
 
-<blockquote dir="rtl">
-  <p>
-"إياك نعبد وإياك نستعين."
-  </p>
-</blockquote>
+> "إياك نعبد وإياك نستعين."
 
 ***“You {alone} do we worship, and to You {alone} do we turn for
 help.”***[^6]
@@ -123,5 +99,4 @@ help.”***[^6]
 [^5]: Surah al-Baqarah 2:45.
 
 [^6]: Surah al-Fatihah 1:5.
-
 

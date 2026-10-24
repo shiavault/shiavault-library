@@ -20,4 +20,3 @@ cheating, lying, stealing, and all other evils that attack man's spirit.
 *Jihad* achieves victory, power and dignity for the Muslim nation and
 rids us of the colonialists and oppressors.
 
-

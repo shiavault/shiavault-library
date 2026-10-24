@@ -192,4 +192,3 @@ harmony in society.
 Question 3: [15 points]  
  What is the purpose of zakātu 'l-fitra?
 
-

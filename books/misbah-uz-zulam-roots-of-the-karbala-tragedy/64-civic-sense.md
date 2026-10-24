@@ -11,4 +11,3 @@ The incident of Karbala’ also has great cultural aspects. It is so much
 concerned with moral values that every kind is related to this event.
 Some of the cultural aspects of these events are discussed below.
 
-

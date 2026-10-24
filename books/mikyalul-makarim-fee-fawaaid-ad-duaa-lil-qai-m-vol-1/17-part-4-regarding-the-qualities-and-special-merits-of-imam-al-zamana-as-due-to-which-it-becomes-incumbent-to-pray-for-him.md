@@ -13,4 +13,3 @@ matter and include me among the sincere followers and slaves of the seal
 of the successors and his repected forefathers, indeed Allah is the
 hearer of supplications.
 
-

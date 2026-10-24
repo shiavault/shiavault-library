@@ -475,4 +475,3 @@ locks to the valley of truth even if he dislikes it.”
 
 [^9]: Dr. Taha Husayn, Al-Fitnah al-Kubra ‘‘Ali wa Banuh, Pg. 150
 
-

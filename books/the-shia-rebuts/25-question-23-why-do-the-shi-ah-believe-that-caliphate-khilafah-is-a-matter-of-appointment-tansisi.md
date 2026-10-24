@@ -140,4 +140,3 @@ await a fatal accident’?”
 
 [^3]: Excerpted from Prof. Ja‘far Subhani’s Furugh-e Abadiyyat.
 
-

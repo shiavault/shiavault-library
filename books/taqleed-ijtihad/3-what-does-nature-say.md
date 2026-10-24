@@ -48,12 +48,8 @@ from this effort by general public.
 In this context the teacher of the Ulama, Akhund Mulla Muhammad Kazim
 Khorasani (died 1329 H) has a beautiful saying:
 
-<blockquote dir="rtl">
-  <p>
-ثم انه لا يذهب عليك ان جواز التقليد ورجوع الجاهل إلى العالم في الجملة
-يكون بديهيا جبليا فطريا لا يحتاج إلى دليل.
-  </p>
-</blockquote>
+> ثم انه لا يذهب عليك ان جواز التقليد ورجوع الجاهل إلى العالم في الجملة
+> يكون بديهيا جبليا فطريا لا يحتاج إلى دليل.
 
 “We should not forget that taqleed is an undisputed fact and it is quite
 obvious that someone who does not know certain issues will ask a
@@ -66,11 +62,7 @@ solve his problems, he should benefit from others’ experiences.
 
 Imam Ja’far As-Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-لا يقبل الله عملا إلا بمعرفة.
-  </p>
-</blockquote>
+> لا يقبل الله عملا إلا بمعرفة.
 
 “Allah (SWT) will not accept deeds that were performed without
 comprehension.”[^2]
@@ -102,11 +94,7 @@ goodness of his deeds related to the fatwa; whereas the marja’ is held
 responsible for those deeds. The rule in the philosophy of law books
 states:
 
-<blockquote dir="rtl">
-  <p>
-العامي يجعل قلادة اعماله على عتق من يقلده.
-  </p>
-</blockquote>
+> العامي يجعل قلادة اعماله على عتق من يقلده.
 
 “A commoner hangs the register of his deeds around the neck of the
 marja’ at-taqleed.”
@@ -120,19 +108,11 @@ became quiet. The Bedouin repeated his question. Rabia still stayed
 quiet. At this juncture Imam Ja’far As-Sadiq (as) explained the relevant
 rule:
 
-<blockquote dir="rtl">
-  <p>
-"هو في عنقه."
-  </p>
-</blockquote>
+> "هو في عنقه."
 
 “Yes the burden is on his neck”. Then the Imam elaborated:
 
-<blockquote dir="rtl">
-  <p>
-"وكل مفت ضامن."
-  </p>
-</blockquote>
+> "وكل مفت ضامن."
 
 “Whoever gives the fatwa, is accountable for it.” [^4]
 
@@ -147,5 +127,4 @@ well-known fuqahas of Madina. Rijal p 177.
 
 [^4]: Furu Kafi – vol 7, Baab Innal Mufti Zamin – p 409, published Darul
 Kutub Al Islamia – Tehran
-
 

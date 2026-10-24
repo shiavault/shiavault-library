@@ -34,4 +34,3 @@ said: "why are you crying O Messenger of Allah?" so he (P) said:
 demise on the land of Taff and he brought this soil to me and said that
 he will rest in it".
 
-

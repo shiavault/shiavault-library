@@ -56,4 +56,3 @@ a true believer unless he gives up deeds forbidden by the Qur'an.
 
 [^1]: Al-Harrani, Tuhaf al-Uqool an aali al-Rasool, p. 39
 
-

@@ -559,4 +559,3 @@ his faith. It is our responsibility to follow his example. Surely we are
 to be called to account on the Day of Judgment. The holy QUR'AN says,
 {And stop them, for they shall be questioned} [SAFFAT: 24].
 
-

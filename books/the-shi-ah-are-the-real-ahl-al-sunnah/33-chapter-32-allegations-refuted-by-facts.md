@@ -45,7 +45,7 @@ played a very significant role in influencing the events, in changing
 the characteristics of the creed, and in dividing and fragmenting the
 nation.
 
-[^142] Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 5, p. 47, where Abdullah,
+[^142]: Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 5, p. 47, where Abdullah,
 who was bathed by the angels, is quoted saying, "By Allah! We did not
 disobey Yazid till we feared lest we should be hurled with stones from
 the skies, (for he is) a man who sleeps with his mothers, daughters, and

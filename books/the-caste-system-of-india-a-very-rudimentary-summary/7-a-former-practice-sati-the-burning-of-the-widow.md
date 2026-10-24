@@ -115,4 +115,3 @@ In some very rare incidences mothers committed Sati on their son's pyre
 and in even more rare cases husbands committed Sati on their wives
 pyres.
 
-

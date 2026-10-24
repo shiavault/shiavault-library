@@ -1595,4 +1595,3 @@ perform it better. Hopefully, continual use of this practice will cause
 the tiredness of the heart to decrease and you will be more easily
 prepared.
 
-

@@ -76,4 +76,3 @@ and covenants are according to Islamic laws.
 
 Praise be to Allah, Lord of the Worlds.
 
-

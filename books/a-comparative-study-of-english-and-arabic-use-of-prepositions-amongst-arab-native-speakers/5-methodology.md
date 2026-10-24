@@ -10,7 +10,6 @@ used as a foreign language. A test was conducted to examine the
 students’ abilities to distinguish between English and Arabic
 prepositions.
 
-
 The test consisted of three questions.
 
 Q.1. This question focused only on locational prepositions, in a
@@ -22,5 +21,4 @@ multiple-choice format.
 Q.3. This question focused on both locational and directional
 prepositions and required the translation of short statements from
 Arabic into English.
-
 

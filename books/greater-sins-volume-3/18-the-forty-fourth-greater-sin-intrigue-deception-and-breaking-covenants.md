@@ -363,4 +363,3 @@ enthusiastic about it. This is called Khiyar tadlis.
 
 [^11]: Wasa’il ul-Shia Vol. 12 page 364
 
-

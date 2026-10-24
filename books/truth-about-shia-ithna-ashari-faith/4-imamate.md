@@ -2804,4 +2804,3 @@ titled Haqaaiq an Ameer al-Momineen Yazīd [facts about the commander of
 the faithful Yazīd] so you may see to what extent some people have gone
 in their falsification of the Islamic history...!
 
-

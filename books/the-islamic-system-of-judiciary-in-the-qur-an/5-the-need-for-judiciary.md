@@ -131,4 +131,3 @@ matter with regard to its conceived terms is described as qadiyyah, and
 the mental form with regard to its conceived terms is called judgement
 (tasdiq).
 
-

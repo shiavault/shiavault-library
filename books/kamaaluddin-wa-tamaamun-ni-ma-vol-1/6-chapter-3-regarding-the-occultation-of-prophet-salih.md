@@ -38,32 +38,20 @@ from the stream and alternate for you. We have brought faith on Allah
 and also believed on whatever you have brought. At that time Allah, the
 Mighty and the High said:
 
-<blockquote dir="rtl">
-  <p>
-اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا
-مُرْسَلٌ مِنْ رَبِّهِ
-  </p>
-</blockquote>
+> اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا
+> مُرْسَلٌ مِنْ رَبِّهِ
 
 ***“Do you know that Salih is sent by his Lord?”***[^1]
 
 And the believers and people of faith said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ
-  </p>
-</blockquote>
+> إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ
 
 ***“Surely we are believers in what he has been sent with.”***[^2]
 
 And the arrogant ones – those who doubted him – said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ
-  </p>
-</blockquote>
+> إِنَّا بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ
 
 ***“Surely we are deniers of what you believe in.”***[^3]
 
@@ -84,5 +72,4 @@ gathered around him. And there is no doubt that the simile of Qaim
 [^2]: Surah Araaf 7:75
 
 [^3]: Surah Araaf 7:76
-
 

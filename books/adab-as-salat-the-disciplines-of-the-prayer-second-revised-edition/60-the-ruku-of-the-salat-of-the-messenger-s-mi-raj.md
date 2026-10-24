@@ -49,4 +49,3 @@ the individuations of the creation.
 [^1]: 'Ilal ash-Sharā'i' , p. 315. A part of the hadīth concerning
 al-mi'rāj salāt.
 
-

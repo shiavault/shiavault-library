@@ -41,36 +41,24 @@ discussed above. Khwajah Abdallah al-Ansari, in his “Manazil
 Al-Sa’irin”, says, the truth of the principle of trust and reliance in
 Allah is:
 
-<blockquote dir="rtl">
-  <p>
-"التَّوَكُّل كِلَةُ الامْرِ اِلى مَالِكِهِ وَالتَعويلُ على وَكالَتِهِ"
-  </p>
-</blockquote>
+> "التَّوَكُّل كِلَةُ الامْرِ اِلى مَالِكِهِ وَالتَعويلُ على وَكالَتِهِ"
 
 "to entrust all affairs to its Master and to rely on His
 trusteeship".[^1]
 
 This is the way believers are commanded to carry out their affairs.
 
-<blockquote dir="rtl">
-  <p>
-"وَعَلى الله فَليَتَوكَّل المُؤمِنُونَ"
-  </p>
-</blockquote>
+> "وَعَلى الله فَليَتَوكَّل المُؤمِنُونَ"
 
 ***"And on Allah let the believers rely"***[^2]
 
 When the Prophet (S) asked Gabriel (Jibril) about the principle of trust
 and reliance in Allah, the latter explained it through a tradition:
 
-<blockquote dir="rtl">
-  <p>
-"العِلمُ بِأنَّ المَخلُوقَ لا يَضُر وَلا يَنْفَعُ وَلا يُعْطِي وَلا
-يَمْنَعُ، وَاستِعمَالُ اليَأسِ مِنَ الخَلْقِ، فَاِذا كَانَ العَبدُ
-كَذلِكَ لَم يَعمَل لأحَدٍ سِوى الله وَلَم يَرْجُ وَلَم يَخَف سِوى الله
-وَلَم يَطْمَع في اَحَدٍ سِوى الله فَهذا هُوَ التَوَكُّلُ"
-  </p>
-</blockquote>
+> "العِلمُ بِأنَّ المَخلُوقَ لا يَضُر وَلا يَنْفَعُ وَلا يُعْطِي وَلا
+> يَمْنَعُ، وَاستِعمَالُ اليَأسِ مِنَ الخَلْقِ، فَاِذا كَانَ العَبدُ
+> كَذلِكَ لَم يَعمَل لأحَدٍ سِوى الله وَلَم يَرْجُ وَلَم يَخَف سِوى الله
+> وَلَم يَطْمَع في اَحَدٍ سِوى الله فَهذا هُوَ التَوَكُّلُ"
 
 *"(It is) the knowledge that creatures neither harm nor benefit, neither
 give nor withhold; and (it is) not resting one’s hopes on creatures.
@@ -116,15 +104,11 @@ God's statement:
 ***"And whoever trusts in Allah, He is sufficient for him" [Qur’an
 65:3]***. And then he explains:
 
-<blockquote dir="rtl">
-  <p>
-"التَوَكُّلُ على الله دَرَجَاتٌ، مِنهَا اَن تَتَوكَّلَ على الله في
-اُمُورِكَ كُلِّها فَمَا فَعَلَ بِكَ كُنتَ عَنهُ رَاضِياً تَعلَمُ
-اَنَّهُ لا يَألُوكَ خَيراً وَفَضْلاً وَتَعلَمُ اَنَّ الحُكْمَ في
-ذَلِكَ لَهُ فَتَوَكَّل على الله بِتَفوِيضِ ذَلِكَ اِلَيهِ وَثِق بِهِ
-فِيهَا وَفي غَيرِهَا"
-  </p>
-</blockquote>
+> "التَوَكُّلُ على الله دَرَجَاتٌ، مِنهَا اَن تَتَوكَّلَ على الله في
+> اُمُورِكَ كُلِّها فَمَا فَعَلَ بِكَ كُنتَ عَنهُ رَاضِياً تَعلَمُ
+> اَنَّهُ لا يَألُوكَ خَيراً وَفَضْلاً وَتَعلَمُ اَنَّ الحُكْمَ في
+> ذَلِكَ لَهُ فَتَوَكَّل على الله بِتَفوِيضِ ذَلِكَ اِلَيهِ وَثِق بِهِ
+> فِيهَا وَفي غَيرِهَا"
 
 *"The principle of reliance on Allah has degrees. One degree of this
 reliance is that you trust in God in all your affairs. You are pleased
@@ -146,5 +130,4 @@ strong stronghold.
 al-Sa'adah, vol.3, p.223.
 
 [^5]: . Usul al-Kafi, vol.2, p.65.
-
 

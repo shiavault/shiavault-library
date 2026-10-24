@@ -175,4 +175,3 @@ not having anything to do with it.
 
 [^8]: al-Tabari, Tarikh, Vol. 6, pp. 233-234.
 
-

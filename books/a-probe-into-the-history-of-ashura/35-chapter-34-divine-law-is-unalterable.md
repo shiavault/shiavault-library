@@ -107,4 +107,3 @@ authority in the world have acquired it according to a Divine law, and
 similar is the case of those, who have been subjected to humiliation and
 disgrace.
 
-

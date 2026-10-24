@@ -386,4 +386,3 @@ inaccurate.
 
 [^10]: Vol. XXIII, p. 4174.
 
-

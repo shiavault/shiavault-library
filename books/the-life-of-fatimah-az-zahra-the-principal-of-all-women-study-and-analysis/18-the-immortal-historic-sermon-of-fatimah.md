@@ -622,4 +622,3 @@ as-Sajjad), and Fatimah (s.a.). Refer to Bihar al-Anwar, vol. 11 p. 204.
 [^14]: The Life of Imam al-Hasan bin Ali, vol. 1 p. 286. It is said that
 it is the mosque of Fatimah (s.a.) that lies in al-Baqee’.
 
-

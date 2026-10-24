@@ -4,16 +4,12 @@ Hadith 01 to 10
 Hadīth No. 1
 ------------
 
-<p dir="rtl">
 عن شعبة، عن سلمة بن كهيل، قال: سمعت أبا الطفيل يحدث، عن أبي سريحة رضي
 الله عنه - أو زيد بن أرقم رضي الله عنه (شك شعبة) - عن النبي صلى الله
 عليه وآله وسلم، قال: من كنت مولاه فعلي مولاه.
-</p>
 
-<p dir="rtl">
 وقد روى شعبة هذا الحديث، عن ميمون أبي عبد الله، عن زيد بن أرقم رضي الله
 عنه، عن النبي صلى الله عليه وآله وسلم.
-</p>
 
 “Shu‘bah relates it from Salmah bin Kuhayl: I heard it from Abū Tufayl
 that Abū Sarīhah (RA) - or Zayd bin Arqam (RA) (Shu‘bah has doubts about
@@ -27,11 +23,9 @@ from the Holy Prophet (SAW).”[1]
 Hadīth No. 2
 ------------
 
-<p dir="rtl">
 عن عمران بن حصين رضي الله عنه، قال: قال رسول الله صلى الله عليه وآله
 وسلم: ما تريدون من علي؟ ما تريدون من علي؟ ما تريدون من علي؟ إن عليا مني
 وأنا منه، وهو ولي كل مؤمن من بعدي.
-</p>
 
 “‘Imrān bin Husayn (RA) has narrated that Allāh’s Messenger (SAW) said:
 What do you people want about ‘Alī? What do you people want about ‘Alī?
@@ -42,12 +36,10 @@ believer.”[2]
 Hadīth No. 3
 ------------
 
-<p dir="rtl">
 عن سعد بن أبي وقاص رضي الله عنه، قال: سمعت رسول الله صلى الله عليه وآله
 وسلم يقول: من كنت مولاه فعلي مولاه، وسمعته يقول: أنت مني بمنزلة هارون من
 موسى إلا أنه لا نبي بعدي، وسمعته يقول: لأعطين الراية اليوم رجلا يحب الله
 ورسوله.
-</p>
 
 “It is related by Sa‘d bin Abī Waqās (RA): I heard Allāh’s Messenger
 (SAW) say: One who has me as his master has ‘Alī as his master. And I
@@ -59,17 +51,13 @@ the person who loves Allāh (SWT) and His Messenger (SAW).”[3]
 Hadīth No. 4
 ------------
 
-<p dir="rtl">
 عن البراء بن عازب رضي الله عنه، قال: أقبلنا مع رسول الله صلى الله عليه
 وآله وسلم في حجته التي حج، فنزل في بعض الطريق، فأمر الصلاة جامعة، فأخذ
 بيد علي رضي الله عنه،
-</p>
 
-<p dir="rtl">
 فقال: ألست أولى بالمؤمنين من أنفسهم؟ قالوا: بلى. قال: ألست أولى بكل مؤمن
 من نفسه؟ قالوا: بلى. قال: فهذا ولي من أنا مولاه، اللهم! وال من والاه،
 اللهم! عاد من عاداه.
-</p>
 
 “Barā’ bin ‘Āzib (RA) narrates: We performed*hajj* with Allāh’s
 Messenger (SAW). On the way he stayed at a place and commanded us (to
@@ -83,7 +71,6 @@ enemy of one who is his enemy.”[4]
 Hadīth No. 5
 ------------
 
-<p dir="rtl">
 عن البراء بن عازب رضي الله عنه، قال: كنا مع رسول الله صلى الله عليه وآله
 وسلم في سفر، فنزلنا بغدير خم، فنودي فينا: الصلاة جامعة، وكسح لرسول الله
 صلى الله عليه وآله وسلم تحت شجرتين، فصلى الظهر وأخذ بيد علي رضي الله
@@ -92,7 +79,6 @@ Hadīth No. 5
 رضي الله عنه، فقال: من كنت مولاه فعلي مولاه، اللهم! وال من والاه، وعاد
 من عاداه. قال: فلقيه عمر رضي الله عنه بعد ذلك، فقال له: هنيئا يا ابن أبي
 طالب! أصبحت وأمسيت مولى كل مؤمن ومؤمنة.
-</p>
 
 “It is narrated by Barā’ bin ‘Āzib (RA): We were on a journey with
 Allāh’s Messenger (SAW). (On the way) we stayed at Ghadīr Khum. There it
@@ -112,10 +98,8 @@ believer, morning and evening (for ever).”[5]
 Hadīth No. 6
 ------------
 
-<p dir="rtl">
 عن ابن بريدة عن أبيه، قال: قال رسول الله صلى الله عليه وآله وسلم: من كنت
 وليه فعليّ وليه.
-</p>
 
 “Ibn Buraydah has attributed it to his father: Allāh’s Messenger (SAW)
 said: One who has me as his guardian has ‘Alī as his guardian.”[6]
@@ -123,14 +107,12 @@ said: One who has me as his guardian has ‘Alī as his guardian.”[6]
 Hadīth No. 7
 ------------
 
-<p dir="rtl">
 عن زيد بن أرقم رضي الله عنه، قال: لما رجع رسول الله صلى الله عليه وآله
 وسلم من حجة الوداع، ونزل غدير خم، أمر بدوحات فقمن، فقال: كأني قد دعيت
 فأجبت، إني قد تركت فيكم الثقلين، أحدهما أكبر من الآخر: كتاب الله تعالى،
 وعترتي، فانظروا كيف تخلفوني فيهما، فإنهما لن يتفرقا حتى يردا علي الحوض.
 ثم قال: إن الله عز وجل مولاي، وأنا مولى كل مؤمن. ثم أخذ بيد علي رضي الله
 عنه، فقال: من كنت مولاه فهذا وليه، اللهم! وال من والاه، وعاد من عاداه.
-</p>
 
 “It is narrated by Zayd bin Arqam (RA): When Allāh’s Messenger (SAW) was
 returning after the Hajjat-ul-wadā‘, he stayed at Ghadīr Khum. He
@@ -149,7 +131,6 @@ is his enemy.”[7]
 Hadīth No. 8
 ------------
 
-<p dir="rtl">
 عن ابن واثلة أنه سمع زيد بن أرقم رضي الله عنه، يقول: نزل رسول الله صلى
 الله عليه وآله وسلم بين مكة والمدينة عند شجرات خمس دوحات عظام، فكنس
 الناس ما تحت الشجرات، ثم راح رسول الله صلى الله عليه وآله وسلم عشية،
@@ -158,7 +139,6 @@ Hadīth No. 8
 اتبعتموهما، وهما كتاب الله، وأهل بيتي عترتي، ثم قال: أتعلمون إني أولى
 بالمؤمنين من أنفسهم؟ ثلاث مرات، قالوا: نعم. فقال رسول الله صلى الله عليه
 وآله وسلم: من كنت مولاه فعلي مولاه.
-</p>
 
 “Ibn Wāthilah is reported to have heard from Zayd bin Arqam (RA) that
 the Prophet (SAW) was camping between Makkah and Medina near five dense
@@ -177,7 +157,6 @@ me as his master has ‘Alī as his master.”[8]
 Hadīth No. 9
 ------------
 
-<p dir="rtl">
 عن زيد بن أرقم رضي الله عنه، قال: خرجنا مع رسول الله صلى الله عليه وآله
 وسلم حتى انتهينا إلى غدير خم، فأمر بروح فكسح في يوم ما أتى علينا يوم كان
 أشدّ حرًا منه، فحمد الله وأثنى عليه، وقال: يا أيها الناس! أنه لم يبعث
@@ -186,7 +165,6 @@ Hadīth No. 9
 رضي الله عنه، فقال: يا أيها الناس! من أولى بكم من أنفسكم؟ قالوا: الله
 ورسوله أعلم. ألست أولى بكم من أنفسكم؟ قالوا: بلى. قال: من كنت مولاه فعلي
 مولاه.
-</p>
 
 “Zayd bin Arqam (RA) narrates: We set out with Allāh’s Messenger (SAW)
 until we reached Ghadīr Khum. He commanded that a canopy should be put
@@ -205,17 +183,13 @@ master.”[9]
 Hadīth No. 10
 -------------
 
-<p dir="rtl">
 عن سعد بن أبي وقاص رضي الله عنه، قال: لقد سمعت رسول الله صلى الله عليه
 وآله وسلم يقول في علي رضي الله عنه ثلاث خصال، لأن يكون لي واحدة منهن أحب
 إلي من حمر النعم:
-</p>
 
-<p dir="rtl">
 سمعته يقول: إنه بمنزلة هارون من موسى، إلا أنه لا نبي بعدي، وسمعته يقول:
 لأعطين الراية غدا رجلا يحب الله ورسوله، ويحبه الله ورسوله، وسمعته يقول:
 من كنت مولاه فعلي مولاه.
-</p>
 
 “Sa‘d bin Abī Waqās (RA) says that he heard Allāh’s Messenger (SAW)
 describe three qualities of ‘Alī (RA). Had I possessed anyone of them,

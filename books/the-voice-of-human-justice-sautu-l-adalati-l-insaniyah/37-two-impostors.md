@@ -741,4 +741,3 @@ son of Abu Sufyan I shall punish both of you properly for your misdeeds
 and even if I cannot gain control over you and you continue to live
 after me your fate will be extremely bad”.
 
-

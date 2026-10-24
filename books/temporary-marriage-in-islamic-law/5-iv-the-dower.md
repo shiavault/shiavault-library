@@ -324,4 +324,3 @@ Masalik, 1,538.
 
 [^65]. Sharh al-lum'a, v, 286.
 
-

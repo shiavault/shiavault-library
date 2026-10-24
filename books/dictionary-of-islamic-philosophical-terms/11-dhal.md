@@ -73,4 +73,3 @@ Dhayufantus
 Diophantus: Greek mathematician of the second half of third century
 C.E., said to be a great Greek writer on algebra.
 
-

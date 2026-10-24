@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِبْراَهِيْمَ لَحَلِيْمٌ اَوَّاهٌ مُّنِيبٌ
-  </p>
-</blockquote>
+> إِنَّ إِبْراَهِيْمَ لَحَلِيْمٌ اَوَّاهٌ مُّنِيبٌ
 
 “Most surely Ibrahim was forbearing, tender-hearted, oft-returning (to
 Allah).”[^1]
 
 Imam Sadiq (as) had said:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا لَــمْ تَکُنْ حَلِيماً فَتَحَلَّمْ
-  </p>
-</blockquote>
+> إِذَا لَــمْ تَکُنْ حَلِيماً فَتَحَلَّمْ
 
 “If you are not forbearing then portray yourself as one possessing
 forbearance.”[^2]
@@ -189,5 +181,4 @@ prayers.[^10]
 [^9]: A descendant of the Noble Prophet . (Tr.)
 
 [^10]: Seema-e-Farzanegan, Page 338; Fawaid al-Raďawiyyah, Page 74
-
 

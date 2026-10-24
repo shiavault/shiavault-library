@@ -156,4 +156,3 @@ have mercy upon us, we shall certainly be of the losers.”***[^6]
 
 [^6]: Sūrah al-A'rāf 7:23
 
-

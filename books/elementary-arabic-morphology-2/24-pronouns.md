@@ -194,4 +194,3 @@ from their sources. For more information one can refer to the book The
 Basics of Islamic Jurisprudence by Hassan al-Ridā’ī available at
 www.lulu.com/islamicbooks.
 
-

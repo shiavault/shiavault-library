@@ -6,12 +6,8 @@ may attain self-perfection and God's Nearness. Because, of this reason
 God-Almighty has invited his servants to offer supplications.
 God-Almighty says in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***“And your Lord hath said: Pray unto Me and I will hear your prayer.
 Lo! Than who scorn My service, they will enter Hell disgraced.
@@ -19,24 +15,16 @@ Lo! Than who scorn My service, they will enter Hell disgraced.
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ
-الْمُعْتَدِينَ
-  </p>
-</blockquote>
+> ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ
+> الْمُعْتَدِينَ
 
 ***(“Oh mankind!) Call upon your Lord humbly and in secret. Lo! He
 loveth not aggressors. (7:55)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ
 
 ***“And when My Servants question thee concerning Me, then surely I am
 nigh. I answer the prayer of the suppliant when he crieth unto Me.
@@ -44,22 +32,14 @@ nigh. I answer the prayer of the suppliant when he crieth unto Me.
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال النبى صلى الله عليه وآله: الدعا مخ العبادة.
-  </p>
-</blockquote>
+> قال النبى صلى الله عليه وآله: الدعا مخ العبادة.
 
 *“The supplication (Dua) is the soul of the worship.”*[^1]
 
 Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: الدعا حق العبادة قال الله: "ان الذين
-يستكبرون عن عبادتى" الايه, ادع الله ولا تقل ان الا مرقد فرغ منه.
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: الدعا حق العبادة قال الله: "ان الذين
+> يستكبرون عن عبادتى" الايه, ادع الله ولا تقل ان الا مرقد فرغ منه.
 
 *“Supplication is worship, because God-Almighty says: ' You must
 continue to seek God-Almighty and should never say: It is all
@@ -67,12 +47,8 @@ done.”*[^2]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو عبدالله عليه السلام: عليكم بالدعا فانكم لا تقربون بمثله ولا
-تتركوا صغيرة لصغرها ان تدعوا بها, ان صاحب الصغار هو صاحب الكبار
-  </p>
-</blockquote>
+> قال ابو عبدالله عليه السلام: عليكم بالدعا فانكم لا تقربون بمثله ولا
+> تتركوا صغيرة لصغرها ان تدعوا بها, ان صاحب الصغار هو صاحب الكبار
 
 *“You should never quit supplication in all circumstances, because you
 will never find any other substitute like supplication in attaining
@@ -123,25 +99,17 @@ and Infallible Imams (a.s.) always utilized this arsenal and have
 recommended it strongly for believers. Imam al-Ridha (a.s.) said to his
 companions:
 
-<blockquote dir="rtl">
-  <p>
-عن الرضا عليه السلام انه كان يقول لاصحابه: عليكم بسلاح الانبيا فقيل
-وما صلاح الانبيا؟ قال: الدعا.
-  </p>
-</blockquote>
+> عن الرضا عليه السلام انه كان يقول لاصحابه: عليكم بسلاح الانبيا فقيل
+> وما صلاح الانبيا؟ قال: الدعا.
 
 *“Use the arsenal of Prophets.” What is the arsenal of prophets? He was
 asked. “Supplication”. Replied the Imam.”*[^6]
 
 Imam al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو جعفر عليه السلام: ان الله يحب من عبادة المؤمنين كل عبد ودعا
-فعليكم بالدعا ففى السحر الى طلوع الشمس, فانها ساعة تفتح فيها ابواب
-السما وتقسم فيها الارزاق وتقضى فيها الحوائج العظام.
-  </p>
-</blockquote>
+> قال ابو جعفر عليه السلام: ان الله يحب من عبادة المؤمنين كل عبد ودعا
+> فعليكم بالدعا ففى السحر الى طلوع الشمس, فانها ساعة تفتح فيها ابواب
+> السما وتقسم فيها الارزاق وتقضى فيها الحوائج العظام.
 
 *“God-Almighty, among .the believers loves the one, who supplicates a
 lot; and I recommend you to supplicate specially at the time of dawn
@@ -151,12 +119,8 @@ granted.”*[^7]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: الدعا سلاح المؤمن وعمود الدين ونور
-السموات والارض.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: الدعا سلاح المؤمن وعمود الدين ونور
+> السموات والارض.
 
 *“Supplication is believer's arsenal; is the pillar of religion and
 light of the earth and sky.”*[^8]
@@ -167,13 +131,9 @@ the supplicant's spirit perfected and nourished and helps suppliant to
 attain God’s Nearness. The Commander of the Faithful Imam ‘Ali (a.s.)
 said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: الدعا مفاتيح النجاح ومقاليد الفلاح وخير
-الدعا ما صدر عن نقى وقلب تقى وفى المناجات سبب النجاة وبالاخلاص يكون
-الخلاص فاذا اشتد الفزع فالى الله المفزع.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: الدعا مفاتيح النجاح ومقاليد الفلاح وخير
+> الدعا ما صدر عن نقى وقلب تقى وفى المناجات سبب النجاة وبالاخلاص يكون
+> الخلاص فاذا اشتد الفزع فالى الله المفزع.
 
 *“Supplication is the key of prosperity; the best supplication is the
 supplication which comes out .from pure chests and pious hearts;
@@ -209,39 +169,27 @@ granted in this world so that he should remain continuously engaged in
 God's Remembrance, and receive a much better reward in the next world.
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: رحم الله عبدا طلب من الله‌ حاجة فالح
-الدعاء استجيب له ‌او‌ لم يستجب ‌له‌ تلاهذه الايه وادعوا ربى عسى ‌ان‌
-‌لا‌ اكون بدعاء ربى شقيا.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: رحم الله عبدا طلب من الله‌ حاجة فالح
+> الدعاء استجيب له ‌او‌ لم يستجب ‌له‌ تلاهذه الايه وادعوا ربى عسى ‌ان‌
+> ‌لا‌ اكون بدعاء ربى شقيا.
 
 *“May God-Almighty bless the servant who seeks his needs from
 God-Almighty and pleads for their fulfillment through supplications
 whether his wants are granted or not. Then he recited the following
 verse:*[^10]
 
-<blockquote dir="rtl">
-  <p>
-وَأَدْعُو رَبِّي عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا
-  </p>
-</blockquote>
+> وَأَدْعُو رَبِّي عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا
 
 ***“It may be that in prayer unto my Lord, I shall not be unblessed.
 (19:48)***
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: ان المؤمن ليدعو الله عز وجل في حاجته
-فيقول الله تعالى: أخروا إجابته شوقا إلى صوته ودعائه فاذا كان يوم
-القيامة قال الله: عبدى! دعوتنى فأخرت إجابتك, وثوابك كذا وكذا ودعوتنى
-فى كذا وكذا: فأخرت إجابتك وثوابك كذا وكذا. فيتمنى المؤمن أنه لم يستجيب
-له دعوة فى الدنيا مما يرى من حسن الثواب.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: ان المؤمن ليدعو الله عز وجل في حاجته
+> فيقول الله تعالى: أخروا إجابته شوقا إلى صوته ودعائه فاذا كان يوم
+> القيامة قال الله: عبدى! دعوتنى فأخرت إجابتك, وثوابك كذا وكذا ودعوتنى
+> فى كذا وكذا: فأخرت إجابتك وثوابك كذا وكذا. فيتمنى المؤمن أنه لم يستجيب
+> له دعوة فى الدنيا مما يرى من حسن الثواب.
 
 *“Sometimes a believer supplicates for a need before God-Almighty; but,
 He orders His Angels to delay the grant of servant's needs, because, He
@@ -256,18 +204,14 @@ rewards of Hereafter.”*[^11]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: إحفظ أدب الدعاء وانظر من تدعو وكيف تدعو ولماذا
-وحقق عظمة الله وكبريائه وعاين بقلبك علمه بما في ضميرك وإطلاعه على سرك
-وما تكون فيه نجاتك قال الله تعالى: وَيَدْعُو الانسَانُ بِالشرِّ
-دُعَاءَهُ بالخَيْرِ ، وكان الانسَانُ عَجُولاً وتفكر ماذا تسأل ولماذا
-تسأل والدعا إستجابة الكل منك للحق وتذويب المهجة في مشاهدة الرب وترك
-الاختيار جميعا وتسليم الامور كلها ظاهرا وباطنا إلى الله تعالى فإن لم
-تأت بشرط الدعاء فلا تنتظر الاجابة فانه يعلم السر وأخفى. فلعلك تدعوه
-بشيء قد علم من سرك خلاف ذلك.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: إحفظ أدب الدعاء وانظر من تدعو وكيف تدعو ولماذا
+> وحقق عظمة الله وكبريائه وعاين بقلبك علمه بما في ضميرك وإطلاعه على سرك
+> وما تكون فيه نجاتك قال الله تعالى: وَيَدْعُو الانسَانُ بِالشرِّ
+> دُعَاءَهُ بالخَيْرِ ، وكان الانسَانُ عَجُولاً وتفكر ماذا تسأل ولماذا
+> تسأل والدعا إستجابة الكل منك للحق وتذويب المهجة في مشاهدة الرب وترك
+> الاختيار جميعا وتسليم الامور كلها ظاهرا وباطنا إلى الله تعالى فإن لم
+> تأت بشرط الدعاء فلا تنتظر الاجابة فانه يعلم السر وأخفى. فلعلك تدعوه
+> بشيء قد علم من سرك خلاف ذلك.
 
 *“Be careful about the etiquettes of supplication, and pay attention as
 to which personality are you talking, how do you beseech Him, and for
@@ -342,5 +286,4 @@ for people, and by its fascination to keep them in bondage [Tr].
 [^11]: al-Kafi, vol. 2, p-490.
 
 [^12]: Haqayaqi-Faiz, p-244.
-
 

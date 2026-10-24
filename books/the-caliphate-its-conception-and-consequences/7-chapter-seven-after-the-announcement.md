@@ -150,7 +150,6 @@ with masked faces, coming towards the prophet with sinister intent. He
 informed the prophet (p), the alarm was raised, and the would-be
 assailants fled, AMMAR pursuing them for some distance.
 
-
 The prophet (p) informed HUDHAIFA of the names of these persons, and
 for this reason, HUDHAIFA was thereafter known as "the keeper of the
 secret of the prophet (p)". Some say that it was on his return journey
@@ -619,7 +618,6 @@ is now clear that the fiction of the prophet asking Abu BAKR to lead the
 prayers was only a show made up by this party to achieve a political
 end.
 
-
 **TABLE HIGHLIGHTING THE CONTRADICTIONS IN THE ACCOUNTS**
 
 Source Name of Name of Whether Whether Whether Person person prophet's
@@ -1010,5 +1008,4 @@ Ali as his successor to be formulated in writing.
 6. Now it is plain why that wish of the Prophet (P) was attributed to
 delirium, and why it was not complied with, or, to use the phraseology
 of MARGOLIOUTH, why "the request was rejected".
-
 

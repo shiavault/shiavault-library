@@ -24,4 +24,3 @@ Moral:
 
 2. It is indeed difficult to bring a fool to his senses.
 
-

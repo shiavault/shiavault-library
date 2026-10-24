@@ -1,43 +1,18 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-هو الحبيب الذي ترجي شفاعته
-  </p>
-</blockquote>
+> هو الحبيب الذي ترجي شفاعته
 
-<blockquote dir="rtl">
-  <p>
-لكل هول من الأهوال مقتحم
-  </p>
-</blockquote>
+> لكل هول من الأهوال مقتحم
 
-<blockquote dir="rtl">
-  <p>
-مولاي صلي وسلم دائماً ابدا
-  </p>
-</blockquote>
+> مولاي صلي وسلم دائماً ابدا
 
-<blockquote dir="rtl">
-  <p>
-على حبيبك وعترته أهل بيته
-  </p>
-</blockquote>
+> على حبيبك وعترته أهل بيته
 
-<blockquote dir="rtl">
-  <p>
-خير خلقك كلهم
-  </p>
-</blockquote>
+> خير خلقك كلهم
 
 **This book is dedicated to Imam al-Hasan and Imam al-Husayn,**  
 **peace be upon them both.**
-
 

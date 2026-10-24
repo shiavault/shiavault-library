@@ -311,4 +311,3 @@ should not be spent for this purpose". Undoubtedly this thinking was the
 very sediment of the teachings of the Prophets which had still survived
 among Quraysh.
 
-

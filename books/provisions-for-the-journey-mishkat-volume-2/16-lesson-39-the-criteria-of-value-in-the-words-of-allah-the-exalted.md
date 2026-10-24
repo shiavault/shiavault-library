@@ -26,24 +26,16 @@ The value of man from the viewpoint of the Qur’an lies in faith and
 righteous deeds and perhaps there are very few pages in the Qur’an where
 these two issues have not been mentioned:
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَلَهُ جَزَاءً الْحُسْنَى
-وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْرًا
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَلَهُ جَزَاءً الْحُسْنَى
+> وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْرًا
 
 ***“But as for him who has faith and acts righteously, he shall have the
 best reward, and we will speak to him gently of our command.”***[^1]
 
 Elsewhere, it states:
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَأُوْلَئِكَ يَدْخُلُونَ
-الْجَنَّةَ وَلاَ يُظْلَمُونَ شَيْئًا
-  </p>
-</blockquote>
+> إِلاَّ مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَأُوْلَئِكَ يَدْخُلُونَ
+> الْجَنَّةَ وَلاَ يُظْلَمُونَ شَيْئًا
 
 ***“…except those who repent, believe, and act righteously. Such will
 enter paradise, and they will not be wronged in the least.”***[^2]
@@ -55,12 +47,8 @@ and the martyrs, and it is because of this station that the Prophet Adam
 (*‘a*) became the object of prostration for the angels and that man
 attains a position where he is described thus:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ \* فِي مَقْعَدِ صِدْقٍ
-عِنْدَ مَلِيكٍ مُقْتَدِرٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ \* فِي مَقْعَدِ صِدْقٍ
+> عِنْدَ مَلِيكٍ مُقْتَدِرٍ
 
 ***“Surely the pious shall be in gardens and rivers, in the abode of
 truthfulness with an Omnipotent King.”***[^3]
@@ -71,13 +59,9 @@ worshiping Allah and discharging personal and social duties and, in
 short, once he abstains from fulfilling his human role and traverses the
 course of decadence, he reaches a position lower than animals:
 
-<blockquote dir="rtl">
-  <p>
-... لَهُمْ قُلُوبٌ لاَ يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَ
-يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لاَ يَسْمَعُونَ بِهَا أُوْلَئِكَ
-كَالأَنْعَامِ بَلْ هُمْ أَضَلُّ ...
-  </p>
-</blockquote>
+> ... لَهُمْ قُلُوبٌ لاَ يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لاَ
+> يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لاَ يَسْمَعُونَ بِهَا أُوْلَئِكَ
+> كَالأَنْعَامِ بَلْ هُمْ أَضَلُّ ...
 
 ***“They have hearts with which they do not understand, and they have
 eyes with which they do not see, and they have ears with which they do
@@ -200,15 +184,11 @@ world and stick his picture on doors and walls or even build a statue in
 his memory in order for all the people to remember him as a
 philanthropist, but the Holy Qur’an states in his regard:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ
-وَالأذَى كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلاَ يُؤْمِنُ
-بِاللّهِ وَالْيَوْمِ الآخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ
-تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لاَ يَقْدِرُونَ عَلَى
-شَيْءٍ مِمَّا كَسَبُوا وَاللّهُ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ
+> وَالأذَى كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلاَ يُؤْمِنُ
+> بِاللّهِ وَالْيَوْمِ الآخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ
+> تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لاَ يَقْدِرُونَ عَلَى
+> شَيْءٍ مِمَّا كَسَبُوا وَاللّهُ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ
 
 ***“O you who have faith! Do not render your charities void by
 reproaches and affronts, like those who spend their wealth to be seen by
@@ -244,35 +224,23 @@ cause of man’s prosperity in the hereafter is that the deed must be
 related to faith and spring from faith and it is for this reason that in
 the Holy Qur’an, Allah, the Exalted, has conjoined faith and good deeds:
 
-<blockquote dir="rtl">
-  <p>
-وَبَشِّرِ الَّذِين آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ
-جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ...
-  </p>
-</blockquote>
+> وَبَشِّرِ الَّذِين آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ
+> جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ...
 
 ***“And give good news to those who have faith and do righteous deeds
 that for them shall be gardens with streams running in them…”***[^6]
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ أَصْحَابُ
-الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ أَصْحَابُ
+> الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
 
 ***“And those who have faith and do righteous deeds, they shall be the
 inhabitants of paradise; they shall remain in it [forever].”***[^7]
 
 And elsewhere, it states:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***“Whoever acts righteously, [whether] male or female, and is a
 believer, We shall revive him with a good life and pay them their reward
@@ -282,12 +250,8 @@ Therefore, the relationship between faith and deeds has to be
 safeguarded because only deeds that spring from faith and belief in
 Allah can be directed towards Allah.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى \* وَمَا لأَحَدٍ عِنْدَهُ مِنْ
-نِعْمَةٍ تُجْزَى \* إِلاَّ ابْتِغَاء وَجْهِ رَبِّهِ الأَعْلَى
-  </p>
-</blockquote>
+> الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى \* وَمَا لأَحَدٍ عِنْدَهُ مِنْ
+> نِعْمَةٍ تُجْزَى \* إِلاَّ ابْتِغَاء وَجْهِ رَبِّهِ الأَعْلَى
 
 ***“He who gives wealth to purify himself and does not expect any reward
 from anyone, but seeks the pleasure of His Lord, the Most
@@ -298,13 +262,9 @@ sanctimony and attracting the attention of other human beings or seeking
 their gratitude. Even if the people speak ill of this person, he does
 not quit his work and spends as Allah has commanded him:
 
-<blockquote dir="rtl">
-  <p>
-وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِينًا وَيَتِيمًا
-وَأَسِيرًا \* إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لاَ نُرِيدُ
-مِنْكُمْ جَزَاء وَلاَ شُكُورًا
-  </p>
-</blockquote>
+> وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِينًا وَيَتِيمًا
+> وَأَسِيرًا \* إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لاَ نُرِيدُ
+> مِنْكُمْ جَزَاء وَلاَ شُكُورًا
 
 ***“They give food, for the love of Him, to the needy, the orphan and
 the prisoner [saying,] ‘We feed you only for the sake of Allah. We do
@@ -583,12 +543,8 @@ actions and inner intentions for doing deeds. If deeds are divine, He
 accepts them; otherwise, He rejects those deeds and He does not have
 anything to do with the exterior of deeds:
 
-<blockquote dir="rtl">
-  <p>
-لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَاؤُهَا وَلَكِنْ يَنَالُهُ
-التَّقْوَى مِنكُمْ...
-  </p>
-</blockquote>
+> لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَاؤُهَا وَلَكِنْ يَنَالُهُ
+> التَّقْوَى مِنكُمْ...
 
 ***“It is not their flesh or their blood that reaches Allah. Rather, it
 is your piety that reaches Him…”***[^13]
@@ -651,5 +607,4 @@ should even more diligently strive to purify our intentions.
 [^12]: Usul al-Kafi, vol. 5, p. 19.
 
 [^13]: Surat al-Hajj 22:37.
-
 

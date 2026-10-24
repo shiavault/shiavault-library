@@ -325,4 +325,3 @@ relation of causality in truth is between the existence of the cause and
 the existence of the effect, and accidentally it is also related to
 their absence.
 
-

@@ -1570,4 +1570,3 @@ philosophy.
 
 [^8]: Sura al-Hijir, 15:29.
 
-

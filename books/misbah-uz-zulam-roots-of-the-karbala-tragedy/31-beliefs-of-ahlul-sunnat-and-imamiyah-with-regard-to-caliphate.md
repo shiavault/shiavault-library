@@ -174,4 +174,3 @@ Holy Prophet (S) in front of Lady Fatima (s.a.) after I die. Let us now
 read the terrible and tragic incident as recorded in Al Imamah was
 Siyasah.
 
-

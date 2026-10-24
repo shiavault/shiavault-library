@@ -270,4 +270,3 @@ beings depend, so, too, they must derive from a source of life, power
 and knowledge, from the infinite being of which all these attributes and
 qualities surge forth in abundance.
 
-

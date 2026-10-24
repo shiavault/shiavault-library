@@ -388,4 +388,3 @@ whether he be grateful or disbelieving. " Likewise we read in chapter
 LXXX: 19-20, "From a drop of seed, He creates him and proportions him.
 Then makes the way easy for him .
 
-

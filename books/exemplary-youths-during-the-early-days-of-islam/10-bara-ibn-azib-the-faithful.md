@@ -140,4 +140,3 @@ vol. 1, p. 205; Al-Istī‘āb, vol. 1, p 144.
 [^9]: Al-Istī‘āb, vol. 1, p. 945; Tabaqāt, vol. 4, p. 368; Usd
 al-Ghābah, vol. 1, p. 205.
 
-

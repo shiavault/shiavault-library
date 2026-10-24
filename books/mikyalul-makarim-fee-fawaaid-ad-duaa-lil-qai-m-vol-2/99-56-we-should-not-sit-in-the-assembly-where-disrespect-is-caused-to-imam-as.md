@@ -8,15 +8,11 @@ existence, or even if they are ignoring his remembrance. It even applies
 to situations where a believer is been ridiculed. The Almighty Allah
 says regarding such matters:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
-اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
-حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
-إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
-جَمِيعًا
-  </p>
-</blockquote>
+> وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
+> اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
+> حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
+> إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
+> جَمِيعًا
 
 ***And indeed He has revealed to you in the Book that when you hear
 Allah’s communications disbelieved in and mocked at, do not sit with
@@ -51,23 +47,15 @@ there in that gathering. The narrator says: After that the Imam (as)
 recited three verses from the Book of Allah as if they were on the tip
 of his tongue – or he said: As if they were in his fist:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا
-اللَّهَ عَدْوًا بِغَيْرِ عِلْمٍ ۗ
-  </p>
-</blockquote>
+> وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا
+> اللَّهَ عَدْوًا بِغَيْرِ عِلْمٍ ۗ
 
 ***And do not abuse those whom they call upon besides Allah, lest
 exceeding the limits they should abuse Allah out of ignorance. (Qur’an,
 Surah Anaam 6:108)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ
-عَنْهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ
-  </p>
-</blockquote>
+> وَإِذَا رَأَيْتَ الَّذِينَ يَخُوضُونَ فِي آيَاتِنَا فَأَعْرِضْ
+> عَنْهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ
 
 ***And when you see those who enter into false discourses about Our
 communications, withdraw from them until they enter into some other
@@ -103,15 +91,11 @@ sacrificed on you, I sit with them opposing their views. His Eminence
 (aj) said: Don’t sit in their company, Allah, the Mighty and Sublime
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
-اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
-حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
-إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
-جَمِيعًا
-  </p>
-</blockquote>
+> وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ
+> اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ
+> حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ
+> إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ
+> جَمِيعًا
 
 ***And indeed He has revealed to you in the Book that when you hear
 Allah’s communications disbelieved in and mocked at do not sit with them
@@ -164,5 +148,4 @@ further, Insha Allah.
 [^7]: Usool Kafi, Vol. 2, Pg. 379, Tr. no. 15
 
 [^8]: Tafseer Burhan, Vol. 1, Pg. 423, Tr. no. 4.
-
 

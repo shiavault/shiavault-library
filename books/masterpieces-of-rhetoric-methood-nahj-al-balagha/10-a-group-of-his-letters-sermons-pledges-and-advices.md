@@ -67,7 +67,6 @@ aversion but for wrong-fulness. If you had accepted their worldly
 earnings they would have loved you and if you had gnawed at it they
 would have felt secure of you.
 
-
 **Whenever someone feels secure**
 
 In a letter to Salman Al-Farisi before Imam’s Caliphate
@@ -87,5 +86,4 @@ except that I have ground for conso-lation in having endured the great
 hardship and heart-rending event of your separation. As to my grief it
 is eternal, and as to my night I am sleepless till Allah chooses for me
 the abode in which you are now residing.
-
 

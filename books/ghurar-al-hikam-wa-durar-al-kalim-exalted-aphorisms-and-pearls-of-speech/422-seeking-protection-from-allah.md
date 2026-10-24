@@ -20,30 +20,17 @@ achieved].
 your so doing] you are turning to a secure refuge.
 
 > 4ـ اَلْجِئْ نَفْسَكَ فِي الأُمُورِ كُلِّها إلى إلهِكَ، فَإنَّكَ
-<blockquote dir="rtl">
-  <p>
-تُلْجِئُها إلى كَهْف حَريز.
-  </p>
-</blockquote>
+> تُلْجِئُها إلى كَهْف حَريز.
 
 5. Seek protection with Allah in all situations, for indeed you will be
 clinging to One, Glorified be He, who is a powerful protector.
 
 > 5ـ اِعْتَصِمْ في أحْوالِكَ كُلِّها بِاللّهِ، فَإنَّكَ تَعْتَصِمُ
-<blockquote dir="rtl">
-  <p>
-مِنْهُ سُبْحانَهُ بِمانِع عَزيز.
-  </p>
-</blockquote>
+> مِنْهُ سُبْحانَهُ بِمانِع عَزيز.
 
 6. You must seek protection from Allah in all your affairs, for indeed
 this is a [means of] protection from everything.
 
 > 6ـ عَلَيْكَ بِالاِعْتِصامِ بِاللّهِ في كُلِّ أُمُورِكَ، فَإنَّها
-<blockquote dir="rtl">
-  <p>
-عِصْمَةٌ مِنْ كُلِّ شَـيْء.
-  </p>
-</blockquote>
-
+> عِصْمَةٌ مِنْ كُلِّ شَـيْء.
 

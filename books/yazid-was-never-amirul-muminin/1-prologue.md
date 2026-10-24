@@ -46,4 +46,3 @@ Whereas Yazid is a sinful man, a drunkard, killer of innocent people,
 and one who openly indulges in sinful acts. A person like me can never
 pay allegiance to a person like him…*
 
-

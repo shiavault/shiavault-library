@@ -210,4 +210,3 @@ However, this does not mean that they are required to work for free;
 rather, the occupation itself is an obligation, whether they are paid or
 not.
 
-

@@ -4,11 +4,7 @@ Section 6: Guidance From Allah Had Been Continuous
 Surah Al-Qasas - Verse 51
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 ***51. “And We have made the Word to reach them in order that haply they
 may be admonished.”***
@@ -47,11 +43,7 @@ the blind hearted ones have not accepted it.
 Surah Al-Qasas - Verse 52
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ ءَاتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> الَّذِينَ ءَاتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ
 
 ***52. “Those to when We gave the Book before this (Qur’an), they
 believe in it.”***
@@ -95,20 +87,12 @@ Book were only those ones who believed, and others were naught.
 Surah Al-Qasas - Verses 53-54
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا يُتْلَي عَلَيْهِمْ قَالُوا ءَامَنَّا بِهِ إِنَّهُ الْحَقُّ مِن
-رَّبّـِنَآ إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ
-  </p>
-</blockquote>
+> وَإِذَا يُتْلَي عَلَيْهِمْ قَالُوا ءَامَنَّا بِهِ إِنَّهُ الْحَقُّ مِن
+> رَّبّـِنَآ إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُم مَرَّتَيْنِ بِمَا صَبَرُوا
-وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيّـِئَةَ وَمِمَّا رَزَقْنَاهُمْ
-يُنفِقُونَ
-  </p>
-</blockquote>
+> أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُم مَرَّتَيْنِ بِمَا صَبَرُوا
+> وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيّـِئَةَ وَمِمَّا رَزَقْنَاهُمْ
+> يُنفِقُونَ
 
 ***53. “And when it is recited to them, they say: ‘We believe in it,
 verily it is the truth from our Lord, verily even before it we had
@@ -201,13 +185,9 @@ The verse says:
 Surah Al-Qasas - Verse 55
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَآ
-أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلاَمٌ عَلَيْكُمْ لاَ نَبْتَغِي
-الْجَاهِلِينَ
-  </p>
-</blockquote>
+> وَإذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَآ
+> أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلاَمٌ عَلَيْكُمْ لاَ نَبْتَغِي
+> الْجَاهِلِينَ
 
 ***55. “And when they hear idle talk, they turn away from it and say:
 ‘We shall have our deeds and you shall have your deeds. Peace be on you,
@@ -257,12 +237,8 @@ of ‘farewell’.
 Surah Al-Qasas - Verse 56
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللَّهَ يَهْدِي مَن
-يَشَآءُ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللَّهَ يَهْدِي مَن
+> يَشَآءُ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
 
 ***56. “Verily you cannot guide whom you like, but Allah guides whomever
 He pleases, and He knows best those that are guided.”***
@@ -436,14 +412,10 @@ abovementioned verse.
 Surah Al-Qasas - Verse 57
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا إِن نَتَّبِعِ الْهُدَي مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ
-أَوَلَمْ نُمَكّـِن لَهُمْ حَرَماً ءَامِناً يُجْبَي إِلَيْهِ ثَمَرَاتُ
-كُلّ‌ِ شَيْءٍ رِزْقاً مِن لَدُنَّا وَلَكِنَّ أَكْثَرَهُمْ لاَ
-يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَقَالُوا إِن نَتَّبِعِ الْهُدَي مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ
+> أَوَلَمْ نُمَكّـِن لَهُمْ حَرَماً ءَامِناً يُجْبَي إِلَيْهِ ثَمَرَاتُ
+> كُلّ‌ِ شَيْءٍ رِزْقاً مِن لَدُنَّا وَلَكِنَّ أَكْثَرَهُمْ لاَ
+> يَعْلَمُونَ
 
 ***57. “And they say: ‘If we follow the guidance with you, we shall be
 driven out from our land.’ Have We not settled them in a secure
@@ -498,13 +470,9 @@ place of the world.
 Surah Al-Qasas - Verse 58
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا فَتِلْكَ
-مَسَاكِنُهُمْ لَمْ تُسْكَنْ مِنْ بَعْدِهِمْ إِلاّ قَلِيلاً وَكُنّا
-نَحْنُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا فَتِلْكَ
+> مَسَاكِنُهُمْ لَمْ تُسْكَنْ مِنْ بَعْدِهِمْ إِلاّ قَلِيلاً وَكُنّا
+> نَحْنُ الْوَارِثِينَ
 
 ***58. “And how many a town We did destroy which exalted in its means of
 subsistence; so these are their abodes, they have not been dwelt in
@@ -569,13 +537,9 @@ Allah.
 Surah Al-Qasas - Verse 59
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَي حَتَّي يَبْعَثَ فِي اُمّـِهَا
-رَسُولاً يَتْلُواْ عَلَيْهِمْ ءَايَاتِنَا وَمَا كُنَّا مُهْلِكِي
-الْقُرَي إِلاَّ وَأَهْلُهَا ظَالِمُونَ
-  </p>
-</blockquote>
+> وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَي حَتَّي يَبْعَثَ فِي اُمّـِهَا
+> رَسُولاً يَتْلُواْ عَلَيْهِمْ ءَايَاتِنَا وَمَا كُنَّا مُهْلِكِي
+> الْقُرَي إِلاَّ وَأَهْلُهَا ظَالِمُونَ
 
 ***59. “And your Lord never destroyed the towns until He raised in their
 centers a messenger, reciting to them Our signs, and We never destroyed
@@ -636,12 +600,8 @@ means ‘mother’ and ‘the main center’, and it is not allocated to Mecca.
 Surah Al-Qasas - Verse 60
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أُوتِيتُم مِن شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا
-وَزِينَتُهَا وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَي أَفَلاَ تَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَآ أُوتِيتُم مِن شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا
+> وَزِينَتُهَا وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَي أَفَلاَ تَعْقِلُونَ
 
 ***60. “And whatever things you have been given are only a provision of
 the life of this world and its adornment, and whatever is with Allah is
@@ -696,5 +656,4 @@ legal injunction from the verse under discussion.[^5]
 Surah Ar-Ra‘d, No. 13, verse 22, and Surah Al-Mu’minun, No. 23, verse 96
 
 [^5]: Tafsir-i-Kabir by Fakhr-i-Razi, Vol. 25, P. 6
-
 

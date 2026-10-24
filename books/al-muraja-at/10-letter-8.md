@@ -339,4 +339,3 @@ himself in the oceans of those who deny Allah's favours, ruining
 themselves in the avenues of oppression. May Allah forgive him for
 telling lies about us and unfairly assaulting our beliefs.
 
-

@@ -15,9 +15,7 @@ and*Dhakhā’ir-ul-‘uqbā fī manāqib dhaw-il-qurbā* (pp.156-158).
 The words of this tradition as recorded in*as-Sunnah* (pp.600,601 \#
 1351) by Ibn Abī ‘Āsim are as follows:
 
-<p dir="rtl">
 من كنت وليه فعلي وليه.
-</p>
 
 *Who has me as his guardian has ‘Alī as his guardian.*
 
@@ -119,5 +117,4 @@ also been narrated by Ibn Jarīr, Sa‘īd bin Mansūr and Ibn Athīr Jazarī.
 Ahmad bin Hambal has related the tradition from Ziyād bin Abī Ziyād also
 in*al-Musnad* (1:88); and Haythamī has copied it in *Majma‘-uz-zawā’id*
 (9:106) and declared its men trustworthy ( *rijāluhū thiqah* ).
-
 

@@ -327,4 +327,3 @@ lbn Madja (d. 273/886). (T).
 against Yazid b. Mu'awiya in Karbala on the tenth day of the month of
 Moharram in the lunar in the year 61 of Islamic calendar. (T).
 
-

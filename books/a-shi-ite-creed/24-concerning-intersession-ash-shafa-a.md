@@ -55,4 +55,3 @@ by the instrumentality of a single individual.
 [^7]: In the Wasiyat Abi Hanifa, art. 25, even mortal sins may be
 forgiven, MC, 130, 182, 268.
 
-

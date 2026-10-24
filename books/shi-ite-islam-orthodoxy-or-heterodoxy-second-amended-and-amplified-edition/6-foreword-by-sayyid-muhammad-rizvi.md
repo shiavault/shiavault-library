@@ -72,4 +72,3 @@ of Shī‘ah Islām!
 Jaffari Islamic Center
 Toronto, Canada
 
-

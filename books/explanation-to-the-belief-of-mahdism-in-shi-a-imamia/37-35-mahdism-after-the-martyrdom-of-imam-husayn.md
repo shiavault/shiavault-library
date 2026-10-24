@@ -29,4 +29,3 @@ As such he should be from Ahlul Bait (from the Prophet’s house). This
 ensures that all his doings and deeds will all be in the line of the
 Prophet (S) himself.
 
-

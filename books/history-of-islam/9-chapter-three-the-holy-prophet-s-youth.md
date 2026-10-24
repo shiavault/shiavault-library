@@ -621,4 +621,3 @@ Manaqib, 2:180.
 
 [^94] Nahj al-Balaghah, Sermon 192.
 
-

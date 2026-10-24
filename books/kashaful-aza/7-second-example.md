@@ -22,7 +22,6 @@ accident and while helping the injured, they steal the watches and money
 from the pockets of the injured. It is really very shameful. Only Allah
 knows who established these evil customs.
 
-
 **Third Example**
 
 The previous examples were related to common people. Now we come to the
@@ -109,5 +108,4 @@ family would have left the head of Imam Hussain (as) alone and start
 crying over Their children? If They had such love for Their children,
 then why did They prepare Their children themselves to be sent into the
 battlefield in order to help Imam Hussain (as)?
-
 

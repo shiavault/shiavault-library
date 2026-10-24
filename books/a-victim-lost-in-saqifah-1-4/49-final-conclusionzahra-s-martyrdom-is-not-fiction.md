@@ -122,6 +122,6 @@ May Allah guide to the straight way.**[2]**
 ------------------------------------------------------------------------
 
 **[1]** Abdul Kareem Bi-Aazaar Shirazi: *Hambastigi-e-Mazahib-e-Islami*
-(Preface to the 3<sup>rd</sup> Edition), Pg. 20  
+(Preface to the 3rd Edition), Pg. 20  
  **[2]** Ayatullah Al-Uzma Mirza Jawad Tabrizi: *Zulmaat-e-Fatima Zahra*
 (Markaz al-Bahoos al-Aqaidiya, Darus Siddiqatus Shaheeda), Pg. 30

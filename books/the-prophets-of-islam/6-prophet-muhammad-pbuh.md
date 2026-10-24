@@ -193,7 +193,6 @@ hearts were hardened. They did not want to give up the worship of their
 popular gods that had been handed down to them for generations. Later,
 they became more hostile to Muhammad and his followers.
 
-
 **Hostilities of the Kuffar against the Muslims**
 
 The arrogant and rich elite of Makkah subjected the early musihns to
@@ -812,5 +811,4 @@ although he never attended any formal school or other tutorship
 
 - The Qur'an is the greatest miracle Allah bestowed on Muhammed for
 eternal benefit of all mankind.
-
 

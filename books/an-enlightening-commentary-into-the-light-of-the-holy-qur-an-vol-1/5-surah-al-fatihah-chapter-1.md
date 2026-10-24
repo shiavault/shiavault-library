@@ -7,48 +7,20 @@ Surah Al-Fatihah, Chapter 1
 
 **No.1 (7 Verses)**
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمـنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> الرَّحْمـنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
-  </p>
-</blockquote>
+> إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
 
-<blockquote dir="rtl">
-  <p>
-اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
-  </p>
-</blockquote>
+> اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
-الضَّالِّينَ
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
+> الضَّالِّينَ
 
 ***1. "In The Name of Allah, The Beneficent, The Merciful."***  
 ***2. "(All) praise is (only) Allah's, the Lord of the Worlds."***  
@@ -64,11 +36,7 @@ astray."***
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -174,11 +142,7 @@ Al-Asas, As-Salat, and Al-Hamd.* [^7]
 Surah Al-Fatiha, Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***1. In The Name of Allah, The*** ***Beneficent, The Merciful***
 
@@ -457,11 +421,7 @@ servants on the Day of Resurrection*". [^23]
 Surah Al-Fatiha, Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ
 
 ***2. "(All) praise is (only) Allah's, the Lord of the Worlds"***
 
@@ -636,11 +596,7 @@ Cherisher.
 Surah Al-Fatiha, Verse 3
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الرَّحْمـنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> الرَّحْمـنِ الرَّحِيمِ
 
 ***3. "The Beneficent, The Merciful."***
 
@@ -707,11 +663,7 @@ Islam.
 Surah Al-Fatiha, Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَالِكِ يَوْمِ الدِّينِ
-  </p>
-</blockquote>
+> مَالِكِ يَوْمِ الدِّينِ
 
 ***4. "Master of the Day of Judgement."***
 
@@ -851,11 +803,7 @@ accordingly.
 Surah Al-Fatiha, Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
-  </p>
-</blockquote>
+> إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ
 
 ***5. "Thee (alone) do we worship and of Thee (only) do we seek
 help."***
@@ -1020,11 +968,7 @@ for him".* [^32]
 Surah Al-Fatiha, Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
-  </p>
-</blockquote>
+> اهدِنَــــا الصِّرَاطَ المُستَقِيمَ
 
 ***6. "Guide us (O' Lord) on the Straight Path."***
 
@@ -1283,12 +1227,8 @@ Guide, and these are the means appointed for the guidance of Man.
 Surah Al-Fatiha, Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
-الضَّالِّينَ
-  </p>
-</blockquote>
+> صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ
+> الضَّالِّينَ
 
 ***7.*** **"*****The path of those upon whom Thou hast bestowed Thy
 bounties, not (the path) of those inflicted with Thy wrath, nor (of
@@ -1575,5 +1515,4 @@ Abitalib (as), p. 175
 
 [^43]: Ma'ani-ul-Akhbar, p. 32, tradition 8; and, Tafsir Furat-ul-Kufi:
 vol. 1, p. 52
-
 

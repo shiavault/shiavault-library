@@ -3,23 +3,15 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ ذٌالِکُمْ کَانَ يُؤْذِي النَّبِيَّ فَيَسْـتَحْيِي مِنْکُمْ وَ
-اللٌّهُ لاَ يَسْتَحْــيِ مِنَ الْحَقِّ
-  </p>
-</blockquote>
+> إِنَّ ذٌالِکُمْ کَانَ يُؤْذِي النَّبِيَّ فَيَسْـتَحْيِي مِنْکُمْ وَ
+> اللٌّهُ لاَ يَسْتَحْــيِ مِنَ الْحَقِّ
 
 “Such (behaviour) annoys the Prophet: he is ashamed to dismiss you, but
 Allah is not ashamed (to tell you) the truth.”[^1]
 
 The Noble Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَياَءُ خَيْرٌ کُلُّهُ
-  </p>
-</blockquote>
+> أَلْحَياَءُ خَيْرٌ کُلُّهُ
 
 “Every kind of modesty is goodness.”[^2]
 
@@ -177,5 +169,4 @@ for the wedding ceremony.[^7]
 Ghazzali), Page 94
 
 [^7]: Fatimah al-Zahra, Page 283
-
 

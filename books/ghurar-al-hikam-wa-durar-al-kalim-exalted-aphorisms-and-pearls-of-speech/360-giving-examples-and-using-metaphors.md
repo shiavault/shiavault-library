@@ -19,4 +19,3 @@ Giving Examples And Using Metaphors
 
 > 4ـ ضُرُوبُ الأمْثالِ تُضْرَبُ لأُولِى النُّهى والألبابِ.
 
-

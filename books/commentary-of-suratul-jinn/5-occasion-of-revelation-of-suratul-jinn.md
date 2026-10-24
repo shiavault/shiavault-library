@@ -143,4 +143,3 @@ Volume 2, Page 62 and 63 (Summarized).
 
 [^5]: Tafsir Majma\` Al-Bayan, Volume 10, Page 368.
 
-

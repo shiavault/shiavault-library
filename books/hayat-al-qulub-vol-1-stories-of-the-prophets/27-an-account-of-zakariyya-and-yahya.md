@@ -488,4 +488,3 @@ who have slaughtered His apostles.
 [^4]: Many incidents and conditions of Yahya, Prophet Daniel will be
 narrated in the chapter of Nebuchadnezzar.
 
-

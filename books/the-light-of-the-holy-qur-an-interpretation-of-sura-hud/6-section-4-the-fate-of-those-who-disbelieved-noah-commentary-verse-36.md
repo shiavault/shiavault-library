@@ -47,7 +47,6 @@ In the meantime, one can infer from this verse that Allah made those
 aspects of the knowledge of the secrets of the Unseen that He had deemed
 necessary, accessible so that His prophet should know.
 
-
 **Commentary : Verse 37**
 
 (37) وَ اصْنَعِ الْفُلْكَ بِأَعْيُنِنا وَ وَحْيِنا وَ لا تُخاطِبْني‏
@@ -81,7 +80,6 @@ One can very easily infer from this sentence that taking up the act of
 mediation requires certain preconditions which, when they are lacking in
 someone, even Allah's prophet is not rightful to mediate on his
 behalf.
-
 
 **Commentary : Verse 38**
 
@@ -123,7 +121,6 @@ your negligence, and ignorance. " The verse says:
 "... He said: 'If you scoff at us, we(too)shall surely scoff at you, as
 you scoff '. "
 
-
 **Commentary : Verse 39**
 
 (39) فَسَوْفَ تَعْلَمُونَ مَنْ يَأْتيهِ عَذابٌ يُخْزيهِ وَ يَحِلُّ
@@ -162,7 +159,6 @@ covered the entire world with mountain- sized waves and still remain
 intact. In their commentaries, some Qur'an commentators have expressed
 their admiration for the magnitude of the ship. Refer to the comments of
 Majma'- ul- Bayan for further information.
-
 
 **Commentary : Verse 40**
 
@@ -222,7 +218,6 @@ had in persuading people to follow his way of life during his long years
 of continuous struggle that had resulted in getting only a small number
 of believers.
 
-
 **Commentary : Verse 41**
 
 (41) وَ قالَ ارْكَبُوا فيها بِسْمِ اللَّهِ مَجْراها وَ مُرْساها إِنَّ
@@ -246,5 +241,4 @@ and its berthing. Verily my Lord is the Forgiving, the Merciful. '"
 Owing to His blessings, Allah had made these instruments available to
 you, His faithful servants, and because of His forgiveness, He may
 pardon your offences.
-
 

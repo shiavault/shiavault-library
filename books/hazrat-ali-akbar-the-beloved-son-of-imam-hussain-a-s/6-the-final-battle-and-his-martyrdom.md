@@ -144,4 +144,3 @@ from the ground, wiped the tears from his aged eyes and muttered
 
 ***Verily from God we come, and unto Him is our return.***
 
-

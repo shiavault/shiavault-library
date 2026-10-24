@@ -262,4 +262,3 @@ the Fusūs entitled Mumidd al-himam dar sharh-i fusūs alhikam58 reveals
 the living nature of this School in Persia as does Jawād Āmulī’s
 recension of Tamhīd al-qawā‘id.
 
-

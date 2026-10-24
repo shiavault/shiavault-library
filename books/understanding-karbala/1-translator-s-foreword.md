@@ -42,4 +42,3 @@ terminology.
 
 [^1]: Nahjul Balagha, Sermon 1
 
-

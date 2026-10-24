@@ -237,12 +237,8 @@ to accept the decree of God, so they object to the orders of the *wali*
 *al-faqih*, while the *wali* *al-faqih* does not say anything from
 himself:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَإِنَّهُمْ لاَ يُكَذِّبُونَكَ وَلَكِنَّ الظَّالِمِينَ بِآيَاتِ
-اللّهِ يَجْحَدُونَ﴾
-  </p>
-</blockquote>
+> ﴿فَإِنَّهُمْ لاَ يُكَذِّبُونَكَ وَلَكِنَّ الظَّالِمِينَ بِآيَاتِ
+> اللّهِ يَجْحَدُونَ﴾
 
 ***“Yet it is not you that they deny, but it is Allah’s signs that the
 wrongdoers impugn.”***[^1]
@@ -366,5 +362,4 @@ want so that we can say that it is consistent or inconsistent with
 Islam.
 
 [^1]: Surah al-An‘am 6:33.
-
 

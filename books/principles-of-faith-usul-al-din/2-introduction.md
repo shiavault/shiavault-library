@@ -40,4 +40,3 @@ its entirety.
 Before we begin explaining the Roots of Religion we must mention some
 preliminaries:
 
-

@@ -752,4 +752,3 @@ Imam Ali bin al-Husayn (s) from his fathers that Imam Ali (s) had said:
 ascension to Heaven when prayer has been determined as an
 obligation.”[^2]
 
-

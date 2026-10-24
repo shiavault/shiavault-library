@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنْ تَعْفُوا أََقرَبُ لِلتَّقوَى
-  </p>
-</blockquote>
+> وَ أَنْ تَعْفُوا أََقرَبُ لِلتَّقوَى
 
 *“And it is nearer to righteousness that you should relinquish.”*[^1]
 
 The Noble Prophet (s.a.w) said:
 
-<blockquote dir="rtl">
-  <p>
-أََلعَفوُ لاَ يَزِيدُ الْعَبدَ إلاَّ عِزّاً.
-  </p>
-</blockquote>
+> أََلعَفوُ لاَ يَزِيدُ الْعَبدَ إلاَّ عِزّاً.
 
 *“Forgiveness increases a person in esteem.”*[^2]
 
@@ -214,5 +206,4 @@ uncle, Hamzah, he (saw) wept profusely but then pardoned him and said:
 غَيِّب وَجهَکَ عَنِّي (Disappear from my sight).
 
 [^10]: Shaytan, vol. 1, pg. 412 اَلاِسلاَمُ يَجُبُّ ماَ قَبلَهُ
-
 

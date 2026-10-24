@@ -72,4 +72,3 @@ Revelation of Saint John the Divine, the last book of the Bible, are the
 most symbolical and, therefore, the least intelligible and the most
 difficult to interpret.
 
-

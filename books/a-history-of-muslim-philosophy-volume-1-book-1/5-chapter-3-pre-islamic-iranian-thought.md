@@ -1132,4 +1132,3 @@ the symbol of a transcendent pugilistic prototype.
 [^36]: Their name and their idea of the aslah are mentioned and
 criticized in Shikand ­Gumdnak Vichar, ed. Menasce, pp. 146‑47.
 
-

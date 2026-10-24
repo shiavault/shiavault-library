@@ -480,4 +480,3 @@ version of trans. and commentary by Mahmud alp-Hasan and Shabbir Ahmad
 
 trans., by a team of scholars, of Mahmud alp-Hasan's Urdu trans.).
 
-

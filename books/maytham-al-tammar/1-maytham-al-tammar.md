@@ -22,4 +22,3 @@ One day, he came to the date palm. He found it a dry trunk. He cut the
 top of the trunk. That tall date palm became a mere short trunk. Still
 Maytham went on visiting that dry trunk.
 
-

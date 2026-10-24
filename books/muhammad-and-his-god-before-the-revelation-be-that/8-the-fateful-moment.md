@@ -57,4 +57,3 @@ May the peace, prayers, and blessing of Allah (SWT) be upon Muhammad,
 His Noble Messenger and the Seal of the Prophets and his blessed and
 purified holy household!
 
-

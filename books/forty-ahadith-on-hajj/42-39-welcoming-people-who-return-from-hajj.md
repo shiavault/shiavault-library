@@ -1,12 +1,8 @@
 39 . Welcoming People who Return from Hajj
 ==========================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللٌّهِ (ع): مَنْ لَقِيَ حَاجًّا فَصَافَحَهُ كَانَ
-كَمَنْ إِسْتَلَمَ الْحَجَرَ.
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللٌّهِ (ع): مَنْ لَقِيَ حَاجًّا فَصَافَحَهُ كَانَ
+> كَمَنْ إِسْتَلَمَ الْحَجَرَ.
 
    
  It has been narrated from Abi ‘Abdillah [Imam Ja’far Ibn Muhammad
@@ -17,5 +13,4 @@ person who rubbed his hand on the Hajrul Aswad.”
  Biharul Anwar, Volume 96, Page 384  
     
   
-
 

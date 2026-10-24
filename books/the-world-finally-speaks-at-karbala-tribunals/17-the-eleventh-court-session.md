@@ -520,4 +520,3 @@ deliberations will begin between the judges and the jurors to reach a
 verdict of “guilty” or “not guilty” in the case. Thank you all and see
 you at 10AM on Thursday. Court is dismissed.
 
-

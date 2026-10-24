@@ -580,4 +580,3 @@ point; He is the Best Helper and the Best Guide.
 *Dependent on Allah,*
 Muhammad Husayn at-Tabataba'i
 
-

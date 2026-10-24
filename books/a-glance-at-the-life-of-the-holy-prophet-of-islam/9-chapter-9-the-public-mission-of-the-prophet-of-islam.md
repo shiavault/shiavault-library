@@ -191,4 +191,3 @@ attention of the people to an important issue.
 
 [^9]: Tarikhi Tabari, Vol. 3, p.1176.
 
-

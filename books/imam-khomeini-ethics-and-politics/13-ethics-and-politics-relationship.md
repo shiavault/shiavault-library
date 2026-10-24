@@ -40,48 +40,20 @@ would kill his father. But he has nobody to help to murder the king as
 such a deed would be inauspicious. However, he finally finds the person
 who accepts to shoulder the heavy responsibility.
 
-<blockquote dir="rtl">
-  <p>
-يكى خنجرى تيز دادش چو آب               بامد كُشنده سبک پرشتاب
-  </p>
-</blockquote>
+> يكى خنجرى تيز دادش چو آب               بامد كُشنده سبک پرشتاب
 
-<blockquote dir="rtl">
-  <p>
-چون آن بدكنش رفت نزديک شاه           ورا ديد پابند در پيشگاه
-  </p>
-</blockquote>
+> چون آن بدكنش رفت نزديک شاه           ورا ديد پابند در پيشگاه
 
-<blockquote dir="rtl">
-  <p>
-بلرزيد خسرو چو او را بديد                  سرشكش ز مژگان به رخ
-برچكيد...
-  </p>
-</blockquote>
+> بلرزيد خسرو چو او را بديد                  سرشكش ز مژگان به رخ
+> برچكيد...
 
-<blockquote dir="rtl">
-  <p>
-چو آن جامهﻫﺎ را بپوشيد شاه                به زمزم همى توبه كرد از گناه
-  </p>
-</blockquote>
+> چو آن جامهﻫﺎ را بپوشيد شاه                به زمزم همى توبه كرد از گناه
 
-<blockquote dir="rtl">
-  <p>
-يكى چادر نو به سر دركشيد                 بدان تا رخ جانستان را نديد
-  </p>
-</blockquote>
+> يكى چادر نو به سر دركشيد                 بدان تا رخ جانستان را نديد
 
-<blockquote dir="rtl">
-  <p>
-بشد مهر هرمزد، خنجر به دست           در خانه پادشا را ببست
-  </p>
-</blockquote>
+> بشد مهر هرمزد، خنجر به دست           در خانه پادشا را ببست
 
-<blockquote dir="rtl">
-  <p>
-سبک رفت و جامه از او دركشيد          جگرگاه شاه جهان بردريد
-  </p>
-</blockquote>
+> سبک رفت و جامه از او دركشيد          جگرگاه شاه جهان بردريد
 
 *He gave him a sharp dagger that shines like water,*
 
@@ -110,31 +82,15 @@ who accepts to shoulder the heavy responsibility.
 This patricide does not end here. As a precautionary measure, fifteen
 other sons of Khusrū who are imprisoned are also butchered.
 
-<blockquote dir="rtl">
-  <p>
-چو آگاهى آمد به بازار و راه                 كه خسرو برانﮔﻭنه برشد تباه
-  </p>
-</blockquote>
+> چو آگاهى آمد به بازار و راه                 كه خسرو برانﮔﻭنه برشد تباه
 
-<blockquote dir="rtl">
-  <p>
-همه بدگمانان به زندان شدند                 به ايوان آن مستمندان شدند
-  </p>
-</blockquote>
+> همه بدگمانان به زندان شدند                 به ايوان آن مستمندان شدند
 
-<blockquote dir="rtl">
-  <p>
-گرامى ده وپنج فرزند بود                     به ايوان شاه آنک در بند
-بود
-  </p>
-</blockquote>
+> گرامى ده وپنج فرزند بود                     به ايوان شاه آنک در بند
+> بود
 
-<blockquote dir="rtl">
-  <p>
-به زندان بكشتندشان بيگناه                   بدانگه که برگشته شد، بخت
-شاه
-  </p>
-</blockquote>
+> به زندان بكشتندشان بيگناه                   بدانگه که برگشته شد، بخت
+> شاه
 
 *When the people of the street and market understood*
 
@@ -182,5 +138,4 @@ main views and they are as follow:     
 
    
   
-
 

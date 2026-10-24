@@ -31,4 +31,3 @@ accompanying the Prophet (s.a.w.a.).”*[^2]
 
 [^2]: Kamaluddin 1/317
 
-

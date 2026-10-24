@@ -250,7 +250,6 @@ were the organizational units of the revolution and mass prayers,
 demonstrations and martyrdom that were - until the very last stage - its
 principal weapons.
 
-
 [^1]: Shahidi digar az ruhaniyat, Najaf, n.d., p. 27.
 
 [^2]: New York Times, January 2, 1978.
@@ -264,5 +263,4 @@ principal weapons.
 [^6]: Sahifa-yi Nur, IV, pp. 281-6.
 
 [^7]: Sahifa-yi Nur, V, p. 75.
-
 

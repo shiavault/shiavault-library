@@ -98,11 +98,7 @@ there, which if he cannot there is nothing upon him .... The time for
 *halq* is on the day of \`Id, by consensus, for the Almighty has said
 [in Qur'an]:
 
-<blockquote dir="rtl">
-  <p>
-..وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ …
-  </p>
-</blockquote>
+> ..وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ …
 
 ***"And do not shave your head until the sacrifice reaches its
 [specified] destination." (2:196);***
@@ -123,5 +119,4 @@ with the willful defaulter (\`amid).
 however, distinguishes between one who forgets (nasi) and one who is
 ignorant (jahil); he excuses the first not the latter, who is included
 with the willful defaulter (\`amid).
-
 

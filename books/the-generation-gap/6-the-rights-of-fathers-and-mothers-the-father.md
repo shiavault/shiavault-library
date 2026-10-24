@@ -382,4 +382,3 @@ with me, and your forgiveness is enough to make me happy in life on this
 earth and to save me forever from Allah's wrath on the Day of
 Judgement.
 
-

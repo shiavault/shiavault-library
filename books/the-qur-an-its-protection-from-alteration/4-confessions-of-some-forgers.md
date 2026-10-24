@@ -59,8 +59,8 @@ Qur'an as the standard to test the authenticity of traditions. They
 turned the table and began testing the authenticity of the Qur'an
 through those alleged ahadith!
 
-[^13] al Bayan, p. 37: Ahmad Amin, Fajru 'l-Islam, p. 215.
-[^14] at-Tabari, Tarikh at-Tabari, vol. 6 (Beirut: Mu'assasatu l-A'lami)
+[^13]: al Bayan, p. 37: Ahmad Amin, Fajru 'l-Islam, p. 215.
+[^14]: at-Tabari, Tarikh at-Tabari, vol. 6 (Beirut: Mu'assasatu l-A'lami)
 p. 299: Ibn al-Athir, Tarikh al-Kamil, vol. 5 (Daru l-Kutubi l-Arabi.
 1985) p. 39.
 

@@ -43,21 +43,13 @@ from these stories narrated by the Holy Quran which are for our
 guidance, we have used these for mere meaningless recitations culture.
 Read these Ayahs and ponder:
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ
-عَلَيْكُمْ
-  </p>
-</blockquote>
+> يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ
+> عَلَيْكُمْ
 
 ***"O children of Israel! Remember My favor which I bestowed on you…"***
 ***(Surah al-Baqarah, 2:40)***
 
-<blockquote dir="rtl">
-  <p>
-يَسُومُونَكُمْ سُوءَ الْعَذَابِ
-  </p>
-</blockquote>
+> يَسُومُونَكُمْ سُوءَ الْعَذَابِ
 
 ***".. who was taking you towards divine punishment"*** ***(Surah
 al-Baqarah, 2: 49)***
@@ -68,5 +60,4 @@ Israel despite of being from the generation of Prophets was living in a
 system which was taking them towards Hell. And unfortunately we just
 recite these verses for rewards and don't even think on the message
 embedded in these.
-
 

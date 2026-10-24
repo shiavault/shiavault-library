@@ -126,4 +126,3 @@ that of a man's. But the Qur'an considers her testimony to be equal to
 that of a man's and the requirement of two women against one man is
 conditional to certain situations only.
 
-

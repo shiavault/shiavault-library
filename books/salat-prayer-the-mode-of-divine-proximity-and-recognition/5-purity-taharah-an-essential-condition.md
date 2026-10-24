@@ -19,12 +19,8 @@ in their performance.
 
 The Holy Prophet (‘s) says,
 
-<blockquote dir="rtl">
-  <p>
-خُلَّتَانِ لاَ أُحِبُّ أَنْ يُشَارِكَنِي فِيهِمَا أَحَدٌ: وُضُوئِي
-فَإِنَّهُ مِنْ صَلاتِي، وَ صَدَقَتِي.
-  </p>
-</blockquote>
+> خُلَّتَانِ لاَ أُحِبُّ أَنْ يُشَارِكَنِي فِيهِمَا أَحَدٌ: وُضُوئِي
+> فَإِنَّهُ مِنْ صَلاتِي، وَ صَدَقَتِي.
 
 “There are two things for which I do not like to include anybody in
 their performance. Wudhu for it is from my prayers and my charity.”[^1]
@@ -34,12 +30,8 @@ to pour water for him. Somebody questioned him regarding this, he *(‘a)*
 replied, “I do not like to include anybody in my worship (of Allah).
 Allah the Almighty says,
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَ
-لا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَداً
-  </p>
-</blockquote>
+> فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَ
+> لا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَداً
 
 ***‘Then whosoever desires to meet his Lord, then he must act
 righteously and not include anybody in the worship of his Lord.’”***
@@ -47,12 +39,8 @@ righteously and not include anybody in the worship of his Lord.’”***
 
 Imam Ar-Ridha’ *(‘a)* says,
 
-<blockquote dir="rtl">
-  <p>
-هَا أَنَا أَتَوَضَّأُ لِلصَّلاَةِ وَهِيَ الْعِبَادَةُ فَأَكْرَهُ أَنْ
-يُشارِكُنِي فِيهَا أَحَدٌ.
-  </p>
-</blockquote>
+> هَا أَنَا أَتَوَضَّأُ لِلصَّلاَةِ وَهِيَ الْعِبَادَةُ فَأَكْرَهُ أَنْ
+> يُشارِكُنِي فِيهَا أَحَدٌ.
 
 “Here, I am performing Wudhu for Salat. And it is worship which I do not
 like to share with anybody.”[^3]
@@ -74,5 +62,4 @@ he can perform *Salat* and all other actions of worship for which
 [^2]: Wasai’l al shia, vol. 1, p. 477
 
 [^3]: Usul al Kafi, vol. 1, p. 21
-
 

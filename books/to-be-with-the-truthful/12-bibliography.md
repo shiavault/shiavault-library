@@ -234,4 +234,3 @@ Other References
 
 37. Manāqib ‘Ali ibn Abi Tālib.
 
-

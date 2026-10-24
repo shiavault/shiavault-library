@@ -83,4 +83,3 @@ the Kerbala Tragedy
 
 [^5]: Divine opportunity
 
-

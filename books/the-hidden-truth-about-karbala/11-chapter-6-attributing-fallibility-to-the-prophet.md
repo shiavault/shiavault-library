@@ -545,4 +545,3 @@ Nahjul Balagha, vol.3, p.114.
 
 [^39]: Nahjul Balagha, Sermon 209.
 
-

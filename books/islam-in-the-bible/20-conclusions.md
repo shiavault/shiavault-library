@@ -57,4 +57,3 @@ monotheism. All of the great principles of Islam are clearly evident in
 the earlier Scriptures as they remain in our hands today, encumbered as
 they may be with the ravages of time.
 
-

@@ -24,4 +24,3 @@ community will be discussed in future volumes.
 It is worth mentioning that each chapter can serve as an independent,
 documentary, historical or analytical field of study.
 
-

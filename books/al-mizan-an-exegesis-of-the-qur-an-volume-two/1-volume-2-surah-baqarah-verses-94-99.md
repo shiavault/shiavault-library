@@ -259,7 +259,6 @@ they die they will wake up . . .
 This topic will be further explained in other place; other sentences of
 this tradition too will be explained later.
 
-
 \*Sha'n is a personal pronoun (third person, masculine) which is used
 to begin a sentence. That of feminine gender is called the pronoun of
 qissah. The nearest thing to it in the English grammar is the indefinite

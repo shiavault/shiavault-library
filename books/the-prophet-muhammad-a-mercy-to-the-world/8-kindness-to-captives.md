@@ -343,4 +343,3 @@ whoever bolts his door has sanctuary.' So the people left for their
 houses and for the mosque and the Apostle of God proceeded and entered
 Mecca from the heights.
 
-

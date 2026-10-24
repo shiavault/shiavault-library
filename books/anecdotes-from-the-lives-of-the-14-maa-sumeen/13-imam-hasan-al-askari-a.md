@@ -111,4 +111,3 @@ the money it would not be there.
 3. You should never lie, as you will be found out. Even if no-one finds
 out, Allah knows.
 
-

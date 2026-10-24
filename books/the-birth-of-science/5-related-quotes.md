@@ -92,4 +92,3 @@ Philip Freund, Myths of Creation, Washington Square Press, NY, [^1965]:
 Richard Schlagel, From Myth to the Modern Mind, Vol I, Peter Lang, NY,
 [^1985]:
 
-

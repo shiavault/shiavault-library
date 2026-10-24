@@ -9,4 +9,3 @@ defence of Islamic lands, and governance of Qur'anic commands combating
 against the oppression and arrogance for the defence of deprived and
 oppressed.
 
-

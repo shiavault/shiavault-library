@@ -32,17 +32,9 @@ One may object that a number of Qur’anic verses affirm that knowledge of
 the Unseen is exclusively God’s. But the Qur’an also furnishes the
 answer to this question:
 
-<blockquote dir="rtl">
-  <p>
-عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
-  </p>
-</blockquote>
+> عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ....
-  </p>
-</blockquote>
+> إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ....
 
 ***“[God] is the Knower of the Unseen; He does not disclose His Unseen
 to anyone, except to an apostle He approves of…”***[^1]
@@ -93,11 +85,7 @@ knowledge that Muslim would be slain? Why did he leave Mecca? If in fact
 he knew that his fate was death, he should not have embarked on that
 journey, for the Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ..…
-  </p>
-</blockquote>
+> وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ..…
 
 ***“…do not cast yourselves with your own hands into
 destruction…”***[^10]
@@ -328,5 +316,4 @@ refers not to God’s existential will but to His legislative will. That
 is, the reason why the Master of Martyrs chose the path of martyrdom was
 that it was his duty and he wanted to fulfill his duty, not that he
 wanted to be killed because death was inevitable.
-
 

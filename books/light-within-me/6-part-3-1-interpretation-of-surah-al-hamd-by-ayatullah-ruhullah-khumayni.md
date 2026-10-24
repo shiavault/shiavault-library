@@ -1023,4 +1023,3 @@ success in being delivered from the catastrophe of egoism.
 
 [^1]: Imam Ali (Peace be upon him).
 
-

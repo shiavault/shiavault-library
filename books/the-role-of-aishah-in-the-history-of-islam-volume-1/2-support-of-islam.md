@@ -142,7 +142,6 @@ relations." Indeed, the lofty principles laid down by the Prophet about
 justice and equality consider all people equally in carrying out the
 punishments based on Islamic injunctions.
 
-
 Some time ago, research scholar Mr. Murtada 'Askari presented his book
 "Ahadith of Umm al-Mu'minin 'A'ishah" to men of learning and scholars,
 especially to two groups of readers who fervently sought truth, heartily
@@ -417,5 +416,4 @@ and confirms this point that the reason for her uprising had not really
 been others' interest in society and solidarity of the Muslims.
 Moreover, none of the consorts of the Prophet assisted her in this
 uprising.
-
 

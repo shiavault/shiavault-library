@@ -1,9 +1,9 @@
 Preface
 =======
 
-<span style="font-size: 14pt">Bismillah-Ar-Rahman-Ar-Raheem  
+Bismillah-Ar-Rahman-Ar-Raheem  
  In the name of God the Beneficent the Merciful  
- All thanks be to God and to Him be all praise.</span>
+ All thanks be to God and to Him be all praise.
 
 The light of Islam is attracting many who are wandering lonely in the
 darkness. Amidst this world of vain desires and materialism there is an

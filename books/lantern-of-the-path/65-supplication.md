@@ -10,17 +10,11 @@ salvation and destruction, so that you do not call upon Allah for
 something which perhaps contains your destruction, but which you suppose
 to contain your salvation. Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَيَدْعُ الإِنسَانُ بِالشَّرِّ دُعَاءهُ بِالْخَيْرِ وَكَانَ الإِنسَانُ
-عَجُولاً
-  </p>
-</blockquote>
+> وَيَدْعُ الإِنسَانُ بِالشَّرِّ دُعَاءهُ بِالْخَيْرِ وَكَانَ الإِنسَانُ
+> عَجُولاً
 
 ***Man prays for evil as he ought to pray for good, and man is ever
 hasty.*** (17:11)
-
 
 Reflect about what you ask for and why you are asking: supplication
 should be a total response to the Truth on your part, and a melting of
@@ -66,5 +60,4 @@ the fact that when He answers a supplication, His bestowal is far
 greater and more sublime than what the bondsman desires from Him, even
 if it be the Garden and its eternal blessings. This is understood only
 by lovers who act, gnostics, the elite and the select of Allah.
-
 

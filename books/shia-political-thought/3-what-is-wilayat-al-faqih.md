@@ -1511,4 +1511,3 @@ G.M.A. Grube (tr), Indianapolis, 1974, n 13, p.133.
 [^45]: Robert Dahl, Democracy and its Critics, Yale University Press,
 1989, p. 52.
 
-

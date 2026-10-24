@@ -75,7 +75,6 @@ and it had been his habit before, and still he views it intentionally
 and becomes junub, then the rule that applies to him is the one that
 applies to someone who makes himself junub intentionally.
 
-
 **(4) Sexual Intercourse**
 
 1- How would sexual intercourse be achieved?
@@ -140,7 +139,6 @@ perform its qada.
 A: What is meant by the head, plunging of which while fasting is haram,
 is the entire head till the neck.
 
-
 7- If one plunges the upper part of his head down to the ears, would
 this harm the correctness of his sawm?
 
@@ -191,7 +189,6 @@ ghusl.
 if?a) The sawm was mustahabb or a wajib [obligatory] but unspecified for
 a certain time.
 
-
 b) The sawm was wajib but specified for certain time.
 
 A: In a mustahabb and unspecified wajib sawm, his ghusl is correct but
@@ -200,5 +197,4 @@ a sawm of the month of Ramadan, both ghusl and sawm would be invalidated
 unless he repented after plunging and then intended to do ghusl even at
 the time he was getting out of the water, then his ghusl will be correct
 even though that his sawm had been invalidated by the plunging.
-
 

@@ -121,4 +121,3 @@ experience of Hajj allowed them to achieve self-discovery. Now they
 perceived each other collectively as "one", and individually as a "man"
 NOTHING ELSE!.
 
-

@@ -388,5 +388,4 @@ Uthman’s murder certainly you have defended Uthman when it was really
 your own assistance and you forsook him when the defence was his,
 Wassalam.
 
-
 **

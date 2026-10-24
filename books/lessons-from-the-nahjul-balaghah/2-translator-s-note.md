@@ -33,4 +33,3 @@ Glorious Koran”.*
 
 April 1983, H. Vahid Dastjerdi
 
-

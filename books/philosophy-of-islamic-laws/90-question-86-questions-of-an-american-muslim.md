@@ -323,5 +323,3 @@ from this aspect there is no difference between this insurance and
 general insurance. Therefore a Muslim can opt for trade insurance and
 also purchase the shares.
 
-
-

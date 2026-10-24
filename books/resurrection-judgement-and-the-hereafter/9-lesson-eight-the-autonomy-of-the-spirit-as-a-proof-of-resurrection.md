@@ -477,4 +477,3 @@ imaginings are my act and I am their source; it is not that my self
 comprises the varied and ever-changing concepts that take form in my
 mind.”
 
-

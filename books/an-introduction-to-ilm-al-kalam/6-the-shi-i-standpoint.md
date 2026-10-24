@@ -314,4 +314,3 @@ the benefit of Divine forgiveness or (the Prophet's) intercession.
 Similarly, their position is also at variance with the indulgent and
 extravagant notion of*shafa'ah* held by the*Asha'irah* .[^20]
 
-

@@ -1,11 +1,7 @@
 Foreword
 ========
 
-<blockquote dir="rtl">
-  <p>
-بسم‌ اللّه‌ الرّحمن‌ الرّحيم
-  </p>
-</blockquote>
+> بسم‌ اللّه‌ الرّحمن‌ الرّحيم
 
 ***In the Name of Allah, the All-beneficent, the All-merciful***
 
@@ -70,5 +66,4 @@ all their sincere efforts.
 [^1]: ‘Alī Rabbānī Gulpāygānī, ‘Aqā’idi Istidlālī 1 (Qum: Research
 Department of the Center of Management of the Qum Religious Academy for
 Women, Autumn 1388 AHS (2009)), 276 pages.
-
 

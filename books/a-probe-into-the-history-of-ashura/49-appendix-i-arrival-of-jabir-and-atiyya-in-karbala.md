@@ -308,4 +308,3 @@ Reading of the Qur'an is a praiseworthy act, provided that it increases
 goodness in man, reduces his evil deeds, strengthens his good morals or
 eliminates the bad habits in him.
 
-

@@ -14,4 +14,3 @@ permissible for him to eat it?
 
 Answer: It is permissible to eat the amount necessary to be cured.
 
-

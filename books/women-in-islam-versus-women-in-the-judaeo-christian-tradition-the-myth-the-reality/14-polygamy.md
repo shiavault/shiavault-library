@@ -325,4 +325,3 @@ to Sexual Liberation (New York: Berg Publishers, 1988) pp. 263-264.
 [^25]: Abdul Rahman Doi, Woman in Shari’ah (London: Ta-Ha Publishers,
 1994) p. 76.
 
-

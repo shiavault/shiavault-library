@@ -53,14 +53,12 @@ have also agreed with the same date.41 These were the persons who had
 better knowledge of the life history of the Sh.،¥ite scholars than Ibn
 al-Ath.r and Ibn Hƒmajar.
 
-
 **His Shrine in Baghdad**
 
 After his death, al-Kulayni (the compiler) was buried in the city of
 Baghdad near Bab al-Kufah.82 Today his shrine is found in the eastern
 part of Baghdad on the bank of the River Tigris (Dejlah) near al-Jisr
 al-،¥Atiq ،X the old bridge.83
-
 
 **NOTES
 AL-KULAYNI and AL-KAFI**
@@ -218,5 +216,4 @@ group of our associates," quoting from Ja،¥far ibn Muhammad who quoted
 from al-Hƒmasan ibn ،¥Ali ibn Fadƒudƒual, one of them is, Abu
 \`Abd-Allah al-Hƒmusayn ibn Muhammad ibn \`Imran ibn Ab. Bakr al-Ash'ar.
 al-Qumm..
-
 

@@ -83,4 +83,3 @@ rather the religion of dispersion in addition to what we believe that
 Allah willn’t grant us his mercy and success Allah said in Quran “They
 forgot Allah so He made them to forget themselves”.
 
-

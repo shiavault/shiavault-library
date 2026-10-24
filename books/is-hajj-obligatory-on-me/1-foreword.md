@@ -32,4 +32,3 @@ intention of ***Rijay-e-Matloobiat***.
 ***Rijay-e-Matloobiat*** means: On the **hope** that this act is desired
 by Almighty Allah.
 
-

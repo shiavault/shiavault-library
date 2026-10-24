@@ -12,4 +12,3 @@ The visitor to Imam Husayn [a] must greet his companion and say:
 
 *Peace be upon Habib bin Mudhahir al-Asady.*
 
-

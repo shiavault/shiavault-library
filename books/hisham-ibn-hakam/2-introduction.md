@@ -107,4 +107,3 @@ young generation. Maybe we can learn a lesson from the story of his
 continuous efforts in the path to reach the target and his unparalleled
 devotion to defending the cause of Wilayah (trusteeship).
 
-

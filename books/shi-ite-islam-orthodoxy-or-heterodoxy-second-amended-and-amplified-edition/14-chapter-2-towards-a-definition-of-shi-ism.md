@@ -339,4 +339,3 @@ not solely, for political reasons. Also that the Sunnī faith is the
 Sunnī bias of Western scholarship on Islām” which Richard W. Bulliet
 observes.
 
-

@@ -139,4 +139,3 @@ rudimentary for an elevated and actual form of perfection. Here, once
 again, emphasis is laid on the necessity of recognizing man's actual
 perfection.
 
-

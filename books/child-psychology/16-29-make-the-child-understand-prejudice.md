@@ -91,7 +91,6 @@ health. What is more, they as adults will understand well the weaknesses
 of other stereotypes and forgive when or if they them- selves are the
 victims of prejudice or hate.
 
-
 **30- Handle the Child's Fragile Trust with Care**
 
 When this person was about four years old. his mother took him shopping
@@ -184,5 +183,4 @@ disciplined a character as any other occupation that might be considered
 a career! It seems as if parents have to go a school to graduate in
 childrens up-bringing, such important is this subject in the human
 life!
-
 

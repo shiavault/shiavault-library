@@ -56,4 +56,3 @@ According to the level of my own understanding, I have offered
 explanations, though concise, in the books *The Radiance of Wilayat*,
 *Commentary on Dua’ al-Nudbah*, and *Creational and Legal Wilayat*.
 
-

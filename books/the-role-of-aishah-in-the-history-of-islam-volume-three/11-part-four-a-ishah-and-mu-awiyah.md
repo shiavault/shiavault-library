@@ -134,7 +134,6 @@ the time. Thus we can henceforth have a better and clearer understanding
 of the evil results of the close connection of these two poles for the
 Muslims and Islam.
 
-
 **The influence of 'A'ishah in the rule of the Umayyads**
 
 Ziyad ibn Abihi said proudly: This is the letter of 'A'ishah Umm
@@ -189,7 +188,6 @@ Another time 'A'ishah wrote a letter to Ziyad in which he recommended a
 man. Ziyad wrote at the bottom of the letter: 'He lives with his
 parents', meaning that Ziyad will treat the man so well that he will
 feel as if he lives with his parents.(251)
-
 
 **'A'ishah and Mu'awiyah in reciprocal contention**
 
@@ -265,7 +263,6 @@ Even if he has caused no mischief." (255)
 The death of Muhammad ibn Abi Bakr
 O Mu'awiyah! Did you not fear God in killing Hujr and his friends?
 
-
 **'A'ishah**
 
 The second factor of 'A'ishah's disagreement with Mu'awiyah, was the
@@ -340,7 +337,6 @@ upon her, namely by putting to death another brother of hers in the
 question of the allegiance to Yazid. Naturally the disagreement between
 'A'ishah and Mu'awiyah became more intensified at the sudden death of
 her own brother, 'Abd ar-Rahman and she was filled with boiling rage.
-
 
 **'Abd ar-Rahman ibn Abi Bakr is poisoned**
 
@@ -490,5 +486,4 @@ We think it probable that her expressions of penitence about the battle
 of al-Jamal, too, have their beginning in this period and have continued
 to the end of her life. Now we deal with this subject at length in the
 next section.
-
 

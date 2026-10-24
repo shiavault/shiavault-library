@@ -185,4 +185,3 @@ Athir, p. 39.
 67 Extracts from the address of Zainab in Damascus. It is reported in
 full in al-Ihtijaj (Protests with Citation of Evidence).
 
-

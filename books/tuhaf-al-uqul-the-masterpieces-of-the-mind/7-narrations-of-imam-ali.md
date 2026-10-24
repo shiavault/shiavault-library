@@ -723,4 +723,3 @@ Place your religion and your world at Allah's disposal and beg Him to
 ordain the best for you in respect of the near and the far, this world
 and the next; and that is an end to the matter.
 
-

@@ -4,14 +4,10 @@ Section 6: The King’s Dream – Yusuf’s Interpretation
 Surah Yusuf – Verse 43
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الْمَلِكُ إِنّي أَرَي سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ
-سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلاتٍ خُضْرٍ وءَاُخَرَ يَابِسَاتٍ يَآ
-أَيُّهَا الْمَلأُ أَفْتُونِي فِي رُءْيَايَ إِن كُنتُمْ لِلرُّءْيَا
-تَعْبُرُونَ
-  </p>
-</blockquote>
+> وَقَالَ الْمَلِكُ إِنّي أَرَي سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ
+> سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلاتٍ خُضْرٍ وءَاُخَرَ يَابِسَاتٍ يَآ
+> أَيُّهَا الْمَلأُ أَفْتُونِي فِي رُءْيَايَ إِن كُنتُمْ لِلرُّءْيَا
+> تَعْبُرُونَ
 
 ***43. “And (once) the king (of Egypt) said: ‘Verily I saw (in a dream)
 seven fat cows which seven lean cows were eating; and seven green ears
@@ -88,12 +84,8 @@ interpret it.
 Surah Yusuf – Verse 44
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَضْغَاثُ أَحْلاَمٍ وَمَا نَحْنُ بِتَأْوِيلِ الاَحْلامِ
-بِعَالِمِينَ
-  </p>
-</blockquote>
+> قَالُوا أَضْغَاثُ أَحْلاَمٍ وَمَا نَحْنُ بِتَأْوِيلِ الاَحْلامِ
+> بِعَالِمِينَ
 
 ***44. “They said: ‘confused medley of dreams (they are), and we do not
 know the interpretation of (such confused) dreams’.”***
@@ -136,12 +128,8 @@ claim that the same dream is confused and non interpretable.
 Surah Yusuf – Verse 45
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ اُمَّةٍ أَنَا
-اُنَبّئُكُم بِتَأْوِيلِهِ فَاَرْسِلُونِ
-  </p>
-</blockquote>
+> وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ اُمَّةٍ أَنَا
+> اُنَبّئُكُم بِتَأْوِيلِهِ فَاَرْسِلُونِ
 
 ***45. “And of the two (prisoners), he who had been released, remembered
 (Yusuf) after a time and said ‘I will inform you of its interpretation,
@@ -170,13 +158,9 @@ promptly.
 Surah Yusuf – Verse 46
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يُوسُفُ أَيُّهَا الصّدّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ
-يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلاتٍ خُضْرٍ وَأُخَرَ
-يَابِسَاتٍ لَعَلّي أَرْجِعُ إِلَي النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+> يُوسُفُ أَيُّهَا الصّدّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ
+> يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلاتٍ خُضْرٍ وَأُخَرَ
+> يَابِسَاتٍ لَعَلّي أَرْجِعُ إِلَي النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
 
 ***46. “Yusuf, O truthful one! Expound to us regarding (the dream of)
 seven fat cows which seven lean ones were devouring, and seven green
@@ -204,12 +188,8 @@ upbraiding him. The above verse says explains this meaning.
 Surah Yusuf – Verse 47
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَباً فَمَا حَصَدتُّم فَذَرُوهُ فِي
-سُنْبُلِهِ إِلاَّ قَلِيلاً مِمَّا تَأْكُلُونَ
-  </p>
-</blockquote>
+> قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَباً فَمَا حَصَدتُّم فَذَرُوهُ فِي
+> سُنْبُلِهِ إِلاَّ قَلِيلاً مِمَّا تَأْكُلُونَ
 
 ***47. “He said: ‘You shall sow for seven consecutive years and that
 which you have harvested you leave it in its ear, except a little
@@ -268,19 +248,11 @@ and can contain some instructions for the preservation of a society.
 Surah Yusuf – Verses 48 - 49
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يَأْتِي مِن بَعْدِ ذَلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا
-قَدَّمْتُمْ لَهُنَّ إِلاَّ قَلِيلاً مِمَّا تُحْصِنُونَ
-  </p>
-</blockquote>
+> ثُمَّ يَأْتِي مِن بَعْدِ ذَلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا
+> قَدَّمْتُمْ لَهُنَّ إِلاَّ قَلِيلاً مِمَّا تُحْصِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ يَأْتِي مِن بَعْدِ ذَلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ
-يَعْصِرُونَ
-  </p>
-</blockquote>
+> ثُمَّ يَأْتِي مِن بَعْدِ ذَلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ
+> يَعْصِرُونَ
 
 ***48. “Then after that seven years of hardship will come that (people)
 will consume what you have before hand laid up for them, except a little
@@ -350,5 +322,4 @@ obeyed Yusuf.
 [^3]: Tafsir Atyab ul-Bayan and Tefsir ul-Kabir.
 
 [^4]: Tafsir Al-Mizan.
-
 

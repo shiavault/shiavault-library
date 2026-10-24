@@ -294,4 +294,3 @@ make any difference whether it gives rise to presumption or not.
 Accordingly, the earlier objections cannot be raised against this
 defini­tion.
 
-

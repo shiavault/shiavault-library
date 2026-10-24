@@ -115,4 +115,3 @@ involve the suspension of the natural operation of the universe as some
 supernatural event occurs. That can only happen, of course, given the
 existence of some supernatural being.
 
-

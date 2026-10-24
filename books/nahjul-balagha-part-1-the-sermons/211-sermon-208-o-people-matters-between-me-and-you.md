@@ -4,17 +4,9 @@ Sermon 208: O people, matters between me and you….
 When Amir al-mu'minin's companions expressed displeasure about his
 attitude concerning Arbitration, [^1] he said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-قاله لمّا اضطرب عليه أصحابه في أمر الحكومة
-  </p>
-</blockquote>
+> قاله لمّا اضطرب عليه أصحابه في أمر الحكومة
 
 O people, matters between me and you went as I wished till war exhausted
 you. By Allah, it has overtaken some of you and left others, and has
@@ -24,16 +16,12 @@ people (from wrong acts) but today I am being dissuaded. You have now
 shown liking to live in this world, and it is not for me to bring you to
 what you dislike.
 
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا النَّاسُ، إِنَّهُ لَمْ يَزَلْ أَمْري مَعَكُمْ عَلَى مَا
-أُحِبُّ، حَتَّى نَهَكَتْكُمُ الْحَرْبُ، وَقَدْ، وَاللهِ أَخَذَتْ
-مِنْكُمْ وَتَرَكَتْ، وَهِيَ لِعَدُوِّكُمْ أَنْهَكُ. لَقَدْ كُنْتُ
-أَمْسِ أَمِيراً، فَأَصْبَحْتُ الْيَوْمَ مَأْمُوراً! وَكُنْتُ أَمْسِ
-نَاهِياً، فَأَصْبَحْتُ الْيَوْمَ مَنْهِيّاً! وَقَدْ أَحْبَبْتُمُ
-الْبَقَاءَ، وَلَيْسَ لِي أَنْ أَحْمِلَكُمْ عَلَى مَا تَكْرَهُونَ!
-  </p>
-</blockquote>
+> أَيُّهَا النَّاسُ، إِنَّهُ لَمْ يَزَلْ أَمْري مَعَكُمْ عَلَى مَا
+> أُحِبُّ، حَتَّى نَهَكَتْكُمُ الْحَرْبُ، وَقَدْ، وَاللهِ أَخَذَتْ
+> مِنْكُمْ وَتَرَكَتْ، وَهِيَ لِعَدُوِّكُمْ أَنْهَكُ. لَقَدْ كُنْتُ
+> أَمْسِ أَمِيراً، فَأَصْبَحْتُ الْيَوْمَ مَأْمُوراً! وَكُنْتُ أَمْسِ
+> نَاهِياً، فَأَصْبَحْتُ الْيَوْمَ مَنْهِيّاً! وَقَدْ أَحْبَبْتُمُ
+> الْبَقَاءَ، وَلَيْسَ لِي أَنْ أَحْمِلَكُمْ عَلَى مَا تَكْرَهُونَ!
 
 Alternative Sources for Sermon 208
 ----------------------------------
@@ -71,5 +59,4 @@ Mu\`awiyah and grabbed him by the neck. The entire might of the Syrians
 had been smashed. Only so much movement was discernible in them as
 remains in the tail of a lizard which is killed, but the tail continues
 hopping right and left. (Sharh Nahjul Balaghah, vol. 11, pp.30-31)
-
 

@@ -24,4 +24,3 @@ factors yet, and if they have, it is insufficient. They have not known
 their duties well, their ways and methods are not specified, and in
 general, their situations are not desirable as it should be.
 
-

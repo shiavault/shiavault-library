@@ -9,13 +9,9 @@ Exhibit G
 
 Imam Ibn Hibban (d. 354 H) records about it:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا محمد بن إسحاق بن خزيمة قال حدثنا محمد بن بشار قال حدثنا بدل بن
-المحبر قال حدثنا شعبة عن موسى بن أبي عائشة عن عبيد الله بن عبد الله عن
-عائشة أن أبا بكر صلى بالناس ورسول الله صلى الله عليه وسلم في الصف خلفه
-  </p>
-</blockquote>
+> أخبرنا محمد بن إسحاق بن خزيمة قال حدثنا محمد بن بشار قال حدثنا بدل بن
+> المحبر قال حدثنا شعبة عن موسى بن أبي عائشة عن عبيد الله بن عبد الله عن
+> عائشة أن أبا بكر صلى بالناس ورسول الله صلى الله عليه وسلم في الصف خلفه
 
 Muhammad b. Ishaq b. Khuzaymah – Muhammad b. Bashar – Badal b.
 al-Muhabbar – Shu’bah – Musa b. Abi ‘Aishah – ‘Ubayd Allah b. ‘Abd Allah
@@ -32,23 +28,15 @@ be upon him, was in the congregational row BEHIND him**.[^1]
 
 And, Shaykh al-Arnaut concurs:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط البخاري
-  </p>
-</blockquote>
+> إسناده صحيح على شرط البخاري
 
 Its chain is *sahih* upon the standard of al-Bukhari.[^3]
 
 Imam al-Tirmidhi (d. 279 H) also documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمود بن غيلان حدثنا شبابة [بن سوار] عن شعبة عن نعيم بن أبي هند
-عن أبي وائل عن مسروق عن عائشة قال صلى رسول الله صلى الله عليه و سلم
-خلف أبي بكر في مرضه الذي مات فيه قاعدا
-  </p>
-</blockquote>
+> حدثنا محمود بن غيلان حدثنا شبابة [بن سوار] عن شعبة عن نعيم بن أبي هند
+> عن أبي وائل عن مسروق عن عائشة قال صلى رسول الله صلى الله عليه و سلم
+> خلف أبي بكر في مرضه الذي مات فيه قاعدا
 
 Mahmud b. Ghilan – Shubabah b. Sawar – Shu’bah – Na’im b. Abi Hind – Abu
 Wail – Masruq – ‘Aishah:
@@ -58,21 +46,13 @@ sitting posture **BEHIND Abu Bakr** during his fatal illness.[^4]
 
 Al-Tirmidhi says:
 
-<blockquote dir="rtl">
-  <p>
-حديث عائشة حديث حسن صحيح غريب
-  </p>
-</blockquote>
+> حديث عائشة حديث حسن صحيح غريب
 
 The *hadith* of ‘Aishah is *hasan sahih gharib*.[^5]
 
 ‘Allamah al-Albani comments too:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^6]
 
@@ -94,15 +74,11 @@ that her father was our Prophet’s Imam – within the possible timeframe.
 However, Anas b. Malik made a frantic attempt to save her! Imam Ibn
 Hibban documents:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا عمر بن محمد الهمداني قال حدثنا إسحاق بن إبراهيم بن سويد الرملي
-قال حدثنا أيوب بن سليمان قال حدثني أبو بكر بن أبي أويس عن سليمان بن
-بلال عن حميد الطويل عن ثابت البناني عن أنس بن مالك قال آخر صلاة صلاها
-رسول الله صلى الله عليه وسلم مع القوم في ثوب واحد متوشحا به برد قاعدا
-خلف أبي بكر
-  </p>
-</blockquote>
+> أخبرنا عمر بن محمد الهمداني قال حدثنا إسحاق بن إبراهيم بن سويد الرملي
+> قال حدثنا أيوب بن سليمان قال حدثني أبو بكر بن أبي أويس عن سليمان بن
+> بلال عن حميد الطويل عن ثابت البناني عن أنس بن مالك قال آخر صلاة صلاها
+> رسول الله صلى الله عليه وسلم مع القوم في ثوب واحد متوشحا به برد قاعدا
+> خلف أبي بكر
 
 ‘Umar b. Muhammad al-Hamdani – Ishaq b. Ibrahim b. Suwayd al-Ramli –
 Ayub b. Sulayman – Abu Bakr b. Abi Uways – Sulayman b. Bilal – Humayd
@@ -114,33 +90,21 @@ him **in a sitting posture** **BEHIND Abu Bakr**.[^7]
 
 ‘Allamah al-Albani comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^8]
 
 Shaykh al-Arnaut agrees:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^9]
 
 Imam al-Tirmidhi also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله بن أبي زياد شبابة بن سوار حدثنا محمد بن طلحة عن حميد عن
-ثابت عن أنس قال صلى رسول الله صلى الله عليه و سلم في مرضه خلف أبي بكر
-قاعدا في ثوب متوشحا به
-  </p>
-</blockquote>
+> حدثنا عبد الله بن أبي زياد شبابة بن سوار حدثنا محمد بن طلحة عن حميد عن
+> ثابت عن أنس قال صلى رسول الله صلى الله عليه و سلم في مرضه خلف أبي بكر
+> قاعدا في ثوب متوشحا به
 
 ‘Abd Allah b. Abi Ziyad - Shubabah b. Sawar – Muhammad b. Talhah –
 Humayd – Thabit – Anas:
@@ -151,21 +115,13 @@ garment.[^10]
 
 Al-Tirmidhi comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This *hadith* is *hasan* *sahih*[^11]
 
 ‘Allamah al-Albani agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح الإسناد
-  </p>
-</blockquote>
+> صحيح الإسناد
 
 Its chain is *sahih*[^12]
 
@@ -184,15 +140,11 @@ alleged *salat* behind Abu Bakr anywhere within his lifetime!
 There is another similarly unfixable *riwayah* by this same ‘Aishah,
 concerning the same period. Imam al-Nasai (d. 303 H) records:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا محمود بن غيلان قال حدثني أبو داود قال أنبأنا شعبة عن موسى بن
-أبي عائشة قال سمعت عبيد الله بن عبد الله يحدث عن عائشة رضي الله عنها
-أن رسول الله صلى الله عليه و سلم أمر أبا بكر أن يصلي بالناس قالت وكان
-النبي صلى الله عليه و سلم بين يدي أبي بكر فصلى قاعدا وأبو بكر يصلي
-بالناس والناس خلف أبي بكر
-  </p>
-</blockquote>
+> أخبرنا محمود بن غيلان قال حدثني أبو داود قال أنبأنا شعبة عن موسى بن
+> أبي عائشة قال سمعت عبيد الله بن عبد الله يحدث عن عائشة رضي الله عنها
+> أن رسول الله صلى الله عليه و سلم أمر أبا بكر أن يصلي بالناس قالت وكان
+> النبي صلى الله عليه و سلم بين يدي أبي بكر فصلى قاعدا وأبو بكر يصلي
+> بالناس والناس خلف أبي بكر
 
 Mahmud b. Ghilan – Abu Dawud – Shu’bah – Musa b. Abi ‘Aishah – ‘Ubayd
 Allah b. ‘Abd Allah – ‘Aishah, may Allah be pleased with her:
@@ -206,11 +158,7 @@ the people in** ***salat*** and the people were behind Abu Bakr.[^13]
 
 ‘Allamah al-Albani declares about it:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^14]
 
@@ -231,14 +179,10 @@ Understandably, the *‘ulama* of the Ahl al-Sunnah are very disturbed by
 these grave, irreconcilable inconsistencies in ‘Aishah’s, and of course
 Anas’, reports. Al-Hafiz (d. 852 H) himself is unable to hide this fact:
 
-<blockquote dir="rtl">
-  <p>
-ورواه مسلم بن إبراهيم عن شعبة بلفظ أن النبي صلى الله عليه وسلم صلى خلف
-أبي بكر أخرجه بن المنذر وهذا عكس رواية أبي موسى وهو اختلاف شديد ووقع
-في رواية مسروق عنها أيضا اختلاف فأخرجه ابن حبان من رواية عاصم عن شقيق
-عنه بلفظ كان أبو بكر يصلي بصلاته والناس يصلون بصلاة أبي بكر
-  </p>
-</blockquote>
+> ورواه مسلم بن إبراهيم عن شعبة بلفظ أن النبي صلى الله عليه وسلم صلى خلف
+> أبي بكر أخرجه بن المنذر وهذا عكس رواية أبي موسى وهو اختلاف شديد ووقع
+> في رواية مسروق عنها أيضا اختلاف فأخرجه ابن حبان من رواية عاصم عن شقيق
+> عنه بلفظ كان أبو بكر يصلي بصلاته والناس يصلون بصلاة أبي بكر
 
 Muslim b. Ibrahim narrated from Shu’bah with the wording, “The Prophet,
 peace be upon him, performed *salat* behind Abu Bakr”. Al-Mundhir
@@ -333,5 +277,4 @@ edition), vol. 2, p. 130
 [^16]: Muhammad Nasir al-Din al-Albani, Asl Sifat Salat al-Nabi (Riyadh:
 Maktabah al-Ma’arif li al-Nashr wa al-Tawzi’; 1st edition, 1427 H), vol.
 1, p. 84
-
 

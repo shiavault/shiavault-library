@@ -3,12 +3,8 @@ Preparedness for Assisting the Imam of the Age
 
 Allah, the Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
-وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا
+> وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***“O you who believe! Be patient and excel in patience and remain
 steadfast, and be careful of*** ***(your duty to) Allah, that you may be
@@ -30,5 +26,4 @@ occur all of a sudden. Imam Sadiq (a.s.) says:
 Qaem even though it may be an arrow.”*[^1]
 
 [^1]: Ghaibah-Nu’mani/320
-
 

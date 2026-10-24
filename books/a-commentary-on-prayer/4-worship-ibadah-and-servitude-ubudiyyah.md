@@ -7,11 +7,7 @@ What is worship {‘ibadah}?
 Worship {*‘ibadah*} is the purpose behind our creation. The Qur’an
 states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَمَا خَلَقْتُ الْجِنَّ وَالإنْسَ إِلا لِيَعْبُدُونِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَمَا خَلَقْتُ الْجِنَّ وَالإنْسَ إِلا لِيَعْبُدُونِ ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.”*** [^1]
@@ -73,17 +69,9 @@ along this way even to the extent of sacrificing themselves. Worship has
 a deep natural root in man although he may be unaware of it, as Mawlawi
 (ar-Rumi)[^4] says:
 
-<blockquote dir="rtl">
-  <p>
-همچو ميل كوداكان با مادران
-  </p>
-</blockquote>
+> همچو ميل كوداكان با مادران
 
-<blockquote dir="rtl">
-  <p>
-سرّ ميل خود نداند در لبان
-  </p>
-</blockquote>
+> سرّ ميل خود نداند در لبان
 
 *Just like the children’s fondness of their mothers,*  
 *He regards not the satisfaction of his desire in frankincense.*
@@ -134,40 +122,24 @@ If the movement (both rotation and revolution) of the earth should slow
 down or should the day stand still, who could expedite its movement and
 change it?
 
-<blockquote dir="rtl">
-  <p>
-﴿ قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
-بِمَاءٍ مَعِينٍ ﴾
-  </p>
-</blockquote>
+> ﴿ قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ
+> بِمَاءٍ مَعِينٍ ﴾
 
 ***“Say, ‘Tell me, should your water sink down {into the ground}, who
 will bring you running water?**’”*[^8]
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلا تَشْكُرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلا تَشْكُرُونَ ﴾
 
 ***“If We wish We can make it (water) bitter. Then why do you not give
 thanks?**”*[^9]
 
-<blockquote dir="rtl">
-  <p>
-﴿ لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ ﴾
 
 ***“If We wish, We surely turn it (plant) into chaff, whereat you are
 left stunned (or regretful)**.”*[^10]
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنْ نَشَأْ نَخْسِفْ بِهِمُ الأرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا
-مِنَ السَّمَاءِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنْ نَشَأْ نَخْسِفْ بِهِمُ الأرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا
+> مِنَ السَّمَاءِ ﴾
 
 ***“If We like, We can make the earth swallow them, or let fall on them
 a fragment from the sky.**”*[^11]
@@ -201,12 +173,8 @@ Indifference toward worship
 
 Hadrat[^12] ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-قَرَّتْ إِذاً عينه إذا ٱقتَدى بعد السنين المتطاولة بالبهيمة الهاملة و
-السائمة المرعيّة.
-  </p>
-</blockquote>
+> قَرَّتْ إِذاً عينه إذا ٱقتَدى بعد السنين المتطاولة بالبهيمة الهاملة و
+> السائمة المرعيّة.
 
 “May I get blind if after having passed so many years of my life (and
 with the possession of all talent, capabilities, facilities, intellect,
@@ -259,11 +227,7 @@ prayer. Yet, the two-*rak‘ah* or shortened prayer is still a prayer and
 it is based on the axis of remembering God, seeking His pleasure and
 performing His command:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَقِمِ الصَّلاةَ لِذِكْرِي ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَقِمِ الصَّلاةَ لِذِكْرِي ﴾
 
 ***“And maintain the prayer for My remembrance.**”*[^13]
 
@@ -278,12 +242,8 @@ beneficial. What is important is eating useful food.
 
 The Holy Prophet (S)[^14] said to Jabir ibn ‘Abd Allah al-Ansari:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هٰذَا الدّينَ فَاَوْغِل فيهِ بِرِفْقٍ وَلا تُبَغِّضُ إِلىٰ
-نَفْسِك عِبَادَةَ اللهِ.
-  </p>
-</blockquote>
+> إِنَّ هٰذَا الدّينَ فَاَوْغِل فيهِ بِرِفْقٍ وَلا تُبَغِّضُ إِلىٰ
+> نَفْسِك عِبَادَةَ اللهِ.
 
 Indeed this religion is firm. Therefore, act moderately in relation to
 it (and when you have no spiritual readiness for worship, do not impose
@@ -292,11 +252,7 @@ you.[^15]
 
 In another *hadith*, we also read that the Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبىٰ لِمَنْ عَشِقَ الْعِبادَةَ وَ عانَقَها.
-  </p>
-</blockquote>
+> طُوبىٰ لِمَنْ عَشِقَ الْعِبادَةَ وَ عانَقَها.
 
 “Blessed is he who loves worship and is always fond of it.”[^16]
 
@@ -347,11 +303,7 @@ to me.”[^21]
 
 We read in the traditions:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْقُلُوبِ إِقْبالاً وَ إِدْباراً.
-  </p>
-</blockquote>
+> إِنَّ لِلْقُلُوبِ إِقْبالاً وَ إِدْباراً.
 
 “Indeed, there is inclination and disinclination in the heart (of
 man).”[^22]  
@@ -367,11 +319,7 @@ activities.[^23]
 The Holy Qur’an gives the title of “violators” to the Jews who engaged
 in work and went fishing during the Sabbath Day:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ ﴾
 
 ***“And certainly you know those of you who violated the
 Sabbath.”***[^24]
@@ -491,11 +439,7 @@ Worship and acquisitions
 
 Worship is a means to acquire divine help and graces.
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ ﴾
 
 ***“And worship you Lord until certainty (or death) comes to
 you**.”*[^31]
@@ -507,12 +451,8 @@ performance of acts of worship in the cave of Hira for a long time
 before the acquisition of divine revelation. It is thus stated in the
 traditions:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ اَخْلَصَ الْعِبادَة للهِ اَرْبَعينَ صَباحاً ظَهَرتْ يَنابيعُ
-الْحِكْمَةَ مِنْ قَلْبِهِ عَلىٰ لِسانِهِ.
-  </p>
-</blockquote>
+> مَنْ اَخْلَصَ الْعِبادَة للهِ اَرْبَعينَ صَباحاً ظَهَرتْ يَنابيعُ
+> الْحِكْمَةَ مِنْ قَلْبِهِ عَلىٰ لِسانِهِ.
 
 “He who sincerely worships Allah for forty days, springs of wisdom shall
 appear from his heart to his tongue.”[^32]
@@ -549,31 +489,19 @@ celestial realm:
 In other cases, the Qur’an considers gratitude to God as the reason
 behind worship:
 
-<blockquote dir="rtl">
-  <p>
-﴿ اعْبُدُوا رَبَّكُمُ الَّذي خَلَقَكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ اعْبُدُوا رَبَّكُمُ الَّذي خَلَقَكُمْ ﴾
 
 ***“Worship you Lord, who created you.”***[^36]
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلْيَعْبُدُوا رَبَّ هذَا الْبَيْتِ ٭ الَّذي أَطْعَمَهُمْ مِنْ جُوعٍ
-وَ آمَنَهُمْ مِنْ خَوْفٍ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلْيَعْبُدُوا رَبَّ هذَا الْبَيْتِ ٭ الَّذي أَطْعَمَهُمْ مِنْ جُوعٍ
+> وَ آمَنَهُمْ مِنْ خَوْفٍ ﴾
 
 ***“Let them worship the Lord of this House, who has fed them {and saved
 them} from hunger, and secured them from fear.”***[^37]
 
 In some verses, the educational function of prayer has been pointed out:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
 
 ***“Indeed the prayer prevents indecencies and wrongs.”***[^38]
 
@@ -584,11 +512,7 @@ abstaining from sin and indecency. Yes, anyone who would wear a white
 garment will naturally not sit on a dirty and polluted ground.  
  After enjoining prayer, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الْحَسَناتِ يُذْهِبْنَ السَّيِّئاتِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الْحَسَناتِ يُذْهِبْنَ السَّيِّئاتِ ﴾
 
 ***“Indeed good deeds efface misdeeds.”***[^39]
 
@@ -606,12 +530,8 @@ Here, I shall quote a statement of the Imam (*‘a*) concerning the
 philosophy of glorification and the remembrance of God whose most
 important manifestation is prayer:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الله عَزَّ وَ جَلّ جَعَلَ الذِّكْرَ جَلاءً لِلْقُلُوبِ تَسْمَعُ
-بِهِ بَعْدَ الْوَقَرَة وَ تُبْصِرُ بِه بَعْدَ العَشوة.
-  </p>
-</blockquote>
+> اِنَّ الله عَزَّ وَ جَلّ جَعَلَ الذِّكْرَ جَلاءً لِلْقُلُوبِ تَسْمَعُ
+> بِهِ بَعْدَ الْوَقَرَة وَ تُبْصِرُ بِه بَعْدَ العَشوة.
 
 Certainly, Allah, the Glorified, the Sublime, has made His remembrance
 the light for hearts which hear with its help despite deafness, see with
@@ -620,13 +540,9 @@ unruliness.[^41]
 
 Then, concerning the blessings of prayer, the Imam (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ حَفَّتْ بِهِم الْمَلائِكَة وَ نُزّلَتْ عَلَيهِمُ السَّكينَة وَ
-فُتِحَتْ لَهُم اَبْوابَ السَّماءِ وَ اُعِدَّتْ لَهُم مَقاعِدَ
-الكِرامات.
-  </p>
-</blockquote>
+> قَدْ حَفَّتْ بِهِم الْمَلائِكَة وَ نُزّلَتْ عَلَيهِمُ السَّكينَة وَ
+> فُتِحَتْ لَهُم اَبْوابَ السَّماءِ وَ اُعِدَّتْ لَهُم مَقاعِدَ
+> الكِرامات.
 
 The angels have surrounded them (performers of prayer) and peace is
 showered upon them. The doors of heaven are opened for them and abodes
@@ -634,12 +550,8 @@ of blessedness, of which He had informed them, have been prepared for
 them.[^42]  
  In another sermon, the Imam (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-وَ انَّها لَتَحُتُّ الذُّنُوبَ حَتَّ الْوَرَق وَ تُطلِقُها اِطْلاقَ
-الرَّبَق.
-  </p>
-</blockquote>
+> وَ انَّها لَتَحُتُّ الذُّنُوبَ حَتَّ الْوَرَق وَ تُطلِقُها اِطْلاقَ
+> الرَّبَق.
 
 “Certainly, prayer removes sins like autumn strips leaves off from
 trees, and it liberates you from the rope (of sins) tied around your
@@ -657,13 +569,9 @@ His believing servants to perform *salah* and *zakah*,[^45] to fast
 during the days when it is made obligatory.” Then, concerning the
 effects of prayer, he (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-تَسْكيناً لاَطْرافِهِم، تَخْشِيعاً لاَبْصارِهِم، تَذْليلاً
-لِنُفُوسِهِمْ تَخْفِيضاً، لِقُلُوبِهِم، اِزالَةً لِلْخَيْلاء عَنْهُم
-اِنْ اَوْ حَشَتْهُم الْوَحْشَة آنَسَهُمْ ذِكْرَك.
-  </p>
-</blockquote>
+> تَسْكيناً لاَطْرافِهِم، تَخْشِيعاً لاَبْصارِهِم، تَذْليلاً
+> لِنُفُوسِهِمْ تَخْفِيضاً، لِقُلُوبِهِم، اِزالَةً لِلْخَيْلاء عَنْهُم
+> اِنْ اَوْ حَشَتْهُم الْوَحْشَة آنَسَهُمْ ذِكْرَك.
 
 {This act of worship} gives their (God’s believing servants’) limbs
 peace and rest, casts fear in their eyes, softens their spirits,
@@ -683,11 +591,7 @@ The effects and blessings of servitude and submission
 
 Imam Zayn al-‘Abidin (*‘a*) says in his litanies {*munajat*}:
 
-<blockquote dir="rtl">
-  <p>
-إِلٰهِي كَفٰى بِي عِزّاً أَنْ أَكُوْنَ لَكَ عَبْداً.
-  </p>
-</blockquote>
+> إِلٰهِي كَفٰى بِي عِزّاً أَنْ أَكُوْنَ لَكَ عَبْداً.
 
 “O Lord! It is already enough of an honor for me that I am Your
 servant.”[^47]
@@ -726,11 +630,7 @@ dignified in comparison to them.
 So, the Qur’an orders us to seek power and strength from prayer and
 worship when we face difficulties and adversities:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالصَّلَوٰةِ بِالصَّبْرِ وَاسْتَعِينُوا ﴾
-  </p>
-</blockquote>
+> ﴿ وَالصَّلَوٰةِ بِالصَّبْرِ وَاسْتَعِينُوا ﴾
 
 ***“And take recourse in patience and prayer.”***[^49]
 
@@ -778,11 +678,7 @@ unlawful or unlawfully earned food, debauchery, and worldly engagements,
 which keep man away from worship and make prayer heavy for him. As the
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِنَّها لَكَبيرَةٌ إِلاّ عَلَى الْخاشِعينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِنَّها لَكَبيرَةٌ إِلاّ عَلَى الْخاشِعينَ ﴾
 
 ***“And it (prayer) is indeed hard except for the humble.”***[^53]
 
@@ -820,11 +716,7 @@ plays a key role in training human beings.
 Whichever direction we stand in prayer is toward God, as the Qur’an
 states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَيْنَما تُوَلُّوا فَثَمَّ وَجْهُ اللّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَيْنَما تُوَلُّوا فَثَمَّ وَجْهُ اللّهِ ﴾
 
 ***“So whichever way you turn, there is the face of Allah!”***[^55]
 
@@ -836,12 +728,8 @@ the *Ka‘bah*?
 It is because the *Ka‘bah* is the first place to have been selected as a
 place for the worship of mankind:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنّاسِ لَلَّذي بِبَكَّةَ مُبارَكًا وَ
-هُدًى لِلْعالَمينَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنّاسِ لَلَّذي بِبَكَّةَ مُبارَكًا وَ
+> هُدًى لِلْعالَمينَ ﴾
 
 ***“Indeed the first house to be set up for mankind is the one at
 Bakkah,***[^56] ***blessed and a guidance for all nations.”***[^57]
@@ -856,13 +744,9 @@ because when the Muslims were still facing the Bayt al-Muqaddas, the
 saying: “You are standing while facing our *qiblah*; why do you have no
 independence?” The Qur’an thus states with utmost explicitness:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَوَلّ‏ِ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرامِ وَ حَيْثُ ما كُنْتُمْ
-فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ لِئَلاّ يَكُونَ لِلنّاسِ عَلَيْكُمْ
-حُجَّةٌ ﴾
-  </p>
-</blockquote>
+> ﴿ فَوَلّ‏ِ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرامِ وَ حَيْثُ ما كُنْتُمْ
+> فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ لِئَلاّ يَكُونَ لِلنّاسِ عَلَيْكُمْ
+> حُجَّةٌ ﴾
 
 ***“Turn your face toward the Holy Mosque, and wherever you may be, turn
 your faces toward it, so that the people may have no argument against
@@ -902,22 +786,14 @@ dominance over the universe.
 
 **First step:** The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنْ تَتَّقُوا اللّهَ يَجْعَلْ لَكُمْ فُرْقانًا﴾
-  </p>
-</blockquote>
+> ﴿ إِنْ تَتَّقُوا اللّهَ يَجْعَلْ لَكُمْ فُرْقانًا﴾
 
 ***“If you are wary of Allah, He shall appoint a criterion***[^59]
 ***for you.”***[^60]
 
 In another place, it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَجْعَلْ لَكُمْ نُورًا تَمْشُونَ بِهِ ﴾
-  </p>
-</blockquote>
+> ﴿ يَجْعَلْ لَكُمْ نُورًا تَمْشُونَ بِهِ ﴾
 
 ***“And give you a light to walk by.”***[^61]
 
@@ -928,11 +804,7 @@ servitude to God and prayer—is a step toward the acquisition of light
 **Second step:** Those who accept divine guidance and are within the
 orbit of truth, God will enhance the guidance they possess:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ الَّذينَ اهْتَدَوْا زادَهُمْ هُدًى ﴾
-  </p>
-</blockquote>
+> ﴿ وَ الَّذينَ اهْتَدَوْا زادَهُمْ هُدًى ﴾
 
 ***“As for those who are {rightly} guided, He enhances their
 guidance.”***[^62]
@@ -945,11 +817,7 @@ shines brighter.
 **Third step:** Since these individuals are exerting effort in the way
 of God, God will show them many paths leading toward perfection:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ الَّذينَ جاهَدُوا فينا لَنَهْدِيَنَّهُمْ سُبُلَنا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ الَّذينَ جاهَدُوا فينا لَنَهْدِيَنَّهُمْ سُبُلَنا ﴾
 
 ***“As for those who strive in Us, We shall surely guide them in Our
 ways.”***[^63]
@@ -957,11 +825,7 @@ ways.”***[^63]
 **Fourth step:** Whenever Satan makes an insinuation to them, they will
 immediately be reminded and ask forgiveness from Allah:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِذا مَسَّهُمْ طائِفٌ مِنَ الشَّيْطانِ تَذَكَّرُوا ﴾
-  </p>
-</blockquote>
+> ﴿ إِذا مَسَّهُمْ طائِفٌ مِنَ الشَّيْطانِ تَذَكَّرُوا ﴾
 
 ***“When those who are God-wary are touched by a visitation (or
 insinuation) of Satan, they remember {Allah}.”***[^64]
@@ -969,11 +833,7 @@ insinuation) of Satan, they remember {Allah}.”***[^64]
 **Fifth step:** Prayer is the best means for self-building and keeping
 aloof from indecency and evil:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
 
 ***“Indeed the prayer prevents indecencies and wrongs.”***[^65]
 
@@ -983,11 +843,7 @@ As a matter of fact, whenever the pressure of inner insinuation
 {*waswasah*} and outer *taghut* is intensified, he will again seek
 assistance through prayer and patience:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالصَّلَوٰةِ بِالصَّبْرِ وَاسْتَعِينُوا ﴾
-  </p>
-</blockquote>
+> ﴿ وَالصَّلَوٰةِ بِالصَّبْرِ وَاسْتَعِينُوا ﴾
 
 ***“And take recourse in patience and prayer.”***[^66]
 
@@ -1015,29 +871,13 @@ Yes, the Holy Prophet (S) was awake even when he was asleep whereas we
 are asleep while awake and even while we are praying our souls are the
 victims of Satan and the imagination. As Mawlawi says:
 
-<blockquote dir="rtl">
-  <p>
-گفت پيغمبر كه عَيناىَ ينام
-  </p>
-</blockquote>
+> گفت پيغمبر كه عَيناىَ ينام
 
-<blockquote dir="rtl">
-  <p>
-لا ينام القلب عن ربّ الاَنام
-  </p>
-</blockquote>
+> لا ينام القلب عن ربّ الاَنام
 
-<blockquote dir="rtl">
-  <p>
-چشم تو بيدار و دل رفته به خواب
-  </p>
-</blockquote>
+> چشم تو بيدار و دل رفته به خواب
 
-<blockquote dir="rtl">
-  <p>
-چشم من خفته، دلم در فتح باب
-  </p>
-</blockquote>
+> چشم من خفته، دلم در فتح باب
 
 *The Prophet said, “My two eyes are asleep while my heart doesn’t sleep
 and forget the Lord of the creatures.*
@@ -1047,29 +887,13 @@ my heart is looking for the opening door.”*
 
 In another place, he says:
 
-<blockquote dir="rtl">
-  <p>
-گفت پيغمبر كه دل، همچون پرى است
-  </p>
-</blockquote>
+> گفت پيغمبر كه دل، همچون پرى است
 
-<blockquote dir="rtl">
-  <p>
-در بيابانى اسير صَرصرى است
-  </p>
-</blockquote>
+> در بيابانى اسير صَرصرى است
 
-<blockquote dir="rtl">
-  <p>
-باد، پَر را هر طرف رانَد گزاف
-  </p>
-</blockquote>
+> باد، پَر را هر طرف رانَد گزاف
 
-<blockquote dir="rtl">
-  <p>
-گه چپ و گه راست با صد اختلاف
-  </p>
-</blockquote>
+> گه چپ و گه راست با صد اختلاف
 
 *The Prophet said that the heart is like a feather, which is captured in
 a desert by a wind.*
@@ -1080,11 +904,7 @@ the left and sometimes to the right with a hundred difference.*
 If this soul is not bridled, every moment it can draw man toward
 corruption:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ النَّفْسَ َلأَمّارَةٌ بِالسُّوءِ إِلاّ ما رَحِمَ رَبّي ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ النَّفْسَ َلأَمّارَةٌ بِالسُّوءِ إِلاّ ما رَحِمَ رَبّي ﴾
 
 ***“For the {carnal} soul indeed prompts {men} to evil, except inasmuch
 as my Lord has mercy.”***[^67]
@@ -1100,17 +920,9 @@ servitude to God, they have such guardianship {*wilayah*} and dominance
 {*sultah*} over their souls that they do not allow even an insinuation
 {*waswasah*} to enter their hearts.
 
-<blockquote dir="rtl">
-  <p>
-من چو مرغ اوجم، انديشه مگس
-  </p>
-</blockquote>
+> من چو مرغ اوجم، انديشه مگس
 
-<blockquote dir="rtl">
-  <p>
-كى بود بر من مگس را دسترس
-  </p>
-</blockquote>
+> كى بود بر من مگس را دسترس
 
 *I am like a bird, He is like Jamshid, and the thought over the fly.*  
 *When can I have access over the fly?*
@@ -1125,11 +937,7 @@ The miracles of the prophets (*‘a*) are the same authority over creation
 and mastery over nature, which they performed with divine permission.  
  They are thus saying:
 
-<blockquote dir="rtl">
-  <p>
-العُبوديّةُ جُوهِرة كُنهها الرّبوبيّة.
-  </p>
-</blockquote>
+> العُبوديّةُ جُوهِرة كُنهها الرّبوبيّة.
 
 “Servitude {*‘ubudiyyah*} is a gem that brings about lordship
 {*rububiyyah*}.”  
@@ -1143,12 +951,8 @@ attains this station, I will become his eyes, ears, tongue, and hand,
 and all his actions will become divine and purposeful. He will reach a
 point where like Hadrat Ibrahim (Abraham) (*‘a*), he will say:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ صَلاتي وَ نُسُكي وَ مَحْيايَ وَ مَماتي لِلّهِ رَبّ‏ِ
-الْعالَمينَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ صَلاتي وَ نُسُكي وَ مَحْيايَ وَ مَماتي لِلّهِ رَبّ‏ِ
+> الْعالَمينَ ﴾
 
 ***“Indeed my prayer and my worship, my life and my death are for the
 sake of Allah, the Lord of all the worlds.”***[^70]
@@ -1211,11 +1015,7 @@ success; come to the best of deeds.” That is, of all affairs, the best
 deed is prayer. Also, prayer keeps man away from corruption and
 indecency:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
 
 ***“Indeed the prayer prevents indecencies and wrongs.”***[^74]
 
@@ -1236,12 +1036,8 @@ the sermons and then praying means being informed and then praying.
 • Prayer means exit from one’s self and soaring toward God. The Qur’an
 says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهاجِرًا إِلَى اللّهِ وَ رَسُولِهِ
-ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهاجِرًا إِلَى اللّهِ وَ رَسُولِهِ
+> ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللّهِ ﴾
 
 ***“And whoever leaves his home migrating toward Allah and His Apostle,
 and is then overtaken by death, his reward shall certainly fall on
@@ -1275,22 +1071,14 @@ Prayer and the Qur’an
 In many cases, the Qur’an and prayer have been mentioned together such
 as in this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَتْلُونَ كِتابَ اللّهِ وَ أَقامُوا الصَّلاةَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَتْلُونَ كِتابَ اللّهِ وَ أَقامُوا الصَّلاةَ ﴾
 
 ***“Indeed those who recite the Book of Allah and maintain the
 prayer.”***[^80]
 
 And in another place, it states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ الَّذينَ يُمَسِّكُونَ بِالْكِتابِ وَ أَقامُوا الصَّلاةَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ الَّذينَ يُمَسِّكُونَ بِالْكِتابِ وَ أَقامُوا الصَّلاةَ ﴾
 
 ***“As for those who hold fast to the Book and maintain the
 prayer.”***[^81]
@@ -1299,11 +1087,7 @@ Sometimes, one attribute has been mentioned for prayer and the Qur’an,
 just as the word ‘remembrance’ {*dhikr*} has also been mentioned for the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴾
 
 ***“Indeed We have sent down the Reminder and indeed We will preserve
 it.”***[^82]
@@ -1311,11 +1095,7 @@ it.”***[^82]
 In addition, the philosophy of prayer has also been mentioned as
 ‘remembrance’:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَقِمِ الصَّلَاةَ لِذِكْرِي ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَقِمِ الصَّلَاةَ لِذِكْرِي ﴾
 
 ***“And maintain the prayer for My remembrance.”***[^83]
 
@@ -1323,11 +1103,7 @@ What is interesting is that sometimes instead of the word ‘prayer’
 {*salah*}, the word ‘recital’ {*qur’an*} has been mentioned, such as in
 this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ قُرْآنَ الْفَجْرِ كانَ مَشْهُودًا ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ قُرْآنَ الْفَجْرِ كانَ مَشْهُودًا ﴾
 
 ***“Indeed the dawn recital is attended {by angels}.”***[^84]
 
@@ -1351,11 +1127,7 @@ justice. One of the cases of *qisas* is that the hand of a thief must be
 amputated. But only four fingers are to be amputated and the palm of his
 hand should not be included; for, the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلا تَدْعُوا مَعَ اللَّهِ أَحَدًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلا تَدْعُوا مَعَ اللَّهِ أَحَدًا ﴾
 
 ***“The places of worship belong to Allah, so do not invoke anyone along
 with Allah.”***[^86]
@@ -1431,11 +1203,7 @@ The reason why the prayers of Muslims today are ineffective is that only
 a part of the injunctions of the Qur’an are practiced while other parts
 are forgotten. In this regard, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَقيمُوا الصَّلاةَ وَ آتُوا الزَّكاةَ وَ أَطيعُوا الرَّسُولَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَقيمُوا الصَّلاةَ وَ آتُوا الزَّكاةَ وَ أَطيعُوا الرَّسُولَ ﴾
 
 ***“Maintain the prayer and give the zakat, and obey the
 Apostle.”***[^88]
@@ -1447,12 +1215,8 @@ they have faith in God but they do not deny the *taghut*. This is
 defective faith.  
  God says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَمَنْ يَكْفُرْ بِالطّاغُوتِ وَ يُؤْمِنْ بِاللّهِ فقد استَمْسَكَ
-بِالْعُرْوَةِ الْوُثْقى ﴾
-  </p>
-</blockquote>
+> ﴿ فَمَنْ يَكْفُرْ بِالطّاغُوتِ وَ يُؤْمِنْ بِاللّهِ فقد استَمْسَكَ
+> بِالْعُرْوَةِ الْوُثْقى ﴾
 
 ***“So one who disavows the Rebels {taghut} and has faith in Allah has
 held fast to the firmest handle.”***[^89]
@@ -1462,11 +1226,7 @@ required. Yet, nowadays Muslims have forgotten the declaration of
 disavowal of the *taghut*s and infidels. So, concerning those who turn
 to the *taghut*, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَ لَمْ تَرَ إِلَى الَّذينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا ﴾
-  </p>
-</blockquote>
+> ﴿ أَ لَمْ تَرَ إِلَى الَّذينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا ﴾
 
 ***“Have you not regarded those who claim that they believe…?”***[^90]
 
@@ -1491,12 +1251,8 @@ for a particular reason. Worship has various stages:
 **First step:** Some people worship God to express gratitude to Him for
 His graces. In addressing the common people, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ ٭ الَّذِي أَطْعَمَهُمْ مِنْ
-جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ ﴾
-  </p>
-</blockquote>
+> ﴿ فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ ٭ الَّذِي أَطْعَمَهُمْ مِنْ
+> جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ ﴾
 
 ***“Let them worship the Lord of this House, who has fed them {and saved
 them} from hunger, and secured them from fear.”***[^91]
@@ -1510,11 +1266,7 @@ that he loves them!
 blessings of worship and they pay attention to the spiritual and
 religious effects of prayer. As the Qur’an discloses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّ الصَّلاةَ تَنْهى‏ عَنِ الْفَحْشاءِ وَ الْمُنْكَرِ ﴾
 
 ***“Indeed the prayer prevents indecencies and wrongs.”***[^92]
 
@@ -1525,11 +1277,7 @@ deviations and dangers.
  Third step: This is a higher step or stage of worship. God says to
 Hadrat Musa (Moses) (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَأَقِمِ الصَّلاةَ لِذِكْرِي ﴾
-  </p>
-</blockquote>
+> ﴿ وَأَقِمِ الصَّلاةَ لِذِكْرِي ﴾
 
 ***“And maintain the prayer for My remembrance.”***[^93]
 
@@ -1557,11 +1305,7 @@ prostration {*sujud*} incumbent on the one who recites any of them. One
 of these verses mentions the same issue of nearness {*qurb*} to Allah
 through worship. The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاسْجُدْ وَاقْتَرِبْ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاسْجُدْ وَاقْتَرِبْ ﴾
 
 ***“But prostrate and draw near {to Allah}.”***[^95]
 
@@ -1574,23 +1318,15 @@ The visage of worship {‘ibadah}
 • Worship {*‘ibadah*} and servitude {*‘ubudiyyah*} brought the Messenger
 of Allah (S) to ascension {*mi‘raj*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿ سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَى ﴾
-  </p>
-</blockquote>
+> ﴿ سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَى ﴾
 
 ***“Immaculate is He who carried His servant on a journey by night from
 the Sacred Mosque to the Farthest Mosque.”***[^96]
 
 • Worship paves the ground for the descent of angels:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا ﴾
-  </p>
-</blockquote>
+> ﴿ وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا ﴾
 
 ***“We have sent down (the revelation through angels) to Our
 servant.”***[^97]
@@ -1599,22 +1335,14 @@ servant.”***[^97]
 the covenant of God[^98] and whoever fulfills the covenant of God, God
 in turn will also fulfill his covenant:
 
-<blockquote dir="rtl">
-  <p>
-﴿ أَوْفُوا بِعَهْدي أُوفِ بِعَهْدِكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ أَوْفُوا بِعَهْدي أُوفِ بِعَهْدِكُمْ ﴾
 
 ***“And fulfill My covenant that I may fulfill your covenant.”***[^99]
 
 • The person who does not worship God is more abject than stones and
 other inanimate objects, for the Qur’an reveals:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ إِنَّ مِنْها لَما يَهْبِطُ مِنْ خَشْيَةِ اللّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ إِنَّ مِنْها لَما يَهْبِطُ مِنْ خَشْيَةِ اللّهِ ﴾
 
  ***“And indeed there are some of them (stones) that fall for the fear
 of Allah.”***[^100]
@@ -1664,21 +1392,13 @@ supplications and requests are not granted.
 God gives the glad tidings of *Kawthar* to His Prophet (S), He exhorts
 him to pray:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ٭ فَصَلِّ لِرَبِّكَ وَانْحَرْ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ٭ فَصَلِّ لِرَبِّكَ وَانْحَرْ ﴾
 
 ***“Indeed We have given you abundance. So pray to your Lord.”***[^101]
 
 God also enjoins prayer in facing difficulties and painful events:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلاَةِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَاسْتَعِينُواْ بِالصَّبْرِ وَالصَّلاَةِ ﴾
 
 ***“And take recourse in patience and prayer.”***[^102]
 
@@ -1742,17 +1462,13 @@ giving testimony {*shahadah*} should be after the recitation of prayers.
 
 In *Surah al-Ma’idah* 5:106, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ
-أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ
-أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الأرْضِ
-فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ تَحْبِسُونَهُمَا مِنْ بَعْدِ
-الصَّلاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لا نَشْتَرِي بِهِ
-ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَى وَلا نَكْتُمُ شَهَادَةَ اللَّهِ
-إِنَّا إِذًا لَمِنَ الآثِمِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ
+> أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ
+> أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الأرْضِ
+> فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ تَحْبِسُونَهُمَا مِنْ بَعْدِ
+> الصَّلاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لا نَشْتَرِي بِهِ
+> ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَى وَلا نَكْتُمُ شَهَادَةَ اللَّهِ
+> إِنَّا إِذًا لَمِنَ الآثِمِينَ ﴾
 
 ***“O you who have faith! The witness between you, when death approaches
 any of you, while making a bequest, shall be two fair men from among
@@ -1795,17 +1511,9 @@ latent in man.
 
 There is a poem attributed to Hadrat ‘Ali (*‘a*) which states:
 
-<blockquote dir="rtl">
-  <p>
-أتزعَم انّكَ جرمٌ صغير
-  </p>
-</blockquote>
+> أتزعَم انّكَ جرمٌ صغير
 
-<blockquote dir="rtl">
-  <p>
-و فيك ٱنظرى العالم الاكبر
-  </p>
-</blockquote>
+> و فيك ٱنظرى العالم الاكبر
 
 *O man! You imagine that you constitute a small body where in fact a big
 world is placed in you.*
@@ -1919,12 +1627,8 @@ Migration {*hijrah*} is one of the most important values in our
 religion. Hadrat Ibrahim (Abraham) (*‘a*) migrated on account of prayer,
 bringing his wife and son to the *Ka‘bah* and saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
-عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ الصَّلاَةَ ﴾
-  </p>
-</blockquote>
+> ﴿ رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ
+> عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ الصَّلاَةَ ﴾
 
 ***“O Lord! I have settled part of my descendants in a barren valley, by
 Your sacred House, our Lord, that they may maintain the
@@ -1940,11 +1644,7 @@ for prayer.
 If adornment and hygiene constitute a value (as they do), Islam thus
 enjoins:
 
-<blockquote dir="rtl">
-  <p>
-﴿ خُذُوا زينَتَكُمْ عِنْدَ كُلّ‏ِ مَسْجِدٍ ﴾
-  </p>
-</blockquote>
+> ﴿ خُذُوا زينَتَكُمْ عِنْدَ كُلّ‏ِ مَسْجِدٍ ﴾
 
 ***“Put on your adornment on every occasion of prayer.”***[^114]
 
@@ -2370,5 +2070,4 @@ Muslim witnesses during journey. {Q Trans.}
 dedicate to You what is in my belly, in consecration.”
 
 [^120]: Bihar al-Anwar, vol. 2, p. 41.
-
 

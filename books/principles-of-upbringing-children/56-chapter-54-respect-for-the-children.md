@@ -101,4 +101,3 @@ what I said was right for the occasion or not"
 
 [^2]: Hadiya al ahbab, p. 176
 
-

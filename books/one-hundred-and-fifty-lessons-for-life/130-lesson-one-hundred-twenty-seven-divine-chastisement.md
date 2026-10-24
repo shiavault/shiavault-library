@@ -3,13 +3,9 @@ Lesson One Hundred Twenty Seven: Divine Chastisement
 
 Imam Al-Baqir (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلّهِ عُقُوباتٌ فِى الْقُلُوبِ وَ الأَبْدان: ضَنْكٌ فِى
-الْمَعيشَةِ وَ وَهْنٌ فِى الْعِبادَةِ وَ ما ضُرِبَ عَبْدٌ بِعُقُوبَة
-أَعْظَمُ مِنْ قَسْوَةِ الْقَلْبِ!
-  </p>
-</blockquote>
+> إِنَّ لِلّهِ عُقُوباتٌ فِى الْقُلُوبِ وَ الأَبْدان: ضَنْكٌ فِى
+> الْمَعيشَةِ وَ وَهْنٌ فِى الْعِبادَةِ وَ ما ضُرِبَ عَبْدٌ بِعُقُوبَة
+> أَعْظَمُ مِنْ قَسْوَةِ الْقَلْبِ!
 
 Translation
 -----------
@@ -30,5 +26,4 @@ becomes devoid of humanitarian feelings, philanthropy and sympathy, and
 leads to perpetration of cruelty and many other sins.
 
 [^1]: Tuhaful Uqul, page 217
-
 

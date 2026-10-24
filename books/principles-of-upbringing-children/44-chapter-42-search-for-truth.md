@@ -130,4 +130,3 @@ has prepared me well to face the problems of life wisely.”*.*
 
 [^2]: Gharar al hukm, p. 302
 
-

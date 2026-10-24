@@ -274,4 +274,3 @@ knowledge of God.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1. Traditional saying of Muhammad.
 
-

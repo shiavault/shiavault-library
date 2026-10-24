@@ -168,4 +168,3 @@ girls.
 [^4]: A Muslim who believes and follows the twelve successors (Imams)
 explicitly expressed by the Holy Prophet of Islam through Divine Will.
 
-

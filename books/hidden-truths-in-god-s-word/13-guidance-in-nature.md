@@ -3,11 +3,7 @@ Guidance in Nature
 
 > وَأَلْقَى فِي الأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِكُمْ وَأَنْهَارًا
 > وَسُبُلاً لَّعَلَّكُمْ تَهْتَدُونَ {o} وَعَلامَاتٍ وَبِالنَّجْمِ هُمْ
-<blockquote dir="rtl">
-  <p>
-يَهْتَدُونَ
-  </p>
-</blockquote>
+> يَهْتَدُونَ
 
 ***And He has cast great mountains in the earth lest it might be
 convulsed with you, and rivers and roads that you may go aright; and
@@ -137,11 +133,7 @@ guide them in the course of their amazing lives.
 
 When Musa (A) was asked by Fir‘awn to introduce his Lord, he replied,
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى
-  </p>
-</blockquote>
+> قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى
 
 ***Our Lord is He Who gave to everything its creation, then guided it
 (to its goal) [Ta Ha, 20/50].***
@@ -200,11 +192,7 @@ are amazingly able to return unerringly to their homes.
 
 However, according to the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَخُلِقَ الإِنسَانُ ضَعِيفًا
-  </p>
-</blockquote>
+> وَخُلِقَ الإِنسَانُ ضَعِيفًا
 
 ***And man is created weak. (al-Nisa’, 4/27)***
 
@@ -254,11 +242,7 @@ the land and the seas. The system of the movement of the planets, stars,
 sun and moon as they follow their ordained orbits, all serve to guide
 man:
 
-<blockquote dir="rtl">
-  <p>
-وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
 
 ***And by the stars they find the right way. (al-Nahl, 16/16)***
 
@@ -289,12 +273,8 @@ the existence of the Source of creation and be thus inspired and guided.
 
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا
-لَّعَلَّكُمْ تَهْتَدُونَ
-  </p>
-</blockquote>
+> الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا
+> لَّعَلَّكُمْ تَهْتَدُونَ
 
 ***He Who made the earth a resting-place for you, and made ways in it
 for you so that you may be guided aright (al-Zukhruf, 43/9)***
@@ -314,5 +294,4 @@ from that of a layman who makes a simple study of the animal, however,
 even though both look at creation from different angles, they come to
 the same conclusion.  
   
-
 

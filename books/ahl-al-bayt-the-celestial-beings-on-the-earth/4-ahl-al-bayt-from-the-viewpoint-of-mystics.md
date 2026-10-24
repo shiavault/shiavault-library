@@ -82,20 +82,12 @@ camel too was one of the camels of Paradise. This is the good gift you
 offered to Allah by helping that beggar. Allah, may He be honored and
 glorified, has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا
 
 ***Who is it that will offer to Allah a goodly gift (2:245)***[^2]
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا
-وَعَلَانِيَةً
-  </p>
-</blockquote>
+> الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا
+> وَعَلَانِيَةً
 
 ***As for those who spend their property by night and by day, secretly
 and openly… (2:274)***
@@ -109,11 +101,7 @@ The members of the *Mubahalah* (mutual curse) were five: the Holy
 Prophet, Lady Fatimah, Imam Ali, Imam Hasan and Imam Husayn. The Holy
 Prophet put his mantle upon them saying,
 
-<blockquote dir="rtl">
-  <p>
-ألَّهُمَّ هَؤُلأءِ أهْلُ بَيْتِي.
-  </p>
-</blockquote>
+> ألَّهُمَّ هَؤُلأءِ أهْلُ بَيْتِي.
 
 “O Allah, these are my Household.”
 
@@ -121,12 +109,8 @@ At this moment, Archangel Gabriel came and said, “O Muhammad! am I from
 your Household?” The Holy Prophet said, “You are from us.” Taking pride
 in this, Archangel Gabriel said,
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مِثْلي؟ وَأنَا فِي السَّمَاءِ طَاوُسُ الْمَلأئِةِ، وَفِي الأرْضِ
-مِن أهْلِ بَيتِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> مَنْ مِثْلي؟ وَأنَا فِي السَّمَاءِ طَاوُسُ الْمَلأئِةِ، وَفِي الأرْضِ
+> مِن أهْلِ بَيتِ مُحَمَّدٍ.
 
 “Who can be like me while I am the chief of angels in heavens and a
 member of Muhammad’s Household?”[^3]
@@ -144,12 +128,8 @@ master of the *Muhajirun and Ansar*.
 
 A day before the Conquest of Khaybar, the Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لأعْطِيَّنَّ الْرَّايَةَ غَداً رَجُلاً يَفْتَحُ اللَّهُ عَلَى يَدَيهِ،
-يُحِبُّ اللَّه وَ رَسُولَهُ، وَيُحِبٌّهُ اللَّهُ وَرَسُولُهُ
-  </p>
-</blockquote>
+> لأعْطِيَّنَّ الْرَّايَةَ غَداً رَجُلاً يَفْتَحُ اللَّهُ عَلَى يَدَيهِ،
+> يُحِبُّ اللَّه وَ رَسُولَهُ، وَيُحِبٌّهُ اللَّهُ وَرَسُولُهُ
 
 Tomorrow, I will give this standard to a man who loves Allah and His
 Messenger and Allah and His Messenger love him.
@@ -247,12 +227,8 @@ not believe in his offspring does not truly believe in Muhammad (S). A
 Shafiite love for Ahl al-Bayt was to the extent that he was accused of
 being heretic hence put in jail. He too composed a line of poem saying:
 
-<blockquote dir="rtl">
-  <p>
-رَفْضاً حُبُّ آلِ مُحَمَّدٍ فَلْيَشْهَدِ الْثَقَلأنِ أنِّ رَافِضِي
-لَوْ كانَ
-  </p>
-</blockquote>
+> رَفْضاً حُبُّ آلِ مُحَمَّدٍ فَلْيَشْهَدِ الْثَقَلأنِ أنِّ رَافِضِي
+> لَوْ كانَ
 
 If love for Muhammad's Family is heresy, let all jinn and men testify to
 my heresy.
@@ -274,11 +250,7 @@ said, “O Son of Allah”s Messenger! This is not becoming for Ahl
 al-Bayt!” The Imam took the hand of the person into his sleeve. He had
 worn coarse woolen clothes stinging the arm. Al-Sadiq (a.s) said,
 
-<blockquote dir="rtl">
-  <p>
-هَذَا لِلْحَقَّ وَهَذَا لِلْخَلَقِ!
-  </p>
-</blockquote>
+> هَذَا لِلْحَقَّ وَهَذَا لِلْخَلَقِ!
 
 “This is for Allah, and that is for people.”
 
@@ -294,11 +266,7 @@ He was known as well versed in all sciences, knowledge, and fine points.
 He was renowned for argumentation and demonstrative proof. Commenting on
 this holy verse:
 
-<blockquote dir="rtl">
-  <p>
-... فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّه
-  </p>
-</blockquote>
+> ... فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّه
 
 ***Whoever disbelieves in Shaitan and believes in Allah…)2:256)***
 
@@ -617,12 +585,8 @@ Be it known to you that the truths and secrets in the Holy Quran are
 Divine truths and secrets descended on purified souls from a sacred
 realm. Allah Himself has said,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقُرْآنٌ كَرِيمٌ فِي كِتَابٍ مَكْنُونٍ لَا يَمَسُّهُ إِلَّا
-الْمُطَهَّرُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَقُرْآنٌ كَرِيمٌ فِي كِتَابٍ مَكْنُونٍ لَا يَمَسُّهُ إِلَّا
+> الْمُطَهَّرُونَ
 
 ***Most surely it is an honored Quran, in a book that is protected; none
 shall touch it save the purified ones. (56:77-79)***
@@ -631,12 +595,8 @@ Therefore, the Holy Quran is not revealed to anyone but those who have
 attained perfection and are free from sins and disobedience called
 uncleanness. Again Allah says,
 
-<blockquote dir="rtl">
-  <p>
-الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ
-وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ
-  </p>
-</blockquote>
+> الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ
+> وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ
 
 ***Unclean things are for unclean ones and unclean ones are for unclean
 things and the good things are for good ones and the good ones are for
@@ -650,12 +610,8 @@ monotheism. Therefore, no one else can be included in their group as it
 has been pointed out by the elder Sheikhs. In this connection Allah
 says,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***Allah only desires to keep away the uncleanness from you, O people of
 the House, and to purify you a thorough purifying. (33:33)***
@@ -676,31 +632,19 @@ quote the following as a proof for those who deny it:
 Know this! May Allah support you! Jafar ibn Muhammad al-Sadiq in a
 Hadith has reported Allah’s Messenger as saying,
 
-<blockquote dir="rtl">
-  <p>
-مَوْلَى الْقَومِ مِنْهُمْ.
-  </p>
-</blockquote>
+> مَوْلَى الْقَومِ مِنْهُمْ.
 
 The servant of each nation is a person from among them.
 
 Allah’s Messenger has also said,
 
-<blockquote dir="rtl">
-  <p>
-أهْلُ الْقُرَانِ هُمْ أهْلُاللَّهِ وَ خَاصَّتُهُ.
-  </p>
-</blockquote>
+> أهْلُ الْقُرَانِ هُمْ أهْلُاللَّهِ وَ خَاصَّتُهُ.
 
 The people of the Holy Quran are men of Allah and His favorites."
 
 Allah too says,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ 
-  </p>
-</blockquote>
+> إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ
 
 ***Surely as for My servants, you (Satan) have no authority over them.
 (17:65)***
@@ -732,11 +676,7 @@ They are actually the paragon of purification. The following Quranic
 verse indicates that Allah has made Ahl al-Bayt share His forgiveness
 with His Messenger:
 
-<blockquote dir="rtl">
-  <p>
-لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ
-  </p>
-</blockquote>
+> لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ
 
 ***Allah may forgive your community their past faults and those to
 follow (48:2)***
@@ -860,5 +800,4 @@ Rahnama Publication, 2000
 [^25]: Tafsir al-Muhit al-Azam: 447/1
 
 [^26]: Yanabi al-Mawaddah: 174/3, Chapter: 65
-
 

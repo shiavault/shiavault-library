@@ -35,6 +35,3 @@ same customs continue between Muslim men and women. Muslim women should
 continue to fulfill these natural duties, and in times of need they have
 been capable that to gain benefits from their legal rights.
 
-
-
-

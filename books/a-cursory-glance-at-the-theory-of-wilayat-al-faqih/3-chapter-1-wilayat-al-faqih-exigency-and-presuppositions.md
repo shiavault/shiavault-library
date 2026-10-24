@@ -240,11 +240,7 @@ rule and to designate the ruler is ascribed to God, the Exalted—the Lord
 and the Real Owner of everything who s created the world and all beings
 including man:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لِّلَّهِ ما فِي السَّمَاواتِ وَمَا فِي الأَرْضِ ﴾
-  </p>
-</blockquote>
+> ﴿ لِّلَّهِ ما فِي السَّمَاواتِ وَمَا فِي الأَرْضِ ﴾
 
 ***“To Allah belongs whatever is in the heavens and whatever is in the
 earth.”***[^6]
@@ -422,5 +418,4 @@ scores of speeches. Imām Khomeinī said of Mutahharī: “His written and
 spoken words are, without exception, educational and enlivening… I
 recommend that the students and intellectual group not to let
 Mutahharī’s words be forgotten by un-Islamic tricks…” [Trans.]
-
 

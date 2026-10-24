@@ -94,4 +94,3 @@ Dar al-Malak publishers, Beirut, 2nd edition, 1998.
 34. Reply of his eminence to the queries forwarded to some of our
 religious authorities (*maraji'*) in Holy Qom.
 
-

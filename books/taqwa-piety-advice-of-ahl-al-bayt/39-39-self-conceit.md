@@ -250,4 +250,3 @@ not only useless, but also harmful.
 
 [^17]: Mi‘raj al-Sa‘adah, p. 213.
 
-

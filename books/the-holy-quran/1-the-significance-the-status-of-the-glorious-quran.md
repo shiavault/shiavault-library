@@ -241,4 +241,3 @@ The Prophet himself has shown that the tradition, hadith, known as the
 hadith (2) al-thaqalayn which all sects of Islam accept, refers
 specifically to this matter of succession.
 
-

@@ -75,7 +75,6 @@ science. This essay looks into the forces and influences that made for
 the perfecting of philosophy and outlines the work of the more notable
 philosophers of the Period of Perfection.
 
-
 **Part I: The Factors of Perfection in Philosophy**
 
 **Factors**
@@ -322,7 +321,6 @@ a great deal of philosophical knowledge; for members of these religious
 families went everywhere and were often forced to meet on philosophical
 grounds the thinkers of non-Christian persuasions.
 
-
 **Part II: From Anselm to Albert the Great**
 **Anselm**
 
@@ -494,5 +492,4 @@ evil; but a good intention cannot save a bad act and make it good. The
 norm of morality is The Eternal Law; it is applied by human reason
 judging on the objective right or wrong of a situation here and now to
 be decided; in this service, human reason is called conscience.
-
 

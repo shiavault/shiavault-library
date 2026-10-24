@@ -4562,4 +4562,3 @@ the timing is explained according to our system of calculation.
 
 [^15]: See Surah Saad 38:59-63.
 
-

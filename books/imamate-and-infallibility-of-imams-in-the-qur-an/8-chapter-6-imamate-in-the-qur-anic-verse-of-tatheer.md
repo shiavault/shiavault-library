@@ -1,12 +1,8 @@
 Chapter 6: Imamate in the Qur’anic Verse of Tatheer
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَ يُطَهِّرَكُمْ تَطْهِيراً ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَ يُطَهِّرَكُمْ تَطْهِيراً ﴾
 
 **“*****Allah only desires to keep away the uncleanness from you, O
 people of the House and to purify you a*** **(*****thorough*****)**
@@ -1075,12 +1071,8 @@ can be in the transitive form whether with or without the letter “ل”.
 
 Now, let us consider the following examples:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلا تُعْجِبْكَ أَمْوالُهُمْ وَ لا أَوْلادُهُمْ إِنَّما يُرِيدُ
-اللَّهُ لِيُعَذِّبَهُمْ بِها فِي الْحَياةِ الدُّنْيا﴾
-  </p>
-</blockquote>
+> ﴿فَلا تُعْجِبْكَ أَمْوالُهُمْ وَ لا أَوْلادُهُمْ إِنَّما يُرِيدُ
+> اللَّهُ لِيُعَذِّبَهُمْ بِها فِي الْحَياةِ الدُّنْيا﴾
 
 “***Let not then their property and their children excite your
 admiration; Allah only wishes to chastise them with these in this
@@ -1088,34 +1080,22 @@ world’s life…*****”**[^55]
 
 Also:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ لا تُعْجِبْكَ أَمْوالُهُمْ وَ أَوْلادُهُمْ إِنَّما يُرِيدُ
-اللَّهُ أَنْ يُعَذِّبَهُمْ بِها فِي الدُّنْيا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ لا تُعْجِبْكَ أَمْوالُهُمْ وَ أَوْلادُهُمْ إِنَّما يُرِيدُ
+> اللَّهُ أَنْ يُعَذِّبَهُمْ بِها فِي الدُّنْيا ﴾
 
 “***And let not their property and their children excite your
 admiration; Allah only wishes to chastise them with these in this
 world*****”*****.***[^56].
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُرِيدُونَ أَنْ يُطْفِؤُا نُورَ اللَّهِ بِأَفْواهِهِمْ وَ يَأْبَى
-اللَّهُ إِلاَّ أَنْ يُتِمَّ نُورَهُ وَ لَوْ كَرِهَ الْكافِرُونَ﴾
-  </p>
-</blockquote>
+> ﴿ يُرِيدُونَ أَنْ يُطْفِؤُا نُورَ اللَّهِ بِأَفْواهِهِمْ وَ يَأْبَى
+> اللَّهُ إِلاَّ أَنْ يُتِمَّ نُورَهُ وَ لَوْ كَرِهَ الْكافِرُونَ﴾
 
 **“*****They desire to put out the light of Allah with their mouths, and
 Allah will not consent save to perfect His light though the unbelievers
 are averse*****”*****.***[^57]
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُرِيدُونَ لِيُطْفِؤُا نُورَ اللَّهِ بِأَفْواهِهِمْ وَ اللَّهُ
-مُتِمُّ نُورِهِ وَ لَوْ كَرِهَ الْكافِرُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ يُرِيدُونَ لِيُطْفِؤُا نُورَ اللَّهِ بِأَفْواهِهِمْ وَ اللَّهُ
+> مُتِمُّ نُورِهِ وَ لَوْ كَرِهَ الْكافِرُونَ ﴾
 
 **“*****They desire to put out the light of Allah with their mouths, but
 Allah will perfect His light, though the unbelievers may be
@@ -1763,5 +1743,4 @@ Thaqalayn an Manzilat, by Rida Kardan.
 of Ali ibn Abi Talib, peace be on him”.
 
 [^63]: – Surah 11, verse 46.
-
 

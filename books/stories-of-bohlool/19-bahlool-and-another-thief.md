@@ -49,4 +49,3 @@ but he was not going to be and could not be found. After a while the
 cobbler finally understood that Bahlool had tricked him, and so had got
 his money back.
 
-

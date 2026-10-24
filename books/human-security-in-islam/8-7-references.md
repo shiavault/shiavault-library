@@ -72,4 +72,3 @@ Hassan, Jawhar Mohamad; Ramnath, Thangam (Eds):*Conceptualizing
 Asia-Pacific Region.* (Kuala Lumpur: Institute of Strategic and
 International Studies.
 
-

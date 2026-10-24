@@ -78,7 +78,6 @@ To gain control and mastery of one-self and to get rid of the influence
 of impulses and drives are the true objects of Islamic training which
 aims at spiritual freedom.
 
-
 **Self-Consciousness**
 
 Islam very keenly wants that man should know himself and should find
@@ -147,5 +146,4 @@ Man should know that he is a trustee appointed by Allah and that he has
 not gained superiority by chance. Hence it does not befit him to
 despotically acquire everything for himself and think that he has no
 responsibility or duty.
-
 

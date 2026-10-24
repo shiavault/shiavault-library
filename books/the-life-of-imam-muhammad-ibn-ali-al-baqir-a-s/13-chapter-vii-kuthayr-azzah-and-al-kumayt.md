@@ -1454,75 +1454,75 @@ he passed away.
 
 ###
 
-[^1] Al-Darajat al-Rafi‘a fi Tabaqat al-Shi‘a, p.[^587]:
+[^1]: Al-Darajat al-Rafi‘a fi Tabaqat al-Shi‘a, p.587.
 
-[^2] Wafayat al-A‘yan, vol.3, p.[^266]:
+[^2]: Wafayat al-A‘yan, vol.3, p.266.
 
-[^3] Al-Murtada, al-Amali, vol.1, p.[^283]:
+[^3]: Al-Murtada, al-Amali, vol.1, p.283.
 
-[^4] Al-A‘lam, vol.6, p.[^72]:
+[^4]: Al-A‘lam, vol.6, p.72.
 
-[^5] Akhbar Shu‘ara’ al-Shi‘a, p.[^62]:
+[^5]: Akhbar Shu‘ara’ al-Shi‘a, p.62.
 
-[^6] Wafayat al-A‘yan, vol.[^1]: p.269.
+[^6]: Wafayat al-A‘yan, vol.1. p.269.
 
-[^7] Al-Darajat al-Rafi‘a, p.[^590]:
+[^7]: Al-Darajat al-Rafi‘a, p.590.
 
-[^8] Al-Aghani, vol.8, p.[^25]:
+[^8]: Al-Aghani, vol.8, p.25.
 
-[^9] Ibid, vol.15, p.[^115]:
+[^9]: Ibid, vol.15, p.115.
 
-[^10] Roudat al-Jinan, vol.6, p.[^59]:
+[^10]: Roudat al-Jinan, vol.6, p.59.
 
-[^11] Al-Ghadir, vol.2, p.[^211]:
+[^11]: Al-Ghadir, vol.2, p.211.
 
-[^12] Khazanat al-Adab, vol.1, p.[^99]:
+[^12]: Khazanat al-Adab, vol.1, p.99.
 
-[^13] Al-Aghani, vol.15, p.[^124]:
+[^13]: Al-Aghani, vol.15, p.124.
 
-[^14] Al-Tatawir wa al-Tajjdid, p.[^241]:
+[^14]: Al-Tatawir wa al-Tajjdid, p.241.
 
-[^15] Ibid, p.[^240]:
+[^15]: Ibid, p.240.
 
-[^16] Al-Hashimiyat, pp.41-[^42]:
+[^16]: Al-Hashimiyat, pp.41-[^42]:
 
-[^17] Ibid, p.[^42]:
+[^17]: Ibid, p.42.
 
-[^18] Hayat al-Shi‘r fi al-Kufa, p.[^713]:
+[^18]: Hayat al-Shi‘r fi al-Kufa, p.713.
 
-[^19] Al-Hashimiyat, p.[^40]:
+[^19]: Al-Hashimiyat, p.40.
 
-[^20] Koran, al-Shura, [^23]:
+[^20]: Koran, al-Shura, [^23]:
 
-[^21] Koran, al-Ahzab, p.[^33]:
+[^21]: Koran, al-Ahzab, p.33.
 
-[^22] Koran, al-Isra’, [^26]:
+[^22]: Koran, al-Isra’, [^26]:
 
-[^23] Koran, al-Anfal, [^41]:
+[^23]: Koran, al-Anfal, [^41]:
 
-[^24] Roudat al-Jinan, vol.6, p.[^56]:
+[^24]: Roudat al-Jinan, vol.6, p.56.
 
-[^25] Ta’sis al-Shi‘a li ‘Ulum al-Islam, [^189]:
+[^25]: Ta’sis al-Shi‘a li ‘Ulum al-Islam, [^189]:
 
-[^26] The days of bright nights are the thirteenth, the
+[^26]: The days of bright nights are the thirteenth, the
 
 fourteenth, and the fifteenth. Their nights are called
 
 bright because the moon shines throughout them.
 
-[^27] Al-Ghadir, vol.2, p.[^200]:
+[^27]: Al-Ghadir, vol.2, p.200.
 
-[^28] Qasas al-‘Arab, vol.2, p.[^269]: Murujj al-Dhahab, vol.2, p.195.
+[^28]: Qasas al-‘Arab, vol.2, p.269. Murujj al-Dhahab, vol.2, p.195.
 
-[^29] Maqatil al-Talibiyyin, p.[^84]:
+[^29]: Maqatil al-Talibiyyin, p.84.
 
-[^30] A‘yan al-Shi‘a, 1/4/515-[^516]:
+[^30]: A‘yan al-Shi‘a, 1/4/515-[^516]:
 
-[^31] Murujj al-Dhahab, vol.2, p.[^195]:
+[^31]: Murujj al-Dhahab, vol.2, p.195.
 
-[^32] Al-Marzbani, Akhbar Shu‘ra’ al-Shi‘a, p.[^72]:
+[^32]: Al-Marzbani, Akhbar Shu‘ra’ al-Shi‘a, p.72.
 
-[^33] The Tradition of al-Ghadir is repeatedly narrated
+[^33]: The Tradition of al-Ghadir is repeatedly narrated
 
 by successive narrators. All Moslems have unanimously
 
@@ -1530,32 +1530,32 @@ on its narration. All (the books called) al-Sihah have
 
 mentioned it.
 
-[^34] Al-Hashimiyat, pp.81-[^82]:
+[^34]: Al-Hashimiyat, pp.81-[^82]:
 
-[^35] Akhbar Shu‘ara’ al-Shi‘a, pp.72-[^73]:
+[^35]: Akhbar Shu‘ara’ al-Shi‘a, pp.72-[^73]:
 
-[^36] Mu‘jam al-Shu‘ara’, p.[^348]:
+[^36]: Mu‘jam al-Shu‘ara’, p.348.
 
-[^37] Ibid.
+[^37]: Ibid.
 
-[^38] Al-Aghani, vol.15, p.[^129]:
+[^38]: Al-Aghani, vol.15, p.129.
 
-[^39] Hayat al-Imam Musa b. Ja‘far, p.1, p.[^315]:
+[^39]: Hayat al-Imam Musa b. Ja‘far, p.1, p.315.
 
-[^40] Duha al-Islam, vol.3, p.[^206]:
+[^40]: Duha al-Islam, vol.3, p.206.
 
-[^41] Al-Aghani, vol.15, p.[^114]:
+[^41]: Al-Aghani, vol.15, p.114.
 
-[^42] Muqaddamat al-Hashimiyat, p.[^17]:
+[^42]: Muqaddamat al-Hashimiyat, p.17.
 
-[^43] Ibid.
+[^43]: Ibid.
 
-[^44] Al-Ghadir, vol.2, p.[^206]:
+[^44]: Al-Ghadir, vol.2, p.206.
 
-[^45] Al-Aghani, vol.15, pp.115-[^119]:
+[^45]: Al-Aghani, vol.15, pp.115-[^119]:
 
-[^46] Ibid, p.[^126]:
+[^46]: Ibid, p.126.
 
-[^47] Ibid, p.[^121]:
+[^47]: Ibid, p.121.
 
-[^48] Ibid, p.[^130]:
+[^48]: Ibid, p.130.

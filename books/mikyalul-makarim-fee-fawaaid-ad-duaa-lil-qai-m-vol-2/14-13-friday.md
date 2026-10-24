@@ -21,15 +21,11 @@ is as follows:
 > وتمتعه منها (7) طويلا وتجعله وذريته فيها الأئمة الوارثين واجمع له شمله
 > وأكمل له أمره وأصلح له رعيته وثبت ركنه وافرغ النصر(8) منك عليه حتى
 > ينتقم فيشتفي ويشفي حزازات(9) قلوب نغلة وحرارات صدور وغرة وحسرات أنفس
-<blockquote dir="rtl">
-  <p>
-ترحة، من دماء مسفوكة، وأرحام مقطوعة، وطاعة مجهولة، قد احسنت إليه
-البلاء، ووسعت عليه الآلاء، وأتممت عليه النعماء، في حسن الحفظ منك له.
-اللهم اكفه هول عدوه وأنسهم ذكره وأرد من أراده، وكد من كاده، وامكر بمن
-مكر به، واجعل دائرة السوء عليهم ... اللهم صل على محمد وآل محمد وعجل
-فرجهم 
-  </p>
-</blockquote>
+> ترحة، من دماء مسفوكة، وأرحام مقطوعة، وطاعة مجهولة، قد احسنت إليه
+> البلاء، ووسعت عليه الآلاء، وأتممت عليه النعماء، في حسن الحفظ منك له.
+> اللهم اكفه هول عدوه وأنسهم ذكره وأرد من أراده، وكد من كاده، وامكر بمن
+> مكر به، واجعل دائرة السوء عليهم ... اللهم صل على محمد وآل محمد وعجل
+> فرجهم
 
 O Allah, be for Your Wali among Your creatures, a protector, a guard, a
 leader and helper, till he lives in Your earth in peace and enjoys it
@@ -50,11 +46,7 @@ for him.
 
 At its end, say a hundred times:[^1]
 
-<blockquote dir="rtl">
-  <p>
- اللهم صل على محمد وآل محمد وعجل فرجهم
-  </p>
-</blockquote>
+>  اللهم صل على محمد وآل محمد وعجل فرجهم
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance.
@@ -65,11 +57,7 @@ aims of all of them will be achieved and their goal achieved. It is also
 recommended for Friday, (like after the Dawn and Noon prayers everyday),
 one should say:
 
-<blockquote dir="rtl">
-  <p>
- اللهم صل على محمد وآل محمد وعجل فرجهم
-  </p>
-</blockquote>
+>  اللهم صل على محمد وآل محمد وعجل فرجهم
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance.
@@ -106,11 +94,7 @@ of Friday is it best to send blessings and salutations?’ Imam (as) said,
 ‘Hundred times. And the best time is after Asr.’ He asked, ‘And how
 should I say it?’ Imam (as) replied, ‘Say a hundred times:
 
-<blockquote dir="rtl">
-  <p>
- اللهم صل على محمد وآل محمد وعجل فرجهم
-  </p>
-</blockquote>
+>  اللهم صل على محمد وآل محمد وعجل فرجهم
 
 O Allah, bless Muhammad and the progeny of Muhammad and hasten their
 reappearance.
@@ -140,15 +124,11 @@ Samaat. It is the time when one can expect the invocations to be
 accepted. In the book Jamalus Saliheen, the following supplication has
 been narrated:
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك بحرمة هذا الدعاء وبما فات منه من الاسماء وبما يشتمل
-عليه من التفسير، والتدبير الذي لا يحيط به إلا أنت، أن تصلي على محمد
-وآل محمد، وأن تعجل فرجهم في عافية وتهلك أعداءهم في الدنيا والآخرة، وأن
-ترزقنا بهم خير ما نرجو وخير ما لا نرجو وتصرف بهم عنا شر ما نحذر، وشر
-ما لا نحذر، إنك على كل شئ قدير، وأنت أكرم الأكرمين.
-  </p>
-</blockquote>
+> اللهم إني أسألك بحرمة هذا الدعاء وبما فات منه من الاسماء وبما يشتمل
+> عليه من التفسير، والتدبير الذي لا يحيط به إلا أنت، أن تصلي على محمد
+> وآل محمد، وأن تعجل فرجهم في عافية وتهلك أعداءهم في الدنيا والآخرة، وأن
+> ترزقنا بهم خير ما نرجو وخير ما لا نرجو وتصرف بهم عنا شر ما نحذر، وشر
+> ما لا نحذر، إنك على كل شئ قدير، وأنت أكرم الأكرمين.
 
 O Allah, I request from You by the sanctity of this supplication and
 Your missing holy names in it and what it encompasses except You, to
@@ -163,15 +143,11 @@ all things and You are the most noble of the noble ones.
 In some other reliable books, another supplication has been mentioned
 that has to be recited after Dua-e-Samaat and it is as follows:
 
-<blockquote dir="rtl">
-  <p>
- اللهم بحق هذا الدعاء وبحق هذه الأسماء، التي لا يعلم تفسيرها ولا يعلم
-باطنها غيرك، افعل بي ما أنت أهله، ولا تفعل بي ما أنا أهله، وانتقم لي
-من ظالمي، وعجل فرج آل محمد وهلاك أعدائهم من الجن والانس، واغفر لي ما
-تقدم من ذنبي، وما تأخر ووسع علي من حلال رزقك، واكفني مؤنة انسان سوء،
-وشيطان سوء إنك على كل شئ قدير، والحمد لله رب العالمين.
-  </p>
-</blockquote>
+>  اللهم بحق هذا الدعاء وبحق هذه الأسماء، التي لا يعلم تفسيرها ولا يعلم
+> باطنها غيرك، افعل بي ما أنت أهله، ولا تفعل بي ما أنا أهله، وانتقم لي
+> من ظالمي، وعجل فرج آل محمد وهلاك أعدائهم من الجن والانس، واغفر لي ما
+> تقدم من ذنبي، وما تأخر ووسع علي من حلال رزقك، واكفني مؤنة انسان سوء،
+> وشيطان سوء إنك على كل شئ قدير، والحمد لله رب العالمين.
 
 O Allah, for the sake of this supplication and for the sake of all these
 names that its deep explanation is not known to anyone save You, send
@@ -220,5 +196,4 @@ in that book and those who like may refer to it.[^3]
 [^2]: Kafi, Vol. 3, Pg. 422; Al-Wafi, Vol. 8, Pg. 1149
 
 [^3]: Abwaabul Jannaat Fee Aadaab al-Jumuaat, Pg. 339
-
 

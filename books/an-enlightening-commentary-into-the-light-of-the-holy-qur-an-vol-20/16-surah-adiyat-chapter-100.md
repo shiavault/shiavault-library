@@ -8,11 +8,7 @@ Surah ‘Adiyat, Chapter 100
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -70,79 +66,31 @@ those who believe in its contents thoroughly and act accordingly.
 Surah ‘Adiyat, Verses 1-11
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالْعَادِيَاتِ ضَبْحًا
-  </p>
-</blockquote>
+> وَالْعَادِيَاتِ ضَبْحًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُورِيَاتِ قَدْحًا
-  </p>
-</blockquote>
+> فَالْمُورِيَاتِ قَدْحًا
 
-<blockquote dir="rtl">
-  <p>
-فَالْمُغِيرَاتِ صُبْحًا
-  </p>
-</blockquote>
+> فَالْمُغِيرَاتِ صُبْحًا
 
-<blockquote dir="rtl">
-  <p>
-فَأَثَرْنَ بِهِ نَقْعًا
-  </p>
-</blockquote>
+> فَأَثَرْنَ بِهِ نَقْعًا
 
-<blockquote dir="rtl">
-  <p>
-فَوَسَطْنَ بِهِ جَمْعًا
-  </p>
-</blockquote>
+> فَوَسَطْنَ بِهِ جَمْعًا
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ
-  </p>
-</blockquote>
+> إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ عَلَى ذَلِكَ لَشَهِيدٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ عَلَى ذَلِكَ لَشَهِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
-  </p>
-</blockquote>
+> وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
 
-<blockquote dir="rtl">
-  <p>
-أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ
-  </p>
-</blockquote>
+> أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ
 
-<blockquote dir="rtl">
-  <p>
-وَحُصِّلَ مَا فِي الصُّدُورِ
-  </p>
-</blockquote>
+> وَحُصِّلَ مَا فِي الصُّدُورِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ
-  </p>
-</blockquote>
+> إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ
 
 ***1. “By the panting chargers,"***  
 ***2. “And by those that sprint striking fire (with their hooves),"***  
@@ -559,5 +507,4 @@ our actions; treat us with Your Mercy and Kindness.*
 [^5]: Tafsir-i-Baydawi, p. 495.
 
 [^6]: Majma'-al-Bayan, vol. 10, p. 530.
-
 

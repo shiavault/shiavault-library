@@ -1,11 +1,7 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allāh (SwT), the Beneficent, the Merciful***
 
@@ -155,5 +151,4 @@ Abbas and Shaheen Merali
 [^1]: This book can be purchased from the Islamic Humanitarian Service
 at www.al-haqq.com. To contact the authors, you can email them at
 iph@iph.ca.
-
 

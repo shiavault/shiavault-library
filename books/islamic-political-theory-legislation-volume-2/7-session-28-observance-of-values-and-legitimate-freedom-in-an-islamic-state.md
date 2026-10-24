@@ -409,12 +409,8 @@ there is severe measure and punishment, and in the words of our
 opponents, “violence”. There is also harshness vis-à-vis criminals and
 evildoers as well as the faithless and enemies of Islam. As God says,
 
-<blockquote dir="rtl">
-  <p>
-﴿محمدٌ رسولُ اللهِ و الذينَ معهُ اشدّاءُ عَلَی الکفّارِ رحماءُ
-بينهم... ﴾
-  </p>
-</blockquote>
+> ﴿محمدٌ رسولُ اللهِ و الذينَ معهُ اشدّاءُ عَلَی الکفّارِ رحماءُ
+> بينهم... ﴾
 
 “Muhammad, the Apostle of Allah, and those who are with him are hard
 against the faithless, and merciful among themselves...”[^4]
@@ -422,11 +418,7 @@ against the faithless, and merciful among themselves...”[^4]
 In some cases, Islam also regards the humiliation of a criminal as
 necessary for the people to learn a lesson:
 
-<blockquote dir="rtl">
-  <p>
-﴿…وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ﴾
-  </p>
-</blockquote>
+> ﴿…وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِّنَ الْمُؤْمِنِينَ﴾
 
 ***“…And let their punishment be witnessed by a group of the
 faithful**.”*[^5]
@@ -473,5 +465,4 @@ required khums.
 [^4]: Surah al-Fath 48:29.
 
 [^5]: Surah an-Nur 24:2.
-
 

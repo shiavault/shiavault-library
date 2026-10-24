@@ -312,4 +312,3 @@ and now it is clear only after ca.1550 did European instrument-makers
 make technical innovations that had not been known to Muslim astronomers
 previously” (King, 2004, p.47).
 
-

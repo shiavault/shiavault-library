@@ -342,4 +342,3 @@ through the monthly menstruation period. 233 This issue becomes
 particularly acute when there is a war when normally many men are
 killed.
 
-

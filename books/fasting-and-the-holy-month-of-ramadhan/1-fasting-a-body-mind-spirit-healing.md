@@ -372,4 +372,3 @@ article, as the ultimate purpose of servitude to God.
 
 [^10]: Bihar al-Anwar Vol.96, p.252.
 
-

@@ -120,4 +120,3 @@ information about the faith and jurisprudence of Abu Hanifah.
 
 [^2]: Pg. 496
 
-

@@ -349,4 +349,3 @@ al-Saduq's Ghayat al-Maram. These are quite lengthy, and we have quoted
 from them whatever testifies to our argument. As regarding the ahadith
 which succeed it, they are to be found in Chapter 13 of Ghayat al-Maram.
 
-

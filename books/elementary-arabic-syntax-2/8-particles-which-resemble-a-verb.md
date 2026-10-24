@@ -111,4 +111,3 @@ state if it is prefixed to another word. For example: **لا کتابَ سفاه
 on the accusative sign if it is not prefixed to another noun. For
 example: **لا زائرین عندکم** (No pilgrim is with you.)
 
-

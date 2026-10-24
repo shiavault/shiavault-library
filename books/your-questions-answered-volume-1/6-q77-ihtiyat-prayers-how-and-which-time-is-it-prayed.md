@@ -566,4 +566,3 @@ undue difficulty), then you will have to pay "Zakat-ul-Fitra" on the eve
 of Idul-Fitr for yourself and for all your dependants at the rate of
 3Kgs. of any staple food per person.
 
-

@@ -82,4 +82,3 @@ showing that the philosophers had failed to demonstrate the
 impossibility of the creation of a temporal entity from an eternal
 being; second, that the beginning of the universe is demonstrable.[^23]
 
-

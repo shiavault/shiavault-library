@@ -18,7 +18,5 @@ language of the stories.
 It is hoped this book will also prove interesting and serve the purpose
 of its publication.
 
-
 BILAL MUSLIM MISSION
-
 

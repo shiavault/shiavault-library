@@ -12,12 +12,8 @@ words that were taught to Prophet Ibrahim (as) at the time of the
 construction of the Kaaba. The Prophet told him the pharse was as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللهِ، وَالحَمْدُ للهِ، وَلا إلَهَ إلاّ اللهُ، وَاللهُ
-أكْبَرُ.
-  </p>
-</blockquote>
+> سُبْحَانَ اللهِ، وَالحَمْدُ للهِ، وَلا إلَهَ إلاّ اللهُ، وَاللهُ
+> أكْبَرُ.
 
 *Glory to Allah and praise to Allah and there is no God but Allah and
 Allah is the most great.*
@@ -81,12 +77,8 @@ prayers are offered, ones duty has been done! But there is no limit to
 the recitation of *‘La ilaha il Allah’.* One can recite it, however much
 he wishes to do it. Then the Imam recited the following verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا.
-وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا.﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا.
+> وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا.﴾
 
 ***O” you who believe! remember Allah, remembering frequently And
 glorify Him morning and evening”*** **(33:41-42)**
@@ -148,11 +140,7 @@ Allah.’*
 It is narrated from Imam Ja’far As-Sadiq (as) that whoever recites a
 hundred times the words
 
-<blockquote dir="rtl">
-  <p>
-لاَ إلَهَ إلاَّ اللهُ المَلِكُ الحَقُّ المُبِينُ.
-  </p>
-</blockquote>
+> لاَ إلَهَ إلاَّ اللهُ المَلِكُ الحَقُّ المُبِينُ.
 
 *“There is no God but Allah, the king, the clear Truth”*
 
@@ -166,12 +154,8 @@ would desert him. He will be knocking at the threshold of the Heaven.
 An authentic tradition narrates that whoever recites the following words
 fifteen times,
 
-<blockquote dir="rtl">
-  <p>
-لاَ إلَهَ إلاّ اللهُ حَقّاً حَقّاً، لاَ إلَهَ إلاّ اللهُ إيمَاناً
-وَتَصْدِيقاً، لاَ إلَهَ إلاّ اللهُ عُبُودِيَّةً وَرِقّاً.
-  </p>
-</blockquote>
+> لاَ إلَهَ إلاّ اللهُ حَقّاً حَقّاً، لاَ إلَهَ إلاّ اللهُ إيمَاناً
+> وَتَصْدِيقاً، لاَ إلَهَ إلاّ اللهُ عُبُودِيَّةً وَرِقّاً.
 
 *I bear witness that there is no God but Allah indeed indeed, that there
 is no God but Allah with belief and certainty, that there is no God but
@@ -183,12 +167,8 @@ the precincts of the Heaven, He will have an eye of Blessing on him.
 Imam Ja’far As-Sadiq (as) narrates that if a person recites the
 following invocation ten times every day,
 
-<blockquote dir="rtl">
-  <p>
-أشْهَدُ أنْ لا إلهَ إلاّ اللهُ وحْدَهُ لا شَريكَ لهُ إلهاً واحِداً
-أحَداً صَمَداً لَم يَتَّخِذْ صَاحِبةً وَلا وَلَداً.
-  </p>
-</blockquote>
+> أشْهَدُ أنْ لا إلهَ إلاّ اللهُ وحْدَهُ لا شَريكَ لهُ إلهاً واحِداً
+> أحَداً صَمَداً لَم يَتَّخِذْ صَاحِبةً وَلا وَلَداً.
 
 *I bear witness that there is no God but Allah One that has no partner*,
 no sons
@@ -208,11 +188,7 @@ The Superiority Of Tasbeeh Or The Rosary
 
 Imam Ja’far As-Sadiq (as) says that when a *Mu’min* says
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللهِ وَبِحَمْدِهِ، سُبْحانَ اللهِ العَظِيمِ وَبِحَمْدِهِ.
-  </p>
-</blockquote>
+> سُبْحانَ اللهِ وَبِحَمْدِهِ، سُبْحانَ اللهِ العَظِيمِ وَبِحَمْدِهِ.
 
 *Glory to Allah and praise to Him, glory and praise to Allah the most
 great.*
@@ -227,11 +203,7 @@ Allah*,’ the angels would pray for him.
 
 Imam Ja’far As-Sadiq (as) has said that one who recites
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللهِ وَبِحَمْدِهِ، سُبْحانَ اللهِ العَظِيمِ.
-  </p>
-</blockquote>
+> سُبْحانَ اللهِ وَبِحَمْدِهِ، سُبْحانَ اللهِ العَظِيمِ.
 
 Glory and praise to Allah*, Glory to Allah the Great.*
 
@@ -243,132 +215,84 @@ the light (*Noor)* of the Prophet (S), He had kept it for twelve
 thousand years under a curtain, *Hijab al-Qudrat*. The *Noor* used to
 recite the following *Tasbeeh:*
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَ رَبّيَ الأعْلى وبِحَمدِهِ.
-  </p>
-</blockquote>
+> سُبحانَ رَبّيَ الأعْلى وبِحَمدِهِ.
 
 *Glory be to my Lord the High, and by His Praise,*
 
 again for eleven thousand years the *noor* was under a curtain, *Hijab
 al-Azmath,* when it recited the words,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ عَالِمِ السِّرِّ.
-  </p>
-</blockquote>
+> سُبْحانَ عَالِمِ السِّرِّ.
 
 ***Glory to the one knowledgeable of all secrets,***
 
 for another ten thousand years the *Noor* was under the *Hijab al Mann*
 reciting,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ مَن هُو قَائِمٌ لا يَلْهُو.
-  </p>
-</blockquote>
+> سُبْحانَ مَن هُو قَائِمٌ لا يَلْهُو.
 
 ***Glory to Allah the alive who does not ,***
 
 for another nine thousand years the *Noor* was under the curtain, *Hijab
 al-Rehmat,* when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَ الرَّفِيعِ الأعْلى.
-  </p>
-</blockquote>
+> سُبحانَ الرَّفِيعِ الأعْلى.
 
 ***Subhan ar rabbi al aala,***
 
 thereafter the *Noor* was under the curtain, *Hijab al Saadaat,* for
 eight thousand years and it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبحَانَ مَن هُوَ دَائِمٌ لا يَسْهُو.
-  </p>
-</blockquote>
+> سُبحَانَ مَن هُوَ دَائِمٌ لا يَسْهُو.
 
 ***Subhana man huwa dayamun la yas-hu*****,**
 
 for the next seven thousand years the *Noor* was under the curtain,
 *Hijab al Karamat,* and recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبحَانَ مَن هُوَ غَنِيٌّ لا يَفْتَقِرُ.
-  </p>
-</blockquote>
+> سُبحَانَ مَن هُوَ غَنِيٌّ لا يَفْتَقِرُ.
 
 ***Subhana man huwa ghaniun la yaftaghir,***
 
 for the next six thousand years the *Noor* was under the curtain, *Hijab
 al Manzila,*when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبحَانَ العَلِيمِ الكَرِيمِ.
-  </p>
-</blockquote>
+> سُبحَانَ العَلِيمِ الكَرِيمِ.
 
 ***Subhan il aleemul kareem,***
 
 for the next five thousand years the *Noor* was under the curtain,
 *Hijab al Hidayat,* when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ ذِي العَرْشِ العَظِيمِ.
-  </p>
-</blockquote>
+> سُبْحانَ ذِي العَرْشِ العَظِيمِ.
 
 ***Subhana zil arshil azeem,***
 
 for the next four thousand years the *Noor* was under the curtain,
 *Hijab an nabbuwa,* when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ رَبِّ العِزَّةِ عَمَّا يَصِفُونَ.
-  </p>
-</blockquote>
+> سُبْحانَ رَبِّ العِزَّةِ عَمَّا يَصِفُونَ.
 
 ***Subhana rabbil izzate amma yasefoon,***
 
 for the next three thousand years the *Noor* was under the curtain,
 *Hijab ar rafaa,* when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ ذِي المُلْكِ وَالمَلَكُوتِ.
-  </p>
-</blockquote>
+> سُبْحانَ ذِي المُلْكِ وَالمَلَكُوتِ.
 
 ***Subhana zil mulke wal malakoot,***
 
 then for the next two thousand years the *Noor* was under the curtain,
 *Hijab al-Haibat,* when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللهِ وَبِحَمْدِهِ.
-  </p>
-</blockquote>
+> سُبْحانَ اللهِ وَبِحَمْدِهِ.
 
 ***Subhan allahi wa behamde,***
 
 finally for one thousand years the *Noor* was under the curtain, *Hijab
 ash Shafaat,* when it recited,
 
-<blockquote dir="rtl">
-  <p>
-سُبحانَ رَبّيَ العَظِيمِ وبِحَمدِهِ.
-  </p>
-</blockquote>
+> سُبحانَ رَبّيَ العَظِيمِ وبِحَمدِهِ.
 
 ***Subhana Rabbil azeeme wa behamdehi***
 
@@ -387,32 +311,20 @@ One who experiences delays in getting his sustenance, he should do
 *Asthagfar* (seek Allah’s forgiveness). If a person is engrossed with
 difficulties, he should say,
 
-<blockquote dir="rtl">
-  <p>
-لاَ حَوْلَ وَلاَ قُوَّةَ إلاّ بِاللهِ.
-  </p>
-</blockquote>
+> لاَ حَوْلَ وَلاَ قُوَّةَ إلاّ بِاللهِ.
 
 ***La haula wa la quwwata illa billah.***
 
 Whenever the Prophet of Allah (S) was pleased with anything, he used to
 say,
 
-<blockquote dir="rtl">
-  <p>
-الحَمْدُ للهِ الّذِي بِنِعْمَتِهِ تَتِمُّ الصّالِحَاتِ.
-  </p>
-</blockquote>
+> الحَمْدُ للهِ الّذِي بِنِعْمَتِهِ تَتِمُّ الصّالِحَاتِ.
 
 ***Alhamdu lillahil lazi benematehi tatam as saalehaat***
 
 and whenever there was a sad event he said
 
-<blockquote dir="rtl">
-  <p>
-اَلحَمْدُ للهِ عَلَى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> اَلحَمْدُ للهِ عَلَى كُلِّ حَالٍ.
 
 ***Al hamdu lillahi ala kulle haal.***
 
@@ -420,21 +332,13 @@ Imam Ja’far As-Sadiq (as) has narrated from the Prophet of Allah (S)
 that he used to praise Allah every day. He used to recite, as much as
 his physical condition permitted, the following words,
 
-<blockquote dir="rtl">
-  <p>
-الحَمْدُ للهِ رَبِّ العَالَمِينَ كَثِيراً عَلَى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> الحَمْدُ للهِ رَبِّ العَالَمِينَ كَثِيراً عَلَى كُلِّ حَالٍ.
 
 ***Al hamdu lillahi rab il aalameen katheeran ala kulle haal**.*
 
 Imam Ja’far As-Sadiq has said that one who says,
 
-<blockquote dir="rtl">
-  <p>
-الحَمْدُ للهِ كَما هُوَ أهْلُهُ.
-  </p>
-</blockquote>
+> الحَمْدُ للهِ كَما هُوَ أهْلُهُ.
 
 ***Alhamdu lillahi kama huwa ahlehi**,*
 
@@ -453,11 +357,7 @@ becomes the cause of enhancement of one’s sustenance.
 Imam Zain-ul-’Abidin (as) has said that a person who has the habit of
 saying
 
-<blockquote dir="rtl">
-  <p>
-أسْتَغْفِرُ اللهَ رَبّي وَأتُوبُ إلَيْهِ.
-  </p>
-</blockquote>
+> أسْتَغْفِرُ اللهَ رَبّي وَأتُوبُ إلَيْهِ.
 
 ***Astaghfar Allah Rabbi wa atoobe alaih***
 
@@ -477,12 +377,8 @@ a sin, he gets a respite of seven hours to repent and seek Allah’s
 forgiveness by saying the *Astaghfar* three times. If he does this, then
 the sin will not be entered in his *Nama al-Aamaal.* The *Astaghfar* is
 
-<blockquote dir="rtl">
-  <p>
-أسْتَغْفِرُ اللهَ الّذِي لا إلَهَ إلاّ هُوَ الحَيُّ القَيُّومُ
-وَأتُوبُ إلَيْهِ.
-  </p>
-</blockquote>
+> أسْتَغْفِرُ اللهَ الّذِي لا إلَهَ إلاّ هُوَ الحَيُّ القَيُّومُ
+> وَأتُوبُ إلَيْهِ.
 
 ***Astaghfarullah allazi la ilaha illa huwal hai al qayyumo wa atoobu
 ilaihi**.*
@@ -496,13 +392,9 @@ It is narrated from Imam Ja’far As-Sadiq (as) when a *Mu’min* commits
 forty sins in a day and night, and in repentence recites the following
 invocation:
 
-<blockquote dir="rtl">
-  <p>
-أسْتَغْفِرُ اللهَ الّذِي لا إلَهَ إلاّ هُوَ الحَيُّ القَيُّومُ بَدِيعُ
-السَّمَاواتِ وَالأرْضِ ذُو الجَلالِ وَالإكْرَامِ وَأسْأَلُهُ أنْ
-يُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأنْ يَتُوبَ عَلَيَّ.
-  </p>
-</blockquote>
+> أسْتَغْفِرُ اللهَ الّذِي لا إلَهَ إلاّ هُوَ الحَيُّ القَيُّومُ بَدِيعُ
+> السَّمَاواتِ وَالأرْضِ ذُو الجَلالِ وَالإكْرَامِ وَأسْأَلُهُ أنْ
+> يُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأنْ يَتُوبَ عَلَيَّ.
 
 ***Astaghfarullah allazi la ilaha illa huwal haiulqayyumo badeeus
 samawate walarz zul jalale wal ikrame waasaalahu an yusalli ala
@@ -516,11 +408,7 @@ Miscellaneous Invocations
 Imam Ja’far As-Sadiq (as) has said that he was surprised why a person
 who is scared of an enemy doesn’t recite the following:
 
-<blockquote dir="rtl">
-  <p>
-حَسْبُنا اللهُ وَنِعْمَ الوَكِيلُ.
-  </p>
-</blockquote>
+> حَسْبُنا اللهُ وَنِعْمَ الوَكِيلُ.
 
 ***Hasbanallaha wa naimal wakeel***
 
@@ -531,11 +419,7 @@ The Imam (as) was surprised that why people don’t recite the following
 words that Prophet Yunus (as) recited while he was in the belly of the
 fish:
 
-<blockquote dir="rtl">
-  <p>
-لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنتُ مِنْ الظَّالِمِينَ.
-  </p>
-</blockquote>
+> لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنتُ مِنْ الظَّالِمِينَ.
 
 ***La ilaha anta subhanaka inni kunto min azzaalemeen***
 
@@ -545,11 +429,7 @@ from his trouble.
 The Imam (as) wondered that when a person’s enemies are deceitful
 against him, he doesn’trecite these words
 
-<blockquote dir="rtl">
-  <p>
-أُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ.
-  </p>
-</blockquote>
+> أُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ.
 
 ***Ufawwazo amri ilallahi innallaha baseerum bilibaad***
 
@@ -560,11 +440,7 @@ enemies.
 The Imam (as) wondered that when a person aspires for wealth and
 property, why doesn’t he recite the following words
 
-<blockquote dir="rtl">
-  <p>
-مَا شَاءَ اللهُ لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ.
-  </p>
-</blockquote>
+> مَا شَاءَ اللهُ لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ.
 
 ***Maasha Allaha lahaula wala quwwata illa billahi***
 
@@ -573,14 +449,10 @@ Because thereafter, Allah has promised to answer the *Mu’min’s* prayers.
 One person complained to the Prophet (S) about fears and the burden of
 debts. The Prophet (S) advised him to recite the following words
 
-<blockquote dir="rtl">
-  <p>
-تَوَكَّلْتُ عَلَى الحَيِّ الّذِي لا يَمُوتُ، وَالْحَمْدُ لِلَّهِ
-الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي
-الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنْ الذُّلِّ وَكَبِّرْهُ
-تَكْبِيرًا.
-  </p>
-</blockquote>
+> تَوَكَّلْتُ عَلَى الحَيِّ الّذِي لا يَمُوتُ، وَالْحَمْدُ لِلَّهِ
+> الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي
+> الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنْ الذُّلِّ وَكَبِّرْهُ
+> تَكْبِيرًا.
 
 ***Tawakkalto alalhai al lazi la yamooto wal hamdu lillahil lazi lam
 yattakhizo sahebatan wa la waladan wa lam yakunlahu shareekun filmulke
@@ -590,43 +462,27 @@ The prophet of Islam (S) narrated that prophet Adam (as) complained to
 Allah about fears and uneasiness. Jibrael (as) came and said that if he
 recited the following words, his fears would vanish
 
-<blockquote dir="rtl">
-  <p>
-لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ.
-  </p>
-</blockquote>
+> لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ.
 
 ***La haula wa la quwwata illa billahi***
 
 Also the Prophet of Allah (S) said that Allah will shower His Bounties
 on a person who recited the words
 
-<blockquote dir="rtl">
-  <p>
-الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.
 
 ***Al hamdu lillahi rabbil aalameen***
 
 The person who is engulfed in sorrow and difficulties should recite
 
-<blockquote dir="rtl">
-  <p>
-لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ الْعَلِيِّ العَظِيمِ.
-  </p>
-</blockquote>
+> لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ الْعَلِيِّ العَظِيمِ.
 
 ***La haula wala quwwata illa billahil alil azeem***
 
 The Prophet (S) also said that one Night of *Meraj* Allah has sent the
 following words through a Revelation
 
-<blockquote dir="rtl">
-  <p>
-لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ وَلا مَلْجَأَ مِنْكَ إلاّ إلَيْكَ.
-  </p>
-</blockquote>
+> لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ وَلا مَلْجَأَ مِنْكَ إلاّ إلَيْكَ.
 
 ***La haula wala quwwata illa billahi wala maljaam minka illa ilaika***
 
@@ -634,22 +490,14 @@ Imam Ja’far As-Sadiq (as) has said that when a person recites the
 following words, while offering supplications, his prayers will
 definitely be answered:
 
-<blockquote dir="rtl">
-  <p>
-مَا شَاءَ اللهُ لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ.
-  </p>
-</blockquote>
+> مَا شَاءَ اللهُ لا حَوْلَ وَلا قُوَّةَ إلاّ باللهِ.
 
 ***Maasha allaho lahaula wala quwwata illa billahi***
 
 The Imam (as) also said when a person recites the following words seven
 times
 
-<blockquote dir="rtl">
-  <p>
-يَا أرْحَمَ الرَّاحِمِينَ.
-  </p>
-</blockquote>
+> يَا أرْحَمَ الرَّاحِمِينَ.
 
 ***Ya arham ar rahemeen***
 
@@ -658,11 +506,7 @@ and whatever you have wished for will be granted by Him!’
 
 And when a person repeats ten times the words
 
-<blockquote dir="rtl">
-  <p>
-يَا اَللهُ.
-  </p>
-</blockquote>
+> يَا اَللهُ.
 
 ***Ya Allaho***
 
@@ -671,11 +515,7 @@ Then Allah says, ‘Ask for whatever is required by you!’
 Imam Ar-Ridha’ (as) said: When a person is afflicted with difficulties
 he should continuously recite
 
-<blockquote dir="rtl">
-  <p>
-يَا رَؤُفُ يَا رَحِيمُ.
-  </p>
-</blockquote>
+> يَا رَؤُفُ يَا رَحِيمُ.
 
 ***Ya Raoofo ya Raheemo***
 
@@ -687,11 +527,7 @@ contain the *Ism al-Azam* (the ineffable words).
 
 Imam Ar-Ridha’ (as) has said the following are Ineffable Words
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ يَا قَيُّومُ.
-  </p>
-</blockquote>
+> يَا حَيُّ يَا قَيُّومُ.
 
 ***Ya haiyo ya Qayyum***
 
@@ -699,15 +535,11 @@ It is narrated from Imam ‘Ali bin al Husayn (as) that the following
 supplication is based on Ism al-Azam and reciting it will get the
 prayers answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا اَللهُ يَا اَللهُ يَا اَللهُ وَحْدَكَ لاَ شَرِيكَ لَكَ أنْتَ
-المَنَّانُ بَدِيعُ السَّمَاوَاتِ وَالأَرْضِ ذُو الجَلاَلِ وَالإكْرَامِ
-وَذُو الأَسْمَاءِ العِظَامِ وَذُو العِزِّ الَّذِي لاَ يُرامُ،
-﴿وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ الرَّحْمَانُ
-الرَّحِيمُ.﴾ وَصَلّى اللهُ عَلَى مُحَمَّدٍ وَآلِهِ أجْمَعِينَ.
-  </p>
-</blockquote>
+> يَا اَللهُ يَا اَللهُ يَا اَللهُ وَحْدَكَ لاَ شَرِيكَ لَكَ أنْتَ
+> المَنَّانُ بَدِيعُ السَّمَاوَاتِ وَالأَرْضِ ذُو الجَلاَلِ وَالإكْرَامِ
+> وَذُو الأَسْمَاءِ العِظَامِ وَذُو العِزِّ الَّذِي لاَ يُرامُ،
+> ﴿وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ الرَّحْمَانُ
+> الرَّحِيمُ.﴾ وَصَلّى اللهُ عَلَى مُحَمَّدٍ وَآلِهِ أجْمَعِينَ.
 
 ***Ya allaho ya Allaho ya Allaho wahdaka wahdaka la shareeka laka antal
 mannan badius samawaate wal arza zul jalale wal ikraame wazussamail
@@ -726,51 +558,27 @@ al-Aswad.* He found a revered person prostrating toward the Kaaba. He
 went and stood near him. When he heard intently, the following words
 were audible to him:
 
-<blockquote dir="rtl">
-  <p>
-يَا نُورُ يَا قُدُّوسُ
-  </p>
-</blockquote>
+> يَا نُورُ يَا قُدُّوسُ
 
 *Yanooro ya quddooso (three times)*
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ يَا قَيُّومُ
-  </p>
-</blockquote>
+> يَا حَيُّ يَا قَيُّومُ
 
 *Ya haiyo ya Qayyumo (three times)*
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ لاَ يَمُوتُ
-  </p>
-</blockquote>
+> يَا حَيُّ لاَ يَمُوتُ
 
 *Ya haiyo la yamooto (three times)*
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ حِينَ لاَ حَيُّ
-  </p>
-</blockquote>
+> يَا حَيُّ حِينَ لاَ حَيُّ
 
 *Ya haiyo heena la haiyo (three times)*
 
-<blockquote dir="rtl">
-  <p>
-يَا حَيُّ لاَ إلَهَ إلاّ أنْتَ
-  </p>
-</blockquote>
+> يَا حَيُّ لاَ إلَهَ إلاّ أنْتَ
 
 *Ya haiyo la ilaha illa anta (three times)*
 
-<blockquote dir="rtl">
-  <p>
-أسْأَلُكَ بِأَنْ لاَ إلَهَ إلاّ أنْتَ
-  </p>
-</blockquote>
+> أسْأَلُكَ بِأَنْ لاَ إلَهَ إلاّ أنْتَ
 
 *Asaloka be-an la ilaha illa anta (three times)*
 
@@ -780,12 +588,8 @@ could memorise them.
 Imam Muhammad Al-Baqir (as) says that one who recites the following
 words will certainly get his prayers answered:
 
-<blockquote dir="rtl">
-  <p>
-يَا أسْمَعَ السَّامِعِينَ، وَيَا أبْصَرَ النّاظِرِينَ، وَيَا أسْرَعَ
-الحَاسِبِينَ، وَيَا أرْحَمَ الرَّاحِمِينَ، وَيَا أحْكَمَ الحَاكِمِينَ.
-  </p>
-</blockquote>
+> يَا أسْمَعَ السَّامِعِينَ، وَيَا أبْصَرَ النّاظِرِينَ، وَيَا أسْرَعَ
+> الحَاسِبِينَ، وَيَا أرْحَمَ الرَّاحِمِينَ، وَيَا أحْكَمَ الحَاكِمِينَ.
 
 ***Ya asma as saame eena wa ya absaran naazereena wa ya asraul
 haasebeena ya arham ar raahemeena wa ya ahkamul haakemeena***
@@ -799,12 +603,8 @@ Imam Musa al-Kadhim (as) narrates that when you have finished the
 evening (*Maghrib)* prayer, then without talking to anyone, say the
 following a hundred times:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ وَلاَ حَوْلَ وَلاَ قُوَّةَ إلاّ
-بِاللهِ العَلِيِّ العَظِيمِ.
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ وَلاَ حَوْلَ وَلاَ قُوَّةَ إلاّ
+> بِاللهِ العَلِيِّ العَظِيمِ.
 
 ***Bismillahir Rahmaan ir Raheem la haula wa la quwwata illa billahil
 ‘Ali il azeem***
@@ -816,13 +616,9 @@ Imam Ja’far As-Sadiq (as) has said: When a person recites the following
 ten times before the sunrise and before the sunset every day, all his
 sins committed on that day will be pardoned:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إلَهَ إلاّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ المُلْكُ وَلَهُ
-الحَمْدُ، يُحْيِي وَيُمِيتُ، وَيُمِيتُ وَيُحْيِي، وَهُوَ حَيٌّ لاَ
-يَمُوتُ، بِيَدِهِ الخَيْرُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
-  </p>
-</blockquote>
+> لاَ إلَهَ إلاّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ المُلْكُ وَلَهُ
+> الحَمْدُ، يُحْيِي وَيُمِيتُ، وَيُمِيتُ وَيُحْيِي، وَهُوَ حَيٌّ لاَ
+> يَمُوتُ، بِيَدِهِ الخَيْرُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
 
 ***La ilaha il Allaho wahdahu la shareeka lahu lahul mulko wa lahul
 hamdo yohi wa yumeeto wa yohi wa huwa hayyun la yamooto be yadahil
@@ -832,27 +628,15 @@ Imam Muhammad Al-Baqir (as) has said, “One who recites the *Salawat on
 Muhammad and his progeny* ten times at dawn and repeats the following
 words
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللهِ.
-  </p>
-</blockquote>
+> سُبْحَانَ اللهِ.
 
 *Subhan Allah (35 times)*
 
-<blockquote dir="rtl">
-  <p>
-لاَ إلَهَ إلاّ اللهُ.
-  </p>
-</blockquote>
+> لاَ إلَهَ إلاّ اللهُ.
 
 *La ilaha il Allah (35 times)*
 
-<blockquote dir="rtl">
-  <p>
-اَلحَمْدُ للهِ.
-  </p>
-</blockquote>
+> اَلحَمْدُ للهِ.
 
 *Alhamdu lillah (35 times)*
 
@@ -864,11 +648,7 @@ releasing a hundred slaves.
 It is narrated that the Prophet of Allah (S) used to revite three
 hundred and sixty times every dawn and dusk the following
 
-<blockquote dir="rtl">
-  <p>
-اَلحَمْدُ للهِ رَبِّ العَالَمِينَ كَثِيراً عَلَى كُلِّ حَالٍ.
-  </p>
-</blockquote>
+> اَلحَمْدُ للهِ رَبِّ العَالَمِينَ كَثِيراً عَلَى كُلِّ حَالٍ.
 
 ***Alhamdu lillahi rabbilaalimeen kateeran ala kulle haalin***
 
@@ -881,17 +661,13 @@ therefore regularly recite the invocation mentioned above.
 It is narrated from Imam Muhammad Al-Baqir (as) that one should recite
 the following invocation in the mornings:
 
-<blockquote dir="rtl">
-  <p>
-أصْبَحْتُ بِاللهِ مُؤمِناً عَلَى دِينِ مُحَمَّدٍ وَسُنَّتِهِ وَدِينِ
-عَلِيٍّ وَسُنَّتِهِ وَدِينِ الأوْصِياءِ وَسُنَّتِهِمْ، آمَنْتُ
-بِسِرِّهِمْ وَعَلانِيَتِهِمْ وَشَاهِدِهِمْ وَغَائِبِهِمْ، وَأعُوذُ
-بِاللهِ مِمَّا اسْتَعَاذَ مِنْهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ وَعَلِيٌّ وَالأوْصِياءُ صَلَواتُ اللهِ عَلَيْهِمْ وَأرْغَبُ
-إلى اللهِ فِي مَا رَغَبُوا إلَيْهِ وَلاَ حَوْلَ وَلا قُوَّةَ إلاّ
-بِاللهِ.
-  </p>
-</blockquote>
+> أصْبَحْتُ بِاللهِ مُؤمِناً عَلَى دِينِ مُحَمَّدٍ وَسُنَّتِهِ وَدِينِ
+> عَلِيٍّ وَسُنَّتِهِ وَدِينِ الأوْصِياءِ وَسُنَّتِهِمْ، آمَنْتُ
+> بِسِرِّهِمْ وَعَلانِيَتِهِمْ وَشَاهِدِهِمْ وَغَائِبِهِمْ، وَأعُوذُ
+> بِاللهِ مِمَّا اسْتَعَاذَ مِنْهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ وَعَلِيٌّ وَالأوْصِياءُ صَلَواتُ اللهِ عَلَيْهِمْ وَأرْغَبُ
+> إلى اللهِ فِي مَا رَغَبُوا إلَيْهِ وَلاَ حَوْلَ وَلا قُوَّةَ إلاّ
+> بِاللهِ.
 
 ***I have risen with belief in Allah and on the faith of Mohammad and
 his tradition and the faith of ‘Ali and his his Asbahto billahi moomenan
@@ -910,13 +686,9 @@ acceptance of the *Mu’min’s supplication.* Similarly all the angels and
 the people of the Firmament will pray on his behalf. This supplication
 is treasured with the record of the good deeds of the *Mu’min.*
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ أكْبَرُ اللهُ أكْبَرُ كَبِيراً، وَسُبْحَانَ اللهِ بُكْرَةً
-وَأصِيلاً، وَالحَمْدُ للهِ رَبِّ العَالِمِينَ كَثِيراً لاَ شَرِيكَ
-لَهُ وَصَلَّى اللهُ عَلَى مُحَمَّدٍ وَآلِهِ.
-  </p>
-</blockquote>
+> اَللهُ أكْبَرُ اللهُ أكْبَرُ كَبِيراً، وَسُبْحَانَ اللهِ بُكْرَةً
+> وَأصِيلاً، وَالحَمْدُ للهِ رَبِّ العَالِمِينَ كَثِيراً لاَ شَرِيكَ
+> لَهُ وَصَلَّى اللهُ عَلَى مُحَمَّدٍ وَآلِهِ.
 
 *“Allah is the Most Great, Allah is the Most Great, and Glory to Allah
 in the morning and sunset, and plenty of praise to Allah the Lord of the
@@ -927,12 +699,8 @@ Prophet Ibrahim (as) used to recite the following supplication thrice
 every morning. Allah used to keep him safe from all calamities the whole
 day:
 
-<blockquote dir="rtl">
-  <p>
-أصْبَحْتُ وَرَبِّي مَحْمُودٌ، أصْبَحْتُ لا أُشْرِكُ بِاللهِ شَيْئاً
-وَلا أدْعُو مَعَ اللهِ إلَهاً وَلا أتَّخِذُ مِنْ دُونِهِ وَلِيّاً.
-  </p>
-</blockquote>
+> أصْبَحْتُ وَرَبِّي مَحْمُودٌ، أصْبَحْتُ لا أُشْرِكُ بِاللهِ شَيْئاً
+> وَلا أدْعُو مَعَ اللهِ إلَهاً وَلا أتَّخِذُ مِنْ دُونِهِ وَلِيّاً.
 
 *“I have risen in praise to my Lord, I have risen and I do not accept
 parteners with Allah and I do not seek with Allah another lord and I do
@@ -942,13 +710,9 @@ It is narrated from Imam Muhammad Al-Baqir (as) that before talking to
 anyone in the morning, one should recite the *Sura al-Qadr* and blow on
 the Aqeeq stone (cornelian) and then recite the following supplication:
 
-<blockquote dir="rtl">
-  <p>
-آمَنْتُ بِاللهِ وَحْدَهُ لاَ شَرِيكَ لَهُ وَكَفَرْتُ بِالجِبْتِ
-وَالطّاغُوتِ وَآمَنْتُ بِسِرِّ آلِ مُحَمَّدٍ وَعَلانِيَتِهِمْ
-وَظَاهِرِهِمْ وَبَاطِنِهِمْ وَأوَّلِهِمْ وَآخِرِهِمْ.
-  </p>
-</blockquote>
+> آمَنْتُ بِاللهِ وَحْدَهُ لاَ شَرِيكَ لَهُ وَكَفَرْتُ بِالجِبْتِ
+> وَالطّاغُوتِ وَآمَنْتُ بِسِرِّ آلِ مُحَمَّدٍ وَعَلانِيَتِهِمْ
+> وَظَاهِرِهِمْ وَبَاطِنِهِمْ وَأوَّلِهِمْ وَآخِرِهِمْ.
 
 *“I believe in Allah alone without any partner and I disbelieve in idols
 and false deities and I believe in what is kept safe and secret and what
@@ -962,13 +726,9 @@ following verse three times at the time of *Maghrib* prayer, till the
 next morning he will not suffer any loss and he will be safe from
 natural calamities:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ. وَلَهُ
-الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ
-تُظْهِرُونَ.﴾
-  </p>
-</blockquote>
+> ﴿فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ. وَلَهُ
+> الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ
+> تُظْهِرُونَ.﴾
 
 ***“So glory be to Allah when you enter the night and when you enter the
 morning and unto Him be praise in the heavens and the earth! - and at
@@ -978,13 +738,9 @@ Amir’ul-Mu’mineen has said that anyone who recited three times the
 following words every morning and evening, then Allah will certainly
 enter him into the Heaven:
 
-<blockquote dir="rtl">
-  <p>
-رَضِيتُ بِاللهِ رَبّاً وَبِالإسْلاَمِ دِيناً وَبِمُحَمَّدٍ صَلّى اللهُ
-عَلَيْهِ وَآلِهِ نَبِيّاً وَبِالقُرْآنِ بَلاغاً وَبِعَلِيٍّ
-وَالأَوْصِياءِ مِنْ وُلْدِهِ أَئِمَّةً.
-  </p>
-</blockquote>
+> رَضِيتُ بِاللهِ رَبّاً وَبِالإسْلاَمِ دِيناً وَبِمُحَمَّدٍ صَلّى اللهُ
+> عَلَيْهِ وَآلِهِ نَبِيّاً وَبِالقُرْآنِ بَلاغاً وَبِعَلِيٍّ
+> وَالأَوْصِياءِ مِنْ وُلْدِهِ أَئِمَّةً.
 
 *“I am satisfied to have Allah as my Lord and Islam as my faith and
 Mohammad, may Allah send His blessings upon him and his children,as a
@@ -996,12 +752,8 @@ words 25 times every day, then Allah will write one virtue in the names
 of all the *Mu’mins* from Adam (as) till the Day of Reckoning and to
 that individual he will Reward equal to that of all the *Mu’mins:*
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ اغْفِرْ لِلمُؤْمِنِينَ وَالمُؤمِناتِ وَالمُسْلِمِينَ
-وَالمُسْلِماتِ.
-  </p>
-</blockquote>
+> اَللّهُمَّ اغْفِرْ لِلمُؤْمِنِينَ وَالمُؤمِناتِ وَالمُسْلِمِينَ
+> وَالمُسْلِماتِ.
 
 *“O Allah bestow your forgiveness to the believers(men and women), and
 to muslims(men and women).”*
@@ -1011,12 +763,8 @@ me a supplication that will be beneficial for me now and also in the
 Hereafter.” The Imam said: After the *Fajr* prayer, till the dawn,
 recite the following:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللهِ العَظِيمِ وَبِحَمْدِهِ، أسْتَغْفِرُ اللهَ وَأسْأَلُهُ
-مِنْ فَضْلِهِ.
-  </p>
-</blockquote>
+> سُبْحَانَ اللهِ العَظِيمِ وَبِحَمْدِهِ، أسْتَغْفِرُ اللهَ وَأسْأَلُهُ
+> مِنْ فَضْلِهِ.
 
 *“Glory is to Allah the great and praise is to Him, I seek forgiveness
 from Allah and I ask Him His grace.? ”*
@@ -1026,27 +774,15 @@ from Allah and I ask Him His grace.? ”*
 In the supplications to be recited after eyery mandatory prayer, the
 best is the *Tasbeeh al-Fatima (as).* It requires reciting:
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ أكْبَرُ
-  </p>
-</blockquote>
+> اَللهُ أكْبَرُ
 
 *Allaho Akbar, Allah is the Greatest (34 times)*
 
-<blockquote dir="rtl">
-  <p>
-اَلحَمْدُ للهِ
-  </p>
-</blockquote>
+> اَلحَمْدُ للهِ
 
 *Alhamdu lillah, Praise is for Allah (33 times)*
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللهِ
-  </p>
-</blockquote>
+> سُبْحانَ اللهِ
 
 *Subhan Allah, Glory is to Allah (33 times)*
 
@@ -1060,11 +796,7 @@ after every compulsory prayer is better than performing a thousand
 genuflections. One should say once after reciting the *Tasbeeh* the
 following words:
 
-<blockquote dir="rtl">
-  <p>
-لاَ إلَهَ إلاّ اللهُ
-  </p>
-</blockquote>
+> لاَ إلَهَ إلاّ اللهُ
 
 *La ilaha il Allah, There is no God save He*
 
@@ -1072,12 +804,8 @@ Imam Muhammad Al-Baqir (as) has said, One who sits quietly after each
 mandatory prayer and recites thrice the following words, Allah will
 pardon all his sins:
 
-<blockquote dir="rtl">
-  <p>
-أسْتَغْفِرُ اللهَ الّذِي لاَ إلَهَ إلاَّ هُوَ الحَيُّ القَيُّومُ ذُو
-الجَلالِ وَالإكْرَامِ وَأتُوبُ إلَيْهِ.
-  </p>
-</blockquote>
+> أسْتَغْفِرُ اللهَ الّذِي لاَ إلَهَ إلاَّ هُوَ الحَيُّ القَيُّومُ ذُو
+> الجَلالِ وَالإكْرَامِ وَأتُوبُ إلَيْهِ.
 
 *“I seek forgiveness from the Lord (testifying) There is no God other
 than Him The Living and the Everlasting Of Majesty and Splendour And I
@@ -1087,11 +815,7 @@ Imam Ja’far As-Sadiq has said that if a person recites thirty times the
 following words after each compulsory prayer, all his sins will be
 pardoned:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحانَ اللهِ
-  </p>
-</blockquote>
+> سُبْحانَ اللهِ
 
 *Subhan Allah, Glory is to Allah*
 
@@ -1100,18 +824,14 @@ this world as innocent as he was at his birth, then he should recite the
 *Sura al-Iqlaas* twelve times after every compulsory prayer and then
 raise his hands towards the sky and recite the following invocation:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ إنِّي أسْأَلُكَ بِاسْمِكَ المَكْنُونِ المَخْزُونِ الطّاهِرِ
-الطُّهْرِ المُبَارَكِ، وَأسْأَلُكَ بِاسْمِكَ العَظِيمِ وَسُلْطَانِكَ
-القَدِيمِ، يا وَاهِبَ العَطايَا وَيَا مُطْلِقَ الأسَارَى وَيَا
-فَكَّاكَ الرِّقَابِ مِنَ النّارِ، أَسْأَلُكَ أنْ تُصَلِّيَ عَلَى
-مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأنْ تَعْتِقَ رَقَبَتِي مِنَ النّارِ، وَأنْ
-تُخْرِجَنِي مِنَ الدُّنْيا آمِناً، وأنْ تُدْخِلَنِيَ الجَنَّةَ
-سَالِماً، وأنْ تَجْعَلَ دُعائِي أوَّلَهُ فَلاحاً وَأوْسَطَهُ نَجاحاً
-وَآخِرَهُ صَلاحاً إنَّكَ أنْتَ عَلاَّمُ الغُيُوبِ.
-  </p>
-</blockquote>
+> اَللّهُمَّ إنِّي أسْأَلُكَ بِاسْمِكَ المَكْنُونِ المَخْزُونِ الطّاهِرِ
+> الطُّهْرِ المُبَارَكِ، وَأسْأَلُكَ بِاسْمِكَ العَظِيمِ وَسُلْطَانِكَ
+> القَدِيمِ، يا وَاهِبَ العَطايَا وَيَا مُطْلِقَ الأسَارَى وَيَا
+> فَكَّاكَ الرِّقَابِ مِنَ النّارِ، أَسْأَلُكَ أنْ تُصَلِّيَ عَلَى
+> مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأنْ تَعْتِقَ رَقَبَتِي مِنَ النّارِ، وَأنْ
+> تُخْرِجَنِي مِنَ الدُّنْيا آمِناً، وأنْ تُدْخِلَنِيَ الجَنَّةَ
+> سَالِماً، وأنْ تَجْعَلَ دُعائِي أوَّلَهُ فَلاحاً وَأوْسَطَهُ نَجاحاً
+> وَآخِرَهُ صَلاحاً إنَّكَ أنْتَ عَلاَّمُ الغُيُوبِ.
 
 *“O Allah, I ask You by Your hidden, safeguarded, pure, purifying and
 blessed name, and I ask You by Your great name and Your everexisting
@@ -1127,20 +847,16 @@ Imam Ar-Ridha’ (as) was asked about the method of offering salutations
 to the Prophet (S) and his *Ahl-ul-Bayt (as)* after the mandatory
 prayers. The Imam (as) asked one to say the following:
 
-<blockquote dir="rtl">
-  <p>
-اَلسَّلامُ عَلَيْكَ يَا رَسُولَ اللهِ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،
-اَلسَّلامُ عَلَيْكَ يَا مُحَمَّدُ بْنَ عَبْدِاللهِ، اَلسَّلامُ
-عَلَيْكَ يَا خِيَرَةَ اللهِ، اَلسَّلامُ عَلَيْكَ يَا حَبِيبَ اللهِ،
-اَلسَّلامُ عَلَيْكَ يَا صفْوَةَ اللهِ، اَلسَّلامُ عَلَيْكَ يَا أمِينَ
-اللهِ، أشْهَدُ أنَّكَ رَسُولُ اللهِ، وَأشْهَدُ أنَّكَ مُحَمَّدُ بْنُ
-عَبْدِاللهِ، وَأشْهَدُ أنَّكَ قَدْ نَصَحْتَ لأُمَّتِكَ، وَجَاهَدْتَ
-فِي سَبِيلِ رَبِّكَ، وَعَبَدْتَهُ حَتّى أتَاكَ اليَقِينُ، فَجَزاكَ
-اللهُ يَا رَسُولَ اللهِ أفْضَلَ مَا جَزَى نَبِيّاً عَنْ أُمَّتِهِ،
-اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ أَفْضَلَ مَا
-صَلَّيْتَ عَلَى إبْرَاهِيمَ وَآلِ إبْرَاهِيمَ إنَّكَ حَمِيدٌ مَجِيدٌ.
-  </p>
-</blockquote>
+> اَلسَّلامُ عَلَيْكَ يَا رَسُولَ اللهِ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،
+> اَلسَّلامُ عَلَيْكَ يَا مُحَمَّدُ بْنَ عَبْدِاللهِ، اَلسَّلامُ
+> عَلَيْكَ يَا خِيَرَةَ اللهِ، اَلسَّلامُ عَلَيْكَ يَا حَبِيبَ اللهِ،
+> اَلسَّلامُ عَلَيْكَ يَا صفْوَةَ اللهِ، اَلسَّلامُ عَلَيْكَ يَا أمِينَ
+> اللهِ، أشْهَدُ أنَّكَ رَسُولُ اللهِ، وَأشْهَدُ أنَّكَ مُحَمَّدُ بْنُ
+> عَبْدِاللهِ، وَأشْهَدُ أنَّكَ قَدْ نَصَحْتَ لأُمَّتِكَ، وَجَاهَدْتَ
+> فِي سَبِيلِ رَبِّكَ، وَعَبَدْتَهُ حَتّى أتَاكَ اليَقِينُ، فَجَزاكَ
+> اللهُ يَا رَسُولَ اللهِ أفْضَلَ مَا جَزَى نَبِيّاً عَنْ أُمَّتِهِ،
+> اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ أَفْضَلَ مَا
+> صَلَّيْتَ عَلَى إبْرَاهِيمَ وَآلِ إبْرَاهِيمَ إنَّكَ حَمِيدٌ مَجِيدٌ.
 
 *“Peace be upon you O Messenger of Allah* *and His mercy and blessings
 be upon you,* *Peace be upon you O Mohammad son of Abdullah,* *Peace be
@@ -1165,25 +881,17 @@ It is narrated from Amir’ul-Mu’mineen ‘Ali (as) that the Prophet of
 Allah (S) used to recite the following supplication after the *Zuhr*
 prayer.
 
-<blockquote dir="rtl">
-  <p>
-لا إِلهَ إِلا اللّهُ الْعَظِيمُ الْحَلِيمُ، لا إِلهَ إِلا اللّهُ رَبّ
-الْعَرْشِ الْكَرِيمُ، الْحَمْدُ لِلّهِ رَبّ الْعَالَمِينَ. اللّهُمّ
-إِنّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ، وَعَزَائِمَ مَغْفِرَتِكَ،
-وَالْغَنِيمَةَ مِنْ كُلّ بِرّ، وَالسّلامَةَ مِنْ كُلّ إِثْمٍ. اللّهُمّ
-لا تَدَعْ لِي ذَنْبًا إِلا غَفَرْتَهُ، وَلا هَمًّا إِلا فَرّجْتَهُ،
-وَلا سُقْمًا إِلا شَفَيْتَهُ، وَلا عَيْبًا إِلا سَتَرْتَهُ، وَلا
-رِزْقًا إِلا بَسَطْتَهُ، وَلا خَوْفًا إِلا آمَنْتَهُ، وَلا سُوءً إِلا
-صَرَفْتَهُ، وَلا
-  </p>
-</blockquote>
+> لا إِلهَ إِلا اللّهُ الْعَظِيمُ الْحَلِيمُ، لا إِلهَ إِلا اللّهُ رَبّ
+> الْعَرْشِ الْكَرِيمُ، الْحَمْدُ لِلّهِ رَبّ الْعَالَمِينَ. اللّهُمّ
+> إِنّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ، وَعَزَائِمَ مَغْفِرَتِكَ،
+> وَالْغَنِيمَةَ مِنْ كُلّ بِرّ، وَالسّلامَةَ مِنْ كُلّ إِثْمٍ. اللّهُمّ
+> لا تَدَعْ لِي ذَنْبًا إِلا غَفَرْتَهُ، وَلا هَمًّا إِلا فَرّجْتَهُ،
+> وَلا سُقْمًا إِلا شَفَيْتَهُ، وَلا عَيْبًا إِلا سَتَرْتَهُ، وَلا
+> رِزْقًا إِلا بَسَطْتَهُ، وَلا خَوْفًا إِلا آمَنْتَهُ، وَلا سُوءً إِلا
+> صَرَفْتَهُ، وَلا
 
-<blockquote dir="rtl">
-  <p>
-حَاجَةً هِيَ لَكَ رِضًا وَلِيَ فِيهَا صَلاحٌ إِلا قَضَيْتَهَا يَا
-أَرْحَمَ الرَّاحِمِينَ، آمِينَ رَبّ الْعَالَمِينَ.
-  </p>
-</blockquote>
+> حَاجَةً هِيَ لَكَ رِضًا وَلِيَ فِيهَا صَلاحٌ إِلا قَضَيْتَهَا يَا
+> أَرْحَمَ الرَّاحِمِينَ، آمِينَ رَبّ الْعَالَمِينَ.
 
 *“In the name of Allah, the Beneficent, the Merciful.*
 
@@ -1211,15 +919,11 @@ The Prophet of Allah (S) has said that the person who recites
 *Astaghfar* once after the Asr prayer, Allah will forgive all his sins.
 The *Astaghfar* is as follows
 
-<blockquote dir="rtl">
-  <p>
-أَسْتَغْفِرُ اللّهَ الّذِي لا إِلهَ إِلا هُوَ الْحَيّ الْقَيّومُ
-الرّحْمنُ الرّحِيمُ، ذُو الْجَلالِ وَالاكْرَامِ، وَأَسْألُهُ أَنْ
-يَتُوبَ عَلَيّ تَوْبَةَ عَبْدٍ ذَلِيلٍ خَاضِعٍ فَقِيرٍ، بَائِسٍ
-مِسْكِينٍ مُسْتَكِينٍ مُسْتَجِيرٍ، لا يَمْلِكُ لِنَفْسِهِ نَفْعًا وَلا
-ضَرًّا وَلا مَوْتًا وَلا حَيَاةً وَلا نُشُورًا.
-  </p>
-</blockquote>
+> أَسْتَغْفِرُ اللّهَ الّذِي لا إِلهَ إِلا هُوَ الْحَيّ الْقَيّومُ
+> الرّحْمنُ الرّحِيمُ، ذُو الْجَلالِ وَالاكْرَامِ، وَأَسْألُهُ أَنْ
+> يَتُوبَ عَلَيّ تَوْبَةَ عَبْدٍ ذَلِيلٍ خَاضِعٍ فَقِيرٍ، بَائِسٍ
+> مِسْكِينٍ مُسْتَكِينٍ مُسْتَجِيرٍ، لا يَمْلِكُ لِنَفْسِهِ نَفْعًا وَلا
+> ضَرًّا وَلا مَوْتًا وَلا حَيَاةً وَلا نُشُورًا.
 
 *“I ask forgiveness of Allah, (who is) "There is no god save He,"
 everliving, eternal, beneficent, merciful, owner of might and majesty. I
@@ -1285,17 +989,13 @@ Imam Musa al-Kadhim (as) used to do the *sajda* after completing his
 about his *Sajda al-Shukr,* the Imam (as) said, one should recite the
 following supplication while doing the *Sajda:*
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إِنّي أُشْهِدُكَ وَأُشْهِدُ مَلائِكَتَكَ وَأَنْبِيَائَكَ
-وَرُسُلَكَ وَجَمِيعَ خَلْقِكَ أنَّكَ اللهُ رَبّي وَالإسْلامَ دِينِي
-وَمُحَمّدًا نَبِيِّي وَعَلِيّاً وَالحَسَنَ وَالحُسَيْنَ وَعَلِيَّ بْنَ
-الحُسَيْنِ وَمُحَمَّدَ بْنَ عَلِيٍّ وَجَعْفَرَ بْنَ مُحَمَّدٍ وَمُوسَى
-بْنَ جَعْفَرٍ وَعَلِيَّ بْنَ مُوسَى وَمُحَمَّدَ بْنَ عَلِيٍّ وَعَلِيَّ
-بْنَ مُحَمَّدٍ وَالحَسَنَ بْنَ عَلِيٍّ وَالحُجَّةَ بْنَ الحَسَنِ
-أَئِمَّتِي بِهِمْ أَتَوَلَّى وَمِنْ أعْدَائِهِمْ أَتَبَرَّأُ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إِنّي أُشْهِدُكَ وَأُشْهِدُ مَلائِكَتَكَ وَأَنْبِيَائَكَ
+> وَرُسُلَكَ وَجَمِيعَ خَلْقِكَ أنَّكَ اللهُ رَبّي وَالإسْلامَ دِينِي
+> وَمُحَمّدًا نَبِيِّي وَعَلِيّاً وَالحَسَنَ وَالحُسَيْنَ وَعَلِيَّ بْنَ
+> الحُسَيْنِ وَمُحَمَّدَ بْنَ عَلِيٍّ وَجَعْفَرَ بْنَ مُحَمَّدٍ وَمُوسَى
+> بْنَ جَعْفَرٍ وَعَلِيَّ بْنَ مُوسَى وَمُحَمَّدَ بْنَ عَلِيٍّ وَعَلِيَّ
+> بْنَ مُحَمَّدٍ وَالحَسَنَ بْنَ عَلِيٍّ وَالحُجَّةَ بْنَ الحَسَنِ
+> أَئِمَّتِي بِهِمْ أَتَوَلَّى وَمِنْ أعْدَائِهِمْ أَتَبَرَّأُ.
 
 *“O Allah I bear witness to you, your angels and your prophets and your
 messengers and all your creations, that you Allah, is my Lord and Islam
@@ -1310,25 +1010,17 @@ Then the person should recite *Shukran* a hundred times and also say the
 
 Afterwards he should say thrice:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إنِّي أَنْشُدُكَ دَمَ المَظْلُومِ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إنِّي أَنْشُدُكَ دَمَ المَظْلُومِ.
 
 ***Allahumma inni unshudaka dam al mazloom***
 
 Then repeat the following thrice as well:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إنِّي أَنْشُدُكَ بِإيوَائِكَ عَلَى نَفْسِكَ لأعْدَائِكَ
-لَتُهْلِكَنَّهُمْ بِأيْدِينَا وَأيْدِي المُؤْمِنِينَ، اَللَّهُمَّ إنّي
-أنْشُدُكَ بِإيوَائِكَ عَلَى نَفْسِكَ لأوْلِياءِكَ لَتُظْفِرَنَّهُمْ
-بِعَدُوِّكَ وَعَدُوِّهِمْ أنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَعَلَى
-المُسْتَحْفَظِينَ مِنْ آلِ مُحَمَّدٍ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إنِّي أَنْشُدُكَ بِإيوَائِكَ عَلَى نَفْسِكَ لأعْدَائِكَ
+> لَتُهْلِكَنَّهُمْ بِأيْدِينَا وَأيْدِي المُؤْمِنِينَ، اَللَّهُمَّ إنّي
+> أنْشُدُكَ بِإيوَائِكَ عَلَى نَفْسِكَ لأوْلِياءِكَ لَتُظْفِرَنَّهُمْ
+> بِعَدُوِّكَ وَعَدُوِّهِمْ أنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَعَلَى
+> المُسْتَحْفَظِينَ مِنْ آلِ مُحَمَّدٍ.
 
 ***Allahumma inni unsheduka bayuaayeka ala nafseka leaadayeka
 letuhlaknahum beaidiana wa aidial Mu’mineena allahumma inni ansheduka
@@ -1337,25 +1029,17 @@ antusalle ala Muhammadin wa alal mustahfezeena min aale Muhammadin***
 
 Then he should recite the following thrice:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمَّ إنّي أسْأَلُكَ اليُسْرَ بَعْدَ العُسْرِ.
-  </p>
-</blockquote>
+> اَللَّهُمَّ إنّي أسْأَلُكَ اليُسْرَ بَعْدَ العُسْرِ.
 
 ***Allahumma inni asalukal yusra baadal usre***
 
 Then he should keep his right cheek at the place of prostration and
 repeat thrice the following:
 
-<blockquote dir="rtl">
-  <p>
-يَا كَهفِي حِينَ تُعيِينِي المَذاهِبُ وَتَضيقُ عَليَّ الأرْضُ بِما
-رَحُبَتْ وَيا بَارِئَ خَلقِي رَحْمَةً بِي وَكُنْتَ عَن خَلقِي
-غَنِيّاً، صَلِّ عَلى مُحَمَّدٍ وَعَلى المُسْتَحْفَظِينَ مِن آلِ
-محَمَّدٍ.
-  </p>
-</blockquote>
+> يَا كَهفِي حِينَ تُعيِينِي المَذاهِبُ وَتَضيقُ عَليَّ الأرْضُ بِما
+> رَحُبَتْ وَيا بَارِئَ خَلقِي رَحْمَةً بِي وَكُنْتَ عَن خَلقِي
+> غَنِيّاً، صَلِّ عَلى مُحَمَّدٍ وَعَلى المُسْتَحْفَظِينَ مِن آلِ
+> محَمَّدٍ.
 
 ***Ya kahufi heena tuainil mazahiba wa tuzeeqa alalarze bema rahubato wa
 ya berabbia khalqi rahmata bee wa kunto min qalqi ghaniyan salle ala
@@ -1364,12 +1048,8 @@ Muhammadin wa alal mustahfezeena min aale Muhammadin***
 Then the left cheek is kept at the place of prostration and the
 following words recited thrice:
 
-<blockquote dir="rtl">
-  <p>
-يَا مُذِلَّ كُلِّ جَبّارٍ، يَا مُعِزَّ كُلِّ ذَليلٍ، قَدْ -
-وَعِزَّتِكَ - بَلَغَ بِي مَجْهُودِي.
-  </p>
-</blockquote>
+> يَا مُذِلَّ كُلِّ جَبّارٍ، يَا مُعِزَّ كُلِّ ذَليلٍ، قَدْ -
+> وَعِزَّتِكَ - بَلَغَ بِي مَجْهُودِي.
 
 ***Ya muzilla kulli jabbarin ya muizza kulli zaleelin qad izzateka
 balagh bee majuhoori.***
@@ -1377,13 +1057,9 @@ balagh bee majuhoori.***
 In one narration it is said that the Prophet of Allah (S) used to recite
 the following while doing the prostration of thanksgiving:
 
-<blockquote dir="rtl">
-  <p>
-أعُوذُ بكَ مِن نارٍ حَرُّها لا يُطْفى، وَأعوذُ بِكَ مِن نارٍ جَدِيدُها
-لا يَبْلى، وأعُوذُ بكَ مِن نارٍ عَطْشانُها لا يُروَى، وأعُوذُ بكَ مِن
-نارٍ مَسلُوبُها لا يُكسَى.
-  </p>
-</blockquote>
+> أعُوذُ بكَ مِن نارٍ حَرُّها لا يُطْفى، وَأعوذُ بِكَ مِن نارٍ جَدِيدُها
+> لا يَبْلى، وأعُوذُ بكَ مِن نارٍ عَطْشانُها لا يُروَى، وأعُوذُ بكَ مِن
+> نارٍ مَسلُوبُها لا يُكسَى.
 
 ***Aauzubeka min naarin harreha la yutfa wa aaoozubeka min naarin
 jadeeduha la yubla wa aauzubeka min naarin utusanuha la yuruwayee wa
@@ -1392,12 +1068,8 @@ aaoozubeka min naarin masukubaha la yuksa***
 It is narrated that Amir-ulMu’mineen (as) used to recite the following
 supplication while doing the *Sajda al-Shukr:*
 
-<blockquote dir="rtl">
-  <p>
-إرْحَمْ ذُلِّي بَينَ يَدَيكَ وَتَضَرُّعِي إلَيْكَ وَوَحْشَتِي مِنَ
-النّاسِ وَأُنْسِي بِكَ يا كَرِيمُ.
-  </p>
-</blockquote>
+> إرْحَمْ ذُلِّي بَينَ يَدَيكَ وَتَضَرُّعِي إلَيْكَ وَوَحْشَتِي مِنَ
+> النّاسِ وَأُنْسِي بِكَ يا كَرِيمُ.
 
 ***Irhamo zulli baina yadaika wa tazurrai ilaika wa wahshati minan naase
 wa unsa beka ya kareem***
@@ -1419,11 +1091,7 @@ Berabbil Naas* before going to bed.
 Imam Muhammad Al-Baqir (as) says that when one turns in the bed, he
 should say:
 
-<blockquote dir="rtl">
-  <p>
-اَلحَمْدُ للهِ وَاللهُ أكْبَرُ
-  </p>
-</blockquote>
+> اَلحَمْدُ للهِ وَاللهُ أكْبَرُ
 
 *Alhamdu lillah wallaho akbar*
 
@@ -1431,15 +1099,11 @@ Imam Ja’far As-Sadiq (as) has said that when a person wishes to wake up
 at a particular time in the night, he should recite the following before
 going to bed:
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ لا تُنْسِنِي ذِكْرَكَ وَلا تُؤَمِّنِّي مَكْرَكَ وَلا
-تَجْعَلْنِي مِن الغَافِلِينَ وأَنْبِهْنِي لأَحَبِّ السَّاعَاتِ إلَيْكَ
-أدْعُوكَ فِيها فَتَسْتَجِيبَ لِي وَأسْأَلُكَ فَتُعْطِيَنِي
-وَأَسْتَغْفِرُكَ فَتَغْفِرَ لِي إنَّهُ لا يَغفِرُ الذُّنُوبَ إلاّ
-أنْتَ يا أرْحَمَ الرّاحِمِينَ.
-  </p>
-</blockquote>
+> اَللّهُمَّ لا تُنْسِنِي ذِكْرَكَ وَلا تُؤَمِّنِّي مَكْرَكَ وَلا
+> تَجْعَلْنِي مِن الغَافِلِينَ وأَنْبِهْنِي لأَحَبِّ السَّاعَاتِ إلَيْكَ
+> أدْعُوكَ فِيها فَتَسْتَجِيبَ لِي وَأسْأَلُكَ فَتُعْطِيَنِي
+> وَأَسْتَغْفِرُكَ فَتَغْفِرَ لِي إنَّهُ لا يَغفِرُ الذُّنُوبَ إلاّ
+> أنْتَ يا أرْحَمَ الرّاحِمِينَ.
 
 *Allahumma la tunsini zikraka wa la tumani makruka wa la tajalni min al
 ghafeleena wa anabbehuni leuhibbul saa aate ilaika adooka fiha
@@ -1456,23 +1120,15 @@ thousand times. The person then should sleep in a dress free of any
 impurity. He should keep his right hand under his head while lying down
 to sleep and say a hundred times:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللّهِ، وَالْحَمْدُ للّهِ، وَلا إِلهَ إِلا اللّهُ، وَاللّهُ
-أَكْبَرُ، وَلا حَوْلَ وَلا قُوّةَ إِلا بِاللّهِ.
-  </p>
-</blockquote>
+> سُبْحَانَ اللّهِ، وَالْحَمْدُ للّهِ، وَلا إِلهَ إِلا اللّهُ، وَاللّهُ
+> أَكْبَرُ، وَلا حَوْلَ وَلا قُوّةَ إِلا بِاللّهِ.
 
 *Subhan allah wal hamdu lillah wa la ilaha il Allaho wallaho akbar wa la
 haula wala quwwata illa billah*
 
 And he should say a hundred times these words before sleeping:
 
-<blockquote dir="rtl">
-  <p>
-مَا شَاءَ اللهُ
-  </p>
-</blockquote>
+> مَا شَاءَ اللهُ
 
 *Masha Allah*
 
@@ -1481,14 +1137,10 @@ He will witness the Prophet of Allah (S) in his dream.
 And if a person wishes to see Amir’ul-Mu’mineen (as) in his dream, he
 should recite the following supplication before going to bed:
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمّ إنّي أسْألُكَ يَا مَنْ لَهُ لُطْفٌ خَفِيٌّ وأيَادِيهِ
-باسِطَةٌ لا تَنْقَضِي أسْأَلُكَ بِلُطْفِكَ الَّذِي مَا لَطُفْتَ بهِ
-لِعَبدٍ إلاّ كُفِيَ أنْ تُرِيَنِي مَولايَ أمِيرَ المُؤمِنِينَ عَلَيهِ
-السَّلامُ في مَنامِي.
-  </p>
-</blockquote>
+> اَللَّهُمّ إنّي أسْألُكَ يَا مَنْ لَهُ لُطْفٌ خَفِيٌّ وأيَادِيهِ
+> باسِطَةٌ لا تَنْقَضِي أسْأَلُكَ بِلُطْفِكَ الَّذِي مَا لَطُفْتَ بهِ
+> لِعَبدٍ إلاّ كُفِيَ أنْ تُرِيَنِي مَولايَ أمِيرَ المُؤمِنِينَ عَلَيهِ
+> السَّلامُ في مَنامِي.
 
 *Allahumma inni asaluka ya man lahu lutfun khafiun wa ayadaihe basitatun
 la tanquzi asoluka belutfekal khafi allazi ma latafta behi leabdil akfa
@@ -1498,21 +1150,17 @@ If someone wishes to see a dead and departed relative in his dream, he
 should do the ablution, recite the *Tasbeeh al-Fatima*, and then recite
 the following invocation
 
-<blockquote dir="rtl">
-  <p>
-اَللَّهُمّ! أنْتَ الحَيُّ الّذِي لا يُوصَفُ وَالإيمَانُ يُعْرَفُ
-مِنْهُ، مِنْكَ بَدَتِ الاَشْياءُ وَإلَيكَ تَعُودُ، فَما أقْبَلَ مِنْها
-كُنْتَ مَلْجَأَهُ وَمَنْجاهُ، وَما أدْبَرَ مِنهَا لَمْ يَكُنْ لهُ
-مَلْجَأٌ وَلا مَنْجًى مِنْكَ إلاّ إلَيْكَ، وَأسْألُكَ بِلا إلَهَ إلاّ
-أنْتَ، وأسْأَلُكَ بِبِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ وَبِحَقِّ
-حَبِيبِكَ مُحَمَّدٍ صَلّى اللهُ عَلَيهِ وَآلِهِ سَيِّدِ النَّبِيِّينَ
-وَبِحَقِّ عَلِيٍّ خَيْرِ الوَصِيِّينَ وَبِحَقِّ فَاطِمَةَ سَيِّدَةِ
-نِسَاءِ العَالَمِينَ وَبِحَقِّ الحَسَنِ وَالحُسَيْنِ الَّذَيْنِ
-جَعَلْتَهُما سَيِّدَيْ شَبابِ أهْلِ الجَنَّةِ عَلَيْهِم أجْمَعِينَ
-السَّلامُ أنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِهِ وَأنْ تُرِيَنِي
-مَيِّتِي فِي الحَالِ الَّتِي هُوَ فِيهَا.
-  </p>
-</blockquote>
+> اَللَّهُمّ! أنْتَ الحَيُّ الّذِي لا يُوصَفُ وَالإيمَانُ يُعْرَفُ
+> مِنْهُ، مِنْكَ بَدَتِ الاَشْياءُ وَإلَيكَ تَعُودُ، فَما أقْبَلَ مِنْها
+> كُنْتَ مَلْجَأَهُ وَمَنْجاهُ، وَما أدْبَرَ مِنهَا لَمْ يَكُنْ لهُ
+> مَلْجَأٌ وَلا مَنْجًى مِنْكَ إلاّ إلَيْكَ، وَأسْألُكَ بِلا إلَهَ إلاّ
+> أنْتَ، وأسْأَلُكَ بِبِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ وَبِحَقِّ
+> حَبِيبِكَ مُحَمَّدٍ صَلّى اللهُ عَلَيهِ وَآلِهِ سَيِّدِ النَّبِيِّينَ
+> وَبِحَقِّ عَلِيٍّ خَيْرِ الوَصِيِّينَ وَبِحَقِّ فَاطِمَةَ سَيِّدَةِ
+> نِسَاءِ العَالَمِينَ وَبِحَقِّ الحَسَنِ وَالحُسَيْنِ الَّذَيْنِ
+> جَعَلْتَهُما سَيِّدَيْ شَبابِ أهْلِ الجَنَّةِ عَلَيْهِم أجْمَعِينَ
+> السَّلامُ أنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَآلِهِ وَأنْ تُرِيَنِي
+> مَيِّتِي فِي الحَالِ الَّتِي هُوَ فِيهَا.
 
 *“Oh Allah, you are the Alive who can not be describedand faith is known
 by you, you are the origin of things and everything goes back to you,
@@ -1526,5 +1174,4 @@ prayer and two *salaams (benedictions).* In every genuflection (*Rakat)*
 after reciting the *Sura al-Fateha* one should recite the *Sura al-Ahad*
 fifty times. When a person completes this prayer, all his sins would
 have been pardoned by Allah!
-
 

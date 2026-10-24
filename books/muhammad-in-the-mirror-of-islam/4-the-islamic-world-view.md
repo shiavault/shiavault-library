@@ -471,4 +471,3 @@ secretly of the divine mysteries in a language which they alone
 understand, and thus it guides them from the depths of ignorance to the
 pinnacle of knowledge and wisdom.
 
-

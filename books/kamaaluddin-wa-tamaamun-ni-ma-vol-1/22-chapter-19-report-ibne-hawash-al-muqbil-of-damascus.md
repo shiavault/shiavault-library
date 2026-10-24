@@ -25,4 +25,3 @@ brought faith under the threat of death I would have indeed accepted
 die on it. The Messenger of Allah (S) said: ‘Come and execute him.’ The
 executioner stepped forward and cut off his head.”
 
-

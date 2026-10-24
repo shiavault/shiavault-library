@@ -274,4 +274,3 @@ a number of cases called a thing by a metaphorical name (الإسم المجاز
 [^22]: How نسيان can be attributed to Allah in Q.59, 19 in expl. By Sh.
 Mufid. Tas. (Mur. i. 249-250).
 
-

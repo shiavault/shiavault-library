@@ -32,4 +32,3 @@ characterization mobilized Muslim philosophers with a theoretical
 apparatus, which enabled them to provide a solution for some versions of
 the problem of evil.
 
-

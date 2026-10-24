@@ -250,4 +250,3 @@ Heaven. But the unbelievers, as is to be expected, will forever remain
 in Hell. Cp. p. 80, n. 1 . Reminiscent of the Mu'tazilite doctrine, MC,
 62, BHA, no.232.
 
-

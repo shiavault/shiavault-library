@@ -7,10 +7,5 @@ Amassing [Wealth]
 remain is from the greatest ignorance.
 
 > 1ـ تَكَثُّرُكَ (تَكَبُّرُكَ) بِما لايَبْقى لَكَ ولاتَبْقى لَهُ مِنْ
-<blockquote dir="rtl">
-  <p>
-أعْظَمِ الجَهْلِ.
-  </p>
-</blockquote>
-
+> أعْظَمِ الجَهْلِ.
 

@@ -893,4 +893,3 @@ hadith information.
 1961), by Abu l­Qasim al­Husayn b. Muhammad b. al­Mafdal al­Isfahani (d.
 502/1108­9), a famous lexicon of obscure meanings in the Qur'an.
 
-

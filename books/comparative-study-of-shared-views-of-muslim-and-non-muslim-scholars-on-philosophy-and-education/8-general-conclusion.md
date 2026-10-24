@@ -18,4 +18,3 @@ would be surely be a source for achieving a scientific and intellectual
 unity that would be a factor in preventing conflicts and differences
 among different societies.
 
-

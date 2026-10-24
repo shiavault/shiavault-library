@@ -428,4 +428,3 @@ II, page 70.
 
 [^9]: Seerah-i Ibn Hisham, vol. I, pp. 300 - 301.
 
-

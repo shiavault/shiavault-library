@@ -1604,4 +1604,3 @@ alive for a year after (the martyrdom of) Imam Husayn (a.s.) and died of
 anger, while she never sat in the shade after (the martyrdom of) Imam
 Husayn (a.s.).
 
-

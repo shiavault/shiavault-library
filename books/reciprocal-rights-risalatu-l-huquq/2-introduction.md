@@ -81,7 +81,6 @@ the proper direction!
 
 \* \* \*
 
-
 **A. Rights Of God Over Oneself**
 
 1. As for the greatest right of God over you, is that you worship Him
@@ -149,5 +148,4 @@ casting down the eyes, since they [your eyes] are the best of helpers —
 and by often remembering death and by warning yourself of [the wrath of]
 God and of His punishment. And from God is protection and help. And
 there is no power and no strength save in Him.
-
 

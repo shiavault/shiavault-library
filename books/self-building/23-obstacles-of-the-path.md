@@ -19,13 +19,9 @@ may descend into it?
 
 Imam al-Sadiq (a.s.) narrated a tradition from his father:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى عبدالله عليه السلام قال كان ابى يقول: ما من شيء افسد للقلب من
-خطيئته ان القلب ليواقع الخطيئة فلا تزال به حتى تغلب عليه فيصير اعلا
-اسفله.
-  </p>
-</blockquote>
+> عن ابى عبدالله عليه السلام قال كان ابى يقول: ما من شيء افسد للقلب من
+> خطيئته ان القلب ليواقع الخطيئة فلا تزال به حتى تغلب عليه فيصير اعلا
+> اسفله.
 
 *“For a human being there is nothing worst than sin because it wages war
 against heart until taking over its control. This condition of heart is
@@ -58,22 +54,14 @@ from that in accordance to traditions the love of this world is the
 roots of all sins and transgressions, and a sinner can never ascent
 towards God's Nearness. Imam al-Sadiq (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: حب الدنيا راس كل خطيئة.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: حب الدنيا راس كل خطيئة.
 
 *“The love of world is the root of all evils.”*[^2]
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: اول ما عصى الله تبارك وتعالى بست
-خصال: حب الدنيا وحب الرياسة وحب الطعام وحب الراحة.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: اول ما عصى الله تبارك وتعالى بست
+> خصال: حب الدنيا وحب الرياسة وحب الطعام وحب الراحة.
 
 *“The first thing through which transgression against God-Almighty was
 done consisted of six characteristics: Love of world, love of position,
@@ -82,20 +70,16 @@ comforts.”*[^3]
 
 Jabir narrated that once he visited Imam al-Baqir (a.s.) who said:
 
-<blockquote dir="rtl">
-  <p>
-عن جابر قال: دخلت على ابن جعفر عليه السلام فقال: يا جابر! والله اني
-لمح زؤن واني لمشفول القلب: قلت: جعلت فداك, وما شغلك وما حزن قلبك؟ فقال
-يا جابر! إنه من دخل قلبه صافي خالص دين الله شغل قلبه عما سواه، يا
-جابر!!. ما الدنيا وما عسى أن تكون الدنيا؟ هل هي إلا طعام أكلته أو ثوب
-لبسته أو امرأة أصبتها؟ يا جابر! إن المؤمنين لم يطمئنوا إلى الدنيا
-ببقائهم فيها ولم يأمنوا قدومهم الآخرة يا جابر! الآخرة دار قرار والدنيا
-دار فناء وزوال, ولكن أهل الدنيا أهل غفلة, وكأن المؤمنين هم الفقهاء,
-أهل فكرة وعبرة لم يصمّهم عن ذكر الله جل اسمه ما سمعوا بآذانهم ولم
-يعمهم عن ذكر الله ما رأوا من الزينة بأعينهم ففازوا بثواب الآخرة، كما
-فازوا بذلك العلم..
-  </p>
-</blockquote>
+> عن جابر قال: دخلت على ابن جعفر عليه السلام فقال: يا جابر! والله اني
+> لمح زؤن واني لمشفول القلب: قلت: جعلت فداك, وما شغلك وما حزن قلبك؟ فقال
+> يا جابر! إنه من دخل قلبه صافي خالص دين الله شغل قلبه عما سواه، يا
+> جابر!!. ما الدنيا وما عسى أن تكون الدنيا؟ هل هي إلا طعام أكلته أو ثوب
+> لبسته أو امرأة أصبتها؟ يا جابر! إن المؤمنين لم يطمئنوا إلى الدنيا
+> ببقائهم فيها ولم يأمنوا قدومهم الآخرة يا جابر! الآخرة دار قرار والدنيا
+> دار فناء وزوال, ولكن أهل الدنيا أهل غفلة, وكأن المؤمنين هم الفقهاء,
+> أهل فكرة وعبرة لم يصمّهم عن ذكر الله جل اسمه ما سمعوا بآذانهم ولم
+> يعمهم عن ذكر الله ما رأوا من الزينة بأعينهم ففازوا بثواب الآخرة، كما
+> فازوا بذلك العلم..
 
 *“Oh Jabir my heart is sad and lull of grief 'May my soul be sacrificed
 upon you, what is the reason of your grief ? I said. The Imam said: 'In
@@ -122,12 +106,8 @@ religion.”*[^4]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: لايجد المؤمن حلاوة الايمان فى قلبه
-حتى لا يبالى من اكل الدنيا.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: لايجد المؤمن حلاوة الايمان فى قلبه
+> حتى لا يبالى من اكل الدنيا.
 
 *“A person never tastes the sweetness of faith until and unless he
 becomes indifferent to whatever has been eaten by him.”*[^5]
@@ -190,22 +170,14 @@ migration and ascension towards the Celestial Kingdom of God-Almighty.
 
 God-Almighty has said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ
-  </p>
-</blockquote>
+> وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ
 
 ***“And follow not desire that it beguile thee from the way of God.
 (37:26)***
 
 The Commander of the Faithful Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: اشجع الناس من غلب هواه.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: اشجع الناس من غلب هواه.
 
 *“The most brave person is the one who could dominate over the passions
 of his self.”*[^7]
@@ -226,13 +198,9 @@ eating and drinking, when would taste the sweetness of supplication with
 God-Almighty? It is because of these considerations that overeating has
 been condemned in Islam. Imam al-Sadiq (a.s.) said to Abu-Basir:
 
-<blockquote dir="rtl">
-  <p>
-ابو بصير عن ابي عبدالله عليه السلام قال: قال لى: يا ابا محمد! ان البطن
-ليطغى من اكله, واقرب ما يكون العبد من الله اذا خف بطنه وابغض ما يكون
-العبد إلى الله اذا امتلا بطنه.
-  </p>
-</blockquote>
+> ابو بصير عن ابي عبدالله عليه السلام قال: قال لى: يا ابا محمد! ان البطن
+> ليطغى من اكله, واقرب ما يكون العبد من الله اذا خف بطنه وابغض ما يكون
+> العبد إلى الله اذا امتلا بطنه.
 
 *“Stomach transgresses under the influence of over-eating. The most
 nearest situation between God-Almighty and his servant is -when the
@@ -241,34 +209,22 @@ full.”*[^8]
 
 Imam al-Sadiq also said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابي عبدالله عليه السلام قال: ان الله يبغض كثرة الاكل.
-  </p>
-</blockquote>
+> عن ابي عبدالله عليه السلام قال: ان الله يبغض كثرة الاكل.
 
 *“God-Almighty considers over eating as something indecent.*”[^9]
 
 The Holy Prophet (S) had said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): لا تشبعوا فيطفى نور المعرفة من قلوبكم.
-  </p>
-</blockquote>
+> قال رسول الله (ص): لا تشبعوا فيطفى نور المعرفة من قلوبكم.
 
 *“Don't indulge in over-eating because it would quench the light of
 faith within your hearts.”*[^10]
 
 Imam al-Sadiq (a.s.) had said in a narration:
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق عليه السلام: ليس شيء اضر لقلب المؤمن من كثرة الاكل وهى
-مورثة شيئين: قسوة القلب وهيجان الشهوة, والجوع ادام للمؤمنين وغدا للروح
-وطعام للقلب وصحة للبدن.
-  </p>
-</blockquote>
+> قال الصادق عليه السلام: ليس شيء اضر لقلب المؤمن من كثرة الاكل وهى
+> مورثة شيئين: قسوة القلب وهيجان الشهوة, والجوع ادام للمؤمنين وغدا للروح
+> وطعام للقلب وصحة للبدن.
 
 *“For the heart of a believer there is nothing worst than over-eating,
 because it will cause hard-heartedness and seduction, while hunger
@@ -277,12 +233,8 @@ and health for his body.”*[^11]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال امير المؤمنين عليه السلام: اذا اراد الله صلاح عبده الهمه قلة
-الكلام وقلة الطعام وقلة المنام.
-  </p>
-</blockquote>
+> قال امير المؤمنين عليه السلام: اذا اراد الله صلاح عبده الهمه قلة
+> الكلام وقلة الطعام وقلة المنام.
 
 *“When God-Almighty intends to reform the believer's affair, He bestows
 upon him three blessings: less sleep, less appetite, and less
@@ -290,11 +242,7 @@ speech.”*[^12]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: نعم العون على اسر النفس وكسر عادتها التجوع
-  </p>
-</blockquote>
+> قال على عليه السلام: نعم العون على اسر النفس وكسر عادتها التجوع
 
 *“Hunger is the best help for controlling self and breaking up chronic
 habits.”*[^13]
@@ -302,14 +250,10 @@ habits.”*[^13]
 There is a tradition narrated by Imam ‘Ali (a.s.) that on the night of
 Ascent (*Mairaj*), God-Almighty said to the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: قال الله تبارك وتعالى ليلة المعراج: يا احمد! لو
-ذقت حلاوة الجوع الصمت والخلوة وما ورثوا منها. قال يا رب! ما ميراث
-الجوع؟ قال: الحكمة وحفظ القلب والتقرب الى والحزن الدائم وخفة بين الناس
-وقول الحق, ولا يبالى عاش بيسرا وبعسر.
-  </p>
-</blockquote>
+> قال على عليه السلام: قال الله تبارك وتعالى ليلة المعراج: يا احمد! لو
+> ذقت حلاوة الجوع الصمت والخلوة وما ورثوا منها. قال يا رب! ما ميراث
+> الجوع؟ قال: الحكمة وحفظ القلب والتقرب الى والحزن الدائم وخفة بين الناس
+> وقول الحق, ولا يبالى عاش بيسرا وبعسر.
 
 *“Oh Ahmad! How sweet and beautiful are the hunger, silence, and
 seclusion? 'Oh God! What is the advantage of hunger?' Asked the Holy
@@ -352,13 +296,9 @@ that too much talking and nonsense conversations have been severely
 condemned in traditions. For example: The Holy Prophet (S) had
 said:[^15]
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: لا تكثروا الكلام بغير ذكر الله فان
-كثرة الكلام بغير ذكر الله طقسوا لقلب. ان ابعد الناس من الله القلب
-القاسى.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: لا تكثروا الكلام بغير ذكر الله فان
+> كثرة الكلام بغير ذكر الله طقسوا لقلب. ان ابعد الناس من الله القلب
+> القاسى.
 
 *“Avoid speaking too much except while reciting invocations for
 God-Almighty, because, utterance of too many words other than God's
@@ -367,24 +307,16 @@ from God-Almighty are the people with darkened heart.”*
 
 The Commander of the Faithful, Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلام: اخزن لسانك وعد كلامك يقل كلامك الا بخير.
-  </p>
-</blockquote>
+> قال على عليه السلام: اخزن لسانك وعد كلامك يقل كلامك الا بخير.
 
 *“Control your tongue and do count the words uttered by you in order to
 reduce your talk while engaging in an un-pious act.”*[^16]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: الكلام ثلثة: فرابح وسالم وشاحب. فاما
-الرابح فالذى يذكر الله, واما السالم فالذى يقول ما احب الله, واما
-الشاحب فالذى يخوض فى الناس.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: الكلام ثلثة: فرابح وسالم وشاحب. فاما
+> الرابح فالذى يذكر الله, واما السالم فالذى يقول ما احب الله, واما
+> الشاحب فالذى يخوض فى الناس.
 
 *“There are three kind of talks, namely: useful, good and nonsense. The
 useful talks consist of God's invocation, healthy talks are the ones
@@ -393,12 +325,8 @@ talking about the people behind their back.”*[^17]
 
 Also he said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: امسك لسانك فانها صدقة تصدق بها على
-نفسك, ثم قال: ولا يعرف حقيقه الايمان حتى يحزن من لسانه.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: امسك لسانك فانها صدقة تصدق بها على
+> نفسك, ثم قال: ولا يعرف حقيقه الايمان حتى يحزن من لسانه.
 
 *“Control your tongue because it is the best gift which you may present
 to the self; then he further elaborated: a person never tastes the
@@ -406,12 +334,8 @@ reality of belief but to strictly control his tongue.”*[^18]
 
 Imam al-Ridha [^19] said:
 
-<blockquote dir="rtl">
-  <p>
-قال ابو الحسن الرضا عليه السلام: من علامات الفقه الحلم والعلم والصمت.
-ان الصمت باب من أبواب الحكمة ان الصمت يكسب المحبة انه دليل على كل خير.
-  </p>
-</blockquote>
+> قال ابو الحسن الرضا عليه السلام: من علامات الفقه الحلم والعلم والصمت.
+> ان الصمت باب من أبواب الحكمة ان الصمت يكسب المحبة انه دليل على كل خير.
 
 *“There are three things which indicate symptoms of intelligence and
 religious knowledge of jurisprudence: Patience, learning, and silence.
@@ -420,34 +344,22 @@ responsible for each blessing.”*[^20]
 
 The Commander of the Faithful Imam ‘Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-قال على عليه السلالم: اذ اتم العقل نقص الكلام.
-  </p>
-</blockquote>
+> قال على عليه السلالم: اذ اتم العقل نقص الكلام.
 
 *“The more one achieves perfection of reason the less he talks.”*[^21]
 
 Imam al-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى عبدالله عليه السلام قال: ما عبد الله بشيء افضل من الصمت والمشى
-الى بيته.
-  </p>
-</blockquote>
+> عن ابى عبدالله عليه السلام قال: ما عبد الله بشيء افضل من الصمت والمشى
+> الى بيته.
 
 *“There is no worship superior than silence and going on foot towards
 the House of God for Hajj pilgrimage.”*[^22]
 
 The Holy Prophet (S) said to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: عليك بطول الصمت فانه مطردة للشيطان
-وعون لك على امر دينك.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: عليك بطول الصمت فانه مطردة للشيطان
+> وعون لك على امر دينك.
 
 *“I recommend you to practice silence, because it would keep Satan away
 from you. It helps a lot for the protection of your religion.”*[^23]
@@ -638,5 +550,4 @@ written hundreds of the religious works, the famous among them is
 Commentary of the Holy Qur’an, (Tafsir al-Mizan) published in 20
 volumes. In this work the Noble Qur’an is expounded in an unprecedented
 manner verse by verse. [Tr].
-
 

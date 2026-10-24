@@ -40,4 +40,3 @@ idea. For example, God says that He gave the human being the best form:
 and perfected your forms, and toward Him is the destination” (64/3).
 Also: “We certainly created man in the best of forms” (95/4).
 
-

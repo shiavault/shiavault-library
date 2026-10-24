@@ -321,4 +321,3 @@ of Tabari, English version, v9, p192.
 [^7]: Sahih Bukhari book 89 hadith no. 329; Sahih Muslim, book 20 hadith
 no. 4477,4478.
 
-

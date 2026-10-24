@@ -78,4 +78,3 @@ retreat.
 
 *    His words, divine truth contain"*
 
-

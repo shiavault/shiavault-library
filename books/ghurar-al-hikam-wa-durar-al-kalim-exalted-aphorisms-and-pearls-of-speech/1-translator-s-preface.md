@@ -74,4 +74,3 @@ no. 4, Autumn 1383 Hijri Solar).
 [^2]: The most common source from which the author has taken sayings is
 the Nahj al-Balāgha.
 
-

@@ -3,11 +3,7 @@ Lesson One Hundred Forty Five: Trust In Respect Of Keeping Secrets
 
 The Holy Prophet of Islam (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-اِذا حَدَّثَ الرَّجُلُ بِحَديث، ثُمَّ الْتَفَتَ فَهِىَ اَمانَةٌ
-  </p>
-</blockquote>
+> اِذا حَدَّثَ الرَّجُلُ بِحَديث، ثُمَّ الْتَفَتَ فَهِىَ اَمانَةٌ
 
 Translation
 -----------
@@ -30,5 +26,4 @@ give rise to the trust so that it becomes obligatory to treat what he
 says as a secret of a Muslin brother.
 
 [^1]: Nahjul Fasahah, page 38
-
 

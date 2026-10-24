@@ -138,4 +138,3 @@ grave of the Prophet and said: ‘Today for the day of Badr.’ So a group
 of Ansar reproached him for [saying] that.” This has also been mentioned
 by Abu ‘Ubaidah in al-Mathalib.
 
-

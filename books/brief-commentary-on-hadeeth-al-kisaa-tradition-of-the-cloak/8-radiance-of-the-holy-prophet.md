@@ -1,13 +1,9 @@
 Radiance Of The Holy Prophet
 ============================
 
-<blockquote dir="rtl">
-  <p>
-فَأَتَيتُهُ بِالكِساءِ اليَمانِيِّ فَغَطّيتُهُ بِهِ وَ صِرتُ أَنظُرُ
-إِلَيهِ وَ إِذا وَجهُهُ يَتَلَأ لَأ كَأَنَّهُ البَدرُ فِي لَيلَةِ
-تمامِهِ وَ كَمالِهِ
-  </p>
-</blockquote>
+> فَأَتَيتُهُ بِالكِساءِ اليَمانِيِّ فَغَطّيتُهُ بِهِ وَ صِرتُ أَنظُرُ
+> إِلَيهِ وَ إِذا وَجهُهُ يَتَلَأ لَأ كَأَنَّهُ البَدرُ فِي لَيلَةِ
+> تمامِهِ وَ كَمالِهِ
 
 **I brought him the Yemeni cloak and covered him with it. I then kept on
 looking at his face, which was glittering like a moon at the night of
@@ -93,5 +89,4 @@ measured by a normal human being. It is certainly quite interesting that
 the person who is testifying on behalf of the Prophet (SA) about his
 splendor in appearance is *herself* the manifestation of the splendor of
 creation!
-
 

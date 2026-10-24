@@ -35,4 +35,3 @@ became Christian, state and Church confronted each other as distinct
 powers with interminable boundary disputes between them”. (Iqbal A. M.,
 1989: 123)
 
-

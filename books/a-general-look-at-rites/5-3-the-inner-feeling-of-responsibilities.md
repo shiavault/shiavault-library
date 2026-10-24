@@ -90,4 +90,3 @@ through the practice of rites, and man gets used to behave on its basis,
 form- ing a strong guarantee for the good individual's discharge of his
 duties and obligations.
 
-

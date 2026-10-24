@@ -76,4 +76,3 @@ their very natures are nonexistential and negative. Thus, the blindness
 and ignorance are realities and**TNNE** 's claim is just that
 philosophical analysis shows that they are nonexistent realities.
 
-

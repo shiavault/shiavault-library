@@ -125,21 +125,13 @@ is also supported by the Noble Qur’an. For instance, the return of the
 soul to the supernatural realm in sleep can be understood from the
 following verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَهُوَ الَّذِي يَتَوَفَّاكُم بِاللَّيْلِ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَهُوَ الَّذِي يَتَوَفَّاكُم بِاللَّيْلِ... ﴾
 
 ***“It is He who takes your souls by night…”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ اللَّهُ يَتَوَفَّى الأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
-فِي مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
-الأُخْرَى... ﴾
-  </p>
-</blockquote>
+> ﴿ اللَّهُ يَتَوَفَّى الأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
+> فِي مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَى عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
+> الأُخْرَى... ﴾
 
 ***“Allah takes the souls when they die and also those that have not
 died He takes in their sleep; He keeps those whose deaths have been
@@ -161,5 +153,4 @@ muddled dream [adghāth ahlām].[^3] 
 [^2]: Sūrat al-Zumar 39:42.
 
 [^3]: Extracted from the journal, “Kitāb-e Fasl”.
-
 

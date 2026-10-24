@@ -67,4 +67,3 @@ remembrance. Had it not been so, then, terrible calamities would have
 struck you and your enemies would have destroyed you."(At Ihtejaj vol.2
 Pg.598).
 
-

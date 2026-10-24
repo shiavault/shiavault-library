@@ -26,11 +26,7 @@ worship and single-handed confronted Nimrod’s regime, which supported
 idols and idol worship and he was not cowed down by Nimrod’s power; he
 said with full determination:
 
-<blockquote dir="rtl">
-  <p>
-وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَمَكُم بَعْدَ أَن تُوَلُّواْ مُدْبِرِينَ
-  </p>
-</blockquote>
+> وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَمَكُم بَعْدَ أَن تُوَلُّواْ مُدْبِرِينَ
 
 ***“And, by Allah! I will certainly do something against your idols
 after you go away, turning back.” (21:57)***
@@ -49,12 +45,8 @@ Steadfastness of Ibrahim (a.s.) in confrontation with idol worship and
 establishment of monotheism was to such an extent that the Holy Quran
 has mentioned him to be a single nation:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِبْرَهِيمَ كَانَ أُمَّةً قَانِتاً لِّلَّهِ حَنِيفاً وَلَمْ يَكُ
-مِنَ الْمُشْرِكِينَ‏
-  </p>
-</blockquote>
+> إِنَّ إِبْرَهِيمَ كَانَ أُمَّةً قَانِتاً لِّلَّهِ حَنِيفاً وَلَمْ يَكُ
+> مِنَ الْمُشْرِكِينَ‏
 
 ***“Surely Ibrahim was an exemplar, obedient to Allah, upright, and he
 was not of the polytheists.” (16:120)***
@@ -73,14 +65,10 @@ Harun. He was in no way cowed down by the magnificence of the grand
 palace or the power of the tyrannical Firon; and with perfect confidence
 said:
 
-<blockquote dir="rtl">
-  <p>
-وَ قَالَ مُوسَى‏ يَفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِ‏ّ
-الْعَلَمِينَ‏ / حَقِيقٌ عَلَى‏ أَن لَّا أَقُولَ عَلَى اللَّهِ إِلَّا
-الْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ
-بَنِى إِسْرَ ءِيلَ‏
-  </p>
-</blockquote>
+> وَ قَالَ مُوسَى‏ يَفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِ‏ّ
+> الْعَلَمِينَ‏ / حَقِيقٌ عَلَى‏ أَن لَّا أَقُولَ عَلَى اللَّهِ إِلَّا
+> الْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ
+> بَنِى إِسْرَ ءِيلَ‏
 
 ***“And Musa said: O Firon! surely I am an apostle from the Lord of the
 worlds: (I am) worthy of not saying anything about Allah except the
@@ -93,13 +81,9 @@ and steadfastness in front of all kinds of oppressions of the people of
 Firon. And even though surrounded by hardships, he encouraged Bani
 Israel to observe patience and perseverance and he said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مُوسَى‏ لِقَوْمِهِ اسْتَعِينُواْ بِاللَّهِ وَاصْبِرُواْ إِنَّ
-الْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِ وَالْعَقِبَةُ
-لِلْمُتِّقِينَ‏
-  </p>
-</blockquote>
+> قَالَ مُوسَى‏ لِقَوْمِهِ اسْتَعِينُواْ بِاللَّهِ وَاصْبِرُواْ إِنَّ
+> الْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِ وَالْعَقِبَةُ
+> لِلْمُتِّقِينَ‏
 
 ***“Musa said to his people: Ask help from Allah and be patient; surely
 the land is Allah’s; He causes such of His servants to inherit it as He
@@ -107,24 +91,16 @@ pleases, and the end is for those who guard (against evil).” (7:128)***
 
 The people of Musa (a.s.), whose patience was depleted, said:
 
-<blockquote dir="rtl">
-  <p>
-قَالُواْ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِن بَعْدِ مَا
-جِئْتَنَا
-  </p>
-</blockquote>
+> قَالُواْ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِن بَعْدِ مَا
+> جِئْتَنَا
 
 ***“They said: We have been persecuted before you came to us and since
 you have come to us.” (7:129)***
 
 In order to encourage and motivate them, Prophet Musa (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَسَى‏ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَ يَسْتَخْلِفَكُمْ
-فِى الْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ‏
-  </p>
-</blockquote>
+> قَالَ عَسَى‏ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَ يَسْتَخْلِفَكُمْ
+> فِى الْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ‏
 
 ***“He said: It may be that your Lord will destroy your enemy and make
 you rulers in the land; then He will see how you act.” (7:129)***
@@ -149,12 +125,8 @@ weakness and doubt. He was bestowed the office of prophethood by
 Almighty Allah so that he may be absolutely steadfastness in achieving
 his final aim. In the Holy Quran, Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَقِمْ كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْاْ إِنَّهُ
-بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> فَاسْتَقِمْ كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْاْ إِنَّهُ
+> بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***“Continue then in the right way as you are commanded, as also he who
 has turned (to Allah) with you, and be not inordinate (O men!), surely
@@ -165,11 +137,7 @@ even at the beginning of his call, explained his message clearly and
 decisively and did have any fear of the multitude of the enemies. At the
 time, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
-  </p>
-</blockquote>
+> وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
 
 ***“And warn your nearest relations,” (26:214)***
 
@@ -242,5 +210,4 @@ of God and reformers, a lesson in patience and steadfastness.
 [^1]: Al-Kamil fit Tarikh, Vol. 1, Pg. 487-488.
 
 [^2]: Al-Kamil fit Tarikh, Vol. 1, Pg. 488-489.
-
 

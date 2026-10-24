@@ -15,10 +15,8 @@ must protect taqwa and it should protect us. Also, we must seek
 proximity to God through taqwa and also ask God to provide us with it.
 Imam Ali (a) also stated:
 
-<p dir="rtl">
 اوصيكم عبادالله بتقوی الله فانها حق الله عليكم و الموجبه علی الله حقكم و
 ان تستعينوا عليها بالله و تستعينوا بها علی الله
-</p>
 
 I advise you, O' creatures of Allah, that you should have fear of Allah
 because it is a right of Allah over you and it creates your right over
@@ -69,5 +67,4 @@ had described. Then, it is said that the power of “the lovely ones” is
 much more than this fortress and no one can cast it in their teeth. In
 this corps, even a single rider can conquer a fence, and collective
 attack is not needed.
-
 

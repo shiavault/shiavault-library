@@ -36,4 +36,3 @@ that money does not undergo any qualitative change by passing into
 capital, his insistence that the change involved is merely verbal
 amounts to ignoring a significant economic fact pointed out by Marx.
 
-

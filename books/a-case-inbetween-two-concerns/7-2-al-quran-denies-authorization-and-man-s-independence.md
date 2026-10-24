@@ -170,4 +170,3 @@ affairs?
 Whoever reads the verses of the Holy Quran quoted above will be sure
 that Al Quran does not approve of such independence and authorization.
 
-

@@ -25,11 +25,7 @@ A man named Dawood (David) went to Imam Musa al-Kazim (as) complaining
 about his own son that he had wasted a large amount of his money. The
 Imam said to him:
 
-<blockquote dir="rtl">
-  <p>
-استصلحه فما ماة الف فيما انعم الله به عليك.
-  </p>
-</blockquote>
+> استصلحه فما ماة الف فيما انعم الله به عليك.
 
 *“Try to correct your child. And know that compared to the blessings of
 having a child, one hundred thousand Dirhams (dinars) are nothing.”*
@@ -46,5 +42,4 @@ only for his welfare and that the purpose is to change his course to the
 right path in life.
 
 [^1]: Wafi, part XII, p. 211
-
 

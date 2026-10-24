@@ -41,7 +41,6 @@ duty to do so as prescribed by Allah.
 
 46
 
-
 **Verse 167**
 
 (167) وَقَالَ الَّذِينَ اتَّبَعُواْ لَوْ أَنَّ لَنَا كَرَّةً
@@ -100,7 +99,6 @@ what is the use of this regret? It is of no use, and they cannot come
 out from the blazing Fire of Hell.
 
 48
-
 
 **Section 21.Only lawful and clean food should be taken**
 
@@ -221,7 +219,6 @@ the one who shouts to that which hears no more than a call and a cry;
 deaf, dumb, and blind (are they) wherefore they do not understand.
 
 **Commentary:**
-
 
 **Blind following of the ancestors is condemned**
 
@@ -395,5 +392,4 @@ things forbidden under normal conditions may be permissible in the
 emergency. The spirit of the law to be observed in both the cases is the
 sense of obedience, and sticking to the prescribed limits. Under no
 circumstances any revolt against any law is allowed.
-
 

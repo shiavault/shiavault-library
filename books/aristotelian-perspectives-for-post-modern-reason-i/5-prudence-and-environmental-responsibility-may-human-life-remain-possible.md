@@ -222,4 +222,3 @@ there is no method for it, for it is produced in an ever-new world, in
 an ever-new subject, and they are rather generators and protectors of
 the conditions for global good, in an uncertain but habitable world.
 
-

@@ -182,4 +182,3 @@ life. This is so because he has to choose acts of greater goodness much
 the same way as he chooses a commodity having greater utility in a given
 conditions. .
 
-

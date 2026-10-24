@@ -4,18 +4,10 @@ Section 23: The Resurrection
 Surah al-‘Araf – Verses 182-183
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَذَّبُوا بِاَيَاتِنَا سَنَسْتَدْرِجُهُم مِنْ حَيْثُ
-لاَيَعْلَمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَذَّبُوا بِاَيَاتِنَا سَنَسْتَدْرِجُهُم مِنْ حَيْثُ
+> لاَيَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَاُمْلِي لَهُمْ إِنَّ كَيْدِي مَتِينٌ
-  </p>
-</blockquote>
+> وَاُمْلِي لَهُمْ إِنَّ كَيْدِي مَتِينٌ
 
 **182*****. “And those who belie Our Signs, soon, step by step, We will
 draw them on from where they do not know.”***  
@@ -76,12 +68,8 @@ of seeking forgiveness for the sin he has committed.”*[^1]
 Surah al-‘Araf – Verse 184
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اَوَلَمْ يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِن جِنَّةٍ إِنْ هُوَ إِلاَّ
-نَذِيرٌ مُبِينٌ
-  </p>
-</blockquote>
+> اَوَلَمْ يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِن جِنَّةٍ إِنْ هُوَ إِلاَّ
+> نَذِيرٌ مُبِينٌ
 
 **184*****. “Have they not reflected that there is no madness in their
 companion (the Prophet of Islam)? He is naught but a plain warner.”***
@@ -120,13 +108,9 @@ society to beware the dangers they are faced with. The verse says:
 Surah al-‘Araf – Verse 185
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ لَمْ يَنظُرُوا فِي مَلَكُوتِ السَّمَاوَاتِ وَالاَرْضِ وَمَا
-خَلَقَ اللّهُ مِن شَيْءٍ وَأَنْ عَسَى أَن يَكُونَ قَدِ اقْتَرَبَ
-أَجَلُهُمْ فَبِاَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَوَ لَمْ يَنظُرُوا فِي مَلَكُوتِ السَّمَاوَاتِ وَالاَرْضِ وَمَا
+> خَلَقَ اللّهُ مِن شَيْءٍ وَأَنْ عَسَى أَن يَكُونَ قَدِ اقْتَرَبَ
+> أَجَلُهُمْ فَبِاَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
 
 **185*****. “Have they not considered the dominion of the heavens and
 the earth, and whatever Allah has created, and that maybe their term has
@@ -161,12 +145,8 @@ other words after this will they believe?”***
 Surah al-‘Araf – Verse 186
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَن يُضْلِلِ اللّهُ فَلا هَادِيَ لَهُ وَيَذَرُهُمْ فِي طُغْيَانِهِمْ
-يَعْمَهُونَ
-  </p>
-</blockquote>
+> مَن يُضْلِلِ اللّهُ فَلا هَادِيَ لَهُ وَيَذَرُهُمْ فِي طُغْيَانِهِمْ
+> يَعْمَهُونَ
 
 **186*****. “Whomever Allah leads astray there is no guide for him, and
 He will leave them in their contumacy wandering blindly.”***
@@ -185,15 +165,11 @@ and facts. They treat such, as if a curtain has fallen over their eyes,
 ears, and hearts. These dark curtains are the result of their own deeds,
 and this is the meaning of the phrase ***‘Allah leads astray’.***
 
-<blockquote dir="rtl">
-  <p>
-يَسْئَلُونَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسَاهَا قُلْ إِنَّمَا
-عِلْمُهَا عِندَ رَبِّي لا يُجَلِّيهَا لِوَقْتِهَآ إِلاَّ هُوَ ثَقُلَتْ
-فِي السَّماوَاتِ وَالاَرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَةً
-يَسْئَلُونَكَ كَاَنَّكَ حَفِيٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِنْدَ
-اللّهِ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَيَعْلَمُونَ
-  </p>
-</blockquote>
+> يَسْئَلُونَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسَاهَا قُلْ إِنَّمَا
+> عِلْمُهَا عِندَ رَبِّي لا يُجَلِّيهَا لِوَقْتِهَآ إِلاَّ هُوَ ثَقُلَتْ
+> فِي السَّماوَاتِ وَالاَرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَةً
+> يَسْئَلُونَكَ كَاَنَّكَ حَفِيٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِنْدَ
+> اللّهِ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَيَعْلَمُونَ
 
 Surah al-‘Araf – Verse 187
 --------------------------
@@ -256,14 +232,10 @@ and the earth. It will not overtake you but suddenly’…”***[^4]
 Surah al-‘Araf – Verse 188
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لآ اَمْلِكُ لِنَفْسِي نَفْعاً وَلا ضَرّاً إِلاَّ مَا شَآءَ اللّهُ
-وَلَوْ كُنتُ اَعْلَمُ الْغَيْبَ لاَسْتَكْثَرْتُ مِنَ الْخَيْرِ وَمَا
-مَسَّنِيَ السُّوءُ إِنْ اَنَا ْ إِلاَّ نَذِيرٌ وَبَشِيرٌ لِقَوْمٍ
-يُؤْمِنُونَ
-  </p>
-</blockquote>
+> قُل لآ اَمْلِكُ لِنَفْسِي نَفْعاً وَلا ضَرّاً إِلاَّ مَا شَآءَ اللّهُ
+> وَلَوْ كُنتُ اَعْلَمُ الْغَيْبَ لاَسْتَكْثَرْتُ مِنَ الْخَيْرِ وَمَا
+> مَسَّنِيَ السُّوءُ إِنْ اَنَا ْ إِلاَّ نَذِيرٌ وَبَشِيرٌ لِقَوْمٍ
+> يُؤْمِنُونَ
 
 **188*****. “Say: ‘I own for my self neither any benefit nor harm except
 what Allah may please; and had I known the Unseen, I would have acquired
@@ -321,5 +293,4 @@ believe’.”***
 [^5]: The commentators of the Qur’ān has cited a great deal of matters
 about both this verse and ‘ the knowledge of Unseen ’ in their
 commentary books.
-
 

@@ -41,4 +41,3 @@ p. 179 (Qum: Nashr Navid Islam, 1367 {solar}with Persian translation by
 A.R.A. Bakhshaishi); also see its English by W.M. Miller (London: Luzac
 & Co, 1958) p. 58-59.
 
-

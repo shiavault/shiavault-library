@@ -609,4 +609,3 @@ doubtful about it. It is for this reason that, in order to remove this
 doubt and argument about those two traditions, authentic evidence has
 been narrated from 'A'ishah.
 
-

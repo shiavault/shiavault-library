@@ -795,4 +795,3 @@ al-Nabawiyyah, Vol. 4, pp. 308 – 09).
 
 [^47]: Ibid., p. 40.
 
-

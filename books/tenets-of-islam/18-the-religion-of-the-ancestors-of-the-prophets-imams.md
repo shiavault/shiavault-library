@@ -7,4 +7,3 @@ deputies. The reports about Abu Talib's Islam which have come down to us
 from the members of the Holy Prophet's House are indisputable and exact.
 His life account is also a proof of His Islam.
 
-

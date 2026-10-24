@@ -3,7 +3,6 @@ Respect Everyone's Rights
 
 **( 16 )**
 
-  
  You should respect everyone's right  
  Be they old, young or full of might,  
  Be they for you an adversary  

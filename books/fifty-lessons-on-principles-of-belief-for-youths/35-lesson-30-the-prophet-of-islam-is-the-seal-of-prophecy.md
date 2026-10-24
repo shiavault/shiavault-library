@@ -192,4 +192,3 @@ needs today?
  5. Can an Islamic society exist without a leader? How can you solve the
 issue of leadership in our times?
 
-

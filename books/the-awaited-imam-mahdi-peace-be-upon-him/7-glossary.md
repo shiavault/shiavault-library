@@ -122,4 +122,3 @@ Household)* which have become the models to be followed by Muslims.
 Be Upon Him and His Household)* in the state of īmān (faith) and died as
 a believer.
 
-

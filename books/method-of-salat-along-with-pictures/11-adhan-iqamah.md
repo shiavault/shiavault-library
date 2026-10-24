@@ -7,9 +7,7 @@ before starting the Salat.
 Adhan
 -----
 
-<p dir="rtl">
 اَللهُ أكْبَرُ
-</p>
 
 ***Allahu Akbar***
 
@@ -17,11 +15,7 @@ Adhan
 
 ***(Allah is greater than anything else)***
 
-<p dir="rtl">
-أشْهَدُ أنْ <p dir="rtl">
-لاَ إلهَ إلاَّ اللهُ
-</p>
-</p>
+أشْهَدُ أنْ لاَ إلهَ إلاَّ اللهُ
 
 ***Ashhaadu an la Ilaha Illal-lah***
 
@@ -29,9 +23,7 @@ Adhan
 
 ***(I bear witness that there is no god except Allah )***
 
-<p dir="rtl">
 أشْهَدُ أنَّ مُحَمَّداً رَسُولُ اللهِ
-</p>
 
 ***Ashhadu anna Muhammadan Rasulul-lah***
 
@@ -39,9 +31,7 @@ Adhan
 
 ***(I bear witness that Muhammad is the Messenger of Allah)***
 
-<p dir="rtl">
 أشهد أن عَلِيّا أمِيرَ الْمُؤْمِنِينَ وَلِيُّ اللهِ
-</p>
 
 ***Ashhadu anna Aliyan Amir al-Mo'mineena Waliul-lah***
 
@@ -50,9 +40,7 @@ Adhan
 ***(I bear witness that 'Ali, The Commander of the Faithful is the
 Friend of Allah)***
 
-<p dir="rtl">
 حَيَّ عَلى الصَّلاَةِ
-</p>
 
 ***Hayya Alas-Salaah***
 
@@ -60,9 +48,7 @@ Friend of Allah)***
 
 ***(Hurry towards the Salat! )***
 
-<p dir="rtl">
 حَيَّ عَلى الْفَلاَحِ
-</p>
 
 ***Hayya Alal-falaah***
 
@@ -70,9 +56,7 @@ Friend of Allah)***
 
 ***(Hurry towards prosperity!)***
 
-<p dir="rtl">
 حَيَّ عَلى خَيْرِ الْعَمَلِ
-</p>
 
 ***Hayya 'ala Khayril-'amal***
 
@@ -80,9 +64,7 @@ Friend of Allah)***
 
 ***(Hurry towards the best of deeds!)***
 
-<p dir="rtl">
 اَللهُ أكْبَرُ
-</p>
 
 ***Allahu Akbar***
 
@@ -90,9 +72,7 @@ Friend of Allah)***
 
 ***(Allah is greater than anything else)***
 
-<p dir="rtl">
 لاَ إلهَ إلاَّ اللهُ
-</p>
 
 ***La ilaha illal-lah***
 
@@ -103,9 +83,7 @@ Friend of Allah)***
 Iqamah
 ------
 
-<p dir="rtl">
 اَللهُ أكْبَرُ
-</p>
 
 ***Allahu Akbar***
 
@@ -113,11 +91,7 @@ Iqamah
 
 ***(Allah is greater than anything else)***
 
-<p dir="rtl">
-أشْهَدُ أنْ <p dir="rtl">
-لاَ إلهَ إلاَّ اللهُ
-</p>
-</p>
+أشْهَدُ أنْ لاَ إلهَ إلاَّ اللهُ
 
 ***Ashhadu an la Ilaha Illal-lah***
 
@@ -125,9 +99,7 @@ Iqamah
 
 ***(I bear witness that there is no god except Allah)***
 
-<p dir="rtl">
 أشْهَدُ أنَّ مُحَمَّداً رَسُولُ اللهِ
-</p>
 
 ***Ashhadu anna Muhammadan Rasulul-lah***
 
@@ -135,9 +107,7 @@ Iqamah
 
 ***(I bear witness that Muhammad is the Messenger of Allah)***
 
-<p dir="rtl">
 أشهد أن عَلِيّا أمِيرَ الْمُؤْمِنِينَ وَلِيُّ اللهِ
-</p>
 
 ***Ashhadu anna Aliyan Amir al-Mo'mineena Wali-ullah***
 
@@ -146,9 +116,7 @@ Iqamah
 (I bear witness that 'Ali, The Commander of the Faithful is the Friend
 of Allah)
 
-<p dir="rtl">
 حَيَّ عَلى الصَّلاَةِ
-</p>
 
 ***Hayya 'alas-Salaah***
 
@@ -156,9 +124,7 @@ of Allah)
 
 ***(Hurry towards the Salat!)***
 
-<p dir="rtl">
 حَيَّ عَلى الْفَلاَحِ
-</p>
 
 ***Hayya 'alal-Falaah***
 
@@ -166,9 +132,7 @@ of Allah)
 
 ***(Hurry towards prosperity!)***
 
-<p dir="rtl">
 حَيَّ عَلى خَيْرِ الْعَمَلِ
-</p>
 
 ***Hayya 'alal Khayril-'amal***
 
@@ -176,9 +140,7 @@ of Allah)
 
 ***(Hurry towards the best of deeds!)***
 
-<p dir="rtl">
 قَدْ قَامَتِ الصَّلاةُ
-</p>
 
 ***Qad qaamatis-Salaah***
 
@@ -186,9 +148,7 @@ of Allah)
 
 ***(The Salat is being established!)***
 
-<p dir="rtl">
 اَللهُ أكْبَرُ
-</p>
 
 ***Allahu Akbar***
 
@@ -196,14 +156,11 @@ of Allah)
 
 ***(Allah is greater than anything else)***
 
-<p dir="rtl">
 لاَ إلهَ إلاَّ اللهُ
-</p>
 
 ***La ilaha illal-lab***
 
 ***Read 1 Time***
 
 ***(There is no god except Allah)***
-
 

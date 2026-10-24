@@ -45,4 +45,3 @@ world-class religion and the place of Shī‘ism within it.
 Ohio University
 Athens, Ohio
 
-

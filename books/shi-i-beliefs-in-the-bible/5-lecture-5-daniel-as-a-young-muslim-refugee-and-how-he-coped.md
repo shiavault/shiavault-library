@@ -476,4 +476,3 @@ avoiding violence, and on the other absolute adherence to Islamic
 principle and practice, might be far more productive than the
 perpetration of such tragedies as the events of 11 September 2001.
 
-

@@ -71,21 +71,18 @@ produce. Thus they were unanimous regarding what they collected of the
 Qur'an, while differing in regard of the words of the traditions and the
 reporting of the texts of the metrical composition, the reason for which
 it was impermissible for them to write down that which was a subject of
-difference among them. <span id="_anchor_469"></span>469
+difference among them. 469
 
 Narrating the hadith remained to be under the mercy of memory, without
 being written down or recorded throughout the reign of the Sahabah and
 the main part of the era of the Tabi\`un up to the time of tadwin which
-they believed to be at the end of the era of the Tabi'un. <span
-id="_anchor_470"></span>470  Al-Hurawi says: <span
-id="_anchor_471"></span>471  Neither the Sahabah nor the Tabi'un used to
+they believed to be at the end of the era of the Tabi'un. 470  Al-Hurawi says: 471  Neither the Sahabah nor the Tabi'un used to
 write down the traditions, but they would convey them orally and take
 them through learning by heart, except the chapter on charities and a
 little of that which could not be comprehended by any researcher but
 only after hard investigation. Therefore there was much fear of its
 being obliterated with the death snatching the lives of the ulama' when
-Umar ibn Abd al-Aziz ordered Abu Bakr al-Hazmi, <span
-id="_anchor_472"></span>472  among what he wrote to him: Search for
+Umar ibn Abd al-Aziz ordered Abu Bakr al-Hazmi, 472  among what he wrote to him: Search for
 every sunnah and hadith and write them down.
 
 In al-Muwatta’ Malik, on the authority of Muhammad ibn al-hasan, said:
@@ -98,14 +95,14 @@ bint Abd al-Rahman al-Ansariyyah — who was the disciple of A'ishah — and
 al-Qasim ibn Muhammad ibn Abi Bakr.
 
 In regard of Umar ibn Abd al-Aziz, he was approaching the end of the
-first century. <span id="_anchor_473"></span>473  When he passed away,
+first century. 473  When he passed away,
 Ibn Hazm abandoned writing of hadith, particularly when he was deposed
 by Yazid ibn Abd al-Malik who took power after Umar ibn Abd al-Aziz in
 the year 101 H. And so did all those who were charged with writing
 during the reign of Abu Bakr, the fact leading to the sluggishness in
 process of tadwin, till the time when Hisham ibn Abd al-Malik assumed
 power in 105 H. Thereat this work was followed up seriously with Ibn
-Shahab al-Zuhri, <span id="_anchor_474"></span>474  or rather it is said
+Shahab al-Zuhri, 474  or rather it is said
 that the emirs compelled him to write down the hadith, as they loathed
 the writing of knowledge, as will be manifested later on. But in a short
 time this loathing changed to satisfaction, and Ibn Shahab turned to be
@@ -138,7 +135,7 @@ by the Kharijites and Rafidites... etc."
 Al-Bukhari and al-Tirmidhi reported from Abu Hurayrah that he said:
 "None among the Prophet's Companions was more prolific in narrating the
 hadith than me except Abd Allah ibn 'Amr, as he used to write (the
-hadith) while I didn't." <span id="_anchor_475"></span>475  The
+hadith) while I didn't." 475  The
 muhaddithun were never counting whatever recorded in a sahifah of any
 narrator or scholar to be a correct narration but only when he relating
 to have heard it from its original utterer, calling it al-wajadah.
@@ -150,11 +147,7 @@ emergence of falsification in respect of the hadith reported from the
 Messenger of Allah (may God's peace and benediction be upon him and his
 Progeny) for political or creedal reasons. The first tadwin of the
 sunan, in true meaning, appeared in the period between the years 120 H.
-and 150 H. <span id="_anchor_476"></span>476
-
-  
-  
-  
+and 150 H. 476
 
 468 Tadwin is restricting (taqyid) what is scattered and established,
 and compiling it in a diwan, i.e. a book in which the suhuf are recorded

@@ -61,44 +61,28 @@ Islam founds its invitation on adherence to Truth not following the
 desires and caprices of the majority, which are based upon inner
 feelings and emotions. The Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ ﴾
 
 ***“So set thy face toward the pure religion; it is in accordance with
 the nature [fitrah] of God upon which He has formed the nature of
 humankind. There is no alteration in the creation of God. This is the
 enduring (and true) religion; however, most humans do not know.”***[^1]
 
-<blockquote dir="rtl">
-  <p>
-﴿ هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ
-لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ
+> لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ ﴾
 
 ***“It is He who sent His Messenger with guidance and the True Religion
 to make it supreme over all religions, though idolaters be
 averse.”***[^2]
 
-<blockquote dir="rtl">
-  <p>
-﴿ بَلْ أَتَيْنَاهُم بِالْحَقِّ... ﴾
-  </p>
-</blockquote>
+> ﴿ بَلْ أَتَيْنَاهُم بِالْحَقِّ... ﴾
 
 ***“We have sent them Truth…”***[^3]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
-وَالأَرْضُ وَمَنْ فِيهِنَّ... ﴾
-  </p>
-</blockquote>
+> ﴿ وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءهُمْ لَفَسَدَتِ السَّمَاوَاتُ
+> وَالأَرْضُ وَمَنْ فِيهِنَّ... ﴾
 
 ***“And if Truth had followed their caprices, the heavens and the earth
 and all in them would surely have been thrown into confusion and
@@ -116,17 +100,13 @@ idolaters was that they violated their vows. Even so, by His mercy He
 gave them four months reprieve. However, He commands those who kept to
 their covenant to persevere and be steadfast in their commitments.
 
-<blockquote dir="rtl">
-  <p>
-﴿ بَرَاءَةٌ مِنَ اللّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِنَ
-الْمُشْرِكِينَ \* فَسِيحُوا فِي الأَرْضِ أَرْبَعَةَ أَشْهُرٍ
-وَاعْلَمُواْ أَنَّكُمْ غَيْرُ مُعْجِزِي اللّهِ وَأَنَّ اللّهَ مُخْزِي
-الْكَافِرِينَ \*...\* إِلاَّ الَّذِينَ عَاهَدتُّم مِنَ الْمُشْرِكِينَ
-ثُمَّ لَمْ يَنقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا
-فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ إِنَّ اللّهَ
-يُحِبُّ الْمُتَّقِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ بَرَاءَةٌ مِنَ اللّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِنَ
+> الْمُشْرِكِينَ \* فَسِيحُوا فِي الأَرْضِ أَرْبَعَةَ أَشْهُرٍ
+> وَاعْلَمُواْ أَنَّكُمْ غَيْرُ مُعْجِزِي اللّهِ وَأَنَّ اللّهَ مُخْزِي
+> الْكَافِرِينَ \*...\* إِلاَّ الَّذِينَ عَاهَدتُّم مِنَ الْمُشْرِكِينَ
+> ثُمَّ لَمْ يَنقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا
+> فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ إِنَّ اللّهَ
+> يُحِبُّ الْمُتَّقِينَ ﴾
 
 ***“(These verses are a declaration of) estrangement from Allah and his
 Messenger toward those of the idolaters with whom you made covenant.
@@ -153,5 +133,4 @@ thus, he stated: God does not like betrayal.[^6]
 [^5]: Sūrat al-Tawbah (or Barā’ah) 9:1-2, 4.
 
 [^6]: Extracted from the journal, “Kitāb-e Fasl”.
-
 

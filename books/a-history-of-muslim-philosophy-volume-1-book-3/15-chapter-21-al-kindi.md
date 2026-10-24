@@ -757,4 +757,3 @@ follows that they are equal.” Ibid., p. 188.
 of this same paragraph he speaks about “the true one,” and says it is
 not soul.
 
-

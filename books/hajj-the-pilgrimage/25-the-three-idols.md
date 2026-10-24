@@ -256,4 +256,3 @@ them to establish a "safe land", to live in a "safe community" and to
 build "house" as a symbol of security, peace, freedom, equality and love
 for mankind!
 
-

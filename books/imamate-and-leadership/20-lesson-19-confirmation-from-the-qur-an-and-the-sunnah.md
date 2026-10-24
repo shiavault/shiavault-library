@@ -395,4 +395,3 @@ al-Sahih, Vol. V, p.329.
 
 [^20]: Sharaf al-Din, Kalimat al-Ghurra', p.213.
 
-

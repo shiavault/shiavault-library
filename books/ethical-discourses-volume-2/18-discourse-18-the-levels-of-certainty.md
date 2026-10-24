@@ -1,19 +1,15 @@
 Discourse 18: The Levels Of Certainty
 =====================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَنَسِ بْنِ مَالِكِ قَالَ: قَالَ رَسُولُ اللٌّهِ: إِنَّ مِنْ
-ضَعْفِ الْيَـقِينِ أَنْ تُرْضِيَ النَّاسَ بِسَخَطِ اللٌّهِ تَعَالـى،
-وَ أَنْ تَحْمَدَهُمْ عَلى رِزْقِ اللٌّهِ تَعَالـى وَ أَنْ تَذُمَّهُمْ
-عَلى مَا لَمْ يُؤْتِكَ اللٌّهُ … إِنَّكَ إِنْ تَدَعُ شَيْئاً لِلٌّهِ
-إِلاَّ أَتَاكَ اللٌّهُ خَيْراً مِنْهُ، وَ إِنْ تَأْتِي شَيْئاً
-تَقَرُّباً إِلـى اللٌّهِ تَعَالـى إِلاَّ أَجْزَلَ اللٌّهُ لَكَ
-الثَّوَابَ عَنْهُ. فَاجْعَلُوا هِمَّـتَكُمْ الآخِرَةَ لاَ يَـنْفَدُ
-فِيهَا ثَوَابُ الْمَرْضِيِّ عَنْهُ، وَ لاَ يَنْقَطِعُ فِيهَا عِقَابُ
-الْمَسْخُوطِ عَلَيْهِ.
-  </p>
-</blockquote>
+> عَنْ أَنَسِ بْنِ مَالِكِ قَالَ: قَالَ رَسُولُ اللٌّهِ: إِنَّ مِنْ
+> ضَعْفِ الْيَـقِينِ أَنْ تُرْضِيَ النَّاسَ بِسَخَطِ اللٌّهِ تَعَالـى،
+> وَ أَنْ تَحْمَدَهُمْ عَلى رِزْقِ اللٌّهِ تَعَالـى وَ أَنْ تَذُمَّهُمْ
+> عَلى مَا لَمْ يُؤْتِكَ اللٌّهُ … إِنَّكَ إِنْ تَدَعُ شَيْئاً لِلٌّهِ
+> إِلاَّ أَتَاكَ اللٌّهُ خَيْراً مِنْهُ، وَ إِنْ تَأْتِي شَيْئاً
+> تَقَرُّباً إِلـى اللٌّهِ تَعَالـى إِلاَّ أَجْزَلَ اللٌّهُ لَكَ
+> الثَّوَابَ عَنْهُ. فَاجْعَلُوا هِمَّـتَكُمْ الآخِرَةَ لاَ يَـنْفَدُ
+> فِيهَا ثَوَابُ الْمَرْضِيِّ عَنْهُ، وَ لاَ يَنْقَطِعُ فِيهَا عِقَابُ
+> الْمَسْخُوطِ عَلَيْهِ.
 
 Anas b. Malik has narrated that the Messenger of Allah (S) said, “Surely
 the weakness in certainty is due to people trading the (seeking of the)
@@ -46,12 +42,8 @@ He alone is the Lord and Maintainer of the Entire Universe and that all
 which exists comes from Him. In relation to this, the Qur\`an has told
 us:
 
-<blockquote dir="rtl">
-  <p>
-تُؤْتِـي الْمُلْكَ مَنْ تَشَآءُ وَ تَـنْـزِعُ الْمُلْكَ مِمَّنْ
-تَشَآءُ وَ تُعِزُّ مَنْ تَشَآءُ وَ تُذِلُّ مَنْ تَشَآءُ
-  </p>
-</blockquote>
+> تُؤْتِـي الْمُلْكَ مَنْ تَشَآءُ وَ تَـنْـزِعُ الْمُلْكَ مِمَّنْ
+> تَشَآءُ وَ تُعِزُّ مَنْ تَشَآءُ وَ تُذِلُّ مَنْ تَشَآءُ
 
 “He gives of (His) Kingdom to whom He pleases and He prevents (His)
 Kingdom to reach whom He pleases; and He grants honour and respect to
@@ -107,12 +99,8 @@ In relation to the wealth of the orphan (and misappropriation of it), we
 see that there are such levels (of certainty) and thus the Qur\`an
 states:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامى ظُلْماً إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَاراً
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامى ظُلْماً إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَاراً
 
 “Surely those who oppressively take the wealth of the orphan are only
 eating fire in their stomaches…”[^4]
@@ -121,13 +109,9 @@ If only we were to have true faith that by giving in charity our wealth
 does not diminish, rather, we have even more wealth at our disposal just
 as it is mentioned in the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ يُـنْفِقُونَ فِي سَبِيلِ اللٌّهِ كَمَثَلِ حَبَّةٍ
-أَنْـبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْـبُلَةِ مِائَةُ حَبَّةٍ وَ
-اللٌّهُ يُضَاعِفُ لِمَنْ يَشآءَُ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ يُـنْفِقُونَ فِي سَبِيلِ اللٌّهِ كَمَثَلِ حَبَّةٍ
+> أَنْـبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْـبُلَةِ مِائَةُ حَبَّةٍ وَ
+> اللٌّهُ يُضَاعِفُ لِمَنْ يَشآءَُ
 
 “The example of the person who spends his wealth in the way of Allah is
 similar to the seed which grows seven ears and in every ear there are
@@ -152,12 +136,8 @@ prayer and supplication. In addition, we must request this supreme level
 of certainty through showing humility in the middle of the night in the
 prayer and say:
 
-<blockquote dir="rtl">
-  <p>
-يَا وَاهِبَ الْيَقينِ! أُرْزُقْـنِي الْيَقينَ - عِلْمَ الْيَقِينِ وَ
-عَيْنَ الْيَقِينِ وَ حَقَّ الْيَقِينِ!
-  </p>
-</blockquote>
+> يَا وَاهِبَ الْيَقينِ! أُرْزُقْـنِي الْيَقينَ - عِلْمَ الْيَقِينِ وَ
+> عَيْنَ الْيَقِينِ وَ حَقَّ الْيَقِينِ!
 
 “O' the Granter of Certainty! Grant me certainty - ‘Ilmul Yaqin (the
 Knowledge of Certainty); ‘Ainul Yaqin (the Eye of Certainity) and haqqul
@@ -196,11 +176,7 @@ they put another person alongside Allah (SwT) - however the truth is
 that no comparison can be drawn - where is the servant and where is the
 Master!?
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يَشْكُرِ الْمَخْلُوقَ لَمْ يَشْكُرِ الْخَالِقَ.
-  </p>
-</blockquote>
+> مَنْ لَمْ يَشْكُرِ الْمَخْلُوقَ لَمْ يَشْكُرِ الْخَالِقَ.
 
 “The one who does not thank the creations has not thanked the Creator.”
 
@@ -232,13 +208,9 @@ rewards and punishments are ever lasting.
 
 The Qur\`an tells us:
 
-<blockquote dir="rtl">
-  <p>
-أَلشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَ يَأْمُرُكُمْ بِالْفَحْشَآءِ وَ
-اللٌّهُ يَعِدُكُمْ مَغْفِرَةً مِنْهُ وَ فَضْلاً وَ اللٌّهُ وَاسِعٌ
-عَلِيمٌ
-  </p>
-</blockquote>
+> أَلشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَ يَأْمُرُكُمْ بِالْفَحْشَآءِ وَ
+> اللٌّهُ يَعِدُكُمْ مَغْفِرَةً مِنْهُ وَ فَضْلاً وَ اللٌّهُ وَاسِعٌ
+> عَلِيمٌ
 
 “Satan threatens you with poverty and encourages you to be miserly,
 however Allah promises you forgiveness from Himself and abundance; and
@@ -250,22 +222,14 @@ actually happens as Allah (SwT) gives the promise of forgiveness and
 more in return for what was given!  
  In another verse of the Qur\`an we read:
 
-<blockquote dir="rtl">
-  <p>
-يَمْحَقُ اللٌّهُ الرِّبوَا وَ يُرْبِـي الصَّدَقَاتِ
-  </p>
-</blockquote>
+> يَمْحَقُ اللٌّهُ الرِّبوَا وَ يُرْبِـي الصَّدَقَاتِ
 
 “Allah does not bless usury, however He causes charitable deeds to
 prosper…”[^7]  
  In addition, in yet another place in the Qur\`an we read:
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيٌوةِ الدُّنْـيَا وَ هُمْ عَنِ
-الآخِرَةِ هُمْ غَافِلُونَ
-  </p>
-</blockquote>
+> يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيٌوةِ الدُّنْـيَا وَ هُمْ عَنِ
+> الآخِرَةِ هُمْ غَافِلُونَ
 
 “They know the outward aspect of this world's life, but they are
 completely heedless of the hereafter.”[^8]
@@ -315,14 +279,10 @@ and for the people who are in that punishment, there shall never be any
 reduction in its chastisement…”  
  Do we accept what has been mentioned in the Qur\`an that:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظيمٌ. يَوْمَ تَرَوْنَهَا تَذْهَلُ
-كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَ تَضَعُ كُلُّ ذَاتِ حَمْلٍ
-حَمْلَهَا وَ تَرَى النَّاسَ سُكَارى وَ مَا هُمْ بِسُكَارى وَلٌكِنَّ
-عَذَابَ اللٌّهِ شَدِيدٌ
-  </p>
-</blockquote>
+> إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظيمٌ. يَوْمَ تَرَوْنَهَا تَذْهَلُ
+> كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَ تَضَعُ كُلُّ ذَاتِ حَمْلٍ
+> حَمْلَهَا وَ تَرَى النَّاسَ سُكَارى وَ مَا هُمْ بِسُكَارى وَلٌكِنَّ
+> عَذَابَ اللٌّهِ شَدِيدٌ
 
 “Surely the earthquake of the Hour is a grievous thing. On the day when
 you shall see it, every woman who is nursing her child will stop due to
@@ -335,11 +295,7 @@ transient world so that we can enjoy the perpetual and everlasting
 Divine reward? Why is it that in relation to the next life, we do not
 use the same logic as is employed for matters of the material world:
 
-<blockquote dir="rtl">
-  <p>
-أُكُلُهَا دَائِمٌ.
-  </p>
-</blockquote>
+> أُكُلُهَا دَائِمٌ.
 
 When a person sits down to review these issues, he would sometimes
 become frightened and think to himself that “God forbid that I do not
@@ -404,5 +360,4 @@ a way for him to acquire knowledge and cognizance.
 [^8]: Surat al-Rum (30), verse 7
 
 [^9]: Surat al-Hajj (22), verses 1 and 2
-
 

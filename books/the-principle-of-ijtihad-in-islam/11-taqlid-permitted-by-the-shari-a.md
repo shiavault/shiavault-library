@@ -129,4 +129,3 @@ exegesis, hadith, knowledge of the narrators of hadith, in the sciences
 of the evaluation of hadith (\`ilm al-daraya), and in the fiqh of the
 other sects of Islam.
 
-

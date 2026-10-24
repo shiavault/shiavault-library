@@ -4,14 +4,10 @@ Section 5: Wealth and Children Shall Be of No Avail
 Surah As-Saba- Verse 37
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَمْوَالُكُمْ وَلآ أَوْلاَدُكُم بِالَّتِي تُقَرّ‌ِبُكُمْ
-عِندَنَا زُلْفَي اِلاَّ مَنْ ءَامَنَ وَعَمِلَ صَالِحاً فَأُوْلَئِك
-لَهُمْ جَزَآءُ الضّـِعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُفَاتِ
-ءَامِنُونَ
-  </p>
-</blockquote>
+> وَمَآ أَمْوَالُكُمْ وَلآ أَوْلاَدُكُم بِالَّتِي تُقَرّ‌ِبُكُمْ
+> عِندَنَا زُلْفَي اِلاَّ مَنْ ءَامَنَ وَعَمِلَ صَالِحاً فَأُوْلَئِك
+> لَهُمْ جَزَآءُ الضّـِعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُفَاتِ
+> ءَامِنُونَ
 
 ***37. “And neither your wealth nor your children are that which bring
 you nigh unto us, except for him who believes, and does righteousness,
@@ -125,20 +121,12 @@ different aspects of life.
 Surah As-Saba- Verses 38-39
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَسْعَوْنَ فِي ءَايَاتِنَا مُعَاجِزِينَ أُوْلَئِكَ فِي
-الْعَذَابِ مُحْضَرُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَسْعَوْنَ فِي ءَايَاتِنَا مُعَاجِزِينَ أُوْلَئِكَ فِي
+> الْعَذَابِ مُحْضَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ اِنَّ رَبّـِي يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِ
-وَيَقْدِرُ لَهُ وَمَآ أَنفَقْتُم مِن شَيْءٍ فَهُوَ يُخْلِفُهُ وَهُوَ
-خَيْرُ الرَّازِقِينَ
-  </p>
-</blockquote>
+> قُلْ اِنَّ رَبّـِي يَبْسُطُ الرّ‌ِزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِ
+> وَيَقْدِرُ لَهُ وَمَآ أَنفَقْتُم مِن شَيْءٍ فَهُوَ يُخْلِفُهُ وَهُوَ
+> خَيْرُ الرَّازِقِينَ
 
 ***38. “And those who strive against Our signs to void them, they shall
 be arraigned into the chastisement.”***  
@@ -254,19 +242,11 @@ deed.
 Surah As-Saba- Verses 40-41
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يَحْشُرُهُمْ جَمِيعاً ثُمَّ يَقُولُ لِلْمَلآَئِكَةِ
-أَهَؤُلآءِ اِيَّاكُمْ كَانُوا يَعْبُدُونَ
-  </p>
-</blockquote>
+> وَيَوْمَ يَحْشُرُهُمْ جَمِيعاً ثُمَّ يَقُولُ لِلْمَلآَئِكَةِ
+> أَهَؤُلآءِ اِيَّاكُمْ كَانُوا يَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا سُبْحَانَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم بَلْ كَانُوا
-يَعْبُدُونَ الْجِنَّ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ
-  </p>
-</blockquote>
+> قَالُوا سُبْحَانَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم بَلْ كَانُوا
+> يَعْبُدُونَ الْجِنَّ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ
 
 ***40. “And on the Day when He will muster them all together then He
 will say to the angels: ‘Did these worship you?’”***  
@@ -350,13 +330,9 @@ worship.
 Surah As-Saba- Verse 42
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لاَ يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعاً وَلاَ ضَرًّا
-وَنَقُولُ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ النَّارِ الَّتِي كُنتُم
-بِهَا تُكَذّ‌ِبُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ لاَ يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعاً وَلاَ ضَرًّا
+> وَنَقُولُ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ النَّارِ الَّتِي كُنتُم
+> بِهَا تُكَذّ‌ِبُونَ
 
 ***42. “So on that Day one of you shall not own for the other any profit
 or harm, and We will say unto those who did injustice: ‘Taste you the
@@ -407,15 +383,11 @@ chastisement of the Fire which you used to deny’.”***
 Surah As-Saba- Verse 43
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُنَا بَيّـِنَاتٍ قَالُوا مَا هَذَا
-اِلاَّ رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ
-ءَابَآؤُكُمْ وَقَالُوا مَا هَذَآ إِلآَّ إِفْكٌ مُفْتَرًي وَقَالَ
-الَّذِينَ كَفَرُوا لِلْحَقّ‌ِ لَمَّا جَآءَهُمْ إِنْ هَذَآ اِلاَّ
-سِحْرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> وَإِذَا تُتْلَي عَلَيْهِمْ ءَايَاتُنَا بَيّـِنَاتٍ قَالُوا مَا هَذَا
+> اِلاَّ رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ
+> ءَابَآؤُكُمْ وَقَالُوا مَا هَذَآ إِلآَّ إِفْكٌ مُفْتَرًي وَقَالَ
+> الَّذِينَ كَفَرُوا لِلْحَقّ‌ِ لَمَّا جَآءَهُمْ إِنْ هَذَآ اِلاَّ
+> سِحْرٌ مُّبِينٌ
 
 ***43. “And when Our clear signs are recited to them, they say: ‘This is
 naught but a man who desires to bar you from that your fathers used to
@@ -538,12 +510,8 @@ religion in groups.
 Surah As-Saba- Verse 44
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ ءَاتَيْنَاهُم مِن كُتُبٍ يَدْرُسُونَهَا وَمَآ أَرْسَلْنَآ
-اِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ
-  </p>
-</blockquote>
+> وَمَآ ءَاتَيْنَاهُم مِن كُتُبٍ يَدْرُسُونَهَا وَمَآ أَرْسَلْنَآ
+> اِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ
 
 ***44. “And We had not given them (Arab pagans) any Books which they
 could study, nor did We send unto them before you any Warner.”***
@@ -578,12 +546,8 @@ there is darkness and he must be afraid of the danger of aberration.
 Surah As-Saba- Verse 45
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَّبَ الَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا مِعْشَارَ مَآ
-ءَاتَيْنَاهُمْ فَكَذَّبُوا رُسُلِي فَكَيْفَ كَانَ نَكِيرِ
-  </p>
-</blockquote>
+> وَكَذَّبَ الَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا مِعْشَارَ مَآ
+> ءَاتَيْنَاهُمْ فَكَذَّبُوا رُسُلِي فَكَيْفَ كَانَ نَكِيرِ
 
 ***45. “And those before them rejected (the messengers) and these have
 not yet attained a tenth of what We had given them but they belied My
@@ -649,5 +613,4 @@ sense, and the purpose of denying Allah is the denial of His punishment.
 [^3]: Surah Yunus, No. 10, verse 28
 
 [^4]: Surah Al-Baqarah, No. 2 verse 170
-
 

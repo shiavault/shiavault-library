@@ -39,4 +39,3 @@ all.
 **The Author**
 **Shawwal 21, 1380 AH**
 
-

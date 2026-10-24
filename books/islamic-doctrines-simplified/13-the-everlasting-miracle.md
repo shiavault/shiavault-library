@@ -21,4 +21,3 @@ everlasting for all mankind, with its principles for everyone to learn
 from its goodness and righteousness, to know the right path and believe
 and worship Allah alone, associating no one with Him.
 
-

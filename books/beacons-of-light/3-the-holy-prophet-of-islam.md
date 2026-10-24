@@ -330,4 +330,3 @@ accept a gift (hadiyyah). See below, pp. 102.
 an‑Nay­saburi, as‑Sahih, with Nawawi's Commentary, 18 vols. (Beirut:
 Daru'l-Fikr, 1389/1978), vol. 7, p.46.
 
-

@@ -37,4 +37,3 @@ This means that to prove that the Being of God is unlimited and infinite
 suffices to prove His Oneness, for to conceive a second for the Infinite
 is impossible.
 
-

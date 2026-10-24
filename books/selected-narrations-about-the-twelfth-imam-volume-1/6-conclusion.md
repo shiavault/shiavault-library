@@ -160,11 +160,7 @@ Haroon to bring a copy of the Quran. Lais said, ‘Open the Surah Rahmaan
 from the Quran and start reciting it.’ Haroon duly obliged till he
 reached to the verse
 
-<blockquote dir="rtl">
-  <p>
-ولمن خاف مقام ربّه جنّتان
-  </p>
-</blockquote>
+> ولمن خاف مقام ربّه جنّتان
 
 ***And for him who fears to stand before his Lord are two gardens***
 (Qur’an Surah Rahmaan 55: 46)
@@ -249,13 +245,9 @@ to obtain the satisfaction of Haroon and his wife? May Allah not forgive
 the one who plays with His laws in this manner! Allah, the Almighty,
 declares in the Holy Quran,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا
-أَفَمَن يُلْقَى فِي النَّارِ خَيْرٌ أَم مَّن يَأْتِي آمِنًا يَوْمَ
-الْقِيَامَةِ اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا
+> أَفَمَن يُلْقَى فِي النَّارِ خَيْرٌ أَم مَّن يَأْتِي آمِنًا يَوْمَ
+> الْقِيَامَةِ اعْمَلُوا مَا شِئْتُمْ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 ***Surely they who deviate from the right way concerning Our
 communications are not hidden from Us. What! is he then who is cast into
@@ -391,5 +383,4 @@ say, ‘There will be twelve caliphs after me.’[^9]
 Shaykh, pg. 89; Al-Insaaf, Tr. No. 190; Behaar al-Anwaar, vol. 36, pg.
 237, Chap. 41, Tr. No. 30; Al-Manaaqeb of Ibn Shahr Al-Aashob, vol. 1,
 pg. 291.
-
 

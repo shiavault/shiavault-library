@@ -141,7 +141,6 @@ the poison of death. That, which is more important than death, is the
 preparation for it, and God willingly (Insha Allah); Almighty God shall
 bestow such a success upon us as in the next story.
 
-
 **The Clever King!**
 
 There was a country long time ago where the people would change a king
@@ -220,7 +219,6 @@ Holy Qur'an urges us to prepare for tomorrow: "O ye who believe! Fear
 Allah, and let every soullook to what (provision) He has sent forth for
 the morrow. Yea, fear Allah: for Allah is well-acquainted with (all)
 that ye do."(Qur'an 59:18)
-
 
 **Prepare for Death. It can strike anytime at anyplace**
 
@@ -349,7 +347,6 @@ fail to see it coming before it is upon them will have to pay dearly for
 their shortsightedness. They will have to endure the punishment of hell
 fire.
 
-
 **Life's Journey**
 
 Everyone's mind is full of hopes and ambitions. Everyone cherishes some
@@ -470,5 +467,4 @@ Deeds."
 2. "Verily the love of this world is the root-cause of every evil"
 3. "Who is most in danger?" Imam Sajjad (pbuh) replied: "The one who
 does not regard theworld dangerous for himself."
-
 

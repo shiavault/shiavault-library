@@ -542,4 +542,3 @@ those Godly men. Allah has characterized the rewards of the hereafter as
 "excellent"; it point to its sublimity and high prestige in comparison
 to this world' reward.
 
-

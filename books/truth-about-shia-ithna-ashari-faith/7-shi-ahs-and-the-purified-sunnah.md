@@ -982,4 +982,3 @@ chapter about “They did not estimate Allāh as He deserves.”
 (genesis) in a chapter about “If flies fall into the drink of one of
 you, let him take it out with a piece of bread.”
 
-

@@ -22,17 +22,12 @@ against his own soul and an embellisher of traversing the path of the
 impossible and vain trivialities for it.
 
 > 4ـ وقالَ ـ عَلَيْهِ السّلامُ ـ في حَقِّ مَنْ ذَمَّهُ: عاش رَكّابُ
-<blockquote dir="rtl">
-  <p>
-عَشَوات، جاهِلٌ رَكّابُ جَهالات، عاد عَلى نَفْسِهِ، مُزَيِّنٌ لَها
-سُلُوكَ المُحالاتِ، وباطِلَ التُّـرَّهاتِ.
-  </p>
-</blockquote>
+> عَشَوات، جاهِلٌ رَكّابُ جَهالات، عاد عَلى نَفْسِهِ، مُزَيِّنٌ لَها
+> سُلُوكَ المُحالاتِ، وباطِلَ التُّـرَّهاتِ.
 
 5. One whose judgments are oppressive, his power comes to an end.
 
 > 5ـ مَنْ جارَتْ أقْضِيَتُهُ، زالَتْ قُدْرَتُهُ.
 
 [^1]: In his description of one who does not deserve to be a judge.
-
 

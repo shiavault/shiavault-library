@@ -82,9 +82,7 @@ upon them. These teachings address various aspects of Jesus and his
 mother; as to who Jesus was, and who he was not, his teachings and his
 mission, and eventually his ascension to the heavens.
 
-
 **Z. Olyabek (Editor)
 October 2002
 Enco**
-
 

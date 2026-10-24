@@ -221,4 +221,3 @@ future portions I shall further pursue these topics:
 - Kaab's interference in the Caliphate
 - Kaab's during the reign of the Third Caliph
 
-

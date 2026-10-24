@@ -6,23 +6,15 @@ religious duties.
 
 Holy Qur’an says in a short and meaningful sentence:
 
-<blockquote dir="rtl">
-  <p>
-وَ لِلّه عَلَى النّاسِ حِجُّ الْبَیْتِ مَنِ اسْتَطاعَ اِلَیْهِ
-سَبیلاً.
-  </p>
-</blockquote>
+> وَ لِلّه عَلَى النّاسِ حِجُّ الْبَیْتِ مَنِ اسْتَطاعَ اِلَیْهِ
+> سَبیلاً.
 
 ***It is on people for the sake of Allah to perform Hajj of his house,
 anyone who is able to undertake the journey to him. (2:196)***
 
 And it says below this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ کَفَرَ فَاِنَّ اللّهَ غَنِىٌّ عَنِ الْعالَمینَ
-  </p>
-</blockquote>
+> وَ مَنْ کَفَرَ فَاِنَّ اللّهَ غَنِىٌّ عَنِ الْعالَمینَ
 
 ***And anyone who disbelieves (and renounces Hajj, has impaired
 himself), Allah is not in need of any of his created ones in the
@@ -35,12 +27,8 @@ Islam.
 
 It is interesting that in the interpretation of the holy verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَنْ کانَ فى هذِهِ اَعْمى فَهُوَفِى الاْخِرَةِ اَعْمى وَ اَضَلُّ
-سَبیلاً.
-  </p>
-</blockquote>
+> وَ مَنْ کانَ فى هذِهِ اَعْمى فَهُوَفِى الاْخِرَةِ اَعْمى وَ اَضَلُّ
+> سَبیلاً.
 
 ***And anyone who had been blind (from seeing Allah) in this world, will
 be blind in hereafter and more deviant from the path”. (17:72)***
@@ -62,21 +50,13 @@ this way Allah will forgive all of their sins”.
 
 Also, we read in another Hadith that:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الْحَجَّ المَبْرُورَ لا یَعْدِلُهُ شَىءٌ وَ لا جَزاءَلَهُ اِلاَّ
-الجَنَّة.
-  </p>
-</blockquote>
+> اِنَّ الْحَجَّ المَبْرُورَ لا یَعْدِلُهُ شَىءٌ وَ لا جَزاءَلَهُ اِلاَّ
+> الجَنَّة.
 
 *Nothing compares with the accepted Hajj and it has no reward other than
 heaven!”*
 
-<blockquote dir="rtl">
-  <p>
-وَ اَنَّ الْحاجَّ یَکُونُ کَیَوم وَلَدَتْهُ اُمُّه.
-  </p>
-</blockquote>
+> وَ اَنَّ الْحاجَّ یَکُونُ کَیَوم وَلَدَتْهُ اُمُّه.
 
 *A Person who performs Hajj purifies himself from sins like the day that
 he was born”.*
@@ -88,5 +68,4 @@ reward.
 Yazdi in “al-Urwat al-Wusqa” in the book of Hajj and the late Sheikh
 Hurr Ameli and other great scholars in the book “Wasael al-Shi’aa” and
 other famous Hadith books.
-
 

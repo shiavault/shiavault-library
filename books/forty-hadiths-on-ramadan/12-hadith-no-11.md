@@ -10,4 +10,3 @@ forgiveness and its end, emancipation from the fire (of hell).
 
 *Bihar al-Anwar, vol. 93, pg. 342*
 
-

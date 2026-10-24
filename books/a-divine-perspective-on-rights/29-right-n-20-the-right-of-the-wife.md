@@ -1,26 +1,18 @@
 Right n. 20: The Right of the Wife
 ==================================
 
-<blockquote dir="rtl">
-  <p>
-حق الزوجة
-  </p>
-</blockquote>
+> حق الزوجة
 
-<blockquote dir="rtl">
-  <p>
-وَأمَّا حَقُّ رَعِيَّتِكَ بمِلْكِ النّكَاحِ فَأَنْ تَعْلَمَ أَنَّ
-اللَّهَ جَعَلَهَا سَكَنًا وَمُسْتَرَاحًا وَأُنْسًا وَوَاقِيةً،
-وَكَذَلِكَ كُلُّ وَاحِدٍ مِنْكُمَا يَجِبُ أَنْ يَحْمَدَ اللَّهَ عَلَى
-صَاحِبهِ، ويَعْلَمَ أَنَّ ذَلِكَ نِعْمَةٌ مِنْهُ عَلَيْهِ. وَوَجَبَ
-أَنْ يُحْسِنَ صُحْبَةَ نِعْمَةِ اللَّهِ وَيُكْرِمَهَا ويَرْفَقَ بهَا
-وَإنْ كَانَ حَقُّكَ عَلَيْهَا أَغْلَظَ وَطَاعَتُكَ بهَا أَلْزَمَ
-فِيمَا أَحْببْتَ وَكَرِهْتَ مَا لَمْ تَكنْ مَعْصِيةً، فإنَّ لَهَا
-حَقُّ الرَّحمَةِ وَالْمُؤَانَسَةِ، وَمَوْضِعُ السُّكُونِ إلَيهَا
-قَضَاءَ اللَّذَّةِ الَّتِي لا بُدَّ مِنْ قَضَائِهَا وَذَلِكَ عَظِيمٌ.
-وَلا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمَّا حَقُّ رَعِيَّتِكَ بمِلْكِ النّكَاحِ فَأَنْ تَعْلَمَ أَنَّ
+> اللَّهَ جَعَلَهَا سَكَنًا وَمُسْتَرَاحًا وَأُنْسًا وَوَاقِيةً،
+> وَكَذَلِكَ كُلُّ وَاحِدٍ مِنْكُمَا يَجِبُ أَنْ يَحْمَدَ اللَّهَ عَلَى
+> صَاحِبهِ، ويَعْلَمَ أَنَّ ذَلِكَ نِعْمَةٌ مِنْهُ عَلَيْهِ. وَوَجَبَ
+> أَنْ يُحْسِنَ صُحْبَةَ نِعْمَةِ اللَّهِ وَيُكْرِمَهَا ويَرْفَقَ بهَا
+> وَإنْ كَانَ حَقُّكَ عَلَيْهَا أَغْلَظَ وَطَاعَتُكَ بهَا أَلْزَمَ
+> فِيمَا أَحْببْتَ وَكَرِهْتَ مَا لَمْ تَكنْ مَعْصِيةً، فإنَّ لَهَا
+> حَقُّ الرَّحمَةِ وَالْمُؤَانَسَةِ، وَمَوْضِعُ السُّكُونِ إلَيهَا
+> قَضَاءَ اللَّذَّةِ الَّتِي لا بُدَّ مِنْ قَضَائِهَا وَذَلِكَ عَظِيمٌ.
+> وَلا قُوَّةَ إلا باللهِ.
 
 **And the right of your subject through matrimonial contract**[^1] **is
 that you should know that God has made her a repose, a comfort and a
@@ -74,13 +66,9 @@ The first characteristics mentioned by Imam Sajjad are tranquility and
 dwelling in love. God has considered the creation of man and woman, and
 their dwelling together as signs in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
-إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
+> إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
 ***“And among His signs is this, that He created for you mates from
 among yourselves, that ye may dwell in tranquility with them. And he has
@@ -90,12 +78,8 @@ those who reflect.” [The Holy Qur’an, al-Rum 3:21]***
 This issue of dwelling together in love is also stated in the following
 verse:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا
-زَوْجَهَا لِيَسْكُنَ إِلَيْهَا
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا
+> زَوْجَهَا لِيَسْكُنَ إِلَيْهَا
 
 ***“It is He Who created you from a single person, and made his mate in
 order that he might dwell with her (in love).” [The Holy Qur’an,
@@ -161,16 +145,12 @@ Head of the Household in the Family Structure
 
 Consider the following verse:
 
-<blockquote dir="rtl">
-  <p>
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء بِمَا فَضَّلَ اللّهُ بَعْضَهُمْ
-عَلَى بَعْضٍ وَبِمَا أَنفَقُواْ مِنْ أَمْوَالِهِمْ فَالصَّالِحَاتُ
-قَانِتَاتٌ حَافِظَاتٌ لِّلْغَيْبِ بِمَا حَفِظَ اللّهُ وَاللاَّتِي
-تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ
-وَاضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلاَ تَبْغُواْ عَلَيْهِنَّ
-سَبِيلاً إِنَّ اللّهَ كَانَ عَلِيًّا كَبِيرًا
-  </p>
-</blockquote>
+> الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء بِمَا فَضَّلَ اللّهُ بَعْضَهُمْ
+> عَلَى بَعْضٍ وَبِمَا أَنفَقُواْ مِنْ أَمْوَالِهِمْ فَالصَّالِحَاتُ
+> قَانِتَاتٌ حَافِظَاتٌ لِّلْغَيْبِ بِمَا حَفِظَ اللّهُ وَاللاَّتِي
+> تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ
+> وَاضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلاَ تَبْغُواْ عَلَيْهِنَّ
+> سَبِيلاً إِنَّ اللّهَ كَانَ عَلِيًّا كَبِيرًا
 
 ***“Men are the protectors and maintainers of women, because God has
 given the one more (strength) than the other, and because they support
@@ -240,50 +220,34 @@ Now we will attend to these rights. The Noble Prophet has made several
 recommendations regarding women on various occasions. We will present
 only a few here. The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-خَيْرُكُمْ خَيْرُكُمْ لأَهْلِهِ وَأنَا خَيْرُكُمْ لأهْلِي.
-  </p>
-</blockquote>
+> خَيْرُكُمْ خَيْرُكُمْ لأَهْلِهِ وَأنَا خَيْرُكُمْ لأهْلِي.
 
 *“The best of you are the ones who treat their family the best. And I am
 the best of you towards my family.”*[^8]
 
 He also said:
 
-<blockquote dir="rtl">
-  <p>
-عِيالُ الرَّجُلِ أسَراؤهُ، وأحَبُّ العِبادِ إلى اللّه تعَالى
-أحْسَنُهُم صَنيعاً إلى أُسَرائِهِ.
-  </p>
-</blockquote>
+> عِيالُ الرَّجُلِ أسَراؤهُ، وأحَبُّ العِبادِ إلى اللّه تعَالى
+> أحْسَنُهُم صَنيعاً إلى أُسَرائِهِ.
 
 *“A man's dependants are his prisoners. And the servants most loved by
 God are the ones who best treat their prisoners.”*[^9]
 
 Imam Baqir quoted on the authority of God's Prophet :
 
-<blockquote dir="rtl">
-  <p>
-أوْصَاني جِبْرَئِيلُ بِالمَرْأةِ حَتىّ ظَنَنْتُ أنَّهُ لا يَنْبَغِي
-طَلاقُها إلاّ مِن فاحِشَةٍ بَيِّنَةٍ.
-  </p>
-</blockquote>
+> أوْصَاني جِبْرَئِيلُ بِالمَرْأةِ حَتىّ ظَنَنْتُ أنَّهُ لا يَنْبَغِي
+> طَلاقُها إلاّ مِن فاحِشَةٍ بَيِّنَةٍ.
 
 *“Gabriel advised me about women so much that I thought she could not be
 divorced unless she clearly commits adultery.”*[^10]
 
 In another tradition, The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن احْتَمَلَ مِن امْرَأتِهِ وَلَو كَلِمَةً وَاحِدَةً أعْتَقَ اللهُ
-رَقَبَتَهُ مِن النّارِ وأوْجَبَ لَهُ الجَنَّةَ وَكَتَبَ له مِائَتَيْ
-ألْفِ حَسَنَةٍ وَمَحا عَنهُ مِائَتَيْ ألْفِ سَيِّئَةٍ وَرَفَعَ لهُ
-مِائَتَيْ ألْفِ دَرَجَةٍ وَكَتَبَ اللهُ عَزَّ وَجَلَّ بِكُلِّ شَعْرَةٍ
-عَلى بَدَنِهِ عِبادَةَ سَنَةٍ.
-  </p>
-</blockquote>
+> مَن احْتَمَلَ مِن امْرَأتِهِ وَلَو كَلِمَةً وَاحِدَةً أعْتَقَ اللهُ
+> رَقَبَتَهُ مِن النّارِ وأوْجَبَ لَهُ الجَنَّةَ وَكَتَبَ له مِائَتَيْ
+> ألْفِ حَسَنَةٍ وَمَحا عَنهُ مِائَتَيْ ألْفِ سَيِّئَةٍ وَرَفَعَ لهُ
+> مِائَتَيْ ألْفِ دَرَجَةٍ وَكَتَبَ اللهُ عَزَّ وَجَلَّ بِكُلِّ شَعْرَةٍ
+> عَلى بَدَنِهِ عِبادَةَ سَنَةٍ.
 
 *“God will save whoever bears his wife - even if it is just one (bad)
 word - from the Fire. God will assure him of Heaven and record two
@@ -310,14 +274,10 @@ and ignore one another's faults.
 Ishaq ibn Ammar asked Imam Sadiq regarding the rights of a woman upon
 her husband. Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-يُشْبِعُ بَطْنَها ويَكْسُو جُثَّتَها وإنْ جَهِلَتْ غَفَر لهَا. إنَّ
-إبْراهِيمَ خَليلَ الرَّحْمنِ شَكا إلى اللهِ عَزَّ وَجَلَّ خُلُقَ
-سارَةَ فَأوْحَى اللهُ إليَهِ أنَّ مَثَلَ المَرأةِ مَثَلُ الضِّلْعِ إنْ
-أقَمْتَهُ انْكَسَرَ وإنْ تَركْتَهُ اسْتَمْتَعْتَ بهِ.
-  </p>
-</blockquote>
+> يُشْبِعُ بَطْنَها ويَكْسُو جُثَّتَها وإنْ جَهِلَتْ غَفَر لهَا. إنَّ
+> إبْراهِيمَ خَليلَ الرَّحْمنِ شَكا إلى اللهِ عَزَّ وَجَلَّ خُلُقَ
+> سارَةَ فَأوْحَى اللهُ إليَهِ أنَّ مَثَلَ المَرأةِ مَثَلُ الضِّلْعِ إنْ
+> أقَمْتَهُ انْكَسَرَ وإنْ تَركْتَهُ اسْتَمْتَعْتَ بهِ.
 
 *“He should fill her stomach, and cover her body. If she makes a
 mistake, he should forgive her. Abraham - the friend of the Merciful -
@@ -341,15 +301,11 @@ The Rewards of Helping the Wives
 
 God's Prophet told Ali :
 
-<blockquote dir="rtl">
-  <p>
-إسمَعْ مِنّي يا أبا الحَسَنِ! ومَا أقولُ إلاّ مِن أمْرِ رَبّي: ما مِنْ
-رَجُلٍ يُعينُ امْرأتَهُ في بَيْتِها إلاّ كانَ لهُ بِكُلِّ شَعْرَةٍ
-علَى بَدَنِهِ عِبادَةُ سَنَةٍ صِيامُ نَهارِها وقِيامُ لَيلِها وأعْطاهُ
-اللهُ مِن الثَّوابِ مِثْلَ ما أعْطى الصّابِرينَ وَداوُدَ وَيَعقوبَ
-وَعِيسى عَلَيهمُ السّلامُ.
-  </p>
-</blockquote>
+> إسمَعْ مِنّي يا أبا الحَسَنِ! ومَا أقولُ إلاّ مِن أمْرِ رَبّي: ما مِنْ
+> رَجُلٍ يُعينُ امْرأتَهُ في بَيْتِها إلاّ كانَ لهُ بِكُلِّ شَعْرَةٍ
+> علَى بَدَنِهِ عِبادَةُ سَنَةٍ صِيامُ نَهارِها وقِيامُ لَيلِها وأعْطاهُ
+> اللهُ مِن الثَّوابِ مِثْلَ ما أعْطى الصّابِرينَ وَداوُدَ وَيَعقوبَ
+> وَعِيسى عَلَيهمُ السّلامُ.
 
 *“O father of Hasan! Listen to me. I will not tell you anything but what
 my Lord commands. God will establish the reward of as many years of
@@ -363,15 +319,11 @@ and abstain from being forceful and bossy.
 
 God's Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-يا عَليُّ! مَن كانَ في خِدمَةِ العِيالِ في البَيتِ وَلَمْ يأنَفْ
-كَتَبَ اللهُ اسْمَهُ في دِيوانِ الشُّهَداءِ وَكَتَبَ لهُ بِكُلِّ يَومٍ
-وَلَيلَةٍ ثَوابَ ألفِ شَهيدٍ وَكَتَبَ لهُ بِكُلِّ قَدَمٍ ثَوابَ
-حِجَّةٍ وَعُمْرَةٍ وَأعْطاه ُاللهُ بِكُلِّ عِرْقٍ في جَسَدِه مَدِينَةً
-في الجَنَّةِ.
-  </p>
-</blockquote>
+> يا عَليُّ! مَن كانَ في خِدمَةِ العِيالِ في البَيتِ وَلَمْ يأنَفْ
+> كَتَبَ اللهُ اسْمَهُ في دِيوانِ الشُّهَداءِ وَكَتَبَ لهُ بِكُلِّ يَومٍ
+> وَلَيلَةٍ ثَوابَ ألفِ شَهيدٍ وَكَتَبَ لهُ بِكُلِّ قَدَمٍ ثَوابَ
+> حِجَّةٍ وَعُمْرَةٍ وَأعْطاه ُاللهُ بِكُلِّ عِرْقٍ في جَسَدِه مَدِينَةً
+> في الجَنَّةِ.
 
 *“O Ali! God will record in the book of the martyrs the name of whoever
 serves his family at home, and does not disdain it. God will establish
@@ -381,12 +333,8 @@ every step he takes in this regard. God will reward him with a city in
 Heaven for every vein in his body.”*[^14]  
  God's Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-يا عَلِيُّ! خِدمَةُ العِيالِ كَفّارَةٌ لِلكَبائِرِ وَتُطْفِيءُ غَضَبَ
-الرَّبِّ وَمُهورُ الحُورِ العِينِ وَتَزيدُ في الحَسَناتِ والدَّرَجاتِ.
-  </p>
-</blockquote>
+> يا عَلِيُّ! خِدمَةُ العِيالِ كَفّارَةٌ لِلكَبائِرِ وَتُطْفِيءُ غَضَبَ
+> الرَّبِّ وَمُهورُ الحُورِ العِينِ وَتَزيدُ في الحَسَناتِ والدَّرَجاتِ.
 
 *“O Ali! Serving the family is considered to be expiation for major
 sins. It will quench the Lord's wrath, and be considered as the nuptial
@@ -398,13 +346,9 @@ Admonishing Strict Men
 
 God's Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن ضَرَبَ امْرَأةً بِغَيرِ حَقٍّ فأنا خَصْمُهُ يَومَ القِيامَةِ. لا
-تَضْرِبوا نِسائَكُم، فَمَنْ ضَرَبَها بِغَيرِ حَقٍّ فَقَد عَصى اللهَ
-وَرَسُولَهُ.
-  </p>
-</blockquote>
+> مَن ضَرَبَ امْرَأةً بِغَيرِ حَقٍّ فأنا خَصْمُهُ يَومَ القِيامَةِ. لا
+> تَضْرِبوا نِسائَكُم، فَمَنْ ضَرَبَها بِغَيرِ حَقٍّ فَقَد عَصى اللهَ
+> وَرَسُولَهُ.
 
 *“On the Resurrection Day I am the enemy of any man who unduly beats his
 wife. Do not beat your wives. Thus whoever unduly beats his wife has
@@ -412,11 +356,7 @@ surely disobeyed God and His Prophet.”*[^16]
 
 God's Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لَيسَ مِنّا مَن وُسِعَ عَلَيهِ ثُمَّ قَتَرَ عَلى عِيالِهِ.
-  </p>
-</blockquote>
+> لَيسَ مِنّا مَن وُسِعَ عَلَيهِ ثُمَّ قَتَرَ عَلى عِيالِهِ.
 
 *“Whoever is affluent but is stingy with his wife does not belong to our
 nation.”*[^17]
@@ -426,23 +366,15 @@ Improving the Spouse's Living Conditions
 
 It has been narrated that Imam Sajjad said:
 
-<blockquote dir="rtl">
-  <p>
-أرْضاكُم عِندَ اللهِ أوْسَعُكُم عَلى عِيالِهِ.
-  </p>
-</blockquote>
+> أرْضاكُم عِندَ اللهِ أوْسَعُكُم عَلى عِيالِهِ.
 
 *“Whoever provides most amply for his family will be the most pleasing
 one near God.”*[^18]
 
 Imam Ridha said:
 
-<blockquote dir="rtl">
-  <p>
-يَنْبَغي لِلرَّجُلِ أنْ يُوسِعَ عَلى عِيالِهِ لِئَلاّ يَتَمَنَّوا
-مَوتَهُ.
-  </p>
-</blockquote>
+> يَنْبَغي لِلرَّجُلِ أنْ يُوسِعَ عَلى عِيالِهِ لِئَلاّ يَتَمَنَّوا
+> مَوتَهُ.
 
 *“A man should provide abundant provision for his family so that they do
 not wish for his death.”*[^19]
@@ -461,38 +393,22 @@ once a woman went to the Prophet of God and asked: “O' Prophet of God!
 What is the right of a man incumbent upon the woman?” The Prophet
 replied:
 
-<blockquote dir="rtl">
-  <p>
-أنْ تُطِيعَهُ وَلا تَعْصِيَهُ، وَلا تَصَدَّقَ مِن بَيْتِهِ إلّا
-بإذْنِه، وَلا تَصُومَ طَوعاً إلّا بإذْنِه، ولا تَمْنَعَهُ نَفْسَها
-وإنْ كانَتْ عَلى ظَهْرِ قَتَبٍ، وَلا تَخْرُجَ مِن بَيْتِها إلاّ
-بِإذْنِه، وإِنْ خَرَجَتْ بِغَيرِ إذْنِه لَعَنَتْها مَلائِكَةُ
-السَّماءِ وَمَلائِكَةُ الأرْضِ وَمَلائِكَةُ الغَضَبِ وَمَلائِكَةُ
-الرَّحمَةِ حَتىّ تَرْجِعَ إلى بيتِها.
-  </p>
-</blockquote>
+> أنْ تُطِيعَهُ وَلا تَعْصِيَهُ، وَلا تَصَدَّقَ مِن بَيْتِهِ إلّا
+> بإذْنِه، وَلا تَصُومَ طَوعاً إلّا بإذْنِه، ولا تَمْنَعَهُ نَفْسَها
+> وإنْ كانَتْ عَلى ظَهْرِ قَتَبٍ، وَلا تَخْرُجَ مِن بَيْتِها إلاّ
+> بِإذْنِه، وإِنْ خَرَجَتْ بِغَيرِ إذْنِه لَعَنَتْها مَلائِكَةُ
+> السَّماءِ وَمَلائِكَةُ الأرْضِ وَمَلائِكَةُ الغَضَبِ وَمَلائِكَةُ
+> الرَّحمَةِ حَتىّ تَرْجِعَ إلى بيتِها.
 
-<blockquote dir="rtl">
-  <p>
-فقَالَت: يا رَسُولَ اللهِ مَن أعْظَمُ النّاسِ حَقّاً عَلى الرَّجُلِ؟
-قال: والِداهُ. قالَت: فَمَنْ أعْظَمُ النّاسِ حَقّاً عَلى المَرْأةِ؟
-قالَ: زَوْجُها.
-  </p>
-</blockquote>
+> فقَالَت: يا رَسُولَ اللهِ مَن أعْظَمُ النّاسِ حَقّاً عَلى الرَّجُلِ؟
+> قال: والِداهُ. قالَت: فَمَنْ أعْظَمُ النّاسِ حَقّاً عَلى المَرْأةِ؟
+> قالَ: زَوْجُها.
 
-<blockquote dir="rtl">
-  <p>
-قَالَت: فَما لي عَلَيهِ مِن الحَقِّ مِثْلُ مَا لهُ عَلَيَّ؟ قال: وَلا
-مِن كُلِّ مِائَةٍ واحِدَةٌ.
-  </p>
-</blockquote>
+> قَالَت: فَما لي عَلَيهِ مِن الحَقِّ مِثْلُ مَا لهُ عَلَيَّ؟ قال: وَلا
+> مِن كُلِّ مِائَةٍ واحِدَةٌ.
 
-<blockquote dir="rtl">
-  <p>
-فَقالَت: وَالَّذِي بَعَثَكَ بِالحَقِّ لا يَمْلِكُ رَقَبَتي رَجُلٌ
-أبَداً.
-  </p>
-</blockquote>
+> فَقالَت: وَالَّذِي بَعَثَكَ بِالحَقِّ لا يَمْلِكُ رَقَبَتي رَجُلٌ
+> أبَداً.
 
 *“She should obey him, and not rebel against him. She should not give
 away anything from his house as charity unless by his permission. She
@@ -512,14 +428,10 @@ appointed you to Prophethood that no man will ever own me.”*[^20]
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-حَقُّ الرَّجُلِ عَلى المَرأةِ إنارَةُ السِّراجِ وَإصْلاحُ الطَّعامِ
-وأنْ تَسْتَقْبِلَهُ عِندَ بابِ بَيْتِها فَتُرَحِّبَ بِهِ وأنْ
-تُقَدِّمَ إلَيهِ الطَّشْتَ وَالمِنْدِيلَ وأنْ تُوَضِّئَهُ وأنْ لا
-تَمْنَعَهُ نَفْسَها إلاّ مِن عِلَّةٍ.
-  </p>
-</blockquote>
+> حَقُّ الرَّجُلِ عَلى المَرأةِ إنارَةُ السِّراجِ وَإصْلاحُ الطَّعامِ
+> وأنْ تَسْتَقْبِلَهُ عِندَ بابِ بَيْتِها فَتُرَحِّبَ بِهِ وأنْ
+> تُقَدِّمَ إلَيهِ الطَّشْتَ وَالمِنْدِيلَ وأنْ تُوَضِّئَهُ وأنْ لا
+> تَمْنَعَهُ نَفْسَها إلاّ مِن عِلَّةٍ.
 
 *“The right of the man over his wife is that she should turn on the
 light, prepare the food, and rush to warmly welcome him when he comes
@@ -528,24 +440,16 @@ withdraw herself from him unless she has an excuse.”*[^21]
 
 The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-لا تُؤَدّي المَرْأةُ حَقَّ اللهِ عَزَّ وَجَلَّ حَتىّ تُؤَدِّيَ حَقَّ
-زَوجِها.
-  </p>
-</blockquote>
+> لا تُؤَدّي المَرْأةُ حَقَّ اللهِ عَزَّ وَجَلَّ حَتىّ تُؤَدِّيَ حَقَّ
+> زَوجِها.
 
 *“A woman has not fulfilled God's rights unless she properly fulfills
 her husband’s rights.”*[^22]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-أيُّما امْرَأةٍ بَاتَتْ وَزَوْجُها عَلَيها ساخِطٌ في حَقٍّ لَمْ
-تُقْبَلْ مِنْها صَلاةٌ حَتىّ يَرضَى عَنهَا.
-  </p>
-</blockquote>
+> أيُّما امْرَأةٍ بَاتَتْ وَزَوْجُها عَلَيها ساخِطٌ في حَقٍّ لَمْ
+> تُقْبَلْ مِنْها صَلاةٌ حَتىّ يَرضَى عَنهَا.
 
 *“The prayers of a woman who passes a night while her husband is unhappy
 with her regarding his rights, will not be accepted until he is pleased
@@ -556,14 +460,10 @@ The Women’s Holy War
 
 Imam Baqir has been narrated to have said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ عَزَّ وَجَلَّ كَتَبَ عَلى الرِّجالِ الجِهادَ وَعَلى
-النِّساءِ الجِهادَ؛ فَجِهادُ الرَّجُلِ أنْ يَبْذُلَ مَالَهُ وَدَمَهُ
-حَتىّ يُقْتَلَ في سَبِيلِ اللهِ، وَجِهادُ المَرأةِ أنْ تَصْبِرَ عَلى
-ما تَرى مِن أذَى زَوجِها وَغَيْرَتِهِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ عَزَّ وَجَلَّ كَتَبَ عَلى الرِّجالِ الجِهادَ وَعَلى
+> النِّساءِ الجِهادَ؛ فَجِهادُ الرَّجُلِ أنْ يَبْذُلَ مَالَهُ وَدَمَهُ
+> حَتىّ يُقْتَلَ في سَبِيلِ اللهِ، وَجِهادُ المَرأةِ أنْ تَصْبِرَ عَلى
+> ما تَرى مِن أذَى زَوجِها وَغَيْرَتِهِ.
 
 *“God, the Almighty has decreed holy war for both men and women. The
 holy war for men is to expend their property and their blood until they
@@ -589,12 +489,8 @@ themselves and their children.
 Imam Sadiq has admonished women not to make up for men other than their
 husband. He said:
 
-<blockquote dir="rtl">
-  <p>
-أيُّما امْرَأةٍ تَطَيَّبَتْ لِغَيْرِ زَوجِها لَمْ يُقْبَلْ مِنها
-صَلاةٌ حَتىّ تَغْتَسِلَ مِن طِيبِها كَغَسْلِها مِن جَنابَتِها.
-  </p>
-</blockquote>
+> أيُّما امْرَأةٍ تَطَيَّبَتْ لِغَيْرِ زَوجِها لَمْ يُقْبَلْ مِنها
+> صَلاةٌ حَتىّ تَغْتَسِلَ مِن طِيبِها كَغَسْلِها مِن جَنابَتِها.
 
 *“God will not accept the prayers of any woman who puts on perfume for a
 man other than her husband until she bathes from her (having applied)
@@ -603,12 +499,8 @@ perfume just as she bathes after intercourse.”*[^25]
 Regarding the woman's gratefulness for her husband's efforts, Imam Sadiq
 said:
 
-<blockquote dir="rtl">
-  <p>
-أيُّما امْرَأةٍ قَالتْ لِزَوْجِها: ما رَأيْتُ مِنكَ خَيراً قَطُّ،
-فَقَدْ حَبِطَ عَمَلُها.
-  </p>
-</blockquote>
+> أيُّما امْرَأةٍ قَالتْ لِزَوْجِها: ما رَأيْتُ مِنكَ خَيراً قَطُّ،
+> فَقَدْ حَبِطَ عَمَلُها.
 
 *“The good deeds of any woman who tells her husband that she has never
 seen any good from him during her life will be cancelled, and wiped off
@@ -619,12 +511,8 @@ abide by these rules in the Islamic society, they shall have a sweet and
 prosperous life. There is a delicate point in a verse in the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَى نِسَآئِكُمْ هُنَّ
-لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ
-  </p>
-</blockquote>
+> أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَى نِسَآئِكُمْ هُنَّ
+> لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ
 
 ***“Permitted to you, on the night of the fast is the approach to your
 wives. They are your garments, and ye are their garments.” [The Holy
@@ -649,12 +537,8 @@ the sweet moments of life as well as its hardships. They should possess
 a high spirit and ambition so that their children grow up to be eminent
 people. Imam Sadiq quoted on the authority of the Noble Prophet of God :
 
-<blockquote dir="rtl">
-  <p>
-قَولُ الرَّجُلِ لِلمَرْأةِ إنِّي أُحِبُّكِ لا يَذْهَبُ مِن قَلْبِكَ
-أبَداً.
-  </p>
-</blockquote>
+> قَولُ الرَّجُلِ لِلمَرْأةِ إنِّي أُحِبُّكِ لا يَذْهَبُ مِن قَلْبِكَ
+> أبَداً.
 
 *“The words of a man who tells his wife ‘I love you’ will never leave
 her heart and mind.”*[^27]  
@@ -716,5 +600,4 @@ is ignorant, you should pardon her.”
 [^26]: Ibid.
 
 [^27]: Furu’ al-Kafi, v.5, p.569.
-
 

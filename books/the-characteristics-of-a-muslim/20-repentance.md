@@ -64,4 +64,3 @@ Praise be to Allah, Lord of the worlds.
 
 [^1]: Tabrasi, Mashkat al-Anwar, p.110, 2nd Edition.
 
-

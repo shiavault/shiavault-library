@@ -190,4 +190,3 @@ violations of justice. If a just person commits a sin, whether major or
 minor, his/her righteousness will be temporarily lost, until she/he
 compensates through repentance.
 
-

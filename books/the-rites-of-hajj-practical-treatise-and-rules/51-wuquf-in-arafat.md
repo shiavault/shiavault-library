@@ -65,4 +65,3 @@ this person couldn’t stay a part of night in Arafat, it is enough for
 him/her to perceive Wuquf a part of Wuquf in Mash’ar al-Haraam, which
 will be mentioned later, and his/her Hajj is correct in this way.
 
-

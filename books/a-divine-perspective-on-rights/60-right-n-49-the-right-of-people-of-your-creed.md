@@ -1,26 +1,18 @@
 Right n. 49: The Right of People of Your Creed
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-حق أهل ملتك
-  </p>
-</blockquote>
+> حق أهل ملتك
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ أَهْلِ مِلَّتِكَ عَامَّةً فَإضْمَارُ السَّلامَةِ وَنشْرِ
-جَنَاحِ الرَّحْمَةِ وَالرِّفْقِ بمُسِيئِهمْ وَتأَلُّفُهُمْ
-وَاسْتِصْلاحُهُمْ وَشُكْرُ مُحْسِنِهِمْ إلَى نفْسِهِ وَإلَيْكَ، فَإنَّ
-إحْسَانهُ إلَى نفْسِهِ إحْسَانهُ إلَيكَ إذا كَفَّ عَنْكَ أَذاهُ
-وَكَفَاكَ مَئونتَهُ وَحَبَسَ عَنكَ نفْسَهُ فَعَمِّهِمْ جَمِيعًا
-بدَعْوَتِكَ وَانصُرْهُمْ جَمِيعاً بنُصْرَتِكَ وَأَنزَلتَهُمْ جَمِيعاً
-مِنْكَ مَنَازِلَهُمْ، كَبيرَهُمْ بمَنْزِلَةِ الْوَالِدِ وَصَغِيرَهُمْ
-بمَنْزِلَةِ الْوَلَدِ وَأَوْسَطَهُمْ بمَنْزِلَةِ الأَخِ. فَمَنْ أَتاكَ
-تَعَاهَدْتَه بلُطْفٍ وَرَحْمَةٍ. وَصِلْ أَخَاكَ بمَا يَجِبُ لِلأَخِ
-عَلَى أَخِيهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ أَهْلِ مِلَّتِكَ عَامَّةً فَإضْمَارُ السَّلامَةِ وَنشْرِ
+> جَنَاحِ الرَّحْمَةِ وَالرِّفْقِ بمُسِيئِهمْ وَتأَلُّفُهُمْ
+> وَاسْتِصْلاحُهُمْ وَشُكْرُ مُحْسِنِهِمْ إلَى نفْسِهِ وَإلَيْكَ، فَإنَّ
+> إحْسَانهُ إلَى نفْسِهِ إحْسَانهُ إلَيكَ إذا كَفَّ عَنْكَ أَذاهُ
+> وَكَفَاكَ مَئونتَهُ وَحَبَسَ عَنكَ نفْسَهُ فَعَمِّهِمْ جَمِيعًا
+> بدَعْوَتِكَ وَانصُرْهُمْ جَمِيعاً بنُصْرَتِكَ وَأَنزَلتَهُمْ جَمِيعاً
+> مِنْكَ مَنَازِلَهُمْ، كَبيرَهُمْ بمَنْزِلَةِ الْوَالِدِ وَصَغِيرَهُمْ
+> بمَنْزِلَةِ الْوَلَدِ وَأَوْسَطَهُمْ بمَنْزِلَةِ الأَخِ. فَمَنْ أَتاكَ
+> تَعَاهَدْتَه بلُطْفٍ وَرَحْمَةٍ. وَصِلْ أَخَاكَ بمَا يَجِبُ لِلأَخِ
+> عَلَى أَخِيهِ.
 
 **And the right of the people of your creed is that you should have
 their welfare at heart, be merciful and gentle to their wrongdoers,
@@ -46,13 +38,9 @@ ascribed to God, a Prophet, or an individual. We see such instances in
 the words of the Prophet Joseph in the Holy Qur’an as “the ways of a
 people”:
 
-<blockquote dir="rtl">
-  <p>
-َ إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ
-بِالْآخِرَةِ هُمْ كَافِرُون وَاتَّبَعْتُ مِلَّةَ آبَآئِـي إِبْرَاهِيمَ
-وَإِسْحَاق َوَيَعْقُوبَ
-  </p>
-</blockquote>
+> َ إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ
+> بِالْآخِرَةِ هُمْ كَافِرُون وَاتَّبَعْتُ مِلَّةَ آبَآئِـي إِبْرَاهِيمَ
+> وَإِسْحَاق َوَيَعْقُوبَ
 
 ***“I have (I assure you) abandoned the ways of a people that believe
 not in God and that (even) deny the Hereafter. And I follow the ways of
@@ -61,12 +49,8 @@ my fathers, - Abraham, Isaac, and Jacob.” [The Holy Qur’an, Yusuf
 
 In another verse we read:
 
-<blockquote dir="rtl">
-  <p>
-مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ هَذَا إِلَّا
-اخْتِلَاقٌ
-  </p>
-</blockquote>
+> مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ هَذَا إِلَّا
+> اخْتِلَاقٌ
 
 ***“We never heard (the like) of this among the people of these later
 days. This is nothing but a made-up tale!” [The Holy Qur’an, Sad
@@ -74,12 +58,8 @@ days. This is nothing but a made-up tale!” [The Holy Qur’an, Sad
 
 It has also been referred to the idol-worshippers:
 
-<blockquote dir="rtl">
-  <p>
-قَدِ افْتَرَيْنَا عَلَى اللّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُم
-بَعْدَ إِذْ نَجَّانَا اللّهُ مِنْهَا
-  </p>
-</blockquote>
+> قَدِ افْتَرَيْنَا عَلَى اللّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُم
+> بَعْدَ إِذْ نَجَّانَا اللّهُ مِنْهَا
 
 ***“We should indeed invent a lie against God if we returned to your
 ways after God hath rescued us therefrom…” [The Holy Qur’an, al-A\`raaf
@@ -96,13 +76,9 @@ social development. We can easily understand this in the way God
 addresses groups of people in the Qur’an. In the following verse, God
 addresses the people to follow the straight path:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنَّ هَـذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلاَ تَتَّبِعُواْ
-السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ ذَلِكُمْ وَصَّاكُم بِهِ
-لَعَلَّكُمْ تَتَّقُونَ
-  </p>
-</blockquote>
+> وَأَنَّ هَـذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلاَ تَتَّبِعُواْ
+> السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ ذَلِكُمْ وَصَّاكُم بِهِ
+> لَعَلَّكُمْ تَتَّقُونَ
 
 ***“Verily this is My way, leading straight. Follow it. Follow not
 (other) paths. They will scatter you about from His (great) Path. Thus
@@ -112,13 +88,9 @@ doth He command you that ye may be righteous.” [The Holy Qur’an, al-Anam
 In another verse, God invites the people who were enemies before to be
 united as brothers:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْتَصِمُواْ بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُواْ
-وَاذْكُرُواْ نِعْمَتَ اللّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاء
-فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا
-  </p>
-</blockquote>
+> وَاعْتَصِمُواْ بِحَبْلِ اللّهِ جَمِيعًا وَلاَ تَفَرَّقُواْ
+> وَاذْكُرُواْ نِعْمَتَ اللّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاء
+> فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا
 
 ***“And hold fast, all together, by the Rope which God (stretches out
 for you), and be not divided among yourselves, and remember with
@@ -151,12 +123,8 @@ up a large volume if complied together.
 
 In the following verse, Muslims are invited to be united:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَكُونُواْ كَالَّذِينَ تَفَرَّقُواْ وَاخْتَلَفُواْ مِن بَعْدِ
-مَا جَاءهُمُ الْبَيِّنَاتُ وَأُوْلَـئِكَ لَهُمْ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> وَلاَ تَكُونُواْ كَالَّذِينَ تَفَرَّقُواْ وَاخْتَلَفُواْ مِن بَعْدِ
+> مَا جَاءهُمُ الْبَيِّنَاتُ وَأُوْلَـئِكَ لَهُمْ عَذَابٌ عَظِيمٌ
 
 ***“Be not like those who are divided amongst themselves and fall into
 disputations after receiving clear signs. For them is a dreadful
@@ -167,12 +135,8 @@ Judaism or Christianity pursued before. The Qur’an advises the Muslims
 to avoid disputes that would lead to their loss of grandeur. The Holy
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَأَطِيعُواْ اللّهَ وَرَسُولَهُ وَلاَ تَنَازَعُواْ فَتَفْشَلُواْ
-وَتَذْهَبَ رِيحُكُمْ وَاصْبِرُواْ إِنَّ اللّهَ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> وَأَطِيعُواْ اللّهَ وَرَسُولَهُ وَلاَ تَنَازَعُواْ فَتَفْشَلُواْ
+> وَتَذْهَبَ رِيحُكُمْ وَاصْبِرُواْ إِنَّ اللّهَ مَعَ الصَّابِرِينَ
 
 ***“And obey God and His Apostle, and fall into no disputes lest ye lose
 heart and your power depart; and be patient and persevering for God is
@@ -188,12 +152,8 @@ Brotherhood as a Slogan for Muslims
 The Qur’an has admonished us against disputes, and has invited Muslim
 societies to brotherhood:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ
-وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ
+> وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
 
 ***“The Believers are but a single Brotherhood. So make peace and
 reconciliation between your two (contending) brothers; and fear God,
@@ -208,13 +168,9 @@ will review some of the traditions in these chapters here. Ali ibn
 Ibrahim quoted on the authority of Imam Sadiq on the authority of God’s
 Prophet :
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثٌ مَنْ لَم يَكُنَّ فِيهِ لم يَتِمَّ لهُ عَمَلٌ؛ وَرَعٌ يحْجِزُهُ
-عَن مَعاصِي اللهِ وَخُلُقٌ يَدارِي بِه النّاسَ وَحِلْمٌ يَرُدُّ بِه
-جَهْلَ الجاهِلِ.
-  </p>
-</blockquote>
+> ثَلاثٌ مَنْ لَم يَكُنَّ فِيهِ لم يَتِمَّ لهُ عَمَلٌ؛ وَرَعٌ يحْجِزُهُ
+> عَن مَعاصِي اللهِ وَخُلُقٌ يَدارِي بِه النّاسَ وَحِلْمٌ يَرُدُّ بِه
+> جَهْلَ الجاهِلِ.
 
 *“There are three characteristics which if anyone lacks his deeds will
 not be perfect: 1) piety to prevent him from disobedience to God 2)
@@ -225,11 +181,7 @@ In another tradition Muhammad ibn Yahya quoted on the authority of
 Husayn ibn al-Hasan on the authority of Imam Baqir : “Gabriel descended
 to the Prophet and said:
 
-<blockquote dir="rtl">
-  <p>
-يا مُحَمَّدُ! رَبُّكَ يُقرِئُكَ السّلامَ وَيَقولُ لكَ: دارِ خَلْقِي.
-  </p>
-</blockquote>
+> يا مُحَمَّدُ! رَبُّكَ يُقرِئُكَ السّلامَ وَيَقولُ لكَ: دارِ خَلْقِي.
 
 *“O Muhammad! Your Lord greets you and says: Be affable with My
 creatures.”*[^5]
@@ -237,11 +189,7 @@ creatures.”*[^5]
 In another tradition Imam Sadiq quoted on the authority of the Noble
 Prophet :
 
-<blockquote dir="rtl">
-  <p>
-أَمَرَني رَبّي بِمُداراةِ النّاسِ كَما أمَرَني بأدَاءِ الفَرائِضِ.
-  </p>
-</blockquote>
+> أَمَرَني رَبّي بِمُداراةِ النّاسِ كَما أمَرَني بأدَاءِ الفَرائِضِ.
 
 *“My Lord has ordered me to be affable wtih people just as He ordered me
 to perform the obligatory deeds.”*[^6]
@@ -253,11 +201,7 @@ Allameh Majlisi has defined gentleness as: “mildness, kindness, and
 avoiding harshness in actions and speech when dealing with people in all
 circumstances.”[^7] Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-انّ لِكُلّ شَيءٍ قُفلاً وقُفل الإيمانِ الرّفْقُ.
-  </p>
-</blockquote>
+> انّ لِكُلّ شَيءٍ قُفلاً وقُفل الإيمانِ الرّفْقُ.
 
 *“Everything has a lock (a safeguard) and the lock of faith is
 gentleness”.*[^8]
@@ -271,34 +215,22 @@ ensue.
 
 Imam Baqir quoted on the authority of the Noble Prophet of Islam :
 
-<blockquote dir="rtl">
-  <p>
-لَو كانَ الرِّفْقُ خَلقاً يُرَى ما خَلَقَ اللهُ شَيئاً أحْسَنَ مِنهُ.
-  </p>
-</blockquote>
+> لَو كانَ الرِّفْقُ خَلقاً يُرَى ما خَلَقَ اللهُ شَيئاً أحْسَنَ مِنهُ.
 
 *“If gentleness was a creature that could be seen, God would not have
 created anything better than it.”*[^9]
 
 Imam Baqir said:
 
-<blockquote dir="rtl">
-  <p>
-إنّ اللهَ عَزَّ وَجَلَّ رَفيقٌ يُحِبّ الرِّفقَ، ويُعْطي عَلَى
-الرِّفْقِ ما لا يُعْطِي عَلىَ العُنفِ.
-  </p>
-</blockquote>
+> إنّ اللهَ عَزَّ وَجَلَّ رَفيقٌ يُحِبّ الرِّفقَ، ويُعْطي عَلَى
+> الرِّفْقِ ما لا يُعْطِي عَلىَ العُنفِ.
 
 *“God, the Exalted, the High, is gentle and is loves gentleness. He
 grants for gentleness what he does not grant for harshness.”*[^10]
 
 Imam Sadiq quoted on the authority of the Noble Prophet :
 
-<blockquote dir="rtl">
-  <p>
-الرِّفْقُ يُمْنٌ وَالخَرقُ شُؤمٌ.
-  </p>
-</blockquote>
+> الرِّفْقُ يُمْنٌ وَالخَرقُ شُؤمٌ.
 
 *“Gentleness is auspiciousness, while harshness is
 inauspiciousness.”*[^11]
@@ -347,5 +279,4 @@ p.290.
 [^10]: Usul al-Kafi, v.2, p.116.
 
 [^11]: Ibid.
-
 

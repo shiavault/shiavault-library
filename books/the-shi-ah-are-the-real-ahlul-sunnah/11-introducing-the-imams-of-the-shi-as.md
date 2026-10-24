@@ -171,4 +171,3 @@ others and subduing them. Rather, Muslims chose him out of their free
 will to be their caliph, and they insisted on it when they invited him
 to rule.
 
-

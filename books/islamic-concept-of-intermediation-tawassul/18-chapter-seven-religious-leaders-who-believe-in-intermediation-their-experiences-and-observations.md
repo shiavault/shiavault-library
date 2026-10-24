@@ -919,4 +919,3 @@ self-indulgence and self-gratification.
 *May Allah bless us with the power and ability to understand our faith
 correctly!*
 
-

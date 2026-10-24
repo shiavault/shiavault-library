@@ -32,7 +32,6 @@ wealth.
 
 6. the land which a dhimmi kafir buys from a Muslim.
 
-
 7. the spoils of war.
 
 However, there are some people who interpret the word “ghanimtum”. as
@@ -158,5 +157,4 @@ The circumstances of the Bani “Abdu ‘1-Qays —they were weak and small
 in number, and were thus prevented from travelling safely to Medina—
 leaves no room for interpreting the application of khums in the above
 hadith on spoils of war exclusively.
-
 

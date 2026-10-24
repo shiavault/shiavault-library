@@ -124,4 +124,3 @@ man. For Biblical Jewish concept, see Genesis 24:65.
 [^4]: Mustafa, “My Body Is My Own Business,” Globe & Mail, 29th June
 1993.
 
-

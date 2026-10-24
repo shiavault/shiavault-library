@@ -27,4 +27,3 @@ Your Prophet, may Your blessings be on him and his holy progeny.
 In place of so and so son of so and so recite the name of the particular
 Masoom for whose hadiya we are reciting the prayer.
 
-

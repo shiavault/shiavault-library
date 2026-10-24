@@ -7,24 +7,12 @@ brother so-and-so had been present and he too would have seen what
 success and victory Allah had given you,” whereupon Amir al-mu’minin
 said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا أظفره الله تعالى بأصحاب الجمل وقد قال له بعض أصحابه:
-  </p>
-</blockquote>
+> لمّا أظفره الله تعالى بأصحاب الجمل وقد قال له بعض أصحابه:
 
-<blockquote dir="rtl">
-  <p>
-وددت أن أخي فلاناً معك شاهداً ليرى ما نصرك الله به على أعدائك، فقال له
-عليه السلام
-  </p>
-</blockquote>
+> وددت أن أخي فلاناً معك شاهداً ليرى ما نصرك الله به على أعدائك، فقال له
+> عليه السلام
 
 “Did your brother hold me friend?”
 
@@ -37,25 +25,13 @@ persons were also present who are still in the loins of men and wombs of
 women. Shortly, time will bring them out and faith will get strength
 through them.
 
-<blockquote dir="rtl">
-  <p>
-أَهَوَى أَخِيك مَعَنَا؟
-  </p>
-</blockquote>
+> أَهَوَى أَخِيك مَعَنَا؟
 
-<blockquote dir="rtl">
-  <p>
-قال: نَعَم.
-  </p>
-</blockquote>
+> قال: نَعَم.
 
-<blockquote dir="rtl">
-  <p>
-قالَ: فَقَدْ شَهِدنَا، وَلَقَدْ شَهِدَنَا في عَسْكَرِنَا هذَا
-أَقْوَامٌ في أَصْلاَبِ الرِّجَالِ، وَأَرْحَامِ النِّسَاءِ، سَيَرْعُفُ
-بِهِمُ الزَّمَانُ، ويَقْوَى بِهِمُ الاْيمَانُ.
-  </p>
-</blockquote>
+> قالَ: فَقَدْ شَهِدنَا، وَلَقَدْ شَهِدَنَا في عَسْكَرِنَا هذَا
+> أَقْوَامٌ في أَصْلاَبِ الرِّجَالِ، وَأَرْحَامِ النِّسَاءِ، سَيَرْعُفُ
+> بِهِمُ الزَّمَانُ، ويَقْوَى بِهِمُ الاْيمَانُ.
 
 Alternative Sources for Sermon 12
 ---------------------------------
@@ -79,5 +55,4 @@ the heart, a man would deserve reward on the basis of his heart's
 feelings. This is to what Amir al-mu'minin has alluded in this sermon,
 namely that "If your brother loved me he would share the reward with
 those who secured martyrdom for our support."
-
 

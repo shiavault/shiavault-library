@@ -7,17 +7,11 @@ of every preoccupation which might distract you from Allah. See the
 immensity of Allah with your innermost being, and remember that you will
 stand before Him. For Allah has said,
 
-
-<blockquote dir="rtl">
-  <p>
-هُنَالِكَ تَبْلُو كُلُّ نَفْسٍ مَّا أَسْلَفَتْ وَرُدُّواْ إِلَى اللّهِ
-مَوْلاَهُمُ الْحَقِّ
-  </p>
-</blockquote>
+> هُنَالِكَ تَبْلُو كُلُّ نَفْسٍ مَّا أَسْلَفَتْ وَرُدُّواْ إِلَى اللّهِ
+> مَوْلاَهُمُ الْحَقِّ
 
 ***There shall every soul become acquainted with what it sent before,
 and they shall be brought back to Allah, their true Patron.*** (10:30)
-
 
 Stand at the foot of fear and hope. When you recite the takbir, you
 should belittle what is between the high heavens and the moist earth,
@@ -42,6 +36,4 @@ display of His generosity and power. Therefore make modesty your cloak
 and incapacity your shawl. Enter under the throne of the power of Allah,
 and you will capture the benefits of His lordship, seeking help in Him
 and asking for His succour.
-
-
 

@@ -43,4 +43,3 @@ original way of thinking, and settle their differences amicably and
 peacefully, showing love and respect to one another, living in harmony
 and brotherhood.
 
-

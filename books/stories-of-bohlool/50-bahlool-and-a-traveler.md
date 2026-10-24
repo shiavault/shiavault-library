@@ -54,4 +54,3 @@ The scholars and viziers were saved form Haroun Rashid's anger by
 Bahlool's ready, witty replies. They thanked Allah and Bahlool very
 much.
 
-

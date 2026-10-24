@@ -16,4 +16,3 @@ not feature in them at all.
 Of this, Raf‘, Naṣb and Jazm apply to the Af‘āl (verbs) while Khafḍ does
 not feature in them at all.
 
-

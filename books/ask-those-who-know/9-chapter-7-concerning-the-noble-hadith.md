@@ -1568,4 +1568,3 @@ speech so that He may set your deeds right and forgive your sins.
 Whoever, obeys Allah and His Prophet has obtained the ultimate
 success"*** (33:71).
 
-

@@ -50,4 +50,3 @@ Thousands and thousands of Muslims escorted his funeral. He was laid to
 rest in Qum in the precincts of the Holy Shrine of Ma’suma in Qum. May
 his soul rest in peace.
 
-

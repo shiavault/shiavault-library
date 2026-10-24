@@ -1257,7 +1257,7 @@ religious inclinations of Balazari and his taste of writing history.
 ### Reply
 
 The answer of these questions can be found in the narration of Muhammad
-bin Jurair bin Rustom Tabari (4<sup>th</sup> century). In his narration,
+bin Jurair bin Rustom Tabari (4th century). In his narration,
 there is no mention of *Bay’at.* So such a letter does not meet any of
 the aims of Balazari.
 
@@ -1644,7 +1644,7 @@ You two (Abbas and Ali) came to demand your inheritance. You (Abbas)  
 
 **[1]** Abdul Kareem Bi-Aazaar Shirazi: *Seemai Imam-e-Muttaqeen,*
 (Portrait of the Imam of the Pious), Vol. 5, Pgs. 21-22  
-**[2]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (2<sup>nd</sup> Edition),
+**[2]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (2nd Edition),
 Pg. 255  
 **[3]** At the beginning of the narration it is mentioned that these
 people were present.  
@@ -1765,7 +1765,7 @@ him and deserving of it.**[1]** So I too obeyed**[2]** fearing the
 people would return to infidelity. Some would cut throat of some by
 sword. After Abu Bakr Bay’at was given to Umar [and he was made Caliph]
 while (by God) I was more deserving**[3]** than he to it. But I feared
-people might become infidels.”<sup>(**[4]**)(**[5]**)</sup>
+people might become infidels.”(**[4]**)(**[5]**)
 
 **B)** All narrations, which take root from various and several sources,
 are dubious and not certain. They are rife with signs of falsehood and

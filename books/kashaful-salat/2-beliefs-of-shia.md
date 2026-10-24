@@ -332,4 +332,3 @@ All the sufferings and worries will be removed by th e help of Ali (as).
 With the help of Ali (as) ! With the help of Ali (as) ! With the help of
 Ali (as) !"
 
-

@@ -53,4 +53,3 @@ its publication is particularly appreciated.
  Department of Islamic Studies,  
  University of Edinburgh
 
-

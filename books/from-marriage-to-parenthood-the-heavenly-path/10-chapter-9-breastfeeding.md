@@ -205,23 +205,15 @@ Recommended Time Period of Breastfeeding
 
 Allāh (SwT) mentions in Surat al-Baqarah, Verse 233:
 
-<blockquote dir="rtl">
-  <p>
- وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
-لِــمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ 
-  </p>
-</blockquote>
+>  وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ
+> لِــمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ 
 
 ***“Mothers shall suckle their children for two full years, - that for
 such as desire to complete the suckling.”***
 
 And in Surat al-Aĥqāf, Verse 15, He states:
 
-<blockquote dir="rtl">
-  <p>
- وَحَمْلُهُ وَفِصَالُهُ ثَلاَثُونَ شَهْرًا 
-  </p>
-</blockquote>
+>  وَحَمْلُهُ وَفِصَالُهُ ثَلاَثُونَ شَهْرًا 
 
 ***“And his gestation and weaning take thirty months”***
 
@@ -378,5 +370,4 @@ of “espionage, deceipt and treason”.
 [^15]: Ibid., vol. 8, pg. 105, no. 4
 
 [^16]: Rayĥāneye Beheshtī, pg. 212-213
-
 

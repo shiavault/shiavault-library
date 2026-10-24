@@ -206,4 +206,3 @@ Islam. They consider it a product of the malady called “the build-up.”
 Its essence, they believe, was to recast common, garden-variety men into
 historic, indeed immortal image.
 
-

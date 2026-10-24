@@ -77,12 +77,10 @@ diseases of the soul which it is our business, not merely to moderate,
 but to eradicate, since they are irrationalApathy or freedom from
 passion is, accordingly, the Stoic ideal.
 
-
 **2.4.3.6 Religion**
 
 True religion and philosophy are one, according to the Stoics. [Little
 wonder that Stoic philosophy should appeal to the Jesuits.]
-
 
 **2.5 GREEK PHILOSOPHY: THE RELIGIOUS PERIOD [150 BCE 500 AD]**
 
@@ -104,5 +102,4 @@ Philosophy, [^2] an attempt to construct a world-religion upon
 Pythagorean doctrines: Neophythaore4anism;[^3] an attempt to make a
 religious philosophy of the Platonic teaching: Neoplatonism"Here are
 some comments on the main tendencies:
-
 

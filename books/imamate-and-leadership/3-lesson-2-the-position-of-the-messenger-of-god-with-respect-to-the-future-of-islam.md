@@ -176,4 +176,3 @@ Vol. II, p.436.
 [^5]: Ibn , Asakir, al-Tarikh, Vol. III, p. 5; Riyad al-Nadirah, Vol.
 II, p. 178.
 
-

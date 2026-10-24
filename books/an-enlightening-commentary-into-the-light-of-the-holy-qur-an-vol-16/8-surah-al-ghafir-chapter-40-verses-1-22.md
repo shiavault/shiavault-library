@@ -11,11 +11,7 @@ Surah al-Ghafir, Chapter 40, Verses 1 - 22
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
@@ -48,32 +44,16 @@ his forgiveness.[^1]
 Surah al-Ghafir - Verses 1 - 3
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-حم
-  </p>
-</blockquote>
+> حم
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ
-  </p>
-</blockquote>
+> تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ
 
-<blockquote dir="rtl">
-  <p>
-غَافِرِ الذَّنْبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ
-لا إِلَهَ إِلَّا هُوَ إِلَيْهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> غَافِرِ الذَّنْبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ
+> لا إِلَهَ إِلَّا هُوَ إِلَيْهِ الْمَصِيرُ
 
 ***1. Ha Mim.***  
 ***2. The Revelation of the Book is from Allah, the Omnipotent, the
@@ -195,12 +175,8 @@ Forgiveness are all due in their own right.
 Surah al-Ghafir - Verse 4
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا يُجَادِلُ فِي آيَاتِ اللَّهِ إِلَّا الَّذِينَ كَفَرُوا فَلا
-يَغْرُرْكَ تَقَلُّبُهُمْ فِي الْبِلادِ
-  </p>
-</blockquote>
+> مَا يُجَادِلُ فِي آيَاتِ اللَّهِ إِلَّا الَّذِينَ كَفَرُوا فَلا
+> يَغْرُرْكَ تَقَلُّبُهُمْ فِي الْبِلادِ
 
 ***4. None disputes in the Ayat (Verses, Signs) of Allah but those who
 disbelieve. Therefore, let not their ability of going about here and
@@ -271,14 +247,10 @@ intimidated by them.
 Surah al-Ghafir - Verse 5
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَالْأَحْزَابُ مِنْ بَعْدِهِمْ
-وَهَمَّتْ كُلُّ أُمَّةٍ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَادَلُوا
-بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ فَأَخَذْتُهُمْ فَكَيْفَ كَانَ
-عِقَابِ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَالْأَحْزَابُ مِنْ بَعْدِهِمْ
+> وَهَمَّتْ كُلُّ أُمَّةٍ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَادَلُوا
+> بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ فَأَخَذْتُهُمْ فَكَيْفَ كَانَ
+> عِقَابِ
 
 ***5. [Meccan disbelievers and also] the people Noah and the
 Confederates after them denied [their Prophets] before these; and every
@@ -346,12 +318,8 @@ them against entanglement with the fate of ancient people.
 Surah al-Ghafir - Verse 6
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَی الَّذِينَ كَفَرُوا أَنَّهُمْ
-أَصْحَابُ النَّارِ
-  </p>
-</blockquote>
+> وَكَذَلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَی الَّذِينَ كَفَرُوا أَنَّهُمْ
+> أَصْحَابُ النَّارِ
 
 ***6. Thus [the Confederates were chastised in this world] has the Word
 of your Lord been justified against those who disbelieved that they will
@@ -382,14 +350,10 @@ all kinds of wrong and crime.
 Surah al-Ghafir - Verse 7
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
-رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
-رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْماً فَاغْفِرْ لِلَّذِينَ
-تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
+> رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا
+> رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْماً فَاغْفِرْ لِلَّذِينَ
+> تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
 
 ***7. Those who bear the Throne and those around it glorify the praises
 of their Lord and believe in Him and ask forgiveness [of God] for those
@@ -480,20 +444,12 @@ keep you from the torments of Hell.
 Surah al-Ghafir - Verses 8 - 9
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ
-صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ
-أَنْتَ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ
+> صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ
+> أَنْتَ الْعَزِيزُ الْحَكِيمُ
 
-<blockquote dir="rtl">
-  <p>
-وَقِهِمُ السَّيِّئَاتِ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ
-رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> وَقِهِمُ السَّيِّئَاتِ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ
+> رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
 
 ***8. “Our Lord! And make them enter the abodes in gardens which you
 have promised them and to the righteous among their fathers, their
@@ -553,13 +509,9 @@ relatives.
 Surah al-Ghafir - Verse 10
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ اللَّهِ أَكْبَرُ مِنْ
-مَقْتِكُمْ أَنْفُسَكُمْ إِذْ تُدْعَوْنَ إِلَی الْأِيمَانِ
-فَتَكْفُرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ اللَّهِ أَكْبَرُ مِنْ
+> مَقْتِكُمْ أَنْفُسَكُمْ إِذْ تُدْعَوْنَ إِلَی الْأِيمَانِ
+> فَتَكْفُرُونَ
 
 ***10. Those who disbelieve will be addressed [in Hell]: “Allah’s Wrath
 [against you] was greater towards you than your aversion towards one
@@ -647,12 +599,8 @@ used to refuse.”***
 Surah al-Ghafir - Verse 11
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
-فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَی خُرُوجٍ مِنْ سَبِيلٍ
-  </p>
-</blockquote>
+> قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ
+> فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَی خُرُوجٍ مِنْ سَبِيلٍ
 
 ***11. They will say: “Our Lord! You have made us to die twice and You
 have given us life twice! Now we confess to our sins, then is there any
@@ -688,12 +636,8 @@ us to the world so that we may compensate for our past misdeeds.”***
 Surah al-Ghafir - Verse 12
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكُمْ بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ وَإِنْ
-يُشْرَكْ بِهِ تُؤْمِنُوا فَالْحُكْمُ لِلَّهِ الْعَلِيِّ الْكَبِيرِ
-  </p>
-</blockquote>
+> ذَلِكُمْ بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ وَإِنْ
+> يُشْرَكْ بِهِ تُؤْمِنُوا فَالْحُكْمُ لِلَّهِ الْعَلِيِّ الْكَبِيرِ
 
 ***12. “This [torment] is because when Allah Alone was invoked [as the
 One God] you disbelieved, but when partners were associated with Him,
@@ -717,19 +661,11 @@ will be no way out against His Decree.
 Surah al-Ghafir - Verses 13 - 14
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي يُرِيكُمْ آيَاتِهِ وَيُنَزِّلُ لَكُمْ مِنَ السَّمَاءِ
-رِزْقاً وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ
-  </p>
-</blockquote>
+> هُوَ الَّذِي يُرِيكُمْ آيَاتِهِ وَيُنَزِّلُ لَكُمْ مِنَ السَّمَاءِ
+> رِزْقاً وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ
 
-<blockquote dir="rtl">
-  <p>
-فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ
-الْكَافِرُونَ
-  </p>
-</blockquote>
+> فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ
+> الْكَافِرُونَ
 
 ***13. It is He Who shows you His Ayat (Verses, Signs) and sends down
 provision for you from the sky. And none remembers but those who turn in
@@ -863,19 +799,11 @@ sincere devotion everywhere.
 Surah al-Ghafir - Verses 15 - 16
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-رَفِيعُ الدَّرَجَاتِ ذُو الْعَرْشِ يُلْقِي الرُّوحَ مِنْ أَمْرِهِ
-عَلَی مَنْ يَشَاءُ مِنْ عِبَادِهِ لِيُنْذِرَ يَوْمَ التَّلاقِ
-  </p>
-</blockquote>
+> رَفِيعُ الدَّرَجَاتِ ذُو الْعَرْشِ يُلْقِي الرُّوحَ مِنْ أَمْرِهِ
+> عَلَی مَنْ يَشَاءُ مِنْ عِبَادِهِ لِيُنْذِرَ يَوْمَ التَّلاقِ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ هُمْ بَارِزُونَ لا يَخْفَی عَلَی اللَّهِ مِنْهُمْ شَيْءٌ لِمَنِ
-الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ
-  </p>
-</blockquote>
+> يَوْمَ هُمْ بَارِزُونَ لا يَخْفَی عَلَی اللَّهِ مِنْهُمْ شَيْءٌ لِمَنِ
+> الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ
 
 ***15. [He is] the Owner of High Ranks and Degrees, the Owner of the
 Throne. He sends the angel of Revelation [Faithful Spirit, Gabriel] by
@@ -1100,12 +1028,8 @@ Caller asks the question and produces the reply.
 Surah al-Ghafir - Verse 17
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ تُجْزَی كُلُّ نَفْسٍ بِمَا كَسَبَتْ لا ظُلْمَ الْيَوْمَ
-إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
-  </p>
-</blockquote>
+> الْيَوْمَ تُجْزَی كُلُّ نَفْسٍ بِمَا كَسَبَتْ لا ظُلْمَ الْيَوْمَ
+> إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
 
 ***17. This Day shall every person be recompensed for what he earned.
 This Day no injustice [shall be done to anybody]. Verily, Allah is Swift
@@ -1159,18 +1083,10 @@ records.
 Surah al-Ghafir - Verses 18 - 19
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنْذِرْهُمْ يَوْمَ الْآزِفَةِ إِذِ الْقُلُوبُ لَدَی الْحَنَاجِرِ
-كَاظِمِينَ مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلا شَفِيعٍ يُطَاعُ
-  </p>
-</blockquote>
+> وَأَنْذِرْهُمْ يَوْمَ الْآزِفَةِ إِذِ الْقُلُوبُ لَدَی الْحَنَاجِرِ
+> كَاظِمِينَ مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلا شَفِيعٍ يُطَاعُ
 
-<blockquote dir="rtl">
-  <p>
-يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ
-  </p>
-</blockquote>
+> يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ
 
 ***18. [O Prophet!] warn them of the Day [of Resurrection] that is
 drawing near, when the hearts [out of intensity of fear] will be choking
@@ -1326,12 +1242,8 @@ man to abstain from committing sins.
 Surah al-Ghafir - Verse 20
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَقْضِي بِالْحَقِّ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لا
-يَقْضُونَ بِشَيْءٍ إِنَّ اللَّهَ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> وَاللَّهُ يَقْضِي بِالْحَقِّ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لا
+> يَقْضُونَ بِشَيْءٍ إِنَّ اللَّهَ هُوَ السَّمِيعُ الْبَصِيرُ
 
 ***20. And Allah judges with truth while those to whom they invoke
 besides Him cannot judge anything. Certainly, Allah! He is the
@@ -1388,14 +1300,10 @@ not judge with truth.
 Surah al-Ghafir - Verse 21
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الَّذِينَ كَانُوا مِنْ قَبْلِهِمْ كَانُوا هُمْ أَشَدَّ مِنْهُمْ
-قُوَّةً وَآثَاراً فِي الْأَرْضِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ
-وَمَا كَانَ لَهُمْ مِنَ اللَّهِ مِنْ وَاقٍ
-  </p>
-</blockquote>
+> أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الَّذِينَ كَانُوا مِنْ قَبْلِهِمْ كَانُوا هُمْ أَشَدَّ مِنْهُمْ
+> قُوَّةً وَآثَاراً فِي الْأَرْضِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ
+> وَمَا كَانَ لَهُمْ مِنَ اللَّهِ مِنْ وَاقٍ
 
 ***21. Have they not traveled in the land and seen what was the end of
 those who were before them? They were superior to them in strength and
@@ -1476,12 +1384,8 @@ seized and then they will be chastised.
 Surah al-Ghafir - Verse 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ
-فَكَفَرُوا فَأَخَذَهُمُ اللَّهُ إِنَّهُ قَوِيٌّ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ
+> فَكَفَرُوا فَأَخَذَهُمُ اللَّهُ إِنَّهُ قَوِيٌّ شَدِيدُ الْعِقَابِ
 
 ***22. That [Divine Wrath] was because there came to them their
 Messengers with clear proofs but they disbelieved. Therefore, Allah
@@ -1614,5 +1518,4 @@ al-Muqatta’a fi Awa’il al-Suwar).
 [^52]: 30:9
 
 [^53]: 26:128-129
-
 

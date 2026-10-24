@@ -45,13 +45,9 @@ On this basis, discussion and study about the existence of God and the
 heavenly religion becomes essential and definite. As a marginal note to
 this reason, Muḥaqqiq Baḥrānī writes:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ دَفْعَ الضَّرَرِ الْمَظْنونِ الَّذي يَلْحَقُ بِسَبَبِ الْجَهْلِ
-بِمَعْرِفَةِ اللهِ واجِبٌ عَقْلاً، وَ وُجوبُ دَفْعِ ذلِكَ الضَّرَرِ
-مُسْتَلْزِمٌ لِوُجوبِ الْمَعْرِفَة.
-  </p>
-</blockquote>
+> اِنَّ دَفْعَ الضَّرَرِ الْمَظْنونِ الَّذي يَلْحَقُ بِسَبَبِ الْجَهْلِ
+> بِمَعْرِفَةِ اللهِ واجِبٌ عَقْلاً، وَ وُجوبُ دَفْعِ ذلِكَ الضَّرَرِ
+> مُسْتَلْزِمٌ لِوُجوبِ الْمَعْرِفَة.
 
 “To avoid probable harm as a result of not having knowledge of God is
 compulsory according to the dictate of reason, and the compulsoriness of
@@ -71,13 +67,9 @@ gratitude must be expressed to Him.
 
 In this regard, Muḥaqqiq Baḥrānī said:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الْعاقِلَ إذا فَكَّرَ في خَلْقِهِ وَجَدَ آثارَ النِّعْمَةِ
-عَلَيْهِ ظاهِرَةً، وَ قَدْ تَقَرَّرَ في عَقْلِهِ وُجوبُ شُكْرِ
-المُنْعِمِ، فَيَجِبُ عَلَيهِ شُكْرُهُ، فَيَجِبُ إذَنْ مَعْرِفَتُهُ.
-  </p>
-</blockquote>
+> اِنَّ الْعاقِلَ إذا فَكَّرَ في خَلْقِهِ وَجَدَ آثارَ النِّعْمَةِ
+> عَلَيْهِ ظاهِرَةً، وَ قَدْ تَقَرَّرَ في عَقْلِهِ وُجوبُ شُكْرِ
+> المُنْعِمِ، فَيَجِبُ عَلَيهِ شُكْرُهُ، فَيَجِبُ إذَنْ مَعْرِفَتُهُ.
 
 “If a wise man reflects on His creation, he will find in himself signs
 of bounty, and the compulsoriness of thanking the Benefactor is
@@ -148,22 +140,14 @@ it.”[^5]
 
 2. Imām ‘Alī (*‘a*) said about the station of knowing God:
 
-<blockquote dir="rtl">
-  <p>
-مَعْرِفَةُ اللهِ اَعْلَى الْمَعارِفِ.
-  </p>
-</blockquote>
+> مَعْرِفَةُ اللهِ اَعْلَى الْمَعارِفِ.
 
 ***“Knowledge of Allah is the highest level of knowledge.”***[^6]
 
 3. Imām al-Ṣādiq (*‘a*) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ أفْضَلَ الفَرائِضِ وَأوْجَبَها عَلَى الإنْسانِ مَعْرِفَةُ
-الرَّبِّ وَالإقْرارُ لَهُ بِالعُبودِيَّةِ.
-  </p>
-</blockquote>
+> إنَّ أفْضَلَ الفَرائِضِ وَأوْجَبَها عَلَى الإنْسانِ مَعْرِفَةُ
+> الرَّبِّ وَالإقْرارُ لَهُ بِالعُبودِيَّةِ.
 
 ***“The most superior of all obligations and commandments is to know God
 and acknowledge Him through servitude [to Him].”***
@@ -197,5 +181,4 @@ Realism (The Principles of Philosophy and the Method of Realism), vol.
 [^5]: Shaykh al-Ṣadūq, Al-Tawḥīd, section (bāb) 40, ḥadīth 5.
 
 [^6]: Ghurar al-Ḥikam wa Durar al-Kalam, p. 81.
-
 

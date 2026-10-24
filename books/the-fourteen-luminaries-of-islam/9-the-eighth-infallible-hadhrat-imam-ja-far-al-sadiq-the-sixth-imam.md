@@ -420,4 +420,3 @@ Ahl al-Bayt of the Holy Apostle of Allah (S).”[^3]
 
 [^3]: Munazira dar Rabita ba Masa’il-Ideology.
 
-

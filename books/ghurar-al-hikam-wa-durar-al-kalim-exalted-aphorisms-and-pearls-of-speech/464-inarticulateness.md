@@ -15,11 +15,7 @@ Inarticulateness
 increased excitement during conversation.
 
 > 3ـ عَلامَةُ العَيِّ تَكْرارُ الكَلامِ عِنْدَ المُناظَرَةِ، وكَثْرَةُ
-<blockquote dir="rtl">
-  <p>
-التَّبَجُّجِ عِنْدَ المُحاوَرَةِ.
-  </p>
-</blockquote>
+> التَّبَجُّجِ عِنْدَ المُحاوَرَةِ.
 
 4. No declaration can be made with inarticulateness.
 
@@ -28,5 +24,4 @@ increased excitement during conversation.
 5. Inarticulateness is beleaguering.
 
 > 5ـ اَلعَيُّ حَصَـرٌ.
-
 

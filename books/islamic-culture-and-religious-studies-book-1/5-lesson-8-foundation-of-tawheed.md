@@ -87,7 +87,6 @@ played?
 foundation of the Holy Ka'abah?
 3. Why does a Muslim visit this sacred place?
 
-
 **Introduction to Chapter Four**
 
 In The Name Of Allah (S.W.T.), the Beneficent, the Merciful
@@ -112,7 +111,6 @@ manners brought even the polytheists to the belief in One God.
 
 Because of this very akhlaq, he is referred to as the 'BEST EXAMPLE'
 for mankind in the Holy Qur'an.
-
 
 **Lesson 9 : Da'awah For The Near Ones To Islam**
 
@@ -276,5 +274,4 @@ Prophet of Islam (s.a.w.w.) and their respective outcomes.
 (s.a.w.w.)'s sermon during the latter event? Who replied him and what
 was this reply? 5. What do you understand by the statement made by the
 young man?
-
 

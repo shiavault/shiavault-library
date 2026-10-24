@@ -562,4 +562,3 @@ relieved of *ihram*, and what duty does he shoulder?
 ANSWER: Yes, by making provisions for the *tawafs* and the prayer his
 *Hajj* would be correct.
 
-

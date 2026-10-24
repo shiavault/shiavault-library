@@ -221,4 +221,3 @@ was instrumental in protecting learned men.
 It is said that Abaqan "rewarded nearly a hundred learned men of
 standing who had been disciples
 
-

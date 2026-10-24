@@ -206,4 +206,3 @@ would not have commanded him to explain it to people when He said: "We
 have revealed unto you the Book so that you may explain to people what
 has been revealed for them."
 
-

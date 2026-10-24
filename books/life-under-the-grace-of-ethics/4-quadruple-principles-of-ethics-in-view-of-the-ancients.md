@@ -60,11 +60,7 @@ and the vices to infinite points existing within the circle.
 It is narrated from Mohaghegh Tousi, Khajeh Nasireddin and some other
 scholars that "the path" described in the traditions as:
 
-<blockquote dir="rtl">
-  <p>
-«اَدَقُّ مِنَ الشَّعْرِ وَ اَحَدُّ مِنَ السَّیْفِ».
-  </p>
-</blockquote>
+> «اَدَقُّ مِنَ الشَّعْرِ وَ اَحَدُّ مِنَ السَّیْفِ».
 
 "is thinner than hair and sharper than sword", is the same moral
 moderation. [^1]
@@ -285,12 +281,8 @@ In addition, there are some verses and traditions encouraging seclusion
 and dissociation. For example, pay attention to the following verses and
 traditions:
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا
-لَهُ إِسْحَاقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا
-  </p>
-</blockquote>
+> فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا
+> لَهُ إِسْحَاقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا
 
 ***So, when he had withdrawn from them and that which they were
 worshipping beside Allah, We gave him Isaac and Jacob. Each of them We
@@ -299,12 +291,8 @@ made a prophet. (19:49)***
 This verse indicates that the bounty of children, as a prophet, was
 granted to Abraham when he chose seclusion and dissociation.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا اللَّهَ فَأْوُوا
-إِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِهِ
-  </p>
-</blockquote>
+> وَإِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا اللَّهَ فَأْوُوا
+> إِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِهِ
 
 ***And when ye withdraw from them and that which they worship except
 Allah, then seek refuge in the Cave; your Lord will spread for you of
@@ -313,14 +301,10 @@ His mercy. (18:16)***
 This verse shows that People of Cave became liable to divine favour
 after seclusion and dissociation.
 
-<blockquote dir="rtl">
-  <p>
-«قِیلَ لِرَسُولِ اللهِ (صلى الله علیه وآله) : اَیُّ النّاسِ اَفْضَلُ؟
-قالَ: مُؤْمِنٌ مُجاهِدٌ بِنَفْسِهِ وَ فِی سَبِیلِ اللهِ تَعالى. قِیلَ:
-ثُمَّ مَنْ؟ قالَ: رَجُلٌ مُعْتَزِلٌ فِی شِعْب مِنَ الشِّعابِ یَعْبُدُ
-رَبَّهُ وَ یَدَعُ النّاسَ فِی شَرِّهِ».
-  </p>
-</blockquote>
+> «قِیلَ لِرَسُولِ اللهِ (صلى الله علیه وآله) : اَیُّ النّاسِ اَفْضَلُ؟
+> قالَ: مُؤْمِنٌ مُجاهِدٌ بِنَفْسِهِ وَ فِی سَبِیلِ اللهِ تَعالى. قِیلَ:
+> ثُمَّ مَنْ؟ قالَ: رَجُلٌ مُعْتَزِلٌ فِی شِعْب مِنَ الشِّعابِ یَعْبُدُ
+> رَبَّهُ وَ یَدَعُ النّاسَ فِی شَرِّهِ».
 
 3- They asked the Prophet (S): who is superior to all people? He said:
 the believer who struggles in the way of God. It was asked: Then who is
@@ -332,12 +316,8 @@ after holy struggle and has commended it.
 
 4- In Mesbahol Sharia, it is narrated from Imam As-Sadiq (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«صاحِبُ الْعُزْلَةِ مُتَحَصِّنٌ بِحِصْنِ اللهِ وَ مُحْتَرِسٌ
-بِحَراسَتِهِ فَیاطُوبى لِمَنْ تَفَرَّدَ بِهِ سِرّاً وَ عَلانِیَةً».
-  </p>
-</blockquote>
+> «صاحِبُ الْعُزْلَةِ مُتَحَصِّنٌ بِحِصْنِ اللهِ وَ مُحْتَرِسٌ
+> بِحَراسَتِهِ فَیاطُوبى لِمَنْ تَفَرَّدَ بِهِ سِرّاً وَ عَلانِیَةً».
 
 The isolated people are in the divine castle and under God's protection;
 good for those who are with God publicly and in privacy.[^4]
@@ -387,13 +367,9 @@ At the time of Prophet (S) one of the Muslims went to the mountain for
 worship and secluded himself. He was brought to Prophet (S) The Prophet
 said him:
 
-<blockquote dir="rtl">
-  <p>
-«لا تَفْعَلْ اَنْتَ وَ لا اَحَدٌ مِنْکُمْ، لَصَبْرُ اَحَدِکُمْ فِی
-بَعْضِ مَواطِنِ الاِْسْلامِ خَیْرٌ مِنْ عِبادَةِ اَحَدِکُمْ
-اَرْبَعِینَ عاماً».
-  </p>
-</blockquote>
+> «لا تَفْعَلْ اَنْتَ وَ لا اَحَدٌ مِنْکُمْ، لَصَبْرُ اَحَدِکُمْ فِی
+> بَعْضِ مَواطِنِ الاِْسْلامِ خَیْرٌ مِنْ عِبادَةِ اَحَدِکُمْ
+> اَرْبَعِینَ عاماً».
 
 Neither you, nor none of the Muslims do this, because patience and
 resistance of one of you in the Islamic environments is better than
@@ -512,12 +488,8 @@ instances of such cases.
 The speech of Imam As-Sadiq (A.S.) to Safian Souri too refers to this
 reality. When he said:
 
-<blockquote dir="rtl">
-  <p>
-«فَسَدَ الزَّمانُ وَ تَغَیَّرَ الاِْخْوانُ فَرَأَیْتُ الاِْنْفِرادَ
-اَسْکَنَ لِلْفُؤادِ».
-  </p>
-</blockquote>
+> «فَسَدَ الزَّمانُ وَ تَغَیَّرَ الاِْخْوانُ فَرَأَیْتُ الاِْنْفِرادَ
+> اَسْکَنَ لِلْفُؤادِ».
 
 The world is vicious and friends are altered, so I found seclusion more
 peaceful.[^6]
@@ -572,11 +544,7 @@ acquisition of good moral habits should consider following aspects:
 1- He should always watch his condition and know that, before him, God
 is always observing and watching him. Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ
-  </p>
-</blockquote>
+> أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ
 
 ***Is He Who is aware of the deserts of every soul (as he who is aware
 of nothing)? (13:33)***
@@ -586,33 +554,21 @@ the one always standing over him.
 
 And also it says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 ***Lo! Allah hath been a watcher over you. (4:1)***
 
 And it is narrated in a tradition from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اُعْبُدِ اللهَ کَاَنَّکَ تَراهُ فَاِنْ لَمْ تَکُنْ تَراهُ فَاِنَّهُ
-یَراکَ».
-  </p>
-</blockquote>
+> «اُعْبُدِ اللهَ کَاَنَّکَ تَراهُ فَاِنْ لَمْ تَکُنْ تَراهُ فَاِنَّهُ
+> یَراکَ».
 
 Worship God as you see Him, and if you do not see Him, He sees you.[^7]
 
 It is interesting that this tradition is mentioned for the
 interpretation of the word "goodness" in the verse
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ
 
 ***Lo! Allah enjoineth justice and kindness. (16:90)***
 
@@ -621,13 +577,9 @@ That is to say the source of all goodness is vigilance.
 2- Before starting each speech and action, a man should study precisely
 its incentive, result and end as it is narrated in the tradition:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّهُ یُنْشَرُ لِلْعَبْدِ فِی کُلِّ حَرَکَة مِنْ حَرَکاتِهِ وَ اِنْ
-صَغُرَتْ ثَلاثَةُ دَواوِینَ: اَلاَْوَّلُ لِمَ; اَلثّانِی کَیْفَ;
-اَلثّالِثُ لِمَنْ».
-  </p>
-</blockquote>
+> «اِنَّهُ یُنْشَرُ لِلْعَبْدِ فِی کُلِّ حَرَکَة مِنْ حَرَکاتِهِ وَ اِنْ
+> صَغُرَتْ ثَلاثَةُ دَواوِینَ: اَلاَْوَّلُ لِمَ; اَلثّانِی کَیْفَ;
+> اَلثّالِثُ لِمَنْ».
 
 When performing each action, whatever small it may be, three books are
 opened for registering its specifications: first book for why, and the
@@ -654,12 +606,8 @@ has gotten rid of a physical disease.
 The issue of "self-examination and compensation of action" is so
 critical that Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اِنِّی لاََسْتَغْفِرُ اللهَ وَ اَتُوبُ اِلَیْهِ فِی الْیَوْمِ
-سَبْعِینَ مَرَّةً».
-  </p>
-</blockquote>
+> «اِنِّی لاََسْتَغْفِرُ اللهَ وَ اَتُوبُ اِلَیْهِ فِی الْیَوْمِ
+> سَبْعِینَ مَرَّةً».
 
 I ask God's forgiveness and I repent to Him seventy times every day.[^9]
 
@@ -685,5 +633,4 @@ that it is a repeatedly stated tradition.
 [^8]: Ehyaol Oloum, and Mohajjatol Beisae
 
 [^9]: Feise Kashani, Mohajjatol Beisae, 315/2
-
 

@@ -32,4 +32,3 @@ the author will appreciate if the results and outcomes are sent to him
 and they can be analyzed. The outcomes of this workout will be
 published, Insha Allah, in an Islamic Journal.
 
-

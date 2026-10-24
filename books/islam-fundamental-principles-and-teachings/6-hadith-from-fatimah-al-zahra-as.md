@@ -583,4 +583,3 @@ progeny. In fact he revived the whole world until the Day of Judgment.
 He is the Master of the Martyrs and the best among the people after his
 elder brother.
 
-

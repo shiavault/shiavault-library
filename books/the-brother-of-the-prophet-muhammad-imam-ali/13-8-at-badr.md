@@ -100,4 +100,3 @@ outcome of the battle would not have changed.
 
 [^3]: Al-Waqidi Al-Maghazi (Oxford printing) Part 1 p. 152.
 
-

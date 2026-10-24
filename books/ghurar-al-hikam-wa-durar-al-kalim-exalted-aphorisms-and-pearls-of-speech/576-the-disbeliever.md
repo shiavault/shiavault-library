@@ -13,11 +13,7 @@ what he strives for, death is [the cause of] his wretchedness and
 hellfire is his final end.
 
 > 2ـ اَلكافِرُ اَلدُّنيا جَنَّـتُهُ، والعاجِلَةُ هِمَتُّهُ، والمَوْتُ
-<blockquote dir="rtl">
-  <p>
-شَقاوَتُهُ، والنّارُ غايَتُهُ.
-  </p>
-</blockquote>
+> شَقاوَتُهُ، والنّارُ غايَتُهُ.
 
 3. The disbeliever is an immoral, ignorant person.
 
@@ -45,10 +41,5 @@ efforts are for the transient [pleasures] and his goal is [fulfilling]
 his lust.
 
 > 8ـ هَمُّ الكافِرِ لِدُنْياهُ، وسَعْيُهُ لِعاجِلَتِهِ، وغايَتُهُ
-<blockquote dir="rtl">
-  <p>
-شَهْوَتُهُ.
-  </p>
-</blockquote>
-
+> شَهْوَتُهُ.
 

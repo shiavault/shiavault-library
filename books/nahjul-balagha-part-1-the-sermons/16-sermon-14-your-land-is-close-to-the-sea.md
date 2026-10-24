@@ -3,29 +3,17 @@ Sermon 14: Your land is close to the sea ...
 
 *This also is in condemnation of the people of Basrah*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في مثل ذلك
-  </p>
-</blockquote>
+> في مثل ذلك
 
 Your land is close to the sea and away from the sky. Your wits have
 become light and your minds are full of folly. You are the aim of the
 archer, a morsel for the eater and an easy prey for the hunter.
 
-<blockquote dir="rtl">
-  <p>
-أرْضُكُمْ قَرِيبَةٌ مِنَ المَاءِ، بَعِيدَةٌ مِنَ السَّماءِ، خَفَّتْ
-عُقُولُكُمْ، وَسَفِهَتْ حُلُومُكُمْ، فَأَنْتُمْ غَرَضٌ لِنَابِل،
-وَأُكْلَةٌ لاِكِل، وَفَرِيسَةٌ لِصائِد.
-  </p>
-</blockquote>
+> أرْضُكُمْ قَرِيبَةٌ مِنَ المَاءِ، بَعِيدَةٌ مِنَ السَّماءِ، خَفَّتْ
+> عُقُولُكُمْ، وَسَفِهَتْ حُلُومُكُمْ، فَأَنْتُمْ غَرَضٌ لِنَابِل،
+> وَأُكْلَةٌ لاِكِل، وَفَرِيسَةٌ لِصائِد.
 
 Alternative Sources for Sermon 14
 ---------------------------------
@@ -41,5 +29,4 @@ Alternative Sources for Sermon 14
 (5) al-Mas\`udi, *Muruj*, II, 368;
 
 (6) Ibn \`Abd Rabbih, *al-\`Iqd,* II, 169.
-
 

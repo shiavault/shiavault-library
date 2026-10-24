@@ -15,4 +15,3 @@ before her marriage. Those who call her infidel are themselves the worst
 of infidels. She was a believer and remained a believer till the end of
 her life.
 
-

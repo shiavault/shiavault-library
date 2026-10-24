@@ -453,4 +453,3 @@ society. So the kind of ascetics who are sequestered, and have no
 contact with people, and retire for worship are "dead" ascetics, and
 Islam does not endorse such asceticism.
 
-

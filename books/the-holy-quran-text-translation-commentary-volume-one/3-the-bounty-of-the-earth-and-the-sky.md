@@ -567,7 +567,6 @@ AND BECAME OF THE UNBELIEVER.
 AND EAT OF THE BOUNTIFUL THINGS THEREIN WHEREVER YOU WISH BUT APPROACH
 NOT THIS TREE, LEST YOU BE OF THE TRANSGRESSORS.''
 
-
 36- THEN SATAN CAUSED THEM TO SLIP THEREFROM, AND BROUGHT THEM OUT OF
 THAT THEY WERE IN, (OUT OF THE GARDEN OF BLISS) AND WE SAID: \`\`GET YOU
 ALL DOWN, SOME OF YOU ENEMIES TO SOME OTHER. AND ON EARTH WILL BE YOUR
@@ -589,5 +588,4 @@ office and position of vicegerency is to be esteemed in all respects. We
 usually respect the scholars and scientists who have learned some
 formulas and laws of science, why not him who has been taught so much
 about the names and nature of all being things?
-
 

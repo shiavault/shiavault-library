@@ -59,4 +59,3 @@ and constitutive element of that nationalism; and the second, a related
 one, is the completely Westernized content of an avowedly 'Arab'
 movement that supposedly wants to revive 'Arab' values and culture.
 
-

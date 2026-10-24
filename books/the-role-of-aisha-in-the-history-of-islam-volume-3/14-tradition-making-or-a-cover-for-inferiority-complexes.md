@@ -489,4 +489,3 @@ of Abu Dawud 1/178, and Ibn Majah 1/386, and al-Bayhaqi 3/297: and
 Musnad of Ahmad 3/10, 20, 52, 54 and 92. The person protesting to Marwan
 in Musnad of Ahmad is not Abu Sa'id.
 
-

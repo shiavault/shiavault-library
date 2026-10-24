@@ -70,4 +70,3 @@ Angels are descending) Because all these situations are witness to the
 enlargement of the special blessings of Allah in this night, for the
 residents of all the places.
 
-

@@ -222,7 +222,6 @@ not at all the case. It is indeed the Christian Old Testament alone
 that, at the Council, was the object of a judgment concerning the
 imperfection and obsolescence of certain parts.
 
-
 **Conclusions**
 
 The Biblical Scriptures must be examined without being embellished
@@ -265,5 +264,4 @@ followed by a change in attitude towards material which, in the
 Twentieth century, is no longer acceptable in the books of the Bible. In
 actual fact, save for any human manipulation, the latter were destined
 to be the "witness of true teachings coming from God".
-
 

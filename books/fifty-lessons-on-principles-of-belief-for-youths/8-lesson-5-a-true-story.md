@@ -75,4 +75,3 @@ l. Describe the consequences of the true story in several lines.
  2. Why are the Israeli tribe called “Israeli tribe”?  
  3. Who was Pharaoh? Where did he live? What claims did he make?
 
-

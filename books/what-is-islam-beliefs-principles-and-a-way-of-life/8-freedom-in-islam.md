@@ -171,4 +171,3 @@ is truly amazing is that the West after all this, claims that she is the
 bestower of freedom upon humanity and the one who is releasing mankind
 from its fetters.
 
-

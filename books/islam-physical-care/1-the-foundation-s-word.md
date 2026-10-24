@@ -59,9 +59,7 @@ Jihad with clear triumph.
 
 Allah is the Hearer, the Responder!
 
-
 Al-BALAGH FOUNDATION
-
 
 **Preface**
 
@@ -85,9 +83,7 @@ Allah's plan that defines his dealings in life, and charts out his way
 of living; as man's body is created in such a shape to suit the natural
 conditions and circumstances surrounding him:
 
-<p dir="rtl">
 (( لقد خلقنا الأنسان في أحسن تقويم ))
-</p>
 
 ( التين / 4 )
 
@@ -306,5 +302,4 @@ its existence.
 them.
 
 The above points are dealt with as below:
-
 

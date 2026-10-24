@@ -187,4 +187,3 @@ and slander against them is a movement resulted from the powerful
 continuoust movement of those who attempted to drive them out of the
 field.
 
-

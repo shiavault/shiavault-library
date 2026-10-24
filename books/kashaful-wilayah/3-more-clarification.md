@@ -349,4 +349,3 @@ you must understand the fact that these wilayats are not found in books.
 Their foundation is based purely upon examination. These names are the
 result of examining these wilayats.
 
-

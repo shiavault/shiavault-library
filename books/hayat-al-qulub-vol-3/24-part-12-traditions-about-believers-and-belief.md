@@ -8,14 +8,10 @@ who leave all these things.
 
 While explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنزَلَ
-اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَى مَنْ
-يَشَاءُ مِنْ عِبَادِهِ فَبَاءُوا بِغَضَبٍ عَلَى غَضَبٍ
-وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ.
-  </p>
-</blockquote>
+> بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنزَلَ
+> اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَى مَنْ
+> يَشَاءُ مِنْ عِبَادِهِ فَبَاءُوا بِغَضَبٍ عَلَى غَضَبٍ
+> وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ.
 
 ***Evil is that for which they have sold their souls—that they should
 deny what Allah has revealed, out of envy that Allah should send down of
@@ -29,13 +25,9 @@ progeny.
 
 Regarding the meaning of Allah’s words:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ أَنْزَلْنَا إِلَيْكَ الْكِتَابَ فَالَّذِينَ آتَيْنَاهُمْ
-الْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَؤُلَاء مَنْ يُؤْمِنُ بِهِ وَمَا
-يَجْحَدُ بِآيَاتِنَا إِلَّا الْكَافِرُونَ.
-  </p>
-</blockquote>
+> وَكَذَلِكَ أَنْزَلْنَا إِلَيْكَ الْكِتَابَ فَالَّذِينَ آتَيْنَاهُمْ
+> الْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَؤُلَاء مَنْ يُؤْمِنُ بِهِ وَمَا
+> يَجْحَدُ بِآيَاتِنَا إِلَّا الْكَافِرُونَ.
 
 ***And thus have We revealed the Book to you. So those whom We have
 given the Book believe in it, and of these are those who believe in it,
@@ -49,12 +41,8 @@ believers facing the same prayer direction (Qibla).
 
 In the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا
-مِنْ أَنْفُسِهِمْ.
-  </p>
-</blockquote>
+> لَقَدْ مَنَّ اللَّهُ عَلَى الْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا
+> مِنْ أَنْفُسِهِمْ.
 
 ***Certainly Allah conferred a benefit upon the believers when He raised
 among them an Apostle from among themselves… (Sura Baqarah 2:90)***
@@ -65,13 +53,9 @@ said that ‘their selves’ means is race, which is, Arab.
 
 Also, in the explanation the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ
-أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ
-مِنْ شَيْءٍ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ.
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ
+> أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ
+> مِنْ شَيْءٍ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ.
 
 ***And (as for) those who believe and their offspring follow them in
 faith, We will unite with them their offspring and We will not diminish
@@ -92,15 +76,11 @@ not been decreased in the matter of his progeny, and their proof
 (Hujjat) and Imamate is the same and it is obligatory to follow all of
 them, and Allah Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى
-إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ
-وَمَا أُوتِيَ مُوسَى وَعِيسَى وَمَا أُوتِيَ النَّبِيُّونَ مِنْ
-رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ
-مُسْلِمُونَ.
-  </p>
-</blockquote>
+> قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى
+> إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ
+> وَمَا أُوتِيَ مُوسَى وَعِيسَى وَمَا أُوتِيَ النَّبِيُّونَ مِنْ
+> رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ
+> مُسْلِمُونَ.
 
 ***Say: We believe in Allah and (in) that which had been revealed to us,
 and (in) that which was revealed to Ibrahim and Ismail and Ishaq and
@@ -150,17 +130,13 @@ Imam for the people.
 
 In the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ
-الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ. إِذْ
-تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنْ الَّذِينَ اتَّبَعُوا وَرَأَوْا
-الْعَذَابَ وَتَقَطَّعَتْ بِهِمْ الْأَسْبَابُ. وَقَالَ الَّذِينَ
-اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا
-تَبَرَّءُوا مِنَّا كَذَلِكَ يُرِيهِمْ اللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ
-عَلَيْهِمْ وَمَا هُمْ بِخَارِجِينَ مِنْ النَّارِ.
-  </p>
-</blockquote>
+> وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ
+> الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ. إِذْ
+> تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنْ الَّذِينَ اتَّبَعُوا وَرَأَوْا
+> الْعَذَابَ وَتَقَطَّعَتْ بِهِمْ الْأَسْبَابُ. وَقَالَ الَّذِينَ
+> اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا
+> تَبَرَّءُوا مِنَّا كَذَلِكَ يُرِيهِمْ اللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ
+> عَلَيْهِمْ وَمَا هُمْ بِخَارِجِينَ مِنْ النَّارِ.
 
 ***And O, that those who are unjust had seen, when they see the
 chastisement, that the power is wholly Allah’s and that Allah is severe
@@ -177,11 +153,7 @@ who obeyed the grabbers.
 
 In *Tawilul Aayaat,* it is mentioned in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَإِلَهٌ مَعَ اللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ.
-  </p>
-</blockquote>
+> أَإِلَهٌ مَعَ اللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ.
 
 ***Is there a god with Allah? Nay! most of them do not know! (Sura Naml
 27:61)***
@@ -199,12 +171,8 @@ do good deeds with the Wilayat of Ali contrary to what we were doing in
 the world earlier due to his enmity… and said that when our enemies will
 enter Hell and say this, they will be told:
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فِيهِ مَنْ تَذَكَّرَ
-وَجَاءَكُمْ النَّذِيرُ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ.
-  </p>
-</blockquote>
+> أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فِيهِ مَنْ تَذَكَّرَ
+> وَجَاءَكُمْ النَّذِيرُ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ.
 
 ***Did We not preserve you alive long enough, so that he who would be
 mindful in it should mind? And there came to you the warner; therefore
@@ -216,12 +184,8 @@ punishment.
 
 And the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا وَأَنَابُوا
-إِلَى اللَّهِ لَهُمْ الْبُشْرَى فَبَشِّرْ عِبَادِ.
-  </p>
-</blockquote>
+> وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا وَأَنَابُوا
+> إِلَى اللَّهِ لَهُمْ الْبُشْرَى فَبَشِّرْ عِبَادِ.
 
 ***And (as for) those who keep off from the worship of the idols and
 turn to Allah, they shall have good news… (Sura Zumar 39:17)***
@@ -234,12 +198,8 @@ whoever obeyed an oppressor has doubtlessly worshipped him.
 Moreover, Ibne Mahyar has narrated that Imam Sadiq (a.s.) was requested
 to explain the Divine words:
 
-<blockquote dir="rtl">
-  <p>
-(وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ) لَئِنْ
-أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنْ الْخَاسِرِينَ.
-  </p>
-</blockquote>
+> (وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ) لَئِنْ
+> أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنْ الْخَاسِرِينَ.
 
 ***…If you associate (with Allah), your work would certainly come to
 naught and you would certainly be of the losers. (Sura Zumar 39:65)***
@@ -276,12 +236,8 @@ will become null and void.
 Moreover, it is narrated from Imam Baqir (a.s.) with reliable chains of
 narrators that, in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ حَقَّتْ كَلِمَةُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوا أَنَّهُمْ
-أَصْحَابُ النَّارِ.
-  </p>
-</blockquote>
+> وَكَذَلِكَ حَقَّتْ كَلِمَةُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوا أَنَّهُمْ
+> أَصْحَابُ النَّارِ.
 
 ***And thus did the word of your Lord prove true against those who
 disbelieved that they are the inmates of the fire. (Sura Ghafir 40:6)***
@@ -302,14 +258,10 @@ who repented for having loved the tyrant Caliphs of Banu Umayyah and
 they followed Your Path. The Hazrat said: They followed and obeyed Ali
 Murtuza (a.s.), because he is the Path of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ
-الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ
-وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ وَقِهِمْ
-السَّيِّئَاتِ.
-  </p>
-</blockquote>
+> وَقِهِمْ عَذَابَ الْجَحِيمِ. رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ
+> الَّتِي وَعَدْتَهُم وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ
+> وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ وَقِهِمْ
+> السَّيِّئَاتِ.
 
 ***And save them from the punishment of the hell: Our Lord! and make
 them enter the gardens of perpetuity which Thou hast promised to them
@@ -320,16 +272,12 @@ deeds…(Sura Ghafir 40:9)***
 The Imam said that here by evils are meant Banu Umayyah and all of their
 tyrant Caliphs, and those who believed in them (followed them).
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ
-الْفَوْزُ الْعَظِيمُ. إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ
-اللَّهِ أَكْبَرُ مِنْ مَقْتِكُمْ أَنْفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى
-الْإِيمَانِ فَتَكْفُرُونَ. قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ
-وَأَحْيَيْتَنَا اثْنَتَيْنِ فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَى
-خُرُوجٍ مِنْ سَبِيلٍ.
-  </p>
-</blockquote>
+> وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ
+> الْفَوْزُ الْعَظِيمُ. إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ
+> اللَّهِ أَكْبَرُ مِنْ مَقْتِكُمْ أَنْفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى
+> الْإِيمَانِ فَتَكْفُرُونَ. قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ
+> وَأَحْيَيْتَنَا اثْنَتَيْنِ فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَى
+> خُرُوجٍ مِنْ سَبِيلٍ.
 
 ***…And whom Thou keepest from evil deeds this day, indeed Thou hast
 mercy on him, and that is the mighty achievement. Surely those who
@@ -343,12 +291,8 @@ Ghafir 40:9-11)***
 The Imam said: It means Banu Umayyah who became disbelievers and faith
 means Ali Ibne Abi Talib.
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكُمْ بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ وَإِنْ
-يُشْرَكْ بِهِ تُؤْمِنُوا فَالْحُكْمُ لِلَّهِ الْعَلِيِّ الْكَبِيرِ.
-  </p>
-</blockquote>
+> ذَلِكُمْ بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ وَإِنْ
+> يُشْرَكْ بِهِ تُؤْمِنُوا فَالْحُكْمُ لِلَّهِ الْعَلِيِّ الْكَبِيرِ.
 
 ***That is because when Allah alone was called upon, you disbelieved,
 and when associates were given to Him, you believed; so judgment belongs
@@ -367,14 +311,10 @@ Imam you were agreeing and were accepting his Imamate.
 
 Likewise, Imam Baqir (a.s.) has said explaining the Divine words:
 
-<blockquote dir="rtl">
-  <p>
-فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَابًا شَدِيدًا
-وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ. ذَلِكَ
-جَزَاءُ أَعْدَاءِ اللَّهِ النَّارُ لَهُمْ فِيهَا دَارُ الْخُلْدِ
-جَزَاءً بِمَا كَانُوا بِآيَاتِنَا يَجْحَدُونَ.
-  </p>
-</blockquote>
+> فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَابًا شَدِيدًا
+> وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ. ذَلِكَ
+> جَزَاءُ أَعْدَاءِ اللَّهِ النَّارُ لَهُمْ فِيهَا دَارُ الْخُلْدِ
+> جَزَاءً بِمَا كَانُوا بِآيَاتِنَا يَجْحَدُونَ.
 
 ***Therefore We will most certainly make those who disbelieve taste a
 severe punishment, and We will most certainly reward them for the evil
@@ -396,15 +336,11 @@ By Allah, only we are the guardians (Wali) of the people and we are most
 perfect in religion among all the people for whom religion has been made
 manifest and explained as Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-شَرَعَ لَكُمْ مِنْ الدِّينِ مَا وَصَّى بِهِ نُوحًا وَالَّذِي
-أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَى
-وَعِيسَى أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ كَبُرَ
-عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ اللَّهُ يَجْتَبِي
-إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ.
-  </p>
-</blockquote>
+> شَرَعَ لَكُمْ مِنْ الدِّينِ مَا وَصَّى بِهِ نُوحًا وَالَّذِي
+> أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَى
+> وَعِيسَى أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ كَبُرَ
+> عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ اللَّهُ يَجْتَبِي
+> إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ.
 
 ***He has made plain to you of the religion what He enjoined upon Nuh
 and that which We have revealed to you and that which We enjoined upon
@@ -459,11 +395,7 @@ which is written by Allah on the right side of the believer’s heart and
 the one on whose heart Allah wrote this nobody can ever erase it. Have
 you heard Allah’s words:
 
-<blockquote dir="rtl">
-  <p>
-أُوْلَئِكَ كَتَبَ فِي قُلُوبِهِمْ الْإِيمَانَ.
-  </p>
-</blockquote>
+> أُوْلَئِكَ كَتَبَ فِي قُلُوبِهِمْ الْإِيمَانَ.
 
 ***…these are they into whose hearts He has impressed faith… (Sura
 Mujidillah 58:22)***
@@ -473,11 +405,7 @@ And the love for us Ahlul Bayt (a.s.) is faith.
 Likewise, it is mentioned in many reports with reliable chains of
 narrators explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ.
-  </p>
-</blockquote>
+> أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ.
 
 ***Have you considered him who calls the judgment a lie? (Sura Ma’un
 107:1)***
@@ -489,11 +417,7 @@ gave it a lie? Then the Imam said that religion means the Wilayat of Ali
 Furat bin Ibrahim has, with reliable chains of narrators said, while
 explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنْ اللَّهِ صِبْغَةً.
-  </p>
-</blockquote>
+> صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنْ اللَّهِ صِبْغَةً.
 
 ***(Receive) the colouring of Allah, and who is better than Allah in
 colouring? (Sura Baqarah 2:138)***
@@ -510,12 +434,8 @@ taken from them.
 Similarly, it is reported from Aban bin Taghlab that I sought from Imam
 Baqir (a.s.) the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ أُوْلَئِكَ
-لَهُمْ الْأَمْنُ وَهُمْ مُهْتَدُونَ.
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ أُوْلَئِكَ
+> لَهُمْ الْأَمْنُ وَهُمْ مُهْتَدُونَ.
 
 ***Those who believe and do not mix up their faith with iniquity, those
 are they who shall have the security and they are those who go aright.
@@ -539,12 +459,8 @@ is a faith which includes love for tyrants.
 
 Similarly, in *Tafsir Furat,* in the commentary on the verse:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
-بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا
+> بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ.
 
 ***Those who believe and whose hearts are set at rest by the remembrance
 of Allah; now surely by Allah’s remembrance are the hearts set at rest.
@@ -569,13 +485,9 @@ Likewise, Furat has narrated from Imam Baqir (a.s.) that: Our love is
 faith and enmity towards us and hostility against us is disbelief and
 then he recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمْ الْإِيمَانَ وَزَيَّنَهُ فِي
-قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ
-أُوْلَئِكَ هُمْ الرَّاشِدُونَ.
-  </p>
-</blockquote>
+> وَلَكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمْ الْإِيمَانَ وَزَيَّنَهُ فِي
+> قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمْ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ
+> أُوْلَئِكَ هُمْ الرَّاشِدُونَ.
 
 ***But Allah has endeared the faith to you and has made it seemly in
 your hearts, and He has made hateful to you unbelief and transgression
@@ -589,12 +501,8 @@ from ‘disobedience’ is meant the third tyrant.
 
 In the explanation of this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَهُدُوا إِلَى الطَّيِّبِ مِنْ الْقَوْلِ وَهُدُوا إِلَى صِرَاطِ
-الْحَمِيدِ.
-  </p>
-</blockquote>
+> وَهُدُوا إِلَى الطَّيِّبِ مِنْ الْقَوْلِ وَهُدُوا إِلَى صِرَاطِ
+> الْحَمِيدِ.
 
 ***And they are guided to goodly words and they are guided into the path
 of the Praised One. (Surah Haj 22:24)***
@@ -605,11 +513,7 @@ are rightly guided towards the Imamate of Amirul Momineen (a.s.).
 
 In the explanation of the Divine verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ يَكِيدُونَ كَيْدًا.
-  </p>
-</blockquote>
+> إِنَّهُمْ يَكِيدُونَ كَيْدًا.
 
 ***Surely they will make a scheme. (Surah Tariq 86:15)***
 
@@ -621,11 +525,7 @@ commandments of Islam and in the hereafter I will push them into Hell
 along with the deniers or that I give them the reward of their
 disbelief.
 
-<blockquote dir="rtl">
-  <p>
-فَمَهِّلْ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا.
-  </p>
-</blockquote>
+> فَمَهِّلْ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا.
 
 ***So grant the unbelievers a respite: let them alone for a while.
 (Surah Tariq 86:17)***
@@ -637,12 +537,8 @@ and all the enemies.
 Ibne Mahyar has, with reliable chains of narrators, quoted Imam Baqir
 (a.s.) in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَكُنْ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ
-مُنفَكِّينَ…
-  </p>
-</blockquote>
+> لَمْ يَكُنْ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ
+> مُنفَكِّينَ…
 
 ***Surely those who disbelieve from among the followers of the Book and
 the polytheists shall be in the fire of hell…(Surah Bayyinah 98:6)***
@@ -658,11 +554,7 @@ deny the Shias and reject the Caliphate of Ali (a.s.) and those who
 brought down Ali (a.s.) from the first to the fourth rank in Caliphate
 are no different from unbelievers and polytheists until
 
-<blockquote dir="rtl">
-  <p>
-حَتَّى تَأْتِيَهُمْ الْبَيِّنَةُ.
-  </p>
-</blockquote>
+> حَتَّى تَأْتِيَهُمْ الْبَيِّنَةُ.
 
 ***…there had come to them the clear evidence… (Surah Bayyinah 98:6)***
 
@@ -714,12 +606,8 @@ the matter of observing the rights of all and in the sight of Allah, his
 nobility and compassion is the highest. At that time the verse was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُوْلَئِكَ هُمْ
-خَيْرُ الْبَرِيَّةِ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُوْلَئِكَ هُمْ
+> خَيْرُ الْبَرِيَّةِ.
 
 ***Surely they are the-best of men.*** ***(Surah Bayyinah 98:7)***
 
@@ -750,13 +638,9 @@ There are many traditions indicating that this verse was revealed in
 praise of Ali (a.s.). We will mention some of them while narrating the
 events of the Holy Prophet (S). Thereafter Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا
-الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِيَ اللَّهُ عَنْهُمْ
-وَرَضُوا عَنْهُ ذَلِكَ لِمَنْ خَشِيَ رَبَّهُ.
-  </p>
-</blockquote>
+> جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا
+> الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِيَ اللَّهُ عَنْهُمْ
+> وَرَضُوا عَنْهُ ذَلِكَ لِمَنْ خَشِيَ رَبَّهُ.
 
 ***Their reward with their Lord is gardens of perpetuity beneath which
 rivers flow, abiding therein for ever; Allah is well pleased with them
@@ -773,12 +657,8 @@ pleased as he should with the Almighty Allah.
 Likewise, Aban bin Taghlab has narrated that Imam Sadiq (a.s.) recited
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَوَيْلٌ لِلْمُشْرِكِينَ. الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ
-بِالْآخِرَةِ هُمْ كَافِرُونَ.
-  </p>
-</blockquote>
+> وَوَيْلٌ لِلْمُشْرِكِينَ. الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ
+> بِالْآخِرَةِ هُمْ كَافِرُونَ.
 
 ***…and woe to the polytheists; (To) those who do not give poor-rate and
 they are unbelievers in the hereafter. (Surah Fussilat 41:6-7)***
@@ -792,13 +672,9 @@ rejected what the first Imam told them about the last Imam.
 
 Ali bin Ibrahim has narrated about the Divine words:
 
-<blockquote dir="rtl">
-  <p>
-وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي
-وَاثَقَكُمْ بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَاتَّقُوا
-اللَّهَ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ.
-  </p>
-</blockquote>
+> وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي
+> وَاثَقَكُمْ بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَاتَّقُوا
+> اللَّهَ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ.
 
 ***And remember the favor of Allah on you and His covenant with which He
 bound you firmly, when you said: We have heard and we obey... (Surah
@@ -812,11 +688,7 @@ but after the Holy Prophet (S), they broke the promise.
 Kulaini has quoted Imam Sadiq (a.s.) thus in the explanation of the
 Divine words:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي خَلَقَكُمْ فَمِنْكُمْ كَافِرٌ وَمِنْكُمْ مُؤْمِنٌ.
-  </p>
-</blockquote>
+> هُوَ الَّذِي خَلَقَكُمْ فَمِنْكُمْ كَافِرٌ وَمِنْكُمْ مُؤْمِنٌ.
 
 ***He it is Who created you, but one of you is an unbeliever and another
 of you is a believer… (Surah Taghabun 64:2)***
@@ -828,15 +700,11 @@ disbelief about our Wilayat.
 It is also narrated from Imam Baqir (a.s.) that Allah has addressed
 Amirul Momineen in the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
-اللَّهَ وَاسْتَغْفَرَ لَهُمْ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
-رَحِيمًا. فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا
-شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِمَّا
-قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا.
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا
+> اللَّهَ وَاسْتَغْفَرَ لَهُمْ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا
+> رَحِيمًا. فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا
+> شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِمَّا
+> قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا.
 
 ***…And had they, when they were unjust to themselves, come to you and
 asked forgiveness of Allah and the Apostle had (also) asked forgiveness
@@ -875,11 +743,7 @@ regarding Ali (a.s.) doubtlessly it will be better for them.
 
 Similarly, as regards the verse:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا.
-  </p>
-</blockquote>
+> بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا.
 
 ***Nay! You prefer the life of this world, (Surah A’la 87:16)***
 
@@ -887,11 +751,7 @@ Imam Sadiq (a.s.) said that that here what is meant is those people who
 adopt the Wilayat of the first and the second and the third (caliph) and
 all the false tyrant Caliphs who ruled over the world.
 
-<blockquote dir="rtl">
-  <p>
-وَالْآخِرَةُ خَيْرٌ وَأَبْقَى.
-  </p>
-</blockquote>
+> وَالْآخِرَةُ خَيْرٌ وَأَبْقَى.
 
 ***While the hereafter is better and more lasting. (Surah A’la 87:17)***
 
@@ -901,11 +761,7 @@ in reward in the hereafter.
 Likewise, Imam Baqir (a.s.) is reported to have said in the explanation
 of the Holy verse:
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا.
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا.
 
 ***Then set your face upright for religion in the right state…(Surah Rum
 30:30)***
@@ -913,11 +769,7 @@ of the Holy verse:
 Meaning, set your faces rightly towards the true religion whereby
 inclining towards religion from the false world.
 
-<blockquote dir="rtl">
-  <p>
-فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا
-  </p>
-</blockquote>
+> فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا
 
 ***…the nature made by Allah in which He has made men… (Surah Rum
 30:30)***
@@ -934,13 +786,9 @@ polytheist (Mushrik).
 
 Similarly, in the explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ آمَنُوا ثُمَّ كَفَرُوا
-ثُمَّ ازْدَادُوا كُفْرًا لَمْ يَكُنْ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا
-لِيَهْدِيَهُمْ سَبِيلًا.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ آمَنُوا ثُمَّ كَفَرُوا
+> ثُمَّ ازْدَادُوا كُفْرًا لَمْ يَكُنْ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا
+> لِيَهْدِيَهُمْ سَبِيلًا.
 
 ***Surely (as for) those who believe then disbelieve, again believe and
 again disbelieve, then increase in disbelief, Allah will not forgive
@@ -964,13 +812,9 @@ remained for them.
 
 About the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ ارْتَدُّوا عَلَى أَدْبَارِهِمْ مِنْ بَعْدِ مَا
-تَبَيَّنَ لَهُمْ الْهُدَى الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَى
-لَهُمْ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ ارْتَدُّوا عَلَى أَدْبَارِهِمْ مِنْ بَعْدِ مَا
+> تَبَيَّنَ لَهُمْ الْهُدَى الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَى
+> لَهُمْ.
 
 ***Surely (as for) those who return on their backs after that guidance
 has become manifest to them, the Shaitan has made it a light matter to
@@ -981,14 +825,10 @@ turned away from faith after accepting the Wilayat of Amirul Momineen.
 
 Similarly, the same Imam has, in the explanation of the Divine words:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ
-وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَاءً
-الْعَاكِفُ فِيهِ وَالْبَادِي وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ
-نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ
+> وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَاءً
+> الْعَاكِفُ فِيهِ وَالْبَادِي وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ
+> نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ.
 
 ***Surely (as for) those who disbelieve, and hinder (men) from Allah’s
 way and from the Sacred Mosque which We have made equally for all men,
@@ -1009,11 +849,7 @@ oppressors has been distanced from the Mercy of Allah.
 Similarly it is narrated from Imam Sadiq (a.s.) in the explanation of
 the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ.
-  </p>
-</blockquote>
+> إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ.
 
 ***Most surely you are at variance with each other in what you
 say…(Surah Dhariyat 51:8)***
@@ -1024,24 +860,16 @@ turns away from the Wilayat of Ali (a.s.) is turned away from Paradise.
 Likewise, Kulaini and Ibne Mahyar have quoted Imam Baqir (a.s.) that the
 verse was revealed in this way:
 
-<blockquote dir="rtl">
-  <p>
-فَأَبَى أَكْثَرُ النَّاسِ إِلَّا كُفُورًا.
-  </p>
-</blockquote>
+> فَأَبَى أَكْثَرُ النَّاسِ إِلَّا كُفُورًا.
 
 ***…but most men do not consent to aught but denying (the Wilayat of
 Ali) . (Surah Israa 17:89)***
 
 And this verse was revealed thus:
 
-<blockquote dir="rtl">
-  <p>
-وَقُلْ الْحَقُّ مِنْ رَبِّكُمْ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ
-فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ
-سُرَادِقُهَا.
-  </p>
-</blockquote>
+> وَقُلْ الْحَقُّ مِنْ رَبِّكُمْ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ
+> فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ
+> سُرَادِقُهَا.
 
 ***And say (O Messenger): The truth (about the Wilayat of Ali) is from
 your Lord, so let him who please believe, and let him who please
@@ -1053,12 +881,8 @@ In *Tawilul Ahadith,* Akhtab Khwarizmi, a Sunni scholar, has reported
 that, according to Ibne Abbas, a group of people asked the Holy Prophet
 (S) that in whose praise is the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ
-مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ.
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ
+> مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ.
 
 ***Allah has promised to those who believe and do good deeds (that) they
 shall have forgiveness and a mighty reward. (Surah Maida 5:9)***
@@ -1080,14 +904,10 @@ the reward and great prize is with Me. Then the Hazrat will take those
 under the flag to Paradise and send the others to Hell. And the meaning
 of the following verse is also the same:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُوْلَئِكَ هُمْ
-الصِّدِّيقُونَ وَالشُّهَدَاءُ عِنْدَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ
-وَنُورُهُمْ وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُوْلَئِكَ
-أَصْحَابُ الْجَحِيمِ.
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُوْلَئِكَ هُمْ
+> الصِّدِّيقُونَ وَالشُّهَدَاءُ عِنْدَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ
+> وَنُورُهُمْ وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُوْلَئِكَ
+> أَصْحَابُ الْجَحِيمِ.
 
 ***And (as for) those who believe in Allah and His apostles, these it is
 that are the truthful and the faithful ones in the sight of their Lord:
@@ -1129,5 +949,4 @@ someone is oppress Him and He considers allegiance to His friend as
 allegiance to Himself. Therefore, it is quite possible that He may have
 considered association (shirk) with them (Allah’s friends) as
 association (shirk) with Himself.
-
 

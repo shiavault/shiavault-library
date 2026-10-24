@@ -46,4 +46,3 @@ Sohravardi’s epistemology. Before beginning this examination it is
 necessary to talk a little about the nature of what is called
 Illuminationist Philosophy.
 
-

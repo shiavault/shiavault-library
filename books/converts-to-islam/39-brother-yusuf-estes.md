@@ -496,4 +496,3 @@ Chaplain Yusuf Estes
  They said: We give you good news with truth, therefore be not of the
 despairing.***
 
-

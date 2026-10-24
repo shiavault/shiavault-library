@@ -22,12 +22,8 @@ the text of the Qur\`an)!
 The narrators of hadith from within the Muslim world are in complete
 agreement that the Noble Prophet (‘s) has stated that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ فَسَّرَ الْقَُرَآنَ بِرَأْيِهِ فَلْيَتَبَوَّء ْمَقْعَدَهُ مِنَ
-النَّارِ.
-  </p>
-</blockquote>
+> مَنْ فَسَّرَ الْقَُرَآنَ بِرَأْيِهِ فَلْيَتَبَوَّء ْمَقْعَدَهُ مِنَ
+> النَّارِ.
 
 “Whosoever interprets the Qur\`an according to his own opinion must take
 for himself a place in the hell fire.”
@@ -65,13 +61,9 @@ detailed examples and illustrations for another time.
 
 There are a series of verses (19-22) in Suratul Rahman (55) which read:
 
-<blockquote dir="rtl">
-  <p>
-مَــرَجَ الْبَحْرَينِ يَلْتَقِيَانِ ٭ بَـيْـنَهُمَا بَــرْزَخٌ لاَّ
-يَـبْغِيَانِ ٭ فَبِأَيِّ آلاَءِ رَبِّكُمَا تُكَذِّبَانِ ٭ يَخْرُجُ
-مِنْهُمَا الْلُؤْلُؤُ وَالْمَرْجَانِ
-  </p>
-</blockquote>
+> مَــرَجَ الْبَحْرَينِ يَلْتَقِيَانِ ٭ بَـيْـنَهُمَا بَــرْزَخٌ لاَّ
+> يَـبْغِيَانِ ٭ فَبِأَيِّ آلاَءِ رَبِّكُمَا تُكَذِّبَانِ ٭ يَخْرُجُ
+> مِنْهُمَا الْلُؤْلُؤُ وَالْمَرْجَانِ
 
 “He has made the two seas to flow freely (so that) they meet together.
 Between them is a barrier that they cannot pass. Which then of the
@@ -130,5 +122,4 @@ book of Tafsir of Ibne ‘Arabi, just as his work Fususul Hikm is full of
 such examples of Tafsir of the Qur\`an according to his own personal
 whims and opinions which is both – from the viewpoint of the intellect
 and also the Islamic jurisprudence – not permissible.
-
 

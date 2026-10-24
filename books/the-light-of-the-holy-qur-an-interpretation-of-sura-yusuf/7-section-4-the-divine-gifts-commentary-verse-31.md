@@ -91,7 +91,6 @@ ask them: why they did not take the path of virtue. It says:
 
 "... Then, say: 'Will you not then keep from evil ?' "
 
-
 **Commentary : Verse 32**
 
 (32)فَذلِكُمُ اللَّهُ رَبُّكُمُ الْحَقُّ فَما ذا بَعْدَ الْحَقِّ إِلاَّ
@@ -128,7 +127,6 @@ truth by way of his own conscience and reasoning. After the cognition of
 the truth, one must abandon whatever is contrary to the truth or other
 than the truth, because they are those things that mislead.
 
-
 **Commentary: Verse 33**
 
 (33) كَذلِكَ حَقَّتْ كَلِمَةُ رَبِّكَ عَلَى الَّذينَ فَسَقُوا أَنَّهُمْ
@@ -153,7 +151,6 @@ The verse continues saying:
 
 "... that they will not believe. "
 
-
 **Commentary : Verse 34**
 
 (34) قُلْ هَلْ مِنْ شُرَكائِكُمْ مَنْ يَبْدَؤُا الْخَلْقَ ثُمَّ
@@ -177,7 +174,6 @@ weave false stories and lie The verse declares:
 Allah)one(that)can originate creation, then bring it back again ' Say:
 '(Only)Allah originates creation, then brings it back again; then how
 are you turned away(from the Truth)?"
-
 
 **Commentary : Verse 35**
 
@@ -214,5 +210,4 @@ saying:
 the Truth more worthy to be followed, or he who does not go
 aright(himself)unless he is guided What then is the matter with you How
 do you judge ?"
-
 

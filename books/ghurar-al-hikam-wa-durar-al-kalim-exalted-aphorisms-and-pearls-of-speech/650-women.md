@@ -23,12 +23,8 @@ infatuated with women faces trials and the one who is tempted by the
 pleasures [of this world] is abased.
 
 > 4ـ إيّاكَ وكَثْرَةَ الْوَلَهِ بِالنِّساءِ، والإغْراءَ(الاِغْتِرارَ)
-<blockquote dir="rtl">
-  <p>
-بِلَذّاتِ الدُّنيا، فَإنَّ الْوَلِهَ بِالنِّساءِ مُمْتَحَنٌ،
-والغَرِيَّ بِاللَّذّاتِ مُمْتَهَنٌ.
-  </p>
-</blockquote>
+> بِلَذّاتِ الدُّنيا، فَإنَّ الْوَلِهَ بِالنِّساءِ مُمْتَحَنٌ،
+> والغَرِيَّ بِاللَّذّاتِ مُمْتَهَنٌ.
 
 5. Beware of consulting with women, for indeed their opinions are
 inclined towards immaturity and their decisions are infirm; and restrain
@@ -39,25 +35,17 @@ their abode; and if you are able to ensure that they do not get
 acquainted with anybody other than you then do it.
 
 > 5ـ إيّاكَ ومُشاوَرَةَ النِّساءِ، فَإنَّ رَأْيَهُنَّ إلى أفَن،
-<blockquote dir="rtl">
-  <p>
-وعَزْمَهُنَّ إلى وَهَن، وَاكْفُفْ عَلَيْهِنَّ مِنْ أبْصارِهِنَّ،
-فَحِجابُكَ لَهُنَّ خَيْـرٌ مِنَ الاِرْتِيابِ بِهِنَّ، ولَيْسَ
-خُرُوجُهُنَّ بِشَـرّ مِنْ إدْخالِكَ مَنْ لايُوثَقُ بِِهِ عَلَيْهِنَّ،
-وإنِ اسْتَطَعْتَ أنْ لا يَعْرِفْنَ (لا يَعْرِفَهُنَّ) غَيْرَكَ
-فَافْعَلْ.
-  </p>
-</blockquote>
+> وعَزْمَهُنَّ إلى وَهَن، وَاكْفُفْ عَلَيْهِنَّ مِنْ أبْصارِهِنَّ،
+> فَحِجابُكَ لَهُنَّ خَيْـرٌ مِنَ الاِرْتِيابِ بِهِنَّ، ولَيْسَ
+> خُرُوجُهُنَّ بِشَـرّ مِنْ إدْخالِكَ مَنْ لايُوثَقُ بِِهِ عَلَيْهِنَّ،
+> وإنِ اسْتَطَعْتَ أنْ لا يَعْرِفْنَ (لا يَعْرِفَهُنَّ) غَيْرَكَ
+> فَافْعَلْ.
 
 6. Verily women are [only] concerned about the ornaments of this world
 and [creating] mischief herein.
 
 > 6ـ إنَّ النِّساءَ هَمُّهُنَّ زِينَةُ الْحَياةِ الدُّنيا والْفَسادُ
-<blockquote dir="rtl">
-  <p>
-فِيها.
-  </p>
-</blockquote>
+> فِيها.
 
 7. Being infatuated with women is the trait of the foolish.
 
@@ -71,12 +59,8 @@ and make it easy for them to bear the scolding [as they will become
 accustomed to it].
 
 > 8ـ إنْ رَأَيْتَ مِنْ نِسائِكَ ريبَةً، فاجْعَلْ لَهُنَّ النَّكِيرَ
-<blockquote dir="rtl">
-  <p>
-عَلَى الكَبِيرِ والصَّغِيرِ وإيّاكَ أنْ تُـكَرِّرَ الْعَتْبَ، فَإنَّ
-ذلِكَ يُغْرِي بِالذَّنْبِ، ويُهَوِّنُ العَتْبَ.
-  </p>
-</blockquote>
+> عَلَى الكَبِيرِ والصَّغِيرِ وإيّاكَ أنْ تُـكَرِّرَ الْعَتْبَ، فَإنَّ
+> ذلِكَ يُغْرِي بِالذَّنْبِ، ويُهَوِّنُ العَتْبَ.
 
 9. The best of traits for women is the worst of traits for men.
 
@@ -109,50 +93,34 @@ man; so beware of the evil women and be on your guard [even] from those
 of them who are good.
 
 > 14ـ مَعاشِرَ النّاسِ،إنَّ النِّساءَ نَواقِصُ الإيمانِ، نَواقِصُ
-<blockquote dir="rtl">
-  <p>
-العُقُولِ، نَواقِصُ الحُظُوظِ، فَأمّا نَقْصُ إيمانِهِنَّ
-فَقُعُودُهُنَّ في أيّامِ الْحَيْضِعَنِ الصَّلاةِ، والصِّيامِ، وأمّا
-نُقْصانُ حُظُوظِهِنَّ فَمَواريثُهُنَّ عَلى نِصْفِ مَوارِيثِ الرِّجالِ،
-وأمّا نُقْصانُ عُقُولِهِنَّ، فَشَهادَةُ اِمْرَأتَيْنِ كَشَهادَةِ
-رَجُل، فَاتَّقُوا شِرارَ النِّساءِ، وكُونُوا مِنْ خِيارِهِنَّ عَلى
-حَذَر.
-  </p>
-</blockquote>
+> العُقُولِ، نَواقِصُ الحُظُوظِ، فَأمّا نَقْصُ إيمانِهِنَّ
+> فَقُعُودُهُنَّ في أيّامِ الْحَيْضِعَنِ الصَّلاةِ، والصِّيامِ، وأمّا
+> نُقْصانُ حُظُوظِهِنَّ فَمَواريثُهُنَّ عَلى نِصْفِ مَوارِيثِ الرِّجالِ،
+> وأمّا نُقْصانُ عُقُولِهِنَّ، فَشَهادَةُ اِمْرَأتَيْنِ كَشَهادَةِ
+> رَجُل، فَاتَّقُوا شِرارَ النِّساءِ، وكُونُوا مِنْ خِيارِهِنَّ عَلى
+> حَذَر.
 
 15. Do not obey women in good [actions] such that they expect [your
 obedience] in evil.
 
 > 15ـ لاتُطيعُوا النِّساءَ فيِ المَعْرُوفِ حَتّى لا يَطْمَعْنَ فِي
-<blockquote dir="rtl">
-  <p>
-الْمُنْكَرِ.
-  </p>
-</blockquote>
+> الْمُنْكَرِ.
 
 16. Never be frequently alone with women, for they will become weary of
 you and you will also become weary of them, and leave a part of yourself
 and your mind to tarry [away] from them.
 
 > 16ـ لاتُـكَثِّرَنَّ الْخَلْوَةَ بِالنِّساءِ فَيَمْلَلْنَكَ
-<blockquote dir="rtl">
-  <p>
-وَتَمَلَّهُنَّ واسْتَبْقِ مِنْ نَفْسِكَ وَعَقْلِكَ بِالإبْطاءِ
-عَنْهُنَّ.
-  </p>
-</blockquote>
+> وَتَمَلَّهُنَّ واسْتَبْقِ مِنْ نَفْسِكَ وَعَقْلِكَ بِالإبْطاءِ
+> عَنْهُنَّ.
 
 17. Let women not bear your burden and [try to] be independent from them
 as much as possible, for indeed they put many obligations [on you] and
 are ungrateful for [many of your] favours.
 
 > 17ـ لاتَحْمِلُوا النِّساءَ أثْقالَكُمْ، واسْتَغْنُوا عَنْهُنَّ مَا
-<blockquote dir="rtl">
-  <p>
-اسْتَطَعْتُمْ، فَإنَّهُنَّ يُكْثِرْنَ الاِمْتِنانَ، ويَكْفُرْنَ
-الإحْسانَ.
-  </p>
-</blockquote>
+> اسْتَطَعْتُمْ، فَإنَّهُنَّ يُكْثِرْنَ الاِمْتِنانَ، ويَكْفُرْنَ
+> الإحْسانَ.
 
 18. The woman is wholly evil, and more evil than her is the fact that
 man cannot do without her.
@@ -178,10 +146,5 @@ indeed a woman is [like] a sweet basil and not a strong ruler [who can
 govern the people].
 
 > 22ـ لاتُمَلِّكِ الْمَرْأةَ ما جاوَزَ نَفْسَها، فَإنَّ المَرْأةَ
-<blockquote dir="rtl">
-  <p>
-رَيْحانَةٌ، ولَيْسَتْ بِقَهْرِمانَة.
-  </p>
-</blockquote>
-
+> رَيْحانَةٌ، ولَيْسَتْ بِقَهْرِمانَة.
 

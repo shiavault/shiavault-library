@@ -61,4 +61,3 @@ it taste the sweetness of disobedience. On such occasion you may say:
 [^1]: Muhammad Mehdi Al-Naraqi, Jami' al-Sa'adat (The Collector of
 Felicities), vol. 3, p. 78
 
-

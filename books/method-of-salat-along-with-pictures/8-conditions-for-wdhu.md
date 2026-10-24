@@ -41,4 +41,3 @@ from others.
 13. The parts of the body where the water is applied must not contain
 anything that would prevent the water from reaching that area.
 
-

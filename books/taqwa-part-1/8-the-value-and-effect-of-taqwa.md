@@ -8,21 +8,17 @@ this worldly life. Imam Ali (a), who emphasized taqwa in his
 instructions and urged people towards it in a very outstanding way, has
 referred to numerous outcomes of taqwa. For example, he stated:
 
-<p dir="rtl">
 عتق من كل ملكه و نجاه من كل هلكه
-</p>
 
 Freedom from all types of slavery, and deliverance from all ruin.15
 
 Or elsewhere, he stated:
 
-<p dir="rtl">
 فَإِنَّ تَقْوَى اللَّهِ دَوَاءُ دَاءِ قُلُوبِكُمْ وَ بَصَرُ عَمَى
 أَفْئِدَتِكُمْ وَ شِفَاءُ مَرَضِ أَجْسَادِكُمْ وَ صَلَاحُ فَسَادِ
 صُدُورِكُمْ وَ طُهُورُ دَنَسِ أَنْفُسِكُمْ وَ جِلَاءُ عَشَا
 أَبْصَارِكُمْ وَ أَمْنُ فَزَعِ جَأْشِكُمْ وَ ضِيَاءُ سَوَادِ
 ظُلْمَتِكُم‏
-</p>
 
 Certainly, fear of Allah (taqwa) is the medicine for your hearts, sight
 for the blindness of your spirits, the cure for the ailments of your
@@ -115,5 +111,4 @@ of taqwa, and into impairing the immunity of taqwa because they
 essentially do not believe in it. If there is no faith and taqwa - we
 take refuge with God - people become more vulnerable and may even
 consider stealing, cheating, and committing crimes as acceptable acts.
-
 

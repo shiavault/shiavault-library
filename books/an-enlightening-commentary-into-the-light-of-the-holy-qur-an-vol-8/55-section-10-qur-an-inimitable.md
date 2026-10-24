@@ -4,12 +4,8 @@ Section 10: Qur’an Inimitable
 Surah Isra’ – Verse 85
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبّـِي وَمَآ
-اُوتِيتُم مّـِنَ الْعِلْمِ إِلاَّ قَلِيلاً
-  </p>
-</blockquote>
+> وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبّـِي وَمَآ
+> اُوتِيتُم مّـِنَ الْعِلْمِ إِلاَّ قَلِيلاً
 
 ***85. “And they ask you about the spirit, say: ‘The spirit is of the
 command of my Lord, and you are not given of the knowledge but a
@@ -285,18 +281,10 @@ minimal.
 Surah Isra’ – Verses 86 - 87
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَآ إِلَيْكَ ثُمَّ لاَ
-تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلاً
-  </p>
-</blockquote>
+> وَلَئِن شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَآ إِلَيْكَ ثُمَّ لاَ
+> تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلاً
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ رَحْمَةً مِن رَّبّـِكَ إِنَّ فَضْلَهُ كَانَ عَلَيْكَ كَبِيراً
-  </p>
-</blockquote>
+> إِلاَّ رَحْمَةً مِن رَّبّـِكَ إِنَّ فَضْلَهُ كَانَ عَلَيْكَ كَبِيراً
 
 ***86. “And if We please, We would certainly take away whatever We have
 revealed unto you; then you would find no one thereover to defend you
@@ -351,13 +339,9 @@ the world.
 Surah Isra’ – Verse 88
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قُل لَّئِنِ اجْتَمَعَتِ الإِنسُ وَالْجِنُّ عَلَي أَن يَأْتُوا بِمِثْلِ
-هَذَا الْقُرْءَانِ لاَ يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ بَعْضُهُمْ
-لِبَعْضٍ ظَهِيراً
-  </p>
-</blockquote>
+> قُل لَّئِنِ اجْتَمَعَتِ الإِنسُ وَالْجِنُّ عَلَي أَن يَأْتُوا بِمِثْلِ
+> هَذَا الْقُرْءَانِ لاَ يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ بَعْضُهُمْ
+> لِبَعْضٍ ظَهِيراً
 
 ***88. “Say: ‘If (the whole) mankind and the Jinn were to gather
 together to bring the like of this Qur’an, they could not bring the like
@@ -411,12 +395,8 @@ requirements in all fields and at all times.
 Surah Isra’ – Verse 89
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِي هَذَا الْقُرْءَانِ مِن كُلّ‌ِ مَثَلٍ
-فَاَبَي أَكْثَرُ النَّاسِ إِلاَّ كُفُوراً
-  </p>
-</blockquote>
+> وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِي هَذَا الْقُرْءَانِ مِن كُلّ‌ِ مَثَلٍ
+> فَاَبَي أَكْثَرُ النَّاسِ إِلاَّ كُفُوراً
 
 ***89. “And We have explainer for the people, in this Qur’an, every
 (kind of) similitude, but incline not most of the people save
@@ -460,19 +440,11 @@ order to bring the like of it, they will not be able to do so.
 Surah Isra’ – Verses 90 - 91
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَن نُؤْمِنَ لَكَ حَتَّي تَفْجُرَ لَنَا مِنَ الاَرْضِ
-يَنْبُوعاً
-  </p>
-</blockquote>
+> وَقَالُوا لَن نُؤْمِنَ لَكَ حَتَّي تَفْجُرَ لَنَا مِنَ الاَرْضِ
+> يَنْبُوعاً
 
-<blockquote dir="rtl">
-  <p>
-أَوْ تَكُونَ لَكَ جَنَّةٌ مِن نَّخِيلٍ وَعِنَبٍ فَتُفَجّـِرَ
-الاَنْهَارَ خِلاَلَهَا تَفْجِيراً
-  </p>
-</blockquote>
+> أَوْ تَكُونَ لَكَ جَنَّةٌ مِن نَّخِيلٍ وَعِنَبٍ فَتُفَجّـِرَ
+> الاَنْهَارَ خِلاَلَهَا تَفْجِيراً
 
 ***90. “And they said: “We shall never believe in you till you make a
 spring to gush forth from the earth for us,”***  
@@ -524,20 +496,12 @@ midst of which you cause streams to flow forth,”***
 Surah Isra’ – Verses 92 - 93
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوْ تُسْقِطَ السَّمآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفاً أَوْ تَأْتِيَ
-بِاللَّهِ وَالْمَلآئِكَةِ قَبِيلاً
-  </p>
-</blockquote>
+> أَوْ تُسْقِطَ السَّمآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفاً أَوْ تَأْتِيَ
+> بِاللَّهِ وَالْمَلآئِكَةِ قَبِيلاً
 
-<blockquote dir="rtl">
-  <p>
-أَوْ يَكُونَ لَكَ بَيْتٌ مِن زُخْرُفٍ أَوْ تَرْقَي فِي السَّمآءِ وَلَن
-نُّؤْمِنَ لِرُقِيّـِكَ حَتَّي تُنَزّ‌ِلَ عَلَيْنَا كِتَاباً
-نَّقْرَؤُهُ قُلْ سُبْحَانَ رَبّـِي هَلْ كُنتُ إِلاَّ بَشَراً رَسُولاً
-  </p>
-</blockquote>
+> أَوْ يَكُونَ لَكَ بَيْتٌ مِن زُخْرُفٍ أَوْ تَرْقَي فِي السَّمآءِ وَلَن
+> نُّؤْمِنَ لِرُقِيّـِكَ حَتَّي تُنَزّ‌ِلَ عَلَيْنَا كِتَاباً
+> نَّقْرَؤُهُ قُلْ سُبْحَانَ رَبّـِي هَلْ كُنتُ إِلاَّ بَشَراً رَسُولاً
 
 ***92. “Or you cause the heaven, as you think, to fall in pieces upon
 us, or bring Allah and the angels face to face with us,”***
@@ -620,5 +584,4 @@ what he is confronted with.
 ornament, like gold which is one of the precious metals, and is used as
 ornament. This term is also applied for houses with paintings and
 decorations.
-
 

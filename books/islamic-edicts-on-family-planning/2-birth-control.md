@@ -1175,4 +1175,3 @@ temporarily put on hold, he has the power to do so. (Tr.)
 
 [^69]: Ayatullah Sane\`i, Islamic Medical Questions
 
-

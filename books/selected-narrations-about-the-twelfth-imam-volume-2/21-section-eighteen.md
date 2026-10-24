@@ -136,4 +136,3 @@ al-mawadda, chap. 80, p. 454; \`Uyūn akhbār al-Riḍā, vol. 2, pp.
 
 [^5]: Quran 7:187.
 
-

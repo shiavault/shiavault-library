@@ -7,22 +7,14 @@ Death
 greater authority over you than [you have over] yourselves.
 
 > 1ـ اَلْمَوْتُ اَلْزَمُ لَكُمْ مِنْ ظِلِّكُمْ، وأمْلَكُ بِكُمْ
-<blockquote dir="rtl">
-  <p>
-(أمْلَكُكُمْ)مِنْ أنْفُسِكُمْ.
-  </p>
-</blockquote>
+> (أمْلَكُكُمْ)مِنْ أنْفُسِكُمْ.
 
 2. Continuously remember death and remember what you will face after
 death; and never wish for death except after being sure that you have
 fulfilled the condition for security [in the Hereafter].
 
 > 2ـ أَدِمْ ذِكْرَ المَوْتِ، وذِكْرَ ما تَقْدِمُ عَلَيْهِ بَعْدَ
-<blockquote dir="rtl">
-  <p>
-المَوْتِ ولاتَتَمَنَّ المَوْتَ إلاّ بِشَرط وَثيق.
-  </p>
-</blockquote>
+> المَوْتِ ولاتَتَمَنَّ المَوْتَ إلاّ بِشَرط وَثيق.
 
 3. Increase your remembrance of death and of the place you have to go
 suddenly and return to after death, until it comes to you while you are
@@ -30,12 +22,8 @@ on your guard against it and have prepared yourself for it, and let it
 not come over you suddenly thereby taking you by surprise.
 
 > 3ـ أكْثِرْ ذِكْرَ المَوْتِ وَما تَهْجِمُ عَلَيْهِ، وتُفْضي إلَيْهِ
-<blockquote dir="rtl">
-  <p>
-بَعْدَ المَوْتِ حَتّى يَأتِيَكَ، وَقَدْ أخَذْتَ لَهُ حِذْرَكَ،وَ
-شَدَدْتَ لَهُ أزْرَكَ، ولايَأتِيَكَ بَغْتَةً فَيَبْهَرَكَ.
-  </p>
-</blockquote>
+> بَعْدَ المَوْتِ حَتّى يَأتِيَكَ، وَقَدْ أخَذْتَ لَهُ حِذْرَكَ،وَ
+> شَدَدْتَ لَهُ أزْرَكَ، ولايَأتِيَكَ بَغْتَةً فَيَبْهَرَكَ.
 
 4. Prepare yourselves for death for indeed it overshadows you.
 
@@ -49,21 +37,13 @@ not come over you suddenly thereby taking you by surprise.
 desires and the caller towards separation.
 
 > 6ـ اُذْكُرُوا هادِمَ اللَّذّاتِ، ومُنَغِّصَ الشَّهَواتِ، وداعِيَ
-<blockquote dir="rtl">
-  <p>
-الشَّتاتِ.
-  </p>
-</blockquote>
+> الشَّتاتِ.
 
 7. Beware of death and be adequately prepared for it, [for by this] you
 will be happy in your place of [final] return.
 
 > 7ـ اِحْذَرِ المَوْتَ، وأحْسِنْ لَهُ الإسْتِعْدادَ، تَسْعَدْ
-<blockquote dir="rtl">
-  <p>
-بِمُنْقَلَبِكَ.
-  </p>
-</blockquote>
+> بِمُنْقَلَبِكَ.
 
 8. Beware of insufficient provisions and increase your preparations for
 your departure.
@@ -94,11 +74,7 @@ whose sudden occurrence you have no knowledge of before it overcomes
 you.
 
 > 13ـ إنَّ أمْراً لاتَعْلَمُ مَتى يَفْجَأُكَ يَنْبَغي أنْ تَسْتَعِدَّ
-<blockquote dir="rtl">
-  <p>
-لَهُ قَبْلَ أنْ يَغْشاكَ.
-  </p>
-</blockquote>
+> لَهُ قَبْلَ أنْ يَغْشاكَ.
 
 14. Verily this matter has not started with you nor will it end with
 you, for this companion of yours travels, so consider him to have gone
@@ -106,56 +82,36 @@ on one of his travels, and if he comes back to you [then so be it],
 otherwise you are [all] going towards him [and will meet him].
 
 > 14ـ إنَّ هذا الأمْرَ لَيْسَ بِكُمْ بَدَأَ، ولا إلَيْكُمُ انْتَهى،
-<blockquote dir="rtl">
-  <p>
-وقَدْ كانَ صاحِبُكُمْ هذا يُسافِرُ، فَعُدُّوهُ في بَعْضِ سَفَراتِهِ،
-فَإنْ قَدِمَ عَلَيْكُمْ، وإلاّ قَدِمْتُمْ عَلَيْهِ.
-  </p>
-</blockquote>
+> وقَدْ كانَ صاحِبُكُمْ هذا يُسافِرُ، فَعُدُّوهُ في بَعْضِ سَفَراتِهِ،
+> فَإنْ قَدِمَ عَلَيْكُمْ، وإلاّ قَدِمْتُمْ عَلَيْهِ.
 
 15. Verily the one who approaches, bringing with him [either
 everlasting] felicity or wretchedness, is deserving of the best
 preparation.
 
 > 15ـ إنَّ قادِماً يَقْدَمُ بِالفَوْزِ، أوِ الشِّقْوَةِ لَمُسْتَحِقٌّ
-<blockquote dir="rtl">
-  <p>
-لأفْضَلِ العُدَّةِ.
-  </p>
-</blockquote>
+> لأفْضَلِ العُدَّةِ.
 
 16. Indeed the absent one who is driven forward by the [succession of
 the] new night and day, is indeed worthy of a quick return.
 
 > 16ـ إنَّ غائِباً يَحْدُوهُ الجَديدانِ اَللَّيْلُ والنَّهارُ، لَحَرِيٌّ
-<blockquote dir="rtl">
-  <p>
-بِسُرْعَةِ الأوْبَةِ.
-  </p>
-</blockquote>
+> بِسُرْعَةِ الأوْبَةِ.
 
 17. Verily in front of you there is a path that covers a long distance,
 and severe hardships, and you cannot do without good exploration and
 acquiring the necessary amount of provisions.
 
 > 17ـ إنَّ أمامَكَ طَريقاً ذا مَسافَة بَعيدَة، ومَشَقَّة شَديدَة،
-<blockquote dir="rtl">
-  <p>
-ولاغِنى بِكَ مِنْ حُسْنِ الاِرْتيادِ، وقَدْرِ بَلاغِكَ مِنَ الزّادِ.
-  </p>
-</blockquote>
+> ولاغِنى بِكَ مِنْ حُسْنِ الاِرْتيادِ، وقَدْرِ بَلاغِكَ مِنَ الزّادِ.
 
 18. Verily our statement: “Indeed we belong to Allah” is an affirmation
 we make to ourselves that we are owned and our statement: “Indeed we
 will return to Him” is an affirmation to ourselves that we will die.
 
 > 18ـ إنَّ قَوْلَنا «إنّا لِلّهِ » إقْرارٌ عَلى أنْفُسِنا بِالمِلْكِ،
-<blockquote dir="rtl">
-  <p>
-وقَوْلَنا « إنّا إلَيْهِ راجِعُونَ » إقْرارٌ عَلى أنْفُسِنا
-بِالهُلْكِ.
-  </p>
-</blockquote>
+> وقَوْلَنا « إنّا إلَيْهِ راجِعُونَ » إقْرارٌ عَلى أنْفُسِنا
+> بِالهُلْكِ.
 
 19. Verily before you is an arduous mountain-pass [that is difficult to
 traverse] where the one with a light burden will be in a better
@@ -165,22 +121,14 @@ swiftly. Indeed its place of descent for you inevitably leads either to
 Paradise or hellfire.
 
 > 19ـ إنَّ أمامَكَ عَقَبَةً كَؤُوداً، المُخِفُّ فيها أحْسَنُ حالاً مِنَ
-<blockquote dir="rtl">
-  <p>
-المُثْقِلِ، وَالمُبْطِيُ عَلَيْها أقْبَحُ أمْراً مِنَ المُسْرِعِ، إنَّ
-مَهْبِطَها بِكَ لامَحالَةَ عَلى جَنَّة أوْ نار.
-  </p>
-</blockquote>
+> المُثْقِلِ، وَالمُبْطِيُ عَلَيْها أقْبَحُ أمْراً مِنَ المُسْرِعِ، إنَّ
+> مَهْبِطَها بِكَ لامَحالَةَ عَلى جَنَّة أوْ نار.
 
 20. Verily this death is a swift seeker - neither does the steadfast
 escape it nor does the fleer frustrate it.
 
 > 20ـ إنَّ هذا المَوْتَ لَطالِبٌ حَثيثٌ، لايَفُوتُهُ المُقيمُ، ولا
-<blockquote dir="rtl">
-  <p>
-يُعْجِزُهُ مَنْ هَرَبَ.
-  </p>
-</blockquote>
+> يُعْجِزُهُ مَنْ هَرَبَ.
 
 21. Verily death is a relief for the one who was a slave to his lust and
 a prisoner of his vain desire, because the more his life lengthened the
@@ -188,42 +136,26 @@ more his sins would increase and his offenses against his soul would
 become worse.
 
 > 21ـ إنَّ فِي المَوْتِ لَراحَةٌ لِمَنْ كانَ عَبْدَ شَهْوَتِهِ، وأسْيرَ
-<blockquote dir="rtl">
-  <p>
-أهْوِيَتِهِ، لأنَّهُ كُلَّما طالَتْ حَياتُهُ كَثُرَتْ سَيِّئاتُهُ،
-وعَظُمَتْ عَلى نَفْسِهِ جِناياتُهُ.
-  </p>
-</blockquote>
+> أهْوِيَتِهِ، لأنَّهُ كُلَّما طالَتْ حَياتُهُ كَثُرَتْ سَيِّئاتُهُ،
+> وعَظُمَتْ عَلى نَفْسِهِ جِناياتُهُ.
 
 22. Verily death has agonies that are more terrible than can ever be
 described or comprehended by the intellects of the people of this world.
 
 > 22 ـ إنَّ لِلْمَوْتِ لَغَمَرات، هِيَ أفْظَعُ مِنْ أنْ تُسْتَغْرَقَ
-<blockquote dir="rtl">
-  <p>
-بِصِفَة، أوْ تَعْتَدِلَ عَلى عُقُولِ أهْلِ الدُّنْيا.
-  </p>
-</blockquote>
+> بِصِفَة، أوْ تَعْتَدِلَ عَلى عُقُولِ أهْلِ الدُّنْيا.
 
 23. Verily death has been tied to your forelocks whilst this world coils
 behind you.
 
 > 23ـ إنَّ المَوْتَ لَمَعْقُودٌ بِنَواصيكُمْ، والدُّنْيا تُطْوى مِنْ
-<blockquote dir="rtl">
-  <p>
-خَلْفِكُمْ.
-  </p>
-</blockquote>
+> خَلْفِكُمْ.
 
 24. Verily death is a visitor who is not loved, a killer who is not held
 accountable and an invincible adversary.
 
 > 24ـ إنَّ المَوْتَ لَزائِرٌ غَيْرُ مَحْبُوب، وواتِرٌ (وَ واثِرٌ) غَيْرُ
-<blockquote dir="rtl">
-  <p>
-مَطْلُوب، وقِرْنٌ غَيْرُ مَغْلُوب.
-  </p>
-</blockquote>
+> مَطْلُوب، وقِرْنٌ غَيْرُ مَغْلُوب.
 
 25. Departure [from this world] is imminent.
 
@@ -270,11 +202,7 @@ everlasting abode.
 and must eventually meet it.
 
 > 35ـ إنَّكَ طَريدُ المَوْتِ الَّذي لايَنْجُو هارِبُهُ، ولابُدَّ أنَّهُ
-<blockquote dir="rtl">
-  <p>
-مُدْرِكُهُ.
-  </p>
-</blockquote>
+> مُدْرِكُهُ.
 
 36. Verily behind you is a swift seeker in the form of death, so do not
 be negligent.
@@ -286,11 +214,7 @@ if you remain steadfast [to resist it] and will catch up with you if you
 [try to] flee.
 
 > 37ـ إنَّكُمْ طُرَداءُ المَوْتِ، الَّذي إنْ أقَمْتُمْ أخَذَكُمْ، وإنْ
-<blockquote dir="rtl">
-  <p>
-فَرَرْتُمْ مِنْهُ أدْرَكَكُمْ.
-  </p>
-</blockquote>
+> فَرَرْتُمْ مِنْهُ أدْرَكَكُمْ.
 
 38. When death arrives, hopes are exposed.
 
@@ -300,11 +224,7 @@ if you remain steadfast [to resist it] and will catch up with you if you
 being prepared for it is incompetence.
 
 > 39ـ إذا كانَ هُجُومُ المَوْتِ لايُؤمَنُ، فَمِنَ العَجْزِ تَرْكُ
-<blockquote dir="rtl">
-  <p>
-التَّأَهُّبِ لَهُ.
-  </p>
-</blockquote>
+> التَّأَهُّبِ لَهُ.
 
 40. Deaths cut off hopes.
 
@@ -314,11 +234,7 @@ being prepared for it is incompetence.
 towards you, then how quickly you will meet each other!
 
 > 41ـ إذا كُنْتَ في إدْبار، والمَوْتُ في إقْبال، فَما أسْرَعَ
-<blockquote dir="rtl">
-  <p>
-المُلْتَقى.
-  </p>
-</blockquote>
+> المُلْتَقى.
 
 42. When the bringer of the news of death comes frequently to you, he
 will [soon also] announce your death to others.
@@ -329,21 +245,13 @@ will [soon also] announce your death to others.
 is negligent of the onslaught of death.
 
 > 43ـ تارِكُ التَّأَهُّبِ لِلْمَوْتِ، واغْتِنامِ المَهَلِ غافِلٌ عَنْ
-<blockquote dir="rtl">
-  <p>
-هُجُومِ الأجَلِ.
-  </p>
-</blockquote>
+> هُجُومِ الأجَلِ.
 
 44. Begin your journey for you have been pushed forward and prepare for
 death for it has overshadowed you.
 
 > 44ـ تَرَحَّلُوا فَقَدْ جُدَّبِكُمْ، واسْتَعِدُّوا لِلْمَوْتِ فَقَدْ
-<blockquote dir="rtl">
-  <p>
-أظَلَّكُمْ.
-  </p>
-</blockquote>
+> أظَلَّكُمْ.
 
 45. Remembrance of death makes the means [and comforts] of this world
 seem trivial.
@@ -363,11 +271,7 @@ before quenching his thirst.
 will love death and loathe [this worldly] life.
 
 > 48ـ شَوِّقُوا أنْفُسَكُمْ إلى نَعيمِ الجَنَّةِ، تُحِبُّوا المَوْتَ
-<blockquote dir="rtl">
-  <p>
-وتَمْقُتُوا الحَياةَ.
-  </p>
-</blockquote>
+> وتَمْقُتُوا الحَياةَ.
 
 49. I am amazed at the one who forgets death while he sees others dying
 [around him].
@@ -378,11 +282,7 @@ will love death and loathe [this worldly] life.
 decreasing every day and still does not make preparations for death.
 
 > 50ـ عَجِبْتُ لِمَنْ يَرى أنَّهُ يُنْقَصُ كُلَّ يَوْم في نَفْسِهِ
-<blockquote dir="rtl">
-  <p>
-وعُمْرِهِ وهُوَ لايَتَأَهَّبُ لِلْمَوْتِ.
-  </p>
-</blockquote>
+> وعُمْرِهِ وهُوَ لايَتَأَهَّبُ لِلْمَوْتِ.
 
 51. I am amazed at the one who fears the ambush [of death] and still
 does not desist.
@@ -511,11 +411,7 @@ this world.
 this world become easy [and trivial] for him.
 
 > 80ـ مَنْ صَوَّرَ المَوْتَ بَيْنَ عَيْنَيْهِ هانَ أمْرُ الدُّنْيا
-<blockquote dir="rtl">
-  <p>
-عَلَيْهِ.
-  </p>
-</blockquote>
+> عَلَيْهِ.
 
 81. One who frequently remembers death is pleased with whatever suffices
 him of this world.
@@ -526,11 +422,7 @@ him of this world.
 this world is reduced.
 
 > 82ـ مَنْ أكْثَرَ مِنْ ذِكْرِ المَوْتِ قَلَّتْ فِي الدُّنْيا
-<blockquote dir="rtl">
-  <p>
-رَغْبَتُهُ.
-  </p>
-</blockquote>
+> رَغْبَتُهُ.
 
 83. Whoever frequently remembers death is satisfied with the little he
 possesses of this world.
@@ -567,24 +459,16 @@ elevate anything in status but that they quickly destroyed that which
 they have built and separated that which they have brought together.
 
 > 89ـ نَحْنُ أعْوانُ المَنُونِ، وأنْفُسُنا نَصْبُ الحُتُوفِ، فَمِنْ
-<blockquote dir="rtl">
-  <p>
-أيْنَ نَرْجُو البَقاءَ، وهذا اللَّيْلُ والنَّهارُ لَمْ يَرْفَعا مِنْ
-شَيْء شَرَفاً إلاّ أسْرَعَا الْكَرَّةَ في هَدْمِ ما بَنَيا، وتَفْريقِ
-ما جَمَعا.
-  </p>
-</blockquote>
+> أيْنَ نَرْجُو البَقاءَ، وهذا اللَّيْلُ والنَّهارُ لَمْ يَرْفَعا مِنْ
+> شَيْء شَرَفاً إلاّ أسْرَعَا الْكَرَّةَ في هَدْمِ ما بَنَيا، وتَفْريقِ
+> ما جَمَعا.
 
 90. Are the people who have been given time to live [in this world]
 awaiting anything but the time of death, while the hour is close and the
 journey is at hand?
 
 > 90ـ هَلْ (وأهْلُ مُدَّةِ البَقاءِ) يَنْتَظِرُ أهْلُ مُدَّةِ البَقاءِ،
-<blockquote dir="rtl">
-  <p>
-إلاّ آوِنَةَ الفَناءِ مَعَ قُرْبِ الزَّوالِ وأُزُوفِ الاِنْتِقالِ.
-  </p>
-</blockquote>
+> إلاّ آوِنَةَ الفَناءِ مَعَ قُرْبِ الزَّوالِ وأُزُوفِ الاِنْتِقالِ.
 
 91. Can the near ones repel [death] from you, or can the wailing [of the
 women and children] be of any benefit to you?
@@ -595,11 +479,7 @@ women and children] be of any benefit to you?
 flees it to get saved [from it].
 
 > 92ـ هَيْهاتَ أنْ يَفُوتَ المَوْتَ مَنْ طَلَبَ أوْ يَنْجُوَ مِنْهُ مَنْ
-<blockquote dir="rtl">
-  <p>
-هَرَبَ.
-  </p>
-</blockquote>
+> هَرَبَ.
 
 93. The arrival of death cuts off action and exposes [false] hopes.
 
@@ -609,11 +489,7 @@ flees it to get saved [from it].
 closer and dashes [one’s] hope.
 
 > 94ـ وافِدُ المَوْتِ يُبيدُ المَهَلَ، ويُدْنِي الأجَلَ، ويُقْعِدُ
-<blockquote dir="rtl">
-  <p>
-الأمَلَ.
-  </p>
-</blockquote>
+> الأمَلَ.
 
 95. There is no soother like death.
 
@@ -639,21 +515,13 @@ closer and dashes [one’s] hope.
 death occurs in the [execution of his own] plans.
 
 > 100ـ يَغْلِبُ (تَذِلُّ الأُمُورُ لِلْمَقاديرِ) المِقْدارُ عَلَى
-<blockquote dir="rtl">
-  <p>
-التَّقْديرِ حَتّى يَكُونَ الحَتْفُ فِي التَّدْبيرِ.
-  </p>
-</blockquote>
+> التَّقْديرِ حَتّى يَكُونَ الحَتْفُ فِي التَّدْبيرِ.
 
 101. It behoves the one who knows about the quickness of his departure
 to be well prepared for the move.
 
 > 101ـ يَنْبَغي لِمَنْ عَرَفَ سُرْعَةَ رِحْلَتِهِ أنْ يُحْسِنَ
-<blockquote dir="rtl">
-  <p>
-التَّأَهُّبَ لِنُقْلَتِهِ.
-  </p>
-</blockquote>
+> التَّأَهُّبَ لِنُقْلَتِهِ.
 
 102. Death is preferable to the shame of disgrace.
 
@@ -666,5 +534,4 @@ to be well prepared for the move.
 [^1]: Or: In every breath there is death.
 
 [^2]: Here the ‘comer’ being referred to is death.
-
 

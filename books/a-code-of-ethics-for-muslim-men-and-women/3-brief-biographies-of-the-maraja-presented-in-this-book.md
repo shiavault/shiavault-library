@@ -619,4 +619,3 @@ biographies of some of the Maraja’ Taqlid mentioned in this book. We had
 repeatedly tried to get more information on these great figures from
 their offices in Qum, but they were not co-operative with us.
 
-

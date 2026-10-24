@@ -30,4 +30,3 @@ leading the society. The difference was that there was no further
 revelation after the demise of the Prophet; all knowledge of Imams was
 received from the Holy Prophet.
 
-

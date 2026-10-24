@@ -73,7 +73,6 @@ interpolations of the scribes. It is MUSADDIQ (confirmer), and it is
 MUHAIMIN (guardian) of the previous books, all at one and the same
 time.
 
-
 **3.The Injil
 
 WAS IT A BOOK?**
@@ -194,7 +193,6 @@ of these gospels could have changed the established facts to suit their
 whims, what assurance was there that they had not changed the creed to
 suit their fancy?
 
-
 **THE NEW TESTAMENT:MISINTERPRETATIONS**
 
 The New Testament was not free form serious 'misinterpretations'. To
@@ -269,7 +267,6 @@ the truths which were still extant in the Torah and Injil of his time
 (which incidentally, are still extant, with periodical changes), and to
 correct the wrong beliefs which had crept into these books as a result
 of pagan influence.
-
 
 **4.THE QUR'AN, HADITH QUDSI &HADITH**
 
@@ -372,5 +369,4 @@ Frankly speaking, if additions, mixing of different sources into one,
 changing the sequence of the events, and adjusting the facts to a
 self-imposed scheme, is not 'alteration' of a work, then the word
 'alteration' should be removed from the dictionary.
-
 

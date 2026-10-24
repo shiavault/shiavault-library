@@ -27,34 +27,23 @@ near, into one single characteristic and that is Precaution (taqwa)
 
 In the words of Almighty Allah,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُواْ الْكِتَابَ مِن قَبْلِكُمْ
-وَإِيَّاكُمْ أَنِ اتَّقُواْ اللّهَ
-  </p>
-</blockquote>
+> وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُواْ الْكِتَابَ مِن قَبْلِكُمْ
+> وَإِيَّاكُمْ أَنِ اتَّقُواْ اللّهَ
 
 ***Certainly We enjoined those who were given the Book before you, and
 [We enjoin] you too that you should be careful of [your duty].***
 (4:131)
-
 
 This is the sum of every sound act of worship: it is by precaution that
 people reach the high degrees and highest ranks. It is by precaution
 that people lead a good life with constant companionship.
 *** ***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ  فِي مَقْعَدِ صِدْقٍ عِندَ
-مَلِيكٍ مُّقْتَدِرٍ
-  </p>
-</blockquote>
+> إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ  فِي مَقْعَدِ صِدْقٍ عِندَ
+> مَلِيكٍ مُّقْتَدِرٍ
 
 *** ***
 
 ***Surely those who guard [against evil] shall be in gardens and rivers,
 in the seat of honour with a most powerful King.*** (54:54-5)
-
 

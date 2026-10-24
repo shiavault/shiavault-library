@@ -58,4 +58,3 @@ noun in the plural form, rather it remains single. For example:
 sentence. For example:  
 **نزلَ** **المَطرُ** (Rain fell down.)
 
-

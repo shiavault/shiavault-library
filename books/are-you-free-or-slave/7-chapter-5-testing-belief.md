@@ -818,4 +818,3 @@ intended to do from the first!
 author, (Debate no.2). (Debate No.1) is also relevant to the present
 discussion.
 
-

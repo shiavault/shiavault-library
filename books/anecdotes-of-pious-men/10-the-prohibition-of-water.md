@@ -112,4 +112,3 @@ water'."
 Not long afterwards soldiers of Moawiya used to come to the Ghat side by
 side with the soldiers of Ali, and nobody prevented them.
 
-

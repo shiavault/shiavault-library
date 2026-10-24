@@ -256,4 +256,3 @@ other a good prudent policy to honor that conviction.
 In any case let us pronounce that we cannot repudiate the legitimacy of
 their rule, at least, some of them.
 
-

@@ -70,4 +70,3 @@ in that kind of animal, the blood which remains in its body becomes
 *tahir* (clean). But that blood which remains in those organs of body
 which are *haraam* (like spleen, bladder etc.) must be avoided.
 
-

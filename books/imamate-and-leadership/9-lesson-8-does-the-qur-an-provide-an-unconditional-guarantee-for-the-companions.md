@@ -181,4 +181,3 @@ for mankind.
 
 [^4]: al-Mas'udi, Muruj al-Dhahab.
 
-

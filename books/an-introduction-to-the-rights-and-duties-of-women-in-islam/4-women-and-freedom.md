@@ -47,23 +47,15 @@ mentioned below.
 
 The Messenger of Allah (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص): «العبادةُ سَبْعُونَ جزءً أفضلها طَلَبُ الحَلال.»
-  </p>
-</blockquote>
+> قال رسول الله (ص): «العبادةُ سَبْعُونَ جزءً أفضلها طَلَبُ الحَلال.»
 
 “Worship has seventy elements; the noblest of which is endeavoring to
 gain legitimate income.”[^1]
 
 The noble Musa ibn Ja‘far (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-بشير الدهان، قال سمعت ابالحسن موسى (ع) يقول: «انّ الله عزّوجلّ يُبغِض
-الْعَبد النّوام الْفارغ.»
-  </p>
-</blockquote>
+> بشير الدهان، قال سمعت ابالحسن موسى (ع) يقول: «انّ الله عزّوجلّ يُبغِض
+> الْعَبد النّوام الْفارغ.»
 
 “Surely Allah, the Honored, the Glorified, disfavors languid and idle
 servants.”[^2]
@@ -90,13 +82,9 @@ of women nor to that of their spouses.
 Consequently, Islam advises that men not allow women to perform
 laborious work. Amir al-Mu’minin[^3] said to his son Imam Hassan (‘a):
 
-<blockquote dir="rtl">
-  <p>
-في رسالة أميرالمؤمنين إلى الحسن (ع) قال: «لا تملك المرأة من الأمر ما
-يجاوز نفسها؛ فإنّ ذلك أنعم بحالها، و أرخى لبالها، و أدوم لجمالها؛ فإنّ
-المرأة ريحانة و ليست بقهرمانة.»
-  </p>
-</blockquote>
+> في رسالة أميرالمؤمنين إلى الحسن (ع) قال: «لا تملك المرأة من الأمر ما
+> يجاوز نفسها؛ فإنّ ذلك أنعم بحالها، و أرخى لبالها، و أدوم لجمالها؛ فإنّ
+> المرأة ريحانة و ليست بقهرمانة.»
 
 “Do not tolerate that women do things beyond their abilities because
 this is more suitable for their status, it calms their hearts, and
@@ -143,14 +131,10 @@ may gain profit from these methods and no one has the right to
 appropriate her possessions without her consent, whether they be her
 father, mother, husband, or children. The Quran declares:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَتَمَنَّوْاْ مَا فَضَّلَ اللّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ
-لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُواْ وَ لِلنِّسَاء نَصِيبٌ
-مِّمَّا اكْتَسَبْنَ وَ اسْأَلُواْ اللّهَ مِن فَضْلِهِ إِنَّ اللّهَ
-كَانَ بِكُلِّ شَيْءٍ عَلِيمًا
-  </p>
-</blockquote>
+> وَ لاَ تَتَمَنَّوْاْ مَا فَضَّلَ اللّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ
+> لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُواْ وَ لِلنِّسَاء نَصِيبٌ
+> مِّمَّا اكْتَسَبْنَ وَ اسْأَلُواْ اللّهَ مِن فَضْلِهِ إِنَّ اللّهَ
+> كَانَ بِكُلِّ شَيْءٍ عَلِيمًا
 
 ***“Do not covet that by which Allah has elevated some of you over
 others. To men is allotted what they earn and to women is allotted what
@@ -166,12 +150,8 @@ marriage is void. No one has the right to force a woman to marry or to
 choose a specific husband for her, even one’s father, mother, sibling,
 or grandparents. Imam Sadiq (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-منصور بن حازم، عن أبي عبدالله (ع) قال: «تستأمر البكر و غيرها ولا تنكح
-إلّا بأمرها.»
-  </p>
-</blockquote>
+> منصور بن حازم، عن أبي عبدالله (ع) قال: «تستأمر البكر و غيرها ولا تنكح
+> إلّا بأمرها.»
 
 “Women must be asked permission for their marriage, virgin or otherwise,
 and marriage is not correct without the woman’s behest.”[^6]
@@ -179,12 +159,8 @@ and marriage is not correct without the woman’s behest.”[^6]
 Concerning a man who wanted to marry off his sister, Imam Sadiq (‘a)
 stated:
 
-<blockquote dir="rtl">
-  <p>
-داود بن سرحان، عن أبي عبدالله (ع) في رجل يريد أن يزوّج أخته، قال:
-«يؤامرها، فإن سكتت فهو إقرارها، و لا تنكح إلّا بأمرها.»
-  </p>
-</blockquote>
+> داود بن سرحان، عن أبي عبدالله (ع) في رجل يريد أن يزوّج أخته، قال:
+> «يؤامرها، فإن سكتت فهو إقرارها، و لا تنكح إلّا بأمرها.»
 
 “She must be asked permission; if she is reticent, her silence is
 permission. However, marriage is not correct without the woman’s
@@ -202,13 +178,9 @@ grandfather is not necessary and she may decide to remarry
 independently. Various Hadith have emphasized this fact. Regarding the
 marriage of a non-virgin woman, Imam Sadiq (‘a) has stated:
 
-<blockquote dir="rtl">
-  <p>
-حلبي عن أبي عبدالله (ع) قال: في المرأة الثيّب تخطب إلى نفسها، قال: «هي
-أملك بنفسها، تولّي أمرها من شاءت إذا كان كفواً بعد أن تكون قد نكحت
-رجلاً قبله.»
-  </p>
-</blockquote>
+> حلبي عن أبي عبدالله (ع) قال: في المرأة الثيّب تخطب إلى نفسها، قال: «هي
+> أملك بنفسها، تولّي أمرها من شاءت إذا كان كفواً بعد أن تكون قد نكحت
+> رجلاً قبله.»
 
 “She has more authority over herself than any other person. If she has
 had a previous marriage, she can choose her desired spouse for
@@ -216,12 +188,8 @@ remarriage if he is good for her.”[^8]
 
 Imam Sadiq (‘a) has also stated:
 
-<blockquote dir="rtl">
-  <p>
-عن أبي عبدالله (ع) قال: «لا بأس أن تزّوج المرأة نفسها إذا كانت ثيّباً
-بغير إذن أبيها إذا كان لا بأس بما صنعت.»
-  </p>
-</blockquote>
+> عن أبي عبدالله (ع) قال: «لا بأس أن تزّوج المرأة نفسها إذا كانت ثيّباً
+> بغير إذن أبيها إذا كان لا بأس بما صنعت.»
 
 “There is no problem with a non-virgin (previously married) woman
 getting married without the consent of her father if she has no
@@ -232,12 +200,8 @@ religious jurisprudents [*faqih*] regard the permission of the father or
 grandfather necessary for her marriage and have substantiated this claim
 with various Hadith. Imam Sadiq (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-أبو مريم، عن أبي عبدالله (ع) قال: «الجارية البكر التي لها أبٌ لا
-تتزوّج إلّا بإذن أبيها.»
-  </p>
-</blockquote>
+> أبو مريم، عن أبي عبدالله (ع) قال: «الجارية البكر التي لها أبٌ لا
+> تتزوّج إلّا بإذن أبيها.»
 
 “A virgin woman who has a father must not marry without her father’s
 consent.”[^10]
@@ -295,21 +259,13 @@ are under pressure for some reason and the woman asks for a new
 residence the man must accept if he is able. These are examples of kind
 association [*mu‘ashirat bi ma‘ruf*] that God enjoins in the Quran:
 
-<blockquote dir="rtl">
-  <p>
-...وَ عَاشِرُوهُنَّ بِالْمَعْرُوفِ...
-  </p>
-</blockquote>
+> ...وَ عَاشِرُوهُنَّ بِالْمَعْرُوفِ...
 
 ***“And consort with your wives in kindness.”***[^11]
 
 It is also stated in the Quran as follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَ لَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ...
-  </p>
-</blockquote>
+> ...وَ لَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ...
 
 ***“And harass them not, so as to straiten life for them.”***[^12]
 
@@ -343,5 +299,4 @@ title of Imam ‘Ali ibn Abi Talib ('a). [trans.]
 [^11]: - Surah Nisa’ 4:19.
 
 [^12]: - Surah Talaq 65:6.
-
 

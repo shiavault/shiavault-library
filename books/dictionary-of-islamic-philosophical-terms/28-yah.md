@@ -20,4 +20,3 @@ Lit. "to be acted on"; technically the category of "passion" as one of
 the ten Aristotelian categories (al-maqulat al-‘ashr, q.v.) opposed to
 the category of "action" (fi‘l, q.v.). See also ‘infi‘al.
 
-

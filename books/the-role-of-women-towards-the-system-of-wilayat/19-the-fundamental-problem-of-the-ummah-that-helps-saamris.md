@@ -33,4 +33,3 @@ and women rights, marathon races are organized. They are making idols
 for the sake of women and using these idols to deviate people away from
 religion.
 
-

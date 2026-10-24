@@ -46,12 +46,8 @@ stipulated in the Qur’an to enact laws and decrees on particular cases
 based on circumstances of time and space, and the faithful are
 duty-bound to act upon the laws issued by the Messenger of Allah (*s*):
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ﴾
-  </p>
-</blockquote>
+> ﴿وَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ﴾
 
 ***“A faithful man or woman may not, when Allah and His Apostle have
 decided on a matter, have any option in their matter.**”*[^2]
@@ -76,11 +72,7 @@ necessary to follow, he should equally regard the orders of the Prophet
 (*s*) as necessary to follow. The necessity to follow God and His
 *wilayah* over all the faithful is established by such noble verses as:
 
-<blockquote dir="rtl">
-  <p>
-﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ…﴾
-  </p>
-</blockquote>
+> ﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ…﴾
 
 ***“The Prophet is closer to the faithful than their own
 souls...”***[^3]
@@ -99,13 +91,9 @@ Meanwhile, concerning the issue of judging after adapting general divine
 laws to cases where there is a dispute and discord among people, God
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُواْ تَسْلِيمًا﴾
-  </p>
-</blockquote>
+> ﴿فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّىَ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لاَ يَجِدُواْ فِي أَنفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُواْ تَسْلِيمًا﴾
 
 ***“But no, by your Lord! They will not believe until they make you a
 judge in their disputes, then do not find within their hearts any
@@ -144,12 +132,8 @@ through the statements of four witnesses, both of them must receive a
 hundred lashes, and the Qur’an particularly admonishes the judge not to
 be influenced by emotion and have pity on them:
 
-<blockquote dir="rtl">
-  <p>
-﴿ٱلزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِئَةَ
-جَلْدَةٍ وَلاَ تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ...﴾
-  </p>
-</blockquote>
+> ﴿ٱلزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِئَةَ
+> جَلْدَةٍ وَلاَ تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ...﴾
 
 ***“As for the fornicatress and the fornicator, strike each of them a
 hundred lashes, and let not pity for them overcome you in Allah’s
@@ -159,12 +143,8 @@ Undoubtedly, by implementing such a punishment the person will be
 disgraced, but society will acquire immunity. Regarding theft the Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا جَزَاءً بِمَا
-كَسَبَا نَكَالاً مِنَ اللّهِ وَاللّهُ عَزِيزٌ حَكِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُواْ أَيْدِيَهُمَا جَزَاءً بِمَا
+> كَسَبَا نَكَالاً مِنَ اللّهِ وَاللّهُ عَزِيزٌ حَكِيمٌ﴾
 
 ***“As for the thief, man and woman, cut off their hands as a requital
 for what they have earned. [That is] an exemplary punishment from Allah
@@ -187,13 +167,9 @@ statecraft, enactment of laws, their adaptation to particular cases, and
 their implementation, the Qur’an also clearly explains secondary and
 minor issues such as mentioning the months of the year, for example:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللّهِ اثْنَا عَشَرَ شَهْرًا فِي
-كِتَابِ اللّهِ يَوْمَ خَلَقَ السَّمَاوَات وَالأَرْضَ مِنْهَا
-أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ...﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللّهِ اثْنَا عَشَرَ شَهْرًا فِي
+> كِتَابِ اللّهِ يَوْمَ خَلَقَ السَّمَاوَات وَالأَرْضَ مِنْهَا
+> أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ...﴾
 
 ***“Indeed the number of the months with Allah is twelve months in
 Allah’s Book, the day when He created the heavens and the earth. Of
@@ -205,12 +181,8 @@ creation. Mentioning such affairs in religion has been regarded as a
 symbol of its firmness, correctness and reliability. Regarding the
 sighting of the crescent moon, the Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَسْأَلُونَكَ عَنِ الأَهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ
-وَالْحَجِّ...﴾
-  </p>
-</blockquote>
+> ﴿يَسْأَلُونَكَ عَنِ الأَهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ
+> وَالْحَجِّ...﴾
 
 ***“They question you concerning the new moons. Say, ‘They are
 timekeeping signs for the people and [for the sake of]***
@@ -223,12 +195,8 @@ devotional laws with the sighting of the new moon. These are because the
 Qur’an basically presents religion as concordant with the nature
 [*fitrah*] and system of creation:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ…﴾
-  </p>
-</blockquote>
+> ﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ…﴾
 
 ***“So set your heart on the religion as a people of pure faith, the
 origination of Allah according to which He originated mankind. There is
@@ -274,11 +242,7 @@ of life must be in line with the will of God and they must somehow
 assume a form of worship [*‘ibadah*] so that the sublime and lofty goal
 of human creation can be realized:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ﴾
-  </p>
-</blockquote>
+> ﴿وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ﴾
 
 ***“I did not create the jinn and humans except that they may worship
 Me.”***[^16]
@@ -302,24 +266,16 @@ lives, and those who observe only a portion of the laws are not on equal
 footing. Also, religiosity and faith has basically different levels and
 can grow and be perfect. As the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدىً وَآتَاهُمْ تَقْواهُمْ﴾
-  </p>
-</blockquote>
+> ﴿وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدىً وَآتَاهُمْ تَقْواهُمْ﴾
 
 ***“As for those who are [rightly] guided, He enhances their guidance,
 and invests them with their God-wariness.”***[^17]
 
 Elsewhere, it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللّهُ وَجِلَتْ
-قُلُوبُهُمْ وَ إِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ
-إِيمَانًا﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللّهُ وَجِلَتْ
+> قُلُوبُهُمْ وَ إِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ
+> إِيمَانًا﴾
 
 ***“The faithful are only those whose hearts tremble [with awe] when
 Allah is mentioned, and when His signs are recited to them, they
@@ -337,13 +293,9 @@ to the doubts will lead willy-nilly to misguidance of those who do not
 possess the ability to assess and study matters. In this regard, the
 Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الكِتَابِ إِذَا سَمِعْتُمْ آيَاتِ
-اللّهِ يُكَْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلاَ تَقْعُدُوا مَعَهُمْ
-حَتَّى يَخُوضُواْ فِي حَدِيثٍ غَيْرِهِ إِنَّكُمْ إِذاً مِثْلُهُمْ﴾
-  </p>
-</blockquote>
+> ﴿وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الكِتَابِ إِذَا سَمِعْتُمْ آيَاتِ
+> اللّهِ يُكَْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلاَ تَقْعُدُوا مَعَهُمْ
+> حَتَّى يَخُوضُواْ فِي حَدِيثٍ غَيْرِهِ إِنَّكُمْ إِذاً مِثْلُهُمْ﴾
 
 ***“Certainly He has sent down to you in the Book that when you hear
 Allah’s signs being disbelieved and derided, do not sit with them until
@@ -421,5 +373,4 @@ to the judge and competent jurist. [Trans.]
 [^18]: Surah al-Anfal 8:2.
 
 [^19]: Surah an-Nisa’ 4:140.
-
 

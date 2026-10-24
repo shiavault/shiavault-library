@@ -14,4 +14,3 @@ Tuesday in Saudi Arabia, and on Wednesday in Bombay.
 book Fiqh al-'Imam Jafar al-Sadiq (\`a), the section on the proof of the
 new moon at the end of section on fasting bab al-sawm.
 
-

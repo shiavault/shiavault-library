@@ -14,15 +14,11 @@ Therefore killing a person is not considered assault on a man's life,
 but a murder and assault on the reality of humanity and fading away
 viciousness and indecency of murder.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ
-وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَنْ يُقَتَّلُوا أَوْ يُصَلَّبُوا
-أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُمْ مِنْ خِلَافٍ أَوْ يُنْفَوْا
-مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي
-الْآخِرَةِ عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ
+> وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَنْ يُقَتَّلُوا أَوْ يُصَلَّبُوا
+> أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُمْ مِنْ خِلَافٍ أَوْ يُنْفَوْا
+> مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي
+> الْآخِرَةِ عَذَابٌ عَظِيمٌ
 
 ***Because of that, we decreed upon the Children of Israel that whoever
 kills a soul unless for a soul or for corruption [done] in the land - it
@@ -63,5 +59,4 @@ hell.”[^4]
 [^3]: Kanz al- Ummal, vol. 15, page 19.
 
 [^4]: Kanz al- Ummal, Vol.4, P.366.
-
 

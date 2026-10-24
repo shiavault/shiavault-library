@@ -171,4 +171,3 @@ believe in him and accept him as his or her true legitimate Imam!”
 **Dey 9th, 1387**  
 **December 29th, 2008**
 
-

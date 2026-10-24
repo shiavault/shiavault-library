@@ -41,10 +41,8 @@ them in performing their roles. Those are “Al-Rasikhoon fil Ilm” (those
 versed in knowledge) whom Allah (SWT) mentioned in the Quran. And they
 are also those whom Allah (SWT) said about them:
 
-<p dir="rtl">
 وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىٰ أُولِي الْأَمْرِ مِنْهُمْ
 لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ.
-</p>
 
 ***“ And if they had referred it to the Messenger and to those in
 authority among them, those among them who can search out the knowledge
@@ -66,5 +64,4 @@ desires, lack of knowledge, oppression , arrogance , benefits ,
 stupidity , ignorance , foolishness , laziness , hypocrisy, Miraaa
 (showing off), stubbornness , deception , forgery , hastiness , negative
 thinking or due to presence of doubt or apostasy and polytheism.
-
 

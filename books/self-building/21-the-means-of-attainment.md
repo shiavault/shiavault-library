@@ -30,45 +30,29 @@ to all the creatures, even is nearer to man than his jugular vein. The
 Qur’anic verses and traditions have explain this in detail. Following
 are some examples:
 
-<blockquote dir="rtl">
-  <p>
-فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ وَلِلَّهِ الْمَشْرِقُ
-وَالْمَغْرِبُ
-  </p>
-</blockquote>
+> فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ وَلِلَّهِ الْمَشْرِقُ
+> وَالْمَغْرِبُ
 
 ***“To God belong the east and the west: Withersoever ye turn, there is
 the presence of God. (2:115)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ
-بَصِيرٌ
-  </p>
-</blockquote>
+> وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ
+> بَصِيرٌ
 
 ***“And He is with you wheresoever ye may be. And God sees well as that
 ye do. (57: 4)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ وَنَحْنُ
-  </p>
-</blockquote>
+> أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ وَنَحْنُ
 
 ***“We are nearer to him than (his) jugular vein. (50:16)***
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
 
 ***“For God is witness of all things. (22:17)***
 
@@ -112,11 +96,7 @@ discover the Infinite Grandeur, Majesty, Wisdom, and Knowledge of the
 Creator and, thus, becomes astonished and fascinated crying from the
 inner depths of this heart:
 
-<blockquote dir="rtl">
-  <p>
-هَٰذَا بَاطِلًا رَبَّنَا مَا خَلَقْتَ
-  </p>
-</blockquote>
+> هَٰذَا بَاطِلًا رَبَّنَا مَا خَلَقْتَ
 
 ***“Our Lord! Thou createdst not this in vain. (3:191)***
 
@@ -137,12 +117,8 @@ It is True that belief, enlightenment and the words of purity
 (Monotheism) ascend towards Him, but in this movement they are assisted
 by the righteous deeds. God-Almighty said in Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
-يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
-  </p>
-</blockquote>
+> مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ
+> يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
 
 ***“Whoso desireth power (should knew that) all power belongth to God.
 Unto Him good words ascend, and the pious deed doth He exalt. (35:10)***
@@ -155,11 +131,7 @@ towards Upper Heavens, but without the assistance of righteous deeds a
 human being crashes like an airplane without fuel. God-Almighty said in
 the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ
-  </p>
-</blockquote>
+> وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ
 
 ***“And serve thy Lord till the inevitable cometh into thee. (15:99)***
 
@@ -180,13 +152,9 @@ whose recital earns a special reward. Invocation in Islam is considered
 as a type of worship which helps one to achieve self-perfection and
 God's Nearness. For example The Holy Prophet (S) had said:
 
-<blockquote dir="rtl">
-  <p>
-عن ابى سلام قال: سمعت رسول الله صلى الله عليه وآله يقول: خمس ما اثقلن
-في الميزان سبحان الله, والحمدلله, ولا إله الا الله, والله اكبر والولد
-الصالح يتوفى لمسلم فيصبر ويحتسب.
-  </p>
-</blockquote>
+> عن ابى سلام قال: سمعت رسول الله صلى الله عليه وآله يقول: خمس ما اثقلن
+> في الميزان سبحان الله, والحمدلله, ولا إله الا الله, والله اكبر والولد
+> الصالح يتوفى لمسلم فيصبر ويحتسب.
 
 *“There are five things which makes a human being's deeds heavier: Glory
 to God (Subhan Allahi), All praises belong to God (AlhamduLillahi),
@@ -196,15 +164,11 @@ offspring.”*[^2]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: لما اسرى بى الى السما دخلت الجنة
-فرايت علاقة يبنون لبنة من ذهب ولبنت من فضة وربما امسكوا فقلت لهم: ما
-لكم ربما بنيتم وربما امسكتم؟ فقالوا حتى نجيئنا النفقة فقلت لهم: وما
-نفقتكم؟ فقالوا: قول المؤمن فى الدنيا: سبحان الله, والحمدلله, ولا إله
-الا الله, والله اكبر. فاذا -- قال بنينا واذا امسك امسكنا.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: لما اسرى بى الى السما دخلت الجنة
+> فرايت علاقة يبنون لبنة من ذهب ولبنت من فضة وربما امسكوا فقلت لهم: ما
+> لكم ربما بنيتم وربما امسكتم؟ فقالوا حتى نجيئنا النفقة فقلت لهم: وما
+> نفقتكم؟ فقالوا: قول المؤمن فى الدنيا: سبحان الله, والحمدلله, ولا إله
+> الا الله, والله اكبر. فاذا -- قال بنينا واذا امسك امسكنا.
 
 *“When on the Night of-Ascent (Mairaj) I was taken into the paradise I
 saw the angels busy in building the palaces of silver and gold but
@@ -221,17 +185,13 @@ terminate the work.” Replied the angels.”*[^3]
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: من قال سبحان الله غرس الله له بها
-شجرة في الجنة ومن قال الحمد لله غرس الله له بها شجرة في الجنة ومن قال:
-لا إله إلا الله غرس الله له بها شجرة في الجنة ومن قال: الله أكبر غرس
-الله له بها شجرة في الجنة: فقال رجل من قريش: يا رسول الله! ان شجرنا في
-الجنة لكثير. قال: نعم. ولكن إياكم أن ترسلوا عليها نيرانا فتحرقوها.
-وذلك أن الله عز وجل يقول: يا أيها الذين آمنوا أطيعوا الله وأطيعوا
-الرسول ولا تبطلوا أعمالكم.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: من قال سبحان الله غرس الله له بها
+> شجرة في الجنة ومن قال الحمد لله غرس الله له بها شجرة في الجنة ومن قال:
+> لا إله إلا الله غرس الله له بها شجرة في الجنة ومن قال: الله أكبر غرس
+> الله له بها شجرة في الجنة: فقال رجل من قريش: يا رسول الله! ان شجرنا في
+> الجنة لكثير. قال: نعم. ولكن إياكم أن ترسلوا عليها نيرانا فتحرقوها.
+> وذلك أن الله عز وجل يقول: يا أيها الذين آمنوا أطيعوا الله وأطيعوا
+> الرسول ولا تبطلوا أعمالكم.
 
 *“Whoever recites: “Glory to God”, a tree is planted for him in the
 Paradise, similarly God-Almighty orders plantation of a tree for a
@@ -251,143 +211,87 @@ God-Almighty -is called invocation (*dhikr*). But traditions have
 prescribed special invocations whose recital brings special rewards.
 Some of the important invocations are as follows:
 
-<blockquote dir="rtl">
-  <p>
-لا اله الا الله.
-  </p>
-</blockquote>
+> لا اله الا الله.
 
 (La ilahi illallahu)
 
 *“There is no god but God.”*
 
-<blockquote dir="rtl">
-  <p>
-سبحان الله.
-  </p>
-</blockquote>
+> سبحان الله.
 
 (Subhan allahi)
 
 *“Glory to God”*
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله.
-  </p>
-</blockquote>
+> الحمد لله.
 
 (Al hamdu lillahi)
 
 *“All praises belong to God.”*
 
-<blockquote dir="rtl">
-  <p>
-لا حول ولا قوة الا بالله.
-  </p>
-</blockquote>
+> لا حول ولا قوة الا بالله.
 
 (La hol wala quwwateh illa billah)
 
 *“There is no power except God-Almighty.”*
 
-<blockquote dir="rtl">
-  <p>
-حسبنا الله ونعم الوكيل.
-  </p>
-</blockquote>
+> حسبنا الله ونعم الوكيل.
 
 (Hasbanallahi wa nemal wakil)
 
 *“God is sufficient and He the best defence.”*
 
-<blockquote dir="rtl">
-  <p>
-لا اله الا الله سبحانك انى كنت من الظالمين.
-  </p>
-</blockquote>
+> لا اله الا الله سبحانك انى كنت من الظالمين.
 
 (La illahi illallahu subhanak inni kuntu min al zalimin)
 
 *“There is no God save Thee. Be thou Glorified. Lo! I have been a wrong
 Doer.”*
 
-<blockquote dir="rtl">
-  <p>
-يا حى يا قيوم يا من لا اله الا انت.
-  </p>
-</blockquote>
+> يا حى يا قيوم يا من لا اله الا انت.
 
 (Ya hayyu ya qayoom ya min la ilahi illa unt)
 
 *“Oh Self-Existent, Eternal these is no God except Thee.”*
 
-<blockquote dir="rtl">
-  <p>
-افوض امرى الى الله ان الله بصير بالعباد.
-  </p>
-</blockquote>
+> افوض امرى الى الله ان الله بصير بالعباد.
 
 (Afwaz amri illallahi innalahi basir bil ibad)
 
 *“Leave the affairs to God, He is aware and knowledgeable about His
 servants.”*
 
-<blockquote dir="rtl">
-  <p>
-لا حول ولا قوة الا بالله العلى العظيم.
-  </p>
-</blockquote>
+> لا حول ولا قوة الا بالله العلى العظيم.
 
 (La howlwala quwwateh illa billah il ‘Ali ul azim)
 
 *“There is no power except God the Exalted.”*
 
-<blockquote dir="rtl">
-  <p>
-يا الله.
-  </p>
-</blockquote>
+> يا الله.
 
 (Ya Allah)
 
 *“Oh! God.”*
 
-<blockquote dir="rtl">
-  <p>
-يا رب.
-  </p>
-</blockquote>
+> يا رب.
 
 (Ya Rab)
 
 *“Oh! Lord!”*
 
-<blockquote dir="rtl">
-  <p>
-يا رحمان.
-  </p>
-</blockquote>
+> يا رحمان.
 
 (Ya Rahman)
 
 *“Oh! Merciful!”*
 
-<blockquote dir="rtl">
-  <p>
-يا ارحم الراحمين.
-  </p>
-</blockquote>
+> يا ارحم الراحمين.
 
 (Ya arhamar rahimin)
 
 *“Oh! The Merciful and Compassionate.”*
 
-<blockquote dir="rtl">
-  <p>
-يا ذا الجلال والكرام.
-  </p>
-</blockquote>
+> يا ذا الجلال والكرام.
 
 (Ya zul jalale wal Ikram)
 
@@ -395,11 +299,7 @@ servants.”*
 
 (Ya ghani ya mughni)
 
-<blockquote dir="rtl">
-  <p>
-يا غنى يا مغنى...
-  </p>
-</blockquote>
+> يا غنى يا مغنى...
 
 *“Oh! Thou Who is free from needs, and oh! Thou Who is the Granter of
 our needs.”*
@@ -421,22 +321,14 @@ invocation: “there is no god but God “ “ (La ilahi illallahu) “
 possesses distinction over other invocations. The Holy Prophet (S) had
 said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: خير العبادة قول لا اله الا الله.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: خير العبادة قول لا اله الا الله.
 
 *“The best worships are the recital of invocation ‘there is no god but
 God.’”*[^5]
 
 And said:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله صلى الله عليه وآله: سيد القول لا اله الا الله.
-  </p>
-</blockquote>
+> قال رسول الله صلى الله عليه وآله: سيد القول لا اله الا الله.
 
 *“The phrase -”there is no god but God “ -is the chief and most
 distinguished among all other phrases of invocations.”*[^6]
@@ -444,12 +336,8 @@ distinguished among all other phrases of invocations.”*[^6]
 The Holy Prophet (S) had narrated from Arch Angel Gabriel that
 God-Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-عن النبى صلى الله عليه وآله عن جبرئيل قال الله عز وجل: كلمة لا اله الا
-الله حصنى فمن دخل حصنى امن من عذابى.
-  </p>
-</blockquote>
+> عن النبى صلى الله عليه وآله عن جبرئيل قال الله عز وجل: كلمة لا اله الا
+> الله حصنى فمن دخل حصنى امن من عذابى.
 
 *“The phrase -There is no god but God -is the most stable shelter of
 Mine. Whoever entered in it shall be immune from My Punishment”*[^7]
@@ -549,5 +437,4 @@ Ayatullah Sayyed ' ‘Ali Khamenei, pp-45, 46 [Tr].
 [^6]: Bihar al-Anwar, vol. 93, p-204.
 
 [^7]: Bihar al-Anwar, vol. 93 p-192.
-
 

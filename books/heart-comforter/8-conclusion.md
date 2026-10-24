@@ -178,4 +178,3 @@ progeny and companions.
 [^1]: Iqbal Al-A'mal, p. 578 with minor wording difference. It is also
 cited in Bihar Al-Anwar, Vol. 82, p. 145 from Musakkin Al-Fuad.
 
-

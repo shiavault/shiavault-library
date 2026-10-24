@@ -815,4 +815,3 @@ traditionist and scribe, adding that he was Ibn Wida’ah’s scribe and was
 known as al–Wida’i. He was born in 640 and died in 716 A.H. Ibn Shakir
 also stated that al–Kindi was a Shi'ah and so did al–Safadi.
 
-

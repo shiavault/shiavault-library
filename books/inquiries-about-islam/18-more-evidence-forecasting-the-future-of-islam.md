@@ -111,4 +111,3 @@ when we will plant our standard on the white castles of Babylon.”***[^1]
 
 [^1]: Life of Muhammad by Washington Irving, chapter 32.
 
-

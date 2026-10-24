@@ -39,4 +39,3 @@ the owner.
 for him to return the unlawfully obtained property to its rightful
 owner.
 
-

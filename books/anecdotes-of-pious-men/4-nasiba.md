@@ -115,4 +115,3 @@ Ali turned to the woman and told her to go in the house and cautioned
 her not to behave in such a manner that her husband had to be angry
 again.
 
-

@@ -111,7 +111,6 @@ under a common surname. When a similarity of names exists in a local
 community, one child is then distinguished from the other by a
 nickname.
 
-
 **22- Disciplinarian Parents on the Wrong Footing**
 
 Arguments between father and son are not uncommon in a family. However,
@@ -202,5 +201,4 @@ that is when the disciplinarian parents are on the right footing with
 their disciplining to earn the child' respect and not hatred!
 
 To each of us, childhood isn't a matter of moments but memories. , '
-
 

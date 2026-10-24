@@ -69,24 +69,12 @@ example of his decisions in this respect:
 The Holy Prophet (S) dispatched Rafa‘ah ibn Zayd as his representative
 to the tribe of Khwaysh and wrote the following letter:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-هذا كتاب من محمد سول الله لفاعة بن زيد ، إني بعثته إلى قوم عامة و من
-دخل فيهم يدعوهم إلى الله وإلى
-  </p>
-</blockquote>
+> هذا كتاب من محمد سول الله لفاعة بن زيد ، إني بعثته إلى قوم عامة و من
+> دخل فيهم يدعوهم إلى الله وإلى
 
-<blockquote dir="rtl">
-  <p>
-رسوله فمن أقبل منهم ففي حزب الله وحزب رسوله ومن أدبر فله أمان شهرين.
-  </p>
-</blockquote>
+> رسوله فمن أقبل منهم ففي حزب الله وحزب رسوله ومن أدبر فله أمان شهرين.
 
 *In the Name of Allah, the All-beneficent, the All-merciful*
 
@@ -121,12 +109,8 @@ Here are some examples:
 
 In his book, *Al-Ahkam as-Sultaniyyah*, Abu’l-Hasan al-Mawardi says:
 
-<blockquote dir="rtl">
-  <p>
-"الإمامة موضوعة لخلافة النبوة في حراسة والدين سياسة الدنيا عقدها لمن
-يقوم بها في الأمة واجب بالأجماع."
-  </p>
-</blockquote>
+> "الإمامة موضوعة لخلافة النبوة في حراسة والدين سياسة الدنيا عقدها لمن
+> يقوم بها في الأمة واجب بالأجماع."
 
 *Imamah* has been laid to succeed the prophethood {*nubuwwah*} and to
 safeguard the religion and manage the affairs of this world, and
@@ -138,12 +122,8 @@ as-Sunnah, presents both rational and religious proofs to support this
 idea.  
  The following is his rational proof:
 
-<blockquote dir="rtl">
-  <p>
-"لما في طباع العقلاء من التسليم لزعيم يمنعهم من التظالم ويفصل بينهم في
-التنازع والتخاصم ولولا الولاة لكانوا فوضب مهملين وهمجاً مضاعين."
-  </p>
-</blockquote>
+> "لما في طباع العقلاء من التسليم لزعيم يمنعهم من التظالم ويفصل بينهم في
+> التنازع والتخاصم ولولا الولاة لكانوا فوضب مهملين وهمجاً مضاعين."
 
 It is the nature of wise peple to follow a leader so that he may prevent
 them from oppressing one another and settle their problems at the time
@@ -151,19 +131,11 @@ of dispute. And if it were not for the rulers, the people would have
 live in chaos like lose savages.[^5]  
  His religious proof is as follows:
 
-<blockquote dir="rtl">
-  <p>
-ولكن جاء الشرع بتفويض الأمور إلى وليّه في ، الدين قال الله عز وجل:
-يأيها الذين ءامنوا أطيعوا الله
-  </p>
-</blockquote>
+> ولكن جاء الشرع بتفويض الأمور إلى وليّه في ، الدين قال الله عز وجل:
+> يأيها الذين ءامنوا أطيعوا الله
 
-<blockquote dir="rtl">
-  <p>
-وأطيعوا الرسول وأولي الأمر منكم. ففرض علينا طاعة أولي الأمر فينا هم
-الأئمة المتامرن علينا.
-  </p>
-</blockquote>
+> وأطيعوا الرسول وأولي الأمر منكم. ففرض علينا طاعة أولي الأمر فينا هم
+> الأئمة المتامرن علينا.
 
 But religious law is intended to entrust the affairs to a religious
 authority. God, the Honorable and Glorious, says: *‘O you who have
@@ -177,15 +149,11 @@ attributed to Imam ‘Ali ibn Musa ar-Rida (*‘a*). This sublime narration
 includes the Imam’s words regarding the necessity of establishing a
 government. Below is an excerpt from his speech:
 
-<blockquote dir="rtl">
-  <p>
-"إنا لا نجد فرقة من الفرق ولا ملة من الملل وبقوا عاشوا إلا بقيم ورئيس
-لما لا بد لهم منه من أمر والدين والدنيا فلم يجز في حكمة الحكيم أن يترك
-الخلق لما يعلم أنه لا بد لهم منه ولا قوم لهم إلا به فيقاتلون به عدوّهم
-ويقسمون به فيئهم ويقيمون به وجمعتهم وجماعتهم ويمنع طالمنهم من
-مظلومهم."
-  </p>
-</blockquote>
+> "إنا لا نجد فرقة من الفرق ولا ملة من الملل وبقوا عاشوا إلا بقيم ورئيس
+> لما لا بد لهم منه من أمر والدين والدنيا فلم يجز في حكمة الحكيم أن يترك
+> الخلق لما يعلم أنه لا بد لهم منه ولا قوم لهم إلا به فيقاتلون به عدوّهم
+> ويقسمون به فيئهم ويقيمون به وجمعتهم وجماعتهم ويمنع طالمنهم من
+> مظلومهم."
 
 We do not find any group or community that has been able to survive
 without a ruler and leader because they need a ruler for managing both
@@ -263,5 +231,4 @@ crime is not specified by the sacred law, it is called ta‘zir and its
 limit is entirely determined by the judge and competent jurist. See
 Shahid ath-Thani, Sharh al-Lum‘ah, “Kitab al-Hudud wa’t-Ta‘zirat”;
 Muhaqqiq al-Hilli, Kitab al-Hudud wa’t-Ta‘zirat. {Trans.}
-
 

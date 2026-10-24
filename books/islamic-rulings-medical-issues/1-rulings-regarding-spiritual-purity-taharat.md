@@ -102,4 +102,3 @@ in a cast?
 
 Answer: He must perform the jabīrah ghusl.
 
-

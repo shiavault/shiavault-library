@@ -13,11 +13,7 @@ not take upon yourself more than what is enough for you, and exert all
 your efforts for that which will save you.
 
 > 2ـ لاتَشْتَغِلْ بِما لايَعْنيكَ، ولاتتَكَلَّفْ فَوْقَ ما يَكْفِيكَ،
-<blockquote dir="rtl">
-  <p>
-واجْعَلْ كُلَّ هَمِّكَ لِما يُنْجيكَ.
-  </p>
-</blockquote>
+> واجْعَلْ كُلَّ هَمِّكَ لِما يُنْجيكَ.
 
 3. Leave aside that which does not concern you and busy yourself with
 the important work that will save you [in the Hereafter].
@@ -28,11 +24,7 @@ the important work that will save you [in the Hereafter].
 concern him and exerts all his efforts for that which will save him.
 
 > 4ـ طُوبى لِمَنْ قَصَّرَ هِمَّتَهُ عَلى ما يَعْنيهِ، وجَعَلَ كُلَّ
-<blockquote dir="rtl">
-  <p>
-جِدِّهِ لِما يُنْجيهِ.
-  </p>
-</blockquote>
+> جِدِّهِ لِما يُنْجيهِ.
 
 5. One who discards that which is of concern to him falls into that
 which does not concern him.
@@ -43,11 +35,7 @@ which does not concern him.
 has indeed made himself liable to dispraise.
 
 > 6ـ مَنْ أطالَ الحَديثَ فيما لايَنْبَغي فَقَدْ عَرَّضَ نَفْسَهُ
-<blockquote dir="rtl">
-  <p>
-لِلْمَلامَةِ.
-  </p>
-</blockquote>
+> لِلْمَلامَةِ.
 
 7. The greatest inconvenience is troubling yourself with that which does
 not concern you.
@@ -63,5 +51,4 @@ that which is important to him.
 him to lose [what is more to] his benefit.
 
 > 9ـ مَنِ اشْتَغَلَ بِغَيْرِ ضَرُورَتِهِ فَوَّتَهُ ذلِكَ مَنْفَعَتَهُ.
-
 

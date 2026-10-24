@@ -309,4 +309,3 @@ acquaint us with the comprehensiveness of Islam, to make us
 whole-hearted Muslims, grant us pure intentions, forgive our sins in
 these precious nights, and grant salvation to our deceased ones.
 
-

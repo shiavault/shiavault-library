@@ -15,11 +15,7 @@ leads to eternal damnation, is not faith in anything. From the viewpoint
 of the Book and the *Sunnah*, the jurisdiction of faith in the first
 degree is faith in God and the Messenger:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ
-  </p>
-</blockquote>
+> إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ
 
 >
 
@@ -131,16 +127,12 @@ gentlemen, interpret by himself while the Qur’an says that if he
 attributes to God even a letter, word, or verse, “*We shall cut off his
 aorta and no one can hinder Us from doing so*:”
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ
-قَلِيلًا مَا تُؤْمِنُونَ وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا
-تَذَكَّرُونَ  تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ وَلَوْ تَقَوَّلَ
-عَلَيْنَا بَعْضَ الْأَقَاوِيلِ لَأَخَذْنَا مِنْهُ بِالْيَمِينِ ثُمَّ
-لَقَطَعْنَا مِنْهُ الْوَتِينَ فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ
-حَاجِزِينَ
-  </p>
-</blockquote>
+> إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ
+> قَلِيلًا مَا تُؤْمِنُونَ وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا
+> تَذَكَّرُونَ  تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ وَلَوْ تَقَوَّلَ
+> عَلَيْنَا بَعْضَ الْأَقَاوِيلِ لَأَخَذْنَا مِنْهُ بِالْيَمِينِ ثُمَّ
+> لَقَطَعْنَا مِنْهُ الْوَتِينَ فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ
+> حَاجِزِينَ
 
 ***It is indeed the speech of a noble apostle, and it is not the speech
 of a poet. Little is the faith that you have! Nor is it the speech of a
@@ -224,21 +216,13 @@ mention only one or two cases.
 One of these cases is the issue of seven heavens which has been
 mentioned in numerous verses of the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ
-  </p>
-</blockquote>
+> تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ
 
 ***“The seven heavens glorify Him*** **(17:44)*****”***
 
 and
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا
 
 ***“He created seven heavens in layers.*** **(67:3)*****”***
 
@@ -267,22 +251,14 @@ justification cannot be true.
 In reply, they say, “Apart from the seven heavens, the Qur’an has also
 made mention of another thing called “Throne” [*‘arsh*]:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَنْ رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ
-  </p>
-</blockquote>
+> قُلْ مَنْ رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ
 
 ***Say, ‘Who is the Lord of the seven heavens and the Lord of the Great
 Throne? (23:86)***
 
 Similarly, it has mentioned another thing called “seat” [*kursi*]:
 
-<blockquote dir="rtl">
-  <p>
-وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ
-  </p>
-</blockquote>
+> وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ
 
 ***His seat embraces the heavens and the earth. (2:255)***
 
@@ -353,24 +329,16 @@ in both places, it uses the expression *yasbahun* (swimming) in
 referring to the movement of the stars. In *Surah al-Anbiya’*, it
 states:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ
-كُلٌّ فِي فَلَكٍ يَسْبَحُونَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ
+> كُلٌّ فِي فَلَكٍ يَسْبَحُونَ
 
 ***It is He who created the night and the day, the sun and the moon,
 each swimming in an orbit. (21:33)***
 
 It also says in *Surah Ya Sin*:
 
-<blockquote dir="rtl">
-  <p>
-لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ
-سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
-  </p>
-</blockquote>
+> لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ
+> سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
 
 ***Neither it behooves the sun to overtake the moon, nor may the night
 outrun the day, and each swims in an orbit. (36:40)***
@@ -405,23 +373,15 @@ it has not again said “seven spheres,” but it used the expression “seven
 heavens.” Besides, concerning the heavens which it has mentioned, in one
 place it states thus:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ
-  </p>
-</blockquote>
+> إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ
 
 ***Indeed We have adorned the lowest heaven with the finery of the
 stars. (37:6)***
 
 In another place, it says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا
-رُجُومًا لِلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ
-  </p>
-</blockquote>
+> وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا
+> رُجُومًا لِلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ
 
 ***We have certainly adorned the lowest heaven with lamps. (67:5)***
 
@@ -539,13 +499,9 @@ breathed into them a spirit and they became living birds. This was one
 of the miracles and signs that he performed to prove his apostleship. In
 this regard, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي
-فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ
-وَالْأَبْرَصَ بِإِذْنِي
-  </p>
-</blockquote>
+> وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي
+> فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ
+> وَالْأَبْرَصَ بِإِذْنِي
 
 ***And when you would create from clay the form of a bird, with My
 leave, and you would breathe into it and it would become a bird, with My
@@ -646,12 +602,8 @@ Like any other language, such words and proverbs are found in the Arabic
 language some of which have been used in the Qur’an. For example, in
 *Surah al-Baqarah*, we read:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ
-الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ
-  </p>
-</blockquote>
+> الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ
+> الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ
 
 ***Those who exact usury will not stand but like one deranged by the
 Devil’s touch. (2:275)***
@@ -726,11 +678,7 @@ the people understand a point, uses the same common and well-known
 proverb among them without concern for the negation or affirmation of
 its origin. When the Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ
 
 ***“Do not be like her who would undo her yarn, breaking it up after
 [spinning it to] strength,*** **(16:92)*****”***
@@ -956,5 +904,4 @@ vein, it cannot be concluded from the terms *junun* and *majnun* that
 insanity is the result of the touch of jinn and devils; rather, it is a
 word set for the concept of insane in Arabic and the Qur’an which is
 also in Arabic has used it.
-
 

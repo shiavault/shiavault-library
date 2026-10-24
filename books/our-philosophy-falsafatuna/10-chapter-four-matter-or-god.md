@@ -1465,4 +1465,3 @@ but it is obvious that here it is used in the sense indicated above.
 
 [^26]: Al-Quran, XLI, 58.
 
-

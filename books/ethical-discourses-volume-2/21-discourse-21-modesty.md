@@ -1,13 +1,9 @@
 Discourse 21: Modesty
 =====================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ: مَا الْمُجَاهِدُ الشَّهِيدُ فِي
-سَـبِيلِ اللٌّهِ بِأَعْظَمِ أَجْراً مِمَّنْ قَدَرَ فَعَفَّ لَكَادَ
-الْعَفِيفُ أَنْ يَكُونَ مَلِكاً مِنَ الْمَلاَئِكَةِ.
-  </p>
-</blockquote>
+> قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ: مَا الْمُجَاهِدُ الشَّهِيدُ فِي
+> سَـبِيلِ اللٌّهِ بِأَعْظَمِ أَجْراً مِمَّنْ قَدَرَ فَعَفَّ لَكَادَ
+> الْعَفِيفُ أَنْ يَكُونَ مَلِكاً مِنَ الْمَلاَئِكَةِ.
 
 It has been narrated that the Commander of the Faithful, ‘Ali b. Abi
 Talib (as) said, “The reward given to the Mujahid (soldier) who dies in
@@ -21,12 +17,8 @@ there is no status greater than this. In addition, the verses of the
 Qur\`an present a visage of the martyrs which has not been presented for
 any other person:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ تَحْسَبَنَّ الَّذِينَ قُـتِلُوا فِي سَبِيلِ اللٌّهِ أَمْوَاتاً
-بَلْ أَحْـيَآءٌ عِنْدَ رَبِّـهِمْ يُرْزَقُونَ
-  </p>
-</blockquote>
+> وَ لاَ تَحْسَبَنَّ الَّذِينَ قُـتِلُوا فِي سَبِيلِ اللٌّهِ أَمْوَاتاً
+> بَلْ أَحْـيَآءٌ عِنْدَ رَبِّـهِمْ يُرْزَقُونَ
 
 “Do not consider those who have been killed in the way of Allah as being
 dead; rather, they are alive in the presence of their Lord receiving
@@ -39,12 +31,8 @@ person in the Qur\`an!
 The martyrs are also given great importance in the traditions. The late
 Shaykh Kulayni has narrated that the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-فَوْقَ كُلِّ ذِي بِرِّ بِرٌّ حَتَّى يُقْتَلِ الرَّجُلُ فِي سَبِيلِ
-اللٌّهِ. فَإِذَا قُتِلَ فِي سَبِيلِ اللٌّهِ فَلَيْسَ فَوْقِهِ بِرٌّ.
-  </p>
-</blockquote>
+> فَوْقَ كُلِّ ذِي بِرِّ بِرٌّ حَتَّى يُقْتَلِ الرَّجُلُ فِي سَبِيلِ
+> اللٌّهِ. فَإِذَا قُتِلَ فِي سَبِيلِ اللٌّهِ فَلَيْسَ فَوْقِهِ بِرٌّ.
 
 “Above every goodness is (another) goodness, until that time that a
 person is killed in the way of Allah. So then when he is killed in the
@@ -53,12 +41,8 @@ way of Allah, then there is no other goodness greater than this.”[^3]
 There is also a statement given by our master ‘Ali b. Abi Talib (as) in
 the letter he wrote to Malik al-Ashtar in which he stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنَا أَسْئَلُ اللٌّهَ بِسَعَةِ رَحْمَتِهِ وَ بِعَظِيمِ قُدْرَتِهِ
-أَنْ يَخْتِمَ لِي وَ لَكَ بِالسَّعَادَةِ وَ الشَّهَادَةِ.
-  </p>
-</blockquote>
+> وَ أَنَا أَسْئَلُ اللٌّهَ بِسَعَةِ رَحْمَتِهِ وَ بِعَظِيمِ قُدْرَتِهِ
+> أَنْ يَخْتِمَ لِي وَ لَكَ بِالسَّعَادَةِ وَ الشَّهَادَةِ.
 
 “And I ask Allah by the great expanse of His Mercy and by the greatness
 of His power that he makes my and your end felicitious and (to be
@@ -79,28 +63,16 @@ definition, we get a much wider and general understanding of the word.
 Any time a person dies while fulfilling his responsibility, he is
 considered as a martyr. For example:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ.
-  </p>
-</blockquote>
+> مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ.
 
 “The person who dies without his wealth is a martyr.”
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ فِي طَلَبِ الْعِلْمِ مَاتَ شَهِيداً.
-  </p>
-</blockquote>
+> مَنْ مَاتَ فِي طَلَبِ الْعِلْمِ مَاتَ شَهِيداً.
 
 “The person who dies in the state of seeking knowledge dies a martyr.”
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ عَلى فِرَاشِهِ وَ هُوَ عَلى مَعْرِفَةِ حَقِّ مِنْ رَبِّهِ
-وَ حَقِّ رَسُولِهِ مَاتَ شَهِيداً.
-  </p>
-</blockquote>
+> مَنْ مَاتَ عَلى فِرَاشِهِ وَ هُوَ عَلى مَعْرِفَةِ حَقِّ مِنْ رَبِّهِ
+> وَ حَقِّ رَسُولِهِ مَاتَ شَهِيداً.
 
 “The person who dies on his bed while having cognizance of the truth
 which has come from his Lord and the truth of His Messenger, dies a
@@ -108,21 +80,13 @@ martyr.”
 
 In addition, women who die while pregnant are classified as:
 
-<blockquote dir="rtl">
-  <p>
-…مَاتَتْ شَهِيدَةً.
-  </p>
-</blockquote>
+> …مَاتَتْ شَهِيدَةً.
 
 “…she has died as a martyr.”
 
 The traditions also tell us that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ مَاتَ عَلى حُبِّ آلِ مُحَمَّدٍ مَاتَ شَهِيداً.
-  </p>
-</blockquote>
+> مَنْ مَاتَ عَلى حُبِّ آلِ مُحَمَّدٍ مَاتَ شَهِيداً.
 
 “The person who dies with the love of the family of Muhammad (S) dies a
 martyr.”  
@@ -151,13 +115,9 @@ In regards to Prophet Yusuf (as), we see that all of the necessary
 requirements for sinning were at his disposal, however he renounced sins
 and said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَـنِي إِلَيْهِ وِ
-إِلاَّ تَصْرِفْ عَـنِّي كَيْدَهُنَّ أَصُبْ إِلَيْهِنَّ وَ أَكُنْ مِنَ
-الْجَاهِلِينَ
-  </p>
-</blockquote>
+> قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَـنِي إِلَيْهِ وِ
+> إِلاَّ تَصْرِفْ عَـنِّي كَيْدَهُنَّ أَصُبْ إِلَيْهِنَّ وَ أَكُنْ مِنَ
+> الْجَاهِلِينَ
 
 “He said: 'My Lord! The prison is dearer to me than that which they (the
 women) invite me towards and if You do not turn their wicked plots away
@@ -176,12 +136,8 @@ In addition, Asiyah, the wife of the Pharaoh, had all of the material
 needs at her disposal and was able to become a polytheist and live along
 side her husband in comfort, however she too renounced sinning:
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ رَبِّ ابْنِ لِي عِنْدَكَ بَـيْتاً فِي الْجَنَّةِ وَ نَجِّـنِي
-مِنْ فِرْعَونَ وَ عَمَلِهِ…
-  </p>
-</blockquote>
+> قَالَتْ رَبِّ ابْنِ لِي عِنْدَكَ بَـيْتاً فِي الْجَنَّةِ وَ نَجِّـنِي
+> مِنْ فِرْعَونَ وَ عَمَلِهِ…
 
 “My Lord! Build for me a house with You in the garden and deliver me
 from Pharaoh and his doings…”
@@ -209,5 +165,4 @@ our society are all protected from this evil!
 [^3]: al-Kafi, vol. 2, pg. 348
 
 [^4]: Surat Yusuf (12), verse 33
-
 

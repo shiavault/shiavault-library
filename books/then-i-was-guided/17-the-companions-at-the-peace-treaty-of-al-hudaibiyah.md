@@ -107,4 +107,3 @@ their deeds if they raised their voices above his voice.
 [^1]: Sahih, Bukhari, Book of al Shurut, Chapter: Al Shurut fi al Jihad
 vol 2 p 122
 
-

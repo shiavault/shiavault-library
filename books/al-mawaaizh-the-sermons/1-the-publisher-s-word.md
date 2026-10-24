@@ -467,4 +467,3 @@ and the searcher to benefit by them.
 
 In the end of each book, he attached a number of useful indexes.
 
-

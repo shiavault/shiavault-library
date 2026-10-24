@@ -36,4 +36,3 @@ It is impossible to fix any limits to His attributes. This list is not
 exhaustive but is essential to understand the Glory of Allah. The
 attributes are not acquired but inherent in the conception of Divinity.
 
-

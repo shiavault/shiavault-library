@@ -691,4 +691,3 @@ al-Hadid's Sharh Nahj al-Balaghah 9: 238.
 [^28]: - Al-Luhuf fi Qatla al-Tufuf pg: 17-18; Al-Khwarizmi’s Maqtal
 al-Husayn (a.s) 1: 184; Bihar al-Anwar 44: 325.
 
-

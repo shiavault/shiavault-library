@@ -90,7 +90,6 @@ itself, how can they justify his testimony not to form part of it? Based
 on the above evidence, the argument of the people and their Mujtahid
 Imams does not make sense to me.
 
-
 **The Adhaan Today**
 
 And so we take a look at the Adhaan that we have been given today as
@@ -138,7 +137,6 @@ them. Yet, they cannot avoid the overwhelming evidence against their
 rulings and so they have made it a recommendation, but OUTSIDE the
 Adhaan.
 
-
 **CONCLUSION**
 
 Let us now look at these two Hadeeth once again for the conclusion. AL
@@ -152,5 +150,4 @@ immediately say Ali is the Commander of the Faithful'.
 
 Can you give me a reason to let go of the Firmest Handle in the matter
 of Adhaan? I rest my case.
-
 

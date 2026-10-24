@@ -56,7 +56,6 @@ Volume II- contained the simple drugs arranged alphabetically.
 Volume III- described localized diseases of the body from the head to
 the toes.
 
-
 Volume IV- was addressed to generalized diseases of the body e.g.
 fevers.
 
@@ -82,7 +81,6 @@ a unique phenomenon, not only because of this encyclopedic
 accomplishments in medicine, but also because of the versatility of his
 genius. He has been compared in this respect with Aristotle, Leonardo da
 Vinci, and Goethe. (Keys 1971).
-
 
 **Ibn-Rushd (AVERROES) 1126-1198 A.D.** Ibn-Rashid, or Averroes as
 known in Europe, was born in Granada in 1126 A.D. He studied philosophy,
@@ -172,5 +170,4 @@ When he died, the Jewish Community in Egypt built a synagogue named
 after him. Some Jews, up-till-now, stay overnight in this synagogue in
 hope of receiving healing through the spirit of this great physician
 (Minkin 1968).
-
 

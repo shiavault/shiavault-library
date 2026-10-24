@@ -650,4 +650,3 @@ consecutiveness, and they [Bukhari and Muslim] did not record it." 
 
 [^15]: Al Sawa'iq al-Muhriqa, p. 91.
 
-

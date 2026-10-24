@@ -43,4 +43,3 @@ breaking the promise.”
 
 [^1]: Bihbodi, Sahih al Kafi, vol.1, p.117.
 
-

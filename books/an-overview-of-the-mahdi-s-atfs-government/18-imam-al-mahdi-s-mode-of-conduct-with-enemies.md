@@ -651,4 +651,3 @@ three days are in common in revealing truths although there is
 difference in terms of magnitude.” See Al-Mizan fi Tafsir al-Qur’an,
 vol. 12, p. 184; Ar-Raj‘ah fi Ahadith al-Fariqin.
 
-

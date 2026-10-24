@@ -491,4 +491,3 @@ that these conclusions have been derived only from the available quotes
 of the Imams (a.s.) and the present books of traditions, notwithstanding
 the reality that many traditions have not reached unto us.
 
-

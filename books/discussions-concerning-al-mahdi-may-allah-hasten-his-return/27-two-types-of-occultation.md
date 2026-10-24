@@ -91,4 +91,3 @@ long occultation, so the Shi‘a can continue his life during a long
 period without the apparent presence of the Imam and successfully
 complete this major Divine test.
 
-

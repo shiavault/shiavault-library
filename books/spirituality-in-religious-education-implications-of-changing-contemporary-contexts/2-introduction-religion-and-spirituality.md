@@ -268,4 +268,3 @@ before that, another emerging feature of the contemporary western world,
 which has been identified by some writers, has relevance here and is
 examined next.
 
-

@@ -6,12 +6,8 @@ Directive for Prayers (Salat) with stress on the Morning (fajr) and Midnight (ta
 
 **Surah Al-Isra’, 17:78-79**
 
-<blockquote dir="rtl">
-  <p>
-أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
-الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
-  </p>
-</blockquote>
+> أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
+> الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
 
 ’Aqimis-Salaata li-duluu-kish-shamsi ’ilaa ghasaqil-layli wa
 qur-’aanal-Fajr; ’in-na qur’aanal-Fajri kaana mash-huudaa.
@@ -20,12 +16,8 @@ qur-’aanal-Fajr; ’in-na qur’aanal-Fajri kaana mash-huudaa.
 the night and the morning recitation; surely the morning recitation is
 witnessed.*
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
-رَبُّكَ مَقَامًا مَّحْمُودًا
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَى أَن يَبْعَثَكَ
+> رَبُّكَ مَقَامًا مَّحْمُودًا
 
 Wa minal-layli fa-tahaj-jad bihii naafilatal-lak: ‘asaaa ’ay-yab-‘athaka
 Rab-buka Maqaamam-Mah-muudaa!
@@ -44,12 +36,8 @@ No excuse for refraining from daily Prayers (Salat)
 
 **Surah Ta – Ha, 20:132**
 
-<blockquote dir="rtl">
-  <p>
-وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا لَا نَسْأَلُكَ
-رِزْقًا نَّحْنُ نَرْزُقُكَ وَالْعَاقِبَةُ لِلتَّقْوَى
-  </p>
-</blockquote>
+> وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا لَا نَسْأَلُكَ
+> رِزْقًا نَّحْنُ نَرْزُقُكَ وَالْعَاقِبَةُ لِلتَّقْوَى
 
 Wa’-mur ’ahlaka bis-Salaati wasta-bir ‘alayhaa. Laa nas-’aluka rizqaa:
 Nahnu narzuquk. Wal-Aaqibatu lit-Taqwaa.
@@ -73,13 +61,9 @@ Prescribed Prayers (Salat) at particular times
 
 **Surah An – Nisa, 4:103**
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَضَيْتُمُ الصَّلاَةَ فَاذْكُرُواْ اللّهَ قِيَامًا وَقُعُودًا
-وَعَلَى جُنُوبِكُمْ فَإِذَا اطْمَأْنَنتُمْ فَأَقِيمُواْ الصَّلاَةَ
-إِنَّ الصَّلاَةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا
-  </p>
-</blockquote>
+> فَإِذَا قَضَيْتُمُ الصَّلاَةَ فَاذْكُرُواْ اللّهَ قِيَامًا وَقُعُودًا
+> وَعَلَى جُنُوبِكُمْ فَإِذَا اطْمَأْنَنتُمْ فَأَقِيمُواْ الصَّلاَةَ
+> إِنَّ الصَّلاَةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا
 
 Fa-’izaa qazay-tamus-Salaata faz-kurul-laaha qiyaa-manw-wa qu-‘uudanw-wa
 ‘alaa junuubikum. Fa-izat-ma’-nantum fa-’aqii-mus-Salaah:
@@ -92,13 +76,9 @@ particular times (of the day).*
 
 **Surah Hud, 11:114**
 
-<blockquote dir="rtl">
-  <p>
-وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ
-إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ذَلِكَ ذِكْرَى
-لِلذَّاكِرِينَ
-  </p>
-</blockquote>
+> وَأَقِمِ الصَّلاَةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ
+> إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّـيِّئَاتِ ذَلِكَ ذِكْرَى
+> لِلذَّاكِرِينَ
 
 Wa ‘aqi-mis-Salaata tarafa-yin-nahaari wa zulafam-minal-layl: ’in-nal
 hasanaati yuz-hibnas-say-yi-’aat: zaalika zikraa liz-zaa-kiriin:
@@ -110,12 +90,8 @@ mind.*
 
 **Surah al-Isra’, 17:78**
 
-<blockquote dir="rtl">
-  <p>
-أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
-الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
-  </p>
-</blockquote>
+> أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
+> الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
 
 ’ Aqimis - Salaata li-duluuu-kish-shamsi ’ilaa ghasaqil-layli wa
 qur-’aanal-Fajr; ’in-na qur-’aanal-Fijri kaana mash-huu-daa.
@@ -218,12 +194,8 @@ Salat ordained along with patience in adversity
 
 **Surah Qaf, 50 :39-40**
 
-<blockquote dir="rtl">
-  <p>
-فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ
-طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
-  </p>
-</blockquote>
+> فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ
+> طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
 
 Fasbir ‘alaa maa yaquuluuna wa sab-bih bi-Hamdi Rab-bika qabla
 tuluu-‘ish-shamsi wa qabla tuluu‘ish-shamsi wa qablal-ghuruub,-
@@ -232,11 +204,7 @@ tuluu-‘ish-shamsi wa qabla tuluu‘ish-shamsi wa qablal-ghuruub,-
 and extol thy Sustainer’s limitless glory and praise before the rising
 of the sun and before its setting;*
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ
-  </p>
-</blockquote>
+> وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ
 
 Wa minal-layli fasab-bih-hu wa ’ad-baaras-sujuud.
 
@@ -247,12 +215,8 @@ Common supplication in Qunoot of Prayer
 
 **Surah Baqarah, 2:201**
 
-<blockquote dir="rtl">
-  <p>
-وِمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي
-الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
-  </p>
-</blockquote>
+> وِمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي
+> الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
 
 Wa minhum - man - yaquulu Rab-banaaa ‘aatinaa fid-duniya hasanatanw-wa
 qinaa azaaban-Naar.
@@ -272,12 +236,8 @@ Recitation of “Bismillah” and seeking refuge from Satan, before reciting the
 
 **Surah An – Nahl, 16:98-100**
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
-الرَّجِيمِ
-  </p>
-</blockquote>
+> فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللّهِ مِنَ الشَّيْطَانِ
+> الرَّجِيمِ
 
 Fa-’izaa qara’-tal-Qur-’aana fasta-‘iz bil-laahi
 minash-Shay-taanir-Rajiim.
@@ -285,12 +245,8 @@ minash-Shay-taanir-Rajiim.
 *98. Now whenever thou happen to read this Qur’an, seek refuge with God
 from Satan, the accursed.*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ’In-nahuu laysa lahuu sultaanun ‘alal-laziina ’aamanuu wa ‘alaa
 Rab-bihim yatawak-kaluun.
@@ -298,12 +254,8 @@ Rab-bihim yatawak-kaluun.
 *99. Behold, he has no power over those who have attained to faith and
 in their Sustainer place their trust:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم
-بِهِ مُشْرِكُونَ
-  </p>
-</blockquote>
+> إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم
+> بِهِ مُشْرِكُونَ
 
 ’In-namaa sultaa-nuhuu ‘alal-laziina yata-wal-lau nahuu wal-laziina
 hum-bihii mushrikuun.
@@ -316,12 +268,8 @@ The Sustainer’s assurance to accept the prayer of all who call upon Him sincer
 
 **Surah Ghafir, 40 :60**
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 Wa qaa-la Rab-bukumud-‘uuniii as-tajib lakum; In-nal laziina
 yastakbiruuna ‘an ibaa-datii sa-yad-khuluu-na Jahan-nama daakhiriin.
@@ -362,13 +310,9 @@ Assurance of acceptance from Allah when asked from Him through the Medium of Dua
 
 **Surah Baqarah, 2:186**
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
-الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي
-لَعَلَّهُمْ يَرْشُدُونَ
-  </p>
-</blockquote>
+> وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
+> الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي
+> لَعَلَّهُمْ يَرْشُدُونَ
 
 Wa ‘izaa sa-’alaka ‘ibaadii ‘an-nil fa-’innii Qariib: ‘ujiibu
 da’-watad-daa-’i ‘izaa da-’aani fal-yastajiibuu lii wasyu’ - minuu bii
@@ -473,14 +417,10 @@ Supplication (Dua) recited by Prophet Sulayman (a)
 
 **Surah An – Naml, 27:19**
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ
-أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ
-وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي
-عِبَادِكَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ
+> أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ
+> وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي
+> عِبَادِكَ الصَّالِحِينَ
 
 Fatabas-sama zaahikam-min-qawliha wa qaala Rab-bi ’awzi‘-niii’ an
 ’ashkuru ni‘matakal-latiii ’an-‘amta ‘alay-ya wa ‘alaa waaliday-ya wa
@@ -498,22 +438,14 @@ Advised to mention “If Allah wills (Insha Allah)” before intending to do any
 
 **Surah Al – Kahf, 18:23-24**
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَلِكَ غَدًا
-  </p>
-</blockquote>
+> وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَلِكَ غَدًا
 
 Wa laa taquu lan-na li shai-in in-nii faa-‘ilun zaalika ghadan.
 
 *23. And never say about anything , “Behold, I shall do this tomorrow,”*
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا أَن يَشَاء اللَّهُ وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَى
-أَن يَهْدِيَنِ رَبِّي لِأَقْرَبَ مِنْ هَذَا رَشَدًا
-  </p>
-</blockquote>
+> إِلَّا أَن يَشَاء اللَّهُ وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَى
+> أَن يَهْدِيَنِ رَبِّي لِأَقْرَبَ مِنْ هَذَا رَشَدًا
 
 ’Il-laaa ’ay-yashaaa - ’al-laah! Wazkur-Rab-baka ’izaa nasii-ta wa qul
 ‘asaaa ’ay-yah-diyani Rab-bii li-’aqraba min haazaa rashadaa.
@@ -552,5 +484,4 @@ transmitted by Waki (the words are): “I said to Ibn Abbas: What prompted
 him to do that? He said: So that his (Prophet’s) Ummah should not be put
 to (unnecessary) hardship.” Other Traditions are \#1523-1524-1516-1522
 in Sahih Muslim.
-
 

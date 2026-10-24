@@ -241,4 +241,3 @@ off their intelligence within their circle of friends.
 I have conviction that my readers are those that will read this book in
 a manner that will give them the true and complete knowledge of it.
 
-

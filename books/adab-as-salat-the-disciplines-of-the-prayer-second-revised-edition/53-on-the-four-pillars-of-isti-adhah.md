@@ -275,4 +275,3 @@ al-Muta'abbid, p. 308.
 
 [^11]: Sūrah al-An'ām 6:79
 
-

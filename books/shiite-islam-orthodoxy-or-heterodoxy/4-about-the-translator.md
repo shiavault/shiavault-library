@@ -15,4 +15,3 @@ dozen countries and in several different languages. He is the author of
 *Arabic, Islām, and the Allāh Lexicon* (Edwin Mellen Press, 2006), the
 *Encyclopedia of Islāmic Herbalism*, and numerous other books.
 
-

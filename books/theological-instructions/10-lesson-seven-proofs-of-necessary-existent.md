@@ -249,4 +249,3 @@ explain the aim of this argument!
 10- How is the logical form of the argument of impossibility of the
 infinite series?
 
-

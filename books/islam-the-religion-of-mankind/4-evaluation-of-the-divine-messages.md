@@ -450,4 +450,3 @@ it will not be accepted from him, and he will be one of the losers in
 the hereafter."
 Sura Aal Imran (3:85)
 
-

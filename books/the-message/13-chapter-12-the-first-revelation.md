@@ -283,4 +283,3 @@ in the cave of Hira he was already busy in meditation?"
 
 [^7]: Nahjul Balaghah, vol. II, page 182.
 
-

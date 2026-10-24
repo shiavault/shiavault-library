@@ -6,14 +6,10 @@ The Holy Prophet (S) Made the Medium of Revelations and Path to Self-Surrender
 
 **Surah Ash–Shura, 42:52-53**
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا مَا كُنتَ
-تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَكِن جَعَلْنَاهُ نُورًا
-نَّهْدِي بِهِ مَنْ نَّشَاء مِنْ عِبَادِنَا وَإِنَّكَ لَتَهْدِي إِلَى
-صِرَاطٍ مُّسْتَقِيمٍ
-  </p>
-</blockquote>
+> وَكَذَلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا مَا كُنتَ
+> تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَكِن جَعَلْنَاهُ نُورًا
+> نَّهْدِي بِهِ مَنْ نَّشَاء مِنْ عِبَادِنَا وَإِنَّكَ لَتَهْدِي إِلَى
+> صِرَاطٍ مُّسْتَقِيمٍ
 
 Wa kazaalika awhaynaaa ilaika ruuham-min amrinaa. Maa kunta tadrii mal
 kitaabu wa lal-iimaanu wa laakin ja‘alnaahu nuuran-nahdii bihil
@@ -29,12 +25,8 @@ be a light, whereby We guide whom We will of Our servants: and verily,
 (on the strength thereof) thou, too, shalt guide (men) onto the straight
 way*
 
-<blockquote dir="rtl">
-  <p>
-صِرَاطِ اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
-أَلَا إِلَى اللَّهِ تَصِيرُ الأمُورُ
-  </p>
-</blockquote>
+> صِرَاطِ اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
+> أَلَا إِلَى اللَّهِ تَصِيرُ الأمُورُ
 
 Siraatillaahil - lazii lahuu maa fissamaawaati wa maa fil’arz. ’Alaaa
 ’ilallaahi tasiirul-’umuur.
@@ -49,14 +41,10 @@ The Holy Prophet (S) is “Rahmatul Aalamin”
 
 **Surah At–Tawbah, 9:61**
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُمُ الَّذِينَ يُؤْذُونَ النَّبِيَّ وَيِقُولُونَ هُوَ أُذُنٌ
-قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِاللّهِ وَيُؤْمِنُ
-لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ آمَنُواْ مِنكُمْ وَالَّذِينَ
-يُؤْذُونَ رَسُولَ اللّهِ لَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> وَمِنْهُمُ الَّذِينَ يُؤْذُونَ النَّبِيَّ وَيِقُولُونَ هُوَ أُذُنٌ
+> قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِاللّهِ وَيُؤْمِنُ
+> لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ آمَنُواْ مِنكُمْ وَالَّذِينَ
+> يُؤْذُونَ رَسُولَ اللّهِ لَهُمْ عَذَابٌ أَلِيمٌ
 
 Wa minhumul-lazina yu’-zuunan-Nabiy-ya wa yaquu-luu-na “Huwa ’uzun.” Qul
 ’uzunu khay-ril-lakum yu’-minu bil-laahi wa yu’-minu lil-mu’-miniina wa
@@ -99,12 +87,8 @@ The Reciting of Salwaat on The Prophet (S) is Made Incumbent on Mankind
 
 **Surah Al–Ahzab, 33:56**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
-الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
 
 ’In-nal-laaha wa Malaaa-’i-katahuu yusal-luuna ‘alan-Na-biyy: Yaa
 ’ay-yuhal-laziina ’aamanuu sal-luu ‘alayhi wa sal-limuu tasliimaa.
@@ -138,12 +122,8 @@ To follow Sunnah of the Holy Prophet (S)
 
 **Surah Ali-’Imran, 3:31**
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللّهُ
-وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> قُلْ إِن كُنتُمْ تُحِبُّونَ اللّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللّهُ
+> وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللّهُ غَفُورٌ رَّحِيمٌ
 
 Qul’in-kuntum tuhib-buunallaaha fat-tabi-’uunii yuhbib-kumullaahu wa
 yaghfir lakum zunuubakum: wallaahu Ghafuurur-Rahim.
@@ -161,12 +141,8 @@ To Disobey Allah (swt) And His Prophet (S) can Erase Man’s Good Deeds
 
 **Surah Muhammad, 47:33**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ
 
 Yaaa’ay-yuhal-laziina ’aa-manuu ’atii-’ul-laaha wa’atii-’ur-Rasuula wa
 laa tubtiluuu ’a’-maalakum!
@@ -193,14 +169,10 @@ The Holy Prophet’s (S) Responsibility Towards Mankind, as Directed By Allah (s
 
 **Surah Ash – Shura, 42:48**
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا إِنْ
-عَلَيْكَ إِلَّا الْبَلَاغُ وَإِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا
-رَحْمَةً فَرِحَ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ
-أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ
-  </p>
-</blockquote>
+> فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا إِنْ
+> عَلَيْكَ إِلَّا الْبَلَاغُ وَإِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا
+> رَحْمَةً فَرِحَ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ
+> أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ
 
 Fa-’in ’a‘-razuu famaaa ’arsal-naaka ‘alayhim hafiizaa. ’In ‘alayka
 ’il-lal-balaagh. Wa ’in-naaa ’izaaa ’azaqnal-’insaa-na min-naa
@@ -222,14 +194,10 @@ What The Holy Prophet (S) expects in Return of His Services to Mankind
 
 **Surah Ash – Shura, 42:23**
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا
-وَعَمِلُوا الصَّالِحَاتِ قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا
-الْمَوَدَّةَ فِي الْقُرْبَى وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُ
-فِيهَا حُسْنًا إِنَّ اللَّهَ غَفُورٌ شَكُورٌ
-  </p>
-</blockquote>
+> ذَلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا
+> وَعَمِلُوا الصَّالِحَاتِ قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا
+> الْمَوَدَّةَ فِي الْقُرْبَى وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُ
+> فِيهَا حُسْنًا إِنَّ اللَّهَ غَفُورٌ شَكُورٌ
 
 Zaalikal-lazii yubash-shirul-laahu ‘Ibaa-dahul-laziina ’aa-manuu wa
 ‘amilus-saalihaat. Qul-laaa’as-alukum, ‘alayhi ’ajran ’il-lal-mawad-data
@@ -252,12 +220,8 @@ Etiquette in The Holy Prophet’s (S) Presence, as Commanded by Allah (swt)
 
 **Surah Al – Hujurat, 49:1-5**
 
-<blockquote dir="rtl">
-  <p>
-ِ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
-وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> ِ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ
+> وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
 
 Yaaa-’ay-yuhal-laziina ’aa-manuu laa tuqad-dimuu bayna yada - yil-laahi
 wa Rasuu-lihii wat-taqul-laah: ’in-nal-laaha Samii-‘un ‘Aliim.
@@ -267,14 +231,10 @@ the presence of (what) God and His Apostle (may have ordained),*[^1]
 *but remain conscious of God: for, verily, God is all-hearing,
 all-knowing!*
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ
-صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ
-بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَالُكُمْ وَأَنتُمْ لَا
-تَشْعُرُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ
+> صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ
+> بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَالُكُمْ وَأَنتُمْ لَا
+> تَشْعُرُونَ
 
 Yaaa-’ay-yuhal-laziina ’aa-manuu laa tarfa-‘uuu ’aswaata-kum fawqa
 sawtin-Nabiy-yi wa laa tajharuu lahuu bil-qawli kajahri ba‘-zikum
@@ -285,13 +245,9 @@ voice of the Prophet, and neither speak loudly to him, as you would
 speak loudly to one another, lest all your (good) deeds come to nought
 without your perceiving it.*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِندَ رَسُولِ اللَّهِ
-أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُم
-مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِندَ رَسُولِ اللَّهِ
+> أُوْلَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُم
+> مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
 
 ’In-nal-laziina yaghuz-zuuna ’aswaa-tahum ‘inda Rasuulil-laahi
 ’ulaaa-’ikal-laziinam-taha-nal-laahu quluu-bahum lit-taq-waa: lahum -
@@ -302,12 +258,8 @@ Apostle - it is they whose hearts God has tested (and opened) to
 consciousness of Himself; (and) theirs shall be forgiveness and a reward
 supreme.*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُنَادُونَكَ مِن وَرَاء الْحُجُرَاتِ أَكْثَرُهُمْ لَا
-يَعْقِلُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُنَادُونَكَ مِن وَرَاء الْحُجُرَاتِ أَكْثَرُهُمْ لَا
+> يَعْقِلُونَ
 
 ’In-nal-laziina yunaaduu-naka minw - waraaa-’il-Hujuraati ’ak-tharuhum
 laa ya‘-qiluun.
@@ -315,12 +267,8 @@ laa ya‘-qiluun.
 *4. Verily, (O Prophet) as for those who call thee from within thy
 private apartment - most of them do not use their reason:*
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا
-لَّهُمْ وَاللَّهُ غَفُورٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا
+> لَّهُمْ وَاللَّهُ غَفُورٌ رَّحِيمٌ
 
 Wa lau ’an-nahum sabaruu hat-taa takh-ruja ’ilayhim lakaana
 khayral-lahum: wal-laahu Ghafuurur-Rahiim.
@@ -348,12 +296,8 @@ Annoyance of the Holy Prophet (S)
 
 **Surah Al – Ahzab, 33:57**
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي
-الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي
+> الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا
 
 ’In-nal-laziina yu’- zuunal laaha wa Rasuulahuu la-‘anahumul-laahu
 fid-dunyaa wal ’Aakhirati wa ’a-‘ad-da lahum ‘Azaabam-mubiinaa.
@@ -367,18 +311,14 @@ Characteristics of the Choicest & Closest Companions of the Holy Prophet (S)
 
 **Surah Al – Fath, 48:29**
 
-<blockquote dir="rtl">
-  <p>
-مُّحَمَّدٌ رَّسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاء عَلَى
-الْكُفَّارِ رُحَمَاء بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا
-يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا سِيمَاهُمْ فِي
-وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ
-وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ
-فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ
-بِهِمُ الْكُفَّارَ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا
-الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> مُّحَمَّدٌ رَّسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاء عَلَى
+> الْكُفَّارِ رُحَمَاء بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا
+> يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا سِيمَاهُمْ فِي
+> وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ
+> وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ
+> فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ
+> بِهِمُ الْكُفَّارَ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا
 
 Muham-madur - Rasuulul-laah: wal-laziina ma-‘ahuuu ’a-shid-daaa-’u
 ’alal-kuf-faari ruha-maaa-’u bay-nahum taraahum ruk-ka-‘an-suj-jadan -
@@ -459,19 +399,11 @@ Mubahila and its importance in Defining Who are The Ahlul Bayt in Surah 33 (Sura
 
 **Surah Ali-’Imran, 3:61**
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
-تَعَالَوْاْ نَدْعُ أَبْنَاءنَا
-  </p>
-</blockquote>
+> فَمَنْ حَآجَّكَ فِيهِ مِن بَعْدِ مَا جَاءكَ مِنَ الْعِلْمِ فَقُلْ
+> تَعَالَوْاْ نَدْعُ أَبْنَاءنَا
 
-<blockquote dir="rtl">
-  <p>
-وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ
-ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ عَلَى الْكَاذِبِينَ
-  </p>
-</blockquote>
+> وَأَبْنَاءكُمْ وَنِسَاءنَا وَنِسَاءكُمْ وَأَنفُسَنَا وأَنفُسَكُمْ
+> ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَةُ اللّهِ عَلَى الْكَاذِبِينَ
 
 Faman haaaj-jaka fiihi mim-ba’-di maa jaaa-’aka minal-’ilmi faqul
 ta-’aalau nad-’u’ab-naaa-’anaa wa ’ab-naaa-’akum wa nisaa -’anaa wa
@@ -543,18 +475,10 @@ Directives to the Holy Prophet’s (S) Wives and his Holy Ahlul Bayt (a)
 
 **Surah Al – Ahzab, 33: 28-33**
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ إِن كُنتُنَّ تُرِدْنَ
-الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ إِن كُنتُنَّ تُرِدْنَ
+> الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ
 
-<blockquote dir="rtl">
-  <p>
-أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا
-  </p>
-</blockquote>
+> أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا
 
 Yaaa - ’ay-yuhan - Nabiy-yu qul li-’azwaajika ’in-kuntun-na
 turidnal-hayaatad-dunya wa ziinatahaa fata-‘aalayna ’umat-ti‘-kun-na wa
@@ -564,12 +488,8 @@ turidnal-hayaatad-dunya wa ziinatahaa fata-‘aalayna ’umat-ti‘-kun-na wa
 this world and its charms - well, then, I shall provide for you and
 release you in a becoming manner;*
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كُنتُنَّ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ
-فَإِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> وَإِن كُنتُنَّ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ
+> فَإِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا
 
 Wa ’in-kuntun-na turidnal-laaha wa Rasuulahuu wad-Daaral-’Aakhirata
 fa-’in-nal-laaha ’a-‘ad-da lil-Muhsinaati minkun-na ’ajran ‘aziima.
@@ -578,13 +498,9 @@ fa-’in-nal-laaha ’a-‘ad-da lil-Muhsinaati minkun-na ’ajran ‘aziima.
 of) the life in the hereafter, then (know that), verily, for the doers
 of good among you God has readied a mighty reward!”*
 
-<blockquote dir="rtl">
-  <p>
-يَا نِسَاء النَّبِيِّ مَن يَأْتِ مِنكُنَّ بِفَاحِشَةٍ مُّبَيِّنَةٍ
-يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ وَكَانَ ذَلِكَ عَلَى اللَّهِ
-يَسِيرًا
-  </p>
-</blockquote>
+> يَا نِسَاء النَّبِيِّ مَن يَأْتِ مِنكُنَّ بِفَاحِشَةٍ مُّبَيِّنَةٍ
+> يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ وَكَانَ ذَلِكَ عَلَى اللَّهِ
+> يَسِيرًا
 
 Yaa-Nisaaa - ’an - Nabiy-yi man-ya’-timinkun-na bifaahishatim -
 mubay-yinatin - yu-zaa-‘af lahal-‘Azaabu zi‘-fayn: wa kaana zaalika
@@ -594,12 +510,8 @@ mubay-yinatin - yu-zaa-‘af lahal-‘Azaabu zi‘-fayn: wa kaana zaalika
 manifestly immoral conduct, double (that of other sinners) would be her
 suffering (in the hereafter): for that is indeed easy for God.*
 
-<blockquote dir="rtl">
-  <p>
-وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا
-نُّؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا
-  </p>
-</blockquote>
+> وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا
+> نُّؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا
 
 Wa Man-yaqnut minkun-na lil-la-hi wa Rasuulihii wa ta‘-mal
 saalihan-nu’-ti-haaa ’ajrahaa mar-ratayni wa ’a‘-tadnaa lahaa
@@ -609,13 +521,9 @@ Rizqan-kariimaa.
 deeds, on her shall We bestow her rewards twice-over: for We shall have
 readied for her a most excellent sustenance (in the life to come).*
 
-<blockquote dir="rtl">
-  <p>
-يَا نِسَاء النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاء إِنِ
-اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي
-قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا
-  </p>
-</blockquote>
+> يَا نِسَاء النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاء إِنِ
+> اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي
+> قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا
 
 Yaa-Nisaaa-’an - Nabiy-yi lastun-na ka-’ahadim-minan-ni-saaa-’i
 ’init-taqaytun-na falaa takhza‘-na bil-qawli fayatma-‘al-lazii fii
@@ -626,14 +534,10 @@ provided that you remain (truly) conscious of God. Hence, be not
 over-soft in your speech, lest any whose heart is diseased should be
 moved to desire (you): but, withal, speak in a kindly way.*
 
-<blockquote dir="rtl">
-  <p>
-وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
-الْأُولَى وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ
-وَرَسُولَهُ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ
-أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ
+> الْأُولَى وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ
+> وَرَسُولَهُ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ
+> أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 Wa qarna fii buyuu-tikun-na wa laa tabar-rajna
 tabar-rujal-Jaahi-liy-yatil-’uulaa wa aqim-nas-Salaata wa
@@ -706,81 +610,49 @@ Assurance (To Holy Prophet (S)) of Tranquillity & Happiness after Trials and Tri
 
 **Surah al-Inshira, 94:1-8**
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
-  </p>
-</blockquote>
+> أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
 
 ’Alam nash-rah laka sadrak?
 
 *1. Have We not opened thy heart,*
 
-<blockquote dir="rtl">
-  <p>
-وَوَضَعْنَا عَنكَ وِزْرَكَ
-  </p>
-</blockquote>
+> وَوَضَعْنَا عَنكَ وِزْرَكَ
 
 Wa waza‘-naa ‘anka wizrak
 
 *2. and lifted from thee the burden*
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي أَنقَضَ ظَهْرَكَ
-  </p>
-</blockquote>
+> الَّذِي أَنقَضَ ظَهْرَكَ
 
 ’Al-lazii ’anqaza zah-rak?
 
 *3.that had weighed so heavily on thy back?*
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعْنَا لَكَ ذِكْرَكَ
-  </p>
-</blockquote>
+> وَرَفَعْنَا لَكَ ذِكْرَكَ
 
 Wa rafa‘-naa laka zik-rak?
 
 *4. And (have We not) raised thee high in dignity?*
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
 
 Fa-’in-na ma-‘al-‘usri yusraa.
 
 *5. And, behold, with every hardship comes ease:*
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> إِنَّ مَعَ الْعُسْرِ يُسْرًا
 
 ’In-na ma-‘al-‘usri yusraa
 
 *6. verily, with every hardship comes ease!*
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا فَرَغْتَ فَانصَبْ
-  </p>
-</blockquote>
+> فَإِذَا فَرَغْتَ فَانصَبْ
 
 Fa-’izaa faragh-ta fansab,
 
 *7. Hence, when thou art freed (from distress), remain steadfast,*
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَى رَبِّكَ فَارْغَبْ
-  </p>
-</blockquote>
+> وَإِلَى رَبِّكَ فَارْغَبْ
 
 Wa ’ilaa Rab-bika far-ghaab.
 
@@ -811,16 +683,12 @@ Reasons stated by Allah (swt) for making the Prophet (S) sign the Treaty of Huda
 
 **Surah Al – Fath, 48:25**
 
-<blockquote dir="rtl">
-  <p>
-هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ
-وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ وَلَوْلَا رِجَالٌ
-مُّؤْمِنُونَ وَنِسَاء مُّؤْمِنَاتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَؤُوهُمْ
-فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌ بِغَيْرِ عِلْمٍ لِيُدْخِلَ اللَّهُ
-فِي رَحْمَتِهِ مَن يَشَاء لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ
-كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا
-  </p>
-</blockquote>
+> هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ
+> وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ وَلَوْلَا رِجَالٌ
+> مُّؤْمِنُونَ وَنِسَاء مُّؤْمِنَاتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَؤُوهُمْ
+> فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌ بِغَيْرِ عِلْمٍ لِيُدْخِلَ اللَّهُ
+> فِي رَحْمَتِهِ مَن يَشَاء لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ
+> كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا
 
 Humul-laziina kafaruu wa sad-duukum ‘anil-Masjidil - Haraami wal - hadya
 ma‘kuufan ’ay - yablugha mahil-lah - Ha-raami wal - hayda ma‘kuufan
@@ -845,5 +713,4 @@ indeed have imposed grievous suffering (at your hands) on such of them
 as were bent on denying the truth.*
 
 [^1]: do not allow your own desires to have precedence
-
 

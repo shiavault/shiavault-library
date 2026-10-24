@@ -369,4 +369,3 @@ status quo with no movement toward resolution. The women wrote of
 various reactions and stages that families may go through when faced
 with their daughter's choice to become Muslim.
 
-

@@ -1,11 +1,7 @@
 15) Do not talk about what you do not know or speak about what is not required of you.
 ======================================================================================
 
-<blockquote dir="rtl">
-  <p>
-“وَدَعِ القَولَ فِيمَا لا تَعرِف، وَالخِطَابَ فِيمَا لَم تُكَلَّف”
-  </p>
-</blockquote>
+> “وَدَعِ القَولَ فِيمَا لا تَعرِف، وَالخِطَابَ فِيمَا لَم تُكَلَّف”
 
 In these sentences, Imam ‘Ali (as) emphasizes two ethical principles:
 
@@ -28,5 +24,4 @@ Muslim’s good deeds is to leave anything that does not concern him."[^2]
 by Ibn Maytham, vol.5, p.10.
 
 [^2]: . Op cit.
-
 

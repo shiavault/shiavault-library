@@ -82,4 +82,3 @@ shining ensigns who struggled to rebuild the Islamic civilization anew.
 **Baqir al-’Ulum Research Foundation**
 **Qum**
 
-

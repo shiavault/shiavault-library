@@ -249,4 +249,3 @@ Islamic laws are implemented so that a government provides all the
 necessities of complete and healthy life for the people. M. Shirazi,
 al-Fiqh series, vol. 141.
 
-

@@ -357,4 +357,3 @@ after her husband’s death before her remarriage.
 
 [^28]: Man La Yahdhuruhu al-Faqih, vol.1 p.169.
 
-

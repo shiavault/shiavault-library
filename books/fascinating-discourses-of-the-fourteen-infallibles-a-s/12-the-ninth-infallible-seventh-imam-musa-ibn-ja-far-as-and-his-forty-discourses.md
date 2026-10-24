@@ -47,17 +47,9 @@ Dynasty during whose period of rule the Imam mostly remained imprisoned.
 Forty Traditions from Imam Musa Kazim (as)
 ------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-اربعون حديثاً
-  </p>
-</blockquote>
+> اربعون حديثاً
 
-<blockquote dir="rtl">
-  <p>
-عن الامام موسی الکاظم عليه السلام
-  </p>
-</blockquote>
+> عن الامام موسی الکاظم عليه السلام
 
 1. I found the knowledge of people in four (things) firstly, that you
 know your lord (recognition of Allah) & secondly that you know it as to
@@ -150,12 +142,8 @@ severest of all And their existence & is with their closeness &
 proximity to you, is most hidden & concealed from you. [^7]
 
 > 7- ... فَاَيُّ الأَ عداءِ اَوجَبُهُم مُجَاهَدَةً؟ قالَ عليه السلام:
-<blockquote dir="rtl">
-  <p>
-اَقرَبُهُم اِلَيکَ وَاَعداهُم لَکَ وَاَضَرُّهُم بِکَ وَاَعظَمُهُم لَکَ
-عَداوَةً وَاَخفاهُم لَکَ شَخصاً مَعَ دُنُوِّه مِنکَ...
-  </p>
-</blockquote>
+> اَقرَبُهُم اِلَيکَ وَاَعداهُم لَکَ وَاَضَرُّهُم بِکَ وَاَعظَمُهُم لَکَ
+> عَداوَةً وَاَخفاهُم لَکَ شَخصاً مَعَ دُنُوِّه مِنکَ...
 
 > (بحارالانوار ج78 ص315)
 
@@ -537,5 +525,4 @@ blessings are abated, terminated & cease to exist with him. [^38]
 [^37]: Tufaf al-Uqul P 409
 
 [^38]: Bihar ul-Anwar Vol. 78, P 327
-
 

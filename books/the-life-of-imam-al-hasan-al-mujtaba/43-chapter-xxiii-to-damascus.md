@@ -594,4 +594,3 @@ Mu’awiya turned to his minister Amr bin al-‘Aas to consult with him as
 to that: “What do you say?” “Send for them (to come) tomorrow,” replied
 Amr.
 
-

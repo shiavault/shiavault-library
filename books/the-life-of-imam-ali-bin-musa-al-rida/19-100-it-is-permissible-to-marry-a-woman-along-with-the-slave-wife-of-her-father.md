@@ -1,19 +1,11 @@
 100. It Is Permissible To Marry A Woman Along With The Slave Wife Of Her Father
 ===============================================================================
 
-  
-
-  
-
 ### 100. It is Permissible to marry a Woman along with the Slave-wife of her Father
 
 Ahmed b. Mohammed b. Abū Nasr reported on the authority of Abū al-Hasan
 al-Ridā, peace be on him, saying: "I asked him about a man who married a
 woman and married the slave-wife of her father,  
-
-  
-
-  
 
 and he, peace be on him, answered: 'There is no harm in that.' Then I
 said: We have been informed on the authority of your father that 'Ali b.
@@ -48,19 +40,12 @@ Allah's Apostle, may Allah bless him and his family, proposed to marry
 then he said: 'Surely, one of the practices *(sunan)* of the messengers
 is giving food at marriage.'[[4]](#_ftn673)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F670) Furū' al-Kāfi, vol. 2, p. 15.  
  [[2]](#_F671) Man lā Yahdarahū al-Faqih, vol. 2, p. 131.  
  [[3]](#_F672) Wasā'il al-Shi'a, vol. 14, p. 62.  
  [[4]](#_F673) Furū' al-Kāfi, vol. 2, p. 26.  
-  
-
-  
-
-  
 
 ### 104. Looking at the Hair of unrelated Woman is Prohibited
 
@@ -95,18 +80,11 @@ obligates him (to say the truth).'[[3]](#_ftn676)" This means that the
 truth was what the woman said, and her denying the right of the uncle
 was valid.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F674) Al-Wasā'il.  
  [[2]](#_F675) Ibid.  
  [[3]](#_F676) Qurb al-Isnād, p. 160.  
-  
-
-  
-
-  
 
 ### 107. Marriage Contract with the Intention of Joke is invalid
 
@@ -137,8 +115,6 @@ marriage contract is temporary or permanent, but if his first wife dies
 or he divorces her irrevocably and the *'idda* [[4]](#_ftn680)
 terminates, then it is permissible for him to marry her sister.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F677) Furū' al-Kāfi, vol. 2, p. 77.  
@@ -149,11 +125,6 @@ dissolution of marriage during which a widow or a divorced woman may not
 arrange another fixed-term or permanent marriage. Its purpose is to
 leave no doubt about the paternity of a child born after the dissolution
 of the marriage.  
-  
-
-  
-
-  
 
 ### 110. It is Lawful to marry Midwife
 
@@ -188,8 +159,6 @@ fornicator shall not marry any but a fornicatress or idolatress, and (as
 for) the fornicatress, none shall marry her but a fornicator or an
 idolater; and that is forbidden to the believers*.[[5]](#_ftn685)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F681) Qurb al-Isnād, p. 17.  
@@ -197,11 +166,6 @@ idolater; and that is forbidden to the believers*.[[5]](#_ftn685)"
  [[3]](#_F683) Wasā'il al-Shi'a, vol. 14, p. 415.  
  [[4]](#_F684) Al-Tahdhib, vol. 2, p. 200.  
  [[5]](#_F685) Furū' al-Kāfi, vol. 2, p. 44.  
-  
-
-  
-
-  
 
 ### 114. Man should believe Woman when she denies Husband
 
@@ -235,8 +199,6 @@ permissible for a man to marry a woman for one year or more or less?'
 'If it is a fixed thing for a fixed period.' 'Does it terminate without
 divorce?' I asked him. 'Yes,' he replied.[[5]](#_ftn690)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F686) Al-Tahdhib, vol. 2, p. 187.  
@@ -244,11 +206,6 @@ divorce?' I asked him. 'Yes,' he replied.[[5]](#_ftn690)"
  [[3]](#_F688) See note on 109.  
  [[4]](#_F689) Furū' al-Kāfi, vol. 2, p. 45.  
  [[5]](#_F690) Ibid.  
-  
-
-  
-
-  
 
 ### 118. No Inheritance in *Mutt'a*
 
@@ -284,19 +241,12 @@ about a man who took from his slave-wife what he had granted to her such
 as servants and provisions Is permissible for him to do that? 'Yes,' he
 replied, 'if she was his slave-wife.'[[4]](#_ftn694)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F691) Ibid., p. 47.  
  [[2]](#_F692) Wasā'il al-Shi'a, vol. 14, p. 494.  
  [[3]](#_F693) Man lā Yahdarahū al-Faqih, vol. 2, p. 147.  
  [[4]](#_F694) Al-Tahdhib, vol. 2, p. 309.  
-  
-
-  
-
-  
 
 ### 122. Giving Dower more than that in the Sunna
 
@@ -329,18 +279,11 @@ to sacrifice a ram on his behalf, and to pierce his ear. Likewise, when
 al-Husayn was born, he (Gabriel) came down to him on the seventh day and
 ordered him to do the same.'[[3]](#_ftn697)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F695) Furū' al-Kāfi, vol. 2, p. 23.  
  [[2]](#_F696) Wasā'il al-Shi'a, vol. 15, p. 51.  
  [[3]](#_F697) Furū' al-Kāfi, vol. 2, p. 90.  
-  
-
-  
-
-  
 
 ### 125. The Period of Suckling Baby
 
@@ -378,19 +321,12 @@ Mohammed b. 'Ali b. al-Husayn narrated, saying: [Abū al-Hasan al-Ridā,
 peace be on him, said:] "One should spend generously on his family lest
 they should wish for his death.[[4]](#_ftn701)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F698) Ibid., p. 63.  
  [[2]](#_F699) Ibid., 95.  
  [[3]](#_F700) Tafsir al-Qummi, p. 686.  
  [[4]](#_F701) Wasā'il al-Shi'a, vol. 15, p. 249.  
-  
-
-  
-
-  
 
 ### 129. Divorce lacking Conditions is Invalid
 
@@ -433,11 +369,6 @@ will he divorce her?' 'Through his acts which are recognized
 
 [[1]](#_F702) Ibid., p. 276.  
  [[2]](#_F703) Al-Tahdhib, vol. 2, p. 270.  
-  
-
-  
-
-  
 
 just as you have mentioned concerning his detesting and hating (her),'
 he replied.[[1]](#_ftn704)"
@@ -468,8 +399,6 @@ becomes of age.' Then I wrote to him: 'What is the period of maturity?'
 'According to the periods which Allah has made obligatory on the
 believers.'[[5]](#_ftn708)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F704) Man lā Yahdarahū al-Faqih, vol. 2, p. 168.  
@@ -479,11 +408,6 @@ p. 302.
  [[4]](#_F707) *Al-muhalil* is he who marries a divorced woman in order
 to dismiss her, so that the first husband may marry her again.  
  [[5]](#_F708) Furū' al-Kāfi, vol. 2, p. 103.  
-  
-
-  
-
-  
 
 ### 135. The Castrated cannot be *Muhalil* [[1]](#_ftn709)
 
@@ -526,11 +450,6 @@ Great and Almighty: *Do not drive them out of their
  [[2]](#_F710) Wasā'il al-Shi'a, vol. 15, p. 369.  
  [[3]](#_F711) Furū' al-Kāfi, vol. 2, p. 102.  
  [[4]](#_F712) Wasā'il al-Shi'a, vol. 15, p. 378.  
-  
-
-  
-
-  
 
 houses, nor should they themselves go forth, unless they commit an open
 indecency, and he answered: 'By *the open indecency* He meant that she
@@ -559,8 +478,6 @@ can do.[[4]](#_ftn716)" If *al-mukhtala'a* returns to her husband and
 takes what she had given to him, then the divorce is revocable, and the
 husband has the right to return to her.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F713) Furū' al-Kāfi, vol. 2, p. 110.  
@@ -569,11 +486,6 @@ husband has the right to return to her.
  [[3]](#_F715) *Al-Mukhtala'a* is the woman who pays compensation to her
 husband in order to divorce her.  
  [[4]](#_F716) Wasā'il al-Shi'a, vol. 15, p. 499.  
-  
-
-  
-
-  
 
 ### 141. *Al-Zahār* [[1]](#_ftn717) does not occur due to Anger
 
@@ -609,8 +521,6 @@ peace be on him, saying: "I asked him about the man who abandoned his
 bond maid because of his swearing, and he replied: 'No, why has he
 abandoned her while she is not divorced?'[[5]](#_ftn721)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F717) *Al-Zahār* means putting away the wife by likening her
@@ -619,11 +529,6 @@ back to that of his mother's back.
  [[3]](#_F719) Wasā'il al-Shi'a, vol. 15, p. 527.  
  [[4]](#_F720) Ibid.  
  [[5]](#_F721) Qurb al-Isnād, p. 160.  
-  
-
-  
-
-  
 
 ### 145. Releasing old Salves
 
@@ -661,19 +566,12 @@ the womb.'[[3]](#_ftn724)"
 Oath and vow are promissory when the thing is acceptable; and they are
 unpromissory when the thing is unacceptable.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F722) Wasā'il al-Shi'a, vol. 40, p. 16.  
  [[2]](#_F723) Furū' al-Kāfi, vol. 6, p. 184.  
  [[3]](#_F724) Ibid., vol. 7, p. 440. Wasā'il al-Shi'a, vol. 16, p.
 157.  
-  
-
-  
-
-  
 
 ### 148. False Oath
 
@@ -717,11 +615,6 @@ owner comes and asks it from him without any accusation; and he
 [[1]](#_F725) Furū' al-Kāfi, vol. 7, p. 440.  
  [[2]](#_F726) Ibid., vol. 6, p. 215.  
  [[3]](#_F727) Wasā'il al-Shi'a.  
-  
-
-  
-
-  
 
 should return it to him.' Then I asked him: 'What do you say about a man
 who hunted a bird whose owner he did not know?' 'It belongs to him (the
@@ -760,8 +653,6 @@ said to al-Ridā, peace be on him: Ibn Dāwud said: 'You said that one who
 drank wine was an unbeliever.' So he (al-Ridā) replied: 'He was right; I
 said that to him.'[[5]](#_ftn732)"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F728) Furū' al-Kāfi, vol. 6, p. 222.  
@@ -769,11 +660,6 @@ said that to him.'[[5]](#_ftn732)"
  [[3]](#_F730) Al-Tahdhib, vol. 9, p. 20.  
  [[4]](#_F731) Furū' al-Kāfi, vol. 6, p. 310.  
  [[5]](#_F732) Wasā'il al-Shi'a, vol. 17, p. 256.  
-  
-
-  
-
-  
 
 ### 155. Beer is Prohibited
 
@@ -811,19 +697,12 @@ regarding fornication or stoning, it is not permissible; and it is not
 permissible for women to bear witness to divorce or
 murder.'[[4]](#_ftn736)" 
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F733) Ibid., p. 287.  
  [[2]](#_F734) Furū' al-Kāfi, vol. 5, p. 276.  
  [[3]](#_F735) Wasā'il al-Shi'a, vol. 17, p. 480.  
  [[4]](#_F736) Ibid., 18, p. 259.  
-  
-
-  
-
-  
 
 ### 159. The prescribed Punishment for him who wars against Allah
 
@@ -862,11 +741,6 @@ asker) asked: 'If he heads for the land of polytheism
 ------------------------------------------------------------------------
 
 [[1]](#_F737) Furū' al-Kāfi, vol. 7, p. 246.  
-  
-
-  
-
-  
 
 in order to enter it?' 'If he heads for the land of polytheism in order
 to enter it, then a war should be waged against its people', he
@@ -901,18 +775,11 @@ who was standing and drinking out of the well. I pushed him without any
 intention, and he fell into the well and died,' he replied.' Therefore,
 who should pay blood-money?
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F738) Wasā'il al-Shi'a, vol. 18, p. 539.  
  [[2]](#_F739) Man lā Yahdarahū al-Faqih, vol. 4, p. 122. Wasā'il
 al-Shi'a, vol. 19, p. 42.  
-  
-
-  
-
-  
 
 "He (al-Ridā), peace be on him, answered: 'His blood-money should be
 paid by the people who asked the man for help, and he helped them and
@@ -951,6 +818,4 @@ them because this book is not one of the jurisprudence books; I have
 mentioned these examples of jurisprudence as proofs of the Imām's
 scientific wealth and of that he was the highest authority of religious
 decisions in the Islamic world of his time. 
-
-  
 

@@ -32,4 +32,3 @@ an oppressor called just, an ignorant person called learned, a sinner
 called God-fearing, or if all treacheries and oppressions have been
 committed in the name of well-wishing and seeking reform.
 
-

@@ -151,4 +151,3 @@ the book I'lamu'l-Wara bi A'lami'l-Huda, will be one day translated into
 English by Dr. Ayoub and Mrs. Clarke, or that someone else qualified
 would undertake this worthy task.
 
-

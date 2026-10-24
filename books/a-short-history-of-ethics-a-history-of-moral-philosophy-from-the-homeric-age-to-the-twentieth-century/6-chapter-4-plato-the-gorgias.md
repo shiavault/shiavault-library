@@ -250,4 +250,3 @@ necessary step forward in specifying what is good is to specify the kind
 of common life necessary for the good to be realized. This is the task
 of the Republic.
 
-

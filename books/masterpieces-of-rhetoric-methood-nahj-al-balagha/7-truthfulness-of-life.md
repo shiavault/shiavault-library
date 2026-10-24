@@ -294,4 +294,3 @@ you since it is the will of the able, victorious life – which is a will
 that ordain you to see your pledge every day. And Ibn Abi Talib says:
 “Every man has to think deeply over his covenant everyday.”
 
-

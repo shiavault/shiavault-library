@@ -3,12 +3,8 @@ Lesson One Hundred Twenty One: Do Productive Works
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إزْرَعُوا وَ أَغْرِسُوا وَ اللّهِ ما عَمِلَ النّاسُ عَمَلاً أَحَلَّ وَ
-لا أَطْيَبَ مِنْهُ
-  </p>
-</blockquote>
+> إزْرَعُوا وَ أَغْرِسُوا وَ اللّهِ ما عَمِلَ النّاسُ عَمَلاً أَحَلَّ وَ
+> لا أَطْيَبَ مِنْهُ
 
 Translation
 -----------
@@ -29,5 +25,4 @@ the most pure and pleasant work in the above tradition.
 
 [^1]: Safinat’ul-Bihar, volume 1, page 549. Mustadrak Alwasail, vol 13,
 page 26.
-
 

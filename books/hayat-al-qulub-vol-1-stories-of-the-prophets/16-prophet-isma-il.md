@@ -86,4 +86,3 @@ The Prophet said that he would not have left the place until his death.
 Allah also praised him in the Qur’an and his title “Keeper of promise”
 is true.
 
-

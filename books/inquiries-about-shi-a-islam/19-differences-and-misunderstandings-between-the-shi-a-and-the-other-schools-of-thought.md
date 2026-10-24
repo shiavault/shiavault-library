@@ -742,4 +742,3 @@ Vol. 7, 527; al-Durr al-Manthur, Vol. 2, 141; Kanz al-‘Ummal, Vol. 8,
 
 [^46]: Sahih Tirmidhi, Vol. 4, 38
 
-

@@ -93,4 +93,3 @@ careful of his duty to Allah.”*
 
 [^2]: The Qur’an 13:25.
 
-

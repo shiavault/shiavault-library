@@ -157,4 +157,3 @@ him with the best of His reward that He rewards His loyal people with.
 Holy Najaf
 Baqir Sharif al-Qurashi
 
-

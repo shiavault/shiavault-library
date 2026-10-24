@@ -3,12 +3,8 @@ Lesson Sixty Seven: Obedience Is Less Costly
 
 Imam Al-Kadhim (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إيّاكَ أنْ تَمْنَعَ فى طاعَةِ اللّه فَتُنْفِقَ مِثْلَيهِ فى مَعْصِيَةِ
-اللّه
-  </p>
-</blockquote>
+> إيّاكَ أنْ تَمْنَعَ فى طاعَةِ اللّه فَتُنْفِقَ مِثْلَيهِ فى مَعْصِيَةِ
+> اللّه
 
 Translation
 -----------
@@ -34,5 +30,4 @@ of society’s deprived people, will pay the costs, sometimes several
 times higher, for dealing with the resulting turmoil .
 
 [^1]: Tuhaful Uqul, page 305
-
 

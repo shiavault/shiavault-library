@@ -3,13 +3,9 @@ Lesson Three: What About the Soul's Food?
 
 Imam Hasan (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-"عَجِبْتُ لِمَنْ يَتَفَكَّرُ فى مَأكُولِهِ كَيْفَ لا يَتَفَكَّرُ فى
-مَعْقُولِهِ، فَيُجَنِّبُ بَطْنَهُ ما يُؤذِيهِ و يُودِعُ صَدْرَهُ ما
-يُرْدِيهِ.”
-  </p>
-</blockquote>
+> "عَجِبْتُ لِمَنْ يَتَفَكَّرُ فى مَأكُولِهِ كَيْفَ لا يَتَفَكَّرُ فى
+> مَعْقُولِهِ، فَيُجَنِّبُ بَطْنَهُ ما يُؤذِيهِ و يُودِعُ صَدْرَهُ ما
+> يُرْدِيهِ.”
 
 Translation
 -----------
@@ -37,5 +33,4 @@ propagation, and this is very surprising.
 
 [^1]: Safinat’ul-Bihar 84, article of taste. Bihar Al-Anwar, vol 1, page
 218. 
-
 

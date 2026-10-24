@@ -162,4 +162,3 @@ ignorance and underdevelopment among Muslims with their fatwas. These
 keep the Muslims away from modernity and from meeting and uniting with
 other Muslims.
 
-

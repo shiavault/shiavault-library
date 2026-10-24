@@ -48,4 +48,3 @@ such grief as a tradition of the indifferent ones will wake up through
 it, naming it "comforter of the heart upon the loss of loved ones and
 children", organizing it in an Introduction, Chapters and a Conclusion.
 
-

@@ -296,4 +296,3 @@ Bari, vol. 6, p. 4
 
 [^11]: Abul Fida, vol. 1 p. 152
 
-

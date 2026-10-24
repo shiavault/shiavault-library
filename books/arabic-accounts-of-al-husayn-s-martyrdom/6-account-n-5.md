@@ -112,15 +112,15 @@ sources, where alternatives are put side by side.
 
 **Notes:**
 
-[^32] Al-Badadhuri, Ansab al-Ashraf (Beirut, 1977), III, 165, 213,
+[^32]: Al-Badadhuri, Ansab al-Ashraf (Beirut, 1977), III, 165, 213,
 218.
-[^33] Al-Tabari, op. cit., II, 239-40.
-[^34] Ibn A\`tham, Kitab al-Futuh, V, 60-1.
-[^35] Al-Mufid, op. cit., pp. 307-8.
-[^36] Al-Tabari, op. cit., Il, 309-11.
-[^37] Ibid., pp. 379-83.
-[^38] Ibid., pp. 374-6.
-[^39] Ibid., p. 385.
-[^40] E. L. Petersen, Ali and Mu awiya in Early Arab
+[^33]: Al-Tabari, op. cit., II, 239-40.
+[^34]: Ibn A\`tham, Kitab al-Futuh, V, 60-1.
+[^35]: Al-Mufid, op. cit., pp. 307-8.
+[^36]: Al-Tabari, op. cit., Il, 309-11.
+[^37]: Ibid., pp. 379-83.
+[^38]: Ibid., pp. 374-6.
+[^39]: Ibid., p. 385.
+[^40]: E. L. Petersen, Ali and Mu awiya in Early Arab
 Tradition(Copenhagen, 1964), pp. 32, 48, 53.
 

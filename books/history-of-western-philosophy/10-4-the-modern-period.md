@@ -36,7 +36,6 @@ reflective spirit, a quickening of criticism, a revolt against authority
 and tradition, a protest against absolutism and collectivism, and a
 demand for freedom in thought, feeling and action".
 
-
 **4.2 The Beginning Of Modern Philosophy 1550-1670**
 
 **4.2.1 Francis Bacon [1561-1626]**
@@ -79,7 +78,6 @@ of government to discover the fountains of justice and public good and
 to reinforce their claims even when they conflict with the interests of
 the individualphilosophy in the broad sense is at the apex of
 knowledge
-
 
 **4.2.1.4 Bacon as an empiricist**
 
@@ -159,5 +157,4 @@ truth. Sense and reason deceive each other; then feeling functions,
 bringing satisfaction. Religious feeling, in which alone there is peace,
 is independent of understanding. Belief in God is a wager on which one
 can lose nothing
-
 

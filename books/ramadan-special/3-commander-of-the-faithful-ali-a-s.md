@@ -38,7 +38,6 @@ day Fasting, therefore, is all the more sweet to him because the
 thirsty here, by the Order of Allah will save a person from the hunger
 and thirst on the Day of Judgment.
 
-
 **Imam Ja'far Sadiq (A.S.) The Truthful**
 
 When asked by Hisham, son of Hakam, about the philosophy of fasting he
@@ -121,5 +120,4 @@ grasp the ways and means mentioned in this article. As thinking is a
 human characteristic and it is treated as worship, so the other aspects
 of this topic are left to the readers so that they may reap the benefit
 of the worship of thinking as well.
-
 

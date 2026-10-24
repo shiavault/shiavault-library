@@ -15,13 +15,9 @@ over them.
 Imam Ibn Abi Shaybah (d. 235 H) records one of these ahadith naming the
 two khalifahs:
 
-<blockquote dir="rtl">
-  <p>
-أبو داود عمر بن سعد عن شريك عن الركين عن القاسم بن حسان عن زيد بن ثابت
-يرفعه قال : إني تركت فيكم الخليفتين كاملتين :كتاب الله وعترتي، وإنهما
-لن يتفرقا حتى يردا علي الحوض.
-  </p>
-</blockquote>
+> أبو داود عمر بن سعد عن شريك عن الركين عن القاسم بن حسان عن زيد بن ثابت
+> يرفعه قال : إني تركت فيكم الخليفتين كاملتين :كتاب الله وعترتي، وإنهما
+> لن يتفرقا حتى يردا علي الحوض.
 
 Abu Dawud ‘Umar b. Sa’d – Sharik – al-Rukayn – al-Qasim b. Hassan – Zayd
 b. Thabit – the Prophet:
@@ -32,23 +28,15 @@ each other until they meet me at the Lake-Fount.”[^1]
 
 The annotators declare:
 
-<blockquote dir="rtl">
-  <p>
-والحديث صحيح، له شواهد
-  </p>
-</blockquote>
+> والحديث صحيح، له شواهد
 
 The hadith is sahih. It has witnesses (shawahid).[^2]
 
 The only new name here that needs verification is ‘Umar b. Sa’d, the
 first narrator. Concerning him, al-Hafiz (d. 852 H) states:
 
-<blockquote dir="rtl">
-  <p>
-عمر بن سعد بن عبيد أبو داود الحفري بفتح المهملة والفاء نسبة إلى موضع
-بالكوفة ثقة عابد
-  </p>
-</blockquote>
+> عمر بن سعد بن عبيد أبو داود الحفري بفتح المهملة والفاء نسبة إلى موضع
+> بالكوفة ثقة عابد
 
 ‘Umar b. Sa’d b. ‘Ubayd, Abu Dawud al-Hafari: Thiqah (trustworthy), a
 great worshipper of Allah.[^3]
@@ -57,15 +45,11 @@ So, the chain is sahih, or at least hasan.
 
 Imam Ahmad (d. 241 H) too documents:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا الأسود بن عامر ثنا شريك عن الركين عن
-القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
-انى تارك فيكم خليفتين كتاب الله حبل ممدود ما بين السماء والأرض أو ما
-بين السماء إلى الأرض وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا على
-الحوض
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا الأسود بن عامر ثنا شريك عن الركين عن
+> القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
+> انى تارك فيكم خليفتين كتاب الله حبل ممدود ما بين السماء والأرض أو ما
+> بين السماء إلى الأرض وعترتي أهل بيتي وإنهما لن يتفرقا حتى يردا على
+> الحوض
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – al-Aswad b. ‘Amir
 – Sharik – al-Rukayn – al-Qasim b. Hassan – Zayd b. Thabit:
@@ -78,12 +62,8 @@ other until they meet me at the Lake-Fount.”[^4]
 
 Shaykh al-Arnaut comments:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح بشواهده دون قوله : "وإنهما لن يتفرقا حتى يردا علي الحوض"
-وهذا إسناد ضعيف لسوء حفظ شريك
-  </p>
-</blockquote>
+> حديث صحيح بشواهده دون قوله : "وإنهما لن يتفرقا حتى يردا علي الحوض"
+> وهذا إسناد ضعيف لسوء حفظ شريك
 
 The hadith is sahih through its shawahid (witnesses), except his
 statement “Both shall never separate from each other until they meet me
@@ -98,11 +78,7 @@ unnecessary exaggeration.
 There is only one narrator in this chain of Ahmad that needs to be
 investigated: al-Aswad b. ‘Amir. This is what al-Hafiz says about him:
 
-<blockquote dir="rtl">
-  <p>
-الأسود بن عامر الشامي نزيل بغداد يكنى أبا عبد الرحمن ويلقب شاذان ثقة
-  </p>
-</blockquote>
+> الأسود بن عامر الشامي نزيل بغداد يكنى أبا عبد الرحمن ويلقب شاذان ثقة
 
 Al-Aswad b. ‘Amir al-Shami, a resident of Baghdad, his kunya was Abu
 ‘Abd al-Rahman and his laqab was Shadhan: Thiqah (trustworthy).[^6]
@@ -111,14 +87,10 @@ Therefore, the chain is sahih, or at least hasan due to Sharik.
 
 Ahmad further records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا أبو أحمد الزبيري ثنا شريك عن الركين عن
-القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
-إني تارك فيكم خليفتين كتاب الله وأهل بيتي وإنهما لن يتفرقا حتى يردا
-على الحوض جميعا
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا أبو أحمد الزبيري ثنا شريك عن الركين عن
+> القاسم بن حسان عن زيد بن ثابت قال قال رسول الله صلى الله عليه و سلم
+> إني تارك فيكم خليفتين كتاب الله وأهل بيتي وإنهما لن يتفرقا حتى يردا
+> على الحوض جميعا
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Abu Ahmad
 al-Zubayri – Sharik – al-Rukayn – al-Qasim b. Hassan – Zayd b. Thabit:
@@ -130,12 +102,8 @@ the Lake-Fount.”[^7]
 
 Al-Arnaut again says:
 
-<blockquote dir="rtl">
-  <p>
-حديث صحيح بشواهده دون قوله : " وإنهما لن يتفرقا حتى يردا علي الحوض
-جميعا "
-  </p>
-</blockquote>
+> حديث صحيح بشواهده دون قوله : " وإنهما لن يتفرقا حتى يردا علي الحوض
+> جميعا "
 
 The hadith is sahih through its shawahid, except his statement, “Both
 shall never separate from each other until they meet me together at the
@@ -144,12 +112,8 @@ Lake-Fount.”[^8]
 The sole unverified narrator here is al-Zubayri, and this is what
 al-Hafiz submits concerning him:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن عبد الله بن الزبير بن عمر بن درهم الأسدي أبو أحمد الزبيري
-الكوفي ثقة ثبت إلا أنه قد يخطئ في حديث الثوري
-  </p>
-</blockquote>
+> محمد بن عبد الله بن الزبير بن عمر بن درهم الأسدي أبو أحمد الزبيري
+> الكوفي ثقة ثبت إلا أنه قد يخطئ في حديث الثوري
 
 Muhammad b. ‘Abd Allah b. al-Zubayr b. ‘Umar b. Dirham al-Asadi, Abu
 Ahmad al-Zubayri al-Kufi: Thiqah (trustworthy), thabt (accurate), except
@@ -161,14 +125,10 @@ those denied by al-Arnaut, are firmly established.
 
 Imam Ibn Abi ‘Asim (d. 287 H) has documented the hadith too:
 
-<blockquote dir="rtl">
-  <p>
-ثنا أبو بكر، ثنا عمرو بن سعد أبو داود الحفري، عن شريك، عن الركين عن
-القاسم بن حسان، عن زيد بن ثابت قال قال رسول الله صلى الله عليه وسلم:
-إني تارك فيكم الخليفتين من بعدي، كتاب الله وعترتي أهل بيتي وإنهما لن
-يتفرقا حتى يردا علي الحوض.
-  </p>
-</blockquote>
+> ثنا أبو بكر، ثنا عمرو بن سعد أبو داود الحفري، عن شريك، عن الركين عن
+> القاسم بن حسان، عن زيد بن ثابت قال قال رسول الله صلى الله عليه وسلم:
+> إني تارك فيكم الخليفتين من بعدي، كتاب الله وعترتي أهل بيتي وإنهما لن
+> يتفرقا حتى يردا علي الحوض.
 
 Abu Bakr – ‘Amr b. Sa’d Abu Dawud al-Hafari – Sharik – al-Rukayn –
 al-Qasim b. Hassan – Zayd b. Thabit:
@@ -182,11 +142,7 @@ they meet me at the Lake-Fount.”[^10]
 
 > حديث صحيح. وإسناده ضعيف لسوء حفظ شريك وهو ابن عبد الله القاضي والقاسم
 > بن حسان مجهول الحال. والحديث أخرجه أحمد 5/181-182 و189 و190 من طريقين
-<blockquote dir="rtl">
-  <p>
-آخرين عن شريك به. وإنما صححته لأن له شواهد تقوية
-  </p>
-</blockquote>
+> آخرين عن شريك به. وإنما صححته لأن له شواهد تقوية
 
 It is a sahih hadith. But, its chain is dha’if due to the poor memory of
 Sharik, and he was Ibn ‘Abd Allah the Judge. Also, al-Qasim b. Hassan is
@@ -202,12 +158,8 @@ as we have proved.
 
 The new name here is Abu Bakr, and this is what al-Hafiz says about him:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن محمد بن أبي شيبة إبراهيم بن عثمان الواسطي الأصل أبو بكر بن
-أبي شيبة الكوفي ثقة حافظ صاحب تصانيف
-  </p>
-</blockquote>
+> عبد الله بن محمد بن أبي شيبة إبراهيم بن عثمان الواسطي الأصل أبو بكر بن
+> أبي شيبة الكوفي ثقة حافظ صاحب تصانيف
 
 ‘Abd Allah b. Muhammad b. Abi Shaybah Ibrahim b. ‘Uthman, of Wasiti
 origin, Abu Bakr b. Abi Shaybah al-Kufi: Thiqah (trustworthy), a hadith
@@ -255,5 +207,4 @@ al-Shaybani, Kitab al-Sunnah (al-Maktab al-Islami; 1st edition, 1400 H)
 [^12]: Ahmad b. ‘Ali b. Hajar al-‘Asqalani, Taqrib al-Tahdhib (Beirut:
 Dar al-Maktabah al-‘Ilmiyyah; 2nd edition, 1415 H) [annotator: Mustafa
 ‘Abd al-Qadir ‘Ata], vol. 1, p. 528, \# 3586
-
 

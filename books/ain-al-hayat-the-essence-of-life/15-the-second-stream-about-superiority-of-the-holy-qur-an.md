@@ -502,13 +502,9 @@ Prophet (S) said,’ “Put your hand near the spot where you have the pain
 and then recite *Al-Fatiha* and *Ayat al Kursi.* Thereafter recite the
 following:
 
-<blockquote dir="rtl">
-  <p>
-اَللهُ أكْبَرُ اللهُ أكبَرُ لا إلَهَ إلاّ اللهُ وَاللهُ أكبَرُ
-وَأجَلُّ وَأكْبَرُ مِمّا أخَافُ وَأحْذَرُ وَأعُوذُ بِاللهِ مِنْ حَرِّ
-النّارِ.
-  </p>
-</blockquote>
+> اَللهُ أكْبَرُ اللهُ أكبَرُ لا إلَهَ إلاّ اللهُ وَاللهُ أكبَرُ
+> وَأجَلُّ وَأكْبَرُ مِمّا أخَافُ وَأحْذَرُ وَأعُوذُ بِاللهِ مِنْ حَرِّ
+> النّارِ.
 
 ***“Allah is the most great, Allah is the most great, there is no God
 but Allah and Allah is the most great, He is higher and greater from
@@ -619,23 +615,15 @@ there in the Holy Qur’an.Whoever wants help can ask me. One person stood
 up and asked, “Ya Amir’ul-Mu’mineen (as)! Please do instruct me with
 thos verses of the Qur’an.” The Imam (as) recited two verses,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ وَلِيِّي اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلَّى
-الصَّالِحِينَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ وَلِيِّي اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلَّى
+> الصَّالِحِينَ﴾
 
 ***Surely my guardian is Allah, Who revealed the Book, and He befriends
 the the righteous.*** ***(7:196)***
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ
-يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
-سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ
+> يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
+> سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ﴾
 
 ***And they have not honored Allah with the honor that is due to Him;
 and the whole earth shall be in His grip on the day of resurrection and
@@ -650,12 +638,8 @@ have a flock of animals. Some of them have the tendency to flee” The
 Imam (as) said: Recite this verse in the ear of the animals that have
 tendency to run away from the flock:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالأَرْضِ طَوْعًا وَكَرْهًا
-وَإِلَيْهِ يُرْجَعُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالأَرْضِ طَوْعًا وَكَرْهًا
+> وَإِلَيْهِ يُرْجَعُونَ﴾
 
 ***Is it then other than Allah's religion that they seek (to follow),
 and to Him submits whoever is in the heavens and the earth, willingly or
@@ -669,14 +653,10 @@ there are plenty of wild animals. They enter my barn and harm my
 domestic animals.” The Imam (as) said, Keep reciting the following two
 verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
-عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ. فَإِنْ
-تَوَلَّوْا فَقُلْ حَسْبِي اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ
-تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ﴾
-  </p>
-</blockquote>
+> ﴿لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا
+> عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ. فَإِنْ
+> تَوَلَّوْا فَقُلْ حَسْبِي اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ
+> تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ﴾
 
 ***But if they turn back, say: Allah is sufficient for me, there is no
 god but He; on Him do I rely, and He is the Lord of the Throne (of
@@ -696,14 +676,10 @@ will give you cure.
 Another person asked, “Ya Imam! My slave has run away. What can I do to
 bring him back?” Amir’ul-Mu’mineen ‘Ali (as) said, “Recite this verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ
-مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا
-أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا وَمَنْ لَمْ يَجْعَلْ اللَّهُ لَهُ
-نُورًا فَمَا لَهُ مِنْ نُورٍ﴾
-  </p>
-</blockquote>
+> ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ
+> مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا
+> أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا وَمَنْ لَمْ يَجْعَلْ اللَّهُ لَهُ
+> نُورًا فَمَا لَهُ مِنْ نُورٍ﴾
 
 ***Or (the Unbelievers' state) is like the depths of darkness in a vast
 deep ocean, overwhelmed with billow topped by billow, topped by (dark)
@@ -718,16 +694,12 @@ Another person asked, “Ya Imam! Kindly instruct me with a verse to guard
 against thieves and burglars.” The Imam (as) said: When you go to bed,
 recite the following two verses. Your property will be safe:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ ادْعُوا اللَّهَ أَوْ ادْعُوا الرَّحْمَانَ أَيًّا مَا تَدْعُوا
-فَلَهُ الأَسْمَاءُ الْحُسْنَى وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ
-بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلاً. وَقُلْ الْحَمْدُ لِلَّهِ
-الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي
-الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنْ الذُّلِّ وَكَبِّرْهُ
-تَكْبِيرًا﴾
-  </p>
-</blockquote>
+> ﴿قُلْ ادْعُوا اللَّهَ أَوْ ادْعُوا الرَّحْمَانَ أَيًّا مَا تَدْعُوا
+> فَلَهُ الأَسْمَاءُ الْحُسْنَى وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ
+> بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلاً. وَقُلْ الْحَمْدُ لِلَّهِ
+> الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي
+> الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنْ الذُّلِّ وَكَبِّرْهُ
+> تَكْبِيرًا﴾
 
 ***Say: Call upon Allah or call upon, the Beneficent Allah; whichever
 you call upon, He has the best names; and do not utter your prayer with
@@ -740,15 +712,11 @@ to save Him from disgrace; and proclaim His greatness magnifying (Him).
 in the night, he should recite the *Ayat Sakhra* and angels will guard
 him and the satans dare not come near him. The ayat is,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ رَبَّكُمْ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
-النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
-مُسَخَّرَاتٍ بِأَمْرِهِ أَلا لَهُ الْخَلْقُ وَالأَمْرُ تَبَارَكَ
-اللَّهُ رَبُّ الْعَالَمِينَ﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ رَبَّكُمْ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ
+> النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ
+> مُسَخَّرَاتٍ بِأَمْرِهِ أَلا لَهُ الْخَلْقُ وَالأَمْرُ تَبَارَكَ
+> اللَّهُ رَبُّ الْعَالَمِينَ﴾
 
 ***Surely your Lord is Allah, Who created the heavens and the earth in
 six periods of time, and He is firm in power; He throws the veil of
@@ -772,24 +740,16 @@ Amir’ul-Mu’mineen (as) said that those who are exposed to the dangers of
 drowining in the high seas, should recite the following verses to have
 safe voyages:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا إِنَّ رَبِّي لَغَفُورٌ رَحِيمٌ
-بِسمِ اللهِ المَلكِ الحَقِّ المُبينِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا إِنَّ رَبِّي لَغَفُورٌ رَحِيمٌ
+> بِسمِ اللهِ المَلكِ الحَقِّ المُبينِ
 
 ***And he said: Embark in it, in the name of Allah be its sailing and
 its anchoring; most surely my Lord is Forgiving, Merciful.***
 ***(11:41)***
 
-<blockquote dir="rtl">
-  <p>
-. وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا
-قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
-سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> . وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا
+> قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
+> سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
 
 ***And they have not honored Allah with the honor that is due to Him;
 and the whole earth shall be in His grip on the day of resurrection and
@@ -807,23 +767,15 @@ It is narrated that Omer bin Hanzala came to the presence of Imam Ja’far
 As-Sadiq (as) and complained of a headache. The Imam (as) said: Put your
 hand at the spot you feel the pain and recite the following verses,
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ لَوْ كَانَ مَعَهُ آلِهَةٌ كَمَا يَقُولُونَ إِذًا لابْتَغَوْا
-إِلَى ذِي الْعَرْشِ سَبِيلاً﴾
-  </p>
-</blockquote>
+> ﴿قُلْ لَوْ كَانَ مَعَهُ آلِهَةٌ كَمَا يَقُولُونَ إِذًا لابْتَغَوْا
+> إِلَى ذِي الْعَرْشِ سَبِيلاً﴾
 
 ***Say: If there were with Him gods as they say, then certainly they
 would have been able to seek a way to the Lord of the Throne!.***
 ***(17.42)***
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى
-الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنْكَ صُدُودًا﴾
-  </p>
-</blockquote>
+> ﴿وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى
+> الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنْكَ صُدُودًا﴾
 
 ***And when it is said to them: Come to what Allah has revealed and to
 the Messenger, you will see the hypocrites turning away from you with
@@ -905,12 +857,8 @@ the fear of getting stung by a scorpian or snake should recite this
 verse.One who desires to have plenty of Reward on the Day of Judgement,
 should recite the following after every prayer:
 
-<blockquote dir="rtl">
-  <p>
-﴿سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ. وَسَلَامٌ عَلَى
-الْمُرْسَلِينَ. وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
-  </p>
-</blockquote>
+> ﴿سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ. وَسَلَامٌ عَلَى
+> الْمُرْسَلِينَ. وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ.﴾
 
 ***Glory be to your Lord, the Lord of Honor, above what they
 describe.*** ***And peace be on the messengers.*** ***And all praise is
@@ -1151,16 +1099,11 @@ of bad eyes. A person can set a bad eye even on himself. Therefore to
 prevent against the effect of bad eyes one should recite thrice the
 following:
 
-<blockquote dir="rtl">
-  <p>
-مَا شَاءَ اللهُ لا قُوَّةَ إلاّ باللهِ العَلِيِّ العَظِيمِ.
-  </p>
-</blockquote>
+> مَا شَاءَ اللهُ لا قُوَّةَ إلاّ باللهِ العَلِيِّ العَظِيمِ.
 
 **Allah’s will prevails and there is no might but the Most High, the
 Great.**
 
 When one has the fear of bad eye affecting him, he should recite the
 verse *Mauzatain* while going out.
-
 

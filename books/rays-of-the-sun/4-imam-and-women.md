@@ -96,4 +96,3 @@ perfume.”[^4]
 
 [^4]: Bardashthayi az Seereye Imam Khomeini, Vol 1, Pg. 285
 
-

@@ -42,4 +42,3 @@ The name of that girl was Muhyaat.[^1]
 Khalid was not a Prophet. Moreover his mention in the Prayer of
 Umm-Dawud also supports these traditions.
 
-

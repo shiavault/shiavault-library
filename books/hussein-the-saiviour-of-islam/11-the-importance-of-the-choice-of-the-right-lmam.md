@@ -430,4 +430,3 @@ succession as the lawful heir of the prophet as well as the right by
 election. It might have bee thought that all would submit themselves
 before his glory, so pure and so grand." (SI by AA)
 
-

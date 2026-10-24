@@ -48,4 +48,3 @@ more crying people than that day and no more bitter day had the Muslims
 faced since the death of the Messenger of Allah (Q). And all the people
 of Medina went out to meet the rest of the Hussain convoy.
 
-

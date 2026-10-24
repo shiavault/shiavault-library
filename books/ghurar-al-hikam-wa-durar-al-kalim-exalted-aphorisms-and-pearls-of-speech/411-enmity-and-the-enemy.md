@@ -74,21 +74,13 @@ hardships of war.
 absence, then he is your [real] enemy, so be careful of him.
 
 > 16ـ مَنْ ساتَرَكَ عَيْبَكَ، وعابَكَ في غَيْبِكَ فَهُوَ العَدُوُّ
-<blockquote dir="rtl">
-  <p>
-فَاحْذَرْهُ.
-  </p>
-</blockquote>
+> فَاحْذَرْهُ.
 
 17. Whoever shows enmity [with the people] his paths becomes rugged, his
 affair becomes difficult and his way out becomes narrow.
 
 > 17ـ مَنْ شاقَّ وعِرَتْ عَلَيْهِ طُرُقُهُ، وأعْضَلَ عَلَيْهِ أمْرُهُ،
-<blockquote dir="rtl">
-  <p>
-وضاقَ عَلَيْهِ مَخْرَجُهُ.
-  </p>
-</blockquote>
+> وضاقَ عَلَيْهِ مَخْرَجُهُ.
 
 18. One who reforms his adversaries attains his goal.
 
@@ -98,11 +90,7 @@ affair becomes difficult and his way out becomes narrow.
 enmity for you in every situation.
 
 > 19ـ مَنْ كانَ نَفْعُهُ في مَضَرَّتِكَ لَمْ يَخْلُ في كُلِّ حال مِنْ
-<blockquote dir="rtl">
-  <p>
-عَداوَتِكَ.
-  </p>
-</blockquote>
+> عَداوَتِكَ.
 
 20. Never do two people [or groups] quarrel but that the more foolish of
 the two wins the argument.
@@ -114,22 +102,14 @@ safeguard from the chastisement of Allah and a caution from the raging
 tribulations of this world.
 
 > 21ـ مُجامَلَةُ أعْداءِ اللّهِ في دَوْلَتِهِمْ تَقِيَّةٌ مِنْ عَذابِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ، وحَذَرٌ مِنْ مَعارِكَ البَلاءِ فِي الدُّنيا.
-  </p>
-</blockquote>
+> اللّهِ، وحَذَرٌ مِنْ مَعارِكَ البَلاءِ فِي الدُّنيا.
 
 22. Struggling against the enemies in their dominions and fighting
 against them despite their power is abandoning the command of Allah and
 exposing oneself to the tribulations of this world.
 
 > 22ـ مُجاهَدَةُ الأعْداءِ في دَوْلَتِهِمْ، ومُناضَلَتُهُمْ مَعَ
-<blockquote dir="rtl">
-  <p>
-قُدْرَتِهِمْ تَرْكٌ لأمْرِ اللّهِ وَتَعَرُّضٌ لِبَلاءِ الدُّنيا.
-  </p>
-</blockquote>
+> قُدْرَتِهِمْ تَرْكٌ لأمْرِ اللّهِ وَتَعَرُّضٌ لِبَلاءِ الدُّنيا.
 
 23. Do not be adversaries of the blessings of Allah upon you.[^1]
 
@@ -145,11 +125,7 @@ like water, even if its heating by fire is prolonged, it is not
 prevented from extinguishing it.
 
 > 25ـ لاتَغْتَرَنَّ بِمُجامَلَةِ العَدُوِّ فَإنَّهُ كَالماءِ وإنْ أُطيلَ
-<blockquote dir="rtl">
-  <p>
-إسْخانُهُ بِالنّارِ لايَمْتَنِعُ مِنْ إطْفائِها.
-  </p>
-</blockquote>
+> إسْخانُهُ بِالنّارِ لايَمْتَنِعُ مِنْ إطْفائِها.
 
 26. Do not confront your enemy while he is charging towards you, for
 indeed his charge will aid him to overcome you and do not confront him
@@ -157,12 +133,8 @@ when he is fleeing away from you, for indeed his flight is sufficient
 for you in dealing with him.
 
 > 26ـ لاتَعَرَّضْ لِعَدُوِّكَ وهُوَ مُقْبِلٌ، فَإنَّ إقْبالَهُ يُعْينُهُ
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ، ولاتَعَرَّضْ لَهُ وهُوَ مُدْبِرٌ، فَإنَّ إدْبارَهُ يَكْفيكَ
-أمْرُهُ.
-  </p>
-</blockquote>
+> عَلَيْكَ، ولاتَعَرَّضْ لَهُ وهُوَ مُدْبِرٌ، فَإنَّ إدْبارَهُ يَكْفيكَ
+> أمْرُهُ.
 
 27. Do not declare your enmity to your enemy and do not rebuke your
 friend; and accept the excuse [you are given] even if it is a lie, and
@@ -170,11 +142,7 @@ do not give [a forceful] response despite having the power to do so,
 even if it be your right.
 
 > 27ـ لاتُنابِذْ عَدُوَّكَ، ولاتُقَرِّعْ صَديقَكَ، وأقْبَلِ العُذْرَ،
-<blockquote dir="rtl">
-  <p>
-وإنْ كانَ كِذْباً وَدَعِ الجَوابَ عَنْ قُدْرَة وإنْ كانَ لَكَ.
-  </p>
-</blockquote>
+> وإنْ كانَ كِذْباً وَدَعِ الجَوابَ عَنْ قُدْرَة وإنْ كانَ لَكَ.
 
 28. When you have hatred [for someone] then do not disassociate yourself
 [completely – and leave some room for possible future friendship].
@@ -185,11 +153,7 @@ even if it be your right.
 you be the one who always seeks out the faults of people.
 
 > 29ـ لِيَكُنْ أبْغَضُ النّاسِ إلَيْكَ وأبْعَدُهُمْ مِنْكَ أطْلَبَهُمْ
-<blockquote dir="rtl">
-  <p>
-لِمَعائِبِ النّاسِ.
-  </p>
-</blockquote>
+> لِمَعائِبِ النّاسِ.
 
 30. One who hates you incites you [to wrongdoing].
 
@@ -200,11 +164,7 @@ flatters you for your faults is in actually an enemy who is wronging
 you.
 
 > 31ـ إنَّما سُمِّيَ العَدُوُّ عَدُوّاً لأنَّهُ يَعْدُوعَلَيْكَ، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-داهَنَكَ في مَعائِـبِكَ فَهُوَ العَدُوُّ العادي عَلَيْكَ.
-  </p>
-</blockquote>
+> داهَنَكَ في مَعائِـبِكَ فَهُوَ العَدُوُّ العادي عَلَيْكَ.
 
 32. Keep away from the enemies of Allah and maintain ties with the
 friends of Allah.
@@ -238,11 +198,7 @@ defeating him] and seize opportunity, you will be [thus become]
 triumphant.
 
 > 38ـ اِسْتَعْمِلْ مَعَ عَدُوِّكَ مُراقِبَةَ الإمكانِ وَانْتِهاضَ
-<blockquote dir="rtl">
-  <p>
-الفُرْصَةِ، تَظْفَرْ.
-  </p>
-</blockquote>
+> الفُرْصَةِ، تَظْفَرْ.
 
 39. The weakest of enemies in plotting is the one who manifests his
 enmity.
@@ -258,11 +214,7 @@ and beautiful actions is easier than facing them and combating them with
 the torment of battle.
 
 > 41ـ اَلاِسْتِصْلاحُ لِلأعْداءِ بِحُسْنِ المَقالِ، وجَمِيلِ الأفْعالِ،
-<blockquote dir="rtl">
-  <p>
-أهْوَنُ مِنْ مُلاقاتِهِمْ ومُغالَبَتِهِمْ بِمَضِيْضِ القِتالِ،
-  </p>
-</blockquote>
+> أهْوَنُ مِنْ مُلاقاتِهِمْ ومُغالَبَتِهِمْ بِمَضِيْضِ القِتالِ،
 
 42. One who reforms [and reconciles with] his opponents attains his
 goal.
@@ -289,11 +241,7 @@ goal.
 and disgrace man.
 
 > 47ـ مَواقِفُ الشَّنَئانِ تُسْخِطُ الرَّحْمنَ، وتَرْضِي الشَّيْطانَ،
-<blockquote dir="rtl">
-  <p>
-وتَشينُ الإنْسانَ.
-  </p>
-</blockquote>
+> وتَشينُ الإنْسانَ.
 
 48. One who exceeds in [his] animosity has sinned and one who falls
 short [and does not show enmity when it is required] is defeated.
@@ -321,5 +269,4 @@ increase.
 
 [^1]: Or: Do not be enemies [of each other] for the [sake of the]
 blessings of Allah upon you.
-
 

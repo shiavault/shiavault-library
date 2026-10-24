@@ -1,10 +1,6 @@
 The Greatest Calamity Inflicted Islam:
 ======================================
 
-  
-  
-  
-
 Al-Ustadh Muhammad Abduh said: Islam was never inflicted with a calamity
 greater than the bida’ (heresies) ascribed to it by those pretending to
 be Muslims, and the fabrications invented by the Ghulat, which corrupted
@@ -19,7 +15,7 @@ the honourable Sahabah refraining from reporting the hadith, except from
 those whom they trusted to be truthful, for fear from the perversion
 that inflicted the narrations. In the introduction to his Sahih, Muslim
 said: “I have never seen the righteous people telling lies in anything
-more then in the hadith <span id="_anchor_742"></span>742 and then evil
+more then in the hadith 742 and then evil
 of slandering spread, with fabrication and invention exacerbating and
 extending with passage of time.” Whoever going through the introduction
 of al-Imam Muslim, would verily realize how intense toil and fatigue he
@@ -51,8 +47,7 @@ and believing in his utterances, he would begin to relate them
 traditions from his old creed, ascribing them to the Prophet (S) or some
 of his Companions, as a result of which all the Jewish traditions
 (Israeliyyat) and whatever was contained in the expositions of the Torah
-were recorded in the Islamic books as being Prophetic traditions. <span
-id="_anchor_743"></span>743 And some of them have deliberately
+were recorded in the Islamic books as being Prophetic traditions. 743 And some of them have deliberately
 fabricated traditions which if their meanings be firmly rooted in the
 minds, they would deteriorate the morals and impel to neglect and think
 little of legal and religious duties, slackening people’s resolutes from
@@ -72,7 +67,7 @@ and narrating abundant sayings would elevate the position of religion,
 so they babbled whatever they willed, seeking by this reward and thawab,
 while they would not gain but heavy burden and punishment. It is them in
 regard of whom Muslim in his Sahih said: I have not seen the righteous
-telling lies more than in the hadith. <span id="_anchor_744"></span>744
+telling lies more than in the hadith. 744
 He means by ‘the righteous’ those who used to prolong their sibal
 (beard), widen their trousers, bow down their heads, keep low their
 voices, frequent regularly to the mosques with their ghosts, while being
@@ -86,7 +81,7 @@ treachery to be a virtue, so they believe that ascribing what they
 surmise to the Prophet’s Companions will increase in their honour and
 make others hold them in higher esteem, so as to be fit for what is said
 in their regard: “A wise enemy is much better than an ignorant lover,
-<span id="_anchor_745"></span>745 (with some abbreviation).
+745 (with some abbreviation).
 
 When broaching to \`ilm al-hadith in the bill he laid down for reforming
 the education, and what method should be followed, he (Muhammad Abduh)
@@ -95,7 +90,7 @@ interpreting the Qur’an and exposer for it, with deleting from it
 whatever contradicting the Quranic text, like the unauthentic traditions
 and exertion of opinion (ijtihad), so as to restore the correct
 traditions to it, if their outward appearance deludes of being
-contradictory (to the Qur’an). <span id="_anchor_746"></span>746
+contradictory (to the Qur’an). 746
 
 In an address to one of brothers (in Din), counselling him to keep on
 reading the Qur’an and the Prophetic sirah (conduct), he said: “Keep on
@@ -109,16 +104,15 @@ between a word and another the conjunction of which was unknown for you.
 Then betake yourself to what the Qur’an designated for you, bear down
 upon what it assaults, and attach to this study of the Prophetic
 conduct, admitting the reasonable correct matters, keeping your eyes
-away from the weak and rejected things. <span
-id="_anchor_747"></span>747
+away from the weak and rejected things. 747
 
 In interpreting the Qur’an and comprehending the religion, he said: In
 this regard that which should be followed is only the decisive proof,
 since this issue comes under bab al-aqa’id (doctrines), and it is
 dependable upon certainty that can’t be taken through conjecture and
-imagination. <span id="_anchor_748"></span>748
+imagination. 748
 
-### Believing in Message of Muhammad (S): <span id="_anchor_749"></span>749
+### Believing in Message of Muhammad (S): 749
 
 Al-Ustadh Muhammad Abduh says:
 
@@ -144,13 +138,12 @@ narration. Whereas that who has not received the khabar, or it reached
 him with a suspicion seeming to him in its veracity, while it being not
 mutawatir, entailing that non-believing it would not slander his faith.
 The basis to be followed in all that being: Whoever denies anything
-<span id="_anchor_750"></span>750 while knowing that it was disclosed or
+750 while knowing that it was disclosed or
 acknowledged by the Prophet (S), he has in fact confuted the
 truthfulness of the message and negated it. The same is true in regard
 of that who neglected the successively narrated (mutawatir) knowledge,
 though being aware of its being necessarily of the religion and found in
-the Book, and little of the Sunnah is got from the acts. <span
-id="_anchor_751"></span>751
+the Book, and little of the Sunnah is got from the acts. 751
 
 ### Can Anyone Authenticated by Earliers be Deemed Thiqah?
 
@@ -179,7 +172,7 @@ talking about the contradiction among the correct narrations for him and
 others. Besides, it was inaccessible for men of hadith to recognize
 congruity or contradiction of some traditions to the truth, like the
 outward of hadith of Abu Dharr in view of al-Bukhari and Muslim and
-others: <span id="_anchor_752"></span>752 Where will be the sun after it
+others: 752 Where will be the sun after it
 sets? As what was thought by the predecessors being that the sun sets
 away from the earth as a whole, with its light being stopped from
 shining over it during the night! resting under the Throne waiting for
@@ -209,7 +202,7 @@ the Prophet (S) due to embracing Islam so lately, and he most likely
 heard them from Ka’b al-Ahbar. And the Companion’s mursal tradition (one
 reported with no chain of transmitters) would be hujjah when
 
-being heard from another Compaion, <span id="_anchor_753"></span>753 the
+being heard from another Compaion, 753 the
 fact that can be said in regard of Ibn Abbas and others who used to
 report from Ka’b al-Ahbar and trust him.
 
@@ -227,7 +220,7 @@ especially the prolonged narration by Muslim.
 
 Like that is the relation of some of the narrators for Ka’b and Wahb
 from the books of the Children of Israel. Yahya ibn Mu’in, Ahmad, Abu
-Hatam and his son and their likes, <span id="_anchor_754"></span>754
+Hatam and his son and their likes, 754
 were unable to discern which ones were correct and which ones were
 incorrect among these traditions due to their not being acquainted with
 those books, and non-availability of an evidence proving the falsity of
@@ -238,8 +231,7 @@ non-truthfulness of two or more of these narrators, can he then argue
 pertinaciously or deny the truth and believe them falsely and
 hypocritically? Or can he hide the truth from the Muslims so as not to
 be disagreeing with those who were before him, in respect of whatever
-became known for him but not for them! Hence the critic, <span
-id="_anchor_755"></span>755 altruist over the Sunnah, couldn’t realize
+became known for him but not for them! Hence the critic, 755 altruist over the Sunnah, couldn’t realize
 that the atheists, whose impeachment in the Sunnah with the ta’dil of
 Ka’b and Wahb, used to mistrust the Muslims in respect of the usul and
 definite issues, and even the Qur’anic texts! I reiterate and emphasize
@@ -267,8 +259,7 @@ of the Book of Allah and other books, and raised doubts against Islam
 that were misused by its atheist enemies to charge it with being
 religion of superstitions and suspicions. And other than the
 superstitions may contain bigger doubts, like the one stated by Ka’b
-about the description of the Prophet in the Torah, <span
-id="_anchor_756"></span>756 which was confirmed to be reported from him
+about the description of the Prophet in the Torah, 756 which was confirmed to be reported from him
 by the critic.
 
 He continued by saying: The sarcasm we raise against them both (Ka’b and
@@ -283,7 +274,7 @@ room for doubting that they used to cheat the Muslims, foisting into
 their religious books and narrations things entailing slander against
 their Din. Consequently no one would wonder to see them affiliating
 themselves with Jewish and Magian societies, which used to conspire
-against Islam and Arabs. <span id="_anchor_757"></span>757
+against Islam and Arabs. 757
 
 ### Criticism by Ulama’ of Fiqh al-Hadith:
 
@@ -297,8 +288,7 @@ called in the present age the analytical criticism (al-naqd al-tahlili).
 Afterwards, they began to doubt and impeach many traditions, even the
 ones of the authentic asanid, speaking against their expositions, with
 some of them compiling books dedicated for this purpose, the most famous
-of which being: Mushkil al-athar of al-Tahawi. <span
-id="_anchor_758"></span>758
+of which being: Mushkil al-athar of al-Tahawi. 758
 
 On the whole, the concern of men of jarh and ta’dil was concentrated on
 verifying the narrators of the traditions, in respect of goodness of
@@ -319,8 +309,7 @@ In the introduction to the book al-Mughni wa al-Sharh al-kabir, the
 following statement is cited:
 
 “Out of proofs of the madhahib it can be deduced that most of the
-traditions that are used by men of hadith to argue men of opinion <span
-id="_anchor_759"></span>759 and analogy from among ulama’ of riwayah,
+traditions that are used by men of hadith to argue men of opinion 759 and analogy from among ulama’ of riwayah,
 being ahadith al-ahad that were not
 
 so abundant in the first stage of Islam, or nothing was reported from
@@ -334,7 +323,7 @@ opinion in its regard, and it would be better for him and people, as had
 it been among necessities of the Din that Allah wanted to impose upon
 His bondmen as duties, He would have manifested them without
 questioning, since Allah the Exalted knows better what benefits people
-more. <span id="_anchor_760"></span>760
+more. 760
 
 The Prophet (S) was averse to asking abundant questions, forbidding from
 this habit so as not to be a cause to multiplying the obligations, the
@@ -374,7 +363,7 @@ pasture (of grass) and became strong, with completing one full year.
 Al-Jawhari said: The best of it is that which reached the age of one
 year. This hadith is unanimously concurred, while Ahl al-Sunnah,
 including the four imams (of the schools) prohibited sacrifice of the
-trunk and goats. <span id="_anchor_761"></span>761
+trunk and goats. 761
 
 ### Can Traditions be Counted a General Law?
 
@@ -397,7 +386,7 @@ can be refuted by several things:
 
 First: If it be contradictory to the necessities of minds, when its
 falsehood would be known since the shar’ can be approved by
-permissibilities of minds, <span id="_anchor_762"></span>762 not the
+permissibilities of minds, 762 not the
 contrary way.
 
 Second: If it be contradictory to a text of the Book or successive
@@ -451,8 +440,7 @@ consideration, or decisive evidence, or what was fit to be mutawatir but
 hasn’t come so, and the legal rules, or its contradiction to all of
 these things in a whole, like the miracles or that which was sought to
 obtain from the memories or books of the narrators after searching into
-the traditions, but could not be found. <span
-id="_anchor_763"></span>763
+the traditions, but could not be found. 763
 
 ### State of People during First Era and After It:
 
@@ -460,7 +448,7 @@ Al-Imam Abu Zayd al-Dabbusi, in his book Taqwim al-adillah, says: People
 of the first era (of Islam), i.e. the Sahabah and Tabi’un and Righteous
 (Salihun), used to base their affairs on the hujjah (proof). So they
 used to act according to the Book, then to the Sunnah of the Messenger,
-<span id="_anchor_764"></span>764 and after him to the utterances of
+764 and after him to the utterances of
 those who succeeded him, particularly those which can be proved right
 through proof. Thus someone may act according to utterance of Umar in a
 certain issue, but then he may contradict it with a saying of Ali in
@@ -480,8 +468,7 @@ the rijal, believing the veracity to lie in being born on that madhhab.
 Then, every community coming after them embarked on following the guide
 of their leader, whomsoever, without any consideration to
 qualifications, the fact led to substituting the sunan with the bida’
-(innovations) and making the truth lost among desires.<span
-id="_anchor_765"></span>765
+(innovations) and making the truth lost among desires.765
 
 ### Fiqh during the Prophet’s Lifetime:
 
@@ -499,10 +486,8 @@ During his lifetime, the Messenger of Allah (S) used to perform ablution
 and the Companions would learn from him and imitate him, without his
 embarking on clarifying which part being rukn and which are being
 recommended. Also when he was performing prayers, they would observe his
-way of praying and follow his example in prayers, <span
-id="_anchor_766"></span>766 and the same is said in the case of doing
-the rites of hajj ((pilgrimage to God’s House).<span
-id="_anchor_767"></span>767 That was his way of teaching the legal rules
+way of praying and follow his example in prayers, 766 and the same is said in the case of doing
+the rites of hajj ((pilgrimage to God’s House).767 That was his way of teaching the legal rules
 to the Muslims, without manifesting for instance, the obligations of
 wudu’ to be six or four, or supposing that some one might take ablution
 without muwalat (consecutive order), so as to judge his wudu’ to be
@@ -521,21 +506,16 @@ Abbas) said: They were not questioning but about things that avail them.
 Al-Qasim said: You are questioning with regard to things about which we
 never used to inquire, and searching for things that we were not seeking
 for ... I have never met people of easier conduct (sirah), or less
-strictness than the Sahabah. <span id="_anchor_768"></span>768
+strictness than the Sahabah. 768
 
 On the whole, such was his (S) noble habit, so each one of the Sahabah
 would take whatever he found easy to apply of his worship, verdicts
 (fatawa) and rules, which he learned by heart and comprehended,
 realizing for every one of them a certain aspect according to the
 evidences indicating it. Their main dependable criterion in this regard
-was only the inner consciousness and confidence, <span
-id="_anchor_769"></span>769 without paying attention to ways of
+was only the inner consciousness and confidence, 769 without paying attention to ways of
 inference, as the Arabs used to conceive the denotation of words among
-themselves. <span id="_anchor_770"></span>770
-
-  
-  
-  
+themselves. 770
 
 746. Ibid., p. 516.
 

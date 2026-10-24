@@ -305,4 +305,3 @@ gods before Islam.
 
 [^23]: Quoted from Bihar ul-Anwar; vol. 15 part 2 p. 210.
 
-

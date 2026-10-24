@@ -44,12 +44,8 @@ The Three Recommendations of the Prophet (S)
 It is very proper for man to speak softly and not loudly; this is a
 praiseworthy habit which Luqman, the Wise, recommended to his son:
 
-<blockquote dir="rtl">
-  <p>
-... وَاغْضُضْ مِنْ صَوْتِكَ إِنَّ أَنْكَرَ الأَصْوَاتِ لَصَوْتُ
-الْحَمِيرِ
-  </p>
-</blockquote>
+> ... وَاغْضُضْ مِنْ صَوْتِكَ إِنَّ أَنْكَرَ الأَصْوَاتِ لَصَوْتُ
+> الْحَمِيرِ
 
 ***“… And pursue the right course in your going about and lower your
 voice; surely the most hateful of voices is braying of the
@@ -126,12 +122,8 @@ course this is something which has been emphasized and has been
 mentioned as the most delicate quality which causes a believer to attain
 his prosperity:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ الْمُؤْمِنُونَ \* الَّذِينَ هُمْ فِي صَلاَتِهِمْ
-خَاشِعُون
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ الْمُؤْمِنُونَ \* الَّذِينَ هُمْ فِي صَلاَتِهِمْ
+> خَاشِعُون
 
 ***“Successful indeed are the believers, who are humble in their
 prayers…”***[^2]
@@ -145,23 +137,15 @@ effects become manifested in the organs and members of the body such as
 eyes, but at times humility is attributed to certain parts of the body,
 as the Gracious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-... وَخَشَعَتِ الأَصْوَاتُ لِلرَّحْمَنِ فَلاَ تَسْمَعُ إِلاَّ هَمْسًا
-  </p>
-</blockquote>
+> ... وَخَشَعَتِ الأَصْوَاتُ لِلرَّحْمَنِ فَلاَ تَسْمَعُ إِلاَّ هَمْسًا
 
 ***“…and the voices shall be low before the Beneficent God so that you
 shall hear ought but a soft sound.”***[^3]
 
 Elsewhere, He states:
 
-<blockquote dir="rtl">
-  <p>
-خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا يُدْعَوْنَ
-إِلَی السُّجُودِ وَهُمْ‌ سَالِمُونَ
-  </p>
-</blockquote>
+> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا يُدْعَوْنَ
+> إِلَی السُّجُودِ وَهُمْ‌ سَالِمُونَ
 
 ***“Their looks cast down, abasement shall overtake them; and they were
 called upon to make obeisance; but they shall not be able.”***[^4]
@@ -279,13 +263,9 @@ miracle in the direction of edifying and purifying the inner soul and
 getting rid of inward ethical vices and establishing invaluable
 attributes like humility and lowliness, as the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَاني
-تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ
-تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلی ذِكْرِ اللهِ...
-  </p>
-</blockquote>
+> اللهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَاني
+> تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ
+> تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلی ذِكْرِ اللهِ...
 
 ***“Allah has revealed the best announcement, a book conformable in its
 various parts, repeating whereat do shudder the skins of those who fear
@@ -301,12 +281,8 @@ his hardheartedness increases.
 Considering the importance and gravity of the need to protect the honor
 of the Gracious Qur’an and to grant it value, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قُرِیَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ
-تُرْحَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا قُرِیَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ
+> تُرْحَمُونَ
 
 ***“And when the Qur’an is recited, then listen to it and remain silent,
 that mercy may be shown to you.”***[^8]
@@ -380,12 +356,8 @@ Gracious Qur’an ought to be recited with a beautiful and sorrowful sound
 which gives rise to humility and submissiveness in the listeners and
 also causes admonition and wakefulness and self-awareness in them:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلی الرَّسُولِ تَرَی أَعْيُنَهُمْ
-تَفِيضُ مِن الدَّمْعِ...
-  </p>
-</blockquote>
+> وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلی الرَّسُولِ تَرَی أَعْيُنَهُمْ
+> تَفِيضُ مِن الدَّمْعِ...
 
 ***“And when they hear what has been revealed to the Apostle, you will
 see their eyes*** ***overflowing with tears…”***[^9]
@@ -440,12 +412,8 @@ transformation in him and no medicine can cure his inner pains. There is
 no doubt that recitation of the Gracious Qur’an is a remedy of man’s
 inner spiritual pains, as states the Gracious Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يِا اَيُّهَا النَّاسُ قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ
-وَشَفَاءٌ لِمَا فِي الصُّدُورِ وَهُدیً وَرَحْمَةٌ لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> يِا اَيُّهَا النَّاسُ قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ
+> وَشَفَاءٌ لِمَا فِي الصُّدُورِ وَهُدیً وَرَحْمَةٌ لِلْمُؤْمِنِينَ
 
 ***“O men! There has come to you an admonition and a healing for what is
 in the breasts and guidance and a mercy for the believers.”***[^11]
@@ -652,5 +620,4 @@ which is proximity [*qurb*] to Allah.
 [^13]: Ibid.
 
 [^14]: Bihar al-Anwar, vol. 67, p. 305.
-
 

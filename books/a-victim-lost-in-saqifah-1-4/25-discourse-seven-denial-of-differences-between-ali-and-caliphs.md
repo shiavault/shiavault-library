@@ -338,11 +338,11 @@ infallible Ahle Bayt of Prophet are ignored. It is claimed:
 **[1]** Abdul Kareem Bi-Aazaar Shirazi: *Mashal-e-Ittehaad* (Torch of
 Unity), Pg. 22  
  **[2]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (Unity of Islamic
-Sects), (Preface to the 3<sup>rd</sup> Edition), Pg. 11  
+Sects), (Preface to the 3rd Edition), Pg. 11  
  **[3]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (Unity of Islamic
-Sects), (Preface to the 3<sup>rd</sup> Edition) Pg. 207  
+Sects), (Preface to the 3rd Edition) Pg. 207  
  **[4]** Ibid. *Hambastigi-e-Mazaahib-e-Islami* (Unity of Islamic
-Sects), (Preface to the 3<sup>rd</sup> Edition) Pg. 217  
+Sects), (Preface to the 3rd Edition) Pg. 217  
  **[5]** Mustafa Husaini Tabatabai: *Raahi Bi Soo-e-Wahdat-e-Islami*
 (Way to Islamic Unity), Pg. 176
 
@@ -542,7 +542,7 @@ that had not Ali given *Bayyat* Islam would have never survived. So we
 are rather under an obligation to Ali because of his *Bayyat* Islam
 existed and we are Muslims accordingly. (Allamah Askari: *Role of Imams
 in revival of faith*, Vol. 14, Pg. 35-36) For more details of the above
-case refer to Section One of 4<sup>th</sup> Volume of this book.**  
+case refer to Section One of 4th Volume of this book.**  
  [1]** Umar respected Ibn Abbas more and gave priority to belittle Ali.
 This was a policy so that Ibn Abbas narrate traditions. Allamah Askari:
 *Saqifah,* Pg. 73  
@@ -683,7 +683,7 @@ We have specified all aspects and dimensions of this discussion
 regarding extremist unity-seekers in second volume of this book. We
 suffice with this much in this volume. We invite your attention to the
 analysis of Ustad Ja’far Murtuza Amili in his book *Analysis of the
-political life of Imam Hasan Mujtaba* (2<sup>nd</sup> Edition, Pgs.
+political life of Imam Hasan Mujtaba* (2nd Edition, Pgs.
 88-125):
 
 He commences his analysis under the heading: ‘A Surprising Role’ and

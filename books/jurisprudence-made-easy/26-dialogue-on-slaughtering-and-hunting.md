@@ -348,4 +348,3 @@ placed in front of other people.
  17. Do not over eat.  
  18. Using the right hand, for those who are not left-handed, in eating.
 
-

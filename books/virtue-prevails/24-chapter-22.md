@@ -129,4 +129,3 @@ guidance and hope that Allah may help us."
 Ahmad and Sumayah married soon after and Hamid became a good Muslim
 believer.
 
-

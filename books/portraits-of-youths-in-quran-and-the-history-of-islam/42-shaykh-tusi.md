@@ -5,7 +5,7 @@ Shaykh Tusi
 
 Muhammad ibn Tusi, famous as Shaykh Tusi is the most well known jurist
 and Mujtahid of the Shias who lived during the first half of the
-5<sup>th</sup> century A.H. He was originally an inhabitant of Tus and
+5th century A.H. He was originally an inhabitant of Tus and
 was born there in 385 A.H. He received primary education in his homeland
 of Iran and after that he moved to Baghdad for higher studies.
 

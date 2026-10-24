@@ -422,4 +422,3 @@ rise to different interpretations and developments. All this is part of
 the complex methodological inheritance that continues to shape analytic
 philosophy today.
 
-

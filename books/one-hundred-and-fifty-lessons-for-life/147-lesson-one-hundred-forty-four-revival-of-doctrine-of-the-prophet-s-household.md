@@ -3,12 +3,8 @@ Lesson One Hundred Forty Four: Revival Of Doctrine Of The Prophet’s Household
 
 Imam Ar-Ridha’ (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَلَسَ مَجْلِساً يُحْيى فيهِ اَمْرُنا لَمْ يَمُتْ قَلْبُهُ يَوْمَ
-تَمُوتُ الْقُلُوبُ
-  </p>
-</blockquote>
+> مَنْ جَلَسَ مَجْلِساً يُحْيى فيهِ اَمْرُنا لَمْ يَمُتْ قَلْبُهُ يَوْمَ
+> تَمُوتُ الْقُلُوبُ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ awaken the thoughts.
 
 [^1]: Turasul-Aiemma, page 443. Wasa'il Al-Shia, vol 14, page 502.
 Al-Amali, page 73. Mishkat Al-Anwar, page 257.
-
 

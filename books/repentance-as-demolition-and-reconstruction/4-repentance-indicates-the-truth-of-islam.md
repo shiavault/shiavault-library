@@ -165,4 +165,3 @@ through his grandfather the Messenger of Allah (s.a.w.).
 [^3]: Muhammad Mehdi Al-Naraqi, Jami' al-Sa'adat (The Collector of
 Felicities), vol. 3, p. 65
 
-

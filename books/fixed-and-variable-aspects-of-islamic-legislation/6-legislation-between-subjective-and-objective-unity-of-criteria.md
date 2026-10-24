@@ -138,7 +138,6 @@ excessive thirst that could lead to death, in which case, one is allowed
 to partake in only that amount of alcohol necessary to deliver him from
 imminent death.
 
-
 Allah, the Most High, states:
 
 "And whoever is forced to it without the desire (for it) nor to
@@ -212,7 +211,6 @@ as they are permissible in the initial rule, while they would be
 prohibited where they result in political and economic subjugation by a
 foreign power.
 
-
 **3- Rivalry and the Giving of Priority to the More Important Over the
 Important:**
 
@@ -262,7 +260,6 @@ harm are simultaneously caused by exercising it, it comes under the
 principle of 'warding off harm is more important than deriving benefit'.
 In this case, permissibility or obligation depends on whether the action
 will bring about detriment.
-
 
 Similarly, it becomes obligatory to refrain from a practice which is
 initially obligatory, where a harm equivalent to the benefit occurs, if
@@ -375,7 +372,6 @@ execution. They are:
 in his capacity as the ruler)
 2- Initial Rules
 3- Secondary Rules
-
 
 **The State and the Vacant Zone of Legislation**
 
@@ -630,7 +626,6 @@ accompany man's life.
 
 Praise be to Allah, the Lord of the Worlds.
 
-
 **Endnotes**
 
 1. Gorge Serton; History of Science, First Book , printed in Cairo in
@@ -702,5 +697,4 @@ p.72.
 57. Risalat al-Tawakhi, reporting from Sayyid Muhammad Taqi Hakim, Usul
 al-Amma lil Fiqhil Maqarin, p. 381. . Quoted from al-Sayyid Muhammad
 Taqi al-Hakim, Al-Usul al-Aammah lil Fiqih al-Muqaran, p. 382
-
 

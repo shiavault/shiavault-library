@@ -4,13 +4,9 @@ Section 5: Invitation to the followers of the Book to Unity of Allah as a common
 Surah 'Ali-Imran, Verse 65
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ لِمَ تُحَآجُّونَ فِي إِبْرَاهِيمَ وَمَا
-أُنزِلَتِ التَّورَاةُ وَالإنجِيلُ إِلاَّ مِن بَعْدِهِ أَفَلاَ
-تَعْقِلُونَ
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ لِمَ تُحَآجُّونَ فِي إِبْرَاهِيمَ وَمَا
+> أُنزِلَتِ التَّورَاةُ وَالإنجِيلُ إِلاَّ مِن بَعْدِهِ أَفَلاَ
+> تَعْقِلُونَ
 
 **65.** ***"O' People of the Book! Why do you dispute about Abraham when
 the Torah was not sent down, neither the Evangel, but after him? Have
@@ -36,13 +32,9 @@ Torah was not sent down, neither the Evangel, but after him?***
 Surah 'Ali-Imran, Verse 66
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَاأَنتُمْ هَؤُلاء حَاجَجْتُمْ فِيمَا لَكُم بِهِ عِلمٌ فَلِمَ
-تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِ عِلْمٌ وَاللّهُ يَعْلَمُ
-وَأَنتُمْ لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> هَاأَنتُمْ هَؤُلاء حَاجَجْتُمْ فِيمَا لَكُم بِهِ عِلمٌ فَلِمَ
+> تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِ عِلْمٌ وَاللّهُ يَعْلَمُ
+> وَأَنتُمْ لاَ تَعْلَمُونَ
 
 **66.** ***"Ha, you are those who disputed about that of which you had
 knowledge; why then do you dispute about that of which you have no
@@ -76,12 +68,8 @@ his book.)
 Surah 'Ali-Imran, Verse 67
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ إِبْرَاهِيمُ يَهُودِيًّا وَلاَ نَصْرَانِيًّا وَلَكِن كَانَ
-حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> مَا كَانَ إِبْرَاهِيمُ يَهُودِيًّا وَلاَ نَصْرَانِيًّا وَلَكِن كَانَ
+> حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ
 
 **67.** ***"Abraham was neither (as) Jew nor (as) Christian but he was
 an upright Muslim, and he was not (one) of polytheists."***
@@ -106,12 +94,8 @@ polytheists."***
 Surah 'Ali-Imran, Verse 68
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَـذَا
-النَّبِيُّ وَالَّذِينَ آمَنُواْ وَاللّهُ وَلِيُّ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَـذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُواْ وَاللّهُ وَلِيُّ الْمُؤْمِنِينَ
 
 **68.** ***"Verily the nearest people to Abraham are those who follow
 him and this Prophet and those who believe, and Allah is the Guardian of
@@ -156,12 +140,8 @@ the one is a near relative of him."* [^5]
 Surah 'Ali-Imran, Verse 69
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يُضِلُّونَكُمْ وَمَا
-يُضِلُّونَ إِلاَّ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
-  </p>
-</blockquote>
+> وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يُضِلُّونَكُمْ وَمَا
+> يُضِلُّونَ إِلاَّ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
 
 **69.** ***A group among the people of the Book desire to make you go
 astray, while they make not astray but themselves, and they are not
@@ -211,12 +191,8 @@ heartily desire your aberration.
 Surah 'Ali-Imran, Verse 70
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللّهِ وَأَنتُمْ
-تَشْهَدُونَ
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللّهِ وَأَنتُمْ
+> تَشْهَدُونَ
 
 **70.** ***"O' People of the Book! Why do you disbelieve in the Signs of
 Allah while you bear witness (to their truth)? "***
@@ -234,12 +210,8 @@ while you bear witness (to their truth)? "***
 Surah 'Ali-Imran, Verse 71
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ
-وَتَكْتُمُونَ الْحَقَّ وَأَنتُمْ تَعْلَمُونَ
-  </p>
-</blockquote>
+> يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ
+> وَتَكْتُمُونَ الْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
 **71.** ***"O' People of the Book! Why do you confound the Truth with
 falsehood and hide the Truth while you know (it)?"***
@@ -259,13 +231,9 @@ and hide the Truth while you know (it)? "***
 Surah 'Ali-Imran, Verse 72
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ الْكِتَابِ آمِنُواْ بِالَّذِيَ
-أُنزِلَ عَلَى الَّذِينَ آمَنُواْ وَجْهَ النَّهَارِ وَاكْفُرُواْ
-آخِرَهُ لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
-</blockquote>
+> وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ الْكِتَابِ آمِنُواْ بِالَّذِيَ
+> أُنزِلَ عَلَى الَّذِينَ آمَنُواْ وَجْهَ النَّهَارِ وَاكْفُرُواْ
+> آخِرَهُ لَعَلَّهُمْ يَرْجِعُونَ
 
 **72.** ***"And a group of the People of the Book said: 'Believe in what
 has been sent down to those who believe, at the opening of the day, and
@@ -316,14 +284,10 @@ secrets and plans of His enemies.
 Surah 'Ali-Imran, Verse 73
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تُؤْمِنُواْ إِلاَّ لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ الْهُدَى
-هُدَى اللّهِ أَن يُؤْتَى أَحَدٌ مِّثْلَ مَا أُوتِيتُمْ أَوْ
-يُحَآجُّوكُمْ عِندَ رَبِّكُمْ قُلْ إِنَّ الْفَضْلَ بِيَدِ اللّهِ
-يُؤْتِيهِ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَلاَ تُؤْمِنُواْ إِلاَّ لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ الْهُدَى
+> هُدَى اللّهِ أَن يُؤْتَى أَحَدٌ مِّثْلَ مَا أُوتِيتُمْ أَوْ
+> يُحَآجُّوكُمْ عِندَ رَبِّكُمْ قُلْ إِنَّ الْفَضْلَ بِيَدِ اللّهِ
+> يُؤْتِيهِ مَن يَشَاء وَاللّهُ وَاسِعٌ عَلِيمٌ
 
 **73.** ***"And do not believe save in one who follows your religion.
 say: "Verily the (true) guidance is Allah's guidance -that a person may
@@ -376,11 +340,7 @@ also have no trust to anyone other than themselves.
 Surah 'Ali-Imran, Verse 74
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاء وَاللّهُ ذُو الْفَضْلِ الْعَظِيمِ
-  </p>
-</blockquote>
+> يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاء وَاللّهُ ذُو الْفَضْلِ الْعَظِيمِ
 
 ***74.*** ***"He specially chooses for His mercy whom He pleases; and
 Allah is the Lord of mighty grace."***
@@ -398,15 +358,11 @@ of Mighty Grace."***
 Surah 'Ali-Imran, Verse 75
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ أَهْلِ الْكِتَابِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِ
-إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ
-إِلَيْكَ إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَلِكَ بِأَنَّهُمْ
-قَالُواْ لَيْسَ عَلَيْنَا فِي الأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى
-اللّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمِنْ أَهْلِ الْكِتَابِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِ
+> إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ
+> إِلَيْكَ إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَلِكَ بِأَنَّهُمْ
+> قَالُواْ لَيْسَ عَلَيْنَا فِي الأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى
+> اللّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ
 
 **75.** ***"And among the People of the Book is he who, if you entrust
 him with a heap of wealth, he will return it to you; and among them is
@@ -436,12 +392,8 @@ content with it.
 Surah 'Ali-Imran, Verse 76
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلَى مَنْ أَوْفَى بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللّهَ يُحِبُّ
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> بَلَى مَنْ أَوْفَى بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللّهَ يُحِبُّ
+> الْمُتَّقِينَ
 
 **76.** ***"Yes, whoever fulfils his promise and guards (against
 evil) -then, verily Allah loves the pious ones."***
@@ -458,14 +410,10 @@ verily Allah loves the pious ones."***
 Surah 'Ali-Imran, Verse 77
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللّهِ وَأَيْمَانِهِمْ ثَمَنًا
-قَلِيلاً أُوْلَـئِكَ لاَ خَلاَقَ لَهُمْ فِي الآخِرَةِ وَلاَ
-يُكَلِّمُهُمُ اللّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ
-وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللّهِ وَأَيْمَانِهِمْ ثَمَنًا
+> قَلِيلاً أُوْلَـئِكَ لاَ خَلاَقَ لَهُمْ فِي الآخِرَةِ وَلاَ
+> يُكَلِّمُهُمُ اللّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ
+> وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 **77.** ***"Verily those who sea Allah's covenant, and their oaths, for
 a little price, these! there will be no share for them in the Hereafter,
@@ -502,14 +450,10 @@ person who does not fulfil his promise, has no religion."* [^6]
 Surah 'Ali-Imran, Verse 78
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ أَلْسِنَتَهُم بِالْكِتَابِ
-لِتَحْسَبُوهُ مِنَ الْكِتَابِ وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ
-هُوَ مِنْ عِندِ اللّهِ وَمَا هُوَ مِنْ عِندِ اللّهِ وَيَقُولُونَ عَلَى
-اللّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ أَلْسِنَتَهُم بِالْكِتَابِ
+> لِتَحْسَبُوهُ مِنَ الْكِتَابِ وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ
+> هُوَ مِنْ عِندِ اللّهِ وَمَا هُوَ مِنْ عِندِ اللّهِ وَيَقُولُونَ عَلَى
+> اللّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ
 
 **78.** ***"And verily among them is a group who twist their tongues
 with the Book that you may suppose it to be from the Book, but it is not
@@ -548,14 +492,10 @@ the deluded scholars for a community and a nation is made clear.
 Surah 'Ali-Imran, Verse 79
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ اللّهُ الْكِتَابَ وَالْحُكْمَ
-وَالنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادًا لِّي مِن
-دُونِ اللّهِ وَلَـكِن كُونُواْ رَبَّانِيِّينَ بِمَا كُنتُمْ
-تُعَلِّمُونَ الْكِتَابَ وَبِمَا كُنتُمْ تَدْرُسُونَ
-  </p>
-</blockquote>
+> مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ اللّهُ الْكِتَابَ وَالْحُكْمَ
+> وَالنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادًا لِّي مِن
+> دُونِ اللّهِ وَلَـكِن كُونُواْ رَبَّانِيِّينَ بِمَا كُنتُمْ
+> تُعَلِّمُونَ الْكِتَابَ وَبِمَا كُنتُمْ تَدْرُسُونَ
 
 **79.** ***" It is not for a human being that Allah should give him the
 Book, the judgement and prophet hood, then he should say to people: 'Be
@@ -609,12 +549,8 @@ enlighten their environments with their knowledge.
 Surah 'Ali-Imran, Verse 80
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَأْمُرَكُمْ أَن تَتَّخِذُواْ الْمَلاَئِكَةَ وَالنِّبِيِّيْنَ
-أَرْبَابًا أَيَأْمُرُكُم بِالْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
-  </p>
-</blockquote>
+> وَلاَ يَأْمُرَكُمْ أَن تَتَّخِذُواْ الْمَلاَئِكَةَ وَالنِّبِيِّيْنَ
+> أَرْبَابًا أَيَأْمُرُكُم بِالْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
 
 **80.** ***"And neither would he enjoin you that you should take the
 angels and the prophets for lords. What! Would he enjoin you with
@@ -662,5 +598,4 @@ they did not swerve from the path towards the obedience of *Allah.*
 [^5]: Majma'-ul-Bayan, vol. 2, p. 458
 
 [^6]: Naraqi Commentary, vol. 3; p. 192
-
 

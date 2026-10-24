@@ -259,4 +259,3 @@ protection again.’
 ‘But I have decided to never place myself in the protection of anyone
 besides Allah,’ replied Usman.
 
-

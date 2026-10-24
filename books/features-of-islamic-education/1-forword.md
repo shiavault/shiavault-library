@@ -57,7 +57,6 @@ Glorious to awaken our conscience and enable us to liberate Muslim
 minds, develop our lands, cleanse the earth of evil and spread prayers,
 virtue, justice and heavenly guidance throughout the world.
 
-
 A1-Balagh Foundation
 
 **Meaning Of Education**
@@ -258,5 +257,4 @@ individual, a family, a state or an institution.
 (1) (a.s.) is the abbreviation of the Arabic phrase
 aday-hi/ha'hiٌius-set am (Peace be with him/her/them).
 (2) al-Hur ai-Amili. Wasa'il al-Shi'ah, Vol. 6, Chapt. 4, p. 127.
-
 

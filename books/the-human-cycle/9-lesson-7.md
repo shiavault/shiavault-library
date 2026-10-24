@@ -117,4 +117,3 @@ come back.
 [^1]: See http://www.brilliant-baby-names.com/SocialEffects.aspx (viewed
 on March 10, 2010).
 
-

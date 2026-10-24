@@ -298,4 +298,3 @@ of Bihar al ­anwar, vol. 77, p.
 tradition reported in Kanz al-'ummal, hadith 38963.
 23. Al-Fayd al-Kashani, Mahajjat al-bayda ; vol. 7, p. 106.
 
-

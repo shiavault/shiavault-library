@@ -118,4 +118,3 @@ congratulate him on his choice. She decided to leave her husband
 unquestioned until Ahmad returned. She then turned her thoughts to her
 new lover, the young engineer.
 
-

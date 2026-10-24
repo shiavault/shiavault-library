@@ -126,4 +126,3 @@ particular nature, wishes to capture hearts and imprison the male. Thus
 the deviation begins with the female instinct and therefore the command
 to cover was issued.
 
-

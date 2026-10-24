@@ -175,4 +175,3 @@ Ahmad b. Hanbal has recorded this event in his Musnad
 
 [^3]: The Holy Qur'an (2:164) [Tr].
 
-

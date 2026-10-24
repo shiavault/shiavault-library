@@ -279,4 +279,3 @@ Hashimite descent is not halal for the Hashimites.
  Zakatul Fitra should not be given to one’s dependants, such as father, 
 mother, wife, and offspring.
 
-

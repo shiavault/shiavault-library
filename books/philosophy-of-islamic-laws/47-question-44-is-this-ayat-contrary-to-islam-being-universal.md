@@ -61,8 +61,5 @@ That Islam is a universal is known through many ways, but here it is not
 possible to give all the details. For details refer to *Din-e-Hikmat*
 published by Jamea-e-Ta'alimate Islami.
 
-
-
 [^1]: Surah Ibrahim 15:4
-
 

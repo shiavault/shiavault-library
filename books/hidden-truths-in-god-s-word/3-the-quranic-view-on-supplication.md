@@ -1,12 +1,8 @@
 The Quranic View on Supplication
 ================================
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***And your Lord says: Call upon Me, I will answer you; surely those who
 are too proud for My worship shall soon enter hell abased. (al-Mu’min,
@@ -154,11 +150,7 @@ and not, “son” (*walad*), meaning that the fruit of his life had to be a
 close servant of God and his succession would result in the continuation
 of prophethood and the guidance of humanity.
 
-<blockquote dir="rtl">
-  <p>
-يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيًّا
-  </p>
-</blockquote>
+> يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيًّا
 
 ***Who should inherit me and inherit from the children of Ya‘qub, and
 make him, my Lord, one with whom You are well pleased. (Maryam, 19/9)***
@@ -177,13 +169,9 @@ his great power and means at the service of his people to guide them so
 that the banner of *tawhid* was kept aloft and justice prevailed on the
 earth. This is the supplication of Sulaiman (A) to his Lord:
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي
-بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ
-  </p>
-</blockquote>
+> رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي
+> بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ
 
 ***My Lord! grant me that I should be grateful for Your favour which You
 have bestowed on me and on my parents, and that I should do good such as
@@ -192,13 +180,9 @@ Your righteous servants. (al-Naml, 27/19)***
 
 Next, let us also consider the supplication of Prophet Ibrahim (A):
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا
-وَتَقَبَّلْ دُعَاء رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ
-وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ
-  </p>
-</blockquote>
+> رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا
+> وَتَقَبَّلْ دُعَاء رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ
+> وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ
 
 ***My Lord! make me keep up prayer and from my offspring (too), O our
 Lord, and accept my prayer. O our Lord! grant me protection and to my
@@ -222,12 +206,8 @@ envelop them in His mercy and forgiveness:
 > رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ
 > لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
 > {o}رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُم وَمَن
-<blockquote dir="rtl">
-  <p>
-صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنتَ
-الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنتَ
+> الْعَزِيزُ الْحَكِيمُ
 
 ***Those who bear the throne and those who go around it celebrate the
 praise of their Lord and believe in Him and ask forgiveness for the
@@ -250,12 +230,8 @@ those of the Prophets and angels. The following are clear examples:
 > مُنَادِيًا يُنَادِي لِلإِيمَانِ أَنْ آمِنُواْ بِرَبِّكُمْ فَآمَنَّا
 > رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا
 > وَتَوَفَّنَا مَعَ الأبْرَارِ {o}رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا
-<blockquote dir="rtl">
-  <p>
-عَلَى رُسُلِكَ وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ
-تُخْلِفُ الْمِيعَادَ
-  </p>
-</blockquote>
+> عَلَى رُسُلِكَ وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ
+> تُخْلِفُ الْمِيعَادَ
 
 ***Those who remember Allah standing and sitting and lying on their
 sides and reflect on the creation of the heavens and the earth: Our
@@ -274,15 +250,11 @@ If we look at the verses at the end of Suratu Baqara, we see once again
 that the supplications of the believers have the same elements as the
 prayers of the Prophets, angels and the close servants of God:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا رَبَّنَا
-وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن
-قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ
-وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلاَنَا
-فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
-  </p>
-</blockquote>
+> رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا رَبَّنَا
+> وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن
+> قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ
+> وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلاَنَا
+> فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 
 ***Our Lord! do not punish us if we forget or make a mistake; Our Lord!
 do not lay on us a burden as You did lay on those before us, Our Lord do
@@ -297,11 +269,7 @@ station, developing one’s understanding and achieving proximity to God.
 For this reason, after mentioning these types of supplications in the
 Qur’an, God states:
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَجَابَ لَهُمْ رَبُّهُمْ
-  </p>
-</blockquote>
+> فَاسْتَجَابَ لَهُمْ رَبُّهُمْ
 
 ***So their Lord accepted their prayer... (Aal-Imran, 3/195)***
 
@@ -309,12 +277,8 @@ It is quite clear that in no part of this collection of supplications is
 there a plea for personal or material gain or for the fleeting pleasures
 of life. In another verse, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُم
-مِّن فَضْلِهِ
-  </p>
-</blockquote>
+> وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُم
+> مِّن فَضْلِهِ
 
 ***And He answers those who believe and do good deeds, and gives them
 more out of His grace. (al-Shura, 42/25)***
@@ -328,11 +292,7 @@ After the mention of the rituals of the Haj, and exhorting the believers
 about the remembrance of God (*dhikr*), the Qur’an states that men are
 of two types; some of them say:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الآخِرَةِ مِنْ خَلاَقٍ
-  </p>
-</blockquote>
+> رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الآخِرَةِ مِنْ خَلاَقٍ
 
 ***Our Lord! give us in the world, and they shall have nothing in the
 hereafter. (al-Baqara, 2/200)***
@@ -341,11 +301,7 @@ while others say:
 
 > رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً
 > وَقِنَا عَذَابَ النَّارِ {o} أُولَـئِكَ لَهُمْ نَصِيبٌ مِّمَّا
-<blockquote dir="rtl">
-  <p>
-كَسَبُواْ وَاللّهُ سَرِيعُ الْحِسَابِ
-  </p>
-</blockquote>
+> كَسَبُواْ وَاللّهُ سَرِيعُ الْحِسَابِ
 
 ***Our Lord! grant us good in this world and good in the hereafter, and
 save us from the chastisement of the fire. They are the ones who shall
@@ -374,13 +330,9 @@ manner of supplication, a clear example being the supplication of
 Kumail, as taught to him by Imam Ali (A). One of the phrases in this
 supplication states:
 
-<blockquote dir="rtl">
-  <p>
-يا ربّ قوّ على خدمتك جوارحى واشدد على العزمة جوانحى و هب لى الجد فى
-خشيتك و الدوام فى الاتصال بخدمتك ... و منّ عليّ بحسن اجابتك و اقلنى
-عثرتى و اغفر زلّتى
-  </p>
-</blockquote>
+> يا ربّ قوّ على خدمتك جوارحى واشدد على العزمة جوانحى و هب لى الجد فى
+> خشيتك و الدوام فى الاتصال بخدمتك ... و منّ عليّ بحسن اجابتك و اقلنى
+> عثرتى و اغفر زلّتى
 
 O Lord! Strengthen my limbs for Your service and sustain the strength of
 my hands to persevere in Your service and bestow upon me the earnestness
@@ -390,11 +342,7 @@ Your best response and reduce for me my sins and forgive my lapses.
 The supplication continues until there occurs an interesting statement
 that is resonant with our present discussion:
 
-<blockquote dir="rtl">
-  <p>
-فانك قضيت على عبادك بعبادتك و امرتهم بدعائك و ضمنت لهم الاجابة
-  </p>
-</blockquote>
+> فانك قضيت على عبادك بعبادتك و امرتهم بدعائك و ضمنت لهم الاجابة
 
 For verily, You have ordained Your worship for Your servants and
 commanded them to supplicate to You and guaranteed them a response.
@@ -416,13 +364,9 @@ acceptance; we find that all of them express noble and spiritual
 aspirations. Similarly, we should study this prayer taught by Imam Mahdi
 (AF):
 
-<blockquote dir="rtl">
-  <p>
-اللهم ارزقنا توفيق الطاعة و بعد المعصية و صدق النية و عرفان الحرمة و
-اكرمنا بالهدى و الاستقامة و سدد السننا بالصواب و الحكمة و املاء قلوبنا
-بالعلم و المعرفة و طهّر بطوننا من الحرام و الشبهة...
-  </p>
-</blockquote>
+> اللهم ارزقنا توفيق الطاعة و بعد المعصية و صدق النية و عرفان الحرمة و
+> اكرمنا بالهدى و الاستقامة و سدد السننا بالصواب و الحكمة و املاء قلوبنا
+> بالعلم و المعرفة و طهّر بطوننا من الحرام و الشبهة...
 
 O Lord grant us the gift of being obedient to you,  
  and being remote from sin,  
@@ -487,11 +431,7 @@ God had also guaranteed the acceptance of these sorts of prayers, then
 He would not have allowed the following order and arrangement to prevail
 on earth, where He states:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ
-  </p>
-</blockquote>
+> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ
 
 ***Verily, We have created man to be in distress. (al-Balad, 90/4)***
 
@@ -501,12 +441,8 @@ tribulations in order to test man, and on the other he would remove all
 these difficulties at their supplication. For He has stated in the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لا
-يُفْتَنُونَ
-  </p>
-</blockquote>
+> أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لا
+> يُفْتَنُونَ
 
 ***Do men think that they will be left alone on saying, “We believe”,
 and not be tried? (al-Ankabut, 29/2)***
@@ -521,12 +457,8 @@ A point that can be inferred from the last part of the verse we have
 been discussing is that, if we consider “worship” as mentioned in the
 latter part of the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ
-جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ
+> جَهَنَّمَ دَاخِرِينَ
 
 ***surely those who are too proud for My worship shall soon enter hell
 abased. (al-Mu’min, 40/60)***
@@ -560,17 +492,12 @@ their eternal loss and punishment in the fire of hell.
 
 Let us look once again at the verse we have been discussing:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
-يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
-  </p>
-</blockquote>
+> وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
+> يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
 ***And your Lord says: Call upon Me, I will answer you; surely those who
 are too proud for My worship shall soon enter hell abased. (al-Mu’min,
 40/60)***
 
  
-
 

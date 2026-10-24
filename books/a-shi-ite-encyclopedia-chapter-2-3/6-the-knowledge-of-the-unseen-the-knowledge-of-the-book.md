@@ -188,4 +188,3 @@ whatever they knew is "visible" to us as well. The information which is
 considered to be "hidden" to us may be "visible" to them. Thus the
 visibility of knowledge is relative to the person.
 
-

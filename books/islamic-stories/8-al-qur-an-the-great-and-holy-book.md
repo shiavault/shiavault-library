@@ -64,4 +64,3 @@ Imam Ja'far Sadiq (a) has said that one should at least recite 50 Ayats
 everyday. Let us, therefore, value and respect this Great Book by
 reading it with understanding and follow its teachings.
 
-

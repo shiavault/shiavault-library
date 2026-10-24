@@ -285,4 +285,3 @@ how they used to prepare themselves for meeting their Lord. Imam Ali
 (a.s.) would turn pale whilst performing wudhoo and used to say, "It is
 time for me to give back the Divine trust to the Almighty (S.W.T.)"
 
-

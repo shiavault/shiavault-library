@@ -46,4 +46,3 @@ of tradition. Our approach to tradition will not, however, review the
 relevant concepts in all their generality, but only as they pertain to
 issues of authority.
 
-

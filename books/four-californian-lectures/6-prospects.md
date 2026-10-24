@@ -48,4 +48,3 @@ was teaching young Muslim kids on a weekend. When she narrated the above
 story of the Prophet, a small kid got up and fired his question: "Why
 didn't he sue her?"
 
-

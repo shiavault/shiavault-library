@@ -84,4 +84,3 @@ mechanism function. Thus, the role of Islamic teachings on consumer’s
 behavior formally is very similar to company’s advertising even though
 they are very different in content.
 
-

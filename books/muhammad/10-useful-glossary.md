@@ -420,4 +420,3 @@ his mother's back
 
 Surely Allah knows the truth.
 
-

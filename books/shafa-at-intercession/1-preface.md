@@ -1,19 +1,11 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْم
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْم
 
-<blockquote dir="rtl">
-  <p>
-اَلْحَمْدُ للهِ رَبِّ الْمَالَمِيْنَ وَ الصَّلوةُ وَالسَّلاَمُ عَلى
-رَسُوْلِه شَفِيْعِ الْمُذْنِبِيْنَ وَ آلِه الطَّيْبِيْنَ
-الطَّاهِرِيْنَ : اَمَّا بَعْدُ
-  </p>
-</blockquote>
+> اَلْحَمْدُ للهِ رَبِّ الْمَالَمِيْنَ وَ الصَّلوةُ وَالسَّلاَمُ عَلى
+> رَسُوْلِه شَفِيْعِ الْمُذْنِبِيْنَ وَ آلِه الطَّيْبِيْنَ
+> الطَّاهِرِيْنَ : اَمَّا بَعْدُ
 
 There is no doubt that intercession forms the basic principle of our
 faith and there are so many Qur’anic Ayats, traditions and narrations
@@ -50,5 +42,4 @@ can get the right concept of intercession.
 
 Sayed Abbas Abedi  
  Alipur
-
 

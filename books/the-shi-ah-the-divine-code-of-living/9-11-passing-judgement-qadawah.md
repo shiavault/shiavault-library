@@ -74,7 +74,6 @@ considered to have violated the divine commands. Also no one has the
 right to revise the decision of a "qadi". Of course, the qadihimself may
 re-examine his judgment.
 
-
 **12. Slaughtering and Hunting**
 
 The basic principle in Shi'ah jurisprudence concerning animals whose
@@ -143,5 +142,4 @@ ibn Muhammad (al-Imam as-Sadiq (a.s.)) about the seacow?' I said, 'Yes,
 he said that every sea-animal with scales, even if it be a 'sea-) camel
 or a (sea-) cow, can be eaten, and that if it has no scales it is
 unlawful to eat.'" 5
-
 

@@ -284,4 +284,3 @@ p. 423 (short version); Biḥār al-anwār, vol. 51, chap. 5, p. 61, no. 59.
 
 [^22]: \`Uyūn al-mu\`jizāt, p. 70.
 
-

@@ -8,21 +8,13 @@ discussion. We have seen that because of the above mentioned reason,
 people have not been able to grasp the right concept. As some verses
 explain the others. As the Holy Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ الْقُرْآنَ يَصْدُقُ بَعْضُه بَعْضًا.
-  </p>
-</blockquote>
+> اِنَّ الْقُرْآنَ يَصْدُقُ بَعْضُه بَعْضًا.
 
 *“Surely, some verse of Holy Qur’an attests the other.”*[^1]
 
 Ameerul Momenin, ‘Ali Ibn Abi Talib (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-وَ يَنْطُقُ بَعْضُه بَعْضٍ وَ يُشْهِدُ عَلى بَعْضِه
-  </p>
-</blockquote>
+> وَ يَنْطُقُ بَعْضُه بَعْضٍ وَ يُشْهِدُ عَلى بَعْضِه
 
 *“Some verse of Holy Qur’an speaks with the help of other verses and
 some testifies the other.”*[^2]
@@ -35,13 +27,9 @@ First Category Of Verses Of Intercession
 
 The verse which totally refute the intercession:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَنفِقُواْ مِمَّا رَزَقْنَاكُم مِّن
-قَبْلِ أَن يَأْتِيَ يَوْمٌ لاَّ بَيْعٌ فِيهِ وَلاَ خُلَّةٌ وَلاَ
-شَفَاعَةٌ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَنفِقُواْ مِمَّا رَزَقْنَاكُم مِّن
+> قَبْلِ أَن يَأْتِيَ يَوْمٌ لاَّ بَيْعٌ فِيهِ وَلاَ خُلَّةٌ وَلاَ
+> شَفَاعَةٌ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ.
 
 ***“O you who believe! spend out of what We have given you before the
 day comes in which there is no bargaining, neither any friendship nor
@@ -54,11 +42,7 @@ completely refuse the intercession which will be explained thus:
 It is not right to base your opinion because since in other verses of
 Qur’an the proof of intercession is found. E.g. Ayatul Kursi
 
-<blockquote dir="rtl">
-  <p>
-...مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ...
-  </p>
-</blockquote>
+> ...مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ...
 
 ***“…who is he that can intercede with Him but by His permission?...”
 (Surah Baqarah, 2: 255.)***
@@ -69,12 +53,8 @@ is the friendship of the believers but not for the disbelievers. It is
 evident from the other verses that only friendship of the believers will
 be useful on the day of judgement and not with the unbelievers. For e.g.
 
-<blockquote dir="rtl">
-  <p>
-اَلْاَخِلاَّءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْصٍ عَدُوٌ اِلاَّ
-الْمُتَّقِيْنَ ...
-  </p>
-</blockquote>
+> اَلْاَخِلاَّءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْصٍ عَدُوٌ اِلاَّ
+> الْمُتَّقِيْنَ ...
 
 ***“The friends shall on that day be enemies one to another, except
 those who guard (against evil).” (Surah Zukhruf, 43 :67)***
@@ -82,11 +62,7 @@ those who guard (against evil).” (Surah Zukhruf, 43 :67)***
 (3) The word **انفق** ‘those who pay zakat’ and it is so important that
 those who deny this payment are termed as unbelievers.
 
-<blockquote dir="rtl">
-  <p>
-وَالكافِرُوْنَ هُمُ الظَّالِمُوْنَ.
-  </p>
-</blockquote>
+> وَالكافِرُوْنَ هُمُ الظَّالِمُوْنَ.
 
 There is no question of intercession with the unbelievers. Therefore,
 the negation of first part stating that there will be no intercession is
@@ -98,26 +74,18 @@ Second Category Of Verses Of Intercession
 It is based on those verses which is regarding the believers of the Jews
 about intercession those two verses from:
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ
-يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ هُمْ
-يُنصَرُونَ.
-  </p>
-</blockquote>
+> وَاتَّقُواْ يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ
+> يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ هُمْ
+> يُنصَرُونَ.
 
 ***“And be on your guard against a day when one soul shall not avail
 another in the least, neither shall intercession on its behalf be
 accepted, nor shall any compensation be taken from it, nor shall they be
 helped.”(Surah Baqarah, 2 :48)***
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ
-يُقْبَلُ مِنْهَا عَدْلٌ وَلاَ تَنفَعُهَا شَفَاعَةٌ وَلاَ هُمْ
-يُنصَرُونَ.
-  </p>
-</blockquote>
+> وَاتَّقُواْ يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ
+> يُقْبَلُ مِنْهَا عَدْلٌ وَلاَ تَنفَعُهَا شَفَاعَةٌ وَلاَ هُمْ
+> يُنصَرُونَ.
 
 ***“And be on your guard against a day when no soul shall avail another
 in the least neither shall any compensation be accepted from it, nor
@@ -136,12 +104,8 @@ capable of barring the burden of our sins, thus intercession is for us.
 Even the Christians are on the same line as evident from the Qur’anic
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ وَالنَّصَارَى نَحْنُ أَبْنَاء اللهِ
-وَأَحِبَّاؤُهُ
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ وَالنَّصَارَى نَحْنُ أَبْنَاء اللهِ
+> وَأَحِبَّاؤُهُ
 
 ***And the Jews and the Christians say: We are the sons of Allah and His
 beloved ones.*** **(Surah Maidah, 5:18)**
@@ -149,12 +113,8 @@ beloved ones.*** **(Surah Maidah, 5:18)**
 The tradition says that they consider themselves the owner of Heaven and
 thus nobody can enter it. Qur’an has stated in:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُواْ لَن يَدْخُلَ الْجَنَّةَ إِلاَّ مَن كَانَ هُوداً أَوْ
-نَصَارَى
-  </p>
-</blockquote>
+> وَقَالُواْ لَن يَدْخُلَ الْجَنَّةَ إِلاَّ مَن كَانَ هُوداً أَوْ
+> نَصَارَى
 
 ***“And they say: None shall enter the garden (or paradise) except he
 who is a Jew or a Christian….” (Surah Baqarah, 2:111)***
@@ -163,13 +123,9 @@ In many places the Qur’an has expressed clearly their wrong and adamant
 behaviour and declared that Heaven is not the estate of Jews and
 Christians. Qur’an further states thus:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ أَمَانِيُّهُمْ قُلْ هَاتُواْ بُرْهَانَكُمْ إِن كُنتُمْ
-صَادِقِينَ بَلَى مَنْ أَسْلَمَ وَجْهَهُ للهِ وَهُوَ مُحْسِنٌ فَلَهُ
-أَجْرُهُ عِندَ رَبِّهِ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
-  </p>
-</blockquote>
+> تِلْكَ أَمَانِيُّهُمْ قُلْ هَاتُواْ بُرْهَانَكُمْ إِن كُنتُمْ
+> صَادِقِينَ بَلَى مَنْ أَسْلَمَ وَجْهَهُ للهِ وَهُوَ مُحْسِنٌ فَلَهُ
+> أَجْرُهُ عِندَ رَبِّهِ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
 
 ***“And they say: None shall enter the garden (or paradise) except he
 who is a Jew or a Christian. These are their vain desires. Say: Bring
@@ -188,14 +144,10 @@ These are that verses in which it is stated that there will be no
 intercession for unbelievers and also those who intercede for them will
 not be accepted, there are three ayats:
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ الَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَاءتْ رُسُلُ رَبِّنَا
-بِالْحَقِّ فَهَل لَّنَا مِن شُفَعَاء فَيَشْفَعُواْ لَنَا أَوْ نُرَدُّ
-فَنَعْمَلَ غَيْرَ الَّذِي كُنَّا نَعْمَلُ قَدْ خَسِرُواْ أَنفُسَهُمْ
-وَضَلَّ عَنْهُم مَّا كَانُواْ يَفْتَرُونَ
-  </p>
-</blockquote>
+> يَقُولُ الَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَاءتْ رُسُلُ رَبِّنَا
+> بِالْحَقِّ فَهَل لَّنَا مِن شُفَعَاء فَيَشْفَعُواْ لَنَا أَوْ نُرَدُّ
+> فَنَعْمَلَ غَيْرَ الَّذِي كُنَّا نَعْمَلُ قَدْ خَسِرُواْ أَنفُسَهُمْ
+> وَضَلَّ عَنْهُم مَّا كَانُواْ يَفْتَرُونَ
 
 ***“Do they wait for aught but its final sequel? On the day when its
 final sequel comes about, those who neglected it before will say: Indeed
@@ -205,23 +157,15 @@ sent back so that we should do (deeds) other than those which we did?
 Indeed they have lost their souls and that which they forged has gone
 away from them.”*** ***(Surah Aaraaf, 7:73)***
 
-<blockquote dir="rtl">
-  <p>
-إِذْ نُسَوِّيكُم بِرَبِّ الْعَالَمِينَ وَمَا أَضَلَّنَا إِلاَّ
-الْمُجْرِمُونَ فَمَا لَنَا مِن شَافِعِينَ وَلاَ صَدِيقٍ حَمِيمٍ.
-  </p>
-</blockquote>
+> إِذْ نُسَوِّيكُم بِرَبِّ الْعَالَمِينَ وَمَا أَضَلَّنَا إِلاَّ
+> الْمُجْرِمُونَ فَمَا لَنَا مِن شَافِعِينَ وَلاَ صَدِيقٍ حَمِيمٍ.
 
 ***“When we made you equal to the Lord of the worlds; and none but the
 guilty led us astray; so we have no intercessors, nor a true friend; …”
 (Surah Shurah, 26: 98-101)***
 
-<blockquote dir="rtl">
-  <p>
-وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ حَتَّى أَتَانَا الْيَقِينُ فَمَا
-تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
-  </p>
-</blockquote>
+> وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ حَتَّى أَتَانَا الْيَقِينُ فَمَا
+> تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
 
 ***“And we used to call the Day of Judgment a lie; till death overtook
 us. So the intercession of intercessors shall not avail them.” (Surah
@@ -247,13 +191,9 @@ occasions, as lifeless things cannot intercede since they have no
 
 Verses in support are:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا نَرَى مَعَكُمْ شُفَعَاءكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ
-فِيكُمْ شُرَكَاء لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا
-كُنتُمْ تَزْعُمُونَ
-  </p>
-</blockquote>
+> وَمَا نَرَى مَعَكُمْ شُفَعَاءكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ
+> فِيكُمْ شُرَكَاء لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا
+> كُنتُمْ تَزْعُمُونَ
 
 ***“And certainly you have come to Us alone as We created you at first,
 and you have left behind your backs the things which We gave you, and We
@@ -262,14 +202,10 @@ were (Allah’s) associates in respect to you; certainly the ties between
 you are now cut off and what you asserted is gone from you.” (Surah
 Anaam, 6: 94)***
 
-<blockquote dir="rtl">
-  <p>
-وَيَعْبُدُونَ مِن دُونِ اللهِ مَا لاَ يَضُرُّهُمْ وَلاَ يَنفَعُهُمْ
-وَيَقُولُونَ هَـؤُلاء شُفَعَاؤُنَا عِندَ اللهِ قُلْ أَتُنَبِّئُونَ
-اللهَ بِمَا لاَ يَعْلَمُ فِي السَّمَاوَاتِ وَلاَ فِي الأَرْضِ
-سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> وَيَعْبُدُونَ مِن دُونِ اللهِ مَا لاَ يَضُرُّهُمْ وَلاَ يَنفَعُهُمْ
+> وَيَقُولُونَ هَـؤُلاء شُفَعَاؤُنَا عِندَ اللهِ قُلْ أَتُنَبِّئُونَ
+> اللهَ بِمَا لاَ يَعْلَمُ فِي السَّمَاوَاتِ وَلاَ فِي الأَرْضِ
+> سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
 
 ***“And they serve beside Allah what can neither harm them nor profit
 them, and they say: These are our intercessors with Allah. Say: Do you
@@ -277,23 +213,15 @@ them, and they say: These are our intercessors with Allah. Say: Do you
 earth? Glory be to Him, and supremely exalted is He above what they set
 up (with Him).(Surah Yunus, 10:18)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَمْ يَكُن لَّهُم مِّن شُرَكَائِهِمْ شُفَعَاء وَكَانُوا
-بِشُرَكَائِهِمْ كَافِرِينَ.
-  </p>
-</blockquote>
+> وَلَمْ يَكُن لَّهُم مِّن شُرَكَائِهِمْ شُفَعَاء وَكَانُوا
+> بِشُرَكَائِهِمْ كَافِرِينَ.
 
 ***“And they shall not have any intercessors from among their gods they
 have joined with God, and they shall be deniers of their
 associate-gods.”(Surah Rom, 30:13)***
 
-<blockquote dir="rtl">
-  <p>
-أَ أَتَّخِذُ مِن دُونِهِ آلِهَةً إِن يُرِدْنِ الرَّحْمَن بِضُرٍّ لاَّ
-تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلاَ يُنقِذُونِ.
-  </p>
-</blockquote>
+> أَ أَتَّخِذُ مِن دُونِهِ آلِهَةً إِن يُرِدْنِ الرَّحْمَن بِضُرٍّ لاَّ
+> تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلاَ يُنقِذُونِ.
 
 ***“What! Shall I take besides Him gods whose intercession, If the
 Beneficent God should desire to afflict me with a harm, shall not avail
@@ -309,25 +237,17 @@ Fifth Category Of Verses Of Intercession
 Lord said that only He is authorised and there is no other to
 recompense.
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُواْ إِلَى رَبِّهِمْ
-لَيْسَ لَهُم مِّن دُونِهِ وَلِيٌّ وَلاَ شَفِيعٌ لَّعَلَّهُمْ
-يَتَّقُونَ.
-  </p>
-</blockquote>
+> وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُواْ إِلَى رَبِّهِمْ
+> لَيْسَ لَهُم مِّن دُونِهِ وَلِيٌّ وَلاَ شَفِيعٌ لَّعَلَّهُمْ
+> يَتَّقُونَ.
 
 ***“And warn with it those who fear that they shall be gathered to their
 Lord — there is no guardian for them, nor any intercessor besides Him —
 that they may guard (against evil).” (Surah Anaam, 6:51)***
 
-<blockquote dir="rtl">
-  <p>
-وَذَرِ الَّذِينَ اتَّخَذُواْ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ
-الْحَيَاةُ الدُّنْيَا وَذَكِّرْ بِهِ أَن تُبْسَلَ نَفْسٌ بِمَا
-كَسَبَتْ لَيْسَ لَهَا مِن دُونِ اللهِ وَلِيٌّ وَلاَ شَفِيعٌ...
-  </p>
-</blockquote>
+> وَذَرِ الَّذِينَ اتَّخَذُواْ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ
+> الْحَيَاةُ الدُّنْيَا وَذَكِّرْ بِهِ أَن تُبْسَلَ نَفْسٌ بِمَا
+> كَسَبَتْ لَيْسَ لَهَا مِن دُونِ اللهِ وَلِيٌّ وَلاَ شَفِيعٌ...
 
 ***“And leave those who have taken their religion for a play and an idle
 sport, and whom this world’s life has deceived, and remind (them)
@@ -335,25 +255,17 @@ thereby lest a soul should be given up to destruction for what it has
 earned; it shall not have besides Allah any guardian nor an
 intercessor…” (Surah Anaam, 6:70)***
 
-<blockquote dir="rtl">
-  <p>
-اللهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا فِي
-سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ مَا لَكُم مِّن دُونِهِ
-مِن وَلِيٍّ وَلاَ شَفِيعٍ أَفَلاَ تَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> اللهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا فِي
+> سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ مَا لَكُم مِّن دُونِهِ
+> مِن وَلِيٍّ وَلاَ شَفِيعٍ أَفَلاَ تَتَذَكَّرُونَ
 
 ***“Allah is He Who created the heavens and the earth and what is
 between them in six periods and He mounted the throne (of authority);
 you have not besides Him any guardian or any intercessor, will you not
 then mind?” (Surah Sajdah, 32:4)***
 
-<blockquote dir="rtl">
-  <p>
-قُل للهِ الشَّفَاعَةُ جَمِيعًا لَّهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ
-ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُل للهِ الشَّفَاعَةُ جَمِيعًا لَّهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ
+> ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
 ***“Say: Allah’s is the intercession altogether; His is the kingdom of
 the heavens and the earth, then to Him you shall be brought back.”***
@@ -363,12 +275,8 @@ Irresponsible person may deduce that only Lord can intercede and believe
 that the prophets, saints and righteous people can intercede is false,
 their only reply is to refer to the preceding verses.
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذُوا مِن دُونِ اللَّهِ شُفَعَاء قُلْ أَوَلَوْ كَانُوا لَا
-يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذُوا مِن دُونِ اللَّهِ شُفَعَاء قُلْ أَوَلَوْ كَانُوا لَا
+> يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ
 
 ***“Or have they taken intercessors besides Allah? Say: What! Even
 though they did not ever have control over anything, nor do they
@@ -380,60 +288,36 @@ Sixth Category Of Verses Of Intercession
 These verses lay stress on the Supreme Powers acceptant. On the day of
 resurrection the total control and status will be His.
 
-<blockquote dir="rtl">
-  <p>
-...مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ...
-  </p>
-</blockquote>
+> ...مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ...
 
 ***“…who is he that can intercede with Him but by His permission?”
 (Surah Baqarah, 2:255)***
 
-<blockquote dir="rtl">
-  <p>
-...مَا مِن شَفِيعٍ إِلاَّ مِن بَعْدِ...
-  </p>
-</blockquote>
+> ...مَا مِن شَفِيعٍ إِلاَّ مِن بَعْدِ...
 
 ***“…there is no intercessor except after His permission…” (Surah Yunus,
 10:3)***
 
-<blockquote dir="rtl">
-  <p>
-لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِندَ الرَّحْمَنِ
-عَهْدًا.
-  </p>
-</blockquote>
+> لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِندَ الرَّحْمَنِ
+> عَهْدًا.
 
 ***“They shall not control intercession, save he who has made a covenant
 with the Beneficent God.”*** ***(Surah Maryam, 19:87)***
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَئِذٍ لاَّ تَنفَعُ الشَّفَاعَةُ إِلاَّ مَنْ أَذِنَ لَهُ
-الرَّحْمَنُ وَرَضِيَ لَهُ قَوْلاً.
-  </p>
-</blockquote>
+> يَوْمَئِذٍ لاَّ تَنفَعُ الشَّفَاعَةُ إِلاَّ مَنْ أَذِنَ لَهُ
+> الرَّحْمَنُ وَرَضِيَ لَهُ قَوْلاً.
 
 ***“On that day shall no intercession avail except of him whom the
 Beneficent God allows and whose word He is pleased with.” (Surah Ta Ha,
 20:109)***
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنفَعُ الشَّفَاعَةُ عِندَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ
-  </p>
-</blockquote>
+> وَلاَ تَنفَعُ الشَّفَاعَةُ عِندَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ
 
 ***“And intercession will not avail aught with Him save of him whom He
 permits.” (Surah Sabah, 34:23)***
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَاعَةَ إِلاَّ مَن
-شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَلاَ يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَاعَةَ إِلاَّ مَن
+> شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ
 
 ***“And those whom they call upon besides Him have no authority for
 intercession, but he who bears witness of the truth and they know
@@ -461,14 +345,10 @@ Seventh Category Of Verses On Intercession
 In these verses not only the existence of the intercessor are mentioned
 but also their attributes and specialties:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَدًا سُبْحَانَهُ بَلْ عِبَادٌ
-مُّكْرَمُونَ لاَ يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ
-يَعْمَلُونَ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ
-يَشْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى وَهُم مِّنْ خَشْيَتِهِ مُشْفِقُونَ
-  </p>
-</blockquote>
+> وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَدًا سُبْحَانَهُ بَلْ عِبَادٌ
+> مُّكْرَمُونَ لاَ يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِهِ
+> يَعْمَلُونَ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ
+> يَشْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى وَهُم مِّنْ خَشْيَتِهِ مُشْفِقُونَ
 
 ***“And they say: The Beneficent God has taken to Himself a son. Glory
 be to Him. Nay! They are honoured servants. They do not precede Him in
@@ -477,23 +357,15 @@ what is before them and what is behind them, and they do not intercede
 except for him whom He approves and for fear of Him they tremble.”
 (Surah Ambiya, 21:26-28)***
 
-<blockquote dir="rtl">
-  <p>
-وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لاَ تُغْنِي شَفَاعَتُهُمْ شَيْئًا
-إِلاَّ مِن بَعْدِ أَن يَأْذَنَ اللهُ لِمَن يَشَاء وَيَرْضَى
-  </p>
-</blockquote>
+> وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لاَ تُغْنِي شَفَاعَتُهُمْ شَيْئًا
+> إِلاَّ مِن بَعْدِ أَن يَأْذَنَ اللهُ لِمَن يَشَاء وَيَرْضَى
 
 ***“And how many an angel is there in the heavens whose intercession
 does not avail at all except after Allah has given permission to whom He
 pleases and chooses.” (Surah Najm, 53:26)***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
-رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا...
-  </p>
-</blockquote>
+> الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ
+> رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا...
 
 ***“Those who bear the power and those around Him celebrate the praise
 of their Lord and believe in Him and ask repentance for those who
@@ -506,5 +378,4 @@ the same, that Lord may forgive and envelopes them in His bounty.
 [^1]: Behaarul Anwaar, vol. 41, pg. 59, Chap. 106, Tr. No. 1.
 
 [^2]: Nahjul Balaghah, sermon 129.
-
 

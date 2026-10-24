@@ -8,4 +8,3 @@ Lesson 5: Names of Ulu’l-Azm Prophets
  4. Prophet ‘Isa (A.S.); and  
  5. Prophet Muhammad al-Mustafa (S.A.W.)
 
-

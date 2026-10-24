@@ -312,4 +312,3 @@ granddaughters from one son, and 2 grandsons plus one grand-daughter
 from another son) then all five will inherit her, the males getting
 double the share of a female.
 
-

@@ -3,13 +3,9 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَبْخَلُونَ وَ يَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَ
-يَكْتُمُونَ ما آتاهُمُ اللَّهُ مِنْ فَضْلِهِ وَ أَعْتَدْناَ
-لِلکاَفِرِينَ عَذاَباً مُهِيناً
-  </p>
-</blockquote>
+> الَّذِينَ يَبْخَلُونَ وَ يَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَ
+> يَكْتُمُونَ ما آتاهُمُ اللَّهُ مِنْ فَضْلِهِ وَ أَعْتَدْناَ
+> لِلکاَفِرِينَ عَذاَباً مُهِيناً
 
 *(Those who are niggardly and bid people to be niggardly and hide what
 Allah has given them out of His grace; and We have prepared for the
@@ -17,11 +13,7 @@ unbelievers a disgraceful chastisement.)*[^1]
 
 The Holy Prophet (s.a.w.) said:
 
-<blockquote dir="rtl">
-  <p>
-جَاهِلٌ سَخِيٌّ اَحَبُّ اِلىَ اللهِ مِنْ عاِبِدٍ بَخِيلٍ
-  </p>
-</blockquote>
+> جَاهِلٌ سَخِيٌّ اَحَبُّ اِلىَ اللهِ مِنْ عاِبِدٍ بَخِيلٍ
 
 *(An ignorant but generous person is more beloved to Allah than one, who
 is devout but parsimonious.)*[^2]
@@ -393,5 +385,4 @@ and his slave to themselves, as they grappled with each other.[^11]
 237.
 
 [^11]: Lataaif al-Tawaaif, pg. 341.
-
 

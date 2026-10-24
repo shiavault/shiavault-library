@@ -84,4 +84,3 @@ danger*. In other words, he *observed taqiyya* (dissimulation)!
 Was Abu Hurayra alone in practising *taqiyya* or others, too, observe
 it? We shall see that in the next chapter.
 
-

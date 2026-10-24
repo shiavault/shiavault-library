@@ -12,10 +12,5 @@ him refuge from His punishment.
 Glorified, will protect him from His chastisement.
 
 > 2ـ مَنْ امَنَ خائفاً مِنْ مَخوفَة، آمَنَهُ اللّهُ سُبْحانَهُ مِنْ
-<blockquote dir="rtl">
-  <p>
-عِقابِهِ.
-  </p>
-</blockquote>
-
+> عِقابِهِ.
 

@@ -484,4 +484,3 @@ enables him to deduce and set up both the research and theory.
 4. To have a deducing talent and scientific power on understanding and
 education.
 
-

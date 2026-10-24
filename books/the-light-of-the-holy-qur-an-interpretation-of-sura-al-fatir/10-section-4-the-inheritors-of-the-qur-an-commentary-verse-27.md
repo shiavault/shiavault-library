@@ -85,7 +85,6 @@ colours, on the other side, are some other signs for the Greatness,
 Power, and Wisdom of Allah which every moment appear in a form and every
 time decorate themselves in another clothing.
 
-
 **Commentary: Verse 28**
 
 (28) وَمِنَ النَّاسِ وَالدَّوَآبّ‌ِ وَالأَنْعَامِ مُخْتَلِفٌ
@@ -183,9 +182,7 @@ servants of Allah between ‘fear’ and ‘hope’. And we know that the
 constant movement toward development is not possible without being
 qualified with these two characters.
 
-
 [^1] Majma'-ul-Baya-n, following the verse.
 
-[^2] Ibid
-
+[^2]: Ibid
 

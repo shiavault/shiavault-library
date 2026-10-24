@@ -44,4 +44,3 @@ exploited by men regardless of the class system, so that the class
 analysis is insufficient and must be supplemented by an analysis of
 exploitation based on gender.
 
-

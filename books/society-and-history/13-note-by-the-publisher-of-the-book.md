@@ -9,4 +9,3 @@ to obtain martyrdom in the way of God.
 We hope, in future, to present a more complete discussion with the help
 of his scattered notes, added them to the future editions of the book.
 
-

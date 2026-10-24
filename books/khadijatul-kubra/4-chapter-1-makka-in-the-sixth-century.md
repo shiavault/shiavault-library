@@ -103,4 +103,3 @@ The caravans varied in size. They ranged from "local" caravans of as few
 as ten camels to "international" caravans of as many as thousands of
 camels. The organization of caravans was a major industry in Arabia.
 
-

@@ -46,4 +46,3 @@ Haroon Rashid returned it to Bani Fatima.
 
 [^2]: Refers to the period this book was compiled.
 
-

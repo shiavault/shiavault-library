@@ -29,4 +29,3 @@ seller nor the buyer is put to a loss. If in spite of your warning,
 anyone should go against your commands and commit the crime of hoarding,
 then deal him appropriately with a severe punishment.
 
-

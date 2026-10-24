@@ -1,20 +1,12 @@
 The Ninth Talk
 ==============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -34,7 +26,6 @@ these words a thousand times over will not bring any results.
 Today I shall tell you about another meaning derived from the verse that
 I have mentioned above and also at a few places in my previous talks.
 
-
 A Heart Without Piety is The Abode Of Satan
 -------------------------------------------
 
@@ -50,7 +41,6 @@ these satanic instincts and withdraws from supporting and advancing
 Satan’s foul schemes, it is impossible that the environment for
 *Isti’adha* takes shape in it.
 
-
 Sumptuous Food & Hungry Dog
 ---------------------------
 
@@ -62,7 +52,6 @@ with you, and a dog chances to come near you, then it will run away if
 you chase but once. The reason for this lack of interest is that the
 dogs have a very strong sense of smell and they would know where there
 is a bone for them!
-
 
 A Sick Heart is The Eating Place For Satan
 ------------------------------------------
@@ -76,18 +65,13 @@ then he is very pleased to dwell therein. You may say *‘audhu billahi
 min ash-shaitanir rajeem* a hundred thousand times, Satan will
 tenaciously stay on!
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الشَّيْطَآنَ لَكُمَا عَدُوٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> إِنَّ الشَّيْطَآنَ لَكُمَا عَدُوٌّ مُّبِينٌ
 
 ***Shaitan is your open enemy! (Sura al-A’raaf, 7:22)***
 
 The only remedy is that you should dispel from your heart all the
 thoughts of things that attract him. Then with one utterance of the
 words *‘audhu billahi* Satan will run away.
-
 
 The Majority are Entrapped
 --------------------------
@@ -108,7 +92,6 @@ These form the vast majority of people.
 O believers! Do such acts that Satan is unable to find an entry into
 your hearts! Otherwise, mere utterance of the words of *Isti’adha* will
 not be of any use.
-
 
 The Thief on the Look Out For Breaking into the House
 -----------------------------------------------------
@@ -134,12 +117,8 @@ disappointed.
 Iblīs Around The Heart
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
-تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ اتَّقَواْ إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ
+> تَذَكَّرُواْ فَإِذَا هُم مُّبْصِرُونَ
 
 ***Verily those who guard (themselves against evil) when an evil thought
 from Satan afflicts them, they become mindful (of God and get awakened)
@@ -156,7 +135,6 @@ Verily those who guard (themselves against evil)
 *
 *
 ) -
-
 
 This is said about those whose hearts are free of the thoughts of sin.
 When the heart is pure and clean, then automatically all other organs
@@ -175,14 +153,12 @@ when an evil thought
 *
 - Taa-if
 
-
 is a person who does
 
 *
 *
 
 tawaaf
-
 
 or circumambulates. Here it is meant Satan going round the heart in
 search of a hole to break in.
@@ -198,7 +174,6 @@ from Satan
 *
 *
 -
-
 
 it is the mention of the retainers of Satan who go round the heart in
 search of an opening to barge in. But
@@ -220,14 +195,12 @@ hey become mindful)
 *
 -
 
-
 The owner of the heart, a
 
 *
 *
 
 mu’min,
-
 
 is busy in Remembrance of Allah (S.w.T.) and says, “
 
@@ -255,7 +228,6 @@ then lo! They see (aright)
 *
 -
 
-
 Their eyes instantaneously illuminate with the light of vision and they
 get warned of the thief in their environs.
 
@@ -268,7 +240,6 @@ then it will be pure and clean. The bright light of piety will put the
 thief to shame and he escapes from there. Pity the heart that is devoid
 of piety and full of worldly desires. Such a person will fall into the
 clutches of Satan and meet a sad end.
-
 
 Why the Suicide?
 ----------------
@@ -283,7 +254,6 @@ nights. He was so upset that at last he consumed lime mixed with sulfur
 and committed suicide. The sole reason for the tragedy is that the
 person was wedded only to worldly gains and was devoid of Allah
 (S.w.T.)’s fear.
-
 
 Why Isti’adha is not Effective?
 -------------------------------
@@ -350,7 +320,6 @@ When I am not sure whether I will be alive till tomorrow or not, then
 what is the use of avarice and unnecessarily displeasing others with my
 actions?
 
-
 Flies Buzz Around Honey
 -----------------------
 
@@ -370,18 +339,13 @@ When a *mu’min* has nothing in his heart that interests Satan, and he
 remembers Allah (S.w.T.), then only one *Isti’adha* would suffice to
 chase the accursed enemy away.
 
-
 Satan, a Stumbling Block in the Way of Penitence
 ------------------------------------------------
 
 It is narrated that when the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
-ذَكَرُواْ اللّهَ فَاسْتَغْفَرُواْ لِذُنُوبِهِمْ
-  </p>
-</blockquote>
+> وَالَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
+> ذَكَرُواْ اللّهَ فَاسْتَغْفَرُواْ لِذُنُوبِهِمْ
 
 ***And those who when they commit an indecency or do injustice to their
 souls remember Allah and ask forgiveness for their faults... (Sura Aal
@@ -398,7 +362,6 @@ only way will be to prevent man from reaching the threshold of the door
 of penitence!” Satan said, “Your suggestion is right! If there is any
 way for us, this is the way!”
 
-
 The Practice of Imam as-Sajjad (a.s.)
 -------------------------------------
 
@@ -410,10 +373,8 @@ me and on the other is the world tempting me with all its glitter and
 attractions! There is pressure of avarice and greed on my heart! I seek
 your help against all these!*”
 
-
 The Supplication of Ghareeq during the Absence of Imam al-Mahdi (a.j.)
 ----------------------------------------------------------------------
-
 
 Imam Ja’far as-Sadiq (a.s.), while predicting the period of the absence
 of the Last Imam (a.j.), says, “During that troublesome period there
@@ -428,7 +389,4 @@ hearts! Keep my heart steadfast on Your religion!”*
 Man should think that he is really helpless in times when Satan’s
 retainers are roaming free. No heart is safe from their onslaught. O
 Allah (S.w.T.)! Guard our hearts from the effects of these Shayateen!
-
-
-
 

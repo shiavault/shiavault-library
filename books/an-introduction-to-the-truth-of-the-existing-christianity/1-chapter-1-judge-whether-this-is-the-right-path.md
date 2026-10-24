@@ -43,7 +43,6 @@ Jesus') religion.
 The Church still dreams of uprooting Islam and Muslims id consolidating
 in its place the perverted and deviant Christianity.
 
-
 **Supporters of the Trinity Concept**
 
 Some supporters of the Trinity concept draw the following triangle in
@@ -145,7 +144,6 @@ that if they are sincerely seeking the truth, they should prepare
 themselves for a scientific debate to be held in a calm, brotherly
 atmosphere. In this way, the Truth will uncover itself to all.
 
-
 **Chapter 2: A letter to the church**
 
 The silence of the magnificent court chamber was broken by the voice of
@@ -197,7 +195,6 @@ simple logic and reasoning posed by the uninformed youth.
 
 1-History of civilization; pages 637-649.
 2-History of civilization; pages 653 - 661.
-
 
 **Chapter 3: Whet is the Holy Bible?**
 
@@ -341,5 +338,4 @@ consider them the Words of God."9
 
 9-A concise history of the greet religions of the world; TEHRAN
 university press Page 441.
-
 

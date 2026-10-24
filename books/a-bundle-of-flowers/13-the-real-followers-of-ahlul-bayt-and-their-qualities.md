@@ -40,4 +40,3 @@ the one who disobeys Him then he is an enemy for us (Ahlul Bayt)..."
 
 Al-Kafi, vol. 2, p. 75
 
-

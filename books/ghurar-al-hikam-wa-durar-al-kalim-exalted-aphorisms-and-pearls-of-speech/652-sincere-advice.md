@@ -33,21 +33,13 @@ truth] so see [it], and you have been guided aright so accept the
 guidance.
 
 > 7ـ قَدْ نُصِحْتُمُ فَانْتَصِحُوا وبُصِّرْتُمْ فَأبْصِرُوا
-<blockquote dir="rtl">
-  <p>
-وأُرْشِدْتُمْ فاسْتَرْشِدُوا.
-  </p>
-</blockquote>
+> وأُرْشِدْتُمْ فاسْتَرْشِدُوا.
 
 8. You have been guided if you seek guidance and have been admonished if
 you seek admonishment and have been advised if you seek advice.
 
 > 8ـ قَدْ دُلِلْتُمْ إنِ اسْتَدْلَلْتُمْ وَوُعِظْتُمْ إنِ اتَّعَظْتُمْ
-<blockquote dir="rtl">
-  <p>
-ونُصِحْتُمْ إنِ انْتَصَحْتُمْ.
-  </p>
-</blockquote>
+> ونُصِحْتُمْ إنِ انْتَصَحْتُمْ.
 
 9. How can one who takes pleasure in [acts that bring] disgrace benefit
 from sincere advice?!
@@ -88,12 +80,8 @@ obedience to him lies your development and in opposition to him, your
 corruption.
 
 > 16ـ مُناصِحُكَ مُشْفِقٌ عَلَيْكَ مُحْسِنٌ إلَيْكَ ناظِرٌ في عَواقِبِكَ
-<blockquote dir="rtl">
-  <p>
-مُسْتَدْرِكٌ فَوارِطَكَ فَفِي طاعَتِهِ رَشادُكَ وفي مُخالَفَتِهِ
-فَسادُكَ.
-  </p>
-</blockquote>
+> مُسْتَدْرِكٌ فَوارِطَكَ فَفِي طاعَتِهِ رَشادُكَ وفي مُخالَفَتِهِ
+> فَسادُكَ.
 
 17. Your advice [when given] in front of other people is [considered] a
 rebuke.
@@ -111,12 +99,8 @@ senses deceives while he thinks he is offering good advice, and one who
 has an ignoble background corrupts while he thinks he is rectifying.
 
 > 19ـ لاتَنْتَصِحْ بِمَنْ فاتَهُ الْعَقْلُ ولاتَثِقْ بِمَنْ خانَهُ
-<blockquote dir="rtl">
-  <p>
-الأصْلُ فَإنَّ مَنْ فاتَهُ الْعَقْلُ يَغُشُّ مِنْ حَيْثُ يَنْصَحُ
-ومَنْ خانَهُ الأصْلُ يُفْسِدُ مِنْ حَيْثُ يُصْلِحُ.
-  </p>
-</blockquote>
+> الأصْلُ فَإنَّ مَنْ فاتَهُ الْعَقْلُ يَغُشُّ مِنْ حَيْثُ يَنْصَحُ
+> ومَنْ خانَهُ الأصْلُ يُفْسِدُ مِنْ حَيْثُ يُصْلِحُ.
 
 20. There is no sincerity like [giving] sincere advice.
 
@@ -136,11 +120,7 @@ or fear, so when the desire or fear disappears, he returns to his true
 nature.
 
 > 23ـ لا يَنْصَحُ اللَّئِيمُ أحَداً إلاّ عَنْ رَغْبَة أوْ رَهْبَة فَإذا
-<blockquote dir="rtl">
-  <p>
-زالَتِ الرَّغْبَةُ والرَّهْبَةُ عادَ إلى جَوْهَرِهِ.
-  </p>
-</blockquote>
+> زالَتِ الرَّغْبَةُ والرَّهْبَةُ عادَ إلى جَوْهَرِهِ.
 
 24. People, accept advice from the one who advises you and receive it
 from the one who carries it to you with obedience, and know that Allah,
@@ -154,17 +134,13 @@ other, O servants of Allah, and you will be prosperous with the
 everlasting bounty [of Allah].
 
 > 24ـ يا أيُّها النّاسُ اِقْبَلُوا النَّصيحَةَ مِمَّنْ نَصَحَكَمْ
-<blockquote dir="rtl">
-  <p>
-وتَلَقَّوْها بِالطّاعَةِ مِمَّنْ حَمَلَها إلَيْكُمْ، واعْلَمُوا أنَّ
-اللّهَ سُبْحانَهُ لَمْ يَمْدَحْ مِنَ القُلُوبِ إلاّ أوْعاها
-لِلْحِكْمَةِ، ومِنَ النّاسِ إلاّ أسْرَعَهُمْ إلَى الْحَقِّ إجابَةً،
-واعْلَمُوا أنَّ الْجِهادَ الأكْبَرِ جِهادُ النَّفْسِ، فَاشْتَغِلُوا
-بِجِهادِ أنْفُسِكُمْ تَسْعَدُوا، وارْفَضُوا القالَ والقيلَ تَسْلَمُوا،
-وأكْثِرُوا ذِكْرَ اللّهِ تَغْنَمُوا، وَكُونُوا عِبادَ اللّهِ إخْواناً
-تَسْعَدُوا لَدَيْهِ بِالنَّعِيمِ المُقِيمِ.
-  </p>
-</blockquote>
+> وتَلَقَّوْها بِالطّاعَةِ مِمَّنْ حَمَلَها إلَيْكُمْ، واعْلَمُوا أنَّ
+> اللّهَ سُبْحانَهُ لَمْ يَمْدَحْ مِنَ القُلُوبِ إلاّ أوْعاها
+> لِلْحِكْمَةِ، ومِنَ النّاسِ إلاّ أسْرَعَهُمْ إلَى الْحَقِّ إجابَةً،
+> واعْلَمُوا أنَّ الْجِهادَ الأكْبَرِ جِهادُ النَّفْسِ، فَاشْتَغِلُوا
+> بِجِهادِ أنْفُسِكُمْ تَسْعَدُوا، وارْفَضُوا القالَ والقيلَ تَسْلَمُوا،
+> وأكْثِرُوا ذِكْرَ اللّهِ تَغْنَمُوا، وَكُونُوا عِبادَ اللّهِ إخْواناً
+> تَسْعَدُوا لَدَيْهِ بِالنَّعِيمِ المُقِيمِ.
 
 25. There is no advice like warning [against evil].
 
@@ -187,11 +163,7 @@ by evil.
 schemes of the one who harbours enmity against him.
 
 > 29ـ مَنْ أعْرَضَ عَنْ نَصِيحَةِ النَّاصِحِ أُحْرِقَ بِمَكِيدَةِ
-<blockquote dir="rtl">
-  <p>
-الكاشِحِ.
-  </p>
-</blockquote>
+> الكاشِحِ.
 
 30. Whoever opposes [good] advice, perishes.
 
@@ -243,5 +215,4 @@ be good.
 41. Sincere advice reaps affection.
 
 > 41ـ النَّصِيحَةُ تُثْمِرُ الْوُدَّ.
-
 

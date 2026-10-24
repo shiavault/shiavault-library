@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-إِعْدِلُوا هُوَ أََقرَبُ لِلتَّقوَى
-  </p>
-</blockquote>
+> إِعْدِلُوا هُوَ أََقرَبُ لِلتَّقوَى
 
 *“Act equitably, that is nearer to piety.”*[^1]
 
 Imam ‘Ali (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-أََلعَدلُ يَضَعُ الأُُمُورَ مَوَاضِعَهَا.
-  </p>
-</blockquote>
+> أََلعَدلُ يَضَعُ الأُُمُورَ مَوَاضِعَهَا.
 
 *“By means of justice, every issue is placed in its appropriate
 position.”*[^2]
@@ -219,5 +211,4 @@ property of all the Muslims.”[^7]
 Rasool), vol. 3, pg. 150
 
 [^7]: Dastan-ha-e-Ustad, vol. 2, pg. 97; Bist Guftar, pg. 67
-
 

@@ -29,4 +29,3 @@ which practices a certain kind of doctrine like capitalism and of
 economic freedom, then he tries to discover the laws and economic life
 of such a society.
 
-

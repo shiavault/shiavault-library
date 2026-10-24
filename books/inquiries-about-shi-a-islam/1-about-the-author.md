@@ -17,4 +17,3 @@ In response to Imam Chirri's call, the majority leader issued a
 historical declaration which stated that the teachings of both schools
 are equally sound, and that Muslims have the right to choose either one
 
-

@@ -20,4 +20,3 @@ instantaneous pleasures, in this world that people, like imprisoned
 birds which strike themselves against the cage and try to take pleasure,
 Fatima’s school can be teachable and resolving.
 
-

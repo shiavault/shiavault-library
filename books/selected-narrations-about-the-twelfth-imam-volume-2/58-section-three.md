@@ -195,4 +195,3 @@ vol. 52, chap. 18, p. 14, no. 11; Ghaybat al-Shaykh, p. 269, no. 233;
 Kashf al-ghumma, vol. 2, p. 450; al-Ṣirāṭ al-mustaqīm, vol. 2, chap. 11,
 sect. 4, p. 240.
 
-

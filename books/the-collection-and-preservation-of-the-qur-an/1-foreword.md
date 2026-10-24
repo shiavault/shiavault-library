@@ -1,30 +1,14 @@
 Foreword
 ========
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي انزل على عبدة الكتاب ولم يجعل لة عوجا
-  </p>
-</blockquote>
+> الحمد لله الذي انزل على عبدة الكتاب ولم يجعل لة عوجا
 
-<blockquote dir="rtl">
-  <p>
-وافضل صلوات الله واكمل تسليماته على رسوله الذي ارسلة بالهدى
-  </p>
-</blockquote>
+> وافضل صلوات الله واكمل تسليماته على رسوله الذي ارسلة بالهدى
 
-<blockquote dir="rtl">
-  <p>
-وعلى آله المصطفين الاخيار الذين آمنوا به وعزروه ونصروه واتبعوا النور
-الذي معه
-  </p>
-</blockquote>
+> وعلى آله المصطفين الاخيار الذين آمنوا به وعزروه ونصروه واتبعوا النور
+> الذي معه
 
 *"In the name of Allah, Most Gracious, Most Merciful. Praise be to Allah
 Who has sent to His servant The Book and has allowed no deviation
@@ -113,5 +97,4 @@ Qur'an. It is complete, pure, pristine and unaltered.
 Secretariat  
  The World Federation of K.S.I. Muslim Communities  
  London
-
 

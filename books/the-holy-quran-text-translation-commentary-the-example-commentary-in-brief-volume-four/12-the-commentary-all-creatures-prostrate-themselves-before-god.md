@@ -63,7 +63,6 @@ INTO GARDENS (PARADISE) BENEATH WHICH STREAMS FLOW. THEREIN THEY SHALL
 BE ADORNED WITH BRACELETS OF GOLD AND PEARL, AND THEIR CLOTHING THERE IS
 OF SILK.
 
-
 وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَى صِرَاطِ
 الْحَمِيدِ(( 24 )) 24- AND THEY ARE GUIDED TO GOOD WORDS, AND ARE GUIDED
 TO PRAISEWORTHY PATH.
@@ -523,14 +522,12 @@ THE GOOD DOERS.
 38- ALLAH WILL DEFEND THOSE WHO HAVE BELIEVED. VERILY ALLAH LOVES NOT
 ANY THANKLESS TRAITOR. [ 243 ]
 
-
 **THE COMMENTARY
 WHY SACRIFICE!?**
 VERSE NO.36ِ38
 The argument is still about the chief rites of pilgrimage, such as the
 sacraments of Allah, the rituals of sacrifice, and in particular, the
 camels that are brought for sacrifice, when they are drawn up in line.
-
 
 Here we should know that being large and fat is not necessarily one of
 the conditions for acceptance of the sacrifice. She should rather be not
@@ -578,5 +575,4 @@ your piety will reach Him.'' In other word, it is not the meat or the
 blood-shed which is important in the sacrifice, or is admired by Allah.
 But He does appreciate what is physically offered to Him through the
 sincerity of the hearts, and honesty of intentions.
-
 

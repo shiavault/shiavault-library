@@ -125,4 +125,3 @@ Naval Kishor Press, Lucknow.
 
 [^5]: Sermon no. 3 of Nahjul Balagha.
 
-

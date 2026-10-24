@@ -99,7 +99,6 @@ to make a will for such matters." He said, "My son, I did not like when
 you will be over come they would say, "No directive will was made in his
 favor." I just wanted to establish a defence authority in your favor."
 
-
 **Chapter 71 : Tacit and Explicit Testimony as proof of abu al-Hassan
 Musa's (a.s.) Divine Authority over the people after abu 'Abdallah
 (a.s.) H 798, Ch. 71, h 1**
@@ -185,7 +184,6 @@ evenings if that (death for you) comes then who (will be the Imam)?
 companion." He tapped the right shoulder of abu al-Hassan with his hand,
 as I know. He was five (feet tall or years old) at that time and
 'Abdallah ibn Ja'far was also present with us."
-
 
 H 804, Ch. 71, h 7
 
@@ -337,5 +335,4 @@ considered him equal to me." I said, "I did so because of your words."
 He then said, "I swear by Allah, I did not do so, in fact, Allah, the
 Most Holy, the Most High, has done it for him (abu al-Hassan Musa
 (a.s.)."
-
 

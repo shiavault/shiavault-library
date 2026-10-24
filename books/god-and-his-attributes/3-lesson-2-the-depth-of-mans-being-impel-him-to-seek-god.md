@@ -425,4 +425,3 @@ Saniya, prayer 55).
 
 [^5]: Hiss-i-Dini, translated by Engineer Bayani.
 
-

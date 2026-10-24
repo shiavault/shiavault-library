@@ -139,7 +139,5 @@ Sound Logic;
 ii) Appeal to Reason; and
 iii) Correct and apt references to reliable authorities.
 
-
 THE END
-
 

@@ -26,4 +26,3 @@ believers.’” (Ch 3: Vr 49).
 
 • He was able to do all this by God’s permission and will.
 
-

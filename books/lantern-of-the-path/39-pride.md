@@ -20,4 +20,3 @@ forever. Whoever chooses pride has sowed disbelief and cultivated
 hypocrisy. It is inevitable that it must bear its fruit and he will end
 up in the Fire.
 
-

@@ -14,12 +14,10 @@ would (all) without doubt have followed thee, but the distance was long,
 could, we should certainly have come out with you": They would destroy
 their own souls; for Allah doth know that they are certainly lying.
 
-<p dir="rtl">
 لَو' كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لاَّتَّبَعُوكَ وَلَـكِن
 بَعُدَت' عَلَي'هِمُ الشُّقَّةُ وَسَيَح'لِفُونَ بِاللّهِ لَوِ
 اس'تَطَع'نَا لَخَرَج'نَا مَعَكُم' يُه'لِكُونَ أَنفُسَهُم' وَاللّهُ
 يَع'لَمُ إِنَّهُم' لَكَاذِبُونَ
-</p>
 
 The verse written above is about the hypocrites who decided to remain
 behind (in Medina) instead of joining the prophet and His companions in
@@ -73,12 +71,10 @@ with ten (more), so the appointed time of his Lord was complete forty
 nights, and Musa said to his brother Haroun: Take my place among my
 people, and act well and do not follow the way of the mischief-makers.
 
-<p dir="rtl">
 وَوَاعَد'نَا مُوسَى ثَلاَثِينَ لَي'لَةً وَأَت'مَم'نَاهَا بِعَش'رٍ
 فَتَمَّ مِيقَاتُ رَبِّهِ أَر'بَعِينَ لَي'لَةً وَقَالَ مُوسَى لأَخِيهِ
 هَارُونَ اخ'لُف'نِي فِي قَو'مِي وَأَص'لِح' وَلاَ تَتَّبِع' سَبِيلَ
 ال'مُف'سِدِينَ
-</p>
 
 It is therefore clear that Harun was the only one to take over the
 responsibilities of Moses during his absence and in the event of the
@@ -196,12 +192,9 @@ Sa'ad in al-Tabaqa
 Here is the text for the following reference: v1,p330 [entire book:
 272,\#3062]:
 
-<p dir="rtl">
 حدثنا عبد الله حدثني أبي حدثنا يحيى بن حماد حدثنا أبو عوانة حدثنا أبو
 بلج حدثنا عمرو بن ميمون قال:
-</p>
 
-<p dir="rtl">
 -إني لجالس الى ابن عباس إذ أتاه تسعة رهط فقالوا: يا أبا عباس إما أن
 تقوم معنا وإما أن تخلونا هؤلاء قال: فقال ابن عباس: بل أقوم معكم قال: وهو
 يومئذ صحيح قبل أن يعمى قال: فابتدؤا فتحدثوا فلا ندري ما قالوا قال: فجاء
@@ -234,7 +227,6 @@ Here is the text for the following reference: v1,p330 [entire book:
 فعلم ما في قلوبهم هل حدثنا أنه سخط عليهم بعد قال: وقال نبي الله صلى الله
 عليه وسلم لعمر حين قال: ائذن لي فلأضرب عنقه قال: أوكنت فاعلا وما يدريك
 لعل الله قد اطلع الى أهل بدر فقال: اعملوا ما شئتم.
-</p>
 
 عن علي أن النبي صلى الله عليه وسلم قال: خلفتك أن تكون خليفتي، قلت:
 أتخلف عنك يا رسول الله؟ قال: ألا ترضى أن تكون مني بمنزلة هارون من موسى
@@ -257,10 +249,8 @@ conversation with her, he said: "Ali's flesh is of mine, and his blood
 is of my own; he is to me like Aaron to Moses." Please refer to the
 narrations below.
 
-<p dir="rtl">
 يا أم سليم! إن عليا لحمه من لحمي ودمه من دمي وهو مني بمنزلة هارون من
 موسى (عن ابن عباس)
-</p>
 
 Reference:
 
@@ -300,7 +290,6 @@ upon him and his progeny, recited the verse: They are brethren seated
 conveniently facing each other' من مسند زيد بن أبي أوفى} لما آخى النبي
 صلى الله عليه وسلم بين أصحابه،
 
-<p dir="rtl">
 قال علي: لقد ذهب روحي وانقطع ظهري حين رأيتك فعلت بأصحابك ما فعلت غيري
 فإن كان هذا من سخط علي فلك العتبى والكرامة فقال رسول الله صلى الله عليه
 وسلم: والذي بعثني بالحق ما أخرتك إلا لنفسي وأنت مني بمنزلة هارون من موسى
@@ -308,7 +297,6 @@ conveniently facing each other' من مسند زيد بن أبي أوفى} لم�
 ما ورثت الأنبياء من قبلي، قال: وما ورثت الأنبياء من قبلك؟ قال: كتاب ربهم
 وسنة نبيهم، وأنت معي في قصري في الجنة مع فاطمة بنتي وأنت أخي ورفيقي. (حم
 في كتاب مناقب علي، ابن عساكر).
-</p>
 
 Reference:
 
@@ -333,12 +321,10 @@ and the Muhajirun and have not selected a brother for you from among
 them? Are you not pleased that your status to me is like that of Aaron
 to Moses, except there will be no Prophet after me?"
 
-<p dir="rtl">
 قم فما صلحت أن تكون إلا أبا تراب، أغضبت علي حين وآخيت بين المهاجرين
 والأنصار ولم أؤاخ بينك وبين أحد منهم؟ أما ترضى أن تكون مني بمنزلة هارون
 من موسى إلا أنه ليس بعدي نبي، ألا من أحبك حف بالأمن والإيمان، ومن أبغضك
 أماته الله ميتة الجاهلية وحوسب بعمله في الإسلام. (طب - عن ابن عباس)
-</p>
 
 Reference:
 
@@ -374,12 +360,10 @@ o Also quoted by: al-Hasan ibn Badr, al-Hakim in his chapter on kunyat,
 al-Shirazi in his chapter on surnames, volume six, and by Ibn al-Najjar
 The same virtue narrated at another occasion.
 
-<p dir="rtl">
 يا عقيل! والله إني لأحبك لخصلتين: لقرابتك، ولحب أبي طالب إياك؛ وأما أنت
 يا جعفر! فإن خلقك يشبه خلقي؛ وأما أنت يا علي فأنت مني بمنزلة هارون من
 موسى غير أنه لا نبي بعدي. (ابن عساكر - عن عبد الله بن عقيل عن أبيه عن
 جده عقيل بن أبي طالب
-</p>
 
 Reference:
 
@@ -460,5 +444,4 @@ References:
 o Ali ibn Muhammad al-Khatib, the Shafii faqih who is better known as
 Ibn al-Maghazli, in his book Al-Manaqib from various sources, o
 Researcher al-Balkhi, in Chapter 17 of his Yanabi al-Mawaddah
-
 

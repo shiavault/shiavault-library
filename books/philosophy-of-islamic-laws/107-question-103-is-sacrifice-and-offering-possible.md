@@ -89,4 +89,3 @@ loss at the time of worshipping Allah. Because when he sees he sees
 Allah and whatever he does he does it not for his personal gain, he does
 it for the Lord.
 
-

@@ -7,23 +7,15 @@ The Liar
 speech, even if his proof is strong and his tone is truthful.
 
 > 1ـ اَلكَذَّابُ مُتَّهَمٌ في قَوْلِهِ، وإنْ قَوِيَتْ حُجَّتُهُ،
-<blockquote dir="rtl">
-  <p>
-وصَدَقَتْ لَهْجَتُهُ.
-  </p>
-</blockquote>
+> وصَدَقَتْ لَهْجَتُهُ.
 
 2. The incessant liar and the dead are similar, for indeed (or because)
 the merit of the living over the dead is the ability to rely on him, so
 if his words are not reliable then [it is as if] his life is nullified.
 
 > 2ـ اَلكَذّابُ والمَيِّتُ سَواءٌ، فَإنَّ (لأنَّ) فَضيلَةَ الحَيِّ عَلَى
-<blockquote dir="rtl">
-  <p>
-المَيِّتِ اَلثِّقَةُ بِهِ، فَإذا لَمْ يُوثَقْ بِكَلامِهِ بَطَلَتْ
-حَياتُهُ.
-  </p>
-</blockquote>
+> المَيِّتِ اَلثِّقَةُ بِهِ، فَإذا لَمْ يُوثَقْ بِكَلامِهِ بَطَلَتْ
+> حَياتُهُ.
 
 3. The furthest of all people from goodness is the incessant liar and
 the brazen-faced.
@@ -97,10 +89,5 @@ there any good in dishonest scholars.
 him, scorn of the people and hatred of the angels.
 
 > 19ـ يَكْتَسِبُ الكاذِبُ بِكِذْبِهِ ثَلاثاً: سَخَطَ اللّهِ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-واسْتِهانَةَ النّاسِ بِهِ ومَقْتَ المَلائِكَةِ لَهُ.
-  </p>
-</blockquote>
-
+> واسْتِهانَةَ النّاسِ بِهِ ومَقْتَ المَلائِكَةِ لَهُ.
 

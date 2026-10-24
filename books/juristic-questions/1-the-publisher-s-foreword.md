@@ -22,4 +22,3 @@ and may the all make use of his abundant knowledge!
 
 **Ansariyan Publications - Qum**
 
-

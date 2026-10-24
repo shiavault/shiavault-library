@@ -32,4 +32,3 @@ on.
 verb and replace the aorist letter with a *mīm* that has a *dummah*. For
 example: **مُکرَم مُقَدّم** (honored, put forth)
 
-

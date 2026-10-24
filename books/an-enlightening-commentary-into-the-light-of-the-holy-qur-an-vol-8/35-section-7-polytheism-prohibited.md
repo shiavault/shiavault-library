@@ -4,12 +4,8 @@ Section 7: Polytheism Prohibited
 Surah An-Nahl – Verse 51
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ اللَّهُ لاَ تَتَّخِذُوا إِلَهَيْنِ اثْنَيْنِ إِنَّمَا هُوَ
-إِلَهٌ وَاحِدٌ فَإِيَّايَ فَارْهَبُونِ
-  </p>
-</blockquote>
+> وَقَالَ اللَّهُ لاَ تَتَّخِذُوا إِلَهَيْنِ اثْنَيْنِ إِنَّمَا هُوَ
+> إِلَهٌ وَاحِدٌ فَإِيَّايَ فَارْهَبُونِ
 
 ***51. “And Allah has said: ‘Do not take two gods. Verily, He is only
 One God; hence, fear Me (and Me alone).”***
@@ -62,12 +58,8 @@ beings; so how can you be a monotheist?!”*
 Surah An-Nahl – Verse 52
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَهُ مَا فِي السَّماوَاتِ وَالاَرْضِ وَلَهُ الدّ‌ِينُ وَاصِباً
-أَفَغَيْرَ اللَّهِ تَتَّقُونَ
-  </p>
-</blockquote>
+> وَلَهُ مَا فِي السَّماوَاتِ وَالاَرْضِ وَلَهُ الدّ‌ِينُ وَاصِباً
+> أَفَغَيْرَ اللَّهِ تَتَّقُونَ
 
 ***52. “Unto Him belongs whatever is in the heavens and the earth, and
 to Him should obedience be (rendered) constantly. Then are you in awe of
@@ -110,19 +102,11 @@ requirement?
 Surah An-Nahl – Verses 53 - 54
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا بِكُم مّـِن نّـِعْمَةٍ فَمِنَ اللَّهِ ثُمَّ إِذَا مَسَّكُمُ
-الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ
-  </p>
-</blockquote>
+> وَمَا بِكُم مّـِن نّـِعْمَةٍ فَمِنَ اللَّهِ ثُمَّ إِذَا مَسَّكُمُ
+> الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مّـِنكُم
-بِرَبّـِهِمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مّـِنكُم
+> بِرَبّـِهِمْ يُشْرِكُونَ
 
 ***53. “And whatever of favour is (bestowed) on you, it is from Allah;
 then whenever any calamity afflicts upon you, unto Him you cry (for
@@ -180,11 +164,7 @@ punishment.”* [^3]
 Surah An-Nahl – Verse 55
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِيَكْفُرُوا بِمَآ ءَاتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> لِيَكْفُرُوا بِمَآ ءَاتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ
 
 ***55. “So that they may show ingratitude for whatever (of blessings and
 removing hardships) We have given them; then enjoy yourselves for soon
@@ -231,12 +211,8 @@ their performance.
 Surah An-Nahl – Verse 56
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْعَلُونَ لِمَا لاَ يَعْلَمُونَ نَصِيباً مِمَّا رَزَقْنَاهُمْ
-تَاللَّهِ لَتُسْأَلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ
-  </p>
-</blockquote>
+> وَيَجْعَلُونَ لِمَا لاَ يَعْلَمُونَ نَصِيباً مِمَّا رَزَقْنَاهُمْ
+> تَاللَّهِ لَتُسْأَلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ
 
 ***56. “And they assign a share out of that which We have provided them
 with, for what they do not know. By Allah, you will certainly be
@@ -275,11 +251,7 @@ this way, and the punishment which they will meet in the Hereafter.
 Surah An-Nahl – Verse 57
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ وَلَهُم مَّا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ وَلَهُم مَّا يَشْتَهُونَ
 
 ***57. “And they ascribe daughters to Allah, glory be to Him; and for
 themselves (they ascribe sons) what they desire.”***
@@ -303,12 +275,8 @@ regarded as a kind of scandal, and a shame in their culture.
 Surah An-Nahl – Verse 58
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِذَا بُشّـِرَ أَحَدُهُم بِالاُنثَي ظَلَّ وَجْهُهُ مُسْوَدّاً وَهُوَ
-كَظِيمٌ
-  </p>
-</blockquote>
+> وإِذَا بُشّـِرَ أَحَدُهُم بِالاُنثَي ظَلَّ وَجْهُهُ مُسْوَدّاً وَهُوَ
+> كَظِيمٌ
 
 ***58. “And when one of them is given the news of having a daughter his
 face becomes black while he is wroth inwardly.”***
@@ -327,12 +295,8 @@ becomes black while he is wroth inwardly.”***
 Surah An-Nahl – Verse 59
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَتَوَارَي مِنَ الْقَوْمِ مِن سُوءِ مَا بُشّـِرَ بِهِ أَيُمْسِكُهُ
-عَلَي هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ أَلاَ سَآءَ مَا يَحْكُمُونَ
-  </p>
-</blockquote>
+> يَتَوَارَي مِنَ الْقَوْمِ مِن سُوءِ مَا بُشّـِرَ بِهِ أَيُمْسِكُهُ
+> عَلَي هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ أَلاَ سَآءَ مَا يَحْكُمُونَ
 
 ***59. “He hides him from the people for the evil of the news which has
 been given to him, (asking himself): shall he keep her with disgrace or
@@ -423,12 +387,8 @@ merchandise.
 Surah An-Nahl – Verse 60
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِلَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ مَثَلُ السَّوْءِ وَلِلَّهِ
-الْمَثَلُ الاَعْلَي وَهُوَ الْعَزِيرُ الْحَكِيمُ
-  </p>
-</blockquote>
+> لِلَّذِينَ لاَ يُؤْمِنُونَ بِالاَخِرَةِ مَثَلُ السَّوْءِ وَلِلَّهِ
+> الْمَثَلُ الاَعْلَي وَهُوَ الْعَزِيرُ الْحَكِيمُ
 
 ***60. “For those who do not believe in the hereafter, is an evil
 attribute, and Allah’s is the sublime attributes, and He is the Mighty,
@@ -502,5 +462,4 @@ the like of it to Allah?
 [^8]: Ibid
 
 [^9]: The current Surah, verse 74
-
 

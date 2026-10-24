@@ -83,11 +83,9 @@ schools of Hanbali, Shafi'i, and Maliki discourage people to rise
 against that Caliph. They think that they should be preserved although
 they disagree with the evil actions.
 
-
 The Shia say that Imam must possess above all such qualities as
 knowledge, bravery, justice, wisdom, piety, love of God etc. The Sunni
 scholars say it is not necessary. A person inferior in these qualities
 may be elected in preference to a person having all these qualities of
 superior degree.
-
 

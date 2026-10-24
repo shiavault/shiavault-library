@@ -44,4 +44,3 @@ and his daughter:
 With great respect, admiration, recognition, and praise, I have omitted
 the mentioned phrases for the sake of continuity.
 
-

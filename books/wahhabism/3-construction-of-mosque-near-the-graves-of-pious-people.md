@@ -33,11 +33,7 @@ Kahf. One group said that a structure should be made over their grave
 (so that apart from honouring them their names, signs and memories are
 kept alive). Qur’an expresses this view as such:
 
-<blockquote dir="rtl">
-  <p>
-فَقَالُوا ابْنُوا عَلَيْهِمْ بُنْيَانًا
-  </p>
-</blockquote>
+> فَقَالُوا ابْنُوا عَلَيْهِمْ بُنْيَانًا
 
 ***“…..Erect an edifice over them…., (Kahf 18:21)”***
 
@@ -47,12 +43,8 @@ in their views.[^1] that the suggestion of the first group was related
 to the polytheists and the suggestion of the second group was that of
 the monotheists. The Qur’an, while narrating this saying, says:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الَّذِينَ غَلَبُوا عَلَىٰ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِمْ
-مَسْجِدًا
-  </p>
-</blockquote>
+> قَالَ الَّذِينَ غَلَبُوا عَلَىٰ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِمْ
+> مَسْجِدًا
 
 *Those who prevailed in their affair said: We will certainly raise a
 masjid over them. (Kahf 18:21)*[^2]
@@ -95,18 +87,10 @@ forbidden. We shall examine all such traditions:
 Bukhari in his *Sahih* under the chapter of **يكره من إنخاذ المساجد على
 القبور** narrates two traditions as such:
 
-<blockquote dir="rtl">
-  <p>
-لما مات الحسن بن الحسن بن عليّ ضربَت إمراته القُبة عل قبره سنة ثم رفعت
-فسمعوا صائحاً يقول الأهل وجدوا
-  </p>
-</blockquote>
+> لما مات الحسن بن الحسن بن عليّ ضربَت إمراته القُبة عل قبره سنة ثم رفعت
+> فسمعوا صائحاً يقول الأهل وجدوا
 
-<blockquote dir="rtl">
-  <p>
-ما فقدوا فاجابه الأخر بل يئسوا فانقلبوا
-  </p>
-</blockquote>
+> ما فقدوا فاجابه الأخر بل يئسوا فانقلبوا
 
 1. *When al-Hasan bin al-Hasan bin ‘Ali passed away his wife made a dome
 (a tent) over his grave and after one year she removed it. It was heard
@@ -114,12 +98,8 @@ that one person cried out: “Have they found that which they had lost”,
 another person replied: “No they have become disappointed and have given
 up.”*
 
-<blockquote dir="rtl">
-  <p>
-لعن الله اليهود والنَّصار إتخذوا قبور انبيائهم مسجداً قالت (عائشة)
-ولولا ذلك لابرزُوا قبره غير أنَّي أخش أن يُتخذ مسجداً
-  </p>
-</blockquote>
+> لعن الله اليهود والنَّصار إتخذوا قبور انبيائهم مسجداً قالت (عائشة)
+> ولولا ذلك لابرزُوا قبره غير أنَّي أخش أن يُتخذ مسجداً
 
 2. *May the curse of Allah be upon the Jews and Christians (for)
 considering the graves of their Prophets as mosques. She (Ayesha) said:
@@ -130,36 +110,20 @@ not put up a barrier around it).*
 3. Muslim has narrated in *Sahih* the same tradition with slight
 variation. As such we confine ourselves to narrating only one text. [^3]
 
-<blockquote dir="rtl">
-  <p>
-ألا وإن من كان قبلكم كانُ,ا يتَّخذون قبور أنبيائهم وصالِحيهم مساجد ألا
-فلا تتخذوا القُبور مساجد إنى أنهاكُم عن ذلك
-  </p>
-</blockquote>
+> ألا وإن من كان قبلكم كانُ,ا يتَّخذون قبور أنبيائهم وصالِحيهم مساجد ألا
+> فلا تتخذوا القُبور مساجد إنى أنهاكُم عن ذلك
 
 *Know that people before you took the graves of their Prophets and the
 pious people as mosques. Never take the graves as mosques, I forbid you
 from that.* [^4]
 
-<blockquote dir="rtl">
-  <p>
-إن أُم حبيبة وأم سلمة ذكرتنا كنيسة رأيتها بالحبشة فيها تصاوير لرسول
-الله (صلى الله عليه وأله) فقال رسول الله
-  </p>
-</blockquote>
+> إن أُم حبيبة وأم سلمة ذكرتنا كنيسة رأيتها بالحبشة فيها تصاوير لرسول
+> الله (صلى الله عليه وأله) فقال رسول الله
 
-<blockquote dir="rtl">
-  <p>
-إن أولئك إذا كان فيهم الرجُل الصالح فما بنوا على قبره مسجداً وصوَّروا
-فيه تلك الصُور أولئك شرار الخلق عند
-  </p>
-</blockquote>
+> إن أولئك إذا كان فيهم الرجُل الصالح فما بنوا على قبره مسجداً وصوَّروا
+> فيه تلك الصُور أولئك شرار الخلق عند
 
-<blockquote dir="rtl">
-  <p>
-الله يوم القيامة.
-  </p>
-</blockquote>
+> الله يوم القيامة.
 
 4. *Umm Habiba and Umm Salama (Wives of the Holy Prophet) saw a
 prophet's picture in the country of Ethiopia (when they had travelled to
@@ -170,19 +134,11 @@ the people before God on the Day of Judgement.* [^5]
 
 al-Nasa’i narrates from Ibn ‘Abbas in his *Sunan* under the chapter:
 
-<blockquote dir="rtl">
-  <p>
-التغليط في اتخاذ السُرج على القبور
-  </p>
-</blockquote>
+> التغليط في اتخاذ السُرج على القبور
 
 as such:
 
-<blockquote dir="rtl">
-  <p>
-لعن الرسول زائرات القبور والمُتخذين عليها المساجد والسُرج
-  </p>
-</blockquote>
+> لعن الرسول زائرات القبور والمُتخذين عليها المساجد والسُرج
 
 5. The Holy Prophet (s) has cursed those ladies who visit the grave and
 those who take them as mosques and light a lamp over it.[^6]
@@ -194,11 +150,7 @@ not permitted.
 
 Thus Ibn-Taymiyya writes:
 
-<blockquote dir="rtl">
-  <p>
-قال عُلمائنا لا يجوز بناء المسجد على القبور
-  </p>
-</blockquote>
+> قال عُلمائنا لا يجوز بناء المسجد على القبور
 
 *“Our scholars have said that it is never allowed to construct a mosque
 over the grave.”* [^7]
@@ -347,25 +299,13 @@ However, their sons and successors, under the influence of whisperings
 of *shaytan*, started to worship the portraits near the graves.
 Thereafter he narrates from *Tafsir al-Baydawi* as follows:
 
-<blockquote dir="rtl">
-  <p>
-لما كانت اليهود والنصارى يسجدون لقبور الأنبياء تعظيماً لشأنهم
-ويجعلونها قبلة يتوجهون في الصلاة نحوها
-  </p>
-</blockquote>
+> لما كانت اليهود والنصارى يسجدون لقبور الأنبياء تعظيماً لشأنهم
+> ويجعلونها قبلة يتوجهون في الصلاة نحوها
 
-<blockquote dir="rtl">
-  <p>
-واتخذوها اوثاناً ، مُنِع المسلمون في مثل ذلك فاما من إتخذ مسجداً في
-جوار صالح وقصد التبرك بالقُرب منه لا
-  </p>
-</blockquote>
+> واتخذوها اوثاناً ، مُنِع المسلمون في مثل ذلك فاما من إتخذ مسجداً في
+> جوار صالح وقصد التبرك بالقُرب منه لا
 
-<blockquote dir="rtl">
-  <p>
-للتعظيم ولا للتوجيه إليه فلا يدخل في الوعيد المذكور.
-  </p>
-</blockquote>
+> للتعظيم ولا للتوجيه إليه فلا يدخل في الوعيد المذكور.
 
 “In view of the fact that the Jews and Christians were taking the graves
 of their Prophets as their qibla for the purpose of respect, and were
@@ -381,18 +321,10 @@ interprets this tradition as such but also al-Sindi, the commentator of
 *Sunan al-Nasa’i* speaks with the same effect. We mention some of them
 here.
 
-<blockquote dir="rtl">
-  <p>
-إتخذوا قبور انبيائهم مساجد أي قبلة للصلاة ويُصلون إليها أو بنوا مساجد
-عليها يُصلون فيها ولعلَّ وجه الكراهة
-  </p>
-</blockquote>
+> إتخذوا قبور انبيائهم مساجد أي قبلة للصلاة ويُصلون إليها أو بنوا مساجد
+> عليها يُصلون فيها ولعلَّ وجه الكراهة
 
-<blockquote dir="rtl">
-  <p>
-أنه قد يُفض إلى عباده نفس القبر.
-  </p>
-</blockquote>
+> أنه قد يُفض إلى عباده نفس القبر.
 
 “The outcome of his dispensation is this that construction over the
 grave is haram and occasionally makruh. If the grave is considered as
@@ -401,18 +333,10 @@ otherwise it is makruh.” [^11]
 
 Again he says:
 
-<blockquote dir="rtl">
-  <p>
-يُحذر أمته أن يصنعوا بقبره ما صنع اليهود والنصارى بقبور أنبيائهم من
-إتخاذهم تلك القبور مساجد إما بالسجود
-  </p>
-</blockquote>
+> يُحذر أمته أن يصنعوا بقبره ما صنع اليهود والنصارى بقبور أنبيائهم من
+> إتخاذهم تلك القبور مساجد إما بالسجود
 
-<blockquote dir="rtl">
-  <p>
-إليها تعظيماً لها أو يجعلها قبلة يتوجهون في الصلاة إليها.
-  </p>
-</blockquote>
+> إليها تعظيماً لها أو يجعلها قبلة يتوجهون في الصلاة إليها.
 
 “He (i.e. the Holy Prophet) prohibits his ummah from treating his grave
 in the same manner as what the Jews and the Christians have done to the
@@ -432,11 +356,7 @@ the grave so that it could not be seen and the Muslims would not
 prostrate over it. The speech of *Umm al-mu’minin* too is a witness to
 the same:
 
-<blockquote dir="rtl">
-  <p>
-لولا ذلك لأبرزوا قبره غير أنه اخش أن يُتخذ مسجداً
-  </p>
-</blockquote>
+> لولا ذلك لأبرزوا قبره غير أنه اخش أن يُتخذ مسجداً
 
 If it was not for this fear that his grave (i.e. the grave of Holy
 Prophet) would become a mosque, the Muslims would have kept his grave
@@ -496,11 +416,7 @@ awliya. However, no argument exists to prove that this prohibition is a
 *makruh* prohibition just as Bukhari has interpreted the traditions and
 discussed them under the title;
 
-<blockquote dir="rtl">
-  <p>
-باب ، يكره من اتخاذ المساجد على القبور
-  </p>
-</blockquote>
+> باب ، يكره من اتخاذ المساجد على القبور
 
 *Chapter: It is aversion to build mosques on graves.* [^13]
 
@@ -570,5 +486,4 @@ Muhammad Muhyiuddin), vol. 3, p. 897.
 
 [^16]: Al-Samhudi, Wafa’ al-wafa’, (ed. Muhammad Muhyiuddin), vol. 3, p.
 922 and 936.
-
 

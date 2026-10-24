@@ -5,12 +5,8 @@ Jussive Cases of a Verb
  A verb is put into the jussive case when it is preceded by one of the
 following prepositions:
 
-<blockquote dir="rtl">
-  <p>
-لَم لَمّا لامُ الﺃمر لاالناهیَة ﺇن ﺇذما مَن ما مَهما ﺃیّ کَیفَما متیَ
-ﺃینما ﺃیّان ﺃنّی حَیثما
-  </p>
-</blockquote>
+> لَم لَمّا لامُ الﺃمر لاالناهیَة ﺇن ﺇذما مَن ما مَهما ﺃیّ کَیفَما متیَ
+> ﺃینما ﺃیّان ﺃنّی حَیثما
 
 14. How many kinds of jussive prepositions are there?  
  There are two types of jussive prepositions:  
@@ -67,5 +63,4 @@ outer-appearance will become fixed.)
 
     12) **حَیثَما** for example: **حَیثَما** **تَسقُط** **تَثبُت**
 (Wherever you fall you will stay.)
-
 

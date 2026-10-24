@@ -145,4 +145,3 @@ closed. They knocked the again and again. Instead of humans voices they
 heard the animal sound. They brought a ladder and a man climbed up to
 see inside. He saw apes and swine roaming the city.
 
-

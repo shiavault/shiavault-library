@@ -420,4 +420,3 @@ arrows at him, some of which fell close to the coffin. IMAM HUSAIN (AS),
 in accordance with his brother's will, took his brother's corps to
 JANNAT AL-BAQI' where he buried him.
 
-

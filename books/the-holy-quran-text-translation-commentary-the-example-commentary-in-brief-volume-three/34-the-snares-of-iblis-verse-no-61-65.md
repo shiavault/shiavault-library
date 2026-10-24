@@ -72,7 +72,6 @@ children is through usury and giving birth to unlawful children; but we
 are of opinion that the words have wider meanings which includes
 obtaining any sort of unlawful wealth and children.
 
-
 رَبُّكُمْ الَّذِي يُزْجِي لَكُمْ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا
 مِنْ فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيماً(( 66 ))
 
@@ -109,7 +108,6 @@ INGRATITUDE; THEN NO ONE IS FOUND (EVEN) TO CLAIM YOUR BLOOD-MONEY
 [ 574 ]
 
 THE COMMENTARY
-
 
 INGRATITUDE AGAINST SO MUCH MERCY (VERSE NO. 66 - 69)
 
@@ -153,7 +151,6 @@ you find no one to protect you?''
 So if Man flees from the wrath of God, he has no where to go, but, to
 God Himself, riding the mount of repentance and return.
 
-
 وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ
 وَالْبَحْرِ وَرَزَقْنَاهُمْ مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى
 كَثِير مِّمَّنْ خَلَقْنَا تَفْضِيلا(( 70 ))
@@ -181,7 +178,6 @@ IN THE WORLD TO COME TOO, AND MORE ASTRAY FROM THE WAY.
 [ 576 ]
 
 THE COMMENTARY
-
 
 MAN THE MASTER - PIECE OF CREATION (VERSE NO. 70 - 72)
 
@@ -281,7 +277,6 @@ The Arabic, \`\`FATIL'' that we have translated here to,
 \`\`DATE-THREAD'' is a thin small skin in the cleft of date-stone which
 does not worth a mention for having no value.
 
-
 وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنْ الَّذِي أَوْحَيْنَا إِلَيْكَ
 لِتَفْتَرِي عَلَيْنَا غَيْرَهُ وَإِذاً لاَّتَّخَذُوكَ خَلِيلا(( 73 ))
 
@@ -306,7 +301,6 @@ TO HELP YOU AGAINST US.
 
 THE COMMENTARY
 
-
 VERSE NO. 73 - 75
 
 Our prophet was so very eager to convert the Pagan Arabs, and lead them
@@ -327,9 +321,7 @@ prayed to his Lord saying:ِ
 
 \`\`My Lord! Do not leave me to myself for a twinkle of an eye.''
 
-
 \*\*\*\*\*
-
 
 ALLUREMENT AND THREAT
 
@@ -412,9 +404,7 @@ WRATH WOULD DESTROY THEM ALL)
 WE SENT BEFORE YOU; AND YOU WILL NOT FIND ANY CHANGE IN OUR METHODICAL
 WAY.
 
-
 THE COMMENTARY
-
 
 ANOTHER EVIL PLOT (VERSE NO. 76 - 77)
 
@@ -463,7 +453,6 @@ Badr; and the promise of God came to pass, that:ِ
 you from it.'' In that case, they would not remain after but a little.
 (AND GOD'S WRATH WOULD SEIZE THEM)
 
-
 أَقِمِ الصَّلاَةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ
 الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُوداً(( 78 ))
 
@@ -493,9 +482,7 @@ AUTHORITY.
 81- AND SAY:ِ \`\`TRUTH CAME AND FALSEHOOD VANISHED, THAT FALSEHOOD WAS
 APT TO VANISH.''
 
-
 THE COMMENTARY
-
 
 EVENTUALLY FALSEHOOD WILL VANISH (VERSE NO. 78 - 81)
 
@@ -540,7 +527,6 @@ lying may prevent a Muslim to perform it. The prayer is said, it
 increases our physical health. The honour and glory of a believer is
 said to depend on how he performs the prayer.
 
-
 وَنُنَزِّلُ مِنْ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ
 وَلاَ يَزِيدُ الظَّالِمِينَ إِلاَّ خَسَاراً (( 82 ))
 
@@ -551,7 +537,6 @@ LOSS.
 [ 585 ]
 
 THE COMMENTARY
-
 
 QURA"N; THE HEALING PRESCRIPTION (VERSE NO. 82)
 
@@ -602,7 +587,6 @@ sincerely followed, and has been put to action.
 If the patient do not use the medicine prescribed by the doctor, he is
 far from cure.
 
-
 وَإِذَا أَنْعَمْنَا عَلَى الاِْنسَانِ أَعْرَضَ وَنَأَبِجَانِبِهِ
 وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَؤُساً(( 83 ))
 
@@ -615,9 +599,7 @@ WITH PRIDE; BUT WHEN EVIL TOUCHES HIM, HE ABANDONS TO DESPAIR.
 84- SAY:ِ \`\`EVERY ONE ACTS ACCORDING TO HIS OWN MANNER, AND YOUR LORD
 KNOWS BEST, THAT, WHO IS THE MOST GUIDED ONE ON THE WAY.
 
-
 THE COMMENTARY
-
 
 EVERY ONE FOLLOWS HIS OWN NATURE (VERSE NO. 83 - 84)
 
@@ -636,12 +618,10 @@ hand when he suffers a misfortune, he is sure that God will remove his
 affliction and is a sure refuge and help. Why should he then give
 himself up to despair and lose hope!?
 
-
 He rather has his bridle cut out or broken from the hands of wisdom and
 knowledge, and has given up to passion, anger, caprices, fancies, and
 etc., that make out his natural manner and methods; and yet, all these
 differ from Man's instinct which he is compelled to follow.
-
 
 وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلْ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا
 أُوتِيتُمْ مِّنَ الْعِلْمِ إِلاَّ قَلِيلا(( 85 ))
@@ -650,9 +630,7 @@ differ from Man's instinct which he is compelled to follow.
 THE ORDER OF MY LORD, AND YOU ARE NOT GIVEN OF KNOWLEDGE, EXCEPT A
 LITTLE.''
 
-
 [ 588 ]
 
 THE COMMENTARY
-
 

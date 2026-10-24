@@ -26,11 +26,7 @@ relations, industry etc.
 In regards to this awareness the intellectual of Islam, Imam Ali (as),
 once declared from the podium:
 
-<blockquote dir="rtl">
-  <p>
-"وان من الحق ان تفقهوا."
-  </p>
-</blockquote>
+> "وان من الحق ان تفقهوا."
 
 “It is sensible to be well versed in religious laws.”[^1]
 
@@ -90,13 +86,9 @@ Anyway, let us get back to our topic. Some people claim that Quran and
 other treatises strongly condemn taqleed, obedience and following.
 Qur’an says in Surah Aaraf:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
-وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ
-بِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
+> وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ
+> بِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ
 
 ***“When these people commit a shameful act, they say, “We have seen our
 elders do these deeds and Allah has ordered us to do so.” Tell them,
@@ -106,13 +98,9 @@ things that you have no knowledge of?”***[^2]
 And this is not the only verse. There are others such as in Surah
 al-Ma’ida:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى
-الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا ۚ
-أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْلَمُونَ شَيْئًا وَلَا يَهْتَدُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى
+> الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا ۚ
+> أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْلَمُونَ شَيْئًا وَلَا يَهْتَدُونَ
 
 ***“And when they are told to come towards the constitution that came
 from Allah and follow the Prophet, they say, “whatever we have seen our
@@ -123,15 +111,11 @@ ignorant of the true path?”***[^3]
 Now let us look at the portion of Surah Shu’ara where Prophet Ibrahim
 (as) talks to his community:
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ
-مَا تَعْبُدُونَ  قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا
-عَاكِفِينَ قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ أَوْ
-يَنْفَعُونَكُمْ أَوْ يَضُرُّونَ قَالُوا بَلْ وَجَدْنَا آبَاءَنَا
-كَذَٰلِكَ يَفْعَلُونَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ
+> مَا تَعْبُدُونَ  قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا
+> عَاكِفِينَ قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ أَوْ
+> يَنْفَعُونَكُمْ أَوْ يَضُرُّونَ قَالُوا بَلْ وَجَدْنَا آبَاءَنَا
+> كَذَٰلِكَ يَفْعَلُونَ
 
 ***“And recite to them the story of Ibrahim. When he said to his father
 and his people: What do you worship? They said: We worship idols, so we
@@ -141,15 +125,11 @@ doing so.***”[^4]
 
 Next let us benefit from a few verses of Surah Zukhruf:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْ شَاءَ الرَّحْمَٰنُ مَا عَبَدْنَاهُمْ مَا لَهُمْ
-بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَخْرُصُونَ أَمْ آتَيْنَاهُمْ
-كِتَابًا مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ بَلْ قَالُوا إِنَّا
-وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِمْ
-مُهْتَدُونَ
-  </p>
-</blockquote>
+> وَقَالُوا لَوْ شَاءَ الرَّحْمَٰنُ مَا عَبَدْنَاهُمْ مَا لَهُمْ
+> بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَخْرُصُونَ أَمْ آتَيْنَاهُمْ
+> كِتَابًا مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ بَلْ قَالُوا إِنَّا
+> وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِمْ
+> مُهْتَدُونَ
 
 ***“And they [the polytheists] say, “If compassionate Allah did not
 want, we would not worship these idols.” They are not aware of the root
@@ -193,15 +173,11 @@ intellect is frozen and they have lost sagacity and awareness.
 
 Similarly there are other verses such as Surah Al-Baqara:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ
-نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
-لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ وَمَثَلُ الَّذِينَ كَفَرُوا
-كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً
-صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ
+> نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ
+> لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ وَمَثَلُ الَّذِينَ كَفَرُوا
+> كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً
+> صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ
 
 ***“When they [the polytheists] are told that they should obey Allah’s
 commands, their response is that they are following their ancestors’
@@ -242,5 +218,4 @@ darkness while following truly learned people leads to enlightenment.
 [^5]: Surah Zukhruf, 43: 20-22.
 
 [^6]: Surah Al-Baqara, 2:170-171.
-
 

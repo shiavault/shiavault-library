@@ -338,4 +338,3 @@ Muslim b. 'Aqil's (attempted) rising in Kufa was on Tuesday, 8th of Dhu
 al-Hijja in the year 60 A.H. (680). He, may God have mercy on him, was
 killed on Wednesday, 9th of Dhu al-Hijja, the Day of Arafa.
 
-

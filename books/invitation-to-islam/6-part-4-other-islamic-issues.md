@@ -384,4 +384,3 @@ their face and the law of punishment would be exercised.
 
 [^12]: Qur'an 33:59, 33:53, and 24:31.
 
-

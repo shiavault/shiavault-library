@@ -170,11 +170,7 @@ Farazdaq has manifested in his poetry the assumption that the Umayya
 regarded themselves as 'Uthman's heirs apparent. In a poem addressing
 'Abd al-Malik Ibn Marwan, he has composed,
 
-<blockquote dir="rtl">
-  <p>
-تراث عثمان كانوا الاولياء له سربال ملك عليهم غير مسلوب
-  </p>
-</blockquote>
+> تراث عثمان كانوا الاولياء له سربال ملك عليهم غير مسلوب
 
 “They are the custodians of 'Uthman's inheritance and this royal robe
 can by no means be divested.” [^23]
@@ -185,11 +181,7 @@ he has composed addressing Yazid Ibn 'Abd al-Malik that the caliphate
 has been transferred from 'Uthman to Mu'awiya and then to him among the
 Umayya[^25],
 
-<blockquote dir="rtl">
-  <p>
-ورثت ابن حرب وابن مروان والذي به نصـر الله النبـي محمـدا
-  </p>
-</blockquote>
+> ورثت ابن حرب وابن مروان والذي به نصـر الله النبـي محمـدا
 
 “You are the heir of Harb's son, Marwan's son and the heir of the one
 with whose assistance Allah made Muhammad (S) vanquish (he has probably
@@ -197,11 +189,7 @@ meant 'Uthman by the last one)” [^26]
 
 And for Walid Ibn Yazid he has composed,
 
-<blockquote dir="rtl">
-  <p>
-ورثوا مشورُتها لعثمان التي كانت تراث نبينا المتخيّر
-  </p>
-</blockquote>
+> ورثوا مشورُتها لعثمان التي كانت تراث نبينا المتخيّر
 
 “They are the heirs of Shura (the council) which designated 'Uthman, the
 Shura which is the inheritance of the Chosen Prophet's caliphate.” [^27]
@@ -331,11 +319,7 @@ Yazid, Rawh Ibn Zinba' belonging to the tribe of Judham and from among
 the devotees of the Umayya in Damascus said, “We are not soliciting you
 to swear allegiance to the tribes of Lakhm, Judham or Kalb,
 
-<blockquote dir="rtl">
-  <p>
-ولكنا ندعوكم الى قريش ومن جعل الله له هذا الأمر واختصّه “
-  </p>
-</blockquote>
+> ولكنا ندعوكم الى قريش ومن جعل الله له هذا الأمر واختصّه “
 
 We are summoning you toward Quraysh and the one for whom Allah has
 uniquely assigned this authority, namely Yazid Ibn Mu'awiya.”[^45]
@@ -399,17 +383,9 @@ Mu'awiya said, “This sovereignty is what Allah has granted us.”[^57]
 To induce Mu'awiya to introduce his son a caliph, Miskin Darami
 composed:
 
-<blockquote dir="rtl">
-  <p>
-بني خـلفاء الله مهـلاً فأنّما يُبوئها الرّحمن حيث يزيد
-  </p>
-</blockquote>
+> بني خـلفاء الله مهـلاً فأنّما يُبوئها الرّحمن حيث يزيد
 
-<blockquote dir="rtl">
-  <p>
-اذا المنبـر الغربي خلّاه ربـّه فـإن اميرالمؤمنين يزيـد
-  </p>
-</blockquote>
+> اذا المنبـر الغربي خلّاه ربـّه فـإن اميرالمؤمنين يزيـد
 
 “O descendants of Allah's caliphs, slow down, Allah will rest the rule
 anywhere He ordains. When the western pulpit of Damascus voided (when
@@ -460,19 +436,11 @@ And this might have made Mu'awiya think of transmitting the Holy
 Prophet's pulpit as well as his waking-cane from Medina to
 Damascus.[^63] It is also quoted from Abu Hurayra as stating,
 
-<blockquote dir="rtl">
-  <p>
-الملك في قريش والقضاء في الانصار “
-  </p>
-</blockquote>
+> الملك في قريش والقضاء في الانصار “
 
 Monarchism is for Quraysh but governorship for Ansar” [^64] and
 
-<blockquote dir="rtl">
-  <p>
-الخلافة في قريش والحكم في الانصار “
-  </p>
-</blockquote>
+> الخلافة في قريش والحكم في الانصار “
 
 Caliphate is for Quraysh but governorship for Ansar.” [^65]
 
@@ -711,12 +679,8 @@ It has also been narrated that Mu'awiya rewarded Samura Ibn Jundab with
 400,000 dhms to alege that the following verse (2:204) had been revealed
 about 'Ali (a):
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا
-وَيُشْهِدُ اللَّهَ عَلَى مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ.
-  </p>
-</blockquote>
+> وَمِنْ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا
+> وَيُشْهِدُ اللَّهَ عَلَى مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ.
 
 “And among men is the one whose speech about this worldly life causes
 you to wonder, and he calls on Allah to witness as to what is in his
@@ -881,12 +845,8 @@ and eulogizing 'Ali (a).
 When Mughira was notified of such movements, he summoned Sa'sa'a and
 told him, “Far more than you we are acquainted with his excellences but
 
-<blockquote dir="rtl">
-  <p>
-هذه السلطان قد ظهر وأخذنا بإظهار عيبه للناس فندع كثيراً مما أمرنا به
-ونذكر الشيء الذي لانجد منه بداً نرفع به هؤلاء القوم عن أنفسنا تقيّة “
-  </p>
-</blockquote>
+> هذه السلطان قد ظهر وأخذنا بإظهار عيبه للناس فندع كثيراً مما أمرنا به
+> ونذكر الشيء الذي لانجد منه بداً نرفع به هؤلاء القوم عن أنفسنا تقيّة “
 
 Because as soon as this ruler appeared, we had to denounce 'Ali and
 relinguish many of what we were ordered to merely in order to extricate
@@ -895,11 +855,7 @@ ourselves from this race (the Umayya).” [^130]
 Anyhow Mughira the same as other agents were compelled to denounce Imam
 'Ali (a) and exonerate 'Uthman. Owing to this fact
 
-<blockquote dir="rtl">
-  <p>
-يتعرّض لعليٍّ في مجلسه وخطبه ويدعو لعثمان ويترحّم له “
-  </p>
-</blockquote>
+> يتعرّض لعليٍّ في مجلسه وخطبه ويدعو لعثمان ويترحّم له “
 
 He variably denounced 'Ali (a) in every assembly and sermon in the
 mosque but commemorated 'Uthman and pled mercy for him.” [^131]
@@ -981,12 +937,8 @@ having devotion to 'Ali and demolish his house as well.” [^148]
 Ibn Abi al-Hadid has also written that as far as Ziyad was
 well-aquainted with Shi'ite Muslims,
 
-<blockquote dir="rtl">
-  <p>
-قتلهم تحت كل حجر ومدر وأخافهم وقطع الأيدي والأرجل وسمل العيون وصلبهم
-على جذوع النخل وطرًّدهم وشردّهم
-  </p>
-</blockquote>
+> قتلهم تحت كل حجر ومدر وأخافهم وقطع الأيدي والأرجل وسمل العيون وصلبهم
+> على جذوع النخل وطرًّدهم وشردّهم
 
 “He massacred them all anywhere whom he noticed, intimidated them, cut
 off their limbs, blinded them, hung them from tree branches and banished
@@ -1127,13 +1079,9 @@ Ziyad who had on no accounts approved the aforesaid affidavit ordered
 Abu Burda, son of Abu Musa Ash'ari, to prepare a more pungent one. What
 he wrote as a result was,
 
-<blockquote dir="rtl">
-  <p>
-إن حجر خلع الطاعة وفارق الجماعة ولعن الخليفة ودعا إلي الحرب والفتنة
-وجمع إليه الجموع يدعوهم إلى نكث البيعة وخلع اميرالمؤمنين معاويه وكفر
-بالله كفرة صلعاء
-  </p>
-</blockquote>
+> إن حجر خلع الطاعة وفارق الجماعة ولعن الخليفة ودعا إلي الحرب والفتنة
+> وجمع إليه الجموع يدعوهم إلى نكث البيعة وخلع اميرالمؤمنين معاويه وكفر
+> بالله كفرة صلعاء
 
 “Hujr has declined to comply with the caliph and seceded from “Jama'a”.
 He has cursed the caliph and summoned all to a battle and sedition.
@@ -1168,11 +1116,7 @@ Hujr described 'Ali as Prophet's friend and executor. At that time many
 were of this belief in Iraq. When Abul-Aswad Du'ali was sneered due to
 his in-depth enthusiasm for 'Ali, he stated in a poem,
 
-<blockquote dir="rtl">
-  <p>
-أحب محمداً حبّاً شديداً وعباساً وحمزة والوصيا
-  </p>
-</blockquote>
+> أحب محمداً حبّاً شديداً وعباساً وحمزة والوصيا
 
 “I adore Muhammad (S), 'Abbas, Hamza and the executor ('Ali)” [^178]
 
@@ -1241,12 +1185,8 @@ him about 'Ali (a).
 “You had better not enquire any question”, he responded. When Mu'awiya
 insisted, he declared,
 
-<blockquote dir="rtl">
-  <p>
-أشهد أنه من الذاكرين الله كثيراَ ومن الآمرين بالحق والقائمين بالقسط
-والعافين عن الناس “
-  </p>
-</blockquote>
+> أشهد أنه من الذاكرين الله كثيراَ ومن الآمرين بالحق والقائمين بالقسط
+> والعافين عن الناس “
 
 I do attest that he was among the ones bearing Allah invariably in mind,
 enjoining good, establishing justice and being magnanimous.” And when he
@@ -1523,12 +1463,8 @@ Addressing his tribe and reiterating that they were faithful to Shi'ism
 and the leadership of the Prophet's household, Sa'sa'a Ibn Suhan, an
 eloquent chief of the Shi'ite Muslims said,
 
-<blockquote dir="rtl">
-  <p>
-لا قوم أعدى لله ولأهل بيت نبيّكم ولجماعة المسلمين من هذه المارقة
-الخاطئة الذين فارقوا امامنا واستحلوا دمائنا وشهدوا علينا بالكفر
-  </p>
-</blockquote>
+> لا قوم أعدى لله ولأهل بيت نبيّكم ولجماعة المسلمين من هذه المارقة
+> الخاطئة الذين فارقوا امامنا واستحلوا دمائنا وشهدوا علينا بالكفر
 
 “Not a single group like this group shows enmity towards Allah, the Holy
 Prophet's household and Muslims; the wrongdoing Mariqin (the deviators)
@@ -1902,17 +1838,9 @@ to me,” wrote Sa'id Ibn 'As, the governor, to Mu'awiya.[^263] The
 dwellers of Damascus propounded the issue of inheritance and admitted it
 as a principle in caliphate. A poet had composed as follows,
 
-<blockquote dir="rtl">
-  <p>
-فان تأتوا برملة أو بـــهند نبايعـها أميـرة مؤمنيـنا
-  </p>
-</blockquote>
+> فان تأتوا برملة أو بـــهند نبايعـها أميـرة مؤمنيـنا
 
-<blockquote dir="rtl">
-  <p>
-أذا ما مات كسـرى قام كسرى نعـد ثـلاثـة متنـاسقينا
-  </p>
-</blockquote>
+> أذا ما مات كسـرى قام كسرى نعـد ثـلاثـة متنـاسقينا
 
 “Were Ramla or Hind introduced as the caliph, we would swear allegiance
 to her as Amira al-Mu'minin (the Commanderess of the Believers) and if a
@@ -1921,23 +1849,11 @@ three equal at our sight.”[^264]
 
 And also 'Abd Allah Ibn Hammam as-Saluli had composed for Yazid as,
 
-<blockquote dir="rtl">
-  <p>
-تعزّوا يا بني حَرْب بِصَبْر فمن هذا الذي يرجو الخلُودا
-  </p>
-</blockquote>
+> تعزّوا يا بني حَرْب بِصَبْر فمن هذا الذي يرجو الخلُودا
 
-<blockquote dir="rtl">
-  <p>
-تلقَّاها يزيدٌ عن أبيــه فخذها يا معـاوِي عن يزيدا
-  </p>
-</blockquote>
+> تلقَّاها يزيدٌ عن أبيــه فخذها يا معـاوِي عن يزيدا
 
-<blockquote dir="rtl">
-  <p>
-أديروها بني حرب عَلَيْكم ولاترموا بها الغرض البعيدا
-  </p>
-</blockquote>
+> أديروها بني حرب عَلَيْكم ولاترموا بها الغرض البعيدا
 
 “Soothe yourself with patience. Who does ever expect an eternal life in
 this world? Yazid inherited the caliphate from his father and you O
@@ -1949,11 +1865,7 @@ What has been observed within the poems belonging to Umayya poets was
 that they have treated Umayya caliphs as the successors of Allah's
 Messenger (S).
 
-<blockquote dir="rtl">
-  <p>
-إن الوليد وليُّ عهد محمّد كلَّ المكارم بالمكارم يَشْتَري
-  </p>
-</blockquote>
+> إن الوليد وليُّ عهد محمّد كلَّ المكارم بالمكارم يَشْتَري
 
 “Walid being in the position of Muhammad's successor responds with
 good), had composed Farazdaq regarding Walid Ibn 'Abd al-Malik.” [^266]
@@ -2711,5 +2623,4 @@ p. 8
 [^271]: al-Futuh, vol. IV, p. 255
 
 [^272]: al-Futuh, vol. IV, p. 257
-
 

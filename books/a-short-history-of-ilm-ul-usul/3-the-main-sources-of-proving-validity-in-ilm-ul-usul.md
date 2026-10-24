@@ -593,4 +593,3 @@ tenets. This is because the proofs of the existence of the Creator and
 of the validity of Islam are not possible through al-Bayan al-Shar'i,
 but have to be grasped through reason.
 
-

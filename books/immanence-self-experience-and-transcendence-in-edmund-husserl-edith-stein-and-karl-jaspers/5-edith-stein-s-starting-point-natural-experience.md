@@ -71,4 +71,3 @@ which she puts in the mouth of Aquinas, is that natural reason is not
 able to set bounds on itself.[^48] Faith, for Stein and Aquinas, on the
 other hand, provides its own guarantee.
 
-

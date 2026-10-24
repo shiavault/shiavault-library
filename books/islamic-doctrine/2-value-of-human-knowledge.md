@@ -143,4 +143,3 @@ I am more concerned here with the rational support of the Islamic
 doctrine, bearing in mind that acting according to the will of God is a
 necessary requirement for a firm and lively belief.
 
-

@@ -105,7 +105,6 @@ Again it is said:
 "here is a party of them who used to listen to the word of God and yet
 knowingly perverted it and they knew what they were doing." (2:81)
 
-
 **(3) Suppression of Truth:**
 
 They used to hide the truth that was revealed in their scriptures. The
@@ -147,5 +146,4 @@ The Qur'an makes mention of this in these words:
 "And thou wouldst surely find them of all men the most covetous of
 life, even more covetous than those who associate others with God. Every
 one of them may wish to live a thousand years." (2:96)
-
 

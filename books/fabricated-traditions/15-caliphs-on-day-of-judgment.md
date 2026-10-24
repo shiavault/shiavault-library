@@ -85,4 +85,3 @@ says that Ibrahim bin Abdullah is a liar.[^3]
 
 [^3]: - Lisan al-Mizan, vol. 1, p. 169.
 
-

@@ -99,4 +99,3 @@ who believe in a straight path.
 
 (Holy Qur'an, 22:54)
 
-

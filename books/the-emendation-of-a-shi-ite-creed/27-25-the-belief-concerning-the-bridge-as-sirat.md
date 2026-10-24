@@ -52,4 +52,3 @@ to Paradise or to Hell.
 
 [^1]: \* \* Not found in N.
 
-

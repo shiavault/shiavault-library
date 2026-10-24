@@ -56,4 +56,3 @@ present pamphlet is most respectfully dedicated.
 Mohammadi-ye Reyshahari
 Tehran March 20 1988
 
-

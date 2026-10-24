@@ -24,4 +24,3 @@ in the life of this world, he solaces his heart with such a thought, not
 knowing that the hypocrites who are tested in this life are numerous,
 and not everyone who is afflicted is a believer.
 
-

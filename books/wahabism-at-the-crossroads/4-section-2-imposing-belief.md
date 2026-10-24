@@ -5,13 +5,9 @@ Islam has decreed that cooperation of different Islamic sects with one
 another must only be through friendly and logical discussions, more so
 with non-Muslims:
 
-<blockquote dir="rtl">
-  <p>
-{ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن
-ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ}
-  </p>
-</blockquote>
+> {ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
+> وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن
+> ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ}
 
 ***"Invite to the way of your Lord with wisdom and good advice and
 dispute with them in a manner that is best. Indeed your Lord knows best
@@ -20,14 +16,10 @@ guided."***[^1]
 
 And He also remarks:
 
-<blockquote dir="rtl">
-  <p>
-{وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ
-إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا آمَنَّا بِالَّذِي أُنزِلَ
-إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ
-وَنَحْنُ لَهُ مُسْلِمُونَ}
-  </p>
-</blockquote>
+> {وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ
+> إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا آمَنَّا بِالَّذِي أُنزِلَ
+> إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ
+> وَنَحْنُ لَهُ مُسْلِمُونَ}
 
 ***"Do not dispute with the people of the Book except in a manner which
 is best, barring such of them as are wrongdoers, and say, 'We believe in
@@ -134,13 +126,9 @@ We say: Has His Holiness (S) given you permission to become polytheists?
 Even though it is impossible for the cause of polytheism to encounter an
 exception:
 
-<blockquote dir="rtl">
-  <p>
-{إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
-ذَلِكَ لِمَن يَشَاءُ وَمَن يُشْرِكْ بِاللّهِ فَقَدِ افْتَرَى إِثْمًا
-عَظِيمًا}
-  </p>
-</blockquote>
+> {إِنَّ اللّهَ لاَ يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ
+> ذَلِكَ لِمَن يَشَاءُ وَمَن يُشْرِكْ بِاللّهِ فَقَدِ افْتَرَى إِثْمًا
+> عَظِيمًا}
 
 ***"Indeed Allah does not forgive that any partner should be ascribed to
 Him, but He forgives anything besides that to whomever He wishes. And
@@ -157,14 +145,10 @@ The Main Duty Of The Custodians Of The House Of God
 The Holy Places and the Sacred House of God belong to all the Muslims of
 the world:
 
-<blockquote dir="rtl">
-  <p>
-{جَعَلَ اللّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِّلنَّاسِ
-وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلاَئِدَ ذَلِكَ لِتَعْلَمُواْ
-أَنَّ اللّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَأَنَّ
-اللّهَ بِكُلِّ شَيْءٍ عَلِيمٌ}
-  </p>
-</blockquote>
+> {جَعَلَ اللّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِّلنَّاسِ
+> وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلاَئِدَ ذَلِكَ لِتَعْلَمُواْ
+> أَنَّ اللّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ وَأَنَّ
+> اللّهَ بِكُلِّ شَيْءٍ عَلِيمٌ}
 
 ***"Allah has made the Ka'bah, the sacred House, a [means of] sustenance
 for mankind, and [also] the sacred month, the offering and the garlands,
@@ -175,11 +159,7 @@ things."*** [^8]
 Every individual from near and remote should benefit equally from the
 house of God;
 
-<blockquote dir="rtl">
-  <p>
-{...سَوَاءً الْعَاكِفُ فِيهِ وَالْبَادِ...}
-  </p>
-</blockquote>
+> {...سَوَاءً الْعَاكِفُ فِيهِ وَالْبَادِ...}
 
 ***"The native and the visitor are equal therein."*** [^9]
 
@@ -195,12 +175,8 @@ Ignorance[^11] the job of the custodians was nothing more than what is
 referred to in the Holy Quran; providing water to Hajj pilgrims and the
 maintenance of the Holy Mosque:
 
-<blockquote dir="rtl">
-  <p>
-{أَجَعَلْتُمْ سِقَايَةَ الْحَاجِّ وَعِمَارَةَ الْمَسْجِدِ
-الْحَرَامِ...}
-  </p>
-</blockquote>
+> {أَجَعَلْتُمْ سِقَايَةَ الْحَاجِّ وَعِمَارَةَ الْمَسْجِدِ
+> الْحَرَامِ...}
 
 ***"Do you regard the providing of water to hajj pilgrims and the
 maintenance of the Holy Mosque…"***[^12]
@@ -245,12 +221,8 @@ for them to allow the publication of even one edition of those books.
 
 Is this the meaning signified in the following Holy Verse?
 
-<blockquote dir="rtl">
-  <p>
-{...فَبَشِّرْ عِبَادِ \* الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ
-فَيَتَّبِعُونَ أَحْسَنَهُ...}
-  </p>
-</blockquote>
+> {...فَبَشِّرْ عِبَادِ \* الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ
+> فَيَتَّبِعُونَ أَحْسَنَهُ...}
 
 ***"So give good news to my servants- who listen to the word [of Allah]
 and follow the best [sense] of it."*** [^17]
@@ -393,5 +365,4 @@ attention of many researchers, amongst them is the book "Ideas"
 (مفاهيم).
 
 [^23]: – مفاهيم يجب ان تصحح.
-
 

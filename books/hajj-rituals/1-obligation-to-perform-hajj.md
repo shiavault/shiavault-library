@@ -45,4 +45,3 @@ person was not able to get there in time for pilgrimage, the obligation
 to perform it, most evidently, does not become obligatory on them, even
 though their delay was excusable.
 
-

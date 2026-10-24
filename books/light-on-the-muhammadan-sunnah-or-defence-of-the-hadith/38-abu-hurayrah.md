@@ -52,8 +52,7 @@ family gave to him so as to be called with among people.
 Al-Nawawi says: Abu Hurayrah's name is Abd al-Rahman ibn Sakhr,
 according to authentic reports from thirty sources.
 
-The Moroccan Hafiz Ibn Abd al-Barr, in al-Isti‘ab <span
-id="_anchor_358"></span>358  writes:
+The Moroccan Hafiz Ibn Abd al-Barr, in al-Isti‘ab 358  writes:
 
 There was much controversy and disagreement regarding the original names
 of Abu Hurayrah and his father, in a way that no one could know it
@@ -111,7 +110,7 @@ Ibn Sa'd in al-Tabaqat al-kubra, writes: The Dousis including Abu
 Hurayrah arrived at al-Madinah while the Messenger of Allah was in
 Khaybar. Thereat the Messenger asked his Companions to give Abu Hurayrah
 a share from the booty, which they did. And due to being poor, he betook
-himself to the Siffah <span id="_anchor_359"></span>359  after r
+himself to the Siffah 359  after r
 returning to al-Madina, living in it as long as he was residing in
 al-Madinah, being the most famous among those frequenting to it.
 
@@ -124,8 +123,7 @@ affection and seeking guidance — as the case with other Muslims but he
 said: "I kept his company for only filling my abdomen"
 
 In a hadith reported by Ahmad and the two Shaykhs (al-Bukhari and
-Muslim), from Sufyan, from al Zuhri, Abd al-Rahman al-A'raj <span
-id="_anchor_360"></span>360  said: "I heard Abu Hurayrah saying: I was a
+Muslim), from Sufyan, from al Zuhri, Abd al-Rahman al-A'raj 360  said: "I heard Abu Hurayrah saying: I was a
 destitute man, who used to keep the company of the Messenger of Allah in
 return for filling my belly." In another narration by Muslim, he said: I
 used to serve the Messenger of Allah, and according to him also... for
@@ -156,11 +154,7 @@ all).
 Al-Tirmidhi and al-Hakim, through a reliable isnad (chain), reported
 that Abu Hurayrah said: No man has ever put on a sandal, or got on
 mounts, or trodden the earth, after the Messenger of Allah, better than
-Ja'far ibn Abi Talib. <span id="_anchor_361"></span>361
-
-  
-  
-  
+Ja'far ibn Abi Talib. 361
 
 358. See pp. 718, 719.
 

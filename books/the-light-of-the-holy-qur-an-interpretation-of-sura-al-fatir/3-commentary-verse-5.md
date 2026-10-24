@@ -70,7 +70,6 @@ Of course, the second meaning is more fitting with the next verse
 specially that, in the verses of the Qur’a-n, ‘deceit and pride’ has
 repeatedly been attributed to Satan.
 
-
 **Commentary : Verse 6.7**
 
 (6) إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوّاً اِنَّمَا
@@ -216,5 +215,4 @@ forgiveness, and then speaks of ‘great recompense’, for, in fact, at
 first forgiveness washes the spirit of the believers and then makes them
 ready to receive ‘a great recompense’. In literary terminology, the
 first is called ‘dissociation’ and the second is ‘ornamenting’.
-
 

@@ -4,23 +4,11 @@ Section 2: The Sufferings of the Guilty
 Surah As-Saffat – Verses 22-24
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ
-  </p>
-</blockquote>
+> احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ
 
-<blockquote dir="rtl">
-  <p>
-مِن دُونِ اللَّهِ فَاهْدُوهُمْ إِلَي صِرَاطِ الْجَحِيمِ
-  </p>
-</blockquote>
+> مِن دُونِ اللَّهِ فَاهْدُوهُمْ إِلَي صِرَاطِ الْجَحِيمِ
 
-<blockquote dir="rtl">
-  <p>
-وَقِفُوهُمْ اِنَّهُم مَّسْؤُولُونَ
-  </p>
-</blockquote>
+> وَقِفُوهُمْ اِنَّهُم مَّسْؤُولُونَ
 
 ***22. “(And Allah will command the angels:) ‘Gather you together those
 who were unjust and their mates and what they used to worship,”***  
@@ -129,23 +117,11 @@ bounties and merits that Allah has bestowed on man.
 Surah As-Saffat – Verses 25-27
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ لاَ تَنَاصَرُونَ
-  </p>
-</blockquote>
+> مَا لَكُمْ لاَ تَنَاصَرُونَ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ
-  </p>
-</blockquote>
+> بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَأَقْبَلَ بَعْضُهُمْ عَلَي بَعْضٍ يَتَسَآءَلُونَ
-  </p>
-</blockquote>
+> وَأَقْبَلَ بَعْضُهُمْ عَلَي بَعْضٍ يَتَسَآءَلُونَ
 
 ***25. “(They will be told:) ‘How now, that you help not one
 another?’”***  
@@ -201,17 +177,9 @@ other.”***
 Surah As-Saffat – Verse s 28-29
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ الْيَـمِينِ
-  </p>
-</blockquote>
+> قَالُوا إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ الْيَـمِينِ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا بَل لَمْ تَكُونُوا مُؤْمِنِينَ
-  </p>
-</blockquote>
+> قَالُوا بَل لَمْ تَكُونُوا مُؤْمِنِينَ
 
 ***28. “They will say: ‘Verily you used to come unto us, from the right
 side.”***  
@@ -277,18 +245,10 @@ yourselves, and send all your curses to yourselves.
 Surah As-Saffat – Verses 30-31
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لَنَا عَلَيْكُم مِن سُلْطَانٍ بَلْ كُنتُمْ قَوْماً
-طَاغِينَ
-  </p>
-</blockquote>
+> وَمَا كَانَ لَنَا عَلَيْكُم مِن سُلْطَانٍ بَلْ كُنتُمْ قَوْماً
+> طَاغِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَحَقَّ عَلَيْنَا قَوْلُ رَبّـِنَآ إِنَآ لَذَآئِقُونَ
-  </p>
-</blockquote>
+> فَحَقَّ عَلَيْنَا قَوْلُ رَبّـِنَآ إِنَآ لَذَآئِقُونَ
 
 ***30. “And there was not for us any authority over you. Nay! You were a
 rebellious people!”***  
@@ -331,17 +291,9 @@ the command of Allah), and we were both pervertible and perversive.
 Surah As-Saffat – Verses 32-33
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ
-  </p>
-</blockquote>
+> فَاَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ
-  </p>
-</blockquote>
+> فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ
 
 ***32. “So we misled you, for verily we were ourselves astray.”***  
 ***33. “So verily they (both) on that Day are sharers in the (Divine)
@@ -377,24 +329,12 @@ chastisement.”***
 Surah As-Saffat – Verses 34-36
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا كَذَلِكَ نَفْعَلُ بِالْمُـجْرِمِينَ
-  </p>
-</blockquote>
+> إِنَّا كَذَلِكَ نَفْعَلُ بِالْمُـجْرِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لآ اِلَهَ اِلاَّ اللَّهُ
-يَسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لآ اِلَهَ اِلاَّ اللَّهُ
+> يَسْتَكْبِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُونَ أَئِنَّا لَتَارِكُواْ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍ
-  </p>
-</blockquote>
+> وَيَقُولُونَ أَئِنَّا لَتَارِكُواْ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍ
 
 ***34. “Verily thus do We deal with the guilty.”***  
 ***35. “Verily they used to be proud when it was said to them: ‘There is
@@ -447,23 +387,11 @@ circumstances.
 Surah As-Saffat – Verses 37-39
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَلْ جَآءَ بِالْحَقّ‌ِ وَصَدَّقَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> بَلْ جَآءَ بِالْحَقّ‌ِ وَصَدَّقَ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكُمْ لَذَآئِقُواْ الْعَذَابِ الأَلِيمِ
-  </p>
-</blockquote>
+> إِنَّكُمْ لَذَآئِقُواْ الْعَذَابِ الأَلِيمِ
 
-<blockquote dir="rtl">
-  <p>
-ومَا تُجْزَوْنَ إِلاَّ مَا كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> ومَا تُجْزَوْنَ إِلاَّ مَا كُنتُمْ تَعْمَلُونَ
 
 ***37. “Nay: he has come with the Truth and verified the (former)
 messengers.”***  
@@ -503,35 +431,15 @@ deed of yours.
 Surah As-Saffat – Verses 40-44
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
 
-<blockquote dir="rtl">
-  <p>
-اُوْلَئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ
-  </p>
-</blockquote>
+> اُوْلَئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ
 
-<blockquote dir="rtl">
-  <p>
-فَوَاكِهُ وَهُم مُّكْرَمُونَ
-  </p>
-</blockquote>
+> فَوَاكِهُ وَهُم مُّكْرَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-فِي جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> فِي جَنَّاتِ النَّعِيمِ
 
-<blockquote dir="rtl">
-  <p>
-عَلَي سُرُرٍ مُّتَقَابِلِينَ
-  </p>
-</blockquote>
+> عَلَي سُرُرٍ مُّتَقَابِلِينَ
 
 ***40. “Save the servants of Allah, the purified ones,”***  
 ***41. “For them is a known sustenance,”***  
@@ -641,23 +549,11 @@ he Divine forgiveness and His eternal garden.
 Surah As-Saffat – Verses 45-47
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُطَافُ عَلَيْهِم بِكَأْسٍ مِن مَّعِينٍ
-  </p>
-</blockquote>
+> يُطَافُ عَلَيْهِم بِكَأْسٍ مِن مَّعِينٍ
 
-<blockquote dir="rtl">
-  <p>
-بَيْضَآءَ لَذَّةٍ لّـِلشَّارِبِينَ
-  </p>
-</blockquote>
+> بَيْضَآءَ لَذَّةٍ لّـِلشَّارِبِينَ
 
-<blockquote dir="rtl">
-  <p>
-لاَ فِيهَا غَوْلٌ وَلاَ هُمْ عَنْهَا يُنزَفُونَ
-  </p>
-</blockquote>
+> لاَ فِيهَا غَوْلٌ وَلاَ هُمْ عَنْهَا يُنزَفُونَ
 
 ***45. “Round will go unto them a cup (of wine) from a clear
 spring,”***  
@@ -743,17 +639,9 @@ qualities.
 Surah As-Saffat – Verses 48-49
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ
-  </p>
-</blockquote>
+> وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ
 
-<blockquote dir="rtl">
-  <p>
-كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
-  </p>
-</blockquote>
+> كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
 
 ***48. “And with them will be chaste women; restraining their
 glances,”***  
@@ -825,23 +713,11 @@ matters with a particular delicacy.
 Surah As-Saffat – Verses 50-52
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَقْبَلَ بَعْضُهُمْ عَلَي بَعْضٍ يَتَسَآءَلُونَ
-  </p>
-</blockquote>
+> فَاَقْبَلَ بَعْضُهُمْ عَلَي بَعْضٍ يَتَسَآءَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ قَآئِلٌ مّـِنْهُمْ إِنّـِي كَانَ لِي قَرِينٌ
-  </p>
-</blockquote>
+> قَالَ قَآئِلٌ مّـِنْهُمْ إِنّـِي كَانَ لِي قَرِينٌ
 
-<blockquote dir="rtl">
-  <p>
-يَقُولُ أَءِنَّكَ لَمِنَ الْمُصَدّ‌ِقِينَ
-  </p>
-</blockquote>
+> يَقُولُ أَءِنَّكَ لَمِنَ الْمُصَدّ‌ِقِينَ
 
 ***50. “Then shall some of them advance to others, questioning each
 other.”***  
@@ -891,11 +767,7 @@ Hereafter)?’”***
 Surah As-Saffat – Verse 53
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَءِذَا مِتْنَا وَكُنَّا تُرَاباً وَعِظَاماً أَءِنَّا لَمَدِينُونَ
-  </p>
-</blockquote>
+> أَءِذَا مِتْنَا وَكُنَّا تُرَاباً وَعِظَاماً أَءِنَّا لَمَدِينُونَ
 
 ***53. “When we die and have become dust and bones, shall we then in
 fact be brought in account?”***
@@ -914,17 +786,9 @@ in it.
 Surah As-Saffat – Verses 54-55
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هَلْ أَنتُم مُطَّلِعُون
-  </p>
-</blockquote>
+> قَالَ هَلْ أَنتُم مُطَّلِعُون
 
-<blockquote dir="rtl">
-  <p>
-فَاطَّلَعَ فَرَءَاهُ فِي سَوَآءِ الْجَحِيمِ
-  </p>
-</blockquote>
+> فَاطَّلَعَ فَرَءَاهُ فِي سَوَآءِ الْجَحِيمِ
 
 ***54. “He says: ‘Can you take a look?’”***  
 ***55. “Then he looks and sees him in the midst of Hell.”***
@@ -947,17 +811,9 @@ The verse says:
 Surah As-Saffat – Verses 56-57
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ تَاللَّهِ اِن كِدتَّ لَتُرْدِينِ
-  </p>
-</blockquote>
+> قَالَ تَاللَّهِ اِن كِدتَّ لَتُرْدِينِ
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلاَ نِعْمَةُ رَبّـِي لَكُنتُ مِنَ الْمُـحْضَرِينَ
-  </p>
-</blockquote>
+> وَلَوْلاَ نِعْمَةُ رَبّـِي لَكُنتُ مِنَ الْمُـحْضَرِينَ
 
 ***56. “He says: ‘By Allah! You had almost caused me to perish;”***  
 ***57. “And had it not been the bounty of my Lord, certainly would I
@@ -985,29 +841,13 @@ of Allah that came to me and guided me aright.
 Surah As-Saffat – Verses 58-61
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَمَا نَحْنُ بِمَيِّتِينَ
-  </p>
-</blockquote>
+> أَفَمَا نَحْنُ بِمَيِّتِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَوْتَتَنَا الأُولَي وَمَا نَحْنُ بِمُعَذَّبِينَ
-  </p>
-</blockquote>
+> إِلاَّ مَوْتَتَنَا الأُولَي وَمَا نَحْنُ بِمُعَذَّبِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَهُوَ الْفَوْزُ الْعَظِيمُ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَهُوَ الْفَوْزُ الْعَظِيمُ
 
-<blockquote dir="rtl">
-  <p>
-لِمِثْلِ هَذَا فَلْيَعْمَلِ الْعَامِلُونَ
-  </p>
-</blockquote>
+> لِمِثْلِ هَذَا فَلْيَعْمَلِ الْعَامِلُونَ
 
 ***58. “Is it that we do not die,”***  
 ***59. “Save our first death; and we shall not be chastised?”***  
@@ -1090,23 +930,11 @@ end of this discussion.
 Surah As-Saffat – Verses 62-64
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَذَلِكَ خَيْرٌ نُّزُلاً أَمْ شَجَرَةُ الزَّقُّومِ
-  </p>
-</blockquote>
+> أَذَلِكَ خَيْرٌ نُّزُلاً أَمْ شَجَرَةُ الزَّقُّومِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا جَعَلْنَاهَا فِتْنَةً لّـِلظَّالِمِينَ
-  </p>
-</blockquote>
+> إِنَّا جَعَلْنَاهَا فِتْنَةً لّـِلظَّالِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ
-  </p>
-</blockquote>
+> إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ
 
 ***62. “Is that the better entertainment or the Tree of Zaqqum?”***  
 ***63. “Verily We have appointed it as a trial for the unjust.”***  
@@ -1201,29 +1029,13 @@ mock and ridicule.
 Surah As-Saffat – Verses 65-68
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-طَلْعُهَا كَأَنَّهُ رُؤُوسُ الشَّيَاطِينِ
-  </p>
-</blockquote>
+> طَلْعُهَا كَأَنَّهُ رُؤُوسُ الشَّيَاطِينِ
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُمْ لأَكِلُونَ مِنْهَا فَمَالِؤُونَ مِنْهَا الْبُطُونَ
-  </p>
-</blockquote>
+> فَإِنَّهُمْ لأَكِلُونَ مِنْهَا فَمَالِؤُونَ مِنْهَا الْبُطُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ اِنَّ لَهُمْ عَلَيْهَا لَشَوْباً مِنْ حَمِيمٍ
-  </p>
-</blockquote>
+> ثُمَّ اِنَّ لَهُمْ عَلَيْهَا لَشَوْباً مِنْ حَمِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّ مَرْجِعَهُمْ لإِلَي الْجَحِيمِ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّ مَرْجِعَهُمْ لإِلَي الْجَحِيمِ
 
 ***65. “The shoots of its fruit-stalks are like the heads of
 devils,”***  
@@ -1314,17 +1126,9 @@ partly illustrated in our mind.
 Surah As-Saffat – Verses 69-70
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ أَلْفَوْا ءَابَآءَهُمْ ضَآلّـِينَ
-  </p>
-</blockquote>
+> إِنَّهُمْ أَلْفَوْا ءَابَآءَهُمْ ضَآلّـِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَهُمْ عَلَي ءَاثَارِهِمْ يُهْرَعُونَ
-  </p>
-</blockquote>
+> فَهُمْ عَلَي ءَاثَارِهِمْ يُهْرَعُونَ
 
 ***69. “Verily they found their fathers on the wrong path.”***  
 ***70. “So in their footsteps they are being hastened on.”***
@@ -1358,29 +1162,13 @@ ancestors’ superstitions.
 Surah As-Saffat – Verses 71-74
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الأَوَّلِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الأَوَّلِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَرْسَلْنَا فِيهِم مُنذِرِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَرْسَلْنَا فِيهِم مُنذِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَانظُرْ كَيفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ
-  </p>
-</blockquote>
+> فَانظُرْ كَيفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
-  </p>
-</blockquote>
+> إِلاَّ عِبَادَ اللَّهِ الْمُـخْلَصِينَ
 
 ***71. “And indeed most of the ancient went astray before them.”***  
 ***72. “And certainly We sent among them warners.”***  
@@ -1481,5 +1269,4 @@ you may refer to the worthy book entitled ‘’Ihqaq-ul-Haqq’, Vol. 3, P.
 [^2]: Tafsir-i-Rouh-ul-Bayan, Vol. 7, P. 464
 
 [^3]: Rauh-ul-Ma‘ani, Vol. 23, P. 85
-
 

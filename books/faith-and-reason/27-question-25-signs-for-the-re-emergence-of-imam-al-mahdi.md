@@ -205,4 +205,3 @@ included here.
 
 [^5]: Ibid., pg. 649
 
-

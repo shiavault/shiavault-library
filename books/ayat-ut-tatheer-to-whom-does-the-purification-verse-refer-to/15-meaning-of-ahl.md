@@ -49,4 +49,3 @@ claiming that the Ahlul-Bayt of a man refers only to his wives? Why the
 wrong deduction and speculation on what the Angels has said to Sarah,
 the wife of Abraham (AS)?
 
-

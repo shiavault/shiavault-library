@@ -147,4 +147,3 @@ For your cause, in your path, my son is now dead"
 
 Thus are the children of Allah's creed"
 
-

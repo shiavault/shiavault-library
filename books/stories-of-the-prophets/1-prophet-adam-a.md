@@ -139,4 +139,3 @@ So He sent them to live on earth.
 
 ![](/sites/default/files/part1c_1.gif)
 
-

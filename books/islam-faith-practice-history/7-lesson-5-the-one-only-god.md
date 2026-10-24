@@ -124,4 +124,3 @@ from your own observation.
  Describe in your own words the scientific evidence that points to the
 existence of only One God.
 
-

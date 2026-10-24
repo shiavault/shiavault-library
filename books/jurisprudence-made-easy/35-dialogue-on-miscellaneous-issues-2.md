@@ -287,4 +287,3 @@ outpouring of grief permissible?
 be.  
  Praise be to Allah, the Cherisher of the worlds.
 
-

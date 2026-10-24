@@ -27,11 +27,7 @@ evidence for this claim:
 
 1- Man is hidden under his tongue. [^1]
 
-<blockquote dir="rtl">
-  <p>
-«اَلْمَرْءُ مَخْبُوءٌ تَحْتَ لِسانِهِ».
-  </p>
-</blockquote>
+> «اَلْمَرْءُ مَخْبُوءٌ تَحْتَ لِسانِهِ».
 
 That is to say not only scientific personality, but also moral and
 social personality and in general his humanistic personality is under
@@ -42,12 +38,8 @@ concealed.
 and straightness of heart, and the latter too will not exist without
 firmness and straightness of tongue.[^2]
 
-<blockquote dir="rtl">
-  <p>
-«لا یَسْتَقِیمُ اِیمانُ عَبْد حَتّى یَسْتَقِیمَ قَلْبُهُ، وَ لا
-یَسْتَقِیمُ قَلْبُهُ حَتّى یَسْتَقِیمَ لِسانُهُ».
-  </p>
-</blockquote>
+> «لا یَسْتَقِیمُ اِیمانُ عَبْد حَتّى یَسْتَقِیمَ قَلْبُهُ، وَ لا
+> یَسْتَقِیمُ قَلْبُهُ حَتّى یَسْتَقِیمَ لِسانُهُ».
 
 Thirty great sins, which originate from tongue
 ----------------------------------------------
@@ -153,23 +145,15 @@ reason we read in the biography of Zachariah, God's great prophet, that
 three days of his silence and dumbness were put as the sign of
 fulfilment of his supplication concerning his request for a child:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا
-  </p>
-</blockquote>
+> قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا
 
 ***He said: Thy token is that thou, with no bodily defect, shalt not
 speak unto mankind three nights. (19:10)***
 
 And Mary was ordered to vow silence fast:
 
-<blockquote dir="rtl">
-  <p>
-فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ
-الْيَوْمَ إِنْسِيًّا
-  </p>
-</blockquote>
+> فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ
+> الْيَوْمَ إِنْسِيًّا
 
 ***Say: Lo! I have vowed a fast unto the Beneficent, and may not speak
 this day to any mortal. (19:26)***
@@ -183,33 +167,21 @@ We can summarize advantages of silence in following affairs:
 1- Silence insures man against a lot of sins. Prophet (S) says in his
 short and meaningful phrase:
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ صَمَتَ نَجا».
-  </p>
-</blockquote>
+> «مَنْ صَمَتَ نَجا».
 
 Whosoever mums is saved.[^3]
 
 The reason for this issue is clear, because most of the sins are
 performed by tongue. As Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-«اِنَّ اَکْثَرَ خَطایَا ابْنِ آدَمَ فِی لِسانِهِ».
-  </p>
-</blockquote>
+> «اِنَّ اَکْثَرَ خَطایَا ابْنِ آدَمَ فِی لِسانِهِ».
 
 Most of man's mistakes are in his tongue.[^4]
 
 And it is narrated from the Prophet in another tradition:
 
-<blockquote dir="rtl">
-  <p>
-«اُخْزُنْ لِسانَکَ اِلاّ مِنَ الْخَیْرِ فَاِنَّکَ بِذلِکَ تَغْلِبُ
-الشَّیْطانَ».
-  </p>
-</blockquote>
+> «اُخْزُنْ لِسانَکَ اِلاّ مِنَ الْخَیْرِ فَاِنَّکَ بِذلِکَ تَغْلِبُ
+> الشَّیْطانَ».
 
 Keep your tongue save a good utterance and thereby you will overcome
 Satan.[^5]
@@ -221,23 +193,15 @@ people are often frail and show less action.
 
 It is narrated in a tradition from Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اِذا رَأَیْتُمُ الْمُؤْمِنَ صَمُوتاً وَقُوراً فَادْنُوا مِنْهُ
-فَاِنَّهُ یُلْقِی الحِکْمَةَ».
-  </p>
-</blockquote>
+> «اِذا رَأَیْتُمُ الْمُؤْمِنَ صَمُوتاً وَقُوراً فَادْنُوا مِنْهُ
+> فَاِنَّهُ یُلْقِی الحِکْمَةَ».
 
 When you find a believer silent and courtly, contact with him that he
 teaches you wisdom.[^6]
 
 And also it is narrated from Imam Ali (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«اِذا تَمَّ الْعَقْلُ نَقَصَ الْکَلامُ».
-  </p>
-</blockquote>
+> «اِذا تَمَّ الْعَقْلُ نَقَصَ الْکَلامُ».
 
 As intelligence increases, speech decreases.[^7]
 
@@ -253,13 +217,9 @@ because it increases man's errors, decreases his shame, and breaking the
 barrier of shame as a result of excess of errors, it simplifies evil
 deeds for man as Imam Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«مَنْ کَثُرَ کَلامُهُ کَثُرَ خَطَأُهُ، وَ مَنْ کَثُرَ خَطَأُهُ قَلَّ
-حَیاؤُهُ وَ مَنْ قَلَّ حَیاؤُهُ قَلَّ وَرَعُهُ، وَ مَنْ قَلَّ وَرَعُهُ
-ماتَ قَلْبُهُ، وَ مَنْ ماتَ قَلْبُهُ دَخَلَ النّارَ».
-  </p>
-</blockquote>
+> «مَنْ کَثُرَ کَلامُهُ کَثُرَ خَطَأُهُ، وَ مَنْ کَثُرَ خَطَأُهُ قَلَّ
+> حَیاؤُهُ وَ مَنْ قَلَّ حَیاؤُهُ قَلَّ وَرَعُهُ، وَ مَنْ قَلَّ وَرَعُهُ
+> ماتَ قَلْبُهُ، وَ مَنْ ماتَ قَلْبُهُ دَخَلَ النّارَ».
 
 He, who speaks more, commits more errors. He, who commits more errors,
 becomes shameless. He, who is shameless, would have less fear of Allah.
@@ -269,11 +229,7 @@ enters Hell.[^8]
 And perhaps on this account, silence is considered as one of the
 important sorbs.
 
-<blockquote dir="rtl">
-  <p>
-«اَلْعِبادَةُ عَشَرَةُ اَجْزاء تِسْعَةٌ مِنْها فِی الصَّمْتِ».
-  </p>
-</blockquote>
+> «اَلْعِبادَةُ عَشَرَةُ اَجْزاء تِسْعَةٌ مِنْها فِی الصَّمْتِ».
 
 Worship has ten portions, nine of which exist in silence.[^9]
 
@@ -352,13 +308,9 @@ Prophet's House (A.S.):
 
 Imam As-Sadiq (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«لا تَنْظُرُوا اِلى طُولِ رُکُوعِ الرَّجُلِ وَ سُجُودِهِ فَاِنَّ ذلِکَ
-شَیْءٌ قَدِ اعْتادَهُ فَلَوْ تَرَکَهُ اسْتَوْحَشَ لِذلِکَ، وَلکِنِ
-انْظُرُوا اِلى صِدْقِ حَدِیثِهِ وَ اَداءِ اَمانَتِهِ».
-  </p>
-</blockquote>
+> «لا تَنْظُرُوا اِلى طُولِ رُکُوعِ الرَّجُلِ وَ سُجُودِهِ فَاِنَّ ذلِکَ
+> شَیْءٌ قَدِ اعْتادَهُ فَلَوْ تَرَکَهُ اسْتَوْحَشَ لِذلِکَ، وَلکِنِ
+> انْظُرُوا اِلى صِدْقِ حَدِیثِهِ وَ اَداءِ اَمانَتِهِ».
 
 Do not regard one's long bowing and prostration, because it may be their
 habit, and if they leave it, are disturbed. Rather, look at their
@@ -366,11 +318,7 @@ truthfulness and honesty. [^10]
 
 Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ
-  </p>
-</blockquote>
+> وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ
 
 ***And thou shalt know them by the burden of their talk.(47:30)***
 
@@ -416,24 +364,16 @@ Prophet's House (A.S.) in this regard, and then we will analyze it.
 
 Imam Ali (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«الصِّدْقُ یَهْدِی اِلَى الْبِرِّ وَ الْبِرُّ یَدْعُو اِلَى
-الْجَنَّةِ».
-  </p>
-</blockquote>
+> «الصِّدْقُ یَهْدِی اِلَى الْبِرِّ وَ الْبِرُّ یَدْعُو اِلَى
+> الْجَنَّةِ».
 
 Truthfulness guides people to goodness, and goodness invites to
 paradise.[^11]
 
 Imam As-Sadiq (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-«اِذا صَدَقَ الْعَبْدُ قالَ اللهُ: صَدَقَ و بَرَّ، وَ اِذا کَذِبَ قالَ
-اللهُ کَذَبَ وَ فَجَرَ».
-  </p>
-</blockquote>
+> «اِذا صَدَقَ الْعَبْدُ قالَ اللهُ: صَدَقَ و بَرَّ، وَ اِذا کَذِبَ قالَ
+> اللهُ کَذَبَ وَ فَجَرَ».
 
 When a God's servant says the truth, God says: he said the truth and
 performed a good deed, and when he lies, He says: he lied and performed
@@ -441,12 +381,8 @@ an evil deed.[^12]
 
 Imam Askari (A.S.) says:
 
-<blockquote dir="rtl">
-  <p>
-جُعِلَتِ الْخَبائِثُ کُلُّها فِی بَیْت وَ جُعِلَ مِفْتاحُها
-اَلْکَذِبُ».
-  </p>
-</blockquote>
+> جُعِلَتِ الْخَبائِثُ کُلُّها فِی بَیْت وَ جُعِلَ مِفْتاحُها
+> اَلْکَذِبُ».
 
 All vices are put in a room and its key is lie.[^13]
 
@@ -462,12 +398,8 @@ liar gradually proceeds to full hypocrisy.
 
 Holy Qur’an refers to this fact and says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُ
-بِمَا أَخْلَفُوا اللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكْذِبُونَ
-  </p>
-</blockquote>
+> فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُ
+> بِمَا أَخْلَفُوا اللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا يَكْذِبُونَ
 
 ***So He hath made the consequence (to be) hypocrisy in their hearts
 until the day when they shall meet Him, because they broke their word to
@@ -509,12 +441,8 @@ belief, and lying is the sign of a sort of disbelief.
 
 These traditions have been inspired by Holy Qur’an where it says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ
-اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْكَاذِبُونَ
-  </p>
-</blockquote>
+> إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ
+> اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْكَاذِبُونَ
 
 *** ***  
 ***Only they invent falsehood who believe not Allah's revelations, and
@@ -524,34 +452,22 @@ These traditions have been inspired by Holy Qur’an where it says:
 
 And now some of the narrations:
 
-<blockquote dir="rtl">
-  <p>
-«سُئِلَ رَسُولُ اللهِ(صلى الله علیه وآله) : یَکُونُ الْمُؤْمِنُ
-جَباناً؟ قالَ: نَعَمْ. قِیلَ: وَ یَکُونُ بَخِیلا؟ قالَ: نَعَمْ. قِیلَ:
-وَیَکُونُ کَذّاباً؟ قال: لا».
-  </p>
-</blockquote>
+> «سُئِلَ رَسُولُ اللهِ(صلى الله علیه وآله) : یَکُونُ الْمُؤْمِنُ
+> جَباناً؟ قالَ: نَعَمْ. قِیلَ: وَ یَکُونُ بَخِیلا؟ قالَ: نَعَمْ. قِیلَ:
+> وَیَکُونُ کَذّاباً؟ قال: لا».
 
 The Prophet (S) was asked: Is it possible for a believer to be coward?
 He answered: yes. It was asked: Is it possible for him to be stingy? He
 answered: yes. It was asked: Is it possible for him to be liar? He
-answered: no.[^14]
+answered: no.14
 
-<blockquote dir="rtl">
-  <p>
-«قالَ اَمِیرُ الْمُؤْمِنِینَ(علیه السلام): لا یَجِدُ عَبْدٌ طَعْمَ
-الاِْیمانِ حَتّى یَتْرُکَ الْکَذِبَ هَزْلَهُ وَجِدَّهُ».
-  </p>
-</blockquote>
+> «قالَ اَمِیرُ الْمُؤْمِنِینَ(علیه السلام): لا یَجِدُ عَبْدٌ طَعْمَ
+> الاِْیمانِ حَتّى یَتْرُکَ الْکَذِبَ هَزْلَهُ وَجِدَّهُ».
 
 Imam Ali (A.S.) said: A man does not taste the taste of belief, unless
 he refuses lie, either seriously or for humour.[^15]
 
-<blockquote dir="rtl">
-  <p>
-«عنه (علیه السلام): جانِبُوا الْکَذِبَ فَاِنَّهُ مُجانِبُ الاِْیمانِ».
-  </p>
-</blockquote>
+> «عنه (علیه السلام): جانِبُوا الْکَذِبَ فَاِنَّهُ مُجانِبُ الاِْیمانِ».
 
 Avoid lie, which is not in concord with belief.[^16]
 
@@ -611,12 +527,8 @@ their determination and will power in performing the works.
 
 We read in aphorisms of Imam Ali (A.S.):
 
-<blockquote dir="rtl">
-  <p>
-«اِیّاکَ وَ مُصادَقَةَ الْکَذّابِ فَاِنَّهُ کَالسَّرابِ! یُقَرِّبُ
-عَلَیْکَ الْبَعِیدَ وَ یُبَعِّدُ عَلَیْکَ الْقَرِیبَ».
-  </p>
-</blockquote>
+> «اِیّاکَ وَ مُصادَقَةَ الْکَذّابِ فَاِنَّهُ کَالسَّرابِ! یُقَرِّبُ
+> عَلَیْکَ الْبَعِیدَ وَ یُبَعِّدُ عَلَیْکَ الْقَرِیبَ».
 
 You should avoid making friend with a liar because he is like a mirage,
 making you feel remote things near and near things remote.[^17]
@@ -758,13 +670,9 @@ among the martyrs and prophets because in Qur’an the rank of truthful
 people is mentioned besides the rank of prophets and martyrs, where it
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ
-أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ
-وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا
-  </p>
-</blockquote>
+> وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ
+> أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ
+> وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا
 
 ***Whoso obeyeth Allah and the messenger, they are with those unto whom
 Allah hath shown favour, of the prophets and the saints and the martyrs
@@ -801,12 +709,8 @@ this vice.
 This is so critical that it is narrated from Imam Ali (A.S.) in Islamic
 educational instructions:
 
-<blockquote dir="rtl">
-  <p>
-«لا یَصْلُحُ الْکَذِبُ جِدٌّ وَ لا هَزْلٌ وَ لا اَنْ یَعِدَ اَحَدُکُمْ
-صَبِیَّهُ ثُمَّ لا یَفِی لَهُ».
-  </p>
-</blockquote>
+> «لا یَصْلُحُ الْکَذِبُ جِدٌّ وَ لا هَزْلٌ وَ لا اَنْ یَعِدَ اَحَدُکُمْ
+> صَبِیَّهُ ثُمَّ لا یَفِی لَهُ».
 
 Lying is not proper, either for joke or seriously, and also it is not
 proper that one of you give a promise to his child, and then do not
@@ -826,11 +730,7 @@ and "reconciliation among people".
 
 It is narrated in a tradition from the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-«اِحْلِفْ بِاللهِ کاذِباً وَ نَجِّ اَخاکَ مِنَ الْقَتْلِ».
-  </p>
-</blockquote>
+> «اِحْلِفْ بِاللهِ کاذِباً وَ نَجِّ اَخاکَ مِنَ الْقَتْلِ».
 
 Swear falsely and save your innocent brother from death.[^19]
 
@@ -869,12 +769,8 @@ In fact, moral mistakes are always around the exceptional cases and
 notes. These are the same ambiguous matters which are the "risk area"
 bounded by the "forbidden area":
 
-<blockquote dir="rtl">
-  <p>
-«مَحارِمُ اللهِ حِمَى اللهِ فَمَنْ یَرْتَعْ حَوْلَ الْحِمى یُوشَکُ
-اَنْ یَقَعَ فِیها».
-  </p>
-</blockquote>
+> «مَحارِمُ اللهِ حِمَى اللهِ فَمَنْ یَرْتَعْ حَوْلَ الْحِمى یُوشَکُ
+> اَنْ یَقَعَ فِیها».
 
 The forbidden degrees are divine forbidden areas; one who leads his
 animal near the forbidden boundaries, there is the risk of slumping in
@@ -982,5 +878,4 @@ lengthen his life", while he may not have such purpose.
 [^20]: Sadough, Faghih, vol. 4, page 75
 
 [^21]: Ghazali, Ehyaol Oloum, 139/3
-
 

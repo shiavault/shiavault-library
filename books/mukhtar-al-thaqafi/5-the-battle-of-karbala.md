@@ -40,4 +40,3 @@ Ubaidullah bin Ziyad's Army killed Imam Husayn. It beheaded the martyrs,
 tied their heads to the spears and burnt the tents. Then it took the
 women and children prisoners.
 
-

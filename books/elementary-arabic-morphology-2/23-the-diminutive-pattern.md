@@ -28,4 +28,3 @@ given a *fathah*
 followed by a *tā'* or an *alif*. For example: **زُهرَة** (flower)
 becomes **زُهَیرَة** (small flower).
 
-

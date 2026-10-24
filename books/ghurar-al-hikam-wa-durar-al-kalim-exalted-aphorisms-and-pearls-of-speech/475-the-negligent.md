@@ -25,14 +25,9 @@ death.
 [final] journey and does nor prepare for it.
 
 > 5ـ وَيْلٌ لِمَنْ غَلَبَتْ عَلَيْهِ الغَفْلَةُ فَنَسِيَ الرِّحْلَةَ
-<blockquote dir="rtl">
-  <p>
-ولَمْ يَسْتَعِدَّ.
-  </p>
-</blockquote>
+> ولَمْ يَسْتَعِدَّ.
 
 6. No deed is accepted from the negligent one.
 
 > 6ـ لاعَمَلَ لِغافِل.
-
 

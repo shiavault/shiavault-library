@@ -43,4 +43,3 @@ humble gift, will be accepted by the "Solomon of the Age"
 
 15th Sha'ban 1396
 
-

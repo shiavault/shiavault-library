@@ -40,4 +40,3 @@ It is for this reason that Islam has had recourse to symbols and
 intimations in expressing mystical truths, and has thus remained
 untouched by the misfortunes which have overtaken other religions.
 
-

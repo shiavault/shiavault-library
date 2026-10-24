@@ -125,4 +125,3 @@ disbelieved after they had believed; so away with the unjust people."
 
 *    (Do not just acquiesce - advice take)*
 
-

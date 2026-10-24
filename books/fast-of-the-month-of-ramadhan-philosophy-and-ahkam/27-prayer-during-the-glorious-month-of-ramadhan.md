@@ -122,4 +122,3 @@ Fatiha once and the Tawheed twenty times, his deeds will be sealed with
 mercy from Allah after he sends salutations unto the Prophet (S) and his
 progeny a hundred times.
 
-

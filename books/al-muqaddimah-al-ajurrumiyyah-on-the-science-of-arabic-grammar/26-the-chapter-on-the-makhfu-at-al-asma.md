@@ -80,8 +80,5 @@ As for that which is implied by means of مِنْ (of the type) it is like:
 
 **خاتم** حديدٍ                 (a ring made ofiron or aniron ring)
 
-<p dir="rtl">
 والحمد لله رب العالمين
-</p>
-
 

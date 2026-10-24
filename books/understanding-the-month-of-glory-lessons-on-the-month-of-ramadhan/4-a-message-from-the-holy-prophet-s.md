@@ -35,4 +35,3 @@ of his good deeds heavy . .. whoever recites in this month, only one
 ayat of the Holy Qur'an, he will be rewarded in a manner as if he had
 recited the entire Qur'an in other months.
 
-

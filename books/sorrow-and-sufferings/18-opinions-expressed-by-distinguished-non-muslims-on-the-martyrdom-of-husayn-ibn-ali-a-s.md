@@ -38,4 +38,3 @@ hands of the Omayyads. Under the blazing sun, on the parched land and
 against the stifling heat of Arabia, stood the immortal Husayn."  
  - Washington Irving
 
-

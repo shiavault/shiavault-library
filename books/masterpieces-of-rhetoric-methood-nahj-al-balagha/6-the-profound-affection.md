@@ -5,7 +5,6 @@ Ali realized that the logic of affection is higher than that of the
 law, that man’s kindness to man and other creatures is but the argument
 of life against death, and existence on non-existence.
 
-
 And Ali’s attitude towards woman has not been that one which some had
 depicted.
 
@@ -29,7 +28,6 @@ balances, and establishes its discoveries on foundations and bases.
 It has been mentioned that man in Ali Ibn Abi Talib’s doctrine is the
 ideal picture of the ideal cosmos. It is attributed to him this saying
 in which he addresses man:
-
 
 **You suppose yourself a tiny body**
 
@@ -256,5 +254,4 @@ questioned even About lands and beasts.”
 
 Thus, man’s kindness to man and all creatures is but the argument of
 life on death; rather it is a will of the will of just existence!
-
 

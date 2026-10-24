@@ -24,4 +24,3 @@ saying of Allah:
 Here, by "The two hands", are meant the two favours of this life and the
 life hereafter.
 
-

@@ -297,4 +297,3 @@ congregation. The translator.
 
 [^8]: Nahj al-Balaghah, letter 45.
 
-

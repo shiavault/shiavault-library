@@ -175,4 +175,3 @@ get ready for moving again. We are going to the city. The respected
 scholars and the faithful have received news of your arrival here and
 are waiting anxiously to meet you.
 
-

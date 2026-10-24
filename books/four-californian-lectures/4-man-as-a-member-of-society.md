@@ -14,4 +14,3 @@ Unless and until he maintains a balance between his desire and anger, he
 cannot do justice to others.  
   
 
-

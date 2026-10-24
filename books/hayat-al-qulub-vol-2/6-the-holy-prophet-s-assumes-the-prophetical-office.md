@@ -100,13 +100,9 @@ the right and then to me. Sweat was dripping from his holy face. I said:
 replied: “Have you seen it now?” “Yes, O Messenger of Allah (S).” The
 Prophet said: “Jibraeel had come with the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
-الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي
+> الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ.
 
 ***“Surely Allah enjoins the doing of justice and the doing of good (to
 others) and the giving to the kindred, and He forbids indecency and evil
@@ -229,12 +225,8 @@ Eminence. Jibraeel came down encompassing the earth and the sky and
 holding the arm of the Prophet said: “O Muhammad, read.” He asked: “What
 should I read?”
 
-<blockquote dir="rtl">
-  <p>
-اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ. خَلَقَ الْإِنْسَانَ مِنْ
-عَلَقٍ.
-  </p>
-</blockquote>
+> اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ. خَلَقَ الْإِنْسَانَ مِنْ
+> عَلَقٍ.
 
 ***“Read in the name of your Lord Who created. He created man from a
 clot.”***[^2]
@@ -262,11 +254,7 @@ Prophet.” She then repeated the creed and professed the faith. He then
 said to her, “I am cold, cover me with another garment,” and laying down
 he received a divine communication:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الْمُدَّثِّرُ. قُمْ فَأَنْذِرْ. وَرَبَّكَ فَكَبِّرْ.
-  </p>
-</blockquote>
+> يَا أَيُّهَا الْمُدَّثِّرُ. قُمْ فَأَنْذِرْ. وَرَبَّكَ فَكَبِّرْ.
 
 ***“O you who are clothed! Arise and warn, and your Lord do
 magnify.”***[^3]
@@ -344,12 +332,8 @@ divine matter, no harm will come to him.” Lady Khadija returned from
 there to find the Holy Prophet (S) seated and Jibraeel was reciting the
 following verses to him:
 
-<blockquote dir="rtl">
-  <p>
-ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ. مَا أَنْتَ بِنِعْمَةِ رَبِّكَ
-بِمَجْنُونٍ.
-  </p>
-</blockquote>
+> ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ. مَا أَنْتَ بِنِعْمَةِ رَبِّكَ
+> بِمَجْنُونٍ.
 
 ***“Noon. I swear by the pen and what the angels write, By the grace of
 your Lord you are not mad.”***[^4]
@@ -372,11 +356,7 @@ Shaykh Tabarsi, Ibn Tawus, Ibn Shahr Ashob and all Shia and Sunni
 scholars have narrated through multiple channels that after the
 communication of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
-  </p>
-</blockquote>
+> وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
 
 ***“And warn your nearest relations…”***[^5]
 
@@ -466,11 +446,7 @@ for five years remained concealed and was fearful of the idolaters of
 Quraish. Except for Ali Ibn Abi Talib (a.s.) and Lady Khadija no one
 supported him, till the Almighty Allah revealed the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
 
 ***“Therefore declare openly what you are bidden and turn aside from the
 polytheists.”***[^6]
@@ -490,11 +466,7 @@ you, and you be kings in Paradise. The Quraish derided this message, and
 Abu Lahab said, “Destruction to you! Was it for this you invited us to a
 feast?” At that juncture, the following Surah was revealed:
 
-<blockquote dir="rtl">
-  <p>
-تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
-  </p>
-</blockquote>
+> تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
 
 ***“Perdition overtake both hands of Abu Lahab, and he will
 perish.”***[^7]
@@ -535,13 +507,9 @@ Muhammad Baqir (a.s.) that when idolaters passed the Prophet, they used
 to hide their faces behind their garments lest he sees them. At that
 juncture, the following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-أَلَا إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ ۚ أَلَا
-حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا
-يُعْلِنُونَ
-  </p>
-</blockquote>
+> أَلَا إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ ۚ أَلَا
+> حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا
+> يُعْلِنُونَ
 
 ***“Now surely they fold up their breasts that they may conceal (their
 enmity) from Him; now surely, when they use their garments as a
@@ -553,11 +521,7 @@ with a group of Quraish: “Your nephew has harassed us and our gods. Tell
 him not to talk ill of them.” His Eminence, Abu Talib called the
 Messenger of Allah (S) and when he arrived he saw the infidels and said:
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّلَامُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى
-  </p>
-</blockquote>
+> وَالسَّلَامُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى
 
 ***“…and peace is on him who follows the guidance…”***[^9]
 
@@ -587,12 +551,8 @@ Him.” “Abu Jahl in this told the truth,” remarks Imam Ja’far Sadiq
 (a.s.), “although that cursed one was a notorious liar.” Then the
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْآنِ وَحْدَهُ وَلَّوْا عَلٰى
-أَدْبَارِهِمْ نُفُورًا.
-  </p>
-</blockquote>
+> وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْآنِ وَحْدَهُ وَلَّوْا عَلٰى
+> أَدْبَارِهِمْ نُفُورًا.
 
 ***“…and when you mention your Lord alone in the Qur’an they turn their
 backs in aversion.”***[^10]
@@ -684,22 +644,14 @@ falsified the Messenger of Allah (S), the Almighty Allah wanted to
 destroy all the people of the world except Amirul Momineen (a.s.). He
 revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-فَتَوَلَّ عَنْهُمْ فَمَا أَنتَ بِمَلُومٍ
-  </p>
-</blockquote>
+> فَتَوَلَّ عَنْهُمْ فَمَا أَنتَ بِمَلُومٍ
 
 ***“Then turn your back upon them for you are not to blame.”***[^11]
 
 After that the Almighty Allah had mercy on the believers and addressed
 the Prophet as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنفَعُ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنفَعُ الْمُؤْمِنِينَ
 
 ***“And continue to remind, for surely the reminder profits the
 believers.”***[^12]
@@ -724,12 +676,8 @@ claiming prophethood and that there should be a prophet among them and
 none in Bani Makhzum. Then he prayed for divine forgiveness. The
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ ۚ وَمَا كَانَ
-اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ.
-  </p>
-</blockquote>
+> وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ ۚ وَمَا كَانَ
+> اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ.
 
 ***“But Allah was not going to chastise them while you were among them,
 nor is Allah going to chastise them while yet they ask for
@@ -738,13 +686,9 @@ forgiveness.”***[^13]
 When they began to harass the Prophet and forced him to leave Mecca, the
 following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ اللَّهُ وَهُمْ يَصُدُّونَ عَنِ
-الْمَسْجِدِ الْحَرَامِ وَمَا كَانُوا أَوْلِيَاءَهُ ۚ إِنْ
-أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُونَ
-  </p>
-</blockquote>
+> وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ اللَّهُ وَهُمْ يَصُدُّونَ عَنِ
+> الْمَسْجِدِ الْحَرَامِ وَمَا كَانُوا أَوْلِيَاءَهُ ۚ إِنْ
+> أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُونَ
 
 ***“And what (excuse) have they that Allah should not chastise them
 while they hinder (men) from the Sacred Mosque and they are not (fit to
@@ -962,13 +906,9 @@ reason: that one account relates to one ascension and another statement
 to certain other ascension.  
  Of the verses relating to the Meraj, this is the following:
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ الَّذِي أَسْرٰى بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
-الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
-لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-  </p>
-</blockquote>
+> سُبْحَانَ الَّذِي أَسْرٰى بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ
+> الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ
+> لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
 
 ***“Glory be to Him Who made His servant to go on a night from the
 Sacred Mosque to the remote mosque of which We have blessed the
@@ -996,11 +936,7 @@ replied, “The remote Masjid mentioned by Allah is in the heavens and the
 Kufa Masjid is better than the one in Shaam.[^16]  
  In another instance the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَالنَّجْمِ إِذَا هَوٰى
-  </p>
-</blockquote>
+> وَالنَّجْمِ إِذَا هَوٰى
 
 ***“I swear by the star when it goes down.”***[^17]
 
@@ -1008,11 +944,7 @@ It is narrated from Imam Ja’far Sadiq (a.s.) that ‘Najm’ denotes the
 Messenger of Allah (S) and the above statement means:  
  “By the star when he went for Meraj or came down from it.”
 
-<blockquote dir="rtl">
-  <p>
-مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوٰى
-  </p>
-</blockquote>
+> مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوٰى
 
 ***“Your companion does not err, nor does he go astray…”***[^18]
 
@@ -1020,51 +952,31 @@ It is mentioned in many traditional reports that it implies that
 Muhammad (S) has not erred about the Caliphate of Ali (a.s.) and neither
 does he lie about it. Whatever you mentioned in his excellence is:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَنْطِقُ عَنِ الْهَوٰى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحٰى
-  </p>
-</blockquote>
+> وَمَا يَنْطِقُ عَنِ الْهَوٰى. إِنْ هُوَ إِلَّا وَحْيٌ يُوحٰى
 
 ***“Nor does he speak out of desire. It is naught but revelation that is
 revealed…”***[^19]
 
-<blockquote dir="rtl">
-  <p>
-عَلَّمَهُ شَدِيدُ الْقُوٰى
-  </p>
-</blockquote>
+> عَلَّمَهُ شَدِيدُ الْقُوٰى
 
 ***“The Lord of Mighty Power has taught him…”***[^20]
 
 That is Jibraeel has told him about it.
 
-<blockquote dir="rtl">
-  <p>
-ذُو مِرَّةٍ فَاسْتَوٰى
-  </p>
-</blockquote>
+> ذُو مِرَّةٍ فَاسْتَوٰى
 
 ***“The Lord of Strength; so he attained completion…”***[^21]
 
 That is, he stood for two nights in the form created by the Almighty
 Allah with absolute greatness and majesty.
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ بِالْأُفُقِ الْأَعْلَى
-  </p>
-</blockquote>
+> وَهُوَ بِالْأُفُقِ الْأَعْلَى
 
 ***“And he is in the highest part of the horizon.”***[^22]
 
 …when the Messenger of Allah (S) saw him in his form.
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَنَا فَتَدَلَّى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
-  </p>
-</blockquote>
+> ثُمَّ دَنَا فَتَدَلَّى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
 
 ***“Then he drew near, then he bowed. So he was the measure of two bows
 or closer still.”***[^23]
@@ -1081,11 +993,7 @@ that the Holy Prophet (S) reached to the spot from where divine
 revelations descend and at that place, the ears of the Prophet were less
 then a bow length from it.
 
-<blockquote dir="rtl">
-  <p>
-فَأَوْحَى إِلَى عَبْدِهِ مَا أَوْحٰى
-  </p>
-</blockquote>
+> فَأَوْحَى إِلَى عَبْدِهِ مَا أَوْحٰى
 
 ***“And He revealed to His servant what He revealed.”***[^24]
 
@@ -1093,11 +1001,7 @@ It is mentioned in many reliable traditions that the Almighty Allah
 revealed about the Imamate, exalted status and glory of Amirul Momineen
 (a.s.).
 
-<blockquote dir="rtl">
-  <p>
-مَا كَذَبَ الْفُؤَادُ مَا رَأٰى
-  </p>
-</blockquote>
+> مَا كَذَبَ الْفُؤَادُ مَا رَأٰى
 
 ***“The heart was not untrue in (making him see) what he saw.”***[^25]
 
@@ -1105,22 +1009,14 @@ Thus whatever extraordinary things that the Prophet witnessed were not
 denied by his heart. He accepted everything with the radiance of
 certainty.
 
-<blockquote dir="rtl">
-  <p>
-أَفَتُمَارُونَهُ عَلَى مَا يَرٰى
-  </p>
-</blockquote>
+> أَفَتُمَارُونَهُ عَلَى مَا يَرٰى
 
 ***“What! do you then dispute with him as to what he saw?”***[^26]
 
 O people, do you doubt about that which Muhammad (S) saw on the night of
 Meraj?
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ رَآهُ نَزْلَةً أُخْرٰى. عِنْدَ سِدْرَةِ الْمُنْتَهٰى.
-  </p>
-</blockquote>
+> وَلَقَدْ رَآهُ نَزْلَةً أُخْرٰى. عِنْدَ سِدْرَةِ الْمُنْتَهٰى.
 
 ***“And certainly he saw him in another descent, at the farthest
 lote-tree…”***[^27]
@@ -1130,21 +1026,13 @@ Sidratul Muntaha. That tree is located at the seventh heaven which is
 the last point of the flight of the angels and the deeds of human
 beings.
 
-<blockquote dir="rtl">
-  <p>
-عِندَهَا جَنَّةُ الْمَأْوٰى
-  </p>
-</blockquote>
+> عِندَهَا جَنَّةُ الْمَأْوٰى
 
 ***“Near which is the garden, the place to be resorted to.”***[^28]
 
 And near is the Paradise that is the abode of the pious.
 
-<blockquote dir="rtl">
-  <p>
-إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى
-  </p>
-</blockquote>
+> إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى
 
 ***“When that which covers covered the lote-tree…”***[^29]
 
@@ -1154,11 +1042,7 @@ of the worlds.
  It is narrated that an angel stood at each leaf of the Sidratul Muntaha
 praising the Lord.
 
-<blockquote dir="rtl">
-  <p>
-مَا زَاغَ الْبَصَرُ وَمَا طَغٰى
-  </p>
-</blockquote>
+> مَا زَاغَ الْبَصَرُ وَمَا طَغٰى
 
 ***“The eye did not turn aside, nor did it exceed the limit.”***[^30]
 
@@ -1169,11 +1053,7 @@ attentive to anything except the Almighty Allah. He heard whatever he
 was told with absolute concentration and saw what he was shown without
 doubting anything.
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرٰى
-  </p>
-</blockquote>
+> لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرٰى
 
 ***“Certainly he saw of the greatest signs of his Lord.”***[^31]
 
@@ -1265,11 +1145,7 @@ There I saw Ismail, the angelic regent of that place, and lord of the
 meteors with which every Satan is repelled from the celestial mansions
 as the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ.
-  </p>
-</blockquote>
+> إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ.
 
 ***“Except him who snatches off but once, then there follows him a
 brightly shining flame.”***[^33]
@@ -1311,11 +1187,7 @@ Suddenly I saw this his sons were brought to him. They used to say that
 they are nice flowers and they are fragrant breeze that has ensued from
 a better body. His Eminence, recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ.
-  </p>
-</blockquote>
+> كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ.
 
 ***“Nay! Most surely the record of the righteous shall be in the
 Iliyin.”***[^34]
@@ -1378,12 +1250,8 @@ Next I saw a company into whose mouths angels were pouring fire, which
 passed the natural way through their bodies. They had unrighteously
 devoured the property of orphans, and it is declared in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا
-يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا
+> يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا.
 
 ***“(As for) those who swallow the property of the orphans unjustly,
 surely they only swallow fire into their bellies and they shall enter
@@ -1438,11 +1306,7 @@ way. On ascending the fourth heaven, I met a man who, Jibraeel informed
 me, was Idris whom God transported on high, according to a declaration
 in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَرَفَعْنَاهُ مَكَانًا عَلِيًّا
-  </p>
-</blockquote>
+> وَرَفَعْنَاهُ مَكَانًا عَلِيًّا
 
 ***“And We raised him high in Heaven.”***[^36]
 
@@ -1476,12 +1340,8 @@ divine presence, at the door of Baitul Mamoor? “This” replied Jibraeel,
 is your father, “Ibrahim, and this is the region for the pure of your
 community.” In relating this, the Prophet here recited the verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهٰذَا
-النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ.
-  </p>
-</blockquote>
+> إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهٰذَا
+> النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ.
 
 ***“Most surely the nearest of people to Ibrahim are those who followed
 him and this Prophet and those who believe and Allah is the guardian of
@@ -1545,11 +1405,7 @@ years, and its branches extended to every house in that blissful abode.
 “What tree is this?” I inquired. Jibraeel replied, “This is Tuba,
 concerning which Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبٰى لَهُمْ وَحُسْنُ مَآبٍ
-  </p>
-</blockquote>
+> طُوبٰى لَهُمْ وَحُسْنُ مَآبٍ
 
 ***“Tuba shall be theirs and a goodly return.”***[^38]  
  The Messenger of Allah (S) says: After entering Paradise, my fear was
@@ -1559,30 +1415,18 @@ the empyrean or it would burn everything under it.” I passed on to
 Sidratul Muntaha, every leaf of which could shade a great community.
 From this point, I advanced within a bow’s length, or nearer:
 
-<blockquote dir="rtl">
-  <p>
-قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
-  </p>
-</blockquote>
+> قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
 
 ***“So he was the measure of two bows or closer still.”***[^39]  
  …the divine presence of my Lord, Who addressed me, saying:
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهٖ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهٖ
 
 ***“The apostle believed what was sent him from his Lord.”*** [^40]  
  I answered:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ
-وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهٖ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ
+> وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهٖ
 
 ***“…and (so do) the believers; they all believe in Allah and His angels
 and His books and His apostles; We make no difference between any of His
@@ -1590,12 +1434,8 @@ apostles…”***[^41]
 
 I then added:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ
-الْمَصِيرُ.
-  </p>
-</blockquote>
+> وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ
+> الْمَصِيرُ.
 
 ***“and they say: We hear and obey, our Lord! Thy forgiveness (do we
 crave), and to Thee is the eventual course.”***  
@@ -1614,36 +1454,24 @@ crave), and to Thee is the eventual course.”***
 ability; for it is (the benefit of) what it has earned and upon it (the
 evil of) what it has wrought:”***[^43]
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا 
-  </p>
-</blockquote>
+> رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا
 
 ***“Our Lord! Do not punish us if we forget or make a mistake…”***[^44]
 
 So the Almighty Allah said that He would not account us of mistakes.
 Then I said:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى
-الَّذِينَ مِنْ قَبْلِنَا 
-  </p>
-</blockquote>
+> رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى
+> الَّذِينَ مِنْ قَبْلِنَا
 
 ***“Our Lord! do not lay on us a burden as You didst lay on those before
 us…”***[^45]
 
 The Lord accepted that also. Then I said:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ
-عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا
-عَلَى الْقَوْمِ الْكَافِرِينَ.
-  </p>
-</blockquote>
+> رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ
+> عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا
+> عَلَى الْقَوْمِ الْكَافِرِينَ.
 
 ***“Our Lord do not impose upon us that which we have not the strength
 to bear; and pardon us and grant us protection and have mercy on us, You
@@ -1746,11 +1574,7 @@ should still enjoy the benefit of fifty prayers, which benefit they
 would have lost had the prayers been reduced to a lesser number, for the
 Almighty Allah declares:
 
-<blockquote dir="rtl">
-  <p>
-مَن جَاء بِالْحَسَنَةِ فَلَهٗ عَشْرُ أَمْثَالِهَا
-  </p>
-</blockquote>
+> مَن جَاء بِالْحَسَنَةِ فَلَهٗ عَشْرُ أَمْثَالِهَا
 
 ***“Whoever brings a good deed, he shall have ten like it…”***[^47]
 
@@ -1768,11 +1592,7 @@ heavens,” answered the Imam, “and to unfold to his view the marvels of
 His works and the mysteries of His creation.” “What then,” continued the
 inquirer, “is the meaning of the passage which says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَنَا فَتَدَلّٰى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
-  </p>
-</blockquote>
+> ثُمَّ دَنَا فَتَدَلّٰى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
 
 ***“Then he drew near, then he bowed. So he was the measure of two bows
 or closer still.”***[^48]
@@ -2201,23 +2021,15 @@ Only He is safety and the safety is from Him and safety turns back to
 Him only. Another voice same: O Ahmad! I said: Here I am my Lord and
 master. I was told:
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهٖ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهٖ
 
 ***“The apostle believes in what has been revealed to him from his
 Lord…”***[^49]
 
 I said to the divine inspiration:
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ
-وَرُسُلِهِ ...غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ .
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ
+> وَرُسُلِهِ ...غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ .
 
 ***“…and (so do) the believers; they all believe in Allah and His angels
 and His books and His apostles…Thy forgiveness (do we crave), and to
@@ -2225,12 +2037,8 @@ Thee is the eventual course.”*** [^50]
 
 The Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ
-وَعَلَيْهَا مَا اكْتَسَبَتْ 
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ
+> وَعَلَيْهَا مَا اكْتَسَبَتْ
 
 ***“Allah does not impose upon any soul a duty but to the extent of its
 ability; for it is (the benefit of) what it has earned and upon it (the
@@ -2238,15 +2046,11 @@ evil of) what it has wrought…”***[^51]
 
 I said:
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا
-وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ
-قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ
-وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا
-فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ.
-  </p>
-</blockquote>
+> رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا
+> وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ
+> قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ
+> وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا
+> فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ.
 
 ***“Our Lord! do not punish us if we forget or make a mistake; Our Lord!
 do not lay on us a burden as Thou didst lay on those before us, Our Lord
@@ -2339,12 +2143,8 @@ Muhammad?” “Five hundred years, and according to your statement, it was
 300 years.” He said: “Please explain the following statement of the
 Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا
-مِنْ دُونِ الرَّحْمٰنِ آلِهَةً يُعْبَدُونَ.
-  </p>
-</blockquote>
+> وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا
+> مِنْ دُونِ الرَّحْمٰنِ آلِهَةً يُعْبَدُونَ.
 
 ***“And ask those of Our apostles whom We sent before you: Did We ever
 appoint gods to be worshipped besides the Beneficent God?”***[^54]
@@ -2387,11 +2187,7 @@ look at it and reply to them. Till he told them everything, but except
 for a few no one believed in him. So the Almighty Allah revealed the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا تُغْنِي الْآيَاتُ وَالنُّذُرُ عَنْ قَوْمٍ لَا يُؤْمِنُونَ.
-  </p>
-</blockquote>
+> وَمَا تُغْنِي الْآيَاتُ وَالنُّذُرُ عَنْ قَوْمٍ لَا يُؤْمِنُونَ.
 
 ***“…and signs and warners do not avail a people who would not
 believe.”***[^55]
@@ -2638,11 +2434,7 @@ as the Almighty Allah boasts to His angels about you.”
 Messenger of Allah (S) was taken to the heavens, Jibraeel took him to a
 river of light as mentioned in Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ
-  </p>
-</blockquote>
+> وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ
 
 ***“…and made the darkness and the light…”***[^56]
 
@@ -2971,11 +2763,7 @@ Judgment Day.
 Through reliable chains of narrators, it is narrated that Habib
 Naqshbani asked about the interpretation of the following verses:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَنَا فَتَدَلَّى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
-  </p>
-</blockquote>
+> ثُمَّ دَنَا فَتَدَلَّى فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنٰى
 
 ***“Then he drew near, then he bowed. So he was the measure of two bows
 or closer still.”***[^57]
@@ -3016,11 +2804,7 @@ which he saw. And he heard the discourses of his Lord, that he heard.
 When he returned to Sidratul Muntaha, he saw Jibraeel again as the
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ رَآهُ نَزْلَةً أُخْرٰى. عِنْدَ سِدْرَةِ الْمُنْتَهٰى
-  </p>
-</blockquote>
+> وَلَقَدْ رَآهُ نَزْلَةً أُخْرٰى. عِنْدَ سِدْرَةِ الْمُنْتَهٰى
 
 ***“And certainly he saw him in another descent. At the farthest
 lote-tree…”***[^58]
@@ -3109,11 +2893,7 @@ People asked the Imam what Saad is? He replied: It is a spring that
 flows from a pillar of Divine Throne which is also called as the ‘nectar
 of life’ as the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-ص وَالْقُرْآنِ ذِي الذِّكْرِ
-  </p>
-</blockquote>
+> ص وَالْقُرْآنِ ذِي الذِّكْرِ
 
 ***“Suad, I swear by the Qur’an, full of admonition.”***[^59]
 
@@ -3401,11 +3181,7 @@ sweeter than honey and more fragrant than musk. Then Jibraeel came to me
 and I asked him about it. He said: “This is Kauthar, which the Almighty
 Allah has presented to you as He says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
-  </p>
-</blockquote>
+> إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
 
 ***“Surely We have given you Kauthar.”***[^60]
 
@@ -3452,11 +3228,7 @@ It is narrated through reliable chains from Imam Ja’far Sadiq (a.s.)
 that one day a person came to Imam Ali (a.s.) in Kufa Masjid and
 inquired about the interpretation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْأَلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَا
-  </p>
-</blockquote>
+> وَاسْأَلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَا
 
 ***“And ask those of Our apostles whom We sent before you…”***[^61]
 
@@ -3505,12 +3277,8 @@ regain my consciousness and my fear may be dispelled, and I closed my
 eyes by the Taufeeq of Allah and I opened the eyes of my heart and saw
 the celestial and the earthly world as the Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-مَا زَاغَ الْبَصَرُ وَمَا طَغٰى. لَقَدْ رَأٰى مِنْ آيَاتِ رَبِّهِ
-الْكُبْرٰى.
-  </p>
-</blockquote>
+> مَا زَاغَ الْبَصَرُ وَمَا طَغٰى. لَقَدْ رَأٰى مِنْ آيَاتِ رَبِّهِ
+> الْكُبْرٰى.
 
 ***“The eye did not turn aside, nor did it exceed the limit. Certainly
 he saw of the greatest signs of his Lord.”***[^62]
@@ -3705,11 +3473,7 @@ seen on earth, with a vast variety never found there. The place of fruit
 plucked from this tree, is immediately supplied by fresh fruit. As the
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
-  </p>
-</blockquote>
+> لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
 
 ***“Neither intercepted nor forbidden…”***[^63]
 
@@ -3878,12 +3642,8 @@ any communications which your Prophet has received from God?” Ja’far
 replied in the affirmative, and began to recite Surah Maryam, and when
 he came to the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا
-جَنِيًّا. فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا
-  </p>
-</blockquote>
+> وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا
+> جَنِيًّا. فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا
 
 ***“And shake towards you the trunk of the palm tree, it will drop on
 you fresh ripe dates: So eat and drink and refresh the eye.”***[^65]
@@ -3957,20 +3717,16 @@ ascertain in what manner he spoke, ate, drank, sat, prayed, and other
 particulars of his habits and customs. When they reached Medina, the
 Holy Prophet (S) invited them to Islam and recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي
-عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ
-تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ
-الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ
-تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ
-فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ
-وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتٰى بِإِذْنِي ۖ
-وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ
-بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هٰذَا إِلَّا
-سِحْرٌ مُبِينٌ.
-  </p>
-</blockquote>
+> إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي
+> عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ
+> تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ
+> الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ
+> تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ
+> فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ
+> وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتٰى بِإِذْنِي ۖ
+> وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ
+> بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هٰذَا إِلَّا
+> سِحْرٌ مُبِينٌ.
 
 ***“When Allah will say: O Isa son of Maryam! Remember My favor on you
 and on your mother, when I strengthened you with the holy Spirit, you
@@ -3992,17 +3748,13 @@ through fear they would kill him. He left his kingdom with the intention
 of attending on the Prophet, but after his embarkation, died. On this
 event, the Almighty Allah revealed this verse:
 
-<blockquote dir="rtl">
-  <p>
-لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ
-وَالَّذِينَ أَشْرَكُوا ۖ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً
-لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارٰى ۚ ذٰلِكَ بِأَنَّ
-مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا
-يَسْتَكْبِرُونَ.وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرٰى
-أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ ۖ
-يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ.
-  </p>
-</blockquote>
+> لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ
+> وَالَّذِينَ أَشْرَكُوا ۖ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً
+> لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارٰى ۚ ذٰلِكَ بِأَنَّ
+> مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا
+> يَسْتَكْبِرُونَ.وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرٰى
+> أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ ۖ
+> يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ.
 
 ***“Certainly you will find the most violent of people in enmity for
 those who believe (to be) the Jews and those who are polytheists, and
@@ -4121,14 +3873,10 @@ the funeral prayer of Najjashi, the hypocrites commented: He is reciting
 the funeral prayer of a Christian of Habasha whom he has never seen. At
 that juncture, the following verse was revealed in their refutation:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَنْ يُؤْمِنُ بِاللَّهِ وَمَا
-أُنْزِلَ إِلَيْكُمْ وَمَا أُنْزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ لَا
-يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا ۗأُولٰئِكَ لَهُمْ
-أَجْرُهُمْ عِنْدَ رَبِّهِمْ ۗ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ.
-  </p>
-</blockquote>
+> وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَنْ يُؤْمِنُ بِاللَّهِ وَمَا
+> أُنْزِلَ إِلَيْكُمْ وَمَا أُنْزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ لَا
+> يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا ۗأُولٰئِكَ لَهُمْ
+> أَجْرُهُمْ عِنْدَ رَبِّهِمْ ۗ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ.
 
 ***“And most surely of the followers of the Book there are those who
 believe in Allah and (in) that which has been revealed to you and (in)
@@ -4858,13 +4606,9 @@ was, this plan was agreed on, and the council broke up. Of the Bani
 Hashim, Abu Lahab was brought into this plot. The Almighty Allah then
 revealed this verse, warning the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ
-أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ
-الْمَاكِرِينَ
-  </p>
-</blockquote>
+> وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ
+> أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ
+> الْمَاكِرِينَ
 
 ***“And when those who disbelieved devised plans against you that they
 might confine you or slay you or drive you away; and they devised plans
@@ -4875,11 +4619,7 @@ Having made the arrangement to rush into the Prophet’s house at night
 and kill him, they came to the sacred Masjid, and whistled and clapped
 their hands and jumped about the Kaaba. As the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً 
-  </p>
-</blockquote>
+> وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً
 
 ***“And their prayer before the House is nothing but whistling and
 clapping of hands…”***[^75]
@@ -4928,12 +4668,8 @@ Saying this, the Prophet embraced Ali, with flowing tears both parted,
 and Jibraeel led the Prophet out of the house which the Quraish had
 already surrounded. The Prophet recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا
-فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا
+> فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ
 
 ***“And We have made before them a barrier and a barrier behind them,
 then We have covered them over so that they do not see.”***[^76]
@@ -4952,11 +4688,7 @@ the Prophet, threw stones at him. Both Shias and Sunnis relate that the
 following verse was revealed in commendation of Ali on the night he
 exposed his life to save that of the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ 
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ
 
 ***“And among men is he who sells himself to seek the pleasure of
 Allah…”***[^77]
@@ -5213,16 +4945,12 @@ cave. Ahle Sunnat have narrated that Abu Bakr was very much worried of
 the Quraish and the Messenger of Allah (S) continued to comfort him as
 the Almighty Allah has mentioned it in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا تَنْصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ
-كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ
-لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا ۖ فَأَنْزَلَ اللَّهُ
-سَكِينَتَهُ عَلَيْهِ وَأَيَّدَهُ بِجُنُودٍ لَمْ تَرَوْهَا وَجَعَلَ
-كَلِمَةَ الَّذِينَ كَفَرُوا السُّفْلَىٰ ۗ وَكَلِمَةُ اللَّهِ هِيَ
-الْعُلْيَا 
-  </p>
-</blockquote>
+> إِلَّا تَنْصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ
+> كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ
+> لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا ۖ فَأَنْزَلَ اللَّهُ
+> سَكِينَتَهُ عَلَيْهِ وَأَيَّدَهُ بِجُنُودٍ لَمْ تَرَوْهَا وَجَعَلَ
+> كَلِمَةَ الَّذِينَ كَفَرُوا السُّفْلَىٰ ۗ وَكَلِمَةُ اللَّهِ هِيَ
+> الْعُلْيَا
 
 ***“If you will not aid him, Allah certainly aided him when those who
 disbelieved expelled him, he being the second of the two, when they were
@@ -5414,28 +5142,24 @@ stage of the journey and in this way reached the illuminated Medina.
 Before that the Almighty Allah revealed the following verses in his
 praise:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ
-وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ ﴿١٩٠﴾ الَّذِينَ
-يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
-وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
-خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾
-رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا
-لِلظَّالِمِينَ مِنْ أَنْصَارٍ ﴿١٩٢﴾ رَبَّنَا إِنَّنَا سَمِعْنَا
-مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ
-رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا
-وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾ رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا
-عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا
-تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾ فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا
-أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ بَعْضُكُمْ
-مِنْ بَعْضٍ ۖ فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِنْ دِيَارِهِمْ
-وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ
-سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا
-الْأَنْهَارُ ثَوَابًا مِنْ عِنْدِ اللَّهِ ۗ وَاللَّهُ عِنْدَهُ حُسْنُ
-الثَّوَابِ ﴿١٩٥﴾
-  </p>
-</blockquote>
+> إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ
+> وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ ﴿١٩٠﴾ الَّذِينَ
+> يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
+> وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا
+> خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾
+> رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا
+> لِلظَّالِمِينَ مِنْ أَنْصَارٍ ﴿١٩٢﴾ رَبَّنَا إِنَّنَا سَمِعْنَا
+> مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ
+> رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا
+> وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾ رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا
+> عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا
+> تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾ فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا
+> أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ بَعْضُكُمْ
+> مِنْ بَعْضٍ ۖ فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِنْ دِيَارِهِمْ
+> وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ
+> سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا
+> الْأَنْهَارُ ثَوَابًا مِنْ عِنْدِ اللَّهِ ۗ وَاللَّهُ عِنْدَهُ حُسْنُ
+> الثَّوَابِ ﴿١٩٥﴾
 
 ***“Most surely in the creation of the heavens and the earth and the
 alternation of the night and the day there are signs for men who
@@ -5491,12 +5215,8 @@ Ja’far Sadiq (a.s.) that the Meccans forced Ammar to utter the word of
 infidelity even though his heart was faithful. So the Almighty Allah
 revealed the following verses:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَفَرَ بِاللَّهِ مِنْ بَعْدِ إِيمَانِهِ إِلَّا مَنْ أُكْرِهَ
-وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
-  </p>
-</blockquote>
+> مَنْ كَفَرَ بِاللَّهِ مِنْ بَعْدِ إِيمَانِهِ إِلَّا مَنْ أُكْرِهَ
+> وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ
 
 ***“He who disbelieves in Allah after his having believed, not he who is
 compelled while his heart is at rest on account of faith…”***[^81]
@@ -5640,11 +5360,7 @@ Maghrib prayer. And the Morning Prayer remained as it was. This was so,
 because the angels of the day and the night both used to be present with
 the Prophet, so the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
-  </p>
-</blockquote>
+> وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
 
 ***“…and the morning recitation; surely the morning recitation is
 witnessed.”***[^82]
@@ -6088,5 +5804,4 @@ side and board the ship. He was thus compelled to keep quiet.
 [^81]: Surah Nahl 16:106
 
 [^82]: Surah Isra 17:78
-
 

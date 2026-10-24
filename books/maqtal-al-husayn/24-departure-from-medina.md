@@ -87,4 +87,3 @@ Your Lord decreed caliphate should you possess.[^5]
 [^5]: Excerpted from a poem by Hujjatul-Islam Shaikh Muhammad Husayn
 Kashif al-Ghiťa’, may Allah sanctify him.
 
-

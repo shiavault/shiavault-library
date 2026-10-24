@@ -61,4 +61,3 @@ idle talking and writing cannot deprive history from distinguishing
 truth from falsehood, and wherever there is any doubt it can be removed
 in the light of its firm verdicts.
 
-

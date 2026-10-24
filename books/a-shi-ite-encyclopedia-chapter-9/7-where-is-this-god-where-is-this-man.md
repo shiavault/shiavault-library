@@ -116,4 +116,3 @@ The reason is simple. When we are talking about a PLAN, it is a plan,
 and it is not a picture. You doubt, ask 5 billion normal human beings
 and they will tell you what they understand from this statement.
 
-

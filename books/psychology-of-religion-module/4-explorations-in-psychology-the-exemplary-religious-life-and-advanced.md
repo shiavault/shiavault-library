@@ -575,4 +575,3 @@ development and conversion, religious experience, attitudes, behavior,
 and health, and religion and cults. A review of these ideas is presented
 in the second half of the summary table at the end of the chapter.
 
-

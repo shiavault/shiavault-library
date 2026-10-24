@@ -156,4 +156,3 @@ indulge in adultery, for surely it is an open indecency".[^3]
 
 [^3]: \`Usud al-Ghabah, vol 1, p 216.
 
-

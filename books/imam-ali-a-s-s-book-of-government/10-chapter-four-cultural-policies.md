@@ -329,4 +329,3 @@ al-Muhtafa: 4.
 
 [^23]: Al-bayan wa al-Tabiin: 3/211, Tarikh al-Ya’qubi: 2/210.
 
-

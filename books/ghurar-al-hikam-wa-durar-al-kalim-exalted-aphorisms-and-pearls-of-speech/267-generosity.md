@@ -19,31 +19,19 @@ Generosity
 Glorified, puts in the one whom He loves and has subjected to trials.
 
 > 4ـ السَّخاءُ، والشَجاعَةُ، غَرائِزُ شَريفَةٌ، يَضَعُهَا اللّهُ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ فيمَنْ أحَبَّهُ، وامْتَحَنَهُ.
-  </p>
-</blockquote>
+> سُبْحانَهُ فيمَنْ أحَبَّهُ، وامْتَحَنَهُ.
 
 5. Generosity means being open-handed with your [own] wealth while being
 cautious with the wealth of others.
 
 > 5ـ السَّخاءُ أنْ تَكُونَ بِمالِكَ مُتَبَرِّعاً وعَنْ مالِ غَيرِكَ
-<blockquote dir="rtl">
-  <p>
-مُتَوَرِّعاً.
-  </p>
-</blockquote>
+> مُتَوَرِّعاً.
 
 6. Generosity is that which one gives [himself], for if he gives after
 being asked, then it is [a result of] shame and embarrassment.
 
 > 6ـ السَّخاءُ ما كانَ ابْتِداءً فَإنْ كانَ عَنْ مَسْئَلَة فَحَياءٌ
-<blockquote dir="rtl">
-  <p>
-وتَذَمُّمٌ.
-  </p>
-</blockquote>
+> وتَذَمُّمٌ.
 
 7. Generosity is the fruit of the intellect and contentment is the
 evidence of nobility.
@@ -67,31 +55,19 @@ universal in benefit is justice.
 wealth while being cautious with the wealth of others.
 
 > 11ـ أفْضَلُ السَّخاءِ أنْ تَكُونَ بِمالِكَ مُتَبَرِّعاً، وعَنْ مالِ
-<blockquote dir="rtl">
-  <p>
-غَيْرِكَ مُتَوَرِّعاً.
-  </p>
-</blockquote>
+> غَيْرِكَ مُتَوَرِّعاً.
 
 12. Verily the generosity of keeping oneself away from that which others
 possess is better than the generosity of giving.
 
 > 12ـ إنَّ سَخاءَ النَّفْسِ عَمّا في أيْدِي النّاسِ لأفْضَلُ مِنْ سَخاءِ
-<blockquote dir="rtl">
-  <p>
-البَذْلِ.
-  </p>
-</blockquote>
+> البَذْلِ.
 
 13. The best thing by which praise is gained, is generosity; and the
 thing that draws forth the most abundant, lasting benefits is charity.
 
 > 13ـ إنَّ أفْضَلَ مَا اسْتُجْلِبَ بِهِ الثَّناءُ، اَلسَّخاءُ، وإنَّ
-<blockquote dir="rtl">
-  <p>
-أجْزَلَ مَا اسْتُدِرَّتْ بِهِ الأرْباحُ الباقِيَةُ، اَلصَّدَقَةُ.
-  </p>
-</blockquote>
+> أجْزَلَ مَا اسْتُدِرَّتْ بِهِ الأرْباحُ الباقِيَةُ، اَلصَّدَقَةُ.
 
 14. Generosity is a [righteous] trait; honour is a virtue.
 
@@ -145,11 +121,7 @@ thing that draws forth the most abundant, lasting benefits is charity.
 embellishments of faith and the most honourable of your traits.
 
 > 26ـ تَحَلَّ بِالسَّخاءِ والوَرَعِ فَهُما حِلْيَةُ الإيمانِ وأشْرَفُ
-<blockquote dir="rtl">
-  <p>
-خِلالِكَ.
-  </p>
-</blockquote>
+> خِلالِكَ.
 
 27. The best generosity is that which corresponds to the situations of
 need.
@@ -180,11 +152,7 @@ need.
 increase sustenance and bring about adoration.
 
 > 33ـ عَلَيْكُمْ بِالسَّخاءِ وحُسْنِ الخُلْقِ، فَإنَّهُما يَزيدانِ
-<blockquote dir="rtl">
-  <p>
-الرِّزْقَ، ويُوجِبانِ المَحَبَّةَ.
-  </p>
-</blockquote>
+> الرِّزْقَ، ويُوجِبانِ المَحَبَّةَ.
 
 34. One’s generosity is proportionate to one’s magnanimity.
 
@@ -203,21 +171,13 @@ faults.
 possess is better than the generosity of giving.
 
 > 12ـ إنَّ سَخاءَ النَّفْسِ عَمّا في أيْدِي النّاسِ لأفْضَلُ مِنْ سَخاءِ
-<blockquote dir="rtl">
-  <p>
-البَذْلِ.
-  </p>
-</blockquote>
+> البَذْلِ.
 
 38. The best thing by which praise is gained, is generosity; and the
 thing that draws forth the most abundant, lasting benefits is charity.
 
 > 13ـ إنَّ أفْضَلَ مَا اسْتُجْلِبَ بِهِ الثَّناءُ، اَلسَّخاءُ، وإنَّ
-<blockquote dir="rtl">
-  <p>
-أجْزَلَ مَا اسْتُدِرَّتْ بِهِ الأرْباحُ الباقِيَةُ، اَلصَّدَقَةُ.
-  </p>
-</blockquote>
+> أجْزَلَ مَا اسْتُدِرَّتْ بِهِ الأرْباحُ الباقِيَةُ، اَلصَّدَقَةُ.
 
 39. Generosity is a [righteous] trait; honour is a virtue.
 
@@ -271,11 +231,7 @@ thing that draws forth the most abundant, lasting benefits is charity.
 embellishments of faith and the most honourable of your traits.
 
 > 26ـ تَحَلَّ بِالسَّخاءِ والوَرَعِ فَهُما حِلْيَةُ الإيمانِ وأشْرَفُ
-<blockquote dir="rtl">
-  <p>
-خِلالِكَ.
-  </p>
-</blockquote>
+> خِلالِكَ.
 
 52. The best generosity is that which corresponds to the situations of
 need.
@@ -306,11 +262,7 @@ need.
 increase sustenance and bring about adoration.
 
 > 33ـ عَلَيْكُمْ بِالسَّخاءِ وحُسْنِ الخُلْقِ، فَإنَّهُما يَزيدانِ
-<blockquote dir="rtl">
-  <p>
-الرِّزْقَ، ويُوجِبانِ المَحَبَّةَ.
-  </p>
-</blockquote>
+> الرِّزْقَ، ويُوجِبانِ المَحَبَّةَ.
 
 59. One’s generosity is proportionate to one’s magnanimity.
 
@@ -334,21 +286,13 @@ faults.
 see him as a handsome person, pleasing to look at.
 
 > 38ـ لَوْ رَأيْتُمُ السَّخاءَ رَجُلاً، لَرَأيْتُمُوهُ حَسَناً يَسُـرُّ
-<blockquote dir="rtl">
-  <p>
-النّاظِرينَ.
-  </p>
-</blockquote>
+> النّاظِرينَ.
 
 64. When there is neither generosity nor shame in a person, then death
 is better for him than life.
 
 > 39ـ مَنْ لَمْ يَكُنْ لَهُ سَخاءٌ ولا حَياءٌ، فَالمَوْتُ خَيْرٌ لَهُ
-<blockquote dir="rtl">
-  <p>
-مِنَ الحَياةِ.
-  </p>
-</blockquote>
+> مِنَ الحَياةِ.
 
 65. What a good trait generosity is!
 
@@ -369,5 +313,4 @@ open-handedly.
 
 [^1]: Meaning one has to possess something in order to be generous with
 it.
-
 

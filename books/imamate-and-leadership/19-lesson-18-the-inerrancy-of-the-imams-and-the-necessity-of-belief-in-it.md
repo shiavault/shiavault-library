@@ -334,4 +334,3 @@ instructions of the Imam with full confidence.
 
 [^1]: al-Saduq, al-Amali, p. 376.
 
-

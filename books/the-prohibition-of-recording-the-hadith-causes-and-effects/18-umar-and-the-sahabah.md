@@ -416,4 +416,3 @@ al-Manthur 2:446.
 
 [^22]: Dr. Nadiah al-\`Umariy: Ijtihad al-Rasul 299.
 
-

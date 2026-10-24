@@ -364,7 +364,6 @@ forgiveness requires wrongdoing; mentioned in "6," above); or because
 God's favor is undeserved and not given in response to merit, it cannot
 be owed and God cannot be faulted for not giving it.
 
-
 **Suggestions for Further Reading**
 
 Davis, Stephen T.
@@ -414,5 +413,4 @@ theism and modern science, and the problem of evil).
 
 Swinburne, Richard, The Coherence of Theism (Oxford, 1977; rev. 1993).
 (Discusses many aspects of theism to show its logical consistency).
-
 

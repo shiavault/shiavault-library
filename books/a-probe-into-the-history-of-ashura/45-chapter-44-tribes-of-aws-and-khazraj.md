@@ -133,4 +133,3 @@ would assist him against his relatives as well as against the strangers.
 The Holy Prophet also promised that he would honor this pact and added
 that their place would be in Paradise".
 
-

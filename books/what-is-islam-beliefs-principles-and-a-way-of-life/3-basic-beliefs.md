@@ -582,9 +582,7 @@ is to be built and the building materials are the result of God's
 creation whereas the actual process of constructing the house is the
 work of man. So it is with man's actions.
 
-
 If he does something good, prayer for example, he deserves a reward for
 that but if he does something bad, like adultery, he deserves to be
 punished.
-
 

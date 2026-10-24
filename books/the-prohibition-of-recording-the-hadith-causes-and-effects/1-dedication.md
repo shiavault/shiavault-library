@@ -10,4 +10,3 @@ boundless intellect, sound nature, and genuine thinking.
 
 The author
 
-

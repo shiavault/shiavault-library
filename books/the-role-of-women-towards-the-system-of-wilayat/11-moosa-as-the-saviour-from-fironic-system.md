@@ -27,4 +27,3 @@ follow Moosa (as). Firon chased them up to the shore, where he got
 drowned in this encounter. The Quran presents this also as a bounty for
 Bani Israel.
 
-

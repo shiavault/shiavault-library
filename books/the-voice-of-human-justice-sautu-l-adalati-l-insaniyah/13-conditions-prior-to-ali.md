@@ -487,4 +487,3 @@ bribery, and violation of Islamic injunctions and traditions and should
 not be guilty of shedding blood. (For further details see: “Philosophy
 of Islam” ISP, 1982).
 
-

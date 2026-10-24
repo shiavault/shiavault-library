@@ -103,10 +103,7 @@ attributes it to the heart for some type of knowledge which is much
 higher than perception and rational knowledge. For example, on the
 ascension of the Prophet Muhammad to the heaven, the Qur'an says:
 
-<p dir="rtl">
 “ما كذب الفؤاد ما رأي”
-</p>
 
 ***The heart did not tell lies about what it saw. (53:11)***
-
 

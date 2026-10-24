@@ -8,4 +8,3 @@ understanding [of his subject].
 
 > 1ـ لافِقْهَ لِمَنْ لا يُديمُ الدَّرْسَ.
 
-

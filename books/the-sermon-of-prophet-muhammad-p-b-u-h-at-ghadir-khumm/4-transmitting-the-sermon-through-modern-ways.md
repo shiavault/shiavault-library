@@ -216,4 +216,3 @@ interpreters.
 - Ten sentences on urging people to pledge their fealty to Imam Ali
 (PBUH) and the Imams after him from his offspring.
 
-

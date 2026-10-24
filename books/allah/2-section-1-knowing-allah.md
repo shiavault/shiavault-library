@@ -432,4 +432,3 @@ retired to 'if where he died in 68 A.H./687 A.D. In both al-Bukhari's
 and Muslim's Sahih books, there are 1160 hadith transmitted through Ibn
 \`Abbas alone.
 
-

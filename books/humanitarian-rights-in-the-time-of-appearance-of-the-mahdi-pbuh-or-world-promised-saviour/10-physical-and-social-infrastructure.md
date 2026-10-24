@@ -88,7 +88,6 @@ pollution, providing clean water supplies, comfortable housing and
 encouraging healthy eating habits and regular physical upkeep and
 exercise are essential to achieve a healthier public.
 
-
 **Stability of real value of monetary assets**
 
 In a world where all countries are mutually interdependent and where
@@ -129,5 +128,4 @@ always work out for the best of all sections of society because of
 limitations or individual horizon, lack of awareness or appreciation of
 social costs, and unbalanced growth in different sectors of the economy
 unrelated to the welfare needs of the people.
-
 

@@ -200,4 +200,3 @@ wonderful, isn't he?"
 
 Warqa didn't understand, so she closed her eyes and said nothing.
 
-

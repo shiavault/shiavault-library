@@ -787,4 +787,3 @@ example, there is no objection to doing so.
 **Rule 280:** As a matter of precaution, the kaffarah for carrying arms,
 without a valid reason, is a sheep.
 
-

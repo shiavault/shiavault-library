@@ -4,17 +4,9 @@ Sermon 92: Leave me and find someone else ...
 When people decided to swear allegiance[^1] at Amir al-mu'minin's hand
 after the murder of \`Uthman, he said:
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا أراده الناس على البيعة بعد قتل عثمان
-  </p>
-</blockquote>
+> لمّا أراده الناس على البيعة بعد قتل عثمان
 
 Leave me and seek some one else. We are facing a matter which has
 (several) faces and colours, which neither hearts can stand nor
@@ -26,18 +18,14 @@ are. It is possible I would listen to and obey whomever you make in
 charge of your affairs. I am better for you as a counsellor than as
 chief.
 
-<blockquote dir="rtl">
-  <p>
-دَعُوني وَالْـتَمِسُوا غَيْرِي; فإِنَّا مُسْتَقْبِلُونَ أَمْراً لَهُ
-وُجُوهٌ وَأَلْوَانٌ; لاَ تَقُومُ لَهُ الْقُلُوبُ، وَلاَ تَثْبُتُ
-عَلَيْهِ الْعُقُولُ، وَإِنَّ الاْفَاقَ قَدْ أَغَامَتْ، وَالْـمَحَجَّةَ
-قَدْ تَنَكَّرَتْ. وَاعْلَمُوا أَنِّي إنْ أَجَبْتُكُمْ رَكِبْتُ بِكُمْ
-مَا أَعْلَمُ، وَلَمْ أُصْغِ إِلَى قَوْلِ الْقَائِلِ وَعَتْبِ
-الْعَاتِبِ، وَإِنْ تَرَكْتُمُونِي فَأَنَا كَأَحَدِكُمْ; وَلَعَلِّي
-أَسْمَعُكُمْ وَأَطْوَعُكُمْ لِمنْ وَلَّيْتُمُوهُ أَمْرَكُمْ، وَأَنَا
-لَكُمْ وَزِيراً، خَيْرٌ لَكُمْ مِنِّي أَمِيراً!
-  </p>
-</blockquote>
+> دَعُوني وَالْـتَمِسُوا غَيْرِي; فإِنَّا مُسْتَقْبِلُونَ أَمْراً لَهُ
+> وُجُوهٌ وَأَلْوَانٌ; لاَ تَقُومُ لَهُ الْقُلُوبُ، وَلاَ تَثْبُتُ
+> عَلَيْهِ الْعُقُولُ، وَإِنَّ الاْفَاقَ قَدْ أَغَامَتْ، وَالْـمَحَجَّةَ
+> قَدْ تَنَكَّرَتْ. وَاعْلَمُوا أَنِّي إنْ أَجَبْتُكُمْ رَكِبْتُ بِكُمْ
+> مَا أَعْلَمُ، وَلَمْ أُصْغِ إِلَى قَوْلِ الْقَائِلِ وَعَتْبِ
+> الْعَاتِبِ، وَإِنْ تَرَكْتُمُونِي فَأَنَا كَأَحَدِكُمْ; وَلَعَلِّي
+> أَسْمَعُكُمْ وَأَطْوَعُكُمْ لِمنْ وَلَّيْتُمُوهُ أَمْرَكُمْ، وَأَنَا
+> لَكُمْ وَزِيراً، خَيْرٌ لَكُمْ مِنِّي أَمِيراً!
 
 Alternative Sources for Sermon 92
 ---------------------------------
@@ -104,5 +92,4 @@ The impression Amir al-mu'minin had formed about these people is fully
 corroborated by later events. Consequently, when those who had sworn
 allegiance with worldly motives did not succeed in their objectives they
 broke away and rose against his government with baseless allegations.
-
 

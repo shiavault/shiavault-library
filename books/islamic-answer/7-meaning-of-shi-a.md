@@ -60,7 +60,6 @@ said, " an unjust people cannot reach my promise". (2 :124)
 these five principles are called usul-ud-din which means articles of
 faith.
 
-
 **Succession to the prophet Muhammad (p.)**
 
 shi'a believe that someone should have been appointed by the prophet
@@ -416,5 +415,4 @@ i hope most of the sources mentioned above are available at the
 libraries such as princeton or harvard. however, if you find that
 inconvenient, please do not hesitate to specify the pages of any book in
 this list in order to copy them for you.
-
 

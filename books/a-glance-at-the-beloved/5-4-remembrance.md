@@ -69,14 +69,10 @@ Thank Allah for it and gift it to Imam (a.t.f .s.) by performing it in a
 manner befitting it. Thus, request Imam (a.t.f.s.) like the brothers of
 Yusuf (a.s.), pleading,
 
-<blockquote dir="rtl">
-  <p>
-يا أَيُّهَا
-الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ
-مُّزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا إِنَّ
-اللَّـهَ يَجْزِي الْمُتَصَدِّقِينَ. 
-  </p>
-</blockquote>
+> يا أَيُّهَا
+> الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ
+> مُّزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا إِنَّ
+> اللَّـهَ يَجْزِي الْمُتَصَدِّقِينَ.
 
 ***'O chief! Distress has afflicted us and our family and we have
 brought scanty measure (funds). So give us full measure and be
@@ -111,11 +107,7 @@ may mediate with Allah for the solution of your problem. He is after all
 a means towards Allah's satisfaction and a door towards His Mercy. We
 have been commanded to enter the house only from its door:
 
-<blockquote dir="rtl">
-  <p>
-وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا
-  </p>
-</blockquote>
+> وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا
 
 ***'Enter the house from its door.' (2 : 189)***[^2]
 
@@ -124,11 +116,7 @@ that remembering Imam (a.t.f.s.) is among the highest form of worship.
 And it is due to its importance that we have been commanded to beseech
 Allah thus:
 
-<blockquote dir="rtl">
-  <p>
-ولا تُنْسِنا ذِكْرَه...
-  </p>
-</blockquote>
+> ولا تُنْسِنا ذِكْرَه...
 
 'O Allah, don't make us forget his remembrance.'[^3]
 
@@ -194,31 +182,19 @@ Mastership alive in his heart.
 
 Imam Sadiq (a.s.) asked Fuzail:
 
-<blockquote dir="rtl">
-  <p>
-تَجلُسون وَ تَتَحَدَّثُون؟
-  </p>
-</blockquote>
+> تَجلُسون وَ تَتَحَدَّثُون؟
 
 'Do you sit and narrate traditions for each other?
 
 Fuzail replied: Yes.' Imam Sadiq (a.s.)
 
-<blockquote dir="rtl">
-  <p>
- إن تلك ألمجالس أحبها فأحيو أمرنا يافضيل ! فرحم الله من أحيا أمرنا.
-  </p>
-</blockquote>
+>  إن تلك ألمجالس أحبها فأحيو أمرنا يافضيل ! فرحم الله من أحيا أمرنا.
 
 'I like such gatherings. Then O Fuzail, keep our affairs alive. May
 Allah have mercy on the one who keeps our affairs alive?'
 
-<blockquote dir="rtl">
-  <p>
-يافضيل من ذكرنا أو ذٌكرنا عنده فخرج من عينه مثل جناح ألذباب غفر الله
-له ذنوبه ولو كانت أكثر من زبد ألبحر.
-  </p>
-</blockquote>
+> يافضيل من ذكرنا أو ذٌكرنا عنده فخرج من عينه مثل جناح ألذباب غفر الله
+> له ذنوبه ولو كانت أكثر من زبد ألبحر.
 
 'O Fuzail, one who remembers us or our mention is made in his presence,
 then if tears flow from his eyes even to the extent of the wing of a
@@ -233,12 +209,8 @@ matter how sinful he may be.
 
 Imam Ridha’ (a.s.) says
 
-<blockquote dir="rtl">
-  <p>
-ومن ذكر بمصابنا فبكى وأبكى لم تبك عينه يوم تبكي العيون، ومن جلس مجلسا
-يحيى فيه أمرنا لم يمت قلبه يوم تموت القلوب.
-  </p>
-</blockquote>
+> ومن ذكر بمصابنا فبكى وأبكى لم تبك عينه يوم تبكي العيون، ومن جلس مجلسا
+> يحيى فيه أمرنا لم يمت قلبه يوم تموت القلوب.
 
 'One who remembers our calamities, then cries and makes others cry, his
 eyes will not cry on the day, when other eyes will be crying. Anyone who
@@ -262,5 +234,4 @@ brothers', Tradition 2
 [^7]: Bihar al-Anwar, Vol. 44, Pg. 282, Tradition 14
 
 [^8]: Bihar al-Anwar, Vol. 44, Pg. 278, Tradition 1
-
 

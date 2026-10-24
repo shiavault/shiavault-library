@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-فَاعْبُدِ اللهَ مُخْلِصاً لَهُ الدِّيْن
-  </p>
-</blockquote>
+> فَاعْبُدِ اللهَ مُخْلِصاً لَهُ الدِّيْن
 
 *(So worship God (alone), being sincere to Him in religion*[^1]*)*
 
 Imam Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-أخْلِصِ الْعَمَلَ يُجْزِكَ مِنْهُ الْقَلِيْلُ
-  </p>
-</blockquote>
+> أخْلِصِ الْعَمَلَ يُجْزِكَ مِنْهُ الْقَلِيْلُ
 
 *Perform your deeds with sincerity, for (then, even) a slight of it
 shall be sufficient for you.*[^2]
@@ -335,5 +327,4 @@ to the ‘pure innate and soul’.
 Masu’di).
 
 [^13]: Khazinah al-Jawaahir, pg. 318
-
 

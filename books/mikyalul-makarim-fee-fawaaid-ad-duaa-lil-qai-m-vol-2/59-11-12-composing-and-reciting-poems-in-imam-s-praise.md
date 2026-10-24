@@ -46,4 +46,3 @@ of Imam (as) and that which is mentioned is sufficient for believers.
 
 [^5]: Raudatul Kafi; Vol. 8, Pg. 102
 
-

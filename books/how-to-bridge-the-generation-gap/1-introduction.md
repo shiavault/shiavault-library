@@ -88,43 +88,27 @@ Simultaneously, we must do our utmost to produce, the younger generation
 who could orient their lives with the Holy Qur'an. They must feel the
 sweetness of the following verses in their own lives.
 
-<blockquote dir="rtl">
-  <p>
-وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلً
-  </p>
-</blockquote>
+> وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلً
 
  ***“And put thy trust in Allah for, Allah is sufficient as
 trustee*****.*****”*****(The Holy Qur’an 33:3)**
 
-<blockquote dir="rtl">
-  <p>
-بَلِ اللَّهُ مَوْلَاكُمْ ۖ وَهُوَ خَيْرُ النَّاصِرِينَ
-  </p>
-</blockquote>
+> بَلِ اللَّهُ مَوْلَاكُمْ ۖ وَهُوَ خَيْرُ النَّاصِرِينَ
 
 ***“But Allah is your protection, and He is the best of
 Helpers.”*****(The Holy Qur’an 3:150)**
 
-<blockquote dir="rtl">
-  <p>
-إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِنْ يَخْذُلْكُمْ
-فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ ۗ وَعَلَى اللَّهِ
-فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ 
-  </p>
-</blockquote>
+> إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِنْ يَخْذُلْكُمْ
+> فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ ۗ وَعَلَى اللَّهِ
+> فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
 
 ***“If Allah is your helper, none can overcome you, and if He withdraw
 His help from you, who is there who can help you? In Allah let believers
 put their trust”*** **(The Holy Qur’an 3:160)**
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
-اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَإِلَى اللَّهِ عَاقِبَةُ
-الْأُمُورِ
-  </p>
-</blockquote>
+> وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ
+> اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَإِلَى اللَّهِ عَاقِبَةُ
+> الْأُمُورِ
 
 ***“Whosoever surrender his purpose to Allah, while doing good, he
 verily has grasped the firm hand, unto Allah belongs the sequel of All
@@ -134,13 +118,9 @@ May Allah bless all the present, and coming future Muslim generations to
 pay heed to the wisdom of the following verses of The Holy Qur'an given
 by Loqman - the wise to his son;
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ
-فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ
-بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ 
-  </p>
-</blockquote>
+> يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ
+> فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ
+> بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ
 
  ***“O my son!” (said Loqman), If there be (but) the weight of a
 mustard-seed and it were (within a rock, or (anywhere) in the heavens or
@@ -148,25 +128,17 @@ on earth, God will bring is forth: for God understands the finest
 mysteries, (and) is well-acquainted*** ***(with them).”*** **(The Holy
 Qur’an 31:16)**
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
-الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ
-الْأُمُورِ
-  </p>
-</blockquote>
+> يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ
+> الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ
+> الْأُمُورِ
 
 ***“O my son! establish regular prayer, enjoin what is just, and forbid
 what is wrong; and bear with patient constancy whatever betide thee; for
 this is firmness (of purpose) in (the conduct of) affairs.”*** **(The
 Holy Qur’an 31:17)**
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ
-إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-  </p>
-</blockquote>
+> وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ
+> إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 ***“And swell not they cheek (for pride) at men, nor walk in insolence
 through the earth; for Allah loveth not any arrogant boaster.”*** **(The
@@ -211,5 +183,4 @@ Sayyid Hussein Alamdar
  September 27, 1994  
  Rabi-attani 20, 1415  
  Tehran
-
 

@@ -21,15 +21,10 @@ to him.
 the sickness of ignobility is the most repulsive of sicknesses.
 
 > 4ـ زَلَّةُ المُتَوَقّي أشَدُّ زَلَّة، وعِلَّةُ اللَُّؤْمِ أقْبَحُ
-<blockquote dir="rtl">
-  <p>
-عِلَّة.
-  </p>
-</blockquote>
+> عِلَّة.
 
 5. The slip of the foot is the easiest to recover from [unlike other
 lapses].
 
 > 5ـ زَلَّةُ القَدَمِ أهْوَنُ اسْتِدْراك.
-
 

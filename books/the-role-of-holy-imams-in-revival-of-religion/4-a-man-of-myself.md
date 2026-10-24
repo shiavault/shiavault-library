@@ -596,4 +596,3 @@ thought, chiefly the doctrine of the trinity. (See V M. Miller: The
 History of Civilization 9/345, and John Nass: History of Religious
 Communities. 425)
 
-

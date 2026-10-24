@@ -458,4 +458,3 @@ arrangements.
 greatness but they were necessary to prove his truth to the scientific
 world.
 
-

@@ -45,4 +45,3 @@ World Organization For Islamic Services
  12/7/1980 AD  
  Tehran — Iran
 
-

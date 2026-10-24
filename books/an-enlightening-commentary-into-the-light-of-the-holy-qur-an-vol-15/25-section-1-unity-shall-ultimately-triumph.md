@@ -4,31 +4,15 @@ Section 1: Unity Shall Ultimately Triumph
 Surah As-Saffat – Verses 1-3
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالصَّافَّاتِ صَفّاً
-  </p>
-</blockquote>
+> وَالصَّافَّاتِ صَفّاً
 
-<blockquote dir="rtl">
-  <p>
-فَالزَّاجِرَاتِ زَجْراً
-  </p>
-</blockquote>
+> فَالزَّاجِرَاتِ زَجْراً
 
-<blockquote dir="rtl">
-  <p>
-فَالتَّالِيَاتِ ذِكْراً
-  </p>
-</blockquote>
+> فَالتَّالِيَاتِ ذِكْراً
 
 ***1. “By those who range themselves in ranks,”***  
 ***2. “And those who drive away (the evils and temptations) with
@@ -168,17 +152,9 @@ His prophets…”*
 Surah As-Saffat – Verses 4-5
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ إِلَهَكُمْ لَوَاحِدٌ
-  </p>
-</blockquote>
+> إِنَّ إِلَهَكُمْ لَوَاحِدٌ
 
-<blockquote dir="rtl">
-  <p>
-رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ
-  </p>
-</blockquote>
+> رَبُّ السَّمَاوَاتِ وَالأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ
 
 ***4. “Verily your God is One,”***  
 ***5. “Lord of the heavens and the earth and all between them, and Lord
@@ -233,17 +209,9 @@ The verse is concluded as follows:
 Surah As-Saffat – Verses 6-7
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا زَيَّنَّا السَّمَآءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ
-  </p>
-</blockquote>
+> اِنَّا زَيَّنَّا السَّمَآءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ
 
-<blockquote dir="rtl">
-  <p>
-وَحِفْظاً مِن كُلّ‌ِ شَيْطَانٍ مَّارِدٍ
-  </p>
-</blockquote>
+> وَحِفْظاً مِن كُلّ‌ِ شَيْطَانٍ مَّارِدٍ
 
 ***6. “Verily We have adorned the lower heaven with the adornment of the
 stars.”***  
@@ -326,24 +294,12 @@ in later verses.
 Surah As-Saffat – Verses 8-10
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يَسَّمَّعُونَ إِلَي الْمَلأِ الأَعْلَي وَيُقْدَفُونَ مِن كُلّ‌ِ
-جَانِبٍ
-  </p>
-</blockquote>
+> لاَّ يَسَّمَّعُونَ إِلَي الْمَلأِ الأَعْلَي وَيُقْدَفُونَ مِن كُلّ‌ِ
+> جَانِبٍ
 
-<blockquote dir="rtl">
-  <p>
-دُحُوراً وَلَهُمْ عَذَابٌ وَاصِبٌ
-  </p>
-</blockquote>
+> دُحُوراً وَلَهُمْ عَذَابٌ وَاصِبٌ
 
-<blockquote dir="rtl">
-  <p>
-إِلاَّ مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
-  </p>
-</blockquote>
+> إِلاَّ مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
 
 ***8. “They cannot listen to (the secrets of) the exalted assembly and
 they are thrown at from every side,”***  
@@ -443,18 +399,10 @@ them missiles for the Satans…”***
 Surah As-Saffat – Verses 11-12
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقاً أَم مَّنْ خَلَقْنَآ إِنَّا
-خَلَقْنَاهُم مِن طِينٍ لاَّزِبٍ
-  </p>
-</blockquote>
+> فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقاً أَم مَّنْ خَلَقْنَآ إِنَّا
+> خَلَقْنَاهُم مِن طِينٍ لاَّزِبٍ
 
-<blockquote dir="rtl">
-  <p>
-بَلْ عَجِبْتَ وَيَسْخَرُونَ
-  </p>
-</blockquote>
+> بَلْ عَجِبْتَ وَيَسْخَرُونَ
 
 ***11. “Then ask their opinion whether they are stronger in creation or
 (the others) whom we have created. Verily We created them of a sticky
@@ -518,23 +466,11 @@ impossible that they begin to mock.
 Surah As-Saffat – Verses 13-15
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا ذُكّـِرُوا لاَ يَذْكُرُونَ
-  </p>
-</blockquote>
+> وَإِذَا ذُكّـِرُوا لاَ يَذْكُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَوْا ءَايَةً يَسْتَسْخِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا رَأَوْا ءَايَةً يَسْتَسْخِرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا إِنْ هَذَآ إِلاَّ سِحْرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> وَقَالُوا إِنْ هَذَآ إِلاَّ سِحْرٌ مُّبِينٌ
 
 ***13. “When they are admonished, they mind not,”***  
 ***14. “And when they see a sign (miracle) they invite one another to
@@ -577,23 +513,11 @@ influence of the Qur’an and the miracles of the Prophet (S).
 Surah As-Saffat – Verses 16-18
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ءَاِذَا مِتْنَا وَكُنَّا تُرَاباً وَعِظَاماً ءَاِنَّا لَمَبْعُوثُونَ
-  </p>
-</blockquote>
+> ءَاِذَا مِتْنَا وَكُنَّا تُرَاباً وَعِظَاماً ءَاِنَّا لَمَبْعُوثُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَوَ ءَابَاؤُنَا الأَوَّلُونَ
-  </p>
-</blockquote>
+> أَوَ ءَابَاؤُنَا الأَوَّلُونَ
 
-<blockquote dir="rtl">
-  <p>
-قُلْ نَعَمْ وَأَنتُمْ دَاخِرُونَ
-  </p>
-</blockquote>
+> قُلْ نَعَمْ وَأَنتُمْ دَاخِرُونَ
 
 ***16. “(They say:) ‘When we are dead and have become dust and (rotten)
 bones, shall we (then) be raised up (again)?’”***  
@@ -644,23 +568,11 @@ which mean: ‘disgrace’ and ‘humiliation’.
 Surah As-Saffat – Verses 19-21
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ
-  </p>
-</blockquote>
+> فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا يَاوَيْلَنَآ هَذَا يَوْمُ الدّ‌ِينِ
-  </p>
-</blockquote>
+> وَقَالُوا يَاوَيْلَنَآ هَذَا يَوْمُ الدّ‌ِينِ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا يَوْمُ الْفَصْلِ الَّذِي كُنتُم بِهِ تُكَذّ‌ِبُونَ
-  </p>
-</blockquote>
+> هَذَا يَوْمُ الْفَصْلِ الَّذِي كُنتُم بِهِ تُكَذّ‌ِبُونَ
 
 ***19. “Then it (the Resurrection) will only be a single cry, and
 behold, they begin to see (the scene of Hereafter)!”***  
@@ -771,5 +683,4 @@ P. 271
 [^2]: Rauh-ul-Ma‘ali, following the verse
 
 [^3]: Surah Yasin, No. 36, verse 56
-
 

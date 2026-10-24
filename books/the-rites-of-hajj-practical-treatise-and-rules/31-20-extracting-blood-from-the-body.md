@@ -12,4 +12,3 @@ renounce that. It is even better to abstain from giving blood by today’s
 methods in the state of Ihram, except in cases of necessity and for
 saving the life of a Muslim.
 
-

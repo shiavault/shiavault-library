@@ -168,4 +168,3 @@ every subject.
 
 [^11]: Ibid., p. 19.
 
-

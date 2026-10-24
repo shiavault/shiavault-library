@@ -3,15 +3,11 @@
 
 Imam al-Haythami (d. 807 H) records:
 
-<blockquote dir="rtl">
-  <p>
-وعن ابن عباس أن عليا كان يقول في حياة رسول الله صلى الله عليه و سلم :
-إن الله عز و جل يقول : {أفإن مات أو قتل انقلبتم على أعقابكم} والله لا
-ننقلب على أعقابنا بعد إذ هدانا الله تعالى والله لئن مات أو قتل لأقاتلن
-على ما قاتل عليه حتى أموت والله إني لأخوه ووليه وابن عمه ووارثه فمن
-أحق به مني
-  </p>
-</blockquote>
+> وعن ابن عباس أن عليا كان يقول في حياة رسول الله صلى الله عليه و سلم :
+> إن الله عز و جل يقول : {أفإن مات أو قتل انقلبتم على أعقابكم} والله لا
+> ننقلب على أعقابنا بعد إذ هدانا الله تعالى والله لئن مات أو قتل لأقاتلن
+> على ما قاتل عليه حتى أموت والله إني لأخوه ووليه وابن عمه ووارثه فمن
+> أحق به مني
 
 Narrated Ibn ‘Abbas:
 
@@ -26,11 +22,7 @@ more entitled to him than me?**”[^1]
 
 Al-Haythami comments:
 
-<blockquote dir="rtl">
-  <p>
-رواه الطبراني ورجاله رجال الصحيح
-  </p>
-</blockquote>
+> رواه الطبراني ورجاله رجال الصحيح
 
 Al-Tabarani records it, and its narrators are narrators of the
 *Sahih*.[^2]
@@ -40,36 +32,20 @@ hadith* poses to the Sunni creed as a whole. So, he decides to “take
 care of” it. After including it in his *Silsilah Dha’ifah* (his
 collection of unreliable *ahadith*), he grades it as:
 
-<blockquote dir="rtl">
-  <p>
-منكر
-  </p>
-</blockquote>
+> منكر
 
 *Munkar* (repugnant)[^3]
 
 What is his reason? He explains:
 
-<blockquote dir="rtl">
-  <p>
-قلت: وسكت عليه الحاكم والذهبي؛ ولعل ذلك لظهور علته، وهي تنحصر في سماك،
-أو في الراوي عنه: أسباط.
-  </p>
-</blockquote>
+> قلت: وسكت عليه الحاكم والذهبي؛ ولعل ذلك لظهور علته، وهي تنحصر في سماك،
+> أو في الراوي عنه: أسباط.
 
-<blockquote dir="rtl">
-  <p>
-أما الأول؛ فلأنه وإن كان ثقة؛ فقد تكلموا في روايته عن عكرمة خاصة، فقال
-الحافظ في "التقريب": "صدوق، وروايته عن عكرمة خاصة مضطربة، وقد تغير
-بآخره…".
-  </p>
-</blockquote>
+> أما الأول؛ فلأنه وإن كان ثقة؛ فقد تكلموا في روايته عن عكرمة خاصة، فقال
+> الحافظ في "التقريب": "صدوق، وروايته عن عكرمة خاصة مضطربة، وقد تغير
+> بآخره…".
 
-<blockquote dir="rtl">
-  <p>
-وأما الآخر؛ فقال الحافظ: "صدوق، كثير الخطأ…".
-  </p>
-</blockquote>
+> وأما الآخر؛ فقال الحافظ: "صدوق، كثير الخطأ…".
 
 I say: al-Hakim and al-Dhahabi kept silent about it. Maybe this is due
 to the obviousness of its defect, **and it is limited to Simak,**
@@ -92,13 +68,9 @@ chain.
 Besides, both al-Hakim (d. 403 H) and al-Dhahabi (d. 748 H) have no
 problem with that chain. For instance, al-Hakim records a similar chain:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو محمد بن إسحاق الصفار العدل ثنا أحمد بن نصر أنبأ عمرو بن
-طلحة القناد ثنا أسباط بن نصر عن سماك بن حرب عن مكرمة عن ابن عباس رضي
-الله عنهما....
-  </p>
-</blockquote>
+> أخبرنا أبو محمد بن إسحاق الصفار العدل ثنا أحمد بن نصر أنبأ عمرو بن
+> طلحة القناد ثنا أسباط بن نصر عن سماك بن حرب عن مكرمة عن ابن عباس رضي
+> الله عنهما....
 
 Abu Muhammad b. Ishaq al-Saffar al-‘Adl – Ahmad b. Nasr – ‘Amr b. Talhah
 al-Qanad – **Asbat b. Nasr** – **Simak b. Harb** – **‘Ikrimah** – Ibn
@@ -106,34 +78,22 @@ al-Qanad – **Asbat b. Nasr** – **Simak b. Harb** – **‘Ikrimah** – Ibn
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain[^7]
 
 Al-Dhahabi agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^8]
 
 In fact, ‘Allamah al-Albani himself has no problem with the same chain!
 He writes:
 
-<blockquote dir="rtl">
-  <p>
-قلت: حديث ابن عباس هذا أخرجه البخاري في (الأدب المفرد) وأبو داود
-والحاكم من طريق عمرو بن طلحة قال: ثنا أسباط عن سماك بن حرب عن عكرمة عن
-ابن عباس به.... وهذا سند جيد وقال الحاكم: (صحيح الإسناد) ووافقه الذهبي
-  </p>
-</blockquote>
+> قلت: حديث ابن عباس هذا أخرجه البخاري في (الأدب المفرد) وأبو داود
+> والحاكم من طريق عمرو بن طلحة قال: ثنا أسباط عن سماك بن حرب عن عكرمة عن
+> ابن عباس به.... وهذا سند جيد وقال الحاكم: (صحيح الإسناد) ووافقه الذهبي
 
 I say: This *hadith* of Ibn ‘Abbas is recorded by al-Bukhari (in
 *al-Adab al-Mufrad*), and Abu Dawud and al-Hakim through the route of
@@ -166,12 +126,8 @@ end!
 In any case, Imam Muslim (d. 261 H) has relied upon this chain as a
 *hujjah* in the *usul* of his *Sahih*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عمرو بن حماد بن طلحة القناد حدثنا أسباط ( وهو ابن نصر الهمداني )
-عن سماك عن جابر بن سمرة
-  </p>
-</blockquote>
+> حدثنا عمرو بن حماد بن طلحة القناد حدثنا أسباط ( وهو ابن نصر الهمداني )
+> عن سماك عن جابر بن سمرة
 
 ‘Amr b. Hamad b. Talhah al-Qanad – **Asbat** (and he is Ibn Nasr
 al-Hamdani) – **Simak** – Jabir b. Samurah[^11]
@@ -180,52 +136,32 @@ As for Simak having *actually* narrated authentically from ‘Ikrimah,
 Imam al-Tirmidhi (d. 279 H) has confirmed this repeatedly in his
 *Sunan*. For example, this is a chain in the book:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا هناد و أبوعمار قالا حدثنا وكيع عن إسرائيل عن سماك عن عكرمة عن
-ابن عباس
-  </p>
-</blockquote>
+> حدثنا هناد و أبوعمار قالا حدثنا وكيع عن إسرائيل عن سماك عن عكرمة عن
+> ابن عباس
 
 Hanad and Abu ‘Ammar – Waki’ – Israil – **Simak** – **‘Ikrimah** – Ibn
 ‘Abbas[^12]
 
 He comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث حسن صحيح
-  </p>
-</blockquote>
+> هذا حديث حسن صحيح
 
 This hadith is *hasan sahih*[^13]
 
 Interestingly, ‘Allamah al-Albani agrees:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^14]
 
 The ‘Allamah further caps everything here:
 
-<blockquote dir="rtl">
-  <p>
-" ليقرأن القرآن ناس من أمتي يمرقون من الإسلام كما يمرق السهم من الرمية
-".
-  </p>
-</blockquote>
+> " ليقرأن القرآن ناس من أمتي يمرقون من الإسلام كما يمرق السهم من الرمية
+> ".
 
 > أخرجه ابن ماجة (1 / 73) وأحمد (1 / 256) وابنه أيضا وأبو يعلى (2 /623)
-<blockquote dir="rtl">
-  <p>
-عن أبي الأحوص عن سماك عن عكرمة عن ابن عباس مرفوعا. قلت: وهذا إسناد جيد
-وهو على شرط مسلم.
-  </p>
-</blockquote>
+> عن أبي الأحوص عن سماك عن عكرمة عن ابن عباس مرفوعا. قلت: وهذا إسناد جيد
+> وهو على شرط مسلم.
 
 “Some people from my *Ummah* will recite the Qur’an. But they will
 apostatize from Islam as the arrow pierces the game.”
@@ -251,15 +187,11 @@ not good enough?!
 A further corroboration of *Hadith al-Wirathah* is provided by Imam
 al-Hakim:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو النضر محمد بن يوسف الفقيه ثنا عثمان بن سعيد الدارمي ثنا
-النفيلي ثنا زهير ثنا أبو إسحاق قال عثمان : وحدثنا علي بن حكيم الأودي
-وعمرو بن عون الواسطي قالا ثنا شريك بن عبد الله عن أبي إسحاق قال سألت
-قثم بن العباس كيف ورث علي رسول الله صلى الله عليه وسلم دونكم قال :
-لأنه كان أولنا به لحوقا وأشدنا به لزوقا
-  </p>
-</blockquote>
+> أخبرنا أبو النضر محمد بن يوسف الفقيه ثنا عثمان بن سعيد الدارمي ثنا
+> النفيلي ثنا زهير ثنا أبو إسحاق قال عثمان : وحدثنا علي بن حكيم الأودي
+> وعمرو بن عون الواسطي قالا ثنا شريك بن عبد الله عن أبي إسحاق قال سألت
+> قثم بن العباس كيف ورث علي رسول الله صلى الله عليه وسلم دونكم قال :
+> لأنه كان أولنا به لحوقا وأشدنا به لزوقا
 
 Abu al-Nadhar Muhammad b. Yusuf al-Faqih – ‘Uthman b. Sa’id al-Darimi –
 al-Nufayli – Zuhayr – Abu Ishaq – ‘Uthman – ‘Ali b. Hakim al-Awdi and
@@ -272,21 +204,13 @@ of us to adhere to him.[^17]
 
 Al-Hakim says:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has a *sahih* chain.[^18]
 
 Al-Dhahabi concurs:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^19]
 
@@ -355,5 +279,4 @@ edition, 1411 H) [annotator: Mustafa ‘Abd al-Qadir ‘Ata], vol. 3, p.
 [^18]: Ibid
 
 [^19]: Ibid
-
 

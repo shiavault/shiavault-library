@@ -741,4 +741,3 @@ enduring than the intoxication produced by liquors.*[^16]
 
 [^16]: Ghurar al-hikam, p. 440.
 
-

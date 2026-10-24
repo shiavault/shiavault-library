@@ -157,4 +157,3 @@ form of the League of the Virtuous. It is thus the focus of the
 opposition to the leading merchants with their monopolistic practices.
 *(Mohammed, Prophet and Statesman, 1961)*
 
-

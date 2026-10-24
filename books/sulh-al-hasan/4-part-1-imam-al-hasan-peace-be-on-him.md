@@ -447,4 +447,3 @@ and his family, asked the help of his wives when he was few in number
 and the polytheists were many?' She said: \`O Allah, no.' Al-Ahnaf said:
 \`Therefore, what is our guilt?"
 
-

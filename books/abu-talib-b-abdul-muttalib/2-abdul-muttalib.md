@@ -25,4 +25,3 @@ Then he turned to his son, Abu Talib, and whispered in his ear:
 *“Abu Talib, Muhammad will be of great importance. So support him with
 your hand and tongue.*
 
-

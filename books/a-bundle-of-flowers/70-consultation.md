@@ -27,4 +27,3 @@ consultation, and none will gain merit through stubbornness."
 
 Nahj-ul-Fisahah, p. 533
 
-

@@ -212,4 +212,3 @@ differences cropping up. They must protect the good atmosphere at home
 and do not become the cause of worry to the children. Otherwise they
 will be answerable and subject to retribution in the Court of Allah.
 
-

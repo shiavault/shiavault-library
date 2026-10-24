@@ -179,7 +179,6 @@ nature, accepting it as such and thus avoiding this problem. The above
 problem of induction gave rise to modern skepticism and remains a
 fascinating unsolved puzzle.
 
-
 **Kant's Critique of Empirical Evidence**
 
 Kant raises a powerful objection to any theory that claims to grasp
@@ -214,7 +213,6 @@ level of experience is impossible. The only question, therefore, is
 whether the normal level is the only level of knowledge-yielding
 experience." He will argue, as we will see later, that there are other
 levels of experience that can bear knowledge as well.
-
 
 **Ontological Arguments**
 
@@ -287,7 +285,7 @@ alone is false. The reductio ad absurdum from pure thought to God, of
 Anselm and Descartes thus fails according to Kant.
 
 The closest form of parallel thought to this can be found in the
-thought of Avicenna (981 &endash; 1037 CE). He also shared Descartes
+thought of Avicenna (981 – 1037 CE). He also shared Descartes
 methodological doubt and proposed a somewhat similar ontological
 argument for the existence of God [Shiekh, p. 77]. Avicenna also
 propounded that God is a necessary being, however, his argument unlike
@@ -352,7 +350,6 @@ or rather 'islamization' of the Aristotelian view that God and the
 universe were two distinct beings which did not interact with each
 other.
 
-
 **Arguments against the Existence of God**
 
 **The Problem of Evil**
@@ -387,14 +384,13 @@ thereof. Although God could have created beings of this sort, they would
 have amounted to mere puppets and not vibrant beings as envisioned by
 God [Hick, pp. 39-41].
 
-
 **The Free Will Defense**
 
 The primary difficulty with the problem of evil is resolving the
 apparent conflict between the reality of evil in the world and the claim
 that God is:
 
-Omniscient -- All knowing Omnipotent &endash; All powerful and Wholly
+Omniscient -- All knowing Omnipotent – All powerful and Wholly
 Good
 
 One version of the free will defense is to compare the current state of
@@ -460,7 +456,6 @@ could not create any world at all. This phenomenon he calls transworld
 depravity. Therefore, for God to create a world in which humans had
 moral freedom, the existence of both Good and Evil is necessary
 [Platinga, p. 211].
-
 
 **Islamic Reaction to the Problem of Evil**
 
@@ -551,5 +546,4 @@ state of guilt for the original sin, Iqbal had pointed out that this
 concept of original sin is absent in Islam, and that the Quran
 encouraged a positive self image of the self or man. Many modern
 Christian theologians also adopt this view.
-
 

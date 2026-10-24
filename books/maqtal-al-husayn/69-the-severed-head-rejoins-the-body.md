@@ -72,4 +72,3 @@ Tr.
 
 [^4]: Abul-Rayhan al-Biruni, Al-Athar al-Baqiya, Vol. 1, p. 331.
 
-

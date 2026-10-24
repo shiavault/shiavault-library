@@ -389,4 +389,3 @@ those who see, O quickest in reckoning, O most Merciful of the merciful
 ones, send Your blessings on Muhammad and his family and do for me
 [**Raise your both hands and ask for needs].**
 
-

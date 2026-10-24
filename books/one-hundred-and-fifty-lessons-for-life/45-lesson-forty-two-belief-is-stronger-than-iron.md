@@ -3,13 +3,9 @@ Lesson Forty Two: Belief is Stronger than Iron
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الْمُؤْمِنَ أَشَدُّ مِنْ زُبُرِ الْحَدِيْدِ إنَّ زُبُرَ
-الْحَدِيْدِ إِذْا أُدْخِلَ النّارَ تَغَيَّرَ وَ إنَّ الْمُؤْمِنَ لَوْ
-قُتِلَ ثُمَّ نُشِرَ ثُمَّ قُتِلَ لَمْ يَتَغَيَّرْ قَلْبُهُ.
-  </p>
-</blockquote>
+> إنَّ الْمُؤْمِنَ أَشَدُّ مِنْ زُبُرِ الْحَدِيْدِ إنَّ زُبُرَ
+> الْحَدِيْدِ إِذْا أُدْخِلَ النّارَ تَغَيَّرَ وَ إنَّ الْمُؤْمِنَ لَوْ
+> قُتِلَ ثُمَّ نُشِرَ ثُمَّ قُتِلَ لَمْ يَتَغَيَّرْ قَلْبُهُ.
 
 Translation
 -----------
@@ -34,5 +30,4 @@ them immense strength to continue their endeavor fearlessly in the path
 of religion.
 
 [^1]: Safinat’ul-Bihar, volume 1, page 37.
-
 

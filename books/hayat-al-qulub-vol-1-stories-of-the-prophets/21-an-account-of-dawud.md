@@ -1061,4 +1061,3 @@ again burnt down that grass. Yusuf wept so much because of his
 separation from his father Ya‘qub that fellow prisoners became restless
 and they requested him to weep on alternate days.
 
-

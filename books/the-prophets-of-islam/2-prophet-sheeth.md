@@ -411,4 +411,3 @@ Lud, Yusuf, Ibrahim, Hajar, Nahl, Mariyam, Anmbiyaa, Hajj, Shu'raa,
 Ankaboot, Sa fat, Jinn, Zakhraf, Hadeed, Mumtahna, Zariyat, Najam,
 Taha.
 
-

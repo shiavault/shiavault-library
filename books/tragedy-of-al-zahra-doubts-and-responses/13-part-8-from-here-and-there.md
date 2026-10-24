@@ -1566,4 +1566,3 @@ others.
 
 [^69]: Al-Musawi, Al-Nass wal Ijtihad, p. 234.
 
-

@@ -74,4 +74,3 @@ three strikes [no more]. The beating must be done in a gentle manner
 such that it does not cause redness on the body, otherwise *diyah* will
 be obligatory. (FM, pp. 433-34)
 
-

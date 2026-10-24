@@ -35,4 +35,3 @@ al-Imaamah; Mikyaal al-Makaarem, vol.1, p.101 & 247; E'qd al-Dorar,p.
 
 [^6]: (Al-Kharaaej, vol. 2, p. 931)
 
-

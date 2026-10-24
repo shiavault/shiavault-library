@@ -11,4 +11,3 @@ that he lived near my house.
  I went running to his house, and informed the people.  
  Ahmad said “Bravo! What a good job that was which you did”.
 
-

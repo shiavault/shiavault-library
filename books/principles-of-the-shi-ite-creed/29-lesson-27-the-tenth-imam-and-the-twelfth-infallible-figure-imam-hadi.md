@@ -50,4 +50,3 @@ themselves).[^3]
 
 [^3]: Tuhaf al-‘Uqul, p. 483.
 
-

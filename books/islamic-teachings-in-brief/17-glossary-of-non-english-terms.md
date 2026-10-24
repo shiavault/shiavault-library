@@ -436,4 +436,3 @@ performed by someone
 
 *zuhr* noon
 
-

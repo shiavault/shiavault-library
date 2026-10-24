@@ -3,22 +3,14 @@
 
 Allah, the Wise, says:
 
-<blockquote dir="rtl">
-  <p>
-رَضِيَ اللهُ عَنْهُمْ وَ رَضُوا عَنهُ
-  </p>
-</blockquote>
+> رَضِيَ اللهُ عَنْهُمْ وَ رَضُوا عَنهُ
 
 *“Allah is well-pleased with them and they are well-pleased with
 Him.”*[^1]
 
 Imam Sajjad (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-أََلصَّبْرُ وَ الرِّضاَ رَأْسُ طاَعِةِ اللهِ
-  </p>
-</blockquote>
+> أََلصَّبْرُ وَ الرِّضاَ رَأْسُ طاَعِةِ اللهِ
 
 *“Patience and pleasure (over Divine acts) constitute the pinnacle of
 Allah's obedience.”*[^2]
@@ -206,5 +198,4 @@ pg. 208
 pg. 524
 
 [^9]: Namunah-e-Ma’arif, vol. 5, pg. 373; Shaytan, vol. 1, pg. 524
-
 

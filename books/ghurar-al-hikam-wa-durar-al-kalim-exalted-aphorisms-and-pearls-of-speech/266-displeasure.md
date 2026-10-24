@@ -38,11 +38,6 @@ disobedience nothing can destroy you, and aside from whose mercy nothing
 can accommodate you; and turn to Him and trust in Him.
 
 > 7ـ تَوَقَّ سَخَطَ مَنْ لايُنْجيكَ إلاَّ طاعَتُهُ، ولايُرْديكَ إلاّ
-<blockquote dir="rtl">
-  <p>
-مَعْصِيَتُهُ، وَلايَسَعُكَ إلاّ رَحْمَتُهُ، والْتَجِئْ إلَيْهِ،
-وتَوَكَّلْ عَلَيْهِ.
-  </p>
-</blockquote>
-
+> مَعْصِيَتُهُ، وَلايَسَعُكَ إلاّ رَحْمَتُهُ، والْتَجِئْ إلَيْهِ،
+> وتَوَكَّلْ عَلَيْهِ.
 

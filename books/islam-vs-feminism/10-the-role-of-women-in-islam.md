@@ -73,4 +73,3 @@ Muslim women and men take on the roles of mothers and fathers and wives
 and husbands, buyers and sellers, teachers and pupils, workers and
 employers, etc.
 
-

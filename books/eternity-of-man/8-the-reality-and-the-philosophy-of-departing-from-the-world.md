@@ -99,11 +99,7 @@ the above question is expressed in this manner, we must say that
 according to the Qur’anic verse, Allah created the heavens and the
 creations so that they recognize Allah and worship Him:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاَّ لِيَعْبُدُونِي
-  </p>
-</blockquote>
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلاَّ لِيَعْبُدُونِي
 
 ***“And I have not created the jinn and the men except***  
 ***that they worship me.”*** [^2]
@@ -129,12 +125,8 @@ creations towards perfection. Such changes or the ups and downs must be
 present, in the light of which, people can be tested, and the pure are
 separated from the unpure. This is what, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
-أَحْسَنُ عَمَلًا وَهُوَ الْعَزِيزُ الْغَفُورُ
-  </p>
-</blockquote>
+> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ
+> أَحْسَنُ عَمَلًا وَهُوَ الْعَزِيزُ الْغَفُورُ
 
 ***“Who created death and life that He may try you - which of you is
 best in deeds; and He is Mighty and Forgiving.”*** [^3]
@@ -179,12 +171,8 @@ the verses.
 The Holy Qur’an, in the last verse of the Surah Kahf, has expressed
 death as a meeting with Allah and says:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ كَانَ يَرْجُوا لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا
-وَلاَ يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا
-  </p>
-</blockquote>
+> فَمَنْ كَانَ يَرْجُوا لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا
+> وَلاَ يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا
 
 ***“So whoever desires to meet his Lord, he should do good deeds and not
 associate anyone in the worship of his Lord.”***[^4]
@@ -197,11 +185,7 @@ philosophers, regarding the manner of the creation of the entities (and
 amongst them, man) by Allah and after then, their return towards Allah,
 have subtle, profound and interesting theories. The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ
-  </p>
-</blockquote>
+> إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ
 
 ***“Verily, we are Allah's and verily to Him shall we return.”***[^5]
 
@@ -214,12 +198,8 @@ is that the angels commissioned to take the soul, seize the entire
 personality of man at the time of death, and remove it from the
 captivity of the body. They, then carry it to the Divine Presence:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
-إِلَى رَبِّكُمْ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ
+> إِلَى رَبِّكُمْ تُرْجَعُونَ
 
 ***“Say: the Angel of Death who is given charge of you shall cause you
 to die, then to your Lord you shall be brought back.”***[^6]
@@ -238,12 +218,8 @@ world, shall cross and reach their goal, which is the other world. For
 example, Imam Husayn (’a) on the day of ‘Ashura, speaking to his loyal
 companions said:
 
-<blockquote dir="rtl">
-  <p>
-صبراً بنى الكرام فما الموت الاقنطرة تعبُربكم عن البؤس و الضرَاء الى
-الجنان الواسعه
-  </p>
-</blockquote>
+> صبراً بنى الكرام فما الموت الاقنطرة تعبُربكم عن البؤس و الضرَاء الى
+> الجنان الواسعه
 
 “Remain firm, O sons of noble people, because death is just a bridge
 which will cross you and transfer you from discomforts and troubles,
@@ -278,13 +254,9 @@ death too, a weak connection does exist for a certain period.
 Another point is that the coming out of the soul at the time of death
 continues up to the Universal Resurrection. This tradition says:
 
-<blockquote dir="rtl">
-  <p>
-قيل لعليّ بن الحسين (عليه السلام) ما الموت؟ قال للمؤمن كنزع ثياب و سخة
-قمله و فكّ قيود و اغلال ثقيله و الاستبدال بافخر الثيات و اطيبها روائح
-و اوطىء المراكب و آنس المنازل و للكافر كخلع ثياب فاخره…
-  </p>
-</blockquote>
+> قيل لعليّ بن الحسين (عليه السلام) ما الموت؟ قال للمؤمن كنزع ثياب و سخة
+> قمله و فكّ قيود و اغلال ثقيله و الاستبدال بافخر الثيات و اطيبها روائح
+> و اوطىء المراكب و آنس المنازل و للكافر كخلع ثياب فاخره…
 
 “Imam Muhammad Baqir (a’) was questioned as to what is death? The Imam
 (‘a) replied “ Death is the very same sleep that comes to you every
@@ -316,5 +288,4 @@ a consequence of recognition
 [^8]: Ma'anil Akhbar, Pg. 289
 
 [^9]: Ma'anil Akhbar, Pg. 289
-
 

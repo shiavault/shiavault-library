@@ -12,4 +12,3 @@ battles. They won the two battles. Then Yazeed bin Anas died. His death
 affected his soldiers spirits. They were afraid of the Umayyads' big
 Army. Thus, they decided to come back to Kufa.
 
-

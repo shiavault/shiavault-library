@@ -517,4 +517,3 @@ ignorant and irrational boastings:
 Abundance diverts you, until you come to the graves, Nay! You shall
 soon know. (102:1-3)
 
-

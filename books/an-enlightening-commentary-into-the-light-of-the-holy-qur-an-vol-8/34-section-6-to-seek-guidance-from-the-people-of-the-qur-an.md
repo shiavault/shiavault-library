@@ -4,13 +4,9 @@ Section 6: To Seek Guidance from the People of the Qur’an
 Surah An-Nahl – Verse 41
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ هَاجَرُوا فِي اللَّهِ مِن بَعْدِ مَا ظُلِمُوا
-لَنُبَوِّئَنَّهُم فِي الدُّنْيَا حَسَنَةً وَلاَجْرُ الاَخِرَةِ
-أَكْبَرُ لَوْ كَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ هَاجَرُوا فِي اللَّهِ مِن بَعْدِ مَا ظُلِمُوا
+> لَنُبَوِّئَنَّهُم فِي الدُّنْيَا حَسَنَةً وَلاَجْرُ الاَخِرَةِ
+> أَكْبَرُ لَوْ كَانُوا يَعْلَمُونَ
 
 ***41. “And those who migrated in Allah’s cause after they had been
 oppressed, undoubtedly We will give them a good abode in this world, and
@@ -70,11 +66,7 @@ benefit most.
 Surah An-Nahl – Verse 42
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ صَبَرُوا وَعَلَي رَبّـِهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> الَّذِينَ صَبَرُوا وَعَلَي رَبّـِهِمْ يَتَوَكَّلُونَ
 
 ***42. “Those who endured patiently and on their Lord did they rely.”***
 
@@ -123,12 +115,8 @@ Him and obeys Him.”* [^6]
 Surah An-Nahl – Verse 43
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُوحِي إِلَيْهِمْ
-فَسْأَلُوا أَهْلَ الذّ‌ِكْرِ إِن كُنتُم لاَ تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً نُوحِي إِلَيْهِمْ
+> فَسْأَلُوا أَهْلَ الذّ‌ِكْرِ إِن كُنتُم لاَ تَعْلَمُونَ
 
 ***43. “And We did not send before you except men unto whom We revealed;
 So ask the people of ‘Thikr’ (the Qur’an) if you do not know,”***
@@ -213,13 +201,9 @@ knowledge of Islam.
 Surah An-Nahl – Verse 44
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِالْبَيّـِنَاتِ وَالزُّبُرِ وَأَنزَلْنَآ إِلَيْكَ الذّ‌ِكْرَ
-لِتُبَيّـِنَ لِلنَّاسِ مَا نُزّ‌ِلَ إِلَيْهِمْ وَلَعَلَّهُمْ
-يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> بِالْبَيّـِنَاتِ وَالزُّبُرِ وَأَنزَلْنَآ إِلَيْكَ الذّ‌ِكْرَ
+> لِتُبَيّـِنَ لِلنَّاسِ مَا نُزّ‌ِلَ إِلَيْهِمْ وَلَعَلَّهُمْ
+> يَتَفَكَّرُونَ
 
 ***44. “(We sent the prophets before you) with clear proofs (miracles)
 and (celestial) Books and We sent down to you the ‘Thikr’ (the Reminder,
@@ -286,25 +270,13 @@ behavior.
 Surah An-Nahl – Verses 45 - 47
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَفَاَمِنَ الَّذِينَ مَكَرُوا السَّيّـِئَاتِ أَن يَخْسِفَ اللَّهُ
-بِهِمُ الاَرْضَ أَوْ يَأْتِيَهُمُ الْعَذَابُ مِنْ حَيْثُ لاَ
-يَشْعُرُونَ
-  </p>
-</blockquote>
+> أَفَاَمِنَ الَّذِينَ مَكَرُوا السَّيّـِئَاتِ أَن يَخْسِفَ اللَّهُ
+> بِهِمُ الاَرْضَ أَوْ يَأْتِيَهُمُ الْعَذَابُ مِنْ حَيْثُ لاَ
+> يَشْعُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ يَأْخُذَهُمْ فِي تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ
-  </p>
-</blockquote>
+> أَوْ يَأْخُذَهُمْ فِي تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ يَأْخُذَهُمْ عَلَي تَخَوُّفٍ فإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ
-  </p>
-</blockquote>
+> أَوْ يَأْخُذَهُمْ عَلَي تَخَوُّفٍ فإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ
 
 ***45. “Do then those who devise evil (plots) feel secure (of this) that
 Allah will not cause the earth to swallow them up, or that the wrath
@@ -391,13 +363,9 @@ Lord is certainly compassionate and Merciful.”***
 Surah An-Nahl – Verse 48
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَ لَم يَرَوْا إِلَي مَا خَلَقَ اللَّهُ مِن شَيْءٍ يَتَفَيَّؤُا
-ظِلاَلُهُ عَنِ الْيَـمِينِ وَالشَّمَآئِلِ سُجَّداً لِلَّهِ وَهُمْ
-دَاخِرُونَ
-  </p>
-</blockquote>
+> أَوَ لَم يَرَوْا إِلَي مَا خَلَقَ اللَّهُ مِن شَيْءٍ يَتَفَيَّؤُا
+> ظِلاَلُهُ عَنِ الْيَـمِينِ وَالشَّمَآئِلِ سُجَّداً لِلَّهِ وَهُمْ
+> دَاخِرُونَ
 
 ***48. “Have they not seen all things that Allah has created the shadows
 of which spread from right and left, prostrating (before Allah) while
@@ -455,12 +423,8 @@ before Him.
 Surah An-Nahl – Verse 49
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الاَرْضِ مِن
-دَآبَّةٍ وَالْمَلآَئِكَةُ وَهُمْ لاَ يَسْتَكْبِرُونَ
-  </p>
-</blockquote>
+> وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الاَرْضِ مِن
+> دَآبَّةٍ وَالْمَلآَئِكَةُ وَهُمْ لاَ يَسْتَكْبِرُونَ
 
 ***49. “And whatever is in the skies and whatever is in the earth,
 whether (moving) creatures and angels, prostrate before Allah (only) and
@@ -503,11 +467,7 @@ before Allah.
 Surah An-Nahl – Verse 50
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَخَافُونَ رَبَّهُم مّـِن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ
-  </p>
-</blockquote>
+> يَخَافُونَ رَبَّهُم مّـِن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ
 
 ***50. “They fear their Lord (supreme) from above them, and they do what
 they are commanded.”***
@@ -554,5 +514,4 @@ Him and go on oppressing others?
 [^6]: Majmū‘ah Warram, vol. 3, p. 288
 
 [^7]: Tafsir-i-Burhan
-
 

@@ -632,4 +632,3 @@ prayer [salah]. [Trans.]
 [^4]: Members of NAFTA are the United States of America, Canada and
 Mexico.
 
-

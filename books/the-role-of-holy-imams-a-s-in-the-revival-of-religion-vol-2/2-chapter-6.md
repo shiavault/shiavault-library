@@ -182,12 +182,8 @@ such:
 
 The Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-المهدي منا: محمد بن عبد الله و أمّه من غيرنا يملأها عدلاً كما ملئت
-جورا
-  </p>
-</blockquote>
+> المهدي منا: محمد بن عبد الله و أمّه من غيرنا يملأها عدلاً كما ملئت
+> جورا
 
 «Mahdi is from us and he is Muhammad, the son of Abdullah but his mother
 is not from our family. He will fill the earth with justice just as it
@@ -234,12 +230,8 @@ as the Promised Mahdi of the nation. Anyhow, in order to attract the
 satisfaction of the Caliph and diminish his annoyance, Atab-ibn-Ibrahim
 narrated a tradition as follows:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا فلان، عن فلان، عن أبي هريرة، أن النبي (ص) قال: لا سبق إلا في خف
-أو نعل أو حافر
-  </p>
-</blockquote>
+> حدثنا فلان، عن فلان، عن أبي هريرة، أن النبي (ص) قال: لا سبق إلا في خف
+> أو نعل أو حافر
 
 So and so a person narrated for me a tradition from Abu Huraira that the
 Holy Prophet (S) said:
@@ -655,11 +647,7 @@ narrated it from Amro-ibn-Murrat who has narrated from Sa'eed-ibn-Jubair
 who in turn has narrated from Ibn-Abbass. In this tradition, Ibn-Abbass
 recites the verse as such:
 
-<blockquote dir="rtl">
-  <p>
-وأنذر عشيرتك الاقربين و رهطك منهم المخلصين
-  </p>
-</blockquote>
+> وأنذر عشيرتك الاقربين و رهطك منهم المخلصين
 
 and says: «When this verse was revealed, the Holy Prophet came out and
 climbed the mountain of 'Safa' and cried out in a warning tone. The
@@ -671,32 +659,20 @@ you that your enemies are hiding behind this mountain and intend to
 attack you, will you accept my words? They said: We have never heard you
 utter a lie throughout our lives. The Holy Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إني نذير لكم بين يدي عذاب شديد
-  </p>
-</blockquote>
+> إني نذير لكم بين يدي عذاب شديد
 
 'I warn you (all) of the severe chastisement which lies ahead'.
 
 Abu-Lahab said:
 
-<blockquote dir="rtl">
-  <p>
-تباً لك ألهذا جمعتنا
-  </p>
-</blockquote>
+> تباً لك ألهذا جمعتنا
 
 'May death befall you; have you gathered us over here (only) for this
 talk?!
 
 It was in this connection that the verse,
 
-<blockquote dir="rtl">
-  <p>
-تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
-  </p>
-</blockquote>
+> تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
 
 ***(May the hands of Abu Lahab be ruined, and ruined is he. Holy Quran,
 111:1)***
@@ -1072,11 +1048,7 @@ following two notifications and have made a hell of a story out of it:
 
 (A) the announcement related to the revelation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
-  </p>
-</blockquote>
+> وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
 
 ***And warn, [O Muhammad], your closest kindred. (Holy Quran, 26:
 214)***
@@ -1124,11 +1096,7 @@ Amir-ul-Mumineen (a.s.) have been reversed.
 The first tradition is a well-known tradition about the virtues of Imam
 Amir- ul-Mumineen: In this tradition, the Holy Prophet says:-
 
-<blockquote dir="rtl">
-  <p>
-أنا مدينة العلم وعلي بابها ، فمن أراد العلم فليأت الباب
-  </p>
-</blockquote>
+> أنا مدينة العلم وعلي بابها ، فمن أراد العلم فليأت الباب
 
 «I am the city of Knowledge and Ali is its gate. So, anyone who wishes
 to enter this city must (first) pass through its gate.» [^40]
@@ -1256,12 +1224,8 @@ Urwah-ibn-Zubair from the disciples of the companions.
 Muhammad-ibn-Shahab Zuhri narrates that Urwah-ibn-Zubair related to him
 a tradition from Ayesha where she says:
 
-<blockquote dir="rtl">
-  <p>
-كنت عند رسول الله إذ أقبل العباس و علي فقال: يا عائشة إن هذين يموتان
-على غير ملتي- أو قال ديني
-  </p>
-</blockquote>
+> كنت عند رسول الله إذ أقبل العباس و علي فقال: يا عائشة إن هذين يموتان
+> على غير ملتي- أو قال ديني
 
 «I was in the presence of the Holy Prophet when Abbass and Ali could be
 seen approaching us from a far distance. The Holy Prophet said: 'O
@@ -1283,13 +1247,9 @@ and lies).
 The second tradition which has been narrated from Ayesha through Urwah
 is as follows:
 
-<blockquote dir="rtl">
-  <p>
-قالت: كنت عند النبي صلى الله عليه و آله إذ أقبل العباس و علي فقال: يا
-عائشة! إن سرك أن تنظري إلى رجلين من أهل النار فانظري الى هذين قد طلعا
-فنظرت فأذا العباس و علي
-  </p>
-</blockquote>
+> قالت: كنت عند النبي صلى الله عليه و آله إذ أقبل العباس و علي فقال: يا
+> عائشة! إن سرك أن تنظري إلى رجلين من أهل النار فانظري الى هذين قد طلعا
+> فنظرت فأذا العباس و علي
 
 She says: I was in the presence of the Prophet when Abbass and Ali came.
 The Holy Prophet said: 'O Ayesha, if you wish to see two men of the Fire
@@ -1416,11 +1376,7 @@ of this tradition taken right from 'Sahih Bukhari' and 'Muslim' till
 'Musnad Ahmad' and 'Abi Awani' the tradition has come down in this
 manner:
 
-<blockquote dir="rtl">
-  <p>
-إن آل أبي فلان ليسوا بأوليائي...
-  </p>
-</blockquote>
+> إن آل أبي فلان ليسوا بأوليائي...
 
 The progeny of Abi so and so are not my friends., However, in the
 commentary of Sahih Bukhari which has been written by one of the
@@ -1602,12 +1558,8 @@ speech has mooted the story of Samur-ibn-Jundab. He says: «Muawiya sent
 a hundred thousand dirhams for Samur so that he would narrate a
 tradition from the Holy Prophet that the verse,:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا
-وَيُشْهِدُ اللّهَ عَلَى مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا
+> وَيُشْهِدُ اللّهَ عَلَى مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ
 
 meaning:
 
@@ -1618,12 +1570,8 @@ heart, yet he is the most violent of adversaries.» (Holy Quran, 2:
 
 > وَإِذَا تَوَلَّى سَعَى فِي الأَرْضِ لِيُفْسِدَ فِيِهَا وَيُهْلِكَ
 > الْحَرْثَ وَالنَّسْلَ وَاللّهُ لاَ يُحِبُّ الفَسَادَ{205} وَإِذَا
-<blockquote dir="rtl">
-  <p>
-قِيلَ لَهُ اتَّقِ اللّهَ أَخَذَتْهُ الْعِزَّةُ بِالإِثْمِ فَحَسْبُهُ
-جَهَنَّمُ وَلَبِئْسَ الْمِهَادُ
-  </p>
-</blockquote>
+> قِيلَ لَهُ اتَّقِ اللّهَ أَخَذَتْهُ الْعِزَّةُ بِالإِثْمِ فَحَسْبُهُ
+> جَهَنَّمُ وَلَبِئْسَ الْمِهَادُ
 
 «***And when he turns back, he runs along in the land that he may cause
 mischief in it and destroy the tilth and the stock, and Allah does not
@@ -1633,12 +1581,8 @@ was revealed in connection to Amir-ul-Mumineen Ali (a.s.) and hence is
 counted to be amongst the enemies of the divine religion. Similarly, the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنَ النَّاسِ مَن يَشْرِي نَفْسَهُ ابْتِغَاء مَرْضَاتِ اللّهِ
-وَاللّهُ رَؤُوفٌ بِالْعِبَادِ
-  </p>
-</blockquote>
+> وَمِنَ النَّاسِ مَن يَشْرِي نَفْسَهُ ابْتِغَاء مَرْضَاتِ اللّهِ
+> وَاللّهُ رَؤُوفٌ بِالْعِبَادِ
 
 ***«And among men is he who sells himself to seek the pleasure of
 Allah***”, ***(Holy Quran, 2: 207)***
@@ -1751,11 +1695,7 @@ those seeking the truth!
 In order to realize the truth, we have first of all to know the
 falsehood and abandon it and it is very well said:
 
-<blockquote dir="rtl">
-  <p>
-تعرف الاشياء باضدادها
-  </p>
-</blockquote>
+> تعرف الاشياء باضدادها
 
 «Everything is recognizable through its opposite». If night did not
 exist, day could not be recognized. If there was not darkness, then
@@ -2126,11 +2066,7 @@ revealed the verse of tayammum. [^80]
 Similarly, Ibn Munzar and Ibn Abi Hatim narrate from Mujahid that in
 explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كُنتُم مَّرْضَى أَوْ عَلَى سَفَرٍ
-  </p>
-</blockquote>
+> وَإِن كُنتُم مَّرْضَى أَوْ عَلَى سَفَرٍ
 
 ***And if you are ill or on a journey. (Holy Quran, 4: 43) ***
 
@@ -2149,11 +2085,7 @@ experienced wet dreams. This was reported to the Holy Prophet.
 
 Thereafter the blessed verse: ....
 
-<blockquote dir="rtl">
-  <p>
-وَإِن كُنتُم مَّرْضَى أَوْ عَلَى سَفَرٍ ....
-  </p>
-</blockquote>
+> وَإِن كُنتُم مَّرْضَى أَوْ عَلَى سَفَرٍ ....
 
 ***And if you are ill or on a journey… (Holy Quran, 4: 43) ***
 
@@ -2196,17 +2128,13 @@ substitution to them.
 
 In Surah Nisa:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
-سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ وَلاَ جُنُباً إِلاَّ
-عَابِرِي سَبِيلٍ حَتَّىَ تَغْتَسِلُواْ وَإِن كُنتُم مَّرْضَى أَوْ
-عَلَى سَفَرٍ أَوْ جَاء أَحَدٌ مِّنكُم مِّن الْغَآئِطِ أَوْ لاَمَسْتُمُ
-النِّسَاء فَلَمْ تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيداً طَيِّباً
-فَامْسَحُواْ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ اللّهَ كَانَ عَفُوّاً
-غَفُوراً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ الصَّلاَةَ وَأَنتُمْ
+> سُكَارَى حَتَّىَ تَعْلَمُواْ مَا تَقُولُونَ وَلاَ جُنُباً إِلاَّ
+> عَابِرِي سَبِيلٍ حَتَّىَ تَغْتَسِلُواْ وَإِن كُنتُم مَّرْضَى أَوْ
+> عَلَى سَفَرٍ أَوْ جَاء أَحَدٌ مِّنكُم مِّن الْغَآئِطِ أَوْ لاَمَسْتُمُ
+> النِّسَاء فَلَمْ تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيداً طَيِّباً
+> فَامْسَحُواْ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ اللّهَ كَانَ عَفُوّاً
+> غَفُوراً
 
 ***O you who believe! do not go near prayer when you are intoxicated
 until you know (well) what you say, nor when you are under an obligation
@@ -2219,17 +2147,13 @@ wipe your faces and your hands; surely Allah is Pardoning, Forgiving.
 
 In Surah Maeda:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا قُمْتُمْ إِلَى الصَّلاةِ
-فاغْسِلُواْ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُواْ
-بِرُؤُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَينِ وَإِن كُنتُمْ جُنُباً
-فَاطَّهَّرُواْ وَإِن كُنتُم مَّرْضَى أَوْ عَلَى سَفَرٍ أَوْ جَاء
-أَحَدٌ مَّنكُم مِّنَ الْغَائِطِ أَوْ لاَمَسْتُمُ النِّسَاء فَلَمْ
-تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيداً طَيِّباً فَامْسَحُواْ
-بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ …
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا قُمْتُمْ إِلَى الصَّلاةِ
+> فاغْسِلُواْ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُواْ
+> بِرُؤُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَينِ وَإِن كُنتُمْ جُنُباً
+> فَاطَّهَّرُواْ وَإِن كُنتُم مَّرْضَى أَوْ عَلَى سَفَرٍ أَوْ جَاء
+> أَحَدٌ مَّنكُم مِّنَ الْغَائِطِ أَوْ لاَمَسْتُمُ النِّسَاء فَلَمْ
+> تَجِدُواْ مَاء فَتَيَمَّمُواْ صَعِيداً طَيِّباً فَامْسَحُواْ
+> بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ …
 
 ***O you who believe! When you rise up to prayer, wash your faces and
 your hands up to the elbows, and wipe your heads and your feet to the
@@ -2454,11 +2378,7 @@ In short, keeping aloof from the knowledge of the Imams (Ahlul Bayt) and
 their followers has become the most important factor in the distortion
 of Islam in the writings of all the western and eastern Islamicists.
 
-<blockquote dir="rtl">
-  <p>
-والحق أحق أن يتبّع
-  </p>
-</blockquote>
+> والحق أحق أن يتبّع
 
 In analysing and describing the factors which were responsible for the
 distoration of Islam by the hands of the powerful ones of past history,
@@ -2504,11 +2424,7 @@ he inquired: «Who is this man around whom the people have gathered?» It
 was replied: «He is an «Allama» i.e. (the most learned scholar)!» The
 Holy Prophet asked: «What is an «Allama»?» They said:
 
-<blockquote dir="rtl">
-  <p>
-اعلم الناس بأنساب العرب و قليعها و أيام الجاهلية و الاشعار العربية
-  </p>
-</blockquote>
+> اعلم الناس بأنساب العرب و قليعها و أيام الجاهلية و الاشعار العربية
 
 'He is most learned of all men in the genealogies of the Arabs and their
 historical events, the wars during the period of ignorancy and the poems
@@ -2617,27 +2533,15 @@ tradition to mention accurately and lucidly the narrator of the
 tradition and the successive chain of its transmitters. For example, he
 says:
 
-<blockquote dir="rtl">
-  <p>
-حدثني سعيد ين جبير قال: حدثني عبد الله بن عباس قال: قال رسول الله
-  </p>
-</blockquote>
+> حدثني سعيد ين جبير قال: حدثني عبد الله بن عباس قال: قال رسول الله
 
 Or says:
 
-<blockquote dir="rtl">
-  <p>
-حدثني سويد بن غفلة عن علي بن أبي طالب عن رسول الله صلى الله عليه وآله
-  </p>
-</blockquote>
+> حدثني سويد بن غفلة عن علي بن أبي طالب عن رسول الله صلى الله عليه وآله
 
 Or says:
 
-<blockquote dir="rtl">
-  <p>
-حدثني سويد بن غفلة عن علي بن أبي طالب عن النبي صلى الله عليه وآله
-  </p>
-</blockquote>
+> حدثني سويد بن غفلة عن علي بن أبي طالب عن النبي صلى الله عليه وآله
 
 i.e. so and so a person narrated to me from so and so a person and he
 from Ali-ibn-Abi Talib (a.s.) and he from the Messenger of Allah (S).
@@ -2649,20 +2553,12 @@ events which have been narrated in the Holy Quran, it is needless to
 narrate their chain of transmitters. The Quran itself is the chain of
 transmitters of these events. The holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ
-  </p>
-</blockquote>
+> نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ
 
 ***We narrate to you, [O Muhammad], the best of stories***… ***(Holy
 Qur’an 12:3)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَـذَا لَهُوَ الْقَصَصُ الْحَقُّ
-  </p>
-</blockquote>
+> إِنَّ هَـذَا لَهُوَ الْقَصَصُ الْحَقُّ
 
 ***Indeed, this is the true narration…  (Holy Qur’an 3:62)***
 
@@ -2753,17 +2649,13 @@ about it, he said: Yes, it is the truth. But, we had bought it from that
 Sahami man and we forgot to reveal this matter to you at that time. At
 this very moment, the verse 106 and 107 from Sura Maeda was revealed:
 
-<blockquote dir="rtl">
-  <p>
-يِا أَيُّهَا الَّذِينَ آمَنُواْ شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ
-أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ
-أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِي الأَرْضِ
-فَأَصَابَتْكُم مُّصِيبَةُ الْمَوْتِ تَحْبِسُونَهُمَا مِن بَعْدِ
-الصَّلاَةِ فَيُقْسِمَانِ بِاللّهِ إِنِ ارْتَبْتُمْ لاَ نَشْتَرِي بِهِ
-ثَمَناً وَلَوْ كَانَ ذَا قُرْبَى وَلاَ نَكْتُمُ شَهَادَةَ اللّهِ
-إِنَّا إِذاً لَّمِنَ الآثِمِينَ
-  </p>
-</blockquote>
+> يِا أَيُّهَا الَّذِينَ آمَنُواْ شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ
+> أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ
+> أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِي الأَرْضِ
+> فَأَصَابَتْكُم مُّصِيبَةُ الْمَوْتِ تَحْبِسُونَهُمَا مِن بَعْدِ
+> الصَّلاَةِ فَيُقْسِمَانِ بِاللّهِ إِنِ ارْتَبْتُمْ لاَ نَشْتَرِي بِهِ
+> ثَمَناً وَلَوْ كَانَ ذَا قُرْبَى وَلاَ نَكْتُمُ شَهَادَةَ اللّهِ
+> إِنَّا إِذاً لَّمِنَ الآثِمِينَ
 
 ***«O you who believe! call to witness between you when death draws nigh
 to one of you, at the time of making the will, two just persons from
@@ -2775,14 +2667,10 @@ for it a price, though there be a relative, and we will not hide the
 testimony of Allah for then certainly we should be among the sinners.»
 (Holy Quran, 5: 106)***
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ عُثِرَ عَلَى أَنَّهُمَا اسْتَحَقَّا إِثْماً فَآخَرَانِ
-يِقُومَانُ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ
-الأَوْلَيَانِ فَيُقْسِمَانِ بِاللّهِ لَشَهَادَتُنَا أَحَقُّ مِن
-شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذاً لَّمِنَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَإِنْ عُثِرَ عَلَى أَنَّهُمَا اسْتَحَقَّا إِثْماً فَآخَرَانِ
+> يِقُومَانُ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ
+> الأَوْلَيَانِ فَيُقْسِمَانِ بِاللّهِ لَشَهَادَتُنَا أَحَقُّ مِن
+> شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذاً لَّمِنَ الظَّالِمِينَ
 
 ***«Then if it becomes known that they both have been guilty of a sin,
 two others shall stand up in their place from among those who have a
@@ -3102,12 +2990,8 @@ besides him». I said: «You need not do this work as your servants and
 slaves are present! Is there not anyone amongst them to perform this
 task?» Tamim said: 'Yes. But I have heard the Holy Prophet saying:
 
-<blockquote dir="rtl">
-  <p>
-ما من إمريء مسلم ينقى لفرسه شعيراً ثم يعلقه عليه إلا كتب له بكل حبة
-حسنة
-  </p>
-</blockquote>
+> ما من إمريء مسلم ينقى لفرسه شعيراً ثم يعلقه عليه إلا كتب له بكل حبة
+> حسنة
 
 “Any Muslim who cleans barley for his horse and (then) hangs it around
 her neck to be fed a goodness is written for him to the extent of the
@@ -3337,11 +3221,7 @@ and «Tarikh» (history).
 
 Ibn Asaker in his «Tarish» narrates from Kab al-Ahbar as follows:
 
-<blockquote dir="rtl">
-  <p>
-أحب البلاد الى الله الشام و أحب الشام إلى الله القدس
-  </p>
-</blockquote>
+> أحب البلاد الى الله الشام و أحب الشام إلى الله القدس
 
 “The most beloved land on earth before God is the land of Syria and the
 most beloved spot in Syria before God is Qods. [^117]”
@@ -3351,11 +3231,7 @@ even Mecca and Medina.
 
 Also, he has said:
 
-<blockquote dir="rtl">
-  <p>
-تسعة أعشار الخير بالشام وجزئه في سائر الارضين
-  </p>
-</blockquote>
+> تسعة أعشار الخير بالشام وجزئه في سائر الارضين
 
 “God has placed nine tenth (9/10) of the goodness and blessing in the
 land of Syria and distributed only a part of the remaining over the
@@ -3363,11 +3239,7 @@ entire earth.” [^118]
 
 Also, he has said:
 
-<blockquote dir="rtl">
-  <p>
-خمس مدائن من مدن الجنة: بيت المقدس و حمص و دمشق و جبرين و ظفار اليمن
-  </p>
-</blockquote>
+> خمس مدائن من مدن الجنة: بيت المقدس و حمص و دمشق و جبرين و ظفار اليمن
 
 «There are five cities from the cities of Paradise: Bait-ul-Muqaddas,
 Hums, Damascus, Jabreen (a flourinshing place near Bait-ul-Muqaddas) and
@@ -3376,16 +3248,12 @@ Medina and then Syria). [^119]
 
 Also, he has said:
 
-<blockquote dir="rtl">
-  <p>
-أربعة أجبل : جبل الخليل ، ولبنان ، والطور ، والجودي ، يكون كل واحد
-منهم يوم القيامة لؤلؤة بيضاء تضيء ما بين السماء والأرض ، يرجعن إِلَى
-بيت المقدس حتى تجعل فِي زواياه ويضع الجبار جل جلاله عليها كرسيه حتى
-يقضي بين أهل الجنة والنار وَتَرَى الْمَلائِكَةَ حَافِّينَ مِنْ حَوْلِ
-الْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِيَ بَيْنَهُمْ
-بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> أربعة أجبل : جبل الخليل ، ولبنان ، والطور ، والجودي ، يكون كل واحد
+> منهم يوم القيامة لؤلؤة بيضاء تضيء ما بين السماء والأرض ، يرجعن إِلَى
+> بيت المقدس حتى تجعل فِي زواياه ويضع الجبار جل جلاله عليها كرسيه حتى
+> يقضي بين أهل الجنة والنار وَتَرَى الْمَلائِكَةَ حَافِّينَ مِنْ حَوْلِ
+> الْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِيَ بَيْنَهُمْ
+> بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
 
 «On the Day of Judgement, foul mountains namely Jabal al-Khalil which is
 situated near Bait-ul-Muqaddas and on which is placed the grave of
@@ -3435,11 +3303,7 @@ and the place of refuge from God and Magog is the mountain of Tur.
 
 In another tradition, Kab says:
 
-<blockquote dir="rtl">
-  <p>
-إن الكعبة تسجد لبيت المقدس في كل غداة
-  </p>
-</blockquote>
+> إن الكعبة تسجد لبيت المقدس في كل غداة
 
 «Every morning, the Ka'aba (the holy House of God) prostrates before
 Bait -ul-Muqaddas. [^124]
@@ -3483,11 +3347,7 @@ Amongst Kab's students, we may mention the name of Abdullah-ibn-Amro-
 ibn-Aas. Once Kab asked him a question and Abdullah responded correctly.
 Kab then said:
 
-<blockquote dir="rtl">
-  <p>
-أنت افقه العرب
-  </p>
-</blockquote>
+> أنت افقه العرب
 
 «You are more learned and knowledgeable than all the Arabs.»
 
@@ -3521,11 +3381,7 @@ Abu-Huraira too, Kab al-Ahbar strived to make him earn fame and
 credibility. Once Kab, after having conversed with Abu-Huraira in length
 said about him as such:
 
-<blockquote dir="rtl">
-  <p>
-ما رأيت أحداً لم يقرء التوراة أعلم بما فيها من أبي هريرة
-  </p>
-</blockquote>
+> ما رأيت أحداً لم يقرء التوراة أعلم بما فيها من أبي هريرة
 
 «I have not come across any person who has not read the Torah but has
 understood its meanings better than Abu-Huraira. [^130]
@@ -3542,12 +3398,8 @@ the Caliph's attention.
 
 In one of his meetings with Omar-ibn-Khattab, he said:-
 
-<blockquote dir="rtl">
-  <p>
-انا لنجدك في كتاب الله على باب من أبواب جهنم تمنع الناس أن يقعوا فيها
-فإذا مِتّ لم يزالوا يقتحمون فيها الى يوم القيامة
-  </p>
-</blockquote>
+> انا لنجدك في كتاب الله على باب من أبواب جهنم تمنع الناس أن يقعوا فيها
+> فإذا مِتّ لم يزالوا يقتحمون فيها الى يوم القيامة
 
 «We could find your name in the divine Book (of course by divine Book,
 he meant the Torah) wherein is mentioned that you have been placed near
@@ -3566,11 +3418,7 @@ remains any barrier in the way of Hell!
 Similarly, when Omar-ibn-Khattab got killed by the hands of Abu-Lualu,
 Kab said:
 
-<blockquote dir="rtl">
-  <p>
-لئن سأل عمر ربه ليبقينه الله
-  </p>
-</blockquote>
+> لئن سأل عمر ربه ليبقينه الله
 
 “If Omar requests Allah to allow him to remain alive, then certainly
 Allah will grant him a long life.”[^132]
@@ -3586,13 +3434,9 @@ In an authentic book of exegesis of the Caliphate school, Omar-ibn-
 Khattab inquired from Kab the meaning of [عدن] from the following
 verse:-
 
-<blockquote dir="rtl">
-  <p>
-رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُم وَمَن
-صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنتَ
-الْعَزِيزُ الْحَكِيمُ. وَ قِهِمُ السَّيِّئَاتِ...
-  </p>
-</blockquote>
+> رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُم وَمَن
+> صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنتَ
+> الْعَزِيزُ الْحَكِيمُ. وَ قِهِمُ السَّيِّئَاتِ...
 
 ***Our Lord, and admit them to gardens of perpetual residence which You
 have promised them and whoever was righteous among their fathers, their
@@ -3602,11 +3446,7 @@ deeds]… (Holy Quran, 40: 8-9)***
 
 Kab al-Ahbar immediately replied:
 
-<blockquote dir="rtl">
-  <p>
-قصور من ذهب في الجنة يسكنها النبيون و الصّديقون و أئمة العدل
-  </p>
-</blockquote>
+> قصور من ذهب في الجنة يسكنها النبيون و الصّديقون و أئمة العدل
 
 «(It refers to) golden places and mansions in Paradise which are the
 places of residents for the Prophet, the truthful ones and the just
@@ -3661,11 +3501,7 @@ relying on his view.[^137]
 
 In praise of him (i.e. Kab), Muawiya would say:
 
-<blockquote dir="rtl">
-  <p>
-الا ان كعب الاحبار أحد العلماء
-  </p>
-</blockquote>
+> الا ان كعب الاحبار أحد العلماء
 
 «Know that Kab al-Ahbar is one of the scholars».[^138]
 
@@ -3786,11 +3622,7 @@ for the Holy Prophet. Abu-Bakr was present there and was aware of the
 situation. He feared lest a verse in rebuke or chastisement would be
 revealed. Thus he came down harshly upon Omar and said:
 
-<blockquote dir="rtl">
-  <p>
-ثكلتك الثواكل ماترى بوجه رسول الله
-  </p>
-</blockquote>
+> ثكلتك الثواكل ماترى بوجه رسول الله
 
 «May you perish. Don't you see how the colour of the Holy Prophet's face
 has changed due to severity of his anger and discomfort?!?»
@@ -3799,24 +3631,16 @@ It was only at that very moment that Omar lifted his head and looked at
 the Prophet. Observing the severity of anger on his blessed face he
 became terrified and said:
 
-<blockquote dir="rtl">
-  <p>
-أعوذ بالله من غضب الله ورسوله
-  </p>
-</blockquote>
+> أعوذ بالله من غضب الله ورسوله
 
 «I seek refuge in Allah from His wrath and His Messenger's wrath.»!
 
 The Holy Prophet said: 'O the son of Khattab. Do you have doubt,
 uncertainty and confusion in your religion? Then, he added:
 
-<blockquote dir="rtl">
-  <p>
-والذي نفسي بيده لقد جئتكم بها بيضاء نقية! لا تسألوهم عن شيء فإنّهم لن
-يهدوكم وقد ضلّوا... فإنه لو كان موسى حياً بين أظهركم ما حلّ له ألّا
-يتّبعني
-  </p>
-</blockquote>
+> والذي نفسي بيده لقد جئتكم بها بيضاء نقية! لا تسألوهم عن شيء فإنّهم لن
+> يهدوكم وقد ضلّوا... فإنه لو كان موسى حياً بين أظهركم ما حلّ له ألّا
+> يتّبعني
 
 «I swear by the One in whose Hand is my soul that I have brought a
 «Shariat» (religious law) pure and lucid. Then, he said: Do not ask
@@ -3921,12 +3745,8 @@ Islam. This incident is related to the era of Imam Amir-ul-Mumineen's
 reign of government. One day Imam goes on the pulpit and while reciting
 a sermon says:
 
-<blockquote dir="rtl">
-  <p>
-سلوني فوالله لا تسألوني عن شيء يكون الى يوم القيامة إلّا حدثتكم به
-وسلوني عن كتاب الله فوالله ما من آية...
-  </p>
-</blockquote>
+> سلوني فوالله لا تسألوني عن شيء يكون الى يوم القيامة إلّا حدثتكم به
+> وسلوني عن كتاب الله فوالله ما من آية...
 
 «Ask me question. I swear by Allah that you will not ask me anything of
 the events that are to occur till the Day of Judgement except that I
@@ -4482,5 +4302,4 @@ Tarikh-e-Ibne Asaker Vol. 8 Pg. 117-118.
 [^145]: Fath-ul-Bari 10/221; Egyptian print + Tafseer-e-Ibn-Kathir
 4/231; Egyptian print + Kanzul-Ummal 2/357; Indian print +
 Tafseer-e-Tabari 26/116; Egyptian print.
-
 

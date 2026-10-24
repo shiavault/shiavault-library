@@ -83,4 +83,3 @@ humanity and the rest of God’s creation. Other thinkers, such as Mircea
 Eliade, Dom A. Graham and G. D. Yarnold, have voiced the same or a
 similar message.33
 
-

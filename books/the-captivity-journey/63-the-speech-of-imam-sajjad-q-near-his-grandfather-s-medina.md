@@ -68,4 +68,3 @@ what they did to them…
 taking stances, by his (Q) saying: "which heart would not be broken for
 his demise?
 
-

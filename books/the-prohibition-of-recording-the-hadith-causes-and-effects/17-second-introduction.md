@@ -280,4 +280,3 @@ al-Durr al-Manthur 5:229; Ibn Hazm: al-Ihkam fi Usul al-Ahkam 2:253.
 recorded in Sahih Muslim 4:1940 H. 2492; al-Isfahaniy: Dala'il
 al-Nubuwwah 1:86 H. 78; Al-Dhahbiy: Siyar A’lam al-Nubala’ 2:595.
 
-

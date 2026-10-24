@@ -366,4 +366,3 @@ middle east which include, but are not limited to:
 1. Al-Sha'ab newspaper (Egypt), issue of July 7, 1959.
 2. Al-Kifah newspaper (Lebanon), issue of July 8, 1959.
 
-

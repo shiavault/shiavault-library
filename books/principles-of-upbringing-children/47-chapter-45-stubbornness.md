@@ -165,4 +165,3 @@ own failing.
 
 [^5]: Tuhaf al-uqul, p. 80
 
-

@@ -32,4 +32,3 @@ discussed in this short paper. Therefore, I would only deal briefly with
 the most important doubts and provide replies to them. Thereafter we
 shall explain the acceptable views in regard to the origin of rights.
 
-

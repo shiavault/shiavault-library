@@ -204,4 +204,3 @@ unreliable.
 
 [^4]: Surah Hashr 59:7
 
-

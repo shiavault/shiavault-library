@@ -8,4 +8,3 @@ come into being by matrimonial relationships it is necessary that this
 basic unit of society is properly understood and protected from all that
 threatens its existence
 
-

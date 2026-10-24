@@ -4,18 +4,10 @@ Section 5: Danger of not Being Satisfied with the Outcome of an Istikhara
 14) Leveling Accusations against Allah
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
-  </p>
-</blockquote>
+> قَالَ الإِمَامُ الصَّادِقُ عَليهِ السَلامْ:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ اسْتَخَارَ اللهَ فِي أَمْرِهِ فَعُمِلَ أَحَدُ الأَمْرَينِ
-فَعُرِضَ فِي قَلْبِهِ شَيْءٌ إتَّهَمَ اللهَ فِي قَضَائِهِ.
-  </p>
-</blockquote>
+> مَنِ اسْتَخَارَ اللهَ فِي أَمْرِهِ فَعُمِلَ أَحَدُ الأَمْرَينِ
+> فَعُرِضَ فِي قَلْبِهِ شَيْءٌ إتَّهَمَ اللهَ فِي قَضَائِهِ.
 
 *al‑Imam al‑Sadiq (as) said: "Whosoever seeks the best from Allah in his
 affair, and acts upon one of the options (either performs or does not
@@ -49,20 +41,12 @@ servant of Allah has on his record.
 15) Being Distanced from the Mercy of Allah
 -------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-سُئِلَ عَنْ أَبِي عَبْدِ الله عَليهِ السَلامْ:
-  </p>
-</blockquote>
+> سُئِلَ عَنْ أَبِي عَبْدِ الله عَليهِ السَلامْ:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَبْغَضَ الْخَلْقِ إِلىَ الله؟ قَالَ عَليهِ السَلامْ: مَنْ
-يَتَّهِمُ إلَيْهِ. قِيلَ وَ أحَدٌ مَنْ يَتَّهِمُ اللهَ؟ قَالَ عَليهِ
-السَّلام نَعَمْ. مَنِ اسْتَخَارَ اللهَ فَجَائَتْهُ الْخِيَرَةُ بِمَا
-يُكْرِهُ فَسَخَطَ. فَذَاِلِكَ يَتَّهِمُ اللهَ.
-  </p>
-</blockquote>
+> مَنْ أَبْغَضَ الْخَلْقِ إِلىَ الله؟ قَالَ عَليهِ السَلامْ: مَنْ
+> يَتَّهِمُ إلَيْهِ. قِيلَ وَ أحَدٌ مَنْ يَتَّهِمُ اللهَ؟ قَالَ عَليهِ
+> السَّلام نَعَمْ. مَنِ اسْتَخَارَ اللهَ فَجَائَتْهُ الْخِيَرَةُ بِمَا
+> يُكْرِهُ فَسَخَطَ. فَذَاِلِكَ يَتَّهِمُ اللهَ.
 
 *al‑Imam al‑Sadiq (as) was once asked: "Who is the worst creation in the
 eyes of Allah?" The Imam (as) ,replied, "The one who levels an
@@ -77,5 +61,4 @@ against Allah.* ‘’ [^2]23
 
 [^2]: Makarim al‑Akhlaq / Mahasin Barqi, Page 598, Hadith 5 / Bihar
 al‑Anwar, Volume 91, Page 223, Hadith 2
-
 

@@ -162,4 +162,3 @@ view, BHA, nos. 125, 126. The Isma'ilis do not attribute evil to God,
 FC, p.72 (top). For a philosophical view, see Affifi, 156 sqq. Fuller
 discussion, Tawhid, 272 -277.
 
-

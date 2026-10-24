@@ -190,4 +190,3 @@ available in the books of religious laws.
 
 [^4]: Wafi
 
-

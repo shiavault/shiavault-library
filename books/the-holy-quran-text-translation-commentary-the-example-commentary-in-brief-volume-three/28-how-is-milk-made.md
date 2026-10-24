@@ -50,7 +50,6 @@ EASILY. SO, COMES OUT OF ITS STOMACH A DRINK WHICH ITS COLOURS ARE
 VARIOUS, THEREIN BEING A HEALING FOR PEOPLE. VERILY IN THAT, THERE IS A
 SIGN FOR A PEOPLE WHO THINK.
 
-
 **THE COMMENTARY
 YOUR LORD INSPIRED THE BEE THAT.... (VERSE NO. 68 - 69)**
 
@@ -79,7 +78,6 @@ to make within its stomach the honey which it later stores it in those
 cells of wax. The bee's process of making honey is no less stranger than
 that of the cow's making milk! There are many important and meaningful
 points in this verses, some of which are as follows:ِ
-
 
 **1ِ HOW AND OF WHAT IS HONEY PRODUCED?**
 
@@ -188,7 +186,6 @@ producing hundreds of thousands of eggs in her lifetime of
 three or four years. At maximum production, she can lay about 1800 eggs
 a day! There is usually only one adult queen in the hive at a time.
 
-
 **QUOTED FROM INTERNATIONAL ENCYCLOPEDIA
 AND OTHER REFERENCES**
 
@@ -252,7 +249,6 @@ WITH GOOD SUSTAININGS. DO THEY THEN BELIEVE IN FALSEHOOD, AND BECOME
 THANKLESS TO ALLAH'S BOUNTY?
 
 [ 481 ]
-
 
 **THE COMMENTARY
 THE SOURCE OF DIFFERENCES IN SUSTENANCE (VERSE NO. 70 - 72)**
@@ -326,7 +322,6 @@ with her, and vice verse. Ignoring the sex, both of them are of
 
 [ 483 ]
 
-
 the same nature, the same moral and the same religious duties and
 rights. Therefore she is not to be considered as a source of evil or
 sin, as those Christians who escape marriage consider her. The Arabic,
@@ -346,7 +341,6 @@ FOR THEM IN THE HEAVENS AND EARTH, NOR HAVE THEY ANY POWER.
 
 74- SO, STRIKE NO PARABLE FOR ALLAH, (COMPARE NONE WITH HIM) THAT ALLAH
 KNOWS, AND YOU KNOW NOT.
-
 
 **THE COMMENTARY
 THINK OF NO SIMILITUDE FOR GOD (VERSE NO. 73 - 74)**
@@ -396,11 +390,9 @@ OF THEM IS DUMB WITHOUT POWER OF DOING ANYHTING; AND WHO IS A BURDEN
 UPON HIS MASTER. WEHEREVER HE DIRECTS HIM, HE BRINGS NOTHING GOOD. IS HE
 EQUAL TO HIM WHO ENJOINS JUSTICE, AND WHO IS ON A DIRECT PATH?''
 
-<p dir="rtl">
 وَللهِِ غَيْبُ السَّمَاوَاتِ وَالاَْرْضِ وَمَا أَمْرُ السَّاعَةِ إِلاَّ
 كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ إِنَّ اللهَ عَلَى كُلِّ شَيْء
 قَدِيرٌ
-</p>
 
 (( 77 ))
 
@@ -452,7 +444,6 @@ and power to whom He will. How should we put the source of all goodness,
 and power in one dish of the scale, and an inanimate piece of carved
 stone who is void of sense, power, and knowledge, in the second dish to
 compare the two?
-
 
 **THE FREE AND SLAVE**
 
@@ -531,7 +522,6 @@ THEN THEY DENY IT, AND MOST OF THEM ARE UNGRATEFUL.
 
 [ 489 ]
 
-
 **THE COMMENTARY
 VARIOUS PHYSICAL AND SPIRITUAL BOUNTIES (VERSE NO. 78 - 83)**
 
@@ -567,7 +557,6 @@ use of his ear, before he or she opens the eyes to see.
 
 [ 490 ]
 
-
 **THE BIRDS SECRETS OF FLIGHT**
 
 Without the use of such a wonderful art, knowledge, and wisdom, neither
@@ -579,5 +568,4 @@ up there so easily!? :ِ
 \`\`Do they not look at the bird, subjected in the atmosphere of the
 sky? No one holds them up except Allah. Verily in that there are signs
 for a people who believe.
-
 

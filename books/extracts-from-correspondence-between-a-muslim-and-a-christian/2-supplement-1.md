@@ -122,4 +122,3 @@ Do you see how Christ calls Peter a'Satan' and \`offence unto Christ.'
 In spite of this, Matthew, Luke and Mark have incorporated into their
 Gospels the informations given by.
 
-

@@ -59,4 +59,3 @@ expression. The result was that this explanation left no room for any
 conjectures on the part of the non-Arab critics and thus put stop to any
 possible adverse effects on the good literary taste.
 
-

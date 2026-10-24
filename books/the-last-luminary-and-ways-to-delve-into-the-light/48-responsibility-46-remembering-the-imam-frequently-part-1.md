@@ -33,11 +33,7 @@ will attest to the remembrance of the Imam in any time and in all forms
 is equivalent to remembering and mentioning Allah, and in a tradition
 from Imam Muhammad b. ‘Ali al-Baqir (as) we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ ذِكْرَنَا مِنْ ذِكْرِ اللٌّهِ
-  </p>
-</blockquote>
+> إِنَّ ذِكْرَنَا مِنْ ذِكْرِ اللٌّهِ
 
 “Surely our remembrance is from the remembrance of Allah.”[^2]
 
@@ -128,5 +124,4 @@ of Makkah just around the mountain known as the Mountain of Rahmah
 (Jabal al-Rahmah) and is one of the spots in which those performing the
 Hajj visit during the days of the pilgrimage and is one of the pillars
 of the hajj rites.
-
 

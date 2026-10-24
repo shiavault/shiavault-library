@@ -19,13 +19,9 @@ Time!
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَرى أَحَدُكُمْ إِذَا أَدْخَلَ عَلـى مُؤْمِنٍ سُرُوراً أَنَّهُ
-عَلَيْهِ أَدْخَلَهُ فَقَطْ، بَلْ وَ اللٌّهِ عَلَيْنَا، بَلْ وَ اللٌّهِ
-عَلَـى رَسُولِ اللٌّهِ
-  </p>
-</blockquote>
+> لاَ يَرى أَحَدُكُمْ إِذَا أَدْخَلَ عَلـى مُؤْمِنٍ سُرُوراً أَنَّهُ
+> عَلَيْهِ أَدْخَلَهُ فَقَطْ، بَلْ وَ اللٌّهِ عَلَيْنَا، بَلْ وَ اللٌّهِ
+> عَلَـى رَسُولِ اللٌّهِ
 
 “None of you should think that if you bring happiness to a believer that
 happiness has been brought to that person alone. Rather, by Allah, it
@@ -34,5 +30,4 @@ even brought happiness to the Messenger of Allah!”[^1]
 
 [^1]: al-Kafi, vol. 2, pg. 189, sec. ‘Bringing Happiness to a True
 Believer,’ no. 6
-
 

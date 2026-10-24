@@ -755,4 +755,3 @@ every day of the month of Rajab.
 
 [^17]: Mafateeh al-Jinan by Sheikh Abbas al-Qummi, Du’a Kumayl.
 
-

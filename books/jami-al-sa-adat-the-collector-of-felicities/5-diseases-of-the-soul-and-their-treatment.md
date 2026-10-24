@@ -40,4 +40,3 @@ conclude our study of each power with an examination of various kinds of
 moral maladies which may afflict these powers, and their method of
 treatment.
 
-

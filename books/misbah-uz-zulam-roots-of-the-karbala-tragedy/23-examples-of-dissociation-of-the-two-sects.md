@@ -35,4 +35,3 @@ the Imamite and Sunni religion are two streams that flow in the opposite
 directions and till the Judgment Day, instead of coming closer they are
 moving farther from each other.
 
-

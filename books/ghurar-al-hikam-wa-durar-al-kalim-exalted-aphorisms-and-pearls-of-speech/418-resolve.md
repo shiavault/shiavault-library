@@ -22,4 +22,3 @@ nullified.
 
 [^1]: Or: There is no good in making a decision without prudence.
 
-

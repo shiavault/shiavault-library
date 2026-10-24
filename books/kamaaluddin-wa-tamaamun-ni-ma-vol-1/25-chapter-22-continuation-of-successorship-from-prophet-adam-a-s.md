@@ -56,12 +56,8 @@ Thumali from Abi Ja’far Muhammad bin Ali al-Baqir (a.s.) that he said:
 that he shall not approach the prohibited tree. But he approached it and
 also tasted its fruit. As mentioned by Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ
-لَهُ عَزْمًا
-  </p>
-</blockquote>
+> وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ
+> لَهُ عَزْمًا
 
 ***“And certainly We gave a commandment to Adam before, but he forgot;
 and We did not find in him any determination.”***[^1]
@@ -75,13 +71,9 @@ was careless of his occupation and offered uncleaned ears of corn and
 bad quality crop as gifts to Allah. Consequently the sacrifice of Habeel
 was accepted and that of Qabeel wasn’t. In the words of Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
-قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ
-الْآخَرِ قَالَ لَأَقْتُلَنَّكَ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا
+> قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ
+> الْآخَرِ قَالَ لَأَقْتُلَنَّكَ
 
 ***And relate to them the story of the two sons of Adam with truth whey
 they both offered an offering, but it was accepted from one of them and
@@ -165,11 +157,7 @@ bequests till the advent of Prophet Muhammad (S).
 People recognized Nuh (a.s.) through prior knowledge. And that is
 exactly the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ
-  </p>
-</blockquote>
+> لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ
 
 ***“Certainly, We sent Nuh to his people…”***[^3]
 
@@ -179,12 +167,8 @@ Quran is too silent about them and does not mention their names. Some
 Prophets however declared their Prophethood as their names are stated in
 Quran.
 
-<blockquote dir="rtl">
-  <p>
-وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِنْ قَبْلُ وَرُسُلًا لَمْ
-نَقْصُصْهُمْ عَلَيْكَ
-  </p>
-</blockquote>
+> وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِنْ قَبْلُ وَرُسُلًا لَمْ
+> نَقْصُصْهُمْ عَلَيْكَ
 
 ***“And (We sent) apostles We have mentioned to you before and apostles
 we have not mentioned to you;”***[^4]
@@ -196,11 +180,7 @@ people for 950 years. Nuh (a.s.) did not have any assistant prophet.
 People rejected all the Prophets between Adam and Nuh (a.s.), as
 mentioned by Allah.
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ
 
 ***The people of Nuh rejected the apostles.***[^5]
 
@@ -228,45 +208,29 @@ will of Nuh (a.s.) regarding him. So the people believed in him,
 confessed to his truth and followed him. They obtained security from
 divine punishment. Allah the Almighty says:
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ عَادٌ الْمُرْسَلِينَ إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا
-تَتَّقُونَ
-  </p>
-</blockquote>
+> كَذَّبَتْ عَادٌ الْمُرْسَلِينَ إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا
+> تَتَّقُونَ
 
 ***Ad gave the lie to the apostles. When their brother Hud said to them:
 Will you not guard (against evil)?***[^6]
 
 And Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا
-  </p>
-</blockquote>
+> وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا
 
 ***And to Aad (We sent) their brother Hud.***[^7]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ
-  </p>
-</blockquote>
+> وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ
 
 ***And the same did Ibrahim enjoin on his sons and (so did)
 Yaqoob.***[^8]
 
 Then He said:
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا
-هَدَيْنَا مِنْ قَبْلُ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا
+> هَدَيْنَا مِنْ قَبْلُ
 
 ***And We gave to him Ishaq and Yaqoob; each did We guide, and Nuh did
 We guide before.***[^9]
@@ -277,32 +241,20 @@ There was a gap of ten generations between Hud and Ibrahim (a.s.).
 
 Allah, the Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا قَوْمُ لُوطٍ مِنْكُمْ بِبَعِيدٍ
-  </p>
-</blockquote>
+> وَمَا قَوْمُ لُوطٍ مِنْكُمْ بِبَعِيدٍ
 
 ***Nor are the people of Lut far off from you.***[^10]
 
 Allah also says:
 
-<blockquote dir="rtl">
-  <p>
-فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ
-  </p>
-</blockquote>
+> فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ
 
 ***And Lut believed in Him, and he said: I am fleeing to my
 Lord.***[^11]
 
 And the words of Ibrahim (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ
-  </p>
-</blockquote>
+> وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ
 
 ***Surely I fly to my lord; He will guide me.***[^12]
 
@@ -320,12 +272,8 @@ also was a gap of ten generations. Then Allah sent them towards Firon,
 Hamaan and Qaroon. The Almighty sent Prophets one after the other to
 every people.
 
-<blockquote dir="rtl">
-  <p>
-كُلَّ مَا جَاءَ أُمَّةً رَسُولُهَا كَذَّبُوهُ فَأَتْبَعْنَا بَعْضَهُمْ
-بَعْضًا وَجَعَلْنَاهُمْ أَحَادِيثَ
-  </p>
-</blockquote>
+> كُلَّ مَا جَاءَ أُمَّةً رَسُولُهَا كَذَّبُوهُ فَأَتْبَعْنَا بَعْضَهُمْ
+> بَعْضًا وَجَعَلْنَاهُمْ أَحَادِيثَ
 
 ***Whenever there came to a people their apostle, they called him a
 liar, so We made some of them follow others and We made them
@@ -340,12 +288,8 @@ When Torah was revealed on Musa (a.s.) he gave glad-tidings of Prophet
 Muhammad (S). Yusha bin Nun was the successor of Musa (a.s.) and Qata
 was the successor of Yusha bin Nun. As mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ
-الْبَحْرَيْنِ
-  </p>
-</blockquote>
+> وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ
+> الْبَحْرَيْنِ
 
 ***“And when Musa said to his servant: I will not cease until I reach
 the junction of the two rivers.”***[^14]
@@ -353,24 +297,16 @@ the junction of the two rivers.”***[^14]
 Thus all the Prophets continued to prophesize the advent of Prophet
 Muhammad (S). As mentioned by Allah in Quran:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ
-وَالْإِنْجِيلِ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ
-الْمُنْكَرِ
-  </p>
-</blockquote>
+> الَّذِي يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ
+> وَالْإِنْجِيلِ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ
+> الْمُنْكَرِ
 
 ***“Whom they find written down with them in the Taurat and the Injeel,
 (who) enjoins them good and forbids them evil …”***[^15]
 
 And in the words of Isa (a.s.):
 
-<blockquote dir="rtl">
-  <p>
-وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ
-  </p>
-</blockquote>
+> وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ
 
 ***“And giving the good news of an Apostle who will come after me, his
 name being Ahmad.”***[^16]
@@ -384,13 +320,9 @@ Talib (a.s.) and promised that they shall remain in his progeny forever
 just as they had remained from the time of Adam (a.s.). And this is the
 saying of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
-عِمْرَانَ عَلَى الْعَالَمِينَ ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ
-وَاللَّهُ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ
+> عِمْرَانَ عَلَى الْعَالَمِينَ ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ
+> وَاللَّهُ سَمِيعٌ عَلِيمٌ
 
 ***“Surely Allah chose Adam and Nuh and the descendants of Ibrahim and
 the descendants of Imran above the nations. Offspring, one of the other;
@@ -410,12 +342,8 @@ Prophets learnt of this knowledge through their predecessors and the
 holy people and those who were specially selected by Allah.” Allah, the
 Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا
-  </p>
-</blockquote>
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا
 
 ***“Indeed We have given the book and wisdom to the progeny of Ibrahim
 (a.s.). And gave them a great kingdom.”***[^18]
@@ -439,12 +367,8 @@ their followers. They shall have no excuse on Judgment Day (Qiyamat).
 There is no proof except that of the progeny of Ibrahim (a.s.). The
 Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
-وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا
-  </p>
-</blockquote>
+> فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ
+> وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا
 
 ***“Indeed We have given the book and wisdom to the progeny of Ibrahim
 (a.s.). And gave them a great kingdom.”***[^19]
@@ -452,11 +376,7 @@ Almighty Allah has said:
 The proof is only for the Prophets and their family, and it shall remain
 so till the day of Judgment. As mentioned in the Book of Allah:
 
-<blockquote dir="rtl">
-  <p>
-فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
-  </p>
-</blockquote>
+> فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ
 
 ***“In houses which Allah has permitted to be exalted and that His name
 may be remembered in them.”***[^20]
@@ -467,22 +387,18 @@ before you achieved success. And through the same connection people
 would attain salvation in the future.” Indeed the Almighty has stated in
 His book:
 
-<blockquote dir="rtl">
-  <p>
-وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا وَنُوحًا
-هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
-وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ ۚ وَكَذَٰلِكَ نَجْزِي
-الْمُحْسِنِينَ وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ كُلٌّ
-مِنَ الصَّالِحِينَ وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا
-وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ وَمِنْ آبَائِهِمْ
-وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ
-إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ
-يَشَاءُ مِنْ عِبَادِهِ وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ مَا كَانُوا
-يَعْمَلُونَ أُولَٰئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ
-وَالنُّبُوَّةَ فَإِنْ يَكْفُرْ بِهَا هَٰؤُلَاءِ فَقَدْ وَكَّلْنَا
-بِهَا قَوْمًا لَيْسُوا بِهَا بِكَافِرِينَ
-  </p>
-</blockquote>
+> وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا وَنُوحًا
+> هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
+> وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ ۚ وَكَذَٰلِكَ نَجْزِي
+> الْمُحْسِنِينَ وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ كُلٌّ
+> مِنَ الصَّالِحِينَ وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا
+> وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ وَمِنْ آبَائِهِمْ
+> وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ
+> إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ
+> يَشَاءُ مِنْ عِبَادِهِ وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ مَا كَانُوا
+> يَعْمَلُونَ أُولَٰئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ
+> وَالنُّبُوَّةَ فَإِنْ يَكْفُرْ بِهَا هَٰؤُلَاءِ فَقَدْ وَكَّلْنَا
+> بِهَا قَوْمًا لَيْسُوا بِهَا بِكَافِرِينَ
 
 ***“And Nuh did we guide before, and of his descendants, Dawood and
 Sulaiman and Ayyub and Yusuf and Harun; and thus do we reward those who
@@ -538,11 +454,7 @@ of Kosariya, a district in Iraq. Later he migrated from there. But this
 migration was not due to war or conflict, As Allah, the Mighty and
 Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ
-  </p>
-</blockquote>
+> وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ
 
 ***Surely I fly to my lord, He will guide me.***[^23]
 
@@ -594,12 +506,8 @@ from Ammar bin Musa Sabati from Abi Abdullah (a.s.) that he said:
 and Divine Proof, who may enliven the matters of truth that the people
 may kill (destroy).” Then he recited the following verse:
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
-اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يُرِيدُونَ أَنْ يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى
+> اللَّهُ إِلَّا أَنْ يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ
 
 ***They desire to put out the light of Allah with their mouths, and
 Allah will not consent save to perfect His light, though the unbelievers
@@ -638,12 +546,8 @@ Himyari: Narrated to us Muhammad bin Husain bin Abil Khattab from
 Abdullah bin Muhammad Hajjal from Hammad bin Uthman from Abi Baseer from
 Abi Ja’far (a.s.) regarding the words of Allah, the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***O you who believe! obey Allah and obey the Apostle and those in
 authority from among you.***[^25]
@@ -801,12 +705,8 @@ crucified him. But all of them were speaking untruths. Allah never
 allowed them to gain control over Isa (a.s.) and this matter became
 doubtful for them. But as mentioned in the Holy Quran:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ وَمُطَهِّرُكَ مِنَ الَّذِينَ
-كَفَرُوا
-  </p>
-</blockquote>
+> إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ وَمُطَهِّرُكَ مِنَ الَّذِينَ
+> كَفَرُوا
 
 ***I am going to terminate the period of your stay (on earth) and cause
 you to ascend unto Me and purify you of those who disbelieve.***[^26]
@@ -815,11 +715,7 @@ Thus they never had enough power to kill or bury alive or punish Isa
 (a.s.). Because if they had succeeded in this, the word of Allah would
 have been disproved that:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ رَفَعَهُ اللَّهُ إِلَيْهِ
-  </p>
-</blockquote>
+> بَلْ رَفَعَهُ اللَّهُ إِلَيْهِ
 
 ***Nay! Allah took him up to Himself.***[^27]
 
@@ -862,11 +758,7 @@ knot of brotherhood-in-faith with them. One day he had gone away from
 them for some reason. When he returned the next day he saw all of them
 lying dead. He became very sorry and surprisingly exclaimed:
 
-<blockquote dir="rtl">
-  <p>
-أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ
-  </p>
-</blockquote>
+> أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ
 
 ***When will Allah give it life after its death?***[^28]
 
@@ -885,11 +777,7 @@ tortured them in various methods till Allah Almighty released them from
 his clutches. The group referred to as ‘Ashaab al Ukhdood’ (people of
 the pit) in the holy Quran were these people.
 
-<blockquote dir="rtl">
-  <p>
-قُتِلَ أَصْحَابُ الْأُخْدُودِ النَّارِ ذَاتِ الْوَقُودِ 
-  </p>
-</blockquote>
+> قُتِلَ أَصْحَابُ الْأُخْدُودِ النَّارِ ذَاتِ الْوَقُودِ
 
 ***Killed were the makers of the pit, Of the fire (kept burning) with
 fuel.***[^29]
@@ -1124,11 +1012,7 @@ bin Ubaid from Muhammad bin Ismail bin Bazee from Mansur bin Yunus from
 a companion of his from Abi Hamza that he asked from Abi Ja’far (a.s.)
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ
 
 ***Everything is perishable except His face.***[^30]
 
@@ -1147,11 +1031,7 @@ Husain Ibne Abil Khattab from Ja’far bin Basheer from Amr bin Aban from
 Dhuraith Kunnasi from Abi Abdullah (a.s.) regarding the words of Allah,
 the Mighty and Sublime:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ
-  </p>
-</blockquote>
+> كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ
 
 ***-Everything is perishable except His face.***[^31]
 
@@ -1580,12 +1460,8 @@ Meanings of Itrah, Aal, Ahl, Dhurriyat and Sulaala
 The author of this book (r.a.) says: If someone asks about the statement
 of the Messenger of Allah (S) that:
 
-<blockquote dir="rtl">
-  <p>
-تارك فيكم ما إن تمسكتم به لن تضلوا بعدي كتاب الله وعترتي ألا وإنهما لن
-يفترقا حتى يردا علي الحوض
-  </p>
-</blockquote>
+> تارك فيكم ما إن تمسكتم به لن تضلوا بعدي كتاب الله وعترتي ألا وإنهما لن
+> يفترقا حتى يردا علي الحوض
 
 *“That why you don’t consider Abu Bakr and all the Banu Umayyah to be
 included in the Itrah or why do consider only the descendants of Hasan
@@ -1603,21 +1479,13 @@ inhabited the house of Allah and were its caretakers. ‘Aal’ and ‘Ahl’
 are synonymous. In the story of Prophet Lut (a.s.) the Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ
-  </p>
-</blockquote>
+> فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ
 
 ***So remove your followers in a part of the night.***[^32]
 
 And it is also mentioned:
 
-<blockquote dir="rtl">
-  <p>
-إِلَّا آلَ لُوطٍ ۖ نَجَّيْنَاهُمْ بِسَحَرٍ
-  </p>
-</blockquote>
+> إِلَّا آلَ لُوطٍ ۖ نَجَّيْنَاهُمْ بِسَحَرٍ
 
 ***Except Lut’s followers; We saved them a little before
 daybreak.***[^33]
@@ -1632,11 +1500,7 @@ metaphorical sense and everyone that followed the Holy Prophet (S) was
 included in the ‘Aal’ and the following words of Allah are presented as
 evidence:
 
-<blockquote dir="rtl">
-  <p>
-آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
-  </p>
-</blockquote>
+> آلَ فِرْعَوْنَ أَشَدَّ الْعَذَابِ
 
 ***Make Firon’s people enter the severest chastisement.***[^34]
 
@@ -1662,28 +1526,16 @@ and the thus Ahl of the Holy Prophet (S) are Banu Hashim. Therefore if
 anyone had asked about the explanation of this statement of the Holy
 Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-إي يف فم ما ان نتمسم مه هلنتضلواب بهلل .وعتري يل لبيتي
-  </p>
-</blockquote>
+> إي يف فم ما ان نتمسم مه هلنتضلواب بهلل .وعتري يل لبيتي
 
 That what does Itrah denote, the Holy Prophet (S) would have said that
 my Ahlul Bayt (a.s.) and the Itrah in lexicon is that tree that grows at
 the edge of the crocodile’s lair. As Hudhali as composed the following
 lines:
 
-<blockquote dir="rtl">
-  <p>
-فماكت تأي يأنأم مخالفهم
-  </p>
-</blockquote>
+> فماكت تأي يأنأم مخالفهم
 
-<blockquote dir="rtl">
-  <p>
-ة ةأبياتا اينبتالعتر
-  </p>
-</blockquote>
+> ة ةأبياتا اينبتالعتر
 
 I don’t fear rising up against them for six lines of poetry as the Atar
 tree grows.
@@ -1845,27 +1697,19 @@ And in the statement of the Holy Prophet (S): “I leave among you two
 important things,” these exalted personalities are joined to the Holy
 Quran and regarding the Holy Quran it is said:
 
-<blockquote dir="rtl">
-  <p>
-وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
-لِلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا
-  </p>
-</blockquote>
+> وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ
+> لِلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا
 
 ***And We reveal of the Quran that which is a healing and a mercy to the
 believers, and it adds only to the perdition of the unjust.***[^36]
 
 And the Almighty Allah also says:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَا أُنْزِلَتْ سُورَةٌ فَمِنْهُمْ مَنْ يَقُولُ أَيُّكُمْ
-زَادَتْهُ هَٰذِهِ إِيمَانًا فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ
-إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ وَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ
-مَرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا وَهُمْ
-كَافِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَا أُنْزِلَتْ سُورَةٌ فَمِنْهُمْ مَنْ يَقُولُ أَيُّكُمْ
+> زَادَتْهُ هَٰذِهِ إِيمَانًا فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ
+> إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ وَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ
+> مَرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا وَهُمْ
+> كَافِرُونَ
 
 ***And whenever a chapter is revealed, there are some of them who say:
 Which of you has it strengthened in faith? Then as for those who
@@ -1883,12 +1727,8 @@ Abu Ubaidah says regarding ‘Dhurriyat’ (descendants) that when
 successors and the meaning is implied in the Holy Quran also. As the
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا
-وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ
-  </p>
-</blockquote>
+> وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا
+> وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ
 
 ***And they who say: O our Lord! grant us in our wives and our offspring
 the joy of our eyes.***[^38]
@@ -1896,21 +1736,13 @@ the joy of our eyes.***[^38]
 Amirul Momineen (a.s.) has recited it as a singular. And in the
 following verse also:
 
-<blockquote dir="rtl">
-  <p>
-وَآيَةٌلَّهُمْأَنَّاحَمَلْنَاذُرِّيَّتَهُمْ
-  </p>
-</blockquote>
+> وَآيَةٌلَّهُمْأَنَّاحَمَلْنَاذُرِّيَّتَهُمْ
 
 ***And a sign to them is that We bear their offspring.***[^39]
 
 While in the following verse Allah says:
 
-<blockquote dir="rtl">
-  <p>
-كَمَآأَنشَأَكُممِّنذُرِّيَّة ِقَوٍْمآخَرِين َ
-  </p>
-</blockquote>
+> كَمَآأَنشَأَكُممِّنذُرِّيَّة ِقَوٍْمآخَرِين َ
 
 ***…even as He raised you up from the seed of another people.***[^40]
 
@@ -1933,11 +1765,7 @@ Abu Ubaidah himself that there is Hamza in its root but the Arabs have
 omitted it. Thus according to Abu Ubaidah it denotes those whom Allah
 has given in ones progeny. Like the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِنَ الْجِنِّ وَالْإِنْسِ
-  </p>
-</blockquote>
+> وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِنَ الْجِنِّ وَالْإِنْسِ
 
 ***And certainly We have created for hell many of the jinn and the
 men.***[^41]
@@ -1948,11 +1776,7 @@ through his loins.
 ‘Salaalat’ means the gist of something. It is also called ‘Salaalah’ and
 ‘Saleel’. The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-م مق قعد دالرن نن نل لة ة
-  </p>
-</blockquote>
+> م مق قعد دالرن نن نل لة ة
 
 *“O Allah, quench the thirst of Abdur Rahman from the Salil (cold water)
 of Paradise.”*
@@ -1960,11 +1784,7 @@ of Paradise.”*
 The water in Paradise is called Salil because it is the purest form of
 drinking thing. Thus this verb is in the form of subject. And the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ
-  </p>
-</blockquote>
+> وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ
 
 ***And certainly We created man of an extract of clay,***[^42]
 
@@ -1975,20 +1795,12 @@ if he has come as a result of her.
 Hind binte Asma wife of Hajjaj bin Yusuf Thaqafi has composed the
 following:
 
-<blockquote dir="rtl">
-  <p>
-ول لد دال .مهة ةعربيةسلة ةأفرس سا ابغل
-  </p>
-</blockquote>
+> ول لد دال .مهة ةعربيةسلة ةأفرس سا ابغل
 
 And what can Hinda be except a mare of the Arabian stock? She is from
 the stock of the pure horses whom a mule has dominated.
 
-<blockquote dir="rtl">
-  <p>
-فن نت تمهراكرا افب االحريون نك كأقراا اا افعاللفل ل
-  </p>
-</blockquote>
+> فن نت تمهراكرا افب االحريون نك كأقراا اا افعاللفل ل
 
 Thus if this mare of Arabian stock gives birth to a pure blood horse,
 what a lucky thing it would be.
@@ -2083,5 +1895,4 @@ Arabian Peninsula.
 [^41]: Surah Araaf 7:179
 
 [^42]: Surah Mominoon 23:12
-
 

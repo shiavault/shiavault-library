@@ -134,4 +134,3 @@ this issue, they will always swing between the two extremes of justice
 and mercy -- only Islam, the final version of God-made legal system can
 accommodate both these principles.
 
-

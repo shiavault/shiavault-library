@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَمَّا السَّائِلَ فَلا تَنْهَرْ
-  </p>
-</blockquote>
+> وَ أَمَّا السَّائِلَ فَلا تَنْهَرْ
 
 ***“And as for him, who asks, do not chide (him)”***[^1]
 
 The Holy Prophet (peace be upon him and his holy progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-لو لا ان السائل يكذب ما قدس من رده
-  </p>
-</blockquote>
+> لو لا ان السائل يكذب ما قدس من رده
 
 ***“If it were not for the telling of lies by the beggars, one who
 rebuffed them, would not be consecrated”***[^2]
@@ -169,11 +161,7 @@ ground before God and worships Him, to plead before me.*
 is deserving of help, has not spoken the truth to God. This is because
 when he prays for his brother Muslim saying:*
 
-<blockquote dir="rtl">
-  <p>
-اللهم اغفر للمؤمنين و المؤمنات
-  </p>
-</blockquote>
+> اللهم اغفر للمؤمنين و المؤمنات
 
 *“O’ Lord! Forgive the male and female believers!”* *he seeks
 forgiveness for his brother Muslim, he is effectively seeking Paradise
@@ -229,5 +217,4 @@ al-Faqeeh, the Book of Zakaat, pg. 36.
 pg. 167.
 
 [^7]: Dunyaa-e-Jawaan, pg. 331; Aathaar al-Saadiqeen, vol. 8, pg. 139.
-
 

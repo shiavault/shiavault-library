@@ -15,4 +15,3 @@ and place and non-adverbial nouns. The adverbial nouns of time are **متی
 intelligence), **ما** و **مهما** (for beings without intelligence), and
 **أيّ و کیفم**ا.
 
-

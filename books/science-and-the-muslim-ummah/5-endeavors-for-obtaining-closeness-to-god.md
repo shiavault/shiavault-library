@@ -22,21 +22,13 @@ between various sciences. On the other hand they help us in deci­phering
 the book of creation, as the great mystic Shaykh Mahmud Shabistari has
 said:
 
-<p dir="rtl">
 بنــزد آنـكــه جــانــش در تجــلـى اســت
-</p>
 
-<p dir="rtl">
 همــه عالــم كتــاب حق تعالى اسـت
-</p>
 
-<p dir="rtl">
 ا زاو هر عالمى چون سواره اى خاص
-</p>
 
-<p dir="rtl">
 يكى زان فاتحه و آن ديگر اخـلاص
-</p>
 
 To him whose spirit is enlightened
 
@@ -138,13 +130,11 @@ derived from scientific findings may be properly exposed and rejected.
 How is it possible to claim that the natural sciences result in man's
 estrangement from God, when the Qur’an unambiguously declares:
 
-<p dir="rtl">
 إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَاخْتِلَافِ اللَّيْلِ
 وَالنَّهَارِ‌ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ ﴿١٩٠﴾ الَّذِينَ
 يَذْكُرُ‌ونَ اللَّـهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ
 وَيَتَفَكَّرُ‌ونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ رَ‌بَّنَا مَا
 خَلَقْتَ هَـٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ‌ ﴿١٩١﴾
-</p>
 
 ***Surely in the creation of the heavens and earth and in the
 alternation of night and day there are signs for men possessed of minds
@@ -157,5 +147,4 @@ If the line of demarcation between religion and science is made clear,
 there is no reason for any conflict between these two. In fact they
 would complement each other. Science is like the lamp of life and
 religion its guide.
-
 

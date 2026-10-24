@@ -45,7 +45,6 @@ and then his greatest foe is this to whom he was ordered to prostrate
 before him and that is Adam (PUH) so he sat his hate for him (Adam) and
 for his descendants until the time of doomsday.
 
-
 **The inhabitation of Adam in paradise**
 
 The Prince of Believers (PUH) said in Al-Nahj: Then God made Adam
@@ -124,7 +123,6 @@ the first spot on earth that God was worshipped on is that on Kufa[a
 city in Iraq that had been made a capital during the rule of 'Ali ben
 Abi Talib PUH] and that was when God ordered Angels to prostrate before
 Adam (PUH) and so they did that on the surface of Kufa.
-
 
 **Some tales related to our research**
 
@@ -419,5 +417,4 @@ and said: O our Lord, we did wrong to ourselves and made a confession of
 our sins, O may You forgive us, then did God say: get down from My
 heavens to earth for no sinners would be in My paradise nor My
 heavens.
-
 

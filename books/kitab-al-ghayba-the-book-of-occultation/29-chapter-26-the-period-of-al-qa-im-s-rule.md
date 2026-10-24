@@ -2,19 +2,11 @@ Chapter 26: The period of al-Qa'im’s rule
 =========================================
 
 > 1 - أخبرنا أحمد بن محمد بن سعيد بن عقدة الكوفي قال: حدثني علي بن الحسن
-<blockquote dir="rtl">
-  <p>
-التيملي، عن الحسن بن علي بن يوسف، عن أبيه ومحمد بن علي، عن أبيه، عن
-أحمد بن عمر الحلبي، عن حمزة بن حمران، عن عبد الله بن أبي يعفور، عن أبي
-عبد الله أنه قال:
-  </p>
-</blockquote>
+> التيملي، عن الحسن بن علي بن يوسف، عن أبيه ومحمد بن علي، عن أبيه، عن
+> أحمد بن عمر الحلبي، عن حمزة بن حمران، عن عبد الله بن أبي يعفور، عن أبي
+> عبد الله أنه قال:
 
-<blockquote dir="rtl">
-  <p>
-يملك القائم تسع عشرة سنة وأشهراً.
-  </p>
-</blockquote>
+> يملك القائم تسع عشرة سنة وأشهراً.
 
 (1) Ahmad bin Muhammad bin Sa'eed bin Oqda narrated from Ali bin
 al-Hasan at-Taymali from al-Hasan bin Ali bin Yousuf from his father and
@@ -25,19 +17,11 @@ as-Sadiq (as) had said:
 “Al-Qa'im (as) will rule for nineteen years and some months.”[^1]
 
 > 2 - أخبرنا أبو سليمان أحمد بن هوذة الباهلي قال: حدثنا إبراهيم بن إسحاق
-<blockquote dir="rtl">
-  <p>
-النهاوندي سنة ثلاث وسبعين ومائتين، قال: حدثنا أبو محمد عبد الله بن
-حماد الأنصاري سنة تسع وعشرين ومائتين، قال: حدثني عبد الله بن أبي
-يعفور، قال: قال أبو عبد الله:
-  </p>
-</blockquote>
+> النهاوندي سنة ثلاث وسبعين ومائتين، قال: حدثنا أبو محمد عبد الله بن
+> حماد الأنصاري سنة تسع وعشرين ومائتين، قال: حدثني عبد الله بن أبي
+> يعفور، قال: قال أبو عبد الله:
 
-<blockquote dir="rtl">
-  <p>
-ملك القائم منا تسع عشرة سنة وأشهراً.
-  </p>
-</blockquote>
+> ملك القائم منا تسع عشرة سنة وأشهراً.
 
 (2) Abu Sulayman Ahmad bin Hawtha narrated from Ibraheem bin Iss’haq
 an-Nahawandi from Abu Muhammad Abdullah bin Hammad al-Ansari from
@@ -46,45 +30,21 @@ Abdullah bin Abu Ya’foor[^2] that Abu Abdullah as-Sadiq (as) had said:
 “The rule of al-Qa'im will last for nineteen years and some months.”[^3]
 
 > 3 - أخبرنا أحمد بن محمد بن سعيد بن عقدة قال: حدثنا محمد بن المفضل بن
-<blockquote dir="rtl">
-  <p>
-إبراهيم بن قيس بن رمانة الأشعري وسعدان بن إسحاق بن سعيد وأحمد بن
-الحسين بن عبدالمك الزيات ومحمد بن أحمد بن الحسن القطواني، عن الحسن بن
-محبوب، عن عمرو بن ثابت، عن جابر بن يزيد الجعفي، قال: سمعت أبا جعفر
-محمد بن علي يقول:
-  </p>
-</blockquote>
+> إبراهيم بن قيس بن رمانة الأشعري وسعدان بن إسحاق بن سعيد وأحمد بن
+> الحسين بن عبدالمك الزيات ومحمد بن أحمد بن الحسن القطواني، عن الحسن بن
+> محبوب، عن عمرو بن ثابت، عن جابر بن يزيد الجعفي، قال: سمعت أبا جعفر
+> محمد بن علي يقول:
 
-<blockquote dir="rtl">
-  <p>
-واللهِ ليملكنّ رجلٌ منّا أهل البيت ثلاثمِائة سنة وثلاث عشرة سنة ويزداد
-تسعاً.
-  </p>
-</blockquote>
+> واللهِ ليملكنّ رجلٌ منّا أهل البيت ثلاثمِائة سنة وثلاث عشرة سنة ويزداد
+> تسعاً.
 
-<blockquote dir="rtl">
-  <p>
-قال: فقلت له: ومتى يكون ذلك؟
-  </p>
-</blockquote>
+> قال: فقلت له: ومتى يكون ذلك؟
 
-<blockquote dir="rtl">
-  <p>
-قال: بعد موت القائم .
-  </p>
-</blockquote>
+> قال: بعد موت القائم .
 
-<blockquote dir="rtl">
-  <p>
-قلت له: وكم يقوم القائم في عالمه حتى يموت؟
-  </p>
-</blockquote>
+> قلت له: وكم يقوم القائم في عالمه حتى يموت؟
 
-<blockquote dir="rtl">
-  <p>
-فقال: تسع عشرة سنة من يوم قيامه إلى يوم موته.
-  </p>
-</blockquote>
+> فقال: تسع عشرة سنة من يوم قيامه إلى يوم موته.
 
 (3) Ahmad bin Muhammad bin Sa'eed narrated from Muhammad bin
 al-Mufadhdhal bin Ibraheem bin Qays from Sa’dan bin Iss’haq bin Sa'eed,
@@ -106,18 +66,10 @@ He said: “It will be nineteen years since his rising until the day of
 his death.”[^4]
 
 > 4 - أخبرنا علي بن أحمد البندنيجي، عن عبيد الله بن موسى العلوي، عن بعض
-<blockquote dir="rtl">
-  <p>
-رجاله، عن أحمد بن الحسن، عن إسحاق، عن أحمد بن عمر بن أبي شعبة الحلبي،
-عن حمزة بن حمران، عن عبد الله بن أبي يعفور، عن أبي عبد الله قال:
-  </p>
-</blockquote>
+> رجاله، عن أحمد بن الحسن، عن إسحاق، عن أحمد بن عمر بن أبي شعبة الحلبي،
+> عن حمزة بن حمران، عن عبد الله بن أبي يعفور، عن أبي عبد الله قال:
 
-<blockquote dir="rtl">
-  <p>
-إن القائم يملك تسع عشرة سنة وأشهراً.
-  </p>
-</blockquote>
+> إن القائم يملك تسع عشرة سنة وأشهراً.
 
 (4) Ali bin Ahmad al-Bandaneeji narrated from Obaydillah bin Musa
 al-Alawi from some of his companions from Ahmad bin al-Hasan from
@@ -158,5 +110,4 @@ vol.2 p.465, Biharul Anwar, vol.52 p.298, vol.53 p.100, 103, 146,
 ar-Raj’a p.71, Mo’jam Ahadeeth al-Imam al-Mahdi, vol.3 p.329.
 
 [^5]: The same references of the first tradition.
-
 

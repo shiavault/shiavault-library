@@ -358,7 +358,6 @@ On p. 19, Vol. 94, of Bihar al-Anwar , the Imam (as) is quoted adding,
 having said surely these two Chapters enjoy a great status with
 Allah."
 
-
 **Chapter 27 : The Night of Destiny (Lailatul-Qadr)Which night is
 Lailatul-Qadr?**
 
@@ -427,5 +426,4 @@ which night it is and deliberately hide such knowledge, and I do not at
 all doubt that Allah hid such knowledge from you only out of His love
 for you, for if you knew which night it is, you would have honored it
 and left the others, and I hope you will not err in its regard."
-
 

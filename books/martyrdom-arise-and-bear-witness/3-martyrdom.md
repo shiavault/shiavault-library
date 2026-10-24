@@ -1949,4 +1949,3 @@ him to stay like Abdullah ibn Jafar, the husband of the great Zainab.
 She divorced him in order to be free to follow Imam Husayn ('a) and
 Muhammad Hanifah, the half-brother of Imam Husayn ('a).
 
-

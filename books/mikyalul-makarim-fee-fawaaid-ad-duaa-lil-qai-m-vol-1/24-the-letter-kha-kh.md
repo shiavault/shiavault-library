@@ -40,11 +40,7 @@ are like mine, is the best metaphor of the revenge of Mahdi (aj) from
 the disbelievers just as the Holy Prophet (S) had been such that the
 Almighty Allah has said:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
-  </p>
-</blockquote>
+> وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
 
 ***“And most surely you conform (yourself) to sublime morality.”
 (Qur’an, Surah Qalam 68:4)***
@@ -147,12 +143,8 @@ Sadiq (as) from his father (as) that he said:
 
 “When Qaim (aj) rises up he would say:
 
-<blockquote dir="rtl">
-  <p>
-فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا
-وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا
+> وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
 
 ***“So I fled from you when I feared you, then my Lord granted me wisdom
 and made me of the apostles…” (Qur’an, Surah Shuara 26:21)*** [^10]
@@ -169,15 +161,11 @@ neck.[^11]
 In *al-Muhajja* it is narrated from Imam Ja’far Sadiq (as) that he said
 under the exegesis of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
-وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي
-لَا يُشْرِكُونَ بِي شَيْئًا
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ
+> وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي
+> لَا يُشْرِكُونَ بِي شَيْئًا
 
 ***“Allah has promised to those of you who believe and do good that He
 will most certainly make them rulers in the earth as He made rulers
@@ -341,5 +329,4 @@ are from us and we are from the Messenger of Allah and the Messenger of
 Allah is from Allah.
 
 [^20]: Kafi, Vol. 1, Pg. 483
-
 

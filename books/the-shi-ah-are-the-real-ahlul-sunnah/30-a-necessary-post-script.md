@@ -33,4 +33,3 @@ the greatest of calamities.
 [^1]: The author used to follow the Hanbali sect before embracing the
 Shi\`a creed. \_\_ Tr.
 
-

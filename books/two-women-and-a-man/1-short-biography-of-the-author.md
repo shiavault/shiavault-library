@@ -16,4 +16,3 @@ Al-Huda were arrested. After three days of unimaginable torture, they
 were murdered by the tyrannical Iraqi regime. Islam suffered a great
 loss when these two Muslim personalities were killed in cold blood.
 
-

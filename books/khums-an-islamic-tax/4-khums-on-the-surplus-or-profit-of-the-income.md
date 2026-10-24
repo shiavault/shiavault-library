@@ -399,4 +399,3 @@ personal contact with the mujtahid or by corresponding with him or his
 authorized representative. (Most leading mujtahids have their authorized
 representatives in major parts of the Shi\`ah world.)
 
-

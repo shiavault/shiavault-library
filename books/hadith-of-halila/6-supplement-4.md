@@ -219,4 +219,3 @@ from external contemplation -blood vessels are hidden in muscles, and
 covered up with skin, to which the medicines reach? The senses by
 themselves cannot detect them.
 
-

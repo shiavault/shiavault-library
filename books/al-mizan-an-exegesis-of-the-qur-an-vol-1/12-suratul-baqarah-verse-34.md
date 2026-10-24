@@ -1,12 +1,8 @@
 Suratul Baqarah: Verse 34
 =========================
 
-<blockquote dir="rtl">
-  <p>
-(٣٤) وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُواْ لآدَمَ فَسَجَدُواْ
-إِلاَّ إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
-  </p>
-</blockquote>
+> (٣٤) وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُواْ لآدَمَ فَسَجَدُواْ
+> إِلاَّ إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
 
 ***And when We said to the angels: “Prostrate before Adam”, then all
 prostrated except Iblīs. He refused and he showed arrogance and he was
@@ -238,5 +234,4 @@ spikenard.”
 
 The author says: The Tradition - and there are many - support what we
 have written about prostration.
-
 

@@ -29,11 +29,7 @@ When the head of a tribe, called Akhnas, said to the Prophet that he
 would protect the Prophet on condition that he would be promised the
 leadership of the Ummah after the Prophet's death, the Prophet replied
 
-<blockquote dir="rtl">
-  <p>
-“الأمر إلی الله يضعه حيث يشاء”
-  </p>
-</blockquote>
+> “الأمر إلی الله يضعه حيث يشاء”
 
 the problem of leadership is God's business; He would select anyone who
 He would see appropriate. Upon hearing such an answer, the tribe leader
@@ -44,11 +40,7 @@ We also read in history that the sacred Prophet wrote a letter to the
 governor of Yamameh, inviting him to his religion. He too had the same
 request as Akhnas. The Prophet, likewise, rejected his demand, saying
 
-<blockquote dir="rtl">
-  <p>
-“لا ولا كرامة “
-  </p>
-</blockquote>
+> “لا ولا كرامة “
 
 “such an act is beyond self respect and magnanimity”[^2]
 
@@ -92,11 +84,7 @@ relatives was the same day as he appointed his substitute.
 The prestigious interpreters and narrators of Islam write: when the holy
 verse[^3]
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ أَنْذِرْ عَشِيرَتَكَ الأَْقْرَبِينَ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ أَنْذِرْ عَشِيرَتَكَ الأَْقْرَبِينَ ﴾
 
 was revealed onto the Prophet, he ordered Ali (as) to prepare some food
 to entertain the Prophet's relatives. Forty five members of Bani Hashem
@@ -118,11 +106,7 @@ support apart from Ali (as).
 
 At this time the Prophet, addressing his relatives, declared
 
-<blockquote dir="rtl">
-  <p>
-“إنَّ هذا أخي و وصيي و خليفتي فيكم، فاسمعوا و أطيعوا”
-  </p>
-</blockquote>
+> “إنَّ هذا أخي و وصيي و خليفتي فيكم، فاسمعوا و أطيعوا”
 
 “Ali is my brother and my successor among you. You are to obey him.”[^4]
 
@@ -147,5 +131,4 @@ accepted the new religion.
 
 [^4]: . Refer to Tarikh Tabari, vol. 2, p. 62 – 63; Tarikh Kamel, vol.
 2, p. 40 – 41; Mosnad Imam Ahmad, vol. 1, p. 111 and other documents.
-
 

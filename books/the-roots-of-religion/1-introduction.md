@@ -38,4 +38,3 @@ English Department of Dar Rah e-Haq
  Rabi’al-Awwal, 1402,  
  January, 1982
 
-

@@ -69,4 +69,3 @@ Muhammad Ja’far Baqiri,
  Translator of the Farsi text into Arabic,  
  Tehran, Iran, 1987.
 
-

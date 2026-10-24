@@ -123,4 +123,3 @@ al-Kishshi, ar-Rijal, p.88; an-Najashi, al- Fihrist, p.125, adh-Dhahabi,
 Mizanu 'l-i‘tidal, vol.2, p.69, no.2853; al- Mamaqani, Tanqihu 'l-maqal,
 vol.l, p.438, no.4213.
 
-

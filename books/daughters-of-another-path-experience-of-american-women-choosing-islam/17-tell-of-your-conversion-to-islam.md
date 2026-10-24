@@ -389,4 +389,3 @@ realize that Islam stands for moderation and modesty and that there are
 often great discrepancies between the practices of "cultural Islam" and
 the directives of Islam.
 
-

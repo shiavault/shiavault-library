@@ -514,4 +514,3 @@ vol. l, pp. 221-223.
 
 [^9]: Tabaqat-i Ibn Sa'd, vol. VII, page 210.
 
-

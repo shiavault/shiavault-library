@@ -542,4 +542,3 @@ those whom the Messenger of Allah (s.a.w.) had formerly described as
 of Allah (s.a.w.) saying: 'There will rise from this nation a group who
 will dart from the religion as an arrow darts from a bow."'(171)
 
-

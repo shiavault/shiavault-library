@@ -130,7 +130,6 @@ by side with the soldiers of Ali, and nobody prevented them.
 
 60
 
-
 **The Silly Shop-Keeper**
 
 A heavy built tall man was passing through the market of Kufa, his step
@@ -269,5 +268,4 @@ how do you feel with- out him?"
 "Wouldn't you ever forget him?"
 
 "Would the world allow me to forget him?"
-
 

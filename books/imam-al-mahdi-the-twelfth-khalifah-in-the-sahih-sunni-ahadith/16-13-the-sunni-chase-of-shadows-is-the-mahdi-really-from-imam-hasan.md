@@ -13,13 +13,9 @@ al-Hasan b. ‘Ali b. Abi Talib, *‘alaihim al-salam*, and the name of his
 immediate father is ‘Abd Allah. Shaykh Ibn Taymiyyah (d. 728 H) is very
 emphatic on this point:
 
-<blockquote dir="rtl">
-  <p>
-فالمهدي الذي أخبر به النبي صلى الله عليه و سلم اسمه محمد بن عبد الله
-لا محمد بن الحسن وقد روى عن علي رضي الله عنه أنه قال هو من ولد الحسن
-بن على لا من ولد الحسين بن علي
-  </p>
-</blockquote>
+> فالمهدي الذي أخبر به النبي صلى الله عليه و سلم اسمه محمد بن عبد الله
+> لا محمد بن الحسن وقد روى عن علي رضي الله عنه أنه قال هو من ولد الحسن
+> بن على لا من ولد الحسين بن علي
 
 So, the Mahdi who was prophesied by the Prophet, peace be upon him, his
 name is Muhammad b. ‘Abd Allah, NOT Muhammad b. al-Hasan. **Moreover, it
@@ -29,14 +25,10 @@ the descendants of al-Husayn b. ‘Ali**.[^2]
 
 Elsewhere, he quotes that *athar* of ‘Ali:
 
-<blockquote dir="rtl">
-  <p>
-ورواه أبو داود من طريق أبي سعيد وفيه يملك الأرض سبع سنين ورواه عن علي
-رضي الله عنه أنه نظر إلى الحسن وقال إن ابني هذا سيد كما سماه رسول الله
-صلى الله عليه و سلم وسيخرج من صلبه رجل يسمى باسم نبيكم يشبهه في الخلق
-ولا يشبهه في الخلق يملأ الأرض قسطا
-  </p>
-</blockquote>
+> ورواه أبو داود من طريق أبي سعيد وفيه يملك الأرض سبع سنين ورواه عن علي
+> رضي الله عنه أنه نظر إلى الحسن وقال إن ابني هذا سيد كما سماه رسول الله
+> صلى الله عليه و سلم وسيخرج من صلبه رجل يسمى باسم نبيكم يشبهه في الخلق
+> ولا يشبهه في الخلق يملأ الأرض قسطا
 
 And Abu Dawud narrated it through the route of Abu Sa’id, and in it is:
 “he will rule the earth by kingdom for seven years.” He (Abu Dawud) also
@@ -49,15 +41,11 @@ He will fill the earth with equity.”[^3]
 
 This *riwayah* is indeed in the *Sunan* of Abu Dawud (d. 275 H):
 
-<blockquote dir="rtl">
-  <p>
-قال أبو داود وحدثت عن هارون بن المغيرة قال ثنا عمرو بن أبي قيس عن شعيب
-بن خالد عن أبي إسحاق قال قال علي رضي الله عنه ونظر إلى ابنه الحسن فقال
-إن ابني هذا سيد كما سماه النبي صلى الله عليه و سلم وسيخرج من صلبه رجل
-يسمى باسم نبيكم صلى الله عليه و سلم يشبهه في الخلق ولايشبهه في الخلق
-ثم ذكر قصة يملأ الأرض عدلا "
-  </p>
-</blockquote>
+> قال أبو داود وحدثت عن هارون بن المغيرة قال ثنا عمرو بن أبي قيس عن شعيب
+> بن خالد عن أبي إسحاق قال قال علي رضي الله عنه ونظر إلى ابنه الحسن فقال
+> إن ابني هذا سيد كما سماه النبي صلى الله عليه و سلم وسيخرج من صلبه رجل
+> يسمى باسم نبيكم صلى الله عليه و سلم يشبهه في الخلق ولايشبهه في الخلق
+> ثم ذكر قصة يملأ الأرض عدلا "
 
 Abu Dawud – Harun b. al-Mughirah – ‘Umar b. Abi Qays – Shu’ayb b. Khalid
 – Abu Ishaq:
@@ -73,24 +61,16 @@ earth with justice.”[^4]
 However, it is unreliable evidence, as proclaimed by ‘Allamah al-Albani
 (d. 1420 H):
 
-<blockquote dir="rtl">
-  <p>
-ضعيف
-  </p>
-</blockquote>
+> ضعيف
 
 *Dha’if*.[^5]
 
 Meanwhile, the only alternative *sanad* for the *athar* is this one,
 documented by Imam al-Maruzi (d. 229 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا غير واحد عن ابن عياش عمن حدثه عن محمد بن جعفر عن علي بن أبي طالب
-رضي الله عنه قال سمى النبي صلى الله عليه وسلم الحسن سيدا وسيخرج من
-صلبه رجلا اسمه اسم نبيكم يملأ الأرض عدلا كما ملئت جورا.
-  </p>
-</blockquote>
+> حدثنا غير واحد عن ابن عياش عمن حدثه عن محمد بن جعفر عن علي بن أبي طالب
+> رضي الله عنه قال سمى النبي صلى الله عليه وسلم الحسن سيدا وسيخرج من
+> صلبه رجلا اسمه اسم نبيكم يملأ الأرض عدلا كما ملئت جورا.
 
 **More than one person** – **Ibn ‘Ayyash** – **somebody who narrated to
 him** – Muhammad b. Ja’far – ‘Ali b. Abi Talib, may Allah be pleased
@@ -103,43 +83,19 @@ oppression.”[^6]
 
 Dr. al-Bastawi has these comments about it:
 
-<blockquote dir="rtl">
-  <p>
-شيوخ نعيم: غير معروفين.
-  </p>
-</blockquote>
+> شيوخ نعيم: غير معروفين.
 
-<blockquote dir="rtl">
-  <p>
-ابن عياش: يعرف بهذه اللقب غير واحد. ولما كان شيخه والراوي عنه غير
-معروفين فلا يمكن التحديد بمن هو المراد هنا.
-  </p>
-</blockquote>
+> ابن عياش: يعرف بهذه اللقب غير واحد. ولما كان شيخه والراوي عنه غير
+> معروفين فلا يمكن التحديد بمن هو المراد هنا.
 
-<blockquote dir="rtl">
-  <p>
-عمن حدثه: غير معروف.
-  </p>
-</blockquote>
+> عمن حدثه: غير معروف.
 
-<blockquote dir="rtl">
-  <p>
-شيوخ نعيم: غير معروفين.
-  </p>
-</blockquote>
+> شيوخ نعيم: غير معروفين.
 
-<blockquote dir="rtl">
-  <p>
-ابن عياش: يعرف بهذه اللقب غير واحد. ولما كان شيخه والراوي عنه غير
-معروفين فلا يمكن التحديد بمن هو المراد هنا.
-  </p>
-</blockquote>
+> ابن عياش: يعرف بهذه اللقب غير واحد. ولما كان شيخه والراوي عنه غير
+> معروفين فلا يمكن التحديد بمن هو المراد هنا.
 
-<blockquote dir="rtl">
-  <p>
-عمن حدثه: غير معروف.
-  </p>
-</blockquote>
+> عمن حدثه: غير معروف.
 
 *Shuyukh* of Na’im: **Not known**.
 
@@ -179,5 +135,4 @@ al-Fikr; 1414 H) [annotator: Prof. Dr. Suhayl Zakar], part 5, p. 231
 [^7]: Dr. ‘Abd al-‘Alim ‘Abd al-‘Azim al-Bastawi, al-Mawsu’at fi Ahadith
 al-Mahdi al-Dha’ifah wa al-Mawdhu’at (Beirut: Dar Ibn Hazm; 1st edition,
 1420 H), p. 348
-
 

@@ -294,4 +294,3 @@ Kitab al-Tawhid, pp. 427-9.
 
 [^12]: al-Majlisi, Bihar al-anwar, Vol. VIII.
 
-

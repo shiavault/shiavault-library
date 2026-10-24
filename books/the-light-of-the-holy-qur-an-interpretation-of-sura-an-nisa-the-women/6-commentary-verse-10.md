@@ -33,7 +33,6 @@ Hereafter.
 
 (2) Sura Al-Baqarah, No. 2, verse 220.
 
-
 **Section 2 : Law of Inheritance Commentary : Verse 11**
 
 (11) يُوصِيكُمُ اللّهُ فِي أَوْلاَدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ
@@ -177,5 +176,4 @@ that when a lady marries she takes something (dower) and man should give
 something. In addition to that, the life expenses of the wife is upon
 the man while a woman has no responsibility for the expenses of man as
 well as that of herself."
-
 

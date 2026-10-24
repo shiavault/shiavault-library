@@ -28,7 +28,6 @@ nowhere indicated that a miracle is only a persuasive argument suitable
 to the simple-minded people and appropriate to the period of the
 minority of mankind. On the other hand it has called it a clear proof.
 
-
 **Nature of the Holy Prophet's Guidance**
 
 The miracle of the 'Finality' being a Book, a piece of literature and a
@@ -84,7 +83,6 @@ importance of the Holy Qur'an lies in the fact that besides paying
 attention to what is natural or in the words of the Holy Quran, is the
 seen, it puts the belief in the unseen in the forefront of its
 teachings:
-
 
 "This is the Book about which there is no doubt. It is a guidance to
 the pious, who believe in the unseen." (Surah al-Baqarah, 2:2 - 3)
@@ -188,5 +186,4 @@ time. Some of them answer the specific queries made, and some others
 deal with the problems that came up in the course of a long-drawn
 struggle. They were revealed to a great leader and were collected and
 arranged later".
-
 

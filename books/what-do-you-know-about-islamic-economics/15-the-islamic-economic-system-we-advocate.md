@@ -48,4 +48,3 @@ economic doctrine, not a science of economics, we can easily remove the
 largest obstacle in the way of believing in the existence of economics
 in Islam.
 
-

@@ -233,7 +233,6 @@ hearts of the people and dominate their immature minds, such as the
 claims for avenging the blood of 'Uthman whom he called an innocent and
 martyred caliph!
 
-
 **Tradition making or a cover for Inferiority complexes**
 
 Mu'awiyah had no scruple about lying and calumny. Mu'awiyah used two
@@ -453,7 +452,6 @@ thousand drachmas, and again Samara refused. The offered sum was raised
 to four hundred thousand, and this time Samara agreed to cite for the
 people the above false narration as a quotation from the Prophet.(355)
 
-
 **The fate of the noble persons who refused to co-operate with
 Mu'awiyah
 Chain him heavily and throw him into prison.
@@ -590,5 +588,4 @@ wife in prison where she had been kept on a similar charge, and threw it
 on her lap. The bereaved woman said sorrowfully: "You had kept him away
 from me for such a long time, and now you have brought me his severed
 head as a gift! What a worthy and precious gift!"(365)
-
 

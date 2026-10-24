@@ -148,7 +148,6 @@ look at her body, and according to Ihtiyat Wajib, it is not permitted to
 look at her face and hands either, as was previously mentioned in
 detail).G
 
-
 **The Rules of Looking Related to Women**
 
 **Women Looking at Other Women**
@@ -518,7 +517,6 @@ Therefore: It is not a problem for women to look at the photographs of
 athletes, or martyrs, etc… unless it is associated with lust or falling
 into corruption.
 
-
 **The Rules of Watching Films**
 
 71 – Rule: Films and TV shows that are directly broadcast (live), have
@@ -628,9 +626,8 @@ Answer: Looking at these types of photographs is not permitted. T
 
 **Notes:**
 
-[^2] Ahl al-Zhimmah are those Jews and Christians who, living under an
+[^2]: Ahl al-Zhimmah are those Jews and Christians who, living under an
 Islamic governemt, agree to pay the special Jizya tax. These Jews and
 Christians are protected under the Islamic Governement and their lives
 and property is sacrosanct and protected.
-
 

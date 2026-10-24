@@ -1482,4 +1482,3 @@ metaphor. It does not include an explanation or a discussion of the
 linguistic and literal aspects or the science of Qur'an recitation since
 these do not affect the meaning.
 
-

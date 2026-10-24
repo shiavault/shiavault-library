@@ -51,12 +51,8 @@ the Noble Prophet of Islam, Imam Hasan al-Askari, peace be upon him, has
 actually considered this act as being one of the clear and apparent
 signs of a true believer when he said:
 
-<blockquote dir="rtl">
-  <p>
-علامات المؤمن خمس: صلاة إحدى وخمسين، وزيارة الأربعين، والتّختّم
-باليمين، وتعفير الجبين و جهر ببسم الله الرحمن الرحيم.
-  </p>
-</blockquote>
+> علامات المؤمن خمس: صلاة إحدى وخمسين، وزيارة الأربعين، والتّختّم
+> باليمين، وتعفير الجبين و جهر ببسم الله الرحمن الرحيم.
 
 The signs of a true believer are five:
 
@@ -128,11 +124,7 @@ I sprinkled some water on him, and he gained consciousness.
 
 Then he cried three times:
 
-<blockquote dir="rtl">
-  <p>
-يا حُسين، يا حُسين، يا حُسين....
-  </p>
-</blockquote>
+> يا حُسين، يا حُسين، يا حُسين....
 
 *Ya Husayn … Ya Husayn … Ya Husayn*
 
@@ -206,36 +198,24 @@ In fact, there is spiritual significance to some numbers and this is
 seen in the Qur’an and the traditions such that the number 40 is
 repeated in many places of the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَإِذْ وَاعَدْنَا مُوسَى أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ
-الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ﴾
-  </p>
-</blockquote>
+> ﴿وَإِذْ وَاعَدْنَا مُوسَى أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ
+> الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ﴾
 
 ***“And when We appointed a time of forty nights with Musa, then you
 took the calf (for a god) after him and you were unjust.” (Suratul
 Baqarah, 2: 51)***
 
-<blockquote dir="rtl">
-  <p>
-﴿قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ
-فِي الْأَرْضِ فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ﴾
-  </p>
-</blockquote>
+> ﴿قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ
+> فِي الْأَرْضِ فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ﴾
 
 ***“He said: So it shall surely be forbidden to them for forty years,
 they shall wander about in the land, therefore do not grieve for the
 nation of transgressors.” (Suratul Maidah, 5:26)***
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَاعَدْنَا مُوسَى ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
-فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَى لِأَخِيهِ
-هَارُونَ اخْلُفْنِي فِي قَوْمِي وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ
-الْمُفْسِدِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَوَاعَدْنَا مُوسَى ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ
+> فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَى لِأَخِيهِ
+> هَارُونَ اخْلُفْنِي فِي قَوْمِي وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ
+> الْمُفْسِدِينَ﴾
 
 ***“And We appointed with Musa a time of thirty nights and completed
 them with ten (more), so the appointed time of his Lord was complete
@@ -243,16 +223,12 @@ forty nights, and Musa said to his brother Haroun: Take my place among
 my people, and act well and do not follow the way of the
 mischief-makers.” (Suratul A’raaf, 7:142)***
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
-كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
-حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
-أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
-وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
-فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ﴾
-  </p>
-</blockquote>
+> ﴿وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا حَمَلَتْهُ أُمُّهُ
+> كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
+> حَتَّى إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ
+> أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ
+> وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي
+> فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ﴾
 
 ***“And We have enjoined on man doing of good to his parents; with
 trouble did his mother bear him and with trouble did she bring him
@@ -266,36 +242,24 @@ to Thee, and surely I am of those who submit.” (Suratul Ahqaf, 46:15)***
 In addition, there are numerous traditions which mention the number “40”
 such as the following:
 
-<blockquote dir="rtl">
-  <p>
-عن رسول الله (صلى الله عليه و آله و سلام): إنّ الأرض لتبكي على المؤمن
-أربعين صباحاً.
-  </p>
-</blockquote>
+> عن رسول الله (صلى الله عليه و آله و سلام): إنّ الأرض لتبكي على المؤمن
+> أربعين صباحاً.
 
 The Messenger of Allah, peace be upon him and his family, has said:
 *“Indeed the Earth laments over the death of a true believer for the
 period of 40 days.”*
 
-<blockquote dir="rtl">
-  <p>
-عن الإمام محمد الباقر (عليه السلام) أنّه قال: إنّ السّماء بكت على
-الحسين أربعين صباحاً.
-  </p>
-</blockquote>
+> عن الإمام محمد الباقر (عليه السلام) أنّه قال: إنّ السّماء بكت على
+> الحسين أربعين صباحاً.
 
 Imam Muhammad al-Baqir, peace be upon him, has said: *“Indeed the sky
 lamented over the death of al-Husayn for a period of 40 days.”*
 
-<blockquote dir="rtl">
-  <p>
-عن الإمام الصّادق(عليه السلام) أنّه قال: إنّ السّماء بكت على الحسين
-أربعين صباحاً بالدّم، والأرض بكت عليه أربعين صباحاً بالسّواد، والشّمس
-بكت عليه أربعين صباحاً بالكسوف والحمرة، والملائكة بكت عليه أربعين
-صباحاً، وما اختضبت امرأة منّا ولا ادّهنت ولا اكتحلت ولا رجّلت حتّى
-أتانا رأس عبيد الله بن زياد وما زلنا في عبرة من بعده.
-  </p>
-</blockquote>
+> عن الإمام الصّادق(عليه السلام) أنّه قال: إنّ السّماء بكت على الحسين
+> أربعين صباحاً بالدّم، والأرض بكت عليه أربعين صباحاً بالسّواد، والشّمس
+> بكت عليه أربعين صباحاً بالكسوف والحمرة، والملائكة بكت عليه أربعين
+> صباحاً، وما اختضبت امرأة منّا ولا ادّهنت ولا اكتحلت ولا رجّلت حتّى
+> أتانا رأس عبيد الله بن زياد وما زلنا في عبرة من بعده.
 
 Imam Ja’far as-Sadiq, peace be upon him, said: *“The heavens cried for
 forty days with blood (weeping) over Imam Husayn; the earth cried for
@@ -317,5 +281,4 @@ Prophet and the noble family on the supreme sacrifice offered on the
 10th of Muharram 61 ah, then we may be able to benefit from the
 spiritual bounties contained in this spiritual journey to reach our
 Beloved.
-
 

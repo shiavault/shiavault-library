@@ -815,4 +815,3 @@ nourishment for these instincts so that man will be aware of what makes
 him happy and what causes him distress and thus he will follow what is
 beneficial and discard what is harmful.
 
-

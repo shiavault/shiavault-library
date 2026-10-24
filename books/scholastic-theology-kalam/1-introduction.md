@@ -51,4 +51,3 @@ friend and helper.
 
 *Thul Hijja, 1423 H. (February 2003)*
 
-

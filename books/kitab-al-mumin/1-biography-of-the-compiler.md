@@ -141,11 +141,7 @@ the sake of the Honorable Lord that the number of those who love them
 and understand their trusteeship may multiply. In doing so, he became
 deserving of what has been narrated from the Ahl al‑Bayt [a.s]:
 
-<blockquote dir="rtl">
-  <p>
-رحِم الله مَن أحيا أمرَنا.
-  </p>
-</blockquote>
+> رحِم الله مَن أحيا أمرَنا.
 
 “May Allah have mercy on the person who keeps our affairs alive.”
 
@@ -188,5 +184,4 @@ Dawud: al-Rijal No. 473.
 [^6]: As in Qur’an, 33:33.
 
 [^7]: Rijal al-Najashi 46.
-
 

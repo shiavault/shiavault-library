@@ -91,11 +91,7 @@ that justice in some cases is unacceptable. This issue is so vivid and
 clear for all that when the Qur’an wants the people to shun polytheism,
 it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿...إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ﴾
-  </p>
-</blockquote>
+> ﴿...إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ﴾
 
 **“*****Polytheism is indeed a great injustice**….”*[^1]
 
@@ -188,12 +184,8 @@ time and space, but we have a set of values rooted in the natural
 disposition [fitrah] of man—natural disposition which is fixed and
 inalterable:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ﴾
-  </p>
-</blockquote>
+> ﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللَّهِ﴾
 
 “So set your heart on the religion as a people of pure faith, the
 Creative Essence of Allah according to which He created mankind. There
@@ -282,5 +274,4 @@ relativism prevalent in the West is also inconsistent with Islam.
 [^1]: Surah Luqman 31:13.
 
 [^2]: Surah ar-Rum 30:3.
-
 

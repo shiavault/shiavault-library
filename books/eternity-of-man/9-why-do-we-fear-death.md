@@ -61,16 +61,12 @@ to lessen his perplexity with the help of necessary information, maps
 and equipment’s, we too must obtain the map of the way and the necessary
 information from authentic and reliable sources.
 
-<blockquote dir="rtl">
-  <p>
-دخل علىّ بن محمّد (عليهما السلام) على مريض من اصحابه و هو يبكى و يجزع
-من الموت. فقال له: يا عبد الله تخاف من الموت لانّك لا تعرفه, أرأيتك
-اذا اتّسخت و تقذّرت و تأذّيت من كثرة القذر و الوسخ عليك و اصابك قروح و
-جرب و علمت انّ الغسل في حمّام يزيل ذلك كلّه أما تريدان تدخله فتغتسل
-ذلك عنك او ما تكره ان تدخله فيبقي ذلك عليك؟ قال: بلى يابن رسول الله.
-قال: فذلك الموت هو ذلك الحمّام…
-  </p>
-</blockquote>
+> دخل علىّ بن محمّد (عليهما السلام) على مريض من اصحابه و هو يبكى و يجزع
+> من الموت. فقال له: يا عبد الله تخاف من الموت لانّك لا تعرفه, أرأيتك
+> اذا اتّسخت و تقذّرت و تأذّيت من كثرة القذر و الوسخ عليك و اصابك قروح و
+> جرب و علمت انّ الغسل في حمّام يزيل ذلك كلّه أما تريدان تدخله فتغتسل
+> ذلك عنك او ما تكره ان تدخله فيبقي ذلك عليك؟ قال: بلى يابن رسول الله.
+> قال: فذلك الموت هو ذلك الحمّام…
 
 In a tradition from Imam ‘Ali ibn Muhammad (‘a), it is narrated that he
 (‘a) approached one of his companions who was sick and in a state of
@@ -113,12 +109,8 @@ is also nobody who will buy it. In short, it is not useful in any way
 for the objective, which he had in mind. It was because of this that
 Imam Husayn (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-انّكم اخربتم آخرتكم و عمرتك دنياكم فأنتم تكرهون النقلة من العمران الى
-الخراب
-  </p>
-</blockquote>
+> انّكم اخربتم آخرتكم و عمرتك دنياكم فأنتم تكرهون النقلة من العمران الى
+> الخراب
 
 “You have ruined and destroyed your hereafter and instead have made
 habitable the present life. So you do not like the transfer from a
@@ -150,5 +142,4 @@ upon us.
 [^1]: Ma'anil Akhbar, Pg. 290
 
 [^2]: Ma'anil Akhbar, Pg. 289
-
 

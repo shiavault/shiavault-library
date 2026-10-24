@@ -235,4 +235,3 @@ not side-step from your proofs by quarrelling unnecessarily, as you may
 lose the track of your argument without gaining any advantage. And there
 is no power save in God.
 
-

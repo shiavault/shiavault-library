@@ -7,11 +7,7 @@ Turning Towards Allah
 away from Him, you have regressed.
 
 > 1ـ إنَّكُمْ إنْ أقْبَلْتُمْ عَلَى اللّهِ أقْبَلْتُمْ، وإنْ أدْبَرْتُمْ
-<blockquote dir="rtl">
-  <p>
-عَنْهُ أدْبَرْتُمْ.
-  </p>
-</blockquote>
+> عَنْهُ أدْبَرْتُمْ.
 
 2. By turning towards [Allah] misfortunes are warded off.
 
@@ -21,11 +17,7 @@ away from Him, you have regressed.
 precaution [or support] are from the signs of turning [to Allah].
 
 > 3ـ حُسْنُ الاِخْتيارِ، واِصْطِناعُ الأحْرارِ، وفَضْلُ الاِسْتِظْهارِ،
-<blockquote dir="rtl">
-  <p>
-مِنْ دَلائِلِ الإقْبالِ.
-  </p>
-</blockquote>
+> مِنْ دَلائِلِ الإقْبالِ.
 
 4. For every advance [and progress] there is a retreat [and a regress].
 
@@ -40,10 +32,5 @@ people.
 kindness in actions.
 
 > 6ـ مِنْ عَلاماتِ الإقْبالِ: سَدادُ الأقْوالِ، والرِّفْقُ فِي
-<blockquote dir="rtl">
-  <p>
-الأفْعالِ.
-  </p>
-</blockquote>
-
+> الأفْعالِ.
 

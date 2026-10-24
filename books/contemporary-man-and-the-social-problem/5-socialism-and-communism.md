@@ -314,4 +314,3 @@ become a reality.
 [^1]: I have explained these theories and undertaken a detailed
 scientific study of them in my book Iqtisaduna.
 
-

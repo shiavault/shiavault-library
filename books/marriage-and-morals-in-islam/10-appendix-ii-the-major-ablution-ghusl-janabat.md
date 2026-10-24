@@ -261,4 +261,3 @@ with your hand.
 
 [^5]: Wasa'il, vol. 1, p. 482.
 
-

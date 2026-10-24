@@ -5,11 +5,7 @@ Rendering service to people is one of the most important Islamic
 educational issues that is highly emphasized in Islamic traditions. The
 Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-"خير الناس من انتفع به الناس"
-  </p>
-</blockquote>
+> "خير الناس من انتفع به الناس"
 
 "The best of people are those who are (most) beneficial to (other)
 people.[^1]
@@ -26,11 +22,7 @@ benevolence to the people."
 
 Imam Ali (a) said:
 
-<blockquote dir="rtl">
-  <p>
-"بتقوى الله أمرتم، وللاحسان والطاعة خلقتم"
-  </p>
-</blockquote>
+> "بتقوى الله أمرتم، وللاحسان والطاعة خلقتم"
 
 "You are commanded to God fearing and you are created for doing
 benevolence and obeying (God)."[^2]
@@ -66,12 +58,8 @@ to giving alms and doing good to people is giving alms in poverty.
 
 The Holy Prophet (s) said:
 
-<blockquote dir="rtl">
-  <p>
-"ثلاثة من حقائق الايمان: الانفاق من الاقتار، وانصافك الناس من نفسك،
-وبذل العلم للمتعلم"
-  </p>
-</blockquote>
+> "ثلاثة من حقائق الايمان: الانفاق من الاقتار، وانصافك الناس من نفسك،
+> وبذل العلم للمتعلم"
 
 "There are three signs to faithfulness: Giving alms in poverty; equity
 toward people; and imparting knowledge to the seekers of knowledge."[^3]
@@ -477,5 +465,4 @@ described that the Shaykh was held in his embrace when he died.
 [^8]: The administrative capital of Mazanderan Province, northern Iran.
 
 [^9]: See Mizan al-Hikmah, VIII, 3686: 2674.
-
 

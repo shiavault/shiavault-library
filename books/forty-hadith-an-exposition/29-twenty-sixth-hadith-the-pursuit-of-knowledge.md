@@ -1,26 +1,22 @@
 Twenty Sixth Hadith: The Pursuit Of Knowledge
 =============================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
-الكُلَيْنِي عَنْ مُحَمَّدِ بْنِ الحَسَنِ وَعَلِيِّ بْنِ مُحَمَّدٍ عَنْ
-سَهْلِ بْنِ زِيَادٍ وَمُحَمَّدِ بْنِ يَحْيَى عَنْ أَحْمَدَ بْنِ
-مُحَمَّدٍ جَمِيعاً عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الأَشْعَرِيِّ عَنْ
-عَبْدِاللهِ بْنِ مَيْمُونٍ القَدَّاحِ وَعَلِيِّ بْنِ إبْرَاهِيمَ عَنْ
-أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنِ القَدَّاحِ عَنْ أَبِي
-عَبْدِاللّهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللّهِ صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ: مَنْ سَلَكَ طَرِيقاً يَطْلُبُ فِيهِ عِلْماً
-سَلَكَ بِهِ طَرِيقاً إلَى الجَنَّةِ. وَإنَّ المَلائِكَةَ لَتَضَعُ
-أَجْنِحَتَهَا لِطَالِبِ العِلْمِ رَضاً بِهِ. وَإنَّهُ يَسْتَغْفِرُ
-لِطَالِبِ العِلْمِ مَنْ فِي السَّماءِ وَمَنْ فِي الأَرْضِ حَتّى
-الحُوتِ فِي البَحْرِ. وَفَضْلُ العَالِمِ عَلَى العَابِدِ كَفَضْلِ
-القَمَرِ عَلَى سَائِرِ النُّجُومِ لَيْلَةَ البَدْرِ. وَإنَّ
-العُلَمَاءَ وَرَثَةُ الأَنْبِيَاءِ. إنَّ الأَنْبِيَاءَ لِمْ
-يُوَرِّثُوا دِينَاراً وَلا دِرْهَماً، وَلَكِنْ وَرِثُوا العِلْمَ.
-فَمَنْ أَخَذَ مِنْهُ أَخَذَ بِحَظٍّ وَافِرٍ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إلَى ثِقَةِ الإسْلامِ مُحَمَّدِ بْنِ يَعْقُوبَ
+> الكُلَيْنِي عَنْ مُحَمَّدِ بْنِ الحَسَنِ وَعَلِيِّ بْنِ مُحَمَّدٍ عَنْ
+> سَهْلِ بْنِ زِيَادٍ وَمُحَمَّدِ بْنِ يَحْيَى عَنْ أَحْمَدَ بْنِ
+> مُحَمَّدٍ جَمِيعاً عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ الأَشْعَرِيِّ عَنْ
+> عَبْدِاللهِ بْنِ مَيْمُونٍ القَدَّاحِ وَعَلِيِّ بْنِ إبْرَاهِيمَ عَنْ
+> أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنِ القَدَّاحِ عَنْ أَبِي
+> عَبْدِاللّهِ عَلَيْهِ السَّلامُ قَالَ: قَالَ رَسُولُ اللّهِ صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ: مَنْ سَلَكَ طَرِيقاً يَطْلُبُ فِيهِ عِلْماً
+> سَلَكَ بِهِ طَرِيقاً إلَى الجَنَّةِ. وَإنَّ المَلائِكَةَ لَتَضَعُ
+> أَجْنِحَتَهَا لِطَالِبِ العِلْمِ رَضاً بِهِ. وَإنَّهُ يَسْتَغْفِرُ
+> لِطَالِبِ العِلْمِ مَنْ فِي السَّماءِ وَمَنْ فِي الأَرْضِ حَتّى
+> الحُوتِ فِي البَحْرِ. وَفَضْلُ العَالِمِ عَلَى العَابِدِ كَفَضْلِ
+> القَمَرِ عَلَى سَائِرِ النُّجُومِ لَيْلَةَ البَدْرِ. وَإنَّ
+> العُلَمَاءَ وَرَثَةُ الأَنْبِيَاءِ. إنَّ الأَنْبِيَاءَ لِمْ
+> يُوَرِّثُوا دِينَاراً وَلا دِرْهَماً، وَلَكِنْ وَرِثُوا العِلْمَ.
+> فَمَنْ أَخَذَ مِنْهُ أَخَذَ بِحَظٍّ وَافِرٍ.
 
 With my chain of transmitters reaching up to the thiqat al-Islam
 Muhammad ibn Ya’qub al-Kulayni, from Muhammad ibn al-Hasan and ‘Ali ibn
@@ -91,17 +87,12 @@ the duties of servitude, and his acts, works, movements and pauses be
 not in accordance with the precepts of the divine Law, one will not
 attain to the Garden of Acts, concerning which this has been said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَفِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ.﴾
-  </p>
-</blockquote>
+> ﴿وَفِيهَا مَا تَشْتَهِيهِ الْأَنفُسُ وَتَلَذُّ الْأَعْيُنُ.﴾
 
 ***  
 ***
 Therein being whatever the souls desire, and the eyes delight in.
 
-  
 (
 
 ***  
@@ -109,7 +100,6 @@ Therein being whatever the souls desire, and the eyes delight in.
 
 43:71
 
-  
 )
 
 On the basis of these preliminaries, which are in accordance with
@@ -140,20 +130,12 @@ Divine aspect has been made to prevail. From another viewpoint, it may
 be said that the wayfaring towards the Garden is also ascribable to the
 creature:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
-  </p>
-</blockquote>
+> ﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
 
 ***And they find all that they did confronting them.*** (***18:49***)
 
-<blockquote dir="rtl">
-  <p>
-﴿فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
-مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
-  </p>
-</blockquote>
+> ﴿فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه. وَمَنْ يَعْمَلْ
+> مِثْقَالَ ذَرَّةٍ شَرًّا يَرَه.﴾
 
 ***And whoso doth good an atom’s weight will see it, and whoso doth ill
 an atom’s weight will see it.*** (***99:7-8***)
@@ -186,11 +168,7 @@ Know chat the angels are of various kinds and species, and no one has
 the knowledge of them, who are God’s hosts, except the sacred Essence of
 Him Who knows best the Hidden:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ.﴾
 
 ***And none knows the hosts of thy Lord but He.*** (***74:31***)
 
@@ -201,11 +179,7 @@ not, and are immersed in Divine Beauty and Glory and are absorbed in the
 Majesty of His sacred Essence. It is said that the blessed letter *Nun’*
 in the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿ن وَالْقَلَمِ وَمَا يَسْطُرُونَ.﴾
-  </p>
-</blockquote>
+> ﴿ن وَالْقَلَمِ وَمَا يَسْطُرُونَ.﴾
 
 ***Nun. By the Pen, and what they inscribe,*** (***68:1***)
 
@@ -239,20 +213,12 @@ pertain to the spheres of *barzakhi* quantities and the *mithali*
 analogies, each of them is characterized by a particular quantity,
 members, and organs specific to itself. The verses:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَالصَّافَّاتِ صَفًّا.﴾
-  </p>
-</blockquote>
+> ﴿وَالصَّافَّاتِ صَفًّا.﴾
 
 ***By the rangers ranging.*** (***37:1***)
 
-<blockquote dir="rtl">
-  <p>
-﴿الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ جَاعِلِ
-الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَى وَثُلَاثَ وَرُبَاعَ.﴾
-  </p>
-</blockquote>
+> ﴿الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ جَاعِلِ
+> الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَى وَثُلَاثَ وَرُبَاعَ.﴾
 
 ***Praise belongs to God, Originator of the heavens and earth, who
 appointed the angels to be messengers having wings two, three and
@@ -301,13 +267,9 @@ and, out of humility for them, spread their wings under their feet out
 of their delight on account of their conduct, as is indicated by this
 noble *hadith* from *Ghawali al-la’ali*:
 
-<blockquote dir="rtl">
-  <p>
-عَنِ المِقْدَادِ رَضِيَ اللهُ عَنْهُ أَنَّهُ قَالَ: سَمِعْتُ رَسُولَ
-اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُولُ: إن المَلائِكَةَ لَتَضَعُ
-أَجْنِحَتَهَا لِطَالِبِ العِلْمِ حَتَّى يَطَأَ عَلَيْهَا رَضاً بِهِ.
-  </p>
-</blockquote>
+> عَنِ المِقْدَادِ رَضِيَ اللهُ عَنْهُ أَنَّهُ قَالَ: سَمِعْتُ رَسُولَ
+> اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ يَقُولُ: إن المَلائِكَةَ لَتَضَعُ
+> أَجْنِحَتَهَا لِطَالِبِ العِلْمِ حَتَّى يَطَأَ عَلَيْهَا رَضاً بِهِ.
 
 It is narrated from Miqdad (R) that he said: I heard the Messenger of
 Allah (S) say, “Verily, the angels spread out their wings for the seeker
@@ -325,11 +287,7 @@ through certain levels where the way is closed to the archangels and
 where Gabriel, the one entrusted with delivering Divine revelations,
 confesses his inability and declares:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ دَنَوْتُ أَنْمُلَةً لَاحْتَرَقْتُ.
-  </p>
-</blockquote>
+> لَوْ دَنَوْتُ أَنْمُلَةً لَاحْتَرَقْتُ.
 
 Should I approach to the extent of an inch I will be burnt down.[^3]
 
@@ -352,11 +310,7 @@ existence, is the totality of all excellence and all the Names and
 Attributes of Beauty (*Jamal*) and Glory (*jalal*)*.* And it is
 mentioned in *hadith* that:
 
-<blockquote dir="rtl">
-  <p>
-عِلْمٌ كُلُّهُ قُدْرَةٌ كُلُّهُ.
-  </p>
-</blockquote>
+> عِلْمٌ كُلُّهُ قُدْرَةٌ كُلُّهُ.
 
 Knowledge in its entirety is power in its entirety.
 
@@ -378,21 +332,13 @@ traditions of the pure and infallible Ahl al-Bayt (A). Hence, in several
 places in the divine Scripture all the existents are mentioned as being
 engaged in the glorification of God:
 
-<blockquote dir="rtl">
-  <p>
-﴿يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ.﴾
 
 *All that is in the heavens and the earth magnifies God.*[^4]
 
-<blockquote dir="rtl">
-  <p>
-﴿تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ
-وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَكِنْ لَا
-تَفْقَهُونَ تَسْبِيحَهُمْ.﴾
-  </p>
-</blockquote>
+> ﴿تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ
+> وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَكِنْ لَا
+> تَفْقَهُونَ تَسْبِيحَهُمْ.﴾
 
 ***The seven heavens and the earth, and whosoever in them extol Him;
 nothing is, that does not proclaim His praise, but you do not understand
@@ -438,12 +384,8 @@ separation and nescience, as well as his deprivation from attaining to
 Furthermore, all beings have a *malakuti* aspect by means of which they
 possess life, consciousness, and all other functions of life. The verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ
-وَلِيَكُونَ مِنْ الْمُوقِنِينَ.﴾
-  </p>
-</blockquote>
+> ﴿وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ
+> وَلِيَكُونَ مِنْ الْمُوقِنِينَ.﴾
 
 ***Thus We showed Abraham the malakut of the heavens and the earth, so
 that he might be o f those having sure faith,*** (***6: 75***)
@@ -491,22 +433,14 @@ itself; though in conception it is contrary to it, it corresponds and is
 associated with it in the context of objective reality. The reality of
 existence is identical with ‘light’ and identical with consciousness:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***God is the Light of the heavens and the earth.*** (***24:35***)
 
 Hence, knowledge is same as light and in the noble verses faith (*iman*)
 and knowledge have been referred to as ‘light’.
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ لَمْ يَجْعَلْ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ لَمْ يَجْعَلْ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ.﴾
 
 ***And to whomsoever God assigns no light, no light has he.***
 (***24:40***)
@@ -514,19 +448,15 @@ and knowledge have been referred to as ‘light’.
 In the noble Light Verse, ‘light’ has been interpreted as ‘knowledge’
 according to the exegesis of the Infallible Ahl al-Bayt (A):
 
-<blockquote dir="rtl">
-  <p>
-عَنِ الفُضَيْلِ بْنِ يَسَارٍ قَالَ: قُلْتُ لأبِي عَبْدِاللهِ
-الصَّادِقِ عَلَيْهِ السَّلامُ: ﴿اللَّهُ نُورُ السَّمَاوَاتِ
-وَالْأَرْضِ.﴾ قَالَ: كَذَلِكَ اللهُ عَزَّ وَجَلَّ. قَالَ: قُلْتُ:
-﴿مَثَلُ نُورِهَ﴾ قَالَ: مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَآلِهِ.
-قُلْتُ: ﴿كَمِشْكَاةٍ﴾ قَالَ: صَدْرُ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ. قَالَ: قُلْتُ: ﴿فِيهَا مِصْبَاحٌ﴾ قَالَ: فِيهِ نُورُ
-العِلْمِ - يَعْنِي النُّبُوَّةَ. قُلْتُ: ﴿المِصْبَاحُ فِي زُجَاجَةٍ﴾
-قَالَ: عِلْمُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ صَدَرَ إلَى
-قَلْبِ عَلِيٍّ عَلَيْهِ السَّلامُ… الحديث.
-  </p>
-</blockquote>
+> عَنِ الفُضَيْلِ بْنِ يَسَارٍ قَالَ: قُلْتُ لأبِي عَبْدِاللهِ
+> الصَّادِقِ عَلَيْهِ السَّلامُ: ﴿اللَّهُ نُورُ السَّمَاوَاتِ
+> وَالْأَرْضِ.﴾ قَالَ: كَذَلِكَ اللهُ عَزَّ وَجَلَّ. قَالَ: قُلْتُ:
+> ﴿مَثَلُ نُورِهَ﴾ قَالَ: مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَآلِهِ.
+> قُلْتُ: ﴿كَمِشْكَاةٍ﴾ قَالَ: صَدْرُ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ. قَالَ: قُلْتُ: ﴿فِيهَا مِصْبَاحٌ﴾ قَالَ: فِيهِ نُورُ
+> العِلْمِ - يَعْنِي النُّبُوَّةَ. قُلْتُ: ﴿المِصْبَاحُ فِي زُجَاجَةٍ﴾
+> قَالَ: عِلْمُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ صَدَرَ إلَى
+> قَلْبِ عَلِيٍّ عَلَيْهِ السَّلامُ… الحديث.
 
 Al-Fudayl ibn Yasar says: I asked Abu ‘Abd Allah al-Sadiq (A) concerning
 the meaning of ‘Allah is the Light o f the Heavens and the earth.’ He
@@ -539,15 +469,11 @@ of knowledge that is prophethood.” I asked him, “(What is meant by) The
 lamp is in a glass?” He said, “(It means) the knowledge of the Messenger
 of Allah (S) emanated towards the heart of ‘Ali’ (A)…”[^7]
 
-<blockquote dir="rtl">
-  <p>
-وَعَنِ البَاقِرِ عَلَيْهِ السَّلامُ… أَنَّهُ يَقُولُ: أنَا هَادِي
-السَّمَاوَاتِ وَالأَرْضِ؛ مَثَلُ العِلْمِ الَّذِي أُعْطِيتُهُ وَهُوُ
-نُورِي الَّذِي يُهْتَدَى بِهِ مَثَلُ المِشْكَاةِ فِيهَا المِصْبَاحُ.
-فَالمِشْكَاةُ قَلْبُ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
-وَالمِصْبَاحُ نُورُهُ الَّذِي فِيهِ العِلْمُ.
-  </p>
-</blockquote>
+> وَعَنِ البَاقِرِ عَلَيْهِ السَّلامُ… أَنَّهُ يَقُولُ: أنَا هَادِي
+> السَّمَاوَاتِ وَالأَرْضِ؛ مَثَلُ العِلْمِ الَّذِي أُعْطِيتُهُ وَهُوُ
+> نُورِي الَّذِي يُهْتَدَى بِهِ مَثَلُ المِشْكَاةِ فِيهَا المِصْبَاحُ.
+> فَالمِشْكَاةُ قَلْبُ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِهِ،
+> وَالمِصْبَاحُ نُورُهُ الَّذِي فِيهِ العِلْمُ.
 
 It is narrated from Imam al-Baqir (A) that he said, “I am the guide of
 the heavens and the earth. The likeness of the knowledge that I have
@@ -555,13 +481,9 @@ been given-which is the light wherewith they are guided-is as a niche,
 wherein is a lamp. ‘The niche’ is the heart of Muhammad (S) and ‘the
 lamp’ is the knowledge: that is, its light that is in it.”[^8]
 
-<blockquote dir="rtl">
-  <p>
-وَفِي رِوَايَةٍ: فَالمُؤْمِنُ يَنْقَلِبُ فِي خَمْسَةٍ مِنَ النُّورِ:
-مَدْخَلُهُ نُورٌ وَمَخْرَجُهُ نُورٌ وَعِلْمُهُ نُورٌ وَكَلامُهُ نُورٌ
-وَمَصِيرُهُ إلَى الجَنَّةِ يَوْمَ القِيَامَةِ نُورٌ.
-  </p>
-</blockquote>
+> وَفِي رِوَايَةٍ: فَالمُؤْمِنُ يَنْقَلِبُ فِي خَمْسَةٍ مِنَ النُّورِ:
+> مَدْخَلُهُ نُورٌ وَمَخْرَجُهُ نُورٌ وَعِلْمُهُ نُورٌ وَكَلامُهُ نُورٌ
+> وَمَصِيرُهُ إلَى الجَنَّةِ يَوْمَ القِيَامَةِ نُورٌ.
 
 In a tradition, it is stated, “The man of faith moves in five lights:
 his entry is light; his exit is light; his knowledge is light; his
@@ -570,11 +492,7 @@ Resurrection is light.”[^9]
 
 And this is mentioned in a famous *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-العِلْمُ نُورٌ يَقْذِفُهُ اللهُ فِي قَلْبِ مَنْ يَشَاءُ.
-  </p>
-</blockquote>
+> العِلْمُ نُورٌ يَقْذِفُهُ اللهُ فِي قَلْبِ مَنْ يَشَاءُ.
 
 Knowledge is a light that God casts into the heart of anyone that He
 wishes.[^10]
@@ -602,11 +520,7 @@ intoxicated by carnal nature, we cannot differentiate reality from
 allegory, and reality appears to be an allegory to our eyes, for, in
 fact, in the world of metaphors reality takes the form of allegory.
 
-<blockquote dir="rtl">
-  <p>
-النَّاسُ نَيامٌ، فإذا مَاتُوا انْتَبَهُوا.
-  </p>
-</blockquote>
+> النَّاسُ نَيامٌ، فإذا مَاتُوا انْتَبَهُوا.
 
 The people are asleep and they wake up on death.[^11]
 
@@ -664,11 +578,7 @@ of this station, was nothing except knowledge and divine teachings,
 though by virtue of their corporeal birth and terrestrial life they
 possessed all the statuses associated with a human being:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ.﴾
 
 ***Say: I am only a moral the like of you.*** (***18:110***)
 
@@ -680,11 +590,7 @@ This noble *hadith* clearly implies or rather categorically states the
 fact of spiritual inheritance as explained. And that which the Noble
 Messenger (S) meant by the words ascribed to that master, that:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لا نُوَرِّثُ.
-  </p>
-</blockquote>
+> نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لا نُوَرِّثُ.
 
 We, prophets, do not leave any inheritance,[^12]
 
@@ -729,5 +635,4 @@ wording.)
 [^11]: Ibn Maytham al-Bahrani, Sharh al-sad kalimeh-ye qisar, 54.
 
 [^12]: Musnad Ahmad, ii, 463.
-
 

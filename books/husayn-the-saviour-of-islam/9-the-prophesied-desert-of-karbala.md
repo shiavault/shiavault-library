@@ -1305,4 +1305,3 @@ Sacrifice And We have shifted it among the later generation.”*
 This happened on 61 A.H. on the Bank of the Euphrates at Karbala in
 (Iraq).
 
-

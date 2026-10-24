@@ -35,7 +35,6 @@ senior pastor of the Cornerstone Church in San Antonia in Texas, in
 America's notorious 'Bible-belt', which is also the bastion of white
 racism and supremacy in America.
 
-
 **Introduction**
 
 Approximately a tenth of the American population is today a devoted
@@ -157,7 +156,6 @@ unimaginable scale, mainly against Muslims, and not peace and
 reconciliation, American Christian fundamentalists seem to believe, will
 herald the eventual establishment of the Kingdom of God, the rule of
 supposedly pious Christians all over the globe.
-
 
 John Hagee: Ideologue of Christian Zionist Messianic Imperialism and
 Advocate Of Cosmic War Against Islam and Muslims
@@ -413,5 +411,4 @@ including Muslims, will be slain. In short, a global war against Islam
 and Muslims is precisely what Hagee, like many others of his ilk, want
 to see unleashed in the hope that their wild messianic expectations will
 thereby be fulfilled.
-
 

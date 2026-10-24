@@ -13,13 +13,9 @@ heart.
 Imam Ja’far b. Muhammad as-Sadiq (as) has said the following in his
 supplication for the day of Friday:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ إِنِّـي أَتَقَرَّبُ إِلَيْكَ بِقَلْبٍ خَاضِعٍ وَ إِلـىٰ
-وَلِيِّكَ بِبَدَنٍ خَاشِعٍ وَ إِلـىٰ الأَئِمَّةِ الرَّاشِدِينَ
-بِفُؤَادٍ مُتَوَاضِعٍ
-  </p>
-</blockquote>
+> أَللّٰهُمَّ إِنِّـي أَتَقَرَّبُ إِلَيْكَ بِقَلْبٍ خَاضِعٍ وَ إِلـىٰ
+> وَلِيِّكَ بِبَدَنٍ خَاشِعٍ وَ إِلـىٰ الأَئِمَّةِ الرَّاشِدِينَ
+> بِفُؤَادٍ مُتَوَاضِعٍ
 
 “O’ Allah! Indeed I seek nearness to you with a submissive heart, and (I
 seek nearness) to your representative with a body that is humble; and (I
@@ -27,5 +23,4 @@ seek nearness) to the rightly guided A\`immah by a heart filled with
 humility.”[^1]
 
 [^1]: Ibid.
-
 

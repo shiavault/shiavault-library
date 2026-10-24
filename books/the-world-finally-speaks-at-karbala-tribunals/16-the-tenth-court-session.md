@@ -649,4 +649,3 @@ waited for the next court session and news conference following that.
 
 \*\*\*
 
-

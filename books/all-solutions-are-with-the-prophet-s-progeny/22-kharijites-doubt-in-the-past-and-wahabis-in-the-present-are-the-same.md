@@ -289,4 +289,3 @@ ignorance and being opinionated.
 
 [^3]: The author means either the mufti or the judge.
 
-

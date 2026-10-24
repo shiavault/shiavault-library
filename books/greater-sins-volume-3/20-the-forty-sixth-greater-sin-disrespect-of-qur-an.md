@@ -198,4 +198,3 @@ it is generally regarded as an act of disrespect, it is Harām.
 
 [^4]: al-Kāfi
 
-

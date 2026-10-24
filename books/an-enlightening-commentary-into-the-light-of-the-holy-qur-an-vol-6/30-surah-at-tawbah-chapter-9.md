@@ -8,11 +8,7 @@ Surah At-Tawbah, Chapter 9
 The Feature of Surah At-Tawbah
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -46,5 +42,4 @@ of immunity towards perjured idolaters.
 
 *“The Suras Al-Barā’t and Tauhid were revealed accompanied with seventy
 thousand rows of the angels.”*
-
 

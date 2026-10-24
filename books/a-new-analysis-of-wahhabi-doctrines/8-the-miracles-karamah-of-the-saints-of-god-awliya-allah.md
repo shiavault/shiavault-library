@@ -55,11 +55,7 @@ of his existence, like that of other living creatures and even the
 non-living ones, ceases to exist. They substantiate this statement of
 theirs with the verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ.﴾
 
 ***You will indeed die, and they {too} will die indeed**,*[^2]
 
@@ -76,21 +72,13 @@ The miracles of the saints of God as the effect of satisfaction of the soul and 
 
 According to the verses,
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا.﴾
 
 ***And whoever is wary of Allah, He shall make a way out for him**,*[^3]
 
 And
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَ.﴾
 
 ***Indeed Allah does not waste the reward of the virtuous**,*[^4]
 
@@ -162,11 +150,7 @@ idol-worship. As such, they believe that anyone, who takes recourse to
 these stones, makes a vow upon them, and takes them as intercessors, is
 a polytheist {*mushrik*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَيَقُولُونَ هَؤُلاَءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿وَيَقُولُونَ هَؤُلاَءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ.﴾
 
 ***And they say, 'These are our intercessors with Allah'**.*[^6]
 
@@ -191,22 +175,14 @@ corner of the *Ka'bah*, and the beginning and end of every *tawaf*
 2. The Station of Abraham {*maqam ibrahim*}: The Qur'an enjoins the
 Muslims to perform prayer at this site:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى.﴾
-  </p>
-</blockquote>
+> ﴿وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى.﴾
 
 ***Take the venue of prayer from Abraham's Station**.*[^8]
 
 3. The hills of Safa and Marwah: Regarding these two hills, the Qur'an
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ.﴾
 
 ***Indeed Safa and Marwah are among Allah's sacraments**.*[^9]
 
@@ -215,12 +191,8 @@ esteem the Prophet of Islam (s), the pure Imams (*'a*), the Qur'an, and
 the religious personalities, it is because they are among the sacraments
 of Allah and honoring them indicates the purity of hearts:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
-الْقُلُوبِ.﴾
-  </p>
-</blockquote>
+> ﴿وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى
+> الْقُلُوبِ.﴾
 
 ***And whoever venerates the sacraments of Allah—indeed that arises from
 God-wariness of hearts**.*[^10]
@@ -239,11 +211,7 @@ tree under which the Prophet (s) once rested; Ahmad ibn Hanbal deems it
 permissible to invoke blessings from the relics of the Messenger of
 Allah (s); and Sunni *fuqaha* believe that:
 
-<blockquote dir="rtl">
-  <p>
-زِيَارَةُ القُبُورِ أفْضَلُ الْمَنْدُوبَاتِ.
-  </p>
-</blockquote>
+> زِيَارَةُ القُبُورِ أفْضَلُ الْمَنْدُوبَاتِ.
 
 Visitation of graves is the best of all recommended (*mustahabb*) acts.
 
@@ -275,5 +243,4 @@ truthfulness of revelation.[^11]
 [^11]: See Sahih al-Bukhari, vol. 1, pp. 59, 105; vol. 7, p. 199; Fath
 al-Bari, vol. 1, pp. 256, 408; ‘Allamah Amini, Al-Ghadir, vol. 3, p. 170
 as cited in Ahmad Ahmadi Miyanji, At-Tabarruk bi Athar ar-Rasul, p. 66.
-
 

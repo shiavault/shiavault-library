@@ -13,4 +13,3 @@ the jail and when Al-Mukhtar saw the Noble Head, he shouted a loud cry.
 Thus, Al-Mukhtar was released afterwards, after Bin Ziad had injured his
 eye.
 
-

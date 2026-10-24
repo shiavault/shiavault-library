@@ -279,4 +279,3 @@ the purposes of discussion. Propositions to be used as premises for
 Demonstration make the most irresistible demands for our Assent;
 premises for lower kinds of discourse make weaker demands.
 
-

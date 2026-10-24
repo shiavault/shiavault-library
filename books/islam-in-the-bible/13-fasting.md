@@ -126,4 +126,3 @@ calendar. It includes acts of charity, alms and justice, and the
 especial avoidance of anger and quarrelling. As such it is identical
 with Islamic practice.
 
-

@@ -219,4 +219,3 @@ those stories which contain much grief and unhappiness. In this study,
 most of the women have found fulfillment and happiness in their decision
 to live a specific lifestyle-Islam.
 
-

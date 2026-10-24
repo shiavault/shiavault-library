@@ -21,11 +21,7 @@ outward appearance of a deed is good and proper, it would not have the
 value of worship.  
  In this regard, the Holy Prophet of Islam (S) said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّما الاَعْمالُ بِالنِّيات.
-  </p>
-</blockquote>
+> إِنَّما الاَعْمالُ بِالنِّيات.
 
 “Verily, the action is (judged) by the intention (behind it).”[^1]
 
@@ -46,17 +42,9 @@ they were given sincerely, on this account God revealed a *surah*.[^3]
 
 And concerning it, ‘Attar an-Nayshaburi says:
 
-<blockquote dir="rtl">
-  <p>
-گذشته زين جهان، وصف سنانش
-  </p>
-</blockquote>
+> گذشته زين جهان، وصف سنانش
 
-<blockquote dir="rtl">
-  <p>
-گذشته زآن جهان، وصف سِه نانش
-  </p>
-</blockquote>
+> گذشته زآن جهان، وصف سِه نانش
 
 *No one in this world can describe his sword. No one in the hereafter
 can describe his three loaves of bread.*
@@ -85,11 +73,7 @@ that their motive is not a hundred percent pure and sincere.
 self-awareness, and thus, the value of worship lies on gnosis and
 awareness. We read in a tradition:
 
-<blockquote dir="rtl">
-  <p>
-نِيَّةُ الْمُؤْمِنِ خَيْرٌ مِنْ عَمَلِهِ.
-  </p>
-</blockquote>
+> نِيَّةُ الْمُؤْمِنِ خَيْرٌ مِنْ عَمَلِهِ.
 
 “The intention of the believer is more valuable than his action.”[^6]
 
@@ -131,11 +115,7 @@ luminous and perfect and have more existential capacity {*zarfiyyat-e
 wujudi*}. All forms of worship, recommended prayers in particular, have
 significant roles in this affair, just as we read in a *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَزالُ الْعَبْد يَتَقَرَّبُ اِلىَّ بِالنَّوافِل.
-  </p>
-</blockquote>
+> لاَ يَزالُ الْعَبْد يَتَقَرَّبُ اِلىَّ بِالنَّوافِل.
 
 That is, man can always get nearer to God through recommended
 prayers.[^8]
@@ -173,11 +153,7 @@ that is, he obeys God based on love and affection.
 higher than obedience {*ita‘ah*} and love {*muhabbah*} and whatever he
 sees is only God. Hadrat ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-مارَأَيْتُ شَيْئاً إِلاّ و رَأَيْتُ الله قَبْلَه و بَعْدَه و مَعَه.
-  </p>
-</blockquote>
+> مارَأَيْتُ شَيْئاً إِلاّ و رَأَيْتُ الله قَبْلَه و بَعْدَه و مَعَه.
 
 “I do not see anything except God, before it, after it and with
 it.”[^12]
@@ -197,45 +173,21 @@ and silver. Meanwhile, it was observed that Ayyaz had abandoned the
 jewels and pursued the Sultan. The Sultan asked him: “Why did you not
 amass jewels?” In reply, Ayyaz said:
 
-<blockquote dir="rtl">
-  <p>
-منم در قفاى تو مى تاختم
-  </p>
-</blockquote>
+> منم در قفاى تو مى تاختم
 
-<blockquote dir="rtl">
-  <p>
-زخدمت نعمت نپرداختم
-  </p>
-</blockquote>
+> زخدمت نعمت نپرداختم
 
 *For me, I prefer to cling to you and thus I did not serve the grace
 {ni‘mah}.*  
  Then, from this event Mawlawi concludes:
 
-<blockquote dir="rtl">
-  <p>
-گر از دوست چشمت به احسان اوست
-  </p>
-</blockquote>
+> گر از دوست چشمت به احسان اوست
 
-<blockquote dir="rtl">
-  <p>
-تو در بند خويشى نه در بند دوست
-  </p>
-</blockquote>
+> تو در بند خويشى نه در بند دوست
 
-<blockquote dir="rtl">
-  <p>
-خلاف طريقت بود كاولياء
-  </p>
-</blockquote>
+> خلاف طريقت بود كاولياء
 
-<blockquote dir="rtl">
-  <p>
-تمنّا كنند از خدا جز خدا
-  </p>
-</blockquote>
+> تمنّا كنند از خدا جز خدا
 
 *If you are hoping for the Friend’s grace, you love yourself not the
 Friend.*  
@@ -246,12 +198,8 @@ The Qur’an has strongly condemned those who call on God only for their
 own sakes and remember Him only in times of problems and at other times
 forget or even deny Him:
 
-<blockquote dir="rtl">
-  <p>
-﴿ فَإِذا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللّهَ مُخْلِصينَ لَهُ
-الدِّينَ فَلَمّا نَجّاهُمْ إِلَى الْبَرِّ إِذا هُمْ يُشْرِكُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ فَإِذا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللّهَ مُخْلِصينَ لَهُ
+> الدِّينَ فَلَمّا نَجّاهُمْ إِلَى الْبَرِّ إِذا هُمْ يُشْرِكُونَ ﴾
 
 ***“When they board the ship, they invoke Allah putting exclusive faith
 in Him, but when He delivers them to land, behold, they ascribe partners
@@ -263,12 +211,8 @@ creatures is dualism; and making one’s work and that of the creatures
 for the sake of God is worship of God.  
  We thus read in the litanies {*munajat*}:
 
-<blockquote dir="rtl">
-  <p>
-إلٰهى ما عَبَدتُكَ خَوْفاً مِنْ نارِك وَ لا طَمَعاً في جَنَّتِك بَلْ
-وَجَدْتُك أهْلاً لِلْعِبادَة فَعَبْدتُك.
-  </p>
-</blockquote>
+> إلٰهى ما عَبَدتُكَ خَوْفاً مِنْ نارِك وَ لا طَمَعاً في جَنَّتِك بَلْ
+> وَجَدْتُك أهْلاً لِلْعِبادَة فَعَبْدتُك.
 
 “O God! My worship is not out of fear of hell or desire for Your
 paradise. Rather, it is because I found You worthy of being worshipped
@@ -279,13 +223,9 @@ but free and noble men worship Him to express their gratitude for the
 divine graces, just as has been narrated in the words of the Infallibles
 {*ma‘sumin*}[^15] (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-اِنَّ قَوماً عَبْدوا اللهَ رَغْبَةً فَتِلْك عِبادَةُ التُّجارِ وَ
-اِنَّ قَوماً عَبْدوا اللهَ رَهْبَةً فَتِلك عِبادَةُ الْعَبيدِ وَ اِنَّ
-قَوماً اللهَ عَبْدوا شُكْراً فَتِلكَ عِبادَةُ الاَحْرارِ.
-  </p>
-</blockquote>
+> اِنَّ قَوماً عَبْدوا اللهَ رَغْبَةً فَتِلْك عِبادَةُ التُّجارِ وَ
+> اِنَّ قَوماً عَبْدوا اللهَ رَهْبَةً فَتِلك عِبادَةُ الْعَبيدِ وَ اِنَّ
+> قَوماً اللهَ عَبْدوا شُكْراً فَتِلكَ عِبادَةُ الاَحْرارِ.
 
 “Indeed there is a group that worships Allah for gain; that is the
 worship of the trader. There is a group that worships Allah out of fear;
@@ -293,17 +233,9 @@ that is the worship of the slave. And there is a group that worships
 Allah out of gratitude; that is the worship of the free.”[^16]  
  In the language of Hafiz,[^17]
 
-<blockquote dir="rtl">
-  <p>
-در ضمير ما نمى گنجد بغير از دوست كس
-  </p>
-</blockquote>
+> در ضمير ما نمى گنجد بغير از دوست كس
 
-<blockquote dir="rtl">
-  <p>
-هر دو عالم را به دشمن دِه كه ما را دوست بس
-  </p>
-</blockquote>
+> هر دو عالم را به دشمن دِه كه ما را دوست بس
 
 *There is no one in our hearts (minds) but the Friend. Give the two
 worlds to the enemy as the Friend suffices for us.*
@@ -312,11 +244,7 @@ In materialistic love, the person loves his object of love for himself,
 but in spiritual love the person dedicates himself to the Beloved. In
 the Supplication of Kumayl {*du‘a’ kumayl*},[^18] ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-وَاجْعَلْ قَلْبِي بِحُبِّكَ مُتَيِّماً
-  </p>
-</blockquote>
+> وَاجْعَلْ قَلْبِي بِحُبِّكَ مُتَيِّماً
 
 “O Lord! Make my heart enthralled by Your love!”
 
@@ -378,11 +306,7 @@ Islam has paid much attention to the manner of performing a task and the
 underlying motive and purpose behind it. The Qur’an praises the *better
 acts* and not the *amount of acts accomplished*, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلاً ﴾
-  </p>
-</blockquote>
+> ﴿ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلاً ﴾
 
 ***“That He may test you {to see} which of you is best in
 conduct.”***[^21]
@@ -403,13 +327,9 @@ quantity, and on account of the sincerity and intention for nearness
 {*qurbah*} and not the weight and magnitude of the ring’s value that the
 following verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ
-الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
-رَاكِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ
+> الَّذِينَ يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ
+> رَاكِعُونَ ﴾
 
 ***“Your guardian is only Allah, His Apostle, and the faithful who
 maintain the prayer and give the zakat while bowing down.”***[^23]
@@ -436,12 +356,8 @@ nearness {*qurbah*} (to Allah), but rather for desire and fame. For this
 reason, the Qur’an likens the deeds of the infidels {*kuffar*} to a
 mirage which seems to be water but it is not:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
-الظَّمْآنُ مَاءً ﴾
-  </p>
-</blockquote>
+> ﴿ وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
+> الظَّمْآنُ مَاءً ﴾
 
 ***“As for the faithless, their works are like a mirage in a plain,
 which the thirsty man supposes to be water.”***[^24]
@@ -542,15 +458,11 @@ difference to a blind person as he cannot see, the Qur’an revealed a
 whole *surah* on account of that very frowning, and reproached the
 person who frowned in ten successive verses {*ayat*}:
 
-<blockquote dir="rtl">
-  <p>
-﴿ عَبَسَ وَتَوَلَّى ٭ أَنْ جَاءَهُ الأعْمَى ٭ وَمَا يُدْرِيكَ
-لَعَلَّهُ يَزَّكَّى ٭ أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَى ٭ أَمَّا
-مَنِ اسْتَغْنَى ٭ فَأَنْتَ لَهُ تَصَدَّى ٭ وَمَا عَلَيْكَ أَلا
-يَزَّكَّى ٭ وَأَمَّا مَنْ جَاءَكَ يَسْعَى ٭ وَهُوَ يَخْشَى ٭ فَأَنْتَ
-عَنْهُ تَلَهَّى ﴾
-  </p>
-</blockquote>
+> ﴿ عَبَسَ وَتَوَلَّى ٭ أَنْ جَاءَهُ الأعْمَى ٭ وَمَا يُدْرِيكَ
+> لَعَلَّهُ يَزَّكَّى ٭ أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَى ٭ أَمَّا
+> مَنِ اسْتَغْنَى ٭ فَأَنْتَ لَهُ تَصَدَّى ٭ وَمَا عَلَيْكَ أَلا
+> يَزَّكَّى ٭ وَأَمَّا مَنْ جَاءَكَ يَسْعَى ٭ وَهُوَ يَخْشَى ٭ فَأَنْتَ
+> عَنْهُ تَلَهَّى ﴾
 
 ***“He frowned and turned away when the blind man approached him. And
 how do you know, maybe he would purify himself, or take admonition, and
@@ -585,11 +497,7 @@ The motive for nearness {*qurbah*} means that an act must be done for
 the sake of God regardless of its resultant joy or pain. In describing
 the true believer, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ يُجاهِدُونَ في سَبيلِ اللّهِ وَ لا يَخافُونَ لَوْمَةَ لائِمٍ ﴾
-  </p>
-</blockquote>
+> ﴿ يُجاهِدُونَ في سَبيلِ اللّهِ وَ لا يَخافُونَ لَوْمَةَ لائِمٍ ﴾
 
 ***“(They) wage jihad in the way of Allah, not fearing the blame of any
 blamer.”***[^32]
@@ -598,12 +506,8 @@ The motive for nearness {*qurbah*} means that one must say the truth and
 not be concerned about anything or anybody except Him, just as the
 Qur’an thus describes the divine propagators:
 
-<blockquote dir="rtl">
-  <p>
-﴿ الَّذينَ يُبَلِّغُونَ رِسالاتِ اللّهِ وَ يَخْشَوْنَهُ وَ لا
-يَخْشَوْنَ أَحَدًا إِلاَّ اللّهَ وَ كَفى‏ بِاللّهِ حَسيبًا ﴾
-  </p>
-</blockquote>
+> ﴿ الَّذينَ يُبَلِّغُونَ رِسالاتِ اللّهِ وَ يَخْشَوْنَهُ وَ لا
+> يَخْشَوْنَ أَحَدًا إِلاَّ اللّهَ وَ كَفى‏ بِاللّهِ حَسيبًا ﴾
 
 ***“Such as deliver the messages of Allah and fear Him, and fear no one
 except Allah, and Allah suffices as reckoner.”***[^33]
@@ -726,12 +630,8 @@ the people according to the intentions they have.”[^45]
 For one whose aim is the performance of a duty, it is not important for
 him the type of work and its outcome. As the Qur’an says,
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ يُقاتِلْ في سَبيلِ اللّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ
-نُؤْتيهِ أَجْرًا عَظيمًا ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ يُقاتِلْ في سَبيلِ اللّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ
+> نُؤْتيهِ أَجْرًا عَظيمًا ﴾
 
 ***“And whoever fights in the way of Allah, and then is slain or
 conquers, soon We shall give him a great reward.”***[^46]
@@ -740,12 +640,8 @@ What is important is to struggle in the way of God, but as to whether
 its outcome is defeat or victory has no effect on the divine reward. In
 another place, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-﴿ وَ مَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهاجِرًا إِلَى اللّهِ وَ رَسُولِهِ
-ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللّهِ ﴾
-  </p>
-</blockquote>
+> ﴿ وَ مَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهاجِرًا إِلَى اللّهِ وَ رَسُولِهِ
+> ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللّهِ ﴾
 
 ***“And whoever leaves his home migrating toward Allah and His Apostle,
 and is then overtaken by death, his reward shall certainly fall on
@@ -818,12 +714,8 @@ Us with eagerness and awe.”***[^56]
 of gratitude for His favors whether he earns reward or punishment from
 God. As Hadrat ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ لَمْ يَتَوَعِّدَ اللهُ عَلىٰ مَعْصِيَتِهِ لَكانَ يَجِبُ اَلاّ
-يُعْصىٰ شُكْراً لِنِعْمَتِهِ.
-  </p>
-</blockquote>
+> لَوْ لَمْ يَتَوَعِّدَ اللهُ عَلىٰ مَعْصِيَتِهِ لَكانَ يَجِبُ اَلاّ
+> يُعْصىٰ شُكْراً لِنِعْمَتِهِ.
 
 “Even if Allah had not warned of the chastisement of those disobedient
 to Him, it was obligatory by way of gratefulness for His favors that He
@@ -853,11 +745,7 @@ ruling.[^59]
 
 With regard to swearing an oath, the Qur’an also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿ لا يُؤاخِذُكُمُ اللّهُ بِاللَّغْوِ في أَيْمانِكُمْ ﴾
-  </p>
-</blockquote>
+> ﴿ لا يُؤاخِذُكُمُ اللّهُ بِاللَّغْوِ في أَيْمانِكُمْ ﴾
 
 ***“Allah shall not take you to task for what is unconsidered in your
 oaths.”***[^60]
@@ -948,11 +836,7 @@ corrupt intention is a sign of wretchedness.”[^69]
 4. The blessing of life and daily living is taken away. In another
 place, Hadrat ‘Ali (*‘a*) says:
 
-<blockquote dir="rtl">
-  <p>
-عِنْدَ فَسادَ النِّيِّة تَرْتَفعُ الْبَرَكَة.
-  </p>
-</blockquote>
+> عِنْدَ فَسادَ النِّيِّة تَرْتَفعُ الْبَرَكَة.
 
 That is, God will take away the blessing from the person whose intention
 is not sound and he will not be able to make good use of divine
@@ -1162,5 +1046,4 @@ remorse on the Day of Resurrection since we have done nothing for God.
 [^69]: Ghurar al-Hikam, hadith 1610.
 
 [^70]: Ghurar al-Hikam, hadith 1615.
-
 

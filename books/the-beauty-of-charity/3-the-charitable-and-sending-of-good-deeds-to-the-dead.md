@@ -508,4 +508,3 @@ charity and so the torture had stopped. [^21]
 
 [^21]: Al Amwaat Yatakallamoona Ma’ana
 
-

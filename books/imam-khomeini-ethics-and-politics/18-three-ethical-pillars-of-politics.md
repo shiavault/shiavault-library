@@ -243,11 +243,7 @@ with another part. These questions and answers, and complaints about the
 pain thus continued until finally the tattooist got angry over this
 situation, flung the needles to the ground and said:
 
-<blockquote dir="rtl">
-  <p>
-شير بى دمّ و سر و اشكم كه ديد            اينچنين شيرى خدا هم نافريد
-  </p>
-</blockquote>
+> شير بى دمّ و سر و اشكم كه ديد            اينچنين شيرى خدا هم نافريد
 
 *Who (ever) saw a lion without tail and head and belly?*
 
@@ -314,21 +310,13 @@ seen for a person to whine over his own imperfection and lack of
 intelligence. Sa‘dī describes this mental condition in this manner:  
   
 
-<blockquote dir="rtl">
-  <p>
-ﻫﻤﻪﻛﺲ ﺮﺍ ﻋﻘﻞﺧﻮﺪ ﺒﻪ ﻛﻤﺎﻞﻨﻤﺎﻴﺪ ﻮﻓﺮﺰﻨﺪ ﺧﻮﺪﺒﻪ ﺠﻤﺎﻞ.
-  </p>
-</blockquote>
+> ﻫﻤﻪﻛﺲ ﺮﺍ ﻋﻘﻞﺧﻮﺪ ﺒﻪ ﻛﻤﺎﻞﻨﻤﺎﻴﺪ ﻮﻓﺮﺰﻨﺪ ﺧﻮﺪﺒﻪ ﺠﻤﺎﻞ.
 
 *Everyone thinks his own wisdom perfect and his child beautiful*.[514]
 
 Then, he slyly concludes:
 
-<blockquote dir="rtl">
-  <p>
-ﮔﺮ ﺍﺰﺒﺴﻴﻃ ﺰﻤﻴﻦﻋﻘﻞ ﻤﻨﻌﺪﻢﮔﺮﺪﺪ         ﺒﻪ ﺧﻮﺪﮔﻤﺎﻦ ﻨﺒﺮﺪﻫﻴﭻ ﮐﺲ ﮐﻪﻨﺎﺪﺍﻨﻢ
-  </p>
-</blockquote>
+> ﮔﺮ ﺍﺰﺒﺴﻴﻃ ﺰﻤﻴﻦﻋﻘﻞ ﻤﻨﻌﺪﻢﮔﺮﺪﺪ         ﺒﻪ ﺧﻮﺪﮔﻤﺎﻦ ﻨﺒﺮﺪﻫﻴﭻ ﮐﺲ ﮐﻪﻨﺎﺪﺍﻨﻢ
 
 *If wisdom were to cease throughout the world,*
 
@@ -370,12 +358,8 @@ ethics and ethical literature it is propounded that man should refrain
 from critical observation and should have an optimistic view of others.
 Hence, Hāfiz says:
 
-<blockquote dir="rtl">
-  <p>
-كمال سرّ محبت ببين نه نقصِ گناه          كه هر كه بى هنر افتد، نظر به
-عيب كند
-  </p>
-</blockquote>
+> كمال سرّ محبت ببين نه نقصِ گناه          كه هر كه بى هنر افتد، نظر به
+> عيب كند
 
 *Look well with love, and not at the filth of sin.*
 
@@ -653,18 +637,10 @@ convention, a preacher would pray for his enemies every time he ascended
 the pulpit. Because the people found fault with this practice—of his
 praying for the bad ones in place of the good ones,
 
-<blockquote dir="rtl">
-  <p>
-گفت: نيكويى از اينها ديده ام                من دعاشان زين سبب بگزيده
-ام
-  </p>
-</blockquote>
+> گفت: نيكويى از اينها ديده ام                من دعاشان زين سبب بگزيده
+> ام
 
-<blockquote dir="rtl">
-  <p>
-خُبث و ظلم و جور چندان ساختند           كه مرا از شر به خير انداختند
-  </p>
-</blockquote>
+> خُبث و ظلم و جور چندان ساختند           كه مرا از شر به خير انداختند
 
 *He replied, “I have seen (experienced) goodness from these folk:*
 
@@ -678,19 +654,11 @@ We will read a more explicit one in the poem of Abū Hayyān Andalusī, an
 Arab poet, who considers himself beholden by, and debtor to, his own
 enemies, deems their existence as necessary, and says:
 
-<blockquote dir="rtl">
-  <p>
-ﻋِﺪﺍي ﻠﻬﻢﻔﺿﻞٌ ﻋﻟﻰّ ﻮﻣﻧّﺔُ                         ﻔﻼﺍﺬﻫﺐﺍﻟﺭﺣﻣﻦ ﻤﻧﻰﺍﻻ
-ﻋﺎﺪﻴﺎ
-  </p>
-</blockquote>
+> ﻋِﺪﺍي ﻠﻬﻢﻔﺿﻞٌ ﻋﻟﻰّ ﻮﻣﻧّﺔُ                         ﻔﻼﺍﺬﻫﺐﺍﻟﺭﺣﻣﻦ ﻤﻧﻰﺍﻻ
+> ﻋﺎﺪﻴﺎ
 
-<blockquote dir="rtl">
-  <p>
-ﻫُﻢ ﺑﺣﺛﻮﺍﻋﻦ ﺰﻠّﺗﻲﻔﺎﺠﺗﻧﺒﺗﻬﺎ                       ﻮﻫﻢ
-ﻧﺎﻔﺳﻮﻧﻰﻔﺎﻜﺗﺳﺒﺖﺍﻠﻤﻌﺎﻠﻳﺎ
-  </p>
-</blockquote>
+> ﻫُﻢ ﺑﺣﺛﻮﺍﻋﻦ ﺰﻠّﺗﻲﻔﺎﺠﺗﻧﺒﺗﻬﺎ                       ﻮﻫﻢ
+> ﻧﺎﻔﺳﻮﻧﻰﻔﺎﻜﺗﺳﺒﺖﺍﻠﻤﻌﺎﻠﻳﺎ
 
 *For me enemies are favour and grace.*
 
@@ -783,17 +751,9 @@ pretentious, and worthless who, wearing sackcloth and wool, seek to gain
 a reputation for themselves. In reality, they have portrayed asceticism
 as a snare of guile. For instance, Hāfiz says:
 
-<blockquote dir="rtl">
-  <p>
-پشمينهﭙوش تندخو، از عشق نشنيده است بو
-  </p>
-</blockquote>
+> پشمينهﭙوش تندخو، از عشق نشنيده است بو
 
-<blockquote dir="rtl">
-  <p>
-از مستىاش رمزى بگو تا ترک هوشيارى كند
-  </p>
-</blockquote>
+> از مستىاش رمزى بگو تا ترک هوشيارى كند
 
 *The wool-clad hot-tempered has not heard of love;*
 
@@ -806,12 +766,8 @@ clothes as a symbol of asceticism, and keep their sleeves short as a
 sign of simplicity and abstinence from luxury. But all of these are
 tricks to deceive the people:
 
-<blockquote dir="rtl">
-  <p>
-به زير دلق ملمّع كمندها دارند               دراز دستى اين كوته آستينان
-بين
-  </p>
-</blockquote>
+> به زير دلق ملمّع كمندها دارند               دراز دستى اين كوته آستينان
+> بين
 
 *There are tricks under the patched-clothes;*
 
@@ -836,23 +792,11 @@ intrusively broken the jug of wine of an emir and had then run away,
 Mawlānā narrates the story thus in the words of the ascetic’s neighbors
 who had come to intercede on his behalf:]
 
-<blockquote dir="rtl">
-  <p>
-اوچهداندامرِمعروفازسگى           طالبِمعروفىاستوشهرگى
-  </p>
-</blockquote>
+> اوچهداندامرِمعروفازسگى           طالبِمعروفىاستوشهرگى
 
-<blockquote dir="rtl">
-  <p>
-تا بدين سالوس خود را جا كند             تا به چيزى خويشتن پيدا كند
-  </p>
-</blockquote>
+> تا بدين سالوس خود را جا كند             تا به چيزى خويشتن پيدا كند
 
-<blockquote dir="rtl">
-  <p>
-كو ندارد خود هنر الاّ همان                 كه تسلّس مىكند با اين و آن
-  </p>
-</blockquote>
+> كو ندارد خود هنر الاّ همان                 كه تسلّس مىكند با اين و آن
 
 *What should he know about enjoining (others) to do right?*
 
@@ -1115,12 +1059,8 @@ oneself of the [divinely-endowed] favours, but a sort of independence
 and detachment from worldly possessions, absence of attachment, and in
 the words of Hāfiz, freedom from any ‘color’ of attachment:
 
-<blockquote dir="rtl">
-  <p>
-غلامِ همّت آنم كه زيرِ چرخ كبود           ز هرچه رنگ تعلق پذيرد آزاد
-است
-  </p>
-</blockquote>
+> غلامِ همّت آنم كه زيرِ چرخ كبود           ز هرچه رنگ تعلق پذيرد آزاد
+> است
 
 *I am slave of he under the sky (the world)*
 
@@ -1485,5 +1425,4 @@ are deemed part of the triple pillars of ethical politics. The one who
 can tread this path is like Ya‘qūb ibn Layth as-Saffārī[596] who would
 suffice with mere bread and onion, and reckon ascetic life as his motto
 so as to be counted as a formidable threat to the ‘Abbāsid caliphate.
-
 

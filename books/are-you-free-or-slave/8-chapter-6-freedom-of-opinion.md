@@ -1123,4 +1123,3 @@ vol.II.PP. 59-71
 
 [^29]: About the Islamic Revolution.
 
-

@@ -331,7 +331,6 @@ Related from Amir-ul-Mu'mineen 'Ali (A) who said:
 contract with a person and you intend to keep it but he intends to break
 it.'
 
-
 **Cease fire during the Sacred Months**
 
 Related fro m 'Ala' ibn al-Fudail who said: 'I asked him Imam Saadiq
@@ -462,12 +461,10 @@ prisoners was o nly in extraordinary cases because the Imam release of
 prisoners is well recorded in the chronicles. The account of Asbagh ibn
 Darar, presented later, is one example of this.
 
-
 **Those who were forced to fight should not be killed**
 
 In the book Da'aim al-Islam, related from Amir-ul-Mu'mineen 'Ali (A)
 who said: 'The Messenger of Allah (S) said on the day of the battle of
 Badr: 'Whoever you capture of the Clan of 'Abd al-Muttalib, then do not
 kill them for they have been forced to fight against their wills.'
-
 

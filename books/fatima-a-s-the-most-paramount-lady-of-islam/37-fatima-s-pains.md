@@ -101,9 +101,7 @@ Ali (peace be upon him), in the mosque while praying, could observe
 Hasan’s peace treaty for Oma safety, could witness the martyrdom of her
 dear son, Hossein and his shout, saying,
 
-<p dir="rtl">
 “ هل من ناصر ينصرني”
-</p>
 
 *[is there anyone to assist me?].*
 
@@ -122,5 +120,4 @@ taking root from the strokes of the whip, the pain of her broken side,
 the pain of miscarriage, the pain of losing her father, and the pain of
 people’s insult to Ali (peace be upon him), that were not considered as
 real pains for her.
-
 

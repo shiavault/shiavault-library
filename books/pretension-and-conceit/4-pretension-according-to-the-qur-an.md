@@ -15,4 +15,3 @@ offering Him sincere devotion, being true (in faith). (Qur'ān, 98:5)***
 in the worship of his Lord, admit no one as (His) partner. (Qur'ān,
 18:110)***
 
-

@@ -185,4 +185,3 @@ by night and (by) day.***[^12]
 
 [^12]: Holy Qur’an, 30: 23.
 
-

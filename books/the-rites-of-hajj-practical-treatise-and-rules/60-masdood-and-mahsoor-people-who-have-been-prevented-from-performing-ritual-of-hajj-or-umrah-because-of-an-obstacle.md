@@ -99,4 +99,3 @@ Whenever a person become healthy and can reach Hajj and perform at least
 one of two Wuqufs, then he/she should go and perform the rest of the
 rituals, too.
 
-

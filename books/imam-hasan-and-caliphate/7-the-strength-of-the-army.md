@@ -314,4 +314,3 @@ fi al Tarikh, 1989, vol. 2, p.453.
 
 [^9]: Ibid.
 
-

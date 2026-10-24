@@ -9,4 +9,3 @@ Ibn Sa'ad to the right path and leave Yazeed Ibn Mu’awiyyah, but to no
 avail. He was killed early in Karbala right after the martyrdom of Al
 Hurr Ibn Yazeed Al-Riyahi.
 
-

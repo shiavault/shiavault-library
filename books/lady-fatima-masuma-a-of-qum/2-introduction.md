@@ -51,12 +51,8 @@ three Holy Imams (A) which are quoted below:
 
 From the 6th Imam, Imam Ja\`far al-Şādiq (A):
 
-<blockquote dir="rtl">
-  <p>
-تُقبَض فيها امْراةٌ منْ وُلْدى، اِسْمُها فاطِمَةُ بِنْتُ مُوسى،
-وتَدْخُلُ بِشَفاعَتِها شيعَتي الجنّة بَأجْمَعِهِمْ
-  </p>
-</blockquote>
+> تُقبَض فيها امْراةٌ منْ وُلْدى، اِسْمُها فاطِمَةُ بِنْتُ مُوسى،
+> وتَدْخُلُ بِشَفاعَتِها شيعَتي الجنّة بَأجْمَعِهِمْ
 
 **“A lady from my children whose name will be Fatima, daughter of Mūsā,
 will die in Qum. On the day of Judgement this lady will intercede for
@@ -64,22 +60,14 @@ all my Shi\`a to enter Heaven.”**[^1]
 
 From the 8th Imam, Imam Ali al-Ridā (A):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَ الْمَعْصومَةَ بِقُمْ كَمَنْ زارَني
-  </p>
-</blockquote>
+> مَنْ زارَ الْمَعْصومَةَ بِقُمْ كَمَنْ زارَني
 
 **“Whoever visits Masuma in Qum is like the one who has visited
 me.”**[^2]
 
 From the 9th Imam, Imam Muhammad Taqī al-Jawād (A):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ زارَ عَمَّتي بِقُمَّ فَلَهُ الجَنَّةُ
-  </p>
-</blockquote>
+> مَنْ زارَ عَمَّتي بِقُمَّ فَلَهُ الجَنَّةُ
 
 **"Whoever visits my aunt in Qum will enter Heaven.”**[^3]
 
@@ -90,5 +78,4 @@ Qādī Nūrullāh Shūshtarī, Majālis al-Mu’minīn, vol. 1, p. 83.
 68; Shaykh Dhabīhullāh Mahallātī, Rayāhīn al-Sharī\`ah, vol. 5, p. 35.
 
 [^3]: Bihār al-Anwār, vol. 102, p. 265.
-
 

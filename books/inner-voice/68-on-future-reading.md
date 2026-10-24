@@ -45,4 +45,3 @@ birth to son, he would say: “I had already forecasted “son: not
 daughter”. Otherwise, the prophecy would be interpreted as “son not;
 daughter”.
 
-

@@ -1036,4 +1036,3 @@ Tehran: Center for Information of the United Nations, 1997, p. 3.
 
 [^47]: Ibid., pp.5-6
 
-

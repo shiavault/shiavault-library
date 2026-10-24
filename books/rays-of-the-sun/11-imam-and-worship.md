@@ -158,4 +158,3 @@ time.[^8] 
 
 [^8]: Bardashthayi az Seereye Imam Khomeini, Vol 2, Pg. 25
 
-

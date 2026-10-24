@@ -34,4 +34,3 @@ of thought and objective examination of the text, he has come to
 conclusions which will surprise the reader no matter what his or her
 religious background
 
-

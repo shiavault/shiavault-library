@@ -1138,4 +1138,3 @@ Tal’at, D«r al-Kutub, Cairo).
 Zedler, B. H., ‘Averroes and Immortality’, New Scholasticism, 1954, pp.
 436-53.
 
-

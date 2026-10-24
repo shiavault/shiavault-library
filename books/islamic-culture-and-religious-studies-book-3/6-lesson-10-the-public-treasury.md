@@ -236,7 +236,6 @@ announced his stance on the equal distribution from public treasury?
 5. After his brother Aqeel had come to him several times, what did the
 Imam (a.s.) do?
 
-
 **Lesson 11 : Jehad in Islam**
 
 Jehad in the Arabic language literally means 'Struggle'. Under certain
@@ -404,5 +403,4 @@ in the Qur'an? Who and what make up this deal ?
 4. Explain what Defensive Jehad is.
 
 5. Explain the circumstances that give rise to Internal Jehad.
-
 

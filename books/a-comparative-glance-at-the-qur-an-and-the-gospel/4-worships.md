@@ -84,4 +84,3 @@ difference with that of Islam can not be determined. In other words, the
 Gospels just show the existence of prayer and fasting in the
 Christianity (without elaborating the way of performing them).
 
-

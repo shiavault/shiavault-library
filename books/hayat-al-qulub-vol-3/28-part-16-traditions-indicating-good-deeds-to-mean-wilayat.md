@@ -6,13 +6,9 @@ Traditions that indicate ‘good deeds’ to mean the Wilayat of Ahlul Bayt
 
 First Verse:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ
-يَوْمَئِذٍ آمِنُونَ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ
-فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ.
-  </p>
-</blockquote>
+> مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ
+> يَوْمَئِذٍ آمِنُونَ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ
+> فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ.
 
 ***Whoever brings good, he shall have better than it; and they shall be
 secure from terror on the day. And whoever brings evil, these shall be
@@ -21,13 +17,9 @@ aught except what you did? (Surah Naml:89-90)***
 
 And said in another place:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَمَنْ جَاءَ
-بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَّا
-مَا كَانُوا يَعْمَلُونَ.
-  </p>
-</blockquote>
+> مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَمَنْ جَاءَ
+> بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَّا
+> مَا كَانُوا يَعْمَلُونَ.
 
 ***Whoever brings good, he shall have better than it, and whoever brings
 evil, those who do evil shall not be rewarded (for) aught except what
@@ -72,11 +64,7 @@ of we, Ahlul Bayt (a.s.), Allah would send him directly to Hell.
 
 Second Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا.
-  </p>
-</blockquote>
+> وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا.
 
 ***…And whoever earns good, We give him more of good therein… (Surah
 Shuraa 42:23)***
@@ -88,12 +76,8 @@ that Imam Hasan (a.s.) signed a peace treaty with Muawiyah and recited a
 sermon in which he said: We are the Ahlul Bayt whose love is incumbent
 upon every Muslim. As Allah said:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
-الْقُرْبَى.
-  </p>
-</blockquote>
+> قُلْ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي
+> الْقُرْبَى.
 
 ***Say: I do not ask of you any reward for it but love for my near
 relatives… (Surah Shuraa 42:23)***
@@ -107,11 +91,7 @@ The ‘good’ is the love of us, Ahlul Bayt (a.s.).
 
 Third Verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ.
-  </p>
-</blockquote>
+> وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ.
 
 ***And not alike are the good and the evil. (Surah Fussilat 41:34)***
 
@@ -126,12 +106,8 @@ It is mentioned in other traditions that ‘good’ means dissimulation
 
 Fourth Verse:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا مَنْ أَعْطَى وَاتَّقَى. وَصَدَّقَ بِالْحُسْنَى.
-فَسَنُيَسِّرُهُ لِلْيُسْرَى.
-  </p>
-</blockquote>
+> فَأَمَّا مَنْ أَعْطَى وَاتَّقَى. وَصَدَّقَ بِالْحُسْنَى.
+> فَسَنُيَسِّرُهُ لِلْيُسْرَى.
 
 ***Then as for him who gives away and guards (against evil), and accepts
 the best. We will facilitate for him the easy end. (Surah Layl
@@ -169,11 +145,7 @@ on it very fast. And that person who is more pious will be soon taken
 away from Hell fire. The Imam said that pious denotes the Holy Prophet
 (S) and those who follows him absolutely in words and deeds.
 
-<blockquote dir="rtl">
-  <p>
-الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى.
-  </p>
-</blockquote>
+> الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى.
 
 ***Who gives away his wealth, purifying himself… (Surah Layl 92:18)***
 
@@ -181,11 +153,7 @@ It means the one who gives Zakat from his wealth or spends to purify his
 soul and not for showing-off or to make people aware of it. The Imam
 said that it refers Ali (a.s.) who gave Zakat while bowing down (Rukoo).
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى.
-  </p>
-</blockquote>
+> وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى.
 
 ***And no one has with him any boon for which he should be
 rewarded…(Surah Layl 92:19)***
@@ -196,11 +164,7 @@ the whole creation, which is forever.
 
 Furat Ibne Ibrahim has narrated from Imam Sadiq (a.s.) on the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَّبَ بِالْحُسْنَى
-  </p>
-</blockquote>
+> وَكَذَّبَ بِالْحُسْنَى
 
 ***And rejects the best… (Surah Layl 92:9)***
 
@@ -208,22 +172,14 @@ That those who falsify and do not accept the Wilayat of Imam Ali (a.s.)
 ‘We will facilitate for him the difficult end.’ That is for them is the
 fire of Hell.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى.
-  </p>
-</blockquote>
+> وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى.
 
 ***And his wealth will not avail him when he perishes. (Surah Layl
 92:19)***
 
 Imam (a.s.) said that after death no deeds of his would benefit him.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلَيْنَا لَلْهُدَى.
-  </p>
-</blockquote>
+> إِنَّ عَلَيْنَا لَلْهُدَى.
 
 ***Surely Ours is it to show the way…(Surah Layl 92:12)***
 
@@ -233,22 +189,14 @@ Surely Ali is to show the way…
 
 It means Ali and His Mastership is guidance.
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْذَرْتُكُمْ نَارًا تَلَظَّى.
-  </p>
-</blockquote>
+> فَأَنْذَرْتُكُمْ نَارًا تَلَظَّى.
 
 ***Therefore I warn you of the fire that flames… (Surah Layl 92:14)***
 
 The Imam said that it is means the fire of Qaem Aale Muhammad (a.s.)
 when he will reappear with a sword and kill 1999 people.
 
-<blockquote dir="rtl">
-  <p>
-لَا يَصْلَاهَا إِلَّا الْأَشْقَى. الَّذِي كَذَّبَ وَتَوَلَّى.
-  </p>
-</blockquote>
+> لَا يَصْلَاهَا إِلَّا الْأَشْقَى. الَّذِي كَذَّبَ وَتَوَلَّى.
 
 ***None shall enter it but the unhappiest. Who gives the lie (to the
 truth) and turns (his) back. (Surah Layl 92:15-16)***
@@ -256,11 +204,7 @@ truth) and turns (his) back. (Surah Layl 92:15-16)***
 Imam said that only those would be put in the fire of Qaem Aale Muhammad
 who are the most unjust, who deny the truth and turn away.
 
-<blockquote dir="rtl">
-  <p>
-وَسَيُجَنَّبُهَا الْأَتْقَى. الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى.
-  </p>
-</blockquote>
+> وَسَيُجَنَّبُهَا الْأَتْقَى. الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى.
 
 ***And away from it shall be kept the one who guards most (against
 evil). Who gives away his wealth, purifying himself… (Surah
@@ -271,26 +215,17 @@ deserving it would be kept away from that fire. It means that those
 pious believers would be safe who are bestowed with the knowledge of
 Qaem Aale Muhammad.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى.
-  </p>
-</blockquote>
+> وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى.
 
 ***And no one has with him any boon for which he should be rewarded…
 (Surah Layl 92:19)***
 
 It means that whatever he does is for the pleasure of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَلَسَوْفَ يَرْضَى.
-  </p>
-</blockquote>
+> وَلَسَوْفَ يَرْضَى.
 
 ***And he shall soon be well-pleased. (Surah Layl 92:21)***
 
 Imam said that he will get so much rewards from Allah that he would be
 satisfied.
-
 

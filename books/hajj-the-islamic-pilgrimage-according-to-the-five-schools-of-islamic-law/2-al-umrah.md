@@ -79,11 +79,7 @@ Imamiyyah legists, it is obligatory (*wajib*) for one who is
 *mustati\`,* and desirable (*mustahabb*) for one who is not *mustati:*
 In support, they cite the Qur'anic verse:
 
-<blockquote dir="rtl">
-  <p>
- وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ
-  </p>
-</blockquote>
+>  وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ
 
 (Perform the Hajj and the \`Umrah for Allah.)[^1]
 
@@ -185,5 +181,4 @@ statements of fuqaha' are not free of confusion... the one which appears
 sounder is that those who live far away from Mecca are relieved of the
 obligation of ‘Umrah mufradah, and that which is obligatory upon them is
 'Umrat al‑tamattu; whose wujub is related to that of Hajj.
-
 

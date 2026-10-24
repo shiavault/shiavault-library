@@ -132,4 +132,3 @@ bring the world to adequate evidence. The being of the world necessarily
 transcends consciousness; nevertheless the world is inseparable from
 transcendental subjectivity.
 
-

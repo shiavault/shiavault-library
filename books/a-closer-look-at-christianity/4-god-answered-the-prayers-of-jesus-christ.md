@@ -14,4 +14,3 @@ verse shows when Jesus asked of God to***“let this cup pass from”***
 (Matthew 26:39) him, God responded to his prayer and saved him from
 death or crucifixion.
 
-

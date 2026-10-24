@@ -6,4 +6,3 @@ the predicate noun or adjective has to be in the accuasative case.
 
 The professor is not Egyptian.        **ليسَ الاستاذ ُ مصريَّاً.**
 
-

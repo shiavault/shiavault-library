@@ -90,13 +90,9 @@ history of Shi'ism in particular, and for the world of Islam in general.
 what action he took in these circumstances, as he recounted when he
 said:
 
-<blockquote dir="rtl">
-  <p>
-عَيْنَ الْفِتْنَةِ، وَلَمْ يَكُنْ لِيَجْتَرِىءَ عَلَيْهَا أَحَدٌ
-غَيْرِي بَعْدَ أَنْ مَاجَ غَيْهَبُهَا، وَاشْتَدَّ كَلَبُهَا  فَإِنِّي
-فَقَأْتُ.
-  </p>
-</blockquote>
+> عَيْنَ الْفِتْنَةِ، وَلَمْ يَكُنْ لِيَجْتَرِىءَ عَلَيْهَا أَحَدٌ
+> غَيْرِي بَعْدَ أَنْ مَاجَ غَيْهَبُهَا، وَاشْتَدَّ كَلَبُهَا  فَإِنِّي
+> فَقَأْتُ.
 
 I have put out the eye of revolt. No-one had the daring to do this
 except me when its gloom had surged up and its rabidity had become
@@ -191,11 +187,7 @@ Prophet of Islam, who sent them all over the region, was able to employ
 them to advantage. Also, when they were sent to do *jihad,* they knew
 what they were fighting for. In the words of Amir al-mu'minin (as):
 
-<blockquote dir="rtl">
-  <p>
-حَمَلُوا بَصَائِرَهُم عَلَى أسيَافِهم
-  </p>
-</blockquote>
+> حَمَلُوا بَصَائِرَهُم عَلَى أسيَافِهم
 
 *They linked their profound understanding with their swords.*
 
@@ -271,12 +263,8 @@ swords in these people's hands, and arrows in their bows.
 'Ali explained this characteristic of theirs in a very sublime and
 subtle way, when he said:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَنتُم شِرَارُ النَّاسِ، وَمَنٌ رَمَى بِهِ الشَّيْطَانُ مَرَ
-امِيَهُ, وَضَرَبَ بِهِ تِيهَهُ!
-  </p>
-</blockquote>
+> ثُمَّ أَنتُم شِرَارُ النَّاسِ، وَمَنٌ رَمَى بِهِ الشَّيْطَانُ مَرَ
+> امِيَهُ, وَضَرَبَ بِهِ تِيهَهُ!
 
 *Thus you are the worst of people; you are arrows in the hand of Satan
 which he uses to strike his target, and through you he casts people into
@@ -289,12 +277,8 @@ verses of the Qur'an. It was from here that they began to take on a
 religious coloring and become delineated as a sect and as a way. There
 is a verse in the Qur'an which says:
 
-<blockquote dir="rtl">
-  <p>
-إِنِ الْحُكْمُ إِلَّا لِلَّهِ يَقُصُّ الْحَقَّ وَهُوَ خَيْرُ
-الْفَاصِلِينَ
-  </p>
-</blockquote>
+> إِنِ الْحُكْمُ إِلَّا لِلَّهِ يَقُصُّ الْحَقَّ وَهُوَ خَيْرُ
+> الْفَاصِلِينَ
 
 ***The judgement (hukm) is Allah's alone, He relates the truth and He is
 the Best of deciders. (Qur'an, 6: 57)***
@@ -608,11 +592,7 @@ interpreters. When these people invited us to name the Qur'an as
 arbitrator between us, we could not let ourselves be the party which
 turned away from the Book of Allah. since He has said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ
-  </p>
-</blockquote>
+> فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ
 
 ***And then, if you quarrel about anything, refer it to Allah and the
 Prophet. (an-Nisa', 4:59)***
@@ -963,5 +943,4 @@ We shall guide them in Our ways. (al-\`Ankabut, 29:69)
 [^8]: Nahju 'l-balaghah, Sermon no. 124
 
 [^9]: See the end of sermon no. 2 in Nahju 'l-balaghah
-
 

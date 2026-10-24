@@ -14,4 +14,3 @@ others.
 and friendship. One of the qualities of the morals of Islam is to keep
 secrets and we should keep others secrets.
 
-

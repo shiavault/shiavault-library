@@ -361,4 +361,3 @@ Prophet's face immediately showed the redness of anger. Refer to this
 incident at the beginning of page 78, Vol. 2, of Sharh Nahjul Balaghah
 by al-Hamidi.
 
-

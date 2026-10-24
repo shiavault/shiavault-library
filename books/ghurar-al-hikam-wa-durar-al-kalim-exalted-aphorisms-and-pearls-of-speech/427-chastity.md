@@ -73,11 +73,7 @@ chastisement].
 of sustenance is lightened.
 
 > 17ـ عَلَيْكَ بِالعَفافِ والقُنُوعِ، فَمَنْ أخَذَبِهِ خَفَّتْ عَلَيْهِ
-<blockquote dir="rtl">
-  <p>
-المُؤَنُ.
-  </p>
-</blockquote>
+> المُؤَنُ.
 
 18. Espouse chastity, for indeed it is the best trait of the honourable
 ones.
@@ -89,11 +85,7 @@ are the most honourable of what you can do in secret and the best of
 what you can practice openly, and the finest of what you can preserve.
 
 > 19ـ عَلَيْكُمْ بِلُزُومِ العِفَّةِ، والأمانَةِ، فَإنَّهُما أشْرَفُ ما
-<blockquote dir="rtl">
-  <p>
-أسْرَرْتُمْ وأحْسَنُ ما أعْلَنْتُمْ، وأفْضَلُ مَا ادَّخَرْتُمْ.
-  </p>
-</blockquote>
+> أسْرَرْتُمْ وأحْسَنُ ما أعْلَنْتُمْ، وأفْضَلُ مَا ادَّخَرْتُمْ.
 
 20. To the extent of modesty, there is chastity.
 
@@ -103,11 +95,7 @@ what you can practice openly, and the finest of what you can preserve.
 [forbidden] pleasures, how can he not remain chaste?!
 
 > 21ـ عَجِبْتُ لِمَنْ عَرَفَ سُوءَ عَواقِبِ اللَّذّاتِ كَيْفَ
-<blockquote dir="rtl">
-  <p>
-لايَعِفُّ؟!
-  </p>
-</blockquote>
+> لايَعِفُّ؟!
 
 22. Just as you desire, be chaste.
 
@@ -144,10 +132,5 @@ becomes great in the sight of Allah.
 pious and satisfied [with His will].
 
 > 29ـ إنَّ اللّهَ سُبْحانَهُ يُحِبُّ المُتَعَفِّفَ الحَيِيَّ التَّقِيَّ،
-<blockquote dir="rtl">
-  <p>
-الرَّاضِيَ.
-  </p>
-</blockquote>
-
+> الرَّاضِيَ.
 

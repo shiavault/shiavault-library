@@ -2023,4 +2023,3 @@ discussions, in view of the schedule of the Sunni visitors from
 Afghanistan as well as Well-Wisher, the outcome of which was a decision
 to continue.
 
-

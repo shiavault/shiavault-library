@@ -71,4 +71,3 @@ invalid and its consequences become invalid too, both in this life and
 in the next world. Even if the sentence of this verdict is carried out,
 it is corrupt, invalid, and unjust.
 
-

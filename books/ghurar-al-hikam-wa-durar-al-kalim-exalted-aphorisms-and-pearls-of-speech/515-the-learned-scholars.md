@@ -7,11 +7,7 @@ The Learned Scholars
 mercy of Allah nor cause them to despair of the comfort of Allah.
 
 > 1ـ اَلفَقِيهُ كُلُّ الفَقيهِ مَنْ لَمْ يُقَنِّطِ النّاسَ مِنْ رَحْمَةِ
-<blockquote dir="rtl">
-  <p>
-اللّهِ ولَمْ يُؤْيِسْهُمْ مِنْ رَوْحِ اللّهِ.
-  </p>
-</blockquote>
+> اللّهِ ولَمْ يُؤْيِسْهُمْ مِنْ رَوْحِ اللّهِ.
 
 2. The bane of scholars is not safeguarding themselves [from error].
 
@@ -30,5 +26,4 @@ mercy of Allah nor cause them to despair of the comfort of Allah.
 Allah.
 
 > 5ـ إذا فَقِهْتَ فَتَفَقَّهْ في دينِ اللّهِ.
-
 

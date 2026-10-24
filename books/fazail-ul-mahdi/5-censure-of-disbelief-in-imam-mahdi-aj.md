@@ -26,4 +26,3 @@ Prophets and denies Muhammad, sallallaho Alaihe wa Aalehi."[^3]
 
 [^3]: Kamaaluddin Vol.2. Pg. 338 and 411.
 
-

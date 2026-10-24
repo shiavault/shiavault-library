@@ -30,4 +30,3 @@ may not be quite correct for you. Do not make haste in seeking
 confirmation of tale-telling, for the tale-teller is a deceitful person
 appearing in the garb of a friend.
 
-

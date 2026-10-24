@@ -160,4 +160,3 @@ through narration?
 
 7. Explain the distribution of the issues of theology.
 
-

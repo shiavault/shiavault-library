@@ -303,12 +303,8 @@ ignorant of the rationale of Islam?
 Has the Qur’an not stated the purpose of sending the Prophets and
 Messengers? Has the Qur’an not most explicitly stated:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ
-الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ
-  </p>
-</blockquote>
+> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ
+> الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ
 
 **“*****Indeed, we sent our messengers with the clear signs, and we sent
 down with them the Book and the Balance so that men might uphold
@@ -347,11 +343,7 @@ misunderstanding.
  Firstly, it is now fourteen centuries since the Qur’an discredited
 those who said:
 
-<blockquote dir="rtl">
-  <p>
-نُؤمِن ببعض ونكفُر ببعض
-  </p>
-</blockquote>
+> نُؤمِن ببعض ونكفُر ببعض
 
 **(..*****We believe in some of it and disbelieve in some...***
 **Qur’an)**
@@ -409,11 +401,7 @@ they at present have on the day they were brought into existence on this
 earth, and no change has occurred in their condition. It is only the
 human being, whose life, according to the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَخُلِقَ الْإِنْسَانُ ضَعِيفًا
-  </p>
-</blockquote>
+> وَخُلِقَ الْإِنْسَانُ ضَعِيفًا
 
 ***(..And the man was created weak… Qur’an 4:28)***
 
@@ -844,11 +832,7 @@ I cannot expand upon this point any further in this article except that
 I shall try to clarify the point in the minds of my respected readers by
 means of a few examples.
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ
-  </p>
-</blockquote>
+> وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ
 
 ***And prepare against them whatever force you can.*** **(Qur’an.8:60)**
 
@@ -891,11 +875,7 @@ ownership is exchange.
 
 Islam has laid down principles to do with exchange: one of which is:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ
-  </p>
-</blockquote>
+> وَلَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ
 
 ***Do not consume your wealth amongst yourselves in vain*****, (Qur’an,
 2:188).**
@@ -1144,5 +1124,4 @@ matters pertaining to the shari’ah. A marked difference exists between
 Sunni Islam and Shi’ite Islam in the matters of ijtihad, since in the
 former the “gate of ijtihad” has been closed since the 3rd century A.H.,
 while in the latter it is still open.
-
 

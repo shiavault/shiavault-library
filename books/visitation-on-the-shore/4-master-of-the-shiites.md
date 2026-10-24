@@ -48,7 +48,6 @@ The child left his father and we, in wonder and amazement, looked at
 him. Instantly the aroma of daffodils and jasmine filled the atmosphere
 of the alley.
 
-
 **The Attendant called Naseem**
 
 Joy and happiness engulfed the whole house. The household members,
@@ -96,5 +95,4 @@ kindly face.
 My whole being was overcome with joy and I thanked God for being
 fortunate enough for allowing me to be present in this bountiful
 house.
-
 

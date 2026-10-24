@@ -108,4 +108,3 @@ Allah hasten the reappearance of our Imam ajf). May Allah bring that day
 soon. When Imam Zamana (ajf) will take revenge on the people who offer
 the prayer of Lashker yazid (la) (army of yazid la). Ameen !
 
-

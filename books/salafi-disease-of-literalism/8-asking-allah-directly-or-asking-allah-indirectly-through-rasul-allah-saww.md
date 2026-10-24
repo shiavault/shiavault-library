@@ -13,18 +13,14 @@ He is blind that He cannot see us?
 And they quote a lot of verses from Qur'an in their defense. For
 example:
 
-<p dir="rtl">
 وَنَح'نُ أَق'رَبُ إِلَي'هِ مِن' حَب'لِ ال'وَرِيدِ
-</p>
 
 [Yusufali 50:16] ...... (Allah says) for We are nearer to him than
 (his) jugular vein.
 
-<p dir="rtl">
 وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَع'وَةَ
 الدَّاعِ إِذَا دَعَانِ فَل'يَس'تَجِيبُوا' لِي وَل'يُؤ'مِنُوا' بِي
 لَعَلَّهُم' يَر'شُدُونَ
-</p>
 
 [Yusufali 2:186] .. When My servants ask thee concerning Me, I am
 indeed close (to them): I listen to the prayer of every suppliant when
@@ -45,11 +41,9 @@ Allah wants to include Rasool Allah [saww] between Him and His
 creatures, while Salafi want to exclude Rasool Allah [saww] between them
 and Allah Allah says in Qur'an:
 
-<p dir="rtl">
 وَلَو' أَنَّهُم' إِذ ظَّلَمُوا' أَنفُسَهُم' جَآؤُوكَ فَاس'تَغ'فَرُوا'
 اللّهَ وَاس'تَغ'فَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا' اللّهَ تَوَّابًا
 رَّحِيمًا
-</p>
 
 [Yusuf Ali 4:64] ...... If they had only, when they were unjust to
 themselves, come unto thee and asked Allah's forgiveness, and the
@@ -198,5 +192,4 @@ Go and ask Allah DIRECTLY.
 
 Contrary to all this, Rasool Allah [saww] encouraged this practice and
 always did Dua for them.
-
 

@@ -1625,4 +1625,3 @@ Revised by Husayn al-Radiy. Islamic Association, 2nd Edition, AH
 wa’l-Ijtihad*. Revised by Abu-Mujtaba. Qumm: Sayyid al-Shuhada’ Press,
 1st Edition, AH 1404.
 
-

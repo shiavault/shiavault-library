@@ -1,12 +1,8 @@
 Discourse 20: Attaching Worth To One’s Self
 ===========================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ: مَنْ هَانَتِ
-عَلَيْهِ نَفْسَهُ فَلاَ تَأْمَنَ شَرُّهُ.
-  </p>
-</blockquote>
+> قَالَ أَمِيرُ الْمُؤْمِنِينَ عَلِيُّ بْنُ أَبِي طَالِبٍ: مَنْ هَانَتِ
+> عَلَيْهِ نَفْسَهُ فَلاَ تَأْمَنَ شَرُّهُ.
 
 It has been narrated from the Commander of the Faithful, ‘Ali b. Abi
 Talib (as) that, “Do not consider yourself safe from the evil of one who
@@ -45,11 +41,7 @@ Me.”
 In addition, we see that the highest creations of Allah (SwT) - the
 Angels - were ordered to prostrate towards Adam:
 
-<blockquote dir="rtl">
-  <p>
-فَسَجَدَ الْمَلاَئِكَةُُ كُلُّهُمْ أَجْمَعُونَ…
-  </p>
-</blockquote>
+> فَسَجَدَ الْمَلاَئِكَةُُ كُلُّهُمْ أَجْمَعُونَ…
 
 “So then the Angels bowed down in prostration to him (Adam) - all of
 them…”
@@ -76,29 +68,17 @@ However what about the one who considers himself to be worth something?
 The answer to this question has been provided by our master, ‘Ali b. Abi
 Talib (as) in three sentences where he has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَرَمَتْ عَلَيْهِ نَفْسَهُ لَمْ يُهِنُهَا بِالشَّهَوَاتِ…
-  </p>
-</blockquote>
+> مَنْ كَرَمَتْ عَلَيْهِ نَفْسَهُ لَمْ يُهِنُهَا بِالشَّهَوَاتِ…
 
 “The one who considers himself to be worth something will not weaken
 himself through his lower desires…”
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَرَمَتْ عَلَيْهِ نَفْسَهُ هَانَتْ عَلَيْهِ شَهْوَتُهُ…
-  </p>
-</blockquote>
+> مَنْ كَرَمَتْ عَلَيْهِ نَفْسَهُ هَانَتْ عَلَيْهِ شَهْوَتُهُ…
 
 “The one who considers himself to be worth something will consider his
 lower desires as something of no value…”
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَرَمَتْ عَلَيْهِ نَفْسَهُ صَغُرَتِ الدُّنْـيَا فِي عَيْنِهِ.
-  </p>
-</blockquote>
+> مَنْ كَرَمَتْ عَلَيْهِ نَفْسَهُ صَغُرَتِ الدُّنْـيَا فِي عَيْنِهِ.
 
 “The one who considers himself to be worth something will consider the
 transient world as something insignificant.”[^2]
@@ -106,5 +86,4 @@ transient world as something insignificant.”[^2]
 [^1]: Bihar al-Anwar, vol. 75, pg. 365
 
 [^2]: Mizan al-hikmah, Under the letters of “نفس”
-
 

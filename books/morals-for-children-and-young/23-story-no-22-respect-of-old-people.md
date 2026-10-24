@@ -11,4 +11,3 @@ household, is, like a prophet, a respectful man of his time”.
  So the lesson is that the way that the prophets were respected in their
 times, old people should be respected too.
 
-

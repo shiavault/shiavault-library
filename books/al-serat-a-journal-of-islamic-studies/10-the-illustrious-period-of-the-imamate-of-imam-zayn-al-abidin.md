@@ -279,4 +279,3 @@ al-'Abidin spent his life providing guidance not only for the Muslims of
 his time, but also for the generations to come. When he left this world,
 he had more than accomplished all that he was entrusted with by Allah.
 
-

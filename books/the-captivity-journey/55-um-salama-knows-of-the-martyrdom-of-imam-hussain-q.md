@@ -43,4 +43,3 @@ love you more than my father and mother O Messenger of Allah, what is
 that?" he said: "This is the blood of Al-Hussain and his companions, I
 am still collecting it since this day".
 
-

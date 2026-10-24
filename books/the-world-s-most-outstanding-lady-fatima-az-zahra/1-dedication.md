@@ -3,11 +3,7 @@ Dedication
 
 In The Name Of Allah
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 > إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ {1}
 
@@ -32,5 +28,4 @@ Guardian until you bring the world under his leadership, and his
 profiting it for many ages.
 
 [^1]: The Heavenly Fountain of unbounded grace and benefits.
-
 

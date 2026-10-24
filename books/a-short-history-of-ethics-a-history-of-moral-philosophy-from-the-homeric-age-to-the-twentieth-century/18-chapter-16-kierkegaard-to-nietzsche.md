@@ -407,4 +407,3 @@ tremors as yet unobserved are registered. The German philosophers of the
 nineteenth century signal tremors far beneath the surface of their
 society; they signal catastrophe to come.
 
-

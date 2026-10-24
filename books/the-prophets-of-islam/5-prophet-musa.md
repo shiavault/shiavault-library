@@ -92,7 +92,6 @@ which enriched him spiritually. He reflected over the plight of his
 people in Egypt and made a firm resolve to free them from the servitude
 of the Egyptians.
 
-
 **The Prophethood of Musa and his return to Egypt**
 
 After living ten years in Midyan, Musa left for Egypt, accompanied by
@@ -168,7 +167,6 @@ pervasive. Finally, when the first bom sons of all Egyptians started to
 die from no apparent cause, including the beloved son of the Pharaoh, he
 finally gave up his defiance and most reluctantly agreed Bani Israil to
 leave Egypt.
-
 
 **The Exodus of Bani Israil from Egypt**
 
@@ -429,5 +427,4 @@ known as King Solomon in the Torah.
 
 References : al Qur'an may be seen in Sura Baqarah, Nisaa', Anam,
 Anmbiya'. Nahl, Saba, Jinn.
-
 

@@ -190,4 +190,3 @@ maintenance of the wife and the children and so on.
 are more. Possibly, Muhaqqiq amalgamated certain chapters under one
 heading.
 
-

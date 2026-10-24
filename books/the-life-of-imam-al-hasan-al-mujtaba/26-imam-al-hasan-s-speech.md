@@ -650,4 +650,3 @@ Abdullah bin Aamir over a Persian district. He was with Imam Ali until
 the arbitration took place. So he opposed him, parted with him, and went
 to Persia. Al-Isaba, vol. 1, p. 422.
 
-

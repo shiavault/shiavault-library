@@ -364,13 +364,9 @@ concerned. It not only recognizes a human personality for both, but also
 considers them equal in all rights and human privileges. The following
 verses of the Qur’an support this statement:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
-نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
-كَثِيرًا وَنِسَاءً ..
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ
+> نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا
+> كَثِيرًا وَنِسَاءً ..
 
 ***“O, mankind, fear your Lord who created you from a single soul and
 from it created its mate, and from the pair of them scattered abroad
@@ -378,54 +374,38 @@ many men and women ....” (4:1)***
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
-أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ …
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ
+> أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ …
 
 ***“O mankind! We have created you male and female and appointed you
 races and tribes, that you may know one another. Surely the noblest
 among you in the sight of God is the most God fearing of you
 ....”(49:13)***
 
-<blockquote dir="rtl">
-  <p>
-أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ
-بَعْضُكُمْ مِنْ بَعْضٍ
-  </p>
-</blockquote>
+> أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ
+> بَعْضُكُمْ مِنْ بَعْضٍ
 
 ***“I waste not the labour of any that labours among you, be you male or
 female ‑the one of you is from the other ....”(3:195)***
 
-<blockquote dir="rtl">
-  <p>
-وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
-يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُقِيمُونَ
-الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ ۚ
-أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ
-  </p>
-</blockquote>
+> وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ
+> يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُقِيمُونَ
+> الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ ۚ
+> أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ
 
 ***“And the believers the men and the women, are friends one of the
 other; they bid to honour and forbid dishonour; they perform the prayer,
 and pay the alms, and they obey God and His Messenger. Those upon them
 God will have mercy .... “(9: 71)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ
-وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ
-وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ
-وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ
-وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ
-وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ
-أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا 
-  </p>
-</blockquote>
+> إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ
+> وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ
+> وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ
+> وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ
+> وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ
+> وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ
+> أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا
 
 ***“Men and women who have surrendered (unto Allah), believing men and
 be­lieving women, obedient men and obedient women, truthful men arid
@@ -435,91 +415,59 @@ fast, men and women who guard their private parts, men and women who
 remember God much, for them God has prepared forgiveness and a mighty re
 ward. “(33:35)***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ
-أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسَىٰ أَنْ
-يَكُنَّ خَيْرًا مِنْهُنَّ ۖ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا
-تَنَابَزُوا بِالْأَلْقَابِ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ
+> أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسَىٰ أَنْ
+> يَكُنَّ خَيْرًا مِنْهُنَّ ۖ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا
+> تَنَابَزُوا بِالْأَلْقَابِ
 
 ***“O believers, let not any people scoff at another people who may 'be
 better than they; neither let women scoff at women who may be better
 than they. And find not fault with one another, neither revile one
 another by nick­names ....” (49:11)***
 
-<blockquote dir="rtl">
-  <p>
-وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا
-عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي
-وَلِوَالِدَيْكَ …
-  </p>
-</blockquote>
+> وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا
+> عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي
+> وَلِوَالِدَيْكَ …
 
 ***“And We have charged man concerning his parents‑his mother bore him
 in weakness upon weakness, and his weaning was in two years‑be thankful
 to Me and to your parents ....”(31:14)***
 
-<blockquote dir="rtl">
-  <p>
-…هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ…
-  </p>
-</blockquote>
+> …هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ…
 
 ***“They (women) are a vestment for you, and you (men) are a vestment
 for them ....”(2:187)***
 
-<blockquote dir="rtl">
-  <p>
-لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
-  </p>
-</blockquote>
+> لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ
 
 ***“To the men a share of what parents and kinsmen leave and to the
 women a share of what parents and kinsmen leave ....”(4:7)***
 
-<blockquote dir="rtl">
-  <p>
-… لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا وَلِلنِّسَاءِ نَصِيبٌ مِمَّا
-اكْتَسَبْنَ …
-  </p>
-</blockquote>
+> … لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا وَلِلنِّسَاءِ نَصِيبٌ مِمَّا
+> اكْتَسَبْنَ …
 
 ***“To the men a share from what they have earned, and to the women a
 share from what they have earned ....(4:32)***
 
-<blockquote dir="rtl">
-  <p>
-الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
-جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
-كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ …
-  </p>
-</blockquote>
+> الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ
+> جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ
+> كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ …
 
 ***“The fornicatress and the fornicator‑scourge each one of them a
 hundred stripes, and in the matter of God's religion, let not tenderness
 for them seize you if you believe in God and the Last Day ....”(24:2)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
-فُرُوجَهُمْ ذَٰلِكَ أَزْكَىٰ لَهُمْ …وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ
-مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ …
-  </p>
-</blockquote>
+> قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا
+> فُرُوجَهُمْ ذَٰلِكَ أَزْكَىٰ لَهُمْ …وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ
+> مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ …
 
 ***“Say to the believers, that they cast down their eyes and guard their
 private parts; that is purer for them ....And say to the believing
 women, that they cast down their eyes and guard their private parts
 ...”.(24:30‑31)***
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا
-كَسَبَا نَكَالًا مِنَ اللَّهِ …
-  </p>
-</blockquote>
+> وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا
+> كَسَبَا نَكَالًا مِنَ اللَّهِ …
 
 ***“And the thief, male and female: cut off the hands of both as a
 recompense for what they have earned and a punishment exemplary from God
@@ -559,11 +507,7 @@ attitude of the pre‑Islamic culture in regard to women is criticized.
 For example, a verse condemns the practice of slaying girl‑infants in
 the words:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنْبٍ قُتِلَتْ 
-  </p>
-</blockquote>
+> وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنْبٍ قُتِلَتْ
 
 ***“And when the buried infant shall be asked*** **for** ***what sin she
 was slain. “(81:8‑9)***
@@ -577,5 +521,4 @@ In the above paragraphs, a general discussion regarding the respect
 shown by the Qur’an to the woman has been mentioned. A description has
 also been made of the equal rights of men and women. This prepares the
 grounds for a future debate.
-
 

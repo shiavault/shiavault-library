@@ -82,4 +82,3 @@ obligations.
 5. Rituals have reformatory and educational interests which have a great
 effect on the life of individuals and groups.
 
-

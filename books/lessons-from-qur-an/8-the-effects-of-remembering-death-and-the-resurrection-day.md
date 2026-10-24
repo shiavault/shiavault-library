@@ -354,4 +354,3 @@ not consider that death will annihilate you but consider that you will
 be shifted from one house to another house". (***Biharul Anwar***, Chap.
 on Purgatory)
 
-

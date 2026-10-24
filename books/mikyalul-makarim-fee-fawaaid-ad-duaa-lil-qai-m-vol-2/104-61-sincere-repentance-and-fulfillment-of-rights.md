@@ -10,4 +10,3 @@ sufficient for us and most excellent is the Protector.”[^1]
 
 [^1]: Biharul Anwar, Vol. 53, Pg. 177
 
-

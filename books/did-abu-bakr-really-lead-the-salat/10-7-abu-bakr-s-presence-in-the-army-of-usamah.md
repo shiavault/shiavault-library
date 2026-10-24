@@ -6,16 +6,12 @@ alleged leadership of the *salat* during the Prophet’s fatal illness,
 *sallallahu ‘alaihi wa alihi*, which creates a new major crisis for the
 official Sunni narrative. Imam al-Bukhari (d. 256 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا خالد بن مخلد حدثنا سليمان قال حدثني عبد الله بن دينار عن عبد
-الله بن عمر رضي الله عنهما قال : بعث النبي صلى الله عليه و سلم بعثا
-وأمر عليهم أسامة بن زيد فطعن بعض الناس في إمارته فقال النبي صلى الله
-عليه و سلم إن تطعنوا في إمارته فقد كنتم تطعنون في إمارة أبيه من قبل
-وايم الله إن كان لخليقا للإمارة وإن وكان لمن أحب الناس إلي وإن هذا لمن
-أحب الناس إلي بعده
-  </p>
-</blockquote>
+> حدثنا خالد بن مخلد حدثنا سليمان قال حدثني عبد الله بن دينار عن عبد
+> الله بن عمر رضي الله عنهما قال : بعث النبي صلى الله عليه و سلم بعثا
+> وأمر عليهم أسامة بن زيد فطعن بعض الناس في إمارته فقال النبي صلى الله
+> عليه و سلم إن تطعنوا في إمارته فقد كنتم تطعنون في إمارة أبيه من قبل
+> وايم الله إن كان لخليقا للإمارة وإن وكان لمن أحب الناس إلي وإن هذا لمن
+> أحب الناس إلي بعده
 
 Khalid b. Makhlad – Sulayman – ‘Abd Allah b. Dinar – ‘Abd Allah b.
 ‘Umar, may Allah be pleased with him:
@@ -31,12 +27,8 @@ most beloved persons to me after him.”[^1]
 
 Dr. al-Bagha has some comments on this narration:
 
-<blockquote dir="rtl">
-  <p>
-)فطعن (قدح وتكلم فيها) .بعض الناس (وكان أشدهم في هذا عياش ابن أبي
-ربيعة المخزومي رضي الله عنه .
-  </p>
-</blockquote>
+> )فطعن (قدح وتكلم فيها) .بعض الناس (وكان أشدهم في هذا عياش ابن أبي
+> ربيعة المخزومي رضي الله عنه .
 
 (criticized) disparaged and condemned. (Some people) the most severe of
 them in this was ‘Ayyash b. Abi Rabi’ah al-Makhzumi, may Allah be
@@ -44,13 +36,9 @@ pleased with him.[^2]
 
 Al-Hafiz (d. 852 H) also has these words on the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-قوله) باب بعث النبي صلى الله عليه وسلم أسامة بن زيد في مرضه الذي توفي
-فيه( إنما أخر المصنف هذه الترجمة لما جاء أنه كان تجهيز أسامة يوم السبت
-قبل موت النبي صلى الله عليه وسلم بيومين
-  </p>
-</blockquote>
+> قوله) باب بعث النبي صلى الله عليه وسلم أسامة بن زيد في مرضه الذي توفي
+> فيه( إنما أخر المصنف هذه الترجمة لما جاء أنه كان تجهيز أسامة يوم السبت
+> قبل موت النبي صلى الله عليه وسلم بيومين
 
 His statement (Chapter on the Appointment of Usamah b. Zayd by the
 Prophet, peace be upon him, during his Fatal Illness): The author (i.e.
@@ -62,13 +50,9 @@ This was well into the period when Abu Bakr was supposed to be leading
 the *salat*! What is going on here? Well, al-Hafiz has some more
 information:
 
-<blockquote dir="rtl">
-  <p>
-وكان ممن انتدب مع أسامة كبار المهاجرين والأنصار منهم أبو بكر وعمر وأبو
-عبيدة وسعد وسعيد وقتادة بن النعمان وسلمة بن أسلم فتكلم في ذلك قوم منهم
-عياش بن أبي ربيعة المخزومي فرد عليه عمر
-  </p>
-</blockquote>
+> وكان ممن انتدب مع أسامة كبار المهاجرين والأنصار منهم أبو بكر وعمر وأبو
+> عبيدة وسعد وسعيد وقتادة بن النعمان وسلمة بن أسلم فتكلم في ذلك قوم منهم
+> عياش بن أبي ربيعة المخزومي فرد عليه عمر
 
 Among those conscripted with Usamah were senior Muhajirun and Ansar,
 **among them Abu Bakr, ‘Umar, Abu ‘Ubaydah**, Sa’d, Sa’id, Qatadah b.
@@ -81,12 +65,8 @@ This is huge indeed.
 
 Elsewhere, al-Hafiz submits further:
 
-<blockquote dir="rtl">
-  <p>
-قال بن سعد ولد أسامة في الاسلام ومات النبي صلى الله عليه وسلم وله
-عشرون سنة وقال بن أبي خيثمة ثماني عشرة وكان أمره على جيش عظيم
-  </p>
-</blockquote>
+> قال بن سعد ولد أسامة في الاسلام ومات النبي صلى الله عليه وسلم وله
+> عشرون سنة وقال بن أبي خيثمة ثماني عشرة وكان أمره على جيش عظيم
 
 Ibn Sa’d said: “Usamah was born during the Islamic era, and the Prophet,
 peace be upon him, died **while he (Usamah) was twenty years old.” Ibn
@@ -115,31 +95,19 @@ form of leadership in Islam.
 
 Understandably, Shaykh Ibn Taymiyyah (d. 728 H) was very disturbed:
 
-<blockquote dir="rtl">
-  <p>
-قال الرافضي التاسع أن رسول الله صلى الله عليه و سلم قال جهزوا جيش
-أسامة وكرر الأمر بتنفيذه وكان فيهم أبو بكر وعمر وعثمان ولم ينفذ أمير
-المؤمنين لأنه أراد منعهم من التوثب على الخلافة بعده فلم يقبلوا منه
-  </p>
-</blockquote>
+> قال الرافضي التاسع أن رسول الله صلى الله عليه و سلم قال جهزوا جيش
+> أسامة وكرر الأمر بتنفيذه وكان فيهم أبو بكر وعمر وعثمان ولم ينفذ أمير
+> المؤمنين لأنه أراد منعهم من التوثب على الخلافة بعده فلم يقبلوا منه
 
-<blockquote dir="rtl">
-  <p>
-والجواب من وجوه أحدها المطالبة بصحة النقل فإن هذ لا يروي بإسناد معروف
-ولا صححه أحد من علماء النقل ومعلوم أن الاحتجاج بالمنقولات لا يسوغ إلا
-بعد قيام الحجة بثبوتها وإلا فيمكن أن يقول كل أحد ما شاء
-  </p>
-</blockquote>
+> والجواب من وجوه أحدها المطالبة بصحة النقل فإن هذ لا يروي بإسناد معروف
+> ولا صححه أحد من علماء النقل ومعلوم أن الاحتجاج بالمنقولات لا يسوغ إلا
+> بعد قيام الحجة بثبوتها وإلا فيمكن أن يقول كل أحد ما شاء
 
-<blockquote dir="rtl">
-  <p>
-الثاني أن هذا كذب بإجماع علماء النقل فلم يكن في جيش أسامة لا أبو بكر
-ولا عثمان وإنما قد قيل إنه كان فيه عمر وقد تواتر عن النبي صلى الله
-عليه و سلم أنه استخلف أبا بكر على الصلاة حتي مات وصلى أبو بكر رضي الله
-عنه الصبح يوم موته وقد كشف سجف الحجرة فرآهم صفوفا خلف أبي بكر فسر بذلك
-فكيف يكون مع هذا قد أمره أن يخرج في جيش أسامة
-  </p>
-</blockquote>
+> الثاني أن هذا كذب بإجماع علماء النقل فلم يكن في جيش أسامة لا أبو بكر
+> ولا عثمان وإنما قد قيل إنه كان فيه عمر وقد تواتر عن النبي صلى الله
+> عليه و سلم أنه استخلف أبا بكر على الصلاة حتي مات وصلى أبو بكر رضي الله
+> عنه الصبح يوم موته وقد كشف سجف الحجرة فرآهم صفوفا خلف أبي بكر فسر بذلك
+> فكيف يكون مع هذا قد أمره أن يخرج في جيش أسامة
 
 The Rafiḍi said: “The ninth (point) is that the Messenger of Allah,
 peace be upon him, said: “Mobilize the army of Usamah” and repeatedly
@@ -206,17 +174,13 @@ being to describe them as “a lie”.
 Further exposing the “lie” of Shaykh Ibn Taymiyyah is this report by
 Imam Ibn Asakir:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا أبو بكر وجيه بن طاهر أنا أبو حامد الأزهري أنا أبو محمد المخلدي
-أنا المؤمل بن الحسن نا أحمد بن منصور نا أبو النضر هاشم بن القاسم نا
-عاصم بن محمد عن عبيد الله بن عمر عن نافع عن ابن عمر أن رسول الله صلى
-الله عليه وسلم استعمل أسامة بن زيد على جيش فيهم أبو بكر وعمر فطعن
-الناس في عمله فخطب النبي صلى الله عليه وسلم الناس ثم قال قد بلغني أنكم
-قد طعنتم في عمل أسامة وفي عمل أبيه قبله وإن أباه لخليق للإمارة وإنه
-لخليق للأمرة يعني أسامة وإنه لمن أحب الناس إلي فأوصيكم به
-  </p>
-</blockquote>
+> أخبرنا أبو بكر وجيه بن طاهر أنا أبو حامد الأزهري أنا أبو محمد المخلدي
+> أنا المؤمل بن الحسن نا أحمد بن منصور نا أبو النضر هاشم بن القاسم نا
+> عاصم بن محمد عن عبيد الله بن عمر عن نافع عن ابن عمر أن رسول الله صلى
+> الله عليه وسلم استعمل أسامة بن زيد على جيش فيهم أبو بكر وعمر فطعن
+> الناس في عمله فخطب النبي صلى الله عليه وسلم الناس ثم قال قد بلغني أنكم
+> قد طعنتم في عمل أسامة وفي عمل أبيه قبله وإن أباه لخليق للإمارة وإنه
+> لخليق للأمرة يعني أسامة وإنه لمن أحب الناس إلي فأوصيكم به
 
 Abu Bakr Wajih b. Tahir – Abu Hamid al-Azhari – Abu Muhammad al-Makhladi
 – al-Muammal b. al-Hasan – Ahmad b. Mansur – Abu al-Naḍr Hashim b.
@@ -238,12 +202,8 @@ narration actually has a known chain of transmission! So, what is its
 authenticity? Imam al-Dhahabi (d. 748 H) states about the first
 narrator:
 
-<blockquote dir="rtl">
-  <p>
-وجيه بن طاهر ابن محمد بن محمد بن أحمد، الشيخ العالم العدل، مسند
-خراسان، أبو بكر، أخو زاهر الشحامي النيسابوري
-  </p>
-</blockquote>
+> وجيه بن طاهر ابن محمد بن محمد بن أحمد، الشيخ العالم العدل، مسند
+> خراسان، أبو بكر، أخو زاهر الشحامي النيسابوري
 
 Wajih b. Tahir b. Muhammad b. Muhammad b. Ahmad, the Shaykh, the
 scholar, **the trustworthy,** the top scholar of Khurasan, Abu Bakr,
@@ -251,12 +211,8 @@ brother of Zahir, al-Shahami, al-Naysaburi.[^8]
 
 Concerning the second narrator, al-Dhahabi similarly declares:
 
-<blockquote dir="rtl">
-  <p>
-الأزهري :العدل، المسند، الصدوق، أبو حامد، أحمد بن الحسن بن محمد ابن
-الحسن بن أزهر الأزهري، النيسابوري، الشروطي، من أولاد المحدثين.
-  </p>
-</blockquote>
+> الأزهري :العدل، المسند، الصدوق، أبو حامد، أحمد بن الحسن بن محمد ابن
+> الحسن بن أزهر الأزهري، النيسابوري، الشروطي، من أولاد المحدثين.
 
 Al-Azhari: **the trustworthy, the top scholar, the highly truthful,**
 Abu Hamid, Ahmad b. al-Hasan b. Muhammad b. al-Hasan b. Azhar al-Azhari,
@@ -265,12 +221,8 @@ al-Naysaburi, al-Shuruti, from the descendants of *hadith* scholars.[^9]
 So, what about the third narrator? Al-Dhahabi has this verdict about him
 too:
 
-<blockquote dir="rtl">
-  <p>
-المخلدي :الإمام الصادق المسند، أبو محمد، الحسن بن أحمد بن محمد بن
-الحسن بن علي بن مخلد بن شيبان المخلدي النيسابوري العدل
-  </p>
-</blockquote>
+> المخلدي :الإمام الصادق المسند، أبو محمد، الحسن بن أحمد بن محمد بن
+> الحسن بن علي بن مخلد بن شيبان المخلدي النيسابوري العدل
 
 Al-Makhladi: **The truthful Imam, the top scholar**, Abu Muhammad,
 al-Hasan b. Ahmad b. Muhammad b. al-Hasan b. ‘Ali b. Mukhlid b. Shayban
@@ -279,12 +231,8 @@ al-Mukhlidi al-Naysaburi, **the trustworthy**.[^10]
 Then, we proceed to the fourth narrator, and the words of al-Dhahabi
 concerning him:
 
-<blockquote dir="rtl">
-  <p>
-المؤمل بن الحسن ابن عيسى بن ماسرجس المولى، الرئيس الامام المحدث
-المتقن، صدر خراسان، أبو الوفاء الماسرجسي النيسابوري.
-  </p>
-</blockquote>
+> المؤمل بن الحسن ابن عيسى بن ماسرجس المولى، الرئيس الامام المحدث
+> المتقن، صدر خراسان، أبو الوفاء الماسرجسي النيسابوري.
 
 Al-Muammal b. al-Hasan b. ‘Isa b. Masarjisa the freed slave, **the
 leader, the** **Imam, the** ***hadith*** **scientist, the extremely
@@ -293,12 +241,8 @@ al-Naysaburi.[^11]
 
 The fifth narrator is like that too, as stated by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-أحمد بن منصور بن سيار البغدادي الرمادي أبو بكر ثقة حافظ طعن فيه أبو
-داود لمذهبه في الوقف في القرآن
-  </p>
-</blockquote>
+> أحمد بن منصور بن سيار البغدادي الرمادي أبو بكر ثقة حافظ طعن فيه أبو
+> داود لمذهبه في الوقف في القرآن
 
 Ahmad b. Mansur b. Sayyar al-Baghdadi al-Ramadi, Abu Bakr: ***Thiqah***
 **(trustworthy), a** ***hadith*** **scientist**. Abu Dawud criticized
@@ -307,12 +251,8 @@ Qur’an.[^12]
 
 Imam al-Dhahabi confirms:
 
-<blockquote dir="rtl">
-  <p>
-الرمادي :الامام الحافظ الضابط، أبو بكر، أحمد بن منصور بن سيار بن
-معارك، الرمادي البغدادي.
-  </p>
-</blockquote>
+> الرمادي :الامام الحافظ الضابط، أبو بكر، أحمد بن منصور بن سيار بن
+> معارك، الرمادي البغدادي.
 
 Al-Ramadi: **the Imam, the** ***hadith*** **scientist, the accurate
 narrator**, Abu Bakr, Ahmad b. Mansur b. Sayyar b. Mu’arik, al-Ramadi
@@ -320,12 +260,8 @@ al-Baghdadi.[^13]
 
 Al-Hafiz has these words on the sixth narrator as well:
 
-<blockquote dir="rtl">
-  <p>
-هاشم بن القاسم بن مسلم الليثي مولاهم البغدادي أبو النضر مشهور بكنيته
-ولقبه قيصر ثقة ثبت
-  </p>
-</blockquote>
+> هاشم بن القاسم بن مسلم الليثي مولاهم البغدادي أبو النضر مشهور بكنيته
+> ولقبه قيصر ثقة ثبت
 
 Hashim b. al-Qasim b. Muslim al-Laythi, their freed slave, al-Baghdadi,
 Abu al-Naḍr, well-known with his *kunya* and nickname Qaysar:
@@ -333,23 +269,15 @@ Abu al-Naḍr, well-known with his *kunya* and nickname Qaysar:
 
 About the seventh narrator, al-Hafiz proceeds:
 
-<blockquote dir="rtl">
-  <p>
-عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب العمري المدني ثقة
-  </p>
-</blockquote>
+> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب العمري المدني ثقة
 
 ‘Asim b. Muhammad b. Zayd b. ‘Abd Allah b. ‘Umar b. al-Khattab al-‘Umari
 al-Madani: ***Thiqah*** **(trustworthy)**.[^15]
 
 He equally states concerning the eighth narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبيد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب العمري المدني أبو
-عثمان ثقة ثبت
-  </p>
-</blockquote>
+> عبيد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب العمري المدني أبو
+> عثمان ثقة ثبت
 
 ‘Ubayd Allah b. ‘Umar b. Hafs b. ‘Asim b. ‘Umar b. al-Khattab al-‘Umari
 al-Madani, Abu ‘Uthman: ***Thiqah*** **(trustworthy),** ***thabt***
@@ -357,11 +285,7 @@ al-Madani, Abu ‘Uthman: ***Thiqah*** **(trustworthy),** ***thabt***
 
 And, with regards to the last narrator, he declares:
 
-<blockquote dir="rtl">
-  <p>
-نافع أبو عبد الله المدني مولى ابن عمر ثقة ثبت فقيه مشهور
-  </p>
-</blockquote>
+> نافع أبو عبد الله المدني مولى ابن عمر ثقة ثبت فقيه مشهور
 
 Nafi’, Abu ‘Abd Allah al-Madani, freed slave of Ibn ‘Umar: ***Thiqah***
 **(trustworthy),** ***thabt*** **(accurate)**, a well-known jurist.[^17]
@@ -372,16 +296,12 @@ people. Therefore, it is *sahih*, or at least *hasan*.
 Furthermore, there is a *mutaba’ah* for Asim b. Muhammad, documented by
 Imam al-Bazzar:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا محمد بن حسان الأزرق، حدثنا أبو النضر، حدثنا عاصم بن عمر، عن عبيد
-الله بن عمر، عن نافع، عن ابن عمر أَن النبي صلى الله عليه وسلم استعمل
-أسامة بن زيد على جيش فيهم أبو بكر وعمر فطعن الناس في عمله ، فخطب النبي
-صلى الله عليه وسلم فقال قد بلغني أنكم طعنتم في عمل أسامة وفي عمل أبيه
-من قبله، وإن أباه كان خليقا للإمارة وإنه لخليق للإمارة يعني أسامة وإنه
-لمن أحب الناس إلى وإني أوصيكم به أحسبه قال خيرا.
-  </p>
-</blockquote>
+> حدثنا محمد بن حسان الأزرق، حدثنا أبو النضر، حدثنا عاصم بن عمر، عن عبيد
+> الله بن عمر، عن نافع، عن ابن عمر أَن النبي صلى الله عليه وسلم استعمل
+> أسامة بن زيد على جيش فيهم أبو بكر وعمر فطعن الناس في عمله ، فخطب النبي
+> صلى الله عليه وسلم فقال قد بلغني أنكم طعنتم في عمل أسامة وفي عمل أبيه
+> من قبله، وإن أباه كان خليقا للإمارة وإنه لخليق للإمارة يعني أسامة وإنه
+> لمن أحب الناس إلى وإني أوصيكم به أحسبه قال خيرا.
 
 Muhammad b. Hassan al-Azraq – Abu al-Naḍr – **‘Asim b. ‘Umar** – ‘Ubayd
 Allah b. ‘Umar – Nafi’ – Ibn ‘Umar:
@@ -398,12 +318,8 @@ him.”[^18]
 
 Al-Bazzar comments:
 
-<blockquote dir="rtl">
-  <p>
-وهذا الحديث لا نعلم رواه عن عبيد الله بن بن عمر إلا عاصم بن عمر، وإنما
-يعرف من حديث موسى بن عقبة ، عن سالم، عن أَبِيه.
-  </p>
-</blockquote>
+> وهذا الحديث لا نعلم رواه عن عبيد الله بن بن عمر إلا عاصم بن عمر، وإنما
+> يعرف من حديث موسى بن عقبة ، عن سالم، عن أَبِيه.
 
 We do not know anyone who has narrated this *hadith* from ‘Ubayd Allah
 b. ‘Umar except ‘Asim b. ‘Umar, **and it is only known through the**
@@ -427,12 +343,8 @@ left with only Muhammad b. Hassan al-Azraq and ‘Asim b. ‘Umar to
 investigate. Well, al-Azraq too is *thiqah* (trustworthy) according to
 al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن حسان بن فيروز الشيباني الأزرق أبو جعفر البغدادي التاجر أصله من
-واسط ثقة
-  </p>
-</blockquote>
+> محمد بن حسان بن فيروز الشيباني الأزرق أبو جعفر البغدادي التاجر أصله من
+> واسط ثقة
 
 Muhammad b. Hassan b. Fayruz al-Shaybani al-Azraq, Abu Ja’far
 al-Baghdadi al-Tajir, his root was from Wasit: ***Thiqah***
@@ -440,12 +352,8 @@ al-Baghdadi al-Tajir, his root was from Wasit: ***Thiqah***
 
 However, as confirmed by al-Hafiz, ‘Asim b. ‘Umar was weak:
 
-<blockquote dir="rtl">
-  <p>
-عاصم بن عمر بن حفص بن عاصم بن عمر بن الخطاب العمري أبو عمر المدني ضعيف
-من السابعة وهو أخو عبيد الله العمري.
-  </p>
-</blockquote>
+> عاصم بن عمر بن حفص بن عاصم بن عمر بن الخطاب العمري أبو عمر المدني ضعيف
+> من السابعة وهو أخو عبيد الله العمري.
 
 ‘Asim b. ‘Umar b. Hafs b. ‘Asim b. ‘Umar b. al-Khattab al-‘Umari, Abu
 ‘Umar al-Madani: ***Ḍa’if*** **(weak)**. He was from the seventh
@@ -457,16 +365,12 @@ in the *riwayah* of Ibn Asakir.
 
 Finally, Imam Ibn Sa’d has a third report:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الوهاب بن عطاء العجلي قال أخبرنا العمري عن نافع عن بن عمر أن
-النبي صلى الله عليه وسلم بعث سرية فيهم أبو بكر وعمر استعمل عليهم أسامة
-بن زيد فكان الناس طعنوا فيه أي في صغره فبلغ ذلك رسول الله صلى الله
-عليه وسلم فصعد المنبر فحمد الله وأثني عليه وقال إن الناس قد طعنوا في
-إمارة أسامة وقد كانوا طعنوا في إمارة أبيه من قبله وإنهما لخليقان لها
-وإنه لمن أحب الناس إلي آلا فأوصيكم بأسامة خيرا
-  </p>
-</blockquote>
+> حدثنا عبد الوهاب بن عطاء العجلي قال أخبرنا العمري عن نافع عن بن عمر أن
+> النبي صلى الله عليه وسلم بعث سرية فيهم أبو بكر وعمر استعمل عليهم أسامة
+> بن زيد فكان الناس طعنوا فيه أي في صغره فبلغ ذلك رسول الله صلى الله
+> عليه وسلم فصعد المنبر فحمد الله وأثني عليه وقال إن الناس قد طعنوا في
+> إمارة أسامة وقد كانوا طعنوا في إمارة أبيه من قبله وإنهما لخليقان لها
+> وإنه لمن أحب الناس إلي آلا فأوصيكم بأسامة خيرا
 
 ‘Abd al-Wahhab b. ‘Ata al-‘Ijli – al-‘Umari – Nafi’ – Ibn ‘Umar:
 
@@ -484,12 +388,8 @@ me. Verily, I advise you to be good to Usamah.[^22]
 We know about Nafi’ already. So, we only have to investigate the first
 and second narrators. Al-Hafiz says about the first narrator:
 
-<blockquote dir="rtl">
-  <p>
-عبد الوهاب بن عطاء الخفاف أبو نصر العجلي مولاهم البصري نزيل بغداد صدوق
-ربما أخطأ أنكروا عليه حديثا في العباس يقال دلسه عن ثور
-  </p>
-</blockquote>
+> عبد الوهاب بن عطاء الخفاف أبو نصر العجلي مولاهم البصري نزيل بغداد صدوق
+> ربما أخطأ أنكروا عليه حديثا في العباس يقال دلسه عن ثور
 
 ‘Abd al-Wahhab b. ‘Ata al-Khaffaf, Abu Nasr al-‘Ijli, their freed slave,
 al-Basri, a resident of Baghdad: ***Saduq*** **(very truthful)**, maybe
@@ -499,12 +399,8 @@ said that he narrated it in an *‘an-‘an* manner from Thawr.[^23]
 The second narrator is al-‘Umari. His name is ‘Abd Allah. Al-Hafiz
 declares concerning him:
 
-<blockquote dir="rtl">
-  <p>
-عبد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب أبو عبد الرحمن العمري
-المدني ضعيف عابد
-  </p>
-</blockquote>
+> عبد الله بن عمر بن حفص بن عاصم بن عمر بن الخطاب أبو عبد الرحمن العمري
+> المدني ضعيف عابد
 
 ‘Abd Allah b. ‘Umar b. Hafs b. ‘Asim b. ‘Umar b. al-Khattab, Abu ‘Abd
 al-Rahman al-‘Umari al-Madani: ***Ḍa’if*** **(weak), a great worshipper
@@ -528,12 +424,8 @@ the final breath of the Messenger of Allah.
 Among the Sunni scholars of narrations, one of their earliest to affirm
 this fact was ‘Urwah b. al-Zubayr. Imam Ibn Hibban says concerning him:
 
-<blockquote dir="rtl">
-  <p>
-عروة بن الزبير بن العوام القرشي أخو عبد الله بن الزبير أمهما أسماء بنت
-أبي بكر الصديق من فقهاء المدينة وأفاضل التابعين وعباد قريش
-  </p>
-</blockquote>
+> عروة بن الزبير بن العوام القرشي أخو عبد الله بن الزبير أمهما أسماء بنت
+> أبي بكر الصديق من فقهاء المدينة وأفاضل التابعين وعباد قريش
 
 ‘Urwah b. al-Zubayr b. al-‘Awwam al-Qurshi, the brother of ‘Abd Allah b.
 al-Zubayr. Their mother was Asma bint Abi Bakr al-Siddiq. He was one of
@@ -553,13 +445,9 @@ Taymiyyah?
 
 Imam Ibn Abi Shaybah records his clear testimony here:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الرحيم بن سليمان عن هشام بن عروة عن أبيه أن رسول الله صلى
-الله عليه وسلم كان قطع بعثا قبل موته وأمر عليهم أسامة بن زيد، وفي ذلك
-البعث أبو بكر وعمر
-  </p>
-</blockquote>
+> حدثنا عبد الرحيم بن سليمان عن هشام بن عروة عن أبيه أن رسول الله صلى
+> الله عليه وسلم كان قطع بعثا قبل موته وأمر عليهم أسامة بن زيد، وفي ذلك
+> البعث أبو بكر وعمر
 
 ‘Abd al-Rahim b. Sulayman – Hisham b. ‘Urwah – his father (‘Urwah b.
 al-Zubayr):
@@ -570,23 +458,15 @@ army were Abu Bakr and ‘Umar**.[^28]
 
 The first narrator is *thiqah* (trustworthy), as stated by al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-عبد الرحيم بن سليمان الكناني أو الطائي أبو علي الأشل المروزي نزيل
-الكوفة ثقة
-  </p>
-</blockquote>
+> عبد الرحيم بن سليمان الكناني أو الطائي أبو علي الأشل المروزي نزيل
+> الكوفة ثقة
 
 ‘Abd al-Rahim b. Sulayman al-Kanani or al-Tai, Abu ‘Ali al-Ushil
 al-Maruzi, a resident of Kufah: ***Thiqah*** **(trustworthy)**.[^29]
 
 Hisham too, the son of ‘Urwah, was like that, according to al-Hafiz:
 
-<blockquote dir="rtl">
-  <p>
-هشام بن عروة بن الزبير بن العوام الأسدي ثقة فقيه ربما دلس
-  </p>
-</blockquote>
+> هشام بن عروة بن الزبير بن العوام الأسدي ثقة فقيه ربما دلس
 
 Hisham b. ‘Urwah b. al-Zubayr b. al-‘Awwam al-Asadi: ***Thiqah***
 **(trustworthy)**, a jurist, maybe he did *tadlis*.[^30]
@@ -594,12 +474,8 @@ Hisham b. ‘Urwah b. al-Zubayr b. al-‘Awwam al-Asadi: ***Thiqah***
 So, the chain is *sahih* up to ‘Urwah. Shaykh Dr. Asad confirms this
 while treating another *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبو بكر بن أبي شيبة حدثنا عبد الرحيم بن سليمان عن هشام بن عروة
-عن أبيه عن عائشة... إسناده صحيح
-  </p>
-</blockquote>
+> حدثنا أبو بكر بن أبي شيبة حدثنا عبد الرحيم بن سليمان عن هشام بن عروة
+> عن أبيه عن عائشة... إسناده صحيح
 
 Abu Bakr b. Abi Shaybah – ‘Abd al-Rahim b. Sulayman – Hisham b. ‘Urwah –
 his father – ‘Aishah ... **Its chain is** ***sahih***.[^31]
@@ -636,19 +512,15 @@ for war that occurred on Saturday, two days before the Messenger’s
 death. The army itself had been formed long before then. Al-Hafiz comes
 in once again:
 
-<blockquote dir="rtl">
-  <p>
-قوله) باب بعث النبي صلى الله عليه وسلم أسامة بن زيد في مرضه الذي توفي
-فيه (إنما أخر المصنف هذه الترجمة لما جاء أنه كان تجهيز أسامة يوم السبت
-قبل موت النبي صلى الله عليه وسلم بيومين وكان ابتداء ذلك قبل مرض النبي
-صلى الله عليه وسلم فندب الناس لغزو الروم في آخر صفر ودعا أسامة فقال سر
-إلى موضع مقتل أبيك فأوطئهم الخيل فقد وليتك هذا الجيش ... فبدأ برسول
-الله صلى الله عليه وسلم وجعه في اليوم الثالث فعقد لأسامة لواء بيده
-فأخذه أسامة فدفعه إلى بريدة وعسكر بالجرف وكان ممن انتدب مع أسامة كبار
-المهاجرين والأنصار منهم أبو بكر وعمر ... ثم أشتد برسول الله صلى الله
-عليه وسلم وجعه فقال أنفذوا بعث أسامة
-  </p>
-</blockquote>
+> قوله) باب بعث النبي صلى الله عليه وسلم أسامة بن زيد في مرضه الذي توفي
+> فيه (إنما أخر المصنف هذه الترجمة لما جاء أنه كان تجهيز أسامة يوم السبت
+> قبل موت النبي صلى الله عليه وسلم بيومين وكان ابتداء ذلك قبل مرض النبي
+> صلى الله عليه وسلم فندب الناس لغزو الروم في آخر صفر ودعا أسامة فقال سر
+> إلى موضع مقتل أبيك فأوطئهم الخيل فقد وليتك هذا الجيش ... فبدأ برسول
+> الله صلى الله عليه وسلم وجعه في اليوم الثالث فعقد لأسامة لواء بيده
+> فأخذه أسامة فدفعه إلى بريدة وعسكر بالجرف وكان ممن انتدب مع أسامة كبار
+> المهاجرين والأنصار منهم أبو بكر وعمر ... ثم أشتد برسول الله صلى الله
+> عليه وسلم وجعه فقال أنفذوا بعث أسامة
 
 His statement (Chapter on the Appointment of Usamah b. Zayd by the
 Prophet, peace be upon him, during his Fatal Illness): The author (i.e.
@@ -809,5 +681,4 @@ Dr. Husayn Salim Asad], vol. 7, p. 425, \# 4447
 [^32]: Shihab al-Din Ibn Hajar al-‘Asqalani, Fath al-Bari Sharh Sahih
 al-Bukhari (Beirut: Dar al-Ma’rifah li al-Taba’ah wa al-Nashr; 2nd
 edition), vol. 8, p. 115
-
 

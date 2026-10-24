@@ -95,4 +95,3 @@ the spirit recognizes it. Oh lonely maid, a helpless nursing mother, you
 and your child must rely upon Allah. Feeling secure with love, rely upon
 Him!
 
-

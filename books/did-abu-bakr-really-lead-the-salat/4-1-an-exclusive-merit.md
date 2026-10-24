@@ -3,20 +3,12 @@
 
 Shaykh Ibn Taymiyyah (d. 728 H) says:
 
-<blockquote dir="rtl">
-  <p>
-وكان إذا سافر عن المدينة استخلف من يستخلفه يصلي بالمسلمين كما استخلف
-ابن أم مكتوم تارة وعليا تارة في الصلاة واستخلف غيرهما تارة
-  </p>
-</blockquote>
+> وكان إذا سافر عن المدينة استخلف من يستخلفه يصلي بالمسلمين كما استخلف
+> ابن أم مكتوم تارة وعليا تارة في الصلاة واستخلف غيرهما تارة
 
-<blockquote dir="rtl">
-  <p>
-فأما في حال غيبته ومرضه فلم يستخلف إلا أبا بكر لا عليا ولا غيره
-واستخلافه للصديق في الصلاة متواتر ثابت في الصحاح والسنن والمساند من
-غير وجه
-  </p>
-</blockquote>
+> فأما في حال غيبته ومرضه فلم يستخلف إلا أبا بكر لا عليا ولا غيره
+> واستخلافه للصديق في الصلاة متواتر ثابت في الصحاح والسنن والمساند من
+> غير وجه
 
 Whenever he (the Prophet) left Madinah on a journey, he would appoint a
 *khalifah* (to govern the city on his behalf). Whoever he appointed as a
@@ -54,11 +46,7 @@ appointed Imam ‘Ali, Ibn Umm Maktum and others as *khalifahs* over his
 Madinah, was he then not also “absent” from the city?! The Shaykh
 himself answers:
 
-<blockquote dir="rtl">
-  <p>
-وكان إذا سافر عن المدينة استخلف من يستخلفه يصلي بالمسلمين
-  </p>
-</blockquote>
+> وكان إذا سافر عن المدينة استخلف من يستخلفه يصلي بالمسلمين
 
 Whenever he (the Prophet) LEFT MADINAH on a journey, he would appoint a
 *khalifah* (to govern the city on his behalf). Whoever he appointed as a
@@ -102,13 +90,9 @@ the latter, implicitly, as his *khalifah* after his death. However, even
 Ibn Taymiyyah is unable to completely ignore the fallacy of this
 mainstream Sunni premise:
 
-<blockquote dir="rtl">
-  <p>
-ليس كل من يصلح للاستخلاف في الحياة على بعض الأمة يصلح إن يستخلف بعد
-الموت فإن النبي صلى الله عليه و سلم استخلف في حياته غير واحد و منهم من
-لا يصلح للخلافة بعد موته
-  </p>
-</blockquote>
+> ليس كل من يصلح للاستخلاف في الحياة على بعض الأمة يصلح إن يستخلف بعد
+> الموت فإن النبي صلى الله عليه و سلم استخلف في حياته غير واحد و منهم من
+> لا يصلح للخلافة بعد موته
 
 Not all who are qualified to be appointed *khalifahs* during the
 lifetime (of the Muslim ruler) over part of the *Ummah* are equally
@@ -124,5 +108,4 @@ Minhaj al-Sunnah al-Nabawiyyah (Muasassat Qurtubah; 1st edition, 1406 H)
 [^2]: Abu al-‘Abbas Ahmad b. ‘Abd al-Halim b. Taymiyyah al-Harrani,
 Minhaj al-Sunnah al-Nabawiyyah (Muasassat Qurtubah; 1st edition, 1406 H)
 [annotator: Dr. Muhammad Rashad Salim], vol. 7, p. 339
-
 

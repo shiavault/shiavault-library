@@ -21,4 +21,3 @@ which are before the Imam hood of the eighth Imam, Imam Reza (as), that
 the appearance of the Imam was procrastinated due to the deeds of the
 Shia. The reason for the delay is a deed. This is groundless.
 
-

@@ -1,8 +1,6 @@
 Chapter 2 : Before the Pledge of Allegiance
 ===========================================
 
-  
-
 Now, we are discussing a matter. We do not know exactly to what extent
 the matter was affected by the previous conditions. Still it is enough
 for us to present some of the social conditions which the Muslims knew
@@ -30,8 +28,6 @@ and its religion are all from the sky. This event (the death of the
 Prophet) would have caused intense loneliness in this world and a heavy
 loss for Muslims if he (the Prophet) had totally ended his relation with
 the world and Muslims. However, the Apostle  
-
-  
 
 of Allah, may Allah bless him and his family, was aware that the
 believers would be tested after him through facing great misfortunes.
@@ -73,8 +69,6 @@ and the earth, and my family, the members of my House, and they shall
 not abandon each other till they come to me at al-Hawd (the river in
 Paradise) - (Imam Ahmad, al-Musnad. Al-Tabarani, al-Kabir).
 
-  
-
 viewpoints. Some of them cleaved to the clear traditions of their
 Prophet, who said many traditions concerning nominating the successor
 after him. However, this is not the next to mention all these
@@ -112,8 +106,6 @@ Mu'awiya,
 ------------------------------------------------------------------------
 
 [[1]](#n2) Ibn Abu al-Hadid, Sharh Nahj al-Balagha, vol.4, p.13.
-
-  
 
 for the first time. Rather it had historical backgrounds. [[1]](#r3)
 
@@ -153,8 +145,6 @@ historical backgrounds before these two poets: The bowmen hit it (the
 target) with the bow of other than them So the latter, gave him the
 trousers. There are other poetic lines similar to these in meaning.
 [[2]](#n4) Bolis Salama.
-
-  
 
 because his Islamic mind showed him his usurped right. Then he was
 forced to pledge allegiance. [[1]](#r5) So some of his companions asked
@@ -198,8 +188,6 @@ dragged with the reins of force as the injured camel dragged."
 [[2]](#n6) Imam 'Ali, Nahj al-Balagha, (explained by Muhammad 'Abda),
 vol.1, p.299.
 
-  
-
 in the Imamate. Also what is not permitted in the Imamate what is not
 permitted in Prophethood though great. So what is the relationship
 between ijtihad (the ability to conclude religious verdicts) and an age
@@ -238,8 +226,6 @@ family.
 So the operation of separation between the Caliphate and the family of
 the Prophet has moved historical differences among the lovers of the
 Caliphate throughout various generations. Also it has caused ugly  
-
-  
 
 disasters for Muslims and distorted the ideal beliefs of Islam. All
 these differences and disasters would have not happened if the Caliphate
@@ -283,8 +269,6 @@ memories resulted from the battles between them and the early
 
 [[1]](#a1) The Quran, 33, 36.
 
-  
-
 Muslims or from envy that "eats religion as fire eats wood," as in the
 holy tradition.
 
@@ -326,8 +310,6 @@ I (the author) have mentioned the following words of the renewing poet
 al-Hajj 'Abd al Husayn al-Azdi: Read what the desires write at your
 time. (That) tells about what occurred in the past times.
 
-  
-
 justice. However, they turned away from us' seized (power), and gathered
 together to oppress and force us. So we suffered from their persecutions
 toward us. So the promise is Allah. He is the Lord and Helper.
@@ -368,8 +350,6 @@ activity enabled Abu Bakr to win the attitude (i.e., the Caliphate).
 ------------------------------------------------------------------------
 
 [[1]](#n8) Ibn Abu al-Hadid, vo1.4, p.12.
-
-  
 
 called it: "Usurping the right and disagreement on authority."[[1]](#r9)
 So the quick success which that political activity made underlined the
@@ -417,8 +397,6 @@ Quraysh and those who help them. For they have severed the relations
 between me and my relatives, belittled my great position, gathered
 together to dispute with me over the authority which belongs to me."
 
-  
-
 against the two Caliphs who consulted the family of Muhammad, may Allah
 bless him and his family, about their affairs.
 
@@ -455,8 +433,6 @@ It was the opposers who planted evil intentions all over the cities of
 
 [[1]](#n11) A next on the bank of the Euphrates, between 'Ana and Dir
 al-Sha'ar.
-
-  
 
 'Ali, and provoked the people to refrain from supporting him using all
 pretexts.
@@ -497,8 +473,6 @@ ambitions in this world.
 Among those companions were army leaders, excellent orators, jurists,
 readers of the Qur'an, and the rest of the good ones who fixed Islam.
 
-  
-
 The Commander of the faithful (Amir al-mu'minm) relied on those
 companions during his battles and his peace. Also the Hashimites relied
 on them to protect Islam from dangers.
@@ -534,8 +508,6 @@ each other for worldly desires.
 It is necessary to mention that all the above- mentioned good companions
 died martyrs at the battles headed by 'Ali, peace be on him. Besides,
 sixty- three Badri companions died martyrs at the Battle  
-
-  
 
 of Siffin.[[1]](#n11) Many companions of 'Ali died martyrs at the three
 successive battles.

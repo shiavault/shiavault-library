@@ -37,7 +37,6 @@ He has presented to you His arguments in proof of His existence by means
 of that much of facts about His own self that He has made known to
 you."
 
-
 **Chapter 5 : Chapter on Who is Worshipped H 227, Ch. 5, h 1**
 
 Ali ibn Ibrahim has narrated from Muhammad ibn 'Isa ibn 'Ubayd from
@@ -104,9 +103,7 @@ Self-sufficient?" The Imam then said, "Whoever worships the names
 without the meaning for which they stand he has become a polytheist and
 has denied the existence of Allah and has worshipped nothing.
 
-
 You must worship Allah who is the One and only One, the
 Self-sufficient, Who is the meaning for these names but not these names.
 The names are attributes that He has said are of His attributes."
-
 

@@ -75,7 +75,6 @@ pleasure or our satisfaction with the removal of an immediate pain
 override the motive force of remote future consequences. [Essay II xxi
 59-64]
 
-
 **Pursuit of Happiness**
 
 The effort to deal with this problem was central to the second-edition
@@ -234,5 +233,4 @@ same human being as my mother's first-born child, despite the obvious
 alterations of a half-century, because my "life"-understood as an
 ongoing principle of organization-has been continuous. [Essay II xxvii
 6-8]
-
 

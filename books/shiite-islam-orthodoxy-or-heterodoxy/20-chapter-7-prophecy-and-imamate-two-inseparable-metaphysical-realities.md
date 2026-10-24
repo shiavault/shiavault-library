@@ -501,4 +501,3 @@ which he fulfilled: He said: “I will make thee an Imām to the Nations.”
 He pleaded: “And also [Imāms] from my offspring!” He answered: “But My
 Promise is not within the reach of evil-doers. (2:124)
 
-

@@ -229,4 +229,3 @@ Istihadha. All the rules required for a woman in istihadha during the
 other obligatory prayers are also required for this salat. (Please note:
 Same rules apply for all the obligatory prayers.)
 
-

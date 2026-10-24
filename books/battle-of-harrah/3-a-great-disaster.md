@@ -59,4 +59,3 @@ in Amīr ‘Alī, Mukhtasar Ta’rīkh al-‘Arab, p. 75.
 
 [^3]: Samhūdī, Wafā’ al-Wafā’, vol. 1, p. 124
 
-

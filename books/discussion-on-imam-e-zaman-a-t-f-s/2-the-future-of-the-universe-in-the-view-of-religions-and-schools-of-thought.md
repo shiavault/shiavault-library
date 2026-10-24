@@ -337,4 +337,3 @@ possible that those who have preferred to remain weak willingly could be
 strong and powerful. (They have preferred being the oppressed one rather
 than the oppressor.)
 
-

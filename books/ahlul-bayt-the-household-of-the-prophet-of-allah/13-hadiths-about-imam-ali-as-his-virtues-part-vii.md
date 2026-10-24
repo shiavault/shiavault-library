@@ -81,7 +81,6 @@ Abu Bakr and Umar proposing to Fatimah A marriage ordained by Allah The
 prophet Muhammad and Ali, the best of men as chosen by Allah Abu Bakr
 and Umar proposing to Fatimah
 
-<p dir="rtl">
 عن علي قال: خطب أبو بكر وعمر فاطمة إلى رسول الله صلى الله عليه وسلم
 فأبى رسول الله صلى الله عليه وسلم عليهما، فقال عمر: أنت لها يا علي! قال:
 مالي من شيء إلا درعي وجملي وسيفي، فتعرض علي ذات يوم لرسول الله صلى الله
@@ -90,7 +89,6 @@ and Umar proposing to Fatimah
 رسول الله صلى الله عليه وسلم فقال: ما لك تبكين يا فاطمة! والله أنكحتك
 أكثرهم علما وأفضلهم حلما وأقدمهم سلما وفي لفظ: أولهم سلما. ابن جرير
 وصححه والدولابي في الذرية الطاهرة.
-</p>
 
 Reference:
 
@@ -114,14 +112,12 @@ o Kanz al-U'ummal, by al-Muttaqi al-Hindi, vol 11, \#32929 (المجلد
 الحادي عشر \>\> {الإكمال} من فضائل علي رضي الله عنه) The prophet
 Muhammad and Ali, the best of men as chosen by Allah
 
-<p dir="rtl">
 حدثنا أبو بكر بن أبي دارم الحافظ، حدثنا أبو بكر محمد بن أحمد بن سفيان
 الترمذي، حدثنا سريج بن يونس، حدثنا أبو حفص الأبار، حدثنا الأعمش، عن أبي
 صالح، عن أبي هريرة -رضي الله تعالى عنه- قال: قالت فاطمة -رضي الله تعالى
 عنها-: يا رسول الله، زوجتني من علي بن أبي طالب، وهو فقير لا مال له.
 فقال: (يا فاطمة، أما ترضين أن الله -عز وجل- اطلع إلى أهل الأرض، فاختار
 رجلين، أحدهما أبوك، والآخر بعلك).
-</p>
 
 Reference:
 
@@ -129,12 +125,10 @@ o Mustadrak al-Hakim, vol 3, \#243/4645 (المجلد الثالث \>\> -31- ك�
 معرفة الصحابة رضي الله تعالى عنهم \>\> ذكر إسلام أمير المؤمنين: علي -رضي
 الله تعالى عنه)
 
-<p dir="rtl">
 عن ابن عباس قال: لما زوج النبي صلى الله عليه وسلم فاطمة من علي قالت
 فاطمة: يا رسول الله! زوجني من رجل فقير ليس له شيء فقال النبي صلى الله
 عليه وسلم: أما ترضين أن الله اختار من أهل الأرض رجلين: أحدهما أبوك
 والآخر زوجك. (خط) فيه وسنده حسن.
-</p>
 
 Reference:
 
@@ -161,11 +155,9 @@ resurrection they shall not be assisted. And We caused a curse to follow
 them in this world, and on the day of resurrection they shall be of
 those made to appear hideous.
 
-<p dir="rtl">
 وَجَعَل'نَاهُم' أَئِمَّةً يَد'عُونَ إِلَى النَّارِ وَيَو'مَ
 ال'قِيَامَةِ لَا يُنصَرُونَ وَأَت'بَع'نَاهُم' فِي هَذِهِ الدُّن'يَا
 لَع'نَةً وَيَو'مَ ال'قِيَامَةِ هُم مِّنَ ال'مَق'بُوحِينَ
-</p>
 
 For the righteous Imams, Allah (SWT) says: Quran 28:41-42
 
@@ -191,12 +183,10 @@ Imams: those who are given their record in their right hand will read it
 But those who were blind in this world, will be blind in the hereafter,
 and most astray from the Path.
 
-<p dir="rtl">
 يَو'مَ نَد'عُو كُلَّ أُنَاسٍ بِإِمَامِهِم' فَمَن' أُوتِيَ كِتَابَهُ
 بِيَمِينِهِ فَأُو'لَـئِكَ يَق'رَؤُونَ كِتَابَهُم' وَلاَ يُظ'لَمُونَ
 فَتِيلاً وَمَن كَانَ فِي هَـذِهِ أَع'مَى فَهُوَ فِي الآخِرَةِ أَع'مَى
 وَأَضَلُّ سَبِيلاً
-</p>
 
 The prophet never told us to follow any of the five leaders mentioned
 above. The only people the prophet told us to follow after him and to
@@ -216,11 +206,9 @@ Scholars وقد غلَب هذا الاسم على من يَتَوالى عَلِ
 الله عليهم أَجمعين- حتى صار لهم اسماً خاصّاً فإِذا قيل: فلان من الشِّيعة
 عُرِف أَنه منهم.
 
-<p dir="rtl">
 وفي مذهب الشيعة كذا أي: عندهم. وأَصل ذلك من المُشايَعةِ، وهي المُتابَعة
 والمُطاوَعة. قال الأَزهري: والشِّيعةُ قوم يَه'وَو'نَ هَوى عِت'رةِ
 النبي -صلى الله عليه وسلم- ويُوالونهم.
-</p>
 
 References: o Lisan al-A'arab, by ibn Manthur al-Ifriqi, vol 8 (كتاب
 العين المهملة. فصل الشين المعجمة) o al-Nihayat Fi Gharib al-Hadith wal
@@ -237,11 +225,9 @@ reward those who do right. For he was one of our believing Servants.
 Then the rest we overwhelmed in the Flood. Verily among those who
 followed his Way was Abraham.
 
-<p dir="rtl">
 سَلَامٌ عَلَى نُوحٍ فِي ال'عَالَمِينَ إِنَّا كَذَلِكَ نَج'زِي
 ال'مُح'سِنِينَ إِنَّهُ مِن' عِبَادِنَا ال'مُؤ'مِنِينَ ثُمَّ أَغ'رَق'نَا
 ال'آخَرِينَ وَإِنَّ مِن شِيعَتِهِ لَإِب'رَاهِيمَ
-</p>
 
 Quran 28:15
 
@@ -252,13 +238,11 @@ against his foe, and Moses struck him with his fist and made an end of
 him. He said: "This is a work of Evil (Satan): for he is an enemy that
 manifestly misleads!"
 
-<p dir="rtl">
 وَدَخَلَ ال'مَدِينَةَ عَلَى حِينِ غَف'لَةٍ مِّن' أَه'لِهَا فَوَجَدَ
 فِيهَا رَجُلَي'نِ يَق'تَتِلَانِ هَذَا مِن شِيعَتِهِ وَهَذَا مِن'
 عَدُوِّهِ فَاس'تَغَاثَهُ الَّذِي مِن شِيعَتِهِ عَلَى الَّذِي مِن'
 عَدُوِّهِ فَوَكَزَهُ مُوسَى فَقَضَى عَلَي'هِ قَالَ هَذَا مِن' عَمَلِ
 الشَّي'طَانِ إِنَّهُ عَدُوٌّ مُّضِلٌّ مُّبِينٌ
-</p>
 
 The term Shia'a used by the prophet The messenger was the first person
 to use the term Shia'a. He used it in reference to His cousin and
@@ -351,18 +335,14 @@ ghurral mahajjalin." وأخرج ابن عساكر عن جابر بن عبد ال
 وعملوا الصالحات أولئك هم خير البرية} " فكان أصحاب النبي صلى الله عليه
 وسلم إذا أقبل علي قالوا: جاء خير البرية.
 
-<p dir="rtl">
 وأخرج ابن عدي وابن عساكر عن أبي سعيد مرفوعا: علي خير البرية.
-</p>
 
-<p dir="rtl">
 وأخرج ابن عدي عن ابن عباس قال: لما نزلت {إن الذين آمنوا وعملوا الصالحات
 أولئك هم خير البرية} قال رسول الله صلى الله عليه وسلم لعلي: هو أنت
 وشيعتك يوم القيامة راضين مرضيين". وأخرج ابن مردويه عن علي قال: قال لي
 رسول الله صلى الله عليه وسلم: "ألم تسمع قول الله: {إن الذين آمنوا وعملوا
 الصالحات أولئك هم خير البرية} أنت وشيعتك وموعدي وموعدكم الحوض إذا جئت
 الأمم للحساب تدعون غرا محجلين".
-</p>
 
 References:
 
@@ -406,5 +386,4 @@ o al-Qanduzi al-Hanafi in Yanaabi' ul Mawaddah p. 182, - Egyptian
 edition
 o Muhammad Saalih at-Tirmidhi in al-Manaaqib ul-Murtazawiyya p. 101, -
 Bombay Edition
-
 

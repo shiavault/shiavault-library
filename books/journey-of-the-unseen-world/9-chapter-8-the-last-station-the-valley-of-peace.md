@@ -220,4 +220,3 @@ past sins. it will be able to enjoy the blessings and bounties. The
 Quran says, "Each of you will enter it (hell): Then we will send
 salvation for the God-fearing ones".)
 
-

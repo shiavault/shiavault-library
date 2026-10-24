@@ -8,11 +8,7 @@ Surah Ya-Sin, Chapter 36
 The Feature of Surah Ya-Sin
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -76,5 +72,4 @@ it brings the goodness of this world and the next for him.
 [^1]: Majma‘-ul-Bayan, at the beginning of Surah Ya-Sin.
 
 [^2]: Ibid
-
 

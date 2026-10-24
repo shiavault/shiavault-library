@@ -143,4 +143,3 @@ A.H./1912 A.D.).
 [^2]: Excerpted from a poem by Ayatullah Shaikh Hadi Kashif al-Ghiťa’
 published on p. 9 of Al-Maqbula al-Husayniyya.
 
-

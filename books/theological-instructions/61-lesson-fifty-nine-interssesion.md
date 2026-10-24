@@ -203,4 +203,3 @@ intercession.
 
 4. What are the conditions for a person who is subject to intercession?
 
-

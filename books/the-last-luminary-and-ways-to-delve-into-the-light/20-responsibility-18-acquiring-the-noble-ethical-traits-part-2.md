@@ -10,12 +10,8 @@ the prayer known as “Makarimul Akhlaq”[^1] which has been mentioned in
 various books of supplications, as this Du’a is very beneficial in
 attaining this rank. This supplication starts as follows:
 
-<blockquote dir="rtl">
-  <p>
-أَللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَآلِهِ وَ بَلِّغْ بِإِيـمَانِي
-أَكْمَلَ الإِيْـمَانِ وَاجْعَلْ يَقِيـنِي أَفْضَلَ الْيَقِينِ...
-  </p>
-</blockquote>
+> أَللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَآلِهِ وَ بَلِّغْ بِإِيـمَانِي
+> أَكْمَلَ الإِيْـمَانِ وَاجْعَلْ يَقِيـنِي أَفْضَلَ الْيَقِينِ...
 
 “O’ Allah! Send your blessings upon Muhammad and the family of Muhammad
 and elevate my faith to a perfect faith and make my certitude the best
@@ -37,5 +33,4 @@ to grant the believer such a status.
 
 [^1]: Supplication number 20 in as-Sahifah as-Sajjadiyah al-Kamilah;
 also found at the end of Mafatih al-Jinan.
-
 

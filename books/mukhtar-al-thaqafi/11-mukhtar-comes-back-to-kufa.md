@@ -25,4 +25,3 @@ Another said:
 
 The Prince accepted their ideas. Thus, he imprisoned Mukhtar.
 
-

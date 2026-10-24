@@ -24,12 +24,8 @@ but in order to attain bliss.
 Emphasis has been laid on this issue in many instances in the Qur’an; in
 one of the instances Allah states:
 
-<blockquote dir="rtl">
-  <p>
-وَسَارِعُوا إِلَی مَغْفِرَةٍ مِنْ رَبِّکُمْ وَجَنَّةٍ عَرْضُهَا
-السَّمَوَاتُ وَالأَرْضُ أُعِدَّتْ لَلْمُتَّقِينَ
-  </p>
-</blockquote>
+> وَسَارِعُوا إِلَی مَغْفِرَةٍ مِنْ رَبِّکُمْ وَجَنَّةٍ عَرْضُهَا
+> السَّمَوَاتُ وَالأَرْضُ أُعِدَّتْ لَلْمُتَّقِينَ
 
 ***“And hasten to forgiveness from your Lord; and a garden, the
 extensiveness of which is as the heavens and the earth, it is prepared
@@ -58,11 +54,7 @@ have intimate acts of devotion, like ‘Ali (*‘a*).
 
 Allah states in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-... أَلاَ بِذِکْرِ اللهِ تَطْمَئِنُ الْقُلُوبُ
-  </p>
-</blockquote>
+> ... أَلاَ بِذِکْرِ اللهِ تَطْمَئِنُ الْقُلُوبُ
 
 ***“… surely by Allah’s remembrance are hearts set at rest.”***[^2]
 
@@ -118,11 +110,7 @@ motivating others.
 
 In this regard, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-... وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلاَنِيَةً...
-  </p>
-</blockquote>
+> ... وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلاَنِيَةً...
 
 ***“…and spend benevolently out of what we have given them secretly and
 openly…”***[^4]
@@ -268,14 +256,10 @@ have been the object of Allah’s mercy and grace.
 
 With regard to them, Allah states:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَسْتَوِی الْقَاعِدُونَ مِنْ الْمُؤْمِنِينَ غَيْرُ أُوْلی
-الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللهِ بِأَمْوالِهِمْ
-وَأَنْفُسِهِمْ فَضَّلَ اللهُ الْمُجَاهِدِينَ بأَمْوَالِهِمْ
-وَأَنْفُسِهِمْ عَلَی الْقَاعِدِينَ دَرَجَةً...
-  </p>
-</blockquote>
+> لاَ يَسْتَوِی الْقَاعِدُونَ مِنْ الْمُؤْمِنِينَ غَيْرُ أُوْلی
+> الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللهِ بِأَمْوالِهِمْ
+> وَأَنْفُسِهِمْ فَضَّلَ اللهُ الْمُجَاهِدِينَ بأَمْوَالِهِمْ
+> وَأَنْفُسِهِمْ عَلَی الْقَاعِدِينَ دَرَجَةً...
 
 ***“The holders back from among the believers, not having any injury [or
 valid excuse], and those who strive in Allah’s way with their property
@@ -373,5 +357,4 @@ contentment.
 [^10]: Bihar al-Anwar, vol. 77, p. 419.
 
 [^11]: Surat al-Nisa 4:95.
-
 

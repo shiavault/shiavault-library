@@ -351,4 +351,3 @@ the boundary of shari'ah, there is no need to recite Shahadah again.
 Muslims, but they will have to recite Shahadah when they reach age of
 bulugh.
 
-

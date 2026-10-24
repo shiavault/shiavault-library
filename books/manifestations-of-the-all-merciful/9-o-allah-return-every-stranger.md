@@ -1,11 +1,7 @@
 O Allāh, Return Every Stranger.
 ===============================
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ رُدَّ كُلَّ غَرِيْبٍ
-  </p>
-</blockquote>
+> أَللٌّهُمَّ رُدَّ كُلَّ غَرِيْبٍ
 
 Meaning of ‘Gharīb’
 -------------------
@@ -23,11 +19,7 @@ which means ‘remoteness.’ Any thing therefore which is *gharīb* is far.
 In his Commentary of *Sahīfat al-Sajjādiyyah*[^1], Sayyid ‘Alī Khān
 al-Husaynī, says:
 
-<blockquote dir="rtl">
-  <p>
-الْغُرْبَةُ بالضمّ: البُعْدُ والنَّوَى.
-  </p>
-</blockquote>
+> الْغُرْبَةُ بالضمّ: البُعْدُ والنَّوَى.
 
 “*Ghurbah* (with the vowel damma over ghayn) denotes remoteness and
 distance.”
@@ -82,11 +74,7 @@ problems. The following holy tradition alludes to this reality:
 
 Imām ‘Alī (as) is reported[^2] to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْغَنِيُّ فِي الْغُرْبَةِ وَطِنٌ.
-  </p>
-</blockquote>
+> الْغَنِيُّ فِي الْغُرْبَةِ وَطِنٌ.
 
 “The affluent one is at home in a foreign place.”
 
@@ -94,21 +82,13 @@ Poverty, on the contrary, transforms one into a stranger:
 
 Imām ‘Alī (as) is reported[^3] to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْفَقْرُ فِي الْوَطَنِ غُرْبَةٌ.
-  </p>
-</blockquote>
+> الْفَقْرُ فِي الْوَطَنِ غُرْبَةٌ.
 
 “Poverty in one’s town is remoteness.:
 
 Imām ‘Alī (as) is reported[^4] to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْمُقِلُّ غَرِيْبٌ فِيْ بَلْدَتِهِ.
-  </p>
-</blockquote>
+> الْمُقِلُّ غَرِيْبٌ فِيْ بَلْدَتِهِ.
 
 “The dispossessed is a stranger in his hometown.”
 
@@ -119,21 +99,13 @@ Other extensions of ghurba are as follows:
 
 1. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْغَرِيْبُ مَنْ لَيْسَ لَهُ حَبِيْبٌ.
-  </p>
-</blockquote>
+> الْغَرِيْبُ مَنْ لَيْسَ لَهُ حَبِيْبٌ.
 
 “A stranger is one who does not have a friend.”
 
 3. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الأَحْمَقُ غَريْبٌ فِيْ بَلْدَتِهِ، مُهَانٌ بَيْنَ أَعِزَّتِهِ.
-  </p>
-</blockquote>
+> الأَحْمَقُ غَريْبٌ فِيْ بَلْدَتِهِ، مُهَانٌ بَيْنَ أَعِزَّتِهِ.
 
 “A silly person is a stranger in his hometown, and degenerate among his
 friends.”
@@ -152,11 +124,7 @@ ignorant. Here again the learned are strangers:
 
 Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْعُلَمَاءُ غُرَبَاء لِكثْرَةِ الْجُهَّالِ.
-  </p>
-</blockquote>
+> الْعُلَمَاءُ غُرَبَاء لِكثْرَةِ الْجُهَّالِ.
 
 “The learned are strangers due to the great number of the ignorant.”
 
@@ -198,12 +166,8 @@ Allāh (s), how did you approach your morning?”
 
 And Fātima (as) replies:
 
-<blockquote dir="rtl">
-  <p>
-أصْبَحْتُ بَيْنَ كَمَدِ وَكَرْبِ فَقْدِ النَّبِيِّ وَظُلْمِ
-الْوَصِيِّ.
-  </p>
-</blockquote>
+> أصْبَحْتُ بَيْنَ كَمَدِ وَكَرْبِ فَقْدِ النَّبِيِّ وَظُلْمِ
+> الْوَصِيِّ.
 
 “I encountered morning in great grief and sorrow of the loss of the
 Prophet (s) and the oppression of his successor…”
@@ -235,33 +199,21 @@ being is a traveler in this world. He has a path to traverse, which is
 
 1. The Human Being is a Traveler: Holy Qur’ān, 84:6
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيُّهَا الإِنْسَانُ إِنَّكَ كَادِحٌ إِلـى رَبِّكَ كَدْحًا
-فَمُلاَقِيهِ 
-  </p>
-</blockquote>
+>  يَا أَيُّهَا الإِنْسَانُ إِنَّكَ كَادِحٌ إِلـى رَبِّكَ كَدْحًا
+> فَمُلاَقِيهِ 
 
 ***“O human being you are always striving unto Your Lord laboriously and
 you shall meet Him.”***
 
 2. The Path: Holy Qur’ān, 1:6
 
-<blockquote dir="rtl">
-  <p>
- إِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ 
-  </p>
-</blockquote>
+>  إِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ 
 
 ***“Guide us on the Straight Path.”***
 
 3. The Destination, Holy Qur’ān, 35:18
 
-<blockquote dir="rtl">
-  <p>
- وَ إِلـى اللٌّهِ الْمَصِيرُ 
-  </p>
-</blockquote>
+>  وَ إِلـى اللٌّهِ الْمَصِيرُ 
 
 ***“To Allāh is the endless journey.”***
 
@@ -291,11 +243,7 @@ following tradition:
 
 Imām Ja’far al-Sādiq (as) is reported[^7] to have said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الأَسْمَاءُ الْحُسْنَى.
-  </p>
-</blockquote>
+> نَحْنُ الأَسْمَاءُ الْحُسْنَى.
 
 “We are the Most Beautiful Names [of Allāh].”
 
@@ -303,12 +251,8 @@ Hence, in order to return back to our hometown, which is Allāh’s
 proximity, we must try to adopt the correct path set by Almighty Allāh:
 The Holy Qur’ān [35:18] says:
 
-<blockquote dir="rtl">
-  <p>
- وَمَنْ تَزَكَّى فَإِنَّمَا يَتَزَكَّى لِنَفْسِهِ وَإِلـى اللٌّهِ
-الْمَصِيرُ 
-  </p>
-</blockquote>
+>  وَمَنْ تَزَكَّى فَإِنَّمَا يَتَزَكَّى لِنَفْسِهِ وَإِلـى اللٌّهِ
+> الْمَصِيرُ 
 
 ***“And whosoever purifies himself, purifies himself only for his own
 soul’s good. To Allāh is the homecoming (destination).”***
@@ -394,13 +338,9 @@ that such an incident is farfetched for it was just another practical
 translation of Imām ‘Alī’s (as) statement in *Nahju’l Balāgha*[^9] as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا بَرِحَتْ لِلٌّهِ عَزَّتْ آلاؤُهُ فِي الْبُرْهَةِ بَعْدَ
-الْبُرْهَةِ، وَفِي أَزْمَانِ الفَتَراتِ، عِبَادٌ نَاجَاهُمْ فِي
-فِكْرِهِمْ، وَكَلَّمَهُمْ فِيْ ذَاتِ عُقُوْلِهِمْ.
-  </p>
-</blockquote>
+> وَمَا بَرِحَتْ لِلٌّهِ عَزَّتْ آلاؤُهُ فِي الْبُرْهَةِ بَعْدَ
+> الْبُرْهَةِ، وَفِي أَزْمَانِ الفَتَراتِ، عِبَادٌ نَاجَاهُمْ فِي
+> فِكْرِهِمْ، وَكَلَّمَهُمْ فِيْ ذَاتِ عُقُوْلِهِمْ.
 
 “In all the periods and times when there were no prophets, there have
 been persons to whom Allāh, precious are His bounties, whispered in
@@ -414,41 +354,37 @@ in *Rawdat al-Kāfī* by Imām Muhammad al-Bāqir (as):[^10]
 The Prayer of A Broad Minded Old-Woman
 --------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَرٍ (ع) قَالَ إِنَّ رَسُولَ اللَّهِ (ص) كَانَ نَزَلَ
-عَلَى رَجُلٍ بِالطَّائِفِ قَبْلَ الإسْلاَمِ فَأَكْرَمَهُ. فَلَمَّا
-أَنْ بَعَثَ اللٌّهُ مُحَمَّداً ِ (ص) إِلَى النَّاسِ، قِيلَ لِلرَّجُلِ:
-أَتَدْرِي مَنِ الَّذِي أَرْسَلَهُ اللٌّهُ عَزَّ وَجَلَّ إِلـى
-النَّاسِ؟ قَالَ: لا. قَالُوا لَهُ: هُوَ مُحَمَّدُ بْنُ عَبْدِ اللٌّهِ،
-يَتِيمُ أَبِي طَالِبٍ، وَهُوَ الَّذِي كَانَ نَزَلَ بِكَ بِالطَّائِفِ
-يَوْمَ كَذَا وَكَذَا فَأَكْرَمْتَهُ. قَالَ: فَقَدِمَ الرَّجُلُ عَلَى
-رَسُولِ اللٌّهِ ِ (ص) فَسَلَّمَ عَلَيْهِ وَأَسْلَمَ، ثُمَّ قَالَ لَهُ:
-أَتَعْرِفُنِي يَا رَسُولَ اللٌّهِ؟ قَالَ: وَمَنْ أَنْتَ؟ قَالَ: أَنَا
-رَبُّ الْمَنْزِلِ الَّذِي نَزَلْتَ بِهِ بِالطَّائِفِ فِي
-الْجَاهِلِيَّةِ يَوْمَ كَذَا وَكَذَا فَأَكْرَمْتُكَ. فَقَالَ لَهُ
-رَسُولُ اللٌّهِ ِ (ص): مَرْحَباً بِكَ، سَلْ حَاجَتَكَ. فَقَالَ:
-أَسْأَلُكَ مِائَتَيْ شَاةٍ بِرُعَاتِهَا. فَأَمَرَ لَهُ رَسُولُ اللٌّهِ
-ِ (ص) بِمَا سَأَلَ. ثُمَّ قَالَ لأَصْحَابِهِ: مَا كَانَ عَلَى هٌذَا
-الرَّجُلِ أَنْ يَسْأَلَنِي سُؤَالَ عَجُوزِ بَنِي إِسْرَائِيلَ لِمُوسَى
-(ع) ؟ فَقَالُوا: وَمَا سَأَلَتْ عَجُوزُ بَنِي إِسْرَائِيلَ لِمُوسَى؟
-فَقَالَ: إِنَّ اللٌّهَ عَزَّ ذِكْرُهُ أَوْحَى إِلَى مُوسَى أَنِ
-احْمِلْ عِظَامَ يُوسُفَ مِنْ مِصْرَ قَبْلَ أَنْ تَخْرُجَ مِنْهَا إِلـى
-الأَرْضِ الْمُقَدَّسَةِ بِالشَّامِ، فَسَأَلَ مُوسَى عَنْ قَبْرِ
-يُوسُفَ (ع) ، فَجَاءَهُ شَيْخٌ فَقَالَ: إِنْ كَانَ أَحَدٌ يَعْرِفُ
-قَبْرَهُ فَفُلانَةُ. فَأَرْسَلَ مُوسَى (ع) إِلَيْهَا، فَلَمَّا
-جَاءَتْهُ قَالَ: تَعْلَمِينَ مَوْضِعَ قَبْرِ يُوسُفَ (ع) ؟ قَالَتْ:
-نَعَمْ. قَالَ: فَدُلِّينِي عَلَيْهِ وَلَكِ مَا سَأَلْتِ. قَالَتْ: لاَ
-أَدُلُّكَ عَلَيْهِ إِلاَّ بِحُكْمِي. قَالَ: فَلَكِ الْجَنَّةُ.
-قَالَتْ: لاَ، إِلاَّ بِحُكْمِي عَلَيْكَ. فَأَوْحَى اللٌّهُ عَزَّ
-وَجَلَّ إِلَى مُوسَى (ع): لاَ يَكْبُرُ عَلَيْكَ أَنْ تَجْعَلَ لَهَا
-حُكْمَهَا. فَقَالَ لَهَا مُوسَى (ع): فَلَكِ حُكْمُكِ. قَالَتْ: فَإِنَّ
-حُكْمِي أَنْ أَكُونَ مَعَكَ فِي دَرَجَتِكَ الَّتِي تَكُونُ فِيهَا
-يَوْمَ الْقِيَامَةِ فِي الْجَنَّةِ. فَقَالَ رَسُولُ اللٌّهِ ِ (ص): مَا
-كَانَ عَلَى هٌذَا لَوْ سَأَلَنِي مَا سَأَلَتْ عَجُوزُ بَنِي
-إِسْرَائِيلَ؟
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَرٍ (ع) قَالَ إِنَّ رَسُولَ اللَّهِ (ص) كَانَ نَزَلَ
+> عَلَى رَجُلٍ بِالطَّائِفِ قَبْلَ الإسْلاَمِ فَأَكْرَمَهُ. فَلَمَّا
+> أَنْ بَعَثَ اللٌّهُ مُحَمَّداً ِ (ص) إِلَى النَّاسِ، قِيلَ لِلرَّجُلِ:
+> أَتَدْرِي مَنِ الَّذِي أَرْسَلَهُ اللٌّهُ عَزَّ وَجَلَّ إِلـى
+> النَّاسِ؟ قَالَ: لا. قَالُوا لَهُ: هُوَ مُحَمَّدُ بْنُ عَبْدِ اللٌّهِ،
+> يَتِيمُ أَبِي طَالِبٍ، وَهُوَ الَّذِي كَانَ نَزَلَ بِكَ بِالطَّائِفِ
+> يَوْمَ كَذَا وَكَذَا فَأَكْرَمْتَهُ. قَالَ: فَقَدِمَ الرَّجُلُ عَلَى
+> رَسُولِ اللٌّهِ ِ (ص) فَسَلَّمَ عَلَيْهِ وَأَسْلَمَ، ثُمَّ قَالَ لَهُ:
+> أَتَعْرِفُنِي يَا رَسُولَ اللٌّهِ؟ قَالَ: وَمَنْ أَنْتَ؟ قَالَ: أَنَا
+> رَبُّ الْمَنْزِلِ الَّذِي نَزَلْتَ بِهِ بِالطَّائِفِ فِي
+> الْجَاهِلِيَّةِ يَوْمَ كَذَا وَكَذَا فَأَكْرَمْتُكَ. فَقَالَ لَهُ
+> رَسُولُ اللٌّهِ ِ (ص): مَرْحَباً بِكَ، سَلْ حَاجَتَكَ. فَقَالَ:
+> أَسْأَلُكَ مِائَتَيْ شَاةٍ بِرُعَاتِهَا. فَأَمَرَ لَهُ رَسُولُ اللٌّهِ
+> ِ (ص) بِمَا سَأَلَ. ثُمَّ قَالَ لأَصْحَابِهِ: مَا كَانَ عَلَى هٌذَا
+> الرَّجُلِ أَنْ يَسْأَلَنِي سُؤَالَ عَجُوزِ بَنِي إِسْرَائِيلَ لِمُوسَى
+> (ع) ؟ فَقَالُوا: وَمَا سَأَلَتْ عَجُوزُ بَنِي إِسْرَائِيلَ لِمُوسَى؟
+> فَقَالَ: إِنَّ اللٌّهَ عَزَّ ذِكْرُهُ أَوْحَى إِلَى مُوسَى أَنِ
+> احْمِلْ عِظَامَ يُوسُفَ مِنْ مِصْرَ قَبْلَ أَنْ تَخْرُجَ مِنْهَا إِلـى
+> الأَرْضِ الْمُقَدَّسَةِ بِالشَّامِ، فَسَأَلَ مُوسَى عَنْ قَبْرِ
+> يُوسُفَ (ع) ، فَجَاءَهُ شَيْخٌ فَقَالَ: إِنْ كَانَ أَحَدٌ يَعْرِفُ
+> قَبْرَهُ فَفُلانَةُ. فَأَرْسَلَ مُوسَى (ع) إِلَيْهَا، فَلَمَّا
+> جَاءَتْهُ قَالَ: تَعْلَمِينَ مَوْضِعَ قَبْرِ يُوسُفَ (ع) ؟ قَالَتْ:
+> نَعَمْ. قَالَ: فَدُلِّينِي عَلَيْهِ وَلَكِ مَا سَأَلْتِ. قَالَتْ: لاَ
+> أَدُلُّكَ عَلَيْهِ إِلاَّ بِحُكْمِي. قَالَ: فَلَكِ الْجَنَّةُ.
+> قَالَتْ: لاَ، إِلاَّ بِحُكْمِي عَلَيْكَ. فَأَوْحَى اللٌّهُ عَزَّ
+> وَجَلَّ إِلَى مُوسَى (ع): لاَ يَكْبُرُ عَلَيْكَ أَنْ تَجْعَلَ لَهَا
+> حُكْمَهَا. فَقَالَ لَهَا مُوسَى (ع): فَلَكِ حُكْمُكِ. قَالَتْ: فَإِنَّ
+> حُكْمِي أَنْ أَكُونَ مَعَكَ فِي دَرَجَتِكَ الَّتِي تَكُونُ فِيهَا
+> يَوْمَ الْقِيَامَةِ فِي الْجَنَّةِ. فَقَالَ رَسُولُ اللٌّهِ ِ (ص): مَا
+> كَانَ عَلَى هٌذَا لَوْ سَأَلَنِي مَا سَأَلَتْ عَجُوزُ بَنِي
+> إِسْرَائِيلَ؟
 
 “Before the advent of Islam, once when the Holy Prophet (s) happen to
 visit Tā’if, someone generously hosted him. Later when the Prophet (s)
@@ -498,12 +434,8 @@ Following are verses of Qur’ān that allude to this exalted station:
 
 1. Holy Qur’ān: 89:27-30
 
-<blockquote dir="rtl">
-  <p>
- يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ. ارْجِعِي إِلـى رَبِّكِ
-رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي 
-  </p>
-</blockquote>
+>  يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ. ارْجِعِي إِلـى رَبِّكِ
+> رَاضِيَةً مَرْضِيَّةً. فَادْخُلِي فِي عِبَادِي. وَادْخُلِي جَنَّتِي 
 
 ***“O soul at peace, Return to your Lord, while you are pleased with
 Him, and He is pleased with you, then enter the company of My obedient
@@ -511,12 +443,8 @@ servants, And ENTER MY PARADISE.”***
 
 2. Holy Qur’ān 54:54-55
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ. فِي مَقْعَدِ صِدْقٍ
-عِنْدَ مَلِيكٍ مُقْتَدِرٍ 
-  </p>
-</blockquote>
+>  إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ. فِي مَقْعَدِ صِدْقٍ
+> عِنْدَ مَلِيكٍ مُقْتَدِرٍ 
 
 ***“Surely the God-wary (pious) are in gardens and rivers. In the seat
 of truth with the Most Powerful King.”***
@@ -534,11 +462,7 @@ lesson from Bībī Āsiya, Fir‘awn’s wife, who despite enjoying all the
 worldly pleasures, did not surrender to Fir‘awn and faced painful
 torture from him. Almighty Allāh mentions her supplication as follows:
 
-<blockquote dir="rtl">
-  <p>
- رَبِّ ابْنِ لِي عِنْدَكَ بَيْتاً فِي الْجَنَّةِ 
-  </p>
-</blockquote>
+>  رَبِّ ابْنِ لِي عِنْدَكَ بَيْتاً فِي الْجَنَّةِ 
 
 ***“O my Lord, build for me NEAR YOU a house in paradise.”***
 
@@ -562,12 +486,8 @@ greatly different from the Paradise ‘underneath which rivers flow…
 
 ‘Allāmah Tabātabā’ī[^12] says:
 
-<blockquote dir="rtl">
-  <p>
-الْجَمْعُ بَيْنَ كَوْنِ الْبَيْتِ الْمَبْنِيِّ لَهَا عِنْدَ اللٌّهِ
-وَفِي الْجَنَّةِ، لِكَوْنِ الْجَنَّةِ دَارَ الْقُرْبِ مِنَ اللٌّهِ…
-  </p>
-</blockquote>
+> الْجَمْعُ بَيْنَ كَوْنِ الْبَيْتِ الْمَبْنِيِّ لَهَا عِنْدَ اللٌّهِ
+> وَفِي الْجَنَّةِ، لِكَوْنِ الْجَنَّةِ دَارَ الْقُرْبِ مِنَ اللٌّهِ…
 
 “Seeking a house to be built near Allāh and in Paradise at the same time
 is due to the fact that Paradise is the abode of Nearness to God.”
@@ -580,23 +500,15 @@ stranger.’ For example:
 
 1. Imām Muhammad al-Bāqir (as) is reported[^13] to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْمُؤْمِنُ غَرِيْبٌ وَ طُوبَى لِلْغُرَبَاءِ.
-  </p>
-</blockquote>
+> الْمُؤْمِنُ غَرِيْبٌ وَ طُوبَى لِلْغُرَبَاءِ.
 
 “A believer is a stranger; and blessed be the strangers!”
 
 2. Kāmil at-Tammār[^14] says:
 
-<blockquote dir="rtl">
-  <p>
-سَمِعْتُ أبا جَعْفَرٍ (ع) يَقُوْلُ: أَلنَّاسُ كُلُّهُمْ بَهَائِم
-(ثَلاَثاً) إِلاَّ قَلِيْلٌ مِنَ الْمُؤْمِنِينَ، وَالْمُؤْمِنُ غَرِيبٌ
-(ثَلاَث مَرَّاتٍ).
-  </p>
-</blockquote>
+> سَمِعْتُ أبا جَعْفَرٍ (ع) يَقُوْلُ: أَلنَّاسُ كُلُّهُمْ بَهَائِم
+> (ثَلاَثاً) إِلاَّ قَلِيْلٌ مِنَ الْمُؤْمِنِينَ، وَالْمُؤْمِنُ غَرِيبٌ
+> (ثَلاَث مَرَّاتٍ).
 
 “I heard Abū Ja’far [Imām Muhammad al-Bāqir] (as), saying thrice: ‘The
 people are all beasts save a few of the believers;’ and thrice, ‘a
@@ -605,15 +517,11 @@ believer is a stranger (gharīb).’”
 ‘Allāmah Majlīsī in his magnum opus ‘*The Oceans of Lights*’ comments on
 this tradition as follows:
 
-<blockquote dir="rtl">
-  <p>
-بيان: كلهم بهائم أي شبيه بها في عدم العقل، وإدراك الحق، وغلبة الشهوات
-النفسانية على القوى العقلانية، كما قال تعالى: “إِنْ هُمْ إِلاَّ
-كَالأنْعامِ بَلْ هُمْ أَضَلُّ سَبِيلاً.” إلا قليل كذا… المؤمن غريب
-لأنه قلما يجد مثله فيسكن إليه، فهو بين الناس كالغريب الذي بــعُد عن
-أهله ووطنه …
-  </p>
-</blockquote>
+> بيان: كلهم بهائم أي شبيه بها في عدم العقل، وإدراك الحق، وغلبة الشهوات
+> النفسانية على القوى العقلانية، كما قال تعالى: “إِنْ هُمْ إِلاَّ
+> كَالأنْعامِ بَلْ هُمْ أَضَلُّ سَبِيلاً.” إلا قليل كذا… المؤمن غريب
+> لأنه قلما يجد مثله فيسكن إليه، فهو بين الناس كالغريب الذي بــعُد عن
+> أهله ووطنه …
 
 “Exposition: ‘All are beast’” means that they resemble them in not using
 their intellect and not comprehending the truth and in their selfish
@@ -630,21 +538,13 @@ Creator and struggles to reach this exalted destination. As long as he
 has not reached the destination he always finds himself a stranger. Imām
 ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الدُّنْيَا دَارُ الْغُرْبَةِ وَمَوْطِنُ الأَشْقِيَاء.
-  </p>
-</blockquote>
+> الدُّنْيَا دَارُ الْغُرْبَةِ وَمَوْطِنُ الأَشْقِيَاء.
 
 “The world is a place of remoteness and a residence for the wretched.”
 
 And the following is reported[^16] in another tradition:
 
-<blockquote dir="rtl">
-  <p>
-حُبُّ الْوَطَنِ مِنَ الإِيْمَانِ.
-  </p>
-</blockquote>
+> حُبُّ الْوَطَنِ مِنَ الإِيْمَانِ.
 
 “Love for one’s hometown is a sign of faith.”
 
@@ -659,11 +559,7 @@ Why was Imām ‘Alī al-Ridā (as) known as Imām al-Gharīb
 
 Sometimes when addressing our 8th Holy Imām (as) we say:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا غَرِيبَ الْغُرَبَاء.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا غَرِيبَ الْغُرَبَاء.
 
 “Peace be on you, O Stranger of the Strangers.”
 
@@ -691,11 +587,7 @@ al-ghurabā*. And in a tradition narrated in al-Mashhadī’s *al-Mazār
 al-Kabīr*, Imām Ja’far al-Sādiq (as) is reported to have asked the
 following about a group of people:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا يَمْـنَعُهُمْ مِنْ زِيَارَةِ قَبْرِ الْغَرِيبِ...
-  </p>
-</blockquote>
+> فَمَا يَمْـنَعُهُمْ مِنْ زِيَارَةِ قَبْرِ الْغَرِيبِ...
 
 “And what stops them from visiting the grave of al-Gharīb? [he means
 Imām al-Husayn (as)].”[^19]
@@ -706,15 +598,11 @@ The Hometown of the Gharīb
 Sayyid ‘Alī Khān Husaynī, in his *Riyād al-Sālikīn*, quotes the
 following:
 
-<blockquote dir="rtl">
-  <p>
-سئل أبو جعفر الشّاشي: من الغريب؟ فقال: الذي يطلبه رضوان في الجنّة فلا
-يجده، ويطلبه مالك في النّار فلا يجده، ويطلبه جبرئيل في السّماوات فلا
-يجده، ويطلبه إبليس في الأرض فلا يجده. فقال له أهل المجلس وقد تفطّرت
-قلوبهم: يا أبا جعفر! فأين يكون هذا الغريب؟ فقال: في مقعد صدق عند مليك
-مقتدر.
-  </p>
-</blockquote>
+> سئل أبو جعفر الشّاشي: من الغريب؟ فقال: الذي يطلبه رضوان في الجنّة فلا
+> يجده، ويطلبه مالك في النّار فلا يجده، ويطلبه جبرئيل في السّماوات فلا
+> يجده، ويطلبه إبليس في الأرض فلا يجده. فقال له أهل المجلس وقد تفطّرت
+> قلوبهم: يا أبا جعفر! فأين يكون هذا الغريب؟ فقال: في مقعد صدق عند مليك
+> مقتدر.
 
 Abū Ja’far al-Shāshī was asked: “Who is a stranger (*gharīb*)?” He said:
 “He is one whom the Ridwān seeks in Paradise, but does not find, one
@@ -731,11 +619,7 @@ The infallibility of Imām ‘Alī (as) is an established fact and hence we
 would not like to engage in explaining the details of the same. We also
 know his famous saying:[^20]
 
-<blockquote dir="rtl">
-  <p>
-لَوْ كُشِفَ الْغِطَاءُ مَا ازْدَدْتُ يَقِيْنًا.
-  </p>
-</blockquote>
+> لَوْ كُشِفَ الْغِطَاءُ مَا ازْدَدْتُ يَقِيْنًا.
 
 “If the veil was unveiled nothing would be added to my certitude.”
 
@@ -753,12 +637,8 @@ the stations, and to it has referred the Master of the Wayfarers, the
 Commander of the Faithful, and the Leader of the Perfect (i.e. ‘Alī ibn
 Abī Tālib (as) in the noble *Du‘ā’ Kumayl*:
 
-<blockquote dir="rtl">
-  <p>
-فَهَبْنِي يَا إِلٌهِي وَسَيِّدِي وَمَوْلاَيَ وَرَبِّي صَبَرْتُ عَلى
-عَذَابِكَ، فَكَيْفَ أَصْبِرُ عَلَى فِرَاقِكَ؟
-  </p>
-</blockquote>
+> فَهَبْنِي يَا إِلٌهِي وَسَيِّدِي وَمَوْلاَيَ وَرَبِّي صَبَرْتُ عَلى
+> عَذَابِكَ، فَكَيْفَ أَصْبِرُ عَلَى فِرَاقِكَ؟
 
 “O my God, my Master and my Lord! Even if I were able to endure Your
 chastisement, how shall I bear Your separation?!”
@@ -766,19 +646,11 @@ chastisement, how shall I bear Your separation?!”
 Perhaps the following dictum of Imām ‘Alī (as) also explains the reality
 of the matter:
 
-<blockquote dir="rtl">
-  <p>
-نَارُ الْفُرْقَةِ أَحَرُّ مِنْ نَارِ جَهَنَّمِ.
-  </p>
-</blockquote>
+> نَارُ الْفُرْقَةِ أَحَرُّ مِنْ نَارِ جَهَنَّمِ.
 
 “The fire of separation is hotter than Hellfire.”[^21]
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ رُدَّ كُلَّ غَرِيْبٍ.
-  </p>
-</blockquote>
+> أَللٌّهُمَّ رُدَّ كُلَّ غَرِيْبٍ.
 
 Hence, when we seek the return of all the strangers we must pray to
 Allāh to:
@@ -797,13 +669,9 @@ sense, the Imāms (as) being close to Almighty Allāh, were never *gharīb*
 hometown. There is a beautiful report narrated by al-Zamakhshari in his
 *Rabī‘ al-Abrār* worthy of reflection. He reports:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا أُخْرِجَ يُوْسَفُ (ع) مِنَ الْجُبِّ وَاشْتُرِيَ، قَالَ لَهُمْ
-قَائِلٌ: إِسْتَوْصُوا بِهٌذَا الْغَرِيبِ خَـيْراً. فَقَالَ لَهُمْ
-يُوسُفُ: مَنْ كَانَ مَعَ اللٌّهِ فَلَيْسَ عَلَيْهِ غُرْبَةٌ.
-  </p>
-</blockquote>
+> لَمَّا أُخْرِجَ يُوْسَفُ (ع) مِنَ الْجُبِّ وَاشْتُرِيَ، قَالَ لَهُمْ
+> قَائِلٌ: إِسْتَوْصُوا بِهٌذَا الْغَرِيبِ خَـيْراً. فَقَالَ لَهُمْ
+> يُوسُفُ: مَنْ كَانَ مَعَ اللٌّهِ فَلَيْسَ عَلَيْهِ غُرْبَةٌ.
 
 “When Yūsuf (as) was taken out of the well, and bought, a person said to
 them: ‘Take care of this stranger (*gharīb*). [Hearing this,] Yūsuf (as)
@@ -852,5 +720,4 @@ said to them: whosoever is with Almighty Allāh, is not a stranger.”[^22]
 [^21]: Mīrāth-e-Hadīthe Shī‘e, v. 8, pg. 217
 
 [^22]: Rabī‘ al-Abrār wa Nusūs al-Akhbār, v. 3, pg. 5
-
 

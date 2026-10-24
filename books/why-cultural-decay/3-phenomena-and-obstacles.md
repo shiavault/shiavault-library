@@ -86,7 +86,6 @@ spread Islamic culture and awareness, and cleanse the Islamic mentality
 of all invading, foreign doctrines, by employing every scientific means
 available.
 
-
 **2. Decline of Social Awareness:**
 
 Not every individual is able to analyze events; realize how they take
@@ -264,5 +263,4 @@ shrinkage of the collective sense, and the lack of the feeling of
 responsibility are the most dangerous factors of destruction and
 subversion and for this reason Islam unrelentingly fought them and
 worked to get rid of them.
-
 

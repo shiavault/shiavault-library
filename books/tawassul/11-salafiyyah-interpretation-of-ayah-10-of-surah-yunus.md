@@ -48,4 +48,3 @@ Unseen Creator:
 obeisance unto what you bid us? And it (only) adds to their flight (from
 the truth)." (25:60)***
 
-

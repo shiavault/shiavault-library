@@ -42,4 +42,3 @@ right shall be protected by law. No one shall be arbitrarily deprived of
 his life." [Article 6, Item 1. International Covenant on Civil and
 Political Rights].
 
-

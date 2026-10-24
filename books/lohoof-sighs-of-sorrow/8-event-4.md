@@ -672,4 +672,3 @@ Kindly forgive him. Came the Revelation: O Musa! If you appeal to me to
 pardon all from first to last, I will forgive them all except the
 killers of Husain bin Ali bin Abi Tâlib (a.s.).
 
-

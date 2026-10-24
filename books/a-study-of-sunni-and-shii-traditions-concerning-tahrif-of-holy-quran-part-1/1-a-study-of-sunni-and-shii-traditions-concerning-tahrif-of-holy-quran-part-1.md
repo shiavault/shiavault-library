@@ -11,9 +11,7 @@ not an alteration of the actual words and phrases of a text but the
 alteration of its meanings.1 It is in this sense that tahrif has been
 used in the following Qur'anic verse:
 
-<p dir="rtl">
 مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ….
-</p>
 
 ***Some of the Jews pervert words (yuharrifuna) from their
 meanings…(4:46)***
@@ -23,5 +21,4 @@ scripture while keeping its actual words. Although tahrif literally
 means semantic alteration (al-tahrif al-ma\`nawi), the term has also
 been in use for textual alteration (al-tahrif al-lafzi). Thus tahrif is
 of two kinds: semantic and textual.
-
 

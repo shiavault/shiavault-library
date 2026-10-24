@@ -63,7 +63,6 @@ made by wise men as well as empirical methods.
 2. Experience / perception of wise men in the society
 3. Empirical analysis
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Source: Divine Economics
 
@@ -184,5 +183,4 @@ at global level. An ideal type of good governance is expected in the era
 of Imam Mahdi that may peruse global welfare. Contrarily in the world,
 the governance system is not supportive for ideal governance that keeps
 welfare level of human beings below desired level.
-
 

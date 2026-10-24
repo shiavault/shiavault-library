@@ -238,4 +238,3 @@ vol. III, page 137.
 [^4]: Tabaqat Ibn Sa'd, vol. I, page 216 and Seerah-i Ibn Hisham, vol.
 I, pp. 422 -442.
 
-

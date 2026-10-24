@@ -1,11 +1,7 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
 ***In the Name of God, Most Gracious, Most Merciful***
 
@@ -108,11 +104,7 @@ But it was not an easy thing to do since:
 
 *The speech of the leader (Imam) is the Imam (leader) of all speeches.*
 
-<blockquote dir="rtl">
-  <p>
-کلام الامام امام الکلام
-  </p>
-</blockquote>
+> کلام الامام امام الکلام
 
 But only with their help & affection could this job be completed.
 
@@ -121,5 +113,4 @@ translation including Islamic terminology will be appreciated.
 
 **Javed Iqbal Qazilbash**
 **Seminary of Qum**
-
 

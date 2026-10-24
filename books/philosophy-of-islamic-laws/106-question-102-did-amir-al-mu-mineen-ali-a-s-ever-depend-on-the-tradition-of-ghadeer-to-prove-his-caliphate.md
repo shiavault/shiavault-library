@@ -155,7 +155,6 @@ Yasir, Zaid bin Arqam, Abdullah bin Ja'far, Asbagh bin Nubata (may Allah
 be pleased with them) and other people used to argue the Caliphate and
 guardianship of Ali (a.s.) with the tradition of Ghadeer.[^5]
 
-
 [^1]: Manaqib Khwarizmi p. 217 etc.
 
 [^2]: Al Ghadeer vol. 1 pgs. 153-171
@@ -168,5 +167,4 @@ and also in Siffeen.
 
 [^5]: For more information on these debates and sources refer to Al
 Ghadeer (vol. 1 pg. 146-195). This book has recorded 22 such debates
-
 

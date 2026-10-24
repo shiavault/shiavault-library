@@ -90,4 +90,3 @@ Hadid has mentioned such Zaidiya traditions in Sharh Nahjul Balagha that
 show the injustice of the two Caliphs with regard to the affairs of
 Caliphate.
 
-

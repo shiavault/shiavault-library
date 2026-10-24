@@ -116,7 +116,6 @@ that in such vicious atmosphere and sinful surroundings, what is the
 responsibility of a true awaiter? And how important it is? Besides these
 there are also other responsibilities which are as follows :
 
-
 **Character Building**
 
 The foremost thing which a true awaiter is expected to do is to build
@@ -247,5 +246,4 @@ and where is the proximity to Masumeen (A.S.) and the fortune of staying
 with them ? This tradition is sufficient to enlighten the keen and
 sensitive Shias. Even women can join hands with men in fulfilling this
 responsibility.
-
 

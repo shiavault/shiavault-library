@@ -32,4 +32,3 @@ ninth day until the sunset; therefore, the pilgrim can become Muhrim in
 the morning of the ninth day and go to Arafat on time (if it is possible
 to reach on time in that conditions).
 
-

@@ -166,4 +166,3 @@ afraid of being questioned or analyzed. Only those who fear failure
 forbid free discussion of their religious principles and avoid
 examination by researchers.
 
-

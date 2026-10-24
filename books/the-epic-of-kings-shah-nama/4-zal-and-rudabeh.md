@@ -681,4 +681,3 @@ in the hands of his son, and Zal administered it with wisdom and
 judgment. And Rudabeh sat beside him on the throne, and he placed a
 crown of gold upon her head.
 
-

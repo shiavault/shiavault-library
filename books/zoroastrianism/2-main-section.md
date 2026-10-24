@@ -859,4 +859,3 @@ faiths are sister faiths, only invasion, oppression and exile have
 shattered the younger faith to such an extent that much of its ancient
 birthright has been lost.
 
-

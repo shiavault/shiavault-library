@@ -3,22 +3,14 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا خَلَقْتُ الْجِنَّ وَ الإِنْسَ إِلاَّ لِيَعبُدُونَ
-  </p>
-</blockquote>
+> وَ مَا خَلَقْتُ الْجِنَّ وَ الإِنْسَ إِلاَّ لِيَعبُدُونَ
 
 *“And I have not created the jinn and the men except that they should
 serve Me.”*[^1]
 
 Imam Sajjad (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ بِمَا افْتَرَضَ اللهُ فَهُوَ مِنْ أَعْبَدِ النَّاسِ.
-  </p>
-</blockquote>
+> مَنْ عَمِلَ بِمَا افْتَرَضَ اللهُ فَهُوَ مِنْ أَعْبَدِ النَّاسِ.
 
 *“One, who performs (all) that Allah has made obligatory upon him, is
 the most worshipping of all people.”*[^2]
@@ -193,5 +185,4 @@ Husain), pg. 123
 [^8]: Iblis Nameh, pg. 165; ‘Ilal al-Sharai’, vol. 2, pg. 243
 
 [^9]: Muntahal A’mal, vol. 2, pg. 3
-
 

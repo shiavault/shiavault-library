@@ -452,4 +452,3 @@ ideas. It is here that the sublimity of the logic of Islam and the
 insignificance and pettiness of other ideologies becomes evident. We
 shall answer these queries in the following sections.
 
-

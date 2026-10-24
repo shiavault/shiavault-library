@@ -52,4 +52,3 @@ been used for God 963 times. This shows the utmost importance of this
 quality of God. The only word that is used more frequently to denote God
 in the Qur’an is Allah.
 
-

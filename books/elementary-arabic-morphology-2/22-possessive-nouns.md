@@ -66,4 +66,3 @@ or *alif* the last letter should be changed into a *wāw* and then the
 *yā's* should be added. For example: **فَتیَ** (young man) becomes
 **فَتَوِيٌّ** (of a young man).
 
-

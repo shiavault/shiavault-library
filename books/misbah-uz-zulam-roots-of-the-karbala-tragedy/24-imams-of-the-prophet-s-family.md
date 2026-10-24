@@ -30,4 +30,3 @@ internally all of them were the brave lions of the religion of Allah.
 
 O Allah! Bless Muhammad and the Progeny of Muhammad.
 
-

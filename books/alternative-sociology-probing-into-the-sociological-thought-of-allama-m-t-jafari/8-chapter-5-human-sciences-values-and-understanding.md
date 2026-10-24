@@ -365,4 +365,3 @@ affectionately about their teachers? In a rationalized world there is no
 place for affectionate souls. This is another story which I leave for
 another treatise in the near future.
 
-

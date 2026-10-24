@@ -65,11 +65,7 @@ It has been mentioned that Imam Muhammad ibn \`Ali al-Baqir (peace be
 upon him) used to recite Surah al-Ikhlas in the Salat al-Shaf\` and
 Salat al-Witr and after reciting this Surah, would say:
 
-<blockquote dir="rtl">
-  <p>
-كَذٌالِكَ اللٌّهُ رَبِّي
-  </p>
-</blockquote>
+> كَذٌالِكَ اللٌّهُ رَبِّي
 
 *“This is Allah my Lord”*[^9]
 
@@ -98,5 +94,4 @@ entire Qur\`an.[^10]
 [^9]: Bihar Al-Anwar, Vol. 87, Pg. 226; Furu\` Al-Kafi, Vol. 3, Pg. 441
 
 [^10]: Bihar Al-Anwar, Vol. 86, Pg. 226; Tahdhib, Vol. 1, Pg. 171
-
 

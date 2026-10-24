@@ -124,4 +124,3 @@ understand and follow these principles.
 Muhammad Baqir. Hayat al-Qulub. Vol. 1. Trans. Sayyid Athar Husain S. H.
 Rizvi. Ansariyan Publications, Second Reprint 2007, pages 413-427.
 
-

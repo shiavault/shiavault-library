@@ -9,4 +9,3 @@ Section 3: The Child’s Duties
 
 **Chapter four : The child’s duties towards elders and friends**
 
-

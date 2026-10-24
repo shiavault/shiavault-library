@@ -385,4 +385,3 @@ Sazman-e Tablighat-e Islami, 1377 AHS), pp. 207-209.
 
 [^30]: Murawwij adh-Dhahab, vol. 4, p. 297.
 
-

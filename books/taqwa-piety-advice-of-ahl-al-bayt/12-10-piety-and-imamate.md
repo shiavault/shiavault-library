@@ -181,4 +181,3 @@ imamate except those whom Allah has tried their hearts with faith.”[^14]
 
 [^14]: Bihar al-Anwar, vol. 23, p. 289
 
-

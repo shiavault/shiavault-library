@@ -489,4 +489,3 @@ shape of an everlasting lili or an eternal rose to refresh the mind and
 redress the nerves. This flower shall ever remain reminding that a Mehdi
 is to come and what is taken will be returned.
 
-

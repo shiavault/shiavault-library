@@ -25,4 +25,3 @@ of that, this person relies on his own strength, management, effort, and
 striving, and goes beyond the limits of his Lord by his seeking ways and
 means which Allah has caused him to have no need of.
 
-

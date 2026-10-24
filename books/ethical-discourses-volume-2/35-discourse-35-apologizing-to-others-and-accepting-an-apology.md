@@ -1,12 +1,8 @@
 Discourse 35: Apologizing to Others and Accepting an Apology
 ============================================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ مَنْ لَمْ يَقْبَلِ الْعُذْرَ مِنْ
-مُتَـنَصِّلٍ صَادِقاً كَانَ أََوْ كَاذِباً لَمْ يَنَلْ شَفاعَتِـي.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ مَنْ لَمْ يَقْبَلِ الْعُذْرَ مِنْ
+> مُتَـنَصِّلٍ صَادِقاً كَانَ أََوْ كَاذِباً لَمْ يَنَلْ شَفاعَتِـي.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! My intercession shall not
 reach the person who does not accept the apology from another person -
@@ -118,12 +114,8 @@ point, what road would you take to stop this person's obstinacy?
 
 In the Du’a of Abu hamza ath-Thumali we read:
 
-<blockquote dir="rtl">
-  <p>
-أَمَرْتَنَا أَنْ تَعْفُوَ عَمَّنْ ظَلَمَنَا وَ أَنْتَ أَوْلـى
-بِالْعَفوِ وَ قَدْ ظَلَمْنَا أَنْفُسَنَا…
-  </p>
-</blockquote>
+> أَمَرْتَنَا أَنْ تَعْفُوَ عَمَّنْ ظَلَمَنَا وَ أَنْتَ أَوْلـى
+> بِالْعَفوِ وَ قَدْ ظَلَمْنَا أَنْفُسَنَا…
 
 “You have ordered us to forgive the person who oppresses us, however You
 are much more worthy to forgive us who have been oppressive to our own
@@ -138,11 +130,7 @@ person and accept their apology.
 
 In addition, in the Du’a of the month of Rajab we say:
 
-<blockquote dir="rtl">
-  <p>
-يُعْطِي مَنْ سَئَلَ…
-  </p>
-</blockquote>
+> يُعْطِي مَنْ سَئَلَ…
 
 “You give to the person who asks You…”
 
@@ -218,11 +206,7 @@ and may actually go forth to explain it as a form of patronage as is
 carried out by the kings and oppressive rulers! Sometimes, just like the
 Wahhabis believe, people may take the following verse which reads:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ
-  </p>
-</blockquote>
+> لاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ
 
 “His intercession shall not be accepted.”[^2]
 
@@ -362,21 +346,13 @@ These verses are divided into the following categories:
 The First Group: Verses which completely deny the issue of intercession
 of any sort:
 
-<blockquote dir="rtl">
-  <p>
-أَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِـيَ يَوْمٌ لاَ
-بَيْعٌ فِيهِ وَ لاَ خُلَّةٌ وَ لاَ شَفَاعَةٌ
-  </p>
-</blockquote>
+> أَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِـيَ يَوْمٌ لاَ
+> بَيْعٌ فِيهِ وَ لاَ خُلَّةٌ وَ لاَ شَفَاعَةٌ
 
 “…spend out of what We have given you before the day comes in which
 there is no bargaining, friendship nor intercession…”[^4]
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ
-  </p>
-</blockquote>
+> وَلاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ
 
 “…neither shall intercession on its behalf be accepted…”[^5]
 
@@ -388,52 +364,32 @@ intercession!
 
 In relation to some sinful, guilty people, we read the following:
 
-<blockquote dir="rtl">
-  <p>
-فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافَعِينَ
-  </p>
-</blockquote>
+> فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافَعِينَ
 
 “So the intercession of intercessors shall not avail them.”[^6]
 
 The Second Group: These are verses in which intercession is limited to
 only Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-مَا لَكُمْ مِنْ دُونِهِ مِنْ وَلِيٍّ وَ لاَ نَصِيـرٍ
-  </p>
-</blockquote>
+> مَا لَكُمْ مِنْ دُونِهِ مِنْ وَلِيٍّ وَ لاَ نَصِيـرٍ
 
 “Other than Him you have no protector, nor any assistant…”[^7]
 
 In another verse we are told:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلٌّهِ الشَّفَاعَةُ جَمِيعاً
-  </p>
-</blockquote>
+> قُلْ لِلٌّهِ الشَّفَاعَةُ جَمِيعاً
 
 “Say with Allah alone is the intercession…”[^8]
 
 The Third Group: These are verses which mention that intercession is
 only possible by the permission of Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِاِذْنِهِ
-  </p>
-</blockquote>
+> مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِاِذْنِهِ
 
 “Who is there that can intercede in His presence except by His
 permission?”[^9]
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ
-  </p>
-</blockquote>
+> وَلاَ تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ
 
 “And intercession will not avail aught with Him save of him whom He
 permits.”[^10]
@@ -442,11 +398,7 @@ The Forth Group: These verses that list the conditions necessary for the
 person who is going to intercede. Sometimes these conditions are
 mentioned as being the tacit approval and pleasure of Allah (SwT):
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى
-  </p>
-</blockquote>
+> وَلاَ تَنْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى
 
 “…and they do not intercede except for him whom He approves…”[^11]
 
@@ -458,12 +410,8 @@ Sometimes, the condition for the intercession is the one who has
 acquired a promise or covenant from Allah (SwT) as mentioned in the
 verse of the Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَمْلِكُونَ الشَّفَاعَةَ إِلاَّ مَنِ اتَّخَذَ عِنْدَ الرَّحْمٌنِ
-عَهْداً
-  </p>
-</blockquote>
+> لاَ يَمْلِكُونَ الشَّفَاعَةَ إِلاَّ مَنِ اتَّخَذَ عِنْدَ الرَّحْمٌنِ
+> عَهْداً
 
 “They shall not control intercession, save he who has made a covenant
 with the Beneficent Allah.”  
@@ -471,11 +419,7 @@ with the Beneficent Allah.”
 taken away such as in the instance in which the impermissibility of
 intercession of those who are oppressors:
 
-<blockquote dir="rtl">
-  <p>
-مَا لِلظَّالِمينَ مِنْ حَمِيمٍ وَ لاَ شَفيعٍ يُطَاعُ
-  </p>
-</blockquote>
+> مَا لِلظَّالِمينَ مِنْ حَمِيمٍ وَ لاَ شَفيعٍ يُطَاعُ
 
 ”…the unjust shall not have any compassionate friend nor any intercessor
 who should be obeyed (in his intercession - meaning that his
@@ -543,13 +487,9 @@ activities, continue on their own path…
 In regards to the forgiveness of sins in the shade of intercession, the
 Qur\`an mentions:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ اِذْ ظَلَمُوا اَنْفُسَهُمْ جَآؤُوكَ فَاسْتَغْفَرُوا
-اللٌّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولَ لَوَجَدُوا اللٌّهَ تَوَّاباً
-رَحِيماً
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ اِذْ ظَلَمُوا اَنْفُسَهُمْ جَآؤُوكَ فَاسْتَغْفَرُوا
+> اللٌّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولَ لَوَجَدُوا اللٌّهَ تَوَّاباً
+> رَحِيماً
 
 “And only if those people who had wronged their own souls had come to
 you (Muhammad) and had asked Allah for forgiveness and the Messenger too
@@ -560,13 +500,9 @@ In this verse, turning back to Allah (SwT) and repentance of the guilty
 sinners is considered as the precursor to the intercession of the
 Prophet (S) while in another verse of the Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَا أَبَانَا إِسْتَغْفِرْلَنَا ذُنُوبَنَا أَنّا كُــنَّا
-خَاطِـئِينَ. قَالَ سَوْفَ أَسْتَغْفِرُلَكُمْ رِبِّي إِنَّهُ هُوَ
-الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> قَالُوا يَا أَبَانَا إِسْتَغْفِرْلَنَا ذُنُوبَنَا أَنّا كُــنَّا
+> خَاطِـئِينَ. قَالَ سَوْفَ أَسْتَغْفِرُلَكُمْ رِبِّي إِنَّهُ هُوَ
+> الْغَفُورُ الرَّحِيمُ
 
 “They said: 'O our father! ask forgiveness of our faults for us, surely
 we were sinners.'  He said: 'I will soon ask for you forgiveness from my
@@ -580,13 +516,9 @@ In relation to the intercession of the Angels, we read in the Qur’an
 that their forgiveness and intercession is only for those of true faith,
 those who follow the path of Allah (SwT) and the followers of the truth:
 
-<blockquote dir="rtl">
-  <p>
-وَيَسْـتَغْفِرُونَ لِلَّذِينَ آمَـنُوا رَبَّنَا وَسِعَتْ كُلَّ شَيْءٍ
-رَحْمَةً وَ عِلْماً فَاغْفِرْ لِلَّذِينَ تَابُوا وَ اتَّبَعُوا
-سَبِيلَكَ وَ قِهِمْ عَذَابَ الْجَحِيمِ
-  </p>
-</blockquote>
+> وَيَسْـتَغْفِرُونَ لِلَّذِينَ آمَـنُوا رَبَّنَا وَسِعَتْ كُلَّ شَيْءٍ
+> رَحْمَةً وَ عِلْماً فَاغْفِرْ لِلَّذِينَ تَابُوا وَ اتَّبَعُوا
+> سَبِيلَكَ وَ قِهِمْ عَذَابَ الْجَحِيمِ
 
 ”(Those who bear the power and those around Him celebrate the praise of
 their Lord and believe in Him) and ask protection for those who believe:
@@ -603,11 +535,7 @@ discussion of the “Reality of Intercession”.
 In regards to those who will be performing the intercession, the Qur\`an
 has also mentioned that the person must be a witness to the truth:
 
-<blockquote dir="rtl">
-  <p>
-إِِلاَّ مَنْ شَهِدَ بِالْحَقِّ
-  </p>
-</blockquote>
+> إِِلاَّ مَنْ شَهِدَ بِالْحَقِّ
 
 “…except for he who bears witness of the truth…”[^16]
 
@@ -630,11 +558,7 @@ traditions, we mention the following:
 al-Kazim (as) that Imam ‘Ali b. Abi Talib (as) said, “I heard the
 Prophet (S) say:
 
-<blockquote dir="rtl">
-  <p>
-شَفَاعَتِي لأَهْلِ الْكَبَائِرِ مِنْ أُمَّتِي…
-  </p>
-</blockquote>
+> شَفَاعَتِي لأَهْلِ الْكَبَائِرِ مِنْ أُمَّتِي…
 
 “My intercession if for the people from my nation who perform the major
 sins…”[^17]
@@ -643,11 +567,7 @@ The narrator of the tradition, Ibne Abi ‘Umair says, “I asked Imam
 al-Kazim (as) how it is possible that the people who perform the major
 sins will gain intercessionm where as Allah (SwT) has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَنْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى
-  </p>
-</blockquote>
+> وَلاَ تَنْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى
 
 “…and they do not intercede except for him (the sinner) whom He
 approves…”[^18]
@@ -678,12 +598,8 @@ attention to this point)
 Muhammad as-Sadiq (as) wrote a letter to his companions in regards to
 gathering of their wealth and stated:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ سَرَّهُ أَنْ يَنْفَعَهُ شَفَاعَةُ الشَّافِعِينَ عِنْدَ اللٌّهِ،
-فَلْيَطْلُبَ إِلـى اللٌّهِ أَنْ يَرْضى عَنْهُ.
-  </p>
-</blockquote>
+> مَنْ سَرَّهُ أَنْ يَنْفَعَهُ شَفَاعَةُ الشَّافِعِينَ عِنْدَ اللٌّهِ،
+> فَلْيَطْلُبَ إِلـى اللٌّهِ أَنْ يَرْضى عَنْهُ.
 
 “One who wants to benefit from the intercession of those who are
 permitted to intercede in the presence of Allah must petition Allah that
@@ -699,14 +615,10 @@ performing sins.
 3. In a powerful tradition from Imam Ja’far b. Muhammad as-Sadiq (as) it
 is stated:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا كَانَ يَوْمُ الْقِيَامَةِ، بَعَثَ اللٌّهُ الْعَالِمَ وَ
-الْعَابِدَ، فَإِذَا وَقَفَا بَيْنَ يَدَيِ اللٌّهِ عَزَّ وَ جَلَّ قِيلَ
-لِلْعَابِدِ: إِنْطِلَقْ إِلـى الْجَنَّةِ وَ قِيلَ لِلْعَالِمِ: قِفْ،
-تَشْفَعُ لِلنَّاسِ بِحُسْنِ تَأْدِيـبِكَ لَهُمْ.
-  </p>
-</blockquote>
+> إِذَا كَانَ يَوْمُ الْقِيَامَةِ، بَعَثَ اللٌّهُ الْعَالِمَ وَ
+> الْعَابِدَ، فَإِذَا وَقَفَا بَيْنَ يَدَيِ اللٌّهِ عَزَّ وَ جَلَّ قِيلَ
+> لِلْعَابِدِ: إِنْطِلَقْ إِلـى الْجَنَّةِ وَ قِيلَ لِلْعَالِمِ: قِفْ،
+> تَشْفَعُ لِلنَّاسِ بِحُسْنِ تَأْدِيـبِكَ لَهُمْ.
 
 “When the Day of Judgement comes about, Allah will raise up a Scholar
 (‘Alim) and a Worshipper (‘Abid). Both of these people will stand in the
@@ -835,5 +747,4 @@ cause them to not fall victim to mental dysfunctions…!
 [^20]: Bihar al-Anwar, vol. 8, pg. 53
 
 [^21]: Ibid., vol. 2, pg. 16
-
 

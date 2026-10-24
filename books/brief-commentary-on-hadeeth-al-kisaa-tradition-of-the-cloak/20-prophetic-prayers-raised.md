@@ -1,12 +1,8 @@
 Prophetic Prayers Raised
 ========================
 
-<blockquote dir="rtl">
-  <p>
-إنًّهُم مِنّي وَ أَنا مِنهُم فَاجعَل صَلَواتِكَ وَ بَرَكاتِكَ وَ
-رَحمَتكَ و غُفرانَكَ وَ رِضوانَكَ عَلَيَّ وَ عَلَيهِم
-  </p>
-</blockquote>
+> إنًّهُم مِنّي وَ أَنا مِنهُم فَاجعَل صَلَواتِكَ وَ بَرَكاتِكَ وَ
+> رَحمَتكَ و غُفرانَكَ وَ رِضوانَكَ عَلَيَّ وَ عَلَيهِم
 
 **They are part of me and I am part of them. Therefore (please) shower
 on me and them Your blessings, benedictions, mercy, forgiveness, and
@@ -194,12 +190,8 @@ for. When Prophet (SA) asked for blessings and benedictions, sure enough
 Allah (SWT) responded back with His acceptance as mentioned in the
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-.إنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
-الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> .إنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
 
 ***“Surely Allah and His angels bless the Prophet; O you who believe!
 Call for (Divine) blessings on him and salute him with a (becoming)
@@ -218,13 +210,9 @@ humble and infallible Prophet (SWT) if he does not have any sin? The
 answer to that is the acceptance of forgiveness on behalf of their
 devout followers and lovers.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا
-تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ
-وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا.
-  </p>
-</blockquote>
+> إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا. لِيَغْفِرَ لَكَ اللَّهُ مَا
+> تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ
+> وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا.
 
 ***“Verily We have granted thee a manifest Victory. That Allah may
 forgive your community their past faults and those to follow and
@@ -234,13 +222,8 @@ And when the Prophet (SA) requested for pleasure (**رضوان**), Allah
 (SWT) verified the reciprocal status of pleasure for him and his
 purified household:
 
-<blockquote dir="rtl">
-  <p>
-رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ.
-  </p>
-</blockquote>
+> رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ.
 
 ***“Allah is well pleased with them and they are well pleased with
 Allah; this is the great triumph.”*** ***(5:119)***
-
 

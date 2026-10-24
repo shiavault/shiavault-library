@@ -22,11 +22,7 @@ an aim and struggles towards it, particularly the revolutionary who
 pursues the putting into practice of his sacred goals and who is
 referred to by the words of Allah:
 
-<blockquote dir="rtl">
-  <p>
-يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ
-  </p>
-</blockquote>
+> يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ
 
 ***Who struggle in the way of Allah, not fearing the reproach of any
 reproacher. (5:54)***
@@ -62,12 +58,8 @@ them. Because of this, \`Ali's soldiers became disgruntled, and, as soon
 as they had gone in to see the Prophet, they complained about \`Ali's
 harshness over the garments. The Prophet addressed them, and said:
 
-<blockquote dir="rtl">
-  <p>
-يأَاَيُّهَا الناَسُ لاَ َتشْكُوا عَلِيّاً فَوَ اللَّهِ اِنَّهُ
-لَأَخْشَنُ فِي ذَاتِ اللَّهِ مِنْ أنْ يُشْكَى
-  </p>
-</blockquote>
+> يأَاَيُّهَا الناَسُ لاَ َتشْكُوا عَلِيّاً فَوَ اللَّهِ اِنَّهُ
+> لَأَخْشَنُ فِي ذَاتِ اللَّهِ مِنْ أنْ يُشْكَى
 
 Oh men, do not grumble about 'Ali. I swear by Allah that he is more
 intensely in the way of God than that anyone should complain about
@@ -98,12 +90,8 @@ the religion).[^2]
 
 \`Ali said:
 
-<blockquote dir="rtl">
-  <p>
-، وَمَرَقَتْ أُخْرَى ، وَفَسَقَ [وقسط ]آخَرُونَ. فَلَمَّا نَهَضْتُ
-بِالأمْرِ نَكَثَتْ طَائِفَةٌ
-  </p>
-</blockquote>
+> ، وَمَرَقَتْ أُخْرَى ، وَفَسَقَ [وقسط ]آخَرُونَ. فَلَمَّا نَهَضْتُ
+> بِالأمْرِ نَكَثَتْ طَائِفَةٌ
 
 When I took up the reins of government one party broke their allegiance
 *(nakathah),* another missed the truth of the religion *(maraqah),* and
@@ -158,5 +146,4 @@ is quite explicit about the future and the unknown (ghayb), and there is
 no kind of hidden interpretation or ellipsis in it.
 
 [^3]: Nahju 'l-balaghah - Sermon 3 "ash-Shiqshiqiyah".
-
 

@@ -154,4 +154,3 @@ case, however, someone desires to become fully conversant with the
 period of Mu'awiya's rule he should refer to An-Nasayah al-Kafiya Li Mun
 Yatawalla Mu'awiya and then judge fairly.
 
-

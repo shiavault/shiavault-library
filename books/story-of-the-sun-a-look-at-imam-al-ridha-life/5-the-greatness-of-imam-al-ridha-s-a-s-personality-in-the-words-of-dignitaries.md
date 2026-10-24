@@ -64,4 +64,3 @@ well.”[^6]
 
 [^6]: A‘lam al-Hidaya, p. 22.
 
-

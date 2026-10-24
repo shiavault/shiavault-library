@@ -168,4 +168,3 @@ readers to judge the validity of such an interpretation.
 p.52. Reported from Ketab Al-Saqifeh, by Abu Bakr Ahmad Ibn Abdol Aziz
 jouhari.
 
-

@@ -304,4 +304,3 @@ what is in the heavens and the earth. And (as for) those who believe in
 the falsehood and disbe­lieve in Allah, these it is that are the
 losers.
 
-

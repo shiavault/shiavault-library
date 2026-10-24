@@ -118,11 +118,7 @@ wealth) to be the source of man's rebellion, against God i.e., the
 riches are contrary to the values of modesty, humility, and
 submission-the virtues to which the prophets called the people:
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ ﴿٦﴾ أَن رَّآهُ اسْتَغْنَىٰ ﴿٧﴾
-  </p>
-</blockquote>
+> كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ ﴿٦﴾ أَن رَّآهُ اسْتَغْنَىٰ ﴿٧﴾
 
 ***Verily man is rebellious when he thinketh himself wealthy {and
 contented]. (96:6,7)***
@@ -134,11 +130,7 @@ oppressed people whom Pharaoh was exploiting. However this man belonging
 to an oppressed people, after becoming wealthy, started exploiting his
 own fellow sufferers and rebelled against Moses. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ قَارُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ
-  </p>
-</blockquote>
+> إِنَّ قَارُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ
 
 ***Now Korah was of Moses' folk, but he rebelled against them ....
 (28:76)***
@@ -151,12 +143,8 @@ immersed in the good things of life, being the pampered of history In
 *Surah Saba’,* verse 34, this view is developed in the form of a general
 principle and a universal law:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا
-إِنَّا بِمَا أُرْسِلْتُم بِهِ كَافِرُونَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا
+> إِنَّا بِمَا أُرْسِلْتُم بِهِ كَافِرُونَ
 
 ***And We have sent not unto any township a warner, but its pampered
 ones (the mutrafun] declared, 'Lo: We are disbelievers in that which you
@@ -183,11 +171,7 @@ prophets, the apostles of God, arise from among the masses and not from
 the affluent, the wealthy, and the pampered class Regarding the Prophet
 of Islam (S), the Qur’an says: .
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ 
-  </p>
-</blockquote>
+> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ
 
 ***He it is Who has sent among the illiterate (ummiyyu) a messenger of
 their own .... (62.2)***
@@ -196,12 +180,8 @@ The *ummah* (the religious community) is none other than the
 underprivileged masses. Similarly, the Qur’an declares about the martyrs
 in the way of God:
 
-<blockquote dir="rtl">
-  <p>
-وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا
-بُرْهَانَكُمْ 
-  </p>
-</blockquote>
+> وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا
+> بُرْهَانَكُمْ
 
 ***And We shall raise from every nation {the same deprived masses] a
 shahid (martyr) and We shall say, 'Bring your proof forward ... .: (i.e
@@ -225,11 +205,7 @@ doctrines of faith, dogmas, moral and behavioural reforms, always
 occupied a secondary place in prophetic missions, as they were attacked
 only after the base was transformed. The Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من لا معاش له لا معاد له
-  </p>
-</blockquote>
+> من لا معاش له لا معاد له
 
 *One who does not have a means of- subsistence does not have Hereafter
 either (which is a product of spiritual life).*
@@ -240,11 +216,7 @@ existence. If stretched to its logical conclusion, it means that
 spiritual life is synonymous with superstructure and is based upon
 material conditions of human life. The Prophet (S) also said:
 
-<blockquote dir="rtl">
-  <p>
-اللهم بارك لنا في الخبز، لولا الخبز ما تصدقنا و لا صلينا
-  </p>
-</blockquote>
+> اللهم بارك لنا في الخبز، لولا الخبز ما تصدقنا و لا صلينا
 
 *My God, bless our bread with abundance; for had it not been for bread
 we would not have been charitable, nor would we have offered prayers.*
@@ -318,20 +290,16 @@ verses from 16 to 49: *Surat al-Qasas*, verses from 36 to 39. Here, for
 the sake of example, we quote verses from 20 to 24 from *Surat al
 ­Zuhhruf* with some brief explanatory remarks about their meanings:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالُوا لَوْ شَاءَ الرَّحْمَـٰنُ مَا عَبَدْنَاهُم مَّا لَهُم
-بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَخْرُصُونَ ﴿٢٠﴾أَمْ
-آتَيْنَاهُمْ كِتَابًا مِّن قَبْلِهِ فَهُم بِهِ
-مُسْتَمْسِكُونَ ﴿٢١﴾ بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ
-أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِم مُّهْتَدُونَ ﴿٢٢﴾ وَكَذَٰلِكَ مَا
-أَرْسَلْنَا مِن قَبْلِكَ فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ
-مُتْرَفُوهَا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ
-آثَارِهِم مُّقْتَدُونَ ﴿٢٣﴾ قَالَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا
-وَجَدتُّمْ عَلَيْهِ آبَاءَكُمْ قَالُوا إِنَّا بِمَا أُرْسِلْتُم بِهِ
-كَافِرُونَ ﴿٢٤﴾
-  </p>
-</blockquote>
+> وَقَالُوا لَوْ شَاءَ الرَّحْمَـٰنُ مَا عَبَدْنَاهُم مَّا لَهُم
+> بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَخْرُصُونَ ﴿٢٠﴾أَمْ
+> آتَيْنَاهُمْ كِتَابًا مِّن قَبْلِهِ فَهُم بِهِ
+> مُسْتَمْسِكُونَ ﴿٢١﴾ بَلْ قَالُوا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ
+> أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِم مُّهْتَدُونَ ﴿٢٢﴾ وَكَذَٰلِكَ مَا
+> أَرْسَلْنَا مِن قَبْلِكَ فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ
+> مُتْرَفُوهَا إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ
+> آثَارِهِم مُّقْتَدُونَ ﴿٢٣﴾ قَالَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا
+> وَجَدتُّمْ عَلَيْهِ آبَاءَكُمْ قَالُوا إِنَّا بِمَا أُرْسِلْتُم بِهِ
+> كَافِرُونَ ﴿٢٤﴾
 
 ***And they say: 'If the Beneficent had so willed, we should not have
 worshipped them (the angels). (Now that we worship them, it means that
@@ -386,12 +354,8 @@ which IS revolutionary in character ultimately emerges victorious in its
 struggle against the class which is reactionary and conservative due to
 its class situation, and is destined to inherit and rule the earth:
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ
 
 ***And We desired to show favour unto those who were oppressed in the
 earth, and to make them leaders and to make them the inheritors.
@@ -399,15 +363,11 @@ earth, and to make them leaders and to make them the inheritors.
 
 Similarly the verse 137 in Sural al- 'A 'raj declares:
 
-<blockquote dir="rtl">
-  <p>
-وَأَوْرَثْنَا الْقَوْمَ الَّذِينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ
-الْأَرْضِ وَمَغَارِبَهَا الَّتِي بَارَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ
-رَبِّكَ الْحُسْنَىٰ عَلَىٰ بَنِي إِسْرَائِيلَ بِمَا
-صَبَرُوا وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا
-كَانُوا يَعْرِشُونَ 
-  </p>
-</blockquote>
+> وَأَوْرَثْنَا الْقَوْمَ الَّذِينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ
+> الْأَرْضِ وَمَغَارِبَهَا الَّتِي بَارَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ
+> رَبِّكَ الْحُسْنَىٰ عَلَىٰ بَنِي إِسْرَائِيلَ بِمَا
+> صَبَرُوا وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا
+> كَانُوا يَعْرِشُونَ
 
 ***And We caused the people who were oppressed to inherit the eastern
 parts of the land and its western parts, thereof which We had blessed.
@@ -557,12 +517,8 @@ of man, when faced with the truth, can rise on occasion against
 falsehood and error, setting aside all personal interests and ignoring
 with contempt Pharaoh’s threats:
 
-<blockquote dir="rtl">
-  <p>
-لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَافٍ ثُمَّ
-لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
-  </p>
-</blockquote>
+> لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَافٍ ثُمَّ
+> لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
 
 ***"I shall assuredly cui off alternately your hands and feet then I
 shall crucify you all together." (7: 124)***
@@ -581,12 +537,8 @@ The Holy Prophet (S) was orphaned in childhood and led a life of poverty
 until his youth. It was after his marriage with Khadijah that he became
 prosperous and rich. The Qur’an refers to this point when it says:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ ﴿٦﴾ وَوَجَدَكَ ضَالًّا
-فَهَدَىٰ ﴿٧﴾وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ ﴿٨﴾
-  </p>
-</blockquote>
+> أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ ﴿٦﴾ وَوَجَدَكَ ضَالًّا
+> فَهَدَىٰ ﴿٧﴾وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ ﴿٨﴾
 
 ***Did He not find thee an orphan; and shelter thee? Did He not find
 thee needy, and suffice thee? (93:6,8)***
@@ -669,13 +621,9 @@ endeavours to arouse the remnants of humanity left in him against his
 social personality, i.e. the Pharaoh forged and fabricated by perverse
 social conditions:
 
-<blockquote dir="rtl">
-  <p>
- اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ ﴿١٧﴾ فَقُلْ هَل لَّكَ إِلَىٰ
-أَن تَزَكَّىٰ ﴿١٨﴾ وَأَهْدِيَكَ إِلَىٰ رَبِّكَ
-فَتَخْشَىٰ ﴿١٩﴾ فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ ﴿٢٠﴾
-  </p>
-</blockquote>
+>  اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ ﴿١٧﴾ فَقُلْ هَل لَّكَ إِلَىٰ
+> أَن تَزَكَّىٰ ﴿١٨﴾ وَأَهْدِيَكَ إِلَىٰ رَبِّكَ
+> فَتَخْشَىٰ ﴿١٩﴾ فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ ﴿٢٠﴾
 
 ***Go to Pharaoh, he has waxed insolent. And say, ‘Hast thou the will to
 purify thyself, and that I should guide thee to thy Lord, then thou
@@ -704,12 +652,8 @@ mankind. No dictionary of Arabic language gives the meaning of the word
 *nas* as the underprivileged or oppressed masses, and this word does not
 refer to any particular class of men. The Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
-سَبِيلاً ..
-  </p>
-</blockquote>
+> وَلِلّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ
+> سَبِيلاً ..
 
 ***…It is the duty of all men towards God to come to the House as
 pilgrims; whoever can afford to make his way there…(3:97)***
@@ -748,11 +692,7 @@ Firstly, this verse follows another verse and both of them are related
 to the Day of Judgmenet, the day when God would address idolaters. The
 preceding verse is as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ
-  </p>
-</blockquote>
+> وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ
 
 ***Upon the day when He shall call unto them. and he shall say, 'Where
 are now those whom you claimed to be My associates?' (28: 74)***
@@ -792,13 +732,9 @@ as sufficient for the reformation of man’s internal relations (with God
 and himself)- as advocated by some materialist schools of philosophy.
 The Holy Qur’an, in the same breath and in a single sentence says:
 
-<blockquote dir="rtl">
-  <p>
-... تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا وَبَيْنَكُمْ أَلاَّ
-نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئاً وَلاَ يَتَّخِذَ
-بَعْضُنَا بَعْضاً أَرْبَاباً مِّن دُونِ اللّهِ ...
-  </p>
-</blockquote>
+> ... تَعَالَوْاْ إِلَى كَلَمَةٍ سَوَاء بَيْنَنَا وَبَيْنَكُمْ أَلاَّ
+> نَعْبُدَ إِلاَّ اللّهَ وَلاَ نُشْرِكَ بِهِ شَيْئاً وَلاَ يَتَّخِذَ
+> بَعْضُنَا بَعْضاً أَرْبَاباً مِّن دُونِ اللّهِ ...
 
 ***…Come now to a word common between us and you, that we shall worship
 none but God, and that we shall ascribe no partner unto Him, and that
@@ -896,15 +832,11 @@ victory of righteousness over corruption, and victory of good and godly
 conduct over perverse behaviour. The verse 55 of *Surat al-Nur*, reads
 thus:
 
-<blockquote dir="rtl">
-  <p>
-وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
-لَيَسْتَخْلِفَنَّهُم فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِن
-قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ
-وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْناً يَعْبُدُونَنِي لَا
-يُشْرِكُونَ بِي شَيْئاً
-  </p>
-</blockquote>
+> وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ
+> لَيَسْتَخْلِفَنَّهُم فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِن
+> قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ
+> وَلَيُبَدِّلَنَّهُم مِّن بَعْدِ خَوْفِهِمْ أَمْناً يَعْبُدُونَنِي لَا
+> يُشْرِكُونَ بِي شَيْئاً
 
 ***God has promised those of you who believe and do good works that He
 will surely make them to succeed in the earth, even as He caused those
@@ -934,13 +866,9 @@ in worship (‘*ibadah)* or in obedience (*‘ita’ah*).
 
 In *Surat al-‘A’raf* the verse 128 states:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مُوسَى لِقَوْمِهِ اسْتَعِينُوا بِاللّهِ وَاصْبِرُواْ إِنَّ
-الأَرْضَ لِلّهِ يُورِثُهَا مَن يَشَاءُ مِنْ عِبَادِهِ وَالْعَاقِبَةُ
-لِلْمُتَّقِينَ
-  </p>
-</blockquote>
+> قَالَ مُوسَى لِقَوْمِهِ اسْتَعِينُوا بِاللّهِ وَاصْبِرُواْ إِنَّ
+> الأَرْضَ لِلّهِ يُورِثُهَا مَن يَشَاءُ مِنْ عِبَادِهِ وَالْعَاقِبَةُ
+> لِلْمُتَّقِينَ
 
 ***And Moses said to his people, 'Seek help in Allah, and be patient;
 surely the earth is God's and He gives it for an inheritance to whom He
@@ -949,12 +877,8 @@ the God-fearing would be the inheritors of the earth] (7:128)***
 
 In *Surat al-‘Anbiya,* the verse 105 declares:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ
-يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ
+> يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
 
 ***We have written in al-Zabur, after the Remembrance, 'Indeed the earth
 shall be the inheritance of My righteous servants.' (21:105)***
@@ -1001,11 +925,7 @@ Cambodia. If we try to interpret this verse from the religious point of
 view, we shall have to say that this verse expounds the principle of the
 Divine support for the oppressed. The Qur’an declares:
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَحْسَبَنَّ اللّهَ غَافِلاً عَمَّا يَعْمَلُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> وَلاَ تَحْسَبَنَّ اللّهَ غَافِلاً عَمَّا يَعْمَلُ الظَّالِمُونَ
 
 ***And deem not that God is unaware of what the wicked do ....
 (14:42)***
@@ -1157,13 +1077,9 @@ faith in them, making them righteous believers, and as a result the
 leaders and inheritors of the land [their own land]. Hence the verse
 intends to make this statement:
 
-<blockquote dir="rtl">
-  <p>
-وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
-(بموسى والكتاب الذي ننزله على موسى) وَنَجْعَلَهُمْ أَئِمَّةً
-وَنَجْعَلَهُمُ الْوَارِثِينَ
-  </p>
-</blockquote>
+> وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ
+> (بموسى والكتاب الذي ننزله على موسى) وَنَجْعَلَهُمْ أَئِمَّةً
+> وَنَجْعَلَهُمُ الْوَارِثِينَ
 
 *We desired to show favour unto those who were oppressed (by sending
 Moses and the revealed Scripture) and to make them leaders and
@@ -1356,33 +1272,17 @@ principle generally believed in by Muslim mystics and philosophers,
 according to which the end of everything is a kind of return to its
 origin.
 
-<blockquote dir="rtl">
-  <p>
-النهايات هي الرجوع الى البدايات
-  </p>
-</blockquote>
+> النهايات هي الرجوع الى البدايات
 
 *The ends return to the origins.*
 
 And Rumi has said:
 
-<blockquote dir="rtl">
-  <p>
-جزئها را رويها سوى كل است بلبلانرا عشق با روي كل است
-  </p>
-</blockquote>
+> جزئها را رويها سوى كل است بلبلانرا عشق با روي كل است
 
-<blockquote dir="rtl">
-  <p>
-آنجه از دريا به دريا مي رود از همانجا كامد آنجا مي رود
-  </p>
-</blockquote>
+> آنجه از دريا به دريا مي رود از همانجا كامد آنجا مي رود
 
-<blockquote dir="rtl">
-  <p>
-از سرِ كُه سيلهاي تيزرو وزتنِ ما جانِ عشق آميزرو
-  </p>
-</blockquote>
+> از سرِ كُه سيلهاي تيزرو وزتنِ ما جانِ عشق آميزرو
 
 *The parts are forced towards the whole,*  
 *Nightingales are in love with the rose’s face;*  
@@ -1587,12 +1487,8 @@ wickedness do not have a fundamental reality and do not exist
 independently; they are accidental, relative, and transitory. Truth and
 good form the axis of the system of being and the human society:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاء وَأَمَّا مَا يَنفَعُ النَّاسَ
-فَيَمْكُثُ فِي الأَرْضِ
-  </p>
-</blockquote>
+> فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاء وَأَمَّا مَا يَنفَعُ النَّاسَ
+> فَيَمْكُثُ فِي الأَرْضِ
 
 ***…As for the foam, it passes away as scum [upon the banks], while that
 which is of use to mankind remains in the earth…(13:17)***
@@ -1600,12 +1496,8 @@ which is of use to mankind remains in the earth…(13:17)***
 It is also said that in the struggle between truth and falsehood, truth
 emerges victorious:
 
-<blockquote dir="rtl">
-  <p>
-بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ
-زَاهِقٌ ..
-  </p>
-</blockquote>
+> بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ
+> زَاهِقٌ ..
 
 ***Nay, but We hurl the true against the false, and it invalidates it,
 and behold! Falsehood vanishes away…(21:18)***
@@ -1613,12 +1505,8 @@ and behold! Falsehood vanishes away…(21:18)***
 It is further asserted that Divine providence has been with the truthful
 prophets all along:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ
-الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ
-  </p>
-</blockquote>
+> إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ
+> الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ
 
 ***Surely We shall help Our Messengers and those who believe, in the
 life of the world, and upon the day when the witnesses arise. (40:50)***
@@ -1718,5 +1606,4 @@ al-ma’arif.”
 [^14]: Translator’s note: Martyr Mutahhari in his scholarly work “Adl-e
 Ilahi” (Divine Justice) has offered a convincing solution of this
 problem.
-
 

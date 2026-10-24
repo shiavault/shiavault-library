@@ -128,7 +128,6 @@ Tabarukihim behi, p.79
 
 For more information, refer to the following:
 
-
 **Question 21 : According to the Islamic point of view, is religion
 supposed to be regarded separate from politics?**
 
@@ -343,5 +342,4 @@ same as the above.
 Al-Ahkam Al-Sunnatiyyah, 1st chapter, p.5, 1st print in Egypt.
 
 Ilal Al-Sharayit, Bab 182, narration 9, p.253.
-
 

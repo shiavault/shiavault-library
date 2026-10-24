@@ -350,4 +350,3 @@ of the Grace of the Fast and the One who Keeps the Fast,” hadith 6
 [^11]: Sahar is the period from the first light of the morning until
 sunrise. [Tr.]
 
-

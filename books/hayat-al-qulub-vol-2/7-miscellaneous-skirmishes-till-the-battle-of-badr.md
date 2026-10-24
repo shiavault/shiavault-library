@@ -6,11 +6,7 @@ Sadiq (a.s.) and Imam Ali Naqi (a.s.) that a person who vows to bestow
 much in charity must give eighty dirhams; for in the Qur’an it is
 declared:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ
-  </p>
-</blockquote>
+> لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ
 
 ***“Certainly Allah helped you in many battlefields...”***[^1]
 
@@ -139,11 +135,7 @@ except small presents.”
 Other respectable traditions declare that people asked the Prophet about
 the interpretation of the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَأَعِدُّواْ لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ
-  </p>
-</blockquote>
+> وَأَعِدُّواْ لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ
 
 ***And prepare against them what force you can…”***[^4]
 
@@ -272,14 +264,10 @@ ashamed. The Quraish infidels then wrote a letter to the Prophet,
 reproaching him for shedding blood and taking spoils in a sacred month;
 upon which the Almighty Allah sent him this verse:
 
-<blockquote dir="rtl">
-  <p>
-يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ
-فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ
-وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ
-اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ
-  </p>
-</blockquote>
+> يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ
+> فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ
+> وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ
+> اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ
 
 ***“They ask you concerning the sacred month about fighting in it. Say:
 Fighting in it is a grave matter, and hindering (men) from Allah’s way
@@ -335,12 +323,8 @@ divine revelation. Next morning he prayed the Morning Prayer and waited
 for revelation till it was time for Zuhr and he had completed two rakats
 when Jibraeel arrived with the verse:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ
-قِبْلَةً تَرْضَاهَا
-  </p>
-</blockquote>
+> قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ
+> قِبْلَةً تَرْضَاهَا
 
 ***“Indeed We see the turning of your face to heaven, so We shall surely
 turn you to a Qiblah which you shall like…”***[^6]
@@ -358,11 +342,7 @@ Masjidul Qiblatayn, or Masjid of two Qiblas. People asked: “Were the
 prayers we prayed facing Baitul Maqdas invalid?” The Almighty Allah
 revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ اللهُ لِيُضِيعَ إِيمَانَكُمْ
-  </p>
-</blockquote>
+> وَمَا كَانَ اللهُ لِيُضِيعَ إِيمَانَكُمْ
 
 ***“…and Allah was not going to make your faith to be fruitless…”***[^7]
 
@@ -393,5 +373,4 @@ be differentiated.
 [^6]: Surah Baqarah 2:144
 
 [^7]: Surah Baqarah 2:143
-
 

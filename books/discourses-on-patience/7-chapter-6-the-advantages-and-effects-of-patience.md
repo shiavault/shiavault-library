@@ -455,4 +455,3 @@ a dangerous operation, do not have the strength to confront the danger
 and therefore as soon as they face the signs of potential danger, became
 disappointed, ashamed and helpless.
 
-

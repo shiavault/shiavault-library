@@ -7,21 +7,13 @@ Worship And The Worshipper
 than his Lord and fears nothing but his wrongdoing.
 
 > 1ـ اَلعِبادَةُ الخالِصَةُ أنْ لايَرْجُوَ الرَّجُلُ إلاّ رَبَّهُ، ولا
-<blockquote dir="rtl">
-  <p>
-يَخافُ إلاّ ذَنْبَهُ.
-  </p>
-</blockquote>
+> يَخافُ إلاّ ذَنْبَهُ.
 
 2. Reserve for yourself the best times and portions for that which is
 between you and Allah, the Glorified.
 
 > 2ـ اِجْعَلْ لِنَفْسِكَ فيما بَيْنَكَ وبَيْنَ اللّهِ سُبْحانَهُ أفْضَلَ
-<blockquote dir="rtl">
-  <p>
-المَواقيتِ وَالأقْسامِ.
-  </p>
-</blockquote>
+> المَواقيتِ وَالأقْسامِ.
 
 3. The best worship is contemplation.
 
@@ -70,11 +62,7 @@ that makes one weary.
 is too heavy for you to bear.
 
 > 13ـ قَليلٌ يَخِفُّ عَلَيْكَ عَمَلُهُ خَيْـرٌ مِنْ كَثير تَسْتَثْقِلُ
-<blockquote dir="rtl">
-  <p>
-حَمْلَهُ.
-  </p>
-</blockquote>
+> حَمْلَهُ.
 
 14. Little that continues is better than a lot that is discontinuous.
 
@@ -99,11 +87,7 @@ anything other than the worship of Allah.
 mill, it moves round and round but does not depart from its place.
 
 > 18ـ اَلمُتَعَبِّدُ بِغَيْرِ عِلْم كَحِمارِ الطّاحُونَةِ، يَدُورُ
-<blockquote dir="rtl">
-  <p>
-وَلايَبْرَحُ مِنْ مَكانِهِ.
-  </p>
-</blockquote>
+> وَلايَبْرَحُ مِنْ مَكانِهِ.
 
 19. Verily a group worshipped Allah, the Glorified, out of desire [for
 reward] - that is the worship of the traders, and a group worshipped Him
@@ -112,11 +96,6 @@ group worshipped Him out of gratitude - and that is the worship of the
 freemen.
 
 > 19ـ إنَّ قَوْماً عَبَدُوا اللّهَ سُبْحانَهُ رَغْبَةً فَتِلْكَ عِبادَةُ
-<blockquote dir="rtl">
-  <p>
-التُّجارِ، وقَوْماً عَبَدُوهُ رَهْبَةً فتِلْكَ عِبادَةُ العَبيدِ،
-وقَوْماً عَبَدُوهُ شُكْراً فَتِلْكَ عِبادَةُ الأحْرارِ.
-  </p>
-</blockquote>
-
+> التُّجارِ، وقَوْماً عَبَدُوهُ رَهْبَةً فتِلْكَ عِبادَةُ العَبيدِ،
+> وقَوْماً عَبَدُوهُ شُكْراً فَتِلْكَ عِبادَةُ الأحْرارِ.
 

@@ -50,11 +50,7 @@ to become victorious over the self. In the Holy Qur’an the God Almighty
 after repeated oaths has emphasized the importance of spiritual
 purification as follows:
 
-<blockquote dir="rtl">
-  <p>
-قَدْ أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا
-  </p>
-</blockquote>
+> قَدْ أَفْلَحَ مَنْ زَكَّاهَا وَقَدْ خَابَ مَنْ دَسَّاهَا
 
  ***“He is indeed successful who causeth it to grow, (the self) And he
 is indeed a failure who stunteth it.”*** ***(91: 9-10)***
@@ -250,5 +246,4 @@ in the administration of state and government and politics is against
 that lofty and spiritual goal because the latter activities are solely
 for this material world, which is against the teachings of the great
 prophets.” Imam's Final Discourse, pp. 22-23.
-
 

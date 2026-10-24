@@ -115,4 +115,3 @@ danger for man.[^2]
 
 [^2]: Quoted from Tafsir Ruhul Bayan
 
-

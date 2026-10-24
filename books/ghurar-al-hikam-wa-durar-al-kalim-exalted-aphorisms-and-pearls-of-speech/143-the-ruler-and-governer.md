@@ -34,22 +34,14 @@ deposed.
 which he chooses for himself.
 
 > 7ـ مِنْ حَقِّ الرّاعِي أنْ يَخْتارَ لِرَعِيَتِّهِ ما يَخْتارُهُ
-<blockquote dir="rtl">
-  <p>
-لِنَفْسِهِ.
-  </p>
-</blockquote>
+> لِنَفْسِهِ.
 
 8. It is part of nobility that you [should] be attentive in fulfilling
 the rights of your subjects upon you and that you disregard any [of
 their] offences towards you.
 
 > 8ـ مِنَ النُّبْلِ أنْ تَتَـيَقَّظَ لإيجابِ حَقِّ الرَّعِيَةِ إلَيْكَ،
-<blockquote dir="rtl">
-  <p>
-وتَتَغابى عَنِ الجِنايَةِ عَلَيْكَ.
-  </p>
-</blockquote>
+> وتَتَغابى عَنِ الجِنايَةِ عَلَيْكَ.
 
 9. An unjust and oppressive ruler is better than perpetual strife.
 
@@ -58,5 +50,4 @@ their] offences towards you.
 10. There is no oppression more severe than the oppression of a ruler.
 
 > 10ـ لاجَوْرَ أفْظَعُ مِنْ جَوْرِ حاكِم.
-
 

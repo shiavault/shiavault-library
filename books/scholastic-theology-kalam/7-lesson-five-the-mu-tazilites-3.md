@@ -285,4 +285,3 @@ Abu Hashim al-Jibba’i, Judge Abdul Jabbar al-Mu’tazili (d. 415 H.), Abul
 Hassan al-Khayyat, who lived at the lifetime of as-Sahib bin Abbad,
 az-Zamakhshari (d. 583 H.) and Abu Ja’far al-Iskafi.
 
-

@@ -267,4 +267,3 @@ to explain now.
 
 [^12]: Sūrah al-Qasas 28:29-30.
 
-

@@ -737,4 +737,3 @@ Sabu-ye ‘Ishq (The Jug of Love). (Eds.)
 [^20]: Fati is the nickname of his daughter-in-law, Fatimah Tabataba’i.
 (Eds.)
 
-

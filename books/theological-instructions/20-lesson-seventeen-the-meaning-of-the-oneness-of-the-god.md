@@ -231,4 +231,3 @@ contradictory to monotheism? Why?
 
 7- What is the wisdom behind God’s decree for seeking intercession?
 
-

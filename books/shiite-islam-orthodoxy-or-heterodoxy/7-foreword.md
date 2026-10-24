@@ -78,4 +78,3 @@ Jumādā II 1427 / July 2006
  Jaffari Islāmic Center  
  Toronto, Canada
 
-

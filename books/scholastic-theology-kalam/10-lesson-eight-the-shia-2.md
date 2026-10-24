@@ -314,4 +314,3 @@ the wrongdoer dies without repenting for his misdeeds, he is denied
 forgiveness and intercession. The Mu’tazilites are also at odds with the
 Ash’arites as regards random forgiveness.
 
-

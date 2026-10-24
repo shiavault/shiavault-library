@@ -39,4 +39,3 @@ knowledge or relativity of credibility of knowledge confined only to the
 domain of religious matters? Or, is credibility of subjects discussed in
 every field of science relative?
 
-

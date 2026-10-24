@@ -122,4 +122,3 @@ deeds in this world. She knows that even death for criminals is a bless
 due to the fact that it prevents them from more crimes and keeps them
 away from the abyss of adversity.
 
-

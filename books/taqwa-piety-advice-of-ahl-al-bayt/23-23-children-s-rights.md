@@ -267,4 +267,3 @@ with their children.
 
 [^17]: Nahj al-Balaghah, p. 909.
 
-

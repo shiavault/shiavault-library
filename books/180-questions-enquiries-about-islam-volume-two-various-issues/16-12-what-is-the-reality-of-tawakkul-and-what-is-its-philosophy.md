@@ -72,12 +72,8 @@ The Qur’an even says that only those, who possess faith and tawakkul,
 shall be able to exhibit resistance vis-à-vis satanic whisperings and
 not be influenced by them.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلـى الَّذِينَ آمَنُوا وَ عَلـى‏
-رَبِّهِمْ يَتَوَكَّلُونَ‏
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلـى الَّذِينَ آمَنُوا وَ عَلـى‏
+> رَبِّهِمْ يَتَوَكَّلُونَ‏
 
 ***“Surely he has no authority over those who believe and rely on their
 Lord.”***[^3]
@@ -119,12 +115,8 @@ tawakkul for the purpose of illuminating its actual meaning.
 
 Imam as-Sadiq (a.s.) says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْغِـنـى وَ الْعِزَّ يَجُولاَنِ فَإِذَا ظَفِرَا بِمَوْضِعِ
-التَّوَكُّلِ أَوْطَنَا.
-  </p>
-</blockquote>
+> إِنَّ الْغِـنـى وَ الْعِزَّ يَجُولاَنِ فَإِذَا ظَفِرَا بِمَوْضِعِ
+> التَّوَكُّلِ أَوْطَنَا.
 
 “Verily, independence and honour are in (a state of) travel and when
 they come to the place of 'tawakkul' they take up residence there.”[^4]
@@ -143,11 +135,7 @@ expect from anyone other than Him, and this is the reality of
 
 Once someone questioned Imam 'Ali ibne Musa al-Ridha (a.s.)[^6]:
 
-<blockquote dir="rtl">
-  <p>
-مَا حَدُّ التَّوَكُّلِ؟ فَقَالَ أَنْ لاَ تَخَافَ مَعَ اللٌّهِ أَحَداً.
-  </p>
-</blockquote>
+> مَا حَدُّ التَّوَكُّلِ؟ فَقَالَ أَنْ لاَ تَخَافَ مَعَ اللٌّهِ أَحَداً.
 
 “What is the extent of 'tawakkul'? He (a.s.) replied: That you do not
 fear anyone once you have relied on Allah!” [^7] and [^8]
@@ -170,5 +158,4 @@ Publication)
 issues, refer the book Angizah-e-Paidaish-e-Madhhab.
 
 [^8]: Tafsir-e-Namuna, vol. 10, pg. 295
-
 

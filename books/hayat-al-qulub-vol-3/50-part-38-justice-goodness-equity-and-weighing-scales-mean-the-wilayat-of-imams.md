@@ -10,13 +10,9 @@ There are some verses in this:
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاءِ ذِي
-الْقُرْبَى وَيَنْهَى عَنْ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ
-يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ.
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاءِ ذِي
+> الْقُرْبَى وَيَنْهَى عَنْ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ
+> يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ.
 
 ***Surely Allah enjoins the doing of Justice and the doing of good (to
 others) and the giving to the kindred and He forbids indecency and evil
@@ -62,14 +58,10 @@ kindred’ is Fatima (s.a.).
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-وَضَرَبَ اللَّهُ مَثَلًا رَجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ
-عَلَى شَيْءٍ وَهُوَ كَلٌّ عَلَى مَوْلَاهُ أَيْنَمَا يُوَجِّهُّ لَا
-يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِي هُوَ وَمَنْ يَأْمُرُ بِالْعَدْلِ وَهُوَ
-عَلَى صِرَاطٍ مُسْتَقِيمٍ.
-  </p>
-</blockquote>
+> وَضَرَبَ اللَّهُ مَثَلًا رَجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ
+> عَلَى شَيْءٍ وَهُوَ كَلٌّ عَلَى مَوْلَاهُ أَيْنَمَا يُوَجِّهُّ لَا
+> يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِي هُوَ وَمَنْ يَأْمُرُ بِالْعَدْلِ وَهُوَ
+> عَلَى صِرَاطٍ مُسْتَقِيمٍ.
 
 ***And Allah sets forth of two men, one of them is dumb, not able to do
 anything, and he is a burden to his master, whenever he sends him, he
@@ -96,13 +88,9 @@ others.
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْعَهْدَ كَانَ مَسْئُولًا. وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ
-وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ذَلِكَ خَيْرٌ وَأَحْسَنُ
-تَأْوِيلًا.
-  </p>
-</blockquote>
+> إِنَّ الْعَهْدَ كَانَ مَسْئُولًا. وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ
+> وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ذَلِكَ خَيْرٌ وَأَحْسَنُ
+> تَأْوِيلًا.
 
 ***(Every) promise shall be questioned about. And give full measure out,
 and weigh with a true balance, this is fair and better in the end.
@@ -124,11 +112,7 @@ among the people.
 This tradition is supported by the one related by Kulaini in the
 explanation of the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ.
 
 ***And We will set up a just balance on the day of resurrection… (Surah
 Anbiya 21:47)***
@@ -138,11 +122,7 @@ vicegerents.
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-خُذْ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنْ الْجَاهِلِينَ.
-  </p>
-</blockquote>
+> خُذْ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنْ الْجَاهِلِينَ.
 
 ***Forgive people and enjoin towards good and remain away from the
 ignorant ones. (Surah Araf 7:199)***
@@ -152,11 +132,7 @@ Wilayat of the Infallible Imams (a.s.).
 
 Fifth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا.
-  </p>
-</blockquote>
+> وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا.
 
 ***And it adds only to the perdition of the unjust. (Surah Israa
 17:82)***
@@ -169,12 +145,8 @@ right of Aale Muhammad.
 
 Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّمَا حَرَّمَ رَبِّي الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
-بَطَنَ.
-  </p>
-</blockquote>
+> قُلْ إِنَّمَا حَرَّمَ رَبِّي الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا
+> بَطَنَ.
 
 ***Say: My Lord has only prohibited indecencies, those of them that are
 apparent as well as those that are concealed. (Surah Araf 7:33)***
@@ -191,13 +163,9 @@ means the right Imams (a.s.).
 
 Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
-وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ
-بِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ.
-  </p>
-</blockquote>
+> وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا
+> وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ
+> بِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ.
 
 ***And when they commit an indecency they say: we found our father doing
 this, and Allah has enjoined it on us. Say: Surely Allah does not enjoin
@@ -216,5 +184,4 @@ unjust rulers about which the opponents claim that Allah has ordered us
 to follow them, so Allah made it known that they are attributing
 falsehood to Allah. Allah has mentioned their obedience as indecency
 because it is a sin that degrades a person.
-
 

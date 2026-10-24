@@ -167,4 +167,3 @@ army of Usamah. Can a cursed one by the Prophet be eligible to become
 the Imam? Furthermore, how can we conclude the successorship and
 caliphate from the Imamate of Prayer?
 
-

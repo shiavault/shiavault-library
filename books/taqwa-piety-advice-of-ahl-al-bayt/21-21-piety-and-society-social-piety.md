@@ -26,4 +26,3 @@ prayer, fasting, charity, or the divine rights towards the prophets,
 imams, and other people. There is the treatise on rights attributed to
 Imam Sajjad (AS) in which all the rights have been elaborated.
 
-

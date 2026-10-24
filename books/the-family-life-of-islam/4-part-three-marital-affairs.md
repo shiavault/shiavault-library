@@ -651,4 +651,3 @@ should not leave her husband, and if she left him, then neither her
 prayer, fast nor alms will be accepted (by Allah) until her husband
 forgives her.
 
-

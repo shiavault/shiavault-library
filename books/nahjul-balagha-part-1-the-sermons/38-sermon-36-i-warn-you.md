@@ -3,17 +3,9 @@ Sermon 36: I warn you ...
 
 *Warning the people of Nahrawan*[^1] *of their fate*
 
-<blockquote dir="rtl">
-  <p>
-ومن خطبة له (عليه السلام)
-  </p>
-</blockquote>
+> ومن خطبة له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-في تخويف أَهل النهروان
-  </p>
-</blockquote>
+> في تخويف أَهل النهروان
 
 I am warning you that you will be killed on the bend of this canal and
 on the level of this low area while you will have no clear excuse before
@@ -26,18 +18,14 @@ of your wishes. You are a group whose heads are devoid of wit and
 intelligence. May you have no father! (Allah’s woe be to you!) I have
 not put you in any calamity nor wished you harm.
 
-<blockquote dir="rtl">
-  <p>
-فَأَنَا نَذِيرٌ لَكُمْ أَنْ تُصْبِحُوا صَرْعَى بِأَثْنَاءِ هذَا
-النَّهَرِ، وَبِأَهْضَامِ هذَاالْغَائِطِ عَلَى غَيْرِ بَيِّنَةٍ مِنْ
-رَبِّكُمْ، وَلاَ سُلْطَانٍ مُبِينٍ مَعَكُمْ، قَدْ طَوَّحَتْ بِكُمُ
-الدَّارُ، وَاحْتَبَلَكُمُ الْمِقْدَارُ وَقَدْ كُنْتُ نَهَيْتُكُمْ عَنْ
-هذِهِ الْحُكُومَةِ فَأَبَيْتُمْ عَلَيَّ إِبَاءَ المخالفين، حَتَّى
-صَرَفْتُ رَأْيِي إِلَىْ هَوَاكُمْ، وَأَنْتُمْ مَعَاشِرُ أَخِفَّاءُ
-الْهَامِّ، سُفَهَاءُ الاْحْلاَمِ وَلَمْ آتِ ـ لاَ أَبَا لَكُمْ ـ
-بُجْراً وَلاَ أَرَدْتُ لَكُمْ ضُرّاً.
-  </p>
-</blockquote>
+> فَأَنَا نَذِيرٌ لَكُمْ أَنْ تُصْبِحُوا صَرْعَى بِأَثْنَاءِ هذَا
+> النَّهَرِ، وَبِأَهْضَامِ هذَاالْغَائِطِ عَلَى غَيْرِ بَيِّنَةٍ مِنْ
+> رَبِّكُمْ، وَلاَ سُلْطَانٍ مُبِينٍ مَعَكُمْ، قَدْ طَوَّحَتْ بِكُمُ
+> الدَّارُ، وَاحْتَبَلَكُمُ الْمِقْدَارُ وَقَدْ كُنْتُ نَهَيْتُكُمْ عَنْ
+> هذِهِ الْحُكُومَةِ فَأَبَيْتُمْ عَلَيَّ إِبَاءَ المخالفين، حَتَّى
+> صَرَفْتُ رَأْيِي إِلَىْ هَوَاكُمْ، وَأَنْتُمْ مَعَاشِرُ أَخِفَّاءُ
+> الْهَامِّ، سُفَهَاءُ الاْحْلاَمِ وَلَمْ آتِ ـ لاَ أَبَا لَكُمْ ـ
+> بُجْراً وَلاَ أَرَدْتُ لَكُمْ ضُرّاً.
 
 Alternative Sources for Sermon 36
 ---------------------------------
@@ -128,5 +116,4 @@ position and they soon so cleared away the Kharijites that except for
 nine persons who fled away to save their lives not a single person was
 left alive. From Amir al-mu'minin's army only eight persons fell as
 martyrs. The battle took place on the 9th Safar, 38 A.H.
-
 

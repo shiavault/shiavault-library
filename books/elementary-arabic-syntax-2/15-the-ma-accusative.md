@@ -16,4 +16,3 @@ with his brother?)
 • Or, the interrogative *kayf*: **کیف أنتَ و العِلمَ** (How are you with
 respects to knowledge?)
 
-

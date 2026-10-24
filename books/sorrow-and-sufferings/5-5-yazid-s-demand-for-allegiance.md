@@ -113,4 +113,3 @@ Hurried preparations were made for the journey
 
 An unknown destination was on the itinerary.
 
-

@@ -30,4 +30,3 @@ psychology, or by pitting the rational mind against the limits of
 science, or by engaging with the aesthetics of the sublime in art. In
 other words by engaging thoroughly with the whole postsecular context.
 
-

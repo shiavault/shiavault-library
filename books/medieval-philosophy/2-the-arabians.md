@@ -110,7 +110,6 @@ merits. But, looking upon it in retrospect, we must judge that Albert's
 greatest service to philosophy was the fact that he prepared the ground,
 so to speak, for the work of his illustrious pupil, Thomas Aquinas.
 
-
 **Part III: From Thomas Aquinas to William of Ockham**
 
 **Aquinas**
@@ -386,9 +385,7 @@ philosophic thought which had begun to fray under the friction of
 Thomistic-Scotistic argument, snapped asunder under the impatient dicta
 of William of Ockham. It was literally cut by "Ockham's Razor."
 
-
 **The Period of Evangelization**
-
 
 **I. PHILOSOPHY AND RELIGION**
 
@@ -447,5 +444,4 @@ to God expiation for sin, and the glory of which He is worthy.
 Thus, Christianity claims to have solved the problems which human
 reason is unable to solve by itself. This is the backdrop for an
 understanding of medieval philosophy.
-
 

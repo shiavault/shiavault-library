@@ -12,22 +12,14 @@ tribulations and will remain safe from their sly plots.
 meet them with cheerfulness and you will cause their malice to die away.
 
 > 2ـ دارِ النّاسَ تَسْتَمْتِعْ بِإخائِهِمْ، والْقَهُمْ بِالبِشْرِ تُمِتْ
-<blockquote dir="rtl">
-  <p>
-أضْغانَهُمْ.
-  </p>
-</blockquote>
+> أضْغانَهُمْ.
 
 3. Be courteous to your enemy and be sincere with your close friend, [by
 this] you will protect [your] brotherhood and safeguard [your]
 magnanimity.
 
 > 3ـ دارِ عَدُوَّكَ، وأخْلُِصْ لِوَدوُدِكَ، تَحْفَظِ الأُخُوَّةَ،
-<blockquote dir="rtl">
-  <p>
-وتُحرِزِ المُـرُوءَةَ.
-  </p>
-</blockquote>
+> وتُحرِزِ المُـرُوءَةَ.
 
 4. The cornerstone of wisdom is being amicable with the people.
 
@@ -66,5 +58,4 @@ his goal.
 12. Being amicable is the most praiseworthy attribute.
 
 > 12ـ اَلمُداراةُ أحْمَدُ الخِلالِ.
-
 

@@ -320,43 +320,42 @@ I would like to leave the reader to himself to deduct the conclusion as
 to who the followers of the Sunnah really are, and who the innovators
 are.
 
-[^107] This tradition is recorded by al-Tirmidhi, Ibn Majah, al-Bayhaqi,
+[^107]: This tradition is recorded by al-Tirmidhi, Ibn Majah, al-Bayhaqi,
 and Ahmad ibn Hanbal.
 
-[^108] Al-Suyuti, Tarikh al-Khulafa, p. 160.
+[^108]: Al-Suyuti, Tarikh al-Khulafa, p. 160.
 
-[^109] Ibid.
+[^109]: Ibid.
 
-[^110] This is another proof provided by Shaykh Abu Zuhrah testifying to
+[^110]: This is another proof provided by Shaykh Abu Zuhrah testifying to
 the fact which we have already stated: Shi\`as do not accept to add to
 the Shari\`a to include anything besides what the Glorious Book of Allah
 and the Prophet's Sunnah contain.
 
-[^111] This is stated on p. 102 of Shaykh Abu Zuhrah's book.
+[^111]: This is stated on p. 102 of Shaykh Abu Zuhrah's book.
 
-[^112] Tarikh Baghdad. Vol. 14, p. 81. We say to these folks: If such is
+[^112]: Tarikh Baghdad. Vol. 14, p. 81. We say to these folks: If such is
 the extent of your knowledge, then why did you put yourselves ahead of
 the person who has with him the knowledge of the early generations and
 that of the last ones, depriving the nation of his guidance and light
 and leaving it groping in dissension, ignorance, and misguidance?!
 
-[^113] In our book Ma\`a al-Sadiqin, we proved, through convincing
+[^113]: In our book Ma\`a al-Sadiqin, we proved, through convincing
 arguments, that "those in authority from among you" are the Imams of
 guidance from among the pure Progeny and not meant to be the rulers who
 usurp power by force. It is impossible that Allah, Glory to Him, orders
 us to obey the oppressors, the promiscuous, or the apostates.
 
-[^114] This is stated on p. 17 of Ibn Hazm's summary of Ibtal al-Qiyas
+[^114]: This is stated on p. 17 of Ibn Hazm's summary of Ibtal al-Qiyas
 (falsification of analogy).
 
-[^115] Tabaqat al-Fuqaha, in the biography of Sa\`id ibn Jubayr.
+[^115]: Tabaqat al-Fuqaha, in the biography of Sa\`id ibn Jubayr.
 
-[^116] See Ibn Sa\`d, Tabaqat, Vol. 6, p. 179.
+[^116]: See Ibn Sa\`d, Tabaqat, Vol. 6, p. 179.
 
-[^117] Imam al-Shafi\`i, Al-Manaqib, Vol. 1, p. 443.
+[^117]: Imam al-Shafi\`i, Al-Manaqib, Vol. 1, p. 443.
 
-[^118] Tarikh Baghdad, Vol. 2, p. 66.
+[^118]: Tarikh Baghdad, Vol. 2, p. 66.
 
-[^119] This is recorded on p. 57 of Manaqib Imam Ahmad ibn Hanbal.
-
+[^119]: This is recorded on p. 57 of Manaqib Imam Ahmad ibn Hanbal.
 

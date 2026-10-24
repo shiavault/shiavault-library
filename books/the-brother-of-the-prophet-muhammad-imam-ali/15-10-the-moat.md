@@ -267,4 +267,3 @@ and they will not invade us."[^3]
 
 [^3]: Ibn Hisham in his Biography of the Prophet, Part 2, p. 254.
 
-

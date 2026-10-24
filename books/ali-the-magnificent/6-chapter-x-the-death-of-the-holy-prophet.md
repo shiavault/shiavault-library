@@ -348,4 +348,3 @@ Prophet Muhammad and his Holy Progeny. Thus, the false contents and the
 raw materials formed the very nucleus of the so-called 'History of
 Islam.'
 
-

@@ -100,4 +100,3 @@ did not lie (in seeing) what it saw;" and in XCVIII:2 reception of the
 revelation is indicated as a reading of "pure pages" by God's
 messenger.
 
-

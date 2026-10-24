@@ -10,12 +10,10 @@ of the practical application of al-Salam. Look at the following
 traditions: 1.Ibn Shahr \`shub narrates in his well-known al-Manaqib
 from Anas that he said:
 
-<p dir="rtl">
 جَاءَتْ جَارِيَةٌ لِلْحَسَنِ(ع) بِطَاقِ رَيْحَانٍ فَقَالَ لَهَا أَنْتَ
 حُرٌّ لِوَجْهِ اللَّهِ فَقِيلَ لَهُ فِي ذَلِكَ فَقَالَ أَدَّبَنَا
 اللَّهُ تَعَالَى فَقَالَ إِذا حُيِّيتُمْ الْآيَةَ وَكَانَ أَحْسَنُ
 مِنْهَا إِعْتَاقَهَا.
-</p>
 
 One of the slave women of Imam al-hasan ('a) came to him with a boquet
 of aromatic plants, whereupon the Imam ('a) said to her: You are free
@@ -42,9 +40,7 @@ there is no coherence between what the tongue utters and what the heart
 and mind feel and what the actions portray, then how can we claim the
 honesty of the musallim (greeter)?
 
-<p dir="rtl">
 ياَ اَباَ عَبْدِ اللهِ.
-</p>
 
 Ya Aba 'Abdillah
 
@@ -62,9 +58,7 @@ Essence of Allah is Infinitely Exalted. In the well-known verse of the
 Throne (\`yat al-Kursi) we declare this reality of Allah's Exalted
 Essence as:
 
-<p dir="rtl">
 وَهُوَ الْعَلِيُّ الْعَظِيْمِ.
-</p>
 
 And He Alone is the Extremely Exalted & Great Forever [^68]
 
@@ -81,10 +75,7 @@ as we shall soon expound means 'the utterly submissive slave of Allah)
 we are seeking his closeness, or in other words 'the attributes that
 personifies his exalted being'.
 
-<p dir="rtl">
 اَبَا عَبْدِ اللهِ
-</p>
-
 
 Aba 'Abdillah
 
@@ -97,10 +88,8 @@ offsprings of the 'named one'.) Hence if a person had a son called
 call someone by his offspring's name in front of him than to use his
 real name. Imam al-Riza ('a) is reported to have said:
 
-<p dir="rtl">
 إذَا ذَكَرْتَ الرَّجُلَ وَهُوَ حَاضِرٌ فَكَنِّهِ وَإِذَا كَانَ غائباً
 فسَمِّهِ.
-</p>
 
 If you mention a man in his presence, then do so using his agnomen
 (kunya), and if he were to be absent, then call him by his name.[^69] One
@@ -111,16 +100,12 @@ members of the Imam's noble family who was mercilessly martyred in the
 plains of Karbala. In the well-known Ziyarat al-Nahiya al-Muqaddasah we
 say:
 
-<p dir="rtl">
 السّلام عَلى عَبْدِ اللهِ بن الحسين الطفل الرَّضِيْعِ...
-</p>
 
 Perpetual peace be unto 'Abdillah, the one who was still breastfeeding
 [^70]
 
-<p dir="rtl">
 اَبَا عَبْدِ اللهِ
-</p>
 
 Aba 'Abdillah
 
@@ -137,5 +122,4 @@ Traditions indicate that Imam al-Hussein ('a) was given the agnomen
 after his birth by Almighty Allah himself through the revelation of the
 Arch Angel Gabriel, which subtly alludes to the submissive state of Imam
 ('a) ever since his birth:
-
 

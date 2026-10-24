@@ -58,4 +58,3 @@ I hope this presence of God will persist all through the year until the
 next Ramadhan comes and I will have no room for anyone but Him and His
 Lovers and loved ones.
 
-

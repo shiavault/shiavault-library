@@ -1247,4 +1247,3 @@ had come to be considered dangerous by the Japanese authorities in Java.
 
 [^24]: Ibid., p. 508.
 
-

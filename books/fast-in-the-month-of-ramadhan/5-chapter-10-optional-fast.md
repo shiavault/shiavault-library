@@ -334,4 +334,3 @@ convinced, so he said to him, "Do you think one dirham for each of these
 days is too little? Feeding one indigent person is better than the fast
 of a whole nonth."
 
-

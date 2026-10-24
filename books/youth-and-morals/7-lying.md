@@ -700,4 +700,3 @@ lead them to a sincere life free of hypocrisy, dissension and treachery.
 
 [^18]: Ghurar al-Hikam p. 105
 
-

@@ -18,4 +18,3 @@ today there are circles in Malaysia, Singapore and Indonesia where the
 teachings of this School are followed and many of the classical texts
 continue to be studied.34
 
-

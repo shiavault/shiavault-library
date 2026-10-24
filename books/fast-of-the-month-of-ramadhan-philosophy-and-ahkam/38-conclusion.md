@@ -143,4 +143,3 @@ reward all of us with everlasting bliss and happiness in this life and
 the life to come, *Allahomma Aameen, Wassalamo Alaikom wa Rahmatullahi
 wa Barakatuh*.
 
-

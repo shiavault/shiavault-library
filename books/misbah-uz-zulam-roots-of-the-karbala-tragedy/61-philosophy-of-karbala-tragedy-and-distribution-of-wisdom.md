@@ -15,4 +15,3 @@ applicable to his relationship with his family members and the third is
 concerned with the affairs of the nation. All three of them are
 discussed with relation to the tragedy of Karbala’.
 
-

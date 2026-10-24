@@ -543,9 +543,7 @@ cleansing ablution.'' HANZALIH was therefore nicknamed,
 \`\`GHASILATOL-MALA",EKEH'', which means the one who got ablution by the
 angels, or we may take it as the one babtized by the angels.
 
-
 THE END OF SUREH THE LIGHT (24)
 
 [ 380 ]
-
 

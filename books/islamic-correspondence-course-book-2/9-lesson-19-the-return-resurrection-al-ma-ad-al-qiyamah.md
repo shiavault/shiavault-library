@@ -125,4 +125,3 @@ acts and words and even thoughts; they will not do things dictated by
 their pleasure, and will spend the night and day thinking how to improve
 themselves and the community.
 
-

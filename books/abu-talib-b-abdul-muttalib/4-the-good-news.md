@@ -32,4 +32,3 @@ of great importance!”
 Abu Talib came back to Makkah. He adored Muhammad. He was very careful
 of his safety.
 
-

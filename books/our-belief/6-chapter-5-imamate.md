@@ -317,4 +317,3 @@ when it is reasonably proved to have been said by the prophet.
 such as: Sahih Muslim v. 2, p. 1873, Sahih Tirmidhi v. 5, p. 662, Sunan
 Darmi v. 2, p. 432, Khasaes Nesaie p. 20 and Musnad Ahmad v. 5, p. 82.
 
-

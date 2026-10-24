@@ -191,7 +191,6 @@ quality, other cognitive powers are comprehended by the reflective ideas
 of sensation, remembrance, recollection, contemplation, reverie,
 attention, study, dreaming, and ecstasy. [Essay II xix 1-2]
 
-
 **Animal Thinking**
 
 Although each human being must acquire the ideas of reflection by
@@ -248,5 +247,4 @@ distinction between human beings and other animals without grounding it
 on an ontological distinction in the possession of an immaterial soul.
 ©1999-2002 Garth Kemerling.Last modified 27 October 2001.Questions,
 comments, and suggestions may be sent to: the Contact Page.
-
 

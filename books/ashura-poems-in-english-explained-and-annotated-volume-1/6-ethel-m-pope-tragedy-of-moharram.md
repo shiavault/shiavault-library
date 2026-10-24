@@ -27,7 +27,6 @@ Whose noble sacrifice has made
 The world ring with his name
 With open hand he gave his all;
 
-
 **His little children dear**
 
 Brothers, friends - helpless women too,
@@ -49,9 +48,7 @@ Husain, Husain, Husain!\*
 
 49
 
-
 **Justice A. D. Russel : The Martyr of Karbala**
-
 
 From age to age, on Virtue's age,
 Shall live the deathless story,
@@ -98,7 +95,6 @@ The holy son of Fatima
 Gave up his soul to God!\*
 \* Khurshed, ed., Imam Husain, 2nd ed., pp. 136-140.
 
-
 L. 19. Kufa, or al-Kufa (Arabic al-K?fa), is a town on western bank of
 the Euphrates. It is now quite close to al-Najaf. Al- Kufa served as a
 seat of Imam ?Al?'s government, hence a refuge and center for the
@@ -107,9 +103,7 @@ wrote letters of invitation to Imam al-Husain; however, most of them
 betrayed him and participated in the unbalanced war against him in
 Karbala.
 
-
 51
-
 
 **Mariam Rizvi : Untitled Poem**
 
@@ -133,7 +127,6 @@ Would rather die than live in shame.
 Your Prophet's scion I'm - you know
 At least some regard to his name show.
 His singular dictum is my creed:
-
 
 "Universal good" I adore, indeed.
 Ali, the paragon, the seraphic Imam
@@ -192,7 +185,5 @@ brother. He typifies and symbolizes bravery, religious zeal,
 chivalrous politeness, and absolute obedience toward Imam al-
 Husain.
 
-
 55
-
 

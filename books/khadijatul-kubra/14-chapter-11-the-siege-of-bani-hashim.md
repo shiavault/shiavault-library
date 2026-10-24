@@ -738,4 +738,3 @@ truth, to proclaim it over all religion, even though the pagans may
 detest (it).***  
 ***(Chapter 9; verses 32, 33)***
 
-

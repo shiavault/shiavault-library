@@ -189,4 +189,3 @@ of money. Sumayah decided to ask Ahmad about woman's status in Islam and
 his own viewpoint. She knew that he would no doubt explain everything to
 her and elaborate on the differences between the roles of men and women.
 
-

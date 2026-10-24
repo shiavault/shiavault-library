@@ -31,4 +31,3 @@ unaware of some of them.
 
 Here, his speech, may Allāh prolong his shade, ends.
 
-

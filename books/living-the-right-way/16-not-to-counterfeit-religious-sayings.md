@@ -23,4 +23,3 @@ will he punished by the Most High Allah.”*
 He (a.s.) also said: *“Forging lies against Allah, His Messenger and the
 later’s successors is a grave (mortal) sin.”*
 
-

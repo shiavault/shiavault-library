@@ -36,4 +36,3 @@ additional terms and they are marked as such with (AnAc).
 terminology are NOT included in this dictionary. Also if you are looking
 for Arabic Names - male or female- this is not the place for it.*
 
-

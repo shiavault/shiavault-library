@@ -16,4 +16,3 @@ devoted to the significance of 'irfan today and its role in providing
 solutions for some of the most important intellectual and spiritual
 issues facing the contemporary Islam world.*
 
-

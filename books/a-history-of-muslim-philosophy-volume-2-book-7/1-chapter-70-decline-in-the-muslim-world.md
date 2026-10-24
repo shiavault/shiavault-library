@@ -963,4 +963,3 @@ Islam, Lahore, 1951, p. 148.
 
 [^12]: Iqbal, op. cit., p. 150.
 
-

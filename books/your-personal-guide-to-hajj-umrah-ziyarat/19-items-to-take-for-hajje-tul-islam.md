@@ -69,4 +69,3 @@ drops like **‘Bradasol’** for sore throat.
 • If you wear prescription eyeglasses then it is highly recommended you
 carry an extra pair.
 
-

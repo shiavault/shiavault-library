@@ -79,4 +79,3 @@ example: **شربتُم** (we drank)
 254. No, the *nūn* of protection is attached to some prepositions as
 well. For example: **مِنِّي** (from me).
 
-

@@ -412,4 +412,3 @@ centuries ahead of our own." [^5]
 
 [^5]: Bucaille, op. cit., p. 120
 
-

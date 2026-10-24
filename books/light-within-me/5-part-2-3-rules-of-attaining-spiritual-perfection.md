@@ -1204,4 +1204,3 @@ al-Mubtadrak, vol II)
 
 [^2]: We have already explained this term.
 
-

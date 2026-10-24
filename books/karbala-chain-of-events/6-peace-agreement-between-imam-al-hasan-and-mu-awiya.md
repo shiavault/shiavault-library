@@ -59,4 +59,3 @@ c) Freedom suddenly died, and dictatorship took its place.
 d) Mu'awiya gathered a very large number of collaborators who
 unabashedly would do anything for money.
 
-

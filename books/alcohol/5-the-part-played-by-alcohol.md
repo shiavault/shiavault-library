@@ -524,4 +524,3 @@ Trying to cure consumption with whisky is like trying to put out a fire
 with kerosene - John E. White, M. D., Medical Director, Nordrach Ranch,
 Sanatorium.
 
-

@@ -122,4 +122,3 @@ sufficiently backed. Without such assurance they would become nervous.
 Giving instruction in a battlefield Ali (a.s.) had advised his son: My
 Son! Remember that real help comes only from Allah.
 
-

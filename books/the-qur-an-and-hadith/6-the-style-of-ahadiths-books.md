@@ -302,4 +302,3 @@ which serve as the armory for the enemies of Islam, who use them to cast
 doubt on the character, sincerity, integrity and truth of the Holy
 Prophet on Islam.
 
-

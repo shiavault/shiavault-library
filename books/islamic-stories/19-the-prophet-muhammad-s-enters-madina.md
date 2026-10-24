@@ -132,4 +132,3 @@ ANSAR (helpers) and those who had migrated from Mecca as MUHAJIREEN
 (immigrants). All these people, i.e. the Ansar and the muhajireen got
 together and united in the common bond of brotherhood of Islam.
 
-

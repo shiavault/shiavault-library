@@ -156,4 +156,3 @@ Thus, we could conclude that the personal physical and mental state of a
 boy and girl are the most important criteria to decide on the
 appropriate age for marriage.
 
-

@@ -276,4 +276,3 @@ their attempt to fetch water from the Euphrates on, at least, two
 occasions, nor the children such as Ali al-Asghar, Abdullah bin
 al-Hasan…etc.
 
-

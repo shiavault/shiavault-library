@@ -23,12 +23,8 @@ requirement of Eimaan. Rather, you cannot imagine faith without
 allegiance. Thus the seller here, is the believer and the purchaser is
 the Almighty Allah. As mentioned in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ
-وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ
+> وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ
 
 ***Surely Allah has bought of the believers their persons and their
 property for this, that they shall have the garden.”*** ***(Qur’an,
@@ -40,14 +36,10 @@ Bayyat to them, it is as if he has given Bayyat to the Almighty Allah.
 And one who neglects it, it is as if he has ignored Allah; it is from
 this aspect that the Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
-اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ
-نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ
-فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
+> اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ
+> نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ
+> فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 ***Surely those who swear allegiance to you do but swear allegiance to
 Allah; the hand of Allah*** ***is above their hands. Therefore whoever
@@ -136,24 +128,16 @@ tongue of the obedience of the Prophet and the Holy Imams (as) and to
 submit to them and to help them with ones life and property. The
 Almighty Allah says:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***The Prophet has a greater claim on the faithful than they have on
 themselves.*** ***(Qur’an, Surah Ahzab*** ***33:6)***
 
 The Almighty Allah also says:
 
-<blockquote dir="rtl">
-  <p>
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
-بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
-وَيُسَلِّمُوا تَسْلِيمًا
-  </p>
-</blockquote>
+> فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ
+> بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ
+> وَيُسَلِّمُوا تَسْلِيمًا
 
 ***But no! by your Lord! they do not believe (in reality) until they
 make you a judge of that which has become a matter of disagreement among
@@ -179,16 +163,12 @@ commands.[^4]
 And all that we have mentioned is included in the following verse of
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
-وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
-وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
-إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
-فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا
-يَهْدِي الْقَوْمَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ
+> وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
+> وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
+> إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
+> فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا
+> يَهْدِي الْقَوْمَ الْفَاسِقِينَ
 
 ***Say: If your fathers and your sons and your brethren and your mates
 and your kinsfolk and property which you have acquired, and the
@@ -378,23 +358,15 @@ property and everything. Now such a thing has not been allowed for
 anyone, except the Holy Prophet (S) and the Holy Imams (as). Allah, the
 Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
-  </p>
-</blockquote>
+> النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ
 
 ***The Prophet has a greater claim on the faithful than they have on
 themselves.*** ***(Qur’an, Surah Ahzab 33:6)***
 
 And the Almighty Allah said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
-يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ 
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ
+> يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Only Allah is your Guardian and His Apostle and those who believe,
 those who keep up prayers and pay the poor-rate while they bow. (Qur’an,
@@ -402,12 +374,8 @@ Surah Maidah 5:55)***
 
 ***And He also said:***
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
+> الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ
 
 ***O you who believe! obey Allah and obey the Apostle and those in
 authority from among you. (Qur’an, Surah Nisa 4:59)***
@@ -428,12 +396,8 @@ Almighty Allah has given to them and as a result of his opposition to
 the chosen ones of Allah, he goes out of the pale of faith. Allah, the
 Mighty and Sublime says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
-وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
-  </p>
-</blockquote>
+> وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ
+> وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ
 
 ***And it behooves not a believing man and a believing woman that they
 should have any choice in their matter when Allah and His Apostle have
@@ -441,12 +405,8 @@ decided a matter. (Qur’an, Surah Ahzab 33:36)***
 
 Interpreting the words of Almighty that:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
-أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ لَئِنْ
+> أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَاسِرِينَ
 
 ***And certainly, it has been revealed to you and to those before you:
 Surely if you associate (with Allah), your work would certainly come to
@@ -567,23 +527,15 @@ take Bayyat on behalf of the infallibles.
 If it is said: Its legality can be proved by verses that exhort the
 people to follow the Prophet (S). For example the verse:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي 
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي
 
 ***Say: If you love Allah, then follow me. (Qur’an, Surah Aale Imran
 3:31)***
 
 And the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
-يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ
+> يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ
 
 ***Certainly you have in the Apostle of Allah an excellent exemplar for
 him who hopes in Allah and the latter day. (Qur’an, Surah Ahzab
@@ -638,14 +590,10 @@ Since the book written by this person is in Persian we see that he has
 tried to prove that Bayyat is recommended in this age through the
 following verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
-اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ
-نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ
-فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ
+> اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ
+> نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ
+> فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 ***Surely those who swear allegiance to you do but swear allegiance to
 Allah; the hand of Allah is above their hands. Therefore whoever breaks
@@ -1000,5 +948,4 @@ University of Tehran, Published 1344
 [^18]: Bayanul Saadah Fee Maqaamaatil Ibaadah, Vol. 2, Pg. 292
 
 [^19]: Bayanul Saadah Fee Maqaamaatil Ibaadah, Vol. 2, Pg. 280
-
 

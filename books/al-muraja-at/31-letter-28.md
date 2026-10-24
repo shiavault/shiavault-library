@@ -146,4 +146,3 @@ on the caliphs on page 65.
 [^9]: As attested to by hadith 2504 of the hadith of Kanz al-’Ummal,
 page 152, Volume 6.
 
-

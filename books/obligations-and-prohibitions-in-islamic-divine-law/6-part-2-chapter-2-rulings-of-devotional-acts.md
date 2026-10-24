@@ -709,4 +709,3 @@ such as urination, excrement, emission of intestinal gas, and sleep.
 such as having a wet dream, sexual intercourse, ejaculation, and
 menstruation.
 
-

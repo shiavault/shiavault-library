@@ -6,13 +6,11 @@ However, it does not emphasize on any kind of ziyarah whatsoever. It
 encourages meaningful ziyarah- ziyarah with a purpose and aim. Observe
 the following traditions: Imam al-Sadiq ('a) is reported to have said:
 
-<p dir="rtl">
 قَالَ تَزَاوَرُوا فَإِنَّ فِي زِيَارَتِكُمْ إِحْيَاءً لِقُلُوبِكُمْ
 وَذِكْراً لأحَادِيثِنَا وَأَحَادِيثُنَا تُعَطِّفُ بَعْضَكُمْ عَلَى
 بَعْضٍ فَإِنْ أَخَذْتُمْ بِهَا رَشَدْتُمْ وَنَجَوْتُمْ وَإِنْ
 تَرَكْتُمُوهَا ضَلَلْتُمْ وَهَلَكْتُمْ فَخُذُوا بِهَا وَأَنَا
 بِنَجَاتِكُمْ زَعِيمٌ.
-</p>
 
 'Visit one another, for verily in your visitation is the revival of
 your hearts, and a remembrance of our speeches; our speeches make you
@@ -22,10 +20,8 @@ perish; therefore follow them while I guarantee your salvation.'[^21]
 
 And Imam al-Baqir ('a) is reported to have said:
 
-<p dir="rtl">
 تَزَاوَرُوا فِي بُيُوتِكُمْ فَإِنَّ ذَلِكَ حَيَاةٌ لاَمْرِنَا رَحِمَ
 اللَّهُ عَبْداً أَحْيَا أَمْرَنَا.
-</p>
 
 'Visit one another in your homes for surely in that is the life of our
 affair; may Allah's Mercy be upon one who revives our affair.'[^22] It
@@ -50,10 +46,8 @@ It rather believes that human beings can communicate with those who have
 transcended this limited world of matter and can listen to them as well.
 In our daily prayer, we address the Holy Prophet (s) as follows:
 
-<p dir="rtl">
 السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ
 وَبَرَكَاتُهُ.
-</p>
 
 Peace be unto you O Prophet and may Allah's Mercy and Blessings be on
 you.[^23]
@@ -69,11 +63,9 @@ za'ir (visitor) adopts a very humble attitude, and appreciating the
 presence of the Holy Prophet (s) seeks his permission to enter his
 hospice. In this well-known recital, we say:
 
-<p dir="rtl">
 ...واَعْلَمُ اَنَّ رَسُولَكَ وَخُلَفَائَكَ عَلَيْهِمُ السّلام اَحْياَء
 عندك يُرزَقون، يَرونَ مَقَامِي وَيَسْمَعُوْنَ كَلاَمِي، وَيَرُدّوْنَ
 سَلاَمِي... .
-</p>
 
 …and I know that Your Apostle and vicegerents (upon whom be peace) are
 alive, receiving sustenance in Your neighborhood, they see where I stand
@@ -88,9 +80,7 @@ purity, could boldly claim that they can behold the ultimate form of the
 reality of this world while they still exist in this earthly abode. In
 one of his famous dictums, Imam 'Ali ('a) is reported to have said:
 
-<p dir="rtl">
 لَوْ كُشِفَ الغطاء مَا ازْدَدْتُ يقينًا.
-</p>
 
 If the curtains were unveiled nothing would be added to my
 conviction.[^25]
@@ -102,9 +92,7 @@ Allah and have purified their hearts can also enjoy such exalted
 positions. In fact, Almighty Allah calls the human beings to appreciate
 the kernel of this word in the following verse:
 
-<p dir="rtl">
 أَوَلَمْ يَنْظُرُوا فِي مَلَكُوتِ السَّماواتِ وَالارْضِ.
-</p>
 
 And do they not look into the kernel of the heavens and the
 earth?[^26]
@@ -113,10 +101,8 @@ Hence there is an invitation to tear the veils that we have created for
 ourselves by sinning. In other interesting dictum of the Holy Prophet
 (s) we are told:
 
-<p dir="rtl">
 لَوْلا أَنَّ الشَّيَاطِينَ يَحُومُونَ عَلَى قُلُوبِ بَنِي آدَمَ
 لَنَظَرُوا إِلَى مَلَكُوتِ السَّمَاوَاتِ.
-</p>
 
 Was is not for the Satans circling around the hearts of the off-springs
 of Adam, they would have beheld the kernel of the heavens and the
@@ -148,12 +134,10 @@ iceberg:
 
 Imam 'Ali ('a) is reported to have said to Abu Dharr:
 
-<p dir="rtl">
 اعْلَمْ يَا أَبَا ذَرٍّ أَنَا عَبْدُ اللَّهِ عَزَّ وَجَلَّ
 وَخَلِيفَتُهُ عَلَى عِبَادِهِ لا تَجْعَلُونَا أَرْبَاباً وَقُولُوا فِي
 فَضْلِنَا مَا شِئْتُمْ فَإِنَّكُمْ لا تَبْلُغُونَ كُنْهَ مَا فِينَا وَلا
 نِهَايَتَهُ.
-</p>
 
 Know O Aba Dharr that I am [only] a slave of Allah and His vicegerent
 over His servants; do not consider us as Lords and you may say whatever
@@ -162,11 +146,8 @@ perfection, nor its zenith…[^28]
 
 And in another tradition he ('a) is reported to have said:
 
-<p dir="rtl">
 لا يُقَاسُ بِآلِ مُحَمَّدٍ (ص) مِنْ هَذِهِ الأمَّةِ أَحَدٌ.
-</p>
 
 ...None from this Ummah can be compared with the progeny of Muhammad
 (upon whom be peace)…[^29]
-
 

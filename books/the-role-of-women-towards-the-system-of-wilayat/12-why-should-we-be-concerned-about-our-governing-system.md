@@ -30,4 +30,3 @@ If separation has to be done, then we both should separate. If the
 clerics have to be separated from politics then you politicians should
 also separate from religion and stop interfering in religious affairs.
 
-

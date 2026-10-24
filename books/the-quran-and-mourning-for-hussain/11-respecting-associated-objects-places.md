@@ -50,4 +50,3 @@ yet respect can be offered to one other than Allah: for example we
 respect and honour parents, scholars, the elderly, etc, all on the basis
 of laws of respect dictated by Allah.
 
-

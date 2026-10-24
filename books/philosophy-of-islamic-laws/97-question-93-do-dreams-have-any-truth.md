@@ -21,5 +21,3 @@ people they may be) never pay attention to these concocted things. In
 any case even if someone really has such dreams, it is certainly not
 reliable from the religious point of view.
 
-
-

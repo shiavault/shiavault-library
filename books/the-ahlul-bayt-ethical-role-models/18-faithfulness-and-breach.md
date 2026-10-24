@@ -80,4 +80,3 @@ trickery, cheating, deficient measurements, fraud, and dishonesty.
 [^4]: Quoted from al-Wafi; part 10 page 112 (as quoted from al- Kafi and
 Tahdhib).
 
-

@@ -51,4 +51,3 @@ and fasting during her period.
 [^3]: Sally Priesand, Judaism and the New Woman (New York; Berham House
 Inc., 1975) p. 24.
 
-

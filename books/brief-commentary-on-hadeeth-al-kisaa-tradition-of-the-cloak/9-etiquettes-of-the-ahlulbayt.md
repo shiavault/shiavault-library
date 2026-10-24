@@ -1,13 +1,9 @@
 Etiquettes Of The Ahlulbayt
 ===========================
 
-<blockquote dir="rtl">
-  <p>
-فَما كَانَت إِلاّساعَةً و إذا بوَلَدِيَ الحَسَنِ قَد أَقبَلَ وَ قالَ :
-أَلسَّلامُ عَلَيكِ يا أُمّاهُ ، فَقُلتُ : وَ عَلَيكَ السَّلامُ يا
-قُرَّةَ عَيِني وَ ثَمَرَةَ فُؤادِي
-  </p>
-</blockquote>
+> فَما كَانَت إِلاّساعَةً و إذا بوَلَدِيَ الحَسَنِ قَد أَقبَلَ وَ قالَ :
+> أَلسَّلامُ عَلَيكِ يا أُمّاهُ ، فَقُلتُ : وَ عَلَيكَ السَّلامُ يا
+> قُرَّةَ عَيِني وَ ثَمَرَةَ فُؤادِي
 
 **No more than a while passed when my son al-Hasan came in, "Peace be
 upon you, mother!" he greeted. "Peace be upon you, too, O delight of my
@@ -82,5 +78,4 @@ speaks volumes of the special position which Imam Hasan (AS) enjoys in
 regards to his mother. He is the “fruit” which refers to the purified
 progeny that is bestowed to Lady Zahra (AS), just as she is the
 “Kawthar” (the abundant good) bestowed as a divine gift to her father.
-
 

@@ -27,4 +27,3 @@ and to Him returns everything that dies.
 
 (Sermon 109)
 
-

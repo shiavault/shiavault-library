@@ -3,24 +3,16 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-ياَ اَيُّهاَ الَّذِينَ آَمَنُوا آَمِنُوا بِاللهِ وَ رَسُولِهِ وِ
-الْكِتاَب
-  </p>
-</blockquote>
+> ياَ اَيُّهاَ الَّذِينَ آَمَنُوا آَمِنُوا بِاللهِ وَ رَسُولِهِ وِ
+> الْكِتاَب
 
 *(O’ You who believe! Believe in Allah and His Messenger and the Book,
 which He has revealed to His Messenger)*[^1]
 
 The Holy Prophet (s.a.w.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلإيماَنُ عَقْدٌ بِالْقَلْبِ وَ نُطْقٌ بِالْلِساَنِ وَ عَمَلٌ
-بِالأرْكاَن
-  </p>
-</blockquote>
+> اَلإيماَنُ عَقْدٌ بِالْقَلْبِ وَ نُطْقٌ بِالْلِساَنِ وَ عَمَلٌ
+> بِالأرْكاَن
 
 *(Faith is (a combination of) conviction in the heart, speaking out by
 the tongue and deeds by the limbs.)*[^2]
@@ -297,5 +289,4 @@ Levels of Faith’, tr. 2.
 [^15]: Daastaan-ha-e-Maa, vol. 2, pgs. 39-45.
 
 [^16]: Muntahal Aa’maal, vol. 1, pg. 114.
-
 

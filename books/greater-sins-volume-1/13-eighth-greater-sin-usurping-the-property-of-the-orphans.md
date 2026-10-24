@@ -439,4 +439,3 @@ orphan when he attains puberty and maturity of intellect.
 
 [^4]: Wasa’il ul-Shia
 
-

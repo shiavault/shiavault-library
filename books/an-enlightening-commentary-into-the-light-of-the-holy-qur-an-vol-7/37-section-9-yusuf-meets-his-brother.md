@@ -4,12 +4,8 @@ Section 9: Yusuf Meets His Brother
 Surah Yusuf – Verse 69
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا دَخَلُوا عَلَي يُوسُفَ ءَاوَي إِلَيْهِ أَخَاهُ قَالَ إِنّي
-أَنَاْ أَخُوكَ فَلاَ تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَمَّا دَخَلُوا عَلَي يُوسُفَ ءَاوَي إِلَيْهِ أَخَاهُ قَالَ إِنّي
+> أَنَاْ أَخُوكَ فَلاَ تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ
 
 ***69. “And, when they entered unto Yusuf, he lodged his (own) brother
 (Benyamin) with himself, saying: ‘I am your brother; so do not grieve at
@@ -72,12 +68,8 @@ pretext of being discovered as a thief to which he agreed.
 Surah Yusuf – Verse 70
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ السّقَايَةَ فِي رَحْلِ أَخيهِ
-ثُمَّ أَذَّنَ مُؤَذّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ
-  </p>
-</blockquote>
+> فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ السّقَايَةَ فِي رَحْلِ أَخيهِ
+> ثُمَّ أَذَّنَ مُؤَذّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ
 
 ***70. “Then, when he provided them with their provisions, he put the
 drinking cup into his brother’s saddle-bag. Then a herald shouted: ‘O
@@ -144,18 +136,10 @@ group responsible.
 Surah Yusuf – Verses 71 - 72
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا وَأَقْبَلُوا عَلَيْهِم مَّاذَا تَفْقِدُونَ
-  </p>
-</blockquote>
+> قَالُوا وَأَقْبَلُوا عَلَيْهِم مَّاذَا تَفْقِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَن جَآءَ بِهِ حِمْلُ بَعِيرٍ
-وَأَنَاْ بِهِ زَعِيمٌ
-  </p>
-</blockquote>
+> قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَن جَآءَ بِهِ حِمْلُ بَعِيرٍ
+> وَأَنَاْ بِهِ زَعِيمٌ
 
 ***71. “They said, while turning to them: ‘What is it that you have
 lost?’”***  
@@ -192,12 +176,8 @@ The speaker of this statement, for a more emphasis, said:
 Surah Yusuf – Verse 73
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِي
-الأَرْضِ وَمَا كُنَّا سَارِقِينَ
-  </p>
-</blockquote>
+> قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِي
+> الأَرْضِ وَمَا كُنَّا سَارِقِينَ
 
 ***73. “They said: ‘By Allah! You know well (that) we have not come to
 make mischief in the land, and we are not thieves’.”***
@@ -237,11 +217,7 @@ especially in times of crisis to be sure about their intentions.
 Surah Yusuf – Verse 74
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا فَمَا جَزَآؤُهُ إِن كُنتُم كَاذِبِينَ
-  </p>
-</blockquote>
+> قَالُوا فَمَا جَزَآؤُهُ إِن كُنتُم كَاذِبِينَ
 
 ***74. “They said: ‘What is the penalty thereof, if you are liars?’”***
 
@@ -276,12 +252,8 @@ The verse says:
 Surah Yusuf – Verse 75
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا جَزَآؤُهُ مَن وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَآؤُهُ كَذَلِكَ
-نَجْزِي الظَّالِمِينَ
-  </p>
-</blockquote>
+> قَالُوا جَزَآؤُهُ مَن وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَآؤُهُ كَذَلِكَ
+> نَجْزِي الظَّالِمِينَ
 
 ***75. “They said: ‘The penalty thereof is that he in whose bag it is
 found shall himself be (held as bondsman) in penalty for it. Thus do we
@@ -313,14 +285,10 @@ brother.
 Surah Yusuf – Verse 76
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَبَدَأَ بِاَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا
-مِن وِعَآءِ أَخِيهِ كَذَلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ
-أَخَاهُ فِي دينِ الْمَلِكِ إِلآَّ أَن يَشَآءَ اللَّهُ نَرْفَعُ
-دَرَجَاتٍ مَن نَّشَآءُ وَفَوْقَ كُلّ ذِي عِلْمٍ عَلِيمٌ
-  </p>
-</blockquote>
+> فَبَدَأَ بِاَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا
+> مِن وِعَآءِ أَخِيهِ كَذَلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ
+> أَخَاهُ فِي دينِ الْمَلِكِ إِلآَّ أَن يَشَآءَ اللَّهُ نَرْفَعُ
+> دَرَجَاتٍ مَن نَّشَآءُ وَفَوْقَ كُلّ ذِي عِلْمٍ عَلِيمٌ
 
 ***76. “And so he began (the search) with their bags before the bag of
 his brother. Then he drew it out from his brother’s bag. Thus did We
@@ -387,13 +355,9 @@ endued with knowledge, there is one more knowing.”***
 Surah Yusuf – Verse 77
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُ مِن قَبْلُ فَاَسَرَّهَا
-يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ
-مَّكَاناً وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
-  </p>
-</blockquote>
+> قَالُوا إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُ مِن قَبْلُ فَاَسَرَّهَا
+> يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ
+> مَّكَاناً وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
 
 ***77. “They said: ‘If he steals, a brother of his had stolen before.’
 But Yusuf kept it secret within his heart and did not reveal it to them.
@@ -429,12 +393,8 @@ truth) of what you state’.”***
 Surah Yusuf – Verse 78
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا يَآ أَيُّهَا الْعَزِيرُ إِنَّ لَهُ أَباً شَيْخاً كَبِيراً
-فَخُذْ أَحَدَنَا مَكَانَهُ إِنَّا نَرَاكَ مِنَ الْمُـحْسِنينَ
-  </p>
-</blockquote>
+> قَالُوا يَآ أَيُّهَا الْعَزِيرُ إِنَّ لَهُ أَباً شَيْخاً كَبِيراً
+> فَخُذْ أَحَدَنَا مَكَانَهُ إِنَّا نَرَاكَ مِنَ الْمُـحْسِنينَ
 
 ***78. “They said: ‘O’ ‘Aziz! He has a father, aged and advanced in
 years, so take one of us in his place; verily we see you of the doers of
@@ -463,12 +423,8 @@ The verse says:
 Surah Yusuf – Verse 79
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مَعَاذَ اللَّهِ أَن نَّأْخُذَ إِلاَّ مَن وَجَدْنَا مَتَاعَنَا
-عِندَهُ إِنَّآ إِذاً لَظَالِمُونَ
-  </p>
-</blockquote>
+> قَالَ مَعَاذَ اللَّهِ أَن نَّأْخُذَ إِلاَّ مَن وَجَدْنَا مَتَاعَنَا
+> عِندَهُ إِنَّآ إِذاً لَظَالِمُونَ
 
 ***79. “He said: ‘Allah forbid that we take (anyone) other than him with
 whom we found our property. Indeed (if we did so) we would certainly be
@@ -520,5 +476,4 @@ the volume of which is equal to about 3 kg of wheat.
 
 [^6]: According to Majma‘ ul Bayan the term of servitude was for one
 year.
-
 

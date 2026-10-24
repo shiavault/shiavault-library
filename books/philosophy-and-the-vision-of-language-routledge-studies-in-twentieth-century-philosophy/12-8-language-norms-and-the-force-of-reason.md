@@ -1244,4 +1244,3 @@ meaning and interpretation, ought to reveal as well the way in which the
 tradition’s sustained inquiry into language deepens and radicalizes
 them.
 
-

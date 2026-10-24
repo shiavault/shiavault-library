@@ -24,4 +24,3 @@ With every hope for victory of Muslims against all oppressors.
 
 **Mehdi Marzban Rad**
 
-

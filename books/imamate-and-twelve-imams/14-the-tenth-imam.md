@@ -41,4 +41,3 @@ patience the tortures and afflictions of the Abbasid caliph Mutawakkil
 until the caliph died and was followed by Muntasir, Musta'in and finally
 Mu'tazz, whose intrigue led to the Imam's being poisoned and martyred.
 
-

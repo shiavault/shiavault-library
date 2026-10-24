@@ -1,9 +1,6 @@
 Narrating Hadith Through Denotation:
 ====================================
 
-  
-  
-
 When the idea of narrating the Prophet’s traditions to people struck the
 minds of some of the Companions, during the occasions necessitating this
 reporting, though numerous years elapsed since hearing them, with
@@ -53,8 +50,7 @@ to ward off the sin of lying and evade any interdiction in narrating, as
 that who errs being not sinful. Or that this word (deliberately) was
 inserted in the hadith in order that those who were unpurposely
 composing and fabricating traditions, could justify their practice, to
-support by it their utterances and gain the trust of people. <span
-id="_anchor_8"></span>8
+support by it their utterances and gain the trust of people. 8
 
 ### The Compositions:
 
@@ -74,7 +70,7 @@ fabricated).
 Abu Hurayrah was the most prolific Companion in reporting (traditions)
 from the Messenger of Allah, though not keeping the Prophet’s company
 more than a year and nine months, as I verified and recorded in my book
-Shaykh al-Mudirah, <span id="_anchor_9"></span>9 with his narrations
+Shaykh al-Mudirah, 9 with his narrations
 containing that abundance of troubles which survived for a long epoch
 and will be there for ever. Because of these facts I have dedicated for
 him a separate special exposition in which I fulfilled my duty toward
@@ -169,7 +165,7 @@ even if being more authentic than the hadith he took for granted.
 Further he might take and accept part of the hadith and discard the
 other part! But as regards whatever contradicting his madhhab, he would
 discard and never accept it even though being among those traditions
-narrated by the company (jama‘ah). <span id="_anchor_10"></span>10 That
+narrated by the company (jama‘ah). 10 That
 which prompted them to so doing was the fact that all the jurisprudents’
 evidences were based on conjecture only, without the condition of
 tawatur, and every one is free to accept, without any interdiction, all

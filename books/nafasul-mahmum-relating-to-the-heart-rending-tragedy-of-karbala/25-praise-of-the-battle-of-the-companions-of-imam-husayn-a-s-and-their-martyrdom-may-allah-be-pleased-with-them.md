@@ -1835,4 +1835,3 @@ discussed separately in Section 9 under Chapter 2 of this book.
 
 [^3]: Refer to the entire episode in Section 18 of this book.
 
-

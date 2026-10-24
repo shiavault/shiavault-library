@@ -13,4 +13,3 @@ Bahlool answered, “I was not being rude towards the dignity of the
 Prophet, I was speaking rudely about the nation, and I am not saying
 wrongly.”
 
-

@@ -116,4 +116,3 @@ vols., Cairo, 1299/1882.*
 ***al‑Yaqubi*** *‑ al‑Ya’qubi, Ahmad b. Abi Ya’qub, al‑Tasrikh, 3 vols.,
 Beirut, 1375/1955.*
 
-

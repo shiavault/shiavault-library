@@ -140,4 +140,3 @@ brave Muslim, and achieved martyrdom under the banner of Islam.
 After his martyrdom, Zalfa was the most saught after woman for a wife
 and people were eager to pay the greatest Mahr for her.
 
-

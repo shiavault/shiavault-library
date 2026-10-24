@@ -34,4 +34,3 @@ accept Allah’s will and through our silence we leave our matters in His
 Hands. This is patience. Thus the befalling of calamities, and crying
 over them, is a manifestation of patience.
 
-

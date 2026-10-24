@@ -90,4 +90,3 @@ Surely Allah has said the truth.
 [^1]: The exact words of the Prophet were: “... slam it on the wall,” an
 expression the Arabs use meaning “discard” or “ignore” it. \_\_ Tr.
 
-

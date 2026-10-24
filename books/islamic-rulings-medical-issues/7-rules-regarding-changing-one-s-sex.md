@@ -21,4 +21,3 @@ change sex at the same time?
 Answer: It would not be far-fetched that their marriage would remain
 valid, but as a precaution they should renew their marriage contract.
 
-

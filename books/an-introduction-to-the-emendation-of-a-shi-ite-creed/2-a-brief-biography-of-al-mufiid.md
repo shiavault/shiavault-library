@@ -381,4 +381,3 @@ Kamalu 'd-din, vol.20, pp.362-8; al-Khisal, vol.1, p.215; Majma‘u
 
 [^18]: ar-Rasail, offset, Tehran, 1377, pp.230-42.
 
-

@@ -122,4 +122,3 @@ was not allow- ed to come in. In short, the children of the Prophet were
 from the very beginning con- sidered as a rival party and throughout the
 period of the Caliphate were treated as such.
 
-

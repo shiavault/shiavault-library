@@ -5,12 +5,8 @@ No one ever knew that looking handsome could become a criminal offence
 until the rule of ‘Umar b. al-Khaṭṭab. The grand Sunni *muffasir*, Imam
 al-Alusi (d. 1270 H), proclaims:
 
-<blockquote dir="rtl">
-  <p>
-صح أن عمر بن الخطاب رضي الله تعالى عنه غرب نصر بن حجاج إلى البصرة بسبب
-أنه لجماله افتتن بعض النساء به
-  </p>
-</blockquote>
+> صح أن عمر بن الخطاب رضي الله تعالى عنه غرب نصر بن حجاج إلى البصرة بسبب
+> أنه لجماله افتتن بعض النساء به
 
 It is **authentically transmitted** that ‘Umar b. al-Khaṭṭab, may Allah
 the Most High pleased be pleased him, banished Nasr b. Hajjaj to Basra
@@ -18,16 +14,12 @@ because - due to his good looks, some women were obsessed with him.[^1]
 
 Al-Hafiz (d. 852 H) also submits:
 
-<blockquote dir="rtl">
-  <p>
-وقد أخرج بن سعد والخرائطي بسند صحيح عن عبد الله بن بريدة قال بينما عمر
-بن الخطاب يعس ذات ليلة في خلافته فإذا امرأة تقول هل من سبيل إلى خمر
-فأشربها أو من سبيل إلى نصر بن حجاج فلما أصبح سأل عنه فأرسل إليه فإذا
-هو من أحسن الناس شعرا وأصبحهم وجها فأمره عمر أن يطم شعره ففعل فخرجت
-جبهته فازداد حسنا فأمره أن يعتم فازداد حسنا فقال عمر لا والذي نفسي
-بيده لا تجامعني ببلد فأمر له بما يصلحه وصيره إلى البصرة
-  </p>
-</blockquote>
+> وقد أخرج بن سعد والخرائطي بسند صحيح عن عبد الله بن بريدة قال بينما عمر
+> بن الخطاب يعس ذات ليلة في خلافته فإذا امرأة تقول هل من سبيل إلى خمر
+> فأشربها أو من سبيل إلى نصر بن حجاج فلما أصبح سأل عنه فأرسل إليه فإذا
+> هو من أحسن الناس شعرا وأصبحهم وجها فأمره عمر أن يطم شعره ففعل فخرجت
+> جبهته فازداد حسنا فأمره أن يعتم فازداد حسنا فقال عمر لا والذي نفسي
+> بيده لا تجامعني ببلد فأمر له بما يصلحه وصيره إلى البصرة
 
 Ibn Sa’d and al-Kharaiṭi have recorded **with a** ***sahih*** **chain**
 from ‘Abd Allah b. Buraydah who narrated:
@@ -70,14 +62,10 @@ the presence of Prophet Yusuf, *‘alaihi al-salam*, in Madinah had the
 latter lived during the former’s rule. These are Allah’s Words
 concerning His prophet:
 
-<blockquote dir="rtl">
-  <p>
-وقال نسوة في المدينة امرأت العزيز تراود فتاها عن نفسه قد شغفها حبا إنا
-لنراها في ضلال مبين فلما سمعت بمكرهن أرسلت إليهن وأعتدت لهن متكأ وآتت
-كل واحدة منهن سكينا وقالت اخرج عليهن فلما رأينه أكبرنه وقطعن أيديهن
-وقلن حاش لله ما هذا بشرا إن هذا إلا ملك كريم
-  </p>
-</blockquote>
+> وقال نسوة في المدينة امرأت العزيز تراود فتاها عن نفسه قد شغفها حبا إنا
+> لنراها في ضلال مبين فلما سمعت بمكرهن أرسلت إليهن وأعتدت لهن متكأ وآتت
+> كل واحدة منهن سكينا وقالت اخرج عليهن فلما رأينه أكبرنه وقطعن أيديهن
+> وقلن حاش لله ما هذا بشرا إن هذا إلا ملك كريم
 
 And the women in the city said, “The Queen is seeking to seduce her
 young man (i.e. Yusuf, her slave then). Indeed, she loves him violently.
@@ -116,5 +104,4 @@ who are ‘too sexy’ for Saudi Arabia”, The Independent, Friday 26 April
 [http://www.independent.co.uk/news/world/middle-east/omar-borkan-al-gala-...
 
 [^4]: Qur’an 12:30-31
-
 

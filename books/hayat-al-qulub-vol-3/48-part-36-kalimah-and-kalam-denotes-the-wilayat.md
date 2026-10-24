@@ -7,11 +7,7 @@ There are many verses about it:
 
 First verse:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ.
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ.
 
 ***And he made it a word to continue in his posterity that they may
 return… (Surah Zukhruf 43:28)***
@@ -44,12 +40,8 @@ knowledge of the Quran. The Holy Prophet (S) taught me and this
 knowledge shall remain in his progeny till the day of Qiyamat. Then the
 Hazrat recited this verse:
 
-<blockquote dir="rtl">
-  <p>
-…فِيهِ سَكِينَةٌ مِنْ رَبِّكُمْ وَبَقِيَّةٌ مِمَّا تَرَكَ آلُ مُوسَى
-وَآلُ هَارُونَ تَحْمِلُهُ الْمَلَائِكَةُ…
-  </p>
-</blockquote>
+> …فِيهِ سَكِينَةٌ مِنْ رَبِّكُمْ وَبَقِيَّةٌ مِمَّا تَرَكَ آلُ مُوسَى
+> وَآلُ هَارُونَ تَحْمِلُهُ الْمَلَائِكَةُ…
 
 ***…in which there is tranquillity from your Lord and residue of the
 relics of what the children of Musa and the children of Haroon have
@@ -104,23 +96,15 @@ the progeny of Imam Husain (a.s.) and not in the descendants of Imam
 Hasan (a.s.), because Allah is wise in His actions. Whatever He does it
 is according to wisdom, as He says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.
-  </p>
-</blockquote>
+> لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ.
 
 ***He cannot be questioned concerning what He does and they shall be
 questioned.*** ***(Surah Anbiya 21:23)***
 
 Second verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ. إِنَّهُمْ
-لَهُمْ الْمَنصُورُونَ. وَإِنَّ جُندَنَا لَهُمْ الْغَالِبُونَ.
-  </p>
-</blockquote>
+> وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ. إِنَّهُمْ
+> لَهُمْ الْمَنصُورُونَ. وَإِنَّ جُندَنَا لَهُمْ الْغَالِبُونَ.
 
 ***And certainly Our word has already gone forth in respect of Our
 servants, the apostles. Most surely they shall be the assisted ones, and
@@ -132,13 +116,9 @@ of this verse that: We are Allah’s host (party).[^1]
 
 Third verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّمَا فِي الْأَرْضِ مِنْ شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ
-يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ كَلِمَاتُ
-اللَّهِ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ.
-  </p>
-</blockquote>
+> وَلَوْ أَنَّمَا فِي الْأَرْضِ مِنْ شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ
+> يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ كَلِمَاتُ
+> اللَّهِ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ.
 
 ***And were every tree that is in the earth (made into) pens and the see
 (to supply it with ink), with seven more seas to increase it, the words
@@ -168,13 +148,9 @@ does not prove that ‘words’ refer to the sciences that Allah reveals on
 the Prophet and Imams (a.s.). Indeed it is one of the excellences of
 these gentlemen.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي لَنَفِدَ
-الْبَحْرُ قَبْلَ أَنْ تَنفَدَ كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا
-بِمِثْلِهِ مَدَدًا.
-  </p>
-</blockquote>
+> قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي لَنَفِدَ
+> الْبَحْرُ قَبْلَ أَنْ تَنفَدَ كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا
+> بِمِثْلِهِ مَدَدًا.
 
 ***Say: If the sea were ink for the words of my Lord, the sea would
 surely be consumed before the words of my Lord are exhausted, though We
@@ -188,12 +164,8 @@ mentioned after this. There are many traditions in the explanation of
 
 Fourth verse:
 
-<blockquote dir="rtl">
-  <p>
-فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ
-التَّوَّابُ الرَّحِيمُ.
-  </p>
-</blockquote>
+> فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ
+> التَّوَّابُ الرَّحِيمُ.
 
 ***Then Adam received (some) words from his Lord, so He turned to him
 mercifully, surely He is oft returning (to mercy), he merciful. (Surah
@@ -225,12 +197,8 @@ tradition ‘by the right of Muhammad and Aale Muhammad’.
 And Ibne Maghazali Shafei has also narrated similarly in the explanation
 of this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ عَهِدْنَا إِلَى آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ
-عَزْمًا.
-  </p>
-</blockquote>
+> وَلَقَدْ عَهِدْنَا إِلَى آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ
+> عَزْمًا.
 
 ***And certainly We gave a commandment to Adam before, but he forgot;
 and We did not find in him any determination. (Surah Taha 20:115)***
@@ -244,11 +212,7 @@ volume in the account of Prophet Adam.
 
 The Sixth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ.
-  </p>
-</blockquote>
+> وَإِذْ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ.
 
 ***Remember that time when Allah took the examination of Ibrahim with
 some words, so Ibrahim fulfilled it. (Surah Baqarah 2:124)***
@@ -270,14 +234,10 @@ Muhammad (a.s.).[^2]
 
 The Seventh verse:
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَى رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
-فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَى رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
-وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَى وَكَانُوا أَحَقَّ بِهَا وَأَهْلَهَا
-وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا.
-  </p>
-</blockquote>
+> فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَى رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
+> فَأَنْزَلَ اللَّهُ سَكِينَتَهُ عَلَى رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ
+> وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَى وَكَانُوا أَحَقَّ بِهَا وَأَهْلَهَا
+> وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا.
 
 ***But Allah sent down His tranquillity on His Apostle and on the
 believers and made them keep the word of guarding (against evil), and
@@ -313,12 +273,8 @@ of guarding (against evil)’. There are many traditions regarding this.
 
 Eighth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَتَمَّتْ كَلِمَةُ رَبِّكَ صِدْقًا وَعَدْلًا لَا مُبَدِّلَ
-لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ.
-  </p>
-</blockquote>
+> وَتَمَّتْ كَلِمَةُ رَبِّكَ صِدْقًا وَعَدْلًا لَا مُبَدِّلَ
+> لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ.
 
 ***And the word of your Lord has been accomplished truly and justly,
 there is none who can change His words, and He is the Hearing, the
@@ -344,11 +300,7 @@ which he sees the actions of the people of the cities. Whenever Allah
 makes anyone an Imam He says the same words. The Almighty Allah says at
 another place:
 
-<blockquote dir="rtl">
-  <p>
-لَا تَبْدِيلَ لِكَلِمَاتِ اللَّهِ.
-  </p>
-</blockquote>
+> لَا تَبْدِيلَ لِكَلِمَاتِ اللَّهِ.
 
 ***There is none who can change the words of Allah… (Surah Yunus
 12:64)***
@@ -357,15 +309,11 @@ Ali Ibne Ibrahim says that it means no one can change Imamate.
 
 Ninth verse:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ يَعِدُكُمْ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ أَنَّهَا لَكُمْ
-وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ
-اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ وَيَقْطَعَ دَابِرَ
-الْكَافِرِينَ. لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ
-الْمُجْرِمُونَ.
-  </p>
-</blockquote>
+> وَإِذْ يَعِدُكُمْ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ أَنَّهَا لَكُمْ
+> وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ
+> اللَّهُ أَنْ يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ وَيَقْطَعَ دَابِرَ
+> الْكَافِرِينَ. لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ
+> الْمُجْرِمُونَ.
 
 ***When Allah promised you one of the two parties that it shall be yours
 and you loved that the one not armed should be yours and Allah desired
@@ -396,13 +344,9 @@ destroy Bani Umayyah and uproot them.[^3]
 
 Tenth verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ يَشَأْ اللَّهُ يَخْتِمْ عَلَى قَلْبِكَ وَيَمْحُ اللَّهُ
-الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ إِنَّهُ عَلِيمٌ بِذَاتِ
-الصُّدُورِ.
-  </p>
-</blockquote>
+> فَإِنْ يَشَأْ اللَّهُ يَخْتِمْ عَلَى قَلْبِكَ وَيَمْحُ اللَّهُ
+> الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ إِنَّهُ عَلِيمٌ بِذَاتِ
+> الصُّدُورِ.
 
 ***But if Allah pleased, He would seal your heart; and Allah will blot
 out the falsehood and confirm the truth with His words; surely He is
@@ -412,12 +356,8 @@ Kulaini has narrated from Imam Baqir (a.s.) that he said: The Almighty
 Allah has said for His enemies who were the friends of Satan, who denied
 the Prophet and did not obey him.
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنْ
-الْمُتَكَلِّفِينَ.
-  </p>
-</blockquote>
+> قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنْ
+> الْمُتَكَلِّفِينَ.
 
 ***Say: I do not ask you for any reward for it; nor am I of those who
 affect… (Surah Sad 38:86)***
@@ -438,12 +378,8 @@ snatch the Caliphate and never return it to them. So Allah wanted to
 inform His Prophet about whatever they had concealed in their hearts and
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَقُولُونَ افْتَرَى عَلَى اللَّهِ كَذِبًا فَإِنْ يَشَأْ اللَّهُ
-يَخْتِمْ عَلَى قَلْبِكَ.
-  </p>
-</blockquote>
+> أَمْ يَقُولُونَ افْتَرَى عَلَى اللَّهِ كَذِبًا فَإِنْ يَشَأْ اللَّهُ
+> يَخْتِمْ عَلَى قَلْبِكَ.
 
 ***Or do they say: He has forged a lie against Allah? But if Allah
 pleased, He would seal your heart…(Surah Shuraa 42:23)***
@@ -453,12 +389,8 @@ stopped sending revelations, and it would not have been possible to make
 people aware about the excellence of Ahlul Bayt (a.s.) and their
 friendship. Then He said:
 
-<blockquote dir="rtl">
-  <p>
-وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ إِنَّهُ
-عَلِيمٌ بِذَاتِ الصُّدُورِ.
-  </p>
-</blockquote>
+> وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ إِنَّهُ
+> عَلِيمٌ بِذَاتِ الصُّدُورِ.
 
 ***…and Allah will blot out the falsehood and confirm the truth with His
 words; surely He is Cognizant of what is in the breasts. (Surah Shuraa
@@ -470,15 +402,11 @@ and they have hatched a plan of committing injustice on them.
 
 Eleventh verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ الظَّالِمِينَ
-لَهُمْ عَذَابٌ أَلِيمٌ. تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا
-كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ وَالَّذِينَ آمَنُوا وَعَمِلُوا
-الصَّالِحَاتِ فِي رَوْضَاتِ الْجَنَّاتِ لَهُمْ مَا يَشَاءُونَ عِنْدَ
-رَبِّهِمْ ذَلِكَ هُوَ الْفَضْلُ الكَبِيرُ.
-  </p>
-</blockquote>
+> وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ الظَّالِمِينَ
+> لَهُمْ عَذَابٌ أَلِيمٌ. تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا
+> كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ وَالَّذِينَ آمَنُوا وَعَمِلُوا
+> الصَّالِحَاتِ فِي رَوْضَاتِ الْجَنَّاتِ لَهُمْ مَا يَشَاءُونَ عِنْدَ
+> رَبِّهِمْ ذَلِكَ هُوَ الْفَضْلُ الكَبِيرُ.
 
 ***And were it not for the word of judgment, decision would have
 certainly been given between them; and surely the unjust shall have a
@@ -502,12 +430,8 @@ do good deeds that they are ordered.
 
 Twelfth verse:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَةُ رَبِّكَ لَا يُؤْمِنُونَ.
-وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّى يَرَوْا الْعَذَابَ الْأَلِيمَ.
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَةُ رَبِّكَ لَا يُؤْمِنُونَ.
+> وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّى يَرَوْا الْعَذَابَ الْأَلِيمَ.
 
 ***Surely those against whom the word of your Lords has proved true will
 not believe, though every sign should come to them, until they witness
@@ -525,12 +449,8 @@ refers to the Wilayat of Ali (a.s.).
 
 Thirteenth verse:
 
-<blockquote dir="rtl">
-  <p>
-إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ
-يَرْفَعُهُ.
-  </p>
-</blockquote>
+> إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ
+> يَرْفَعُهُ.
 
 ***To Him do ascend the good words and the good deeds, lift them up.
 (Surah Fatir:10)***
@@ -567,5 +487,4 @@ means the holy Imams (a.s.) and this is according to the explanation of
 the verse, because the battle of Badr was won at the hands of the Holy
 Prophet (S) and Amirul Momineen (a.s.) as mentioned in the chapter of
 war.
-
 

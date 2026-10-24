@@ -151,4 +151,3 @@ basis. For example, the woman, whose husband divorces her after he has
 not slept with her for a long time that may be years for some reasons,
 has to undergo the iddah since the first moment of divorce.
 
-

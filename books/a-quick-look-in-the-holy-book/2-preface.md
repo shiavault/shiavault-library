@@ -34,4 +34,3 @@ with many mistakes, wishing by His grace to lift me up.
 
 **Imam Jowad Al-Ansari PhD candidate**
 
-

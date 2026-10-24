@@ -47,13 +47,9 @@ way towards perfection has been kept open equally for both genders.
 Therefore, the Qur’anic address in this area includes both men and women
 in an equal fashion and in one verse we read:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثىَ وَهُوَ مُؤْمِنٌ
-فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
-بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> مَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثىَ وَهُوَ مُؤْمِنٌ
+> فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُمْ
+> بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
 ***Whoever acts righteously, [whether] male or female, should he be
 faithful, —We shall revive him with a good life and pay them their
@@ -61,17 +57,13 @@ reward by the best of what they used to do.***[^1]
 
 In another place in the Qur’an we read:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ
-وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ
-وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ
-وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ
-وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ
-وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ
-أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا
-  </p>
-</blockquote>
+> إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ
+> وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ
+> وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ
+> وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ
+> وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ
+> وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ
+> أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا
 
 ***Indeed the muslim men and the muslim women, the faithful men and the
 faithful women, the obedient men and the obedient women, the truthful
@@ -86,13 +78,9 @@ In addition, this well-known verse of the Qur’an also classifies the
 spiritual proximity which one can attain to Allah (S.w.T.) as being
 accessible by anyone regardless of their gender – male or female:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
 
 ***O mankind! Indeed We created you from a male and a female, and made
 you nations and tribes that you may identify with one another. Indeed
@@ -125,11 +113,7 @@ which you displayed to your sister you did not extend to your brother
 (by way of suckling) – is it because he is a man?” The Prophet (S)
 replied:
 
-<blockquote dir="rtl">
-  <p>
-لِأَنَّهَا كَانَتْ أَبَرَّ بِوَالِدَيهَا مِنْهُ
-  </p>
-</blockquote>
+> لِأَنَّهَا كَانَتْ أَبَرَّ بِوَالِدَيهَا مِنْهُ
 
 ***“[This was because] she is much nicer to her mother and father than
 he (the brother) is.”***[^4]
@@ -154,12 +138,8 @@ historical event.
 The Prophet (S) said the following about her and her bravery in the
 Battle of Uhud:
 
-<blockquote dir="rtl">
-  <p>
-لَمَقَاُم نُسَيْبَةُ بِنْتِ كَعْبٍ الْيَوْمُ خَيْرٌ مِنْ مَقَامِ
-فُلاَنٍ وَ فُلاَنٍ
-  </p>
-</blockquote>
+> لَمَقَاُم نُسَيْبَةُ بِنْتِ كَعْبٍ الْيَوْمُ خَيْرٌ مِنْ مَقَامِ
+> فُلاَنٍ وَ فُلاَنٍ
 
 *Today, the rank and status of Nusaybah bint Ka’b is better than so and
 so (some of the people who were engaged in fighting in the Battle of
@@ -188,11 +168,7 @@ In this section as well, there are no differences between men and women
 – meaning that the ways which one can attain knowledge are open to both
 genders equally - just as the famous Prophetic sentence states:
 
-<blockquote dir="rtl">
-  <p>
-طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلى كُلِّ مُسْلِمٍ وَ مُسْلِمَةٍ
-  </p>
-</blockquote>
+> طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلى كُلِّ مُسْلِمٍ وَ مُسْلِمَةٍ
 
 *Seeking knowledge is compulsory upon every Muslim man and Muslim
 woman.*[^7]
@@ -293,5 +269,4 @@ completely identical must never be accepted.
 [^7]: This tradition has been mentioned by the late ‘Allamah Majlisi in
 his book, Awali al-Layali from the Noble Prophet of Islam (S) and has
 also been mentioned in Mizan al-Hikmah from the book Majmu’atul Warram.
-
 

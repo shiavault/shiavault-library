@@ -44,4 +44,3 @@ Day."*** ***(Qur’an 7: 44-45.)***[^1]
 translation by Mohammed Marmaduke Pickthall, The Meaning of the Glorious
 Koran, New York, 1953.
 
-

@@ -135,4 +135,3 @@ charge appears slight and inconsequential.
 1. Kifayat al-Muwahhidin, I, p.442.
 2. Nahj al-Balaghah, ed., Subhi Salh, p. 493.
 
-

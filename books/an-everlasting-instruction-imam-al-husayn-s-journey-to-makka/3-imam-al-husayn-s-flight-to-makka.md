@@ -3,11 +3,7 @@ Imam al-Husayn’s Flight to Makka
 
 The Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هَذَا لَهُوَ الْقَصَصُ الْحَقُّ
-  </p>
-</blockquote>
+> إِنَّ هَذَا لَهُوَ الْقَصَصُ الْحَقُّ
 
 ***Surely this is an account of Truth. (3:62)***
 
@@ -20,11 +16,7 @@ When the Imam (‘a) is asked to pay his oath of allegiance to Yazid, he
 presents a rational exposition, worthy of consideration. He first
 introduces himself and then Yazid, and thereafter says:
 
-<blockquote dir="rtl">
-  <p>
-مِثْلِي لاَ يُبَايعُ مِثْلَه
-  </p>
-</blockquote>
+> مِثْلِي لاَ يُبَايعُ مِثْلَه
 
 **'My example [who it utterly submissive to Allah] cannot give his hand
 to the like of Yazid [who is an open sinner]"**
@@ -58,13 +50,9 @@ treatise. It is a move of truth towards Truth from the champion of truth
 
 It is narrated in al-Irshad[^2] that:
 
-<blockquote dir="rtl">
-  <p>
-فسار الحسين (عليه السلام) إلى مكة و هو يقر أ " فَخَرَجَ مِنْها خائِفاً
-يَتَرَقَّبُ قالَ رَبِّ نَجِّنِي مِنَ الْقَوم الظَّالِمِين) و لزم
-الطريق الأعظم
-  </p>
-</blockquote>
+> فسار الحسين (عليه السلام) إلى مكة و هو يقر أ " فَخَرَجَ مِنْها خائِفاً
+> يَتَرَقَّبُ قالَ رَبِّ نَجِّنِي مِنَ الْقَوم الظَّالِمِين) و لزم
+> الطريق الأعظم
 
 Then al-Husayn ('a) journeyed to Makka while he recited the following
 verse [of the Qur'an]: 'And he left the place in the state of fear and
@@ -86,12 +74,8 @@ want to be martyred before he fulfills his mission.
 Then when Imam al-Husayn ('a) reaches the outskirts and sees its
 mountains, he recites[^3] the following verse of Qur'an:
 
-<blockquote dir="rtl">
-  <p>
-وَ لَمَّا تَوَجَّهَ تِلْقاءَ مَدْيَنَ قالَ عَسى رَبِّي أَنْ
-يَهْدِيَنِي سَواءَ السَّبِيلِ
-  </p>
-</blockquote>
+> وَ لَمَّا تَوَجَّهَ تِلْقاءَ مَدْيَنَ قالَ عَسى رَبِّي أَنْ
+> يَهْدِيَنِي سَواءَ السَّبِيلِ
 
 ***And when he turned his face towards Midian he said: 'maybe my Lord
 will show me the right way.' (28:22)***
@@ -120,5 +104,4 @@ will not unite with falsehood.
 [^2]: Shaykh Mufid, Kitab al-Irshad, v. 2, p.33
 
 [^3]: Ibid.
-
 

@@ -343,4 +343,3 @@ guilty of moral sin still finding a place in paradise, that "they
 thought like the Khawarij". Thus there is a degree of commonality
 between the lexical meaning of the word and its particular reference.
 
-

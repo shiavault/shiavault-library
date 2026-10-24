@@ -39,4 +39,3 @@ is the Prophet, nabi (57) ; it refers also to the soul of men (92) ; the
 anthropomorphist are "like animals that look for the rind and chaff, and
 never get to the fruit and grain" (59). Cp. Tawhid, Bib 51, pp.265-266.
 
-

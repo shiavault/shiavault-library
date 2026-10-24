@@ -600,4 +600,3 @@ ambassadors of Islamic countries on the occasion of the Holy Prophet’s
 with government officials of the Islamic Republic on the occasion of the
 Holy Prophet’s (S) Be’that
 
-

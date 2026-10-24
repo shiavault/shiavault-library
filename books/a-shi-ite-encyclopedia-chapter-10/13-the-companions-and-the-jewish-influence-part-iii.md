@@ -87,4 +87,3 @@ taking information from Abdullah Ibn Amr al-Aas.
 
 - Fath al-Bari, Ibn Hajar al-Asqalani, v1, p167
 
-

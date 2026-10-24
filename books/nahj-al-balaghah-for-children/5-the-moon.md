@@ -12,4 +12,3 @@ bright **moon** in an orbit that rolls around.
 
 (Sermon 1)
 
-

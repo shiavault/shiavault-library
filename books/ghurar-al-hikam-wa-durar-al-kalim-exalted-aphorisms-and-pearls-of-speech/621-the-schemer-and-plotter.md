@@ -20,11 +20,7 @@ form of a human being.
 scheme back on him.
 
 > 4ـ مَنْ مَكَرَ بِالنَّاسِ رَدَّ اللّهُ سُبْحانَهُ مَكْرَهُ في
-<blockquote dir="rtl">
-  <p>
-عُنُقِهِ.
-  </p>
-</blockquote>
+> عُنُقِهِ.
 
 5. There is no trustworthiness in the schemer.
 
@@ -33,5 +29,4 @@ scheme back on him.
 6. Evil scheming does not beset anyone but those who practice it.
 
 > 6ـ لايَحيقُ المَكْرُ السَّيئُ إلاّ بِأهْلِهِ.
-
 

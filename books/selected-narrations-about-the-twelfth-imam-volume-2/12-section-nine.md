@@ -148,4 +148,3 @@ citing al-Ṭabarānī in his Mu\`jam and Abū Nu\`aim and Nu\`aim. He has
 also recorded it on chap. 9, sect. 3, p. 223, with the wording: “The
 Mahdī will. [He will be] from the descendants of al-Ḥusayn.”
 
-

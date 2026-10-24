@@ -1,22 +1,14 @@
 The Expansive Earth
 ===================
 
-<blockquote dir="rtl">
-  <p>
-وَالأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ
-  </p>
-</blockquote>
+> وَالأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ
 
 ***And the earth, We have made it a wide extent; how well have We then
 spread (it) out. (al-Dhariyat, 51/47)***
 
 > وَالأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا
 > فِيهَا مِن كُلِّ شَيْءٍ مَّوْزُونٍ {o} وَجَعَلْنَا لَكُمْ فِيهَا
-<blockquote dir="rtl">
-  <p>
-مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ
-  </p>
-</blockquote>
+> مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ
 
 ***And the earth - We have spread it forth and made in it firm mountains
 and caused to grow in it of every suitable thing. And We have made in it
@@ -121,11 +113,7 @@ this regard, the Qur’an declares that the earth has the capacity to
 support the entirety of its inhabitants and satisfy their various and
 diverse needs:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ
-  </p>
-</blockquote>
+> وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ
 
 ***And We have made in it means of subsistence for you and for him whom
 you cannot sustain. (al-Hijr, 15/19)***
@@ -193,12 +181,8 @@ Thus, when we contemplate the foundations of existence, we come to
 realize that it abounds with splendour, grandeur and greatness. The
 Qur’an states in this regard:
 
-<blockquote dir="rtl">
-  <p>
-مَّا تَرَى فِي خَلْقِ الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ
-هَلْ تَرَى مِن فُطُورٍ
-  </p>
-</blockquote>
+> مَّا تَرَى فِي خَلْقِ الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ
+> هَلْ تَرَى مِن فُطُورٍ
 
 ***You will not see any incongruity in the creation of the Beneficent
 Lord; then look again, can you see any disorder? (al-Mulk, 67/3)***
@@ -214,5 +198,4 @@ humanity.
 
 [^1]:  Have We not made the earth to draw together to itself; the living
 and the dead (Al-Mursalat, 77/25,26)
-
 

@@ -18,12 +18,8 @@ see and dump to speak for them there is nothing in the universe to save
 them from the fire of hell. In Holy Qur’an it is mentioned in many
 places that these people will taste severe punishment. Like this verse:
 
-<blockquote dir="rtl">
-  <p>
-خَتَمَ اللهُ عَلَى قُلُوبِهمْ وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ
-غِشَاوَةٌ وَلَهُمْ عَذَابٌ عظِيمٌ
-  </p>
-</blockquote>
+> خَتَمَ اللهُ عَلَى قُلُوبِهمْ وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ
+> غِشَاوَةٌ وَلَهُمْ عَذَابٌ عظِيمٌ
 
 ***“Allah has set a seal upon their hearts and upon their hearing and
 there is a covering over their eyes, and there is a great punishment for
@@ -38,5 +34,4 @@ There is no doubt that forgiveness and pardon is based on some
 conditions, as intercession is also based on some conditions. We will
 first shed light on this issue with Qur’anic Ayats, traditions and the
 view points of some learned scholars.
-
 

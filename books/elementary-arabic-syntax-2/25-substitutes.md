@@ -30,4 +30,3 @@ implication is that they have to be contracted to a pronoun that refers
 to the indicated word. For example: **قرأتُ الکتابَ نصفَهُ** (I read the
 book, half of it.)
 
-

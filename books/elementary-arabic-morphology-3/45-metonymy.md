@@ -17,4 +17,3 @@ example**:کم** **کتاباً** **عِندک؟** .
 237. **کذا** is a metonym for numbers, actions, and words and is usaully
 repeated, for example**:عِندي کذا و کذا کِتاباً.**
 
-

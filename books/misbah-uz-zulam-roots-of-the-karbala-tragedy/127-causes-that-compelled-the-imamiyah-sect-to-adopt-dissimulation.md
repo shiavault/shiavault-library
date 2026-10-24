@@ -38,4 +38,3 @@ consensus of non-Bani Hashim persons and invalidity of consensus of Bani
 Hashim persons, the difference would be obvious. Indeed, this matter was
 established to murder the truth, as is proved to all.
 
-

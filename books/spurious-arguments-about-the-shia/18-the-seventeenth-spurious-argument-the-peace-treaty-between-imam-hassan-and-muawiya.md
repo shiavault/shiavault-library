@@ -28,4 +28,3 @@ treaty between Imam Hasan and Mu’awiya would be certain that Imam Hasan,
 his father, and his brother (Imam Husayn) thought that Mu’awiya and all
 the Umayyads were of the same ilk without any difference.
 
-

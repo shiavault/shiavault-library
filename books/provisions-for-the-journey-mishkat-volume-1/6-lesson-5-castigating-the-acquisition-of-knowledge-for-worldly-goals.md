@@ -152,11 +152,7 @@ people’s questions? Has it been made incumbent upon the people to know
 everything? Only Allah knows everything and the others have only used a
 drop of His knowledge, as has been stated in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-... وَمَا أُوتِيتُم مِن الْعِلْمِ الاَّ قَليِلاً
-  </p>
-</blockquote>
+> ... وَمَا أُوتِيتُم مِن الْعِلْمِ الاَّ قَليِلاً
 
 ***“… and you are not given out of knowledge but a little.”***[^5]
 
@@ -211,14 +207,10 @@ The Qur’an’s expression is that sometimes the dwellers of heaven address
 the dwellers of hell and sometimes the dwellers of hell address the
 dwellers of paradise:
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَی أَصْحَابُ الْجَنَّةِ أَصْحَابَ النَّارِ أَنْ قَدْ وَجَدْنَا
-مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ
-حَقًّا قَالُوا نَعَمْ فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَن لَعْنَةُ
-اللهِ عَلَی الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَنَادَی أَصْحَابُ الْجَنَّةِ أَصْحَابَ النَّارِ أَنْ قَدْ وَجَدْنَا
+> مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ
+> حَقًّا قَالُوا نَعَمْ فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَن لَعْنَةُ
+> اللهِ عَلَی الظَّالِمِينَ
 
 ***“And the dwellers of the garden will call out to the inmates of the
 fire, ‘Surely we have found what our Lord promised us to be true; have
@@ -302,5 +294,4 @@ does not derive pleasure from remembrance of me)…”[^8]
 [^7]: Bihar al-Anwar, vol. 2, p. 34.
 
 [^8]: Ibid., p. 32.
-
 

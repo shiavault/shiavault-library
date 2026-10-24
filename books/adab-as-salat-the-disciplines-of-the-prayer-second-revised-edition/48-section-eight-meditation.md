@@ -132,4 +132,3 @@ difference).
 
 [^9]: Nahj al-Balāghah, sermon 109 (with some change in the wording).
 
-

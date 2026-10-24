@@ -167,4 +167,3 @@ have always felt this providence, perseverance and success inspired by
 you-dignified be Thy prestige. Prescribe us with the faithful and the
 Muslims.
 
-

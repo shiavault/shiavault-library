@@ -669,4 +669,3 @@ naturally and it was not as if they wanted to act.
 
 [^8]: Meaning if he was the servant of Allah.
 
-

@@ -44,4 +44,3 @@ aorist verbs. For example: **لَم یَفعَلا**
 weak verb takes the place of a *sakūn*. For example: **لَم یَرمِ** (he
 did not throw)
 
-

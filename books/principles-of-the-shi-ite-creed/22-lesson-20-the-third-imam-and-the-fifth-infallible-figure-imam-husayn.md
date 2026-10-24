@@ -101,4 +101,3 @@ mankind.[^3]
 
 [^3]: Iqbal by ibn Tawus, p. 339.
 
-

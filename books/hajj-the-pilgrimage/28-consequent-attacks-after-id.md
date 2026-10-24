@@ -116,4 +116,3 @@ the victory of Saquifah, the murderer will revenge in Karbala, shedding
 the blood of the prophet's family at the bank of Euphrates. So much
 injustice was done in the name of the Caliphate of the messenger of God!
 
-

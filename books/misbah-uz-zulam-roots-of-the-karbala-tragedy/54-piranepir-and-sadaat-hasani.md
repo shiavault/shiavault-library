@@ -130,4 +130,3 @@ in wrong hands can make a boy from a Shia family a Sunni.
 
 [^2]: Surah Shura 42:23
 
-

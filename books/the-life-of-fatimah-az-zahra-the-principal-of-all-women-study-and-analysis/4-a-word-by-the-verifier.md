@@ -25,4 +25,3 @@ to Allah and Allah’s blessing be on Muhammad and his pure progeny.
 Mahdi Baqir al-Qurashi
 13th Muharram, 1424 AH
 
-

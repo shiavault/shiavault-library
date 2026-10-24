@@ -83,4 +83,3 @@ half the daytime sleeping. The Prophet (S) is quoted saying that the
 sleep of a fasting person is an act of adoration and his breath praises
 the Almighty.
 
-

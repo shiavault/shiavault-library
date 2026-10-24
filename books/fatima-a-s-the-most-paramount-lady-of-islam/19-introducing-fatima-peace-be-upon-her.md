@@ -79,4 +79,3 @@ and vice versa. The Prophet (peace be upon him and his descendants) put
 Fatima’s hand into Ali’s, and the fruit of this marriage was some
 children, as Hasan, Hossein, Zeineb and Kolthum (a.s).
 
-

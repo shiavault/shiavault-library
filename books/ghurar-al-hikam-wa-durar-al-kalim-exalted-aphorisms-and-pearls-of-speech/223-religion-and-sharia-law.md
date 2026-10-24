@@ -26,11 +26,7 @@ the one who follows it arrives [at the destination] and gains [success],
 and the one who stands away from it strays and regrets.
 
 > 5ـ ألا وإنَّ شَرايِعَ الدِّينِ واحِدَةٌ، وسُبُلَهُ قاصِدَةٌ، فَمَنْ
-<blockquote dir="rtl">
-  <p>
-أخَذَ بِها لَحِقَ وَغَنِمَ، ومَنْ وَقَفَ عَنْها ضَلَّ ونَدِمَ.
-  </p>
-</blockquote>
+> أخَذَ بِها لَحِقَ وَغَنِمَ، ومَنْ وَقَفَ عَنْها ضَلَّ ونَدِمَ.
 
 6. Where are the different paths taking you?
 
@@ -45,11 +41,7 @@ deceiving you?
 seek to substitute facts for lies and exchange truth for falsehood?
 
 > 8ـ أيْنَ تَضِلُّ عُقُولُكُم، وتَزيغُ نُفُوسُكُمْ، أتَسْتَبْدِلُونَ
-<blockquote dir="rtl">
-  <p>
-الكِذْبَ بِالصِّدقِ، وَتَعْتاضُونَ الباطِلَ بِالحَقِّ؟
-  </p>
-</blockquote>
+> الكِذْبَ بِالصِّدقِ، وَتَعْتاضُونَ الباطِلَ بِالحَقِّ؟
 
 9. The greatest felicity is [in] the uprightness of religion.
 
@@ -68,65 +60,41 @@ corrupted by [lustful] desire.
 highest worship is being sincere in your action.
 
 > 12ـ أفْضَلُ الدِّينِ قَصْرُ الأمَلِ، وأعْلَى العِبادَةِ إخْلاصُ
-<blockquote dir="rtl">
-  <p>
-العَمَلِ.
-  </p>
-</blockquote>
+> العَمَلِ.
 
 13. Verily Allah, the Glorified, grants this world to [both] the one
 whom He loves and the one whom He does not love, but He grants religion
 only to the one whom He loves.
 
 > 13ـ إنَّ اللّهَ سُبْحانَهُ يُعْطِي الدُّنيا مَنْ يُحِبُّ ومَنْ
-<blockquote dir="rtl">
-  <p>
-لايُحِبُّ، ولا يُعْطِي الدِّينَ إلاّ مَنْ يُحِبُّ.
-  </p>
-</blockquote>
+> لايُحِبُّ، ولا يُعْطِي الدِّينَ إلاّ مَنْ يُحِبُّ.
 
 14. Verily Allah, the Most High, does not give the religion except to
 His chosen ones and the elite from among His creation.
 
 > 14ـ إنَّ اللّهَ تعالى لا يُعْطِي الدِّينَ إلاّ لِخاصَّتِهِ وصَفْوَتِهِ
-<blockquote dir="rtl">
-  <p>
-مِنْ خَلْقِهِ.
-  </p>
-</blockquote>
+> مِنْ خَلْقِهِ.
 
 15. Indeed the best religion is loving for the sake of Allah, hating for
 the sake of Allah, taking for the sake of Allah and giving for the sake
 of Allah, the Glorified.
 
 > 15ـ إنَّ أفْضَلَ الدِّينِ الحُبُّ فِي اللّهِ، والبُغْضُ فِي اللّهِ
-<blockquote dir="rtl">
-  <p>
-والأخْذُ فِي اللّهِ، وَالعَطاءُ فِي اللّهِ سُبْحانَه.
-  </p>
-</blockquote>
+> والأخْذُ فِي اللّهِ، وَالعَطاءُ فِي اللّهِ سُبْحانَه.
 
 16. Indeed the religion [of Islam] is like a tree, its roots are
 certitude in Allah and its fruits are befriending for the sake of Allah
 and having enmity for the sake of Allah, the Glorified.
 
 > 16ـ إنَّ الدّينَ كَشَجَرَة أصْلُها اليَقينُ بِاللّهِ، وثَمَرُهاَ
-<blockquote dir="rtl">
-  <p>
-المُوالاةُ فِي اللّهِ والمُعاداةُ فِي اللّهِ سُبْحانَهُ.
-  </p>
-</blockquote>
+> المُوالاةُ فِي اللّهِ والمُعاداةُ فِي اللّهِ سُبْحانَهُ.
 
 17. Verily Allah, the Glorified, has illuminated the path of truth and
 has clarified its ways, so [there is] either inescapable wretchedness or
 eternal felicity.
 
 > 17ـ إنَّ اللّهَ سُبْحانَهُ قَدْ أنارَ سَبيلَ الحَقِّ، وأوْضَحَ
-<blockquote dir="rtl">
-  <p>
-طُرُقَهُ، فَشِقْوَةٌ لازِمَةٌ، أوْ سَعادةٌ دائِمَةٌ.
-  </p>
-</blockquote>
+> طُرُقَهُ، فَشِقْوَةٌ لازِمَةٌ، أوْ سَعادةٌ دائِمَةٌ.
 
 18. Religion safeguards.
 
@@ -181,11 +149,7 @@ destroyed your religion and your [life in this] world, and you will be
 among the losers in the Hereafter.
 
 > 30ـ إنْ جَعَلْتَ دينَكَ تَـبَعاً لِدُنياكَ أهْلَكْتَ دينَكَ ودُنْياكَ،
-<blockquote dir="rtl">
-  <p>
-وكُنْتَ فِي الآخِرَةِ مِنَ الخاسِرينَ.
-  </p>
-</blockquote>
+> وكُنْتَ فِي الآخِرَةِ مِنَ الخاسِرينَ.
 
 31. The fruit of religion is trustworthiness.
 
@@ -219,11 +183,7 @@ short [false] aspirations, doing good to others and refraining from ugly
 deeds.
 
 > 37ـ جِماعُ الدّينِ في إخلاصِ العَمَلِ، وتَقْصيرِ الأمَلِ، وبَذْلِ
-<blockquote dir="rtl">
-  <p>
-الإحسانِ، والكَفِّ عَنِ القَبيحِ.
-  </p>
-</blockquote>
+> الإحسانِ، والكَفِّ عَنِ القَبيحِ.
 
 38. The beauty of religion is piety.
 
@@ -257,12 +217,8 @@ and safeguard your religion and your trust through your impartiality
 towards yourself and acting justly among your subjects.
 
 > 44ـ ذُدْ عَنْ شَرايِع الدّينِ، وَحُطْ ثُغُورَ المُسْلِمينَ، وأحرِزْ
-<blockquote dir="rtl">
-  <p>
-دينَكَ وَأمانَتـَكَ بِإنْصافِكَ مِنْ نَفْسِكَ، والعَمَلِ بِالعَدْلِ في
-رَعِيَّتِكَ.
-  </p>
-</blockquote>
+> دينَكَ وَأمانَتـَكَ بِإنْصافِكَ مِنْ نَفْسِكَ، والعَمَلِ بِالعَدْلِ في
+> رَعِيَّتِكَ.
 
 45. The cornerstone of religion is acquiring good deeds.
 
@@ -299,12 +255,8 @@ overcoming vain desires, the paucity of his [worldly] inclinations and
 his being moderate in what he seeks.
 
 > 52ـ سِتَّةٌ يُخْتَبَرُ بِها دينُ الرَّجلِ: قُوَّةُ الدينِ، وصِدْقُ
-<blockquote dir="rtl">
-  <p>
-اليَقينِ، وَشِدَّةُ التَّقوى، ومُغالَبَةُ الهَوى، وقِلَّةُ الرََّغْبِ،
-والإجْمالُ فِي الطَّلَبِ.
-  </p>
-</blockquote>
+> اليَقينِ، وَشِدَّةُ التَّقوى، ومُغالَبَةُ الهَوى، وقِلَّةُ الرََّغْبِ،
+> والإجْمالُ فِي الطَّلَبِ.
 
 53. The pinnacle of religion is patience, certitude and struggling
 against vain desires.
@@ -317,12 +269,8 @@ paying the *zakāt* [alms-tax], performing the Hajj [pilgrimage] and
 renouncing the pleasures of this world.
 
 > 54ـ سِتٌّ مِنْ قَواعِدِ الدّينِ: إخلاصُ اليَقينِ، ونُصْحُ
-<blockquote dir="rtl">
-  <p>
-المُسْلِمينَ،وَ إقامَةُ الصَّلاةِ، وإيتاءُ الزَّكاةِ، وحِجُّ البَيْتِ،
-والزُّهْدُ فِي الدُّنيا.
-  </p>
-</blockquote>
+> المُسْلِمينَ،وَ إقامَةُ الصَّلاةِ، وإيتاءُ الزَّكاةِ، وحِجُّ البَيْتِ،
+> والزُّهْدُ فِي الدُّنيا.
 
 55. The rectitude of religion is [through] piety.
 
@@ -338,12 +286,8 @@ religion will not be defeated and every blessing that is protected by
 gratitude will not be taken away.
 
 > 57ـ صَيِّرِ الدّينَ حِصْنَ دَوْلَتِكَ، والشُّكْرَ حِرْزَ نِعْمَتِكَ،
-<blockquote dir="rtl">
-  <p>
-فَكُلُّ دَوْلَة يَحُوطُها الدّينُ لاتُغْلَبُ، وكُلُّ نِعْمَة
-يَحْرُزُها الشُّكْرُ لا تُسْلَبُ.
-  </p>
-</blockquote>
+> فَكُلُّ دَوْلَة يَحُوطُها الدّينُ لاتُغْلَبُ، وكُلُّ نِعْمَة
+> يَحْرُزُها الشُّكْرُ لا تُسْلَبُ.
 
 58. Make religion the shield of your life and piety the preparation for
 your death.
@@ -360,22 +304,14 @@ both of them, and do not safeguard your worldly life through your
 religion thereby losing both of them.
 
 > 60ـ صُنْ دينَكَ بِدُنْياكَ تَرْبَحْهُما، ولا تَصُنْ دُنْياكَ بِدينِكَ
-<blockquote dir="rtl">
-  <p>
-فَتَخْسَرَهُما.
-  </p>
-</blockquote>
+> فَتَخْسَرَهُما.
 
 61. Safeguard the faith through [the life of] this world and it will
 save you, and do not safeguard [the life of] this world through the
 faith otherwise it will destroy you.
 
 > 61ـ صُنْ الدّينَ بالدُّنيا يُنْجِكَ، ولا تَصُنِ الدُّنْيا بِالدّينِ
-<blockquote dir="rtl">
-  <p>
-فَتُردِيَكَ.
-  </p>
-</blockquote>
+> فَتُردِيَكَ.
 
 62. Blessed is he who acts upon the teachings of religion and follows
 the footsteps of the Prophets.
@@ -386,11 +322,7 @@ the footsteps of the Prophets.
 best of virtues and through them the lofty stations are attained.
 
 > 63ـ عَلَيْكُمْ بِلُزُومِ الدّينِ، والتَّقوى، واليَقينِ، فَهُنَّ
-<blockquote dir="rtl">
-  <p>
-أحْسَنُ الحَسَناتِ، وَ بِهِنَّ يُنالُ رَفيعُ الدَّرَجاتِ.
-  </p>
-</blockquote>
+> أحْسَنُ الحَسَناتِ، وَ بِهِنَّ يُنالُ رَفيعُ الدَّرَجاتِ.
 
 64. One’s religiousness is proportionate to his intellect.
 
@@ -408,11 +340,7 @@ best of virtues and through them the lofty stations are attained.
 upholding the boundaries [of Islamic law].
 
 > 67ـ غايَةُ الدّينِ اَلأمْرُ بِالمَعْرُوفِ والنَّهيُ عَنِ المُنْكَرِ
-<blockquote dir="rtl">
-  <p>
-وإقامَةُ الحُدُودِ.
-  </p>
-</blockquote>
+> وإقامَةُ الحُدُودِ.
 
 68. The one who lacks religion falls into disbelief and misguidance.
 
@@ -426,21 +354,13 @@ upholding the boundaries [of Islamic law].
 upholding the boundaries [of Islamic law].
 
 > 70ـ قِوامُ الشَّريعَةِ الأمَرُ بِالمَعْروفِ، والنَّهيُ عَنِ
-<blockquote dir="rtl">
-  <p>
-المُنْكَرِ، وإقامَةُ الحُدوُدِ.
-  </p>
-</blockquote>
+> المُنْكَرِ، وإقامَةُ الحُدوُدِ.
 
 71. Just as a body and its shadow do not separate, so too religion and
 success do not separate.
 
 > 71ـ كَما أنَّ الجِسْمَ والظِّلَّ لا يَفْتَرِقانِ، كَذلِكَ الدّينُ
-<blockquote dir="rtl">
-  <p>
-والتَّوفيقُ لايَفْتَرقانِ.
-  </p>
-</blockquote>
+> والتَّوفيقُ لايَفْتَرقانِ.
 
 72. For every religion there is a character and the character of faith
 is kindness.
@@ -506,11 +426,7 @@ with the truth, is forced to yield [to it].
 the Glorified, will put him into the fire for eternity.
 
 > 85ـ مَنِ اتَّخَذَ دينَ اللّهِ لَهْواً ولَعِباً أدْخَلَهُ اللّهُ
-<blockquote dir="rtl">
-  <p>
-سُبْحانَهُ النّارَ مُخَلَّداً فيها.
-  </p>
-</blockquote>
+> سُبْحانَهُ النّارَ مُخَلَّداً فيها.
 
 86. One who is cautious [and concerned] about this religion is safe from
 destruction.
@@ -521,11 +437,7 @@ destruction.
 religion and neglecting the obligatory [actions].
 
 > 87ـ ما أوْهَنَ الدّينَ كَتَرْكِ إقامَةِ دينِ اللّهِ وتَضْييعِ
-<blockquote dir="rtl">
-  <p>
-الفَرائِضِ.
-  </p>
-</blockquote>
+> الفَرائِضِ.
 
 88. The basis of religion is piety.
 
@@ -543,11 +455,7 @@ religion and neglecting the obligatory [actions].
 yourselves from situations of destructive doubts.
 
 > 91ـ نَزِّهُوا أدْيانَكُمْ عَنِ الشُّبَهاتِ، وصُونُوا أنْفُسَكُمْ عَنْ
-<blockquote dir="rtl">
-  <p>
-مَواقِعِ الرَّيبِ المُوبِقاتِ.
-  </p>
-</blockquote>
+> مَواقِعِ الرَّيبِ المُوبِقاتِ.
 
 92. The structure of religion is [based on] opposing vain desires and
 keeping away from [the unlawful pleasures of] this world.
@@ -558,11 +466,7 @@ keeping away from [the unlawful pleasures of] this world.
 impartiality towards yourself and supporting your brethren.
 
 > 93ـ نِـظامُ الدّينِ خَصْلَتانِ: إنْصافُكَ مِنْ نَفْسِكَ، ومُواساةُ
-<blockquote dir="rtl">
-  <p>
-إخْوانِكَ.
-  </p>
-</blockquote>
+> إخْوانِكَ.
 
 94. Guided is the one who puts on the garment of religion.
 
@@ -573,11 +477,7 @@ brightest of all paths, the clearest [and most illuminated] of all
 passages; it is an elevated land, [with] a lofty peak.
 
 > 95ـ في ذِكْرِ دينِ الإسْلامِ: هُوَ أبْلَجُ المَناهِجِ، نَيِّـرُ
-<blockquote dir="rtl">
-  <p>
-الوَلائِجِ، مُشْرِفُ الأقْطارِ، رَفيعُ الغايَةِ.
-  </p>
-</blockquote>
+> الوَلائِجِ، مُشْرِفُ الأقْطارِ، رَفيعُ الغايَةِ.
 
 96. Guard your religion by seeking help from Allah.
 
@@ -589,12 +489,8 @@ will last for you, for this will lead you to severe chastisement [in the
 Hereafter].
 
 > 97ـ لا تَكُنْ غافِلاً عَنْ دينِكَ، حَريصاً على دُنياكَ، مُسْتَكْثِراً
-<blockquote dir="rtl">
-  <p>
-مِمّا لا يَبْقى عَلَيْكَ، مُسْتَقِلاًّ مِمّا يَبْقى لَكَ، فَيُورِدَكَ
-ذلِكَ العَذابَ الشَّديدَ.
-  </p>
-</blockquote>
+> مِمّا لا يَبْقى عَلَيْكَ، مُسْتَقِلاًّ مِمّا يَبْقى لَكَ، فَيُورِدَكَ
+> ذلِكَ العَذابَ الشَّديدَ.
 
 98. Religion does not remain safe with avarice.
 
@@ -608,10 +504,5 @@ Hereafter].
 God-wariness and the truth of his piety.
 
 > 100ـ يُسْتَدَلُّ على دينِ الرَّجُلِ بِحُسْنِ تَقْواهُ وصِدْقِ
-<blockquote dir="rtl">
-  <p>
-وَرَعِهِ.
-  </p>
-</blockquote>
-
+> وَرَعِهِ.
 

@@ -16,7 +16,6 @@ Sura Nabaa (the Great News) No. 78 (verses 31-37)
 (37) رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرحْمَنِ لَا
 يَمْلِكُونَ مِنْهُ خِطَابًا
 
-
 31. Surely for the Righteous there is a victory,
 
 32. Gardens enclosed and vineyards
@@ -31,7 +30,6 @@ Sura Nabaa (the Great News) No. 78 (verses 31-37)
 
 37. Lord of the heavens and the earth and all between the two, the
 All-merciful, with Whom none shall have power to argue.
-
 
 **Commentary:**
 
@@ -267,5 +265,4 @@ His Favor and Grace: "...and their Lord will give to them to drink...,"
 **Supplication:**
 
 "O Lord! We pray that You will give us the pure drink, also.
-
 

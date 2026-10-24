@@ -54,4 +54,3 @@ eating.[^5]
 
 [^5]: Sunan an-Nabi, p. 67.
 
-

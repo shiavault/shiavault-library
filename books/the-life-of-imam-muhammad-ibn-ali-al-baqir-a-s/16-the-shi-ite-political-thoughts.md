@@ -1634,263 +1634,263 @@ economic life.
 
 ###
 
-[^1] W‘az al-Salatin, p.[^293]:
+[^1]: W‘az al-Salatin, p.293.
 
-[^2] Hayat al-Imam Musa bin Ja‘far, vol.2, p.[^182]:
+[^2]: Hayat al-Imam Musa bin Ja‘far, vol.2, p.182.
 
-[^3] Hayat al-Imam al-Hasan, vol.2, p.[^357]:
+[^3]: Hayat al-Imam al-Hasan, vol.2, p.357.
 
-[^4] Mizan al-I‘tidal, vol.4, p.[^160]:
+[^4]: Mizan al-I‘tidal, vol.4, p.160.
 
-[^5] Hayat al-Imam al-Hasan, vol.2, p.[^356]:
+[^5]: Hayat al-Imam al-Hasan, vol.2, p.356.
 
-[^6] Tarikh Baghdad, vol.12, p.[^351]:
+[^6]: Tarikh Baghdad, vol.12, p.351.
 
-[^7] Ibid, vol.6, p.[^127]:
+[^7]: Ibid, vol.6, p.127.
 
-[^8] Tahdhib al-Tahdhib, vol.7, p.[^319]:
+[^8]: Tahdhib al-Tahdhib, vol.7, p.319.
 
-[^9] Al-Mufid, Sharh ‘Aqa’id al-Saduq, p.[^66]:
+[^9]: Al-Mufid, Sharh ‘Aqa’id al-Saduq, p.66.
 
-[^10] Wasa’il al-Shi‘a.
+[^10]: Wasa’il al-Shi‘a.
 
-[^11] Talkhis al-Shafi, vol.1, p.[^59]:
+[^11]: Talkhis al-Shafi, vol.1, p.59.
 
-[^12] Firaq al-Shi‘a, p.[^84]:
+[^12]: Firaq al-Shi‘a, p.84.
 
-[^13] Abi al-Fida’, Tarikh.
+[^13]: Abi al-Fida’, Tarikh.
 
-[^14] Tahdhib al-Tahdhib, vol.4, p.[^87]:
+[^14]: Tahdhib al-Tahdhib, vol.4, p.87.
 
-[^15] Ibid, pp.85-[^87]:
+[^15]: Ibid, pp.85-[^87]:
 
-[^16] Ibid.
+[^16]: Ibid.
 
-[^17] Ibid.
+[^17]: Ibid.
 
-[^18] Ibid.
+[^18]: Ibid.
 
-[^19] Mu‘jam Rijal al-Hadith, vol.8, p.[^140]:
+[^19]: Mu‘jam Rijal al-Hadith, vol.8, p.140.
 
-[^20] Tahdhib al-Tahdhib, vol.4, p.[^84]:
+[^20]: Tahdhib al-Tahdhib, vol.4, p.84.
 
-[^21] A‘lam al-Muwaqqi‘in, vol.1, p.[^18]:
+[^21]: A‘lam al-Muwaqqi‘in, vol.1, p.18.
 
-[^22] Al-Aghani, vol.3, p.[^93]:
+[^22]: Al-Aghani, vol.3, p.93.
 
-[^23] Tahdhib al-Tahdhib, vol.4, p.[^86]:
+[^23]: Tahdhib al-Tahdhib, vol.4, p.86.
 
-[^24] Ibid,vol.7, p.[^182]:
+[^24]: Ibid,vol.7, p.182.
 
-[^25] Ibid.
+[^25]: Ibid.
 
-[^26] Shadharat al-Dhahab, vol.1, p.[^104]:
+[^26]: Shadharat al-Dhahab, vol.1, p.104.
 
-[^27] Tahdhib al-Tahdhib, vol.7, p.[^183]:
+[^27]: Tahdhib al-Tahdhib, vol.7, p.183.
 
-[^28] Ibid, p.[^184]:
+[^28]: Ibid, p.184.
 
-[^29] Ibid, p.[^23]:
+[^29]: Ibid, p.23.
 
-[^30] Al-Aghani, vol.8, p.[^16]:
+[^30]: Al-Aghani, vol.8, p.16.
 
-[^31] Tahdhib al-Tahdhib, vol.7, p.[^24]:
+[^31]: Tahdhib al-Tahdhib, vol.7, p.24.
 
-[^32] Ibid, vol.6, p.[^155]:
+[^32]: Ibid, vol.6, p.155.
 
-[^33] Ibid, vol.4, p.[^229]:
+[^33]: Ibid, vol.4, p.229.
 
-[^34] Ibid, vol.8, p.[^334]:
+[^34]: Ibid, vol.8, p.334.
 
-[^35] Mu‘jam Rijal al-Hadith, vol.14, p.[^48]:
+[^35]: Mu‘jam Rijal al-Hadith, vol.14, p.48.
 
-[^36] Tahdhib al-Tahdhib, vol.8, p.[^335]:
+[^36]: Tahdhib al-Tahdhib, vol.8, p.335.
 
-[^37] Ta’sis al-Shi‘a li ‘Ulum al-Islam.
+[^37]: Ta’sis al-Shi‘a li ‘Ulum al-Islam.
 
-[^38] Murujj al-Dhahab, vol.2, p.[^196]:
+[^38]: Murujj al-Dhahab, vol.2, p.196.
 
-[^39] Ibid, p.[^197]:
+[^39]: Ibid, p.197.
 
-[^40] Ibid.
+[^40]: Ibid.
 
-[^41] Ibid, p.73
+[^41]: Ibid, p.73
 
-[^42] Al-Aghani, vol.15, pp.59-[^63]:
+[^42]: Al-Aghani, vol.15, pp.59-[^63]:
 
-[^43] Ibid, vol.11, p.[^271]:
+[^43]: Ibid, vol.11, p.271.
 
-[^44] Ibid, vol.15, pp.59-[^63]:
+[^44]: Ibid, vol.15, pp.59-[^63]:
 
-[^45] Ibn Qays al-Ruqayyat, Diwan, p.[^176]:
+[^45]: Ibn Qays al-Ruqayyat, Diwan, p.176.
 
-[^46] Al-Aghani, vol.5, p.[^78]:
+[^46]: Al-Aghani, vol.5, p.78.
 
-[^47] Al-Tirimmah, Diwan, p.[^157]:
+[^47]: Al-Tirimmah, Diwan, p.157.
 
-[^48] Hayat al-Imam Musa bin Ja‘far, vol.1, pp.319-[^320]:
+[^48]: Hayat al-Imam Musa bin Ja‘far, vol.1, pp.319-[^320]:
 
-[^49] Ibn al-Athir, Tarikh, vol.5, p.[^105]:
+[^49]: Ibn al-Athir, Tarikh, vol.5, p.105.
 
-[^50] Al-‘Aqd al-Farid, vol.1, p.[^105]:
+[^50]: Al-‘Aqd al-Farid, vol.1, p.105.
 
-[^51] Al-Aghani, vol.1, p.[^310]:
+[^51]: Al-Aghani, vol.1, p.310.
 
-[^52] Ibid, vol.17, p.[^89]:
+[^52]: Ibid, vol.17, p.89.
 
-[^53] Ibn Sa‘d, Tabaqat, vol.5, p.[^246]:
+[^53]: Ibn Sa‘d, Tabaqat, vol.5, p.246.
 
-[^54] Al-Aghani, vol.9, p.[^262]:
+[^54]: Al-Aghani, vol.9, p.262.
 
-[^55] Ibn Sa‘d, Tabaqat, vol.8, p.[^352]:
+[^55]: Ibn Sa‘d, Tabaqat, vol.8, p.352.
 
-[^56] Al-Aghani, vol.6, p.[^13]:
+[^56]: Al-Aghani, vol.6, p.13.
 
-[^57] Ibid, vol.10, p.[^60]:
+[^57]: Ibid, vol.10, p.60.
 
-[^58] Ibid.
+[^58]: Ibid.
 
-[^59] Ibid.
+[^59]: Ibid.
 
-[^60] Ibid, p.[^57]:
+[^60]: Ibid, p.57.
 
-[^61] Ibid, vol.3, p.[^276]:
+[^61]: Ibid, vol.3, p.276.
 
-[^62] Ibid, vol.4, p.[^222]:
+[^62]: Ibid, vol.4, p.222.
 
-[^63] Ibid, vol.6, p.[^21]:
+[^63]: Ibid, vol.6, p.21.
 
-[^64] Ibid, vol.5, p.[^109]:
+[^64]: Ibid, vol.5, p.109.
 
-[^65] Ibid, p.[^161]:
+[^65]: Ibid, p.161.
 
-[^66] Ibid, vol.3, p.[^307]:
+[^66]: Ibid, vol.3, p.307.
 
-[^67] Al-Nahjj, vol.3, p.[^16]:
+[^67]: Al-Nahjj, vol.3, p.16.
 
-[^68] Al-Nasai’h al-Kafiya, p.[^74]:
+[^68]: Al-Nasai’h al-Kafiya, p.74.
 
-[^69] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.4, p.[^63]:
+[^69]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.4, p.63.
 
-[^70] Salim bin Qays, p.[^45]:
+[^70]: Salim bin Qays, p.45.
 
-[^71] Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.[^128]:
+[^71]: Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.128.
 
-[^72] Moslem, Sahih, Kitab al-Sayd.
+[^72]: Moslem, Sahih, Kitab al-Sayd.
 
-[^73] Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.[^129]:
+[^73]: Nazra ‘Amma fi Tarikh al-Fiqh al-Islami, p.129.
 
-[^74] Ibn al-Bazzaz, Manaqib al-Imam Abi Hanifa, vol.1, p.[^31]:
+[^74]: Ibn al-Bazzaz, Manaqib al-Imam Abi Hanifa, vol.1, p.31.
 
-[^75] Lisan al-Mizan, vol.2, p.[^69]:
+[^75]: Lisan al-Mizan, vol.2, p.69.
 
-[^76] Al-Kashi, Rijal, p.[^223]:
+[^76]: Al-Kashi, Rijal, p.223.
 
-[^77] Mu‘jam Rijal al-Hadith, vol.3, p.[^364]:
+[^77]: Mu‘jam Rijal al-Hadith, vol.3, p.364.
 
-[^78] Firaq al-Shi‘a, p.[^31]:
+[^78]: Firaq al-Shi‘a, p.31.
 
-[^79] Ibn al-Athir, Tarikh, vol.4, p.[^231]:
+[^79]: Ibn al-Athir, Tarikh, vol.4, p.231.
 
-[^80] Firaq al-Shi‘a, p.[^31]:
+[^80]: Firaq al-Shi‘a, p.31.
 
-[^81] Ibid, p.[^25]:
+[^81]: Ibid, p.25.
 
-[^82] Ibid.
+[^82]: Ibid.
 
-[^83] Ibn al-Athir, Tarikh, vol.4, p.[^230]:
+[^83]: Ibn al-Athir, Tarikh, vol.4, p.230.
 
-[^84] Al-Hur al-‘In, p.[^168]:
+[^84]: Al-Hur al-‘In, p.168.
 
-[^85] Mizan al-I‘tidal, vol.4, p.[^162]:
+[^85]: Mizan al-I‘tidal, vol.4, p.162.
 
-[^86] Ibn al-Athir, Tarikh, vol.4, p.[^230]:
+[^86]: Ibn al-Athir, Tarikh, vol.4, p.230.
 
-[^87] Al-Kashi, Rijal, p.[^224]:
+[^87]: Al-Kashi, Rijal, p.224.
 
-[^88] Ibn Qutayba, ‘Uyyun al-Akhbar, vol.2, p.[^151]:
+[^88]: Ibn Qutayba, ‘Uyyun al-Akhbar, vol.2, p.151.
 
-[^89] Lisan al-Mizan, vol.6, p.[^76]:
+[^89]: Lisan al-Mizan, vol.6, p.76.
 
-[^90] Ibn al-Athir, Tarikh, vol.4, p.[^230]:
+[^90]: Ibn al-Athir, Tarikh, vol.4, p.230.
 
-[^91] Ibid.
+[^91]: Ibid.
 
-[^92] Tarikh Dimashq, vol.51, p.[^45]: Zahr al-Adab, vol.1, p.116.
+[^92]: Tarikh Dimashq, vol.51, p.45. Zahr al-Adab, vol.1, p.116.
 
-[^93] Bihar al-Anwar.
+[^93]: Bihar al-Anwar.
 
-[^94] A tribe from India. It believes in reincarnation.
+[^94]: A tribe from India. It believes in reincarnation.
 
-[^95] Ibn Hanbal, al-Radd ‘ala al-Jahamiya wa al-Zandaqa, p.[^11]:
+[^95]: Ibn Hanbal, al-Radd ‘ala al-Jahamiya wa al-Zandaqa, p.11.
 
-[^96] Al-Firaq al-Islamiya fi al-‘Asr al-Umawi, p.[^286]:
+[^96]: Al-Firaq al-Islamiya fi al-‘Asr al-Umawi, p.286.
 
-[^97] Ibn Sa‘d, Tabaqat.
+[^97]: Ibn Sa‘d, Tabaqat.
 
-[^98] Al-Tabari, Tarikh, vol.4, p.[^368]:
+[^98]: Al-Tabari, Tarikh, vol.4, p.368.
 
-[^99] Ibn al-Athir, Tarikh, vol.3, p.[^311]:
+[^99]: Ibn al-Athir, Tarikh, vol.3, p.311.
 
-[^100] Al-Tabari, Tarikh, vol.7, pp.5-[^12]:
+[^100]: Al-Tabari, Tarikh, vol.7, pp.5-[^12]:
 
-[^101] Al-Ya‘qubi, Tarikh, vol.2, p.[^232]:
+[^101]: Al-Ya‘qubi, Tarikh, vol.2, p.232.
 
-[^102] In ‘Uyyun al-Akhbar wa Funun al-Athar (p.166), it was mentioned
+[^102]: In ‘Uyyun al-Akhbar wa Funun al-Athar (p.166), it was mentioned
 that Marwan b. al-Hakam was sitting beside Moslem b. ‘Aqaba. He heard
 him cursing Imam Zayn al-‘Abidin. So, he invoked him to kill the Imam.
 Thus, he forgot the Imam’s favors.
 
-[^103] Murujj al-Dhahab, vol.3, p.[^18]:
+[^103]: Murujj al-Dhahab, vol.3, p.18.
 
-[^104] Al-Mukhtar, p.[^43]:
+[^104]: Al-Mukhtar, p.43.
 
-[^105] Da’irat al-Ma’arif al-Islamiya, vol.3, p.[^237]:
+[^105]: Da’irat al-Ma’arif al-Islamiya, vol.3, p.237.
 
-[^106] Al-Khawarijj wa al-Shi‘a, p.[^237]:
+[^106]: Al-Khawarijj wa al-Shi‘a, p.237.
 
-[^107] Hayat al-Imam al-Husayn, vol.3, p.[^455]:
+[^107]: Hayat al-Imam al-Husayn, vol.3, p.455.
 
-[^108] Ibn Qutayba, ‘Uyyun al-Akhbar, vol.1, p.[^103]:
+[^108]: Ibn Qutayba, ‘Uyyun al-Akhbar, vol.1, p.103.
 
-[^109] Al-Kashi, Rijal.
+[^109]: Al-Kashi, Rijal.
 
-[^110] Safinat al-Bihar, vol.1, p.[^435]:
+[^110]: Safinat al-Bihar, vol.1, p.435.
 
-[^111] Hayat al-Imam al-Husayn, vol.2, p.[^310]:
+[^111]: Hayat al-Imam al-Husayn, vol.2, p.310.
 
-[^112] Sharh Nahjj al-Balagha, vol.7, p.[^24]:
+[^112]: Sharh Nahjj al-Balagha, vol.7, p.24.
 
-[^113] Abu Khabib was the kunya of ‘Abd Allah b. al-Zubayr.
+[^113]: Abu Khabib was the kunya of ‘Abd Allah b. al-Zubayr.
 
-[^114] Al-A‘yas were the sons of Umayya b. ‘Abd Shams.
+[^114]: Al-A‘yas were the sons of Umayya b. ‘Abd Shams.
 
-[^115] Dhati ‘Irqin was one of the times of the hajj.
+[^115]: Dhati ‘Irqin was one of the times of the hajj.
 
 It was the time of the Iraqis.
 
-[^116] Ibn al-Kahiliya was b. al-Zubayr. The poet gibed him with that.
+[^116]: Ibn al-Kahiliya was b. al-Zubayr. The poet gibed him with that.
 
-[^117] Al-Siyuti, Tarikh al-Khulafa’, p.[^213]:
+[^117]: Al-Siyuti, Tarikh al-Khulafa’, p.213.
 
-[^118] Al-Agani, vol.1, p.[^22]:
+[^118]: Al-Agani, vol.1, p.22.
 
-[^119] Al-Ya‘qubi, Tarikh, vol.3, p.[^9]:
+[^119]: Al-Ya‘qubi, Tarikh, vol.3, p.9.
 
-[^120] Al-Fakhri, p.[^105]:
+[^120]: Al-Fakhri, p.105.
 
-[^121] Al-Ya‘qubi, Tarikh, vol.3, p.[^8]:
+[^121]: Al-Ya‘qubi, Tarikh, vol.3, p.8.
 
-[^122] Ibn al-Athir, Tarikh, vol.4, pp.374-[^375]:
+[^122]: Ibn al-Athir, Tarikh, vol.4, pp.374-[^375]:
 
-[^123] Al-Aghani, vol.8, p.[^31]:
+[^123]: Al-Aghani, vol.8, p.31.
 
-[^124] Ibid.
+[^124]: Ibid.
 
-[^125] Ibn al-Athir, Tarikh, vol.4, p.[^29]:
+[^125]: Ibn al-Athir, Tarikh, vol.4, p.29.
 
-[^126] Al-Jahiz, Hayat al-Hayawan, vol.5, p.297-[^298]:
+[^126]: Al-Jahiz, Hayat al-Hayawan, vol.5, p.297-[^298]:
 
-[^127] He was an oppressive governor.
+[^127]: He was an oppressive governor.
 
-[^128] Hayat al-Imam Musa bin Ja‘far, vol.1, p.[^304]:
+[^128]: Hayat al-Imam Musa bin Ja‘far, vol.1, p.304.

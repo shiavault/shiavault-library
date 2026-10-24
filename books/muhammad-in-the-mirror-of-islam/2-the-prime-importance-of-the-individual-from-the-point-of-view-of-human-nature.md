@@ -24,4 +24,3 @@ must eat, drink, clothe himself, sleep, rest, wed, bear offspring,
 secure his needs, and through the use of his mind provide the means of
 his own subsistence.
 
-

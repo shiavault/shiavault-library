@@ -453,4 +453,3 @@ remained of the Qur'an. " As long the heavens and the earth exist, there
 are verses for eve: People, wherever they be, which they may read and
 act upon for the benefit or reject at their loss. (12)
 
-

@@ -9,13 +9,9 @@ al-Muminin ‘Ali, *‘alaihi al-salam*, surpassing the second Sunni
 knowledge-based areas as justice dispensation. The reason for these
 panicky moves can be discerned from these words of our dear Shaykh:
 
-<blockquote dir="rtl">
-  <p>
-و في الترمذي و غيره عنه عليه الصلاة و السلام انه قال لو لم ابعث فيكم
-لبعث فيكم عمر و لفظ الترمذي لو كان بعدي نبي لكان عمر قال الترمذي حديث
-حسن
-  </p>
-</blockquote>
+> و في الترمذي و غيره عنه عليه الصلاة و السلام انه قال لو لم ابعث فيكم
+> لبعث فيكم عمر و لفظ الترمذي لو كان بعدي نبي لكان عمر قال الترمذي حديث
+> حسن
 
 In (*Sunan*) al-Tirmidhi and others, it is narrated from him, peace and
 blessings be upon him, that he said, “**If I had not been sent as a
@@ -26,11 +22,7 @@ hasan hadith*.[^1]
 
 Elsewhere, he reiterates this:
 
-<blockquote dir="rtl">
-  <p>
-وفي الترمذي لو لم أبعث فيكم لبعث فيكم عمر ولو كان بعدي نبي لكان عمر
-  </p>
-</blockquote>
+> وفي الترمذي لو لم أبعث فيكم لبعث فيكم عمر ولو كان بعدي نبي لكان عمر
 
 It is recorded in (*Sunan*) al-Tirmidhi: “If I had not been sent as a
 messenger among you, ‘Umar would have been sent as a messenger instead
@@ -63,13 +55,9 @@ motives, and manufactured to “raise the stakes” for the second
 
 Shaykh Ibn Taymiyyah makes an interesting strike:
 
-<blockquote dir="rtl">
-  <p>
-و قد وجد لعمر و علي و غيرهما فتاوى كثير ة تخالف النصوص حتى جمع الشافعي
-مجلدا في خلاف علي و ابن مسعود و جمع محمد بن نصر المروزي كتابا كبيرا في
-ذلك
-  </p>
-</blockquote>
+> و قد وجد لعمر و علي و غيرهما فتاوى كثير ة تخالف النصوص حتى جمع الشافعي
+> مجلدا في خلاف علي و ابن مسعود و جمع محمد بن نصر المروزي كتابا كبيرا في
+> ذلك
 
 There were LOTS of *fatwas* from ‘Umar, ‘Ali and others that
 contradicted the revealed texts (i.e the Qur’an and Sunnah), such that
@@ -95,12 +83,8 @@ Besides, our dear Shaykh seems confused on the exact authorship of those
 “books”. First, he claims that both al-Shafi’i and al-Maruzi wrote
 *separate* books. However, this is a contrary submission he also makes:
 
-<blockquote dir="rtl">
-  <p>
-وقد جمع الشافعي ومحمد بن نصر المروزي كتابا كبيرا فيما لم يأخذ به
-المسلمون من قول علي لكون قول غيره من الصحابة أتبع للكتاب والسنة
-  </p>
-</blockquote>
+> وقد جمع الشافعي ومحمد بن نصر المروزي كتابا كبيرا فيما لم يأخذ به
+> المسلمون من قول علي لكون قول غيره من الصحابة أتبع للكتاب والسنة
 
 Al-Shafi’i AND Muhammad b. Nasr al-Maruzi compiled a huge book about
 what the Muslims rejected from the statement of ‘Ali, because the
@@ -113,17 +97,13 @@ now? Moreover, where exactly *is* this book? Has anyone in history
 reality is that no such book *ever* existed! Imam al-Subki (d. 773 H)
 reveals the truth about the book of al-Maruzi:
 
-<blockquote dir="rtl">
-  <p>
-وقال أبو ذر محمد بن محمد بن يوسف القاضى كان الصدر الأول من مشايخنا
-يقولون رجال خراسان أربعة ابن المبارك ويحيى بن يحيى وإسحاق بن راهويه
-ومحمد بن نصر المروزى وقال أبو بكر الصيرفى لو لم يصنف المروزى إلا كتاب
-القسامة لكان من أفقه الناس فكيف وقد صنف كتبا سواها وقال الشيخ أبو
-إسحاق الشيرازى صنف محمد هذا كتبا ضمنها الآثار والفقه وكان من أعلم
-الناس باختلاف الصحابة ومن بعدهم فى الأحكام وصنف كتابا فيما خالف فيه
-أبو حنيفة عليا وعبد الله رضى الله عنهما
-  </p>
-</blockquote>
+> وقال أبو ذر محمد بن محمد بن يوسف القاضى كان الصدر الأول من مشايخنا
+> يقولون رجال خراسان أربعة ابن المبارك ويحيى بن يحيى وإسحاق بن راهويه
+> ومحمد بن نصر المروزى وقال أبو بكر الصيرفى لو لم يصنف المروزى إلا كتاب
+> القسامة لكان من أفقه الناس فكيف وقد صنف كتبا سواها وقال الشيخ أبو
+> إسحاق الشيرازى صنف محمد هذا كتبا ضمنها الآثار والفقه وكان من أعلم
+> الناس باختلاف الصحابة ومن بعدهم فى الأحكام وصنف كتابا فيما خالف فيه
+> أبو حنيفة عليا وعبد الله رضى الله عنهما
 
 Abu Dharr Muhammad b. Muhammad b. Yusuf al-Qadhi said, “The pioneers
 among our Shaykhs used to say that the scholars of Khurasan (in Iran)
@@ -146,15 +126,11 @@ There are authentic Sunni reports which further expose the fallacy of
 the allegations of Shaykh Ibn Taymiyyah against Amir al-Muminin. For
 instance, Imam Ahmad (d. 241 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي حدثني يحيى عن الأعمش عن عمرو بن مرة عن أبي
-البختري عن على رضي الله عنه قال: بعثني رسول الله صلى الله عليه و سلم
-إلى اليمن وأنا حديث السن قال قلت تبعثني إلى قوم يكون بينهم أحداث ولا
-علم لي بالقضاء قال ان الله سيهدى لسانك ويثبت قلبك قال فما شككت في قضاء
-بين أثنين بعد
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي حدثني يحيى عن الأعمش عن عمرو بن مرة عن أبي
+> البختري عن على رضي الله عنه قال: بعثني رسول الله صلى الله عليه و سلم
+> إلى اليمن وأنا حديث السن قال قلت تبعثني إلى قوم يكون بينهم أحداث ولا
+> علم لي بالقضاء قال ان الله سيهدى لسانك ويثبت قلبك قال فما شككت في قضاء
+> بين أثنين بعد
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya – al-A’mash
 – ‘Amr b. Marrah – Abu al-Bakhtari – ‘Ali, may Allah be pleased with
@@ -169,26 +145,18 @@ firm.” I never have doubt while dispensing justice between** ***any***
 
 Shaykh al-Arnauṭ says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح رجاله ثقات رجال الشيخين
-  </p>
-</blockquote>
+> صحيح رجاله ثقات رجال الشيخين
 
 *Sahih*, its narrators are trustworthy, narrators of the two Shaykhs[^7]
 
 Imam al-Hakim (d. 403 H) also records:
 
-<blockquote dir="rtl">
-  <p>
-حدثني علي بن حمشاد ثنا العباس بن الفضل الأسفاطي ثنا أحمد بن يونس ثنا
-أبو بكر بن عياش عن الأعمش عن عمرو بن مرة عن أبي البختري قال علي رضي
-الله عنه: بعثني رسول الله صلى الله عليه وسلم إلى اليمن قال : فقلت : يا
-رسول الله إني رجل شاب وأنه يرد علي من القضاء ما لا علم لي به قال :
-فوضع يده على صدري وقال اللهم ثبت لسانه واهد قلبه فما شككت في القضاء أو
-في قضاء بعد
-  </p>
-</blockquote>
+> حدثني علي بن حمشاد ثنا العباس بن الفضل الأسفاطي ثنا أحمد بن يونس ثنا
+> أبو بكر بن عياش عن الأعمش عن عمرو بن مرة عن أبي البختري قال علي رضي
+> الله عنه: بعثني رسول الله صلى الله عليه وسلم إلى اليمن قال : فقلت : يا
+> رسول الله إني رجل شاب وأنه يرد علي من القضاء ما لا علم لي به قال :
+> فوضع يده على صدري وقال اللهم ثبت لسانه واهد قلبه فما شككت في القضاء أو
+> في قضاء بعد
 
 ‘Ali b. Hamshad – al-‘Abbas b. al-Fadhl al-Asfaṭi – Ahmad b. Yunus – Abu
 Bakr b. ‘Ayyash – al-A’mash – ‘Amr b. Marrah – Abu al-Bakhtari – ‘Ali,
@@ -203,37 +171,25 @@ ever after**.[^8]
 
 Al-Hakim comments:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> هذا حديث صحيح على شرط الشيخين
 
 This *hadith* is *sahih* upon the standard of the two Shaykhs[^9]
 
 Al-Dhahabi (d. 748 H) agrees:
 
-<blockquote dir="rtl">
-  <p>
-على شرط البخاري ومسلم
-  </p>
-</blockquote>
+> على شرط البخاري ومسلم
 
 (*Sahih*) upon the standard of al-Bukhari and Muslim[^10]
 
 Imam Abu Dawud (d. 275 H) documents a *mutaba’ah* for the report of Abu
 al-Bakhtari:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عمرو بن عون قال أخبرنا شريك عن سماك عن حنش عن علي عليه السلام
-قال :بعثني رسول الله صلى الله عليه و سلم إلى اليمن قاضيا فقلت يارسول
-الله ترسلني وأنا حديث السن ولا علم لي بالقضاء ؟ فقال " إن الله سيهدي
-قلبك ويثبت لسانك فإذا جلس بين يديك الخصمان فلا تقضين حتى تسمع من الآخر
-كما سمعت من الأول فإنه أحرى أن يتبين لك القضاء " قال فما زلت قاضيا أو
-ما شككت في قضاء بعد .
-  </p>
-</blockquote>
+> حدثنا عمرو بن عون قال أخبرنا شريك عن سماك عن حنش عن علي عليه السلام
+> قال :بعثني رسول الله صلى الله عليه و سلم إلى اليمن قاضيا فقلت يارسول
+> الله ترسلني وأنا حديث السن ولا علم لي بالقضاء ؟ فقال " إن الله سيهدي
+> قلبك ويثبت لسانك فإذا جلس بين يديك الخصمان فلا تقضين حتى تسمع من الآخر
+> كما سمعت من الأول فإنه أحرى أن يتبين لك القضاء " قال فما زلت قاضيا أو
+> ما شككت في قضاء بعد .
 
 ‘Amr b. ‘Awn – Sharik – Simak – Hanash – ‘Ali, peace be upon him
 (*‘alaihi salam*):
@@ -249,24 +205,16 @@ doubt while dispensing justice, ever since**.[^11]
 
 ‘Allamah al-Albani (d. 1420 H) says:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*[^12]
 
 Imam Ahmad also records this *shahid*:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا يحيى بن آدم ثنا إسرائيل عن أبي إسحاق عن
-حارثة بن مضرب عن على رضي الله عنه قال: بعثني رسول الله صلى الله عليه و
-سلم إلى اليمن فقلت إنك تبعثني إلى قوم وهم أسن مني لأقضي بينهم فقال
-اذهب فإن الله سيهدي قلبك ويثبت لسانك
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا يحيى بن آدم ثنا إسرائيل عن أبي إسحاق عن
+> حارثة بن مضرب عن على رضي الله عنه قال: بعثني رسول الله صلى الله عليه و
+> سلم إلى اليمن فقلت إنك تبعثني إلى قوم وهم أسن مني لأقضي بينهم فقال
+> اذهب فإن الله سيهدي قلبك ويثبت لسانك
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – Yahya b. Adam –
 Israil – Abu Ishaq – Harithah b. Mudhrab – ‘Ali, may Allah be pleased
@@ -279,11 +227,7 @@ and make firm your tongue**.”[^13]
 
 Shaykh al-Arna’uṭ states:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*[^14]
 
@@ -292,11 +236,7 @@ always guide both his heart and his tongue, and would also make them
 firm. This removes the possibility of error or misguidance in whatsoever
 judgments he ever gave:
 
-<blockquote dir="rtl">
-  <p>
-ومن يهد الله فما له من مضل
-  </p>
-</blockquote>
+> ومن يهد الله فما له من مضل
 
 And whomsoever Allah guides, **for him there can be NO misleader**.[^15]
 
@@ -351,5 +291,4 @@ Muasassat Qurtubah) [annotator: Shu’ayb al-Arnaut], vol. 1, p. 156, \#
 [^14]: Ibid
 
 [^15]: Qur’an 39:37
-
 

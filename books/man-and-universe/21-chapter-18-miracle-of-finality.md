@@ -542,4 +542,3 @@ the specific queries made, and some others deal with the problems that
 came up in the course of a long-drawn struggle. They were revealed to a
 great leader and were collected and arranged later".
 
-

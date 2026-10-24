@@ -64,4 +64,3 @@ agreement every time and they do not guard (against punishment).”***[^3]
 
 [^3]: Qur'an, 8:55-56.
 
-

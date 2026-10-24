@@ -4,12 +4,8 @@
    
   
 
-<blockquote dir="rtl">
-  <p>
-قَالَ عَلِيُّ بْنُ الْحُسَينِ (ع) فِي حَدِيثٍ لَهُ: إِذَا ذَبَحَ
-الْحَّاجُ كَانَ فِدَاهُ مِنَ النَّارِ.
-  </p>
-</blockquote>
+> قَالَ عَلِيُّ بْنُ الْحُسَينِ (ع) فِي حَدِيثٍ لَهُ: إِذَا ذَبَحَ
+> الْحَّاجُ كَانَ فِدَاهُ مِنَ النَّارِ.
 
    
  In a tradition, ‘Ali ibnil Husain [Imam Zainul ‘Aabidin] (peace be upon
@@ -19,5 +15,4 @@ it saves him from the fire of hell.”
  Biharul Anwar, Volume 96, Page 288  
     
   
-
 

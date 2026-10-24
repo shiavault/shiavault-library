@@ -20,4 +20,3 @@ the words ‘in it’ refers to ‘Dua’ that is: This Dua will cause you
 success and ease of your affairs and solving of your problems and
 removal of all griefs and sorrow, Insha Allah.
 
-

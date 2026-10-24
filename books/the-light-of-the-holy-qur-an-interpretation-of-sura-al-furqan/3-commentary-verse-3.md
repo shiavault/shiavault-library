@@ -90,7 +90,6 @@ showing their weakness and inability. It implies that they believed that
 these idols had intellect and sense, but these idols cannot protect
 themselves from loss and can not achieve any benefit!
 
-
 **Commentary : Verse 4**
 
 4. وَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلآَّ إِفْكٌ افْتَرَاهُ
@@ -169,5 +168,4 @@ The Arabic word /zur/ is in fact derived from a word that means the
 upper part of the chest. Then it was applied to whatever that inclines
 from the middle and, because lie deviates from truth and inclines toward
 falsehood, it is called /zur/.
-
 

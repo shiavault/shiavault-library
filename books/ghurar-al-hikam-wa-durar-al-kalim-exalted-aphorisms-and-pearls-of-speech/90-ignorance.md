@@ -16,11 +16,7 @@ body.
 accompanies it is led astray.
 
 > 3ـ اَلجَهْلُ مَطِيَّةٌ شَمُوسٌ، مَنْ رَكِبَها زَلَّ، ومَنْ صَحِبَها
-<blockquote dir="rtl">
-  <p>
-ضَلَّ.
-  </p>
-</blockquote>
+> ضَلَّ.
 
 4. Ignorance of merits is one of the grossest demerits.
 
@@ -42,11 +38,7 @@ accompanies it is led astray.
 befriending the immoral and trusting the traitor.
 
 > 8 ـ أعْظَـمُ الجَهْلِ مُعاداةُ القادِرِ، ومُصـادَقَةُ الفاجِرِ،
-<blockquote dir="rtl">
-  <p>
-والثِّقَةُ بِالغادِرِ.
-  </p>
-</blockquote>
+> والثِّقَةُ بِالغادِرِ.
 
 9. Ignorance is a curse.
 
@@ -109,12 +101,8 @@ achieve any goodness by means of it, nor will you realize any of your
 wishes in the Hereafter through it.
 
 > 23ـ إنَّكُمْ لَنْ تُحَصِّلُوا بِالجَهْلِ أرَباً، ولَنْ تَبْلُغُوا بِهِ
-<blockquote dir="rtl">
-  <p>
-مِنَ الخَيْرِ سَبَبَاً، وَلَنْ تُدْرِكُوا بِهِ مِنَ الآخِرَةِ
-مَطْلَباً.
-  </p>
-</blockquote>
+> مِنَ الخَيْرِ سَبَبَاً، وَلَنْ تُدْرِكُوا بِهِ مِنَ الآخِرَةِ
+> مَطْلَباً.
 
 24. It is through ignorance that every evil is instigated.
 
@@ -185,21 +173,13 @@ faults and to malign people for that which he [himself] cannot turn away
 from.
 
 > 39ـ كَفى بِالمَرْءِ جَهْلاً أنْ يَجْهَلَ عُيُوبَ نَفْسِهِ، ويَطْعَنَ
-<blockquote dir="rtl">
-  <p>
-عَلَى النّاسِ بِما لا يَسْتَطيعُ التَّحَوُّلَ عَنْهُ.
-  </p>
-</blockquote>
+> عَلَى النّاسِ بِما لا يَسْتَطيعُ التَّحَوُّلَ عَنْهُ.
 
 40. It suffices as ignorance for a person to forbid people from that
 which he performs himself.
 
 > 40ـ كَفى بِالمَرْءِ جَهْلاً أنْ يُنْكِرَ عَلَى النّاسِ ما يَأتي
-<blockquote dir="rtl">
-  <p>
-مِثْلَهُ.
-  </p>
-</blockquote>
+> مِثْلَهُ.
 
 41. The language of ignorance is impoliteness.
 
@@ -241,5 +221,4 @@ most felicitous victory.
 50. The cornerstone of ignorance is animosity towards people.
 
 > 50ـ رَأسُ الجَهْلِ مُعاداةُ النّاسِ.
-
 

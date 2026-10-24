@@ -880,4 +880,3 @@ Tehran: Daru 'l-kutub al-Islamiyya, 1392 A.H.
 
 [^21]: With minor changes from S.S.A. Rizvi's Inner Voice, p. 69.
 
-

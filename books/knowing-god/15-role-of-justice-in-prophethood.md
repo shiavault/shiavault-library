@@ -48,58 +48,34 @@ The Holy Quran has, in numerous verses, introduced religion and
 religious law as the straight path; Almighty Allah as the guide and the
 prophets as warner and givers of glad tidings. For example:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنَّنِى هَدَينِى رَبِّى إِلَى‏ صِرَ طٍ مُسْتَقِيمٍ دِيناً
-قِيَماً
-  </p>
-</blockquote>
+> قُلْ إِنَّنِى هَدَينِى رَبِّى إِلَى‏ صِرَ طٍ مُسْتَقِيمٍ دِيناً
+> قِيَماً
 
 ***“Say: Surely, (as for) me, my Lord has guided me to the right path;
 (to) a most right religion…” (6:161)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَهَدَيْنَهُمْ صِرَ طَاً مُّسْتَقِيماً
-  </p>
-</blockquote>
+> وَلَهَدَيْنَهُمْ صِرَ طَاً مُّسْتَقِيماً
 
 ***“And We would certainly have guided them in the right path.”
 (4:68)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّهُ يَهْدِى مَن يَشَآءُ إِلَى‏ صِرَطٍ مُّسْتَقِيمٍ‏
-  </p>
-</blockquote>
+> وَاللَّهُ يَهْدِى مَن يَشَآءُ إِلَى‏ صِرَطٍ مُّسْتَقِيمٍ‏
 
 ***“…and Allah guides whom He pleases to the right way.” (24:46)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلَّهِ المَشْرِقُ وَالمَغْرِبُ يَهْدِى مَنْ يَشَآءُ إِلَى‏
-صِرَطٍ مُّسْتَقِيمٍ‏
-  </p>
-</blockquote>
+> قُلْ لِلَّهِ المَشْرِقُ وَالمَغْرِبُ يَهْدِى مَنْ يَشَآءُ إِلَى‏
+> صِرَطٍ مُّسْتَقِيمٍ‏
 
 ***“Say: The East and the West belong only to Allah; He guides whom He
 likes to the right path.” (2:142)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ رَبِّى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
-مُّسْتَقِيمٌ‏
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ رَبِّى وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
+> مُّسْتَقِيمٌ‏
 
 ***“Surely Allah is my Lord and your Lord, therefore serve Him; this is
 the right path.” (3:51)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَرْسَلْنَكَ إِلَّا مُبَشِّراً وَنَذِيراً
-  </p>
-</blockquote>
+> وَمَآ أَرْسَلْنَكَ إِلَّا مُبَشِّراً وَنَذِيراً
 
 ***“And We have not sent you but as a giver of good news and as a
 warner.” (25:56)***
@@ -112,11 +88,7 @@ is defined as a collection of correct principles of faith, morals and
 laws and rules of religion; and it is the same straight path. Which we
 ask from Allah again and again in prayers that He may guide us to it:
 
-<blockquote dir="rtl">
-  <p>
-اهْدِنَا الصِّرَ طَ الْمُستَقِيمَ‏
-  </p>
-</blockquote>
+> اهْدِنَا الصِّرَ طَ الْمُستَقِيمَ‏
 
 ***“Keep us on the right path.” (1:6)***
 
@@ -175,41 +147,25 @@ this also especially it can be concluded from verses of Quran and
 traditions as well as through logical reasonings. For example the Holy
 Quran says:
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْساً إِلّا وُسْعَهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْساً إِلّا وُسْعَهَا
 
 ***“Allah does not impose upon any soul a duty but to the extent of its
 ability.” (2:286)***
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْساً إِلَّا مَآ آتَاهَا
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْساً إِلَّا مَآ آتَاهَا
 
 ***“Allah does not lay on any soul a burden except to the extent to
 which He has granted it.” (65:7)***
 
-<blockquote dir="rtl">
-  <p>
-وَ جَهِدُواْ فِى اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَكُمْ وَ مَا
-جَعَلَ عَلَيْكُم فِى الدِّينِ مِنْ حَرَجٍ
-  </p>
-</blockquote>
+> وَ جَهِدُواْ فِى اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَكُمْ وَ مَا
+> جَعَلَ عَلَيْكُم فِى الدِّينِ مِنْ حَرَجٍ
 
 ***“And strive hard in (the way of) Allah, (such) a striving as is due
 to Him; He has chosen you and has not laid upon you any hardship in
 religion…” (22:78)***
 
-<blockquote dir="rtl">
-  <p>
-مَا يُرِيدُ اللَّهُ لِيْجَعْلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَكِن يُرِيدُ
-لِيُطَهِّرَكُمْ
-  </p>
-</blockquote>
+> مَا يُرِيدُ اللَّهُ لِيْجَعْلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَكِن يُرِيدُ
+> لِيُطَهِّرَكُمْ
 
 ***“Allah does not desire to put on you any difficulty, but He wishes to
 purify you…” (5:6)***
@@ -307,43 +263,27 @@ deed and evil acts cannot be committed by Almighty Allah.
 
 The same point is explained in numerous verses of Quran:
 
-<blockquote dir="rtl">
-  <p>
-وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ الْقِيَمَةِ فَلَا تُظْلَمُ
-نَفْسٌ شَيْئاً
-  </p>
-</blockquote>
+> وَنَضَعُ الْمَوَزِينَ الْقِسْطَ لِيَوْمِ الْقِيَمَةِ فَلَا تُظْلَمُ
+> نَفْسٌ شَيْئاً
 
 ***“And We will set up a just balance on the day of resurrection, so no
 soul shall be dealt with unjustly in the least…” (21:47)***
 
-<blockquote dir="rtl">
-  <p>
-فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئاً وَلَا تُجْزَوْنَ إِلَّا مَا
-كُنتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئاً وَلَا تُجْزَوْنَ إِلَّا مَا
+> كُنتُمْ تَعْمَلُونَ
 
 ***“So this day no soul shall be dealt with unjustly in the least; and
 you shall not be rewarded aught but that which you did.” (36:54)***
 
-<blockquote dir="rtl">
-  <p>
-لَا يُكَلِّفُ اللَّهُ نَفْساً إِلّا وُسْعَهَا لَهَا مَا كَسَبَتْ
-وَعَلَيْهَا مَا اكْتَسَبَتْ
-  </p>
-</blockquote>
+> لَا يُكَلِّفُ اللَّهُ نَفْساً إِلّا وُسْعَهَا لَهَا مَا كَسَبَتْ
+> وَعَلَيْهَا مَا اكْتَسَبَتْ
 
 ***“Allah does not impose upon any soul a duty but to the extent of its
 ability; for it is (the benefit of) what it has earned and upon it (the
 evil of) what it has wrought.” (2:286)***
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّقُواْ يَوْماً تُرْجَعُونَ فِيهِ إِلَى‏ اللَّهِ ثُمَّ تُوَفَّى‏
-كُلُّ نَفْسٍ مَا كَسَبَتْ وَ هُمْ لَا يُظْلَمُونَ‏
-  </p>
-</blockquote>
+> وَاتَّقُواْ يَوْماً تُرْجَعُونَ فِيهِ إِلَى‏ اللَّهِ ثُمَّ تُوَفَّى‏
+> كُلُّ نَفْسٍ مَا كَسَبَتْ وَ هُمْ لَا يُظْلَمُونَ‏
 
 ***“And guard yourselves against a day in which you shall be returned to
 Allah; then every soul shall be paid back in full what it has earned,
@@ -362,14 +302,10 @@ and chastisement of the hereafter is also as such.
 
 In the Holy Quran, it is said:
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
-عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
-بَعِيداً وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ وَ اللَّهُ رَءُوفٌ
-بِالْعِبَادِ
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَراً وَمَا
+> عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَداً
+> بَعِيداً وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ وَ اللَّهُ رَءُوفٌ
+> بِالْعِبَادِ
 
 ***“On the day that every soul shall find present what it has done of
 good and what it has done of evil, it shall wish that between it and
@@ -388,5 +324,4 @@ morals.
 [^1]: Mizanul Hikmah, Vol. 2, Pg. 180.
 
 [^2]: Biharul Anwar, Vol. 75, Pg. 413.
-
 

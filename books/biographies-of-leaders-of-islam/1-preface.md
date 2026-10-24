@@ -329,4 +329,3 @@ satisfied with narrating the basic events only. May God render our
 humble effort the means of recognizing the real legacy of the holy
 Prophet and his true successors. ALLAHOMMA AMIN.
 
-

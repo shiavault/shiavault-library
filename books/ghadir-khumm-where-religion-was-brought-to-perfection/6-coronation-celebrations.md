@@ -62,4 +62,3 @@ seeing the robe of honor which lie had bestowed on Ali and was also
 desirous to see Ali's coronation celebrations being commemorated in the
 Islamic Society.
 
-

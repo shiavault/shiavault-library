@@ -28,4 +28,3 @@ their fast with one another; and
 
 3) foods recommended for breaking the fast.
 
-

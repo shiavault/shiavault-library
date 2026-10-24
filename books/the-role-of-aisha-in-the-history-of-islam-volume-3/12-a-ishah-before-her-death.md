@@ -699,4 +699,3 @@ In this way 'A'ishah answered the criticism levelled at her by the
 other wives of the Prophet, and acted upon his own monopoly of
 verdicts.
 
-

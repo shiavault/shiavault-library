@@ -11,4 +11,3 @@ love and are still under their spiritual protection and loving support.*
 **Ms. Lisa Zaynab Morgan**
 **<ali_peiravi@yahoo.com>**
 
-

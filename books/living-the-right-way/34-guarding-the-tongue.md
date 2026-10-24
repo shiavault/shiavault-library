@@ -77,4 +77,3 @@ He (a.s.) also said: *“He is cursed, he is cursed, he who attributes
 unbelief to a believer, and he who attributes unbelief to a believer is
 like his murderer.”*
 
-

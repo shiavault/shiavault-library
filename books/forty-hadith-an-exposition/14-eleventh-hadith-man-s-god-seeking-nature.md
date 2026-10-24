@@ -1,16 +1,12 @@
 Eleventh Hadith: Man’s God-Seeking Nature
 =========================================
 
-<blockquote dir="rtl">
-  <p>
-بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ مُحَمَّدِ
-بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ ابْنِ مَحْبُوبٍ، عَنْ
-عَلِيِّ بْنِ رِئَابٍ، عَنْ زُرَارَةَ قَالَ: سَأَلْتُ أَبَا عَبْدِاللهِ
-عَلَيْهِ السَّلامُ عَنْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿فِطْرَةَ اللهِ
-الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾ قَالَ: فَطَرَهُمْ جَمِيعاً عَلَى
-التَّوْحِيدِ.
-  </p>
-</blockquote>
+> بِالسَّنَدِ المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ عَنْ مُحَمَّدِ
+> بْنِ يَحْيَى، عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ، عَنِ ابْنِ مَحْبُوبٍ، عَنْ
+> عَلِيِّ بْنِ رِئَابٍ، عَنْ زُرَارَةَ قَالَ: سَأَلْتُ أَبَا عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ عَنْ قَوْلِ اللهِ عَزَّ وَجَلَّ: ﴿فِطْرَةَ اللهِ
+> الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾ قَالَ: فَطَرَهُمْ جَمِيعاً عَلَى
+> التَّوْحِيدِ.
 
 Muhammad ibn Ya’qub (al-Kulayni), from Muhammad ibn Yahya, from Ahmad
 ibn Muhammad, from Ibn Mahbub, from’ Ali ibn Ri’ab, from Zurarah, who
@@ -35,13 +31,9 @@ here.
 
 The tradition refers to the following verse of the Quran:
 
-<blockquote dir="rtl">
-  <p>
-﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
-الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَةَ اللَّهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَلِكَ الدِّينُ
+> الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ.﴾
 
 ***So set thy face to the Din, as a man of pure Faith-God’s fitrah upon
 which He originated mankind. There is no changing God’s creation. That
@@ -82,11 +74,7 @@ here has been interpreted as *al-Islam;* in the *hasan* *hadith*
 narrated by Zurarah from Abu Ja’far —Imam al-Baqir (A)— it is defined as
 *ma’ri fah* (knowledge of God); and in the well-known *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-كُلُّ مَوْلُودٍ يُولَدُ عَلَى الفِطْرَةِ.
-  </p>
-</blockquote>
+> كُلُّ مَوْلُودٍ يُولَدُ عَلَى الفِطْرَةِ.
 
 Every child is born on the fitrah.
 
@@ -117,11 +105,7 @@ the *ayah* states, (فَطَرَ النَّاسَ عَلَيْهَا), *—He or
 in accordance with it—* that is, no specific group or race is meant. The
 verse further says:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَا تَبْدِيلَ لِخَلْقِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿لَا تَبْدِيلَ لِخَلْقِ اللَّهِ.﴾
 
 *There is no changing God’s creation.*
 
@@ -137,11 +121,7 @@ understand that there has been unity despite apparent disparity. God
 willing, we will cl*arif*y this point further at a later stage. However
 the verse refers to this point when it says:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ.﴾
 
 *But most men know it not.*
 
@@ -159,11 +139,7 @@ among the laws of nature and one of its prerequisites, it should be the
 most manifest of all self-evident truths and the most evident of
 manifest necessities, but strangely enough:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ.﴾
-  </p>
-</blockquote>
+> ﴿أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ.﴾
 
 *Most men know not!*
 
@@ -311,21 +287,13 @@ the immaculate and the eternal Beloved! Look again into the book of your
 nature; turn the pages of the book of your being. Look, the pen of
 Divine creation has written into it:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنِّي وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ
-حَنِيفًا.﴾
-  </p>
-</blockquote>
+> ﴿إِنِّي وَجَّهْتُ وَجْهِي لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ
+> حَنِيفًا.﴾
 
 *I have turned my face towards Him who created the heavens and the
 earth.*
 
-<blockquote dir="rtl">
-  <p>
-﴿فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾
-  </p>
-</blockquote>
+> ﴿فِطْرَةَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا.﴾
 
 (***It is***) ***God’s nature upon which He originated mankind.***
 (***6:79; 30:30***)
@@ -333,11 +301,7 @@ earth.*
 That nature is innate attention to the Absolute Beloved, and it is
 unchanging:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَا تَبْدِيلَ لِخَلْقِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿لَا تَبْدِيلَ لِخَلْقِ اللَّهِ.﴾
 
 It is a nature which seeks the knowledge (*ma’rifah*) of God. How long
 will you lavish this natural God-gifted love and this trust of God on
@@ -350,20 +314,12 @@ and rejoice that you have a beloved who has no decline, no defect, no
 infirmity. The Light you seek is one whose brilliance illuminates the
 Universe:
 
-<blockquote dir="rtl">
-  <p>
-﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***God is the Light of the heavens and the earth.*** (***24:35***)
 
-<blockquote dir="rtl">
-  <p>
-لَوْ دَلَّيْتُمْ بِحَبْلٍ إلِى الأَرْضِينَ السُّفْلَى لَهَبَطْتُمْ
-عَلَى اللهِ.
-  </p>
-</blockquote>
+> لَوْ دَلَّيْتُمْ بِحَبْلٍ إلِى الأَرْضِينَ السُّفْلَى لَهَبَطْتُمْ
+> عَلَى اللهِ.
 
 Your Beloved is such that He encompasses everything.
 
@@ -378,11 +334,7 @@ earlier, the laws of nature and their necessary correlatives are the
 clearest, the most self-evident and the most obvious of prepositions.
 Hence it has been said:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿أَفِي اللَّهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ.﴾
 
 ***Can there be doubt concerning God the Creator of the heavens and the
 earth?!*** (***14:10***)
@@ -519,5 +471,4 @@ nature. And all praise is God’s.
 [^2]: For maintaining readability, (D) which is an acronym for “Daama
 zhilluhu(m)” is used throughout the book to denote “May God extend
 his/their shadow.” It is used for the alive urafa, ulama, and awliya.
-
 

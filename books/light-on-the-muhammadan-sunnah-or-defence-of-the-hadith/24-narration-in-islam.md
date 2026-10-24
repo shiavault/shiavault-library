@@ -1,9 +1,6 @@
 Narration in Islam
 ==================
 
-  
-  
-
 The Companions used to learn under the Messenger of Allah (S) in a
 scientific way so as to be acquainted with the religious teachings and
 rules. Thus the meetings held by him (S) were the first knowledge
@@ -14,7 +11,7 @@ When he (S) passed away, the science of riwayah emerged on the scene,
 since no any way or option for inference (istidlal) and determination
 was there but only through it. Abu Bakr was never accepting any hadith
 from anyone unless be confirmed by a witness that it was heard from the
-Messenger (S), <span id="_anchor_176"></span>176 the job that could be
+Messenger (S), 176 the job that could be
 easily done due to nearness of the Prophet’s lifetime to that period,
 availability of the Companions and the material (of hadith) was still
 not abrogated.
@@ -34,8 +31,7 @@ though reporting some correct traditions, cannot be immune against
 tahrif (misconstruction) or addition or omission in the narrations. It
 is reported that the Prophet (S) said: Whoever falsily ascribes
 
-any saying to me, his abode shall be Fire. <span
-id="_anchor_177"></span>177 Due to this precaution and abstaining from
+any saying to me, his abode shall be Fire. 177 Due to this precaution and abstaining from
 riwayah, many of the eminent Companions and the favourites near the
 Messenger (may God’s peace and benediction be upon him and his Progeny),
 like Abu Bakr, al-Zubayr, Abu Ubaydah, and al-Abbas ibn Abd al-Muttalib
@@ -44,9 +40,8 @@ even narrate nothing, such as Sa’id ibn Zayd who was one among the ten
 men promised with paradise.
 
 The most prolific in narration among the Companions was Abu Hurayrah,
-who kept company of the Prophet for three years, <span
-id="_anchor_178"></span>178 surviving after him for about fifty years.
-<span id="_anchor_179"></span>179 For this reason Umar, Uthman and
+who kept company of the Prophet for three years, 178 surviving after him for about fifty years.
+179 For this reason Umar, Uthman and
 A’ishah were all the time disapproving his narrations with accusing him
 (of falsification), rendering him to be the first narrator ever accused
 throughout Islam. A’ishah was the severest in disapproving his
@@ -61,7 +56,7 @@ common and familiar among people, who never cared for inquiring the
 veracity of traditions, or referring the riwayah to a decisive testimony
 or an establishing proof. But all the errors that occurred in the hadith
 previously were only due to inadvertence and ignorance on the part of
-the narrator. The Companion <span id="_anchor_180"></span>180 (of the
+the narrator. The Companion 180 (of the
 Prophet) Imran ibn Husayn is reported to have said: By God, had I found
 it necessary, I would have reported from the Messenger of Allah (upon
 whom be God’s peace and benediction) as much as I willed, for two
@@ -73,7 +68,7 @@ and expressions be far from what
 they were narrating. So I feared of falling into imagination and
 misconception as happened to them. But the fact I want to disclose being
 that their practice was only out of mistake on their part and was never
-done by them on purpose. <span id="_anchor_181"></span>181
+done by them on purpose. 181
 
 The fact to be observed here is that this procedure was followed at a
 time when all the standards were still standing and branches were still
@@ -84,7 +79,7 @@ communities (firaq), dividing the society into schisms, some of the
 Companions embarked on making of the hadith as a trade (for earning
 living), composing and fabricating false traditions. Then appeared on
 the scene, the relators and Zanadiqah, and people of too ancient akhbar
-(reports), <span id="_anchor_182"></span>182 that were similar to
+(reports), 182 that were similar to
 superstitious traditions, causing so much distortion and corruption to
 the hadith out of all these practices, throughout different ages and
 times. Concerning the relators, they used to gain the hearts of the
@@ -115,22 +110,20 @@ and senior Tabi’un (Followers) – lie the class of Ibn Abbas – hadith
 continued to be inflicted with symptoms of inadvertence, negligence and
 foisted suspicions and interpolations. But there might have been some
 trustworthy narrators who used to report hadith from unreliable ones,
-till the caliphate time of Umar ibn Abd al-Aziz <span
-id="_anchor_183"></span>183 Fearing the bad consequences of people’s
+till the caliphate time of Umar ibn Abd al-Aziz 183 Fearing the bad consequences of people’s
 additions to hadith and spreading of falsity when correct hadith be
 rare, as his time witnessed circulation of traditions, in which falsity
 was made on purpose for no interpretative convenience, like the ones
-falsified by Ikrimah the slave of Ibn Abbas, <span
-id="_anchor_184"></span>184 and in which the slave (mawla) of Sa’id ibn
-al-Musayyab was refuted <span id="_anchor_185"></span>185 and others,
+falsified by Ikrimah the slave of Ibn Abbas, 184 and in which the slave (mawla) of Sa’id ibn
+al-Musayyab was refuted 185 and others,
 Umar sent a letter to his deputy in administration and judgement on
-al-Madinah, <span id="_anchor_186"></span>186 giving him the order:
+al-Madinah, 186 giving him the order:
 Collect all the traditions of the Messenger of Allah and write them
 down, as I am quite afraid about the extinction of knowledge and loss of
 ‘ulama’.
 
 This was the outset of writing down and collecting of the hadith, as it
-was never being written in the past <span id="_anchor_187"></span>187
+was never being written in the past 187
 ... etc.
 
 We conclude this discussion by referring to a critical defect of
@@ -147,7 +140,7 @@ the meaning. The other defect is that they used to practise fraud in
 narration, in a way that a Companion reporting the Messenger’s hadith
 from another one without referring to the name of that from whom he
 reported. This fact was stated by Ibn Qutaybah in his book, Ta’wil
-mukhtalif al-hadith, <span id="_anchor_188"></span>188 when talking
+mukhtalif al-hadith, 188 when talking
 about Hurayrah’s narration which he never heard from the Prophet (S),
 that he used to say: “The Messenger of Allah said kadha (so and so)”,
 but in fact he heard it (hadith) from a trustworthy (in his view)
@@ -155,14 +148,13 @@ narrator, relating it then. And the same was practised by Ibn Abbas and
 other Companions. Such kind of riwayah was called by the scholars of
 hadith by the term tadlis (fraudulence). In his reference to biography
 of Abu Hurayrah, al-Dhahabi said: Abu Hurayrah used to practise tadlis,
-and the tadlis of the Sahabah was so much and faultless. <span
-id="_anchor_189"></span>189
+and the tadlis of the Sahabah was so much and faultless. 189
 
 I have exposed these defects and indicated their bad effects in a
 previous chapter of this book, and in my book Shaykh al-mudirah which I
 published seperately. But there is a quite dangerous defect I haven’t
 referred to before, which was disclosed by the eminent Companion Imran
-ibn Husayn, <span id="_anchor_190"></span>190 in his statement in which
+ibn Husayn, 190 in his statement in which
 he swore saying: “By God had I found it necessary, I would have reported
 from the Messenger of Allah (upon whom be God’s peace and benediction)
 as much as I willed, for two consecutive days, but I abstained from so
@@ -172,9 +164,9 @@ traditions whose original wording and expressions be far from what they
 were narrating. So I feared of falling into imagination and
 misconception as happened to them. But the fact I want to disclose being
 that their practice was only out of mistake on their part, and was never
-done by them on purpose. <span id="_anchor_191"></span>191
+done by them on purpose. 191
 
-In his book Shubhat al-tashbih, <span id="_anchor_192"></span>192 Ibn
+In his book Shubhat al-tashbih, 192 Ibn
 al-Jawzi is reported to have said: Al-Zubayr ibn al-Awwam heard a man
 relating a hadith. He waited till the man finished his speech, when he
 said to him: Did you hear this from the Messenger of Allah? The man
@@ -194,7 +186,7 @@ who would relate to us hadith of the Messenger of Allah (upon whom be
 God’s peace and benediction) and report (hadith) from Ka’b. Then as soon
 as he left us, I would hear someone from among us reporting the
 Messenger’s hadith from Ka’b, with ascribing hadith of Ka’b to the
-Messenger of Allah. <span id="_anchor_193"></span>193
+Messenger of Allah. 193
 
 This report was mentioned by Imran ibn Husayn, al-Zubayr ibn al-Awwam
 and Bisr ibn Sa’id, and every open-minded thoughtful Muslim is asked to

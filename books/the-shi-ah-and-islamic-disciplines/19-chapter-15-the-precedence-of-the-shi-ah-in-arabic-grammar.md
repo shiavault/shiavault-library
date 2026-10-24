@@ -1180,4 +1180,3 @@ kindness of his Gracious Lord, Abu Muhammad al–Hasan, known as Sayyid
 Hasan Sadr al–Din, the son of Allamah Sayyid al–Hadi al–Kazimi, on
 Saturday, the 15th of Jumada al–Akhirah, in the year 1330 A.H.
 
-

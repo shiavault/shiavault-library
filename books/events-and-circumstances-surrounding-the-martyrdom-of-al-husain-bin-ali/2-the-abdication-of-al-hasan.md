@@ -98,4 +98,3 @@ oath of allegiance to Mu'awiya, al-Husayn did not. According to Ibn
 A'tham al-Hasan dis­suaded Mu'awiya from attempting to force al-Husayn
 to pledge allegiance to him7 .
 
-

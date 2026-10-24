@@ -918,4 +918,3 @@ after this visitation.)
 
 All Praise is due for Allah, The Lord of The Worlds
 
-

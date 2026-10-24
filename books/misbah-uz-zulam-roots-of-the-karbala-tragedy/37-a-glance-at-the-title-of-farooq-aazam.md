@@ -102,4 +102,3 @@ following tradition:
 
 [^2]: Ref. Al-Istiab of Ibn Abde Barr
 
-

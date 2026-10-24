@@ -4,17 +4,9 @@ Surah al-Zumar, Verses 30 - 55
 Surah al-Zumar - Verses 30 - 31
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ
-  </p>
-</blockquote>
+> إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ عِنْدَ رَبِّكُمْ تَخْتَصِمُونَ
-  </p>
-</blockquote>
+> ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ عِنْدَ رَبِّكُمْ تَخْتَصِمُونَ
 
 ***30. Verily you will die and indeed they will die [too].***  
 ***31. Then, on the Day of Resurrection, you will be disputing before
@@ -99,13 +91,9 @@ them.[^2]
 Surah al-Zumar - Verse 32
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَی اللَّهِ كَذِباً أَوْ كَذَّبَ
-بِالْحَقِّ لَمَّا جَاءَهُ أَلَيْسَ فِي جَهَنَّمَ مَثْویً
-لِلْكَافِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَی اللَّهِ كَذِباً أَوْ كَذَّبَ
+> بِالْحَقِّ لَمَّا جَاءَهُ أَلَيْسَ فِي جَهَنَّمَ مَثْویً
+> لِلْكَافِرِينَ
 
 ***32. Then, who does more wrong than one who utters a lie against
 Allah, and denies the truth when it [i.e., the truth] comes to him? Is
@@ -158,25 +146,13 @@ Hell embodies all its excruciating torments.
 Surah al-Zumar - Verses 33 - 35
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِي جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ أُولَئِكَ هُمُ
-الْمُتَّقُونَ
-  </p>
-</blockquote>
+> وَالَّذِي جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ أُولَئِكَ هُمُ
+> الْمُتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ذَلِكَ جَزَاءُ الْمُحْسِنِينَ
-  </p>
-</blockquote>
+> لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ذَلِكَ جَزَاءُ الْمُحْسِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-لِيُكَفِّرَ اللَّهُ عَنْهُمْ أَسْوَأَ الَّذِي عَمِلُوا وَيَجْزِيَهُمْ
-أَجْرَهُمْ بِأَحْسَنِ الَّذِي كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> لِيُكَفِّرَ اللَّهُ عَنْهُمْ أَسْوَأَ الَّذِي عَمِلُوا وَيَجْزِيَهُمْ
+> أَجْرَهُمْ بِأَحْسَنِ الَّذِي كَانُوا يَعْمَلُونَ
 
 ***33. And he who brought the Truth and believed therein, those are the
 God fearing.***  
@@ -354,19 +330,11 @@ which were mentioned above under 9:10.
 Surah al-Zumar - Verses 36 - 37
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ
-دُونِهِ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
-  </p>
-</blockquote>
+> أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ
+> دُونِهِ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ أَلَيْسَ اللَّهُ
-بِعَزِيزٍ ذِي انْتِقَامٍ
-  </p>
-</blockquote>
+> وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ أَلَيْسَ اللَّهُ
+> بِعَزِيزٍ ذِي انْتِقَامٍ
 
 ***36. Is not Allah Sufficient for His servant? Yet they try to frighten
 you with those besides Him! And whom Allah sends astray, for him there
@@ -565,15 +533,11 @@ discussions have shed light on the issues.
 Surah al-Zumar - Verse 38
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ اللَّهُ قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ
-اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ
-أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ قُلْ
-حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
-  </p>
-</blockquote>
+> وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ اللَّهُ قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ
+> اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ
+> أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ قُلْ
+> حَسْبِيَ اللَّهُ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ
 
 ***38. And indeed if you ask them: “Who created the heavens and the
 earth?” Surely they will say: “Allah.” Say: “Tell me then, [Have you
@@ -676,18 +640,10 @@ solely rely on Him.
 Surah al-Zumar - Verses 39 - 40
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا قَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ
-تَعْلَمُونَ
-  </p>
-</blockquote>
+> قُلْ يَا قَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ
+> تَعْلَمُونَ
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ
-  </p>
-</blockquote>
+> مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ
 
 ***39. Say: “O my people! Act upon your stance [and position or
 authority]. I [also] act upon mine. Then you will come to know.***  
@@ -719,13 +675,9 @@ firewood.
 Surah al-Zumar - Verse 41
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ لِلنَّاسِ بِالْحَقِّ فَمَنِ
-اهْتَدَی فَلِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا
-أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
-  </p>
-</blockquote>
+> إِنَّا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ لِلنَّاسِ بِالْحَقِّ فَمَنِ
+> اهْتَدَی فَلِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا
+> أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
 
 ***41. Indeed We have sent down unto you [for your Guidance] the Book
 [the Holy Qur’an] for mankind in truth. Therefore, whosoever accepts the
@@ -774,14 +726,10 @@ it or turn away from the same.
 Surah al-Zumar - Verse 42
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ يَتَوَفَّی الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
-فِي مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَی عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
-الْأُخْرَی إِلَی أَجَلٍ مُسَمّیً إِنَّ فِي ذَلِكَ لَآياتٍ لِقَوْمٍ
-يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> اللَّهُ يَتَوَفَّی الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ
+> فِي مَنَامِهَا فَيُمْسِكُ الَّتِي قَضَی عَلَيْهَا الْمَوْتَ وَيُرْسِلُ
+> الْأُخْرَی إِلَی أَجَلٍ مُسَمّیً إِنَّ فِي ذَلِكَ لَآياتٍ لِقَوْمٍ
+> يَتَفَكَّرُونَ
 
 ***42. It is Allah Who takes away the souls at the time of their death
 and those that die not during their sleep. He keeps those [souls] for
@@ -814,12 +762,8 @@ same.
 Surah al-Zumar - Verse 43
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ قُلْ أَوَلَوْ كَانُوا لا
-يَمْلِكُونَ شَيْئاً وَلا يَعْقِلُونَ
-  </p>
-</blockquote>
+> أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ قُلْ أَوَلَوْ كَانُوا لا
+> يَمْلِكُونَ شَيْئاً وَلا يَعْقِلُونَ
 
 ***43. Have they taken [idols] as intercessors besides Allah? Say “Even
 if they have power over nothing whatever and have no intelligence [could
@@ -873,12 +817,8 @@ paths lead to Him.
 Surah al-Zumar - Verse 44
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعاً لَهُ مُلْكُ السَّمَاوَاتِ
-وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعاً لَهُ مُلْكُ السَّمَاوَاتِ
+> وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ
 
 ***44. [O Prophet!] Say [unto them]: “To Allah belongs all intercession
 [in this world and the Hereafter]. His is the Sovereignty of the heavens
@@ -934,13 +874,9 @@ the Verse.
 Surah al-Zumar - Verse 45
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لا
-يُؤْمِنُونَ بِالْآخِرَةِ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا
-هُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لا
+> يُؤْمِنُونَ بِالْآخِرَةِ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا
+> هُمْ يَسْتَبْشِرُونَ
 
 ***45. And when Allah Alone is mentioned, the hearts of those who
 believe not in the Hereafter are filled with disgust and when those
@@ -1003,13 +939,9 @@ Household (as) and the triumphs of their school of thought.[^20]
 Surah al-Zumar - Verse 46
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ
-وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِي مَا كَانُوا فِيهِ
-يَخْتَلِفُونَ
-  </p>
-</blockquote>
+> قُلِ اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ
+> وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِي مَا كَانُوا فِيهِ
+> يَخْتَلِفُونَ
 
 ***46. Say: “O Allah! Creator of the heavens and the earth! Omniscient
 of the unseen and the seen! You shall arbiter between your servants
@@ -1040,13 +972,9 @@ but it will be of no avail.
 Surah al-Zumar - Verse 47
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا مَا فِي الْأَرْضِ جَمِيعاً وَمِثْلَهُ
-مَعَهُ لافْتَدَوْا بِهِ مِنْ سُوءِ الْعَذَابِ يَوْمَ الْقِيَامَةِ
-وَبَدَا لَهُمْ مِنَ اللَّهِ مَا لَمْ يَكُونُوا يَحْتَسِبُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا مَا فِي الْأَرْضِ جَمِيعاً وَمِثْلَهُ
+> مَعَهُ لافْتَدَوْا بِهِ مِنْ سُوءِ الْعَذَابِ يَوْمَ الْقِيَامَةِ
+> وَبَدَا لَهُمْ مِنَ اللَّهِ مَا لَمْ يَكُونُوا يَحْتَسِبُونَ
 
 ***47. And those who did wrong, if they had all that is on earth and
 therewith as much again, they verily, would offer it to ransom
@@ -1095,12 +1023,8 @@ from Allah what I had not been reckoning.”*[^22]
 Surah al-Zumar - Verse 48
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَبَدَا لَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
-يَسْتَهْزِئُونَ
-  </p>
-</blockquote>
+> وَبَدَا لَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ
+> يَسْتَهْزِئُونَ
 
 ***48. And [on that Day] the evils of that which they earned [in their
 mundane life] will become apparent to them, and that which they used to
@@ -1141,13 +1065,9 @@ recompense to be included by predestination.
 Surah al-Zumar - Verse 49
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا مَسَّ الْأِنْسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ
-نِعْمَةً مِنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَی عِلْمٍ بَلْ هِيَ
-فِتْنَةٌ وَلَكِنَّ أَكْثَرَهُمْ لا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَإِذَا مَسَّ الْأِنْسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ
+> نِعْمَةً مِنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَی عِلْمٍ بَلْ هِيَ
+> فِتْنَةٌ وَلَكِنَّ أَكْثَرَهُمْ لا يَعْلَمُونَ
 
 ***49. When harm touches man, he calls to Us; then when We have granted
 him a favor, he says: “Only because of my knowledge [and plan of
@@ -1211,20 +1131,12 @@ as a prelude to gaining knowledge.
 Surah al-Zumar - Verses 50 - 51
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ قَالَهَا الَّذِينَ مِنْ قَبْلِهِمْ فَمَا أَغْنَی عَنْهُمْ مَا
-كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> قَدْ قَالَهَا الَّذِينَ مِنْ قَبْلِهِمْ فَمَا أَغْنَی عَنْهُمْ مَا
+> كَانُوا يَكْسِبُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَأَصَابَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَالَّذِينَ ظَلَمُوا مِنْ
-هَؤُلاءِ سَيُصِيبُهُمْ سَيِّئَاتُ مَا كَسَبُوا وَمَا هُمْ
-بِمُعْجِزِينَ
-  </p>
-</blockquote>
+> فَأَصَابَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَالَّذِينَ ظَلَمُوا مِنْ
+> هَؤُلاءِ سَيُصِيبُهُمْ سَيِّئَاتُ مَا كَسَبُوا وَمَا هُمْ
+> بِمُعْجِزِينَ
 
 ***50. Indeed, those before them said it [as well], yet that they had
 earned [in the world] availed them not.***  
@@ -1289,12 +1201,8 @@ it sounds that the former is more appropriate herein.
 Surah al-Zumar - Verse 52
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَوَلَمْ يَعْلَمُوا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ
-وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآياتٍ لِقَوْمٍ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> أَوَلَمْ يَعْلَمُوا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ
+> وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآياتٍ لِقَوْمٍ يُؤْمِنُونَ
 
 ***52. Do they not know [yet] that Allah enlarges the provision for whom
 He wills? Indeed, in this are signs [of Divine Omniscience and
@@ -1351,13 +1259,9 @@ incompetence and be not ensnared by vanity.
 Surah al-Zumar - Verse 53
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَی أَنْفُسِهِمْ لا
-تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
-جَمِيعاً إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَی أَنْفُسِهِمْ لا
+> تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ
+> جَمِيعاً إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
 
 ***53. Say “O My servants who have transgressed against [and wronged]
 yourselves! Despair not of the Mercy of Allah: verily, Allah forgives
@@ -1529,12 +1433,8 @@ Mercy Wahshi and the like.
 Surah al-Zumar - Verse 54
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِيبُوا إِلَی رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ
-يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لا تُنْصَرُونَ
-  </p>
-</blockquote>
+> وَأَنِيبُوا إِلَی رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ
+> يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لا تُنْصَرُونَ
 
 ***54. “And turn in repentance and in obedience with true faith to your
 Lord and submit to Him before the torment comes upon you then you will
@@ -1557,12 +1457,8 @@ upon you then you will not be helped.”***
 Surah al-Zumar - Verse 55
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ مِنْ
-قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لا تَشْعُرُونَ
-  </p>
-</blockquote>
+> وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ مِنْ
+> قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لا تَشْعُرُونَ
 
 ***55. “And follow the best of that which is sent down to you from your
 Lord before the torment comes on you suddenly while you perceive
@@ -1679,5 +1575,4 @@ Verse in question.
 [^29]: 4:48
 
 [^30]: 4:48
-
 

@@ -63,4 +63,3 @@ soldiers to violate the sanctity of the Medina of the Prophet . Despite
 all of this, you can still find an “Islamic” state writing a book titled
 Facts about Ameer al-Momineen Yazid ibn Mu\`awiyah!
 
-

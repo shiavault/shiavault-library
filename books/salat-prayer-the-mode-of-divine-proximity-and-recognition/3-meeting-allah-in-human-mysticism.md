@@ -146,4 +146,3 @@ there remains no sign of his existence whatsoever after his death.”[^6]
 
 [^6]: Muhr e Taban, p. 200
 
-

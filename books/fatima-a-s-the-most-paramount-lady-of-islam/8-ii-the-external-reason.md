@@ -115,4 +115,3 @@ no intention are aimless; and at last, those are about to make up for
 the past deficiencies all costs and with no regard to their own honor
 are the men of complex.
 
-

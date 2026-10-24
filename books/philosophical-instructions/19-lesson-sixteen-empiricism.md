@@ -204,4 +204,3 @@ that intellectual concepts are not the same as the changed forms of
 sensory ideas. In the case of affirmations, it means that the intellect
 does not require sensory experience to make its own specific judgments.
 
-

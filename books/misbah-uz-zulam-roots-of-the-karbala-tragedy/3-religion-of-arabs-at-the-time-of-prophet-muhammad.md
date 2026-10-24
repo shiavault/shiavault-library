@@ -66,4 +66,3 @@ a world where every happening must have a cause.
 
 [^2]: This book is now out of stock and perhaps not available anywhere.
 
-

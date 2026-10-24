@@ -61,11 +61,7 @@ supporters.
 prepared his power for its transference.
 
 > 14ـ مَنْ لَمْ يَحْتَمِلْ مَؤُنَةَ النّاسِ فَقَدْ أهَّلَ قُدْرَتَهُ
-<blockquote dir="rtl">
-  <p>
-لاِنْتِقالِها.
-  </p>
-</blockquote>
+> لاِنْتِقالِها.
 
 15. It is part of honour to tolerate the wrongdoings of [one’s]
 brothers.
@@ -77,15 +73,10 @@ of] concealing faults and verily the wise one is half [the time]
 tolerant and half [the time] feigning negligence.
 
 > 16ـ اِحْتَمِلْ ما يَمُرُّ عَلَيْكَ، فَإنَّ الاِحْتِمالَ سَتْرُ
-<blockquote dir="rtl">
-  <p>
-الْعُيُوبِ، وإنَّ الْعاقِلَ نِصْفُهُ اِحْتِمالٌ، ونِصْفُهُ تَغافُلٌ.
-  </p>
-</blockquote>
+> الْعُيُوبِ، وإنَّ الْعاقِلَ نِصْفُهُ اِحْتِمالٌ، ونِصْفُهُ تَغافُلٌ.
 
 17. Continually bearing the liabilities [of others] causes loftiness [of
 character].
 
 > 17ـ إدْمانُ تَحَمُّلِ المَغارِمِ يُوجِبُ الْجَلالَةَ.
-
 

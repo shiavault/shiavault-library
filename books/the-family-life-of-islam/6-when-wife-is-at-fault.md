@@ -240,4 +240,3 @@ human feelings to keep its use to the minimum. The result is that in
 Islamic society divorce is a rare thing; and a Muslim's domestic life is
 so secured that non-Muslims cannot imagine it.
 
-

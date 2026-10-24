@@ -410,11 +410,7 @@ their wealth and gave the remaining to them and all the property was
 seized of one who did not embrace Islam. At that time the following
 verse was revealed:
 
-<blockquote dir="rtl">
-  <p>
-وَآتِ ذَا الْقُرْبَى حَقَّهٗ
-  </p>
-</blockquote>
+> وَآتِ ذَا الْقُرْبَى حَقَّهٗ
 
 ***“And give to the near of kin his due…”***[^2]
 
@@ -613,5 +609,4 @@ miracles to support this verse regarding the conquest of Fadak.
 described shortly.
 
 [^5]: A dish of sopped bread, meat and broth.
-
 

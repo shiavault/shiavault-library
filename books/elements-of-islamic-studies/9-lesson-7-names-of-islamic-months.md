@@ -25,4 +25,3 @@ Lesson 7: Names of Islamic Months
 
 12. Dhi’l Hajj.
 
-

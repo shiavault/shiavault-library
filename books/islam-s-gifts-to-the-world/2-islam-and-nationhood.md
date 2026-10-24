@@ -102,7 +102,6 @@ serendipity for us for, in the poet's words,
 
 Returned, and found my Heaven was here at home."
 
-
 **Islam and Economics**
 
 Man has always had to wrestle with the task of exploiting nature's
@@ -460,5 +459,4 @@ while his omission of sunlight and rain. which are natural in the
 thought of Westerners as free for all, are not mentioned because that
 belt has always too much sunshine and too little rainfall (Translator's
 note).
-
 

@@ -142,7 +142,6 @@ main intellectual reasons used to prove the existence of God.
 This kind of knowledge is called spiritual knowledge and will be dealt
 with in more detail later.
 
-
 **Lesson 4 : Using The System As Proof Of God**
 
 **Part I**
@@ -231,5 +230,4 @@ with by the various components in a manner that can be best described as
 foresight. Amongst humans, an example could be the need that every
 individual has to procreate and thus perpetuate their species through
 reproduction.
-
 

@@ -6,12 +6,8 @@ Ibrahim, *‘alaihi al-salam*, who never commit wrongdoing. Sin, of
 course, is a form of wrongdoing, as explained by Imam Fakhr al-Din
 al-Razi (d. 606 H):
 
-<blockquote dir="rtl">
-  <p>
-قوله تعالى} :لا ينال عهدي الظالمين {فكل من أقدم على الذنب كان ظالما
-لنفسه لقوله تعالى} :فمنهم ظالم لنفسه{
-  </p>
-</blockquote>
+> قوله تعالى} :لا ينال عهدي الظالمين {فكل من أقدم على الذنب كان ظالما
+> لنفسه لقوله تعالى} :فمنهم ظالم لنفسه{
 
 His Statement {My Covenant shall not reach the wrongdoers}: **So,
 whosoever commits a sin, he is a wrongdoer to himself** due to His, the
@@ -20,11 +16,7 @@ Most High’s Statement: {And of them are those who wrong themselves}
 
 This is confirmed by the Book of Allah too:
 
-<blockquote dir="rtl">
-  <p>
-ومن يتعد حدود الله فأولئك هم الظالمون
-  </p>
-</blockquote>
+> ومن يتعد حدود الله فأولئك هم الظالمون
 
 And whosoever transgresses the set limits of Allah, **then such are the
 wrongdoers**.[^2]
@@ -36,11 +28,7 @@ all else. This process shall continue interrupted till the Hour.
 *Imamah* is also a “kingdom”. Therefore, on account of their *khilafah*,
 Ibrahim and his offspring were kings too, appointed by Allah:
 
-<blockquote dir="rtl">
-  <p>
-فقد آتينا آل إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما
-  </p>
-</blockquote>
+> فقد آتينا آل إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما
 
 We have granted the Book and the *Hikmah* to **the family of Ibrahim**,
 **and We gave them A GREAT KINGDOM**.[^3]
@@ -48,17 +36,13 @@ We have granted the Book and the *Hikmah* to **the family of Ibrahim**,
 Shaykh al-Kulayni (d. 329 H) reports this authentic *riwayah* about the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن أبيه، عن محمد بن أبي عمير، عن عمر بن أذينة، عن بريد
-العجلي عن أبي جعفر عليه السلام في قول الله تبارك وتعالى} :فقد آتينا آل
-إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما {قال: جعل منهم الرسل
-والأنبياء والأئمة فكيف يقرون في آل إبراهيم عليه السلام وينكرونه في آل
-محمد صلى الله عليه وآله؟ !قال: قلت} :وآتيناهم ملكا عظيما{؟ قال: الملك
-العظيم أن جعل فيهم أئمة، من أطاعهم أطاع الله، ومن عصاهم عصى الله، فهو
-الملك العظيم.
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن أبيه، عن محمد بن أبي عمير، عن عمر بن أذينة، عن بريد
+> العجلي عن أبي جعفر عليه السلام في قول الله تبارك وتعالى} :فقد آتينا آل
+> إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما {قال: جعل منهم الرسل
+> والأنبياء والأئمة فكيف يقرون في آل إبراهيم عليه السلام وينكرونه في آل
+> محمد صلى الله عليه وآله؟ !قال: قلت} :وآتيناهم ملكا عظيما{؟ قال: الملك
+> العظيم أن جعل فيهم أئمة، من أطاعهم أطاع الله، ومن عصاهم عصى الله، فهو
+> الملك العظيم.
 
 ‘Ali b. Ibrahim – his father – Muhammad b. Abi ‘Umayr – ‘Umar b. Uzaynah
 – Burayd al-‘Ijli:
@@ -78,33 +62,21 @@ them has disobeyed Allah. So, that is the great kingdom.”[^4]
 
 ‘Allamah al-Majlisi says about the *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-حسن
-  </p>
-</blockquote>
+> حسن
 
 *Hasan*.[^5]
 
 ‘Allamah al-Ruhani, on his part, states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^6]
 
 Then, he adds:
 
-<blockquote dir="rtl">
-  <p>
-الملك بالضم هو المملكة، فجعل الأئمة من جهة الأمر بإطاعتهم وجعلها قرين
-إطاعة الله تعالى صاحب الملك العظيم عبارة أخرى عن الحكومة المطلقة كما
-هو واضح.
-  </p>
-</blockquote>
+> الملك بالضم هو المملكة، فجعل الأئمة من جهة الأمر بإطاعتهم وجعلها قرين
+> إطاعة الله تعالى صاحب الملك العظيم عبارة أخرى عن الحكومة المطلقة كما
+> هو واضح.
 
 **The kingdom is the royal power**. So, He appointed the Imams and, in
 terms of the command to obey them, He made it equivalent to obedience to
@@ -114,11 +86,7 @@ another terminology for the absolute government.[^7]
 The Qur’an has further given the specific example of Dawud, *‘alaihi
 al-salam*, who was one of the Imams from the family of Ibrahim:
 
-<blockquote dir="rtl">
-  <p>
-يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
-  </p>
-</blockquote>
+> يا داوود إنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق
 
 O Dawud! We have appointed you **A** ***KHALIFAH*** over the earth.
 Therefore, judge between mankind with the truth.[^8]
@@ -126,11 +94,7 @@ Therefore, judge between mankind with the truth.[^8]
 Meanwhile, while referring to his *khilafah* elsewhere, Allah emphasizes
 its royal nature:
 
-<blockquote dir="rtl">
-  <p>
-وشددنا ملكه وآتيناه الحكمة وفصل الخطاب
-  </p>
-</blockquote>
+> وشددنا ملكه وآتيناه الحكمة وفصل الخطاب
 
 We made **HIS KINGDOM** strong and gave him wisdom and sound
 judgment.[^9]
@@ -139,22 +103,14 @@ So, he was – as in the case of all the other Imams too – a royal
 *khalifah*. More importantly, his *khilafah* was also hereditary in
 nature:
 
-<blockquote dir="rtl">
-  <p>
-وورث سليمان داوود
-  </p>
-</blockquote>
+> وورث سليمان داوود
 
 And Sulayman **INHERITED** Dawud.[^10]
 
 Imam al-Tabari (d. 310 H) says in his exegesis of the *ayah*:
 
-<blockquote dir="rtl">
-  <p>
-يقول تعالى ذكره :وورث سليمان أباه داود العلم الذي كان آتاه الله في
-حياته، والملك الذي كان خصه به على سائر قومه
-  </p>
-</blockquote>
+> يقول تعالى ذكره :وورث سليمان أباه داود العلم الذي كان آتاه الله في
+> حياته، والملك الذي كان خصه به على سائر قومه
 
 He, the Most High, says: Sulayman **INHERITED the knowledge** which
 Allah gave his father during his lifetime and **the kingdom** which He
@@ -162,23 +118,15 @@ specially bestowed upon him above all of his people.[^11]
 
 Al-Hafiz Ibn Kathir (d. 774 H) also states:
 
-<blockquote dir="rtl">
-  <p>
-قال الله تعالى: }وورث سليمان داود) {...النمل: ١٦ (أي ورثه في النبوة
-والملك
-  </p>
-</blockquote>
+> قال الله تعالى: }وورث سليمان داود) {...النمل: ١٦ (أي ورثه في النبوة
+> والملك
 
 Allah the Most High said: {And Sulayman inherited Dawud...} [27:16],
 **that is, INHERITANCE of prophethood and kingdom**.[^12]
 
 And Imam Ibn al-Jawzi (d. 597 H) has these words too:
 
-<blockquote dir="rtl">
-  <p>
-قوله تعالى: }وورث سليمان داود {أي :ورث نبوته وعلمه وملكه
-  </p>
-</blockquote>
+> قوله تعالى: }وورث سليمان داود {أي :ورث نبوته وعلمه وملكه
 
 Allah the Most High says {And Sulayman inherited Dawud}, that is: **he
 INHERITED his prophethood, knowledge and kingdom**.[^13]
@@ -198,11 +146,7 @@ Arabia hinges primarily upon its royal nature[^14]. However, kingdom is
 a legitimate, Islamic mode of governance. In fact, it is Allah’s Own
 style of government:
 
-<blockquote dir="rtl">
-  <p>
-فتعالى الله الملك الحق لا إله إلا هو رب العرش الكريم
-  </p>
-</blockquote>
+> فتعالى الله الملك الحق لا إله إلا هو رب العرش الكريم
 
 So Exalted be Allah, **the True King**. There is no god but He, the Lord
 of the Honourable Throne.[^15]
@@ -210,22 +154,14 @@ of the Honourable Throne.[^15]
 This was equally His chosen form of government for many of His prophets,
 messengers and Imams:
 
-<blockquote dir="rtl">
-  <p>
-وقال لهم نبيهم إن الله قد بعث لكم طالوت ملكا
-  </p>
-</blockquote>
+> وقال لهم نبيهم إن الله قد بعث لكم طالوت ملكا
 
 And their prophet said to them, “Indeed, Allah has appointed Talut as
 **a king** over you.”[^16]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-وقتل داوود جالوت وآتاه الله الملك
-  </p>
-</blockquote>
+> وقتل داوود جالوت وآتاه الله الملك
 
 And Dawud killed Jalut, **and Allah gave him the kingdom**.[^17]
 
@@ -234,22 +170,14 @@ inherited the kingdom from him.
 
 Even in Paradise, the system of government there will be monarchy:
 
-<blockquote dir="rtl">
-  <p>
-وإذا رأيت ثم رأيت نعيما وملكا كبيرا
-  </p>
-</blockquote>
+> وإذا رأيت ثم رأيت نعيما وملكا كبيرا
 
 And when you look there, you will see delight, **and a magnificent
 kingdom**.[^18]
 
 And:
 
-<blockquote dir="rtl">
-  <p>
-متكئين على سرر مصفوفة
-  </p>
-</blockquote>
+> متكئين على سرر مصفوفة
 
 They will recline **on thrones** arranged in ranks.[^19]
 
@@ -264,18 +192,14 @@ sinless kings were appointed by our Lord. Interestingly, He has bestowed
 the same blessing upon the family of Muhammad too, *sallallahu ‘alaihi
 wa ‘alaihim*, in line with this *hadith* of Imam al-Bukhari (d. 256 H):
 
-<blockquote dir="rtl">
-  <p>
-حدثنا قيس بن حفص وموسى بن إسماعيل قالا حدثنا عبد الواحد بن زياد حدثنا
-أبو قرة مسلم بن سالم الهمذاني قال حدثني عبد الله ابن عيسى سمع عبد
-الرحمن بن أبي ليلى قال : لقيني كعب بن عجرة فقال ألا أهدي لك هدية
-سمعتها من النبي صلى الله عليه و سل؟ فقلت بلى فأهدها لي فقال سألنا رسول
-الله صلى الله عليه و سلم فقلنا يا رسول الله كيف الصلاة عليكم أهل البيت
-فإن الله قد علمنا كيف نسلم عليكم؟ قال قولوا اللهم صل على محمد وعلى آل
-محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجي اللهم بارك على
-محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد
-  </p>
-</blockquote>
+> حدثنا قيس بن حفص وموسى بن إسماعيل قالا حدثنا عبد الواحد بن زياد حدثنا
+> أبو قرة مسلم بن سالم الهمذاني قال حدثني عبد الله ابن عيسى سمع عبد
+> الرحمن بن أبي ليلى قال : لقيني كعب بن عجرة فقال ألا أهدي لك هدية
+> سمعتها من النبي صلى الله عليه و سل؟ فقلت بلى فأهدها لي فقال سألنا رسول
+> الله صلى الله عليه و سلم فقلنا يا رسول الله كيف الصلاة عليكم أهل البيت
+> فإن الله قد علمنا كيف نسلم عليكم؟ قال قولوا اللهم صل على محمد وعلى آل
+> محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجي اللهم بارك على
+> محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد
 
 Qays b. Hafs and Musa b. Isma’il – ‘Abd al-Wahid b. Ziyad – Abu Qurrah
 Muslim b. Salim al-Hamdani – ‘Abd Allah b. ‘Isa – ‘Abd al-Rahman b. Abi
@@ -299,13 +223,9 @@ kingdom” has been granted by Allah. They have been blessed *in exactly
 the same manner* as the family of Ibrahim. Imam Ibn Abi Shaybah (d. 235
 H) also records a *hadith* which leaves no doubt about the matter:
 
-<blockquote dir="rtl">
-  <p>
-أبو داود عمر بن سعد عن شريك عن الركين عن القاسم بن حسان عن زيد بن ثابت
-يرفعه قال : إني تركت فيكم الخليفتين كاملتين :كتاب الله وعترتي، وإنهما
-لن يتفرقا حتى يردا علي الحوض.
-  </p>
-</blockquote>
+> أبو داود عمر بن سعد عن شريك عن الركين عن القاسم بن حسان عن زيد بن ثابت
+> يرفعه قال : إني تركت فيكم الخليفتين كاملتين :كتاب الله وعترتي، وإنهما
+> لن يتفرقا حتى يردا علي الحوض.
 
 Abu Dawud ‘Umar b. Sa’d – Sharik – al-Rukayn – al-Qasim b. Hassan – Zayd
 b. Thabit – the Prophet:
@@ -317,11 +237,7 @@ Lake-Fount.”[^21]
 
 The two annotators say:
 
-<blockquote dir="rtl">
-  <p>
-والحديث صحيح، له شواهد
-  </p>
-</blockquote>
+> والحديث صحيح، له شواهد
 
 **The** ***hadith*** **is** ***sahih***. It has witnesses
 (*shawahid*).[^22]
@@ -330,11 +246,7 @@ The word *khalifah*, of course, is both singular and plural. Therefore,
 it can refer to only one *khalifah* or to many, as submitted by Imam
 al-Raghib al-Isfahani (d. 501 H):
 
-<blockquote dir="rtl">
-  <p>
-والخليفة يقال للواحد والجمع
-  </p>
-</blockquote>
+> والخليفة يقال للواحد والجمع
 
 The word *khalifah* is used to refer to a single person or to a
 group.[^23]
@@ -345,11 +257,7 @@ Qurayshi *khalifahs* who rule by kingdom till the Day of *al-Qiyamah*.
 In particular, the *hadith* has emphasized upon their sinlessness – a
 fundamental requirement in *Imamah*:
 
-<blockquote dir="rtl">
-  <p>
-وإنهما لن يتفرقا حتى يردا علي الحوض.
-  </p>
-</blockquote>
+> وإنهما لن يتفرقا حتى يردا علي الحوض.
 
 Verily, both shall NEVER separate from each other until they meet me at
 the Lake-Fount.
@@ -363,13 +271,9 @@ Allah the Messenger of Allah. Everything they think, say or do is a
 fulfilment of the Qur’an – absolutely everything! Imam Ahmad (d. 241 H)
 records the same situation for the Prophet:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا عبد الله حدثني أبي ثنا عبد الرزاق عن معمر عن قتادة عن زرارة عن
-سعد بن هشام قال سألت عائشة فقلت أخبريني عن خلق رسول الله صلى الله عليه
-و سلم فقالت كان خلقه القرآن
-  </p>
-</blockquote>
+> حدثنا عبد الله حدثني أبي ثنا عبد الرزاق عن معمر عن قتادة عن زرارة عن
+> سعد بن هشام قال سألت عائشة فقلت أخبريني عن خلق رسول الله صلى الله عليه
+> و سلم فقالت كان خلقه القرآن
 
 ‘Abd Allah (b. Ahmad) – my father (Ahmad b. Hanbal) – ‘Abd al-Razzaq –
 Ma’mar – Qatadah – Zurarah – Sa’d b. Hisham:
@@ -380,11 +284,7 @@ Qur’an**”.[^24]
 
 Shaykh al-Arnauṭ comments:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح على شرط الشيخين
-  </p>
-</blockquote>
+> إسناده صحيح على شرط الشيخين
 
 Its chain is *sahih* upon the standard of the two Shaykhs[^25]
 
@@ -395,14 +295,10 @@ The first of these royal *khalifahs* was Amir al-Muminin ‘Ali b. Abi
 Talib, *‘alaihi al-salam*, according to the Prophet himself. Imam Ibn
 Abi ‘Asim (d. 287 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
-أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
-وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
-في كل مؤمن من بعدي.
-  </p>
-</blockquote>
+> ثنا محمد بن المثنى، حدثنا يحي بن حماد، عن أبي عوانة، عن يحيى بن سليم
+> أبي بلج عن عمرو بن ميمون، عن ابن عباس قال: قال رسول الله صلى الله عليه
+> وسلم لعلي: أنت مني بمنزلة هارون من موسى إلا أنك لست نبيا وأنت خليفتي
+> في كل مؤمن من بعدي.
 
 Muhammad b. al-Muthanna – Yahya b. Hammad – Abu ‘Awanah – Yahya b.
 Sulaym Abu Balj – ‘Amr b. Maymun – Ibn ‘Abbas: **The Messenger of Allah,
@@ -412,64 +308,40 @@ MY** ***KHALIFAH*** **over every believer after me**.”[^26]
 
 Dr. al-Jawabirah says:
 
-<blockquote dir="rtl">
-  <p>
-اسناده حسن. رجاله رجال الشيخين غير ابي‌ بلج واسمه يحيي بن سليم بن بلج،
-قال الحافظ: صدوق ربما اخطأ. وله شواهد
-  </p>
-</blockquote>
+> اسناده حسن. رجاله رجال الشيخين غير ابي‌ بلج واسمه يحيي بن سليم بن بلج،
+> قال الحافظ: صدوق ربما اخطأ. وله شواهد
 
 Its chain is *hasan*.[^27]
 
 ‘Allamah al-Albani (d. 1420 H) also comments on the *sanad*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده حسن .ورجاله ثقات رجال الشيخين غير أبي بلج واسمه يحيى بن سليم بن
-بلج قال الحافظ" :صدوق ربما أخطأ ".
-  </p>
-</blockquote>
+> إسناده حسن .ورجاله ثقات رجال الشيخين غير أبي بلج واسمه يحيى بن سليم بن
+> بلج قال الحافظ" :صدوق ربما أخطأ ".
 
 Its chain is *hasan*.[^28]
 
 Grading the same chain, Imam al-Hakim (d. 403 H) declares:
 
-<blockquote dir="rtl">
-  <p>
-هذا حديث صحيح الإسناد
-  </p>
-</blockquote>
+> هذا حديث صحيح الإسناد
 
 This *hadith* has **a** ***sahih*** **chain**.[^29]
 
 Imam al-Dhahabi (d. 748 H) concurs with him:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*.[^30]
 
 ‘Allamah Ahmad Shakir (d. 1377 H) too says on the same *sanad*:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^31]
 
 Imam al-Busiri (d. 840 H) does not hold a different opinion either about
 the *isnad*:
 
-<blockquote dir="rtl">
-  <p>
-سند صحيح
-  </p>
-</blockquote>
+> سند صحيح
 
 A *sahih* chain.[^32]
 
@@ -637,5 +509,4 @@ edition, 1420 H), vol. 7, p. 184, \# 6630
 [^33]: See Qur’an 2:34, 7:11, 17:61, 18:50, 20:116, 38:71-74,
 
 [^34]: Qur’an 18:50
-
 

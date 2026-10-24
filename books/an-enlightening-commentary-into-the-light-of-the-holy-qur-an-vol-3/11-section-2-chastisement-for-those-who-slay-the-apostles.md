@@ -8,14 +8,10 @@ upon whoever He wills and takes away from whoever He wills.
 Surah 'Ali-Imran, Verse 20
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلّهِ وَمَنِ اتَّبَعَنِ
-وَقُل لِّلَّذِينَ أُوْتُواْ الْكِتَابَ وَالأُمِّيِّينَ أَأَسْلَمْتُمْ
-فَإِنْ أَسْلَمُواْ فَقَدِ اهْتَدَواْ وَّإِن تَوَلَّوْاْ فَإِنَّمَا
-عَلَيْكَ الْبَلاَغُ وَاللّهُ بَصِيرٌ بِالْعِبَادِ
-  </p>
-</blockquote>
+> فَإنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلّهِ وَمَنِ اتَّبَعَنِ
+> وَقُل لِّلَّذِينَ أُوْتُواْ الْكِتَابَ وَالأُمِّيِّينَ أَأَسْلَمْتُمْ
+> فَإِنْ أَسْلَمُواْ فَقَدِ اهْتَدَواْ وَّإِن تَوَلَّوْاْ فَإِنَّمَا
+> عَلَيْكَ الْبَلاَغُ وَاللّهُ بَصِيرٌ بِالْعِبَادِ
 
 **20.** ***"So if they dispute with you, say: 'I have submitted myself
 (totally) to Allah, and whoever follows me'. And say to those who have
@@ -66,20 +62,12 @@ and guidance.
 Surah 'Ali-Imran, Verses 21-22
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يَكْفُرُونَ بِآيَاتِ اللّهِ وَيَقْتُلُونَ
-النَّبِيِّينَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ الِّذِينَ يَأْمُرُونَ
-بِالْقِسْطِ مِنَ النَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يَكْفُرُونَ بِآيَاتِ اللّهِ وَيَقْتُلُونَ
+> النَّبِيِّينَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ الِّذِينَ يَأْمُرُونَ
+> بِالْقِسْطِ مِنَ النَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 
-<blockquote dir="rtl">
-  <p>
-أُولَـئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالآخِرَةِ
-وَمَا لَهُم مِّن نَّاصِرِينَ
-  </p>
-</blockquote>
+> أُولَـئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالآخِرَةِ
+> وَمَا لَهُم مِّن نَّاصِرِينَ
 
 **21. "*****Verily, those who disbelieve in the Signs of Allah and slay
 the prophets unjustly and slay those, of people, who enjoin equity, give
@@ -127,13 +115,9 @@ deeds; and this is the very reality of the Qur’anic term /hubut/,
 Surah 'Ali-Imran, Verse 23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ أُوْتُواْ نَصِيبًا مِّنَ الْكِتَابِ
-يُدْعَوْنَ إِلَى كِتَابِ اللّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّى
-فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ أُوْتُواْ نَصِيبًا مِّنَ الْكِتَابِ
+> يُدْعَوْنَ إِلَى كِتَابِ اللّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّى
+> فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ
 
 **23.** ***"Have you not seen those who have been given a portion of the
 Book? They are invited to the book of Allah that it may judge between
@@ -182,12 +166,8 @@ be careful not to turn away from the commandments of the Lord.
 Surah 'Ali-Imran, Verse 24
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأَنَّهُمْ قَالُواْ لَن تَمَسَّنَا النَّارُ إِلاَّ أَيَّامًا
-مَّعْدُودَاتٍ وَغَرَّهُمْ فِي دِينِهِم مَّا كَانُواْ يَفْتَرُونَ
-  </p>
-</blockquote>
+> ذَلِكَ بِأَنَّهُمْ قَالُواْ لَن تَمَسَّنَا النَّارُ إِلاَّ أَيَّامًا
+> مَّعْدُودَاتٍ وَغَرَّهُمْ فِي دِينِهِم مَّا كَانُواْ يَفْتَرُونَ
 
 The vain mottoes and wrong imaginations of the Jews have immensely been
 mentioned in the Qur'an that they used to say some things with the sense
@@ -206,12 +186,8 @@ refrain from no transgression to gain it.
 Surah 'Ali-Imran, Verse 25
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَيْفَ إِذَا جَمَعْنَاهُمْ لِيَوْمٍ لاَّ رَيْبَ فِيهِ وَوُفِّيَتْ
-كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لاَ يُظْلَمُونَ
-  </p>
-</blockquote>
+> فَكَيْفَ إِذَا جَمَعْنَاهُمْ لِيَوْمٍ لاَّ رَيْبَ فِيهِ وَوُفِّيَتْ
+> كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لاَ يُظْلَمُونَ
 
 **25.** ***"Then, how (will it be with them) when We shall gather them
 together for the Day (of judgement) about which there is no doubt, when
@@ -237,13 +213,9 @@ performer, who is its owner, too.
 Surah 'Ali-Imran, Verse 26
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء
-وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن
-تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء
+> وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن
+> تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ
 
 **26.** ***"Say: ' O' Allah! Master of the Kingdom! You shower the
 kingdom upon whom You please and take away the kingdom from whom You
@@ -330,13 +302,9 @@ things."***
 Surah 'Ali-Imran, Verse 27
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-تُولِجُ اللَّيْلَ فِي الْنَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ
-وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الَمَيَّتَ مِنَ
-الْحَيِّ وَتَرْزُقُ مَن تَشَاء بِغَيْرِ حِسَابٍ
-  </p>
-</blockquote>
+> تُولِجُ اللَّيْلَ فِي الْنَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ
+> وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الَمَيَّتَ مِنَ
+> الْحَيِّ وَتَرْزُقُ مَن تَشَاء بِغَيْرِ حِسَابٍ
 
 **27.** ***"You cause the night to pass into the day and You cause the
 day to pass into the night, and You bring forth the living from the dead
@@ -389,14 +357,10 @@ His control.
 Surah 'Ali-Imran, Verse 28
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاء مِن دُوْنِ
-الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
-إِلاَّ أَن تَتَّقُواْ مِنْهُمْ تُقَاةً وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ
-وَإِلَى اللّهِ الْمَصِيرُ
-  </p>
-</blockquote>
+> لاَّ يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاء مِن دُوْنِ
+> الْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَلِكَ فَلَيْسَ مِنَ اللّهِ فِي شَيْءٍ
+> إِلاَّ أَن تَتَّقُواْ مِنْهُمْ تُقَاةً وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ
+> وَإِلَى اللّهِ الْمَصِيرُ
 
 **28.** ***"The believers should not take the infidels as their friends,
 rather than the believers, and whoever does that then nothing of Allah
@@ -458,13 +422,9 @@ each other among themselves.
 Surah 'Ali-Imran, Verse 29
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن تُخْفُواْ مَا فِي صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ
-اللّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأرْضِ وَاللّهُ
-عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> قُلْ إِن تُخْفُواْ مَا فِي صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ
+> اللّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأرْضِ وَاللّهُ
+> عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 **29.** ***"Say: ' Whether you hide what is in your hearts, or manifest
 it, Allah knows it, and (also) He knows whatever is in the heavens and
@@ -509,13 +469,9 @@ the secrets of heavens?
 Surah 'Ali-Imran, Verse 30
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا
-عَمِلَتْ مِن سُوَءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
-بَعِيدًا وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ وَاللّهُ رَؤُوفُ بِالْعِبَادِ
-  </p>
-</blockquote>
+> يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا
+> عَمِلَتْ مِن سُوَءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا
+> بَعِيدًا وَيُحَذِّرُكُمُ اللّهُ نَفْسَهُ وَاللّهُ رَؤُوفُ بِالْعِبَادِ
 
 **30.** ***" On the Day (of Judgement) when everyone shall find present
 what he has done of good; but (as for) what he has done of evil, he will
@@ -576,5 +532,4 @@ doable.
 
 [^4]: Some more details upon night and day are mentions on pp. 39-40 in
 the previous Volume of the current commentary.
-
 

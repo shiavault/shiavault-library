@@ -4,23 +4,15 @@
 Al-Mizan: The Scales of Deeds
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-الميزان
-  </p>
-</blockquote>
+> الميزان
 
 It is one of the terrifying stages/stages of the hereafter; the Almighty
 says the following in Surat al-A\`raf:
 
-<blockquote dir="rtl">
-  <p>
-وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ، فَمَن ثَقُلَتْ مَوَازِينُهُ
-فَأُولَئِكَ هُمُ الْمُفْلِحُونَ، وَمَنْ خَفَّتْ مَوَازِينُهُ
-فَأُولَئِكَ الَّذِينَ خَسِرُواْ أَنفُسَهُم بِمَا كَانُواْ بِآيَاتِنَا
-يَظْلِمُونَ .
-  </p>
-</blockquote>
+> وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ، فَمَن ثَقُلَتْ مَوَازِينُهُ
+> فَأُولَئِكَ هُمُ الْمُفْلِحُونَ، وَمَنْ خَفَّتْ مَوَازِينُهُ
+> فَأُولَئِكَ الَّذِينَ خَسِرُواْ أَنفُسَهُم بِمَا كَانُواْ بِآيَاتِنَا
+> يَظْلِمُونَ .
 
 ***"And truly We shall recount their whole story with knowledge, for We
 were never absent (at any time or place). The balance that Day will be
@@ -30,16 +22,12 @@ prosper" (Qur'an, 7:8-9).***
 Following is Surat al-Qari\`a, Chapter of the noise and clamor that
 announce the reckoning:
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم: الْقَارِعَة: مَا الْقَارِعَة؟ وَمَا أَدْرَاكَ
-مَا الْقَارِعَةُ؟ يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
-وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ فَأَمَّا مَن ثَقُلَتْ
-مَوَازِينُهُ فَهُوَ فِي عِيشَةٍ رَّاضِيَة، وَأَمَّا مَنْ خَفَّتْ
-مَوَازِينُهُ فَأُمُّهُ هَاوِيَةٌ، وَمَا أَدْرَاكَ مَا هِيَ؟ نَارٌ
-حَامِيَة.
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم: الْقَارِعَة: مَا الْقَارِعَة؟ وَمَا أَدْرَاكَ
+> مَا الْقَارِعَةُ؟ يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
+> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ فَأَمَّا مَن ثَقُلَتْ
+> مَوَازِينُهُ فَهُوَ فِي عِيشَةٍ رَّاضِيَة، وَأَمَّا مَنْ خَفَّتْ
+> مَوَازِينُهُ فَأُمُّهُ هَاوِيَةٌ، وَمَا أَدْرَاكَ مَا هِيَ؟ نَارٌ
+> حَامِيَة.
 
 ***In the name of Allah‎, Most Gracious, Most Merciful. The (Day) of
 noise and clamor: What is the (Day) of noise and clamor? And what will
@@ -55,12 +43,8 @@ will explain to you what this (pit) is? (It is) a fiercely blazing Fire"
 It is called so because it hammers on the hearts with fear and terror.
 We read the following on p. 64 of al-Qummi's book Manazil al-Akhira:
 
-<blockquote dir="rtl">
-  <p>
-إعلم أنه ربما لا يساوي عمل لترجيح كفة الميزان في ثقله مثل الصلاة على
-النبي الكريم و آله البررة (صلوات الله عليهم أجمعين) و مثل الخلق الحسن
-  </p>
-</blockquote>
+> إعلم أنه ربما لا يساوي عمل لترجيح كفة الميزان في ثقله مثل الصلاة على
+> النبي الكريم و آله البررة (صلوات الله عليهم أجمعين) و مثل الخلق الحسن
 
 Be informed that perhaps there is nothing that tilts the scales of good
 deeds due to its weight like blessing the Venerable Prophet and his
@@ -68,15 +52,11 @@ righteous progeny, peace and blessings of Allah‎ be with them all, and
 like good manners. On p. 49, Vol. 2 of Safeenat al-Bihar, we read the
 following:
 
-<blockquote dir="rtl">
-  <p>
-سأل من روى الحديث : كيف نصلي على محمد وآله؟ فقال الصادق (عليه السلام):
-تقول: صلوات الله وصلوات ملائكته وانبيائه ورسله وجميع خلقه على محمد وآل
-محمد والسلام عليه وعليهم ورحمة الله وبركاته . قال الراوي : فسألت
-الامام: ما ثواب من صلى على النبي هكذا؟ فقال الصادق (عليه السلام):
-ثوابه الخروج من معاصيه وسيئاته، اي انه يتطهر منها كمن ولد من أمه.
-  </p>
-</blockquote>
+> سأل من روى الحديث : كيف نصلي على محمد وآله؟ فقال الصادق (عليه السلام):
+> تقول: صلوات الله وصلوات ملائكته وانبيائه ورسله وجميع خلقه على محمد وآل
+> محمد والسلام عليه وعليهم ورحمة الله وبركاته . قال الراوي : فسألت
+> الامام: ما ثواب من صلى على النبي هكذا؟ فقال الصادق (عليه السلام):
+> ثوابه الخروج من معاصيه وسيئاته، اي انه يتطهر منها كمن ولد من أمه.
 
 "The person who narrated this tradition asked Imam‎ as-Sadiq (as): 'How
 should we bless Muhammad and his progeny?' The Imam‎ (as) said, 'You
@@ -89,24 +69,20 @@ coming out of his transgressions and sins, that is, he will be purged of
 them as though he has just been born." On p. 443, Vol. 4 of the Tafsir
 book by Sheikh Abu al-Fitooh ar-Razi, we read the following text:
 
-<blockquote dir="rtl">
-  <p>
-روى الشيخ أبو الفتوح الرازي عن رسول الله (صلى الله عليه و آله و سلم)
-أنه قال: في ليلة المعراج، عندما وصلت الى السماء، رأيت ملكا له ألف يد،
-وفي كل يد ألف إصبع، كان يعد بأصابعه. فسألت جبرائيل عن إسمه و وظيفته
-وعمله، فقال: إنه ملك موكل على عد قطرات المطر النازلة الى الأرض. فسألت
-الملك: هل تعلم عدد قطرات المطر الساقطة على الأرض منذ أن خلق الله تعالى
-الأرض؟ فاجاب الملك قائلا: يا رسول الله (صلى الله عليه و آله و سلم)، و
-الذي بعثك بالحق نبيا الى الخلائق، إني لأعلم عدد قطرات المطر النازلة من
-السماء الى الأرض عامة، كما أعلم الساقطة في البحار والقفار والمعمورة
-والمزروعة و الأرض السبخة والمقابر. قال النبي (صلى الله عليه و آله و
-سلم): فتعجبت من ذكائه وذاكرته في الحساب. فقال الملك: يا رسول الله (صلى
-الله عليه و آله و سلم)، ولكني بما لدي من الأيدي والأصابع وما عندي من
-الذاكرة والذكاء، فاني أعجز من عد أمر واحد. فقلت له: وما ذاك الامر؟
-قال: اذا اجتمع عدد من أفراد أمتك في محفل وذكروا اسمك فصلوا عليك،
-فحينذاك أعجز عن حفظ ما لهؤلاء من الأجر والثواب إزاء صلواتهم عليك.
-  </p>
-</blockquote>
+> روى الشيخ أبو الفتوح الرازي عن رسول الله (صلى الله عليه و آله و سلم)
+> أنه قال: في ليلة المعراج، عندما وصلت الى السماء، رأيت ملكا له ألف يد،
+> وفي كل يد ألف إصبع، كان يعد بأصابعه. فسألت جبرائيل عن إسمه و وظيفته
+> وعمله، فقال: إنه ملك موكل على عد قطرات المطر النازلة الى الأرض. فسألت
+> الملك: هل تعلم عدد قطرات المطر الساقطة على الأرض منذ أن خلق الله تعالى
+> الأرض؟ فاجاب الملك قائلا: يا رسول الله (صلى الله عليه و آله و سلم)، و
+> الذي بعثك بالحق نبيا الى الخلائق، إني لأعلم عدد قطرات المطر النازلة من
+> السماء الى الأرض عامة، كما أعلم الساقطة في البحار والقفار والمعمورة
+> والمزروعة و الأرض السبخة والمقابر. قال النبي (صلى الله عليه و آله و
+> سلم): فتعجبت من ذكائه وذاكرته في الحساب. فقال الملك: يا رسول الله (صلى
+> الله عليه و آله و سلم)، ولكني بما لدي من الأيدي والأصابع وما عندي من
+> الذاكرة والذكاء، فاني أعجز من عد أمر واحد. فقلت له: وما ذاك الامر؟
+> قال: اذا اجتمع عدد من أفراد أمتك في محفل وذكروا اسمك فصلوا عليك،
+> فحينذاك أعجز عن حفظ ما لهؤلاء من الأجر والثواب إزاء صلواتهم عليك.
 
 Sheikh Abu al-Fitooh ar-Razi has quoted the Messenger of Allah‎, peace
 and salutation of Allah‎ be with him and his progeny, saying, "In the
@@ -134,15 +110,11 @@ calculate how many rewards they will receive for having blessed you.'"
 Also, al-Kulayni, the mentor, articulated the following after having
 performed the prayers ritual in the afternoon of a Friday:
 
-<blockquote dir="rtl">
-  <p>
-روى الشيخ الكليني ذيل صلوات عصر الجمعة: اللهم صلي على محمد وآل محمد
-الأوصياء المرضيين بأفضل صلواتك وبارك عليهم بأفضل بركاتك، والسلام عليه
-وعليهم و رحمة الله وبركاته. إنه من قرأ هذه الصلوات سبع مرات، فإن الله
-يرد عليه بعدد كل عبد حسنة، وعمله مقبول يوم القيامة، ويأتي يوم القيامة
-و بين عينيه نور.
-  </p>
-</blockquote>
+> روى الشيخ الكليني ذيل صلوات عصر الجمعة: اللهم صلي على محمد وآل محمد
+> الأوصياء المرضيين بأفضل صلواتك وبارك عليهم بأفضل بركاتك، والسلام عليه
+> وعليهم و رحمة الله وبركاته. إنه من قرأ هذه الصلوات سبع مرات، فإن الله
+> يرد عليه بعدد كل عبد حسنة، وعمله مقبول يوم القيامة، ويأتي يوم القيامة
+> و بين عينيه نور.
 
 Lord! Send Your peace upon Muhammad and the progeny of Muhammad, the
 wasis, the pleased ones, bless them with the best of Your blessings,
@@ -154,13 +126,9 @@ will come out on the Judgment Day with noor (celestial light) shining
 between his eyes." On p. 49, Vol. 2 of Safeenat al-Bihar, we read the
 following text:
 
-<blockquote dir="rtl">
-  <p>
-روي أنه من قال بعد صلاة الصبح والظهر: اللهم صلي على محمد وآله وعجل
-فرجهم واحشرنا معهم وارزقنا شفاعتهم، فانه لا يموت الا و مدرك القائم من
-آل محمد (عليهم السلام)
-  </p>
-</blockquote>
+> روي أنه من قال بعد صلاة الصبح والظهر: اللهم صلي على محمد وآله وعجل
+> فرجهم واحشرنا معهم وارزقنا شفاعتهم، فانه لا يموت الا و مدرك القائم من
+> آل محمد (عليهم السلام)
 
 "One who recites the following after the morning and afternoon prayers
 will not die before seeing al-Qa’im‎ [al-Mahdi, may Allah hasten his
@@ -168,5 +136,4 @@ reappearance] from among the progeny of Muhammad, peace with them all:
 
 'Lord! Bless Muhammad and his progeny, speed up their ease, gather us in
 their company and grant us their intercession.'"
-
 

@@ -5,11 +5,7 @@ There is a speech from Imam Jaʿfar ibn Muhammad as-Sadiq (a.s.) which is
 a very lofty speech.  This hadith has been narrated in al-Kafi[^1] in
 which the following sentence is mentioned in a (long) hadith:
 
-<blockquote dir="rtl">
-  <p>
-أَلْعٌالِمُ بِزَمٌانِهِ لاٌ تَهْجُمُ عَلَيْهِ  اللَّوٌابِسُ
-  </p>
-</blockquote>
+> أَلْعٌالِمُ بِزَمٌانِهِ لاٌ تَهْجُمُ عَلَيْهِ  اللَّوٌابِسُ
 
 *“The person who is fully aware of the time in which he is living, will
 never be overcome with bewilderment (of the things around him).”*
@@ -35,11 +31,7 @@ saying.
 There are many such important phrases in this same hadith, although I
 have not memorized all of them, however another line states:
 
-<blockquote dir="rtl">
-  <p>
-لاٌ يُفْلِحُ مَنْ لاٌ يَعْقِلُ وَ لاٌ يَعْقِلُ مَنْ لاٌ يَعْلَمُ
-  </p>
-</blockquote>
+> لاٌ يُفْلِحُ مَنْ لاٌ يَعْقِلُ وَ لاٌ يَعْقِلُ مَنْ لاٌ يَعْلَمُ
 
 *“That person who does not use his intellect will not be successful, and
 that person who does not have knowledge will not be able to use his
@@ -52,11 +44,7 @@ then come to a conclusion.  The intellect takes its source of
 inspiration from knowledge and thus, intellect is the lamp whose oil
 which it runs upon is knowledge.  The hadith then goes on to say:
 
-<blockquote dir="rtl">
-  <p>
-وَ سَوْفَ يَنْجُبُ مَنْ يَفْهَمُ
-  </p>
-</blockquote>
+> وَ سَوْفَ يَنْجُبُ مَنْ يَفْهَمُ
 
 This means that whoever understands (something), then his outcome will
 be that he will possess a virtuous, honourable character since the
@@ -67,11 +55,7 @@ and we must not think of knowledge as being something that is dangerous.
 However in reality, we are the complete opposite meaning and
 manifestation of this hadith that states:
 
-<blockquote dir="rtl">
-  <p>
-أَلْعٌالِمُ بِزَمٌانِهِ لاٌ تَهْجُمُ عَلَيْهِ  اللَّوٌابِسُ
-  </p>
-</blockquote>
+> أَلْعٌالِمُ بِزَمٌانِهِ لاٌ تَهْجُمُ عَلَيْهِ  اللَّوٌابِسُ
 
 From the beginning to the end, from the top to the bottom, from the door
 (of the Masjid) to the Mihrab, all of us are unaware of the times in
@@ -101,5 +85,4 @@ the issue of guiding and leading the youth had been brought up, but they
 have been busier in pondering and discussing this issue than we were.
 
 [^1]: Al-Kafi, Volume 1, Pages 26 and 27
-
 

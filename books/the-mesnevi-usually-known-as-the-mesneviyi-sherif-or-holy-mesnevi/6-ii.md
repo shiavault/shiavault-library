@@ -373,4 +373,3 @@ worst. When Mekka was taken, he was proscribed; but he got away safely.
 Not long afterwards, he made his submission, and Muhammed forgave him,
 as he did others in analogous circumstances.
 
-

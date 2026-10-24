@@ -67,7 +67,6 @@ non-believers suffer a reverse with sorrow."
 
 "They are my brother, my son and my hus- band."
 
-
 "Where are you taking them?"
 
 "I am taking them to Medina for burial."
@@ -113,7 +112,6 @@ Almighty to keep me also with them:"
 
 88
 
-
 **The Right Of Companionship**
 
 In those days, Kufa was the Capital and Centre of the Islamic
@@ -157,7 +155,6 @@ Caliph of that time. Soonafter he embraced Islam and was
 9 0
 
 counted among the most devout and selfsacrificing companions of Ali.
-
 
 91
 
@@ -218,5 +215,4 @@ Then he said:
 
 "O Musadif! It is easier to fight with a sword than to earn the
 livelihood lawfully."
-
 

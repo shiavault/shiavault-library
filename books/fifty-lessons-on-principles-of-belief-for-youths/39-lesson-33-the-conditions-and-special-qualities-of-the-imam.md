@@ -155,4 +155,3 @@ law have the station of leadership or imamate?
  5. For what reason must the Imam be brave, austere and the most pure
 from the point of view of attracting the ethics of the people?
 
-

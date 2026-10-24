@@ -537,4 +537,3 @@ states in the Quran:
 
 **“Wisdom is much, much higher than any person considered wise.”**’
 
-

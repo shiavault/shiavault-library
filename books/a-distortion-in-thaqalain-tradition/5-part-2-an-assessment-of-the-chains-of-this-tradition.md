@@ -464,4 +464,3 @@ praising and considering a narrator as just and fair.
 [^24]: See related discussions in this book, about the content of this
 tradition.
 
-

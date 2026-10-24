@@ -441,4 +441,3 @@ coins were blessed. [^15]
 
 [^15]: Qasas Al Ajeeba Li Dastghib Page 405
 
-

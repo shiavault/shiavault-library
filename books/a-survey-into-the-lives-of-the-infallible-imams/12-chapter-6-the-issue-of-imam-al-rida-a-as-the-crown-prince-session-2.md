@@ -733,4 +733,3 @@ of a Muslim caliph.
 
 [^7]: Surat Yusuf 12:55.
 
-

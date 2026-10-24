@@ -51,13 +51,9 @@ corollary of the equality of all human beings in humanity. The equality
 of all human beings in humanity is an issue which Islam has upheld
 before and more than the rest. As God says,
 
-<blockquote dir="rtl">
-  <p>
-﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى
-وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
-عِندَ اللَّهِ أَتْقَاكُمْ...﴾
-  </p>
-</blockquote>
+> ﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى
+> وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ
+> عِندَ اللَّهِ أَتْقَاكُمْ...﴾
 
 ***“O mankind! Indeed We created you from a male and a female, and made
 you nations and tribes that you may identify one another. Indeed the
@@ -71,11 +67,7 @@ mentioned in any other heavenly scriptures in such an eloquent manner.
 As Muslims, we also believe that all human beings are equal in humanity
 and humanness has no first or second class. As Sa’di say:
 
-<blockquote dir="rtl">
-  <p>
-بنی آدم اعضای يک ديگرند که در آفرينش زيک گوهرند
-  </p>
-</blockquote>
+> بنی آدم اعضای يک ديگرند که در آفرينش زيک گوهرند
 
 *The children of Adam who are of one essence in creation are parts of
 one another.*
@@ -324,5 +316,4 @@ credible, but as the basis of giving preference to every majority over
 every minority it is not credible
 
 [^1]: Surah al-Hujurat 49:13.
-
 

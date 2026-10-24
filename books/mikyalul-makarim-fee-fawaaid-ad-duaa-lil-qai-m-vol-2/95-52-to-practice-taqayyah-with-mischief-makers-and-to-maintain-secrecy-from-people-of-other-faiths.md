@@ -5,13 +5,9 @@ In *Kafi* through an authentic chain of narrators it is narrated from
 His Eminence, Abi Abdullah Imam Ja’far Sadiq (as) that he said
 explaining the verse:
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
-وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ
-يُنْفِقُونَ
-  </p>
-</blockquote>
+> أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
+> وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ
+> يُنْفِقُونَ
 
 ***These shall be granted their reward twice, because they are patient
 and they repel evil with good and spend out of what We have given them.
@@ -60,12 +56,8 @@ and sitting at home.[^6]
 In *Tafseer Nishapuri* it is mentioned that the following verse was
 recited before Abdullah bin Masood:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا
-يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا
+> يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ
 
 ***O you who believe! take care of your souls; he who errs cannot hurt
 you when you are on the right way. (Qur’an, Surah Maidah 5:105)***
@@ -215,23 +207,15 @@ mentioned that he said: Do not dispute with the people regarding your
 religion as it induces many diseases of the heart. The Almighty Allah
 told His Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ
-يَشَاءُ
-  </p>
-</blockquote>
+> إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ
+> يَشَاءُ
 
 ***Surely you cannot guide whom you love, but Allah guides whom He
 pleases. (Qur’an, Surah Qasas 28:56)***
 
 And also:
 
-<blockquote dir="rtl">
-  <p>
-أَفَأَنْتَ تُكْرِهُ النَّاسَ حَتَّىٰ يَكُونُوا مُؤْمِنِينَ
-  </p>
-</blockquote>
+> أَفَأَنْتَ تُكْرِهُ النَّاسَ حَتَّىٰ يَكُونُوا مُؤْمِنِينَ
 
 ***Will you then force men till they become believers?***[^18]
 
@@ -309,5 +293,4 @@ those who deny them.”[^22]
 [^21]: Basairud Darajaat, Pg. 23, Chapter 11, Tr. no. 14
 
 [^22]: Ghaibat Nomani, Pg. 107
-
 

@@ -7,4 +7,3 @@ that all the Imams are Mahdi: However there was only one whose
 particular qualities and condition pointed to, and that was the twelfth
 Imam.
 
-

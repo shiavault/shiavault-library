@@ -3,17 +3,9 @@ Letter 14: To his soldiers before the Battle of Siffin
 
 *Given to the army before the encounter with the enemy at Siffin* [^1]
 
-<blockquote dir="rtl">
-  <p>
-ومن وصيّته (عليه السلام)
-  </p>
-</blockquote>
+> ومن وصيّته (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لعسكره قبل لقاء العدو بصفّين
-  </p>
-</blockquote>
+> لعسكره قبل لقاء العدو بصفّين
 
 Do not fight them unless they initiate the fighting, because, by the
 grace of Allah, you are in the right and to leave them till they begin
@@ -27,20 +19,16 @@ them although they may be unbelievers. Even in the pre-Islamic
 (al-jahiliyyah) period if a man struck a woman with a stone or a stick
 he was rebuked along with his offspring after him.
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُقَاتِلُوهُمْ حَتَّى يَبْدَأُوكُمْ، فَإِنَّكُمْ بِحَمْدِ اللهِ
-عَلَى حُجَّة، وَتَرْكُكُمْ إِيَّاهُمْ حَتَّى يَبْدَأُوكُمْ حُجَّةٌ
-أُخْرَى لَكُمْ عَلَيْهِمْ، فَإذَا كَانَتِ الْهَزِيمَةُ بِإذْنِ اللهِ
-فَلاَ تَقْتُلُوا مُدْبِراً، وَلاَ تُصيِبُوا مُعْوِراً، وَلاَ
-تُجْهِزُوا عَلَى جَرِيح،لاَ تَهِيجُوا النِّسَاءَ بِأَذىً، وَإِنْ
-شَتَمْنَ أَعْرَاضَكُمْ، وَسَبَبْنَ أُمَرَاءَكُمْ، فَإِنَّهُنَّ
-ضَعِيفَاتُ الْقُوَى وَالاْنْفُسِ وَالْعُقُولِ، إِنْ كُنَّا لَنُؤْمَرُ
-بِالْكَفِّ عَنْهُنَّ وَإِنَّهُنَّ لَمُشْرِكَاتٌ، وَإِنْ كَانَ
-الرَّجُلُ لَيَتَنَاوَلُ الْمَرْأَةَ فِي الْجَاهِلِيَّةِ بِالْفِهْرِ
-أَوِ الْهِرَاوَةِ فَيُعَيَّرُ بِهَا وَعَقِبُهُ مِنْ بَعْدِهِ.
-  </p>
-</blockquote>
+> لاَ تُقَاتِلُوهُمْ حَتَّى يَبْدَأُوكُمْ، فَإِنَّكُمْ بِحَمْدِ اللهِ
+> عَلَى حُجَّة، وَتَرْكُكُمْ إِيَّاهُمْ حَتَّى يَبْدَأُوكُمْ حُجَّةٌ
+> أُخْرَى لَكُمْ عَلَيْهِمْ، فَإذَا كَانَتِ الْهَزِيمَةُ بِإذْنِ اللهِ
+> فَلاَ تَقْتُلُوا مُدْبِراً، وَلاَ تُصيِبُوا مُعْوِراً، وَلاَ
+> تُجْهِزُوا عَلَى جَرِيح،لاَ تَهِيجُوا النِّسَاءَ بِأَذىً، وَإِنْ
+> شَتَمْنَ أَعْرَاضَكُمْ، وَسَبَبْنَ أُمَرَاءَكُمْ، فَإِنَّهُنَّ
+> ضَعِيفَاتُ الْقُوَى وَالاْنْفُسِ وَالْعُقُولِ، إِنْ كُنَّا لَنُؤْمَرُ
+> بِالْكَفِّ عَنْهُنَّ وَإِنَّهُنَّ لَمُشْرِكَاتٌ، وَإِنْ كَانَ
+> الرَّجُلُ لَيَتَنَاوَلُ الْمَرْأَةَ فِي الْجَاهِلِيَّةِ بِالْفِهْرِ
+> أَوِ الْهِرَاوَةِ فَيُعَيَّرُ بِهَا وَعَقِبُهُ مِنْ بَعْدِهِ.
 
 [^1]: The responsibility for the war and fighting that took place
 between Amir al-mu'minin and Mu'awiyah lies solely on Mu'awiyah because
@@ -126,5 +114,4 @@ among the people, he would , after securing victory over her, have
 killed her and cut her into pieces, but Amir al-mu'minin was very
 forbearing and large-hearted .(Sharh Nahjul Balaghah al-balaghah,
 vol.17, p.254)
-
 

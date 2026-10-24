@@ -222,4 +222,3 @@ emergence of theological (kalamiyyah) and legal (fiqhiyyah) factions and
 schools in Islam, along with the disputes that erupted among them. See
 also Shahrastani, al-Milal wal-nihal I:15ff.
 
-

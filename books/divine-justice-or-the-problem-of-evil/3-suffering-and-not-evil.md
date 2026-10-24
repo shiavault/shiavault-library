@@ -8,4 +8,3 @@ anything against reality or any logical necessity. In the term \`evil'
 there is a concept of injustice hidden. We shall avoid using it, because
 it is a loaded word.
 
-

@@ -300,11 +300,7 @@ to increase their wealth through productive activities.
 
 Imam As-Sadiq (a. s) says:
 
-<blockquote dir="rtl">
-  <p>
-الكيمياء الاكبر الزراعة
-  </p>
-</blockquote>
+> الكيمياء الاكبر الزراعة
 
 *“Agricultural is the greatest Alchemy”* [^24]
 
@@ -357,12 +353,8 @@ hours. This idea is now a universal law, whereas this same thing was
 said by Imam ‘Ali (as) more than thirteen hundred years ago. In the
 Nahjul-Balagha, his unique book of wisdom, he says:
 
-<blockquote dir="rtl">
-  <p>
-للمؤمن ثلاث ساعات: فساعة يناجي فيها ربه، وساعة يرم معاشه، وساعة يخلى
-بين نفسه وبين لذتها فيما يحل ويجمل
-  </p>
-</blockquote>
+> للمؤمن ثلاث ساعات: فساعة يناجي فيها ربه، وساعة يرم معاشه، وساعة يخلى
+> بين نفسه وبين لذتها فيما يحل ويجمل
 
 *“A believer divides his day into three parts. He spends one for
 worshipping Allah, another for making a living, and another for resting
@@ -375,44 +367,28 @@ interest.
 
 The Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-ان اعظم الناس منزلة عندالله يوم القيامة امشا هم في ارضه بالنصيحة لخلقه
-  </p>
-</blockquote>
+> ان اعظم الناس منزلة عندالله يوم القيامة امشا هم في ارضه بالنصيحة لخلقه
 
 *“One who endeavours the most in goodwill* *toward people on earth,
 shall have the highest rank with Allah in the day of* *Judgement.”*
 [^26]
 
-<blockquote dir="rtl">
-  <p>
-سئل رسول الله (صلى الله عليه وآله وسلم) من احب الناس الى الله تعالى؟
-قال انفع الناس للناس
-  </p>
-</blockquote>
+> سئل رسول الله (صلى الله عليه وآله وسلم) من احب الناس الى الله تعالى؟
+> قال انفع الناس للناس
 
 *“The Prophet of Allah once was asked who the most beloved person in the
 eyes of Allah is. He replied: “The one who benefits people most.”* [^27]
 
 The Prophet (S) of Islam also said:
 
-<blockquote dir="rtl">
-  <p>
-من اصبح لا يهتم بامور المسلمين فليس بمسلم
-  </p>
-</blockquote>
+> من اصبح لا يهتم بامور المسلمين فليس بمسلم
 
 *“He who spends a say without making any efforts in the affairs of
 Muslims, is not a Muslim himself.”* [^28]
 
 The Holy Prophet (S) also said:
 
-<blockquote dir="rtl">
-  <p>
-انسك الناس نسكا انصحهم جيبا واسلمهم قلبا لجميع المسلمين
-  </p>
-</blockquote>
+> انسك الناس نسكا انصحهم جيبا واسلمهم قلبا لجميع المسلمين
 
 *“The best worshipper of all is the one who is the most truthful and the
 most benevolent to and the most found of the Muslims.”* [^29]  
@@ -433,11 +409,7 @@ it. And he was complaining about it.”* [^30]
 
 Imam ‘Ali (a.s) discussing this same topic said:
 
-<blockquote dir="rtl">
-  <p>
-لا يزهد نك في المعروف من لا يشكره لك
-  </p>
-</blockquote>
+> لا يزهد نك في المعروف من لا يشكره لك
 
 *“Do not get discouraged when you do someone a favour but he does not
 appreciate you for it.”* [^31]
@@ -448,22 +420,14 @@ III. Homer Croy has entitled one of his articles:
 
 First of all, the Holy Quran under this subject matter says:
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
-  </p>
-</blockquote>
+> فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
 
  ***“Even with difficulty, there will be relief.”*** **(The Holy Qur'an
 94:5)**
 
 Secondly, still in this matter Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-عند تناهى الشدة تكون الفرجة وعند تضايق حلق البلاء يكون الرّخاء
-  </p>
-</blockquote>
+> عند تناهى الشدة تكون الفرجة وعند تضايق حلق البلاء يكون الرّخاء
 
 *“When hardship comes to an end, relief comes about, and when the rings
 of difficulty become too tight, there comes comfort.”* [^33]
@@ -484,31 +448,19 @@ earlier discussed.
 
 Imam As-Sadiq (as) says:
 
-<blockquote dir="rtl">
-  <p>
-لم يكن رسول الله صلى الله عليه وآله وسلم يقول لشىء قد مضى لو كان غيره
-  </p>
-</blockquote>
+> لم يكن رسول الله صلى الله عليه وآله وسلم يقول لشىء قد مضى لو كان غيره
 
 *“About the events, the Holy Prophet (S.) never would say I wish they
 would have happened in a different manner.”* [^34]  
  He also asks:
 
-<blockquote dir="rtl">
-  <p>
-باى شئى يعلم المؤمن بانه مؤمن؟
-  </p>
-</blockquote>
+> باى شئى يعلم المؤمن بانه مؤمن؟
 
 *“How could one know that he is a believer?*
 
 He replies:
 
-<blockquote dir="rtl">
-  <p>
-بالتسليم لله والرضا فيما وردعليه من سرور او بسخط
-  </p>
-</blockquote>
+> بالتسليم لله والرضا فيما وردعليه من سرور او بسخط
 
 *“Through submission to Allah, and being satisfied with whatever joy or
 anxiety that comes his way.”* [^35]
@@ -523,12 +475,8 @@ what our own religious leaders have said.
 
 On this subject, the Holy Prophet (S.) says:
 
-<blockquote dir="rtl">
-  <p>
-الا ادلكم على خير اخلاق الدنيا والآخرة؟ تصل من قطعك و تعطى من حرمك
-وتعفو عمن ظلمك
-  </p>
-</blockquote>
+> الا ادلكم على خير اخلاق الدنيا والآخرة؟ تصل من قطعك و تعطى من حرمك
+> وتعفو عمن ظلمك
 
 *“Shall I advise you of the best disposition in this world and the world
 to come? To the one who rejects you, attach yourself. To the one who
@@ -537,11 +485,7 @@ forgiveness.”* [^36]
 
 Also Imam ‘Ali (as) has spoken eloquently about this matter as follows:
 
-<blockquote dir="rtl">
-  <p>
-قدرت على عدوك فاجعل العفو عنه شكر اللقدرة عليه
-  </p>
-</blockquote>
+> قدرت على عدوك فاجعل العفو عنه شكر اللقدرة عليه
 
 *“In being thankful for coming out victorious* *forgive your enemy after
 you have defeated him.”* [^37]
@@ -701,5 +645,4 @@ and to give the proper place in your lives.” - Nahjul-Balagha Sermon No.
 [^36]: Usul Kafi, Second volume, p.107
 
 [^37]: Nahjul Balagha, p.470.
-
 

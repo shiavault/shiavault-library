@@ -174,4 +174,3 @@ p. 260.
 [^4]: Sunday Times (London) as quoted in East African Standard
 (Nairobi), August 25, 1970.
 
-

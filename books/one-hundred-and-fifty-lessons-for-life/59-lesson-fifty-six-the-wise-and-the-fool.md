@@ -3,12 +3,8 @@ Lesson Fifty Six: The Wise and The Fool
 
 Imam ‘Ali (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلعاقِلُ يَعْتَمِدُ عَلى عَمَلِهِ وَ الْجاهِلُ يَعْتَمِدُ عَلَى
-أَمَلِهِ
-  </p>
-</blockquote>
+> اَلعاقِلُ يَعْتَمِدُ عَلى عَمَلِهِ وَ الْجاهِلُ يَعْتَمِدُ عَلَى
+> أَمَلِهِ
 
 Translation
 -----------
@@ -32,5 +28,4 @@ They live on their dreams, content with waiting for subjective victories
 in a tomorrow that never comes.
 
 [^1]: Ghurarol-Hekam
-
 

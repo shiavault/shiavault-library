@@ -73,4 +73,3 @@ has been martyred on Ashura 61 A.H in the land of Karbala.
 
 [^3]: Ba’th was the ruling party in Iraq.
 
-

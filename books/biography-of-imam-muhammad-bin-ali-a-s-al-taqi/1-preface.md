@@ -76,9 +76,7 @@ here and in the hereafter all those who have in one way or another,
 assisted me in the writing, the production and the circulation of this
 unit.
 
-
 WASSALAMU ALAYKUM WA RAHMATULLAHI WA
 BARAKATUH.
 MOHAMEDRAZA DUNGERSI PH.D.
-
 

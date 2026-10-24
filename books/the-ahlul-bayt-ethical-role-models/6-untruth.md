@@ -222,4 +222,3 @@ promises to the wives[^15].
 
 [^15]: Quoted from al-Kafi.
 
-

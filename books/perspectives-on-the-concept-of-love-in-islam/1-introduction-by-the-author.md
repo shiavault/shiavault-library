@@ -92,4 +92,3 @@ and upon all His servants, past and still remaining.
 
 [^1]: Vahshi Kermani, 1583
 
-

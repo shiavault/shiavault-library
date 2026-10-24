@@ -1,34 +1,26 @@
 33) The Delicate Tasks of a Man towards His Friend
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-"احمِل نَفسَكَ مِن اَخِيكَ عِندَ صَرْمِهِ على الصِّلَة وعِندَ صُدودِهِ
-على الّلطفِ والمُقارَبَةِ وعِندَ جُمُودِهِ على البَذْلِ وعِندَ
-تَباعُدِهِ على الدنُوِّ وعِندَ شِدَّتِهِ على الّلين وعِندَ جُرمِهِ على
-العُذرِ حَتّى كأنّكَ لَهُ عَبدٌ وكأنّهُ ذو نِعمَةٍ عَلَيكَ واِيّاكَ ان
-تَضَعَ ذلِكَ في غَيرِ مَوضِعِهِ او اَن تَفعَلَه بِغَيرِ اهلِهِ لا
-تِتَّخِذَنَّ عَدُوَّ صَدِيقِكَ صَدِيقاً فَتُعادِيَ صَدِيقَكَ وامحِض
-اَخاكَ النَصِيحَةِ حَسَنةً او قَبِيحَةً وتَجَرَّع الغَيظَ فانِي لمَ
-ارَ جُرعَةً اَحلَى مِنها عَاقِبةً وَلا اَلَذَّ مَغبَّةً وَلِن لِمَن
-غَالَظَكَ فإنّه يُوشَكُ أن يَلِينَ لَكَ
-  </p>
-</blockquote>
+> "احمِل نَفسَكَ مِن اَخِيكَ عِندَ صَرْمِهِ على الصِّلَة وعِندَ صُدودِهِ
+> على الّلطفِ والمُقارَبَةِ وعِندَ جُمُودِهِ على البَذْلِ وعِندَ
+> تَباعُدِهِ على الدنُوِّ وعِندَ شِدَّتِهِ على الّلين وعِندَ جُرمِهِ على
+> العُذرِ حَتّى كأنّكَ لَهُ عَبدٌ وكأنّهُ ذو نِعمَةٍ عَلَيكَ واِيّاكَ ان
+> تَضَعَ ذلِكَ في غَيرِ مَوضِعِهِ او اَن تَفعَلَه بِغَيرِ اهلِهِ لا
+> تِتَّخِذَنَّ عَدُوَّ صَدِيقِكَ صَدِيقاً فَتُعادِيَ صَدِيقَكَ وامحِض
+> اَخاكَ النَصِيحَةِ حَسَنةً او قَبِيحَةً وتَجَرَّع الغَيظَ فانِي لمَ
+> ارَ جُرعَةً اَحلَى مِنها عَاقِبةً وَلا اَلَذَّ مَغبَّةً وَلِن لِمَن
+> غَالَظَكَ فإنّه يُوشَكُ أن يَلِينَ لَكَ
 
-<blockquote dir="rtl">
-  <p>
-وخُذ على عَدوِّكَ بالفَضلِ فإنّهُ احلى الظَفَرَين واِن ارَدتَ
-قَطِيعَةَ اَخِيكَ فاستَبْقِ لَهُ مِن نَفسِكَ بَقِيّةً يَرجِعُ اِلَيها
-اِن بَدا لَهُ ذَلِكَ يَوماً مَا. وَمَن ظَنَّ بِكَ خَيراً فصَدِّق
-ظَنَّه وَلا تُضِيعَنَّ حَقَّ اَخِيكَ اتِّكالاً على مَا بَينَكَ وبَينَه
-فإنّهُ لَيسَ لَكَ بأخٍ مَن اَضعتَ حَقَّه. وَلا يَكُن اَهلُكَ اَشقَى
-الخَلقِ بِكَ وَلا تَرغَبَنَّ فِيمَن زَهِدَ عَنكَ وَلا يَكونَنَّ
-اَخُوكَ عَلى قَطِيعَتِكَ اَقوى مِنكَ عَلى صِلَتِه وَلا يَكُونَنَّ على
-الإسَاءَةِ اقوى مِنكَ على الإحسَانِ وَلا يَكبُرَنَّ عَليكَ ظُلْمُ مَن
-ظَلمَكَ فإنَّهُ يَسْعى في مَضَرّتِه ونَفعِكَ ولَيسَ جَزاءُ مَن سَرَّكَ
-ان تَسُوءَه"
-  </p>
-</blockquote>
+> وخُذ على عَدوِّكَ بالفَضلِ فإنّهُ احلى الظَفَرَين واِن ارَدتَ
+> قَطِيعَةَ اَخِيكَ فاستَبْقِ لَهُ مِن نَفسِكَ بَقِيّةً يَرجِعُ اِلَيها
+> اِن بَدا لَهُ ذَلِكَ يَوماً مَا. وَمَن ظَنَّ بِكَ خَيراً فصَدِّق
+> ظَنَّه وَلا تُضِيعَنَّ حَقَّ اَخِيكَ اتِّكالاً على مَا بَينَكَ وبَينَه
+> فإنّهُ لَيسَ لَكَ بأخٍ مَن اَضعتَ حَقَّه. وَلا يَكُن اَهلُكَ اَشقَى
+> الخَلقِ بِكَ وَلا تَرغَبَنَّ فِيمَن زَهِدَ عَنكَ وَلا يَكونَنَّ
+> اَخُوكَ عَلى قَطِيعَتِكَ اَقوى مِنكَ عَلى صِلَتِه وَلا يَكُونَنَّ على
+> الإسَاءَةِ اقوى مِنكَ على الإحسَانِ وَلا يَكبُرَنَّ عَليكَ ظُلْمُ مَن
+> ظَلمَكَ فإنَّهُ يَسْعى في مَضَرّتِه ونَفعِكَ ولَيسَ جَزاءُ مَن سَرَّكَ
+> ان تَسُوءَه"
 
 *“Against the unfriendly behavior of your brother, do the following:
 when he severs his relationship with you, you (continue to) establish
@@ -94,11 +86,7 @@ habits, he learns from others. It is said,
 friend can help him out of his difficulties. Imam ‘Ali (as) has said in
 this respect:
 
-<blockquote dir="rtl">
-  <p>
-"عَلَيكُم بالاخوانِ فاِنَّهُم عُدَّةٌ في الدّنيا وَالآخِرَةِ"
-  </p>
-</blockquote>
+> "عَلَيكُم بالاخوانِ فاِنَّهُم عُدَّةٌ في الدّنيا وَالآخِرَةِ"
 
 *"Do not forget to have brethren and good friends; they are a provision
 (for you) in this world and in the Hereafter."*[^2]
@@ -107,12 +95,8 @@ However, firstly in selecting friends we should take care. The person
 might tarn out to be a thief.
 Imam ‘Ali (as) has said in this respect:
 
-<blockquote dir="rtl">
-  <p>
-"لا تَصحَبِ الشرِّيرَ فإنَّ طَبعَكَ يَسرِق مِن طَبعِهِ شرّاً وانتَ لا
-تَعلَم"
-  </p>
-</blockquote>
+> "لا تَصحَبِ الشرِّيرَ فإنَّ طَبعَكَ يَسرِق مِن طَبعِهِ شرّاً وانتَ لا
+> تَعلَم"
 
 *"Do not take a bad person as your friend because your nature steals
 evil from his nature while you are unaware."*
@@ -129,12 +113,8 @@ Secondly, when we purposefully select a person as a friend, we will know
 the limits of friendship. Finding a friend is easy, keeping him is much
 harder.
 
-<blockquote dir="rtl">
-  <p>
-"أعجَزُ النّاسِ مَن عَجِزَ عن اكتِسابِ الاخوان، وأعجَزُ مِنهُ مَن
-ضَيَّعَ مَن ظَفَرَ بِهِ مِنهُم"
-  </p>
-</blockquote>
+> "أعجَزُ النّاسِ مَن عَجِزَ عن اكتِسابِ الاخوان، وأعجَزُ مِنهُ مَن
+> ضَيَّعَ مَن ظَفَرَ بِهِ مِنهُم"
 
 *"The weakest person is the one who cannot find a friend and still
 weaker than such a person is the one who loses his friend."*[^3]
@@ -152,12 +132,8 @@ Imam ‘Ali (as) perceives them.
 One of the rights of friendship is the protection of the bond of
 friendship. Imam ‘Ali (as) in this respect says:
 
-<blockquote dir="rtl">
-  <p>
-"مِن كَرَمِ المَرءِ بُكاؤُهُ على ما مَضَى مِن زَمانِهِ وحَنِينه الى
-أوطانِهِ وحِفظُ قَدِيمِ اِخوانِه"
-  </p>
-</blockquote>
+> "مِن كَرَمِ المَرءِ بُكاؤُهُ على ما مَضَى مِن زَمانِهِ وحَنِينه الى
+> أوطانِهِ وحِفظُ قَدِيمِ اِخوانِه"
 
 *"Among the nobilities of man is his weeping over the days of his life
 (that he has passed negligently), his yearning for his homeland and
@@ -175,13 +151,9 @@ discuss two of them here:
 
 **a)** The great Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"أيُما مُسلِمَينِ تَهاجَرا فَمَكثا ثَلاثاً لا يَصطَلِحانِ إلاّ كانا
-خَارجَينِ مِن الإسلام ولَم يَكُن بَينَهُما وِلايَةٌ فأيُهما سَبَقَ إلى
-كَلامِ أخِيه كانَ السابِقَ إلى الجَنَّة يَومَ الحِسابِ"
-  </p>
-</blockquote>
+> "أيُما مُسلِمَينِ تَهاجَرا فَمَكثا ثَلاثاً لا يَصطَلِحانِ إلاّ كانا
+> خَارجَينِ مِن الإسلام ولَم يَكُن بَينَهُما وِلايَةٌ فأيُهما سَبَقَ إلى
+> كَلامِ أخِيه كانَ السابِقَ إلى الجَنَّة يَومَ الحِسابِ"
 
 *"If two Muslims cut off relations with each other and remain so for
 three days without reconciliation, they are both out of Islam and there
@@ -191,18 +163,14 @@ Reckoning”.*[^7]
 
 **b)** Imam Sadiq (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"لا يَفتَرِقُ رَجُلانِ على الهِجرانِ إلاّ استَوجَبَ احَدُهُما
-البَراءَةَ والّلعنَةَ ورُبَما استَحَقَّ ذلِكَ كِلاهُما فقالَ لَهُ
-مُعتب: جَعَلَني الله فِداكَ هذا الظَالِم فَما بَالُ المَظلُوم؟ قالَ
-لإنَّه لا يَدعُو أخاهُ إلى صِلَتِه ولا يَتغامَسُ لَه عَن كَلامِهِ،
-سَمِعتُ ابي يقول: إذا تَنازَعَ اثنان فعازَّ احدُهُمَا الآخرَ فَليَرجِع
-المَظلُومُ إلى صَاحِبِه حتّى يَقولَ لِصاحِبِهِ: أي أخي أنَا الظَالِمُ
-حَتّى يَقطَعَ الهِجرانَ بَينَه وبَينَ صاحِبه فإنَّ الله تبارَكَ وتعالى
-حَكَمُ عدلٍ يأخُذُ لِلمَظلُومِ مِنَ الظالمِ"
-  </p>
-</blockquote>
+> "لا يَفتَرِقُ رَجُلانِ على الهِجرانِ إلاّ استَوجَبَ احَدُهُما
+> البَراءَةَ والّلعنَةَ ورُبَما استَحَقَّ ذلِكَ كِلاهُما فقالَ لَهُ
+> مُعتب: جَعَلَني الله فِداكَ هذا الظَالِم فَما بَالُ المَظلُوم؟ قالَ
+> لإنَّه لا يَدعُو أخاهُ إلى صِلَتِه ولا يَتغامَسُ لَه عَن كَلامِهِ،
+> سَمِعتُ ابي يقول: إذا تَنازَعَ اثنان فعازَّ احدُهُمَا الآخرَ فَليَرجِع
+> المَظلُومُ إلى صَاحِبِه حتّى يَقولَ لِصاحِبِهِ: أي أخي أنَا الظَالِمُ
+> حَتّى يَقطَعَ الهِجرانَ بَينَه وبَينَ صاحِبه فإنَّ الله تبارَكَ وتعالى
+> حَكَمُ عدلٍ يأخُذُ لِلمَظلُومِ مِنَ الظالمِ"
 
 *“Two people do not separate and cut off relations with each other
 except that one of them, and perhaps both, deserves Allah's
@@ -218,12 +186,8 @@ peace. Allah is the just Judge. He will punish the oppressor"*[^8]
 It is because of this point that Imam ‘Ali (as), in his erudite letter,
 commands us to:
 
-<blockquote dir="rtl">
-  <p>
-"احمِل نَفسَكَ مِن أخِيكَ عِندَ صَرَمِه على الصِّلَةِ وعِندَ صُدُودِه
-على الُّلطفِ والمُقَارَبَة"
-  </p>
-</blockquote>
+> "احمِل نَفسَكَ مِن أخِيكَ عِندَ صَرَمِه على الصِّلَةِ وعِندَ صُدُودِه
+> على الُّلطفِ والمُقَارَبَة"
 
 *“When your brother severs his relationship with you, you make yourself
 establish relations with him. When he turns away from you, you show
@@ -242,11 +206,7 @@ are presented below:
 
 Imam ‘Ali (as) at his death gave this recommendation:
 
-<blockquote dir="rtl">
-  <p>
-"عَلَيكُم بالتَواصُلِ والتَباذُلِ وإيَّاكُم والتَدابُرِ والتَقاطُع"
-  </p>
-</blockquote>
+> "عَلَيكُم بالتَواصُلِ والتَباذُلِ وإيَّاكُم والتَدابُرِ والتَقاطُع"
 
 *"Strengthen the bonds of friendship and give generously to each other.
 Avoid turning your back and severing relations (with your
@@ -255,14 +215,10 @@ brothers)."*[^9]
 Somebody asked Imam Sadiq (as) about a believer's tasks towards other
 believers. Imam Sadiq (as) enumerated seven rights:
 
-<blockquote dir="rtl">
-  <p>
-"اَيسَرُ حَقٍّ مِنهَا اَن تُحِبَّ لَهُ مَا تُحِبُّ لِنَفسِكَ وَتَكرَه
-لَه مَا تَكرَهُ لِنَفسِكَ والحَقُّ الثَانِي اَن تَمشِي في حَاجَتِهِ
-وتَبغِي رِضاهُ وَلا تُخالِفَ قَولَهُ وَالحَقُّ الثَالِثُ اَن تَصِلَه
-بِنَفسِكَ ومَالِكَ ويَدِكَ ورِجلِكَ ولِسَانِكَ..."
-  </p>
-</blockquote>
+> "اَيسَرُ حَقٍّ مِنهَا اَن تُحِبَّ لَهُ مَا تُحِبُّ لِنَفسِكَ وَتَكرَه
+> لَه مَا تَكرَهُ لِنَفسِكَ والحَقُّ الثَانِي اَن تَمشِي في حَاجَتِهِ
+> وتَبغِي رِضاهُ وَلا تُخالِفَ قَولَهُ وَالحَقُّ الثَالِثُ اَن تَصِلَه
+> بِنَفسِكَ ومَالِكَ ويَدِكَ ورِجلِكَ ولِسَانِكَ..."
 
 *“The simplest right is to love for him what you love for yourself and
 to dislike for him what you dislike for yourself. The second right is to
@@ -272,15 +228,11 @@ yourself, your wealth, your hand, your foot and your tongue..”.*
 
 Imam Sadiq (as) reports the Prophet (S) to have said:
 
-<blockquote dir="rtl">
-  <p>
-"لِلمُؤمِن على المُؤمِنِ سَبعَةُ حُقُوقٍ وَاجِبَةٍ مِنَ الله
-عَزَّوجَلَّ عَليهِ: الإجلالُ لَهُ في عَينهِ والوِدّ لَهُ في صَدرِه
-والمُواساةُ لَه في مَالِه وان يُحرِّمَ غَيبَتَه وَاَن يَعُودَه في
-مَرَضِه وَاَن يُشَيِّعَ جَنازَتَه وَاَن لا يَقُولَ فِيهِ بَعدَ مَوتِهِ
-إلا خَيراً"
-  </p>
-</blockquote>
+> "لِلمُؤمِن على المُؤمِنِ سَبعَةُ حُقُوقٍ وَاجِبَةٍ مِنَ الله
+> عَزَّوجَلَّ عَليهِ: الإجلالُ لَهُ في عَينهِ والوِدّ لَهُ في صَدرِه
+> والمُواساةُ لَه في مَالِه وان يُحرِّمَ غَيبَتَه وَاَن يَعُودَه في
+> مَرَضِه وَاَن يُشَيِّعَ جَنازَتَه وَاَن لا يَقُولَ فِيهِ بَعدَ مَوتِهِ
+> إلا خَيراً"
 
 *"A believer has seven duties made incumbent on him by God towards
 another believer: To respect him in his presence; to love him in his
@@ -291,12 +243,8 @@ death."*[^10]
 
 Among the advice the Prophet (S) gave Imam ‘Ali (as) on his death was:
 
-<blockquote dir="rtl">
-  <p>
-"ثَلاثٌ لا تُطِيقُها هَذِهِ الأمّة: المُواسَاةُ للأخِ في مَالِه
-واِنصَافُ النّاسِ مِن نَفسِهِ وذِكْرُ الله على كُلِّ حالٍ"
-  </p>
-</blockquote>
+> "ثَلاثٌ لا تُطِيقُها هَذِهِ الأمّة: المُواسَاةُ للأخِ في مَالِه
+> واِنصَافُ النّاسِ مِن نَفسِهِ وذِكْرُ الله على كُلِّ حالٍ"
 
 *"There are three things which this Ummah is unable to carry out:
 helping one’s brother in faith with his wealth; doing justice to people;
@@ -312,19 +260,11 @@ such cases with benevolence and generosity:
 
 *When he is stingy, be generous towards him:*
 
-<blockquote dir="rtl">
-  <p>
-"وَعِندَ جُمُودِه على البَذلِ"
-  </p>
-</blockquote>
+> "وَعِندَ جُمُودِه على البَذلِ"
 
 Concerning this issue, Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"عَوِّدُوا بِالفَضلِ على مَن حَرَمَكُم"
-  </p>
-</blockquote>
+> "عَوِّدُوا بِالفَضلِ على مَن حَرَمَكُم"
 
 *"Habituate yourself to be bountiful to those who have deprived
 you".*[^12]
@@ -345,12 +285,8 @@ differences. We will refer to some of these issues here:
 
 Kulayb al-Asadi says: I heard Imam Husayn (as) saying:
 
-<blockquote dir="rtl">
-  <p>
-"سَمِعتُ أبَا عبدالله عليه السلام يقول: تَواصَلُوا وَتَبارُّوا
-وَتَراحَمُوا وَكُونُوا إخوَةً بَرَرةً كمَا امَرَكُم الله"
-  </p>
-</blockquote>
+> "سَمِعتُ أبَا عبدالله عليه السلام يقول: تَواصَلُوا وَتَبارُّوا
+> وَتَراحَمُوا وَكُونُوا إخوَةً بَرَرةً كمَا امَرَكُم الله"
 
 *"Establish relations with each other, do good to each other, have mercy
 on each other and be righteous brothers, as Allah has commanded
@@ -358,13 +294,9 @@ you."*[^13]
 
 Shu’ayb Aqarqui says: I heard Imam Sadiq (as) telling his followers:
 
-<blockquote dir="rtl">
-  <p>
-"اتَّقُوا الله وَكُونُوا إخوَةً بَرَرَةً مُتحَابِّينَ في الله
-مُتَواصِلِينَ مُتَراحِمِينَ تَزاوَروا وتَلاقَوا وتَذاكَرُوا أمرَنا
-واَحيُوه"
-  </p>
-</blockquote>
+> "اتَّقُوا الله وَكُونُوا إخوَةً بَرَرَةً مُتحَابِّينَ في الله
+> مُتَواصِلِينَ مُتَراحِمِينَ تَزاوَروا وتَلاقَوا وتَذاكَرُوا أمرَنا
+> واَحيُوه"
 
 *"Fear Allah and be righteous brothers who love one another for the sake
 of Allah, establish relations with one other and have mercy on one
@@ -373,34 +305,22 @@ and revive it."*[^14]
 
 The great Prophet (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"الزِيَارَة تُنبِتُ المَودَّة"
-  </p>
-</blockquote>
+> "الزِيَارَة تُنبِتُ المَودَّة"
 
 *"Visiting each other causes love to grow."*[^15]
 
 Imam Sadiq (as), enumerating the rights of others on a genuine believer,
 emphasizes:
 
-<blockquote dir="rtl">
-  <p>
-"فَإِن كَانَ عَلَيكَ عاتِباً فَلا تُفارِقهُ حَتّى تَسألَ سَمِيحَتَه
-(تَسِلَّ سَخِيمَتَه)"
-  </p>
-</blockquote>
+> "فَإِن كَانَ عَلَيكَ عاتِباً فَلا تُفارِقهُ حَتّى تَسألَ سَمِيحَتَه
+> (تَسِلَّ سَخِيمَتَه)"
 
 *"If he is annoyed with you, do not part from him until you apologize to
 him (gently remove his rancor)"*[^16]
 
 It is for this reason that Imam ‘Ali (as) writes in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"وعِندَ تَباعُدِهِ على الدُنو"
-  </p>
-</blockquote>
+> "وعِندَ تَباعُدِهِ على الدُنو"
 
 *"When he moves away, you come near to him.”*
 
@@ -418,12 +338,8 @@ methods and will not force the listener to adopt the escape mechanism.
 The listener might refer to his own nature and be influenced by the
 preacher:
 
-<blockquote dir="rtl">
-  <p>
-"اذْهَبَا إِلَى فِرْعَوْنَ إِنَّهُ طَغَى فَقُولَا لَهُ قَوْلًا
-لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَى"
-  </p>
-</blockquote>
+> "اذْهَبَا إِلَى فِرْعَوْنَ إِنَّهُ طَغَى فَقُولَا لَهُ قَوْلًا
+> لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَى"
 
 ***"Go both to Fir’awn, surely he has become inordinate; then speak to
 him a gentle word; haply he may mind or fear".***[^17]
@@ -432,12 +348,8 @@ Imam ‘Ali (as) both in this letter and in Nahj al-Balaghah emphasize on
 this moral principle. In other Hikam of Nahj al-Balaghah where he
 enumerates the specific traits of the believers, he continues:
 
-<blockquote dir="rtl">
-  <p>
-"سَهلُ الخَلِيقَةِ لَيّنُ العَرِيكَةِ، نَفسُهُ اصلَبُ مِنَ الصَلدِ
-وَهُوَ اذَلُّ مِنَ العَبْدِ"
-  </p>
-</blockquote>
+> "سَهلُ الخَلِيقَةِ لَيّنُ العَرِيكَةِ، نَفسُهُ اصلَبُ مِنَ الصَلدِ
+> وَهُوَ اذَلُّ مِنَ العَبْدِ"
 
 *"(A believer is of) easy disposition, gentle in temperament; he is
 stronger than stone, but more humble than a slave."*[^18]
@@ -445,42 +357,26 @@ stronger than stone, but more humble than a slave."*[^18]
 In the sermon about the qualities of the God-fearing ones addressed to
 his companion Hammam, Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"وحَزماً في لِينٍ"
-  </p>
-</blockquote>
+> "وحَزماً في لِينٍ"
 
 *"A believer is both prudent and lenient".*[^19]
 
 Elsewhere he says:
 
-<blockquote dir="rtl">
-  <p>
-"ليّناً قُولُه"
-  </p>
-</blockquote>
+> "ليّناً قُولُه"
 
 *"A believer's speech is gentle."*[^20]
 
 In this letter, Imam ‘Ali (as) says:
 
-<blockquote dir="rtl">
-  <p>
-"وعِندَ شِدَّتِهِ على الّلِينِ"
-  </p>
-</blockquote>
+> "وعِندَ شِدَّتِهِ على الّلِينِ"
 
 "*When he is harsh, you be gentle towards him”.*
 
 Still in another occasion he invites people to be soft, telling them the
 philosophy of being cool and quiet:
 
-<blockquote dir="rtl">
-  <p>
-"ولِن لِمَن غَالَظَكَ فَإنَّه يُوشَكُ ان يَلِينَ لَكَ"
-  </p>
-</blockquote>
+> "ولِن لِمَن غَالَظَكَ فَإنَّه يُوشَكُ ان يَلِينَ لَكَ"
 
 “*Be gentle to one who treats you harshly: he will soon be gentle
 towards you.”*
@@ -492,12 +388,8 @@ haughtiness to swell, they say. In such cases we have to perform the
 same harsh manners. The Great Qur’an describes the manners of believers
 towards infidels in the following manner,
 
-<blockquote dir="rtl">
-  <p>
-"مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
-الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ"
-  </p>
-</blockquote>
+> "مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى
+> الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ"
 
 ***"Muhammad is the Apostle of Allah, and those with him are firm of
 heart against the unbelievers, compassionate among themselves."***[^21]
@@ -518,22 +410,14 @@ suit.
 
 The great Prophet (S) has stated:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اقالَ مُسلِماً عَثرَتَه اقالَ الله عَثرَتَهُ يَومَ القِيامَةِ"
-  </p>
-</blockquote>
+> "مَن اقالَ مُسلِماً عَثرَتَه اقالَ الله عَثرَتَهُ يَومَ القِيامَةِ"
 
 The Guidelines Of The Leaders Of Religion In This Respect
 ---------------------------------------------------------
 
 Imam Sadiq (as) has said,
 
-<blockquote dir="rtl">
-  <p>
-"الغَضَبُ مِفتَاحُ كُلِّ شَرٍّ"
-  </p>
-</blockquote>
+> "الغَضَبُ مِفتَاحُ كُلِّ شَرٍّ"
 
 How To Control And Cure Anger
 -----------------------------
@@ -548,15 +432,11 @@ scholars have suggested are:
 are sitting, lie down, splash water on your face; eat something; discuss
 on a new topic and the like. The great Prophet (S) says:
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ الغَضَبَ جَمْرَةٌ تَتَوقَّدُ في القَلبِ اَلَم تَرَ الى انتِفاخِ
-اودَاجِهِ وحُمرَةِ عَينِهِ فَاِذا وَجَدَ احَدُكُم مِن ذَلِكَ شَيئاً
-فَاِن كانَ قائِماً فَليَجلِس وَاِن كانَ جَالِساً فَليَنَم فَاِن لَم
-يَزل ذَلِكَ فَليَتَوضّأ بِالماءِ البَارِدِ وَلِيَغتَسِل فانَّ النّارَ
-لا يُطفِيها إلاّ الماءُ"
-  </p>
-</blockquote>
+> "اِنَّ الغَضَبَ جَمْرَةٌ تَتَوقَّدُ في القَلبِ اَلَم تَرَ الى انتِفاخِ
+> اودَاجِهِ وحُمرَةِ عَينِهِ فَاِذا وَجَدَ احَدُكُم مِن ذَلِكَ شَيئاً
+> فَاِن كانَ قائِماً فَليَجلِس وَاِن كانَ جَالِساً فَليَنَم فَاِن لَم
+> يَزل ذَلِكَ فَليَتَوضّأ بِالماءِ البَارِدِ وَلِيَغتَسِل فانَّ النّارَ
+> لا يُطفِيها إلاّ الماءُ"
 
 *"Anger is a piece of fire which is kindled in man's heart. Can't you
 see how your veins are swollen and your eyes are red? If one of you
@@ -569,12 +449,8 @@ extinguished with water."*[^22]
 anger, pardoning people and spending benevolently as the traits of the
 believers:
 
-<blockquote dir="rtl">
-  <p>
-"وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنْ النَّاسِ وَاللَّهُ
-يُحِبُّ الْمُحْسِنِينَ"
-  </p>
-</blockquote>
+> "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنْ النَّاسِ وَاللَّهُ
+> يُحِبُّ الْمُحْسِنِينَ"
 
 ***"[Those who spend benevolently in ease as well as in straitness], and
 those who restrain their anger and pardon men; and Allah loves the doers
@@ -586,34 +462,22 @@ spending benevolently.
 
 Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"احتَرِسُوا مِن سُورَةِ الغَضَبِ واعِدّوا لَهُ ما تُجاهِدونَهُ بِه
-مِنَ الكَظمِ والحِلمِ"
-  </p>
-</blockquote>
+> "احتَرِسُوا مِن سُورَةِ الغَضَبِ واعِدّوا لَهُ ما تُجاهِدونَهُ بِه
+> مِنَ الكَظمِ والحِلمِ"
 
 *“Guard yourselves against the outburst of anger. Prepare restraint and
 forbearance for it by which you struggle against it”.*[^24]
 
 Imam ‘Ali (as) has also said,
 
-<blockquote dir="rtl">
-  <p>
-"رَدُّ الغَضَبِ بالحِلمِ ثَمَرةُ العِلمِ"
-  </p>
-</blockquote>
+> "رَدُّ الغَضَبِ بالحِلمِ ثَمَرةُ العِلمِ"
 
 *"Repelling anger through forbearance is the fruit of knowledge."*[^25]
 
 The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَا مِن جُرعَةٍ احَبُّ الى الله تَعالى مِن جُرعَةِ غَيظٍ يَكظِمُها
-عَبدٌ ومَا كَظَمَها عَبدٌ إلاّ مَلأ الله جَوفَهُ إيماناً"
-  </p>
-</blockquote>
+> "مَا مِن جُرعَةٍ احَبُّ الى الله تَعالى مِن جُرعَةِ غَيظٍ يَكظِمُها
+> عَبدٌ ومَا كَظَمَها عَبدٌ إلاّ مَلأ الله جَوفَهُ إيماناً"
 
 *"There is no draught more loved by God than the draught of anger which
 the servant swallows. A servant does not restrain his anger but that
@@ -621,12 +485,8 @@ Allah fills him with faith."*[^26]
 
 Imam Baqir (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-"مَن كَظَمَ غَيظاً وَهُوَ يَقدِرُ على امضَائِهِ حَشا الله قَلبَهُ
-أمناً وايماناً يَومَ القِيامَةِ"
-  </p>
-</blockquote>
+> "مَن كَظَمَ غَيظاً وَهُوَ يَقدِرُ على امضَائِهِ حَشا الله قَلبَهُ
+> أمناً وايماناً يَومَ القِيامَةِ"
 
 *"On the Day of Judgment, God will fill with faith and tranquility the
 heart of one who restrains his anger although he is able to express
@@ -634,12 +494,8 @@ it."*[^27]
 
 It is for this reason that Imam (as) in his letter commands us:
 
-<blockquote dir="rtl">
-  <p>
-"وتَجَرَّعِ الغَيظَ فإنى لمَ اَرَ جُرعَةً احلى مِنها عَاقِبَةً ولا
-الذَّ مَغَبَّةً"
-  </p>
-</blockquote>
+> "وتَجَرَّعِ الغَيظَ فإنى لمَ اَرَ جُرعَةً احلى مِنها عَاقِبَةً ولا
+> الذَّ مَغَبَّةً"
 
 "*Swallow your anger, for I have not seen a draught sweeter in outcome
 than it, or with a more pleasant result."*
@@ -649,11 +505,7 @@ than it, or with a more pleasant result."*
 Since doing good connects two individuals and the receiver of
 beneficence feels in debt to the doer of good as Imam ‘Ali (as) mentions
 
-<blockquote dir="rtl">
-  <p>
-"الإنسانُ عَبدُ الاحسَانِ"
-  </p>
-</blockquote>
+> "الإنسانُ عَبدُ الاحسَانِ"
 
 *"Man is a slave to benevolence"*[^28]
 
@@ -677,43 +529,27 @@ Allah sees what you do."***
 The principle of beneficence is emphasized in Islam for both friends and
 foes alike. Imam ‘Ali (as) says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-"الاحسَانُ الى المُسِيئ احسَنُ الفَضلِ"
-  </p>
-</blockquote>
+> "الاحسَانُ الى المُسِيئ احسَنُ الفَضلِ"
 
 *"Doing good to evildoers is the best kind of benevolence."*[^29]
 
 Imam ‘Ali (as) has also said,
 
-<blockquote dir="rtl">
-  <p>
-"الاحسَانُ الى المُسِيئِ لَيُصلِحُ المُسيء حتى لو كان عَدُوّاً "
-  </p>
-</blockquote>
+> "الاحسَانُ الى المُسِيئِ لَيُصلِحُ المُسيء حتى لو كان عَدُوّاً "
 
 *"Doing good to an evildoer makes him good even if he is your
 enemy."*[^30]
 
 He has also stated:
 
-<blockquote dir="rtl">
-  <p>
-"احسِن الى المُسِيئِ تَملِكُه"
-  </p>
-</blockquote>
+> "احسِن الى المُسِيئِ تَملِكُه"
 
 *"Do good to one who has done wrong, and you will dominate him."*[^31]
 
 It is for this reason that Imam ‘Ali (as), in his letter, emphasizes
 that:
 
-<blockquote dir="rtl">
-  <p>
-"خُذْ على عَدوّكَ بِالفَضلِ فإنَّه احلَى الظَفَرَينِ"
-  </p>
-</blockquote>
+> "خُذْ على عَدوّكَ بِالفَضلِ فإنَّه احلَى الظَفَرَينِ"
 
 "*Treat your enemy favourably, because it is the sweeter of the two
 victories (i.e. revenge or the bestowal of favours)*
@@ -733,12 +569,8 @@ our secrets or at the time of disconnection, destroying all bridges.
 
 Imam Reza (as) narrates from Imam ‘Ali (as) that he said:
 
-<blockquote dir="rtl">
-  <p>
-"احبِب حَبِيبَكَ هَوناً ما فَعَسَى ان يَكُونَ بَغِيضكَ يَوماً مَا
-وابغِض بَغِيضَكَ هَوناً مَا فَعَسَى ان يَكُونَ حَبِيبَكَ يَوماً مَا"
-  </p>
-</blockquote>
+> "احبِب حَبِيبَكَ هَوناً ما فَعَسَى ان يَكُونَ بَغِيضكَ يَوماً مَا
+> وابغِض بَغِيضَكَ هَوناً مَا فَعَسَى ان يَكُونَ حَبِيبَكَ يَوماً مَا"
 
 *"Love your friend moderately since he might someday be your enemy. And
 show moderate animosity towards your enemy since one day he might turn
@@ -746,12 +578,8 @@ out to be your friend"*[^33]
 
 Imam Sadiq (as) told some of his followers:
 
-<blockquote dir="rtl">
-  <p>
-"لا تُطلِع صَدِيقَكَ مِن سِرِّكَ الا عَلى مَا لَو اطَّلَعَ عَلَيهِ
-عَدوكَ لَم يَضُرّكَ فانَّ الصَدِيقَ قَد يَكُونُ عَدُوّكَ يَوماً مَا"
-  </p>
-</blockquote>
+> "لا تُطلِع صَدِيقَكَ مِن سِرِّكَ الا عَلى مَا لَو اطَّلَعَ عَلَيهِ
+> عَدوكَ لَم يَضُرّكَ فانَّ الصَدِيقَ قَد يَكُونُ عَدُوّكَ يَوماً مَا"
 
 *"Do not tell your friend all your secrets except for those secrets
 which if your enemy knew, would not harm you, for your friend may
@@ -759,12 +587,8 @@ someday be your enemy."*[^34]
 
 Imam ‘Ali (as) emphasizes in this letter:
 
-<blockquote dir="rtl">
-  <p>
-"وَاِن اَرَدتَ قَطِيعَةَ اَخِيكَ فاستَبْقِ لَهُ مِن نَفسِكَ بَقيّةً
-يَرجِعُ الَيها اِن بَدا لَهُ ذَلِكَ يَوماً مَا"
-  </p>
-</blockquote>
+> "وَاِن اَرَدتَ قَطِيعَةَ اَخِيكَ فاستَبْقِ لَهُ مِن نَفسِكَ بَقيّةً
+> يَرجِعُ الَيها اِن بَدا لَهُ ذَلِكَ يَوماً مَا"
 
 *“If you wish to sever relations with your brother, leave some room for
 him to return to your friendship if he wishes to someday.”*
@@ -780,13 +604,9 @@ If rightfulness dominates a community and crimes are not experienced in
 such a society, it is necessary for people to have a good opinion of
 each another. Imam ‘Ali (as) says regarding this issue:
 
-<blockquote dir="rtl">
-  <p>
-"ضَع امرَ اخِيكَ على احسَنِه حَتّى يَأتِيكَ ما يَغلِبُكَ مِنهُ ولا
-تَظُنَنَّ بِكَلِمَةٍ خَرَجَت مِن اَخِيكَ سُوءاً وَاَنتَ تَجِدُ لَها في
-الخَيرِ مَحْمَلاً"
-  </p>
-</blockquote>
+> "ضَع امرَ اخِيكَ على احسَنِه حَتّى يَأتِيكَ ما يَغلِبُكَ مِنهُ ولا
+> تَظُنَنَّ بِكَلِمَةٍ خَرَجَت مِن اَخِيكَ سُوءاً وَاَنتَ تَجِدُ لَها في
+> الخَيرِ مَحْمَلاً"
 
 *"Regard your brother’s affair in the most favorable way until you hear
 of something that overcomes your good opinion of him. Never think evil
@@ -797,14 +617,10 @@ wrong-doing, a bad opinion of others would be inevitable. Thus, Imam
 ‘Ali (as) in his Nahj al-Balaghah, considers optimism in such conditions
 as self-deception:
 
-<blockquote dir="rtl">
-  <p>
-"اِذَا استَولى الصَلاحُ على الزَمَانِ واهلِهِ ثُمَّ اسَاءَ رَجُلٌ
-الظَنَّ بِرَجُلٍ لَم تَظهَر مِنهُ حَوبَةٌ فَقَد ظَلَمَ واِذا استَولى
-الفَسادُ على الزَّمانِ واهلِهِ واحسَنَ رَجلٌ الظَنَّ بِرَجُلٍ فَقَد
-غَرَّرَ"
-  </p>
-</blockquote>
+> "اِذَا استَولى الصَلاحُ على الزَمَانِ واهلِهِ ثُمَّ اسَاءَ رَجُلٌ
+> الظَنَّ بِرَجُلٍ لَم تَظهَر مِنهُ حَوبَةٌ فَقَد ظَلَمَ واِذا استَولى
+> الفَسادُ على الزَّمانِ واهلِهِ واحسَنَ رَجلٌ الظَنَّ بِرَجُلٍ فَقَد
+> غَرَّرَ"
 
 *"If, at a time when goodness is prevalent among people, a person has an
 evil opinion of one from whom no sin has been seen, he has wronged him.
@@ -817,22 +633,14 @@ frequenting places where accusing people prevails, and doing actions
 which arise people’s suspicion. In this respect the great Prophet (S)
 has stated:
 
-<blockquote dir="rtl">
-  <p>
-"اتَّقُوا مَواضِعَ التُهَم"
-  </p>
-</blockquote>
+> "اتَّقُوا مَواضِعَ التُهَم"
 
 *"Avoid frequenting places that are suspect."*[^37]
 
 Imam ‘Ali (as) has also said,
 
-<blockquote dir="rtl">
-  <p>
-"مَن عَرَّضَ نَفسَهُ لِلتُهمَةِ فَلا يَلومَنَّ مَن اسَاءَ بِهِ
-الظَنَّ"
-  </p>
-</blockquote>
+> "مَن عَرَّضَ نَفسَهُ لِلتُهمَةِ فَلا يَلومَنَّ مَن اسَاءَ بِهِ
+> الظَنَّ"
 
 *"One who exposes himself to suspicion should not blame others for
 having a bad opinion of him"*[^38]
@@ -844,34 +652,22 @@ In our Islamic traditions, fortunately all the above issues are dealt
 with:
 The great Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اولَى النّاسِ بِالتُهمَةِ مَن جَالَسَ اهلَ التُهمَةِ"
-  </p>
-</blockquote>
+> "اولَى النّاسِ بِالتُهمَةِ مَن جَالَسَ اهلَ التُهمَةِ"
 
 *"The one most deserving of being an object of suspicion is one who sits
 in the company of people who are suspect."*[^39]
 
 Imam ‘Ali (as) has said in this respect:
 
-<blockquote dir="rtl">
-  <p>
-"مَن وَقَفَ نَفسَه مَوقِفَ التُهمَةِ فَلا يَلومَنَّ مَن اسَاءَ بِهِ
-الظَنَّ"
-  </p>
-</blockquote>
+> "مَن وَقَفَ نَفسَه مَوقِفَ التُهمَةِ فَلا يَلومَنَّ مَن اسَاءَ بِهِ
+> الظَنَّ"
 
 *"He who places himself in a position that is suspect should not blame
 one who has a bad opinion of him."*[^40]
 
 Imam ‘Ali (as) has said as well,
 
-<blockquote dir="rtl">
-  <p>
-"ومَن دَخلَ مَداخِلَ السُوءِ اتُّهِمَ"
-  </p>
-</blockquote>
+> "ومَن دَخلَ مَداخِلَ السُوءِ اتُّهِمَ"
 
 *"One who enters places of ill-repute will be suspect."*[^41]
 
@@ -879,11 +675,7 @@ The great Prophet (S) one day was talking with his wife Safiyah when one
 of his companions passed by that place. The Prophet (S) called him
 saying:
 
-<blockquote dir="rtl">
-  <p>
-"يَا فُلانُ هَذِهِ زَوجَتِي صَفِيَّة"
-  </p>
-</blockquote>
+> "يَا فُلانُ هَذِهِ زَوجَتِي صَفِيَّة"
 
 "*O man, this is my wife, Safiyah".*
 
@@ -902,11 +694,7 @@ people do not know you are her son."*
 The reason why Imam Zayn al-Abidin (as) in the prayer called Makarim
 al-Akhlaq asks God:
 
-<blockquote dir="rtl">
-  <p>
-"ومِن ظَنَّةِ اهَلِ الصَلاحِ الثِقَةَ"
-  </p>
-</blockquote>
+> "ومِن ظَنَّةِ اهَلِ الصَلاحِ الثِقَةَ"
 
 *"(Replace for me) the suspicion of the people of righteousnesss with
 trust."*[^43]
@@ -920,11 +708,7 @@ to find out the truth about him.[^44]
 
 But Imam ‘Ali (as) writes in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"ومَن ظَنَّ بِكَ خَيراً فصَدِّق ظَنَّه"
-  </p>
-</blockquote>
+> "ومَن ظَنَّ بِكَ خَيراً فصَدِّق ظَنَّه"
 
 "*If one has a good opinion of you, confirm his opinion of you”.*
 
@@ -945,22 +729,14 @@ friend. This act of his will leave a negative impression in his friend’s
 mind. He will either cut his relations with him or become hostile to
 him. There is a maxim which says:
 
-<blockquote dir="rtl">
-  <p>
-"اِضاعَةُ الحُقُوقِ دَاعِيَةُ العُقوقِ"
-  </p>
-</blockquote>
+> "اِضاعَةُ الحُقُوقِ دَاعِيَةُ العُقوقِ"
 
 "Neglecting rights causes the severance of relationships."[^46]
 
 It is for this reason that Imam ‘Ali (as) writes in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"ولا تُضِيعَنَّ حَقَّ اخِيكَ اتِكالاً عَلى ما بَينَكَ وبَينَه فانَّه
-لَيسَ بِأخٍ مَن اضَعْتَ حَقَّه"
-  </p>
-</blockquote>
+> "ولا تُضِيعَنَّ حَقَّ اخِيكَ اتِكالاً عَلى ما بَينَكَ وبَينَه فانَّه
+> لَيسَ بِأخٍ مَن اضَعْتَ حَقَّه"
 
 *“Never neglect your brother’s right by relying on the friendship that
 is between you and him, because one whose rights you neglect is not your
@@ -979,24 +755,16 @@ deprived of paradise:
 
 The Holy Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"ثَلاثَةٌ لا يَدخُلُونَ الجَنَّة: مُدمِنُ خَمرٍ ومُؤمِنُ سِحرٍ وقاطِعُ
-رَحِمٍ"
-  </p>
-</blockquote>
+> "ثَلاثَةٌ لا يَدخُلُونَ الجَنَّة: مُدمِنُ خَمرٍ ومُؤمِنُ سِحرٍ وقاطِعُ
+> رَحِمٍ"
 
 *"There are three groups who will not enter paradise: A chronic
 wine-drinker, a believer in witchcraft and one who severs the ties of
 kinship."*[^47]
 The Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-"اخبَرَني جَبرئِيلُ انَّ رِيحَ الجَنَّةِ تُوجَدُ مِن مَسِيرَةِ الفِ
-عامٍ مَا يَجدُها عَاقٌّ ولا قاطِعُ رَحِمٍ ولا شَيخٌ زَانٍ ..."
-  </p>
-</blockquote>
+> "اخبَرَني جَبرئِيلُ انَّ رِيحَ الجَنَّةِ تُوجَدُ مِن مَسِيرَةِ الفِ
+> عامٍ مَا يَجدُها عَاقٌّ ولا قاطِعُ رَحِمٍ ولا شَيخٌ زَانٍ ..."
 
 *"Gabriel has informed me that the fragrance of paradise can be
 experienced from the distance of a thousand years, but a person whose
@@ -1006,14 +774,10 @@ it…."*[^48]
 
 Ala’ Ibn Fadl says he heard Imam Sadiq (as) saying:
 
-<blockquote dir="rtl">
-  <p>
-"الرَحِمُ مُعَلَّقةٌ بِالعَرشِ تَقُول الّلهُمَّ صِل مَن وَصَلَنِي
-واقطَع مَن قَطَعَنِي وهِيَ رَحِمُ آلُ مُحمَّد ورَحِمُ كُلُّ مٌؤمِنٍ
-وهو قولُ الله (وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ
-يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ) "
-  </p>
-</blockquote>
+> "الرَحِمُ مُعَلَّقةٌ بِالعَرشِ تَقُول الّلهُمَّ صِل مَن وَصَلَنِي
+> واقطَع مَن قَطَعَنِي وهِيَ رَحِمُ آلُ مُحمَّد ورَحِمُ كُلُّ مٌؤمِنٍ
+> وهو قولُ الله (وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ
+> يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ) "
 
 *‘The womb (i.e.ties of relationship) is fastened to the Divine Throne
 (in the Highest Heaven). It says: O God, establish relations with one
@@ -1029,20 +793,16 @@ shortens one's life and might end in sudden death and deprives a person
 of his relative's help in time of distress.
 It is for this reason that Imam ‘Ali (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-“يا ايُّها النّاسُ انَّه لا يَستَغنِي الرَجُلُ وَاِن كانَ ذَا مَالٍ
-عَن عِترَتِه ودِفاعِهِم عَنهُ بايدِيهِم واَلسِنَتِهم وَهُم اَعظَمُ
-النّاسِ حِيطَةً مِن وَرائِهِ وأَلَمَّهُم لِشَعَثِه واعطَفَهِم عَلَيهِ
-عِندَ نَازِلَةٍ اذا نَزَلَت بِه ولِسَانُ الصِدقِ يَجعَلُهُ الله
-لِلمَرءِ في النّاسِ خَيرٌ لَهُ مِنَ المالِ يَرِثُه غَيرُه، اَلا لا
-يَعدِلَنَّ احدُكُم عَن القَرابَة يَرى بِها الخَصَاصَةَ ان يَسُدَّها
-بِالّذِي لا يَزِيدُه اِن امسَكَهُ ولا يَنقُصُه اِن اهلَكَهُ ومَن
-يَقبِضُ يَدَه عَن عَشِيرَتِه فانَّما تَقبِضُ مِنهُ عَنهُم يَدٌ
-وَاحِدَة وتَقبِضُ مِنهُم عَنهُ ايدٍ كَثِيرَةٍ ومَن تَلِن حَاشِيَتُه
-يَستَدِم مِن قَومِه المَوَدَّة"
-  </p>
-</blockquote>
+> “يا ايُّها النّاسُ انَّه لا يَستَغنِي الرَجُلُ وَاِن كانَ ذَا مَالٍ
+> عَن عِترَتِه ودِفاعِهِم عَنهُ بايدِيهِم واَلسِنَتِهم وَهُم اَعظَمُ
+> النّاسِ حِيطَةً مِن وَرائِهِ وأَلَمَّهُم لِشَعَثِه واعطَفَهِم عَلَيهِ
+> عِندَ نَازِلَةٍ اذا نَزَلَت بِه ولِسَانُ الصِدقِ يَجعَلُهُ الله
+> لِلمَرءِ في النّاسِ خَيرٌ لَهُ مِنَ المالِ يَرِثُه غَيرُه، اَلا لا
+> يَعدِلَنَّ احدُكُم عَن القَرابَة يَرى بِها الخَصَاصَةَ ان يَسُدَّها
+> بِالّذِي لا يَزِيدُه اِن امسَكَهُ ولا يَنقُصُه اِن اهلَكَهُ ومَن
+> يَقبِضُ يَدَه عَن عَشِيرَتِه فانَّما تَقبِضُ مِنهُ عَنهُم يَدٌ
+> وَاحِدَة وتَقبِضُ مِنهُم عَنهُ ايدٍ كَثِيرَةٍ ومَن تَلِن حَاشِيَتُه
+> يَستَدِم مِن قَومِه المَوَدَّة"
 
 *"O people! No man, however rich he may be, is free of need of his
 relatives and their defence of him with their hands and tongues. They
@@ -1062,11 +822,7 @@ people”.*[^50]
 
 It is for this reason that Imam ‘Ali (as) writes in this letter:
 
-<blockquote dir="rtl">
-  <p>
-"ولا يَكُن اهلُكَ اشقَى الخَلقَ بِكَ ..."
-  </p>
-</blockquote>
+> "ولا يَكُن اهلُكَ اشقَى الخَلقَ بِكَ ..."
 
 *“Do not let your family be the most wretched of people because of
 you”.*
@@ -1078,12 +834,8 @@ you are one, but they are many.
 
 Imam ‘Ali (as) at the end of his letter writes:
 
-<blockquote dir="rtl">
-  <p>
-“وَأكرِم عَشِيرَتَكَ فانَّهُم جَناحَكَ الّذِي بِهِ تَطِيرُ وأصلَكَ
-الّذي اِلَيهِ تَصِير ويَدَكَ الّتي بِها تَصُول"
-  </p>
-</blockquote>
+> “وَأكرِم عَشِيرَتَكَ فانَّهُم جَناحَكَ الّذِي بِهِ تَطِيرُ وأصلَكَ
+> الّذي اِلَيهِ تَصِير ويَدَكَ الّتي بِها تَصُول"
 
 *"Love your kinsfolk since they are your wings with which you fly, your
 root to which you will return, and your hand with which you assault”.*
@@ -1095,12 +847,8 @@ exist if one of the partners is unwilling to associate. Rather, it is
 humiliation on the part of the one who is eager to have a relationship
 with the other. Imam ‘Ali (as), in Nahj al-Balaghah, has said:
 
-<blockquote dir="rtl">
-  <p>
-"زُهدُكَ في رَاغِبٍ فِيكَ نُقصَانُ حَظٍ ورَغبَتُكَ في زَاهِدٍ فِيكَ
-ذُلُّ نَفسٍ"
-  </p>
-</blockquote>
+> "زُهدُكَ في رَاغِبٍ فِيكَ نُقصَانُ حَظٍ ورَغبَتُكَ في زَاهِدٍ فِيكَ
+> ذُلُّ نَفسٍ"
 
 *"Your shunning one who inclines towards you is a decrease in your
 share, and your inclining towards one who shuns you is a cause of your
@@ -1108,11 +856,7 @@ humiliation."*[^51]
 
 It is for this reason that Imam ‘Ali (as) has ordered us in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"ولا تَرغَبَنَّ فِيمَن زَهِدَ عَنكَ"
-  </p>
-</blockquote>
+> "ولا تَرغَبَنَّ فِيمَن زَهِدَ عَنكَ"
 
 *"Do not desire (the friendship of) one who shuns you”.*
 
@@ -1124,12 +868,8 @@ Otherwise, we have to establish our relations with our relatives and
 friends. Imam ‘Ali (as) said he had seen the following on one of the
 swords of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-"صِلْ مَن قَطَعَكَ وقُل الحَقَّ ولَو على نَفسِكَ واحسِن الى مَن اسَاءَ
-اِلَيكَ"
-  </p>
-</blockquote>
+> "صِلْ مَن قَطَعَكَ وقُل الحَقَّ ولَو على نَفسِكَ واحسِن الى مَن اسَاءَ
+> اِلَيكَ"
 
 *"Establish relations with one who has cut off his relation with you,
 tell the truth even if it is against yourself, and do good to one who
@@ -1151,11 +891,7 @@ desire to please God. You should also tread the same path as the true
 believers. The great Prophet (S), in the face of Quraysh's animosity
 uttered the following:
 
-<blockquote dir="rtl">
-  <p>
-"لا تَثرِيبَ عَلَيكُم اليَومَ فاذهَبُوا انتُمُ الطُلَقاءُ"
-  </p>
-</blockquote>
+> "لا تَثرِيبَ عَلَيكُم اليَومَ فاذهَبُوا انتُمُ الطُلَقاءُ"
 
 “You are not blamed, today. Go! You are free” and he forgave them. He
 even adopted Abu Sufyan's house as a "secure place". In the distribution
@@ -1163,12 +899,8 @@ of booties in the holy war of Hawazin, Imam ‘Ali (as) gave preference to
 newly-converted Muslims over Muhajirin and Ansar.[^53] You, too, in
 establishing ties of friendship, should be stronger than them:
 
-<blockquote dir="rtl">
-  <p>
-"وَلا يَكُونَنَّ اَخُوكَ على مُقَاطَعَتِكَ اقوَى مِنكَ على صِلَتِه
-وَلا يَكُونَنَّ على الإساءَةِ اَقوى مِنكَ على الإحسَان"
-  </p>
-</blockquote>
+> "وَلا يَكُونَنَّ اَخُوكَ على مُقَاطَعَتِكَ اقوَى مِنكَ على صِلَتِه
+> وَلا يَكُونَنَّ على الإساءَةِ اَقوى مِنكَ على الإحسَان"
 
 *“Your brother should not be more powerful in severing relations with
 you than you are in establishing relations with him, and he should not
@@ -1179,13 +911,9 @@ came up to the Prophet (S) and said: I have some relatives who do me
 wrong even if I am kind to them. I have decided to cut off relations
 with them. The Prophet (S) answered:
 
-<blockquote dir="rtl">
-  <p>
-"اذَن يَرفُضكُم الله جَمِيعاً قال وكَيفَ اصنَعُ؟ قال: تُعطِي مَن
-حَرَمَكَ وتَصِلُ مَن قَطَعَكَ وتَعفُوَ عَمَّن ظَلَمَكَ فَاِذا فَعَلتَ
-ذَلِكَ كانَ الله عَزَّوجَلَّ لَكَ عَلَيهِم ظَهِيراً"
-  </p>
-</blockquote>
+> "اذَن يَرفُضكُم الله جَمِيعاً قال وكَيفَ اصنَعُ؟ قال: تُعطِي مَن
+> حَرَمَكَ وتَصِلُ مَن قَطَعَكَ وتَعفُوَ عَمَّن ظَلَمَكَ فَاِذا فَعَلتَ
+> ذَلِكَ كانَ الله عَزَّوجَلَّ لَكَ عَلَيهِم ظَهِيراً"
 
 *"Then Allah will forsake all of you”. He said: “What should I do”? The
 Prophet (S) said: “Give the one who has deprived you; establish
@@ -1216,12 +944,8 @@ fate of an oppressor is worse than that of the oppressed.
 
 On the basis of this issue, Imam ‘Ali (as) writes in his letter:
 
-<blockquote dir="rtl">
-  <p>
-"وَلا يَكبُرَنَّ عَلَيكَ ظُلمُ مَن ظَلَمَكَ فاِنَّه يَسعَى في
-مَضَرّتِهِ ونَفعِكَ"
-  </p>
-</blockquote>
+> "وَلا يَكبُرَنَّ عَلَيكَ ظُلمُ مَن ظَلَمَكَ فاِنَّه يَسعَى في
+> مَضَرّتِهِ ونَفعِكَ"
 
 "*Do not consider as great the wrong-doing of one who wrongs you because
 he is harming himself and benefiting you.”*
@@ -1229,11 +953,7 @@ he is harming himself and benefiting you.”*
 It is also on the basis of such observations that Imam ‘Ali (as) has
 said:
 
-<blockquote dir="rtl">
-  <p>
-"ايّاكَ والظُلمِ فانَّه يَزُولُ عَمَّن تَظلِمُه وَيَبقَى عَلَيكَ"
-  </p>
-</blockquote>
+> "ايّاكَ والظُلمِ فانَّه يَزُولُ عَمَّن تَظلِمُه وَيَبقَى عَلَيكَ"
 
 *"Beware of injustice, because it will pass away from the one whom you
 have wronged, but its consequences will remain with you.”*[^58]
@@ -1270,15 +990,11 @@ badness is forgiven as a whole.
 
 Imam Sadiq (as) in this regard says:
 
-<blockquote dir="rtl">
-  <p>
-"آيَةٌ في كِتابِ الله مُسْجَلَةٌ، قُلتُ وما هِيَ؟ قال قَولُ الله
-عَزَّوجلَّ: "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ" جَرَت في
-الكَافِرِ والمُؤمِن والبَرِّ والفَاجِرِ، ومَن صُنِعَ اِلَيهِ مَعرُوفٌ
-فَعَلَيهِ اَن يُكَافِئ بِهِ ولَيسَ المُكافَاةُ اَن تَصنَعَ كَما صَنَعَ
-حَتّى تَربى فاِن صَنَعتَ كَما صَنَعَ كَانَ لَهُ الفَضلُ بِالابتِداء"
-  </p>
-</blockquote>
+> "آيَةٌ في كِتابِ الله مُسْجَلَةٌ، قُلتُ وما هِيَ؟ قال قَولُ الله
+> عَزَّوجلَّ: "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ" جَرَت في
+> الكَافِرِ والمُؤمِن والبَرِّ والفَاجِرِ، ومَن صُنِعَ اِلَيهِ مَعرُوفٌ
+> فَعَلَيهِ اَن يُكَافِئ بِهِ ولَيسَ المُكافَاةُ اَن تَصنَعَ كَما صَنَعَ
+> حَتّى تَربى فاِن صَنَعتَ كَما صَنَعَ كَانَ لَهُ الفَضلُ بِالابتِداء"
 
 *‘There is a verse which is applicable to all’. I asked which verse is
 was. He answered: ‘It is God's statement:* ***“Is the reward of goodness
@@ -1302,11 +1018,7 @@ payment should be made to him in a good manner."***
 Thus, Imam ‘Ali (as) in his letter refers to this general principle of
 "Goodness is the reward for goodness" when he says:
 
-<blockquote dir="rtl">
-  <p>
-"ولَيسَ جَزاءُ مَن سَرَّكَ ان تَسُوءَه"
-  </p>
-</blockquote>
+> "ولَيسَ جَزاءُ مَن سَرَّكَ ان تَسُوءَه"
 
 [^1]: . Raghib’s Mufradat, the item of “one”.
 
@@ -1428,5 +1140,4 @@ seen from Imam ‘Ali (as) in the book Usul al-Kafi, vol.2, p.154.
 [^58]: . Ghurar al-Hikam.
 
 [^59]: . Nur al-Thaqalayn, vol.5, p.199 – Tafsir Namunah, vol.23, p.171.
-
 

@@ -49,7 +49,6 @@ through His vice-regents. Seeking guidance and religious knowledge from
 other than Ahl al-Bait (AS) is equivalent to denying them as His
 vice-regents.
 
-
 **Learning our duties and submitting to words of the Imam (AS)**
 
 The expectants should learn about the instructions of Ahl al-Bait (AS)
@@ -82,7 +81,6 @@ hearts and would cause reminding of our traditions. Our traditions cause
 affection among you. If you follow them you will be guided and saved,
 and if you abandon them you will be misguided and perished. Thus act
 upon them and I guarantee your salvation."[^39]
-
 
 **Educating others about the religion**
 
@@ -127,5 +125,4 @@ instructs him, and teaches him our path, he shall be with us in the
 loftiest companionship [a special degree in Paradise where the Prophets
 and the Imams reside]. My father reported this to me, from his
 forefathers, from the Apostle of Allah (PBUH&HF)."[^41]
-
 

@@ -33,7 +33,6 @@ such people will exterminate anyone once they consider to be an obstacle
 in their path-even if it means killing their closet friends or members
 of their
 
-
 own family .Abd al-Malik thought only about power and by what means he
 could secure and retain his control over the government ; he never
 considered the needs of the people or the country as a whole. Abd
@@ -140,7 +139,6 @@ the people to curse and slander Ali (a.s).
 
 Ubaydullah 's mother (Marjanah) was notorious for her immorality.
 
-
 **The War Between Truth and Falsehood**
 
 During the early period of Abd al-Malik's rule, the Shi'ahs of kufah
@@ -165,7 +163,6 @@ before Imam As-Sajjad (a.s) (the fourth Shi'ite Imam), who expressed
 satisfaction at the death of one of the bitterest enemies of Islam.
 
 \*\*\*\*
-
 
 **Hajjaj**
 
@@ -348,5 +345,4 @@ only to regain it and see before him form of Sa'id. Such is the fate of
 the brutal tyrants of the world.
 
 \*\*\*\*
-
 

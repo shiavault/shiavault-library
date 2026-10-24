@@ -339,4 +339,3 @@ According to the former principle, each human being has free will about
 his/her own lifestyle, provided that it is not legally prohibited, like
 bringing harm to himself/herself or to others.
 
-

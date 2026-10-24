@@ -147,4 +147,3 @@ those rocks, and gave the following sermon:
 
 1 Chapter 5, Verse 67 of the Holy Quran.
 
-

@@ -467,4 +467,3 @@ Anwar; Vol. 53, Pg. 181
 
 [^5]: Kamaluddin, Vol. 2, Pg. 512
 
-

@@ -142,4 +142,3 @@ Felicities), vol. 3, p. 65
 [^5]: Muhammad Mehdi Al-Naraqi, Jami' al-Sa'adat (The Collector of
 Felicities), vol. 3, p. 65
 
-

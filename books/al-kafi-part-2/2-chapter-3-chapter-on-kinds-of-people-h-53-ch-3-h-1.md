@@ -53,7 +53,6 @@ groups: Scholars, those who learn and garbled ones. We are the scholars.
 Our followers are the ones who learn. The rest of the people are garbled
 ones.'"
 
-
 **Chapter 4 : Chapter on the reward for the scholars and those who seek
 knowledge H 57, Ch. 4, h 1**
 
@@ -146,5 +145,4 @@ it to others for the sake of Allah, among the angels of heavens he will
 be called a great personality. It will be said there: 'He learned for
 the sake of Allah, practiced for the sake of Allah and taught it for the
 sake of Allah."
-
 

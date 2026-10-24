@@ -208,12 +208,8 @@ Islam
 Issue 52: The non-Muslim is Najis, but if he or she recites the
 Shahadatain, he or she will become a Muslim. For example, one says:
 
-<blockquote dir="rtl">
-  <p>
-“ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاّ اللهُ وَ أَشْهَدُ أَنَّ مُحَمَّداً
-رَسُوْلُ اللهِ ”
-  </p>
-</blockquote>
+> “ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاّ اللهُ وَ أَشْهَدُ أَنَّ مُحَمَّداً
+> رَسُوْلُ اللهِ ”
 
 (I testify that there is no god except Allah,
 
@@ -244,5 +240,4 @@ Wajib, it will be Najis, even if it is inside the mouth.
 [^2]: An ‘Ayn Najasat is something that in itself if Najis, like urine
 or blood, and a Muta-Najis is something that in itself is not Najis, but
 has become Najis.
-
 

@@ -48,4 +48,3 @@ your teeth."[^2]
 
 [^2]: Kuhl al-Basar, p. 69.
 
-

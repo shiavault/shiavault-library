@@ -62,7 +62,6 @@ people who really knew the value of what Allah gave them of great powers
 by which they benefit their own lives and the life of humanity; of their
 achievements which are, always, remembered and thanked.
 
-
 **The Future Means Hard Work**
 
 Those people who were successful in their lives confirm an important
@@ -131,7 +130,6 @@ Mecca and you remains far.
 Dream is required because it forms an effective motive towards the
 goal. It looks like an intention which moves the organs to work. Thus,
 future = hope + will + striving in the present time.
-
 
 **Future Concerns**
 
@@ -293,5 +291,4 @@ the people seeking Allah's pleasure and consent, and we will get a nice
 position in the sight of the people. It is reported in some Du'as that:
 "How many good features, which I didn't possess, but You spread them…"
 Therefore, do your best and the outcome will appear.
-
 

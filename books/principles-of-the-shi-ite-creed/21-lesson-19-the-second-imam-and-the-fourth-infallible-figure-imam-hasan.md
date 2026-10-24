@@ -171,4 +171,3 @@ Wasa’il al-Shi‘ah.
 
 [^3]: Abridged from Hayat al-Hasan.
 
-

@@ -11,4 +11,3 @@ Uhud, Khandaq, Hunayn and Khaybar.
 
 [^2]: Ref. Sharafin Nubuwwah
 
-

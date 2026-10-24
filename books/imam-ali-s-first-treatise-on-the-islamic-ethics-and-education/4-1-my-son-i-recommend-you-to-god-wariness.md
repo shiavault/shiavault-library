@@ -1,11 +1,7 @@
 1) My Son, I recommend you to God-wariness
 ==========================================
 
-<blockquote dir="rtl">
-  <p>
-"فإني اوصيك بتقوى الله"
-  </p>
-</blockquote>
+> "فإني اوصيك بتقوى الله"
 
 The word "*taqwa*" or "God-wariness" and its derivatives have been used
 in the Qur’an, Nahj al-Balaghah and other books on tradition, and have a
@@ -23,12 +19,8 @@ education, conscience, criminal laws, and social modesty may stop a
 person from doing wrong things, but these are neither general, nor
 reliable. The Imam (as) elsewhere has said,
 
-<blockquote dir="rtl">
-  <p>
-"اِنَّ مَن فَارَقَ التَقوى أُغرِيَ بِالّلذّاتِ وَالشَهواتِ وَوَقَعَ في
-تَيهِ السَّيئَاتِ وَلَزِمَه كَثِيرُ التَبِعاتِ"
-  </p>
-</blockquote>
+> "اِنَّ مَن فَارَقَ التَقوى أُغرِيَ بِالّلذّاتِ وَالشَهواتِ وَوَقَعَ في
+> تَيهِ السَّيئَاتِ وَلَزِمَه كَثِيرُ التَبِعاتِ"
 
 *"Indeed, a person who abandons God-wariness becomes desirous of
 pleasures and lusts, and enters into the wilderness of evil deeds, and
@@ -50,37 +42,25 @@ Besides these, God-wariness has two other important effects:
 **i)** Anybody possessing God-wariness will have a sort of insight by
 which he will understand the secrets behind the creation.
 
-<blockquote dir="rtl">
-  <p>
-"إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا"
-  </p>
-</blockquote>
+> "إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا"
 
 ***"If you are God-wary, God will grant you the power of
 distinction"***[^6]
 
 It is also mentioned in a tradition:
 
-<blockquote dir="rtl">
-  <p>
-"مَن اَخلَصَ لله اَربَعِينَ صَباحاً ظَهَرَت يَنابِيعُ الحِكمَةِ مِن
-قَلبِهِ عَلى لِسَانِهِ"
-  </p>
-</blockquote>
+> "مَن اَخلَصَ لله اَربَعِينَ صَباحاً ظَهَرَت يَنابِيعُ الحِكمَةِ مِن
+> قَلبِهِ عَلى لِسَانِهِ"
 
 *"He who is sincere to God for forty days, springs of wisdom will arise
 from his heart onto his tongue."*[^7]
 
 It is also narrated in al-Kafi from Imam al-Baqir (as):
 
-<blockquote dir="rtl">
-  <p>
-"مَا اَخلَصَ العَبدُ الاِيمانَ بِالله عَزّ وجَلَّ اَربَعِينَ يَوماً.
-اَو قَالَ مَا اَجمَلَ عَبدٌ ذِكْرَ الله عَزَّوَجَلَّ اَربَعِينَ يَوماً
-ـ اِلا زَهّدَهُ الله عَزَّوَجَلَّ في الدُّنيا وَبَصَّرَه دَاءها
-وَدَواءَهَا فَاثبَتَ الحِكمَةَ في قَلبِهِ وَانطَقَ بِها لِسَانَه"
-  </p>
-</blockquote>
+> "مَا اَخلَصَ العَبدُ الاِيمانَ بِالله عَزّ وجَلَّ اَربَعِينَ يَوماً.
+> اَو قَالَ مَا اَجمَلَ عَبدٌ ذِكْرَ الله عَزَّوَجَلَّ اَربَعِينَ يَوماً
+> ـ اِلا زَهّدَهُ الله عَزَّوَجَلَّ في الدُّنيا وَبَصَّرَه دَاءها
+> وَدَواءَهَا فَاثبَتَ الحِكمَةَ في قَلبِهِ وَانطَقَ بِها لِسَانَه"
 
 *“A servant does not make his faith sincere for God for forty days”, or
 he said: “A servant does not render beautiful the mention of God for
@@ -91,13 +71,9 @@ wisdom in his heart and make his tongue speak it”.*[^8]
 **ii)** With the attainment of the precious capital of virtue, problems
 and hardships will be solved.
 
-<blockquote dir="rtl">
-  <p>
-"وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ
-حَيْثُ لَا يَحْتَسِبُ .... وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مِنْ
-أَمْرِهِ يُسْرًا"
-  </p>
-</blockquote>
+> "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ
+> حَيْثُ لَا يَحْتَسِبُ .... وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مِنْ
+> أَمْرِهِ يُسْرًا"
 
 ***"And whoever is careful of (his duty to) Allah, He will make for him
 an outlet, and give him sustenance from whence he thinks not..”***
@@ -128,5 +104,4 @@ Treatise of Bahr al-‘Ulum's Sayr wa Suluk, pp. 22-23.
 [^8]: . Usul al-Kafi, vol.2, p.16.
 
 [^9]: . Qur’an 65:2-3; Qur’an 65:5.
-
 

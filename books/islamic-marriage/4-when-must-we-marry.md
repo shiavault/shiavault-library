@@ -39,4 +39,3 @@ early marriage.
 [^1]: Youth and Spouse Selection, Ali Akbar Mazaheri, Ansariyan
 Publication, p. 34
 
-

@@ -34,4 +34,3 @@ know for sure that he was dead, but I did see my father and seventeen
 ones of my family all killed in one hour, so do you expect for their
 grief to leave my heart?..".
 
-

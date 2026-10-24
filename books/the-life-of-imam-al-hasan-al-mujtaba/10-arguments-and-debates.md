@@ -815,4 +815,3 @@ bin al-Husayn.
 into his final resting-place.
 [^3] Ibn Maja, Sunan, p. 18.
 
-

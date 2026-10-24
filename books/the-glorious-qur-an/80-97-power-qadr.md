@@ -9,4 +9,3 @@ month of Ramadan, when the Qur'an was first sent down to Muhammad. This
 passage might be compared with 24:v for a similar hymn to God's power or
 glory, as this is manifested in His light.
 
-

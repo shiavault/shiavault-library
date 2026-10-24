@@ -135,4 +135,3 @@ masculinity as a negative quality. And Muslims will be able to do things
 as Muslims—not as imitation Westerners—only if they look once again at
 the spiritual and intellectual dimensions of their own tradition.30
 
-

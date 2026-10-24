@@ -61,7 +61,6 @@ selected for mankind commanding what is right and forbidding what is
 wrong and believe in Allah. All praise is due to Allah, the Lord of the
 worlds.
 
-
 Al-Balagh Foundation
 
 **The Divine Message - A Transformation Movement**
@@ -215,5 +214,4 @@ Lord, then get softened their skins and their hearts unto the
 remembrance of Allah; This is Allah's guidance, guides He with it
 whomseover He wills; and whomsoever allows Allah to stray, for him there
 is no guide." Holy Qur'an (Zumur 39:23)
-
 

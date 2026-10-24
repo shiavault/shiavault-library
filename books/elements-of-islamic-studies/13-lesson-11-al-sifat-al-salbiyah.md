@@ -40,4 +40,3 @@ as perceived in the light of the above Positive and Negative Attributes.
 In other words, Allah is the Creator of the universe, Self-Existent, the
 source of all perfection and free from all defects.
 
-

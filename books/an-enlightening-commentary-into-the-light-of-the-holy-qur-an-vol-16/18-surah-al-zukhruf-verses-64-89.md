@@ -4,19 +4,11 @@ Surah al-Zukhruf, Verses 64- 89
 Surah al-Zukhruf - Verses 64 - 65
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ هُوَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
-مُسْتَقِيمٌ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ هُوَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ
+> مُسْتَقِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ فَوَيْلٌ لِلَّذِينَ ظَلَمُوا
-مِنْ عَذَابِ يَوْمٍ أَلِيمٍ
-  </p>
-</blockquote>
+> فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ فَوَيْلٌ لِلَّذِينَ ظَلَمُوا
+> مِنْ عَذَابِ يَوْمٍ أَلِيمٍ
 
 ***64. Verily Allah! He is my Lord and your Lord. So worship Him. This
 is the Straight Path.***  
@@ -50,19 +42,11 @@ for their opposition to prophetic calls.
 Surah al-Zukhruf - Verses 66 - 67
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً وَهُمْ
-لا يَشْعُرُونَ
-  </p>
-</blockquote>
+> هَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً وَهُمْ
+> لا يَشْعُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا
-الْمُتَّقِينَ
-  </p>
-</blockquote>
+> الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا
+> الْمُتَّقِينَ
 
 ***66. Do they only wait for the Hour that it shall come upon them all
 of a sudden while they are unaware?***  
@@ -190,23 +174,11 @@ aforesaid merits.
 Surah al-Zukhruf - Verses 68 - 70
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا عِبَادِ لا خَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلا أَنْتُمْ تَحْزَنُونَ
-  </p>
-</blockquote>
+> يَا عِبَادِ لا خَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلا أَنْتُمْ تَحْزَنُونَ
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ آمَنُوا بِآياتِنَا وَكَانُوا مُسْلِمِينَ
-  </p>
-</blockquote>
+> الَّذِينَ آمَنُوا بِآياتِنَا وَكَانُوا مُسْلِمِينَ
 
-<blockquote dir="rtl">
-  <p>
-ادْخُلُوا الْجَنَّةَ أَنْتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ
-  </p>
-</blockquote>
+> ادْخُلُوا الْجَنَّةَ أَنْتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ
 
 ***68. [God says unto them:] My servants! No fear shall be on you this
 Day, nor shall you grieve.***  
@@ -294,13 +266,9 @@ but their works will live on in hearts.”*[^4]
 Surah al-Zukhruf - Verse 71
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ وَفِيهَا مَا
-تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ وَأَنْتُمْ فِيهَا
-خَالِدُونَ
-  </p>
-</blockquote>
+> يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ وَفِيهَا مَا
+> تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ وَأَنْتُمْ فِيهَا
+> خَالِدُونَ
 
 ***71. Vessels and cups of gold will be passed round them; [there will
 be] therein all that inner-selves could desire and all that eyes could
@@ -330,17 +298,9 @@ Paradise shall reside there forever.
 Surah al-Zukhruf - Verses 72 - 73
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ الْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ
-  </p>
-</blockquote>
+> وَتِلْكَ الْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِنْهَا تَأْكُلُونَ
-  </p>
-</blockquote>
+> لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِنْهَا تَأْكُلُونَ
 
 ***72. This is the Paradise which you have been made to inherit because
 of your deeds which you used to do.***  
@@ -399,23 +359,11 @@ to be granted to those who are faithful and do righteous good deeds.
 Surah al-Zukhruf - Verses 74 - 76
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُجْرِمِينَ فِي عَذَابِ جَهَنَّمَ خَالِدُونَ
-  </p>
-</blockquote>
+> إِنَّ الْمُجْرِمِينَ فِي عَذَابِ جَهَنَّمَ خَالِدُونَ
 
-<blockquote dir="rtl">
-  <p>
-لا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ
-  </p>
-</blockquote>
+> لا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا ظَلَمْنَاهُمْ وَلَكِنْ كَانُوا هُمُ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَمَا ظَلَمْنَاهُمْ وَلَكِنْ كَانُوا هُمُ الظَّالِمِينَ
 
 ***74. Indeed sinners will be in the torment of Hell to abide therein
 forever.***  
@@ -474,12 +422,8 @@ He wills.
 Surah al-Zukhruf - Verse 77
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ قَالَ إِنَّكُمْ
-مَاكِثُونَ
-  </p>
-</blockquote>
+> وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ قَالَ إِنَّكُمْ
+> مَاكِثُونَ
 
 ***77. And they will cry: “O Keeper [of Hell]! Let your Lord make an end
 of us.” He will say: “Indeed you shall abide forever [and there shall be
@@ -508,25 +452,13 @@ supplication:
 Surah al-Zukhruf - Verses 78 - 80
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ جِئْنَاكُمْ بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ
-كَارِهُونَ
-  </p>
-</blockquote>
+> لَقَدْ جِئْنَاكُمْ بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ
+> كَارِهُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ أَبْرَمُوا أَمْراً فَإِنَّا مُبْرِمُونَ
-  </p>
-</blockquote>
+> أَمْ أَبْرَمُوا أَمْراً فَإِنَّا مُبْرِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-أَمْ يَحْسَبُونَ أَنَّا لا نَسْمَعُ سِرَّهُمْ وَنَجْوَاهُمْ بَلَی
-وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
-  </p>
-</blockquote>
+> أَمْ يَحْسَبُونَ أَنَّا لا نَسْمَعُ سِرَّهُمْ وَنَجْوَاهُمْ بَلَی
+> وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
 ***78. Verily, We have brought the truth to you, but most of you have a
 hatred for the truth.***  
@@ -586,18 +518,10 @@ heaven or on the earth”).***
 Surah al-Zukhruf - Verses 81 - 82
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كَانَ لِلرَّحْمَنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ
-  </p>
-</blockquote>
+> قُلْ إِنْ كَانَ لِلرَّحْمَنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ رَبِّ الْعَرْشِ عَمَّا
-يَصِفُونَ
-  </p>
-</blockquote>
+> سُبْحَانَ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ رَبِّ الْعَرْشِ عَمَّا
+> يَصِفُونَ
 
 ***81. [O Prophet (S)] say: “If the Most Gracious [Allah] had a child,
 then I am the first of Allah’s worshippers [to respect that child].***  
@@ -680,12 +604,8 @@ alludes to the metaphysical world as the opposite of
 Surah al-Zukhruf - Verse 83
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّی يُلاقُوا يَوْمَهُمُ الَّذِي
-يُوعَدُونَ
-  </p>
-</blockquote>
+> فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّی يُلاقُوا يَوْمَهُمُ الَّذِي
+> يُوعَدُونَ
 
 ***83. So leave them [these idle talkers alone] to speak nonsense and
 play until they meet the Day which they have been promised.***
@@ -708,19 +628,11 @@ them.
 Surah al-Zukhruf - Verses 84 - 85
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي فِي السَّمَاءِ إِلَهٌ وَفِي الْأَرْضِ إِلَهٌ وَهُوَ
-الْحَكِيمُ الْعَلِيمُ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي فِي السَّمَاءِ إِلَهٌ وَفِي الْأَرْضِ إِلَهٌ وَهُوَ
+> الْحَكِيمُ الْعَلِيمُ
 
-<blockquote dir="rtl">
-  <p>
-وَتَبَارَكَ الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا
-بَيْنَهُمَا وَعِنْدَهُ عِلْمُ السَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ
-  </p>
-</blockquote>
+> وَتَبَارَكَ الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا
+> بَيْنَهُمَا وَعِنْدَهُ عِلْمُ السَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ
 
 ***84. It is He Who is the only God worshipped in the heaven and the
 only God to be worshipped on the earth and He is the All-Wise, the
@@ -779,12 +691,8 @@ His other Names branch off from these five Attributes.
 Surah al-Zukhruf - Verse 86
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلا يَمْلِكُ الَّذِينَ يَدْعُونَ مِنْ دُونِهِ الشَّفَاعَةَ إِلَّا
-مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَلا يَمْلِكُ الَّذِينَ يَدْعُونَ مِنْ دُونِهِ الشَّفَاعَةَ إِلَّا
+> مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ
 
 ***86. And those whom they invoke instead of Him have no power of
 intercession – except for those who bear witness to the truth knowingly
@@ -805,12 +713,8 @@ intercede on behalf of believers in Divine Unity.
 Surah al-Zukhruf - Verse 87
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّهُ فَأَنَّى
-يُؤْفَكُونَ
-  </p>
-</blockquote>
+> وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّهُ فَأَنَّى
+> يُؤْفَكُونَ
 
 ***87. And if you ask polytheists who created them, they will surely
 say: “Allah.” How then do they turn away [from God]?***
@@ -835,17 +739,9 @@ and destruction.
 Surah al-Zukhruf - Verses 88 - 89
 ---------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقِيلِهِ يَا رَبِّ إِنَّ هَؤُلاءِ قَوْمٌ لا يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَقِيلِهِ يَا رَبِّ إِنَّ هَؤُلاءِ قَوْمٌ لا يُؤْمِنُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَاصْفَحْ عَنْهُمْ وَقُلْ سَلامٌ فَسَوْفَ يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَاصْفَحْ عَنْهُمْ وَقُلْ سَلامٌ فَسَوْفَ يَعْلَمُونَ
 
 ***88. And Our Prophet says: “O Lord! Verily, these are a people who do
 not believe.***  
@@ -919,5 +815,4 @@ Amen O Lord of the world!*
 [^7]: Ruh al-Bayan Exegesis, vol. 8, p. 392.
 
 [^8]: 25:63
-
 

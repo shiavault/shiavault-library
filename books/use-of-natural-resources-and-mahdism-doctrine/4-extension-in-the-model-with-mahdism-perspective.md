@@ -159,4 +159,3 @@ individuals during crises and disasters (A Harvard University research
 indicates that there exists a significant relationship between these two
 variables)
 
-

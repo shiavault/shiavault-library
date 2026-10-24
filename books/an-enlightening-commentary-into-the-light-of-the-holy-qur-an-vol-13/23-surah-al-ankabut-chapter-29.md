@@ -10,11 +10,7 @@ Surah Al-‘Ankabut, Chapter 29
 The Feature of Surah
 --------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -39,5 +35,4 @@ said:
 
 *“Whoever recites Surah ‘Ankabut will have ten good rewards as the
 number of all believers and hypocrites.”*
-
 

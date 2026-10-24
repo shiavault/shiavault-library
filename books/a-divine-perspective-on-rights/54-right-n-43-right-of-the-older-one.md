@@ -1,22 +1,14 @@
 Right n. 43: Right of the Older One
 ===================================
 
-<blockquote dir="rtl">
-  <p>
-حق الكبير
-  </p>
-</blockquote>
+> حق الكبير
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ الكبيرِ فَإنَّ حَقَّهُ تَوقِيرُ سِنِّهِ وَإجْلالِ
-إسْلامِهِ إذَا كَانَ مِنْ أَهْلِ الْفَضلِ فِي الإسْلامِ بتَقْدِيمِهِ
-فِيهِ وتَرْكِ مُقَابَلَتِهِ عِنْدَ الْخِصَامِ ولا تَسْبقْهُ إلَى
-طَرِيقٍ، ولا تَؤُمَّهُ فِي طرِيقٍ ولا تَسْتَجْهِلْهُ. وَإنْ جَهِلَ
-عَلَيْكَ تحَمَّلْتَ وَأَكْرَمتَهُ بحَقِّ إسْلامِهِ مَعَ سِنِّهِ
-فَإنّمَا حَقُّ السِّنِّ بقَدْرِ الإسْلامِ. ولا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ الكبيرِ فَإنَّ حَقَّهُ تَوقِيرُ سِنِّهِ وَإجْلالِ
+> إسْلامِهِ إذَا كَانَ مِنْ أَهْلِ الْفَضلِ فِي الإسْلامِ بتَقْدِيمِهِ
+> فِيهِ وتَرْكِ مُقَابَلَتِهِ عِنْدَ الْخِصَامِ ولا تَسْبقْهُ إلَى
+> طَرِيقٍ، ولا تَؤُمَّهُ فِي طرِيقٍ ولا تَسْتَجْهِلْهُ. وَإنْ جَهِلَ
+> عَلَيْكَ تحَمَّلْتَ وَأَكْرَمتَهُ بحَقِّ إسْلامِهِ مَعَ سِنِّهِ
+> فَإنّمَا حَقُّ السِّنِّ بقَدْرِ الإسْلامِ. ولا قُوَّةَ إلا باللهِ.
 
 **And the right of him who is older than you is that you should respect
 him because of his age, and honor his submission to God since he has
@@ -29,23 +21,15 @@ measure as (the right of) Islam. And there is no power but in God.**
 
 Regarding old age we read in the Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ أَنَّىَ يَكُونُ لِي غُلاَمٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ
-  </p>
-</blockquote>
+> قَالَ رَبِّ أَنَّىَ يَكُونُ لِي غُلاَمٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ
 
 ***“He said: O my Lord! How shall I have a son seeing I am very old …”
 [The Holy Qur’an, Al-i-Imran 3:40]***
 
 In addition, in another verse the Qur’an refers to being the biggest:
 
-<blockquote dir="rtl">
-  <p>
-فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ
-يَرْجِعُونَ
-  </p>
-</blockquote>
+> فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ
+> يَرْجِعُونَ
 
 ***“So he broke them to pieces, (all) but the biggest of them, that they
 might turn (and address themselves) to it.” [The Holy Qur’an, al-Anbiyaa
@@ -53,11 +37,7 @@ might turn (and address themselves) to it.” [The Holy Qur’an, al-Anbiyaa
 
 In another verse, we see the Qur’an referring to leader:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْر
-  </p>
-</blockquote>
+> إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْر
 
 ***“Surely this must be your leader who has taught you magic” [The Holy
 Qur’an, Taha 20:71]***
@@ -77,12 +57,8 @@ gain more strength. On the other hand, old people deteriorate everyday,
 and get weaker everyday they approach the termination of their life. In
 this regard, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ
-قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً
-  </p>
-</blockquote>
+> اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ
+> قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً
 
 ***“It is God who created you in a state of (helpless) weakness, then
 gave (you) strength after weakness. Then after strength, gave (you)
@@ -90,11 +66,7 @@ weakness and a hoary head …” [The Holy Qur’an, al-Rum 30:54]***
 
 In another verse the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ
 
 ***“If We grant long life to any, We cause him to be reversed in nature.
 Will they not then understand?” [The Holy Qur’an, Ya-Sin 36:68]***
@@ -108,12 +80,8 @@ ugliness. When we get old we not only cannot learn new things, we will
 also forget what we learned earlier. In this regard, the Holy Qur’an
 says:
 
-<blockquote dir="rtl">
-  <p>
-وَاللّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى
-أَرْذَلِ الْعُمُرِ لِكَيْ لاَ يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا
-  </p>
-</blockquote>
+> وَاللّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى
+> أَرْذَلِ الْعُمُرِ لِكَيْ لاَ يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا
 
 ***“It is God who creates you and takes your souls at death. And of you
 there are some who are sent back to a feeble age, so that they know
@@ -174,23 +142,15 @@ respect. There are several related traditions in the Chapter
 “Al-Isharat” in *Usul al-Kafi*. Abdullah ibn Sin’an narrated that Imam
 Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ مِن إجْلالِ اللهِ عَزَّ وَجَلَّ إجْلالَ الشَّيخِ الكَبيرِ.
-  </p>
-</blockquote>
+> إنَّ مِن إجْلالِ اللهِ عَزَّ وَجَلَّ إجْلالَ الشَّيخِ الكَبيرِ.
 
 *“Part of reverence to God, the Exalted, the High, is to show reverence
 to an old man.”*[^2]
 
 Imam Sadiq quoted on the authority of the Noble Prophet of God :
 
-<blockquote dir="rtl">
-  <p>
-مَن عَرَفَ فَضْلَ كَبيرٍ لِسِنِّهِ فَوقَّرَهُ آمَنَهُ اللهُ مِن فَزَعِ
-يَومِ القِيامَةِ.
-  </p>
-</blockquote>
+> مَن عَرَفَ فَضْلَ كَبيرٍ لِسِنِّهِ فَوقَّرَهُ آمَنَهُ اللهُ مِن فَزَعِ
+> يَومِ القِيامَةِ.
 
 *“Anyone who recognizes the high status of old people and respects them,
 God will save him from experiencing the might and fear of the
@@ -198,12 +158,8 @@ Resurrection Day.”*[^3]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-ثَلاثةٌ لا يجْهَلُ حَقَّهُم إلاّ مُنافِقٌ معروفٌ بالنّفاقِ: ذو
-الشَّيبَةِ في الإسْلام وَحَامِلُ القُرآنِ والإمامُ العادِلُ.
-  </p>
-</blockquote>
+> ثَلاثةٌ لا يجْهَلُ حَقَّهُم إلاّ مُنافِقٌ معروفٌ بالنّفاقِ: ذو
+> الشَّيبَةِ في الإسْلام وَحَامِلُ القُرآنِ والإمامُ العادِلُ.
 
 *“There are three whose rights none are ignorant of except a hypocrite
 known for his hypocrisy: an elderly (white haired) person in Islam, the
@@ -211,13 +167,9 @@ bearer of the Qur’an, and the just Imam.”*[^4]
 
 Ibn Sin’an narrated that Imam Sadiq told him:
 
-<blockquote dir="rtl">
-  <p>
-مِن إجْلالِ اللهِ عَزَّ وَجَلَّ إجْلالُ المُؤمِنِ ذي الشَّيبَةِ، وَمَن
-أكْرَمَ مُؤمِناً فبِكَرامَةِ اللهِ بَدَأَ وَمَن اسْتَخَفَّ بمُؤمِنٍ ذي
-شَيبَةٍ أرْسَلَ اللهُ إلَيهِ مَن يَسْتَخِفُّ بِه قَبلَ مَوتِهِ.
-  </p>
-</blockquote>
+> مِن إجْلالِ اللهِ عَزَّ وَجَلَّ إجْلالُ المُؤمِنِ ذي الشَّيبَةِ، وَمَن
+> أكْرَمَ مُؤمِناً فبِكَرامَةِ اللهِ بَدَأَ وَمَن اسْتَخَفَّ بمُؤمِنٍ ذي
+> شَيبَةٍ أرْسَلَ اللهُ إلَيهِ مَن يَسْتَخِفُّ بِه قَبلَ مَوتِهِ.
 
 *“Part of reverence to God, the Exalted, the High, is showing reverence
 to an elderly (white-haired) believer. Whoever respects a believer has
@@ -227,11 +179,7 @@ before he dies.”*[^5]
 
 God the Almighty said:
 
-<blockquote dir="rtl">
-  <p>
-الشَّيْبُ نورِي وأنا أسْتَحْيِي أنْ أُعذِّبَ نوري بِناري.
-  </p>
-</blockquote>
+> الشَّيْبُ نورِي وأنا أسْتَحْيِي أنْ أُعذِّبَ نوري بِناري.
 
 *“White hair is My light, and I am ashamed to punish My light with My
 Fire.”*[^6]
@@ -239,11 +187,7 @@ Fire.”*[^6]
 Ibn Abi Shu’bah narrated that the Prophet of God admonished against
 cutting white hair and said:
 
-<blockquote dir="rtl">
-  <p>
-هوَ نورُ المُؤمِنِ.
-  </p>
-</blockquote>
+> هوَ نورُ المُؤمِنِ.
 
 *“It is the light of the believer.”*[^7]
 
@@ -261,14 +205,10 @@ face around.”
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ تَعالى يَنظُرُ في وَجْهِ الشَّيخِ صَباحاً وَمَساءً
-فَيقُولُ: عَبدي! كَبُرَ سِنُّكَ وَدَقَّ عَظْمُكَ وَرَقَّ جِلدُكَ
-وَقَرُبَ أَجَلُكَ وَحانَ قُدومُكَ عَلَيَّ فَاسْتَحْيِ مِنّي فأنا
-أسْتَحْيِي مِن شَيْبَتِكَ أنْ أُعَذِّبَكَ في النّارِ.
-  </p>
-</blockquote>
+> إنَّ اللهَ تَعالى يَنظُرُ في وَجْهِ الشَّيخِ صَباحاً وَمَساءً
+> فَيقُولُ: عَبدي! كَبُرَ سِنُّكَ وَدَقَّ عَظْمُكَ وَرَقَّ جِلدُكَ
+> وَقَرُبَ أَجَلُكَ وَحانَ قُدومُكَ عَلَيَّ فَاسْتَحْيِ مِنّي فأنا
+> أسْتَحْيِي مِن شَيْبَتِكَ أنْ أُعَذِّبَكَ في النّارِ.
 
 *“Every morning and night, God the Exalted looks upon the face of the
 old man and says: O My servant! You have become old, your bones have
@@ -279,24 +219,16 @@ you in the Fire.”*
 
 Then the Prophet cried. They asked him the reason for crying. He said:
 
-<blockquote dir="rtl">
-  <p>
-أبْكي مِمَّن يَستحْيِي اللهُ مِنهُ وهُوَ لا يَستَحْيِي مِن اللهِ.
-  </p>
-</blockquote>
+> أبْكي مِمَّن يَستحْيِي اللهُ مِنهُ وهُوَ لا يَستَحْيِي مِن اللهِ.
 
 *“I weep for one before whom God is ashamed, but he is not ashamed
 before God.”*[^9]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ اللهَ لَيُكرِمُ أبْناءَ السّبعِينِ وَيَسْتَحْيِي مِن أبْناءِ
-الثّمانِينَ فَيأمُرُ بِأنْ تُكْتَبَ لهُمُ الحَسَناتُ وَتمْحى عَنهُم
-السَّيّئاتُ.
-  </p>
-</blockquote>
+> إنَّ اللهَ لَيُكرِمُ أبْناءَ السّبعِينِ وَيَسْتَحْيِي مِن أبْناءِ
+> الثّمانِينَ فَيأمُرُ بِأنْ تُكْتَبَ لهُمُ الحَسَناتُ وَتمْحى عَنهُم
+> السَّيّئاتُ.
 
 *“God treats people in their seventies with honor, and is ashamed before
 eighty-year olds. Thus he orders that good deeds be recorded for them
@@ -307,12 +239,8 @@ Respecting the Old Will Save You from the Penalty
 
 God’s Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-مَن وَقَّرَ ذا شَيبَةٍ لِشَيْبَتِه أمَّنَهُ اللهُ تَعالى مِن فَزَعِ
-يَومِ القِيامَةِ.
-  </p>
-</blockquote>
+> مَن وَقَّرَ ذا شَيبَةٍ لِشَيْبَتِه أمَّنَهُ اللهُ تَعالى مِن فَزَعِ
+> يَومِ القِيامَةِ.
 
 *“He who respects the old for their age and white hair, God, the
 Exalted, will safeguard him from the terror of the Day of Judgment.”*
@@ -359,5 +287,4 @@ al-Bihar, v.1, on white hair.
 [^10]: Ibid.
 
 [^11]: Ibid.
-
 

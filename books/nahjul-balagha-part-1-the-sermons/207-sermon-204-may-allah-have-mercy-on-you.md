@@ -4,17 +4,9 @@ Sermon 204: May Allah have mercy on you!....
 *What Amir al-mu'minin said generally to his companions warning them
 about the dangers of the Day of Judgement*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-كان كثيراً ما ينادي به أصحابه
-  </p>
-</blockquote>
+> كان كثيراً ما ينادي به أصحابه
 
 May Allah have mercy on you! Provide yourselves for the journey because
 the call for departure has been announced. Regard your stay in the world
@@ -29,28 +21,20 @@ distressing dangers have crushed you into it. You should therefore cut
 away all the attachments of this world and assist yourselves with the
 provision of Allah's fear.
 
-<blockquote dir="rtl">
-  <p>
-تَجَهَّزُوا رَحِمَكُمُ اللهُ! فَقَدْ نُودِيَ فِيكُمْ بِالرَّحِيلِ،
-وَأَقِلُّوا الْعُرْجَةَ عَلَى الدُّنْيَا، وَانْقَلِبُوا بِصَالِحِ مَا
-بِحَضْرَتِكُمْ مِنَ الزَّادِ، فإنَّ أَمَامَكُمْ عَقَبَةً كَؤُوداً،
-وَمَنَازِلَ مَخُوفَةً مَهُولَةً، لاَبُدَّ مِنَ الْوُرُودِ عَلَيْهَا،
-وَالْوُقُوفِ عِنْدَهَا. وَاعْلَمُوا أَنَّ مَلاَحِظَ الْمَنِيَّةِ
-نَحْوَكُمْ دَانِيَةٌ، وَكَأَنَّكُمْ بِمَخَالِبِهَا وَقَدْ نَشِبَتْ
-فِيكُمْ، وَقَدْ دَهَمَتْكُمْ فِيهَا مُفْظِعَاتُ الاْمُورِ،
-وَمُعْضِلاَتُ الْـمَحْذُورِ. فَقَطِّعُوا عَلاَئِقَ الدُّنْيَا،
-وَاسْتَظْهِرُوا بِزَادِ التَّقْوَى.
-  </p>
-</blockquote>
+> تَجَهَّزُوا رَحِمَكُمُ اللهُ! فَقَدْ نُودِيَ فِيكُمْ بِالرَّحِيلِ،
+> وَأَقِلُّوا الْعُرْجَةَ عَلَى الدُّنْيَا، وَانْقَلِبُوا بِصَالِحِ مَا
+> بِحَضْرَتِكُمْ مِنَ الزَّادِ، فإنَّ أَمَامَكُمْ عَقَبَةً كَؤُوداً،
+> وَمَنَازِلَ مَخُوفَةً مَهُولَةً، لاَبُدَّ مِنَ الْوُرُودِ عَلَيْهَا،
+> وَالْوُقُوفِ عِنْدَهَا. وَاعْلَمُوا أَنَّ مَلاَحِظَ الْمَنِيَّةِ
+> نَحْوَكُمْ دَانِيَةٌ، وَكَأَنَّكُمْ بِمَخَالِبِهَا وَقَدْ نَشِبَتْ
+> فِيكُمْ، وَقَدْ دَهَمَتْكُمْ فِيهَا مُفْظِعَاتُ الاْمُورِ،
+> وَمُعْضِلاَتُ الْـمَحْذُورِ. فَقَطِّعُوا عَلاَئِقَ الدُّنْيَا،
+> وَاسْتَظْهِرُوا بِزَادِ التَّقْوَى.
 
 **As-Sayyid ar-Radi says**: A part of this saying has been quoted before
 through another narration.
 
-<blockquote dir="rtl">
-  <p>
-وقد مضى شيء من هذا الكلام فيما تقدم، بخلاف هذه الرواية.
-  </p>
-</blockquote>
+> وقد مضى شيء من هذا الكلام فيما تقدم، بخلاف هذه الرواية.
 
 Alternative Sources for Sermon 204
 ----------------------------------
@@ -62,5 +46,4 @@ Alternative Sources for Sermon 204
 (3) al-Mufid, *al-'Irshad,* 110;
 
 (4) al-Tabarsi, *Mishkat,* 275.
-
 

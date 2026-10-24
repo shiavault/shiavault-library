@@ -126,4 +126,3 @@ someone, Allah has wished for you to have it. So not only should you
 thank the person who has given it to you (Jazakallah) but also thank
 Allah (Alhamdulillah).
 
-

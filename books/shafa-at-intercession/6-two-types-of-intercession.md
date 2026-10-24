@@ -18,11 +18,7 @@ Deeds Eligible For Intercession
 
 As Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-اَلصِّيَامُ وَ الْقُرْآنُ يَشْفَعَانِ لِلْعَبْدِ يَوْمَ الْقِيَامَةِ.
-  </p>
-</blockquote>
+> اَلصِّيَامُ وَ الْقُرْآنُ يَشْفَعَانِ لِلْعَبْدِ يَوْمَ الْقِيَامَةِ.
 
 *“Fasts and recitation of Qur’an will intercede us on the day of
 judgement for those people.”*[^1]
@@ -31,11 +27,7 @@ judgement for those people.”*[^1]
 
 Said by Maula ‘Ali (a.s.) in Nahjul Balagah:
 
-<blockquote dir="rtl">
-  <p>
-فَاجْعَلُوا طَاعَةَ اللهِ شَفِيْعًا لِدَرْكِ طَلِبَتِكُمْ.
-  </p>
-</blockquote>
+> فَاجْعَلُوا طَاعَةَ اللهِ شَفِيْعًا لِدَرْكِ طَلِبَتِكُمْ.
 
 *‘“For your needs make His obedience as your interceder.*
 
@@ -43,11 +35,7 @@ Said by Maula ‘Ali (a.s.) in Nahjul Balagah:
 
 Maula ‘Ali (a.s.) said in Nahjul Balagah:
 
-<blockquote dir="rtl">
-  <p>
-لاَ شَافِعَ اَنْجَحُ مِنَ الْاِعْتِذَارِ.
-  </p>
-</blockquote>
+> لاَ شَافِعَ اَنْجَحُ مِنَ الْاِعْتِذَارِ.
 
 *“No interceder more worthy than those who plead.”*
 
@@ -60,12 +48,8 @@ Holy Prophet (S) said one out of six deeds will be trustworthy.[^2]
 Imam ‘Ali Ibn Husain (Imam Sajjad) (a.s.) in his dua no. 31 of Sahife
 Sajjadia:
 
-<blockquote dir="rtl">
-  <p>
-وَ صُلِّ عَلٰي مُحَمَّدٍ وَّ آلِه صَلٰوةً تَشْفَعُ لَنَا يَوْمَ
-الْقِيَامَةِ وَ يَوْمَ الْفَاقَةِ اِلَيْكَ.
-  </p>
-</blockquote>
+> وَ صُلِّ عَلٰي مُحَمَّدٍ وَّ آلِه صَلٰوةً تَشْفَعُ لَنَا يَوْمَ
+> الْقِيَامَةِ وَ يَوْمَ الْفَاقَةِ اِلَيْكَ.
 
 *“O Lord! Send blessing on Mohammad (S) and his progeny (a.s.) such
 blessings which will do our intercession on the day of judgement.”*
@@ -74,12 +58,8 @@ blessings which will do our intercession on the day of judgement.”*
 
 Holy Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-تَعَلَّمُوْا الْقُرْآنَ فَاِنَّه شَافِعٌ لِاَصْحَا بِه يَوْمَ
-الْقِيَامَةِ.
-  </p>
-</blockquote>
+> تَعَلَّمُوْا الْقُرْآنَ فَاِنَّه شَافِعٌ لِاَصْحَا بِه يَوْمَ
+> الْقِيَامَةِ.
 
 *“Learn the Holy Qur’an as it will act as intercessor on the day of
 judgement for those who are intimate with Qur’an.”*
@@ -87,5 +67,4 @@ judgement for those who are intimate with Qur’an.”*
 [^1]: Musnad Ibn Ahmad, vol. 2, p. 274.
 
 [^2]: Manaqib Ibn Shahar Aashub, vol. 2, p. 14
-
 

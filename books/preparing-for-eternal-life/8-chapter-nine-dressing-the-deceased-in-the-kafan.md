@@ -91,7 +91,6 @@ f) Do not use silken cloth for the Kafan.
 g) Do not wind the ends of the turban (for a man) so that the ends come
 around the chin and onto the breast.
 
-
 **Chapter Ten : The Funeral and Funeral Prayers (Namaz of Janaza )**
 
 When Sighting a Coffin or Deceased Person for the First Time "Innaa
@@ -181,5 +180,4 @@ Muhammad [S.W.S] is His Prophet I bear witness that Ali [A.S.] is friend
 of Allah.)
 
 [Sayyid, Hadi Husayn (1988), pg. 148]
-
 

@@ -292,4 +292,3 @@ with government officials
 with government officials of the Islamic Republic and ordinary citizens
 on the occasion of the Holy Prophet’s (S) Be’that
 
-

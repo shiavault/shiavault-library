@@ -64,7 +64,6 @@ It is upon you that you should have the foundation of your deeds on
 your logical East and West.
 And all this is said on the basis of the earth being spherical.
 
-
 [^1]: Surah Aaraf 7:137
 
 [^2]: Surah Saffaat 37:7
@@ -72,5 +71,4 @@ And all this is said on the basis of the earth being spherical.
 [^3]: Surah Maarij 70:40-41
 
 [^4]: Wasailush Shia, Vol. I, p. 237
-
 

@@ -391,4 +391,3 @@ caused so much damage in the history of Islam. Another case is the
 misinterpretation of the tradition: "If you know (Allah), do whatever
 you like."
 
-

@@ -247,4 +247,3 @@ When she met Muhammad, the future Prophet, she recognized in him the
 Ultimate in Sublimity, and she put her destiny in his blessed hands.
 Those hands elevated her destiny, and made it Sublime.
 
-

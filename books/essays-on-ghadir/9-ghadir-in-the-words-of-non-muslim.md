@@ -65,7 +65,5 @@ We end our article by quoting the verse of the Holy Quran "And say: The
 truth has come and the falsehood has vanished; surely falsehood is a
 vanishing (thing)." (17:81)
 
-
 Zulfiqar Ali (Pakistan)
-
 

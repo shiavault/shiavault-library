@@ -433,4 +433,3 @@ borders in the year 40 A. H
 [^16]: Ahmad Shahab al-Din al-\`Asqalani, al-Isaba fi Tamyiz al-Sahaba,
 vol. 2, p. 12. Ibn Kathir, Ta'rikh, vol. 8, pp. 8-14.
 
-

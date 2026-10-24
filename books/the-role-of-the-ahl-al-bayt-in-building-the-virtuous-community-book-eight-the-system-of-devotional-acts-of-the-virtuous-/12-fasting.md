@@ -4,12 +4,8 @@ Fasting
 One of the most significant devotional acts, fasting (*sawm*) has been
 ordained in the Holy Qur'an. On one occasion, it reads:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
-كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا
+> كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ
 
 ***O you who believe, fasting is prescribed for you, as it was
 prescribed for those before you. (2:183)***
@@ -19,11 +15,7 @@ historical root that began with the Divine missions.
 
 Another holy verse states:
 
-<blockquote dir="rtl">
-  <p>
-وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ
-  </p>
-</blockquote>
+> وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ
 
 ***Seek assistance through patience and prayer. (2:45)***
 
@@ -93,12 +85,8 @@ fasting in the hot weather is a sort of *jihad* or even the best sort of
 to fast because it would then hinder and restrain their sexual desires.
 In this connection, the Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنِ إسْتَطَاعَ مِنْكُمُ الْبَاهَ فَلْيَتَزَوَّجْ، وَمَنْ لَمْ
-يَسْتَطِعْ فَلْيَصُمْ; فَإِنَّ الصَّوْمَ وِجَاؤُهُ.
-  </p>
-</blockquote>
+> مَنِ إسْتَطَاعَ مِنْكُمُ الْبَاهَ فَلْيَتَزَوَّجْ، وَمَنْ لَمْ
+> يَسْتَطِعْ فَلْيَصُمْ; فَإِنَّ الصَّوْمَ وِجَاؤُهُ.
 
 *Whoever can afford marriage expenses should marry, but whoever cannot,
 should observe fasting because fasting is a restraint for him.*
@@ -106,23 +94,15 @@ should observe fasting because fasting is a restraint for him.*
 He (S) is also reported to have said to ‘Uthman ibn Maz’un who suggested
 castration:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَفْعَلْ فَإِنَّ إخْتِصَاءَ أُمَّتِي الصِّيَامُ.
-  </p>
-</blockquote>
+> لاَ تَفْعَلْ فَإِنَّ إخْتِصَاءَ أُمَّتِي الصِّيَامُ.
 
 *Do not do it. The castration of my people is fasting.*
 
 Imam al-Sadiq (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لُقْمَانُ لإِبْنِهِ: صُمْ صَوْماً يَقْطَعُ شَهْوَتَكَ، وَلاَ
-تَصُمْ صِيَاماً يَمْنَعُكَ مِنَ الصَّلاَةِ، فَإِنَّ الصَّلاَةَ أَحَبُّ
-إِلَى اللهِ تَعَالَى مِنَ الصَّوْمِ.
-  </p>
-</blockquote>
+> قَالَ لُقْمَانُ لإِبْنِهِ: صُمْ صَوْماً يَقْطَعُ شَهْوَتَكَ، وَلاَ
+> تَصُمْ صِيَاماً يَمْنَعُكَ مِنَ الصَّلاَةِ، فَإِنَّ الصَّلاَةَ أَحَبُّ
+> إِلَى اللهِ تَعَالَى مِنَ الصَّوْمِ.
 
 *Luqman, the wise, said to his son: Observe fasting such that it cuts
 off your sexual desire, but do not observe fasting such that it prevents
@@ -175,14 +155,10 @@ regard to recommended fasting:
 al-Kulayni has reported through a famous chain of authority that Imam
 al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَتَمَ صَوْمَهُ قَالَ اللهُ عَزَّ وَجَلَّ لِمَلاَئِكَتِهِ:
-عَبْدِي إسْتَجَارَ مِنْ عَذَابِي فَأَجِيرُوهُ. وَوَكَّلَ اللهُ عَزَّ
-وَجَلَّ مَلاَئِكَتَهُ بِالدُّعَاءِ لِلصَّائِمِينَ، وَلَمْ يَأْمُرْهُمْ
-بِالدُّعَاءِ لأَِحَدٍ إِلاَّ إسْتَجَابَ لَهُمْ فِيهِ.
-  </p>
-</blockquote>
+> مَنْ كَتَمَ صَوْمَهُ قَالَ اللهُ عَزَّ وَجَلَّ لِمَلاَئِكَتِهِ:
+> عَبْدِي إسْتَجَارَ مِنْ عَذَابِي فَأَجِيرُوهُ. وَوَكَّلَ اللهُ عَزَّ
+> وَجَلَّ مَلاَئِكَتَهُ بِالدُّعَاءِ لِلصَّائِمِينَ، وَلَمْ يَأْمُرْهُمْ
+> بِالدُّعَاءِ لأَِحَدٍ إِلاَّ إسْتَجَابَ لَهُمْ فِيهِ.
 
 *About one who conceals his fasting, Almighty Allah will order His
 angels, saying, “My servant has sought My protection against My
@@ -224,5 +200,4 @@ in Jami\` Ahadiih al-Shi\`ah 9:414, H. 2.
 [^7]: - Sayyid al-Borujerdi, Jami\` Ahadith al-Shi\`ah 9:488, S. 24.
 
 [^8]: - Sayyid al-Borujerdi, Jami\` Ahadith al-Shi\`ah 9:488, S. 23.
-
 

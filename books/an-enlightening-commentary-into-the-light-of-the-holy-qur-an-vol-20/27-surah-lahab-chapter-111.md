@@ -8,11 +8,7 @@ Surah Lahab, Chapter 111
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -90,43 +86,19 @@ later, Allah willing.
 Surah Lahab, Verses 1-5
 -----------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
-  </p>
-</blockquote>
+> تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
 
-<blockquote dir="rtl">
-  <p>
-مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ
-  </p>
-</blockquote>
+> مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ
 
-<blockquote dir="rtl">
-  <p>
-سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ
-  </p>
-</blockquote>
+> سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ
 
-<blockquote dir="rtl">
-  <p>
-وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ
-  </p>
-</blockquote>
+> وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ
 
-<blockquote dir="rtl">
-  <p>
-فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ
-  </p>
-</blockquote>
+> فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ
 
 ***1. “May the hands of Abu Lahab perish, may he (himself) perish
 ".***  
@@ -353,5 +325,4 @@ relationship will avail us but by Your Grace.*
 [^2]: Surah Shu'ara, No. 16, verse 114
 
 [^3]: Bihar-al-Anwar, vol. 19, p. 227.
-
 

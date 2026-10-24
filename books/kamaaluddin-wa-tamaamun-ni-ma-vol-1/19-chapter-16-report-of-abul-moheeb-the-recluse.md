@@ -54,4 +54,3 @@ and ‘the brave’. He shall conquer wherever he turns and among the
 companions of your Prophet he will be more famous than the sun of the
 sky.”
 
-

@@ -33,10 +33,8 @@ Allah pleases that he appears, it will continue on.
 
 4. The shinning period of his advent.
 
-<p dir="rtl">
 اربعون حديثاً عن الامام مهدّي(عجل لله تعالی فرجه)
 -------------------------------------------------
-</p>
 
 1- اَقدَارُ اللهِ لاَ تُغَالَبُ ،وَاِرَادَتُهُ لاَ تُرَدُّ،
 وَتَوَفِيقُهُ لاَ يُسبَقُ. (البحار ج53 ص191)
@@ -468,5 +466,4 @@ permission of Allah. (KAMAL UDDIN. VOL 2. P 484)
 40. Nothing like service rubs the nose of satan upon dust so perform the
 service &. rub the nose of satan upon dust. (BIHAR UL ANWAR VOL 5.3, P
 182)
-
 

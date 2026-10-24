@@ -151,4 +151,3 @@ not know, one should not be ashamed of having to learn about it. And
 patience is to faith what the head is to the body; one who does not have
 patience also lacks faith.
 
-

@@ -688,4 +688,3 @@ first tradition.
 
 [^13]: Al-Asfar, Vol. 6, p. 368.
 
-

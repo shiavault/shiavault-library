@@ -212,4 +212,3 @@ incumbent on him to respond to their call and thus provide the right
 answer to history. Had he chosen to ignore the plea of the Kufans, we
 would have stood today criticising him for “not doing so”.
 
-

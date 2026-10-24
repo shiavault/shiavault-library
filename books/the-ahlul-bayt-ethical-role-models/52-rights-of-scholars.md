@@ -184,4 +184,3 @@ Sahifat ur-Ridha and Uyounu Akhbar ir-Ridha).
 [^15]: Quoted from Bihar ul-Anwar; vol. 1 page 62 (as quoted from
 Rawdhat ul-Waizhin).
 
-

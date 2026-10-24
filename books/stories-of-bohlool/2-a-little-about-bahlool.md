@@ -81,4 +81,3 @@ power.”
 Haroun planned to kill Hisham. Hisham learned of this and fled from
 Kufa, and hid in a friend's house, but after a short while he died.
 
-

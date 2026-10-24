@@ -19,18 +19,14 @@ forbearance in the face of those who belie and seek to deny the Imam.
 Imam Ja’far b. Muhammad as-Sadiq (as) has quoted the Messenger of Allah
 as saying:
 
-<blockquote dir="rtl">
-  <p>
-سَيَأْتِي عَلـى النَّاسِ زَمَانٌ لاَ يُنَالُ الْمُلْكُ فِيهِ إِلاَّ
-بِالْقَتْلِ وَ التَّجَبُّرِ وَ لاَ الْغِنـى إِلاَّ بِالْغَصْبِ وَ
-الْبُخْلِ وَ لاَ الْمَحَبَّةُ إِلاَّ بِاسْتِخْرَاجِ الدِّينِ وَ
-اتِّبَاعِ الْهَوى، فَمَنْ أَدْرَكَ ذٌلِكَ الزَّمَانَ فَصَبَرَ عَلـى
-الْفَقْرِ وَ هُوَ يَقْدِرُ عَلـى الْغِنـى وَ صَبَرَ عَلـى الْبِغْضَةِ
-وَ هُوَ يَقْدِرُ عَلـى الْمَحَبَّةِ وَ صَبَرَ عَلـى الْذُّلِّ وَ هُوَ
-يَقْدِرُ عَلـى الْعِزِّ آتَاهُ اللٌّهُ ثَوَابَ خَمْسِينَ صِدِّيقاً
-مِمَنْ صَدَّقَ بِـي
-  </p>
-</blockquote>
+> سَيَأْتِي عَلـى النَّاسِ زَمَانٌ لاَ يُنَالُ الْمُلْكُ فِيهِ إِلاَّ
+> بِالْقَتْلِ وَ التَّجَبُّرِ وَ لاَ الْغِنـى إِلاَّ بِالْغَصْبِ وَ
+> الْبُخْلِ وَ لاَ الْمَحَبَّةُ إِلاَّ بِاسْتِخْرَاجِ الدِّينِ وَ
+> اتِّبَاعِ الْهَوى، فَمَنْ أَدْرَكَ ذٌلِكَ الزَّمَانَ فَصَبَرَ عَلـى
+> الْفَقْرِ وَ هُوَ يَقْدِرُ عَلـى الْغِنـى وَ صَبَرَ عَلـى الْبِغْضَةِ
+> وَ هُوَ يَقْدِرُ عَلـى الْمَحَبَّةِ وَ صَبَرَ عَلـى الْذُّلِّ وَ هُوَ
+> يَقْدِرُ عَلـى الْعِزِّ آتَاهُ اللٌّهُ ثَوَابَ خَمْسِينَ صِدِّيقاً
+> مِمَنْ صَدَّقَ بِـي
 
 “A time will come upon the people when they will not acquire power
 except by means of murder and tyranny; they will not gain riches except
@@ -46,12 +42,8 @@ fifty entirely truthful individuals who believed in me.”[^1]
  In another tradition, Imam Ja’far b. Muhammad as-Sadiq (as) has stated
 that:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ تَعْلَمُ أَنَّ مَنِ انْتَظَرَ أَمْرَنَا وَ صَبَرَ عَلـى مَا يَرى
-مِنَ الأَذى وَ الْخَوْفِ هُوَ غَداً فِي زُمْرَتِـنَا؟
-  </p>
-</blockquote>
+> أَلاَ تَعْلَمُ أَنَّ مَنِ انْتَظَرَ أَمْرَنَا وَ صَبَرَ عَلـى مَا يَرى
+> مِنَ الأَذى وَ الْخَوْفِ هُوَ غَداً فِي زُمْرَتِـنَا؟
 
 “Do you not know that a person who waits for our command to come and is
 patient upon that which he sees from the difficulties and the fear will,
@@ -59,11 +51,7 @@ tomorrow, be (with us) in our company?”[^2]
 
 As well, Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِالصَّبْرِ فِي جَمِيعِ أُمُورِكَ
-  </p>
-</blockquote>
+> عَلَيْكَ بِالصَّبْرِ فِي جَمِيعِ أُمُورِكَ
 
 “I advise you to observe patience in all of your affairs.”[^3]
 
@@ -81,5 +69,4 @@ course, this must be done through the legitimate means.
 [^2]: al-Kafi, vol. 8, pg. 37, no. 7
 
 [^3]: al-Kafi, vol. 2, pg. 88, sec. ‘Patience,’ no. 3
-
 

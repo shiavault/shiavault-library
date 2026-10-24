@@ -77,4 +77,3 @@ It is highly recommended that when entering ***any Masjid*** for the
 first time then 2 rakaat Salaat be offered with the **"Niyyat of
 Tahiyyat** **al-Masjid"**
 
-

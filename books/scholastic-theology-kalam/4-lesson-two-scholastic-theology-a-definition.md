@@ -183,4 +183,3 @@ founder of the Sunni School of Thought, the Hanifi’ite* ]. He undertook
 credible and good research in jurisprudence and*hadith* . His book,
 Da’a’imul Islam (the Pillars of Islam) is in circulation.
 
-

@@ -87,4 +87,3 @@ giving him the strength to remove his state of need."*[^3]
 
 [^3]: Bihar al-Anwar, vol. 18, p. 115.
 
-

@@ -77,4 +77,3 @@ anyone of His guidance without any reason.
 
 [^1]: Surah Ankabut 29:69
 
-

@@ -134,10 +134,9 @@ life and after his death.” Then he also adds the names of some others
 who have a rank with Allah and confesses to the admissibility of
 resorting to them. (Rauh-ul-Ma‘a-li-)
 
-[^1] Sura Al-Baqarah, No. 2, verse 255
+[^1]: Sura Al-Baqarah, No. 2, verse 255
 
-[^2] Kita-b-ut-Taqas)s)ul 'ila- Haghighat-it-Tawassul.
-
+[^2]: Kita-b-ut-Taqas)s)ul 'ila- Haghighat-it-Tawassul.
 
 **Section 3 : Every people on earth had a Warner Commentary : Verse
 15**
@@ -204,5 +203,4 @@ servants of theirs.
 By this kind of concept and theology, whatever the true believers see
 in the world they know them from His source, and no means may cause them
 to be neglectful from the cause of causes.
-
 

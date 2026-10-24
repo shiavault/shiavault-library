@@ -16,4 +16,3 @@ brothers of Yusuf (a.s.) and that after this repentance, he came to be
 known as Ja’far Tawwab (Ja’far the repentant). This is also supported by
 the tradition of Riyazush Shahadat.
 
-

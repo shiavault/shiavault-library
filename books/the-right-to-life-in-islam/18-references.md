@@ -42,4 +42,3 @@ Farhange Islami, 1995, Tehran.
 16. The Human Rights in the 3 legal systems, Abbass Khajeh Piri,
 Daneshgah Azad Islami Pub., 2002, Tehran.
 
-

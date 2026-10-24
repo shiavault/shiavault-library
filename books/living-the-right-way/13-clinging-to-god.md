@@ -35,4 +35,3 @@ against all afflictions for his piety;* ***‘Surely those who guard
 
 [^1]: The Qur’an 44:51.
 
-

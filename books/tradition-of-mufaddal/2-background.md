@@ -90,4 +90,3 @@ description of ingenuity as would be an eye-opener for those who would
 welcome instruction, a solace for the believers and confounding for the
 heretics.
 
-

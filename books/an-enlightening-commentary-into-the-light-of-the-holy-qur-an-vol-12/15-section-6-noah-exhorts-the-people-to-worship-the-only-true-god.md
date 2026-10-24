@@ -4,29 +4,13 @@ Section 6: Noah Exhorts the People to Worship the Only True God
 Surah Ash-Shu‘ara - Verses 105-108
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلاَ تَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
-  </p>
-</blockquote>
+> إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
 ***105. “The people of Noah rejected the messengers,”***  
 ***106. “When their brother Noah said to them: 'Will you not fear
@@ -111,24 +95,12 @@ faith and being in awe of Allah.
 Surah Ash-Shu‘ara - Verses 109-111
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
-رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
+> رَبِّ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الأَرْذَلُونَ
-  </p>
-</blockquote>
+> قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الأَرْذَلُونَ
 
 ***109. “And do not ask you any recompense for it, my recompense is only
 from the Lord of the worlds.”***  
@@ -197,17 +169,9 @@ and authenticity of the call of that prophet.
 Surah Ash-Shu‘ara - Verses 112-113
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ
-  </p>
-</blockquote>
+> قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ حِسَابُهُمْ إِلاَّ عَلَى رَبِّي لَوْ تَشْعُرُونَ
-  </p>
-</blockquote>
+> إِنْ حِسَابُهُمْ إِلاَّ عَلَى رَبِّي لَوْ تَشْعُرُونَ
 
 ***112. “He said: 'No knowledge have I of what they were doing;”***  
 ***113. “Their reckoning is only on my Lord, if you could (but)
@@ -263,17 +227,9 @@ you say, its account is with Allah.
 Surah Ash-Shu‘ara - Verses 114-115
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ أَنَا إِلاَّ نَذِيرٌ مُّبِينٌ
-  </p>
-</blockquote>
+> إِنْ أَنَا إِلاَّ نَذِيرٌ مُّبِينٌ
 
 ***114. “And I am not going to drive away the believers;”***  
 ***115. “I am naught but a plain warner.”***
@@ -345,25 +301,13 @@ criterion of value is faith, not the social and economical rank.
 Surah Ash-Shu‘ara - Verses 116-118
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَئِن لَّمْ تَنتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ
-الْمَرْجُومِينَ
-  </p>
-</blockquote>
+> قَالُوا لَئِن لَّمْ تَنتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ
+> الْمَرْجُومِينَ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ
-  </p>
-</blockquote>
+> قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ
 
-<blockquote dir="rtl">
-  <p>
-فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِي مِنَ
-الْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِي مِنَ
+> الْمُؤْمِنِينَ
 
 ***116. “They said: ‘If you desist not, O Noah! you shall surely be one
 of the stoned (to death)’.”***  
@@ -447,29 +391,13 @@ to be solved.
 Surah Ash-Shu‘ara - Verses 119-122
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَنجَيْنَاهُ وَمَن مَّعَهُ فِي الْفُلْكِ الْمَشْحُونِ
-  </p>
-</blockquote>
+> فَأَنجَيْنَاهُ وَمَن مَّعَهُ فِي الْفُلْكِ الْمَشْحُونِ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ
-  </p>
-</blockquote>
+> ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***119. “So We delivered him, and those with him, in the laden
 Ark.”***  
@@ -553,5 +481,4 @@ Mercy, not for the existence of any weakness.
 [^5]: The current Surah, verse 113
 
 [^6]: Nur-uth-Thaqalayn, the Commentary
-
 

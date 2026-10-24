@@ -36,4 +36,3 @@ one of you to go back, and I urge you to do so...." All companions
 screamed in response, "By Allah, never, never! We will either live with
 you or die together with you."
 
-

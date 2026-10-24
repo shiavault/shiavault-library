@@ -6,4 +6,3 @@ some of those who had the honour of meeting him
 
 Comprised of two sections
 
-

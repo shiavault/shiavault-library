@@ -26,15 +26,10 @@ virtue.
 an abode of ease.
 
 > 5ـ مَنِ اقْتَصَرَ عَلَى الكَفافِ تَعَجَّلَ الرّاحَةَ وتَـبَوَّءَ
-<blockquote dir="rtl">
-  <p>
-خَفْضَ الدَّعَةِ.
-  </p>
-</blockquote>
+> خَفْضَ الدَّعَةِ.
 
 6. No one can dispense with the need to seek his sustenance and that
 which he requires of provisions.
 
 > 6ـ لا غِنى بِأحَد مِنَ الاِرْتيادِ، وقَدْرِ بَلاغِهِ مِنَ الزّادِ.
-
 

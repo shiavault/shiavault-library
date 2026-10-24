@@ -93,6 +93,6 @@ whom he loves."
 [^16]. Adapted from Nicholson's translation of Rumi, Mathnavi, bk. 1
 [^17]. Ibrahim, 14:37
 [^18]. ash-Shura, 42:23
-[^19] Safinatu 'l-bihar, vol.l, p.102 (under Hubb).
+[^19]: Safinatu 'l-bihar, vol.l, p.102 (under Hubb).
 [^20]. ibid, p.662 (under Sama)
 

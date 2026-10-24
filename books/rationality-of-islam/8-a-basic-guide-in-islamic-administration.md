@@ -710,4 +710,3 @@ or psalms, portray a devout up looking towards the Source of All Good,
 and an unbounded faith in humanity. "The Spirit of Islam" by Syed Ameer
 ‘Ali, page 363.
 
-

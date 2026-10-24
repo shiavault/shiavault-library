@@ -591,4 +591,3 @@ owned by men due to slavery are legally considered their wives. Owing to
 the wisdom of the Islamic legislation, slavery was abolished, yet
 gradually.
 
-

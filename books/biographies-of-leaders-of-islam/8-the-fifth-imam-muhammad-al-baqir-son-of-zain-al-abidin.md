@@ -428,4 +428,3 @@ always wore. He was laid to rest underneath the same dome in JANNAT
 AL-BAQI' where IMAM HASAN (AS) and IMAM ZAIN AL-ABIDIN (AS) already
 lay.
 
-

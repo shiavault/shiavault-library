@@ -21,4 +21,3 @@ a night and prepare yourself for the long bus journey to Iraq.
 
 **If you are going for Ziyarat to Iraq then please continue reading**
 
-

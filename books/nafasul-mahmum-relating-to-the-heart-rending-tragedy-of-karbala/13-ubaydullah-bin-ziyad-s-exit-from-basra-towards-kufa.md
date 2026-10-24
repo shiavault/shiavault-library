@@ -138,4 +138,3 @@ days until Muslim took him to the presence of Muslim bin Aqeel (a.s.).
 [^1]: Islamic Silver currency weighting approximately 3.12 grams. And
 equivalent to approximately 2 dollars.
 
-

@@ -16,21 +16,11 @@ he is someone that Allah has mentioned in His Book.'
 
 Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الأَسْفَلِ مِنَ النَّارِ وَلَن
-تَجِدَ لَهُمْ نَصِيرًا
-  </p>
-</blockquote>
-
-
+> إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الأَسْفَلِ مِنَ النَّارِ وَلَن
+> تَجِدَ لَهُمْ نَصِيرًا
 
 ***The hypocrites are in the lowest level of the Fire.*** (4:145)
 
-
 Occupy yourself with your business about which you will be
 questioned.
-
-
 

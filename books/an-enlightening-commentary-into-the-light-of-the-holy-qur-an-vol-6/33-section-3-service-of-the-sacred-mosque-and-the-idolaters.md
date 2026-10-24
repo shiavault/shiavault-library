@@ -4,13 +4,9 @@ Section 3: Service of the Sacred Mosque, and the Idolaters
 Surah At-Tawbah – Verse 17
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا مَسَاجِدَ اللّهِ شَاهِدِينَ
-عَلَى أَنْفُسِهِم بِالْكُفْرِ اُوْلَئِكَ حَبِطَتْ أَعْمَالُهُمْ وَفِي
-النَّارِ هُمْ خَالِدُونَ
-  </p>
-</blockquote>
+> مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا مَسَاجِدَ اللّهِ شَاهِدِينَ
+> عَلَى أَنْفُسِهِم بِالْكُفْرِ اُوْلَئِكَ حَبِطَتْ أَعْمَالُهُمْ وَفِي
+> النَّارِ هُمْ خَالِدُونَ
 
 **17*****. “It is not for the polytheists to maintain the mosques of
 Allah, while they bear witness to unbelief against themselves. These it
@@ -58,13 +54,9 @@ essential function. The verse says:
 Surah At-Tawbah – Verse 18
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَعْمُرُ مَسَاجِدَ اللّهِ مَنْ ءَامَنَ بِاللّهِ وَالْيَوْمِ
-الاَخِرِ وَأَقَامَ الصَّلاَةَ وءَاتَى الزَّكَاةَ وَلَمْ يَخْشَ إِلاَّ
-اللّهَ فَعَسَى اُوْلَئِكَ أَن يَكُونُوا مِنَ الْمُهْتَدِينَ
-  </p>
-</blockquote>
+> إِنَّمَا يَعْمُرُ مَسَاجِدَ اللّهِ مَنْ ءَامَنَ بِاللّهِ وَالْيَوْمِ
+> الاَخِرِ وَأَقَامَ الصَّلاَةَ وءَاتَى الزَّكَاةَ وَلَمْ يَخْشَ إِلاَّ
+> اللّهَ فَعَسَى اُوْلَئِكَ أَن يَكُونُوا مِنَ الْمُهْتَدِينَ
 
 **18*****. “Only he shall maintain the mosques of Allah who believes in
 Allah and the Last Day, and performs the prayer, and pays the alms
@@ -121,14 +113,10 @@ fears none but Allah. They, hopefully will be among the guided.”*** [^3]
 Surah At-Tawbah – Verse 19
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَجَعَلْتُمْ سِقَايَةَ الْحَآجِّ وَعِمَارَةَ الْمَسْجِدِ الْحَرَامِ
-كَمَنْ ءَامَنَ بِاللّهِ وَالْيَوْمِ الاَخِرِ وَجَاهَدَ فِي سَبِيلِ
-اللّهِ لاَيَسْتَوُونَ عِندَ اللّهِ وَاللّهُ لايَهْدِي الْقَوْمَ
-الظَّالِمِينَ
-  </p>
-</blockquote>
+> أَجَعَلْتُمْ سِقَايَةَ الْحَآجِّ وَعِمَارَةَ الْمَسْجِدِ الْحَرَامِ
+> كَمَنْ ءَامَنَ بِاللّهِ وَالْيَوْمِ الاَخِرِ وَجَاهَدَ فِي سَبِيلِ
+> اللّهِ لاَيَسْتَوُونَ عِندَ اللّهِ وَاللّهُ لايَهْدِي الْقَوْمَ
+> الظَّالِمِينَ
 
 **19*****. “Do you make the giving of water to the pilgrims and the
 maintenance of the Sacred Mosque equal to someone who believes in Allah
@@ -171,13 +159,9 @@ people.”***
 Surah At-Tawbah – Verse 20
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ ءَامَنُوا وَهَاجَرُوا وَجَاهَدَوا فِي سَبِيلِ اللّهِ
-بِاَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ اللّهِ
-وَاُوْلَئِكَ هُمُ الْفَآئِزُونَ
-  </p>
-</blockquote>
+> الَّذِينَ ءَامَنُوا وَهَاجَرُوا وَجَاهَدَوا فِي سَبِيلِ اللّهِ
+> بِاَمْوَالِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ اللّهِ
+> وَاُوْلَئِكَ هُمُ الْفَآئِزُونَ
 
 **20*****. “Those who believed and emigrated, and strove in Allah’s way
 with their properties and their selves, have a greater rank with Allah,
@@ -214,12 +198,8 @@ strokes, would not be any one save Ali-ibn-i-’Abi Tālib (as).
 Surah At-Tawbah – Verse 21
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُبَشِّرُهُمْ رَبُّهُمْ بِرَحْمَةٍ مِنْهُ وَرِضْوَانٍ وَجَنَّاتٍ
-لَهُمْ فِيهَا نَعِيمٌ مُقِيمٌ
-  </p>
-</blockquote>
+> يُبَشِّرُهُمْ رَبُّهُمْ بِرَحْمَةٍ مِنْهُ وَرِضْوَانٍ وَجَنَّاتٍ
+> لَهُمْ فِيهَا نَعِيمٌ مُقِيمٌ
 
 **21*****. “Their Lord gives them good news of Mercy from Himself and
 (His) good pleasure, and of gardens wherein for them are lasting
@@ -248,11 +228,7 @@ of the bounties which are perpetual and eternal. The verse says:
 Surah At-Tawbah – Verse 22
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَالِدِينَ فِيهَا أَبَداً إِنَّ اللّهَ عِندَهُ أَجْرٌ عَظِيمٌ
-  </p>
-</blockquote>
+> خَالِدِينَ فِيهَا أَبَداً إِنَّ اللّهَ عِندَهُ أَجْرٌ عَظِيمٌ
 
 **22*****. “Therein they will abide for ever, verily Allah has a great
 reward with Him.”***
@@ -271,13 +247,9 @@ verse says:
 Surah At-Tawbah – Verse 23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَآ أَيُّهَا الَّذِينَ ءَامَنُوا لاتَتَّخِذُوا ءَابَآءَكُمْ
-وَإِخْوَانَكُمْ أَوْلِيَآءَ إِنِ اسْتَحَبُّوا الْكُفْرَ عَلَى
-الإِيمَانِ وَمَن يَتَوَلَّهُم مِنكُمْ فَاُوْلَئِكَ هُمُ الظَّالِمُونَ
-  </p>
-</blockquote>
+> يَآ أَيُّهَا الَّذِينَ ءَامَنُوا لاتَتَّخِذُوا ءَابَآءَكُمْ
+> وَإِخْوَانَكُمْ أَوْلِيَآءَ إِنِ اسْتَحَبُّوا الْكُفْرَ عَلَى
+> الإِيمَانِ وَمَن يَتَوَلَّهُم مِنكُمْ فَاُوْلَئِكَ هُمُ الظَّالِمُونَ
 
 **23*****. “O’ you who have Faith! Do not take your fathers and your
 brothers for guardians if they prefer unbelief to belief, and whoever of
@@ -315,16 +287,12 @@ he belongs to, and to the Messenger of Allah (S)?
 Surah At-Tawbah – Verse 24
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَانُكُمْ
-وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
-وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
-إِلَيْكُم مِنَ اللّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
-فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللّهُ بِأَمْرِهِ وَاللّهُ لا يَهْدِي
-الْقَوْمَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَانُكُمْ
+> وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا
+> وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ
+> إِلَيْكُم مِنَ اللّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ
+> فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللّهُ بِأَمْرِهِ وَاللّهُ لا يَهْدِي
+> الْقَوْمَ الْفَاسِقِينَ
 
 **24*****. “Say: ‘If your fathers, your sons, your brothers, your wives,
 your clan, your possessions that you have gained, commerce you fear may
@@ -387,5 +355,4 @@ times, 28 of which are recited with the commandment of ‘ prayer ’.
 the Islamic traditions. Among them are: finding friends and brethrens in
 Faith, useful information, guidance and avoiding sins, obtaining the
 divine favours and the grace of Allah. (Durr-ul-Manthūr, vol. 2, p. 16)
-
 

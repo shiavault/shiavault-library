@@ -52,7 +52,6 @@ that will conquer perverse philosophies, distorted ideologies and false
 religious understanding is Islamic morality. The disbelievers and pagans
 cannot prevent this from happening.
 
-
 **The splitting of the moon**
 
 The 54th Surah of the Qur'an is called 'Surat al-Qamar.' In English
@@ -301,7 +300,6 @@ the people of the earth, leaving no one in it but heathens who do not
 recognize right or object to wrong. (Reported by Abdullah ibn 'Amr ibn
 al-'As)
 
-
 **The emergence of false prophets**
 
 The Last Hour will not come before there come forth thirty Dajjals
@@ -468,5 +466,4 @@ my community), break and crush the cross and kill the pig ... The earth
 will be so filled of peace as a vessel is filled with water. The entire
 world shall recite and follow one and the same Word and none shall be
 worshipped except Allah. (Ibn Majah)
-
 

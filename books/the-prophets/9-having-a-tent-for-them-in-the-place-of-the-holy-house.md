@@ -192,4 +192,3 @@ doubt we have about it for what we had explained. [the previous
 paragraph was a highly philosophical in its terms and might contain
 uncorrect translations].
 
-

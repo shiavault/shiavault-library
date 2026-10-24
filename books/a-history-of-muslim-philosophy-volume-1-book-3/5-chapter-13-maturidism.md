@@ -922,4 +922,3 @@ Cairo, 1317/1899; Sayyid Murtada, op. cit., vol. I, pp. 8 et sqq.; Abu
 'Udhbah, op. cit.; \`Abd Allah b. \`Uthman, Risalah fi al‑Khilaf bain al
 Ash'ariyyah wa’l‑Maturidiyyah. MS. Cairo.
 
-

@@ -63,7 +63,6 @@ sin, it says:
 
 "... (for) it is surely a great crime."
 
-
 **Commentary : Verse 3**
 
 (3) وَإِنْ خِفْتُمْ أَلاَّ تُقْسِطُواْ فِي الْيَتَامَى فَانكِحُواْ مَا
@@ -158,5 +157,4 @@ is enough either.
 3. In choosing a wife, heartily willing is a principal.
 
 4. On the whole, Islam agrees with conditioned polygamy for men.
-
 

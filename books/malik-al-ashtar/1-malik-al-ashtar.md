@@ -782,4 +782,3 @@ obeyed Allah's Apostle (s).*
 Thus, Malik al-Ashtar ended his life in Jihad. His bright behavior will
 remain as a model for the Muslim young men everywhere!
 
-

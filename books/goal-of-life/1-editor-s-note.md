@@ -62,4 +62,3 @@ M. K. Ali
 Mehr, 1361 A.H (Solar)  
  October, 1982
 
-

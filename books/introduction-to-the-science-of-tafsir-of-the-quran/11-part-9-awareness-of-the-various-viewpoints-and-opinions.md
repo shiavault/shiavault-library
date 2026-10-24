@@ -59,4 +59,3 @@ viewpoints of others may actually prevent a person from going forth to
 conduct his own independent research and investigation (thus limiting
 the work of the expert).
 
-

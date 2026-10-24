@@ -1460,4 +1460,3 @@ Meytham at Tammar, Hani bin Urwah, Muslim bin Aqeel etc. and above all
 his harsh treatment towards the imprisoned ladies and children of the
 Prophet’s Household bear witness to his despotic character.
 
-

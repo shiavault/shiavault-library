@@ -18,12 +18,8 @@ regularly gossips, is always finding faults in others and is a habitual
 oppressor – this type of sinning is so dangerous that the Holy Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ كاَنَ عَقِبَةَ الَّذِينَ أَسَُواْ السُّوأَى أَن كَذَّبُواْ
-بَِايَتِ اللَّهِ وَ كاَنُواْ بهَِا يَسْتَهْزِءُون
-  </p>
-</blockquote>
+> ثُمَّ كاَنَ عَقِبَةَ الَّذِينَ أَسَُواْ السُّوأَى أَن كَذَّبُواْ
+> بَِايَتِ اللَّهِ وَ كاَنُواْ بهَِا يَسْتَهْزِءُون
 
 ***Then evil was the consequence to those who dealt in evil because they
 denied the revelations of Allah and made a mock of them.*** ***(Sura
@@ -72,12 +68,8 @@ laughs, her act is worse than committing adultery. The reason for this
 is she has been shameless, which is a sin bigger than adultery itself.
 The Holy Quran says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الَّذِينَ يحُِبُّونَ أَن تَشِيعَ الْفَحِشَةُ فىِ الَّذِينَ
-ءَامَنُواْ لهَُمْ عَذَابٌ أَلِيمٌ فىِ الدُّنْيَا وَ الاَْخِرَة
-  </p>
-</blockquote>
+> إِنَّ الَّذِينَ يحُِبُّونَ أَن تَشِيعَ الْفَحِشَةُ فىِ الَّذِينَ
+> ءَامَنُواْ لهَُمْ عَذَابٌ أَلِيمٌ فىِ الدُّنْيَا وَ الاَْخِرَة
 
 ***Lo! Those who love that slander should be spread concerning those who
 believe, theirs will be a painful punishment in the world and the
@@ -90,11 +82,7 @@ house, who in turn joke and laugh with him. The Quran says that such
 shameless friendliness invites double punishment. This is sin more
 serious than committing adultery. The Holy Quran says in this regard:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَن يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا
-  </p>
-</blockquote>
+> وَ مَن يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا
 
 ***..... and whoso doth this shall pay the penalty.(*** ***Sura al-
 Furqan, 25: 68)***
@@ -207,11 +195,7 @@ homes where backbiting and slander, spreading of rumors and lies don't
 exist. These are major sins. The consequences of these habits, according
 to the Holy Quran, are very serious.
 
-<blockquote dir="rtl">
-  <p>
-وَيْلٌ لِّكُلّ‏ِ هُمَزَةٍ لُّمَزَة
-  </p>
-</blockquote>
+> وَيْلٌ لِّكُلّ‏ِ هُمَزَةٍ لُّمَزَة
 
 ***Woe to every scandal-monger and slanderer. (Sura Humaza, 104: 1)***
 
@@ -261,12 +245,8 @@ be turned into a dog. If there is no fault in a person that you
 attribute to him, then it is downright slander. Do you know about the
 retribution for these sins?
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يَفْترَِى الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بَِايَتِ
-اللَّهِ وَ أُوْلَئكَ هُمُ الْكَذِبُون
-  </p>
-</blockquote>
+> إِنَّمَا يَفْترَِى الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بَِايَتِ
+> اللَّهِ وَ أُوْلَئكَ هُمُ الْكَذِبُون
 
 ***Only they invent falsehoods who believe not Allah's revelations, and
 (only) they are the liars.*** ***(Sura al Nahl, 16: 105)***
@@ -300,13 +280,9 @@ sufficient! The Holy Quran says: Pity the person who spreads false
 rumours. Pay attention to this sin, it is indeed a great sin. The Quran
 says:
 
-<blockquote dir="rtl">
-  <p>
-إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكمُ‏ْ وَ تَقُولُونَ بِأَفْوَاهِكمُ مَّا
-لَيْسَ لَكُم بِهِ عِلْمٌ وَ تحَْسَبُونَهُ هَيِّنًا وَ هُوَ عِندَ
-اللَّهِ عَظِيم
-  </p>
-</blockquote>
+> إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكمُ‏ْ وَ تَقُولُونَ بِأَفْوَاهِكمُ مَّا
+> لَيْسَ لَكُم بِهِ عِلْمٌ وَ تحَْسَبُونَهُ هَيِّنًا وَ هُوَ عِندَ
+> اللَّهِ عَظِيم
 
 ***When you received it with your tongues and spoke with your mouths
 what you had no knowledge of, and you deemed it an easy matter while
@@ -316,12 +292,8 @@ The Quran says that what you speak, and has become a habit for you, is
 considered an easy matter and you attach no importance to it, but
 remember that Allah attaches great importance to it.
 
-<blockquote dir="rtl">
-  <p>
-وَ لَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَ الْبَصَرَ
-وَ الْفُؤَادَ كلُ‏ُّ أُوْلَئكَ كاَنَ عَنْهُ مَسُْولا
-  </p>
-</blockquote>
+> وَ لَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَ الْبَصَرَ
+> وَ الْفُؤَادَ كلُ‏ُّ أُوْلَئكَ كاَنَ عَنْهُ مَسُْولا
 
 ***And pursue thou not that which thou hast not the knowledge of:
 Verily, the hearing and the sight and the heart, all of these shall be
@@ -335,12 +307,8 @@ say something you must not say it unless you have evidence, failing
 which, be assured that your heart, your tongue, your ears will give
 evidence against you.
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ نخَْتِمُ عَلىَ أَفْوَهِهِمْ وَ تُكلَِّمُنَا أَيْدِيهِمْ وَ
-تَشهَْدُ أَرْجُلُهُم بِمَا كاَنُواْ يَكْسِبُون
-  </p>
-</blockquote>
+> الْيَوْمَ نخَْتِمُ عَلىَ أَفْوَهِهِمْ وَ تُكلَِّمُنَا أَيْدِيهِمْ وَ
+> تَشهَْدُ أَرْجُلُهُم بِمَا كاَنُواْ يَكْسِبُون
 
 ***This Day We seal up mouths, and hands speak out and feet bear witness
 as to what they used to earn.*** ***(Sura Ya Sin, 36: 65)***
@@ -374,5 +342,4 @@ worship on par with lying! Despite this, lying and falsehood is rampant
 in our homes! Our society is engulfed with this curse. A settlement
 where people are habitual liars sends out a foul stench towards the
 firmament and the angels curse such a place!
-
 

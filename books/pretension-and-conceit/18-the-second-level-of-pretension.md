@@ -82,4 +82,3 @@ dominance of the will of the *nafs* over you, you are a disbeliever in
 Allāh, treading the path of the hypocrites even if you imagine yourself
 as being a Muslim, a believer in Allāh.
 
-

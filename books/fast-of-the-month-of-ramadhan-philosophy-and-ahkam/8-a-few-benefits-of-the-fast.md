@@ -101,4 +101,3 @@ observe its fast; accept the same from us; receive our fast from and
 safeguard the same for us in an ease from You and good health; surely
 You can do everything.
 
-

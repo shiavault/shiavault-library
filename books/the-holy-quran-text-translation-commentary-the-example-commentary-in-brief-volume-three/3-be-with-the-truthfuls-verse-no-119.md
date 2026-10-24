@@ -379,9 +379,7 @@ throne.
 **سوره يونس
 JONAH**
 
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمـنِ الرَّحِيمِ
-</p>
 
 IN THE NAME OF ALLAH THE MERCIFUL THE COMPASSIONATE
 
@@ -685,5 +683,4 @@ FLOW. دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُ�
 10- THEIR PRAYER THEREIN IS, \`\`GLORY TO YOU, O, ALLAH'' AND THEIR
 GREETINGS THEREIN IS, \`\`PEACE'', AND THEIR OTHER PRAYER IS THAT;
 \`\`PRAISE BELONGS TO ALLAH, THE LORD OF ALL THE WORLD''.
-
 

@@ -439,4 +439,3 @@ al-irshad, 12.
 
 [^35]: Nahj al-Balagha, 2: 80.
 
-

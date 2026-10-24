@@ -1380,4 +1380,3 @@ wish of Allah and his support, the third volume and that is
 of the worlds. May peace and blessing be up on Muhammad and his family
 all of them.
 
-

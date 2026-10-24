@@ -24,4 +24,3 @@ The same rule applies, as a matter of precaution, to walking on the wall
 of the Hijr. While sticking to the course of tawaf, the pilgrim must not
 touch the wall of the Hijr either.
 
-

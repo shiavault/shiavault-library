@@ -52,4 +52,3 @@ didn’t talk to him."
 
 [^2]: Ghirar al-hukm, v2, p.645
 
-

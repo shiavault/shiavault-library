@@ -190,12 +190,8 @@ In the Glorious Qur’an, old age has been referred to as ‘*shayb*
 this age has either been explicitly stated or hinted at; for example, it
 has been stated about Prophet Zakariya (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-قالَ رَبِّ اِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأسُ
-شَيْبًا...
-  </p>
-</blockquote>
+> قالَ رَبِّ اِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأسُ
+> شَيْبًا...
 
 ***“He said: My Lord! Surely my bones are weakened and my head flares
 with hoariness, and, my Lord! I have never been unsuccessful in my
@@ -203,11 +199,7 @@ prayer to Thee…”***[^4]
 
 And likewise, with regard to the stages of man’s life, it states:
 
-<blockquote dir="rtl">
-  <p>
-... ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً...
-  </p>
-</blockquote>
+> ... ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً...
 
 ***“…Then he gave strength after weakness, then ordained weakness and
 hoary hair after strength…”***[^5]
@@ -300,13 +292,9 @@ opportunities and making bad choices, and he requests to return to the
 world in order to make up for past vices, but his petition will not be
 granted.
 
-<blockquote dir="rtl">
-  <p>
-حَتَّی اِذا جَاءَ اَحَدَهُمْ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ \*
-لَعَلِّي اَعْمَلُ صالِحًا فِيمَا تَرَکْتُ کَلاّ اِنَّهَا کَلِمَةٌ هُوَ
-قَائِلُهَا وَمَنْ‌ وَرائِهِمْ بَرْزَخٌ اِلی يَوْمِ يُبْعَثُونَ
-  </p>
-</blockquote>
+> حَتَّی اِذا جَاءَ اَحَدَهُمْ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ \*
+> لَعَلِّي اَعْمَلُ صالِحًا فِيمَا تَرَکْتُ کَلاّ اِنَّهَا کَلِمَةٌ هُوَ
+> قَائِلُهَا وَمَنْ‌ وَرائِهِمْ بَرْزَخٌ اِلی يَوْمِ يُبْعَثُونَ
 
 ***“Until when death overtakes one of them, he says: ‘Send me back, my
 Lord, send me back. Haply I may do good in that which I have left.’ By
@@ -318,12 +306,8 @@ you ought to imagine that this sleep may possibly not have an awakening
 and the Angel of Death will seize your soul in the state of sleep,
 because the Glorious Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-اللهُ يَتَوَفَّی الأَنْفُسَ حِينَ مَوْتِهَا والَّتِي لَمْ تَمُتْ فِي
-مَنَامِهَا...
-  </p>
-</blockquote>
+> اللهُ يَتَوَفَّی الأَنْفُسَ حِينَ مَوْتِهَا والَّتِي لَمْ تَمُتْ فِي
+> مَنَامِهَا...
 
 ***“Allah takes the souls at the time of their death, and those that die
 not during their sleep…”***[^7]
@@ -381,5 +365,4 @@ the name of Allah.”[^8]
 
 [^8]: Nahj al-Balaghah, p. 1146, pithy aphorisms 122, trans. Fayd
 al-Islam.
-
 

@@ -573,4 +573,3 @@ If he does not commend a life such as this, Nasir ad-Deen would not go
 to his house, for the Mulla is living his life in order to protect the
 creed.’”
 
-

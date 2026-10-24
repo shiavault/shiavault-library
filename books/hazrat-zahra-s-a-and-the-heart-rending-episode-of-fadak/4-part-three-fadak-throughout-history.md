@@ -147,4 +147,3 @@ bought by them at exorbitant prices as good luck gifts!
 
 **( Ibn Abi Al-hadid, volume 16, page 217)**
 
-

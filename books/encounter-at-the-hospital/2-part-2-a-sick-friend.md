@@ -68,4 +68,3 @@ she asked Warqa about the doctor and Warqa said that she was very ill.
 
 "He seems polite," her grandmother remarked.
 
-

@@ -364,4 +364,3 @@ of Allah". The events of the world and the hereafter were inter related
 and could not be separated. We have understood our earthly life. The
 hereafter follows a similar pattern and it is useless to dissent.
 
-

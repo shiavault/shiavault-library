@@ -22,4 +22,3 @@ grammatical tools of addition and connection indicates that individuals
 other than the wives are being addressed and referred to by this holy
 verse.
 
-

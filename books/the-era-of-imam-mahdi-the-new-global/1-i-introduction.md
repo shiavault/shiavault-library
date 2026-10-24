@@ -49,7 +49,6 @@ anxiously await his honored desecendant, how do we view the global
 events and act towards preparation of a state of Imam Mahdi's (ATFS)
 return to us.
 
-
 **II. How the West views todays Global order**
 
 After the demise of the Soviet Union as predicted by Hazrat Imam
@@ -190,5 +189,4 @@ collective interests as part of the Global Ummah as well as humanity.
 At the head of this Global Order, is the United States, being today
 ruled by the NeoConservatives, this ideology has its ramifications to
 both US domestic and Foreign policies.
-
 

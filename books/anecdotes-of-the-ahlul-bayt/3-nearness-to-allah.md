@@ -426,4 +426,3 @@ is the real offspring of Lady Fatimah Zahra (‘a), will not be hers.***
 will be one of us, if you become a faithful believer submitting to the
 Will of Allah.’***
 
-

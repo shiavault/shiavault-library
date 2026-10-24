@@ -418,4 +418,3 @@ Ahmad ibn Hanbal, Mishkat al-Masabih, 523; Fara΄id al-Simtayn, Vol. 2,
 
 [^24]: al-Shafa, Vol 2, 40
 
-

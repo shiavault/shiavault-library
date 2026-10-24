@@ -120,4 +120,3 @@ as objective attributes and hold that these notions ultimately pertain
 to man's relation to a thing, then how can we justify universal moral
 judgements?
 
-

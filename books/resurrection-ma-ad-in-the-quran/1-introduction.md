@@ -129,4 +129,3 @@ in resurrection. If all the people of the world become deniers in
 resurrection, accounting, rewards and punishments; what a terrible world
 it would be!
 
-

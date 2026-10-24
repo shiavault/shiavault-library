@@ -37,13 +37,9 @@ concealed Imam and the way of deriving benefit from his existence during
 the concealment. The Prophet (peace be upon him and his family) said in
 reply,
 
-<blockquote dir="rtl">
-  <p>
-أَيْ وَالَّذِي بَعَثَنِي بِالنُّبُّوَةِ! إِنَّهُمْ يَنْتَفِعُونَ بِهِ
-وَيَسْتَضْيِئُونَ بِنُورِ وِلاَيَتِهِ فِي غَيْبَتِهِ كَانِتْفَاعِ
-النَّاسِ بِالشَّمْسِ وَإِنْ جَلَّلَهَا السَّحَّابِ.
-  </p>
-</blockquote>
+> أَيْ وَالَّذِي بَعَثَنِي بِالنُّبُّوَةِ! إِنَّهُمْ يَنْتَفِعُونَ بِهِ
+> وَيَسْتَضْيِئُونَ بِنُورِ وِلاَيَتِهِ فِي غَيْبَتِهِ كَانِتْفَاعِ
+> النَّاسِ بِالشَّمْسِ وَإِنْ جَلَّلَهَا السَّحَّابِ.
 
 “Yes, by the One who sent me with the prophecy! Verily they benefit from
 him and seek light from the illumination of his wilayah (authority)
@@ -71,22 +67,14 @@ joining these two proofs to the fact that Allah does not do anything in
 vain, it is established that the *Imamah* of the concealed Imam entails
 grace. The statement of al-Muhaqqiq al-Tusi, who says;
 
-<blockquote dir="rtl">
-  <p>
-وُجُودِهِ لُطْفٌ وَتَصْرِفُهُ لُطْفٌ آخِرَ وَعَدَمُهُ مِنَّا.
-  </p>
-</blockquote>
+> وُجُودِهِ لُطْفٌ وَتَصْرِفُهُ لُطْفٌ آخِرَ وَعَدَمُهُ مِنَّا.
 
 is based on the principle that the existence of the Imam is grace
 absolutely, whether manifest or hidden. And this is a principle that has
 been established in accordance with the speech of Amir al-Mu’minin
 (peace be upon him), who says:
 
-<blockquote dir="rtl">
-  <p>
-لَئَلَّا تُبْطِلُ حُجَجِ اللهِ وَبَيِّنَاتِهِ.
-  </p>
-</blockquote>
+> لَئَلَّا تُبْطِلُ حُجَجِ اللهِ وَبَيِّنَاتِهِ.
 
 The Divine proofs and signs are protected by the existence of the Imam,
 whether he be present or concealed.
@@ -117,5 +105,4 @@ He has appointed an Imam out of grace, in which case the Imam is none
 other than the twelfth Imam.
 
 [^1]: al-Zam al-Nasib, Volume 1, Page 429
-
 

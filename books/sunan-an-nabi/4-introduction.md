@@ -158,24 +158,20 @@ In Surah al-An’am (6), after praising Prophet Ibrahim (as), all other
 prophets from his lineage as well as from the lineage of Nuh (as) are
 mentioned. He (SWT) says:
 
-<blockquote dir="rtl">
-  <p>
- وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلاًّ هَدَيْنَا وَنُوحًا
-هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
-وَأَيُّوبَ وَيُوسُفَ وَمُوسَى وَهَارُونَ وَكَذٌلِكَ نَجْزِي
-الْمُحْسِنِينَ وَزَكَرِيَّا وَيَحْـيَى وَعِيسَى وَإِلْيَاسَ كُلٌّ
-مِنَّ الصَّالِحِينَ وَإِسْمَاعِيلَ وَإِلْيَسَعَ وَيُونُسَ وَلُوطًا
-وَكُلاًّ فَضَّلْنَا عَلـى الْعَالَمِينَ وَمِنْ آبَائِهِمْ
-وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ وَهَدَيْـنَاهُمْ
-إِلَى صِرَاطٍ مُسْتَقِيمٍ ذٌلِكَ هُدَى اللٌّهِ يَهْدِي بِهِ مَنْ
-يَشَاءُ مِنْ عِبَادِهِ وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ مَا كَانُوا
-يَعْمَلُونَ أُوْلٌئِكَ الَّذِينَ آتَيْـنَاهُمُ الْكِتَابَ
-وَالْــحُكْمَ وَالنُّــبُوَّةَ فَإِنْ يَكْفُرْ بِهَا هٌؤُلاَءِ فَقَدْ
-وَكَّلْنَا بِهَا قَوْمًا لَيْسُوا بِهَا بِكَافِرِينَ أُوْلٌئِكَ
-الَّذِينَ هَدَى اللٌّهُ فَبِهُدَاهُمْ اقْتَدِهِ قُلْ لاَ أَسْأَلُكُمْ
-عَلَيْهِ أَجْراً إِنْ هُوَ إِلاَّ ذِكْرَى لِلْعَالَمِينَ 
-  </p>
-</blockquote>
+>  وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلاًّ هَدَيْنَا وَنُوحًا
+> هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
+> وَأَيُّوبَ وَيُوسُفَ وَمُوسَى وَهَارُونَ وَكَذٌلِكَ نَجْزِي
+> الْمُحْسِنِينَ وَزَكَرِيَّا وَيَحْـيَى وَعِيسَى وَإِلْيَاسَ كُلٌّ
+> مِنَّ الصَّالِحِينَ وَإِسْمَاعِيلَ وَإِلْيَسَعَ وَيُونُسَ وَلُوطًا
+> وَكُلاًّ فَضَّلْنَا عَلـى الْعَالَمِينَ وَمِنْ آبَائِهِمْ
+> وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ وَاجْتَبَيْنَاهُمْ وَهَدَيْـنَاهُمْ
+> إِلَى صِرَاطٍ مُسْتَقِيمٍ ذٌلِكَ هُدَى اللٌّهِ يَهْدِي بِهِ مَنْ
+> يَشَاءُ مِنْ عِبَادِهِ وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُمْ مَا كَانُوا
+> يَعْمَلُونَ أُوْلٌئِكَ الَّذِينَ آتَيْـنَاهُمُ الْكِتَابَ
+> وَالْــحُكْمَ وَالنُّــبُوَّةَ فَإِنْ يَكْفُرْ بِهَا هٌؤُلاَءِ فَقَدْ
+> وَكَّلْنَا بِهَا قَوْمًا لَيْسُوا بِهَا بِكَافِرِينَ أُوْلٌئِكَ
+> الَّذِينَ هَدَى اللٌّهُ فَبِهُدَاهُمْ اقْتَدِهِ قُلْ لاَ أَسْأَلُكُمْ
+> عَلَيْهِ أَجْراً إِنْ هُوَ إِلاَّ ذِكْرَى لِلْعَالَمِينَ 
 
 ***“And We gave him Isaac and Jacob and guided each of them. And Noah We
 had guided before, and from his offspring, David and Solomon, Job,
@@ -195,12 +191,8 @@ al-An’am (6): 84-90)***
 
 And He (SwT) says in Surah al-Mumtahanah (60):
 
-<blockquote dir="rtl">
-  <p>
- قَدْ كَأَنْتَ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
-مَعَهُ...
-  </p>
-</blockquote>
+>  قَدْ كَأَنْتَ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ
+> مَعَهُ...
 
 ***“There is certainly a good exemplar for you in Abraham and those who
 were with him”.*** ***(Surat al-Mumtahanah (60): 4)***
@@ -210,13 +202,9 @@ were with him’ refers to the other prophets.”
 
 In Surah ale ‘Imran (3), He (SwT) says:
 
-<blockquote dir="rtl">
-  <p>
- إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ
-وَهٌــذَا النَّبِيُّ وَالَّذِينَ آمَنُوا وَاللٌّهُ وَلِيُ
-الْمُؤْمِنِينَ 
-  </p>
-</blockquote>
+>  إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ
+> وَهٌــذَا النَّبِيُّ وَالَّذِينَ آمَنُوا وَاللٌّهُ وَلِيُ
+> الْمُؤْمِنِينَ 
 
 ***“Indeed the nearest of all people to Abraham are those who follow
 him, and this prophet and those who have faith, and God is the
@@ -297,12 +285,8 @@ The glorious Qur’an has in many instances praised the conduct, morals,
 method of dealing with people and the way of life of the Noble Prophet
 (S). In Surah ale ‘Imran (3) it is stated:
 
-<blockquote dir="rtl">
-  <p>
- فَبِمَا رَحْمَةٍ مِنَ اللٌّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا
-غَلِيظَ الْقَلْبِ لاَنْفَضُّوا مِنْ حَوْلِكَ...
-  </p>
-</blockquote>
+>  فَبِمَا رَحْمَةٍ مِنَ اللٌّهِ لِنْتَ لَهُمْ وَلَوْ كُنْتَ فَظًّا
+> غَلِيظَ الْقَلْبِ لاَنْفَضُّوا مِنْ حَوْلِكَ...
 
 ***“It is by God’s mercy that you are gentle to them; and had you been
 harsh and hardhearted, surely they would have scattered from around
@@ -311,11 +295,7 @@ you”. (Surat Ale ‘Imran (3): 159)***
 He has been described as possessing sublime morality in Surah al-Qalam
 (68):
 
-<blockquote dir="rtl">
-  <p>
- وَإِنَّكَ لَعَلـى خُلُقٍ عَظِيمٍ 
-  </p>
-</blockquote>
+>  وَإِنَّكَ لَعَلـى خُلُقٍ عَظِيمٍ 
 
 ***“And indeed you possess a great character”.*** ***(Surat al-Qalam
 (68): 4)***
@@ -323,23 +303,15 @@ He has been described as possessing sublime morality in Surah al-Qalam
 Then in Surah al-Ahzab (33), human beings have been ordered to take his
 way of life as a model to follow:
 
-<blockquote dir="rtl">
-  <p>
- لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللٌّهِ أُسْوَةٌ حَسَنَةٌ... 
-  </p>
-</blockquote>
+>  لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللٌّهِ أُسْوَةٌ حَسَنَةٌ... 
 
 ***“In the Apostle of God there is certainly for you a good exemplar”
 ...*** (Surat al-Ahzab (33): 21)
 
 He  says in Surah ale ‘Imran (3):
 
-<blockquote dir="rtl">
-  <p>
- قُلْ إِنْ كُنْــتُمْ تُحِبُّونَ اللٌّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
-اللٌّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللٌّهُ غَفُورٌ رَحِيمٌ 
-  </p>
-</blockquote>
+>  قُلْ إِنْ كُنْــتُمْ تُحِبُّونَ اللٌّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ
+> اللٌّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللٌّهُ غَفُورٌ رَحِيمٌ 
 
 ***“Say: ‘If you love God, then follow me; God will love you and forgive
 you your sins, and God is all-forgiving, all-merciful”.*** (Surat Ale
@@ -347,12 +319,8 @@ you your sins, and God is all-forgiving, all-merciful”.*** (Surat Ale
 
 Also:
 
-<blockquote dir="rtl">
-  <p>
- يَـا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلٌّهِ وَلِلرَّسُولِ
-إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ... 
-  </p>
-</blockquote>
+>  يَـا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلٌّهِ وَلِلرَّسُولِ
+> إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ... 
 
 ***“O you who have faith! Answer God and the Apostle when he summons you
 to that which will give you life”...*** (Surat al-Anfal (8): 24)  
@@ -577,5 +545,4 @@ al-Zamakhshari in Rabi’ al-Abrar: section of despair and contentment.
 [^15]: Makarim al-Akhlaq: 95 Hadith no. 183
 
 [^16]: A term used to refer to the Sunni Muslims. (Tr.)
-
 

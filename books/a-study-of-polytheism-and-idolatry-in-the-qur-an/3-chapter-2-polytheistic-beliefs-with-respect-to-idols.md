@@ -1746,4 +1746,3 @@ it, nor any ransom shall be received from it, nor will they be helped.”
 
 [^77]: Jews and Christians.
 
-

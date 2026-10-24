@@ -204,4 +204,3 @@ apologize. I say: if there is no contract of continuous marriage or
 temporary marriage, then what shall be the legal excuse for them to meet
 and mix as man and woman?!!
 
-

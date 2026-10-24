@@ -335,4 +335,3 @@ too had seen the same dream, and he had accepted Islam. [^8]
 
 [^8]: Jamiul Qasas Page 107
 
-

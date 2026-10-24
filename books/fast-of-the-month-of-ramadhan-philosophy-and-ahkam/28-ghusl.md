@@ -22,4 +22,3 @@ Ramadhan. According to *Al-Iqbal*, Abu Abdullah, peace be upon him, is
 quoted saying that the Messenger of Allah (S) used to have his *ghus­ul*
 each night during the last ten nights of the month of Ramadhan.
 
-

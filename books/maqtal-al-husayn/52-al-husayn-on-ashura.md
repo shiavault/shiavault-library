@@ -802,4 +802,3 @@ slave with him.
 
 [^33]: Ibn al-Athir, Vol. 4, p. 27.
 
-

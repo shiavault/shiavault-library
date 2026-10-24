@@ -614,4 +614,3 @@ pray that He may grant you and me His grace and the honour of martyrdom
 in His cause. Verily, we have to return to Him. I invoke His blessings
 on the Prophet of God and his blessed progeny.
 
-

@@ -60,12 +60,8 @@ swear by Allah! What made me talk persistently to Ali ibn Abi Talib
 concerning his daughter was the fact that I heard the Prophet of Allah
 (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع (يوم القيامة) إلا سببي وصهري فإنهما يأتيان يوم
-القيامة يشفعان لصاحبهما
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع (يوم القيامة) إلا سببي وصهري فإنهما يأتيان يوم
+> القيامة يشفعان لصاحبهما
 
 “Every lineage and means and grooming relationship will be severed on
 the Day of Judgment except my lineage and grooming relationship with me,
@@ -131,11 +127,7 @@ Aqil and Hasan regarding Umm Kulthum‘s marriage to Umar.
 Ali Said: ―Umar has informed me that he heard the Prophet of Allah (S)
 say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means and lineage is severed on the Day of Judgment except my
 lineage and means.”[^5]
@@ -564,11 +556,7 @@ probability here is that the forgers of this story sought to create a
 virtue for Umar ibn Khattab who himself is one of the narrators of this
 prophetic tradition:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means and lineage will be severed on the Day of Judgment except
 my means and my lineage.”
@@ -589,11 +577,7 @@ reference to Umar‘s marriage proposal and the relevant story.
 Muttaqi Hindi has cited this tradition from different sources. As per
 his report, the Messenger of Allah (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means and lineage will be severed on the Day of Judgment except
 my means and my lineage.”
@@ -604,11 +588,7 @@ Baghdadi has narrated from Ibn Abbas and Miswar. He further says that
 Ibn Asakir has also narrated from Ibn Umar that the Prophet of Allah,
 peace be upon him and his descendants, said:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every lineage and grooming relation will be severed on the Day of
 Judgment except my lineage and grooming relation.”[^33]
@@ -616,11 +596,7 @@ Judgment except my lineage and grooming relation.”[^33]
 Ibn Maghazali has reported this tradition in Manaqib Al-Imam Ali ibn Abi
 Talib (a.s.) that the Prophet of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means and lineage will be severed on the Day of Judgment except
 my means and my lineage.”
@@ -631,11 +607,7 @@ Jubair, from Ibn Abbas, from Umar.[^34]
 There is a narration similar to this one reported from the Holy Prophet
 (S) about Fatima‘s position and rank. He has been quoted as having said:
 
-<blockquote dir="rtl">
-  <p>
-فاطمة بضعة مني
-  </p>
-</blockquote>
+> فاطمة بضعة مني
 
 “Fatima is a part of my body…”
 
@@ -657,11 +629,7 @@ Umar‘s marriage to Umm Kulthum would make him a groom of Fatima Zahra
 injure her feeling! As stated earlier, Umar‘s proposal was owing to the
 fact that he had heard the Prophet of Allah (S) say:
 
-<blockquote dir="rtl">
-  <p>
-كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
-  </p>
-</blockquote>
+> كل سبب ونسب منقطع يوم القيامة إلا سببي ونسبي
 
 “Every means and lineage will be severed on the Day of Judgment except
 my means and my lineage.”
@@ -743,12 +711,8 @@ Prophet (S) makes reference to the same point saying: Kinship refers to
 people who are related to the closest grandfather of the Messenger of
 Allah (S) i.e. Abdul Muttalib because the Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-من صنع إلى أحد من ولد عبد المطلب يدا فلم يكافئه بها في الدنيا فعلي
-مكافاته إذا لقيتني
-  </p>
-</blockquote>
+> من صنع إلى أحد من ولد عبد المطلب يدا فلم يكافئه بها في الدنيا فعلي
+> مكافاته إذا لقيتني
 
 “Whoever treats well any of the children of Abdul Muttalib and does him
 a favor and he does not not make up for the favor in this world, it will
@@ -874,5 +838,4 @@ Al-Thani Ashar, 4/32
 
 [^39]: Sharh Al-Mawahib Al-Ladoniyyah, 7/9 and 10, theme: Mabhath
 Qarabat Al-Nabi (S).
-
 

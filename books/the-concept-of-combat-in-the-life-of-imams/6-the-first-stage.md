@@ -46,4 +46,3 @@ control of the Umayyad. Abdul Malik ruled powerfully for 21 years.
 
 [^1]: Bihar-ul-Anwar, Vol. 45, P. 115
 
-

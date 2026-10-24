@@ -108,4 +108,3 @@ pray, light came out of her and shone for the inhabitants of heaven as
 lights from planets shine for the inhabitants of the earth." This was
 the natural beauty that she had been given by Allah.
 
-

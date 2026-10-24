@@ -547,4 +547,3 @@ Kafi states, “Then, Imam ‘Ali said: there is no God but Allah until his
 exalted soul soared to Heaven.” May God glorify him and his sacred
 family.
 
-

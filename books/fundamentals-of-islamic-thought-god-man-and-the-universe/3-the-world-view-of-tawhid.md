@@ -2724,4 +2724,3 @@ Qur’an, 54:5. Trans.
 [^41]: Refer to my Insan va Sar Nivisht (“Man and Fate”) where questions
 related to divine decree and foreordination are discussed at length.
 
-

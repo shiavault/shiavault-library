@@ -62,4 +62,3 @@ critics, labelling him as "the burner of Qur'an".
 
 [^1]: al Itqan, v1, p.103
 
-

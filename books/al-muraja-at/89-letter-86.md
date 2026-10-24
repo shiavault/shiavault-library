@@ -234,4 +234,3 @@ traditions.
 ibn ‘Utbah ibn Mas’ud from Ibn ‘Abbas, and it is also quoted by Muslim
 and others.
 
-

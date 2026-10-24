@@ -9,4 +9,3 @@ Meaning of Salawat
 O Allah! Send Your Blessings to our Prophet Muhammad al-Mustafa (S.A.W.)
 and his Ahl al-Bayt.
 
-

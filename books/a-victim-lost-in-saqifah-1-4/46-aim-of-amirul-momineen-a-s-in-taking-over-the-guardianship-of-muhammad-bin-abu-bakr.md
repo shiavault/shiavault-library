@@ -39,7 +39,7 @@ fidelity and devotion to the Wilayat of Ali and Ahle Bayt…”**[4]**
 ------------------------------------------------------------------------
 
 **[1]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg.
+Ali from the Sunni point of view), [1st Edition 1380], Pg.
 80  
 **[2]** Abdul Kareem Bi-Aazaar Shirazi: *Mashal-e-Ittehaad* (Torch of
 Unity), Pg. 27  
@@ -148,7 +148,7 @@ Bahman 1379
 **[5]** Abdul Qadir Dahqaan Siraawaani: Article quoted in Nida-e-Islam
 Magazine, Issue No. 15, Autumn 82, Pg. 12  
 **[6]** Muhammad Barfi: *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of
-Ali from the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg.
+Ali from the Sunni point of view), [1st Edition 1380], Pg.
 110
 
 “Umar’s look to Ali was full of love, concomitant with respect and
@@ -200,7 +200,7 @@ You can judge how far  
 ------------------------------------------------------------------------
 
 **[1]** Ibid. *Seemai Ali Az Manzar Ahle Sunnat* (Portrait of Ali from
-the Sunni point of view), [1<sup>st</sup> Edition 1380], Pg. 87  
+the Sunni point of view), [1st Edition 1380], Pg. 87  
 **[2]** Engineer Jawad Husaini Tabatabai: *Dar
 Pasukh-e-Afsana-e-Shahadat,* Pgs. 109-110
 
@@ -402,11 +402,11 @@ of Ibne Abil Hadeed, Vol. 12, Pgs. 78-79
 **[3]** Ibid. Aftaab-e-Yazd Daily, Issue No. 9, Khordad 1381  
 **[4]** Ibrahim Baizoon (Translated by Ali Asghar Muhammadi Seejaani):
 *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh* (Understanding
-the stand of Imam Ali in the Mirror of History) (1<sup>st</sup>
+the stand of Imam Ali in the Mirror of History) (1st
 Edition), 1379], Pg. 40  
  **[5]** Ibid. *Rafataar Shinashi Imam Ali (a.s.) Dar Aaina-e-Tareekh*
 (Understanding the stand of Imam Ali in the Mirror of History)
-(1<sup>st</sup> Edition), 1379], Pg. 42  
+(1st Edition), 1379], Pg. 42  
  **[6]** Abdul Hameed Ismail Zahi: Appeal quoted in Nida-e-Islam
 Magazine, Issue No. 9, Spring 81, Pg. 71
 

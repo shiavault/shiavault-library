@@ -115,4 +115,3 @@ need of dissimulation.
 
 [^1]: Surah Baqarah 2:195
 
-

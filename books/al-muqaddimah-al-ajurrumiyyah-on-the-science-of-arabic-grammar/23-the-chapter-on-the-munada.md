@@ -26,4 +26,3 @@ As for the Mufrad ‘Alam and the Nakirah Maqṣūdah, they are Mabniyy
 
 The remaining three are Manṣūb and nothing else[^84] .
 
-

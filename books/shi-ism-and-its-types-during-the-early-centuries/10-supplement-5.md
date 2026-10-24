@@ -218,4 +218,3 @@ what is lawful and unlawfu1. [^143]
 These statements reiterate what Imam Ali used to declare in his sermons
 addressed to the people of Kufah:
 
-

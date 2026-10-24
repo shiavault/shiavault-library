@@ -28,4 +28,3 @@ A tradition from Prophet Mohammad (p.b.u.h.) says: One who studies Sura
 'Abasa will arrive at the Gathering Place smiling and rejoicing on The
 Day of Judgment.
 
-

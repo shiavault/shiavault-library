@@ -295,4 +295,3 @@ should be given to his heirs. And if for example, a father beats his
 child so much that the latter dies. the diyah will be taken by other
 heirs of the child and his father will get nothing out of it.
 
-

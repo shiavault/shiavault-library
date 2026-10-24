@@ -77,12 +77,8 @@ who knew the temperament of Holy Quran. At this point we wish to seek
 the spiritual pleasure of reciting a few parts of a detailed tradition
 by the Holy Prophet (S). He says:
 
-<blockquote dir="rtl">
-  <p>
-له ظهر وبطن. فظاهره حكم. وباطنه علم. ظاهره انيق وباطنه عميق. له نجوم
-وعلى نجومه نجوم.
-  </p>
-</blockquote>
+> له ظهر وبطن. فظاهره حكم. وباطنه علم. ظاهره انيق وباطنه عميق. له نجوم
+> وعلى نجومه نجوم.
 
 The Holy Quran has two sides to it. One is visible and the other is
 hidden. The visible is all rules and regulations. What is hidden is a
@@ -97,12 +93,8 @@ Quranic philosophy – Amirul Momineen Ali Ibn Abi Talib – comprehensively
 identified in one of his speeches certain elements that are essential to
 benefiting from the Holy Book. He says:
 
-<blockquote dir="rtl">
-  <p>
-كتاب ربكم فيكم مبينا حلاله وحرامه وفرائضه وفضائله وناسخه ومنسوخه ورخصه
-عزائمه وخاصه وعامه وعبره وامثاله ومرسله ومحدوده ومحكمه ومتشابهه.
-  </p>
-</blockquote>
+> كتاب ربكم فيكم مبينا حلاله وحرامه وفرائضه وفضائله وناسخه ومنسوخه ورخصه
+> عزائمه وخاصه وعامه وعبره وامثاله ومرسله ومحدوده ومحكمه ومتشابهه.
 
 The Holy Prophet left among you the book of the Creator and His Highness
 clearly told you what is in the Book. What is allowed and what is
@@ -232,5 +224,4 @@ religious (sharai) commandments. And as far as Quran is concerned they
 thought that since our intellect cannot fathom its meanings when a need
 arises we should only consult Akhbar (traditions). Insha Allah there
 will be more discussion in the context of Ijtihad later in the book.
-
 

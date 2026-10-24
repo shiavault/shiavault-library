@@ -1116,4 +1116,3 @@ those who disgraced their personalities.
 15. Imam Al-Hadi (peace be upon him) said: This world is like a market
 in which some profited and others lost.
 
-

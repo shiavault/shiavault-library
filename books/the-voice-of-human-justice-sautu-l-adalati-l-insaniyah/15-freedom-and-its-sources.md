@@ -387,4 +387,3 @@ many people consider the views and beliefs of these parties to be
 crimes. Similarly apostasy is a crime according to the Muslims, because
 it certainly creates trouble in the society.
 
-

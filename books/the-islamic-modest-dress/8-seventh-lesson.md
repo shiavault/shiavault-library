@@ -284,4 +284,3 @@ that time, not a total ruling for all times and secondly, the verse just
 says to draw the jilbab closer to themselves.  
   
 
-

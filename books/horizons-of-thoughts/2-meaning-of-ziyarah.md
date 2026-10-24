@@ -10,10 +10,8 @@ who deflects from other than a certain entity intends the entity.
 Al-Fayumi, a well-known lexist in his authoritative lexicon al-Misbah
 al-Munir says:
 
-<p dir="rtl">
 و(الزِّيَارَةُ) فِي الْعُرْفِ قَصْدُ الْمَزُوْرِ اِكْرَامًا لَهُ
 وَاسْتِئْنَاسًا بِهِ.
-</p>
 
 'The conventional meaning of al-ziyarah is to intend the one to be
 visited, for his veneration or intimacy.'[^9]
@@ -51,32 +49,26 @@ Some narratives explicitly say that doing ziyarah of the Holy Prophet
 (s) and the infallible Imams('a) [^14] is like doing the ziyarah of
 Allah. Consider the following traditions:
 
-<p dir="rtl">
 عَنْ زَيْد الشَّحَّامُ قَالَ: قُلْتُ لاَبِي عَبْدِ اللهِ (ع): مَا
 لِمَنْ زَارَ رَسُوْلَ اللهِ (ص)؟ قَالَ: كَمَنْ زَارَ الله َعَزَّوَجَلَّ
 فَوْقَ عَرْشِهِ... .
-</p>
 
 Zayd al-Shahham is reported to have said: I asked Abu 'Abdilah
 (al-Sadiq ('a)): What is the reward for one who visits the Messenger of
 Allah? The Imam ('a) said: 'It is like one who has visited Allah on His
 throne ('arsh) [^15]'
 
-<p dir="rtl">
 عَنْ زَيْد الشَّحَّام، عَنْ اَبِيْ عَبْدِ اللهِ( ع) قَالَ: مَنْ زَارَ
 قَبْرَ الْحُسَيْنِ بنِ عَلِيّ(ع) عَارِفًا بِحَقِّه كَانَ كَمَنْ زَارَ
 اللهَ فِيْ عَرْشِه... .
-</p>
 
 Zayd al-Shahham is reported to have said: Abu 'Abdilah (al-Sadiq ('a))
 said: Whosoever visits the grave of al-Hussein ('a) with the knowledge
 of his rights is like one who visits Allah in His Throne.[^16]
 
-<p dir="rtl">
 عَنْ جَابِر اَلْجُعْفِي، قَالَ: دَخَلْتُ عَلى جَعْفَر بنِ مُحَمّد(ع)
 فِيْ يَوْمِ عَاشُوْرَآء، فَقَالَ لِيْ: هَؤُلاَءِ زُوَّارُ اللهِ وَحَقُّ
 عَلى الْمَزُوْرِ اَنْ يُكْرِمَ الزَّائِرَ... .
-</p>
 
 Jabir al-Ju'fi is reported to have said: I came to Ja'far bin Muhammad
 (al-Sadiq ('a)) on the day of '\`shura', and he said to me: 'These
@@ -96,14 +88,11 @@ the Imam enjoys but with limitations..rather, the Imams ('a) are sheer
 Manifestations (ma³ahir) of Allah's Names and thus in reality no
 Attribute belongs to other than Allah:
 
-<p dir="rtl">
 اَللهُ لاَ إلَهَ إلاَّ هُو لَهُ الأسْمآء الحُسْنى
-</p>
 
 Allah, other than Him there is no God; and to Him Alone belongs the
 Beautiful Names…[^20] Those who are well versed with the secrets of
 prayer (Asrar al-Salat) do appreciate this reality in the state of ruku'
 when they vision that no one other than Almighty Allah has any
 perfection whatsoever. Imam Khumayni in his Etiquette of Prayer says:
-
 

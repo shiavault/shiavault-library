@@ -686,4 +686,3 @@ Spirituality, p. 27
 1- Tayyebi N., Banu-ye Irani, 2- Khalili, Marjan Amu : Kuwkab-e durri,
 3- Bidhandi, Naser Baqiri, Banu-ye Nemune
 
-

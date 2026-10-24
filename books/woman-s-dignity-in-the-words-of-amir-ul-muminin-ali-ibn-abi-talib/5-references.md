@@ -44,4 +44,3 @@ Makaremul-Akhlagh (Tabarsi) and Az-Zewaj.
 [^17]: Ibn Abi Al- Hadid, "Description of Nahjul Balaghah", Vol. 12,
 Page 163
 
-

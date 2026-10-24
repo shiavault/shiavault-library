@@ -94,4 +94,3 @@ and ninety hadiths from the Shi΄a sources.
 
 [^7]: Noble Qur’an, 2:259
 
-

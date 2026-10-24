@@ -42,4 +42,3 @@ constitutes a particular thing; it is, in fact, the principle that
 determines the prime matter to be actually such and such a body; without
 either matter or form, however, there would be no concrete thing at all.
 
-

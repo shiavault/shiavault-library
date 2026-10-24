@@ -236,4 +236,3 @@ extra amount in blood money.
 [^8]: Shaykh ‛Alī Namāzī, Mustadrak Safīnat al-Bihār, volume 2, page
 407.
 
-

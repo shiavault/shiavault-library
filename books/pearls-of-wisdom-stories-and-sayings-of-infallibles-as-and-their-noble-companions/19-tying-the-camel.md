@@ -27,4 +27,3 @@ used for brushing teeth).”[^1]
 
 [^1]: Kahl al Basar, Muhaddith Qhummi, p. 69.
 
-

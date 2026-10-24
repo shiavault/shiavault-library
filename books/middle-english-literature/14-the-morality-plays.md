@@ -25,4 +25,3 @@ early sixteenth century, the character of the Moralities, more strictly
 so called, underwent something of a change, and they were--sometimes
 made the vehicle for religious argument, especially by Protestants.
 
-

@@ -96,4 +96,3 @@ manifestation of our Saviour. May Allah the Exalted grant me the
 potential and the honour to compile a presentation of this Munificent
 infallible holy personality, in English. Insha Allah!
 
-

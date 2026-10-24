@@ -30,4 +30,3 @@ way to reach His good pleasure and mercy except through His grace. The
 only means to obey Him is when he grants success: none can intercede
 with Him except with His permission and mercy.
 
-

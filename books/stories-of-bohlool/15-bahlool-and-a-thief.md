@@ -11,4 +11,3 @@ The thief said, “Salat (prayer) isn't done with shoes on.”
 Bahlool replied, “I won't have my Salat (prayer), but I will have my
 shoes.”
 
-

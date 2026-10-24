@@ -164,7 +164,6 @@ married couple in modernistic societies lacks an overall perspective,
 such as that of Islam, so that they remain unable to attain a deeply
 unifying and sincere love relationship.
 
-[^1] Ibid, p. 83
-[^2] Ibid, p. 86-87
-
+[^1]: Ibid, p. 83
+[^2]: Ibid, p. 86-87
 

@@ -80,12 +80,8 @@ Know that the Proof of Allah has appeared near the House of Allah, so
 follow him as truth is with him, and that is the meaning of the
 statement of the Almighty Allah:
 
-<blockquote dir="rtl">
-  <p>
-إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّن السَّمَاء آيَةً فَظَلَّتْ
-أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
-  </p>
-</blockquote>
+> إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّن السَّمَاء آيَةً فَظَلَّتْ
+> أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
 
 ***“If We please, We should send down upon them a sign from the heaven
 so that their necks should stoop to it.”***[^1]
@@ -131,12 +127,8 @@ has narrated to me through his forefathers through Amirul Momineen
 (S), when is the Qaim from your progeny going to rise?’ He said, ‘His
 example is like the example of the Hour:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يُجَلِّيهَا لِوَقْتِهَا إِلاَّ هُوَ ثَقُلَتْ فِي السَّمَاوَاتِ
-وَالأَرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَة
-  </p>
-</blockquote>
+> لاَ يُجَلِّيهَا لِوَقْتِهَا إِلاَّ هُوَ ثَقُلَتْ فِي السَّمَاوَاتِ
+> وَالأَرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَة
 
 ***None but He shall manifest it at its time. It will be momentous in
 the heavens and the earth. It will not come on you but
@@ -270,5 +262,4 @@ and oppression.”
 [^1]: Surah Shuara 26:4
 
 [^2]: Surah Araaf 7:187
-
 

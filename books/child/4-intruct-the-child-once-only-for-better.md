@@ -67,7 +67,6 @@ oblige. Often the repetition awaited never appears and the request
 drifts from the memory as if it never existed. The favour is deemed to
 have been denied when the intention was not so.
 
-
 **The Child's FIrst Participation in a Religious**
 
 **Congregation**
@@ -231,5 +230,4 @@ like them. As an adult the child will always know that time is
 constantly slipping by "fast" beyond his control according to the
 earthly clock and death is always "the same day" -according to the
 celestial (heavenly) clock even if it were forty or sixty years hence!
-
 

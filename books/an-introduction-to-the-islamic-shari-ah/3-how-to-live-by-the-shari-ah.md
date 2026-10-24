@@ -208,4 +208,3 @@ Path; and S.M.H. Jafry, The Origin and Early Development of Shi'a Islam.
 see ash-Sha'rani, at-Tabaqatu 'l-Kubra, vol. 1, p. 28; Abu Nu'aym,
 Hilyatu 'l-Awliya', vol. 3, p. 193, 197.
 
-

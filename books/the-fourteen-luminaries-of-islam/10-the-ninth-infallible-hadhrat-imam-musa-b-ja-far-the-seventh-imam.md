@@ -336,4 +336,3 @@ Qumi’s Muntahi al-Amal.)
 
 [^4]: Majmu‘a-yi Zindigi-yi Chahardah Ma‘sum ‘Alayhim al-Salam, p. 145.
 
-

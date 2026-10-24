@@ -10,11 +10,7 @@ Surah Al-Qasas, Chapter 28
 The Virtue of Recitation of Surah Al-Qasas
 ------------------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -47,5 +43,4 @@ recite the Surah, contemplate its content, and fulfil them accordingly.
 [^1]: Majma‘-ul-Bayan, the commentary
 
 [^2]: Thawab-ul-’A‘mal, according to the commentary of Nur-uth-Thaqalayn
-
 

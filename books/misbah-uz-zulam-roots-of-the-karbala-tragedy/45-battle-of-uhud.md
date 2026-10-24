@@ -346,4 +346,3 @@ Pg. 53.
 
 [^10]: Surah Aale Imran 3:153
 
-

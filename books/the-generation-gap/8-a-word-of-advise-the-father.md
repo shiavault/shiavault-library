@@ -232,7 +232,5 @@ I wish to thank you for your useful words of advice. They are all
 logical. I hope I will be able to put them into practice and treat you
 satisfactorily.
 
-
 \*\*\*\*\*\* The End \*\*\*\*\*\*
-
 

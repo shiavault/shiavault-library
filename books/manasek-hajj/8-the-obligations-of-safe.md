@@ -455,4 +455,3 @@ through Muzdalifah, the pilgrim was in the remembrance of Allah. Eighth:
 If he manages only the stay at Arafaat in the alternative period, his
 Hajj is invalid and he must change to Umrat-ul-Mufradah.
 
-

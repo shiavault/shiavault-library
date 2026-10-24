@@ -39,7 +39,7 @@ experienced Muslims of the first generation after the Prophet.[^36]
 
 **Notes:**
 
-[^34] Al-Musnad, hadith no. 950 (Ahmad Sha-kir).
-[^35] Al-Salafi-, Murshid al-Muhta-r, vol. 3, pp. 156-157.
-[^36] Ahmad Sha-kir’s explanation on Hadith al-Ghadi-r.
+[^34]: Al-Musnad, hadith no. 950 (Ahmad Sha-kir).
+[^35]: Al-Salafi-, Murshid al-Muhta-r, vol. 3, pp. 156-157.
+[^36]: Ahmad Sha-kir’s explanation on Hadith al-Ghadi-r.
 

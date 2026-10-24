@@ -54,4 +54,3 @@ mainly around the history of this great Imam. A true understanding of
 his position in Islam is bound to lead the Muslims to a more genuine
 poherhood.
 
-

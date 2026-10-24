@@ -378,4 +378,4 @@ best of His reward.
 
 **Baqir Shareef al-Qurashi  
  Holy Najaf  
- 23<sup>rd</sup>, Sha’ban, 1422 AH.**
+ 23rd, Sha’ban, 1422 AH.**

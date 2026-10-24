@@ -4,15 +4,11 @@
 There is *always* a divinely “sent” guide on the earth for the *Ummah*.
 ‘Allamah al-Majlisi (d. 1111 H) documents:
 
-<blockquote dir="rtl">
-  <p>
-علل الشرائع: أبي، عن علي، عن أبيه، عن يحيى بن أبي عمران الهمداني عن
-يونس، عن إسحاق بن عمار، عن محمد بن مسلم، عن أبي جعفر عليه السلام قال:
-إن الله لم يدع الأرض إلا وفيها عالم يعلم الزيادة والنقصان من دين الله
-عز وجل فإذا زاد المؤمنون شيئا ردهم، وإذا نقصوا أكمله لهم، ولولا ذلك
-لالتبس على المسلمين أمرهم
-  </p>
-</blockquote>
+> علل الشرائع: أبي، عن علي، عن أبيه، عن يحيى بن أبي عمران الهمداني عن
+> يونس، عن إسحاق بن عمار، عن محمد بن مسلم، عن أبي جعفر عليه السلام قال:
+> إن الله لم يدع الأرض إلا وفيها عالم يعلم الزيادة والنقصان من دين الله
+> عز وجل فإذا زاد المؤمنون شيئا ردهم، وإذا نقصوا أكمله لهم، ولولا ذلك
+> لالتبس على المسلمين أمرهم
 
 *‘Ilal al-Sharai’*: my father – ‘Ali – his father – Yahya b. Abi ‘Imran
 al-Hamdani – Yunus – Ishaq b. ‘Ammar – Muhammad b. Muslim:
@@ -34,13 +30,9 @@ al-salam*, as the supreme guides of this *Ummah*. The Sunni *hadith*
 scholar, Sayyid Hasan al-Saqqaf, declares:
 
 > ورواه الترمذي 663/5) برقم (3788 بسند صحيح بلفظ إني تارك فيكم ما إن
-<blockquote dir="rtl">
-  <p>
-تمسكتم به لن تضلوا بعدي أحدهما أعظم من الآخر كتاب الله حبل ممدود من
-السماء إلى الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا علي الحوض فانظروا
-كيف تخلفوني فيهما
-  </p>
-</blockquote>
+> تمسكتم به لن تضلوا بعدي أحدهما أعظم من الآخر كتاب الله حبل ممدود من
+> السماء إلى الأرض وعترتي أهل بيتي ولن يتفرقا حتى يردا علي الحوض فانظروا
+> كيف تخلفوني فيهما
 
 Al-Tirmidhi (5/663, \# 3788) recorded it **WITH A** ***SAHIH***
 **CHAIN**, with this wording:
@@ -58,12 +50,8 @@ Shi’ism also recognizes the existence of *extraordinary* situations
 where the *khalifah* becomes inaccessible to his subjects. ‘Allamah
 al-Majlisi documents again:
 
-<blockquote dir="rtl">
-  <p>
-علل الشرائع: أبي، عن الحميري، عن السندي بن محمد، عن العلا، عن محمد عن
-أبي جعفر عليه السلام قال: لا تبقى الأرض بغير إمام ظاهر أو باطن
-  </p>
-</blockquote>
+> علل الشرائع: أبي، عن الحميري، عن السندي بن محمد، عن العلا، عن محمد عن
+> أبي جعفر عليه السلام قال: لا تبقى الأرض بغير إمام ظاهر أو باطن
 
 *‘Ilal al-Sharai’*: my father – al-Himyari – al-Sindi b. Muhammad –
 al-‘Ala – Muhammad – Abu Ja’far, peace be upon him:
@@ -75,26 +63,18 @@ The chain of this *hadith* is ***mu’tabar*** **(reliable)**, according
 to Ayatullah al-Muhsini.[^5] Al-Haj Muhammad Zakariya also says about
 it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^6]
 
 Al-Majlisi equally copies this report:
 
-<blockquote dir="rtl">
-  <p>
-إكمال الدين: أبي، عن محمد العطار، عن ابن يزيد، عن ابن أبي عمير، عن سعد
-ابن أبي خلف، عن يعقوب بن شعيب، عن أبي عبد الله عليه السلام قال: كان
-بين عيسى وبين محمد صلى الله عليه وآله خمسمائة عام منها مائتان وخمسون
-عاما ليس فيها نبي ولا عالم ظاهر، قلت:فما كانوا؟ قال: كانوا مستمسكين
-بدين عيسى عليه السلام، قلت: فما كانوا؟ قال: مؤمنين. ثم قال عليه
-السلام: ولا تكون الأرض إلا وفيها عالم
-  </p>
-</blockquote>
+> إكمال الدين: أبي، عن محمد العطار، عن ابن يزيد، عن ابن أبي عمير، عن سعد
+> ابن أبي خلف، عن يعقوب بن شعيب، عن أبي عبد الله عليه السلام قال: كان
+> بين عيسى وبين محمد صلى الله عليه وآله خمسمائة عام منها مائتان وخمسون
+> عاما ليس فيها نبي ولا عالم ظاهر، قلت:فما كانوا؟ قال: كانوا مستمسكين
+> بدين عيسى عليه السلام، قلت: فما كانوا؟ قال: مؤمنين. ثم قال عليه
+> السلام: ولا تكون الأرض إلا وفيها عالم
 
 *Ikmal al-Din*: my father – Muhammad al-‘Aṭṭar – Ibn Yazid – Ibn Abi
 ‘Umayr – Sa’d b. Abi Khalaf – Ya’qub b. Shu’ayb – Abu ‘Abd Allah, peace
@@ -115,11 +95,7 @@ only to the Imam, in the light of other authentic *ahadith* on the
 matter. ‘Allamah al-Tabaṭabai (d. 1412 H) confirms this too, saying
 immediately after quoting the *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-أقول: المراد بالعالم الامام الذي هو الحجة
-  </p>
-</blockquote>
+> أقول: المراد بالعالم الامام الذي هو الحجة
 
 I say: The one intended as the scholar is the Imam, the one who is the
 *Hujjah*.[^9]
@@ -136,15 +112,11 @@ strictly with the pure teachings of all the eleven Imams before him, and
 those of his, that have been authentically transmitted. Shaykh al-Saduq
 (d. 381 H) records:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبي رضي الله عنه قال: حدثنا عبد الله بن جعفر الحميري، عن أيوب بن
-نوح، عن محمد بن أبي عمير، عن جميل بن دراج، عن زرارة قال: قال أبو عبد
-الله عليه السلام: يأتي على الناس زمان يغيب عنهم إمامهم، فقلت له: ما
-يصنع الناس في ذلك الزمان؟ قال: يتمسكون بالامر الذي هم عليه حتى يتبين
-لهم.
-  </p>
-</blockquote>
+> حدثنا أبي رضي الله عنه قال: حدثنا عبد الله بن جعفر الحميري، عن أيوب بن
+> نوح، عن محمد بن أبي عمير، عن جميل بن دراج، عن زرارة قال: قال أبو عبد
+> الله عليه السلام: يأتي على الناس زمان يغيب عنهم إمامهم، فقلت له: ما
+> يصنع الناس في ذلك الزمان؟ قال: يتمسكون بالامر الذي هم عليه حتى يتبين
+> لهم.
 
 My father, may Allah be pleased with him – ‘Abd Allah b. Ja’far
 al-Himyari – Ayub b. Nuh – Muhammad b. Abi ‘Umayr – Jamil b. Darraj –
@@ -157,27 +129,19 @@ the matter upon which they are until it becomes clear to them**.”[^10]
 
 Al-Haj Muhammad Zakariya declares about it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^11]
 
 Al-Saduq further reports:
 
-<blockquote dir="rtl">
-  <p>
-حدثنا أبي، ومحمد بن الحسن بن أحمد بن الوليد رضي الله عنهما قالا: حدثنا
-محمد بن الحسن الصفار، عن العباس بن معروف، عن علي بن مهزيار، عن الحسن
-بن محبوب، عن حماد بن عيسى، عن إسحاق بن جرير، عن عبد الله بن سنان قال:
-دخلت أنا وأبي على أبي عبد الله عليه السلام فقال: فكيف أنتم إذا صرتم في
-حال لا ترون فيها إمام هدى، ولا علما يري، ولا ينجو منها إلا من دعا دعاء
-الغريق، فقال له أبي: إذا وقع هذا ليلا فكيف نصنع؟ فقال: أما أنت فلا
-تدركه، فإذا كان ذلك فتمسكوا بما في أيديكم حتى يتضح لكم الامر.
-  </p>
-</blockquote>
+> حدثنا أبي، ومحمد بن الحسن بن أحمد بن الوليد رضي الله عنهما قالا: حدثنا
+> محمد بن الحسن الصفار، عن العباس بن معروف، عن علي بن مهزيار، عن الحسن
+> بن محبوب، عن حماد بن عيسى، عن إسحاق بن جرير، عن عبد الله بن سنان قال:
+> دخلت أنا وأبي على أبي عبد الله عليه السلام فقال: فكيف أنتم إذا صرتم في
+> حال لا ترون فيها إمام هدى، ولا علما يري، ولا ينجو منها إلا من دعا دعاء
+> الغريق، فقال له أبي: إذا وقع هذا ليلا فكيف نصنع؟ فقال: أما أنت فلا
+> تدركه، فإذا كان ذلك فتمسكوا بما في أيديكم حتى يتضح لكم الامر.
 
 My father and Muhammad b. al-Hasan b. Ahmad b. al-Walid – Muhammad b.
 al-Hasan al-Saffar – al-‘Abbas b. Ma’ruf – ‘Ali b. Mahziyar – al-Hasan
@@ -194,23 +158,15 @@ your hands until the matter becomes clear to you**.”[^12]
 
 Al-Haj Muhammad Zakariya declares about it:
 
-<blockquote dir="rtl">
-  <p>
-إسناده صحيح
-  </p>
-</blockquote>
+> إسناده صحيح
 
 Its chain is *sahih*.[^13]
 
 Shaykh al-Kulayni (d. 329 H) then caps it all:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد بن عيسى، عن الحسن بن علي بن فضال عن ابن
-بكير، عن عبيد بن زرارة قال: قال أبو عبد الله عليه السلام: احتفظوا
-بكتبكم فإنكم سوف تحتاجون إليها.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد بن عيسى، عن الحسن بن علي بن فضال عن ابن
+> بكير، عن عبيد بن زرارة قال: قال أبو عبد الله عليه السلام: احتفظوا
+> بكتبكم فإنكم سوف تحتاجون إليها.
 
 Muhammad b. Yahya – Ahmad b. Muhammad b. ‘Isa – al-Hasan b. ‘Ali b.
 Fadhdhal – Ibn Bukayr – ‘Ubayd b. Zurarah:
@@ -220,21 +176,13 @@ will soon need them**.”[^14]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-موثق كالصحيح
-  </p>
-</blockquote>
+> موثق كالصحيح
 
 *Muwaththaq ka al-Sahih*[^15]
 
 Shaykh Hadi al-Najafi also states:
 
-<blockquote dir="rtl">
-  <p>
-الرواية معتبرة الإسناد
-  </p>
-</blockquote>
+> الرواية معتبرة الإسناد
 
 The report has a reliable chain.[^16]
 
@@ -258,14 +206,10 @@ seminaries only. Yet, this obligation has been imposed upon all Shi’is
 indiscriminately by Allah and His Messenger, *sallallahu ‘alaihi wa
 alihi*. Al-Kulayni says:
 
-<blockquote dir="rtl">
-  <p>
-أخبرنا محمد بن يعقوب، عن علي بن إبراهيم بن هاشم] عن أبيه [عن الحسن ابن
-أبي الحسين الفارسي، عن عبد الرحمن بن زيد، عن أبيه، عن أبي عبد الله
-عليه السلام قال: قال رسول الله عليه السلام: طلب العلم فريضة على كل
-مسلم، ألا إن الله يحب بغاة العلم
-  </p>
-</blockquote>
+> أخبرنا محمد بن يعقوب، عن علي بن إبراهيم بن هاشم] عن أبيه [عن الحسن ابن
+> أبي الحسين الفارسي، عن عبد الرحمن بن زيد، عن أبيه، عن أبي عبد الله
+> عليه السلام قال: قال رسول الله عليه السلام: طلب العلم فريضة على كل
+> مسلم، ألا إن الله يحب بغاة العلم
 
 Muhammad b. Ya’qub – ‘Ali b. Ibrahim b. Hashim – his father – al-Hasan
 b. Abi al-Husayn al-Farisi – ‘Abd al-Rahman b. Zayd – his father – Abu
@@ -296,12 +240,8 @@ Sunni books, even though all of them are *dha’if*.
 ‘Allamah Hurr al-‘Amili (d. 1104 H) also declares that the *hadith* has
 reached the level of *tawattur* :
 
-<blockquote dir="rtl">
-  <p>
-وقد ورد في النص المتواتر عنهم عليهم السلام: ان طلب العلم فريضة على كل
-مسلم، ألا وان الله يحب بغاة العلم
-  </p>
-</blockquote>
+> وقد ورد في النص المتواتر عنهم عليهم السلام: ان طلب العلم فريضة على كل
+> مسلم، ألا وان الله يحب بغاة العلم
 
 And it has been reported in the ***mutawatir*** **text** from them,
 peace be upon them: “Verily, **seeking knowledge is obligatory upon
@@ -312,12 +252,8 @@ What is meant by “knowledge” within the proper Islamic context is that
 which was revealed by Allah to Muhammad, His Messenger, as the Qur’an
 testifies:
 
-<blockquote dir="rtl">
-  <p>
-قل إن هدى الله هو الهدى ولئن اتبعت أهواءهم بعد الذي جاءك من العلم ما
-لك من الله من ولي ولا نصير
-  </p>
-</blockquote>
+> قل إن هدى الله هو الهدى ولئن اتبعت أهواءهم بعد الذي جاءك من العلم ما
+> لك من الله من ولي ولا نصير
 
 Say: “Verily, the Guidance of Allah is the only guidance”. And if you (O
 Muhammad) were to follow their desire **after what has come to you of
@@ -330,13 +266,9 @@ indirectly - from the Prophet through the Twelve Imams.
 
 Al-Kulayni also transmits:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم، عن محمد بن عيسى، عن يونس، عن جميل، عن أبي عبد الله
-عليه السلام قال: سمعته يقول يغدوا الناس على ثلاثة أصناف: عالم ومتعلم
-وغثاء، فنحن العلماء وشيعتنا المتعلمون وسائر الناس غثاء
-  </p>
-</blockquote>
+> علي بن إبراهيم، عن محمد بن عيسى، عن يونس، عن جميل، عن أبي عبد الله
+> عليه السلام قال: سمعته يقول يغدوا الناس على ثلاثة أصناف: عالم ومتعلم
+> وغثاء، فنحن العلماء وشيعتنا المتعلمون وسائر الناس غثاء
 
 ‘Ali b. Ibrahim – Muhammad b. ‘Isa – Yunus – Jamil – Abu ‘Abd Allah,
 peace be upon him:
@@ -347,21 +279,13 @@ mankind are scum”.[^21]
 
 Al-Majlisi comments:
 
-<blockquote dir="rtl">
-  <p>
-صحيح على الأظهر
-  </p>
-</blockquote>
+> صحيح على الأظهر
 
 *Sahih* upon the most apparent.[^22]
 
 Shaykh Hadi al-Najafi also says:
 
-<blockquote dir="rtl">
-  <p>
-الرواية صحيحة الإسناد
-  </p>
-</blockquote>
+> الرواية صحيحة الإسناد
 
 The report has a *sahih* chain.[^23]
 
@@ -374,14 +298,10 @@ For the avoidance of doubt, what must be studied by the Shi’ah is what
 came *directly* from the Ahl al-Bayt themselves. Al-Kulayni reports
 again:
 
-<blockquote dir="rtl">
-  <p>
-علي بن إبراهيم بن هاشم، عن محمد بن عيسى، عن يونس، عن ابن مسكان، عن
-محمد بن مسلم قال: سمعت أبا جعفر عليه السلام يقول: ليس عند أحد من الناس
-حق ولا صواب ولا أحد من الناس يقضي بقضاء حق إلا ما خرج منا أهل البيت
-وإذا تشعبت بهم الأمور كان الخطاء منهم والصواب من علي عليه السلام.
-  </p>
-</blockquote>
+> علي بن إبراهيم بن هاشم، عن محمد بن عيسى، عن يونس، عن ابن مسكان، عن
+> محمد بن مسلم قال: سمعت أبا جعفر عليه السلام يقول: ليس عند أحد من الناس
+> حق ولا صواب ولا أحد من الناس يقضي بقضاء حق إلا ما خرج منا أهل البيت
+> وإذا تشعبت بهم الأمور كان الخطاء منهم والصواب من علي عليه السلام.
 
 ‘Ali b. Ibrahim b. Hashim – Muhammad b. ‘Isa – Yunus – Ibn Muskan –
 Muhammad b. Muslim:
@@ -395,23 +315,15 @@ peace be upon him.”[^24]
 
 Al-Majlisi declares:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^25]
 
 Al-Kulayni further documents:
 
-<blockquote dir="rtl">
-  <p>
-عدة من أصحابنا. عن أحمد بن محمد، عن الوشاء، عن ثعلبة بن ميمون، عن أبي
-مريم قال قال: أبو جعفر عليه السلام لسلمة بن كهيل والحكم بن عتيبة: شرقا
-وغربا فلا تجدان علما صحيحا إلا شيئا خرج من عندنا أهل البيت.
-  </p>
-</blockquote>
+> عدة من أصحابنا. عن أحمد بن محمد، عن الوشاء، عن ثعلبة بن ميمون، عن أبي
+> مريم قال قال: أبو جعفر عليه السلام لسلمة بن كهيل والحكم بن عتيبة: شرقا
+> وغربا فلا تجدان علما صحيحا إلا شيئا خرج من عندنا أهل البيت.
 
 A number of our companions – Ahmad b. Muhammad – al-Washa – Tha’labah b.
 Maymun – Abu Maryam:
@@ -422,25 +334,17 @@ authentic knowledge except what comes from us, Ahl al-Bayt**.”[^26]
 
 Al-Majlisi again says:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^27]
 
 Al-Kulayni has more:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن أحمد بن محمد، عن الحسين بن سعيد، عن النضر بن سويد، عن
-يحيى الحلبي، عن معلى بن عثمان، عن أي بصير قال: قال لي: إن الحكم بن
-عتيبة ممن قال الله: ومن الناس من يقول آمنا بالله وباليوم الآخر وما هم
-بمؤمنين فليشرق الحكم وليغرب، أما والله لا يصيب العلم إلا من أهل بيت
-نزل عليهم جبرئيل.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن أحمد بن محمد، عن الحسين بن سعيد، عن النضر بن سويد، عن
+> يحيى الحلبي، عن معلى بن عثمان، عن أي بصير قال: قال لي: إن الحكم بن
+> عتيبة ممن قال الله: ومن الناس من يقول آمنا بالله وباليوم الآخر وما هم
+> بمؤمنين فليشرق الحكم وليغرب، أما والله لا يصيب العلم إلا من أهل بيت
+> نزل عليهم جبرئيل.
 
 Muhammad b. Yahya – Ahmad b. Muhammad – al-Husayn b. Sa’id – al-Nadhr b.
 Suwayd – Yahya al-Halabi – Mu’alla b. ‘Uthman – Abu Basir:
@@ -454,11 +358,7 @@ to whom Jibril descended**.”[^28]
 
 Al-Majlisi states:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^29]
 
@@ -473,13 +373,9 @@ have directed that the trustworthy scholars of *hadith* must be
 contacted. We go to them to ask the authentic *ahadith* of the Ahl
 al-Bayt on specific situations. ‘Allamah al-Subhani submits:
 
-<blockquote dir="rtl">
-  <p>
-روى الكشي بسند صحيح عن علي بن المسيب قال :قلت للرضا عليه السلام: شقتي
-بعيدة ولست أصل إليك في كل وقت، فعمن آخذ معالم ديني؟ فقال: من زكريا بن
-آدم القمي، المأمون على الدين والدنيا
-  </p>
-</blockquote>
+> روى الكشي بسند صحيح عن علي بن المسيب قال :قلت للرضا عليه السلام: شقتي
+> بعيدة ولست أصل إليك في كل وقت، فعمن آخذ معالم ديني؟ فقال: من زكريا بن
+> آدم القمي، المأمون على الدين والدنيا
 
 Al-Kishi narrated **with a** ***sahih*** **chain** from ‘Ali b.
 al-Musayyab, who said:
@@ -491,17 +387,13 @@ the teachings of my religion?” He said, “From Zakariya b. Adam al-Qummi,
 
 ‘Allamah al-Khui (d. 1411 H) has this further submission:
 
-<blockquote dir="rtl">
-  <p>
-ما رواه محمد بن يعقوب بسند صحيح، عن أبي علي أحمد بن إسحاق، عن أبي
-الحسن عليه السلام، قال: سألته، وقلت: من أعامل أو عمن آخذ؟ وقول من
-أقبل؟ فقال له: العمري ثقتي، فما أدى إليك عني فعني يؤدي، وما قال لك عني
-فعني يقول، فاسمع له وأطع، فإنه الثقة المأمون .وسأل أبو علي أبا محمد
-عليه السلام عن مثل ذلك، فقال له: العمري وابنه ثقتان، فما أديا إليك عني
-فعني يؤديان، وما قالا لك فعني يقولان، فاسمع لهما وأطعهما، فإنهما
-الثقتان المأمونان.
-  </p>
-</blockquote>
+> ما رواه محمد بن يعقوب بسند صحيح، عن أبي علي أحمد بن إسحاق، عن أبي
+> الحسن عليه السلام، قال: سألته، وقلت: من أعامل أو عمن آخذ؟ وقول من
+> أقبل؟ فقال له: العمري ثقتي، فما أدى إليك عني فعني يؤدي، وما قال لك عني
+> فعني يقول، فاسمع له وأطع، فإنه الثقة المأمون .وسأل أبو علي أبا محمد
+> عليه السلام عن مثل ذلك، فقال له: العمري وابنه ثقتان، فما أديا إليك عني
+> فعني يؤديان، وما قالا لك فعني يقولان، فاسمع لهما وأطعهما، فإنهما
+> الثقتان المأمونان.
 
 .  
  What Muhammad b. Ya’qub has narrated **with a** ***sahih*** **chain**,
@@ -529,16 +421,12 @@ that they could transmit to us – directly or indirectly - the authentic
 
 Shaykh al-Kashi (d. 370 H) records as well:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن مسعود، قال: حدثني محمد بن نصير، قال: حدثنا محمد ابن عيسى، قال:
-حدثني عبد العزيز بن المهتدي القمي، قال محمد بن نصير: قال محمد بن عيسى،
-وحدث الحسن بن علي بن يقطين، بذلك أيضا، قال، قلت لأبي الحسن الرضا عليه
-السلام: جعلت فداك اني لا أكاد أصل إليك أسألك عن كل ما أحتاج إليه من
-معالم ديني، أفيونس بن عبد الرحمن ثقة آخذ عنه ما احتاج إليه من معالم
-ديني؟ فقال: نعم.
-  </p>
-</blockquote>
+> محمد بن مسعود، قال: حدثني محمد بن نصير، قال: حدثنا محمد ابن عيسى، قال:
+> حدثني عبد العزيز بن المهتدي القمي، قال محمد بن نصير: قال محمد بن عيسى،
+> وحدث الحسن بن علي بن يقطين، بذلك أيضا، قال، قلت لأبي الحسن الرضا عليه
+> السلام: جعلت فداك اني لا أكاد أصل إليك أسألك عن كل ما أحتاج إليه من
+> معالم ديني، أفيونس بن عبد الرحمن ثقة آخذ عنه ما احتاج إليه من معالم
+> ديني؟ فقال: نعم.
 
 Muhammad b. Mas’ud – Muhammad b. Nasir – Muhammad b. ‘Isa – ‘Abd
 al-‘Aziz b. al-Muhtadi al-Qummi:
@@ -554,11 +442,7 @@ whatever I need from the teachings of my religion?**” He said,
 
 Commenting on this narration, ‘Allamah al-Khui says:
 
-<blockquote dir="rtl">
-  <p>
-أقول: هذه الرواية صحيحة.
-  </p>
-</blockquote>
+> أقول: هذه الرواية صحيحة.
 
 I say: This report is *sahih*.[^33]
 
@@ -567,14 +451,10 @@ This is like the last in its imports and implications.
 Meanwhile, these roles of *hadith* transmission also extends into
 judicial matters. Shaykh al-Kulayni documents:
 
-<blockquote dir="rtl">
-  <p>
-الحسين بن محمد، عن معلى بن محمد، عن الحسن بن علي، عن أبي خديجة قال
-:قال لي أبو عبد الله عليه السلام: إياكم أن يحاكم بعضكم بعضا إلى أهل
-الجور ولكن انظروا إلى رجل منكم يعلم شيئا من قضائنا فاجعلوه بينكم فإني
-قد جعلته قاضيا فتحاكموا إليه.
-  </p>
-</blockquote>
+> الحسين بن محمد، عن معلى بن محمد، عن الحسن بن علي، عن أبي خديجة قال
+> :قال لي أبو عبد الله عليه السلام: إياكم أن يحاكم بعضكم بعضا إلى أهل
+> الجور ولكن انظروا إلى رجل منكم يعلم شيئا من قضائنا فاجعلوه بينكم فإني
+> قد جعلته قاضيا فتحاكموا إليه.
 
 Al-Husayn b. Muhammad – Mu’alla b. Muhammad – al-Hasan b. ‘Ali – Abu
 Khadijah:
@@ -587,11 +467,7 @@ judge. Therefore, take your cases to him** **for judgment**.”[^34]
 
 Ayatullah Sadiq al-Ruhani declares about this *hadith*:
 
-<blockquote dir="rtl">
-  <p>
-صحيح
-  </p>
-</blockquote>
+> صحيح
 
 *Sahih*[^35]
 
@@ -603,19 +479,15 @@ adjudicate between Shi’is.
 
 Al-Kulayni provides a *shahid* as well:
 
-<blockquote dir="rtl">
-  <p>
-محمد بن يحيى، عن محمد بن الحسين، عن محمد بن عيسى، عن صفوان، عن داود بن
-الحصين، عن عمر بن حنظلة قال: سألت أبا عبد الله عليه السلام عن رجلين من
-أصحابنا يكون بينهما منازعة في دين أو ميراث فتحاكما إلى السلطان أو إلى
-القضاة أيحل ذلك؟ فقال: من تحاكم إلى الطاغوت فحكم له فإنما يأخذ سحتا
-وإن كان حقه ثابتا لأنه أخذ بحكم الطاغوت وقد أمر الله أن يكفر به قلت:
-كيف يصنعان قال: انظروا إلى من كان منكم قد روى حديثنا ونظر في حلالنا
-وحرامنا وعرف أحكامنا فارضوا به حكما فإني قد جعلته عليكم حاكما فإذا حكم
-بحكمنا فلم يقبله منه فإنما بحكم الله قد استخف وعلينا رد والراد علينا
-الراد على الله وهو على حد الشرك بالله.
-  </p>
-</blockquote>
+> محمد بن يحيى، عن محمد بن الحسين، عن محمد بن عيسى، عن صفوان، عن داود بن
+> الحصين، عن عمر بن حنظلة قال: سألت أبا عبد الله عليه السلام عن رجلين من
+> أصحابنا يكون بينهما منازعة في دين أو ميراث فتحاكما إلى السلطان أو إلى
+> القضاة أيحل ذلك؟ فقال: من تحاكم إلى الطاغوت فحكم له فإنما يأخذ سحتا
+> وإن كان حقه ثابتا لأنه أخذ بحكم الطاغوت وقد أمر الله أن يكفر به قلت:
+> كيف يصنعان قال: انظروا إلى من كان منكم قد روى حديثنا ونظر في حلالنا
+> وحرامنا وعرف أحكامنا فارضوا به حكما فإني قد جعلته عليكم حاكما فإذا حكم
+> بحكمنا فلم يقبله منه فإنما بحكم الله قد استخف وعلينا رد والراد علينا
+> الراد على الله وهو على حد الشرك بالله.
 
 Muhammad b. Yahya – Muhammad b. al-Husayn – Muhammad b. ‘Isa – Safwan –
 Dawud b. al-Husayn – ‘Umar b. Hanzalah:
@@ -641,36 +513,24 @@ act of rejection) is equivalent to *shirk* (idolatry) with Allah.”[^36]
 
 Al-Majlisi says about it:
 
-<blockquote dir="rtl">
-  <p>
-موثق
-  </p>
-</blockquote>
+> موثق
 
 *Muwaththaq*.[^37]
 
 Hadi al-Najafi also declares:
 
-<blockquote dir="rtl">
-  <p>
-الرواية مقبولة الإسناد
-  </p>
-</blockquote>
+> الرواية مقبولة الإسناد
 
 The report has an acceptable chain[^38]
 
 And Ayatullah Sadiq al-Ruhani has some additional comments about the
 same *riwayah*:
 
-<blockquote dir="rtl">
-  <p>
-وتضعيف الخبر كما عن بعض لا وجه له، لأنه ليس في السند من يتوقف فيه سوى
-داود بن الحصين وقد وثقه النجاشي فلو ثبت ما عن الشيخ - ره - من وقفه
-فالخبر موثق. وعمر بن حنظلة وقد وثقه جماعة منهم الشهيد الثاني - ره -
-وورد في مدحه روايات وكثير من الأجلاء يروون عنه مع أن الراوي عنهما
-صفوان بن يحيى وهو ممن أجمعت العصابة على تصحيح ما يصح عنهم
-  </p>
-</blockquote>
+> وتضعيف الخبر كما عن بعض لا وجه له، لأنه ليس في السند من يتوقف فيه سوى
+> داود بن الحصين وقد وثقه النجاشي فلو ثبت ما عن الشيخ - ره - من وقفه
+> فالخبر موثق. وعمر بن حنظلة وقد وثقه جماعة منهم الشهيد الثاني - ره -
+> وورد في مدحه روايات وكثير من الأجلاء يروون عنه مع أن الراوي عنهما
+> صفوان بن يحيى وهو ممن أجمعت العصابة على تصحيح ما يصح عنهم
 
 **The weakening of the report, as done by some, has no basis**. This is
 because there is none in the chain about whom caution is exercised
@@ -826,5 +686,4 @@ al-Turath al-‘Arabi; 1st edition, 1423 H), vol. 5, p. 323, \# 6114
 
 [^39]: Muhammad Sadiq al-Husayni al-Ruhani, Fiqh al-Sadiq (Qum:
 Muasassat Dar al-Kitab; 3rd edition, 1414 H), vol. 25, pp. 25-26
-
 

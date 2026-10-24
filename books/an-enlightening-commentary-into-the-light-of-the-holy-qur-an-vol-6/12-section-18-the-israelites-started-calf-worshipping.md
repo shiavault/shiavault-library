@@ -4,13 +4,9 @@ Section 18: The Israelites Started Calf Worshipping
 Surah al-‘Araf – Verse 148
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتَّخَذَ قَوْمُ مُوسَىٰ مِن بَعْدِهِ مِنْ حُلِيِّهِمْ عِجْلًا
-جَسَدًا لَّهُ خُوَارٌ ۚ أَلَمْ يَرَوْا أَنَّهُ لَا يُكَلِّمُهُمْ وَلَا
-يَهْدِيهِمْ سَبِيلًا ۘ اتَّخَذُوهُ وَكَانُوا ظَالِمِينَ
-  </p>
-</blockquote>
+> وَاتَّخَذَ قَوْمُ مُوسَىٰ مِن بَعْدِهِ مِنْ حُلِيِّهِمْ عِجْلًا
+> جَسَدًا لَّهُ خُوَارٌ ۚ أَلَمْ يَرَوْا أَنَّهُ لَا يُكَلِّمُهُمْ وَلَا
+> يَهْدِيهِمْ سَبِيلًا ۘ اتَّخَذُوهُ وَكَانُوا ظَالِمِينَ
 
 **148.** ***“And the people of Moses made of their ornaments a calf
 after him, a (mere) body that lowed.*** ***Did they not see that it
@@ -48,13 +44,9 @@ says:
 Surah al-‘Araf – Verse 149
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا
-قَالُوا لَئِن لَمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ
-مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا
+> قَالُوا لَئِن لَمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ
+> مِنَ الْخَاسِرِينَ
 
 ***149. “And when they smote their hands and saw that they had gone
 astray, they said: ‘Should our Lord have not mercy on us and forgive us
@@ -76,16 +68,12 @@ of a cow, was heard from the mouth of that calf.
 Surah al-‘Araf – Verse 150
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا رَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ
-بِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ
-وَأَلْقَى الْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ ۚ
-قَالَ ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا
-يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ
-الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَلَمَّا رَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ
+> بِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ
+> وَأَلْقَى الْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ ۚ
+> قَالَ ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا
+> يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ
+> الْقَوْمِ الظَّالِمِينَ
 
 **150.** ***“And when Moses returned (from the Mountain) unto his
 people, wrathful (and) grieved, he said: ‘Evil it is that you have done
@@ -142,12 +130,8 @@ me, and do not count me among the unjust people.”***
 Surah al-‘Araf – Verse 151
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبِّ اغْفِرْ لِي وَلاَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ
-أَرْحَمُ الرَّاحِمِينَ
-  </p>
-</blockquote>
+> قَالَ رَبِّ اغْفِرْ لِي وَلاَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ
+> أَرْحَمُ الرَّاحِمِينَ
 
 **151.** ***“He (Moses) said (praying):*** ***‘O’ Lord! forgive me and
 my brother and admit us into*** ***Your Mercy, and You are the most
@@ -168,5 +152,4 @@ hatred upon the hideous actions of the idol-worshippers.
 It is also a lesson for others to learn and contemplate where Moses and
 his brother (as), who had no perversion, asked Allah for such a
 remission, they must certainly be aware of their own reckonings.
-
 

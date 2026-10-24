@@ -728,4 +728,3 @@ this wish is fulfilled, obviously, the inheritors engage in luxuries and
 forget their late father whose wealth gave them ease and thus, they
 never think of doing something good for him.
 
-

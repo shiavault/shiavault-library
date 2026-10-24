@@ -3,21 +3,13 @@
 
 Allah, the Wise, says:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ بِذِکْرِ اللهِ تَطْمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> أَلاَ بِذِکْرِ اللهِ تَطْمَئِنُّ الْقُلُوبُ
 
 *“Now surely by Allah's remembrance are the hearts set at rest.”*[^1]
 
 Allah said to Musa (a.s):
 
-<blockquote dir="rtl">
-  <p>
-لاَ تَدَعْ ذِکرِي عَلىَ کُلِّ حاَلٍ.
-  </p>
-</blockquote>
+> لاَ تَدَعْ ذِکرِي عَلىَ کُلِّ حاَلٍ.
 
 *“Under no circumstance (should you) abandon My remembrance.”*[^2]
 
@@ -211,11 +203,7 @@ accept Islam.
 One day, in a state of fast, as she recited the chapter al-Anam of the
 Noble Qur\`an, upon reciting the verse:
 
-<blockquote dir="rtl">
-  <p>
-لَهُمْ دَارُ السَّلاَمِ عِنْدَ رَبِّـهِمْ
-  </p>
-</blockquote>
+> لَهُمْ دَارُ السَّلاَمِ عِنْدَ رَبِّـهِمْ
 
 “They shall have the abode of peace with their Lord”
 
@@ -240,5 +228,4 @@ presence there.”[^7]
 
 [^7]: Shagirdan-e-Maktab-e-Aimmah, pg. 168; Wafiyyat al-A’yan, vol. 5,
 pg. 56
-
 

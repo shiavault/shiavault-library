@@ -763,7 +763,5 @@ of circumambulation, the ritual prayers, the standing on ‘Arafat are all
 worship. There are many other benefits of making the Hajj which are
 mentioned elsewhere in more detail.1
 
-
 1 See, for instance, the author’s ‘Ibadat al-Islam .
-
 

@@ -287,4 +287,3 @@ Materialism), p. 154.
 
 [^9]: Ibid., p. 224.
 
-

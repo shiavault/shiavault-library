@@ -396,4 +396,3 @@ Islam, but there are many other matters of grave importance, such as the
 many practices of purity, modesty, and justice. But these are all
 implicit in the one great principle that God is one.
 
-

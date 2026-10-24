@@ -303,4 +303,3 @@ Hafsah, daughter of \`Umar, to the foolish women who jealously taunted
 the wife of the Egyptian ruler for her in­fatuation with Joseph's
 beauty. See Qur'an 12 : 30 ‑ 31.
 
-

@@ -6,19 +6,11 @@ because he had purchased some prisoners of Banu Najiyah from an
 executive of Amir al-mu’minin, but when he demanded the price the latter
 avoided and ran to Syria, Amir al-mu’minin said:*
 
-<blockquote dir="rtl">
-  <p>
-ومن كلام له (عليه السلام)
-  </p>
-</blockquote>
+> ومن كلام له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-لمّا هرب مَصْقَلة بنُ هُبيرة الشيباني إلى معاوية، وكان قد ابتاع سَبْيَ
-بني ناجية من عامل أميرالمؤمنين (عليه السلام) وأعتقهم، فلمّا طالبه(عليه
-السلام) بالمال خاس به وهرب إلى الشام،
-  </p>
-</blockquote>
+> لمّا هرب مَصْقَلة بنُ هُبيرة الشيباني إلى معاوية، وكان قد ابتاع سَبْيَ
+> بني ناجية من عامل أميرالمؤمنين (عليه السلام) وأعتقهم، فلمّا طالبه(عليه
+> السلام) بالمال خاس به وهرب إلى الشام،
 
 Allah may be bad to Masqalah. He acted like the noble but fled away like
 a slave. Before his admirer could speak (about him) he silenced him and
@@ -26,14 +18,10 @@ before his eulogist could testify to his good deeds he closed his mouth.
 If he had stayed behind we would have taken from him what he could
 easily pay and waited for the balance till his money increased.
 
-<blockquote dir="rtl">
-  <p>
-قَبَّحَ اللهُ مَصْقَلَةَ! فَعَلَ فِعْلَ السَّادَةِ، وَفَرَّ فِرَارَ
-الْعَبِيدِ! فَمَا أَنْطَقَ مَادِحَهُ حَتَّى أَسْكَتَهُ، وَلاَ صَدَّقَ
-وَاصِفَهُ حَتَّى بَكَّتَهُ، وَلَو أَقَامَ لاَخَذْنَا مَيْسُورَهُ،
-وَانْتَظَرْنا بِمَالِهِ وُفُورَهُ.
-  </p>
-</blockquote>
+> قَبَّحَ اللهُ مَصْقَلَةَ! فَعَلَ فِعْلَ السَّادَةِ، وَفَرَّ فِرَارَ
+> الْعَبِيدِ! فَمَا أَنْطَقَ مَادِحَهُ حَتَّى أَسْكَتَهُ، وَلاَ صَدَّقَ
+> وَاصِفَهُ حَتَّى بَكَّتَهُ، وَلَو أَقَامَ لاَخَذْنَا مَيْسُورَهُ،
+> وَانْتَظَرْنا بِمَالِهِ وُفُورَهُ.
 
 Alternative Sources for Sermon 44
 ---------------------------------
@@ -118,5 +106,4 @@ considerate to him in demanding the price and would have waited for
 improvement of his financial condition, but he fled away like slaves
 after displaying a showy act. Talk about his high perseverance had just
 started when people began to discuss his baseless and lowliness."
-
 

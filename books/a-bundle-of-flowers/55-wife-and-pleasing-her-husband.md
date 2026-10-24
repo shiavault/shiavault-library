@@ -54,4 +54,3 @@ Then, he answered her: "That she obeys him and does not offend him!"
 
 Wasa'il-ush Shi'ah, vol. 10, p. 527
 
-

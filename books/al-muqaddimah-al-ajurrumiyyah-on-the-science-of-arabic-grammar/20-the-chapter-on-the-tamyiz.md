@@ -33,4 +33,3 @@ noble than youfather -wise and more handsome than youface -wise)
 It does not occur except as an Ism Nakirah and does not occur except
 after the completion of the Kalām.
 
-

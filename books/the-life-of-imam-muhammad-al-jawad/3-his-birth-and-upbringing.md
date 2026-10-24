@@ -540,4 +540,3 @@ generosity, so that travelers and wayfarers could resort to them.
 
 [^43]: Kash al-Ghummah, vol.3 p.160.
 
-

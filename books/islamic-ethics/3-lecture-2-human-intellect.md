@@ -1,27 +1,15 @@
 Lecture 2: Human Intellect
 ==========================
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
-  </p>
-</blockquote>
+> فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
 
 ***Now let man but think from what he is created!***
 
-<blockquote dir="rtl">
-  <p>
-خُلِقَ مِن مَّاء دَافِقٍ
-  </p>
-</blockquote>
+> خُلِقَ مِن مَّاء دَافِقٍ
 
 ***He is created from a drop emitted-***
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
-  </p>
-</blockquote>
+> يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
 
 Proceeding from between the backbone and the ribs[^1]22
 
@@ -304,5 +292,4 @@ to the unbeliever's grave are Nakīr and Munkar.
 [^5]: Refer to 3:133 and 26:90.
 
 [^6]: Refer to 104:3.
-
 

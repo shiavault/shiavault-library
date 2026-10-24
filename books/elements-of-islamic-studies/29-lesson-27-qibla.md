@@ -44,4 +44,3 @@ than 90 degrees on either side, the prayer is not to be repeated.
 9. It is unlawful to face qibla, or to keep the qibla on the back-side,
 when sitting in the toilet.
 
-

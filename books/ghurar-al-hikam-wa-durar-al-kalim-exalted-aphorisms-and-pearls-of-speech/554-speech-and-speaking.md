@@ -8,32 +8,20 @@ too much [of it] is babble and too little is inarticulateness and
 speechlessness.
 
 > 1ـ اَلكَلامُ بَيْنَ خَلَّتَيْ سَوْء: هُما الإكْثارُ، والإقْلالُ،
-<blockquote dir="rtl">
-  <p>
-فَالإكْثارُ هَذَرٌ، وَالإقْلالُ عَيٌّ وحَصَرٌ.
-  </p>
-</blockquote>
+> فَالإكْثارُ هَذَرٌ، وَالإقْلالُ عَيٌّ وحَصَرٌ.
 
 2. Speaking too much makes the wise one stumble and makes the tolerant
 one weary, therefore do not talk so much that others get fed up and do
 not be so reticent that you are humiliated.
 
 > 2ـ اَلإكْثارُ يُزِلُّ الحَكيمَ، ويُمِلُّ الحَليمَ، فَلا تُـكْثِرْ
-<blockquote dir="rtl">
-  <p>
-فَتُضْجِرْ، ولاتُفَرِّطْ فَتُهَنْ.
-  </p>
-</blockquote>
+> فَتُضْجِرْ، ولاتُفَرِّطْ فَتُهَنْ.
 
 3. Speech is in your control as long as you have not uttered it, but
 once you utter it you become shackled by it.
 
 > 3ـ اَلكَلامُ في وَثاقِكَ ما لَمْ تَتَكَلَّمْ بِهِ، فَإذا تَكَلَّمْتَ
-<blockquote dir="rtl">
-  <p>
-صِرْتَ في وَثاقِهِ.
-  </p>
-</blockquote>
+> صِرْتَ في وَثاقِهِ.
 
 4. Speech is like medicine, a little of it is beneficial but too much of
 it can be fatal.
@@ -57,31 +45,19 @@ it can be fatal.
 about weariness.
 
 > 8ـ إيّاكَ وكَثْرَةَ الكَلامِ، فَإنَّهُ يُكْثِرُ الزَّلَلَ، ويُورِثُ
-<blockquote dir="rtl">
-  <p>
-المَلَلَ.
-  </p>
-</blockquote>
+> المَلَلَ.
 
 9. Beware of excessive [and impertinent] speech, for indeed it manifests
 your hidden flaws and provokes your silent enemies.
 
 > 9ـ إيّاكَ وفُضُولَ الكَلامِ، فَإنَّهُ يُظْهِرُ مِنْ عُيُوبِكَ ما
-<blockquote dir="rtl">
-  <p>
-بَطَنَ، ويُحَرِّكُ عَلَيْكَ مِنْ أعْدائِكَ ما سَكَنَ.
-  </p>
-</blockquote>
+> بَطَنَ، ويُحَرِّكُ عَلَيْكَ مِنْ أعْدائِكَ ما سَكَنَ.
 
 10. Beware of speech which is offensive, for indeed it confines you to
 [the company of] vile people and repels the honourable ones from you.
 
 > 10ـ إيّاكَ وما يُسْتَهْجَنُ مِنَ الكَلامِ، فَإنَّهُ يَحْبِسُ (يَحيسُ)
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ اللِّئامَ، ويُنَفِّرُ عَنْكَ الكِرامَ.
-  </p>
-</blockquote>
+> عَلَيْكَ اللِّئامَ، ويُنَفِّرُ عَنْكَ الكِرامَ.
 
 11. Beware of speaking about something whose way you are unfamiliar with
 and whose reality you are unaware of, for indeed your speech indicates
@@ -91,14 +67,10 @@ and make your speech concise to [the extent of] what is deemed good, for
 indeed this is more beautiful for you and more indicative of your merit.
 
 > 11ـ إيّاكَ والكَلامَ فيما لاتَعْرِفُ طريقَتَهُ، ولاتَعْلَمُ
-<blockquote dir="rtl">
-  <p>
-حَقيقَتَهُ، فَإنَّ قَوْلَكَ يَدُلُّ عَلى عَقْلِكَ، وعِبارَتَكَ
-تُنْبِئُ عَنْ مَعْرِفَتِكَ، فَتَوَقَّ مِنْ طُولِ لِسانِكَ ما
-أمِنْتَهُ، واخْتَصِرْ مِنْ كَلامِكَ مَا اسْتَحْسَنْتَهُ، فَإنَّهُ بِكَ
-أجْمَلُ وعَلى فَضْلِكَ أدَلُّ.
-  </p>
-</blockquote>
+> حَقيقَتَهُ، فَإنَّ قَوْلَكَ يَدُلُّ عَلى عَقْلِكَ، وعِبارَتَكَ
+> تُنْبِئُ عَنْ مَعْرِفَتِكَ، فَتَوَقَّ مِنْ طُولِ لِسانِكَ ما
+> أمِنْتَهُ، واخْتَصِرْ مِنْ كَلامِكَ مَا اسْتَحْسَنْتَهُ، فَإنَّهُ بِكَ
+> أجْمَلُ وعَلى فَضْلِكَ أدَلُّ.
 
 12. There is no benefit in speech without action.
 
@@ -116,32 +88,20 @@ indeed this is more beautiful for you and more indicative of your merit.
 speak the truth the most and are most patient in acting upon it.
 
 > 15ـ أشْبَهُ النّاسِ بِأنْبِياءِ اللّهِ أقْوَلُهُمْ لِلْحَقِّ،
-<blockquote dir="rtl">
-  <p>
-وأصْبَرُهُمْ عَلَى العَمَلِ بِهِ.
-  </p>
-</blockquote>
+> وأصْبَرُهُمْ عَلَى العَمَلِ بِهِ.
 
 16. The closest of servants to Allah, the Glorified, is one who speaks
 the truth even if it is against him and one who acts upon the truth even
 if there is something he dislikes in it.
 
 > 16ـ أقْرَبُ العِبادِ إلَى اللّهِ تَعالى أقْوَلُهُمْ لِلْحَقِّ وإنْ
-<blockquote dir="rtl">
-  <p>
-كانَ عَلَيْهِ، وأعْمَلُهُمْ بِالحَقِّ وإنْ كانَ فيهِ كُرْهُهُ.
-  </p>
-</blockquote>
+> كانَ عَلَيْهِ، وأعْمَلُهُمْ بِالحَقِّ وإنْ كانَ فيهِ كُرْهُهُ.
 
 17. It is worse than inarticulateness for one to speak more than [what]
 is necessary.
 
 > 17ـ أقْبَحُ مِنَ الْعَيِّ الزِّيادَةُ عَلَى المَنْطِقِ عَنْ مَوْضِعِ
-<blockquote dir="rtl">
-  <p>
-الحاجَةِ.
-  </p>
-</blockquote>
+> الحاجَةِ.
 
 18. The most accurate shot is speech that is prudent.
 
@@ -151,21 +111,13 @@ is necessary.
 understood by [both] the elite and the general public.
 
 > 19ـ أحْسَنُ الكَلامِ ما زانَهُ حُسْنُ النِّظامِ، وفَهِمَهُ الخاصُّ
-<blockquote dir="rtl">
-  <p>
-وَالعامُّ.
-  </p>
-</blockquote>
+> وَالعامُّ.
 
 20. The most conveying eloquent speech is that which is easily passed on
 [and understood] correctly and which is appropriately concise.
 
 > 20ـ أبْلَغُ البَلاغَةِ ما سَهُلَ فِي الصَّوابِ مَجازُهُ، وحَسُنَ
-<blockquote dir="rtl">
-  <p>
-إيجازُهُ.
-  </p>
-</blockquote>
+> إيجازُهُ.
 
 21. The most honourable speech is the truth.
 
@@ -175,11 +127,7 @@ understood by [both] the elite and the general public.
 not difficult for the minds to comprehend.
 
 > 22ـ أحْسَنُ الكَلامِ ما لاتَمُجُّهُ الآذانُ، ولايُتْعِبُ فَهْمُهُ
-<blockquote dir="rtl">
-  <p>
-الأفْهامَ (الأذهانَ).
-  </p>
-</blockquote>
+> الأفْهامَ (الأذهانَ).
 
 23. Verily polite speech and the propagation of peace are forms of
 worship.
@@ -191,11 +139,7 @@ the preference of action over speech is indeed a beauty and an
 adornment.
 
 > 24ـ إنَّ فَضْلَ القَوْلِ عَلَى الفِعْلِ لَهُجْنَةٌ، وإنَّ فَضْلَ
-<blockquote dir="rtl">
-  <p>
-الفِعْلِ عَلَى القَوْلِ لَجَمالٌ وزينَةٌ.
-  </p>
-</blockquote>
+> الفِعْلِ عَلَى القَوْلِ لَجَمالٌ وزينَةٌ.
 
 25. The practice of the wicked is [using] vulgar speech.
 
@@ -226,22 +170,14 @@ him in this world nor for which reward is written for him in the
 Hereafter.
 
 > 31ـ عَجِبْتُ لِمَنْ يَتَكَلَّمُ بِما لايَنْفَعُهُ في دُنْياهُ،
-<blockquote dir="rtl">
-  <p>
-ولايُكْتَبُ لَهُ أجْرُهُ في أُخْراهُ.
-  </p>
-</blockquote>
+> ولايُكْتَبُ لَهُ أجْرُهُ في أُخْراهُ.
 
 32. Eschew speaking about that which you do not know, and making
 statements about that which you are not responsible for, and hold
 yourself back from a path when you fear its deviation.
 
 > 32ـ دَعِ القَوْلَ فيما لاتَعْرِفُ، والخِطابَ فيما لَمْ تُكَلَّفْ،
-<blockquote dir="rtl">
-  <p>
-وأمْسِكْ عَلى طَريق إذا خِفْتَ ضِلالَتَهُ.
-  </p>
-</blockquote>
+> وأمْسِكْ عَلى طَريق إذا خِفْتَ ضِلالَتَهُ.
 
 33. Many an utterance is hurtful.
 
@@ -326,11 +262,7 @@ its meanings are reduced, so no end is seen for it and nobody benefits
 from it.
 
 > 52ـ كَثْرَةُ الكَلامِ يَبْسُطُ حَواشِيَهُ، وتَنْقُصُ مَعانِيَهُ، فَلا
-<blockquote dir="rtl">
-  <p>
-يُرى لَهُ أمَدٌ، ولا يَنْتَفِعُ بِهِ أحَدٌ.
-  </p>
-</blockquote>
+> يُرى لَهُ أمَدٌ، ولا يَنْتَفِعُ بِهِ أحَدٌ.
 
 53. For every statement there is a reply.
 
@@ -370,11 +302,7 @@ destruction] is removed from his action.
 increases his silliness.
 
 > 61ـ مَنْ كَثُرَ كَلامُهُ كَثُرَ لَغَطُهُ، ومَنْ كَثُرَ هَزْلُهُ كَثُرَ
-<blockquote dir="rtl">
-  <p>
-سُخْفُهُ.
-  </p>
-</blockquote>
+> سُخْفُهُ.
 
 62. One who does not make his speech appropriate (or is not able to bear
 [others’] speech) does not hear beautiful words.
@@ -391,12 +319,8 @@ tongue, its form is letters, its soul is [its] meaning, its adornment is
 [correct] syntax and its order is appositeness.
 
 > 64ـ مَغْرَسُ الكَلامِ القَلْبُ، ومَسْتَوْدَعُهُ الْفِكْرُ ومُقَوِّيهِ
-<blockquote dir="rtl">
-  <p>
-العَقْلُ، ومُبْديهِ اللِّسانُ، وجِسْمُهُ الحُرُوفُ، ورُوحُهُ المَعْنى،
-وحِلْيَتُهُ الإعْرابُ، ونِظامُهُ الصَّوابُ.
-  </p>
-</blockquote>
+> العَقْلُ، ومُبْديهِ اللِّسانُ، وجِسْمُهُ الحُرُوفُ، ورُوحُهُ المَعْنى،
+> وحِلْيَتُهُ الإعْرابُ، ونِظامُهُ الصَّوابُ.
 
 65. Never say anything the reply for which will hurt you.
 
@@ -423,31 +347,19 @@ sufficient ignorance.
 truth lies in that which you do not know.
 
 > 70ـ لاتَقُولُوا فيما لاتَعْرِفُونَ، فَإنَّ أكْثَرَ الحَقِّ فيما
-<blockquote dir="rtl">
-  <p>
-تُنْكِرُونَ.
-  </p>
-</blockquote>
+> تُنْكِرُونَ.
 
 71. Do not relate to the people all that you hear, for this suffices as
 silliness (or foolishness).
 
 > 71ـ لاتُحَدِّثِ النّاسَ بِكُلِّ ما تَسْمَعُ فَكَفى بِذلِكَ خُرْقاً
-<blockquote dir="rtl">
-  <p>
-(حُمْقاً).
-  </p>
-</blockquote>
+> (حُمْقاً).
 
 72. Do not contest all that the people relate to you, for this suffices
 as foolishness.
 
 > 72ـ لاتَرُدَّ عَلَى النّاسِ كُلَّما حَدَّثُوكَ، فَكَفى بِذلِكَ
-<blockquote dir="rtl">
-  <p>
-حُمْقاً.
-  </p>
-</blockquote>
+> حُمْقاً.
 
 73. Never say that which conforms to your vain desire, even if you say
 it playfully or assume it to be idle talk, for many a playful talk may
@@ -455,12 +367,8 @@ alienate a freeman from you and [many] an idle talk may bring evil
 [consequences] upon you.
 
 > 73ـ لاتَقُولَنَّ ما يُوافِقُ هَواكَ، وإنْ قُلْتَهُ لَهْواً أوْ
-<blockquote dir="rtl">
-  <p>
-خِلْتَهُ لَغْواً، فَرُبَّ لَهْو يُوحِشُ مِنْكَ حَرّاً، ولَغْو يَجلُبُ
-عَلَيْكَ شَرّاً.
-  </p>
-</blockquote>
+> خِلْتَهُ لَغْواً، فَرُبَّ لَهْو يُوحِشُ مِنْكَ حَرّاً، ولَغْو يَجلُبُ
+> عَلَيْكَ شَرّاً.
 
 74. Never speak when you cannot find an appropriate situation to speak.
 
@@ -481,22 +389,14 @@ free of the failure that attaches itself to you and the blame that you
 earn.
 
 > 77ـ لاتَقُولَنَّ ما لاتَفْعَلُهُ، فَإنَّكَ لَنْ تَخْلُوَ في ذلِكَ مِنْ
-<blockquote dir="rtl">
-  <p>
-عَجْز يَلْزَمُكَ، وذَمّ تَكْسِبُهُ.
-  </p>
-</blockquote>
+> عَجْز يَلْزَمُكَ، وذَمّ تَكْسِبُهُ.
 
 78. Do not say that which you do not know, for indeed Allah, the
 Glorified, has prescribed obligations upon all your body parts which He
 will use as proof against you.
 
 > 78ـ لاتَقُلْ ما لاتَعْلَمُ، فَإنَّ اللّهَ سُبْحانَهُ قَدْ فَرَضَ عَلى
-<blockquote dir="rtl">
-  <p>
-كُلِّ جَوارِحِكَ فَرائِضَ يَحْتَجُّ بِها عَلَيْكَ.
-  </p>
-</blockquote>
+> كُلِّ جَوارِحِكَ فَرائِضَ يَحْتَجُّ بِها عَلَيْكَ.
 
 79. Let not what people say about you dishearten you, for indeed if what
 they say is true then it is a sin whose punishment has been expedited
@@ -504,12 +404,8 @@ and if it is not true then it is [as] a good deed that you have not
 performed [but has been recorded in your book of deeds].
 
 > 79ـ لايَسُوءَنَّكَ ما يَقُولُ النّاسُ فيكَ، فَإنَّهُ إنْ كانَ كَما
-<blockquote dir="rtl">
-  <p>
-يَقُولُونَ كانَ ذَنْباً عُجِّلَتْ عُقُوبَتُهُ، وإنْ كانَ عَلى خِلافِ
-ما قالُوا كانَتْ حَسَنَةً لَمْ تَعْمَلْها.
-  </p>
-</blockquote>
+> يَقُولُونَ كانَ ذَنْباً عُجِّلَتْ عُقُوبَتُهُ، وإنْ كانَ عَلى خِلافِ
+> ما قالُوا كانَتْ حَسَنَةً لَمْ تَعْمَلْها.
 
 80. Do not be, in that which you mention, like the one who collects
 firewood at night or like the froth over the flood.
@@ -567,22 +463,14 @@ will abound, your heart will become illuminated and people will remain
 safe from you.
 
 > 91ـ إنْ أحْبَبْتَ سَلامَةَ نَفْسِكَ وسَتْرَ مَعائِبِكَ فَأقْلِلْ
-<blockquote dir="rtl">
-  <p>
-كَلامَكَ، وأكْثِرْ صَمْتَكَ، يَتَوَفَّرْ فِكْرُكَ، ويَسْتَنِرْ
-قَلْبُكَ، ويَسْلَمِ النّاسُ مِنْ يَدِكَ.
-  </p>
-</blockquote>
+> كَلامَكَ، وأكْثِرْ صَمْتَكَ، يَتَوَفَّرْ فِكْرُكَ، ويَسْتَنِرْ
+> قَلْبُكَ، ويَسْلَمِ النّاسُ مِنْ يَدِكَ.
 
 92. I am more capable of turning away that which I haven’t spoken than I
 am of taking back that which I have said.
 
 > 92ـ أنَا عَلى رَدِّ ما لَمْ أقُلْ أقْدَرُ مِنّي عَلى رَدِّ ما
-<blockquote dir="rtl">
-  <p>
-قُلْتُهُ.
-  </p>
-</blockquote>
+> قُلْتُهُ.
 
 93. Verily you are accountable for your speech, so do not say anything
 except [that which is] good.
@@ -621,21 +509,13 @@ except [that which is] good.
 which will earn you sin or will alienate a freeman from you.
 
 > 101ـ أقْلِلْ المَقالَ، وقَصِّرِ الآمالَ، ولاتَقُلْ ما يَكْسِبُكَ
-<blockquote dir="rtl">
-  <p>
-وِزْراً أوْ يُنَفِّرُ عَنْكَ حُرّاً.
-  </p>
-</blockquote>
+> وِزْراً أوْ يُنَفِّرُ عَنْكَ حُرّاً.
 
 102. Be cautious of every statement or action that will lead to the
 spoiling of your Hereafter and religion.
 
 > 102ـ اِحْذَرْ كُلَّ قَوْل وفِعْل يُؤَدّي إلى فَسادِ الآخِرَةِ
-<blockquote dir="rtl">
-  <p>
-والدّينِ.
-  </p>
-</blockquote>
+> والدّينِ.
 
 103. The best speech is that which is pertinent.
 
@@ -646,11 +526,7 @@ speech of a person is the evidence of his merit and his action is the
 symbol of his intellect.
 
 > 104ـ كُنْ حَسَنَ المَقالِ، جَميلَ الأفْعالِ، فَإنَّ مَقالَ الرَّجُلِ
-<blockquote dir="rtl">
-  <p>
-بُرْهانُ فَضْلِه، وفِعالُهُ عُنْوانُ عَقْلِهِ.
-  </p>
-</blockquote>
+> بُرْهانُ فَضْلِه، وفِعالُهُ عُنْوانُ عَقْلِهِ.
 
 105. The speech of a man is the measure of his intellect.
 
@@ -661,11 +537,7 @@ so make it about that which brings you closer [to Allah] and beware of
 uttering that which will destroy you.
 
 > 106ـ كَلامُكَ مَحْفُوظٌ عَلَيْكَ، مُخَلَّدٌ في صَحيفَتِكَ، فَاجْعَلْهُ
-<blockquote dir="rtl">
-  <p>
-فيما يُزْلِفُكَ، وإيّاكَ أنْ تُطْلِقَهُ فيما يُوبِقُكَ.
-  </p>
-</blockquote>
+> فيما يُزْلِفُكَ، وإيّاكَ أنْ تُطْلِقَهُ فيما يُوبِقُكَ.
 
 108. When the intellects decrease, impertinent speech increases.
 
@@ -675,22 +547,14 @@ uttering that which will destroy you.
 that you can bring together excellent speech with virtuous benevolence.
 
 > 108ـ إذا أحْسَنْتَ القَوْلَ فَأحْسِنِ العَمَلَ، لِتَجْمَعَ بِذلِكَ
-<blockquote dir="rtl">
-  <p>
-بَيْنَ مَزِيَّةِ اللِّسانِ، وَفَضيلَةِ الإحْسانِ.
-  </p>
-</blockquote>
+> بَيْنَ مَزِيَّةِ اللِّسانِ، وَفَضيلَةِ الإحْسانِ.
 
 110. When the speech corresponds to the intention of the speaker, the
 listener accepts it but when it is against his intention, it does not
 take up a good position in his heart.
 
 > 109ـ إذا طابَقَ الكَلامُ نِيَّةَ المُتَكَلِّمِ قَبِلَهُ السّامِعُ،
-<blockquote dir="rtl">
-  <p>
-وإذا خالَفَ نِيَّتَهُ لَمْيَحْسُنْ مَوْقِعُهُ مِنْ قَلْبِهِ.
-  </p>
-</blockquote>
+> وإذا خالَفَ نِيَّتَهُ لَمْيَحْسُنْ مَوْقِعُهُ مِنْ قَلْبِهِ.
 
 111. Through moderate [and unbiased] speech loftiness is affirmed.
 
@@ -704,22 +568,14 @@ take up a good position in his heart.
 by silence.
 
 > 112ـ إذا غُلِبْتَ عَلَى الكَلامِ فَإيّاكَ أنْ تُغْلَبَ عَلَى
-<blockquote dir="rtl">
-  <p>
-السُّكُوتِ.
-  </p>
-</blockquote>
+> السُّكُوتِ.
 
 114. I am amazed at the one who speaks about that which, if it is
 related from him, will harm him and if it is not related from him, will
 not benefit him.
 
 > 113ـ عَجِبْتُ لِمَنْ يَتَكَلَّمُ فيما إنْ حُكِيَ عَنْهُ ضَرَّهُ، وإنْ
-<blockquote dir="rtl">
-  <p>
-لَمْ يُحْكَ عَنْهُ لَمْيَنْفَعْهُ.
-  </p>
-</blockquote>
+> لَمْ يُحْكَ عَنْهُ لَمْيَنْفَعْهُ.
 
 115. For every situation there is an appropriate thing to say.
 
@@ -757,11 +613,7 @@ not benefit him.
 his speech.
 
 > 122ـ مَنْ عَلِمَ أنَّهُ مُؤاخَذٌ بِقَوْلِهِ فَلْيُقَصِّرْ فِي
-<blockquote dir="rtl">
-  <p>
-المَقالِ.
-  </p>
-</blockquote>
+> المَقالِ.
 
 124. The worst of speech is babble.
 
@@ -789,10 +641,5 @@ situations that are inappropriate, for many a word has taken away a
 blessing and [many] an utterance has brought about bloodshed.
 
 > 128ـ دَعِ الكَلامَ فيما لايَعْنيكَ، وفي غَيْرِ مَوْضِعِهِ، فَرُبَّ
-<blockquote dir="rtl">
-  <p>
-كَلِمَة سَلَبَتْ نِعْمَةً، ولَفْظَة أتَتْ عَلى مُهْجَة.
-  </p>
-</blockquote>
-
+> كَلِمَة سَلَبَتْ نِعْمَةً، ولَفْظَة أتَتْ عَلى مُهْجَة.
 

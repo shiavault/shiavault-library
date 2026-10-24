@@ -4,15 +4,11 @@ Section 8: The Ministries of Noah and Moses Referred to
 Surah Yunus – Verse 71
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِ يَاقَوْمِ إِن
-كَانَ كَبُرَ عَلَيْكُم مَقَامِي وَتَذْكِيرِي بِاَيَاتِ اللَّهِ فَعَلَي
-اللَّهِ تَوَكَّلْتُ فَاَجْمِعُوا أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لا
-يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ اقْضُوا إِلَيَّ وَلا
-تُنظِرُونِ
-  </p>
-</blockquote>
+> وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِ يَاقَوْمِ إِن
+> كَانَ كَبُرَ عَلَيْكُم مَقَامِي وَتَذْكِيرِي بِاَيَاتِ اللَّهِ فَعَلَي
+> اللَّهِ تَوَكَّلْتُ فَاَجْمِعُوا أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لا
+> يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ اقْضُوا إِلَيَّ وَلا
+> تُنظِرُونِ
 
 ***71. “And recite to them the story of Noah when he said to his people:
 ‘O my people! if my stay (with you) and my reminding you of the Signs of
@@ -69,12 +65,8 @@ morale of their followers and lower that of their enemies.
 Surah Yunus – Verse 72
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فإِن تَوَلَّيْتُمْ فَمَا سَاَلْتُكُم مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ
-عَلَي اللَّهِ وَاُمِرْتُ أَنْ أَكُونَ مِنَ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> فإِن تَوَلَّيْتُمْ فَمَا سَاَلْتُكُم مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ
+> عَلَي اللَّهِ وَاُمِرْتُ أَنْ أَكُونَ مِنَ الْمُسْلِمِينَ
 
 ***72. “But if you turn back, I have not asked you for any recompense,
 my recompense is only upon Allah, and I am commanded to be of those
@@ -117,13 +109,9 @@ The verse continues as follows:
 Surah Yunus – Verse 73
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَنَجَّيْنَاهُ وَمَن مَعَهُ فِي الْفُلْكِ وَجَعَلْنَاهُمْ
-خَلآئِفَ وَأَغْرَقْنَا الَّذِينَ كَذَّبُوا بِاَيَاتِنَا فَانظُرْ
-كَيْفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَنَجَّيْنَاهُ وَمَن مَعَهُ فِي الْفُلْكِ وَجَعَلْنَاهُمْ
+> خَلآئِفَ وَأَغْرَقْنَا الَّذِينَ كَذَّبُوا بِاَيَاتِنَا فَانظُرْ
+> كَيْفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ
 
 ***73. “But they rejected him (Noah), So We delivered him and those with
 him, in the Ark, and We made them successors (in the earth), and We
@@ -158,13 +146,9 @@ of the earth.
 Surah Yunus – Verse 74
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ بَعَثْنَا مِن بَعْدِهِ رُسُلاً إِلَي قَوْمِهِمْ فَجَآءُوهُم
-بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا كَذَّبُوا بِهِ مِن
-قَبْلُ كَذَلِكَ نَطْبَعُ عَلَي قُلُوبِ الْمُعْتَدِينَ
-  </p>
-</blockquote>
+> ثُمَّ بَعَثْنَا مِن بَعْدِهِ رُسُلاً إِلَي قَوْمِهِمْ فَجَآءُوهُم
+> بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا كَذَّبُوا بِهِ مِن
+> قَبْلُ كَذَلِكَ نَطْبَعُ عَلَي قُلُوبِ الْمُعْتَدِينَ
 
 ***74. “Then, after him, We sent messengers to their people; they
 brought them the clear evidences, but they would not believe in what
@@ -210,12 +194,8 @@ The verse says:
 Surah Yunus – Verse 75
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُوسَي وَهَارُونَ إِلَي فِرْعَوْنَ
-وَملإِيْهِ بِاَيَاتِنَا فَاسْتَكْبَرُوا وَكَانُوا قَوْماً مُجْرِمِينَ
-  </p>
-</blockquote>
+> ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُوسَي وَهَارُونَ إِلَي فِرْعَوْنَ
+> وَملإِيْهِ بِاَيَاتِنَا فَاسْتَكْبَرُوا وَكَانُوا قَوْماً مُجْرِمِينَ
 
 ***75. “Then, after them, We sent Moses and Aaron to Pharaoh and his
 chiefs with Our Signs, but they were arrogant, and they were a guilty
@@ -245,12 +225,8 @@ people.”***
 Surah Yunus – Verse 76
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوا إِنَّ هَذَا لَسِحْرٌ
-مُبِينٌ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوا إِنَّ هَذَا لَسِحْرٌ
+> مُبِينٌ
 
 ***76. “So when the truth came to them from Us, they said: ‘Verily, this
 is a manifest sorcery.’”***
@@ -277,12 +253,8 @@ a manifest sorcery.’”***
 Surah Yunus – Verse 77
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ مُوسَي أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ أَسِحْرٌ هَذَا
-وَلاَ يُفْلِحُ السَّاحِرُونَ
-  </p>
-</blockquote>
+> قَالَ مُوسَي أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ أَسِحْرٌ هَذَا
+> وَلاَ يُفْلِحُ السَّاحِرُونَ
 
 ***77. “Said Moses: ‘Do you say (this) about the Truth when it hath
 actually reached you? Is this sorcery? But sorcerers do not
@@ -318,13 +290,9 @@ The verse says:
 Surah Yunus – Verse 78
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابآءَنَا
-وَتَكُونَ لَكُمَا الْكِبْرِيَآءُ فِي الأَرْضِ وَمَا نَحْنُ لَكُمَا
-بِمُؤْمِنِينَ
-  </p>
-</blockquote>
+> قَالُوا أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابآءَنَا
+> وَتَكُونَ لَكُمَا الْكِبْرِيَآءُ فِي الأَرْضِ وَمَا نَحْنُ لَكُمَا
+> بِمُؤْمِنِينَ
 
 ***78. “They said: ‘(O’ Moses) have you come to turn us away from what
 we found our fathers upon, and that the greatness in the land may be for
@@ -367,11 +335,7 @@ The verse continues saying:
 Surah Yunus – Verse 79
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ فِرْعَوْنُ ائْتُونِي بِكُلِّ سَاحِرٍ عَلِيمٍ
-  </p>
-</blockquote>
+> وَقَالَ فِرْعَوْنُ ائْتُونِي بِكُلِّ سَاحِرٍ عَلِيمٍ
 
 ***79. “And Pharaoh said: ‘Bring unto me every knowing (expert)
 sorcerer’.”***
@@ -398,12 +362,8 @@ but miracles originating from Allah.
 Surah Yunus – Verse 80
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّا جَآءَ السَّحَرَةُ قَالَ لَهُم مُّوسَي ألْقُوا مَآ أَنتُم
-مُلْقُونَ
-  </p>
-</blockquote>
+> فَلَمَّا جَآءَ السَّحَرَةُ قَالَ لَهُم مُّوسَي ألْقُوا مَآ أَنتُم
+> مُلْقُونَ
 
 ***80. “When the sorcerers came, Moses said to them: ‘Throw what you
 have to throw!’”***
@@ -425,18 +385,10 @@ throw!’”***
 Surah Yunus – Verses 81 - 82
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَلْقَوْا قَالَ مُوسَي مَا جِئْتُم بِهِ السِّحْرُ إِنَّ
-اللَّهَ سَيُبْطِلُهُ إِنَّ اللَّهَ لا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> فَلَمَّآ أَلْقَوْا قَالَ مُوسَي مَا جِئْتُم بِهِ السِّحْرُ إِنَّ
+> اللَّهَ سَيُبْطِلُهُ إِنَّ اللَّهَ لا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَيُحِقُّ اللَّهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُـجْرِمُونَ
-  </p>
-</blockquote>
+> وَيُحِقُّ اللَّهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُـجْرِمُونَ
 
 ***81. “So when they had thrown, Moses said: ‘What you have brought is
 sorcery. Allah will surely make it naught, verily Allah does not set
@@ -466,5 +418,4 @@ The verse says:
 
 ***“And Allah proves the Truth by His Words though the sinners be averse
 (to it).”***
-
 

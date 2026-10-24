@@ -17,4 +17,3 @@ don't know that your coins are copper.”
 
 As soon as he heard this, he ran away from Bahlool.
 
-

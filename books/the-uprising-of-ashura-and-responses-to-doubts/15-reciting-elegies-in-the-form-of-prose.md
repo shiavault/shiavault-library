@@ -51,16 +51,12 @@ On his own chain of transmission, Tabari narrates that Khalid ibn Jabir
 quotes Imam al-Hasan (as), while reading out a sermon after the
 martyrdom of Imam ‘Ali (as), saying,
 
-<blockquote dir="rtl">
-  <p>
-«لقد قتلتم الليلة‌ رجلاً في ليلة فيها نزل القرآن، وفيها رفع عيسی بن
-مريم عليه السّلام وفيها قتل يوشع بن نون فتی موسی عليهِما السَّلام،
-والله ما سبقه أحد کان قبله، ولا يدرکه أحد يکون بعده. والله إن کان رسول
-الله صَلَّی اللهُ عَلَيهِ وآله ليبعثه في السرية، وجبرئيل عن يمينه
-وميکائيل عن يساره، والله ما ترك صفراء ولا بيضاء الاّ ثمانمائة أو
-سبعمائة أرصدها لخادمه.»
-  </p>
-</blockquote>
+> «لقد قتلتم الليلة‌ رجلاً في ليلة فيها نزل القرآن، وفيها رفع عيسی بن
+> مريم عليه السّلام وفيها قتل يوشع بن نون فتی موسی عليهِما السَّلام،
+> والله ما سبقه أحد کان قبله، ولا يدرکه أحد يکون بعده. والله إن کان رسول
+> الله صَلَّی اللهُ عَلَيهِ وآله ليبعثه في السرية، وجبرئيل عن يمينه
+> وميکائيل عن يساره، والله ما ترك صفراء ولا بيضاء الاّ ثمانمائة أو
+> سبعمائة أرصدها لخادمه.»
 
 “You have killed a man on the night the Holy Qur’an was revealed, on a
 night that Jesus, the son of Mary, was taken to the skies, and Yusha‘
@@ -149,11 +145,7 @@ When two complete years elapsed after the birth of Imam al-Husayn (as),
 the Holy Prophet (S) went on a journey. Along the way, he stopped and
 recited the Qur’anic verse,
 
-<blockquote dir="rtl">
-  <p>
-﴿ إنّا للهِ وَإِنّا إِلَيْهِ راجِعُونَ ﴾
-  </p>
-</blockquote>
+> ﴿ إنّا للهِ وَإِنّا إِلَيْهِ راجِعُونَ ﴾
 
 ***‘We are from Allah and to Him is our return.’*** [^7]
 
@@ -264,14 +256,10 @@ Badr’.”[^15]
 Ibn ‘Abd Rabbah narrates, “Imam al-Sadiq (as) stood by the tomb of his
 father and said,
 
-<blockquote dir="rtl">
-  <p>
-«أشهد انّك قد اقمت الصلاة وآتيت الزکاة وأمرت بالمعروف ونهيت عن المنکر
-وأطعت الله ورسوله، وعبدته مخلصاً وجاهدت في سبيله صابراً محتسباً حتی
-اتاك اليقين، فلعن الله امة قتلتك ولعن الله امة ظلمتك، ولعن الله امة
-سمعت بذلك فرضيت به.»
-  </p>
-</blockquote>
+> «أشهد انّك قد اقمت الصلاة وآتيت الزکاة وأمرت بالمعروف ونهيت عن المنکر
+> وأطعت الله ورسوله، وعبدته مخلصاً وجاهدت في سبيله صابراً محتسباً حتی
+> اتاك اليقين، فلعن الله امة قتلتك ولعن الله امة ظلمتك، ولعن الله امة
+> سمعت بذلك فرضيت به.»
 
 “I bear witness that verily you upheld the prayers, gave charity, and
 enjoined the lawful and forbade sinful acts. You obeyed Allah and his
@@ -298,11 +286,7 @@ saying, “When ‘Ali ibn al-Husayn Akbar made the intention to go on the
 battlefield, I saw a woman come out of a tent with such speed that it
 seemed as if the sun had just arisen. She repeated,
 
-<blockquote dir="rtl">
-  <p>
-«يا حبيباه، يابن اخاه!»
-  </p>
-</blockquote>
+> «يا حبيباه، يابن اخاه!»
 
 ‘O my dear friend! O son of my brother!’
 
@@ -326,16 +310,12 @@ dead bodies, they cried out and wailed loudly and hit their faces.”
 The narrator of this incident says, “I swear upon Allah! I cannot forget
 Zaynab who was lamenting with a broken heart and a desolate voice,
 
-<blockquote dir="rtl">
-  <p>
-يا محمّداه،! صلّی عليك مليك السماء، هذا حسينك مرمّل بالدماء، مقطّع
-الاعضاء، وبناتك سبايا، الى الله المشتکی، والى محمد المصطفی والى علي
-المرتضی والى فاطمة الزهراء، والى حمزة سيد الشهداء. يا محمّداه،! هذا
-حسين بالعری، تسفي عليه ريح الصبا، قتيل اولاد البغايا،! واحزناه،
-واکرباه عليک يا ابا عبد الله،! اليوم مات جدي رسول الله، يا أصحاب
-محمّد! هولاء ذرية المصطفي يساقون سوق السبايا.
-  </p>
-</blockquote>
+> يا محمّداه،! صلّی عليك مليك السماء، هذا حسينك مرمّل بالدماء، مقطّع
+> الاعضاء، وبناتك سبايا، الى الله المشتکی، والى محمد المصطفی والى علي
+> المرتضی والى فاطمة الزهراء، والى حمزة سيد الشهداء. يا محمّداه،! هذا
+> حسين بالعری، تسفي عليه ريح الصبا، قتيل اولاد البغايا،! واحزناه،
+> واکرباه عليک يا ابا عبد الله،! اليوم مات جدي رسول الله، يا أصحاب
+> محمّد! هولاء ذرية المصطفي يساقون سوق السبايا.
 
 ‘O Muhammad! Upon whom the angels send blessings, this is your al-Husayn
 who is immersed in blood. His body parts have been torn to pieces and
@@ -437,5 +417,4 @@ al-Zawa’id, vol. 7, p. 25; Ansab al-Ashraf, vol. 4, p. 18.
 Tabari, vol. 4, p. 349.
 
 [^22]: Tadhkirah al-Khawass, p. 240.
-
 

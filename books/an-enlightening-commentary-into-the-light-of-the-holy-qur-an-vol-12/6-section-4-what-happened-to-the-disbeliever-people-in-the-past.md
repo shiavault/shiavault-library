@@ -4,12 +4,8 @@ Section 4: What Happened to the Disbeliever People in the Past
 Surah al-Furqan - Verse 35
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَجَعَلْنَا مَعَهُ أَخَاهُ
-هَارُونَ وَزِيرًا
-  </p>
-</blockquote>
+> وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَجَعَلْنَا مَعَهُ أَخَاهُ
+> هَارُونَ وَزِيرًا
 
 ***35. “And indeed We gave Moses the Book and We appointed His brother
 Aaron with him (as his) assistant.”***
@@ -37,12 +33,8 @@ with the help of each other.
 Surah al-Furqan - Verse 36
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَقُلْنَا اذْهَبَا إِلَى الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا
-فَدَمَّرْنَاهُمْ تَدْمِيرًا
-  </p>
-</blockquote>
+> فَقُلْنَا اذْهَبَا إِلَى الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا
+> فَدَمَّرْنَاهُمْ تَدْمِيرًا
 
 ***36. “And We said: ‘Go you both unto the people who have rejected Our
 signs!’ so We destroyed them with utter destruction.”***
@@ -72,13 +64,9 @@ The verse continues saying:
 Surah al-Furqan - Verse 37
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا الرُّسُلَ أَغْرَقْنَاهُمْ
-وَجَعَلْنَاهُمْ لِلنَّاسِ آيَةً وَأَعْتَدْنَا لِلظَّالِمِينَ عَذَابًا
-أَلِيمًا
-  </p>
-</blockquote>
+> وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا الرُّسُلَ أَغْرَقْنَاهُمْ
+> وَجَعَلْنَاهُمْ لِلنَّاسِ آيَةً وَأَعْتَدْنَا لِلظَّالِمِينَ عَذَابًا
+> أَلِيمًا
 
 ***37. “And the people of Noah, when they rejected the messengers, We
 drowned them and made them a sign for mankind; and We have prepared for
@@ -112,18 +100,10 @@ The holy verse continues saying:
 Surah al-Furqan - Verses 38-39
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَادًا وَثَمُودَ وَأَصْحَابَ الرَّسِّ وَقُرُونًا بَيْنَ ذَلِكَ
-كَثِيرًا
-  </p>
-</blockquote>
+> وَعَادًا وَثَمُودَ وَأَصْحَابَ الرَّسِّ وَقُرُونًا بَيْنَ ذَلِكَ
+> كَثِيرًا
 
-<blockquote dir="rtl">
-  <p>
-وَكُلًّا ضَرَبْنَا لَهُ الْأَمْثَالَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا
-  </p>
-</blockquote>
+> وَكُلًّا ضَرَبْنَا لَهُ الْأَمْثَالَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا
 
 ***38. “And the (tribes of) ‘Ad and Thamūd and the men of Ar-Rass, and
 many generations between them.”***  
@@ -204,12 +184,8 @@ and to destruct their rejecters.
 Surah al-Furqan - Verse 40
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَتَوْا عَلَى الْقَرْيَةِ الَّتِي أُمْطِرَتْ مَطَرَ السَّوْءِ
-أَفَلَمْ يَكُونُوا يَرَوْنَهَا بَلْ كَانُوا لاَ يَرْجُونَ نُشُورًا
-  </p>
-</blockquote>
+> وَلَقَدْ أَتَوْا عَلَى الْقَرْيَةِ الَّتِي أُمْطِرَتْ مَطَرَ السَّوْءِ
+> أَفَلَمْ يَكُونُوا يَرَوْنَهَا بَلْ كَانُوا لاَ يَرْجُونَ نُشُورًا
 
 ***40. “And indeed they have passed by the town on which was rained an
 evil rain, did they not then see it? Nay! They did not hope to be raised
@@ -243,12 +219,8 @@ their low desires.
 Surah al-Furqan - Verse 41
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلاَ هُزُوًا أَهَذَا الَّذِي
-بَعَثَ اللَّهُ رَسُولًا
-  </p>
-</blockquote>
+> وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلاَ هُزُوًا أَهَذَا الَّذِي
+> بَعَثَ اللَّهُ رَسُولًا
 
 ***41. “And when they see you, they take you for aught but a mockery;
 (saying: ) ‘Is this the one whom Allah has sent us a messenger?’”***
@@ -280,12 +252,8 @@ insanity, though he presented them clear reasons and evidences.
 Surah al-Furqan - Verse 42
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِن كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا لَوْلاَ أَن صَبَرْنَا عَلَيْهَا
-وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ الْعَذَابَ مَنْ أَضَلُّ سَبِيلًا
-  </p>
-</blockquote>
+> إِن كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا لَوْلاَ أَن صَبَرْنَا عَلَيْهَا
+> وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ الْعَذَابَ مَنْ أَضَلُّ سَبِيلًا
 
 ***42. “‘He would have led us astray from our gods if we had not been
 staunch to them!’ And soon they will know, when they see the
@@ -357,12 +325,8 @@ day of Resurrection.”*[^7]
 Surah al-Furqan - Verse 43
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ أَفَأَنتَ تَكُونُ عَلَيْهِ
-وَكِيلًا
-  </p>
-</blockquote>
+> أَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ أَفَأَنتَ تَكُونُ عَلَيْهِ
+> وَكِيلًا
 
 ***43. “Have you seen him who takes his low desires for his god? Would
 you then be a guardian over him?”***
@@ -569,12 +533,8 @@ usual ways.
 Surah al-Furqan - Verse 44
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ
-هُمْ إِلاَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ سَبِيلًا
-  </p>
-</blockquote>
+> أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ
+> هُمْ إِلاَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ سَبِيلًا
 
 ***44. “Do you think that most of them do hear or understand? They are
 (nothing) but like the cattle; nay they are farther astray from the
@@ -697,5 +657,4 @@ and 42
 [^23]: Surah An-Nāzi‘āt, No. 79, verses 40 and 41
 
 [^24]: Safīnat ul-Bihār, Vol. 1, P. 689
-
 

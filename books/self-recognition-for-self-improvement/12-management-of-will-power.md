@@ -247,12 +247,8 @@ filially to establish greater self-control and to curb carnal desires
 and satanic temptation is to control the perceptions and foremost to
 control the eyes and the ears:
 
-<blockquote dir="rtl">
-  <p>
-“إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ
-عَنْهُ مَسْئُولًا”
-  </p>
-</blockquote>
+> “إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ
+> عَنْهُ مَسْئُولًا”
 
 ***"Surely the hearing and the sight and the heart, all of these, shall
 be questioned about that (17:36)."***
@@ -263,11 +259,7 @@ advantageous books, to go on pilgrimage to shrines and sites which would
 make man mindful of Allah (SWT), of His chosen servants and of the
 sacred goals and objective which these servants have pursued:
 
-<blockquote dir="rtl">
-  <p>
-“...فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ”
-  </p>
-</blockquote>
+> “...فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ”
 
 ***"In it are clear signs, the standing place of Ibrahim... (3:97).”***
 
@@ -278,19 +270,11 @@ aversion towards sitting in a seat which has been warmed and which still
 holds the warmth produced by a strange *ghayr-mahram* lady. It also
 elucidates the role of a friend in one's prosperity or adversity:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي ۗ وَكَانَ
-الشَّيْطَانُ لِلْإِنْسَانِ خَذُولًا”
-  </p>
-</blockquote>
+> لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي ۗ وَكَانَ
+> الشَّيْطَانُ لِلْإِنْسَانِ خَذُولًا”
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَٰذَا
-الْقُرْآنَ مَهْجُورًا“...
-  </p>
-</blockquote>
+> وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَٰذَا
+> الْقُرْآنَ مَهْجُورًا“...
 
 ***"O woe is me! Would that I had not taken such a one for a friend!
 Certainly he led me astray from the reminder after it had come to me...
@@ -312,5 +296,4 @@ responsibility:
 
 "Call on the people without words (i.e. with deeds, set an example for
 the people.)"
-
 

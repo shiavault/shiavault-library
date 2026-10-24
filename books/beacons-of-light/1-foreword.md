@@ -167,4 +167,3 @@ vol. 5, p. 32.
 [^2]: Hyderabad, Deccan: Da'iratu'l‑Ma'arif al‑\`Uthmaniyyah,
 1388/1968), pp. 420‑ 21.
 
-

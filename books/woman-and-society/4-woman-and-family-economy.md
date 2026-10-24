@@ -76,7 +76,6 @@ spending according to the method of the Qur'an and its wise summons.
 Therefore, woman should carry out her responsibility towards her husband
 and her house according to the previous Prophetic tradition.
 
-
 **Work and Islamic Law**
 
 Islamic law summons people to work. It urges them to work using many
@@ -217,7 +216,6 @@ functional work in society stand on two bases: individual and
 collective. In both cases, Islam does not make any difference between
 man and woman. Rather, Islam makes it incumbent on woman to learn jobs
 that concern women such as medicine and teaching.
-
 
 **Woman and Political Work**
 
@@ -487,5 +485,4 @@ Mustadrak, vol.3, p.109.
 27. Martyr, Sayyid Muhammad Baqir Sadr, Islam Yaqud Hayat, p.171.
 
 28. Ibn Qutayba Daynwari, Imama wa Siyasa, vol.1, p.19.
-
 

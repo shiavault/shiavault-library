@@ -42,7 +42,6 @@ persecution. Jesus began his peregrinations as a child and became an
 emigrant , a refugee, someone who had to abandon his land to save his
 life.
 
-
 **Muhammad (PBUH)**
 
 In the Islamic history and tradition, Ethiopia is known as the "Haven
@@ -110,7 +109,6 @@ God who makes it so, even in the most adverse human conditions. And it
 will come true unexpectedly, because their faith in the promise advances
 inseparably from their faith in God.
 
-
 **II. Emigration and mass movements in the world today**
 
 World stateless people
@@ -141,5 +139,4 @@ degree of guidance and emphasize that everyone should have a
 nationality. However, international support of these treaties has been
 lethargic and needs to be strengthened. Fewer governments know the
 precise magnitude of the problem in their countries.
-
 

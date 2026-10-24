@@ -8,20 +8,12 @@ lest the infidels might ignorantly abuse Allah.
 Surah Al-‘An’am, Verse 101 - 102
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بَدِيعُ السَّمَاوَاتِ وَالأَرْضِ أَنَّى يَكُونُ لَهُ وَلَدٌ وَلَمْ
-تَكُن لَّهُ صَاحِبَةٌ وَخَلَقَ كُلَّ شَيْءٍ وهُوَ بِكُلِّ شَيْءٍ
-عَلِيمٌ
-  </p>
-</blockquote>
+> بَدِيعُ السَّمَاوَاتِ وَالأَرْضِ أَنَّى يَكُونُ لَهُ وَلَدٌ وَلَمْ
+> تَكُن لَّهُ صَاحِبَةٌ وَخَلَقَ كُلَّ شَيْءٍ وهُوَ بِكُلِّ شَيْءٍ
+> عَلِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكُمُ اللّهُ رَبُّكُمْ لا إِلَـهَ إِلاَّ هُوَ خَالِقُ كُلِّ شَيْءٍ
-فَاعْبُدُوهُ وَهُوَ عَلَى كُلِّ شَيْءٍ وَكِيلٌ
-  </p>
-</blockquote>
+> ذَلِكُمُ اللّهُ رَبُّكُمْ لا إِلَـهَ إِلاَّ هُوَ خَالِقُ كُلِّ شَيْءٍ
+> فَاعْبُدُوهُ وَهُوَ عَلَى كُلِّ شَيْءٍ وَكِيلٌ
 
 **101.** ***"(He is the) Divisor of the heavens and the earth! How can
 He have a child while there is for Him no consort, and He created
@@ -82,12 +74,8 @@ Allah*,* at the end of the verse it adds:
 Surah Al-‘An’am, Verse 103
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لاَّ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ
-اللَّطِيفُ الْخَبِيرُ
-  </p>
-</blockquote>
+> لاَّ تُدْرِكُهُ الأَبْصَارُ وَهُوَ يُدْرِكُ الأَبْصَارَ وَهُوَ
+> اللَّطِيفُ الْخَبِيرُ
 
 **103.** ***"The eyes do not perceive Him, but He perceives the eyes, He
 is all subtle, the All-Aware."***
@@ -132,12 +120,8 @@ comprehend the how ness of His Essence[^1].
 Surah Al-‘An’am, Verse 104
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَدْ جَاءكُم بَصَآئِرُ مِن رَّبِّكُمْ فَمَنْ أَبْصَرَ فَلِنَفْسِهِ
-وَمَنْ عَمِيَ فَعَلَيْهَا وَمَا أَنَاْ عَلَيْكُم بِحَفِيظٍ
-  </p>
-</blockquote>
+> قَدْ جَاءكُم بَصَآئِرُ مِن رَّبِّكُمْ فَمَنْ أَبْصَرَ فَلِنَفْسِهِ
+> وَمَنْ عَمِيَ فَعَلَيْهَا وَمَا أَنَاْ عَلَيْكُم بِحَفِيظٍ
 
 **104.** ***"Certainly clear proofs have come to you from your Lord.
 Whoever therefore sees (with insight), it is to his own gain, and
@@ -178,12 +162,8 @@ The verse says:
 Surah Al-‘An’am, Verse 105
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ نُصَرِّفُ الآيَاتِ وَلِيَقُولُواْ دَرَسْتَ وَلِنُبَيِّنَهُ
-لِقَوْمٍ يَعْلَمُونَ
-  </p>
-</blockquote>
+> وَكَذَلِكَ نُصَرِّفُ الآيَاتِ وَلِيَقُولُواْ دَرَسْتَ وَلِنُبَيِّنَهُ
+> لِقَوْمٍ يَعْلَمُونَ
 
 **105.** ***"And thus do We repeat the Signs, that they may say (unto
 you): "You have studied" and that We may make it clear to a people who
@@ -210,12 +190,8 @@ and understanding.
 Surah Al-‘An’am, Verse 106
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِن رَّبِّكَ لا إِلَـهَ إِلاَّ هُوَ
-وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
-  </p>
-</blockquote>
+> اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِن رَّبِّكَ لا إِلَـهَ إِلاَّ هُوَ
+> وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
 
 **106.** ***"Follow what is revealed to you from your Lord; there is no
 god but He; and turn away from the polytheists."***
@@ -243,12 +219,8 @@ determination and that he withdraws aught.
 Surah Al-‘An’am, Verse 107
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ شَاء اللّهُ مَا أَشْرَكُواْ وَمَا جَعَلْنَاكَ عَلَيْهِمْ
-حَفِيظًا وَمَا أَنتَ عَلَيْهِم بِوَكِيلٍ
-  </p>
-</blockquote>
+> وَلَوْ شَاء اللّهُ مَا أَشْرَكُواْ وَمَا جَعَلْنَاكَ عَلَيْهِمْ
+> حَفِيظًا وَمَا أَنتَ عَلَيْهِم بِوَكِيلٍ
 
 **107.** ***"And had*** ***Allah*** ***pleased, they would not have
 associated others (with Him), and We have not made you a keeper over
@@ -281,14 +253,10 @@ with their own authority and will.
 Surah Al-‘An’am, Verse 108
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلاَ تَسُبُّواْ الَّذِينَ يَدْعُونَ مِن دُونِ اللّهِ فَيَسُبُّواْ
-اللّهَ عَدْوًا بِغَيْرِ عِلْمٍ كَذَلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ
-عَمَلَهُمْ ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا
-كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلاَ تَسُبُّواْ الَّذِينَ يَدْعُونَ مِن دُونِ اللّهِ فَيَسُبُّواْ
+> اللّهَ عَدْوًا بِغَيْرِ عِلْمٍ كَذَلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ
+> عَمَلَهُمْ ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا
+> كَانُواْ يَعْمَلُونَ
 
 **108.** ***"And do not abuse those whom they call upon besides***
 ***Allah, or they will abuse*** ***Allah*** ***in revenge without any
@@ -331,13 +299,9 @@ they used to do."***
 Surah Al-‘An’am, Verse 109
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَقْسَمُواْ بِاللّهِ جَهْدَ أَيْمَانِهِمْ لَئِن جَاءتْهُمْ آيَةٌ
-لَّيُؤْمِنُنَّ بِهَا قُلْ إِنَّمَا الآيَاتُ عِندَ اللّهِ وَمَا
-يُشْعِرُكُمْ أَنَّهَا إِذَا جَاءتْ لاَ يُؤْمِنُونَ
-  </p>
-</blockquote>
+> وَأَقْسَمُواْ بِاللّهِ جَهْدَ أَيْمَانِهِمْ لَئِن جَاءتْهُمْ آيَةٌ
+> لَّيُؤْمِنُنَّ بِهَا قُلْ إِنَّمَا الآيَاتُ عِندَ اللّهِ وَمَا
+> يُشْعِرُكُمْ أَنَّهَا إِذَا جَاءتْ لاَ يُؤْمِنُونَ
 
 **109.** ***"And they swore by*** ***Allah*** ***with the strongest of
 their oaths, that if a sign came to them they would most certainly
@@ -379,12 +343,8 @@ you know that when it comes they will not believe?"***
 Surah Al-‘An’am, Verse 110
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُواْ بِهِ
-أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ
-  </p>
-</blockquote>
+> وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُواْ بِهِ
+> أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ
 
 **110.** ***"And (because of pertinacities of infidels) We will turn
 their hearts and their sights, even as they did not believe in it the
@@ -419,5 +379,4 @@ Tafsir. Jawami'-ul-Jami', P. 230; and Nur-uth-Thaqalayn, Vol. 1, P. 754
 [^2]: The Quraysh were the noblest tribe of Arabia, the tribe to which
 the holy Prophet himself (S) belonged. They had the custody of the
 Ka'bah, the central shrine of Arabia.
-
 

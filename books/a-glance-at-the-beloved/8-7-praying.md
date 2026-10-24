@@ -36,12 +36,8 @@ Messenger of Allah and my father is Ameerul Mo'mineen (a.s.). Then he
 recited the names of all other Imams (a.s.) till he came to his own
 name. Then he prayed to Allah thus:
 
-<blockquote dir="rtl">
-  <p>
-اللهم أنجز لي وعدي و أتمم لي أمري وثبت وطأتي و إملأ الأرض بي عدلاً
-وقسطا
-  </p>
-</blockquote>
+> اللهم أنجز لي وعدي و أتمم لي أمري وثبت وطأتي و إملأ الأرض بي عدلاً
+> وقسطا
 
 'O Allah! Implement that which You have promised me and complete my
 affair and make my step steadfast and fill the earth with justice and
@@ -84,12 +80,8 @@ best of the creation - Holy Prophet (s.a.w.s.) till his (s.a.w.s.)
 successors and the angels of Allah, as all of them are awaiting the
 reappearance of Imam (a.t.f.s.). In Dua al-Ahad, we ask from Allah:
 
-<blockquote dir="rtl">
-  <p>
-اَللّـهُمَّ وَسُرَّ نَبِيَّكَ مُحَمَّداً صَلَّى اللهُ عَلَيْهِ وَآلِهِ
-بِرُؤْيَتِهِ وَمَنْ تَبِعَهُ عَلى دَعْوَتِهِ
-  </p>
-</blockquote>
+> اَللّـهُمَّ وَسُرَّ نَبِيَّكَ مُحَمَّداً صَلَّى اللهُ عَلَيْهِ وَآلِهِ
+> بِرُؤْيَتِهِ وَمَنْ تَبِعَهُ عَلى دَعْوَتِهِ
 
 'O Allah! Make your Prophet Mohammed (s.a.w.s.) rejoice and those who
 follow his call by the sight of Imam al-Asr (a.t.f.s.).'[^3]
@@ -181,11 +173,7 @@ destruction in the period of occultation. Therefore we should give the
 supplication for hastening of reappearance a place of pride in our lives
 and pray for it with the intensity and effort that it deserves.
 
-<blockquote dir="rtl">
-  <p>
-أكْثِرُوا الدُّعاءَ بِتَعْجيلِ الفَرَجِ فَإنَّ ذَلِكَ فَرَجُكُمْ.
-  </p>
-</blockquote>
+> أكْثِرُوا الدُّعاءَ بِتَعْجيلِ الفَرَجِ فَإنَّ ذَلِكَ فَرَجُكُمْ.
 
 'Pray more for the hastening of reappearance, because in it lies your
 salvation.'[^5]
@@ -206,5 +194,4 @@ salvation of Imam al-Zamana (a.t.f.s.).
 [^4]: Kamaluddin Chp. 38, Tradition 1
 
 [^5]: Kamaluddin Chp. 45, Tradition 4
-
 

@@ -28,4 +28,3 @@ philosophy from McGill University (included in the Dean’s List), Canada.
 From among his writings, we can point to two books on psychology and 29
 research articles.
 
-

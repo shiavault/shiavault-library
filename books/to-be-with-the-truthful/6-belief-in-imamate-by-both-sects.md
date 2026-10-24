@@ -3084,4 +3084,3 @@ al-Daylami, Manāqib al-Khwārazmi and Dhakhā'ir al-'uqbā.
 number and names were reported by the author of Yanābi' al-mawaddah,
 Vol. III, p. 99.
 
-

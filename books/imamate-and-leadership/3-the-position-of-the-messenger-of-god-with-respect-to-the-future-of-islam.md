@@ -33,7 +33,6 @@ The greatest blow that was struck against the unity of
  dissension among Muslims was the difference of opinion  
  relating to the question of rule and leadership. It led to wars  
  rebellions and bloody struggles sundering the unity of the  
-  
 
 **( 20 )**
 
@@ -78,7 +77,6 @@ Islam was then young and a long path lay ahead of it if it
  was to come to fruition. The standard bearer of its movement  
  had committed himself to uprooting all traces of the Jahiliyyah  
  and to erasing from the hearts and souls of the people any of its  
-  
 
 **( 21 )**
 

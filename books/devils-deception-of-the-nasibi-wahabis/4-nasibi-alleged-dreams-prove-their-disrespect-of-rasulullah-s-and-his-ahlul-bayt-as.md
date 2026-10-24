@@ -366,4 +366,3 @@ So Nasibis, answer us:
 (3) What is the position of one who is at war with the Prophet, Muslim,
 Murtad, Munafiq or Kaafir?
 
-

@@ -169,4 +169,3 @@ of the Holy Prophet?
  4. Why is Islam a strong opponent for present clay?  
  5. What was the story of Walid ibn Mughayrah?
 
-

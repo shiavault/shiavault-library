@@ -17,4 +17,3 @@ action. This noun is formed from triliteral verbs in the form
 in the same form as its infinitive, ending in the feminine *tā'*,
 exactly like the nomen vicis, for example: **اِلتفاتَة** **العغَزالِ.**
 
-

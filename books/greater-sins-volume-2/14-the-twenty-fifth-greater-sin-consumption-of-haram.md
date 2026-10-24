@@ -488,4 +488,3 @@ acquired with the help of jinns
 
 [^21]: Lailail-Akhbār
 
-

@@ -112,300 +112,172 @@ the human to think deeply about the issue.
 Here it is the text of the foresaid narrative with the English
 translation:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ بَعْضِ
-أَصْحَابِهِ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي
-عُمَيْرٍ جَمِيعاً عَنْ مُحَمَّدِ بْنِ أَبِي حَمْزَةَ عَنْ حُمْرَانَ
-قَالَ قَالَ أَبُو عَبْدِ اللَّهِ ع و
-  </p>
-</blockquote>
+> مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ بَعْضِ
+> أَصْحَابِهِ وَ عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي
+> عُمَيْرٍ جَمِيعاً عَنْ مُحَمَّدِ بْنِ أَبِي حَمْزَةَ عَنْ حُمْرَانَ
+> قَالَ قَالَ أَبُو عَبْدِ اللَّهِ ع و
 
 From Humraan (bin A\`yan) said, Abu \`Abd Allah (عليه السلام) said:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَأَيْتَ الْحَقَّ قَدْ مَاتَ وَ ذَهَبَ أَهْلُهُ
-  </p>
-</blockquote>
+> فَإِذَا رَأَيْتَ الْحَقَّ قَدْ مَاتَ وَ ذَهَبَ أَهْلُهُ
 
 You will see (a time) when haqq (truth) has died, and left its people
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْجَوْرَ قَدْ شَمِلَ الْبِلَادَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْجَوْرَ قَدْ شَمِلَ الْبِلَادَ
 
 And you will see that tyranny has encompassed the countries
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْقُرْآنَ قَدْ خَلُقَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْقُرْآنَ قَدْ خَلُقَ
 
 And you will see the Qur’an has become old, and new thing (innovations)
 about it when it is not there, and it (Qur’an) being directed by the
 desires
 
-<blockquote dir="rtl">
-  <p>
-وَ أُحْدِثَ فِيهِ مَا لَيْسَ فِيهِ وَ وُجِّهَ عَلَى الْأَهْوَاءِ
-  </p>
-</blockquote>
+> وَ أُحْدِثَ فِيهِ مَا لَيْسَ فِيهِ وَ وُجِّهَ عَلَى الْأَهْوَاءِ
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الدِّينَ قَدِ انْكَفَأَ كَمَا يَنْكَفِئُ الْمَاءُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الدِّينَ قَدِ انْكَفَأَ كَمَا يَنْكَفِئُ الْمَاءُ
 
 4. And you will see the religion turned upside down like water (bowl)
 being turned upside down
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ أَهْلَ الْبَاطِلِ قَدِ اسْتَعْلَوْا عَلَى أَهْلِ الْحَقِّ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ أَهْلَ الْبَاطِلِ قَدِ اسْتَعْلَوْا عَلَى أَهْلِ الْحَقِّ
 
 5. And you will see the people of falseness rise above the people of
 haqq (righteousness)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الشَّرَّ ظَاهِراً لَا يُنْهَى عَنْهُ وَ يُعْذَرُ
-أَصْحَابُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الشَّرَّ ظَاهِراً لَا يُنْهَى عَنْهُ وَ يُعْذَرُ
+> أَصْحَابُهُ
 
 6. And you will see evil become apparent and no one prohibits it, and
 excuses its companions
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْفِسْقَ قَدْ ظَهَرَ وَ اكْتَفَى الرِّجَالُ بِالرِّجَالِ
-وَ النِّسَاءُ بِالنِّسَاءِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْفِسْقَ قَدْ ظَهَرَ وَ اكْتَفَى الرِّجَالُ بِالرِّجَالِ
+> وَ النِّسَاءُ بِالنِّسَاءِ
 
 7. And you will see fisq (immorality) become apparent and men being
 satisfied by men and women being (satisfied) with women
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمُؤْمِنَ صَامِتاً لَا يُقْبَلُ قَوْلُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمُؤْمِنَ صَامِتاً لَا يُقْبَلُ قَوْلُهُ
 
 8. And you will see a believing person become silent and his words are
 not accepted
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْفَاسِقَ يَكْذِبُ وَ لَا يُرَدُّ عَلَيْهِ كَذِبُهُ وَ
-فِرْيَتُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْفَاسِقَ يَكْذِبُ وَ لَا يُرَدُّ عَلَيْهِ كَذِبُهُ وَ
+> فِرْيَتُهُ
 
 9. And you will see a faasiq (immoral person) lie and his lies and
 slander are not refuted
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الصَّغِيرَ يَسْتَحْقِرُ بِالْكَبِيرِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الصَّغِيرَ يَسْتَحْقِرُ بِالْكَبِيرِ
 
 10. And you will see young (people) demean the older people
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْأَرْحَامَ قَدْ تَقَطَّعَتْ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْأَرْحَامَ قَدْ تَقَطَّعَتْ
 
 11. And you will see relations being severed
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ مَنْ يَمْتَدِحُ بِالْفِسْقِ يَضْحَكُ مِنْهُ وَ لَا يُرَدُّ
-عَلَيْهِ قَوْلُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ مَنْ يَمْتَدِحُ بِالْفِسْقِ يَضْحَكُ مِنْهُ وَ لَا يُرَدُّ
+> عَلَيْهِ قَوْلُهُ
 
 12. And you will see one who is praised for his fisq (immoral ways) and
 he laughs at it, and his saying are not refuted/rejected
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْغُلَامَ يُعْطِي مَا تُعْطِي الْمَرْأَةُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْغُلَامَ يُعْطِي مَا تُعْطِي الْمَرْأَةُ
 
 13. And you will see a boy give what a women gives
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النِّسَاءَ يَتَزَوَّجْنَ النِّسَاءَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النِّسَاءَ يَتَزَوَّجْنَ النِّسَاءَ
 
 14. And you will see women marry women
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الثَّنَاءَ قَدْ كَثُرَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الثَّنَاءَ قَدْ كَثُرَ
 
 15. And you will see compliments become many
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يُنْفِقُ الْمَالَ فِي غَيْرِ طَاعَةِ اللَّهِ
-فَلَا يُنْهَى وَ لَا يُؤْخَذُ عَلَى يَدَيْهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يُنْفِقُ الْمَالَ فِي غَيْرِ طَاعَةِ اللَّهِ
+> فَلَا يُنْهَى وَ لَا يُؤْخَذُ عَلَى يَدَيْهِ
 
 16. And you will see a man spend his wealth in something other than in
 obedience to Allah, and he is not prohibit, and his hand is not taken
 back
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاظِرَ يَتَعَوَّذُ بِاللَّهِ مِمَّا يَرَى الْمُؤْمِنَ
-فِيهِ مِنَ الِاجْتِهَادِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاظِرَ يَتَعَوَّذُ بِاللَّهِ مِمَّا يَرَى الْمُؤْمِنَ
+> فِيهِ مِنَ الِاجْتِهَادِ
 
 17. And you will see the onlookers seek refuge with Allah because of
 what they see a believer struggles to do
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْجَارَ يُؤْذِي جَارَهُ وَ لَيْسَ لَهُ مَانِعٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْجَارَ يُؤْذِي جَارَهُ وَ لَيْسَ لَهُ مَانِعٌ
 
 18. And you will see neighbors harm neighbors and no one will prevent it
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْكَافِرَ فَرِحاً لِمَا يَرَى فِي الْمُؤْمِنِ مَرِحاً
-لِمَا يَرَى فِي الْأَرْضِ مِنَ الْفَسَادِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْكَافِرَ فَرِحاً لِمَا يَرَى فِي الْمُؤْمِنِ مَرِحاً
+> لِمَا يَرَى فِي الْأَرْضِ مِنَ الْفَسَادِ
 
 19. And you will see the kaafir become happy because of what he see in
 the believers, and he will become happy because of the fesad
 (corruption) in the land
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْخُمُورَ تُشْرَبُ عَلَانِيَةً وَ يَجْتَمِعُ عَلَيْهَا
-مَنْ لَا يَخَافُ اللَّهَ عَزَّ وَ جَلَّ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْخُمُورَ تُشْرَبُ عَلَانِيَةً وَ يَجْتَمِعُ عَلَيْهَا
+> مَنْ لَا يَخَافُ اللَّهَ عَزَّ وَ جَلَّ
 
 20. And you will see wine being drunk in public and gatherings about it,
 one who is not afraid of Allah (عَزَّ وَ جَلَّ)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْآمِرَ بِالْمَعْرُوفِ ذَلِيلًا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْآمِرَ بِالْمَعْرُوفِ ذَلِيلًا
 
 21. And you will see Amr bil ma\`roof (Commanding the good) become
 ignoble
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْفَاسِقَ فِيمَا لَا يُحِبُّ اللَّهُ قَوِيّاً مَحْمُوداً
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْفَاسِقَ فِيمَا لَا يُحِبُّ اللَّهُ قَوِيّاً مَحْمُوداً
 
 22. And you will see a faasiq do what Allah does not love, (and is)
 mighty and praised
 
 > 23. وَ رَأَيْتَ أَصْحَابَ الْآيَاتِ يُحْتَقَرُونَ وَ يُحْتَقَرُ مَنْ
-<blockquote dir="rtl">
-  <p>
-يُحِبُّهُمْ
-  </p>
-</blockquote>
+> يُحِبُّهُمْ
 
 23. And you will see people of the signs despised, and the who like them
 despised
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ سَبِيلَ الْخَيْرِ مُنْقَطِعاً وَ سَبِيلَ الشَّرِّ
-مَسْلُوكاً
-  </p>
-</blockquote>
+> وَ رَأَيْتَ سَبِيلَ الْخَيْرِ مُنْقَطِعاً وَ سَبِيلَ الشَّرِّ
+> مَسْلُوكاً
 
 24. And you will see the path of good halted, and the path of evil
 adopted
 
-<blockquote dir="rtl">
-  <p>
-.وَ رَأَيْتَ بَيْتَ اللَّهِ قَدْ عُطِّلَ وَ يُؤْمَرُ بِتَرْكِهِ
-  </p>
-</blockquote>
+> .وَ رَأَيْتَ بَيْتَ اللَّهِ قَدْ عُطِّلَ وَ يُؤْمَرُ بِتَرْكِهِ
 
 25. And you will see the House of Allah being inactive and becoming
 abandoned
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يَقُولُ مَا لَا يَفْعَلُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يَقُولُ مَا لَا يَفْعَلُهُ
 
 26. And you will see a man say what he does not do
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرِّجَالَ يَتَسَمَّنُونَ لِلرِّجَالِ وَ النِّسَاءَ
-لِلنِّسَاءِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرِّجَالَ يَتَسَمَّنُونَ لِلرِّجَالِ وَ النِّسَاءَ
+> لِلنِّسَاءِ
 
 27. And you will see men (use) oil (?) for men and women for women
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ مَعِيشَتُهُ مِنْ دُبُرِهِ وَ مَعِيشَةُ
-الْمَرْأَةِ مِنْ فَرْجِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ مَعِيشَتُهُ مِنْ دُبُرِهِ وَ مَعِيشَةُ
+> الْمَرْأَةِ مِنْ فَرْجِهَا
 
 28. And you will see men earn a livelihood from homosexuality and women
 earn a livelihood from prostitution.
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النِّسَاءَ يَتَّخِذْنَ الْمَجَالِسَ كَمَا يَتَّخِذُهَا
-الرِّجَالُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النِّسَاءَ يَتَّخِذْنَ الْمَجَالِسَ كَمَا يَتَّخِذُهَا
+> الرِّجَالُ
 
 29. And you will see women take to gatherings like men take (to
 gatherings)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ التَّأْنِيثَ فِي وُلْدِ الْعَبَّاسِ قَدْ ظَهَرَ وَ
-أَظْهَرُوا الْخِضَابَ وَ امْتَشَطُوا كَمَا تَمْتَشِطُ الْمَرْأَةُ
-لِزَوْجِهَا وَ أَعْطَوُا الرِّجَالَ الْأَمْوَالَ عَلَى فُرُوجِهِمْ وَ
-تُنُوفِسَ فِي الرَّجُلِ وَ تَغَايَرَ عَلَيْهِ الرِّجَالُ وَ كَانَ
-صَاحِبُ الْمَالِ أَعَزَّ مِنَ الْمُؤْمِنِ وَ كَانَ الرِّبَا ظَاهِراً
-لَا يُعَيَّرُ وَ كَانَ الزِّنَا تُمْتَدَحُ بِهِ النِّسَاءُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ التَّأْنِيثَ فِي وُلْدِ الْعَبَّاسِ قَدْ ظَهَرَ وَ
+> أَظْهَرُوا الْخِضَابَ وَ امْتَشَطُوا كَمَا تَمْتَشِطُ الْمَرْأَةُ
+> لِزَوْجِهَا وَ أَعْطَوُا الرِّجَالَ الْأَمْوَالَ عَلَى فُرُوجِهِمْ وَ
+> تُنُوفِسَ فِي الرَّجُلِ وَ تَغَايَرَ عَلَيْهِ الرِّجَالُ وَ كَانَ
+> صَاحِبُ الْمَالِ أَعَزَّ مِنَ الْمُؤْمِنِ وَ كَانَ الرِّبَا ظَاهِراً
+> لَا يُعَيَّرُ وَ كَانَ الزِّنَا تُمْتَدَحُ بِهِ النِّسَاءُ
 
 30. And you will see feminine in the progeny of Al-\`Abbas becoming
 apparent, and dyeing becoming apparent and combing like the combing of
@@ -414,869 +286,501 @@ organs, and compete with a man, and dissimilarities for men and people
 of money are cherished from the believers, and riba (usury) becoming
 apparent and it is not taunted, and zina (adultery) praised in women.
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَرْأَةَ تُصَانِعُ زَوْجَهَا عَلَى نِكَاحِ الرِّجَالِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَرْأَةَ تُصَانِعُ زَوْجَهَا عَلَى نِكَاحِ الرِّجَالِ
 
 31. And you will see women do a favor to her husband upon the marriage
 of men (?)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ أَكْثَرَ النَّاسِ وَ خَيْرَ بَيْتٍ مَنْ يُسَاعِدُ
-النِّسَاءَ عَلَى فِسْقِهِنَّ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ أَكْثَرَ النَّاسِ وَ خَيْرَ بَيْتٍ مَنْ يُسَاعِدُ
+> النِّسَاءَ عَلَى فِسْقِهِنَّ
 
 32. And you will see many people and the best houses are those who help
 women commit fisq (immorality)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمُؤْمِنَ مَحْزُوناً مُحْتَقَراً ذَلِيلًا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمُؤْمِنَ مَحْزُوناً مُحْتَقَراً ذَلِيلًا
 
 33. And you will see the believer depressed and scorned and humiliated
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْبِدَعَ وَ الزِّنَا قَدْ ظَهَرَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْبِدَعَ وَ الزِّنَا قَدْ ظَهَرَ
 
 34. And you will see bid\`ah (innovation) and zina (adultery) become
 apparent
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ يَعْتَدُّونَ بِشَاهِدِ الزُّورِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ يَعْتَدُّونَ بِشَاهِدِ الزُّورِ
 
 35. And you will see people argue with false witnesses
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْحَرَامَ يُحَلَّلُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْحَرَامَ يُحَلَّلُ
 
 36. And you will see haram turn into halal
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْحَلَالَ يُحَرَّمُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْحَلَالَ يُحَرَّمُ
 
 37. And you will see halal turn into haram
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الدِّينِ بِالرَّأْيِ وَ عُطِّلَ الْكِتَابُ وَ أَحْكَامُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الدِّينِ بِالرَّأْيِ وَ عُطِّلَ الْكِتَابُ وَ أَحْكَامُهُ
 
 38. And you will see the religion taken by ra’y (personal opinion) and
 the book and its laws become neglected
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ اللَّيْلَ لَا يُسْتَخْفَى بِهِ مِنَ الْجُرْأَةِ عَلَى
-اللَّهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ اللَّيْلَ لَا يُسْتَخْفَى بِهِ مِنَ الْجُرْأَةِ عَلَى
+> اللَّهِ
 
 39. And you will see (people) not hide in the night from their action
 against Allah
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمُؤْمِنَ لَا يَسْتَطِيعُ أَنْ يُنْكِرَ إِلَّا
-بِقَلْبِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمُؤْمِنَ لَا يَسْتَطِيعُ أَنْ يُنْكِرَ إِلَّا
+> بِقَلْبِهِ
 
 40. And you will see a believer cannot deny except with his heart
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْعَظِيمَ مِنَ الْمَالِ يُنْفَقُ فِي سَخَطِ اللَّهِ عَزَّ
-وَ جَلَّ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْعَظِيمَ مِنَ الْمَالِ يُنْفَقُ فِي سَخَطِ اللَّهِ عَزَّ
+> وَ جَلَّ
 
 41. And you will see great (amounts) of wealth being spend in what Allah
 (عَزَّ وَ جَلَّ) gets annoyed
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْوُلَاةَ يُقَرِّبُونَ أَهْلَ الْكُفْرِ وَ يُبَاعِدُونَ
-أَهْلَ الْخَيْرِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْوُلَاةَ يُقَرِّبُونَ أَهْلَ الْكُفْرِ وَ يُبَاعِدُونَ
+> أَهْلَ الْخَيْرِ
 
 42. And you will see rulers become closer to the people of kufr
 (disbelief) and separate from the people of khayr (good)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْوُلَاةَ يَرْتَشُونَ فِي الْحُكْمِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْوُلَاةَ يَرْتَشُونَ فِي الْحُكْمِ
 
 43. And you will see rulers being bribed for a judgment
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْوِلَايَةَ قَبَالَةً لِمَنْ زَادَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْوِلَايَةَ قَبَالَةً لِمَنْ زَادَ
 
 44. And you will see governing being obliged to those who are more
 (wealthy, status)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ ذَوَاتِ الْأَرْحَامِ يُنْكَحْنَ وَ يُكْتَفَى بِهِنَّ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ ذَوَاتِ الْأَرْحَامِ يُنْكَحْنَ وَ يُكْتَفَى بِهِنَّ
 
 45. And you will relatives having marriage (with each other) and
 becoming satisfied by it
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يُقْتَلُ عَلَى التُّهَمَةِ وَ عَلَى الظِّنَّةِ
-وَ يَتَغَايَرُ عَلَى الرَّجُلِ الذَّكَرِ فَيَبْذُلُ لَهُ نَفْسَهُ وَ
-مَالَهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يُقْتَلُ عَلَى التُّهَمَةِ وَ عَلَى الظِّنَّةِ
+> وَ يَتَغَايَرُ عَلَى الرَّجُلِ الذَّكَرِ فَيَبْذُلُ لَهُ نَفْسَهُ وَ
+> مَالَهُ
 
 46. And you will see men murder for an accusation and upon dhan
 (conjecture) and differences with another man who gives himself and his
 wealth
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يُعَيَّرُ عَلَى إِتْيَانِ النِّسَاءِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يُعَيَّرُ عَلَى إِتْيَانِ النِّسَاءِ
 
 47. And you will see a man…(?)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يَأْكُلُ مِنْ كَسْبِ امْرَأَتِهِ مِنَ الْفُجُورِ
-يَعْلَمُ ذَلِكَ وَ يُقِيمُ عَلَيْهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يَأْكُلُ مِنْ كَسْبِ امْرَأَتِهِ مِنَ الْفُجُورِ
+> يَعْلَمُ ذَلِكَ وَ يُقِيمُ عَلَيْهِ
 
 48. And you will see a man eat from the earnings of his wife, (which she
 got) from immoral actions and him knowing it, and being okay with it.
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَرْأَةَ تَقْهَرُ زَوْجَهَا وَ تَعْمَلُ مَا لَا
-يَشْتَهِي وَ تُنْفِقُ عَلَى زَوْجِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَرْأَةَ تَقْهَرُ زَوْجَهَا وَ تَعْمَلُ مَا لَا
+> يَشْتَهِي وَ تُنْفِقُ عَلَى زَوْجِهَا
 
 49. And you will see women overcome her husband and work for what he
 desires and she spends for husband
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يُكْرِي امْرَأَتَهُ وَ جَارِيَتَهُ وَ يَرْضَى
-بِالدَّنِيِّ مِنَ الطَّعَامِ وَ الشَّرَابِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يُكْرِي امْرَأَتَهُ وَ جَارِيَتَهُ وَ يَرْضَى
+> بِالدَّنِيِّ مِنَ الطَّعَامِ وَ الشَّرَابِ
 
 50. And you will see men hire his women and slave girl and accept with
 worthless things from food and drinks
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْأَيْمَانَ بِاللَّهِ عَزَّ وَ جَلَّ كَثِيرَةً عَلَى
-الزُّورِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْأَيْمَانَ بِاللَّهِ عَزَّ وَ جَلَّ كَثِيرَةً عَلَى
+> الزُّورِ
 
 51. And you will see Iman (faith) in Allah (عَزَّ وَ جَلَّ) (be based)
 on many falsehoods
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْقِمَارَ قَدْ ظَهَرَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْقِمَارَ قَدْ ظَهَرَ
 
 52. And you will see gambling become apparent
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الشَّرَابَ يُبَاعُ ظَاهِراً لَيْسَ لَهُ مَانِعٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الشَّرَابَ يُبَاعُ ظَاهِراً لَيْسَ لَهُ مَانِعٌ
 
 53. And you will see wine vendors become apparent and no one prevents it
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النِّسَاءَ يَبْذُلْنَ أَنْفُسَهُنَّ لِأَهْلِ الْكُفْرِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النِّسَاءَ يَبْذُلْنَ أَنْفُسَهُنَّ لِأَهْلِ الْكُفْرِ
 
 54. And you will see the women give themselves to the people of kufr
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَلَاهِيَ قَدْ ظَهَرَتْ يُمَرُّ بِهَا لَا يَمْنَعُهَا
-أَحَدٌ أَحَداً وَ لَا يَجْتَرِئُ أَحَدٌ عَلَى مَنْعِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَلَاهِيَ قَدْ ظَهَرَتْ يُمَرُّ بِهَا لَا يَمْنَعُهَا
+> أَحَدٌ أَحَداً وَ لَا يَجْتَرِئُ أَحَدٌ عَلَى مَنْعِهَا
 
 55. And you will see amusements become apparent, and (people) pass by it
 and no one prevents it, and no one will dare to stop it
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الشَّرِيفَ يَسْتَذِلُّهُ الَّذِي يُخَافُ سُلْطَانُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الشَّرِيفَ يَسْتَذِلُّهُ الَّذِي يُخَافُ سُلْطَانُهُ
 
 56. And you will see the Sharif (the dignified/reputable) become humbled
 because he fears his ruler
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ أَقْرَبَ النَّاسِ مِنَ الْوُلَاةِ مَنْ يَمْتَدِحُ
-بِشَتْمِنَا أَهْلَ الْبَيْتِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ أَقْرَبَ النَّاسِ مِنَ الْوُلَاةِ مَنْ يَمْتَدِحُ
+> بِشَتْمِنَا أَهْلَ الْبَيْتِ
 
 57. And you will see the closest people to the rulers will be praised
 for cursing the Ahl Al-Bayt (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ مَنْ يُحِبُّنَا يُزَوَّرُ وَ لَا تُقْبَلُ شَهَادَتُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ مَنْ يُحِبُّنَا يُزَوَّرُ وَ لَا تُقْبَلُ شَهَادَتُهُ
 
 58. And you will see whoever loves us are (called) liars and their
 testimonies are not accepted
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الزُّورَ مِنَ الْقَوْلِ يُتَنَافَسُ فِيهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الزُّورَ مِنَ الْقَوْلِ يُتَنَافَسُ فِيهِ
 
 59. And you will see those who compete over false words
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْقُرْآنَ قَدْ ثَقُلَ عَلَى النَّاسِ اسْتِمَاعُهُ وَ
-خَفَّ عَلَى النَّاسِ اسْتِمَاعُ الْبَاطِلِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْقُرْآنَ قَدْ ثَقُلَ عَلَى النَّاسِ اسْتِمَاعُهُ وَ
+> خَفَّ عَلَى النَّاسِ اسْتِمَاعُ الْبَاطِلِ
 
 60. And you will see the Qur’an will become heavy on the people to
 listen to, and it will be light upon the people to listen to falsehood
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْجَارَ يُكْرِمُ الْجَارَ خَوْفاً مِنْ لِسَانِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْجَارَ يُكْرِمُ الْجَارَ خَوْفاً مِنْ لِسَانِهِ
 
 61. And you will see a neighbor honor another neighbor because of fear
 of his tongue
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْحُدُودَ قَدْ عُطِّلَتْ وَ عُمِلَ فِيهَا بِالْأَهْوَاءِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْحُدُودَ قَدْ عُطِّلَتْ وَ عُمِلَ فِيهَا بِالْأَهْوَاءِ
 
 62. And you will see punishments become neglected and people will act
 according to their desires
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَسَاجِدَ قَدْ زُخْرِفَتْ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَسَاجِدَ قَدْ زُخْرِفَتْ
 
 63. And you will see the masjid (pl. masjid) being adorned / beautified
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ أَصْدَقَ النَّاسِ عِنْدَ النَّاسِ الْمُفْتَرِيَ الْكَذِبَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ أَصْدَقَ النَّاسِ عِنْدَ النَّاسِ الْمُفْتَرِيَ الْكَذِبَ
 
 64. And you will see the truthful people from the people are the
 slanderers and liars
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الشَّرَّ قَدْ ظَهَرَ وَ السَّعْيَ بِالنَّمِيمَةِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الشَّرَّ قَدْ ظَهَرَ وَ السَّعْيَ بِالنَّمِيمَةِ
 
 65. And you will see evil and tale bearing become apparent
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْبَغْيَ قَدْ فَشَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْبَغْيَ قَدْ فَشَا
 
 66. And you will see adulteresses become rampant
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْغِيبَةَ تُسْتَمْلَحُ وَ يُبَشِّرُ بِهَا النَّاسُ
-بَعْضُهُمْ بَعْضاً
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْغِيبَةَ تُسْتَمْلَحُ وَ يُبَشِّرُ بِهَا النَّاسُ
+> بَعْضُهُمْ بَعْضاً
 
 67. And you will see gheebah (backbiting) become likeable and the people
 give it as good news to one another
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ طَلَبَ الْحَجِّ وَ الْجِهَادِ لِغَيْرِ اللَّهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ طَلَبَ الْحَجِّ وَ الْجِهَادِ لِغَيْرِ اللَّهِ
 
 68. And you will see seek for hajj and jihad for other than Allah
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ السُّلْطَانَ يُذِلُّ لِلْكَافِرِ الْمُؤْمِنَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ السُّلْطَانَ يُذِلُّ لِلْكَافِرِ الْمُؤْمِنَ
 
 69. And you will see rulers humiliate the believers for the unbelievers
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْخَرَابَ قَدْ أُدِيلَ مِنَ الْعُمْرَانِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْخَرَابَ قَدْ أُدِيلَ مِنَ الْعُمْرَانِ
 
 70. And you will see destruction pass from ages
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ مَعِيشَتُهُ مِنْ بَخْسِ الْمِكْيَالِ وَ
-الْمِيزَانِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ مَعِيشَتُهُ مِنْ بَخْسِ الْمِكْيَالِ وَ
+> الْمِيزَانِ
 
 71. And you will see men earn a livelihood from cheating in measuring
 and scaling
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ سَفْكَ الدِّمَاءِ يُسْتَخَفُّ بِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ سَفْكَ الدِّمَاءِ يُسْتَخَفُّ بِهَا
 
 72. And you will see bloodshed being undervalued
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يَطْلُبُ الرِّئَاسَةَ لِعَرَضِ الدُّنْيَا وَ
-يَشْهَرُ نَفْسَهُ بِخُبْثِ اللِّسَانِ لِيُتَّقَى وَ تُسْنَدَ إِلَيْهِ
-الْأُمُورُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يَطْلُبُ الرِّئَاسَةَ لِعَرَضِ الدُّنْيَا وَ
+> يَشْهَرُ نَفْسَهُ بِخُبْثِ اللِّسَانِ لِيُتَّقَى وَ تُسْنَدَ إِلَيْهِ
+> الْأُمُورُ
 
 73. And you will see a man seeking leadership for the sake of the world
 and to make himself famous through maligning with his tongue, and the
 affairs are supported by him
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الصَّلَاةَ قَدِ اسْتُخِفَّ بِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الصَّلَاةَ قَدِ اسْتُخِفَّ بِهَا
 
 74. And you will see Salah being belittled / undervalued
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ عِنْدَهُ الْمَالُ الْكَثِيرُ ثُمَّ لَمْ
-يُزَكِّهِ مُنْذُ مَلَكَهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ عِنْدَهُ الْمَالُ الْكَثِيرُ ثُمَّ لَمْ
+> يُزَكِّهِ مُنْذُ مَلَكَهُ
 
 75. And you will see men who have great wealth, and then he does not pay
 zakat for his country
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَيِّتَ يُنْبَشُ مِنْ قَبْرِهِ وَ يُؤْذَى وَ تُبَاعُ
-أَكْفَانُهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَيِّتَ يُنْبَشُ مِنْ قَبْرِهِ وَ يُؤْذَى وَ تُبَاعُ
+> أَكْفَانُهُ
 
 76. And you will see the dead exhumed from his grave and being harmed
 and selling his kafan (clothes for the dead)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْهَرْجَ قَدْ كَثُرَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْهَرْجَ قَدْ كَثُرَ
 
 77. And you will see commotion becoming many
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يُمْسِي نَشْوَانَ وَ يُصْبِحُ سَكْرَانَ لَا
-يَهْتَمُّ بِمَا النَّاسُ فِيهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يُمْسِي نَشْوَانَ وَ يُصْبِحُ سَكْرَانَ لَا
+> يَهْتَمُّ بِمَا النَّاسُ فِيهِ
 
 78. And you will see men becoming drunk and turning into a drunkard and
 no one from the people cares about him
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْبَهَائِمَ تُنْكَحُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْبَهَائِمَ تُنْكَحُ
 
 79. And you will see bestiality (sex with animals)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْبَهَائِمَ يَفْرِسُ بَعْضُهَا بَعْضاً
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْبَهَائِمَ يَفْرِسُ بَعْضُهَا بَعْضاً
 
 80. And you will see animals devour one another
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يَخْرُجُ إِلَى مُصَلَّاهُ وَ يَرْجِعُ وَ لَيْسَ
-عَلَيْهِ شَيْ‏ءٌ مِنْ ثِيَابِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يَخْرُجُ إِلَى مُصَلَّاهُ وَ يَرْجِعُ وَ لَيْسَ
+> عَلَيْهِ شَيْ‏ءٌ مِنْ ثِيَابِهِ
 
 81. And you will see men come out from the prayer area and return,
 without anything from his clothes (on him)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ قُلُوبَ النَّاسِ قَدْ قَسَتْ وَ جَمَدَتْ أَعْيُنُهُمْ وَ
-ثَقُلَ الذِّكْرُ عَلَيْهِمْ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ قُلُوبَ النَّاسِ قَدْ قَسَتْ وَ جَمَدَتْ أَعْيُنُهُمْ وَ
+> ثَقُلَ الذِّكْرُ عَلَيْهِمْ
 
 82. And you will see the hearts of people become tough and their eyes
 become hard, and remembrance (of Allah) becomes heavy for them
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ السُّحْتَ قَدْ ظَهَرَ يُتَنَافَسُ فِيهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ السُّحْتَ قَدْ ظَهَرَ يُتَنَافَسُ فِيهِ
 
 83. And you will see (people) competing in unlawful things becoming
 apparent
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمُصَلِّيَ إِنَّمَا يُصَلِّي لِيَرَاهُ النَّاسُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمُصَلِّيَ إِنَّمَا يُصَلِّي لِيَرَاهُ النَّاسُ
 
 84. And you will see someone praying and he prays so the people can see
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْفَقِيهَ يَتَفَقَّهُ لِغَيْرِ الدِّينِ يَطْلُبُ
-الدُّنْيَا وَ الرِّئَاسَةَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْفَقِيهَ يَتَفَقَّهُ لِغَيْرِ الدِّينِ يَطْلُبُ
+> الدُّنْيَا وَ الرِّئَاسَةَ
 
 85. And you will see a faqih (Islamic scholar) learn for other than the
 religion and seek the world and leadership
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ مَعَ مَنْ غَلَبَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ مَعَ مَنْ غَلَبَ
 
 86. And you will see people with who overpower (others)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ طَالِبَ الْحَلَالِ يُذَمُّ وَ يُعَيَّرُ وَ طَالِبَ
-الْحَرَامِ يُمْدَحُ وَ يُعَظَّمُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ طَالِبَ الْحَلَالِ يُذَمُّ وَ يُعَيَّرُ وَ طَالِبَ
+> الْحَرَامِ يُمْدَحُ وَ يُعَظَّمُ
 
 87. And you will see a person seeking halal being defamed and
 humiliated, and the person seeking haram praised and dignified
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْحَرَمَيْنِ يُعْمَلُ فِيهِمَا بِمَا لَا يُحِبُّ اللَّهُ
-لَا يَمْنَعُهُمْ مَانِعٌ وَ لَا يَحُولُ بَيْنَهُمْ وَ بَيْنَ الْعَمَلِ
-الْقَبِيحِ أَحَدٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْحَرَمَيْنِ يُعْمَلُ فِيهِمَا بِمَا لَا يُحِبُّ اللَّهُ
+> لَا يَمْنَعُهُمْ مَانِعٌ وَ لَا يَحُولُ بَيْنَهُمْ وَ بَيْنَ الْعَمَلِ
+> الْقَبِيحِ أَحَدٌ
 
 88. And you will see actions in haramayn (two mosques in Makkah and
 Medina) that Allah does not like and no one will prevent it and try to
 change anyone between them and between the ugly actions.
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَعَازِفَ ظَاهِرَةً فِي الْحَرَمَيْنِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَعَازِفَ ظَاهِرَةً فِي الْحَرَمَيْنِ
 
 89. And you will see musical instruments being apparent in the haramayn
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يَتَكَلَّمُ بِشَيْ‏ءٍ مِنَ الْحَقِّ وَ يَأْمُرُ
-بِالْمَعْرُوفِ وَ يَنْهَى عَنِ الْمُنْكَرِ فَيَقُومُ إِلَيْهِ مَنْ
-يَنْصَحُهُ فِي نَفْسِهِ فَيَقُولُ هَذَا عَنْكَ مَوْضُوعٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يَتَكَلَّمُ بِشَيْ‏ءٍ مِنَ الْحَقِّ وَ يَأْمُرُ
+> بِالْمَعْرُوفِ وَ يَنْهَى عَنِ الْمُنْكَرِ فَيَقُومُ إِلَيْهِ مَنْ
+> يَنْصَحُهُ فِي نَفْسِهِ فَيَقُولُ هَذَا عَنْكَ مَوْضُوعٌ
 
 90. And you will see a man who speaks something that is haqq (the truth)
 and commands the good and forbids the evil and (someone) will stand up
 and recommend him and say: ‘This is not your responsibility’
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ يَنْظُرُ بَعْضُهُمْ إِلَى بَعْضٍ وَ يَقْتَدُونَ
-بِأَهْلِ الشُّرُورِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ يَنْظُرُ بَعْضُهُمْ إِلَى بَعْضٍ وَ يَقْتَدُونَ
+> بِأَهْلِ الشُّرُورِ
 
 91. And you will see people see one another and emulate the people of
 evil
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ مَسْلَكَ الْخَيْرِ وَ طَرِيقَهُ خَالِياً لَا يَسْلُكُهُ
-أَحَدٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ مَسْلَكَ الْخَيْرِ وَ طَرِيقَهُ خَالِياً لَا يَسْلُكُهُ
+> أَحَدٌ
 
 92. And you will see the path of good and its path being empty that no
 one wants to pursue
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَيِّتَ يُهْزَأُ بِهِ فَلَا يَفْزَعُ لَهُ أَحَدٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَيِّتَ يُهْزَأُ بِهِ فَلَا يَفْزَعُ لَهُ أَحَدٌ
 
 93. And you will see the death being ridiculed and no one being afraid
 of it
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ كُلَّ عَامٍ يَحْدُثُ فِيهِ مِنَ الشَّرِّ وَ الْبِدْعَةِ
-أَكْثَرُ مِمَّا كَانَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ كُلَّ عَامٍ يَحْدُثُ فِيهِ مِنَ الشَّرِّ وَ الْبِدْعَةِ
+> أَكْثَرُ مِمَّا كَانَ
 
 94. And you will see that every year newly invented things from the evil
 and many bid\`ah (innovation) will come
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْخَلْقَ وَ الْمَجَالِسَ لَا يُتَابِعُونَ إِلَّا
-الْأَغْنِيَاءَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْخَلْقَ وَ الْمَجَالِسَ لَا يُتَابِعُونَ إِلَّا
+> الْأَغْنِيَاءَ
 
 95. And you will see the creations and gatherings not following (anyone)
 except the wealthy
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمُحْتَاجَ يُعْطَى عَلَى الضَّحِكِ بِهِ وَ يُرْحَمُ
-لِغَيْرِ وَجْهِ اللَّهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمُحْتَاجَ يُعْطَى عَلَى الضَّحِكِ بِهِ وَ يُرْحَمُ
+> لِغَيْرِ وَجْهِ اللَّهِ
 
 96. And you will see the poor receive (help) so that (people) can laugh
 at him, and have mercy on him for other than for the sake of Allah
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْآيَاتِ فِي السَّمَاءِ لَا يَفْزَعُ لَهَا أَحَدٌ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْآيَاتِ فِي السَّمَاءِ لَا يَفْزَعُ لَهَا أَحَدٌ
 
 97. And you will see signs in the earth and no one will fear
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ يَتَسَافَدُونَ كَمَا يَتَسَافَدُ الْبَهَائِمُ لَا
-يُنْكِرُ أَحَدٌ مُنْكَراً تَخَوُّفاً مِنَ النَّاسِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ يَتَسَافَدُونَ كَمَا يَتَسَافَدُ الْبَهَائِمُ لَا
+> يُنْكِرُ أَحَدٌ مُنْكَراً تَخَوُّفاً مِنَ النَّاسِ
 
 98. And you will see people have sex like animals have sex, and no one
 will deny this because of fear from the people
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ يُنْفِقُ الْكَثِيرَ فِي غَيْرِ طَاعَةِ اللَّهِ
-وَ يَمْنَعُ الْيَسِيرَ فِي طَاعَةِ اللَّهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ يُنْفِقُ الْكَثِيرَ فِي غَيْرِ طَاعَةِ اللَّهِ
+> وَ يَمْنَعُ الْيَسِيرَ فِي طَاعَةِ اللَّهِ
 
 99. And you will see a man spend a lot in other than obedience to Allah
 and denies little in obedience of Allah
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْعُقُوقَ قَدْ ظَهَرَ وَ اسْتُخِفَّ بِالْوَالِدَيْنِ وَ
-كَانَا مِنْ أَسْوَإِ النَّاسِ حَالًا عِنْدَ الْوَلَدِ وَ يَفْرَحُ
-بِأَنْ يَفْتَرِيَ عَلَيْهِمَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْعُقُوقَ قَدْ ظَهَرَ وَ اسْتُخِفَّ بِالْوَالِدَيْنِ وَ
+> كَانَا مِنْ أَسْوَإِ النَّاسِ حَالًا عِنْدَ الْوَلَدِ وَ يَفْرَحُ
+> بِأَنْ يَفْتَرِيَ عَلَيْهِمَا
 
 100. And you will see ungratefulness becoming apparent and belittling to
 the parents and they will be from the worst condition of people for the
 children and they will be happy defaming them (their parents)
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النِّسَاءَ وَ قَدْ غَلَبْنَ عَلَى الْمُلْكِ وَ غَلَبْنَ
-عَلَى كُلِّ أَمْرٍ لَا يُؤْتَى إِلَّا مَا لَهُنَّ فِيهِ هَوًى
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النِّسَاءَ وَ قَدْ غَلَبْنَ عَلَى الْمُلْكِ وَ غَلَبْنَ
+> عَلَى كُلِّ أَمْرٍ لَا يُؤْتَى إِلَّا مَا لَهُنَّ فِيهِ هَوًى
 
 101. And you will see the women become powerful in the land, and have
 power over all the affairs and does not come except what she desires
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ ابْنَ الرَّجُلِ يَفْتَرِي عَلَى أَبِيهِ وَ يَدْعُو عَلَى
-وَالِدَيْهِ وَ يَفْرَحُ بِمَوْتِهِمَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ ابْنَ الرَّجُلِ يَفْتَرِي عَلَى أَبِيهِ وَ يَدْعُو عَلَى
+> وَالِدَيْهِ وَ يَفْرَحُ بِمَوْتِهِمَا
 
 102. And you will see the son of man defame his father and curse his
 father, and become happy when he dies
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الرَّجُلَ إِذَا مَرَّ بِهِ يَوْمٌ وَ لَمْ يَكْسِبْ فِيهِ
-الذَّنْبَ الْعَظِيمَ مِنْ فُجُورٍ أَوْ بَخْسِ مِكْيَالٍ أَوْ مِيزَانٍ
-أَوْ غِشْيَانِ حَرَامٍ أَوْ شُرْبِ مُسْكِرٍ كَئِيباً حَزِيناً يَحْسَبُ
-أَنَّ ذَلِكَ الْيَوْمَ عَلَيْهِ وَضِيعَةٌ مِنْ عُمُرِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الرَّجُلَ إِذَا مَرَّ بِهِ يَوْمٌ وَ لَمْ يَكْسِبْ فِيهِ
+> الذَّنْبَ الْعَظِيمَ مِنْ فُجُورٍ أَوْ بَخْسِ مِكْيَالٍ أَوْ مِيزَانٍ
+> أَوْ غِشْيَانِ حَرَامٍ أَوْ شُرْبِ مُسْكِرٍ كَئِيباً حَزِيناً يَحْسَبُ
+> أَنَّ ذَلِكَ الْيَوْمَ عَلَيْهِ وَضِيعَةٌ مِنْ عُمُرِهِ
 
 103. And you will see a man when a day passes and he has not earned a
 great sin in it from tyranny, or cheating in measuring, or scale, or
 committing an unlawful act, or drinking wine, he becomes sad and
 depressed and counts that day as a day lost in his life
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ السُّلْطَانَ يَحْتَكِرُ الطَّعَامَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ السُّلْطَانَ يَحْتَكِرُ الطَّعَامَ
 
 104. And you will see a ruler monopolize on the food
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ أَمْوَالَ ذَوِي الْقُرْبَى تُقْسَمُ فِي الزُّورِ وَ
-يُتَقَامَرُ بِهَا وَ تُشْرَبُ بِهَا الْخُمُورُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ أَمْوَالَ ذَوِي الْقُرْبَى تُقْسَمُ فِي الزُّورِ وَ
+> يُتَقَامَرُ بِهَا وَ تُشْرَبُ بِهَا الْخُمُورُ
 
 105. And you will see the assets of relatives distributed in falsehood
 and gambled with to drink wine
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْخَمْرَ يُتَدَاوَى بِهَا وَ يُوصَفُ لِلْمَرِيضِ وَ
-يُسْتَشْفَى بِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْخَمْرَ يُتَدَاوَى بِهَا وَ يُوصَفُ لِلْمَرِيضِ وَ
+> يُسْتَشْفَى بِهَا
 
 106. And you will alcohol being used as a cure and form to heal the sick
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ قَدِ اسْتَوَوْا فِي تَرْكِ الْأَمْرِ
-بِالْمَعْرُوفِ وَ النَّهْيِ عَنِ الْمُنْكَرِ وَ تَرْكِ التَّدَيُّنِ
-بِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ قَدِ اسْتَوَوْا فِي تَرْكِ الْأَمْرِ
+> بِالْمَعْرُوفِ وَ النَّهْيِ عَنِ الْمُنْكَرِ وَ تَرْكِ التَّدَيُّنِ
+> بِهِ
 
 107. And you will see the people equal in abandoning commanding the good
 and forbidding the evil and abandoning the religion
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ رِيَاحَ الْمُنَافِقِينَ وَ أَهْلِ النِّفَاقِ قَائِمَةً وَ
-رِيَاحَ أَهْلِ الْحَقِّ لَا تَحَرَّكُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ رِيَاحَ الْمُنَافِقِينَ وَ أَهْلِ النِّفَاقِ قَائِمَةً وَ
+> رِيَاحَ أَهْلِ الْحَقِّ لَا تَحَرَّكُ
 
 108. And you will see the munaafiqeen and people of hypocrisy on the
 rise and the people of haqq do not move
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْأَذَانَ بِالْأَجْرِ وَ الصَّلَاةَ بِالْأَجْرِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْأَذَانَ بِالْأَجْرِ وَ الصَّلَاةَ بِالْأَجْرِ
 
 109. And you will see money asked for doing the Adhan and Salah
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَسَاجِدَ مُحْتَشِيَةً مِمَّنْ لَا يَخَافُ اللَّهَ-
-مُجْتَمِعُونَ فِيهَا لِلْغِيبَةِ وَ أَكْلِ لُحُومِ أَهْلِ الْحَقِّ وَ
-يَتَوَاصَفُونَ فِيهَا شَرَابَ الْمُسْكِرِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَسَاجِدَ مُحْتَشِيَةً مِمَّنْ لَا يَخَافُ اللَّهَ-
+> مُجْتَمِعُونَ فِيهَا لِلْغِيبَةِ وَ أَكْلِ لُحُومِ أَهْلِ الْحَقِّ وَ
+> يَتَوَاصَفُونَ فِيهَا شَرَابَ الْمُسْكِرِ
 
 110. And you will see the masjid crowded with those who do no fear
 Allah, they father for gheebah and they eat flesh of the people of haqq
 and prescribed wine and intoxicants
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ السَّكْرَانَ يُصَلِّي بِالنَّاسِ وَ هُوَ لَا يَعْقِلُ وَ
-لَا يُشَانُ بِالسُّكْرِ وَ إِذَا سَكِرَ أُكْرِمَ وَ اتُّقِيَ وَ خِيفَ
-وَ تُرِكَ لَا يُعَاقَبُ وَ يُعْذَرُ بِسُكْرِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ السَّكْرَانَ يُصَلِّي بِالنَّاسِ وَ هُوَ لَا يَعْقِلُ وَ
+> لَا يُشَانُ بِالسُّكْرِ وَ إِذَا سَكِرَ أُكْرِمَ وَ اتُّقِيَ وَ خِيفَ
+> وَ تُرِكَ لَا يُعَاقَبُ وَ يُعْذَرُ بِسُكْرِهِ
 
 111. And you will see the drunkards from the people lead Salah and he
 has no understanding and he is not ashamed of being drunk, and when
 being drunk is honored and feared, and abandoning him is feared, and no
 punishment for being drunk.
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ مَنْ أَكَلَ أَمْوَالَ الْيَتَامَى يُحْمَدُ بِصَلَاحِهِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ مَنْ أَكَلَ أَمْوَالَ الْيَتَامَى يُحْمَدُ بِصَلَاحِهِ
 
 112. And you will see whoever eats the wealth of orphans will be praised
 as being good
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْقُضَاةَ يَقْضُونَ بِخِلَافِ مَا أَمَرَ اللَّهُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْقُضَاةَ يَقْضُونَ بِخِلَافِ مَا أَمَرَ اللَّهُ
 
 113. And you will see judge will judge against what Allah has commanded
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْوُلَاةَ يَأْتَمِنُونَ الْخَوَنَةَ لِلطَّمَعِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْوُلَاةَ يَأْتَمِنُونَ الْخَوَنَةَ لِلطَّمَعِ
 
 114. And you will see the rulers trust the treacherous one for greed
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمِيرَاثَ قَدْ وَضَعَتْهُ الْوُلَاةُ لِأَهْلِ الْفُسُوقِ
-وَ الْجُرْأَةِ عَلَى اللَّهِ يَأْخُذُونَ مِنْهُمْ وَ يُخَلُّونَهُمْ وَ
-مَا يَشْتَهُونَ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمِيرَاثَ قَدْ وَضَعَتْهُ الْوُلَاةُ لِأَهْلِ الْفُسُوقِ
+> وَ الْجُرْأَةِ عَلَى اللَّهِ يَأْخُذُونَ مِنْهُمْ وَ يُخَلُّونَهُمْ وَ
+> مَا يَشْتَهُونَ
 
 115. And you will see inheritors become vilifies and rulers of the
 people of fisq and against the commandment of Allah who take form them
 and leave in them what they desire
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الْمَنَابِرَ يُؤْمَرُ عَلَيْهَا بِالتَّقْوَى وَ لَا
-يَعْمَلُ الْقَائِلُ بِمَا يَأْمُرُ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الْمَنَابِرَ يُؤْمَرُ عَلَيْهَا بِالتَّقْوَى وَ لَا
+> يَعْمَلُ الْقَائِلُ بِمَا يَأْمُرُ
 
 116. And you will see the pulpits command those to act pious, but they
 do no act on what they command
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الصَّلَاةَ قَدِ اسْتُخِفَّ بِأَوْقَاتِهَا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الصَّلَاةَ قَدِ اسْتُخِفَّ بِأَوْقَاتِهَا
 
 117. And you will see the timing of Salah belittled
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الصَّدَقَةَ بِالشَّفَاعَةِ لَا يُرَادُ بِهَا وَجْهُ
-اللَّهِ وَ يُعْطَى لِطَلَبِ النَّاسِ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الصَّدَقَةَ بِالشَّفَاعَةِ لَا يُرَادُ بِهَا وَجْهُ
+> اللَّهِ وَ يُعْطَى لِطَلَبِ النَّاسِ
 
 118. And you will see charity given through intercession and not for the
 sake of Allah and of the people demands and pleasures
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ النَّاسَ هَمُّهُمْ بُطُونُهُمْ وَ فُرُوجُهُمْ لَا
-يُبَالُونَ بِمَا أَكَلُوا وَ مَا نَكَحُوا
-  </p>
-</blockquote>
+> وَ رَأَيْتَ النَّاسَ هَمُّهُمْ بُطُونُهُمْ وَ فُرُوجُهُمْ لَا
+> يُبَالُونَ بِمَا أَكَلُوا وَ مَا نَكَحُوا
 
 119. And you will see the people who take care of their stomachs and
 their sexual organs and do not pay attention to what they eat and who
 they have sex with
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ الدُّنْيَا مُقْبِلَةً عَلَيْهِمْ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ الدُّنْيَا مُقْبِلَةً عَلَيْهِمْ
 
 120. And you will see the world following them
 
-<blockquote dir="rtl">
-  <p>
-وَ رَأَيْتَ أَعْلَامَ الْحَقِّ قَدْ دَرَسَتْ
-  </p>
-</blockquote>
+> وَ رَأَيْتَ أَعْلَامَ الْحَقِّ قَدْ دَرَسَتْ
 
 121. And you will see the flag of haqq has become old
 
-<blockquote dir="rtl">
-  <p>
-فَكُنْ عَلَى حَذَرٍ وَ اطْلُبْ إِلَى اللَّهِ عَزَّ وَ جَلَّ النَّجَاةَ
-وَ اعْلَمْ أَنَّ النَّاسَ فِي سَخَطِ اللَّهِ عَزَّ وَ جَلَّ وَ
-إِنَّمَا يُمْهِلُهُمْ لِأَمْرٍ يُرَادُ بِهِمْ فَكُنْ مُتَرَقِّباً وَ
-اجْتَهِدْ لِيَرَاكَ اللَّهُ عَزَّ وَ جَلَّ فِي خِلَافِ مَا هُمْ
-عَلَيْهِ
-  </p>
-</blockquote>
+> فَكُنْ عَلَى حَذَرٍ وَ اطْلُبْ إِلَى اللَّهِ عَزَّ وَ جَلَّ النَّجَاةَ
+> وَ اعْلَمْ أَنَّ النَّاسَ فِي سَخَطِ اللَّهِ عَزَّ وَ جَلَّ وَ
+> إِنَّمَا يُمْهِلُهُمْ لِأَمْرٍ يُرَادُ بِهِمْ فَكُنْ مُتَرَقِّباً وَ
+> اجْتَهِدْ لِيَرَاكَ اللَّهُ عَزَّ وَ جَلَّ فِي خِلَافِ مَا هُمْ
+> عَلَيْهِ
 
 So you must beware and request for Allah (عَزَّ وَ جَلَّ) salvation, and
 know that Allah (عَزَّ وَ جَلَّ) is angry with the people and He delays
@@ -1368,11 +872,7 @@ different dimensions.
 We read in a famous hadith, which has been quoted from Sahih of
 “Tirmidhi” that Prophet (S) said:
 
-<blockquote dir="rtl">
-  <p>
-انّه لم یکن نبیّ بعد نوح الّا انذر قومه الدّجال و انّی انذرکموه
-  </p>
-</blockquote>
+> انّه لم یکن نبیّ بعد نوح الّا انذر قومه الدّجال و انّی انذرکموه
 
 Any prophet, after Noah, forewarned his nation from the conspiracy of
 Dajjal, I also forewarn you![^4]
@@ -1383,11 +883,7 @@ year latter.
 
 Especially, because we read at the end of hadith that:
 
-<blockquote dir="rtl">
-  <p>
-فوصفه لنا رسول الله فقال لعلّه سیدرکه بعض من رآنی او سمع کلامی
-  </p>
-</blockquote>
+> فوصفه لنا رسول الله فقال لعلّه سیدرکه بعض من رآنی او سمع کلامی
 
 Then Prophet (S) explained his characteristics for us and said maybe
 some of those who have seen me or have heard my expression live in his
@@ -1404,12 +900,8 @@ Also, we read in another hadith in the same book that:
 
 Prophet (S) said about Dajjal:
 
-<blockquote dir="rtl">
-  <p>
-ما من نبیّ الّا وقد انذر قومه و لکن ساقول فیه قولا لم یقله نبیّ لقومه
-تعلمون انّه اعور ...
-  </p>
-</blockquote>
+> ما من نبیّ الّا وقد انذر قومه و لکن ساقول فیه قولا لم یقله نبیّ لقومه
+> تعلمون انّه اعور ...
 
 There was no prophet except that he forewarned his nation from the
 conspiracy of Dajjal, but I say a sentence about him that no prophet
@@ -1438,12 +930,8 @@ This expression also confirms the multiplicity of Dajjals.
 
 We read in another hadith:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله (ص) لا تقوم اسّاعة حتی یخرج نحو من ستّین کذّاباً کلّهم
-قولون انا نبی!
-  </p>
-</blockquote>
+> قال رسول الله (ص) لا تقوم اسّاعة حتی یخرج نحو من ستّین کذّاباً کلّهم
+> قولون انا نبی!
 
 Prophet (S) said: resurrection won’t come except that sixty liars appear
 and claim for prophecy![^6]
@@ -1616,11 +1104,7 @@ plans which many persons have been their examples in history.
 For instance, it is quoted in a narrative from Imam Ali ibn Hussein
 (as):
 
-<blockquote dir="rtl">
-  <p>
-امر السّیانی حتم من الله ولایکون قائم الّا بسفیانی
-  </p>
-</blockquote>
+> امر السّیانی حتم من الله ولایکون قائم الّا بسفیانی
 
 The appearance of Sufyani is one of the certain matters; and there is
 one Sufyani against anyone who rises![^11]
@@ -1632,13 +1116,9 @@ revolutionary man and truthful peacemaker.
 
 We read in another hadith from Imam Sadiq (as):
 
-<blockquote dir="rtl">
-  <p>
-انا و آل ابی سفیان اهل بیتین تعادینا فی الله؛ قلنا صدق الله و قالو کذب
-الله؛ قاتل ابوسفیان رسول الله (ص) و قاتل معاویة علی بن ابی طالب (ع) و
-قاتل یزید بن معاویه الحسین بی علی (ع) و السّفیانی یقاتل القائم
-  </p>
-</blockquote>
+> انا و آل ابی سفیان اهل بیتین تعادینا فی الله؛ قلنا صدق الله و قالو کذب
+> الله؛ قاتل ابوسفیان رسول الله (ص) و قاتل معاویة علی بن ابی طالب (ع) و
+> قاتل یزید بن معاویه الحسین بی علی (ع) و السّفیانی یقاتل القائم
 
 We and the dynasty of Abu Sufyan are two dynasties that don’t have
 agreement about divine programs; we have confirmed the expressions of
@@ -1778,5 +1258,4 @@ vol. 52, page 192).
 [^12]: Bihar al-Anwar, vol. 52, page 190.
 
 [^13]: Bihar al-Anwar, vol. 52, page 26.
-
 

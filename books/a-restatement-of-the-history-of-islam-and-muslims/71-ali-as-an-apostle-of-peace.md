@@ -437,4 +437,3 @@ honorably before Him, and before His entire creation.”
 The source of the passages quoted above, is not Ali's intellect or his
 imagination but his buoyant love of God!
 
-

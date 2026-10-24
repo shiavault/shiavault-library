@@ -37,7 +37,3 @@ cannot cause the other greater sins to be forgiven. It can only help in
 forgiveness of smaller sins, (In the background we should also remember
 that repeating smaller sins make them into greater sins).
 
-
-
-
-

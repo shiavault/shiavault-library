@@ -495,8 +495,6 @@ who states: No matter what character an individual may have, 8 9 The
 holy Qur'an: The Family of 'Amraan (3): 159.
 9 0 The holy Qur'an: The Light (24): 22.
 
-
 If he wanted it hidden from the people, it would (eventually) be found
 out.
-
 

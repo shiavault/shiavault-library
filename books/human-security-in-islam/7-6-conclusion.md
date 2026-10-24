@@ -29,4 +29,3 @@ the important roles played by religion in human security thus help to
 bridge the gap between the western concept of human security and the
 Asian concept of human security.
 
-

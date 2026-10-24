@@ -8,4 +8,3 @@ On Thursday nights, sweet words fly high in the sky full of stars. The
 words remind people of that great martyr whose name is connected with
 the supplication. So, his name will be immortal.
 
-

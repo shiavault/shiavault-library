@@ -184,4 +184,3 @@ Bahmanyār, Ibn Rushd, and Ibn Turke a few of the most outstanding and
 eminent philosophers.  
 ** **
 
-

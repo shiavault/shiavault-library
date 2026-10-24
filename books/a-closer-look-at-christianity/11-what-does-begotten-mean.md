@@ -32,4 +32,3 @@ be conceived of the dead; it is a form of expression. The same thing
 with God, He begets not, and this word***“begotten”*** is only a form of
 expression.
 
-

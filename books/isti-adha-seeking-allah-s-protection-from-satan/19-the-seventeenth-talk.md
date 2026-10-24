@@ -1,20 +1,12 @@
 The Seventeenth Talk
 ====================
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
-رَبِّهِمْ يَتَوَكَّلُونَ
-  </p>
-</blockquote>
+> إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُواْ وَعَلَى
+> رَبِّهِمْ يَتَوَكَّلُونَ
 
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura An-Nahl, 16:99)***
@@ -34,7 +26,6 @@ are in His power) and “*Qaadir ‘ala kulli shayy”* (wields power over all
 things). The most difficult tasks that man is unable to perform with all
 his capabilities, are very easy of accomplishment by Allah (S.w.T.).
 Nothing is there that is not in His Reach.
-
 
 Wisdom and Kindness on Men
 --------------------------
@@ -70,10 +61,8 @@ this, as is quoted in *‘Ilall ash-Sharay’i,* Hadrat Nuh bowed down his
 head and wept so much that he was given the name of Nuh (one who wails)
 because of this.
 
-
 The Prophet (S) Never Cursed Anyone
 -----------------------------------
-
 
 Allah (S.w.T.), therefore, is very kind on His creatures because, one
 who is the provider of sustenance has lots of love for those whom He
@@ -102,10 +91,8 @@ Guide my people aright!” In addition to this, the Prophet (S) advocated
 for them that, “They are not aware that I am Your Annunciated Prophet.
 They are ignorant and I plead not to punish them!”
 
-
 People Themselves Seek a Place in Hell
 --------------------------------------
-
 
 Don’t say that when the Prophet (S) is so forgiving, then why Allah
 (S.w.T.) had to create the Hell. The creation of the Hell is not
@@ -113,12 +100,8 @@ contrary to *Ash-shafaqat ‘alal ‘ibaad (compassion on the creation).*
 Man himself flies away from the way of Allah (S.w.T.)’s love
 (*Shafaqah)* and rightly earns a place in the Hell.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللّهَ لاَ يَظْلِمُ النَّاسَ شَيْئًا وَلَـكِنَّ النَّاسَ
-أَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> إِنَّ اللّهَ لاَ يَظْلِمُ النَّاسَ شَيْئًا وَلَـكِنَّ النَّاسَ
+> أَنفُسَهُمْ يَظْلِمُونَ
 
 ***Surely Allah does not do any injustice to men, but men are unjust to
 themselves. (Sura Yunus, 10:44)***
@@ -132,10 +115,8 @@ In a nutshell, unless you realize that Allah (S.w.T.) is Omnipotent and
 Beneficent and has kindness and love for his creatures, you cannot
 achieve the state of *Tawakkul.*
 
-
 Affection on a Kitten
 ---------------------
-
 
 In the Commentary, *Ruh al-Bayan,* it is said that someone dreamed of a
 pious person after his death and inquired about his condition. He said
@@ -195,10 +176,8 @@ only one way of subduing them. That is *Tawakkul (Dependence)* on Allah
 and temptations would mean trifling to him. “*The friends of Allah
 neither fear anyone nor do they face any sadness or misery”.*
 
-
 Blade of Dried Grass or Straw
 -----------------------------
-
 
 Unfortunate are those hapless persons who have no place of succor. They
 are just like the blades of straw that fly around with the gusts of the
@@ -213,7 +192,6 @@ Our lives are fast running out of time. We should not remain deprived of
 Tawakkul on Allah (S.w.T.) is Necessary in the Hereafter Too
 ------------------------------------------------------------
 
-
 As it is necessary to Trust on Allah (S.w.T.) during our worldly lives,
 then, whatever is in store for us in the Hereafter too we shall have to
 depend on Allah (S.w.T.) for his Beneficence. For this *Tawakkul* is
@@ -222,5 +200,4 @@ grave, in purgatory (*Barzakh),* on *Qiyamat* (Doomsday) and we have to
 depend on Him in all these stages. It is Allah (S.w.T.) who brought us
 from nothingness to the world and has been our Guardian till the
 Resurrection (*Ma’ad)*!
-
 

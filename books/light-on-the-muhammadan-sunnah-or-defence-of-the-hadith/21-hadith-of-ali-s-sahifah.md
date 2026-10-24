@@ -1,10 +1,6 @@
 Hadith of Ali’s Sahifah:
 ========================
 
-  
-  
-  
-
 The following hadith is reported by Ahmad, al-Shaykhan (al-Bukhari and
 Muslim) and authors of al-Sunan (books) with miscellaneous expressions.
 But al-Bukhari reported it under chapter kitab al-’ilm, on the authority
@@ -137,8 +133,7 @@ riwayah through meaning, and how it was detrimental to religion,
 language and literature, as will be soon demonstrated God-willing.
 
 We conclude this chapter with a short comprehensive statement by Ibn
-Kathir in his book al-Ba’ith al-hathith. <span
-id="_anchor_148"></span>148 After introducing those permitting narration
+Kathir in his book al-Ba’ith al-hathith. 148 After introducing those permitting narration
 of hadith through meaning, he said:
 
 “Riwayah (narration) through meaning was prohibited by another group of

@@ -913,18 +913,18 @@ time of martyrdom. They are as follows:
 1. 58 years – most historians believe this to be correct.**[1]**
 
 2. 56 years – Yaqubi believes this to be correct and he says: …as His
-Eminence was born in the 4<sup>th</sup> year of the Hijrah.**[2]**
+Eminence was born in the 4th year of the Hijrah.**[2]**
 
 3. 57 years**[3]**
 
 4. 65 years**[4]**
 
 However the year of the martyrdom of His Eminence was the
-61<sup>st</sup> year of the Hijrah as mentioned by most
-historians,**[5]** that corresponds to 10<sup>th</sup> October 680
+61st year of the Hijrah as mentioned by most
+historians,**[5]** that corresponds to 10th October 680
 A.D.**[6]** And what Hujjatul Islam, Shaykh Muhammad Raza Aale Kashiful
 Ghita (may Allah have mercy on him) has quoted, that it was on the
-10<sup>th</sup> of July,**[7]** is not correct…”
+10th of July,**[7]** is not correct…”
 
 Historians say: There was a period of 50 years between the passing away
 of the Holy Prophet (s) and the day His Eminence, Husain (‘a) was
@@ -1343,7 +1343,7 @@ Kufa may take up arms. This was announced publicly in the whole
 town.**[1]** In the same way he sent delegations to different town to
 announce their victory and spread fear among the people.**[2]**
 
-Night of the 11<sup>th</sup> Mohurrum
+Night of the 11th Mohurrum
 -------------------------------------
 
 Hardships experienced by the ladies of prophethood on the eleventh night
@@ -1632,7 +1632,7 @@ Dream of Ibn Abbas
 
 When the Holy Imam set out from Hijaz to Iraq, Ibn Abbas remained
 disturbed and involved in grief and anxiety as he feared the betrayal of
-the people of Kufa with regard to his nephew. On the 10<sup>th</sup> of
+the people of Kufa with regard to his nephew. On the 10th of
 Mohurrum when he went to sleep, he awoke agitated and distressed saying,
 “By Allah! Husain is killed!”
 
@@ -1669,7 +1669,7 @@ has been killed.**[2]** She used to glance at that bottle everyday and
 remark: “The day you turn to blood, would be a terrible day
 indeed.”**[3]**
 
-On the 10<sup>th</sup> day of Mohurrum, Umme Salma fell asleep and saw
+On the 10th day of Mohurrum, Umme Salma fell asleep and saw
 the Messenger of Allah (s) in dream smeared in dust. She asked, “O
 Allah’s Messenger! What happened to you?”
 
@@ -1850,7 +1850,7 @@ Allah to be lawful.
 Return of the Armed Forces
 --------------------------
 
-The armed forced remained in Kerbala on the 11<sup>th</sup> of Mohurrum
+The armed forced remained in Kerbala on the 11th of Mohurrum
 and buried with all respect and arrangements their dead; and opened for
 them a pit of Hell whose heat goes on increasing and its fire is never
 extinguished. And the fire shall scorch their faces while they shall be
@@ -1939,9 +1939,9 @@ grandson of the Messenger of Allah (s) hastened to bury these dead ones.
 Historians are not unanimous about the day the burial took place. The
 following are the varying opinions:
 
-1. 11<sup>th</sup> of Mohurrum**[3]**
+1. 11th of Mohurrum**[3]**
 
-2. 12<sup>th</sup> of Mohurrum**[4]**
+2. 12th of Mohurrum**[4]**
 
 ------------------------------------------------------------------------
 
@@ -1952,7 +1952,7 @@ following are the varying opinions:
 wan Nihayah* 8/189. Ibne Shahr Aashob, *Manaqib* 4/112  
  **[4]** *Bihar,* 45/107
 
-3. 13<sup>th</sup> of Mohurrum**[1]**
+3. 13th of Mohurrum**[1]**
 
 But the people who succeeded in burying those dead bodies were the
 people of Bani Asad who resided near the battle site; and after the

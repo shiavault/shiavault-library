@@ -865,4 +865,3 @@ his speeches enchant you even fourteen centuries after his death”.*
 
 Read the book called Nahjul Balagha and find out yourself.
 
-

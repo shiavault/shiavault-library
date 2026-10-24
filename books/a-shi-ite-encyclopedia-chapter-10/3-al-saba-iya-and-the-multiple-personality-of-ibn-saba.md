@@ -254,7 +254,5 @@ separately named "One Hundred Fifty Companions".
 2- "The Shiites Under Attack," (English) by Chirri, M. J. To order,
 send $8.00 to:
 
-
 Muhammad Javad Chirri,
-
 

@@ -116,7 +116,6 @@ help you.
 [ 410 ]
 VERSE NO. 126
 
-
 Whatever happens, whether the fight is won by miracles and with the
 help of the angels, or else by natural means, medium, and equipments;
 all the helps proceeds from God: \`\`Allah did not send down the angels
@@ -136,5 +135,4 @@ community; and so savagely they and their women, with utmost cruelty
 mutilated by the Muslims corpse on the battle-field!'' As to the kind of
 help given by the angels we shall give detail when commenting S-8:
 7-12
-
 

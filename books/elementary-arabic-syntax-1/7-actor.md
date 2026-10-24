@@ -19,4 +19,3 @@ form if the actor is in the dual or plural form?
  The verb remains in the single form even if the actor is in the dual or
 plural form.
 
-

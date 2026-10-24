@@ -27,4 +27,3 @@ He was the founder of the Umayyad Regime that made Damascus the center
 for the Islamic civilization. It stayed that way till year 132 A.H., and
 Muawiya appointed Yazeed as his successor by inheritance.
 
-

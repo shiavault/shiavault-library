@@ -4,36 +4,16 @@ Section 9: Lut Admonishes His People
 Surah Ash-Shu‘ara - Verses 160-164
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ
-  </p>
-</blockquote>
+> كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلاَ تَتَّقُونَ
-  </p>
-</blockquote>
+> إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلاَ تَتَّقُونَ
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
-  </p>
-</blockquote>
+> إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
 
-<blockquote dir="rtl">
-  <p>
-فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
-  </p>
-</blockquote>
+> فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
-رَبِّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى
+> رَبِّ الْعَالَمِينَ
 
 ***160. “The Lut (people) belied the messengers.”***  
 ***161. “When their brother Lut said to them: ‘Will you not fear
@@ -111,24 +91,12 @@ from the Lord of the worlds.”***
 Surah Ash-Shu‘ara - Verses 165-167
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ
-  </p>
-</blockquote>
+> أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِنْ أَزْوَاجِكُم بَلْ أَنتُمْ
-قَوْمٌ عَادُونَ
-  </p>
-</blockquote>
+> وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِنْ أَزْوَاجِكُم بَلْ أَنتُمْ
+> قَوْمٌ عَادُونَ
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا لَئِن لَّمْ تَنتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ
-  </p>
-</blockquote>
+> قَالُوا لَئِن لَّمْ تَنتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ
 
 ***165. “Of all the creatures in the world, do you come to the
 males?”***  
@@ -262,35 +230,15 @@ emotional deviation.
 Surah Ash-Shu‘ara - Verses 168-172
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنِّي لِعَمَلِكُم مِّنَ الْقَالِينَ
-  </p>
-</blockquote>
+> قَالَ إِنِّي لِعَمَلِكُم مِّنَ الْقَالِينَ
 
-<blockquote dir="rtl">
-  <p>
-رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ
-  </p>
-</blockquote>
+> رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ
-  </p>
-</blockquote>
+> فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ
 
-<blockquote dir="rtl">
-  <p>
-إلاَّ عَجُوزًا فِي الْغَابِرِينَ
-  </p>
-</blockquote>
+> إلاَّ عَجُوزًا فِي الْغَابِرِينَ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ دَمَّرْنَا الْآخَرِينَ
-  </p>
-</blockquote>
+> ثُمَّ دَمَّرْنَا الْآخَرِينَ
 
 ***168. “He said: ‘I do detest your doings’.”***  
 ***169. “My Lord! deliver me and my family from (the vice of) what they
@@ -378,23 +326,11 @@ a short sentence points to it, and says:
 Surah Ash-Shu‘ara - Verses 173-175
 ----------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَاء مَطَرُ الْمُنذَرِينَ
-  </p>
-</blockquote>
+> وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَاء مَطَرُ الْمُنذَرِينَ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> إِنَّ فِي ذَلِكَ لاَيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
-  </p>
-</blockquote>
+> وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
 ***173. “We rained down on them a shower (of brimstone), and evil is the
 rain of them that were warned.”***  
@@ -492,5 +428,4 @@ verse under discussion
 [^5]: Ibid, P. 64
 
 [^6]: Bihar-ul-’Anwar, Vol. 79, , P. 7
-
 

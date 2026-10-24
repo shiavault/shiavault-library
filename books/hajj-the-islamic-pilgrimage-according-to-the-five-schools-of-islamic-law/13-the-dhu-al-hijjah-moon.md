@@ -42,11 +42,7 @@ peace and benedictions be upon Amir al‑Mu'minin, the Sayyid al‑Wasiyyin,
 who said:  
   
 
-<blockquote dir="rtl">
-  <p>
-إن الله كلّف يسيراً ، ولم يُكلف عسيراً ، وأعطى على القليل كثيراً.
-  </p>
-</blockquote>
+> إن الله كلّف يسيراً ، ولم يُكلف عسيراً ، وأعطى على القليل كثيراً.
 
 God has assigned duties which are easy to fulfil not difficult to cope
 with; and He rewards much for little.
@@ -106,5 +102,4 @@ like the requirement for sajdah (prostration) in salat that it should be
 made on something which is not edible or wearable (ghayr al‑ma'kul wa
 al‑malbus)‑‑a requirement which applies to conditions when security is
 present and which falls in case of insecurity and fear.
-
 

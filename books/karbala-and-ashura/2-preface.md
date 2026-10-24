@@ -148,4 +148,3 @@ Chicago, 1994
 
 [^3]: See: al‑Fusul al‑Muhimmah by Ibn al‑Sabbagh, p. 163
 
-

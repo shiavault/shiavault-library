@@ -23,4 +23,3 @@ right, by Allah I would rather that no man left of the Bani Ziad without
 an earring in his nose,9 than killing A-Hussain!" and Obayd Allah Bin
 Ziad did not deny that.
 
-

@@ -6,14 +6,10 @@ the Ahlul Bait - the Shia. The first tradition concerns the greatness of
 the Shia, while the second tradition is in regards to the
 characteristics of the Shia.
 
-<blockquote dir="rtl">
-  <p>
-دَخَلْتُ عَلى أَبِي بَكْرٍ الْحَضْرَمِي وَ هُوَ يَجُودُ بِنَفْسِهِ
-فَنَظَرَ إِلَـيَّ وَ قَالَ لَيْتَ سَاعَةٌ الْكِذْبِ أَشْهَدُ عَلى
-جَعْفَرِ بْنِ مُحَمَّدٍ أَنِّي سَمِعْتُهُ يَقُولُ لاَ تَمُسُّ النَّارَ
-مَنْ مَاتَ وَ هُوَ يَقُولُ بِـهٌذَا الأَمْرَ.
-  </p>
-</blockquote>
+> دَخَلْتُ عَلى أَبِي بَكْرٍ الْحَضْرَمِي وَ هُوَ يَجُودُ بِنَفْسِهِ
+> فَنَظَرَ إِلَـيَّ وَ قَالَ لَيْتَ سَاعَةٌ الْكِذْبِ أَشْهَدُ عَلى
+> جَعْفَرِ بْنِ مُحَمَّدٍ أَنِّي سَمِعْتُهُ يَقُولُ لاَ تَمُسُّ النَّارَ
+> مَنْ مَاتَ وَ هُوَ يَقُولُ بِـهٌذَا الأَمْرَ.
 
 The narrator of the tradition states that, “I entered the presence of
 Abi Bakr al-Hadhrami (one of the special companions of Imam Ja'far b.
@@ -23,15 +19,11 @@ life of) Ja'far b. Muhammad that I heard him say, 'The fire of hell
 shall never touch the person who dies while believes in this command
 (the Wilayah of the Ahlul Bait).'”
 
-<blockquote dir="rtl">
-  <p>
-عَنْ سُلَيمَانِ بْنِ مَهْرَانِ قَالَ: دَخَلْتُ الصَّادِقَ وَ عِنْدَهُ
-نَفَرٌ مِنَ الشِّـيعَةِ وَ هُوَ يَقُولُ مَعَاشِرَ الشِّـيعَةُ كُونُوا
-لَنَا زَيْناً وَلاَ تَكُونُوا عَلَيْنَا شَيْئاً قُولُوا لِلنَّاسِ
-حُسْناً إِحْفَظُوا أَلْسِنَتَكُمْ وَ كُفُّوهَا عَنِ الْفُضُولِ وَ
-قِـبِيحِ الْقَوْلِ.
-  </p>
-</blockquote>
+> عَنْ سُلَيمَانِ بْنِ مَهْرَانِ قَالَ: دَخَلْتُ الصَّادِقَ وَ عِنْدَهُ
+> نَفَرٌ مِنَ الشِّـيعَةِ وَ هُوَ يَقُولُ مَعَاشِرَ الشِّـيعَةُ كُونُوا
+> لَنَا زَيْناً وَلاَ تَكُونُوا عَلَيْنَا شَيْئاً قُولُوا لِلنَّاسِ
+> حُسْناً إِحْفَظُوا أَلْسِنَتَكُمْ وَ كُفُّوهَا عَنِ الْفُضُولِ وَ
+> قِـبِيحِ الْقَوْلِ.
 
 Salman b. Mahran said, “I entered into the presence of as-Sadiq (as)
 while there were a group of people from among the Shia in his company
@@ -64,11 +56,7 @@ able to discern what kind of a person an individual is by his method of
 speech.  
  It is stated that:
 
-<blockquote dir="rtl">
-  <p>
-إِخْتَبَرُوهُمْ بِصِدْقِ الْحَدِيثِ.
-  </p>
-</blockquote>
+> إِخْتَبَرُوهُمْ بِصِدْقِ الْحَدِيثِ.
 
 “Test and examine people by the truthfulness of their speech.”
 
@@ -79,11 +67,7 @@ what one says.
 One of the ways to protect the tongue is just as the final commandment
 in the tradition states that one should:
 
-<blockquote dir="rtl">
-  <p>
-كُفُّوهَا عَنِ الْفُضُولِ
-  </p>
-</blockquote>
+> كُفُّوهَا عَنِ الْفُضُولِ
 
 “Prevent it (the tongue) from speaking excessively.”
 
@@ -106,5 +90,4 @@ speech!
   
 
 [^1]: Bihar al-Anwar, vol. 65, pg. 161
-
 

@@ -9,4 +9,3 @@ Allah, The Mighty, The Glorious, has chosen from amongst the months (and
 granted preference to), the months of Rajab, Shaaban and the month of
 Ramadan.*Bihar al-Anwar, vol. 27, pg. 53*
 
-

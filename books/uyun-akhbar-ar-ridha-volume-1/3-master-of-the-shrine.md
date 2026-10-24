@@ -46,4 +46,3 @@ Your life is filled with many a story
 [^3]: Refers to the well-known incidence of a deer taking refuge in the
 holy shrine of Imam Al-Ridha’ (a.s.).
 
-

@@ -246,4 +246,3 @@ rather to be known as al‑Wa'iz. Despite al‑Kharkushi's statement as here
 reported by at‑Tabrisi, traditionists have generally agreed that Fatimah
 (a. s.) was born early in the Prophet's career.
 
-

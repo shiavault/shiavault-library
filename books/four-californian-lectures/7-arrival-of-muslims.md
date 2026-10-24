@@ -24,4 +24,3 @@ From 1950 onwards, other groups have emigrated from the Indian
 sub-continent, East Indies and Africa, apart from the former areas.  
   
 
-

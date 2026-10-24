@@ -44,4 +44,3 @@ alone, and adorn its moments with our service to You, and help us in the
 daytime to observe the fast, and at night to pray and beseech You, help
 us to humble ourselves before you and lower ourselves in Your presence.
 
-

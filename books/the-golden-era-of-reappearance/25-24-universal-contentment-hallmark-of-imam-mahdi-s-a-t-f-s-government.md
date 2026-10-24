@@ -65,4 +65,3 @@ al-Asar, p. 478.)
 
 [^12]: (Yaum al-Khalaas, p. 374.)
 
-

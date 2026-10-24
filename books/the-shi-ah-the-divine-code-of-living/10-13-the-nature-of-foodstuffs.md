@@ -71,4 +71,3 @@ religious reasons do so for reasons of health. The shari'ah of Muhammad
 (s.a.w.) cannot be over praised, those who neglect it do so to their own
 disadvantage and peril.
 
-

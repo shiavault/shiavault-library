@@ -24,4 +24,3 @@ evils of the enemies and the plots contrived by impostors. O' Kumayl! in
 consideration of thy companionship and understanding, I grant thee this
 honour of entrusting this "Du'a" to thee."
 
-

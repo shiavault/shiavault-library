@@ -106,4 +106,3 @@ that was revealed for Moula Ali (asws), RasoolAllah (saw) said, "O'Ali
 (asws)! You are that reward and those who will live in jannah are Your
 helpers." (Tafseer Ayyashi First Edition pg 212)
 
-

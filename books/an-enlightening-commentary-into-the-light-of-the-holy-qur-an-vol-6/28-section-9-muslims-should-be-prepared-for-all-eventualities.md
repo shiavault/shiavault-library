@@ -4,14 +4,10 @@ Section 9: Muslims Should be Prepared For All Eventualities
 Surah Al-Anfal – Verse 65
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا النَّبِيُّ حَرِّضِ الْمُؤْمِنِينَ عَلَى الْقِتَالِ ۚ إِنْ
-يَكُنْ مِنْكُمْ عِشْرُونَ صَابِرُونَ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ
-يَكُنْ مِنْكُمْ مِائَةٌ يَغْلِبُوا أَلْفًا مِنَ الَّذِينَ كَفَرُوا
-بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا النَّبِيُّ حَرِّضِ الْمُؤْمِنِينَ عَلَى الْقِتَالِ ۚ إِنْ
+> يَكُنْ مِنْكُمْ عِشْرُونَ صَابِرُونَ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ
+> يَكُنْ مِنْكُمْ مِائَةٌ يَغْلِبُوا أَلْفًا مِنَ الَّذِينَ كَفَرُوا
+> بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ
 
 **65*****. “O Prophet! Urge on the believers to fight. If there be of
 you twenty patient (steadfast men), they shall overcome two hundred, and
@@ -63,14 +59,10 @@ patience, while about the disbelievers, the verse says:
 Surah Al-Anfal – Verse 66
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ
-فَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِ ۚ
-وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللَّهِ ۗ
-وَاللَّهُ مَعَ الصَّابِرِينَ
-  </p>
-</blockquote>
+> الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ
+> فَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِ ۚ
+> وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللَّهِ ۗ
+> وَاللَّهُ مَعَ الصَّابِرِينَ
 
 **66*****. “Now Allah has lightened it for you, and He knows that there
 is weakness in you. So, if there be of you a hundred patient (steadfast
@@ -105,13 +97,9 @@ The verse ends as follows:
 Surah Al-Anfal – Verse 67
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي
-الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ
-ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ
-  </p>
-</blockquote>
+> مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي
+> الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ
+> ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ
 
 **67*****. “It is not (fit) for any prophet to have captives unless he
 has thoroughly triumphed in the land. You desire the transitory world,
@@ -151,19 +139,11 @@ help of Allah. The verse ends:
 Surah Al-Anfal – Verses 68-69
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْلَا كِتَابٌ مِنَ اللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَا أَخَذْتُمْ
-عَذَابٌ عَظِيمٌ
-  </p>
-</blockquote>
+> لَوْلَا كِتَابٌ مِنَ اللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَا أَخَذْتُمْ
+> عَذَابٌ عَظِيمٌ
 
-<blockquote dir="rtl">
-  <p>
-فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا ۚ وَاتَّقُوا اللَّهَ ۚ
-إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
-  </p>
-</blockquote>
+> فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا ۚ وَاتَّقُوا اللَّهَ ۚ
+> إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
 
 **68*****. “Had it not been for a prior ordinance from Allah, there
 would have fallen you a great chastisement for what you had taken to
@@ -224,5 +204,4 @@ them out now.
 about the past when it says:
 
 ***“...verily Allah is Forgiving, Merciful.”***
-
 

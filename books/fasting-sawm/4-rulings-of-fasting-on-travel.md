@@ -206,4 +206,3 @@ correct intention of residency in one of these places, it will never
 harm the validity of the continuance of the residency and the act of
 praying in full and fasting.
 
-

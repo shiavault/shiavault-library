@@ -223,4 +223,3 @@ against those without faith, when there came to them that
 {**i.e.,Muhammad (s.a.w.a.)**} whom they did recognise, they refused to
 believe in him…” (Qur'an, 2:89)***
 
-

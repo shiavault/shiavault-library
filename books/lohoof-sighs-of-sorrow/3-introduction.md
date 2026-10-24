@@ -211,4 +211,3 @@ Lisanul Mizan 4/223, Jumhiratul Ansab: 56, Al-Elam 4/278]
 first section is about formalities and preliminaries of the journey and
 the last contains the Ziyarats of the Holy Imams and their sons.
 
-

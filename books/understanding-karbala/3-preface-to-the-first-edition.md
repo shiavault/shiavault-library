@@ -48,4 +48,3 @@ will also include articles on other topics, Insha Allah.
 **Sayyid Sa’eed Akhtar Rizvi**  
 **13 Rajab al-Murajjab 1401 AH**
 
-

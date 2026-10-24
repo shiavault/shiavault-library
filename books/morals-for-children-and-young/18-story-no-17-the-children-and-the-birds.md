@@ -14,4 +14,3 @@ busy picking them.
  When their father, Aqa Ismail saw this he appreciated the children and
 thanked god on giving him moral-favoring children.
 
-

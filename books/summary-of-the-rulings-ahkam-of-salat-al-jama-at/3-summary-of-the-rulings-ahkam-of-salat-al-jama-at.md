@@ -23,21 +23,13 @@ amply for their contribution to this noble project.
 
 **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
 
-<blockquote dir="rtl">
-  <p>
-بسم الله الرحمن الرحيم
-  </p>
-</blockquote>
+> بسم الله الرحمن الرحيم
 
-<blockquote dir="rtl">
-  <p>
-الحمد لله الذي لا يبلغ مدحته القائلون ولا يحصى نعمائه العادون ولا يؤدي
-حقه المجتهدون الذي ليس لصفثه حد محدود ولا نعت موجود والصلاة والسلام
-على مولانا ومقتدانا أبي القاسم محمد وعلى أهل بيتيه الطيبين الطاهرين لا
-سيما بقية الله في الأرضين ولعنة الله أعدائهم أجمعين إلى قيام يوم
-القيامة
-  </p>
-</blockquote>
+> الحمد لله الذي لا يبلغ مدحته القائلون ولا يحصى نعمائه العادون ولا يؤدي
+> حقه المجتهدون الذي ليس لصفثه حد محدود ولا نعت موجود والصلاة والسلام
+> على مولانا ومقتدانا أبي القاسم محمد وعلى أهل بيتيه الطيبين الطاهرين لا
+> سيما بقية الله في الأرضين ولعنة الله أعدائهم أجمعين إلى قيام يوم
+> القيامة
 
 The Meaning of Salat al-Jama'at
 -------------------------------
@@ -65,13 +57,9 @@ will not be accepted. It has been narrated from the 6th Imam, Ja'far ibn
 Muhammad as- Sadiq, peace be upon him, quoting his forefathers up to the
 Messenger of Allah, peace be upon him and his family, that he said:
 
-<blockquote dir="rtl">
-  <p>
-لو كان على باب أحدكم نهر فاغتسل منه كل يوم خمس مرات، هل كان يبقى على
-جسده من الدرن شئ؟ انما مثل الصلاة مثل النهر الذي ينقى الدرن، كلما صلى
-صلاة كان كفارة لذنوبه الا ذنب أخرجه من الايمان مقيم عليه.
-  </p>
-</blockquote>
+> لو كان على باب أحدكم نهر فاغتسل منه كل يوم خمس مرات، هل كان يبقى على
+> جسده من الدرن شئ؟ انما مثل الصلاة مثل النهر الذي ينقى الدرن، كلما صلى
+> صلاة كان كفارة لذنوبه الا ذنب أخرجه من الايمان مقيم عليه.
 
 "If there was a stream at the house of any one of you in which he washes
 himself five times a day, will there remain any dirt on your body?
@@ -189,11 +177,7 @@ another - shoulder to shoulder. As long as there is a gap in any one
 line, that spot should be filled before making a new line, and it is
 Makruh for a person to stand alone. It is Mustahab that after the line:
 
-<blockquote dir="rtl">
-  <p>
-قد قامت الصلاة
-  </p>
-</blockquote>
+> قد قامت الصلاة
 
 is read, the followers rise and get ready to start the Salat. It is
 Makruh for the followers to recite any of the supplications, TasbIh or
@@ -254,12 +238,8 @@ salat of Zuhr and 'Asr, the Imam will be reciting in a quiet whisper and
 you will not recite anything out loud, however, it is Mustahab that you
 recite any dhikr of Allah such as:
 
-<blockquote dir="rtl">
-  <p>
-(١) أستغفر الله (٢) الحمد لله (٣) سبحان الله (٤) الله أكبر (٥) اللهم
-صل على محمد وآل محمد
-  </p>
-</blockquote>
+> (١) أستغفر الله (٢) الحمد لله (٣) سبحان الله (٤) الله أكبر (٥) اللهم
+> صل على محمد وآل محمد
 
 Recite Everything Else in Jama'at
 ---------------------------------
@@ -484,10 +464,5 @@ the call to prayer. The Holy Prophet, peace be upon him said, "Stretch a
 rope from your house up to the Masjid and attend the congregational
 salat."
 
-<blockquote dir="rtl">
-  <p>
-والحمد لله رب العالمين
-  </p>
-</blockquote>
-
+> والحمد لله رب العالمين
 

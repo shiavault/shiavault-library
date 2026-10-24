@@ -2611,4 +2611,3 @@ Qur'an, the Final Word of God that one has to view the position of the
 Holy Prophet Muhammad or the Holy Imams, particularly of Husayn,
 connected with the subject of this brief work.
 
-

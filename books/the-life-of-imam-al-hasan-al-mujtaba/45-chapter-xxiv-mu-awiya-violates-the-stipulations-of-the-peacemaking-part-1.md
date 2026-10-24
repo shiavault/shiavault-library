@@ -671,4 +671,3 @@ mentioned that they prevented him from that according to an order issued
 from Mu’awiya lest Imam al-Hasan should be powerful and his affair might
 be great.
 
-

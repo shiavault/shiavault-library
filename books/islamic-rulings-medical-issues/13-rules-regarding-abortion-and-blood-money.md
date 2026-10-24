@@ -46,4 +46,3 @@ vasectomy, does he have to pay blood money?
 
 Answer: If the patient gave permission there is no blood money.
 
-

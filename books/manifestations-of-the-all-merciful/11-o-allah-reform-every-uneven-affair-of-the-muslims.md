@@ -1,11 +1,7 @@
 O Allāh, Reform Every Uneven Affair of the Muslims
 ==================================================
 
-<blockquote dir="rtl">
-  <p>
-أَللَّهُمَّ أَصْلِحْ كُلَّ فَاسِدٍ مِنْ أُمُورِ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> أَللَّهُمَّ أَصْلِحْ كُلَّ فَاسِدٍ مِنْ أُمُورِ الْمُسْلِمِينَ
 
 O Allāh, Reform Every Uneven Affair of the Muslims
 
@@ -19,11 +15,7 @@ It originates from the word *al-salāh*, which means ‘equilibrium’ and
 ‘balance.’ And ‘*salāh*’ is the opposite of the word ‘*fasād*’, which
 according to Rāghib al-Isfahānī means:
 
-<blockquote dir="rtl">
-  <p>
-خُرُوجُ الشَّيءِ عَنِ الإِعْتِدَالِ.
-  </p>
-</blockquote>
+> خُرُوجُ الشَّيءِ عَنِ الإِعْتِدَالِ.
 
 “The deviation of an entity from its equilibrium.”[^1]
 
@@ -32,11 +24,7 @@ thing or affair] to [its] equilibrium!’
 
 And the word فَاسِد “*fāsid*” means ‘something out of its equilibrium.’
 
-<blockquote dir="rtl">
-  <p>
-أُمُوْرُ الْمُسْلِمِينَ
-  </p>
-</blockquote>
+> أُمُوْرُ الْمُسْلِمِينَ
 
 *Umūru’l Muslimīn* means “Affairs of Muslims.”
 
@@ -72,11 +60,7 @@ be able to effect it elsewhere. Otherwise, it would mean that
 disequilibrium can effect equilibrium, the absurdity of which is quite
 clear. Metaphysicians express this reality as follows:
 
-<blockquote dir="rtl">
-  <p>
-فَاقِدُ الشَّيءِ لاَ يُعْطِيه.
-  </p>
-</blockquote>
+> فَاقِدُ الشَّيءِ لاَ يُعْطِيه.
 
 “One who does not possess a thing cannot confer the same.”[^2]
 
@@ -96,13 +80,9 @@ this contention.
 
 The Holy Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
- وَإِذَا قِيلَ لَهُمْ لاَ تُفْسِدُوا فِي الأَرْضِ قَالُوا إِنَّمَا
-نَحْنُ مُصْلِحُونَ. أَلاَ إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلٌكِنْ لاَ
-يَشْعُرُونَ 
-  </p>
-</blockquote>
+>  وَإِذَا قِيلَ لَهُمْ لاَ تُفْسِدُوا فِي الأَرْضِ قَالُوا إِنَّمَا
+> نَحْنُ مُصْلِحُونَ. أَلاَ إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلٌكِنْ لاَ
+> يَشْعُرُونَ 
 
 ***“And when it said to them, do not create disequilibrium (mischief) in
 the earth, they say verily we are reformers. Mind, they themselves are
@@ -121,12 +101,8 @@ to embark upon reforming others:
 
 1. Almighty Allāh says in chapter 10, verse 35:
 
-<blockquote dir="rtl">
-  <p>
- أَفَـمَنْ يَهْدِي إِلـى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لاَ
-يَهِدِّي إِلاَّ أَنْ يُهْدَى 
-  </p>
-</blockquote>
+>  أَفَـمَنْ يَهْدِي إِلـى الْحَقِّ أَحَقُّ أَنْ يُتَّبَعَ أَمَّنْ لاَ
+> يَهِدِّي إِلاَّ أَنْ يُهْدَى 
 
 ***“…Is He then Who guides to the truth more worthy to be followed, or
 he who himself does not go aright unless he is guided?”***
@@ -139,12 +115,8 @@ only can he be known to be guided.
 
 2. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-عَجِبْتُ لِمَنْ يَتَصَدَّى لإِصْلاَحِ النَّاسِ وَنَفْسُهُ أَشَدُّ
-شَيْ‏ءٍ فَسَاداً فَلاَ يُصْلِحُهَا وَيَتَعَاطَى إِصْلاَحَ غَيْرِهِ.
-  </p>
-</blockquote>
+> عَجِبْتُ لِمَنْ يَتَصَدَّى لإِصْلاَحِ النَّاسِ وَنَفْسُهُ أَشَدُّ
+> شَيْ‏ءٍ فَسَاداً فَلاَ يُصْلِحُهَا وَيَتَعَاطَى إِصْلاَحَ غَيْرِهِ.
 
 “I am surprised at one who takes charge of reforming the people while
 his soul is in greater need of reform, and he does not reform it but
@@ -152,13 +124,9 @@ undertakes to reform others.”[^4]
 
 3. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ سَمَتْ هِمَّتُكَ لإِصْلاَحِ النَّاسِ فَابْدَأْ بِنَفْسِكَ،
-فَإِنَّ تَعَاطِيكَ صَلاَحَ غَيْرِكَ وَأَنْتَ فَاسِدٌ أَكْبَرُ
-الْعَيْبِ.
-  </p>
-</blockquote>
+> إِنْ سَمَتْ هِمَّتُكَ لإِصْلاَحِ النَّاسِ فَابْدَأْ بِنَفْسِكَ،
+> فَإِنَّ تَعَاطِيكَ صَلاَحَ غَيْرِكَ وَأَنْتَ فَاسِدٌ أَكْبَرُ
+> الْعَيْبِ.
 
 “If your aspiration rises to reform the people, then start with your
 self, because your mission to reform other than yourself while you are
@@ -166,11 +134,7 @@ corrupt is the greatest of deficiencies.”[^5]
 
 4. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ لَمْ يُصْلِحْ نَفْسَهُ لَمْ يُصْلِحْ غَيْرَهُ.
-  </p>
-</blockquote>
+> مَنْ لَمْ يُصْلِحْ نَفْسَهُ لَمْ يُصْلِحْ غَيْرَهُ.
 
 “Whosoever does not reform himself would not reform others.”[^6]
 
@@ -200,21 +164,17 @@ the state of *‘adālah* (equilibrium). The esteemed mystic Mullā Hādi
 Sabzawārī in his excellent commentary of Du‘ā Jawshan al-Kabīr, called
 *Sharh al-Asmā’* says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلإِنْسَانِ ثَلاَث قِوى: قوّةٌ دَرَّاكَةٌ، وقُوّةٌ شَهْوِيَّةٌ،
-وقُوّةٌ غَضَبيّةٌ، فَانْحِرَافُ الْقُوّةِ الدَرَّاكَةِ مِنْهُ إِلـى
-جَانِبَي الإِفْرَاطِ وَالتَّفْرِيطِ يُسَمَّى (جُرْبُزَة) وَ
-(بَلاَهَةَ) وَاعْتِدَالُهَا (حِكْمَةٌ)، وَانْحِرَافُ الْقُوَّةِ
-الشَّهْوِيَّةِ إِلـى طَرَفَيِ الإِفْرَاطِ وَالتَّفْرِيطِ يُسَمّى
-(شَرَهًا) وَ (خُمُوْدًا) وَاعْتِدَالُهَا (عِفّةٌ)، وَانْحِرَافُ
-الْقُوّةِ الْغَضَبيَّةِ إِلـى حَدَّي الإِفْرَاطِ وَالتَّفْرِيطِ
-يُسَمّى (تَهَوُّرًا) وَ (جُبْناً) وَاعْتِدَالُهَا شُجَاعَةٌ. وَهٌذَا
-الإِعْتِدَالُ هُوَ الْمُسَمَّى (بالْعَدَالَةِ) وَهُوَ الصِّرَاطُ
-الْمُسْتَقِيْمُ الَّذِي هُوَ أَحَدُّ مِنَ السَّيْفِ وَ أَدَقُّ مِنَ
-الشَّعْرِ...
-  </p>
-</blockquote>
+> إِنَّ لِلإِنْسَانِ ثَلاَث قِوى: قوّةٌ دَرَّاكَةٌ، وقُوّةٌ شَهْوِيَّةٌ،
+> وقُوّةٌ غَضَبيّةٌ، فَانْحِرَافُ الْقُوّةِ الدَرَّاكَةِ مِنْهُ إِلـى
+> جَانِبَي الإِفْرَاطِ وَالتَّفْرِيطِ يُسَمَّى (جُرْبُزَة) وَ
+> (بَلاَهَةَ) وَاعْتِدَالُهَا (حِكْمَةٌ)، وَانْحِرَافُ الْقُوَّةِ
+> الشَّهْوِيَّةِ إِلـى طَرَفَيِ الإِفْرَاطِ وَالتَّفْرِيطِ يُسَمّى
+> (شَرَهًا) وَ (خُمُوْدًا) وَاعْتِدَالُهَا (عِفّةٌ)، وَانْحِرَافُ
+> الْقُوّةِ الْغَضَبيَّةِ إِلـى حَدَّي الإِفْرَاطِ وَالتَّفْرِيطِ
+> يُسَمّى (تَهَوُّرًا) وَ (جُبْناً) وَاعْتِدَالُهَا شُجَاعَةٌ. وَهٌذَا
+> الإِعْتِدَالُ هُوَ الْمُسَمَّى (بالْعَدَالَةِ) وَهُوَ الصِّرَاطُ
+> الْمُسْتَقِيْمُ الَّذِي هُوَ أَحَدُّ مِنَ السَّيْفِ وَ أَدَقُّ مِنَ
+> الشَّعْرِ...
 
 “Surely the human being has three faculties [of the soul]:
 
@@ -248,23 +208,19 @@ hair… ‘“[^7]
 In order to have a better picture of what Mullā is trying to say, let us
 look at what Mullā Fayd Kashānī has to say in his al-Mahajjat al-Baydā’:
 
-<blockquote dir="rtl">
-  <p>
-...أمّا قوّةُ العِلْمِ فَحُسْنُهَا وَ صَلاَحُهَا فِيْ أَنْ تَصِيْرَ
-بِحَيْثُ يَسْهُلُ لَهَا دَرْكُ الْفَرْقِ بَيْنَ الصِّدْقِ وَالْكِذْبِ
-فِي الأَقْوَالِ وَبَيْنَ الْحَقِّ وَالْبَاطِلِ فِي الإِعْتِقَادَاتِ
-وَبَيْنَ الْجَمِيْلِ وَالْقَبِيْحِ فِي الأَفْعَالِ فَإِذَا تَحَصَّلَتْ
-هٌذِهِ الْقُوَّة حَصَلَ مِنْهَا ثَمَرَةُ الْحِكْمَةِ وَالْحِكْمَةُ
-رَأْسُ الأَخْلاَقِ الْحَسَنَةِ وَهِيَ الَّتِي قَالَ اللٌّهُ تَعَالـى
-فِيْهَا  وَمَنْ يُؤْتَ الْحِكْمَةُ فَقَدْ أُوْتِيَ خَيْرًا كَثِيْرًا
- وَإمّا قوّةُ الْغَضَبِ فَحُسْنُهَا فِيْ أَنْ يَقْتَصِرَ
-اِنْقِبَاضُهَا وَاِنْبِسَاطُهَا عَلى حَدِّ مَا تَقْتَضِيْهِ
-الْحِكْمَةُ، وَكَذٌلِكَ الشَّهْوَةُ حُسْنُهَا وَصَلاَحُهَا فِي أَنْ
-تَكُوْنَ تَحْتَ إِشَارَةِ الْحِكْمَةِ أَعْنِي إِشَارَةُ الْعَقْلِ وَ
-الدِّيْنِ، وَأَمّاَ قُوّةُ الْعَدْلِ فَهِيَ فِي ضَبْطِ قُوَّةِ
-الْغَضَبِ وَالشَّهْوَةِ تَحْتَ إِشَارَةِ الْعَقْلِ وَالشَّرْعِ …
-  </p>
-</blockquote>
+> ...أمّا قوّةُ العِلْمِ فَحُسْنُهَا وَ صَلاَحُهَا فِيْ أَنْ تَصِيْرَ
+> بِحَيْثُ يَسْهُلُ لَهَا دَرْكُ الْفَرْقِ بَيْنَ الصِّدْقِ وَالْكِذْبِ
+> فِي الأَقْوَالِ وَبَيْنَ الْحَقِّ وَالْبَاطِلِ فِي الإِعْتِقَادَاتِ
+> وَبَيْنَ الْجَمِيْلِ وَالْقَبِيْحِ فِي الأَفْعَالِ فَإِذَا تَحَصَّلَتْ
+> هٌذِهِ الْقُوَّة حَصَلَ مِنْهَا ثَمَرَةُ الْحِكْمَةِ وَالْحِكْمَةُ
+> رَأْسُ الأَخْلاَقِ الْحَسَنَةِ وَهِيَ الَّتِي قَالَ اللٌّهُ تَعَالـى
+> فِيْهَا  وَمَنْ يُؤْتَ الْحِكْمَةُ فَقَدْ أُوْتِيَ خَيْرًا كَثِيْرًا
+>  وَإمّا قوّةُ الْغَضَبِ فَحُسْنُهَا فِيْ أَنْ يَقْتَصِرَ
+> اِنْقِبَاضُهَا وَاِنْبِسَاطُهَا عَلى حَدِّ مَا تَقْتَضِيْهِ
+> الْحِكْمَةُ، وَكَذٌلِكَ الشَّهْوَةُ حُسْنُهَا وَصَلاَحُهَا فِي أَنْ
+> تَكُوْنَ تَحْتَ إِشَارَةِ الْحِكْمَةِ أَعْنِي إِشَارَةُ الْعَقْلِ وَ
+> الدِّيْنِ، وَأَمّاَ قُوّةُ الْعَدْلِ فَهِيَ فِي ضَبْطِ قُوَّةِ
+> الْغَضَبِ وَالشَّهْوَةِ تَحْتَ إِشَارَةِ الْعَقْلِ وَالشَّرْعِ …
 
 “The rational faculty is sound and good when it is easily able to
 discriminate, that is, to distinguish honesty from lies in speech, truth
@@ -284,14 +240,10 @@ reality:
 
 Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-أَلْفَضَائِلُ أَرْبَعَةُ أَجْنَاسٍ: أَحَدُهَا الْحِكْمَةُ وَقِوَامُهَا
-فِي الْفِكْرَةِ، وَالثَّانِي الْعِفَّةُ وَقِوَامُهَا فِي الشَّهْوَةِ،
-وَالثَّالِثُ الْقُوَّةُ وَقِوَامُهَا فِي الْغَضَبِ، وَالرَّابعُ
-الْعَدْلُ وَقِوَامُهُ فِي اِعْتِدَالِ قِوَى النَّفْسِ.
-  </p>
-</blockquote>
+> أَلْفَضَائِلُ أَرْبَعَةُ أَجْنَاسٍ: أَحَدُهَا الْحِكْمَةُ وَقِوَامُهَا
+> فِي الْفِكْرَةِ، وَالثَّانِي الْعِفَّةُ وَقِوَامُهَا فِي الشَّهْوَةِ،
+> وَالثَّالِثُ الْقُوَّةُ وَقِوَامُهَا فِي الْغَضَبِ، وَالرَّابعُ
+> الْعَدْلُ وَقِوَامُهُ فِي اِعْتِدَالِ قِوَى النَّفْسِ.
 
 “Virtues are four kinds: The first is wisdom (*al-hikmah*) which is
 sustained by intellection (*al-fikrah*), the second is the temperance
@@ -311,14 +263,10 @@ specific master.
 
 The Grand Āyatullāh Jawādī Āmulī says:
 
-<blockquote dir="rtl">
-  <p>
-ابدال در اصطلاح سالكانى هستند كه تحت تدبير شخص معين نيستند. و از آنها
-بعنوان ((مفرِد) يا ((مفرَد)) ياد مي شود چه اين كه اينها راه را به
-تنهائي طي مي كنند. گرچه سخت است ولي رفتني است و گرچه پيشرفت انسان تحت
-نظر مدير و مدبر بيشتر است، لكن بتنهائي هم مي توان طي طريق نمود
-  </p>
-</blockquote>
+> ابدال در اصطلاح سالكانى هستند كه تحت تدبير شخص معين نيستند. و از آنها
+> بعنوان ((مفرِد) يا ((مفرَد)) ياد مي شود چه اين كه اينها راه را به
+> تنهائي طي مي كنند. گرچه سخت است ولي رفتني است و گرچه پيشرفت انسان تحت
+> نظر مدير و مدبر بيشتر است، لكن بتنهائي هم مي توان طي طريق نمود
 
 “Abdāl technically stands for those wayfarers on the path of God who are
 not trained by a specific master. They are also called “*mufrid*” or
@@ -329,16 +277,12 @@ can still traverse the path by himself.”[^10]
 
 He also narrates:
 
-<blockquote dir="rtl">
-  <p>
-وقتي از عارفي پرسيدند: ((ابدال)) چند نفرند؟ فرمود: ((اَرْبَعُوْنَ
-نَفْسًا)) ابدال چهل تن هستند، و سوال كردند كه: چرا نگفتيد:
-((اَرْبَعُوْنَ رَجُلاً))، چهل مردند، و گفتيد چهل نفس هستند؟ در جواب
-گفت: اولاً: همه اين بزرگان مرد نيستند، بلكه در بين آنان زنان هستند. و
-ثانياً: كسي كه به مقام ابدال نائل مي آيد انسان است و انسان بودن اختصاص
-به زن يا مرد ندارد.
-  </p>
-</blockquote>
+> وقتي از عارفي پرسيدند: ((ابدال)) چند نفرند؟ فرمود: ((اَرْبَعُوْنَ
+> نَفْسًا)) ابدال چهل تن هستند، و سوال كردند كه: چرا نگفتيد:
+> ((اَرْبَعُوْنَ رَجُلاً))، چهل مردند، و گفتيد چهل نفس هستند؟ در جواب
+> گفت: اولاً: همه اين بزرگان مرد نيستند، بلكه در بين آنان زنان هستند. و
+> ثانياً: كسي كه به مقام ابدال نائل مي آيد انسان است و انسان بودن اختصاص
+> به زن يا مرد ندارد.
 
 “When a saint was asked how many are the ‘abdāl’? He responded by
 saying, ‘*Arba‘ūna nafsan*’ (40 souls). He was asked: Why did you say
@@ -357,13 +301,9 @@ saints have said things worthy of reflection:
 al-’Uzmā Sayyid ‘Alī Qādī al-Tabātabā’ī, the spiritual mentor of
 ‘Allāmah al-Tabātabā’ī to have said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ لِي أُسْتَاذِيْ الْمَرْحُوْم اَلقَاضِيْ قُدِّسَ سِرّهُ: أَنَّهُ
-مُحَالٌ أَنْ يَصِلَ إِنْسَانٌ إِلـى مَقَامِ التَّوْحِيْدِ بدُوْنِ
-طَرِيْقِ سَيِّدِ الشُّهَداءِ عَلَيْهِ السَّلاَمِ.
-  </p>
-</blockquote>
+> قَالَ لِي أُسْتَاذِيْ الْمَرْحُوْم اَلقَاضِيْ قُدِّسَ سِرّهُ: أَنَّهُ
+> مُحَالٌ أَنْ يَصِلَ إِنْسَانٌ إِلـى مَقَامِ التَّوْحِيْدِ بدُوْنِ
+> طَرِيْقِ سَيِّدِ الشُّهَداءِ عَلَيْهِ السَّلاَمِ.
 
 “My teacher, Marhūm Qādī (may his spirit be sanctified) said to me that
 it is impossible for a human being to attain the station of *tawhīd*
@@ -372,13 +312,9 @@ it is impossible for a human being to attain the station of *tawhīd*
 2. Āyatullāh Muhammad Husayn Tehrānī in his ‘*spirit Immaterial*’
 narrates that Sayyid ‘Alī Qādī Tabātabā’ī said:
 
-<blockquote dir="rtl">
-  <p>
-وصول به مقام توحيد و سير صحيح الي الله و عرفان ذات احديت عزّ اسمُه
-بدون ولايت امامان شيعه و خلفاي به حق از علي بن ابي طالب (ع) و فرزندانش
-از بتول عذراء محال است
-  </p>
-</blockquote>
+> وصول به مقام توحيد و سير صحيح الي الله و عرفان ذات احديت عزّ اسمُه
+> بدون ولايت امامان شيعه و خلفاي به حق از علي بن ابي طالب (ع) و فرزندانش
+> از بتول عذراء محال است
 
 “It is impossible to attain the station of Divine unity and traverse
 correctly towards God and attain the knowledge of the His Unique Essence
@@ -390,12 +326,8 @@ Tālib and his progeny through the *Batūl-e-‘Adhrā’* (Hadrat Fātima
 3. ‘Allāmah Tabātabā’ī, the author of *al-Mīzān*, is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-آن حضرت (امام الحسين (ع)) را براي رفع حجاب و موانع طريق نسبت به سالكين
-راه خدا عنايتي عظيم است
-  </p>
-</blockquote>
+> آن حضرت (امام الحسين (ع)) را براي رفع حجاب و موانع طريق نسبت به سالكين
+> راه خدا عنايتي عظيم است
 
 “That Hadrat [i.e. Imām Husayn (as)] has great attention towards the
 wayfarers of the path of God in removing the veil and impediments on the
@@ -405,11 +337,7 @@ path of God.”[^14]
 Tabātabā’ī is reported to have said:
 
 > اگر من به جائي رسيده باشم از دو چيز است:(1) قرآن كريم, (2) زيارت سيد
-<blockquote dir="rtl">
-  <p>
-الشهداء
-  </p>
-</blockquote>
+> الشهداء
 
 “If I have attained any station, it is by two things: (1) The Noble
 Qur’ān, and (2) *Ziyārah* of *Sayyid al-Shuhadā’* [Doyen of the
@@ -419,18 +347,14 @@ Martyrs].”[^15]
 Marja’, Āyatullāh al-’Uzmā Shahāb al-Dīn al-Najafī al-Mar’ashī as having
 advised him as follows:
 
-<blockquote dir="rtl">
-  <p>
-إِذاَ اَرَدْتَ التَّوْفِيْقَ فِيْ حَيَاتِكَ الْعِلْمِيَّةِ فَعَلَيْكَ
-بثَلاَثَةِ أَعْمَالٍ: الأَوَّلُ: كُنْ دَوْماً عَلىَ طَهَارَةٍ
-وَوُضُوْءٍ فَإِنَّهُ يُنِيْرُ الْقَلْبِ وَيُزِيْلُ الْهَمّ. الثَّانِي:
-شَيِّعْ الْجَنَائِزَ اَيّ جَنَازَةٍ رَأَيْتَهَا وَلَوْ بأَقْدَامٍ.
-الثَّالِثُ: شَارِكْ فِيْ قَضِيَّةِ الْحُسَيْن عَلَيْهِ السَّلاَمِ
-بأَيِّ نَحْوٍ مِنَ الْمُشَارَكَةِ. ثُمّ قَالَ: كُنْتُ مِنْ مُدَرَّسِي
-الْحَوْزَةِ الْمَعْرُوْفِيْنَ، وَكُنْتُ آنَذاَكَ أُوَزِّعُ الشَّايَ
-عَلى النَّاسِ فِي الْمَجَالِسِ وَالْمِآتِمِ الْحُسَيْنِيَّة.
-  </p>
-</blockquote>
+> إِذاَ اَرَدْتَ التَّوْفِيْقَ فِيْ حَيَاتِكَ الْعِلْمِيَّةِ فَعَلَيْكَ
+> بثَلاَثَةِ أَعْمَالٍ: الأَوَّلُ: كُنْ دَوْماً عَلىَ طَهَارَةٍ
+> وَوُضُوْءٍ فَإِنَّهُ يُنِيْرُ الْقَلْبِ وَيُزِيْلُ الْهَمّ. الثَّانِي:
+> شَيِّعْ الْجَنَائِزَ اَيّ جَنَازَةٍ رَأَيْتَهَا وَلَوْ بأَقْدَامٍ.
+> الثَّالِثُ: شَارِكْ فِيْ قَضِيَّةِ الْحُسَيْن عَلَيْهِ السَّلاَمِ
+> بأَيِّ نَحْوٍ مِنَ الْمُشَارَكَةِ. ثُمّ قَالَ: كُنْتُ مِنْ مُدَرَّسِي
+> الْحَوْزَةِ الْمَعْرُوْفِيْنَ، وَكُنْتُ آنَذاَكَ أُوَزِّعُ الشَّايَ
+> عَلى النَّاسِ فِي الْمَجَالِسِ وَالْمِآتِمِ الْحُسَيْنِيَّة.
 
 “If you would like divine succor (*tawfīq*) in your intellectual and
 practical life, you should practice the following three acts:
@@ -457,12 +381,8 @@ significant rudimentary stations of wayfaring very soon.
 as well as Sunnī narrators of tradition quote that the Holy Prophet (s)
 is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي تَارِكٌ فِيْكُمُ الثَّقَلَيْنِ مَا إِنْ تَمَسَّكْتُمْ بِهِمَا
-لَنْ تَضِلُّوْا بَعْدِي: كِتَابَ اللٌّهِ وَعِتْرَتِي أَهْلَ بَيْتِي.
-  </p>
-</blockquote>
+> إِنِّي تَارِكٌ فِيْكُمُ الثَّقَلَيْنِ مَا إِنْ تَمَسَّكْتُمْ بِهِمَا
+> لَنْ تَضِلُّوْا بَعْدِي: كِتَابَ اللٌّهِ وَعِتْرَتِي أَهْلَ بَيْتِي.
 
 “…I leave behind you the two weighty things; if you hold fast unto them
 you will never go astray after me: The Book of Allāh and my
@@ -482,12 +402,8 @@ creation, he is fast asleep. He needs to be woken up in order to begin
 the journey to Almighty Allāh. Allāh (swt) addressing His Noble
 Messenger in chapter Saba, verse 46 says:
 
-<blockquote dir="rtl">
-  <p>
- قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلٌّهِ مَثْنَى
-وَفُرَادَى 
-  </p>
-</blockquote>
+>  قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلٌّهِ مَثْنَى
+> وَفُرَادَى 
 
 ***“Say [O Prophet of Allāh] I exhort you only to one word: rise for
 Allāh, in pairs and alone…”***
@@ -497,14 +413,10 @@ Khwājah ‘Abdullāh Ansārī, in his monumental work of practical gnosis,
 studied by many of the wayfarers on the path of God, after quoting the
 above verse says:
 
-<blockquote dir="rtl">
-  <p>
-القَوْمَةُ لِلٌّهِ هِيَ الْيَقَظَةُ مِنْ سِنَةِ الْغَفْلَةِ،
-وَالنُّهُوْضُ عَنْ وَرَطَةِ الْفَتْرَةِ. وَهِيَ أَوَّلُ مَا
-يَسْتَنِيرُ قَلْبُ الْعَبْدُ بالْحَيَاةِ لِرُؤْيَةِ نُوْرِ
-التَّنْبِيْهِ‏.
-  </p>
-</blockquote>
+> القَوْمَةُ لِلٌّهِ هِيَ الْيَقَظَةُ مِنْ سِنَةِ الْغَفْلَةِ،
+> وَالنُّهُوْضُ عَنْ وَرَطَةِ الْفَتْرَةِ. وَهِيَ أَوَّلُ مَا
+> يَسْتَنِيرُ قَلْبُ الْعَبْدُ بالْحَيَاةِ لِرُؤْيَةِ نُوْرِ
+> التَّنْبِيْهِ‏.
 
 “To rise for Allāh [as indicated in the verse] means to wake up from the
 sleep of heedlessness (*ghaflah*) and rise up from the entanglement of
@@ -524,15 +436,11 @@ The late Āyatullāh Khumaynī, who was also known as an authority in
 gnosis (*‘irfān*), at one time advised the seminarians in Najaf as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-تا كى مى‏خواهيد در خواب غفلت به سر بريد، و در فساد و تباهى غوطه‏ور
-باشيد؟ از خدا بترسيد از عواقب امور بپرهيزيد از خواب غفلت بيدار شويد.
-شما هنوز بيدار نشده‏ايد هنوز قدم اول را برنداشته‏ايد. قدم اول در سلوك
-«يقظه» است. ولى شما در خواب به سر مى‏بريد چشمها باز و دلها در خواب فرو
-رفته است.
-  </p>
-</blockquote>
+> تا كى مى‏خواهيد در خواب غفلت به سر بريد، و در فساد و تباهى غوطه‏ور
+> باشيد؟ از خدا بترسيد از عواقب امور بپرهيزيد از خواب غفلت بيدار شويد.
+> شما هنوز بيدار نشده‏ايد هنوز قدم اول را برنداشته‏ايد. قدم اول در سلوك
+> «يقظه» است. ولى شما در خواب به سر مى‏بريد چشمها باز و دلها در خواب فرو
+> رفته است.
 
 “How long do you wish to remain in the sleep of negligence, steeped in
 corruption? Fear God! Beware of the consequence of your deeds! Wake up
@@ -544,13 +452,9 @@ hearts are asleep…”[^20]
 And in his well-known ethical manual Chehel Hadith (Forty Traditions) he
 says:
 
-<blockquote dir="rtl">
-  <p>
-منزل اوّل انسانيت «يقظه» است. و آن بيدار شدن از خواب غفلت و هشيار شدن
-از سكر طبيعت است، و فهميدن اينكه انسان مسافر است، و هر مسافر زاد و
-راحله مى‏خواهد. زاد و راحله انسان خصال خود انسان است‏.
-  </p>
-</blockquote>
+> منزل اوّل انسانيت «يقظه» است. و آن بيدار شدن از خواب غفلت و هشيار شدن
+> از سكر طبيعت است، و فهميدن اينكه انسان مسافر است، و هر مسافر زاد و
+> راحله مى‏خواهد. زاد و راحله انسان خصال خود انسان است‏.
 
 “…The first stage of humanness (*insāniyyat*) is yaqzah. It signifies
 the awakening from the slumber of negligence and the intoxication of
@@ -558,14 +462,10 @@ physical nature, and the realization hat man is a traveler, and like any
 other traveler, he needs some provisions for this journey. His morality
 and character are his provisions for this journey…”[^21]
 
-<blockquote dir="rtl">
-  <p>
-بدان كه اول منزل از منازل انسانيت منزل يقظه و بيدارى است، چنانچه مشايخ
-اهل سلوك در منازل سالكان بيان فرموده‏اند . و از براى اين منزل، چنانچه
-شيخ عظيم الشأن شاه آبادى، دام ظله، بيان فرمودند، ده بيت است كه اكنون
-در مقام تعداد آن نيستيم‏.
-  </p>
-</blockquote>
+> بدان كه اول منزل از منازل انسانيت منزل يقظه و بيدارى است، چنانچه مشايخ
+> اهل سلوك در منازل سالكان بيان فرموده‏اند . و از براى اين منزل، چنانچه
+> شيخ عظيم الشأن شاه آبادى، دام ظله، بيان فرمودند، ده بيت است كه اكنون
+> در مقام تعداد آن نيستيم‏.
 
 “…Remember that the first step towards humanness is that of awareness
 and awakening (*yaqzah*), as mentioned by the leading mystics
@@ -584,45 +484,29 @@ of eternal salvation:
 
 1. Almighty Allāh says in chapter 4, verse 79:
 
-<blockquote dir="rtl">
-  <p>
- مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللٌّهِ 
-  </p>
-</blockquote>
+>  مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللٌّهِ 
 
 ***“Whatever good befalls you is from Allāh.”***
 
 2. And in chapter chapter 16, verse 53 He says:
 
-<blockquote dir="rtl">
-  <p>
- وَ مَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللٌّهِ 
-  </p>
-</blockquote>
+>  وَ مَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللٌّهِ 
 
 ***“Whatever blessing you have is from Allāh…”***
 
 3. In the morning supplication of “al-Sabāh”, Imām ‘Alī (as) cries:
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهِي إِنْ لَمْ تَبْتَدِئْنِي الرَّحْمَة مِنْكَ بِحُسْنِ
-التَّوْفِيْقِ، فَمَنِ السَّالِكُ بِي إِلَيْكَ فِيْ وَاضِحِ
-الطَّرِيْقِ؟‏
-  </p>
-</blockquote>
+> إِلٌهِي إِنْ لَمْ تَبْتَدِئْنِي الرَّحْمَة مِنْكَ بِحُسْنِ
+> التَّوْفِيْقِ، فَمَنِ السَّالِكُ بِي إِلَيْكَ فِيْ وَاضِحِ
+> الطَّرِيْقِ؟‏
 
 “O God, if Mercy from You does not begin with fair success for me, then
 who can take me to You upon the evident path?”[^23]
 
 4. Imām Zayn al-’Ābidīn (as) in his supplication of praise says:
 
-<blockquote dir="rtl">
-  <p>
-...ثُمَّ سَلَكَ بِهِمْ طَِريقَ إِرَادَتِهِ وَبَعَثَهُمْ فِي‏ سَبِيلِ
-مَحَبَّتِهِ...
-  </p>
-</blockquote>
+> ...ثُمَّ سَلَكَ بِهِمْ طَِريقَ إِرَادَتِهِ وَبَعَثَهُمْ فِي‏ سَبِيلِ
+> مَحَبَّتِهِ...
 
 “Then He made them walk on the path of His desire, and sent them out on
 the way of His love.”
@@ -630,15 +514,11 @@ the way of His love.”
 5. Sulaymān bin Khālid narrates that Imām Ja’far al-Sādiq (as) [once]
 said to him:
 
-<blockquote dir="rtl">
-  <p>
-يَا سُلَيْمَانُ إِنَّ لَكَ قَلْباً وَمَسَامِعَ وَإِنَّ اللٌّهَ إِذاَ
-أَرَادَ أَنْ يَهْدِيَ عَبْدًا فَتَحَ مَسَامِعَ قَلْبِهِ وَإِذاَ
-أَرَادَ بهِ غَيْرَ ذلِكَ خَتَمَ مَسَامِعَ قَلْبهِ فَلاَ يَصْلُحُ
-أَبَدًا وَهُوَ قَوْلُ اللٌّهِ عَزَّ وَجَلَّ: أَمْ عَلى‏ قُلُوبٍ
-أَقْفالُها 
-  </p>
-</blockquote>
+> يَا سُلَيْمَانُ إِنَّ لَكَ قَلْباً وَمَسَامِعَ وَإِنَّ اللٌّهَ إِذاَ
+> أَرَادَ أَنْ يَهْدِيَ عَبْدًا فَتَحَ مَسَامِعَ قَلْبِهِ وَإِذاَ
+> أَرَادَ بهِ غَيْرَ ذلِكَ خَتَمَ مَسَامِعَ قَلْبهِ فَلاَ يَصْلُحُ
+> أَبَدًا وَهُوَ قَوْلُ اللٌّهِ عَزَّ وَجَلَّ: أَمْ عَلى‏ قُلُوبٍ
+> أَقْفالُها 
 
 “O Sulaymān, surely you have a heart and the sense of hearing, and
 certainly when Allāh wants to guide a servant, He opens the ears of his
@@ -654,12 +534,8 @@ wakefulness. Look at the following verses:
 
 1. In Sūrat Sād (38), verse 29, He says:
 
-<blockquote dir="rtl">
-  <p>
- كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُوا آيَاتِهِ
-وَلِيَتَذَكَّرَ أُوْلُوا الأَلْبَابِ 
-  </p>
-</blockquote>
+>  كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُوا آيَاتِهِ
+> وَلِيَتَذَكَّرَ أُوْلُوا الأَلْبَابِ 
 
 ***“[It is] a blessed Book that We have sent down to you, so that they
 may contemplate its verses, and that those who possess intellect may
@@ -667,13 +543,9 @@ take admonition.”***
 
 2. And in chapter 14, verse 1, He says:
 
-<blockquote dir="rtl">
-  <p>
- الر. كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ
-الظُّلُمَاتِ إِلـى النُّورِ بِإِذْنِ رَبِّهِمْ إِلـى صِرَاطِ
-الْعَزِيزِ الْحَمِيدِ 
-  </p>
-</blockquote>
+>  الر. كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ
+> الظُّلُمَاتِ إِلـى النُّورِ بِإِذْنِ رَبِّهِمْ إِلـى صِرَاطِ
+> الْعَزِيزِ الْحَمِيدِ 
 
 ***“Alif, Lām, Rā; This is a Book We sent down unto you so that you
 bring mankind out of darkness into light by their Lord’s permission, to
@@ -681,11 +553,7 @@ the path of the All-mighty, the All-laudable.”***
 
 3. And in chapter 47, verse 24, He says:
 
-<blockquote dir="rtl">
-  <p>
- أَفَلاَ يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا 
-  </p>
-</blockquote>
+>  أَفَلاَ يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا 
 
 ***“Do they not then ponder over the Qur’ān or are there locks upon
 their hearts?”***
@@ -705,12 +573,8 @@ of Almighty Allāh and perpetually pray for the state of wakefulness.
 
 Imām Husayn (as) in his well-known supplication of *‘Arafah* cries:
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهِي أُطْلُبْنِي برَحْمَتِكَ حَتّى أَصِلَ إِلَيْكَ، وَاجْذُبْنِيْ
-بِمَنِّكَ حَتَّى أُقْبلَ إِلَيْكَ‏.
-  </p>
-</blockquote>
+> إِلٌهِي أُطْلُبْنِي برَحْمَتِكَ حَتّى أَصِلَ إِلَيْكَ، وَاجْذُبْنِيْ
+> بِمَنِّكَ حَتَّى أُقْبلَ إِلَيْكَ‏.
 
 “O God, Seek me by Your Mercy until I reach You and attract me by Your
 Favor until I draw towards You.”[^25]
@@ -723,12 +587,8 @@ worthy of reflection:
 
 1. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِسْتَدِيْمُوا الذِّكْرَ، فَإِنَّهُ يُنِيرُ الْقَلْبَ، وَهُوَ أَفْضَلُ
-الْعِبَادَةِ.
-  </p>
-</blockquote>
+> إِسْتَدِيْمُوا الذِّكْرَ، فَإِنَّهُ يُنِيرُ الْقَلْبَ، وَهُوَ أَفْضَلُ
+> الْعِبَادَةِ.
 
 “Be constant in the remembrance of God (*dhikr*), for that enlightens
 the heart, and it is the best worship.”[^26]
@@ -742,25 +602,17 @@ from sin.
 
 2. Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ لِلْقُلُوبِ صَدَأً كَصَدَأِ النُّحَاسِ، فَاجْلُوهَا
-بِالإِسْتِغْفَارِ.
-  </p>
-</blockquote>
+> إِنَّ لِلْقُلُوبِ صَدَأً كَصَدَأِ النُّحَاسِ، فَاجْلُوهَا
+> بِالإِسْتِغْفَارِ.
 
 “Surely there is corrosion for the hearts like the corrosion of copper;
 therefore burnish them by seeking God’s forgiveness.”[^27]
 
 3. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُكْثِرُوا الْكَلاَمَ بغَيْرِ ذِكْرِ اللٌّهِ، فَإِنَّ كَثْرَةَ
-الْكَلاَمِ بِغَيْرِ ذِكْرِ اللٌّهِ تُقْسِي الْقُلُوبَ، وَإِنَّ
-أَبْعَدَ النَّاسِ مِنَ اللٌّهِ الْقَاسِي الْقَلْبِ.
-  </p>
-</blockquote>
+> لاَ تُكْثِرُوا الْكَلاَمَ بغَيْرِ ذِكْرِ اللٌّهِ، فَإِنَّ كَثْرَةَ
+> الْكَلاَمِ بِغَيْرِ ذِكْرِ اللٌّهِ تُقْسِي الْقُلُوبَ، وَإِنَّ
+> أَبْعَدَ النَّاسِ مِنَ اللٌّهِ الْقَاسِي الْقَلْبِ.
 
 “Do not talk much about that which concerns other than the remembrance
 of Allāh, for that hardens the heart; and surely the most remote from
@@ -768,12 +620,8 @@ Allāh among the people is the one who possesses a hard heart.”[^28]
 
 4. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-الْبُكَاءُ مِنْ خَشْيَةِ اللٌّهِ يُنِيرُ الْقَلْبَ وَيَعْصِمُ مِنْ
-مُعَاوَدَةِ الذَّنْبِ.
-  </p>
-</blockquote>
+> الْبُكَاءُ مِنْ خَشْيَةِ اللٌّهِ يُنِيرُ الْقَلْبَ وَيَعْصِمُ مِنْ
+> مُعَاوَدَةِ الذَّنْبِ.
 
 “Weeping out of the fear of Allāh, enlightens the heart and prevents
 [one] from repeating sin.”[^29]
@@ -782,11 +630,7 @@ Allāh among the people is the one who possesses a hard heart.”[^28]
 should not be taken to merely mean ‘the conventional fear’ that we know
 of. ‘*Khashyah*’, according to Rāghib al-Isfahānī, is:
 
-<blockquote dir="rtl">
-  <p>
-خَوْفٌ يَشُوْبُهُ تَعْظِيْمٌ.
-  </p>
-</blockquote>
+> خَوْفٌ يَشُوْبُهُ تَعْظِيْمٌ.
 
 ‘fear mixed with veneration.’[^30]
 
@@ -801,24 +645,16 @@ experience the fear of Allāh with veneration for His Exalted Essence.
 
 5. The Holy Prophet (s) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ تُمِيْتُوا الْقُلُوْبَ بكَثْرَةِ الطَّعَامِ وَالشَّرَاب، فَإِنَّ
-الْقُلُوْبَ تَمُوْتُ كَالزُّرُوْعِ إِذَا كَثُرَ عَلَيْهِ الْمَاءُ.
-  </p>
-</blockquote>
+> لاَ تُمِيْتُوا الْقُلُوْبَ بكَثْرَةِ الطَّعَامِ وَالشَّرَاب، فَإِنَّ
+> الْقُلُوْبَ تَمُوْتُ كَالزُّرُوْعِ إِذَا كَثُرَ عَلَيْهِ الْمَاءُ.
 
 “Do not deaden your hearts by a lot of food and drink for surely the
 hearts die like plantations if a lot of water is put on them.”[^31]
 
 6. Imām Ja’far al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-...طَلَبْتُ نُورَ الْقَلْبِ فَوَجَدْتُهُ فِي التَّفَكُّرِ
-وَالْبُكَاءِ...
-  </p>
-</blockquote>
+> ...طَلَبْتُ نُورَ الْقَلْبِ فَوَجَدْتُهُ فِي التَّفَكُّرِ
+> وَالْبُكَاءِ...
 
 “…I sought for the light of the heart and found it in reflection and
 weeping [for those things that one should weep for such as regret of
@@ -827,11 +663,7 @@ sin, etc.]…”[^32]
 7. Imām Muhammad al-Bāqir (as) is reported to have advised Jābir
 al-Ju’fī as follows:
 
-<blockquote dir="rtl">
-  <p>
-اِسْتَجْلِبْ شِدَّةَ التَّيَقُّظِ بِصِدْقِ الْخَوْفِ.‏
-  </p>
-</blockquote>
+> اِسْتَجْلِبْ شِدَّةَ التَّيَقُّظِ بِصِدْقِ الْخَوْفِ.‏
 
 “Attract extreme wakefulness by true fear.”
 
@@ -842,13 +674,9 @@ knowledge (*al-‘ilm al-hudurī*), when the spirit reaches its height.
 
 8. The Holy Prophet (s) in a lengthy tradition says:
 
-<blockquote dir="rtl">
-  <p>
-... وَمَنْ أَحَبَّ عَلِيًّا بَعَثَ اللٌّهُ مَلَكَ الْمَوْتِ إِلَيْهِ
-بِرِفْقٍ، وَدَفَعَ اللٌّهُ عَزَّ وَجَلَّ عَنْهُ هَوْلَ مُنْكِرٍ
-وَنَكِيْرٍ، وَنَوَّرَ قَلْبَهُ، وَبَيَّضَ وَجْهَهُ‏...
-  </p>
-</blockquote>
+> ... وَمَنْ أَحَبَّ عَلِيًّا بَعَثَ اللٌّهُ مَلَكَ الْمَوْتِ إِلَيْهِ
+> بِرِفْقٍ، وَدَفَعَ اللٌّهُ عَزَّ وَجَلَّ عَنْهُ هَوْلَ مُنْكِرٍ
+> وَنَكِيْرٍ، وَنَوَّرَ قَلْبَهُ، وَبَيَّضَ وَجْهَهُ‏...
 
 “And whosoever loves ‘Alī, Allāh (swt) would send the Angel of death to
 him in a friendly manner and remove from him the fear of Munkir and
@@ -858,14 +686,10 @@ Nakīr and enlighten his heart and whiten his face…”[^33]
 is not an evanescent emotional pull. For a better understanding of this,
 look at the following tradition:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عُبَيْدَة عَنْ أَبِي جَعْفَر (ع) قَالَ: مَنْ أَحَبَّنَا
-فَهُوَ مِنَّا أَهْلِ الْبَيْتِ. قُلْتُ: جُعِلْتُ فِدَاكَ! مِنْكُمْ؟
-قَالَ: مِنَّا وَاللٌّهِ، أَمَا سَمِعْتَ قَوْلَ إِبْرَاهِيمَ (ع): 
-فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ؟
-  </p>
-</blockquote>
+> عَنْ أَبِي عُبَيْدَة عَنْ أَبِي جَعْفَر (ع) قَالَ: مَنْ أَحَبَّنَا
+> فَهُوَ مِنَّا أَهْلِ الْبَيْتِ. قُلْتُ: جُعِلْتُ فِدَاكَ! مِنْكُمْ؟
+> قَالَ: مِنَّا وَاللٌّهِ، أَمَا سَمِعْتَ قَوْلَ إِبْرَاهِيمَ (ع): 
+> فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ؟
 
 “Abū ‘Ubaydah is reported to have said that Imām Muhammad al-Bāqir (as)
 said: “Whosoever loves us then he is from us the Ahlu’l Bayt (as).” Abū
@@ -899,12 +723,8 @@ certain woman, and headed for her house. While climbing the wall of her
 house, he happened to hear the following verse of Qur’ān from someone
 who was reciting the Qur’ān in the neighborhood:
 
-<blockquote dir="rtl">
-  <p>
- أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَنْ تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ
-اللٌّهِ... 
-  </p>
-</blockquote>
+>  أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَنْ تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ
+> اللٌّهِ... 
 
 “Has the time not yet come for the believers that their hearts turn
 humble for the remembrance of Allāh…?”[^34]
@@ -921,12 +741,8 @@ worship and self-reform; however, he did not live for long. One day
 while he was standing near the spring of Zamzam in Masjid al-Harām he
 heard the following verses of Qur’ān from someone nearby:
 
-<blockquote dir="rtl">
-  <p>
- وَتَرَى الْمُجْرِمِينَ يَوْمَئِذٍ مُقَرَّنِينَ فِي الأَصْفَادِ.
-سَرَابِيلُهُمْ مِنْ قَطِرَانٍ وَتَغْشَى وُجُوهَهُمْ النَّارُ 
-  </p>
-</blockquote>
+>  وَتَرَى الْمُجْرِمِينَ يَوْمَئِذٍ مُقَرَّنِينَ فِي الأَصْفَادِ.
+> سَرَابِيلُهُمْ مِنْ قَطِرَانٍ وَتَغْشَى وُجُوهَهُمْ النَّارُ 
 
 “And you will see the guilty on that day linked together in chains.
 Their shirts made of pitch and the fire covering their faces.”[^35]
@@ -940,11 +756,7 @@ and wake up from his slumber. We should not imagine that wakefulness is
 reserved for a certain class, and others are deprived of the same. The
 following universal law sums it up:
 
-<blockquote dir="rtl">
-  <p>
- ...لَـهَا مَا كَسَبَتْ وَ عَلَيْهَا مَا اكْتَسَبَتْ... 
-  </p>
-</blockquote>
+>  ...لَـهَا مَا كَسَبَتْ وَ عَلَيْهَا مَا اكْتَسَبَتْ... 
 
 ***“…For it (i.e. the soul) is what it has earned, and against it is
 what it has earned….”***[^37]
@@ -968,22 +780,14 @@ Prophets (as) and Imāms (as).
 
 Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا صَنَايِعُ رَبِّنَا، وَالنَّاسُ بَعْدُ صَنَايعُ لَنَا.
-  </p>
-</blockquote>
+> إِنَّا صَنَايِعُ رَبِّنَا، وَالنَّاسُ بَعْدُ صَنَايعُ لَنَا.
 
 “We are the handicrafts of our Lord and the people then are our
 handicrafts.”[^38]
 
 Imām al-Sādiq (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ السَّبَبُ بَيْنَكُمْ وَبَيْنَ اللٌّهِ تَعَالى.
-  </p>
-</blockquote>
+> نَحْنُ السَّبَبُ بَيْنَكُمْ وَبَيْنَ اللٌّهِ تَعَالى.
 
 “We are the intermediary between you and Allāh.”[^39]
 
@@ -991,19 +795,11 @@ Look at the following verses of the famous Ziyārah of Jāmi‘ah for a
 better understanding of the significant role played by the Holy Prophet
 (s) and his infallible progeny (as):
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَرَادَ اللٌّهَ بَدَأَ بِكُمْ.
-  </p>
-</blockquote>
+> مَنْ أَرَادَ اللٌّهَ بَدَأَ بِكُمْ.
 
 “Whosoever seeks Allāh begins through you.”
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ قَصَدَهُ تَوَجَّهَ بِكُمْ‏.
-  </p>
-</blockquote>
+> وَمَنْ قَصَدَهُ تَوَجَّهَ بِكُمْ‏.
 
 And whosoever intends Him pays attention to Him by means of you.[^40]
 
@@ -1059,54 +855,30 @@ can rank among those who had the privilege of being a noble companion of
 Imām Husayn(as). If we carefully read the Ziyārah of the martyrs of
 Karbalā’ we come to realize how exalted was Zuhayr and his likes:
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ يَا أَوْلِيآءَ اللٌّهِ وَ أَحِبّاءَهُ...
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ يَا أَوْلِيآءَ اللٌّهِ وَ أَحِبّاءَهُ...
 
 “Peace be on you O friends of Allāh and His lovers…”
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ دِيْنِ اللٌّهِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ دِيْنِ اللٌّهِ.
 
 “Peace be on you O helpers of the religion of Allāh.”
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ رَسُولِ اللٌّهِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ رَسُولِ اللٌّهِ.
 
 “Peace be on you O helpers of the Messenger of Allāh.”
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَمِيْرِ الْمُؤْمِنِيْنَ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَمِيْرِ الْمُؤْمِنِيْنَ.
 
 “Peace be on you O helpers of the Commander of the faithful.”
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ
-الْعَالَمِينَ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ
+> الْعَالَمِينَ.
 
 “Peace be on you O helpers of Fātimah, the Mistress of the Women of the
 Universe.”
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي مُحَمَّدٍ الْحَسَنِ بْنِ
-عَلِيٍّ الزَّكِيِّ النَّاصِحِ.
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكُمْ يَا أَنْصَارَ أَبِي مُحَمَّدٍ الْحَسَنِ بْنِ
+> عَلِيٍّ الزَّكِيِّ النَّاصِحِ.
 
 “Peace be on you O helpers of Abī Muhammad al-Hasan bin ‘Alī…”[^42]
 
@@ -1124,11 +896,7 @@ teachings of religion and woke the slumbering folk. Such people live in
 the past, present, and future. They are beyond time and place. Small
 wonder it is that we are taught to address them saying:
 
-<blockquote dir="rtl">
-  <p>
-فَيَالَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوْزَ مَعَكُمْ‏.
-  </p>
-</blockquote>
+> فَيَالَيْتَنِي كُنْتُ مَعَكُمْ فَأَفُوْزَ مَعَكُمْ‏.
 
 “I wish I would have been in your company so that I may have succeeded
 with you.”[^43]
@@ -1159,14 +927,10 @@ of the beautiful names of Almighty Allāh is *al-Tawwāb* [The One Who
 often turns in Mercy]. This reality is manifested in the following verse
 of the Qur’ān:
 
-<blockquote dir="rtl">
-  <p>
- وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُوا حَتَّى إِذَا ضَاقَتْ
-عَلَيْهِمْ الأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنْفُسُهُمْ
-وَظَنُّوا أَنْ لاَ مَلْجَأَ مِنَ اللٌّّهِ إِلاَّ إِلَيْهِ ثُمَّ تَابَ
-عَلَيْهِمْ لِيَتُوبُوا إِنَّ اللٌّهَ هُوَ التَّوَّابُ الرَّحِيمُ 
-  </p>
-</blockquote>
+>  وَعَلَى الثَّلاَثَةِ الَّذِينَ خُلِّفُوا حَتَّى إِذَا ضَاقَتْ
+> عَلَيْهِمْ الأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنْفُسُهُمْ
+> وَظَنُّوا أَنْ لاَ مَلْجَأَ مِنَ اللٌّّهِ إِلاَّ إِلَيْهِ ثُمَّ تَابَ
+> عَلَيْهِمْ لِيَتُوبُوا إِنَّ اللٌّهَ هُوَ التَّوَّابُ الرَّحِيمُ 
 
 ***“And to the three who were left behind, until, when the earth became
 strait for them, for all its breadth, and their souls became strait for
@@ -1218,12 +982,8 @@ the degrees of returning to God. Every return from Almighty Allāh makes
 the wayfarer return, until he attains the proximity of Almighty Allāh.
 The following verse is worthy of contemplation:
 
-<blockquote dir="rtl">
-  <p>
- وَتُوبُوا إِلـى اللٌّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ
-تُفْلِحُونَ 
-  </p>
-</blockquote>
+>  وَتُوبُوا إِلـى اللٌّهِ جَمِيعًا أَيُّهَا الْمُؤْمِنُونَ لَعَلَّكُمْ
+> تُفْلِحُونَ 
 
 “…And turn to Allāh all of you, O believers, so that you may attain
 salvation.”[^46]
@@ -1265,23 +1025,19 @@ experience but ‘a transformation of one’s state.’ It is the process of
 clearing one’s heart and soaring to the higher planes of existence. It
 begins as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ (ع) لِقَائِلٍ قَالَ بِحَضْرَتِهِ (أَسْتَغْفِرُ اللٌّهَ):
-ثَكِلَتْكَ أُمُّكَ أَتَدْرِي مَا الإَسْتِغْفَارُ؟ أَلإِسْتِغْفَارُ
-دَرَجَةُ الْعِلِّيِّينَ، وَهُوَ اسْمٌ وَاقِعٌ عَلَى سِتَّةِ مَعَانٍ:
-أَوَّلُهَا النَّدَمُ عَلَى مَا مَضَى. وَالثَّانِي الْعَزْمُ عَلَى
-تَرْكِ الْعَوْدِ إِلَيْهِ أَبَداً. وَالثَّالِثُ أَنْ تُؤَدِّيَ إِلَى
-الْمَخْلُوقِينَ حُقُوقَهُمْ حَتَّى تَلْقَى اللٌّهَ أَمْلَسَ لَيْسَ
-عَلَيْكَ تَبعَةٌ. وَالرَّابِعُ أَنْ تَعْمِدَ إِلَى كُلِّ فَرِيضَةٍ
-عَلَيْكَ ضَيَّعْتَهَا فَتُؤَدِّيَ حَقَّهَا. وَالْخَامِسُ أَنْ تَعْمِدَ
-إِلَى اللَّحْمِ الَّذِي نَبَتَ عَلَى السُّحْتِ فَتُذِيبَهُ
-بِالأحْزَانِ حَتَّى تُلْصِقَ الْجِلْدَ بالْعَظْمِ وَيَنْشَأَ
-بَيْنَهُمَا لَحْمٌ جَدِيدٌ. وَالسَّادِسُ أَنْ تُذِيقَ الْجسْمَ أَلَمَ
-الطَّاعَةِ كَمَا أَذَقْتَهُ حَلاوَةَ الْمَعْصِيَةِ. فَعِنْدَ ذَلِكَ
-تَقُولُ: (أَسْتَغْفِرُ اللٌّهَ).
-  </p>
-</blockquote>
+> وَقَالَ (ع) لِقَائِلٍ قَالَ بِحَضْرَتِهِ (أَسْتَغْفِرُ اللٌّهَ):
+> ثَكِلَتْكَ أُمُّكَ أَتَدْرِي مَا الإَسْتِغْفَارُ؟ أَلإِسْتِغْفَارُ
+> دَرَجَةُ الْعِلِّيِّينَ، وَهُوَ اسْمٌ وَاقِعٌ عَلَى سِتَّةِ مَعَانٍ:
+> أَوَّلُهَا النَّدَمُ عَلَى مَا مَضَى. وَالثَّانِي الْعَزْمُ عَلَى
+> تَرْكِ الْعَوْدِ إِلَيْهِ أَبَداً. وَالثَّالِثُ أَنْ تُؤَدِّيَ إِلَى
+> الْمَخْلُوقِينَ حُقُوقَهُمْ حَتَّى تَلْقَى اللٌّهَ أَمْلَسَ لَيْسَ
+> عَلَيْكَ تَبعَةٌ. وَالرَّابِعُ أَنْ تَعْمِدَ إِلَى كُلِّ فَرِيضَةٍ
+> عَلَيْكَ ضَيَّعْتَهَا فَتُؤَدِّيَ حَقَّهَا. وَالْخَامِسُ أَنْ تَعْمِدَ
+> إِلَى اللَّحْمِ الَّذِي نَبَتَ عَلَى السُّحْتِ فَتُذِيبَهُ
+> بِالأحْزَانِ حَتَّى تُلْصِقَ الْجِلْدَ بالْعَظْمِ وَيَنْشَأَ
+> بَيْنَهُمَا لَحْمٌ جَدِيدٌ. وَالسَّادِسُ أَنْ تُذِيقَ الْجسْمَ أَلَمَ
+> الطَّاعَةِ كَمَا أَذَقْتَهُ حَلاوَةَ الْمَعْصِيَةِ. فَعِنْدَ ذَلِكَ
+> تَقُولُ: (أَسْتَغْفِرُ اللٌّهَ).
 
 “Once in the presence of Imām ‘Alī (as) a person said: *Astaghfirullāh*
 (I seek forgiveness from Allāh). Hearing this, the Imām (as) said to
@@ -1330,23 +1086,19 @@ benefit, but Allāh’s Grace and Mercy. This is a monotheistic vision of
 the reality. Imām al-Sajjād (as) teaches us the same in supplication no.
 16 of his radiant work al-Sahīfat al-Sajjādiyyah as follows:
 
-<blockquote dir="rtl">
-  <p>
-لَوْ بَكَيْتُ إِلَيْكَ حَتّى‏ تَسْقُطَ أَشْفارَ عَيْنَيَّ،
-وَانْتَحَبْتُ حَتّى‏ يَنْقَطِعُ صَوْتِي،‏ وَقُمْتُ لَكَ حَتَّى
-تَتَنَشَّرَ قَدَمايَ، وَرَكَعْتُ لَكَ حَتّى‏ يَنْخَلِعَ صُلْبي،‏
-وَسَجَدْتُ لَكَ حَتّى‏ تَتَفَقَّأَ حَدَقَتايَ، وَأَكَلْتُ تُرَابَ
-الأََرْضِ طُولَ عُمْري،‏ وَشَرِبْتُ مَآءَ الرَّمَادِ آخِرَ دَهْرِي،‏
-وَذَكَرْتُكَ فِي‏ خِلالِ ذٌلِكَ حَتّى‏ يَكِلَّ لِسَانِي،‏ ثُمَّ لَمْ
-ارْفَعْ طَرْفي‏ إِلـى‏ آفاقِ السَّماءِ اسْتِحْياءً مِنْكَ، مَا
-اسْتَوْجَبْتُ بِذٌلِكَ مَحْوَ سَيِّئَةٍ واحِدَةٍ مِنْ سَيِّئاتِي‏.
-وَإِنْ كُنْتَ تَغْفِرُ لِي‏ حِينَ اسْتَوْجِبُ مَغْفِرَتكَ، وَتَعْفُو
-عَنِّي حِيْنَ اسْتَحِقُّ عَفْوَكَ، فَإِنَّ ذٌلِكَ غَيْرُ وَاجِبٍ لِيْ
-بِاسْتِحْقاقٍ، وَلا اَنَا اهْلٌ لَهُ بِاسْتيجابٍ، إِذْ كانَ جَزائِي
-مِنْكَ فِي‏ اَوَّلِ مَا عَصَيْتُكَ النَّارَ، فَإِنْ تُعَذِّبْنِيْ
-فَاَنْتَ غَيْرُ ظَالِمٍ لِي‏‏...
-  </p>
-</blockquote>
+> لَوْ بَكَيْتُ إِلَيْكَ حَتّى‏ تَسْقُطَ أَشْفارَ عَيْنَيَّ،
+> وَانْتَحَبْتُ حَتّى‏ يَنْقَطِعُ صَوْتِي،‏ وَقُمْتُ لَكَ حَتَّى
+> تَتَنَشَّرَ قَدَمايَ، وَرَكَعْتُ لَكَ حَتّى‏ يَنْخَلِعَ صُلْبي،‏
+> وَسَجَدْتُ لَكَ حَتّى‏ تَتَفَقَّأَ حَدَقَتايَ، وَأَكَلْتُ تُرَابَ
+> الأََرْضِ طُولَ عُمْري،‏ وَشَرِبْتُ مَآءَ الرَّمَادِ آخِرَ دَهْرِي،‏
+> وَذَكَرْتُكَ فِي‏ خِلالِ ذٌلِكَ حَتّى‏ يَكِلَّ لِسَانِي،‏ ثُمَّ لَمْ
+> ارْفَعْ طَرْفي‏ إِلـى‏ آفاقِ السَّماءِ اسْتِحْياءً مِنْكَ، مَا
+> اسْتَوْجَبْتُ بِذٌلِكَ مَحْوَ سَيِّئَةٍ واحِدَةٍ مِنْ سَيِّئاتِي‏.
+> وَإِنْ كُنْتَ تَغْفِرُ لِي‏ حِينَ اسْتَوْجِبُ مَغْفِرَتكَ، وَتَعْفُو
+> عَنِّي حِيْنَ اسْتَحِقُّ عَفْوَكَ، فَإِنَّ ذٌلِكَ غَيْرُ وَاجِبٍ لِيْ
+> بِاسْتِحْقاقٍ، وَلا اَنَا اهْلٌ لَهُ بِاسْتيجابٍ، إِذْ كانَ جَزائِي
+> مِنْكَ فِي‏ اَوَّلِ مَا عَصَيْتُكَ النَّارَ، فَإِنْ تُعَذِّبْنِيْ
+> فَاَنْتَ غَيْرُ ظَالِمٍ لِي‏‏...
 
 My God,  
  were I to weep to You until my eyelids drop off,  
@@ -1386,12 +1138,8 @@ Characteristics of a True Reformer
 
 The Holy Qur’ān, chapter 7, verse no. 170, says:
 
-<blockquote dir="rtl">
-  <p>
- وَالَّذِينَ يُمَـسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلاَةَ إِنَّا
-لاَ نُضِيعُ أَجْرَ الْمُصْلِحِينَ 
-  </p>
-</blockquote>
+>  وَالَّذِينَ يُمَـسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلاَةَ إِنَّا
+> لاَ نُضِيعُ أَجْرَ الْمُصْلِحِينَ 
 
 ***“And those who [1] hold fast by the book and [2] keep up prayer;
 verily We waste not the recompense of the reformers.”***
@@ -1402,12 +1150,8 @@ The above verse informs us that a reformer must:
 
 The great Shī‘ah exegete, Shaykh Tabrasī in his *Majma‘ al-Bayān* says:
 
-<blockquote dir="rtl">
-  <p>
-أَمْسَكَ وَمسَّكَ وَتَمَسَّكَ واسْتَمْسَكَ بِالشَّيْءِ بِمَعْنيً
-وَاحِدٍ: أَيْ اِعْتَصَمَ بِهِ.
-  </p>
-</blockquote>
+> أَمْسَكَ وَمسَّكَ وَتَمَسَّكَ واسْتَمْسَكَ بِالشَّيْءِ بِمَعْنيً
+> وَاحِدٍ: أَيْ اِعْتَصَمَ بِهِ.
 
 “The verbs *amsaka* and *tamassaka* and *istamsaka bi al-shay’* all have
 the same meaning, which is ‘to adhere to something.’”[^50]
@@ -1415,11 +1159,7 @@ the same meaning, which is ‘to adhere to something.’”[^50]
 And in his *al-Mufradāt*, an authoritative dictionary of Qur’ānic words,
 Rāghib al-Isfahānī says:
 
-<blockquote dir="rtl">
-  <p>
-إِمْسَاكُ الشَّيْءِ: التَّعَلُّقُ بهِ وَحِفْظُهُ.
-  </p>
-</blockquote>
+> إِمْسَاكُ الشَّيْءِ: التَّعَلُّقُ بهِ وَحِفْظُهُ.
 
 “‘*Imsāk al-shay’* (to adhere to something) means to cling to it and
 protect it.’”[^51]
@@ -1445,15 +1185,11 @@ Qur’ān. It is a matter of action and qualification.
 
 ‘Allāmah Tabātabā’ī in his monumental *al-Mīzān* says:
 
-<blockquote dir="rtl">
-  <p>
-وَتَخْصِيْصُ إِقَامَةِ الصَّلاَةِ بِالذِّكْرِ مِنْ بَيْنِ سَائِرِ
-أَجْزَاءِ الدِّيْنِ لِشَرَفِهَا وَكَوْنِهَا رُكْنًا مِنْ الدِّيْنِ
-يُحْفَظُ بِهَا ذِكْرُ اللٌّهِ وَالْخُضُوْعُ إِلـى مَقَامِهِ الَّذِي
-هُوَ بِمَنْزِلَةِ الرُّوْحِ الْحَيَّةِ فِيْ هَيْكَلِ الشَّرَائِع
-الدِّيْنِيَّةِ.
-  </p>
-</blockquote>
+> وَتَخْصِيْصُ إِقَامَةِ الصَّلاَةِ بِالذِّكْرِ مِنْ بَيْنِ سَائِرِ
+> أَجْزَاءِ الدِّيْنِ لِشَرَفِهَا وَكَوْنِهَا رُكْنًا مِنْ الدِّيْنِ
+> يُحْفَظُ بِهَا ذِكْرُ اللٌّهِ وَالْخُضُوْعُ إِلـى مَقَامِهِ الَّذِي
+> هُوَ بِمَنْزِلَةِ الرُّوْحِ الْحَيَّةِ فِيْ هَيْكَلِ الشَّرَائِع
+> الدِّيْنِيَّةِ.
 
 “And the particular mention of establishing prayer from among the parts
 of relgion is due to its sacred position and that it is the pillar of
@@ -1475,35 +1211,23 @@ appreciated by looking at the following traditions:
 
 1. Imām ‘Alī (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمْ أَنَّ كُلَّ شَيْ‏ءٍ مِنْ عَمَلِكَ تَبَعٌ لِصَلاتِكَ‏.
-  </p>
-</blockquote>
+> وَاعْلَمْ أَنَّ كُلَّ شَيْ‏ءٍ مِنْ عَمَلِكَ تَبَعٌ لِصَلاتِكَ‏.
 
 “And know that every thing that you do is according to your
 prayer.”[^53]
 
 2. Imām Muhammad al-Bāqir (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ قُبِلَتْ قُبلَ مَا سِوَاهَا.
-  </p>
-</blockquote>
+> إِنْ قُبِلَتْ قُبلَ مَا سِوَاهَا.
 
 “If it [i.e. *Salāt*] is accepted the other actions would be
 accepted.”[^54]
 
 3. Imām al-Ridā (as) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-...وَأَوَّلُ مَا يُحَاسَبُ الْعَبْدُ عَلَيْهِ الصَّلاَةُ، فَإِنْ
-صَحَّتْ لَهُ الصَّلاَةُ صَحَّتْ لَهُ مَا سِوَاهَا، وَإِنْ رُدَّتْ
-رُدَّتْ مَا سِوَاَها...
-  </p>
-</blockquote>
+> ...وَأَوَّلُ مَا يُحَاسَبُ الْعَبْدُ عَلَيْهِ الصَّلاَةُ، فَإِنْ
+> صَحَّتْ لَهُ الصَّلاَةُ صَحَّتْ لَهُ مَا سِوَاهَا، وَإِنْ رُدَّتْ
+> رُدَّتْ مَا سِوَاَها...
 
 “…The first thing that a servant would be accounted for is prayers; if
 his prayers are in order, then all else would be correct, and if it is
@@ -1530,11 +1254,7 @@ stability and purpose. And the only person who can formulate such laws
 is Almighty Allāh who knows every subtle aspect of the human being and
 his salvation. The Holy Qur’ān says:
 
-<blockquote dir="rtl">
-  <p>
- أَلاَ يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ 
-  </p>
-</blockquote>
+>  أَلاَ يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ 
 
 “Would He who has created not know? And He is the All-Attentive, the
 All-Aware.”[^56]
@@ -1544,20 +1264,16 @@ form the society would easily be able to attain perfection.
 
 In his *al-Mīzān*, the late ‘Allāmah Tabātabā’ī says:
 
-<blockquote dir="rtl">
-  <p>
-...لَكِنّ سَعَادَةَ الشّخْصِ مَبْنِيَّةٌ عَلى صَلاَحِ الظَّرْفِ
-الاِجْتِمَاعِي الَّذِي يَعِيْشُ هُوَ فِيْهِ، وَمَا أَصْعَبُ أَنْ
-يَفْلَحَ فَرْدٌ فِيْ مُجْتَمَعٍ فَاسِدٍ أَحَاطَ بهِ الشّقَاءُ مِنْ
-كُلِّ جَانِبٍ. وَلِذٌلِكَ إِهْتَمَّ فِي إِصْلاَحِ الْمُجْتَمَعِ
-اِهْتِمَامًا لاَ يُعَادِلُهُ فِيْهِ غَيْرُهُ وَبَذَلَ الْجُهْدَ
-الْبَالِغَ فِيْ جَعْلِ الدَّسَاتِيْرَ وَالتَّعَالِيْمَ الدِّيْنِيَّةِ
-حَتّى العِبَادَات مِنَ الصَّلاَةِ وَالْحَجِّ وَالصَّوْمِ
-اِجْتِمَاعِيَّةً مَا أَمْكَنَ فِيْهَا ذَلِكَ، كُلُّ ذَلِكَ
-لِيَسْتَصْلِحَ الإِنْسَانُ فِي نَفْسِهِ وَمِنْ جِهَةِ ظَرْفِ
-حَيَاتِهِ.
-  </p>
-</blockquote>
+> ...لَكِنّ سَعَادَةَ الشّخْصِ مَبْنِيَّةٌ عَلى صَلاَحِ الظَّرْفِ
+> الاِجْتِمَاعِي الَّذِي يَعِيْشُ هُوَ فِيْهِ، وَمَا أَصْعَبُ أَنْ
+> يَفْلَحَ فَرْدٌ فِيْ مُجْتَمَعٍ فَاسِدٍ أَحَاطَ بهِ الشّقَاءُ مِنْ
+> كُلِّ جَانِبٍ. وَلِذٌلِكَ إِهْتَمَّ فِي إِصْلاَحِ الْمُجْتَمَعِ
+> اِهْتِمَامًا لاَ يُعَادِلُهُ فِيْهِ غَيْرُهُ وَبَذَلَ الْجُهْدَ
+> الْبَالِغَ فِيْ جَعْلِ الدَّسَاتِيْرَ وَالتَّعَالِيْمَ الدِّيْنِيَّةِ
+> حَتّى العِبَادَات مِنَ الصَّلاَةِ وَالْحَجِّ وَالصَّوْمِ
+> اِجْتِمَاعِيَّةً مَا أَمْكَنَ فِيْهَا ذَلِكَ، كُلُّ ذَلِكَ
+> لِيَسْتَصْلِحَ الإِنْسَانُ فِي نَفْسِهِ وَمِنْ جِهَةِ ظَرْفِ
+> حَيَاتِهِ.
 
 “…But the prosperity of a person depends on the equilibrium of the
 social conditions where he lives, and how difficult it is for a person
@@ -1577,11 +1293,7 @@ qualities of a true reformer, if he is not supported by the people, the
 state of social equilibrium cannot be attained. There is a subtle
 allusion to this truth in the following verse:
 
-<blockquote dir="rtl">
-  <p>
- لِيَقُومَ النَّاسُ بِالْقِسْطِ... 
-  </p>
-</blockquote>
+>  لِيَقُومَ النَّاسُ بِالْقِسْطِ... 
 
 ***“…so that the people rise with justice.”***[^58]
 
@@ -1598,13 +1310,9 @@ past nations, who simply refused to change themselves. Due to their
 obstinacy, they had to face a despicable doom. Look at the following
 verses:
 
-<blockquote dir="rtl">
-  <p>
- وَلَقَدْ أَهْلَكْنَا الْقُرُونَ مِنْ قَبْلِكُمْ لَمَّا ظَلَمُوا
-وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَمَا كَانُوا لِيُؤْمِنُوا
-كَذٌلِكَ نَجْزِي الْقَوْمَ الْمُجْرِمِينَ 
-  </p>
-</blockquote>
+>  وَلَقَدْ أَهْلَكْنَا الْقُرُونَ مِنْ قَبْلِكُمْ لَمَّا ظَلَمُوا
+> وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَمَا كَانُوا لِيُؤْمِنُوا
+> كَذٌلِكَ نَجْزِي الْقَوْمَ الْمُجْرِمِينَ 
 
 ***“Indeed We destroyed generations before you when they did wrong:
 their Messengers came to them with Clear Signs, and they were not those
@@ -1670,13 +1378,9 @@ If we understand Imām Husayn’s motive, we would fully realize the
 movement’s sublimity. In one of his addresses to Muhammad bin
 Hanafiyyah, he says:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّـمَا خَرَجْتُ لِطَلَبِ الإِصْلاَحِ فِي أُمَّةِ جَدِّي (ص)،
-أُرِيدُ أَنْ آمُرَ بالْمَعْرُوْفِ وَأَنْهَى عَنِ الْمُنْكَرِ،
-وَأَسِيرَ بِسِيرَةِ جَدِّي وَأَبِي عَلِيِّ بْنِ أَبِي طَالِبِ (ع).
-  </p>
-</blockquote>
+> إِنَّـمَا خَرَجْتُ لِطَلَبِ الإِصْلاَحِ فِي أُمَّةِ جَدِّي (ص)،
+> أُرِيدُ أَنْ آمُرَ بالْمَعْرُوْفِ وَأَنْهَى عَنِ الْمُنْكَرِ،
+> وَأَسِيرَ بِسِيرَةِ جَدِّي وَأَبِي عَلِيِّ بْنِ أَبِي طَالِبِ (ع).
 
 “I have only risen to seek reform and equilibrium in the nation of my
 grandfather, the Messenger of Allāh; I would like to invite to good and
@@ -1712,15 +1416,11 @@ Awaiting for the Noble Government
 
 In the famous *Du‘ā al-Iftitāh*, we pray:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنَّا نَرْغَبُ إِلَيْكَ فِي دَوْلَةٍ كَرِيـمَةٍ تُعِزُّ
-بِهَا الإِسْلاَمَ وَأَهْلَهُ، وَتُذِلُّ بِهَا النِّفَاقَ وَأَهْلَهُ،
-وَتَجْعَلُنَا فِيهَا مِنَ الدُّعَاةِ إِلَى طَاعَتِكَ، وَالْقَادَةِ
-إِلَى سَبِيلِكَ، وَتَرْزُقُنَا بِهَا كَرَامَةَ الدُّنْيَا
-وَالآخِرَةِ...
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنَّا نَرْغَبُ إِلَيْكَ فِي دَوْلَةٍ كَرِيـمَةٍ تُعِزُّ
+> بِهَا الإِسْلاَمَ وَأَهْلَهُ، وَتُذِلُّ بِهَا النِّفَاقَ وَأَهْلَهُ،
+> وَتَجْعَلُنَا فِيهَا مِنَ الدُّعَاةِ إِلَى طَاعَتِكَ، وَالْقَادَةِ
+> إِلَى سَبِيلِكَ، وَتَرْزُقُنَا بِهَا كَرَامَةَ الدُّنْيَا
+> وَالآخِرَةِ...
 
 “O Allāh, indeed we ask you for a noble government in which you would
 elevate Islam and its followers, and degrade hypocrisy and its
@@ -1788,12 +1488,8 @@ outline the characteristics of the supporters of the 12th Holy Imām
 Imām ‘Alī (as) is reported to have said about the soldiers of the 12th
 Holy Imām (as) that:
 
-<blockquote dir="rtl">
-  <p>
-...رِجَالٌ عَرَفُوا اللٌّهَ حَقَّ مَعْرِفَتِهِ، وَهُمْ أَنْصَارُ
-الْمَهْدِي (ع) آخَر الزَّماَن...
-  </p>
-</blockquote>
+> ...رِجَالٌ عَرَفُوا اللٌّهَ حَقَّ مَعْرِفَتِهِ، وَهُمْ أَنْصَارُ
+> الْمَهْدِي (ع) آخَر الزَّماَن...
 
 “...Men who know Allāh as He should be Known, and they are the helpers
 of al-Mahdī at the end of time.”[^61]
@@ -1810,13 +1506,9 @@ Imām al-Sādiq (as) is reported[^62] to have said in a lengthy tradition
 that those who would come out with Imām al-Mahdi (as) would be as
 follows:
 
-<blockquote dir="rtl">
-  <p>
-وَلٌكِنَّ هٌذِهِ (الْعِدّة) الَّتِي يُخْرِجُ اللٌّهُ فِيْهَا
-اَلْقَائِم (ع)، وَهُمْ النُّجَبَاءُ، وَالْقُضَاةُ وَالْحُكَّامُ،
-وَالْفُقَهَاءُ فِي الدِّيْنِ...
-  </p>
-</blockquote>
+> وَلٌكِنَّ هٌذِهِ (الْعِدّة) الَّتِي يُخْرِجُ اللٌّهُ فِيْهَا
+> اَلْقَائِم (ع)، وَهُمْ النُّجَبَاءُ، وَالْقُضَاةُ وَالْحُكَّامُ،
+> وَالْفُقَهَاءُ فِي الدِّيْنِ...
 
 “They are:  
  • Of noble Descent [*nujabā’*]
@@ -1979,5 +1671,4 @@ Translation by William Chittick), Supplication no. 16, pp. 59-60.
 [^61]: Muntakhab al-Athar, volume 3, pg. 177
 
 [^62]: Ibid.
-
 

@@ -5,17 +5,9 @@ Letter 24: His Will
 instructions as to how to treat his property and estate. It was written
 after his return from the Battle of Siffin.*
 
-<blockquote dir="rtl">
-  <p>
-ومن وصية له (عليه السلام)
-  </p>
-</blockquote>
+> ومن وصية له (عليه السلام)
 
-<blockquote dir="rtl">
-  <p>
-بما يُعمل في أمواله، كتبها بعد منصرفه من صفين
-  </p>
-</blockquote>
+> بما يُعمل في أمواله، كتبها بعد منصرفه من صفين
 
 This is what \`Ali ibn Abi Talib, the slave of Allah has laid down about
 his property, in pursuance of seeking Allah's pleasure so that He may by
@@ -28,11 +20,7 @@ virtue of it give him entry into Paradise and accord him peace.
 A part of the same
 ------------------
 
-<blockquote dir="rtl">
-  <p>
-منها:
-  </p>
-</blockquote>
+> منها:
 
 It will be administered by Hasan ibn \`Ali. He will take from it a
 suitable portion for his livelihood and spend it on charity. If
@@ -44,18 +32,14 @@ two sons of Fatimah in order to seek the pleasure of Allah and nearness
 to the Messenger of Allah (may Allah bless him and his descendants) with
 due regard for his honour and consideration of his kinship.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهُ يَقُومُ بِذلِكَ الْحَسنُ بْنُ علِيّ، يأْكُلُ مِنْهُ
-بِالْمعْروفِ، وَيُنْفِقُ مِنْهُ فِي المَعْروفِ، فَإِنْ حَدَثَ بِحَسَن
-حَدَثٌ وَحُسَيْنٌ حَيٌّ، قَامَ بِالاْمْرِ بَعْدَهُ، وَأَصْدَرَهُ
-مَصْدَرَهُ. وَإِنَّ لاِبْنَيْ فَاطِمَةَ مِنْ صَدَقةِ عَلِيّ مِثْلَ
-الَّذِي لِبَنِي عَلِيّ، وَإِنِّي إِنَّمَا جَعَلْتُ الْقِيَامَ بِذلِكَ
-إِلَى ابْنَيْ فَاطِمَةَ ابْتِغَاءَ وَجْهِ اللهِ، وَقُرْبَةً إِلَى
-رَسُولِ اللهِ (صلى الله عليه وآله)، وَتَكْرِيماً لِحُرْمَتِهِ،
-وَتَشْرِيفاً لِوُصْلَتِهِ
-  </p>
-</blockquote>
+> فَإِنَّهُ يَقُومُ بِذلِكَ الْحَسنُ بْنُ علِيّ، يأْكُلُ مِنْهُ
+> بِالْمعْروفِ، وَيُنْفِقُ مِنْهُ فِي المَعْروفِ، فَإِنْ حَدَثَ بِحَسَن
+> حَدَثٌ وَحُسَيْنٌ حَيٌّ، قَامَ بِالاْمْرِ بَعْدَهُ، وَأَصْدَرَهُ
+> مَصْدَرَهُ. وَإِنَّ لاِبْنَيْ فَاطِمَةَ مِنْ صَدَقةِ عَلِيّ مِثْلَ
+> الَّذِي لِبَنِي عَلِيّ، وَإِنِّي إِنَّمَا جَعَلْتُ الْقِيَامَ بِذلِكَ
+> إِلَى ابْنَيْ فَاطِمَةَ ابْتِغَاءَ وَجْهِ اللهِ، وَقُرْبَةً إِلَى
+> رَسُولِ اللهِ (صلى الله عليه وآله)، وَتَكْرِيماً لِحُرْمَتِهِ،
+> وَتَشْرِيفاً لِوُصْلَتِهِ
 
 It is obligatory on him who administers it that he retains the estate as
 it is, and spends the usufruct as he has been ordered and instructed. He
@@ -66,18 +50,14 @@ pregnant, she will be retained for the sake of the child and will form
 part of his share. If the child dies and she survives, then she is free,
 bondage is removed from her and liberty is given to her.[^1]
 
-<blockquote dir="rtl">
-  <p>
-وَيَشْتَرِطُ عَلَى الَّذِي يَجْعَلُهُ إِلَيْهِ أَنْ يَتْرُكَ الْمَالَ
-عَلَى أُصُولِهِ، وَيُنْقفِقَ مِنْ ثَمَرِهِ حَيْثُ أُمِرَ بِهِ وَهُدِيَ
-لَهُ،أَلاَّ يَبِيعَ مِنْ أَوْلاَدِ نَخِيلَ هذِهِ الْقُرَى وَدِيَّةً
-حَتَّى تُشْكِلَ أَرْضُهَا غِرَاساً. وَمَنْ كَانَ مِنْ إِمَائِي ـ
-اللاَّتِي أَطُوفُ عَلَيْهِنَّ ـ لَهَا وَلَدٌ، أَوْهِيَ حَامِلٌ،
-فَتُمْسَكُ عَلَى وَلَدِهَا وَهِيَ مِنْ حَظِّهِ، فَإِنْ مَاتَ وَلَدُهَا
-وَهِيَ حَيَّةٌ فَهِيَ عَتِيقَةٌ، قَدْ أَفْرَجَ عَنْهَا الرِّقُّ،
-وَحَرَّرَهَا الْعِتْقُ.
-  </p>
-</blockquote>
+> وَيَشْتَرِطُ عَلَى الَّذِي يَجْعَلُهُ إِلَيْهِ أَنْ يَتْرُكَ الْمَالَ
+> عَلَى أُصُولِهِ، وَيُنْقفِقَ مِنْ ثَمَرِهِ حَيْثُ أُمِرَ بِهِ وَهُدِيَ
+> لَهُ،أَلاَّ يَبِيعَ مِنْ أَوْلاَدِ نَخِيلَ هذِهِ الْقُرَى وَدِيَّةً
+> حَتَّى تُشْكِلَ أَرْضُهَا غِرَاساً. وَمَنْ كَانَ مِنْ إِمَائِي ـ
+> اللاَّتِي أَطُوفُ عَلَيْهِنَّ ـ لَهَا وَلَدٌ، أَوْهِيَ حَامِلٌ،
+> فَتُمْسَكُ عَلَى وَلَدِهَا وَهِيَ مِنْ حَظِّهِ، فَإِنْ مَاتَ وَلَدُهَا
+> وَهِيَ حَيَّةٌ فَهِيَ عَتِيقَةٌ، قَدْ أَفْرَجَ عَنْهَا الرِّقُّ،
+> وَحَرَّرَهَا الْعِتْقُ.
 
 As-Sayyid ar-Radi says: In this will in Amir al-mu' minin's phrase "alla
 yabi\`a min nakhliha wadiyyatan", the word "wadiyyah" means seedling of
@@ -86,15 +66,11 @@ arduha ghirasan",is one of the most eloquent form of expression and it
 means that when a number of date plants grow on the land then he who had
 seen it before the growth would regard it as a different land.
 
-<blockquote dir="rtl">
-  <p>
-قال الشريف: قوله (عليه السلام) في هذه الوصية: "وألا يبيع من نخلها
-وَدِيَّةً"، الوَدِيَّةُ: الفَسِيلَةُ، وجمعها وَدِيٌّ. وَقوله (عليه
-السلام): "حتى تشكل أرضها غراساً" هو من أفصح الكلام، والمراد به: أن
-الارض يكثر فيها غراس النخل حتّى يراها الناظر على غير تلك الصفة التي
-عرفها بها فيشكل عليه أمرها ويحسبها غيرها.
-  </p>
-</blockquote>
+> قال الشريف: قوله (عليه السلام) في هذه الوصية: "وألا يبيع من نخلها
+> وَدِيَّةً"، الوَدِيَّةُ: الفَسِيلَةُ، وجمعها وَدِيٌّ. وَقوله (عليه
+> السلام): "حتى تشكل أرضها غراساً" هو من أفصح الكلام، والمراد به: أن
+> الارض يكثر فيها غراس النخل حتّى يراها الناظر على غير تلك الصفة التي
+> عرفها بها فيشكل عليه أمرها ويحسبها غيرها.
 
 [^1]: The life of Amir al-mu'minin was that of a labourer or a
 cultivator. He worked in fields of other persons, cultivated barren and
@@ -114,5 +90,4 @@ barren and uncultivable lands. Thereafter, he gave up rights over them
 and declared them as trusts for the Muslims. When he left the world,
 nothing was owned by him. (Sharh Nahjul Balaghah al-balaghah,vol.15,
 p.146)
-
 

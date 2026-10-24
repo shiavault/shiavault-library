@@ -57,4 +57,3 @@ it. Although rationalist discussion is discountenanced (MC, 54,112,
 113), nothing like this is to be found either in Wensinck or BHA. For a
 fuller discussion see Tawhid, 370-376.
 
-

@@ -1,10 +1,6 @@
 His Affecting Shiism
 ====================
 
-  
-
-  
-
 His affecting Shiism
 --------------------
 
@@ -18,18 +14,11 @@ the Shi'ite creed; this has been mentioned in the following tradition:
 Sufyān b. Nazār narrated, saying: [On day I was with al-Ma'mūn and he
 asked his companions:]
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1509) Subh al-A'shā, vol. 2, p. 420.  
  [[2]](#_F1510) Al-Tuhaf wa al-Hadāyā, p. 105.  
  [[3]](#_F1511) Ibid.  
-  
-
-  
-
-  
 
 "Did you know him who taught me Shiism?"
 
@@ -72,10 +61,6 @@ dismounted, and al-Rashid rose for him, received him, accompanied him to
 the end of the carpet, kissed his face and his eyes, took him by the
 hand, accompanied him to the beginning of the assembly, sat with him,
 talked with him, asked  
-
-  
-
-  
 
 him about his conditions, and then he asked him:
 
@@ -122,12 +107,6 @@ on behalf of the debtors, to settle (the debts) on behalf of the over
 burdened, to clothe the naked, and to treat the worried with kindness,
 for you are appropriate for doing that."
 
-  
-
-  
-
-  
-
 "I will do that, Abū al-Hasan," promised Hārūn.
 
 Then the Imām, peace be on him, rose and Hārūn al-Rashid rose for him,
@@ -171,10 +150,6 @@ and our gifts will come to you in the near future.'"
 Al-Ma'mūn stood up and said to his father: "You give five thousand
 dinars or less than it to the children of the *Muhājireen*  
 
-  
-
-  
-
 (migrants), of the *Ansār* (supporters), and those whose ancestry you do
 not know; however you give two hundred dinars to Mūsā b. Ja'far, whom
 you honored and magnified. This is the least gift you have given to any
@@ -213,10 +188,6 @@ and what he ordered to be given to you. I tricked him for you, and I
 took from him three gifts amounting thirty thousand dinars, and a land
 producing ten thousand dinars a year. By Allah, master, I am in no need
 of any of that. I did  
-
-  
-
-  
 
 not take it but for you; I bear witness that this productive land
 belongs to you; and I have brought you the money."
@@ -260,16 +231,9 @@ Ma'mūn returned Fadak to the Hashimites.
 Many researches have regarded this step as a proof of that al-Ma'mūn was
 a Shi'ite.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1512) 'Uyūn Akhbār al-Ridā, vol. 1, pp. 88-93.  
-  
-
-  
-
-  
 
 ### His Praising Imām 'Ali, the Commander of the Faithful
 
@@ -325,17 +289,10 @@ unbelievers to 'Ali?
 
 jinn) in right except the right of the Prophet.[[2]](#_ftn1514)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1513) Tadhkirat al-Khawās, p. 366.  
  [[2]](#_F1514) Al-Bayqahi, al-Mahāsin wa al-Masāwi', vol. 1, p. 105.  
-  
-
-  
-
-  
 
 The following lines are another example of his poetry which he composed
 regarding the *ahl al-Bayt*, peace be on them:
@@ -399,11 +356,6 @@ Allah b. al-'Abbās as a ruler over Yemen; however
 
 [[1]](#_F1515) Tadhkirat al-Khawās, p. 367.  
  [[2]](#_F1516) Ibid., 366.  
-  
-
-  
-
-  
 
 the 'Abbāsid family renounced this favor and treated the children of the
 Imām  with murder and severe punishment and committed toward them crimes
@@ -455,11 +407,6 @@ it." replied al-Ma'mūn.
 ------------------------------------------------------------------------
 
 [[1]](#_F1517) Al-Mas'ūdi, Murūjj al-Dhahab, vol. 3, p. 329.  
-  
-
-  
-
-  
 
 sounder than your sound eye. Had it not been for that I increase your
 hypocrisy before the general populace *('āmma)*, I would punish you."
@@ -498,17 +445,10 @@ showed his skill and abundant knowledge of theological researches. We
 will mention the full text of this marvelous debate because it is of
 great importance; it is as follows:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1518) Tadhkirat al-Khawās, p. 367.  
  [[2]](#_F1519) Al-Mas'ūdi, Murūjj al-Dhahab, vol. 3, p. 361.  
-  
-
-  
-
-  
 
 #### Al-Ma'mūn
 
@@ -546,12 +486,6 @@ Al-Ma'mūn undertook the matter and guided them to the way to debates,
 saying: "Give (me your proofs) and entrust one of you with your speech.
 When he speaks and one of you has an addition, then let him add it to
 his speech; if he brings a shortcoming, then show him rightness."
-
-  
-
-  
-
-  
 
 #### The First Proof
 
@@ -591,12 +525,6 @@ other in all sides, (namely) they are one in number, quality, form, and
 body;  it is impossible that two (persons) are equal in meaning in all
 sides.
 
-  
-
-  
-
-  
-
 "If they are different, then how is it permissible to follow them? This
 is an order (to perform) that which is unbearable, for if you follow one
 (of them), you will oppose the other; the evidence for that they are
@@ -633,12 +561,6 @@ and void."
 
 Al-Ma'mūn's discussion about the tradition is objective; there is no
 partiality therein; rather it was based on a decisive proof.
-
-  
-
-  
-
-  
 
 #### The Third Proof
 
@@ -679,12 +601,6 @@ family, appointed him (Abū Bakr) as a caliph, then why did he resign and
 say to the Ansār: 'I have chosen for you these two men: Abū 'Ubayda and
 'Umar'?"
 
-  
-
-  
-
-  
-
 #### The Fifth Proof
 
 Another traditionalist said: "'Amrū b. al-'Āss asked: 'O Prophet of
@@ -724,10 +640,6 @@ truthful, then how did he come to know that? Through a revelation
 (whereas) the revelation has ceased? Or through conjecture (while) the
 conjecturer is  
 
-  
-
-  
-
 perplexed? Or through thinking (whereas) thinking *(nazar)* is a
 research? And if he was untruthful, then it is impossible for a liar to
 undertake the authority and precepts of the Muslims and to administer
@@ -763,16 +675,9 @@ Another traditionalist said: "The Prophet said: 'If I had not been
 appointed (as a prophet) among you, then 'Umar would have been
 appointed.'"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1520) Qur'ān, 56, 35-37.  
-  
-
-  
-
-  
 
 #### Al-Ma'mūn's Answer
 
@@ -811,17 +716,10 @@ this reason you have said: 'Abū Bakr's retainer is better than the
 Messenger, may Allah bless him and his family, for the early is better
 than the late.'"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1521) Ibid., 4, 163.  
  [[2]](#_F1522) Ibid., 33, 7.  
-  
-
-  
-
-  
 
 #### The Tenth Proof
 
@@ -863,11 +761,6 @@ was placed in the other scale, and I outweighed it; then
 ------------------------------------------------------------------------
 
 [[1]](#_F1523) Ibid., 8, 33.  
-  
-
-  
-
-  
 
 Abū Bakr was put in my place, and he outweighed it; then 'Umar (was put
 in his place), and he outweighed it; then the balance was raised.'"
@@ -908,10 +801,6 @@ it has been mentioned concerning the ten (persons) for whom they have
 borne witness that they will enter the Garden. If they ('Ali's
 outstanding merits) were part of numerous  
  parts, then you are right; if they (your Imāms) have narrated  
-
-  
-
-  
 
 concerning 'Ali's excellences more (than they have narrated concerning
 the excellences of the ten persons), then take what your Imāms have
@@ -957,11 +846,6 @@ this opposes the words through which Allah has
 ------------------------------------------------------------------------
 
 [[1]](#_F1524) Ibid., 56, 10-11.  
-  
-
-  
-
-  
 
 described His Prophet, saying: *Say: I do not ask you for any reward for
 it; nor am I of those who affect* [[1]](#_ftn1525), and through these
@@ -1006,11 +890,6 @@ killed forty."
 
 [[1]](#_F1525) Ibid., 38, 86.  
  [[2]](#_F1526) Ibid., 53, 3-4.  
-  
-
-  
-
-  
 
 may Allah bless him and his family, in his canopy," a traditionalist
 replied.
@@ -1051,16 +930,9 @@ have been revealed?"
 for Allah's sake; we desire from you neither reward nor thanks*,' when
 he had given food to the poor, the orphan, and the captive?"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1527) Ibid., 4, 95.  
-  
-
-  
-
-  
 
 "No," replied the traditionalist, "surely Allah, the Most High, had
 known 'Ali's inner self and intention, so He has manifested that in His
@@ -1104,16 +976,9 @@ do you regard him as an unbeliever?" asked al-Ma'mūn.
 "If one says: 'I do not know whether this sura (belongs) to the Qur'ān
 or not,' do you regard him as an unbeliever?" asked al-Ma'mūn.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1528) Ibid., 14, 17.  
-  
-
-  
-
-  
 
 "Yes," came the answer.
 
@@ -1163,11 +1028,6 @@ companion has pure legs and body.
 
 [[1]](#_F1529) Ibid., 9, 40.  
  [[2]](#_F1530) Ibid., 18, 37.  
-  
-
-  
-
-  
 
 these words of Him: *surely Allah is with us*, Allah is with the pious
 and the sinful. Have you not heard these words of Him, the Most High:
@@ -1208,11 +1068,6 @@ mule of Allah's Apostle, may Allah bless him and
 
 [[1]](#_F1531) Ibid., 58, 7.  
  [[2]](#_F1532) Ibid., 9, 25-26.  
-  
-
-  
-
-  
 
 his family, and five persons were surrounding the Prophet, may Allah
 bless him and his family, lest he should be wounded by the weapon of the
@@ -1250,12 +1105,6 @@ bless him and his family. Therefore, 'Ali was still the most excellent
 due to his (brave) attitudes; he increased himself nothing except good
 until Allah, the Exalted, took him to Himself while he was praiseworthy
 and forgiven."
-
-  
-
-  
-
-  
 
 "O Ishāq, do you not narrate the tradition of authority *(hadith
 al-wilāya)*?" asked al-Ma'mūn.
@@ -1310,10 +1159,6 @@ father and mother?" asked al-Ma'mūn.
 
 "Hārūn was a prophet," retorted al-Ma'mūn, "but 'Ali was not a  
 
-  
-
-  
-
 prophet, so the third position is nothing except the succession
 *(khilāfa)*. The hypocrites said: 'He (the Prophet) was displeased with
 him ('Ali); he appointed him as a successor in order to soothe him.'
@@ -1357,11 +1202,6 @@ said in his supplication:
 
 [[1]](#_F1533) Ibid., 7, 142.  
  [[2]](#_F1534) Ibid., 20, 29-32.  
-  
-
-  
-
-  
 
 he was his aider just as Hārūn was the aider of Mūsā and was his
 successor just as Hārūn was the successor of Mūsā."
@@ -1408,10 +1248,6 @@ Most High, from sending him.
 elect a man from among them, then either he would have ordered them all
 or some of them. If he had ordered them all, who  
 
-  
-
-  
-
 would have been the elected one? And if he had ordered some of them,
 then there would have been a sign for this meaning.If you say that (the
 sign) is the jurists, then there is no escape from specifying the jurist
@@ -1451,10 +1287,6 @@ support of what you claim."
 
 "I do not claim that," explained al-Ma'mūn, "but I acknowledge that; the
 claimer is he who claims that appointment, deposition, and  
-
-  
-
-  
 
 choice belong to him. As for evidence, it is entrusted to his partners,
 for they are opponents, or it must be produced by other than them, and
@@ -1500,11 +1332,6 @@ Prophet, may Allah bless him and his family was; he
 [[1]](#_F1535) Ibid., 2, 124.  
  [[2]](#_F1536) Ibid., 38, 26.  
  [[3]](#_F1537) Ibid., 2, 30.  
-  
-
-  
-
-  
 
 renounced the error of his people and refrained from polytheism just as
 the Prophet, may Allah bless him and his family, did, for polytheism is
@@ -1544,11 +1371,6 @@ them) just as Allah, the Most High, has said concerning the
 ------------------------------------------------------------------------
 
 [[1]](#_F1538) Ibid., 4, 65.  
-  
-
-  
-
-  
 
 first (attitude): *So turn away with kindly
 forgiveness*.[[1]](#_ftn1539) Then He, the Great and Almighty, said:
@@ -1592,11 +1414,6 @@ impossible, for Allah, the Exalted does not impose
 
 [[1]](#_F1539) Ibid., 15, 85.  
  [[2]](#_F1540) Ibid., 9, 5.  
-  
-
-  
-
-  
 
 (something) unknown, and the imposed is not impossible; therefore, there
 is no escape from that the Messenger, may Allah bless him and his
@@ -1636,10 +1453,6 @@ let him occupy his place in the Fire.'?"
 "Yes, O Commander of the faithful," they replied.
 
 Then al-Ma'mūn presented another Prophetic tradition before  
-
-  
-
-  
 
 them, saying: "Any they have narrated on his authority that he said: 'He
 who disobeys Allah through an act of disobedience, whether small or
@@ -1685,10 +1498,6 @@ avoid error?"
 
 Then al-Ma'mūn established wonderful argument and proof  
 
-  
-
-  
-
 against their false statement, saying: "Why did the people appoint (Abū
 Bakr) as a successor after him (i.e. the Prophet, may Allah bless him
 and his family) while he left it (i.e. the succession)? So leaving his
@@ -1727,16 +1536,9 @@ tell me about these words of Him, the Great and Almighty: *Say: To whom
 belongs what is in the heavens and the earth*?[[1]](#_ftn1541) Is this
 true or false?"
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1541) Ibid., 6, 12.  
-  
-
-  
-
-  
 
 "Yes, it is true," they replied.
 
@@ -1782,11 +1584,6 @@ to
 
 [[1]](#_F1542) 'Uyūn Akhbār al-Ridā, vol. 2, pp. 184-199. Bihār
 al-Anwār.  
-  
-
-  
-
-  
 
 the office and rank of the Prophet. As for his relationship to the
 Prophet, it does not make him  preferable to the rest of the Muslims,
@@ -1832,11 +1629,6 @@ be on them. This family begot none except tyrannical
 ------------------------------------------------------------------------
 
 [[1]](#_F1543) 'Uyūn Akhbār al-Ridā, vol. 2, p. 185.  
-  
-
-  
-
-  
 
 persons who wreaked their wrath upon the family and the children of the
 Prophet, may Allah bless him and his family. They killed them, made them
@@ -1884,17 +1676,10 @@ Yet I shall curse neither al-Zubayr nor Talha when a sayer
 
 treacherously says.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1544) Hayāt  al-Imām  al-Ridā, quoted from 'As al-Ma'mūn, vol.
 1, p. 369.  
-  
-
-  
-
-  
 
 And I shall not curse 'Ā'isha, the mother; we shall disown
 
@@ -1933,17 +1718,10 @@ Allah, if I was thrown into a flaming fire while I was alive, it would
 be more lovable to me than undertaking an authority over the Muslims or
 drinking unlawful drink during intense, deadly thirst.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1545) Al-Bidāya wa al-Nihāya, vol. 10, p. 277.  
  [[2]](#_F1546) Al-Kindi, al-Wilāt wa al-Qudāt.  
-  
-
-  
-
-  
 
 "Or (do you think that I crave after) the poisoned grapes through which
 you had killed al-Ridā? Or do you think that hiding has tired me, and my
@@ -1982,16 +1760,9 @@ just as the Muslims have done; you have decided for the polytheist
 through Islam, disobeyed Allah and His Messenger just as the stubborn
 opponent has done.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F1547) Qur'ān, 9, 123.  
-  
-
-  
-
-  
 
 "As a result if the time makes me happy and Allah helps me against you
 through the supporters of the truth, I will sacrifice my own soul for
@@ -2032,12 +1803,6 @@ horse.
 to know that Allah's Book contains all things; I have read it and found
 in it: *O you who believe, fight those of the unbelievers who are near
 to you and let them find in you hardness*."
-
-  
-
-  
-
-  
 
 Yet another paragraph of this letter is the following: "I had reflected
 (on you) and suddenly (found) that you were the most harmful enemy to
@@ -2083,11 +1848,6 @@ Surely his assassinating the 'Alawides and pursuing them, to the
 [[1]](#_F1548) Maqātil al-Tālibiyyin, pp. 630-631.  
  [[2]](#_F1549) Hayāt al-Imām Mūsā b. Ja'far, vol. 2, p. 48, quoted from
 Mukhtasar Akhbār al-Khulafā'.  
-  
-
-  
-
-  
 
 extent that they escaped out of fear of him and hid themselves in the
 countries and the cities, disproves his summons to Shiism and indicates
@@ -2129,10 +1889,6 @@ brother, al-Amin.
 D. He pretended Shiism and entrusted the office to Imām al-Ridā, peace
 be on him, in order to suppress the violent, Shi'ite revolt headed by
 the great Sayyids from among the children of Imām Mūsā  
-
-  
-
-  
 
 b. Ja'far, peace be on him. It is worth mentioning that this revolt
 extended to most regions of Islamic world and was about to put an end to
@@ -2180,5 +1936,4 @@ just as they were of Mu'āwiya's.
 
 [[1]](#_F1550) Hayāt  al-Imām  al-Ridā, p. 181, quoted from al-Mahāsin
 wa al-Masāwi' by al-Bayqahi,  p. 295.  
-  
 

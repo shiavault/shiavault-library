@@ -428,4 +428,3 @@ which live apd die within the frarpework of a theory or a thought. Islam
 tries, in fact, to turn them into the scientific basis on which all
 aspects of life, activity and conduct may be founded.
 
-

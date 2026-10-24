@@ -542,4 +542,3 @@ He said good-bye and left; his mind made up that he would either get her
 or ruin her life by tarnishing her reputation so that no one would marry
 her.
 
-

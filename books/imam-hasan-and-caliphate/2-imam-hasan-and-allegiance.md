@@ -427,4 +427,3 @@ Hasan', Beirut p. 174; Tabari - 'Tarikh al Tabari', vol 3, p. 167.
 Shia Islam', (Persiantranslation) Dr. Ayet Ilahi, Tashay'o dar Tarikh,
 Tehran, Islamic Cultural Publishing Centre, 1993, pp. 158-161.
 
-

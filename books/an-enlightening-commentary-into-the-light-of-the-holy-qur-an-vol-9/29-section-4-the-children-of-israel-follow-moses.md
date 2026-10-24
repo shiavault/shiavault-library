@@ -4,26 +4,14 @@ Section 4: The Children of Israel Follow Moses
 Surah Ta Ha – Verses 77 - 79
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَوْحَيْنَآ إِلَي مُوسَي أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ
-لَهُمْ طَرِيقاً فِي الْبَحْرِ يَبَساً لاَّ تَخَافُ دَرَكاً وَلاَ
-تَخْشَي
-  </p>
-</blockquote>
+> وَلَقَدْ أَوْحَيْنَآ إِلَي مُوسَي أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ
+> لَهُمْ طَرِيقاً فِي الْبَحْرِ يَبَساً لاَّ تَخَافُ دَرَكاً وَلاَ
+> تَخْشَي
 
-<blockquote dir="rtl">
-  <p>
-فَاَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِ فَغَشِيَهُم مِنَ الْيَمّ‌ِ مَا
-غَشِيَهُمْ
-  </p>
-</blockquote>
+> فَاَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِ فَغَشِيَهُم مِنَ الْيَمّ‌ِ مَا
+> غَشِيَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-وَأَضَلَّ فِرْعَوْنُ قَوْمَهُ وَمَا هَدَي
-  </p>
-</blockquote>
+> وَأَضَلَّ فِرْعَوْنُ قَوْمَهُ وَمَا هَدَي
 
 ***77. “And We indeed revealed unto Moses (saying:): ‘Take away My
 servants by night, and strike for them a dry path in the sea, with no
@@ -100,13 +88,9 @@ the Children of Israel.
 Surah Ta Ha – Verse 80
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا بَنِي إِسْرَآئِيلَ قَدْ أَنجَيْنَاكُم مِنْ عَدُوِّكُمْ
-وَوَاعَدْناكُمْ جَانِبَ الطُّورِ الاَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ
-الْمَنَّ وَالسَّلْوَي
-  </p>
-</blockquote>
+> يَا بَنِي إِسْرَآئِيلَ قَدْ أَنجَيْنَاكُم مِنْ عَدُوِّكُمْ
+> وَوَاعَدْناكُمْ جَانِبَ الطُّورِ الاَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ
+> الْمَنَّ وَالسَّلْوَي
 
 ***80. “O Children of Israel! We delivered you from your enemy, and We
 made a covenant with you on the right side of Tur (the Mount Sinai), and
@@ -176,13 +160,9 @@ which refers to the food of the body.
 Surah Ta Ha – Verse 81
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-كُلُوا مِن طَيّـِبَاتِ مَا رَزَقْنَاكُمْ وَلاَ تَطْغَوْا فِيهِ
-فَيَحِلَّ عَلَيْكُمْ غَضَبِي وَمَن يَحْلِلْ عَلَيْهِ غَضَبِي فَقَدْ
-هَوَي
-  </p>
-</blockquote>
+> كُلُوا مِن طَيّـِبَاتِ مَا رَزَقْنَاكُمْ وَلاَ تَطْغَوْا فِيهِ
+> فَيَحِلَّ عَلَيْكُمْ غَضَبِي وَمَن يَحْلِلْ عَلَيْهِ غَضَبِي فَقَدْ
+> هَوَي
 
 ***81. “Eat of the good things We have provided for your sustenance, but
 commit no excess therein, lest My Wrath should descend on you, and on
@@ -215,12 +195,8 @@ such as political failure, economical bankruptcy, and the like of them.
 Surah Ta Ha – Verse 82
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-وإِنّـِي لَغَفَّارٌ لِمَن تَابَ وءَامَنَ وَعَمِلَ صَالِحاً ثُمَّ
-اهْتَدَي
-  </p>
-</blockquote>
+> وإِنّـِي لَغَفَّارٌ لِمَن تَابَ وءَامَنَ وَعَمِلَ صَالِحاً ثُمَّ
+> اهْتَدَي
 
 ***82. “And verily I am the most forgiving to him who repents and
 believes and does righteous deed, and at last is guided.”***
@@ -309,24 +285,12 @@ remaining in Faith is more important.
 Surah Ta Ha – Verses 83 - 85
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَي
-  </p>
-</blockquote>
+> وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ هُمْ اُوْلآءِ عَلَي أَثَرِي وَعَجِلْتُ إِلَيْكَ رَبّ‌ِ لِتَرْضَي
-  </p>
-</blockquote>
+> قَالَ هُمْ اُوْلآءِ عَلَي أَثَرِي وَعَجِلْتُ إِلَيْكَ رَبّ‌ِ لِتَرْضَي
 
-<blockquote dir="rtl">
-  <p>
-قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ
-السَّامِرِيُّ
-  </p>
-</blockquote>
+> قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ
+> السَّامِرِيُّ
 
 ***83. “And (Allah said): ‘What caused you to hasten from your people,
 O’ Moses?’”***  
@@ -394,14 +358,10 @@ leader in the society.
 Surah Ta Ha – Verse 86
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-فَرَجَعَ مُوسَي إِلَي قَوْمِهِ غَضْبَانَ أَسِفاً قَالَ يَاقَوْمِ
-أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْداً حَسَناً أَفَطَالَ عَلَيْكُمُ
-الْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِن
-رَّبّـِكُمْ فَاَخْلَفْتُم مَّوْعِدِي
-  </p>
-</blockquote>
+> فَرَجَعَ مُوسَي إِلَي قَوْمِهِ غَضْبَانَ أَسِفاً قَالَ يَاقَوْمِ
+> أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْداً حَسَناً أَفَطَالَ عَلَيْكُمُ
+> الْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِن
+> رَّبّـِكُمْ فَاَخْلَفْتُم مَّوْعِدِي
 
 ***86. “Then Moses returned to his people angry and sad, saying: ‘O my
 people! did not your Lord promise you a fair promise (the descent of the
@@ -468,13 +428,9 @@ of Israel is hidden.
 Surah Ta Ha – Verse 87
 ----------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالُوا مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَكِنَّا حُمّـِلْنَآ
-أَوْزَاراً مِن زِينَةِ الْقَوْمِ فَقَذَفْنَاهَا فَكَذَلِكَ اَلْقَي
-السَّامِرِيُّ
-  </p>
-</blockquote>
+> قَالُوا مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَكِنَّا حُمّـِلْنَآ
+> أَوْزَاراً مِن زِينَةِ الْقَوْمِ فَقَذَفْنَاهَا فَكَذَلِكَ اَلْقَي
+> السَّامِرِيُّ
 
 ***87. “They said: ‘We did not fail in our tryst with you of our own
 accord, but we were laden with burdens of ornaments of the people, then
@@ -503,19 +459,11 @@ cast them (in the fire), and thus did the Samiri suggest’.”***
 Surah Ta Ha – Verses 88 - 89
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاَخْرَجَ لَهُمْ عِجْلاً جَسَداً لَّهُ خُوَارٌ فَقَالُوا هَذَا
-إِلَهُكُمْ وَإِلَهُ مُوسَي فَنَسِيَ
-  </p>
-</blockquote>
+> فَاَخْرَجَ لَهُمْ عِجْلاً جَسَداً لَّهُ خُوَارٌ فَقَالُوا هَذَا
+> إِلَهُكُمْ وَإِلَهُ مُوسَي فَنَسِيَ
 
-<blockquote dir="rtl">
-  <p>
-أَفَلاَ يَرَوْنَ أَلاَّ يَرْجِعُ إِلَيْهِمْ قَوْلاً وَلاَ يَمْلِكُ
-لَهُمْ ضَرّاً وَلاَ نَفْعاً
-  </p>
-</blockquote>
+> أَفَلاَ يَرَوْنَ أَلاَّ يَرْجِعُ إِلَيْهِمْ قَوْلاً وَلاَ يَمْلِكُ
+> لَهُمْ ضَرّاً وَلاَ نَفْعاً
 
 ***88. “Then he (Samiri) produced for them a (mere) body of a Calf that
 lowed. So they said: ‘This is your god and the god of Moses’, but he
@@ -559,5 +507,4 @@ be able to attract profit for him and to repel harms from him.
 [^3]: Majma‘-ul-Bayan, the Commentary
 
 [^4]: As-Safi, the Commentary, the explanation about the verse
-
 

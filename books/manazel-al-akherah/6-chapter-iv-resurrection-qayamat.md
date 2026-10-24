@@ -203,10 +203,8 @@ grave of his pother believer and after reciting Surah-al-Qadr recites
 the following du'a, both the dead person as well as the person reciting
 it will be safe from the fear of Qavamat.
 
-<p dir="rtl">
 اللهم جاف الارض عن جنوبهم وصاعد اليك ارواحهم وزدهم منك رضواناً واسكن
 اليهم من رحمتك ما تصل به وحدتهم وتؤنس وحشتهم انك على كل شيء قدير
-</p>
 
 **The Trumpet of Israfeel (Soore Israfeel)**
 

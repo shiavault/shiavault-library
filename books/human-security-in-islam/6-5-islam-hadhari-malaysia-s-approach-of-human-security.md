@@ -68,4 +68,3 @@ means to build a civilization. A wholesome way of life will create the
 balance between a person’s responsibilities in this world and in the
 Hereafter.
 
-

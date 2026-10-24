@@ -84,11 +84,7 @@ of] foolishness.
 and boasting without [possessing] any nobility.
 
 > 19ـ مِنْ دَلائِلِ الْحُمْقِ دالَّةٌ بِغَيْرِ آلَة، وصَلَفٌ بِغَيْرِ
-<blockquote dir="rtl">
-  <p>
-شَرَف.
-  </p>
-</blockquote>
+> شَرَف.
 
 20. With foolishness, what is sought is not achieved.
 
@@ -105,5 +101,4 @@ and boasting without [possessing] any nobility.
 24. Foolishness is wretchedness.
 
 > 23ـ اَلْحُمْقُ شَقاءٌ.
-
 

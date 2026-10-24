@@ -43,12 +43,8 @@ wrap itself and every hardship would become easy for him. His companions
 numbering same as the fighters of Badr would gather around him from far
 off places of the earth. And that is the meaning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-أَيْنَ مَا تَكُونُواْ يَ أْتِ بِكُمُ اللّهُ جَمِيعًا إِنَّ اللّهَ
-عَلَى كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> أَيْنَ مَا تَكُونُواْ يَ أْتِ بِكُمُ اللّهُ جَمِيعًا إِنَّ اللّهَ
+> عَلَى كُلِّ شَيْءٍ قَدِيرٌ
 
 ***“Wherever you are, Allah will bring you all together; surely Allah
 has power over all things.”***[^1]
@@ -81,5 +77,4 @@ deny him and will ridicule his remembrance (zikr). Those who will hasten
 will be destroyed and those who submit will be successful.”
 
 [^1]: Surah Baqarah 2:148
-
 

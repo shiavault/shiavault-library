@@ -774,4 +774,3 @@ and willed, is not a monotheist."
 - Mustadrak al-Wasa'il, v18, p182, Hadith \#22449/30
 - Bihar al-Anwar, v4, p145, Hadith \#18
 
-

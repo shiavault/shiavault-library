@@ -25,4 +25,3 @@ their homage to Imam Ali (a), when she gathered a group of hypocrites,
 mounted a camel, and set out with Talha and az-Zubeir to fight Imam Ali.
 Indeed, they fought him and were unjust to him.
 
-

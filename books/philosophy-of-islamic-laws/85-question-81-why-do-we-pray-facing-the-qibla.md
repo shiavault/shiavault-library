@@ -45,9 +45,7 @@ of Muslims in prayer he would see that all their rows are in form of
 circles whose center is one and the same and in the heart of those
 circles is the Ka'ba and it is an indication of the Unity of Muslims.
 
-
 [^1]: Surah Baqarah 2:115
 
 [^2]: Surah Baqarah 2:142
-
 

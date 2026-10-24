@@ -130,4 +130,3 @@ Nahjul-Balagha).
 [^12]: Qiss ibn Sa’ida and Aktham ibn Saifi were the two Arab
 personalities well known of their wisdom.
 
-

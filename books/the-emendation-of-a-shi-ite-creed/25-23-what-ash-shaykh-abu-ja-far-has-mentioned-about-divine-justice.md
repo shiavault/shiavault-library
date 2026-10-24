@@ -70,4 +70,3 @@ commands justice and forbids wrong, and says: Surely,
 
 ***Allah commands justice and the doing of good [16:90].***
 
-

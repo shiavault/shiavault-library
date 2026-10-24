@@ -132,4 +132,3 @@ treated with lenity; those who receive it in the left, with severity;
 and those who receive it behind their backs are the infidels and they
 will go to Hell, ibid., 173 (citing the Ahwalu 'l-Qiyama).
 
-

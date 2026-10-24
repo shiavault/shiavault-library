@@ -166,4 +166,3 @@ of Islamic belief?
 
 4. What can man conclude from these arguments?
 
-

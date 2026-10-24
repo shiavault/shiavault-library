@@ -66,7 +66,6 @@ It is time that Third World thinkers take a critical stand towards the
 legacy of the West, Westerni­zation, and modernization in the Muslim
 world.
 
-
 **Notes:**
 
 [^14]. William Montgomery Watt, Islamic Fundamentalism and Modernity
@@ -86,5 +85,4 @@ Akbar Ahmed, Postmodernism and Islam (London: Routledge Press, 1992).
 [^19]. Ibid., p.102.
 
 [^20]. Ibid., p. 71.
-
 

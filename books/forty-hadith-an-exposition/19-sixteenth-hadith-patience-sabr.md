@@ -1,25 +1,21 @@
 Sixteenth Hadith: Patience (Sabr)
 =================================
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدُ بْنُ يَعْقُوبَ الكُلَيْنِي رَضِيَ اللهُ عَنْهُ عَنْ عِدَّةٍ
-مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ، عَنْ
-أَبِيهِ، عَنْ عَلِيِّ بْنِ النُّعْمَانِ، عَنْ عَبْدِاللهِ بْنِ
-مَسْكَانَ، عَنْ أَبِي بَصِيرٍ قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ
-عَلَيْهِ السَّلامُ يَقُولُ: إنَّ الحُرَّ حُرٌّ عَلَى جَمِيعِ
-أحْوَالِهِ. إنْ نَابَتْهُ نَائِبَةٌ صَبَرَ لَهَا وَإنْ تَدَاكَّتْ
-عَلَيْهِ المَصَائِبُ لَمْ تَكْسِرْهُ وَإنْ أُسِرَ وَقُهِرَ
-وَاسْتُبْدِلَ بِاليُسْرِ عُسْراً كَمَا كَانَ يُوسُفُ الصِّدِّيقُ
-الأمِينُ صَلَوَاتُ اللهِ عَلَيْهِ لَمْ يَضْرُرْ حُرِّيَّتَهُ أَنْ
-اسْتُعْبِدَ وَقُهِرَ وَأُسِرَ وَلَمْ تَضْرُرْهُ ظُلْمَةُ الجُبِّ
-وَوَحْشَتُهُ وَمَا نَالَهُ أَنْ مَنَّ اللهُ عَلَيْهِ فَجَعَلَ
-الجَبَّارَ العَاتِيَ لَهُ عَبْداً بَعْدَ إذْ كَانَ [لَهُ] مَالِكاً.
-فَأَرْسَلَهُ وَرَحِمَ بِهِ أُمَّةً وَكَذَلِكَ الصَّبْرُ يُعَقِّبُ
-خَيْراً.فَاصْبِرُوا وَوَطِّنُوا أَنْفُسَكُمْ عَلى الصَّبْرِ
-تُؤْجَرُوا.
-  </p>
-</blockquote>
+> مُحَمَّدُ بْنُ يَعْقُوبَ الكُلَيْنِي رَضِيَ اللهُ عَنْهُ عَنْ عِدَّةٍ
+> مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ، عَنْ
+> أَبِيهِ، عَنْ عَلِيِّ بْنِ النُّعْمَانِ، عَنْ عَبْدِاللهِ بْنِ
+> مَسْكَانَ، عَنْ أَبِي بَصِيرٍ قَالَ: سَمِعْتُ أَبَا عَبْدِاللهِ
+> عَلَيْهِ السَّلامُ يَقُولُ: إنَّ الحُرَّ حُرٌّ عَلَى جَمِيعِ
+> أحْوَالِهِ. إنْ نَابَتْهُ نَائِبَةٌ صَبَرَ لَهَا وَإنْ تَدَاكَّتْ
+> عَلَيْهِ المَصَائِبُ لَمْ تَكْسِرْهُ وَإنْ أُسِرَ وَقُهِرَ
+> وَاسْتُبْدِلَ بِاليُسْرِ عُسْراً كَمَا كَانَ يُوسُفُ الصِّدِّيقُ
+> الأمِينُ صَلَوَاتُ اللهِ عَلَيْهِ لَمْ يَضْرُرْ حُرِّيَّتَهُ أَنْ
+> اسْتُعْبِدَ وَقُهِرَ وَأُسِرَ وَلَمْ تَضْرُرْهُ ظُلْمَةُ الجُبِّ
+> وَوَحْشَتُهُ وَمَا نَالَهُ أَنْ مَنَّ اللهُ عَلَيْهِ فَجَعَلَ
+> الجَبَّارَ العَاتِيَ لَهُ عَبْداً بَعْدَ إذْ كَانَ [لَهُ] مَالِكاً.
+> فَأَرْسَلَهُ وَرَحِمَ بِهِ أُمَّةً وَكَذَلِكَ الصَّبْرُ يُعَقِّبُ
+> خَيْراً.فَاصْبِرُوا وَوَطِّنُوا أَنْفُسَكُمْ عَلى الصَّبْرِ
+> تُؤْجَرُوا.
 
 Muhammad ibn Ya’qub al-Kulayni (R) from a group of his teachers, from
 Ahmad ibn Muhammad ibn Khalid, from his father, from ‘Ali ibn al-Nu’man,
@@ -146,11 +142,7 @@ sacred Essence and make your heart humble in His presence, that will
 liberate you from both the worlds and emancipate you from the servitude
 of creatures, as it has been said: [^3]
 
-<blockquote dir="rtl">
-  <p>
-العُبُودِيَّةُ جَوْهَرَةٌ كٌنْهُهَا الرُّبُوبِيَّةُ.
-  </p>
-</blockquote>
+> العُبُودِيَّةُ جَوْهَرَةٌ كٌنْهُهَا الرُّبُوبِيَّةُ.
 
 That is, the inner, invaluable essence of servitude to God is freedom
 and lordship. Thus servitude to God, attention to the unique focus of
@@ -172,12 +164,8 @@ ingratiate themselves to creatures.
 Imam ‘Ali ibn al-Husayn (A) is reported to have said in the course of a
 discourse:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي لآنَفُ أنْ أَطْلُبَ الدُّنْيَا مِنْ خَالِقِهَا، فَكَيْفَ مِنْ
-مَخْلُوقٍ مِثْلِي.
-  </p>
-</blockquote>
+> إنِّي لآنَفُ أنْ أَطْلُبَ الدُّنْيَا مِنْ خَالِقِهَا، فَكَيْفَ مِنْ
+> مَخْلُوقٍ مِثْلِي.
 
 I am ashamed to ask anything of worldly things from their Creator, so
 how can I seek them from creatures like myself?[^4]
@@ -195,11 +183,7 @@ desires. Don’t forget your Lord and preserve your freedom. Remove the
 shackles of servitude and captivity and never forget Him under any
 circumstance, for, as stated in the noble tradition:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ الحُرَّ حُرٌّ عَلَى جَمِيعِ أحْوَالِهِ.
-  </p>
-</blockquote>
+> إنَّ الحُرَّ حُرٌّ عَلَى جَمِيعِ أحْوَالِهِ.
 
 The freeman is free in all circumstances.
 
@@ -244,22 +228,14 @@ bound in that world, is the Hereafterly form of this very servitude and
 subjugation to the domination of Passion and Anger. And God Almighty
 declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
-  </p>
-</blockquote>
+> ﴿وَوَجَدُوا مَا عَمِلُوا حَاضِرًا.﴾
 
 ***And they shall find all they wrought present.*** (***18:49***)
 
 And He also says:
 
-<blockquote dir="rtl">
-  <p>
-﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ
-وَعَلَيْهَا مَا اكْتَسَبَتْ.﴾
-  </p>
-</blockquote>
+> ﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ
+> وَعَلَيْهَا مَا اكْتَسَبَتْ.﴾
 
 (***God charges no soul save to its capacity;***) ***standing to its
 account is what it has earned, and against its account what it has
@@ -317,11 +293,7 @@ evil fate, and make his heart understand the passing character of
 worldly life. He must awaken his heart and inform it of the truth
 narrated from the Holy Prophet (S) who said:
 
-<blockquote dir="rtl">
-  <p>
-الدُّنْيَا مَزْرَعَةُ الآخِرَةِ.
-  </p>
-</blockquote>
+> الدُّنْيَا مَزْرَعَةُ الآخِرَةِ.
 
 The world is the farm of the Hereafter.[^5]
 
@@ -357,12 +329,8 @@ such an expanse that it will become the realm of the manifestation of
 God’s total sovereignty, thus becoming greater than all the worlds.
 Hence He has said:
 
-<blockquote dir="rtl">
-  <p>
-لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
-المُؤْمِنُ.
-  </p>
-</blockquote>
+> لا تَسَعُنِي أَرْضِي وَلا سَمَائِي، بَلْ يَسَعُنِي قَلْبُ عَبْدِيَ
+> المُؤْمِنُ.
 
 Neither [the vastness of] My earth, nor [that of] My heaven can contain
 Me.
@@ -375,11 +343,7 @@ will, will become so mighty that it shall not attach itself to the
 corporeal and the celestial realms; rather it will not even consider
 them worthy of itself.
 
-<blockquote dir="rtl">
-  <p>
-طيران مرغ ديدي توزپاي بند شهوت درآي تا ببيني طيران آدميت
-  </p>
-</blockquote>
+> طيران مرغ ديدي توزپاي بند شهوت درآي تا ببيني طيران آدميت
 
 *You have watched the bird’s flight;*
 
@@ -401,11 +365,7 @@ Nasir al-*Din* al-Tusi (Q)[^7] *sabr* means restraining the self from
 agitation when confronted with undesirables. And the famous, confirmed
 ‘*arif* (Khwajah ‘Abd Allah al-’Ansari), says in *Manazil al-sa’irin:*
 
-<blockquote dir="rtl">
-  <p>
-صبر، نگاهداري نفس است از شكايت بر جزع مستور.
-  </p>
-</blockquote>
+> صبر، نگاهداري نفس است از شكايت بر جزع مستور.
 
 Sabr means restraining the self from complaint about hidden anguish.
 
@@ -464,33 +424,21 @@ complaint, is complaining to creatures. Otherwise, complaining to God
 Almighty and beseeching Him for relief is not opposed to sabr. Hadrat
 Ayyub complained to God and said:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَنِّي مَسَّنِي الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ.﴾
-  </p>
-</blockquote>
+> ﴿أَنِّي مَسَّنِي الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ.﴾
 
 ***Behold, Satan has visited me with weariness and chastisement.***
 (***38:41***)
 
 And God yet praises him, saying:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّا وَجَدْنَاهُ صَابِرًا نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّا وَجَدْنَاهُ صَابِرًا نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ.﴾
 
 ***Surely We found him. a steadfast man. How excellent a servant he was!
 He was penitent.*** (***38:44***)
 
 And Hadrat Ya’qub (Jacob) said:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ.﴾
 
 ***I make complaint of my anguish and my sorrow unto God,***
 (***12:86***)
@@ -537,13 +485,9 @@ traditions of the Infallible Ahl al-Bayt we find forceful emphasis on
 *sabr*. The following is a tradition of Imam al-Sadiq (A) from the noble
 *al-Kafi*, in which the Imam says:
 
-<blockquote dir="rtl">
-  <p>
-الصَّبْرُ مِنَ الإيمَانِ بِمَنْزِلَةِ الرَّأْسِ مِنَ الجَسَدِ، فَإذَا
-ذَهَبَ الرَّأْسُ ذَهَبَ الجَسَدُ، كَذَلِكَ إذَا ذَهَبَ الصَّبْرُ
-ذَهَبَ الإيمَانُ.
-  </p>
-</blockquote>
+> الصَّبْرُ مِنَ الإيمَانِ بِمَنْزِلَةِ الرَّأْسِ مِنَ الجَسَدِ، فَإذَا
+> ذَهَبَ الرَّأْسُ ذَهَبَ الجَسَدُ، كَذَلِكَ إذَا ذَهَبَ الصَّبْرُ
+> ذَهَبَ الإيمَانُ.
 
 Verily, sabr is to faith what the head is to the body. The body perishes
 without the head, and so also when sabr goes faith also disappears?[^8]
@@ -551,12 +495,8 @@ without the head, and so also when sabr goes faith also disappears?[^8]
 In another tradition whose *isnad* reaches Imam al-Sajjad (A), he is
 reported to have stated:
 
-<blockquote dir="rtl">
-  <p>
-الصَّبْرُ مِنَ الإيمَانِ بِمَنْزِلَةِ الرَّأْسِ مِنَ الجَسَدِ، وَلا
-إيمَانَ لِمَنْ لا صَبْرَ لَهُ.
-  </p>
-</blockquote>
+> الصَّبْرُ مِنَ الإيمَانِ بِمَنْزِلَةِ الرَّأْسِ مِنَ الجَسَدِ، وَلا
+> إيمَانَ لِمَنْ لا صَبْرَ لَهُ.
 
 Verily, sabr is to faith what the head is to the body: one who has no
 sabr has no faith.[^9]
@@ -573,13 +513,9 @@ character, are symptoms of the soul’s weakness. They deprive one’s being
 of its stability, weaken the determination, and enfeeble the intellect.
 The informed researcher Khwajah Naqir al-*Din* al-Tusi (Q) states:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ – أيْ الصَّبْرَ – يَمْنَعُ البَاطِنَ عَنِ الإضْطِرَابِ
-وَاللِّسَانَ عَنِ الشِّكَايَةِ وَالأعْضَاءَ عَنِ الحَرَكَاتِ غَيْرِ
-المُعْتَادَةِ.
-  </p>
-</blockquote>
+> وَهُوَ – أيْ الصَّبْرَ – يَمْنَعُ البَاطِنَ عَنِ الإضْطِرَابِ
+> وَاللِّسَانَ عَنِ الشِّكَايَةِ وَالأعْضَاءَ عَنِ الحَرَكَاتِ غَيْرِ
+> المُعْتَادَةِ.
 
 Sabr restrains the inner being from anguish, the tongue from complaint
 and the bodily members from untoward movements.
@@ -640,18 +576,14 @@ is served by complaining about the irresistible decrees and inevitable
 ordainments of God in front of weak and powerless creatures, as pointed
 out by the following noble tradition from *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-مُحَمَّدُ بْنُ يَعْقُوبَ بِإسْنَادِهِ عَنْ سُمَاعَةَ بْنِ مَهْرَانَ،
-عَنْ أبِي الحَسَنِ عَلَيْهِ السَّلامُ قَالَ: قَالَ لِي: مَا حَبَسَكَ
-عَنِ الحَجِّ؟ قَالَ: قُلْتُ: جُعِلْتُ فِدَاكَ، وَقَعَ عَلَيَّ دَيْنٌ
-كَثِيرٌ وَذَهَبَ مَالِي، وَدَيْنِي الَّذِي قَدْ لَزِمَنِي هُوَ
-أَعْظَمُ مِنْ ذَهَابِ مَالِي. فَلَوْلا أنَّ رَجُلاً مِنْ أَصْحَابِنَا
-أَخْرَجَنِي مَا قَدَرْتُ أَنْ أَخْرُجَ. فَقَالَ لِي: إنْ تَصْبِرْ
-تُغْتَبَطْ وَإنْ لا تَصْبِرْ يُنْفِذِ اللهُ مَقَادِيرَهُ رَاضِياً
-كُنْتَ أَمْ كَارِهاً.
-  </p>
-</blockquote>
+> مُحَمَّدُ بْنُ يَعْقُوبَ بِإسْنَادِهِ عَنْ سُمَاعَةَ بْنِ مَهْرَانَ،
+> عَنْ أبِي الحَسَنِ عَلَيْهِ السَّلامُ قَالَ: قَالَ لِي: مَا حَبَسَكَ
+> عَنِ الحَجِّ؟ قَالَ: قُلْتُ: جُعِلْتُ فِدَاكَ، وَقَعَ عَلَيَّ دَيْنٌ
+> كَثِيرٌ وَذَهَبَ مَالِي، وَدَيْنِي الَّذِي قَدْ لَزِمَنِي هُوَ
+> أَعْظَمُ مِنْ ذَهَابِ مَالِي. فَلَوْلا أنَّ رَجُلاً مِنْ أَصْحَابِنَا
+> أَخْرَجَنِي مَا قَدَرْتُ أَنْ أَخْرُجَ. فَقَالَ لِي: إنْ تَصْبِرْ
+> تُغْتَبَطْ وَإنْ لا تَصْبِرْ يُنْفِذِ اللهُ مَقَادِيرَهُ رَاضِياً
+> كُنْتَ أَمْ كَارِهاً.
 
 Muhammad ibn Ya’qub al-Kulayni reports with his chain of transmitters
 from Sama’ah ibn Mihran from Imam al-Kazim (A) that the Imam said to
@@ -670,12 +602,8 @@ forbearance and restraint bring fair, plentiful rewards and have sublime
 and beautiful forms in the world of *Barzakh*. This is stated at the end
 of the noble tradition expounded by us:
 
-<blockquote dir="rtl">
-  <p>
-وَكَذَلِكَ الصَّبْرُ يُعَقِّبُ خَيْراً.فَاصْبِرُوا وَوَطِّنُوا
-أَنْفُسَكُمْ عَلى الصَّبْرِ تُؤْجَرُوا.
-  </p>
-</blockquote>
+> وَكَذَلِكَ الصَّبْرُ يُعَقِّبُ خَيْراً.فَاصْبِرُوا وَوَطِّنُوا
+> أَنْفُسَكُمْ عَلى الصَّبْرِ تُؤْجَرُوا.
 
 Thus the ultimate result of *qabr* is good in this world - as known from
 the example of Hadrat Yusuf (A) - and it is the cause of reward in the
@@ -683,13 +611,9 @@ Hereafter. In another noble tradition of *al-Kafi*, whose *sanad* goes
 up to Abu Hamzah al-Thumali (M)Imam al-Sadiq (A) is reported to have
 said:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: مَنِ ابْتُلِيَ مِنَ
-المُؤْمِنِينَ بِبَلاءٍ فَصَبَرَ عَلَيْهِ كَانَ لَهُ مِثْلُ أَجْرِ
-أَلْفِ شَهِيدٍ.
-  </p>
-</blockquote>
+> قَالَ: قَالَ أَبُو عَبْدِاللهِ عَلَيْهِ السَّلامُ: مَنِ ابْتُلِيَ مِنَ
+> المُؤْمِنِينَ بِبَلاءٍ فَصَبَرَ عَلَيْهِ كَانَ لَهُ مِثْلُ أَجْرِ
+> أَلْفِ شَهِيدٍ.
 
 Abu Hamzah says: Abu Abd Allah said: “Whoever of the believers that
 bears patiently with a tribulation that befalls him, has the reward of a
@@ -701,16 +625,12 @@ said above that *sabr* has a beautiful purgatorial form, this is
 mentioned - apart from the demonstrative proofs confirming it - in the
 following tradition of the noble *al-Kafi* from Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: إذَا دَخَلَ المُؤْمِنُ فِي قَبْرِهِ، كَانَتِ الصَّلاةُ عَنْ
-يَمِينِهِ وَالزَّكَاةُ عَنْ يَسَارِهِ وَالبِرُّ مُظِلٌّ عَلَيْهِ.
-وَيَتَنَحَّى الصَّبْرُ نَاحِيَةً، فَإذَا دَخَلَ عَلَيْهِ المَلَكَانِ
-اللَّذَانِ يَلِيَانِ مَسَاءَلَتَهُ قَالَ الصَّبْرُ لِلصَّلاةِ
-وَالزَّكَاة وَالبِرِّ: دُونَكُمْ صَاحِبَكُمْ، فَإنْ عَجِزْتُمْ عَنْهُ
-فَأنَا دُونَهُ.
-  </p>
-</blockquote>
+> قَالَ: إذَا دَخَلَ المُؤْمِنُ فِي قَبْرِهِ، كَانَتِ الصَّلاةُ عَنْ
+> يَمِينِهِ وَالزَّكَاةُ عَنْ يَسَارِهِ وَالبِرُّ مُظِلٌّ عَلَيْهِ.
+> وَيَتَنَحَّى الصَّبْرُ نَاحِيَةً، فَإذَا دَخَلَ عَلَيْهِ المَلَكَانِ
+> اللَّذَانِ يَلِيَانِ مَسَاءَلَتَهُ قَالَ الصَّبْرُ لِلصَّلاةِ
+> وَالزَّكَاة وَالبِرِّ: دُونَكُمْ صَاحِبَكُمْ، فَإنْ عَجِزْتُمْ عَنْهُ
+> فَأنَا دُونَهُ.
 
 The Imam (A) said, “When the believer enters his grave, salat is on his
 right hand, zakat on his left, virtue faces him, with sabr taking him
@@ -728,20 +648,16 @@ accordance with its degree and level. This is revealed by the following
 tradition of the noble *al-Kafi* narrated by the Master of the
 God-fearing, Amir al-Mu’minin ‘Ali (A) from the Holy Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الصَّبْرُ
-ثَلاثَةٌ: صَبْرٌ عِنْدَ المُصِيبَةِ وَصَبْرٌ عَلَى الطَّاعَةِ وَصَبْرٌ
-عَنِ المَعْصِيَةِ. فَمَنْ صَبَرَ عَلَى المُصِيبَةِ حَتَّى يَرُدَّهَا
-بِحُسْنِ عَزَائِهَا كَتَبَ اللهُ لَهُ ثَلاثَمِائَةِ دَرَجَةٍ: مَا
-بَيْنَ الدَّرَجَةِ إلَى الدَّرَجَةِ كَمَا بَيْنَ السَّمَاءِ إلَى
-الأرْضِ. وَمَنْ صَبَرَ عَلَى الطَّاعَةِ كَتَبَ اللهُ لَهُ سِتَّمِائَةِ
-دَرَجَةٍ مَا بَيْنَ الدَّرَجَةِ إلَى الدَّرَجَةِ كَمَا بَيْنَ تُخُومِ
-الأرْضِ إلَى العَرْشِ. وَمَنْ صَبَرَ عَنِ المَعْصِيَةِ كَتَبَ اللهُ
-لَهُ تِسْعَمِائَةِ دَرَجَةٍ مَا بَيْنَ الدَّرَجَةِ إلَى الدَّرَجَةِ
-كَمَا بَيْنَ تُخُومِ الأرْضِ إلَى مُنْتَهَى العَرْشِ.
-  </p>
-</blockquote>
+> قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: الصَّبْرُ
+> ثَلاثَةٌ: صَبْرٌ عِنْدَ المُصِيبَةِ وَصَبْرٌ عَلَى الطَّاعَةِ وَصَبْرٌ
+> عَنِ المَعْصِيَةِ. فَمَنْ صَبَرَ عَلَى المُصِيبَةِ حَتَّى يَرُدَّهَا
+> بِحُسْنِ عَزَائِهَا كَتَبَ اللهُ لَهُ ثَلاثَمِائَةِ دَرَجَةٍ: مَا
+> بَيْنَ الدَّرَجَةِ إلَى الدَّرَجَةِ كَمَا بَيْنَ السَّمَاءِ إلَى
+> الأرْضِ. وَمَنْ صَبَرَ عَلَى الطَّاعَةِ كَتَبَ اللهُ لَهُ سِتَّمِائَةِ
+> دَرَجَةٍ مَا بَيْنَ الدَّرَجَةِ إلَى الدَّرَجَةِ كَمَا بَيْنَ تُخُومِ
+> الأرْضِ إلَى العَرْشِ. وَمَنْ صَبَرَ عَنِ المَعْصِيَةِ كَتَبَ اللهُ
+> لَهُ تِسْعَمِائَةِ دَرَجَةٍ مَا بَيْنَ الدَّرَجَةِ إلَى الدَّرَجَةِ
+> كَمَا بَيْنَ تُخُومِ الأرْضِ إلَى مُنْتَهَى العَرْشِ.
 
 ‘Ali (A) said: The Messenger of Allah said: “Sabr Is of three kinds:
 sabr at the time of affliction, sabr in regard to obedience, and sabr in
@@ -765,11 +681,7 @@ Paradise is much greater than what can come into our imagination, for
 our vision is limited and confined. That which has been said as a
 description of Paradise that:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَاءِ وَالْأَرْضِ.﴾
-  </p>
-</blockquote>
+> ﴿وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَاءِ وَالْأَرْضِ.﴾
 
 ***And a Garden the breadth whereof is as the breadth of heaven and
 earth.*** (***57:21***)
@@ -791,18 +703,14 @@ speak in accordance with any specific terminology.
 The noble *al-Kafi* records the following tradition of the Prophet (S)
 with a chain of narration reaching Imam al-Sadiq (A):
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: سَيَأْتِي
-عَلَى النَّاسِ زَمَانٌ لا يُنَالُ المُلْكُ فِيهِ إلا بِالقَتْلِ
-وَالتَّجَبُّرِ، وَلا الغِنَى إلا بِالغَصْبِ وَالبُخْلِ، وَلا
-المَحَبَّةِ إلا بِاسْتِخْرَاجِ الدِّينِ وَاتِّبَاعِ الهَوَى. فَمَنْ
-أَدْرَكَ ذَلِكَ الزَّمَانَ فَصَبَرَ عَلَى الفَقْرِ وَهُوَ يَقْدِرُ
-عَلَى الغِنَى وَصَبَرَ عَلَى البُغْضَةِ وَهُوَ يَقْدِرُ عَلَى
-المَحَبَّةِ وَصَبَرَ عَلَى الذُّلِّ وَهُوَ يَقْدِرُ عَلَى العِزِّ
-آتَاهُ اللهُ ثَوَابَ خَمْسِينَ صِدِّيقاً مِمَّنْ صَدَّقَ بِي.
-  </p>
-</blockquote>
+> قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ: سَيَأْتِي
+> عَلَى النَّاسِ زَمَانٌ لا يُنَالُ المُلْكُ فِيهِ إلا بِالقَتْلِ
+> وَالتَّجَبُّرِ، وَلا الغِنَى إلا بِالغَصْبِ وَالبُخْلِ، وَلا
+> المَحَبَّةِ إلا بِاسْتِخْرَاجِ الدِّينِ وَاتِّبَاعِ الهَوَى. فَمَنْ
+> أَدْرَكَ ذَلِكَ الزَّمَانَ فَصَبَرَ عَلَى الفَقْرِ وَهُوَ يَقْدِرُ
+> عَلَى الغِنَى وَصَبَرَ عَلَى البُغْضَةِ وَهُوَ يَقْدِرُ عَلَى
+> المَحَبَّةِ وَصَبَرَ عَلَى الذُّلِّ وَهُوَ يَقْدِرُ عَلَى العِزِّ
+> آتَاهُ اللهُ ثَوَابَ خَمْسِينَ صِدِّيقاً مِمَّنْ صَدَّقَ بِي.
 
 The Imam (A) said: The Messenger of Allah (S) said, “A time will come
 upon the people wherein political authority will not be attainable
@@ -851,29 +759,21 @@ the stations, and to it has referred the Master of the Wayfarers, the
 Commander of the Faithful, and the Leader of the Perfect (i.e. ‘Ali ibn
 Abi Talib (A) in the noble Du’a’ Kumayl:
 
-<blockquote dir="rtl">
-  <p>
-فَهَبْنِي، يَا إلَهِي وَسَيِّدِي وَمَوْلايَ، صَبَرْتُ عَلَى عَذَابِكَ،
-فَكَيْفَ أَصْبِرُ عَلَى فِرَاقِكَ.
-  </p>
-</blockquote>
+> فَهَبْنِي، يَا إلَهِي وَسَيِّدِي وَمَوْلايَ، صَبَرْتُ عَلَى عَذَابِكَ،
+> فَكَيْفَ أَصْبِرُ عَلَى فِرَاقِكَ.
 
 O my God, my Master and my Lord! Even if I were able to endure Thy
 chastisement, how shall I bear Thy separation?
 
 The following is narrated about al-Shibli:
 
-<blockquote dir="rtl">
-  <p>
-وَرُوِيَ أنَّ شَابّاً مِنَ المُحِبِّينَ سَأَلَ الشِّبْلِيَّ عَنِ
-الصَّبْرِ فَقَالَ: أَيُّ الصَّبْرِ أَشَدُّ؟ فَقَالَ: الصَّبْرُ للهِ.
-فَقَالَ: لا. فَقَالَ: الصَّبْرُ بِاللهِ. فَقَالَ: لا. فَقَالَ:
-الصَّبْرُ عَلَى اللهِ. فَقَالَ: لا. فَقَالَ: الصَّبْرُ فِي اللهِ.
-فَقَالَ: لا. فَقَالَ: الصَّبْرُ مَعَ اللهِ. فَقَالَ: لا. فَقَالَ:
-وَيْحَكَ فَأَيُّ؟ فَقَالَ: الصَّبْرُ عَنِ اللهِ. فَشَهِقَ الشِّبْلِيُّ
-وَخَرَّ مَغْشِيّاً عَلَيْهِ.
-  </p>
-</blockquote>
+> وَرُوِيَ أنَّ شَابّاً مِنَ المُحِبِّينَ سَأَلَ الشِّبْلِيَّ عَنِ
+> الصَّبْرِ فَقَالَ: أَيُّ الصَّبْرِ أَشَدُّ؟ فَقَالَ: الصَّبْرُ للهِ.
+> فَقَالَ: لا. فَقَالَ: الصَّبْرُ بِاللهِ. فَقَالَ: لا. فَقَالَ:
+> الصَّبْرُ عَلَى اللهِ. فَقَالَ: لا. فَقَالَ: الصَّبْرُ فِي اللهِ.
+> فَقَالَ: لا. فَقَالَ: الصَّبْرُ مَعَ اللهِ. فَقَالَ: لا. فَقَالَ:
+> وَيْحَكَ فَأَيُّ؟ فَقَالَ: الصَّبْرُ عَنِ اللهِ. فَشَهِقَ الشِّبْلِيُّ
+> وَخَرَّ مَغْشِيّاً عَلَيْهِ.
 
 It is narrated that a youth from among the Lovers questioned al-Shibli
 about sabr. “Which kind of sabr is the hardest?” He asked. “The sabr for
@@ -929,5 +829,4 @@ awliya.
 [^14]: Usul al-Kafi, hadith No. 12.
 
 [^15]: Sharh Manazil al-sa’irin, bab al-sabr, 88. No.28.
-
 

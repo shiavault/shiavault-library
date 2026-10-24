@@ -241,4 +241,3 @@ contrast to some of the women depicted in other works, such as*Vampire*
 moon, another symbol that appears in numerous works, clearly represents
 the male personage in this painting (Zogaris, 21).
 
-

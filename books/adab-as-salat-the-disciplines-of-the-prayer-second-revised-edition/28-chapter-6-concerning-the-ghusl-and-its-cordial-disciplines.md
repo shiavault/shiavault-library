@@ -129,4 +129,3 @@ Akhbār ar-Ridā, p. 291. 
 [^6]: Wash yourself, then walk to the tavern, That this ruined convent
 may not be polluted by you. Hāfiz Shīrāzī
 
-

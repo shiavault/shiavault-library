@@ -579,4 +579,3 @@ Balaghah’, vol. 16, p.37.
 
 [^14]: Razi Ale Yasin - 'Sulh-ul Hasan', p.88.
 
-

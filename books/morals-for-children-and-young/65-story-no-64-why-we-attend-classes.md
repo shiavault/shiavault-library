@@ -13,4 +13,3 @@ or if not that, we can do a job and don’t become a pauper?”
  All the youngsters had good ambitions but the suggestion of the fifth
 one was on the highest place.
 
-

@@ -317,4 +317,3 @@ teachings of Islam. We believe, it is this ideology in which lies the
 salvation of the world and not in the ideologies hotly defended and
 followed in the Western world.
 
-

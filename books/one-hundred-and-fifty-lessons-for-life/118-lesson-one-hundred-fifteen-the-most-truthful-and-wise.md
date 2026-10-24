@@ -3,12 +3,8 @@ Lesson One Hundred Fifteen: The Most Truthful And Wise
 
 The Prophet (peace be upon him and his progeny) said:
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ اُمَّة صَديقٌ وَ فارُوقٌ وَ صَدِيقُ هذِهِ الاْمَّةِ وَ
-فارُوقُها عَلِىُّ ابْنُ أَبِى طالِب(ع).
-  </p>
-</blockquote>
+> لِكُلِّ اُمَّة صَديقٌ وَ فارُوقٌ وَ صَدِيقُ هذِهِ الاْمَّةِ وَ
+> فارُوقُها عَلِىُّ ابْنُ أَبِى طالِب(ع).
 
 Translation
 -----------
@@ -36,5 +32,4 @@ This rank, as per the above explicit statement, was allocated to Imam
 
 [^1]: Safinat’ul-Bihar, volume 2, page 221. Uyoon Akhbar Ar-Ritha. Vol
 2, page 13. Al-Qisas, page 173.
-
 

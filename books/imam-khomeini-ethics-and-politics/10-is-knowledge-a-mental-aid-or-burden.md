@@ -19,23 +19,11 @@ Arab asked the sage about his wealth and riches as he assumes that
 having this cogent mind he is supposed to possess everything. However,
 the sage sorrowfully answers that he possesses nothing in this world:  
 
-<blockquote dir="rtl">
-  <p>
-گفت: "واﷲ نيست يا وجهالعرب            در همه مُلكم وجوه و قوت شب
-  </p>
-</blockquote>
+> گفت: "واﷲ نيست يا وجهالعرب            در همه مُلكم وجوه و قوت شب
 
-<blockquote dir="rtl">
-  <p>
-پا برهنه تن برهنه مىدوم                    هر كه نانى مىدهد، آنجا روم
-  </p>
-</blockquote>
+> پا برهنه تن برهنه مىدوم                    هر كه نانى مىدهد، آنجا روم
 
-<blockquote dir="rtl">
-  <p>
-مر مرا زين حكمت و فضل و هنر           نيست حاصل جز خيال و دردسر"
-  </p>
-</blockquote>
+> مر مرا زين حكمت و فضل و هنر           نيست حاصل جز خيال و دردسر"
 
 *“By God,” he replied, “O chief of the Arabs, in my whole property*
 
@@ -56,29 +44,13 @@ sage to part ways with him so that his misfortune would not descend upon
 him:  
   
 
-<blockquote dir="rtl">
-  <p>
-دور بَر آن حكمت شومت ز من              نطق تو شوم است بر اهل زَمَن
-  </p>
-</blockquote>
+> دور بَر آن حكمت شومت ز من              نطق تو شوم است بر اهل زَمَن
 
-<blockquote dir="rtl">
-  <p>
-يا تو آن سو رو، من اين سو مىدوم       ور تو راه پيش، من واپس روم
-  </p>
-</blockquote>
+> يا تو آن سو رو، من اين سو مىدوم       ور تو راه پيش، من واپس روم
 
-<blockquote dir="rtl">
-  <p>
-يک جوالم گندم و ديگر ز ريگ              به بود زين حيله هاى مرده ريگ
-  </p>
-</blockquote>
+> يک جوالم گندم و ديگر ز ريگ              به بود زين حيله هاى مرده ريگ
 
-<blockquote dir="rtl">
-  <p>
-احمقيم بس مبارک احمقىاست              كه دلم با برگ و جانم متقى است
-  </p>
-</blockquote>
+> احمقيم بس مبارک احمقىاست              كه دلم با برگ و جانم متقى است
 
 *Take far away from me that unlucky wisdom of yours:*
 
@@ -101,11 +73,7 @@ well-furnished*
  Then out of this story Mawlānā arrives at this conclusion:  
   
 
-<blockquote dir="rtl">
-  <p>
-فكر، آن باشد كه بگشايد رهى               راه، آن باشد كه پيش آيد شَهى
-  </p>
-</blockquote>
+> فكر، آن باشد كه بگشايد رهى               راه، آن باشد كه پيش آيد شَهى
 
 *The right thought is that which opens a way:*
 
@@ -128,17 +96,9 @@ this knowledge has no influence on their fate and if all this learning
 can be taken away from them, they will still pursue their past life.
 Concerning such type of people, Mawlānā says:
 
-<blockquote dir="rtl">
-  <p>
-ﺻﺩﻫﺰﺍﺭﺍﻥ ﻓﺼﻞﺩﺍﻨﺪ ﺍﺯﻋﻠﻮﻡ             ﺟﺎﻥ ﺧﻮﺩ ﺭﺍﻣﻰﻧﺪﺍﻧﺩ ﺁﻥﻇﻠﻮﻡ
-  </p>
-</blockquote>
+> ﺻﺩﻫﺰﺍﺭﺍﻥ ﻓﺼﻞﺩﺍﻨﺪ ﺍﺯﻋﻠﻮﻡ             ﺟﺎﻥ ﺧﻮﺩ ﺭﺍﻣﻰﻧﺪﺍﻧﺩ ﺁﻥﻇﻠﻮﻡ
 
-<blockquote dir="rtl">
-  <p>
-ﺩﺍﻨﺩ ﺍﻮﺧﺎﺼﻴﺖ ﻫﺭﺟﻮﻫﺭﻯ                 ﺪﺭ ﺑﻴﺎﻥ ﺟﻮﻫﺭﺧﻮﺪ ﭽﻮﻥ ﺧﺭﻯ
-  </p>
-</blockquote>
+> ﺩﺍﻨﺩ ﺍﻮﺧﺎﺼﻴﺖ ﻫﺭﺟﻮﻫﺭﻯ                 ﺪﺭ ﺑﻴﺎﻥ ﺟﻮﻫﺭﺧﻮﺪ ﭽﻮﻥ ﺧﺭﻯ
 
 *He knows a hundred thousand superfluous matters*[292] *connected with*
 
@@ -593,11 +553,7 @@ attainment and be deceived by it. He should always bear in mind this
 ultimate objective, and should not quench his thirst except through
 meeting the Friend.
 
-<blockquote dir="rtl">
-  <p>
-ﻫمچو مستسقى كز آبش سير نست         بر هر آنچه يافتى، باﷲ مايست
-  </p>
-</blockquote>
+> ﻫمچو مستسقى كز آبش سير نست         بر هر آنچه يافتى، باﷲ مايست
 
 *By God, do not tarry in anything (any spiritual position) that thou
 hast gained,*
@@ -608,5 +564,4 @@ water.*[316]
    
     
   
-
 

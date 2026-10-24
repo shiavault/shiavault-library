@@ -181,4 +181,3 @@ other.[^1]
 
 [^1]: Safinatul Bihar, vol.1, p.132
 
-

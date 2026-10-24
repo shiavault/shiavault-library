@@ -15,4 +15,3 @@ theft. Do not repeat it again.
 Bravo for Majid and his good training school that he talked about
 ‘actions against morals’ with others and advised them.
 
-

@@ -51,4 +51,3 @@ Thus, such material in books cannot be relied upon - except in case of
 sects that exists even today or whose existence as a group is affirmed
 by reliable histories and references.
 
-

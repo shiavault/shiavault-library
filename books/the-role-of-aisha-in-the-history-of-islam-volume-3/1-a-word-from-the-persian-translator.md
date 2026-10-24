@@ -317,7 +317,6 @@ print and proof- reading. In conclusion I request dear readers to make
 me indebted and thankful to themselves by informing me of any errors or
 shortcoming which they have appeared in this book.
 
-
 **Preface**
 
 **Aim of this survey and discussion**
@@ -373,7 +372,5 @@ Mu'awiyah and his lineage as they were, and bring this discussion to an
 end for God's satisfaction and with the motive of propagation of
 knowledge.
 
-
 Sayyid Murtada 'Askari
-
 

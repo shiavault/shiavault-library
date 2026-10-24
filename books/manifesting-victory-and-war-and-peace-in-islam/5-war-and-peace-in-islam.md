@@ -78,4 +78,3 @@ the same, if we want to follow His way, the only way that is leading
 towards peace. If you can not achieve your goal by war then you can
 achieve it by peace.
 
-

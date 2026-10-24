@@ -186,4 +186,3 @@ thought than those of another.
 It would be easy to discover many other circumstances that make a
 difference in the understandings of men.
 
-

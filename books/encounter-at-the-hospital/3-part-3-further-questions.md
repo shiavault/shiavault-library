@@ -251,4 +251,3 @@ then they are confessing to the law of cause and effect. "
 "That's a good idea, " agreed Dr. Miyad. "You won't forget various
 points"
 
-

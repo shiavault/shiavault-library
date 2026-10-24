@@ -220,11 +220,9 @@ knew of it and they began from that time to make visitation to his
 
 On the day of his death he was 63 years of age.
 
-
 **Reports of him, Peace be on him, Mentioning and Knowing about the
 Event (of his Death) before its Occurrence
 **
-
 
 [It is reported on the authority of 'Ali b. al-Mundhir al-Tariqi, on
 the authority of Abu al-Fadl al-'Abdi, on the authority of Fitr, on the
@@ -417,7 +415,6 @@ hooted in his face. (The people) began to drive them away but he said:
 "Leave them, they are those who wail (for my death)."
 
 He, peace be on him, went out and was struck down.
-
 
 Reports which have come down of the Motive for his Murder and how the
 Event occurred
@@ -645,10 +642,8 @@ people; the man was called Kharija b. Abi Habiba al-'Amiri. He struck
 with his sword when he thought that it was 'Amr. He was seized and taken
 to 'Amr who has him killed. kharija died on the second day!10
 
-
 Reports about the Place of the Grave of the Commander of the Faithful,
 Peace be on him, and an Explanation of the Circumstances of his Burial
-
 
 ['Abbad b. Ya'qub al-Rawajini related: Hayyan b. 'Ali al-'Anazi told
 us: A retainer of 'Ali b. Abi Talib told me:]
@@ -804,5 +799,4 @@ the faithful, peace be on him (including) his virtues and his eminent
 qualities, together with (some of) what has been preserved of his wise
 sayings and sermons, and (some of) what is told of his miracles, legal
 judgements and explanations.1
-
 

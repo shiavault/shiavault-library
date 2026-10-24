@@ -137,4 +137,3 @@ edition.
 1866-1870.      
  Zysow, A. “Zakat”, in *Encyclopaedia of Islam*, 2nd edition
 
-

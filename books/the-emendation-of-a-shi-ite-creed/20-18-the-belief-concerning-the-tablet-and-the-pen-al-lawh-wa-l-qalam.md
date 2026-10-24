@@ -30,4 +30,3 @@ they have indeed deviated from the truth, since angels cannot be called
 tablets or pens, and since there are no linguistic precedents for an
 angel or human being called tablet or pen.
 
-

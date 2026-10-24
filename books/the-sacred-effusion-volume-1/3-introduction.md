@@ -21,12 +21,8 @@ has therefore, through His undiminishing mercy, granted His servants
 access to numerous avenues to be able to reach at least some level of
 gnosis:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللهَ وَابْتَغُوۤا إِلَيهِ
-الْوَسِيلَةَ وَجَاهِدُوا فِى سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللهَ وَابْتَغُوۤا إِلَيهِ
+> الْوَسِيلَةَ وَجَاهِدُوا فِى سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ
 
 ***O you who believe! Be mindful (of your duty) to Allah and seek means
 of nearness to Him, and struggle in His way, so that you may be
@@ -94,11 +90,7 @@ instance of seeking is accompanied by a higher level of giving, and thus
 the circle continues between Master and slave. This may be the true
 meaning behind this excerpt of Du’a al-Iftita:
 
-<blockquote dir="rtl">
-  <p>
-وَ لاَ يزيده كثرة العطاء إِلاَّ جوداً وَ كرماً
-  </p>
-</blockquote>
+> وَ لاَ يزيده كثرة العطاء إِلاَّ جوداً وَ كرماً
 
 *And His excessive giving does not increase in Him, except (from the
 point of view of) generosity and kindness*.[^13]
@@ -119,11 +111,7 @@ having declared it to be compulsory for Hajj pilgrims to perform the
 Islamic ruler to force people to do so if they do not perform the
 *Ziyarat* of their own volition.[^14] The Holy Prophet has declared:
 
-<blockquote dir="rtl">
-  <p>
-من أتى مكة حاجاً و لم يزرني إلى المدينة جفانى
-  </p>
-</blockquote>
+> من أتى مكة حاجاً و لم يزرني إلى المدينة جفانى
 
 Whoseover comes to Makkah as a Hajj pilgrim and does not visit me in
 Medina has shunned me.[^15]
@@ -139,13 +127,9 @@ Walayah and Ziyarat
 
 Al-Kulayni reports in al-Kafi from Imam al-Baqir (AS):
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي جَعْفَر قَالَ بُنِيَ الإِسْلامُ عَلَى خَمْسٍ عَلَى
-الصَّلاةِ وَ الزَّكَاةِ وَ الصَّوْمِ وَ الْحَجِّ وَ الْوَلايَةِ وَ
-لَمْ يُنَادَ بِشَيْ‏ءٍ كَمَا نُودِيَ بِالْوَلايَةِ
-  </p>
-</blockquote>
+> عَنْ أَبِي جَعْفَر قَالَ بُنِيَ الإِسْلامُ عَلَى خَمْسٍ عَلَى
+> الصَّلاةِ وَ الزَّكَاةِ وَ الصَّوْمِ وَ الْحَجِّ وَ الْوَلايَةِ وَ
+> لَمْ يُنَادَ بِشَيْ‏ءٍ كَمَا نُودِيَ بِالْوَلايَةِ
 
 Islam has been founded upon five: Prayers, Alms-giving, Fasting,
 Pilgrimage and Walayah. And nothing has been emphasised the way emphasis
@@ -175,13 +159,9 @@ The folly of not adhering to this is eloquently portrayed by the Master
 of eloquence, Amir al-Mu\`minin, ‘Ali. Al-Majlisi quotes in Bihar
 al-Anwar:
 
-<blockquote dir="rtl">
-  <p>
-إنّ رجلاً قدم على اميرالمؤمنين فقال: يا اميرالمؤمنين! إنّي اُحبّك و
-اُحبّ فلاناً – و يسمى بعض أعدائه – فقال عليه السلام: أما الآن فأنت
-أعور فإما أن تعمى و إما أن تبصر
-  </p>
-</blockquote>
+> إنّ رجلاً قدم على اميرالمؤمنين فقال: يا اميرالمؤمنين! إنّي اُحبّك و
+> اُحبّ فلاناً – و يسمى بعض أعدائه – فقال عليه السلام: أما الآن فأنت
+> أعور فإما أن تعمى و إما أن تبصر
 
 Indeed a man approached Amir al-Mu\`minin (AS) and said: “Verily I have
 love for you and I also love so and so” – and he named one of his (the
@@ -209,13 +189,9 @@ the non-corporeal realm where such realities exist in their truest form.
 The hadith reports that comment upon this reality are manifold. We cite
 one such report to grant light to our discussion:
 
-<blockquote dir="rtl">
-  <p>
-عن البزنطي قال: قرأت كتاب أبي الحسن الرضا: أبلغ شيعتي أنّ زيارتي تعدل
-عندالله عزّ و جلّ ألف حجّة. قال: فقلت لأبي جعفر : ألف حجّة؟ قال: إي
-والله ألف ألف حجّة لمن زاره عارفاً بحقه
-  </p>
-</blockquote>
+> عن البزنطي قال: قرأت كتاب أبي الحسن الرضا: أبلغ شيعتي أنّ زيارتي تعدل
+> عندالله عزّ و جلّ ألف حجّة. قال: فقلت لأبي جعفر : ألف حجّة؟ قال: إي
+> والله ألف ألف حجّة لمن زاره عارفاً بحقه
 
 Al-Bazanti narrates, “I read in the letter of Abu al-Hasan al-Ridha
 (AS): Tell my Shi’as that verily the rewards of my Ziyarat, according to
@@ -259,12 +235,8 @@ Following these principles, a wayfarer can coach and train himself to be
 mindful and intensely aware of such truths and when he is able to do so
 he will witness an active manifestation of the Qur\`anic injunction:
 
-<blockquote dir="rtl">
-  <p>
-وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ
-وَجْهُ اللهِ إِنَّ اللهَ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ
+> وَجْهُ اللهِ إِنَّ اللهَ وَاسِعٌ عَلِيمٌ
 
 ***To Allah belongs the east and the west, so whithersoever way you turn
 there will be the face of*** ***Allah…***[^23]
@@ -275,12 +247,8 @@ and places.
 There is a possibility for the opposite to also become true. The Qur\`an
 offers a stark warning:
 
-<blockquote dir="rtl">
-  <p>
-بَلَى مَنْ كَسَبَ سَيِّئَةً وَأَحَاطتْ بِهِ خَطيـۤئَتُهُ
-فَأُوْلَـۤئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
-  </p>
-</blockquote>
+> بَلَى مَنْ كَسَبَ سَيِّئَةً وَأَحَاطتْ بِهِ خَطيـۤئَتُهُ
+> فَأُوْلَـۤئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
 
 ***Indeed whoever does evil and his sins surround him on every side,
 such shall be the inmates of the fire, and they shall remain therein
@@ -303,12 +271,8 @@ thereby be completely balanced and guided.
 
 Marhum Tustari declares:
 
-<blockquote dir="rtl">
-  <p>
-وتفاوتت التأثيرات بتفاوت المعرفة بحق الامام الحسين فقد ورد في الروايات
-التقييد بكونه عارفا بحق الامام الحسين صلوات الله تعالى عليه
-  </p>
-</blockquote>
+> وتفاوتت التأثيرات بتفاوت المعرفة بحق الامام الحسين فقد ورد في الروايات
+> التقييد بكونه عارفا بحق الامام الحسين صلوات الله تعالى عليه
 
 And the difference in the benefits (of the *Ziyarat*) is due to the
 difference in the levels of recognition (in the people reciting the
@@ -338,11 +302,7 @@ consciousness and spiritual being. Freedom from the world of matter is
 essential if we are to reach the heights of our potential. An
 interesting narration quoted by Marhum Tustari encapsulates this:
 
-<blockquote dir="rtl">
-  <p>
-إنّ من زاره كان كمن زار الله تعالى في عرشه
-  </p>
-</blockquote>
+> إنّ من زاره كان كمن زار الله تعالى في عرشه
 
 Surely one who visits him (Imam al-Husayn) is like one who visits Allah
 at His throne.[^29]
@@ -357,29 +317,13 @@ Martyr of Kerbala assists and facilitates to complete one’s level of
 faith, and cleanse the heart, resulting ultimately in the intense
 closeness with Allah (SwT).
 
-<blockquote dir="rtl">
-  <p>
-پیروی رسول حق، دوستی حق آورد
-  </p>
-</blockquote>
+> پیروی رسول حق، دوستی حق آورد
 
-<blockquote dir="rtl">
-  <p>
-پیروی رسول کن، دوستی خدا طلب
-  </p>
-</blockquote>
+> پیروی رسول کن، دوستی خدا طلب
 
-<blockquote dir="rtl">
-  <p>
-شرع، سفینۀ نجات، آل رسول، ناخداست
-  </p>
-</blockquote>
+> شرع، سفینۀ نجات، آل رسول، ناخداست
 
-<blockquote dir="rtl">
-  <p>
-ساکن این سفینه شو دامن ناخدا طلب
-  </p>
-</blockquote>
+> ساکن این سفینه شو دامن ناخدا طلب
 
 Following the Prophet of Truth, brings about the friendship of Truth;  
  So follow the Prophet, thereby seek the friendship of Truth.  
@@ -392,12 +336,8 @@ benefit from some of the grace which they are granted. In Sura al-Ahzab,
 in one of the most well-known and oft-recited verses of the Qur\`an,
 Allah (SwT) declares:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللهَ وَمَلاَئِكَـتَهُ يُصَلُّونَ عَلَى النَّبِىِّ يَاأَيُّهَا
-الَّذِينَ آمَنُوا صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيما
-  </p>
-</blockquote>
+> إِنَّ اللهَ وَمَلاَئِكَـتَهُ يُصَلُّونَ عَلَى النَّبِىِّ يَاأَيُّهَا
+> الَّذِينَ آمَنُوا صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيما
 
 ***Indeed Allah and Angels bless the Prophet; O you who believe! Invoke
 blessings upon him and and invoke salutations upon him with a worthy
@@ -406,15 +346,11 @@ salutation***.[^31]
 Perhaps we miss too easily our own potential in reaching such a stage,
 where Allah (SwT) and His angels can bless us:
 
-<blockquote dir="rtl">
-  <p>
-يَاأَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللهَ ذِكْراً كَثِيراً
-وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً هُوَ الَّذِى يُصَلِّى عَلَيْكُمْ
-وَمَلاَئِكَتُهُ لِيُخْرِجَكُمْ مِّنَ الظُّلُمَاتِ إِلَى النُّورِ
-وَكَانَ بِالْمُؤْمِنِينَ رَحِيماً تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ
-سَلاَمٌ وَأَعَدَّ لَهُمْ أَجْراً كَرِيماً
-  </p>
-</blockquote>
+> يَاأَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللهَ ذِكْراً كَثِيراً
+> وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً هُوَ الَّذِى يُصَلِّى عَلَيْكُمْ
+> وَمَلاَئِكَتُهُ لِيُخْرِجَكُمْ مِّنَ الظُّلُمَاتِ إِلَى النُّورِ
+> وَكَانَ بِالْمُؤْمِنِينَ رَحِيماً تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ
+> سَلاَمٌ وَأَعَدَّ لَهُمْ أَجْراً كَرِيماً
 
 O you who believe! Remember Allah with frequent remembrance, and glorify
 Him morning and evening. It is He who sends His blessings to you and so
@@ -435,22 +371,14 @@ confident of the veracity and accuracy of the offerings we can obtain
 from them. Again this points towards *Tabarri and Tawalli:* ensuring
 that our hosts are true hosts and truly able to offer us munificence:
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرِ الإِنْسَانُ إِلَى طعَامِهِ
-  </p>
-</blockquote>
+> فَلْيَنْظُرِ الإِنْسَانُ إِلَى طعَامِهِ
 
 So let man consider his food.[^33]
 
 Regarding the verse above, Imam al-Sadiq (AS) has declared that the
 allegorical meaning of the word food is ‘knowledge’. He states:
 
-<blockquote dir="rtl">
-  <p>
-عِلْمُهُ الَّذِي يَأْخُذُهُ عَمَّنْ يَأْخُذُهُ
-  </p>
-</blockquote>
+> عِلْمُهُ الَّذِي يَأْخُذُهُ عَمَّنْ يَأْخُذُهُ
 
 It is his knowledge that he acquires – from whom does he acquire
 it?[^34]
@@ -470,13 +398,9 @@ the true servant of the Holy Threshold discharges the duties placed upon
 him by helping others to emerge from darkness. He becomes the true
 manifestation as described in Sura al-An’am:
 
-<blockquote dir="rtl">
-  <p>
-أَوَ مَنْ كَانَ مَيْتاً فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُوراً
-يَمْشِى بِهِ فِى النَّاسِ كَمَن مَّثَلُهُ فِى الظُّلُمَاتِ لَيْسَ
-بِخَارِجٍ مِّنْهَا
-  </p>
-</blockquote>
+> أَوَ مَنْ كَانَ مَيْتاً فَأَحْيَيْنَاهُ وَجَعَلْنَا لَهُ نُوراً
+> يَمْشِى بِهِ فِى النَّاسِ كَمَن مَّثَلُهُ فِى الظُّلُمَاتِ لَيْسَ
+> بِخَارِجٍ مِّنْهَا
 
 ***Is he who was lifeless, then we granted him life, and granted him a
 light by which he walks among people, like one whose likeness is that of
@@ -530,11 +454,7 @@ Qur\`an where Allah (SwT) commands the believers to repent with
 sincerity. The word used, *Nusuhan,* stems from the same root as
 *Nasihah:*
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللهِ تَوبَتاً نَصُوحاً
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللهِ تَوبَتاً نَصُوحاً
 
 ***O you who believe! Repent to Allah with sincere repentance!***[^36]
 
@@ -557,13 +477,9 @@ the master whom we are visiting attains confidence that we are truly
 his, sincerely for him, and utterly devoted to his cause. The following
 narration may clarify this further:
 
-<blockquote dir="rtl">
-  <p>
-قال رسول الله : من يضمن لي خمساً أضمن له الجنّة ... النصيحة لله عز و
-جل والنصيحة لرسوله والنصيحة لكتاب الله والنصيحة لدين الله والنصيحة
-لجماعة المسلمين
-  </p>
-</blockquote>
+> قال رسول الله : من يضمن لي خمساً أضمن له الجنّة ... النصيحة لله عز و
+> جل والنصيحة لرسوله والنصيحة لكتاب الله والنصيحة لدين الله والنصيحة
+> لجماعة المسلمين
 
 The Holy Prophet (S) has said, “He who can guarantee me five things, I
 will guarantee for him Paradise … *Nasihah* for Allah The Mighty and The
@@ -736,5 +652,4 @@ al-Bihar
 [^41]: Tustari quotes Imam al-Sadiq , “Whosoever performs his Ziyarah
 (at least) one time per month, will earn the reward of one hundred
 thousand martyrs like those slain in Badr.”
-
 

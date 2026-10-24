@@ -158,7 +158,6 @@ Therefore, fasting is an all-ecompassing education whose social,
 spiritual, hygienic, economic and various other dimensiom which if
 properly observed guarantee blissful harmony for the human race.
 
-
 **Fasting - Key To a Good Health**
 
 Fasting also has its advantages from the point of view of health and
@@ -209,7 +208,6 @@ of the fast at the time prescribed. Of course to ensure good health one
 should abstain
 
 from gluttony after breaking fast. \*
-
 
 **REPENTANCE**
 
@@ -267,5 +265,4 @@ by all this and have hearts full of cruelty, obstinacy and misery as:
 
 "... indeed, miserable is the one who is deprived of Allah s
 forgiveness during this great month..." \*
-
 

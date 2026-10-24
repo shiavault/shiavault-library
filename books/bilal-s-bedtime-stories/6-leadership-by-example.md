@@ -56,4 +56,3 @@ The Imam set a noble example of good leadership.
 
 “Ignorance is the most hateful enemy”. - Imam Ali (a)
 
-

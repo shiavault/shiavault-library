@@ -350,4 +350,3 @@ which will follow his appearance. That will be so because wherever
 justice is established, man's contact with nature blooms and a new
 relationship between man and nature is established.
 
-

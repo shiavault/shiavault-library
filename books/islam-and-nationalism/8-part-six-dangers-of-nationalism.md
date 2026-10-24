@@ -204,4 +204,3 @@ London, 1950, p. 8.
 
 [^3]: Brown: The Spread of Islam.
 
-

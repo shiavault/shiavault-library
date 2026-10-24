@@ -26,7 +26,6 @@ Almighty"
 "USALLI (I pray) two Rak'ats of SALA of TAWAAF AL-NISAA', seeking
 nearness to Allah Almighty."
 
-
 **Two points**
 
 There is no objection to staying in MINA on the 10th day, the Eid Day,
@@ -43,7 +42,6 @@ scent and perfume, etc. except two things:
 2. Uprooting the trees and vegetation of the Holy Mosque (this because
 of the sanctity of the Mosque rather than the restriction of the
 IHRAAM).
-
 
 **12. MABEET in MINA**
 
@@ -66,5 +64,4 @@ If the HAAJJ does not perform MABEET in MINA, (stay in MINA) he must
 pay CAFFARAH of one sheep per day, and in that case he would have
 committed disobedience if he intentionally did not stay in MINA but his
 HAJJ will correct.
-
 

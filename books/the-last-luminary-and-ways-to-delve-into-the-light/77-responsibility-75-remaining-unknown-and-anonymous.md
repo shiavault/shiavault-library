@@ -8,23 +8,15 @@ prevent the believer from ease and free time.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِ اسْتَطَعْتَ أَنْ لاَ يَعْرِفَكَ أَحَدٌ فَافْعَلْ
-  </p>
-</blockquote>
+> إِنِ اسْتَطَعْتَ أَنْ لاَ يَعْرِفَكَ أَحَدٌ فَافْعَلْ
 
 “If you are able remain unknown to others, then do so.”[^1]
 
 Jabir b. ‘Abdullah al-AnSari said to Imam Muhammad b. ‘Ali al-Baqir
 (as):
 
-<blockquote dir="rtl">
-  <p>
-يَابْنَ رَسُولِ اللٌّهِ مَا أَفْضَلُ مَا يَسْتَعْمِلُهُ الْمُؤْمِنُ
-فِي ذٌلِكَ الزَّمَانِ؟ قَالَ: حِفْظُ اللِّسَانِ وَ لُزُومُ الْبَيْتِ
-  </p>
-</blockquote>
+> يَابْنَ رَسُولِ اللٌّهِ مَا أَفْضَلُ مَا يَسْتَعْمِلُهُ الْمُؤْمِنُ
+> فِي ذٌلِكَ الزَّمَانِ؟ قَالَ: حِفْظُ اللِّسَانِ وَ لُزُومُ الْبَيْتِ
 
 “O’son of the Messenger of Allah! What is the best action which a true
 believer can perform in that period (of the occultation of the Imam)?”
@@ -33,13 +25,9 @@ unknown to the people).”[^2]
 
 The Commander of the Faithful ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-وَ ذٌلِكَ زَمَانٌ لاَ يَنْجُو فِيهِ إِلاَّ كُلُّ مُؤْمِنٍ نُوَمَةٍ
-إِنْ شَهِدَ لَمْ يُعْرَفْ وَ إِنْ غَابَ لَمْ يُفْتَقَدْ، أُولٌئِكَ
-مَصَابِيحُ الْـهُدى
-  </p>
-</blockquote>
+> وَ ذٌلِكَ زَمَانٌ لاَ يَنْجُو فِيهِ إِلاَّ كُلُّ مُؤْمِنٍ نُوَمَةٍ
+> إِنْ شَهِدَ لَمْ يُعْرَفْ وَ إِنْ غَابَ لَمْ يُفْتَقَدْ، أُولٌئِكَ
+> مَصَابِيحُ الْـهُدى
 
 “During that time (the occultation), none will be saved except the
 anonymous believers who, when they are present, will not be recognized
@@ -52,5 +40,4 @@ no. 1 (with slight difference)
 [^2]: Kamal ad-Din wa Tamam an-Ni’mah, vol. 2, pg. 330
 
 [^3]: Nahj al-Balagha (Faidhul Islam), pg. 305, Speech 102
-
 

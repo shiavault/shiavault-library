@@ -243,4 +243,3 @@ is for the believer a comfort. Instead of forgetting or pretending to
 have forgotten it we must remember it continuously for the good results
 it has, which we have mentioned previously.
 
-

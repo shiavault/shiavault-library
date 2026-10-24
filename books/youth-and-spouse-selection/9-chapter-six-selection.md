@@ -102,11 +102,7 @@ cause inconceivable regrets.
 
 Allah specifies the faithful as those who seek advice:
 
-<blockquote dir="rtl">
-  <p>
-و أمرهم شوري بينهم
-  </p>
-</blockquote>
+> و أمرهم شوري بينهم
 
 ***“And their rule is to take counsel among themselves.”***
 
@@ -156,11 +152,7 @@ that is to say, he may take the information and guidance, but the
 control and the decision must be in his own hand. Allah says about the
 Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-وشاورهم في الأمر فإذا عزمت فتوكل علي الله.
-  </p>
-</blockquote>
+> وشاورهم في الأمر فإذا عزمت فتوكل علي الله.
 
 *“And take counsel with them in the affair, so when you have decided,
 then place your trust in Allah;”*
@@ -209,7 +201,7 @@ selection, thy may bring damage. The intention is benevolent, but their
 practice is evil. Trusting them is harmful and the cause of repentance
 and agony.
 
-<span id="sad-specimen">[A Sad specimen](#sad-specimen)</span>
+[A Sad specimen](#sad-specimen)
 There was a person who was a well-wisher, having pure intention and
 lofty courage. Well-wishing and doing good to others and helping them
 were part of his attributes and he was a success in these deeds. Once,
@@ -373,7 +365,7 @@ Relatives are aware of the qualities, spirit, morality and character of
 a person sand one can make and investigation about the person in
 question through them.
 
-<span id="attention">[Attention](#attention)</span>
+[Attention](#attention)
 It is possible that the relatives and associated may not state the
 facts and may conceal any fault which they are aware of, due to the fear
 of the displeasure of the person or his family who might cone to know of
@@ -383,8 +375,8 @@ other phases of investigation. But if one gets satisfied that the person
 being counselled is a just and impartial one who does not hide the
 facts, he can be trusted.
 
-<span id="safe-and-sure-way">[A Safe And Sure
-Way](#safe-and-sure-way)</span>
+[A Safe And Sure
+Way](#safe-and-sure-way)
 If someone has a sincere friend among the relatives of the person he
 wishes to select, he has an advantage and a benefit, and a safe canal
 and way to reach his object.
@@ -524,11 +516,7 @@ and conditions of each other.
 
 The commander of believers Ali (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-ما أضمر أحد شيئا إلا ظهر في فلتات لسانه و صفحات وجهه.
-  </p>
-</blockquote>
+> ما أضمر أحد شيئا إلا ظهر في فلتات لسانه و صفحات وجهه.
 
 *“Whatever a person thinks about, is revealed by the slips of the tongue
 and facial expressions.”* [^2]
@@ -646,11 +634,7 @@ should not be given up by accepting such conditions. Do not tell
 yourself now I accept it, but I will not implement it afterwards,
 because the acceptance of a condition brings commitment:
 
-<blockquote dir="rtl">
-  <p>
-المومنين عند شروطهم.
-  </p>
-</blockquote>
+> المومنين عند شروطهم.
 
 *“The believers must practice upon their conditions (commitments)”.*
 
@@ -710,11 +694,7 @@ A man named Mughaira bin Shoba asked for the hand of a woman in
 marriage, but apparently he had not properly seen her. The prophet of
 Islam (S) said to him:
 
-<blockquote dir="rtl">
-  <p>
-لو نظرت إليها فإنه أحري أن يدوم بينكما .
-  </p>
-</blockquote>
+> لو نظرت إليها فإنه أحري أن يدوم بينكما .
 
 *“Had you seen her, there would have been more hope of a prolonged and
 durable agreement and understanding between you two (during you life).”*
@@ -723,11 +703,7 @@ durable agreement and understanding between you two (during you life).”*
 Likewise, the Prophet (S) said to one of his companions who wanted to
 propose a woman:
 
-<blockquote dir="rtl">
-  <p>
-أنظر إلي وجهها و كفيها.
-  </p>
-</blockquote>
+> أنظر إلي وجهها و كفيها.
 
 *“Look at her face and hands.”* [^7]
 
@@ -815,34 +791,18 @@ Ayatollah Ibrahim Amini writes in this connection:
 “The commander of believers Ali (a.s) offered two cycles of service fro
 the sake of Omen, thereafter, he used to repeat a hundred times:
 
-<blockquote dir="rtl">
-  <p>
-أستخير الله.
-  </p>
-</blockquote>
+> أستخير الله.
 
 *“I ask the beneficence from Allah.”*
 
 Then he used to recite this prayer:
 
-<blockquote dir="rtl">
-  <p>
-أللهم إني قد هممت بأمر قد علمته فإن كنت تعلم أنه خير لي في ديني و
-دنياي و
-  </p>
-</blockquote>
+> أللهم إني قد هممت بأمر قد علمته فإن كنت تعلم أنه خير لي في ديني و
+> دنياي و
 
-<blockquote dir="rtl">
-  <p>
-آخرتي فيسرخ لي و إن كنت تعلم إنه شر لي في ديني و دنياي و آخرتي فاصرفه
-  </p>
-</blockquote>
+> آخرتي فيسرخ لي و إن كنت تعلم إنه شر لي في ديني و دنياي و آخرتي فاصرفه
 
-<blockquote dir="rtl">
-  <p>
-عني. كرهت نفسي ذلك أم أحببت, فإنك تعلم و لا أعلم و أنت علام الغيوب.
-  </p>
-</blockquote>
+> عني. كرهت نفسي ذلك أم أحببت, فإنك تعلم و لا أعلم و أنت علام الغيوب.
 
 *“O Allah! I want to perform that work which you know. If you consider
 it good for my religion, world and hereafter, (then) provide the means
@@ -1170,11 +1130,7 @@ totally lost and there will also be a sin committed by him.
 The Qur’an and Islamic traditions indicated many points in this respect.
 Let us concentrate upon the following verse of Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-يا أيها الذين آمنوا لا تبطلوا صدقاتكم بالمن و الاذي.
-  </p>
-</blockquote>
+> يا أيها الذين آمنوا لا تبطلوا صدقاتكم بالمن و الاذي.
 
 ***“O you who believe! do not make your charity worthless by reproach
 and injury.”(2:264)***
@@ -1579,11 +1535,7 @@ nobility and freedom.
 
 Imam Hussain (a.s) said:
 
-<blockquote dir="rtl">
-  <p>
-إن لم يكن لكم دين و كنتم لا تخافون المعاد فكونوا أحرارا في دنياكم.
-  </p>
-</blockquote>
+> إن لم يكن لكم دين و كنتم لا تخافون المعاد فكونوا أحرارا في دنياكم.
 
 *“If you have no religion and you are not afraid of the Resurrection
 Day, then at least be free in* *your world.”* [^14]
@@ -1719,5 +1671,4 @@ time both the ceremonies can be held together.
 
 [^14]: Maqtal (by Kharazi) and Lohuf, cited in “Philosophy of Ethics”
 (by Martyr Mutahhari, p 163).
-
 

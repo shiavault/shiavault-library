@@ -48,4 +48,3 @@ agreed; they designed, decided and acted - there always hung a veil and
 they named this secrecy as a referendum ‘Ijma’. Tyranny stood at hand to
 come to their aid.
 
-

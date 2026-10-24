@@ -15,4 +15,3 @@ Bahlool replied, “You are a strange and stupid friend. Even though we
 have been friends for fifty years, you don't listen to me, but you
 listen to an ass.”
 
-

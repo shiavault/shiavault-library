@@ -588,12 +588,8 @@ In addition, in several verses, the Holy Qur’an informs of the fact that
 the God-perceiving nature [fiṭrat] of humans sometimes becomes stagnant
 and only awakens at critical moments:
 
-<blockquote dir="rtl">
-  <p>
-﴿فإِذا رَكِبُوا في الفُلْكِ دعوا اللهَ مُخلصينَ له الدّينَ فلمّا
-نجّاهم إِلی البرِّ إذا هم يُشركون﴾
-  </p>
-</blockquote>
+> ﴿فإِذا رَكِبُوا في الفُلْكِ دعوا اللهَ مُخلصينَ له الدّينَ فلمّا
+> نجّاهم إِلی البرِّ إذا هم يُشركون﴾
 
 ***“And when they embark in a ship they call upon Allah with sincerity,
 but when they are delivered to land and are saved, then [again] they
@@ -606,11 +602,7 @@ In addition, among the traditions of the Immaculates, there is mention
 of the innate ability of humankind to perceive God. For example, in
 exegesis of verse 30 of Sūrah Rūm, Imam Bāqir (‘a) has declared:
 
-<blockquote dir="rtl">
-  <p>
-فَطَرَهُمْ عَلَی المَعْرِفَة.
-  </p>
-</blockquote>
+> فَطَرَهُمْ عَلَی المَعْرِفَة.
 
 “***God has established in the nature of humans understanding of
 Himself.”***[^20]
@@ -648,22 +640,14 @@ signs of God. These verses consider the existing order and organization
 in the world and in humankind a justification and beacon that may guide
 the wise towards the Divine Origin of the world:
 
-<blockquote dir="rtl">
-  <p>
-﴿اِنَّ فِي خَلقِ السَماواتِ و الأَرضِ و اختلافِ اللّيلِ و النّهارِ
-لَأَياتٍ لِأولِي الأَلبابِ﴾
-  </p>
-</blockquote>
+> ﴿اِنَّ فِي خَلقِ السَماواتِ و الأَرضِ و اختلافِ اللّيلِ و النّهارِ
+> لَأَياتٍ لِأولِي الأَلبابِ﴾
 
 ***“Surely in the creation of the heavens and earth and in the
 alternation of night and day there are [convincing] signs for people
 possessed of minds.”***[^24]
 
-<blockquote dir="rtl">
-  <p>
-﴿وَ فِي الأرضِ آياتٌ لِلموقِنينَ وَ فِي أنفُسِكُم أفلا تُبصِرونَ﴾
-  </p>
-</blockquote>
+> ﴿وَ فِي الأرضِ آياتٌ لِلموقِنينَ وَ فِي أنفُسِكُم أفلا تُبصِرونَ﴾
 
 ***“And upon the earth there are [persuasive] signs for those having
 sure faith; and in yourselves; so do you not see?”***[^25]
@@ -924,11 +908,7 @@ founded upon the dependency of the world of contingents towards a God
 who is not dependent upon any being. For example, it has been stated in
 Sūrah Fāṭir:
 
-<blockquote dir="rtl">
-  <p>
-﴿يا أيّها النّاس أَنتم الفقراءُ إلی الله وَ اللهُ هُو الغنیُّ الحميدُ﴾
-  </p>
-</blockquote>
+> ﴿يا أيّها النّاس أَنتم الفقراءُ إلی الله وَ اللهُ هُو الغنیُّ الحميدُ﴾
 
 ***“O people! You are the ones that have need of Allah; and Allah is the
 All-sufficient, the All-laudable.”***[^42]
@@ -943,11 +923,7 @@ God—as the creator of the cosmos—in a manner that can be stated in the
 form of a logical argument. The Qur’an declares in argumentation against
 unbelievers:
 
-<blockquote dir="rtl">
-  <p>
-﴿اَم خُلِقوا مِنْ غَيرِ شَیْ‌ءٍ اَمْ هُمُ الخالِقُونَ﴾
-  </p>
-</blockquote>
+> ﴿اَم خُلِقوا مِنْ غَيرِ شَیْ‌ءٍ اَمْ هُمُ الخالِقُونَ﴾
 
 ***“Have they been created from nothing or are they [their own]
 creators?”***[^43]
@@ -1229,5 +1205,4 @@ relationship of “doubleness” is not transitive, because if “A” is double
 [^42]: - Sūrah Fāṭir 35:15.
 
 [^43]: - Sūrah Ṭūr 52:35.
-
 

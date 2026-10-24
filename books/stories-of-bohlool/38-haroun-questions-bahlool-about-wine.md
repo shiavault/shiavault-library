@@ -42,4 +42,3 @@ to punish its drinker.”
 The Khalifa was distressed at Bahlool's answer, and ordered the wine
 stock to be removed.
 
-

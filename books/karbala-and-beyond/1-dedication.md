@@ -1,89 +1,33 @@
 Dedication
 ==========
 
-<blockquote dir="rtl">
-  <p>
-اللــهمـ صـــلِ عــلى محـــمـــد وآل محمد
-  </p>
-</blockquote>
+> اللــهمـ صـــلِ عــلى محـــمـــد وآل محمد
 
-<blockquote dir="rtl">
-  <p>
-السلام على الشيب الخضيب
-  </p>
-</blockquote>
+> السلام على الشيب الخضيب
 
-<blockquote dir="rtl">
-  <p>
-السلام على الخد التريب
-  </p>
-</blockquote>
+> السلام على الخد التريب
 
-<blockquote dir="rtl">
-  <p>
-السلام على البدن السليب ، السلام على الثغر المقروع بالقضيب
-  </p>
-</blockquote>
+> السلام على البدن السليب ، السلام على الثغر المقروع بالقضيب
 
-<blockquote dir="rtl">
-  <p>
-السلام على الرأس المرفوع
-  </p>
-</blockquote>
+> السلام على الرأس المرفوع
 
-<blockquote dir="rtl">
-  <p>
-السلام على الاجسام العارية في الفلوات
-  </p>
-</blockquote>
+> السلام على الاجسام العارية في الفلوات
 
-<blockquote dir="rtl">
-  <p>
-السلام على المرمل بالدماء
-  </p>
-</blockquote>
+> السلام على المرمل بالدماء
 
-<blockquote dir="rtl">
-  <p>
-السلام على المهتوك الخباء
-  </p>
-</blockquote>
+> السلام على المهتوك الخباء
 
-<blockquote dir="rtl">
-  <p>
-السلام على خامس أصحاب الكساء السلام على غريب الغرباء
-  </p>
-</blockquote>
+> السلام على خامس أصحاب الكساء السلام على غريب الغرباء
 
-<blockquote dir="rtl">
-  <p>
-السلام على شهيد الشهداء
-  </p>
-</blockquote>
+> السلام على شهيد الشهداء
 
-<blockquote dir="rtl">
-  <p>
-السلام على قتيل الأدعياء
-  </p>
-</blockquote>
+> السلام على قتيل الأدعياء
 
-<blockquote dir="rtl">
-  <p>
-السلام على ساكن كربلاء
-  </p>
-</blockquote>
+> السلام على ساكن كربلاء
 
-<blockquote dir="rtl">
-  <p>
-السلام على من بكته ملائكة السماء
-  </p>
-</blockquote>
+> السلام على من بكته ملائكة السماء
 
-<blockquote dir="rtl">
-  <p>
-السلام عليك يا أبا عبد الله
-  </p>
-</blockquote>
+> السلام عليك يا أبا عبد الله
 
 O Allah! Bless Muhammad and the progeny of Muhammad
 
@@ -102,73 +46,28 @@ who resides in Karbala’.
 Peace with the one mourned by the angels of the heavens. Peace with you,
 O Father of Abdullah…
 
-<blockquote dir="rtl">
-  <p>
-اللهم صلي على محمد و آل محمد
-  </p>
-</blockquote>
+> اللهم صلي على محمد و آل محمد
 
-<blockquote dir="rtl">
-  <p>
-السلام على الشيب الخضيب
-  </p>
-</blockquote>
+> السلام على الشيب الخضيب
 
-<blockquote dir="rtl">
-  <p>
-السلام على الخد التريب
-  </p>
-</blockquote>
+> السلام على الخد التريب
 
-<blockquote dir="rtl">
-  <p>
-السلام على البدن السليب
-  </p>
-</blockquote>
+> السلام على البدن السليب
 
-<blockquote dir="rtl">
-  <p>
-السلام على الثغر المقروع بالقضيب
-  </p>
-</blockquote>
+> السلام على الثغر المقروع بالقضيب
 
-<blockquote dir="rtl">
-  <p>
-السلام على الرأس المرفوع
-  </p>
-</blockquote>
+> السلام على الرأس المرفوع
 
-<blockquote dir="rtl">
-  <p>
-السلام على الاجسام العارية في الفلوات
-  </p>
-</blockquote>
+> السلام على الاجسام العارية في الفلوات
 
-<blockquote dir="rtl">
-  <p>
-السلام على المرمل بالدماء
-  </p>
-</blockquote>
+> السلام على المرمل بالدماء
 
-<blockquote dir="rtl">
-  <p>
-السلام على المهتوك الخباء
-  </p>
-</blockquote>
+> السلام على المهتوك الخباء
 
-<blockquote dir="rtl">
-  <p>
-السلام على خامس أصحاب الكساء السلام على غريب الغرباء
-  </p>
-</blockquote>
+> السلام على خامس أصحاب الكساء السلام على غريب الغرباء
 
-<blockquote dir="rtl">
-  <p>
-السلام على شهيد الشهداء
-  </p>
-</blockquote>
+> السلام على شهيد الشهداء
 
 [^1]: For meanings of Islamic terms, refer to the Glossary at the end of
 this book.
-
 

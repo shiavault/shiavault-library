@@ -261,4 +261,3 @@ interested in satisfying intellectual quest or sharpening wits. And that
 is what the enemy wishes. Otherwise if the question is discussed in a
 learned manner, there is no reason why it should become a pursuit?
 
-

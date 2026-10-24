@@ -1,10 +1,6 @@
 Ka’b and Umar:
 ==============
 
-  
-  
-  
-
 On his arrival to al-Madinah and announcing his Islam, during the reign
 of Umar, Ka’b embarked on employing his sagacity and cunning for
 
@@ -15,7 +11,7 @@ The fact that prompted him to narrate and fabricate hadith was that Umar
 ibn al-Khattab, in the beginning of his rule, used to listen and heed to
 him, taking into consideration his becoming a Muslim of true faith, the
 fact pushing him to falsify as many as he could of traditions. Ibn
-Kathir says: <span id="_anchor_264"></span>264 “When Ka’b embraced Islam
+Kathir says: 264 “When Ka’b embraced Islam
 during government of Umar, he started to relate hadith to Umar, who used
 to pay attention to him, the fact that paved the way before people to
 listen to his narrations and convey his fabricated weak traditions.”
@@ -23,7 +19,7 @@ listen to his narrations and convey his fabricated weak traditions.”
 But so soon Umar took notice of his stratagem and discovered his evil
 intention, when he forbade him from narrating the hadith, threatening
 him with exile to the land of apes shouldn’t he leave reporting hadith
-from the first. <span id="_anchor_265"></span>265
+from the first. 265
 
 Despite Umar’s lying in wait for this crafty man with his decisiveness
 and wisdom, penetrating into his wicked designs through his insight and
@@ -33,15 +29,15 @@ good intention. So he continued to hatch plots, secretly and openly,
 till they were concluded with murder of Umar. All evidences indicate
 clearly that this murder was a plot engineered by an underground
 society, among whose senior members being this cunning man, and headed
-by Hormuzan, King of Khozustan, <span id="_anchor_266"></span>266 who
+by Hormuzan, King of Khozustan, 266 who
 was brought as a captive to the Medina. The execution of this plot was
 entrusted to the non-Arab Abu Lu’lu’ah.
 
 ### Murder of Umar and Ka’b’s Hand in It:
 
-Al-Musawwar ibn Makhramah <span id="_anchor_267"></span>267 reported
+Al-Musawwar ibn Makhramah 267 reported
 that when Umar went home after being threatened by Abu Lu’lu’ah, he was
-visited by Ka’b al-Ahbar <span id="_anchor_268"></span>268 who said to
+visited by Ka’b al-Ahbar 268 who said to
 him: O Amir al-Mu’minin, I am certain that you will die within three
 nights. (According to al-Tabari’s narration: three days). He said:
 
@@ -66,28 +62,26 @@ Nahavand captives.
 In a narration reported by Abu Ishaq from Ibn Sa’d, it is said: Ka’b
 came to Umar and said to him: “Haven’t I told you that you will never
 die but only as a martyr while you say: “How would that happen while I
-be in the Arab Peninsula?” <span id="_anchor_269"></span>269
+be in the Arab Peninsula?” 269
 
 I present here an unusual report conveyed by this priest, that can
 eradicate any doubt you may have regarding his collaboration in this
 conspiracy. Al-Khatib reported on the authority of Malik, that Umar
 entered upon his wife Umm Kulthum one day, and saw her weeping, when he
-said: What is the reason of your crying? She replied: This Jew, <span
-id="_anchor_270"></span>270 i.e. Ka’b al-Ahbar ... he says that you will
+said: What is the reason of your crying? She replied: This Jew, 270 i.e. Ka’b al-Ahbar ... he says that you will
 stand (on Doomsday) at one of Fire gates. Umar said: Masha’Allah! Then
 he went out and sent for Ka’b al-Ahbar, who came to him and said: O Amir
 al-Mu’minin, do not speed things up. By Him in Whose hand is my soul,
 (month of) Dhu al-Hijjah will never end till you enter paradise. Umar
 said: What is that (you say)? Once you say I will be in paradise, and
 another time in Fire?! Ka’b said: O Amir al-Mu’minin, by Him in Whose
-hand is my soul, we find you in the Book of Allah <span
-id="_anchor_271"></span>271 (standing) at one of the hell gates
+hand is my soul, we find you in the Book of Allah 271 (standing) at one of the hell gates
 preventing people from breaking into it. When you die,
 
 they will continue breaking into it till the Day of Resurrection! After
 his death, Ka’b came and started weeping at the door (of Umar’s house),
 saying: by God, had Amir al-Mu’minin asked Allah to delay his death He
-would have surely done this. <span id="_anchor_272"></span>272
+would have surely done this. 272
 
 His oath – may God curse him – came true, as Umar was killed on
 Wednesday, only four nights left of Dhu al-Hijjah, in 23 Hijrah and was
@@ -105,16 +99,14 @@ executing it.
 ### Hadith of Istisqa’:
 
 We learn from history (books) that a very extreme dearth and barrenness
-occurred to the land during caliphate of Umar, in the Ramadah <span
-id="_anchor_273"></span>273 Year, Ka’b didn’t miss this chance without
+occurred to the land during caliphate of Umar, in the Ramadah 273 Year, Ka’b didn’t miss this chance without
 exploiting it as a means for directing to Islam one of his fierce stabs.
 So he said to Umar: When the Children of Israel were afflicted with such
 a calamity, they would seek water (from God) through the prophets’ ismah
 (infallibility). Hence many narrations were reported stating that Umar
 said: This is the uncle of the Messenger of Allah, and full brother of
 his father, and doyen of Banu Hashim: al-Abbas. Then they betook
-themselves to him and sought water. Anas <span
-id="_anchor_274"></span>274 said that the words uttered by Umar in this
+themselves to him and sought water. Anas 274 said that the words uttered by Umar in this
 istisqa’: (O God) We used to implore You with our Prophet and You give
 us water, and now we beseech You with the uncle of our Prophet, and You
 will give us water.
@@ -142,13 +134,12 @@ departing his place it started to raining.
 Al-Shi’bi said: Umar went out for istisqa’ with people, but he sufficed
 only with asking forgiveness till coming back. People began to inquire:
 O Amir al-Mu’minin, but you haven’t implored God to provide us with
-water? He said: I asked for rain through the sky majadih <span
-id="_anchor_275"></span>275 (extreme parts, roots) from which rain is
+water? He said: I asked for rain through the sky majadih 275 (extreme parts, roots) from which rain is
 sought to come down. Then he cited the verse: “...Seek ye the
 forgiveness of your Lord! Verily He is the Most-Forgiving. He will send
 (down) upon you the cloud raining in torrents.” Then he cited: “And that
 Seek ye the forgiveness of your Lord, then turn ye unto Him repentant.”
-(11:3) <span id="_anchor_276"></span>276
+(11:3) 276
 
 Al-Shi’bi says: He (Umar) went out for asking God to send down
 rainwater. Then he ascended the minbar (pulpit) and cited the following
@@ -173,12 +164,12 @@ asking for pardon and forgiveness. Then as he intended to return, he
 raised his hands toward the sky, converting his cloak putting the right
 side on the left, and vice versa. Thereat he extended his hand,
 persisting in supplication and invocation, weeping bitterly and shedding
-tears till his beard was moistened. <span id="_anchor_277"></span>277
+tears till his beard was moistened. 277
 
 Further it is reported in al-Mughni and al-Sharh al-kabir, that Umar
 went out for seeking rainwater (from God), but his invocation was no
 more than seeking forgiveness, exclaiming: I have asked for rainwater
-from the sky majadih. <span id="_anchor_278"></span>278
+from the sky majadih. 278
 
 Al-Jahiz said: When Umar ascended the minbar gripping al-Abbas’s hand on
 the day of istisqa’, he sufficed with invocation and prayer. It was said
@@ -186,7 +177,7 @@ to him: You have never sought rainwater but only asking for forgiveness.
 He said: I asked for rainwater through the sky majadih. Then he cited
 the holy verse: “Seek ye the forgiveness of your Lord! Verily He is the
 Most-Forgiving. He will send (down) upon you the cloud raining in
-torrents.” <span id="_anchor_279"></span>279
+torrents.” 279
 
 If the case was truly in this way, no harm in it as long as all of them
 were invoking Allah. It is almost certain that Umar has never pleaded

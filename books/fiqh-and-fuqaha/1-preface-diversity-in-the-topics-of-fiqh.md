@@ -36,4 +36,3 @@ diverse component of Fiqh as parts interwoven into one fabric, with a
 single aim to guide mankind in respect of its duties and
 responsibilities towards Allah.
 
-

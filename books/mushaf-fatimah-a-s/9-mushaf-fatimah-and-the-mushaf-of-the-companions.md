@@ -155,4 +155,3 @@ words. Accordingly, the Qur'an is superior to the hadith-i qudsi,
 because it is the actual Word of God.” Quoted in Outlines of the
 development of the science of hadith, M. Awliya’I, Al-Towhid, vols.1-3.
 
-

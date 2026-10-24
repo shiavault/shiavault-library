@@ -270,4 +270,3 @@ Saqifah.
 **29th December 1913**  
 **Gaya, Bihar, India**
 
-

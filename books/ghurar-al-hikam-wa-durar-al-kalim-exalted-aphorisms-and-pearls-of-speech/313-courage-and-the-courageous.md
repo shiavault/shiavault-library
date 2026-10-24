@@ -31,11 +31,7 @@ Courage And The Courageous
 of honour is equivalent to his zeal.
 
 > 7ـ شَجاعَةُ الرَّجُلِ على قَدْرِ هِمَّتِهِ، وَ غَيْرَتُهُ على قَدْرِ
-<blockquote dir="rtl">
-  <p>
-حَمِيَّتِهِ.
-  </p>
-</blockquote>
+> حَمِيَّتِهِ.
 
 8. It is to the extent of [one’s] zeal that courage is shown.
 
@@ -49,5 +45,4 @@ champions.
 10. The bane of courage is loss of resolve.
 
 > 10ـ آفَةُ الشُّجاعِ إضاعَةُ الْحَزْمِ.
-
 

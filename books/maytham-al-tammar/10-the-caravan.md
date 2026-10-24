@@ -14,4 +14,3 @@ The spies told Yazeed about the situation in Kufa. Yazeed had a spiteful
 Christian doctor called Sergon. He asked the advice of the doctor.
 Sergon advised him to appoint Ubaidullah bin Ziyad a ruler over Kufa.
 
-

@@ -167,4 +167,3 @@ infidels, it is mortality. The faithful will always enjoy the pleasures
 of Paradise, but the infidel will ever remain in the Hell, suffering its
 torments (Hell Fire)." [Sayyid, Hadi Husayn (1988)]
 
-

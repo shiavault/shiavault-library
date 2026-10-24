@@ -65,4 +65,3 @@ reappearance.
 
 **Islamic Truths Center**
 
-

@@ -20,9 +20,7 @@ Latin grammar traditionally numbers the different classes of
 conjugation. De Sacy is careful to make clear in his presentation the
 verb forms that they fall into groups of
 
-<p dir="rtl">
 ** المزيد بحرف ، المزيد بحرفين، المزيد بثبلثةِ حُروف**
-</p>
 
 Most verbs in Arabic can be classified into ten forms. These forms are:
 
@@ -46,5 +44,4 @@ Dhamma and Kasra.
 ARAFORM. You will find it and other programs at the following website:*
 
 **www.mtholyoke.edu/courses/mjiyad/**
-
 

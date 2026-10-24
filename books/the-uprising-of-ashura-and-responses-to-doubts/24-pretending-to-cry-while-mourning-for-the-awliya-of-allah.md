@@ -11,11 +11,7 @@ by those who actually cry. It has been recounted that the Noble Prophet
 (S) recited the last part of the *Surat al-Zumar* for a sizable number
 of the Helpers [*ansar*],
 
-<blockquote dir="rtl">
-  <p>
-﴿ وفَسيقَ الَّذينَ کَفَرُوا إِلى جَهَنَّمَ زُمَراً ﴾
-  </p>
-</blockquote>
+> ﴿ وفَسيقَ الَّذينَ کَفَرُوا إِلى جَهَنَّمَ زُمَراً ﴾
 
 *“And those who disbelieved shall be driven to hell in companies.”*[^1]
 
@@ -23,22 +19,14 @@ All the people who were present cried except one youth. The youth said,
 “Tears did not flow from my eyes, but I pretended to cry.” The Holy
 Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«من تباکی فله الجنّة.»
-  </p>
-</blockquote>
+> «من تباکی فله الجنّة.»
 
 “Whoever feigns to cry will be rewarded with Paradise.”[^2]
 
 Jarir narrates that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«إنّي قاري عليکم ﴿ ألْهکُمُ التَّکَاثُرْ ﴾ من بکی فله الجنّة ومن تباکی
-فله الجنّة.»
-  </p>
-</blockquote>
+> «إنّي قاري عليکم ﴿ ألْهکُمُ التَّکَاثُرْ ﴾ من بکی فله الجنّة ومن تباکی
+> فله الجنّة.»
 
 “Verily, I am reciting *Surat* *al-Takathur*. Paradise will become
 incumbent upon whoever cries and whoever feigns to cry.”[^3]
@@ -49,11 +37,7 @@ himself to cry, but without the intention of acting hypocritically.”[^4]
 Mir Sayyid Sharif Jurjani says, “The source of feigning to cry is the
 word of the Prophet (S), who said,
 
-<blockquote dir="rtl">
-  <p>
-«إن لم تبکوا فتباکوا.»
-  </p>
-</blockquote>
+> «إن لم تبکوا فتباکوا.»
 
 “If you cannot cry, then give the appearance of crying.”
 
@@ -66,21 +50,13 @@ that feigning to cry with correct intention is desirable.
 
 Imam al-Sadiq (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«من تباکی فله الجنّة.»
-  </p>
-</blockquote>
+> «من تباکی فله الجنّة.»
 
 “Any who feigns to cry will be rewarded with Paradise.”[^6]
 
 And he also said,
 
-<blockquote dir="rtl">
-  <p>
-«... ومن أنشد في الحسين شعراً فتباکی فله الجنة.»
-  </p>
-</blockquote>
+> «... ومن أنشد في الحسين شعراً فتباکی فله الجنة.»
 
 “… and Paradise becomes incumbent on any person that recites elegies and
 presents the appearance of crying for al-Husayn (as).”[^7]
@@ -98,5 +74,4 @@ presents the appearance of crying for al-Husayn (as).”[^7]
 [^6]: Saduq, Al-Amali, p. 86, majlis 29.
 
 [^7]: Bihar al-Anwar, vol. 44, p. 282.
-
 

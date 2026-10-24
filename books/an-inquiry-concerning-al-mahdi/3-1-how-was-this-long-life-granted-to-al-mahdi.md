@@ -237,4 +237,3 @@ day.
 Why then should we accept Noah, who must have reached a thousand years
 at least, and yet reject al-Mahdi?
 
-

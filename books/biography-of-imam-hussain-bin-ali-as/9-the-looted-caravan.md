@@ -889,4 +889,3 @@ up every kind of rejoicing. The mourning for the holy Imam is observed
 through organized congregations called 'MAJALIS-E-AZA' or the Mourning
 Congregations.
 
-

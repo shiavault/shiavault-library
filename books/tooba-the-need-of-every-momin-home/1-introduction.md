@@ -20,4 +20,3 @@ from Jahannam for the sake of my brother and my daughter. On these
 leaves it is written:*From Ali-al-Jabbaar (Allah) for the Shias of Ali
 (s.a.) & Fatima (s.a.): Immunity from Fire.*
 
-

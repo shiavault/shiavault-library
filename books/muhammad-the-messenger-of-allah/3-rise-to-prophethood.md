@@ -78,4 +78,3 @@ of the immense spiritual powers they had, through which they perceived
 the truth during sleep and wakefulness. That was in addition to the
 divine inspiration and the guidance of the Holy Spirit.
 
-

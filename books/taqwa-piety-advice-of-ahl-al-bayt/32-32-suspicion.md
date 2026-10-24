@@ -186,4 +186,3 @@ them.”[^11]
 
 [^11]: Bihar al-Anwar, vol. 72, p. 197.
 
-

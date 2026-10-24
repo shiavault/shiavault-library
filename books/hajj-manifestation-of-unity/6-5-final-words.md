@@ -33,10 +33,8 @@ dimensions from the mystical to the political - or rather, the political
 based on the mystical and the exoteric on the esoteric. God tells His
 beloved Prophet (S):
 
-<p dir="rtl">
 قُلْ إِنَّمَا أَعِظُكُمْ بِوَاحِدَةٍ أَنْ تَقُومُوا لِلَّهِ مَثْنَىٰ
 وَفُرَادَىٰ ثُمَّ تَتَفَكَّرُوا …
-</p>
 
 ***Say, ‘I advise you just with one [thing]: that you rise up for God,
 in twos, or individually, then reflect…’ (Qur’an 34:46)***
@@ -70,11 +68,8 @@ of our potential - of what we could be in breadth and depth, quantity
 and quality, dunya and akhirah - if only we witnessed His signs and
 believed in His word during the rest of our lives as we do in the Hajj.
 
-<p dir="rtl">
 وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا …
-</p>
 
 ***Hold fast, all together, to God’s cord, and do not be divided [into
 sects]. (Qur’an 3:103)***
-
 

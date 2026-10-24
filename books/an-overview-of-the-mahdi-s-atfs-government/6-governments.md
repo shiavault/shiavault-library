@@ -150,12 +150,8 @@ governments will be weakened and this will pave the way for the people’s
 acceptance of the global government of Hadrat Mahdi. In this regard,
 Imam as-Sajjad[^17] (*‘a*) has said concerning the noble *ayah* (verse):
 
-<blockquote dir="rtl">
-  <p>
-﴿ حَتَّى إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ
-نَاصِرًا وَأَقَلُّ عَدَدًا ﴾
-  </p>
-</blockquote>
+> ﴿ حَتَّى إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ
+> نَاصِرًا وَأَقَلُّ عَدَدًا ﴾
 
 *“When they see what they are promised, they will then know who is
 weaker in supporters and fewer in numbers.”*[^18]
@@ -243,5 +239,4 @@ Advanced Studies Press, 2004). (Trans.)
 [^19]: Al-Kafi, vol. 1, p. 431; Nur ath-Thaqalayn, vol. 5, p. 441; Ihqaq
 al-Haqq, vol. 13, p. 329; Yanabi‘ al-Mawaddah, p. 429; Al-Muhajjah, p.
 132.
-
 

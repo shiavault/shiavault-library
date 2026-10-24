@@ -27,13 +27,9 @@ between different elements of Muslims; in other words, being united and
 one and only one. As is narrated in the traditions of the Prophet and
 the Infallibles:
 
-<blockquote dir="rtl">
-  <p>
-’’مَثَل الْمُوْمِنِينَ في تَوٰادِّھِمْ وَتَرَاحُمِھِمْ کَمَثَلِ
-الْجَسَدِاِذاشْتَکَي بَعْضُھُمْ تَدٰاعي سٰائِرُھُمْ
-بِالسَّہَرِوَالْحِميٰ۔‘‘
-  </p>
-</blockquote>
+> ’’مَثَل الْمُوْمِنِينَ في تَوٰادِّھِمْ وَتَرَاحُمِھِمْ کَمَثَلِ
+> الْجَسَدِاِذاشْتَکَي بَعْضُھُمْ تَدٰاعي سٰائِرُھُمْ
+> بِالسَّہَرِوَالْحِميٰ۔‘‘
 
 *The believers are like a single body and a single building. They should
 be fused together and be united against the obstacles and enmities from
@@ -49,12 +45,8 @@ Same point is inferred from the verse:
 
 Another Qur'anic verse elaborates it further:
 
-<blockquote dir="rtl">
-  <p>
-’’مُحَمَّد رَّسُوْلُ الله وَ الَّذِيْنَ مَعَہ اَشِدَّآئُ عَلَي
-الْکُفَّارِ رُحَمَآئُ بَيْنَہُمْ۔‘‘
-  </p>
-</blockquote>
+> ’’مُحَمَّد رَّسُوْلُ الله وَ الَّذِيْنَ مَعَہ اَشِدَّآئُ عَلَي
+> الْکُفَّارِ رُحَمَآئُ بَيْنَہُمْ۔‘‘
 
 ***Muhammad is the Prophet of Allah and those who are with him are
 extremely harsh with infidels and very kind to each other**.* [^3]
@@ -356,13 +348,9 @@ Imams are identified by name and their qualities; and other times a Wali
 is not spotted by name but is recognized either through another Wali or
 through association of certain qualities. As state by an Imam:
 
-<blockquote dir="rtl">
-  <p>
-اَمَّا مَنْ کٰانَ مِنَ الْفُقَھٰائِ‘صٰائِناً لِنَفْسِہِ حٰافِظاً
-لِدِيِنِہِ مُخٰالِفاً عَليٰ ھَوٰائُ مُطِيعاًلِاَمْرِمَولَاٰہُ
-فَلِلْعَوَامِ اَنْ يُقَلِّدُوہُ
-  </p>
-</blockquote>
+> اَمَّا مَنْ کٰانَ مِنَ الْفُقَھٰائِ‘صٰائِناً لِنَفْسِہِ حٰافِظاً
+> لِدِيِنِہِ مُخٰالِفاً عَليٰ ھَوٰائُ مُطِيعاًلِاَمْرِمَولَاٰہُ
+> فَلِلْعَوَامِ اَنْ يُقَلِّدُوہُ
 
 *When there is a theologian who is in control of his inner self, is
 protective of God's religion,* *opposes his carnal desires and obeys
@@ -444,13 +432,9 @@ power puts the whole society on the path to God, makes remembrance of
 Allah an integral part of the society; distributes wealth fairly;
 strives to spread good in the society and uproot evil.
 
-<blockquote dir="rtl">
-  <p>
-اَلَّذِيْنَ اِنْ مَّکَّنّٰہُمْ فِي الْاَرْضِ اَقَامُوا الصَّلٰوۃَ وَ
-ٰاتَوُا الزَّکٰوۃَ وَ اَمَرُوْا بِالْمَعْرُوْفِ وَ نَہَوْا عَنِ
-الْمُنْکَرِ وَ لِلّٰہِ عَاقِبَۃُ الْاُمُوْرِ
-  </p>
-</blockquote>
+> اَلَّذِيْنَ اِنْ مَّکَّنّٰہُمْ فِي الْاَرْضِ اَقَامُوا الصَّلٰوۃَ وَ
+> ٰاتَوُا الزَّکٰوۃَ وَ اَمَرُوْا بِالْمَعْرُوْفِ وَ نَہَوْا عَنِ
+> الْمُنْکَرِ وَ لِلّٰہِ عَاقِبَۃُ الْاُمُوْرِ
 
 ***These people - whom We give power - establish prayer, pay elms,
 enjoin what is right, forbid what is wrong; with Allah rests the end of
@@ -459,20 +443,12 @@ all affairs**.* [^7]
 These people whom We give authority on earth, establish prayer. Prayer
 is a sign of remembrance of Allah and society's attention towards Him.
 
-<blockquote dir="rtl">
-  <p>
-اَقَامُوا الصَّلٰوۃ
-  </p>
-</blockquote>
+> اَقَامُوا الصَّلٰوۃ
 
 *Establish prayer.* Take a step towards God; set their line of action
 according to the commands of Allah.
 
-<blockquote dir="rtl">
-  <p>
-وَ ٰاتَوُاالزَّکٰوۃ
-  </p>
-</blockquote>
+> وَ ٰاتَوُاالزَّکٰوۃ
 
 Distribute wealth fairly; pay elms. According to Qur'an the spectrum of
 *zakat* (elms) is very broad. It covers all kinds of financial charity.
@@ -480,11 +456,7 @@ This phrase as a whole demands balanced distribution of wealth in the
 society. There are other traditions regarding *zakat* that claim that it
 leads to equitable distribution of wealth in the society.
 
-<blockquote dir="rtl">
-  <p>
-وَ اَمَرُوْا بِالْمَعْرُوْفِ وَ نَہَوْعَنِ الْمُنْکَر
-  </p>
-</blockquote>
+> وَ اَمَرُوْا بِالْمَعْرُوْفِ وَ نَہَوْعَنِ الْمُنْکَر
 
 Proliferating good, fostering good deeds and eliminating evil are the
 qualities of these rulers.
@@ -525,5 +497,4 @@ Leader of the martyrs but repented afterwards for not doing so.
 [^6]: Wasayl ush-Shi’a, vol 18, page 95.
 
 [^7]: Ch. 22 Hajj, verse 41.
-
 

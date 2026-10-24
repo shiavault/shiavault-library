@@ -28,11 +28,7 @@ experience.
 safe from the victory of time over you.
 
 > 6ـ لاتَبْطِرَنَّ بِالظَّفَرِ، فَإنَّكَ لا تَأمَنُ ظَفَرَ الزَّمانِ
-<blockquote dir="rtl">
-  <p>
-بِكَ.
-  </p>
-</blockquote>
+> بِكَ.
 
 8. There is no victory for the one who has no patience.
 
@@ -41,5 +37,4 @@ safe from the victory of time over you.
 9. Victory is the intercessor of the guilty.
 
 > 8ـ اَلظَّفَرُ شافِعُ المُذْنِبِ.
-
 

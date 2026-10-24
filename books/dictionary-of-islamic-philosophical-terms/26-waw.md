@@ -138,4 +138,3 @@ differs from its existence, i.e. from
 the fact 'that it is'. [from "The Metaphysics of Ibn Sina" by Prof.
 Parviz Morewedge, p. 325. with minor changes.]
 
-

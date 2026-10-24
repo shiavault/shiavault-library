@@ -111,8 +111,6 @@ On the commentary of the noble Qur’anic verse (*ayah*):
 
 أَتَى أَمْرُ اللّهِ فَلاَ تَسْتَعْجِلُوهُ
 
-  
-
 ﴾
 
 *“Allah’s edict is coming! So do not seek to hasten it,”*[^11]
@@ -301,5 +299,4 @@ Ithbat al-Hudah, vol. 3, pp. 489, 541.
 
 [^17]: Yanabi‘ al-Mawaddah, p. 401. It is also recorded in Ibn Hammad,
 Fitan, p. 98; Muttaqi Hindi, Burhan, p. 157; Ibn Tawus, Malahim, p. 67.
-
 

@@ -131,4 +131,3 @@ whole realm of Islam was given to the Umayyad house to govern.
 
 74. Refer to his account in Usd al-ghabah 5/563.
 
-

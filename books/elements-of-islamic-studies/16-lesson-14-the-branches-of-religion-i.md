@@ -49,4 +49,3 @@ to those before you, that ye may exercise self-restraint”. (2:183)***
 ***“So every one of you who witnesses this month should fast in it”.
 (2:185)***
 
-

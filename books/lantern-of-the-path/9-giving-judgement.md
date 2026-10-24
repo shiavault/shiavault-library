@@ -45,5 +45,3 @@ and disagree about. Then he must have acute discrimination, sound
 action, wisdom, and precaution. If he has these things, then let him
 judge.
 
-
-

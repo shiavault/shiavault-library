@@ -2388,4 +2388,3 @@ was made for can grow and expand to all his fellow humans everywhere.
 [^8]: Alexis Carrel, "Man, the Unknown", Harpers, New York : 50th
 edition p.270.
 
-

@@ -1,16 +1,12 @@
 Discourse 30: Six Things Which Lead to Success
 ==============================================
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي الدَّرْدَاءِ قَالَ: خَطَبَنَا رَسُولَ اللٌّهِ يَوْمَ
-جُمْعَةِ، فَقَالَ: أَيُّهَا النَّاسُ، تُوبُوا إِلـى اللٌّهِِ قَبْلَ
-أَنْ تَمُوتُوا وَ بَادِرُوا بِالأََعْمَالِ الصَّالِحَةِ قَبْلَ أَنْ
-تَشْتَغِْلُوا وَ أَصْلِحُوا الَّذِي بَيْنَكُمْ وَ بَيْنَ رَبِّكُمْ
-تَسْعَدُوا وَ أَكْثِرُوا مِنَ الصَّدَقَةِ تُرْزَقُوا وَ أْمُرُوا
-بِالْمَعْرُوفِ تُحصَـنُوا وَ انْتَهُوا عَنِ الْمُنْكَرِ تُنْصَرُوا.
-  </p>
-</blockquote>
+> عَنْ أَبِي الدَّرْدَاءِ قَالَ: خَطَبَنَا رَسُولَ اللٌّهِ يَوْمَ
+> جُمْعَةِ، فَقَالَ: أَيُّهَا النَّاسُ، تُوبُوا إِلـى اللٌّهِِ قَبْلَ
+> أَنْ تَمُوتُوا وَ بَادِرُوا بِالأََعْمَالِ الصَّالِحَةِ قَبْلَ أَنْ
+> تَشْتَغِْلُوا وَ أَصْلِحُوا الَّذِي بَيْنَكُمْ وَ بَيْنَ رَبِّكُمْ
+> تَسْعَدُوا وَ أَكْثِرُوا مِنَ الصَّدَقَةِ تُرْزَقُوا وَ أْمُرُوا
+> بِالْمَعْرُوفِ تُحصَـنُوا وَ انْتَهُوا عَنِ الْمُنْكَرِ تُنْصَرُوا.
 
 It has been narrated from Abil Darda' that: “The Messenger of Allah (S)
 spoke to us on Jumu'ah and said, “O' People!  Turn back to Allah (in
@@ -33,13 +29,9 @@ servants. How beautifully has Imam 'Ali b. al-Husain as-Sajjad (as) put
 it in his Munajat of the Taibin (Whispered Prayer of Those who Turn in
 Repentance to Allah) where he calls out:
 
-<blockquote dir="rtl">
-  <p>
-إِلٌهي، أَنْتَ الَّذِي فَتَحْتَ لِعِبَادِكَ بَاباً إِلـى عَفْوِكَ
-سَمَّيْتَهُ التَّوْبَةَ، فَقُــلْتَ: تُوبُوا إِلـى اللٌّهِ تَوْبَةً
-نَصُوحاً  فَمَا عُذْرُ مَنْ أَغْفَلَ دُخُولَ الْبَابِ بَعْدَ فَتْحِهِ؟
-  </p>
-</blockquote>
+> إِلٌهي، أَنْتَ الَّذِي فَتَحْتَ لِعِبَادِكَ بَاباً إِلـى عَفْوِكَ
+> سَمَّيْتَهُ التَّوْبَةَ، فَقُــلْتَ: تُوبُوا إِلـى اللٌّهِ تَوْبَةً
+> نَصُوحاً  فَمَا عُذْرُ مَنْ أَغْفَلَ دُخُولَ الْبَابِ بَعْدَ فَتْحِهِ؟
 
 “O' my Lord!  You are the One who has opened up for Your servants the
 door towards Your forgiveness and You named it Tawbah when You said, {
@@ -54,12 +46,8 @@ immediately after we have committed a sin, we must turn back to Allah
 them.  
  In the Noble Qur\`an, we read the following verse:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَــا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَداً وَ مَا تَدْرِي نَفْسٌ
-بِأَيِّ أَرْضٍ تَمُوتُ
-  </p>
-</blockquote>
+> وَ مَــا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَداً وَ مَا تَدْرِي نَفْسٌ
+> بِأَيِّ أَرْضٍ تَمُوتُ
 
 “And no soul knows what it shall earn tomorrow and no soul knows in
 which land it shall die.”[^3]
@@ -82,11 +70,7 @@ wake up in the middle of the night and in the calm of the night, pray
 and ask for one's needs from Allah (SwT) and pour out his heart to Him -
 and in the words of the Qur\`an one sould be:
 
-<blockquote dir="rtl">
-  <p>
-مُسْتَغْفِرِينَ بِالأََسْحَارِ
-  </p>
-</blockquote>
+> مُسْتَغْفِرِينَ بِالأََسْحَارِ
 
    
  ”Those who seek forgiveness in the early hours.”[^5]
@@ -141,12 +125,8 @@ with other people (and thus, whatever the people want will be what Allah
 wants). This fact can be seen in a hadith from the Commander of the
 Faithful,, 'Ali b. Abi Talib (as) in which he said: 
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَصْلَحَ بَيْنَهُ وَ بَيْنَ اللٌّهِِ، أَصْلَحَ اللٌّهُ مَا
-بَيْنَهُ وَ بَيْنَ النَّاسِ.
-  </p>
-</blockquote>
+> مَنْ أَصْلَحَ بَيْنَهُ وَ بَيْنَ اللٌّهِِ، أَصْلَحَ اللٌّهُ مَا
+> بَيْنَهُ وَ بَيْنَ النَّاسِ.
 
 “A person who corrects his relationship between oneself and Allah, Allah
 will correct the affairs between himself and the people.”[^6]
@@ -185,13 +165,9 @@ come upon us.
 These two important things have great benefit in them and in relation to
 them, the Commander of the Faithful,, 'Ali b. Abi Talib (as) has stated:
 
-<blockquote dir="rtl">
-  <p>
-وَ مَا أَعْمَالُ الْبِرِّ كُلُّهَا وَ الْجِهَادُ فِي سَبِيلِ اللٌّهِ،
-عِنْدَ الأََمْرِ بِالْمَعرُوفِ وَ النَّهْيِ عَنِ الْمُنْكَرِ، إِلاَّ
-كَنَفْثَةِ فِي بَحْرِ لُجِّيٍّ.
-  </p>
-</blockquote>
+> وَ مَا أَعْمَالُ الْبِرِّ كُلُّهَا وَ الْجِهَادُ فِي سَبِيلِ اللٌّهِ،
+> عِنْدَ الأََمْرِ بِالْمَعرُوفِ وَ النَّهْيِ عَنِ الْمُنْكَرِ، إِلاَّ
+> كَنَفْثَةِ فِي بَحْرِ لُجِّيٍّ.
 
 “All of the righteous actions, including Jihad in the way of Allah - in
 relation to the act of Amr bil Ma'ruf and Nahi 'Anil Munkar - can be
@@ -212,21 +188,13 @@ think that honour and dignity lie in the hands of other people and not
 in the hands of Allah (SwT), whereas it clearly says in the Qur\`an
 that:
 
-<blockquote dir="rtl">
-  <p>
-تُعِزُّ مَنْ تَشَآءُ وَ تُذِلُّ مَنْ تَشَآءُ
-  </p>
-</blockquote>
+> تُعِزُّ مَنْ تَشَآءُ وَ تُذِلُّ مَنْ تَشَآءُ
 
 “He gives honour to whomsoever He pleases and He debases whomsoever He
 pleases.”[^8]  
  In another place in the Qur\`an we read that:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ كَانَ يُرِيدُ الْعِزَّةَ فَلِلٌّهِ الْعِزَّةُ جَمِيعاً
-  </p>
-</blockquote>
+> مَنْ كَانَ يُرِيدُ الْعِزَّةَ فَلِلٌّهِ الْعِزَّةُ جَمِيعاً
 
 “Whosoever desires honour, then with Allah alone is all the honour.”[^9]
 !  
@@ -377,5 +345,4 @@ will lose their worth and value. (Tafsir-e-Namuna, vol. 3, pg. 37-40)
 [^8]: Surat Ale \`Imran (3), Verse 26
 
 [^9]: Surat al-Fatir (48), Verse 10
-
 

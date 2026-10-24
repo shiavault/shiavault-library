@@ -157,7 +157,6 @@ narrow extent of science when applied to material causes; and to
 convince ourselves that all we know of them is the constant conjunction
 and inference above mentioned.
 
-
 We may, perhaps, find that it is with dif- ficulty we are induced to
 fix such narrow limits to human understanding: but we can afterwards
 find no difficulty when we come to apply this doctrine to the actions of
@@ -170,7 +169,7 @@ words that necessity, which we have already avowed, in every
 deliberation of our lives, and in every step of our conduct and
 behaviour.
 
-[^1] But to proceed in this reconciling project with regard to the
+[^1]: But to proceed in this reconciling project with regard to the
 question of liberty and necessity; the most contentious question of
 metaphysics, the most contentious science; it will not require many
 words to prove, that all mankind have ever agreed in the doctrine of
@@ -222,7 +221,6 @@ such as are synonymous to the term which he endeavours to define. [^2]
 And if the definition above mentioned be admitted; liberty, when opposed
 to necessity, not to constraint, is the same thing with chance; which is
 universally allowed to have no existence.
-
 
 **PART II
 **
@@ -545,7 +543,7 @@ temper, and the most secret springs of our complexion and disposition.
 Now this is the very essence of necessity, according to the foregoing
 doctrine.
 
-[^2] Thus, if a cause be defined, that which produces any thing, it is
+[^2]: Thus, if a cause be defined, that which produces any thing, it is
 easy to observe, that producing is synonymous to causing. In like
 manner, if a cause be defined, that by which any thing exists, this is
 liable to the same objection. For what is meant by these words, by
@@ -556,5 +554,4 @@ For this is, indeed, all we know of the mat- ter.
 
 And this constantly forms the very essence of necessity, nor have we
 any other idea of it.
-
 

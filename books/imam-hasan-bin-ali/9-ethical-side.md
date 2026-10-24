@@ -8,4 +8,3 @@ are equal in this. We will confine ourselves to presenting some
 narratives of the Imam's behavior with the people. We hope that his
 morals are the ones which we adopt and follow.
 
-

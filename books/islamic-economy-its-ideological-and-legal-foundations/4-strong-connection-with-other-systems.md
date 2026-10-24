@@ -59,4 +59,3 @@ ta\`zi'rs [discretionary punishments] and other varieties of financial
 punishments, and others which may not be all discussed in this limited
 space.
 
-

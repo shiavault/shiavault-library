@@ -367,4 +367,3 @@ understandable. It was Ali, and Ali alone who had struck, not only at
 Badr, but in every encounter, at the massive, coordinated and
 concentrated power of heathendom, and had destroyed it.
 
-

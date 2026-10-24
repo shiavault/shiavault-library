@@ -9,7 +9,6 @@ and the intermediate with seven pebbles, and the last JAMARAH, known as
 the JAMARATAL- AQABAH with seven stones. With this stoning ends the HAJJ
 program.
 
-
 **The MUFRADAH Umrah**
 
 If one wanted to do the MUFRADAH Umrah, then one should do the same as
@@ -179,5 +178,4 @@ between the Shi'a and the Sunnah, and if it was not possible to perform
 the Hajj according to the view of the Shi'a, then one may perform the
 Hajj according the moon sighting of the Sunnah, and his Hajj is
 correct.
-
 

@@ -21,7 +21,7 @@ service of the rulers. Therefore he conjectured that the subject of His
 Eminence, Imam Mahdi (a.s) was a Shiite belief or he has put himself in
 doubt regarding this matter. On the basis of this, be has written a long
 chapter in his well-known Proglamena. (Chapter on Fatimids or that which
-the people did unto them).”<sup>[1]</sup>
+the people did unto them).”[1]
 
 The teacher, Ahmad Shakir, in refutation of Ibne Khaldun’s skepticism
 writes that his denial with regard to the Awaited Imam (a.s) is denial
@@ -72,7 +72,7 @@ the period of the Prophet and oppressions have increased, there is
 greater need of an Imam.
 
 And that upon which the scholars are unanimous is that Mahdi is the Qaim
-of the Last Age and he would fill the earth with justice.<sup>[1]</sup>
+of the Last Age and he would fill the earth with justice.[1]
 
 The denial of Suwaidi has no basis and the belief of the Shias regarding
 the Imam of the time has no contradiction with the other principles of
@@ -99,7 +99,7 @@ an end. A group began to follow Ja’far, the brother of Imam Hasan Askari
 (a.s). While Uthman bin Saeed a trusted aide of Imam Hasan Askari (a.s)
 made a very surprising claim that Imam Hasan Askari indeed had a five
 year old son who disappeared into the basement and he shall not appear
-for anyone and that he is the Imam after his father.”<sup>[2]</sup>
+for anyone and that he is the Imam after his father.”[2]
 
 Partialities and loyalties of this writer towards the imperialist powers
 are known to all. He says: “The claim of Uthman bin Saeed a deputy of
@@ -154,7 +154,7 @@ Kashiful Ghita in his foreword to the book of Zahiri says:
 souls be sacrificed on him – is a belief rooted in truth and a social
 principle and it is based on a firm foundation and it is not possible to
 deny it. It is included among the significant and most important
-principles.”<sup>[1]</sup>
+principles.”[1]
 
 5. Shukri Afandi
 ----------------

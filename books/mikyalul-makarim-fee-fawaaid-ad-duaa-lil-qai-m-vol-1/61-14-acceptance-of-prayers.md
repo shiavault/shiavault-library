@@ -137,12 +137,8 @@ accepted, that your*Dua* for all the believers in general is the cause
 of its acceptance and reaching your goal as mentioned in these words at
 the beginning of the verse:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ
-فَاغْسِلُوا وُجُوهَكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ
+> فَاغْسِلُوا وُجُوهَكُمْ
 
 ***“O you who believe! when you rise up to prayer, wash your faces…”
 (Qur’an, Surah Maidah 5:6)***
@@ -151,12 +147,8 @@ the beginning of the verse:
 
 Also the verse:
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ
-الرَّجِيمِ
-  </p>
-</blockquote>
+> فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ
+> الرَّجِيمِ
 
 ***“So when you recite the Qur’an, seek refuge with Allah…” (Qur’an,
 Surah Nahl 16:98)***
@@ -188,12 +180,8 @@ Muhammad bin Isa from Ali bin al-Hakam from Saif bin Ameera from Amr bin
 Shimr from Jabir bin Yazeed Jofi from His Eminence, Abu Ja’far Baqir
 (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا وَيَنْشُرُ
-رَحْمَتَهُ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا وَيَنْشُرُ
+> رَحْمَتَهُ
 
 ***“And He answers those who believe and do good deeds, and gives them
 more out of His grace…” (Qur’an, Surah Shura 42:28)***
@@ -349,5 +337,4 @@ prays for our master Qaim (aj) will be surely accepted.
 
 [^6]: Miraat al-Uqool, Vol. 12, Pg. 87, Chapter of Salawaat on the
 Prophet Muhammad and his Ahle Bayt (as).
-
 

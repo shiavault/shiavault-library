@@ -8,14 +8,10 @@ The Mockers and their fault-finding -Hypocrisy and the mischief of the
 Jews - The Jews and the Christians enjoined to act up to their own Holy
 Books.
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ الَّذِينَ اتَّخَذُواْ
-دِينَكُمْ هُزُوًا وَلَعِبًا مِّنَ الَّذِينَ أُوتُواْ الْكِتَابَ مِن
-قَبْلِكُمْ وَالْكُفَّارَ أَوْلِيَاء وَاتَّقُواْ اللّهَ إِن كُنتُم
-مُّؤْمِنِينَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ الَّذِينَ اتَّخَذُواْ
+> دِينَكُمْ هُزُوًا وَلَعِبًا مِّنَ الَّذِينَ أُوتُواْ الْكِتَابَ مِن
+> قَبْلِكُمْ وَالْكُفَّارَ أَوْلِيَاء وَاتَّقُواْ اللّهَ إِن كُنتُم
+> مُّؤْمِنِينَ
 
 **57.** ***"O' you who have Faith! do not take those who take your
 religion in mockery and play, from among those who were given the Book
@@ -38,12 +34,8 @@ believers."***
 Surah Al-Ma'idah, Verse 58
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا نَادَيْتُمْ إِلَى الصَّلاَةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا
-ذَلِكَ بِأَنَّهُمْ قَوْمٌ لاَّ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَإِذَا نَادَيْتُمْ إِلَى الصَّلاَةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا
+> ذَلِكَ بِأَنَّهُمْ قَوْمٌ لاَّ يَعْقِلُونَ
 
 **58.** ***"And when you call to prayer they take it in mockery and
 play. That is because they are a people who do not apply reason."***
@@ -76,13 +68,9 @@ reason, are the makers of mockery. The verse says:
 Surah Al-Ma'idah, Verse 59
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ يَا أَهْلَ الْكِتَابِ هَلْ تَنقِمُونَ مِنَّا إِلاَّ أَنْ آمَنَّا
-بِاللّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ مِن قَبْلُ وَأَنَّ
-أَكْثَرَكُمْ فَاسِقُونَ
-  </p>
-</blockquote>
+> قُلْ يَا أَهْلَ الْكِتَابِ هَلْ تَنقِمُونَ مِنَّا إِلاَّ أَنْ آمَنَّا
+> بِاللّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ مِن قَبْلُ وَأَنَّ
+> أَكْثَرَكُمْ فَاسِقُونَ
 
 **59.** ***"Say: 'O' People of the Book! Do you find faults with us (for
 any reason) except that we have believed in Allah and in what has been
@@ -141,21 +129,17 @@ as equally evil-doers.
 Surah Al-Ma'idah, Verse 60
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَلِكَ مَثُوبَةً عِندَ اللّهِ مَن
-لَّعَنَهُ اللّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ
-وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ أُوْلَـئِكَ شَرٌّ مَّكَاناً
-وَأَضَلُّ عَن سَوَاء السَّبِيلِ
-  </p>
-</blockquote>
+> قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَلِكَ مَثُوبَةً عِندَ اللّهِ مَن
+> لَّعَنَهُ اللّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ
+> وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ أُوْلَـئِكَ شَرٌّ مَّكَاناً
+> وَأَضَلُّ عَن سَوَاء السَّبِيلِ
 
 **60.** ***"Say: 'Shall I inform you of (him who is) worse than that in
 retribution with Allah?(Worse are those) whom Allah has cursed and
 brought His wrath upon, and He turned some of whom into apes and swine,
 and worshippers of Taghut (false deity). They are worse in place (with
 Allah) and far more astray from the (right) path."***  
-   
+
  In this holy verse, some perverted creeds and some wrong deeds of the
 People of the Book, resulted to the inflictions they were faced with,
 are compared with the situation of the true Muslim believers, in order
@@ -182,13 +166,9 @@ from the (right) path."***
 Surah Al-Ma'idah, Verse 61
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا جَآؤُوكُمْ قَالُوَاْ آمَنَّا وَقَد دَّخَلُواْ بِالْكُفْرِ
-وَهُمْ قَدْ خَرَجُواْ بِهِ وَاللّهُ أَعْلَمُ بِمَا كَانُواْ
-يَكْتُمُونَ
-  </p>
-</blockquote>
+> وَإِذَا جَآؤُوكُمْ قَالُوَاْ آمَنَّا وَقَد دَّخَلُواْ بِالْكُفْرِ
+> وَهُمْ قَدْ خَرَجُواْ بِهِ وَاللّهُ أَعْلَمُ بِمَا كَانُواْ
+> يَكْتُمُونَ
 
 **61.** ***"And when they come to you, they say: 'We believe '; while
 certainly they have entered in with infidelity, and certainly they have
@@ -210,12 +190,8 @@ concealments, *Allah is* aware of what they hide. It says:
 Surah Al-Ma'idah, Verse 62
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَتَرَى كَثِيراً مِّنْهُمْ يُسَارِعُونَ فِي الإِثْمِ وَالْعُدْوَانِ
-وَأَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُواْ يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَتَرَى كَثِيراً مِّنْهُمْ يُسَارِعُونَ فِي الإِثْمِ وَالْعُدْوَانِ
+> وَأَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُواْ يَعْمَلُونَ
 
 **62.** ***"And you will see many of them striving with one another to
 hasten in sin and transgression and their devouring the unlawful.
@@ -254,12 +230,8 @@ holy Qur'an says:
 Surah Al-Ma'idah, Verse 63
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْلاَ يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالأَحْبَارُ عَن قَوْلِهِمُ
-الإِثْمَ وَأَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُواْ يَصْنَعُونَ
-  </p>
-</blockquote>
+> لَوْلاَ يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالأَحْبَارُ عَن قَوْلِهِمُ
+> الإِثْمَ وَأَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُواْ يَصْنَعُونَ
 
 **63.** ***"Why do not the learned men and the doctors of law prohibit
 them (the people) from uttering sinful words and devouring the unlawful?
@@ -319,17 +291,13 @@ that you may not have a similar fate of theirs, either.
 Surah Al-Ma'idah, Verse 64
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَتِ الْيَهُودُ يَدُ اللّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ
-وَلُعِنُواْ بِمَا قَالُواْ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ
-يَشَاء وَلَيَزِيدَنَّ كَثِيراً مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن
-رَّبِّكَ طُغْيَانًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ
-وَالْبَغْضَاء إِلَى يَوْمِ الْقِيَامَةِ كُلَّمَا أَوْقَدُواْ نَارًا
-لِّلْحَرْبِ أَطْفَأَهَا اللّهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا
-وَاللّهُ لاَ يُحِبُّ الْمُفْسِدِينَ
-  </p>
-</blockquote>
+> وَقَالَتِ الْيَهُودُ يَدُ اللّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ
+> وَلُعِنُواْ بِمَا قَالُواْ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ
+> يَشَاء وَلَيَزِيدَنَّ كَثِيراً مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن
+> رَّبِّكَ طُغْيَانًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ
+> وَالْبَغْضَاء إِلَى يَوْمِ الْقِيَامَةِ كُلَّمَا أَوْقَدُواْ نَارًا
+> لِّلْحَرْبِ أَطْفَأَهَا اللّهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا
+> وَاللّهُ لاَ يُحِبُّ الْمُفْسِدِينَ
 
 **64.** ***"And the Jews have said: The hand of Allah is tied up! and
 cursed be they for what they have said. Nay, both His hands (of Power)
@@ -417,12 +385,8 @@ the mischief makers."***
 Surah Al-Ma'idah, Verse 65
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّ أَهْلَ الْكِتَابِ آمَنُواْ وَاتَّقَوْاْ لَكَفَّرْنَا
-عَنْهُمْ سَيِّئَاتِهِمْ وَلأدْخَلْنَاهُمْ جَنَّاتِ النَّعِيمِ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّ أَهْلَ الْكِتَابِ آمَنُواْ وَاتَّقَوْاْ لَكَفَّرْنَا
+> عَنْهُمْ سَيِّئَاتِهِمْ وَلأدْخَلْنَاهُمْ جَنَّاتِ النَّعِيمِ
 
 **65.** ***"And if the People of the Book had believed and kept from
 evil, We would certainly have remitted their sins and We would certainly
@@ -450,14 +414,10 @@ This meaning refers to the spiritual bounties found in the Hereafter.
 Surah Al-Ma'idah, Verse 66
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْ أَنَّهُمْ أَقَامُواْ التَّوْرَاةَ وَالإِنجِيلَ وَمَا أُنزِلَ
-إِلَيهِم مِّن رَّبِّهِمْ لأكَلُواْ مِن فَوْقِهِمْ وَمِن تَحْتِ
-أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ سَاء
-مَا يَعْمَلُونَ
-  </p>
-</blockquote>
+> وَلَوْ أَنَّهُمْ أَقَامُواْ التَّوْرَاةَ وَالإِنجِيلَ وَمَا أُنزِلَ
+> إِلَيهِم مِّن رَّبِّهِمْ لأكَلُواْ مِن فَوْقِهِمْ وَمِن تَحْتِ
+> أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ سَاء
+> مَا يَعْمَلُونَ
 
 **66.** ***"And if they had kept Up the Torah and the Evangel and what
 was sent down to them from their Lord, they would certainly have had (of
@@ -495,5 +455,4 @@ heavenly instructions, not for the restraint of *Allah (s.w.t.).*
 
 ***"....Among them there are people who are moderate, but (as for) many
 of them, evil is what they do."***
-
 

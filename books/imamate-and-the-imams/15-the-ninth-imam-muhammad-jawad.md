@@ -535,4 +535,3 @@ Anwar, Vol 50, p. 74; Kashful Ghummah, Vol 3, p. 143.
 
 [^28]: Biharul Anwar, Vol 50, p. 102.
 
-

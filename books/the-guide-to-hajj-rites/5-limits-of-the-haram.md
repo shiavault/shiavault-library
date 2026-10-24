@@ -229,7 +229,6 @@ of any kind, whether the tawaaf is for al-Ziyaarah or al-Nisa’ tawaaf,
 or for the Tamattu‘ Umrah or Hajj, or for the Ifraad or Qiraan Hajj, or
 for the Mufradah Umrah.
 
-
 **Obligations of Tawaaf**
 
 322. The obligations of tawaaf are:
@@ -493,5 +492,4 @@ that prayer, like the one who had forgotten to do so.
 prayer after each tawaaf, and it is discouraged – makruh – to perform
 two tawaaf’s consecutively and then perform two prayers for the two
 tawaaf’s.
-
 

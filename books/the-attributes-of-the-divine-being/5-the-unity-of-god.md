@@ -272,4 +272,3 @@ His signs are the night and the day and the sun and the moon. Do not bow
 down and prostrate yourselves before the sun and the moon. Instead,
 prostrate yourselves humbly before the God that created them." (41:37)
 
-

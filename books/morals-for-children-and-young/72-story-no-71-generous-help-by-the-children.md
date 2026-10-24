@@ -16,4 +16,3 @@ greatly.
  Their parents thanked god for such generous and helping children and
 were pleased.
 
-

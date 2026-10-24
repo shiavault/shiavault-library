@@ -142,7 +142,6 @@ accepted.
 There are many narrations stating that a man's efforts without Wilayat
 have no value. For example you can refer to the book p. 11, volume: 1.
 
-
 **Lesson: 45 : The Importance of Thinking**
 
 One of the principles of the Holy Quran is an invitation for thinking
@@ -412,7 +411,6 @@ god will not get any benefit from our friendship.
 Now that here ends the description of some virtues, which enable man to
 reach excellence our next discussion, will be regarding mean vices.
 
-
 **Lesson: 47 : Anger**
 
 The state of anger is one of the most dangerous states that overtake
@@ -616,7 +614,6 @@ This verse was sent down by God about Bani Israel's hard-heartedness.
 They had observed all the miracles from Moosa (a.s.). Their hearts were
 so stony that no admonition affected their hearts!
 
-
 **Lesson: 49 : The Ugliness of Ignorance, Doubt and Confusion**
 
 In the Shariat of Islam it has been ordained that it is the duty of the
@@ -705,7 +702,6 @@ by satan in the heart of man. So we read in a narration; Someone asked
 Imam Moosa bin Ja'far (a.s.): and in another instance said: A man asked
 the Imam: I feel big enticements in my heart. The Imam replied: Say: laa
 ilaaha illallah or laa hula walaa quwwata illa billah.
-
 
 **Lesson: 50 : Remedy for removing doubtfulness and ignorance**
 
@@ -893,7 +889,6 @@ revelations are obtained before entering the world of Godworship and
 monotheism and they are common for a mo-min and a mushrik and they never
 prove the perfection nor do they negate non-perfection.
 
-
 **Lesson: 51 : Hatred and animosity**
 
 Hiqd (hatred) and Keeneh (animosity) are two sins of the soul which
@@ -981,7 +976,6 @@ imperialism and Zionism. So they have been deprived of their natural
 resources. Let us hope that the day will soon arrive when they will come
 to their senses and will know their real enemies, who are the very
 enemies of Allah. Then only they will get up to retrieve their rights.
-
 
 **Lesson: 52 : Undue prejudice**
 
@@ -1094,5 +1088,4 @@ six groups due to six qualities: Arab for his prejudice, the rich for
 their pride, Ameers for their oppression, the Faqueehs for their
 jealousy and the traders for their dishonesty, and the villagers for
 their ignorance.
-
 

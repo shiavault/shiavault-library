@@ -94,4 +94,3 @@ has never and will never have a negative attitude towards women. Women
 are to be respected with great care as Prophet Muhammad (peace be upon
 him and his family) respected women.
 
-

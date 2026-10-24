@@ -1,19 +1,11 @@
 Preface
 =======
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللهِ ص:
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللهِ ص:
 
-<blockquote dir="rtl">
-  <p>
-إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي أهْلَ
-بَيْتِي، مَا إنْ تَمَسَّكْتُمْ بِهِمَا لَنْ تَضِلُّوا بَعْدِي أبَداً،
-وَإنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَلَيَّ الْحَوْضَ.
-  </p>
-</blockquote>
+> إنِّي تَارِكٌ فِيكُمُ الثَّقَلَيْنِ: كِتَابَ اللهِ وَعِتْرَتِي أهْلَ
+> بَيْتِي، مَا إنْ تَمَسَّكْتُمْ بِهِمَا لَنْ تَضِلُّوا بَعْدِي أبَداً،
+> وَإنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَلَيَّ الْحَوْضَ.
 
 The Messenger of Allah (*s*) said:  
  “Verily, I am leaving among you two precious things [*Thaqalayn*]: The
@@ -40,11 +32,7 @@ Ad-Dar as-Salafiyyah), vol. 4, pp. 355-358.
 
 ****
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 **In the Name of Allah, the All-beneficent, the All-merciful**
 
@@ -109,5 +97,4 @@ producing this work, especially the staff of the Translation Office.
 (Qanunguzari), compiled and edited by Karim Subhani (Qum: Imam Khomeini
 Educational and Research Institute, Summer 1380 AHS (2001)), vol. 1, 335
 pp.
-
 

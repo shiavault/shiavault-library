@@ -6,4 +6,3 @@ should be a lesson for us. Imam Zainul Abideen (a.s.) says that:
 “*Congratulations to the person who prepares with him the provision for
 the life here after*”.
 
-

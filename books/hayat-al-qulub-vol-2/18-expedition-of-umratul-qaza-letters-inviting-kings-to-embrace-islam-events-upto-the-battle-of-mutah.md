@@ -15,11 +15,7 @@ fear.
 “What have you to do with his heart?” Immediately the Almighty Allah
 sent down this verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَقُولُوا لِمَنْ أَلْقٰى إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا
-  </p>
-</blockquote>
+> وَلَا تَقُولُوا لِمَنْ أَلْقٰى إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا
 
 ***“…and do not say to any one who offers you peace: You are not a
 believer.”***[^1]
@@ -56,13 +52,9 @@ Prophet that so and so has not performed the Sayy and Quraish have
 brought back their idols. At that juncture, the following verse was
 revealed:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ
-الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ
-بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا
-  </p>
-</blockquote>
+> إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ
+> الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ
+> بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا
 
 ***“Surely the Safa and the Marwah are among the signs appointed by
 Allah; so whoever makes a pilgrimage to the House or pays a visit (to
@@ -384,5 +376,4 @@ pulpit and completed the sermon.
 [^1]: Surah Nisa 4:94
 
 [^2]: Surah Baqarah 2:158
-
 

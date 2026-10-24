@@ -33,18 +33,10 @@ recipient of Allah's wrath and anger. He is the most miserly of people
 towards himself, so how must he be with other people, when he follows
 his own passion and opposes the command of Allah?' As Allah said,
 
-
-<blockquote dir="rtl">
-  <p>
-وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ
-  </p>
-</blockquote>
-
-
+> وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ
 
 ***Most certainly they shall carry their own burdens, and other burdens
 along with their own burdens.*** (29:13)
-
 
 The Holy Prophet said, 'The son of Adam cries out, "My property! My
 property! My wealth! My wealth!" O Wretch! Where were you when there was
@@ -60,5 +52,4 @@ who will inherit it, and what you have now you have no power over,
 except to become arrogant by it. How much you strive to seek this world
 and to make claims! Do you wish to impoverish yourself and enrich
 others?'
-
 

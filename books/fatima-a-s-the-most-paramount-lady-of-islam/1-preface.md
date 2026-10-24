@@ -34,4 +34,3 @@ Allah’s pure servant and the Prophet’s esteemed daughter.
 
 Dr. Ali Ghaemi
 
-

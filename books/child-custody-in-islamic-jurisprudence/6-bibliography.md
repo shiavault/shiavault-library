@@ -556,4 +556,3 @@ edition, Dar al-Hadith, Cairo, 1415/1995.
 Zubaydi, Muhammad Murtaza, *Taj al-ʿArus min Jawahir al-Qamus*, 10 vols
 Maktibat al-Ihya, Beirut, n.d
 
-

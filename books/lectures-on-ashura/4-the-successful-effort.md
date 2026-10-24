@@ -548,4 +548,3 @@ become entitled to Paradise; and thirdly: You will get the thing which
 you like and that is the help of Allah and a speedy victory. Hence
 convey this good news to the believers. (Surah Saf, Verse 13).
 
-

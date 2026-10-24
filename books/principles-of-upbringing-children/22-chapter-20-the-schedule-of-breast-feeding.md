@@ -150,4 +150,3 @@ is bad for the child.
 
 [^4]: Wasail al-shiah, v15, p. 176
 
-

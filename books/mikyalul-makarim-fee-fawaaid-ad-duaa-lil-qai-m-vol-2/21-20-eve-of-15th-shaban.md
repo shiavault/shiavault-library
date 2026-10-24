@@ -11,11 +11,7 @@ precedence at every occasion of recitation; and that which supports our
 point is that the writer of Jamaalus Saliheen has quoted a very valuable
 Dua from our master for this night. This supplication begins as follows:
 
-<blockquote dir="rtl">
-  <p>
-اللهم صل على محمد سيد المرسلين، وخاتم النبيين...
-  </p>
-</blockquote>
+> اللهم صل على محمد سيد المرسلين، وخاتم النبيين...
 
 O Allah, bless Muhammad, the chief of the messengers and the seal of the
 prophets…
@@ -26,11 +22,7 @@ discuss its importance there.
 And also that which supports our contention is a Dua mentioned in Iqbal,
 quoting from Zaadul Maad, which begins as follows:
 
-<blockquote dir="rtl">
-  <p>
-اللهم بحق ليلتنا هذه ومولودها...
-  </p>
-</blockquote>
+> اللهم بحق ليلتنا هذه ومولودها...
 
 “O Allah, for the sake of this night of ours and for the sake of the one
 who was born in it…”
@@ -45,10 +37,5 @@ great bounty, that is the birth of Imam Qaim (aj); and as mentioned in
 some traditional reports in Mustadrakul Wasail, it is the night when
 deeds are presented to the Imam (as) for inspection.
 
-<blockquote dir="rtl">
-  <p>
- ولو ادركته لخدمته أيام حياتي 
-  </p>
-</blockquote>
-
+>  ولو ادركته لخدمته أيام حياتي
 

@@ -282,7 +282,6 @@ Khawass p.312 and al-Ghadeer, vol.7 p.274. Some of this speech was
 mentioned in I'jazul Quran by al-Baqillany p.234, A'yan ash-Shia, vol.39
 p.137 and al-Kamil by al-Mubarrid, vol.3 p.1174-1175.
 
-
 **The Dawn Of The Mission**
 
 **The First Dawn**
@@ -387,5 +386,4 @@ enthusiastically for the task he would undertake was so heavy that he
 had to assist and defend as possible as he could because he knew well
 that it was the very divine mission, which the holy books had talked
 about as Abdul Muttalib had read.
-
 

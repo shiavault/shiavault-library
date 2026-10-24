@@ -128,4 +128,3 @@ implication. Let it be noted that Jesus himself did not like to use the
 term at all. He preferred other expressions of his Messiah ship, most
 especially the expression Son of Man.
 
-

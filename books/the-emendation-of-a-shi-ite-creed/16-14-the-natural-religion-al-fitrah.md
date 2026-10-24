@@ -64,4 +64,3 @@ denote by al-‘Ammah the Sunnites generally.
 [^2]: See al-Bukhari, as-Sahih, tafsir of surah 30; Muslim, as-Sahih,
 Kitabu 'l- Qadar, Tradition no.22.
 
-

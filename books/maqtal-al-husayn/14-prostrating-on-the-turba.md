@@ -54,4 +54,3 @@ of this agreed upon *hadith.*
 [^1]: A turba is a small piece of dry clay preferably from the place
 where Imam Husayn (‘a) was martyred. N. Tr.
 
-

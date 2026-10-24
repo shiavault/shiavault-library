@@ -539,4 +539,3 @@ are not fit to accept the truth.
 
 [^50]: Al-Kafi, chapter of piety.
 
-

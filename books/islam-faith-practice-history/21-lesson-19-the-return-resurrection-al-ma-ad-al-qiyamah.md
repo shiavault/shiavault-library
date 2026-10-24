@@ -149,4 +149,3 @@ faith.
 affects the life of a good Muslim. (You may use some real examples from
 your own life.)
 
-

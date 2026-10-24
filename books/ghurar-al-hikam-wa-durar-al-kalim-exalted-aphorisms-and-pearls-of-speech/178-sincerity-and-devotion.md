@@ -17,23 +17,15 @@ your leaving, your speech and your silence [all] be [sincerely] for the
 sake of Allah.
 
 > 3ـ أخْلِصْ لِلّهِ عَمَلَكَ، وعِلْمَكَ، وحُبَّكَ، وبُغْضَكَ، وأخْذَكَ،
-<blockquote dir="rtl">
-  <p>
-وتَرْكَكَ، وكَلامَكَ، وصَمْتَكَ.
-  </p>
-</blockquote>
+> وتَرْكَكَ، وكَلامَكَ، وصَمْتَكَ.
 
 4. Adopt sincerity in secret and in the open, fear [of Allah] when
 unseen and seen, moderation in poverty and wealth, and equity in
 satisfaction and anger.
 
 > 4ـ اِلْزَمِ الإخْلاصَ فيِ السِّـرِّ والعَلانِيَةِ، والخَشيَةَ فِي
-<blockquote dir="rtl">
-  <p>
-الغَيْبِ والشَهادَةِ، والقَصْدَ فِي الفَقْرِ والغِنى، والعَدْلَ فِي
-الرِّضا والسَّخَطِ.
-  </p>
-</blockquote>
+> الغَيْبِ والشَهادَةِ، والقَصْدَ فِي الفَقْرِ والغِنى، والعَدْلَ فِي
+> الرِّضا والسَّخَطِ.
 
 5. Be sincere when you perform an action [and do it only for the
 pleasure of Allah].
@@ -119,32 +111,20 @@ hatred, his taking, his leaving, his speech and his silence sincere for
 [attaining the pleasure of] Allah.
 
 > 24ـ طُوبى لِمَنْ أخْلَصَ لِلّهِ عِلْمَهُ، وعَمَلَهُ، وحُبَّهُ،
-<blockquote dir="rtl">
-  <p>
-وبُغْضَهُ، وأخْذَهُ، وَتَرْكَهُ وكَلامَهُ، وصَمْتَهُ.
-  </p>
-</blockquote>
+> وبُغْضَهُ، وأخْذَهُ، وَتَرْكَهُ وكَلامَهُ، وصَمْتَهُ.
 
 25. Blessed is he who proceeds with sincerity, acts with righteousness,
 acquires the reserves [for the Hereafter] and eschews [the disobedience
 of Allah] cautiously.
 
 > 25ـ طُوبى لِمَنْ قَدَّمَ خالِصاً، وعَمِلَ صالِحاً،وَ اكْتَسَبَ
-<blockquote dir="rtl">
-  <p>
-مَذْخُوراً، وَاجْتَنَبَ مَحذُوراً.
-  </p>
-</blockquote>
+> مَذْخُوراً، وَاجْتَنَبَ مَحذُوراً.
 
 26. You must espouse true sincerity and complete certitude, for these
 two are the best forms of worship of the Near Ones [to Allah].
 
 > 26ـ عَلَيْكُمْ بِصِدقِ الإخْلاصِ، وحُسْنِ اليَقينِ، فَإنَّهما أفضَلُ
-<blockquote dir="rtl">
-  <p>
-عِبادَةِ المُقَرَّبينَ.
-  </p>
-</blockquote>
+> عِبادَةِ المُقَرَّبينَ.
 
 27. The goal of sincerity is [attaining] deliverance [from the
 punishment of Allah].
@@ -192,5 +172,4 @@ with] its true intention.
 36. One who makes his actions sincere, attains his hopes.
 
 > 36ـ مَنْ أخْلَصَ بَلَغَ الآمالَ.
-
 

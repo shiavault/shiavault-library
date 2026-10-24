@@ -363,4 +363,3 @@ do harm to the health of a person and is done within the limits of
 sheriat, i.e. Namaz and other Wajib things are not sacrificed for
 Matam.
 
-

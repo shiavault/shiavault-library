@@ -1,8 +1,6 @@
 Chapter Vii
 ===========
 
-  
-
 DOCTRINAL RESEARCHES
 --------------------
 
@@ -35,10 +33,6 @@ Can Allah be described (i.e., specified in words)?
 
 Through this question, Abū Hāshim al-Jafari wanted to find and to
 encompass the knowledge of Allah, the Most High, so Imām al-  
-
-  
-
-  
 
 Rida, peace be on him, asked him:
 
@@ -88,11 +82,6 @@ that they said: The body of Allah right up to the navel
 ------------------------------------------------------------------------
 
 [[1]](#_F355) Usūl al-Kāfi, vol. 1, p. 99.  
-  
-
-  
-
-  
 
 was quite empty and the rest of Him was full. Without doubt this
 statement was fabricated and attributed to such a group of Shiite
@@ -133,10 +122,6 @@ his heart, He established him in His Light which was like the Light of
 the (Divine) veil, until what was behind the (Divine) veil was made
 manifest to him. Verily, the effulgence of Allahs Light  
 
-  
-
-  
-
 is green, red, white, and the like. O Mohammed, we (the Imāms) only say
 what the Book (of Allah) and the *Sunna* bear witness to.[[1]](#_ftn356)
 
@@ -173,16 +158,9 @@ and there must be a distinction between Him and the things to which He
 gave body and shape and which He originated, since nothing resembles Him
 nor does He resemble anything.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F356) Ibid., pp. 101-102.  
-  
-
-  
-
-  
 
 Allah is One and man is one. Do they not; therefore, resemble each
 other? asked al-Fath.
@@ -225,11 +203,6 @@ Subtle means that He has created subtle things and has
 is in the essence not in the names and utterances, for they are applied
 to Him, the Most High, and to other than Him; it is correct to apply the
 'one' to Allah, the Exalted, and man.  
-  
-
-  
-
-  
 
 full awareness of subtle things. May Allah give you wisdom and keep you
 steadfast. Do you not see the signs of His creation in the grass, which
@@ -267,12 +240,6 @@ So glory belongs to the Almighty Creator. How great his favors toward
 all living beings!
 
 Is there a creator other than the Great Creator? asked al-Fath.
-
-  
-
-  
-
-  
 
 The Imām, peace be on him, answered: Surely, Allah, the Blessed and
 Exalted, says: *Blessed is Allah the best of the
@@ -315,11 +282,6 @@ this kind of will, for Allah, according to this will, says to a
 ------------------------------------------------------------------------
 
 [[1]](#_F358) Qur'ān, 23, 14.  
-  
-
-  
-
-  
 
 thing: Be, and the thing is. As for the stories of Ādam and Ibrāhim,
 they belong to the first part of will.
@@ -360,19 +322,12 @@ do*[***[3]***](#_ftn361), and that He says: *And if they were sent back,
 they would certainly go back to that from which they were
 forbidden*[***[4]***](#_ftn362)*?*
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F359) Ibid., 21, 22.  
  [[2]](#_F360) Ibid., 23, 91.  
  [[3]](#_F361) Ibid., 35, 37.  
  [[4]](#_F362) Ibid., 6, 28.  
-  
-
-  
-
-  
 
 Al-Fath admired the knowledge of the Imām, peace be on him, and his
 understanding difficult, theological matters. He tried to kiss the Imāms
@@ -413,11 +368,6 @@ glory belongs to Him! How great He is! The eyes cannot
 
 [[1]](#_F363) Al-Tawhid, pp. 60-65.  
  [[2]](#_F364) Ibid., p. 98. Usūl al-Kāfi, vol. 1, p. 105.  
-  
-
-  
-
-  
 
 attain Him; imaginations cannot encompass Him; and words cannot embrace
 the core of His mightiness!
@@ -458,18 +408,11 @@ with the power, you would only describe that He created them through His
 might and power over them, but He is neither weak nor feeble nor is He
 in need of other than Him.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F365) Qur'ān, 6, 19.  
  [[2]](#_F366) Al-Tawhid, p. 107.  
  [[3]](#_F367) Ibid., 130.  
-  
-
-  
-
-  
 
 The meaning of the speech of the Imām, peace be on him, is that Allah,
 the Most High, is powerful, that this attribute is the same as Himself,
@@ -508,12 +451,6 @@ there was anything before Allah, then that thing would be the first,
 has got the preferential right to be regarded as the Creator of this
 first (Allah, the Eternal).
 
-  
-
-  
-
-  
-
 Then Allah, the Hallowed, the Exalted, invested Himself with names, and
 when He created (His creatures) and enjoined upon them His worship, and
 put on them trial and tribulation, He summoned them to call Him by those
@@ -550,10 +487,6 @@ Allah has named (Himself) with (the attribute of) Knowledge, but
 may be possible or knowledge which may assist Him in guarding what He is
 going to ordain in future or in planning what He is going to create in
 His creation (in the present) or in disposing of  
-
-  
-
-  
 
 what He has annihilated from His creation (in the past) or knowledge
 which, if it is not available to Him and has become hidden from Him,
@@ -595,11 +528,6 @@ satisfying just as you may say to a person: Stand *(qum)* forth to
 ------------------------------------------------------------------------
 
 [[1]](#_F368) Qur'ān, 13, 33.  
-  
-
-  
-
-  
 
 support and satisfy such and such family, meaning support them fully,
 whereas, for us *Qāim* (subsistent) means standing on our feet. Thus,
@@ -638,10 +566,6 @@ that He appeared above everything and rode them and settled on them and
 out-topped them. (So, nothing can hide Him from the right.) However, He
 is *al-Zāhir* or Manifest and prevails over everything in  
 
-  
-
-  
-
 the sense that He holds all authority, dominion and power over each and
 everything, just as a person would say: I have prevailed over my enemy
 and Allah has given me power over him. It signifies victory and
@@ -678,10 +602,6 @@ is not even the twinkling of an eye for Him to utter Be and forthwith It
 is. And victory among us is as we have already discussed and described
 (above). Thus, here too, the name is common but the meaning is quite
 different. Similar is the case  
-
-  
-
-  
 
 in respect of all the names of Allah. Although we have not brought
 together all His names here; yet whatever we have expounded to them is
@@ -725,11 +645,6 @@ the Messenger of Allah, that Ali is the testamentary
 ------------------------------------------------------------------------
 
 [[1]](#_F369) Usūl al-Kāfi, vol. 1, pp. 120-123.  
-  
-
-  
-
-  
 
 trustee of Allahs Messenger and the custodian after him for what Allahs
 Messenger (may Allah bless him and his family) had undertaken, that your
@@ -766,17 +681,10 @@ that Allah, the Great and Almighty, cannot be seen through the eye, for
 if it is held that He can be seen by eyes, the matter will revert to
 what we have explained.[[2]](#_ftn371)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F370) Ibid., p. 88.  
  [[2]](#_F371) Ibid., p. 96-97.  
-  
-
-  
-
-  
 
 Through this conclusive argument the Imām, peace be on him, disproved
 seeing the Great Creator through the eye, not through thinking and
@@ -822,11 +730,6 @@ be on him, and he said: Will I
 ------------------------------------------------------------------------
 
 [[1]](#_F372) Ibid., 157.  
-  
-
-  
-
-  
 
 give you an origin about this, over which you will not differ, and you
 will defeat anyone who debates with you on it?
@@ -870,11 +773,6 @@ temptation and indulges (himself) in adultery, then (and only then)
 ------------------------------------------------------------------------
 
 [[1]](#_F373) 'Uyūn Akhbār al-Ridā, vol. 1, p. 144.  
-  
-
-  
-
-  
 
 ability, and in this case he either acts according to his ability or
 not, but he) has not obeyed Allah by way of compulsion; nor has he
@@ -917,16 +815,9 @@ No, Yūnus answered.
 The Imām explained to him the essence of Divine will, saying It is
 Allahs determination of what He wills. Do you know what fate is?
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F374) Usūl al-Kāfi, vol. 1, pp. 160-161.  
-  
-
-  
-
-  
 
 No, Yunus replied.
 
@@ -971,11 +862,6 @@ completely clarified in it what is lawful and what is
 ------------------------------------------------------------------------
 
 [[1]](#_F375) Ibid., p. 157.  
-  
-
-  
-
-  
 
 unlawful, the punishments *(hudūd)* and the commands, and all that
 people need. He, the Great and Almighty, said: *We have neglected
@@ -1016,11 +902,6 @@ Messenger, may Allah bless him and his family, appointed Imām 'Ali, the
 Commander of the faithful, peace be on him, as a leader for his
 community after him. And al-Ghadir 'Īd is part of the Islamic
 message.    
-  
-
-  
-
-  
 
 another part of the Imāms speech concerning the importance of the
 Imāmate:
@@ -1061,11 +942,6 @@ believers*.[***[3]***](#_ftn380) So it (the Imāmate) belonged to him
 [[1]](#_F378) Ibid., 2, 121.  
  [[2]](#_F379) Ibid., 21, 72-73.  
  [[3]](#_F380) Ibid., 3, 68.  
-  
-
-  
-
-  
 
 Prophet) particularly, and hence he, may Allah bless him and his family,
 invested Ali with it by the command of Allah, the Great and Almighty, in
@@ -1101,16 +977,9 @@ peace be on him, and then it was inherited by the pure Imāms from his
 (Alis) children whom Allah, the Most High, chose from among His
 creatures.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F381) Ibid., 30, 56.  
-  
-
-  
-
-  
 
 Now, let us move to another part of the speech of the Imām, peace be on
 him: Verily, the Imāmate is the position of the prophets and heritage of
@@ -1152,10 +1021,6 @@ defender of Allahs precincts.
 The Imām is the one who is purified from sins, free from all
 shortcomings, characterized by knowledge, distinguished by  
 
-  
-
-  
-
 forbearance, the state of the order of the religion, the might of the
 Muslims, the one who enrages the hypocrites, and the doom of
 unbelievers.
@@ -1194,10 +1059,6 @@ prescribed punishments, defends the fortified borderline cities, allows
 what is lawful, forbids what is unlawful, and applies the law of
 Allah,  
 
-  
-
-  
-
 the Exalted, on the general life of the Muslims. It is certain that
 these original objectives and ideals cannot by carried out by anyone on
 the arena of life except the Imāms of guidance, peace be on them, whom
@@ -1231,18 +1092,11 @@ day of resurrection that you shall surely have what you demand? Ask them
 which of them will vouch for that. Or have they associates? Then let
 them bring their associates if they are truthful*.[***[3]***](#_ftn384)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F382) Ibid., 28, 68.  
  [[2]](#_F383) Ibid., 33, 36.  
  [[3]](#_F384) Ibid., 68, 36-41.  
-  
-
-  
-
-  
 
 And He, the Great and Almighty, said: *Do they not reflect the Qurān? Or
 is it that there are locks upon their hearts*[***[1]***](#_ftn385), or
@@ -1284,11 +1138,6 @@ the Exalted, says: *Is He then Who guides to the truth
  [[2]](#_F386) Ibid., 8, 21-23.  
  [[3]](#_F387) Ibid., 2, 93.  
  [[4]](#_F388) Ibid., 57, 21.  
-  
-
-  
-
-  
 
 more worthy to be followed, or he who himself does not go aright unless
 he is guided? What then is the matter with you; how do you judge? *I*,
@@ -1328,11 +1177,6 @@ they did not know; and in the Book
  [[2]](#_F390) Ibid., 2, 247.  
  [[3]](#_F391) Ibid., 4, 113.  
  [[4]](#_F392) Ibid., 4, 54-55.  
-  
-
-  
-
-  
 
 of Allah there is guidance and cure. So they have rejected it, and they
 have followed their own desires. Therefore, Allah has found fault with
@@ -1366,8 +1210,6 @@ them.[[5]](#_ftn397)
 The Imām should have these marks and qualities so that he is appropriate
 for leading the community and raising its economic and social levels.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F393) Ibid., 28, 50.  
@@ -1376,11 +1218,6 @@ for leading the community and raising its economic and social levels.
  [[4]](#_F396) 'Uyūn Akhbār al-Ridā, vol. 1, pp. 216-222. Usūl al-Kāfi,
 vol. 1, p. 199.  
  [[5]](#_F397) 'Uyūn Akhbār al-Ridā, vol. 1, p. 213.  
-  
-
-  
-
-  
 
 ### 3. The Imāms are the Vicegerents of Allah
 
@@ -1397,5 +1234,4 @@ to Him.
 ------------------------------------------------------------------------
 
 [[1]](#_F398) Usūl al-Kāfi, vol. 1, p. 193.  
-  
 

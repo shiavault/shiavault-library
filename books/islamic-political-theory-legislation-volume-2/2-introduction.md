@@ -1,21 +1,13 @@
 Introduction
 ============
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 **In the Name of Allah, the All-beneficent, the All-merciful**
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ وَ صَلَّى اللهُ عَلىٰ سَيِّدِنَا
-وَ نَبِيِّنَا مُحَمَّدٍ وَ آلِهِ الطَّاهِرِيْنَ وَ لَعْنَةُ اللهِ
-عَلىٰ أَعْدَائِهِمْ أَجْمَعِيْنَ
-  </p>
-</blockquote>
+> أَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ وَ صَلَّى اللهُ عَلىٰ سَيِّدِنَا
+> وَ نَبِيِّنَا مُحَمَّدٍ وَ آلِهِ الطَّاهِرِيْنَ وَ لَعْنَةُ اللهِ
+> عَلىٰ أَعْدَائِهِمْ أَجْمَعِيْنَ
 
 *All praise is due to Allah, the Lord of the worlds, and may the
 blessings of Allah be upon our Master and Prophet Muhammad, and his pure
@@ -188,5 +180,4 @@ names of pious people. [Trans.]
 [^3]: Mujtahid: an authority on the divine law who practices ijtihad,
 i.e. “the search for a correct opinion in the deduction of the specific
 provisions of the law from its principles and ordinances.” [Trans.]
-
 

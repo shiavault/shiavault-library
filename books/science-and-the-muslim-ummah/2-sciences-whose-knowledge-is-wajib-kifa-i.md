@@ -11,9 +11,7 @@ However, before we start, we think it will be beneficial to revert to
 certain important points mentioned by Mulla Sadra in his commentary on
 Usul al‑Kafi under the tradition:
 
-<p dir="rtl">
 طلب العلم فريضةٌ على كل مسلم
-</p>
 
 Acquisition of knowledge is an obligation of every Muslim.
 
@@ -55,5 +53,4 @@ to the late Mutahhari, “Islam's all‑inclusiveness and finality as a
 religion demands that every field of knowledge that is beneficial for an
 Islamic society be regarded as a part and parcel of the “religious
 sciences.”12
-
 

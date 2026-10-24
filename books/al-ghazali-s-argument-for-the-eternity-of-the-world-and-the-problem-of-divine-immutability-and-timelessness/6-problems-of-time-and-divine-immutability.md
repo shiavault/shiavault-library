@@ -246,4 +246,3 @@ deny Aristotelian and Neoplatonic notions of the eternity of the world,
 and have developed a new philosophical foundation for his theological
 affirmation.
 
-

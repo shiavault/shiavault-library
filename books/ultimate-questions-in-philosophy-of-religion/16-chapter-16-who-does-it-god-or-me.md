@@ -29,4 +29,3 @@ Is it Allah who heals or it is the medicine?
 
 [^1]: Refer to ayah 26:80
 
-

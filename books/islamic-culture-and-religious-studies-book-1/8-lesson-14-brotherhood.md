@@ -98,7 +98,6 @@ quoted in the lesson above?
 (s.a.w.w.) are in matters that relate to the rights believers have upon
 one another? Explain your answers (and sources).
 
-
 **Lesson 15 : Hard Work and Independence**
 
 Asking in Islam has two meanings. The first one refers to inquiring
@@ -261,7 +260,6 @@ desperation?
 hadith of our 6th Imam (a.s.) mentioned above. Then state the ways in
 which we can apply it in our lives.
 
-
 **Introduction to Chapter Six**
 
 In The Name Of Allah (S.W.T.), the Beneficent, the Merciful
@@ -293,9 +291,7 @@ noble Messenger of Allah (S.W.T.) completed the task as ordained by Him,
 which included the introduction of Imam Ali ibn Abi Talib (a.s.) as the
 rightfully guided Imam sent by the Almighty.
 
-
 In this chapter, we will study the exalted personality of Imam Ali
 (a.s.), beginning with his official appointment as Imam over the
 Ummah.
-
 

@@ -102,4 +102,3 @@ It is a precaution to observe the sequence in Sa’y except the cases
 which have been mentioned before, it means that the pilgrim should
 perform seven rounds sequentially and without interruption.
 
-

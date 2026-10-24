@@ -110,4 +110,3 @@ described as though it were brought about by a disgruntled man. This
 responsible revolt had a multiplicity of factors, in that it was neither
 a single entity nor a single-aim movement.
 
-

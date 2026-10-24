@@ -37,4 +37,3 @@ Questions
 
 3. What did the Holy Prophet say to his companions?
 
-

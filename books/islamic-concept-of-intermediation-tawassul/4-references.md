@@ -82,4 +82,3 @@ its men are trustworthy.
 
 [20]. Qur’ān (an-Nisā’) 4:64.
 
-

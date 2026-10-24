@@ -181,4 +181,3 @@ And it is only by following this Islamic code that mankind can obtain
 peace of mind in this life and everlasting happiness in the life
 hereafter.
 
-

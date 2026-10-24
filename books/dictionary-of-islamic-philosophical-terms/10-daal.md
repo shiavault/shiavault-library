@@ -129,4 +129,3 @@ According to another similar tradition, he was visited at Corinth by
 Alexander the Great who asked if he could oblige the philosopher in any
 way, "Yes", Diogenes, "stand from between me and the sun."
 
-

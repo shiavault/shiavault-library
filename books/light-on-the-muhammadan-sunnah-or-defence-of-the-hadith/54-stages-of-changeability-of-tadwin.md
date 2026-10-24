@@ -1,10 +1,6 @@
 Stages of Changeability of Tadwin:
 ==================================
 
-  
-  
-  
-
 From what has been said above, it can be concluded that the traditions
 of the Messenger of Allah were not written down neither during his
 lifetime nor in the era of Sahabah and their followers. And it is
@@ -67,8 +63,4 @@ since every people have their own sunnah and leader.
 That which can be gleamed from the above-mentioned is that the tadwin
 trusted by Ahl al-Sunnah was only made during about the middle of the
 3rd century up to the 4th century.
-
-  
-  
-  
 

@@ -204,4 +204,3 @@ anyone to support them and should provide them with their needs.
 
 [^1]: Kulaini, al-Kafi, vol.3, p. 497, 3rd Edition
 
-

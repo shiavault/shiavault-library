@@ -130,4 +130,3 @@ You are recommended to do Sunnat Ghusl of Ihram sometime in the morning.
 
 5. for doing Tawaaf of Khan al-Ka’aba
 
-

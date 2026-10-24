@@ -9,4 +9,3 @@ men and women in the state of Ihram if it is for decorating purposes. If
 it is not for decorating e.g. for eye treatment, then it has no problem
 if it is applied in a form other than decoration.
 
-

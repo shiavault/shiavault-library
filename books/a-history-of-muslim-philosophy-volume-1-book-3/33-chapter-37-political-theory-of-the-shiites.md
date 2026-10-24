@@ -698,4 +698,3 @@ asserts the Prophet declared, ‘Whomsoever I am lord of, his lod is ‘Ali
 also.’” Ibn Sa‘ad, Vol. 5, p 235; Mas‘udi, Tanbit, pp. 225 – 56; Philip
 K. Hitti, History of the Arabs, p. 471, note 1.
 
-

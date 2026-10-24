@@ -1046,4 +1046,3 @@ of Wahab. We have refrained from repeating it. However, we must know
 that all the things mention in these two narrations that do not match
 with the information of previous traditions are not reliable.
 
-

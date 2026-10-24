@@ -35,4 +35,3 @@ whips.)
 
 • tools: **ضَرَبتُهُ سَوطاً** (I hit him, whipping.)
 
-

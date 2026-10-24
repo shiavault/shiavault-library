@@ -454,4 +454,3 @@ rights, is the only solution to the problem of negative rebellion and
 disobedience, not through the use of power and intellectual pressures
 and terrorism.
 
-

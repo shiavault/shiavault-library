@@ -156,4 +156,3 @@ Almighty God, alone without a partner, associate, or son.
 
 [^1]: Nahjul Balagha, Part 3, p. 44
 
-

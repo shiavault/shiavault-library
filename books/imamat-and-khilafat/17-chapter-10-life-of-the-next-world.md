@@ -570,4 +570,3 @@ be repenting and regretting, it is called the day of grief and the day
 of mutual disillusion. And as the Resurrection is the greatest event and
 the biggest piece of news, it is called the Great Tidings.
 
-

@@ -7,4 +7,3 @@ sacred month to attain nearness to Allah (*wajib qurbatan ila-Allah*).
 Just like the five daily prayers, the *niyyat* of fast is obligatory and
 mental, and so is the case of every deed according to Islam.
 
-

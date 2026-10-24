@@ -409,4 +409,3 @@ deviators (Qasetoon), they shall be a fuel for the hell” (Sura al Jinn:
 (a.s.) to the group of Kharijites who fought against him at Naharwan,
 derived from a Prophetic Tradition.
 
-

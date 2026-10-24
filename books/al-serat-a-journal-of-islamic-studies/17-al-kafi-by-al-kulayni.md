@@ -277,4 +277,3 @@ to al-Kafi, I, 28 footnote 3
 11. F. Sezgin, Geshichte des arabischen Schrifttums (Leiden 1967-), I,
 541-2.
 
-

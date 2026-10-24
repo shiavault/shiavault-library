@@ -417,11 +417,7 @@ divorce Umm Ayyub, his wife. The Prophet personally knew Umm Ayyub, and
 knew also that the divorce of Abu Ayyub was not grounded in an genuine
 cause. He said:
 
-<blockquote dir="rtl">
-  <p>
-إن طلاق أُم أيُّوب لَحُوبُ
-  </p>
-</blockquote>
+> إن طلاق أُم أيُّوب لَحُوبُ
 
 “Verily, the divorce of Umm Ayyub is a great sin.” The Prophet also
 said: “Jibra’il (Gabriel) so much commended the cause of the woman, and
@@ -1295,13 +1291,9 @@ the wife and the husband, they are to be preferred to the others; this
 is the actual saying of the Qur’an. In verse 35 of the chapter
 *an-Nisa’* (The Women), the commandment comes in the following words:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ
-وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ
-بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا
-  </p>
-</blockquote>
+> وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ
+> وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ
+> بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا
 
 ***And if you fear a breach between the two, bring forth an arbiter from
 his people and from her people an arbiter, if they desire to set things
@@ -1501,12 +1493,8 @@ money and wealth in her own custody, to make arrangement for residence
 in her own name, and instead makes a gift of the energy of her work to
 her husband, the husband also, according to:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَا
-  </p>
-</blockquote>
+> وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
+> رُدُّوهَا
 
 ***And when you are greeted with a greeting, greet with a fairer than it
 or return it;*** (Qur’an, 4:86) should make a present of a reciprocal
@@ -1768,11 +1756,7 @@ courteously and kindly divorce her, i.e., he should not abstain from
 divorcing her. He should pay what is due to her, and something over and
 above that as an expression of gratitude:
 
-<blockquote dir="rtl">
-  <p>
-وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ
-  </p>
-</blockquote>
+> وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ
 
 ***Yet make provision for them, the affluent man according to his means,
 and according to his means the needy man*** **(2:236).**
@@ -1815,11 +1799,7 @@ belief in justice, “*qiyam bi-qist*” (the upholding of justice), that
 is, which considers that the real and the basic purpose of all the
 prophets of God was to maintain and uphold justice:
 
-<blockquote dir="rtl">
-  <p>
-وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ
-  </p>
-</blockquote>
+> وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ
 
 ***Indeed, We sent Our Messengers with the clear signs, and We sent down
 with them the Book and the Balance so that men might uphold justice.***
@@ -1993,25 +1973,17 @@ like this.
 ‘The Qur’an in *surah al-Baqarah* (The Cow) makes the following
 commandment:
 
-<blockquote dir="rtl">
-  <p>
-الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ
-بِإِحْسَانٍ
-  </p>
-</blockquote>
+> الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ
+> بِإِحْسَانٍ
 
 ***Divorce is twice; then honourable retention or setting free kindly***
 **(2:229)**
 
 And again in *surah al-Baqarah* it is ordained:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ
-بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ
-ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ
-  </p>
-</blockquote>
+> وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ
+> بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ
+> ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ
 
  ***“And when you divorce women, and they have reached their term, then
 retain them honorably or set them free honorably; and do not retain them
@@ -2112,12 +2084,8 @@ Islam.
 
 In *al-Kafi,* vol.5, p. 205, Imam as-Sadiq (a.s.) is quoted as saying:
 
-<blockquote dir="rtl">
-  <p>
-إذا أراد الرجُل أن يتزوَّج المرأة فليقُل: أقررتُ بالميثاق الذي أخذ
-الله: إمساكُ بِمعرُوفٍ أو تسريحٍ بِإحسان.
-  </p>
-</blockquote>
+> إذا أراد الرجُل أن يتزوَّج المرأة فليقُل: أقررتُ بالميثاق الذي أخذ
+> الله: إمساكُ بِمعرُوفٍ أو تسريحٍ بِإحسان.
 
 Which means that whenever a man wants to marry a woman he should say:  
  “I acknowledge the promise which God has taken from me that I will
@@ -2125,12 +2093,8 @@ retain the woman honorably or shall set her free with kindness.”
 
 In verse 21 of Surah an-Nisa in Holy Qur’an it says:
 
-<blockquote dir="rtl">
-  <p>
-وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ
-وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا
-  </p>
-</blockquote>
+> وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ
+> وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا
 
 ***How shall you take it, when each of you has been privily with the
 other, and they have taken from you solemn compact?***
@@ -2146,12 +2110,8 @@ There is a well-knowing *hadith* of the Prophet which he said on the
 occasion of his last hajj (*hajjatu ‘l-wida* ‘) and which the Shi ‘ah
 and Sunni have both related:
 
-<blockquote dir="rtl">
-  <p>
-إتقوا الله في النساء فإنكُم أخذتُمُوهُنًّ بِأمانة الله واستحللتُم
-فُروجهُنَّ بِكلمة الله
-  </p>
-</blockquote>
+> إتقوا الله في النساء فإنكُم أخذتُمُوهُنًّ بِأمانة الله واستحللتُم
+> فُروجهُنَّ بِكلمة الله
 
 **“O people! Keep Allah in mind and fear Him in respect of women,
 because you have taken them as trust from Allah and you have made lawful
@@ -2282,5 +2242,4 @@ at-Tusi (385/995- 460/1076). The greatest Shi’ite jurisconsult of the
 Scholar of the Shi’ite Sect.” His book Kitab al-khilaf fi’l-fiqh is a
 comparison of the difference sects of Islam in the domain of
 jurisprudence.
-
 

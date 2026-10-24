@@ -23,11 +23,7 @@ divine affair.”[^1]
 In *al-Muhajja* it is narrated from Imam Ja’far Sadiq (as) regarding the
 verse:
 
-<blockquote dir="rtl">
-  <p>
-لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ
-  </p>
-</blockquote>
+> لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ
 
 ***“Wherefore didst Thou not grant us a delay to a near end?” (Qur’an,
 Surah Nisa 4:77)***
@@ -47,12 +43,8 @@ Ali bin Ibrahim has reported from His Eminence, Abu Ja’far Baqir (as)
 through his own chain of narrators in his *Tafseer* that the Imam said
 regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَنِ انْتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِمْ مِنْ
-سَبِيلٍ
-  </p>
-</blockquote>
+> وَلَمَنِ انْتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِمْ مِنْ
+> سَبِيلٍ
 
 ***“And whoever defends himself after his being oppressed.” (Qur’an,
 Surah Shura 42:41)***
@@ -67,12 +59,8 @@ al-Abbas from his own chain of reporters from a channel other than that
 of His Eminence. And in the *Tafseer* of Ali bin Ibrahim it is narrated
 from Imam Ja’far Sadiq (as) that he said regarding the verse:
 
-<blockquote dir="rtl">
-  <p>
-أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ
-عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
-  </p>
-</blockquote>
+> أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ
+> عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
 
 ***“Permission (to fight) is given to those upon whom war is made
 because they are oppressed, and most surely Allah is well able to assist
@@ -247,5 +235,4 @@ is the expression of all the qualities of the Holy Imam (as).
 [^10]: Ghaibat Tusi, Pg. 149
 
 [^11]: Biharul Anwar; Vol. 42, Pg. 189
-
 

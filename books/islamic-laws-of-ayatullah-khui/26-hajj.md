@@ -135,4 +135,3 @@ returns from the way and performs it, his action is in order. And if his
 returning from the way is hard for him, he can depute another person to
 perform the tawaf on his behalf.
 
-

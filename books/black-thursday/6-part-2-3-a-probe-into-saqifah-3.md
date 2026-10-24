@@ -122,13 +122,9 @@ meeting us.”
 
 Almighty Allah revealed the following verse:
 
-<blockquote dir="rtl">
-  <p>
-«يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءكُمْ فَاسِقٌ بِنَبَأٍ
-فَتَبَيَّنُوا أَن تُصِيبُوا قَوْماً بِجَهَالَةٍ فَتُصْبِحُوا عَلَى مَا
-فَعَلْتُمْ نَادِمِينَ.»
-  </p>
-</blockquote>
+> «يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءكُمْ فَاسِقٌ بِنَبَأٍ
+> فَتَبَيَّنُوا أَن تُصِيبُوا قَوْماً بِجَهَالَةٍ فَتُصْبِحُوا عَلَى مَا
+> فَعَلْتُمْ نَادِمِينَ.»
 
 ***O you who believe, if an evil-doer comes to you with a report, look
 carefully into it, lest you harm a people in ignorance, then be sorry
@@ -273,15 +269,11 @@ great extent and Abu Zar decided to fight against it. He used to go out
 in the markets protesting and he used to recite the following verse of
 Surah Taubah:
 
-<blockquote dir="rtl">
-  <p>
-«وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا
-فِي سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ. يَوْمَ يُحْمَىٰ
-عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا جِبَاهُهُمْ وَجُنوبُهُمْ
-وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ لأَنفُسِكُمْ فَذُوقُواْ مَا
-كُنتُمْ تَكْنِزُونَ.»
-  </p>
-</blockquote>
+> «وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلاَ يُنفِقُونَهَا
+> فِي سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ. يَوْمَ يُحْمَىٰ
+> عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا جِبَاهُهُمْ وَجُنوبُهُمْ
+> وَظُهُورُهُمْ هَـذَا مَا كَنَزْتُمْ لأَنفُسِكُمْ فَذُوقُواْ مَا
+> كُنتُمْ تَكْنِزُونَ.»
 
 ***(As for) those who hoard up gold and silver and do not spend it in
 Allah’s way, announce to them a painful chastisement, On the day when it
@@ -807,11 +799,7 @@ al-Saadi objected to it. Someone told Jaballa: “You should not oppose
 Uthman in this matter.” He replied: “I have to present myself in front
 of Allah tomorrow and I do not want to say:
 
-<blockquote dir="rtl">
-  <p>
-«إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءنَا فَأَضَلُّونَا السَّبِيلاَ.»
-  </p>
-</blockquote>
+> «إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءنَا فَأَضَلُّونَا السَّبِيلاَ.»
 
 ***Surely we obeyed our leaders and our great men, so they led us astray
 from the path.***[^28]
@@ -1101,5 +1089,4 @@ explanation of this incident. I have written this incident briefly.
 Apart from this, this incident is mentioned in all books of History.
 
 [^30]: Ibn Abil Hadid, Sharh Nahjul Balagha, Vol. 8, Pg. 83
-
 

@@ -8,11 +8,7 @@ Surah ‘Abasa, Chapter 80
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -47,73 +43,29 @@ rejoicing on The Day of Judgment.”*
 Surah ‘Abasa, Verses 1-10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-عَبَسَ وَتَوَلَّىٰ
-  </p>
-</blockquote>
+> عَبَسَ وَتَوَلَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-أَنْ جَاءَهُ الْأَعْمَىٰ
-  </p>
-</blockquote>
+> أَنْ جَاءَهُ الْأَعْمَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ
-  </p>
-</blockquote>
+> وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ
-  </p>
-</blockquote>
+> أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ
 
-<blockquote dir="rtl">
-  <p>
-أَمَّا مَنِ اسْتَغْنَىٰ
-  </p>
-</blockquote>
+> أَمَّا مَنِ اسْتَغْنَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْتَ لَهُ تَصَدَّىٰ
-  </p>
-</blockquote>
+> فَأَنْتَ لَهُ تَصَدَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
-  </p>
-</blockquote>
+> وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ
-  </p>
-</blockquote>
+> وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ يَخْشَىٰ
-  </p>
-</blockquote>
+> وَهُوَ يَخْشَىٰ
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْتَ عَنْهُ تَلَهَّىٰ
-  </p>
-</blockquote>
+> فَأَنْتَ عَنْهُ تَلَهَّىٰ
 
 ***1. “He frowned and turned away,”***  
 ***2. "Because there came to him the blind man."***  
@@ -345,83 +297,31 @@ and secure their confidence and sympathy.”*
 Surah ‘Abasa, Verses 11-23
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّهَا تَذْكِرَةٌ
-  </p>
-</blockquote>
+> كَلَّا إِنَّهَا تَذْكِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ شَاءَ ذَكَرَهُ
-  </p>
-</blockquote>
+> فَمَنْ شَاءَ ذَكَرَهُ
 
-<blockquote dir="rtl">
-  <p>
-فِي صُحُفٍ مُكَرَّمَةٍ
-  </p>
-</blockquote>
+> فِي صُحُفٍ مُكَرَّمَةٍ
 
-<blockquote dir="rtl">
-  <p>
-مَرْفُوعَةٍ مُطَهَّرَةٍ
-  </p>
-</blockquote>
+> مَرْفُوعَةٍ مُطَهَّرَةٍ
 
-<blockquote dir="rtl">
-  <p>
-بِأَيْدِي سَفَرَةٍ
-  </p>
-</blockquote>
+> بِأَيْدِي سَفَرَةٍ
 
-<blockquote dir="rtl">
-  <p>
-كِرَامٍ بَرَرَةٍ
-  </p>
-</blockquote>
+> كِرَامٍ بَرَرَةٍ
 
-<blockquote dir="rtl">
-  <p>
-قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ
-  </p>
-</blockquote>
+> قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ
 
-<blockquote dir="rtl">
-  <p>
-مِنْ أَيِّ شَيْءٍ خَلَقَهُ
-  </p>
-</blockquote>
+> مِنْ أَيِّ شَيْءٍ خَلَقَهُ
 
-<blockquote dir="rtl">
-  <p>
-مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
-  </p>
-</blockquote>
+> مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ السَّبِيلَ يَسَّرَهُ
-  </p>
-</blockquote>
+> ثُمَّ السَّبِيلَ يَسَّرَهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
-  </p>
-</blockquote>
+> ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ إِذَا شَاءَ أَنْشَرَهُ
-  </p>
-</blockquote>
+> ثُمَّ إِذَا شَاءَ أَنْشَرَهُ
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
-  </p>
-</blockquote>
+> كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
 
 ***11. “Nay surely it is an admonishment,”***  
 ***12. “So let him who pleases mind it,”***  
@@ -778,59 +678,23 @@ Else, no one is able to do according to his Lordship.
 Surah ‘Abasa, Verses 24-32
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
-  </p>
-</blockquote>
+> فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
 
-<blockquote dir="rtl">
-  <p>
-أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
-  </p>
-</blockquote>
+> أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
 
-<blockquote dir="rtl">
-  <p>
-ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
-  </p>
-</blockquote>
+> ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
 
-<blockquote dir="rtl">
-  <p>
-فَأَنْبَتْنَا فِيهَا حَبًّا
-  </p>
-</blockquote>
+> فَأَنْبَتْنَا فِيهَا حَبًّا
 
-<blockquote dir="rtl">
-  <p>
-وَعِنَبًا وَقَضْبًا
-  </p>
-</blockquote>
+> وَعِنَبًا وَقَضْبًا
 
-<blockquote dir="rtl">
-  <p>
-وَزَيْتُونًا وَنَخْلًا
-  </p>
-</blockquote>
+> وَزَيْتُونًا وَنَخْلًا
 
-<blockquote dir="rtl">
-  <p>
-وَحَدَائِقَ غُلْبًا
-  </p>
-</blockquote>
+> وَحَدَائِقَ غُلْبًا
 
-<blockquote dir="rtl">
-  <p>
-وَفَاكِهَةً وَأَبًّا
-  </p>
-</blockquote>
+> وَفَاكِهَةً وَأَبًّا
 
-<blockquote dir="rtl">
-  <p>
-مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
-  </p>
-</blockquote>
+> مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
 
 ***24. “Then let man look to his food,”***  
 ***25. “That We pour down the water, pouring it in abundance,”***  
@@ -1150,65 +1014,25 @@ and what a meaningful sentence this short, single statement is!
 Surah ‘Abasa, Verses 33-42
 --------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا جَاءَتِ الصَّاخَّةُ
-  </p>
-</blockquote>
+> فَإِذَا جَاءَتِ الصَّاخَّةُ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
-  </p>
-</blockquote>
+> يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
 
-<blockquote dir="rtl">
-  <p>
-وَأُمِّهِ وَأَبِيهِ
-  </p>
-</blockquote>
+> وَأُمِّهِ وَأَبِيهِ
 
-<blockquote dir="rtl">
-  <p>
-وَصَاحِبَتِهِ وَبَنِيهِ
-  </p>
-</blockquote>
+> وَصَاحِبَتِهِ وَبَنِيهِ
 
-<blockquote dir="rtl">
-  <p>
-لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
-  </p>
-</blockquote>
+> لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
 
-<blockquote dir="rtl">
-  <p>
-وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ
-  </p>
-</blockquote>
+> وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-ضَاحِكَةٌ مُسْتَبْشِرَةٌ
-  </p>
-</blockquote>
+> ضَاحِكَةٌ مُسْتَبْشِرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
-  </p>
-</blockquote>
+> وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-تَرْهَقُهَا قَتَرَةٌ
-  </p>
-</blockquote>
+> تَرْهَقُهَا قَتَرَةٌ
 
-<blockquote dir="rtl">
-  <p>
-أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
-  </p>
-</blockquote>
+> أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
 
 ***33. “And when the deafening cry comes,”***  
 ***34. “The Day on which a man shall flee from his brother,”***  
@@ -1404,5 +1228,4 @@ of his Creator and the Resurrection, then let him look to his food’.
 [^4]: Safinat‑ul‑Bihar, vol. 2, p. 84.
 
 [^5]: ibid.
-
 

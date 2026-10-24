@@ -127,4 +127,3 @@ universe and its uncountable things are the witnesses of Allah's adl
 The Holy Quran confirms the scientific view of the universe. "He has
 raised the heavens and has set up a standard for everything." (55:7)
 
-

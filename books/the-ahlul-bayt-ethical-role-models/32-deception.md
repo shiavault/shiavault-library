@@ -573,4 +573,3 @@ the Abbasid caliph, in the state.
 
 [^20]: Quoted from al-Wafi; part 3 page 60 (as quoted from al- Kafi).
 
-

@@ -24,4 +24,3 @@ and his daughter - *“Peace be upon him/her.”*
 With great respect, admiration, recognition, and praise, I have omitted
 the mentioned phrases for the sake of continuity.
 
-

@@ -818,4 +818,3 @@ rights and love us, they surely love God. Choose to be subordinate, not
 head. The Prophet (peace be upon him and his family) said: "The fearful
 are unable to speak."
 
-

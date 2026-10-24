@@ -96,32 +96,20 @@ Allah. It is during *Salat* that a pious and abstentious believer
 attains great heights of divine recognition. *Salat* is attention
 towards Allah and His remembrance. He says,
 
-<blockquote dir="rtl">
-  <p>
-اُذْكُرُونِي أَذْكُرْكُمْ.
-  </p>
-</blockquote>
+> اُذْكُرُونِي أَذْكُرْكُمْ.
 
 ***“You remember Me, I will remember you.” (Qur’an, 2:52)***
 
 In fact, Allah remembers more those who worship Him than they remember
 Him. Under the verse
 
-<blockquote dir="rtl">
-  <p>
-وَلَذِكْرُ اللهِ أَكْبَرُ
-  </p>
-</blockquote>
+> وَلَذِكْرُ اللهِ أَكْبَرُ
 
 ***‘And Allah’s remembrance is the greatest.’ (Qur’an, 29: 45),***
 
 Imam Al-Baqir (‘a) says,
 
-<blockquote dir="rtl">
-  <p>
-ذِكْرُ اللهِ لِأَهْلِ الصَّلاةِ أَكْبَرُ مِنْ ذِكْرِهِمْ إِيّاهُ.
-  </p>
-</blockquote>
+> ذِكْرُ اللهِ لِأَهْلِ الصَّلاةِ أَكْبَرُ مِنْ ذِكْرِهِمْ إِيّاهُ.
 
 “Allah’s remembrance of those who worship Him is greater than their
 remembrance of Him.” [^2]
@@ -139,13 +127,9 @@ a servant to reach unto his Master and provides satisfaction to him.
 Amir al Mu’minin, Ali (‘a) explains the meaning of ‘Indeed the prayers
 have been established’ (*qad qamat al-Salat)* thus:
 
-<blockquote dir="rtl">
-  <p>
-حَانَ وَقْتُ الزِّيَارَةِ وَ الْمُنَاجَاةِ وَ قَضَاءِ الْحَوَائِجِ وَ
-دَرْكِ الْمُنى وَ الْوُصُولِ إِلى اللهِ عَزَّ وَ جَلَّ، وَإِلى
-كَرَامَتِهِ وَ عَفْوِهِ وَ رِضْوانِهِ وَ غُفْرَانِهِ.
-  </p>
-</blockquote>
+> حَانَ وَقْتُ الزِّيَارَةِ وَ الْمُنَاجَاةِ وَ قَضَاءِ الْحَوَائِجِ وَ
+> دَرْكِ الْمُنى وَ الْوُصُولِ إِلى اللهِ عَزَّ وَ جَلَّ، وَإِلى
+> كَرَامَتِهِ وَ عَفْوِهِ وَ رِضْوانِهِ وَ غُفْرَانِهِ.
 
 “The moment of visitation, invocation and fulfillment of needs,
 achievement of desires, and reaching to Allah (Mighty and Glorified be
@@ -200,5 +184,4 @@ Isharat wa al-tanbihat, p. 394
 [^4]: Al Khisal, p. 522
 
 [^5]: Ilalush shar’ia, p. 317
-
 

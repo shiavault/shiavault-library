@@ -24,4 +24,3 @@ the margin of the translation).
 
 Quotations from the Arabic ore indicated by printing in italics.
 
-

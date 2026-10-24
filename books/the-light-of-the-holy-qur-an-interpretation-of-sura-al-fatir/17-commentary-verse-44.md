@@ -86,7 +86,6 @@ hear the advice of these silent people and pay attention to the cry of
 those who are buried under the dust, and watch by their eyes what will
 finally happen to them.
 
-
 **Commentary : Verse 45**
 
 (45) وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَي
@@ -211,10 +210,7 @@ O’ Allah! Protect us from any kind of polytheism, and lit the torch of
 sincere Faith and Unity in our heart, and increase the light of piety in
 our speech and deeds.
 
-
 The End of Sura Al-Fatir
 
-
-[^1] Nu-r-uth-Thaqalayn, Vol. 4, P. 370
-
+[^1]: Nu-r-uth-Thaqalayn, Vol. 4, P. 370
 

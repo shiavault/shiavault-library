@@ -1877,4 +1877,3 @@ as eighteen of his contemporary poets. Both poems are among the
 manuscripts at the library belonging to the authority critic al-Amini,
 author of the Al-Ghadir encyclopaedia.
 
-

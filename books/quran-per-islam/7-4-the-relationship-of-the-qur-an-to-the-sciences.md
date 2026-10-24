@@ -335,4 +335,3 @@ respected narrators but also by the hypocrites. Their sayings soon
 became part of the main body of sayings and this further undermined the
 credibility of this particular section of the Science of tradition.
 
-

@@ -269,4 +269,3 @@ front of others.)
 
 [^9]: ‛Allāmah Majlīsī, Bihār al-Anwār, volume 6.
 
-

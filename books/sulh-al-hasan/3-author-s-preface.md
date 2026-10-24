@@ -176,4 +176,3 @@ al-Najashi, and the like. Also you can find them with the names of other
 books concerning al-Hasan's, peace be on him, peace and killing. We do
 not want to speak at length about them, for they have become mere names.
 
-

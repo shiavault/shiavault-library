@@ -127,4 +127,3 @@ Hambal in Musnad (1:170); Nasā’ī, ‘Amal-ul-yawm wal-laylah, p.416
 (\#656); Abū Ya‘lā, Musnad (2:111\#772); Bayhaqī, Shu‘ab-ul-īmān
 (1:432\#620); and Mundhirī in at-Targhīb wat-tarhīb (2:488).
 
-

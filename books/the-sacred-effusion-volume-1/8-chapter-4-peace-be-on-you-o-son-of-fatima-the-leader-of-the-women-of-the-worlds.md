@@ -1,28 +1,16 @@
 Chapter 4: Peace be on you, O son of Fatima – the leader of the women of the worlds
 ===================================================================================
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ ياَ بْنَ فَاطمَة
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ ياَ بْنَ فَاطمَة
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
 
 Peace be on You, O son of Fatima- the Leader of the Women of the Worlds
 
 Commentary
 ----------
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ ياَ بْنَ فَاطمَة
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ ياَ بْنَ فَاطمَة
 
 Peace be unto you, O son of Fatima
 
@@ -34,13 +22,9 @@ as well. One of the appellations of Hadhrat Fatima (AS) is *al-Tayyiba*
 (the pleasant one). In a well-known *Ziyarat* of the Holy Prophet (S) we
 supplicate as follows:
 
-<blockquote dir="rtl">
-  <p>
-...اَللَّهُمَّ صَلِّ عَلىَ فَاطمَةَ الطيِّبَةِ الطاهِرَةِ
-الْمُطهَّرَةِ، الَّتِيْ انْتَجَبْتَهَا وَطهَّرْتَهَا وَ فَضَّلْتَهَا
-عَلىَ نِسَاءِ الْعَالَمِيْنَ...
-  </p>
-</blockquote>
+> ...اَللَّهُمَّ صَلِّ عَلىَ فَاطمَةَ الطيِّبَةِ الطاهِرَةِ
+> الْمُطهَّرَةِ، الَّتِيْ انْتَجَبْتَهَا وَطهَّرْتَهَا وَ فَضَّلْتَهَا
+> عَلىَ نِسَاءِ الْعَالَمِيْنَ...
 
 ...O Allah, bless Fatima, *the pleasant one* (*al-Tayyiba*), the pure,
 the purified, whom You chose, purified and preferred over all the women
@@ -50,12 +34,8 @@ Imam al-Husayn (AS) being the offspring of a pure mother the like of
 *al-Tayyiba*, also inherits utter purity. Small wonder it is that one of
 his appellations is *al-Tayyib*: Abu Shibl narrates:
 
-<blockquote dir="rtl">
-  <p>
-قُلْتُ لأَبِي عَبْدِ اللَّهِ أَزُورُ قَبْرَ الْحُسَيْنِ قَالَ نَعَمْ
-زُرِ الطيِّبَ وَأَتِمَّ الصَّلاَةَ فِيه...
-  </p>
-</blockquote>
+> قُلْتُ لأَبِي عَبْدِ اللَّهِ أَزُورُ قَبْرَ الْحُسَيْنِ قَالَ نَعَمْ
+> زُرِ الطيِّبَ وَأَتِمَّ الصَّلاَةَ فِيه...
 
 I said to Imam al-Sadiq (AS): I visit the grave of *al-Husayn* (AS) He
 (AS) said: Yes, *visit al-Tayyib*[^2] *(the pleasant one),* and pray the
@@ -65,14 +45,10 @@ In another tradition, Abu Sa’id al-Mada’ini says: I entered in the
 presence of Abu ‘Abdillah [al-Sadiq (AS)], and I said: May I be made
 your ransom. Should I visit the grave of al-Husayn (AS)? He (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-نَعَمْ يَا أَبَا سَعِيدٍ ائْتِ قَبْرَ الْحُسَيْنِ ابْنِ رَسُولِ
-اللَّهِ أَطيَبِ الأَطيَبِينَ وَأَطهَرِ الطاهِرِينَ وَأَبَرِّ
-الأَبْرَارِ فَإِنَّكَ إِذَا زُرْتَهُ كَتَبَ اللَّهُ لَكَ بِهِ خَمْساً
-وَ عِشْرِينَ حَجَّةً.
-  </p>
-</blockquote>
+> نَعَمْ يَا أَبَا سَعِيدٍ ائْتِ قَبْرَ الْحُسَيْنِ ابْنِ رَسُولِ
+> اللَّهِ أَطيَبِ الأَطيَبِينَ وَأَطهَرِ الطاهِرِينَ وَأَبَرِّ
+> الأَبْرَارِ فَإِنَّكَ إِذَا زُرْتَهُ كَتَبَ اللَّهُ لَكَ بِهِ خَمْساً
+> وَ عِشْرِينَ حَجَّةً.
 
 Yes O Aba Sa’id, visit the grave of al-Husayn (AS), the offspring of the
 Messenger of Allah (S), **the most pleasant of the most pleasant ones
@@ -84,12 +60,8 @@ In the well-known *Ziyarat al-Jami’a al-Kabira* there is a statement
 that alludes to the *process of the transfer* of purity. We are taught
 to address the Ahl al-Bayt (AS) in the following way:
 
-<blockquote dir="rtl">
-  <p>
-...وَأََنَّ أَرْوَاحَكُمْ وَنُورَكُمْ وَطينَتَكُمْ وَاحِدَةٌ طابَتْ
-وَطهُرَتْ بَعْضُهَا مِنْ بَعْض...
-  </p>
-</blockquote>
+> ...وَأََنَّ أَرْوَاحَكُمْ وَنُورَكُمْ وَطينَتَكُمْ وَاحِدَةٌ طابَتْ
+> وَطهُرَتْ بَعْضُهَا مِنْ بَعْض...
 
 ...and that your spirits, your light, and your nature are one; they
 became pleasant and purified some from others...[^5]
@@ -97,11 +69,7 @@ became pleasant and purified some from others...[^5]
 In another tradition where the *basis of transfer* is clearly depicted,
 the Holy Prophet (S) presents a Divine law:
 
-<blockquote dir="rtl">
-  <p>
-...فَأَبَى أَنْ يُخْرِجَ مِنَ الطيِّبِ إِلاَّ الطيِّبَ
-  </p>
-</blockquote>
+> ...فَأَبَى أَنْ يُخْرِجَ مِنَ الطيِّبِ إِلاَّ الطيِّبَ
 
 ...And He [Allah] did not allow to produce from a pleasant entity save a
 pleasant entity.[^6]
@@ -109,13 +77,9 @@ pleasant entity.[^6]
 In a beautiful conversation with Kumayl bin Ziyad al-Nakha’i Amir
 al-mu’minin ‘Ali (AS) narrates the Prophet (S) as saying:
 
-<blockquote dir="rtl">
-  <p>
-عَلِيٌّ مِنِّي وَابْنَايَ مِنْهُ وَالطيِّبُونَ مِنِّي وَأَنَا مِنْهُمْ
-وَهُمُ الطيِّبُونَ بَعْدَ أُمِّهِمْ وَهُمْ سَفِينَةٌ مَنْ رَكِبَهَا
-نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَوَى...
-  </p>
-</blockquote>
+> عَلِيٌّ مِنِّي وَابْنَايَ مِنْهُ وَالطيِّبُونَ مِنِّي وَأَنَا مِنْهُمْ
+> وَهُمُ الطيِّبُونَ بَعْدَ أُمِّهِمْ وَهُمْ سَفِينَةٌ مَنْ رَكِبَهَا
+> نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَوَى...
 
 ‘Ali is from me, and my two sons are from him, and the *tayyibun* [a
 reference to the A’imma (AS)] are from me, and I am from them, and they
@@ -132,14 +96,10 @@ the following verses and narrations:
 
 1- The Holy Qur\`an presents a parable of universal significance:
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَى كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طيِّبَةً
-كَشَجَرَةٍ طيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي
-السَّمَاءِ.تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا وَيَضْرِبُ
-اللَّهُ الأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَى كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طيِّبَةً
+> كَشَجَرَةٍ طيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي
+> السَّمَاءِ.تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا وَيَضْرِبُ
+> اللَّهُ الأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 ***Don’t you see how Allah sets forth a parable?*** **A pleasant
 word**[^8] ***(kalima tayyiba) is like a goodly tree, whose root is
@@ -162,13 +122,9 @@ skies of spiritual elevation, and benefit others every moment by the
 permission of their Lord. In a tradition Imam al-Baqir (AS) says the
 following about the aforementioned verse:
 
-<blockquote dir="rtl">
-  <p>
-...نَحْنُ الشَّجَرَةُ الَّتِيْ قال الله تَعاَلىَ أَصْلُهَا ثَابِتٌ
-وفَرْعُهَا فِي السَّماَءِ،نَحْنُ نُعْطي شِيعَتَنَا مَا نَشَاءُ مِنْ
-عِلْمِنَا
-  </p>
-</blockquote>
+> ...نَحْنُ الشَّجَرَةُ الَّتِيْ قال الله تَعاَلىَ أَصْلُهَا ثَابِتٌ
+> وفَرْعُهَا فِي السَّماَءِ،نَحْنُ نُعْطي شِيعَتَنَا مَا نَشَاءُ مِنْ
+> عِلْمِنَا
 
 We are the tree about which Almighty Allah said **“*****...whose root is
 firmly fixed, and its branches (reach) to the heavens*****” (14:24).**
@@ -178,14 +134,10 @@ knowledge...[^10]
 2. Imam Amir al-mu’minin ‘Ali (AS) alluding to the reality that the
 fruit depends on the water of the plant says:
 
-<blockquote dir="rtl">
-  <p>
-...وَاعْلَمْ أَنَّ كُلَّ عَمَلٍ نَبَاتٌ، وَكُلَّ نَبَاتٍ لاَ غِنَى
-بِهِ عَنِ الْمَاءِ، وَالْمِيَاهُ مُخْتَلِفَةٌ، فَمَا طابَ سَقْيُهُ
-طابَ غَرْسُهُ، وَحَلَتْ ثَمَرَتُهُ، وَمَا خَبُثَ سَقْيُهُ خَبُثَ
-غَرْسُهُ، وَأَمَرَّتْ ثَمَرَتُه.
-  </p>
-</blockquote>
+> ...وَاعْلَمْ أَنَّ كُلَّ عَمَلٍ نَبَاتٌ، وَكُلَّ نَبَاتٍ لاَ غِنَى
+> بِهِ عَنِ الْمَاءِ، وَالْمِيَاهُ مُخْتَلِفَةٌ، فَمَا طابَ سَقْيُهُ
+> طابَ غَرْسُهُ، وَحَلَتْ ثَمَرَتُهُ، وَمَا خَبُثَ سَقْيُهُ خَبُثَ
+> غَرْسُهُ، وَأَمَرَّتْ ثَمَرَتُه.
 
 ...and know that every action is a plant, and every plant is not
 needless of water, and waters are of different kinds. And if the water
@@ -196,12 +148,8 @@ growth would be unpleasant and its fruit bitter.[^11]
 3. Alluding to the fundamental importance of the land where the plant
 grows, the Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-وَالْبَلَدُ الطيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي
-خَبُثَ لاَ يَخْرُجُ إِلاَّ نَكِدًا
-  </p>
-</blockquote>
+> وَالْبَلَدُ الطيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي
+> خَبُثَ لاَ يَخْرُجُ إِلاَّ نَكِدًا
 
 **The good land** ***its vegetation comes out by the permission of its
 Lord, and as for that which is bad, it does not come out except
@@ -210,11 +158,7 @@ sparsely. (7:58)***
 4. In a well-known *Ziyarat* when addressing the Imams of the Baqi’
 cemetery in Madina we say:
 
-<blockquote dir="rtl">
-  <p>
-...طبْتُمْ وَطابَ مَنْبِتُكُم...
-  </p>
-</blockquote>
+> ...طبْتُمْ وَطابَ مَنْبِتُكُم...
 
 You are pleasant and the place of your growth too is pleasant and
 pure...[^12]
@@ -222,25 +166,17 @@ pure...[^12]
 5. Alluding to the pleasant growth of Hadhrat Maryam (AS) Almighty Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-فَتَقَبَّلَها رَبُّها بِقَبُولٍ حَسَنٍ وَأَنْبَتَها نَباتاً حَسَناً...
-  </p>
-</blockquote>
+> فَتَقَبَّلَها رَبُّها بِقَبُولٍ حَسَنٍ وَأَنْبَتَها نَباتاً حَسَناً...
 
 ***Thereupon her Lord accepted her with a beautiful acceptance, and
 caused her to grow as a lovely plant...(3:37)***
 
 6. Imam al-Husayn (AS) says in his well-known supplication of ‘Arafa:
 
-<blockquote dir="rtl">
-  <p>
-خَلَقْتَنِي مِنَ التُّرَابِ، ثُمّ أَسْكَنْتَنِي اْلأَصْلاَبَ آمِناً
-لِرَيْبَ الْمَنُوْنِ وَإِخْتِلاَفِ الدُّهُوْرِ، فَلَمْ أَزَلْ ظَاعِناً
-مِنْ صُلْبٍ إِلى رَحِمٍ فِيْ تَقَادُمِ الأَيَّامِ الْمَاضِيَةِ
-وَالْقُرُوْنِ الْخَالِيَةِ
-  </p>
-</blockquote>
+> خَلَقْتَنِي مِنَ التُّرَابِ، ثُمّ أَسْكَنْتَنِي اْلأَصْلاَبَ آمِناً
+> لِرَيْبَ الْمَنُوْنِ وَإِخْتِلاَفِ الدُّهُوْرِ، فَلَمْ أَزَلْ ظَاعِناً
+> مِنْ صُلْبٍ إِلى رَحِمٍ فِيْ تَقَادُمِ الأَيَّامِ الْمَاضِيَةِ
+> وَالْقُرُوْنِ الْخَالِيَةِ
 
 ...You created me from clay, then established me in loins safe from the
 unpredictable turn of destiny and the difference of times; **then I have
@@ -254,12 +190,8 @@ the immediate parents. Generations are responsible.
 7. In the well-known *Ziyarat al-Warith* we address Imam al-Husayn (AS)
 in the following way:
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنَّكَ نُوْراً فِي الأصْلاَبِ الشَّامِخَةِ وَالأرْحَامِ
-الْمُطهَّرَةِ لَمْ تُنَجِّسْكَ الْجَاهِلِيَّةُ بِأََنْجَاسِهَا ...
-  </p>
-</blockquote>
+> أَشْهَدُ أَنَّكَ نُوْراً فِي الأصْلاَبِ الشَّامِخَةِ وَالأرْحَامِ
+> الْمُطهَّرَةِ لَمْ تُنَجِّسْكَ الْجَاهِلِيَّةُ بِأََنْجَاسِهَا ...
 
 Surely I bear witness that you were **a** **light in the great loins and
 the pure wombs**, the [age of] ignorance did not taint you with its
@@ -273,14 +205,10 @@ edifice of a whole generation, and not mere one *sulb* (loin) and
 8. In his address to the disobedient Kufans on the plains of Karbala he
 alluded to his pure origin saying:
 
-<blockquote dir="rtl">
-  <p>
-اَلاَ اِنَّ الدَّعِيّ بْنَ الدَّعِيّ قَدْ رَكَزَ بَيْنَ اثْنَتَيْن،
-بَيْنَ الْقِلَّةِ وَالذّلّةِ، وَهَيْهَات مَا آخُذُ الدَّنِيّة، اَبى
-اللهُ ذَلِكَ وَرَسُوْلُهُ، وَجُدُوْدٌ طابَتْ وَحُجُوْرٌ طهُرَتْ،
-وَاُنُوْفٌ حَمِيَّةٌ وَنُفُوْسٌ اَبِيَّةٌ...
-  </p>
-</blockquote>
+> اَلاَ اِنَّ الدَّعِيّ بْنَ الدَّعِيّ قَدْ رَكَزَ بَيْنَ اثْنَتَيْن،
+> بَيْنَ الْقِلَّةِ وَالذّلّةِ، وَهَيْهَات مَا آخُذُ الدَّنِيّة، اَبى
+> اللهُ ذَلِكَ وَرَسُوْلُهُ، وَجُدُوْدٌ طابَتْ وَحُجُوْرٌ طهُرَتْ،
+> وَاُنُوْفٌ حَمِيَّةٌ وَنُفُوْسٌ اَبِيَّةٌ...
 
 Beware the illegal offsping, product of the illegal offspring, has made
 me to choose between the two: fighting with my few men and accepting the
@@ -297,12 +225,8 @@ establish the foundation of a chain that nurtures the values of the
 lineage of Imam al-Husayn (AS). There is always time for rectification
 and change. The Holy Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ
-وَيُحْيِي الأَرْضَ بَعْدَ مَوْتِهَا وَكَذَلِكَ تُخْرَجُونَ
-  </p>
-</blockquote>
+> يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ
+> وَيُحْيِي الأَرْضَ بَعْدَ مَوْتِهَا وَكَذَلِكَ تُخْرَجُونَ
 
 ***He brings forth the living from the dead and brings forth the dead
 from the living, and gives life to the earth after its death, and thus
@@ -311,13 +235,9 @@ shall you be brought forth. (30:19)***
 Imam al-Sadiq (AS) explaining the phrase ‘*He brings forth the living
 from the dead and brings forth the dead*’ in a tradition says:
 
-<blockquote dir="rtl">
-  <p>
-فَالْحَيّ اَلْمُؤْمِنُ الَّذِيْ تَخْرُجُ طيْنَتُهُ مِنْ طيْنَةِ
-الْكَافِرِ.وَالْمَيِّتُ الَّذِيْ يَخْرُج مِنَ الْحَيِّ هُوَ
-اَلْكَافِرُ الّذِيْ يَخْرُجُ مِنْ طيْنَةِ الْمُؤْمِنِ.
-  </p>
-</blockquote>
+> فَالْحَيّ اَلْمُؤْمِنُ الَّذِيْ تَخْرُجُ طيْنَتُهُ مِنْ طيْنَةِ
+> الْكَافِرِ.وَالْمَيِّتُ الَّذِيْ يَخْرُج مِنَ الْحَيِّ هُوَ
+> اَلْكَافِرُ الّذِيْ يَخْرُجُ مِنْ طيْنَةِ الْمُؤْمِنِ.
 
 The living is the believer whose clay comes out from the clay of a
 disbeliever, and the dead that comes out from the living is a
@@ -377,11 +297,7 @@ physical beauty. Hence you may find some children with excellent
 physical features, but poor moral traits, and vice versa. The Holy
 Qur\`an says:
 
-<blockquote dir="rtl">
-  <p>
-أَنزَلَ مِنْ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا...
-  </p>
-</blockquote>
+> أَنزَلَ مِنْ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا...
 
 ***He sends down water from the skies, and the channels flow, each
 according to its measure...(13:17)***
@@ -390,20 +306,16 @@ Philosophically explaining the differences in quality of the off-springs
 born, the late Imam al-Khumayni in his book *‘al-Talab wa al-Irada*
 says:
 
-<blockquote dir="rtl">
-  <p>
-فاعلم أنَّ واجب الوجود بالذَّات لمَّا كان واجب الوجود من جميع الجهات
-والحيثيَّات يمتنع عليه قبض الفيض عن الموضوع القابل فَإِنَّ قبضه بعد
-تماميَّة الاستعداد وعدم نقصٍ في جانب القابل مستلزمُ لنقصٍ في الفاعل أو
-جهة امكانٍ فيه تعالى عنه. وهذا اللزوم والوجوب كلزوم عدم صدور القبيح
-وامتناع صدور الظلم عنه اختياريُّ اراديُّ لا يضُرُّ بكونه مريداً
-مختاراً قَادِراً فَإِذَا تَمَّت الإستعدادات في القوابل أفيضت الفيوضات
-والوجودات من المبادي العالية. وأَمّا إِفَاضة الفيض الوجودي بمقدار
-الاستعداد وقابلية المواد للتاسب بين المادة والصورة للتركيب الطبيعي
-الإتحادي بينهما لا يمكن قبولها صورة الطف من مقتضى استعدادها كما لا
-يمكن منعها عمّا استُعِدَّت له...
-  </p>
-</blockquote>
+> فاعلم أنَّ واجب الوجود بالذَّات لمَّا كان واجب الوجود من جميع الجهات
+> والحيثيَّات يمتنع عليه قبض الفيض عن الموضوع القابل فَإِنَّ قبضه بعد
+> تماميَّة الاستعداد وعدم نقصٍ في جانب القابل مستلزمُ لنقصٍ في الفاعل أو
+> جهة امكانٍ فيه تعالى عنه. وهذا اللزوم والوجوب كلزوم عدم صدور القبيح
+> وامتناع صدور الظلم عنه اختياريُّ اراديُّ لا يضُرُّ بكونه مريداً
+> مختاراً قَادِراً فَإِذَا تَمَّت الإستعدادات في القوابل أفيضت الفيوضات
+> والوجودات من المبادي العالية. وأَمّا إِفَاضة الفيض الوجودي بمقدار
+> الاستعداد وقابلية المواد للتاسب بين المادة والصورة للتركيب الطبيعي
+> الإتحادي بينهما لا يمكن قبولها صورة الطف من مقتضى استعدادها كما لا
+> يمكن منعها عمّا استُعِدَّت له...
 
 Then be it known to you that because the Essentially Necessary Being is
 necessary in every dimension, it is impossible to withhold grace from
@@ -437,21 +349,13 @@ spiritual destruction.
 
 Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَا مِنْ مَوْلُودٍ يُولَدُ إِلاَ عَلَى الْفِطرَةِ فَأَبَوَاهُ
-اللَّذَانِ يُهَوِّدَانِهِ وَ يُنَصِّرَانِهِ وَ يُمَجِّسَانِهِ
-  </p>
-</blockquote>
+> مَا مِنْ مَوْلُودٍ يُولَدُ إِلاَ عَلَى الْفِطرَةِ فَأَبَوَاهُ
+> اللَّذَانِ يُهَوِّدَانِهِ وَ يُنَصِّرَانِهِ وَ يُمَجِّسَانِهِ
 
 No baby is born save with the sound nature (*fitra*). Thereafter it is
 his parents that change him into a Jew, a Christian, or a Magian.[^20]
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطمَةَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطمَةَ
 
 Peace be unto you, O son of **Fatima**
 
@@ -465,15 +369,11 @@ was detached from impurity (*futimat ‘an al-tamth*):
 
 Imam Abu Ja’far [al-Baqir (AS)] is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا وُلِدَتْ فَاطمَةُ أَوْحَى اللَّهُ إِلَى مَلَكٍ فَأَنْطقَ بِهِ
-لِسَانَ مُحَمَّدٍ فَسَمَّاهَا فَاطمَةَ ثُمَّ قَالَ إِنِّي فَطمْتُكِ
-بِالْعِلْمِ وَفَطمْتُكِ مِنَ الطمْثِ ثُمَّ قَالَ أَبُو جَعْفَر
-وَاللَّهِ لَقَدْ فَطمَهَا اللَّهُ بِالْعِلْمِ وَعَنِ الطمْثِ فِي
-الْمِيثَاقِ
-  </p>
-</blockquote>
+> لَمَّا وُلِدَتْ فَاطمَةُ أَوْحَى اللَّهُ إِلَى مَلَكٍ فَأَنْطقَ بِهِ
+> لِسَانَ مُحَمَّدٍ فَسَمَّاهَا فَاطمَةَ ثُمَّ قَالَ إِنِّي فَطمْتُكِ
+> بِالْعِلْمِ وَفَطمْتُكِ مِنَ الطمْثِ ثُمَّ قَالَ أَبُو جَعْفَر
+> وَاللَّهِ لَقَدْ فَطمَهَا اللَّهُ بِالْعِلْمِ وَعَنِ الطمْثِ فِي
+> الْمِيثَاقِ
 
 When Fatima (AS) was born, Allah sent down a revelation to an angel, who
 thereupon made the tongue of Muhammad (S) speak whereupon he named her
@@ -486,14 +386,10 @@ covenant (*fi al-mithaq*).[^21]
 
 Commenting on this, ‘Allama Majlisi in his *Bihar al-Anwar* says:
 
-<blockquote dir="rtl">
-  <p>
-بيان: فطمتك بالعلم أي أرضعتك بالعلم حتى استغنيت وفطمت، أو قطعتك عن
-الجهل بسبب العلم أو جعلت فطامك من اللبن مقرونا بالعلم كناية عن كونها
-في بدو فطرتها عالمة بالعلوم الربانية. وعلى التقادير كان الفاعل بمعنى
-المفعول كالدافق بمعنى المدفوق
-  </p>
-</blockquote>
+> بيان: فطمتك بالعلم أي أرضعتك بالعلم حتى استغنيت وفطمت، أو قطعتك عن
+> الجهل بسبب العلم أو جعلت فطامك من اللبن مقرونا بالعلم كناية عن كونها
+> في بدو فطرتها عالمة بالعلوم الربانية. وعلى التقادير كان الفاعل بمعنى
+> المفعول كالدافق بمعنى المدفوق
 
 Exposition: *Fatamtuki bi al-’ilm* (I detached you through knowledge)
 means *ardha’tuki bi al-’ilm* (I fed you with knowledge) until you were
@@ -516,12 +412,8 @@ contemplation:
 • In a tradition narrated in al-Kafi, Imam al-Baqir (AS) enumerating
 some of the characteristics of an infallible Imam says:
 
-<blockquote dir="rtl">
-  <p>
-...يُولَدُ مُطهَّراً مَخْتُوناً وَإِذَا وَقَعَ عَلَى الأَرْضِ وَقَعَ
-عَلَى رَاحَتِهِ رَافِعاً صَوْتَهُ بِالشَّهَادَتَيْنِ...
-  </p>
-</blockquote>
+> ...يُولَدُ مُطهَّراً مَخْتُوناً وَإِذَا وَقَعَ عَلَى الأَرْضِ وَقَعَ
+> عَلَى رَاحَتِهِ رَافِعاً صَوْتَهُ بِالشَّهَادَتَيْنِ...
 
 ...He [the infallible Imam (AS)] is born pure and circumcised, and when
 he descends on the ground he falls on his arms, while he loudly declares
@@ -531,14 +423,10 @@ the *shahadatayn*...[^23]
 al-Muttalib, where the specific details of the pure birth of Imam
 al-Husayn (AS) is mentioned we read:
 
-<blockquote dir="rtl">
-  <p>
-لَمَّا سَقَط الْحُسَيْنُ بْنُ فَاطمَةَ كُنْتُ بَيْنَ يَدَيْهَا فَقَالَ
-لِيَ النَّبِيُّ هَلُمِّي إِلَيَّ بِابْنَيَّ فَقُلْتُ يَا رَسُولَ
-اللَّهِ إِنَّا لَمْ نُنَظِّفْهُ بَعْدُ فَقَالَ النَّبِيُّ أَنْتَ
-تُنَظِّفِينَهُ إِنَّ اللَّهَ قَدْ نَظَّفَهُ وَطهَّرَهُ...
-  </p>
-</blockquote>
+> لَمَّا سَقَط الْحُسَيْنُ بْنُ فَاطمَةَ كُنْتُ بَيْنَ يَدَيْهَا فَقَالَ
+> لِيَ النَّبِيُّ هَلُمِّي إِلَيَّ بِابْنَيَّ فَقُلْتُ يَا رَسُولَ
+> اللَّهِ إِنَّا لَمْ نُنَظِّفْهُ بَعْدُ فَقَالَ النَّبِيُّ أَنْتَ
+> تُنَظِّفِينَهُ إِنَّ اللَّهَ قَدْ نَظَّفَهُ وَطهَّرَهُ...
 
 When al-Husayn (AS), the son of Fatima (AS) descended to the ground, I
 was near Fatima (AS). Thereupon the Prophet (S) said to me: Bring to me
@@ -551,14 +439,10 @@ descent in this material world, we have ample traditions that reveal
 that the Ahl al-Bayt (AS) possessed knowledge even prior to their birth.
 One of these that speak of this reality is as follows:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللَّهِ أَنَا وَعَلِيٌّ وَفَاطمَةُ وَالْحَسَنُ
-وَالْحُسَيْنُ كُنَّا فِي سُرَادِقِ الْعَرْشِ نُسَبِّحُ اللَّهَ
-وَتُسَبِّحُ الْمَلاَئِكَةُ بِتَسْبِيحِنَا قَبْلَ أَنْ خَلَقَ اللَّهُ
-عَزَّ وَ جَلَّ آدَمَ بِأَلْفَيْ عَامٍ...
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللَّهِ أَنَا وَعَلِيٌّ وَفَاطمَةُ وَالْحَسَنُ
+> وَالْحُسَيْنُ كُنَّا فِي سُرَادِقِ الْعَرْشِ نُسَبِّحُ اللَّهَ
+> وَتُسَبِّحُ الْمَلاَئِكَةُ بِتَسْبِيحِنَا قَبْلَ أَنْ خَلَقَ اللَّهُ
+> عَزَّ وَ جَلَّ آدَمَ بِأَلْفَيْ عَامٍ...
 
 The Holy Prophet (S) is reported to have said: I, ‘Ali, Fatima, Hasan
 and Husayn, were in the pavilion of the Divine Throne glorifying Allah,
@@ -572,11 +456,7 @@ traditions the ‘Arsh is translated as Divine Knowledge:
 
 Imam al-Sadiq (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-...وَالْعَرْشُ هُوَ الْعِلْمُ الَّذِي لاَ يَقْدِرُ أَحَدٌ قَدْرَهُ
-  </p>
-</blockquote>
+> ...وَالْعَرْشُ هُوَ الْعِلْمُ الَّذِي لاَ يَقْدِرُ أَحَدٌ قَدْرَهُ
 
 ...And the throne is knowledge which none can measure...[^25]
 
@@ -585,13 +465,9 @@ Imam al-Sadiq (AS) is reported to have said:
 The Holy Prophet (S) is reported to have said to Hadhrat Fatima (AS) in
 the presence of Imam ‘Ali (AS):
 
-<blockquote dir="rtl">
-  <p>
-يَا فَاطمَةُ أَتَدْرِيْنَ لِمَ سُمِّيْتِ فَاطمَة؟ فَقَالَ عَلِيٌّ: يَا
-رَسُوْلَ اللهِ لِمَ سُمِّيَتْ؟ قَالَ: لأَنَّهَا فُطمَتْ هِيَ
-وَشِيْعَتُهَا مِنَ النَّارِ.
-  </p>
-</blockquote>
+> يَا فَاطمَةُ أَتَدْرِيْنَ لِمَ سُمِّيْتِ فَاطمَة؟ فَقَالَ عَلِيٌّ: يَا
+> رَسُوْلَ اللهِ لِمَ سُمِّيَتْ؟ قَالَ: لأَنَّهَا فُطمَتْ هِيَ
+> وَشِيْعَتُهَا مِنَ النَّارِ.
 
 O Fatima, do you know why you were named Fatima? Imam ‘Ali (AS) said: O
 Messenger of Allah, why was she named Fatima (AS)? He (S) said: Because
@@ -607,13 +483,9 @@ In fact, in visiting his grave and expressing our salutation to his
 noble self there is emancipation from Hellfire. Ibn Qulawayh narrates in
 his masterpiece collection *Kamil al-Ziyarat*:
 
-<blockquote dir="rtl">
-  <p>
-قال أبو عبد الله: مَنْ أَتَى قَبْرَ أَبِيْ عَبْدِ الله فَقَدْ وَصَلَ
-رَسُوْلَ اللهِ وَوَصَلَنَا وَحَرُمَتْ غِيْبَتُهُ وَحَرُمَ لَحْمُهُ
-عَلىَ النَّارِ...
-  </p>
-</blockquote>
+> قال أبو عبد الله: مَنْ أَتَى قَبْرَ أَبِيْ عَبْدِ الله فَقَدْ وَصَلَ
+> رَسُوْلَ اللهِ وَوَصَلَنَا وَحَرُمَتْ غِيْبَتُهُ وَحَرُمَ لَحْمُهُ
+> عَلىَ النَّارِ...
 
 Imam al-Sadiq (AS) said: Whosoever comes to the grave of Abu ‘Abdillah
 [al-Husayn (AS)], has indeed established contact with the Messenger of
@@ -623,15 +495,11 @@ Allah (S) as well as us, and backbiting him is forbidden and his flesh
 On the day of ‘Ashura\` while addressing Imam al-Husayn (AS) as our
 host, we request him to ask Allah to emancipate us from Hell Fire:
 
-<blockquote dir="rtl">
-  <p>
-يَا أَبَا عَبْدِ اللَّهِ أَنَا ضَيْفُ اللَّهِ وَضَيْفُكَ وَجَارُ
-اللَّهِ وَجَارُكَ وَلِكُلِّ ضَيْفٍ وَجَارٍ قِرًى وَقِرَايَ فِي هَذَا
-الْوَقْتِ أَنْ تَسْأَلَ اللَّهَ سُبْحَانَهُ وَتَعَالَى أَنْ
-يَرْزُقَنِي فَكَاكَ رَقَبَتِي مِنَ النَّارِ إِنَّهُ سَمِيعُ الدُّعَاءِ
-قَرِيبٌ مُجِيب‏.
-  </p>
-</blockquote>
+> يَا أَبَا عَبْدِ اللَّهِ أَنَا ضَيْفُ اللَّهِ وَضَيْفُكَ وَجَارُ
+> اللَّهِ وَجَارُكَ وَلِكُلِّ ضَيْفٍ وَجَارٍ قِرًى وَقِرَايَ فِي هَذَا
+> الْوَقْتِ أَنْ تَسْأَلَ اللَّهَ سُبْحَانَهُ وَتَعَالَى أَنْ
+> يَرْزُقَنِي فَكَاكَ رَقَبَتِي مِنَ النَّارِ إِنَّهُ سَمِيعُ الدُّعَاءِ
+> قَرِيبٌ مُجِيب‏.
 
 O Aba ‘Abdillah, I am the guest of Allah and your guest, and the refugee
 of Allah and your refugee; and for every guest there is a hospitable
@@ -652,12 +520,8 @@ that is in us.
 Yunus bin abyan is reported to have said: Abu ‘Abdillah [al-Sadiq] (AS)
 said:
 
-<blockquote dir="rtl">
-  <p>
-أَتَدْرِيْ أَيُّ شَيْءٍ تَفْسِيْرُ فَاطمَة؟ قُلْتُ: أَخْبِرْنِيْ يَا
-سَيِّدِيْ، قَالَ: فُطمَتْ مِنَ الشَّرِّ.
-  </p>
-</blockquote>
+> أَتَدْرِيْ أَيُّ شَيْءٍ تَفْسِيْرُ فَاطمَة؟ قُلْتُ: أَخْبِرْنِيْ يَا
+> سَيِّدِيْ، قَالَ: فُطمَتْ مِنَ الشَّرِّ.
 
 Do you know what is the meaning of the name Fatima? I said: Inform me, O
 master. He (AS) said: [It means that] she was detached from evil
@@ -666,12 +530,8 @@ master. He (AS) said: [It means that] she was detached from evil
 And *sharr* (lit. evil) is interpreted by some scholars as sin. The Holy
 Qur\`an sometimes also employs it for the same meaning:
 
-<blockquote dir="rtl">
-  <p>
-فَمَنْ يَعْمَلْ مِثْقالَ ذَرَّةٍ خَيْراً يَرَهُ.وَ مَنْ يَعْمَلْ
-مِثْقالَ ذَرَّةٍ شَرًّا يَرَهُ
-  </p>
-</blockquote>
+> فَمَنْ يَعْمَلْ مِثْقالَ ذَرَّةٍ خَيْراً يَرَهُ.وَ مَنْ يَعْمَلْ
+> مِثْقالَ ذَرَّةٍ شَرًّا يَرَهُ
 
 ***So whoever does an atom’s weight of good will see it, and whoever
 does an atom’s weight of evil will see it. (99:78)***
@@ -686,12 +546,8 @@ from sin. This is because he is among the Ahl al-Bayt (AS) whom Allah
 
 The Holy Qur\`an says in Surat al-Ahzab:
 
-<blockquote dir="rtl">
-  <p>
-...إِنَّما يُريدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَ يُطهِّرَكُمْ تَطهيراً
-  </p>
-</blockquote>
+> ...إِنَّما يُريدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَ يُطهِّرَكُمْ تَطهيراً
 
 ***...Indeed Allah desires to repel all impurity from you, O People of
 the Household, and purify you with a thorough purification. (33:33)***
@@ -700,12 +556,8 @@ the Household, and purify you with a thorough purification. (33:33)***
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي سَمَّيْتُ ابْنَتِي فَاطمَةَ لِأَنَّ اللَّهَ عَزَّ وَجَلَّ
-فَطمَهَا وَفَطمَ مَنْ أَحَبَّهَا مِنَ النَّارِ
-  </p>
-</blockquote>
+> إِنِّي سَمَّيْتُ ابْنَتِي فَاطمَةَ لِأَنَّ اللَّهَ عَزَّ وَجَلَّ
+> فَطمَهَا وَفَطمَ مَنْ أَحَبَّهَا مِنَ النَّارِ
 
 Indeed I named by daughter as Fatima because Allah, the Invincible and
 Exalted, **detached her and those who love her from the
@@ -714,12 +566,8 @@ Hell-Fire.**[^30]
 According to a universal principle conveyed by the Holy Qur\`an, a true
 lover is a sincere follower:
 
-<blockquote dir="rtl">
-  <p>
-قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُوني‏ يُحْبِبْكُمُ
-اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَ اللَّهُ غَفُورٌ رَحيمٌ
-  </p>
-</blockquote>
+> قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُوني‏ يُحْبِبْكُمُ
+> اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَ اللَّهُ غَفُورٌ رَحيمٌ
 
 ***Say, “If you love Allah, then follow me; Allah will love you and
 forgive you your sins, and Allah is all-forgiving, all-merciful.”
@@ -729,11 +577,7 @@ Therefore those who sincerely follow the footsteps of Hadhrat Zahra’
 (AS) and hence enjoy true love for her, would obviously be detached from
 Hell Fire. In a very beautiful tradition Imam al-Baqir (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-وَهَلِ الدِّينُ إِلاَّ الْحُبُّ
-  </p>
-</blockquote>
+> وَهَلِ الدِّينُ إِلاَّ الْحُبُّ
 
 And is religion other than love?[^31]
 
@@ -742,12 +586,8 @@ one whose love emancipates one from Hell Fire. In fact there is a
 narration that pertains to the true love of all the Ahl al-Bayt (AS).
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَحَبَّنَا أَهْلَ الْبَيْتِ حَشَرَهُ اللَّهُ آمِناً يَوْمَ
-الْقِيَامَةِ
-  </p>
-</blockquote>
+> مَنْ أَحَبَّنَا أَهْلَ الْبَيْتِ حَشَرَهُ اللَّهُ آمِناً يَوْمَ
+> الْقِيَامَةِ
 
 Whosoever loves us the Ahl al-Bayt, Allah would raise him in the state
 of protection on the Day of Judgment.[^32]
@@ -765,12 +605,8 @@ the following traditions:
 • In a lengthy tradition, where the Ahl al-Kisa’ (AS) were present, the
 Holy Prophet (S) at one point addresses Hadhrat Fatima (AS) saying:
 
-<blockquote dir="rtl">
-  <p>
-...وَشَقَّ لَكِ يَا فَاطمَةُ اسْماً مِنْ أَسْمَائِهِ فَهُوَ الْفَاطرُ
-وَأََنْتِ فَاطمَة
-  </p>
-</blockquote>
+> ...وَشَقَّ لَكِ يَا فَاطمَةُ اسْماً مِنْ أَسْمَائِهِ فَهُوَ الْفَاطرُ
+> وَأََنْتِ فَاطمَة
 
 ...And He derived for you O Fatima a name from His Names, for He is
 *al-Fatiru* (the Originator), and you are *Fatima*.[^33]
@@ -778,14 +614,10 @@ Holy Prophet (S) at one point addresses Hadhrat Fatima (AS) saying:
 • Almighty Allah in a conversation with prophet Adam (As) introduces the
 light of Fatima (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-...وَهَذِهِ فَاطمَةُ وَأَنَا فَاطرُ السَّمَاوَاتِ وَالأََرْضِ فَاطمُ
-أَعْدَائِي عَنْ رَحْمَتِي يَوْمَ فَصْلِ قَضَائِي وَفَاطمُ أَوْلِيَائِي
-عَمَّا يَعْتَرِيهِمْ وَيَشِينُهُمْ فَشَقَقْتُ لَهَا اسْماً مِنِ
-اسْمِي‏
-  </p>
-</blockquote>
+> ...وَهَذِهِ فَاطمَةُ وَأَنَا فَاطرُ السَّمَاوَاتِ وَالأََرْضِ فَاطمُ
+> أَعْدَائِي عَنْ رَحْمَتِي يَوْمَ فَصْلِ قَضَائِي وَفَاطمُ أَوْلِيَائِي
+> عَمَّا يَعْتَرِيهِمْ وَيَشِينُهُمْ فَشَقَقْتُ لَهَا اسْماً مِنِ
+> اسْمِي‏
 
 ...and this is *Fatima* while I am the *Fatir al-samawati wa al-ardh*
 (Originator of the heavens and the earth), *Fatimu a’da’i min Rahmati
@@ -797,12 +629,8 @@ I derived for her a name from My Name.
 • In a supplication taught by Angel Jibra’il (AS) to Prophet Adam (AS)
 we read as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَا حَمِيدُ بِحَقِّ مُحَمَّدٍ يَا عَالِي بِحَقِّ عَلِيٍّ يَا فَاطرُ
-بِحَقِّ فَاطمَة...
-  </p>
-</blockquote>
+> يَا حَمِيدُ بِحَقِّ مُحَمَّدٍ يَا عَالِي بِحَقِّ عَلِيٍّ يَا فَاطرُ
+> بِحَقِّ فَاطمَة...
 
 O praised one, I swear by the station of Muhammad, O Exalted One, I
 swear by the station of ‘Ali, O Originator, I swear by the station of
@@ -824,24 +652,16 @@ the intermediaries (*wasa’it*) between Allah and the creation. For
 example, in one of his brilliant messages, our 12th Holy Imam (AS) is
 reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-نحنُ صَنائِعُ رَبِّنا والخَلقُ بَعْدُ صَنَائِعُنَا
-  </p>
-</blockquote>
+> نحنُ صَنائِعُ رَبِّنا والخَلقُ بَعْدُ صَنَائِعُنَا
 
 We are the actions of our Lord, and the creation thereafter are our
 actions.[^35]
 
 And in a lengthy tradition, the Holy Prophet (S) tells Imam ‘Ali (AS):
 
-<blockquote dir="rtl">
-  <p>
-...ياَ عَلِيُّ وَلَوْلاَ نَحْنُ مَا خَلَقَ اللَّهُ آدَمَ وَلاَ
-حَوَّاءَ وَلاَ الْجَنَّةَ وَلاَ النَّارَ وَلاَ السَّمَاءَ وَلاَ
-الأََرْض...
-  </p>
-</blockquote>
+> ...ياَ عَلِيُّ وَلَوْلاَ نَحْنُ مَا خَلَقَ اللَّهُ آدَمَ وَلاَ
+> حَوَّاءَ وَلاَ الْجَنَّةَ وَلاَ النَّارَ وَلاَ السَّمَاءَ وَلاَ
+> الأََرْض...
 
 ...O ‘Ali, and was it not for us (the Ahl al-Bayt (AS)), Allah would not
 have created Adam, nor Hawa’, nor Paradise, nor Hell Fire, nor the sky,
@@ -850,14 +670,10 @@ nor the earth...[^36]
 Commenting on this tradition, Imam Khumayni in his book of gnosis,
 *Misbah al-Hidaya* says:
 
-<blockquote dir="rtl">
-  <p>
-قوله: ((لَوْلاَ نَحْنُ مَا خَلَقَ اللهُ آدَمَ)) إلى آخره. لأنهم وسائط
-بين الحق والخلق وروابط بين الحضرة الوحدة المحضة والكثرة التفصيلية؛ وفي
-هذه الفقرة بيان وساطتهم بحسب أصل الوجود، وكونهم مظهر الرحمة الرحمانية
-التي هي مفيض أصل الوجود...
-  </p>
-</blockquote>
+> قوله: ((لَوْلاَ نَحْنُ مَا خَلَقَ اللهُ آدَمَ)) إلى آخره. لأنهم وسائط
+> بين الحق والخلق وروابط بين الحضرة الوحدة المحضة والكثرة التفصيلية؛ وفي
+> هذه الفقرة بيان وساطتهم بحسب أصل الوجود، وكونهم مظهر الرحمة الرحمانية
+> التي هي مفيض أصل الوجود...
 
 The Holy Prophet (S) said: ‘*Was it not for us Allah would not create
 Adam...*’ This is because they (the Ahl al-Bayt (AS)) are intermediaries
@@ -874,15 +690,11 @@ In the well-known Qur\`anic commentary of *Furat al-Kufi* we read the
 following tradition narrated from Imam al-Sadiq (AS) about the chapter
 al-Qadr:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللَّهِ أَنَّهُ قَالَ إِنَّا أَنْزَلْناهُ فِي
-لَيْلَةِ الْقَدْرِ اللَّيْلَةُ فَاطمَةُ وَالْقَدْرُ اللَّهُ فَمَنْ
-عَرَفَ فَاطمَةَ حَقَّ مَعْرِفَتِهَا فَقَدْ أَدْرَكَ لَيْلَةَ الْقَدْرِ
-وَإِنَّمَا سُمِّيَتْ فَاطمَةَ لِأَنَّ الْخَلْقَ فُطمُوا عَنْ
-مَعْرِفَتِهَا
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللَّهِ أَنَّهُ قَالَ إِنَّا أَنْزَلْناهُ فِي
+> لَيْلَةِ الْقَدْرِ اللَّيْلَةُ فَاطمَةُ وَالْقَدْرُ اللَّهُ فَمَنْ
+> عَرَفَ فَاطمَةَ حَقَّ مَعْرِفَتِهَا فَقَدْ أَدْرَكَ لَيْلَةَ الْقَدْرِ
+> وَإِنَّمَا سُمِّيَتْ فَاطمَةَ لِأَنَّ الْخَلْقَ فُطمُوا عَنْ
+> مَعْرِفَتِهَا
 
 Imam Abu ‘Abdillah al-Sadiq (AS) is reported to have said that in the
 verse ‘Indeed we sent it on the *laylat al-qadr*” the word *al-layla*
@@ -910,11 +722,7 @@ and sanctity of Imam al-Husayn (AS).
 
 In a lengthy conversation, Imam ‘Ali (AS) says to Abu Dharr:
 
-<blockquote dir="rtl">
-  <p>
-...فَإِنَّكُمْ لاَ تَبْلُغُونَ كُنْهَ مَا فِينَا وَلاَ نِهَايَتَه‏
-  </p>
-</blockquote>
+> ...فَإِنَّكُمْ لاَ تَبْلُغُونَ كُنْهَ مَا فِينَا وَلاَ نِهَايَتَه‏
 
 ...for surely you will not attain the zenith or of our station, nor its
 ultimate state...[^40]
@@ -922,14 +730,10 @@ ultimate state...[^40]
 And in a brilliant tradition, Imam al-Ridha (AS), defining the station
 of an infallible Imam (AS) says:
 
-<blockquote dir="rtl">
-  <p>
-الإِِمَامُ وَاحِدُ دَهْرِهِ لاَ يُدَانِيهِ أَحَدٌ وَلاَ يُعَادِلُهُ
-عَالِمٌ وَلاَ يُوجَدُ مِنْهُ بَدَلٌ وَلاَ لَهُ مِثْلٌ وَلاَ
-نَظِيرٌ...فَمَنْ ذَا الَّذِي يَبْلُغُ مَعْرِفَةَ الْإِمَامِ أَوْ
-يُمْكِنُهُ اخْتِيَارُهُ هَيْهَاتَ هَيْهَاتَ...
-  </p>
-</blockquote>
+> الإِِمَامُ وَاحِدُ دَهْرِهِ لاَ يُدَانِيهِ أَحَدٌ وَلاَ يُعَادِلُهُ
+> عَالِمٌ وَلاَ يُوجَدُ مِنْهُ بَدَلٌ وَلاَ لَهُ مِثْلٌ وَلاَ
+> نَظِيرٌ...فَمَنْ ذَا الَّذِي يَبْلُغُ مَعْرِفَةَ الْإِمَامِ أَوْ
+> يُمْكِنُهُ اخْتِيَارُهُ هَيْهَاتَ هَيْهَاتَ...
 
 The Imam is unique in his time. None can come closer to him in rank, and
 no scholar equals him, and he has no subtitute, nor does he have an
@@ -937,11 +741,7 @@ example or peer...Who then can attain the knowledge of Imam or is able
 to venture into knowing him? It is indeed farfetched! It is indeed
 farfetched!...[^41]
 
-<blockquote dir="rtl">
-  <p>
-يَا بْنَ فَاطمَةَ سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> يَا بْنَ فَاطمَةَ سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
 
 O son of Fatimah, the Mistress of the Women of the Universe
 
@@ -957,11 +757,7 @@ In order to understand the *root meaning* of mastership (*siyada*), some
 authoritative scholars like Ayatullah Jawadi Amuli refer to the
 following tradition of Amir al-mu’minin (AS):
 
-<blockquote dir="rtl">
-  <p>
-ِباحْتِمَالِ الْمُؤَن يَجِبُ السّؤْدُد
-  </p>
-</blockquote>
+> ِباحْتِمَالِ الْمُؤَن يَجِبُ السّؤْدُد
 
 By shouldering responsibilities mastership becomes essential.
 
@@ -975,21 +771,17 @@ over the entire caravan of the creation.
 Shaykh Saduq narrates in his masterpiece collection *‘Ilal al-Sharayi\`*
 from Imam al-Sadiq (AS):
 
-<blockquote dir="rtl">
-  <p>
-عَنْ أَبِي عَبْدِ اللَّهِ قَالَ: إِنَّمَا سُمِّيَتْ فَاطمَةُ
-مُحَدَّثَةً لِأَنَّ الْمَلاَئِكَةَ كَانَتْ تَهْبِط مِنَ السَّمَاءِ
-فَتُنَادِيهَا كَمَا تُنَادِي مَرْيَمَ بِنْتَ عِمْرَانَ فَتَقُولُ يَا
-فَاطمَةُ إِنَّ اللَّهَ اصْطفاكِ وَطهَّرَكِ وَاصْطفاكِ عَلى‏ نِساءِ
-الْعالَمِينَ يَا فَاطمَةُ اقْنُتِي لِرَبِّكِ وَاسْجُدِي وَارْكَعِي
-مَعَ الرَّاكِعِينَ فَتُحَدِّثُهُمْ وَيُحَدِّثُونَهَا فَقَالَتْ لَهُمْ
-ذَاتَ لَيْلَةٍ أَ لَيْسَتِ الْمُفَضَّلَةُ عَلَى نِسَاءِ الْعَالَمِينَ
-مَرْيَمَ بِنْتَ عِمْرَانَ فَقَالُوا إِنَّ مَرْيَمَ كَانَتْ سَيِّدَةَ
-نِسَاءِ عَالَمِهَا وَإِنَّ اللَّهَ عَزَّ وَجَلَّ جَعَلَكِ سَيِّدَةَ
-نِسَاءِ عَالَمِكِ وَعَالَمِهَا وَسَيِّدَةَ نِسَاءِ الأَوَّلِينَ وَ
-الْآخِرِينَ
-  </p>
-</blockquote>
+> عَنْ أَبِي عَبْدِ اللَّهِ قَالَ: إِنَّمَا سُمِّيَتْ فَاطمَةُ
+> مُحَدَّثَةً لِأَنَّ الْمَلاَئِكَةَ كَانَتْ تَهْبِط مِنَ السَّمَاءِ
+> فَتُنَادِيهَا كَمَا تُنَادِي مَرْيَمَ بِنْتَ عِمْرَانَ فَتَقُولُ يَا
+> فَاطمَةُ إِنَّ اللَّهَ اصْطفاكِ وَطهَّرَكِ وَاصْطفاكِ عَلى‏ نِساءِ
+> الْعالَمِينَ يَا فَاطمَةُ اقْنُتِي لِرَبِّكِ وَاسْجُدِي وَارْكَعِي
+> مَعَ الرَّاكِعِينَ فَتُحَدِّثُهُمْ وَيُحَدِّثُونَهَا فَقَالَتْ لَهُمْ
+> ذَاتَ لَيْلَةٍ أَ لَيْسَتِ الْمُفَضَّلَةُ عَلَى نِسَاءِ الْعَالَمِينَ
+> مَرْيَمَ بِنْتَ عِمْرَانَ فَقَالُوا إِنَّ مَرْيَمَ كَانَتْ سَيِّدَةَ
+> نِسَاءِ عَالَمِهَا وَإِنَّ اللَّهَ عَزَّ وَجَلَّ جَعَلَكِ سَيِّدَةَ
+> نِسَاءِ عَالَمِكِ وَعَالَمِهَا وَسَيِّدَةَ نِسَاءِ الأَوَّلِينَ وَ
+> الْآخِرِينَ
 
 Fatima (AS) was known as *Muhaddatha* (one spoken to by the angels)
 because the Angels would descend from the heaven and call her the way
@@ -1015,12 +807,8 @@ also enjoys qualities of mastership.
 
 Imam Zayn al-’Abidin (AS) reports from Imam al-Husayn (AS):
 
-<blockquote dir="rtl">
-  <p>
-كَانَ رَسُولُ اللَّهِ يَقُولُ فِيمَا بَشَّرَنِي بِهِ: يَا حُسَيْنُ
-أَنْتَ السَّيِّدُ ابْنُ السَّيِّدِ أَبُو السَّادَةِ ...
-  </p>
-</blockquote>
+> كَانَ رَسُولُ اللَّهِ يَقُولُ فِيمَا بَشَّرَنِي بِهِ: يَا حُسَيْنُ
+> أَنْتَ السَّيِّدُ ابْنُ السَّيِّدِ أَبُو السَّادَةِ ...
 
 Among the glad tidings that the Messenger of Allah (S) would give me,
 is: O Husayn, you are the master (sayyid), son of the master (sayyid),
@@ -1029,11 +817,7 @@ father of masters (sayyids)...[^43]
 And in the well-known *Ziyarat al-Arba’in* Imam al-Sadiq (AS) teaches us
 to address Imam al-Husayn (AS) as follows:
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلْتَهُ سَيِّداً مِنَ السَّادَةِ وَقَائِداً مِنَ الْقَادَةِ...
-  </p>
-</blockquote>
+> وَجَعَلْتَهُ سَيِّداً مِنَ السَّادَةِ وَقَائِداً مِنَ الْقَادَةِ...
 
 ...and He (Allah) made you a *sayyid* from the sayyids, and a leader
 from the leaders...[^44]
@@ -1051,53 +835,33 @@ open-handedness (*jud*). Consider the following narrations:
 
 1. Imam al-Husayn (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ جَادَ سَاد وَمَنْ بَخِلَ رَذِلَ
-  </p>
-</blockquote>
+> مَنْ جَادَ سَاد وَمَنْ بَخِلَ رَذِلَ
 
 Whosoever bestows generously reigns supreme, and one who is stingy
 becomes ignoble.[^45]
 
 2. The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-سَيِّدُ الْقَوْمِ خَادِمُهُمْ
-  </p>
-</blockquote>
+> سَيِّدُ الْقَوْمِ خَادِمُهُمْ
 
 The sayyid of a nation is their servant.[^46]
 
 3. Imam ‘Ali (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-بِالْجُوْدِ تَكُوْنُ السِّيَادَةُ
-  </p>
-</blockquote>
+> بِالْجُوْدِ تَكُوْنُ السِّيَادَةُ
 
 Mastership comes about through open-handedness.[^47]
 
 4. Imam ‘Ali (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-سَبَبُ السِّيَادَةِ اَلسَّخَاءُ
-  </p>
-</blockquote>
+> سَبَبُ السِّيَادَةِ اَلسَّخَاءُ
 
 Generosity is the cause of mastership.[^48]
 
 5. Imam ‘Ali (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-تَجَاوَزْ مَعَ الْقُدْرَةِ وَأَحْسِنْ مَعَ الدَّوْلَةِ تَكْمُلُ لَكَ
-السِّيَادَةُ
-  </p>
-</blockquote>
+> تَجَاوَزْ مَعَ الْقُدْرَةِ وَأَحْسِنْ مَعَ الدَّوْلَةِ تَكْمُلُ لَكَ
+> السِّيَادَةُ
 
 Forgive in power and do good in fortune, your mastership will turn
 perfect.[^49]
@@ -1108,12 +872,8 @@ following narration that speaks of the best kind of open-handedness:
 
 The Holy Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَأََجْوَدَ النَّاسِ مَنْ جَادَ بِنَفْسِهِ وَمَالِهِ فِي سَبِيلِ
-اللَّهِ
-  </p>
-</blockquote>
+> وَأََجْوَدَ النَّاسِ مَنْ جَادَ بِنَفْسِهِ وَمَالِهِ فِي سَبِيلِ
+> اللَّهِ
 
 ...And the most openhanded of all people, is one who generously bestows
 his self and his wealth in the way of Allah.[^50]
@@ -1124,14 +884,10 @@ he had for the sake of Allah. Therefore he has *al-siyada al-’uzhma*
 
 Hilal bin Nafi’ reports:
 
-<blockquote dir="rtl">
-  <p>
-وروى هلال بن نافع قال: إني لواقف مع أصحاب عمربن سعد إذ صرخ صارخ: أبشر
-أيها الامير فهذا شمر قد قتل الحسين، قال: فخرجت بين الصفين فوقفت عليه
-وإنه ليجود بنفسه فوالله مارأيت قط قتيلا مضمخا بدمه أحسن منه ولاأنور
-وجها، ولقد شغلني نور وجهه وجمال هيبته عن الفكرة في قتله ...
-  </p>
-</blockquote>
+> وروى هلال بن نافع قال: إني لواقف مع أصحاب عمربن سعد إذ صرخ صارخ: أبشر
+> أيها الامير فهذا شمر قد قتل الحسين، قال: فخرجت بين الصفين فوقفت عليه
+> وإنه ليجود بنفسه فوالله مارأيت قط قتيلا مضمخا بدمه أحسن منه ولاأنور
+> وجها، ولقد شغلني نور وجهه وجمال هيبته عن الفكرة في قتله ...
 
 Hilal bin Nafi’ reports: I stood with the companions of ‘Umar bin Sa’d,
 when a caller shouted: Glad tidings to you, O Amir, for this is Shimr,
@@ -1142,11 +898,7 @@ in his blood more beautiful and more sparkling in face than him. And
 indeed the light of his face and the beauty of his awe-inspiring
 appearance occupied me from thinking about his martyrdom...[^51]
 
-<blockquote dir="rtl">
-  <p>
-يَا بْنَ فَاطمَةَ سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> يَا بْنَ فَاطمَةَ سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
 
 O son of Fatimah, the Leader of the Women of the Worlds
 
@@ -1158,16 +910,12 @@ high-ranking of all women, past, present, and future:
 Shaykh Saduq in his *al-Amali* narrates a lengthy tradition from the
 Holy Prophet (S), who at one point says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا اِبْنَتِي فَاطمَة فَهِيَ سَيِّدَةُ نِسَاءِ الْعَالَمِيْنَ
-مِنَ الأَوَّلِيْنَ وَالآخِرِيْنَ، وَإِنَّهَا لَتَقُوْمُ فِيْ
-مِحْرَابِهَا فَيُسَلِّمُ عَلَيْهَا سَبْعُوْنَ أَلْف مَلَكٍ مِنَ
-الْمَلاَئِكَةِ الْمُقَرَّبِيْنَ، وَيُنَادَوْنَهَا بِمَا نَادَتْ بِهِ
-الْمَلاَئِكَةُ مَرْيَمَ فَيَقُوْلُوْنَ: يَا فَاطمَةُ إِنَّ اللهَ
-اصْطفَاكِ وَطهَّرَكِ وَاصْطفَاكِ عَلىَ نِسَاءِ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> فَأَمَّا اِبْنَتِي فَاطمَة فَهِيَ سَيِّدَةُ نِسَاءِ الْعَالَمِيْنَ
+> مِنَ الأَوَّلِيْنَ وَالآخِرِيْنَ، وَإِنَّهَا لَتَقُوْمُ فِيْ
+> مِحْرَابِهَا فَيُسَلِّمُ عَلَيْهَا سَبْعُوْنَ أَلْف مَلَكٍ مِنَ
+> الْمَلاَئِكَةِ الْمُقَرَّبِيْنَ، وَيُنَادَوْنَهَا بِمَا نَادَتْ بِهِ
+> الْمَلاَئِكَةُ مَرْيَمَ فَيَقُوْلُوْنَ: يَا فَاطمَةُ إِنَّ اللهَ
+> اصْطفَاكِ وَطهَّرَكِ وَاصْطفَاكِ عَلىَ نِسَاءِ الْعَالَمِيْنَ
 
 As for my daughter Fatima, *she is the Mistress of the women of the
 worlds from the foremost and latter ones*, and surely she stands in her
@@ -1183,11 +931,7 @@ already mentioned traditions that clearly distinguish Imam al-Husayn
 mean *sharif*, let us consider the following verse of the well-known
 salutational recital of *Ziyarat al-Jami’a al-Kabira*:
 
-<blockquote dir="rtl">
-  <p>
-وَطأْطأَ كُلُّ شَرِيْفٍ لِشَرَفِكُمْ...
-  </p>
-</blockquote>
+> وَطأْطأَ كُلُّ شَرِيْفٍ لِشَرَفِكُمْ...
 
 And every *sharif* (one who enjoys an elevated status) bows down before
 your elevated status (*li sharafikum*)...[^54]
@@ -1196,11 +940,7 @@ This clearly informs us that the Infallible Imams of the Ahl al-Bayt
 (AS) enjoy the highest stations, and therefore all of them are *sayyids*
 in relation to the people.
 
-<blockquote dir="rtl">
-  <p>
-يَا بْنَ فَاطمَةَ سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
-  </p>
-</blockquote>
+> يَا بْنَ فَاطمَةَ سَيِّدَةِ نِسَآءِ الْعَالَمِيْنَ
 
 O son of Fatimah, the Mistress of the Women of the Universe
 
@@ -1212,13 +952,9 @@ to a tradition, she has this position with regard to all:
 
 Imam Muhammad al-Baqir (AS) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ كَانَتْ مَفْرُوْضَةَ الطاعَةِ عَلىَ جَمِيْعٍ مِنْ خَلْقِ
-اللهِ مِنَ الْجِنِّ وَالإِنْسِ وَالطيْرِ وَالْوَحْشِ وَالأَنْبِيَاءِ
-وَالْمَلآئِكَةِ.
-  </p>
-</blockquote>
+> وَلَقَدْ كَانَتْ مَفْرُوْضَةَ الطاعَةِ عَلىَ جَمِيْعٍ مِنْ خَلْقِ
+> اللهِ مِنَ الْجِنِّ وَالإِنْسِ وَالطيْرِ وَالْوَحْشِ وَالأَنْبِيَاءِ
+> وَالْمَلآئِكَةِ.
 
 And indeed she (AS) was **one to be compulsorily obeyed by all the
 creation: the Jins, the human beings, the birds, the wild animals, the
@@ -1234,15 +970,11 @@ tradition:
 
 ‘Allama Majlisi narrated the following tradition in *Bihar al-Anwar*:
 
-<blockquote dir="rtl">
-  <p>
-وَقَالَ النَّبِيُّ: عَلِيٌّ سَيِّدُ الْعَرَبِ فَقَالَتْ عَائِشَةُ يَا
-رَسُولَ اللَّهِ أَلَسْتَ سَيِّدَ الْعَرَبِ؟ قَالَ أَنَا سَيِّدُ وُلْدِ
-آدَمَ وَعَلِيٌّ سَيِّدُ الْعَرَبِ. فَقَالَتْ عَائِشَةُ: يَا رَسُولَ
-اللَّهِ وَمَا السَّيِّدُ؟ قَالَ : مَنِ افْتُرِضَتْ طاعَتُهُ كَمَا
-افْتُرِضَتْ طاعَتِي.
-  </p>
-</blockquote>
+> وَقَالَ النَّبِيُّ: عَلِيٌّ سَيِّدُ الْعَرَبِ فَقَالَتْ عَائِشَةُ يَا
+> رَسُولَ اللَّهِ أَلَسْتَ سَيِّدَ الْعَرَبِ؟ قَالَ أَنَا سَيِّدُ وُلْدِ
+> آدَمَ وَعَلِيٌّ سَيِّدُ الْعَرَبِ. فَقَالَتْ عَائِشَةُ: يَا رَسُولَ
+> اللَّهِ وَمَا السَّيِّدُ؟ قَالَ : مَنِ افْتُرِضَتْ طاعَتُهُ كَمَا
+> افْتُرِضَتْ طاعَتِي.
 
 The Prophet (S) said: ‘Ali is the Sayyid of the Arabs. So ‘A\`isha
 asked: O Messenger of Allah, aren’t you the Sayyid of Arabs? He (S)
@@ -1257,18 +989,14 @@ interesting traditions. Observe the following traditions:
 
 Al-’Amili in his *Wasa\`il al-Shi’a* narrates:
 
-<blockquote dir="rtl">
-  <p>
-قَالَ وَرُوِيَ أَنَّ الصَّادِقَ مَرِضَ فَأَمَرَ مَنْ عِنْدَهُ أَنْ
-يَسْتَأْجِرُوا لَهُ أَجِيراً يَدْعُو لَهُ عِنْدَ قَبْرِ الْحُسَيْنِ
-فَوَجَدُوا رَجُلًا فَقَالُوا لَهُ ذَلِكَ فَقَالَ أَنَا أَمْضِي
-وَلَكِنَّ الْحُسَيْنَ إِمَامٌ مُفْتَرَضُ الطاعَةِ وَهُوَ إِمَامٌ
-مُفْتَرَضُ الطاعَةِ فَرَجَعُوا إِلَى الصَّادِقِ وَأَخْبَرُوهُ فَقَالَ
-هُوَ كَمَا قَالَ وَ لَكِنْ أَ مَا عَرَفَ أَنَّ لِلَّهِ تَعَالَى
-بِقَاعاً يُسْتَجَابُ فِيهَا الدُّعَاءُ فَتِلْكَ الْبُقْعَةُ مِنْ
-تِلْكَ الْبِقَاعِ.
-  </p>
-</blockquote>
+> قَالَ وَرُوِيَ أَنَّ الصَّادِقَ مَرِضَ فَأَمَرَ مَنْ عِنْدَهُ أَنْ
+> يَسْتَأْجِرُوا لَهُ أَجِيراً يَدْعُو لَهُ عِنْدَ قَبْرِ الْحُسَيْنِ
+> فَوَجَدُوا رَجُلًا فَقَالُوا لَهُ ذَلِكَ فَقَالَ أَنَا أَمْضِي
+> وَلَكِنَّ الْحُسَيْنَ إِمَامٌ مُفْتَرَضُ الطاعَةِ وَهُوَ إِمَامٌ
+> مُفْتَرَضُ الطاعَةِ فَرَجَعُوا إِلَى الصَّادِقِ وَأَخْبَرُوهُ فَقَالَ
+> هُوَ كَمَا قَالَ وَ لَكِنْ أَ مَا عَرَفَ أَنَّ لِلَّهِ تَعَالَى
+> بِقَاعاً يُسْتَجَابُ فِيهَا الدُّعَاءُ فَتِلْكَ الْبُقْعَةُ مِنْ
+> تِلْكَ الْبِقَاعِ.
 
 It is narrated that Imam al-Sadiq (AS) once got ill, and ordered someone
 who was near him to to tell his people to hire someone, so that he may
@@ -1285,19 +1013,15 @@ the grave of al-Husayn (AS)] is among those places.[^57]
 ‘Allama Majlisi narrates the following tradition in his *Bihar
 al-Anwar*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ قَالَ كُنْتُ عِنْدَ أَبِي عَبْدِ
-اللَّهِ فَدَخَلَ عَلَيْهِ رَجُلٌ مِنْ أَهْلِ طوسَ فَقَالَ لَهُ: يَا
-ابْنَ رَسُولِ اللَّهِ مَا لِمَنْ زَارَ قَبْرَ أَبِي عَبْدِ اللَّهِ
-الْحُسَيْنِ بْنِ عَلِيٍّ؟ فَقَالَ لَهُ: يَا طوسِيُّ مَنْ زَارَ قَبْرَ
-أَبِي عَبْدِ اللَّهِ الْحُسَيْنِ بْنِ عَلِيٍّ وَهُوَ يَعْلَمُ أَنَّهُ
-إِمَامٌ مِنَ اللَّهِ مُفْتَرَضُ الطاعَةِ عَلَى الْعِبَادِ غَفَرَ
-اللَّهُ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ وَقَبِلَ
-شَفَاعَتَهُ فِي سَبْعِينَ مُذْنِباً وَلَمْ يَسْأَلِ اللَّهَ جَلَّ
-وَعَزَّ عِنْدَ قَبْرِهِ حَاجَةً إِلاَ قَضَاهَا لَهُ.
-  </p>
-</blockquote>
+> عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ قَالَ كُنْتُ عِنْدَ أَبِي عَبْدِ
+> اللَّهِ فَدَخَلَ عَلَيْهِ رَجُلٌ مِنْ أَهْلِ طوسَ فَقَالَ لَهُ: يَا
+> ابْنَ رَسُولِ اللَّهِ مَا لِمَنْ زَارَ قَبْرَ أَبِي عَبْدِ اللَّهِ
+> الْحُسَيْنِ بْنِ عَلِيٍّ؟ فَقَالَ لَهُ: يَا طوسِيُّ مَنْ زَارَ قَبْرَ
+> أَبِي عَبْدِ اللَّهِ الْحُسَيْنِ بْنِ عَلِيٍّ وَهُوَ يَعْلَمُ أَنَّهُ
+> إِمَامٌ مِنَ اللَّهِ مُفْتَرَضُ الطاعَةِ عَلَى الْعِبَادِ غَفَرَ
+> اللَّهُ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ وَقَبِلَ
+> شَفَاعَتَهُ فِي سَبْعِينَ مُذْنِباً وَلَمْ يَسْأَلِ اللَّهَ جَلَّ
+> وَعَزَّ عِنْدَ قَبْرِهِ حَاجَةً إِلاَ قَضَاهَا لَهُ.
 
 ‘Abdullah bin al-Fadhl is reported to have said: I was with Abu
 ‘Abdillah [al-Sadiq (AS)], and a person from the inhabitants of Tus came
@@ -1314,14 +1038,10 @@ Allah near the Imam’s grave save that Allah would fulfil his need.[^58]
 ‘Allama Majlisi narrates the following tradition in his *Bihar
 al-Anwar*:
 
-<blockquote dir="rtl">
-  <p>
-عَنْ عَبْدِ الْحَمِيدِ بْنِ نَصْرٍ قَالَ قَالَ أَبُو عَبْدِ اللَّهِ:
-يُنْكِرُونَ الإِِمَامَ الْمُفْتَرَضَ الطاعَةِ وَيَجْحَدُونَ بِهِ
-وَاللَّهِ مَا فِي الأََرْضِ مَنْزِلَةٌ أَعْظَمَ عِنْدَ اللَّهِ مِنْ
-مُفْتَرَضِ الطاعَةِ ...
-  </p>
-</blockquote>
+> عَنْ عَبْدِ الْحَمِيدِ بْنِ نَصْرٍ قَالَ قَالَ أَبُو عَبْدِ اللَّهِ:
+> يُنْكِرُونَ الإِِمَامَ الْمُفْتَرَضَ الطاعَةِ وَيَجْحَدُونَ بِهِ
+> وَاللَّهِ مَا فِي الأََرْضِ مَنْزِلَةٌ أَعْظَمَ عِنْدَ اللَّهِ مِنْ
+> مُفْتَرَضِ الطاعَةِ ...
 
 ‘Abd al-Hamidh bin Nasr reports: Abu ‘Abdillah [Imam al-Sadiq] (AS)
 said: They deny the Imam who must be compulsorily obeyed and reject him.
@@ -1468,5 +1188,4 @@ p. 157
 [^58]: ‘Allama Majlisi, Bihar al-Anwar, v.4, p.198
 
 [^59]: Ibid., v.25, p.141
-
 

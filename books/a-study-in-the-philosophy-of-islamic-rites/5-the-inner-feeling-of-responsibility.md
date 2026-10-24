@@ -79,4 +79,3 @@ Thus, this feeling gets deepened through the practice of rites, and man
 gets used to behaving on its basis, forming a strong guarantee for the
 good individual's discharge of his duties and obligations.
 
-

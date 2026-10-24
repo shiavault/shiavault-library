@@ -1,15 +1,11 @@
 The Correct Approach to Reconciliation and its Positive Consequences
 ====================================================================
 
-<blockquote dir="rtl">
-  <p>
-وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
-بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَى فَقَاتِلُوا
-الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللَّهِ فَإِن فَاءتْ
-فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ
-يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا
+> بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَى فَقَاتِلُوا
+> الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللَّهِ فَإِن فَاءتْ
+> فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ
+> يُحِبُّ الْمُقْسِطِينَ
 
 ***And if two parties of the believers quarrel, make peace between them;
 but if one of them acts wrongfully towards the other, fight that which
@@ -127,12 +123,8 @@ reconciliation coupled with equity in the verse under consideration,
 which can be deduced from the repetition of the terms
 ‘*adl* and *qist* (justice and equity) three times,
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ
-يُحِبُّ الْمُقْسِطِينَ
-  </p>
-</blockquote>
+> فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ
+> يُحِبُّ الْمُقْسِطِينَ
 
 ***make peace between them with justice and act equitably; indeed Allah
 loves those who act equitably. (al-Hujurat, 49/9)***
@@ -175,11 +167,7 @@ results in the benefit of the perpetrator.
 
 The Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ
-  </p>
-</blockquote>
+> وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُواْ بِالْعَدْلِ
 
 ***and that when you judge between people you judge with justice;
 (al-Nisa’, 4/58)***
@@ -192,12 +180,8 @@ one of the main objectives of the great Prophets (A) was to constantly
 strive to establish justice and equity in human societies. In this
 regard, the Qur’an states:
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
-الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ
-  </p>
-</blockquote>
+> لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ
+> الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ
 
 ***Certainly We sent Our messengers with clear arguments, and sent down
 with them the Book and the balance that men may conduct themselves with
@@ -223,13 +207,8 @@ people can be assured that no one will be able to acquire anything by
 force or unfairness.  
  The commander of the faithful, Ali (A) has stated:
 
-<blockquote dir="rtl">
-  <p>
-ظلم الاحسان واضعه في غير موضعه
-  </p>
-</blockquote>
+> ظلم الاحسان واضعه في غير موضعه
 
 *The disservice to ihsan (goodness) is exercising it in the wrong place.
 (Ghurar-al-Hikam, p. 498) *
-
 

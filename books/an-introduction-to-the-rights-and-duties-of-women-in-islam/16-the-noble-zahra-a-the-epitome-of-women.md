@@ -405,11 +405,7 @@ standards. The exemplariness of the Prophet (S) which was stated in the
 Holy Quran is a principle and it teaches us that we must, more than
 anything, see the Infallibles (‘a) in this perspective.
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ...
-  </p>
-</blockquote>
+> لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ...
 
 ***“Surely you have in the Prophet of Allah a good example…”***[^3]
 
@@ -563,5 +559,4 @@ personages. [trans.]
 Muslims for several years. [trans.]
 
 [^3]: - Surah Ahzab 33:21.
-
 

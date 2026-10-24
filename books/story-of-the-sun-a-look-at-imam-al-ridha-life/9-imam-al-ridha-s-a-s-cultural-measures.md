@@ -881,4 +881,3 @@ al-Akhbar).
 [^79]: Bihar al-Anwar, vol. 44, p. 286 from Saduq’s Amali and ‘Uyun
 Akhbar al-Ridha (a.s.).
 
-

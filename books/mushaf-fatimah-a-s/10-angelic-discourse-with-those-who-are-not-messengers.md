@@ -260,4 +260,3 @@ episode recounted in Chapter 18, verses 60-82 of the Quran.
 
 [^25]: A’ayaan al-Shi’ah, v.1, p.714.
 
-

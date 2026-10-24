@@ -164,4 +164,3 @@ lessons from the peace of Hodaibiyah and submitted to peace, but is the
 turn of the Muslims of 21st century to submit to peace and learn lessons
 from the above defined verses of the 48th chapter of the Holy Quran.
 
-

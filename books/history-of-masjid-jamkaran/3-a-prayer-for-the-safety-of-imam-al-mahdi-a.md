@@ -1,60 +1,31 @@
 A Prayer for the Safety of Imam al-Mahdi [a]
 ============================================
 
-<blockquote dir="rtl">
-  <p>
-دُعاءِ الفَرَج
-  </p>
-</blockquote>
+> دُعاءِ الفَرَج
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 **In the Name of God, the Beneficent, the Merciful**
 
-<blockquote dir="rtl">
-  <p>
-‎اَللّهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ بْنِ الْحَسَنِ
-  </p>
-</blockquote>
+> ‎اَللّهُمَّ كُنْ لِوَلِيِّكَ الْحُجَّةِ بْنِ الْحَسَنِ
 
 O Allah! Protect Your vicegerent Hujjat (the Proof) b. al-Hasan
 
-<blockquote dir="rtl">
-  <p>
-صَلَواتُكَ عَلَيْهِ وَعَلى آبائِهِ
-  </p>
-</blockquote>
+> صَلَواتُكَ عَلَيْهِ وَعَلى آبائِهِ
 
 and send salutations upon him and his ancestors,
 
-<blockquote dir="rtl">
-  <p>
-في هذِهِ السّاعَةِ وَفي كُلِّ ساعَةٍ
-  </p>
-</blockquote>
+> في هذِهِ السّاعَةِ وَفي كُلِّ ساعَةٍ
 
 now as well as at all the times,
 
-<blockquote dir="rtl">
-  <p>
-وَلِيّاً وَحافِظاً، وَقائِداً ‏وَناصِراً، وَدَليلاً وَعَيْناً
-  </p>
-</blockquote>
+> وَلِيّاً وَحافِظاً، وَقائِداً ‏وَناصِراً، وَدَليلاً وَعَيْناً
 
 (as our) Imam, Guardian, Supporter, and Guide until such time when you
 bestow upon him the honor of heading the (Divine) Government.
 
-<blockquote dir="rtl">
-  <p>
-حَتّى تُسْكِنَهُ أَرْضَكَ طَوْعاً، وَتُمَتِّعَهُ فيها طَويلاً.‏
-  </p>
-</blockquote>
+> حَتّى تُسْكِنَهُ أَرْضَكَ طَوْعاً، وَتُمَتِّعَهُ فيها طَويلاً.‏
 
 And let the people be delighted in his reign, by bestowing success, and
 by extending his reign.
-
 

@@ -27,4 +27,3 @@ and undeniable within the religion.7 Thus, a case for Islamic
 environmental stewardship might be best put forth through direct
 Qur’anic reference.
 
-

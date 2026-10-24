@@ -1363,4 +1363,3 @@ mentioned five times a day: I testify that Muhammad is the Apostle of
 Allah. May your mother lose you, every practice remains after this will
 bury us thoroughly.'"
 
-

@@ -73,4 +73,3 @@ Qur'an along with Ubayy ibn Ka'b during the lifetime of the Prophet
 19 Al-Sirat al-Mustaqim: vol.3, p.38.
 20 Seas of Lights: vol.92, p.77.
 
-

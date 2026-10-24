@@ -58,4 +58,3 @@ Illallahi.
 d) You have prepared your **Will,** and given some "**sadaqa*****"***
 for your safe journey.
 
-

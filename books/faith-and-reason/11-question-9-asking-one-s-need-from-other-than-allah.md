@@ -293,4 +293,3 @@ al-Qur\`an, vol. 5 pg. 333.
 
 [^7]: Surat al-Nazi’at (79), Verse 5:  فَالْمُدَبِّرَاتِ أَمْراً 
 
-

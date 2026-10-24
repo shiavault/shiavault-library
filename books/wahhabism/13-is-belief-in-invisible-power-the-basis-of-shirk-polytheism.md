@@ -48,18 +48,10 @@ divinity of that person.
 Abu al-'A'la al-Mawdudi is the one who has emphasised this matter and
 says:
 
-<blockquote dir="rtl">
-  <p>
-إن التصوٌّر الذي لأجله ندعو الإنسان الاله وتستغيثه ويتصرغ إليه هو لا
-حرم تصور كونه مالكاً للسلطة المهيمنة
-  </p>
-</blockquote>
+> إن التصوٌّر الذي لأجله ندعو الإنسان الاله وتستغيثه ويتصرغ إليه هو لا
+> حرم تصور كونه مالكاً للسلطة المهيمنة
 
-<blockquote dir="rtl">
-  <p>
-على قوانين الطبيعة.
-  </p>
-</blockquote>
+> على قوانين الطبيعة.
 
 *“The reason that man calls God and beseeches Him is because he thinks
 Him as the One possessing sovereignty over the laws of nature and
@@ -85,13 +77,9 @@ Qur’an, the names of those awliya Allah who possessed such powers.
 
 Yusuf ('a) tells his brothers as such:
 
-<blockquote dir="rtl">
-  <p>
-اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ
-بَصِيرًا فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ
-فَارْتَدَّ بَصِيرًا
-  </p>
-</blockquote>
+> اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ
+> بَصِيرًا فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ
+> فَارْتَدَّ بَصِيرًا
 
 ***“Take this my shirt and cast it on my father's face, he will (again)
 be able to see. So when the bearer of good news came he cast it on his
@@ -113,11 +101,7 @@ Musa ('a) is ordered by Allah to strike his staff upon a mountain so
 that twelve fountains i.e. the number of tribes of the sons of Israel,
 come out of it. As the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ
-  </p>
-</blockquote>
+> اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ
 
 ***“Strike the rock with your staff. So there gushed from it twelve
 springs.*** ***(Baqarah 2:60)”***
@@ -126,12 +110,8 @@ In another place he is charged with striking his staff over the sea so
 that every drop of it becomes the size of mountain for the Bani Isra'el
 to pass. As Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِبْ بِعَصَاكَ الْبَحْرَ ۖ
-فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ
-  </p>
-</blockquote>
+> فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِبْ بِعَصَاكَ الْبَحْرَ ۖ
+> فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ
 
 ***“Then we revealed to Musa: Strike the sea with your staff. So it had
 cloven as under, and each part was like a huge mound. (Shu'ara
@@ -159,35 +139,19 @@ From the viewpoint of Qur’an, Sulayman ('a) had dominancy over the
 *Jinns* and birds and was aware of the languages of the birds and
 insects; as Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وَوَرِثَ سُلَيْمَانُ دَاوُودَ ۖ وَقَالَ يَا أَيُّهَا النَّاسُ
-عُلِّمْنَا مَنْطِقَ الطَّيْرِ وَأُوتِينَا مِنْ كُلِّ شَيْءٍ ۖ إِنَّ
-هَٰذَا لَهُوَ الْفَضْلُ الْمُبِينُ
-  </p>
-</blockquote>
+> وَوَرِثَ سُلَيْمَانُ دَاوُودَ ۖ وَقَالَ يَا أَيُّهَا النَّاسُ
+> عُلِّمْنَا مَنْطِقَ الطَّيْرِ وَأُوتِينَا مِنْ كُلِّ شَيْءٍ ۖ إِنَّ
+> هَٰذَا لَهُوَ الْفَضْلُ الْمُبِينُ
 
-<blockquote dir="rtl">
-  <p>
-وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ
-فَهُمْ يُوزَعُونَ
-  </p>
-</blockquote>
+> وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ
+> فَهُمْ يُوزَعُونَ
 
-<blockquote dir="rtl">
-  <p>
-حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَا
-أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ
-سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ
-  </p>
-</blockquote>
+> حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَا
+> أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ
+> سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ
 
-<blockquote dir="rtl">
-  <p>
-فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ
-أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ
-  </p>
-</blockquote>
+> فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ
+> أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ
 
 ***“And Sulayman was Dawud's heir, and he said: O men! we have been
 taught the language of birds, and we have been given all things; most
@@ -208,12 +172,8 @@ According to the specification of Qur’an, Sulayman possessed unseen
 dominancy and the movement of the wind took place as per his wish and
 command. As the verse says:
 
-<blockquote dir="rtl">
-  <p>
-وَلِسُلَيْمَانَ الرِّيحَ عَاصِفَةً تَجْرِي بِأَمْرِهِ إِلَى الْأَرْضِ
-الَّتِي بَارَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَيْءٍ عَالِمِينَ
-  </p>
-</blockquote>
+> وَلِسُلَيْمَانَ الرِّيحَ عَاصِفَةً تَجْرِي بِأَمْرِهِ إِلَى الْأَرْضِ
+> الَّتِي بَارَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَيْءٍ عَالِمِينَ
 
 ***“And (We made subservient) to Sulayman the wind blowing violent,
 pursuing its course by his command to the land which We had blessed, and
@@ -228,19 +188,11 @@ By examining the verses of Qur’an, one can follow the unseen power of
 'Isa ('a). For indicating his power and position, we present here some
 verses. The Holy Qur’an narrates from 'Isa ('a) as such:
 
-<blockquote dir="rtl">
-  <p>
-أني أخلُق لكم من الطين كهيئة الطير فأنفخ فيه فيكون طيراً بإذن الله.
-وأبرئ الأكمة والأبرص وأحي الموتى بإذن
-  </p>
-</blockquote>
+> أني أخلُق لكم من الطين كهيئة الطير فأنفخ فيه فيكون طيراً بإذن الله.
+> وأبرئ الأكمة والأبرص وأحي الموتى بإذن
 
-<blockquote dir="rtl">
-  <p>
-الله وأنبئكم بما تأكلون وما تدخرون في بُيوتكم إن في ذلك لأئة لكم إن
-كنتم مؤمنين.
-  </p>
-</blockquote>
+> الله وأنبئكم بما تأكلون وما تدخرون في بُيوتكم إن في ذلك لأئة لكم إن
+> كنتم مؤمنين.
 
 ***“I create you out of dust like the form of a bird, then I breathe
 into it and it becomes a bird with Allah's permission and I heal the
@@ -253,11 +205,7 @@ If 'Isa ('a) relates his actions to the Will of God, it is because no
 Prophet is the possessor of such authority without the Will of God. As
 verse says:
 
-<blockquote dir="rtl">
-  <p>
-وما كان لرسول أن يأتي بأية إلا بإذن الله
-  </p>
-</blockquote>
+> وما كان لرسول أن يأتي بأية إلا بإذن الله
 
 ***“And it is not in (the power of) an apostle to bring a sign except by
 Allah's permission.*** ***(Ra'd 3:38)”***
@@ -335,11 +283,7 @@ requests without criticising any of them. For example, the tribe of Musa
 asked water and rain from him so that they could be saved from the
 severe famine. As the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وأوحينا إلى موسى استسقاه قومه أن اضرب بعصاك الحجر
-  </p>
-</blockquote>
+> وأوحينا إلى موسى استسقاه قومه أن اضرب بعصاك الحجر
 
 ***“……And we revealed to Musa when his people asked him for water:
 strike the rock with your staff….” (Araf 7:16)”*** [^5]
@@ -358,14 +302,10 @@ Sulayman ('a) Seeks the Throne of Bilqis
 In summoning the throne of Bilqis, Sulayman ('a) asked an extraordinary
 act from those present in his gathering. He said:
 
-<blockquote dir="rtl">
-  <p>
-أيُكم يأتيني بعرشها قبل أن يأتوني مسلمين قال عفريت من الجن أنا أتيك به
-قبل أن تقوم من مقامك وإني عليه لقويّ أمين قال الذي عنده علم من الكتاب
-أنا أتيك به قبل أن يرتدّ إليك طرفك فلما رأه مستقراً عنده قال هذا من
-فضل ربي.
-  </p>
-</blockquote>
+> أيُكم يأتيني بعرشها قبل أن يأتوني مسلمين قال عفريت من الجن أنا أتيك به
+> قبل أن تقوم من مقامك وإني عليه لقويّ أمين قال الذي عنده علم من الكتاب
+> أنا أتيك به قبل أن يرتدّ إليك طرفك فلما رأه مستقراً عنده قال هذا من
+> فضل ربي.
 
 ***“Which of you can bring to me her throne before they come to me in
 submission?' One audacious among the jinn said: 'I will bring it to you
@@ -382,11 +322,7 @@ asked for miracles (which required extraordinary acts) from those
 claiming to be prophets; not from God who has sent them. They were told
 as such:
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كُنْتَ جِئْتَ بِآيَةٍ فَأْتِ بِهَا إِنْ كُنْتَ مِنَ الصَّادِقِينَ
-  </p>
-</blockquote>
+> إِنْ كُنْتَ جِئْتَ بِآيَةٍ فَأْتِ بِهَا إِنْ كُنْتَ مِنَ الصَّادِقِينَ
 
 ***“If you have come with a sign, then bring it, if you are of the
 truthful ones.*** ***(Araf 7:106)”***
@@ -443,11 +379,7 @@ Sometimes it is imagined that asking for cure and the like of it from
 the awliya is (the same as) asking for the Acts of Allah from someone
 other than Him and the Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-وإذا مرضت فهو يشفين
-  </p>
-</blockquote>
+> وإذا مرضت فهو يشفين
 
 ***“And when I am sick, then He restores me to health.*** ***(Shu'ara
 26:80)”***
@@ -556,5 +488,4 @@ Aal 'Imran verse 49 and Sura Ma'ida: verses 100 and 110.
 idols they replied: “We ask rain from them and they send rain for us, we
 seek help and they help us”. With this belief, he took the idol of Habal
 to Mecca. (Refer to Sira Ibn Hisham, vol. 1 page 77).
-
 

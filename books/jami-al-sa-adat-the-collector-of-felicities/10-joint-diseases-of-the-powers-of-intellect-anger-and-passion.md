@@ -25,11 +25,7 @@ always burning in the fire of jealousy. Moreover his jealousy destroys
 the value of all of his good works, as mentioned in a prophetic
 tradition:
 
-<blockquote dir="rtl">
-  <p>
-الحسد يأكل الحسنات, لما تأكل النار الحطب.
-  </p>
-</blockquote>
+> الحسد يأكل الحسنات, لما تأكل النار الحطب.
 
 Jealousy consumes virtues as fire consumes wood.
 
@@ -68,12 +64,8 @@ they have earned it, they bear the guilt of slander and manifest sin.***
 
 And in a tradition attributed to the Prophet (S) we read:
 
-<blockquote dir="rtl">
-  <p>
-من آذى مؤمنا فقد آذاني, ومن آذاني فقد آذى الله, ومن آذى الله فهو ملعون
-في التوراة والإنجيل والزبور والفرقان.
-  </p>
-</blockquote>
+> من آذى مؤمنا فقد آذاني, ومن آذاني فقد آذى الله, ومن آذى الله فهو ملعون
+> في التوراة والإنجيل والزبور والفرقان.
 
 Whoever hurts a believer, hurts me; whoever hurts me, hurts God: and
 whoever hurts God is the accursed of Torah, the Gospel, the Psalms, and
@@ -83,12 +75,8 @@ On the other hand, stopping someone from harassing and insulting others
 is a worthy act praised in several traditions, of which the following
 prophetic *hadith* is an example.
 
-<blockquote dir="rtl">
-  <p>
- ‏من زحزح عن طريق المسلمين شيئا ‏ ‏يؤذيهم, كتب الله له به حسنة ومن كتب
-له عنده حسنة أدخله الله بها الجنة. ‏ 
-  </p>
-</blockquote>
+>  ‏من زحزح عن طريق المسلمين شيئا ‏ ‏يؤذيهم, كتب الله له به حسنة ومن كتب
+> له عنده حسنة أدخله الله بها الجنة. ‏
 
 Whoever removes an annoying hurdle from the path of Muslims, God shall
 write for him a virtue, whose reward is Paradise.[^1]
@@ -102,11 +90,7 @@ making others happy and removing their cause of sorrow or anxiety. There
 are numerous traditions in praise of this virtue, such as the following
 from the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-ان احب الأعمال إلى الله عز وجل إدخال السرور على المؤمنين.
-  </p>
-</blockquote>
+> ان احب الأعمال إلى الله عز وجل إدخال السرور على المؤمنين.
 
 Indeed the most beloved action near God, the Almighty, is to make the
 believers happy.
@@ -119,12 +103,8 @@ lethargy, spiritual weakness, or miserliness. This vice is condemned in
 numerous traditions, an example of which is the following wellknown
 statement of the Prophet (S):
 
-<blockquote dir="rtl">
-  <p>
-من أصبح لا يهتم بأمور المسلمين فليس منهم ومن سمع رجلا ينادي يا
-للمسلمين فلم يجبه فليس بمسلم.
-  </p>
-</blockquote>
+> من أصبح لا يهتم بأمور المسلمين فليس منهم ومن سمع رجلا ينادي يا
+> للمسلمين فلم يجبه فليس بمسلم.
 
 He who wakes up without any concern for the affairs of Muslims, is not a
 Muslim; and he who hears the cry, \`O Muslims!' without responding is
@@ -134,12 +114,8 @@ On the contrary, to meet the needs of the Muslims and to solve their
 problems is considered as one of the noblest forms of worship. The
 Prophet is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-من مشى في حاجة أخيه ساعة من ليل أو نهار, قضاها أو لم يقضها, كان خيرا
-له من اعتكاف شهرين.
-  </p>
-</blockquote>
+> من مشى في حاجة أخيه ساعة من ليل أو نهار, قضاها أو لم يقضها, كان خيرا
+> له من اعتكاف شهرين.
 
 An hour covered on foot, at night or during day, in the effort to help
 one's brother meet his need, is better than two months of *i\`tikaf*
@@ -223,11 +199,7 @@ the world to come ....*****(24:19)**
 
 And the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-من ستر على مسلم ستره الله في الدنيا والآخرة.
-  </p>
-</blockquote>
+> من ستر على مسلم ستره الله في الدنيا والآخرة.
 
 *He who covers up [the faults of] a Muslim, God shall cover up his
 faults in this world and the next.*
@@ -344,19 +316,11 @@ little.*** **(4:142)**
 
 Here is a prophetic tradition about the vice of *riya*':
 
-<blockquote dir="rtl">
-  <p>
-إن اخوف ما أخاف عليكم الشرك الأصغر, قالوا: وما الشرك الأصغر؟ قال:
-((الرياء))
-  </p>
-</blockquote>
+> إن اخوف ما أخاف عليكم الشرك الأصغر, قالوا: وما الشرك الأصغر؟ قال:
+> ((الرياء))
 
-<blockquote dir="rtl">
-  <p>
-يقول الله عز وجل يوم القيامة للمرائين إذا جازى العباد باعمالهم: اذهبوا
-إلى الذين كنتم تراؤن في الدنيا ، فانظروا هل تجدون عندهم الجزاء.
-  </p>
-</blockquote>
+> يقول الله عز وجل يوم القيامة للمرائين إذا جازى العباد باعمالهم: اذهبوا
+> إلى الذين كنتم تراؤن في الدنيا ، فانظروا هل تجدون عندهم الجزاء.
 
 [The Prophet (S) said:] "The main thing that I fear concerning you is
 \`minor idolatry' (*shirk*)". They asked "What is \`minor idolatry'?" He
@@ -423,14 +387,10 @@ aware of reality the less he is likely to fall prey to pride. The
 following tradition of Imam al-Sadiq (A) suggests the true remedy to the
 vice of pride:
 
-<blockquote dir="rtl">
-  <p>
-واعلم أنك لن تخرج من ظلمات الغرور والتمني إلا بصدق الانابة إلى الله
-والاخبات له ومعرفة عيوب أحوالك من حيث لا توافق العقل والعلم ولا يحتمله
-الدين والشريعة وسنن القدوة وأئمة الهدى وإن كنت راضيا بما أنت فيه فما
-أحد أشقى بعلمك منك وأضيع عمرا, فأورثت حسرة يوم القيامة.
-  </p>
-</blockquote>
+> واعلم أنك لن تخرج من ظلمات الغرور والتمني إلا بصدق الانابة إلى الله
+> والاخبات له ومعرفة عيوب أحوالك من حيث لا توافق العقل والعلم ولا يحتمله
+> الدين والشريعة وسنن القدوة وأئمة الهدى وإن كنت راضيا بما أنت فيه فما
+> أحد أشقى بعلمك منك وأضيع عمرا, فأورثت حسرة يوم القيامة.
 
 Know that you shall not be freed from the darkness of pride and desire
 unless you truly return to God in humility and penitence, and become
@@ -474,11 +434,7 @@ impudence and absence of shame in doing prohibited acts. Its opposite is
 modesty and shame (*haya'*) which is a part of faith. Imam al-Sadiq (A)
 has said:
 
-<blockquote dir="rtl">
-  <p>
-الحياء من الأيمان, و الأيمان في الجنة.
-  </p>
-</blockquote>
+> الحياء من الأيمان, و الأيمان في الجنة.
 
 Modesty belongs to faith and faith is in paradise.
 
@@ -503,11 +459,7 @@ repentant person constantly takes an account of his deeds and gives
 thought to the moral quality of his actions. There is a tradition that
 says:
 
-<blockquote dir="rtl">
-  <p>
-حاسبوا أنفسكم قبل ان تحاسبوا.
-  </p>
-</blockquote>
+> حاسبوا أنفسكم قبل ان تحاسبوا.
 
 Take account of yourselves before you are taken to account.
 
@@ -689,11 +641,7 @@ The opposite of this vice *is tawakkul* (trust) in God in all aspects of
 one's life, with the belief that God is the only effective force in the
 universe. This is the meaning of the famous dictum:
 
-<blockquote dir="rtl">
-  <p>
-لا حول ولا قوة إلا بالله.
-  </p>
-</blockquote>
+> لا حول ولا قوة إلا بالله.
 
 There is no power or might except that [it is derived] from God.
 
@@ -704,11 +652,7 @@ And the Qur’an explicitly states:
 
 And the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-من انقطع إلى الله, كفاه الله كل مؤنة
-  </p>
-</blockquote>
+> من انقطع إلى الله, كفاه الله كل مؤنة
 
 Whosoever abandons hope in everything except God, He shall take care of
 his means of life.
@@ -792,12 +736,8 @@ truly guided.*** **(2:155-157)**
 
 And the Prophet (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-الصبر من الإيمان بمنزلة الرأس من الجسد, ولا جسد لمن لا رأس له, ولا
-ايمان لمن لا صبر له.
-  </p>
-</blockquote>
+> الصبر من الإيمان بمنزلة الرأس من الجسد, ولا جسد لمن لا رأس له, ولا
+> ايمان لمن لا صبر له.
 
 The relationship of *sabr* to faith *('iman)* is like that of the head
 to the body; just as the body cannot live without the head, so also
@@ -856,5 +796,4 @@ the spirit of its author. *Amin.*
 [^1]: Ihya\`ulum al-din, vol. II, p. 172
 
 [^2]: Misbah al-Shari\`ah, chapter 36.
-
 

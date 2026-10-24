@@ -254,4 +254,3 @@ self.
  -  We can then deem its meat, milk, etc… tahir.   
   
 
-

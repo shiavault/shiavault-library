@@ -4,12 +4,8 @@ Section 2: Moses Saved By Allah From Being Murdered
 Surah Al-Qasas - Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَي ءَاتَيْنَاهُ حُكْماً وَعِلْماً
-وَكَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
-  </p>
-</blockquote>
+> وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَي ءَاتَيْنَاهُ حُكْماً وَعِلْماً
+> وَكَذَلِكَ نَجْزِي الْمُـحْسِنِينَ
 
 ***14. “And when he reached his full strength and was ripe, We granted
 him wisdom and knowledge; and thus do We reward the good-doers.”***
@@ -62,15 +58,11 @@ details of it are not clear to us.
 Surah Al-Qasas - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَدَخَلَ الْمَدِينَةَ عَلَي حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ
-فِيهَا رَجُلَيْنِ يَقْتَتِلاَنِ هَذَا مِن شِيعَتِهِ وَهَذَا مِنْ
-عَدُوِّهِ فَاسْتَغَاثَهُ الَّذِي مِن شِيعَتِهِ عَلَي الَّذِي مِنْ
-عَدُوِّه فَوَكَزَهُ مُوسَي فَقَضَي عَلَيْهِ قَالَ هَذَا مِنْ عَمَلِ
-الشَّيْطَانِ إِنَّهُ عَدُوٌّ مُضِلٌ مُبِينٌ
-  </p>
-</blockquote>
+> وَدَخَلَ الْمَدِينَةَ عَلَي حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ
+> فِيهَا رَجُلَيْنِ يَقْتَتِلاَنِ هَذَا مِن شِيعَتِهِ وَهَذَا مِنْ
+> عَدُوِّهِ فَاسْتَغَاثَهُ الَّذِي مِن شِيعَتِهِ عَلَي الَّذِي مِنْ
+> عَدُوِّه فَوَكَزَهُ مُوسَي فَقَضَي عَلَيْهِ قَالَ هَذَا مِنْ عَمَلِ
+> الشَّيْطَانِ إِنَّهُ عَدُوٌّ مُضِلٌ مُبِينٌ
 
 ***15. “And he entered the city at a time when its people were
 unheeding, and found there two men fighting, one being of his own party,
@@ -170,12 +162,8 @@ him not to remain in Egypt any longer and he went toward Madyan.
 Surah Al-Qasas - Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ إِنّـِي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ
-إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ إِنّـِي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ
+> إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
 
 ***16. “(Moses) said: ‘My Lord! Verily I have done harm to myself! Do
 You then forgive me!’ So (Allah) forgave him. Verily He is the
@@ -267,12 +255,8 @@ verse, has chosen the same meaning, too.[^4]
 Surah Al-Qasas - Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَبّ‌ِ بِمَآ أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيراً
-لّـِلْمُجْرِمِينَ
-  </p>
-</blockquote>
+> قَالَ رَبّ‌ِ بِمَآ أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيراً
+> لّـِلْمُجْرِمِينَ
 
 ***17. “He said: “My Lord! For the bounty You have bestowed on me, never
 shall I be a supporter of the guilty’.”***
@@ -441,13 +425,9 @@ against the oppressed.”*[^16]
 Surah Al-Qasas - Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَأَصْبَحَ فِي الْمَدِينَةِ خَآئِفاً يَتَرَقَّبُ فَإِذَا الَّذِي
-اسْتَنصَرَهُ بِالاَمْسِ يَسْتَصْرِخُهُ قَالَ لَهُ مُوسَي إِنَّكَ
-لَغَوِيٌّ مُّبِينٌ
-  </p>
-</blockquote>
+> فَأَصْبَحَ فِي الْمَدِينَةِ خَآئِفاً يَتَرَقَّبُ فَإِذَا الَّذِي
+> اسْتَنصَرَهُ بِالاَمْسِ يَسْتَصْرِخُهُ قَالَ لَهُ مُوسَي إِنَّكَ
+> لَغَوِيٌّ مُّبِينٌ
 
 ***18. “And he was in the city, fearing, awaiting, when behold, the man
 who had, the day before, sought his help called aloud for his help
@@ -490,14 +470,10 @@ his yesterday programs were still continued that he began another one.
 Surah Al-Qasas - Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا
-قَالَ يَا مُوسَي أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسَاً
-بِالاَمْسِ إِن تُرِيدُ إِلآَّ أَن تَكُونَ جَبَّاراً فِي الاَرْضِ وَمَا
-تُرِيدُ أَن تَكُونَ مِنَ الْمُصْلِحِينَ
-  </p>
-</blockquote>
+> فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا
+> قَالَ يَا مُوسَي أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسَاً
+> بِالاَمْسِ إِن تُرِيدُ إِلآَّ أَن تَكُونَ جَبَّاراً فِي الاَرْضِ وَمَا
+> تُرِيدُ أَن تَكُونَ مِنَ الْمُصْلِحِينَ
 
 ***19. “So when he intended to assault him who was the enemy of them
 both, the man said: ‘O Moses! Do you intend to kill me as you killed a
@@ -545,20 +521,12 @@ as he killed the Coptic man.[^17]
 Surah Al-Qasas - Verses 20-21
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَجَآءَ رَجُلٌ مِنْ اَقْصَا الْمَدِينَةِ يَسْعَي قَالَ يَا مُوسَي
-إِنَّ الْمَلأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنّـِي لَكَ
-مِنَ النَّاصِحِينَ
-  </p>
-</blockquote>
+> وَجَآءَ رَجُلٌ مِنْ اَقْصَا الْمَدِينَةِ يَسْعَي قَالَ يَا مُوسَي
+> إِنَّ الْمَلأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنّـِي لَكَ
+> مِنَ النَّاصِحِينَ
 
-<blockquote dir="rtl">
-  <p>
-فَخَرَجَ مِنْهَا خَآئِفاً يَتَرَقَّبُ قَالَ رَبّ‌ِ نَجّـِنِي مِنَ
-الْقَوْمِ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَخَرَجَ مِنْهَا خَآئِفاً يَتَرَقَّبُ قَالَ رَبّ‌ِ نَجّـِنِي مِنَ
+> الْقَوْمِ الظَّالِمِينَ
 
 ***20. “And there came a man from the furthest part of the city,
 running. He said: ‘O Moses! Verily the chiefs are consulting to slay
@@ -668,5 +636,4 @@ Tafsir-ul-Burhan, Tafsir-i-Manhaj-us-Sadiqin under the verse.
 [^17]: The commentaries of Qurtabi, Majma‘-ul-Bayan, Atyab-ul-Bayan,
 Safi, Jawami‘-ul-Jami‘, Manhaj-us-Sadiqin, Burhan, and
 Makhzan-ul-‘Irfan, Vol. 9
-
 

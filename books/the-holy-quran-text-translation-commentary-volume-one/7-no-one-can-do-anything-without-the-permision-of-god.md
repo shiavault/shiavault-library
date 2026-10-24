@@ -404,4 +404,3 @@ as the heavens and the earth; and whatever is in them. everything owes
 it's origin to Allah who is the basis of existence and the cause of all
 causes.
 
-

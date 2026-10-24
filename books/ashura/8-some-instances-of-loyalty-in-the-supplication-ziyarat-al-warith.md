@@ -1293,4 +1293,3 @@ day of Separation in Islam and Ashura could be the third.
 al-Mahdi for explanation and analysis of these narrations and also how
 they fit the present context of the blessed Islamic Revolution.
 
-

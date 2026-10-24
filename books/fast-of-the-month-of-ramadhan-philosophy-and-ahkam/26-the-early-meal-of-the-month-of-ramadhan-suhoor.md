@@ -111,4 +111,3 @@ Saghir, and hadith number 1062 in Sahih al-Targheeb wal Tarheeb.
 [^2]: This is hadith number 1057 among the hadiths of Sahih al-Targheeb
 wal Tarheeb, and hadith number 1045 among the "Series of sahih hadiths."
 
-

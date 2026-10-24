@@ -105,4 +105,3 @@ then his governor over Medina.
 
 [^2]: Ibn Qutaybah, Tarikh al-Khulafa, Vol. 2, p. 150.
 
-

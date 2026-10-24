@@ -160,9 +160,7 @@ The basic reason for the demise of civilizations lies in this principle:
 it or not.” This is truly the essence of atrocity. As the Holy Qur’an
 says:
 
-<p dir="rtl">
 فکاين من قرية اهلکناها فهی ظالمه
-</p>
 
 ***“How many a city we have destroyed in its evildoing.”( 22:45)***
 
@@ -513,9 +511,7 @@ intelligently and freely determine to make progress.
 
 The Holy Qur’an has also pointed this out in various ways, for example:
 
-<p dir="rtl">
 تلک امة قد خلت لها ما کسبت و لکم ما کسبتم
-</p>
 
 ***“That is a nation that has passed away; there awaits them what they
 have earned, and there awaits you what you have earned.” (2:134)***
@@ -526,5 +522,4 @@ man-oriented civilization can present its positive experiences,
 principles and laws, such as fair behavior toward each other,
 intelligible freedom, sound economy, dominant human virtues and morals,
 etc.
-
 

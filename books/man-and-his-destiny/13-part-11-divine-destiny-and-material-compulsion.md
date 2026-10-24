@@ -109,4 +109,3 @@ aid if he whole-heartedly exerts himself to serve the cause of his
 creed. His power naturally increases thousands of times when the energy
 stored in the world comes to his aid.
 
-

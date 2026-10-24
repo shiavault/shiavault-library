@@ -1,8 +1,6 @@
 Chapter 3: the Pledge of Allegiance
 ===================================
 
-  
-
 The religion of Islam is what the Prophet, may Allah bless him and his
 family, propagated. For he (the Prophet): "Does not speak out of desire.
 It is naught but revelation that is revealed." So the Prophet had the
@@ -34,8 +32,6 @@ al-Arba'iniya. Hafiz al-Bukhari (Khaja Barsa), Fasl al-Khitab.
 [[2]](#n2) Al-Shibrawi al-Shafi'i, al-Ithaf bi Hub al-Ashraf (Egypt),
 p.129. Al Safuri al-Shafi'i, vol. 2, p. 148. [[3]](#n3) Ibn Taymiya,
 al-Minhaj, vol. 4, p. 210.
-
-  
 
 Hasan and said: "My son, you are the trustee of authority and of blood."
 Imam 'Ali made al-Husayn, Muhammad (b. al-Hanafiya), all his sons, the
@@ -76,8 +72,6 @@ family, saying: 'The religion will last till the hour (i.e., the Day of
 Judgment) starts, and there will be twelve Imams over them (people), who
 are all from Quraysh.'" A similar tradition has been reported by:
 al-Bukhari, al-Tirmidhi, al-Hamidi, and the like.
-
-  
 
 Moreover, there are personal texts which the imams said to nominate each
 other.
@@ -122,8 +116,6 @@ I (the author) wonder: was it appropriate for the successor, who had
 
 [[1]](#n7) Farid Wajdi, Da'irat al-Ma'arif, vo1.3, p. 231.
 
-  
-
 to be like the Prophet in his words and acts, to perform the Friday
 prayer on Wednesday or to perform it again in the morning? Was it
 appropriate for him to do Islamically forbidden acts? In other words,
@@ -166,8 +158,6 @@ who flies in the gardens). His aunt was Umm Hani' the daughter of Abu
 Talib. His uncle was al-Qasim the son of the Apostle of Allah. His aunt
 was Zaynab the daughter of the  
 
-  
-
 As al-Hasan had these noble traits and a textual nomination, then why
 didn't the people pledge Allegiance to him? Why didn't they let him
 assume the high religious position (i.e., the succession)? If it is
@@ -208,8 +198,6 @@ grandmother was Khadija bint (the daughter of) Khuwaylid." (al-Bayhaqi,
 vol. l, p.62). [[1]](#n10) Al-Ya'qubi, Ta'rikh, vol. 2, p.190. Ibn
 al-Athir, vol. 2, p. 190. Maqatil al-Talibiyyin.
 
-  
-
 Hasan, peace be on him, refrain from following the known method in
 praising the great ones? I (the author) wonder: Did the strong shock
 resulting from his father's death prevent him from that? In other words,
@@ -248,8 +236,6 @@ relation to his father and his grandfather, may Allah bless them and
 their families. Al-Hasan, the Successor, peace be on him, delivered many
 sermons after his father's death. For the people pledged allegiance to
 him. Moreover, he faced many critical situations.
-
-  
 
 'Ubayd Allah b. 'Abbas b. 'Abd al-Muttalib, al-Hasan's cousin, stood by
 the pulpit in al-Masjid al-Jami' that was full of people. He was waiting
@@ -293,8 +279,6 @@ has mention 'Abd Allah in stead of his brother 'Ubayd Allah. In Chapter
 'Leadership and War,' we will mention that 'Abd Allah was not in Kufa
 when the people pledged allegiance to al-Hasan, peace be on him.
 
-  
-
 followers. So Mu'awiya led his followers to the way of misguidance.
 Besides other persons adopted a neutral attitude, so they were called
 al-quad (the neutral).
@@ -335,8 +319,6 @@ as the obedience to the Apostle of Allah. Allah, the Great and Almighty
 said: 'O you who believe! Obey Allah and obey the Apostle and those in
 authority from you; then if you quarrel about any thing, refer it to
 Allah and the Apostle.' Then He  
-
-  
 
 said: '.And if they had referred it to the Prophet and to those in
 authority among them, those among them who can search out the knowledge
@@ -380,8 +362,6 @@ sermon) is some of his (i.e., al-Hasan's) sermons after the pledge of
 allegiance to him. See Bihar al-Anwar, vol. 10, p. 99. Also see
 al-Mas'udi [[2]](#n13) Most historians have reported this text.
 
-  
-
 him. So he had no right to fail to accept the obligatory succession. For
 the situation was appropriate.
 
@@ -422,8 +402,6 @@ was
 ------------------------------------------------------------------------
 
 [[1]](#n14) Al-Imama wa al-Siyasa
-
-  
 
 shaky as long as this prominent figure (i.e., al-Hasan) was among the
 people who referred to him in their religious affairs.

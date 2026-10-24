@@ -3,13 +3,9 @@ Lesson One Hundred Twelve: Beware Of Sensuality
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-إحْذَرُوا اَهْوائَكُمْ كَما تَحْذَرُونَ أَعْدائَكُمْ فَلَيْسَ شَىْءٌ
-أَعْدى لِلرَّجالِ مِنْ إِتِّباعِ أَهْوائِهِمْ وَ حَصائِدِ
-اَلْسِنَتِهِمْ
-  </p>
-</blockquote>
+> إحْذَرُوا اَهْوائَكُمْ كَما تَحْذَرُونَ أَعْدائَكُمْ فَلَيْسَ شَىْءٌ
+> أَعْدى لِلرَّجالِ مِنْ إِتِّباعِ أَهْوائِهِمْ وَ حَصائِدِ
+> اَلْسِنَتِهِمْ
 
 Translation
 -----------
@@ -28,5 +24,4 @@ deafens the ear. It extinguishes the light of wisdom, distorts the face
 of truth and finally leads him to the precipice of corruption.
 
 [^1]: Safinat’ul-Bihar, volume 2, article ‘Sensual Desire’
-
 

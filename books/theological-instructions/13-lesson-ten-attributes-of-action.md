@@ -176,4 +176,3 @@ existence from the action of creating by God?
 8. What is the meaning of Divinity? And why should it be combined with
 Creatorship and Lordship?
 
-

@@ -531,53 +531,33 @@ every part a few Ayats and traditions will be referred to as examples.
 that there is no doubt and hesitation in the existence of God and if it
 is asked from the people as to who is their creator they will reply God.
 
-<blockquote dir="rtl">
-  <p>
-قَالَتْ رُسُلُهُمْ أَفِي اللَّـهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ
-وَالْأَرْضِ
-  </p>
-</blockquote>
+> قَالَتْ رُسُلُهُمْ أَفِي اللَّـهِ شَكٌّ فَاطِرِ السَّمَاوَاتِ
+> وَالْأَرْضِ
 
 ***“Their Apostles said: Is there doubt about Allah, the Maker of the
 heavens and the earth?” (Holy Qur’an: 14:10)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
-لَيَقُولُنَّ اللَّـهُ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ
+> لَيَقُولُنَّ اللَّـهُ
 
 ***“And it you ask them who created the heavens and the earth, they will
 certainly say: Allah” (Holy Qur’an: 25: 31) and (39: 38)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّـهُ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّـهُ
 
 ***“And if you should ask them who created them, they would certainly
 say: Allah” (Holy Qur’an: 43: 87)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ
-الْأَرْضَ مِن بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّـهُ
-  </p>
-</blockquote>
+> وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ
+> الْأَرْضَ مِن بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّـهُ
 
 ***“And if you ask them who is it that sends down water from the clouds,
 then gives life to the earth with it after its death, they will
 certainly say, Allah” (Holy Qur’an: 29: 63)***
 
-<blockquote dir="rtl">
-  <p>
-((قال رسول الله (صلّى الله عليه و آله):كلُّ مولودٍ يُولَد على الفطرة،
-يعني على المعرفةِ أنّ الله عزّ و جلّ خالقُه، فذلك قوله عزّ و جل:
-وَلَئِن سأَلْتَهم مَن خَلَق السماواتِ والأرضَ لَيَقُولُنَّ الله))
-  </p>
-</blockquote>
+> ((قال رسول الله (صلّى الله عليه و آله):كلُّ مولودٍ يُولَد على الفطرة،
+> يعني على المعرفةِ أنّ الله عزّ و جلّ خالقُه، فذلك قوله عزّ و جل:
+> وَلَئِن سأَلْتَهم مَن خَلَق السماواتِ والأرضَ لَيَقُولُنَّ الله))
 
 Holy Prophet (S) said: “Every child is born in accordance with his
 innate disposition (*Fitrah*) and by “*Fitrah*” is meant “*Ma’rifat*”
@@ -587,14 +567,10 @@ gives indication to this same matter.( Shaikh Kulaini - Usul al-Kafi.
 Tasheeh ali-Akbar Ghaffari, Darul Kutub al Islamiyah, Tehran, 5th
 Edition vol. 2. pg. 13)
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) في قول الله: وَ إذ أخذ ربك من بني آدم.
-الاية. قال: كان ذلك معاينة الله فأنساهم المعاينة و أثبت الاقرار في
-صدورهم و لولا ذلك ما عرف أحد خالقه و لا رازقه و هو قول الله: و لئن
-سئلهم من خلقهم ليقولن الله))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) في قول الله: وَ إذ أخذ ربك من بني آدم.
+> الاية. قال: كان ذلك معاينة الله فأنساهم المعاينة و أثبت الاقرار في
+> صدورهم و لولا ذلك ما عرف أحد خالقه و لا رازقه و هو قول الله: و لئن
+> سئلهم من خلقهم ليقولن الله))
 
 It is narrated from Imam Sadeq (‘a) about the verse of covenant that: In
 the covenant, the people witnessed God with certainty. Then God made the
@@ -632,16 +608,12 @@ is to say, even in a society contaminated with polytheism, it (i.e.
 
 Now we mention a Holy verse along with some traditions.
 
-<blockquote dir="rtl">
-  <p>
-وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
-وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ
-شَهِدْنَا أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَـٰذَا
-غَافِلِينَ. أَوْ تَقُولُوا إِنَّمَا أَشْرَكَ آبَاؤُنَا مِن قَبْلُ
-وَكُنَّا ذُرِّيَّةً مِّن بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ
-الْمُبْطِلُونَ
-  </p>
-</blockquote>
+> وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ
+> وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ
+> شَهِدْنَا أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَـٰذَا
+> غَافِلِينَ. أَوْ تَقُولُوا إِنَّمَا أَشْرَكَ آبَاؤُنَا مِن قَبْلُ
+> وَكُنَّا ذُرِّيَّةً مِّن بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ
+> الْمُبْطِلُونَ
 
 ***“And when your Lord brought forth from the children of Adam, from
 their backs, their descendants, and made them bear witness against their
@@ -651,13 +623,9 @@ or you should say: Only our fathers associated others (with Allah)
 before, and we were an offspring after them. Wilt Thou then destroy us
 for what the vain doers did?” (Holy Qur’an:*** ***7: 172-173)***
 
-<blockquote dir="rtl">
-  <p>
-((قال زرارة و سألته عن قول الله عزَّ و جل و إذ أخذ ربك من بني آدم.
-الاية. قال: أخرج من ظهر آدم ذريته الى يوم القيامة، فخرجوا كالذر فعرفهم
-و أراهم نفسه و لولا ذلك لم يعرف أحد ربه...))
-  </p>
-</blockquote>
+> ((قال زرارة و سألته عن قول الله عزَّ و جل و إذ أخذ ربك من بني آدم.
+> الاية. قال: أخرج من ظهر آدم ذريته الى يوم القيامة، فخرجوا كالذر فعرفهم
+> و أراهم نفسه و لولا ذلك لم يعرف أحد ربه...))
 
 With regard to the verse of covenant, Imam Baqir (‘a) said: “God takes
 out the sons of Adam from the rear of Adam till the Day of Judgement.
@@ -665,13 +633,9 @@ They were minute particles when God made them recognize Him and if this
 event had not occurred then no one would have been able to recognize
 Him.” **(Usu1 al-Kafi; vol. 2; pg. 13)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: سألته عن قول الله عزَّ و جل: "فطرة
-الله التي فطر الناس عليها"، ما تلك الفطرة؟ قال هي الاسلام، فطرهم الله
-حين أخذ ميثاقهم على التوحيد، "قال ألستُ بربكم" و فيه المؤمن و الكافر))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: سألته عن قول الله عزَّ و جل: "فطرة
+> الله التي فطر الناس عليها"، ما تلك الفطرة؟ قال هي الاسلام، فطرهم الله
+> حين أخذ ميثاقهم على التوحيد، "قال ألستُ بربكم" و فيه المؤمن و الكافر))
 
 About the verse of “*Fitrah*” (innate disposition) it was asked from
 Imam Sadeq (‘a) as to what is “*Fitrah*”. Imam replied: “It means Islam.
@@ -680,13 +644,9 @@ At the time of covenant God natured the people upon “Tauheed”
 believers and unbelievers were present.” **(Usu1 al-Kafi; vol. 2; pg.
 13)**
 
-<blockquote dir="rtl">
-  <p>
-((عن زرارة قال: سألت أبا عبدالله (عليه السلام) عن قول الله: و إذ أخذ
-ربك من بني آدم. الاية. قال: ثبتت المعرفة في قلوبهم و نسوا الموقف و
-سيذكرونه يوماً و لولا ذلك لم يدر أحد من خالقه و لا من رازقه))
-  </p>
-</blockquote>
+> ((عن زرارة قال: سألت أبا عبدالله (عليه السلام) عن قول الله: و إذ أخذ
+> ربك من بني آدم. الاية. قال: ثبتت المعرفة في قلوبهم و نسوا الموقف و
+> سيذكرونه يوماً و لولا ذلك لم يدر أحد من خالقه و لا من رازقه))
 
 It was asked from Imam Sadeq (‘a) about the verse of covenant and he
 said: “The recognition of God remained firm in the hearts of the people.
@@ -695,34 +655,22 @@ will remember it. If such an affair was not there, then nobody could
 know who is his Creator and Sustainer.” **(*****Bihar al-Anwar*****;
 vol. 3; pg. 280)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) في قول الله: و إذ أخذ ربك من بني آدم.
-الاية. قال: كان ذلك معاينة الله فأنساهم المعاينة و أثبت الإقرار في
-صدورهم و لولا ذلك ما عرف أحد خالقه و لا رازقه و هو قول الله: و لئن
-سئلتهم من خلقهم ليقولن الله))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) في قول الله: و إذ أخذ ربك من بني آدم.
+> الاية. قال: كان ذلك معاينة الله فأنساهم المعاينة و أثبت الإقرار في
+> صدورهم و لولا ذلك ما عرف أحد خالقه و لا رازقه و هو قول الله: و لئن
+> سئلتهم من خلقهم ليقولن الله))
 
 **(Same source; vol. 5; pg. 223)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) في قوله و إذ أخذ. الاية. قلت معاينة كان
-هذا؟ قال نعم فثبتت المعرفة و نسوا الموقف و سيذكرونه و لولا ذلك لم يدر
-أحد من خالقه و لا من رازقه، الحديث))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) في قوله و إذ أخذ. الاية. قلت معاينة كان
+> هذا؟ قال نعم فثبتت المعرفة و نسوا الموقف و سيذكرونه و لولا ذلك لم يدر
+> أحد من خالقه و لا من رازقه، الحديث))
 
 **(Same source; vol. 5; pg. 237)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) في قول الله و إذ أخذ ربك من بني آدم.
-الآية. قال نعم لله الحجة على جميع خلقه أخذهم يوم أخذ الميثاق هكذا- و
-قبض يده-.))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) في قول الله و إذ أخذ ربك من بني آدم.
+> الآية. قال نعم لله الحجة على جميع خلقه أخذهم يوم أخذ الميثاق هكذا- و
+> قبض يده-.))
 
 **(Same source; vol. 5; pg. 280)**[^18]
 
@@ -734,13 +682,9 @@ everlasting and steadfast religion too is the same innate and natural
 religion. Therefore the religion which is not based on “*Fitrah*” cannot
 be steadfast and permanent.
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّـهِ ذَٰلِكَ الدِّينُ
-الْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّـهِ ذَٰلِكَ الدِّينُ
+> الْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
 
 ***“Then set your face upright for religion in the right state - the
 nature made by Allah in which He has made men; there is no altering of
@@ -766,43 +710,27 @@ narrated under “Babo *Fitrah*ul Khalqe alal tauheed”.
 Over here, we narrate as an example, few traditions from the book of
 *Bihar al-Anwar*:
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) في قول الله عزَّ و جل: فطرة الله التي
-فطر الناس عليها، قال فطرهم على التوحيد))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) في قول الله عزَّ و جل: فطرة الله التي
+> فطر الناس عليها، قال فطرهم على التوحيد))
 
 About verse of *Fitrah*, Imam Sadeq (‘a) said: God has natured the
 people upon Tauheed (Monotheism). **(*****Bihar al-Anwar*****; vol.3;
 pg. 277)**
 
-<blockquote dir="rtl">
-  <p>
-((وعن ابي عبدالله (عليه السلام) قال: قلت: ((فطرة الله التي فطر الناس
-عليها)) قال التوحيد))
-  </p>
-</blockquote>
+> ((وعن ابي عبدالله (عليه السلام) قال: قلت: ((فطرة الله التي فطر الناس
+> عليها)) قال التوحيد))
 
 **(Same source)**
 
-<blockquote dir="rtl">
-  <p>
-((وعن ابي عبدالله (عليه السلام) قال: سالته عن قول الله عزَّ و جل:
-((((فطرة الله التي فطر الناس عليها)) قال التوحيد))
-  </p>
-</blockquote>
+> ((وعن ابي عبدالله (عليه السلام) قال: سالته عن قول الله عزَّ و جل:
+> ((((فطرة الله التي فطر الناس عليها)) قال التوحيد))
 
 **(Same source)**
 
-<blockquote dir="rtl">
-  <p>
-((وعن زرارة قال قلت لابي جعفر (عليه السلام) اصلحك الله قول الله عزَّ و
-جل في كتابة: ((فطرة الله التي فطر الناس عليها)) قال: فطرهم على التوحيد
-عند الميثاق على معرفته انه ربهم. قلت: و خاطبوه؟ قال: فطأطأ رأسه ثم
-قال: لولا ذلك لم يعلموا من ربهم ولا من رازقهم))
-  </p>
-</blockquote>
+> ((وعن زرارة قال قلت لابي جعفر (عليه السلام) اصلحك الله قول الله عزَّ و
+> جل في كتابة: ((فطرة الله التي فطر الناس عليها)) قال: فطرهم على التوحيد
+> عند الميثاق على معرفته انه ربهم. قلت: و خاطبوه؟ قال: فطأطأ رأسه ثم
+> قال: لولا ذلك لم يعلموا من ربهم ولا من رازقهم))
 
  **(Same source; pg. 278)**
 
@@ -813,13 +741,9 @@ them? Imam shook his head in the affirmative and said: If such an
 address was not there, then people would not have recognized their Lord
 and Sustainer.
 
-<blockquote dir="rtl">
-  <p>
-((عن زرارة قال: سألت ابا جعفر (عليه السلام) عن قول الله عزَّ و جل:
-((فطرة الله التي فطر الناس عليها)) قال: فطرهم على على معرفته انه ربهم
-و لولا ذلك لم يعلموا- اذا سُئِلوا- من ربهم ولا من رازقهم.
-  </p>
-</blockquote>
+> ((عن زرارة قال: سألت ابا جعفر (عليه السلام) عن قول الله عزَّ و جل:
+> ((فطرة الله التي فطر الناس عليها)) قال: فطرهم على على معرفته انه ربهم
+> و لولا ذلك لم يعلموا- اذا سُئِلوا- من ربهم ولا من رازقهم.
 
  **(Same source; pg. 279)**
 
@@ -828,42 +752,26 @@ it was seen in the verse of *Fitrah*, Qur’an has interpreted “Hanif” as
 *Fitrah* (innate disposition) and in other aspects of verses too, the
 traditions have interpreted “Hanifiyeh” as *Fitrah*.
 
-<blockquote dir="rtl">
-  <p>
-فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
-النَّاسَ عَلَيْهَا
-  </p>
-</blockquote>
+> فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّـهِ الَّتِي فَطَرَ
+> النَّاسَ عَلَيْهَا
 
 *“Then set your face upright for religion in the right state - the
 nature made by Allah in which He has made men.”* **(Holy Qur’an: 30:
 30)**
 
-<blockquote dir="rtl">
-  <p>
-حُنَفَاءَ لِلَّـهِ غَيْرَ مُشْرِكِينَ بِهِ
-  </p>
-</blockquote>
+> حُنَفَاءَ لِلَّـهِ غَيْرَ مُشْرِكِينَ بِهِ
 
 *“Being upright for Allah, not associating aught with Him”* **(Holy
 Qur’an: 22: 31)**
 
-<blockquote dir="rtl">
-  <p>
-وعن قول الله عز وجل: ((حنفاء لله غير مشركين به))، فقلت: ما الحنفية؟
-قال: هي الفطرة))
-  </p>
-</blockquote>
+> وعن قول الله عز وجل: ((حنفاء لله غير مشركين به))، فقلت: ما الحنفية؟
+> قال: هي الفطرة))
 
 **(*****Bihar al-Anwar*****; vol.3; pg. 276)**
 
-<blockquote dir="rtl">
-  <p>
-عن ابي جعفر (عليه السلام) قال: سألته عن قول الله عز وجل: ((حنفاء لله
-غير مشركين به)) و عن الحنيفية؟ فقال هي الفطرة التي فطر الناس عليها، لا
-تبديل لخلق الله قال: فطرهم على المعرفة))
-  </p>
-</blockquote>
+> عن ابي جعفر (عليه السلام) قال: سألته عن قول الله عز وجل: ((حنفاء لله
+> غير مشركين به)) و عن الحنيفية؟ فقال هي الفطرة التي فطر الناس عليها، لا
+> تبديل لخلق الله قال: فطرهم على المعرفة))
 
  **(Same source: pg. 279)**
 
@@ -872,20 +780,12 @@ the *Fitrah* (Innate disposition) which God has created everyone in
 accordance to that and there is no alteration in the creation of God. He
 has created everyone based on His *Ma’rifat* and recognition.
 
-<blockquote dir="rtl">
-  <p>
-وما الحنيفية؟ قال: هي الفطرة التي فطر الناس عليها، فطر الله الخلق على
-معرفته))
-  </p>
-</blockquote>
+> وما الحنيفية؟ قال: هي الفطرة التي فطر الناس عليها، فطر الله الخلق على
+> معرفته))
 
 **(Same source: pg. 279)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: إن الحنيفية هي الاسلام))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: إن الحنيفية هي الاسلام))
 
  **(Same source: pg. 281)**
 
@@ -908,74 +808,46 @@ ability of knowing Him because there is no human channel for knowing God
 
 As examples we mention some verses and traditions:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عَلَيْنَا لَلْـهُدَىٰ
-  </p>
-</blockquote>
+> إِنَّ عَلَيْنَا لَلْـهُدَىٰ
 
 ***“Surely ours is it to show the way” (Holy Qur’an: 92: 12)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَـٰكِنَّ اللَّـهَ يَهْدِي مَن
-يَشَاءُ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
-  </p>
-</blockquote>
+> إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَـٰكِنَّ اللَّـهَ يَهْدِي مَن
+> يَشَاءُ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
 
 ***“Surely you cannot guide whom you love, but Allah guides whom He
 please.” (Holy Qur’an: 28: 56)***
 
-<blockquote dir="rtl">
-  <p>
-لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـٰكِنَّ اللَّـهَ يَهْدِي مَن يَشَاءُ
-وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ وَمَا تُنفِقُونَ إِلَّا
-ابْتِغَاءَ وَجْهِ اللَّـهِ وَمَا تُنفِقُوا مِنْ خَيْرٍ يُوَفَّ
-إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
-  </p>
-</blockquote>
+> لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـٰكِنَّ اللَّـهَ يَهْدِي مَن يَشَاءُ
+> وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ وَمَا تُنفِقُونَ إِلَّا
+> ابْتِغَاءَ وَجْهِ اللَّـهِ وَمَا تُنفِقُوا مِنْ خَيْرٍ يُوَفَّ
+> إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
 
 ***“To make them walk in the right way is not incumbent on you, but
 Allah guides aright whom He pleases.” (Holy Qur’an: 2: 272)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَى
-  </p>
-</blockquote>
+> إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَى
 
 ***“Surely Allah’s guidance, is the (true) guidance.” (Holy Qur’an: 6:
 71 and 2: 120)***
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تُؤْمِنُوا إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ الْهُدَىٰ
-هُدَى اللَّـهِ أَن يُؤْتَىٰ أَحَدٌ مِّثْلَ مَا أُوتِيتُمْ أَوْ
-يُحَاجُّوكُمْ عِندَ رَبِّكُمْ قُلْ إِنَّ الْفَضْلَ بِيَدِ اللَّـهِ
-يُؤْتِيهِ مَن يَشَاءُ وَاللَّـهُ وَاسِعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> وَلَا تُؤْمِنُوا إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ الْهُدَىٰ
+> هُدَى اللَّـهِ أَن يُؤْتَىٰ أَحَدٌ مِّثْلَ مَا أُوتِيتُمْ أَوْ
+> يُحَاجُّوكُمْ عِندَ رَبِّكُمْ قُلْ إِنَّ الْفَضْلَ بِيَدِ اللَّـهِ
+> يُؤْتِيهِ مَن يَشَاءُ وَاللَّـهُ وَاسِعٌ عَلِيمٌ
 
 ***“Surely the (true) guidance is the guidance of Allah” (Holy Qur’an:
 3: 73)***
 
-<blockquote dir="rtl">
-  <p>
-قلت لابي عبدالله (عليه السلام): المعرفة مِن صنع مَن هي؟ قال من صنع
-الله، ليس للعباد فيها صنع))
-  </p>
-</blockquote>
+> قلت لابي عبدالله (عليه السلام): المعرفة مِن صنع مَن هي؟ قال من صنع
+> الله، ليس للعباد فيها صنع))
 
 Narrator says: I asked Imam Sadeq (‘a) that *Ma’rifat* and making (the
 people) to recognize God the work of whom? Imam (‘a) said: It is the
 work of God and not His servants. **(Usul al-Kafi; vol.1; pg.163)**
 
-<blockquote dir="rtl">
-  <p>
-))عن ابي عبدالله (عليه السلام) قال ليس لله على خلقه ان يعرفوا وللخلق
-على الله أن يعرًّفهم، ولله على الخلق إذا عرَّفهم أن يقبلوا))
-  </p>
-</blockquote>
+> ))عن ابي عبدالله (عليه السلام) قال ليس لله على خلقه ان يعرفوا وللخلق
+> على الله أن يعرًّفهم، ولله على الخلق إذا عرَّفهم أن يقبلوا))
 
 **(Same source pg. 164)**
 
@@ -983,118 +855,70 @@ Recognition of God is not the responsibility of human beings. It is upon
 God to introduce Himself and it is upon the people to accept Him after
 introduction.
 
-<blockquote dir="rtl">
-  <p>
-قلت لابي الحسن الرضا (عليه السلام) للناس في المعرفة صُنع؟ قال: لا.
-الحديث))
-  </p>
-</blockquote>
+> قلت لابي الحسن الرضا (عليه السلام) للناس في المعرفة صُنع؟ قال: لا.
+> الحديث))
 
 It was asked from Imam Reza (‘a) whether the people had any role in the
 *Ma’rifat* (gnosis) of God to which Imam (‘a) replied in the negative.
 **(*****Bihar al-Anwar*****; vol. 5; pg. 221)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: لم يكلف الله العباد المعرفة و لم
-يجعل لهم اليها سبيلا))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: لم يكلف الله العباد المعرفة و لم
+> يجعل لهم اليها سبيلا))
 
 Imam Sadeq (‘a) said: God has not made responsible the human beings for
 His *Ma’rifat* and has also not set up any way in them for *Ma’rifat*.
 **(Same source: pg. 222)**
 
-<blockquote dir="rtl">
-  <p>
-((سُئِلَ أمير المؤمنين (عليه السلام) بِمَ عرفت ربك؟ قال بما عرَّفني
-نفسه))
-  </p>
-</blockquote>
+> ((سُئِلَ أمير المؤمنين (عليه السلام) بِمَ عرفت ربك؟ قال بما عرَّفني
+> نفسه))
 
 It was asked from Amir al Mu’meneen Ali (‘a) as to how he has recognized
 his Lord. He replied: I have recognized Him by His own introduction.
 
-<blockquote dir="rtl">
-  <p>
-((سمعت ابا عبدالله (عليه السلام) يقول: إن أمر الله كله عجيب إلّا أنه
-قد إحتج عليكم بما قد عرَّفكم من نفسه))
-  </p>
-</blockquote>
+> ((سمعت ابا عبدالله (عليه السلام) يقول: إن أمر الله كله عجيب إلّا أنه
+> قد إحتج عليكم بما قد عرَّفكم من نفسه))
 
 **(Usul al-Kafi; vol.1; pg. 86)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) قال: إن الله احتج على الناس بما اتاهم و
-عرَّفهم))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) قال: إن الله احتج على الناس بما اتاهم و
+> عرَّفهم))
 
 **(Same source pg.162)**
 
-<blockquote dir="rtl">
-  <p>
-((إن الله يحتج على العباد بما اتاهم و عرفهم، ثم ارسل اليهم رسولاً و
-أنزل عليهم الكتاب فأمر فيه و نهى..))
-  </p>
-</blockquote>
+> ((إن الله يحتج على العباد بما اتاهم و عرفهم، ثم ارسل اليهم رسولاً و
+> أنزل عليهم الكتاب فأمر فيه و نهى..))
 
 **(Same source pg.164)**
 
-<blockquote dir="rtl">
-  <p>
-((قلت لابي عبدالله (عليه السلام) أصلحك الله هل جُعِلَ في الناس اداة
-ينالون بها المعرفة؟ قال: فقال: لا، قلت: فهل كلفوا المعرفة؟ قال لا، على
-الله البيان))
-  </p>
-</blockquote>
+> ((قلت لابي عبدالله (عليه السلام) أصلحك الله هل جُعِلَ في الناس اداة
+> ينالون بها المعرفة؟ قال: فقال: لا، قلت: فهل كلفوا المعرفة؟ قال لا، على
+> الله البيان))
 
 **(Same source pg. 163)**
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) أنه سُئِل عن المعرفة أهي مكتسبة؟ فقال:
-لا. فقيل له فمن صنع اللع عز وجل ومن عطاءه هي؟ قال نعم و ليس للعباد
-فيها صنع و لهم إكتساب الاعمال))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) أنه سُئِل عن المعرفة أهي مكتسبة؟ فقال:
+> لا. فقيل له فمن صنع اللع عز وجل ومن عطاءه هي؟ قال نعم و ليس للعباد
+> فيها صنع و لهم إكتساب الاعمال))
 
 **(Tauheed al-Sadooq; chapter 64; pg. 416)**
 
-<blockquote dir="rtl">
-  <p>
-قال أمير المؤمنين (عليه السلام): إعرفوا الله بالله و الرسول بالرسالة و
-اولى الامر بالامر بالمعروف و العدل و الاحسان))
-  </p>
-</blockquote>
+> قال أمير المؤمنين (عليه السلام): إعرفوا الله بالله و الرسول بالرسالة و
+> اولى الامر بالامر بالمعروف و العدل و الاحسان))
 
 **(Usul al-Kafi; vol. 1; pg. 85)**
 
-<blockquote dir="rtl">
-  <p>
-وعن منصور بن حازم قال: قلت لابي عبد الله (عليه السلام) إني ناظرت قوما
-فقلت لهم: إن الله أكرم و أجل من ان يعرف بخلقه، بل العباد يعرفون بالله،
-فقال رحمك الله))
-  </p>
-</blockquote>
+> وعن منصور بن حازم قال: قلت لابي عبد الله (عليه السلام) إني ناظرت قوما
+> فقلت لهم: إن الله أكرم و أجل من ان يعرف بخلقه، بل العباد يعرفون بالله،
+> فقال رحمك الله))
 
 **(Bihar al-Anwar; vol. 3; pg. 270)**
 
-<blockquote dir="rtl">
-  <p>
-((إلهي بِكَ عَرَفْتُكَ وَاَنْتَ دَلَلْتَني عَلَيْكَ وَدَعَوْتَني
-اِلَيْكَ، وَلَوْلا اَنْتَ لَمْ اَدْرِ ما اَنْتَ))
-  </p>
-</blockquote>
+> ((إلهي بِكَ عَرَفْتُكَ وَاَنْتَ دَلَلْتَني عَلَيْكَ وَدَعَوْتَني
+> اِلَيْكَ، وَلَوْلا اَنْتَ لَمْ اَدْرِ ما اَنْتَ))
 
 **(Dua al-Abu-Hamza Ath-Thumali)**
 
-<blockquote dir="rtl">
-  <p>
-((يا مَن دَلَّ على ذاته بذاته))
-  </p>
-</blockquote>
+> ((يا مَن دَلَّ على ذاته بذاته))
 
 **(Dua al-Saba.)**[^19]
 
@@ -1112,96 +936,56 @@ teaching some matter the word of “Tazakkur” is not used in Arabic
 language. Rather “Tazakkur” is used in the case of reminding something
 which was previously existing.
 
-<blockquote dir="rtl">
-  <p>
-((فيقال أذكرتُه و ذكرتُه ماكان فتذكر))
-  </p>
-</blockquote>
+> ((فيقال أذكرتُه و ذكرتُه ماكان فتذكر))
 
 **(Faiyumi: Al-Mesbah Ul Munir; pg. 209)**
 
-<blockquote dir="rtl">
-  <p>
-((و الذِكر و الذِكرى بالكسر، خلاف النسيان))
-  </p>
-</blockquote>
+> ((و الذِكر و الذِكرى بالكسر، خلاف النسيان))
 
 **(Jauhari: As-Sahih; vol. 2; pg. 665)**
 
-<blockquote dir="rtl">
-  <p>
-((ذكرت الشيء، خلاف نسيته، ثم حمل عليه الذكر باللسان و يقولون إجعله منك
-على ذُكر بضم الذال، أي لا تنسه))
-  </p>
-</blockquote>
+> ((ذكرت الشيء، خلاف نسيته، ثم حمل عليه الذكر باللسان و يقولون إجعله منك
+> على ذُكر بضم الذال، أي لا تنسه))
 
 **(Fars bin zakaria - Muajam Maqayes ul Lughat; vol. 2; pg. 358)**[^20]
 
 Now we mention here some verses and traditions about ‘Tazakkur’.
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ
-  </p>
-</blockquote>
+> فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ
 
 ***“Therefore do remind, for you are only a reminder” (Holy Qur’an: 88:
 21)***
 
-<blockquote dir="rtl">
-  <p>
-فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ. سَيَذَّكَّرُ مَن يَخْشَىٰ.
-  </p>
-</blockquote>
+> فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ. سَيَذَّكَّرُ مَن يَخْشَىٰ.
 
 ***“Therefore do remind, surely reminding does profit” (Holy Qur’an: 87:
 9 & 10)***
 
-<blockquote dir="rtl">
-  <p>
-مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ. إِلَّا تَذْكِرَةً
-لِّمَن يَخْشَىٰ.
-  </p>
-</blockquote>
+> مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ. إِلَّا تَذْكِرَةً
+> لِّمَن يَخْشَىٰ.
 
 ***“We have not revealed the Qur’an to you that you may be unsuccessful.
 Nay, it is a reminder to him who fears.” (Holy Qur’an: 20: 2 & 3)***
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُّبِينٌ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُّبِينٌ
 
 ***“It is nothing but a reminder and a plain Qur’an” (Holy Qur’an: 36:
 69)***
 
-<blockquote dir="rtl">
-  <p>
-إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ
 
 ***“It is nothing but a reminder to the nations.” (Holy Qur’an: 38:
 87)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
-  </p>
-</blockquote>
+> وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
 ***“…And this is naught but a reminder to the morals.” (Holy Qur’an: 74:
 31)***
 
 With regard to the duties of a Prophet, Ali (‘a) says:
 
-<blockquote dir="rtl">
-  <p>
-(( فبعث فيهم رُسُله و واتر اليهم انبيائه ليستأدوهم ميثاق فطرته و
-يذكروهم منسئ نعمته))
-  </p>
-</blockquote>
+> (( فبعث فيهم رُسُله و واتر اليهم انبيائه ليستأدوهم ميثاق فطرته و
+> يذكروهم منسئ نعمته))
 
 **(Nahjul Balagha 1st sermon)**
 
@@ -1221,13 +1005,9 @@ Islam (S), Ali (‘a) mentions the fact that Holy Prophet use to warn the
 people of the pledge and covenant of ‘Alam al-Zar’ (World of
 pre-existence):
 
-<blockquote dir="rtl">
-  <p>
-((فضَّل محمداً (صلَّى الله عليه و آله) في ظاهر الفترات، فدعا الناس
-ظاهراً و باطناً و ندبهم سراً و اعلاناً و استدعى (عليه السلام) التنبيه
-على العهد الذي قدمه الى الذر قبل النسل))
-  </p>
-</blockquote>
+> ((فضَّل محمداً (صلَّى الله عليه و آله) في ظاهر الفترات، فدعا الناس
+> ظاهراً و باطناً و ندبهم سراً و اعلاناً و استدعى (عليه السلام) التنبيه
+> على العهد الذي قدمه الى الذر قبل النسل))
 
  **(Murooj az-Zahab. Daarul** ***Ma’rifat*****; vol. 1; pg. 33)**
 
@@ -1239,43 +1019,27 @@ explain that the ofersaid matter is because of reminding the
 human-beings and play the role of admonishers and not proving a vague
 and unknown matter, as was described by Ayats in point No. 6.
 
-<blockquote dir="rtl">
-  <p>
-قُل لِّمَنِ الْأَرْضُ وَمَن فِيهَا إِن كُنتُمْ تَعْلَمُونَ.
-سَيَقُولُونَ لِلَّـهِ قُلْ أَفَلَا تَذَكَّرُونَ.
-  </p>
-</blockquote>
+> قُل لِّمَنِ الْأَرْضُ وَمَن فِيهَا إِن كُنتُمْ تَعْلَمُونَ.
+> سَيَقُولُونَ لِلَّـهِ قُلْ أَفَلَا تَذَكَّرُونَ.
 
 ***“Say: Whose is the earth, and whoever is therein, if you know? They
 will say: Allah, Say: Will you not then mind?” (Holy Qur’an: 23:
 84-85)***
 
-<blockquote dir="rtl">
-  <p>
-وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ
-أَن يَذَّكَّرَ
-  </p>
-</blockquote>
+> وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ
+> أَن يَذَّكَّرَ
 
 ***“And He it is who made the night and the day to follow each other for
 him who desires to be mindful.” (Holy Qur’an: 25: 62)***
 
-<blockquote dir="rtl">
-  <p>
-وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-  </p>
-</blockquote>
+> وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 ***“…And makes clear His communications to men, that they may be
 mindful.” (Holy Qur’an: 2: 221)***
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ. وَالْأَرْضَ
-فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ. وَمِن كُلِّ شَيْءٍ خَلَقْنَا
-زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ.
-  </p>
-</blockquote>
+> وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ. وَالْأَرْضَ
+> فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ. وَمِن كُلِّ شَيْءٍ خَلَقْنَا
+> زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ.
 
 ***“And the heaven, We raised it high with power, and most surely we are
 the makers of things ample. And the earth, We have made it a wide
@@ -1284,38 +1048,22 @@ created pairs that you may be mindful.” (Holy Qur’an: 51: 47-49)***
 
 It has come in Nahjul Balaghah that:
 
-<blockquote dir="rtl">
-  <p>
-((الحمدلله المتجلّي لخلقه بخلقه))
-  </p>
-</blockquote>
+> ((الحمدلله المتجلّي لخلقه بخلقه))
 
 **(Nahjul Balaghah - Subhi Saleh Sermon; No. 108; pg. 155)**
 
 All praise is to God who through His creatures has become manifested
 upon them.
 
-<blockquote dir="rtl">
-  <p>
-((بها (الآلآت و الأدوات) تجلَّى صانِعُها لِلْعقول))
-  </p>
-</blockquote>
+> ((بها (الآلآت و الأدوات) تجلَّى صانِعُها لِلْعقول))
 
 **(Same source, sermon 186; pg. 273)**
 
-<blockquote dir="rtl">
-  <p>
-((لم تُحِطْ به الاوهامُ بل تجلى لها بها (مرائى)))
-  </p>
-</blockquote>
+> ((لم تُحِطْ به الاوهامُ بل تجلى لها بها (مرائى)))
 
 **(Same source, sermon 185; pg. 269)**
 
-<blockquote dir="rtl">
-  <p>
-((الظاهر بعجائب تدبيره للناظرين))
-  </p>
-</blockquote>
+> ((الظاهر بعجائب تدبيره للناظرين))
 
 **(Same source, sermon 213; pg. 329)**
 
@@ -1335,13 +1083,9 @@ coming out from the condition of helplessness, man becomes free once
 more to either continue his heedfulness and submission to God or start
 disbelieving in Him which usually he selects the second one.
 
-<blockquote dir="rtl">
-  <p>
-إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ. ثُمَّ إِذَا كَشَفَ
-الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ.
-لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ.
-  </p>
-</blockquote>
+> إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ. ثُمَّ إِذَا كَشَفَ
+> الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ.
+> لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ.
 
 ***“Then when evil afflicts you, to Him do you cry for aid. Yet when He
 removes the evil from you, lo! A party of you associates others with
@@ -1349,25 +1093,17 @@ their lord. So that they may be ungrateful for what We have given them;
 then enjoy yourselves; for soon will you know.”*** ***(Holy Qur’an: 16:
 53-55)***
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّـهَ مُخْلِصِينَ لَهُ
-الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
-  </p>
-</blockquote>
+> فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّـهَ مُخْلِصِينَ لَهُ
+> الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
 
 ***“So when they ride in the ships they call upon Allah, being sincerely
 obedient to Him, but when He brings them safe to the land, lo! They
 associate others (with Him).” (Holy Qur’an: 29: 65)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّـهِ أَوْ أَتَتْكُمُ
-السَّاعَةُ أَغَيْرَ اللَّـهِ تَدْعُونَ إِن كُنتُمْ صَادِقِينَ. بَلْ
-إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَاءَ
-وَتَنسَوْنَ مَا تُشْرِكُونَ.
-  </p>
-</blockquote>
+> قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّـهِ أَوْ أَتَتْكُمُ
+> السَّاعَةُ أَغَيْرَ اللَّـهِ تَدْعُونَ إِن كُنتُمْ صَادِقِينَ. بَلْ
+> إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَاءَ
+> وَتَنسَوْنَ مَا تُشْرِكُونَ.
 
 ***“Say, "Have you considered: if there came to you the punishment of
 Allah or there came to you the Hour - is it other than Allah you would
@@ -1376,26 +1112,18 @@ invoke, and He would remove that for which you invoked Him if He willed,
 and you would forget what you associate [with Him].” (Holy Qur’an: 6:
 40-41)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّا
-إِيَّاهُ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ وَكَانَ
-الْإِنسَانُ كَفُورًا
-  </p>
-</blockquote>
+> وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّا
+> إِيَّاهُ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ وَكَانَ
+> الْإِنسَانُ كَفُورًا
 
 ***“And when adversity touches you at sea, lost are [all] those you
 invoke except for Him. But when He delivers you to the land, you turn
 away [from Him]. And ever is man ungrateful.” (Holy Qur’an: 17: 67)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ ثُمَّ
-إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِن
-قَبْلُ وَجَعَلَ لِلَّـهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِ قُلْ
-تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَابِ النَّارِ 
-  </p>
-</blockquote>
+> وَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ ثُمَّ
+> إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِن
+> قَبْلُ وَجَعَلَ لِلَّـهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِ قُلْ
+> تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَابِ النَّارِ
 
 ***“And when adversity touches man, he calls upon his Lord, turning to
 Him [alone]; then when He bestows on him a favor from Himself, he
@@ -1404,32 +1132,24 @@ equals to mislead [people] from His way. Say, "Enjoy your disbelief for
 a little; indeed, you are of the companions of the Fire.”" (Holy Qur’an:
 39: 8)***
 
-<blockquote dir="rtl">
-  <p>
- أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
-وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ أَإِلَـٰهٌ مَّعَ اللَّـهِ قَلِيلًا
-مَّا تَذَكَّرُونَ
-  </p>
-</blockquote>
+>  أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ
+> وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ أَإِلَـٰهٌ مَّعَ اللَّـهِ قَلِيلًا
+> مَّا تَذَكَّرُونَ
 
 ***“ Is He [not best] who responds to the desperate one when he calls
 upon Him and removes evil and makes you inheritors of the earth? Is
 there a deity with Allah? Little do you remember.” (Holy Qur’an: 27:
 62)***
 
-<blockquote dir="rtl">
-  <p>
-((الله هو الذي يتألَهُ إليه عند الحوائج و الشدائد كل مخلوق عند إنقطاع
-الرجاء من كل من هو دونه و تقطُّع الاسباب من جميع ما سواه... الى أن
-قال: و هو ما قال رجل للصادق (عليه السلام) يا ابن رسول الله دلَّني على
-الله ما هو؟ فقد أكثر علي المجادلون و حيروني، فقال له يا عبدالله هل
-ركبت سفينة قطّ؟ قال نعم. قال: فهل كسر بك حيث لا سفينة تنجيك ولا سباحة
-تغنيك؟ قال: نعم. قال: فهل تعلَّق قلبك هنالك أنّ شيئا من الاشياء قادر
-على أن يخلِّصك من ورطتك؟ فقال: نعم، قال الصادق (عليه السلام) فذلك
-الشيء هو الله القادر على الإنجاء حيث لا مُنجي وعلى الإغائة حيث لا
-مُغيث...))
-  </p>
-</blockquote>
+> ((الله هو الذي يتألَهُ إليه عند الحوائج و الشدائد كل مخلوق عند إنقطاع
+> الرجاء من كل من هو دونه و تقطُّع الاسباب من جميع ما سواه... الى أن
+> قال: و هو ما قال رجل للصادق (عليه السلام) يا ابن رسول الله دلَّني على
+> الله ما هو؟ فقد أكثر علي المجادلون و حيروني، فقال له يا عبدالله هل
+> ركبت سفينة قطّ؟ قال نعم. قال: فهل كسر بك حيث لا سفينة تنجيك ولا سباحة
+> تغنيك؟ قال: نعم. قال: فهل تعلَّق قلبك هنالك أنّ شيئا من الاشياء قادر
+> على أن يخلِّصك من ورطتك؟ فقال: نعم، قال الصادق (عليه السلام) فذلك
+> الشيء هو الله القادر على الإنجاء حيث لا مُنجي وعلى الإغائة حيث لا
+> مُغيث...))
 
 **(Tauheed of Sadooq; pg. 231)**[^21]
 
@@ -1461,20 +1181,12 @@ of man to be submission before the divine guidance i.e. after the
 obligatory upon him to submit himself before God. Thus the religion of
 God is Islam and Islam means submission before God.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ
-  </p>
-</blockquote>
+> إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ
 
 ***“Surely the (true) religion with Allah is Islam” (Holy Qur’an: 3:
 19)***
 
-<blockquote dir="rtl">
-  <p>
-((الاسلام هو التسليم))
-  </p>
-</blockquote>
+> ((الاسلام هو التسليم))
 
  **(*****Bihar al-Anwar*****; vol. 68; pg. 309; Traditions l, 2, 3, &
 4)**
@@ -1488,61 +1200,37 @@ one’s self on the path of guidance, man plays a decisive role. In
 reality, guidance is related to both the sides - One is the guidance of
 God and the other is the submission of man.
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
-  </p>
-</blockquote>
+> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 
 ***“We have shown (man) the path, either he be grateful or ungrateful”
 (Holy Qur’an: 76: 3)***
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ
-الْعَالَمِينَ
-  </p>
-</blockquote>
+> إِنَّ هُدَى اللَّـهِ هُوَ الْهُدَىٰ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ
+> الْعَالَمِينَ
 
 ***“Surely the guidance of Allah, that is the (true) guidance, and we
 are commanded that we should submit to the Lord of the worlds.” (Holy
 Qur’an: 6: 71)***
 
-<blockquote dir="rtl">
-  <p>
-فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا  وَّإِن تَوَلَّوْا فَإِنَّمَا
-عَلَيْكَ الْبَلَاغُ  وَاللَّـهُ بَصِيرٌ بِالْعِبَادِ 
-  </p>
-</blockquote>
+> فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا  وَّإِن تَوَلَّوْا فَإِنَّمَا
+> عَلَيْكَ الْبَلَاغُ  وَاللَّـهُ بَصِيرٌ بِالْعِبَادِ
 
 ***“So if they submit then indeed they follow the right way; and if they
 turn back, then upon you is only the delivery of the message.” (Holy
 Qur’an: 3: 20)***
 
-<blockquote dir="rtl">
-  <p>
-كَلَّا إِنَّهُ تَذْكِرَةٌ. فَمَن شَاءَ ذَكَرَهُ.
-  </p>
-</blockquote>
+> كَلَّا إِنَّهُ تَذْكِرَةٌ. فَمَن شَاءَ ذَكَرَهُ.
 
 ***“Nay! It is surely an admonition. So whoever pleases may mind it.”
 (Holy Qur’an: 74: 54, 55)***
 
-<blockquote dir="rtl">
-  <p>
-((عن ابي عبدالله (عليه السلام) الى ان قال: والله على الخلق اذا عرفهم
-ان يقبلوا))
-  </p>
-</blockquote>
+> ((عن ابي عبدالله (عليه السلام) الى ان قال: والله على الخلق اذا عرفهم
+> ان يقبلوا))
 
  **(*****Usul al-Kafi*****; vol. 1; pg. 164)**
 
-<blockquote dir="rtl">
-  <p>
-((قال الصادق (عليه السلام) الى ان قال: عرفناه إمّا آخذا و إمّا
-تاركاً))
-  </p>
-</blockquote>
+> ((قال الصادق (عليه السلام) الى ان قال: عرفناه إمّا آخذا و إمّا
+> تاركاً))
 
  **(*****Bihar al-Anwar*****; vol. 5; pg. 196)**
 
@@ -1564,61 +1252,37 @@ philosophical proofs a person has become an unbeliever and no where it
 is mentioned that a person with a good mind who has the power of
 perceiving philosophical proofs has turned towards religion and Islam.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا
-إِلَّا الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا
+> إِلَّا الْفَاسِقُونَ
 
 ***“And certainly We have revealed to you clear communications and none
 disbelieve in them except the transgressor.” (Holy Qur’an: 2: 99)***
 
-<blockquote dir="rtl">
-  <p>
-وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ
-  </p>
-</blockquote>
+> وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ
 
 ***“…And none deny Our communications except the unjust.” (Holy Qur’an:
 29: 49)***
 
-<blockquote dir="rtl">
-  <p>
-بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ أَن يَكْفُرُوا بِمَا أَنزَلَ
-اللَّـهُ
-  </p>
-</blockquote>
+> بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ أَن يَكْفُرُوا بِمَا أَنزَلَ
+> اللَّـهُ
 
 ***“Evil is that for which they have sold their soul that they should
 deny what Allah has reveal.” (Holy Qur’an: 2: 90)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّـهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> وَاللَّـهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
 
 ***“And Allah does not guide the transgressing people.” (Holy Qur’an:
 61: 5)***
 
-<blockquote dir="rtl">
-  <p>
-وَاللَّـهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
-  </p>
-</blockquote>
+> وَاللَّـهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 ***“And Allah does not guide the unjust people” (Holy Qur’an: 61: 7)***
 
-<blockquote dir="rtl">
-  <p>
-قُلْ مَن رَّبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ.
-سَيَقُولُونَ لِلَّـهِ قُلْ أَفَلَا تَتَّقُونَ. قُلْ مَن بِيَدِهِ
-مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن
-كُنتُمْ تَعْلَمُونَ. سَيَقُولُونَ لِلَّـهِ قُلْ فَأَنَّىٰ تُسْحَرُونَ.
-بَلْ أَتَيْنَاهُم بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونَ.
-  </p>
-</blockquote>
+> قُلْ مَن رَّبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ.
+> سَيَقُولُونَ لِلَّـهِ قُلْ أَفَلَا تَتَّقُونَ. قُلْ مَن بِيَدِهِ
+> مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن
+> كُنتُمْ تَعْلَمُونَ. سَيَقُولُونَ لِلَّـهِ قُلْ فَأَنَّىٰ تُسْحَرُونَ.
+> بَلْ أَتَيْنَاهُم بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونَ.
 
 ***“Say: Who is the Lord of the seven heavens and the Lord of the mighty
 dominion?***
@@ -1634,36 +1298,24 @@ deceived?***
 ***Nay! We have brought to them the truth, and most surely they are
 liars.” (Holy Qur’an: 23: 86-90)***
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا بِاللَّـهِ وَرُسُلِهِ أُولَـٰئِكَ هُمُ
-الصِّدِّيقُونَ وَالشُّهَدَاءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ
-وَنُورُهُمْ
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا بِاللَّـهِ وَرُسُلِهِ أُولَـٰئِكَ هُمُ
+> الصِّدِّيقُونَ وَالشُّهَدَاءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ
+> وَنُورُهُمْ
 
 ***“And (as for) those who believe in Allah and His apostles, these it
 is that are the truthful and the faithful ones in the sight of their
 Lord: they shall have their reward and their light.” (Holy Qur’an: 57:
 19)***
 
-<blockquote dir="rtl">
-  <p>
-مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ. إِلَّا تَذْكِرَةً
-لِّمَن يَخْشَىٰ.
-  </p>
-</blockquote>
+> مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ. إِلَّا تَذْكِرَةً
+> لِّمَن يَخْشَىٰ.
 
 ***“We have not revealed the Qur’an to you that you may be successful.
 Nay, it is a reminder to him who fears.” (Holy Qur’an: 20: 2,3)***
 
-<blockquote dir="rtl">
-  <p>
-قال الصادق (عليه السلام) في قوله عزّ و جل: إنا هديناه السبيل إمَّا
-شاكراً و إمّا كفوراً. قال: عرفناه إما آخذاً و إما تاركاً. و في قوله عز
-وجل: واما ثمود فهديناهم فاستحبوا العمى على الهدى، قال: وهم يعرفون))
-  </p>
-</blockquote>
+> قال الصادق (عليه السلام) في قوله عزّ و جل: إنا هديناه السبيل إمَّا
+> شاكراً و إمّا كفوراً. قال: عرفناه إما آخذاً و إما تاركاً. و في قوله عز
+> وجل: واما ثمود فهديناهم فاستحبوا العمى على الهدى، قال: وهم يعرفون))
 
  **(*****Bihar al-Anwar*****: vol. 5; pg. 196)**
 
@@ -1765,5 +1417,4 @@ towards it but is neglected and forgotten. (Origin of Ma’ad pg. 75)
 tafseer of ‘Bismillah Ar-rahman Ar-Rahim’ in the various Tafseers
 (traditional) books like tafseer of Burhan under Sura Hamd tradition No.
 8 and 12.
-
 

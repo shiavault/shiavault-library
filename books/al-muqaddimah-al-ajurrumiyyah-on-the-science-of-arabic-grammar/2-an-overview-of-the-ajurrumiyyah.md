@@ -67,4 +67,3 @@ the Tābi‘ of the Manṣūb, or
 Makhfūḍ when it occurs in one of the following places: Makhfūḍ bil-Ḥarf,
 Makhfūḍ bil-Iḍāfah and the Tābi‘ of the Makhfūḍ.
 
-

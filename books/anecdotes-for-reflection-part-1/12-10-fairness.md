@@ -3,21 +3,13 @@
 
 Allah, the Wise, has said:
 
-<blockquote dir="rtl">
-  <p>
-كُونُوا قَوَّامِينَ لِله شُهَداَءَ بِالْقِسطِ
-  </p>
-</blockquote>
+> كُونُوا قَوَّامِينَ لِله شُهَداَءَ بِالْقِسطِ
 
 *(Be upright for Allah, bearers of witness with justice.)*[^1]
 
 Imam Ali (a.s.) has said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ يُنْصِفُ مِنْ نَفْسِهِ لَمْ يَزِدهُ اللهُ إلاَّ عِزًّا
-  </p>
-</blockquote>
+> مَنْ يُنْصِفُ مِنْ نَفْسِهِ لَمْ يَزِدهُ اللهُ إلاَّ عِزًّا
 
 *(One, who exhibits fairness on his part, Allah shall increase him in
 glory.)*[^2]
@@ -158,5 +150,4 @@ stranger, away from home, and enter Paradise alone.”[^7]
 [^6]: Located three hundred miles north of Medinah.
 
 [^7]: Paighambar Wa Yaaraan, vol. 1, pg. 49; Al-Isaabah, vol. 4, pg. 65
-
 

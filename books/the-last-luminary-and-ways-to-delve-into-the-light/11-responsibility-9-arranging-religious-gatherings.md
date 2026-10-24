@@ -9,13 +9,9 @@ perform this act.
 
 Imam Ja’far b. Muhammad as-Sadiq (as) said to Fudhail:
 
-<blockquote dir="rtl">
-  <p>
-تَجْلِسُونَ وَ تُحَدِّثُونَ؟ قَالَ: نَعَمْ جُعِلْتُ فِدَاكَ قَالَ:
-إِنَّ تِلْكَ الْمَجَالِسَ أُحِبُّهَا فَأَحْـيُـوا أَمْرَنَا يَا
-فُضَيلُ فَرَحِمَ اللٌّهُ مَنْ أَحْـيَا أَمْرَنَا
-  </p>
-</blockquote>
+> تَجْلِسُونَ وَ تُحَدِّثُونَ؟ قَالَ: نَعَمْ جُعِلْتُ فِدَاكَ قَالَ:
+> إِنَّ تِلْكَ الْمَجَالِسَ أُحِبُّهَا فَأَحْـيُـوا أَمْرَنَا يَا
+> فُضَيلُ فَرَحِمَ اللٌّهُ مَنْ أَحْـيَا أَمْرَنَا
 
 “Do you gather and discuss (about us the Ahlul Bayt)?” Fudhail said:
 “Yes, may I be sacrificed for you!” The Imam said: “Verily I love such
@@ -33,5 +29,4 @@ astray, then in order to save the faith and protect the souls of the
 people, it will become obligatory to hold such gatherings.
 
 [^1]: Biharul Anwar, vol. 44, pg. 282, sec. 34, no. 14
-
 

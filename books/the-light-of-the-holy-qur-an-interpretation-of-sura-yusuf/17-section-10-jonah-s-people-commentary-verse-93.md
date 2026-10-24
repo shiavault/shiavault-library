@@ -44,7 +44,6 @@ future. The verse continues saying:
 " Verily your Lord will judge between them on the Day of Judgment
 concerning that in which they used to differ. "
 
-
 **Commentary : Verse 94**
 
 (94) فَإِنْ كُنْتَ في‏ شَكٍّ مِمَّا أَنْزَلْنا إِلَيْكَ فَسْئَلِ
@@ -116,7 +115,6 @@ saying:
 "... The Truth hath indeed come to you from your Lord, so be not of the
 doubters. "
 
-
 **Commentary : Verse 95**
 
 (95) وَ لا تَكُونَنَّ مِنَ الَّذينَ كَذَّبُوا بِآياتِ اللَّهِ فَتَكُونَ
@@ -182,5 +180,4 @@ The verse says:
 
 " Even if every Sign come unto them, until they see the painful
 chastisement. "
-
 

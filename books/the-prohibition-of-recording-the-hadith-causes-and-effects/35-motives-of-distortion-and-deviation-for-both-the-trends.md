@@ -954,4 +954,3 @@ Muhammad ibn Ishaq.
 [^31]: A version of this epistle is found in Ayasofya, Istanbul, Turkey,
 under the number 2953.
 
-

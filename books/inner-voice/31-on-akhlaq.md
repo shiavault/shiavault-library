@@ -34,4 +34,3 @@ codes on a wrong foundation. We have tried to build our moral behavior
 sacrifice). The only way to emancipate mankind from moral bankruptcy is
 to restore our faith in Allah, and believe in the life hereafter.
 
-

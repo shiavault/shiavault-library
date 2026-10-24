@@ -882,4 +882,3 @@ East,” Popular Astronomy, May 1939, pp. 233-38.
 Given to Some Natural Features of the Moon,” Islamic Culture, Vol.
 XXVII, No. 2, April 1953, pp. 78-85.
 
-

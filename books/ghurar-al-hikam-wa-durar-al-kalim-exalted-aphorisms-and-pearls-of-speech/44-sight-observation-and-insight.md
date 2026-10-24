@@ -20,22 +20,14 @@ lust. Whenever any of you sees a woman whom he finds attractive, he
 should go to his wife, because she [too] is a woman like her.
 
 > 3ـ إنَّ أبصارَ هذِهِ الفُحُولِ طوامِحُ، وهُوَ سَبَبُ هَبابِها، فإذا
-<blockquote dir="rtl">
-  <p>
-نَظَرَ أحَدُكُمْ إلَى امْرَأة فَأعْجَبَتْهُ، فَلْيَمُسَّ أهْلَهُ.
-فَإنَّما هيَ امْرأةٌ بِامْرَأة.
-  </p>
-</blockquote>
+> نَظَرَ أحَدُكُمْ إلَى امْرَأة فَأعْجَبَتْهُ، فَلْيَمُسَّ أهْلَهُ.
+> فَإنَّما هيَ امْرأةٌ بِامْرَأة.
 
 4. Indeed the perceptive person is one who listens and then ponders,
 sees then reflects, and derives benefit from examples.
 
 > 4ـ إنَّما البَصيرُ مَنْ سَمِعَ فَفَكَّرَ، ونظَرَ فَأبْصَرَ، وانْتَفَعَ
-<blockquote dir="rtl">
-  <p>
-بِالعِبرِ.
-  </p>
-</blockquote>
+> بِالعِبرِ.
 
 5. It is through observation [and reflection] that lessons are learned.
 
@@ -70,21 +62,13 @@ temptation.
 if you seek guidance.
 
 > 12ـ لَقَدْ بُصِّرْتُمْ إنْ أبْصَرْتُمْ، واُسْمِعْتُمْ إنْ سَمِعْتُمْ،
-<blockquote dir="rtl">
-  <p>
-وهُديتُمْ إنِاهتَدَيْتُمْ.
-  </p>
-</blockquote>
+> وهُديتُمْ إنِاهتَدَيْتُمْ.
 
 13. Whoever reflects with astuteness, wisdom gets established for him
 and he understands the lesson [of the past].
 
 > 13ـ مَنْ تَبَصَّـرَ فيِ الفِطْنَةِ ثَبَتَتْ لَهُ الحِكْمَةُ وعَرِفَ
-<blockquote dir="rtl">
-  <p>
-العِبْرَةَ.
-  </p>
-</blockquote>
+> العِبْرَةَ.
 
 14. Eyesight is of no benefit if insight is blinded.
 
@@ -127,10 +111,5 @@ forbidden].
 possessor.
 
 > 23ـ لَيْسَ الرُّؤْيَةُ مَعَ الأبْصارِ، قَدْ تَكْذِبُ الأبْصارُ
-<blockquote dir="rtl">
-  <p>
-أهْلَها.
-  </p>
-</blockquote>
-
+> أهْلَها.
 

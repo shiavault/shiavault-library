@@ -26,5 +26,3 @@ time. Rather it denotes the fact that all the Prayers have been
 performed at their respective earliest hours, which every person
 performs according to his time zone.
 
-
-

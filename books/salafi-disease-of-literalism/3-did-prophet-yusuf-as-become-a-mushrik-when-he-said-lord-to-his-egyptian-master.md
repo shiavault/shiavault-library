@@ -6,11 +6,9 @@ expressions, then we challenge them to answer this question that why
 Prophet Yusuf (as) used the word "Rabi" (lord) for his Egyptian
 Master:
 
-<p dir="rtl">
 وَرَاوَدَت'هُ الَّتِي هُوَ فِي بَي'تِهَا عَن نَّف'سِهِ وَغَلَّقَتِ
 الأَب'وَابَ وَقَالَت' هَي'تَ لَكَ قَالَ مَعَاذَ اللّهِ إِنَّهُ رَبِّي
 أَح'سَنَ مَث'وَايَ إِنَّهُ لاَ يُف'لِحُ الظَّالِمُونَ
-</p>
 
 [Yusufali 12:23] But she in whose house he was, sought to seduce him
 from his (true) self: she fastened the doors, and said: "Now come, thou
@@ -48,20 +46,16 @@ Maudoodi suggested.
 
 Let us see the 2 preceding verses before verse 12:23.
 
-<p dir="rtl">
 وَقَالَ الَّذِي اش'تَرَاهُ مِن مِّص'رَ لاِم'رَأَتِهِ أَك'رِمِي
 مَث'وَاهُ عَسَى أَن يَنفَعَنَا
-</p>
 
 [Yusufali 12:21] The man in Egypt who bought him, said to his wife:
 "Make his stay (among us) ????????? honourable: may be he will bring us
 much good, or we shall adopt him as a son
 
-<p dir="rtl">
 وَرَاوَدَت'هُ الَّتِي هُوَ فِي بَي'تِهَا عَن نَّف'سِهِ وَغَلَّقَتِ
 الأَب'وَابَ وَقَالَت' هَي'تَ لَكَ قَالَ مَعَاذَ اللّهِ إِنَّهُ رَبِّي
 أَح'سَنَ مَث'وَايَ إِنَّهُ لاَ يُف'لِحُ الظَّالِمُونَ
-</p>
 
 [Yusufali 12:23] But she in whose house he was, sought to seduce him
 from his (true) self: she fastened the doors, and said: "Now come, thou
@@ -90,5 +84,4 @@ this Barakah, even it is against though their doctrine. But Maulana
 Maudoodi in his "Tafheem" tried his best to change the meaning of verse
 and refused to accept any Barakah in it (in next chapter we will discuss
 on this verse [20:96] in detail Insha-Allah.
-
 

@@ -287,4 +287,3 @@ said was her duty that she performed. Allah also preserved her speech
 and it was not eliminated like many other religious documents. We should
 be thankful to the Almighty Allah for this blessing.
 
-

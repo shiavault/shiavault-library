@@ -123,4 +123,3 @@ A’amash continues, that Imam Ja’far as Sadiq (a.s.) told me that,
 *“These are from among the concealed and mystic knowledge, then do not
 reveal them to anyone, except those worthy of it”.*
 
-

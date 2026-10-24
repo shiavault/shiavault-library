@@ -28,9 +28,7 @@ German Neo-Kantian and Socialist, wrote Geschichte des Materialismus
 und Kritik seiner Bedeutung in der Gegenwart [1866; History of
 Materialism] in which he refuted materialism.
 
-
 **4.10.6 Wilhelm Wundt [1832 1920]**
-
 
 Knowledge flows from the facts of consciousness
 
@@ -69,7 +67,6 @@ humankind is essentially characterized by a unique ability to use the
 "symbolic forms" of myth, language, and science in structuring or
 imaging experience and in understanding.
 
-
 **4.11 MODERN PHILOSOPHY: FRENCH AND BRITISH NINETEENTH CENTURY
 PHILOSOPHY**
 
@@ -94,5 +91,4 @@ laws which are facts and relations which are positive knowledge
 According to Comte: The theological precedes the metaphysical which
 precedes the positive which is real, useful [origins: utilitarianism],
 exact [not mere negative, that is, criticism]
-
 

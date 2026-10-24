@@ -279,4 +279,3 @@ his burial, laying him to rest in his personal apartment. Now high
 stands his mausoleum which is being visited daily tens of thousands of
 pilgrims from all over the world.
 
-

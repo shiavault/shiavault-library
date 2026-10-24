@@ -93,4 +93,3 @@ cooked food to serve the needy in their houses.
 The recipients of these benefits came to know who their beneficence was
 only after the martyrdom of the Imam (A.S).
 
-

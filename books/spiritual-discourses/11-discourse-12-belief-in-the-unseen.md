@@ -183,4 +183,3 @@ I pray to God to grant us faith to wait for the Iman who is our savior,
 and faith in the rightfulness of the Prophet's household and make us
 familiar with the truths of the holy religion of Islam.
 
-

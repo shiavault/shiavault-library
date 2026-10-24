@@ -37,12 +37,8 @@ subtlety saying:
 
  
 
-<blockquote dir="rtl">
-  <p>
-چه بگوييم در مقابل اين نعمت بزرگ الهی که ملتها را دعوت کرده است به
-ضيافه الله ضيافه الله با همه اسماء...
-  </p>
-</blockquote>
+> چه بگوييم در مقابل اين نعمت بزرگ الهی که ملتها را دعوت کرده است به
+> ضيافه الله ضيافه الله با همه اسماء...
 
 “How can we express our gratitude in return for this great Divine
 Blessing, for the nations have been called to be the guests of Allāh
@@ -55,12 +51,8 @@ adopting the Divine Color in the language of the Holy Qur’ān.  The Holy
 Qur’ān says:  
   
 
-<blockquote dir="rtl">
-  <p>
-صِبْغَةَ اللٌّهِ وَمَنْ أَحْسَنُ مِنَ اللٌّهِ صِبْغَةً وَنَحْنُ لَهُ
-عَابِدُونَ
-  </p>
-</blockquote>
+> صِبْغَةَ اللٌّهِ وَمَنْ أَحْسَنُ مِنَ اللٌّهِ صِبْغَةً وَنَحْنُ لَهُ
+> عَابِدُونَ
 
 “***Allāh’s Color; and whose color is more pleasant than Allāh’s; and He
 alone do we worship***.[^6]”
@@ -68,11 +60,7 @@ alone do we worship***.[^6]”
 And the Holy Prophet (s) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-تَخَلَّقُوا بِأَخْلاَقِ اللٌّهِ.
-  </p>
-</blockquote>
+> تَخَلَّقُوا بِأَخْلاَقِ اللٌّهِ.
 
 “Adopt the etiquette of Allāh.[^7]”
 
@@ -86,14 +74,10 @@ say, ‘there is no mention of Paradisal men or women in it.’ Observe the
 following verses of this radiant supplication:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مِنْ بَهَائِكَ بِأَبْهَاهُ وَكُلُّ
-بَهَائِكَ بَهِيٌّ… أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مِنْ عَظَمَتِكَ
-بِأَعْظَمِهَا وَكُلُّ عَظَمَتِكَ عَظِيمَةٌ، أللٌّهُمَّ إِنِّي
-أَسْأَلُكَ بِعَظَمَتِكَ كُلِّهَا…
-  </p>
-</blockquote>
+> أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مِنْ بَهَائِكَ بِأَبْهَاهُ وَكُلُّ
+> بَهَائِكَ بَهِيٌّ… أَللٌّهُمَّ إِنِّي أَسْأَلُكَ مِنْ عَظَمَتِكَ
+> بِأَعْظَمِهَا وَكُلُّ عَظَمَتِكَ عَظِيمَةٌ، أللٌّهُمَّ إِنِّي
+> أَسْأَلُكَ بِعَظَمَتِكَ كُلِّهَا…
 
 “O Allāh I seek from You the kind of Your Brilliance (*bahā’ikā*) which
 is the Most Brilliant, and every Brilliance of Yours is Very Brilliant;
@@ -107,25 +91,17 @@ treatise ‘*Light upon Light*’ while enumerating the requirements of
 observing good manners in front of Almighty Allāh, says:  
   
 
-<blockquote dir="rtl">
-  <p>
-دگر ادب مع اللّه اقتضاء مي‏كند كه از او جز او را نخواهي كه اين عبادت
-احباب و احرار است.  اين امر از بلند همّتى عبد است.  كسانى كه دون
-همّت‏اند به وفق دنائت خود طلب دارند.  يكي از مشايخ ما - رضوان اللّه
-تعالى عليه - ما را ترغيب مي‏فرمود به مثل دعاي سحر حضرت امام محمّد باقر
-عليه السّلام (اللّهمّ انّى أسألك من بهائك بأبهاه وكلّ بهائك بهىّ...)
-كه در آن بهاء و جمال و جلال و عظمت و نور و رحمت و علم و شرف است و حرفى
-از حور و غلمان نيست، اگر بهشت شيرين است، بهشت آفرين شيرين ‏تر است. 
-  </p>
-</blockquote>
+> دگر ادب مع اللّه اقتضاء مي‏كند كه از او جز او را نخواهي كه اين عبادت
+> احباب و احرار است.  اين امر از بلند همّتى عبد است.  كسانى كه دون
+> همّت‏اند به وفق دنائت خود طلب دارند.  يكي از مشايخ ما - رضوان اللّه
+> تعالى عليه - ما را ترغيب مي‏فرمود به مثل دعاي سحر حضرت امام محمّد باقر
+> عليه السّلام (اللّهمّ انّى أسألك من بهائك بأبهاه وكلّ بهائك بهىّ...)
+> كه در آن بهاء و جمال و جلال و عظمت و نور و رحمت و علم و شرف است و حرفى
+> از حور و غلمان نيست، اگر بهشت شيرين است، بهشت آفرين شيرين ‏تر است.
 
  
 
-<blockquote dir="rtl">
-  <p>
-چرا زاهد اندر هواي بهشت است          چرا بيخبر از بهشت آفرين است
-  </p>
-</blockquote>
+> چرا زاهد اندر هواي بهشت است          چرا بيخبر از بهشت آفرين است
 
 “Observing etiquette before Allāh also requires that you do not seek
 other than Him, for that is the worship of the free men (*ahrār*) and
@@ -149,16 +125,12 @@ al-Sharī’ah*, a masterpiece on the secrets of worship attributed to Imām
 al-Sādiq (‘a), saying:  
   
 
-<blockquote dir="rtl">
-  <p>
-لَقَدْ دَعَوْتُ اللٌّهَ فَاسْتَجَابَ لِي، وَنَسِيْتُ الْحَاجَةَ،
-لأَنَّ اسْتِجَابَتَهُ بِإِقْبَالِهِ عَلى عَبْدِهِ عِنْدَ دَعْوَتِهَِ
-أَعْظَمُ وَأَجَلُّ مِمَّا يُرِيدُ مِنْهُ الْعَبْدُ وَلَوْ كَانَتِ
-الْجَنَّةَ وَنَعِيْمَهَا الأَبَدَ، وَلٌكِنْ لاَ يَعْقَلُ ذٌلِكَ إِلاَّ
-الْعَالِمُونَ الْعَابِدُونَ الْمُحِبُّونَ الْعَارِفُونَ، صَفْوَةُ
-اللٌّهِ وَخَوَاصَّهُ. 
-  </p>
-</blockquote>
+> لَقَدْ دَعَوْتُ اللٌّهَ فَاسْتَجَابَ لِي، وَنَسِيْتُ الْحَاجَةَ،
+> لأَنَّ اسْتِجَابَتَهُ بِإِقْبَالِهِ عَلى عَبْدِهِ عِنْدَ دَعْوَتِهَِ
+> أَعْظَمُ وَأَجَلُّ مِمَّا يُرِيدُ مِنْهُ الْعَبْدُ وَلَوْ كَانَتِ
+> الْجَنَّةَ وَنَعِيْمَهَا الأَبَدَ، وَلٌكِنْ لاَ يَعْقَلُ ذٌلِكَ إِلاَّ
+> الْعَالِمُونَ الْعَابِدُونَ الْمُحِبُّونَ الْعَارِفُونَ، صَفْوَةُ
+> اللٌّهِ وَخَوَاصَّهُ.
 
 Imām al-Sādiq (‘a) said: “Indeed I called Allāh and He responded to me,
 and I forgot my wish, for His Response by giving attention to His
@@ -177,11 +149,7 @@ himself all the Divine Attributes.  In other words he is ‘Abd of Allāh. 
 We also bear witness to this during every prayer:  
   
 
-<blockquote dir="rtl">
-  <p>
-أَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
-  </p>
-</blockquote>
+> أَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
 
 “I bear witness that Muhammad is His Obedient Servant and Messenger.”
 
@@ -189,12 +157,8 @@ The Infallible Imāms of the Ahl al-Bayt (‘a) likewise personify the
 Divine Attributes.  Imām ‘Alī (‘a) is reported to have said:  
   
 
-<blockquote dir="rtl">
-  <p>
-...نَحْنُ الأَسْمَآءُ الْحُسْنـى الَّتِي إِذَا سُئِلَ اللٌّهُ تَعَالـى
-بِهَا أَجَابَ...
-  </p>
-</blockquote>
+> ...نَحْنُ الأَسْمَآءُ الْحُسْنـى الَّتِي إِذَا سُئِلَ اللٌّهُ تَعَالـى
+> بِهَا أَجَابَ...
 
 “We (the Ahl al-Bayt) are the Most Beautiful Names of Allāh by which
 when Almighty Allāh is asked, He Responds.[^11]”
@@ -202,12 +166,8 @@ when Almighty Allāh is asked, He Responds.[^11]”
 And it is also reported from Imām al-Bāqir (‘a) that:  
   
 
-<blockquote dir="rtl">
-  <p>
-نَحْنُ الأَسْمَآءُ الْحُسْنـى الَّذِينَ لاََ يَقْبَلُ اللٌّهُ مِنَ
-الْعِبَادِ عَمَلاً إِلاَّ بِمَعْرِفَتِنَا.
-  </p>
-</blockquote>
+> نَحْنُ الأَسْمَآءُ الْحُسْنـى الَّذِينَ لاََ يَقْبَلُ اللٌّهُ مِنَ
+> الْعِبَادِ عَمَلاً إِلاَّ بِمَعْرِفَتِنَا.
 
 “We are the Most Beautiful Names of Allāh, and without knowing us, Allāh
 does not accept any deed of His servants.[^12]”
@@ -215,24 +175,14 @@ does not accept any deed of His servants.[^12]”
 In a sermon which he delivered on the first day of the Holy month of
 Ramadān, Imām ‘Alī (‘a) while addressing the fasting ones said:
 
-<blockquote dir="rtl">
-  <p>
- 
-  </p>
-</blockquote>
-
-<blockquote dir="rtl">
-  <p>
-أَيُّهَا الصَّائِمُ تَدَبَّرْ أَمْرَكَ، فَإِنَّكَ فِي شَهْرِكَ هٌذَا
-ضَيْفُ رَبِّكَ، أُنْظُرْ كَيْفَ تَكُونُ فِي لَيْلِكَ وَنَهَارِكَ،
-وَكَيْفَ تَحْفَظْ جَوَارِحَكَ عَنْ مَعَاصِي رَبِّكَ.  أُنْظُرْ أَنْ
-لاََ تَكُونَ بِاللَّيْلِ نَائِمًا وَبِالنَّهَارِ غَافِلاً، فَيَنْقَضِي
-شَهْرُكَ وَقَدْ بَقِيَ عَلَيْكَ وِزْرُكَ، فَتَكُونَ عِنْدَ
-إِسْتِيفَاءِ الصَّائِمِيْنَ أُجُورَهُمْ مِنَ الْخَاسِرِينَ، وَعِنْدَ
-فَوْزِهِمْ بِكَرَامَةٍ مِنَ الْمَحْرُومِينَ، وَعِنْدَ سَعَادَتِهِمْ
-بِمُجَاوَرَةِ رَبِّهِمْ مِنَ الْمَطْرُودِينَ...
-  </p>
-</blockquote>
+> أَيُّهَا الصَّائِمُ تَدَبَّرْ أَمْرَكَ، فَإِنَّكَ فِي شَهْرِكَ هٌذَا
+> ضَيْفُ رَبِّكَ، أُنْظُرْ كَيْفَ تَكُونُ فِي لَيْلِكَ وَنَهَارِكَ،
+> وَكَيْفَ تَحْفَظْ جَوَارِحَكَ عَنْ مَعَاصِي رَبِّكَ.  أُنْظُرْ أَنْ
+> لاََ تَكُونَ بِاللَّيْلِ نَائِمًا وَبِالنَّهَارِ غَافِلاً، فَيَنْقَضِي
+> شَهْرُكَ وَقَدْ بَقِيَ عَلَيْكَ وِزْرُكَ، فَتَكُونَ عِنْدَ
+> إِسْتِيفَاءِ الصَّائِمِيْنَ أُجُورَهُمْ مِنَ الْخَاسِرِينَ، وَعِنْدَ
+> فَوْزِهِمْ بِكَرَامَةٍ مِنَ الْمَحْرُومِينَ، وَعِنْدَ سَعَادَتِهِمْ
+> بِمُجَاوَرَةِ رَبِّهِمْ مِنَ الْمَطْرُودِينَ...
 
 “…O you who are fasting, reflect on your affair, for surely you are a
 guest of your Lord in this month; observe how your attitude is during
@@ -306,5 +256,4 @@ three[^14]:
 familiar with Arabic/Persian literature can refer to vol. 2 al-Mahajjah
 of al-Kāshānī and Asrār al-Hikam (vol. 2, pg. 568) of Mullā Hādī
 Sabzwārī.
-
 

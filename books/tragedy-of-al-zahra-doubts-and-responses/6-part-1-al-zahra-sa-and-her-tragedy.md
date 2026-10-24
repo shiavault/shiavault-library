@@ -1230,4 +1230,3 @@ traditions quoting the infallible person.
 
 [^23]: Al-Majlisi, Bihar al-Anwar, Vol. 64, p. 200.
 
-

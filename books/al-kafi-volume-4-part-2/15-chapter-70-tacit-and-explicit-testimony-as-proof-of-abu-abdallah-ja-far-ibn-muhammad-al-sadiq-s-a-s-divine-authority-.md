@@ -547,4 +547,3 @@ the one after him." The narrator has said that he then asked The Imam
 narrator has said that he then asked The Imam (a. s.), "From me it is
 agreed and accepted."
 
-

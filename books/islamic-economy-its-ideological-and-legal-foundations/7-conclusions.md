@@ -69,4 +69,3 @@ ummah, or the emphasis by some nu\#u'\# on the view that the purpose of
 trade is to extract benefits or on the prohibition of if its opening
 results in evil consequences and so on.
 
-

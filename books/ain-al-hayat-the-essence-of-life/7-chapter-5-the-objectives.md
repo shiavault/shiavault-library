@@ -557,21 +557,13 @@ would be devoid of sin. There wouldn’t be any mountains, trees,
 buildings or grass on the new earth. Allah’s Firmament would be standing
 on water. Then the Herald would proclaim,
 
-<blockquote dir="rtl">
-  <p>
-﴿لِمَنْ الْمُلْكُ الْيَوْمَ.﴾
-  </p>
-</blockquote>
+> ﴿لِمَنْ الْمُلْكُ الْيَوْمَ.﴾
 
 ***“Who is the monarch this day?”*** **(40:16)**
 
 Then Allah will himself announce,
 
-<blockquote dir="rtl">
-  <p>
-﴿لِلَّهِ الْوَاحِدِ الْقَهَّارِ.﴾
-  </p>
-</blockquote>
+> ﴿لِلَّهِ الْوَاحِدِ الْقَهَّارِ.﴾
 
 ***“Allah; the One and the Wrathful!”*** **(40:16)**
 
@@ -683,11 +675,7 @@ asked, “Whom did you appoint as you *Na’ib* (Successor)?” Thus, every
 Imam (as) would be called for interrogation along with the people of his
 own time. Allah will then say:
 
-<blockquote dir="rtl">
-  <p>
-﴿هَذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ.﴾
-  </p>
-</blockquote>
+> ﴿هَذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ.﴾
 
 **“*****Today the Truthful would get benefit for their
 truthfulness.*****” (5:119)**
@@ -717,11 +705,7 @@ own audit! Because on the Day of Judgment people will be made to wait at
 fifty places for giving account of their deeds and at every stage one
 will have to linger for a thousand years, as Allah Himself says”
 
-<blockquote dir="rtl">
-  <p>
-﴿يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ.﴾
-  </p>
-</blockquote>
+> ﴿يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ.﴾
 
 ***“The Day will be such that its stretch will be of fifty thousand
 years!”*** **(32:5)**
@@ -730,11 +714,7 @@ years!”*** **(32:5)**
 
 Imam Muhammad Al-Baqir (as) narrates that when the Verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَجِيءَ يَوْمَئِذٍ بِجَهَنَّم.﴾
-  </p>
-</blockquote>
+> ﴿وَجِيءَ يَوْمَئِذٍ بِجَهَنَّم.﴾
 
 ***“And hell is made to appear on that day.”*** **(89:23)**
 
@@ -763,11 +743,7 @@ these prayers. Another group will be denied entry to the *Sirat* for not
 giving the rights of the people, the *Huqooq-ul-Ibad!* Therefore Allah
 says:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ رَبَّكَ لَبِالْمِرْصَادِ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ رَبَّكَ لَبِالْمِرْصَادِ.﴾
 
 ***“And passing through the Bridge of Sirat Allah will question you.”***
 **(89:14)**
@@ -857,12 +833,8 @@ Allah! They are your angels and, to please you, they are bearing witness
 against us!” Then they will take an oath that the inventory of their
 work were not theirs. Allah tells about this in the Holy Qur’an thus:
 
-<blockquote dir="rtl">
-  <p>
-﴿يَوْمَ يَبْعَثُهُمْ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا
-يَحْلِفُونَ لَكُمْ.﴾
-  </p>
-</blockquote>
+> ﴿يَوْمَ يَبْعَثُهُمْ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا
+> يَحْلِفُونَ لَكُمْ.﴾
 
 ***“That day Allah will bring forth everyone, they will take oaths like
 they used to take false oaths”*** **(58:18)**
@@ -950,11 +922,7 @@ Then the sound will come, “O Muhammad (S)! We have accepted your
 intercession!” This is the interpretation of the Verse of the Holy
 Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا.﴾
-  </p>
-</blockquote>
+> ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا.﴾
 
 ***“Be hopeful that your Allah will send you to your preferred?”***
 **(17:79)**
@@ -1167,5 +1135,4 @@ your own disciples are in the Heaven!’ They will say, ‘We preached about
 being virtuous but in practice we ourselves were not virtuous.”
 
 The next chapter deals with some rules and regulations
-
 

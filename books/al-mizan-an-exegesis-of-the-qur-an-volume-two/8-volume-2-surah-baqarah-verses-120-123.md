@@ -114,9 +114,7 @@ The author says: This explanation is based on the principle of the
 "flow of the Qur'an', and gives the best example of those to whom Allah
 has given the Book.
 
-
 \*Because their books foretell of the Apostle's coming. (tr.)
-
 
 **Volume 2: Surah Baqarah, Verse 124
 **
@@ -833,7 +831,6 @@ family members, who were from the progeny of Ismail; then Allah made it
 known to Ibrahim telling him: "Surely I am going to make you an Imam for
 men." Ibrahim said: 'And of my offspring? Allah said: "My covenant will
 not include the unjust.
-
 
 \* It is a simplified version of the argument given by al-Qadi Nurullah
 Tustari (ash-Shahid ath-Thalith in his Ihqaqu 'I-haqq. (Vide the new ed.

@@ -1,14 +1,10 @@
 Section One
 ===========
 
-<blockquote dir="rtl">
-  <p>
-أَلسَّلاَمُ عَلَيْكَ يَا أَبا عَبْدِ اللّهِ، أَلسَّلاَمُ عَلَيْكَ يَا
-بْنَ رَسُولِ اللَّهِ، أَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ
-الْمُؤْمِنِينَ، وَابْنَ سَيِّدِ الْوَصِيِّينَ، أَلسَّلاَمُ عَلَيْكَ
-يَا بْنَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ الْعالَمِينَ
-  </p>
-</blockquote>
+> أَلسَّلاَمُ عَلَيْكَ يَا أَبا عَبْدِ اللّهِ، أَلسَّلاَمُ عَلَيْكَ يَا
+> بْنَ رَسُولِ اللَّهِ، أَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ
+> الْمُؤْمِنِينَ، وَابْنَ سَيِّدِ الْوَصِيِّينَ، أَلسَّلاَمُ عَلَيْكَ
+> يَا بْنَ فَاطِمَةَ سَيِّدَةِ نِسَاءِ الْعالَمِينَ
 
 “Peace be upon you O’ Aba ‘Abdillah; Peace be upon you O’ son of the
 Messenger of Allah; Peace be upon you O’ son of the Commander of the
@@ -100,5 +96,4 @@ personalities at a time when people want us to forget them and to think
 of others! We also guarantee these four personalities that we shall not
 transgress their teachings nor shall we do anything to cause them
 spiritual harm and grief...
-
 

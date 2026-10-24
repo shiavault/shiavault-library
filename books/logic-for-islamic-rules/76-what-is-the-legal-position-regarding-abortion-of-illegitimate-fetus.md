@@ -16,4 +16,3 @@ heirs. Except one of the heirs (father or mother) had been instrumental
 in the abortion because in those conditions he is deprived of Diyat just
 as the killer cannot inherit the killed one.
 
-

@@ -703,4 +703,3 @@ Khalifa in whom believes, this would be of no ground. If they would say,
 does come to nothing. If they say or will say, "This is nothing." They
 have, certainly, strayed far away from the truth."
 
-

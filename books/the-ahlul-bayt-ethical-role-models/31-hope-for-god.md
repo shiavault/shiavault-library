@@ -254,4 +254,3 @@ ush-Sharayi).
 
 [^16]: Quoted from al-Wafi; part 3 page 57 (as quoted from al- Kafi).
 
-

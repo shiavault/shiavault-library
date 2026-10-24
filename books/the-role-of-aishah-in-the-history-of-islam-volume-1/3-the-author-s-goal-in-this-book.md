@@ -575,4 +575,3 @@ wise treatment of this divine creature who has been created by God as
 man's partner and companion and given the task of bringing stability and
 tranquility into human life.
 
-

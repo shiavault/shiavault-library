@@ -102,4 +102,3 @@ Prophet hopes to serve the interests of our dear readers.
 
 To Allah we look for success and help.
 
-

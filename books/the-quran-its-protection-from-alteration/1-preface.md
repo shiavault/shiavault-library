@@ -25,4 +25,3 @@ to the seekers of truth. 
 ABANA, Ahlul Bayt Assembly of North America   
  Toronto, Canada 
 
-

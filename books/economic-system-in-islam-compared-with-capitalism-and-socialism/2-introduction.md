@@ -164,29 +164,21 @@ namely, Noah, Abraham, Moses, Jesus, and lastly Muhammad. We are ordered
 by the Creator through His Prophets to be in harmony with the natural
 laws which covers all fields of human life.
 
-<blockquote dir="rtl">
-  <p>
-أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنْزَلَ
-إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا ۚ وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ
-يَعْلَمُونَ أَنَّهُ مُنَزَّلٌ مِنْ رَبِّكَ بِالْحَقِّ ۖ فَلَا
-تَكُونَنَّ مِنَ الْمُمْتَرِينَ 
-  </p>
-</blockquote>
+> أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنْزَلَ
+> إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا ۚ وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ
+> يَعْلَمُونَ أَنَّهُ مُنَزَّلٌ مِنْ رَبِّكَ بِالْحَقِّ ۖ فَلَا
+> تَكُونَنَّ مِنَ الْمُمْتَرِينَ
 
 ***"Shall I seek for judge other than God when it is He who hath sent
 down unto you the Book , explained in detail? They know full well to
 whom we have given the Book , that it hath been sent down from thy Lord
 in truth. Never be then of those who doubt". ( Qur'an, 6:114)***
 
-<blockquote dir="rtl">
-  <p>
-وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ
-أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ
-اللَّهُ إِلَيْكَ ۖ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يُرِيدُ
-اللَّهُ أَنْ يُصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِنَ
-النَّاسِ لَفَاسِقُونَ 
-  </p>
-</blockquote>
+> وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ
+> أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ
+> اللَّهُ إِلَيْكَ ۖ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يُرِيدُ
+> اللَّهُ أَنْ يُصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِنَ
+> النَّاسِ لَفَاسِقُونَ
 
 ***"And this (He Commands): Judge then between them by what God hath
 revealed, and follow not their vain desires, but beware of them lest
@@ -198,5 +190,4 @@ it is God's purpose to punish them. And truly most men are rebellious?"
 After finishing from these notes, it is time to discuss the economic
 systems in detail. The Islamic economic system is based on the following
 three foundations:-
-
 

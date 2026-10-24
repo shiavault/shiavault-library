@@ -58,4 +58,3 @@ the Quran. Now we shall present some facts about the Farooqi religion
 and the faith of Ali (a.s.), so that uninformed people may gain some
 understanding.
 
-

@@ -153,4 +153,3 @@ nomination?
 
 5- Explain the fundamental issues of Imāmah.
 
-

@@ -17,23 +17,15 @@ Taqleed literally means to follow or to imitate someone. In Islamic
 jurisprudence it means to follow a Mujtahid in matters pertaining to
 law.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ ۖ
-فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
-  </p>
-</blockquote>
+> وَمَا أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ ۖ
+> فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ
 
 *** And we did not send before you any but men to whom we sent
 revelation, so ask the followers of the reminder if you do not (21:7)***
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا مَا أُنْزِلَتْ سُورَةٌ فَمِنْهُمْ مَنْ يَقُولُ أَيُّكُمْ
-زَادَتْهُ هَٰذِهِ إِيمَانًا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ
-إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ
-  </p>
-</blockquote>
+> وَإِذَا مَا أُنْزِلَتْ سُورَةٌ فَمِنْهُمْ مَنْ يَقُولُ أَيُّكُمْ
+> زَادَتْهُ هَٰذِهِ إِيمَانًا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ
+> إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ
 
 ***And whenever a chapter is revealed, there are some of them who say:
 Which of you has it strengthened in faith? Then as for those who
@@ -145,5 +137,4 @@ beliefs:
 2. That Muhammad is the last Prophet of God;
 
 3. That there will be Resurrection and Judgement.
-
 

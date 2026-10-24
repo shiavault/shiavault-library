@@ -80,4 +80,3 @@ projects, including *Islamic Imagery*, as well as *Shī‘ite Traditions
 from Islamic Spain*, the last of which was commissioned by the Spanish
 government.
 
-

@@ -77,4 +77,3 @@ are gazelles and piebald camels in it'. This is clear and has no
 obscurity for anyone with any knowledge of language, and it is too
 well-known to linguists to require elucidation.
 
-

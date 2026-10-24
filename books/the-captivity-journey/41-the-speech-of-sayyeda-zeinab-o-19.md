@@ -134,4 +134,3 @@ martyrdom in the Islamic culture.
 9- Blaming the major responsibility for killing Imam Hussain (Q)
 directly on Yazeed.
 
-

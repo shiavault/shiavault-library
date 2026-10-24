@@ -216,4 +216,3 @@ select any one to succeed him or not?
  4. Was their method of selection based on Islamic precepts and logic?  
  5. Why was ‘Ali the most deserving of all?
 
-

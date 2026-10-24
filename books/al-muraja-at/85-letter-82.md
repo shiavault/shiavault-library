@@ -230,4 +230,3 @@ according to our view can never be binding; so, we ask all those who are
 fair minded how can their "consensus" be binding upon us, since the case
 is as such?
 
-

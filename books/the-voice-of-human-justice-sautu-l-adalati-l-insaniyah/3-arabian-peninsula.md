@@ -105,4 +105,3 @@ deliverance became great things, and reality was elevated viz. Muhammad.
 The birth of the cousin of Muhammad, Ali, in Arabia, where human life
 was not worth more than a dinar was the second miracle of this Desert.
 
-

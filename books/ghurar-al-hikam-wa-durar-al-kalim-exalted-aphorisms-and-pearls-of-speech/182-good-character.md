@@ -54,22 +54,14 @@ approachable [and courteous], of tolerant disposition and prompt in
 getting things done.
 
 > 12ـ إنَّ اللّهَ سُبْحانَهُ وتعالى يُحِبُّ السَّهْلَ النَّفْسِ،
-<blockquote dir="rtl">
-  <p>
-اَلسَّمِحَ الخَليقَةِ، القَريبَ الأمْرِ.
-  </p>
-</blockquote>
+> اَلسَّمِحَ الخَليقَةِ، القَريبَ الأمْرِ.
 
 13. Verily it is from nobility of character to build ties with the one
 who cuts you off, to give one who deprives you and to forgive one who
 wrongs you.
 
 > 13ـ إنَّ مِنْ مَكارِمِ الأخلاقِ: أنْ تَصِلَ مَنْ قَطَعَكَ، وتُعطِيَ
-<blockquote dir="rtl">
-  <p>
-مَنْ حَرَمَكَ، وَتَعْفُوَ عَمَّنْ ظَلَمَكَ.
-  </p>
-</blockquote>
+> مَنْ حَرَمَكَ، وَتَعْفُوَ عَمَّنْ ظَلَمَكَ.
 
 14. Noble traits are [acquired] through difficulties.
 
@@ -86,23 +78,15 @@ When they talk, they remember [Allah] and when they are quiet, they
 contemplate.
 
 > 16ـ «وقالَ ـ عَليه السّلامُ ـ فيمَنْ أثْنى عَلَيْهِ »: إنْ نَطَقُوا
-<blockquote dir="rtl">
-  <p>
-صَدَقُوا، وإنْ صَمَتُوا لَمْ يُسْبَقُوا، إنْ نَظَرُوا اِعْتَبَروُا،
-وإنْ أعْرَضُوا لَمْ يَلْهُوا، إنْ تَـكَلَّمُوا ذَكَرُوا، وإنْ سَكَتُوا
-تَفَكَّرُوا.
-  </p>
-</blockquote>
+> صَدَقُوا، وإنْ صَمَتُوا لَمْ يُسْبَقُوا، إنْ نَظَرُوا اِعْتَبَروُا،
+> وإنْ أعْرَضُوا لَمْ يَلْهُوا، إنْ تَـكَلَّمُوا ذَكَرُوا، وإنْ سَكَتُوا
+> تَفَكَّرُوا.
 
 17. If you must compete with each other, then vie for [acquiring]
 desirable qualities and praiseworthy traits.
 
 > 17ـ إنْ كُنْتُمْ لامُحالَةَ مُتَنافِسينَ فَتَنافَسُوا فِي الخِصالِ
-<blockquote dir="rtl">
-  <p>
-الرَّغيبَةِ، وخِلالِ المَجْدِ.
-  </p>
-</blockquote>
+> الرَّغيبَةِ، وخِلالِ المَجْدِ.
 
 18. One whose character is bad, his death is [considered a time of]
 happiness.
@@ -117,21 +101,13 @@ happiness.
 other such qualities.
 
 > 20 ـ إذا كانَ فِي الرَّجُلِ خَلَّةٌ رائِقَةٌ فَانْتَظِرْ مِنْهُ
-<blockquote dir="rtl">
-  <p>
-أخَواتِها.
-  </p>
-</blockquote>
+> أخَواتِها.
 
 21. When the Qur’an calls you towards [acquiring] a beautiful quality,
 then compel yourself to adopt [a quality] like it.
 
 > 21ـ إذا دَعاكَ القُرآنُ إلى خَلَّة جَميلَة فَخُذْ نَفْسَكَ
-<blockquote dir="rtl">
-  <p>
-بِأمْثالِها.
-  </p>
-</blockquote>
+> بِأمْثالِها.
 
 22. With good character, life becomes pleasant.
 
@@ -145,21 +121,13 @@ then compel yourself to adopt [a quality] like it.
 beautiful quality and the best etiquette.
 
 > 24ـ تَحَريِّ الصِّدقِ، وتَجَنُّبُ الكِذْبِ، أجْمَلُ شيمَة وأفْضَلُ
-<blockquote dir="rtl">
-  <p>
-أدَب.
-  </p>
-</blockquote>
+> أدَب.
 
 25. Compete in acquiring [a] desirable character, great forbearance and
 lofty ideas, [and] your reward will become great.
 
 > 25ـ تَنافَسُوا فِي الأخلاقِ الرَّغيبَةِ، والأحْلامِ العَظيمَةِ،
-<blockquote dir="rtl">
-  <p>
-والأخْطارِ الجَليلَةِ، يَعْظُمْ لَكمُ الجَزاءُ.
-  </p>
-</blockquote>
+> والأخْطارِ الجَليلَةِ، يَعْظُمْ لَكمُ الجَزاءُ.
 
 26. You should be zealous for praiseworthy qualities like protecting the
 [rights of the] neighbour, fulfilling the sureties, obedience to virtue
@@ -167,22 +135,14 @@ and opposition to arrogance; and beautify yourselves with excellent
 traits.
 
 > 26ـ تَعَصَّبُوا لِخِلالِ الحَمْدِ، مِنَ الحِفْظِ لِلْجارِ، والوَفاءِ
-<blockquote dir="rtl">
-  <p>
-بالذِّمامِ، والطَّاعَةِ لِلْبِرِّ، والمَعْصِيَةِ لِلْكِبْرِ،
-وتَحَلَّوْا بِمَكارِمِ الخِلالِ.
-  </p>
-</blockquote>
+> بالذِّمامِ، والطَّاعَةِ لِلْبِرِّ، والمَعْصِيَةِ لِلْكِبْرِ،
+> وتَحَلَّوْا بِمَكارِمِ الخِلالِ.
 
 27. Choose for yourself the best from every character [trait], for
 indeed virtue is a habit.
 
 > 27ـ تَخَيَّـرْ لِنَفْسِكَ مِنْ كُلِّ خُلْق أحْسَنَهُ، فَإنَّ الخَيْرَ
-<blockquote dir="rtl">
-  <p>
-عادَةٌ.
-  </p>
-</blockquote>
+> عادَةٌ.
 
 28. Good character is [an embellishment] for the soul and good
 appearance is [a beautification] for the body.
@@ -267,23 +227,19 @@ compete with each other in them. And if you cannot acquire them, you
 should know that acquiring a little is better than giving up plenty.
 
 > 42ـ كانَ لي فيما مَضى أخٌ فِي اللّهِ وكانَ يُعَظِّمُهُ في عَيني صِغَرُ
-<blockquote dir="rtl">
-  <p>
-الدُّنيا في عَيْنِه وكانَ خارِجاً مِنْ (عنْ) سُلْطانِ بَطْنِهِ، فلا
-يَشْتَهي ما لا يَجِدُ ولا يُكْثِرُ إذا وَجَدَ وكانَ أكثَرَ دَهْرِهِ
-صامِتاً فَإنْ قالَ بَذَّ القائِلينَ ونَقَعَ غَليلَ السَّائلينَ وكانَ
-ضَعيفاً مُسْتَضْعَفَاً فَإنْ جاءَ الجِدُّ فَهُوَ لَيْثٌ عاد وَصِلٌّ
-واد لا يُدْلي بِحُجَّة حَتّى يَأتِيَ قاضِياً وَكانَ لايَلُومُ أحَداً
-عَلى ما (لا) يَجِدُ العُذْرَ في مِثلِهِ حتّى يَسْمَعَ اعْتِذارَهُ
-وكانَ لا يَشْكُو وَجَعاً إلاّ عِنْدَ بُرْئِهِ وَكانَ يَفْعَلُ ما
-يَقُولُ ولا يَقُولُ ما لايَفْعَلُوكانَ إذا (إن) غُلِبَ عَلَى الكَلامِ
-لَمْ يُغْلَبْ عَلَى السُّكُوتِ وكانَ على أنْ يَسمَعَ أحْرَصَ مِنْهُ
-على أنْ يَتَكَلَّمَ وَكانَ إذا بَدَهَهُ أمرانِ نَظَرَ أيُّهُما أقْرَبُ
-إلى الهَوى فَخالَفَهُ فَعَلَيْكُمْ بِهذِهِ الخلائِقِ فَالْزَمُوها
-وتَنافَسُوا فيها فَإنْ لَمْ تَسْتَطيعُوها فَاعْلَمُوا أنَّ أخْذَ
-القَليلِ خَيرٌ مِنْ تَركِ الكَثيرِ.
-  </p>
-</blockquote>
+> الدُّنيا في عَيْنِه وكانَ خارِجاً مِنْ (عنْ) سُلْطانِ بَطْنِهِ، فلا
+> يَشْتَهي ما لا يَجِدُ ولا يُكْثِرُ إذا وَجَدَ وكانَ أكثَرَ دَهْرِهِ
+> صامِتاً فَإنْ قالَ بَذَّ القائِلينَ ونَقَعَ غَليلَ السَّائلينَ وكانَ
+> ضَعيفاً مُسْتَضْعَفَاً فَإنْ جاءَ الجِدُّ فَهُوَ لَيْثٌ عاد وَصِلٌّ
+> واد لا يُدْلي بِحُجَّة حَتّى يَأتِيَ قاضِياً وَكانَ لايَلُومُ أحَداً
+> عَلى ما (لا) يَجِدُ العُذْرَ في مِثلِهِ حتّى يَسْمَعَ اعْتِذارَهُ
+> وكانَ لا يَشْكُو وَجَعاً إلاّ عِنْدَ بُرْئِهِ وَكانَ يَفْعَلُ ما
+> يَقُولُ ولا يَقُولُ ما لايَفْعَلُوكانَ إذا (إن) غُلِبَ عَلَى الكَلامِ
+> لَمْ يُغْلَبْ عَلَى السُّكُوتِ وكانَ على أنْ يَسمَعَ أحْرَصَ مِنْهُ
+> على أنْ يَتَكَلَّمَ وَكانَ إذا بَدَهَهُ أمرانِ نَظَرَ أيُّهُما أقْرَبُ
+> إلى الهَوى فَخالَفَهُ فَعَلَيْكُمْ بِهذِهِ الخلائِقِ فَالْزَمُوها
+> وتَنافَسُوا فيها فَإنْ لَمْ تَسْتَطيعُوها فَاعْلَمُوا أنَّ أخْذَ
+> القَليلِ خَيرٌ مِنْ تَركِ الكَثيرِ.
 
 43. Nothing gets constricted with good character.
 
@@ -311,11 +267,7 @@ of this world or the Hereafter but because of his good character and his
 good intention.
 
 > 48ـ ما أعْطَى اللّهُ سُبْحانَهُ العَبْدَ شَيْئاً مِنْ خَيرِ الدُّنيا
-<blockquote dir="rtl">
-  <p>
-والآخرَةِ إلاّ بِحُسْنِ خُلْقِهِ، وحُسْنِ نِيَّتِهِ.
-  </p>
-</blockquote>
+> والآخرَةِ إلاّ بِحُسْنِ خُلْقِهِ، وحُسْنِ نِيَّتِهِ.
 
 49. The best distinction is good character.
 
@@ -339,11 +291,7 @@ traits, manifesting the praiseworthy among them and suppressing the
 blameworthy among them.
 
 > 53ـ رَأسُ الْعِلْمِ التَّميزُ بَيْنَ الأخْلاقِ وإظْهارِ مَحْمُودِها
-<blockquote dir="rtl">
-  <p>
-وقَمْعِ مَذْمُومِها.
-  </p>
-</blockquote>
+> وقَمْعِ مَذْمُومِها.
 
 54. The adornment of [all] traits is being careful [in fulfilling] the
 sureties.
@@ -355,11 +303,7 @@ in times of] happiness and anger, security and fear, deprivation and
 desire.
 
 > 55ـ سِتَّةٌ تـُخْتَبَرُ بها أخْلاقُ الرِّجالِ: الرِّضا، والغضَبُ،
-<blockquote dir="rtl">
-  <p>
-والأمْنُ، وَالرَّهْبُ، والمَنْعُ، والرَّغْبُ.
-  </p>
-</blockquote>
+> والأمْنُ، وَالرَّهْبُ، والمَنْعُ، والرَّغْبُ.
 
 56. You must adopt a good character for this will earn you adoration [of
 others].
@@ -403,11 +347,7 @@ character.
 similar qualities away from yourself.
 
 > 64ـ إذا رَأيتَ في غَيرِكَ خُلْقاً ذَميماً فَتَجَنَّبْ مِنْ نَفْسِكَ
-<blockquote dir="rtl">
-  <p>
-أمْثالَهُ.
-  </p>
-</blockquote>
+> أمْثالَهُ.
 
 65. Verily your natural disposition invites you towards that which you
 are familiar with.
@@ -418,22 +358,14 @@ are familiar with.
 them is the furthest of them from evil.
 
 > 66ـ إنَّ هذِهِ الطَّبايِـعَ مُتَبايِنَةٌ، وخَيْرُها أبْعَدُها مِنَ
-<blockquote dir="rtl">
-  <p>
-الشَّـرِّ.
-  </p>
-</blockquote>
+> الشَّـرِّ.
 
 67. Verily only the dispositions of the virtuous are dispositions that
 have the potential of supporting good, so whenever they are laden with
 it, they carry it.
 
 > 67ـ إنَّما طَبايِـعُ الأبرارِ طَبايِـعُ مُحْتَمِلَةٌ لِلْخَيْرِ،
-<blockquote dir="rtl">
-  <p>
-فَمَهْماحُمِّلَتْ مِنْهُ اِحتَمَلَتْهُ.
-  </p>
-</blockquote>
+> فَمَهْماحُمِّلَتْ مِنْهُ اِحتَمَلَتْهُ.
 
 68. He (‘a) said about the one whom he censured: If he falls sick he
 regrets having abandoned the work and if he is healthy, he feels secure
@@ -455,30 +387,22 @@ forgets the Hereafter and is negligent of the Resurrection [on the Day
 of Judgment].
 
 > 68ـ وقالَ ـ عليهِ السّلامُ ـ في حقِّ مَنْ ذَمَّهُ: إنْ سَقِمَ فَهُوَ
-<blockquote dir="rtl">
-  <p>
-نادِمٌ على تَركِ العَمَلِ، وَإنْ صَحَّ أمِنَ مُغْتَرّاً فَأخَّرَ
-العَمَلَ، إنْ دُعِىَ إلى حَرْثِ الدُّنيا عَمِلَ، وإنْ دُعِىَ إلى
-حَرْثِ الآخِرَةِ كَسِلَ، إنِ استَغْنى بَطَرَ وفَتَنَ، إنِ افْتَقَرَ
-قَنَطَ ووَهَنَ، إنْ اُحْسِنَ إلَيهِ جَحَدَ، وإنْ أحْسَنَ تَطاوَلَ،
-وامْتَنَّ، إنْ عَرَضَتْ لَهُ مَعْصِيَةٌ واقَعَها بِالاِتِّكالِ عَلَى
-التَّوبَةِ، إنْ عَزَمَ عَلىَ التَّوبَةِ سَوَّفَها، وأصَرَّ عَلىَ
-الحَوْبَةِ إنْ عُوفِيَ ظَنَّ أنْ قَدْ تابَ، إن ِْابْتُلِيَ ظَنَّ
-وارْتابَ، إنْ مَرِضَ أخْلَصَ وأنابَ، إنْ صَحَّ نَسِيَ وعادَ وَاجْتَرى
-على مَظالِمِ العِبادِ، إنْ أمِنَ اِفْتَتَنَ لاهِياً بِالعاجِلَةِ،
-فَنَسِيَ الآخِرَةَ وغَفَلَ عَنِ المَعادِ.
-  </p>
-</blockquote>
+> نادِمٌ على تَركِ العَمَلِ، وَإنْ صَحَّ أمِنَ مُغْتَرّاً فَأخَّرَ
+> العَمَلَ، إنْ دُعِىَ إلى حَرْثِ الدُّنيا عَمِلَ، وإنْ دُعِىَ إلى
+> حَرْثِ الآخِرَةِ كَسِلَ، إنِ استَغْنى بَطَرَ وفَتَنَ، إنِ افْتَقَرَ
+> قَنَطَ ووَهَنَ، إنْ اُحْسِنَ إلَيهِ جَحَدَ، وإنْ أحْسَنَ تَطاوَلَ،
+> وامْتَنَّ، إنْ عَرَضَتْ لَهُ مَعْصِيَةٌ واقَعَها بِالاِتِّكالِ عَلَى
+> التَّوبَةِ، إنْ عَزَمَ عَلىَ التَّوبَةِ سَوَّفَها، وأصَرَّ عَلىَ
+> الحَوْبَةِ إنْ عُوفِيَ ظَنَّ أنْ قَدْ تابَ، إن ِْابْتُلِيَ ظَنَّ
+> وارْتابَ، إنْ مَرِضَ أخْلَصَ وأنابَ، إنْ صَحَّ نَسِيَ وعادَ وَاجْتَرى
+> على مَظالِمِ العِبادِ، إنْ أمِنَ اِفْتَتَنَ لاهِياً بِالعاجِلَةِ،
+> فَنَسِيَ الآخِرَةَ وغَفَلَ عَنِ المَعادِ.
 
 69. When you see in others a quality which is objectionable, then keep
 similar qualities away from yourself.
 
 > 69ـ إذا رَأيْتَ في غَيْرِكَ خُلْقاً ذَميماً فَتَجَنَبْ مِنْ نَفْسِكَ
-<blockquote dir="rtl">
-  <p>
-أمثالَهُ.
-  </p>
-</blockquote>
+> أمثالَهُ.
 
 70. The worst quality is treachery.
 
@@ -497,11 +421,7 @@ most reprehensible qualities.
 yourself in keeping away from it, for indeed evil is obstinate.
 
 > 73ـ تَجَنَّبْ مِن كُلِّ خُلْق أسْوَأَهُ، وجاهِدْ نَفْسَكَ على
-<blockquote dir="rtl">
-  <p>
-تَجَنُّبِهِ فَإنَّ الشَّـرَّ لَجاجَةٌ.
-  </p>
-</blockquote>
+> تَجَنُّبِهِ فَإنَّ الشَّـرَّ لَجاجَةٌ.
 
 74. Two attributes never come together in the heart of a believer: bad
 character and miserliness.
@@ -529,11 +449,7 @@ wickedness.
 and ignorance.
 
 > 79ـ الخِلالُ المُنْتِجَـةُ لِلشَرِّ الكِـذْبُ، والبُخْلُ، والجَوْرُ،
-<blockquote dir="rtl">
-  <p>
-وَالجَهْلُ.
-  </p>
-</blockquote>
+> وَالجَهْلُ.
 
 80. Bad character alienates the soul and removes amiability.
 
@@ -586,31 +502,19 @@ right.
 and vain talks.
 
 > 91ـ اِحْذَرِ الهَزْلَ، واللَّعْبَ، وكَثْرَةَ المَزْحِ، والضِّحْكِ،
-<blockquote dir="rtl">
-  <p>
-وَالتُّرَهاتِ.
-  </p>
-</blockquote>
+> وَالتُّرَهاتِ.
 
 92. Be cautious of the bellows of arrogance, the dominance of zealotry
 and the bigotry of the age of ignorance.
 
 > 92ـ اِحْذَروُا مَنافِخَ الكِبْرِ، وغَلَبَةَ الحَمِيَّةِ، وتَعَصُّبَ
-<blockquote dir="rtl">
-  <p>
-الجاهِليَّةِ.
-  </p>
-</blockquote>
+> الجاهِليَّةِ.
 
 93. Beware of a wicked heart, corruption of intention, embarking on vice
 and the deception of [false] aspiration.
 
 > 93ـ إيّاكَ وخُبْثَ الطَّوِيَّةِ، وإفْسادَ النِّيَّةِ، ورُكوبَ
-<blockquote dir="rtl">
-  <p>
-الدَّنِيَّةِ،وَ غُرُورَ الأُمْنِيَّةِ.
-  </p>
-</blockquote>
+> الدَّنِيَّةِ،وَ غُرُورَ الأُمْنِيَّةِ.
 
 94. The most detestable of morals is treachery.
 
@@ -683,10 +587,5 @@ forefathers) with his present (i.e. his own good character), disgraces
 his predecessor and betrays his successor.
 
 > 109ـ مَنْ لَمْ يُؤَكِّد قَديمَهُ بِحَديثِهِ، شانَ سَلَفَهُ وخانَ
-<blockquote dir="rtl">
-  <p>
-خَلَفَهُ.
-  </p>
-</blockquote>
-
+> خَلَفَهُ.
 

@@ -22,4 +22,3 @@ before, that *Dua* is a form of help and also there is another honor
 stated in this tradition – and it is that they shall remain in Paradise
 forever – this is also proved by it.
 
-

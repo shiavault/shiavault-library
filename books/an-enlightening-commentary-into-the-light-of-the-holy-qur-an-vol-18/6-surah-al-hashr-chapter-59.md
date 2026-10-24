@@ -10,11 +10,7 @@ Surah al-Hashr, Chapter 59
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -52,20 +48,12 @@ its contents as the same reflects in man's life.
 Surah al-Hashr - Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
-<blockquote dir="rtl">
-  <p>
-سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ
-الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ
+> الْعَزِيزُ الْحَكِيمُ
 
 ***1. Whatever is in the heavens and whatever is on the earth glorifies
 Allah. And He is the All-Mighty, the All-Wise.***
@@ -125,16 +113,12 @@ all the world of existence.
 Surah al-Hashr - Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن
-دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا ۖ
-وَظَنُّوا أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ
-اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ
-الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي
-الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن
+> دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا ۖ
+> وَظَنُّوا أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ
+> اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ
+> الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي
+> الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
 
 ***2. He it is Who drove out the disbelievers among the people of the
 Scripture from their homes at the first gathering. You did not think
@@ -230,19 +214,11 @@ In this vein, the Commander of the Faithful, Imam ‘Ali (as) says:
 Surah al-Hashr - Verses 3-4
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَوْلَا أَن كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي
-الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ
-  </p>
-</blockquote>
+> وَلَوْلَا أَن كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي
+> الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ
 
-<blockquote dir="rtl">
-  <p>
-ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَن يُشَاقِّ
-اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَن يُشَاقِّ
+> اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 ***3. And had it not been that Allah had decreed exile for them, He
 would certainly have chastised them in this world and in the Hereafter
@@ -298,12 +274,8 @@ of the enemies since they split themselves from others.
 Surah al-Hashr - Verse 5
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ
-أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
-  </p>
-</blockquote>
+> مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ
+> أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
 
 ***5. What you cut down of the palm-trees, or you abandoned them, it was
 by Allah's Command such that He might disgrace and humiliate the
@@ -347,13 +319,9 @@ and humiliate the enemies and shatter their morale.
 Surah al-Hashr - Verse 6
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ
-عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ اللَّهَ يُسَلِّطُ
-رُسُلَهُ عَلَىٰ مَن يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  </p>
-</blockquote>
+> وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ
+> عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ اللَّهَ يُسَلِّطُ
+> رُسُلَهُ عَلَىٰ مَن يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 ***6. And what Allah gave to His Messenger from their property, for this
 you made no expedition with either cavalry or camelry. But Allah gives
@@ -422,15 +390,11 @@ life.
 Surah al-Hashr - Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَّا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ
-مِنكُمْ ۚ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
-فَانتَهُوا ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
-</blockquote>
+> مَّا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ
+> مِنكُمْ ۚ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ
+> فَانتَهُوا ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 ***7. What Allah gave as booty to His Messenger from the people of the
 townships, it is for Allah, His Messenger, the kindred, the orphans, the
@@ -637,13 +601,9 @@ to talk to him to her last day.[^13]
 Surah al-Hashr - Verse 8
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-لِلْفُقَرَاءِ الْمُهَاجِرِينَ الَّذِينَ أُخْرِجُوا مِن دِيَارِهِمْ
-وَأَمْوَالِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا
-وَيَنصُرُونَ اللَّهَ وَرَسُولَهُ ۚ أُولَٰئِكَ هُمُ الصَّادِقُونَ
-  </p>
-</blockquote>
+> لِلْفُقَرَاءِ الْمُهَاجِرِينَ الَّذِينَ أُخْرِجُوا مِن دِيَارِهِمْ
+> وَأَمْوَالِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا
+> وَيَنصُرُونَ اللَّهَ وَرَسُولَهُ ۚ أُولَٰئِكَ هُمُ الصَّادِقُونَ
 
 ***8. [And there is also a share in this booty] for the poor emigrants
 who were expelled from their homes and their property, seeking Divine
@@ -676,15 +636,11 @@ living in poverty and homelessness.
 Surah al-Hashr - Verse 9
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْإِيمَانَ مِن قَبْلِهِمْ
-يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِي صُدُورِهِمْ
-حَاجَةً مِّمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ
-بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ
-الْمُفْلِحُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْإِيمَانَ مِن قَبْلِهِمْ
+> يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِي صُدُورِهِمْ
+> حَاجَةً مِّمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ
+> بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ
+> الْمُفْلِحُونَ
 
 ***9. And [it is also for] those who before them had homes [in Medina]
 and had adopted the faith [before the Emigrants], love those who
@@ -896,14 +852,10 @@ meet their demands springs from pure and unadulterated faith."*[^17]
 Surah al-Hashr - Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا
-وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي
-قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ
-رَّحِيمٌ
-  </p>
-</blockquote>
+> وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا
+> وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي
+> قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ
+> رَّحِيمٌ
 
 ***10. And those who came after them [the Emigrants and the Helpers]
 say: "Our Lord! Forgive us and our brethren who have preceded us in
@@ -966,14 +918,10 @@ Arabic word ghill denotes hatred, enmity, and covetousness.
 Surah al-Hashr - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا يَقُولُونَ لِإِخْوَانِهِمُ
-الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ لَئِنْ أُخْرِجْتُمْ
-لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن
-قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
-  </p>
-</blockquote>
+> أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا يَقُولُونَ لِإِخْوَانِهِمُ
+> الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ لَئِنْ أُخْرِجْتُمْ
+> لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن
+> قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
 
 ***11. Have you not observed the hypocrites who say to their friends
 among the people of the Scripture who disbelieve: "If you are expelled,
@@ -1018,13 +966,9 @@ stand on their word nor do they keep their promise.
 Surah al-Hashr - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَئِنْ أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا لَا
-يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ الْأَدْبَارَ ثُمَّ
-لَا يُنصَرُونَ
-  </p>
-</blockquote>
+> لَئِنْ أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا لَا
+> يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ الْأَدْبَارَ ثُمَّ
+> لَا يُنصَرُونَ
 
 ***12. Surely, if they [disbelievers] are expelled, never will they
 [hypocrites] go out with them; and if they are attacked, they
@@ -1052,12 +996,8 @@ and their designs will become undone.
 Surah al-Hashr - Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَأَنتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِم مِّنَ اللَّهِ ۚ ذَٰلِكَ
-بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
-  </p>
-</blockquote>
+> لَأَنتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِم مِّنَ اللَّهِ ۚ ذَٰلِكَ
+> بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
 
 ***13. Indeed, the awe inspired by you in the hypocrites' hearts far
 exceeds their fear of Allah. That is because they are a people who
@@ -1095,13 +1035,9 @@ and sacrificing nation.
 Surah al-Hashr - Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَا يُقَاتِلُونَكُمْ جَمِيعًا إِلَّا فِي قُرًى مُّحَصَّنَةٍ أَوْ مِن
-وَرَاءِ جُدُرٍ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا
-وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ
-  </p>
-</blockquote>
+> لَا يُقَاتِلُونَكُمْ جَمِيعًا إِلَّا فِي قُرًى مُّحَصَّنَةٍ أَوْ مِن
+> وَرَاءِ جُدُرٍ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا
+> وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ
 
 ***14. [Hypocrites are so fearful that] they fight not against you even
 together, except in fortified townships or from behind walls. Their
@@ -1146,12 +1082,8 @@ mightiest of nations in the world.
 Surah al-Hashr - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَمَثَلِ الَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ
-أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  </p>
-</blockquote>
+> كَمَثَلِ الَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ
+> أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 ***15. [In the similitude of the Jews from Banu Nadhir] they are like
 their immediate predecessors [deceived by the hypocrites' empty
@@ -1179,12 +1111,8 @@ Divine excruciating torment is in store for them.
 Surah al-Hashr - Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنسَانِ اكْفُرْ فَلَمَّا كَفَرَ
-قَالَ إِنِّي بَرِيءٌ مِّنكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ
-  </p>
-</blockquote>
+> كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنسَانِ اكْفُرْ فَلَمَّا كَفَرَ
+> قَالَ إِنِّي بَرِيءٌ مِّنكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ
 
 ***16. The people of the Scriptures' being deceived by hypocrites
 resembles that by Satan, when he said unto man: "Disbelieve in Allah."
@@ -1202,12 +1130,8 @@ Satan, but it is man who chooses to be led astray from the true path.
 Surah al-Hashr - Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَانَ عَاقِبَتَهُمَا أَنَّهُمَا فِي النَّارِ خَالِدَيْنِ فِيهَا ۚ
-وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ
-  </p>
-</blockquote>
+> فَكَانَ عَاقِبَتَهُمَا أَنَّهُمَا فِي النَّارِ خَالِدَيْنِ فِيهَا ۚ
+> وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ
 
 ***17. The end of both [Satan and disbelievers is that they] will be in
 the Fire for good. Such is the recompense of the wrong-doers.***
@@ -1224,13 +1148,9 @@ both worlds.
 Surah al-Hashr - Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ
-مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ
-بِمَا تَعْمَلُونَ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ
+> مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ
+> بِمَا تَعْمَلُونَ
 
 ***18. O you who believe! Fear Allah and refrain from disobedience to
 Him. And let every person look to what he has sent forth for the morrow,
@@ -1264,12 +1184,8 @@ world, he may send forth whatever he may.
 Surah al-Hashr - Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنسَاهُمْ أَنفُسَهُمْ ۚ
-أُولَٰئِكَ هُمُ الْفَاسِقُونَ
-  </p>
-</blockquote>
+> وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنسَاهُمْ أَنفُسَهُمْ ۚ
+> أُولَٰئِكَ هُمُ الْفَاسِقُونَ
 
 ***19. And be not like those who forgot Allah and He caused them to
 forget their own selves. Those are the disobedient.***
@@ -1326,12 +1242,8 @@ with oblivion rather than asking people not to forget Him.
 Surah al-Hashr - Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَا يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ ۚ أَصْحَابُ
-الْجَنَّةِ هُمُ الْفَائِزُونَ
-  </p>
-</blockquote>
+> لَا يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ ۚ أَصْحَابُ
+> الْجَنَّةِ هُمُ الْفَائِزُونَ
 
 ***20. Not equal are the dwellers of the Fire and the dwellers of the
 Paradise. It is the dwellers of Paradise that will be the saved and the
@@ -1372,13 +1284,9 @@ in no way the general application of the blessed Verse.
 Surah al-Hashr - Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا
-مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ
-نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
-  </p>
-</blockquote>
+> لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا
+> مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ
+> نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
 
 ***21. Had We sent down this Qur’an on a mountain, you would surely have
 seen it humbling itself and rend asunder by the fear of Allah. Such are
@@ -1432,12 +1340,8 @@ restless enamored people and then would have been rent asunder.
 
 **Surah al-Hashr - Verse 22**
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ
-وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ
+> وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
 
 ***22. He is Allah, beside Whom none has the right to be worshipped but
 He, the Omniscient of the unseen and the seen. He is the Most Gracious,
@@ -1499,13 +1403,9 @@ inspiration in some way or another.
 Surah al-Hashr - Verse 23
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ
-السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ
-الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ
+> السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ
+> الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
 
 ***23. He is Allah beside Whom none has the right to be worshipped but
 He, the Sovereign, the Holy, the One Free from all defects, the Giver of
@@ -1563,13 +1463,9 @@ partners with Him."***
 Surah al-Hashr - Verse 24
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ
-الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ
-وَهُوَ الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ
+> الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ
+> وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
 ***24. He is Allah, the Creator, the Inventor of all things, the
 Bestower of forms. To Him belong the Best Names and Attributes. All that
@@ -1732,5 +1628,4 @@ Chapter in question.
 [^24]: 5:16
 
 [^25]: 56:26
-
 

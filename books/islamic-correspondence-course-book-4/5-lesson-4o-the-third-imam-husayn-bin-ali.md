@@ -263,4 +263,3 @@ This lesson has been adopted with changes from ‘allamah Sayyid Muhammad
 Husayn at-Tabataba’i, Shi’a Islam, Qum. For references, see the original
 source.
 
-

@@ -26,7 +26,6 @@ and anxiety in the face of possible danger are safety- orientated issues
 while having children has an emotional dimension. Safety issues relate
 to society as a whole and children are related to the household.
 
-
 **Commentary : Verse 75**
 
 (75) إِنَّ إِبْراهيمَ لَحَليمٌ أَوَّاهٌ مُنيبٌ
@@ -88,7 +87,6 @@ he gave up pleading for them and the angels of death went forth to do
 their work executing the Divine order and exterminating the people of
 Lot.
 
-
 **Commentary : Verse 77**
 
 (77) وَ لَمَّا جاءَتْ رُسُلُنا لُوطاً سي‏ءَ بِهِمْ وَ ضاقَ بِهِمْ
@@ -141,7 +139,6 @@ before Allah on their account, but were told: 'Enter you both the Fire
 along with(others)that enter! '"(1)
 
 (1) Sura At- Tahrim, No. 66, verse 10
-
 
 **Commentary : Verse 78**
 
@@ -214,7 +211,6 @@ men have tolerated a tremendous degree of suffering for its sake.
 been rejected in previous religions and is incompatible with one's
 manliness, development and chastity.
 
-
 **Commentary : Verse 79.80**
 
 (79) قالُوا لَقَدْ عَلِمْتَ ما لَنا في‏ بَناتِكَ مِنْ حَقٍّ وَ إِنَّكَ
@@ -254,7 +250,6 @@ shelter them. The verse says:
 " He said: 'Would that I had the power against you or I might take
 refuge in a strong support'. "
 
-
 **The Sin of Sodomy in the Qur'an and Traditions**
 
 There are many accounts in the Glorious Qur'an about the vicious and
@@ -285,5 +280,4 @@ predisposes them to the act of sodomy.
 
 (1) Refer to Usul- i- Kafi, Wasa'il- ush- Shi'ah, Bihar ul 'Anwar, Nahj
 ul Balaqah
-
 

@@ -270,7 +270,6 @@ Qur’an will ascend one thousand degrees
 79 ibid, p192
 80 ibid, p193
 
-
 in Paradise and say, “If you had not forgotten me I would have taken
 you here.”81
 
@@ -395,5 +394,4 @@ the Qur’an is recited brings ease and comfort for its people, its
 blessings increase, and its dwellers will be plenty, and if the Qur’an
 is not recited in it then it will become difficult for the household,
 its blessings diminish, and its inhabitants will be in need.”95
-
 

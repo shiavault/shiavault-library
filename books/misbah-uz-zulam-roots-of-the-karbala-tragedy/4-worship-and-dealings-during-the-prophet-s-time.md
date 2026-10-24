@@ -93,4 +93,3 @@ Kitabul Ilm (Pg. 18) and Mishkat after Babul Karamaat.
 
 [^4]: Surah Baqarah, 2:185.
 
-

@@ -43,11 +43,7 @@ causes man to turn over a new leaf and opens up a new chapter in his
 life. It is not without reason that we read in our traditions that one,
 who performs Hajj, completely and perfectly…
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِنْ ذُنُوبِهِ كَهَيْئَتِهِ يَوْمَ وَلَدَتْهُ أُمُّهُ‏.
-  </p>
-</blockquote>
+> يَخْرُجُ مِنْ ذُنُوبِهِ كَهَيْئَتِهِ يَوْمَ وَلَدَتْهُ أُمُّهُ‏.
 
 “Becomes free of sins just as he was on the day when his mother gave him
 birth.”[^2]
@@ -103,11 +99,7 @@ One can see why the Commander of the Faithful (a.s), expounding the
 philosophy that lay behind every act of worship in connection with Hajj,
 states:
 
-<blockquote dir="rtl">
-  <p>
-أَلْحَجَّ تَقْوِيَةً لِلدِّينِ‏.
-  </p>
-</blockquote>
+> أَلْحَجَّ تَقْوِيَةً لِلدِّينِ‏.
 
 “Allah has ordained (the rituals of) Hajj for the purpose of
 strengthening the religion.”[^3]
@@ -204,22 +196,14 @@ facilitating economic association and cooperation amongst them.
 
 In another tradition, Imam as-Sadiq (a.s), interpreting the verse…
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ عَلَيْكُمْ جُناحٌ أَنْ تَبْتَغُوا فَضْلاً مِنْ رَبِّكُمْ‏
-  </p>
-</blockquote>
+> لَيْسَ عَلَيْكُمْ جُناحٌ أَنْ تَبْتَغُوا فَضْلاً مِنْ رَبِّكُمْ‏
 
 “There is no blame on you in seeking bounty from your Lord.”[^5]  
     
  … says: The meaning of this verse is 'seeking livelihood'.
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أَحَلَّ الرَّجُلُ مِنْ إِحْرَامِهِ وَ قَضَى فَلْيَشْتَرِ وَ
-لْيَبِعْ فِي الْمَوْسِمِ.
-  </p>
-</blockquote>
+> إِذَا أَحَلَّ الرَّجُلُ مِنْ إِحْرَامِهِ وَ قَضَى فَلْيَشْتَرِ وَ
+> لْيَبِعْ فِي الْمَوْسِمِ.
 
 “And when a person comes out of his iHram and completes the Hajj, he
 should conduct business transactions during the season of Hajj (for
@@ -230,11 +214,7 @@ al-Ridha (a.s) which explicitly enumerates the philosophies and
 objectives underlying the rites of Hajj; in the tradition, the Imam
 (a.s) recites the following verse of the Noble Qur\`an:
 
-<blockquote dir="rtl">
-  <p>
-لِيَشْهَدُوا مَنَافِعَ لَهُمْ‏
-  </p>
-</blockquote>
+> لِيَشْهَدُوا مَنَافِعَ لَهُمْ‏
 
 ***“That they may witness advantages for them”***[^8],
 
@@ -251,23 +231,15 @@ political, cultural and mercantile assemblies, it would surely serve to
 untie the knots and solve the problems. Perhaps this is why Imam
 as-sadiq (a.s) has said:
 
-<blockquote dir="rtl">
-  <p>
-لاَ يَزَالُ الدِّينُ قَائِماً مَا قَامَتِ الْكَعْبَةُ.
-  </p>
-</blockquote>
+> لاَ يَزَالُ الدِّينُ قَائِماً مَا قَامَتِ الْكَعْبَةُ.
 
 “The religion shall continue to stand as long as the Ka'bah continues to
 do so.”[^9]
 
 Imam 'Ali (a.s) too has said:
 
-<blockquote dir="rtl">
-  <p>
-أَللٌّهَ اللٌّهَ فِي بَيْتِ رَبِّكُمْ فَلاَ يَخْلُو مِنْكُمْ مَا
-بَقِيتُمْ فَإِنَّهُ إِنْ تُرِكَ لَمْ تُنَاظَرُوا.
-  </p>
-</blockquote>
+> أَللٌّهَ اللٌّهَ فِي بَيْتِ رَبِّكُمْ فَلاَ يَخْلُو مِنْكُمْ مَا
+> بَقِيتُمْ فَإِنَّهُ إِنْ تُرِكَ لَمْ تُنَاظَرُوا.
 
 “Fear Allah in the matter of His House (Ka'bah)!  Do not desert it for
 if it is deserted, divine reprieve shall be taken away from you.”[^10]
@@ -387,5 +359,4 @@ acquire an undesirable form and the Islamic scholars must strive to
 rectify it.
 
 [^14]: Tafsir-e-Namunah, vol. 19, pg. 125
-
 

@@ -8,10 +8,5 @@ hand my soul is, one thousand strikes with the sword are indeed easier
 [for me] than dying on the bed.
 
 > 1ـ إنَّ أكْرَمَ المَوتِ القَتْلُ، والَّذي نَفْسي بِيَدِهِ لألْفُ
-<blockquote dir="rtl">
-  <p>
-ضَرْبَة بِالسَّيْفِ أهْوَنُ (عَلَيَّ) مِنْ ميتَة عَلَى الفِراشِ.
-  </p>
-</blockquote>
-
+> ضَرْبَة بِالسَّيْفِ أهْوَنُ (عَلَيَّ) مِنْ ميتَة عَلَى الفِراشِ.
 

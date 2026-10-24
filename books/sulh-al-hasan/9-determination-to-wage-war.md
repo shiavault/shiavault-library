@@ -739,4 +739,3 @@ al Imama wa al-Siyasa, p. 151.
 
 [^16]: Jamil Madwar, Hidarat al-Islam fi dar al-Salam.
 
-

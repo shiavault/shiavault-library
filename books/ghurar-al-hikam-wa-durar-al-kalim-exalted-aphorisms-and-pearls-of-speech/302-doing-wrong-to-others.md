@@ -8,11 +8,7 @@ and verily the one who hurts others will surely be thrown into hell
 because of his wrongs.
 
 > 1ـ إيّاكَ وَ الإساءَةَ، فَإنَّها خُلْقُ اللِّئامِ، وَإنَّ المُسِيءَ
-<blockquote dir="rtl">
-  <p>
-لَمُتَرَدّ في جَهَنَّمَ بِإساءَتِهِ.
-  </p>
-</blockquote>
+> لَمُتَرَدّ في جَهَنَّمَ بِإساءَتِهِ.
 
 2. Verily if you do wrong [to others] then you are only debasing and
 harming yourself.
@@ -49,15 +45,10 @@ progress.
 person who does him a favour will be denied favours [in the future].
 
 > 9ـ لا تُسِيْ إلى مَنْ أحْسَنَ إلَيْكَ، فَمَنْ أساءَ إلى مَنْ أحْسَنَ
-<blockquote dir="rtl">
-  <p>
-إلَيْهِ مُنِعَ الإحْسانُ.
-  </p>
-</blockquote>
+> إلَيْهِ مُنِعَ الإحْسانُ.
 
 10. Whoever wrongs his [own] family, no hope [of any goodness] can be
 attached to him.
 
 > 10ـ مَنْ أساءَ إلى أهْلِهِ لَمْ يَتَّصِلْ بِهِ تَأْميلٌ.
-
 

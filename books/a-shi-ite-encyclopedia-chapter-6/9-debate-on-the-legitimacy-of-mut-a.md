@@ -137,4 +137,3 @@ offer three arguments to prove their point: other Quranic verses, the
 sermon of Umar banning Mut'a, and the Hadith transmitted by some
 Companions. The Shia, in turn, reject each of the arguments:
 
-

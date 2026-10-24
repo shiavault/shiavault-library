@@ -21,7 +21,6 @@ Sura Mursalat (those Sent Forth) (no.77 (verses 41-50)
 
 (50) فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
 
-
 41."The righteous are amidst shades and fountains (of Heaven) ,"
 
 42. And fruits such as they desire.
@@ -45,7 +44,6 @@ are sinners
 
 50. (If they do not believe in Holy Qur'an) then what statement, after
 that, will they believe in?
-
 
 **Commentary:
 What statement will they believe in, if they do not believe in Holy
@@ -209,7 +207,5 @@ of sin.?
 O Lord! Set us in the Bliss of the Righteous among those who will be
 highly regarded at Your Feast.
 
-
 **The End of Sura Mursalat (Those sent Forth)**
-
 

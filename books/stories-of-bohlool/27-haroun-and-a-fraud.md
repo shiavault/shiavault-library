@@ -59,4 +59,3 @@ rooster weighs more than a ton.'“
 
 Haroun Rashid laughed a lot at Bahlool's story and praised him.
 
-

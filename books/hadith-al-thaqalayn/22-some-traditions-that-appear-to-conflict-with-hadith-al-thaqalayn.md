@@ -9,12 +9,8 @@ al-Thaqalayn* be accepted as such, it contradicts some traditions of the
 Prophet (S). One of these traditions, which he claims to be *sahih*, is
 as follows:
 
-<blockquote dir="rtl">
-  <p>
-عليكم بسني وسنة الخلفاء الراشدين المهديين من بعدي تمسكوا بها وعضوا
-عليها بالنواجد.
-  </p>
-</blockquote>
+> عليكم بسني وسنة الخلفاء الراشدين المهديين من بعدي تمسكوا بها وعضوا
+> عليها بالنواجد.
 
 Adhere to my sunnah and the sunnah of the rightly-guided successors
 after me. Hold on to it and cling on to it stubbornly.
@@ -109,11 +105,7 @@ Tradition n.2
 Thereafter, the author deals with another tradition ascribed to the
 Prophet (S) which too Shah ‘Abd al-Aziz claims to be *sahih:*
 
-<blockquote dir="rtl">
-  <p>
-خدوا شطر دينكم عن هذه الحميراء.
-  </p>
-</blockquote>
+> خدوا شطر دينكم عن هذه الحميراء.
 
 Take part of your religion from this Humayra' (i.e. ‘A'ishah).
 
@@ -143,11 +135,7 @@ Another tradition mentioned by Shah ‘Abd al-Aziz to contend the import
 of *Hadith al-Thaqalayn* is the following one ascribed to the Prophet
 (S):
 
-<blockquote dir="rtl">
-  <p>
-اهتدوا بهدي عمار.
-  </p>
-</blockquote>
+> اهتدوا بهدي عمار.
 
 Seek guidance with the guidance of ‘Ammar.
 
@@ -156,12 +144,8 @@ forward to contest the import of *Hadith al-Thaqalayn,* for ‘Ammar
 himself was one of the staunch followers *(shi’ah)* of ‘Ali (A) and had
 been instructed by the Prophet (S) to obey and follow ‘Ali (A):
 
-<blockquote dir="rtl">
-  <p>
-يا عمار, إن عليا لا يزيلك عن هدى, يا عمار إن طاعة علي طاعتي وطاعتي من
-طاعة الله عز وجل.
-  </p>
-</blockquote>
+> يا عمار, إن عليا لا يزيلك عن هدى, يا عمار إن طاعة علي طاعتي وطاعتي من
+> طاعة الله عز وجل.
 
 [The Prophet (S) said to ‘Ammar:] O ‘Ammar, ‘Ali will not divert you
 from guidance. O ‘Ammar, obedience to ‘Ali is obedience to me, and
@@ -230,19 +214,11 @@ Tradition n.4
 Sayyid Hamid Husayn then goes on to deal with some other narrations
 ascribed to the Prophet (S) and cited by Shah ‘Abd al-Aziz, which are:
 
-<blockquote dir="rtl">
-  <p>
-وتمسكوا بعهد ابن أم عبد.
-  </p>
-</blockquote>
+> وتمسكوا بعهد ابن أم عبد.
 
 Hold on to the covenant of Ibn Umm ‘Abd (i.e. ‘Abd Allah ibn Mas’ud).
 
-<blockquote dir="rtl">
-  <p>
-رضيت لكم ما رضي به ابن أم عبد.
-  </p>
-</blockquote>
+> رضيت لكم ما رضي به ابن أم عبد.
 
 That which Ibn Umm ‘Abd approves of is approved for you by me.
 
@@ -266,11 +242,7 @@ Tradition n.5
 
 Another tradition advanced in this context by Shah ‘Abd al-Aziz is:
 
-<blockquote dir="rtl">
-  <p>
-وأعلمكم بالحلال والحرام معاذ بن جبل.
-  </p>
-</blockquote>
+> وأعلمكم بالحلال والحرام معاذ بن جبل.
 
 Mu’adh ibn Jabal is the most knowledgeable among you regarding *halal*
 and *haram.*
@@ -319,11 +291,7 @@ Shah ‘Abd al-Aziz advances another tradition ascribed to the Prophet (S)
 in this context for which he claims a degree of prevalence *(shuhrah)*
 nearing *tawatur:*
 
-<blockquote dir="rtl">
-  <p>
-اقتدوا بالذين من بعدي أبي بكر وعمر.
-  </p>
-</blockquote>
+> اقتدوا بالذين من بعدي أبي بكر وعمر.
 
 Follow those who will come after me, Abu Bakr and ‘Umar.
 
@@ -375,12 +343,8 @@ Tradition n.7
 Shah ‘Abd al-Aziz cites another narration known as *Hadith al-­Nujum*
 ascribed to the Prophet (S) in support of his argument:
 
-<blockquote dir="rtl">
-  <p>
-إن أصحابي بمنزلة النجوم في السماء, فأيها أخذتم به اهتديتم, و اختلاف
-أصحابي لكم رحمة.
-  </p>
-</blockquote>
+> إن أصحابي بمنزلة النجوم في السماء, فأيها أخذتم به اهتديتم, و اختلاف
+> أصحابي لكم رحمة.
 
 Verily, my Companions are like the stars *(nujum)* in the sky; whichever
 of them you follow, you shall be guided rightly. The disagreement of my
@@ -488,12 +452,8 @@ prohibit the Ummah from following the Companions. According to one
 recorded by al-Asimi in *Zayn al-fata fi tafsir Surat Hal Ata,* MS., the
 Prophet (S) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-يكون من أصحابي أحداث بعدي (يعني الفتنة كانت بينهم), فيغفرها الله لهم
-لسابقتهم, إن اقتدى بهم قوم من بعدهم كبهم الله في نار جهنم.
-  </p>
-</blockquote>
+> يكون من أصحابي أحداث بعدي (يعني الفتنة كانت بينهم), فيغفرها الله لهم
+> لسابقتهم, إن اقتدى بهم قوم من بعدهم كبهم الله في نار جهنم.
 
 There will be innovations perpetrated by my Companions after me (i.e.
 the *fitnah* that occurred amongst them). God shall forgive them due to
@@ -639,5 +599,4 @@ al-jannah.
 
 [^7]: Here the author has given several instances of violation of the
 Sunnah by Mu\`awiyah ibn Abi Sufyan.
-
 

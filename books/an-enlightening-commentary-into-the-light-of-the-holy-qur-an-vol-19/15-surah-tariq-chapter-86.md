@@ -8,11 +8,7 @@ Surah Tariq, Chapter 86
 Contents of the Surah
 ---------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
@@ -58,73 +54,29 @@ by action.
 Surah Tariq, Verses 1-10
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 ***In The Name of Allah, The Beneficent, The Merciful***
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءِ وَالطَّارِقِ
-  </p>
-</blockquote>
+> وَالسَّمَاءِ وَالطَّارِقِ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا أَدْرَاكَ مَا الطَّارِقُ
-  </p>
-</blockquote>
+> وَمَا أَدْرَاكَ مَا الطَّارِقُ
 
-<blockquote dir="rtl">
-  <p>
-النَّجْمُ الثَّاقِبُ
-  </p>
-</blockquote>
+> النَّجْمُ الثَّاقِبُ
 
-<blockquote dir="rtl">
-  <p>
-إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ
-  </p>
-</blockquote>
+> إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ
 
-<blockquote dir="rtl">
-  <p>
-فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ
-  </p>
-</blockquote>
+> فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ
 
-<blockquote dir="rtl">
-  <p>
-خُلِقَ مِنْ مَاءٍ دَافِقٍ
-  </p>
-</blockquote>
+> خُلِقَ مِنْ مَاءٍ دَافِقٍ
 
-<blockquote dir="rtl">
-  <p>
-يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
-  </p>
-</blockquote>
+> يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ
-  </p>
-</blockquote>
+> إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ
 
-<blockquote dir="rtl">
-  <p>
-يَوْمَ تُبْلَى السَّرَائِرُ
-  </p>
-</blockquote>
+> يَوْمَ تُبْلَى السَّرَائِرُ
 
-<blockquote dir="rtl">
-  <p>
-فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ
-  </p>
-</blockquote>
+> فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ
 
 ***1. "By the Sky and the Night-visitant (therein)"***  
 ***2. "And what will explain to thee what the Night-visitant is?"***  
@@ -436,47 +388,19 @@ safe from torments will be pure belief and good deeds.
 Surah Tariq, Verses 11-17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَاءِ ذَاتِ الرَّجْعِ
-  </p>
-</blockquote>
+> وَالسَّمَاءِ ذَاتِ الرَّجْعِ
 
-<blockquote dir="rtl">
-  <p>
-وَالْأَرْضِ ذَاتِ الصَّدْعِ
-  </p>
-</blockquote>
+> وَالْأَرْضِ ذَاتِ الصَّدْعِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُ لَقَوْلٌ فَصْلٌ
-  </p>
-</blockquote>
+> إِنَّهُ لَقَوْلٌ فَصْلٌ
 
-<blockquote dir="rtl">
-  <p>
-وَمَا هُوَ بِالْهَزْلِ
-  </p>
-</blockquote>
+> وَمَا هُوَ بِالْهَزْلِ
 
-<blockquote dir="rtl">
-  <p>
-إِنَّهُمْ يَكِيدُونَ كَيْدًا
-  </p>
-</blockquote>
+> إِنَّهُمْ يَكِيدُونَ كَيْدًا
 
-<blockquote dir="rtl">
-  <p>
-وَأَكِيدُ كَيْدًا
-  </p>
-</blockquote>
+> وَأَكِيدُ كَيْدًا
 
-<blockquote dir="rtl">
-  <p>
-فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
-  </p>
-</blockquote>
+> فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
 
 ***11. “By the rain giving heaven, (the returning rain),”***  
 ***12. “And by the earth splitting (with plants):"***  
@@ -711,5 +635,4 @@ in Durr-al-manthur, vol. 6, p. 336.
 [^8]: 'Sahih-i-Tarmathi’ and 'Sunan-i-Darami’ based on the quotation of
 'Ruh-al-Ma'ani, The Commentary, vol. 3, p. 100 and 'Tafsir-i-Maraqi,
 vol. 30, p. 118.
-
 

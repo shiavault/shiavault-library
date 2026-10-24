@@ -35,5 +35,3 @@ The ayat in question has also used in the second meaning or the first
 and since in those meanings there can be many creators it is correct to
 state that He is the best of Creators.
 
-
-

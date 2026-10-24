@@ -36,10 +36,8 @@ students. And so he developed &: expanded the pure Islam of hazrat
 prophet(P.B.U.H.) &: Hazrat ali(A.S) which was hidden amongst &: behind
 the curtains of Islam of bani ommayaids.
 
-<p dir="rtl">
 اربعون حديثا عن  الامام جعفر الصادق عليه السلام
 -----------------------------------------------
-</p>
 
 1- وَ أَمّا وَجهُ الحَرامِ مِنَ الوِلايَةِ: فَوِلايَةُ الوالیِ الجائِرِ،
 وَوِلايَةِ، الرَّئيسِ مِنهُم وَ اتباعِ الوالیِ فَمَن دُونَهُ مِن وُلاةِ
@@ -651,5 +649,4 @@ Allah. (WASAIL U SHAI VOL 12, P 23)
 40. Our intercession &. mediation will not be won &. attained by that
 person who depreciates &. undervalues the services (prayers a muslim
 offers five times a bay.)[^12]
-
 

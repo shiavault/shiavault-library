@@ -1656,4 +1656,3 @@ others.
 
 [^38]: The Rights of Women in Islam, Murtaza Mutahheri.
 
-

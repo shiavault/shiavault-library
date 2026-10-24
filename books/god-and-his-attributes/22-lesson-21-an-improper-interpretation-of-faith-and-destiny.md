@@ -266,4 +266,3 @@ to observe in the natural realm.
 
 [^2]: Safinat al-Bihar, I, p.488.
 
-

@@ -762,4 +762,3 @@ Members of the Prophet’s household and that of the caliphs of Bani
 Ummayah was quite open to the observation of the people, it brought the
 Shia ideology closer to their hearts.
 
-

@@ -490,4 +490,3 @@ without respect for divine law. All comes to a head in the proclamation
 of divine judgment. These five great principles of true faith are the
 core of the Gospel.
 
-

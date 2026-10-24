@@ -1,24 +1,16 @@
 Right n. 39: The Right of Him Who Seeks Your Advice
 ===================================================
 
-<blockquote dir="rtl">
-  <p>
-حق المستشير
-  </p>
-</blockquote>
+> حق المستشير
 
-<blockquote dir="rtl">
-  <p>
-وَأمّا حَقُّ المُسْتَشِيرِ، فَإنْ حَضَرَكَ لَهُ وَجْهُ رَأْىٍ جَهَدْتَ
-لَهُ فِي النَّصِيحَةِ، وَأَشَرْتَ عَلَيهِ بمَا تَعْلَمُ أَنَّكَ لَوْ
-كُنْتَ مَكَانهُ عَمِلْتَ بهِ، وَذَلِكَ لِيَكُنْ مِنْكَ فِي رَحْمَةٍ
-وَلِينٍ، فَإنَّ اللِّينَ يُؤْنِسُ الْوَحْشَةَ وَإنَّ الْغِلْظَ يُوحِشُ
-مَوضِعَ الأنْسِ. وَإنْ لَمْ يَحْضُرْكَ لَهُ رَأيٌ وَعَرَفْتَ لَهُ مَنْ
-تثِقُ برَأيِهِ وَترْضَى بهِ لِنَفْسِكَ دَلَلْتَهُ عَلَيْهِ
-وَأَرْشَدتَهُ إلَيْهِ، فَكُنْتَ لَمْ تَألُهُ خَيرًا وَلَمْ تَدَّخِرْهُ
-نُصْحاً. ولا حَوْلَ ولا قُوَّةَ إلا باللهِ.
-  </p>
-</blockquote>
+> وَأمّا حَقُّ المُسْتَشِيرِ، فَإنْ حَضَرَكَ لَهُ وَجْهُ رَأْىٍ جَهَدْتَ
+> لَهُ فِي النَّصِيحَةِ، وَأَشَرْتَ عَلَيهِ بمَا تَعْلَمُ أَنَّكَ لَوْ
+> كُنْتَ مَكَانهُ عَمِلْتَ بهِ، وَذَلِكَ لِيَكُنْ مِنْكَ فِي رَحْمَةٍ
+> وَلِينٍ، فَإنَّ اللِّينَ يُؤْنِسُ الْوَحْشَةَ وَإنَّ الْغِلْظَ يُوحِشُ
+> مَوضِعَ الأنْسِ. وَإنْ لَمْ يَحْضُرْكَ لَهُ رَأيٌ وَعَرَفْتَ لَهُ مَنْ
+> تثِقُ برَأيِهِ وَترْضَى بهِ لِنَفْسِكَ دَلَلْتَهُ عَلَيْهِ
+> وَأَرْشَدتَهُ إلَيْهِ، فَكُنْتَ لَمْ تَألُهُ خَيرًا وَلَمْ تَدَّخِرْهُ
+> نُصْحاً. ولا حَوْلَ ولا قُوَّةَ إلا باللهِ.
 
 **And the right of him who seeks your advice is that you should exert
 all efforts to advise him if you can provide him with a good opinion,
@@ -79,14 +71,10 @@ Consultation as Viewed by the Holy Qur’an
 
 Consider the following verse from the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-فَبِمَا رَحْمَةٍ مِّنَ اللّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ
-الْقَلْبِ لاَنفَضُّواْ مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ
-لَهُمْ وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى
-اللّهِ إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ
-  </p>
-</blockquote>
+> فَبِمَا رَحْمَةٍ مِّنَ اللّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ
+> الْقَلْبِ لاَنفَضُّواْ مِنْ حَوْلِكَ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ
+> لَهُمْ وَشَاوِرْهُمْ فِي الأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى
+> اللّهِ إِنَّ اللّهَ يُحِبُّ الْمُتَوَكِّلِينَ
 
 ***“It is part of the Mercy of God that thou dost deal gently with them
 Wert thou severe or harsh-hearted, they would have broken away from
@@ -118,12 +106,8 @@ agreed with him.
 
 We also read in the Holy Qur’an:
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ
-وَأَمْرُهُمْ شُورَى بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
-  </p>
-</blockquote>
+> وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ
+> وَأَمْرُهُمْ شُورَى بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
 
 ***“Those who hearken to their Lord, and establish regular Prayer; who
 (conduct) their affairs by mutual Consultation; who spend out of what We
@@ -138,37 +122,25 @@ Consultation as Viewed in the Traditions
 There are many traditions about consultation from the life of the
 Prophet and the Immaculate Imams . The Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-ما شَقَى عَبدٌ قَطُّ بمَشُورَةٍ وَلا سَعِدَ بِاسْتِغْناءِ رأيٍ.
-  </p>
-</blockquote>
+> ما شَقَى عَبدٌ قَطُّ بمَشُورَةٍ وَلا سَعِدَ بِاسْتِغْناءِ رأيٍ.
 
 *“No one has ever been wretched after consultation, and no one has
 become prosperous through being satisfied with his own opinion.”*[^1]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-مَن اسْتَبَدَّ بِرأيِهِ هَلَكَ وَمَن شاوَرَ الرّجالَ شَارَكَهُم في
-عُقولِهِم.
-  </p>
-</blockquote>
+> مَن اسْتَبَدَّ بِرأيِهِ هَلَكَ وَمَن شاوَرَ الرّجالَ شَارَكَهُم في
+> عُقولِهِم.
 
 *“One who only follows his own opinion will perish, but one who consults
 people shares with them in their intellect.”*[^2]
 
 The Noble Prophet said:
 
-<blockquote dir="rtl">
-  <p>
-إذَا كانَ خِيارُكُم أُمَرائَكُم وأغْنِياؤكُم سُمَحائَكُم وأمْرُكُم
-شُورى بَينَكُم فَظَهْرُ الأرْضِ خَيرٌ لَكُم مِن بَطْنِها، وإذا كَانَ
-أُمَراؤكُم شِرارَكُم وأغْنِياؤكُم بُخَلائَكُم وَلم يَكُن أمْرُكُم
-شورَى بَينَكُم فَبَطْنُ الأرضِ خَيرٌ لكُم مِن ظَهرِها.
-  </p>
-</blockquote>
+> إذَا كانَ خِيارُكُم أُمَرائَكُم وأغْنِياؤكُم سُمَحائَكُم وأمْرُكُم
+> شُورى بَينَكُم فَظَهْرُ الأرْضِ خَيرٌ لَكُم مِن بَطْنِها، وإذا كَانَ
+> أُمَراؤكُم شِرارَكُم وأغْنِياؤكُم بُخَلائَكُم وَلم يَكُن أمْرُكُم
+> شورَى بَينَكُم فَبَطْنُ الأرضِ خَيرٌ لكُم مِن ظَهرِها.
 
 *“If your good people are your rulers, your rich ones are generous, and
 your affairs are carried out in consultation with each other, then the
@@ -179,14 +151,10 @@ earth is better for you than being on it.”*[^3]
 
 Imam Kazim said:
 
-<blockquote dir="rtl">
-  <p>
-يا هشامُ! مجَالَسَةُ أهْلِ الدّينِ شَرَفُ الدّنيا وَالآخِرَةِ
-وَمُشَاوَرَةُ العاقِلِ النّاصِحِ يُمْنٌ وَبَرَكةٌ وَرُشْدٌ وَتوفِيقٌ
-مِن اللهِ، فإذَا أشارَ عَلَيكَ العاقِلُ النّاصِحُ فإيّاكَ وَالخِلافَ،
-فإنَّ في ذلِكَ العَطَبَ.
-  </p>
-</blockquote>
+> يا هشامُ! مجَالَسَةُ أهْلِ الدّينِ شَرَفُ الدّنيا وَالآخِرَةِ
+> وَمُشَاوَرَةُ العاقِلِ النّاصِحِ يُمْنٌ وَبَرَكةٌ وَرُشْدٌ وَتوفِيقٌ
+> مِن اللهِ، فإذَا أشارَ عَلَيكَ العاقِلُ النّاصِحُ فإيّاكَ وَالخِلافَ،
+> فإنَّ في ذلِكَ العَطَبَ.
 
 *“O Hisham! Associating with people of religion is nobility in this
 world and the Hereafter. Consulting with an intelligent, sincere advisor
@@ -204,11 +172,7 @@ here.
  Imam Sadiq quoted on the authority of his Noble father that the Prophet
 of God was asked: “What does ‘Hazm’ mean?” He replied:
 
-<blockquote dir="rtl">
-  <p>
-مُشاوَرَةُ ذَوي الرّأيِ واتِّباعُهُم.
-  </p>
-</blockquote>
+> مُشاوَرَةُ ذَوي الرّأيِ واتِّباعُهُم.
 
 *“Consulting with those who are well-informed and following their
 advice.”*[^5]
@@ -216,11 +180,7 @@ advice.”*[^5]
 Imam Sadiq said that one of the recommendations of the Prophet to Imam
 Ali was:
 
-<blockquote dir="rtl">
-  <p>
-لا مُظاهَرَةَ أوْثَقُ مِن المُشاوَرَةِ ولا عقْلَ كالتَّدبِيرِ.
-  </p>
-</blockquote>
+> لا مُظاهَرَةَ أوْثَقُ مِن المُشاوَرَةِ ولا عقْلَ كالتَّدبِيرِ.
 
 *“There is no aid more reliable than consultation, and there is no
 intellect like pondering over the affairs.”*[^6]
@@ -228,45 +188,29 @@ intellect like pondering over the affairs.”*[^6]
 Imam Baqir said: “There are four lines in the Torah the first of which
 is as follows:
 
-<blockquote dir="rtl">
-  <p>
-مَن لا يَسْتَشِرْ يَنْدَمْ.
-  </p>
-</blockquote>
+> مَن لا يَسْتَشِرْ يَنْدَمْ.
 
 *“One who does not seek advice regarding his affairs will regret
 it.”*[^7]
 
 Imam Ali said:
 
-<blockquote dir="rtl">
-  <p>
-لا ظَهيرَ كَالمُشاوَرَةِ.
-  </p>
-</blockquote>
+> لا ظَهيرَ كَالمُشاوَرَةِ.
 
 *“There is no aid like consultation.”*[^8]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إستَشِرْ في أمْرِكَ الّذينَ يخْشَوْنَ رَبَّهُم.
-  </p>
-</blockquote>
+> إستَشِرْ في أمْرِكَ الّذينَ يخْشَوْنَ رَبَّهُم.
 
 *“In your affairs, only consult with those people who are fearful of
 God.”* [^9]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-اسْتَشِرِ العاقِلَ مِن الرّجالِ فإنَّه لا يأمُرُ إلا بِخَيرٍ، وإيّاكَ
-والخِلافَ فإنَّ مُخالَفَةَ الوَرِعِ العاقِلِ مَفْسَدَةٌ في الدّينِ
-والدّنيا.
-  </p>
-</blockquote>
+> اسْتَشِرِ العاقِلَ مِن الرّجالِ فإنَّه لا يأمُرُ إلا بِخَيرٍ، وإيّاكَ
+> والخِلافَ فإنَّ مُخالَفَةَ الوَرِعِ العاقِلِ مَفْسَدَةٌ في الدّينِ
+> والدّنيا.
 
 *“Consult with men who are intelligent, since they will only advise you
 to do good. Beware of opposing (their) advice, for opposing the
@@ -275,15 +219,11 @@ world.”*[^10]
 
 Imam Sadiq said:
 
-<blockquote dir="rtl">
-  <p>
-إنَّ المَشورَةَ لا تَكونُ إلاّ بحُدودِها وإلاّ كانَت مَضَرَّتهُا عَلى
-المُستَشِيرِ أكْثرَ مِن مَنفَعَتِها لهُ: فأوَّلهُا أنْ يَكونَ الّذي
-تَشاوَرَ عاقِلاً، وَالثّانيةُ أنْ يَكونَ حُرّاً مُتَديّناً،
-والثّالِثَةُ أنْ يكونَ صَديقاً مُؤاخِياً، والرّابِعةُ أنْ تُطلِعَهُ
-عَلى سِرِّكَ فَيَكونُ عِلمُهُ بِه كَعِلمِكَ بِنفْسِكَ.
-  </p>
-</blockquote>
+> إنَّ المَشورَةَ لا تَكونُ إلاّ بحُدودِها وإلاّ كانَت مَضَرَّتهُا عَلى
+> المُستَشِيرِ أكْثرَ مِن مَنفَعَتِها لهُ: فأوَّلهُا أنْ يَكونَ الّذي
+> تَشاوَرَ عاقِلاً، وَالثّانيةُ أنْ يَكونَ حُرّاً مُتَديّناً،
+> والثّالِثَةُ أنْ يكونَ صَديقاً مُؤاخِياً، والرّابِعةُ أنْ تُطلِعَهُ
+> عَلى سِرِّكَ فَيَكونُ عِلمُهُ بِه كَعِلمِكَ بِنفْسِكَ.
 
 *“Consultation should be carried out within its limits, otherwise it
 will be more harmful than beneficial to the one seeking advice. Firstly,
@@ -301,13 +241,9 @@ trustworthy and who wish us well. Consulting with some people might
 cause us harm and deprivation. The Commander of the Faithful in his
 letter to Malik al-Ashtar tells us whom not to consult with:
 
-<blockquote dir="rtl">
-  <p>
-لا تُدخِلَنَّ في مَشورَتِكَ بخِيلاً يَعدِلُ بكَ عَن الفَضْلِ
-وَيَعِدُكَ الفَقْرَ، ولا جَباناً يُضَعِّفُكَ عَن الأمورِ ولا حَريصاً
-يُزَيِّن لكَ الشَّرَهَ بالجَورِ.
-  </p>
-</blockquote>
+> لا تُدخِلَنَّ في مَشورَتِكَ بخِيلاً يَعدِلُ بكَ عَن الفَضْلِ
+> وَيَعِدُكَ الفَقْرَ، ولا جَباناً يُضَعِّفُكَ عَن الأمورِ ولا حَريصاً
+> يُزَيِّن لكَ الشَّرَهَ بالجَورِ.
 
 *“Do not include in your consultations a miser who turns you away from
 generosity and threatens you with poverty, or a coward who renders you
@@ -345,5 +281,4 @@ trust his advice yourself.”
 [^11]: Ibid.
 
 [^12]: Nahjul Balaghah, Fayz al-Islam, letter no.53.
-
 

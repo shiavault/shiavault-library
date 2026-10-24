@@ -144,4 +144,3 @@ structures. The only valid explanation given the intelligent nature of
 the messages contained in the DNA is that an intelligent designer was
 involved. We call him Allah, the God.
 
-

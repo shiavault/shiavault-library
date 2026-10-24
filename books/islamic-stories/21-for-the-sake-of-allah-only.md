@@ -90,4 +90,3 @@ but not impossible. This can be done by constant thinking and true
 understanding of the aim of our life. We have to understand what Allah
 really wants from us.
 
-

@@ -272,4 +272,3 @@ doing may be to impress others, or they may distract one from doing
 something more important, or they may cause him to be conceited and
 arrogant, or they may cause the soul to dislike the main Path...
 
-

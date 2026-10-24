@@ -182,4 +182,3 @@ another research that may show Mulla Sadra’s answer to these objections.
 The present research can provide the main key for solving those
 problems.
 
-

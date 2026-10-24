@@ -228,4 +228,3 @@ Imams is considered binding, and new research, study and expression of
 views is regarded as impermissible, there appears to be little hope of
 any effective change.
 
-

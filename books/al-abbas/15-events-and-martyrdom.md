@@ -1943,4 +1943,3 @@ name
 
 [^40]: Abu-Turab is one of the names of Imam ‘Ali Amir ul-Muminin
 
-

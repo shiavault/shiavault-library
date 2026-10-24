@@ -506,4 +506,3 @@ hadith From Sunni and Shia sources.
 
 [^5]: see footnote above abpout the Al-Ghadir encyclodpedia.
 
-

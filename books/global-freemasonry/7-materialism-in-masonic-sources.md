@@ -114,7 +114,6 @@ intention is to impose their philosophy on people. When they maintain
 that they are determined to do this despite the people, we see that they
 are not tolerant, but in possession of a totalitarian world-view.
 
-
 **II. DENIAL OF THE EXISTENCE OF SPIRIT AND OF THE HEREAFTER**
 
 As a part of their materialist beliefs, Masons do not accept the
@@ -281,7 +280,6 @@ writings contain ideas still more curious than anything found among the
 writings of materialists. When we look at these writings, we see clearly
 that behind the materialist philosophy lies the "worship of matter."
 
-
 **MASONIC MATERIALISM: THE DIVINIZATION OF MATTER**
 
 It is necessary to understand clearly what the materialist philosophy
@@ -426,5 +424,4 @@ In the next chapter we will take a closer look to the theory of
 evolution from Darwin's time to modern evolutionist propaganda, and we
 will discover the secret relationship of Masonry to this greatest
 scientific error of all time.
-
 

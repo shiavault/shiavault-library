@@ -372,4 +372,3 @@ hypothetical syllogism; opposed to naqid al-muqaddam (denial of the
 antecedent) which is a form of logical fallacy. See also mughalatah raf‘
 al-muqaddam.
 
-

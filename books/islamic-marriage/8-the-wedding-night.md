@@ -10,14 +10,10 @@ around the room.
  Then he should perform *wuzu* and pray two *rak’at* *sunnat* prayer and
 then recite the following *du’a:*
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ ارْزُقْنِىْ اِلْفَهَا وَ وُدَّهَا وَ رِضَاهَابىِْ وَ
-اَرْضِنِىْ بِهَا وَ اَجْمَعْ بَيْنَنَا بِاَحْسَنِ اِجْتِمَاعٍ وَ
-اَنَسِ اِيْتِلاَفٍ فَاِنَّكَ تُحِبُّ الْحَلاَلَ وَ تُكْرِهُ
-الْحَرَامَ.
-  </p>
-</blockquote>
+> اَللّهُمَّ ارْزُقْنِىْ اِلْفَهَا وَ وُدَّهَا وَ رِضَاهَابىِْ وَ
+> اَرْضِنِىْ بِهَا وَ اَجْمَعْ بَيْنَنَا بِاَحْسَنِ اِجْتِمَاعٍ وَ
+> اَنَسِ اِيْتِلاَفٍ فَاِنَّكَ تُحِبُّ الْحَلاَلَ وَ تُكْرِهُ
+> الْحَرَامَ.
 
 Allahummar zuqni ilfahaa wa wuddaha wa rizaaha bi; warz”ini biha,
 wa-ajma’ baynana bi ah’sane ijtimaa’in wa anasi i-tilafin; fa innaka
@@ -33,14 +29,10 @@ prayer.
 bride’s forehead and pray the following *du’a* while facing the
 *qiblah*.
 
-<blockquote dir="rtl">
-  <p>
-اَللّهُمَّ بِاَمَانَتِكَ اَخَذْتُهَا وَ بِكَلِمَاتِكَ
-اِسْتَحْلَلْتُهَا فَاِنْ قَضَيْتَ لِىْ مِنْهَا وَلَدًا فَاجْعَلْهُ
-مُبَارَكًا تَقِيًّا مِّنْ شِيْعَةِ آلِ مُحَمَّدٍ وَّ لاَ تَجْعَلْ
-لِلشَّيْطَانِ فِيْهِ شِرْكًا وَّ لاَ نَصِيْبًا.
-  </p>
-</blockquote>
+> اَللّهُمَّ بِاَمَانَتِكَ اَخَذْتُهَا وَ بِكَلِمَاتِكَ
+> اِسْتَحْلَلْتُهَا فَاِنْ قَضَيْتَ لِىْ مِنْهَا وَلَدًا فَاجْعَلْهُ
+> مُبَارَكًا تَقِيًّا مِّنْ شِيْعَةِ آلِ مُحَمَّدٍ وَّ لاَ تَجْعَلْ
+> لِلشَّيْطَانِ فِيْهِ شِرْكًا وَّ لاَ نَصِيْبًا.
 
 Allahumma bi amaanatika akhadhtuha wa bi kalimaatika is-tah’laltuha. Fa
 in qaz’ayta li minha waladan, faj-’alhu mubaarakan taqiyyan min Shi’ati
@@ -61,5 +53,4 @@ with others.
 [^1]: Wasa’il ul-Shi’a, vol. 14, p. 62
 
 [^2]: Al-’Urwah. p. 624.
-
 

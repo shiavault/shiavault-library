@@ -53,4 +53,3 @@ and so are their sins, and to pro­long my life-span, to increase my
 sus­tenance, and to grant me a dutiful son, for You can do whatever You
 will, and You are aware of everything."
 
-

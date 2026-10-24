@@ -241,4 +241,3 @@ delicious and pleasing foods as sustenance. This is God, your Lord.***
 
 [^1]: Kifayat al-Muwahhidin, I, p.442.
 
-

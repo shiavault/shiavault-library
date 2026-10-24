@@ -977,4 +977,3 @@ therefore, besides its cognitive value, is further indicative of the
 aspiration to realize this essential unity of mankind as a fact in life
 by demolishing all barriers which stand between man and man.
 
-

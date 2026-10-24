@@ -18,51 +18,22 @@ that has one or more letters added to its root, for example: **أکرَمَ**
 which stems from the different vowel signs given to the second root
 letter of the preterite and aorist tenses.
 
-<blockquote dir="rtl">
-  <p>
-فَعَلَ یَفعِلُ مثل جَلَسَ یَجلِسُ
-  </p>
-</blockquote>
+> فَعَلَ یَفعِلُ مثل جَلَسَ یَجلِسُ
 
-<blockquote dir="rtl">
-  <p>
-فَعَلَ یَفعُلُ مثل نَصَرَ یَنصُرُ
-  </p>
-</blockquote>
+> فَعَلَ یَفعُلُ مثل نَصَرَ یَنصُرُ
 
-<blockquote dir="rtl">
-  <p>
-فَعَلَ یَفعَلُ مثل فَتَحَ یَفتَحُ
-  </p>
-</blockquote>
+> فَعَلَ یَفعَلُ مثل فَتَحَ یَفتَحُ
 
-<blockquote dir="rtl">
-  <p>
-فَعِلَ عَفعَلُ مثل عَلِمَ یَعلَمُ
-  </p>
-</blockquote>
+> فَعِلَ عَفعَلُ مثل عَلِمَ یَعلَمُ
 
-<blockquote dir="rtl">
-  <p>
-فَعِلَ یَفعِلُ مثل حَسِبَ یَحسِبُ
-  </p>
-</blockquote>
+> فَعِلَ یَفعِلُ مثل حَسِبَ یَحسِبُ
 
-<blockquote dir="rtl">
-  <p>
-فَعُلَ یَفعُلُ مثل کَرُمَ یَکرُمُ
-  </p>
-</blockquote>
+> فَعُلَ یَفعُلُ مثل کَرُمَ یَکرُمُ
 
 There is no way to know the form of a certain verb other than looking it
 up in a dictionary.
 
 17. There is one form of quadriliteral verbs without increase letters:
 
-<blockquote dir="rtl">
-  <p>
-فَعلَلَ یُفَعلِلَ مثل دَحرَجَ یُدَحرِجُ
-  </p>
-</blockquote>
-
+> فَعلَلَ یُفَعلِلَ مثل دَحرَجَ یُدَحرِجُ
 

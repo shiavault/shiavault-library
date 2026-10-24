@@ -115,4 +115,3 @@ independent of experience. Thus the method adopted by theological
 realism in demonstrating its propositions is ultimately the same method
 by which we prove all scientific truths and laws.
 
-

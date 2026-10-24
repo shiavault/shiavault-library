@@ -4,13 +4,9 @@ Section 4: The Mission of Abraham, Lot, Shu‘ayb and Moses
 Surah Al-‘Ankabut - Verse 31
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّا جَآءَتْ رُسُلُنَآ إِبْرَاهِيمَ بِالْبُشْرَي قَالُوا إِنَّا
-مُهْلِكُوا أَهْلِ هَذِهِ الْقَرْيَةِ إِنَّ أَهْلَهَا كَانُوا
-ظَالِمِينَ
-  </p>
-</blockquote>
+> وَلَمَّا جَآءَتْ رُسُلُنَآ إِبْرَاهِيمَ بِالْبُشْرَي قَالُوا إِنَّا
+> مُهْلِكُوا أَهْلِ هَذِهِ الْقَرْيَةِ إِنَّ أَهْلَهَا كَانُوا
+> ظَالِمِينَ
 
 ***31. “And when Our messengers came to Abraham with the glad tidings
 (of a son unto him), they said: ‘Verily we are going to destroy the
@@ -57,13 +53,9 @@ crossed that land.
 Surah Al-‘Ankabut - Verse 32
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-قَالَ إِنَّ فِيهَا لُوطاً قَالُوا نَحْنُ أَعْلَمُ بِمَن فِيهَا
-لَنُنَجّـِيَنَّهُ وَأَهْلَهُ إِلاَّ امْرَأَتَهُ كَانَتْ مِنَ
-الْغَابِرِينَ
-  </p>
-</blockquote>
+> قَالَ إِنَّ فِيهَا لُوطاً قَالُوا نَحْنُ أَعْلَمُ بِمَن فِيهَا
+> لَنُنَجّـِيَنَّهُ وَأَهْلَهُ إِلاَّ امْرَأَتَهُ كَانَتْ مِنَ
+> الْغَابِرِينَ
 
 ***32. “Said (Abraham to the messenger angels): ‘Verily Lot is in it.’
 They said: ‘We know very well who is in it; we shall certainly deliver
@@ -155,13 +147,9 @@ assured more. (Be careful)
 Surah Al-‘Ankabut - Verse 33
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطاً سِيءَ بِهِمْ وَضَاقَ بِهِمْ
-ذَرْعاً وَقَالُوا لاَ تَخَفْ وَلاَ تَحْزَنْ إِنَّا مُنَجُّوكَ
-وَأَهْلَكَ إِلاَّ امْرَأَتَكَ كَانَتْ مِنَ الْغَابِرِينَ
-  </p>
-</blockquote>
+> وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطاً سِيءَ بِهِمْ وَضَاقَ بِهِمْ
+> ذَرْعاً وَقَالُوا لاَ تَخَفْ وَلاَ تَحْزَنْ إِنَّا مُنَجُّوكَ
+> وَأَهْلَكَ إِلاَّ امْرَأَتَكَ كَانَتْ مِنَ الْغَابِرِينَ
 
 ***33. “And when Our messengers came to Lot he was grieved on their
 account and distressed for them; but they said: ‘Fear not, nor grieve,
@@ -261,18 +249,10 @@ deliverance of Lot and his family.
 Surah Al-‘Ankabut - Verses 34-35
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّا مُنزِلُونَ عَلَي أَهْلِ هَذِهِ الْقَرْيَةِ رِجْزاً مِنَ
-السَّمَآءِ بِمَا كَانُوا يَفْسُقُونَ
-  </p>
-</blockquote>
+> إِنَّا مُنزِلُونَ عَلَي أَهْلِ هَذِهِ الْقَرْيَةِ رِجْزاً مِنَ
+> السَّمَآءِ بِمَا كَانُوا يَفْسُقُونَ
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةً بَيّـِنَةً لِقَوْمٍ يَعْقِلُونَ
-  </p>
-</blockquote>
+> وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةً بَيّـِنَةً لِقَوْمٍ يَعْقِلُونَ
 
 ***34. “Verily We are bringing down upon the people of this town a
 punishment from heaven for what they were transgressing.”***  
@@ -342,13 +322,9 @@ not ponder?”***
 Surah Al-‘Ankabut - Verse 36
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَإِلَي مَدْيَنَ أَخَاهُمْ شُعَيْباً فَقَالَ يَاقَوْمِ اعْبُدُوا
-اللَّهَ وَارْجُوا الْيَوْمَ الاَخِرَ وَلاَ تَعْثَوْا فِي الاَرْضِ
-مُفْسِدِينَ
-  </p>
-</blockquote>
+> وَإِلَي مَدْيَنَ أَخَاهُمْ شُعَيْباً فَقَالَ يَاقَوْمِ اعْبُدُوا
+> اللَّهَ وَارْجُوا الْيَوْمَ الاَخِرَ وَلاَ تَعْثَوْا فِي الاَرْضِ
+> مُفْسِدِينَ
 
 ***36. “And to Madyan (We did send) their brother Shu‘ayb, so he said:
 ‘O my people! Worship Allah, and look you for the Last Day; and do not
@@ -414,12 +390,8 @@ word /mufsidin/ after it is for emphasis.
 Surah Al-‘Ankabut - Verse 37
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكَذَّبُوهُ فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا فِي دَارِهِمْ
-جَاثِمِينَ
-  </p>
-</blockquote>
+> فَكَذَّبُوهُ فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا فِي دَارِهِمْ
+> جَاثِمِينَ
 
 ***37. “But they belied him, so the earth quake seized them, and they
 lay (deed) in their abodes motionless by the morning.”***
@@ -451,13 +423,9 @@ fatal earthquake, they lost their own lives.
 Surah Al-‘Ankabut - Verse 38
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَعَاداً وَثَمُودَاْ وَقَد تَبَيَّنَ لَكُم مِن مَسَاكِنِهِمْ وَزَيَّنَ
-لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ
-وَكَانُوا مُسْتَبْصِرِينَ
-  </p>
-</blockquote>
+> وَعَاداً وَثَمُودَاْ وَقَد تَبَيَّنَ لَكُم مِن مَسَاكِنِهِمْ وَزَيَّنَ
+> لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ
+> وَكَانُوا مُسْتَبْصِرِينَ
 
 ***38. “And (We destroyed) ‘Ad and Thamud, and it has become clear to
 you from their dwelling-places, and Satan made their deeds fair-seeming
@@ -524,12 +492,8 @@ their deeds, and this was their own compensation.
 Surah Al-‘Ankabut - Verse 39
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ وَلَقَدْ جَآءَهُم مُّوسَي
-بِالْبَيّـِنَاتِ فَاسْتَكْبَرُوا فِي الاَرْضِ وَمَا كَانُوا سَابِقِينَ
-  </p>
-</blockquote>
+> وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ وَلَقَدْ جَآءَهُم مُّوسَي
+> بِالْبَيّـِنَاتِ فَاسْتَكْبَرُوا فِي الاَرْضِ وَمَا كَانُوا سَابِقِينَ
 
 ***39. “And (We destroyed) Korah, and Pharaoh, and Haman; and indeed
 Moses came unto them with clear proofs, but they behaved haughtily in
@@ -583,14 +547,10 @@ abasement and humiliation at the same moment He decided.
 Surah Al-‘Ankabut - Verse 40
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَكُلاًّ أَخَذْنَا بِذَنْبِهِ فَمِنْهُم مَنْ أَرْسَلْنَا عَلَيْهِ
-حَاصِباً وَمِنْهُم مَّنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُم مَّنْ
-خَسَفْنَا بِهِ الاَرْضَ وَمِنْهُم مَنْ أَغْرَقْنَا وَمَا كَانَ اللَّهُ
-لِيَظْلِمَهُمْ وَلَكِن كَانُوا اَنفُسَهُمْ يَظْلِمُونَ
-  </p>
-</blockquote>
+> فَكُلاًّ أَخَذْنَا بِذَنْبِهِ فَمِنْهُم مَنْ أَرْسَلْنَا عَلَيْهِ
+> حَاصِباً وَمِنْهُم مَّنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُم مَّنْ
+> خَسَفْنَا بِهِ الاَرْضَ وَمِنْهُم مَنْ أَغْرَقْنَا وَمَا كَانَ اللَّهُ
+> لِيَظْلِمَهُمْ وَلَكِن كَانُوا اَنفُسَهُمْ يَظْلِمُونَ
 
 ***40. “So each (one of them) We seized (in punishment) for his sin; and
 of them, against some We sent a violent tornado (with showers of
@@ -682,13 +642,9 @@ Qur’an.
 Surah Al-‘Ankabut - Verse 41
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَآءَ كَمَثَلِ
-الْعَنكَبُوتِ اتَّخَذَتْ بَيْتاً وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ
-الْعَنكَبُوتِ لَوْكَانُوا يَعْلَمُونَ
-  </p>
-</blockquote>
+> مَثَلُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَآءَ كَمَثَلِ
+> الْعَنكَبُوتِ اتَّخَذَتْ بَيْتاً وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ
+> الْعَنكَبُوتِ لَوْكَانُوا يَعْلَمُونَ
 
 ***41. “The parable of those who take guardians besides Allah is as the
 parable of the spider that makes for itself a house but verily the
@@ -819,19 +775,11 @@ web of spider from the point of weakness.
 Surah Al-‘Ankabut - Verses 42-43
 --------------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِ مِن شَيْءٍ وَهُوَ
-الْعَزِيزُ الْحَكِيمُ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِ مِن شَيْءٍ وَهُوَ
+> الْعَزِيزُ الْحَكِيمُ
 
-<blockquote dir="rtl">
-  <p>
-وَتِلْكَ الاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَآ إِلاَّ
-الْعَالِمُونَ
-  </p>
-</blockquote>
+> وَتِلْكَ الاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَآ إِلاَّ
+> الْعَالِمُونَ
 
 ***42. “Verily, Allah knows whatever thing they call upon besides Him;
 and He is the Mighty, the Wise.”***  
@@ -903,12 +851,8 @@ elegance and elaborations of the Qur’an.
 Surah Al-‘Ankabut - Verse 44
 ----------------------------
 
-<blockquote dir="rtl">
-  <p>
-خَلَقَ اللَّهُ السَّمَاوَاتِ وَالاَرْضَ بِالْحَقّ‌ِ إِنَّ فِي ذَلِكَ
-لاَيَةً لِلْمُؤْمِنِينَ
-  </p>
-</blockquote>
+> خَلَقَ اللَّهُ السَّمَاوَاتِ وَالاَرْضَ بِالْحَقّ‌ِ إِنَّ فِي ذَلِكَ
+> لاَيَةً لِلْمُؤْمِنِينَ
 
 ***44. “Allah created the heavens and the earth with truth, verily in
 this is a sign for the believers.”***
@@ -971,5 +915,4 @@ Al-Qasas, and Surah Al-’A‘raf.
 [^8]: The current Surah, verse 41
 
 [^9]: The verses under discussion, No. 43
-
 

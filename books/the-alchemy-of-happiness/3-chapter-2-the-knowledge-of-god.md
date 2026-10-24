@@ -282,4 +282,3 @@ Creator and that they are His servants.
 3. Al Lauh Al Mahfuz.
 4. Koran, chap. vi.
 
-

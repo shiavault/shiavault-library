@@ -412,4 +412,3 @@ knowledge itself.
 For more detailed discussion of this subject one should study the
 philosophical works.
 
-

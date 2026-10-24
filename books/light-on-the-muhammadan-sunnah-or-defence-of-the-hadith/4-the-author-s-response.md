@@ -10,8 +10,7 @@ lordship, though being the honourable scholar and renowned critic, has
 never put his hand on anything liable to be censured, from among the
 book’s topics – that all being critical – which no book had ever
 contained, except some points that seemed for him “mere slips for which
-he is not to blame” as he expressed himself in his foreword. <span
-id="_anchor_1"></span>1
+he is not to blame” as he expressed himself in his foreword. 1
 
 On the margin of these slips I give the following brief comment, hoping
 it win his pleasure and approval.
@@ -26,7 +25,7 @@ Umar. As soon as I read what he stated in this book on this issue, I
 became rest assured regarding what I referred to in my book, thanking
 Allah for finding the doubt raised in the mind of Dr. Taha Husayn
 concerning the intrigue to kill Umar, be vanished, praise be to God.
-<span id="_anchor_2"></span> 2
+ 2
 
 The second slip, claiming that I have gone too far in interpretation
 when saying that Abu Hurayrah has embraced Islam only for filling his

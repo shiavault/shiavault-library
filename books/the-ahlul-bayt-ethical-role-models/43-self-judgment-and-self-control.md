@@ -212,4 +212,3 @@ Quoted from al-Mufid’s Alikhtissas.
 
 [^15]: Quoted from al-Wafi; part 3 page 168 (as quoted from al- Kafi).
 
-

@@ -101,4 +101,3 @@ subalternation (tahkim, q.v.), (2) contradiction (tanaqud, q.v.), (3)
 contrariety (tadadd, q.v.). and (4) subcontrariety (al-tadadd
 al-tahtani, q.v.). See also al-qadiyatan al-mutaqabilatan.
 
-

@@ -43,13 +43,8 @@ and will be saved, whereas if you desire the [attainment of this] world,
 you will be at a loss and will be destroyed.
 
 > 9ـ إنَّكُمْ إنْ رَغِبْتُمْ إلَى اللّهِ غَنِمْتُمْ ونَجَوْتُمْ وإنْ
-<blockquote dir="rtl">
-  <p>
-رَغِبْتُمْ إلَى الدُّنيا خَسِرْتُمْ وهَلَكْتُمْ.
-  </p>
-</blockquote>
+> رَغِبْتُمْ إلَى الدُّنيا خَسِرْتُمْ وهَلَكْتُمْ.
 
 [^1]: Some commentators say that this means that just by wishing that
 someone remain alive, a link is established with that person.
-
 

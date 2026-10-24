@@ -175,4 +175,3 @@ Translated AJ/071205.
 [^2]: This elderly scholar still leads prayer at the Kamar zarrin mosque
 in Isfahan, and conducts akhlaq classes at this mosque on Sundays.
 
-

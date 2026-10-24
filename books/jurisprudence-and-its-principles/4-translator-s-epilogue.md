@@ -58,4 +58,3 @@ forgotten and many of the words and commands of God, the Prophet and
 Imams would no longer be acted upon because they would no longer be
 understood
 
-

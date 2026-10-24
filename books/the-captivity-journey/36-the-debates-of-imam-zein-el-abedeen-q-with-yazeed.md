@@ -149,4 +149,3 @@ were all on the wrong path, declaring war against the Messenger of Allah
 (P) and his progeny (R), and the Hussain renaissance is only a
 continuation for that confrontation and defiance.
 
-

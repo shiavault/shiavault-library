@@ -539,4 +539,3 @@ poison without honey. Both the parties i.e. Ali and his descendants as
 well as Mu\`awiya, Yazid and other Bani Umayyah had their respective
 supporters.
 
-

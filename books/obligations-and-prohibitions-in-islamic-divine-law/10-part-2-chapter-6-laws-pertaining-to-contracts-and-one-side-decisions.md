@@ -276,4 +276,3 @@ trusts of non-Muslims. However, it is controversial issue.
 shared property or right before obtaining the permission of the other
 partners, except in necessary cases.
 
-

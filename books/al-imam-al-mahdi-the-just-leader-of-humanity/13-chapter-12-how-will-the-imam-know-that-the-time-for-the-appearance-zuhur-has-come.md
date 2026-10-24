@@ -973,4 +973,3 @@ al-idariyya and Hafiz Abu 'Ubayd, Kitab al-amwal
 
 [^22]: Nahj al-balagha, Speech No. 39
 
-

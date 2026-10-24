@@ -74,4 +74,3 @@ desert and gathered some bristles and motes and brought them.[^4]
 
 [^4]: Kuhl al-Basar, p. 68.
 
-

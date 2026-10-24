@@ -8,4 +8,3 @@ sacrifice for our sins. Let us investigate this topic from the Bible,
 and find out whether Jesus was sent to be crucified and whether he was
 crucified at all.
 
-

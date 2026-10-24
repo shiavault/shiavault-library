@@ -37,7 +37,6 @@ is certain that if Muslims take lessons from the contents of the verses
 of this Sura and apply them in their own lives, besides their worldly
 advantages, they will enjoy of all these rewards in the Hereafter.
 
-
 **Section one : Responsibilities of the Guardians of Orphans Commentary
 : Verse 1**
 
@@ -45,9 +44,7 @@ Respect for the ties of relationship - Care of orphans' property
 Conditional Polygamy Permitted - Warning against embezzlement of
 orphans' property.
 
-<p dir="rtl">
 بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 (1) يَا أَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمُ الَّذِي خَلَقَكُم مِّن
 نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالاً
@@ -118,5 +115,4 @@ the verse, it says:
 
 That is, He sees all your deeds and intentions and, by the way, He
 protects you against unpleasant adventures.
-
 

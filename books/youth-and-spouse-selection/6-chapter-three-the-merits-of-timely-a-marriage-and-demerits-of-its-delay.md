@@ -67,12 +67,8 @@ careless and he got involved in casting wanton glances.
 
 And he continued on until:
 
-<blockquote dir="rtl">
-  <p>
-ثم كان عاقبة الذين أساءوا السوءي أن كذبوا بآيات الله و كانوا بها
-يستهزئون.
-  </p>
-</blockquote>
+> ثم كان عاقبة الذين أساءوا السوءي أن كذبوا بآيات الله و كانوا بها
+> يستهزئون.
 
 ***“Then evil was the end of those who did evil, because they rejected
 the communication of Allah and used to mock them.”(30:10)***
@@ -130,29 +126,13 @@ The Prophet (S) has a very worthy and valuable saying in this regard
 which is an argument and authority for all, leaving back no room for
 lame excuses and unnecessary questioning.
 
-<blockquote dir="rtl">
-  <p>
-أيها الناس! إن جبرئيل أتاني عن اللطيف الخبير فقال: إن الأبكار بمنزلة
-  </p>
-</blockquote>
+> أيها الناس! إن جبرئيل أتاني عن اللطيف الخبير فقال: إن الأبكار بمنزلة
 
-<blockquote dir="rtl">
-  <p>
-الثمر علي الشجر, إن أدرك ثمارها فلم تجتن أفسدته الشمس و نثرته
-  </p>
-</blockquote>
+> الثمر علي الشجر, إن أدرك ثمارها فلم تجتن أفسدته الشمس و نثرته
 
-<blockquote dir="rtl">
-  <p>
-الرياح. و كذلك الأبكار إذا أدركن ما تدركن ما تدرك النساء فليس لهن دواء
-  </p>
-</blockquote>
+> الرياح. و كذلك الأبكار إذا أدركن ما تدركن ما تدرك النساء فليس لهن دواء
 
-<blockquote dir="rtl">
-  <p>
-الاالبعولة و إلا لم يؤمن عليهن الفساد لأنهن بشر
-  </p>
-</blockquote>
+> الاالبعولة و إلا لم يؤمن عليهن الفساد لأنهن بشر
 
 *“Oh people! Gabriel descended down to me from The All-Kind, All-knowing
 Allah and said: 'Virgins are like the fruits of trees. When they become
@@ -251,11 +231,7 @@ One of the best and worthiest benefits of marriage is the safety of man
 from this dirt, corruption and deviation. When I used to read this
 hadith of Imam Ja’far as-Sadiq (a.s), I would be amazed:
 
-<blockquote dir="rtl">
-  <p>
-من سعادة المرء أن لاتطمث ابنته بيته.
-  </p>
-</blockquote>
+> من سعادة المرء أن لاتطمث ابنته بيته.
 
 *“One of the prosperous matters that a man may get is that his daughter
 does not menstruate in his house”.*
@@ -348,12 +324,8 @@ is the best and most effective method of remedy.
 
 Here we present the verse of the Qur’an that says:
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنفُسِكُمْ أَزْوَاجًا
-لِتَسْكُنُوا إِلَيْهَا …
-  </p>
-</blockquote>
+> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنفُسِكُمْ أَزْوَاجًا
+> لِتَسْكُنُوا إِلَيْهَا …
 
 ***“And one of His signs is that he created mates for you from
 yourselves that you may find rest in them...”(30:21)***
@@ -373,5 +345,4 @@ Never neglect this point.
 
 [^1]: Wasail al-Shia, vol14, p 39. Tabreerul Waseela (Imam Khomeini)
 vol.2, chapter of Nikah (marriage).
-
 

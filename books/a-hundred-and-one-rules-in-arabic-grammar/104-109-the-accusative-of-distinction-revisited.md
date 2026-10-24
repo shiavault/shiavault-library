@@ -7,9 +7,7 @@ should always be followed by an idefinite noun
 in the accusative case. Arab Grammarians called this noun**التمييز
 العَدَدي** "The Distinction of Number." Consider the following example:
 
-<p dir="rtl">
 **قـَرأتُ عِشرينَ** کِتاباً **خِلالَ العُطلـَةِ.**
-</p>
 
 I read twenty books during the break.
 
@@ -21,19 +19,14 @@ indefinite singular noun/verbal noun which has the meaning of "with
 respect to, in terms of, as to," and thus involves some level of
 comparison.
 
-<p dir="rtl">
 **هي أکثرُ الطلابِ** استِعداداً **للأمتحانِ.**
-</p>
 
 As to preparedness for the exam, she is the most among all students.
 
 However, it is not necessary that the accusative of distinction is
 limited to expressing comparison. Consider the following sentence:
 
-<p dir="rtl">
 **مَلأتِ الأمُّ البَيتَ سَعادَةً.**
-</p>
 
 The mother filled the house (with) happiness.
-
 

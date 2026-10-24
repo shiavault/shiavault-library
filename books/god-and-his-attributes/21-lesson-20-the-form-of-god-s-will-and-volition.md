@@ -393,4 +393,3 @@ Even the sins he commits do not rob him of hope. But in a world where
 the ray of faith has been extinguished, pain and sickness lose their
 meaning and become ugly jokes, a form of sinister ridicule."
 
-

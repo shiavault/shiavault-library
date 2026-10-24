@@ -31,12 +31,8 @@ lived with them for many years and was their leader.
 
 1. Addressing the people of Kufah, Imam ‘Ali (as) said,
 
-<blockquote dir="rtl">
-  <p>
-«الحمد لله على ما قضی من أمر، وقدّر من فعل، وعلى ابتلائي بکم أيتها
-الفرقة التي اذا امرتُ لم تطع، واذا دعوت لم تُجب...»
-  </p>
-</blockquote>
+> «الحمد لله على ما قضی من أمر، وقدّر من فعل، وعلى ابتلائي بکم أيتها
+> الفرقة التي اذا امرتُ لم تطع، واذا دعوت لم تُجب...»
 
 “I praise Allah for what He willed and destined. And I praise Him for my
 entanglement in the troubles created for me by you, the people of Kufah.
@@ -45,12 +41,8 @@ Whenever I called out to you, you did not respond positively…”[^1]
 
 2. Elsewhere, Imam ‘Ali (as) says,
 
-<blockquote dir="rtl">
-  <p>
-«... لقد کنت أمس أميراً فاصبحتُ اليوم مأموراً، وکنت أمس ناهياً فأصبحت
-اليوم منهيّاً، وقد أحببتم البقاء وليس لي أن أحملکم على ما تکرهون...»
-  </p>
-</blockquote>
+> «... لقد کنت أمس أميراً فاصبحتُ اليوم مأموراً، وکنت أمس ناهياً فأصبحت
+> اليوم منهيّاً، وقد أحببتم البقاء وليس لي أن أحملکم على ما تکرهون...»
 
 “Until yesterday, I was a leader and commander, but today I am the one
 who is being commanded. Until yesterday, I was the one preventing people
@@ -64,16 +56,12 @@ land, Imam ‘Ali (as) went on the pulpit and, while complaining about his
 companions’ shortcomings and opposition, addressed the people in this
 way,
 
-<blockquote dir="rtl">
-  <p>
-«... انبئت بسراً قد اطلع اليمن وانّي والله لأظنّ انّ هولاء القوم
-سيدالون منکم باجتماعهم على باطلهم وتفرّقکم عن حقّکم وبمعصيتکم امامکم
-في الحقّ وطاعتهم امامهم في الباطل، وبأدائهم الى صاحبهم وخيانتکم،
-وبصلاحهم في بلادهم وفسادکم، فلو ائتمنت احدکم علی قعب لخشيت ان يذهب
-بعلاقته، اللّهم انّي قد مللتهم وملّوني وسئمتهم وسئموني، فابدلني بهم
-خيراًً منهم، وأبدلهم بي شرّاً منّي...»
-  </p>
-</blockquote>
+> «... انبئت بسراً قد اطلع اليمن وانّي والله لأظنّ انّ هولاء القوم
+> سيدالون منکم باجتماعهم على باطلهم وتفرّقکم عن حقّکم وبمعصيتکم امامکم
+> في الحقّ وطاعتهم امامهم في الباطل، وبأدائهم الى صاحبهم وخيانتکم،
+> وبصلاحهم في بلادهم وفسادکم، فلو ائتمنت احدکم علی قعب لخشيت ان يذهب
+> بعلاقته، اللّهم انّي قد مللتهم وملّوني وسئمتهم وسئموني، فابدلني بهم
+> خيراًً منهم، وأبدلهم بي شرّاً منّي...»
 
 “News has reached me that Busr ibn Artat has gained predominance over
 Yemen. I swear upon Allah! I knew that very soon the people of Sham were
@@ -98,13 +86,9 @@ one…”[^3]
 
 4. When he was inviting the people to move towards Sham, he said,
 
-<blockquote dir="rtl">
-  <p>
-«أفٍّ لکم لقد سئمت عتابکم، أرضيتم بالحيوة الدنيا من الآخرة عوضاً،
-وبالذلّ من العزّ خلفاً، اذا دعوتکم الي جهاد عدوّکم دارت أعينکم کأنّکم
-من الموت في غمرة ومن الذهول في سکرة...»
-  </p>
-</blockquote>
+> «أفٍّ لکم لقد سئمت عتابکم، أرضيتم بالحيوة الدنيا من الآخرة عوضاً،
+> وبالذلّ من العزّ خلفاً، اذا دعوتکم الي جهاد عدوّکم دارت أعينکم کأنّکم
+> من الموت في غمرة ومن الذهول في سکرة...»
 
 “Damnation and curses be upon you O people of Kufah! I am tired of
 reproaching you. Do you prefer the transient life of this world over the
@@ -423,11 +407,7 @@ did not show any kind of respect for them.
 
 It is for this reason that that the Holy Prophet (S) said,
 
-<blockquote dir="rtl">
-  <p>
-«الحسن والحسين امامان قاما او قعداً.»
-  </p>
-</blockquote>
+> «الحسن والحسين امامان قاما او قعداً.»
 
 “Al-Hasan and al-Husayn are *imam*s, whether they make peace or rise
 up.”[^11]
@@ -469,5 +449,4 @@ al-Talib, p. 52.
 
 [^11]: Ibn Shahr Ashub, Munaqib, vol. 3, p. 394; Bihar al-Anwar, vol.
 43, p. 291, hadith 54.
-
 

@@ -337,4 +337,3 @@ rose into wakefulness, so will another form of rising occur in a purer
 energy form without the physical matter which belongs to this little
 speck called earth.
 
-

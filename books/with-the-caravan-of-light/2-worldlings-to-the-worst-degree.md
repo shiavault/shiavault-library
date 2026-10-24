@@ -304,4 +304,3 @@ are doers of good\* (16n2s).
 If we follow the example of Imam Husayn's(a) companions we are sure to
 win God's favour.
 
-

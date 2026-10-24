@@ -65,7 +65,6 @@ pilgrims to Makkah. The act of Hajirah became so significant in her
 effort to save the life of her child who would be a prophet, that Allah
 deemed this an essential part of the Haj ritual for all times to come.
 
-
 **The Founding of the City of Makkah**
 
 Awandering tribe of the land known as Banu Jarham arrived in the
@@ -169,7 +168,6 @@ Yusuf was one of the twelve sons of Ya'qub. His mother's name was
 Raheel. He had a younger sister and a brother named Benyamin (Benjamin)
 from the same mother. Yusuf was exceptionally handsome and was very dear
 to his parents.
-
 
 **The dream of Yusuf and its interpretation by his father**
 
@@ -386,5 +384,4 @@ earth quakes. The people of Aykah were covered with darkness that
 emitted fire, destroying most living beings. None except for a handful
 of true believers survived these calamities. References: al Qur'an: Sura
 Aaraf, Hud, Hajar, Shu'ra', and Ankaboot.
-
 

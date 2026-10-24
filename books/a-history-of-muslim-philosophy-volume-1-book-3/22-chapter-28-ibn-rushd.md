@@ -1403,4 +1403,3 @@ Fouad El-Ehwany's book, Ibn Sina, Cairo, 1958, pp. 49-50.
 
 [^75]: Ibid., p.159.
 
-

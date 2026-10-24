@@ -26,13 +26,9 @@ blessed and rewarding than this act.
 
 A verse from the Holy Quran stresses on the great value of human life:
 
-<blockquote dir="rtl">
-  <p>
-مَن قَتَلَ نَفْسَا بِغَيرِْ نَفْسٍ أَوْ فَسَادٍ فىِ الْأَرْضِ
-فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَ مَنْ أَحْيَاهَا فَكَأَنَّمَا
-أَحْيَا النَّاسَ جَمِيعًا
-  </p>
-</blockquote>
+> مَن قَتَلَ نَفْسَا بِغَيرِْ نَفْسٍ أَوْ فَسَادٍ فىِ الْأَرْضِ
+> فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَ مَنْ أَحْيَاهَا فَكَأَنَّمَا
+> أَحْيَا النَّاسَ جَمِيعًا
 
 ***.....whosoever killeth a human being for other than man-slaughter or
 corruption in the earth, it shall be as if he had killed all mankind,
@@ -98,12 +94,8 @@ hamper the growth of pious and noble generations in the human race. The
 Quran says about them: *mufsid fil ardh* - their work is to spread
 mischief on the face of the earth
 
-<blockquote dir="rtl">
-  <p>
-وَ مِنَ النَّاسِ مَن يُعْجِبُكَ قَوْلُهُ فىِ الْحَيَوةِ الدُّنْيَا وَ
-يُشْهِدُ اللَّهَ عَلىَ‏ مَا فىِ قَلْبِهِ وَ هُوَ أَلَدُّ الْخِصَام
-  </p>
-</blockquote>
+> وَ مِنَ النَّاسِ مَن يُعْجِبُكَ قَوْلُهُ فىِ الْحَيَوةِ الدُّنْيَا وَ
+> يُشْهِدُ اللَّهَ عَلىَ‏ مَا فىِ قَلْبِهِ وَ هُوَ أَلَدُّ الْخِصَام
 
 ***And among the people is he whose conversation on the life of this
 world pleases you and he calls Allah to witness as to that which is in
@@ -122,12 +114,8 @@ enumerates one of their characteristics that if they are unable to usurp
 power, then they create discord in the minds of the people. But if they
 are able to attain power, then:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِذَا تَوَلىَ‏ سَعَى‏ فىِ الْأَرْضِ لِيُفْسِدَ فِيهَا وَ يُهْلِكَ
-الْحَرْثَ وَ النَّسْلَ وَ اللَّهُ لَا يحُِبُّ الْفَسَاد
-  </p>
-</blockquote>
+> وَ إِذَا تَوَلىَ‏ سَعَى‏ فىِ الْأَرْضِ لِيُفْسِدَ فِيهَا وَ يُهْلِكَ
+> الْحَرْثَ وَ النَّسْلَ وَ اللَّهُ لَا يحُِبُّ الْفَسَاد
 
 ***And when he turneth away (from thee) his effort in the land is to
 make mischief therein and to destroy the crops and the cattle; and Allah
@@ -158,13 +146,9 @@ philosopher. The world recognizes him as a philosopher of high caliber.
 He very foolishly thought it unnecessary to have a family. Even the
 Pharoah was of the same opinion. But the Quran says
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ فِرْعَوْنَ عَلَا فىِ الْأَرْضِ وَ جَعَلَ أَهْلَهَا شِيَعًا
-يَسْتَضْعِفُ طَائفَةً مِّنهُْمْ يُذَبِّحُ أَبْنَاءَهُمْ وَ يَسْتَحْىِ
-نِسَاءَهُمْ إِنَّهُ كاَنَ مِنَ الْمُفْسِدِين
-  </p>
-</blockquote>
+> إِنَّ فِرْعَوْنَ عَلَا فىِ الْأَرْضِ وَ جَعَلَ أَهْلَهَا شِيَعًا
+> يَسْتَضْعِفُ طَائفَةً مِّنهُْمْ يُذَبِّحُ أَبْنَاءَهُمْ وَ يَسْتَحْىِ
+> نِسَاءَهُمْ إِنَّهُ كاَنَ مِنَ الْمُفْسِدِين
 
 ***Lo! Pharaoh exalted himself in the earth and made its people castes.
 A tribe among them he oppressed, killing their sons and sparing their
@@ -318,5 +302,4 @@ think of your own self. God forbid you are addressed as the murderer of
 human beings! You will say that I have never committed such a crime in
 the world. He will be answered that you have killed a whole world of
 people .as you did not take care of proper upbringing of your children!
-
 

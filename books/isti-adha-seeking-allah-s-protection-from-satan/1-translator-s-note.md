@@ -5,11 +5,7 @@ In my early childhood my grandmother used to tell us that when we had
 any fear of darkness or we found ourselves in any lonely place, we
 should recite:
 
-<blockquote dir="rtl">
-  <p>
-أَعُوْذُ بِاللٌّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
-  </p>
-</blockquote>
+> أَعُوْذُ بِاللٌّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
 
 I seek refuge from Satan, the cursed one
 
@@ -18,11 +14,7 @@ if they were around, would run away. She asked us to recite this
 whenever we came out of our home, while going to school or any other
 place. She also asked us to say these words before we said:
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 In the Name of Allah, the Beneficent, the Merciful
 
@@ -50,7 +42,4 @@ must be available to as wide a group of Muslims as possible.
 Hence this translation! I pray to Allah (S.w.T.) that the translation
 gets published, gets widely circulated, and the spiritual reward (*ajr*)
 goes to the Shahīd Dastaghaib. Insha Allah (S.w.T.)!
-
-
-
 

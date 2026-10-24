@@ -1,10 +1,6 @@
 Chapter Ix
 ==========
 
-  
-
-  
-
 THE SCIENCE OF ISLAMIC JURISPRUDENCE
 ------------------------------------
 
@@ -33,10 +29,6 @@ companions.
 
 It is worth mentioning that the Shiites regard all the precepts which
 have been narrated on the authority of the Imāms of *ahl al-Bayt*,  
-
-  
-
-  
 
 peace be on them, as part of the Sunna, which is one of the sources of
 *Fatwā* or religious edict and among the concepts of Islamic legislation
@@ -75,16 +67,9 @@ become unclean except when it changes. The Imāmi jurists have given a
 religious decision on well water according to this narration (of the
 Imām) and others.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F545) Wasā'il al-Shi'a, vol. 1, p. 127.  
-  
-
-  
-
-  
 
 ### 2. Things that Invalidate *wudū*
 
@@ -125,11 +110,6 @@ ghusl* of *janāba* or *ghusl* for the Friday prayer?
 [[1]](#_F546) Al-Tahdhib, vol. 1, p. 5.  
  [[2]](#_F547) Wasā'il al-Shi'a, Chapter on *Wudū'*.  
  [[3]](#_F548) Ibid.  
-  
-
-  
-
-  
 
 He, peace be on him, replied: He should wash the uncovered part with no
 bandage to which water reaches, and leave apart from that; he should not
@@ -170,11 +150,6 @@ with washing the inward part of her hands. The meaning of
 [[1]](#_F549) Furū' al-Kāfi, vol. 1, p. 11.  
  [[2]](#_F550) Ibid., p. 10.  
  [[3]](#_F551) Man lā Yahdarahū al-Faqih, vol. 1, p. 16.  
-  
-
-  
-
-  
 
 the word *farada*  in the two traditions is that He (Allah) has ordained
 and explained (performing *wudū* in this manner*)*, and not that He has
@@ -217,11 +192,6 @@ The famous jurists believe that when *tayammum*  is performed instead of
  [[4]](#_F555) Al-'Urwat al-Withqā, Hateful Things in *Wudū'*.  
  [[5]](#_F556) Wasā'il al-Shi'a, vol. 2, p. 978. Al-Tahdhib, vol. 1, p.
 59.  
-  
-
-  
-
-  
 
 (back of) the hands, and that when it is performed instead of *ghusl*,
 then two strokes are obligatory.[[1]](#_ftn557) The narration regards
@@ -267,11 +237,6 @@ As for the skins of dead animals, they are impure. When a wet
 968.  
  [[3]](#_F559) Furū' al-Kāfi, vol. 1, p. 113. Wasā'il al-Shi'a, vol. 2,
 p. 1070.  
-  
-
-  
-
-  
 
 garment touches them, it becomes impure. Hence prayer is not permissible
 except in pure clothes.
@@ -316,11 +281,6 @@ him, who said: It is not obligatory for one to
 p. 1083.  
  [[2]](#_F561) Wasā'il al-Shi'a, vol. 2, p. 946. Furū' al-Kāfi, vol. 1,
 p. 14.  
-  
-
-  
-
-  
 
 perform *ghusl* when he touches the dead bodies of those other than man
 such as birds, animals, beasts of prey, and others, for all these things
@@ -355,19 +315,12 @@ raise (their hands) after that. Shall I confine myself to the first
 *takbir* just as they do or raise my hands in each *takbir*? Raise your
 hands in each *takbir*, he said.[[3]](#_ftn564)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F562) Wasā'il al-Shi'a, vol. 2, p. 936.  
  [[2]](#_F563) Ibid.,  p. 799.  
  [[3]](#_F564) Furū' al-Kāfi, vol. 1, p. 50. Wasā'il al-Shi'a, vol. 2,
 p. 786.  
-  
-
-  
-
-  
 
 ### 16. Prayer is the best Act of Worship
 
@@ -403,8 +356,6 @@ evening (prayer) is little, and its last timing is the disappearance of
 the red sky and the appearance of the white sky on the western
 horizon.[[5]](#_ftn569)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F565) Al-Tahdhib, vol. 1, p. 135. Wasā'il al-Shi'a, vol. 3, p.
@@ -414,11 +365,6 @@ p. 30.
  [[3]](#_F567) Al-Tahdhib, vol. 1, p. 213.  
  [[4]](#_F568) Wasā'il al-Shi'a, vol. 3, p. 90.  
  [[5]](#_F569) Furū' al-Kāfi, vol. 1, p. 77.  
-  
-
-  
-
-  
 
 The Imām reflected on the best timing of prayer, not on the obligatory
 time, for its timing and that of the night prayer last up to
@@ -458,11 +404,6 @@ supererogatory prayers *(salāt al-layl)* at the beginning of night,
  [[2]](#_F571) Wasā'il al-Shi'a.  
  [[3]](#_F572) Ibid., vol. 3, p. 68.  
  [[4]](#_F573) Minhājj al-Sālihin.  
-  
-
-  
-
-  
 
 for al-Fadl b. Shādhān transmitted from Imām al-Ridā, peace be on him,
 who said: It is permissible for the travelers and the sick to perform
@@ -492,8 +433,6 @@ to his garment). We wear silk (clothing). So I said to him: May I be
 your ransom, that is hair. If its (the animals) hair is lawful, then its
 skin is lawful, he retorted.[[4]](#_ftn577)      
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F574) Man lā Yahdarahū al-Faqih, vol. 1, p. 147.  
@@ -503,11 +442,6 @@ p. 257.
 261.  
  [[4]](#_F577) Al-Tahdhib, vol. 1, p. 242. Wasā'il al-Shi'a, vol. 3, p.
 266.  
-  
-
-  
-
-  
 
 ### 25. Performing Prayer on Roads is   Reprehensible
 
@@ -548,11 +482,6 @@ and said: It it the best thing
 
 [[1]](#_F578) Wasā'il al-Shi'a, vol. 3, p. 445.  
  [[2]](#_F579) Ibid.  
-  
-
-  
-
-  
 
 through which the need is requested from Him. The prayer wherein is
 sixty years and months better than the prayer in other than it. When he
@@ -586,8 +515,6 @@ have neither help nor power! Rather through Your help and power, O Lord,
 I seek daily bread from You, so bring it to me in
 well-being![[4]](#_ftn583)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F580) Ibid., p. 53.  
@@ -595,11 +522,6 @@ well-being![[4]](#_ftn583)
 538.  
  [[3]](#_F582) Al-Tahdhib, vol. 1, p. 324. Al-Wasā'il, vol. 3, p. 550.  
  [[4]](#_F583) Wasā'il al-Shi'a, vol. 3, p. 579.  
-  
-
-  
-
-  
 
 ### 31. Sitting between *al-Adhān* and *al-Iqāma*
 
@@ -643,11 +565,6 @@ prayers, apart from the Friday prayer, must be recited
  [[3]](#_F586) Qurb al-Isnād, p. 159. Wasā'il al-Shi'a, vol. 4, p.
 630.  
  [[4]](#_F587) Wasā'il al-Shi'a, vol. 4, p. 765.  
-  
-
-  
-
-  
 
 quietly. If he intentionally recites the suras aloud, his prayer is
 invalid; and if he recites them aloud out of forgetfulness or ignorance,
@@ -675,8 +592,6 @@ whatever verses he likes, and praying two *rakas* (in standing position)
 and recite the *taslim*; and then he recites whatever verses he likes
 after the prayer.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F588) Ibid.  
@@ -692,11 +607,6 @@ wa-rahmatu'llāhi wa-barakātu-h.*
 upon us, and upon the righteous servants of Allah. Peace be upon you
 (all), and Allah's mercy and blessing.  
  [[3]](#_F590) Al-Sarā'ir, p. 469  
-  
-
-  
-
-  
 
 ### 36. Turning the Face during Prayer
 
@@ -744,11 +654,6 @@ details.
  [[3]](#_F593) Wasā'il al-Shi'a, vol. 6, p. 455. Furū' al-Kāfi, vol. 1,
 p. 153.  
  [[4]](#_F594) Al-Tahdhib, 358.  
-  
-
-  
-
-  
 
 For example if the owner is able to regain his deposit (and one year)
 has passed, then it is due on him to pay *zakāt*. Similarly, he must pay
@@ -783,8 +688,6 @@ due.[[4]](#_ftn598) If the person has numerous items on which *zakāt* is
 payable such as the crops, the livestock, gold, and silver, he must pay
 the *zakāt* of each kind when it becomes due.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F595) Furū' al-Kāfi, vol. 1, p. 147.  
@@ -793,11 +696,6 @@ the *zakāt* of each kind when it becomes due.
 190.  
  [[4]](#_F598) Furū' al-Kāfi, vol. 1, p. 147. Wasā'il al-Shi'a, vol. 6,
 p. 213.  
-  
-
-  
-
-  
 
 ### 42. The *Fitra* on behalf of him who does not belong to the Family
 
@@ -831,17 +729,10 @@ seven times, found a treasure and took out the one-fifth of it, and
 called (the well) Zamzam when he dug it as a watering place for
 pilgrims.[[2]](#_ftn600)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F599) Man lā Yahdarahū al-Faqih, vol. 1, p. 64.  
  [[2]](#_F600) Wasā'il al-Shi'a, vol. 6, p. 345.  
-  
-
-  
-
-  
 
 ### 44. *Khums* on Treasure
 
@@ -885,12 +776,6 @@ to Imām al-Ridā, peace be on him, and asked him to
 [[1]](#_F601) Al-Maqna'a, p. 46.  
  [[2]](#_F602) Ibid. Al-Wasā'il, vol. 6, p. 375.  
 
-  
-
-  
-
-  
-
 exempt them from *khums*, and he said: I do not exempt (anyone from)
 this. You show sincere affection toward us through your tongues, while
 you deprive us of the right which Allah has apportioned to us and
@@ -930,11 +815,6 @@ successive months, feeding sixty needy ones, and
 [[1]](#_F603) Al-Maqna'a, p. 46. Al-Wasā'il, vol. 6, p. 375.  
  [[2]](#_F604) Al-Tahdhib, vol. 1, p. 4111. Man lā Yahdarahū al-Faqih,
 vol. 2, p. 121.  
-  
-
-  
-
-  
 
 compensating that day; and if he breaks the fast through a lawful thing
 such as drinking water, then he has to choose between these three
@@ -976,11 +856,6 @@ night. If he enters upon morning and has not make the intention
 
 [[1]](#_F605) Wasā'il al-Shi'a, vol. 8, p. 39.  
  [[2]](#_F606) Al-Tahdhib, vol. 1, p. 416. Al-Wasā'il, vol. 8, p. 133.  
-  
-
-  
-
-  
 
 for the travel (at night) and it seems to him (that he has not made the
 intention) after he has started the travel, then he should shorten (his
@@ -1019,8 +894,6 @@ recommendation or compensation. If it appears that it (the day) is of
 Ramadān, then it is sufficient for him, but if one fasts on it through
 the intention of Ramadān, then his fast is invalid.[[5]](#_ftn611)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F607) Al-Tahdhib, vol. 1, p. 416. Al-Wasā'il, vol. 8, p. 133.  
@@ -1029,11 +902,6 @@ the intention of Ramadān, then his fast is invalid.[[5]](#_ftn611)
  [[3]](#_F609) Furū' al-Kāfi, vol. 1, p. 198.  
  [[4]](#_F610) Al-Maqna'a, p. 48.  
  [[5]](#_F611) Minhājj al-Sālihin, Chapter on Fasting.  
-  
-
-  
-
-  
 
 ### 53. If a Fast of Ramadān is Missed
 
@@ -1069,16 +937,9 @@ month of Ramadān, then redemption is obligatory on him because he has
 neglected it, and (also) the fast because he has been
 able.[[1]](#_ftn612)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F612) Wasā'il al-Shi'a, vol. 7, pp. 246-247.  
-  
-
-  
-
-  
 
 If one misses the month of Ramadān or some of it because of an illness
 and the excuse continues to the next Ramadān, he should not fast it but
@@ -1113,8 +974,6 @@ great Īds; none of them stands except through its companion, that His
 beautiful favor toward you may be perfect. Then he mentioned a great
 deal of the excellence of al-Ghadir until he said:
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F613) Al-Imām al-Khū'i, Minhājj al-Sālihin. As for Imām
@@ -1123,11 +982,6 @@ apart from redemption, and he said: "If it is possible to add travel to
 illness, then it is a strong precaution to perform both compensation and
 redemption."  
  [[2]](#_F614) Al-Tahdhib, vol. 1, p. 438.  
-  
-
-  
-
-  
 
 So the dirham on it (al-Ghadir) equals one hundred dirhams, and the
 increase is from Allah, the Exalted; and the fast on this day is one of
@@ -1167,11 +1021,6 @@ and celebrating a festival on it. The
 
 [[1]](#_F615) Musbāh al-Mutahajjidin, p. 524. Al-Wasā'il, vol. 7, p.
 326.  
-  
-
-  
-
-  
 
 Imāmi Sect has been successful in commemorating it, holding literary
 festivals in which wonderful poems and marvelous words are read in
@@ -1208,8 +1057,6 @@ Mūsā b. Ubayd, and Yunus b. Abd al-Rahmān; he ordered us to perform the
 *hajj* on his behalf; there was one hundred dinars and we (divided it)
 among us.[[3]](#_ftn618)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F616) Man lā Yahdarahū al-Faqih, vol. 1, p. 77. Wasā'il
@@ -1217,11 +1064,6 @@ al-Shi'a.
  [[2]](#_F617) Furū' al-Kāfi, vol. 1, p. 250. Al-Wasā'il vol. 8, p.
 117.  
  [[3]](#_F618) Al-Tahdhib, vol. 2, p. 261. Al-Wasā'il, vol. 8, p. 147.  
-  
-
-  
-
-  
 
 The jurists have depended on this narration and the like regarding that
 it is permissible for living one to hire someone else to perform the
@@ -1257,17 +1099,10 @@ All those who pass through the appointed time and place *(al-miqāt)* and
 intend to go to Holy Mecca should perform *al-ihram*, just as it has
 been indicated by this narration and others.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F619) Wasā'il al-Shi'a, vol. 8, p. 232.  
  [[2]](#_F620) Furū' al-Kāfi, vol. 1, p. 324.  
-  
-
-  
-
-  
 
 ### 61. How *Umrat al-Tamattu* is Performed
 
@@ -1307,19 +1142,12 @@ al-Ridā, peace be on him, saying: I asked him (al-Ridā) about
 *al-muhrim* (one who has entered the state of ritual consecration): Can
 *al-muhrim* buy and sell female slaves? Yes, he replied.[[3]](#_ftn623)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F621) Al-Tahdhib, vol. 1, p. 471. Al-Wasā'il, vol. 1, p. 31.  
  [[2]](#_F622) Wasā'il al-Shi'a, vol. 9, p. 57.  
  [[3]](#_F623) Furū' al-Kāfi, vol. 1, p. 267. Wasā'il al-Shi'a, vol. 9,
 p. 92.  
-  
-
-  
-
-  
 
 It is prohibited for *al-muhrim* to marry a woman; likewise, it is
 prohibited for him to make the contract of marriage for those other than
@@ -1356,18 +1184,11 @@ walked in the shade while he was *muhrim*. Surely Allahs laws, O
 Mohammed, are not compared. So he who compares them to each other
 deviates from the straight path.[[3]](#_ftn626)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F624) Wasā'il al-Shi'a, vol. 9, p. 127.  
  [[2]](#_F625) Furū' al-Kāfi, vol. 1, p. 262.  
  [[3]](#_F626) Wasā'il al-Shi'a, vol. 9, p. 51.  
-  
-
-  
-
-  
 
 ### 66. Religious Expiation for killing a Bird in the Holy Shrine
 
@@ -1408,11 +1229,6 @@ all Your creatures
 [[1]](#_F627) Al-Tahdhib, vol. 1, p. 536.  
  [[2]](#_F628) Ibid.  
  [[3]](#_F629) Wasā'il al-Shi'a, vol. 9, p. 287.  
-  
-
-  
-
-  
 
 through well-being! O Most Gracious in this world and the next and Most
 Merciful in both of them! Bless Mohammed and the family of Mohammed,
@@ -1446,19 +1262,12 @@ your ransom, the sacrifices in Mecca have become expensive; is it
 sufficient for two persons to take part in a sheep? Yes, he replied and
 (it is sufficient) for seventy (persons).[[4]](#_ftn633)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F630) Ibid., p. 417.  
  [[2]](#_F631) Ibid., p. 465.  
  [[3]](#_F632) Ibid.  
  [[4]](#_F633) Ibid., vol. 10, p. 114.  
-  
-
-  
-
-  
 
 This narration concerns the recommended *hajj*. As for the obligatory
 *hajj*, one sacrifice is not sufficient except for one person, nor is it
@@ -1498,11 +1307,6 @@ undermining the religion; disdaining the just prophets and
 
 [[1]](#_F634) Ibid., p. 114. Furū' al-Kāfi, vol. 1, p. 348.  
  [[2]](#_F635) Kāmil al-Ziyārāt, p. 331. Al-Wasā'il, vol. 10, p. 273.  
-  
-
-  
-
-  
 
 Imāms; leaving helping them against the enemies who should be punished
 for their leaving professing the Lord to whom they are summoned, (and
@@ -1543,11 +1347,6 @@ among the Muslims. However, it does not
 [[1]](#_F636) Wasā'il al-Shi'a, vol. 11, p. 65.  
  [[2]](#_F637) Man lā Yahdarahū al-Faqih, vol. 2, p. 188. Wasā'il
 al-Shi'a, vol. 11, p. 75.  
-  
-
-  
-
-  
 
 concerns those who have knowledge and virtue, for they do not follow the
 manners of the ignorant.
@@ -1590,11 +1389,6 @@ him, and how the members of his household behaved toward it,
 
 [[1]](#_F638) Wasā'il al-Shi'a, vol. 1, p. 99.  
  [[2]](#_F639) Al-Tahdhib, vol. 2, p. 53.  
-  
-
-  
-
-  
 
 and he said: One-tenth and half a one-tenth is due on him who adopts
 Islam willingly; his land is left in his hand; and one-tenth and  half a
@@ -1631,19 +1425,12 @@ And he, peace be on him, said: *Al-amr bi al-marūf* and *al-nahy an
 al-munkar* are two obligatory (things) when it is possible and there is
 no fear for the soul.[[4]](#_ftn643)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F640) Wasā'il al-Shi'a, vol. 11, p. 383.  
  [[2]](#_F641) Furū' al-Kāfi, vol. 1, p. 343.  
  [[3]](#_F642) Ibid., p. 344. Wasā'il al-Shi'a, vol. 11, p. 364.  
  [[4]](#_F643) Wasā'il al-Shi'a, vol. 11, p. 402.  
-  
-
-  
-
-  
 
 Surely *al-amr bi al-marūf* and *al-nahy an al-munkar* require
 conditions of which is that there should be no fear for the soul, the
@@ -1676,19 +1463,12 @@ saying: *Al-maysar* is a game of hazard.[[3]](#_ftn646) And he, peace be
 on him, said: Surely, chess, game at dice *(nard)*, fourteen *(arbaat
 ashar)*, and all things used as gamble are *maysar*.[[4]](#_ftn647)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F644) Qurb al-Isnād, p. 115. Al-Sarā'ir, p. 469.  
  [[2]](#_F645) Wasā'il al-Shi'a, vol. 11, p. 117.  
  [[3]](#_F646) Tafsir al-'Ayyāshi, vol. 1, p. 336.  
  [[4]](#_F647) Ibid., p. 339.  
-  
-
-  
-
-  
 
 * *
 
@@ -1733,11 +1513,6 @@ option of an animals for three days; as for (the things)
  [[2]](#_F649) Al-Maqna'a, p. 31.  
  [[3]](#_F650) Furū' al-Kāfi, vol. 1, p. 359. Wasā'il al-Shi'a, vol. 12,
 p. 145.  
-  
-
-  
-
-  
 
 other than animals, (the right of option terminates) when they leave
 each other.[[1]](#_ftn651)
@@ -1774,19 +1549,12 @@ him as a slave for you. So he (al-Ridā) declared: Do not buy a free man;
 nor do buy one of the protected people, for it is not permissible for
 you (to do that).[[4]](#_ftn654)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F651) Furū' al-Kāfi, vol. 1, p. 390.  
  [[2]](#_F652) Ibid., p. 401. Wasā'il al-Shi'a, vol. 12, p. 481.  
  [[3]](#_F653) Furū' al-Kāfi, vol. 1, p. 387.  
  [[4]](#_F654) Ibid. Wasā'il al-Shi'a, vol. 13, p. 28.  
-  
-
-  
-
-  
 
 The protected people *(ahl al-dhimma)* are free, and it is not
 permissible to buy them.
@@ -1825,18 +1593,11 @@ said: He (debtor) should pay to him what he has paid to the owner of the
 debt (the creditor); he against whom the money is is free from all what
 has remained against him.[[2]](#_ftn656)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F655) Tafsir al-'Ayyāshi, vol. 1, p. 155. Wasā'il al-Shi'a, vol.
 13, p. 91.  
  [[2]](#_F656) Furū' al-Kāfi, vol. 1, p. 355.  
-  
-
-  
-
-  
 
 ### 89. The Debtor should not be oppressed
 
@@ -1873,19 +1634,12 @@ the workers wage before you let him work. If you do not specify it, he
 will not be satisfied with whatever you give to him, and this brings
 about quarrel and dispute.
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F657) Al-Tahdhib, vol. 2, p. 61. Wasā'il al-Shi'a, vol. 13, p.
 115.  
  [[2]](#_F658) Furū' al-Kāfi, vol. 1, p. 414. Wasā'il al-Shi'a, vol. 13,
 p. 245.  
-  
-
-  
-
-  
 
 ### 91. Rent does not invalidate Selling Property
 
@@ -1930,11 +1684,6 @@ a
  [[3]](#_F661) Al-Fadl b. Sahl, nicknamed Dhū al-Ri'āsatayn (the man
 with two offices) because he was in the charge of the military and civil
 administration under the Caliph al-Ma'mūn.  
-  
-
-  
-
-  
 
 Magian ordered some of his wealth to be given to the poor. When he died,
 the judge of Nisābūr took it and divided it among the poor Muslims. So
@@ -1967,19 +1716,12 @@ will as you had been ordered, for Allah, the Exalted, says: *Whoever
 then alters it after he has heard it, the sin of it then is only upon
 those who alters it*.[[3]](#_ftn664)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F662) Furū' al-Kāfi, vol. 2, p. 238. Wasā'il al-Shi'a, vol. 13,
 p. 415.  
  [[2]](#_F663) Wasā'il al-Shi'a, vol. 13, p. 415.  
  [[3]](#_F664) Furū' al-Kāfi, vol. 2, p. 238.  
-  
-
-  
-
-  
 
 ### 95. The Orphan should take his Wealth when he becomes Adult
 
@@ -2020,11 +1762,6 @@ on the authority of al-Ridā, peace be on him, saying: I
 
 [[1]](#_F665) Wasā'il al-Shi'a, vol. 13, p. 436.  
  [[2]](#_F666) Ibid., p. 438.  
-  
-
-  
-
-  
 
 asked him (al-Ridā) about a man who ordered a man to be given a sword in
 a sheath inlaid with jewels, but the inheritors said to him: Only the
@@ -2051,13 +1788,10 @@ peace be on him, who said: The servant gains nothing more useful than a
 good wife; when he sees her, she pleases him; and when he is absent from
 her; she keeps him regarding herself and his property.[[3]](#_ftn669)
 
-  
-
 ------------------------------------------------------------------------
 
 [[1]](#_F667) Man lā Yahdarahū al-Faqih, vol. 2, p. 282.  
  [[2]](#_F668) Wasā'il al-Shi'a, vol. 13, p. 476. Man lā Yahdarahū
 al-Faqih, vol. 2, p. 282.  
  [[3]](#_F669) Wasā'il al-Shi'a, vol. 14, p. 22.  
-  
 

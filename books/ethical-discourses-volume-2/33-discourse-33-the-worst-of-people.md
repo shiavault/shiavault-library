@@ -1,15 +1,11 @@
 Discourse 33: The Worst Of People
 =================================
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، مَنْ خَافَ النَّاسُ لِسَانَهُ
-فَهُوَ مِنْ أَهْلِ النَّارِ. يَا عَلِيُّ، شَرُّ النَّاسِ مَنْ
-أَكْرَمَهُ النَّاسِ إِتِّقَاءَ شَرِّهِ. يَا عَلِيُّ، شَرُّ النَّاسِ
-مَنْ بَاعَ آخِرَتَهُ بِدُنْـيَاهُ، وَشَرٌّ مِنْ ذٌالِك مَنْ بَاعَ
-آخِرَتَهُ بِدُنْـيَا غَيْرِهِ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللٌّهِ: يَا عَلِيُّ، مَنْ خَافَ النَّاسُ لِسَانَهُ
+> فَهُوَ مِنْ أَهْلِ النَّارِ. يَا عَلِيُّ، شَرُّ النَّاسِ مَنْ
+> أَكْرَمَهُ النَّاسِ إِتِّقَاءَ شَرِّهِ. يَا عَلِيُّ، شَرُّ النَّاسِ
+> مَنْ بَاعَ آخِرَتَهُ بِدُنْـيَاهُ، وَشَرٌّ مِنْ ذٌالِك مَنْ بَاعَ
+> آخِرَتَهُ بِدُنْـيَا غَيْرِهِ.
 
 The Prophet Muhammad (S) has said, “O' ‘Ali! The person whom, others are
 scared of his tongue (what he says), shall be of the people of the hell
@@ -102,11 +98,7 @@ In this part of the saying, the Prophet (S) means to say that such a
 person sells the true life which is in the next world for the transient
 and short-lived life on Earth, even though:
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ الدَّارَ الأَخِرَةَ لَهِيَ الْحَيَوَانِ
-  </p>
-</blockquote>
+> وَإِنَّ الدَّارَ الأَخِرَةَ لَهِيَ الْحَيَوَانِ
 
 “And the life of the next world that is the (true) life…”[^3]
 
@@ -150,48 +142,32 @@ The Dangers of the Tongue in the Islamic Narrations
 
 1. The Noble Prophet of Islam (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-نَجَاتُ الْمؤْمِنِ حَفْظُ لِسَانِهِ.
-  </p>
-</blockquote>
+> نَجَاتُ الْمؤْمِنِ حَفْظُ لِسَانِهِ.
 
 “The salvation of the true believer lies in protecting his tongue.”[^4]
 
 2. Imam Ja’far b. Muhammad as-Sadiq (as) has said, “Luqman said to his
 son:
 
-<blockquote dir="rtl">
-  <p>
-يَا بُنَيَّ إِنْ كُنْتَ زَعَمْتَ أَنَّ الْكَلاَمَ مِنْ فِضَّةِ،
-فَإِنَّ السُّكُوتَ مِنْ ذَهَبٍ.
-  </p>
-</blockquote>
+> يَا بُنَيَّ إِنْ كُنْتَ زَعَمْتَ أَنَّ الْكَلاَمَ مِنْ فِضَّةِ،
+> فَإِنَّ السُّكُوتَ مِنْ ذَهَبٍ.
 
 “O' my son! If you think that speaking is silver, then you must know
 that silence is golden.”[^5]
 
 3. The Noble Prophet of Islam (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-بَلاَءُ الإِِنْسَانِ مِنَ اللِّسَانِ، وَ سَلاَمَةُ الإِنْسَانِ فِي
-حِفْظِ اللِّسَانِ.
-  </p>
-</blockquote>
+> بَلاَءُ الإِِنْسَانِ مِنَ اللِّسَانِ، وَ سَلاَمَةُ الإِنْسَانِ فِي
+> حِفْظِ اللِّسَانِ.
 
 “The tribulation of a person lies in his tongue and the protection of a
 person is in safe-guarding his tongue.”[^6]
 
 4. The final Prophet of Allah (S) said to Ibne Mas’ud:
 
-<blockquote dir="rtl">
-  <p>
-عَلَيْكَ بِحِفْظِ لِسَانِك، فَإِنَّ اللٌّهَ تَعَالـى يَقُولُ
-أَلْيَوْمَ نَخْـتِمُ عَلى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
-وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ
-  </p>
-</blockquote>
+> عَلَيْكَ بِحِفْظِ لِسَانِك، فَإِنَّ اللٌّهَ تَعَالـى يَقُولُ
+> أَلْيَوْمَ نَخْـتِمُ عَلى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ
+> وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ
 
 “I advise you to protect your tongue since surely Allah, the Most High
 has said, (On that day, We shall seal their mouths and their hands will
@@ -200,12 +176,8 @@ earned.)”[^7]
 
 5. The Commander of the Faithful, ‘Ali b. Abi Talib (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-طُوبـى لِمَنْ أَنْـفَقَ الْفَضْلَ مِنْ مَالِهِ وَ أَمْسَكَ الْفَضْلَ
-مِنْ كَلاَمِهِ.
-  </p>
-</blockquote>
+> طُوبـى لِمَنْ أَنْـفَقَ الْفَضْلَ مِنْ مَالِهِ وَ أَمْسَكَ الْفَضْلَ
+> مِنْ كَلاَمِهِ.
 
 “Glad tidings to that person who gives out goodness from his excess
 wealth and prevents himself from speaking excess words.”[^8]
@@ -213,21 +185,13 @@ wealth and prevents himself from speaking excess words.”[^8]
 6. It has been narrated from Imam Ja’far b. Muhammad as-Sadiq (as) from
 his fore-fathers (as) that the Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-زِيـنَةُ الْحَدِيثِ الصِّدْقُ.
-  </p>
-</blockquote>
+> زِيـنَةُ الْحَدِيثِ الصِّدْقُ.
 
 “The beauty of speaking is truthfulness (in speech).”[^9]
 
 7. The Messenger of Allah (S) has said:
 
-<blockquote dir="rtl">
-  <p>
-فِـتْـنَةُ اللِّسَانِ أَشَدُّ مِنْ ضَرْبِ السَّيْفِ.
-  </p>
-</blockquote>
+> فِـتْـنَةُ اللِّسَانِ أَشَدُّ مِنْ ضَرْبِ السَّيْفِ.
 
 “The tribulation of the tongue (what is spoken) is greater than the
 striking of the sword.”[^10]
@@ -235,13 +199,9 @@ striking of the sword.”[^10]
 8. It has been narrated from ‘Abdullah b. Sanan from Imam Ja’far b.
 Muhammad as-Sadiq (as) that the Messenger of Allah (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَلاَ أُنَـبِّئُكُمْ بِشِـرَارِكُمْ؟  قَالَ أَلْمَشَّاؤُونَ
-بِالنَّمِيمَةِ، أَلْمُفَرِّقُونَ بَيْنَ الأََحِبَّةِ، أَلْبَاغُونَ
-لَلْبِرَآءِ الْمَعَايِبِ.
-  </p>
-</blockquote>
+> أَلاَ أُنَـبِّئُكُمْ بِشِـرَارِكُمْ؟  قَالَ أَلْمَشَّاؤُونَ
+> بِالنَّمِيمَةِ، أَلْمُفَرِّقُونَ بَيْنَ الأََحِبَّةِ، أَلْبَاغُونَ
+> لَلْبِرَآءِ الْمَعَايِبِ.
 
 “Shall I not inform you of the worst amongst you?”  The people replied,
 “O' Prophet of Allah! Go ahead!”  The Prophet said, “It is those who: go
@@ -251,23 +211,15 @@ they commit).”[^11]
 
 9. Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِيَّاكُمْ وَالْمِزَاحَ فَإِنَّهُ يَذْهَبُ بِمَآءِ الْوَجْهِ
-وَمَهَابَةِ الرِّجَالِ.
-  </p>
-</blockquote>
+> إِيَّاكُمْ وَالْمِزَاحَ فَإِنَّهُ يَذْهَبُ بِمَآءِ الْوَجْهِ
+> وَمَهَابَةِ الرِّجَالِ.
 
 “I advise you to stay away from joking with others since this act
 removes a persons's worth and honour.”[^12]
 
 10. Imam Ja’far b. Muhammad as-Sadiq (as) has said:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ أَبْغَضَ خَلْقِ اللٌّهِ عَبْدٌ اتَّقِيِ النَّاسُ لِسَانَهُ.
-  </p>
-</blockquote>
+> إِنَّ أَبْغَضَ خَلْقِ اللٌّهِ عَبْدٌ اتَّقِيِ النَّاسُ لِسَانَهُ.
 
 “Surely the worst of creations of Allah is the servant whom other people
 are afraid of his tongue (what he says).”[^13]
@@ -331,5 +283,4 @@ pg. 373-376
 [^12]: Ibid., vol. 2, pg. 665
 
 [^13]: Ibid., vol. 2, pg. 323
-
 

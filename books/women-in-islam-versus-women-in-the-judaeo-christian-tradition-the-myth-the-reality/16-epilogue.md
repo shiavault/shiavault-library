@@ -216,4 +216,3 @@ hope this study is a step on this direction.
 
 [^1]: The Times, Nov. 18, 1993.
 
-

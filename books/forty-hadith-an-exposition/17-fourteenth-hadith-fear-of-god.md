@@ -1,23 +1,19 @@
 Fourteenth Hadith: Fear of God
 ==============================
 
-<blockquote dir="rtl">
-  <p>
-بِسَنَدي المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ ثِقَةِ الإسْلامِ
-وَعِمَادِ المُسْلِمِينَ، عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ
-بْنِ مُحَمَّدٍ، عَنْ عَلِيِّ بْنِ حَدِيدٍ، عَنْ مَنْصُورِ بْنِ
-يُونُسَ، عَنِ الحَارِثِ بْنِ المُغِيرَةِ أوْ أَبِيهِ، عَنْ أَبِي
-عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قُلْتُ لَهُ: مَا كَانَ فِي
-وَصِيَّةِ لُقْمَانَ؟ قَالَ: كَانَ فِيهَا الأعَاجِيبُ. وَكَانَ أَعْجَبَ
-ما كَانَ فِيهَا أَنْ قَالَ لإبْنِهِ: خَفِ اللهَ عَزَّ وَجَلَّ خِيفَةً
-لَوْ جِئْتَهُ بِبِرِّ الثَّقَلَيْنِ لَعَذَّبَكَ. وَارْجُ اللهَ رَجَاءً
-لَوْ جِئْتَهُ بِذُنُوبِ الثَّقَلَيْنِ لَرَحِمَكَ. ثُمَّ قَالَ أَبُو
-عَبْدِاللهِ عَلَيْهِ السَّلامُ: كَانَ أَبِي يَقُولُ: إِنَّهُ لَيْسَ
-مِنْ عَبْدٍ مُؤْمِنٍ إلا [و] فِي قَلْبِهِ نُورَانِ: نُورُ خِيفَةٍ
-وُنُورُ رَجَاءٍ، لَوْ وُزِنَ هَذَا لَمْ يَزَدْ عَلَى هَذَا وَلَوْ
-وُزِنَ هَذَا لَمْ يَزَدْ عَلَى هَذَا.
-  </p>
-</blockquote>
+> بِسَنَدي المُتَّصِلِ إِلى مُحَمَّدِ بْنِ يَعْقُوبَ ثِقَةِ الإسْلامِ
+> وَعِمَادِ المُسْلِمِينَ، عَنْ عِدَّةٍ مِنْ أَصْحَابِنَا، عَنْ أَحْمَدَ
+> بْنِ مُحَمَّدٍ، عَنْ عَلِيِّ بْنِ حَدِيدٍ، عَنْ مَنْصُورِ بْنِ
+> يُونُسَ، عَنِ الحَارِثِ بْنِ المُغِيرَةِ أوْ أَبِيهِ، عَنْ أَبِي
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قُلْتُ لَهُ: مَا كَانَ فِي
+> وَصِيَّةِ لُقْمَانَ؟ قَالَ: كَانَ فِيهَا الأعَاجِيبُ. وَكَانَ أَعْجَبَ
+> ما كَانَ فِيهَا أَنْ قَالَ لإبْنِهِ: خَفِ اللهَ عَزَّ وَجَلَّ خِيفَةً
+> لَوْ جِئْتَهُ بِبِرِّ الثَّقَلَيْنِ لَعَذَّبَكَ. وَارْجُ اللهَ رَجَاءً
+> لَوْ جِئْتَهُ بِذُنُوبِ الثَّقَلَيْنِ لَرَحِمَكَ. ثُمَّ قَالَ أَبُو
+> عَبْدِاللهِ عَلَيْهِ السَّلامُ: كَانَ أَبِي يَقُولُ: إِنَّهُ لَيْسَ
+> مِنْ عَبْدٍ مُؤْمِنٍ إلا [و] فِي قَلْبِهِ نُورَانِ: نُورُ خِيفَةٍ
+> وُنُورُ رَجَاءٍ، لَوْ وُزِنَ هَذَا لَمْ يَزَدْ عَلَى هَذَا وَلَوْ
+> وُزِنَ هَذَا لَمْ يَزَدْ عَلَى هَذَا.
 
 Thiqat al-Islam wa ‘Imad al-Muslimin Muhammad ibn Ya’qub (al-Kulayni):
 From a number of our companions, from Ahmad ibn Muhammad, from ‘Ali ibn
@@ -89,12 +85,8 @@ and soils the purity and infinitude of His holy Names. It is regarding
 this station (of finitude and possibility vis-a-vis the infinitude of
 the Necessary Being) that He declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
-سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
-  </p>
-</blockquote>
+> ﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنْ اللَّهِ وَمَا أَصَابَكَ مِنْ
+> سَيِّئَةٍ فَمِنْ نَفْسِكَ.﴾
 
 ***Whatever good visits thee, it is from God; whatever evil visits thee
 is of thyself.*** (***4:79***)
@@ -102,21 +94,13 @@ is of thyself.*** (***4:79***)
 And it is regarding the first station (of the absolute neediness of the
 possible existent) that He declares:
 
-<blockquote dir="rtl">
-  <p>
-﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
-  </p>
-</blockquote>
+> ﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ.﴾
 
 ***Say*** (***O Muhammad***)***: Everything is from God.*** (***4:78***)
 
 And it is about. these stations that the poet (Hafiz) says:
 
-<blockquote dir="rtl">
-  <p>
-پير گفت خطا بر قلم صنع نرفت آفرين بر نظر پاك خطا پوشش باد
-  </p>
-</blockquote>
+> پير گفت خطا بر قلم صنع نرفت آفرين بر نظر پاك خطا پوشش باد
 
 *Our master said, ‘The pen of creation did not make any error’.*
 
@@ -195,11 +179,7 @@ grandeur. Hence the Noblest of creatures and the Most knowledgeable of
 beings about His Lordship (i.e. the Prophet [S]), confesses his
 inadequacy in this regard, and declares:
 
-<blockquote dir="rtl">
-  <p>
-مَا عَرِفْنَاكَ حَقَّ مَعْرِفَتِكَ وَلا عَبَدْنَاكَ حَقَّ عِبَادَتِكَ.
-  </p>
-</blockquote>
+> مَا عَرِفْنَاكَ حَقَّ مَعْرِفَتِكَ وَلا عَبَدْنَاكَ حَقَّ عِبَادَتِكَ.
 
 We did not know You as You deserve to be known. We did not worship You
 as You deserve to be worshipped.[^2]
@@ -207,11 +187,7 @@ as You deserve to be worshipped.[^2]
 The second sentence is intended to explain the cause of what is stated
 in the first one. And he (S) said:
 
-<blockquote dir="rtl">
-  <p>
-أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.
-  </p>
-</blockquote>
+> أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.
 
 You are as You have praised Yourself.[^3]
 
@@ -225,11 +201,7 @@ the Hereafter, and in regard to which the common people are oblivious,
 as they consider the Hereafterly stations as extravagances and the like,
 and regarding their fancies it must be said,
 
-<blockquote dir="rtl">
-  <p>
-وَتَعَالَى اللهُ عَنْ ذَلِكَ عُلُوّاً كَبِيراً.
-  </p>
-</blockquote>
+> وَتَعَالَى اللهُ عَنْ ذَلِكَ عُلُوّاً كَبِيراً.
 
 ‘High indeed is He exalted above that (they say)’!), God Almighty, with
 His expansive favor and His all-inclusive compassion, opened a door of
@@ -270,11 +242,7 @@ would not reduce their fear by an atom’s weight nor diminish the
 trembling of their quaking hearts. Hence- one of them says. ‘All are
 afraid of the End, and I am dreadful of the beginning.’
 
-<blockquote dir="rtl">
-  <p>
-سُبْحَانَ اللهِ وَلا حَوْلَ وَلا قُوَّةَ إلا بِاللهِ.
-  </p>
-</blockquote>
+> سُبْحَانَ اللهِ وَلا حَوْلَ وَلا قُوَّةَ إلا بِاللهِ.
 
 May glory be to God, and there is no power or might which is not by God!
 I seek refuge in God Almighty! God knows, these words tear a man’s heart
@@ -293,11 +261,7 @@ we would not deserve anything except expulsion from the Divine
 proximity. This is because, God, the Blessed and the Exalted, has
 invited us into His sacred proximity and love, declaring:
 
-<blockquote dir="rtl">
-  <p>
-وَخَلَقْتُكَ لأَجْلِي.
-  </p>
-</blockquote>
+> وَخَلَقْتُكَ لأَجْلِي.
 
 I have created thee for Myself.
 
@@ -328,11 +292,7 @@ being is soaked in mortal sins, deserving eternal damnation. What are we
 that we should be worthy of praising Thee, when Thy friends (*awliya’*)
 declare:
 
-<blockquote dir="rtl">
-  <p>
-أَفَبِلِسَانِي هَذَا الكَالِّ أَشْكُرُكَ.
-  </p>
-</blockquote>
+> أَفَبِلِسَانِي هَذَا الكَالِّ أَشْكُرُكَ.
 
 How shall I thank Thee with this dumb tongue of mine?
 
@@ -343,22 +303,18 @@ lies with Your mercy and our reliance in Your favor and forgiveness, and
 our trust in the generosity and magnanimity of Your Holy Essence, as
 expressed in the prayers of Your friends:
 
-<blockquote dir="rtl">
-  <p>
-الكَافِِي بِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ:
-قَالَ رَسُولُ اللهِ عَلَيْهِ السَّلامُ: قَالَ اللهُ تَبَارَكَ
-وَتَعَالى: لا يَتَّكِلِ العَامِلُونَ لِي عَلَى أَعْمَالِهِمُ الَّتِي
-يَعْمَلُونَهَا لِثَوَابِي، فَإنَّهُمْ لَوِ إجْتَهَدُوا وَأَتْعَبُوا
-أَنْفُسَهُمْ - أَعْمَارَهُمْ - فِي عِبَادَتِي كاَنُوا مُقَصِّرِينَ
-غَيْرَ بَالِغِينَ فِي عِبَادَتِهِمْ كُنْهَ عِبَادَتِي فِيمَا
-يَطْلِبُوُن َعِنْدِي مِنْ كَرَامَتِي وَالنَّعِيمِ فِي جَنَّاتِي
-وَرَفِيعِ الدَّرَجَاتِ العُلَى فِي جِوَارِي وَلَكِنْ بِرَحْمَتِي
-فَلْيَثِقُوا وَفَضْلِي فَلْيَرْجُوا، وَإلَى حُسْنِ الظَّنِّ بِي
-فَلْيَطْمَئِنُّوا، فَإنَّ رَحْمَتِي عِنْدَ ذَلِكَ تُدْرِكُهُمْ،
-وَمَنِّي يُبَلِّغُهُمْ رِضْوَانِي وَمَغْفِرَتِي تُلْبِسُهُمْ عَفْوِي.
-فَإنِّي أَنَا اللهُ الرَّحْمَنُ الرَّحِيمُ وَبِذَلِكَ تَسَمَّيْتُ.
-  </p>
-</blockquote>
+> الكَافِِي بِإسْنَادِهِ عَنْ أبِي جَعْفَرٍ عَلَيْهِ السَّلامُ قَالَ:
+> قَالَ رَسُولُ اللهِ عَلَيْهِ السَّلامُ: قَالَ اللهُ تَبَارَكَ
+> وَتَعَالى: لا يَتَّكِلِ العَامِلُونَ لِي عَلَى أَعْمَالِهِمُ الَّتِي
+> يَعْمَلُونَهَا لِثَوَابِي، فَإنَّهُمْ لَوِ إجْتَهَدُوا وَأَتْعَبُوا
+> أَنْفُسَهُمْ - أَعْمَارَهُمْ - فِي عِبَادَتِي كاَنُوا مُقَصِّرِينَ
+> غَيْرَ بَالِغِينَ فِي عِبَادَتِهِمْ كُنْهَ عِبَادَتِي فِيمَا
+> يَطْلِبُوُن َعِنْدِي مِنْ كَرَامَتِي وَالنَّعِيمِ فِي جَنَّاتِي
+> وَرَفِيعِ الدَّرَجَاتِ العُلَى فِي جِوَارِي وَلَكِنْ بِرَحْمَتِي
+> فَلْيَثِقُوا وَفَضْلِي فَلْيَرْجُوا، وَإلَى حُسْنِ الظَّنِّ بِي
+> فَلْيَطْمَئِنُّوا، فَإنَّ رَحْمَتِي عِنْدَ ذَلِكَ تُدْرِكُهُمْ،
+> وَمَنِّي يُبَلِّغُهُمْ رِضْوَانِي وَمَغْفِرَتِي تُلْبِسُهُمْ عَفْوِي.
+> فَإنِّي أَنَا اللهُ الرَّحْمَنُ الرَّحِيمُ وَبِذَلِكَ تَسَمَّيْتُ.
 
 Al-Kulayni, in al-Kafi, reports with his chain of narrators from Imam
 Baqir (A) that he said: The Messenger of Allah (S) said: God, the
@@ -402,11 +358,7 @@ Compassionate? Of course, .Satan would be justified in his aspiring for
 His pity and his hoping from God’s generosity. Hence, make perfect your
 good opinion of Him and rely upon His grace, as He has declared:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا.﴾
 
 ***Verily, God shall forgive all the sins.*** (***39:53***)
 
@@ -417,11 +369,7 @@ your heart with the hope of His mercy, for had it not enveloped you, you
 would not be a creature; every creature is the recipient of His mercy,
 for He has said:
 
-<blockquote dir="rtl">
-  <p>
-﴿وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ.﴾
-  </p>
-</blockquote>
+> ﴿وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ.﴾
 
 ***My mercy embraces all things.*** (***7:156***)
 
@@ -464,16 +412,12 @@ mercy, its effects would have been obvious in you. A claimant whose acts
 are contrary to his claims is one who falsifies himself, and there are
 many traditions to this effect.
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بإسْنَادِهِ عَنِ ابْنِ أبِي نَجْرانَ، عَمَّنْ ذَكَرَهُ، عَنْ
-أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قُلْتُ لَهُ: قَومٌ
-يَعْمَلُونَ بِالمَعَاصِي وَيَقُولُونَ نَرْجُو، فَلا يَزَالُونَ
-كَذَلِكَ حَتّى يَأْتِيَهُمُ المَوْتُ. فَقَالَ: هَؤُلاءِ قَوْمٌ
-يَتَرَجَّحُونَ فِي الأَمَانِي. كَذِبُوا، لَيْسُوا بِرَاجِينَ. مَنْ
-رَجَا شَيْئاً طَلَبَهُ، وَمَنْ خَافَ مِنْ شَيءٍ هَرَبَ مِنْهُ.
-  </p>
-</blockquote>
+> الكَافِي بإسْنَادِهِ عَنِ ابْنِ أبِي نَجْرانَ، عَمَّنْ ذَكَرَهُ، عَنْ
+> أَبِي عَبْدِاللهِ عَلَيْهِ السَّلامُ قَالَ: قُلْتُ لَهُ: قَومٌ
+> يَعْمَلُونَ بِالمَعَاصِي وَيَقُولُونَ نَرْجُو، فَلا يَزَالُونَ
+> كَذَلِكَ حَتّى يَأْتِيَهُمُ المَوْتُ. فَقَالَ: هَؤُلاءِ قَوْمٌ
+> يَتَرَجَّحُونَ فِي الأَمَانِي. كَذِبُوا، لَيْسُوا بِرَاجِينَ. مَنْ
+> رَجَا شَيْئاً طَلَبَهُ، وَمَنْ خَافَ مِنْ شَيءٍ هَرَبَ مِنْهُ.
 
 In al-Kafi, al-Kulayni, with his chain of narrators, reports from Imam
 al Sadiq (A) on the authority of an unnamed narrator who narrated it to
@@ -486,14 +430,10 @@ something flees from it.”[^5]
 
 Close to this in meaning is another tradition of the noble *al-Kafi*:
 
-<blockquote dir="rtl">
-  <p>
-الكَافِي بإسْنَادِهِ عَنِ الحَسَنِ بْنِ أَبِي سَارَةَ قَالَ: سَمِعْتُ
-أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: لا يَكُونُ المُؤْمِنُ
-مُؤْمِناً حَتَّى يَكُونَ خَائِفاً رَاجِياً، وَلا يَكُونُ خَائِفاً
-رَاجِياً حَتَّى يَكُونَ عَاِملاً لِمَا يَخَافُ وَيَرْجُو.
-  </p>
-</blockquote>
+> الكَافِي بإسْنَادِهِ عَنِ الحَسَنِ بْنِ أَبِي سَارَةَ قَالَ: سَمِعْتُ
+> أَبَا عَبْدِاللهِ عَلَيْهِ السَّلامُ يَقُولُ: لا يَكُونُ المُؤْمِنُ
+> مُؤْمِناً حَتَّى يَكُونَ خَائِفاً رَاجِياً، وَلا يَكُونُ خَائِفاً
+> رَاجِياً حَتَّى يَكُونَ عَاِملاً لِمَا يَخَافُ وَيَرْجُو.
 
 (Al-Kulayni), with his chain of narrators reports from al-Husayn ibn Abi
 Sarah that he said: I heard Abu ‘Abd Allah (A) say: “A believer is not
@@ -529,13 +469,9 @@ God’s grace, hoping that the Almighty may keep him firm and on the
 straight path until the last moment of his life. This is the desired and
 genuine kind of hope, as declared by God Almighty:
 
-<blockquote dir="rtl">
-  <p>
-﴿إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ
-اللَّهِ أُوْلَئِكَ يَرْجُونَ رَحْمَةَ اللَّهِ وَاللَّهُ غَفُورٌ
-رَحِيمٌ.﴾
-  </p>
-</blockquote>
+> ﴿إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ
+> اللَّهِ أُوْلَئِكَ يَرْجُونَ رَحْمَةَ اللَّهِ وَاللَّهُ غَفُورٌ
+> رَحِيمٌ.﴾
 
 ***But the believers, and those who migrate and struggle in the way of
 God -those have hope of God’s compassion; and God is All-forgiving,
@@ -553,14 +489,10 @@ world in a state of unbelief and without good works, ultimately meeting
 an evil goal, his fear is intensified. And in a noble tradition of
 *al-Kafi*, Imam al-Sadiq (A) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-المُؤْمِنُ بَيْنَ مَخَافَتَيْنِ: ذَنْبٍ قَدْ مَضَى لا يَدْرِي مَا
-صَنَعَ اللهُ فِيهِ وَعُمُرٍ قَدْ بَقِيَ لا يَدْرِي مَا يَكْتَسِبُ
-فِيهِ مِنَ المَهَالِكِ. فَهُوَ لا يُصْبِحُ إلا خَائِفاً وَلا
-يُصْلِحُهُ إلا الخَوْفُ.
-  </p>
-</blockquote>
+> المُؤْمِنُ بَيْنَ مَخَافَتَيْنِ: ذَنْبٍ قَدْ مَضَى لا يَدْرِي مَا
+> صَنَعَ اللهُ فِيهِ وَعُمُرٍ قَدْ بَقِيَ لا يَدْرِي مَا يَكْتَسِبُ
+> فِيهِ مِنَ المَهَالِكِ. فَهُوَ لا يُصْبِحُ إلا خَائِفاً وَلا
+> يُصْلِحُهُ إلا الخَوْفُ.
 
 The believer stands between two dreadful things: the past sins,
 regarding which he does not know what God will do (with him), and the
@@ -620,12 +552,8 @@ His beauty and love are greater in the world of the Hereafter, and the
 awe resulting from God’s majesty is one of the spiritual pleasures,
 which on reflection will not be found to be contrary to the noble verse:
 
-<blockquote dir="rtl">
-  <p>
-﴿أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ.﴾
-  </p>
-</blockquote>
+> ﴿أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
+> يَحْزَنُونَ.﴾
 
 ***Surely God’s friends - no fear shall be on them, neither shall they
 sorrow.*** (***10:62***)
@@ -653,5 +581,4 @@ Mus’ab Dar al-Ta’aruf, Beirut, 1401 H., II, 67, hadith 1.
 [^7]: Al-Kafi, hadith 12.
 
 [^8]: Al-Kafi, hadith 2.
-
 

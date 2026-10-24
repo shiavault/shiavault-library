@@ -292,4 +292,3 @@ vol. 2. “Protesters at the Peace Treaty”, p. 281.
 
 [^10]: Rawdhat al-Kafi (Orchards of al-Kafi), vol. 8, p. 330.
 
-

@@ -26,4 +26,3 @@ those who talk vanity could have doubted.” (29:48).***
 authenticity of the Holy Qur’an as the word of Allah (swt).  
   
 
-

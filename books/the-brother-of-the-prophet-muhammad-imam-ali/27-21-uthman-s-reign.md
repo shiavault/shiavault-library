@@ -1799,4 +1799,3 @@ year 36 p. 3112 and Ibn Al-Athir in Al-Kamil Part 3 p. 102.
 
 [^51]: Ibn Al-Athir Al-Kamil Part 3 p. 87.
 
-

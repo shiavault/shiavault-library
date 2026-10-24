@@ -4,19 +4,11 @@ Surah al-Rahman, Verses 33 - 55
 Surah al-Rahman - Verses 33-34
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أن تَنفُذُوا مِنْ
-أقْطَارِ السَّمَاوَاتِ وَالْأرْضِ فَانفُذُوا لَآ تَنفُذُونَ إِلاّ
-بِسُلْطَانٍ
-  </p>
-</blockquote>
+> يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أن تَنفُذُوا مِنْ
+> أقْطَارِ السَّمَاوَاتِ وَالْأرْضِ فَانفُذُوا لَآ تَنفُذُونَ إِلاّ
+> بِسُلْطَانٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***33. O assembly of jinn and men! If you have power to pass
 beyond***[^1] ***the zones of the heavens and the earth, then pass
@@ -80,17 +72,9 @@ men] deny?"***
 Surah al-Rahman - Verses 35-36
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَآ تَنتَصِرَانِ
-  </p>
-</blockquote>
+> يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَآ تَنتَصِرَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***35. There shall be sent against you both, smokeless flames of fire
 and molten brass, and you shall not be able to defend yourselves.***  
@@ -123,17 +107,9 @@ men] deny?"***
 Surah al-Rahman - Verse 37-38
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا انشَقَّتِ السَّمَاء فَكَانَتْ وَرْدَةً كَالدِّهَانِ
-  </p>
-</blockquote>
+> فَإِذَا انشَقَّتِ السَّمَاء فَكَانَتْ وَرْدَةً كَالدِّهَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***37. Then when the heaven is rent asunder, and it becomes red like
 molten oil [you shall not bear the horrible incidents].***  
@@ -167,17 +143,9 @@ men] deny?"***
 Surah al-Rahman - Verses 39-40
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَيَوْمَئِذٍ لَآ يُسْألُ عَن ذَنبِهِ إِنسٌ وَلَآ جَانٌّ
-  </p>
-</blockquote>
+> فَيَوْمَئِذٍ لَآ يُسْألُ عَن ذَنبِهِ إِنسٌ وَلَآ جَانٌّ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***39. Therefore, on that Day no question shall be asked of men or jinn
 as to their sins.***  
@@ -234,18 +202,10 @@ men] deny?"***
 Surah al-Rahman - Verses 41-42
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي
-وَالْأقْدَامِ
-  </p>
-</blockquote>
+> يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي
+> وَالْأقْدَامِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***41. The sinners shall be known by their marks and they will be seized
 by their forelocks and their feet [and shall be cast into Hell].***  
@@ -283,23 +243,11 @@ men] deny?"***
 Surah al-Rahman - Verses 43-45
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-هَذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ
-  </p>
-</blockquote>
+> هَذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ
 
-<blockquote dir="rtl">
-  <p>
-يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
-  </p>
-</blockquote>
+> يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***43. This is the Hell which the sinners denied.***  
 ***44. They shall move between Hellfire and the fierce boiling
@@ -337,17 +285,9 @@ deny?"*
 Surah al-Rahman - Verses 46-47
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ
-  </p>
-</blockquote>
+> وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***46. But for him who fears the standing before his Lord, there shall
 be two Gardens.***  
@@ -405,29 +345,13 @@ men] deny?"***
 Surah al-Rahman - Verses 48-51
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَوَاتَا أفْنَانٍ
-  </p>
-</blockquote>
+> ذَوَاتَا أفْنَانٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
-<blockquote dir="rtl">
-  <p>
-فِيهِمَا عَيْنَانِ تَجْرِيَانِ
-  </p>
-</blockquote>
+> فِيهِمَا عَيْنَانِ تَجْرِيَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***48. [Gardens with trees] with spreading and fresh branches [with
 diverse Blessings].***  
@@ -472,17 +396,9 @@ Addressing jinn and men, the blessed Verse 51 repeats the question:
 Surah al-Rahman - Verses 52-53
 ------------------------------
 
-<blockquote dir="rtl">
-  <p>
-فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ
-  </p>
-</blockquote>
+> فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***52. In those two Gardens shall be two kinds of each and every
 fruit.***  
@@ -503,18 +419,10 @@ men] deny?"***
 Surah al-Rahman - Verse 54-55
 -----------------------------
 
-<blockquote dir="rtl">
-  <p>
-مُتَّكِئِينَ عَلَی فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَی
-الْجَنَّتَيْنِ دَانٍ
-  </p>
-</blockquote>
+> مُتَّكِئِينَ عَلَی فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَی
+> الْجَنَّتَيْنِ دَانٍ
 
-<blockquote dir="rtl">
-  <p>
-فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
-  </p>
-</blockquote>
+> فَبِأيِّ آلَآء رَبِّكُمَا تُكَذِّبَانِ
 
 ***54. Reclining upon the couches lined with silk, brocade, and the
 fruits of the two Gardens will be near at hand.***  
@@ -578,5 +486,4 @@ denoting "tearing asunder and pass through something."
 [^10]: Tafsir Kanz al-Daqa’iq, under the blessed Verse in question.
 
 [^11]: 10:62
-
 

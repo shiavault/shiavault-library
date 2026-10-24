@@ -549,7 +549,7 @@ Askari (a.s) acquainted us, forty persons, with his newborn son, His
 Eminence, Mahdi, while we were present at his house. He said: “This son
 of mine is my Imam and Caliph for you after me. Obey him and after me do
 not become disunited in your religion, that you be destroyed. But you
-should know that, after this, you will not see him…”<sup>[1]</sup>
+should know that, after this, you will not see him…”[1]
 
 Imam Hasan Askari completed the argument upon them and acquainted them
 with the Imam of their time so that they may be testifiers of truth and

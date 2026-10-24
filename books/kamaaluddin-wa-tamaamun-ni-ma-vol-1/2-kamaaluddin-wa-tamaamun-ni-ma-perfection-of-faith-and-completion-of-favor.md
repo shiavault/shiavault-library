@@ -40,4 +40,3 @@ text and compared it with various versions and very painstakingly
 removed all typographical and textual errors that abounded in almost all
 previous editions of this important book.
 
-

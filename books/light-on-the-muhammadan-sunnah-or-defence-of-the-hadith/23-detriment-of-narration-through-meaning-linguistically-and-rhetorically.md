@@ -6,7 +6,7 @@ hadith through meaning, concerning the religious affairs. Whereas the
 linguistic and rhetoric detriment is elucidated through brief statement
 by the eminent Islamic litterateur al-Sayyid Mustafa Sadiq al-Rafi’i
 (may God’s mercy be upon him), when discussing the Prophetic rhetoric in
-his precious book I’jaz al-Qur’an, <span id="_anchor_164"></span>164
+his precious book I’jaz al-Qur’an, 164
 saying: The words of Prophethood are inhabiting a heart connected to the
 Glory of its Creator, and burnished by a tongue upon which the Qur’an
 was revealed with the realities it contains. If they not being revealed
@@ -16,7 +16,7 @@ which of affirmed chapters has no even one separated handle, and in
 which meddling is absent has no even one preferred word. It is, in its
 brevity and indication, like a speaking heart pulse, and in its
 sublimation and efficiency is verily a manifestation of his (S)
-recollections” ... etc. <span id="_anchor_165"></span>165
+recollections” ... etc. 165
 
 In his comment on the arrangement of the Prephetic rhetoric, he said:
 “It is not necessary that whatever reported as a hadith, should be taken
@@ -43,7 +43,7 @@ traditions and aphorisms and proverbs, and some others disagreeing
 whereat the narrator inserting into them some of his own words. This
 fact led Sufyan al-Thawri to exclaim: If I tell you that I am narrating
 to you exactly as I heard (from the Prophet), never believe me, as it is
-no more than the meaning of it. <span id="_anchor_166"></span>166
+no more than the meaning of it. 166
 
 I have expatiated on discussing this section of the book due to its high
 significance.
@@ -56,7 +56,7 @@ finding no harm then in correcting its solecism and rectifying its
 error.
 
 The Moroccan scholar Ibn Abd al-Barr, n his book Jami’ bayan al-’ilm wa
-fadlih, <span id="_anchor_167"></span>167 says:
+fadlih, 167 says:
 
 Al-Walid ibn Muslim related to us saying: I heard al-Awza’i saying: No
 harm is there in rectifying solecism and error in hadith. He also said:
@@ -80,7 +80,7 @@ it? He replied: Yes, since the people (Arabs) were never committing
 grammatical mistakes! But solecism is only on our part.
 
 This matter was broached by al-Imam Ibn Faris in a treatise calling it
-Ma’khadh al-’ilm, when he said: <span id="_anchor_168"></span>168 “Some
+Ma’khadh al-’ilm, when he said: 168 “Some
 people claim that if any narrator committing a grammatical mistake when
 relating any hadith, it would be impermissible for the hearer to report
 from him but only in the same way he heard from him. Some others said:
@@ -110,11 +110,11 @@ words, bring some forwards and some backwards.
 Abu Bakr ibn Abi Shaybah is reported to have said: Hafs related to us on
 the authority of Ash’ath, as saying that al-Hasan and al-Shi’bi were
 disdaining from bringing forwards and backwards the expressions of the
-hadith. <span id="_anchor_169"></span>169
+hadith. 169
 
 Jabir ibn Abd Allah quoted Abd Allah ibn Hudhayfah as saying: We are
 Arab people,...we cite the hadith with bringing forwards and backwards
-(its words). <span id="_anchor_170"></span>170
+(its words). 170
 
 They exaggerated in doing a bad turn to the narration of hadith to the
 extent that one of the narrators daring to add some words to the hadith
@@ -128,8 +128,7 @@ Among other practices permitted by the narrators being to shorten the
 hadith and relate a part of it.
 
 In Sunan al-Tirmidhi, Mujahid is reported to have said: Delete whatever
-you like from the hadith but never add to it. <span
-id="_anchor_171"></span>171
+you like from the hadith but never add to it. 171
 
 Ibn Hajar, in Sharh al-Nukhbah, said: In regard of shortening the
 hadith, the majority of traditionists permit it, provided that
@@ -149,8 +148,7 @@ scholars.
 Muslim was among those permitting abridgement of hadith, referring to
 this fact in his introduction.
 
-Abu Shamah, in his book Mukhtasar Kitab al-Mu’ammal, <span
-id="_anchor_172"></span>172 is reported to have said:
+Abu Shamah, in his book Mukhtasar Kitab al-Mu’ammal, 172 is reported to have said:
 
 ‘That which is usually practised by pundits of fiqh in relation to the
 Prophetic traditions and narrated reports, being their abundant
@@ -188,10 +186,10 @@ Ibn Abd al-Barr says: The traditions on virtues need not any argument or
 proof... and the scholars in the past never showed that strictness in
 respect of reporting them from whomsoever of the narrators, without
 investigating deeply as they used to do with traditions on ahkam
-(rules). <span id="_anchor_173"></span>173
+(rules). 173
 
 In his commentary on the statement of the author of al-Adab
-al-Shar’iyyah (Ibn Muflih <span id="_anchor_174"></span>174 ), that it
+al-Shar’iyyah (Ibn Muflih 174 ), that it
 is reported on the authority of al-Imam Ahmad what is indicating that it
 is unnecessary to adhere to the weak hadith on virtues and recommendable
 acts (mustahabbat), al-Sayyid Rashid Rida says: “May God be pleased with
@@ -216,18 +214,13 @@ and unauthentic traditions to the Ummah, due to the practice followed by
 some of these leaders (imams) in respect of virtues.
 
 Therefore, al-Qadi Abu Bakr ibn al-Arabi al-Maliki said: “It is
-absolutely impermissible to act according to the weak traditions.” <span
-id="_anchor_175"></span>175
+absolutely impermissible to act according to the weak traditions.” 175
 
 The notable fluent Islamic writer Mustafa Sadiq al-Rafi’i (may God’s
 
 mercy be upon him) has dedicated a long interesting chapter for
 narration (riwayah) in his valuable book Ta’rikh Adab al-Arab, of which
 we quote the following:
-
-  
-  
-  
 
 164. I'jaz al-Qur'an, p. 364, refer to the complement of this eloquent
 speech, in the following pages till p. 422.

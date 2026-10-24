@@ -10,11 +10,7 @@ Surah Muhammad, Chapter 47, Verses 1 - 21
 General Overview of the Chapter
 -------------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful***
 
@@ -47,19 +43,11 @@ of Paradise.”*[^3]
 Surah Muhammad - Verse 1
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 ***In the Name of Allah, the Most Gracious, the Most Merciful.***
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أضَلَّ أعْمَالَهُمْ
-  </p>
-</blockquote>
+> الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أضَلَّ أعْمَالَهُمْ
 
 ***1. Those who disbelieve and hinder [men] from the Path of Allah, He
 will render their deeds vain.***
@@ -110,13 +98,9 @@ attaining to their goals.
 Surah Muhammad - Verse 2
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَآمَنُوا بِمَا نُزِّلَ
-عَلَی مُحَمَّدٍ وَهُوَ الْحَقُّ مِنْ رَبِّهِمْ كَفَّرَ عَنْهُمْ
-سَيِّئَاتِهِمْ وَأصْلَحَ بَالَهُمْ
-  </p>
-</blockquote>
+> وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَآمَنُوا بِمَا نُزِّلَ
+> عَلَی مُحَمَّدٍ وَهُوَ الْحَقُّ مِنْ رَبِّهِمْ كَفَّرَ عَنْهُمْ
+> سَيِّئَاتِهِمْ وَأصْلَحَ بَالَهُمْ
 
 ***2. But those who believe and do righteous good deeds, and believe in
 that which is sent down to Muhammad – for it is the truth from their
@@ -172,13 +156,9 @@ heart.
 Surah Muhammad - Verse 3
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ وَأنَّ
-الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِنْ رَبِّهِمْ كَذَلِكَ يَضْرِبُ
-اللَّهُ لِلنَّاسِ أمْثَالَهُمْ
-  </p>
-</blockquote>
+> ذَلِكَ بِأنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ وَأنَّ
+> الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِنْ رَبِّهِمْ كَذَلِكَ يَضْرِبُ
+> اللَّهُ لِلنَّاسِ أمْثَالَهُمْ
 
 ***3. That is because those who disbelieve follow falsehood, while those
 who believe follow the truth [sent down] by their Lord. Thus does Allah
@@ -228,15 +208,11 @@ same will purify the heart from vices.
 Surah Muhammad - Verse 4
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّی إِذَا
-أثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ فَإِمَّا مَنّاً بَعْدُ وَإِمَّا
-فِدَاءً حَتَّی تَضَعَ الْحَرْبُ أوْزَارَهَا ذَلِكَ وَلَوْ يَشَاءُ
-اللَّهُ لانْتَصَرَ مِنْهُمْ وَلَكِنْ لِيَبْلُوَ بَعْضَكُمْ بِبَعْضٍ
-وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَنْ يُضِلَّ أعْمَالَهُمْ
-  </p>
-</blockquote>
+> فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّی إِذَا
+> أثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ فَإِمَّا مَنّاً بَعْدُ وَإِمَّا
+> فِدَاءً حَتَّی تَضَعَ الْحَرْبُ أوْزَارَهَا ذَلِكَ وَلَوْ يَشَاءُ
+> اللَّهُ لانْتَصَرَ مِنْهُمْ وَلَكِنْ لِيَبْلُوَ بَعْضَكُمْ بِبَعْضٍ
+> وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَنْ يُضِلَّ أعْمَالَهُمْ
 
 ***4. Therefore, when you meet those who disbelieve [in battlefield],
 smite [their] necks [when they fall into captivity] till when you have
@@ -409,17 +385,9 @@ are broken and Muslims owe their good name to them.
 Surah Muhammad - Verses 5-6
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ
-  </p>
-</blockquote>
+> سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ
-  </p>
-</blockquote>
+> وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ
 
 ***5. He will guide them and set right their state.***  
 ***6. And will soon admit them to [high stations in] Paradise which He
@@ -496,12 +464,8 @@ Quoting his forefathers from the Messenger of God (S) he says:
 Surah Muhammad - Verse 7
 ------------------------
 
-<blockquote dir="rtl">
-  <p>
-يَا أيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ
-وَيُثَبِّتْ أقْدَامَكُمْ
-  </p>
-</blockquote>
+> يَا أيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ
+> وَيُثَبِّتْ أقْدَامَكُمْ
 
 ***7. O you who believe! If you help Allah, He will help you, and make
 your foothold firm.***
@@ -554,17 +518,9 @@ their promise since He says:*
 Surah Muhammad - Verses 8-9
 ---------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ كَفَرُوا فَتَعْساً لَهُمْ وَأضَلَّ أعْمَالَهُمْ
-  </p>
-</blockquote>
+> وَالَّذِينَ كَفَرُوا فَتَعْساً لَهُمْ وَأضَلَّ أعْمَالَهُمْ
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأنَّهُمْ كَرِهُوا مَا أنْزَلَ اللَّهُ فَأحْبَطَ أعْمَالَهُمْ
-  </p>
-</blockquote>
+> ذَلِكَ بِأنَّهُمْ كَرِهُوا مَا أنْزَلَ اللَّهُ فَأحْبَطَ أعْمَالَهُمْ
 
 ***8. But those who disbelieve, for them is destruction, and [Allah]
 will make their deeds vain.***  
@@ -619,13 +575,9 @@ the Faithful, ‘Ali ibn Abi Talib’s (as) Imamate.[^13]
 Surah Muhammad - Verse 10
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَلَمْ يَسِيرُوا فِي الْأرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
-الَّذِينَ مِنْ قَبْلِهِمْ دَمَّرَ اللَّهُ عَلَيْهِمْ وَلِلْكَافِرِينَ
-أمْثَالُهَا
-  </p>
-</blockquote>
+> أفَلَمْ يَسِيرُوا فِي الْأرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ
+> الَّذِينَ مِنْ قَبْلِهِمْ دَمَّرَ اللَّهُ عَلَيْهِمْ وَلِلْكَافِرِينَ
+> أمْثَالُهَا
 
 ***10. Have they not traveled through the earth and seen what was the
 end of those before them? Allah destroyed them completely, and a similar
@@ -645,12 +597,8 @@ the peoples of the past and such fate awaits these disbelievers.”*
 Surah Muhammad - Verse 11
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-ذَلِكَ بِأنَّ اللَّهَ مَوْلَی الَّذِينَ آمَنُوا وَأنَّ الْكَافِرِينَ
-لا مَوْلَی لَهُمْ
-  </p>
-</blockquote>
+> ذَلِكَ بِأنَّ اللَّهَ مَوْلَی الَّذِينَ آمَنُوا وَأنَّ الْكَافِرِينَ
+> لا مَوْلَی لَهُمْ
 
 ***11. That is because Allah is the Protector of those who believe, and
 the disbelievers have no protector.***
@@ -686,14 +634,10 @@ necessary and set right his state.
 Surah Muhammad - Verse 12
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
-جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأنْهَارُ وَالَّذِينَ كَفَرُوا
-يَتَمَتَّعُونَ وَيَأكُلُونَ كَمَا تَأكُلُ الْأنْعَامُ وَالنَّارُ
-مَثْویً لَهُمْ
-  </p>
-</blockquote>
+> إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+> جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأنْهَارُ وَالَّذِينَ كَفَرُوا
+> يَتَمَتَّعُونَ وَيَأكُلُونَ كَمَا تَأكُلُ الْأنْعَامُ وَالنَّارُ
+> مَثْویً لَهُمْ
 
 ***12. Certainly Allah will admit those who believe and do righteous
 good deeds to Gardens [of Paradise] under which [i.e., trees] rivers
@@ -736,12 +680,8 @@ the Fire.
 Surah Muhammad - Verse 13
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَكَأيِّنْ مِنْ قَرْيَةٍ هِيَ أشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي
-أخْرَجَتْكَ أهْلَكْنَاهُمْ فَلا نَاصِرَ لَهُمْ
-  </p>
-</blockquote>
+> وَكَأيِّنْ مِنْ قَرْيَةٍ هِيَ أشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي
+> أخْرَجَتْكَ أهْلَكْنَاهُمْ فَلا نَاصِرَ لَهُمْ
 
 ***12. And many a [people of a] town, stronger than [the people of] your
 town which has driven you out We have destroyed. And there was no helper
@@ -769,12 +709,8 @@ He will not help disbelievers against torments and afflictions.
 Surah Muhammad - Verse 14
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-أفَمَنْ كَانَ عَلَی بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ
-عَمَلِهِ وَاتَّبَعُوا أهْوَاءَهُمْ
-  </p>
-</blockquote>
+> أفَمَنْ كَانَ عَلَی بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ
+> عَمَلِهِ وَاتَّبَعُوا أهْوَاءَهُمْ
 
 ***14. Is he who is on a clear proof from his Lord, like those for whom
 their evil deeds that they do are beautified for them while they follow
@@ -802,16 +738,12 @@ individuals are not alike.
 Surah Muhammad - Verse 15
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ فِيهَا أنْهَارٌ مِنْ
-مَاءٍ غَيْرِ آسِنٍ وَأنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ
-وَأنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأنْهَارٌ مِنْ عَسَلٍ
-مُصَفّی وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ
-رَبِّهِمْ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيماً
-فَقَطَّعَ أمْعَاءَهُمْ
-  </p>
-</blockquote>
+> مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ فِيهَا أنْهَارٌ مِنْ
+> مَاءٍ غَيْرِ آسِنٍ وَأنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ
+> وَأنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأنْهَارٌ مِنْ عَسَلٍ
+> مُصَفّی وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ
+> رَبِّهِمْ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيماً
+> فَقَطَّعَ أمْعَاءَهُمْ
 
 ***15. The description of Paradise which the pious have been promised
 [is that] in it are rivers of water the taste and smell of which are not
@@ -940,14 +872,10 @@ torment. How may they stand on a par?
 Surah Muhammad - Verse 16
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ حَتَّی إِذَا خَرَجُوا مِنْ
-عِنْدِكَ قَالُوا لِلَّذِينَ اُوتُوا الْعِلْمَ مَاذَا قَالَ آنِفاً
-اُولَئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَی قُلُوبِهِمْ وَاتَّبَعُوا
-أهْوَاءَهُمْ
-  </p>
-</blockquote>
+> وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ حَتَّی إِذَا خَرَجُوا مِنْ
+> عِنْدِكَ قَالُوا لِلَّذِينَ اُوتُوا الْعِلْمَ مَاذَا قَالَ آنِفاً
+> اُولَئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَی قُلُوبِهِمْ وَاتَّبَعُوا
+> أهْوَاءَهُمْ
 
 ***16. And among them are some who [apparently] listen to you till when
 they go out from you, they say to those who have received knowledge:
@@ -969,11 +897,7 @@ perceive the truth and they follow their vain desires.
 Surah Muhammad - Verse 17
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدی وَآتَاهُمْ تَقْوَاهُمْ
-  </p>
-</blockquote>
+> وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدی وَآتَاهُمْ تَقْوَاهُمْ
 
 ***17. While as for those who accept Guidance, He increases their
 guidance and bestows on them their piety.***
@@ -991,12 +915,8 @@ of ignorance to the light of knowledge.
 Surah Muhammad - Verse 18
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَهَلْ يَنْظُرُونَ إِلاّ السَّاعَةَ أنْ تَأتِيَهُمْ بَغْتَةً فَقَدْ
-جَاءَ أشْرَاطُهَا فَأنَّی لَهُمْ إِذَا جَاءَتْهُمْ ذِكْرَاهُمْ
-  </p>
-</blockquote>
+> فَهَلْ يَنْظُرُونَ إِلاّ السَّاعَةَ أنْ تَأتِيَهُمْ بَغْتَةً فَقَدْ
+> جَاءَ أشْرَاطُهَا فَأنَّی لَهُمْ إِذَا جَاءَتْهُمْ ذِكْرَاهُمْ
 
 ***18. Do they [disbelievers in order to believe] then await [anything]
 other than the Hour that it should come upon them suddenly? But some of
@@ -1053,13 +973,9 @@ then by their reminder?”***
 Surah Muhammad - Verse 19
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-فَاعْلَمْ أنَّهُ لا إِلَهَ إِلاّ اللَّهُ وَاسْتَغْفِرْ لِذَنْبِكَ
-وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ
-وَمَثْوَاكُمْ
-  </p>
-</blockquote>
+> فَاعْلَمْ أنَّهُ لا إِلَهَ إِلاّ اللَّهُ وَاسْتَغْفِرْ لِذَنْبِكَ
+> وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ
+> وَمَثْوَاكُمْ
 
 ***19. Therefore, know that there is no god but Allah and ask
 forgiveness for your sin, and also for [the sin of] believing men and
@@ -1189,14 +1105,10 @@ and tongue.
 Surah Muhammad - Verse 20
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-وَيَقُولُ الَّذِينَ آمَنُوا لَوْلا نُزِّلَتْ سُورَةٌ فَإِذَا
-اُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ رَأيْتَ
-الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ
-الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ فَأوْلَی لَهُمْ
-  </p>
-</blockquote>
+> وَيَقُولُ الَّذِينَ آمَنُوا لَوْلا نُزِّلَتْ سُورَةٌ فَإِذَا
+> اُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ رَأيْتَ
+> الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ
+> الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ فَأوْلَی لَهُمْ
 
 ***20. Those who believe say: “Why is not a Chapter [of the Qur’an] sent
 down [regarding jihad]? But when a decisive Chapter is sent down and
@@ -1228,12 +1140,8 @@ Now that they disobey the Command, death is better for them.
 Surah Muhammad - Verse 21
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ فَإِذَا عَزَمَ الْأمْرُ فَلَوْ صَدَقُوا
-اللَّهَ لَكَانَ خَيْراً لَهُمْ
-  </p>
-</blockquote>
+> طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ فَإِذَا عَزَمَ الْأمْرُ فَلَوْ صَدَقُوا
+> اللَّهَ لَكَانَ خَيْراً لَهُمْ
 
 ***21. Obedience and carefully considered words [were better for them].
 And when the matter [jihad] is resolved on, then if they had been true
@@ -1327,5 +1235,4 @@ subjugation”).
 [^19]: 40:55
 
 [^20]: Manhaj al-Sadiqin.
-
 

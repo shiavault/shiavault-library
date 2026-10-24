@@ -87,4 +87,3 @@ the Muslim community.
 Ibrahim Amini Najafabadi  
  January 1980
 
-

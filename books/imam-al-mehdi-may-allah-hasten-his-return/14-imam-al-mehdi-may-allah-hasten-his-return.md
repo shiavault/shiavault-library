@@ -29,4 +29,3 @@ Chapter 12 - The Major Occultation
 
 Chapter 13 - The Shia during the Imam’s occultation
 
-

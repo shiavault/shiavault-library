@@ -1642,4 +1642,3 @@ bonafide of the Holy Prophet when he concluded the *Sulhe Hudaibiah*
 (the Treaty of Hudaibiah). The godly ones only know the will of the Lord
 they executed and man always criticised it.
 
-

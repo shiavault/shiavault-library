@@ -74,11 +74,7 @@ person displaying a particular bias and partiality with issues relating
 to the Shi'ites, under the discussion pertaining to verse 9 of Suratul
 Hijr, says: 
 
-<blockquote dir="rtl">
-  <p>
-اِنَّا نَحْنُ نَزَّلْناَ الذِّكْرَ وَ اِنَّا لَهُ لَحَافِظُوْن
-  </p>
-</blockquote>
+> اِنَّا نَحْنُ نَزَّلْناَ الذِّكْرَ وَ اِنَّا لَهُ لَحَافِظُوْن
 
 ***“Surely, We have sent down the Reminder (the Qur\`an) and surely, We
 (Ourselves) shall be its Guardian”***
@@ -96,14 +92,10 @@ Sunnah too - one, which is neither recognized by them nor by us.
 The renowned researcher Kashif al-Ghita in his book Kashf al-Ghita
 declares:
 
-<blockquote dir="rtl">
-  <p>
-لاَ رَيْبَ اَنَّهُ (اَيِ الْقُرْآن) مَحْفُوْظٌ مِنَ النُّقْصَانِ
-بِحِفْظِ الْمَلِكِ الدَّيَّانِ كَماَ دَلَّ عَلَيْهِ صَرِيْحُ
-الْقُرْآنِ وَ إِجْماَعُ الْعُلَماَءِ فِي كُلِّ زَماَنٍ وَ لاَ عِبْرَةَ
-بِناَدِرٍ.
-  </p>
-</blockquote>
+> لاَ رَيْبَ اَنَّهُ (اَيِ الْقُرْآن) مَحْفُوْظٌ مِنَ النُّقْصَانِ
+> بِحِفْظِ الْمَلِكِ الدَّيَّانِ كَماَ دَلَّ عَلَيْهِ صَرِيْحُ
+> الْقُرْآنِ وَ إِجْماَعُ الْعُلَماَءِ فِي كُلِّ زَماَنٍ وَ لاَ عِبْرَةَ
+> بِناَدِرٍ.
 
 “There is no doubt that the Qur\`an has been protected from any
 reduction (and alteration) as a result of Allah's protection - as is
@@ -121,12 +113,8 @@ The state of affairs reached such a stage that the renowned author from
 the Hijaz, 'Abdullah 'Ali al-Qasimi, in his book al-Sira', while
 criticizing the Shi'ites, says:
 
-<blockquote dir="rtl">
-  <p>
-الشيعة هم أبدا أعداء المساجد و لـهذا يقل أن يشاهد الضارب في طول بلادهم
-و غرضها مسجدا.
-  </p>
-</blockquote>
+> الشيعة هم أبدا أعداء المساجد و لـهذا يقل أن يشاهد الضارب في طول بلادهم
+> و غرضها مسجدا.
 
 “The Shi'ites have always been the enemies of mosques and for that
 reason if a person were to travel the length and breadth of Shi'ite
@@ -165,11 +153,7 @@ and good management amongst the Arabs who used to benefit from his
 acumen and managerial skills to solve their social problems in the
 Pre-Islamic era. It was for this reason that he was called:
 
-<blockquote dir="rtl">
-  <p>
- رَيْحاَنَةُ قُرَيْشٍ.
-  </p>
-</blockquote>
+>  رَيْحاَنَةُ قُرَيْشٍ.
 
 “…the crème de la crème of the Quraish.” 
 
@@ -178,13 +162,9 @@ Prophet (s.a.w) he appeared in a gathering of the tribe of Bani Makhzum
 and said: “By Allah!  I have heard a speech from Muhammad, which
 resembles neither the speech of humans nor that of the fairies.”
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنَّ لَهُ لَحَلاَوَةً وَ إِنَّ عَلَيْهِ لَطَلاَوَةً وَ إِنَّ
-أَعْلاَهُ لَمُثْمِرٌ وَ إِنَّ أَسْفَلَهُ لَمُغْدِقٌ وَ إِنَّهُ
-لَيَعْلُو وَ لاَ يُعْلَى‏.
-  </p>
-</blockquote>
+> وَ إِنَّ لَهُ لَحَلاَوَةً وَ إِنَّ عَلَيْهِ لَطَلاَوَةً وَ إِنَّ
+> أَعْلاَهُ لَمُثْمِرٌ وَ إِنَّ أَسْفَلَهُ لَمُغْدِقٌ وَ إِنَّهُ
+> لَيَعْلُو وَ لاَ يُعْلَى‏.
 
 “His speech possesses a special sweetness and an exceptional beauty. The
 top of it (like the fruitful branches of a tree) is full of fruits and
@@ -438,12 +418,8 @@ not even comprehend a single word of it.[^17][^18]
 
 In verse 23 of Suratul Baqarah we read:
 
-<blockquote dir="rtl">
-  <p>
-وَ إِنْ كُنْـتُمْ فِي رَيْبٍ مِمَّا نَزَّلْناَ عَلَي عَبْدِناَ
-فَأتُوْا بِسُوْرَةٍ مِنْ مِّثْلِهِ
-  </p>
-</blockquote>
+> وَ إِنْ كُنْـتُمْ فِي رَيْبٍ مِمَّا نَزَّلْناَ عَلَي عَبْدِناَ
+> فَأتُوْا بِسُوْرَةٍ مِنْ مِّثْلِهِ
 
 ***“If you are in doubt about what We have sent down to Our Servant
 (Muhammad), them produce a Surah (chapter) like it.”***
@@ -509,25 +485,17 @@ any serious attention. We present below a few sentences from them:
 In opposition to Suratul Dhariyat, he has presented the following
 sentences:
 
-<blockquote dir="rtl">
-  <p>
-و المبذرات بذرا و الحاصدات حصدا و الذاريات قمحا و الطاحنات طحنا و
-العاجنات عجنا و الخابزات خبزا و الثاردات ثردا و اللاقمات لقما اهالة و
-سمنا
-  </p>
-</blockquote>
+> و المبذرات بذرا و الحاصدات حصدا و الذاريات قمحا و الطاحنات طحنا و
+> العاجنات عجنا و الخابزات خبزا و الثاردات ثردا و اللاقمات لقما اهالة و
+> سمنا
 
 “By the peasants and the farmers!  By the harvesters!  By the separators
 of chaff from the wheat!  By the separators of wheat from the chaff!  By
 the makers of dough!  By the bakers!  By the soppers (those who crumble
 bread in broth)!  By those who pick up the soft and oily morsels!”[^19]
 
-<blockquote dir="rtl">
-  <p>
-يا ضفدغ بنت ضفدغ، نقي ما تنقين، نصفك في الماء و نصفك في الطين، لا
-الماء تكدرين و لا الشارب تمنعين
-  </p>
-</blockquote>
+> يا ضفدغ بنت ضفدغ، نقي ما تنقين، نصفك في الماء و نصفك في الطين، لا
+> الماء تكدرين و لا الشارب تمنعين
 
 “O' Frog the daughter of frog!  Call out as much as you desire!  Half of
 you in the water and half of you in mud; Neither do you make the water
@@ -580,38 +548,22 @@ greatness, and this itself is indicative of the fact that there exists a
 relation between the Broken Letters and the greatness of the Qur\`an. At
 this juncture we present a few examples of these, as follows:
 
-<blockquote dir="rtl">
-  <p>
-الر كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِنْ لَدُنْ حَكِيمٍ
-خَبِيرٍ
-  </p>
-</blockquote>
+> الر كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِنْ لَدُنْ حَكِيمٍ
+> خَبِيرٍ
 
 ***“Alif Lam Ra (This is) a Book, whose verses are made decisive, then
 are they made plain, from the Wise, All-aware.”***[^22]
 
-<blockquote dir="rtl">
-  <p>
-طس تِلْكَ آيَاتُ الْقُرْآنِ وَ كِتَابٍ مُبِينٍ
-  </p>
-</blockquote>
+> طس تِلْكَ آيَاتُ الْقُرْآنِ وَ كِتَابٍ مُبِينٍ
 
 ***“Ta Sin. These are the verses of the Quran and the Book that makes
 (things) clear.”***[^23]
 
-<blockquote dir="rtl">
-  <p>
-الم تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ  
-  </p>
-</blockquote>
+> الم تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ
 
 ***“Alif Lam Mim. These are verses of the Book of Wisdom.”***[^24]
 
-<blockquote dir="rtl">
-  <p>
-المص كِتَابٌ أُنْزِلَ إِلَيْكَ ‏
-  </p>
-</blockquote>
+> المص كِتَابٌ أُنْزِلَ إِلَيْكَ ‏
 
 ***“Alif Lam Mim Suad. A Book revealed to you.”***[^25]
 
@@ -639,11 +591,7 @@ verse 26 of the chapter Fussilat).
 that these Letters are a kind of code and an allusion to the Names of
 Allah. For example (المص) in Suratul A'raf alludes to:
 
-<blockquote dir="rtl">
-  <p>
-أََناَ اللٌّهُ الْمُقْتَدِرُ الصَّادِقُ.
-  </p>
-</blockquote>
+> أََناَ اللٌّهُ الْمُقْتَدِرُ الصَّادِقُ.
 
 Meaning, “I am Allah, The Powerful, The Truthful.” 
 
@@ -694,32 +642,20 @@ It is interesting to note that in a tradition from Imam as-sadiq (a.s)
 we read that 'Taha' is one of the names of the Noble Prophet (s.a.w) and
 means:
 
-<blockquote dir="rtl">
-  <p>
-ياَ طَالِبَ الْحَقِّ الْهَادِي إِلَيْهِ.
-  </p>
-</blockquote>
+> ياَ طَالِبَ الْحَقِّ الْهَادِي إِلَيْهِ.
 
 “O' Seeker of The Truth (and) the guide to it.”
 
 From this tradition it can be concluded that 'Taha' comprises of two
 cryptic letters: طا (Ta), which refers to:
 
-<blockquote dir="rtl">
-  <p>
-طَالِب الْحَقِّ.
-  </p>
-</blockquote>
+> طَالِب الْحَقِّ.
 
 “Seeker of Truth”
 
 and ها (Ha), which alludes to
 
-<blockquote dir="rtl">
-  <p>
-أَلْهَادِي إِلَيْهِ.
-  </p>
-</blockquote>
+> أَلْهَادِي إِلَيْهِ.
 
 “The guide to it.”
 
@@ -740,11 +676,7 @@ kind of Letters, contain subject-matter that is similar in nature.
  For example, in the chapters which begin with حم (Ha Mim), these
 letters are immediately followed up by the sentence:
 
-<blockquote dir="rtl">
-  <p>
-تَنْزِيْلُ الْكِتَابِ مِنَ اللٌّهِ
-  </p>
-</blockquote>
+> تَنْزِيْلُ الْكِتَابِ مِنَ اللٌّهِ
 
 “Descended this Book (Qur\`an) from Allah.” or something similar in
 meaning.
@@ -752,22 +684,14 @@ meaning.
 In the chapters which commence with الر (Alif, Lam, Ra), these Letters
 are immediately followed up by the sentence:
 
-<blockquote dir="rtl">
-  <p>
-تِلْكَ آَياَتُ الْكِتاَبِ
-  </p>
-</blockquote>
+> تِلْكَ آَياَتُ الْكِتاَبِ
 
 “These are the verses of the Book” or something similar to this.
 
 In the chapters, which begin with الم (Alif, Lam, Mim), these Letters
 are followed by the sentence:
 
-<blockquote dir="rtl">
-  <p>
-ذٌلِكَ الْكِتاَبُ لاَ رَيْبَ فِيْهِ
-  </p>
-</blockquote>
+> ذٌلِكَ الْكِتاَبُ لاَ رَيْبَ فِيْهِ
 
 “This is the Book, there is no doubt in it” or that which resembles this
 in meaning.
@@ -794,12 +718,8 @@ Qur\`an attests the contents of the previous Books'.
 
 In verse 48 of Suratul Maidah, it says:
 
-<blockquote dir="rtl">
-  <p>
-وَ أَنْزَلْنا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقاً لِمَا بَيْنَ
-يَدَيْهِ مِنَ الْكِتَابِ‏
-  </p>
-</blockquote>
+> وَ أَنْزَلْنا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقاً لِمَا بَيْنَ
+> يَدَيْهِ مِنَ الْكِتَابِ‏
 
 ***“And We have revealed to you the Book with the truth, verifying what
 is before it of the Book.”***
@@ -841,23 +761,15 @@ The use of the word تصديق (attestation) in the meaning of مطابقت
 other verses too, like verse 105 of Suratul saffat in which it is said
 to Ibrahim (a.s):
 
-<blockquote dir="rtl">
-  <p>
-قَدْ صَدَّقْتَ الرُّؤْيَا
-  </p>
-</blockquote>
+> قَدْ صَدَّقْتَ الرُّؤْيَا
 
 ***“You have attested your dream” meaning: 'Your actions were in
 conformity with the dream which you had witnessed'.***
 
 And in verse 157 of Suratul A'raf, we read:
 
-<blockquote dir="rtl">
-  <p>
-الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الأُمِّيَّ الَّذِي
-يَجِدُونَهُ مَكْتُوباً عِنْدَهُمْ فِي التَّوْرَاةِ وَ الإِِنْجِيلِ‏
-  </p>
-</blockquote>
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الأُمِّيَّ الَّذِي
+> يَجِدُونَهُ مَكْتُوباً عِنْدَهُمْ فِي التَّوْرَاةِ وَ الإِِنْجِيلِ‏
 
 ***“Those who follow the Messenger-Prophet, the Ummi, whom they find
 written down with them in the Taurat and the Injeel…”***
@@ -909,12 +821,8 @@ together. The narrator then adds that 'Ali (a.s) departed from the
 gathering, collected them in a yellow cloth and put a seal upon
 it.”[^32]
 
-<blockquote dir="rtl">
-  <p>
-وَ انْطَلَقَ عَلَي فَجَمَعَهُ فَي ثَوْبٍ أَصْفَر ثُمَّ خََتَمَ
-عَلَيْهِ.
-  </p>
-</blockquote>
+> وَ انْطَلَقَ عَلَي فَجَمَعَهُ فَي ثَوْبٍ أَصْفَر ثُمَّ خََتَمَ
+> عَلَيْهِ.
 
 Another testimony in this regard is that of the renowned Sunni scholar
 Khwarizmi, who, in his book Manaqib, reports from 'Ali b. Riyah that
@@ -1002,12 +910,8 @@ the Noble Qur\`an.[^36]
 
 In verse 7 of the chapter Ale 'Imran we read:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آياتٌ مُحْكَمَاتٌ
-هُنَّ أُمُّ الْكِتابِ وَ أُخَرُ مُتَشَابِهاتٌ‏
-  </p>
-</blockquote>
+> هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آياتٌ مُحْكَمَاتٌ
+> هُنَّ أُمُّ الْكِتابِ وَ أُخَرُ مُتَشَابِهاتٌ‏
 
 ***“He it is Who has sent down to you (O' Muhammad!) the Book, of it
 there are some clear Verses, these are the basis of the Book and others
@@ -1027,35 +931,19 @@ Thus, the Clear verses are those verses, whose meanings are so clear and
 manifest that there exists no need for any sort of discussion with
 respect to their meanings - such as the following verses…
 
-<blockquote dir="rtl">
-  <p>
-قُلْ هُوَ اللٌّهُ أَحَدٌ
-  </p>
-</blockquote>
+> قُلْ هُوَ اللٌّهُ أَحَدٌ
 
 ***“Say: He Allah is One (alone).”***[^37]
 
-<blockquote dir="rtl">
-  <p>
-لَيْسَ كَمِثْلِهِ شَيْ‏ءٌ
-  </p>
-</blockquote>
+> لَيْسَ كَمِثْلِهِ شَيْ‏ءٌ
 
 ***“Nothing whatsoever (is there) resembling the like of Him.”***[^38]
 
-<blockquote dir="rtl">
-  <p>
-اللٌّهُ خالِقُ كُلِّ شَيْ‏ءٍ
-  </p>
-</blockquote>
+> اللٌّهُ خالِقُ كُلِّ شَيْ‏ءٍ
 
 ***“Allah (alone) is the Creator of all things.”***[^39]
 
-<blockquote dir="rtl">
-  <p>
-لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ‏
-  </p>
-</blockquote>
+> لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ‏
 
 ***“The male shall have the equal of the shares of two females.”***[^40]
 
@@ -1095,31 +983,19 @@ The verses that speak of the Attributes of Allah and the details of the
 Day of Judgment can be presented as examples of the Ambiguous Verses.
 Some of these verses are as follows:
 
-<blockquote dir="rtl">
-  <p>
-يَدُ اللٌّهِ فَوْقَ أَيْدِيهِمْ
-  </p>
-</blockquote>
+> يَدُ اللٌّهِ فَوْقَ أَيْدِيهِمْ
 
 ***“The hand of Allah is above their hands”***[^41]***,***
 
 which is regarding the Power of Allah;
 
-<blockquote dir="rtl">
-  <p>
-وَ اللٌّهُ سَمِيعٌ عَلِيمٌ‏
-  </p>
-</blockquote>
+> وَ اللٌّهُ سَمِيعٌ عَلِيمٌ‏
 
 ***“And surely, Allah is All-Hearing, All-Knowing”***[^42]
 
 which refers to the Knowledge of Allah;
 
-<blockquote dir="rtl">
-  <p>
-وَ نَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيامَةِ
-  </p>
-</blockquote>
+> وَ نَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيامَةِ
 
 ***“And We shall set up the balances of justice on the Day of
 Judgment”,***[^43]
@@ -1136,11 +1012,7 @@ It is necessary to mention that محكم and متشابه have also been used
 differently in the Noble Qur\`an. In the first verse of Suratul Hud, we
 read:
 
-<blockquote dir="rtl">
-  <p>
-كِتابٌ أُحْكِمَتْ آياتُهُ
-  </p>
-</blockquote>
+> كِتابٌ أُحْكِمَتْ آياتُهُ
 
 ***“A book whose verses are firmly arranged (together).” ***
 
@@ -1149,11 +1021,7 @@ In this verse, all the verses of the Qur\`an have been characterized as
 in complete harmony with one another.  
  In verse 23 of Suratul Zumar we read:
 
-<blockquote dir="rtl">
-  <p>
-كِتاِباً مُتَشاَبِهاً
-  </p>
-</blockquote>
+> كِتاِباً مُتَشاَبِهاً
 
 ***“A Book consistent (in its parts)”, which means 'a book, all the
 verses of which are consistent and similar to one another with respect
@@ -1208,27 +1076,15 @@ various aspects. This non-expressiveness and insufficiency of the words
 is the cause of a considerable portion of the Ambiguous Verses of the
 Qur\`an. Verses like:
 
-<blockquote dir="rtl">
-  <p>
-يَدُ اللٌّهِ فَوْقَ أَيْدِيهِمْ‏
-  </p>
-</blockquote>
+> يَدُ اللٌّهِ فَوْقَ أَيْدِيهِمْ‏
 
 ***“The hand of Allah is above their hands.”***[^45]
 
-<blockquote dir="rtl">
-  <p>
-أَلرَّحْمٌنُ عَلَي الْعَرْشِ اسْتَوَى
-  </p>
-</blockquote>
+> أَلرَّحْمٌنُ عَلَي الْعَرْشِ اسْتَوَى
 
 ***“The Beneficent (Allah) on the 'Arsh' is firm.”***[^46]
 
-<blockquote dir="rtl">
-  <p>
-إِلـى‏ رَبِّها نَاظِرَةٌ  
-  </p>
-</blockquote>
+> إِلـى‏ رَبِّها نَاظِرَةٌ
 
 ***“Unto their Lord (they will be) attentive.”***[^47]
 
@@ -1278,13 +1134,9 @@ this dependency acquire inspiration from his thoughts and ideas in all
 issues.  In the case of the Qur\`an, this is a confirmation of the
 famous testament of the Noble Prophet (s.a.w):
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي تَارِكٌ فِيكُمُ الثِّقْلَيْنِ كِتَابَ اللٌّهِ وَ عِتْرَتِي
-أَهْلَ بَيْتِي وَ إِنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَلَيَّ
-الْحَوْضَ‏.
-  </p>
-</blockquote>
+> إِنِّي تَارِكٌ فِيكُمُ الثِّقْلَيْنِ كِتَابَ اللٌّهِ وَ عِتْرَتِي
+> أَهْلَ بَيْتِي وَ إِنَّهُمَا لَنْ يَفْتَرِقَا حَتَّى يَرِدَا عَلَيَّ
+> الْحَوْضَ‏.
 
 “I leave behind amongst you two Weighty Things; the Book of Allah and my
 Progeny. And surely, the two shall not separate from one another till
@@ -1361,12 +1213,8 @@ iii. Baihaqi, the renowned Sunni narrator, upon the authority of an
 authentic chain of narrators reports from Ibn Jubair that Ibn 'Abbas
 said:
 
-<blockquote dir="rtl">
-  <p>
-إِسْتَرَقَ الشَّيْطاَنُ مِنَ النَّاسِ، أََعْظَمَ آيَةٍ مِنَ الْقُرْآنِ
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيْم.
-  </p>
-</blockquote>
+> إِسْتَرَقَ الشَّيْطاَنُ مِنَ النَّاسِ، أََعْظَمَ آيَةٍ مِنَ الْقُرْآنِ
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيْم.
 
 “Satan has tried to steal the greatest verse of the Qur'an away from the
 people, and that is Bismillahir RaHmanir RaHim) (an allusion to the fact
@@ -1404,12 +1252,8 @@ commentary Tafsir al-Kabir when he says: “There is no harm if
 of the first verse, in the other chapters of the Qur\`an.”  Thus, for
 example, in Suratul Kauthar,
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. إَنَّا أَعْطَيْنَاكَ
-الْكَوْثَرَ
-  </p>
-</blockquote>
+> بِسْمِ اللٌّهِ الرَّحْمٌنِ الرَّحِيمِ. إَنَّا أَعْطَيْنَاكَ
+> الْكَوْثَرَ
 
 in its entirety, shall be considered to be one verse.
 
@@ -1418,11 +1262,7 @@ during his reign, Mu'awiyah did not recite Bismillah during a
 congregational prayer. After the prayers some of the Muhajirin (The
 Emigrants) and the Ansar (The Helpers) confronted him and said:
 
-<blockquote dir="rtl">
-  <p>
- اَسْرَقْتَ اَمْ نَسَيْتَ؟
-  </p>
-</blockquote>
+>  اَسْرَقْتَ اَمْ نَسَيْتَ؟
 
 “Have you stolen (Bismillah) or have you forgotten it?”[^57]& [^58]  
   
@@ -1566,5 +1406,4 @@ correct and authentic.
 [^58]: Tafsir-e-Namunah, vol. 1, pg. 17
 
 [^59]: Ibid., vol. 19, pg. 417
-
 

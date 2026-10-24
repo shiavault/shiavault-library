@@ -1,14 +1,10 @@
 Section Sixteen and Seventeen
 =============================
 
-<blockquote dir="rtl">
-  <p>
-بَرِئْتُ إِلَى اللّهِ وَإِلَيْكُمْ مِنْهُمْ، وَأَتَقَرَّبُ إِلَى
-اللّهِ ثُمَّ إِلَيْكُمْ بِمُوالاتِكُمْ وَمُوالاةِ وَلِيِّكُمْ،
-وَبِالْبَراءَةِ مِنْ أَعْدائِكُمْ، وَالنَّاصِبِينَ لَكُمُ الْحَرْبَ،
-وَبِالْبَراءَةِ مِنْ أَشْيَاعِهِمْ وَأَتْبَاعِهِمْ
-  </p>
-</blockquote>
+> بَرِئْتُ إِلَى اللّهِ وَإِلَيْكُمْ مِنْهُمْ، وَأَتَقَرَّبُ إِلَى
+> اللّهِ ثُمَّ إِلَيْكُمْ بِمُوالاتِكُمْ وَمُوالاةِ وَلِيِّكُمْ،
+> وَبِالْبَراءَةِ مِنْ أَعْدائِكُمْ، وَالنَّاصِبِينَ لَكُمُ الْحَرْبَ،
+> وَبِالْبَراءَةِ مِنْ أَشْيَاعِهِمْ وَأَتْبَاعِهِمْ
 
 “I disassociate myself from them through Allah and through all of you
 and I seek nearness to Allah and then to you through love for you and
@@ -24,12 +20,8 @@ words since if there is even an atom’s weight of love in our hearts for
 the enemies of Allah, it is **impossible** to love Allah, His Messenger
 and the Ahlul Bayt.
 
-<blockquote dir="rtl">
-  <p>
-إِنِّي سِلْمٌ لِمَنْ سالَمَكُمْ، وَحَرْبٌ لِمَنْ حارَبَكُمْ، وَوَلِيٌّ
-لِمَنْ والاكُمْ، وَعَدُوٌّ لِمَنْ عاداكُمْ
-  </p>
-</blockquote>
+> إِنِّي سِلْمٌ لِمَنْ سالَمَكُمْ، وَحَرْبٌ لِمَنْ حارَبَكُمْ، وَوَلِيٌّ
+> لِمَنْ والاكُمْ، وَعَدُوٌّ لِمَنْ عاداكُمْ
 
 “Surely I am at peace with those who are at peace with you and I am at
 war with those who are at war with you and I am a friends to those who
@@ -46,5 +38,4 @@ necessarily be loyal to them and **also** those who love and follow
 them. When we realize who the enemies of Allah, the Prophet and his
 Ahlul Bayt are we would necessarily also have an aversion to them and
 would be in a state of perpetual war with them...
-
 

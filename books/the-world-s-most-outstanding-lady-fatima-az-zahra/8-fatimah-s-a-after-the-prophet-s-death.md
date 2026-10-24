@@ -1,11 +1,7 @@
 Fatimah (s.a.) After the Prophet’s Death
 ========================================
 
-<blockquote dir="rtl">
-  <p>
-ما زالت بعد أبيها معصبة الرأس باكية العين، محترقة القلب
-  </p>
-</blockquote>
+> ما زالت بعد أبيها معصبة الرأس باكية العين، محترقة القلب
 
 *“After the death of the Prophet (S), she continually wore the scarf of
 mourning on her head, possessing crying eyes and a burning heart.**”***
@@ -39,12 +35,8 @@ created by the people.
 tell him of her grief. And she speaks heart - rendering words that burn
 our inner soul just like burning embers:
 
-<blockquote dir="rtl">
-  <p>
-يا أبتاه بقيت و الهةً و حيرانةً فريدة، قد انخمد صوتي و انقطع ظهري و
-تنغص عيشي
-  </p>
-</blockquote>
+> يا أبتاه بقيت و الهةً و حيرانةً فريدة، قد انخمد صوتي و انقطع ظهري و
+> تنغص عيشي
 
 *“Father dear, after you, I feel lonely. I have remained perplexed and
 deprived, my mouth is inclined to silence, and my back is broken, and
@@ -52,19 +44,11 @@ the wholesome water of life has become bitter to my taste.”* [^2]
 
 And, sometimes she would say:
 
-<blockquote dir="rtl">
-  <p>
-قُل للمُغيّبِ تَحتَ أطباقِ الثّرى \*\* انْ كُنتَ تَسمَعُ صَرخَتي وَ
-نِدائيا
-  </p>
-</blockquote>
+> قُل للمُغيّبِ تَحتَ أطباقِ الثّرى \*\* انْ كُنتَ تَسمَعُ صَرخَتي وَ
+> نِدائيا
 
-<blockquote dir="rtl">
-  <p>
-صُبّتْ عَليَّ مَصائِبٌ لَوْ أنَّها \*\* صُبّتْ عَلى الايَّامِ صِرنَ
-لَيَالِيا
-  </p>
-</blockquote>
+> صُبّتْ عَليَّ مَصائِبٌ لَوْ أنَّها \*\* صُبّتْ عَلى الايَّامِ صِرنَ
+> لَيَالِيا
 
 *“The person who smells the pure soil of the grave of Prophet (S), it is
 only fair that until the end of his life he should smell no other
@@ -82,41 +66,17 @@ Why does Fatimah (s.a.) shed tears in this way?
 the prophet, and asked her how she was, in reply these meaningful
 sentences were spoken by her:
 
-<blockquote dir="rtl">
-  <p>
-أصبحت بين كمد و كرب
-  </p>
-</blockquote>
+> أصبحت بين كمد و كرب
 
-<blockquote dir="rtl">
-  <p>
-فقد النبىِّ و ظلم الوصي
-  </p>
-</blockquote>
+> فقد النبىِّ و ظلم الوصي
 
-<blockquote dir="rtl">
-  <p>
-هُتكَ و الله حجابه...
-  </p>
-</blockquote>
+> هُتكَ و الله حجابه...
 
-<blockquote dir="rtl">
-  <p>
-ولكنها أحقاد بدرية
-  </p>
-</blockquote>
+> ولكنها أحقاد بدرية
 
-<blockquote dir="rtl">
-  <p>
-وثارات أحدية
-  </p>
-</blockquote>
+> وثارات أحدية
 
-<blockquote dir="rtl">
-  <p>
-كانت عليها قلوب النفاق مكتمنة
-  </p>
-</blockquote>
+> كانت عليها قلوب النفاق مكتمنة
 
 *Why are you asking me how I am Umm Salamah, when I am caught in the
 middle of much sadness and suffering? On the one hand I have lost my
@@ -145,5 +105,4 @@ Ali’s right or for the defence of Islam.
 
 [^3]: مناقب ابن شهر آشوب، ج2، ص225 “Manaqeb Ibn Shahr Ashoob”; vol. 2
 pg. 225
-
 

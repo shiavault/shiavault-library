@@ -42,4 +42,3 @@ father'."
 
 Al-Kafi, vol. 2, p. 162
 
-

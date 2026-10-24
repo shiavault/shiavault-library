@@ -625,4 +625,3 @@ of absolute spiritual and physical safety; surely He responds to
 supplications, and peace be with you, the mercy of Allah and His
 blessings.
 
-

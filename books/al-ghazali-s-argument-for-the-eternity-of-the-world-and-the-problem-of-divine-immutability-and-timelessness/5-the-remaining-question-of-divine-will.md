@@ -65,4 +65,3 @@ is a force of desire, God cannot have will, for it would involve change
 in the divine essence. As such, one can only speak of an “eternal will”
 in an analogous sense.[^61]
 
-

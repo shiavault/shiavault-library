@@ -106,4 +106,3 @@ have found that his claim could not hold water. [Here the author alludes
 to the Qur’an, Chapter 49 verse 6 and he said this with respect to Ibn
 al–Mu’taz because the man led an immoral life].
 
-

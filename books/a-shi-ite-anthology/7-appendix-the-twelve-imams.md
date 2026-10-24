@@ -242,4 +242,3 @@ evil and injustice from the world.
 difference in perspective represented by Sunnism and Shi'ism see F.
 Schuon, Islam and the Perennial Philosophy, London, 1976, ch. 5. 
 
-

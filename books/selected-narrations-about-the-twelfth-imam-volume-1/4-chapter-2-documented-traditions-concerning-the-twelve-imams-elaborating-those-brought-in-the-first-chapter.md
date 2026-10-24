@@ -32,12 +32,8 @@ tradition.’ He responded, ‘I have heard the same tradition from (my
 master) Ibn Abbas and he recited ‘And We have not sent down before you
 any prophet or messenger or muhaddath”.
 
-<blockquote dir="rtl">
-  <p>
-وَمَا اَرْسَلْنَا مِنْ قَبْلِكَ مِنْ نَبِىٍّ وَ لاَ رَسُوْلٍ وَ لاَ
-مُحَدَّث
-  </p>
-</blockquote>
+> وَمَا اَرْسَلْنَا مِنْ قَبْلِكَ مِنْ نَبِىٍّ وَ لاَ رَسُوْلٍ وَ لاَ
+> مُحَدَّث
 
 And he said, ‘By Allah! They are the Muhaddathoon.’
 
@@ -56,11 +52,7 @@ was then a suckling child and said, “Then eight descendants from his
 progeny one after the other. They are those about whom Allah has
 promised in His book
 
-<blockquote dir="rtl">
-  <p>
-وَ وَالِدٍ وَمَا وَلَدَ
-  </p>
-</blockquote>
+> وَ وَالِدٍ وَمَا وَلَدَ
 
 ***‘And a father and what he begets.’(Surah Balad (90): Verse 3)***
 
@@ -140,12 +132,8 @@ number of the springs that gushed for Moosa Ibn Imraan (a.s.) when he
 struck the stone with his staff and their gushed twelve springs from it.
 Their number is equal to the chiefs of Bani Israel. Allah the High says,
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ اَخَذَ اللهُ مِيْثَاقَ بَنِى اِسرَائِيلَ وَ بَعَثْنَا
-مِنْهُمْ اِثْنى عَشَرَ نَقِيْبًا
-  </p>
-</blockquote>
+> وَلَقَدْ اَخَذَ اللهُ مِيْثَاقَ بَنِى اِسرَائِيلَ وَ بَعَثْنَا
+> مِنْهُمْ اِثْنى عَشَرَ نَقِيْبًا
 
 ‘And indeed We took the covenant from the Bani Israel and raised from
 them twelve chiefs.’ So, O Jaaber, the Imams are twelve. First of them
@@ -171,11 +159,7 @@ number of the months and these are twleve. Their number is equal to the
 number of the chiefs of Moosa Ibn Imraan (a.s.).” Then he (s.a.w.a.)
 recited the following verse,
 
-<blockquote dir="rtl">
-  <p>
-وَالسَّمَآءِ ذَاتِ الْبُرُوْجِ
-  </p>
-</blockquote>
+> وَالسَّمَآءِ ذَاتِ الْبُرُوْجِ
 
 ***‘I swear by the mansions of the stars.’***
 
@@ -415,11 +399,7 @@ we picked him up but he was dead (may Allah have mercy on him).’
 170. Kefaayah al-Asar[^24]: Abu Hurairah narrates that I asked the
 Messenger of Allah (s.a.w.a.) concerning the saying of Allah,
 
-<blockquote dir="rtl">
-  <p>
-وَ جَعَلَهَا كَلِمَةً بَاقِيَةً فِىْ عَقِبِه لِعَلَّهُمْ يَرْجِعُوْنَ
-  </p>
-</blockquote>
+> وَ جَعَلَهَا كَلِمَةً بَاقِيَةً فِىْ عَقِبِه لِعَلَّهُمْ يَرْجِعُوْنَ
 
 ***And he made it a word to continue in his posterity that they may
 return.***
@@ -669,11 +649,7 @@ Shias, Allah’s religion would not have been durable.”
 184. Kefaayah al-Asar[^38]: Abu Zarr (r.a.) states that I heard Hazrat
 Fatemah (s.a.) say, ‘I asked my father concerning the verse,
 
-<blockquote dir="rtl">
-  <p>
-وَ عَلَى الاَعْرَافِ رِجَال يَعْرِفُوْنَ كُلاً بِسِيْمَاهُمْ
-  </p>
-</blockquote>
+> وَ عَلَى الاَعْرَافِ رِجَال يَعْرِفُوْنَ كُلاً بِسِيْمَاهُمْ
 
 ***And the dwellers of the most elevated places shall call out to men
 whom they will recognize by their marks saying*** (Qur’an Surah A’raaf
@@ -863,11 +839,7 @@ replete with injustice and oppression.”
 195. Kamaal al-Deen[^49]: Saalem, the slave of Saaburi, informs that I
 asked Imam Sadeq (a.s.) concerning the verse,
 
-<blockquote dir="rtl">
-  <p>
-أصْلُهَا ثَابِتٌ وَ فَرْعُهَا فِىْ السَّمَآءِ
-  </p>
-</blockquote>
+> أصْلُهَا ثَابِتٌ وَ فَرْعُهَا فِىْ السَّمَآءِ
 
 ***Its root is firm and its branch is in the sky. (***Qur’an Surah
 Ibraheem 14: 24)
@@ -878,11 +850,7 @@ its fruits, the nine descendants of Husain (a.s.) are its twigs and the
 Shias are its leaves. By Allah! Surely when a person from them (Shias)
 dies, a leaf from this tree falls.” I asked regarding the verse
 
-<blockquote dir="rtl">
-  <p>
-تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
-  </p>
-</blockquote>
+> تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
 
 ***Yielding its fruit in every season by the permission of its Lord?***
 (Surah Ibraheem 14: 25)
@@ -893,11 +861,7 @@ you every year from the Hajj and the Umrah.”
 196. Kamaal al-Deen[^50]: Mufazzal Ibn Umar relates that I asked Imam
 Ja’far Ibn Muhammad al-Sadeq (a.s.) about the Quranic verse,
 
-<blockquote dir="rtl">
-  <p>
-وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ
-  </p>
-</blockquote>
+> وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ
 
 And when your Lord examined Ibraheem with some words, then he completed
 these[^51] what were these words? He (a.s.) replied, “These were the
@@ -963,12 +927,8 @@ me to have more authority on him than his own self must also deem Ali
 (a.s.) to be having more authority on him than his own self. After this,
 Allah, His remembrance be high, revealed,
 
-<blockquote dir="rtl">
-  <p>
-الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
-نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا
-  </p>
-</blockquote>
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ
+> نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا
 
 ***This day I have perfected for you your religion and completed My
 bounties upon you and am satisfied with Islam as your religion.***
@@ -998,12 +958,8 @@ Allah!’ (The tradition continues till he (s.a.w.a.) said)
 “Then Ali (a.s.) said, ‘O people! Do you know that Allah has revealed in
 His Book,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***Surely Allah intends to keep all the filth away only from you, O Ahl
 al-Bait, and purify you, a purification.”*** (Qur’an Surah Ahzaab 33:
@@ -1023,17 +979,9 @@ Abi Taalib (a.s.), my two sons and the nine descendants of my son Husain
 (a.s.).” (The tradition continues till Ali (a.s.) started talking about
 the descent of the verse,
 
-<blockquote dir="rtl">
-  <p>
-لِيَكُوْنَ الرَّسُوْلُ عَلَيْكُمْ شَهِيْدًا وَ تَكُوْنُوْا
-  </p>
-</blockquote>
+> لِيَكُوْنَ الرَّسُوْلُ عَلَيْكُمْ شَهِيْدًا وَ تَكُوْنُوْا
 
-<blockquote dir="rtl">
-  <p>
-شُهَدَاء عَلَى النَّاسِ
-  </p>
-</blockquote>
+> شُهَدَاء عَلَى النَّاسِ
 
 ***“That the Messenger may be a witness on you and you may be a witness
 upon the people.”*** (Qur’an Surah Hajj 22: 78)
@@ -1490,12 +1438,8 @@ the Prophet (s.a.w.a.) expired and they laid him in his grave, they
 chose with their desire and acted whimsically. Woe unto them! Did they
 not hear the sayings of Allah,
 
-<blockquote dir="rtl">
-  <p>
-وَ رَبُّكَ يَخْلُقُ مَا يَشَاءُ وَ يَخْتَار مَا كَانَ لَهُمُ
-الْخِيَرَة
-  </p>
-</blockquote>
+> وَ رَبُّكَ يَخْلُقُ مَا يَشَاءُ وَ يَخْتَار مَا كَانَ لَهُمُ
+> الْخِيَرَة
 
 (Qur’an Surah Qasas 28: 68)
 
@@ -1504,11 +1448,7 @@ choice for them.’ Nay! They heard but they were as Allah,***
 
 Glorified be He, has described
 
-<blockquote dir="rtl">
-  <p>
-فَتَعسًا لَهُمْ وَ اَضَلّ اَعْمَالَهُمْ
-  </p>
-</blockquote>
+> فَتَعسًا لَهُمْ وَ اَضَلّ اَعْمَالَهُمْ
 
 (Qur’an Surah Hajj 22: 46)
 
@@ -1518,23 +1458,15 @@ their chests that had become blind.’***
 How wrong were they! They unfolded their hopes in this world and they
 forgot their deaths.
 
-<blockquote dir="rtl">
-  <p>
-فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِن تَعْمَى الْقُلُوبُ الَّتِي
-فِي الصُّدُورِ
-  </p>
-</blockquote>
+> فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِن تَعْمَى الْقُلُوبُ الَّتِي
+> فِي الصُّدُورِ
 
 ***And (as for) those who disbelieve, for them is destruction and He has
 made their deeds ineffective.***
 
 (Qur’an Surah Muhammad 47: 8)
 
-<blockquote dir="rtl">
-  <p>
-اعُوْذُ بِكَ يَا رَبِّ من الحور بعد الكور
-  </p>
-</blockquote>
+> اعُوْذُ بِكَ يَا رَبِّ من الحور بعد الكور
 
 ***O Lord! I seek refuge in You from loss after profit.***
 
@@ -1544,12 +1476,8 @@ Allah have been cursed on the tongues of seventy prophets (a.s.).
 Whoever disputes concerning the signs of Allah, has indeed disbelieved.
 Allah, Mighty and Glorified be He, says,
 
-<blockquote dir="rtl">
-  <p>
-مَا يُجَادِلُ فِى آيَاتِ اللهِ اِلاَّ الَّذِيْنَ كَفَرُوْا فَلاَ
-يَغْرُرْكَ تَقَلّبُهُمْ فِى الْبِلاَد
-  </p>
-</blockquote>
+> مَا يُجَادِلُ فِى آيَاتِ اللهِ اِلاَّ الَّذِيْنَ كَفَرُوْا فَلاَ
+> يَغْرُرْكَ تَقَلّبُهُمْ فِى الْبِلاَد
 
 ***None dispute concerning the communications of Allah but those who
 disbelieve, therefore let not their going to and fro in the cities
@@ -1662,11 +1590,7 @@ the sky in this regard on the tongue of the Trustworthy Spirit Jibraeel
 with him (s.a.w.a.), concerning the Imams after him. He (s.a.w.a.)
 replied to the questioner,
 
-<blockquote dir="rtl">
-  <p>
-وَالسّمَاءِ ذَاتِ الْبُرُوْج
-  </p>
-</blockquote>
+> وَالسّمَاءِ ذَاتِ الْبُرُوْج
 
 ***By the sky, the possessor of constellations***! (Qur’an Surah Buruj
 85:1)
@@ -1718,11 +1642,7 @@ superiority and deny their sanctity after me. Allah suffices as a Master
 and as a Helper for my progeny and the Imams of my Ummah, and as an
 Avenger for those who have denied them their rights.
 
-<blockquote dir="rtl">
-  <p>
-وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ
-  </p>
-</blockquote>
+> وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ
 
 ***And they who act unjustly shall know to what final place of turning
 they shall turn back***. (Qur’an Surah Shuara 26: 227)
@@ -2046,12 +1966,8 @@ is war with me and war with me is war with Allah. Their peace is my
 peace and my peace is Allah’s peace.” Then the Messenger of Allah
 (s.a.w.a.) recited the Quranic verse,
 
-<blockquote dir="rtl">
-  <p>
-يُرِيدُونَ أَن يُطْفِؤُواْ نُورَ اللهِ بِأَفْوَاهِهِمْ وَيَأْبَى اللهُ
-إِلاَّ أَن يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ
-  </p>
-</blockquote>
+> يُرِيدُونَ أَن يُطْفِؤُواْ نُورَ اللهِ بِأَفْوَاهِهِمْ وَيَأْبَى اللهُ
+> إِلاَّ أَن يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ
 
 ***They intend to extinguish Allah’s light with their mouths and Allah
 will not allow but to complete His light even if the unbelievers dislike
@@ -2108,12 +2024,8 @@ concerning them, Allah will not make my intercession reach unto them.”’
 heard Jaaber Ibn Abdullah Ansaari say, ‘When Allah, Mighty and Glorified
 be He, revealed upon His Prophet Muhammad (s.a.w.a.),
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***O ye who believe! Obey Allah and obey the messenger and those
 possessing authority among you***. (Qur’an Surah Nisaa 4: 59)
@@ -2333,11 +2245,7 @@ equity, as it would be fraught with injustice and oppression. He will
 bear the awe of (Prophet) Moosa, the judgement of Dawood and the
 brightness of Eesa. Then he (s.a.w.a.) recited the verse,
 
-<blockquote dir="rtl">
-  <p>
-ذُرِّيَّةً بَعْضُهَا مِن بَعْضٍ وَاللّهُ سَمِيعٌ عَلِيمٌ
-  </p>
-</blockquote>
+> ذُرِّيَّةً بَعْضُهَا مِن بَعْضٍ وَاللّهُ سَمِيعٌ عَلِيمٌ
 
 ***Offspring, one of the other. And Allah is the Hearing, the
 Knowing.*** (Qur’an Surah Aale Imran 3: 34)
@@ -2443,11 +2351,7 @@ Messenger of Allah (s.a.w.a.)! Then what about the descendants of Hasan
 has placed Imamat in the progeny of Husain (a.s.) and this is His
 saying, Mighty and Glorified be He,
 
-<blockquote dir="rtl">
-  <p>
-وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
-  </p>
-</blockquote>
+> وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ
 
 ***And He made it a remaining word in his posterity.*** (Qur’an Surah
 Zukhruf 43: 28)
@@ -2590,12 +2494,8 @@ and the unbelievers’.”
 went to the Messenger of Allah (s.a.w.a.) in the house of Umm Salmah
 (r.a.) when the verse,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
-وَيُطَهِّرَكُمْ تَطْهِيرًا
-  </p>
-</blockquote>
+> إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+> وَيُطَهِّرَكُمْ تَطْهِيرًا
 
 ***Surely Allah intends to keep all the filth away only from you, O Ahl
 al-Bait, and purify you, a purification***. (Qur’an Surah Ahzaab 33:
@@ -2634,11 +2534,7 @@ from the pulpit, I asked, ‘O Messenger of Allah (s.a.w.a.)! Aren’t you
 the proof (of Allah) upon the creation, all of them?’ He (s.a.w.a.)
 replied, ‘O Hasan! Verily Allah says,
 
-<blockquote dir="rtl">
-  <p>
-إنّما اَنْتَ مُنْذِرٌ وَ لكُلِّ قَوْمٍ هَاد
-  </p>
-</blockquote>
+> إنّما اَنْتَ مُنْذِرٌ وَ لكُلِّ قَوْمٍ هَاد
 
 ***You are only a warner and for every nation there is a guide***.
 (Surah Ra’d (13): Verse 7)
@@ -2679,11 +2575,7 @@ of his friends. He will go in occultation and remain unseen. A group of
 people will turn away from believing in him while others will remain
 steadfast
 
-<blockquote dir="rtl">
-  <p>
-وَ يَقُوْلُوْنَ مَتى هذَا الْوَعْدُ اِنْ كُنْتُمْ صَادِقِيْنِ
-  </p>
-</blockquote>
+> وَ يَقُوْلُوْنَ مَتى هذَا الْوَعْدُ اِنْ كُنْتُمْ صَادِقِيْنِ
 
 ***And they say when is this promise, if you were truthful? (***Qur’an
 Surah Yunus 10: 48; Qur’an Surah Anbiya 21: 38; Qur’an Surah Naml 27:
@@ -2769,11 +2661,7 @@ will free his neck from the fire’.”
 261. Kefaayah al-Asar[^122]: Imam Husain Ibn Ali (a.s.) recounts, “When
 the verse of the Holy Quran
 
-<blockquote dir="rtl">
-  <p>
-وَ اُوْلُوْا الْاَرْحَامِ بَعْضُهُمْ اَوْلي بِبَعْضٍ
-  </p>
-</blockquote>
+> وَ اُوْلُوْا الْاَرْحَامِ بَعْضُهُمْ اَوْلي بِبَعْضٍ
 
 ***And the possessors of relationships, some of them are worthier than
 the others, (***Qur’an Surah Anfaal 8: 75)
@@ -2901,11 +2789,7 @@ right hands.’ Ibraheem (a.s.) implored, ‘My God! Make me from their
 Shias and lovers.’ Allah responded, ‘I have made you.’ Thereafter,
 Allah, the High, revealed concerning him,
 
-<blockquote dir="rtl">
-  <p>
-وان من شيعته لابراهيم. اذ جاء ربه بقلب سليم
-  </p>
-</blockquote>
+> وان من شيعته لابراهيم. اذ جاء ربه بقلب سليم
 
 ***And surely from his Shias is Ibraheem. When he came to his Lord with
 a secure heart***. (Qur’an Surah Saaffaat 37: 83-84)
@@ -2920,11 +2804,7 @@ of Allah (s.a.w.a.)’s camel narrates that he heard the Messenger of
 Allah (s.a.w.a.) say, “When I was taken to the skies, (Allah) the
 Mighty, majestic be His praise, said,
 
-<blockquote dir="rtl">
-  <p>
-آمن الرسول بما انزل اليه من ربّه
-  </p>
-</blockquote>
+> آمن الرسول بما انزل اليه من ربّه
 
 ***The Messenger believed on what was revealed to him from his Lord***.
 (Qur’an Surah Baqarah 2: 285.)
@@ -3056,11 +2936,7 @@ Allah, while He is purified and cleansed of his sins, then he should
 befriend Ali Ibn Husain (a.s.). For surely, it is like Allah, the High,
 has said,
 
-<blockquote dir="rtl">
-  <p>
-سِيمَاهُمْ فِي وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ
-  </p>
-</blockquote>
+> سِيمَاهُمْ فِي وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ
 
 ***Their marks are on their faces due to the effects of prostration***.
 (Surah Fath (48): Verse 29)
@@ -3252,11 +3128,7 @@ Imamat in the posterity of (both) Hasan and Husain.’ He (a.s.) denied,
 “They lie, by Allah, did they not hear Allah, high be His remembrance,
 says,
 
-<blockquote dir="rtl">
-  <p>
-وجعلها كلمة باقية في عقبه
-  </p>
-</blockquote>
+> وجعلها كلمة باقية في عقبه
 
 ***And he made it a word to continue in his posterity. (***Qur’an Surah
 Zukhruf 43: 28.)
@@ -3286,11 +3158,7 @@ I asked, ‘Master! Is not this affair for you?’ Imam (a.s.) replied in
 the affirmative. I enquired again, ‘Then why are you sitting upon your
 rights and your claims, while Allah, Blessed and High be He, orders,
 
-<blockquote dir="rtl">
-  <p>
-و جاهدوا في الله حق جهاده هو اجتباكم
-  </p>
-</blockquote>
+> و جاهدوا في الله حق جهاده هو اجتباكم
 
 ***And strive hard in the way of Allah, a striving as is due to Him. He
 has chosen you***. (Qur’an Surah Hajj 22: 28.)
@@ -3299,33 +3167,21 @@ He (a.s.) retorted, “Why did Ameerul Momineen Ali (a.s.) sit upon his
 right? Because he did not find any helper. Did you not hear Allah say in
 the story of Lut,
 
-<blockquote dir="rtl">
-  <p>
-قال لو ان لي بكم قوة او آوي الي ركن شديد
-  </p>
-</blockquote>
+> قال لو ان لي بكم قوة او آوي الي ركن شديد
 
 ***He said: Ah! That I had power to suppress you, rather I shall have
 recourse to a strong support***. (Qur’an Surah Hud 11: 80)
 
 Or did you not hear Allah say in the incident of Nuh,
 
-<blockquote dir="rtl">
-  <p>
-فدعا ربّه اني مغلوبٌ فانتصر
-  </p>
-</blockquote>
+> فدعا ربّه اني مغلوبٌ فانتصر
 
 ***Then he called out to his Lord, I have been overpowered, so grant me
 victory***. (Qur’an Surah Qamar 54: 10.)
 
 And He says in the story of Moosa,
 
-<blockquote dir="rtl">
-  <p>
-ربّ انيّ لا املك إلاّ نفسي و اخي فافرق بيننا و بين القوم الفاسقين
-  </p>
-</blockquote>
+> ربّ انيّ لا املك إلاّ نفسي و اخي فافرق بيننا و بين القوم الفاسقين
 
 ***He said: My Lord! Surely I have not control but my ownself and my
 brother; therefore make a separation between us and the nation of
@@ -3398,24 +3254,16 @@ successor upon them and his administrator who is unto the Prophet
 (s.a.w.a.) as Haroon (a.s.) was to Moosa (a.s.). His obedience is
 obligatory as per the saying of Allah, Mighty and Glorified be He,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***O you who believe! Obey Allah, obey the Messenger and those in
 authority amongst you***. (Qur’an Surah Nisaa 4: 59)
 
 And Allah, Mighty and Glorified be He, said,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
-يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
-  </p>
-</blockquote>
+> إِنَّمَا وَلِيُّكُمُ اللّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُواْ الَّذِينَ
+> يُقِيمُونَ الصَّلاَةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ
 
 ***Only Allah is your Master and His Messenger and those who believe,
 who establish prayer and give zakaat while they are in a state of
@@ -3611,13 +3459,9 @@ Ubayy enquired, ‘What are these prayers, O Messenger of Allah
 He (s.a.w.a.) answered, “When you are sitting after finishing your
 prayers say,
 
-<blockquote dir="rtl">
-  <p>
-اللهم إني أسألك بكلماتك ومعاقد عرشك وسكان سماواتك (وأرضك) وأنبيائك
-ورسلك (أن تستجيب لي) فقد رهقني من أمري عسر، فأسألك أن تصلي على محمد
-وآل محمد وأن تجعل لي من عسري يسرا
-  </p>
-</blockquote>
+> اللهم إني أسألك بكلماتك ومعاقد عرشك وسكان سماواتك (وأرضك) وأنبيائك
+> ورسلك (أن تستجيب لي) فقد رهقني من أمري عسر، فأسألك أن تصلي على محمد
+> وآل محمد وأن تجعل لي من عسري يسرا
 
 O Allah! Certainly I ask You for the sake of Your Kingdom, the
 contracting parties of Your Might, the residents of Your heavens (and
@@ -3641,12 +3485,8 @@ He asked, ‘Then, what is his name and what is his supplication?’
 
 He (s.a.w.a.) explained, “His name is Ali and his supplication is,
 
-<blockquote dir="rtl">
-  <p>
-يا دائم يا ديموم، يا حي يا قيوم، يا كاشف الغم ويا فارج الهم، ويا باعث
-الرسل، ويا صادق الوعد
-  </p>
-</blockquote>
+> يا دائم يا ديموم، يا حي يا قيوم، يا كاشف الغم ويا فارج الهم، ويا باعث
+> الرسل، ويا صادق الوعد
 
 O Eternal! O Everlasting! O Living! O Controller! O Reliever of sorrows!
 O Remover of grief! O Sender of Messengers and O Truthful in His
@@ -3674,12 +3514,8 @@ He (s.a.w.a.) replied, “His name is Muhammad. Verily, the angels will
 soon be acquainted with him in the heavens and invoke with his
 invocation.
 
-<blockquote dir="rtl">
-  <p>
-اللهم إن كان لي عندك رضوان وود فاغفر لي ولمن تبعني من إخواني وشيعتي
-وطيب ما في صلبي
-  </p>
-</blockquote>
+> اللهم إن كان لي عندك رضوان وود فاغفر لي ولمن تبعني من إخواني وشيعتي
+> وطيب ما في صلبي
 
 O Allah! If there is any satisfaction or love near You for me, then
 forgive me and whoever follows me from my brothers or my followers, and
@@ -3691,14 +3527,10 @@ purified this sperm and named it Ja’far and made him a guide, the guided
 one, he is satisfied with Allah and Allah is satisfied with him. He
 prays to his Lord and says in his supplication,
 
-<blockquote dir="rtl">
-  <p>
-يا ديان غير متوان يا أرحم الراحمين اجعل لشيعتي من النار وقاء، ولهم
-عندك رضاء، فاغفر ذنوبهم، ويسر امورهم، واقض ديونهم، واستر عوراتهم، وهب
-لهم الكبائر التي بينك وبينهم، يا من لا يخاف الضيم ولا تأخذه سنة ولا
-نوم، اجعل لي من كل (هم) وغم فرجا
-  </p>
-</blockquote>
+> يا ديان غير متوان يا أرحم الراحمين اجعل لشيعتي من النار وقاء، ولهم
+> عندك رضاء، فاغفر ذنوبهم، ويسر امورهم، واقض ديونهم، واستر عوراتهم، وهب
+> لهم الكبائر التي بينك وبينهم، يا من لا يخاف الضيم ولا تأخذه سنة ولا
+> نوم، اجعل لي من كل (هم) وغم فرجا
 
 O Untiring Provider! O the most Merciful of all mercifuls! Grant
 protection for my Shias from the fire and satisfaction near You for
@@ -3726,13 +3558,9 @@ forefathers?’
 
 He (s.a.w.a.) replied, “Yes. He will say in his supplications
 
-<blockquote dir="rtl">
-  <p>
-يا خالق الخلق، ويا باسط الرزق، ويا فالق الحب (والنوى)، ويا بارئ النسم
-ومحيي الموتي ومميت الاحياء، و (يا) دائم الثبات، ومخرج النبات افعل بي
-ما أنت أهله
-  </p>
-</blockquote>
+> يا خالق الخلق، ويا باسط الرزق، ويا فالق الحب (والنوى)، ويا بارئ النسم
+> ومحيي الموتي ومميت الاحياء، و (يا) دائم الثبات، ومخرج النبات افعل بي
+> ما أنت أهله
 
 O Creator of creation! O Giver of sustenance! O Splitter of grain! O
 Creator of winds! O Giver of life to the dead and Who causes death to
@@ -3748,12 +3576,8 @@ his creation. He made him a proof for his Shias, through which they will
 demonstrate on the Day of Judgment. He has an invocation by which he
 invokes
 
-<blockquote dir="rtl">
-  <p>
-اللهم أعطني الهدى، وثبتني عليه، واحشرني عليه آمنا أمن من لا خوف عليه
-ولا حزن ولا جزع، إنك أهل التقوى وأهل المغفرة
-  </p>
-</blockquote>
+> اللهم أعطني الهدى، وثبتني عليه، واحشرني عليه آمنا أمن من لا خوف عليه
+> ولا حزن ولا جزع، إنك أهل التقوى وأهل المغفرة
 
 O Allah! Grant me guidance, make me firm on it, and raise me on it in a
 state of security, like the safety of the one who has neither fear nor
@@ -3769,12 +3593,8 @@ apparent arguments. When he will be born, he will declare, لا إله إلا
 Muhammad is the Messenger of Allah. And he will recite in his
 supplications
 
-<blockquote dir="rtl">
-  <p>
-يا من لا شبيه له ولا مثال، أنت الله لا إله إلا أنت ولا خالق إلا أنت
-تفني المخلوقين وتبقي أنت، حلمت عمن عصاك، وفي المغفرة رضاك
-  </p>
-</blockquote>
+> يا من لا شبيه له ولا مثال، أنت الله لا إله إلا أنت ولا خالق إلا أنت
+> تفني المخلوقين وتبقي أنت، حلمت عمن عصاك، وفي المغفرة رضاك
 
 O the One Who has neither any similar nor any example. You are Allah,
 there is no god but You and there is no creator but You. You will
@@ -3790,12 +3610,8 @@ every hidden thing. Whoever meets him, he will inform him of what is in
 his heart and caution against his enemy and he will supplicate in this
 manner
 
-<blockquote dir="rtl">
-  <p>
-يا نور يا برهان يا منير يا مبين يا رب اكفني شر الشرور وآفات الدهور،
-وأسألك النجاة يوم ينفخ في الصور
-  </p>
-</blockquote>
+> يا نور يا برهان يا منير يا مبين يا رب اكفني شر الشرور وآفات الدهور،
+> وأسألك النجاة يوم ينفخ في الصور
 
 O Light of all lights! O Proof! O Illuminator! O Explanator! O Lord!
 Protect me from the evil of the evil ones and the calamities of the
@@ -3810,13 +3626,9 @@ a punishment for those who oppose him, a proof for whoever befriends him
 and a clear argument for whoever takes him as an Imam. He will say in
 his supplication,
 
-<blockquote dir="rtl">
-  <p>
-يا عزيز العز في عزه، يا عزيزا عزني بعزك، وأيدني بنصرك وأبعد عني همزات
-الشياطين، وادفع عني بدفعك وامنع عني بمنعك واجعلني من خيار خلقك، يا
-واحد يا أحد يا فرد يا صمد
-  </p>
-</blockquote>
+> يا عزيز العز في عزه، يا عزيزا عزني بعزك، وأيدني بنصرك وأبعد عني همزات
+> الشياطين، وادفع عني بدفعك وامنع عني بمنعك واجعلني من خيار خلقك، يا
+> واحد يا أحد يا فرد يا صمد
 
 O Mighty of reverence in His Might! O Mighty! Grant me might for the
 sake of Your Might, assist me with Your help, keep far from me the
@@ -4014,12 +3826,8 @@ They are My true friends! Through them I will repel all blinding and
 dark mischief, remove the earthquakes and do away with the burdens and
 the chains.
 
-<blockquote dir="rtl">
-  <p>
-أُولَـئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ
-وَأُولَـئِكَ هُمُ الْمُهْتَدُونَ
-  </p>
-</blockquote>
+> أُولَـئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ
+> وَأُولَـئِكَ هُمُ الْمُهْتَدُونَ
 
 ***They are those upon them is the blessings of their Lord and mercy.
 And they are the guided ones***. (Qur’an Surah Baqarah 2: 157)
@@ -4124,14 +3932,10 @@ Surely, He is the Forgiving, the Merciful’.”
 chronicles, ‘I asked Abu Ja’far (Imam Baaqer) (a.s.) concerning the
 interpretation of the saying of Allah, Mighty and Glorified be He,
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللّهِ اثْنَا عَشَرَ شَهْرًا فِي
-كِتَابِ اللّهِ يَوْمَ خَلَقَ السَّمَاوَات وَالأَرْضَ مِنْهَا
-أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ فَلاَ تَظْلِمُواْ
-فِيهِنَّ أَنفُسَكُمْ
-  </p>
-</blockquote>
+> إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللّهِ اثْنَا عَشَرَ شَهْرًا فِي
+> كِتَابِ اللّهِ يَوْمَ خَلَقَ السَّمَاوَات وَالأَرْضَ مِنْهَا
+> أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ فَلاَ تَظْلِمُواْ
+> فِيهِنَّ أَنفُسَكُمْ
 
 ***Surely the number of months with Allah is twelve months in Allah’s
 ordinance since the day He created the heavens and the earth, of these
@@ -4158,11 +3962,7 @@ them that you may be guided.”
 enquired from Imam Ja’far Ibn Muhammad al-Sadeq (a.s.) regarding the
 interpretation of the verse
 
-<blockquote dir="rtl">
-  <p>
-وَإِنَّ مِن شِيعَتِهِ لَإِبْرَاهِيمَ
-  </p>
-</blockquote>
+> وَإِنَّ مِن شِيعَتِهِ لَإِبْرَاهِيمَ
 
 ***And surely from his Shias is Ibraheem.*** (Qur’an Surah Saaffaat 37:
 83)
@@ -4263,15 +4063,11 @@ retorted, ‘Allah, His Messenger and Ameerul Momineen know the best.’ He
 Imam Moosa Ibn Ja’far (a.s.) said, “You pray in the prostration of
 thanksgiving (sajdah al-shukr) thus,
 
-<blockquote dir="rtl">
-  <p>
-أللّهمّ إنّى أُشهدك و اُشهِدُ ملائكتَكَ وَ أنبياءَكَ وَ رُسُلك و جميعَ
-خَلْقِكَ اللهَ رَبّى وَالإسلامَ دينى و محمدًا نبيّى و عليًّا والحسن و
-الحسين و علي بن الحسين و محمد بن على و جعفر بن محمد و موسى بن جعفر و
-على بن موسى و محمد بن على و على بن محمد والحسن بن على و الحجّة بن
-الحسن بن على أئمتي، بهم اتولّى و من اعدائهم اتبرا.
-  </p>
-</blockquote>
+> أللّهمّ إنّى أُشهدك و اُشهِدُ ملائكتَكَ وَ أنبياءَكَ وَ رُسُلك و جميعَ
+> خَلْقِكَ اللهَ رَبّى وَالإسلامَ دينى و محمدًا نبيّى و عليًّا والحسن و
+> الحسين و علي بن الحسين و محمد بن على و جعفر بن محمد و موسى بن جعفر و
+> على بن موسى و محمد بن على و على بن محمد والحسن بن على و الحجّة بن
+> الحسن بن على أئمتي، بهم اتولّى و من اعدائهم اتبرا.
 
 O Allah! Verily, I hold You as a witness and I hold Your angels, Your
 Prophets, Your Messengers and all Your creation as witnesses that Allah
@@ -4420,12 +4216,8 @@ Hence they took from him without being aware of his condition. While
 Allah has informed about the hypocrites and described them in no
 uncertain terms as follows,
 
-<blockquote dir="rtl">
-  <p>
-وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ
-لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ
-  </p>
-</blockquote>
+> وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا تَسْمَعْ
+> لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ
 
 ***And when you see them, their persons will please you, and If they
 speak, you will listen to their speech; (they are) as if they were big
@@ -4466,11 +4258,7 @@ general and the clear and the ambiguous. Indeed, the sayings of the
 Messenger of Allah (s.a.w.a.), like the Holy Quran, were of two kinds,
 general and particular. Allah, Blessed and High be He, says,
 
-<blockquote dir="rtl">
-  <p>
-وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
-  </p>
-</blockquote>
+> وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا
 
 ***And whatever the Apostle gives you, accept it, and from whatever he
 forbids you, keep back***. (Qur’an Surah Hashr (59): Verse 7.)
@@ -4532,12 +4320,8 @@ pray for you for, Allah, the High, had informed me that He will answer
 my prayers concerning you and your partners, whose obedience He has
 associated with my obedience, when He ordered concerning them,
 
-<blockquote dir="rtl">
-  <p>
-يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
-الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
-  </p>
-</blockquote>
+> يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللّهَ وَأَطِيعُواْ
+> الرَّسُولَ وَأُوْلِي الأَمْرِ مِنكُمْ
 
 ***O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you***. (Qur’an Surah Nisaa 4: 59)
@@ -4572,15 +4356,11 @@ and the names of their tribes…”
 
 296. Misbaah al-Mutahajjid[^168]: In a supplication (it has come)
 
-<blockquote dir="rtl">
-  <p>
-يا رباّه يا سيّداه يا غاية رغبتاه أسألك بك و بمحمّد و علي و فاطمة و
-الحسن و الحسين و علي بن الحسين و محمد بن علي و علي بن محمد والحسن بن
-علي والقائم المهدي الائمّة الهادية عليهم السلام أن تصلّي على محمّد و
-آل محمّد، وأسألك يا الله أن لا تشوّه خلقي بالنّار و أن تفعل بي ما أنت
-أهله
-  </p>
-</blockquote>
+> يا رباّه يا سيّداه يا غاية رغبتاه أسألك بك و بمحمّد و علي و فاطمة و
+> الحسن و الحسين و علي بن الحسين و محمد بن علي و علي بن محمد والحسن بن
+> علي والقائم المهدي الائمّة الهادية عليهم السلام أن تصلّي على محمّد و
+> آل محمّد، وأسألك يا الله أن لا تشوّه خلقي بالنّار و أن تفعل بي ما أنت
+> أهله
 
 ‘O Lord! O Chief! O Pinacle of desire! I ask You for Your sake and for
 the sake of Muhammad, Ali, Fatemah, Hasan, Husain, Ali Ibn Husain,
@@ -4594,14 +4374,10 @@ me in the hell fire and deal with me as You are worthy of.’
 be recited after the morning prayers, the following has been highly
 recommended.
 
-<blockquote dir="rtl">
-  <p>
-رضيت بالله ربّا و بالإسلام ديناً و بمحمد صلّى الله عليه و آله و سلّم
-نبيّا و بالقرآن كتاباً و بعلي إمامًا و بالحسن و الحسين و علي بن الحسين
-و محمّد بن علي و جعفر بن محمّد و موسى بن جعفر و علي بن موسى و محمّد بن
-علي و علي بن محمّد و الحسن بن علي والخلف الصالح ائمَّة وقادة...
-  </p>
-</blockquote>
+> رضيت بالله ربّا و بالإسلام ديناً و بمحمد صلّى الله عليه و آله و سلّم
+> نبيّا و بالقرآن كتاباً و بعلي إمامًا و بالحسن و الحسين و علي بن الحسين
+> و محمّد بن علي و جعفر بن محمّد و موسى بن جعفر و علي بن موسى و محمّد بن
+> علي و علي بن محمّد و الحسن بن علي والخلف الصالح ائمَّة وقادة...
 
 ‘I am satisfied with Allah as (my) Lord, with Islam as (my) religion,
 with Muhammad (s.a.w.a.) as Prophet, with Quran as Book, with Ali as
@@ -4614,35 +4390,27 @@ leaders…’
 Abdillah Imam Sadeq (a.s.) used to recite the following supplication
 after the prayers of need (صلاة الحاجة) on Friday:
 
-<blockquote dir="rtl">
-  <p>
-اللّهم و أتقرّب إليك بوليّك و خيرتك من خلقك و وصيّ نبيّك مولاي و مولى
-المؤمنين والمؤمنات قسيم النار و قائد الابرار
-  </p>
-</blockquote>
+> اللّهم و أتقرّب إليك بوليّك و خيرتك من خلقك و وصيّ نبيّك مولاي و مولى
+> المؤمنين والمؤمنات قسيم النار و قائد الابرار
 
 O Allah! I seek proximity to You through Your friend, the chosen one
 from Your creation, the successor of Your Prophet, my master and the
 master of the believing men and women, the separator from the hell fire
 and the leader of the righteous – till he (a.s.) said
 
-<blockquote dir="rtl">
-  <p>
-اللّهم و أتقرّب إليك بالوليّ البارّ التقيّ الطيّب الزكيّ الإمام ابن
-الإمام، السيّد ابن السيّد الحسن بن علي و أتقرّب إليك بالقتيل المسلوب
-قتيل كربلاء الحسين بن علي، و أتقرّب إليك بسيّد العابدين و قرّة عين
-الصالحين علي بن الحسين، و أتقرّب إليك بباقر العلم، صاحب الحكمة و
-البيان و وارث مَن كان قبله محمد بن علي، و أتقرّب إليك بالصادق الخير
-الفاضل جعفر بن محمد، و أتقرّب إليك بالكريم الشهيد الهادي المولي موسى
-بن جعفر، و أتقرّب إليك بالشهيد الغريب الحبيب المدفون بطوس علي بن موسى،
-وأتقرّب إليك بالزكيّ التقي محمد بن علي، و أتقرّب إليك بالطهر الطاهر
-النقي علي بن محمد، و أتقرّب إليك بوليّك الحسن بن علي، و أتقرّب إليك
-بالبقية الباقي المقيم بين أوليائه الذي رضيته لنفسك الطيّب الطاهر
-الفاضل الخيّر نور الارض و عمادها و رجاء هذه الاُمّة و سيّدها الآمر
-بالمعروف والناهي عن المنكر الناصح الامين المؤدّي عن النبيّين و خاتم
-الاوصياء النجباء الطاهرين صلوات الله عليهم أجمعين...
-  </p>
-</blockquote>
+> اللّهم و أتقرّب إليك بالوليّ البارّ التقيّ الطيّب الزكيّ الإمام ابن
+> الإمام، السيّد ابن السيّد الحسن بن علي و أتقرّب إليك بالقتيل المسلوب
+> قتيل كربلاء الحسين بن علي، و أتقرّب إليك بسيّد العابدين و قرّة عين
+> الصالحين علي بن الحسين، و أتقرّب إليك بباقر العلم، صاحب الحكمة و
+> البيان و وارث مَن كان قبله محمد بن علي، و أتقرّب إليك بالصادق الخير
+> الفاضل جعفر بن محمد، و أتقرّب إليك بالكريم الشهيد الهادي المولي موسى
+> بن جعفر، و أتقرّب إليك بالشهيد الغريب الحبيب المدفون بطوس علي بن موسى،
+> وأتقرّب إليك بالزكيّ التقي محمد بن علي، و أتقرّب إليك بالطهر الطاهر
+> النقي علي بن محمد، و أتقرّب إليك بوليّك الحسن بن علي، و أتقرّب إليك
+> بالبقية الباقي المقيم بين أوليائه الذي رضيته لنفسك الطيّب الطاهر
+> الفاضل الخيّر نور الارض و عمادها و رجاء هذه الاُمّة و سيّدها الآمر
+> بالمعروف والناهي عن المنكر الناصح الامين المؤدّي عن النبيّين و خاتم
+> الاوصياء النجباء الطاهرين صلوات الله عليهم أجمعين...
 
 O Allah! I seek proximity to you through the master, the virtuous, the
 pure, the good, the immaculate, the Imam and the son of an Imam, the
@@ -4675,13 +4443,9 @@ purified ones, blessings of Allah be on them all…’
 299. Mohij al-Da’waat[^172]: A supplication which Abu Hamzah al-Sumaali
 heard from Imam Zain al-Abedin (a.s.) contained the following:
 
-<blockquote dir="rtl">
-  <p>
-... و أتوسّل إليك و أستشفع إليك بنبيّك نبي الرحمة محمد صلى الله عليه
-وآله و سلم تسليمًا و بأمير المؤمنين علي بن أبي طالب و فاطمة الزهراء و
-الحسن والحسين و عبديك و أمينك
-  </p>
-</blockquote>
+> ... و أتوسّل إليك و أستشفع إليك بنبيّك نبي الرحمة محمد صلى الله عليه
+> وآله و سلم تسليمًا و بأمير المؤمنين علي بن أبي طالب و فاطمة الزهراء و
+> الحسن والحسين و عبديك و أمينك
 
 ‘…and I seek to reach unto You and Your intercession through the medium
 of Your Prophet, the Prophet of mercy, Muhammad (s.a.w.a.) and through
@@ -4689,11 +4453,7 @@ Ameerul Momineen Ali Ibn Abi Taalib (a.s.), Fatemah al-Zahra (a.s.),
 Hasan (a.s.) and Husain (a.s.), Your servant and Your trustee (and in it
 are the names of the Imams, all of them, till he (a.s.) said)
 
-<blockquote dir="rtl">
-  <p>
-و بحقّ خلف الائمة الماضين و الامام الزكي الهادي المهديّ.
-  </p>
-</blockquote>
+> و بحقّ خلف الائمة الماضين و الامام الزكي الهادي المهديّ.
 
 And for the sake of the caliph of the past Imams, the Imam, the pure,
 the guide and the guided.’
@@ -4702,13 +4462,9 @@ the guide and the guided.’
 Abdillah Imam Sadeq (a.s.) used to recite the following supplication
 after the prayers of need (صلاة الحاجة)
 
-<blockquote dir="rtl">
-  <p>
-و بالاسم الذي جعلته عند محمد صلواتك (ورحمتك) عليه وآله و عند علي و
-الحسن والحسين و علي و محمد و جعفر و موسى و علي و محمد و علي و الحسن و
-الحجّة عليهم السلام أن تصلّي على محمد وآل محمد و أن تقضي لي حاجتي...
-  </p>
-</blockquote>
+> و بالاسم الذي جعلته عند محمد صلواتك (ورحمتك) عليه وآله و عند علي و
+> الحسن والحسين و علي و محمد و جعفر و موسى و علي و محمد و علي و الحسن و
+> الحجّة عليهم السلام أن تصلّي على محمد وآل محمد و أن تقضي لي حاجتي...
 
 ‘And for the sake of the name which You have placed with Muhammad
 (s.a.w.a.) and with Ali, Hasan, Husain, Ali, Muhammad, Ja’far, Moosa,
@@ -4720,14 +4476,10 @@ need…’
 chain of narrators that Imam Sadeq (a.s.) used to recite the following
 supplication
 
-<blockquote dir="rtl">
-  <p>
-بمحمد يا الله بعلي يا الله بفاطمة يا الله بالحسن يا الله بالحسين يا
-الله بعلي يا الله بمحمد يا الله بجعفر يا الله بموسى يا الله بعلي يا
-الله بمحمد يا الله بعلي يا الله بالحسن يا الله بحجّتك و خليفتك في بلدك
-يا الله صلِّ على محمّد و آله محمّد...
-  </p>
-</blockquote>
+> بمحمد يا الله بعلي يا الله بفاطمة يا الله بالحسن يا الله بالحسين يا
+> الله بعلي يا الله بمحمد يا الله بجعفر يا الله بموسى يا الله بعلي يا
+> الله بمحمد يا الله بعلي يا الله بالحسن يا الله بحجّتك و خليفتك في بلدك
+> يا الله صلِّ على محمّد و آله محمّد...
 
 ‘For the sake of Muhammad, O Allah! For the sake of Ali, O Allah! For
 the sake of Fatemah, O Allah! For the sake of Hasan, O Allah! For the
@@ -4743,24 +4495,16 @@ narrates through his chain of narrators that when the month of Ramazaan
 approached, Abu Abdillah Imam Sadeq (a.s.) used to recite the following
 supplication:
 
-<blockquote dir="rtl">
-  <p>
-اللّهم هذا شهر رمضان المبارك الذي أنزلت فيه القرآن و جعلته هدى للناس
-  </p>
-</blockquote>
+> اللّهم هذا شهر رمضان المبارك الذي أنزلت فيه القرآن و جعلته هدى للناس
 
 O Allah! This is the blessed month of Ramazaan in which You have sent
 the Quran and made it (Quran) as a guidance for the people – till he
 (a.s.) said after a lengthy invocation
 
-<blockquote dir="rtl">
-  <p>
-فأسألك بحقّ محمد و علي و فاطمة و الحسن و الحسين و علي بن الحسين و محمد
-بن علي و جعفر بن محمد و موسى بن جعفر و علي بن موسى و محمد بن علي و
-عليّ بن محمّد و الحسن بن عليّ و الحجّة القائم بالحقّ صلواتك يا ربّ
-عليهم أجمعين...
-  </p>
-</blockquote>
+> فأسألك بحقّ محمد و علي و فاطمة و الحسن و الحسين و علي بن الحسين و محمد
+> بن علي و جعفر بن محمد و موسى بن جعفر و علي بن موسى و محمد بن علي و
+> عليّ بن محمّد و الحسن بن عليّ و الحجّة القائم بالحقّ صلواتك يا ربّ
+> عليهم أجمعين...
 
 Then I ask You for the sake of Muhammad, Ali, Fatemah, Hasan, Husain,
 Ali Ibn Husain, Muhammad Ibn Ali, Ja’far Ibn Muhammad, Moosa Ibn Ja’far,
@@ -4770,25 +4514,17 @@ Hujjah, the upriser with truth. O Lord! Your blessings be on them all…’
 303. Al-Iqbaal[^176]: In the supplications of the thirteenth day of Imam
 Zain al-Abedin (a.s.), it has been reported:
 
-<blockquote dir="rtl">
-  <p>
-اللّهم إنّ الظلمة جحدوا آياتك
-  </p>
-</blockquote>
+> اللّهم إنّ الظلمة جحدوا آياتك
 
 O Allah! Surely the oppressors denied Your signs – till he (a.s.) said
 
-<blockquote dir="rtl">
-  <p>
-اللّهم إنّي أدينك يا ربّ بطاعتك و لا ننكر ولاية محمد صلّى الله عليه و
-علي أهل بيته و ولاية أمير المؤمنين علي بن أبي طالب عليه السلام و ولاية
-الحسن و الحسين عليهما السلام سبطي نبيّك و ولدي رسولك عليهما السلام و
-ولاية الطاهرين المعصومين من ذرية الحسين علي بن الحسين و محمد بن علي و
-جعفر بن محمد و موسى بن جعفر و علي بن موسى و محمد بن علي و علي بن محمد
-و الحسن بن علي سلام الله و بركاته عليهم أجمعين و ولاية القائم السابق
-منهم بالخيرات المفترض الطاعة صاحب الزمان.
-  </p>
-</blockquote>
+> اللّهم إنّي أدينك يا ربّ بطاعتك و لا ننكر ولاية محمد صلّى الله عليه و
+> علي أهل بيته و ولاية أمير المؤمنين علي بن أبي طالب عليه السلام و ولاية
+> الحسن و الحسين عليهما السلام سبطي نبيّك و ولدي رسولك عليهما السلام و
+> ولاية الطاهرين المعصومين من ذرية الحسين علي بن الحسين و محمد بن علي و
+> جعفر بن محمد و موسى بن جعفر و علي بن موسى و محمد بن علي و علي بن محمد
+> و الحسن بن علي سلام الله و بركاته عليهم أجمعين و ولاية القائم السابق
+> منهم بالخيرات المفترض الطاعة صاحب الزمان.
 
 O Allah! Surely I believe in Your obedience, O Lord, and we do not deny
 the mastership of Muhammad (s.a.w.a.), the mastership of Ali Ibn Abi
@@ -4806,14 +4542,10 @@ that in frightening circumstances Abu Abdillah Imam Sadeq (a.s.) used to
 recite a supplication after prayers. It is the same supplication that
 was recited by Hazrat Zahra (s.a.) and it is as follows:
 
-<blockquote dir="rtl">
-  <p>
-أسألك أن تصلّي على محمد و آله و أن تقضي لي حوائجي و تُسمع محمدًا و
-عليّا و فاطمة و الحسن و الحسين و عليّا و محمّدا و جعفرًا و موسى و
-عليًا و محمدًا و عليّا و الحسن والحجّة صلواتك عليهم و رحمتك و بركاتك و
-رحمتك صوتي، فيشفعوا لي إليك و تشفّعهم فيّ و لا تردّني خائبًا...
-  </p>
-</blockquote>
+> أسألك أن تصلّي على محمد و آله و أن تقضي لي حوائجي و تُسمع محمدًا و
+> عليّا و فاطمة و الحسن و الحسين و عليّا و محمّدا و جعفرًا و موسى و
+> عليًا و محمدًا و عليّا و الحسن والحجّة صلواتك عليهم و رحمتك و بركاتك و
+> رحمتك صوتي، فيشفعوا لي إليك و تشفّعهم فيّ و لا تردّني خائبًا...
 
 I ask You that You bless Muhammad and his progeny, fulfil my needs, make
 Muhammad, Ali, Fatemah, Hasan, Husain, Ali, Muhammad, Ja’far, Moosa,
@@ -4915,11 +4647,7 @@ then his son Ali, then his son Hasan and then his son who will be hidden
 from the people, a prolonged occultation. This is the saying of Allah,
 Blessed and High be He,
 
-<blockquote dir="rtl">
-  <p>
-قل ارأيتم أن اصبح ماؤكم غورا فمن ياتيكم بماء معين
-  </p>
-</blockquote>
+> قل ارأيتم أن اصبح ماؤكم غورا فمن ياتيكم بماء معين
 
 ***Say: Have you considered if your water should go down, who is it then
 that will bring you flowing water? (***Qur’an Surah Mulk 67; 30.)
@@ -4939,14 +4667,10 @@ Saeed Ibn Jubair says, ‘It happened exactly as the Messenger of Allah
 309. Misbaah al-Mutahajjid[^182]: Imam Sadeq (a.s.) used to recite the
 following supplication after the prayers of need (صلاة الحاجة)
 
-<blockquote dir="rtl">
-  <p>
-واسئلك بالحقّ الّذي جعلته عند محمّد وآل محمّد و عند الائمّة عليّ و
-الحسن و الحسين و علي و محمّد و جعفر و موسى و علي و محمّد و علي والحسن
-والحجّة أن تصلّي على محمّد و أهل بيته و أن تقضي حاجتي و تيسّر عسيرها و
-أن تكفيني مهمّاتها
-  </p>
-</blockquote>
+> واسئلك بالحقّ الّذي جعلته عند محمّد وآل محمّد و عند الائمّة عليّ و
+> الحسن و الحسين و علي و محمّد و جعفر و موسى و علي و محمّد و علي والحسن
+> والحجّة أن تصلّي على محمّد و أهل بيته و أن تقضي حاجتي و تيسّر عسيرها و
+> أن تكفيني مهمّاتها
 
 And I ask You for the sake of the right, which You have reposed with
 Muhammad and the progeny of Muhammad and with the Imams Ali, Hasan,
@@ -4981,13 +4705,9 @@ al-Abdi, pg. 290; and other similar books.
 Sadeq (a.s.) used to recite on Friday after the prayers of need (صلاة
 الحاجة). It is as follows:
 
-<blockquote dir="rtl">
-  <p>
-واسئلك بالحق الذي جعلته عند محمد و آل محمد و عند الائمة علي والحسن و
-الحسين و علي و محمد و جعفر و موسى و علي و محمد و علي والحسن والحجّة
-عليهم السلام ان تصلّي على محمّد و أهلبيته و ان تقضي حاجتي
-  </p>
-</blockquote>
+> واسئلك بالحق الذي جعلته عند محمد و آل محمد و عند الائمة علي والحسن و
+> الحسين و علي و محمد و جعفر و موسى و علي و محمد و علي والحسن والحجّة
+> عليهم السلام ان تصلّي على محمّد و أهلبيته و ان تقضي حاجتي
 
 I ask You for the sake of the right which You have reposed in Muhammad
 and the progeny of Muhammad and with the Imams, Ali, Hasan, Husain, Ali,
@@ -5812,5 +5532,4 @@ pg. 651, Chap. 9, Section 60, Tr. No. 811.
 al-Arbaeen of Khatoonabaadi), pg. 110, Tr. No. 17.
 
 [^182]: Misbaah al-Mutahajjid, pg. 231.
-
 

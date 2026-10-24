@@ -20,4 +20,3 @@ clothes we should pray with clothes that show respect, for example it is
 not good to pray just with an undergarment. One should also wear shirt
 etc. over it.
 
-

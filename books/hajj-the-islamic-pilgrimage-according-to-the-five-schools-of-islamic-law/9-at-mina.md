@@ -38,4 +38,3 @@ they comprise two or three days. As to their naming, it is because
 during those days the pilgrims used to dry strips of the meat of the
 sacrificed animals in the sun.
 
-

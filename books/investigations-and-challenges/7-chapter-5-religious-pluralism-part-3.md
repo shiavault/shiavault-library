@@ -60,12 +60,8 @@ The question which is posed here and the reason behind reviewing a part
 of the previous session’s discussion is actually to deal with this
 question is this: The Holy Qur’an states, thus:
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
-وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
-  </p>
-</blockquote>
+> وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ
+> وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
 
 ***Should anyone follow a religion other than Islam, it shall never be
 accepted from him, and he will be among the losers in the Hereafter.
@@ -127,14 +123,10 @@ change the essence of a religion, which consists of the belief in
 monotheism, prophethood and the Day of Resurrection. Belief in
 prophethood means to believe in all the prophets (*‘a*):
 
-<blockquote dir="rtl">
-  <p>
-آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
-ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
-نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
-وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
-  </p>
-</blockquote>
+> آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ
+> ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا
+> نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا
+> وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
 
 ***The Apostle has faith in what has been sent down to him from his
 Lord, and all the faithful. Each [of them] has faith in Allah, His
@@ -225,13 +217,9 @@ no reckoning and book of account, and in line with such desire, he tries
 to coin a justification to deny the Day of Resurrection and the
 Reckoning. In this regard, the Holy Qur’an says:
 
-<blockquote dir="rtl">
-  <p>
-أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ بَلَىٰ قَادِرِينَ
-عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ  بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ
-أَمَامَهُ
-  </p>
-</blockquote>
+> أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ بَلَىٰ قَادِرِينَ
+> عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ  بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ
+> أَمَامَهُ
 
 ***Does man suppose that We shall not put together his bones? Yes
 indeed, We are able to proportion [even] his fingertips! Rather, man
@@ -954,5 +942,4 @@ recorders. Another of SAVAK’s heinous methods of torture was placing the
 legs of prisoners in boiling oil. For more information on SAVAK’s
 activities and abuse of human rights, refer to Fred Halliday’s Iran,
 Dictatorship and Development, pp. 78-90. [Trans.]
-
 

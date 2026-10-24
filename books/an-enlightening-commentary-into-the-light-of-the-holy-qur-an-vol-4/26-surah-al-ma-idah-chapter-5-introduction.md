@@ -4,11 +4,7 @@ Surah Al-Ma'idah, Chapter 5, Introduction
 Introduction to the Surah
 -------------------------
 
-<blockquote dir="rtl">
-  <p>
-بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
-  </p>
-</blockquote>
+> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
 
 **In The Name of Allah The Beneficent The Merciful**
 
@@ -34,5 +30,4 @@ social justice, and so on.
 Since it is the last Surah which was revealed, at the beginning of the
 Surah it enjoins to fulfilling all the promises and pledges by the
 phrase: ***'fulfil the promises '.***
-
 

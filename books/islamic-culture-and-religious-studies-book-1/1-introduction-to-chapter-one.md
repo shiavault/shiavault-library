@@ -44,7 +44,6 @@ with Allah (S.W.T.)!
 
 May He make us all successful in this aim. Ameen.
 
-
 **Lesson 1 : The Best of Lessons**
 
 My class teacher is one of the best teachers in our school. She is
@@ -170,5 +169,4 @@ bright and charming and yet no one has ever fallen in love with it?"
 The Wise Teacher replied: "It is because, it is seen every day in most
 places. Where it is not seen often, it is really loved and anxiously
 awaited."
-
 

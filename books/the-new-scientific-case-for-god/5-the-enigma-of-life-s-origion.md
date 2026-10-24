@@ -178,4 +178,3 @@ appearance we see from the earth. The human observer above the earth
 sees a black sky with the earth surrounded by a bluish halo... a
 completely new spectacle.
 
-

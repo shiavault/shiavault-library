@@ -89,4 +89,3 @@ the darkness of the world to come.”*
 Imam Ja’far al-Sadiq (a.s.) said: *“He who wrongs people can not be
 counted as a Shi’ite (i.e. a follower of Imams).”*
 
-

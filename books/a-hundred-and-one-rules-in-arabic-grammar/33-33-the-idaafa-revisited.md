@@ -17,4 +17,3 @@ is also correct.  But,
 is incorrect due to the fact that the possessive pronoun (**ـها** ) is
 inserted between the first and second terms of Idaafa.
 
-

@@ -170,11 +170,7 @@ institution.
  The poem below addressed to Yazid’s grave in Hawarin expresses this
 infamy:
 
-<blockquote dir="rtl">
-  <p>
-أيّها القبر بحوارينا قد ضمنت شر النّاس أجمعينا
-  </p>
-</blockquote>
+> أيّها القبر بحوارينا قد ضمنت شر النّاس أجمعينا
 
 *O grave that is in the city of* *Hawarin! The worst of people is inside
 you*.[^10]
@@ -353,5 +349,4 @@ p. 574.
 
 [^21]: Abu Ja‘far Muhammad ibn Jarir at-Tabari, Tarikh at-Tabari, 2nd
 edition (Beirut: Dar al-Kutub al-‘Ilmiyyah, 1408 AH), vol. 5, p. 312.
-
 

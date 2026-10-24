@@ -667,4 +667,3 @@ Messenger of God started.
 
 [^25]: -Qur'an ch: 19 vs: 54 -55
 
-

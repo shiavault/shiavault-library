@@ -477,4 +477,3 @@ He is your friend. He knows that you are going to enter. You know that
 he is totally in agreement with your entering. Still, you should realize
 that you are entering upon his privacy.
 
-

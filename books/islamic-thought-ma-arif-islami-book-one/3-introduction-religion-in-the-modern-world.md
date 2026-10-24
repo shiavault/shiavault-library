@@ -809,4 +809,3 @@ many acclaimed science fiction movies.
 
 [^16]: - Carl G. Jung, Modern Man in Search of a Soul, p. 284.
 
-

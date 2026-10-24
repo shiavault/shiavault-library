@@ -36,12 +36,8 @@ Thaqalain, which is approved by the Islamic narrators.
 
 They say the Prophet has declared:
 
-<blockquote dir="rtl">
-  <p>
-“إِنِّي تاركٌ فِيكُمُ الثقلين كتاب الله و عترتي ما إِنْ تَمَسَّكْتُمْ
-بِهِما لَنْ تَضِلُّوا”.
-  </p>
-</blockquote>
+> “إِنِّي تاركٌ فِيكُمُ الثقلين كتاب الله و عترتي ما إِنْ تَمَسَّكْتُمْ
+> بِهِما لَنْ تَضِلُّوا”.
 
 But since in some narrations the term “**سنتي**” my tradition” is used
 for**عترتي**” “ “my household” the validity of either one of the
@@ -74,16 +70,12 @@ This text is issued by two great narrators:
 once the Prophet delivered a sermon on a river called Khom, which is
 located between Mecca and Medina saying:
 
-<blockquote dir="rtl">
-  <p>
-““أَلا أَيُّهَا النّاسُ! فَإِنَّما أَنَا بَشَرٌ يُوشَكُ أَنْ يَأْتِيَ
-رَسُولُ رَبّي فأُجيبَ، وَ أَنَا تارِكٌ فِيكُمْ ثِقْلَيْن: أَوَّلُهُما
-كِتابُ اللهِ فِيهِ الْهُدی وَ النُّور، فَخُذُوا بِكتابِ اللهِ وَ
-اسْتَمْسكُوا به”- فحثّ علی كتاب الله و رغّب فيه ثمّ قال:-”وَ أَهلُ
-بَيْتي، اذكّركُمُ الله فِي أَهْل بَيْتِی، اذكّركُمُ الله في أَهْل
-بَيْتي، اذكّركُمُ الله في أَهل بَيْتي”.
-  </p>
-</blockquote>
+> ““أَلا أَيُّهَا النّاسُ! فَإِنَّما أَنَا بَشَرٌ يُوشَكُ أَنْ يَأْتِيَ
+> رَسُولُ رَبّي فأُجيبَ، وَ أَنَا تارِكٌ فِيكُمْ ثِقْلَيْن: أَوَّلُهُما
+> كِتابُ اللهِ فِيهِ الْهُدی وَ النُّور، فَخُذُوا بِكتابِ اللهِ وَ
+> اسْتَمْسكُوا به”- فحثّ علی كتاب الله و رغّب فيه ثمّ قال:-”وَ أَهلُ
+> بَيْتي، اذكّركُمُ الله فِي أَهْل بَيْتِی، اذكّركُمُ الله في أَهْل
+> بَيْتي، اذكّركُمُ الله في أَهل بَيْتي”.
 
 “O people! I am no more than a human being and in a short time God's
 angel would come and ask me to go with him. I will leave for you two
@@ -99,14 +91,10 @@ sun, with no flaw whatsoever.
 2. Tirmizi, too, has narrated this text with the expression **“وعترتي
 واهل بيتي”** [and my Household]:
 
-<blockquote dir="rtl">
-  <p>
-“إِنّي تارِكٌ فِيكُمُ ما إِن تَمَسّكْتمْ بِهِ لَنْ تَضِلُّوا بَعْدِي،
-أحدهُما أَعْظَمُ مِنَ الآخرِ: كِتابُ الله حَبلٌ مَمْدُودٌ مِنَ
-السَّماءِ إِلَی الأَرْضِ، وَ عِتْرَتِي أَهْلَ بَيْتِي، لَنْ يَفْتَرِقا
-حَتّی يَرِدا عَلَيَّ الْحَوض، فَانْظُروُا كَيْفَ تَخْلِفُونِي فِيها”.
-  </p>
-</blockquote>
+> “إِنّي تارِكٌ فِيكُمُ ما إِن تَمَسّكْتمْ بِهِ لَنْ تَضِلُّوا بَعْدِي،
+> أحدهُما أَعْظَمُ مِنَ الآخرِ: كِتابُ الله حَبلٌ مَمْدُودٌ مِنَ
+> السَّماءِ إِلَی الأَرْضِ، وَ عِتْرَتِي أَهْلَ بَيْتِي، لَنْ يَفْتَرِقا
+> حَتّی يَرِدا عَلَيَّ الْحَوض، فَانْظُروُا كَيْفَ تَخْلِفُونِي فِيها”.
 
 “I will leave for you two items while you resort to them you shall not
 weaken: one is greater than the other: one is God's book, which is a
@@ -143,12 +131,8 @@ following:
 
 5. Ibn Abbas saying that the Prophet has said:
 
-<blockquote dir="rtl">
-  <p>
-“يا أَيُّهَا النّاسُ إِنّي قَدْ ترَكْتُ إِنِ اعْتَصَمْتُم بِهِ فَلَنْ
-تَضِلُّوا أَبَداً كتاب الله وَ سنّة نَبِيّه”.
-  </p>
-</blockquote>
+> “يا أَيُّهَا النّاسُ إِنّي قَدْ ترَكْتُ إِنِ اعْتَصَمْتُم بِهِ فَلَنْ
+> تَضِلُّوا أَبَداً كتاب الله وَ سنّة نَبِيّه”.
 
 “O people! I have left among you two things. While you resort to them,
 you shall not fade: God's book and the Prophet's tradition.” [^3]
@@ -208,12 +192,8 @@ rather than strengthening it. Let us present his whimsical document:
 
 Hakim Neishaburi, reports from Abu Horayrah in a Marfua[^8]form: [^9]
 
-<blockquote dir="rtl">
-  <p>
-“إِنّي قَدْ ترَكْتُ فِيكُمْ شَيْئَين لَنْ تَضِلُّوا بَعْدَهُما: كِتابَ
-اللهِ وَ سُنّتي وَلَنْ يَفْتَرِقا حَتّی يَرِدا عَلَيَّ الْحَوض”.
-  </p>
-</blockquote>
+> “إِنّي قَدْ ترَكْتُ فِيكُمْ شَيْئَين لَنْ تَضِلُّوا بَعْدَهُما: كِتابَ
+> اللهِ وَ سُنّتي وَلَنْ يَفْتَرِقا حَتّی يَرِدا عَلَيَّ الْحَوض”.
 
 Hakim has issued this text based on the following documents:
 
@@ -304,25 +284,17 @@ At the end of this book, I should remind you that by Household is meant
 Fatimah, Hasan, Husain (and Imam Ali) and not Ayeshah as Muslim in his
 ***Sahih*** and Tirmazi in his ***Sunan***[^18] mention:
 
-<blockquote dir="rtl">
-  <p>
-“نزلت هذه الآية على النبيّ : “إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ
-عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً “ في
-بيت أُمّ سلمة، فدعا النبيّ : فاطمة وحسناً وحسيناً فجلّلهم بكساء وعليّ
-خلف ظهره فجلله بكساء ثُمّ قال: اَللّهمّ هؤلاءِ أهل بَيْتي فاذهبْ
-عَنْهُمُ الرَّجسَ وَ طَهَّرهُمْ تَطْهيراًز قالت أُمّ سلمة: وأنا معهم
-يا نبي الله؟ قال: أَنتِ علَى مَكانِك وأَنْتِ إِلَى الْخَيْرِ”.
-  </p>
-</blockquote>
+> “نزلت هذه الآية على النبيّ : “إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ
+> عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً “ في
+> بيت أُمّ سلمة، فدعا النبيّ : فاطمة وحسناً وحسيناً فجلّلهم بكساء وعليّ
+> خلف ظهره فجلله بكساء ثُمّ قال: اَللّهمّ هؤلاءِ أهل بَيْتي فاذهبْ
+> عَنْهُمُ الرَّجسَ وَ طَهَّرهُمْ تَطْهيراًز قالت أُمّ سلمة: وأنا معهم
+> يا نبي الله؟ قال: أَنتِ علَى مَكانِك وأَنْتِ إِلَى الْخَيْرِ”.
 
 The following verse
 
-<blockquote dir="rtl">
-  <p>
-﴿ إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
-الْبَيْتِ وَ يُطَهِّرَكُمْ تَطْهِيراً ﴾
-  </p>
-</blockquote>
+> ﴿ إِنَّما يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ
+> الْبَيْتِ وَ يُطَهِّرَكُمْ تَطْهِيراً ﴾
 
 “***[Allah desires to keep away the impurity from you, O people of the
 House! And to purify you a thorough purifying]***”[^19] was revealed
@@ -374,21 +346,13 @@ Call for divine blessings on him and salute him with a becoming
 salutation [Quran 33:57],*** the close friends of the Prophet asked him
 how to praise him He replied:
 
-<blockquote dir="rtl">
-  <p>
-لا تصلوا عليَّ الصلاة البتراء
-  </p>
-</blockquote>
+> لا تصلوا عليَّ الصلاة البتراء
 
 do not praise me with short blessings.
 
 His friends asked him: how could we bless you? The Prophet replied: say
 
-<blockquote dir="rtl">
-  <p>
-اللّهمّ صلِّ علی محمّدٍ و آل محمّد
-  </p>
-</blockquote>
+> اللّهمّ صلِّ علی محمّدٍ و آل محمّد
 
 “O God send your blessings to Muhammad and his Household”[^22].
 
@@ -396,12 +360,8 @@ The expression “Al-e-Muhammad” [the Prophet's Household] is so important
 that some sects of Sunnites have stipulated the addition of this
 expression to the Prophet's blessings. Related to this Imam Shafee says:
 
-<blockquote dir="rtl">
-  <p>
-يا اهل بيت رسول الله حبكم فرض من الله في القرآن انزله كفاكم من عظيم
-القدر انكم من لم يصل عليكم لاصلاة له
-  </p>
-</blockquote>
+> يا اهل بيت رسول الله حبكم فرض من الله في القرآن انزله كفاكم من عظيم
+> القدر انكم من لم يصل عليكم لاصلاة له
 
 O the Household of the Prophet, loving you is an obligation which is
 stipulated by God in the holy Quran, you are so great that if anyone
@@ -435,8 +395,6 @@ praise him. He replied:
 **  
 **
 .
-
-  
 
 [^23]
 
@@ -501,5 +459,4 @@ Tirmazi, and Nesaee and Ibn Majah and Ibn Marduqah.
 
 [^23]: . Sahih Bokhari, the Book on Interpretation, section 6, p. 217
 (Surah Ahzab).
-
 

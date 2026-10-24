@@ -282,4 +282,3 @@ Autobiography (3 vols., 1967-69). [Trans.]
 
 [^12]: Bertrand Russell, Scientific Worldview, pp. 114-115.
 
-

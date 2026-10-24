@@ -15,4 +15,3 @@ Dyslogia (The Inability To Express Oneself Effectively)
 
 > 3ـ اَلحَصَرُ خَيْرٌ مِنَ الهَذَرِ.
 
-

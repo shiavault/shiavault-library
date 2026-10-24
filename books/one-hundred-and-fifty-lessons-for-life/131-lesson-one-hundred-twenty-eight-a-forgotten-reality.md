@@ -3,12 +3,8 @@ Lesson One Hundred Twenty Eight: A Forgotten Reality
 
 Imam As-Sadiq (a.s.) said:
 
-<blockquote dir="rtl">
-  <p>
-لَمْ يَخْلُقِ اللّهُ يَقِيناً لاشَكَّ فِيهِ أَشْبَهُ بِشَكٍّ لا يَقينَ
-فِيهِ مِنَ الْمَوْتِ!
-  </p>
-</blockquote>
+> لَمْ يَخْلُقِ اللّهُ يَقِيناً لاشَكَّ فِيهِ أَشْبَهُ بِشَكٍّ لا يَقينَ
+> فِيهِ مِنَ الْمَوْتِ!
 
 Translation
 -----------
@@ -38,5 +34,4 @@ when death does catch up with us.
 
 [^1]: Tuhaful Uqul, page 271. Men La Yahthuruhu Alfaqih, vol 1, page
 194. Al-Khisal, vol 1, page 14.
-
 

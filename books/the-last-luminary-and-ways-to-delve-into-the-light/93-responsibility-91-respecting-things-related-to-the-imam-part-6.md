@@ -35,4 +35,3 @@ himself has also been ordered to follow its commandments.
 its verses is the most important responsibility for us to perform and it
 is also one of the duties towards the Imam.
 
-

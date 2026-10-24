@@ -8,11 +8,7 @@ it, is invited to the right path so he approaches it, and holds on to
 the guide so he is saved.
 
 > 1ـ رَحِمَ اللّهُ عَبْداً سَمِعَ حُكْماً فَوَعى، وَ دُعِيَ إلى رَشاد
-<blockquote dir="rtl">
-  <p>
-فَدَنى، وَ أخَذَ بِحُجْزَةِ هاد فَنَجا.
-  </p>
-</blockquote>
+> فَدَنى، وَ أخَذَ بِحُجْزَةِ هاد فَنَجا.
 
 2. Knowledge is not ruined except by the miscomprehension of the
 listener.
@@ -37,15 +33,10 @@ does not increase anything useful for you by listening to it, for verily
 this corrodes the hearts and leads to dispraise.
 
 > 6ـ عَوِّدْ أُذُنَكَ حُسْنَ الاِسْتِماعِ، وَ لاتُصْغِ إلى ما لايَزيدُ
-<blockquote dir="rtl">
-  <p>
-في صَلاحِكَ اِسْتِماعُهُ، فَإنَّ ذلِكَ يُصْدِيُ القُلُوبَ وَيُوجِبُ
-المَذامَّ.
-  </p>
-</blockquote>
+> في صَلاحِكَ اِسْتِماعُهُ، فَإنَّ ذلِكَ يُصْدِيُ القُلُوبَ وَيُوجِبُ
+> المَذامَّ.
 
 7. The listener is a partner of the speaker.
 
 > 7ـ السَّامِعُ شَريكُ القائِلِ.
-
 

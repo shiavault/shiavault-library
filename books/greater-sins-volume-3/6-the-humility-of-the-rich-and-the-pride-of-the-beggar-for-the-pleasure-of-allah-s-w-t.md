@@ -157,4 +157,3 @@ person.[^4]
 
 [^4]: Safinat’ul-Bihār quoted from Ikatisā
 
-

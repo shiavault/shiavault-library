@@ -42,4 +42,3 @@ Companions then to Muhammad (pbuh) himself.
 Quoted from the twelve Imams (Ahlul Bayt). Narration was straight
 through to Muhamma (pbuh) by way of Ali's registration of Hadith.d
 
-

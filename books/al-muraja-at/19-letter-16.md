@@ -3025,4 +3025,3 @@ others call him "Ibn ‘Ali."
 statement from al-Jawzjani while discussing the biographies of Zubayd,
 al-A’mash, and Abu Ishaq, and we included noteworthy comments on them.
 
-

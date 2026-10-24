@@ -85,27 +85,19 @@ Prophet’s *qurba* (relatives), have been mentioned in relation to
 unanimously accepted as the kin (*dhawu’l-qurba*) to whom the Holy
 Qur'an has referred to on more than one occasion, such as the following:
 
-<blockquote dir="rtl">
-  <p>
-وَاعْلَمُوا أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ إِن كُنتُمْ آمَنتُم بِاللَّهِ وَمَا أَنزَلْنَا
-عَلَىٰ عَبْدِنَا
-  </p>
-</blockquote>
+> وَاعْلَمُوا أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ إِن كُنتُمْ آمَنتُم بِاللَّهِ وَمَا أَنزَلْنَا
+> عَلَىٰ عَبْدِنَا
 
 ***Know that whatever thing you gain, a fifth of it is for Allah, the
 Messenger, the near of kin, the orphans, the needy, and the wayfarer, if
 you believe in Allah and in that which We revealed to Our servant…
 (8:41)***
 
-<blockquote dir="rtl">
-  <p>
-مَّا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ
-وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
-وَابْنِ السَّبِيلِ
-  </p>
-</blockquote>
+> مَّا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ
+> وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ
+> وَابْنِ السَّبِيلِ
 
 ***Whatever Allah has restored to His Messenger from the people of the
 towns, it is for Allah and for the Messenger and the near kinsmen and
@@ -128,14 +120,10 @@ Najdah ibn ‘Amir al-Haruri, a Kharijite, wrote a letter to Ibn ‘Abbas.
 Yazid confirmed that he was present when Ibn ‘Abbas received and replied
 to that letter:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّكَ سَأَلْتَنِي عَنْ سَهْمِ ذِي الْقُرْبَى الَّذِينَ ذَكَرَهُمُ
-اللهُ، مَنْ هُمْ. وَإِنَّا كُنَّا نَرَى أَنَّ قَرَابَةَ رَسُولِ اللهِ،
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ، هُمْ نَحْنُ، فَأَبَى ذَلِكَ عَلَيْنَا
-قَوْمُنَا.
-  </p>
-</blockquote>
+> إِنَّكَ سَأَلْتَنِي عَنْ سَهْمِ ذِي الْقُرْبَى الَّذِينَ ذَكَرَهُمُ
+> اللهُ، مَنْ هُمْ. وَإِنَّا كُنَّا نَرَى أَنَّ قَرَابَةَ رَسُولِ اللهِ،
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ، هُمْ نَحْنُ، فَأَبَى ذَلِكَ عَلَيْنَا
+> قَوْمُنَا.
 
 *“You have asked me about the share of the near of kin,” Ibn ‘Abbas
 wrote, “and about those relatives whom Almighty Allah mentioned. We have
@@ -144,14 +132,10 @@ but our people deprived us of it.”*[^4]
 
 According to another narration, Ibn ‘Abbas is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-سَهْمُ ذِي الْقُرْبَى لِقُرْبَى رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ، قَسَّمَهُ لَهُمْ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ
-وَآلِهِ. وَقَدْ كَانَ عُمَرُ عَرَضَ عَنْ ذَلِكَ فَرَأَيْنَاهُ دُونَ
-حَقِّنَا، فَرَدَدْنَاهُ عَلَيْهِ وَأَبَيْنَا أَنْ نَقْبَلَهُ.
-  </p>
-</blockquote>
+> سَهْمُ ذِي الْقُرْبَى لِقُرْبَى رَسُولِ اللهِ، صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ، قَسَّمَهُ لَهُمْ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ
+> وَآلِهِ. وَقَدْ كَانَ عُمَرُ عَرَضَ عَنْ ذَلِكَ فَرَأَيْنَاهُ دُونَ
+> حَقِّنَا، فَرَدَدْنَاهُ عَلَيْهِ وَأَبَيْنَا أَنْ نَقْبَلَهُ.
 
 *The share of the near of kin (qurba) is for the relatives of Allah’s
 Messenger (S) according to the distribution that he used to make. ‘Umar
@@ -160,14 +144,10 @@ we rejected it insisting on our legal share.*[^5]
 
 According to a third narration, Ibn ‘Abbas is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ لَنَا أَهْلَ الْبَيْتِ، وَقَدْ كَانَ عُمَرُ دَعَانَا إِلَى أَنْ
-يُنْكِحَ مِنْهُ أَيِّمَنَا، وَيُحْذِي مِنْهُ عَائِلَنَا، وَيَقْضِي
-مِنْهُ عَنْ مُغْرَمِنَا، فَأَبَيْنَا إِلاَّ أَنْ يُسَلِّمَهُ لَنَا،
-وَأَبَى لَنَا ذَلِكَ فَتَرَكْنَاهُ.
-  </p>
-</blockquote>
+> هُوَ لَنَا أَهْلَ الْبَيْتِ، وَقَدْ كَانَ عُمَرُ دَعَانَا إِلَى أَنْ
+> يُنْكِحَ مِنْهُ أَيِّمَنَا، وَيُحْذِي مِنْهُ عَائِلَنَا، وَيَقْضِي
+> مِنْهُ عَنْ مُغْرَمِنَا، فَأَبَيْنَا إِلاَّ أَنْ يُسَلِّمَهُ لَنَا،
+> وَأَبَى لَنَا ذَلِكَ فَتَرَكْنَاهُ.
 
 *The share of the near of kin (out of khums) is for us, the Ahl al-Bayt.
 However, ‘Umar suggested that he would restrict it to urgent occasions,
@@ -183,14 +163,10 @@ al-Bayt—regarding *khums*!”
 
 (Imam) ‘Ali (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-…أَنَّ عُمَرَ قَالَ: لَكُمْ حَقٌّ وَلاَ يَبْلُغُ عِلْمِي إِذَا كَثُرَ
-أَنْ يَكُونَ لَكُمْ كُلُّهُ، فَإِنْ شِئْتُمْ أَعْطَيْتُكُمْ مِنْهُ
-بِقَدْرِ مَا أَرَى لَكُمْ. فَأَبَيْنَا عَلَيْهِ إِلاَّ كُلَّهُ،
-فَأَبَى أَنْ يُعْطِيَنَا كُلَّهُ.
-  </p>
-</blockquote>
+> …أَنَّ عُمَرَ قَالَ: لَكُمْ حَقٌّ وَلاَ يَبْلُغُ عِلْمِي إِذَا كَثُرَ
+> أَنْ يَكُونَ لَكُمْ كُلُّهُ، فَإِنْ شِئْتُمْ أَعْطَيْتُكُمْ مِنْهُ
+> بِقَدْرِ مَا أَرَى لَكُمْ. فَأَبَيْنَا عَلَيْهِ إِلاَّ كُلَّهُ،
+> فَأَبَى أَنْ يُعْطِيَنَا كُلَّهُ.
 
 *…’Umar then said, “It is true that you enjoy a right, but as much as I
 know, it should not be given to you entirely when it is such a large
@@ -210,22 +186,14 @@ In *Tahdhib al-Ahkam*, Shaykh al-Tusi has reported on the authority of
 ‘Abdullah ibn Bukayr on the authority of some of his companions that
 Imam al-Baqir (‘a) or Imam al-Sadiq (‘a) had said:
 
-<blockquote dir="rtl">
-  <p>
-فِي قَوْلِهِ تَعَالَى: {وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ
-فَأَنَّ لِلَّهِ خُمُسَهُ…}
-  </p>
-</blockquote>
+> فِي قَوْلِهِ تَعَالَى: {وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ
+> فَأَنَّ لِلَّهِ خُمُسَهُ…}
 
-<blockquote dir="rtl">
-  <p>
-قَالَ: خُمُسُ اللهِ لِلإِمَامِ، وَخُمُسُ الرَّسُولِ لِلإِمَامِ،
-وَخُمُسُ ذَوِي الْقُرْبَى لِقَرَابَةِ الرَّسُولِ: الإِمَامِ،
-وَالْيَتَامَى يَتَامَى الرَّسُولِ، وَالْمَسَاكِينُ مِنْهُمْ،
-وَأَبْنَاءُ السَّبِيلِ مِنْهُمْ، فَلاَ يَخْرُجُ مِنْهُمْ إِلَى
-غَيْرِهِمْ.
-  </p>
-</blockquote>
+> قَالَ: خُمُسُ اللهِ لِلإِمَامِ، وَخُمُسُ الرَّسُولِ لِلإِمَامِ،
+> وَخُمُسُ ذَوِي الْقُرْبَى لِقَرَابَةِ الرَّسُولِ: الإِمَامِ،
+> وَالْيَتَامَى يَتَامَى الرَّسُولِ، وَالْمَسَاكِينُ مِنْهُمْ،
+> وَأَبْنَاءُ السَّبِيلِ مِنْهُمْ، فَلاَ يَخْرُجُ مِنْهُمْ إِلَى
+> غَيْرِهِمْ.
 
 *As regarding the interpretation of this verse,* ***“Know that whatever
 you gain, a fifth of it is for Allah”,*** *the one-fifth that is
@@ -247,14 +215,10 @@ Ahl al-Bayt (‘a).[^9]
 In (his book of) *al-Kafi*, Shaykh al-Kulayni has reported through a
 valid series of narrators, that Imam al-Baqir (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-فِي قَوْلِهِ تَعَالَى: ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ
-فَأَنَّ لِلَّهِ خُمُسَهُ…﴾ قَالَ: هُمْ قَرَابَةُ رَسُولِ اللهِ، صَلَّى
-اللهُ عَلَيْهِ وَآلِهِ، وَالْخُمُسُ للهِ وِلِلرَّسُولِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، وَلَنَا.
-  </p>
-</blockquote>
+> فِي قَوْلِهِ تَعَالَى: ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ
+> فَأَنَّ لِلَّهِ خُمُسَهُ…﴾ قَالَ: هُمْ قَرَابَةُ رَسُولِ اللهِ، صَلَّى
+> اللهُ عَلَيْهِ وَآلِهِ، وَالْخُمُسُ للهِ وِلِلرَّسُولِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، وَلَنَا.
 
 *Regarding the interpretation of this verse,* ***“Know that whatever you
 gain, a fifth of it is for Allah”,*** *the near of kin are exclusively
@@ -264,15 +228,11 @@ Allah, the Messenger (S), and us.*[^10]
 Shaykh al-Kulayni, through an authentic chain of authority, has also
 reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الأَنْفَالُ مَا لَمْ يُوجَفْ عَلَيْهِ بِخَيْلٍ وَلاَ رِكَابٍ، أَوْ
-قَوْمٌ صَالَحُوا، أَوْ قَوْمٌ أَعْطَوْا بِأَيْدِيهِمْ، وَكُلُّ أَرْضٍ
-خَرِبَةٍ وَبُطُونُ الأَوْدِيَةِ فَهُوَ لِرَسُولِ اللهِ، صَلَّى اللهُ
-عَلَيْهِ وَآلِهِ، وَهُوَ لِلإِمَامِ مِنْ بَعْدِهِ يَضَعُهُ حَيْثُ
-يَشَاءُ.
-  </p>
-</blockquote>
+> الأَنْفَالُ مَا لَمْ يُوجَفْ عَلَيْهِ بِخَيْلٍ وَلاَ رِكَابٍ، أَوْ
+> قَوْمٌ صَالَحُوا، أَوْ قَوْمٌ أَعْطَوْا بِأَيْدِيهِمْ، وَكُلُّ أَرْضٍ
+> خَرِبَةٍ وَبُطُونُ الأَوْدِيَةِ فَهُوَ لِرَسُولِ اللهِ، صَلَّى اللهُ
+> عَلَيْهِ وَآلِهِ، وَهُوَ لِلإِمَامِ مِنْ بَعْدِهِ يَضَعُهُ حَيْثُ
+> يَشَاءُ.
 
 *The anfal properties include estates towards which neither horse nor
 riding camel are sent forward, estates that are gained due to
@@ -358,13 +318,9 @@ the authority of Abu-Basir, Zurarah, and Muhammad ibn Muslim on the
 authority of Imam Muhammad al-Baqir (‘a) that Imam ‘Ali Amir al-Mu'minin
 (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-هَلَكَ النَّاسُ فِي بُطُونِهِمْ وَفُرُوجِهِمْ لأَِنَّهُمْ لَمْ
-يُؤَدُّوا إِلَيْنَا حَقَّنَا. أَلاَ وَإِنَّ شِيعَتَنَا مِنْ ذَلِكَ
-وَآبَاءَهُمْ فِي حِلٍّ.
-  </p>
-</blockquote>
+> هَلَكَ النَّاسُ فِي بُطُونِهِمْ وَفُرُوجِهِمْ لأَِنَّهُمْ لَمْ
+> يُؤَدُّوا إِلَيْنَا حَقَّنَا. أَلاَ وَإِنَّ شِيعَتَنَا مِنْ ذَلِكَ
+> وَآبَاءَهُمْ فِي حِلٍّ.
 
 *People are perishing because of their stomachs and private parts, since
 they have not fulfilled our rights over them. Our Shi’ah and their
@@ -374,15 +330,11 @@ Shaykh al-Tusi, in *Tahdhib al-Ahkam*, has reported on the authority of
 Muhammad ibn al-Hasan al-Saffar, through an authentic series of
 narrators, that Imam al-Sadiq (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ وَجَدَ بَرْدَ حُبِّنَا فِي كَبِدِهِ فَلْيَحْمِدِ اللهَ عَلَى
-أَوَّلِ النِّعَمِ... طِيبِ الْوِلاَدَةِ. قَالَ أَمِيرُ الْمُؤْمِنِينَ،
-عَلَيْهِ السَّلاَمُ، لِفَاطِمَةَ، عَلَيْهَا السَّلاَمُ: أَحِلِّي
-نَصِيبَكِ مِنَ الْفَيْءِ لآِبَاءِ شِيعَتِنَا لِيَطِيبُوا... إِنَّا
-أَحْلَلْنَا أُمَّهَاتِ شِيعَتِنَا لآِبَائِهِمْ لِيَطِيبُوا.
-  </p>
-</blockquote>
+> مَنْ وَجَدَ بَرْدَ حُبِّنَا فِي كَبِدِهِ فَلْيَحْمِدِ اللهَ عَلَى
+> أَوَّلِ النِّعَمِ... طِيبِ الْوِلاَدَةِ. قَالَ أَمِيرُ الْمُؤْمِنِينَ،
+> عَلَيْهِ السَّلاَمُ، لِفَاطِمَةَ، عَلَيْهَا السَّلاَمُ: أَحِلِّي
+> نَصِيبَكِ مِنَ الْفَيْءِ لآِبَاءِ شِيعَتِنَا لِيَطِيبُوا... إِنَّا
+> أَحْلَلْنَا أُمَّهَاتِ شِيعَتِنَا لآِبَائِهِمْ لِيَطِيبُوا.
 
 *Whoever finds the serenity of love for us in his heart must express
 thanks to Almighty Allah for the first of graces…the legitimacy of
@@ -396,13 +348,9 @@ In addition to Shaykh al-Tusi, in *Tahdhib al-Ahkam*, Shaykh al-Kulayni,
 in *Usul al-Kafi*, has reported Duraysh al-Kunnasi, through a valid
 chain of authority, as quoting the following from Imam al-Sadiq (‘a):
 
-<blockquote dir="rtl">
-  <p>
-أَتَدْرِي مِنْ أَيْنَ دَخَلَ عَلَى النَّاسِ الزِّنَا؟... مِنْ قِبَلِ
-خُمُسِنَا أَهْلَ الْبَيْتِ، إِلاَّ لِشِيعَتِنَا الأَطْيَبِينَ،
-فَإِنَّهُ مُحَلَّلٌ لَهُمْ وَلِمِيلاَدِهِمْ.
-  </p>
-</blockquote>
+> أَتَدْرِي مِنْ أَيْنَ دَخَلَ عَلَى النَّاسِ الزِّنَا؟... مِنْ قِبَلِ
+> خُمُسِنَا أَهْلَ الْبَيْتِ، إِلاَّ لِشِيعَتِنَا الأَطْيَبِينَ،
+> فَإِنَّهُ مُحَلَّلٌ لَهُمْ وَلِمِيلاَدِهِمْ.
 
 *Do you know why adultery has afflicted people?...It has afflicted them
 because they have not paid their one-fifth duty to us, i.e. the Ahl
@@ -423,16 +371,12 @@ to him.”
 
 The Imam (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-هَذَا لِشِيعَتِنَا حَلاَلٌ: الشَّاهِدِ مِنْهُمْ وَالْغَائِبِ،
-وَالْمَيِّتِ مِنْهُمْ وَالْحَيِّ، وَمَا يُولَدُ مِنْهُمْ إِلَى يَوْمِ
-الْقِيَامَةِ، فَهُوَ لَهُمْ حَلاَلٌ. أَمَا وَاللهِ، لاَ يَحِلُّ إِلاَّ
-لِمَنْ أَحْلَلْنَا لَهُ، وَلاَ وَاللهِ مَا أَعْطَيْنَا أَحَداً
-ذِمَّةً، وَمَا عِنْدَنَا لأَِحَدٍ عَهْدٌ وَلاَ لأَِحَدٍ عِنْدَنَا
-مِيثَاقٌ.
-  </p>
-</blockquote>
+> هَذَا لِشِيعَتِنَا حَلاَلٌ: الشَّاهِدِ مِنْهُمْ وَالْغَائِبِ،
+> وَالْمَيِّتِ مِنْهُمْ وَالْحَيِّ، وَمَا يُولَدُ مِنْهُمْ إِلَى يَوْمِ
+> الْقِيَامَةِ، فَهُوَ لَهُمْ حَلاَلٌ. أَمَا وَاللهِ، لاَ يَحِلُّ إِلاَّ
+> لِمَنْ أَحْلَلْنَا لَهُ، وَلاَ وَاللهِ مَا أَعْطَيْنَا أَحَداً
+> ذِمَّةً، وَمَا عِنْدَنَا لأَِحَدٍ عَهْدٌ وَلاَ لأَِحَدٍ عِنْدَنَا
+> مِيثَاقٌ.
 
 *Those are legal for our Shi’ah—the present and the absent, the deceased
 and those alive, and those who have not yet been born up to the Day of
@@ -459,11 +403,7 @@ drink.
 
 The Imam (‘a) replied:
 
-<blockquote dir="rtl">
-  <p>
-مَنْ أَعْوَزَهُ شَيْءٌ مِنْ حَقِّي فَهُوَ فِي حِلٍّ.
-  </p>
-</blockquote>
+> مَنْ أَعْوَزَهُ شَيْءٌ مِنْ حَقِّي فَهُوَ فِي حِلٍّ.
 
 *Anyone who needs any of my right is allowed to utilize it.*[^18]
 
@@ -480,11 +420,7 @@ neglected your right.”
 
 Imam al-Sadiq (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-مَا أَنْصَفْنَاكُمْ إِنْ كَلَّفْنَاكُمْ ذَلِكَ الْيَوْمَ.
-  </p>
-</blockquote>
+> مَا أَنْصَفْنَاكُمْ إِنْ كَلَّفْنَاكُمْ ذَلِكَ الْيَوْمَ.
 
 *If today we impose upon you to give us our rights out of these, then we
 will not have treated you fairly.*[^19]
@@ -508,19 +444,15 @@ ruling derived from the holy verse must be kept unrestricted.
 In a validly reported tradition, ‘Ali ibn Mahziyar reported Imam
 al-Jawad (‘a) to have said the following:
 
-<blockquote dir="rtl">
-  <p>
-فَأَمَّا الْغَنَائِمُ وَالْفَوَائِدُ فَهِيَ وَاجِبَةٌ عَلَيْهِمْ فِي
-كُلِّ عَامٍ. قَالَ اللهُ تَعَالَى: ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ
-مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى
-وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِنْ كُنتُمْ
-آمَنْتُمْ بِاللَّهِ وَمَا أَنزَلْنَا عَلَى عَبْدِنَا يَوْمَ
-الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ
-قَدِيرٌ﴾ فَالْغَنَائِمُ وَالْفَوَائِدُ، يَرْحَمُكَ اللهُ، فَهِيَ
-الْغَنِيمَةُ يَغْنَمُهَا الْمَرْءُ وَالْفَائِدَةُ يُفِيدُهَا،
-وَالْجَائِزَةُ مِنَ الإِنْسَانِ لِلإِنْسَانِ الَّتِي لَهَا خَطَرٌ…
-  </p>
-</blockquote>
+> فَأَمَّا الْغَنَائِمُ وَالْفَوَائِدُ فَهِيَ وَاجِبَةٌ عَلَيْهِمْ فِي
+> كُلِّ عَامٍ. قَالَ اللهُ تَعَالَى: ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ
+> مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى
+> وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِنْ كُنتُمْ
+> آمَنْتُمْ بِاللَّهِ وَمَا أَنزَلْنَا عَلَى عَبْدِنَا يَوْمَ
+> الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ
+> قَدِيرٌ﴾ فَالْغَنَائِمُ وَالْفَوَائِدُ، يَرْحَمُكَ اللهُ، فَهِيَ
+> الْغَنِيمَةُ يَغْنَمُهَا الْمَرْءُ وَالْفَائِدَةُ يُفِيدُهَا،
+> وَالْجَائِزَةُ مِنَ الإِنْسَانِ لِلإِنْسَانِ الَّتِي لَهَا خَطَرٌ…
 
 *As for gains and profit, they are obligatorily subject to taxation each
 year. Almighty Allah* *has said,* ***“Know that whatever thing you gain,
@@ -550,11 +482,7 @@ few or much, to all professions and crafts, and how they are applied.
 
 The Imam’s reply (in a written form) was the following:
 
-<blockquote dir="rtl">
-  <p>
-الْخُمُسُ بَعْدَ الْمَؤُونَةِ.
-  </p>
-</blockquote>
+> الْخُمُسُ بَعْدَ الْمَؤُونَةِ.
 
 *All is subjected to khums after excluding the (annual)
 provisions.*[^22]
@@ -567,11 +495,7 @@ reconstructing his farm, and only sixty *kurr* remained for him…
 
 The Imam (‘a) answered (in a written form):
 
-<blockquote dir="rtl">
-  <p>
-لِي مِنْهُ الْخُمُسُ مِمَّا يَفْضُلُ مِنْ مَؤُونَتِهِ.
-  </p>
-</blockquote>
+> لِي مِنْهُ الْخُمُسُ مِمَّا يَفْضُلُ مِنْ مَؤُونَتِهِ.
 
 *Out of the remainder, after he deducts his annual provisions, one fifth
 is for me.*[^23]
@@ -583,11 +507,7 @@ amount of) your right, but I could not answer.”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَجِبُ عَلَيْهِمُ الْخُمُسُ.
-  </p>
-</blockquote>
+> يَجِبُ عَلَيْهِمُ الْخُمُسُ.
 
 *It is obligatory upon them to pay khums (one-fifth portion).*
 
@@ -595,11 +515,7 @@ The Imam (‘a) answered:
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-فِي أَمْتِعَتِهِمْ وَصَنَائِعِهِمْ.
-  </p>
-</blockquote>
+> فِي أَمْتِعَتِهِمْ وَصَنَائِعِهِمْ.
 
 *The money of their belongings and their crafts is subjected to khums.*
 
@@ -607,11 +523,7 @@ The Imam (‘a) answered:
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-إِذَا أَمْكَنَهُمْ بَعْدَ مَؤُونَتِهِمْ.
-  </p>
-</blockquote>
+> إِذَا أَمْكَنَهُمْ بَعْدَ مَؤُونَتِهِمْ.
 
 *Yes, when possible (i.e. when something remains) after setting apart
 their annual provisions.*[^24]
@@ -927,18 +839,14 @@ this chapter.
 Through a valid chain of authority, Shaykh al-Kulayni, in his book of
 *al-Kafi*, has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-الْمُسْلِمُ أَخُو الْمُسْلِمِ؛ لاَ يَظْلِمُهُ وَلاَ يَخْذُلُهُ وَلاَ
-يَخُونُهُ. وَيَحِقُّ عَلَى الْمُسْلِمِينَ الإجْتِهَادُ فِي
-التَّوَاصُلِ وَالتَّعَاقُدِ عَلَى التَّعَاطُفِ وَالْمُوَاسَاةُ
-لأَِهْلِ الْحَاجَةِ وَتَعَاطُفِ بَعْضِهِمْ عَلَى بَعْضٍ حَتَّى
-تَكُونُوا كَمَا أَمَرَكُمُ اللهُ عَزَّ وَجَلَّ، رُحَمَاءَ بَيْنَكُمْ
-مُتَرَاحِمِينَ مُغْتَمِّينَ لِمَا غَابَ عَنْكُمْ مِنْ أَمْرِهِمْ عَلَى
-مَا مَضَى عَلَيْهِ مَعْشَرُ الأَنْصَارِ عَلَى عَهْدِ رَسُولِ اللهِ
-صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ.
-  </p>
-</blockquote>
+> الْمُسْلِمُ أَخُو الْمُسْلِمِ؛ لاَ يَظْلِمُهُ وَلاَ يَخْذُلُهُ وَلاَ
+> يَخُونُهُ. وَيَحِقُّ عَلَى الْمُسْلِمِينَ الإجْتِهَادُ فِي
+> التَّوَاصُلِ وَالتَّعَاقُدِ عَلَى التَّعَاطُفِ وَالْمُوَاسَاةُ
+> لأَِهْلِ الْحَاجَةِ وَتَعَاطُفِ بَعْضِهِمْ عَلَى بَعْضٍ حَتَّى
+> تَكُونُوا كَمَا أَمَرَكُمُ اللهُ عَزَّ وَجَلَّ، رُحَمَاءَ بَيْنَكُمْ
+> مُتَرَاحِمِينَ مُغْتَمِّينَ لِمَا غَابَ عَنْكُمْ مِنْ أَمْرِهِمْ عَلَى
+> مَا مَضَى عَلَيْهِ مَعْشَرُ الأَنْصَارِ عَلَى عَهْدِ رَسُولِ اللهِ
+> صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ.
 
 *Muslims are brothers of each other. They neither wrong, nor disappoint,
 nor betray each other. The duties that are incumbent on Muslims towards
@@ -972,11 +880,7 @@ obligatory to pay such an amount.[^33]
 
 The holy verse involved is the following:
 
-<blockquote dir="rtl">
-  <p>
-لُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
-  </p>
-</blockquote>
+> لُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
 
 ***Pay the due of it on the day of its reaping. (6:141)***
 
@@ -984,19 +888,11 @@ Through a valid chain of authority, Shaykh al-Kulayni, in his book of
 *al-Kafi*, has reported Zurarah, Muhammad ibn Muslim, and Abu-Basir as
 quoting Imam al-Baqir (‘a) to have said:
 
-<blockquote dir="rtl">
-  <p>
-لُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
-  </p>
-</blockquote>
+> لُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
 
-<blockquote dir="rtl">
-  <p>
-هَذَا مِنَ الصَّدَقَةِ. يُعْطِي الْمُسْلِمُونَ الْقَبْضَةَ بَعْدَ
-الْقَبْضَةِ وَمِنَ الْجِدَادِ الْحَفْنَةَ بَعْدَ الْحَفْنَةِ حَتَّى
-يَفْرُغَ.
-  </p>
-</blockquote>
+> هَذَا مِنَ الصَّدَقَةِ. يُعْطِي الْمُسْلِمُونَ الْقَبْضَةَ بَعْدَ
+> الْقَبْضَةِ وَمِنَ الْجِدَادِ الْحَفْنَةَ بَعْدَ الْحَفْنَةِ حَتَّى
+> يَفْرُغَ.
 
 *The verse,* ***“pay the due of it on the day of its reaping”
 (6:141),*** *mentions a sort of alms. Muslims give one sheaf after
@@ -1022,12 +918,8 @@ who is denied good. (70:24-25)”***
 
 The Imam (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-الْحَقُّ الْمَعْلُومُ، الشَّيْءُ يُخْرِجُهُ مِنْ مَالِهِ لَيْسَ مِنَ
-الزَّكَاةِ وَلاَ مِنَ الصَّدَقَةِ الْمَفْرُوضَتَيْنِ.
-  </p>
-</blockquote>
+> الْحَقُّ الْمَعْلُومُ، الشَّيْءُ يُخْرِجُهُ مِنْ مَالِهِ لَيْسَ مِنَ
+> الزَّكَاةِ وَلاَ مِنَ الصَّدَقَةِ الْمَفْرُوضَتَيْنِ.
 
 *The fixed portion is a duty, other than zakat and alms, which one pays
 from one’s funds.*
@@ -1036,12 +928,8 @@ The man asked, “If it is neither *zakat* nor alms, what is it then?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-هُوَ الشَّيْءُ يُخْرِجُهُ الرَّجُلُ مِنْ مَالِهِ، إِنْ شَاءَ أَكْثَرَ
-وَإِنْ شَاءَ أَقَلَّ، عَلَى قَدْرِ مَا يَمْلِكُ.
-  </p>
-</blockquote>
+> هُوَ الشَّيْءُ يُخْرِجُهُ الرَّجُلُ مِنْ مَالِهِ، إِنْ شَاءَ أَكْثَرَ
+> وَإِنْ شَاءَ أَقَلَّ، عَلَى قَدْرِ مَا يَمْلِكُ.
 
 *It is the portion that one pays from one’s funds according to one’s
 property. One can pay much or little, according to one’s will.*
@@ -1050,12 +938,8 @@ The man asked, “What is that portion used for?”
 
 The Imam (‘a) answered:
 
-<blockquote dir="rtl">
-  <p>
-يَصِلُ بِهِ رَحِماً، وَيُقَوِّي بِهِ ضَعِيفاً، وَيَحْمِلُ بِهِ كَلاًّ،
-أَوْ يَصِلُ بِهِ أَخاً لَهُ فِي اللهِ، أَوْ لِنَائِبَةٍ تَنُوبُهُ.
-  </p>
-</blockquote>
+> يَصِلُ بِهِ رَحِماً، وَيُقَوِّي بِهِ ضَعِيفاً، وَيَحْمِلُ بِهِ كَلاًّ،
+> أَوْ يَصِلُ بِهِ أَخاً لَهُ فِي اللهِ، أَوْ لِنَائِبَةٍ تَنُوبُهُ.
 
 *One may make firm relations with one’s relatives, financially
 strengthen a destitute person, alleviate someone’s burden, improve
@@ -1128,16 +1012,12 @@ Besides the tradition already cited on p. 92, as reported by Shaykh
 al-Kulayni in his book of *al-Kafi* from Furat ibn Ahnaf, Imam al-Sadiq
 (‘a) said:
 
-<blockquote dir="rtl">
-  <p>
-أَيُّمَا مُؤْمِنٍ مَنَعَ مُؤْمِناً شَيْئاً مِمَّا يَحْتَاجُ إِلَيْهِ
-وَهُوَ يَقْدِرُ عَلَيْهِ مِنْ عِنْدِهِ أَوْ مِنْ عِنْدِ غَيْرِهِ،
-أَقَامَهُ اللهُ يَوْمَ الْقِيَامَةِ مُسْوَدّاً وَجْهُهُ، مُزْرَقَّةً
-عَيْنَاهُ، مَغْلُولَةً يَدَاهُ إِلَى عُنُقِهِ، فَيُقَالُ: هَذَا
-الْخَائِنُ الَّذِي خَانَ اللهَ وَرَسُولَهُ. ثُمَّ يُؤْمَرُ بِهِ إِلَى
-النَّارِ.
-  </p>
-</blockquote>
+> أَيُّمَا مُؤْمِنٍ مَنَعَ مُؤْمِناً شَيْئاً مِمَّا يَحْتَاجُ إِلَيْهِ
+> وَهُوَ يَقْدِرُ عَلَيْهِ مِنْ عِنْدِهِ أَوْ مِنْ عِنْدِ غَيْرِهِ،
+> أَقَامَهُ اللهُ يَوْمَ الْقِيَامَةِ مُسْوَدّاً وَجْهُهُ، مُزْرَقَّةً
+> عَيْنَاهُ، مَغْلُولَةً يَدَاهُ إِلَى عُنُقِهِ، فَيُقَالُ: هَذَا
+> الْخَائِنُ الَّذِي خَانَ اللهَ وَرَسُولَهُ. ثُمَّ يُؤْمَرُ بِهِ إِلَى
+> النَّارِ.
 
 *If any believer (mu'min) refrains from meeting the needs of another
 believer while he can do so or he can mediate with another person who
@@ -1165,29 +1045,17 @@ harsh destitution.
 
 Mufadhdhal ibn Yazid has reported Imam al-Sadiq (‘a) as saying:
 
-<blockquote dir="rtl">
-  <p>
-أُنْظُرْ مَا أَصَبْتَ فَعُدْ بِهِ عَلَى إِخْوَانِكَ، فَإِنَّ اللهَ
-يَقُولُ:
-  </p>
-</blockquote>
+> أُنْظُرْ مَا أَصَبْتَ فَعُدْ بِهِ عَلَى إِخْوَانِكَ، فَإِنَّ اللهَ
+> يَقُولُ:
 
-<blockquote dir="rtl">
-  <p>
-إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ
-  </p>
-</blockquote>
+> إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ
 
-<blockquote dir="rtl">
-  <p>
-قَالَ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ: ثَلاَثَةٌ لاَ
-تُطِيقُهَا هَذِهِ الأُمَّةُ: الْمُوَاسَاةُ لِلأَخِ فِي مَالِهِ،
-وَإِنْصَافُ النَّاسِ مِنْ نَفْسِهِ، وَذِكْرُ اللهِ عَلَى كُلِّ حَالٍ.
-وَلَيْسَ هُوَ: سُبْحَانَ اللهِ وَالْحَمْدُ للهِ وَلاَ إِلَهَ إِلاَّ
-اللهُ وَاللهُ أَكْبَرُ، فَقَطْ؛ وَلَكِنْ إِذَا وَرَدَ عَلَى مَا
-يُحَرَّمُ، خَافَ اللهَ.
-  </p>
-</blockquote>
+> قَالَ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَآلِهِ: ثَلاَثَةٌ لاَ
+> تُطِيقُهَا هَذِهِ الأُمَّةُ: الْمُوَاسَاةُ لِلأَخِ فِي مَالِهِ،
+> وَإِنْصَافُ النَّاسِ مِنْ نَفْسِهِ، وَذِكْرُ اللهِ عَلَى كُلِّ حَالٍ.
+> وَلَيْسَ هُوَ: سُبْحَانَ اللهِ وَالْحَمْدُ للهِ وَلاَ إِلَهَ إِلاَّ
+> اللهُ وَاللهُ أَكْبَرُ، فَقَطْ؛ وَلَكِنْ إِذَا وَرَدَ عَلَى مَا
+> يُحَرَّمُ، خَافَ اللهَ.
 
 *Whatever you gain (from the money of the ruler), you may donate it to
 your brethren-in-faith, for Almighty Allah says,* ***“Surely, good deeds
@@ -1244,12 +1112,8 @@ praise) those who give others preference over themselves?”*
 
 *The Imam (‘a) said:*
 
-<blockquote dir="rtl">
-  <p>
-إِذَا قَاسَمْتَهُ لَمْ تُؤْثِرْهُ، إِنَّمَا تُؤْثِرُهُ إِذَا أَنْتَ
-أَعْطَيْتَهُ مِنَ النِّصْفِ الآخَرِ.
-  </p>
-</blockquote>
+> إِذَا قَاسَمْتَهُ لَمْ تُؤْثِرْهُ، إِنَّمَا تُؤْثِرُهُ إِذَا أَنْتَ
+> أَعْطَيْتَهُ مِنَ النِّصْفِ الآخَرِ.
 
 *“If you give your brother-in-faith half of what you have, you have not
 yet given him preference over yourself. Only when you give him from the
@@ -1257,15 +1121,11 @@ other half, have you given him* *preference.”*[^40]
 
 Imam ‘Ali Amir al-Mu'minin (‘a) is reported to have said:
 
-<blockquote dir="rtl">
-  <p>
-سِتُّ خِصَالٍ مَنْ كُنَّ فِيهِ كَانَ بَيْنَ يَدَيِ اللهِ وَعَنْ
-يَمِينِهِ: إِنَّ اللهَ يُحِبُّ الْمَرْءَ الْمُسْلِمَ الَّذِي يُحِبُّ
-لأَِخِيهِ مَا يُحِبُّ لِنَفْسِهِ، وَيَكْرَهُ لَهُ مَا يَكْرَهُ
-لِنَفْسِهِ، وَيُنَاصِحُهُ الْوِلاَيَةَ، وَيَعْرِفُ فَضْلِي، وَيَطَأُ
-عَقِبِي، وَيَنْظُرُ عَاقِبَتِي.
-  </p>
-</blockquote>
+> سِتُّ خِصَالٍ مَنْ كُنَّ فِيهِ كَانَ بَيْنَ يَدَيِ اللهِ وَعَنْ
+> يَمِينِهِ: إِنَّ اللهَ يُحِبُّ الْمَرْءَ الْمُسْلِمَ الَّذِي يُحِبُّ
+> لأَِخِيهِ مَا يُحِبُّ لِنَفْسِهِ، وَيَكْرَهُ لَهُ مَا يَكْرَهُ
+> لِنَفْسِهِ، وَيُنَاصِحُهُ الْوِلاَيَةَ، وَيَعْرِفُ فَضْلِي، وَيَطَأُ
+> عَقِبِي، وَيَنْظُرُ عَاقِبَتِي.
 
 *Whoever enjoys the following six features will be before and on the
 right hand side of Almighty Allah: Almighty Allah surely loves the
@@ -1415,5 +1275,4 @@ dharuratihi (Chapter on prohibition of forsaking necessary aid to
 faithful believers). Likewise, Martyr al-Sadr, in his book of iqtisaduna
 (Our Economy), seems to believe in the obligation of the first duty, yet
 with the aforementioned stipulation. Finally, Almighty Allah knows best.
-
 

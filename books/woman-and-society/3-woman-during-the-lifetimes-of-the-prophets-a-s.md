@@ -213,7 +213,6 @@ and recognise the rights of each other.
 If the woman who follows the material civilization knows her position
 and respect in Islam, she will embrace it.
 
-
 **Preparing the Women to fulfill their Tasks**
 
 The process of preparing and educating has an important effect on
@@ -345,7 +344,6 @@ civilization. Rather on the foundation of respecting woman's humanity
 and granting her her rights, for she is a human being with qualities and
 rights and character.
 
-
 **Building through Family Relationships**
 
 It has become clear that society stands on three basic pillars. They
@@ -464,5 +462,4 @@ her children, and her family. For she is responsible for looking after
 her house and her children. Moreover, she is responsible for bringing up
 her children in a good manner and treating them with love and
 kindness.
-
 

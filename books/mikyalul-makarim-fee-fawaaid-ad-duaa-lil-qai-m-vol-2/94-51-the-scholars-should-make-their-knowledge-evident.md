@@ -21,4 +21,3 @@ supposed to observe Taqayyah as will be seen in the coming discussions.
 
 [^2]: Usool Kafi, Vol. 2, Pg. 375
 
-

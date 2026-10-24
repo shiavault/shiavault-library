@@ -127,7 +127,6 @@ Never. May God ward off such malevolence?
 "There is no success to me except from Allah whom I depend upon and
 whom I resign to."
 
-
 **Foreword**
 
 The form of research varies and the outlook differs in investigations
@@ -281,5 +280,4 @@ benefits that he may use latter on.
 What we have explained, is the need; there is not need to depend upon
 the matters about which we have explained. Each chapter that occurs to
 us we shall explain by the help of God.
-
 

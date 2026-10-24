@@ -161,4 +161,3 @@ For God-fearers, the sort of god a natural scientist might want – that
 is, one who establishes his existence and identity in terms of natural
 causes and effects – is no God at all.
 
-

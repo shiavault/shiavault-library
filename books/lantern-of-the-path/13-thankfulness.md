@@ -18,17 +18,11 @@ of worship better than that, He has singled out this kind of worship
 from other kinds of worship, and has singled out those who practise this
 kind of worship, saying,
 
-
-<blockquote dir="rtl">
-  <p>
-وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ
-  </p>
-</blockquote>
+> وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ
 
 *** ***
 
 ***Very few of my servants are grateful.*** (34:13)
-
 
 Complete thankfulness is to sincerely repent your inability to convey
 the least amount of gratitude, and expressing this by means of your
@@ -46,6 +40,4 @@ is weak and has no power whatsoever, except from Allah?
 Allah is not in need of the obedience of His bondsmen, for He has the
 power to increase blessings forever. Therefore be a grateful bondsman to
 Allah, and in this manner you will see wonders.
-
-
 

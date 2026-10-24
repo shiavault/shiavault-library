@@ -55,4 +55,3 @@ with Umme Kulthum binte Fatima.
 
 [^1]: Ref. Ma’rif of Ibn Qutaibah.
 
-

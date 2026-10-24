@@ -494,4 +494,3 @@ Shia Islam', Qum, Ansarian Publications p. 134.
 
 [^14]: Ibn. Athir - 'Al Kamil' vol.2, p.449.
 
-

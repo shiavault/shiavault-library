@@ -763,4 +763,3 @@ The Bodies of these Martyrs were buried on 3rd day by tribesmen of Bani
 Asad, guided by the fourth Imam who was with them miraculously while in
 prison in Kufa.
 
-

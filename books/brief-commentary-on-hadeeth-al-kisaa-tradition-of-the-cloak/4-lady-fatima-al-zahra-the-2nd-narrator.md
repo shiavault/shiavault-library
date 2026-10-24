@@ -1,12 +1,8 @@
 Lady Fatima Al Zahra – The 2nd Narrator
 =======================================
 
-<blockquote dir="rtl">
-  <p>
-عن فاطمة الزهراء ( عليها السَّلام ) بنت رسول الله ( صلَّى الله عليه و
-آله )
-  </p>
-</blockquote>
+> عن فاطمة الزهراء ( عليها السَّلام ) بنت رسول الله ( صلَّى الله عليه و
+> آله )
 
 Jabir ibn Abdullah Al Ansari, the trustworthy companion of the Holy
 Prophet (SA) narrates Hadeeth Al Kisaa directly from the pure tongue of
@@ -40,5 +36,4 @@ The fact that the Prophet (SA) declined the request of Umm Salamah to
 enter the cloak, as we will see later, although he acknowledged her
 positive status and that she is “good”, eliminates the idea that the
 wives are included among the People of the Cloak.
-
 

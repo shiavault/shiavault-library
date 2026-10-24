@@ -21,4 +21,3 @@ for Medina. Yazid sent Muslim ibn Aqaba to Medina who created one of the
 saddest tragedies recorded in the history books. The event added to the
 horror and fear of the people.
 
-

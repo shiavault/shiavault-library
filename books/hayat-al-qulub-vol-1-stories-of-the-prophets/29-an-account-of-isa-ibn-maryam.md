@@ -3583,4 +3583,3 @@ al-Mahdi who is the twelfth Imam and except ‘Isa Ibn-Maryam the spirit
 of Allah will pray behind him as these two gentlemen will never give the
 Bait (allegiance) to any oppressor.
 
-

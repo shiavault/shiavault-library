@@ -57,4 +57,3 @@ references in order to arrive at appropriate answers: "The Creator of
 the Universe," "In search of Allah," and "Religious Questions and
 Answers."
 
-

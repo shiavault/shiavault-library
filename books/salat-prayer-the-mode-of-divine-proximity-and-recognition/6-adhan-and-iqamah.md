@@ -233,11 +233,7 @@ Consequently, all his thoughts are focussed only on Him, and for the
 sake of his heart’s contentment, he prepares himself for *Salat*, quiet
 conversation with his Lord, and the fulfillment of his needs.
 
-<blockquote dir="rtl">
-  <p>
-ألا بِذِكْرِ اللهِ تَطمَئِنُّ الْقُلُوبُ
-  </p>
-</blockquote>
+> ألا بِذِكْرِ اللهِ تَطمَئِنُّ الْقُلُوبُ
 
 ***“Know! Only with the remembrance of Allah do the hearts gain
 contentment.” (Qur’an, 13:28)***
@@ -250,5 +246,4 @@ statement, ‘Hasten to the best of deeds’, on account of dissimulation
 (taqiya)
 
 [^3]: Ma’ani al akhbar, p. 38-41
-
 
